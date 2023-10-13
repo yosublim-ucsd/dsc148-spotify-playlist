@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,428 likes - 50 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,470 likes - 50 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 38 | [The Smell Of Suds And Steel](https://open.spotify.com/track/0wZ7yAcRnaY9Lz0YJiSizK) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Qualm](https://open.spotify.com/album/2hYmcjIinZoVCog5sP4k0H) | 8:11 |
 | 39 | [Land Of Confusion](https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH) | [Armando](https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53) | [Trax Classix](https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv) | 2:58 |
 | 40 | [Sound 6](https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [I Have a Question](https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5) | 6:01 |
-| 41 | [Afrofunk \(Valique Boogie Brother Remix\)](https://open.spotify.com/track/3bd2zgQZ8YZZSEoFAYjlrv) | [Timewarp Inc](https://open.spotify.com/artist/1LxC10tZiw6AYtRcemcvKr), [Valique](https://open.spotify.com/artist/5IdyZix2HjYLOb1fvN7oaH) | [Adventures in Acid Boogie, Vol.2](https://open.spotify.com/album/5naCHwy40cRVsbtr0zR1VC) | 5:25 |
-| 42 | [The Garden of Eden \(A Himalayan Song\)](https://open.spotify.com/track/2yheDn4bIOJVZmfDSTzILA) | [The Garden Of Eden](https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af), [Angela McCluskey](https://open.spotify.com/artist/0cJMitw1iwiFVc1MwfRxWX), [Mark Tinley](https://open.spotify.com/artist/0ytLhQB1D6Syrgetn8QHco), [Pam Hogg](https://open.spotify.com/artist/7uyKQ6IUwjoSSiwvmFi0YG) | [The Garden of Eden](https://open.spotify.com/album/0zRO73WKcyEzInguX9yubX) | 4:01 |
+| 41 | [The Garden of Eden \(A Himalayan Song\)](https://open.spotify.com/track/2yheDn4bIOJVZmfDSTzILA) | [The Garden Of Eden](https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af), [Angela McCluskey](https://open.spotify.com/artist/0cJMitw1iwiFVc1MwfRxWX), [Mark Tinley](https://open.spotify.com/artist/0ytLhQB1D6Syrgetn8QHco), [Pam Hogg](https://open.spotify.com/artist/7uyKQ6IUwjoSSiwvmFi0YG) | [The Garden of Eden](https://open.spotify.com/album/0zRO73WKcyEzInguX9yubX) | 4:01 |
+| 42 | [Afrofunk \(Valique Boogie Brother Remix\)](https://open.spotify.com/track/3bd2zgQZ8YZZSEoFAYjlrv) | [Timewarp Inc](https://open.spotify.com/artist/1LxC10tZiw6AYtRcemcvKr), [Valique](https://open.spotify.com/artist/5IdyZix2HjYLOb1fvN7oaH) | [Adventures in Acid Boogie, Vol.2](https://open.spotify.com/album/5naCHwy40cRVsbtr0zR1VC) | 5:25 |
 | 43 | [Acid Bit \(feat\. Addison Groove\)](https://open.spotify.com/track/1j4bvX0pHJm2vtjphhD6hp) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [Double Cup](https://open.spotify.com/album/4EAuFwsFpxj4S7K4licbT7) | 3:24 |
 | 44 | [Acid Trax](https://open.spotify.com/track/5j72kVstS2gHKl8zWJDNz0) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Phuture and Other Classics from DJ Pierre](https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy) | 11:49 |
 | 45 | [Tokyo](https://open.spotify.com/track/6tbVS79XlDQNSctKIYEhkP) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [For Those Who](https://open.spotify.com/album/2ClfMqAZvuQ8uFH9z5Ac90) | 6:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 49 | [Everybody Needs A 303](https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Better Living Through Chemistry](https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB) | 5:49 |
 | 50 | [Do You Feel The Same?](https://open.spotify.com/track/0irwK3Hld6BTGAWH9CFjop) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [The Feast Of The Broken Heart](https://open.spotify.com/album/6fyz9Ic9kY0zdayyNOpoKH) | 4:41 |
 
-Snapshot ID: `MCwzMGI1ZDE1ODE1OWI5YTA0ZDFmMjMwODFiMzZlMWEwNzQyOTc5OTll`
+Snapshot ID: `MCw5MzExM2VmNzFkNDcwYTFhMmVkM2UyNjEyZmI3ODQ4OWFkOTgwNmRj`

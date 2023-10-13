@@ -4,7 +4,7 @@
 
 > Soft and cozy sounds of Bossa nova.
 
-81 songs - 5 hr 22 min
+84 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Dindi](https://open.spotify.com/track/0v2LWjMTUcwl49SLxflj9n) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [Dindi](https://open.spotify.com/album/77UUjAXL27yMKkyWzam0xL) | 2:41 | 2023-05-11 |  |
 | [Enjoy Your Cigar](https://open.spotify.com/track/5WaOOx9Q5BJhJAfQaxnaaN) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [Sunset Martini](https://open.spotify.com/album/7wVdlgOP7d5mRO64fvspVb) | 3:42 | 2023-05-11 |  |
 | [Estate](https://open.spotify.com/track/29nsxzITJQJpaja7RvTupi) | [Mellow In Blue](https://open.spotify.com/artist/0XqUdduCt8Hmk0fGxzpdR4), [Mathias Heise](https://open.spotify.com/artist/5VDMcXFNkMZ3bB9bt9jRFW), [Erlend Slettevoll](https://open.spotify.com/artist/1Wvn3eBW8X5DeD2pwnTjYS), [Johnny Åman](https://open.spotify.com/artist/1eAt5Qjg9RPfYAhxl723YW), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Estate](https://open.spotify.com/album/1lpsAqYN6I6uyiawUgBHFM) | 5:18 | 2023-05-11 |  |
+| [Estrella Nueva](https://open.spotify.com/track/52LtqSJTlaazA0LE5LeLXt) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [Estrella Nueva](https://open.spotify.com/album/2Sr0JrPADZucr0Fe4pb1zo) | 2:36 | 2023-10-13 |  |
 | [Everything I Love](https://open.spotify.com/track/1HmfqLGKxU3pSnhs2n0RDn) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [Everything I Love](https://open.spotify.com/album/0xEdEQEBbOvXAS640Ii8PP) | 4:31 | 2023-05-11 |  |
 | [Favela \- Remastered](https://open.spotify.com/track/13Y8guAjsfss2WPIINuoYd) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) | 4:00 | 2023-05-11 |  |
 | [Fim do verão](https://open.spotify.com/track/31wVCqF1fJTpgLPraYmQPg) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Fim do verão](https://open.spotify.com/album/5sofxaOfF8vLaLAvn9hlzN) | 3:50 | 2023-08-31 |  |
@@ -49,6 +50,7 @@
 | [La Boca](https://open.spotify.com/track/4bsNYygNqXlMyIznr6JMOq) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [La Boca](https://open.spotify.com/album/1KOMNG9vql5kg6q7IbEWe5) | 4:04 | 2023-09-22 |  |
 | [Lembranças](https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV) | [Vitor José Fonseca](https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu) | [Lembranças](https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW) | 4:04 | 2023-05-11 |  |
 | [Liljeholmsviken](https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 4:22 | 2023-05-11 |  |
+| [Lonely Desires](https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6) | [Amir Patel](https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy) | [Lonely Desires](https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1) | 2:41 | 2023-10-13 |  |
 | [Manha de Carnaval](https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound of Brazil](https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU) | 3:09 | 2023-05-11 |  |
 | [Meditação](https://open.spotify.com/track/4QdHwCmkuQuKfCuqK0VqOP) | [Michel Rosa](https://open.spotify.com/artist/5tGQbvcsEaVXQ5uD7NzfLV) | [Meditação](https://open.spotify.com/album/7uvnQx1Ih6etuDuFLamyzr) | 6:18 | 2023-05-11 |  |
 | [Morning Of The Carnival \- From "Black Orpheus"](https://open.spotify.com/track/6GQ6rapsknPIutGbpv0DTR) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 5:30 | 2023-05-11 |  |
@@ -79,6 +81,7 @@
 | [Tangeri](https://open.spotify.com/track/0iBFfy3N8H4vOKXrC85DE9) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Tangeri](https://open.spotify.com/album/12VCI8zliAWBO1nZNb4KQs) | 4:44 | 2023-08-10 |  |
 | [The Look Of Love](https://open.spotify.com/track/1DGRTR2cE0Sr9eTCeCztZY) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [The Look Of Love](https://open.spotify.com/album/3a7bqpNydrqKIXM9ViTxoH) | 2:13 | 2023-05-25 |  |
 | [The Shadow of Your Smile](https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Shadow Of Your Smile](https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ) | 3:52 | 2023-05-11 |  |
+| [Time Passes By](https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Time Passes By](https://open.spotify.com/album/3vbx6IdBvFjp0awFTBjA3u) | 2:31 | 2023-10-13 |  |
 | [Time Passing Slowly](https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Time Passing Slowly](https://open.spotify.com/album/2UFNvSBbtLOxzaFXxNoeKv) | 3:38 | 2023-05-11 |  |
 | [Verano](https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Verano](https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX) | 2:52 | 2023-05-11 |  |
 | [Vespertine](https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34) | [Hiro Suzuki](https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth) | [Vespertine](https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR) | 7:00 | 2023-05-11 |  |

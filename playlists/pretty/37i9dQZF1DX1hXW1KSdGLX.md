@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hXW1KSdGLX.md) - [plain]
 
 > The German producer and singer  <a href="spotify:artist:5cmqnZNaNDqgcsTOkQUmqB">Perel</a>  showcases her latest mix blending electro sounds and nudisco influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,638 likes - 12 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,652 likes - 12 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hXW1KSdGLX.md) - [plain]
 | 11 | [The Legacy \- Remastered 2001 Remake \- Mixed](https://open.spotify.com/track/0Bn6GufvCHmwDtvNx04Ybe) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [The Legacy \- Remastered 2001 Remake \(Mixed\)](https://open.spotify.com/album/3vdROvtP0s8rbvJSqiVJ74) | 7:34 |
 | 12 | [Freakshow \- Perel Remix \- Mixed](https://open.spotify.com/track/644NUeyLbYvR5iBwXrm9Dj) | [DJ Hell](https://open.spotify.com/artist/4WgFczZafuUFBvsCuSK44C), [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Freakshow \- Perel Remix \(Mixed\)](https://open.spotify.com/album/2lN4TsTvPNUD3bd3HWTzOJ) | 5:15 |
 
-Snapshot ID: `MCw1ZTBiNzYxM2Q2MWRiMDg3MmZkOWFmZWFhMmEwY2JhYjhjZGY1OWZk`
+Snapshot ID: `MCw0YTk1YWIxZGQ1MzVjNTIwNTg5MWM1YzQ2YTlhZWY0MzcyMTE4MTdi`

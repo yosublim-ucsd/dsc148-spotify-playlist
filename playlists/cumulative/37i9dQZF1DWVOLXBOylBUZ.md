@@ -4,7 +4,7 @@
 
 > Latinoamérica baila al ritmo de Ovy on the Drums, Bad Gyal y Ryan Castro.
 
-741 songs - 1 day 15 hr 33 min
+742 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,8 @@
 | [Low Key](https://open.spotify.com/track/1ZJG3aUT5sGmsita5dy7uQ) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [Low Key](https://open.spotify.com/album/3wj7f657nfJayDnnFZXj7e) | 2:31 | 2022-01-07 | 2022-01-15 |
 | [LQTQH](https://open.spotify.com/track/2rEtrKowZlSwB3YJU9KJhL) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [LQTQH](https://open.spotify.com/album/5HPXDjAoNY2sLab8HotJ59) | 2:41 | 2023-07-21 | 2023-09-30 |
 | [Luces De Neón](https://open.spotify.com/track/5B60XFKzm8WsJTdVyt4u4I) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Luces De Neón](https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS) | 3:39 | 2022-09-09 | 2023-01-14 |
-| [LUCES DE TECNO](https://open.spotify.com/track/3DBtvrhv3SAgK7s6zBGgbe) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:43 | 2023-09-29 |  |
+| [LUCES DE TECNO](https://open.spotify.com/track/3DBtvrhv3SAgK7s6zBGgbe) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:43 | 2023-09-29 | 2023-10-13 |
+| [LUCES DE TECNO](https://open.spotify.com/track/0goXAEnjWhssHU0y9Zyqyf) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:44 | 2023-10-10 |  |
 | [Lucifer](https://open.spotify.com/track/6mFLA8Tq4MlnhyUGV7Tf4I) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Lucifer](https://open.spotify.com/album/3ID0TDMh101kcidA9TrwWr) | 2:54 | 2022-05-20 | 2022-10-01 |
 | [Lío](https://open.spotify.com/track/3Z0Ljf7at9S7ZRJM63uq4I) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Lío](https://open.spotify.com/album/0kzO37PJ7zVbRBv1Kruee8) | 2:46 | 2023-04-07 | 2023-07-08 |
 | [Maki](https://open.spotify.com/track/5HpD4DWQegIhaZlMCBTTEV) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Maki](https://open.spotify.com/album/0TSNlfj9WQD3NwiqcjaUwb) | 3:00 | 2022-01-28 | 2022-02-12 |

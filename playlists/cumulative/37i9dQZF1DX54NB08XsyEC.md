@@ -2,7 +2,7 @@
 
 ### [pov](https://open.spotify.com/playlist/37i9dQZF1DX54NB08XsyEC)
 
-> ONTI MAMAI AMA ESSA NENE / Foto: Miley Cyrus
+> ela eh o momento  / Foto: Tyla
 
 276 songs - 14 hr 51 min
 

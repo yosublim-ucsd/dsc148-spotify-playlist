@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Digga D
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,200 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,216 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Eulogy](https://open.spotify.com/track/7xJWGfDc84YaMb50OzNRnP) | [Keysha Freshh](https://open.spotify.com/artist/5dOPo7YOqsRrH0cqw8ol3u) | [Eulogy](https://open.spotify.com/album/14Ewo2Sl4sBze2RTuC6FKf) | 3:16 |
 | 50 | [Hiroshima](https://open.spotify.com/track/3LmLdqZji5uGH7DvcOExOh) | [MLNY](https://open.spotify.com/artist/0rkQpV5CBdnY1tHjBH0mVD) | [Hiroshima](https://open.spotify.com/album/1yt1hemh93PHMTRlwWZtec) | 1:51 |
 
-Snapshot ID: `MCw1NmNiODVhNmMxZjg0NjhhMmM2ZWQ5YTQ0ZGI3YzY5NDcxYTEzZWYy`
+Snapshot ID: `MCw2NjFlNjAyZGMzNDFkNGMyODIwMWRkODNmODY2NzNjYjNiMmE4MzY3`

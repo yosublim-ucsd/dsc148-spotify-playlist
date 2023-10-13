@@ -2163,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "Nuits Fran\u00e7aises",
+        "url": "https://open.spotify.com/album/5w4k9Vz93h1ZJKRdp2zFn6"
+      },
+      "artists": [
+        {
+          "name": "Chansons d\u00b4Accordeon",
+          "url": "https://open.spotify.com/artist/7yyIR9coVU196KLJT9Mj6T"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147624,
+      "name": "Nuits Fran\u00e7aises",
+      "url": "https://open.spotify.com/track/62UxKGAaoPpbWxopsCpUar"
+    },
+    {
+      "album": {
         "name": "Passion Gitane",
         "url": "https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l"
       },

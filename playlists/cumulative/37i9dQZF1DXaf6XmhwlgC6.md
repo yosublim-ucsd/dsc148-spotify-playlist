@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-250 songs - 13 hr 4 min
+251 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [I'll Be Gone](https://open.spotify.com/track/5s0gxKFZCSQ6USPwKMdgUu) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 2:31 | 2022-05-19 |  |
 | [Illusory](https://open.spotify.com/track/6X7AjIztCoKnA1E1jfYoMo) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Illusory](https://open.spotify.com/album/2uoO43SIsOdbxYBOT9Jgs7) | 2:24 | 2023-05-26 |  |
 | [In Deep Colors](https://open.spotify.com/track/4UZ2mG3RkVtXBBCwHNdN3J) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [In Deep Colors](https://open.spotify.com/album/0hg2UklcSrQrctoVPNbhbw) | 3:21 | 2022-09-02 |  |
+| [Infinite Space](https://open.spotify.com/track/0iG8vGMvNGv7k4hY8ptM0L) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Relaxing Easy Beats](https://open.spotify.com/album/5NdhMBBItWYBpowfK67tp7) | 2:48 | 2023-10-12 |  |
 | [Into Eternity](https://open.spotify.com/track/25yRT1t6w9wW1EusZfFVUM) | [Focus X](https://open.spotify.com/artist/6CIaQ7n8f0Q2C7zOg77Gw0) | [Into Eternity](https://open.spotify.com/album/3ukOH1Vyk15ymIIM4pRC2N) | 2:48 | 2023-02-03 |  |
 | [It's Clearer Now](https://open.spotify.com/track/595vc6ubtRdC13RRF7fpmX) | [elmtwig](https://open.spotify.com/artist/1FoIOzjaAdSvxVlT10cWwS) | [It's Clearer Now](https://open.spotify.com/album/1LHpeaSuu3SPArkwZIJahV) | 2:44 | 2023-08-18 |  |
 | [january](https://open.spotify.com/track/0P54f5kEDE7dpqgE0VARhL) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [july](https://open.spotify.com/album/1qdyW78nO5jD8U4ecLYBJ2) | 5:05 | 2023-06-30 | 2023-08-10 |
@@ -169,7 +170,7 @@
 | [Rent a New Place, Everything Could Change](https://open.spotify.com/track/42T8hyzch4rCR4UsDQ4TS6) | [Merz](https://open.spotify.com/artist/5OLpeoin9igrD2GR6CRkyp), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Dreams of Sleep and Wakes of Sound](https://open.spotify.com/album/203n39LZt0ktgcQ6mLWLoa) | 5:45 | 2022-03-30 |  |
 | [Reset My Mind](https://open.spotify.com/track/327SQqQnYXgzwegkjpNOZb) | [Space Access](https://open.spotify.com/artist/1s2VXzYMLAHNVLNohNAmQy) | [Reset My Mind](https://open.spotify.com/album/1SxIhBFkcEdLZXUP1VP732) | 2:35 | 2023-03-10 |  |
 | [Rest Assured](https://open.spotify.com/track/78TN3sJg3D4PL2QQScW0Fn) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Rest Assured](https://open.spotify.com/album/1atqyuFA0PaM6mCZ2aOE72) | 2:44 | 2022-10-21 |  |
-| [Return of the Light](https://open.spotify.com/track/278SBB605IY9E4RgvKG0Ct) | [Airam Rubio](https://open.spotify.com/artist/5xsu3Uv920CTaHjOrGsHoR) | [Return of the Light](https://open.spotify.com/album/5627BIepoH1IvKgKRpd01b) | 2:34 | 2023-03-03 |  |
+| [Return of the Light](https://open.spotify.com/track/278SBB605IY9E4RgvKG0Ct) | [Airam Rubio](https://open.spotify.com/artist/5xsu3Uv920CTaHjOrGsHoR) | [Return of the Light](https://open.spotify.com/album/5627BIepoH1IvKgKRpd01b) | 2:34 | 2023-03-03 | 2023-10-13 |
 | [Rings](https://open.spotify.com/track/2O16b4CiYRidoYlTFT8iom) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Rings](https://open.spotify.com/album/5r3wmyRZO5S2mq8a1frTAq) | 2:59 | 2022-03-30 |  |
 | [Riverside](https://open.spotify.com/track/02YiNo9Ltw4N1aIuf7u8c3) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Above The Neon Glow](https://open.spotify.com/album/4qDk81Z78TXyclmv3NSEBm) | 6:40 | 2022-03-30 | 2023-06-17 |
 | [Romanticizing](https://open.spotify.com/track/1PEqJDiicIXyEpby51cMJa) | [Tim Gourolis](https://open.spotify.com/artist/5q8Q9Fa2WPZVwj5VR6XYgp) | [Romanticizing](https://open.spotify.com/album/2JXmi8X9xYCjXkwJyB5x40) | 2:26 | 2023-04-06 |  |

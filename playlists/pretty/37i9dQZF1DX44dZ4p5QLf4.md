@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: vAn
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,318 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,136 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SHIMMER](https://open.spotify.com/track/21PNdcOg9gWRsvfko3in1Q) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [SHIMMER](https://open.spotify.com/album/53RPlxQAShRuRumHbOw9Iu) | 3:38 |
-| 2 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
+| 1 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
+| 2 | [SHIMMER](https://open.spotify.com/track/21PNdcOg9gWRsvfko3in1Q) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [SHIMMER](https://open.spotify.com/album/53RPlxQAShRuRumHbOw9Iu) | 3:38 |
 | 3 | [No Matter What They Say](https://open.spotify.com/track/7FNuJJ4vC8gRZqdIZfZ28U) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [No Matter What They Say](https://open.spotify.com/album/2C5XfFX5Ur1uSh5EMrTVsz) | 3:32 |
 | 4 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
 | 5 | [Cherry Delight](https://open.spotify.com/track/4w2rs45lbR16nWa7UclbzN) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Cherry Delight](https://open.spotify.com/album/5J3jmFBDseDbLmrtto1bcy) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [3AM](https://open.spotify.com/track/6TAnJ7ubFuZ7nYgzYst2Wp) | [Julia Marcks](https://open.spotify.com/artist/35HvO2FkpLWHDbbCXpgohf) | [3AM](https://open.spotify.com/album/7sH5hP8sAND4vzvvdhXp58) | 3:24 |
 | 80 | [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 |
 
-Snapshot ID: `MCxlNzg5ZmRjNzMxZjRjM2U1M2UzYzdlN2Y0NmUyZWJhYTBmZGRkYjUy`
+Snapshot ID: `MCwwNjRlMjkxZDk1MWQ3YjY5MmVmMDYzOTRhMjUwYTAyMDliMGYzNDYx`

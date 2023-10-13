@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-110 songs - 10 hr 24 min
+111 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Pyaar Ka Pehla Khat](https://open.spotify.com/track/1T5p21xwrx6Dpj3T0o9aU7) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 5:45 | 2021-12-01 |  |
 | [Pyar Se Pyar Karna](https://open.spotify.com/track/35kKXTNAldzctYQXSLzvgX) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI) | [Pyar Se Pyar Karna](https://open.spotify.com/album/632Qeq7sYg76VMfKtFn7Y2) | 4:17 | 2023-02-27 |  |
 | [Rafta Rafta Voh Meri Hasti Ka](https://open.spotify.com/track/1m4wwtRG4UIB7GreQFP5QQ) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan Golden Film Hits Vol\-2](https://open.spotify.com/album/4bEaStiLiA9kJ9uOWam9Ct) | 3:46 | 2021-12-01 |  |
+| [Rafta Rafta Woh Meri Hasti Ka Saman Ho Gaye](https://open.spotify.com/track/6GdajL7Wy76jkC7QziZ1At) | [Muhammad Ali](https://open.spotify.com/artist/3O5X759SsQ6VzpPVopUZSX) | [Khiraj](https://open.spotify.com/album/3V2kOV6FanUWqzj7JZkY8z) | 4:47 | 2023-10-11 |  |
 | [Ranjish Hi Sahi Dil Hi Dukhane Ke Liye](https://open.spotify.com/track/4NbG28kd9gYQHnNbF5Hsjd) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan \- Greatest Ghazals](https://open.spotify.com/album/6msMzk74VrVotyZfgwb8np) | 12:12 | 2021-12-01 | 2023-05-16 |
 | [Rasm \-E\- Ulfat Sikha Gaya Koi](https://open.spotify.com/track/6IGwyk06551osZprqKSJPk) | [Begum Akhtar](https://open.spotify.com/artist/2s5kwiBL19Iw2PnrJ6vYDf) | [Begum Akhtar](https://open.spotify.com/album/1DSPkSkvEe1TyrtXHvkkGo) | 3:53 | 2021-12-01 | 2023-03-03 |
 | [Ravi](https://open.spotify.com/track/0sT56zcByY6pW1EQcNDCla) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Ravi](https://open.spotify.com/album/3rI0HlLjnNxqywLJsu7VTr) | 3:49 | 2023-03-20 |  |
@@ -109,7 +110,7 @@
 | [To Ne Dikha Hai Kabhi](https://open.spotify.com/track/69GrvktEn2ezemVh4OYrvq) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Greatest Ghazal Hits](https://open.spotify.com/album/7fB1OwjXHH3VK0EexzhAqq) | 5:16 | 2021-12-01 |  |
 | [Tum Itna Jo Muskura Rahe Ho](https://open.spotify.com/track/4SVLJYv9gJQgFhtJdW3TEX) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 5:21 | 2021-12-01 | 2023-05-16 |
 | [Tumhein Dil Hi Dil](https://open.spotify.com/track/2zbYndwSMxp3xMXcuENO5x) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ghazals To Remember Vol \-1](https://open.spotify.com/album/1DDJT6eWzXMFx1kYh3YHuG) | 6:08 | 2021-12-01 | 2023-08-25 |
-| [Tumne Jo Kuchh Kaha](https://open.spotify.com/track/7K5ox3eAJv1ZVtumbZa4VZ) | [Dilip Parihar](https://open.spotify.com/artist/4vo1NxhrGB8Gw7pjP30EV9) | [Tumne Jo Kuchh Kaha](https://open.spotify.com/album/5xTkDEELEs2J0EDzIhHTl3) | 7:10 | 2023-08-30 |  |
+| [Tumne Jo Kuchh Kaha](https://open.spotify.com/track/7K5ox3eAJv1ZVtumbZa4VZ) | [Dilip Parihar](https://open.spotify.com/artist/4vo1NxhrGB8Gw7pjP30EV9) | [Tumne Jo Kuchh Kaha](https://open.spotify.com/album/5xTkDEELEs2J0EDzIhHTl3) | 7:10 | 2023-08-30 | 2023-10-13 |
 | [Voh Tere Mere Ishq Ka](https://open.spotify.com/track/5fVwRMlelIipvVLcZQnzYs) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Jubilee](https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9) | 5:13 | 2023-03-31 |  |
 | [Woh Dehleez](https://open.spotify.com/track/7ywmyRfxqVjuVVRFL9JdyZ) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Woh Dehleez](https://open.spotify.com/album/380FWdzxBJTUcBwiGAAJch) | 5:28 | 2023-06-09 |  |
 | [Woh Kaghaz Ki Kashti](https://open.spotify.com/track/6qtSFL6qFbw7EmaRIsS0IR) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU), [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [The Latest](https://open.spotify.com/album/07RBhfRhDPQO2ULIe68RYn) | 6:28 | 2023-05-15 |  |

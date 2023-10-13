@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Rufus Wainwright ",
-  "num_followers": 472768,
+  "num_followers": 471881,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmQ0MDlhYTkyZGYzNjlmNThlMjEzZWQxYjE1ZTcxNzMyYjgzZWY4",
+  "snapshot_id": "MCw2Y2I4OGU2NDU3ZDA2MTA5ZjhmYWM4NjUyOTYyYmQzODk3NDk5ZTgw",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "To Love Somebody (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "I Shall Be Released",
-      "url": "https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 232000,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "To Love Somebody (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "I Shall Be Released",
+      "url": "https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 265687,
-      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Covered up with Flowers",
         "url": "https://open.spotify.com/album/3BGlVmlsbBQXNTAdTP72Us"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 214173,
       "name": "Go Your Own Way",
       "url": "https://open.spotify.com/track/2zi6avisctlzNHw7HjK7KM"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 265687,
+      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Genuine Negro Jig",
-        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
-      },
-      "artists": [
-        {
-          "name": "Carolina Chocolate Drops",
-          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Hit 'Em up Style",
-      "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Anti-Hero (Country Version)",
         "url": "https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 190470,
       "name": "Anti-Hero - Country Version",
       "url": "https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
+      },
+      "artists": [
+        {
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Hit 'Em up Style",
+      "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Rarities 2",
-        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Hey Me, Hey Mama",
         "url": "https://open.spotify.com/album/1Iiqi0wAb9VWdAQbY0hywC"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 210604,
       "name": "Hey Me, Hey Mama",
       "url": "https://open.spotify.com/track/4MeXcqcyx5vMVUJAKTqKRv"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Rarities 2",
+        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Don't Dream It's Over / Everything Is Free",
+        "url": "https://open.spotify.com/album/0cmgOTDZk3SgW61MEE1v2v"
+      },
+      "artists": [
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 257755,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/3aBawHB7qLLxfC7Taph74U"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Folkocracy",
         "url": "https://open.spotify.com/album/7FGoS4iN1v6SlsiUx1X5Wx"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 222426,
       "name": "Twelve-Thirty (Young Girls Are Coming To The Canyon) [feat. Susanna Hoffs, Chris Stills & Sheryl Crow]",
       "url": "https://open.spotify.com/track/6wyiD5nZjbBsHnPwgUS6YJ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Don't Dream It's Over / Everything Is Free",
-        "url": "https://open.spotify.com/album/0cmgOTDZk3SgW61MEE1v2v"
-      },
-      "artists": [
-        {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 257755,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/3aBawHB7qLLxfC7Taph74U"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Uummati Attanarsimat (Heart of Glass)",
-        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 238288,
-      "name": "Uummati Attanarsimat (Heart of Glass)",
-      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Fade into You",
         "url": "https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 274185,
       "name": "Fade into You",
       "url": "https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Uummati Attanarsimat (Heart of Glass)",
+        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
+        "name": "I Still Haven't Found What I'm Looking For / my future",
+        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 138383,
-      "name": "Simple Man - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+      "duration_ms": 191757,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 138383,
+      "name": "Simple Man - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Pieces of the Sky (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 197306,
       "name": "Bluebird Wine - 2003 Remaster",
       "url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "I Still Haven't Found What I'm Looking For / my future",
-        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 191757,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1951,18 +1951,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Cigarette Machine",
-        "url": "https://open.spotify.com/album/6XDLIwOzCSTRuXUc677yA4"
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
       },
       "artists": [
         {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
         }
       ],
-      "duration_ms": 204623,
-      "name": "Cigarette Machine",
-      "url": "https://open.spotify.com/track/3rtyOYyrqqCs5OWDgr2SzM"
+      "duration_ms": 264930,
+      "name": "Sledgehammer",
+      "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
     },
     {
       "added_at": "2023-10-06 04:00:00",

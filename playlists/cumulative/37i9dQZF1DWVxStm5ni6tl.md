@@ -4,7 +4,7 @@
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Omega Mighty, Artwork by: Isu Kim
 
-396 songs - 20 hr 10 min
+397 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Drop Ship](https://open.spotify.com/track/0ms6No7pjrbC3yIg3UO0HH) | [Sheldon Sabastian](https://open.spotify.com/artist/3TVN22ppuxvrMtVOIGFYYn) | [Drop Ship](https://open.spotify.com/album/0oxEw9sx77i15pxH89Njl1) | 1:51 | 2023-09-13 | 2023-10-05 |
 | [Duel](https://open.spotify.com/track/6Bop5sTWP6R5YfBFquPM0K) | [Benjamin Proulx](https://open.spotify.com/artist/6wxpEggyJPIcvE7XvoxINR) | [Duel](https://open.spotify.com/album/0clKcVz5ZnpWticAtWhYCr) | 3:18 | 2023-07-26 | 2023-08-17 |
 | [Duniya](https://open.spotify.com/track/7r51yl11mB3T4ckq3aJlVN) | [Babbu Thind](https://open.spotify.com/artist/5hrFVy1E7BJJCPB178W2Du) | [Duniya](https://open.spotify.com/album/4nlt88qq3ZWRaURTEEbmka) | 2:31 | 2023-10-11 |  |
-| [Débloquer](https://open.spotify.com/track/0nbMa3ZHOLlgb2IJPsGFCt) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/3gwKFYmiUvCxCUP5lRLHF5) | 3:27 | 2023-10-04 |  |
+| [Débloquer](https://open.spotify.com/track/0nbMa3ZHOLlgb2IJPsGFCt) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/3gwKFYmiUvCxCUP5lRLHF5) | 3:27 | 2023-10-04 | 2023-10-13 |
+| [Débloquer](https://open.spotify.com/track/2EwkmMArSs5Qxb6Tus0r4A) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/0nLznb2oEE0QTEpYciNEoU) | 3:27 | 2023-10-11 |  |
 | [easier](https://open.spotify.com/track/0H77ipJVFglcB1bSie68oy) | [NLN](https://open.spotify.com/artist/62n4U1X9Uk7DF9jQkAaBrW) | [easier](https://open.spotify.com/album/47TUUumeaKs6dqhvT1sDtg) | 1:48 | 2023-08-30 | 2023-09-07 |
 | [Easy Way Out](https://open.spotify.com/track/078iC5tJGrdjG99iJKgD4x) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Easy Way Out](https://open.spotify.com/album/29qTDZsuKLmh4CKum9IxGs) | 2:39 | 2023-08-23 | 2023-09-07 |
 | [El Hal](https://open.spotify.com/track/3v5NsC4haAYY45sdgbXcQa) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [El Hal](https://open.spotify.com/album/60Zh8DYe69XKcdMJnIuwP7) | 2:27 | 2023-10-11 |  |

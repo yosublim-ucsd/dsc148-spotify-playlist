@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Shawty lo que necesitas es darle flow\. Bellakath en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,397 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,395 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 7 | [Corazón Roto pt\. 3](https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/2ASYbZLxYf9bRXhsyQ6Y1u) | 5:48 |
 | 8 | [INSTALÁRTELO \(feat\. Sleezy O & Young Gallo\)](https://open.spotify.com/track/4iiLT6wrLtcoW3vOUjjlbS) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n), [Young Gallo](https://open.spotify.com/artist/1AfxlMLCP8GSIoyA5htFUd) | [INSTALÁRTELO \(feat\. Sleezy O & Young Gallo\)](https://open.spotify.com/album/1WEHAfCuVdBCKUU0cUMZjp) | 4:00 |
 | 9 | [Oh Na Na](https://open.spotify.com/track/2EtOOnd0tseAvHcm3WzACQ) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Oh Na Na](https://open.spotify.com/album/4BHwvzeYB8EY1stGUBUlFg) | 4:00 |
-| 10 | [RITMO DE MEDALLO](https://open.spotify.com/track/3gquN8yA0TnqD4NemqCnng) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:58 |
+| 10 | [RITMO DE MEDALLO](https://open.spotify.com/track/30ZwYmaZ9rrmjlEHLhF8qR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 1:58 |
 | 11 | [Julietota](https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julietota](https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7) | 3:32 |
 | 12 | [Buenas](https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Buenas](https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag) | 3:12 |
 | 13 | [Cristales Tinteaos](https://open.spotify.com/track/1NnREXNhcZ8WGgJOR1gPUX) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Cristales Tinteaos](https://open.spotify.com/album/1JxyuEpwSYtQ3pizpRp1Ka) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 99 | [Wazap](https://open.spotify.com/track/2WM2zohc2bo6HrxUSRZP1m) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Wazap](https://open.spotify.com/album/4zPUHAm8acUOimx9Ywd1On) | 3:19 |
 | 100 | [Mxfix G5](https://open.spotify.com/track/6RvdPXkp63MIt9oNFJBRIz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mxfix G5](https://open.spotify.com/album/6i7nZXIeKaSBLXl5b3UirN) | 2:34 |
 
-Snapshot ID: `MCw2NmY3MTBjZjBmZTZjZTQzMDU0MmJkMTBlMGYyOWU3ZmYwMTFkZTlm`
+Snapshot ID: `MCw4ZDgyZGZkYzcwOWRjZDVjOGM1YzFiNTg0YjY2ODc1NTY5NzhjYzE4`

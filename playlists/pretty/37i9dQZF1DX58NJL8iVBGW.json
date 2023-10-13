@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 583757,
+  "num_followers": 583541,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTg3OGVkZDVjNTBjYjBmNDQ4ZTFkMmMwMmQwMzI2ZmNlMmY4ZGQy",
+  "snapshot_id": "MCwyMTZiNzFmZjBhYWRjMzlmODMxODI0NmI3NzIzODFlMTJiYmQ1MTU2",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Bottom of the River",
-        "url": "https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED"
-      },
-      "artists": [
-        {
-          "name": "Delta Rae",
-          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Bottom of the River",
-      "url": "https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Hawk",
         "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 168066,
       "name": "Snake Song",
       "url": "https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Bottom of the River",
+        "url": "https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED"
+      },
+      "artists": [
+        {
+          "name": "Delta Rae",
+          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Bottom of the River",
+      "url": "https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Heaven Help Me",
-        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Heaven Help Me",
-      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "When the Cellar Children See the Light of Day",
         "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 180077,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Heaven Help Me",
+        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Heaven Help Me",
+      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Horehound",
-        "url": "https://open.spotify.com/album/1nxECUyuIZF5JCrO9Xo2jO"
-      },
-      "artists": [
-        {
-          "name": "The Dead Weather",
-          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
-        }
-      ],
-      "duration_ms": 380160,
-      "name": "Will There Be Enough Water?",
-      "url": "https://open.spotify.com/track/3VYbLgJNS7Jr7YlatA0lNe"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "War Brides",
         "url": "https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 144040,
       "name": "Devils",
       "url": "https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Horehound",
+        "url": "https://open.spotify.com/album/1nxECUyuIZF5JCrO9Xo2jO"
+      },
+      "artists": [
+        {
+          "name": "The Dead Weather",
+          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
+        }
+      ],
+      "duration_ms": 380160,
+      "name": "Will There Be Enough Water?",
+      "url": "https://open.spotify.com/track/3VYbLgJNS7Jr7YlatA0lNe"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Look Homeward",
-        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
-      },
-      "artists": [
-        {
-          "name": "Look Homeward",
-          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Sister Death",
-      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Bastard Children",
         "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 220626,
       "name": "Psalms",
       "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Look Homeward",
+        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
+      },
+      "artists": [
+        {
+          "name": "Look Homeward",
+          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "Sister Death",
+      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
     },
     {
       "added_at": "2023-10-06 04:00:00",

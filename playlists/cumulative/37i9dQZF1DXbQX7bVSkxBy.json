@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "Raise a voice and testify with African gospel music.  Cover: <a href=\"https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi?si=U_TTRYUYTG2uDC5jZRDtSQ\">LC Beatz</a> ",
+  "description": "Raise a voice and testify with African gospel music.  Cover: <a href=\"https://open.spotify.com/artist/2Zhpjwk7OjYXrQG3YOhIzo?si=D8ORmxnjSdWgRf0oQY4aKA\">Rae Rae</a> ",
   "name": "Testify",
   "tracks": [
     {
@@ -396,7 +396,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 324572,
       "name": "Dansaki",
       "url": "https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP"
@@ -1920,6 +1920,28 @@
       "duration_ms": 176118,
       "name": "Victory Song",
       "url": "https://open.spotify.com/track/40sjTKH9XM4BEToiQdbyIq"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0BD9WVtDVVywYDuKvD5FWy"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Rae Rae",
+          "url": "https://open.spotify.com/artist/2Zhpjwk7OjYXrQG3YOhIzo"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201599,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/1RhhWmeGXnBzhgQMvABtVO"
     },
     {
       "album": {

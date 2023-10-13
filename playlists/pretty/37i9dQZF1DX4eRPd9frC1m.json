@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2583597,
+  "num_followers": 2581875,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2RiNmI3MGJjOGQ5ZmJiOWY2NGM0NDcyY2Q3YzNlYmU3NTY1YjQ2",
+  "snapshot_id": "MCwzZjM5NTkzYzNhYzliMjViODJlM2EwNjJlZWNhMjc0ZjQ4ZGNiMDA2",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -187,6 +187,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/1cNI5bMJk11DV8PglRAd3R"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Black Prez",
+          "url": "https://open.spotify.com/artist/3kGJGwSmyImKKigpSkKnTz"
+        }
+      ],
+      "duration_ms": 309517,
+      "name": "Dies Irae feat. Black Prez",
+      "url": "https://open.spotify.com/track/5nafRIDshs3RwVO0sxxgac"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Pour Your Heart Out (feat. 070 Shake)",
         "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 243200,
       "name": "Asteroid",
       "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/1cNI5bMJk11DV8PglRAd3R"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "Black Prez",
-          "url": "https://open.spotify.com/artist/3kGJGwSmyImKKigpSkKnTz"
-        }
-      ],
-      "duration_ms": 309517,
-      "name": "Dies Irae feat. Black Prez",
-      "url": "https://open.spotify.com/track/5nafRIDshs3RwVO0sxxgac"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Laserbeam",
+        "url": "https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Laserbeam",
+      "url": "https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "BANG YOUR HEAD",
         "url": "https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 204798,
       "name": "BANG YOUR HEAD",
       "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Laserbeam",
-        "url": "https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Laserbeam",
-      "url": "https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -871,30 +871,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "GORILLA WARFARE",
-        "url": "https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx"
-      },
-      "artists": [
-        {
-          "name": "DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "CELO",
-          "url": "https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "WARFARE",
-      "url": "https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "PEACE LOVE & WUBZ",
         "url": "https://open.spotify.com/album/1gK7u6Sh9RvvpjKovemrx2"
       },
@@ -935,22 +911,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
+        "name": "GORILLA WARFARE",
+        "url": "https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx"
       },
       "artists": [
         {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
         },
         {
-          "name": "Lil Gnar",
-          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
+          "name": "CELO",
+          "url": "https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
         }
       ],
-      "duration_ms": 121849,
-      "name": "Spirits Pt. 2",
-      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
+      "duration_ms": 156800,
+      "name": "WARFARE",
+      "url": "https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1007,6 +987,26 @@
       "duration_ms": 147310,
       "name": "Do It To It - Subtronics Remix",
       "url": "https://open.spotify.com/track/4JHL5XOuByjoHSt5bcVk0u"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Lil Gnar",
+          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
+        }
+      ],
+      "duration_ms": 121849,
+      "name": "Spirits Pt. 2",
+      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
     },
     {
       "added_at": "2023-09-22 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Martin Kartenjer",
-  "num_followers": 4201,
+  "num_followers": 4216,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWM4ZTNkNWIzMGM5NmI0NzQxNmM4N2VkNDI5ZDVmM2M2ZGI2ZDdl",
+  "snapshot_id": "MCw0ZTZkMzgxNTA5M2QzNTdlMDlhZTI0Y2YzZTM2MTk1NWI1YTQxYzgw",
   "tracks": [
     {
       "added_at": "2023-07-26 13:04:53",
@@ -39,22 +39,6 @@
       "duration_ms": 186285,
       "name": "Chance eh ille",
       "url": "https://open.spotify.com/track/5fLu5jziyGa6W9sO6hQjDw"
-    },
-    {
-      "added_at": "2023-09-22 06:03:44",
-      "album": {
-        "name": "Vaasam Pesum",
-        "url": "https://open.spotify.com/album/65uesvauWksGXmaSS78K1L"
-      },
-      "artists": [
-        {
-          "name": "Ainthinai",
-          "url": "https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Vaasam Pesum",
-      "url": "https://open.spotify.com/track/3oBLxR0GR0tCuhEvjamXM4"
     },
     {
       "added_at": "2023-08-11 09:37:12",
@@ -149,6 +133,26 @@
       "url": "https://open.spotify.com/track/0DkGBbQQcQMLwwqfqvXImf"
     },
     {
+      "added_at": "2023-10-12 12:52:13",
+      "album": {
+        "name": "Valapodum Kannala",
+        "url": "https://open.spotify.com/album/7KO1uHv3ZYY2wdNJJbVOxU"
+      },
+      "artists": [
+        {
+          "name": "Rithvi Ramesh",
+          "url": "https://open.spotify.com/artist/4lah4fQGDTcyB6C9sAEQSq"
+        },
+        {
+          "name": "Allan Francis",
+          "url": "https://open.spotify.com/artist/38WAcNnawdxZRRt96EAmDL"
+        }
+      ],
+      "duration_ms": 207588,
+      "name": "Valapodum Kannala",
+      "url": "https://open.spotify.com/track/0RfaSAx3yNsRglSucB3mIT"
+    },
+    {
       "added_at": "2023-10-06 12:19:34",
       "album": {
         "name": "Raasa",
@@ -179,6 +183,26 @@
       "duration_ms": 77060,
       "name": "Kannadi Kaadhal",
       "url": "https://open.spotify.com/track/47WrhLnsR1m70M12EVhuiq"
+    },
+    {
+      "added_at": "2023-10-12 12:53:17",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/5ryE7bfNEuN3d5qs3MEJ3V"
+      },
+      "artists": [
+        {
+          "name": "Meiarivu",
+          "url": "https://open.spotify.com/artist/0hCIMGzjKCTxoHrfbJ17jw"
+        },
+        {
+          "name": "Imman Vijay",
+          "url": "https://open.spotify.com/artist/5I0kqjiVuNcomVmnFVhvX3"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/3s5TMnbs3AKo7j8FG7kXkq"
     },
     {
       "added_at": "2023-09-22 06:04:58",
@@ -311,6 +335,22 @@
       "duration_ms": 110500,
       "name": "Thangapulla",
       "url": "https://open.spotify.com/track/517mBtRX7D3fnQDcDPQXY4"
+    },
+    {
+      "added_at": "2023-09-22 06:03:44",
+      "album": {
+        "name": "Vaasam Pesum",
+        "url": "https://open.spotify.com/album/65uesvauWksGXmaSS78K1L"
+      },
+      "artists": [
+        {
+          "name": "Ainthinai",
+          "url": "https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Vaasam Pesum",
+      "url": "https://open.spotify.com/track/3oBLxR0GR0tCuhEvjamXM4"
     },
     {
       "added_at": "2023-10-04 10:34:28",

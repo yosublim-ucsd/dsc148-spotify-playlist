@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-185 songs - 9 hr 0 min
+186 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Nature Boy](https://open.spotify.com/track/76krowblKCB2QKvFlF72rS) | [Chansons d´Accordeon](https://open.spotify.com/artist/7yyIR9coVU196KLJT9Mj6T) | [Nature Boy](https://open.spotify.com/album/0nppysWv4pEJU73jrO7HFS) | 2:59 | 2023-05-11 |  |
 | [Nivram](https://open.spotify.com/track/3oBd5LyXu64UGeZd5jOh5m) | [Alma Sinti](https://open.spotify.com/artist/359HPjn8qfvjUb2mn9LpYK) | [Nuits de Paris](https://open.spotify.com/album/2VO3QpjtZCbOKQO6Pqebnq) | 3:13 | 2023-03-07 |  |
 | [November Moon](https://open.spotify.com/track/712ZGHyBdeTUh3iEu6ctci) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [CAO 10](https://open.spotify.com/album/2M5SSx4fWARPw8lLnKD9oS) | 4:12 | 2022-11-25 |  |
+| [Nuits Françaises](https://open.spotify.com/track/62UxKGAaoPpbWxopsCpUar) | [Chansons d´Accordeon](https://open.spotify.com/artist/7yyIR9coVU196KLJT9Mj6T) | [Nuits Françaises](https://open.spotify.com/album/5w4k9Vz93h1ZJKRdp2zFn6) | 2:27 | 2023-10-13 |  |
 | [Ombrages](https://open.spotify.com/track/54B05cOuy6NpnZPx9KVfdh) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 2:57 | 2022-02-18 |  |
 | [Padam...Padam...](https://open.spotify.com/track/2xQmDo3CrD1s5npI3bWYqu) | [Jacques Ferchit](https://open.spotify.com/artist/2IJGeegMtg1oHYYXT6frrO) | [Paris\-accordeon](https://open.spotify.com/album/2xRxJSYzFSSpFYLHw6QVbD) | 2:38 | 2022-02-18 |  |
 | [Parfum de Paris](https://open.spotify.com/track/65jUf1yJUfFDP521qYCSWz) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [Parfum de Paris](https://open.spotify.com/album/3gHpNebmsHMAiLJZoIohHl) | 1:37 | 2023-06-15 | 2023-08-19 |

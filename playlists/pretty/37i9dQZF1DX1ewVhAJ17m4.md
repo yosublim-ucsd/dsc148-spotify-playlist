@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: All Time Low ft Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,412 likes - 85 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,189 likes - 85 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 84 | [COME AROUND AND FIND OUT](https://open.spotify.com/track/2KhZArbDcVl0LdzK1gH0v2) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [COME AROUND AND FIND OUT](https://open.spotify.com/album/58U8cQSUQuSs1KNYuPoNRv) | 3:07 |
 | 85 | [No one's listening](https://open.spotify.com/track/5JLdzhZoRDbsw3UEBqSpzX) | [ITCHY](https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4) | [No one's listening](https://open.spotify.com/album/6Bqwod52xZi6XtSA3dCpDC) | 3:13 |
 
-Snapshot ID: `MCwzY2QwNDE1YmU3MjdhZWYxZGZmZjE3Y2Q3ZWZkNTExZTJhMzNmMmNi`
+Snapshot ID: `MCxiMjBhZjRjZDFkZGQ5ODhjNDdkYWE1ZTNkOTE5MmE0ZDBhYWNhZTQ3`

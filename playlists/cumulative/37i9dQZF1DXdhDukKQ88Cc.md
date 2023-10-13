@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> dk rap holder det 100 lige nu 🚨  ICEKIID tar forsiden
+> dk rap holder det 100 lige nu 🚨 Branco og Gobs tar forsiden
 
-56 songs - 2 hr 27 min
+62 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,16 +12,21 @@
 | [4 LIFE](https://open.spotify.com/track/3oR0iJiqjO5onYOs8ThQa1) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [4 LIFE](https://open.spotify.com/album/2ZSarbwHOnvmj19c4jiVey) | 2:28 | 2023-09-21 |  |
 | [Baby Mama](https://open.spotify.com/track/3NG0HvogvABEgt8bdpzCK8) | [Durani](https://open.spotify.com/artist/2AivxtcAJBYO40RucLMH8P) | [Baby Mama](https://open.spotify.com/album/7uonA79doG0xDcgWWobwsf) | 2:58 | 2023-09-21 |  |
 | [Baddies & Draris](https://open.spotify.com/track/4oy5g8o1arUDfFX1jTsGna) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Baddies & Draris](https://open.spotify.com/album/29ExeT8qqQJwiHv7R7Qhvw) | 2:26 | 2023-09-21 |  |
+| [Balancen \(feat\. Kesi\)](https://open.spotify.com/track/4sGUkfsLxIK4tZxLZt0unU) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [DK GOAT](https://open.spotify.com/album/5rwILepTiMfBTOwJCqholQ) | 2:53 | 2023-10-12 |  |
 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 | 2023-09-21 |  |
+| [Copenhagen](https://open.spotify.com/track/1ic0b3srMKuadfg4z9TSLK) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [DK GOAT](https://open.spotify.com/album/5rwILepTiMfBTOwJCqholQ) | 2:46 | 2023-10-12 |  |
 | [CPH CITY](https://open.spotify.com/track/19x15dgq2VMEqb7tH5r4kO) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [CPH CITY](https://open.spotify.com/album/5fVv3UKquiZIXBrYfvCmCh) | 2:09 | 2023-09-21 |  |
 | [De Forbudte Trin \(feat\. Benny Jamz\)](https://open.spotify.com/track/3TPqw77JJK9CEa3ZVuMEIO) | [Pooyandeh](https://open.spotify.com/artist/5UMWdEM0A0J6h27FgaICOS), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [De Forbudte Trin \(feat\. Benny Jamz\)](https://open.spotify.com/album/51dPCd7L8zdDZNzGeCASeV) | 2:43 | 2023-09-21 |  |
-| [DISCO FOMO](https://open.spotify.com/track/46dax66BvUDwO3b15Dc3ZH) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [DISCO FOMO](https://open.spotify.com/album/1uzvZpLr8jnwtlEjukbDT4) | 2:39 | 2023-10-06 |  |
+| [Den Sidste](https://open.spotify.com/track/07X1mqPPTSMdtdN03rxMyu) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i) | [Den Sidste](https://open.spotify.com/album/3qsX0mf6RmJssERtAQSwua) | 2:25 | 2023-10-12 |  |
+| [DISCO FOMO](https://open.spotify.com/track/46dax66BvUDwO3b15Dc3ZH) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [DISCO FOMO](https://open.spotify.com/album/1uzvZpLr8jnwtlEjukbDT4) | 2:39 | 2023-10-06 | 2023-10-13 |
 | [Draco](https://open.spotify.com/track/5G02IArmAsqcU3yTdLxZRN) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Draco](https://open.spotify.com/album/10FjouEsDArE1pce1q6j7v) | 2:13 | 2023-09-21 |  |
 | [Du Min \(Frk\. Escobar\)](https://open.spotify.com/track/7kHon0ZXCxI7rwONmhS9Ax) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH) | [Du Min \(Frk\. Escobar\)](https://open.spotify.com/album/3Y1sF71OVCLAPfwekAViUB) | 2:06 | 2023-09-21 |  |
 | [Et Sted Herude](https://open.spotify.com/track/1BrhRqAJRa8YweyLVNCBQm) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Et Sted Herude](https://open.spotify.com/album/7hGBBxMDxFPoIAslWcoA5E) | 2:17 | 2023-09-21 |  |
 | [Fast Life \(feat\. Gilli\)](https://open.spotify.com/track/6uWlAXg3PSZsizyCPFdUoZ) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Fast Life](https://open.spotify.com/album/2KFFfOn8uwTyLxeTtyPGfV) | 2:30 | 2023-09-21 |  |
 | [Feeling Myself \- Shooter Gang Remix](https://open.spotify.com/track/2o4MYiPOmV2A7GAhs3ckrY) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Feeling Myself \(Shooter Gang Remix\)](https://open.spotify.com/album/0nuDeMCXPzfCwJNtArjVUS) | 3:32 | 2023-09-21 |  |
 | [Fiesta](https://open.spotify.com/track/63LAurQHWMq3ARoZLxClgU) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Fiesta](https://open.spotify.com/album/2orIoKQ5g0mxhWZyh8umbZ) | 2:05 | 2023-10-06 |  |
+| [FORSVINDER \(feat\. Gobs\)](https://open.spotify.com/track/2aNMkT86YjYPlKujUiHYbS) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [FORSVINDER \(feat\. Gobs\)](https://open.spotify.com/album/0Xhp7Kgke0OveQaVRMkJwW) | 2:40 | 2023-10-12 |  |
+| [FØRSTE MØDE](https://open.spotify.com/track/2wsrfdApbrHB5OlPdwJqyz) | [AMAL](https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD) | [FØRSTE MØDE](https://open.spotify.com/album/4wXmOKjr5zYQqktDAQyHKe) | 2:49 | 2023-10-12 |  |
 | [Hele Vejen Ind \(feat\. Gilli\)](https://open.spotify.com/track/1CsNJtHR4s0eZ7CmyoCtQZ) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:28 | 2023-09-21 |  |
 | [Helwa \(feat\. PAY & Xabski\)](https://open.spotify.com/track/3jdWYmiOaDfs7urzqN0sSk) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Ny Art](https://open.spotify.com/album/6Wk9GkksYDxUvEgt8jRh1Z) | 3:09 | 2023-09-21 |  |
 | [HONEYMOON](https://open.spotify.com/track/6D6N8pH1B0K2FI6DC2bxeY) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [HONEYMOON](https://open.spotify.com/album/5Dgf2urRgPtWByAz7hILGA) | 2:39 | 2023-09-21 |  |
@@ -33,6 +38,7 @@
 | [Jumeirah](https://open.spotify.com/track/38xttLsyfUwd284fbNjymm) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Jumeirah](https://open.spotify.com/album/6QlAljhTljlTtzuPEDzBCm) | 2:42 | 2023-09-21 |  |
 | [K\-City \(feat\. Stepz\)](https://open.spotify.com/track/12gl0uMirrvJL9DzTgcRXR) | [EZ](https://open.spotify.com/artist/1KQsdrbzpa7RQfYq2U0ABb), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [K\-City \(feat\. Stepz\)](https://open.spotify.com/album/6DKZHaI2sj7p7rMxNnouhf) | 2:33 | 2023-09-21 |  |
 | [LEVENDE LEGENDE](https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [LEVENDE LEGENDE](https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb) | 4:10 | 2023-09-21 |  |
+| [MDMA](https://open.spotify.com/track/6IybluLzGGNRTe8blxh69C) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Mange Døjer Med Angst](https://open.spotify.com/album/5txniOdxQFJAotpTiCJGUj) | 2:37 | 2023-10-12 |  |
 | [Mi Amor](https://open.spotify.com/track/0uUbeTMGlvqFWdtMuqLTEB) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N) | [Mi Amor](https://open.spotify.com/album/08bFLkMDwhsO59XMM9qobU) | 2:35 | 2023-09-21 |  |
 | [Miguel Félix](https://open.spotify.com/track/5uQvsr0OBicAIl0DJJAQeC) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Miguel Félix](https://open.spotify.com/album/5rJSr8ejGeIEmteVDHyTVO) | 3:14 | 2023-09-21 |  |
 | [MOULAGA](https://open.spotify.com/track/5MzZ0U4Zihj9iAR9c7uUyy) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [MOULAGA](https://open.spotify.com/album/16WOsN6JTgg1QV4VwrdlXm) | 2:15 | 2023-09-21 |  |

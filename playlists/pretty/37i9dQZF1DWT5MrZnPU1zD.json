@@ -1,12 +1,12 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1677190,
+  "num_followers": 1677252,
   "original_name": "Hip Hop Controller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjUwNjI3MmRjZDgwZGYzZTU3MWI5OGJhZjY5OTVmZDZiNzUyNjI2",
+  "snapshot_id": "MCxmYTQ0MGQxMGU0Y2FkM2IxYjZiMjkzMjUzMmZiODVkNjEwZTRlMmQ5",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1217,26 +1217,6 @@
       "url": "https://open.spotify.com/track/1UFCw2ZU50ZXdjHUtKg9mp"
     },
     {
-      "added_at": "2023-04-21 19:34:14",
-      "album": {
-        "name": "SILVER TOOTH.",
-        "url": "https://open.spotify.com/album/41eT1d6A24YhZ3zAwnYXUY"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        },
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        }
-      ],
-      "duration_ms": 142560,
-      "name": "SILVER TOOTH. (with A$AP Ferg)",
-      "url": "https://open.spotify.com/track/7fhcDui4AKQydfFoXILsso"
-    },
-    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "Soak City (feat. Mustard, OhGeesy & BlueBucksClan)",
@@ -1271,6 +1251,26 @@
       "duration_ms": 254267,
       "name": "Soak City (feat. Mustard, OhGeesy & BlueBucksClan)",
       "url": "https://open.spotify.com/track/2EYdheS1WcwbBv8bRmbvvW"
+    },
+    {
+      "added_at": "2023-04-21 19:34:14",
+      "album": {
+        "name": "SILVER TOOTH.",
+        "url": "https://open.spotify.com/album/41eT1d6A24YhZ3zAwnYXUY"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "duration_ms": 142560,
+      "name": "SILVER TOOTH. (with A$AP Ferg)",
+      "url": "https://open.spotify.com/track/7fhcDui4AKQydfFoXILsso"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1633,22 +1633,6 @@
       "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Pacer",
-        "url": "https://open.spotify.com/album/0C4bcDFbb7cQf2W3WH6RVm"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 176516,
-      "name": "Pacer",
-      "url": "https://open.spotify.com/track/14MdehDJ3lgRO6SVe60eHk"
-    },
-    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Gangsta Art 2",
@@ -1673,6 +1657,38 @@
       "url": "https://open.spotify.com/track/7KNccGSE8lwRn9Gu0BY8Q6"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Pacer",
+        "url": "https://open.spotify.com/album/0C4bcDFbb7cQf2W3WH6RVm"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 176516,
+      "name": "Pacer",
+      "url": "https://open.spotify.com/track/14MdehDJ3lgRO6SVe60eHk"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Ganger",
+        "url": "https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "duration_ms": 224470,
+      "name": "Not a Drill",
+      "url": "https://open.spotify.com/track/0fjJon7hJQ6nH6Cz4w0AcT"
+    },
+    {
       "added_at": "2023-08-04 04:01:00",
       "album": {
         "name": "BUTTERFLY COUPE feat. Tyga",
@@ -1691,22 +1707,6 @@
       "duration_ms": 164848,
       "name": "BUTTERFLY COUPE feat. Tyga",
       "url": "https://open.spotify.com/track/3HCDcijVzbd59yvVn0nLPY"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Ganger",
-        "url": "https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2"
-      },
-      "artists": [
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        }
-      ],
-      "duration_ms": 224470,
-      "name": "Not a Drill",
-      "url": "https://open.spotify.com/track/0fjJon7hJQ6nH6Cz4w0AcT"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1785,6 +1785,26 @@
       "url": "https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y"
     },
     {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/0ylJgtYMwhgSeiz7bgtWr1"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 120105,
+      "name": "Sideways (with NLE Choppa)",
+      "url": "https://open.spotify.com/track/3dX2DItyqF78yNhPJZakmM"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Back Flippin",
@@ -1825,6 +1845,22 @@
       "url": "https://open.spotify.com/track/2INe19w9F8ueR1Fgm9HXbh"
     },
     {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Stop Breathing",
+        "url": "https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 110706,
+      "name": "Stop Breathing",
+      "url": "https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut"
+    },
+    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "BING BONG (Remix) [feat. Sexyy Red]",
@@ -1843,42 +1879,6 @@
       "duration_ms": 166956,
       "name": "BING BONG (Remix) [feat. Sexyy Red]",
       "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Stop Breathing",
-        "url": "https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 110706,
-      "name": "Stop Breathing",
-      "url": "https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/0ylJgtYMwhgSeiz7bgtWr1"
-      },
-      "artists": [
-        {
-          "name": "Fredo Bang",
-          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 120105,
-      "name": "Sideways (with NLE Choppa)",
-      "url": "https://open.spotify.com/track/3dX2DItyqF78yNhPJZakmM"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1961,28 +1961,20 @@
       "url": "https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2023-08-25 04:28:25",
       "album": {
-        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
-        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
+        "name": "ROTY",
+        "url": "https://open.spotify.com/album/1bj8fRMTZww5rRfP7jsnvi"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
         }
       ],
-      "duration_ms": 244853,
-      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
-      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
+      "duration_ms": 129832,
+      "name": "Rapper of the Year",
+      "url": "https://open.spotify.com/track/6LlqdoSjvt0ANFOTIX5cn5"
     }
   ],
   "unique_name": "Hip Hop Controller",

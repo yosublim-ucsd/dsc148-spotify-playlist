@@ -4,7 +4,7 @@
 
 > These are the songs that shape <a href="https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x?si=mZUAo3dRQaGyttnHQTVj5g">Turnstile's'</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>.
 
-34 songs - 1 hr 59 min
+35 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Be a Toy](https://open.spotify.com/track/1rqVob8GLwcVIuBQEHA6aV) | [Title Fight](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk) | [Spring Songs](https://open.spotify.com/album/4cLYG7fp8Z7OyzlSEV6HED) | 3:04 | 2023-09-01 |  |
 | [beamer boy](https://open.spotify.com/track/16dlDlLW9Uv8lmIUvAXAjG) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Nedarb](https://open.spotify.com/artist/6gCKjxf9Svql6kupGP5gCk) | [beamer boy](https://open.spotify.com/album/1f2lbyCzddJsLaMdcXDFwW) | 3:23 | 2023-09-01 |  |
 | [Better Off Alone](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:34 | 2023-09-01 |  |
-| [Destiny](https://open.spotify.com/track/3G3zUnmwnBHFC5UtlbLSQc) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [Destiny](https://open.spotify.com/album/03j399ZcmkaoIIW57fZV8f) | 2:20 | 2023-09-01 |  |
+| [Destiny](https://open.spotify.com/track/3G3zUnmwnBHFC5UtlbLSQc) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [Destiny](https://open.spotify.com/album/03j399ZcmkaoIIW57fZV8f) | 2:20 | 2023-09-01 | 2023-10-13 |
+| [Destiny](https://open.spotify.com/track/7h7k4bYY9gdAC3S7BIWpYK) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [Looking Through The Shades](https://open.spotify.com/album/3sKBPdPT9GZhC3cHmaWEJC) | 2:20 | 2023-09-01 |  |
 | [Dirty Dan](https://open.spotify.com/track/3CS9KbKRetHgdl2t1aXIey) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Mafia Musik](https://open.spotify.com/album/6lPdueChRz2BL6Tuz3fkMs) | 2:27 | 2023-09-01 |  |
 | [Do What You Want To](https://open.spotify.com/track/5JfsVEqCvEiJCGoFsqBlqt) | [Vexx](https://open.spotify.com/artist/1WLdnPjhj28UcETQSFW9Jg) | [The Wild Hunt EP](https://open.spotify.com/album/35rSyQKjL2b88lDYh1RiZD) | 2:56 | 2023-09-01 |  |
 | [ENDLESS](https://open.spotify.com/track/6yzMX2L7bjFbklJPfBIO3o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 1:58 | 2023-09-01 |  |

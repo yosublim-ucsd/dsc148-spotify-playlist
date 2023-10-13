@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 153267,
+  "num_followers": 153291,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWViNDRjY2FhMWUyODI4ZjhjZDhmYmExY2RlMDNjMzNlYzBmYWMy",
+  "snapshot_id": "MCw4MTJmYzM2ZDdjMjVhNDhlYjJiZjE5YzU1NWY2YmEzYjA1NWFmY2Iz",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "No Quit",
         "url": "https://open.spotify.com/album/1YhIJxRStr6P4klotOPv9N"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 193520,
       "name": "No Quit",
       "url": "https://open.spotify.com/track/3zGn3DuQSsh5g6o2r6IwJg"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Olympians",
-        "url": "https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ"
-      },
-      "artists": [
-        {
-          "name": "The Olympians",
-          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
-        }
-      ],
-      "duration_ms": 271466,
-      "name": "Apollo's Mood",
-      "url": "https://open.spotify.com/track/5pvYvvO0IDkuK1FDWPWMXy"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "L.W.",
         "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 220216,
       "name": "O.N.E.",
       "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "The Olympians",
+        "url": "https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ"
+      },
+      "artists": [
+        {
+          "name": "The Olympians",
+          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
+        }
+      ],
+      "duration_ms": 271466,
+      "name": "Apollo's Mood",
+      "url": "https://open.spotify.com/track/5pvYvvO0IDkuK1FDWPWMXy"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/71ujjjzO4U0ED11m2tVzKu"
-      },
-      "artists": [
-        {
-          "name": "Wolf People",
-          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
-        }
-      ],
-      "duration_ms": 418146,
-      "name": "Kingfisher",
-      "url": "https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Flying Wig",
         "url": "https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Oh My God",
-        "url": "https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU"
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/71ujjjzO4U0ED11m2tVzKu"
       },
       "artists": [
         {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+          "name": "Wolf People",
+          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
         }
       ],
-      "duration_ms": 262542,
-      "name": "Sing a Glad Song",
-      "url": "https://open.spotify.com/track/0NvChpeglptzoEUB7jmcvz"
+      "duration_ms": 418146,
+      "name": "Kingfisher",
+      "url": "https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -807,6 +791,22 @@
       "duration_ms": 203319,
       "name": "Nighthawks",
       "url": "https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Oh My God",
+        "url": "https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 262542,
+      "name": "Sing a Glad Song",
+      "url": "https://open.spotify.com/track/0NvChpeglptzoEUB7jmcvz"
     },
     {
       "added_at": "2023-09-29 04:00:00",

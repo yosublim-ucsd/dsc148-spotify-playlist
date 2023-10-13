@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 260463,
+  "num_followers": 260101,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjM0NzNhZDU0YmQxNDNhNDE1YTM1MDE0MGM1NTRjMjBkZmMyOTc2",
+  "snapshot_id": "MCxmYTVlODRiYTkzODMzMDg4OGM3YTQ1OGIyNTA3NjA1MDY3MTQ0NTVh",
   "tracks": [
     {
       "added_at": "2023-09-25 17:39:49",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 179083,
-      "name": "Paper Mache World",
-      "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
-    },
-    {
-      "added_at": "2023-09-25 17:39:49",
-      "album": {
         "name": "Idle Mind",
         "url": "https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 295265,
       "name": "Warped Window",
       "url": "https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN"
+    },
+    {
+      "added_at": "2023-09-25 17:39:49",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 179083,
+      "name": "Paper Mache World",
+      "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
-        "name": "Fine Line / Eat The Acid",
-        "url": "https://open.spotify.com/album/3RBAnTbN7fcba7VRpQi14P"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "Eat The Acid",
-      "url": "https://open.spotify.com/track/7IaZ2WDYVYi0OImUNQm6Vl"
-    },
-    {
-      "added_at": "2023-09-25 17:39:49",
-      "album": {
         "name": "To Enjoy is the Only Thing",
         "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 252413,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/0HVxfx5x8dZSTaK7EnIByn"
+    },
+    {
+      "added_at": "2023-09-25 17:39:49",
+      "album": {
+        "name": "Fine Line / Eat The Acid",
+        "url": "https://open.spotify.com/album/3RBAnTbN7fcba7VRpQi14P"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "Eat The Acid",
+      "url": "https://open.spotify.com/track/7IaZ2WDYVYi0OImUNQm6Vl"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
+        "name": "Shower Song",
+        "url": "https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke"
+      },
+      "artists": [
+        {
+          "name": "tofusmell",
+          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
+        }
+      ],
+      "duration_ms": 167505,
+      "name": "Shower Song",
+      "url": "https://open.spotify.com/track/3pQ6Kt50YY8pnjwXK1z3Xm"
+    },
+    {
+      "added_at": "2023-09-25 17:39:49",
+      "album": {
         "name": "Off Off On",
         "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 158106,
       "name": "I'm Afraid I Love You",
       "url": "https://open.spotify.com/track/0EgDkAi1hzNK3D3DjWs4bL"
-    },
-    {
-      "added_at": "2023-09-25 17:39:49",
-      "album": {
-        "name": "Shower Song",
-        "url": "https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke"
-      },
-      "artists": [
-        {
-          "name": "tofusmell",
-          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
-        }
-      ],
-      "duration_ms": 167505,
-      "name": "Shower Song",
-      "url": "https://open.spotify.com/track/3pQ6Kt50YY8pnjwXK1z3Xm"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
-        "name": "The World We Built",
-        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 257173,
-      "name": "Capable",
-      "url": "https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh"
-    },
-    {
-      "added_at": "2023-09-25 17:39:49",
-      "album": {
         "name": "Flight Risk EP",
         "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 188615,
       "name": "Mortals",
       "url": "https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE"
+    },
+    {
+      "added_at": "2023-09-25 17:39:49",
+      "album": {
+        "name": "The World We Built",
+        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 257173,
+      "name": "Capable",
+      "url": "https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
-        "name": "Wild Parts",
-        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 239979,
-      "name": "Wild Parts",
-      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
-    },
-    {
-      "added_at": "2023-09-25 17:39:49",
-      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
-        "name": "Grim Town",
-        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
+        "name": "Wild Parts",
+        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
       },
       "artists": [
         {
-          "name": "SOAK",
-          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
         }
       ],
-      "duration_ms": 270664,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep"
+      "duration_ms": 239979,
+      "name": "Wild Parts",
+      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -1303,6 +1287,22 @@
       "duration_ms": 231670,
       "name": "Drown",
       "url": "https://open.spotify.com/track/1fw7XQl4AGxM8ppPAR6y2i"
+    },
+    {
+      "added_at": "2023-09-25 17:39:49",
+      "album": {
+        "name": "Grim Town",
+        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "duration_ms": 270664,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 201936,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
-    },
-    {
-      "added_at": "2023-09-25 17:39:49",
-      "album": {
         "name": "Infinite Worlds",
         "url": "https://open.spotify.com/album/45zSvzvSNt1TdTrGKEXwk7"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 213607,
       "name": "Fear & Force",
       "url": "https://open.spotify.com/track/18HVJpGSp8imRBOSj4RP8J"
+    },
+    {
+      "added_at": "2023-09-25 17:39:49",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        }
+      ],
+      "duration_ms": 201936,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
-        "name": "I Don't Want To Let You Down b/w All Over Again",
-        "url": "https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 242893,
-      "name": "I Don't Want to Let You Down",
-      "url": "https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq"
-    },
-    {
-      "added_at": "2023-09-25 17:39:49",
-      "album": {
         "name": "Kitchen Table",
         "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 208800,
       "name": "Kitchen Table",
       "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
+    },
+    {
+      "added_at": "2023-09-25 17:39:49",
+      "album": {
+        "name": "I Don't Want To Let You Down b/w All Over Again",
+        "url": "https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 242893,
+      "name": "I Don't Want to Let You Down",
+      "url": "https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq"
     },
     {
       "added_at": "2023-09-25 17:39:49",

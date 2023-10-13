@@ -1,12 +1,12 @@
 {
   "description": "A llorar a la llorer\u00eda.",
-  "num_followers": 299023,
+  "num_followers": 299207,
   "original_name": "Hora de la Lloraci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDU2NTBmNWZhZDY5ZTU5ZTE1Nzc5ZTAzZjdjYmI2NDBlZDExMmYz",
+  "snapshot_id": "MCw5NWVkYmJhNGI1NmQyNzM3NmQ0MjY1YWE4NmNlNjQ5ZWJjOWUzMzUz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:59:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-10-06 04:59:00",
       "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 184511,
-      "name": "Que Se Parezca A Ti",
-      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
-    },
-    {
-      "added_at": "2023-10-06 04:59:00",
-      "album": {
         "name": "ESQUINAS",
         "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 232795,
       "name": "2NDO CHANCE",
       "url": "https://open.spotify.com/track/4JyfG2WBcDjlc8TODyBIbx"
+    },
+    {
+      "added_at": "2023-10-06 04:59:00",
+      "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 184511,
+      "name": "Que Se Parezca A Ti",
+      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
     },
     {
       "added_at": "2023-10-06 04:59:00",

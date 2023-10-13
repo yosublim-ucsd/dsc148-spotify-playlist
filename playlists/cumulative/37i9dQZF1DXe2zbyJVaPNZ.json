@@ -1799,6 +1799,24 @@
     },
     {
       "album": {
+        "name": "Leading Light",
+        "url": "https://open.spotify.com/album/0S30lEmZbJzxzJuSnn83OR"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213552,
+      "name": "Leading Light",
+      "url": "https://open.spotify.com/track/36M8Y3KGOqj9VutRdQ12oE"
+    },
+    {
+      "album": {
         "name": "Resonant Bodies",
         "url": "https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz"
       },
@@ -2398,6 +2416,32 @@
       "duration_ms": 267980,
       "name": "Pre-Dawn Landscape",
       "url": "https://open.spotify.com/track/1xm9Oaljikz6usiy1q9l8R"
+    },
+    {
+      "album": {
+        "name": "Protect Your Soul",
+        "url": "https://open.spotify.com/album/4ee4vOZ7YFEWfRYLPCtwSS"
+      },
+      "artists": [
+        {
+          "name": "Natural Space",
+          "url": "https://open.spotify.com/artist/6kBh9KP21Uw1fbnq1oY9Nz"
+        },
+        {
+          "name": "Nazibrola",
+          "url": "https://open.spotify.com/artist/6IIKAH6Oj6znfZZC0JsnUj"
+        },
+        {
+          "name": "Relax Yourself",
+          "url": "https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145387,
+      "name": "Protect Your Soul",
+      "url": "https://open.spotify.com/track/6R4Gy59aFE9fg8NOTJ5Ndg"
     },
     {
       "album": {

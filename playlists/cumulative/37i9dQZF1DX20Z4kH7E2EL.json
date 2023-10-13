@@ -2507,6 +2507,28 @@
     },
     {
       "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/7JYcgSMmsH4JAylYu21jeJ"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
+        },
+        {
+          "name": "Fredrik Ferrier",
+          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432291,
+      "name": "Obsessed - Extended Mix",
+      "url": "https://open.spotify.com/track/3JVxO7366xPzmFqEha1xZS"
+    },
+    {
+      "album": {
         "name": "Obsessed EP",
         "url": "https://open.spotify.com/album/75VFo3nmd2EmNnTp6I9lTj"
       },
@@ -2522,7 +2544,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 432291,
       "name": "Obsessed - Extended Mix",
       "url": "https://open.spotify.com/track/4xLyA7ZU4dvDnmTlSLdKFs"

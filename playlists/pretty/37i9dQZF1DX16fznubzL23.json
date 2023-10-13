@@ -1,12 +1,12 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 15284,
+  "num_followers": 15328,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODY5NTY1NzJmMTEwNTZiZmJhYThiMzE1MTcyOWJlODRmYTYwYmMy",
+  "snapshot_id": "MCw2MGRmNDViNzQyNDIzZTY1NDliZjc0Yzk1MjkyNDRiYzRkNDYyZWJl",
   "tracks": [
     {
       "added_at": "2023-09-29 00:01:00",
@@ -59,6 +59,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "Barnabas",
+        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 146399,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "Hamba Juba",
         "url": "https://open.spotify.com/album/4FnwIltkf5tGWFXJCcECaz"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 480016,
       "name": "Hamba Juba",
       "url": "https://open.spotify.com/track/4k5FlWz3dfhyQzmRpVPZsW"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Barnabas",
-        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 146399,
-      "name": "Pour Me Water",
-      "url": "https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0"
     },
     {
       "added_at": "2023-09-29 00:01:00",

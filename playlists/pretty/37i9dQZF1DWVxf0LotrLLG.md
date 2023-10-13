@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,875 likes - 239 songs - 12 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,904 likes - 239 songs - 12 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 4 | [It Takes 3](https://open.spotify.com/track/15ggd6ccKQ1UJ4mzltHsh1) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Trackhouse](https://open.spotify.com/album/1l86t4bTNT2j1X0ZBCIv6R) | 1:56 |
 | 5 | [Lit In The City](https://open.spotify.com/track/6lO43QMcwGkoGXaSbFIlt8) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Trackhouse](https://open.spotify.com/album/1l86t4bTNT2j1X0ZBCIv6R) | 3:39 |
 | 6 | [Suave](https://open.spotify.com/track/6ZTTj1y8kEtADL3nMHoV4a) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Trackhouse](https://open.spotify.com/album/1l86t4bTNT2j1X0ZBCIv6R) | 2:15 |
-| 7 | [LUCES DE TECNO](https://open.spotify.com/track/3DBtvrhv3SAgK7s6zBGgbe) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:43 |
+| 7 | [LUCES DE TECNO](https://open.spotify.com/track/0goXAEnjWhssHU0y9Zyqyf) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:44 |
 | 8 | [VELOCIDAD CRUCERO](https://open.spotify.com/track/7bLJA1PblcBfTU6aqB1Gct) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:15 |
 | 9 | [EY CHORY](https://open.spotify.com/track/1npr0HhhkrcTOgqWOp76TM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:58 |
 | 10 | [2NDO CHANCE](https://open.spotify.com/track/4JyfG2WBcDjlc8TODyBIbx) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:52 |
@@ -248,4 +248,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 238 | [CAEN LAS ESTRELLAS](https://open.spotify.com/track/4L2v8fOruCUk2wbXC0PKHt) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:25 |
 | 239 | [8 AM](https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:27 |
 
-Snapshot ID: `MCxkYTQ0MmFiZjlmOTgyNDYxMGE2NmFmZWMyYjI2ZDQ2YmRmZWYzMmYz`
+Snapshot ID: `MCxlMzgwZGRkMWJjYTBkNDE4MWQwMzczMGM0YTAxODMyYTA0NGRlMjk4`

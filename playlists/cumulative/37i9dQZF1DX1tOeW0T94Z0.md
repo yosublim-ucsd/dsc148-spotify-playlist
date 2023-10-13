@@ -4,7 +4,7 @@
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Maestro Fresh Wes
 
-138 songs - 9 hr 2 min
+139 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [The Things You Do](https://open.spotify.com/track/7tWFRBo5EOdbYK10EQ9h9k) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [This Is Me](https://open.spotify.com/album/1TxrxojeqyWD6XcYeol4UH) | 4:14 | 2022-07-01 | 2022-12-29 |
 | [Thinkin' About You](https://open.spotify.com/track/1a9LoNwmEosWHvTxF1SCy8) | [2rude](https://open.spotify.com/artist/4Iidg3Dx7YDYjhsScQWr50), [Latoya & Miranda](https://open.spotify.com/artist/3C7A9mDljV6eGQ9HAHdDU3), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1), [Smoothe Da'hustler](https://open.spotify.com/artist/5RT4FJsehaXq57F9lYdJDH) | [2Rude \(Rudimental 2K Remastered\)](https://open.spotify.com/album/1EVrrsLa9ZezXXhJ5kXrZD) | 3:46 | 2022-10-14 |  |
 | [Top Of The World \(feat\. Barrington Levy & k\-os\)](https://open.spotify.com/track/3wQ5GjgkmtHacx00hJiU8q) | [Rascalz](https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u), [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Global Warning](https://open.spotify.com/album/0Iy2vD1FWExzywkHNSeYO4) | 4:48 | 2022-07-01 |  |
-| [U Can Have It All](https://open.spotify.com/track/53ZIzhozH4pkPvQTVeEbsm) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [IAMJRDN](https://open.spotify.com/album/179DxfuuPAq1CobzAL9ui3) | 3:11 | 2022-08-31 |  |
+| [U Can Have It All](https://open.spotify.com/track/53ZIzhozH4pkPvQTVeEbsm) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [IAMJRDN](https://open.spotify.com/album/179DxfuuPAq1CobzAL9ui3) | 3:11 | 2022-08-31 | 2023-10-13 |
+| [U Can Have It All](https://open.spotify.com/track/6WmiyYrLNBIfjUqgFTKukP) | [JRDN](https://open.spotify.com/artist/5v44WEYTAsI7rnuxsfJBly) | [High Definition](https://open.spotify.com/album/6PwZAxwUliHlGiZZjIQKjQ) | 3:14 | 2023-10-06 |  |
 | [Understand \(if I\)](https://open.spotify.com/track/3lm6bZvg9LnZ8HtWz3YxJe) | [Eternia](https://open.spotify.com/artist/5rBu1wBWucwQGQzH3kLBQu), [Freestyle of the Arsonists](https://open.spotify.com/artist/2iqEFCApLOpLXfAHq8g9uf) | [Its Called Life](https://open.spotify.com/album/1iEev89vPxB4CXZ59pjjKL) | 3:53 | 2023-08-09 |  |
 | [Unpredictable](https://open.spotify.com/track/0Zgb43gj2uE9whLC3rft8R) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Keshia Chanté](https://open.spotify.com/album/2TOZYKbE9i6wz3w2kucTbY) | 3:35 | 2022-07-01 | 2022-07-29 |
 | [Unpredictable](https://open.spotify.com/track/1TMoF9LBoN1FJ5VJUnDAcv) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Keshia Chanté](https://open.spotify.com/album/5DX2VIiIzs2YOxIwu5ladI) | 3:35 | 2022-07-01 | 2022-12-29 |

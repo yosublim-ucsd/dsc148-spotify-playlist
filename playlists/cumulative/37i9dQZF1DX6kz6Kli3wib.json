@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Core Memories",
+        "url": "https://open.spotify.com/album/2D1otRSyfy1b5x4eVUz0Dx"
+      },
+      "artists": [
+        {
+          "name": "Folta Tres",
+          "url": "https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130472,
+      "name": "Core Memories",
+      "url": "https://open.spotify.com/track/1FjGlhlZu0qFjRgro5J3VH"
+    },
+    {
+      "album": {
         "name": "Cosmopolitan",
         "url": "https://open.spotify.com/album/0tim8AlkIqLinWNnGqv2yf"
       },

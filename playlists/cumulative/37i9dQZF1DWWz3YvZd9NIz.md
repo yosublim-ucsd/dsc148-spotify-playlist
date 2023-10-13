@@ -4,7 +4,7 @@
 
 > The best remixes of popular tracks!
 
-157 songs - 7 hr 53 min
+158 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Cotton Eye Joe](https://open.spotify.com/track/6drFg3M61Ed3puJCcQ44XI) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Cotton Eye Joe](https://open.spotify.com/album/554PqhvRs4nc1b5M9Er6Ej) | 2:26 | 2023-04-20 | 2023-08-22 |
 | [Country Roads](https://open.spotify.com/track/6wwAp1Cmkcwc7tlrP9U2X9) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Country Roads](https://open.spotify.com/album/5oZGGyO9tPtYKOkLi2rxkf) | 2:53 | 2022-12-05 |  |
 | [Creep \- Hardstyle Remix](https://open.spotify.com/track/3VwxvFdVh7i0NdroGxP3oz) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Creep \(Hardstyle Remix\)](https://open.spotify.com/album/0Qi2ncqZObbbkOlAt8MI92) | 3:07 | 2022-12-05 |  |
+| [Creepin'](https://open.spotify.com/track/2x0Ou7mCri8Vd0diZMSCYa) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Creepin'](https://open.spotify.com/album/4MiBGdZ6njq79hGC6W9ppk) | 2:21 | 2023-10-12 |  |
 | [Daddy DJ](https://open.spotify.com/track/2Rq69o9Sim7evcQ382ylPR) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Karlie Chui](https://open.spotify.com/artist/3DRMPNs23drO22bqK9ceWA) | [Daddy DJ](https://open.spotify.com/album/6Fp2vEjNNadaQMw0JgbFCZ) | 3:42 | 2023-09-07 |  |
 | [Dark Horse \(Hardstyle\)](https://open.spotify.com/track/1U43pviSmkzoBDxIqPWbAc) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Dark Horse \(Hardstyle\)](https://open.spotify.com/album/0WNNiEmWs9OlBiZaBvM9Et) | 1:48 | 2023-02-09 | 2023-05-23 |
 | [Dark Horse \(Hardstyle\)](https://open.spotify.com/track/5aJT7dU40Ry4zz1zI34845) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Dark Horse \(Hardstyle\)](https://open.spotify.com/album/26AwKORtQduylqg17xd0MH) | 1:48 | 2023-05-18 |  |
@@ -157,7 +158,7 @@
 | [Turn The Tide Revisited](https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh) | [Lowriderz](https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy) | [Turn The Tide Revisited](https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz) | 3:08 | 2023-04-20 | 2023-07-14 |
 | [Twerk Anthem](https://open.spotify.com/track/0cZ6KOvnLf0C0GKLti31No) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Twerk Anthem](https://open.spotify.com/album/3cWHRG6B0GYAgusM50re31) | 2:50 | 2023-02-02 | 2023-04-30 |
 | [UNHOLY \(HARDSTYLE\)](https://open.spotify.com/track/2oh6jvkOXFs2DTn4ZRtA2i) | [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh), [Anthony Vincent](https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6) | [UNHOLY \(HARDSTYLE\)](https://open.spotify.com/album/0gCd0ywIXYZPmxsNu42vm7) | 3:15 | 2023-02-23 | 2023-03-31 |
-| [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 | 2023-03-02 |  |
+| [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 | 2023-03-02 | 2023-10-13 |
 | [Vamos A La Playa \- Dr Rude Remix](https://open.spotify.com/track/20HZWH7V52mxvcy0D9LZY8) | [Hak op de Tak](https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e), [Barry Fest](https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY), [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s) | [Vamos A La Playa \(Dr Rude Remix\)](https://open.spotify.com/album/5A9pHSSbNyu4RN5ak3KP8q) | 2:37 | 2023-02-09 | 2023-04-12 |
 | [Wake Me Up \- Hardstyle Remix](https://open.spotify.com/track/4IaI3OzwnVo6XyooQ0Rua0) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Patrick Lentz](https://open.spotify.com/artist/21uICil8mM128FNvcYJDv0) | [Wake Me Up \(Hardstyle Remix\)](https://open.spotify.com/album/0KWzjPlv7fx0JOuKrNledF) | 3:06 | 2022-12-28 | 2023-04-12 |
 | [Weekend!](https://open.spotify.com/track/1lV8sXL01UVaw6g0fawtsC) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Weekend!](https://open.spotify.com/album/5Gqc1Uoo4Zfmwhmx3ZnNYu) | 3:06 | 2023-09-27 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 14547,
+  "num_followers": 14593,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDc3ZWJjYzFmYjhiY2Y4MGZlYTMyYjNhMTY5OGUxM2RhOWI3NjQ5",
+  "snapshot_id": "MCw5ZGU1ZjFjNzNhNmU1ODlhZTU3NDQ1OWZmZDVkMGJiMTk3NzBhNDA1",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Choral",
-        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
-      },
-      "artists": [
-        {
-          "name": "Mountains",
-          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Sheets Two",
-      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Pop",
         "url": "https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 311560,
       "name": "Pop 1",
       "url": "https://open.spotify.com/track/3T6hC2yWf0fsUxM7uWXkDn"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Choral",
+        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
+      },
+      "artists": [
+        {
+          "name": "Mountains",
+          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Sheets Two",
+      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
-      },
-      "artists": [
-        {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
-        }
-      ],
-      "duration_ms": 344560,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Disintegration Loops (Remastered)",
         "url": "https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 650213,
       "name": "dlp 2.1",
       "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
+      },
+      "artists": [
+        {
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+        }
+      ],
+      "duration_ms": 344560,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Sings Reign Rebuilder",
-        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
-      },
-      "artists": [
-        {
-          "name": "Set Fire To Flames",
-          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
-        }
-      ],
-      "duration_ms": 169439,
-      "name": "Fading Lights Are Fading... / Reign Rebuilder (Tail Out)",
-      "url": "https://open.spotify.com/track/6K15unc1vl82m4O5CcKykE"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "When the Detail Lost Its Freedom",
         "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 282106,
       "name": "Rivers of Sand",
       "url": "https://open.spotify.com/track/3enFTlwkCRF5HUM8xX6FKB"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Sings Reign Rebuilder",
+        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
+      },
+      "artists": [
+        {
+          "name": "Set Fire To Flames",
+          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+        }
+      ],
+      "duration_ms": 169439,
+      "name": "Fading Lights Are Fading... / Reign Rebuilder (Tail Out)",
+      "url": "https://open.spotify.com/track/6K15unc1vl82m4O5CcKykE"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Sings Reign Rebuilder",
-        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
       },
       "artists": [
         {
-          "name": "Set Fire To Flames",
-          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
         }
       ],
-      "duration_ms": 102239,
-      "name": "Jesus / Pop",
-      "url": "https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N"
+      "duration_ms": 236773,
+      "name": "Silent Motels",
+      "url": "https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -811,22 +811,6 @@
       "duration_ms": 229933,
       "name": "N.L.T.",
       "url": "https://open.spotify.com/track/3OIRQC5qvLCXwJzj9JC1k2"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
-      },
-      "artists": [
-        {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
-        }
-      ],
-      "duration_ms": 236773,
-      "name": "Silent Motels",
-      "url": "https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -899,6 +883,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Sings Reign Rebuilder",
+        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
+      },
+      "artists": [
+        {
+          "name": "Set Fire To Flames",
+          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+        }
+      ],
+      "duration_ms": 102239,
+      "name": "Jesus / Pop",
+      "url": "https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Yesterday Was Dramatic \u2013 Today Is OK",
         "url": "https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2"
       },
@@ -927,6 +927,26 @@
       "duration_ms": 394693,
       "name": "City of Light",
       "url": "https://open.spotify.com/track/1x5gVSrVSGtnNZ3JewrKKH"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "After The Night Falls",
+        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "How Distant Your Heart",
+      "url": "https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1031,42 +1051,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "After The Night Falls",
-        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "How Distant Your Heart",
-      "url": "https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Lambent Material",
-        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 278173,
-      "name": "The Unfinished",
-      "url": "https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Riceboy Sleeps (2019 Remaster)",
         "url": "https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "October Language",
-        "url": "https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r"
+        "name": "Lambent Material",
+        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
       },
       "artists": [
         {
-          "name": "Belong",
-          "url": "https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW"
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
         }
       ],
-      "duration_ms": 313866,
-      "name": "I'm Too Sleepy...Shall We Swim?",
-      "url": "https://open.spotify.com/track/6bSDsTjVh6RIfYqHDxUyD3"
+      "duration_ms": 278173,
+      "name": "The Unfinished",
+      "url": "https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Talk Amongst the Trees",
-        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
+        "name": "October Language",
+        "url": "https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r"
       },
       "artists": [
         {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+          "name": "Belong",
+          "url": "https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW"
         }
       ],
-      "duration_ms": 330666,
-      "name": "Calm Of The Cast-Light Cloud",
-      "url": "https://open.spotify.com/track/5e5lDuehzdZRJaoRjCmwPj"
+      "duration_ms": 313866,
+      "name": "I'm Too Sleepy...Shall We Swim?",
+      "url": "https://open.spotify.com/track/6bSDsTjVh6RIfYqHDxUyD3"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Imperial",
+        "url": "https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "duration_ms": 387293,
+      "name": "Thunderbird Road",
+      "url": "https://open.spotify.com/track/4T5LHqEJI344VvCf2xlKcQ"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Varde",
         "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
       },
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Imperial",
-        "url": "https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH"
+        "name": "Talk Amongst the Trees",
+        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
       },
       "artists": [
         {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
         }
       ],
-      "duration_ms": 387293,
-      "name": "Thunderbird Road",
-      "url": "https://open.spotify.com/track/4T5LHqEJI344VvCf2xlKcQ"
+      "duration_ms": 330666,
+      "name": "Calm Of The Cast-Light Cloud",
+      "url": "https://open.spotify.com/track/5e5lDuehzdZRJaoRjCmwPj"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Glider",
+        "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
+      },
+      "artists": [
+        {
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        }
+      ],
+      "duration_ms": 357866,
+      "name": "Further Away",
+      "url": "https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Second Childhood",
         "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 371480,
       "name": "The Direction Was Foggy or Cloudy",
       "url": "https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Glider",
-        "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
-      },
-      "artists": [
-        {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        }
-      ],
-      "duration_ms": 357866,
-      "name": "Further Away",
-      "url": "https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Mist",
-        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
-      },
-      "artists": [
-        {
-          "name": "Tor Lundvall",
-          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "The Mist",
-      "url": "https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Imperial",
         "url": "https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH"
       },
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "The Mist",
+        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
+      },
+      "artists": [
+        {
+          "name": "Tor Lundvall",
+          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "The Mist",
+      "url": "https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Choral",
         "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
       },
@@ -1515,6 +1515,38 @@
       "duration_ms": 550626,
       "name": "Add Infinity",
       "url": "https://open.spotify.com/track/5lu1wPCFtswHQVnEYrv1iz"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Von Schn\u00e4beln",
+      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Prism of Eternal Now",
+        "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
+      },
+      "artists": [
+        {
+          "name": "White Rainbow",
+          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
+        }
+      ],
+      "duration_ms": 404200,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1539,38 +1571,6 @@
       "duration_ms": 394680,
       "name": "It's About the Size of a House",
       "url": "https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Prism of Eternal Now",
-        "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
-      },
-      "artists": [
-        {
-          "name": "White Rainbow",
-          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
-        }
-      ],
-      "duration_ms": 404200,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Von Schn\u00e4beln",
-      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 378840,
-      "name": "Welk",
-      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Inlandish",
         "url": "https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 187960,
       "name": "The Orchardist",
       "url": "https://open.spotify.com/track/4wowzbudA7AirG6ibEjaFJ"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 378840,
+      "name": "Welk",
+      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
     }
   ],
   "unique_name": "Ambient 2000s",

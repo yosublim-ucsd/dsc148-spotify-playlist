@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 175044,
+  "num_followers": 175076,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDJmZGViZGM5OTU1NGExODVlYzJlZmU4MDUzMjcxMWEzYzA4Zjdj",
+  "snapshot_id": "MCxmM2RhNzI2OTJhOTFlOTcwZmZlZjMzZjhiZTVmY2EyOTg5ZjNiZTEx",
   "tracks": [
     {
       "added_at": "2022-12-30 20:18:36",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "De Amor y Salsa",
-        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
+        "name": "Aqui Estoy Yo",
+        "url": "https://open.spotify.com/album/0fPICPWeindghNQxlegLQB"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Roberto Lugo",
+          "url": "https://open.spotify.com/artist/07ORe1OIPJ0bjk4Fs9nQEK"
         }
       ],
-      "duration_ms": 332253,
-      "name": "Dejame Sentirte",
-      "url": "https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q"
+      "duration_ms": 322360,
+      "name": "Si Me Dejas Amarte",
+      "url": "https://open.spotify.com/track/6WECgPu7PHErTFnehoRSc8"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Aqui Estoy Yo",
-        "url": "https://open.spotify.com/album/0fPICPWeindghNQxlegLQB"
+        "name": "De Amor y Salsa",
+        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
       },
       "artists": [
         {
-          "name": "Roberto Lugo",
-          "url": "https://open.spotify.com/artist/07ORe1OIPJ0bjk4Fs9nQEK"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 322360,
-      "name": "Si Me Dejas Amarte",
-      "url": "https://open.spotify.com/track/6WECgPu7PHErTFnehoRSc8"
+      "duration_ms": 332253,
+      "name": "Dejame Sentirte",
+      "url": "https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "De Amor y Salsa",
-        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 313533,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Serie Millennium 21: Paquito Guzman",
+        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
+      },
+      "artists": [
+        {
+          "name": "Paquito Guzman",
+          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
+        }
+      ],
+      "duration_ms": 279106,
+      "name": "25 Rosas",
+      "url": "https://open.spotify.com/track/7BxjRWadxvkrqxC0J3ZHxK"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
+        "name": "De Amor y Salsa",
+        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 313533,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
         "name": "Back To Work",
         "url": "https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 398536,
       "name": "Te Vas De Mi",
       "url": "https://open.spotify.com/track/4kp9lpxCVbe5R9mxl5sFGB"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
-        "name": "Serie 32: Frankie Ruiz",
-        "url": "https://open.spotify.com/album/0c4wf1zsEMYxgMuz9J0gnf"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 322493,
-      "name": "Mujer",
-      "url": "https://open.spotify.com/track/7zwGJg9R0rjP9ttda4PAaK"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Serie Millennium 21: Paquito Guzman",
-        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
+        "name": "Serie 32: Frankie Ruiz",
+        "url": "https://open.spotify.com/album/0c4wf1zsEMYxgMuz9J0gnf"
       },
       "artists": [
         {
-          "name": "Paquito Guzman",
-          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 279106,
-      "name": "25 Rosas",
-      "url": "https://open.spotify.com/track/7BxjRWadxvkrqxC0J3ZHxK"
+      "duration_ms": 322493,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/7zwGJg9R0rjP9ttda4PAaK"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Mas Grande Que Nunca",
-        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 266013,
-      "name": "Tu Eres",
-      "url": "https://open.spotify.com/track/7cmBAZF5FSlNLRKaPmBKHZ"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "Por el Buen Camino",
         "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
       },
@@ -1135,22 +1119,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 286413,
-      "name": "Date un Chance",
-      "url": "https://open.spotify.com/track/0kBdq1VTuJNeAX3gF3A7Mj"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
       },
@@ -1163,6 +1131,38 @@
       "duration_ms": 176733,
       "name": "Como Fue",
       "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
+        "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 230026,
+      "name": "Desesperado",
+      "url": "https://open.spotify.com/track/3dH8qYlVlwR9xFdeIEfNWp"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Mas Grande Que Nunca",
+        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 266013,
+      "name": "Tu Eres",
+      "url": "https://open.spotify.com/track/7cmBAZF5FSlNLRKaPmBKHZ"
     },
     {
       "added_at": "2022-12-30 20:18:36",

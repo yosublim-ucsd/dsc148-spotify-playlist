@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Anggi Marito",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Maulana Ardiansyah",
   "name": "RADAR Indonesia",
   "tracks": [
     {
@@ -2726,6 +2726,24 @@
       "duration_ms": 319300,
       "name": "Takut",
       "url": "https://open.spotify.com/track/3ciZ0IbqYoFV7R20D0TBgA"
+    },
+    {
+      "album": {
+        "name": "Tanya Hatimu",
+        "url": "https://open.spotify.com/album/1gAg60OyhZl1W7VjmfjrXL"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270162,
+      "name": "Tanya Hatimu",
+      "url": "https://open.spotify.com/track/22mwaQkDEwU2W1y99VazbD"
     },
     {
       "album": {

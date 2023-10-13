@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="spotify:artist:3qfrrrSO7utFdJkM2tvMRb">CeCe Winans<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,628 likes - 100 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,755 likes - 100 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [One Day](https://open.spotify.com/track/1aWEgCat4z6MwWZHQEdwPT) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [One Day](https://open.spotify.com/album/2X56R8P00VmhcRKhc8CMmF) | 3:41 |
 | 100 | [Waiting \(Reimagined\)](https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Waiting \(Reimagined\)](https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur) | 3:45 |
 
-Snapshot ID: `MCxhY2JjYWY4MTY2ODcxY2NkODg4N2M4ZmQ1NzkxNDk5YmI3YzY3ZDc4`
+Snapshot ID: `MCxjOTEzMmUyMGNmMTU4YjkxNTI3N2QwZmUwNmRlZjcwMjI3MzRjZjIw`

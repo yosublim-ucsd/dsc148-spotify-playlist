@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 244408,
+  "num_followers": 244496,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDg4NGE4MGY2ZWQwNTM0MDg5YzVhZDdhYTgzMTBkN2NiNzk3OGFj",
+  "snapshot_id": "MCw2NjkzMTFhMWI1N2QyMTQ4Mjk4YzM3MzdjM2U2Y2E0YzVmYmRiMGE5",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "unexpected",
-        "url": "https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ"
-      },
-      "artists": [
-        {
-          "name": "eevee",
-          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
-        }
-      ],
-      "duration_ms": 86571,
-      "name": "viola",
-      "url": "https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Gentle Boy",
         "url": "https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Buena Vista",
-        "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
+        "name": "unexpected",
+        "url": "https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ"
       },
       "artists": [
         {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+          "name": "eevee",
+          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
         }
       ],
-      "duration_ms": 99996,
-      "name": "Sakura Trees",
-      "url": "https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN"
+      "duration_ms": 86571,
+      "name": "viola",
+      "url": "https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -487,6 +471,22 @@
       "duration_ms": 134025,
       "name": "Steven Universe",
       "url": "https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Buena Vista",
+        "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 99996,
+      "name": "Sakura Trees",
+      "url": "https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Gravity Falls",
+        "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
+      },
+      "artists": [
+        {
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Gravity Falls",
+      "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 102176,
       "name": "Redbone",
       "url": "https://open.spotify.com/track/2hYuPn9UXZCqkA3mMedCXe"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Gravity Falls",
-        "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
-      },
-      "artists": [
-        {
-          "name": "L.Dre",
-          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Gravity Falls",
-      "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
     },
     {
       "added_at": "2022-02-02 00:21:48",

@@ -338,7 +338,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 145650,
       "name": "Catch Me If You Can",
       "url": "https://open.spotify.com/track/4JPo4J1xN78RG0Ggxet8hg"
@@ -899,6 +899,28 @@
     },
     {
       "album": {
+        "name": "Face Of Chaos (Luminite Remix)",
+        "url": "https://open.spotify.com/album/6Kf4PF4uTxI4iARE73OYyY"
+      },
+      "artists": [
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        },
+        {
+          "name": "Luminite",
+          "url": "https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Face Of Chaos - Luminite Remix",
+      "url": "https://open.spotify.com/track/5ea5bznm32Y9VZ8qFlhZ3E"
+    },
+    {
+      "album": {
         "name": "Faith Of This World (Original Mix)",
         "url": "https://open.spotify.com/album/66FezURQqWeQTcoxvAlOeE"
       },
@@ -1280,6 +1302,32 @@
       "duration_ms": 151874,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/6tv7rh2WOO6WEbzYI9aUYd"
+    },
+    {
+      "album": {
+        "name": "Heartache",
+        "url": "https://open.spotify.com/album/3l79VbT1LAHSIVB3Scrsk4"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191518,
+      "name": "Heartache",
+      "url": "https://open.spotify.com/track/6D58y0FkssslpxMqC2UfB9"
     },
     {
       "album": {
@@ -2816,7 +2864,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 191519,
       "name": "The Remedy",
       "url": "https://open.spotify.com/track/6cvjpsHCih5fVlKTuuZFCH"

@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 152000,
       "name": "Coffee Wave",
       "url": "https://open.spotify.com/track/6aNGqho5YSTVFtCj85GgfR"
@@ -2150,6 +2150,24 @@
       "duration_ms": 99317,
       "name": "Common Sunflower",
       "url": "https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL"
+    },
+    {
+      "album": {
+        "name": "Con Bajo Fidelidad",
+        "url": "https://open.spotify.com/album/48DVavFPcUDBx8p5pN0YFg"
+      },
+      "artists": [
+        {
+          "name": "The Fly Guy Five",
+          "url": "https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130978,
+      "name": "Con Bajo Fidelidad",
+      "url": "https://open.spotify.com/track/0Ti4yQxF7IyyhK3rIT1cdw"
     },
     {
       "album": {
@@ -3933,6 +3951,24 @@
     },
     {
       "album": {
+        "name": "Hokkaido Breeze",
+        "url": "https://open.spotify.com/album/2FuriS42295H1EzGOwZV6x"
+      },
+      "artists": [
+        {
+          "name": "Furry Beats",
+          "url": "https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140470,
+      "name": "Hokkaido Breeze",
+      "url": "https://open.spotify.com/track/20aWMDQFYgx0da54JctdZd"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0ulwOH308qSJ5dcoUnehtV"
       },
@@ -3948,7 +3984,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 147750,
       "name": "Home",
       "url": "https://open.spotify.com/track/4sXh3eo15M3C5TTPWzo52L"
@@ -5722,7 +5758,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 149647,
       "name": "Na Bosana II",
       "url": "https://open.spotify.com/track/1IUT3BorvndecJgtcyMWPu"
@@ -9140,7 +9176,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 106046,
       "name": "Tropics",
       "url": "https://open.spotify.com/track/7CyeuyJTmcqs0OnJJy53wA"
@@ -9180,6 +9216,24 @@
       "duration_ms": 162243,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/7wrXYrhwg4MfjowXE87GsW"
+    },
+    {
+      "album": {
+        "name": "Turnarounds",
+        "url": "https://open.spotify.com/album/59pR0anVAX7bEA1nlDnGdA"
+      },
+      "artists": [
+        {
+          "name": "HLY WUD",
+          "url": "https://open.spotify.com/artist/51htK4Ln3sMNbTBcs7Ft8S"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116624,
+      "name": "Turnarounds",
+      "url": "https://open.spotify.com/track/4d2UJiZtKRJMc4DZMqo9m9"
     },
     {
       "album": {

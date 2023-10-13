@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Georgio, Patrick Watson",
-  "num_followers": 38305,
+  "num_followers": 38304,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2VkNmQxY2YyNmMwOTkxMDViNjI3ZjliYWQwNTFkZjM1YzUzMzQ3",
+  "snapshot_id": "MCw5Mzg4OGI0Y2UyMTNhMzFhYTMwZGY3MjlhZTg2OTY4MWExZTVlZDNh",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -359,18 +359,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "DNK (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf"
+        "name": "SI TE LLAMO",
+        "url": "https://open.spotify.com/album/1KRzEnTp6irxrQlooxTrQd"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 163253,
-      "name": "Bisous",
-      "url": "https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj"
+      "duration_ms": 207338,
+      "name": "SI TE LLAMO",
+      "url": "https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -395,22 +399,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "SI TE LLAMO",
-        "url": "https://open.spotify.com/album/1KRzEnTp6irxrQlooxTrQd"
+        "name": "DNK (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 207338,
-      "name": "SI TE LLAMO",
-      "url": "https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s"
+      "duration_ms": 163253,
+      "name": "Bisous",
+      "url": "https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -499,18 +499,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "C\u2019est la Vie",
-        "url": "https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD"
+        "name": "Vautours",
+        "url": "https://open.spotify.com/album/4W8PYeeUqDsani46ODRgLK"
       },
       "artists": [
         {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
         }
       ],
-      "duration_ms": 208469,
-      "name": "C\u2019est la Vie",
-      "url": "https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb"
+      "duration_ms": 190815,
+      "name": "Vautours",
+      "url": "https://open.spotify.com/track/3Z6CZX1swZYFc4vInNQzIO"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -531,22 +535,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Vautours",
-        "url": "https://open.spotify.com/album/4W8PYeeUqDsani46ODRgLK"
+        "name": "C\u2019est la Vie",
+        "url": "https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD"
       },
       "artists": [
         {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
-        },
-        {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
         }
       ],
-      "duration_ms": 190815,
-      "name": "Vautours",
-      "url": "https://open.spotify.com/track/3Z6CZX1swZYFc4vInNQzIO"
+      "duration_ms": 208469,
+      "name": "C\u2019est la Vie",
+      "url": "https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -675,22 +675,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "French Riviera",
-        "url": "https://open.spotify.com/album/0zz8rBPR2RmxmlNfvjrgGA"
+        "name": "Commando",
+        "url": "https://open.spotify.com/album/0UrZIIXENkXrBBvhwqyMJx"
       },
       "artists": [
         {
-          "name": "Dosseh",
-          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Shay",
+          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
         }
       ],
-      "duration_ms": 201254,
-      "name": "French Riviera",
-      "url": "https://open.spotify.com/track/1YIxzV3rlDUmIES9tpOytj"
+      "duration_ms": 171649,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/36aSwnrZXd0k334PSXT7w2"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -707,6 +703,26 @@
       "duration_ms": 194666,
       "name": "LOVE'n'TENDRESSE",
       "url": "https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "French Riviera",
+        "url": "https://open.spotify.com/album/0zz8rBPR2RmxmlNfvjrgGA"
+      },
+      "artists": [
+        {
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 201254,
+      "name": "French Riviera",
+      "url": "https://open.spotify.com/track/1YIxzV3rlDUmIES9tpOytj"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -731,22 +747,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Commando",
-        "url": "https://open.spotify.com/album/0UrZIIXENkXrBBvhwqyMJx"
-      },
-      "artists": [
-        {
-          "name": "Shay",
-          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
-        }
-      ],
-      "duration_ms": 171649,
-      "name": "Commando",
-      "url": "https://open.spotify.com/track/36aSwnrZXd0k334PSXT7w2"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "L'Amour...",
         "url": "https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Z\u00e9nith",
-        "url": "https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r"
-      },
-      "artists": [
-        {
-          "name": "Kalash Criminel",
-          "url": "https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Z\u00e9nith",
-      "url": "https://open.spotify.com/track/7waEJapWACgWkq3by4intP"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "ATHENA",
         "url": "https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 191416,
       "name": "Warda",
       "url": "https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Z\u00e9nith",
+        "url": "https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r"
+      },
+      "artists": [
+        {
+          "name": "Kalash Criminel",
+          "url": "https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Z\u00e9nith",
+      "url": "https://open.spotify.com/track/7waEJapWACgWkq3by4intP"
     },
     {
       "added_at": "2023-10-06 04:00:00",

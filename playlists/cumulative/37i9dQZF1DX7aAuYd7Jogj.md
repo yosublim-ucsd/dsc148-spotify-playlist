@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-336 songs - 16 hr 25 min
+338 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Eloquence](https://open.spotify.com/track/0ORCs88ABmuctkBdkAWRwF) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Eloquence](https://open.spotify.com/album/7nhKY56BddXIBgih1EJrfy) | 2:21 | 2023-04-06 |  |
 | [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 | 2023-04-06 |  |
 | [Encore Une Fois](https://open.spotify.com/track/5aB3pTdKskrxVVfoOGl4bN) | [Alanna Brooks](https://open.spotify.com/artist/1xTG3LpQV7sTX86GrPnDEH) | [Heaven On Earth](https://open.spotify.com/album/2ZMy6y5uSEXUkYLpVYTHGA) | 3:20 | 2023-04-21 |  |
-| [Eons](https://open.spotify.com/track/538bWp96juSoSBvM7wD2Qm) | [Erratic Peace](https://open.spotify.com/artist/2soZQALc84ALUcZxlDyxPD) | [Eons](https://open.spotify.com/album/1mrlHBWDGAFlIiZooWzedK) | 3:03 | 2023-04-06 |  |
+| [Eons](https://open.spotify.com/track/538bWp96juSoSBvM7wD2Qm) | [Erratic Peace](https://open.spotify.com/artist/2soZQALc84ALUcZxlDyxPD) | [Eons](https://open.spotify.com/album/1mrlHBWDGAFlIiZooWzedK) | 3:03 | 2023-04-06 | 2023-10-13 |
 | [Essence](https://open.spotify.com/track/2EnLnhNkVlMlqwpz4b8lct) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Deep Healing Sessions Vol 2](https://open.spotify.com/album/5K63oXlxc0jMxHooauDXva) | 3:30 | 2023-04-06 |  |
 | [Esthetic](https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV) | [Martina Bower](https://open.spotify.com/artist/3Si4nV51fin9nrnvRCWDRK) | [Esthetic](https://open.spotify.com/album/2IMf7MJ23NWU7ip6xGghSY) | 2:43 | 2023-04-06 |  |
 | [Eterno](https://open.spotify.com/track/3oay2XHAnlNMqFdFzlJUmt) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Eterno](https://open.spotify.com/album/3xLFUr6AYl2ZSyqQMAC4MD) | 2:31 | 2023-04-06 |  |
@@ -133,6 +133,7 @@
 | [Fragile](https://open.spotify.com/track/1jNuMTWsvFvPMwyJcb30FF) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Fragile](https://open.spotify.com/album/23yYxqfArgUd8RkreaCD4t) | 2:59 | 2023-04-06 |  |
 | [Framandi](https://open.spotify.com/track/5yP77S2R52lPrfCEhQekCF) | [Syfjaður](https://open.spotify.com/artist/5kdOHIeSUebjZdlYo7rZb0) | [Framandi](https://open.spotify.com/album/4KzDuHiXkG0TT0NHivvLDX) | 3:01 | 2023-04-06 | 2023-08-05 |
 | [Freeform](https://open.spotify.com/track/3YrLrT0dfvY3biwPDkecAq) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Freeform](https://open.spotify.com/album/6yahW3mslf0k9LRWEDfc7J) | 3:36 | 2023-04-06 |  |
+| [Frieden](https://open.spotify.com/track/14AIRP0JWtBQR6nkNuS0yv) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Frieden](https://open.spotify.com/album/2Rq3e8qI8EEhPbWOWBR3xx) | 3:15 | 2023-10-13 |  |
 | [From Within](https://open.spotify.com/track/7qxkgMuJLZ2jaDvk0RnjNf) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [From Within](https://open.spotify.com/album/0BK1COg9s24yNZTYqFKGtN) | 2:56 | 2023-04-06 |  |
 | [Ganymede](https://open.spotify.com/track/6gW7wl7Dbzvv4Az3RbolkD) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Ganymede](https://open.spotify.com/album/29sGh5uT3kHsrjPF7ASy89) | 2:32 | 2023-04-06 |  |
 | [Garden Charm](https://open.spotify.com/track/6TkkTtMH7X4E8B4GDIYznl) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Garden Charm](https://open.spotify.com/album/6EglOGkaaosZN9Iw2UQhSz) | 3:16 | 2023-04-06 | 2023-08-05 |
@@ -206,6 +207,7 @@
 | [Moment To Moment](https://open.spotify.com/track/4vOHJJO8fJudz8JVVG9av6) | [Modal Colours](https://open.spotify.com/artist/6J7iKiucfuY6yg4dp0b67i) | [Moment To Moment](https://open.spotify.com/album/17QORfdYpsGqQ3D74hUPCx) | 2:35 | 2023-04-06 |  |
 | [Moonlight Memoirs](https://open.spotify.com/track/2EhfraVVA81HCPZDYxfOVz) | [Lucas Leigh](https://open.spotify.com/artist/4sT7i66bRioiiRvZNj3Dgg) | [Moonlight Memoirs](https://open.spotify.com/album/2LqfrsV6GpGVeLP5CsnsH3) | 2:29 | 2023-04-06 |  |
 | [Morgennebel](https://open.spotify.com/track/2LSVCsevs25vMNmAdCTVMZ) | [Velpo Sonols](https://open.spotify.com/artist/27eOFbWsw1qOMgSaMqR1MM) | [Morgennebel](https://open.spotify.com/album/2IUu3veYokLvk0OF7fjprN) | 3:01 | 2023-09-22 |  |
+| [Mudita](https://open.spotify.com/track/7Hm3jiAs1f0oypQythNWxy) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Mudita](https://open.spotify.com/album/1BTP6Dm6UiPfCV0slcxGuB) | 2:36 | 2023-10-13 |  |
 | [Muna](https://open.spotify.com/track/1thTEQDLz5G6hr2Cp3pA4g) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Muna](https://open.spotify.com/album/3okHfzFp1PVS3A57JF4D3S) | 3:08 | 2023-04-06 |  |
 | [My Safest Place To Hide](https://open.spotify.com/track/1NlkwVK9fM87f3MCudK3LF) | [Tiara Greenfield](https://open.spotify.com/artist/3PiRnA3K7grsa4ZQ41OGUO) | [My Safest Place To Hide](https://open.spotify.com/album/1rxmhMvsTedir8x8hFjcTH) | 3:09 | 2023-05-19 |  |
 | [Nattljus](https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Nattljus](https://open.spotify.com/album/7FBCdcXA2coK0EcsDSBN9B) | 3:19 | 2023-04-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 HERNAN TREJO en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,676 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,834 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 74 | [Tirando Flow Sesh \#9](https://open.spotify.com/track/1eIr2ASXWFEgjhQQflPZTe) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Tirando Flow Sesh \#9](https://open.spotify.com/album/2zB3LXzrfi3FoNI4kPLgtO) | 3:07 |
 | 75 | [BÉLICO Y CHOLO \(feat\. Polo Gonzalez\) \- The Remix](https://open.spotify.com/track/660K6X6QHRWaErpxmBkiFN) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [BÉLICO Y CHOLO \(feat\. Polo Gonzalez\) \[The Remix\]](https://open.spotify.com/album/3CyVsx51ZgvvPb7LcgcPoz) | 4:15 |
 
-Snapshot ID: `MCxjOGE4YzhiMjQ1NTBkNmExZjVmMGY5Y2JhZDk4MzYyM2MwOTg0YTcz`
+Snapshot ID: `MCw2OTMxYzA0OGU1NDM0ZGFiMjdiZjY5ZDA2ZGJjMzk1NjVmZjEyYTFj`

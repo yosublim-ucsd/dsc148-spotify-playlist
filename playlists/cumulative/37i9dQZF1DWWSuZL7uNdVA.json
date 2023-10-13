@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "blink-182 au top des meilleurs morceaux rock du moment.",
+  "description": "Sum 41 au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 183429,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1VVeFLlYZRLwNPCelUUJyM"
@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "DArkSide",
+        "url": "https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164790,
+      "name": "DArkSide",
+      "url": "https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE"
+    },
+    {
+      "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
       },
@@ -276,7 +294,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 226886,
       "name": "Digital Self",
       "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
@@ -294,7 +312,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 203177,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/5PCNd6UnT4y9Ygz0KFmIMC"
@@ -320,6 +338,24 @@
       "duration_ms": 179166,
       "name": "Fake As Hell (with Avril Lavigne)",
       "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
+    },
+    {
+      "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/0QMUUYbfJ1Tu6fuilNyhor"
+      },
+      "artists": [
+        {
+          "name": "TSS",
+          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Fantasize",
+      "url": "https://open.spotify.com/track/0U4fmzqtFTbtrwX7QQooT3"
     },
     {
       "album": {
@@ -694,10 +730,32 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 149106,
       "name": "Spiral City",
       "url": "https://open.spotify.com/track/5KFyMWdNeEi5zGdrdXqofa"
+    },
+    {
+      "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224453,
+      "name": "Still Love",
+      "url": "https://open.spotify.com/track/5bUNcdF18WBwCdkRNO4y5C"
     },
     {
       "album": {
@@ -910,7 +968,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 197219,
       "name": "Unhappier",
       "url": "https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR"
@@ -953,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "Screamin' At The Sky",
+        "url": "https://open.spotify.com/album/0sxSm3jkiCTFpud91cIkYN"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204338,
+      "name": "When The Pain Comes",
+      "url": "https://open.spotify.com/track/5gchQWwST4zwgxCIG3raYB"
+    },
+    {
+      "album": {
         "name": "Would You Even",
         "url": "https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG"
       },
@@ -968,6 +1044,28 @@
       "duration_ms": 172014,
       "name": "Would You Even",
       "url": "https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl"
+    },
+    {
+      "album": {
+        "name": "Yours (feat. Bea Miller)",
+        "url": "https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177188,
+      "name": "Yours (feat. Bea Miller)",
+      "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA"

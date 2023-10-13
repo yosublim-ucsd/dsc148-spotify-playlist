@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: Anandinha",
-  "num_followers": 41577,
+  "num_followers": 41613,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODQ1OWU1MGE2MmYyODQ5NDNjYTU2NDgxODRlMDg2OGQzNzkyZTQ4",
+  "snapshot_id": "MCwwYTMyYjdmYjdhMzcyY2E4ODU5N2JkZWY4OTI2YmVkMGRjZTNlNjAw",
   "tracks": [
     {
       "added_at": "2023-10-06 03:01:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-10-06 03:01:00",
       "album": {
-        "name": "DUBL\u00ca",
-        "url": "https://open.spotify.com/album/21nz8HbPqUOCkPRXbpH5jJ"
-      },
-      "artists": [
-        {
-          "name": "TINN",
-          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
-        }
-      ],
-      "duration_ms": 178208,
-      "name": "DUBL\u00ca",
-      "url": "https://open.spotify.com/track/2P4Nbb8Gf5TX2JyBu0kuIY"
-    },
-    {
-      "added_at": "2023-10-06 03:01:00",
-      "album": {
         "name": "Legado",
         "url": "https://open.spotify.com/album/7qk4AUAt8F9m508h7HV8sj"
       },
@@ -951,18 +935,38 @@
     {
       "added_at": "2023-10-06 03:01:00",
       "album": {
-        "name": "incendiou",
-        "url": "https://open.spotify.com/album/3Tuj3hfYgdrb6Un6leT4Js"
+        "name": "DUBL\u00ca",
+        "url": "https://open.spotify.com/album/21nz8HbPqUOCkPRXbpH5jJ"
       },
       "artists": [
         {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+          "name": "TINN",
+          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
         }
       ],
-      "duration_ms": 170189,
-      "name": "incendiou",
-      "url": "https://open.spotify.com/track/2MbrpnlzfICszxaG6eToxk"
+      "duration_ms": 178208,
+      "name": "DUBL\u00ca",
+      "url": "https://open.spotify.com/track/2P4Nbb8Gf5TX2JyBu0kuIY"
+    },
+    {
+      "added_at": "2023-10-06 03:01:00",
+      "album": {
+        "name": "Reviravolta",
+        "url": "https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 205913,
+      "name": "LSD",
+      "url": "https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh"
     },
     {
       "added_at": "2023-10-06 03:01:00",
@@ -987,22 +991,18 @@
     {
       "added_at": "2023-10-06 03:01:00",
       "album": {
-        "name": "Reviravolta",
-        "url": "https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo"
+        "name": "incendiou",
+        "url": "https://open.spotify.com/album/3Tuj3hfYgdrb6Un6leT4Js"
       },
       "artists": [
         {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        },
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
         }
       ],
-      "duration_ms": 205913,
-      "name": "LSD",
-      "url": "https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh"
+      "duration_ms": 170189,
+      "name": "incendiou",
+      "url": "https://open.spotify.com/track/2MbrpnlzfICszxaG6eToxk"
     },
     {
       "added_at": "2023-10-06 03:01:00",

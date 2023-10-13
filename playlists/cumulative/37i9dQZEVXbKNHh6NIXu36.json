@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 139130,
       "name": "2 Handys",
       "url": "https://open.spotify.com/track/0mth0U5dtI4Fwmc3RrAERn"
@@ -10800,7 +10800,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 247444,
       "name": "First Person Shooter (feat. J. Cole)",
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
@@ -26419,6 +26419,24 @@
     },
     {
       "album": {
+        "name": "S u m m e r t i m e",
+        "url": "https://open.spotify.com/album/6pWclGc5gXRbQLb1GenZ1C"
+      },
+      "artists": [
+        {
+          "name": "danicpeepner",
+          "url": "https://open.spotify.com/artist/4ol7o2NC4NYIyJHj9RcGNz"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195528,
+      "name": "S u m m e r t i m e",
+      "url": "https://open.spotify.com/track/1932nDF4nTvlJvcO405jiv"
+    },
+    {
+      "album": {
         "name": "Loud (Japan Version)",
         "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
       },
@@ -29280,7 +29298,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 195465,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/0gMTEHzNIyvxikxyUFFJxO"
@@ -29466,7 +29484,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 139234,
       "name": "Superstars",
       "url": "https://open.spotify.com/track/3dgOu83QnvkooEa4Jz2Msr"
@@ -30268,7 +30286,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 153449,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"

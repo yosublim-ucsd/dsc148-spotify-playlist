@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-282 songs - 13 hr 46 min
+283 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Concession](https://open.spotify.com/track/24ad6v49HSgza51bogmg98) | [Ash Spark](https://open.spotify.com/artist/4nByMghGme4u8Zq4uSuh6w) | [Concession](https://open.spotify.com/album/0W9VfRzTmuPzJmoIb39wzf) | 2:49 | 2021-11-11 |  |
 | [Copycat](https://open.spotify.com/track/4fRDbN8d9hKBbYs0rG4El0) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Copycat / Sunspot](https://open.spotify.com/album/5rgFFppEQzw3lOlzgIPmKV) | 5:54 | 2021-11-11 | 2022-02-11 |
 | [Coral Beach](https://open.spotify.com/track/0aymtzpvO3QufAK2MbSBHd) | [Gold Glo](https://open.spotify.com/artist/5OOBTy3uO1KvzwexXmMhVz) | [Coral Beach](https://open.spotify.com/album/6aR9tPyi2VE3f1rQo9dy2j) | 2:45 | 2021-11-11 | 2022-04-15 |
+| [Core Memories](https://open.spotify.com/track/1FjGlhlZu0qFjRgro5J3VH) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Core Memories](https://open.spotify.com/album/2D1otRSyfy1b5x4eVUz0Dx) | 2:10 | 2023-10-13 |  |
 | [Cosmopolitan](https://open.spotify.com/track/5tIBc0L66MVZ1tNUApYV8f) | [Beach Villa](https://open.spotify.com/artist/6419utRWf7KXDJun7kpFmo) | [Cosmopolitan](https://open.spotify.com/album/0tim8AlkIqLinWNnGqv2yf) | 2:23 | 2021-11-11 | 2022-02-11 |
 | [Cotton Candy Flavored](https://open.spotify.com/track/56dhAHUA4WaiRB7CEYOHMs) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Golden Skin](https://open.spotify.com/album/3r3cYXwXao0P8fSZ43zv2D) | 2:31 | 2022-04-15 | 2023-07-07 |
 | [Counting Minutes](https://open.spotify.com/track/4SQCH4rJrVxAHcdlLOWtX9) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Counting Minutes](https://open.spotify.com/album/28z1GRHUJVAiVihlBM1pqe) | 2:18 | 2023-03-17 |  |

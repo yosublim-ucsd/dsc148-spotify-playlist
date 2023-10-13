@@ -4,7 +4,7 @@
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by Lissa Monet
 
-278 songs - 19 hr 56 min
+280 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Body Water](https://open.spotify.com/track/3LKnTJqisnDLNzaMBIxwCg) | [Mini Priest](https://open.spotify.com/artist/7q3vqJF9tkRDwlgUiU9apb) | [Soca Gold 2005](https://open.spotify.com/album/3UXWqNNmMnxBXK8BTXkiVf) | 3:39 | 2020-09-16 | 2023-07-11 |
 | [Bois Bande](https://open.spotify.com/track/4NP4rpYsLL0teXvJTEBIAh) | [Gillo](https://open.spotify.com/artist/0YX643FZttWKTv3wjEFzER) | [Ban Fai](https://open.spotify.com/album/695DdxQJCXEvQON18GSWrM) | 4:51 | 2023-07-10 |  |
 | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g) | 3:22 | 2020-09-16 | 2023-07-11 |
-| [Bottle of Rum](https://open.spotify.com/track/7nwiWG62G7ih8V9yAxuOSR) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Double M \(Disc Two\)](https://open.spotify.com/album/0p1j9KRFqXmrd1ACY8G0tl) | 4:03 | 2023-07-10 |  |
+| [Bottle of Rum](https://open.spotify.com/track/4k8U68hROtiZyiKxdfrUyj) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Double M, Vol\. 2](https://open.spotify.com/album/1kNVepEotpq2ioyD5MGycr) | 4:03 | 2023-08-07 |  |
+| [Bottle of Rum](https://open.spotify.com/track/7nwiWG62G7ih8V9yAxuOSR) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Double M \(Disc Two\)](https://open.spotify.com/album/0p1j9KRFqXmrd1ACY8G0tl) | 4:03 | 2023-07-10 | 2023-10-13 |
 | [Bottom in de Road](https://open.spotify.com/track/5J0SMJd6XvEOeiONci2dXq) | [Iwer George](https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw) | [Greatest Hits](https://open.spotify.com/album/4DfzbF27kYsHoekRuGTV02) | 3:49 | 2023-07-10 |  |
 | [Brace & Wine](https://open.spotify.com/track/1JOggkBvB1cUgoqsbls0XU) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Gold 2012](https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0) | 3:13 | 2022-08-18 | 2023-05-16 |
 | [Brace and Wine](https://open.spotify.com/track/4NNarymN3DKo1x5HnTtRHy) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Brace and Wine](https://open.spotify.com/album/4Q6QM27fM4xHQl2lcxUrjM) | 3:13 | 2022-08-18 | 2023-05-16 |
@@ -233,7 +234,8 @@
 | [Tay Lay Lay](https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Caribbean Road March 2001 and More](https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP) | 4:33 | 2020-09-16 | 2023-07-11 |
 | [Tell Me Why](https://open.spotify.com/track/7IW1TwFs96jrGHLebPCh8D) | [Baron.](https://open.spotify.com/artist/1PaUfXQUVSLnY2BbfJoTah) | [The Best of J.W\. Colllections Baron Edition Vol 1](https://open.spotify.com/album/05l3Km4V0ZrK0ytmJ45Uiu) | 6:43 | 2023-07-10 |  |
 | [Tempted To Touch](https://open.spotify.com/track/51SMGQLbG5Eb0VrP00IvAU) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [The Ultimate Soca Gold Collection](https://open.spotify.com/album/38EBSpTihyFuQn2ymv1wpt) | 3:27 | 2022-08-18 | 2023-05-16 |
-| [The Fog](https://open.spotify.com/track/5SKbOc7r1goCQPFXaEGJ5H) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Machelements \(Volume 1\)](https://open.spotify.com/album/5swDuO84IPdgpn4dzAmTIJ) | 3:45 | 2023-07-10 |  |
+| [The Fog](https://open.spotify.com/track/5MhE9FciAXHz8QSgJLUAJb) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Machelements, Vol\. 1](https://open.spotify.com/album/6O45a6NvnI5hj8rO0GXppx) | 3:45 | 2023-08-07 |  |
+| [The Fog](https://open.spotify.com/track/5SKbOc7r1goCQPFXaEGJ5H) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Machelements \(Volume 1\)](https://open.spotify.com/album/5swDuO84IPdgpn4dzAmTIJ) | 3:45 | 2023-07-10 | 2023-10-13 |
 | [The Hammer](https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 5:09 | 2020-09-16 | 2023-07-11 |
 | [Thelma](https://open.spotify.com/track/4GnGD3F8t286bMNnmQSIGD) | [South South West](https://open.spotify.com/artist/6JTWIfYtpMTuFSxy3Un39Y) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 4:15 | 2022-02-24 | 2023-07-11 |
 | [Thelma](https://open.spotify.com/track/5ZPN4WWRRN0R0QavqpVV7i) | [South South West](https://open.spotify.com/artist/6JTWIfYtpMTuFSxy3Un39Y) | [Soca Gold 2002](https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM) | 4:15 | 2020-09-16 | 2022-07-29 |

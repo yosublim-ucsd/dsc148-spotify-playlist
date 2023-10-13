@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Moderna de Pueblo
 
-1,513 songs - 3 day 11 hr 27 min
+1,514 songs - 3 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -770,6 +770,7 @@
 | [Manwa Bhaagey](https://open.spotify.com/track/5sVlW4pj3NDIYKNftGwRlZ) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL) | [Manwa Bhaagey](https://open.spotify.com/album/13X5ctGRnJaAvO3WyXsoF6) | 4:17 | 2023-09-06 | 2023-10-05 |
 | [Mapa de Estrelas](https://open.spotify.com/track/3oJCVmWrO80dFUYMp9df6Z) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Mapa de Estrelas](https://open.spotify.com/album/3mzMJkaC9OoaEeuE5YAxxS) | 3:11 | 2023-01-04 | 2023-02-02 |
 | [MAPSI](https://open.spotify.com/track/4CkCx4BUC7Be2fcGX1UCxG) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [MAPSI](https://open.spotify.com/album/2D1OkejpfnqXVPoxhrQM05) | 2:40 | 2023-02-01 | 2023-03-02 |
+| [Maquillada en la Cama](https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087) | 3:38 | 2023-10-11 |  |
 | [MARAVILLOSO \(Machu Picchu\)](https://open.spotify.com/track/6LJPpIlmgxeiJBP6AS1eh5) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [MARAVILLOSO \(Machu Picchu\)](https://open.spotify.com/album/6uvGQ1cg5yDn9AkPUsUVLR) | 3:02 | 2022-08-03 | 2022-09-09 |
 | [MARIA PRZED OŁTARZEM](https://open.spotify.com/track/5sobLosz9Iylv99EoX6759) | [Mery Spolsky](https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx) | [MARIA PRZED OŁTARZEM](https://open.spotify.com/album/0UyyV7i0FJmHgD06VwtYAR) | 3:00 | 2023-09-06 |  |
 | [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 | 2022-08-03 | 2022-09-09 |
@@ -953,7 +954,7 @@
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-09-06 |  |
 | [PANDA](https://open.spotify.com/track/5DwW0Y7LWmVRMTMxYw3vCA) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [PANDA](https://open.spotify.com/album/5Wpjc38AogK8fEcj07Yh5E) | 2:22 | 2022-06-01 | 2022-07-07 |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-04-06 | 2022-05-05 |
-| [Pao Sto Nisi](https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pao Sto Nisi](https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD) | 2:58 | 2023-07-05 |  |
+| [Pao Sto Nisi](https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pao Sto Nisi](https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD) | 2:58 | 2023-07-05 | 2023-10-13 |
 | [Pap](https://open.spotify.com/track/64nGCCBJ8Gyb8Vqyavyk1B) | [Reanny](https://open.spotify.com/artist/5tWcufVAXq2gkxkfo8vWYd), [NOELL3](https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB), [Dani Deaux](https://open.spotify.com/artist/7kCYdycnUmRJJX8cllnq9H) | [A Goddess, WBU?](https://open.spotify.com/album/5Lrtc2ig97nGmvZ92T6lgQ) | 2:23 | 2023-08-02 | 2023-09-07 |
 | [Paracas Cavernas](https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Paracas Cavernas](https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk) | 4:28 | 2023-03-01 | 2023-04-06 |
 | [Paradise](https://open.spotify.com/track/1AnKPJBNBvgezzKso7NmWy) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Paradise](https://open.spotify.com/album/7x4Q3tWaIU7qfqVlnJEgM8) | 2:36 | 2022-09-07 | 2022-10-05 |

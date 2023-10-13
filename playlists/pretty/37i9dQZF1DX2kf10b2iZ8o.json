@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 21748,
+  "num_followers": 21755,
   "original_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTcxOTVjY2NlYTA3ODBjMGEzZTFhNjAxNWU2ZGY4YWI4NjE4MjZh",
+  "snapshot_id": "MCw4OWNkNWFlMDJkOTkyOGFmNjMxYTNiNmE2MzExMDE1NTFkY2M2NGY2",
   "tracks": [
     {
       "added_at": "2023-05-09 15:56:06",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
+        "name": "THE IDOLM@STER SideM GROWING SIGN@L 01 Growing Smiles!",
+        "url": "https://open.spotify.com/album/5iYeTsCLiHZtPCjyG3Qi6T"
+      },
+      "artists": [
+        {
+          "name": "315 ALLSTARS",
+          "url": "https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX"
+        }
+      ],
+      "duration_ms": 273866,
+      "name": "Growing Smiles!",
+      "url": "https://open.spotify.com/track/0UsHnrAzaZu6axEJ8lAbux"
+    },
+    {
+      "added_at": "2023-05-09 15:56:06",
+      "album": {
         "name": "THE IDOLM@STER SideM ANIMATION PROJECT 01 Reason!!",
         "url": "https://open.spotify.com/album/2dWuenMwbM25FIFG8K7ACG"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 245786,
       "name": "\u590f\u6642\u9593\u30b0\u30e9\u30d5\u30a3\u30c6\u30a3",
       "url": "https://open.spotify.com/track/2fFyk58FJRGKL40fAa9R1A"
-    },
-    {
-      "added_at": "2023-05-09 15:56:06",
-      "album": {
-        "name": "THE IDOLM@STER SideM GROWING SIGN@L 01 Growing Smiles!",
-        "url": "https://open.spotify.com/album/5iYeTsCLiHZtPCjyG3Qi6T"
-      },
-      "artists": [
-        {
-          "name": "315 ALLSTARS",
-          "url": "https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX"
-        }
-      ],
-      "duration_ms": 273866,
-      "name": "Growing Smiles!",
-      "url": "https://open.spotify.com/track/0UsHnrAzaZu6axEJ8lAbux"
     },
     {
       "added_at": "2023-05-09 15:56:06",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM 49 ELEMENTS -06 THE \u864e\u7259\u9053",
-        "url": "https://open.spotify.com/album/6lx045j0mTaAyCzYyUF8Nz"
+        "name": "THE IDOLM@STER SideM 49 ELEMENTS -09 FRAME",
+        "url": "https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6"
       },
       "artists": [
         {
-          "name": "\u5927\u6cb3\u30bf\u30b1\u30eb (CV.\u5bfa\u5cf6\u60c7\u592a)",
-          "url": "https://open.spotify.com/artist/6xLoG0qfLd7CT1gdNaMeRd"
+          "name": "\u6728\u6751 \u9f8d (CV.\u6ff1 \u5065\u4eba)",
+          "url": "https://open.spotify.com/artist/4Cdt0igkAmL0CvIvi6x7ie"
         }
       ],
-      "duration_ms": 269253,
-      "name": "Resolution",
-      "url": "https://open.spotify.com/track/0hEybez77yb70HAuNW0Sqi"
+      "duration_ms": 222493,
+      "name": "SPARKLE SIGN",
+      "url": "https://open.spotify.com/track/0pMPm7ylpawoWSFzFin9JS"
     },
     {
       "added_at": "2023-05-09 15:56:06",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM 49 ELEMENTS -09 FRAME",
-        "url": "https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6"
+        "name": "THE IDOLM@STER SideM 49 ELEMENTS -06 THE \u864e\u7259\u9053",
+        "url": "https://open.spotify.com/album/6lx045j0mTaAyCzYyUF8Nz"
       },
       "artists": [
         {
-          "name": "\u6728\u6751 \u9f8d (CV.\u6ff1 \u5065\u4eba)",
-          "url": "https://open.spotify.com/artist/4Cdt0igkAmL0CvIvi6x7ie"
+          "name": "\u5927\u6cb3\u30bf\u30b1\u30eb (CV.\u5bfa\u5cf6\u60c7\u592a)",
+          "url": "https://open.spotify.com/artist/6xLoG0qfLd7CT1gdNaMeRd"
         }
       ],
-      "duration_ms": 222493,
-      "name": "SPARKLE SIGN",
-      "url": "https://open.spotify.com/track/0pMPm7ylpawoWSFzFin9JS"
+      "duration_ms": 269253,
+      "name": "Resolution",
+      "url": "https://open.spotify.com/track/0hEybez77yb70HAuNW0Sqi"
     },
     {
       "added_at": "2023-05-09 15:56:06",

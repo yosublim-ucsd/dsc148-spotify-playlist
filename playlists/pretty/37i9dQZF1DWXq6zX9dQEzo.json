@@ -1,12 +1,12 @@
 {
   "description": "Music blasting, faith on swole.  Get your beast mode on!  Guest Curated by <a href=\"https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=ee8a724b019b4d6d\">KB</a>",
-  "num_followers": 183554,
+  "num_followers": 183797,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmRmMDNmMDU3M2RlODhhOTI4YTlhMDUxMTE4YjRjMDM2MTE5YTA2",
+  "snapshot_id": "MCw4ZGZmNjVmYzQ5N2VjZTJmNWI5MzYwMDFmNzM3OTQ3OGNlYTExNjIy",
   "tracks": [
     {
       "added_at": "2023-08-11 21:20:42",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "New",
-        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 195404,
-      "name": "New",
-      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
         "name": "BOSS",
         "url": "https://open.spotify.com/album/1VFRXgn1jNhvh76mJAA0aR"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 130985,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/2YYMl0fsIdd0945tqeoruQ"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
+        "name": "New",
+        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 195404,
+      "name": "New",
+      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/6IRyi9wbNGEtGaWAp2VvuB"
-      },
-      "artists": [
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        },
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        }
-      ],
-      "duration_ms": 127007,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/4qsJoHZ26OlufnruQvQqNv"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
         "name": "Worship",
         "url": "https://open.spotify.com/album/4XYdo6BWkLGi8Ib8FbS59L"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 155887,
       "name": "This Time",
       "url": "https://open.spotify.com/track/4BMfCr1ltbxM1BTF7hyvnK"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/6IRyi9wbNGEtGaWAp2VvuB"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+        }
+      ],
+      "duration_ms": 127007,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4qsJoHZ26OlufnruQvQqNv"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "Ficky Ficky",
-        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 104147,
-      "name": "Ficky Ficky",
-      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
         "name": "Catch These Hands (Remix)",
         "url": "https://open.spotify.com/album/7APamlqElimCKW62z0yKFf"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 144506,
       "name": "Catch These Hands - Remix",
       "url": "https://open.spotify.com/track/3K7zvRw4Wg9afWGfnDU7vM"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
+        "name": "Ficky Ficky",
+        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 104147,
+      "name": "Ficky Ficky",
+      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "Don't Worry 'Bout It",
-        "url": "https://open.spotify.com/album/46QkEXIVDELyT1FtawqLpv"
+        "name": "NOTHING BUT JESUS",
+        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
       },
       "artists": [
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
         }
       ],
-      "duration_ms": 168750,
-      "name": "Don't Worry 'Bout It",
-      "url": "https://open.spotify.com/track/7BnUl2NxNH3PGRH8LBd9Nx"
+      "duration_ms": 157885,
+      "name": "NOTHING",
+      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "NOTHING BUT JESUS",
-        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
+        "name": "Don't Worry 'Bout It",
+        "url": "https://open.spotify.com/album/46QkEXIVDELyT1FtawqLpv"
       },
       "artists": [
         {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
         }
       ],
-      "duration_ms": 157885,
-      "name": "NOTHING",
-      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
+      "duration_ms": 168750,
+      "name": "Don't Worry 'Bout It",
+      "url": "https://open.spotify.com/track/7BnUl2NxNH3PGRH8LBd9Nx"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "Ain't Playin'",
-        "url": "https://open.spotify.com/album/5yvJGix8i4vEc74cJcaS9H"
-      },
-      "artists": [
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        },
-        {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
-        }
-      ],
-      "duration_ms": 223790,
-      "name": "Ain't Playin'",
-      "url": "https://open.spotify.com/track/6eGe69PKFWB7AQae8XGeOn"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
         "name": "RIGHT NOW",
         "url": "https://open.spotify.com/album/2A0L5NLUV0X56PZqDQtrIE"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 118424,
       "name": "RIGHT NOW",
       "url": "https://open.spotify.com/track/6TgtYkd4elXHLR4W2D6n7B"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
+        "name": "Ain't Playin'",
+        "url": "https://open.spotify.com/album/5yvJGix8i4vEc74cJcaS9H"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        },
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        }
+      ],
+      "duration_ms": 223790,
+      "name": "Ain't Playin'",
+      "url": "https://open.spotify.com/track/6eGe69PKFWB7AQae8XGeOn"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "SIX THIRTY",
-        "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
-      },
-      "artists": [
-        {
-          "name": "Sean C. Johnson",
-          "url": "https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H"
-        }
-      ],
-      "duration_ms": 222375,
-      "name": "SIX THIRTY",
-      "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
         "name": "Spiritual Violence",
         "url": "https://open.spotify.com/album/0xEMJUvHEsjJ77KL7IAa9k"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 240000,
       "name": "Spiritual Violence",
       "url": "https://open.spotify.com/track/1LhgxsjhWN17o46oOcepqd"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
+        "name": "SIX THIRTY",
+        "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
+      },
+      "artists": [
+        {
+          "name": "Sean C. Johnson",
+          "url": "https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H"
+        }
+      ],
+      "duration_ms": 222375,
+      "name": "SIX THIRTY",
+      "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
+        "name": "Reality Checks",
+        "url": "https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo"
+      },
+      "artists": [
+        {
+          "name": "Dru Bex",
+          "url": "https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Reality Checks",
+      "url": "https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
         "name": "We Outside",
         "url": "https://open.spotify.com/album/67WCbBUMISteFiNbOZ2Yqw"
       },
@@ -2135,22 +2151,6 @@
       "duration_ms": 222315,
       "name": "Sunrise 2 Sunset",
       "url": "https://open.spotify.com/track/7EJOV089sJE935qHobWmxA"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
-        "name": "Reality Checks",
-        "url": "https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo"
-      },
-      "artists": [
-        {
-          "name": "Dru Bex",
-          "url": "https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Reality Checks",
-      "url": "https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -2299,26 +2299,6 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/360Y9HLXTa23Qt3ODpLSid"
-      },
-      "artists": [
-        {
-          "name": "Joshua Luke Smith",
-          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
-        },
-        {
-          "name": "Wild Sons",
-          "url": "https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/4gSD3M18TW4oUikNduQbjP"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
         "name": "What?",
         "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
       },
@@ -2359,6 +2339,26 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/360Y9HLXTa23Qt3ODpLSid"
+      },
+      "artists": [
+        {
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
+        },
+        {
+          "name": "Wild Sons",
+          "url": "https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/4gSD3M18TW4oUikNduQbjP"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
         "name": "Pressure 2 - EP",
         "url": "https://open.spotify.com/album/5Ib3sPqWEX9Hc2EUeGFDsk"
       },
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "Throne",
-        "url": "https://open.spotify.com/album/3ymogYBsMvQFO8jf0uwLpQ"
-      },
-      "artists": [
-        {
-          "name": "Kelo",
-          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
-        }
-      ],
-      "duration_ms": 162899,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/416twUmy9zFdu6h5EUQKDR"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
         "name": "PLAN PLAN",
         "url": "https://open.spotify.com/album/2xNO3xacBP2uF3qH5OSacX"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 168000,
       "name": "PLAN PLAN",
       "url": "https://open.spotify.com/track/0EbDu1P2IOei9r3WlrECMp"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
+        "name": "Throne",
+        "url": "https://open.spotify.com/album/3ymogYBsMvQFO8jf0uwLpQ"
+      },
+      "artists": [
+        {
+          "name": "Kelo",
+          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
+        }
+      ],
+      "duration_ms": 162899,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/416twUmy9zFdu6h5EUQKDR"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -2627,6 +2627,30 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
+        "name": "Banner",
+        "url": "https://open.spotify.com/album/2R48uHUHW10FsMSbYEbolG"
+      },
+      "artists": [
+        {
+          "name": "Tay Collier",
+          "url": "https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk"
+        },
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        },
+        {
+          "name": "Zay Jones",
+          "url": "https://open.spotify.com/artist/0E4tZUFpHURZ2NFqc2hluK"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Banner",
+      "url": "https://open.spotify.com/track/5BsRhIu9ozSIzYcAcUL6gu"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
         "name": "Be A Legend",
         "url": "https://open.spotify.com/album/7oA2MPtEJ9eznXrdAQUUTw"
       },
@@ -2651,22 +2675,6 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "ALREADY",
-        "url": "https://open.spotify.com/album/4QzlGB99xaHmFqsxb4tbVt"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "ALREADY",
-      "url": "https://open.spotify.com/track/29uJ0UaBKDooQAnVnmTbJB"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
         "name": "Major Moves",
         "url": "https://open.spotify.com/album/5oqZoHiDMif50YtaUs5sBz"
       },
@@ -2679,6 +2687,22 @@
       "duration_ms": 250285,
       "name": "Die Empty",
       "url": "https://open.spotify.com/track/6sHj4isyrw1d5hlgEnvALC"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
+        "name": "ALREADY",
+        "url": "https://open.spotify.com/album/4QzlGB99xaHmFqsxb4tbVt"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "ALREADY",
+      "url": "https://open.spotify.com/track/29uJ0UaBKDooQAnVnmTbJB"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -2735,46 +2759,6 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "Banner",
-        "url": "https://open.spotify.com/album/2R48uHUHW10FsMSbYEbolG"
-      },
-      "artists": [
-        {
-          "name": "Tay Collier",
-          "url": "https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk"
-        },
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
-        },
-        {
-          "name": "Zay Jones",
-          "url": "https://open.spotify.com/artist/0E4tZUFpHURZ2NFqc2hluK"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Banner",
-      "url": "https://open.spotify.com/track/5BsRhIu9ozSIzYcAcUL6gu"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
-        "name": "MAKE IT MAKE SENSE",
-        "url": "https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 165789,
-      "name": "MAKE IT MAKE SENSE",
-      "url": "https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
         "name": "Fight Of Your Life",
         "url": "https://open.spotify.com/album/5NvLQlP11h3vpyCDJP3BJL"
       },
@@ -2827,22 +2811,6 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/4Vdmu9W7R5Yx95GCAEF33D"
-      },
-      "artists": [
-        {
-          "name": "Ilish",
-          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
-        }
-      ],
-      "duration_ms": 131603,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/4PMipuvMgXfv4JB0eLKddT"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
         "name": "RUSH",
         "url": "https://open.spotify.com/album/065QDCv1XieAGlpweuCSEP"
       },
@@ -2859,6 +2827,46 @@
       "duration_ms": 169351,
       "name": "RUSH",
       "url": "https://open.spotify.com/track/6dxId4EEZvdUJqVmH3qA61"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
+        "name": "Heard Not Seen III",
+        "url": "https://open.spotify.com/album/5RHrcFrhFu7rz2QSGiMiBk"
+      },
+      "artists": [
+        {
+          "name": "theBeatbreaker",
+          "url": "https://open.spotify.com/artist/6QJCYAKI6fPSDmXHeliNNu"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "TNED",
+          "url": "https://open.spotify.com/artist/1wG3mhMC241gq1jwwRsBHT"
+        }
+      ],
+      "duration_ms": 195927,
+      "name": "Striking Matches (feat. 1K Phew & TNED)",
+      "url": "https://open.spotify.com/track/59kiSVJTiUYXJxpyModhI5"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
+        "name": "MAKE IT MAKE SENSE",
+        "url": "https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 165789,
+      "name": "MAKE IT MAKE SENSE",
+      "url": "https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D"
     }
   ],
   "unique_name": "Beast Mode Christian",

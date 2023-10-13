@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "SCRAPYARD I",
+        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        },
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181915,
+      "name": "A LA CARTE",
+      "url": "https://open.spotify.com/track/5L6F6siaHwwpuR1exuZPnH"
+    },
+    {
+      "album": {
         "name": "airplane",
         "url": "https://open.spotify.com/album/1DeRZ8RuEzvo7pfTzf5mYm"
       },
@@ -502,7 +524,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 142000,
       "name": "bittersweet teeth",
       "url": "https://open.spotify.com/track/0Uk24ctvr2GyVZ3aC3vGgA"
@@ -1306,6 +1328,24 @@
       "duration_ms": 144510,
       "name": "Deadline",
       "url": "https://open.spotify.com/track/6mJBoYd5COYvdRdSasGAbw"
+    },
+    {
+      "album": {
+        "name": "ROCK 'N' RAVE",
+        "url": "https://open.spotify.com/album/3oRlu91UUBH536qpdagyNQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146195,
+      "name": "DECAY",
+      "url": "https://open.spotify.com/track/7ujHwnDCjSx77is9AI1tdR"
     },
     {
       "album": {
@@ -3114,7 +3154,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 147586,
       "name": "losemymind",
       "url": "https://open.spotify.com/track/3UCS6qOeXaVjtj2n7D5vZs"
@@ -5322,6 +5362,24 @@
       "duration_ms": 128168,
       "name": "try",
       "url": "https://open.spotify.com/track/7KPibpTWZTtzUuhiNWX6d3"
+    },
+    {
+      "album": {
+        "name": "SCRAPYARD I",
+        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209289,
+      "name": "U DON'T KNOW ME LIKE THAT",
+      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-278 songs - 15 hr 23 min
+282 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [are you here](https://open.spotify.com/track/02Xovos0EpvUeSsivTEAPU) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [are you here](https://open.spotify.com/album/4buYgkKgC2ePyT0XmOK638) | 2:48 | 2023-09-07 |  |
 | [Around Me](https://open.spotify.com/track/1htEfLu0TYvsJRr2WsInkD) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [Around Me](https://open.spotify.com/album/7xN2V5CJqsTKeuEzS756SQ) | 3:30 | 2023-08-31 |  |
 | [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2023-06-22 |  |
+| [Astray](https://open.spotify.com/track/6wg4BDrJ68j2ug62VSyXwT) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [Morning Glory](https://open.spotify.com/album/123UYRsFD3mu0hM4H8ZyIa) | 4:48 | 2023-10-12 |  |
 | [back in time](https://open.spotify.com/track/2wfwhyErdQVfXGPwPTUhht) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [back in time](https://open.spotify.com/album/5pgSw0cqiPHDtSwjMK2d0o) | 2:36 | 2023-07-14 |  |
 | [BADDER](https://open.spotify.com/track/0Q6vVLxQ6gl6NFMQka3Q9X) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [BADDER](https://open.spotify.com/album/2pxk9vwolPXy353Ru36cIe) | 3:04 | 2023-04-27 |  |
 | [be with you](https://open.spotify.com/track/4GBZ0ZOU9D0pefvZ2V8WCP) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [be with you](https://open.spotify.com/album/0aPSe9U1cK6Q0oFJpvlMcR) | 3:03 | 2023-09-14 |  |
@@ -106,9 +107,10 @@
 | [Hollow](https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56) | 4:36 | 2023-04-13 |  |
 | [Home](https://open.spotify.com/track/7LcoNxnl1UpDTVlFxyWuc7) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Home](https://open.spotify.com/album/7EQICwXiHrwISuMKvRY9sj) | 3:41 | 2023-06-29 |  |
 | [Human](https://open.spotify.com/track/7mXA7ig1a2eIFSU7i3dmdp) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Human](https://open.spotify.com/album/7h055YeG299pK2UGR9Wm4U) | 2:38 | 2023-07-28 |  |
+| [Human](https://open.spotify.com/track/6Kl0BmROA5CAwtQOEFd99y) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Human](https://open.spotify.com/album/2Lp9nUToblWF8nbzeMVzjA) | 2:13 | 2023-10-12 |  |
 | [Hurricane \- Ryan Case Remix](https://open.spotify.com/track/5146r6RrR2ElhlrGr64Fuq) | [Koastle](https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g), [Talia Rose](https://open.spotify.com/artist/6eYjrfBSmbl3b8TijVnW3T), [Ryan Case](https://open.spotify.com/artist/2MCUmcEXeY80S0aSucQsXn) | [Hurricane \(Ryan Case Remix\)](https://open.spotify.com/album/6J62BG8YytAQ5zhRgOEb61) | 2:54 | 2023-06-22 |  |
 | [I Can Make It](https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [I Can Make It](https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat) | 4:09 | 2023-07-14 |  |
-| [i can see](https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [i can see](https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A) | 3:49 | 2023-09-21 |  |
+| [I Can See](https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [I Can See](https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A) | 3:49 | 2023-09-21 |  |
 | [I CAN'T STOP](https://open.spotify.com/track/3rc030o1DJ1ILNdMPZoS7W) | [ASTRO](https://open.spotify.com/artist/5kZk6YdVhp9mtEyzhDxRqj) | [I CAN'T STOP](https://open.spotify.com/album/7j6c2keRodBMXiZExqLaQm) | 3:06 | 2023-05-26 |  |
 | [I Don't Wanna Let You Go](https://open.spotify.com/track/4fuNiwrYGyapCWvu6wmDrT) | [CHEEKS](https://open.spotify.com/artist/3yeAenPW5DfjuousCOdek9) | [I Don't Wanna Let You Go](https://open.spotify.com/album/3TFWS8W8gSrlWR0JJo5F1O) | 2:02 | 2023-08-31 |  |
 | [I Got You](https://open.spotify.com/track/11xY5dCeBsU1reDOfJdwjq) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [I Got You](https://open.spotify.com/album/4Teix1bIpmh3moHcHFcEQr) | 3:02 | 2023-08-24 |  |
@@ -187,6 +189,7 @@
 | [Pearls \- SILK Remix](https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Pearls \(SILK Remix\)](https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr) | 4:06 | 2023-04-13 | 2023-07-22 |
 | [Poetry Of You](https://open.spotify.com/track/2fvt96YAsSr5e8ZwbMg2j9) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Poetry Of You](https://open.spotify.com/album/4qdR9J2rvV9X3t6eZKrTL1) | 4:17 | 2023-06-08 |  |
 | [PROTECTA](https://open.spotify.com/track/4UFC4dvAyASnFJ3ZEoigsH) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [PROTECTA](https://open.spotify.com/album/1pqIMAkPGyIv2xqfR0Sohz) | 3:45 | 2023-09-28 |  |
+| [Pulse](https://open.spotify.com/track/23iZJf28GEWUPSPy7lvuYQ) | [Cella](https://open.spotify.com/artist/3w7ASanLoAsQcWhd7V9DpJ) | [Pulse](https://open.spotify.com/album/65kd2HOjsJ9NE0m5EYrM2s) | 3:53 | 2023-10-12 |  |
 | [Pulse](https://open.spotify.com/track/6LLvkAyDL6Yv6gHI8SF7Bw) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Pulse](https://open.spotify.com/album/7GCTjtsPVA8BSaFsUycCjf) | 4:55 | 2023-06-01 |  |
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2023-04-13 |  |
 | [Radio \- SILK Remix](https://open.spotify.com/track/2XnnsbJsLJpE6Kt7IMLRn4) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Radio \(SILK Remix\)](https://open.spotify.com/album/1ccpjciLT1hr63qZpj9ZPA) | 3:02 | 2023-04-13 |  |
@@ -233,6 +236,7 @@
 | [talk](https://open.spotify.com/track/0ar3UqRjJEwYfx2SBlefnF) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [talk](https://open.spotify.com/album/6JtweGxznTHck5hZ4MIipF) | 3:10 | 2023-04-27 |  |
 | [Talk To Me](https://open.spotify.com/track/0w5ebrPN1s8eLSVfA63L20) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5), [Jonas LR](https://open.spotify.com/artist/7qN5EMGrVqdjmYWdNJgbNO) | [Talk To Me](https://open.spotify.com/album/4GAXTvUhu1NvcP3cM5G3Kj) | 3:30 | 2023-06-01 |  |
 | [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 | 2023-04-13 |  |
+| [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:02 | 2023-10-12 |  |
 | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/track/2fxMpAFw0matLcxCZWaU1E) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/album/1MJkilvAVT6k8MyAaqwX71) | 3:06 | 2023-06-29 | 2023-07-08 |
 | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/album/6OtXCPzbIwmPPTLUDc9n7B) | 3:06 | 2023-07-07 |  |
 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 | 2023-04-13 |  |

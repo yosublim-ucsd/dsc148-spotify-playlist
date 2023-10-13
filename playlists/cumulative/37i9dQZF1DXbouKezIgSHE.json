@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/5ybyy1avjgzWjCg8oaMGG3"
+      },
+      "artists": [
+        {
+          "name": "LO'99",
+          "url": "https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240380,
+      "name": "Connected",
+      "url": "https://open.spotify.com/track/56ChzyUJ7FrIsToNQaJi7i"
+    },
+    {
+      "album": {
         "name": "DAMAGE DONE",
         "url": "https://open.spotify.com/album/1SK3R2FUZKMfMFx7VSD45B"
       },
@@ -1972,6 +1990,42 @@
       "duration_ms": 240500,
       "name": "On Love",
       "url": "https://open.spotify.com/track/1l9LhZpUwweKaz1K3Rcoof"
+    },
+    {
+      "album": {
+        "name": "On Your Side",
+        "url": "https://open.spotify.com/album/54hCoqoBDnCmuG1Rdy10TR"
+      },
+      "artists": [
+        {
+          "name": "Shapeshifter",
+          "url": "https://open.spotify.com/artist/4whp3jSWWaITn36r9D4ZLf"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "On Your Side",
+      "url": "https://open.spotify.com/track/4dpHuT18ILHncpFWPwOPm1"
+    },
+    {
+      "album": {
+        "name": "Opticals",
+        "url": "https://open.spotify.com/album/0vY8vkYbTZc9ni9wx7zX4I"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171034,
+      "name": "Opticals",
+      "url": "https://open.spotify.com/track/2pL8Juf84OVNT5bkngQ0Bf"
     },
     {
       "album": {

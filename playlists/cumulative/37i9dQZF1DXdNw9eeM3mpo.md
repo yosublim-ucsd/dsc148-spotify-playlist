@@ -4,10 +4,11 @@
 
 > 100% ska en español\. Los Fabulosos Cadillacs en portada.
 
-306 songs - 18 hr 40 min
+307 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [30 Años](https://open.spotify.com/track/3MROCu02TzR1Ovu1Xq1S7r) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [30 años](https://open.spotify.com/album/7tmLCVy3YeRzByi0rwhREV) | 3:34 | 2023-10-13 |  |
 | [30 Monedas](https://open.spotify.com/track/3xdzopoC8RLPrY8lKs0MSa) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [30 Monedas](https://open.spotify.com/album/3KaJD0ChIaLSxCi4jM23a6) | 3:40 | 2021-12-21 | 2023-03-21 |
 | [A Beber Ron](https://open.spotify.com/track/7jDxZOrNK2oUstpupqrEko) | [Negros Vivos](https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ) | [De Vuelta Atrás](https://open.spotify.com/album/7thrKGgXnGuF3a9ArQFdwq) | 4:30 | 2021-12-21 | 2022-07-16 |
 | [A partir de ahí](https://open.spotify.com/track/1FMsxyf8w9PnhcA6POZ0vV) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [A medio camino](https://open.spotify.com/album/3LIlsKOlDzWYosREO60Cgs) | 2:52 | 2023-09-22 |  |
@@ -128,7 +129,7 @@
 | [Konfesión](https://open.spotify.com/track/20K8gKxabOpZe5BEJH2thY) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [Ací Estem](https://open.spotify.com/album/3gBBuswdlFKPtSj3FITA79) | 4:11 | 2021-12-21 | 2022-07-22 |
 | [La Bacha](https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu) | [Adhesivo](https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n) | [La Bacha](https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw) | 3:16 | 2023-04-21 | 2023-09-09 |
 | [La Banda Borracha](https://open.spotify.com/track/5oXFI9ZLYGUbpLZY34T3ai) | [La Lupita](https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB) | [La Banda Borracha](https://open.spotify.com/album/6QB9WO7bZPX4MfbteFWWJM) | 3:33 | 2021-12-21 | 2022-08-19 |
-| [LA BESTIA](https://open.spotify.com/track/0ruzjmHbo1rQzSzhTB3E97) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [LA BESTIA](https://open.spotify.com/album/4mnYASpvR57lHSg8iJwWeh) | 3:17 | 2023-06-30 |  |
+| [LA BESTIA](https://open.spotify.com/track/0ruzjmHbo1rQzSzhTB3E97) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [LA BESTIA](https://open.spotify.com/album/4mnYASpvR57lHSg8iJwWeh) | 3:17 | 2023-06-30 | 2023-10-13 |
 | [La Bolsa](https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Bolsa](https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el) | 3:19 | 2023-05-05 |  |
 | [La Boni](https://open.spotify.com/track/60F2wMMzrcTCFWNIlCXDSZ) | [Malacates Trebol Shop](https://open.spotify.com/artist/6Nc4k4Y5rX6YgnBsoXGJjG), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [La Boni](https://open.spotify.com/album/60i8eJW5Cqf68eRBUg1t5F) | 3:29 | 2023-07-07 |  |
 | [La Carencia](https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:33 | 2021-12-21 |  |

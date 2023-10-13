@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. El Tri en portada. ",
-  "num_followers": 1010971,
+  "num_followers": 1009109,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzU5MDkxNTA3NTVmNGZjNzM1MDc5ZjZhOTE5ZjRkMzk2YzYxZGEw",
+  "snapshot_id": "MCw5YTc3NGQ5ZGE1OTZiMzk5YzM5YzQzNDQyMmNhY2U3MmUwYTdlNmIx",
   "tracks": [
     {
       "added_at": "2023-10-09 04:12:59",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-10-09 04:12:59",
       "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 267953,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
-    },
-    {
-      "added_at": "2023-10-09 04:12:59",
-      "album": {
         "name": "Restaurant",
         "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 209040,
       "name": "Siento Que...",
       "url": "https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W"
+    },
+    {
+      "added_at": "2023-10-09 04:12:59",
+      "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 267953,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
     },
     {
       "added_at": "2023-10-09 04:12:59",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2023-10-09 04:12:59",
       "album": {
-        "name": "Lamento Boliviano",
-        "url": "https://open.spotify.com/album/4832tSPhuJCtT46DCaGiGR"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        },
-        {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
-        }
-      ],
-      "duration_ms": 243338,
-      "name": "Lamento Boliviano",
-      "url": "https://open.spotify.com/track/69xAODJbGD64reFIgp8MxX"
-    },
-    {
-      "added_at": "2023-10-09 04:12:59",
-      "album": {
         "name": "Fuera Del Cielo",
         "url": "https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 232880,
       "name": "16 De Febrero",
       "url": "https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5"
+    },
+    {
+      "added_at": "2023-10-09 04:12:59",
+      "album": {
+        "name": "Lamento Boliviano",
+        "url": "https://open.spotify.com/album/4832tSPhuJCtT46DCaGiGR"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        },
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        }
+      ],
+      "duration_ms": 243338,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/69xAODJbGD64reFIgp8MxX"
     },
     {
       "added_at": "2023-10-09 04:12:59",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-10-09 04:12:59",
       "album": {
+        "name": "Trinchera",
+        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 220795,
+      "name": "La Izquierda de la Noche",
+      "url": "https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB"
+    },
+    {
+      "added_at": "2023-10-09 04:12:59",
+      "album": {
         "name": "Fuera de Control",
         "url": "https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 210824,
       "name": "Fuera de Control",
       "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
-    },
-    {
-      "added_at": "2023-10-09 04:12:59",
-      "album": {
-        "name": "Trinchera",
-        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 220795,
-      "name": "La Izquierda de la Noche",
-      "url": "https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB"
     },
     {
       "added_at": "2023-10-09 04:12:59",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-10-09 04:12:59",
       "album": {
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+    },
+    {
+      "added_at": "2023-10-09 04:12:59",
+      "album": {
         "name": "Yo Tomo",
         "url": "https://open.spotify.com/album/4CvY2laGULuB45gIFmdRR4"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 219000,
       "name": "Yo Tomo",
       "url": "https://open.spotify.com/track/7EFXiU4su2Wrbw395sExAX"
-    },
-    {
-      "added_at": "2023-10-09 04:12:59",
-      "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
     },
     {
       "added_at": "2023-10-09 04:12:59",
@@ -1487,6 +1487,30 @@
     {
       "added_at": "2023-10-09 04:12:59",
       "album": {
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 210986,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn"
+    },
+    {
+      "added_at": "2023-10-09 04:12:59",
+      "album": {
         "name": "Mienten",
         "url": "https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR"
       },
@@ -1503,22 +1527,18 @@
     {
       "added_at": "2023-10-09 04:12:59",
       "album": {
-        "name": "ADN (Cap\u00edtulo N)",
-        "url": "https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX"
+        "name": "!!Puro Macanazo!!",
+        "url": "https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 182233,
-      "name": "Am\u00e9rica",
-      "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
+      "duration_ms": 271733,
+      "name": "El Recuento de los Da\u00f1os",
+      "url": "https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy"
     },
     {
       "added_at": "2023-10-09 04:12:59",
@@ -1535,22 +1555,6 @@
       "duration_ms": 343826,
       "name": "Botas Negras",
       "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
-    },
-    {
-      "added_at": "2023-10-09 04:12:59",
-      "album": {
-        "name": "!!Puro Macanazo!!",
-        "url": "https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 271733,
-      "name": "El Recuento de los Da\u00f1os",
-      "url": "https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy"
     },
     {
       "added_at": "2023-10-09 04:12:59",
@@ -1623,8 +1627,8 @@
     {
       "added_at": "2023-10-09 04:12:59",
       "album": {
-        "name": "Oro",
-        "url": "https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi"
+        "name": "ADN (Cap\u00edtulo N)",
+        "url": "https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX"
       },
       "artists": [
         {
@@ -1632,17 +1636,13 @@
           "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         },
         {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
         }
       ],
-      "duration_ms": 210986,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn"
+      "duration_ms": 182233,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
     },
     {
       "added_at": "2023-10-09 04:12:59",

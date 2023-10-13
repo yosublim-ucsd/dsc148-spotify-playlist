@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Double Booked",
+        "url": "https://open.spotify.com/album/0ylLloIH1E9prf545wILc6"
+      },
+      "artists": [
+        {
+          "name": "Terminal Grooves",
+          "url": "https://open.spotify.com/artist/0TbDCdm68D1QjlairLPiTE"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131045,
+      "name": "Double Booked",
+      "url": "https://open.spotify.com/track/0NHeNBFdw03LNFIHlz2iMW"
+    },
+    {
+      "album": {
         "name": "Dream Repeat",
         "url": "https://open.spotify.com/album/1fUGc9LxW52P90f49TYT0o"
       },
@@ -5066,6 +5084,24 @@
       "duration_ms": 200000,
       "name": "Summertime Love",
       "url": "https://open.spotify.com/track/2h1OAlUkaqGlUdiCsfWy0P"
+    },
+    {
+      "album": {
+        "name": "Sunday Grid",
+        "url": "https://open.spotify.com/album/5Zb2pyStZHq6x8dQPJ4eMR"
+      },
+      "artists": [
+        {
+          "name": "Zumaia",
+          "url": "https://open.spotify.com/artist/30w51iPwkBwWcs6ZzrrxsH"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123243,
+      "name": "Sunday Grid",
+      "url": "https://open.spotify.com/track/1QdHI6XAewVlerEOweBHnh"
     },
     {
       "album": {

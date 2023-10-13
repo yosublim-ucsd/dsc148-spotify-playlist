@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: J\u00e3o",
-  "num_followers": 433187,
+  "num_followers": 433080,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODAxMjgwOTdkZjI3NDMwMDhlYzgxZDVlMDNlMmRlYTU2MTdlYjQ4",
+  "snapshot_id": "MCw3MDRhMDY0OWY5ZjMxOWQyNTY2N2IyYjA4ZTNjMDczMWFhYjVlNDBk",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -127,26 +127,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Idiota Raiz (Deixa Ir)",
-        "url": "https://open.spotify.com/album/3nYq2i21JSw8TL5rdlBQcM"
-      },
-      "artists": [
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        },
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        }
-      ],
-      "duration_ms": 154137,
-      "name": "Idiota Raiz (Deixa Ir)",
-      "url": "https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Zero a Cem",
         "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 190652,
       "name": "Zero a Cem",
       "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Idiota Raiz (Deixa Ir)",
+        "url": "https://open.spotify.com/album/3nYq2i21JSw8TL5rdlBQcM"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "duration_ms": 154137,
+      "name": "Idiota Raiz (Deixa Ir)",
+      "url": "https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Quem \u00c9 Ela?",
         "url": "https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 158464,
       "name": "Perigo",
       "url": "https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Ch\u00e1 De Camomila",
-        "url": "https://open.spotify.com/album/6Ke9obk68up6tK1vyOhVkM"
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         }
       ],
-      "duration_ms": 191568,
-      "name": "Ch\u00e1 De Camomila",
-      "url": "https://open.spotify.com/track/1SL08ggkKbwl88V2Zg3Tsv"
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+        "name": "Ch\u00e1 De Camomila",
+        "url": "https://open.spotify.com/album/6Ke9obk68up6tK1vyOhVkM"
       },
       "artists": [
         {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         }
       ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+      "duration_ms": 191568,
+      "name": "Ch\u00e1 De Camomila",
+      "url": "https://open.spotify.com/track/1SL08ggkKbwl88V2Zg3Tsv"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Tom Jobim",
-        "url": "https://open.spotify.com/album/5HczYawk4wKPp5nXP36s6P"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Tom Jobim",
-      "url": "https://open.spotify.com/track/2pk99nZzZMkUBOhEUoMgH4"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
         "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 133806,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Tom Jobim",
+        "url": "https://open.spotify.com/album/5HczYawk4wKPp5nXP36s6P"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Tom Jobim",
+      "url": "https://open.spotify.com/track/2pk99nZzZMkUBOhEUoMgH4"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "T\u00f4 te olhando",
-        "url": "https://open.spotify.com/album/1dA5DEFhICKQiv9rwFRV7Z"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Froede",
-          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
-        },
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 150306,
-      "name": "T\u00f4 te olhando",
-      "url": "https://open.spotify.com/track/7FvZAnyZVwuCU0j5ta9TNj"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Desconectar",
         "url": "https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 156000,
       "name": "Desconectar",
       "url": "https://open.spotify.com/track/5k7iqWlybTTsHlyy9FbdiA"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "T\u00f4 te olhando",
+        "url": "https://open.spotify.com/album/1dA5DEFhICKQiv9rwFRV7Z"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Froede",
+          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 150306,
+      "name": "T\u00f4 te olhando",
+      "url": "https://open.spotify.com/track/7FvZAnyZVwuCU0j5ta9TNj"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Lindo Dom",
+        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 193842,
+      "name": "Lindo Dom",
+      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Lugares",
         "url": "https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Lindo Dom",
-        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 193842,
-      "name": "Lindo Dom",
-      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Casa Comigo?",
-        "url": "https://open.spotify.com/album/3wjR90Q98DFO8exvuwuYLr"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Casa Comigo?",
-      "url": "https://open.spotify.com/track/4NggJkhK4jIbTlcey5S7nR"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Vou Fugir",
         "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Ser Eu",
-        "url": "https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M"
+        "name": "Casa Comigo?",
+        "url": "https://open.spotify.com/album/3wjR90Q98DFO8exvuwuYLr"
       },
       "artists": [
         {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
         }
       ],
-      "duration_ms": 161828,
-      "name": "Ser Eu",
-      "url": "https://open.spotify.com/track/2ExyuObg4f2r7wTiM03rST"
+      "duration_ms": 159500,
+      "name": "Casa Comigo?",
+      "url": "https://open.spotify.com/track/4NggJkhK4jIbTlcey5S7nR"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Sanidade Mental",
-        "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
+        "name": "Ser Eu",
+        "url": "https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M"
       },
       "artists": [
         {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
         }
       ],
-      "duration_ms": 119706,
-      "name": "Sanidade Mental",
-      "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
+      "duration_ms": 161828,
+      "name": "Ser Eu",
+      "url": "https://open.spotify.com/track/2ExyuObg4f2r7wTiM03rST"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1147,6 +1131,22 @@
       "duration_ms": 148330,
       "name": "N\u00e3o Me Chame Mais De Ex",
       "url": "https://open.spotify.com/track/4z1PRlsNS6oO3EPefmKFzl"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Sanidade Mental",
+        "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 119706,
+      "name": "Sanidade Mental",
+      "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Sincero",
-        "url": "https://open.spotify.com/album/4uKUlLXDo9irryq46SOnyl"
-      },
-      "artists": [
-        {
-          "name": "F\u00ea Costa",
-          "url": "https://open.spotify.com/artist/44iMU2cm99b2s3YahO5TQ1"
-        },
-        {
-          "name": "Conc\u00ea",
-          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
-        }
-      ],
-      "duration_ms": 169275,
-      "name": "Sincero",
-      "url": "https://open.spotify.com/track/00MVlCqEO9ANx8tNIwJnCV"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "vida leve (ralk remix)",
         "url": "https://open.spotify.com/album/0m97vhqbom6EQvYatU77Yy"
       },
@@ -1311,18 +1291,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "deixa eu me perder",
-        "url": "https://open.spotify.com/album/56H5OItpiWEjREhIsSpy8l"
+        "name": "Sincero",
+        "url": "https://open.spotify.com/album/4uKUlLXDo9irryq46SOnyl"
       },
       "artists": [
         {
-          "name": "Chiara Maria",
-          "url": "https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4"
+          "name": "F\u00ea Costa",
+          "url": "https://open.spotify.com/artist/44iMU2cm99b2s3YahO5TQ1"
+        },
+        {
+          "name": "Conc\u00ea",
+          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
         }
       ],
-      "duration_ms": 145000,
-      "name": "deixa eu me perder",
-      "url": "https://open.spotify.com/track/47byIEQkbY3In4DyTYmOw4"
+      "duration_ms": 169275,
+      "name": "Sincero",
+      "url": "https://open.spotify.com/track/00MVlCqEO9ANx8tNIwJnCV"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1347,6 +1331,22 @@
       "duration_ms": 153230,
       "name": "teu sinal",
       "url": "https://open.spotify.com/track/5dOolVYZWx4APORj56Lbuw"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "deixa eu me perder",
+        "url": "https://open.spotify.com/album/56H5OItpiWEjREhIsSpy8l"
+      },
+      "artists": [
+        {
+          "name": "Chiara Maria",
+          "url": "https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "deixa eu me perder",
+      "url": "https://open.spotify.com/track/47byIEQkbY3In4DyTYmOw4"
     },
     {
       "added_at": "2023-10-06 03:00:00",

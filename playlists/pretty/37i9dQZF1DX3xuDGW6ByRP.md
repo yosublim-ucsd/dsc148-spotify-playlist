@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas de pop rock br / Foto: Anandinha
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,577 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,613 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 51 | [MINHA RELIGIÃO](https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MINHA RELIGIÃO](https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9) | 2:33 |
 | 52 | [Teu Pescoço](https://open.spotify.com/track/4NZJGR8aUHBcUn9dOKGVJC) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Fim do Mundo](https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw) | 2:55 |
 | 53 | [INTENSAMENTE](https://open.spotify.com/track/5XNHFSi9krUa5Ikw1fJK4K) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [INTENSAMENTE](https://open.spotify.com/album/1S03QGdOVgnsPM2JmoJkte) | 2:58 |
-| 54 | [DUBLÊ](https://open.spotify.com/track/2P4Nbb8Gf5TX2JyBu0kuIY) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [DUBLÊ](https://open.spotify.com/album/21nz8HbPqUOCkPRXbpH5jJ) | 2:58 |
-| 55 | [Legado](https://open.spotify.com/track/22hTtzEc2038qqwCuiZ687) | [Floco](https://open.spotify.com/artist/3Dlxw7x1H8jzflD6DBqljc), [amanda muraro](https://open.spotify.com/artist/0H3Ar9Em4fxqO0NYLTs7vJ) | [Legado](https://open.spotify.com/album/7qk4AUAt8F9m508h7HV8sj) | 2:14 |
-| 56 | [incendiou](https://open.spotify.com/track/2MbrpnlzfICszxaG6eToxk) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [incendiou](https://open.spotify.com/album/3Tuj3hfYgdrb6Un6leT4Js) | 2:50 |
+| 54 | [Legado](https://open.spotify.com/track/22hTtzEc2038qqwCuiZ687) | [Floco](https://open.spotify.com/artist/3Dlxw7x1H8jzflD6DBqljc), [amanda muraro](https://open.spotify.com/artist/0H3Ar9Em4fxqO0NYLTs7vJ) | [Legado](https://open.spotify.com/album/7qk4AUAt8F9m508h7HV8sj) | 2:14 |
+| 55 | [DUBLÊ](https://open.spotify.com/track/2P4Nbb8Gf5TX2JyBu0kuIY) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [DUBLÊ](https://open.spotify.com/album/21nz8HbPqUOCkPRXbpH5jJ) | 2:58 |
+| 56 | [LSD](https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Reviravolta](https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo) | 3:25 |
 | 57 | [Muito Além](https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Muito Além](https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo) | 2:48 |
-| 58 | [LSD](https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Reviravolta](https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo) | 3:25 |
+| 58 | [incendiou](https://open.spotify.com/track/2MbrpnlzfICszxaG6eToxk) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [incendiou](https://open.spotify.com/album/3Tuj3hfYgdrb6Un6leT4Js) | 2:50 |
 | 59 | [não me importo mais](https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [não me importo mais](https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG) | 2:36 |
 | 60 | [ponto de vista](https://open.spotify.com/track/0NfqR1Kf2opCwXPaNVouRY) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [ponto de vista](https://open.spotify.com/album/0nD3dR5hkxS3g1DyCATB9U) | 3:26 |
 | 61 | [bom ator](https://open.spotify.com/track/6VrkNbCZW82ptUYPWV99sA) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT), [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx) | [PODERIA SER PIOR](https://open.spotify.com/album/5N0xGpXhbba4Io7PAU3MwK) | 2:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 79 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
 | 80 | [Modo Avião](https://open.spotify.com/track/4ySYEyfeDzgnWLosAGlLQ6) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Modo Avião](https://open.spotify.com/album/7wht9U41LSGB2ni7dR9mek) | 2:55 |
 
-Snapshot ID: `MCxjODQ1OWU1MGE2MmYyODQ5NDNjYTU2NDgxODRlMDg2OGQzNzkyZTQ4`
+Snapshot ID: `MCwwYTMyYjdmYjdhMzcyY2E4ODU5N2JkZWY4OTI2YmVkMGRjZTNlNjAw`

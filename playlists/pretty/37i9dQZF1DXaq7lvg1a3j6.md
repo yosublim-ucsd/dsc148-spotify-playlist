@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq7lvg1a3j6.md) - [plain]
 
 > Let these songs soundtrack your busy wedding season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,427 likes - 39 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,336 likes - 39 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq7lvg1a3j6.md) - [plain]
 | 28 | [Ghani Bawri \(From "Tanu Weds Manu Returns"\)](https://open.spotify.com/track/1XVKNlNE2quleT1ZY5yFmN) | [Jyoti Noora](https://open.spotify.com/artist/7ho6U1pgk5AfbhhoS3qggE) | [Tanu Weds Manu Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66GxOwfWVlbVRPwoi5dbhd) | 4:14 |
 | 29 | [Naah Goriye](https://open.spotify.com/track/2q12vH6qEvg8y1XBCgTbHZ) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Swasti Mehul](https://open.spotify.com/artist/7r7WoKowe8dCfQCl9GACDM), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Bala \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eqqSmPlC78OQpQoAnkt7z) | 3:04 |
 | 30 | [Nagada Sang Dhol](https://open.spotify.com/track/6WyPFYIqwULAkTG9fAx4ox) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1) | [Goliyon Ki Raasleela Ram\-Leela](https://open.spotify.com/album/39DoW3oSM0BCiKtdRNxnhQ) | 4:33 |
-| 31 | [Ye Ishq Hai](https://open.spotify.com/track/4BiPsAV070dg3eLSVf727A) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 4:40 |
+| 31 | [Ye Ishq Hai](https://open.spotify.com/track/4BiPsAV070dg3eLSVf727A) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 4:40 |
 | 32 | [Iski Uski](https://open.spotify.com/track/0ON0JdGgRTVcCInt8j6eod) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 4:14 |
 | 33 | [Morni Banke](https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Badhaai Ho](https://open.spotify.com/album/3JV6qkpTBbwUL0gSDPc6bA) | 3:18 |
 | 34 | [Tooh](https://open.spotify.com/track/23Dpwemmuf6nYSzR9sUJ9M) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Mamta Sharma](https://open.spotify.com/artist/0RMsiUCTjsdGjoKyhEm8Y4) | [Tooh](https://open.spotify.com/album/7ivSWCu9WuArhLWHOUDLbQ) | 4:20 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq7lvg1a3j6.md) - [plain]
 | 38 | [Chote Chote Bhaiyon Ke Bade Bhaiya](https://open.spotify.com/track/6LJhtkzikhMyIBMFWr5TNX) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Hum Saath \- Saath Hain \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0V8O6S0S6mYdyPch6DdW8g) | 4:15 |
 | 39 | [Say "Shava Shava"](https://open.spotify.com/track/7CdABTaND3EW5cETakiBD3) | [Aadesh Shrivastava](https://open.spotify.com/artist/4tma2wxDchrifG8Pflic4Q), [Sudesh Bhosale](https://open.spotify.com/artist/7u7mPDD1KXN9mfJ7EsBmET), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Amitabh Bachchan](https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Kabhi Khushi Kabhie Gham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh) | 6:48 |
 
-Snapshot ID: `MCwzMjRmMjdkNzVjOGU4ZDdkNGExNzYxYjM1NzA3NDBjOTRmYjI0NjMy`
+Snapshot ID: `MCwyZmQ0Y2ViYjBiZjVjN2M3MTg2ZGQxMjM5NzhmODRhMzhkY2VkMmY4`

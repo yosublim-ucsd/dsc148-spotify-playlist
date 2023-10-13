@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: juju <3
 
-1,910 songs - 4 day 8 hr 25 min
+1,911 songs - 4 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -885,7 +885,8 @@
 | [Indie Girls](https://open.spotify.com/track/73TENcqZwgGMDRxqR3sZMl) | [The Real Zebos](https://open.spotify.com/artist/2yx6tPwcJtU5oz7vXAWov7) | [Indie Girls](https://open.spotify.com/album/4qwnOdmtEffELjDXVPWNc4) | 4:04 | 2022-08-31 | 2022-10-06 |
 | [Indiesong](https://open.spotify.com/track/1LQisz6YTPRLDnRdW8mjen) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [memoryland enhanced](https://open.spotify.com/album/5sZPUIuGwiLmESF5oUYHDs) | 2:33 | 2023-01-11 | 2023-02-09 |
 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 | 2023-03-15 | 2023-05-11 |
-| [INFATUATION](https://open.spotify.com/track/3utAfd1gVKucJ8u9fABRaI) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [INFATUATION](https://open.spotify.com/album/40UdPGBdQ0C2Yv26AkAJNe) | 2:02 | 2023-10-11 |  |
+| [INFATUATION](https://open.spotify.com/track/01ohSXFsSpf2tv0obiygSQ) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [INFATUATION](https://open.spotify.com/album/1F0Rb7AUH5yMbLtIEdiNeL) | 2:02 | 2023-10-11 |  |
+| [INFATUATION](https://open.spotify.com/track/3utAfd1gVKucJ8u9fABRaI) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [INFATUATION](https://open.spotify.com/album/40UdPGBdQ0C2Yv26AkAJNe) | 2:02 | 2023-10-11 | 2023-10-13 |
 | [infinity](https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [infinity](https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW) | 2:54 | 2023-04-26 | 2023-05-31 |
 | [Insomniac](https://open.spotify.com/track/5XQfmxS3zpJG0ffSVMgI7q) | [Schur](https://open.spotify.com/artist/0lidIulPhPCS2cN4qDatt7) | [Insomniac](https://open.spotify.com/album/2gIJz17anNib4YRhzKbOGz) | 3:14 | 2022-03-30 | 2022-04-27 |
 | [int4rmission!](https://open.spotify.com/track/34ny3BgOaSjeatdzabpOm9) | [Alexa Cirri](https://open.spotify.com/artist/0jitaHotzcSiJNkm4amOOr) | [int4rmission!](https://open.spotify.com/album/2WgKouC6NVfyZQLsgnp83l) | 3:12 | 2022-08-10 | 2022-09-29 |

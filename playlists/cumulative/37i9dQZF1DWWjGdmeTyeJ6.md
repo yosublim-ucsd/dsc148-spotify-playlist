@@ -4,7 +4,7 @@
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Anya Nami\. Artwork by Isu Kim.
 
-5,235 songs - 11 day 21 hr 25 min
+5,237 songs - 11 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2375,7 +2375,8 @@
 | [Incognito](https://open.spotify.com/track/3emj9uYlPymC9wCWPfqihi) | [Raine](https://open.spotify.com/artist/1hxElSEVvcFYd7lTQaTXYG) | [Incognito](https://open.spotify.com/album/1HtSnYl8tUvfs8pVgJN5xz) | 3:26 | 2023-08-16 | 2023-08-24 |
 | [Indie Girls](https://open.spotify.com/track/73TENcqZwgGMDRxqR3sZMl) | [The Real Zebos](https://open.spotify.com/artist/2yx6tPwcJtU5oz7vXAWov7) | [Indie Girls](https://open.spotify.com/album/4qwnOdmtEffELjDXVPWNc4) | 4:04 | 2022-08-31 | 2022-09-09 |
 | [Indigo](https://open.spotify.com/track/0du9zbRI7wC1qLjvYDMfIE) | [Blue Mena](https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa) | [Indigo](https://open.spotify.com/album/370N5kvwlAJ00bFXROxi50) | 3:06 | 2023-03-22 | 2023-03-30 |
-| [INFATUATION](https://open.spotify.com/track/3utAfd1gVKucJ8u9fABRaI) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [INFATUATION](https://open.spotify.com/album/40UdPGBdQ0C2Yv26AkAJNe) | 2:02 | 2023-10-11 |  |
+| [INFATUATION](https://open.spotify.com/track/01ohSXFsSpf2tv0obiygSQ) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [INFATUATION](https://open.spotify.com/album/1F0Rb7AUH5yMbLtIEdiNeL) | 2:02 | 2023-10-11 |  |
+| [INFATUATION](https://open.spotify.com/track/3utAfd1gVKucJ8u9fABRaI) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [INFATUATION](https://open.spotify.com/album/40UdPGBdQ0C2Yv26AkAJNe) | 2:02 | 2023-10-11 | 2023-10-13 |
 | [infinity](https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [infinity](https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW) | 2:54 | 2023-04-26 | 2023-05-04 |
 | [Infrared](https://open.spotify.com/track/3yHiLDeERi7k1q3InysVYI) | [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [Infrared](https://open.spotify.com/album/0eRYQNzFjAayeFzgcw3Tvx) | 5:18 | 2022-01-26 | 2022-02-03 |
 | [Inject Me](https://open.spotify.com/track/4dGwHglvcnBzANN7uZCHYT) | [Tash Blake](https://open.spotify.com/artist/2BTuO9Djg1SvpQ6fupdlnB) | [Inject Me](https://open.spotify.com/album/6NOxYzzbRk5F60RpRWifNv) | 2:27 | 2023-05-03 | 2023-05-11 |
@@ -3059,6 +3060,7 @@
 | [Mosquito](https://open.spotify.com/track/3p5I5YZWnp81bcAvUzVHa3) | [Elijah Miller](https://open.spotify.com/artist/5EiOwophtTAR0ZaPfXuK5a) | [Mosquito](https://open.spotify.com/album/1eUSbAtW5RZmiuWEDmCxYe) | 2:52 | 2023-02-22 | 2023-03-02 |
 | [Motel Blues](https://open.spotify.com/track/4icgk39xfvIhOhWqtRXgP3) | [Ella Hunt](https://open.spotify.com/artist/2UfYkwgDo1abQS1U4pO2bT) | [Motel Blues](https://open.spotify.com/album/0W8qyUVcOBGmeC4bVec1TV) | 3:03 | 2023-08-02 | 2023-08-10 |
 | [Motels](https://open.spotify.com/track/0ZRvakrMLFVzfvR48dvTix) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Bar & Grill](https://open.spotify.com/album/3nY1adGXhrb5La2iZMpsJE) | 3:23 | 2022-08-24 | 2022-09-01 |
+| [Moth Love](https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Moth Love](https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr) | 3:22 | 2023-10-12 |  |
 | [Motion \[feat\. Wizz Havinn & Loe Shimmy\] \- Remix](https://open.spotify.com/track/419P7pvcvRBkz94d2B0F0J) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF), [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Motion \[feat\. Wizz Havinn & Loe Shimmy\] \(Remix\)](https://open.spotify.com/album/65XJ1g5lSvHqQWisRVpRKh) | 3:08 | 2023-03-22 | 2023-03-30 |
 | [Motion Man](https://open.spotify.com/track/3k0FSuoQjeivsadIwthYDF) | [Lil Stamp](https://open.spotify.com/artist/0thLKTCGsAi1zuwNddkyDB) | [Motion Man](https://open.spotify.com/album/6JVl7vf5aBSQIiFr8mDYMd) | 1:57 | 2023-01-18 | 2023-01-26 |
 | [Motorola](https://open.spotify.com/track/0wWbbWBINccmqmpjtfWpVO) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Motorola](https://open.spotify.com/album/39r2qwtznLXOFLYSh2aNOx) | 2:13 | 2023-01-11 | 2023-01-19 |

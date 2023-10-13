@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Yot Club & Jordana",
-  "num_followers": 455930,
+  "num_followers": 455945,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTM5MjNkODNhOGQwODcyMmRmNmY3NjY0NmQ4M2M4NGE0YjQ0MGE1",
+  "snapshot_id": "MCw5YmM3NjkxYWY4Mjc0NmM4OGJjMDBmYmFiMTk5YWQxMDdkOWI5ZDM3",
   "tracks": [
     {
       "added_at": "2023-09-15 12:36:22",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Antisocialites",
-        "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "Dreams Tonite",
-      "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "at least i'm pretty",
         "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 106800,
       "name": "at least i'm pretty",
       "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Antisocialites",
+        "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "Dreams Tonite",
+      "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 120961,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "madhouse",
         "url": "https://open.spotify.com/album/3C7TLQLW8cXiDoogT7Hrlj"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 211075,
       "name": "madhouse",
       "url": "https://open.spotify.com/track/36fC4xtAucJ7KH6sdSDDo7"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 120961,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Can\u2019t Get Enough",
-        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 131174,
-      "name": "Can\u2019t Get Enough",
-      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "Inner World Peace",
         "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 155609,
       "name": "One Year Stand",
       "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Can\u2019t Get Enough",
+        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 131174,
+      "name": "Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "3:45/buslane",
-        "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
-      },
-      "artists": [
-        {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
-        }
-      ],
-      "duration_ms": 128530,
-      "name": "3:45/buslane",
-      "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "Blue Suicide",
         "url": "https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 153234,
       "name": "Her Sinking Sun",
       "url": "https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "3:45/buslane",
+        "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        }
+      ],
+      "duration_ms": 128530,
+      "name": "3:45/buslane",
+      "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu"
-      },
-      "artists": [
-        {
-          "name": "Just Mustard",
-          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
-        }
-      ],
-      "duration_ms": 312400,
-      "name": "Deaf",
-      "url": "https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "Me Oh My Mirror",
         "url": "https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 223186,
       "name": "Desire",
       "url": "https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu"
+      },
+      "artists": [
+        {
+          "name": "Just Mustard",
+          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
+        }
+      ],
+      "duration_ms": 312400,
+      "name": "Deaf",
+      "url": "https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "ALLTHETIME",
-        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
-      },
-      "artists": [
-        {
-          "name": "POLICE CAR COLLECTIVE",
-          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
-        }
-      ],
-      "duration_ms": 425680,
-      "name": "ALLTHETIME",
-      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "i don't need to understand",
         "url": "https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 146594,
       "name": "i don't need to understand",
       "url": "https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "ALLTHETIME",
+        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
+      },
+      "artists": [
+        {
+          "name": "POLICE CAR COLLECTIVE",
+          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
+        }
+      ],
+      "duration_ms": 425680,
+      "name": "ALLTHETIME",
+      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
+        "name": "The Gaping Mouth",
+        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "duration_ms": 219010,
+      "name": "Seaface",
+      "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
         "name": "i want to die in your arms",
         "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 268909,
       "name": "Let It Pass",
       "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
-        "name": "The Gaping Mouth",
-        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
-      },
-      "artists": [
-        {
-          "name": "Lowertown",
-          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
-        }
-      ],
-      "duration_ms": 219010,
-      "name": "Seaface",
-      "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
     },
     {
       "added_at": "2023-09-15 12:36:22",

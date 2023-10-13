@@ -4,14 +4,14 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Chibi Ichigo, Sophie Straat
 
-103 songs - 5 hr 46 min
+105 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [220](https://open.spotify.com/track/6XOjW4o65uMwEhQTreISpU) | [Shadi](https://open.spotify.com/artist/6KRiktIvEommt5qfwLOxBz) | [220](https://open.spotify.com/album/3WH90hL7AUK8lbPsQ4yTYp) | 3:47 | 2023-02-23 | 2023-03-18 |
 | [24/7](https://open.spotify.com/track/37E6beg4rfSVrJh5XHTad7) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [24/7](https://open.spotify.com/album/6rD5BrQ8q6A1Uw9aIoRgMt) | 3:13 | 2023-08-24 |  |
 | [Adult](https://open.spotify.com/track/63XfIeYZsChaaky8oIXmE4) | [ALLY](https://open.spotify.com/artist/5j43yWfooo7jnxBQqBgDIY) | [Adult](https://open.spotify.com/album/78OTuh1gO0a8Y1nPMOVps2) | 4:02 | 2023-02-23 | 2023-03-18 |
-| [Afstand](https://open.spotify.com/track/45RziHZ3kb4hZvu15keuPx) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM) | [Afstand](https://open.spotify.com/album/6huHJqUrttdNj15htCDjp9) | 3:32 | 2023-02-23 |  |
+| [Afstand](https://open.spotify.com/track/45RziHZ3kb4hZvu15keuPx) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM) | [Afstand](https://open.spotify.com/album/6huHJqUrttdNj15htCDjp9) | 3:32 | 2023-02-23 | 2023-10-13 |
 | [Alleen In Bed](https://open.spotify.com/track/5YYGua7TW1KjqjqDO0EjqJ) | [Véras](https://open.spotify.com/artist/4xXJqw435dtoVF6WsncUcn), [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [Het Niets](https://open.spotify.com/album/5qUBj35J2gbHxtnX8lbAZL) | 3:03 | 2023-02-23 |  |
 | [Alles Weggegeven](https://open.spotify.com/track/25J6xA9QCLjqN2QdTlOGD1) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Alles Weggegeven](https://open.spotify.com/album/1Rt0CA8bfzHQbGYGUMplwp) | 4:05 | 2023-08-21 | 2023-09-23 |
 | [ALotOnMyMind](https://open.spotify.com/track/0F80wAISZKUUnPSPi2N037) | [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [OPEN, BLOOT 'N PARANOÏDE](https://open.spotify.com/album/3A3X4wF8mPeP4rZylYawXz) | 2:12 | 2023-02-23 | 2023-06-09 |
@@ -42,7 +42,7 @@
 | [I Don't Care Tonight](https://open.spotify.com/track/6kZwi3zqzCwVejpjYfIaOa) | [Misha Wong](https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0) | [I Don't Care Tonight](https://open.spotify.com/album/4WZaOHiKK6GLGimpLPHZC3) | 3:48 | 2023-05-26 |  |
 | [I Don't Know Why](https://open.spotify.com/track/0eh7RLHWRTKozBQVebazyB) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Jobsen](https://open.spotify.com/artist/1nXpJ4oZgB8PlKvQ3DFkaH), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [I Don't Know Why](https://open.spotify.com/album/2l4DnWUZwezkK6n40YI1UY) | 2:48 | 2023-02-23 | 2023-07-27 |
 | [I Don't Know Why](https://open.spotify.com/track/2aAdRmDXH07MGLmyd37xIp) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Jobsen](https://open.spotify.com/artist/1nXpJ4oZgB8PlKvQ3DFkaH), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [I Don't Know Why](https://open.spotify.com/album/1Dqh45Fe2oprowuhSOFSmb) | 2:48 | 2023-06-23 |  |
-| [I Found](https://open.spotify.com/track/7BqGd98KWC3b5GGx1wEQ2V) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Subtle Static](https://open.spotify.com/artist/5YFASQmAPmWw2eMVnU84aL) | [I Found](https://open.spotify.com/album/450H51CyucEN9AHiIrTUHp) | 3:52 | 2023-02-23 |  |
+| [I Found](https://open.spotify.com/track/7BqGd98KWC3b5GGx1wEQ2V) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Subtle Static](https://open.spotify.com/artist/5YFASQmAPmWw2eMVnU84aL) | [I Found](https://open.spotify.com/album/450H51CyucEN9AHiIrTUHp) | 3:52 | 2023-02-23 | 2023-10-13 |
 | [I Wish I Knew](https://open.spotify.com/track/1JDWUdfpi7lEm39hTuEuh0) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Eve Jones](https://open.spotify.com/artist/0HtGEZuGr7pnIgySImmPh2) | [I Wish I Knew](https://open.spotify.com/album/1eKElfchc2K5pjz0JkH6b8) | 2:47 | 2023-05-30 |  |
 | [Imaginary Friend](https://open.spotify.com/track/7f7GnNw5gENI7Rpq45Ft5R) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [First Boy In Space](https://open.spotify.com/album/3DhyZK51vn05p2kAfjzIDF) | 3:40 | 2023-02-23 | 2023-05-26 |
 | [In Between](https://open.spotify.com/track/4eckDYgci1yENJ2uQHce4k) | [Sheila and The Kit](https://open.spotify.com/artist/3EYBjavx2VfeoBhQjwMz74) | [In Between](https://open.spotify.com/album/7qB5fb3CM75F2SEtVNriYT) | 3:47 | 2023-02-23 | 2023-06-09 |
@@ -65,6 +65,7 @@
 | [Onbegrepen](https://open.spotify.com/track/2a2p471YjXXiCvpQtl8IHV) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Onbegrepen](https://open.spotify.com/album/0WNtBZDPbvqQue2UyLoTrL) | 2:29 | 2023-02-23 | 2023-06-09 |
 | [Onbezonnen](https://open.spotify.com/track/4dxWDDEkFq9VqsAcIM0IpT) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Licht En Donker](https://open.spotify.com/album/0YwrM4igfHYVfNLiIHfiLG) | 2:47 | 2023-02-23 | 2023-04-01 |
 | [Our Time Is Here](https://open.spotify.com/track/3sDLHJgIDP1q2IYnEQjMWq) | [XILLAN](https://open.spotify.com/artist/4NTqnS8zPIpfzdNBcqK8Ly) | [Crowning Gods](https://open.spotify.com/album/3kC8B6AG2U2xrKNJYfj7f5) | 3:25 | 2023-02-23 | 2023-09-30 |
+| [OUT LOUD](https://open.spotify.com/track/7BMOCSHP4JqzgRa4Dukf2W) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [UTTERLY MISTAKEN](https://open.spotify.com/album/0IkT1RbrxEQLDv59ySR6ca) | 2:25 | 2023-10-12 |  |
 | [Paranoid Sleeping \- Single Edit](https://open.spotify.com/track/1asK6lxYBYVJwzavweery9) | [Julia Sole](https://open.spotify.com/artist/12XTlzUHaKvvpxuUcKcWr3) | [Paranoid Sleeping](https://open.spotify.com/album/2g9SWINLRnk2vH0cIJEkqt) | 2:09 | 2023-02-23 |  |
 | [Peachy Free](https://open.spotify.com/track/4GGo1Vr6nFBEGvT6z7yKo2) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Peachy Free](https://open.spotify.com/album/5Wyl6qnCHluBRkGgU3WM94) | 2:34 | 2023-09-22 |  |
 | [Pelechian](https://open.spotify.com/track/2txPrKoY55bOdb7eO0dxVz) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian](https://open.spotify.com/album/4AlsQL5uhfmbH7uKQvZx4g) | 2:34 | 2023-02-23 |  |
@@ -105,6 +106,7 @@
 | [Waarom /2](https://open.spotify.com/track/1BjpwQcgj54IukIeD9eMEs) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW) | [Waarom /2](https://open.spotify.com/album/2BIesNOHRfDIy0moaQc3gD) | 3:19 | 2023-02-23 | 2023-05-26 |
 | [Waiting On You \- Recorded Live](https://open.spotify.com/track/4YRPoV5sVEWaIwbyOBrQMx) | [Lance Priester](https://open.spotify.com/artist/2c57pFinaNzjVJOUUqai3v) | [Waiting On You \(Recorded Live\)](https://open.spotify.com/album/48gFbqIM1Q8LQMAAfNC4hK) | 5:04 | 2023-06-08 |  |
 | [Where Nothing Lives](https://open.spotify.com/track/6ofdXDYZi0FlGADmT8GXLM) | [Ariana Popal](https://open.spotify.com/artist/2KtR4fuIjdVu1h8slsENsD) | [Where Nothing Lives](https://open.spotify.com/album/4hftnqNfW3ZwZKoGpgehEV) | 3:28 | 2023-02-23 |  |
+| [wolken](https://open.spotify.com/track/26QmlgDd3OyGvXPjueLSHW) | [damy](https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK) | [mensenkind](https://open.spotify.com/album/2ezRCf4Loqn8azlJxAV6QM) | 2:24 | 2023-10-12 |  |
 | [Woman Life Freedom](https://open.spotify.com/track/4pbNBY48GTfZ16X4jJxba5) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Woman Life Freedom](https://open.spotify.com/album/4GB69MswlOepsu21T0NqUF) | 4:12 | 2023-02-23 |  |
 | [youandme](https://open.spotify.com/track/51mffAss4N5q3VVkLR02TE) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Into Your Head](https://open.spotify.com/album/1YgODoJinZO2aL2Zhqtv6r) | 2:59 | 2023-03-16 |  |
 | [Zo Zijn](https://open.spotify.com/track/1q30hUyUUZyjytlKTJz4cI) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Zo Zijn](https://open.spotify.com/album/2AaXaMEDHo0ZJbvsoTmynp) | 3:12 | 2023-02-23 | 2023-04-28 |

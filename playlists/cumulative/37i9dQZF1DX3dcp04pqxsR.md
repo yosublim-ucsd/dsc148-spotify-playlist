@@ -4,7 +4,7 @@
 
 > Let the hum of calming white noise box fans lull you to sleep.
 
-146 songs - 6 hr 31 min
+148 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Cozy Fan Soundscape \(Remastered\)](https://open.spotify.com/track/2DT0EFEOhcZ2EAnraaFSC0) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Fan Noise](https://open.spotify.com/album/6xbIBXN9DVYNaqAYk1tCMH) | 2:11 | 2023-05-25 |  |
 | [Dark Room And Table Fan \(LP 3.8khz\)](https://open.spotify.com/track/7dzDAuMHoGJe3hoKfzEtEZ) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Fan Sounds Vol\. 1](https://open.spotify.com/album/0YEkPZ64ji8bJpu2ceIQce) | 2:47 | 2023-05-25 |  |
 | [Deep Fan \(Filtered 2.6khz\)](https://open.spotify.com/track/44u6XnWByFqGqHLXVuMc9b) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Fan Noise](https://open.spotify.com/album/6xbIBXN9DVYNaqAYk1tCMH) | 2:39 | 2023-05-25 | 2023-06-23 |
+| [Deep Fan Noise](https://open.spotify.com/track/6ial0i324STPhggnmVSn3q) | [Noise Station](https://open.spotify.com/artist/2NfMg903Rbr8UdXbjyGplm) | [Deep Fan Noise](https://open.spotify.com/album/2fNSjppZXYxTjCkRHuPhyE) | 2:32 | 2023-10-12 |  |
 | [Dream Breeze](https://open.spotify.com/track/48A4NSgozuyAKwfzGbsj8a) | [Lucid](https://open.spotify.com/artist/4PDgHpILxXUfE71E7bIU2j) | [Dream Breeze](https://open.spotify.com/album/5lw1wXg6rtUvi76mk154Yx) | 1:45 | 2023-05-25 | 2023-06-23 |
 | [Dreamland Box Fan](https://open.spotify.com/track/6bkdBG8UqI6U3PqJFEg3Qh) | [Noise Station](https://open.spotify.com/artist/2NfMg903Rbr8UdXbjyGplm) | [Dreamland Box Fan](https://open.spotify.com/album/41jdvOPoN4uos2km8WIB1J) | 2:43 | 2023-08-15 |  |
 | [Dreamy AC Fan Sounds](https://open.spotify.com/track/3KENWEphynpCgEnX3kXk6h) | [ASMR HOME](https://open.spotify.com/artist/5egbo4BefQDLFi0EvqDJyM) | [Bedroom Sleep Sounds](https://open.spotify.com/album/3ZdoATG0kV02f3EHvob9Cd) | 3:16 | 2023-05-25 |  |
@@ -134,6 +135,7 @@
 | [Soothing Box Fan for Sleep](https://open.spotify.com/track/6qURDzirLSBLoURUafSZCM) | [Emotional Support Fan](https://open.spotify.com/artist/6MmL3GAvpQHHIKryoi4eIf) | [Calm Restful Box Fan Sounds](https://open.spotify.com/album/5PnBXTlS3RMT2Ynjq6i4iC) | 3:48 | 2023-08-15 |  |
 | [Soothing Breeze](https://open.spotify.com/track/6jqdXdM6N8c2lbZ0B5kJ4C) | [Kali Sounds](https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c) | [Winds Of Sleep](https://open.spotify.com/album/20XsGyU1IpxYxCrdpycVq6) | 1:45 | 2023-05-25 | 2023-06-23 |
 | [Soothing Breeze](https://open.spotify.com/track/6vwiUroQYreMhtdkCokCtF) | [Synthetic Architect](https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5) | [Soothing Breeze](https://open.spotify.com/album/086kiBNrgLRYP7jh0WNBBO) | 3:00 | 2023-05-25 |  |
+| [Soothing Dream Fan](https://open.spotify.com/track/3eLAiLEczQ9fxsEUkOQUgU) | [WOS Project](https://open.spotify.com/artist/4R7xSJpwf9IsrGzUYNpyz0) | [Soothing Dream Fan](https://open.spotify.com/album/1kd4XfTbYocpowu4nclzu2) | 2:43 | 2023-10-12 |  |
 | [Soothing Fan](https://open.spotify.com/track/5HQ4kVXRn4UyPwc3NxgwDj) | [Home Sounds](https://open.spotify.com/artist/7wYCOLJRTwlaS5jgf9rCiI) | [Calming Fan Sounds](https://open.spotify.com/album/4n6bgMp0fNv2qfqeW6W3lL) | 2:48 | 2023-05-25 |  |
 | [Soothing Flowing Air Sounds](https://open.spotify.com/track/60isuZHIb24zg1QKPg2NNw) | [ASMR HOME](https://open.spotify.com/artist/5egbo4BefQDLFi0EvqDJyM) | [Bedroom Sleep Sounds](https://open.spotify.com/album/3ZdoATG0kV02f3EHvob9Cd) | 2:20 | 2023-05-25 |  |
 | [Soothing Panning Box Fan \- Seamless](https://open.spotify.com/track/2Jef9t38xnPQ2sH8AGM0HY) | [ASMR Doze](https://open.spotify.com/artist/2LQxmUm6LgVqKlTWuiFp2D) | [Fan Hypnosis](https://open.spotify.com/album/4O3JywlUAKSETN8w8CrcJf) | 1:42 | 2023-05-25 | 2023-06-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GEFzlZIU2F.md) - [plain]
 
 > ahhhhhhhhh
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,710 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,861 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GEFzlZIU2F.md) - [plain]
 | 30 | [The Rip](https://open.spotify.com/track/09IebwKbhmkTz8FW8pC0zE) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Waterslide, Diving Board, Ladder To The Sky](https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5) | 2:56 |
 | 31 | [MMMOOOAAAAAYAYA](https://open.spotify.com/track/5OEhwuwzSVnmeJdREOBqqk) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 3:04 |
 | 32 | [God Complex \(Mojo\)](https://open.spotify.com/track/1B3ouXA9iRkqY1ywvZbzZ5) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [God Complex \(Mojo\)](https://open.spotify.com/album/6muDFrXDsitHPkwyZXS6Xu) | 1:46 |
-| 33 | [Inbred](https://open.spotify.com/track/70emZ9kWXXAeVzexgkV17B) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob) | 4:47 |
+| 33 | [Inbred](https://open.spotify.com/track/5Y0grFq299FYNvq51ZtmbF) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5) | 4:47 |
 | 34 | [A Villain's Monologue](https://open.spotify.com/track/2Cn2uobw2l8SlCL7t3KZGM) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Praise Armageddonism](https://open.spotify.com/album/6Kxcx0ewz7d4QHs3T15lyb) | 3:27 |
 | 35 | [WIZZ](https://open.spotify.com/track/0Zo3dEV1BOVGF1DaW5aGq9) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [WIZZ](https://open.spotify.com/album/0RJGbSxAVBM1DAI320Ba8e) | 2:54 |
 | 36 | [SCREAM](https://open.spotify.com/track/0i7AGJG9DX0vI1w798IVKZ) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [潘PAN](https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 2:20 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GEFzlZIU2F.md) - [plain]
 | 54 | [Who's Got My Lighter?](https://open.spotify.com/track/3MJekXiIAzupvp8wQop8zL) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Who's Got My Lighter?](https://open.spotify.com/album/7fqONBEazCdEoUHby6uwlm) | 3:10 |
 | 55 | [The Cheek](https://open.spotify.com/track/7lvC3m1uYeK3DZj0yRAg1X) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [The Cheek](https://open.spotify.com/album/6MufAu0w7hndXQjLwbDuCW) | 3:43 |
 
-Snapshot ID: `MCxkYTI5NWQxNmEwN2ViMjlhYWJiMGNhNzg3MGMwMTYyMTlmZmI4OWNm`
+Snapshot ID: `MCxkMjY4OTVmZGZjOTBhNDk4NTdmNDA3NDZiZDg3YzVkNzFkM2E5ZGI4`

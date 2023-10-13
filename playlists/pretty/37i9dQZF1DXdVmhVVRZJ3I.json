@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. Foto: Breaking Beattz",
-  "num_followers": 279481,
+  "num_followers": 278368,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmQ0ZjQ3YWU3OWUwNjNhZWIyNGZkMjg3ZmNlZTg2YWVlNTkzMWI4",
+  "snapshot_id": "MCw4MzYzZDM5YWU2NTE0ZTIyZDFmMDEyMzJmOGExZjAyOWQxOWEwZjE1",
   "tracks": [
     {
       "added_at": "2023-10-06 03:03:00",
@@ -803,22 +803,18 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
-        "name": "One Million",
-        "url": "https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA"
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/2Vj09LbUtc9EJ3ZCjFkdMq"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "LOTTEN",
-          "url": "https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D"
+          "name": "PHARA\u00d8H",
+          "url": "https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f"
         }
       ],
-      "duration_ms": 187741,
-      "name": "One Million",
-      "url": "https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A"
+      "duration_ms": 158250,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/1CDAOBO6hvdfxr0zX0R2dw"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -871,6 +867,26 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
+        "name": "One Million",
+        "url": "https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "LOTTEN",
+          "url": "https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D"
+        }
+      ],
+      "duration_ms": 187741,
+      "name": "One Million",
+      "url": "https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
         "name": "TikTak",
         "url": "https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 173333,
       "name": "Esta Vida - VINNE Remix",
       "url": "https://open.spotify.com/track/3ClKsM5f06HfEpzNhmQeY0"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
-        "name": "Without Me",
-        "url": "https://open.spotify.com/album/2Vj09LbUtc9EJ3ZCjFkdMq"
-      },
-      "artists": [
-        {
-          "name": "PHARA\u00d8H",
-          "url": "https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/1CDAOBO6hvdfxr0zX0R2dw"
     },
     {
       "added_at": "2023-10-06 03:03:00",

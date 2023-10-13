@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Ovy On The Drums, Bad Gyal, y Ryan Castro
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,469 likes - 55 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,181 likes - 55 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [Alô Tranqueira \- Ao Vivo](https://open.spotify.com/track/4N4Jk8n24I4lkSUdzoS0n7) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas \(Ao Vivo\)](https://open.spotify.com/album/0tBnLmuDb9EtemunXfCMeD) | 2:50 |
 | 55 | [Mesma História](https://open.spotify.com/track/54FV2rMVwLusAVnzROB0c1) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [Vida Cara \(Deluxe\)](https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT) | 2:43 |
 
-Snapshot ID: `MCw0ZjUxOWI3MjhiN2MwZjRiNjdjNWU1ZTQ3NjI2OTczMjI4NWI5NWYx`
+Snapshot ID: `MCw0OTIxYmFlZmE2YWUzZDBjZmNiODk0YjFjNGU4NTQ5YTc1Y2UwM2Vk`

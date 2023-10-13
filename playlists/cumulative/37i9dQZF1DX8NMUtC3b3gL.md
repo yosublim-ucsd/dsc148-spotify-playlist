@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-445 songs - 17 hr 13 min
+447 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Commes Des Garcon](https://open.spotify.com/track/4IXqR1jOqmBSXKhwkYyjL6) | [Hit Ropes](https://open.spotify.com/artist/58z4Qnl7rsu6egD2pMMWcG) | [Day Trip](https://open.spotify.com/album/6MFyOBoHdsSY8npqKydG1a) | 4:11 | 2022-05-27 |  |
 | [Commuter](https://open.spotify.com/track/4Rf27qELU6XDQx8DtFHU4Q) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Commuter](https://open.spotify.com/album/73ddBbDKMzEiLWqA3VDXi0) | 2:00 | 2022-10-07 |  |
 | [Complicated](https://open.spotify.com/track/7kTRDpp1p3Yd2gX5kEOyaX) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Complicated](https://open.spotify.com/album/1oinxow7bxtoCfkATM8Hzo) | 2:37 | 2022-05-27 | 2022-07-15 |
+| [Con Bajo Fidelidad](https://open.spotify.com/track/0Ti4yQxF7IyyhK3rIT1cdw) | [The Fly Guy Five](https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8) | [Con Bajo Fidelidad](https://open.spotify.com/album/48DVavFPcUDBx8p5pN0YFg) | 2:10 | 2023-10-13 |  |
 | [Corcovado](https://open.spotify.com/track/0G3OyHyfU3o8z5s5nUMfHc) | [Low Tide](https://open.spotify.com/artist/689IfCNt84v8DehMFN4pQn) | [Corcovado](https://open.spotify.com/album/62u85DDDN44TQT9weHWCoL) | 1:48 | 2022-11-11 | 2023-08-04 |
 | [Counting Down The Days](https://open.spotify.com/track/3Uif1z4D6V3uGc3wEd3BqG) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Counting Down The Days](https://open.spotify.com/album/68IaSYMMo4W68rKwfbNc7q) | 2:11 | 2023-08-31 |  |
 | [counting sheep](https://open.spotify.com/track/3x2Y0A58sRnkx2PD9dcbCc) | [Zack Zhu](https://open.spotify.com/artist/6MRw1mgKzI22Yjlcu2Fzea) | [counting sheep](https://open.spotify.com/album/77vFl5Aox31AH8XroidWES) | 1:56 | 2022-10-14 |  |
@@ -198,7 +199,7 @@
 | [Jicaletas](https://open.spotify.com/track/5MWRFWaOxgVWATeQ8mboUf) | [Ganzo](https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8) | [Jicaletas](https://open.spotify.com/album/1vlrXuQimorkTexz3Q66AP) | 1:54 | 2023-03-24 | 2023-10-05 |
 | [Jola Shores](https://open.spotify.com/track/7CH6IpYZxgzaXS4WFiX1Pe) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB), [Tah.](https://open.spotify.com/artist/5tbllvHfDoHsDZuTnrs9Pb) | [Jola Shores](https://open.spotify.com/album/1V7JjwDM48Yhrg6I3w8ibL) | 2:25 | 2022-07-22 | 2022-10-14 |
 | [Just A Few Miles](https://open.spotify.com/track/3N5JOSqTmJoywIMqHngNZH) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Just A Few Miles](https://open.spotify.com/album/6snRVmsu7crJzrmKHZZazz) | 2:15 | 2022-09-23 | 2023-08-04 |
-| [kinda wonderful](https://open.spotify.com/track/2HYaWr21HZQrC8gDFSFsz8) | [white noizz](https://open.spotify.com/artist/7czhgMvOftvpTun7qxVPPr) | [kinda wonderful](https://open.spotify.com/album/6A87KiSCfWLGMwB1ezU0SU) | 2:09 | 2022-05-27 |  |
+| [kinda wonderful](https://open.spotify.com/track/2HYaWr21HZQrC8gDFSFsz8) | [white noizz](https://open.spotify.com/artist/7czhgMvOftvpTun7qxVPPr) | [kinda wonderful](https://open.spotify.com/album/6A87KiSCfWLGMwB1ezU0SU) | 2:09 | 2022-05-27 | 2023-10-13 |
 | [Kintsugi](https://open.spotify.com/track/5E3YYm8EmBn35w42VDj1fb) | [Third and Forever](https://open.spotify.com/artist/61ZLysh2sp3zFa23osGqBg) | [Third and Forever](https://open.spotify.com/album/07nMvYw3JrqK5832GuoFGD) | 2:20 | 2022-08-19 |  |
 | [Kitty Got Claws](https://open.spotify.com/track/4Pfh9UNVy3ok3CUbtHTip6) | [Beats On Cans](https://open.spotify.com/artist/2W6kwJ8wuKIw9JhUt1fofP) | [Kitty Got Claws](https://open.spotify.com/album/4zrNErMj3xEqBvQRPu30FR) | 1:59 | 2023-04-20 |  |
 | [laidback paradise](https://open.spotify.com/track/5vMQj2BQeVHxwnouYx2AfR) | [Rushee](https://open.spotify.com/artist/240eY7QFKitmqf9aiXwJQw) | [laidback paradise](https://open.spotify.com/album/6fGWUQo5V8HnrWppbPPYbe) | 3:21 | 2022-05-27 |  |
@@ -292,6 +293,7 @@
 | [Pizzazz](https://open.spotify.com/track/2uv5i2WtcA6TxsMO9YIQBR) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Pizzazz](https://open.spotify.com/album/5BfUFXf3jVHcDd48Tsk3Zv) | 2:16 | 2022-05-27 | 2022-09-03 |
 | [Piñas, hamaca y slide](https://open.spotify.com/track/61tXTWB7EODDhT5KVGE19v) | [TRANQUI.LO](https://open.spotify.com/artist/77SHIzYuzLKxBC7giec5Jg) | [Tranquilo](https://open.spotify.com/album/3Y65Ok9dgM9Wxqg4rG53j7) | 2:14 | 2023-06-06 | 2023-09-08 |
 | [PJ](https://open.spotify.com/track/4245bsYQ8B8h1AaKzqhU7k) | [The Daily Bred](https://open.spotify.com/artist/2XaBoUP4lRy6lSZHywlwiD) | [Old Soul](https://open.spotify.com/album/0qEPqDvXeRr5EW47YCeIqb) | 4:43 | 2022-05-27 | 2022-07-15 |
+| [Plateau](https://open.spotify.com/track/4RZYRduLIQnj8oSQRccjFg) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Plateau](https://open.spotify.com/album/45MhUJBtOsEFoM0QK5F2oH) | 2:25 | 2023-10-13 |  |
 | [play’n rewind](https://open.spotify.com/track/4mQok4Y3Dvma1vB8cEdzP3) | [Mint Tape](https://open.spotify.com/artist/35l6dl8unoLV3T6EjbO0hn) | [play’n rewind](https://open.spotify.com/album/0Vra4cB3PZ6sjKbr19BQGO) | 1:21 | 2022-05-27 | 2023-08-04 |
 | [Pleasure Management](https://open.spotify.com/track/3omD9V1ffkjV2YZJ5qs11A) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Pleasure Management](https://open.spotify.com/album/6DhW69NataNj5wX5W0q7hC) | 2:10 | 2023-04-20 |  |
 | [Plenty of Time](https://open.spotify.com/track/0MUOxmrEV161VT8NkZ6zuW) | [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH), [vlows](https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt) | [Plenty of Time](https://open.spotify.com/album/2Mdcw1bBD8SkE1xwwfd5e6) | 1:42 | 2023-08-03 |  |

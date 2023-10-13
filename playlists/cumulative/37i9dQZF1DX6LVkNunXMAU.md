@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Agus Vivo & Sónico Vivo
 
-267 songs - 14 hr 36 min
+268 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Azul](https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Azul](https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD) | 2:50 | 2023-08-11 |  |
 | [Bailar en la Cuerda Floja](https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Bailar en la Cuerda Floja](https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra) | 3:41 | 2023-06-09 |  |
 | [Barquinho](https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Barquinho](https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0) | 2:32 | 2022-08-26 |  |
-| [Besos Azules](https://open.spotify.com/track/5Npt3P0YTApm3Ck1fO7s0r) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [Besos Azules](https://open.spotify.com/album/7gk6rGyOAmw5QcxwVYvsbj) | 3:55 | 2023-06-23 |  |
+| [Besos Azules](https://open.spotify.com/track/5Npt3P0YTApm3Ck1fO7s0r) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [Besos Azules](https://open.spotify.com/album/7gk6rGyOAmw5QcxwVYvsbj) | 3:55 | 2023-06-23 | 2023-10-13 |
 | [Bolero](https://open.spotify.com/track/3yz96oTI0rHUaXruFziWBS) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lesbiandrama](https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR) | 4:03 | 2023-04-07 |  |
 | [Brillando](https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Brillando](https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6) | 4:31 | 2022-05-20 |  |
 | [Buen viaje](https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:07 | 2022-05-20 | 2022-07-16 |
@@ -130,6 +130,7 @@
 | [La Melancolía](https://open.spotify.com/track/0rYCv51RoAHWVxkISDgXyU) | [Perropájaro](https://open.spotify.com/artist/1GEPR0e1faYM4A0q6TugVT), [Santiago Adano](https://open.spotify.com/artist/39x4k2KdpPJQ2rrzRLht7Q), [Victoria Fernández](https://open.spotify.com/artist/0Plbanani9vlKgJH0XteYu), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [La Melancolía](https://open.spotify.com/album/43naFQmoz0bkCXJOfbxM5t) | 1:49 | 2023-07-14 |  |
 | [La Mochila del Mundo](https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Algo Tiene Que Cambiar](https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi) | 3:06 | 2023-05-19 | 2023-06-24 |
 | [La Poesia Intermitente](https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Tranki Town](https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk) | 3:53 | 2022-05-20 | 2023-04-15 |
+| [La razón](https://open.spotify.com/track/0qmmbCIDtqIo5UANUF7UhX) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [La razón](https://open.spotify.com/album/10rovyKmiXi763COyBP9oz) | 3:47 | 2023-10-06 |  |
 | [Las Risas Caen](https://open.spotify.com/track/3kVciV1r3KxJSmHI15LLJA) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [Estructuras Inestables](https://open.spotify.com/album/1THM2S2ulfKF94Iq03MyG8) | 3:27 | 2023-05-12 | 2023-06-11 |
 | [Lento](https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [\(un poco + de\) FE](https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ) | 3:24 | 2022-05-20 | 2022-07-16 |
 | [Lo Que Hicimos](https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Sónico Vivo](https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe) | [Lo Que Hicimos](https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh) | 2:37 | 2023-09-22 |  |

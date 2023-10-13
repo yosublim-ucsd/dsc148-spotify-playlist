@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Tino el Ping\u00fcino en portada. ",
-  "num_followers": 11517,
+  "num_followers": 11518,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2UwMTJlZTBjMDJmOTQyZWVjMmI4MDU4MzFiMmU3ZGM0ZjM2NDI0",
+  "snapshot_id": "MCw2MzBmYzEyMDA1ZTg0NTBmNTMzOGY1MjFjYjBhZjdjNDQ3ZjhiZTVh",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1055,18 +1055,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "antes que sea tarde",
-        "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
+        "name": "Desde Peque\u00f1o",
+        "url": "https://open.spotify.com/album/7KPHrskSaXSDD59ncpixpS"
       },
       "artists": [
         {
-          "name": "Dani Ribba",
-          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
         }
       ],
-      "duration_ms": 168778,
-      "name": "antes que sea tarde",
-      "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
+      "duration_ms": 219000,
+      "name": "Desde Peque\u00f1o",
+      "url": "https://open.spotify.com/track/7moKLf7wnziXF8bwMUuu5Y"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1099,42 +1103,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Desde Peque\u00f1o",
-        "url": "https://open.spotify.com/album/7KPHrskSaXSDD59ncpixpS"
+        "name": "antes que sea tarde",
+        "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
       },
       "artists": [
         {
-          "name": "Turek Hem",
-          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
-        },
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+          "name": "Dani Ribba",
+          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Desde Peque\u00f1o",
-      "url": "https://open.spotify.com/track/7moKLf7wnziXF8bwMUuu5Y"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Mexicanos Bravos",
-        "url": "https://open.spotify.com/album/16wHA51T97ptp4kIVLSPdW"
-      },
-      "artists": [
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        },
-        {
-          "name": "Someone Sm1",
-          "url": "https://open.spotify.com/artist/3WyJImKjA4PH3EXWIWBokJ"
-        }
-      ],
-      "duration_ms": 257491,
-      "name": "Corridos Prohibidos",
-      "url": "https://open.spotify.com/track/3MDF1F1duEFpI3zGj7lRMa"
+      "duration_ms": 168778,
+      "name": "antes que sea tarde",
+      "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1163,6 +1143,26 @@
       "duration_ms": 217894,
       "name": "Palabra de Honor",
       "url": "https://open.spotify.com/track/6YmZBTOhXdBBHySS9RlFo5"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Mexicanos Bravos",
+        "url": "https://open.spotify.com/album/16wHA51T97ptp4kIVLSPdW"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        },
+        {
+          "name": "Someone Sm1",
+          "url": "https://open.spotify.com/artist/3WyJImKjA4PH3EXWIWBokJ"
+        }
+      ],
+      "duration_ms": 257491,
+      "name": "Corridos Prohibidos",
+      "url": "https://open.spotify.com/track/3MDF1F1duEFpI3zGj7lRMa"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "CIEN SHOWS",
-        "url": "https://open.spotify.com/album/2dIdv3mfCNzMC139bjldaX"
-      },
-      "artists": [
-        {
-          "name": "ACRU",
-          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "CIEN SHOWS",
-      "url": "https://open.spotify.com/track/4EeKsQCjByEuwlQ71U3p2W"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Tranquilo",
         "url": "https://open.spotify.com/album/6YRiaULjOY1hjYBaEjQy8Y"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 227702,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/35K0LpLwLnV8XVlwMHu1yA"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "CIEN SHOWS",
+        "url": "https://open.spotify.com/album/2dIdv3mfCNzMC139bjldaX"
+      },
+      "artists": [
+        {
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "CIEN SHOWS",
+      "url": "https://open.spotify.com/track/4EeKsQCjByEuwlQ71U3p2W"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1351,6 +1351,30 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Cumbia Castrosa",
+        "url": "https://open.spotify.com/album/0ZlNlIgcLPYQZyiAJwAcwf"
+      },
+      "artists": [
+        {
+          "name": "Lil Wacho",
+          "url": "https://open.spotify.com/artist/5LSBA1VYe9Vvxute4ZCaZQ"
+        },
+        {
+          "name": "Chikano Jcr",
+          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
+        },
+        {
+          "name": "Maxo IR",
+          "url": "https://open.spotify.com/artist/0PXfNy7XDVO9w2YCHYedBo"
+        }
+      ],
+      "duration_ms": 212999,
+      "name": "Cumbia Castrosa",
+      "url": "https://open.spotify.com/track/4Z2RpX71Du8dQQxMTRYxKF"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "F\u00e9nix (Vol. 2)",
         "url": "https://open.spotify.com/album/6tFZvYlKvk5olYOsSwqiEv"
       },
@@ -1395,30 +1419,6 @@
       "duration_ms": 190000,
       "name": "El Ayer",
       "url": "https://open.spotify.com/track/3vxpy2vOzLtCjx82CoWte6"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Cumbia Castrosa",
-        "url": "https://open.spotify.com/album/0ZlNlIgcLPYQZyiAJwAcwf"
-      },
-      "artists": [
-        {
-          "name": "Lil Wacho",
-          "url": "https://open.spotify.com/artist/5LSBA1VYe9Vvxute4ZCaZQ"
-        },
-        {
-          "name": "Chikano Jcr",
-          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
-        },
-        {
-          "name": "Maxo IR",
-          "url": "https://open.spotify.com/artist/0PXfNy7XDVO9w2YCHYedBo"
-        }
-      ],
-      "duration_ms": 212999,
-      "name": "Cumbia Castrosa",
-      "url": "https://open.spotify.com/track/4Z2RpX71Du8dQQxMTRYxKF"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "El Orfanato",
-        "url": "https://open.spotify.com/album/7CtW9Y0W2Sxo8BX8GY5gxo"
-      },
-      "artists": [
-        {
-          "name": "Al2 El Aldeano",
-          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
-        }
-      ],
-      "duration_ms": 325107,
-      "name": "El Orfanato",
-      "url": "https://open.spotify.com/track/2qz8xEfDz2RARPMZdgk4FV"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Ese Culo",
         "url": "https://open.spotify.com/album/5Ovew8Idt4n8TpQQaZ9qey"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 188232,
       "name": "Booty Bang Bang",
       "url": "https://open.spotify.com/track/0u4oKIXxl0geFS2fuWiVXh"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "El Orfanato",
+        "url": "https://open.spotify.com/album/7CtW9Y0W2Sxo8BX8GY5gxo"
+      },
+      "artists": [
+        {
+          "name": "Al2 El Aldeano",
+          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
+        }
+      ],
+      "duration_ms": 325107,
+      "name": "El Orfanato",
+      "url": "https://open.spotify.com/track/2qz8xEfDz2RARPMZdgk4FV"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Pa Mis Loc@S",
+        "url": "https://open.spotify.com/album/2A7APHdcThRiDd6l5h27Pm"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        }
+      ],
+      "duration_ms": 181100,
+      "name": "Pa Mis Loc@S",
+      "url": "https://open.spotify.com/track/2xHFsQtP81f7mGfhw8Svjl"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Boombap",
         "url": "https://open.spotify.com/album/3DrFQ81DOctYiOHoVbvZJk"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 242823,
       "name": "Boombap",
       "url": "https://open.spotify.com/track/4rO6YPOCRk9jnEQYjMdsah"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Pa Mis Loc@S",
-        "url": "https://open.spotify.com/album/2A7APHdcThRiDd6l5h27Pm"
-      },
-      "artists": [
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        }
-      ],
-      "duration_ms": 181100,
-      "name": "Pa Mis Loc@S",
-      "url": "https://open.spotify.com/track/2xHFsQtP81f7mGfhw8Svjl"
     },
     {
       "added_at": "2023-10-06 06:00:00",

@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Tyla
 
-349 songs - 18 hr 7 min
+351 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Mamgobhozi](https://open.spotify.com/track/6bzWAiIR1YNGcnBeFYQBl5) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mamgobhozi](https://open.spotify.com/album/3stGihwj49yO2EJ6Ovl598) | 3:56 | 2023-03-16 | 2023-07-14 |
 | [Masala](https://open.spotify.com/track/01edOubcjFt0LAqJtwaG93) | [hummerhummer](https://open.spotify.com/artist/77MBNlDseOmqVvt840PCbZ), [Kash goodluck](https://open.spotify.com/artist/5VUdAGVfx1EPyVi5QvT9xa) | [The Prelude \(Gwanga Mujje\)](https://open.spotify.com/album/331rvKR8ffkyjMXt1oD52X) | 3:00 | 2022-07-18 | 2022-10-28 |
 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 | 2023-07-13 |  |
+| [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-12 |  |
 | [Mercy](https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Mercy](https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR) | 2:47 | 2022-07-18 | 2022-08-26 |
 | [Mercy](https://open.spotify.com/track/4NsFzoTE4XdXpnjETfQLMZ) | [Kwame Anthem](https://open.spotify.com/artist/43FZHTH6FsPw5jEXT9yJp9), [Aymix](https://open.spotify.com/artist/3KovTlzUIWFOB8yQ4xBILr) | [WORTH THE WAIT](https://open.spotify.com/album/64aXLGJFmgrjZuZIKGskJ2) | 3:06 | 2022-11-24 | 2023-09-01 |
 | [MERLOT](https://open.spotify.com/track/4mPW13e8qf7nCRIcEus6oK) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [MERLOT](https://open.spotify.com/album/1RRLb4HprP0YH3YNvmopB9) | 2:52 | 2022-09-05 | 2022-09-09 |
@@ -266,6 +267,7 @@
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2023-01-12 |  |
 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 | 2023-05-25 |  |
 | [SADEH](https://open.spotify.com/track/2ZoILnftCn6K3MVj1EhdpN) | [FendiAlone](https://open.spotify.com/artist/6SJTZ859a50PtoQ7C9wh8n), [Femi Jaye](https://open.spotify.com/artist/1sPoLDrEpjqiVca2lTWqVj) | [SADEH](https://open.spotify.com/album/7D3vGaepneZi0n8AP8HlN8) | 2:57 | 2022-07-18 | 2023-04-14 |
+| [Sarafina](https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Sarafina](https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe) | 3:10 | 2023-10-12 |  |
 | [Say You Bad \(Remix\)](https://open.spotify.com/track/7nMrhVzouCx2Igpdwzo0Ta) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Say You Bad \(Remix\)](https://open.spotify.com/album/1MSQFlNZ1UqxOk3WRIDxzQ) | 3:24 | 2022-07-18 | 2023-01-13 |
 | [Sekina](https://open.spotify.com/track/0456AjiOK782xxF4neLUwt) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [SEKINA](https://open.spotify.com/album/7ceAYwpCFKHOkIkUJLSVum) | 3:00 | 2022-08-25 | 2022-09-09 |
 | [Sempe](https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [ZaZa Vibes](https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD) | 2:51 | 2022-07-18 | 2022-08-19 |

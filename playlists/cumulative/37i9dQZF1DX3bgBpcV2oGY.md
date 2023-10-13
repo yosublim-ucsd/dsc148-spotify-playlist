@@ -4,7 +4,7 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-223 songs - 9 hr 23 min
+226 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Davinci](https://open.spotify.com/track/74xrzR2MKdzp7AT06enGvk) | [Novia Stella](https://open.spotify.com/artist/5FsD7fr9sKWu0x5XdJHrDA) | [Davinci](https://open.spotify.com/album/1vkIgRJj1wNbkmEyOl9aUa) | 2:07 | 2021-12-23 |  |
 | [Delft](https://open.spotify.com/track/0Wrotq5gGyWP5hgYZcrnF3) | [Victor Manu](https://open.spotify.com/artist/2faFzPAZ0UYeY6TlerQmGK) | [Shining Path](https://open.spotify.com/album/5gDgTrpRIVwJpRJHFo7O8u) | 2:29 | 2022-08-12 |  |
 | [der Wind kommt](https://open.spotify.com/track/2kqLJhzCDxLjYj1StxfYBa) | [Vandenberg](https://open.spotify.com/artist/5YCtylTmw5A39uy1jP36Wi) | [der Wind kommt](https://open.spotify.com/album/2IikqK8Vn05CkghcCCPruZ) | 2:04 | 2022-10-28 |  |
-| [Destino](https://open.spotify.com/track/2Yw5Xgku6dIBZDVpOLW0Dv) | [Xavier Suarez](https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE) | [Destino](https://open.spotify.com/album/1u2JiFBEIL5S4pPArH5df6) | 2:28 | 2023-03-10 |  |
+| [Der Zitronenbaum](https://open.spotify.com/track/5dUnoV5tSQQUvneGmiQ0gG) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Der Zitronenbaum](https://open.spotify.com/album/7hOfOjdJETRvyEVQPD0sKR) | 2:30 | 2023-10-13 |  |
+| [Destino](https://open.spotify.com/track/2Yw5Xgku6dIBZDVpOLW0Dv) | [Xavier Suarez](https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE) | [Destino](https://open.spotify.com/album/1u2JiFBEIL5S4pPArH5df6) | 2:28 | 2023-03-10 | 2023-10-13 |
 | [Dew on the Grass](https://open.spotify.com/track/2IuEgQkp8x3BT4h1LkaI3o) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Dew on the Grass](https://open.spotify.com/album/590ZPNzXpTIQw5Kt6JMy7b) | 3:12 | 2023-04-28 | 2023-08-25 |
 | [Distant Shore](https://open.spotify.com/track/358grkBo9B5eR7qlnmSIGv) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Distant Shore](https://open.spotify.com/album/2Vw8NgD0EVnt0k6SDtdHCY) | 2:27 | 2021-12-23 | 2022-03-02 |
 | [Doldrums](https://open.spotify.com/track/2OUZUGb2q6rDXtXfDYmTmG) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Doldrums](https://open.spotify.com/album/5K7l55YIhPjl3HoY1eYgHF) | 2:20 | 2021-12-23 |  |
@@ -93,6 +94,7 @@
 | [I Wanna Be Yours](https://open.spotify.com/track/6huxjr8XKFnhtXQD02LIJ7) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [I Wanna Be Yours](https://open.spotify.com/album/0wwXoEiDEyHMwS6etJwYbR) | 2:36 | 2023-02-24 | 2023-08-25 |
 | [Impermanence](https://open.spotify.com/track/0TzhOFlRohunMWFyBotAe7) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol.4](https://open.spotify.com/album/0cJUIhaY9bkUsCfVnWsH1W) | 3:13 | 2021-12-23 | 2023-04-28 |
 | [in den Bergen](https://open.spotify.com/track/4q2wB8Fkc6R6V03oksaiaI) | [Mikkel Adler](https://open.spotify.com/artist/5m5x5QR8woru1deGCXghUD) | [Batur](https://open.spotify.com/album/7cHyo7vC3GRSFJHgCWs4Gw) | 3:59 | 2021-12-23 |  |
+| [Into Your Arms](https://open.spotify.com/track/5d09XwfMeUBHzZ2ZBexX9k) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [Into Your Arms](https://open.spotify.com/album/4NVq00ICpY2IjkUAxLwoYK) | 2:34 | 2023-10-13 |  |
 | [Just One Step At A Time](https://open.spotify.com/track/7dtIQWNjGxG4s2JoWD0hVD) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Just One Step At A Time](https://open.spotify.com/album/49pNKyGqE0DIc9vF9XVjGp) | 4:08 | 2022-04-05 |  |
 | [Kebnekajse](https://open.spotify.com/track/1nSMfJWxhkrLIjYyMYiF13) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Kebnekajse](https://open.spotify.com/album/0S5GqtZdI51UY70oXqtPjZ) | 2:42 | 2021-12-23 | 2022-07-22 |
 | [Kulning](https://open.spotify.com/track/66hBtNKN7ofJ4tWy0kSqQ3) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Kulning](https://open.spotify.com/album/0FQQzyWWFlrWYil8EyTTQw) | 1:50 | 2021-12-23 | 2022-03-02 |
@@ -133,8 +135,9 @@
 | [Mainway Orchard](https://open.spotify.com/track/1rKEYO07UzuaGoVIuGNUVS) | [Faircamp](https://open.spotify.com/artist/1xxKCb2lrYVUmTL6EbD0Pu) | [Into the Wind](https://open.spotify.com/album/4qrpQBGCS95ekF7eEvZRue) | 2:33 | 2021-12-23 |  |
 | [May](https://open.spotify.com/track/0L8gLmibYY2SA7ZkH6B4dm) | [Jaume Torrent](https://open.spotify.com/artist/04QMH563wBsRiKHJCi0O24) | [Gradual](https://open.spotify.com/album/7dBooHM0Yp9xJTiDf81X7T) | 1:20 | 2022-07-29 | 2022-10-29 |
 | [Mayo](https://open.spotify.com/track/5Q5Dt6MsjoVz5lqnV8H93e) | [Jaume Torrent](https://open.spotify.com/artist/04QMH563wBsRiKHJCi0O24) | [Mayo](https://open.spotify.com/album/0XOMQ8PVzoWIUNcR6grxY7) | 1:20 | 2021-12-23 | 2022-07-29 |
+| [Meliora](https://open.spotify.com/track/5Rcadz15kuvonMLJ6Oc8OF) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [Meliora](https://open.spotify.com/album/0ez2YoSEOUJJOgHDlprSxR) | 2:21 | 2023-10-13 |  |
 | [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2021-12-23 | 2022-07-29 |
-| [Melrose](https://open.spotify.com/track/7o39DRcwrKMz17xUNc0BbN) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/4zoWw8eWOuWUUXaXoObfPa) | 2:04 | 2022-07-29 |  |
+| [Melrose](https://open.spotify.com/track/7o39DRcwrKMz17xUNc0BbN) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/4zoWw8eWOuWUUXaXoObfPa) | 2:04 | 2022-07-29 | 2023-10-13 |
 | [Mendoza](https://open.spotify.com/track/1tDp655UeKaHN3J23HHave) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Mendoza](https://open.spotify.com/album/2Bxw8YfgCBm91kJrRk8U8k) | 4:31 | 2021-12-23 |  |
 | [Midnight in Olivebridge](https://open.spotify.com/track/73CfMnErjqLOpi1hIDtU4v) | [Marcel Vasnov](https://open.spotify.com/artist/0J6aflTK3MQGQGQgIqg9j3) | [Copake Lake](https://open.spotify.com/album/7bmwJew61SQ04jqcX9qW5U) | 2:43 | 2021-12-23 |  |
 | [Millstätter See](https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Millstätter See](https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG) | 2:37 | 2023-03-31 | 2023-09-01 |

@@ -4,7 +4,7 @@
 
 > 
 
-243 songs - 11 hr 40 min
+244 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,12 +110,13 @@
 | [Jag Vill Ha En Slav](https://open.spotify.com/track/4xO1DQ3opSAtufO7oNP0C4) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj) | 2:32 | 2023-05-04 |  |
 | [Jag Vill Ha En Slav](https://open.spotify.com/track/6kviUfqwA8C6rbwP3fod1b) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6GvLNIV56ZJgbxU1E5THiH) | 2:32 | 2021-12-14 | 2023-04-30 |
 | [Jag Vill Ha En Slav](https://open.spotify.com/track/0P6UhoZknVBvw7jKzLuwtP) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ), [Ulke](https://open.spotify.com/artist/6KjoityQl9NkVhPZ8isDlw), [Per Granberg](https://open.spotify.com/artist/0TAfL2lQzxByP4TUCEhgVw), [Mongo](https://open.spotify.com/artist/2S2M3JoiDwZRKqD592x3oy), [Curre Sandgren](https://open.spotify.com/artist/48OCQMmwurPMuSxrS8eqBP), [Mart Hällgren](https://open.spotify.com/artist/3j9Yn1hzjWZThZ0Ohjvzjc) | [Krymplings](https://open.spotify.com/album/2l3gu0JPCyey6ztaXsdwvc) | 2:32 | 2021-12-14 | 2022-07-29 |
+| [Jane Doe, Östersund](https://open.spotify.com/track/4tzLVTf3Cw3hi2C6oINeQS) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Jane Doe, Östersund](https://open.spotify.com/album/3Se4PLem67i9Do45OPzWu0) | 3:09 | 2023-10-12 |  |
 | [Johanna](https://open.spotify.com/track/2ekTSYW68ShERRzsPBbRaF) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Pengar Har Inga Ögon](https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY) | 2:34 | 2021-12-14 |  |
 | [Kaos](https://open.spotify.com/track/3fuHnBzzEgUgNYlwt5FPuv) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/0oD3URB9nBxNSI6p79HE5m) | 2:16 | 2021-12-14 | 2022-07-25 |
 | [Kaos](https://open.spotify.com/track/7C5vwqLlWULrV4aaigbHKX) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/08RgYPSeJy5g9JBInnyLei) | 2:16 | 2021-12-14 | 2022-11-14 |
 | [Kollektivt självmord](https://open.spotify.com/track/3SYUN0J0uFPMNT0kRwqGjT) | [Civil Olydnad](https://open.spotify.com/artist/1Ec2RuosR3mXrq6Q6egvUK) | [Kollektivt självmord](https://open.spotify.com/album/4LlnSAm75vQ0hD1PSPLY6L) | 1:43 | 2021-12-14 | 2022-07-27 |
 | [Kom och dansa lite](https://open.spotify.com/track/3ojMPfMkEHaFdMu3C2Olh6) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Tjugo](https://open.spotify.com/album/2IeV0YcZsxVQ4VLnjL1h44) | 3:00 | 2021-12-14 | 2022-07-25 |
-| [Kom och dansa lite](https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alderland](https://open.spotify.com/album/4ucaMCI586k92aFtZvLRcG) | 3:00 | 2021-12-14 |  |
+| [Kom och dansa lite](https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alderland](https://open.spotify.com/album/4ucaMCI586k92aFtZvLRcG) | 3:00 | 2021-12-14 | 2023-10-13 |
 | [Konflikthantering 101](https://open.spotify.com/track/7hEbGhVukXSnkgd8xt5xFs) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Konflikthantering 101](https://open.spotify.com/album/7bBKMz9YfJhYIHyxxEdJa4) | 2:45 | 2023-03-30 | 2023-09-14 |
 | [Kroatiska Antirassedagen](https://open.spotify.com/track/67G9uMyw6crZQFmXyE8uDc) | [DÖDSÖGONBLICKET](https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU) | [Lördag kan bli farlig](https://open.spotify.com/album/7t5iA3DK0JCoZ1ZZaHQOJs) | 1:40 | 2021-12-14 | 2022-07-07 |
 | [Kungar Och Knektar](https://open.spotify.com/track/0Fz43y3wP1nHXHyjJuK9KM) | [Räserbajs](https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X) | [Fina Flickor](https://open.spotify.com/album/19uXwtRZrDLAWIsmhgarLo) | 2:23 | 2021-12-14 | 2022-07-23 |

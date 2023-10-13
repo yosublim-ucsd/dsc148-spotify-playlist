@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=TLX5ZGBwSIyxf6dogXOtyw\"> ODUMODUBLVCK </a> ",
+  "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu?si=oXMjjtl8S2qD3sYjI3-lHg\"> Ladipoe </a> ",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 169142,
       "name": "ABDZ",
       "url": "https://open.spotify.com/track/2OfFoA6XkrNEh446a0Fotc"
@@ -183,6 +183,32 @@
     },
     {
       "album": {
+        "name": "All My Life (Remixes)",
+        "url": "https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264179,
+      "name": "All My Life (Burna Boy Remix) - Burna Explicit Stereo",
+      "url": "https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq"
+    },
+    {
+      "album": {
         "name": "Amdallah",
         "url": "https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7"
       },
@@ -234,7 +260,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 190515,
       "name": "Angle 90 - Remix",
       "url": "https://open.spotify.com/track/38j2gL1Tk7gHDidrZRj899"
@@ -578,7 +604,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 229250,
       "name": "Barawo",
       "url": "https://open.spotify.com/track/2udaOpi8QzEKkiuwZoTcIa"
@@ -926,7 +952,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 198039,
       "name": "Breaking The Yoke Of Love",
       "url": "https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA"
@@ -3339,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "No Wam",
+        "url": "https://open.spotify.com/album/72EQ052XrPOGeHp1M7ruYE"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "No Wam",
+      "url": "https://open.spotify.com/track/2ZoMTHk3A1IiChH9h6BW5b"
+    },
+    {
+      "album": {
         "name": "Codename, Vol. 1",
         "url": "https://open.spotify.com/album/5xwIkodIxjHymcGMLQDhrI"
       },
@@ -3526,7 +3570,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
       "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
@@ -3544,7 +3588,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 189090,
       "name": "Omo Ologo",
       "url": "https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR"
@@ -3903,6 +3947,32 @@
     },
     {
       "album": {
+        "name": "Pop Sermon",
+        "url": "https://open.spotify.com/album/4sJRYRgfoFyQrI7qlDmnCb"
+      },
+      "artists": [
+        {
+          "name": "Dope Caesar",
+          "url": "https://open.spotify.com/artist/0EEbHnHvCvomjaPszMvJxL"
+        },
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149684,
+      "name": "Pop Sermon",
+      "url": "https://open.spotify.com/track/3jGkAgjo3IwwcCsuUptm0W"
+    },
+    {
+      "album": {
         "name": "Popping",
         "url": "https://open.spotify.com/album/0MDM5ibxDrVm0RKVy5nhoP"
       },
@@ -4080,7 +4150,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 207885,
       "name": "PULL UP",
       "url": "https://open.spotify.com/track/3seFszD60GPDuyVMmPs7LQ"
@@ -4388,6 +4458,24 @@
       "duration_ms": 166000,
       "name": "Shina Peters",
       "url": "https://open.spotify.com/track/0DxBucbIM0unAoubGFRl9J"
+    },
+    {
+      "album": {
+        "name": "SHUT IT DOWN",
+        "url": "https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "SHUT IT DOWN",
+      "url": "https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX"
     },
     {
       "album": {

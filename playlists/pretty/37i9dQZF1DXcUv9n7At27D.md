@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の秋に聴きたい日本のクラシックを集めました。cover: 小桜 ハル\(こざくら はる\)　 ©阿久井真／小学館／NHK・NEP・日本アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,123 likes - 48 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,240 likes - 48 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [G線上のアリア（無伴奏ヴァイオリン版）](https://open.spotify.com/track/3fXUgYuJJ6iNskUNfLTE8V) | [小川恭子](https://open.spotify.com/artist/22MNZFpm5ETAg33C7ZNodS), [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408) | [J.S.バッハ：G線上のアリア（無伴奏ヴァイオリン版）](https://open.spotify.com/album/5fJER6xaeHGZTQMXBzOxt9) | 5:05 |
+| 1 | [Air on the G String \(Version for Violin Solo\)](https://open.spotify.com/track/6ISMzJg3eW5RWMf3Irs6TU) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [小川恭子](https://open.spotify.com/artist/22MNZFpm5ETAg33C7ZNodS) | [Blue Orchestra \- Premium Classic](https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9) | 5:10 |
 | 2 | [Es](https://open.spotify.com/track/1aO78Al3o07IrUdeBy9HXm) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [opus](https://open.spotify.com/album/6U5D76Uw1oeRDSv11Zmjfl) | 2:17 |
 | 3 | [パッヘルベルのカノン \- beautiful sleep ver.](https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム～beautiful sleep～](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 3:21 |
 | 4 | [世俗カンタータ, BWV 208: ''羊は安らかに草をはみ''](https://open.spotify.com/track/6qhic2KXq2evfe8KkXJcCr) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [ペトリ](https://open.spotify.com/artist/0JrwYlS3dVi5GEbFxGstZa), [上原琢矢](https://open.spotify.com/artist/2fKXyRn7lLoGf97tId4b85) | [シャコンヌ](https://open.spotify.com/album/4AQeEq5RqXlDt9PoxXEiM7) | 4:51 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 47 | [トロイメライ](https://open.spotify.com/track/5YH6qLexMGY9pUNLrq3WBq) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Suguru Matsutani](https://open.spotify.com/artist/0cGtHLKfga7uvnXld79LK7) | [WORKS](https://open.spotify.com/album/0Ou5yZUCihKLoiy6zfwk2I) | 3:15 |
 | 48 | [献呈（シューマンの歌曲による） S.566](https://open.spotify.com/track/2BcoxFxJYKgNJ04OvcjIHa) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Miyuji Kaneko](https://open.spotify.com/artist/1P9zpzupo4lDtMYqC96WLE) | [リスト･リサイタル](https://open.spotify.com/album/5wW0Umm77TQjMihv2RUU8b) | 3:56 |
 
-Snapshot ID: `MCw3ZmFhMjAyZTE0MWNiYjY4MmRhOTM3N2ViNWY1NmY0OTJmNTk3NDA2`
+Snapshot ID: `MCw2ODY3ZjBmYTYwYzEwYmQ3YjU0YjIxN2Y0OWE5ZTFiMDJhNjExZjg4`

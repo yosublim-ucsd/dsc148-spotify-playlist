@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Coruja BC1",
-  "num_followers": 17358,
+  "num_followers": 17355,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjllYmFlMDNmYzY5OTJkMDI1OGVkZWVkNjVlMDc5M2QyZWU0NWVk",
+  "snapshot_id": "MCw2YjQyN2IwYzE5YjEyYjk3OTM2ZTdmNTI0YzVjZjg5ZWRmZjQzZjZk",
   "tracks": [
     {
       "added_at": "2023-10-06 03:03:00",
@@ -963,6 +963,26 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
+        "name": "Flora Matos Vs. Stereodubs",
+        "url": "https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        },
+        {
+          "name": "Stereodubs",
+          "url": "https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Esperar o Sol",
+      "url": "https://open.spotify.com/track/7sJ0VFD8RTibWzn8oBUhzW"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
         "name": "Sensa\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6PldTF2mMFrxvlb6YAFRD1"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 272004,
       "name": "Sensa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
-        "name": "Flora Matos Vs. Stereodubs",
-        "url": "https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        },
-        {
-          "name": "Stereodubs",
-          "url": "https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Esperar o Sol",
-      "url": "https://open.spotify.com/track/7sJ0VFD8RTibWzn8oBUhzW"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
-        "name": "Eletrocardiograma",
-        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 224272,
-      "name": "Bora Dan\u00e7ar",
-      "url": "https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
         "name": "Wallpaper",
         "url": "https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 398478,
       "name": "Poetas no Topo 1",
       "url": "https://open.spotify.com/track/0buQLT5lhSRs7wtunIeK8v"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
+        "name": "Eletrocardiograma",
+        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 224272,
+      "name": "Bora Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6"
     },
     {
       "added_at": "2023-10-06 03:03:00",

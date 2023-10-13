@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The home for heavy rockers. Cover: While She Sleeps",
+  "description": "The home for heavy rockers. Cover: WARGASM",
   "name": "The Pit",
   "tracks": [
     {
@@ -345,6 +345,28 @@
     },
     {
       "album": {
+        "name": "Below The Belt (feat. Set It Off)",
+        "url": "https://open.spotify.com/album/5PpGvWHxcI2ddJ94i3KTGj"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        },
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192054,
+      "name": "Below The Belt (feat. Set It Off)",
+      "url": "https://open.spotify.com/track/1kTWMMX7LjK8a2GnpKVRlM"
+    },
+    {
+      "album": {
         "name": "Better Way Out",
         "url": "https://open.spotify.com/album/1i1rVDmckHqPKFtxDrHM8d"
       },
@@ -615,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Cellar Door",
+        "url": "https://open.spotify.com/album/2On9UxYqSqp8hBwgiGS9F1"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283957,
+      "name": "Cellar Door",
+      "url": "https://open.spotify.com/track/0seYEimfvmRFTXxODTNcqb"
+    },
+    {
+      "album": {
         "name": "Take Me Back To Eden",
         "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
       },
@@ -698,7 +738,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 114351,
       "name": "Church Outfit",
       "url": "https://open.spotify.com/track/17MJ6FK12SJ5ElDgk2DYdY"
@@ -862,6 +902,24 @@
       "duration_ms": 410773,
       "name": "Darker Still",
       "url": "https://open.spotify.com/track/37O5phPvMfJZBIscgXlw4a"
+    },
+    {
+      "album": {
+        "name": "DArkSide",
+        "url": "https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164790,
+      "name": "DArkSide",
+      "url": "https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE"
     },
     {
       "album": {
@@ -1144,7 +1202,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 271076,
       "name": "Emotion Sickness",
       "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
@@ -2413,6 +2471,24 @@
     },
     {
       "album": {
+        "name": "Modern Love",
+        "url": "https://open.spotify.com/album/2EuA14LzLXFRWWFkSvBnU6"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208773,
+      "name": "Modern Love",
+      "url": "https://open.spotify.com/track/0c1TvU8YThmexkEfFUt9wV"
+    },
+    {
+      "album": {
         "name": "Moi?",
         "url": "https://open.spotify.com/album/1D7I309keimEed1m0PWKSn"
       },
@@ -2822,7 +2898,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 209696,
       "name": "Private Skool",
       "url": "https://open.spotify.com/track/07F0JkIN0DdgeZtrFj4Wmj"
@@ -3132,7 +3208,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 178486,
       "name": "Seventy Thorns (feat. Jonathan Davis)",
       "url": "https://open.spotify.com/track/7FJYbOf9jVlYFuM26PVjM1"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes!",
-  "num_followers": 19778,
+  "num_followers": 19794,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGZkOWQzNTZiMjEwMjA0MWFiMTA2NDEwMWM2MTVjYTRlMGE2YWQ0",
+  "snapshot_id": "MCxjMGYyMWNmN2Q4ZWZjZGNkYmY4OTQ2ZmFkMjNkZWMyZDA5MThhNTNj",
   "tracks": [
     {
       "added_at": "2023-05-24 22:54:50",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-05-24 22:54:50",
       "album": {
-        "name": "M\u00fasica de America",
-        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "Guadalajara",
-      "url": "https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx"
-    },
-    {
-      "added_at": "2023-05-24 22:54:50",
-      "album": {
         "name": "Canciones De Hotel",
         "url": "https://open.spotify.com/album/1s6NvhoX40Ob6g8C5E1C4v"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 306840,
       "name": "El Tiempo de Ti",
       "url": "https://open.spotify.com/track/4EJgy5Bmo6cxEiL1krzv07"
+    },
+    {
+      "added_at": "2023-05-24 22:54:50",
+      "album": {
+        "name": "M\u00fasica de America",
+        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 176906,
+      "name": "Guadalajara",
+      "url": "https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx"
     },
     {
       "added_at": "2023-05-24 22:54:50",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-05-24 22:54:50",
       "album": {
+        "name": "Fiesta Mexicana Con La Banda",
+        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 153520,
+      "name": "El alacr\u00e1n",
+      "url": "https://open.spotify.com/track/0CAVx6y8GAgMDzX9NCW0DI"
+    },
+    {
+      "added_at": "2023-05-24 22:54:50",
+      "album": {
         "name": "Baila para M\u00ed",
         "url": "https://open.spotify.com/album/3oPF99WsqhHc1CujeiGTrj"
       },
@@ -607,6 +623,22 @@
       "duration_ms": 217840,
       "name": "Ojitos Mentirosos",
       "url": "https://open.spotify.com/track/1e1xg1VPnD0XQ1tRLZDdOj"
+    },
+    {
+      "added_at": "2023-05-24 22:54:50",
+      "album": {
+        "name": "Me Puse Pedo",
+        "url": "https://open.spotify.com/album/5U5Qffh1u1LA7thN8NS5kx"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Me Puse Pedo",
+      "url": "https://open.spotify.com/track/3ixbxMZyybv4j4iLrwc7gx"
     },
     {
       "added_at": "2023-05-24 22:54:50",
@@ -631,38 +663,6 @@
       "duration_ms": 229977,
       "name": "Guadalajara",
       "url": "https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR"
-    },
-    {
-      "added_at": "2023-05-24 22:54:50",
-      "album": {
-        "name": "Me Puse Pedo",
-        "url": "https://open.spotify.com/album/5U5Qffh1u1LA7thN8NS5kx"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Me Puse Pedo",
-      "url": "https://open.spotify.com/track/3ixbxMZyybv4j4iLrwc7gx"
-    },
-    {
-      "added_at": "2023-05-24 22:54:50",
-      "album": {
-        "name": "Fiesta Mexicana Con La Banda",
-        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 153520,
-      "name": "El alacr\u00e1n",
-      "url": "https://open.spotify.com/track/0CAVx6y8GAgMDzX9NCW0DI"
     },
     {
       "added_at": "2023-05-24 22:54:50",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-24 22:54:50",
       "album": {
-        "name": "La reina de las bandas Vol. II",
-        "url": "https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 167120,
-      "name": "Le\u00f1a de pirul",
-      "url": "https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y"
-    },
-    {
-      "added_at": "2023-05-24 22:54:50",
-      "album": {
         "name": "Bah\u00eda Santiago",
         "url": "https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 260508,
       "name": "Globos",
       "url": "https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN"
+    },
+    {
+      "added_at": "2023-05-24 22:54:50",
+      "album": {
+        "name": "La reina de las bandas Vol. II",
+        "url": "https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 167120,
+      "name": "Le\u00f1a de pirul",
+      "url": "https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y"
     },
     {
       "added_at": "2023-05-24 22:54:50",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-05-24 22:54:50",
       "album": {
+        "name": "Sentimientos",
+        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "Un indio quiere llorar",
+      "url": "https://open.spotify.com/track/2EiI77Zus1qAINPOxFTcyK"
+    },
+    {
+      "added_at": "2023-05-24 22:54:50",
+      "album": {
         "name": "Globoscopio",
         "url": "https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 167544,
       "name": "Eva Mar\u00eda",
       "url": "https://open.spotify.com/track/45iHQJmGDY9RRHb4EXDySF"
-    },
-    {
-      "added_at": "2023-05-24 22:54:50",
-      "album": {
-        "name": "La Invasion De Los Blatidos",
-        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
-      },
-      "artists": [
-        {
-          "name": "Cuca",
-          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Cara de Pizza",
-      "url": "https://open.spotify.com/track/3XOAOvlRTo3vConiAvUm29"
     }
   ],
   "unique_name": "Coraz\u00f3n Tapat\u00edo",

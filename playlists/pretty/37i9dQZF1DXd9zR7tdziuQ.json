@@ -1,12 +1,12 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 899335,
+  "num_followers": 899623,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjM0N2RhYTZiNWQ0MTNiZDM5NDEyNzNiNmM5ZGJlZmFiZWE2NmE1",
+  "snapshot_id": "MCw5ZDg4MTVlNDgxN2I1NDBlNTc1ZWY5NTgzZDQyZGMzYTQ0YTIzYTU4",
   "tracks": [
     {
       "added_at": "2023-06-27 12:12:43",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Perfect (Acoustic)",
-        "url": "https://open.spotify.com/album/4uJ318DIOMiA4y9vg2dRwv"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "Perfect - Acoustic",
-      "url": "https://open.spotify.com/track/5T6bJp3XgwT0IaCfKMxmAu"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "You Are My Sunshine",
         "url": "https://open.spotify.com/album/5ueNN8xbGK6BMFnLjeiXUM"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 157868,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "Perfect (Acoustic)",
+        "url": "https://open.spotify.com/album/4uJ318DIOMiA4y9vg2dRwv"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "Perfect - Acoustic",
+      "url": "https://open.spotify.com/track/5T6bJp3XgwT0IaCfKMxmAu"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Shape of You (Acoustic)",
-        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
+        "name": "Songs From Final Fantasy XV",
+        "url": "https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 223573,
-      "name": "Shape of You - Acoustic",
-      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
+      "duration_ms": 245780,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -299,22 +299,6 @@
       "duration_ms": 236786,
       "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
       "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
-        "name": "Songs From Final Fantasy XV",
-        "url": "https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 245780,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -355,6 +339,22 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
+        "name": "Shape of You (Acoustic)",
+        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "Shape of You - Acoustic",
+      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
         "name": "Issues (Acoustic)",
         "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
       },
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 177214,
-      "name": "Baby One More Time - Recorded at Spotify Studios New York City",
-      "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "The Covers, Vol. 4",
         "url": "https://open.spotify.com/album/5U6Wjpe4mJO3TofaM9CzFz"
       },
@@ -419,22 +403,6 @@
       "duration_ms": 233377,
       "name": "Set Fire to the Rain - Cover",
       "url": "https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 285866,
-      "name": "Let It Go - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/4tYokojnBEp5pBWO7wTRPA"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -455,6 +423,22 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 285866,
+      "name": "Let It Go - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/4tYokojnBEp5pBWO7wTRPA"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
         "name": "Naked (Acoustic Version)",
         "url": "https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 230440,
       "name": "Naked - Acoustic Version",
       "url": "https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 177214,
+      "name": "Baby One More Time - Recorded at Spotify Studios New York City",
+      "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Who You Are (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "Price Tag - Acoustic Version",
-      "url": "https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "AOL Sessions",
         "url": "https://open.spotify.com/album/0lgo7LuUdOfAchJC6KevkH"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 181133,
       "name": "Kiss Me - AOL Sessions Acoustic Version",
       "url": "https://open.spotify.com/track/79z7dHVpP3ODaat0CK29db"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "Who You Are (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "Price Tag - Acoustic Version",
+      "url": "https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "All the Lost Souls",
-        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "1973 - Acoustic",
-      "url": "https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 168266,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "All the Lost Souls",
+        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "1973 - Acoustic",
+      "url": "https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "The Village Sessions",
-        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Slow Dancing in a Burning Room - Acoustic",
-      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "#Acoustic",
         "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
       },
@@ -855,22 +839,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "IDGAF (Remixes II)",
-        "url": "https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217785,
-      "name": "IDGAF - Acoustic",
-      "url": "https://open.spotify.com/track/5ZMb1d14RLl5NHAgZIwVHc"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
       },
@@ -883,6 +851,38 @@
       "duration_ms": 194129,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "The Village Sessions",
+        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Slow Dancing in a Burning Room - Acoustic",
+      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "IDGAF (Remixes II)",
+        "url": "https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 217785,
+      "name": "IDGAF - Acoustic",
+      "url": "https://open.spotify.com/track/5ZMb1d14RLl5NHAgZIwVHc"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "If I Ain't Got You EP",
-        "url": "https://open.spotify.com/album/1gAM7M4rBwEbSPeAQR2nx1"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 231653,
-      "name": "If I Ain't Got You - Piano & Vocal Version",
-      "url": "https://open.spotify.com/track/3VdLjuOdBfFHQ2TTCY7zKw"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "Crazy in Love",
         "url": "https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk"
       },
@@ -983,22 +967,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 165697,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "Girls Just Wanna Have Fun",
         "url": "https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY"
       },
@@ -1011,6 +979,38 @@
       "duration_ms": 172992,
       "name": "Girls Just Wanna Have Fun - Acoustic",
       "url": "https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "If I Ain't Got You EP",
+        "url": "https://open.spotify.com/album/1gAM7M4rBwEbSPeAQR2nx1"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "If I Ain't Got You - Piano & Vocal Version",
+      "url": "https://open.spotify.com/track/3VdLjuOdBfFHQ2TTCY7zKw"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "#Acoustic #2",
-        "url": "https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO"
+        "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
+        "url": "https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66"
       },
       "artists": [
         {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+          "name": "Megan Davies",
+          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
+        },
+        {
+          "name": "Keelan Donovan",
+          "url": "https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Heaven Is a Place on Earth",
-      "url": "https://open.spotify.com/track/674WNL7f5Xo8XxtipzB3ao"
+      "duration_ms": 231013,
+      "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
+      "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -1115,22 +1119,18 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
-        "url": "https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66"
+        "name": "#Acoustic #2",
+        "url": "https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO"
       },
       "artists": [
         {
-          "name": "Megan Davies",
-          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
-        },
-        {
-          "name": "Keelan Donovan",
-          "url": "https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7"
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
         }
       ],
-      "duration_ms": 231013,
-      "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
-      "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
+      "duration_ms": 193333,
+      "name": "Heaven Is a Place on Earth",
+      "url": "https://open.spotify.com/track/674WNL7f5Xo8XxtipzB3ao"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "New Rules (Acoustic)",
-        "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 213436,
-      "name": "New Rules - Acoustic",
-      "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 173680,
       "name": "Mad World - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "New Rules (Acoustic)",
+        "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 213436,
+      "name": "New Rules - Acoustic",
+      "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
+        "name": "Youtube Sessions",
+        "url": "https://open.spotify.com/album/3bGwqoEhtRavXVdMN9YEpJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Cornell",
+          "url": "https://open.spotify.com/artist/2zVCLRV59G7nPOoKxj4xyY"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "Sex On Fire",
+      "url": "https://open.spotify.com/track/1ZXSLHLp5AJnCp12UXdYiO"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/51FVeMKotCRXxe2BKfTVTT"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 178319,
       "name": "Umbrella - Acoustic Version",
       "url": "https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
-        "name": "Youtube Sessions",
-        "url": "https://open.spotify.com/album/3bGwqoEhtRavXVdMN9YEpJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Cornell",
-          "url": "https://open.spotify.com/artist/2zVCLRV59G7nPOoKxj4xyY"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "Sex On Fire",
-      "url": "https://open.spotify.com/track/1ZXSLHLp5AJnCp12UXdYiO"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 280827,
-      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "Creep",
         "url": "https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 277894,
       "name": "Creep",
       "url": "https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 280827,
+      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "#Acoustic",
         "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 183472,
       "name": "Don't Wanna Know - Acoustic Version",
       "url": "https://open.spotify.com/track/4fHJwyR7JILiSAbLyXcrKx"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Brown",
+          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Brandy (You're a Fine Girl)",
-        "url": "https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy"
-      },
-      "artists": [
-        {
-          "name": "Catey Shaw",
-          "url": "https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI"
-        }
-      ],
-      "duration_ms": 208198,
-      "name": "Brandy (You're a Fine Girl)",
-      "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "I'm the One (Acoustic)",
         "url": "https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 233488,
       "name": "I'm the One - Acoustic",
       "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "Brandy (You're a Fine Girl)",
+        "url": "https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy"
+      },
+      "artists": [
+        {
+          "name": "Catey Shaw",
+          "url": "https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI"
+        }
+      ],
+      "duration_ms": 208198,
+      "name": "Brandy (You're a Fine Girl)",
+      "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Pretty Girl (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk"
-      },
-      "artists": [
-        {
-          "name": "Becca Adams",
-          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
-        }
-      ],
-      "duration_ms": 180828,
-      "name": "Pretty Girl - Acoustic Version",
-      "url": "https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "Send My Love (To Your New Lover) [Live]",
         "url": "https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 225033,
       "name": "Send My Love (To Your New Lover) - Live",
       "url": "https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "Pretty Girl (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk"
+      },
+      "artists": [
+        {
+          "name": "Becca Adams",
+          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
+        }
+      ],
+      "duration_ms": 180828,
+      "name": "Pretty Girl - Acoustic Version",
+      "url": "https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Tree",
-        "url": "https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA"
-      },
-      "artists": [
-        {
-          "name": "Anna Elizabeth Laube",
-          "url": "https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7tIOWu8jlPjnzDIGmDrjSY"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 178202,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3SHg4VamqiJkGSU5o4zEaD"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA"
+      },
+      "artists": [
+        {
+          "name": "Anna Elizabeth Laube",
+          "url": "https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
+        "name": "Think Before I Talk (Acoustic)",
+        "url": "https://open.spotify.com/album/4xBuuPBwFuPxv8sZNMqeVT"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Think Before I Talk - Acoustic",
+      "url": "https://open.spotify.com/track/0xr4LgYImMBZL3lnniYzHv"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/0yCicHSIShiIcJLkpyxKIC"
       },
@@ -2055,38 +2071,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Think Before I Talk (Acoustic)",
-        "url": "https://open.spotify.com/album/4xBuuPBwFuPxv8sZNMqeVT"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Think Before I Talk - Acoustic",
-      "url": "https://open.spotify.com/track/0xr4LgYImMBZL3lnniYzHv"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
-        "name": "Lift Your Spirit",
-        "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "Wake Me Up - Acoustic",
-      "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "I Can't Make You Love Me / Immigrant Song",
         "url": "https://open.spotify.com/album/6zYzeVQ573REqkd2sqodBv"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 291046,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/6ZDGNoguJ64rxp0dfm60y0"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "Hello (Adele Cover)",
+        "url": "https://open.spotify.com/album/0A6U4HudXB9ZDv3y1Y44qW"
+      },
+      "artists": [
+        {
+          "name": "Erato",
+          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
+        }
+      ],
+      "duration_ms": 230225,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -2119,18 +2119,18 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Hello (Adele Cover)",
-        "url": "https://open.spotify.com/album/0A6U4HudXB9ZDv3y1Y44qW"
+        "name": "Lift Your Spirit",
+        "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
       },
       "artists": [
         {
-          "name": "Erato",
-          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
         }
       ],
-      "duration_ms": 230225,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX"
+      "duration_ms": 225106,
+      "name": "Wake Me Up - Acoustic",
+      "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
     },
     {
       "added_at": "2023-06-27 12:12:43",

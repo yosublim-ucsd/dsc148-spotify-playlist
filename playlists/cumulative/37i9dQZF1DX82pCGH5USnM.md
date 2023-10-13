@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-740 songs - 1 day 18 hr 6 min
+742 songs - 1 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Heads Up](https://open.spotify.com/track/2FTO3XZkp89p0CgbGYzwZf) | [Ori Kul](https://open.spotify.com/artist/5z8cjgepcL6KMXRzOJXVf5) | [Heads Up](https://open.spotify.com/album/0GBz9hb37EU9qvSJirMXm9) | 2:24 | 2021-08-20 |  |
 | [Heart Mending](https://open.spotify.com/track/1VCfBGr1b6Jw4qojj6ka1b) | [Lonov](https://open.spotify.com/artist/3i78jXbtRy4krrgXqMxeVv) | [Rooftops](https://open.spotify.com/album/56PAoGMrDmfqE4Iiwa6VB4) | 5:17 | 2020-04-03\* | 2021-01-05 |
 | [Heart On Fire](https://open.spotify.com/track/2v1GOkolx37zgMzwNBf9FG) | [Ingbrit](https://open.spotify.com/artist/1oqi1KuDH3koFICALPltAS) | [Heart On Fire](https://open.spotify.com/album/2J5jKANI4Taz8H9N5qKTuN) | 2:28 | 2021-02-19 | 2021-08-20 |
+| [Heavy Wish](https://open.spotify.com/track/3yZ9HqGcPmJElydRYDPdNY) | [9Fivey](https://open.spotify.com/artist/5U5RKfPTGsbCTyLTnaUHXU) | [Heavy Wish](https://open.spotify.com/album/1pY9mh46YEBv5hAUYnozJa) | 2:10 | 2023-10-13 |  |
 | [Hey Love](https://open.spotify.com/track/1AfZ66laB3o8sgaNnWcuPI) | [Larry Poppinz](https://open.spotify.com/artist/16CYOuSOMLdhvKDWr5f65A) | [Hey Love / Precarious](https://open.spotify.com/album/6GjkILNGTM5zt1Ks0MoDfT) | 3:35 | 2022-11-25 |  |
 | [Highlands](https://open.spotify.com/track/1jmSozSHBSDo3MzHdUVpWt) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Highlands](https://open.spotify.com/album/6k8jzUy9YBR5dw6yyexbqA) | 2:02 | 2023-02-17 |  |
 | [Hold On](https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Hold On](https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x) | 2:32 | 2021-10-06 | 2022-07-01 |
@@ -492,6 +493,7 @@
 | [Piece Of Me](https://open.spotify.com/track/5AacqlxHPjBA5amhrkkdRR) | [Jorja X](https://open.spotify.com/artist/75eRLowc6cNPJmalbZoU6H) | [Piece Of Me](https://open.spotify.com/album/5egWJ1LnfvrNX3zBwyz28a) | 2:16 | 2021-03-06 | 2021-06-02 |
 | [Pigments](https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R) | [Norabel](https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo) | [Blue Pigments](https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk) | 2:10 | 2020-04-03\* | 2021-03-25 |
 | [Pineapple Breeze](https://open.spotify.com/track/3t7rGBmECt4uBZqTSRwZxf) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Pineapple Breeze](https://open.spotify.com/album/3KZtic9CCbmUqJJ6dwzcw9) | 3:19 | 2022-11-25 |  |
+| [Pink Lotus](https://open.spotify.com/track/44wGeD6iWx6thvgrmlytzi) | [Lui](https://open.spotify.com/artist/3gtCKCi0Er4NlFhSb9rS1c) | [Pink Lotus](https://open.spotify.com/album/7fE6IzA6VWYpYiDXma3FrF) | 3:00 | 2023-10-13 |  |
 | [Pink Sunrise](https://open.spotify.com/track/3sb8zAlAM6QM5VCvC8wOdx) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [Pink Sunrise](https://open.spotify.com/album/5n716W7AzwaDWbQ4xuDntq) | 3:31 | 2020-12-02 | 2020-12-16 |
 | [Places](https://open.spotify.com/track/4bLzsR8A1cPUa2PCEebehR) | [MAXM2](https://open.spotify.com/artist/5H0WR0bBJr7k7UAanv28if) | [Places](https://open.spotify.com/album/3OkEuRKfQCYP7Kpko3ZWjk) | 2:21 | 2022-10-14 |  |
 | [Planet Erf](https://open.spotify.com/track/23PvmwEGxm8ENvPcFaaUCC) | [Young Community](https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR) | [Pinkland](https://open.spotify.com/album/2uEEJf58UChxAoZWm7YGat) | 5:42 | 2022-04-15 | 2023-06-03 |

@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 147000,
       "name": "Cup of Dreams",
       "url": "https://open.spotify.com/track/1q5xsiYpj7qXpvoa6tLz5A"
@@ -3353,6 +3353,24 @@
     },
     {
       "album": {
+        "name": "in wriring",
+        "url": "https://open.spotify.com/album/1YPiwsGnuaAyfqM93A6Fce"
+      },
+      "artists": [
+        {
+          "name": "pemil",
+          "url": "https://open.spotify.com/artist/3b2vVfB2bA0PXXwlbNA7hg"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "in writing",
+      "url": "https://open.spotify.com/track/5hoFX6v9C65g919yd99QHn"
+    },
+    {
+      "album": {
         "name": "Into the Night",
         "url": "https://open.spotify.com/album/0WtsqKU0xd0pGneYY57SYT"
       },
@@ -4840,7 +4858,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 160054,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/03R7TPNChFDktLOnDfbB6P"
@@ -4978,6 +4996,24 @@
       "duration_ms": 154000,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/0FRgXeGLC5k0kOqEpnBUWn"
+    },
+    {
+      "album": {
+        "name": "Orchard Swing",
+        "url": "https://open.spotify.com/album/1BxFSpxIcTFYqaEdYthEc0"
+      },
+      "artists": [
+        {
+          "name": "luzzy fogic",
+          "url": "https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "Orchard Swing",
+      "url": "https://open.spotify.com/track/70UrlQAcz7mXvcwI2HoQ9Z"
     },
     {
       "album": {
@@ -5162,7 +5198,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 118221,
       "name": "Pathways",
       "url": "https://open.spotify.com/track/7Bha2btgoPHzSwWwyzcTI8"
@@ -5376,7 +5412,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 93333,
       "name": "Play Together",
       "url": "https://open.spotify.com/track/7Ba2ryZDgx2FFaViRmtqP1"
@@ -8036,7 +8072,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 142686,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/1grYJu7GMZMXIGIAir2Evd"

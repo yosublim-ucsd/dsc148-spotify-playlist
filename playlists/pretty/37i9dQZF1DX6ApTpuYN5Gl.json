@@ -1,12 +1,12 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 53529,
+  "num_followers": 53678,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGE4NzVjODg5ZTZhNzU5MmQ3N2Y4ODkwMjQwYTg4OGQ4Y2JkYWUx",
+  "snapshot_id": "MCxiNjBhOTkzZTAzNjVjNzBjZjg1MzNlMDNmY2JkZmE5Y2IzOWNkOGIy",
   "tracks": [
     {
       "added_at": "2023-09-29 08:49:10",
@@ -171,26 +171,6 @@
     {
       "added_at": "2023-09-29 08:49:10",
       "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
-    },
-    {
-      "added_at": "2023-09-29 08:49:10",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/3oVQAqfrzIg4S5pF74au4x"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 134400,
       "name": "Echo",
       "url": "https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj"
+    },
+    {
+      "added_at": "2023-09-29 08:49:10",
+      "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 358983,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
       "added_at": "2023-09-29 08:49:10",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-09-29 08:49:10",
       "album": {
-        "name": "Dancing Thing",
-        "url": "https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr"
-      },
-      "artists": [
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        }
-      ],
-      "duration_ms": 184045,
-      "name": "Dancing Thing",
-      "url": "https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP"
-    },
-    {
-      "added_at": "2023-09-29 08:49:10",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/4pDIOPC2fdiaPJFlyTBJmE"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 136097,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/55Qwa5Sfzx4ab7Q2MBhgas"
+    },
+    {
+      "added_at": "2023-09-29 08:49:10",
+      "album": {
+        "name": "Dancing Thing",
+        "url": "https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        }
+      ],
+      "duration_ms": 184045,
+      "name": "Dancing Thing",
+      "url": "https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP"
     },
     {
       "added_at": "2023-09-29 08:49:10",
@@ -595,26 +595,6 @@
     {
       "added_at": "2023-09-29 08:49:10",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "Sam Welch",
-          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T"
-    },
-    {
-      "added_at": "2023-09-29 08:49:10",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 197388,
       "name": "Alive",
       "url": "https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8"
+    },
+    {
+      "added_at": "2023-09-29 08:49:10",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T"
     },
     {
       "added_at": "2023-09-29 08:49:10",
@@ -715,26 +715,6 @@
     {
       "added_at": "2023-09-29 08:49:10",
       "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ"
-      },
-      "artists": [
-        {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
-          "name": "SHELLS",
-          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
-        }
-      ],
-      "duration_ms": 192896,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy"
-    },
-    {
-      "added_at": "2023-09-29 08:49:10",
-      "album": {
         "name": "Love Will Tear Us Apart (Tensnake Remix)",
         "url": "https://open.spotify.com/album/1rp9zBathyKcYfnh34hunq"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 220776,
       "name": "Love Will Tear Us Apart - Tensnake Remix",
       "url": "https://open.spotify.com/track/51NcW3cfbdI0FLsD8dgXAq"
+    },
+    {
+      "added_at": "2023-09-29 08:49:10",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ"
+      },
+      "artists": [
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "duration_ms": 192896,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy"
     },
     {
       "added_at": "2023-09-29 08:49:10",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-09-29 08:49:10",
       "album": {
-        "name": "Love Like We're Dying",
-        "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
-      },
-      "artists": [
-        {
-          "name": "Scorz",
-          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        }
-      ],
-      "duration_ms": 183876,
-      "name": "Love Like We're Dying",
-      "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
-    },
-    {
-      "added_at": "2023-09-29 08:49:10",
-      "album": {
         "name": "Alone Together",
         "url": "https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 199906,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS"
+    },
+    {
+      "added_at": "2023-09-29 08:49:10",
+      "album": {
+        "name": "Love Like We're Dying",
+        "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
+      },
+      "artists": [
+        {
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "duration_ms": 183876,
+      "name": "Love Like We're Dying",
+      "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
     },
     {
       "added_at": "2023-09-29 08:49:10",

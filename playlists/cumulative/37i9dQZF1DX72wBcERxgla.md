@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-409 songs - 21 hr 34 min
+413 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [February Brings The Rain](https://open.spotify.com/track/4gR8q8utqVSpwz5Vv8gMys) | [Mill Basin](https://open.spotify.com/artist/2JJLo6OchMfh5VgpVZmVTw) | [February Brings The Rain](https://open.spotify.com/album/2EEMlPkIAUOtxLs4ADIW3w) | 2:47 | 2023-04-13 |  |
 | [Figured Out](https://open.spotify.com/track/03xzKObUNNpLWE4VhYkgOV) | [Jimmy Udonis](https://open.spotify.com/artist/4GqHV4WkSR2W6K3llEOf4X) | [Figured Out](https://open.spotify.com/album/2YYkG47uGuKWyhcUW6VclR) | 3:04 | 2023-08-31 |  |
 | [Fine And Dandy](https://open.spotify.com/track/4RunbgDCYZnbNRrjVkioGK) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Fine And Dandy](https://open.spotify.com/album/0UEOR08g3eEEDoI4v6UJjY) | 2:07 | 2023-05-11 |  |
+| [First Steps](https://open.spotify.com/track/38bC7Ca64SP0ea8bqBXpGT) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [First Steps](https://open.spotify.com/album/4ZsRYhlJzvIpSNucb51GvA) | 3:20 | 2023-10-13 |  |
 | [Flaming Katy](https://open.spotify.com/track/4QX3pL1js2TmgU0TmkHbV5) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [Flaming Katy](https://open.spotify.com/album/3mlH54JsUWAjDCqUf2us5J) | 3:21 | 2023-09-22 |  |
 | [Flowers In Your Hair](https://open.spotify.com/track/6HuOt4gKn3RL8WuvGjjpcq) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Flowers In Your Hair](https://open.spotify.com/album/4QpiWdylsl910WJGVIBRku) | 2:24 | 2022-04-12 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Fly Me To The Moon](https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2) | 2:31 | 2022-12-01 | 2023-09-08 |
@@ -214,6 +215,7 @@
 | [Lovely Dinner](https://open.spotify.com/track/16gVqGtZqBaWI4PYZg04vx) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Breath of Whiskey](https://open.spotify.com/album/2mdwIIjzYqAW10F2eHk7s9) | 2:56 | 2023-08-10 |  |
 | [Lover Man](https://open.spotify.com/track/57fzmVpvr8OGQ3BkfqUexq) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Steve Kuhn: Mostly Ballads](https://open.spotify.com/album/2xVes2Z1pyjUToAH1xFWdY) | 4:10 | 2022-04-12 | 2022-06-01 |
 | [Lovers](https://open.spotify.com/track/6flWLUPwiaN9FkPm6CVzZz) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Lovers](https://open.spotify.com/album/0ohI92MObxRxyDbafFA0oS) | 2:27 | 2022-12-01 |  |
+| [Lover´s Lullaby](https://open.spotify.com/track/7wuxoIozxMyvupQcb4Yh7P) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Lover´s Lullaby](https://open.spotify.com/album/5msQgWuEsEnoCs6TQ5M0mC) | 3:03 | 2023-10-13 |  |
 | [Mademoiselle de Paris](https://open.spotify.com/track/4glQlLaG9HCB1w15qrPYnn) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [Mademoiselle de Paris](https://open.spotify.com/album/2MGgsKh8Vv7WfbuBwOMHfZ) | 2:01 | 2023-05-11 |  |
 | [Maiden Voyage](https://open.spotify.com/track/6VOiZnNwb9ivWc4IkLpRNY) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Maiden Voyage](https://open.spotify.com/album/5NsD5YrOufu6fD9Zxj4dsw) | 2:35 | 2022-04-26 | 2022-08-31 |
 | [Marianne](https://open.spotify.com/track/3aH1PozU6rrvTLGlCISgAH) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Marianne](https://open.spotify.com/album/0X43eSNXIfJFDw6FpKWU2N) | 2:09 | 2023-05-11 |  |
@@ -227,6 +229,7 @@
 | [Misty](https://open.spotify.com/track/12lnRDf58tQ4qvmaEROE5r) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [You’ve Changed](https://open.spotify.com/album/2PRzgBftdc0MsjSTdRo1la) | 4:29 | 2022-04-12 | 2023-01-20 |
 | [Moon River](https://open.spotify.com/track/10OEBzzZQqTVrhkJet4S3i) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [Moon River](https://open.spotify.com/album/5ZMjGQ6HeoyJyeD39rRmHL) | 3:13 | 2022-08-30 |  |
 | [Moonlight In Vermont](https://open.spotify.com/track/5opHsxh5NPey4qGcPmDTW6) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Moonlight In Vermont](https://open.spotify.com/album/5NFah3XIdK3KkaAFblamOk) | 2:58 | 2023-06-15 |  |
+| [Moonlight Over Manhattan](https://open.spotify.com/track/1d6SiPIjnEc0Q7H8vHIetM) | [Claire Martinelle](https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl) | [Moonlight Over Manhattan](https://open.spotify.com/album/1EeXlyJEGwucXGlmivU95U) | 3:07 | 2023-10-13 |  |
 | [Moonlight Serenade](https://open.spotify.com/track/6T8oRVoOGPjWq6p3HLcG45) | [Nineve Wilson](https://open.spotify.com/artist/4ab8hugVrmFzuV4AEGXHgr) | [Moonlight Serenade](https://open.spotify.com/album/4BGiEAiquVCGRpdKVTp9NG) | 3:30 | 2022-06-28 |  |
 | [Moonlit Melodies](https://open.spotify.com/track/2UceJwwq4nKC1xJRqfHrRD) | [Hunter Paige](https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ) | [Moonlit Melodies](https://open.spotify.com/album/4oyDxC2aBhxE79tbJkBUFe) | 1:56 | 2023-05-11 | 2023-08-26 |
 | [My Buddy](https://open.spotify.com/track/7ghPHs5mGyk84qHcCaTPvR) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [My Buddy](https://open.spotify.com/album/0qsrKAuW7nZBUAC0lJkKxm) | 3:08 | 2022-08-10 |  |
@@ -379,6 +382,7 @@
 | [Uncovered](https://open.spotify.com/track/5Z3PHF1ZTunKCQR47AwSMd) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Uncovered](https://open.spotify.com/album/5gX3IA4EQOELEVnpOa4YYH) | 2:29 | 2023-04-20 |  |
 | [Underbart är kort](https://open.spotify.com/track/0cMLTbR7VyjsYc1267fp2M) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [Songs by the bay](https://open.spotify.com/album/1dhYnd1atGKlPshAx7n4Kg) | 4:04 | 2022-04-12 | 2022-08-11 |
 | [Unforgettable](https://open.spotify.com/track/4CK5h3o4QliBTMJ8SjWf2E) | [Irvine Martin](https://open.spotify.com/artist/14fHRMD5WDw92XuxlDXaa9) | [Unforgettable](https://open.spotify.com/album/5E4LIM4elfmb0vKJShZP7X) | 1:57 | 2022-08-10 | 2023-08-26 |
+| [Velvet Reverie](https://open.spotify.com/track/07H8tef2AWRWeTUkvCgjej) | [Natalie Meir](https://open.spotify.com/artist/3olbeTBaHv78vZXeoDPq4B) | [Velvet Reverie](https://open.spotify.com/album/3yJlZjH3LO49AbvNBRdWvN) | 2:34 | 2023-10-13 |  |
 | [Very Early](https://open.spotify.com/track/233mHTkvc7567uCXc7XsHR) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Very Early](https://open.spotify.com/album/0Gdo0WpxqvA4s8UGxFO3Hf) | 2:10 | 2022-04-12 |  |
 | [Violets for Your Furs](https://open.spotify.com/track/4TQmSFLxAR8ffhfIh7c7xg) | [Jeanette Ives](https://open.spotify.com/artist/4lCw6AiRMMQqIGrJrUOZSO) | [Violets for Your Furs](https://open.spotify.com/album/6VNdeRbUZ82LobBqfTYypw) | 2:29 | 2022-08-10 | 2023-08-26 |
 | [Violets for Your Furs](https://open.spotify.com/track/5HPVrnUvpTzJF3VSL5rJTD) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Violets for Your Furs](https://open.spotify.com/album/0ZLQMQ4wddsUhMcowvwFeM) | 3:24 | 2022-05-17 |  |

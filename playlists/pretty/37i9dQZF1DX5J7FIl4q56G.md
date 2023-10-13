@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Svalbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,383 likes - 61 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,321 likes - 61 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 60 | [Furry Tongue](https://open.spotify.com/track/4tuQfbrtKEMqNLBzmFIwN6) | [MAVIS](https://open.spotify.com/artist/6zGzRIBkAMQ2uQn3z8OEyf) | [Furry Tongue](https://open.spotify.com/album/7yFinO7SZ4NkWZNic5S3Go) | 4:03 |
 | 61 | [Miracle](https://open.spotify.com/track/7nYMFiEn0hrXYkkDGnfwVr) | [AVEREA](https://open.spotify.com/artist/6NJCMtTgrB9PBUts9h4uZY) | [Miracle](https://open.spotify.com/album/4tVQgIqM1nDdxQAdsDKyq2) | 4:21 |
 
-Snapshot ID: `MCwzOTRiOWU0ZWJjOWNjNzU4YTYwMWQ3ZDhmNTI1NWQ5YWFlZTBkNWRi`
+Snapshot ID: `MCxkMDgwMjc5Mjg4ZmM5MjZhZGUxOGQwMzM1MGZlYWY1Mjg5NDY3YWRj`

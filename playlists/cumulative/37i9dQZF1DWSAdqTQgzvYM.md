@@ -4,7 +4,7 @@
 
 > Because everyone else is already taken!
 
-114 songs - 5 hr 50 min
+115 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Daisies](https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies](https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN) | 2:53 | 2022-04-15 |  |
 | [Damn It Feels Good To Be Me](https://open.spotify.com/track/3LymIBUSWRoxxm7W5UQlXl) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Damn It Feels Good To Be Me](https://open.spotify.com/album/4gi9J69znig8ZUb9OhdUCs) | 2:18 | 2022-04-15 |  |
 | [Dare to Be Me](https://open.spotify.com/track/2YzDcXvqiREtH6lHlguUAO) | [Kaci Bolls](https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9), [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Dare to Be Me](https://open.spotify.com/album/7FqMUPXFtcQN01EdnnaSA1) | 2:25 | 2022-04-15 | 2023-02-23 |
-| [Dare to Be Me](https://open.spotify.com/track/2z9tWgtowc2oRMcwzZUlCt) | [Kaci Bolls](https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9), [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Dare to Be Me](https://open.spotify.com/album/3ZBOx6I6Ovj1Z8SnMb29xU) | 2:25 | 2022-04-15 |  |
+| [Dare to Be Me](https://open.spotify.com/track/2z9tWgtowc2oRMcwzZUlCt) | [Kaci Bolls](https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9), [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Dare to Be Me](https://open.spotify.com/album/3ZBOx6I6Ovj1Z8SnMb29xU) | 2:25 | 2022-04-15 | 2023-10-13 |
+| [Dare To Be Me](https://open.spotify.com/track/6ARM4mOjj3NmahFLZwnepA) | [Kaci Bolls](https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9), [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Dare To Be Me](https://open.spotify.com/album/3eTkFUGzZzb70aO7fORDqo) | 2:25 | 2023-10-10 |  |
 | [Dark Skin Boy](https://open.spotify.com/track/6Xp1m82UqUsaIpSl3YUXhJ) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P) | [Dark Skin Boy](https://open.spotify.com/album/06pPkVzfy4O3t153okMQs7) | 1:48 | 2022-04-15 |  |
 | [Different is Beautiful \(Yeah, Yeah, Yeah\)](https://open.spotify.com/track/3YOYMflnybTtAkGncjcpqq) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [Under the Big Umbrella](https://open.spotify.com/album/3EGoaqW3tguVFNOT985vpl) | 3:01 | 2022-04-15 |  |
 | [Do My Thing](https://open.spotify.com/track/3HEq5ai5pLApbxDgcZMYm9) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [All of Me \(Deluxe Version\)](https://open.spotify.com/album/1JN9fB6NOgVhAHtoPKGpeE) | 3:28 | 2022-04-15 |  |

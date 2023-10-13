@@ -4,7 +4,7 @@
 
 > 
 
-201 songs - 13 hr 51 min
+203 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [CooCool](https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [CooCool](https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F) | 4:31 | 2023-03-08 | 2023-07-14 |
 | [CooCool](https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:31 | 2023-05-18 | 2023-09-16 |
 | [cyber meat](https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 3:06 | 2023-09-22 |  |
-| [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 | 2023-07-06 |  |
+| [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 | 2023-07-06 | 2023-10-13 |
 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 | 2022-08-30 | 2023-06-01 |
 | [dazies](https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [dazies](https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip) | 4:24 | 2023-07-12 |  |
 | [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 | 2022-09-29 | 2022-10-15 |
@@ -63,7 +63,7 @@
 | [Everything Went Well](https://open.spotify.com/track/4gm8AfWEmRuWDfk65P1Nde) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Everything Went Well](https://open.spotify.com/album/2EKCO1b3W6WlRjlAQS2iAX) | 4:59 | 2023-02-14 | 2023-03-04 |
 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 | 2023-02-08 | 2023-03-10 |
 | [Fables](https://open.spotify.com/track/3I49KOk2e2Fxoh6IlSiTKX) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Fables](https://open.spotify.com/album/5H2wrctr9Ft7PL6pn8UE81) | 4:51 | 2023-03-29 |  |
-| [Fader \- Edit](https://open.spotify.com/track/4oR9onkuU2xWQL3E5apApP) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Fader](https://open.spotify.com/album/2WKucBnirwfJwNMtcxxD1U) | 2:24 | 2023-06-20 |  |
+| [Fader \- Edit](https://open.spotify.com/track/4oR9onkuU2xWQL3E5apApP) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Fader](https://open.spotify.com/album/2WKucBnirwfJwNMtcxxD1U) | 2:24 | 2023-06-20 | 2023-10-13 |
 | [Faint of Hearts](https://open.spotify.com/track/0CaOlIGjs5oZH8V7zzTEIb) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Human and Kind](https://open.spotify.com/album/6NVZcL5hrDcO3QlEC6Wy40) | 3:29 | 2022-03-25 | 2022-07-29 |
 | [Feels Just Like It](https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 4:01 | 2023-05-15 | 2023-08-10 |
 | [FIRST AMONG MISFITS](https://open.spotify.com/track/4qU0iUlDnrb3b5X1XevRFP) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd), [THE NARRATOR](https://open.spotify.com/artist/5ZuBADpZTPnjQxxNYIgAD1) | [FIRST AMONG MISFITS](https://open.spotify.com/album/6MKpLfMW9tt0D9HitvVvTt) | 4:28 | 2023-07-25 | 2023-08-18 |
@@ -108,6 +108,7 @@
 | [inferno](https://open.spotify.com/track/4Jp2GBtVhmlielpBQeta18) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [inferno](https://open.spotify.com/album/5nEnJBGqhO81HTESoWTnq7) | 3:14 | 2023-09-05 | 2023-09-23 |
 | [Infinite Window](https://open.spotify.com/track/2EqeGPRUCz1sFz7etlN21Y) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Infinite Window](https://open.spotify.com/album/7nUDFp7PYZGbXD6FFkhKB2) | 4:49 | 2022-06-29 | 2022-07-22 |
 | [Is That How You Feel It](https://open.spotify.com/track/1KjMr1ay272SjjNYKf9FY4) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Remember](https://open.spotify.com/album/7wfRiLLgR2anjPEaesqAtr) | 2:58 | 2023-03-04 | 2023-07-13 |
+| [Its me \( g 8 \)](https://open.spotify.com/track/3dC6yRjocmprQqEYvv72Ft) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Its me \( g 8 \) / Oway \( f 7 \)](https://open.spotify.com/album/6rZTJHYLDsA564tCn9kEJ9) | 5:17 | 2023-10-12 |  |
 | [I’m Tight](https://open.spotify.com/track/6kbWgnfjUrDPmuwiROaNVB) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [I’m Tight](https://open.spotify.com/album/3BRjhB1XOxBPM5AGzJZLmi) | 7:00 | 2022-08-23 | 2022-09-30 |
 | [JGS](https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [JGS](https://open.spotify.com/album/09134EF46MKmsFGuFU4lZj) | 4:40 | 2022-06-15 | 2023-03-25 |
 | [Kenneth](https://open.spotify.com/track/4ps9Hugwa38njNmedG9c4K) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Kenneth](https://open.spotify.com/album/4C4t410jpJg0H7pBptTuN4) | 3:49 | 2023-05-04 | 2023-07-08 |
@@ -151,6 +152,7 @@
 | [Rice](https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Rice](https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ) | 2:39 | 2023-01-09 | 2023-07-08 |
 | [Right Here](https://open.spotify.com/track/5lheFJ9dG8CvAUmDobTTYP) | [H31R](https://open.spotify.com/artist/2kAeDHyhTvvRY3zavI2Amr), [JWords](https://open.spotify.com/artist/3IijBhV1c1mOVCyXO4RXiT), [maassai](https://open.spotify.com/artist/6Cjn6Iu1NYSu1QsRzjSJTV) | [Right Here](https://open.spotify.com/album/6eVyeXNcxcfv0eE5fZmteF) | 2:13 | 2023-09-26 |  |
 | [Running](https://open.spotify.com/track/2sFOzyRqcN5fKXPrZJjoc2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Running](https://open.spotify.com/album/4Hj5CeXqyFNj3WizYuTa8T) | 3:52 | 2022-09-22 | 2022-10-08 |
+| [S e x](https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [S e x](https://open.spotify.com/album/1DnORgesBFu2C0lJ2ZPQuO) | 3:01 | 2023-10-12 |  |
 | [Satyr](https://open.spotify.com/track/2Cp7vXWA3ie2KcpWVN7Jk1) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Satyr](https://open.spotify.com/album/0VJv3jujrhYMsfiTO9F3cb) | 4:45 | 2022-07-14 | 2022-08-17 |
 | [Scars](https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars](https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS) | 2:58 | 2023-04-26 | 2023-05-17 |
 | [Shadow Dance](https://open.spotify.com/track/38XjbDDpMxZTzmA7eCbgaM) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Shadow Dance](https://open.spotify.com/album/6WOWUHCLX8C2tQYJwpc0p4) | 3:59 | 2022-07-21 | 2022-08-02 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Rival Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,362 likes - 150 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,420 likes - 150 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Oh! That Bitches Brew](https://open.spotify.com/track/61IrEhpwtItIV48ieuEOlN) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Oh! That Bitches Brew](https://open.spotify.com/album/1y3oh4duwhS5ZuWqc9hh6g) | 3:29 |
+| 1 | [Oh! That Bitches Brew](https://open.spotify.com/track/15VyA0PQUtjVEZFYKPdrqK) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Oh! That Bitches Brew](https://open.spotify.com/album/0Er9Y6SwV1F4hM1FernVJC) | 3:29 |
 | 2 | [Mercy](https://open.spotify.com/track/0OdxmiZD8u6pQOwSfEoxr1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Mercy](https://open.spotify.com/album/7m5exqpKRweMqgxgOk6wY1) | 4:26 |
 | 3 | [Scorned](https://open.spotify.com/track/05rjMEQQcTDM0Vzr7bs8gW) | [Kira Mac](https://open.spotify.com/artist/3lirMsQjPC6sce67MHTXwg) | [Scorned](https://open.spotify.com/album/60cemT3NwtIGHYLL7oXtyt) | 3:08 |
 | 4 | [Sweet & Low](https://open.spotify.com/track/4RuruayuG27N6NOw6fis9I) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Sweet & Low](https://open.spotify.com/album/3C2esoQ2IvOC6cccE6y5kE) | 3:55 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Little Thing Gone Wild](https://open.spotify.com/track/0KSkqC5o5e3birYoEY9bkk) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Wrong Creatures](https://open.spotify.com/album/4bqvmPwZxKndCe4DrsLbuV) | 3:19 |
 | 150 | [Lie Lie Lie](https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Lie Lie Lie](https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk) | 3:35 |
 
-Snapshot ID: `MCxkNzFmZWU4NGIzZWEzNzgzYjVjOTE4NDgwNWVmMGFiNWI1Yjg3Mjdl`
+Snapshot ID: `MCw0ZjIwOTRiMzhlMjBjNjY0NjhhZjI1NDgzOGZhYjM0NWZiOTE2ZGQ4`

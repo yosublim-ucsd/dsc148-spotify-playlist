@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Roberta Campos",
-  "num_followers": 345694,
+  "num_followers": 345724,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjZmN2M1NzA3M2M5MTc2MGIwYjNmMWYwNzliZmJhMmY2MmI5YTEy",
+  "snapshot_id": "MCxhZmIwNTMzN2ZhMjRjMDUzZjRiNmIyOTM3NTI5MTY5MGJjYzgzNzMy",
   "tracks": [
     {
       "added_at": "2023-10-09 16:14:41",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-10-09 16:14:41",
       "album": {
+        "name": "alma doce",
+        "url": "https://open.spotify.com/album/43oxXXEyDxbwlS0modn0cW"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "duration_ms": 169915,
+      "name": "o sabi\u00e1 e a lua",
+      "url": "https://open.spotify.com/track/0dEaMNjKjyLxY17M4lG1b9"
+    },
+    {
+      "added_at": "2023-10-09 16:14:41",
+      "album": {
         "name": "Nu Com a Minha M\u00fasica (EP)",
         "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 272559,
       "name": "Pago Pra Ver",
       "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
-    },
-    {
-      "added_at": "2023-10-09 16:14:41",
-      "album": {
-        "name": "alma doce",
-        "url": "https://open.spotify.com/album/43oxXXEyDxbwlS0modn0cW"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 169915,
-      "name": "o sabi\u00e1 e a lua",
-      "url": "https://open.spotify.com/track/0dEaMNjKjyLxY17M4lG1b9"
     },
     {
       "added_at": "2023-10-09 16:14:41",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2023-10-09 16:14:41",
       "album": {
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Tarde Em Itapu\u00e3",
+      "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
+    },
+    {
+      "added_at": "2023-10-09 16:14:41",
+      "album": {
         "name": "Carnavil\u00e3",
         "url": "https://open.spotify.com/album/6M823WJsJilFHI1CBcCS3D"
       },
@@ -1063,22 +1083,26 @@
     {
       "added_at": "2023-10-09 16:14:41",
       "album": {
-        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
+        "name": "O que restou da Maravilha",
+        "url": "https://open.spotify.com/album/3wNYTUaJuK5e4XQDP1V115"
       },
       "artists": [
         {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+          "name": "Let\u00edcia Fialho",
+          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
         },
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Murica",
+          "url": "https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1"
+        },
+        {
+          "name": "BEATDOMK",
+          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
         }
       ],
-      "duration_ms": 181800,
-      "name": "Tarde Em Itapu\u00e3",
-      "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
+      "duration_ms": 209247,
+      "name": "QUEM?",
+      "url": "https://open.spotify.com/track/02xe8NW9qbBGbTa4YPkSCg"
     },
     {
       "added_at": "2023-10-09 16:14:41",
@@ -1135,30 +1159,6 @@
       "duration_ms": 180125,
       "name": "N\u00e3o Duvido",
       "url": "https://open.spotify.com/track/68mKk6BejEeufAw3IOS2zF"
-    },
-    {
-      "added_at": "2023-10-09 16:14:41",
-      "album": {
-        "name": "O que restou da Maravilha",
-        "url": "https://open.spotify.com/album/3wNYTUaJuK5e4XQDP1V115"
-      },
-      "artists": [
-        {
-          "name": "Let\u00edcia Fialho",
-          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
-        },
-        {
-          "name": "Murica",
-          "url": "https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1"
-        },
-        {
-          "name": "BEATDOMK",
-          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
-        }
-      ],
-      "duration_ms": 209247,
-      "name": "QUEM?",
-      "url": "https://open.spotify.com/track/02xe8NW9qbBGbTa4YPkSCg"
     },
     {
       "added_at": "2023-10-09 16:14:41",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2023-10-09 16:14:41",
       "album": {
+        "name": "Nascedouro",
+        "url": "https://open.spotify.com/album/5zY0QtFtAAxBlulHW7cadg"
+      },
+      "artists": [
+        {
+          "name": "Pastoras do Ros\u00e1rio",
+          "url": "https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 200707,
+      "name": "Nascedouro",
+      "url": "https://open.spotify.com/track/0zYLUIY3Snbs5NveQwsZzr"
+    },
+    {
+      "added_at": "2023-10-09 16:14:41",
+      "album": {
         "name": "Lua e Estrela",
         "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
       },
@@ -1239,6 +1259,22 @@
       "duration_ms": 219098,
       "name": "Lua e Estrela",
       "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
+    },
+    {
+      "added_at": "2023-10-09 16:14:41",
+      "album": {
+        "name": "Serafim",
+        "url": "https://open.spotify.com/album/4if09XvMdG2vNncgwcZwpD"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 300028,
+      "name": "Serafim",
+      "url": "https://open.spotify.com/track/6U5KA2ixrIUSpISQwaH6In"
     },
     {
       "added_at": "2023-10-09 16:14:41",
@@ -1283,42 +1319,6 @@
     {
       "added_at": "2023-10-09 16:14:41",
       "album": {
-        "name": "Nascedouro",
-        "url": "https://open.spotify.com/album/5zY0QtFtAAxBlulHW7cadg"
-      },
-      "artists": [
-        {
-          "name": "Pastoras do Ros\u00e1rio",
-          "url": "https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 200707,
-      "name": "Nascedouro",
-      "url": "https://open.spotify.com/track/0zYLUIY3Snbs5NveQwsZzr"
-    },
-    {
-      "added_at": "2023-10-09 16:14:41",
-      "album": {
-        "name": "Serafim",
-        "url": "https://open.spotify.com/album/4if09XvMdG2vNncgwcZwpD"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 300028,
-      "name": "Serafim",
-      "url": "https://open.spotify.com/track/6U5KA2ixrIUSpISQwaH6In"
-    },
-    {
-      "added_at": "2023-10-09 16:14:41",
-      "album": {
         "name": "Morena Bonita",
         "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 179517,
       "name": "Morena Bonita",
       "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
-    },
-    {
-      "added_at": "2023-10-09 16:14:41",
-      "album": {
-        "name": "Pra lhe Dizer",
-        "url": "https://open.spotify.com/album/2FCd8bsBEd34LSKEVci8o8"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 290141,
-      "name": "Pra lhe Dizer",
-      "url": "https://open.spotify.com/track/2wmLzpkFjqwVNXrAck7i5D"
     },
     {
       "added_at": "2023-10-09 16:14:41",
@@ -1367,6 +1351,22 @@
       "duration_ms": 165815,
       "name": "Regra Tr\u00eas",
       "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
+    },
+    {
+      "added_at": "2023-10-09 16:14:41",
+      "album": {
+        "name": "Pra lhe Dizer",
+        "url": "https://open.spotify.com/album/2FCd8bsBEd34LSKEVci8o8"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 290141,
+      "name": "Pra lhe Dizer",
+      "url": "https://open.spotify.com/track/2wmLzpkFjqwVNXrAck7i5D"
     },
     {
       "added_at": "2023-10-09 16:14:41",
@@ -1483,6 +1483,34 @@
     {
       "added_at": "2023-10-09 16:14:41",
       "album": {
+        "name": "Tiramis\u00f9",
+        "url": "https://open.spotify.com/album/1im365PiyIdcKbl3spm4EC"
+      },
+      "artists": [
+        {
+          "name": "Tiramis\u00f9",
+          "url": "https://open.spotify.com/artist/1G3FPBmMxwiwkzhd0zIS3U"
+        },
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        },
+        {
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        },
+        {
+          "name": "felipe fernandes",
+          "url": "https://open.spotify.com/artist/6giujErjvzyeiG8Yi69khV"
+        }
+      ],
+      "duration_ms": 168282,
+      "name": "Tiramis\u00f9",
+      "url": "https://open.spotify.com/track/6MFDT82605T8TS1pkZNM9v"
+    },
+    {
+      "added_at": "2023-10-09 16:14:41",
+      "album": {
         "name": "Tenho Sede",
         "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
       },
@@ -1575,34 +1603,6 @@
       "duration_ms": 264154,
       "name": "Tigresa - Ao Vivo no Coala Festival 2022",
       "url": "https://open.spotify.com/track/5LE9mtdwNWyZ1eLkfCB972"
-    },
-    {
-      "added_at": "2023-10-09 16:14:41",
-      "album": {
-        "name": "Tiramis\u00f9",
-        "url": "https://open.spotify.com/album/1im365PiyIdcKbl3spm4EC"
-      },
-      "artists": [
-        {
-          "name": "Tiramis\u00f9",
-          "url": "https://open.spotify.com/artist/1G3FPBmMxwiwkzhd0zIS3U"
-        },
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        },
-        {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
-        },
-        {
-          "name": "felipe fernandes",
-          "url": "https://open.spotify.com/artist/6giujErjvzyeiG8Yi69khV"
-        }
-      ],
-      "duration_ms": 168282,
-      "name": "Tiramis\u00f9",
-      "url": "https://open.spotify.com/track/6MFDT82605T8TS1pkZNM9v"
     },
     {
       "added_at": "2023-10-09 16:14:41",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2023-10-09 16:14:41",
       "album": {
-        "name": "Querer Bem",
-        "url": "https://open.spotify.com/album/5EsxhSjXVxOFehJlRk4peT"
-      },
-      "artists": [
-        {
-          "name": "Mariene De Castro",
-          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
-        },
-        {
-          "name": "Roberto Mendes",
-          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
-        }
-      ],
-      "duration_ms": 194752,
-      "name": "Querer Bem",
-      "url": "https://open.spotify.com/track/3RcuVUmmvEj93JXG5iC6rj"
-    },
-    {
-      "added_at": "2023-10-09 16:14:41",
-      "album": {
         "name": "Bai\u00e3o Pra Uma Baiana Em S\u00e3o Caetano",
         "url": "https://open.spotify.com/album/0lodw3xfgNgWRWxn2YmL6O"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 249418,
       "name": "Bai\u00e3o Pra Uma Baiana em S\u00e3o Caetano",
       "url": "https://open.spotify.com/track/32s6Kwtwd0bDcYLidrOtD6"
+    },
+    {
+      "added_at": "2023-10-09 16:14:41",
+      "album": {
+        "name": "Querer Bem",
+        "url": "https://open.spotify.com/album/5EsxhSjXVxOFehJlRk4peT"
+      },
+      "artists": [
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        },
+        {
+          "name": "Roberto Mendes",
+          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
+        }
+      ],
+      "duration_ms": 194752,
+      "name": "Querer Bem",
+      "url": "https://open.spotify.com/track/3RcuVUmmvEj93JXG5iC6rj"
     },
     {
       "added_at": "2023-10-09 16:14:41",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2023-10-09 16:14:41",
       "album": {
-        "name": "Doce Carnaval",
-        "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
-      },
-      "artists": [
-        {
-          "name": "Alexia Bomtempo",
-          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
-        },
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 270186,
-      "name": "Mal Acostumada",
-      "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
-    },
-    {
-      "added_at": "2023-10-09 16:14:41",
-      "album": {
         "name": "Entre A Flor E A Cruz",
         "url": "https://open.spotify.com/album/0bxLC1puu2VPrYP5Cj4au6"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 185443,
       "name": "Solid\u00e3o Bateu \u00e0 Porta",
       "url": "https://open.spotify.com/track/2r5e3RUADUfuvNki6zLntU"
+    },
+    {
+      "added_at": "2023-10-09 16:14:41",
+      "album": {
+        "name": "Doce Carnaval",
+        "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
+      },
+      "artists": [
+        {
+          "name": "Alexia Bomtempo",
+          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 270186,
+      "name": "Mal Acostumada",
+      "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
     },
     {
       "added_at": "2023-10-09 16:14:41",

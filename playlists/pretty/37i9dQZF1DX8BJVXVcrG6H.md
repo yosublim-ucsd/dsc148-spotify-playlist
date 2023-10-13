@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BJVXVcrG6H.md) - [plain]
 
 > Representantes de la rima Charrúa\. Foto: Los Buenos Modales.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,706 likes - 77 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,714 likes - 77 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BJVXVcrG6H.md) - [plain]
 | 76 | [Bandido](https://open.spotify.com/track/05VOv9XZssR7p058ISvqCE) | [Crasek](https://open.spotify.com/artist/1Wyenmx5v8iqA6uD9z8435), [Coko Yamasaki](https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm) | [Bandido](https://open.spotify.com/album/2IFvOcq4sQrFef0iysZBZm) | 2:40 |
 | 77 | [FUEGO EN LA DISCO](https://open.spotify.com/track/0rYaiBVTnblFpuMQ2Hp5is) | [AFC](https://open.spotify.com/artist/5EOi4iopwT7JCvwft1knJl) | [MURGANG](https://open.spotify.com/album/2JPXbVVsNb3xz6QhL9uYO7) | 3:28 |
 
-Snapshot ID: `MCwyZDg0ZmEyYWVjZDg3YTIxNTgyZmQ4ZWY5MDc1NDk2Y2ZiZWFiOWFj`
+Snapshot ID: `MCwyNTU2ZTJkZTA1ODFiN2U5OTA5Njc0NTFlYjM0MTkxMzc4YWRmY2Fi`

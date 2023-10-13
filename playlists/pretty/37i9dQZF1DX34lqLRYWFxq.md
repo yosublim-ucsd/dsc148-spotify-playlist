@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in Rock this week\. Cover: Lovejoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,304 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,310 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Razz](https://open.spotify.com/track/7pvzD6IH4mQiPCviN6W42v) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Razz](https://open.spotify.com/album/17aE8q34Jq6gYImpF2O4g5) | 2:35 |
 | 100 | [Obvious](https://open.spotify.com/track/3JJISRK7cduEHIeKimb3Re) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [Obvious](https://open.spotify.com/album/6xNM0ATE15VQIihLH6Zwiy) | 3:08 |
 
-Snapshot ID: `MCxiYTkwNDQ5YjgxYWU4MTA2ZjMyMTdmZDM3NzY5MGY2YjZmNDM5MTIy`
+Snapshot ID: `MCw1ZTU3MDEzOWM1NjBjZjc2YTQyODBiODNkYjkxNzdhNTgwMTc2NmMw`

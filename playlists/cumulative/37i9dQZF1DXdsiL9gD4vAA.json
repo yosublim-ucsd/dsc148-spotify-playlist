@@ -1633,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "Khiraj",
+        "url": "https://open.spotify.com/album/3V2kOV6FanUWqzj7JZkY8z"
+      },
+      "artists": [
+        {
+          "name": "Muhammad Ali",
+          "url": "https://open.spotify.com/artist/3O5X759SsQ6VzpPVopUZSX"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287608,
+      "name": "Rafta Rafta Woh Meri Hasti Ka Saman Ho Gaye",
+      "url": "https://open.spotify.com/track/6GdajL7Wy76jkC7QziZ1At"
+    },
+    {
+      "album": {
         "name": "Mehdi Hassan - Greatest Ghazals",
         "url": "https://open.spotify.com/album/6msMzk74VrVotyZfgwb8np"
       },
@@ -1922,7 +1940,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 430108,
       "name": "Tumne Jo Kuchh Kaha",
       "url": "https://open.spotify.com/track/7K5ox3eAJv1ZVtumbZa4VZ"

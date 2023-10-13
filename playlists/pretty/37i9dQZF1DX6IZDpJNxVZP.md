@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,734 likes - 130 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,681 likes - 130 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 13 | [Time For Halloween](https://open.spotify.com/track/2FbFxJEQSnG6TpAYmDm6ZU) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [Spooky Scary Tunes for Kids](https://open.spotify.com/album/23PKfY96XSY26OeLKyJucM) | 1:25 |
 | 14 | [Halloween Floor is Lava](https://open.spotify.com/track/0qeUh1qhHUyBWEUfQhp67I) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Halloween Floor is Lava](https://open.spotify.com/album/401zoIGOIdNruRAcb9jhiz) | 3:39 |
 | 15 | [Bad Blood](https://open.spotify.com/track/21jdyV98aurGa8pu2SCYFL) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:08 |
-| 16 | [Poor Unfortunate Souls \- From "The Little Mermaid" / Soundtrack Version](https://open.spotify.com/track/7yyTZAgwQUy1a5kDjQJJNN) | [Pat Carroll](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid](https://open.spotify.com/album/4YTduhQWfS0pOzQC4o0HcG) | 4:51 |
+| 16 | [Poor Unfortunate Souls](https://open.spotify.com/track/7yyTZAgwQUy1a5kDjQJJNN) | [Pat Carroll](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4YTduhQWfS0pOzQC4o0HcG) | 4:51 |
 | 17 | [Old MacDonald's Haunted Farm](https://open.spotify.com/track/5f4pk2mhjFOmdpFj1HXxlr) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 2:21 |
 | 18 | [Goosebumps](https://open.spotify.com/track/5XZz9OwrEQJVpgkntifwzk) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Monsters & Goosebumps](https://open.spotify.com/album/7deHbl0kyfHgiOK5OzYowH) | 2:21 |
 | 19 | [Bad Guy](https://open.spotify.com/track/4V9KNW6NCaFTHmgo85Punq) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S) | 2:33 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 129 | [Casper The Friendly Ghost](https://open.spotify.com/track/19GKm4dDOz44DRH3OycKJk) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [Bestest Kids Halloween Songs Ever](https://open.spotify.com/album/1xkWTua1mHxl3ZDP5E6VCm) | 1:22 |
 | 130 | [Witch Doctor](https://open.spotify.com/track/2Eyv5QwBHpWIJFOzIXKnm0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 2:25 |
 
-Snapshot ID: `MCw2NDNlZDVhNjgyMTYyMjMwMjhiYzc5NjhlZTU3NmY1NDRiOTY4ZGRl`
+Snapshot ID: `MCwzMGU3MDk2ZGRhNzMwYjMyY2U1YmUyNzNkZTA0OTBiM2Y4ZTk1OGJl`

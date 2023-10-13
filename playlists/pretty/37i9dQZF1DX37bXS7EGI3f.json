@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal. Cover: Within Temptation",
-  "num_followers": 749752,
+  "num_followers": 749600,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDJkMDY3ZTlhNWU4ZTlmN2MzOWExN2NlZDFjODM3MDI2YjU0NTgz",
+  "snapshot_id": "MCwwNjE5NjRkNjlkZTAxNTFmZDQ4ODBlMjcwNTlhOTc0NDMzYzg0OWVl",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -541,10 +541,10 @@
       "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
     },
     {
-      "added_at": "2023-07-17 22:14:26",
+      "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Cicada",
-        "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
+        "name": "Fairy of the Bog",
+        "url": "https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
         }
       ],
-      "duration_ms": 271693,
-      "name": "Cicada",
-      "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
+      "duration_ms": 276705,
+      "name": "Fairy of the Bog",
+      "url": "https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -657,10 +657,10 @@
       "url": "https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-07-17 22:14:26",
       "album": {
-        "name": "Fairy of the Bog",
-        "url": "https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1"
+        "name": "Cicada",
+        "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
         }
       ],
-      "duration_ms": 276705,
-      "name": "Fairy of the Bog",
-      "url": "https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am"
+      "duration_ms": 271693,
+      "name": "Cicada",
+      "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Winter Is Coming",
+        "url": "https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 277493,
+      "name": "Winter Is Coming",
+      "url": "https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Love Reign O'er Me",
         "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 240106,
       "name": "Love Reign O'er Me",
       "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Winter Is Coming",
-        "url": "https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
-        }
-      ],
-      "duration_ms": 277493,
-      "name": "Winter Is Coming",
-      "url": "https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Invaders",
-        "url": "https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4"
-      },
-      "artists": [
-        {
-          "name": "Civil War",
-          "url": "https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T"
-        }
-      ],
-      "duration_ms": 338000,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Pop Metal",
         "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 191999,
       "name": "Empire",
       "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Invaders",
+        "url": "https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4"
+      },
+      "artists": [
+        {
+          "name": "Civil War",
+          "url": "https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Black Venom",
-        "url": "https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq"
+        "name": "The Beast Has Awoken",
+        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
       },
       "artists": [
         {
-          "name": "Without Warning",
-          "url": "https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe"
+          "name": "Hate World Hero",
+          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Black Venom",
-      "url": "https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S"
+      "duration_ms": 213473,
+      "name": "The Beast Has Awoken",
+      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Beast Has Awoken",
-        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
+        "name": "Black Venom",
+        "url": "https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq"
       },
       "artists": [
         {
-          "name": "Hate World Hero",
-          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
+          "name": "Without Warning",
+          "url": "https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe"
         }
       ],
-      "duration_ms": 213473,
-      "name": "The Beast Has Awoken",
-      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
+      "duration_ms": 197000,
+      "name": "Black Venom",
+      "url": "https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S"
     },
     {
       "added_at": "2023-05-19 04:00:00",

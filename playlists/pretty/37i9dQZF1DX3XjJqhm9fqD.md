@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > DJ Bullet takes over Haitian Heat for Miami Carnival 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,342 likes - 36 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,325 likes - 36 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 4 | [Manyen'l](https://open.spotify.com/track/2avp7IL8rkllPcyRcnCJPY) | [HERO G](https://open.spotify.com/artist/4i23JCNNX6DisR9iSzElt4), [PIMAN](https://open.spotify.com/artist/231EJOfkBTV3ysoaryuiaX), [TOUPIKE](https://open.spotify.com/artist/4yiTJT9ThymYFkZPPXuGCB), [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [Manyen'l](https://open.spotify.com/album/43hG4RyRcCWC9JTY0teMzu) | 3:29 |
 | 5 | [Bwa Kale](https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo), [T\-Babas](https://open.spotify.com/artist/4IeZGmKfm9Fqdtv1J2Kjjb) | [Bwa Kale](https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU) | 3:05 |
 | 6 | [Madada](https://open.spotify.com/track/08Os9NAeqbezNsoLp3JC31) | [Colmix](https://open.spotify.com/artist/5zOdnsLH2GgQBJwQ22Q6TF), [Aide Laza](https://open.spotify.com/artist/0HPjCw9YHHkT6bg7DWgi0Y), [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo) | [Madada](https://open.spotify.com/album/1O056q2LVQtbDRfmstYUSq) | 4:54 |
-| 7 | [Diaspora](https://open.spotify.com/track/6Zi9DIVY8J84zsAJlPehdz) | [Loji Baby](https://open.spotify.com/artist/44uFXLOiAcaPs3H3E2vnAg) | [Diaspora](https://open.spotify.com/album/4vRyEW3OV9rfhbpi3kWCDC) | 3:43 |
+| 7 | [Cliffone](https://open.spotify.com/track/6Zi9DIVY8J84zsAJlPehdz) | [Ti Mari](https://open.spotify.com/artist/5KctvKCUAgtZDV6G7vneeF) | [Cliffone](https://open.spotify.com/album/4vRyEW3OV9rfhbpi3kWCDC) | 2:40 |
 | 8 | [Lave Lè A](https://open.spotify.com/track/18N4WwFTwEGK17NgMB61Gi) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo) | [Lave Lè A](https://open.spotify.com/album/3ircijrsvcWgFhAiKGRvP4) | 3:54 |
 | 9 | [Ti Sesi Ti Sela](https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt) | [BMIXX](https://open.spotify.com/artist/1BbNMdaFQJCrLwiAr1tIoM), [Afriken An](https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4) | [Ti Sesi Ti Sela](https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz) | 2:53 |
 | 10 | [Toup Pou Yo](https://open.spotify.com/track/7HB3UCS7cZEag6p11HIPj5) | [Barikad Crew](https://open.spotify.com/artist/5kzkzGTyFOLBgEaacxesx7) | [Toup Pou Yo](https://open.spotify.com/album/2uGbUSTggTmXCGE5xUuQfj) | 4:56 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 35 | [Koul Non](https://open.spotify.com/track/5ygnRX6cC2SswrGC70lId4) | [King Posse](https://open.spotify.com/artist/76TlFealriTlICvSEcsbE1) | [Kanaval, Vol\. 1](https://open.spotify.com/album/23dQ6bk0yo76ivfj9zsioM) | 8:06 |
 | 36 | [Saw Wè \- Kanaval 98](https://open.spotify.com/track/7hB5FL1BSy39hp7yVnPEMk) | [King Posse](https://open.spotify.com/artist/76TlFealriTlICvSEcsbE1) | [Who's That](https://open.spotify.com/album/5CJRJn6RUMKFl0IDNUSi0e) | 9:31 |
 
-Snapshot ID: `MCwwMjNiZjU5MTQwMDdmMjNlZWVhMTY0ZTdhMWI1OTU1ODk3ZjAxODY1`
+Snapshot ID: `MCwzOWE1NTUyMTc3ZTU5ZGQ3NWU4OTdmNTk5MmM0ZTI3ZmEwNmFlOGJl`

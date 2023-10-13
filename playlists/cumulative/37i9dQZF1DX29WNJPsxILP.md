@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli featuring Dakait, Sez on the beat
 
-100 songs - 5 hr 17 min
+101 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Dan Dana Dan](https://open.spotify.com/track/0kHTc09EST4a4fOJnXL6zl) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [2FISTD](https://open.spotify.com/artist/08e2eWa0q9i4FZS6n8V4Rs) | [Dev Nagri Aur Main](https://open.spotify.com/album/0CWCtQbEiN1QAEGamNhLk6) | 3:20 | 2023-10-11 |  |
 | [Desktop](https://open.spotify.com/track/1KXJ0DXzCA5ysq7i15ujKP) | [Boyblanck](https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5), [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL) | [Desktop](https://open.spotify.com/album/7AqO9vYUFXCA4sL1clxoJk) | 2:00 | 2023-05-12 |  |
 | [Dev Nagri](https://open.spotify.com/track/5uSXh5pWaaCjr4mKvsa0Uv) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Dev Nagri](https://open.spotify.com/album/5wdDntwoQKW8E5WmLhH5qC) | 4:25 | 2023-08-08 |  |
-| [Dilli](https://open.spotify.com/track/7yVqIPygOGA57KoWbwpGcc) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE) | [Dilli](https://open.spotify.com/album/5Uw4CQIzBTgd2PeGnlFnvc) | 2:53 | 2023-05-04 |  |
+| [Dilli](https://open.spotify.com/track/7yVqIPygOGA57KoWbwpGcc) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE) | [Dilli](https://open.spotify.com/album/5Uw4CQIzBTgd2PeGnlFnvc) | 2:53 | 2023-05-04 | 2023-10-13 |
+| [Duniya Makkaar](https://open.spotify.com/track/78C9fInl0QUYAQBsEenYVC) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Eyes On The Prize](https://open.spotify.com/album/1b46lR5SZxbKQrwNikXDQe) | 2:38 | 2023-10-12 |  |
 | [F16](https://open.spotify.com/track/2KFuYtZf6KxzDE6PogFxMK) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:29 | 2023-03-10 |  |
 | [Feel Hai](https://open.spotify.com/track/5HPo4dz4rvFaKBdcE8Ss9l) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Feel Hai](https://open.spotify.com/album/5r9XIjZkwLqJC2eEc1V4fM) | 2:58 | 2023-03-10 | 2023-10-12 |
 | [Flex](https://open.spotify.com/track/1BjFMR7Cb8yaQyOsZBszML) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Flex](https://open.spotify.com/album/0jpun7yb7Ve0nSJsrTVt1C) | 3:20 | 2023-03-10 | 2023-10-12 |

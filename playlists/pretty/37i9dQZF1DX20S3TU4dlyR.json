@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2UyYTZjYzBlM2Y1YWMwN2E5MmRlM2ZiMWQ0NzZhYTBlY2MwMGRi",
+  "snapshot_id": "MCxhZDM2NzA4MzBiYTAxODQwNTk0OTczN2FjYTU2NjgxNWNmZWVjMzNh",
   "tracks": [
     {
       "added_at": "2023-10-05 21:31:47",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-10-05 21:31:47",
       "album": {
-        "name": "Donde Brilla el Sol",
-        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "En Tus Manos",
-      "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
-    },
-    {
-      "added_at": "2023-10-05 21:31:47",
-      "album": {
         "name": "La B\u00fasqueda",
         "url": "https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 238500,
       "name": "Algo mejor - Remastered",
       "url": "https://open.spotify.com/track/0iITTpeIsR2NQIv1QiIkKx"
+    },
+    {
+      "added_at": "2023-10-05 21:31:47",
+      "album": {
+        "name": "Donde Brilla el Sol",
+        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 248093,
+      "name": "En Tus Manos",
+      "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
     },
     {
       "added_at": "2023-10-05 21:31:47",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-10-05 21:31:47",
       "album": {
-        "name": "Ahora Lo S\u00e9",
-        "url": "https://open.spotify.com/album/68PtNir6GWJ4H09eIbOSPC"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 256372,
-      "name": "Ahora Lo S\u00e9",
-      "url": "https://open.spotify.com/track/2Wwu9dUOFgh6n8RZbicU3f"
-    },
-    {
-      "added_at": "2023-10-05 21:31:47",
-      "album": {
         "name": "International Love",
         "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 297426,
       "name": "Luz y Compa\u00f1\u00eda",
       "url": "https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB"
+    },
+    {
+      "added_at": "2023-10-05 21:31:47",
+      "album": {
+        "name": "Ahora Lo S\u00e9",
+        "url": "https://open.spotify.com/album/68PtNir6GWJ4H09eIbOSPC"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 256372,
+      "name": "Ahora Lo S\u00e9",
+      "url": "https://open.spotify.com/track/2Wwu9dUOFgh6n8RZbicU3f"
     },
     {
       "added_at": "2023-10-05 21:31:47",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-10-05 21:31:47",
       "album": {
+        "name": "S\u00ed Ser\u00e1s",
+        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 198680,
+      "name": "Puede Parecer",
+      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
+    },
+    {
+      "added_at": "2023-10-05 21:31:47",
+      "album": {
         "name": "Raices y Cultura",
         "url": "https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 281920,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E"
-    },
-    {
-      "added_at": "2023-10-05 21:31:47",
-      "album": {
-        "name": "S\u00ed Ser\u00e1s",
-        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 198680,
-      "name": "Puede Parecer",
-      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
     },
     {
       "added_at": "2023-10-05 21:31:47",
@@ -971,26 +971,6 @@
     {
       "added_at": "2023-10-05 21:31:47",
       "album": {
-        "name": "Radiante",
-        "url": "https://open.spotify.com/album/7yIFVoRj5P8Tkgcebc1KGC"
-      },
-      "artists": [
-        {
-          "name": "De Bruces A Mi",
-          "url": "https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg"
-        },
-        {
-          "name": "Pablo Molina",
-          "url": "https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB"
-        }
-      ],
-      "duration_ms": 189806,
-      "name": "Mi Dulce Amor",
-      "url": "https://open.spotify.com/track/58c0vA53oFYJVppKfZlYXY"
-    },
-    {
-      "added_at": "2023-10-05 21:31:47",
-      "album": {
         "name": "Rockin'",
         "url": "https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 208563,
       "name": "Revolution Rock",
       "url": "https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu"
+    },
+    {
+      "added_at": "2023-10-05 21:31:47",
+      "album": {
+        "name": "Radiante",
+        "url": "https://open.spotify.com/album/7yIFVoRj5P8Tkgcebc1KGC"
+      },
+      "artists": [
+        {
+          "name": "De Bruces A Mi",
+          "url": "https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg"
+        },
+        {
+          "name": "Pablo Molina",
+          "url": "https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB"
+        }
+      ],
+      "duration_ms": 189806,
+      "name": "Mi Dulce Amor",
+      "url": "https://open.spotify.com/track/58c0vA53oFYJVppKfZlYXY"
     },
     {
       "added_at": "2023-10-05 21:31:47",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-10-05 21:31:47",
       "album": {
+        "name": "Rey Mago de las Nubes",
+        "url": "https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "El Pescador",
+      "url": "https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed"
+    },
+    {
+      "added_at": "2023-10-05 21:31:47",
+      "album": {
         "name": "Qui\u00e9n Sos?",
         "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2023-10-05 21:31:47",
       "album": {
-        "name": "Rey Mago de las Nubes",
-        "url": "https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "El Pescador",
-      "url": "https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed"
-    },
-    {
-      "added_at": "2023-10-05 21:31:47",
-      "album": {
         "name": "SIG RAGGA (Remaster 2023)",
         "url": "https://open.spotify.com/album/2jSOavvzChm3DmxWwz7QXy"
       },
@@ -1119,26 +1119,6 @@
       "duration_ms": 308980,
       "name": "Resistencia ind\u00edgena - Remaster 2023",
       "url": "https://open.spotify.com/track/4t0KYfzyrMx40Vr7jXCRYr"
-    },
-    {
-      "added_at": "2023-10-05 21:31:47",
-      "album": {
-        "name": "La Tierra del Desencanto",
-        "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
-      },
-      "artists": [
-        {
-          "name": "BlackDali",
-          "url": "https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B"
-        },
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 249542,
-      "name": "La Tierra del Desencanto",
-      "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
     },
     {
       "added_at": "2023-10-05 21:31:47",
@@ -1167,6 +1147,26 @@
     {
       "added_at": "2023-10-05 21:31:47",
       "album": {
+        "name": "La Tierra del Desencanto",
+        "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
+      },
+      "artists": [
+        {
+          "name": "BlackDali",
+          "url": "https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B"
+        },
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 249542,
+      "name": "La Tierra del Desencanto",
+      "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
+    },
+    {
+      "added_at": "2023-10-05 21:31:47",
+      "album": {
         "name": "Como la Flor",
         "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
       },
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-10-05 21:31:47",
       "album": {
-        "name": "The Lady in Red",
-        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
+        "name": "Bahiano BH+",
+        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
       },
       "artists": [
         {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
         }
       ],
-      "duration_ms": 225703,
-      "name": "The Lady in Red",
-      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
+      "duration_ms": 260266,
+      "name": "No Mires Atras",
+      "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
     },
     {
       "added_at": "2023-10-05 21:31:47",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-10-05 21:31:47",
       "album": {
-        "name": "Bahiano BH+",
-        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
+        "name": "The Lady in Red",
+        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
       },
       "artists": [
         {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
         }
       ],
-      "duration_ms": 260266,
-      "name": "No Mires Atras",
-      "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
+      "duration_ms": 225703,
+      "name": "The Lady in Red",
+      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
     },
     {
       "added_at": "2023-10-05 21:31:47",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-10-05 21:31:47",
       "album": {
-        "name": "Es Real",
-        "url": "https://open.spotify.com/album/67sqDVeSGLXUmM3cPx4B3d"
+        "name": "Flores y Burbujas",
+        "url": "https://open.spotify.com/album/6ml56iIIqEhsl7YxniYb3j"
       },
       "artists": [
         {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
         }
       ],
-      "duration_ms": 257255,
-      "name": "Es Real",
-      "url": "https://open.spotify.com/track/4X4hOKhoNHdwpvS6bwLvX9"
+      "duration_ms": 304426,
+      "name": "Flores y Burbujas",
+      "url": "https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD"
     }
   ],
   "unique_name": "Reggae al Sur",

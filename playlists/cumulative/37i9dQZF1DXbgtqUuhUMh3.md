@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Numidia
 
-571 songs - 1 day 9 hr 5 min
+573 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Badal Madi](https://open.spotify.com/track/1yv1J9jpn2HrSgA5m7Rb02) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Badal Madi](https://open.spotify.com/album/5htTIypAWNOYGcDkSWrsgv) | 2:48 | 2023-03-16 | 2023-07-14 |
 | [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 | 2022-10-13 | 2022-11-08 |
 | [Baghanny](https://open.spotify.com/track/6268FVFOesGcamWngDzyqv) | [Maryam Saleh](https://open.spotify.com/artist/3M3dqhDqNK2DsZPIbopgUA), [Hello Psychaleppo](https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O) | [Baghanny](https://open.spotify.com/album/497WnlgFjsU8gMmpeUbL5o) | 4:16 | 2023-05-25 | 2023-08-02 |
+| [Baktom](https://open.spotify.com/track/00RZAphqszZAEbYc4iZIvv) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [Baktom](https://open.spotify.com/album/3ewFQuhWCrQteYGg41IHez) | 3:10 | 2023-10-12 |  |
 | [Bala Ma Nhess](https://open.spotify.com/track/0CSVpG8z1Env2B7P3nVHSc) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bala Ma Nhess](https://open.spotify.com/album/6cGIrKJCPg2YKoeZ6mYtKz) | 3:06 | 2022-03-01 | 2022-11-16 |
 | [Baseeb El Donia](https://open.spotify.com/track/441kvK0iZMdhGy2peaAaqC) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Baseeb El Donia](https://open.spotify.com/album/3HDTqcv00LpIwQEys88c0Z) | 3:21 | 2022-06-02 | 2023-03-18 |
 | [Batalet Haiatik](https://open.spotify.com/track/3uOTeUzSg0pBIx5xDd2ARv) | [Alia Awwe](https://open.spotify.com/artist/67tXfOypohX8DzjnZDDXOm) | [Batalet Haiatik](https://open.spotify.com/album/7CvbpdJR1gk1Q3TnluIWkZ) | 3:01 | 2021-12-23 | 2022-03-02 |
@@ -287,6 +288,7 @@
 | [Maey Solef](https://open.spotify.com/track/2w9rtSDzKPD2ONLCG6f39o) | [Nariman](https://open.spotify.com/artist/4PGqbi1DtCzG4itqf4UcSh) | [Maey Solef](https://open.spotify.com/album/129Uvupg3zkSumY6XQuoLv) | 5:47 | 2021-12-23 | 2022-03-02 |
 | [Maghnateess](https://open.spotify.com/track/4AbDFi4FmZuk1IwUWhGtY7) | [Cheen](https://open.spotify.com/artist/29Es5aQwN2V7y4kn4GZrIp) | [Maghnateess](https://open.spotify.com/album/56BkSCPiZsLGOJwAEqWgks) | 2:57 | 2021-12-23 | 2022-03-01 |
 | [Majaneen](https://open.spotify.com/track/6kJgqTQPgEwY0d7KMGmbLp) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Majaneen](https://open.spotify.com/album/7oxwkRW6lpv4jbdzgLlM1S) | 2:48 | 2022-10-06 | 2022-12-19 |
+| [Majrooh](https://open.spotify.com/track/52Sy82cr1pNYrtekkLIjIx) | [Marina Ndayra](https://open.spotify.com/artist/2Rqvvqs1oN7ENbboDpm61v) | [Majrooh](https://open.spotify.com/album/24qh3pDomlGZ6WJS5aQSqe) | 3:34 | 2023-10-12 |  |
 | [Makanak Khali](https://open.spotify.com/track/47fiFvcSChzOIrvh1BnRlR) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Makanak Khali](https://open.spotify.com/album/1BxWhitrI65tgN8ciUyzjC) | 4:16 | 2023-02-23 | 2023-07-14 |
 | [Makanak Mbyen](https://open.spotify.com/track/0TzQ3u6VhbcxTcRN3zBi8a) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Al Haneen](https://open.spotify.com/album/5ogbgcC7gexEMspoSYTU8z) | 3:49 | 2022-07-06 | 2022-07-08 |
 | [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 | 2022-11-01 | 2023-05-13 |
@@ -430,7 +432,7 @@
 | [Weino](https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino](https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj) | 2:25 | 2021-12-23 | 2022-03-02 |
 | [Weino 2](https://open.spotify.com/track/25v0ao9Pk1RMagxyVCbJNZ) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino 2](https://open.spotify.com/album/5UWBb35l9fnUGCAeFJqYB7) | 2:10 | 2022-03-01 | 2023-02-14 |
 | [Welaane](https://open.spotify.com/track/3yI0oj88v89SblbqDJyCvK) | [Diana Karazon](https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE) | [Welaane](https://open.spotify.com/album/6QA0ySWUCTZCgdovGFfBUP) | 3:52 | 2023-07-13 | 2023-09-09 |
-| [Wesh El Sobh](https://open.spotify.com/track/07XdJBtcMX89IbRmVyMQ7Q) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [Wesh El Sobh](https://open.spotify.com/album/3k7yZzYzPcQltnsWnbh8JW) | 3:27 | 2023-09-20 |  |
+| [Wesh El Sobh](https://open.spotify.com/track/07XdJBtcMX89IbRmVyMQ7Q) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [Wesh El Sobh](https://open.spotify.com/album/3k7yZzYzPcQltnsWnbh8JW) | 3:27 | 2023-09-20 | 2023-10-13 |
 | [Wesh Jak](https://open.spotify.com/track/0xe1ffmycRFIiA0B8uBtGb) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Wesh Jak](https://open.spotify.com/album/1L9YrwHLZizSXgvSyPQVUx) | 2:49 | 2021-12-30 | 2022-02-27 |
 | [Wesh Yes3edk](https://open.spotify.com/track/7cQKp7oT1YXT7z2MXvydhR) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Wesh Yes3edk](https://open.spotify.com/album/7m3Vn1oyNWrwK2kcHhTSos) | 4:18 | 2023-01-25 | 2023-09-09 |
 | [Weslat Al Fekra](https://open.spotify.com/track/6Dolz1cbu6hURxPnpLyNYM) | [Nadine Fahad](https://open.spotify.com/artist/4vloTyzi91BkV0RhnGwsji) | [Weslat Al Fekra](https://open.spotify.com/album/7izEIo3KT8uqKWnx9Cm6xP) | 3:57 | 2021-12-23 | 2022-03-02 |
@@ -462,7 +464,7 @@
 | [You](https://open.spotify.com/track/0JoKkge8Xpqi24AD9nbxzK) | [Layla Kardan](https://open.spotify.com/artist/6anm3koLvedUfsUdmb0uAL) | [You](https://open.spotify.com/album/4gFoQAIdZcb4AvBZsz88DU) | 3:43 | 2021-12-23 | 2021-12-30 |
 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 | 2021-12-23 | 2022-02-28 |
 | [Zaamat Naamat \- Leadership and Sheep](https://open.spotify.com/track/3NPC89hv3EYrJtTGjWUUO8) | [Mira Awad](https://open.spotify.com/artist/0hlFOvtSOFXtPmTfOt2XpP) | [Zaamat Naamat \(Leadership and Sheep\)](https://open.spotify.com/album/4JfAFXnZuF5adHNwos52Hs) | 3:16 | 2021-12-23 | 2022-03-02 |
-| [Zalaana](https://open.spotify.com/track/4JEMuSKQoRNL4C9ZusRlAw) | [Shereen Yehia](https://open.spotify.com/artist/6sI8bEic5Dp7EQjiZNzqMY) | [Zalaana](https://open.spotify.com/album/7dObeHUH7oj3O6eUhJmK2H) | 2:53 | 2023-10-02 |  |
+| [Zalaana](https://open.spotify.com/track/4JEMuSKQoRNL4C9ZusRlAw) | [Shereen Yehia](https://open.spotify.com/artist/6sI8bEic5Dp7EQjiZNzqMY) | [Zalaana](https://open.spotify.com/album/7dObeHUH7oj3O6eUhJmK2H) | 2:53 | 2023-10-02 | 2023-10-13 |
 | [Zay El Moug](https://open.spotify.com/track/3PSC7JkkBtl1QTJiVh9Ek2) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Zay El Moug](https://open.spotify.com/album/0aBTAji3itfFJI6aiUys57) | 3:00 | 2023-02-28 | 2023-05-05 |
 | [Zina Weya El Nas](https://open.spotify.com/track/37SWbX2hYRarRnxphEV1Zs) | [Sina Mousa](https://open.spotify.com/artist/3GSiCt6cvJBYsiinXBrCSd) | [Zina Weya El Nas](https://open.spotify.com/album/1vwUwpq5kOrMEJqEcf2eUM) | 3:15 | 2021-12-23 | 2022-02-28 |
 | [Zuruni](https://open.spotify.com/track/1n1Qfej8CS4L0xX5niQpxU) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Zuruni](https://open.spotify.com/album/2pFIooMgMqaHfgHeqwSb0g) | 3:09 | 2021-12-23 | 2022-03-02 |

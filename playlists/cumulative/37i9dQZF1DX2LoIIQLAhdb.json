@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "Allo",
+        "url": "https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD"
+      },
+      "artists": [
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        },
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195375,
+      "name": "Allo",
+      "url": "https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ"
+    },
+    {
+      "album": {
         "name": "ANANAS (Acoustic version)",
         "url": "https://open.spotify.com/album/6lJsS5QVgRhJyp398XalZc"
       },
@@ -704,7 +726,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 174240,
       "name": "CV (feat. RK)",
       "url": "https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4"
@@ -1169,6 +1191,28 @@
     },
     {
       "album": {
+        "name": "Garde Le",
+        "url": "https://open.spotify.com/album/1juOthaPbiYisCAAi4sJsv"
+      },
+      "artists": [
+        {
+          "name": "Lossa2Squa",
+          "url": "https://open.spotify.com/artist/0DhhGFA0yxKhk7wrnzdbbK"
+        },
+        {
+          "name": "MCBOX",
+          "url": "https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203294,
+      "name": "Garde Le",
+      "url": "https://open.spotify.com/track/7g8S3AlcYYrUuXjUt0q292"
+    },
+    {
+      "album": {
         "name": "Ginger",
         "url": "https://open.spotify.com/album/28wcW4kLHOwwRuiszCcNia"
       },
@@ -1604,7 +1648,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 169579,
       "name": "K.O",
       "url": "https://open.spotify.com/track/7fYlVF4X0NFcU2cVMJT3ve"
@@ -1768,7 +1812,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 176386,
       "name": "LA LOI (feat. Franglish)",
       "url": "https://open.spotify.com/track/5fZvfkA6x85Ie2YtvRrB1Q"
@@ -2364,7 +2408,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 196306,
       "name": "M\u00e8re ya Palais",
       "url": "https://open.spotify.com/track/40XrmyoNFxG5KehHeFvrKT"
@@ -2422,6 +2466,24 @@
       "duration_ms": 195000,
       "name": "Nefertiti",
       "url": "https://open.spotify.com/track/3Zf16Lx6ShUcUgw7X8HwBR"
+    },
+    {
+      "album": {
+        "name": "Non Stop",
+        "url": "https://open.spotify.com/album/5MJA5T2zaFcFJwNRA6t6qq"
+      },
+      "artists": [
+        {
+          "name": "IPNDEGO",
+          "url": "https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189205,
+      "name": "Non Stop",
+      "url": "https://open.spotify.com/track/4jMzUThjgs1szjOYUZSzFi"
     },
     {
       "album": {
@@ -2646,6 +2708,28 @@
       "duration_ms": 167946,
       "name": "Pardon",
       "url": "https://open.spotify.com/track/2Fq5X3Mk5wBXm0Ba6HLhRC"
+    },
+    {
+      "album": {
+        "name": "ATHENA",
+        "url": "https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "Pardonne-moi",
+      "url": "https://open.spotify.com/track/4JOdBq2YxMlPhUdlVOzzd7"
     },
     {
       "album": {
@@ -3000,7 +3084,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 174061,
       "name": "Rassure-toi",
       "url": "https://open.spotify.com/track/5Y4ryOk5BqUVPOXLmiHKF0"
@@ -3678,6 +3762,24 @@
       "duration_ms": 182325,
       "name": "WAVYSHAWTY",
       "url": "https://open.spotify.com/track/0E1scA58vjVFBHQEzrlXZC"
+    },
+    {
+      "album": {
+        "name": "Wine Slow",
+        "url": "https://open.spotify.com/album/5m9GW55aDkffBclwaOYB6L"
+      },
+      "artists": [
+        {
+          "name": "Dof'",
+          "url": "https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181481,
+      "name": "Wine Slow",
+      "url": "https://open.spotify.com/track/5Spn4k5ScY07K4tiNka9G7"
     },
     {
       "album": {

@@ -8128,7 +8128,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 257592,
       "name": "La del Tik Tok",
       "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
@@ -9745,6 +9745,24 @@
     },
     {
       "album": {
+        "name": "Lujuria Favorita",
+        "url": "https://open.spotify.com/album/4ZlwFkoqPGd5xesy8jk4To"
+      },
+      "artists": [
+        {
+          "name": "Joshy Tripp",
+          "url": "https://open.spotify.com/artist/04wutY93WvFHxFz1Y0kHoB"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Lujuria Favorita",
+      "url": "https://open.spotify.com/track/5z6xis1rcEjjs7MuM4eL1x"
+    },
+    {
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -10108,7 +10126,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 147692,
       "name": "Mbappe",
       "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
@@ -16658,6 +16676,24 @@
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4G3PTss3mU33Tau7t4KbwE"
+    },
+    {
+      "album": {
+        "name": "Te Acuerdas",
+        "url": "https://open.spotify.com/album/2PGYv66qvNvkj9bHwJPzfg"
+      },
+      "artists": [
+        {
+          "name": "Armez",
+          "url": "https://open.spotify.com/artist/5SETXxt4h3XsZONZRoodOz"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Te Acuerdas",
+      "url": "https://open.spotify.com/track/1ETPrordns62g0uNKJmTre"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Judas O Outro",
-  "num_followers": 130539,
+  "num_followers": 130309,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGFhNjI3MTA2NzhmYmU5MjYyOGZmZWZlNDIzODU2OWZmMzk1MmU4",
+  "snapshot_id": "MCw4MTcxMzQ0YjExZTQ1M2FlZmIwM2JiYTQyMDFmYWIxMDJmZDQ5YjNl",
   "tracks": [
     {
       "added_at": "2023-10-06 03:40:30",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-10-06 03:40:30",
       "album": {
-        "name": "A Rosa e o Espinho: In Concert (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2Pm6LMv22egl44eo75SBgx"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        }
-      ],
-      "duration_ms": 288204,
-      "name": "A Rosa e o Espinho: In Concert - Ao Vivo",
-      "url": "https://open.spotify.com/track/5xjyvPqZN4i2cim98DvNx5"
-    },
-    {
-      "added_at": "2023-10-06 03:40:30",
-      "album": {
         "name": "A Alegria do Senhor (Ao Vivo)",
         "url": "https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 220185,
       "name": "A Alegria do Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp"
+    },
+    {
+      "added_at": "2023-10-06 03:40:30",
+      "album": {
+        "name": "A Rosa e o Espinho: In Concert (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2Pm6LMv22egl44eo75SBgx"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        }
+      ],
+      "duration_ms": 288204,
+      "name": "A Rosa e o Espinho: In Concert - Ao Vivo",
+      "url": "https://open.spotify.com/track/5xjyvPqZN4i2cim98DvNx5"
     },
     {
       "added_at": "2023-10-06 03:40:30",
@@ -607,6 +607,30 @@
     {
       "added_at": "2023-10-06 03:40:30",
       "album": {
+        "name": "Bitcoins",
+        "url": "https://open.spotify.com/album/02wxaUhRj9xk2Hstji66q0"
+      },
+      "artists": [
+        {
+          "name": "Catarina Von Bora",
+          "url": "https://open.spotify.com/artist/3DxQewmz2PoRvVVpWEv5iH"
+        },
+        {
+          "name": "Coletivo Candiero",
+          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
+        },
+        {
+          "name": "Marco Telles",
+          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
+        }
+      ],
+      "duration_ms": 222635,
+      "name": "Bitcoins",
+      "url": "https://open.spotify.com/track/7zaRisvugR7vIT5SuhIlsW"
+    },
+    {
+      "added_at": "2023-10-06 03:40:30",
+      "album": {
         "name": "Bartimeu",
         "url": "https://open.spotify.com/album/7BOTcVXmkt4fZaPEJpQXam"
       },
@@ -639,30 +663,6 @@
       "duration_ms": 298342,
       "name": "ELE \u00c9 EXALTADO",
       "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
-    },
-    {
-      "added_at": "2023-10-06 03:40:30",
-      "album": {
-        "name": "Bitcoins",
-        "url": "https://open.spotify.com/album/02wxaUhRj9xk2Hstji66q0"
-      },
-      "artists": [
-        {
-          "name": "Catarina Von Bora",
-          "url": "https://open.spotify.com/artist/3DxQewmz2PoRvVVpWEv5iH"
-        },
-        {
-          "name": "Coletivo Candiero",
-          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
-        },
-        {
-          "name": "Marco Telles",
-          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
-        }
-      ],
-      "duration_ms": 222635,
-      "name": "Bitcoins",
-      "url": "https://open.spotify.com/track/7zaRisvugR7vIT5SuhIlsW"
     },
     {
       "added_at": "2023-10-06 03:40:30",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-10-06 03:40:30",
       "album": {
-        "name": "Sou Teu",
-        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
-      },
-      "artists": [
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 350664,
-      "name": "Sou Teu",
-      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
-    },
-    {
-      "added_at": "2023-10-06 03:40:30",
-      "album": {
         "name": "Na Terra Parte 2/3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 314137,
       "name": "NAVES IMPERIAIS",
       "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
+    },
+    {
+      "added_at": "2023-10-06 03:40:30",
+      "album": {
+        "name": "Sou Teu",
+        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 350664,
+      "name": "Sou Teu",
+      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
     },
     {
       "added_at": "2023-10-06 03:40:30",

@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Anggi Marito
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Maulana Ardiansyah
 
-171 songs - 10 hr 55 min
+172 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Tak Ingin Kau Terluka](https://open.spotify.com/track/3HQgtw9EiCBPXsTQPrO2ZF) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx), [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Tak Ingin Kau Terluka](https://open.spotify.com/album/0uFlzYLmvdkLOffbpapdPW) | 4:09 | 2023-04-28 |  |
 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 | 2023-04-13 |  |
 | [Takut](https://open.spotify.com/track/3ciZ0IbqYoFV7R20D0TBgA) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Semoga Sembuh](https://open.spotify.com/album/6x67lQpaX0KyEpmso8bfqh) | 5:19 | 2022-03-24 | 2023-04-14 |
+| [Tanya Hatimu](https://open.spotify.com/track/22mwaQkDEwU2W1y99VazbD) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Tanya Hatimu](https://open.spotify.com/album/1gAg60OyhZl1W7VjmfjrXL) | 4:30 | 2023-10-12 |  |
 | [Tarik Ulur](https://open.spotify.com/track/7HBnW7E26egSo7p7DWs9XH) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Tarik Ulur](https://open.spotify.com/album/3nOtvP5lymtIrN6UT4M3kC) | 3:41 | 2022-03-24 | 2023-04-14 |
 | [Terbuai Cinta Palsu](https://open.spotify.com/track/0Lp52eUNJAfjMVz7jzKOHp) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Terbuai Cinta Palsu](https://open.spotify.com/album/0HLmj3fM9wlsqzNutT2AcP) | 4:56 | 2023-04-13 |  |
 | [terima kasih](https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20) | 3:24 | 2023-04-13 |  |

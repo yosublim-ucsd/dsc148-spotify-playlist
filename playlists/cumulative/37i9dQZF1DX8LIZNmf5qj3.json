@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-28",
-  "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : Majid Jordan",
+  "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : Tone Stith",
   "name": "Douces Vibes",
   "tracks": [
     {
@@ -717,6 +717,24 @@
     },
     {
       "album": {
+        "name": "Diamonds 'n' Pearls",
+        "url": "https://open.spotify.com/album/0UOWxAhlrrDokg0r3mRCYn"
+      },
+      "artists": [
+        {
+          "name": "OSA",
+          "url": "https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193784,
+      "name": "Diamonds 'n' Pearls",
+      "url": "https://open.spotify.com/track/22HvnAXszGc2IlIEkdNd76"
+    },
+    {
+      "album": {
         "name": "Don't Buy Me Roses",
         "url": "https://open.spotify.com/album/17vJ6f6m5ZKsCJ9mPvphjD"
       },
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 174518,
       "name": "happy im",
       "url": "https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k"
@@ -3103,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Regardless",
+        "url": "https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189257,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
+    },
+    {
+      "album": {
         "name": "Replacement",
         "url": "https://open.spotify.com/album/06t68XIDG4eI0cXsxZHEek"
       },
@@ -3224,7 +3260,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 220000,
       "name": "Rush",
       "url": "https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy"
@@ -3660,7 +3696,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 183705,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/33ivIh56dnTsz0kgQmLowp"

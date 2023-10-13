@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-658 songs - 1 day 18 hr 6 min
+659 songs - 1 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [All Hands On Deck!](https://open.spotify.com/track/44U31ReufqAcif83U3ACf1) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [All Hands On Deck!](https://open.spotify.com/album/0k10IRpaCJf3Ql8gOfrvob) | 3:13 | 2023-03-16 |  |
 | [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 | 2023-08-24 |  |
 | [All My Tomorrows](https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [All My Tomorrows](https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ) | 3:21 | 2023-01-05 |  |
-| [All My Tomorrows \- Live At Palais Des Congres, Paris / 1999](https://open.spotify.com/track/3VUFA0cz9OEGMshT0NK762) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Whisper Not](https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53) | 6:22 | 2021-12-16 |  |
+| [All My Tomorrows \- Live At Palais Des Congres, Paris / 1999](https://open.spotify.com/track/3VUFA0cz9OEGMshT0NK762) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Whisper Not](https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53) | 6:22 | 2021-12-16 | 2023-10-13 |
 | [All My Yesterdays](https://open.spotify.com/track/3luzrVexkgDKR74V2hBa7k) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [All My Yesterdays](https://open.spotify.com/album/6t1cUb9OL2TXYVxLZLYoCb) | 3:50 | 2023-02-02 |  |
 | [All Of The Little Things I Know](https://open.spotify.com/track/4Pu5Of7IBi6YWbaWzYiXeO) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [All Of The Little Things I Know](https://open.spotify.com/album/2LbaxpobqmYU9CQYwtlkwG) | 4:51 | 2023-08-10 |  |
 | [All the Stars](https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk) | [Franklin Trio](https://open.spotify.com/artist/6JKD55Y19og9ydmldZwVQw) | [All the Stars](https://open.spotify.com/album/1cEEgLpfKysT4Ey99HziNV) | 5:28 | 2022-11-11 |  |
@@ -213,6 +213,7 @@
 | [Guess the difference?](https://open.spotify.com/track/2tqQyujiRxEHUwRF9uNZCf) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Guess the difference?](https://open.spotify.com/album/1nVwsbQZUhWpFcgunecXfh) | 3:19 | 2023-06-01 |  |
 | [Half to the hills](https://open.spotify.com/track/2zPWKbfRZojow5x9ljlfUC) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Half to the hills](https://open.spotify.com/album/5SP8ji4ojuWDoE99p5CDKj) | 2:36 | 2023-08-10 |  |
 | [Hard and lonely road](https://open.spotify.com/track/2MbAdOCekIB8VJfH8b4zye) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Hard and lonely road](https://open.spotify.com/album/3gaUFY7kqSIM3SqY1OIefh) | 2:55 | 2023-06-01 |  |
+| [Have You Met Miss Jones?](https://open.spotify.com/track/2HzipY6RzuFXeem8dzqA66) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Jazz in Autumn: Oscar Peterson](https://open.spotify.com/album/4ciNFo3mAg97yUGQwPRe5y) | 4:10 | 2023-10-13 |  |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/2X5idL5vlUv99KEZVc1d4i) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson: Hits & Rarities](https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec) | 4:10 | 2022-09-28 | 2023-10-07 |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/6916T4FnaJvcmGl9PDbbz7) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40) | 4:10 | 2022-06-29 | 2022-10-02 |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/2Ob1A4itFyJWUa6fpwqAOs) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/7BVfV9OGD9tYdy7Jr5JLbt) | 4:13 | 2021-12-16 | 2022-07-29 |

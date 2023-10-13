@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Gardna ",
-  "num_followers": 199115,
+  "num_followers": 199133,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzM0YmVjNTRkOTBlMTliNjFkZjE1MzhkOTAzYThlOTYyNzZiZDk5",
+  "snapshot_id": "MCxiNTE3YWNmZmMxZmQ5ZGJlMmZlZTUzM2NlYjRjZTljZDQ4ZTdlMTll",
   "tracks": [
     {
       "added_at": "2023-09-22 00:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "<3<3<3",
-        "url": "https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 185357,
-      "name": "<3<3<3",
-      "url": "https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Gimme More",
         "url": "https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 234418,
       "name": "Gimme More",
       "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "<3<3<3",
+        "url": "https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 185357,
+      "name": "<3<3<3",
+      "url": "https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Solid Ground",
         "url": "https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be"
       },
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
-      },
-      "artists": [
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Take Me as I Am",
         "url": "https://open.spotify.com/album/0ENUjXIwpXUtga0c4P1BHc"
       },
@@ -1359,26 +1359,18 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Donny Don",
-        "url": "https://open.spotify.com/album/3UusxCt7bhvh5aT6Lwbqwr"
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg"
       },
       "artists": [
         {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        },
-        {
-          "name": "DEEPROT",
-          "url": "https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC"
-        },
-        {
-          "name": "MIK",
-          "url": "https://open.spotify.com/artist/4zotndJ6zbqir1ZkZNXzsm"
+          "name": "Jacko",
+          "url": "https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia"
         }
       ],
-      "duration_ms": 214545,
-      "name": "Donny Don",
-      "url": "https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c"
+      "duration_ms": 232888,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu"
     }
   ],
   "unique_name": "Bassline Bangers",

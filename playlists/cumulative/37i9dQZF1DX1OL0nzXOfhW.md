@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover：Lau Heung King
+> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover： LilithQueenB
 
-145 songs - 8 hr 20 min
+147 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Like a moth to a flame](https://open.spotify.com/track/3cOKFEcuKcOz1DkVqcdLCu) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Like a moth to a flame](https://open.spotify.com/album/4icgEpwdhmocUOOqL9wtC6) | 3:23 | 2022-05-26 | 2023-03-31 |
 | [Like a Moth to a Flame](https://open.spotify.com/track/48f7hMtjsoO2Wty4dRpVi2) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Like a Moth to a Flame](https://open.spotify.com/album/44iWUmlmDwVNO8ACGDaCLW) | 3:23 | 2023-03-30 | 2023-04-14 |
 | [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 | 2023-04-13 |  |
+| [linger on](https://open.spotify.com/track/2lhsjZvatWKISlxvOTXQiz) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [linger on](https://open.spotify.com/album/30vksPo2RNA1yAco5kitiA) | 3:24 | 2023-10-12 |  |
 | [LOOK AT ME](https://open.spotify.com/track/0q0J04NigVLzVEtTJ43Gtx) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT), [JOCELINE](https://open.spotify.com/artist/7JpBZy4NUF2irqBCpIg1N3), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [LOOK AT ME](https://open.spotify.com/album/4W86QzHSltzRLWcXnWkgjC) | 3:13 | 2023-04-13 |  |
 | [MAD CITY](https://open.spotify.com/track/2raebFPnm3Y1CXdQWNoel6) | [VGONLOKO](https://open.spotify.com/artist/33UR6DvTm32A3qVYeDuUG5), [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [MAD CITY](https://open.spotify.com/album/3wesOZL6BkAiUWxp1T2qzk) | 2:03 | 2023-08-31 |  |
 | [Main blanche](https://open.spotify.com/track/70c3xsQzUtUljpiPHbT8NG) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [Micol](https://open.spotify.com/artist/6sjrXwjrI7oTl73bClCKER) | [Main blanche](https://open.spotify.com/album/4X1XI4sACBsLxyYQqQaXeg) | 3:31 | 2023-04-13 |  |
@@ -78,6 +79,7 @@
 | [Sorry](https://open.spotify.com/track/6A6s2WwK6M1gZlba94ZlGY) | [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0), [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Sorry](https://open.spotify.com/album/0FLWu8HO5RigCOtTuBw2Th) | 3:33 | 2023-04-13 |  |
 | [Sponsor Me](https://open.spotify.com/track/4QXSWFFlH52EIpRhpiVqg7) | [hisbbuR](https://open.spotify.com/artist/6Bdob4UTEhELiXLw4tyGMa) | [Sponsor Me](https://open.spotify.com/album/6D3F6O4RM836vWlgl81zlb) | 3:40 | 2023-03-02 | 2023-04-14 |
 | [SUNSET UPSET](https://open.spotify.com/track/7zHyYPw35wSf10lWj9OnwY) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [SUNSET UPSET](https://open.spotify.com/album/3KblbNFtaeVD5Ze37v3aUR) | 3:34 | 2023-09-15 |  |
+| [SUPERSTAR](https://open.spotify.com/track/27ec2g3R7h4Hgz7KRUi7lK) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [SUPERSTAR](https://open.spotify.com/album/4nEdpyUXWcdA4DkBSt3k8b) | 2:37 | 2023-10-12 |  |
 | [Sway Away](https://open.spotify.com/track/2lZlk0IZvi3ywkOyEDECyM) | [Tomii Chan](https://open.spotify.com/artist/3agBVXHUmEfqP2IHLa9y14) | [Grow](https://open.spotify.com/album/1et4LPyDPAAdlHhyfydzDH) | 3:26 | 2022-05-26 | 2023-01-20 |
 | [Teaser](https://open.spotify.com/track/6cVTmFLm9hhu5KIKvlThQX) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Teaser](https://open.spotify.com/album/67BgP8ggs4tkB0hR90ehXA) | 2:52 | 2023-04-13 |  |
 | [The Bright Side](https://open.spotify.com/track/2S0xQFTOafzeErzgTaQavg) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [The Bright Side](https://open.spotify.com/album/6O3wNNGmDracvPAKqI7UwJ) | 4:10 | 2023-01-12 |  |

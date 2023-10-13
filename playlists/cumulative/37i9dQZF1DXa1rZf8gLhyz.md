@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-409 songs - 21 hr 29 min
+412 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Falling In Love With Love](https://open.spotify.com/track/0ydPwnqqLcnUkJpZ7tfYiu) | [Ray Horne](https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS) | [Falling In Love With Love](https://open.spotify.com/album/3OxWfxfTgrO0oiOmmFY9qL) | 2:58 | 2023-03-02 |  |
 | [Figured Out](https://open.spotify.com/track/03xzKObUNNpLWE4VhYkgOV) | [Jimmy Udonis](https://open.spotify.com/artist/4GqHV4WkSR2W6K3llEOf4X) | [Figured Out](https://open.spotify.com/album/2YYkG47uGuKWyhcUW6VclR) | 3:04 | 2023-08-31 |  |
 | [Fine And Dandy](https://open.spotify.com/track/4RunbgDCYZnbNRrjVkioGK) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Fine And Dandy](https://open.spotify.com/album/0UEOR08g3eEEDoI4v6UJjY) | 2:07 | 2023-05-11 |  |
+| [First Steps](https://open.spotify.com/track/38bC7Ca64SP0ea8bqBXpGT) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [First Steps](https://open.spotify.com/album/4ZsRYhlJzvIpSNucb51GvA) | 3:20 | 2023-10-13 |  |
 | [First\-rate](https://open.spotify.com/track/3MJfmq7LwGPkzmFm0BBcph) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [First\-rate](https://open.spotify.com/album/6P8l5ZJ9uktJb9Shz2lnTM) | 3:14 | 2023-06-22 |  |
 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 | 2021-12-07 | 2022-02-12 |
 | [Flaming Katy](https://open.spotify.com/track/4QX3pL1js2TmgU0TmkHbV5) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [Flaming Katy](https://open.spotify.com/album/3mlH54JsUWAjDCqUf2us5J) | 3:21 | 2023-09-22 |  |
@@ -223,6 +224,7 @@
 | [Lovely Day](https://open.spotify.com/track/7iZkVyfWkb1AzUwlNUyp3u) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Lovely Day](https://open.spotify.com/album/2AXd3f8LGtKWHQGcvIeoQK) | 3:25 | 2022-09-29 |  |
 | [Lover Man](https://open.spotify.com/track/23Q0MMsuaZkngkmx8CEEQl) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lover Man](https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz) | 3:28 | 2021-12-07 | 2022-02-16 |
 | [Lovers](https://open.spotify.com/track/6flWLUPwiaN9FkPm6CVzZz) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Lovers](https://open.spotify.com/album/0ohI92MObxRxyDbafFA0oS) | 2:27 | 2022-12-01 |  |
+| [Lover´s Lullaby](https://open.spotify.com/track/7wuxoIozxMyvupQcb4Yh7P) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Lover´s Lullaby](https://open.spotify.com/album/5msQgWuEsEnoCs6TQ5M0mC) | 3:03 | 2023-10-13 |  |
 | [Lullaby for Lilly](https://open.spotify.com/track/2hAqVQHxZrDbDYvX0rR1zZ) | [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Lullaby for Lilly](https://open.spotify.com/album/11AeTqQfSfhLMqjlar2RaC) | 3:15 | 2022-10-06 |  |
 | [Mademoiselle de Paris](https://open.spotify.com/track/4glQlLaG9HCB1w15qrPYnn) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [Mademoiselle de Paris](https://open.spotify.com/album/2MGgsKh8Vv7WfbuBwOMHfZ) | 2:01 | 2023-05-11 |  |
 | [Marianne](https://open.spotify.com/track/3aH1PozU6rrvTLGlCISgAH) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Marianne](https://open.spotify.com/album/0X43eSNXIfJFDw6FpKWU2N) | 2:09 | 2023-05-11 |  |
@@ -233,6 +235,7 @@
 | [Misty](https://open.spotify.com/track/0fGNaE47Hx1SO8kEKtkGxb) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Misty](https://open.spotify.com/album/3zOiXs8f5OfRasBgZ7VNcJ) | 2:13 | 2021-12-07 |  |
 | [Moon River](https://open.spotify.com/track/3qBUFn6AgcHTI3tkg99lDD) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Moon River](https://open.spotify.com/album/0wFFjyx3YaqOLMZnBt3CQx) | 3:31 | 2021-12-07 |  |
 | [Moonlight In Vermont](https://open.spotify.com/track/5opHsxh5NPey4qGcPmDTW6) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Moonlight In Vermont](https://open.spotify.com/album/5NFah3XIdK3KkaAFblamOk) | 2:58 | 2023-06-15 |  |
+| [Moonlight Over Manhattan](https://open.spotify.com/track/1d6SiPIjnEc0Q7H8vHIetM) | [Claire Martinelle](https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl) | [Moonlight Over Manhattan](https://open.spotify.com/album/1EeXlyJEGwucXGlmivU95U) | 3:07 | 2023-10-13 |  |
 | [Moonlight Serenade](https://open.spotify.com/track/6T8oRVoOGPjWq6p3HLcG45) | [Nineve Wilson](https://open.spotify.com/artist/4ab8hugVrmFzuV4AEGXHgr) | [Moonlight Serenade](https://open.spotify.com/album/4BGiEAiquVCGRpdKVTp9NG) | 3:30 | 2022-06-28 |  |
 | [Moonlit Melodies](https://open.spotify.com/track/2UceJwwq4nKC1xJRqfHrRD) | [Hunter Paige](https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ) | [Moonlit Melodies](https://open.spotify.com/album/4oyDxC2aBhxE79tbJkBUFe) | 1:56 | 2023-05-11 | 2023-08-19 |
 | [Moonsteps](https://open.spotify.com/track/0Pq3SEDqVDKs0uIFdxDNAE) | [Dorothy Mckenzie](https://open.spotify.com/artist/3N3usdjE1BJjnxplqtLXcA) | [Moonsteps](https://open.spotify.com/album/3cIasriXmdPnRk9r9QSGq9) | 2:03 | 2021-12-07 |  |

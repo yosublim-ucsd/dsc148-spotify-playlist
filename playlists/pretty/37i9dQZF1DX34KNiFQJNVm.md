@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Kayblack, Orochi, Zé Neto e Cristiano, Marvvila e Ferrugem, Zé Vaqueiro e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,915,785 likes - 96 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,912,777 likes - 96 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 95 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 |
 | 96 | [Ghost](https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Ghost](https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc) | 3:33 |
 
-Snapshot ID: `MCw4MzdjZTQ2YmU4ZTU5YjVkZjEwNjNlMGNhN2QxOGE2OWVhOTA1MTJl`
+Snapshot ID: `MCw1ODViZTY1MTdiYmU3OTMwZDkxYWZlNGE0MmQ1MTRiN2VlOTE1ZGY2`

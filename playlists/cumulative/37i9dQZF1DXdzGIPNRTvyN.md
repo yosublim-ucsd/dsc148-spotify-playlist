@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-154 songs - 7 hr 4 min
+155 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Forest Dream](https://open.spotify.com/track/3dSrZUj12wbg8N4615IQRR) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Forest Dream](https://open.spotify.com/album/2M8KpQdopdn3r8tgG8FOoN) | 2:36 | 2023-07-28 |  |
 | [Forest Piano Music for Work and Reading](https://open.spotify.com/track/4OhSZK4o9klyC0dBQXkWQQ) | [Japan BGM Improvement committee](https://open.spotify.com/artist/28PnH5DreNhBHE1oo8d6Rv) | [Forest Coating Music Healing piano like being in the forest, for morning cafe, for working, teleworking, napping Forest sound, river sound with white noise ASMR](https://open.spotify.com/album/11LxODCrOmiAzbPXdRKdz9) | 2:06 | 2023-01-24 |  |
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-01-24 |  |
-| [Friður](https://open.spotify.com/track/1rkmSbMTJ4kSNed9O4YwSt) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Friður](https://open.spotify.com/album/4Fu7EYmSZhFNnLEvf4u7VO) | 3:14 | 2023-09-28 |  |
+| [Friður](https://open.spotify.com/track/1rkmSbMTJ4kSNed9O4YwSt) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Friður](https://open.spotify.com/album/4Fu7EYmSZhFNnLEvf4u7VO) | 3:14 | 2023-09-28 | 2023-10-13 |
 | [Glitching](https://open.spotify.com/track/5mGFbVJPUbx8ml6o3gFzcI) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Glitching](https://open.spotify.com/album/5tEOEdmq5hskUT0cNQlEj8) | 2:27 | 2023-05-19 | 2023-07-29 |
 | [Godric](https://open.spotify.com/track/4UzCqaekJitDWMpejVwnZa) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Godric](https://open.spotify.com/album/48nN109FvJCU8OqD7U18wm) | 3:01 | 2023-01-24 |  |
 | [Growing Tall](https://open.spotify.com/track/5Icz0gJeaDlMBUQLOcBDPV) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [Growing Tall](https://open.spotify.com/album/43g1BdXllghZAwj2t4Mhjo) | 4:20 | 2023-04-06 |  |
@@ -81,6 +81,7 @@
 | [Lighten](https://open.spotify.com/track/4Q9hxYb7d3kCBRAdPikAL2) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Lighten](https://open.spotify.com/album/6rdXPLnV2oX5aAZhK1ZyDR) | 3:06 | 2023-09-01 |  |
 | [Lillie](https://open.spotify.com/track/2eXvqqozCUki1p7L7hV4k3) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Lillie](https://open.spotify.com/album/0czeIb0Z1yrEC1svzBYnxA) | 3:27 | 2023-09-18 |  |
 | [Lily's Arrival](https://open.spotify.com/track/0KdOX4bbKodh8fWhbUgRLe) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Lily's Arrival](https://open.spotify.com/album/2lmh2HkpKRGJBjVLNf7D8Z) | 2:58 | 2023-01-24 |  |
+| [Little Creek](https://open.spotify.com/track/243ZkbrvYLMB7i1ni3sxlo) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Little Creek](https://open.spotify.com/album/2JrZeRYzlInaQwWbbkU3ZB) | 2:49 | 2023-10-06 |  |
 | [Little Rabbit](https://open.spotify.com/track/4ANwAzJKUZv8n3DmUkOv6b) | [Mind Shores](https://open.spotify.com/artist/5rMYtkq4BVMFCtgXOsIyxK) | [Little Rabbit](https://open.spotify.com/album/5bU0ZA8rrJumX16meqGpSV) | 3:07 | 2023-09-28 |  |
 | [Looking for the Self](https://open.spotify.com/track/284P9JZUDrh9YQjL78vR9g) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs) | [Ascend](https://open.spotify.com/album/2g8yMFt1ZbttMXChvjKIDv) | 3:13 | 2023-02-13 |  |
 | [Lost in the Moment](https://open.spotify.com/track/17FsAMOBtY4ybQf8SzSkyq) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Lost in the Moment](https://open.spotify.com/album/5hzELwW13sWrdWVJmMtzzz) | 2:31 | 2023-03-13 |  |

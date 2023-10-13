@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 
 > FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,124 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,131 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 4 | [JOY \(I Did You Wrong\)](https://open.spotify.com/track/31ZBEAVjrABh1eSSDYPnRc) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(I Did You Wrong\)](https://open.spotify.com/album/5a929ZHQr9ctGnhlnfWjra) | 3:08 |
 | 5 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 6 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 |
-| 7 | [Landscape](https://open.spotify.com/track/3mhmsgWbnEex2qBUZEUnCK) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc) | [Landscape](https://open.spotify.com/album/3Wzgh6znehuaK9Yu2IdZ6s) | 2:40 |
+| 7 | [Landscape](https://open.spotify.com/track/3DJGNgVK7g18EgpyKvy5T9) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc) | [The Art Of Change](https://open.spotify.com/album/2w5ieF6SZV9flk1gkOgzdK) | 2:40 |
 | 8 | [Dark Imagination](https://open.spotify.com/track/2HG5pRpERRJ2wbln73lvLS) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Walk of Fire](https://open.spotify.com/album/0K21lLIS1d13QlL5jhHgi3) | 2:59 |
 | 9 | [Caught in the Moment](https://open.spotify.com/track/5rG3DY9m1qxdr3jYSgPlJF) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [Caught in the Moment](https://open.spotify.com/album/30UswNsDzEdhRmYM9rZBJJ) | 2:49 |
 | 10 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 59 | [JUMP!](https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [JUMP!](https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD) | 3:14 |
 | 60 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 |
 
-Snapshot ID: `MCw3MzJlM2YxOTYwZGQyYzg2NDZmZDYyOTM1MDY4NGQ2OGU4N2Q2MDNm`
+Snapshot ID: `MCw4NjFmOTZkYWY3ZWM4MGQ0NTIzN2Y1MDg4MWRhMDk0YzM4YjFlY2Rj`

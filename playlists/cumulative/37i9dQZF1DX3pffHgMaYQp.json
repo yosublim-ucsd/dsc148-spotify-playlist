@@ -219,6 +219,28 @@
     },
     {
       "album": {
+        "name": "Ardiendo Lento",
+        "url": "https://open.spotify.com/album/6rYACTUC0TXKlu3pc3dbID"
+      },
+      "artists": [
+        {
+          "name": "Delux",
+          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
+        },
+        {
+          "name": "Blegh! Label",
+          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176636,
+      "name": "Ardiendo Lento",
+      "url": "https://open.spotify.com/track/7G3WYQW7DrFjmm8a4wPleH"
+    },
+    {
+      "album": {
         "name": "R.o.c.k.",
         "url": "https://open.spotify.com/album/3FFaVqWKX7AJLoKiSL0v5M"
       },

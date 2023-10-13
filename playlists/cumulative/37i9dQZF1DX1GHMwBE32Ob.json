@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The sounds keeping the streets of Nigeria on fire. \nRIP Mohbad",
+  "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Shallipopi",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -1976,7 +1976,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 164571,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/5WKHQJCEHNqzZHZduHGrHc"
@@ -2704,6 +2704,24 @@
       "duration_ms": 155897,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+    },
+    {
+      "album": {
+        "name": "Things on Things",
+        "url": "https://open.spotify.com/album/5OXS5DoiCaozs5l7WztbLc"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196179,
+      "name": "Things on Things",
+      "url": "https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE"
     },
     {
       "album": {

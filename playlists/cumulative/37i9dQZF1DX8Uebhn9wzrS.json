@@ -2091,6 +2091,42 @@
     },
     {
       "album": {
+        "name": "autumn nights",
+        "url": "https://open.spotify.com/album/5EcvO8QOBEhimWNWDq6rao"
+      },
+      "artists": [
+        {
+          "name": "Sto Nii",
+          "url": "https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95999,
+      "name": "autumn nights",
+      "url": "https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot"
+    },
+    {
+      "album": {
+        "name": "Autumn Stroll",
+        "url": "https://open.spotify.com/album/4n6WWpN0P3MsBU4OTFXFIM"
+      },
+      "artists": [
+        {
+          "name": "Pi Teddy",
+          "url": "https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118411,
+      "name": "Autumn Stroll",
+      "url": "https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO"
+    },
+    {
+      "album": {
         "name": "avant garde",
         "url": "https://open.spotify.com/album/5oYB1uIVN78liVioenI2ro"
       },
@@ -6706,7 +6742,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 143376,
       "name": "Dear Mom",
       "url": "https://open.spotify.com/track/6V7trMvgFjmvsZ6dI5sslz"
@@ -7354,7 +7390,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 137790,
       "name": "dopeness miles",
       "url": "https://open.spotify.com/track/3WdRc55dm15xX1Zxg96UvA"
@@ -8781,6 +8817,24 @@
     },
     {
       "album": {
+        "name": "Far East",
+        "url": "https://open.spotify.com/album/0FTsRS7Jn5xpr3evrJpPsV"
+      },
+      "artists": [
+        {
+          "name": "Darren Spice",
+          "url": "https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "Far East",
+      "url": "https://open.spotify.com/track/6PQdebTH2xQn4mURkNP4IU"
+    },
+    {
+      "album": {
         "name": "aurora",
         "url": "https://open.spotify.com/album/6ImO1VVSZr0cpYuhtBbXvp"
       },
@@ -9226,7 +9280,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 119200,
       "name": "First Stop//Sao Paolo",
       "url": "https://open.spotify.com/track/3JkLMtATPlszhCNmWFHUzs"
@@ -9519,6 +9573,24 @@
     },
     {
       "album": {
+        "name": "Flower Kingdom",
+        "url": "https://open.spotify.com/album/0ZyDmjkemTFFIGrlenJiiV"
+      },
+      "artists": [
+        {
+          "name": "Mossdeep",
+          "url": "https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128225,
+      "name": "Flower Kingdom",
+      "url": "https://open.spotify.com/track/1s8hwjA2u5dOpU0SEoxDxz"
+    },
+    {
+      "album": {
         "name": "Flowers Arise",
         "url": "https://open.spotify.com/album/3ZgCNLvHIH21TYYYOaZ5xm"
       },
@@ -9570,7 +9642,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 104819,
       "name": "Fly With Me",
       "url": "https://open.spotify.com/track/0utlMloUqhPm1sHdRbRX0d"
@@ -9982,6 +10054,24 @@
       "duration_ms": 153968,
       "name": "Fresh Tires",
       "url": "https://open.spotify.com/track/6LLsU0zVgPcQKb7Rnf1MeV"
+    },
+    {
+      "album": {
+        "name": "Friday Dazed",
+        "url": "https://open.spotify.com/album/3r7qEzzlkQNFSQOuggOQm4"
+      },
+      "artists": [
+        {
+          "name": "Alek Faith",
+          "url": "https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132857,
+      "name": "Friday Dazed",
+      "url": "https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9"
     },
     {
       "album": {
@@ -12057,6 +12147,24 @@
     },
     {
       "album": {
+        "name": "Hokkaido Breeze",
+        "url": "https://open.spotify.com/album/2FuriS42295H1EzGOwZV6x"
+      },
+      "artists": [
+        {
+          "name": "Furry Beats",
+          "url": "https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140470,
+      "name": "Hokkaido Breeze",
+      "url": "https://open.spotify.com/track/20aWMDQFYgx0da54JctdZd"
+    },
+    {
+      "album": {
         "name": "Hold Me Tight",
         "url": "https://open.spotify.com/album/40sNkUclUZpnjZpY49kDBE"
       },
@@ -13122,7 +13230,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 157688,
       "name": "Inspiration Sign",
       "url": "https://open.spotify.com/track/4MpKdXBjzGUvJr4dY6Klyd"
@@ -14689,6 +14797,24 @@
     },
     {
       "album": {
+        "name": "less-than-flattering",
+        "url": "https://open.spotify.com/album/1ETVGZXDwls6QNfhhil7aj"
+      },
+      "artists": [
+        {
+          "name": "Slow Bounce",
+          "url": "https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127788,
+      "name": "less-than-flattering",
+      "url": "https://open.spotify.com/track/7ay42oCBar4ZtjwlvqyKyt"
+    },
+    {
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/5QWRTAdCTbDLhjEWbG1odA"
       },
@@ -15670,7 +15796,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 180000,
       "name": "Love Sh*t",
       "url": "https://open.spotify.com/track/5JqE7u1HDhoE1F93b4OUAH"
@@ -16562,6 +16688,24 @@
       "duration_ms": 126666,
       "name": "Melt",
       "url": "https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ"
+    },
+    {
+      "album": {
+        "name": "Meltdown",
+        "url": "https://open.spotify.com/album/3fedlhIrSKvzsgd8MV7sEg"
+      },
+      "artists": [
+        {
+          "name": "Arlos",
+          "url": "https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204874,
+      "name": "Meltdown",
+      "url": "https://open.spotify.com/track/4gLJWrqUpHLaiDH7K276l9"
     },
     {
       "album": {
@@ -17640,7 +17784,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 128000,
       "name": "Morning Lights",
       "url": "https://open.spotify.com/track/48VvpSV8VqQuX47GMCh2vT"
@@ -19138,7 +19282,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 172173,
       "name": "Off you go!",
       "url": "https://open.spotify.com/track/29szXKFMvX88CTRKJQ2S87"
@@ -19532,6 +19676,24 @@
       "duration_ms": 136311,
       "name": "oof",
       "url": "https://open.spotify.com/track/5sY3HbCZXyKPzTNewxoleJ"
+    },
+    {
+      "album": {
+        "name": "Oonga Boonga",
+        "url": "https://open.spotify.com/album/4cxVtYbW26RwdkQc8H00Pk"
+      },
+      "artists": [
+        {
+          "name": "cakofonik",
+          "url": "https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125853,
+      "name": "Oonga Boonga",
+      "url": "https://open.spotify.com/track/26QyP0HrEPW0EAggeRovc5"
     },
     {
       "album": {
@@ -20148,6 +20310,24 @@
       "duration_ms": 140625,
       "name": "Pareidolia",
       "url": "https://open.spotify.com/track/6jhIjPKENwizw0sKmJNiUO"
+    },
+    {
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41"
+      },
+      "artists": [
+        {
+          "name": "Trippy Park",
+          "url": "https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124411,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB"
     },
     {
       "album": {
@@ -22895,6 +23075,24 @@
     },
     {
       "album": {
+        "name": "Sayuri",
+        "url": "https://open.spotify.com/album/04u4KqVs87eqD8smvP7Ril"
+      },
+      "artists": [
+        {
+          "name": "Fritz Pants",
+          "url": "https://open.spotify.com/artist/6gGcdv1surWW1Mh32Q3GF1"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Sayuri",
+      "url": "https://open.spotify.com/track/2RluOZNvc49Ddj3cqLUUSR"
+    },
+    {
+      "album": {
         "name": "Scarlet Sky",
         "url": "https://open.spotify.com/album/3FDppEDVawmY49DG2Kf8tz"
       },
@@ -25598,7 +25796,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 96000,
       "name": "Summer Vibes",
       "url": "https://open.spotify.com/track/7sWiHeHo8opH0bOC8irUrQ"
@@ -26262,6 +26460,24 @@
       "duration_ms": 136000,
       "name": "Swamplands",
       "url": "https://open.spotify.com/track/47VW4X0nwm5uXQ4KzOjW37"
+    },
+    {
+      "album": {
+        "name": "Swaype",
+        "url": "https://open.spotify.com/album/14psBo6XTptrqiGfRHGRow"
+      },
+      "artists": [
+        {
+          "name": "Wavy Naps",
+          "url": "https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145945,
+      "name": "Swaype",
+      "url": "https://open.spotify.com/track/0YRWFGr8QkH3GhmcLYOUTv"
     },
     {
       "album": {

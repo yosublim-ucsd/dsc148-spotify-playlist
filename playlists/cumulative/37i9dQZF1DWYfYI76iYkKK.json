@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 211573,
       "name": "\u5149\u5708",
       "url": "https://open.spotify.com/track/5uixm2byd4jkWwQTBWd48a"
@@ -2654,7 +2654,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 239999,
       "name": "\u5bb6\u7684\u5149\uff08\u6668\u5149\u7248\uff09",
       "url": "https://open.spotify.com/track/7DnMlzNsSQabH38eJ1UVTy"
@@ -2877,6 +2877,24 @@
     },
     {
       "album": {
+        "name": "BITE BACK",
+        "url": "https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Wang",
+          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238336,
+      "name": "\u5fd8\u4e86\u8aaa\uff0c\u4f60\u5df2\u7d93\u5f88\u597d\u4e86",
+      "url": "https://open.spotify.com/track/5TzZwL4gU69qHiKKAkCXNo"
+    },
+    {
+      "album": {
         "name": "\u767e\u5473\u5c0f\u5eda\u795e \u4e2d\u5143\u5927\u9910 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2gaHcID7JZU541ZenQQGx2"
       },
@@ -2960,7 +2978,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 136706,
       "name": "\u6084\u6084\u544a\u8a34\u4f60",
       "url": "https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB"
@@ -2978,7 +2996,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 189190,
       "name": "\u60b2\u50b7\u7684\u4e94\u500b\u6b65\u9a5f - Live Session",
       "url": "https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I"
@@ -3512,6 +3530,24 @@
       "duration_ms": 216689,
       "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
       "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
+    },
+    {
+      "album": {
+        "name": "\u6211\u9084\u8981\u8d70\u591a\u9060",
+        "url": "https://open.spotify.com/album/54aCj8Q29YcZCmMsXcLCWY"
+      },
+      "artists": [
+        {
+          "name": "W.M.L",
+          "url": "https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156214,
+      "name": "\u6211\u9084\u8981\u8d70\u591a\u9060",
+      "url": "https://open.spotify.com/track/1cXM5i4zuIANClYgVL1AIM"
     },
     {
       "album": {
@@ -4558,7 +4594,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 140500,
       "name": "\u7518\u963f\u5167 Really? - \u4e0d\u63d2\u96fb\u96d9\u5973\u8072\u7248",
       "url": "https://open.spotify.com/track/392mQWSAruZOLaeUWnpkWh"
@@ -5865,6 +5901,28 @@
     },
     {
       "album": {
+        "name": "\u592a\u68d2\u4e86 ! \u6211\u4e00\u7121\u662f\u8655\u7684\u4eba\u751f",
+        "url": "https://open.spotify.com/album/3WgivObPb5FqUn6GahQlkC"
+      },
+      "artists": [
+        {
+          "name": "K6\u5289\u5bb6\u51f1",
+          "url": "https://open.spotify.com/artist/3cCMfkP8YoLtZv9uJhiMTe"
+        },
+        {
+          "name": "Pei-Yu Hung",
+          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192463,
+      "name": "\u9670\u6697\u9762",
+      "url": "https://open.spotify.com/track/1Vys2tZ88SvPb3dQoBPDz7"
+    },
+    {
+      "album": {
         "name": "\u5713",
         "url": "https://open.spotify.com/album/6v0hPt6eumjS9lYTtkminJ"
       },
@@ -6042,6 +6100,42 @@
       "duration_ms": 229887,
       "name": "\u9858\u6eab\u67d4\u7684\u59b3\u88ab\u4e16\u754c\u6eab\u67d4\u4ee5\u5f85",
       "url": "https://open.spotify.com/track/6j28GqOQbGM8bbfKbh0Zy1"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u6ce2\u7684\u7a7a",
+        "url": "https://open.spotify.com/album/3vDDGWmWMB231B2kizTDMy"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u9280\u96ea",
+          "url": "https://open.spotify.com/artist/3k1MXmOBhBvabRvj8Si6H5"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182272,
+      "name": "\u98a8\u6ce2\u7684\u7a7a",
+      "url": "https://open.spotify.com/track/3CxvgQvKh8Yt6tZDenVHsz"
+    },
+    {
+      "album": {
+        "name": "\u98db\u7fd4\u7684\u5922",
+        "url": "https://open.spotify.com/album/1B98jMihMehiJMO9cNhArB"
+      },
+      "artists": [
+        {
+          "name": "\u66fe\u5609\u5049",
+          "url": "https://open.spotify.com/artist/6ZgzedIaClSQzNFBoF0Zq7"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254862,
+      "name": "\u98db\u7fd4\u7684\u5922",
+      "url": "https://open.spotify.com/track/6BJEAvFxqZYysvtedsMmQI"
     },
     {
       "album": {

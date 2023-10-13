@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for all your activities.
 
-921 songs - 2 day 7 hr 48 min
+923 songs - 2 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [As Long As I Live](https://open.spotify.com/track/2Q3QWcfG4G8K5cGx1nG2Hf) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [In Your Own Sweet Way](https://open.spotify.com/album/6kz1KxMklEoHyqx5CjzGG6) | 2:32 | 2023-01-05 |  |
 | [As Time Goes By](https://open.spotify.com/track/2FgLhm6EwB0Ix8XLHABFkC) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [As Time Goes By](https://open.spotify.com/album/43blKT5tNQotndvCtQGMhg) | 4:10 | 2022-09-29 | 2023-02-24 |
 | [Ascent](https://open.spotify.com/track/4d2YgepBRyYjr1EXM6slZq) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:10 | 2022-01-17 | 2023-03-03 |
+| [At Dawn](https://open.spotify.com/track/5nLMgWEQA33IDqZJyCkHND) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Paris in Spring](https://open.spotify.com/album/6j3hvmLvXl1eIHonHyj8cV) | 3:53 | 2023-10-13 |  |
 | [At Dusk](https://open.spotify.com/track/0XVdTFUuT5GpxURuICaFKK) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [At Dusk](https://open.spotify.com/album/5uRwkihneepvVSGokwLDNO) | 3:24 | 2022-08-09 |  |
 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 | 2022-05-09 | 2023-04-14 |
 | [Audrey and Jack](https://open.spotify.com/track/6Zxx0HOw0vDjvO5URV6C4b) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Audrey and Jack](https://open.spotify.com/album/6bRuZkAUye4yQB0kaymNcO) | 3:23 | 2023-08-10 |  |
@@ -305,6 +306,7 @@
 | [Honey, I'm Glad You're Mine](https://open.spotify.com/track/4L6de6eylUUkvtJYVknqR0) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Honey, I'm Glad You're Mine](https://open.spotify.com/album/6hAOj6NbTdS278alY0xTYp) | 2:17 | 2022-12-08 |  |
 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-05-31 |  |
 | [Hoppet](https://open.spotify.com/track/50QdRhmKuE8C2z1NGkiKxB) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Hoppet](https://open.spotify.com/album/6IOoncN42rM25gZJx0rp8J) | 2:35 | 2022-01-17 |  |
+| [How About You](https://open.spotify.com/track/4tVteS21UzbqesfNG7uT8D) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [How About You](https://open.spotify.com/album/5DUxax2EBK8DvoRMmiEi7m) | 3:22 | 2023-10-13 |  |
 | [How Deep Is The Ocean](https://open.spotify.com/track/3vJ0oV1CUjal1rIHqRI4is) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [How Deep Is The Ocean](https://open.spotify.com/album/4A5xzotabZ3PhlTTynmrWJ) | 3:46 | 2022-08-09 |  |
 | [How I Sing](https://open.spotify.com/track/77eZBHfUgVSPqatPpsdY1m) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [How I Sing](https://open.spotify.com/album/3MjBszHfA4TdioPXyDoKR4) | 3:36 | 2022-01-17 |  |
 | [How Long Has This Been Going On](https://open.spotify.com/track/4SVw0yf2lf4JwtXAoTkbmB) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [At The Blue Note](https://open.spotify.com/album/6sJLTN1J3PhPQ0OybVsqVz) | 9:09 | 2022-01-17 | 2022-03-17 |
@@ -713,7 +715,7 @@
 | [Someone To Watch Over Me](https://open.spotify.com/track/1Iup2scUgNLhmq4q7rLG6l) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Someone To Watch Over Me](https://open.spotify.com/album/2yIGS4xpQFVmE1mjj55buK) | 3:38 | 2023-08-10 |  |
 | [Something about him](https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Something about him](https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx) | 2:40 | 2023-05-11 |  |
 | [Sometime Ago](https://open.spotify.com/track/6HZgxhesyOy8jkTiAFfQmR) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Sometime Ago](https://open.spotify.com/album/3gDtm0TuOChwQxe1sg1W9q) | 2:40 | 2022-08-16 |  |
-| [Sometimes](https://open.spotify.com/track/5cSBt7nIxZ8oRhUmn5YbT0) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Sometimes](https://open.spotify.com/album/26YUzNz77yd2ca8gLBSqXT) | 3:03 | 2022-04-01 |  |
+| [Sometimes](https://open.spotify.com/track/5cSBt7nIxZ8oRhUmn5YbT0) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Sometimes](https://open.spotify.com/album/26YUzNz77yd2ca8gLBSqXT) | 3:03 | 2022-04-01 | 2023-10-13 |
 | [Song of The Sirens](https://open.spotify.com/track/6SNXb4pUG3LjS2601AKT3G) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Song of The Sirens](https://open.spotify.com/album/4pBG3KdjOugx20kMiSGTmP) | 3:35 | 2022-06-07 |  |
 | [Soul Eyes](https://open.spotify.com/track/2WwFItAZw5RcYv3rECNFIZ) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [Inside Out](https://open.spotify.com/album/6TiMFHnW1Ce36USbc8FAoC) | 4:43 | 2022-01-17 | 2023-06-09 |
 | [Soulful Serenade](https://open.spotify.com/track/45FLYbhZeKWABexWqBo5Un) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Soulful Serenade](https://open.spotify.com/album/04M2iGk6Rwm8qLa2OMQSVZ) | 3:21 | 2023-05-11 |  |

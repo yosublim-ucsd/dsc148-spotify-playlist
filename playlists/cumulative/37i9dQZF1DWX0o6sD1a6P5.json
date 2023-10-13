@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Patoranking",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Franglish",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 188567,
       "name": "Acc\u00e9l\u00e8re",
       "url": "https://open.spotify.com/track/6m70gILFez0tvkx5dCFPbZ"
@@ -3789,6 +3789,28 @@
     },
     {
       "album": {
+        "name": "Faut pas flipper (feat. Vegedream)",
+        "url": "https://open.spotify.com/album/5TvUdciYK3xUuJHmrscFbg"
+      },
+      "artists": [
+        {
+          "name": "Junior Bvndo",
+          "url": "https://open.spotify.com/artist/58lWi9l7zeTHdUz6Glzm9p"
+        },
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176086,
+      "name": "Faut pas flipper (feat. Vegedream)",
+      "url": "https://open.spotify.com/track/2gInYqDUknSlU5CBgPKEiv"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -3826,6 +3848,24 @@
       "duration_ms": 198347,
       "name": "Feeling Funny",
       "url": "https://open.spotify.com/track/73MwJHhrrDbOlzWTCziVJr"
+    },
+    {
+      "album": {
+        "name": "Fefe Ne Fefe",
+        "url": "https://open.spotify.com/album/24ZhqMl3si2HuUPZC9IjZc"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "Fefe Ne Fefe",
+      "url": "https://open.spotify.com/track/4RxqGYYDnx1R6JfQAfd7B9"
     },
     {
       "album": {
@@ -5810,7 +5850,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 179000,
       "name": "Maria",
       "url": "https://open.spotify.com/track/30nVi5z6ndLqJ8mdw7PX6p"
@@ -6076,6 +6116,28 @@
       "duration_ms": 171724,
       "name": "Mufasa",
       "url": "https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7"
+    },
+    {
+      "album": {
+        "name": "Mumu",
+        "url": "https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Mumu",
+      "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
     },
     {
       "album": {
@@ -7433,6 +7495,28 @@
     },
     {
       "album": {
+        "name": "Pilolo",
+        "url": "https://open.spotify.com/album/7rwEUUHrbUckRmLhuDNklS"
+      },
+      "artists": [
+        {
+          "name": "Titai",
+          "url": "https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT"
+        },
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172081,
+      "name": "Pilolo",
+      "url": "https://open.spotify.com/track/6rptigUoXEgL7aExnbfPuu"
+    },
+    {
+      "album": {
         "name": "Hackc\u0153ur",
         "url": "https://open.spotify.com/album/31VIis4tdT8O44y88gN4H4"
       },
@@ -7514,7 +7598,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 201250,
       "name": "Plus jamais",
       "url": "https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD"
@@ -9184,7 +9268,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 174480,
       "name": "Tiki Taka",
       "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"

@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Sof\u00eda Reyes.",
-  "num_followers": 8120,
+  "num_followers": 8140,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjkwZDQ3YTllNzZlZmIyZjczNTYwZDBlZTEzZDQ3MjIxODYzZjQ5",
+  "snapshot_id": "MCw3NWYxYzYzZDk0MjU4NDdhYjkyZTgzODQ0ZTZhNDAzZWFlMzJlY2Uw",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 152425,
-      "name": "1Amor",
-      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "XT4S1S",
         "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 219320,
       "name": "XT4S1S",
       "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 152425,
+      "name": "1Amor",
+      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
-        "url": "https://open.spotify.com/album/21lNO9EMMnQMQsXytV9ORY"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 162816,
-      "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
-      "url": "https://open.spotify.com/track/4FJHG1aW704Cq66OxuyOrq"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Correcaminos",
         "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
       },
@@ -627,22 +607,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Emeyc\u00e9",
-        "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
+        "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
+        "url": "https://open.spotify.com/album/21lNO9EMMnQMQsXytV9ORY"
       },
       "artists": [
         {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
         },
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 176222,
-      "name": "Emeyc\u00e9",
-      "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
+      "duration_ms": 162816,
+      "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
+      "url": "https://open.spotify.com/track/4FJHG1aW704Cq66OxuyOrq"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -663,6 +643,26 @@
       "duration_ms": 158080,
       "name": "Fantasi",
       "url": "https://open.spotify.com/track/0r2PZjzpfFne09oljJZEU8"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Emeyc\u00e9",
+        "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 176222,
+      "name": "Emeyc\u00e9",
+      "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 121836,
+      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "EL DRAG\u00d3N",
         "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 206400,
       "name": "TURISMO",
       "url": "https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 121836,
-      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1547,22 +1547,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Perd\u00f3n",
-        "url": "https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu"
+        "name": "La cuarta hoja (Extended Version)",
+        "url": "https://open.spotify.com/album/3nYJDr8s1Jyw4YeZRcScQc"
       },
       "artists": [
         {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         },
         {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 166535,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/0J94ibLoZFu0ShiGn3CkMh"
+      "duration_ms": 233755,
+      "name": "Amigos (con Maria Becerra)",
+      "url": "https://open.spotify.com/track/2VhwmatY3oeJI5IOjeIUmr"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1583,22 +1583,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "La cuarta hoja (Extended Version)",
-        "url": "https://open.spotify.com/album/3nYJDr8s1Jyw4YeZRcScQc"
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
         },
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         }
       ],
-      "duration_ms": 233755,
-      "name": "Amigos (con Maria Becerra)",
-      "url": "https://open.spotify.com/track/2VhwmatY3oeJI5IOjeIUmr"
+      "duration_ms": 166535,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/0J94ibLoZFu0ShiGn3CkMh"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1623,26 +1623,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "VERANO",
-        "url": "https://open.spotify.com/album/0HYqe8GG5tpXxiF2DQJpaI"
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/37hYVnYv761wHMUHLXuOx0"
       },
       "artists": [
         {
-          "name": "Alex Luna",
-          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
-        },
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
-        {
-          "name": "Tony Mils",
-          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
         }
       ],
-      "duration_ms": 176654,
-      "name": "VERANO",
-      "url": "https://open.spotify.com/track/5PVTI870AxdKFFglwCY7m0"
+      "duration_ms": 215558,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/1AcRfJPwoBbemOCztsr0rJ"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1663,22 +1655,6 @@
       "duration_ms": 135262,
       "name": "Oye Baby",
       "url": "https://open.spotify.com/track/3oAhnCXtDYMFyjCDRu7Glg"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Idiota",
-        "url": "https://open.spotify.com/album/37hYVnYv761wHMUHLXuOx0"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        }
-      ],
-      "duration_ms": 215558,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/1AcRfJPwoBbemOCztsr0rJ"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1719,18 +1695,26 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Eva",
-        "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
+        "name": "VERANO",
+        "url": "https://open.spotify.com/album/0HYqe8GG5tpXxiF2DQJpaI"
       },
       "artists": [
         {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        },
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Tony Mils",
+          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
         }
       ],
-      "duration_ms": 248546,
-      "name": "Eva",
-      "url": "https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o"
+      "duration_ms": 176654,
+      "name": "VERANO",
+      "url": "https://open.spotify.com/track/5PVTI870AxdKFFglwCY7m0"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1747,6 +1731,22 @@
       "duration_ms": 188175,
       "name": "MEZCALITO",
       "url": "https://open.spotify.com/track/4oGdKCX4pbO3kT1d2CoZ5Z"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Eva",
+        "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 248546,
+      "name": "Eva",
+      "url": "https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o"
     }
   ],
   "unique_name": "Crema Pop",

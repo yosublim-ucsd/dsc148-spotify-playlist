@@ -4,7 +4,7 @@
 
 > Gentle Ambient piano to help you fall asleep.
 
-871 songs - 1 day 19 hr 52 min
+878 songs - 1 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Deine Augen](https://open.spotify.com/track/7HU4jsNv2xqKQ1V18iHKhL) | [Celine Brandt](https://open.spotify.com/artist/7JshNZgXnBP253y6KE0aQR) | [Deine Augen](https://open.spotify.com/album/08PSdUzYoeDr2y8w534lp1) | 3:02 | 2022-01-21 | 2023-06-10 |
 | [delta state](https://open.spotify.com/track/6D2fyFDu59UbQJO2rgcO9N) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [binaural beat delta states](https://open.spotify.com/album/3mErlO0lfjqgwGenHL5tdF) | 3:01 | 2021-01-21 | 2021-02-06 |
 | [Demure](https://open.spotify.com/track/1uMNi0Sg9Sq0qrHS5kJWcy) | [Caleb Huber](https://open.spotify.com/artist/3gEu2oKuCuCY3HcbVLHlNW) | [Demure](https://open.spotify.com/album/48Uw5LB9ItbGl2poSXzq5q) | 2:02 | 2023-09-20 |  |
+| [Density](https://open.spotify.com/track/6FqTyMzdm5ri8zWrPhAZ0E) | [Obviame](https://open.spotify.com/artist/5O2OGECehpgmmdVmWInftr) | [Density](https://open.spotify.com/album/7stOw7OpIVh4cZszjHaRsg) | 3:05 | 2023-10-13 |  |
 | [Depressurize](https://open.spotify.com/track/6WI53B4DbKjscn9mvPCMDO) | [Mindezer](https://open.spotify.com/artist/7ob7fE7T9MFx8x6YvaxStb) | [Soul Dweller](https://open.spotify.com/album/4zZVCJ2mNoSCw4ypV3iYRn) | 3:41 | 2020-12-22 | 2021-06-16 |
 | [Depth](https://open.spotify.com/track/01HoaDNqU6ZrXYj0GIDQjv) | [Conde Arona](https://open.spotify.com/artist/6hmmRGYolxHWDk3H2GeBUU) | [Depth](https://open.spotify.com/album/0BsO1Kfgqwjr1XZcVKJymI) | 2:56 | 2022-12-20 |  |
 | [Des rêves sans fin](https://open.spotify.com/track/7vGRko4f6X3H4EfhwPsIJY) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [Des rêves sans fin](https://open.spotify.com/album/6x5YvwCzCxoLyME5L24xPL) | 3:02 | 2021-02-06 | 2022-03-25 |
@@ -323,6 +324,7 @@
 | [Floating Rocks](https://open.spotify.com/track/5dfAYR9ljONPCU8OABdBZq) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Floating Rocks](https://open.spotify.com/album/3EEdcHizMnPGeTIxZgH5I6) | 3:17 | 2021-05-04 | 2022-03-16 |
 | [Flor Espina](https://open.spotify.com/track/166sXNEu8LOKQeMmqWo7SA) | [Iridaceae Fields](https://open.spotify.com/artist/6pmTFeAL5pQmrE3jZ3HMW1) | [Flor Espina](https://open.spotify.com/album/6BOeH3ak5BXocqzHkDq9fL) | 2:35 | 2022-09-30 |  |
 | [Flow State](https://open.spotify.com/track/3pUQApLLT0iAnxGbe1IC8q) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Flow State](https://open.spotify.com/album/2JgRSgWb6qxviNI3SN0B6W) | 2:37 | 2022-10-15 |  |
+| [Flying Spirits.](https://open.spotify.com/track/3qfofCNp0UgwHKmgM1EJ6A) | [Ashlynn Vinno](https://open.spotify.com/artist/2LJPtJzLybu9EKKX8X84DJ) | [Flying Spirits.](https://open.spotify.com/album/0omGFYMltCOD9AOACXmP9E) | 2:56 | 2023-10-13 |  |
 | [Focused](https://open.spotify.com/track/3k51Bto34GhHnfJq8rnPoI) | [Anda Mané](https://open.spotify.com/artist/0CyEMzIzthRVDjMTutlWC6) | [Fortuna](https://open.spotify.com/album/5vWuuLznhD7f14vvVhyU8I) | 3:14 | 2023-04-06 |  |
 | [Following](https://open.spotify.com/track/37OBlWR4QwbMJvReT8myht) | [Aquilonius](https://open.spotify.com/artist/2Bua1ZVpNERP8WJ6gGyilw) | [Following](https://open.spotify.com/album/2KWcF5n0QiE8GiHQrEgwUa) | 3:05 | 2023-09-01 |  |
 | [For My Heart](https://open.spotify.com/track/0p36mcb6dERGP5t7bbYHBr) | [Don Mazuck](https://open.spotify.com/artist/45zt0raIfZd0fb6yzSneno) | [For My Heart](https://open.spotify.com/album/3U6Yg5BMrFl5eVIrB6plRk) | 2:48 | 2020-10-20\* | 2021-03-14 |
@@ -432,6 +434,7 @@
 | [La Cascada](https://open.spotify.com/track/2WGKo3sflN4aUNtesZw4Py) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Bella Unión](https://open.spotify.com/album/2zfjHiF04uCEQEBMrrp6aX) | 3:01 | 2021-06-16 | 2023-06-17 |
 | [Ladybugs](https://open.spotify.com/track/0bPOqdsUdPCOayNdh0ERNW) | [Serene & Pax](https://open.spotify.com/artist/2oUi0GgBsOQRYea2aOa52L) | [Ladybugs](https://open.spotify.com/album/1EgGcnjTXA2Ci9Bt882r6C) | 3:09 | 2021-03-14 | 2022-07-16 |
 | [Lahko noč](https://open.spotify.com/track/0djscTMVix3pGLzMJ3D9X8) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Čudovita pomlad](https://open.spotify.com/album/14eJeVKMbuxGX0zQ1KI5Ok) | 2:57 | 2020-10-20\* | 2021-02-06 |
+| [Languid](https://open.spotify.com/track/0KkCsYHv7QgzKpNm4pcVj9) | [Neoline Ewing](https://open.spotify.com/artist/1MhNxd0tQVdZHLw2xNATuF) | [Languid](https://open.spotify.com/album/5703SmtxheAvgNoxOCueq8) | 3:03 | 2023-10-13 |  |
 | [Le temps passe](https://open.spotify.com/track/1FKTWT91DCPwRbWMxK3NZn) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Le temps passe](https://open.spotify.com/album/0ItCJJdXRzbhsl1zwclP4z) | 2:38 | 2020-10-20\* | 2020-12-12 |
 | [Lenitivo](https://open.spotify.com/track/6PEwEkL4lzRbGMGH7j7kBB) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Lenitivo](https://open.spotify.com/album/0aKQ6hDtXLG2FbFiDqfiEi) | 3:00 | 2021-03-14 |  |
 | [Leticia](https://open.spotify.com/track/69zMzxv7BgdLXTauZvOCm3) | [Kaua Correia](https://open.spotify.com/artist/6PE8Ppk9H0TScbZEoLD0z1) | [Leticia](https://open.spotify.com/album/5dTHisxcHVT1yBlWVDUrpb) | 3:06 | 2020-11-21 | 2023-06-03 |
@@ -505,6 +508,7 @@
 | [Moves Like Waves](https://open.spotify.com/track/4wtTfmaWIdWLUNlE05UrZH) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Moves Like Waves](https://open.spotify.com/album/7HJZbRYfPgzbmzDa38oiWp) | 3:41 | 2022-06-16 |  |
 | [Moving On](https://open.spotify.com/track/1jap0U96d4528KaolN2nnz) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Angel Wings](https://open.spotify.com/album/4psQ5TZuuI03EmVtmuHkR4) | 3:04 | 2020-10-20\* | 2021-05-04 |
 | [Moving Slow](https://open.spotify.com/track/479TAluzixIctz5AiwnrA1) | [Russel Jace](https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP) | [Moving Slow](https://open.spotify.com/album/626tC0NRDHsPdPBB8hrKLc) | 2:48 | 2022-11-22 | 2023-01-28 |
+| [Mudita](https://open.spotify.com/track/7Hm3jiAs1f0oypQythNWxy) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Mudita](https://open.spotify.com/album/1BTP6Dm6UiPfCV0slcxGuB) | 2:36 | 2023-10-13 |  |
 | [Muna](https://open.spotify.com/track/1thTEQDLz5G6hr2Cp3pA4g) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Muna](https://open.spotify.com/album/3okHfzFp1PVS3A57JF4D3S) | 3:08 | 2022-09-02 |  |
 | [Mussidia](https://open.spotify.com/track/2mj5YHtlPbn4ojOKTn581M) | [Reverend XYZ](https://open.spotify.com/artist/6v9oylddGLLp2ZQMgx3NoW) | [Baggy Green](https://open.spotify.com/album/2G9MQhLpC9FrL2pttKyatT) | 3:52 | 2020-10-20\* | 2021-02-06 |
 | [My Armour](https://open.spotify.com/track/6q8NVcrqyUPpHWbNfJQMiN) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [My Armour](https://open.spotify.com/album/6cAAs8PhZKCoR8CplwW8HG) | 3:20 | 2023-03-31 |  |
@@ -691,12 +695,13 @@
 | [Slumber](https://open.spotify.com/track/2kLz6daV1GOseCfsNcpRWV) | [Pierre Delongpre](https://open.spotify.com/artist/5WMDkZMK3ZgXII7d14q5I9) | [Slumber](https://open.spotify.com/album/7uuEvVQ919w5vDNPCIiPfz) | 3:08 | 2020-10-20\* | 2020-12-12 |
 | [Small But Nice](https://open.spotify.com/track/4JW3xordKSyyseY0508GrZ) | [Majestic Sleep](https://open.spotify.com/artist/1AmJvY5Oy8pwejhrUMqB0o) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:18 | 2020-10-20\* | 2020-12-12 |
 | [Snowdonia](https://open.spotify.com/track/6JMuZsTQprhBrbywStSwer) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Snowdonia](https://open.spotify.com/album/6OyZMyAiAtD2MJjAI91Irc) | 2:58 | 2020-10-20\* | 2021-09-22 |
+| [Snowflake](https://open.spotify.com/track/3IftdsEdhYBjFenO3VWDht) | [Amanda Wildt](https://open.spotify.com/artist/4acmjvEdOPeKKwiRv3hZ4h) | [Snowflake](https://open.spotify.com/album/1huCY9aSFYlnJ3FyI4eaI8) | 3:02 | 2023-10-13 |  |
 | [Soft Answers](https://open.spotify.com/track/5cNxtUwvAsml2dxp4zpoVa) | [Neoline Ewing](https://open.spotify.com/artist/1MhNxd0tQVdZHLw2xNATuF) | [Soft Answers](https://open.spotify.com/album/4n5WkZT1FkBtYkTXtlbEaE) | 3:23 | 2022-01-21 | 2023-03-22 |
 | [Soft Feather](https://open.spotify.com/track/03CGgLngukfx0AmwxpoWz1) | [Pixxxi](https://open.spotify.com/artist/7fdbfuWgu3tJ8p6I8JyRgj) | [Soft Feather](https://open.spotify.com/album/1nZkDxKn2QO413fcgjuOqZ) | 2:24 | 2020-10-20\* | 2020-12-12 |
 | [Soft Meadow](https://open.spotify.com/track/2rMvml0pdO4mZYPDtIc1JQ) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Green Space](https://open.spotify.com/album/7gLMuKgLpebst9bnhZnK8D) | 2:51 | 2020-10-20\* | 2020-12-12 |
 | [Soft Night](https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Traditions & Traitors](https://open.spotify.com/album/2exRntMmxw6A5AQoNiIG3f) | 2:35 | 2020-10-20\* | 2021-03-14 |
 | [Sognando Ancora](https://open.spotify.com/track/0btOwM3TAHRfPPpLGiCUOR) | [Giulia De Serio](https://open.spotify.com/artist/51lfmojViPJ0XrAghn70IC) | [Sognando Ancora](https://open.spotify.com/album/0Z9nc5fuoBEMdkDvnh6gWe) | 3:34 | 2022-02-17 |  |
-| [Sognante](https://open.spotify.com/track/78JrKrc3HthRfKAnFoG0Nw) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Sognante](https://open.spotify.com/album/1YztptUb03EHqZFNXyN47r) | 3:09 | 2023-09-20 |  |
+| [Sognante](https://open.spotify.com/track/78JrKrc3HthRfKAnFoG0Nw) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Sognante](https://open.spotify.com/album/1YztptUb03EHqZFNXyN47r) | 3:09 | 2023-09-20 | 2023-10-13 |
 | [Sogno Illuminum](https://open.spotify.com/track/2XwakW5X0FkLa7xGfgDwot) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Sogno Illuminum](https://open.spotify.com/album/278BtYoGB8VN4tnOcsTyHu) | 2:20 | 2020-10-20\* | 2022-06-17 |
 | [Solitude in the Stars](https://open.spotify.com/track/1icgBw21XBCrDcWdt4ECdw) | [Moon Oceans](https://open.spotify.com/artist/39qPWYWkYbi7esvFXiUpss) | [Solitude in the Stars](https://open.spotify.com/album/20QiaX1rJkQLMxS1UDd9uf) | 3:25 | 2020-10-20\* | 2021-02-06 |
 | [Solêr](https://open.spotify.com/track/3SsXxuvEu20CnDg7LUNFDY) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [Pinô](https://open.spotify.com/album/7uPWpTHYqHEQTpZIlgELQK) | 2:35 | 2020-10-20\* | 2021-03-14 |
@@ -796,6 +801,7 @@
 | [Tranquility](https://open.spotify.com/track/5gaOQmZwdjt1FR6Jnpw9Qz) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Frangibility](https://open.spotify.com/album/1m9rG3JBXxgzopcnfh3oTX) | 2:45 | 2020-10-20\* | 2020-12-12 |
 | [Tranquility](https://open.spotify.com/track/6By5s3MCKOnjnmFJt1mR6n) | [Starry Girl](https://open.spotify.com/artist/4Uaq25W6YRawMeHyRIKwxy) | [Tranquility](https://open.spotify.com/album/382fYADREDCF1KPfI03YOq) | 2:57 | 2020-10-20\* | 2021-03-14 |
 | [Tranquility](https://open.spotify.com/track/5ZVmS3L1zuMHJ6SsAsZe2X) | [Úrkoma](https://open.spotify.com/artist/4XWAQN3T2e2rNDlcDO0lhS) | [Tranquility](https://open.spotify.com/album/1EbCXvbGVR1ZhK3viDyNdh) | 3:38 | 2021-01-21 | 2021-06-16 |
+| [Tranquillizing](https://open.spotify.com/track/3cwVEUzKMyQLvq51b6I8Ul) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Tranquillizing](https://open.spotify.com/album/4poM5nk5qrGMSaTcvbcuzE) | 2:54 | 2023-10-13 |  |
 | [Transformation](https://open.spotify.com/track/3Fqsx9n9qysSodg3UnEdPX) | [Stepan Korolev](https://open.spotify.com/artist/2OR4pbdpOvzVWYizSnqKQn) | [Transformation](https://open.spotify.com/album/4PJEn9Hx7L9RwY1FpNuqQR) | 3:14 | 2021-09-22 | 2023-02-10 |
 | [Traumlandschaft](https://open.spotify.com/track/0KOenusM2ayoQfGrhBf5Q9) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Traumlandschaft](https://open.spotify.com/album/1iT68T2iKzYilM8pEhy0uP) | 3:19 | 2021-07-07 |  |
 | [Trpělivost růže přináší](https://open.spotify.com/track/5NDJhWYEfJbARTnlyXISpP) | [Václav Slezák](https://open.spotify.com/artist/3VHBfS16hX93D0BLGwraUz) | [Trpělivost růže přináší](https://open.spotify.com/album/4dVGllK1913X1J7ZZTrfSi) | 3:57 | 2020-10-20\* | 2020-12-12 |
@@ -856,6 +862,7 @@
 | [What's Best For You](https://open.spotify.com/track/3YPMSEyEJkYpvQB1kcs5Rl) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [What's Best For You](https://open.spotify.com/album/2k0IJZavMYJ2Pi3ZRymD86) | 3:38 | 2021-10-23 | 2023-06-03 |
 | [Wherever The Light Takes Me](https://open.spotify.com/track/0kQs60Eec9PnDAwvyS3iN1) | [Gual Levine](https://open.spotify.com/artist/1mhDm5AwhS5vAUIO91hHVU) | [Wherever The Light Takes Me](https://open.spotify.com/album/0EhwcIS4mOfZCech509hwA) | 2:51 | 2022-09-30 |  |
 | [While My Baby Gently Sleeps](https://open.spotify.com/track/6qyZylJUWXHi7ewAC9Mx7z) | [Good Night World](https://open.spotify.com/artist/50XjDK4NtbS0HAv1aJkZwo) | [Good Night World](https://open.spotify.com/album/5nY0DtC9fqJZbWGdN32hvK) | 2:55 | 2020-10-20\* | 2021-02-06 |
+| [Whishing star](https://open.spotify.com/track/3wyzKHfvroiGn3KKBg0GvM) | [Artivastix](https://open.spotify.com/artist/6udcxtqGILdecn8PeWtJAG) | [Whishing star](https://open.spotify.com/album/316E36Lj0FbCsSokhxJu5c) | 3:18 | 2023-10-13 |  |
 | [White Feather](https://open.spotify.com/track/6JfXcX13YTALa5v3qWLhLJ) | [The Girl In The Treehouse](https://open.spotify.com/artist/2iy6v1PCzX45MbvTK5moRc) | [Dream River](https://open.spotify.com/album/5TdKs6kXX0Zy4ati1nwMel) | 3:18 | 2020-10-20\* | 2020-12-12 |
 | [White Star](https://open.spotify.com/track/1VkdH6Zvj3OTIpuwreP3iF) | [Tryggve Malmberg](https://open.spotify.com/artist/53E9B0OiR03VSuqIqhCguq) | [White Star](https://open.spotify.com/album/0YanaTVFC7Gij9cL8DjXHc) | 2:51 | 2023-01-13 | 2023-04-07 |
 | [Wholeness](https://open.spotify.com/track/7hTThtkyA0rnNSgOQgoVQp) | [Monet Benitez](https://open.spotify.com/artist/4oQZmRxjpBOfuINrvgElwz) | [Wholeness](https://open.spotify.com/album/0raj9xIEqrKg1sRolyRuyf) | 2:38 | 2023-03-16 |  |

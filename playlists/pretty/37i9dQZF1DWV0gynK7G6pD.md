@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Víkingur Ólafsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,297 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,380 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 99 | [Out of the Depths Have I Cried unto Thee, O Lord, for Soprano and Orchestra: V\. Psalm 98](https://open.spotify.com/track/4zS6NPPSVuY0V3sdBWEEgA) | [Aharon Harlap](https://open.spotify.com/artist/3M5lZAZRY0dfWpLb1gLJKh), [Orchestre Métropolitain](https://open.spotify.com/artist/7qSGb2IbwItrONMRCyHX4T), [Nicolas Ellis](https://open.spotify.com/artist/4TiUoq2JEdz8tgiNk67Ikz), [Sharon Azrieli](https://open.spotify.com/artist/7n7xOjeupy2KtW5sedZAgF) | [New Jewish Music, Vol\. 4 \- Habibi, Harlap, Ueda](https://open.spotify.com/album/5RovBd4yiegzuq7ticTOUK) | 3:52 |
 | 100 | [Trio Sonata in B\-Flat Major: IV\. Ciacona](https://open.spotify.com/track/5fzjhWAG98emiOfxNQfcAh) | [Johann Gottlieb Goldberg](https://open.spotify.com/artist/5E26lyQXoDmCaf1sRmpWwu), [Ensemble Diderot](https://open.spotify.com/artist/58CjSAOW8azhnDTzPKz4Gz), [Johannes Pramsohler](https://open.spotify.com/artist/3vrMRlMsFCU2SZTDA9gnse) | [J.G\. Goldberg: Trio Sonata in B\-Flat Major: IV\. Ciacona](https://open.spotify.com/album/2tVEvq8YmTtUemk5PAouh8) | 4:23 |
 
-Snapshot ID: `MCw0ZTg1YTQ0YThiYjZmZGE1NjE5MmJmMGFiNzIwNTI4ZDNjNGI1Yjdj`
+Snapshot ID: `MCw3MzYxNjM3MjNlZjIxNGM5NmIzMmYzMjQ0OWZkNDg3MDQ2NzdkOThm`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest Afropop records on the planet. Cover: <a href=\"https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x?si=rQ1rx81LR8ujD4sklWgDTg\"> Bnxn </a> ",
+  "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR?si=8l0ZFAOsS0K3OP-UZAArdw\"> DJ Neptune </a>  and <a href=\"https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF?si=ny0fp0AOTJmEpTxgXwTrIA\"> Joeboy </a>  ",
   "name": "Afropop",
   "tracks": [
     {
@@ -152,7 +152,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 157423,
       "name": "Abena",
       "url": "https://open.spotify.com/track/0wJPOkn6n54O2ppeP4wHc2"
@@ -196,6 +196,32 @@
       "duration_ms": 142000,
       "name": "Alarm",
       "url": "https://open.spotify.com/track/273uUYBv3zZoqSR8VOk6vV"
+    },
+    {
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i"
+      },
+      "artists": [
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        },
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "NESTA",
+          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl"
     },
     {
       "album": {
@@ -2324,7 +2350,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 178105,
       "name": "Fate",
       "url": "https://open.spotify.com/track/1QCV9ndrHVnqtMcqXszEN6"
@@ -2478,6 +2504,24 @@
       "duration_ms": 253043,
       "name": "Fever",
       "url": "https://open.spotify.com/track/1wCjMz6bqdzVjpJWl45p9L"
+    },
+    {
+      "album": {
+        "name": "Fine Pass",
+        "url": "https://open.spotify.com/album/7fRa0SFSKPr2dX9Fnee44k"
+      },
+      "artists": [
+        {
+          "name": "TOME",
+          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165040,
+      "name": "Fine Pass",
+      "url": "https://open.spotify.com/track/1L1ateHMb54rv0QsoD9YKy"
     },
     {
       "album": {
@@ -4458,7 +4502,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 181283,
       "name": "Low Waist",
       "url": "https://open.spotify.com/track/5rb99A8aR2scVXSLIbLAft"
@@ -4980,6 +5024,28 @@
       "duration_ms": 227448,
       "name": "Mukulu",
       "url": "https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM"
+    },
+    {
+      "album": {
+        "name": "Mumu",
+        "url": "https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Mumu",
+      "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
     },
     {
       "album": {
@@ -6378,6 +6444,28 @@
     {
       "album": {
         "name": "Rora",
+        "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143762,
+      "name": "Rora",
+      "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
+    },
+    {
+      "album": {
+        "name": "Rora",
         "url": "https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05"
       },
       "artists": [
@@ -7008,7 +7096,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 183637,
       "name": "Slow",
       "url": "https://open.spotify.com/track/04Out6ePtODoAuUqr38uXt"
@@ -7572,7 +7660,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 222346,
       "name": "Thatha (feat. Daliwonga)",
       "url": "https://open.spotify.com/track/3m3HaFgD2knHOviqKFnZ6s"

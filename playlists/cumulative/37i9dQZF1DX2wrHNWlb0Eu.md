@@ -4,7 +4,7 @@
 
 > พบคนคลั่งรักหลายอัตราในเพลย์ลิสต์นี้ \#คลั่งรัก
 
-141 songs - 8 hr 48 min
+142 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Fall in Love](https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/2GuhTPysxjc8C0wkMJKPCX) | 3:19 | 2023-10-06 |  |
 | [FIRE BOY](https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [FIRE BOY](https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux) | 2:49 | 2023-02-10 |  |
 | [Hidden Track](https://open.spotify.com/track/1XfzWbu66N3Pl1Q8rOUmJH) | [TRINITY](https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM) | [TRINITY : THE 1ST MINI ALBUM “THE ELEMENTS”](https://open.spotify.com/album/2PFKJTwY7Zqh2uTl5ZkDKz) | 4:04 | 2023-02-10 | 2023-10-07 |
+| [I Feel Something Like That](https://open.spotify.com/track/0JbrWWQiqT0L45zUNM6GYQ) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3), [RUZZY TATTOO COLOUR](https://open.spotify.com/artist/5umzj4PGA5pKpgr40TMbsz) | [Hey Mom,Did You See Me In The Newspaper?](https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx) | 3:29 | 2023-10-06 |  |
 | [I JUST WANNA PEN FAN YOU DAI BOR ? \(อ้ายจัสวอนน่าเป็นแฟนยูได้บ่ ?\)](https://open.spotify.com/track/7DLdnWK7OYDsRf7I15Ze0L) | [Singto Numchok](https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL) | [I JUST WANNA PEN FAN YOU DAI BOR ? \(อ้ายจัสวอนน่าเป็นแฟนยูได้บ่ ?\)](https://open.spotify.com/album/6G2oqaD3wdiXVAgubTcDzP) | 3:48 | 2023-02-10 |  |
 | [I LOVE YOU](https://open.spotify.com/track/3zDfauunufdNjP8gBhlte0) | [Singto Numchok](https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL) | [I LOVE YOU](https://open.spotify.com/album/0qaSGustJqBqXqG0ZQy320) | 2:34 | 2023-02-10 | 2023-04-17 |
 | [I ไม่ O \(IXO\)](https://open.spotify.com/track/3VSMRXCmLmcgb4p5irSJmf) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [I ไม่ O \(IXO\)](https://open.spotify.com/album/6Zl21EDgJdMwQougq7bt9J) | 3:55 | 2023-02-10 | 2023-04-28 |
@@ -108,7 +109,7 @@
 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 | 2023-02-10 |  |
 | [เค้ารักเธอที่สุด \(ily\)](https://open.spotify.com/track/6WssVwDznRk2o5Qvg4JfaN) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [เค้ารักเธอที่สุด \(ily\)](https://open.spotify.com/album/2zzPZglny0oSYZzi7PzCDG) | 2:56 | 2023-06-09 |  |
 | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV) | 4:13 | 2023-10-06 |  |
-| [เธอคือดวงดาว \(Hikari\)](https://open.spotify.com/track/45mIxipE9u3wYO2HwGmzYe) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [เธอคือดวงดาว \(Hikari\)](https://open.spotify.com/album/2IuYhxGIOVKifi0qVqUuIZ) | 3:02 | 2023-10-06 |  |
+| [เธอคือดวงดาว \(Hikari\)](https://open.spotify.com/track/45mIxipE9u3wYO2HwGmzYe) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [เธอคือดวงดาว \(Hikari\)](https://open.spotify.com/album/2IuYhxGIOVKifi0qVqUuIZ) | 3:02 | 2023-10-06 | 2023-10-13 |
 | [เธอทั้งนั้น](https://open.spotify.com/track/0B8jGlEYFOQT3USwSr5yX3) | [Groove Riders](https://open.spotify.com/artist/2HVtGhO88wYqktLxpDIUI3) | [The Lift](https://open.spotify.com/album/6AgMabCa4vNDjFytw7XbsO) | 4:04 | 2023-02-10 | 2023-04-30 |
 | [เธอทั้งนั้น](https://open.spotify.com/track/5sQYDe2qBnPQpCmN5UWki9) | [Groove Riders](https://open.spotify.com/artist/2HVtGhO88wYqktLxpDIUI3) | [The Lift](https://open.spotify.com/album/3J11fMgaKmVR0lOODC8tqV) | 4:04 | 2023-02-21 |  |
 | [เธอหมุนรอบฉัน ฉันหมุนรอบเธอ](https://open.spotify.com/track/2qix3Q8yV16k9D9YI5fjmQ) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [ชุดเล็ก](https://open.spotify.com/album/4bjidvn1z3RcqcV8Zqyxb5) | 3:51 | 2023-02-10 |  |

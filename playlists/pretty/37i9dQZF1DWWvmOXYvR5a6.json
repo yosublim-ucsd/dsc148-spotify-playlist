@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: YongYong(\uc6a9\uc6a9)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 203325,
+  "num_followers": 203360,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTQ1OTE2ZGE1OTJhN2U5Nzc0YmM4MTA3ZmNmNjBhMTVkNWVmNzE5",
+  "snapshot_id": "MCw1ZWRiOWQ3MzVmNTE5NjYzZWI3YzIwYTA1NzE1ZGRhMjVkOGU2MTYx",
   "tracks": [
     {
       "added_at": "2023-10-04 04:36:49",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-10-04 04:36:49",
       "album": {
+        "name": "staying",
+        "url": "https://open.spotify.com/album/1pvOmrT5CgSnxl7oYEe1yG"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 222156,
+      "name": "Homebody",
+      "url": "https://open.spotify.com/track/766oOBLBihuZjYuL27CUQM"
+    },
+    {
+      "added_at": "2023-10-04 04:36:49",
+      "album": {
         "name": "On the street",
         "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 209154,
       "name": "On the street (Feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
-    },
-    {
-      "added_at": "2023-10-04 04:36:49",
-      "album": {
-        "name": "staying",
-        "url": "https://open.spotify.com/album/1pvOmrT5CgSnxl7oYEe1yG"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 222156,
-      "name": "Homebody",
-      "url": "https://open.spotify.com/track/766oOBLBihuZjYuL27CUQM"
     },
     {
       "added_at": "2023-10-04 04:36:49",
@@ -663,22 +663,22 @@
     {
       "added_at": "2023-10-04 04:36:49",
       "album": {
-        "name": "365&7",
-        "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
+        "name": "Wifey",
+        "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
       },
       "artists": [
         {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
         },
         {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
         }
       ],
-      "duration_ms": 169133,
-      "name": "365&7 (Feat. JAMIE)",
-      "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
+      "duration_ms": 124615,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
     },
     {
       "added_at": "2023-10-04 04:36:49",
@@ -707,22 +707,22 @@
     {
       "added_at": "2023-10-04 04:36:49",
       "album": {
-        "name": "Wifey",
-        "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
+        "name": "365&7",
+        "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
       },
       "artists": [
         {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         },
         {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
         }
       ],
-      "duration_ms": 124615,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
+      "duration_ms": 169133,
+      "name": "365&7 (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
     },
     {
       "added_at": "2023-10-04 04:36:49",
@@ -1047,22 +1047,22 @@
     {
       "added_at": "2023-10-04 04:36:49",
       "album": {
-        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
-        "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
+        "name": "1st Single 'S.i.R'",
+        "url": "https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH"
       },
       "artists": [
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
         },
         {
-          "name": "\uc720\ub77c(youra)",
-          "url": "https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 189157,
-      "name": "HATE ME (feat. youra) (prod. WOOGIE)",
-      "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
+      "duration_ms": 169800,
+      "name": "Drowning (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
     },
     {
       "added_at": "2023-10-04 04:36:49",
@@ -1087,22 +1087,22 @@
     {
       "added_at": "2023-10-04 04:36:49",
       "album": {
-        "name": "1st Single 'S.i.R'",
-        "url": "https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH"
+        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
+        "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
       },
       "artists": [
         {
-          "name": "BOBBY",
-          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
         },
         {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "\uc720\ub77c(youra)",
+          "url": "https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ"
         }
       ],
-      "duration_ms": 169800,
-      "name": "Drowning (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
+      "duration_ms": 189157,
+      "name": "HATE ME (feat. youra) (prod. WOOGIE)",
+      "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
     },
     {
       "added_at": "2023-10-04 04:36:49",
@@ -1303,18 +1303,22 @@
     {
       "added_at": "2023-10-04 04:36:49",
       "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+        "name": "Just Like This",
+        "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
       },
       "artists": [
         {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
         }
       ],
-      "duration_ms": 174040,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn"
+      "duration_ms": 199733,
+      "name": "Just Like This (Feat. george)",
+      "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
     },
     {
       "added_at": "2023-10-04 04:36:49",
@@ -1363,22 +1367,18 @@
     {
       "added_at": "2023-10-04 04:36:49",
       "album": {
-        "name": "Just Like This",
-        "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
       },
       "artists": [
         {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
         }
       ],
-      "duration_ms": 199733,
-      "name": "Just Like This (Feat. george)",
-      "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
+      "duration_ms": 174040,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn"
     },
     {
       "added_at": "2023-10-04 04:36:49",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-10-04 04:36:49",
       "album": {
-        "name": "OFOSUN",
-        "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
-      },
-      "artists": [
-        {
-          "name": "OSUN",
-          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
-        }
-      ],
-      "duration_ms": 226499,
-      "name": "U",
-      "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
-    },
-    {
-      "added_at": "2023-10-04 04:36:49",
-      "album": {
         "name": "Dingo X Ambition Musik",
         "url": "https://open.spotify.com/album/3naaXqEfJnwlSqyFshTwlF"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 240717,
       "name": "Beer (Prod.Way Ched)",
       "url": "https://open.spotify.com/track/3w9HSuLDejveVS9G8Qj8i0"
+    },
+    {
+      "added_at": "2023-10-04 04:36:49",
+      "album": {
+        "name": "OFOSUN",
+        "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
+      },
+      "artists": [
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        }
+      ],
+      "duration_ms": 226499,
+      "name": "U",
+      "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
     },
     {
       "added_at": "2023-10-04 04:36:49",
@@ -1815,6 +1815,22 @@
       "duration_ms": 210641,
       "name": "Misfits (Feat. MELOH, Kid Wine)",
       "url": "https://open.spotify.com/track/6W8HwARrdbtCNU8lupQD3J"
+    },
+    {
+      "added_at": "2023-10-04 04:36:49",
+      "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "wish",
+      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
     },
     {
       "added_at": "2023-10-04 04:36:49",
@@ -1923,22 +1939,6 @@
       "duration_ms": 154173,
       "name": "Make Love (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/36eQx4sQik7l18vOUoJemG"
-    },
-    {
-      "added_at": "2023-10-04 04:36:49",
-      "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "wish",
-      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
     },
     {
       "added_at": "2023-10-04 04:36:49",

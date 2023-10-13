@@ -1,13 +1,73 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side A",
-  "num_followers": 54220,
+  "num_followers": 54256,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmIxYmY0ZjcwYjg3MWQwYTRhMzUwZTMxOGVjYzBiOGU2YTJiZTQx",
+  "snapshot_id": "MCwyZTgyZGJjNjdhOTcwOWIxNGIyMGEyYzU1MmUzNTNmZTU0YmIxOWYx",
   "tracks": [
+    {
+      "added_at": "2023-10-12 03:38:35",
+      "album": {
+        "name": "Fanthem (From \"Ghost\")",
+        "url": "https://open.spotify.com/album/2CvxFxJe7SmTFHAWR2tRGM"
+      },
+      "artists": [
+        {
+          "name": "Agastya Raag",
+          "url": "https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I"
+        },
+        {
+          "name": "Kalyan Manjunath",
+          "url": "https://open.spotify.com/artist/35Wzhm2uv7DeqM1xRQwcU6"
+        },
+        {
+          "name": "Yashraj Solomon",
+          "url": "https://open.spotify.com/artist/28CpmaeTtPM4NibFe3L5u2"
+        },
+        {
+          "name": "Karthik Sambhapur",
+          "url": "https://open.spotify.com/artist/3mnwuCeoiNmqQ8sSnNcApJ"
+        },
+        {
+          "name": "Vinay K N",
+          "url": "https://open.spotify.com/artist/2SupDbv20IGAWYLryP7to4"
+        },
+        {
+          "name": "Sathwik Sathish",
+          "url": "https://open.spotify.com/artist/2HwFnYgPFCsLCGtaCCBAWx"
+        }
+      ],
+      "duration_ms": 155424,
+      "name": "Fanthem (From \"Ghost\")",
+      "url": "https://open.spotify.com/track/1mSsXMpxahNWthXQ5krTYO"
+    },
+    {
+      "added_at": "2023-10-12 13:40:46",
+      "album": {
+        "name": "Sugar Factory (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0gulmMVqOnPOimuaKoOgsd"
+      },
+      "artists": [
+        {
+          "name": "Amrita Nayak",
+          "url": "https://open.spotify.com/artist/1dBnrfHsPSWZlx5HMH5FLR"
+        },
+        {
+          "name": "Nihal Tauro",
+          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
+        },
+        {
+          "name": "Kabir Rafi",
+          "url": "https://open.spotify.com/artist/2gx6BYmlzkiKtN5QlcUhm2"
+        }
+      ],
+      "duration_ms": 262512,
+      "name": "Jahapanah",
+      "url": "https://open.spotify.com/track/1hIToKt93BWgWbrR8dzfHi"
+    },
     {
       "added_at": "2023-09-12 08:17:16",
       "album": {
@@ -33,6 +93,30 @@
       "url": "https://open.spotify.com/track/1SRXTf3yNjZh1x0DTQv6MH"
     },
     {
+      "added_at": "2023-10-12 13:40:46",
+      "album": {
+        "name": "Sakhi (From \"Blink\")",
+        "url": "https://open.spotify.com/album/34nu4mz52DT9RbNOT4ZWWe"
+      },
+      "artists": [
+        {
+          "name": "Prasanna Kumar M S",
+          "url": "https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        },
+        {
+          "name": "Siddartha Belmannu",
+          "url": "https://open.spotify.com/artist/5XfdsTcXpygFRC6dxjODBC"
+        }
+      ],
+      "duration_ms": 273157,
+      "name": "Sakhi (From \"Blink\")",
+      "url": "https://open.spotify.com/track/1JrDXA4JX0tPZjsqsvyddK"
+    },
+    {
       "added_at": "2023-10-04 05:39:45",
       "album": {
         "name": "Jaggade Kuggade (From \"Ronnie - The Hunter\")",
@@ -51,6 +135,46 @@
       "duration_ms": 233413,
       "name": "Jaggade Kuggade (From \"Ronnie - The Hunter\")",
       "url": "https://open.spotify.com/track/3JPqLECC7amVkYrxUsMDpK"
+    },
+    {
+      "added_at": "2023-09-20 12:59:03",
+      "album": {
+        "name": "Bad Boys (from \"Bheema\")",
+        "url": "https://open.spotify.com/album/7l7dcwAVpFOUt7eRAsyXed"
+      },
+      "artists": [
+        {
+          "name": "Rahul Dit-O",
+          "url": "https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe"
+        },
+        {
+          "name": "MC Bijju",
+          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
+        },
+        {
+          "name": "Charanraj",
+          "url": "https://open.spotify.com/artist/3eDnvCTeFDK9FsEAghlpc2"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Bad Boys (from \"Bheema\")",
+      "url": "https://open.spotify.com/track/1fpHvSPEF5au5OTIrkroeV"
+    },
+    {
+      "added_at": "2023-10-12 13:40:46",
+      "album": {
+        "name": "Love at First Sight [From \"Love Reddy (Kannada)\"]",
+        "url": "https://open.spotify.com/album/6UcrPyA8FnB6ndBkYxzpWY"
+      },
+      "artists": [
+        {
+          "name": "Prince Henry",
+          "url": "https://open.spotify.com/artist/3vJDvKa5cfjEH2vFEhj4EY"
+        }
+      ],
+      "duration_ms": 69538,
+      "name": "Love at First Sight (From \"Love Reddy (Kannada)\")",
+      "url": "https://open.spotify.com/track/5zQyHWspgGA6nkCkeQXHed"
     },
     {
       "added_at": "2023-10-11 13:54:48",
@@ -99,6 +223,30 @@
       "duration_ms": 275439,
       "name": "Oh Baale (From \"ANIMAL\") [KANNADA]",
       "url": "https://open.spotify.com/track/4ewggQjpnST5rb6j3QjrW5"
+    },
+    {
+      "added_at": "2023-10-12 13:40:46",
+      "album": {
+        "name": "Oppisikolteeni (From \"Tiger Nageswara Rao\") (Kannada)",
+        "url": "https://open.spotify.com/album/7knuC8FT3yxyrYk7juF7MO"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Ramya Bhat Abhyankar",
+          "url": "https://open.spotify.com/artist/0wqiIwWvYsOAcZdtJLMFO8"
+        },
+        {
+          "name": "Raghu Niduvalli",
+          "url": "https://open.spotify.com/artist/3XgLt0qMKO1yeg2MaEqx06"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Oppisikolteeni (From \"Tiger Nageswara Rao\") (Kannada)",
+      "url": "https://open.spotify.com/track/7jKwaKM2Po25SEXHMl54Rk"
     },
     {
       "added_at": "2023-10-10 07:56:30",
@@ -197,50 +345,6 @@
       "url": "https://open.spotify.com/track/6Pan5h4nnewJKSPdwFRsx6"
     },
     {
-      "added_at": "2023-09-20 12:59:03",
-      "album": {
-        "name": "Bad Boys (from \"Bheema\")",
-        "url": "https://open.spotify.com/album/7l7dcwAVpFOUt7eRAsyXed"
-      },
-      "artists": [
-        {
-          "name": "Rahul Dit-O",
-          "url": "https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe"
-        },
-        {
-          "name": "M.C.Bijju",
-          "url": "https://open.spotify.com/artist/4Um1J2sDY8esAapos04b4X"
-        },
-        {
-          "name": "Charanraj",
-          "url": "https://open.spotify.com/artist/3eDnvCTeFDK9FsEAghlpc2"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Bad Boys (from \"Bheema\")",
-      "url": "https://open.spotify.com/track/1fpHvSPEF5au5OTIrkroeV"
-    },
-    {
-      "added_at": "2023-10-11 13:48:53",
-      "album": {
-        "name": "Baang (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1lrjXieYG5pNO0ubgiCJDp"
-      },
-      "artists": [
-        {
-          "name": "Nihal Tauro",
-          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
-        },
-        {
-          "name": "Ritvik Muralidhar",
-          "url": "https://open.spotify.com/artist/6WCsxUetmUxK3BinjpKIDH"
-        }
-      ],
-      "duration_ms": 188926,
-      "name": "Hosa Vibe",
-      "url": "https://open.spotify.com/track/4hLszBKKfmlSofhMcV4kZs"
-    },
-    {
       "added_at": "2023-10-07 10:55:54",
       "album": {
         "name": "Magalalla (From \"Hi Nanna\")",
@@ -296,25 +400,45 @@
       "added_at": "2023-10-06 10:58:50",
       "album": {
         "name": "Luv You Shankar - Title Track (From \"Luv You Shankar\")",
-        "url": "https://open.spotify.com/album/5OZLW3cofyZPmhU7MekAwn"
+        "url": "https://open.spotify.com/album/6fISjXCFYk8qOPZ9i19NZD"
       },
       "artists": [
         {
-          "name": "Mohitha",
-          "url": "https://open.spotify.com/artist/3LJVIFm67XD9bT7N2gKbB6"
+          "name": "Shridevi Kalladka",
+          "url": "https://open.spotify.com/artist/0aPeKQSd30fMdO5Nf4dqBh"
         },
         {
           "name": "Vardan Singh",
           "url": "https://open.spotify.com/artist/4yeoysFmRgrJrMYtLlA7mF"
         },
         {
-          "name": "Heena Kanojia",
-          "url": "https://open.spotify.com/artist/00b6NVTO2ZcsFrhtYzjChU"
+          "name": "Dheeraj Poojary",
+          "url": "https://open.spotify.com/artist/1kRr1pm0z2AXlC8WjsHiPX"
         }
       ],
       "duration_ms": 237840,
       "name": "Luv You Shankar - Title Track (From \"Luv You Shankar\")",
-      "url": "https://open.spotify.com/track/2Z4PprrBUBGVtFOuq1k2f1"
+      "url": "https://open.spotify.com/track/6oZ2ZNtjf0tkcO876VwFny"
+    },
+    {
+      "added_at": "2023-10-11 13:48:53",
+      "album": {
+        "name": "Baang (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lrjXieYG5pNO0ubgiCJDp"
+      },
+      "artists": [
+        {
+          "name": "Nihal Tauro",
+          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
+        },
+        {
+          "name": "Ritvik Muralidhar",
+          "url": "https://open.spotify.com/artist/6WCsxUetmUxK3BinjpKIDH"
+        }
+      ],
+      "duration_ms": 188926,
+      "name": "Hosa Vibe",
+      "url": "https://open.spotify.com/track/4hLszBKKfmlSofhMcV4kZs"
     },
     {
       "added_at": "2023-09-25 13:17:12",
@@ -1281,22 +1405,6 @@
       "url": "https://open.spotify.com/track/70piqkMPBgUEWri7x9ZoAB"
     },
     {
-      "added_at": "2023-08-16 09:38:02",
-      "album": {
-        "name": "Boys Sarigilla (Remix Version)",
-        "url": "https://open.spotify.com/album/2jiQcdd5A0u9q8Y8nwa9t5"
-      },
-      "artists": [
-        {
-          "name": "T\u00f6rk",
-          "url": "https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "Boys Sarigilla - Remix Version",
-      "url": "https://open.spotify.com/track/6PRblzwQqKEh5YFtZlXQ49"
-    },
-    {
       "added_at": "2023-08-24 13:43:18",
       "album": {
         "name": "Anna From Mexico Theme Music (From \"Anna From Mexico\")",
@@ -1329,34 +1437,6 @@
       "url": "https://open.spotify.com/track/0mcF5NDqA3o5EtZV41EQ6p"
     },
     {
-      "added_at": "2023-08-23 13:30:29",
-      "album": {
-        "name": "Class Roomalli (From \"Paramvah\")",
-        "url": "https://open.spotify.com/album/2NKVlS34cZgAqxWqEP72mf"
-      },
-      "artists": [
-        {
-          "name": "Naveen Sajju",
-          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
-        },
-        {
-          "name": "Aparajith",
-          "url": "https://open.spotify.com/artist/3FxEjVe2C0MQXdfU46vCb7"
-        },
-        {
-          "name": "Jos Jossey",
-          "url": "https://open.spotify.com/artist/4cUt2kLK0SggEXpMpFLjOx"
-        },
-        {
-          "name": "Kiran N R pura",
-          "url": "https://open.spotify.com/artist/1S6ekiMG5sHcdtYOukkvi4"
-        }
-      ],
-      "duration_ms": 179542,
-      "name": "Class Roomalli (From \"Paramvah\")",
-      "url": "https://open.spotify.com/track/5S9ASTIE8qeXQ44GhmG77O"
-    },
-    {
       "added_at": "2023-08-18 14:58:09",
       "album": {
         "name": "Gandarabai (From \"Skanda\")",
@@ -1385,26 +1465,6 @@
       "url": "https://open.spotify.com/track/3bcpehIolpCAuf9JYJn6Ei"
     },
     {
-      "added_at": "2023-08-02 11:54:06",
-      "album": {
-        "name": "Pallakki Olaga (from \"Kshetrapathi\")",
-        "url": "https://open.spotify.com/album/4FSSy8AHpoa2q5JpqLl6ku"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
-        },
-        {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
-        }
-      ],
-      "duration_ms": 217274,
-      "name": "Pallakki Olaga - from \"Kshetrapathi\"",
-      "url": "https://open.spotify.com/track/6XfU6zwKQlejsUIrvFK6t8"
-    },
-    {
       "added_at": "2023-08-17 11:39:57",
       "album": {
         "name": "Tagaru Palya Title Track (From \"Tagaru Palya\")",
@@ -1431,50 +1491,6 @@
       "duration_ms": 203571,
       "name": "Tagaru Palya Title Track (From \"Tagaru Palya\")",
       "url": "https://open.spotify.com/track/6zOCGdS0NEAPtnGrh2ntFT"
-    },
-    {
-      "added_at": "2023-08-16 11:57:01",
-      "album": {
-        "name": "Doori Laali (From \"Tatsama Tadbhava\")",
-        "url": "https://open.spotify.com/album/0fV4p8j9a5G3tUrPQtjTDy"
-      },
-      "artists": [
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        },
-        {
-          "name": "Sunidhi Ganesh",
-          "url": "https://open.spotify.com/artist/3PPHt5iBZRfDNbiy6saH7K"
-        }
-      ],
-      "duration_ms": 206179,
-      "name": "Doori Laali (From \"Tatsama Tadbhava\")",
-      "url": "https://open.spotify.com/track/522QLFGU0FxuB7txjSv0AK"
-    },
-    {
-      "added_at": "2023-08-10 11:59:55",
-      "album": {
-        "name": "Kaavaalaayya (From \"Jailer\")",
-        "url": "https://open.spotify.com/album/6PgDHLkTWqOhovaLo7rNxO"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Sindhuja Srinivasan",
-          "url": "https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Kaavaalaayya (From \"Jailer\")",
-      "url": "https://open.spotify.com/track/5AR8sZJpaXmwIGE8r4lnIv"
     },
     {
       "added_at": "2023-08-08 13:36:47",

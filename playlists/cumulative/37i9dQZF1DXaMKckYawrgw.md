@@ -4,7 +4,7 @@
 
 > ¡Ska 100% Mexicano, círculos de paz y baile! Out Of Control Army en portada.
 
-185 songs - 11 hr 16 min
+186 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Dame un Tiempecito](https://open.spotify.com/track/3zig33r5f16Hs0G1N78yUk) | [Los Korucos](https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx) | [Dale un Dulze al Chamakito!!!](https://open.spotify.com/album/6bSHESkw8R2JJnyyTGqvPv) | 3:49 | 2022-03-18 | 2023-02-04 |
 | [Delfino](https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 5:02 | 2022-03-18 | 2023-02-04 |
 | [Dormir Soñando](https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Libres Y Locos](https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E) | 3:07 | 2022-03-18 | 2023-02-04 |
-| [El Chapulín](https://open.spotify.com/track/59sQU11cdcoC2HEmMxVFv5) | [Paco Ellington](https://open.spotify.com/artist/2GJeoAx45CGPveeIWVD8Hg), [Skapoli](https://open.spotify.com/artist/3nrbc0A8FvXAaS7XxV2iLE) | [El Chapulín](https://open.spotify.com/album/165IEkSYLUmnQvd4GS8hNR) | 3:26 | 2023-06-02 |  |
+| [El Chapulín](https://open.spotify.com/track/59sQU11cdcoC2HEmMxVFv5) | [Paco Ellington](https://open.spotify.com/artist/2GJeoAx45CGPveeIWVD8Hg), [Skapoli](https://open.spotify.com/artist/3nrbc0A8FvXAaS7XxV2iLE) | [El Chapulín](https://open.spotify.com/album/165IEkSYLUmnQvd4GS8hNR) | 3:26 | 2023-06-02 | 2023-10-13 |
 | [El Dejado](https://open.spotify.com/track/1SLeMtVgr6TJMmuPjCPgxv) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [A2Í 5Uena!, Vol 2](https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW) | 4:56 | 2022-03-18 | 2023-05-20 |
 | [El Esqueleto](https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Victimas Del Doctor Cerebro](https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv) | 3:41 | 2022-03-18 | 2022-07-29 |
 | [El Esqueleto](https://open.spotify.com/track/6dCt1ri0Cnv5mqI3bRcOHm) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Vida Latina Vol\. 1](https://open.spotify.com/album/2WLI7eYxdBUXhNyPWh05MJ) | 3:41 | 2022-03-18 | 2022-11-14 |
@@ -165,6 +165,7 @@
 | [Solín](https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:11 | 2022-03-18 |  |
 | [Somos](https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr) | [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [Somos](https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA) | 2:25 | 2023-04-21 |  |
 | [Somos del Barrio](https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [El Precio del Sudor](https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc) | 2:44 | 2022-03-18 |  |
+| [Somos o No Somos](https://open.spotify.com/track/557Ru7PfUMmwAUfi8RHTWJ) | [LOS ADHERIDOS](https://open.spotify.com/artist/32Px2hy4FwNaG8qJSPXHbU) | [Somos o No Somos](https://open.spotify.com/album/5rx8rH5GpoW7f12VSiVaps) | 2:53 | 2023-10-13 |  |
 | [Soy Soledad](https://open.spotify.com/track/50QvMSeHtzMjDGhgtWJDsi) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [Soy Soledad](https://open.spotify.com/album/1k1MjUF3FtfOKtUKDzF9c8) | 3:28 | 2022-03-25 | 2023-02-04 |
 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 | 2022-03-18 |  |
 | [Stay Rude](https://open.spotify.com/track/1GTsw9fJdctqyT7iVQS35i) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [Marcando El Ritmo](https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE) | 2:35 | 2022-03-18 |  |

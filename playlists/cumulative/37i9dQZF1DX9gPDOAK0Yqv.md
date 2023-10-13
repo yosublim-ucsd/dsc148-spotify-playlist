@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-346 songs - 1 day 5 hr 44 min
+347 songs - 1 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Desire](https://open.spotify.com/track/4RK3K3tMjzyLbszKzqyAsi) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [Desire](https://open.spotify.com/album/1lZ0i3cnudsI42aT08F6fq) | 3:19 | 2023-06-30 |  |
 | [Destiny](https://open.spotify.com/track/06ZvFjzwcaqJRZbMkfWuaf) | [Meyer](https://open.spotify.com/artist/58VEQXhuWnFPbxlWh79Sr2) | [Hive Mind](https://open.spotify.com/album/1Dm9ruv1lwZJC3tgJgoMVL) | 3:31 | 2022-12-28 | 2023-01-06 |
 | [Devon \- Oliver Huntemann Remix](https://open.spotify.com/track/0f7ifN4vXV4z2C52POeDQT) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR) | [Devon \(Oliver Huntemann Remix\)](https://open.spotify.com/album/1lRw2Qay0MuZHxFxkZQeEU) | 6:38 | 2022-11-23 |  |
+| [Disaster](https://open.spotify.com/track/0wtL1OF0pIuyVHW80faSKx) | [Dsnt Matter](https://open.spotify.com/artist/6kkot1U0JuuGTYEPEh2FXW) | [Disaster](https://open.spotify.com/album/7aKimU3WkMXCZjQIUzqpps) | 3:45 | 2023-10-06 |  |
 | [Don't Push](https://open.spotify.com/track/3CwQGoTdYkodFst5vvpmQ3) | [Collé](https://open.spotify.com/artist/4mX7iHDoZTPjuLlxazvkMI) | [Don't Push EP](https://open.spotify.com/album/4XIryEQtW71CJrOeOwLXYA) | 6:52 | 2022-11-23 | 2023-03-23 |
 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 | 2022-12-16 |  |
 | [Dreamcatcher](https://open.spotify.com/track/6ZSB0FEjUrG7sziGbkJea2) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Fred Lenix](https://open.spotify.com/artist/59dW0kJuMkQquLbBomht2S) | [Dreamcatcher](https://open.spotify.com/album/3fjsQVB2BQ9yGDe35IpmuQ) | 4:59 | 2023-02-10 | 2023-04-29 |
@@ -87,7 +88,7 @@
 | [Electric](https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta) | [Electric](https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX) | 4:21 | 2022-12-28 | 2023-01-06 |
 | [Ellipse](https://open.spotify.com/track/0jp8whu8DYgYMupBJkVvNP) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Ellipse](https://open.spotify.com/album/41MYb0d8BxiQhby575mvbj) | 6:51 | 2022-11-23 | 2023-02-10 |
 | [Encounters](https://open.spotify.com/track/1o9LXeLmCgx7YVWeMNB3GZ) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Encounters](https://open.spotify.com/album/5POP54QLWkGpuydNX7sWod) | 4:05 | 2022-11-23 | 2023-08-28 |
-| [Encounters \- SOHMI Fantasy Remix](https://open.spotify.com/track/5wcA4ajXGIep3vf4p9S6Xp) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [Encounters \(SOHMI Fantasy Remix\)](https://open.spotify.com/album/3WDEo5D6KzsvS9uSPLS2j7) | 3:56 | 2023-08-18 |  |
+| [Encounters \- SOHMI Fantasy Remix](https://open.spotify.com/track/5wcA4ajXGIep3vf4p9S6Xp) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [Encounters \(SOHMI Fantasy Remix\)](https://open.spotify.com/album/3WDEo5D6KzsvS9uSPLS2j7) | 3:56 | 2023-08-18 | 2023-10-13 |
 | [Energy Of Life](https://open.spotify.com/track/4TvWgymXM4iswW8NCwZZSh) | [LÜRUM](https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO) | [Energy Of Life](https://open.spotify.com/album/2Ad0p8tuq3cLBqRxKC7yoy) | 3:20 | 2023-06-02 | 2023-06-10 |
 | [Equal](https://open.spotify.com/track/06FMbmYdLCapqxnkTNp2q9) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 5:19 | 2023-03-03 | 2023-03-22 |
 | [Eternity](https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Eternity](https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw) | 3:06 | 2023-02-10 | 2023-03-11 |

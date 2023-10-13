@@ -4,7 +4,7 @@
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Knock2 & Dillon Francis.
 
-2,489 songs - 6 day 0 hr 40 min
+2,490 songs - 6 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,7 +663,8 @@
 | [Emorio](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Emorio](https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9) | 2:43 | 2023-07-07 | 2023-07-15 |
 | [Encinitas](https://open.spotify.com/track/4tO2Ol08xzay6zcfhDKpuN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Encinitas](https://open.spotify.com/album/6e9X7ZNcY6gUwwhZdUQl9Z) | 2:51 | 2021-06-19 | 2021-07-24 |
 | [Encounters](https://open.spotify.com/track/1o9LXeLmCgx7YVWeMNB3GZ) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Encounters](https://open.spotify.com/album/5POP54QLWkGpuydNX7sWod) | 4:05 | 2022-11-11 | 2023-01-28 |
-| [Encounters \- SOHMI Fantasy Remix](https://open.spotify.com/track/5wcA4ajXGIep3vf4p9S6Xp) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [Encounters \(SOHMI Fantasy Remix\)](https://open.spotify.com/album/3WDEo5D6KzsvS9uSPLS2j7) | 3:56 | 2023-08-18 |  |
+| [Encounters \- SOHMI Fantasy Remix](https://open.spotify.com/track/32wkuapoKaVuF7WxOx2lAq) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [Encounters \(SOHMI Fantasy Remix\)](https://open.spotify.com/album/7hlSdfWIXGccEnr1JiIR5x) | 3:56 | 2023-08-18 |  |
+| [Encounters \- SOHMI Fantasy Remix](https://open.spotify.com/track/5wcA4ajXGIep3vf4p9S6Xp) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [Encounters \(SOHMI Fantasy Remix\)](https://open.spotify.com/album/3WDEo5D6KzsvS9uSPLS2j7) | 3:56 | 2023-08-18 | 2023-10-13 |
 | [End of Slaphouse](https://open.spotify.com/track/0U5Q2jPCuyQLCxb8LYYD90) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3) | [End of Slaphouse](https://open.spotify.com/album/4uyEug3K5JHviGzkgYubu6) | 3:01 | 2021-03-26 | 2021-05-08 |
 | [Endless Sky](https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Endless Sky](https://open.spotify.com/album/2gudZLuzUEnf5AXljy75vO) | 2:39 | 2022-08-19 | 2022-10-08 |
 | [Energy \(feat\. Techno Tupac\)](https://open.spotify.com/track/68C5lDtvEtOz5bfBfZsTEq) | [Smalltown DJs](https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f), [Joanna Magik](https://open.spotify.com/artist/29NQLXRVfQnoCPkYqs0Zoh), [Techno Tupac](https://open.spotify.com/artist/3X84CtZn7kefjfUMlxU2vx) | [Energy \(feat\. Techno Tupac\)](https://open.spotify.com/album/782lLArC8cRM2vl9MbVGci) | 4:02 | 2023-08-04 | 2023-09-23 |

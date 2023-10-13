@@ -1,13 +1,29 @@
 {
   "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=GnO1OB_6S_6kZLJF-0n5sQ\">Jemma Catherine</a>",
-  "num_followers": 15007,
+  "num_followers": 15003,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmNlYmZmNGIyYTFiY2E4MDIxMWU0OGM1MGUyOWZmZTcwZTI3ZDI3",
+  "snapshot_id": "MCwyZmYxYTE2OTcxNDQ2MTg3NzE0NzNkZmQxMmUyZDEwYTg5MjM0NzEy",
   "tracks": [
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Invisible Walls",
+        "url": "https://open.spotify.com/album/74hEUTUDoPPxa5HP2DcTT7"
+      },
+      "artists": [
+        {
+          "name": "West Coast Wolves",
+          "url": "https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY"
+        }
+      ],
+      "duration_ms": 203048,
+      "name": "Invisible Walls",
+      "url": "https://open.spotify.com/track/1eQRPJcdoX8D4nbnxPlJX1"
+    },
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 166588,
       "name": "roadkill~",
       "url": "https://open.spotify.com/track/7oPBtckFtCURWFEn55xb2C"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Hold Back The River",
+        "url": "https://open.spotify.com/album/0GsUUoZHzXm7mT86HWtKCw"
+      },
+      "artists": [
+        {
+          "name": "Jon Savage",
+          "url": "https://open.spotify.com/artist/0ugtV6ddeZpZcziSYgGztY"
+        }
+      ],
+      "duration_ms": 243614,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/50iOr6N8l3xmJqKhF80apP"
     },
     {
       "added_at": "2023-08-31 21:59:00",
@@ -601,22 +633,6 @@
       "url": "https://open.spotify.com/track/1vmgF0APgogTK1C19NH4r5"
     },
     {
-      "added_at": "2023-08-24 21:59:00",
-      "album": {
-        "name": "Overkill",
-        "url": "https://open.spotify.com/album/1h5HVObZMAqciIqwZXKAIi"
-      },
-      "artists": [
-        {
-          "name": "Parable Fifteen",
-          "url": "https://open.spotify.com/artist/0nIR1lnY2FD8JAaKcmmV1Z"
-        }
-      ],
-      "duration_ms": 179183,
-      "name": "Overkill - Radio Edit",
-      "url": "https://open.spotify.com/track/3oM6PSeSJrTvfs3XLW9U7I"
-    },
-    {
       "added_at": "2023-08-04 10:43:32",
       "album": {
         "name": "Big Mistakes",
@@ -651,22 +667,6 @@
       "duration_ms": 175619,
       "name": "The Real Thing",
       "url": "https://open.spotify.com/track/5yPEgsIa9x4BkMsBJaF2cM"
-    },
-    {
-      "added_at": "2023-08-11 08:29:40",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/5UJLHNTrNAzal68QU0xZXB"
-      },
-      "artists": [
-        {
-          "name": "Toughguy",
-          "url": "https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK"
-        }
-      ],
-      "duration_ms": 206568,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/0NsxWoR74hCj9KTYB70o4r"
     },
     {
       "added_at": "2023-08-04 10:43:32",

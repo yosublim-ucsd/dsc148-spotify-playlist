@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,284 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,297 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,15 +79,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 69 | [Message From Heaven](https://open.spotify.com/track/5T2x4bRxNJJ7DxZVccf0WK) | [Julie and Dan](https://open.spotify.com/artist/01Pk9rWj3jvIFILsJmXl7c), [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Message From Heaven](https://open.spotify.com/album/7eui7uH5V3HbAp0JLdHMTf) | 3:44 |
 | 70 | [Don't Make Me Get up and Go](https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Ink, Dust & Luck](https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA) | 3:10 |
 | 71 | [Wildflowers](https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr) | [Mikele Buck Band](https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN) | [Wildflowers](https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX) | 3:43 |
-| 72 | [Super Moon](https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 2:19 |
-| 73 | [Honky Tonk Nights](https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp) | [The Del McCoury Band](https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Almost Proud](https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP) | 2:32 |
+| 72 | [Honky Tonk Nights](https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp) | [The Del McCoury Band](https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Almost Proud](https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP) | 2:32 |
+| 73 | [Super Moon](https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 2:19 |
 | 74 | [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 |
 | 75 | [Strange Fascination](https://open.spotify.com/track/2ygPlZkaKoHXKBZ1LXZkXO) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strange Fascination](https://open.spotify.com/album/7kXILLnl4TJxQVfxb04wTs) | 4:18 |
 | 76 | [The Heart Wants](https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t) | [Trout Steak Revival](https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd) | [The Light We Bring](https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP) | 3:27 |
 | 77 | [A Distant Land to Roam](https://open.spotify.com/track/06qDaLk1pCIRiOuOW5R2gM) | [Mighty Poplar](https://open.spotify.com/artist/4cMlQtVLzOm9cr200ALzSD), [Andrew Marlin](https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL), [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW), [Alex Hargreaves](https://open.spotify.com/artist/6Qs9gY94XdjfCCTL8dRQ3P), [Greg Garrison](https://open.spotify.com/artist/1Wzl4iYvY9UIWZFQgUhrdJ) | [Grey Eagle / A Distant Land to Roam](https://open.spotify.com/album/0WVGCRxGwBwBWk6Jjrpa85) | 2:33 |
 | 78 | [Lonesome Old River Blues](https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 2:42 |
-| 79 | [Sweet Spot](https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D) | [Steep Canyon Rangers](https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O) | [Sweet Spot](https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV) | 4:23 |
-| 80 | [Orphan Annie](https://open.spotify.com/track/7tsWLFSZ7HNUDDF5UxUSZE) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 5:00 |
+| 79 | [Orphan Annie](https://open.spotify.com/track/7tsWLFSZ7HNUDDF5UxUSZE) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 5:00 |
+| 80 | [Sweet Spot](https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D) | [Steep Canyon Rangers](https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O) | [Sweet Spot](https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV) | 4:23 |
 | 81 | [Blue Railroad Train](https://open.spotify.com/track/5xQF2S5p9hckklJLsTbNzq) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Blue Railroad Train](https://open.spotify.com/album/30ccEntmZBvjhe7KuuP0vm) | 3:08 |
 | 82 | [Falling for You](https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX) | [The Petersens](https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx) | [Live Sessions, Vol\. 03](https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i) | 2:40 |
 | 83 | [The More I Learn](https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL) | [Bryan Sutton](https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm) | [The More I Learn](https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 99 | [The Whole of the Moon](https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs) | [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I) | [The Whole of the Moon](https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC) | 4:42 |
 | 100 | [Salty Dog Blues \- Live](https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh) | [The Earls Of Leicester](https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm) | [Live At The CMA Theater In The Country Music Hall Of Fame](https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5) | 2:32 |
 
-Snapshot ID: `MCw4MzcwYmZmN2M2ODI5MzZkNWVmNmY2ZDMxYzZkYmI2ZGNlNjM3OGVj`
+Snapshot ID: `MCw5ZjQ2YzU4MGVlZDFjOWQ4NDc1ZWNmMDkxZWI4Mzc0MDY5MmVjNWQw`

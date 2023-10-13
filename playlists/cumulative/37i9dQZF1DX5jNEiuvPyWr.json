@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : HOUDI",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Zamdane",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 152000,
       "name": "Coeur noir",
       "url": "https://open.spotify.com/track/1sbo7jQxRWdRgtCOgC56zY"
@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 118899,
       "name": "DEHORS ENCORE",
       "url": "https://open.spotify.com/track/40pUBt8WFhqUQKshH3a8zi"
@@ -1954,7 +1954,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 127240,
       "name": "GINGER MC KENNA",
       "url": "https://open.spotify.com/track/1po7uuEaDOOhXwWYjtNhIo"
@@ -2208,6 +2208,24 @@
       "duration_ms": 196389,
       "name": "HUMAIN",
       "url": "https://open.spotify.com/track/79cnH6HnZT0dJ3muUl6VgZ"
+    },
+    {
+      "album": {
+        "name": "IBIZA",
+        "url": "https://open.spotify.com/album/28YB7WeIlMMoeNihpT5msF"
+      },
+      "artists": [
+        {
+          "name": "Lapostroz",
+          "url": "https://open.spotify.com/artist/3Bqyb0gNZGktVUZUlE1OGj"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152598,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/5AaUQq15J9drf3iKfh2XCn"
     },
     {
       "album": {
@@ -2710,7 +2728,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 156000,
       "name": "Le jour se l\u00e8ve",
       "url": "https://open.spotify.com/track/3yIxVwVr33e5tW453JRlCt"
@@ -2776,6 +2794,24 @@
       "duration_ms": 203173,
       "name": "Le monde par ma fen\u00eatre",
       "url": "https://open.spotify.com/track/34gqAsUuzda4ctvmjcv3Kl"
+    },
+    {
+      "album": {
+        "name": "Le Nine",
+        "url": "https://open.spotify.com/album/1lKTfCQvEvXINqeg7ViPtr"
+      },
+      "artists": [
+        {
+          "name": "ELSO",
+          "url": "https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "Le Nine",
+      "url": "https://open.spotify.com/track/1hseKv4MJMH3eFsrtumMJg"
     },
     {
       "album": {
@@ -3127,6 +3163,24 @@
     },
     {
       "album": {
+        "name": "HUMAIN",
+        "url": "https://open.spotify.com/album/5SBWcUHPeO7suJtkQxEj1b"
+      },
+      "artists": [
+        {
+          "name": "MPablo",
+          "url": "https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183046,
+      "name": "MEILLEUR",
+      "url": "https://open.spotify.com/track/4LzP3qhx5v3qo1nMn4Fhu9"
+    },
+    {
+      "album": {
         "name": "Bel Air",
         "url": "https://open.spotify.com/album/2acXYtO8RQqEcQyrywwlxa"
       },
@@ -3301,6 +3355,24 @@
     },
     {
       "album": {
+        "name": "M\u00d6DI",
+        "url": "https://open.spotify.com/album/6oGbaQspWtK4A3cCLC5noJ"
+      },
+      "artists": [
+        {
+          "name": "Sokuu",
+          "url": "https://open.spotify.com/artist/0et1mZYLCSVBIBUY94B8Xn"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139459,
+      "name": "M\u00d6DI",
+      "url": "https://open.spotify.com/track/3KXmiKG3D0imrkAJfMKv3X"
+    },
+    {
+      "album": {
         "name": "nebula",
         "url": "https://open.spotify.com/album/4FNFa5X1j7FhS3IRchDgqm"
       },
@@ -3388,7 +3460,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 124000,
       "name": "NO PASSION",
       "url": "https://open.spotify.com/track/393Tn6mkpkkfpXEAknAYOL"
@@ -3934,7 +4006,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 195692,
       "name": "pr\u00e8s de moi",
       "url": "https://open.spotify.com/track/5gu8ULeLakv6BwgrKyvCOc"
@@ -4316,6 +4388,28 @@
       "duration_ms": 121189,
       "name": "SAC CHANEL",
       "url": "https://open.spotify.com/track/6vhQy7hWPG2k0guaAxlTZT"
+    },
+    {
+      "album": {
+        "name": "Sacrifices",
+        "url": "https://open.spotify.com/album/5LwI8eCEZ6noEApakqdPLc"
+      },
+      "artists": [
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        },
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178029,
+      "name": "Sacrifices",
+      "url": "https://open.spotify.com/track/2jjOS9VJFoV23Sn1agjhUA"
     },
     {
       "album": {
@@ -4962,6 +5056,24 @@
       "duration_ms": 144733,
       "name": "Une \u00e9ternit\u00e9 ne suffit pas (Affam\u00e9 #22)",
       "url": "https://open.spotify.com/track/7DpCZl6Gej1g4TDBcwzoix"
+    },
+    {
+      "album": {
+        "name": "VAGUE",
+        "url": "https://open.spotify.com/album/1rxEb1Oq1rIZbkPksNR6GZ"
+      },
+      "artists": [
+        {
+          "name": "GEAVN",
+          "url": "https://open.spotify.com/artist/1wRjJI80Z1xUT2aFdn7aru"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187782,
+      "name": "VAGUE",
+      "url": "https://open.spotify.com/track/3zYtCe7koh1lGLE844Pgqs"
     },
     {
       "album": {

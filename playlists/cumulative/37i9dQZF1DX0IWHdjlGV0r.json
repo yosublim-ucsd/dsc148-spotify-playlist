@@ -1053,6 +1053,36 @@
     },
     {
       "album": {
+        "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
+        "url": "https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs"
+      },
+      "artists": [
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190188,
+      "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
+      "url": "https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4"
+    },
+    {
+      "album": {
         "name": "Midnite (Deluxe Version)",
         "url": "https://open.spotify.com/album/0d0xhfyP9VIZ8V9IsyvUdg"
       },

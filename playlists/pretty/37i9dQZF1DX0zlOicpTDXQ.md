@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 | 47 | [A Christmas Thing \(aka Quince Ballad\)](https://open.spotify.com/track/7oiVBBQVuVeR8vNQT9ip1n) | [Aimee Garcia](https://open.spotify.com/artist/44POz8zc5vKd1BlNQR7hs8) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:41 |
 | 48 | [Feliz Navidad Mi Amor](https://open.spotify.com/track/2R9qvrvVCmjbDWJt20W7XR) | [Jasmine Lopez](https://open.spotify.com/artist/0UciHsr8qC3FQYNswRPLmd) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:41 |
 
-Snapshot ID: `MCw0NTM4OWI2ZDRhMzE2Y2ZjN2MzOTI3ZjUzYjhlZDJiMmExNjQ5OWQ4`
+Snapshot ID: `MCw3MmUyODcwYWIzY2U5NGQ3NGMzOGYwOGI2YzczZTE0MDQzMjAwNTc2`

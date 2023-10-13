@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y?si=p00iAOWFRAyx6PqoW684Bg\"> Prettyboy D-O </a> ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx?si=tJ435HYvThO27-Ph66_iVQ\"> Tim Lyre </a> ",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -4239,6 +4239,24 @@
     },
     {
       "album": {
+        "name": "IMPOSTER SYNDROME",
+        "url": "https://open.spotify.com/album/4Uy6DCu5nVUjGf0CJhugZo"
+      },
+      "artists": [
+        {
+          "name": "Moyoswrld",
+          "url": "https://open.spotify.com/artist/5qydyw9umzN1IlybYsgPzR"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88433,
+      "name": "IMPOSTER SYNDROME",
+      "url": "https://open.spotify.com/track/5ncZePvAr5oXKapJXVd9Us"
+    },
+    {
+      "album": {
         "name": "In A Loop",
         "url": "https://open.spotify.com/album/0kefHHVtlnqZG8JjjXxvxU"
       },
@@ -4332,6 +4350,24 @@
       "duration_ms": 136800,
       "name": "In My Mind - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
+    },
+    {
+      "album": {
+        "name": "In My Soul",
+        "url": "https://open.spotify.com/album/5XzrqHjTXVWn6WRnLVawep"
+      },
+      "artists": [
+        {
+          "name": "Shalom Dubas",
+          "url": "https://open.spotify.com/artist/2ys4tbtUpMQd5eujuaRXSj"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "In My Soul",
+      "url": "https://open.spotify.com/track/3CMfurJL0T1OZPKU1RdYUc"
     },
     {
       "album": {
@@ -6542,7 +6578,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 183844,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5tZHp4exyRvqXDan0TZFi1"
@@ -7405,6 +7441,28 @@
     },
     {
       "album": {
+        "name": "Rora",
+        "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143762,
+      "name": "Rora",
+      "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
+    },
+    {
+      "album": {
         "name": "Royalty",
         "url": "https://open.spotify.com/album/7EHtA9gPUvQqgTS886DeJg"
       },
@@ -7472,6 +7530,32 @@
       "duration_ms": 220894,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/1EbYyDICzqwkKP79qtnERw"
+      },
+      "artists": [
+        {
+          "name": "Kirani Ayat",
+          "url": "https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9"
+        },
+        {
+          "name": "Marince Omario",
+          "url": "https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M"
+        },
+        {
+          "name": "Haeven",
+          "url": "https://open.spotify.com/artist/5JTZ0MKURW6cUUT2y18w5H"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192008,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/21MSFhrfJzZOYUnKqNdkQr"
     },
     {
       "album": {
@@ -8924,6 +9008,28 @@
       "duration_ms": 182000,
       "name": "Thunderstorm In Surulere - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2kJsAjvUCXdsq4NKU27eOj"
+    },
+    {
+      "album": {
+        "name": "Tighter",
+        "url": "https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Tighter",
+      "url": "https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX"
     },
     {
       "album": {

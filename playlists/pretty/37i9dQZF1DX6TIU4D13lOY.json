@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 238656,
+  "num_followers": 238750,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzFiNDgzY2MzYjU2M2VhOGI5NjJlM2FiNzRhYTQ1ZGY0ZmQyYmQw",
+  "snapshot_id": "MCxmNTE0MzFkZjJmYWVlNTkyNTk5OWJlOWM3MWYyNjU3OWI0ZDVlYTNk",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Minute by Minute",
-        "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "What a Fool Believes",
-      "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Eye In The Sky (Expanded Edition)",
         "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 276280,
       "name": "Eye In The Sky",
       "url": "https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Minute by Minute",
+        "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "What a Fool Believes",
+      "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -347,22 +347,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/08o75xMKmGrKny6GsXrNJW"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 275506,
       "name": "Ride Like the Wind",
       "url": "https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/08o75xMKmGrKny6GsXrNJW"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223733,
-      "name": "Big Love - 2017 Remaster",
-      "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 272946,
       "name": "Rikki Don't Lose That Number",
       "url": "https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223733,
+      "name": "Big Love - 2017 Remaster",
+      "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Gaucho",
-        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 307400,
-      "name": "Hey Nineteen",
-      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "On the Border (2013 Remaster)",
         "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 224026,
       "name": "You're No Good",
       "url": "https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 307400,
+      "name": "Hey Nineteen",
+      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -747,18 +747,18 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7orQwVEEjByRj9hT98frwo"
+        "name": "Silk Degrees (2023 Remaster)",
+        "url": "https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI"
       },
       "artists": [
         {
-          "name": "Exile",
-          "url": "https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7"
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
         }
       ],
-      "duration_ms": 214400,
-      "name": "Kiss You All Over",
-      "url": "https://open.spotify.com/track/3FGcQkWQlkeB82RdZwlw8V"
+      "duration_ms": 317788,
+      "name": "Lowdown (2023 Remaster)",
+      "url": "https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -779,18 +779,18 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Silk Degrees (2023 Remaster)",
-        "url": "https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7orQwVEEjByRj9hT98frwo"
       },
       "artists": [
         {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7"
         }
       ],
-      "duration_ms": 317788,
-      "name": "Lowdown (2023 Remaster)",
-      "url": "https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u"
+      "duration_ms": 214400,
+      "name": "Kiss You All Over",
+      "url": "https://open.spotify.com/track/3FGcQkWQlkeB82RdZwlw8V"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp"
     },
     {
-      "added_at": "2022-06-29 18:01:05",
-      "album": {
-        "name": "Smoke From A Distant Fire",
-        "url": "https://open.spotify.com/album/6vUFJM8PgHDhmzTyAzN2PX"
-      },
-      "artists": [
-        {
-          "name": "Sanford Townsend Band",
-          "url": "https://open.spotify.com/artist/2PblGVYNdrem5ODxxMNhr0"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "Smoke from a Distant Fire",
-      "url": "https://open.spotify.com/track/62obgbkuUt75nDIiIcLI4T"
-    },
-    {
       "added_at": "2020-01-07 15:31:11",
       "album": {
         "name": "The Pretender",
@@ -983,6 +967,22 @@
       "duration_ms": 351000,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/7Gr61S9VTm8fcYfAo4Fd9g"
+    },
+    {
+      "added_at": "2022-06-29 18:01:05",
+      "album": {
+        "name": "Smoke From A Distant Fire",
+        "url": "https://open.spotify.com/album/6vUFJM8PgHDhmzTyAzN2PX"
+      },
+      "artists": [
+        {
+          "name": "Sanford Townsend Band",
+          "url": "https://open.spotify.com/artist/2PblGVYNdrem5ODxxMNhr0"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "Smoke from a Distant Fire",
+      "url": "https://open.spotify.com/track/62obgbkuUt75nDIiIcLI4T"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -1097,22 +1097,6 @@
       "url": "https://open.spotify.com/track/0UHiH4dy1hXULYl8CgNxRV"
     },
     {
-      "added_at": "2022-06-29 18:01:05",
-      "album": {
-        "name": "Moonlight Feels Right",
-        "url": "https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9"
-      },
-      "artists": [
-        {
-          "name": "Starbuck",
-          "url": "https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Moonlight Feels Right",
-      "url": "https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK"
-    },
-    {
       "added_at": "2020-01-07 15:31:11",
       "album": {
         "name": "Silk Degrees (2023 Remaster)",
@@ -1127,6 +1111,22 @@
       "duration_ms": 181009,
       "name": "What Can I Say (2023 Remaster)",
       "url": "https://open.spotify.com/track/74t8MRGyoMSIkiN1f43gKc"
+    },
+    {
+      "added_at": "2022-06-29 18:01:05",
+      "album": {
+        "name": "Moonlight Feels Right",
+        "url": "https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9"
+      },
+      "artists": [
+        {
+          "name": "Starbuck",
+          "url": "https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Moonlight Feels Right",
+      "url": "https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK"
     },
     {
       "added_at": "2020-01-07 15:31:11",

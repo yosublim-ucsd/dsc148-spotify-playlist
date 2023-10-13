@@ -1803,6 +1803,28 @@
     },
     {
       "album": {
+        "name": "All My Life (Remixes)",
+        "url": "https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217672,
+      "name": "All My Life (Stray Kids Remix) - Stray Kids Explicit Stereo",
+      "url": "https://open.spotify.com/track/5OHNBi6tsE0acRA9Kt4ybC"
+    },
+    {
+      "album": {
         "name": "ALL MY SHIT IS STUPID",
         "url": "https://open.spotify.com/album/1ve4FkIf7ZCK9rq6PtRK0l"
       },
@@ -4418,7 +4440,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 133482,
       "name": "BLESS U",
       "url": "https://open.spotify.com/track/7dTsJAIk5ziK6o0dvDXGLU"
@@ -9843,6 +9865,36 @@
     },
     {
       "album": {
+        "name": "OK!",
+        "url": "https://open.spotify.com/album/08rkwpbjI6gL5CqiQk6XBV"
+      },
+      "artists": [
+        {
+          "name": "Cravism",
+          "url": "https://open.spotify.com/artist/5VJEmiTk1xkj60ts3ZmoHf"
+        },
+        {
+          "name": "ABANGSAPAU",
+          "url": "https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw"
+        },
+        {
+          "name": "Mary Sue",
+          "url": "https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251"
+        },
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "early2thou (Love, Lust, Pearls)",
+      "url": "https://open.spotify.com/track/0kvlUS6thdV2xkGbK0FsMv"
+    },
+    {
+      "album": {
         "name": "Eazy",
         "url": "https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT"
       },
@@ -10262,6 +10314,24 @@
       "duration_ms": 230501,
       "name": "eyes can't see",
       "url": "https://open.spotify.com/track/0kKt6R53daDfAC3Fd8EcGu"
+    },
+    {
+      "album": {
+        "name": "ROBERT",
+        "url": "https://open.spotify.com/album/4VTHhmhVaB2gpViAdHbKHg"
+      },
+      "artists": [
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128920,
+      "name": "f",
+      "url": "https://open.spotify.com/track/02Nkt660XIvXwZQf9bkwh6"
     },
     {
       "album": {
@@ -12207,6 +12277,28 @@
     },
     {
       "album": {
+        "name": "Glizock & Wizop (feat. Key Glock)",
+        "url": "https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192508,
+      "name": "Glizock & Wizop (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0"
+    },
+    {
+      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/5nfZctvxgTW2UfKFl1hf8J"
       },
@@ -13400,6 +13492,24 @@
       "duration_ms": 188502,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/2luqp05fNA4CbzzgWR9cuS"
+    },
+    {
+      "album": {
+        "name": "HEAVEN'S GALAXY",
+        "url": "https://open.spotify.com/album/68xRB3gmaXR0ja7HaBSi1B"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377466,
+      "name": "HEAVEN'S GALAXY",
+      "url": "https://open.spotify.com/track/1iUlclkUb1sXcmrDqfQkIH"
     },
     {
       "album": {
@@ -16201,6 +16311,32 @@
     },
     {
       "album": {
+        "name": "UNDERDOG",
+        "url": "https://open.spotify.com/album/59dUrZn6tENKO2Lg30QfLI"
+      },
+      "artists": [
+        {
+          "name": "OG BOBBY",
+          "url": "https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe"
+        },
+        {
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        },
+        {
+          "name": "Dennis Thaikoon",
+          "url": "https://open.spotify.com/artist/2Q2YHYZ11DBbeJKmKLAcsO"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219359,
+      "name": "K.U.A.Y",
+      "url": "https://open.spotify.com/track/24z1AbC9gwYfN3oJgY7tnh"
+    },
+    {
+      "album": {
         "name": "Saturday Afternoon Kung Fu Theater",
         "url": "https://open.spotify.com/album/2B1vfij3XHohiv36HUHhr1"
       },
@@ -16496,7 +16632,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 158532,
       "name": "KNOWS ME BETTER - Icebox Remix",
       "url": "https://open.spotify.com/track/006bAnUY1eSHGxAx3KrcEA"
@@ -20426,7 +20562,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 163013,
       "name": "New World",
       "url": "https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J"
@@ -20798,6 +20934,24 @@
       "duration_ms": 146976,
       "name": "No Fake Love (Gangsta Grillz Version)",
       "url": "https://open.spotify.com/track/0hdRLYoqYwzw2sTlRem2EF"
+    },
+    {
+      "album": {
+        "name": "LET'S DO IT",
+        "url": "https://open.spotify.com/album/4I49kBApc9FV9oeAcIj9tK"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118356,
+      "name": "NO FINSTA",
+      "url": "https://open.spotify.com/track/59GEWDzQgCXM55aGZDWSrQ"
     },
     {
       "album": {
@@ -21988,7 +22142,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 192000,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/5M3xIyQ0AP2khNuIuve7t2"
@@ -24974,7 +25128,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 156500,
       "name": "Rico",
       "url": "https://open.spotify.com/track/1exBBRcJhe8PP09xQq066b"
@@ -26016,7 +26170,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 207794,
       "name": "Seatbelt",
       "url": "https://open.spotify.com/track/0VPmzoUEtmi8Xc9x71VDYG"
@@ -32623,6 +32777,24 @@
     },
     {
       "album": {
+        "name": "vices",
+        "url": "https://open.spotify.com/album/0w9xGBHCzyiiSuxWdajWBc"
+      },
+      "artists": [
+        {
+          "name": "Kwame",
+          "url": "https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156628,
+      "name": "vices",
+      "url": "https://open.spotify.com/track/6TWYp6hVTLx9zbsac9cs3X"
+    },
+    {
+      "album": {
         "name": "VOIR DIRE",
         "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
       },
@@ -33737,6 +33909,24 @@
     },
     {
       "album": {
+        "name": "Who Want Smoke",
+        "url": "https://open.spotify.com/album/12DYheET68HvbHMUlR50wl"
+      },
+      "artists": [
+        {
+          "name": "Yung Bans",
+          "url": "https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Who Want Smoke",
+      "url": "https://open.spotify.com/track/4zcEZF9VpQ2Tk5yyIT6mAc"
+    },
+    {
+      "album": {
         "name": "WHO YOU",
         "url": "https://open.spotify.com/album/2k2m5HWtzANiCZkc39texk"
       },
@@ -34162,6 +34352,36 @@
       "duration_ms": 166227,
       "name": "Work",
       "url": "https://open.spotify.com/track/3N0srZgpRLSY2ziJ1FsJh9"
+    },
+    {
+      "album": {
+        "name": "WORLD STOP TURNING (feat. Warren Hue)",
+        "url": "https://open.spotify.com/album/73uv8IgpT6e22cr6ZRzH2x"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248403,
+      "name": "WORLD STOP TURNING (feat. Warren Hue)",
+      "url": "https://open.spotify.com/track/4nrTZBPIBCmU4RDsXfNwp0"
     },
     {
       "album": {

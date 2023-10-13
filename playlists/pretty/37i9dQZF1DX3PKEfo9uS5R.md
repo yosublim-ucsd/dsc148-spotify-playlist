@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,418 likes - 88 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,457 likes - 86 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,22 +17,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 7 | [Scuba](https://open.spotify.com/track/2p9EvU7lq9Aa0kPH9ZpMaR) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Scuba](https://open.spotify.com/album/1iqfJB94wDQkICP9m840RG) | 2:19 |
 | 8 | [Maui](https://open.spotify.com/track/6BUbZorl2FQwfGYDx5tVrO) | [Blue Daisy](https://open.spotify.com/artist/2l3CKt1KfWQAduDjHFDqsf) | [Maui](https://open.spotify.com/album/07vdmGKGSipTkXbBLlg5Ic) | 2:19 |
 | 9 | [Imagination](https://open.spotify.com/track/4uRf2Tj4d0DXLuekQDBwwU) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Imagination](https://open.spotify.com/album/7azMMhLw5xBgBi0Ir7uaOH) | 2:29 |
-| 10 | [Heat Wave](https://open.spotify.com/track/59q8vvH0Eo4Wi1MhgUhtl0) | [People Safari](https://open.spotify.com/artist/4iHmCfEwNugPXuVF2D523z) | [Heat Wave](https://open.spotify.com/album/7jJgMxaUWkvoHaE4uwDrwg) | 2:21 |
-| 11 | [Sexy Sundays](https://open.spotify.com/track/6beX5xxj4FKaYexUBPsJxF) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Sexy Sundays](https://open.spotify.com/album/1SDB6TMf2NCDCvw34ml2fa) | 2:45 |
-| 12 | [L’avion](https://open.spotify.com/track/1TZ3xS8JjAPbvYe5BqIqhW) | [Palombi](https://open.spotify.com/artist/7jY1E7URIXvA0gmnuE2m2k) | [L’avion](https://open.spotify.com/album/1VD6PTvEFHDks4Z6dkZTlk) | 2:35 |
-| 13 | [With My Feet On The Ground](https://open.spotify.com/track/5YOuzYXjNbONPE6dMsX8Wu) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [With My Feet On The Ground](https://open.spotify.com/album/36irUhsNlmOTWa4A752d8q) | 3:03 |
-| 14 | [Oysterdate](https://open.spotify.com/track/0QPSjqBltCTN4RI51YHoqP) | [Cmooth Operators](https://open.spotify.com/artist/7jbFr8lLTMytrhaHgoo3Sh) | [Oysterdate](https://open.spotify.com/album/57LtqLeAKvSpBDRa5JWBCj) | 3:00 |
-| 15 | [Inside](https://open.spotify.com/track/266AcipKTXIgXJxre9q96l) | [Karl Spark](https://open.spotify.com/artist/1fT4bjnaK1NRVL2Kt62clf) | [Eternity](https://open.spotify.com/album/1hao8mc9TnqAnw0CxneHYN) | 2:38 |
-| 16 | [Passion Dance](https://open.spotify.com/track/1pYGDlPoRvrV5wSUjDdAEW) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Passion Dance](https://open.spotify.com/album/500ExojY2lcDHP6GGvrelw) | 3:38 |
-| 17 | [Mar y Sol](https://open.spotify.com/track/7ET0GAyYAy35LEZJnFwFEa) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Mar y Sol](https://open.spotify.com/album/2zRJG1SeLJ2LzyULzKyUPj) | 3:28 |
-| 18 | [Sphinx](https://open.spotify.com/track/5yxbR0xFLPYD1Rwcpue0L9) | [Lui](https://open.spotify.com/artist/0Rk4M5J8WUbwga9BIXQyZA) | [Sphinx](https://open.spotify.com/album/7BkPWJsOkhwGgSU4cU0FtP) | 3:14 |
-| 19 | [drift](https://open.spotify.com/track/15bdg1OPg7Se0f5aIYWUxR) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [drift](https://open.spotify.com/album/61s9uzgpln4l7n81lM0UIw) | 3:57 |
-| 20 | [joy love](https://open.spotify.com/track/6k7j89mjONxCj8FioP1cii) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [joy love](https://open.spotify.com/album/6G4Hf6evzUuupK4RQjGPQy) | 2:33 |
-| 21 | [Petros](https://open.spotify.com/track/3jpj5rsdWQ1178Y0ag6BAb) | [Metra kit](https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3) | [Petros](https://open.spotify.com/album/1DnZaKmshbDzxzzhaBc1vH) | 3:06 |
-| 22 | [Think im falling](https://open.spotify.com/track/3imE71iFvzkD6UUkYkDkDu) | [WingIt](https://open.spotify.com/artist/47DyyyhbkdgZhVnA6GSjpy) | [Island Bypass](https://open.spotify.com/album/1XxoGgi1KmVTJXtgDWQWW4) | 2:06 |
-| 23 | [Really](https://open.spotify.com/track/1aApO1iwmZQxfwbFPbxy3I) | [Sleap Year](https://open.spotify.com/artist/3rHbl02YzcYLfkNurILXKH) | [Really](https://open.spotify.com/album/3slEFvvLdHdY87gYg8QHt2) | 2:05 |
-| 24 | [The House](https://open.spotify.com/track/2ButdsowcftDJQOYPeBes7) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [The House](https://open.spotify.com/album/7ekED2arGdfKQsg1Gqekiw) | 2:37 |
-| 25 | [Duane](https://open.spotify.com/track/6OFnPWtW3pANhBtcG8orIg) | [Baron Malice](https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe) | [Duane](https://open.spotify.com/album/51Hqtsc3EsOYeDIuYunnjd) | 3:12 |
+| 10 | [Down to the Blue](https://open.spotify.com/track/21jfC5vXMMoy1u4qNEkJLi) | [Liana Wall](https://open.spotify.com/artist/7E7H82aEPVcHMWMldQkXcI) | [Down to the Blue](https://open.spotify.com/album/3Al543n7aW5g7gqwfkiQn4) | 2:26 |
+| 11 | [Heat Wave](https://open.spotify.com/track/59q8vvH0Eo4Wi1MhgUhtl0) | [People Safari](https://open.spotify.com/artist/4iHmCfEwNugPXuVF2D523z) | [Heat Wave](https://open.spotify.com/album/7jJgMxaUWkvoHaE4uwDrwg) | 2:21 |
+| 12 | [Sexy Sundays](https://open.spotify.com/track/6beX5xxj4FKaYexUBPsJxF) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Sexy Sundays](https://open.spotify.com/album/1SDB6TMf2NCDCvw34ml2fa) | 2:45 |
+| 13 | [L’avion](https://open.spotify.com/track/1TZ3xS8JjAPbvYe5BqIqhW) | [Palombi](https://open.spotify.com/artist/7jY1E7URIXvA0gmnuE2m2k) | [L’avion](https://open.spotify.com/album/1VD6PTvEFHDks4Z6dkZTlk) | 2:35 |
+| 14 | [With My Feet On The Ground](https://open.spotify.com/track/5YOuzYXjNbONPE6dMsX8Wu) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [With My Feet On The Ground](https://open.spotify.com/album/36irUhsNlmOTWa4A752d8q) | 3:03 |
+| 15 | [Oysterdate](https://open.spotify.com/track/0QPSjqBltCTN4RI51YHoqP) | [Cmooth Operators](https://open.spotify.com/artist/7jbFr8lLTMytrhaHgoo3Sh) | [Oysterdate](https://open.spotify.com/album/57LtqLeAKvSpBDRa5JWBCj) | 3:00 |
+| 16 | [Inside](https://open.spotify.com/track/266AcipKTXIgXJxre9q96l) | [Karl Spark](https://open.spotify.com/artist/1fT4bjnaK1NRVL2Kt62clf) | [Eternity](https://open.spotify.com/album/1hao8mc9TnqAnw0CxneHYN) | 2:38 |
+| 17 | [Passion Dance](https://open.spotify.com/track/1pYGDlPoRvrV5wSUjDdAEW) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Passion Dance](https://open.spotify.com/album/500ExojY2lcDHP6GGvrelw) | 3:38 |
+| 18 | [Mar y Sol](https://open.spotify.com/track/7ET0GAyYAy35LEZJnFwFEa) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Mar y Sol](https://open.spotify.com/album/2zRJG1SeLJ2LzyULzKyUPj) | 3:28 |
+| 19 | [Sphinx](https://open.spotify.com/track/5yxbR0xFLPYD1Rwcpue0L9) | [Lui](https://open.spotify.com/artist/0Rk4M5J8WUbwga9BIXQyZA) | [Sphinx](https://open.spotify.com/album/7BkPWJsOkhwGgSU4cU0FtP) | 3:14 |
+| 20 | [drift](https://open.spotify.com/track/15bdg1OPg7Se0f5aIYWUxR) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [drift](https://open.spotify.com/album/61s9uzgpln4l7n81lM0UIw) | 3:57 |
+| 21 | [joy love](https://open.spotify.com/track/6k7j89mjONxCj8FioP1cii) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [joy love](https://open.spotify.com/album/6G4Hf6evzUuupK4RQjGPQy) | 2:33 |
+| 22 | [Petros](https://open.spotify.com/track/3jpj5rsdWQ1178Y0ag6BAb) | [Metra kit](https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3) | [Petros](https://open.spotify.com/album/1DnZaKmshbDzxzzhaBc1vH) | 3:06 |
+| 23 | [Think im falling](https://open.spotify.com/track/3imE71iFvzkD6UUkYkDkDu) | [WingIt](https://open.spotify.com/artist/47DyyyhbkdgZhVnA6GSjpy) | [Island Bypass](https://open.spotify.com/album/1XxoGgi1KmVTJXtgDWQWW4) | 2:06 |
+| 24 | [Really](https://open.spotify.com/track/1aApO1iwmZQxfwbFPbxy3I) | [Sleap Year](https://open.spotify.com/artist/3rHbl02YzcYLfkNurILXKH) | [Really](https://open.spotify.com/album/3slEFvvLdHdY87gYg8QHt2) | 2:05 |
+| 25 | [The House](https://open.spotify.com/track/2ButdsowcftDJQOYPeBes7) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [The House](https://open.spotify.com/album/7ekED2arGdfKQsg1Gqekiw) | 2:37 |
 | 26 | [Saharan Nights](https://open.spotify.com/track/2xzGTbiRdVuRGnLISbZuQ4) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [My Everything](https://open.spotify.com/album/6LibNk6jpDCze0Zb7Y8QLi) | 2:44 |
 | 27 | [Amalfi](https://open.spotify.com/track/19QYUIYkUEyIixnSbVej4W) | [Lagoa Verde](https://open.spotify.com/artist/2rj97Navn2jTJOZdsrwvWr) | [Amalfi](https://open.spotify.com/album/3GUtE7Dy2XpyOdg1V8uTuF) | 2:45 |
 | 28 | [private pools](https://open.spotify.com/track/4TATsJQ6VyMwOZbZpogkdg) | [Miriamy](https://open.spotify.com/artist/4GRc7Ci5nEs8ZEr2dm6cUz) | [private pools](https://open.spotify.com/album/4YLzNqNYhLsW7AT2ZauogV) | 2:41 |
@@ -94,7 +94,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 84 | [See You There](https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Pink T\-Shirt](https://open.spotify.com/album/3V9EAFoBD2wHdj18E320lQ) | 3:27 |
 | 85 | [Affection](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Affection](https://open.spotify.com/album/2rqz6aDLD084T5td7Q6EsL) | 2:56 |
 | 86 | [Souls](https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Souls](https://open.spotify.com/album/118kdRwrFscCUlo9bSr096) | 4:14 |
-| 87 | [Higher Fun](https://open.spotify.com/track/6Rbptz8SnSzSrQaQIS2agP) | [Turqousie Day](https://open.spotify.com/artist/29YYpH6cWgHKCW4m0nafgG) | [Higher Fun](https://open.spotify.com/album/3nA9zwp2HlLbpoomZGLtHl) | 3:39 |
-| 88 | [Love in the Air](https://open.spotify.com/track/0DAaxDD2brWwpTDH2HdaON) | [Gold Glo](https://open.spotify.com/artist/5OOBTy3uO1KvzwexXmMhVz) | [Love in the Air](https://open.spotify.com/album/2cAL5xHeFCKMfFIGuNinst) | 2:38 |
 
-Snapshot ID: `MCxiYTA0MmY5Y2ExMGY5Zjc4Yjg0YTBmMGE5OGVkYTNlOTljOWI1NmNi`
+Snapshot ID: `MCw1MWE1MDJkZDNiMzdmZDYzNGQyZjM1NTUwN2IzOTJlMzAyZjVkOGZi`

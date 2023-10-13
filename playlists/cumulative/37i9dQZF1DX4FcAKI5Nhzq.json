@@ -1675,6 +1675,32 @@
     },
     {
       "album": {
+        "name": "Ballerina (Music from The Netflix Film)",
+        "url": "https://open.spotify.com/album/11HqjJX3c1LsSrCmUUBjI5"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "BLOOD ON MY HANDS (Feat. Paul Blanco & DeVita)",
+      "url": "https://open.spotify.com/track/2tWlrQ5VAwVcVmTdxeqa5J"
+    },
+    {
+      "album": {
         "name": "Blue & Black",
         "url": "https://open.spotify.com/album/5n3Ny3eqXdOY4NzQCXsykh"
       },
@@ -1840,7 +1866,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 212333,
       "name": "BONVOYAGE (Farewell Ver.)",
       "url": "https://open.spotify.com/track/4xiuarCywWiw9qESd8Y7ng"
@@ -3510,7 +3536,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 180306,
       "name": "Dancing with you in the Rain",
       "url": "https://open.spotify.com/track/2KQpOKk59I54dbz0z3etMG"
@@ -4144,6 +4170,24 @@
       "duration_ms": 176546,
       "name": "Don't fight the feeling",
       "url": "https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY"
+    },
+    {
+      "album": {
+        "name": "Don't Go Insane",
+        "url": "https://open.spotify.com/album/4GLbvgylMSGQ87JZL0TER1"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5izX3yhDZHqQFi8p2m6RHi"
     },
     {
       "album": {
@@ -5060,7 +5104,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 208093,
       "name": "Fizzled",
       "url": "https://open.spotify.com/track/70bB2mVy2OOOy2AhI9NyNK"
@@ -11182,7 +11226,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 173640,
       "name": "PERFORMER",
       "url": "https://open.spotify.com/track/2arrxX2BubTq86E4N067WY"
@@ -14121,6 +14165,24 @@
     },
     {
       "album": {
+        "name": "Strong Girl Nam-soon (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/1atx6ADNPFNf3PKvBiSa6l"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "SUPERPOWERS",
+      "url": "https://open.spotify.com/track/2T0cn0hvGrG8vqqB8sK4zX"
+    },
+    {
+      "album": {
         "name": "SURRENDER",
         "url": "https://open.spotify.com/album/2nbrVdm3DhZjZxEIrL28ox"
       },
@@ -16578,6 +16640,24 @@
       "duration_ms": 174906,
       "name": "WINNER (feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0EUPVKyimfNPxAkF9bNCNx"
+    },
+    {
+      "album": {
+        "name": "With UNIVERSE",
+        "url": "https://open.spotify.com/album/2m8cxPDIlH371sLuivEWMI"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179826,
+      "name": "With UNIVERSE",
+      "url": "https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8"
     },
     {
       "album": {

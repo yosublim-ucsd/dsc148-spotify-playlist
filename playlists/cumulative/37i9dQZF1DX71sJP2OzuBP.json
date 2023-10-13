@@ -10242,10 +10242,32 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 216384,
       "name": "\u602f",
       "url": "https://open.spotify.com/track/2Cd9Z6LLounw1LfS3iH0aF"
+    },
+    {
+      "album": {
+        "name": "\u6ca1\u6709\u6c38\u6052",
+        "url": "https://open.spotify.com/album/58cxrd9MChIEJ4htpaMbkZ"
+      },
+      "artists": [
+        {
+          "name": "KunppleZz",
+          "url": "https://open.spotify.com/artist/4IJ4F9XmUZHFokW8LDzdda"
+        },
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/2rfrTgqNXVOz3dlgpArSAf"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216384,
+      "name": "\u602f",
+      "url": "https://open.spotify.com/track/32B07j7lIxBWNQfTQkZA4d"
     },
     {
       "album": {

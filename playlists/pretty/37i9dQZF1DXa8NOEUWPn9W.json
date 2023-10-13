@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring Mau P.",
-  "num_followers": 1901485,
+  "num_followers": 1899975,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDBlNDcxMWRhOTJjOGVkODJhODY0ZTllN2E5ZTQ4NzgwNDNiOWQ0",
+  "snapshot_id": "MCw3YTIxMTRmMGU0OTk3ODhkYzE2Y2M3NmRjZjRhZWU2NDJjNjQxNGNj",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -931,30 +931,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Push To Start (feat. No/Me)",
-        "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "No/Me",
-          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "Push To Start (feat. No/Me)",
-      "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Mercy (feat. Jacob Lusk)",
         "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
       },
@@ -975,6 +951,30 @@
       "duration_ms": 178242,
       "name": "Mercy (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Push To Start (feat. No/Me)",
+        "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "Push To Start (feat. No/Me)",
+      "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Food for the Soul",
-        "url": "https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw"
-      },
-      "artists": [
-        {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
-        }
-      ],
-      "duration_ms": 210562,
-      "name": "Food for the Soul",
-      "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Drums (Feat. Kim Petras)",
         "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 152400,
       "name": "Drums (Feat. Kim Petras)",
       "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Food for the Soul",
+        "url": "https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        }
+      ],
+      "duration_ms": 210562,
+      "name": "Food for the Soul",
+      "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1339,22 +1339,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m"
       },
       "artists": [
         {
-          "name": "Crazibiza",
-          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
-        },
-        {
-          "name": "House of Prayers",
-          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
         }
       ],
-      "duration_ms": 284886,
-      "name": "Fresh - House of Prayers Poolside Edit",
-      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
+      "duration_ms": 195241,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1375,18 +1371,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
       },
       "artists": [
         {
-          "name": "Torren Foot",
-          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+          "name": "Crazibiza",
+          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
+        },
+        {
+          "name": "House of Prayers",
+          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
         }
       ],
-      "duration_ms": 195241,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
+      "duration_ms": 284886,
+      "name": "Fresh - House of Prayers Poolside Edit",
+      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Your Mind Is Dirty",
+        "url": "https://open.spotify.com/album/2CAWKp11LNJGtt3ROH1XsR"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 198799,
+      "name": "Your Mind Is Dirty",
+      "url": "https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1PFrNTi1e8CLXZMZtKP8EB"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 170668,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6rKg4cUeuUOvWhPOwhQRtX"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Your Mind Is Dirty",
-        "url": "https://open.spotify.com/album/2CAWKp11LNJGtt3ROH1XsR"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 198799,
-      "name": "Your Mind Is Dirty",
-      "url": "https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Giodisco",
-        "url": "https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Giodisco",
-      "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "The Sea",
         "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 190720,
       "name": "The Sea",
       "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Giodisco",
+        "url": "https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Giodisco",
+      "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1967,6 +1967,26 @@
       "duration_ms": 191013,
       "name": "Pose",
       "url": "https://open.spotify.com/track/5LBemsCrsGqsXSGYA8i2z6"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "I Don't Wanna Work",
+        "url": "https://open.spotify.com/album/0T0cj4HTUWr5RJ2cpZ11eQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "duration_ms": 155544,
+      "name": "I Don't Wanna Work",
+      "url": "https://open.spotify.com/track/5pfvr2T90tLuAFyJC2VSxv"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2027,26 +2047,6 @@
       "duration_ms": 187500,
       "name": "Freak",
       "url": "https://open.spotify.com/track/6LDoJdEJW4NTOTOLTH71IL"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "I Don't Wanna Work",
-        "url": "https://open.spotify.com/album/0T0cj4HTUWr5RJ2cpZ11eQ"
-      },
-      "artists": [
-        {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 155544,
-      "name": "I Don't Wanna Work",
-      "url": "https://open.spotify.com/track/5pfvr2T90tLuAFyJC2VSxv"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2291,30 +2291,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/2nBnSn82VCM4k19bmD9h4a"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Funkin Matt",
-          "url": "https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1"
-        },
-        {
-          "name": "Soul Edge",
-          "url": "https://open.spotify.com/artist/56WvcWLyO6ri4rhr21HMpa"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/3m53COQuUirTyVx0YoM9q0"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/2BbSWQGVeRWeJQtByWRxOm"
       },
@@ -2355,6 +2331,30 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/2nBnSn82VCM4k19bmD9h4a"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Funkin Matt",
+          "url": "https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1"
+        },
+        {
+          "name": "Soul Edge",
+          "url": "https://open.spotify.com/artist/56WvcWLyO6ri4rhr21HMpa"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/3m53COQuUirTyVx0YoM9q0"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Maracuya",
         "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
       },
@@ -2387,6 +2387,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Off My Mind",
+        "url": "https://open.spotify.com/album/2wfCtn1trmG5Vtq5emR0jc"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "SAM WHITE",
+          "url": "https://open.spotify.com/artist/1YPTXq9n1T2Zlw3dLR3Zdf"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "Off My Mind",
+      "url": "https://open.spotify.com/track/2S2uzei41Epnb1TndFTS9l"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Love Me Right",
         "url": "https://open.spotify.com/album/2KHcUTy2K9ZJnrpXrGKf16"
       },
@@ -2399,26 +2419,6 @@
       "duration_ms": 188671,
       "name": "Love Me Right",
       "url": "https://open.spotify.com/track/3SfytvcxqoQWgITH0r9QY0"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "The Complete Collection",
-        "url": "https://open.spotify.com/album/2ooyO0Krh2H87j4hJbPQiE"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "Shadow Child",
-          "url": "https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9"
-        }
-      ],
-      "duration_ms": 304615,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0t7ahpke8UKi61ikrSh5sd"
     }
   ],
   "unique_name": "Housewerk",

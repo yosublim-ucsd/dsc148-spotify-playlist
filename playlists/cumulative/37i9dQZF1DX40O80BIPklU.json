@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 133090,
       "name": "0880",
       "url": "https://open.spotify.com/track/3a1iaFg2FLSqzl42BtIldv"
@@ -3325,6 +3325,28 @@
     },
     {
       "album": {
+        "name": "Zoom",
+        "url": "https://open.spotify.com/album/0rDGF0mOdH57KIKRFy6dFq"
+      },
+      "artists": [
+        {
+          "name": "Lasser",
+          "url": "https://open.spotify.com/artist/5AlWoe0Tl7mmeNMdJCHRhj"
+        },
+        {
+          "name": "Amber Window",
+          "url": "https://open.spotify.com/artist/066Vam5XGA8T8NNl1sroAg"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156891,
+      "name": "Nike 95",
+      "url": "https://open.spotify.com/track/4r2frsl6BuWbYUZLybprKa"
+    },
+    {
+      "album": {
         "name": "Niple",
         "url": "https://open.spotify.com/album/34Ya8APZthEj4tO9SxeQEb"
       },
@@ -4592,7 +4614,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 113090,
       "name": "TIKI",
       "url": "https://open.spotify.com/track/4kf612vXDfbM5AHrFIVUN9"
@@ -5064,6 +5086,28 @@
       "duration_ms": 258100,
       "name": "\u00daltimo Adi\u00f3s",
       "url": "https://open.spotify.com/track/62NGexdWmThjmnnlobPev4"
+    },
+    {
+      "album": {
+        "name": "\u2606 Neosantismos \u2606",
+        "url": "https://open.spotify.com/album/5jvxFCbhCYCrZpcadQdq1G"
+      },
+      "artists": [
+        {
+          "name": "Santo Miletto",
+          "url": "https://open.spotify.com/artist/5RvW8CSJeeQSayoAKpKM1d"
+        },
+        {
+          "name": "Pocket Tincho",
+          "url": "https://open.spotify.com/artist/4s65hXCQfmaf39pGFlM387"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "\u2606 Neosantismos \u2606",
+      "url": "https://open.spotify.com/track/1XxLnbK1bQfFtB8xi9riZ4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX40O80BIPklU"

@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-619 songs - 1 day 2 hr 52 min
+624 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Hearst Castle](https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Hearst Castle](https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN) | 2:08 | 2023-03-10 |  |
 | [Heat Waves \- Guitar](https://open.spotify.com/track/70IohoujPBAt3fNCqYvpxh) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Heat Waves \(Guitar\)](https://open.spotify.com/album/5nR0oeYlZEnPBlKvNi1RQS) | 4:08 | 2022-04-05 | 2023-03-10 |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2021-12-08 |  |
+| [Helix](https://open.spotify.com/track/1gzalRgd6177ItWli3V6fI) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Helix](https://open.spotify.com/album/36IKErRzj6twXIiIPDh4TN) | 2:12 | 2023-10-13 |  |
 | [Hemma är vid havet](https://open.spotify.com/track/5U3u4NXauUXzsnki4PbjPC) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Hemma är vid havet](https://open.spotify.com/album/6J0FxxEmI1YFvtEKPfInUH) | 2:52 | 2022-04-22 | 2023-03-10 |
 | [Heritage](https://open.spotify.com/track/0E4hN2dSQj8WtGSKPmg7VC) | [Thomas Eder](https://open.spotify.com/artist/2krrSbwXMkf0UncTYMR1qY) | [Heritage](https://open.spotify.com/album/6WsamjZL8938pfC4VsIIjH) | 2:20 | 2022-10-28 |  |
 | [Hidden Moments](https://open.spotify.com/track/30CSchwlaiSQUb4R29Gczs) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [Hidden Moments](https://open.spotify.com/album/53tKNkgHDBPfCsFxjVAE8C) | 4:08 | 2022-06-03 | 2022-08-19 |
@@ -262,6 +263,7 @@
 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 | 2021-12-08 | 2022-04-06 |
 | [Infatuated](https://open.spotify.com/track/4snLhsoeQDkuYpjSmnGlUV) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Infatuated](https://open.spotify.com/album/2kIwwzu3FAJcZRxA5P0eFH) | 2:45 | 2023-02-24 |  |
 | [Infatuation](https://open.spotify.com/track/1RKWZJKvFfuPDroaYPnaNA) | [Kay Meine](https://open.spotify.com/artist/1YCpuDhM5Ounw7IiCBypuB) | [Infatuation](https://open.spotify.com/album/7eyl64vJR6DiBHa8TAzgRL) | 2:14 | 2021-12-08 |  |
+| [Innocent Face](https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:02 | 2023-10-13 |  |
 | [Inside the stone](https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Inside the stone](https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi) | 2:04 | 2023-03-24 |  |
 | [Intimation](https://open.spotify.com/track/1pPsz87YEWRZKgCLSPKyoL) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Intimation](https://open.spotify.com/album/3zKYzylFhenfGuKNaNfOB6) | 1:24 | 2022-08-19 | 2023-08-19 |
 | [Intuition](https://open.spotify.com/track/6vUsv2JJEUDjfKO6WPDJhZ) | [Miller Hawkins](https://open.spotify.com/artist/3UOaQwHxcBDlMJm5P34hme) | [Intuition](https://open.spotify.com/album/4yTM5RvuKvukyE0JudZm6G) | 2:54 | 2021-12-08 | 2022-04-22 |
@@ -341,6 +343,7 @@
 | [Meet Me When I Come](https://open.spotify.com/track/6A4OZEbZdVXcWa79ZhanWN) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Meet Me When I Come](https://open.spotify.com/album/5n6VG1x2YR6D8xVDrpFGaL) | 3:11 | 2023-06-22 |  |
 | [Melancolia](https://open.spotify.com/track/2YbIbI797f6htjFAwzcIGJ) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [Melancolia](https://open.spotify.com/album/23k6kKSxaMIEmkSsqg118j) | 2:21 | 2021-12-08 | 2022-03-19 |
 | [Melhor Coisa](https://open.spotify.com/track/5DcUfrX3AbVu3pnHLJbwaf) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Melhor Coisa](https://open.spotify.com/album/4O7k3nDZOsevNAy6cRNegZ) | 2:12 | 2023-04-21 |  |
+| [Meliora](https://open.spotify.com/track/5Rcadz15kuvonMLJ6Oc8OF) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [Meliora](https://open.spotify.com/album/0ez2YoSEOUJJOgHDlprSxR) | 2:21 | 2023-10-13 |  |
 | [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2021-12-08 | 2022-06-10 |
 | [Memento](https://open.spotify.com/track/69BDXrJPLMJ2qVN6NkYmry) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Memento](https://open.spotify.com/album/6sQnpBPrAuHonNKkmtxlwI) | 2:44 | 2021-12-08 | 2022-04-06 |
 | [Memories](https://open.spotify.com/track/43fv0Uohu4M5XnaBR4NYqh) | [Ian Rice](https://open.spotify.com/artist/7aUuQ2faT5iuixVCX7DXRj) | [As It Was](https://open.spotify.com/album/1wkZ0ftdgQCqV4BORaDiXn) | 3:27 | 2022-11-18 | 2023-02-25 |
@@ -357,6 +360,7 @@
 | [Mittenwald](https://open.spotify.com/track/56gf0iOrvZQpwECebBy99R) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Mittenwald](https://open.spotify.com/album/6j8Tg0ERTdfiHWukxIHC8f) | 2:40 | 2021-12-08 | 2022-08-05 |
 | [Moments](https://open.spotify.com/track/5KscTL4V9Yz0hgH5aiJCLF) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Moments](https://open.spotify.com/album/1pN9aYINmhUNUH1KFVDjHJ) | 1:39 | 2023-05-12 | 2023-08-19 |
 | [Mondschein](https://open.spotify.com/track/7n1b2jjQSD5xNyo0Bs5dpM) | [Heinrich Schulmann](https://open.spotify.com/artist/6gOl6CDl4lz2DDYpdH8DJU) | [Mondschein](https://open.spotify.com/album/6MRZynP88zTclx9tOUoGrx) | 3:35 | 2021-12-08 | 2023-04-22 |
+| [Montes Claros](https://open.spotify.com/track/2DwZFuh7xnuEDvNwz4mAMi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Montes Claros](https://open.spotify.com/album/4xouEO0NJWhJswiV2Qofy8) | 2:45 | 2023-10-13 |  |
 | [Morning After](https://open.spotify.com/track/4DfrrlI4CXgm2MxCpHMTYJ) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Alluring Nights](https://open.spotify.com/album/0WvJGkmpVKmaxNE0ymehsf) | 2:34 | 2021-12-08 |  |
 | [Morning Dew](https://open.spotify.com/track/5MgDL4PZuc0lKdgpQCGjoX) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Morning Dew](https://open.spotify.com/album/3HXo20W8FF3Cmol4ZzeZFM) | 2:52 | 2021-12-08 | 2022-09-09 |
 | [Morning Dew](https://open.spotify.com/track/0dhPf7uQVTl63JOFCaYsJD) | [Dorothy Laddland](https://open.spotify.com/artist/4faFJj7Vro57tVaN6Q8p3I) | [Morning Dew](https://open.spotify.com/album/1ycPHmmIrXmVYkpdOtKQU9) | 1:52 | 2023-06-02 | 2023-08-19 |
@@ -393,7 +397,7 @@
 | [One More Midnight](https://open.spotify.com/track/3OxMslcb0NF0Calpo8GxHW) | [Adriana Von](https://open.spotify.com/artist/1vaAJMEhSW3SEr07yzlKDO) | [One More Midnight](https://open.spotify.com/album/2hsyVpCsOYeejMM1GSrorb) | 2:40 | 2021-12-08 | 2023-04-22 |
 | [One Wish](https://open.spotify.com/track/2bF4PjkcCw5ciubd2xQk3Y) | [Lance Takamiya](https://open.spotify.com/artist/7FaPxwleV4FLc7PRiyUYmS) | [One Wish](https://open.spotify.com/album/7pX9TLAfPGYS0SwHON8Tzr) | 2:33 | 2022-05-27 | 2022-08-19 |
 | [Onirique](https://open.spotify.com/track/00ktuagJxL4lP7xyJ1d82N) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Retrouvailles](https://open.spotify.com/album/3PwCrvkeUrCWFHwdjHCObf) | 2:41 | 2023-02-24 | 2023-06-03 |
-| [Onschuldig](https://open.spotify.com/track/7hbyxj6HhOnSp8onGh75Se) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Onschuldig](https://open.spotify.com/album/4CO5kHoKQocEwUeEMt2Cue) | 2:23 | 2022-02-01 |  |
+| [Onschuldig](https://open.spotify.com/track/7hbyxj6HhOnSp8onGh75Se) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Onschuldig](https://open.spotify.com/album/4CO5kHoKQocEwUeEMt2Cue) | 2:23 | 2022-02-01 | 2023-10-13 |
 | [Oshoshina](https://open.spotify.com/track/1ZUzQ8QlodbTIJdEVCnOlA) | [Ryohei Shimoyama](https://open.spotify.com/artist/22rBJY8j8xwmBm0Iml3Cgt) | [Oshoshina](https://open.spotify.com/album/1e8hNICSZneSSvoKx8plS6) | 2:10 | 2022-09-02 | 2022-12-10 |
 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Aaron Reid](https://open.spotify.com/artist/1ie0JBUOVxOoaVsQkuIsuG) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 | 2021-12-08 | 2022-07-01 |
 | [Our Corner Of The World](https://open.spotify.com/track/6fuQyoZURai0hV2js4AhHT) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Our Corner Of The World](https://open.spotify.com/album/6PlkLwoz58spqC90qxokN9) | 1:57 | 2021-12-08 | 2022-06-03 |
@@ -431,7 +435,7 @@
 | [Rainmaker](https://open.spotify.com/track/5asJLV0COedoeSPKAkiH7y) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Rainmaker](https://open.spotify.com/album/0Ww1YwBaiSEIpFmjeSbPg0) | 2:21 | 2021-12-08 | 2022-04-06 |
 | [Readers](https://open.spotify.com/track/4iN6427kzmNUcQWOd3cCNb) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Labyrinths](https://open.spotify.com/album/5ujmkxgqwwHvHZ78oeD9AP) | 3:01 | 2021-12-08 | 2022-07-29 |
 | [Readers](https://open.spotify.com/track/4tkACn8vZjisGUrhTzlmRX) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Labyrinths](https://open.spotify.com/album/2jzgwz3nkjprtt1epZDN43) | 3:01 | 2022-07-29 | 2022-09-03 |
-| [Really Great To Be Here](https://open.spotify.com/track/1A4WdvncZhXXSYJooxgWYJ) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Really Great To Be Here](https://open.spotify.com/album/3manuOh0CJ7u1aMcEkovjI) | 3:10 | 2023-02-24 |  |
+| [Really Great To Be Here](https://open.spotify.com/track/1A4WdvncZhXXSYJooxgWYJ) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Really Great To Be Here](https://open.spotify.com/album/3manuOh0CJ7u1aMcEkovjI) | 3:10 | 2023-02-24 | 2023-10-13 |
 | [red mountains](https://open.spotify.com/track/3GJc8dRz6wV22rBR44T5qK) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [red mountains](https://open.spotify.com/album/5V99P1HtblBNHcV5tZMrjl) | 3:08 | 2021-12-08 | 2022-07-22 |
 | [Refugio Armónico](https://open.spotify.com/track/6TnS5MjUjt7dTvU6lGfhnr) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Refugio Armónico](https://open.spotify.com/album/6ap3TPxqKJx9zRoXzddgWE) | 2:21 | 2023-08-10 |  |
 | [Reise um die Welt](https://open.spotify.com/track/5U3Funw31Xlkv6dvsR4QBn) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Reise um die Welt](https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK) | 2:51 | 2021-12-08 | 2022-07-01 |
@@ -449,6 +453,7 @@
 | [San Sebastien](https://open.spotify.com/track/6brr1dBt7PqEuuGckXew6A) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Into The Sunset](https://open.spotify.com/album/4cBzYpHUYX82WDoQuhYeRd) | 3:09 | 2021-12-08 | 2022-06-10 |
 | [San Tropez](https://open.spotify.com/track/2RjR06sl1N1GVii5Vts7TP) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [San Tropez](https://open.spotify.com/album/7hYM36cQRk7nHmb01n54ts) | 2:22 | 2023-02-24 |  |
 | [Santa Fiora](https://open.spotify.com/track/48j6ZrDM8WaO8plMxxc4CO) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Santa Fiora](https://open.spotify.com/album/6k4IDURpsjao81eMH4LcHF) | 2:01 | 2023-03-24 | 2023-06-03 |
+| [Santorini](https://open.spotify.com/track/0rx4tPhXaiVrpglMzVLVbj) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Santorini](https://open.spotify.com/album/0Ipg8tK3kvzke2pNfPVFSz) | 2:09 | 2023-10-13 |  |
 | [Sapphire](https://open.spotify.com/track/7Iil1UUDVl8lHs1t4XtblP) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [Sapphire](https://open.spotify.com/album/5RKqIrbcvGmC1SPDN9X6l1) | 1:59 | 2022-10-14 | 2023-08-19 |
 | [Sarabande In A Major](https://open.spotify.com/track/7MnFIm6VgmpsvN0Ont5Wsd) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Sarabande In A Major](https://open.spotify.com/album/0cOdJ0RJ6AaWWPqEhap8G0) | 1:39 | 2021-12-08 | 2023-08-19 |
 | [Satellites](https://open.spotify.com/track/241ZXbv26EbLNmVADe6yDK) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [West End](https://open.spotify.com/album/2ze5UXnapC2cmlXG70feQ3) | 2:36 | 2021-12-08 | 2023-05-13 |

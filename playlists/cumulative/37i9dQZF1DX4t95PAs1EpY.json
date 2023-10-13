@@ -5869,6 +5869,24 @@
     },
     {
       "album": {
+        "name": "Orchard Swing",
+        "url": "https://open.spotify.com/album/1BxFSpxIcTFYqaEdYthEc0"
+      },
+      "artists": [
+        {
+          "name": "luzzy fogic",
+          "url": "https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "Orchard Swing",
+      "url": "https://open.spotify.com/track/70UrlQAcz7mXvcwI2HoQ9Z"
+    },
+    {
+      "album": {
         "name": "Orchards",
         "url": "https://open.spotify.com/album/6Xjkk8rEdbP6LhrWp5uofy"
       },
@@ -7982,7 +8000,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 113142,
       "name": "Together Again",
       "url": "https://open.spotify.com/track/4C9ByMjoE2OOR5QKDdg0vt"

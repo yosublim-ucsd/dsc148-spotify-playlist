@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Mac DeMarco & Ryan Paris
 
-5,980 songs - 14 day 13 hr 48 min
+5,982 songs - 14 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2707,7 +2707,8 @@
 | [In Your Wake](https://open.spotify.com/track/5yjzzcXAbxczlL1Ywb4M9w) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [In Your Wake](https://open.spotify.com/album/0a4jMRhtddxzyaUs0J1LKE) | 3:54 | 2023-05-26 | 2023-07-01 |
 | [Inconvenient](https://open.spotify.com/track/05Wkpex2HSIKXopQ9MI582) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Inconvenient](https://open.spotify.com/album/7DQTWo1YTY0fT61EvzjOfB) | 2:20 | 2023-01-27 | 2023-03-04 |
 | [Indecision](https://open.spotify.com/track/0lWGZP8adQnEeLFdvYlL2P) | [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB) | [Indecision](https://open.spotify.com/album/0ZyxNEjTLCcE2bk1PpNpP9) | 2:31 | 2020-09-25 | 2020-10-16 |
-| [INFATUATION](https://open.spotify.com/track/3utAfd1gVKucJ8u9fABRaI) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [INFATUATION](https://open.spotify.com/album/40UdPGBdQ0C2Yv26AkAJNe) | 2:02 | 2023-10-06 |  |
+| [INFATUATION](https://open.spotify.com/track/01ohSXFsSpf2tv0obiygSQ) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [INFATUATION](https://open.spotify.com/album/1F0Rb7AUH5yMbLtIEdiNeL) | 2:02 | 2023-10-06 |  |
+| [INFATUATION](https://open.spotify.com/track/3utAfd1gVKucJ8u9fABRaI) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [INFATUATION](https://open.spotify.com/album/40UdPGBdQ0C2Yv26AkAJNe) | 2:02 | 2023-10-06 | 2023-10-13 |
 | [inferno \- Edit](https://open.spotify.com/track/2ACM0DK5xXBJlHZ8JQc9M5) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [inferno](https://open.spotify.com/album/5nEnJBGqhO81HTESoWTnq7) | 2:19 | 2023-09-01 | 2023-10-01 |
 | [Infinity Repeating \(2013 Demo\) \[feat\. Julian Casablancas+The Voidz\]](https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB), [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Random Access Memories \(10th Anniversary Edition\)](https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0) | 3:59 | 2023-05-12 | 2023-06-24 |
 | [Inner Peace](https://open.spotify.com/track/3o5ZrzWvJPJY8vlddeSP19) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Inner Peace](https://open.spotify.com/album/2gSP7Vxdp72vtYAUOv9siS) | 3:37 | 2022-09-23 | 2022-10-13 |
@@ -4651,7 +4652,8 @@
 | [So Clear](https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [So Clear](https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI) | 3:32 | 2023-04-14 | 2023-05-27 |
 | [So Clear \(umru corrosion\)](https://open.spotify.com/track/6eE2XyXIvINbBfu4zaILUX) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [So Clear \(umru corrosion\)](https://open.spotify.com/album/7CzoR9iVhJDAOsYyN1sXpz) | 3:00 | 2022-12-02 | 2023-01-28 |
 | [So Cold](https://open.spotify.com/track/7rSHINiNNCuvnL394RVvPg) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [So Cold](https://open.spotify.com/album/292zbm7psadmM4SgZ2tTVC) | 2:45 | 2019-05-31 | 2019-06-21 |
-| [So Free So Lonely](https://open.spotify.com/track/4q7ElQxJQFArqpl8Kw7Zrm) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [So Free So Lonely](https://open.spotify.com/album/3N4GBkPn1MmjSQcjeJOHFJ) | 3:12 | 2023-10-06 |  |
+| [So Free So Lonely](https://open.spotify.com/track/3zbnvBAEG5PSeACvYaafMU) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [So Free So Lonely](https://open.spotify.com/album/4ucJg25t2uOgZ2GC3fm8XZ) | 3:12 | 2023-10-06 |  |
+| [So Free So Lonely](https://open.spotify.com/track/4q7ElQxJQFArqpl8Kw7Zrm) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [So Free So Lonely](https://open.spotify.com/album/3N4GBkPn1MmjSQcjeJOHFJ) | 3:12 | 2023-10-06 | 2023-10-13 |
 | [So Grown Up](https://open.spotify.com/track/6GUdaisS4CFhiuBqaoCygz) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [So Grown Up](https://open.spotify.com/album/7xgUCfCUkPGJzraY6hQwDf) | 3:35 | 2021-10-09 | 2021-11-20 |
 | [SO HARD TO TELL](https://open.spotify.com/track/6t9Z0pVZOeGnjsp5JDYGQY) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [SO HARD TO TELL](https://open.spotify.com/album/1xXzkgC4BLs5RELfhh0pqC) | 3:05 | 2023-01-06 | 2023-01-28 |
 | [So Heavy I Fell Through the Earth \- Algorithm Mix](https://open.spotify.com/track/1FMrfmJVha7u0iJfidbgcX) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [So Heavy I Fell Through the Earth](https://open.spotify.com/album/6iYlPdtweE1Klj3bB2ww39) | 3:51 | 2019-11-22 | 2020-01-17 |

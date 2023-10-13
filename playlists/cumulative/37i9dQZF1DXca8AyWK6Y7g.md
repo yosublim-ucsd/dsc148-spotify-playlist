@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Claire Rosinkranz
 
-1,823 songs - 3 day 20 hr 22 min
+1,824 songs - 3 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [Enjoy The Weather](https://open.spotify.com/track/2txs7OQeD9qOOhlmhcCO6J) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Enjoy The Weather](https://open.spotify.com/album/2y82EbzL8FRX92BUT3Ehq1) | 2:30 | 2022-02-25 | 2022-03-26 |
 | [Enough](https://open.spotify.com/track/7fuuoc674qrUMZeF7xnWd6) | [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Enough](https://open.spotify.com/album/7y2kwuXOjteuyzRq3MqZY2) | 4:03 | 2021-07-16 | 2022-07-16 |
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-01-27 |  |
+| [Eve](https://open.spotify.com/track/4VWJqXO2lnHTPrDze7zeQe) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Eve](https://open.spotify.com/album/1WcyjfjfTXfv1LaqLtJGqZ) | 3:21 | 2023-09-22 |  |
 | [Even If It Hurts](https://open.spotify.com/track/3UY7tO9FTrWHBejzcJFr83) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Even If It Hurts](https://open.spotify.com/album/2pXholEHhkVPKaj2jyM4RY) | 2:49 | 2023-04-28 | 2023-06-03 |
 | [Evening Buffalo](https://open.spotify.com/track/6w40GgWhGts8g6779DPXR3) | [Felix Snow](https://open.spotify.com/artist/1qskAseW7apRxJBpYAO9Yk) | [Evening Buffalo](https://open.spotify.com/album/0F5sTi9lCzlAoZN7IQvqFs) | 2:36 | 2019-05-26\* | 2019-06-15 |
 | [ever fallen?](https://open.spotify.com/track/2sGCU9QbPOaHkavcFJdtCu) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [ever fallen?](https://open.spotify.com/album/76MqqEKkr3PqvDuZv5BlVo) | 2:48 | 2022-12-16 | 2023-03-19 |
@@ -602,7 +603,7 @@
 | [Girl Of Your Dreams](https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Girl Of Your Dreams](https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19) | 2:43 | 2022-07-15 | 2023-08-20 |
 | [girl ur so pretty](https://open.spotify.com/track/2U55cNHErmbpOxq9TTrjSG) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [girl ur so pretty](https://open.spotify.com/album/2laKIsp6nPOKXjlGYro4e4) | 3:08 | 2022-05-13 | 2022-06-25 |
 | [Girl Who Does Both](https://open.spotify.com/track/1ewA2ju9VPzBSxG991vQHi) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Getting Better](https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz) | 2:50 | 2022-06-17 | 2022-10-28 |
-| [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 | 2023-06-02 | 2023-08-21 |
+| [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 | 2023-06-02 |  |
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2022-12-23 | 2023-01-28 |
 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 | 2022-06-10 | 2023-02-04 |
 | [Girls In Line for the Bathroom](https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa) | 2:27 | 2022-02-18 | 2022-07-16 |
@@ -614,7 +615,7 @@
 | [Glitter](https://open.spotify.com/track/6afganegJBNs44tGwIOgYQ) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Glitter](https://open.spotify.com/album/7lgPMiz220ZdI9hachYEvG) | 3:01 | 2021-12-03 | 2023-02-11 |
 | [glitter](https://open.spotify.com/track/5Oc9SrrW1BICBePI1MF4OB) | [Zac Greer](https://open.spotify.com/artist/26Hx3p02bxJ4cLfua31zmz) | [glitter](https://open.spotify.com/album/6JAFdHAdf99vu5WGOsPjJM) | 2:45 | 2019-07-27 | 2021-04-09 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-17 | 2023-04-22 |
-| [Glue Song \(feat\. Clairo\)](https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk) | 2:15 | 2023-04-21 |  |
+| [Glue Song \(feat\. Clairo\)](https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk) | 2:15 | 2023-04-21 | 2023-10-13 |
 | [Go The Distance](https://open.spotify.com/track/4HFi9NP66qdNOsgPGLqrm7) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance](https://open.spotify.com/album/4n0O2srPjbdjU4i1EEqkcu) | 2:47 | 2022-04-08 | 2022-11-07 |
 | [Go The Distance](https://open.spotify.com/track/5vFn0vKhnaDLk1gmj7ZA0i) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance \(Extended\)](https://open.spotify.com/album/2zxKTNd1Zj6y7E8JoyS7Le) | 2:47 | 2022-10-28 | 2022-11-12 |
 | [Go Wild](https://open.spotify.com/track/0H39cYgfekuFluOgGPUicR) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Go Wild](https://open.spotify.com/album/4W0dYMXgDxAfT9y86EQqw8) | 3:17 | 2019-06-15 | 2019-08-13 |
@@ -649,7 +650,7 @@
 | [GORGEOUS](https://open.spotify.com/track/0cYSvUNMzEltRY0RirjUNp) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [GORGEOUS](https://open.spotify.com/album/2Clmd4k6a7tTdIa7vxGdGN) | 2:53 | 2022-01-28 | 2022-07-29 |
 | [GORGEOUS](https://open.spotify.com/track/2SQKabLAU744O8pb8IZPSv) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [GORGEOUS](https://open.spotify.com/album/47eqxClUnF2Rv7R67eICnF) | 2:53 | 2022-01-28 | 2022-12-05 |
 | [GORGEOUS](https://open.spotify.com/track/4vowH3BCuj5NHsdU4YHeLh) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Smoke Signal](https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs) | 2:53 | 2022-12-16 |  |
-| [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 | 2023-09-22 |  |
+| [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 | 2023-09-22 | 2023-10-13 |
 | [Gracie](https://open.spotify.com/track/2woJ2PjBLoeKPn47ZHmT4w) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Gracie](https://open.spotify.com/album/2kfbfChhJMy2N01rdxlDni) | 2:45 | 2023-08-04 |  |
 | [grass is greener](https://open.spotify.com/track/6RwIjOIh9JoTbDiKmgL7fv) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [grass is greener](https://open.spotify.com/album/1pLUbffRD0y1FUKZwC1CGR) | 3:19 | 2023-04-22 | 2023-05-25 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-15 |  |

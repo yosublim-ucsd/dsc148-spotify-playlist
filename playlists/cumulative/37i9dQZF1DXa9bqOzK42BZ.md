@@ -4,11 +4,12 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP?si=nMRvI74rSYGrOtv6uQqHpg">Zabron Singers</a>
 
-114 songs - 11 hr 2 min
+118 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Action](https://open.spotify.com/track/3Kw2ogHWEVOln1I0COwKpx) | [BeeJay](https://open.spotify.com/artist/0Cwe5u9RvI668c5MXkzqyQ) | [Action](https://open.spotify.com/album/3di0qx12IxzIgc0uFuRSbI) | 5:30 | 2023-06-09 |  |
+| [After Church](https://open.spotify.com/track/3dRrAAugBdsRSiBqkUxWbe) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn), [Muhanjii](https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq) | [Boy Wa Kanisa](https://open.spotify.com/album/1ZJu6CMYk5STa6XVu2wTOd) | 2:41 | 2023-10-13 |  |
 | [Alfa Na Omega](https://open.spotify.com/track/5zZc2QyZfxqZcQ89REWyzW) | [Reuben Kigame](https://open.spotify.com/artist/0bTD7Hz0264DFfTV9e5PQf), [Sifa Voices](https://open.spotify.com/artist/75UlA58ClvAkoGrCouQQAI) | [Tulia](https://open.spotify.com/album/6xsRFuy3hZsnxqppb5e6mT) | 4:54 | 2022-06-24 |  |
 | [Aliyeniokoa \(Live\)](https://open.spotify.com/track/11dKptDVqtcyi1E36m8o02) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Bwana Unatawala \(Live\)](https://open.spotify.com/album/3koeYsqfzhwDXkmrHmdKna) | 7:17 | 2022-06-24 |  |
 | [Aliyeniokoa \(Live\)](https://open.spotify.com/track/1zLfTPsgjAUmNDgcG5AlGE) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Bwana Unatawala \(Live\)](https://open.spotify.com/album/2URrPzDAgysJCPyXImSEvs) | 7:17 | 2022-06-24 | 2023-09-26 |
@@ -17,6 +18,7 @@
 | [Amua](https://open.spotify.com/track/4MJ9npZ1snF0HaquPpjqZV) | [Alexis Zawadi](https://open.spotify.com/artist/0GJoWcqZQlO9GH08zxkDN3) | [Amua](https://open.spotify.com/album/3r8SRWMxBde6awir8fXmca) | 6:29 | 2023-05-12 |  |
 | [Anatengeneza](https://open.spotify.com/track/52C9ZVQeeeVUb9q9hXe0f7) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 8:28 | 2022-06-24 | 2023-04-21 |
 | [Asante Yesu](https://open.spotify.com/track/01jj2QYoTFEDitFl5L8o0D) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Nimekutana Na Yesu](https://open.spotify.com/album/7GETZelqlelMjLHcCVddt3) | 4:55 | 2022-06-24 |  |
+| [BABA MWEMA](https://open.spotify.com/track/7pM0W3cq4NYaG5pmt3FDA9) | [Beda Andrew](https://open.spotify.com/artist/11VA7kqmrvG4yAs57K1h8Z) | [BABA MWEMA](https://open.spotify.com/album/7nrDTqBz4RxQwSqYf1gFSe) | 3:18 | 2023-10-13 |  |
 | [Beba Nuru](https://open.spotify.com/track/3X7Ebfhg0rl0DWN3UErhfw) | [Mgasa George](https://open.spotify.com/artist/0UzzhS3G4a2c4jINaSAEhy) | [Beba Nuru](https://open.spotify.com/album/1VOv6kempfsry0X3LgZBT6) | 3:47 | 2023-05-05 | 2023-07-07 |
 | [Bijoux](https://open.spotify.com/track/2F3bnonyhTUUL0kaI92RDb) | [Kenani](https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O) | [Why Not](https://open.spotify.com/album/2Al5aGkwsloF2jOfRnnTnM) | 3:21 | 2023-07-14 |  |
 | [Breaking News \(UFO\)](https://open.spotify.com/track/3EGSXoXoeMjiTfKBbCKOxT) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [Breaking News \(UFO\)](https://open.spotify.com/album/1YtAG0djosPWZRQAHYusih) | 3:10 | 2023-05-26 |  |
@@ -58,6 +60,7 @@
 | [MOYO WANGU BMM Yombo Vituka](https://open.spotify.com/track/6X7sY5M6IziPbUJyG0G2xl) | [FLSA\_ENTERTAINMENT](https://open.spotify.com/artist/4KxxxfPxkFJ2IbWfVMU1Ye) | [EASTER PASAKA YETU](https://open.spotify.com/album/2sYU0Di9FKjrdTBn1nYQ1S) | 8:18 | 2022-06-24 |  |
 | [Mtawala](https://open.spotify.com/track/37MDQQIuuJ7PXp5WmxJ4Ud) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Mtawala](https://open.spotify.com/album/0GMXCuggw4s5gBQ9X9LhT2) | 4:54 | 2022-06-24 |  |
 | [Mungu Mwenye Nguvu](https://open.spotify.com/track/6ry9UkAiQWj9lucisl02OR) | [Solomon Mukubwa](https://open.spotify.com/artist/25Q3rVZVuI2ESBPZEqdZCY) | [Mungu Mwenye Nguvu](https://open.spotify.com/album/2rNVMn4XGUtZewH3WfZNGm) | 7:32 | 2022-06-24 |  |
+| [Mungu Ni Upendo \(feat\. Pitson\)](https://open.spotify.com/track/0BPriVJeWjmo3ugIVkN2vw) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Pitson](https://open.spotify.com/artist/4eck3OWpx2oKPgHeSSgsMM) | [Mungu Ni Upendo \(feat\. Pitson\)](https://open.spotify.com/album/3rxqx10BOlKbhcu4RkWcGS) | 3:16 | 2023-10-13 |  |
 | [Nami Nataka Nikuone](https://open.spotify.com/track/31SuK9LQAlG2z4VnXriZ47) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Nami Nataka Nikuone](https://open.spotify.com/album/2AQ9kOCph0Gw9kfbFENbhq) | 9:28 | 2023-09-08 |  |
 | [Naogopa](https://open.spotify.com/track/5sJHsI693oMyfxWu4Uo2kN) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Niko Sawa](https://open.spotify.com/album/7fF9FXSYiaJlDgbendwTSB) | 4:36 | 2023-03-10 | 2023-06-09 |
 | [Naomba](https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:42 | 2023-06-16 |  |
@@ -93,6 +96,7 @@
 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 | 2023-06-16 |  |
 | [Shwari](https://open.spotify.com/track/4iI5RXEDegpckQPyZjRiYd) | [Samuel Thomas](https://open.spotify.com/artist/1Vw4G05iiTwoWHkrP1EvWw), [Henrick Mruma](https://open.spotify.com/artist/75HhdVUtJVRpYK4vRtClCU) | [Shwari](https://open.spotify.com/album/3Cd2sv9TL1MSOPn1yrbEGZ) | 6:42 | 2022-06-24 |  |
 | [Sijaona Kama Wewe](https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Sijaona Kama Wewe](https://open.spotify.com/album/5uVEa8Deiqpir6q7iHE4yU) | 11:13 | 2022-06-24 |  |
+| [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 | 2023-10-13 |  |
 | [Taji](https://open.spotify.com/track/1Z6nxjk7F3J5h03zhruGQy) | [FMP Pan Da Beat](https://open.spotify.com/artist/073NcyQ3qYtj7rIZE762pW) | [Taji](https://open.spotify.com/album/2gdJZmV1BZO9YkqehjnyJo) | 2:40 | 2023-07-21 |  |
 | [Thankful](https://open.spotify.com/track/2CZNoaLPWNcIBjKkNlQ9GS) | [Ngalu P](https://open.spotify.com/artist/0WSlmwtEKyf4RwcuULH3K4) | [Thankful](https://open.spotify.com/album/6ViivhHL3tS4VQodPp4DQ9) | 3:38 | 2023-06-09 |  |
 | [Ubatili](https://open.spotify.com/track/3421nmVXwNgUUOlHoE1ZQO) | [The Berean Gospel Ministers](https://open.spotify.com/artist/1XGt0taV8k9DMayKng4lNC) | [Ubatili](https://open.spotify.com/album/0eW4o0appJhd1hllgT8uAM) | 6:05 | 2023-07-21 |  |

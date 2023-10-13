@@ -1,12 +1,12 @@
 {
   "description": "Soulful takes on all your Holiday favorites. Cover: James Brown",
-  "num_followers": 62688,
+  "num_followers": 62678,
   "original_name": "Soulful Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTkwYWI2MWNjNjVjMjBhM2YwN2U3NGVjMzQ1NWY0MDY1OTU2MDI5",
+  "snapshot_id": "MCxmMWZjM2M5MmYxYWViNTllYzQzYWE2OGQ3MDFkNWUwZGUxZTcyZTEy",
   "tracks": [
     {
       "added_at": "2021-11-12 16:13:57",
@@ -201,6 +201,22 @@
       "url": "https://open.spotify.com/track/1ZRq7JZzM3Q26xweRKz0SF"
     },
     {
+      "added_at": "2021-11-12 16:13:57",
+      "album": {
+        "name": "Soulful Christmas",
+        "url": "https://open.spotify.com/album/6JuetegMBCkebJS9S1S9zi"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 181052,
+      "name": "Santa Claus Go Straight To The Ghetto",
+      "url": "https://open.spotify.com/track/3UgdvE5e7nmHFY6WccxPwC"
+    },
+    {
       "added_at": "2021-11-19 05:01:00",
       "album": {
         "name": "Motown With The Royal Philharmonic Orchestra (A Symphony Of Soul)",
@@ -223,22 +239,6 @@
       "duration_ms": 194520,
       "name": "What Becomes Of The Brokenhearted",
       "url": "https://open.spotify.com/track/3xQAVDpX004GbyVagXlRP5"
-    },
-    {
-      "added_at": "2021-11-12 16:13:57",
-      "album": {
-        "name": "Soulful Christmas",
-        "url": "https://open.spotify.com/album/6JuetegMBCkebJS9S1S9zi"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 181052,
-      "name": "Santa Claus Go Straight To The Ghetto",
-      "url": "https://open.spotify.com/track/3UgdvE5e7nmHFY6WccxPwC"
     },
     {
       "added_at": "2021-11-12 16:13:57",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/6OtAHPZcJVcQQrKVvihhQh"
     },
     {
-      "added_at": "2021-11-12 16:13:57",
-      "album": {
-        "name": "The Season For Miracles",
-        "url": "https://open.spotify.com/album/4A9VIgipTpqFKBgfMHNtgB"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 248760,
-      "name": "Deck The Halls / Bring A Torch, Jeannette, Isabella - Medley",
-      "url": "https://open.spotify.com/track/3tPcCJUzDewJQCUf66VtWx"
-    },
-    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "Sunshine for Christmas",
@@ -519,6 +503,22 @@
       "duration_ms": 310783,
       "name": "Sunshine for Christmas",
       "url": "https://open.spotify.com/track/1XkTm4mzmhLSv0lLCpZSy4"
+    },
+    {
+      "added_at": "2021-11-12 16:13:57",
+      "album": {
+        "name": "The Season For Miracles",
+        "url": "https://open.spotify.com/album/4A9VIgipTpqFKBgfMHNtgB"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 248760,
+      "name": "Deck The Halls / Bring A Torch, Jeannette, Isabella - Medley",
+      "url": "https://open.spotify.com/track/3tPcCJUzDewJQCUf66VtWx"
     },
     {
       "added_at": "2021-11-12 16:13:57",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-11-12 16:13:57",
       "album": {
-        "name": "James Brown's Funky Christmas",
-        "url": "https://open.spotify.com/album/5IEg0oP2tkX7XGOGXyB6wM"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Tit For Tat (Ain't No Taking Back)",
-      "url": "https://open.spotify.com/track/6uMR7QrywhdSqhJSef3YqV"
-    },
-    {
-      "added_at": "2021-11-12 16:13:57",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4Qa0c8WVupl3IL22pAZDdW"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2021-11-12 16:13:57",
       "album": {
-        "name": "Christmas In Soulsville",
-        "url": "https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN"
+        "name": "James Brown's Funky Christmas",
+        "url": "https://open.spotify.com/album/5IEg0oP2tkX7XGOGXyB6wM"
       },
       "artists": [
         {
-          "name": "Rufus Thomas",
-          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
         }
       ],
-      "duration_ms": 215426,
-      "name": "I'll Be Your Santa Baby",
-      "url": "https://open.spotify.com/track/01xFD1VVeCgzVricCPWgYU"
+      "duration_ms": 187026,
+      "name": "Tit For Tat (Ain't No Taking Back)",
+      "url": "https://open.spotify.com/track/6uMR7QrywhdSqhJSef3YqV"
     },
     {
       "added_at": "2021-11-12 16:13:57",
@@ -643,18 +627,18 @@
     {
       "added_at": "2021-11-12 16:13:57",
       "album": {
-        "name": "Santa's Funk & Soul Christmas Party",
-        "url": "https://open.spotify.com/album/0rjNNIePeqR7T2evxlS6rL"
+        "name": "Christmas In Soulsville",
+        "url": "https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN"
       },
       "artists": [
         {
-          "name": "Binky Griptite",
-          "url": "https://open.spotify.com/artist/1qjbSwH7Twq4PjEHCiUL0z"
+          "name": "Rufus Thomas",
+          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
         }
       ],
-      "duration_ms": 201200,
-      "name": "Stone Soul Christmas",
-      "url": "https://open.spotify.com/track/6n6OFj4obq9cyfNCODUp8m"
+      "duration_ms": 215426,
+      "name": "I'll Be Your Santa Baby",
+      "url": "https://open.spotify.com/track/01xFD1VVeCgzVricCPWgYU"
     },
     {
       "added_at": "2021-11-12 16:13:57",
@@ -671,6 +655,22 @@
       "duration_ms": 147133,
       "name": "Christmas Every Day",
       "url": "https://open.spotify.com/track/4kMoIhNVzcLnstzwpeN8BB"
+    },
+    {
+      "added_at": "2021-11-12 16:13:57",
+      "album": {
+        "name": "Santa's Funk & Soul Christmas Party",
+        "url": "https://open.spotify.com/album/0rjNNIePeqR7T2evxlS6rL"
+      },
+      "artists": [
+        {
+          "name": "Binky Griptite",
+          "url": "https://open.spotify.com/artist/1qjbSwH7Twq4PjEHCiUL0z"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Stone Soul Christmas",
+      "url": "https://open.spotify.com/track/6n6OFj4obq9cyfNCODUp8m"
     },
     {
       "added_at": "2021-11-12 16:13:57",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/2TQArDxjfRt7GZCtDZn8eZ"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Home For Christmas",
-        "url": "https://open.spotify.com/album/22iQ0h9GXq3J1HpPLq6ns1"
-      },
-      "artists": [
-        {
-          "name": "Con Funk Shun",
-          "url": "https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz"
-        }
-      ],
-      "duration_ms": 203179,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/5YHiQdrWm4PmBSMah8tgvQ"
-    },
-    {
       "added_at": "2021-11-12 16:13:57",
       "album": {
         "name": "Christmas Songs Xmas Tunes Festive Favourites",
@@ -787,6 +771,22 @@
       "duration_ms": 208306,
       "name": "Christmas Gift",
       "url": "https://open.spotify.com/track/2PCTg3ZU5kJJicUMKkPH9D"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/22iQ0h9GXq3J1HpPLq6ns1"
+      },
+      "artists": [
+        {
+          "name": "Con Funk Shun",
+          "url": "https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz"
+        }
+      ],
+      "duration_ms": 203179,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/5YHiQdrWm4PmBSMah8tgvQ"
     },
     {
       "added_at": "2021-11-12 16:13:57",

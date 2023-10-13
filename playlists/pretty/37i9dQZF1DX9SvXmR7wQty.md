@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Georgio, Patrick Watson
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,305 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,304 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,17 +27,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 17 | [Plage](https://open.spotify.com/track/2998oP5SBv3hzc4lefuK6B) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0) | [Holistique](https://open.spotify.com/album/4EjrzXrsVMgoc4MMWOBMcM) | 3:13 |
 | 18 | [Comment on fait](https://open.spotify.com/track/4eFnW6X1iXgyEDg90HWEVj) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Comment on fait](https://open.spotify.com/album/6fx6DbXhISVfj2T3mySNmS) | 3:00 |
 | 19 | [Quand je danse](https://open.spotify.com/track/1GyGHzdgRVJjJ8KO9dOSNG) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Le danger](https://open.spotify.com/album/404hJJ2pZMMk8hyEwgiGsy) | 2:54 |
-| 20 | [Bisous](https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK \(Bonus Track Edition\)](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 2:43 |
+| 20 | [SI TE LLAMO](https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [SI TE LLAMO](https://open.spotify.com/album/1KRzEnTp6irxrQlooxTrQd) | 3:27 |
 | 21 | [Benda](https://open.spotify.com/track/4KElRi2M7RodLDq6fWoiN5) | [3 Heures prod](https://open.spotify.com/artist/5NLdXXUvTUKUKMeWxhsIbV), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Nouvelle ère](https://open.spotify.com/album/7zQsrVvfvT0iyv6Ute4Jti) | 3:15 |
-| 22 | [SI TE LLAMO](https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [SI TE LLAMO](https://open.spotify.com/album/1KRzEnTp6irxrQlooxTrQd) | 3:27 |
+| 22 | [Bisous](https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK \(Bonus Track Edition\)](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 2:43 |
 | 23 | [Démesurée](https://open.spotify.com/track/7qIThh1KZxxrBLDaVcbPFL) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Démesurée](https://open.spotify.com/album/0TotcY7dZuH8IdegQoo9Ai) | 3:13 |
 | 24 | [La guitare suit la mélo](https://open.spotify.com/track/5BOfwzK5yI9sL2uit0fHIG) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [La guitare suit la mélo](https://open.spotify.com/album/0cBCT3uU5iywNCzTXrAaLz) | 3:09 |
 | 25 | [Horoscope](https://open.spotify.com/track/3XtnHORQkTP7FMIRDDNrpJ) | [Jeremy Lachance](https://open.spotify.com/artist/5Xl6EtM9an6yOUSkRaJlfX) | [Horoscope / Cher Montréal](https://open.spotify.com/album/7npxouwTuaKyDKWLa9msy9) | 4:02 |
 | 26 | [Préjudice](https://open.spotify.com/track/4QNPtD5yF7sTwoE92n2sSg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Préjudice](https://open.spotify.com/album/5v5g6wVemrFkJFJDe4S77V) | 2:01 |
 | 27 | [FTG](https://open.spotify.com/track/5j5ar3YNnHXZlYLfVPLcHT) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [FTG](https://open.spotify.com/album/1glTvN8B0pM2VY33CJnT9v) | 3:03 |
-| 28 | [C’est la Vie](https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [C’est la Vie](https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD) | 3:28 |
+| 28 | [Vautours](https://open.spotify.com/track/3Z6CZX1swZYFc4vInNQzIO) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Vautours](https://open.spotify.com/album/4W8PYeeUqDsani46ODRgLK) | 3:10 |
 | 29 | [Mauvais temps](https://open.spotify.com/track/0LAaXA4qn91sYwHWIB0tlA) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Au bar des espoirs](https://open.spotify.com/album/41s9no7Ky1PqMXyML8szae) | 2:47 |
-| 30 | [Vautours](https://open.spotify.com/track/3Z6CZX1swZYFc4vInNQzIO) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Vautours](https://open.spotify.com/album/4W8PYeeUqDsani46ODRgLK) | 3:10 |
+| 30 | [C’est la Vie](https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [C’est la Vie](https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD) | 3:28 |
 | 31 | [J'ai si peur](https://open.spotify.com/track/4a9dS0IEMxDdF77loEaTRN) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5), [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [J'ai si peur](https://open.spotify.com/album/1NmVsbmegt0pKXbVIxcI4x) | 3:28 |
 | 32 | [Ça va](https://open.spotify.com/track/1mgXlxlV9mHNzVlfJiHBE0) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ça va](https://open.spotify.com/album/16uVOML0RmNvAAeAGSSjyv) | 2:51 |
 | 33 | [C'est drôle](https://open.spotify.com/track/4czTL8KGYPjR0mWyQy7z6B) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [C'est drôle](https://open.spotify.com/album/6WfOHoMzaQSMDeUGbUBccF) | 2:57 |
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 35 | [Depuis Marseille](https://open.spotify.com/track/4mAUDy4YPWmpn55wfcf9yw) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Depuis Marseille](https://open.spotify.com/album/1ADpFrR3P89toHRHmMLsvv) | 3:15 |
 | 36 | [Différent](https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [Différent](https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y) | 2:39 |
 | 37 | [ET SI, DE](https://open.spotify.com/track/0asoN1Hr01zsTgQVKn1k0y) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [ET SI, DE/main l'oiseau](https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa) | 3:13 |
-| 38 | [French Riviera](https://open.spotify.com/track/1YIxzV3rlDUmIES9tpOytj) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [French Riviera](https://open.spotify.com/album/0zz8rBPR2RmxmlNfvjrgGA) | 3:21 |
+| 38 | [Commando](https://open.spotify.com/track/36aSwnrZXd0k334PSXT7w2) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Commando](https://open.spotify.com/album/0UrZIIXENkXrBBvhwqyMJx) | 2:51 |
 | 39 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [LOVE'n'TENDRESSE](https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6) | 3:14 |
-| 40 | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/track/4E6tv93xB55kTFRtNKxMo1) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [DaChoyce](https://open.spotify.com/artist/6nStjcAtMWhraEtrTrePkl) | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/album/1Dch6Gn8vANXc18qHo2uB9) | 2:11 |
-| 41 | [Commando](https://open.spotify.com/track/36aSwnrZXd0k334PSXT7w2) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Commando](https://open.spotify.com/album/0UrZIIXENkXrBBvhwqyMJx) | 2:51 |
+| 40 | [French Riviera](https://open.spotify.com/track/1YIxzV3rlDUmIES9tpOytj) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [French Riviera](https://open.spotify.com/album/0zz8rBPR2RmxmlNfvjrgGA) | 3:21 |
+| 41 | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/track/4E6tv93xB55kTFRtNKxMo1) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [DaChoyce](https://open.spotify.com/artist/6nStjcAtMWhraEtrTrePkl) | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/album/1Dch6Gn8vANXc18qHo2uB9) | 2:11 |
 | 42 | [CONS’ DE LOVE](https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Amour...](https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML) | 2:45 |
-| 43 | [Zénith](https://open.spotify.com/track/7waEJapWACgWkq3by4intP) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Zénith](https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r) | 2:36 |
-| 44 | [Warda](https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 3:11 |
+| 43 | [Warda](https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 3:11 |
+| 44 | [Zénith](https://open.spotify.com/track/7waEJapWACgWkq3by4intP) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Zénith](https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r) | 2:36 |
 | 45 | [Puis t'as dansé avec moi](https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:37 |
 | 46 | [Dans la moyenne](https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Dans la moyenne](https://open.spotify.com/album/4oyzQzOXkQ4F7OISRrjoWn) | 2:38 |
 | 47 | [Parler de nous](https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Parler de nous](https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [La Peuf 6](https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [La Peuf 6](https://open.spotify.com/album/5eSgbHVzgcToLHcAIwqDfp) | 2:48 |
 | 50 | [OH MADELEINE](https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [OH MADELEINE](https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx) | 2:39 |
 
-Snapshot ID: `MCxiM2VkNmQxY2YyNmMwOTkxMDViNjI3ZjliYWQwNTFkZjM1YzUzMzQ3`
+Snapshot ID: `MCw5Mzg4OGI0Y2UyMTNhMzFhYTMwZGY3MjlhZTg2OTY4MWExZTVlZDNh`

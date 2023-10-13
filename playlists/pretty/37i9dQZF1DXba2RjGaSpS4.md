@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXba2RjGaSpS4.md) - [plain]
 
 > ¡Empieza un nuevo día con una sonrisa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,439 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,523 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXba2RjGaSpS4.md) - [plain]
 | 79 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 |
 | 80 | [Sugar](https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:55 |
 
-Snapshot ID: `MCw2Y2U4ZjcxYTY5M2VmMjA4OThlYzM3NDJiMjMwY2Q3ZjgyNDJmYzIz`
+Snapshot ID: `MCwxY2IxZDMxNmFkYzE4NzE3YjYxMTQ1MzYwZDA0YzE1NmYxMjQwNDU2`

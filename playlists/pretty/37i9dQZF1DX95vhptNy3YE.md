@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Sued Nunes e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,567 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,633 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 47 | [Tipo Anitta](https://open.spotify.com/track/5msSmXkhf6SCzxsInUsplR) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [Tipo Anitta](https://open.spotify.com/album/5S4qD4KDpgGAmsLPiGKpiC) | 2:31 |
 | 48 | [Só Minha](https://open.spotify.com/track/0IHZL22yg1SrVZa2oMN8YP) | [Caju Pra Baixo](https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp) | [Só Minha](https://open.spotify.com/album/3aWEYZmmAtHsz5c3lo8AKB) | 3:18 |
 | 49 | [KEN ELAS QUER](https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [KEN ELAS QUER](https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL) | 2:01 |
-| 50 | [Tanto Faz](https://open.spotify.com/track/7qvw8LTvp12tSCPEazZRLi) | [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp) | [Tanto Faz](https://open.spotify.com/album/241VujP1Ob0JUurQFAbhrx) | 3:42 |
+| 50 | [All Black](https://open.spotify.com/track/1rtDGlgcq1NZjFQ3EE1eVB) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [The King Of Drill "TKOD"](https://open.spotify.com/album/21sJbIsra7VRrVy9bdSS8z) | 2:03 |
 
-Snapshot ID: `MCw1OWVjOTU4YWE3ODcyM2U3NTFjMDdlNTVkZGZkZWM0MWNkNGM1ODZm`
+Snapshot ID: `MCw2YTNhMmQ1ODc5NGU2YWU1Zjg3YjE5ZTU1NGVhMGRkNDE3YzdjN2Nk`

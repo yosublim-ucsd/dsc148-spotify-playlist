@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3920,
+  "num_followers": 3919,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDg1NGE3ZGJiNTBhM2UyM2FjNTc4ZmFjODhjYjI0MjA1YjlmODVk",
+  "snapshot_id": "MCxkOGU2NzAxZDY3YTZjMmJiZGIyMzgxYjY0NDgxMGM0ZDZkZTZiNWY1",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Le blanc des yeux",
-        "url": "https://open.spotify.com/album/0JAW79jDrxy7bv5INPuC4z"
-      },
-      "artists": [
-        {
-          "name": "Roxane Bruneau",
-          "url": "https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ"
-        }
-      ],
-      "duration_ms": 177282,
-      "name": "Le blanc des yeux",
-      "url": "https://open.spotify.com/track/49pEcB0pNVNQPh70gnRL1m"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Moussa",
         "url": "https://open.spotify.com/album/1oxEKKN1NH5dTgQKiLkOiX"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "DOWN",
-        "url": "https://open.spotify.com/album/4PN3DB5DCWhfnKL8MPmmJV"
+        "name": "Le blanc des yeux",
+        "url": "https://open.spotify.com/album/0JAW79jDrxy7bv5INPuC4z"
       },
       "artists": [
         {
-          "name": "Jay Sc\u00f8tt",
-          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+          "name": "Roxane Bruneau",
+          "url": "https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ"
         }
       ],
-      "duration_ms": 165851,
-      "name": "DOWN",
-      "url": "https://open.spotify.com/track/2FLFmCpVrGBTp0C85BaFWL"
+      "duration_ms": 177282,
+      "name": "Le blanc des yeux",
+      "url": "https://open.spotify.com/track/49pEcB0pNVNQPh70gnRL1m"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -571,6 +555,22 @@
       "duration_ms": 194813,
       "name": "Pour louper l'\u00e9cole",
       "url": "https://open.spotify.com/track/0XW5XY9LcCw6hpS7EuORkj"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "DOWN",
+        "url": "https://open.spotify.com/album/4PN3DB5DCWhfnKL8MPmmJV"
+      },
+      "artists": [
+        {
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        }
+      ],
+      "duration_ms": 165851,
+      "name": "DOWN",
+      "url": "https://open.spotify.com/track/2FLFmCpVrGBTp0C85BaFWL"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Les avions de Mirabel",
-        "url": "https://open.spotify.com/album/1S3TfUWrkgA82sf15gzXkZ"
-      },
-      "artists": [
-        {
-          "name": "Claude B\u00e9gin",
-          "url": "https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t"
-        }
-      ],
-      "duration_ms": 220822,
-      "name": "Les avions de Mirabel",
-      "url": "https://open.spotify.com/track/70L2pzDrtjjpvhBjjhoR6r"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Parler",
         "url": "https://open.spotify.com/album/16AkdXaH7x32OT9RQm6pol"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 218403,
       "name": "Parler",
       "url": "https://open.spotify.com/track/2uNHNErhFsnhlLvjFaufZT"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Les avions de Mirabel",
+        "url": "https://open.spotify.com/album/1S3TfUWrkgA82sf15gzXkZ"
+      },
+      "artists": [
+        {
+          "name": "Claude B\u00e9gin",
+          "url": "https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t"
+        }
+      ],
+      "duration_ms": 220822,
+      "name": "Les avions de Mirabel",
+      "url": "https://open.spotify.com/track/70L2pzDrtjjpvhBjjhoR6r"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "3050 DEGREEZ: Condamn\u00e9 \u00e0 l'Excellence",
+        "url": "https://open.spotify.com/album/1N2S2joB3PmUVI6FmY04sz"
+      },
+      "artists": [
+        {
+          "name": "FREAKEY!",
+          "url": "https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY"
+        },
+        {
+          "name": "BU$HI",
+          "url": "https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K"
+        }
+      ],
+      "duration_ms": 145617,
+      "name": "AUDEMARS",
+      "url": "https://open.spotify.com/track/0FFPCPoYpblYPfJ33Mqe40"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Danser",
         "url": "https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 192653,
       "name": "Quoi-ce tu fais \u00e7a pour?",
       "url": "https://open.spotify.com/track/6IJwTNMx1itiFI3oapuYsP"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "3050 DEGREEZ: Condamn\u00e9 \u00e0 l'Excellence",
-        "url": "https://open.spotify.com/album/1N2S2joB3PmUVI6FmY04sz"
-      },
-      "artists": [
-        {
-          "name": "FREAKEY!",
-          "url": "https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY"
-        },
-        {
-          "name": "BU$HI",
-          "url": "https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K"
-        }
-      ],
-      "duration_ms": 145617,
-      "name": "AUDEMARS",
-      "url": "https://open.spotify.com/track/0FFPCPoYpblYPfJ33Mqe40"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Grand Bleu",
-        "url": "https://open.spotify.com/album/78n0CAVpQ3GJJ148WSDRxz"
-      },
-      "artists": [
-        {
-          "name": "Baie",
-          "url": "https://open.spotify.com/artist/1abqJO9ACBpOLxU9jugbcW"
-        }
-      ],
-      "duration_ms": 175388,
-      "name": "Grand Bleu",
-      "url": "https://open.spotify.com/track/3QLccDBR414z0qExgMp4FH"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Soleil",
         "url": "https://open.spotify.com/album/25Fs9y1TTVzAtTyxzUtJ7T"
       },
@@ -1675,22 +1659,6 @@
       "duration_ms": 147000,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/1gyGXCiMFynb95T18Oc8yl"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "M\u00e9tastases",
-        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
-      },
-      "artists": [
-        {
-          "name": "Keith Kouna",
-          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
-        }
-      ],
-      "duration_ms": 312653,
-      "name": "A\u00e9roplane",
-      "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1715,18 +1683,34 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Les chevaux du plaisir (Boulay chante Bashung)",
-        "url": "https://open.spotify.com/album/0mQ42DeEtBHZ33FhVzJ5sV"
+        "name": "M\u00e9tastases",
+        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
       },
       "artists": [
         {
-          "name": "Isabelle Boulay",
-          "url": "https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF"
+          "name": "Keith Kouna",
+          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
         }
       ],
-      "duration_ms": 235880,
-      "name": "Je t'ai manqu\u00e9",
-      "url": "https://open.spotify.com/track/033NZg6ZCt8UOG1U7Y4bB0"
+      "duration_ms": 312653,
+      "name": "A\u00e9roplane",
+      "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Grand Bleu",
+        "url": "https://open.spotify.com/album/78n0CAVpQ3GJJ148WSDRxz"
+      },
+      "artists": [
+        {
+          "name": "Baie",
+          "url": "https://open.spotify.com/artist/1abqJO9ACBpOLxU9jugbcW"
+        }
+      ],
+      "duration_ms": 175388,
+      "name": "Grand Bleu",
+      "url": "https://open.spotify.com/track/3QLccDBR414z0qExgMp4FH"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1743,6 +1727,22 @@
       "duration_ms": 236906,
       "name": "Rock Band",
       "url": "https://open.spotify.com/track/6rqWGgXtPRQ00iEOQMUbCB"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Les chevaux du plaisir (Boulay chante Bashung)",
+        "url": "https://open.spotify.com/album/0mQ42DeEtBHZ33FhVzJ5sV"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Boulay",
+          "url": "https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF"
+        }
+      ],
+      "duration_ms": 235880,
+      "name": "Je t'ai manqu\u00e9",
+      "url": "https://open.spotify.com/track/033NZg6ZCt8UOG1U7Y4bB0"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2031,6 +2031,26 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Petite fille devient grande",
+        "url": "https://open.spotify.com/album/0HkbzxdXq9eY7Bp4FzFkqf"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efma Frank",
+          "url": "https://open.spotify.com/artist/4aUXzuFgiPrcbVEQuw5r23"
+        },
+        {
+          "name": "Liamliamliam",
+          "url": "https://open.spotify.com/artist/5cNw5xb7EVrmuoPSFOy3Xw"
+        }
+      ],
+      "duration_ms": 152126,
+      "name": "T'es la reine",
+      "url": "https://open.spotify.com/track/1M4zFvJ4c7jJvvZ5FUCufg"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Tous les jours printemps",
         "url": "https://open.spotify.com/album/0lLG060tds4iQhGQHGAixA"
       },
@@ -2059,26 +2079,6 @@
       "duration_ms": 220186,
       "name": "Fais-moi tien",
       "url": "https://open.spotify.com/track/4vj6a6z7R1kBa4W9RTS4Le"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Petite fille devient grande",
-        "url": "https://open.spotify.com/album/0HkbzxdXq9eY7Bp4FzFkqf"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efma Frank",
-          "url": "https://open.spotify.com/artist/4aUXzuFgiPrcbVEQuw5r23"
-        },
-        {
-          "name": "Liamliamliam",
-          "url": "https://open.spotify.com/artist/5cNw5xb7EVrmuoPSFOy3Xw"
-        }
-      ],
-      "duration_ms": 152126,
-      "name": "T'es la reine",
-      "url": "https://open.spotify.com/track/1M4zFvJ4c7jJvvZ5FUCufg"
     },
     {
       "added_at": "2023-05-25 23:46:15",

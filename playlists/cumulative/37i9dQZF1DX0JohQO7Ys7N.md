@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: PHY
 
-140 songs - 7 hr 51 min
+142 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Hit Me Up](https://open.spotify.com/track/09XIfMbZ7hLoa1Ae4R0mdg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Hit Me Up](https://open.spotify.com/album/69jV1c5wIirVWVyaZpiLuj) | 3:42 | 2021-12-28 | 2022-05-20 |
 | [Hivyo](https://open.spotify.com/track/7I0gVer3b94T9aoRSRqGEw) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Hivyo](https://open.spotify.com/album/0DDhl9xlbotJWZ7yihik6B) | 3:18 | 2023-03-23 |  |
 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 | 2022-06-10 |  |
-| [I Like](https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [I Like](https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p) | 3:19 | 2023-02-23 |  |
+| [I Like](https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [I Like](https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p) | 3:19 | 2023-02-23 | 2023-10-13 |
 | [I Love the Way You](https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5) | 2:13 | 2022-02-04 | 2022-10-20 |
 | [I Love the Way You](https://open.spotify.com/track/5Eun2OrvZnSvzpPK5Wg5OD) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/2Knjxzw1OL1HuKuzJvFt72) | 2:13 | 2022-02-04 | 2023-03-31 |
 | [Ignited](https://open.spotify.com/track/560xVsPybvOmJ0iok2MJGE) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [Rafiki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47HCCsYMmSjswC4jLM644r) | 5:45 | 2021-12-28 | 2022-10-28 |
@@ -61,6 +61,7 @@
 | [Insecure](https://open.spotify.com/track/6dDDPV8S5meV46SamOnDNl) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 3:10 | 2021-12-28 | 2022-07-30 |
 | [Isabella](https://open.spotify.com/track/6eHfU5ED5uKQEc7EPd0nDY) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die In Afrika](https://open.spotify.com/album/4H5UZrxvT1OdPMDynLjFNL) | 3:32 | 2021-12-28 | 2022-09-23 |
 | [Jahera](https://open.spotify.com/track/3a0RyTh7kp57YxE4BtjpFV) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Jahera](https://open.spotify.com/album/0tYZ0bfXtTBzDFjMr2qqAk) | 3:07 | 2021-12-28 | 2022-09-02 |
+| [Jioni](https://open.spotify.com/track/5QSs2eM32gab8J9yjp2O8w) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm), [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Jioni](https://open.spotify.com/album/2KLjotalInooY3FMPxYnFD) | 3:54 | 2023-10-12 |  |
 | [Kama Wee](https://open.spotify.com/track/78wPzvhmbDQfFce0lmntj7) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Miss Kuria](https://open.spotify.com/artist/1S6ZwQApF4OfFpelqSepUi) | [Odes by Queens](https://open.spotify.com/album/3eTbgi6s1WKIjSfDq5TJPh) | 3:35 | 2021-12-28 | 2023-04-07 |
 | [Kesho](https://open.spotify.com/track/3DnDhuYVRRGWTT9rYvCKNW) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Kesho](https://open.spotify.com/album/5Fpjo8qf72pfBNEy80XpNK) | 2:37 | 2023-05-26 |  |
 | [Kesho Kutwa](https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Kesho Kutwa](https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt) | 4:12 | 2021-12-28 |  |
@@ -103,7 +104,8 @@
 | [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 | 2022-10-13 | 2022-11-11 |
 | [Paths](https://open.spotify.com/track/6rOF2rxWh0zxN6lRgSMOTn) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN) | [Catch A Vibe](https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs) | 3:22 | 2021-12-28 | 2022-08-19 |
 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 | 2022-07-07 |  |
-| [Pictures](https://open.spotify.com/track/6ynowQEXMq0CmE1PaWwlnz) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heart to Hurt](https://open.spotify.com/album/4QEJSaRYujs6FtiF7gpctX) | 3:59 | 2021-12-28 |  |
+| [Pick Me Up](https://open.spotify.com/track/5s5cXS6FGVgUpKnvkzPznW) | [Visser O'Brien](https://open.spotify.com/artist/0GIKRKygeFQpKi12hfidcv) | [The Love That Was](https://open.spotify.com/album/6Y5X4f4tdTW6RCeQyzL3ZC) | 3:36 | 2023-10-12 |  |
+| [Pictures](https://open.spotify.com/track/6ynowQEXMq0CmE1PaWwlnz) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heart to Hurt](https://open.spotify.com/album/4QEJSaRYujs6FtiF7gpctX) | 3:59 | 2021-12-28 | 2023-10-13 |
 | [Presha](https://open.spotify.com/track/1OelLLNoOJNYnukzOPYSct) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Presha](https://open.spotify.com/album/5QlAwtL0kaP0JPEe93PN4A) | 2:56 | 2023-04-06 |  |
 | [Pretty](https://open.spotify.com/track/2ugvW84yp6HulDOqRdAxPW) | [Charisma](https://open.spotify.com/artist/4sVIp9KBR3YULsXRpjjYzp) | [Pretty](https://open.spotify.com/album/577xM3upynKWhBEwnFBPZ2) | 2:12 | 2022-10-27 | 2022-11-04 |
 | [Problems](https://open.spotify.com/track/13Vo9Bfa1mdR7p3tZk3ues) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Problems](https://open.spotify.com/album/6nuNAmZvBNuOMHdHCHKWNs) | 4:09 | 2021-12-28 |  |

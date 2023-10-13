@@ -4,7 +4,7 @@
 
 > Jazz piano ballads to help you focus during the workday.
 
-569 songs - 1 day 9 hr 18 min
+572 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [April In Paris](https://open.spotify.com/track/3g2ctas7bdFNBQqY2tvmVB) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [April In Paris](https://open.spotify.com/album/0vPYfucQhycMD6htX9rvyl) | 2:31 | 2022-09-29 |  |
 | [As Time Goes By](https://open.spotify.com/track/2FgLhm6EwB0Ix8XLHABFkC) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [As Time Goes By](https://open.spotify.com/album/43blKT5tNQotndvCtQGMhg) | 4:10 | 2022-09-29 | 2023-05-05 |
 | [Ascent](https://open.spotify.com/track/4d2YgepBRyYjr1EXM6slZq) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:10 | 2022-06-14 |  |
+| [At Dawn](https://open.spotify.com/track/5nLMgWEQA33IDqZJyCkHND) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Paris in Spring](https://open.spotify.com/album/6j3hvmLvXl1eIHonHyj8cV) | 3:53 | 2023-10-13 |  |
 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 | 2022-06-14 | 2023-03-03 |
 | [Autumn in New York](https://open.spotify.com/track/74kk2SjNWqhRcTTa5QoDec) | [Eli Starr Trio](https://open.spotify.com/artist/5oITtTq61bt7N9ZvaJf7G7) | [Autumn in New York](https://open.spotify.com/album/4VK7vsDrvzFYqhs3JjPOmf) | 5:13 | 2022-06-14 | 2022-12-02 |
 | [Autumn Once Again](https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Autumn Once Again](https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk) | 4:44 | 2022-10-27 |  |
@@ -192,6 +193,7 @@
 | [Home town](https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town](https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr) | 2:58 | 2023-01-12 |  |
 | [Hometown Again](https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Hometown Again](https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG) | 4:35 | 2022-10-27 |  |
 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-06-14 |  |
+| [How About You](https://open.spotify.com/track/4tVteS21UzbqesfNG7uT8D) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [How About You](https://open.spotify.com/album/5DUxax2EBK8DvoRMmiEi7m) | 3:22 | 2023-10-13 |  |
 | [Hum Sweet Serenades](https://open.spotify.com/track/4HCsxaiFhQ5J6JZbsv9TUm) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [Hum Sweet Serenades](https://open.spotify.com/album/0XrvNpJzc7mLeoHBiuzbzF) | 3:03 | 2023-03-02 |  |
 | [Hush](https://open.spotify.com/track/1DaqNS1d8PFJ3SmYl1lb0y) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Hush](https://open.spotify.com/album/2myqZD63aBJPgYjQ1N9vbu) | 3:46 | 2022-06-14 | 2022-10-28 |
 | [I Can’t Get Started](https://open.spotify.com/track/3lHeTorlEnYb3icowpiDiR) | [Elton Willis Trio](https://open.spotify.com/artist/3dnm59R1zLsrNl8wXA9Aui) | [I Can’t Get Started](https://open.spotify.com/album/4biFCrWFx9nlHAauPuKUGv) | 4:24 | 2022-06-14 |  |
@@ -555,6 +557,7 @@
 | [Windless Waters](https://open.spotify.com/track/7FMsiew09v6ICDI5MU1Jc5) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Windless Waters](https://open.spotify.com/album/4VavAVgUen9lslDOZtqizc) | 3:30 | 2022-10-27 |  |
 | [Witchcraft](https://open.spotify.com/track/66aAqXbtPixOM1WDoEuhHb) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Witchcraft](https://open.spotify.com/album/37mjWYjc42OJuWa65ZyFBQ) | 3:02 | 2022-11-10 | 2023-04-28 |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-08 |  |
+| [Worry and Gossip](https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Worry and Gossip](https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV) | 3:41 | 2023-10-13 |  |
 | [Wrap Your Troubles In Dreams](https://open.spotify.com/track/7H6doSNNykKJH1ewJxW4FL) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Wrap Your Troubles In Dreams](https://open.spotify.com/album/5BMDLUvkvvkaxOVWKDnM7Q) | 2:49 | 2023-06-08 |  |
 | [Yesterday](https://open.spotify.com/track/2eIry6lu8pdyShi9RPk2dR) | [Tommies Trio](https://open.spotify.com/artist/2k2e33oHCm8aQalDfKTvz6) | [Yesterday](https://open.spotify.com/album/5mfTNVaNN6hwzcBKZ6Pj9w) | 3:47 | 2022-06-14 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/3rGH9xLvAP2R6445FaLVs8) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [You Are Too Beautiful](https://open.spotify.com/album/33NCFfEVLRuMZduy6wUiQA) | 3:18 | 2023-05-25 |  |

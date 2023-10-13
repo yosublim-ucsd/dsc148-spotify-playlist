@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Aline Barros",
-  "num_followers": 306178,
+  "num_followers": 305486,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2NmZGZkNTQxN2UzZGUxOGI5NWU5OTdhYjQ4NjQ3NzZmNDAwZjMw",
+  "snapshot_id": "MCw2ZjE1ZGRlNWZiMDM1NWM4NDQzMGEyNDJjNzQ4MzVhNzIzNDdiZjdi",
   "tracks": [
     {
       "added_at": "2023-10-11 03:00:00",
@@ -82,6 +82,10 @@
         {
           "name": "Valesca Mayssa",
           "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
       "duration_ms": 376035,
@@ -198,6 +202,10 @@
         {
           "name": "Valesca Mayssa",
           "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
       "duration_ms": 459230,
@@ -298,6 +306,10 @@
         {
           "name": "Valesca Mayssa",
           "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
       "duration_ms": 411976,
@@ -630,6 +642,10 @@
         {
           "name": "Stella Laura",
           "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
       "duration_ms": 391899,
@@ -926,6 +942,10 @@
         {
           "name": "Stella Laura",
           "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
       "duration_ms": 315473,
@@ -1263,22 +1283,6 @@
     {
       "added_at": "2023-10-11 03:00:00",
       "album": {
-        "name": "Acalmarei",
-        "url": "https://open.spotify.com/album/0dNxHMdvrMgox8nfNuJFjM"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aguiar",
-          "url": "https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw"
-        }
-      ],
-      "duration_ms": 311142,
-      "name": "Acalmarei",
-      "url": "https://open.spotify.com/track/6ddcJb42CdRBDRiSqED9xM"
-    },
-    {
-      "added_at": "2023-10-11 03:00:00",
-      "album": {
         "name": "Santo pra Sempre (Ao Vivo)",
         "url": "https://open.spotify.com/album/3X0PjwhyTDFdcEScpjEMnr"
       },
@@ -1291,6 +1295,22 @@
       "duration_ms": 327756,
       "name": "Santo para Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/48EVizWqKCp2WRa1L5OGDg"
+    },
+    {
+      "added_at": "2023-10-11 03:00:00",
+      "album": {
+        "name": "Acalmarei",
+        "url": "https://open.spotify.com/album/0dNxHMdvrMgox8nfNuJFjM"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aguiar",
+          "url": "https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw"
+        }
+      ],
+      "duration_ms": 311142,
+      "name": "Acalmarei",
+      "url": "https://open.spotify.com/track/6ddcJb42CdRBDRiSqED9xM"
     },
     {
       "added_at": "2023-10-11 03:00:00",

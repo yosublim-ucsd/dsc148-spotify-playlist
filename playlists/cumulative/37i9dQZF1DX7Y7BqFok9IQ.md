@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Rival Sons
 
-251 songs - 15 hr 53 min
+252 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Nothing Left To Lose](https://open.spotify.com/track/20jcu0GEUol1uArAwIZDvX) | [LoveSick Radio](https://open.spotify.com/artist/7zca83vBdFEDg0119J8thJ) | [Nothing Left To Lose](https://open.spotify.com/album/3iCNJpwYv9jKHkL3VOpn2x) | 3:24 | 2021-04-09 |  |
 | [Off The Ground](https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Give It Back To You](https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3) | 4:13 | 2020-10-16 |  |
 | [Off the Shelf](https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Love Luck](https://open.spotify.com/album/2Rohycq7EGBbuJbYp3Z0G5) | 3:28 | 2020-10-16 |  |
-| [Oh! That Bitches Brew](https://open.spotify.com/track/61IrEhpwtItIV48ieuEOlN) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Oh! That Bitches Brew](https://open.spotify.com/album/1y3oh4duwhS5ZuWqc9hh6g) | 3:29 | 2023-09-29 |  |
+| [Oh! That Bitches Brew](https://open.spotify.com/track/15VyA0PQUtjVEZFYKPdrqK) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Oh! That Bitches Brew](https://open.spotify.com/album/0Er9Y6SwV1F4hM1FernVJC) | 3:29 | 2023-09-29 |  |
+| [Oh! That Bitches Brew](https://open.spotify.com/track/61IrEhpwtItIV48ieuEOlN) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Oh! That Bitches Brew](https://open.spotify.com/album/1y3oh4duwhS5ZuWqc9hh6g) | 3:29 | 2023-09-29 | 2023-10-13 |
 | [On My Hands](https://open.spotify.com/track/5In3Mo6cEy9gCVzpcCTolv) | [King Vaudeville](https://open.spotify.com/artist/1oZXZvudWk8Iej1P0VWzwS) | [On My Hands](https://open.spotify.com/album/2nWs7LzcrLUwSnjoX2bvdK) | 3:25 | 2023-09-15 |  |
 | [One More Time](https://open.spotify.com/track/4xJ65J4IJYtxV7A9Uz9BX4) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Choke Cherry Tree](https://open.spotify.com/album/2H6mfUMvRacDoPtgbcbqkR) | 3:24 | 2020-10-16 |  |
 | [One Of A Kind](https://open.spotify.com/track/58EZbAbfLjnsfS5gBFVgnF) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [One Of A Kind](https://open.spotify.com/album/28VUOeKPDCNxr4I1vxDz2h) | 3:13 | 2023-03-10 |  |

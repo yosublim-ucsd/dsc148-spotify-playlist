@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-196 songs - 11 hr 14 min
+197 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Burn MF](https://open.spotify.com/track/2r6w2d3ehFw7BZ5yDLcroq) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Burn MF](https://open.spotify.com/album/3xQTtEFddnUR8jjHR36RUh) | 3:03 | 2022-12-08 |  |
 | [Cannibal \- Radical Redemption Remix](https://open.spotify.com/track/2DWwikXjYJpQe7sbdjgUQl) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Cannibal \(Radical Redemption Remix\)](https://open.spotify.com/album/0IkDRXg0wntX1zPOlaKDqq) | 3:07 | 2022-12-08 |  |
 | [Choose Life](https://open.spotify.com/track/2EHSBfC2epl3BXYR2uYrFd) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Choose Life](https://open.spotify.com/album/78oFO3EBoHwZEyyzqMJu9n) | 3:08 | 2023-05-15 |  |
-| [Come for You](https://open.spotify.com/track/6jLL2rtFTGpzStKsw3XBqN) | [Regain](https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK) | [Back to Square One](https://open.spotify.com/album/6kZ3RJatrJ9zZvZwIAYiJb) | 2:48 | 2022-12-08 |  |
+| [Come for You](https://open.spotify.com/track/6jLL2rtFTGpzStKsw3XBqN) | [Regain](https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK) | [Back to Square One](https://open.spotify.com/album/6kZ3RJatrJ9zZvZwIAYiJb) | 2:48 | 2022-12-08 | 2023-10-13 |
 | [Crazy, Like Me!](https://open.spotify.com/track/1Q2olRfNKPRStACvonlfqS) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Crazy, Like Me!](https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g) | 2:54 | 2022-12-08 | 2023-09-02 |
 | [Creed Of Freakstyle](https://open.spotify.com/track/14IsD2FgLmBaGVsbCm1oIE) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Creed Of Freakstyle](https://open.spotify.com/album/5QgbUIZAldBQ6FmWDMXD6D) | 4:09 | 2023-09-28 |  |
 | [Cryexgenic](https://open.spotify.com/track/1UACIXnIw1AVHyodV4wbhv) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Cryogenic](https://open.spotify.com/artist/3JkD7HM6gEzgOMm9kwzunN) | [Cryexgenic](https://open.spotify.com/album/1wVCfLLSlUP2zprjVCYKR9) | 3:43 | 2022-12-08 | 2023-09-02 |
@@ -91,6 +91,7 @@
 | [Hard 2 The Core](https://open.spotify.com/track/0SHuuJh45TfuSIkRl2kHX5) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Hard 2 The Core](https://open.spotify.com/album/0a7UPxBDJTJk5VZl5BRrvZ) | 2:56 | 2023-05-15 | 2023-06-30 |
 | [Hard Knock Life](https://open.spotify.com/track/3aD91A4Lk9uGAcyk3fhYsW) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Hard Knock Life](https://open.spotify.com/album/0pbwFymA94rgfOGDEcRdPZ) | 3:35 | 2022-12-08 |  |
 | [Hardcore By Nature \(Official Titanium Festival 2022 Anthem\) \- Radio Edit](https://open.spotify.com/track/4Vss1bAPHkVTVbxURknLwL) | [Cryogenic](https://open.spotify.com/artist/3JkD7HM6gEzgOMm9kwzunN), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Hardcore By Nature](https://open.spotify.com/album/2izAsrxlJDLFuDSCRBfsjQ) | 3:21 | 2022-12-08 | 2023-06-30 |
+| [Hardcore Chemical \- Rulebreaking Hard Mix](https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Hardcore Chemical \(Rulebreaking Hard Mix\)](https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW) | 1:36 | 2023-10-12 |  |
 | [Hardcore Style](https://open.spotify.com/track/1uS5kcnuELQLIVSaYoBJpr) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4) | [The Bones Collection](https://open.spotify.com/album/46UvKuPSGJm7KLJDtWsVsR) | 3:20 | 2022-12-08 | 2023-09-15 |
 | [Hell Boy](https://open.spotify.com/track/0eJHFqxFo6Zie80rJfWHrg) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Hell Boy](https://open.spotify.com/album/7Ae8pqHUbS1f2HNxwiFWtk) | 3:44 | 2022-12-08 | 2023-09-15 |
 | [Hell Of A Ride \- Official Dominator 2022 Anthem](https://open.spotify.com/track/4mmfmBwioCjlXjkklzXzHx) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD), [Carola](https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp) | [Hell Of A Ride \(Official Dominator 2022 Anthem\)](https://open.spotify.com/album/5DJ81U0ycYxyM6g0DwJv0d) | 4:11 | 2022-12-08 |  |

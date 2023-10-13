@@ -4,7 +4,7 @@
 
 > cool music ft\. Riovaz
 
-317 songs - 14 hr 6 min
+320 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [50/50](https://open.spotify.com/track/6eS4jqni6XJyS0ltp1Umlc) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [50/50](https://open.spotify.com/album/20ro3WFXJdS2rkF7kZ0CwY) | 2:48 | 2023-01-13 | 2023-09-19 |
 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 | 2022-12-04 | 2023-08-02 |
 | [6 Pack and Cigarettes](https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [The Gutter](https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe) | 2:54 | 2023-06-09 | 2023-09-22 |
+| [A LA CARTE](https://open.spotify.com/track/5L6F6siaHwwpuR1exuZPnH) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [SCRAPYARD I](https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4) | 3:01 | 2023-10-12 |  |
 | [airplane](https://open.spotify.com/track/0ZSrtjk2DQH6xWura7F01v) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [airplane](https://open.spotify.com/album/1DeRZ8RuEzvo7pfTzf5mYm) | 3:15 | 2023-01-27 | 2023-02-18 |
 | [Alive](https://open.spotify.com/track/27XTTUlL99G8lcfuaetPij) | [CHRIS YONGE](https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT), [bloom](https://open.spotify.com/artist/3cXtMPyjj49G5dfZiO7W7Q) | [Alive](https://open.spotify.com/album/2udKLu1JEzjTssCifkxxRJ) | 2:21 | 2022-12-16 | 2023-02-18 |
 | [alone](https://open.spotify.com/track/7B0UsAj5qR6NeYQq3y74rF) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [alone](https://open.spotify.com/album/0C1DeypOQyvRbU7Eg7917n) | 3:13 | 2022-12-04 | 2023-09-19 |
@@ -33,7 +34,7 @@
 | [better off dead](https://open.spotify.com/track/5rFK78i7giot3tu9nq7mZN) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX) | [better off dead](https://open.spotify.com/album/00N0Z98MyHDseMugQdNYKd) | 2:42 | 2023-03-10 |  |
 | [Birds Fly](https://open.spotify.com/track/5D0F0NUf3nhgAZPiVIdwRq) | [Deep October](https://open.spotify.com/artist/0nYshUSXrbGoxvSDo03JMc) | [Birds Fly](https://open.spotify.com/album/4N0VLGbDm2Bmmxm19qlg88) | 3:01 | 2023-06-23 | 2023-09-22 |
 | [biteback](https://open.spotify.com/track/1wG8jqQHtUWP22YaUIZNnS) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [biteback](https://open.spotify.com/album/5SXLdiWht4MwICTqA9QwNP) | 2:02 | 2022-12-04 | 2023-08-02 |
-| [bittersweet teeth](https://open.spotify.com/track/0Uk24ctvr2GyVZ3aC3vGgA) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv), [NOT A TOY](https://open.spotify.com/artist/7uiWgFc6g98QsoDKotM3T4) | [bittersweet teeth \(alternate versions\)](https://open.spotify.com/album/795wZH8JkFop6dDOFYXkN6) | 2:22 | 2023-02-24 |  |
+| [bittersweet teeth](https://open.spotify.com/track/0Uk24ctvr2GyVZ3aC3vGgA) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv), [NOT A TOY](https://open.spotify.com/artist/7uiWgFc6g98QsoDKotM3T4) | [bittersweet teeth \(alternate versions\)](https://open.spotify.com/album/795wZH8JkFop6dDOFYXkN6) | 2:22 | 2023-02-24 | 2023-10-13 |
 | [Bloodshot](https://open.spotify.com/track/6bMmTX6kZkCatybG4ZvYB1) | [Bad Mustache](https://open.spotify.com/artist/1n9tiAnBj5vzukpcEOaZzE) | [Bloodshot](https://open.spotify.com/album/4J9gyTFX77422CnsEpv7jG) | 2:31 | 2022-12-04 | 2023-02-18 |
 | [Blue](https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Blue](https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU) | 3:46 | 2022-12-04 | 2023-06-17 |
 | [Blue Atlanta](https://open.spotify.com/track/6BHPw2MZMosf3eEaFiwl4z) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Blue Atlanta](https://open.spotify.com/album/3sNsCFbYYDe2te2R8xRrAE) | 3:20 | 2023-01-27 | 2023-09-19 |
@@ -76,6 +77,7 @@
 | [Daylight](https://open.spotify.com/track/6SwADEar9alFscVOcPY2eq) | [m4x](https://open.spotify.com/artist/59I91KjkQv2ep7ogDu1U0S) | [Daylight](https://open.spotify.com/album/12tTHLBSApLkacLXdWc3eJ) | 2:09 | 2023-04-14 | 2023-07-15 |
 | [Daylight](https://open.spotify.com/track/6yYm8XwZS69BzCXGRmfWU9) | [m4x](https://open.spotify.com/artist/59I91KjkQv2ep7ogDu1U0S) | [Made In Bleach](https://open.spotify.com/album/1FdfvychlfN8plFb8g9DAj) | 2:09 | 2023-08-04 | 2023-09-22 |
 | [Deadline](https://open.spotify.com/track/6mJBoYd5COYvdRdSasGAbw) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [OUTOFBODY](https://open.spotify.com/album/1QXA280UYvDSd53ZKA5AOn) | 2:24 | 2022-12-04 | 2023-02-18 |
+| [DECAY](https://open.spotify.com/track/7ujHwnDCjSx77is9AI1tdR) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [ROCK 'N' RAVE](https://open.spotify.com/album/3oRlu91UUBH536qpdagyNQ) | 2:26 | 2023-10-12 |  |
 | [deepfake](https://open.spotify.com/track/2iS3P95EkgyRAHx2hLy0ga) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 5:30 | 2022-12-16 |  |
 | [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 | 2023-02-17 | 2023-04-09 |
 | [difficult](https://open.spotify.com/track/3uWiz4o4sFeLcjFiELuDa1) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [difficult](https://open.spotify.com/album/4wFsQRPPnYc2k73yUldWEh) | 2:04 | 2023-06-23 |  |
@@ -169,7 +171,7 @@
 | [like it used to](https://open.spotify.com/track/2YOIz8tWo8JBzkcLvw50qZ) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [like it used to](https://open.spotify.com/album/766jC2izPwFKPRGZqo9q3E) | 2:23 | 2023-08-04 | 2023-09-22 |
 | [loggedbackin](https://open.spotify.com/track/7lcwojBCnyni5eWsTKA5om) | [login](https://open.spotify.com/artist/5JZPSVFMUk4HGDdx68lN77) | [loggedbackin](https://open.spotify.com/album/2P2aPdNmCUdg3MnZxPs9Fn) | 1:59 | 2023-08-16 | 2023-09-16 |
 | [lol.](https://open.spotify.com/track/2b1jwf7qPlVHcXLB8jkOp9) | [Left at London](https://open.spotify.com/artist/3xPCFC8f7U3raEXOXQ3MrE), [Jedwill](https://open.spotify.com/artist/6Ed7YwSt3LvYcMDZk5b1Id), [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l) | [lol.](https://open.spotify.com/album/4JsRJhklpfdlHCrMEvAEJK) | 2:46 | 2023-04-07 | 2023-09-22 |
-| [losemymind](https://open.spotify.com/track/3UCS6qOeXaVjtj2n7D5vZs) | [4cf](https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL) | [losemymind](https://open.spotify.com/album/5P8gmVPWC5O21bN5rkNaWu) | 2:27 | 2023-02-24 |  |
+| [losemymind](https://open.spotify.com/track/3UCS6qOeXaVjtj2n7D5vZs) | [4cf](https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL) | [losemymind](https://open.spotify.com/album/5P8gmVPWC5O21bN5rkNaWu) | 2:27 | 2023-02-24 | 2023-10-13 |
 | [losin' it](https://open.spotify.com/track/3izUvtPn0LV3ncLaALAjjh) | [forest](https://open.spotify.com/artist/4OekPdF1oZS9OlbCQuwTlz) | [Bloom To Death](https://open.spotify.com/album/6ct86pPO357pAhxA3SrA3x) | 3:24 | 2023-07-28 | 2023-08-09 |
 | [machines](https://open.spotify.com/track/3ZWge0n1ymKXnmVoq9RN1G) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [machines](https://open.spotify.com/album/68hdC4ozadHQnX8OqeafWS) | 2:58 | 2022-12-04 | 2023-03-08 |
 | [made me to be](https://open.spotify.com/track/7z9NzImkZmheXOZLrVF7HD) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU) | [teeth](https://open.spotify.com/album/2kwMpS2boGu2KgvT4UIxCh) | 1:53 | 2023-06-23 | 2023-07-15 |
@@ -286,6 +288,7 @@
 | [tooth](https://open.spotify.com/track/1jlh10sj0EezRytqgOgHvf) | [lavi kou](https://open.spotify.com/artist/77g4HXj3U279MaBzDn9eP0) | [tooth](https://open.spotify.com/album/5pNYo2aydjdR0n1PrL99d5) | 1:26 | 2023-03-17 | 2023-06-10 |
 | [truth hurts](https://open.spotify.com/track/5CAvQkgGDGOyicH7e0Z6jN) | [chriad](https://open.spotify.com/artist/7deQ6Y3VQYqHzRrVia18Bl), [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9) | [truth hurts](https://open.spotify.com/album/3HLoC6h0fWZrceTxnrk1cy) | 3:34 | 2023-02-17 |  |
 | [try](https://open.spotify.com/track/7KPibpTWZTtzUuhiNWX6d3) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [try](https://open.spotify.com/album/4Bgc3jlcqzN9QtRqq4hUqg) | 2:08 | 2023-09-29 |  |
+| [U DON'T KNOW ME LIKE THAT](https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD I](https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4) | 3:29 | 2023-10-12 |  |
 | [U Neva](https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [U Neva](https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r) | 2:22 | 2023-03-24 | 2023-04-09 |
 | [Ughh Parents Evening](https://open.spotify.com/track/09NAWwOkfRCGurjHthLeJL) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [three.one](https://open.spotify.com/album/2xGck9uWnQCNpiBfhHa7JI) | 2:31 | 2023-05-19 | 2023-08-17 |
 | [UNDER THE ILLUSION](https://open.spotify.com/track/6c0dPWNb18BL7RLwwlZ717) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [UNDER THE ILLUSION](https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP) | 3:56 | 2023-09-29 |  |

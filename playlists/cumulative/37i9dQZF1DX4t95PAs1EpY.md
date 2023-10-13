@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-469 songs - 18 hr 4 min
+470 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [On Repeat](https://open.spotify.com/track/3fY4AgYbIUJZvz7hl0326O) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [On Repeat](https://open.spotify.com/album/14CoxikyUkUvWAp9itXBjS) | 2:30 | 2021-12-07 |  |
 | [Open Mind](https://open.spotify.com/track/1kt6a5QnMUlFekTV8AHxRy) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Open Mind](https://open.spotify.com/album/21uLlTDKl4plmnUwvuYozh) | 2:32 | 2021-12-07 | 2022-09-03 |
 | [Open Skies](https://open.spotify.com/track/5lP90jpZwrWDr9KoFmNQux) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P), [muun](https://open.spotify.com/artist/6R0LlvMD1ig3Hplf2IyhRf) | [Open Skies](https://open.spotify.com/album/7GzoQgQRZiLz14ByYZOIPN) | 2:06 | 2022-07-15 | 2023-06-07 |
+| [Orchard Swing](https://open.spotify.com/track/70UrlQAcz7mXvcwI2HoQ9Z) | [luzzy fogic](https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut) | [Orchard Swing](https://open.spotify.com/album/1BxFSpxIcTFYqaEdYthEc0) | 2:23 | 2023-10-13 |  |
 | [Orchards](https://open.spotify.com/track/4NNojnTmAd2ayvXOl13t6m) | [ghost talk](https://open.spotify.com/artist/63vxoykPG9d9640xdt86KB) | [Orchards](https://open.spotify.com/album/6Xjkk8rEdbP6LhrWp5uofy) | 2:13 | 2022-05-13 | 2022-09-03 |
 | [orchid](https://open.spotify.com/track/4dFghKKkPZStUpdyFYu0oJ) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [orchid](https://open.spotify.com/album/7tIsJ2fOZzxGnvufJxGmkz) | 2:31 | 2023-02-07 |  |
 | [outdoors](https://open.spotify.com/track/5fEU8VYP1yto7mugwoPqvi) | [GM Nanashi](https://open.spotify.com/artist/3UGhltIiwrExCxs5CjJQFh) | [outdoors](https://open.spotify.com/album/6B0e6J5jSyFryQ9TiPAlYI) | 2:19 | 2022-12-23 |  |
@@ -429,7 +430,7 @@
 | [The Time I Looked into the Sun](https://open.spotify.com/track/01AWFRAE691sMg8QwiZIPO) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [The Time I Looked into the Sun](https://open.spotify.com/album/27SWCLPFYAmuaUH5aNRKEz) | 3:25 | 2023-03-08 |  |
 | [There is a New Beginning](https://open.spotify.com/track/0E1F9N1OMTTBIeNob0GjG7) | [PONY](https://open.spotify.com/artist/5CxY3qA1kVNN0MolYlkVAI) | [The Carlton](https://open.spotify.com/album/1DMVvbrhKB6oJbZxQM0gDi) | 2:59 | 2023-02-17 |  |
 | [Today and Tomorrow](https://open.spotify.com/track/13gqYyyzSQIFmGWtLaN5ti) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF) | [Today and Tomorrow](https://open.spotify.com/album/1glzrWojIdQ5kZQpN1ivCc) | 2:17 | 2022-09-02 |  |
-| [Together Again](https://open.spotify.com/track/4C9ByMjoE2OOR5QKDdg0vt) | [Junk33](https://open.spotify.com/artist/7IgcwstkR6B1E2kb1vKit0) | [Departure](https://open.spotify.com/album/0lVmapkDMHZgGcRU6z5pH3) | 1:53 | 2023-06-06 |  |
+| [Together Again](https://open.spotify.com/track/4C9ByMjoE2OOR5QKDdg0vt) | [Junk33](https://open.spotify.com/artist/7IgcwstkR6B1E2kb1vKit0) | [Departure](https://open.spotify.com/album/0lVmapkDMHZgGcRU6z5pH3) | 1:53 | 2023-06-06 | 2023-10-13 |
 | [Tokyo Nights](https://open.spotify.com/track/7nGVyLjv39Yuj42FX4rD5z) | [Sigasiga](https://open.spotify.com/artist/4iVh1Sa6sZPjSyzLq0S4fz) | [Tokyo Nights](https://open.spotify.com/album/1foa8N89PsMdFkh5b0X602) | 2:28 | 2023-02-17 |  |
 | [Tokyo Sunset](https://open.spotify.com/track/6iUnlcDJRrjnh09f3aK0uq) | [Simon Groß](https://open.spotify.com/artist/4pQcgEsdyEy5XTd0QMmjvD) | [Tokyo Sunset](https://open.spotify.com/album/1lsPLS46QiTLaWCC3BYSJi) | 3:18 | 2022-09-16 | 2023-06-07 |
 | [Tomorrow Will Be Better](https://open.spotify.com/track/1Hu6iQRGLdYGhkduI102i8) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Inner Passages](https://open.spotify.com/album/1GR5IrxcK8yXeE33ii8Miw) | 2:34 | 2022-11-11 | 2022-11-26 |

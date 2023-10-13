@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Polo & Pan",
+  "description": "New music off the beaten track. Cover: The Streets",
   "name": "OFF POP",
   "tracks": [
     {
@@ -470,6 +470,28 @@
       "duration_ms": 207800,
       "name": "Always",
       "url": "https://open.spotify.com/track/5uHgKIUzqrpRt10p1crJma"
+    },
+    {
+      "album": {
+        "name": "Ambrosia",
+        "url": "https://open.spotify.com/album/6liLrRZ18eTnyKwKKdlhYB"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186943,
+      "name": "Ambrosia",
+      "url": "https://open.spotify.com/track/0t4XPmrCs5f9JWo26yQdPz"
     },
     {
       "album": {
@@ -1033,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "The Darker The Shadow The Brighter The Light",
+        "url": "https://open.spotify.com/album/1RH7DhJJ0kUDm5zjv7KOzd"
+      },
+      "artists": [
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200571,
+      "name": "Bright Sunny Day",
+      "url": "https://open.spotify.com/track/4SNVYQCW5yopk5uUluli3c"
+    },
+    {
+      "album": {
         "name": "Broken (Remixes)",
         "url": "https://open.spotify.com/album/6ggsZZrmUNFR7NxPC8X9sN"
       },
@@ -1212,7 +1252,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 371000,
       "name": "Carbon Dioxide - Avalon Emerson Remix",
       "url": "https://open.spotify.com/track/1izkZudygEfMyRbUirb9ik"
@@ -2220,7 +2260,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 222926,
       "name": "Drink In Paris",
       "url": "https://open.spotify.com/track/18CpVX2rKdyGGZYtQmLKTh"
@@ -2326,7 +2366,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 325232,
       "name": "Eat Your Dollar",
       "url": "https://open.spotify.com/track/4Hi1kCPHplqEMPJMKbmXGz"
@@ -2370,6 +2410,28 @@
       "duration_ms": 193435,
       "name": "echo",
       "url": "https://open.spotify.com/track/39rdOcmqMFRCoxaFLSXB00"
+    },
+    {
+      "album": {
+        "name": "WUT",
+        "url": "https://open.spotify.com/album/0ooPfXfXVfkv8WjcMkOjnE"
+      },
+      "artists": [
+        {
+          "name": "Kalipo",
+          "url": "https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi"
+        },
+        {
+          "name": "Local Suicide",
+          "url": "https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342031,
+      "name": "Echoes Of The Past",
+      "url": "https://open.spotify.com/track/25yFIb4x438niHV77uRU8p"
     },
     {
       "album": {
@@ -4006,7 +4068,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 277224,
       "name": "Hurtz So Bad",
       "url": "https://open.spotify.com/track/0iZTXEsSZWaY2hoNszFDAB"
@@ -4050,7 +4112,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 300487,
       "name": "I Am Human",
       "url": "https://open.spotify.com/track/1AUmprQhFQT2iEijMQOxIX"
@@ -5793,6 +5855,24 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/6oaWJD1A4bgpiqNWvp0mwk"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205026,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3dyI5XL7jMz905RsJiGDjf"
+    },
+    {
+      "album": {
         "name": "Moonwalk",
         "url": "https://open.spotify.com/album/31ZNKLwaw8yjYO5XdUhC4e"
       },
@@ -6595,6 +6675,24 @@
     },
     {
       "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/3FFC8lDz8RhvpHtO89NLix"
+      },
+      "artists": [
+        {
+          "name": "Disfreq",
+          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "People",
+      "url": "https://open.spotify.com/track/0xi7qZJw7b1colPIEGG8bB"
+    },
+    {
+      "album": {
         "name": "Personal Effects",
         "url": "https://open.spotify.com/album/7KqU1iCysBTl3Q8DH3oma9"
       },
@@ -7260,7 +7358,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 199375,
       "name": "Seeking Angels - Radio Edit",
       "url": "https://open.spotify.com/track/5EYQoWdYzVdJNH9pjskz72"
@@ -7282,7 +7380,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 206210,
       "name": "Selfish Soul - ODESZA Remix",
       "url": "https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL"
@@ -8343,6 +8441,28 @@
     },
     {
       "album": {
+        "name": "ten",
+        "url": "https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182013,
+      "name": "ten",
+      "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
+    },
+    {
+      "album": {
         "name": "Territory Day",
         "url": "https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg"
       },
@@ -8673,6 +8793,28 @@
     },
     {
       "album": {
+        "name": "TNB",
+        "url": "https://open.spotify.com/album/6O7FlSDAo2fzZNfo1UcP9D"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        },
+        {
+          "name": "Planningtorock",
+          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238746,
+      "name": "TNB - Day Version",
+      "url": "https://open.spotify.com/track/7cTU2aAs6TMUIwvIfIfTKy"
+    },
+    {
+      "album": {
         "name": "To be honest (SG Lewis Remix)",
         "url": "https://open.spotify.com/album/78tzLrfhvjKqMeLQ7Tq6en"
       },
@@ -8966,7 +9108,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 172786,
       "name": "Under the Moon",
       "url": "https://open.spotify.com/track/7JyZjlTWvCMJcbimNOAOkC"
@@ -9498,6 +9640,24 @@
       "duration_ms": 406533,
       "name": "When You Wake up Tomorrow",
       "url": "https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY"
+    },
+    {
+      "album": {
+        "name": "Wherever You Are",
+        "url": "https://open.spotify.com/album/7MrDVMV7fqIwDqJdYySpBy"
+      },
+      "artists": [
+        {
+          "name": "Kev Koko",
+          "url": "https://open.spotify.com/artist/2WZCpsGLdNU1xENRwETylI"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285896,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/6RMpihqnNQ9JcO37ErNi9f"
     },
     {
       "album": {

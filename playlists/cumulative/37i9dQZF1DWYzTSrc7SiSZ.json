@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "Dieciseis",
+        "url": "https://open.spotify.com/album/4zLZDzFqhK8fY9V5PpfPPG"
+      },
+      "artists": [
+        {
+          "name": "Tiare",
+          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212506,
+      "name": "Cardenalito",
+      "url": "https://open.spotify.com/track/6ZfPILRSg3V9jM8yH1V8xc"
+    },
+    {
+      "album": {
         "name": "Chimbo",
         "url": "https://open.spotify.com/album/5XRQrTcMUREddc69cWGtzn"
       },
@@ -3886,7 +3904,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 93106,
       "name": "superman",
       "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"

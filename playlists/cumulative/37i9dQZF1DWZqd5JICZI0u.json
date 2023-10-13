@@ -2703,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "Flying Spirits.",
+        "url": "https://open.spotify.com/album/0omGFYMltCOD9AOACXmP9E"
+      },
+      "artists": [
+        {
+          "name": "Ashlynn Vinno",
+          "url": "https://open.spotify.com/artist/2LJPtJzLybu9EKKX8X84DJ"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Flying Spirits.",
+      "url": "https://open.spotify.com/track/3qfofCNp0UgwHKmgM1EJ6A"
+    },
+    {
+      "album": {
         "name": "Follow The Light",
         "url": "https://open.spotify.com/album/0nqqeOcy2kuBbj4nrS4aIT"
       },
@@ -4158,6 +4176,24 @@
       "duration_ms": 180624,
       "name": "Lenitivo",
       "url": "https://open.spotify.com/track/6PEwEkL4lzRbGMGH7j7kBB"
+    },
+    {
+      "album": {
+        "name": "Let Go Your Mind",
+        "url": "https://open.spotify.com/album/57NSYEQevJRL3arNqy4ORb"
+      },
+      "artists": [
+        {
+          "name": "Ripper Americano",
+          "url": "https://open.spotify.com/artist/32ilLVDD7knHF3JUOeBAXR"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177486,
+      "name": "Let Go Your Mind",
+      "url": "https://open.spotify.com/track/5iyJdB9n5r3Ud8OR0Lwy0X"
     },
     {
       "album": {

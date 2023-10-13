@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 124499,
+  "num_followers": 124648,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTFjNzE5ZDFjZjhjYjdiNWE1NmMwZTQyY2E2ZTVkMjg3YzM4YTEz",
+  "snapshot_id": "MCxhYjU3YmViZTg3NGYyMzE0NzNhOGU3YTk3ZmRmNjI5YjNlOTk2NjIx",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Debo Hacerlo",
-        "url": "https://open.spotify.com/album/0cccCLiFP4WGPmXdn823JG"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 579826,
-      "name": "Debo Hacerlo",
-      "url": "https://open.spotify.com/track/0Vu6MvjQLu68rOkhhUqY7h"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2"
       },
@@ -1403,8 +1387,8 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Siempre Estoy Pensando En Ti",
-        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
+        "name": "Debo Hacerlo",
+        "url": "https://open.spotify.com/album/0cccCLiFP4WGPmXdn823JG"
       },
       "artists": [
         {
@@ -1412,9 +1396,9 @@
           "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 192266,
-      "name": "Que Sea Mi Condena",
-      "url": "https://open.spotify.com/track/6VBwBAHFJchFh9dtGvh4Zb"
+      "duration_ms": 579826,
+      "name": "Debo Hacerlo",
+      "url": "https://open.spotify.com/track/0Vu6MvjQLu68rOkhhUqY7h"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1431,6 +1415,22 @@
       "duration_ms": 136360,
       "name": "Te Llegar\u00e1 Mi Olvido",
       "url": "https://open.spotify.com/track/6UJAHl1NDh8Nroa27mIKDZ"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Siempre Estoy Pensando En Ti",
+        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Que Sea Mi Condena",
+      "url": "https://open.spotify.com/track/6VBwBAHFJchFh9dtGvh4Zb"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1524,13 +1524,13 @@
           "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         },
         {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 269533,
-      "name": "Te Quise Olvidar",
-      "url": "https://open.spotify.com/track/5rSWafwAbqksTW1egLSowr"
+      "duration_ms": 282133,
+      "name": "Yo No S\u00e9 Que Me Pas\u00f3",
+      "url": "https://open.spotify.com/track/0ZRZzgY6myZ67vLoUcZbsC"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1544,13 +1544,13 @@
           "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         },
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 282133,
-      "name": "Yo No S\u00e9 Que Me Pas\u00f3",
-      "url": "https://open.spotify.com/track/0ZRZzgY6myZ67vLoUcZbsC"
+      "duration_ms": 269533,
+      "name": "Te Quise Olvidar",
+      "url": "https://open.spotify.com/track/5rSWafwAbqksTW1egLSowr"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Mis Mejores Momentos Con La Banda Sinaloense El Recodo De Cruz Lizarraga",
-        "url": "https://open.spotify.com/album/0iD5chSyhCik10Ra0TcpaT"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 155440,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/3dUBc9jP4pXzHO8gYOnrhG"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
         "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 242253,
       "name": "Me Basta (with Leonel Garc\u00eda)",
       "url": "https://open.spotify.com/track/3OEIHCmRGzhcG3BI8ybSNm"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Mis Mejores Momentos Con La Banda Sinaloense El Recodo De Cruz Lizarraga",
+        "url": "https://open.spotify.com/album/0iD5chSyhCik10Ra0TcpaT"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 155440,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/3dUBc9jP4pXzHO8gYOnrhG"
     }
   ],
   "unique_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",

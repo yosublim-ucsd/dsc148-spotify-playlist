@@ -4,7 +4,7 @@
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-135 songs - 13 hr 31 min
+136 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Blue Eye](https://open.spotify.com/track/3y3ZgxHItQsTlHrggsLi0F) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [Blue Eye](https://open.spotify.com/album/71jrK5PG69TUF04heTPuVW) | 5:26 | 2022-07-23 | 2023-10-07 |
 | [Bosque Verde \- Radio Edit](https://open.spotify.com/track/03rLGvMkzl9qtHJ6ceYGe4) | [DiMO \(BG\)](https://open.spotify.com/artist/0gp2EoMHGiVIho7ba9nPmw), [Dan Tanev](https://open.spotify.com/artist/2nfwsX5i1HNXkoJjRiGMpi) | [Bosque Verde \(Radio Edit\)](https://open.spotify.com/album/0LlBZ4D5LFzC22FfiDHwWJ) | 3:23 | 2023-10-06 |  |
 | [Brainwasher \- Extended Mix](https://open.spotify.com/track/2sbaU8WucfyXrrWn21DzLp) | [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu) | [Brainwasher / Walking With Giants](https://open.spotify.com/album/2BkPTgBfn5CiMpf5D0BYkX) | 5:49 | 2023-03-27 |  |
-| [Breezer](https://open.spotify.com/track/5Mh2lyQV9ei1tMwh2dtgo2) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Growth](https://open.spotify.com/album/0ouj5sd5ZHHQHkkz9LiPAI) | 3:58 | 2023-03-27 |  |
+| [Breezer](https://open.spotify.com/track/3vkffcDGQ9hld2CwHCP1ba) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Growth](https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv) | 3:58 | 2023-10-06 |  |
+| [Breezer](https://open.spotify.com/track/5Mh2lyQV9ei1tMwh2dtgo2) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Growth](https://open.spotify.com/album/0ouj5sd5ZHHQHkkz9LiPAI) | 3:58 | 2023-03-27 | 2023-10-13 |
 | [Calling](https://open.spotify.com/track/4y2esG380eLkC3qk5g7YlH) | [Trilucid](https://open.spotify.com/artist/2T6mOFQ2RGAypMuKtIg9ic) | [Calling](https://open.spotify.com/album/0coNOwx4VyMkWgrWRNs6SR) | 3:15 | 2023-10-06 |  |
 | [Changing Lanes \- Edit](https://open.spotify.com/track/5i2lSzyNHNCeqpqtg6oiIQ) | [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Changing Lanes](https://open.spotify.com/album/7tQ7dbGEJxV5dLcZY5JpIT) | 6:18 | 2023-10-06 |  |
 | [Circuitry \- Pavel Khvaleev Remix](https://open.spotify.com/track/55CfpYFGq2uYaxhV86hWky) | [Pavel Khvaleev](https://open.spotify.com/artist/04mfb9WF2sttD7r6SWMYRk), [PARAFRAME](https://open.spotify.com/artist/2MDR7nMS7lOrQsyZ5FZznk), [Denton Thrift](https://open.spotify.com/artist/3KntxbSQEIuXFl4OwsQskL) | [Circuitry](https://open.spotify.com/album/7BxfGhPxjZ0pRbGsX7knBr) | 3:30 | 2022-07-23 | 2023-10-07 |

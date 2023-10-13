@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-293 songs - 15 hr 34 min
+295 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Oh Baby...](https://open.spotify.com/track/6vB1aSBFevopVN93x8AKsX) | [DJ Madrigal](https://open.spotify.com/artist/5pVBan726Z1RmlJjXSySk8) | [Oh Baby...](https://open.spotify.com/album/3Hqr0o6QjM6dOUYM40k9Zp) | 3:37 | 2022-04-15 | 2022-10-14 |
 | [on my mind](https://open.spotify.com/track/79A8xKMQDj3mPY0J7CNpLy) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [on my mind](https://open.spotify.com/album/3V3Wbbd4KwxV9jBJ9EB7gs) | 2:57 | 2022-09-02 | 2023-03-10 |
 | [On My Way](https://open.spotify.com/track/28H2eFbLiKPfJ44ZvGWPax) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [On My Way](https://open.spotify.com/album/62gm87KgQEdnTeZNJ129os) | 1:56 | 2022-04-15 | 2022-09-23 |
+| [On the Radio](https://open.spotify.com/track/0oJYlpXGOSAqqNwTceobvI) | [Ørn](https://open.spotify.com/artist/2g8oDoqZwwzpF6Km7f0kp2) | [On the Radio](https://open.spotify.com/album/1atSc91dCuV5QAzLczaVKo) | 2:24 | 2023-10-13 |  |
 | [Open Fields](https://open.spotify.com/track/6PsPRjRVQpuxltouIiGJfu) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [Open Fields](https://open.spotify.com/album/2fgoswYqbGfQDGQOoS3oWO) | 4:21 | 2022-10-07 | 2023-01-07 |
 | [Open Mind](https://open.spotify.com/track/3uWz3YOFSLri0qCmiWCmzY) | [Sonopad](https://open.spotify.com/artist/6a3JGgQNJ6ugMYY9CgzltE) | [Open Mind](https://open.spotify.com/album/1Mo4q3DGFgrawdBCa179Rf) | 3:30 | 2023-02-17 |  |
 | [Opposite](https://open.spotify.com/track/6VLstEbmUW5oCxgahFe0Wf) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moment EP](https://open.spotify.com/album/0lIHGVhcEfhqRTMFCCYbmt) | 4:34 | 2022-04-15 | 2023-02-10 |
@@ -210,6 +211,7 @@
 | [Portamento](https://open.spotify.com/track/563A3oAQnjkDEqEjlbs2bO) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Hey Valentine](https://open.spotify.com/album/4oFLsHYWq3URi7y8zdDg6r) | 2:28 | 2022-10-14 |  |
 | [Positano](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Positano](https://open.spotify.com/album/365Du5Bh6lzXuxvSq7h7jW) | 3:08 | 2022-04-15 |  |
 | [Primal View](https://open.spotify.com/track/1g0mgAfM8cT1wwgfK3XOPM) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Primal View](https://open.spotify.com/album/2juZVcgTqgrGIvrf2wfmHh) | 2:48 | 2022-05-10 |  |
+| [Priority Boarding](https://open.spotify.com/track/1cVRHATXnkjhaO1SWEZihP) | [Altitude Chill](https://open.spotify.com/artist/2vPjdJVB78DdGawUuz9fGu) | [Priority Boarding](https://open.spotify.com/album/4s6IR6GvhsAW7sHGKxAq5o) | 2:20 | 2023-10-13 |  |
 | [Pulpy](https://open.spotify.com/track/6u2YnsX4gu01IE3gbFHccy) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Pulpy](https://open.spotify.com/album/58cWXVfZBTZ6cDos212ZhN) | 2:59 | 2022-04-15 | 2022-09-02 |
 | [Radiance](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj) | [Delphine Dekker](https://open.spotify.com/artist/5cKBlwzPmhqucVJ4CeaHuz) | [Radiance](https://open.spotify.com/album/5VaiAhqs8QZWxJhRA5F6pX) | 3:31 | 2022-04-15 | 2022-09-17 |
 | [Reach](https://open.spotify.com/track/1HWy19J4EI51m1RR9iqzn5) | [Jox Talay](https://open.spotify.com/artist/0qDTl4Bh2K6djIvLh91QQP) | [Reach](https://open.spotify.com/album/2koR8FUMFEEaDRH61Irgvt) | 3:26 | 2022-04-15 |  |

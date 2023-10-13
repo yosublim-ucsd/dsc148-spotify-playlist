@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-340 songs - 19 hr 47 min
+341 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,8 @@
 | [To Myself](https://open.spotify.com/track/3E8WIayeM2nVm1riKvGb8n) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS), [dj genderfluid](https://open.spotify.com/artist/7sxGpROgQQSGjnsoUWE4Dz) | [Chippy Nonstop & dj genderfluid](https://open.spotify.com/album/3Vhrt89XhIFEKsRGnZldYF) | 3:39 | 2022-02-04 | 2022-10-28 |
 | [Toes Down](https://open.spotify.com/track/4RBltccJevBLRCaKx8GeP0) | [Louke Man](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Toes Down](https://open.spotify.com/album/3WbZidLDFb4DEMnMKJ6w6s) | 2:54 | 2022-07-18 |  |
 | [Together](https://open.spotify.com/track/0RwSkUIgsowQ6MU1NNVSA7) | [Ruff Sqwad](https://open.spotify.com/artist/67POQUr9E4V8GpQxqQ5d8I) | [White Label Classics](https://open.spotify.com/album/1AgOPl14j50mZ7cNCmCaOf) | 3:42 | 2022-02-04 |  |
-| [TOPIC](https://open.spotify.com/track/6ho5I49ybvEwuMmmUGDGLv) | [YUNGCYBERPRINCESS](https://open.spotify.com/artist/1s8CGPUhqhhH9UkNoK9TGZ), [Threat333](https://open.spotify.com/artist/0PgVYTmSgUexalwckcBVuL) | [TOPIC](https://open.spotify.com/album/6W6LAS9Qo1AdwzjB7xeMxq) | 1:14 | 2022-12-05 |  |
+| [TOPIC](https://open.spotify.com/track/0r5Sp6vDej7NpEVljHWzYI) | [YUNGCYBERPRINCESS](https://open.spotify.com/artist/1s8CGPUhqhhH9UkNoK9TGZ), [Threat333](https://open.spotify.com/artist/0PgVYTmSgUexalwckcBVuL) | [TOPIC](https://open.spotify.com/album/7eNRzznJs1D3r7e5pmg28z) | 1:14 | 2023-03-08 |  |
+| [TOPIC](https://open.spotify.com/track/6ho5I49ybvEwuMmmUGDGLv) | [YUNGCYBERPRINCESS](https://open.spotify.com/artist/1s8CGPUhqhhH9UkNoK9TGZ), [Threat333](https://open.spotify.com/artist/0PgVYTmSgUexalwckcBVuL) | [TOPIC](https://open.spotify.com/album/6W6LAS9Qo1AdwzjB7xeMxq) | 1:14 | 2022-12-05 | 2023-10-13 |
 | [Toxic](https://open.spotify.com/track/7lEaKSYmt8AQ9A9zqzfayM) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Almost Blue \(After Hours Deluxe\)](https://open.spotify.com/album/2YgVEpyUtHUdr5pLHDhuPX) | 1:51 | 2022-10-27 |  |
 | [Track & Field \(feat\. Kali\)](https://open.spotify.com/track/1IgIR2FmHpfuR3MkGnGQUI) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Track & Field \(feat\. Kali\)](https://open.spotify.com/album/2c2pjLYQ3hd9UNoCPiNuwf) | 2:18 | 2022-02-04 | 2022-10-28 |
 | [Trak Girl Magic](https://open.spotify.com/track/71HLLRtzTSIqVjHjqhlJKV) | [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Zonez, Vol\. 1: I Hope My Momma Is Bragging on Me in Heaven](https://open.spotify.com/album/2bQyzfCmD703vtgW7dQ294) | 2:59 | 2022-02-04 | 2022-10-28 |

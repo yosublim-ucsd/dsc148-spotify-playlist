@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3iGBGOKL0eH0MjBZHHN4qU"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305160,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3D4XjhkvYU3F89G9Elok5T"
+    },
+    {
+      "album": {
         "name": "Baby Mama",
         "url": "https://open.spotify.com/album/0pT6T1yjiHVl9JG41Br9n0"
       },
@@ -800,7 +818,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 144995,
       "name": "Evil In Your Eyes",
       "url": "https://open.spotify.com/track/6AEYrk9VWfrcHDZqGlD2IA"
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 222945,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr"
@@ -1114,7 +1132,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 303408,
       "name": "Find You",
       "url": "https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR"
@@ -1244,6 +1262,28 @@
       "duration_ms": 218323,
       "name": "Forgot About",
       "url": "https://open.spotify.com/track/3JnRyp1X0N1QxiaMwnXlEs"
+    },
+    {
+      "album": {
+        "name": "Free (feat. Tom Misch)",
+        "url": "https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg"
+      },
+      "artists": [
+        {
+          "name": "Joel Culpepper",
+          "url": "https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234771,
+      "name": "Free (feat. Tom Misch)",
+      "url": "https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB"
     },
     {
       "album": {
@@ -2657,6 +2697,24 @@
     },
     {
       "album": {
+        "name": "Party for 1",
+        "url": "https://open.spotify.com/album/2RuYTWi6PiYkwGHwBHj5ry"
+      },
+      "artists": [
+        {
+          "name": "Olivia Foa'i",
+          "url": "https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190325,
+      "name": "Party for 1",
+      "url": "https://open.spotify.com/track/4RI98h52sAV0x4rUulR7ZD"
+    },
+    {
+      "album": {
         "name": "Passenger 555",
         "url": "https://open.spotify.com/album/5kvhkBw0dqS3hAcpTblmKS"
       },
@@ -3045,6 +3103,28 @@
     },
     {
       "album": {
+        "name": "Safe From Harm (feat. Reginald AK)",
+        "url": "https://open.spotify.com/album/5RJG4hvaVACcuORpFWiuV6"
+      },
+      "artists": [
+        {
+          "name": "The Bamboos",
+          "url": "https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K"
+        },
+        {
+          "name": "Reginald AK",
+          "url": "https://open.spotify.com/artist/0kHgwv7BrZSTH06wEtYQQa"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340503,
+      "name": "Safe From Harm (feat. Reginald AK)",
+      "url": "https://open.spotify.com/track/6zczzMm469kNZuPTqp0oLf"
+    },
+    {
+      "album": {
         "name": "Scratch",
         "url": "https://open.spotify.com/album/6nMzFuBcYznvt3HYQ3ZKdL"
       },
@@ -3078,6 +3158,24 @@
       "duration_ms": 193262,
       "name": "Seen",
       "url": "https://open.spotify.com/track/21CYZknqswq4tT4wcHlabw"
+    },
+    {
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/1cqxkbddjrFe1vHQKbPtOT"
+      },
+      "artists": [
+        {
+          "name": "ELENA",
+          "url": "https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196326,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/1aT3C7hFnZjo5CBshVEw4R"
     },
     {
       "album": {
@@ -3444,7 +3542,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 192480,
       "name": "Stormy",
       "url": "https://open.spotify.com/track/3TvCIcjdgoWmTDrl6AjXYf"
@@ -3958,7 +4056,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 224639,
       "name": "Wakka Wakka Woman",
       "url": "https://open.spotify.com/track/2Y488MpwVlXClEU8D9noC3"

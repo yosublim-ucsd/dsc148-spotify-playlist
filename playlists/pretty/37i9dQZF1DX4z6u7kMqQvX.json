@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 103846,
+  "num_followers": 103863,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzM1ZDdkNDBjZTBhMzAzMWU2ZmUyNWI4YjA3YzY0N2FkNWIyM2Jj",
+  "snapshot_id": "MCw0MTM2Y2FlMzU2MWNhYTYxNzkyNTIyMzA5MGVlYzY5Y2NhMmEzMmFj",
   "tracks": [
     {
       "added_at": "2023-10-05 20:44:31",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-10-05 20:44:31",
       "album": {
+        "name": "Cabildo y Juramento",
+        "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 340920,
+      "name": "Cosas para Decirte",
+      "url": "https://open.spotify.com/track/4bLEdN7hL33Qv4fCz5VLMG"
+    },
+    {
+      "added_at": "2023-10-05 20:44:31",
+      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 231682,
       "name": "Escondidos",
       "url": "https://open.spotify.com/track/0Dqqdhn0ktI7pz8qNhT3AO"
-    },
-    {
-      "added_at": "2023-10-05 20:44:31",
-      "album": {
-        "name": "Cabildo y Juramento",
-        "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 340920,
-      "name": "Cosas para Decirte",
-      "url": "https://open.spotify.com/track/4bLEdN7hL33Qv4fCz5VLMG"
     },
     {
       "added_at": "2023-10-05 20:44:31",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-10-05 20:44:31",
       "album": {
-        "name": "Por qu\u00e9 te quiero tanto?",
-        "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 231109,
-      "name": "Por qu\u00e9 te quiero tanto?",
-      "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
-    },
-    {
-      "added_at": "2023-10-05 20:44:31",
-      "album": {
         "name": "Everyone's In Love With You (Spotify Singles)",
         "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 150000,
       "name": "Everyone's In Love With You - Spotify Singles",
       "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
+    },
+    {
+      "added_at": "2023-10-05 20:44:31",
+      "album": {
+        "name": "Por qu\u00e9 te quiero tanto?",
+        "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 231109,
+      "name": "Por qu\u00e9 te quiero tanto?",
+      "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
     },
     {
       "added_at": "2023-10-05 20:44:31",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-10-05 20:44:31",
       "album": {
+        "name": "Que te hizo ir",
+        "url": "https://open.spotify.com/album/7yNGmtpwKnOGypQH0fKpSb"
+      },
+      "artists": [
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Que te hizo ir",
+      "url": "https://open.spotify.com/track/318miXWdK50Nqu2onTsOiO"
+    },
+    {
+      "added_at": "2023-10-05 20:44:31",
+      "album": {
         "name": "Amor de Instagramer",
         "url": "https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 209513,
       "name": "nu love",
       "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
-    },
-    {
-      "added_at": "2023-10-05 20:44:31",
-      "album": {
-        "name": "Que te hizo ir",
-        "url": "https://open.spotify.com/album/7yNGmtpwKnOGypQH0fKpSb"
-      },
-      "artists": [
-        {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Que te hizo ir",
-      "url": "https://open.spotify.com/track/318miXWdK50Nqu2onTsOiO"
     },
     {
       "added_at": "2023-10-05 20:44:31",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-10-05 20:44:31",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
-    },
-    {
-      "added_at": "2023-10-05 20:44:31",
-      "album": {
         "name": "en diciembre (me haces falta)",
         "url": "https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK"
       },
@@ -1267,26 +1251,6 @@
       "duration_ms": 237261,
       "name": "en diciembre (me haces falta)",
       "url": "https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu"
-    },
-    {
-      "added_at": "2023-10-05 20:44:31",
-      "album": {
-        "name": "Los Abrazos son Instantes Decisivos Vol. II",
-        "url": "https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        },
-        {
-          "name": "Gerardo Nieto",
-          "url": "https://open.spotify.com/artist/1jYImiKsH7041qqudv5oJ2"
-        }
-      ],
-      "duration_ms": 224492,
-      "name": "Polvo de estrellas",
-      "url": "https://open.spotify.com/track/3SAaPKojF6MTyxoLd5WCXa"
     },
     {
       "added_at": "2023-10-05 20:44:31",
@@ -1311,6 +1275,22 @@
     {
       "added_at": "2023-10-05 20:44:31",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
+    },
+    {
+      "added_at": "2023-10-05 20:44:31",
+      "album": {
         "name": "Pediste flores (con Loli Molina)",
         "url": "https://open.spotify.com/album/5UtVQ6f3Xh2ZWU9t6nngu5"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 193643,
       "name": "Pediste flores (con Loli Molina)",
       "url": "https://open.spotify.com/track/0gJlv1xPvkktOoWlnjnQ3b"
+    },
+    {
+      "added_at": "2023-10-05 20:44:31",
+      "album": {
+        "name": "Los Abrazos son Instantes Decisivos Vol. II",
+        "url": "https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        },
+        {
+          "name": "Gerardo Nieto",
+          "url": "https://open.spotify.com/artist/1jYImiKsH7041qqudv5oJ2"
+        }
+      ],
+      "duration_ms": 224492,
+      "name": "Polvo de estrellas",
+      "url": "https://open.spotify.com/track/3SAaPKojF6MTyxoLd5WCXa"
     },
     {
       "added_at": "2023-10-05 20:44:31",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-10-05 20:44:31",
       "album": {
+        "name": "Matem\u00e1tica sentimental",
+        "url": "https://open.spotify.com/album/6TLIjWfvqznXw1p54hPlKE"
+      },
+      "artists": [
+        {
+          "name": "Los Besos",
+          "url": "https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee"
+        }
+      ],
+      "duration_ms": 178995,
+      "name": "Matem\u00e1tica sentimental",
+      "url": "https://open.spotify.com/track/71OHXDiAw5B3Y9yPs9JuEg"
+    },
+    {
+      "added_at": "2023-10-05 20:44:31",
+      "album": {
         "name": "OSAD\u00cdA",
         "url": "https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 181622,
       "name": "Por los Dos",
       "url": "https://open.spotify.com/track/3H924Gfnwr6Lks83wpRVFe"
-    },
-    {
-      "added_at": "2023-10-05 20:44:31",
-      "album": {
-        "name": "Matem\u00e1tica sentimental",
-        "url": "https://open.spotify.com/album/6TLIjWfvqznXw1p54hPlKE"
-      },
-      "artists": [
-        {
-          "name": "Los Besos",
-          "url": "https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee"
-        }
-      ],
-      "duration_ms": 178995,
-      "name": "Matem\u00e1tica sentimental",
-      "url": "https://open.spotify.com/track/71OHXDiAw5B3Y9yPs9JuEg"
     },
     {
       "added_at": "2023-10-05 20:44:31",

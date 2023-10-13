@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 202709,
+  "num_followers": 202607,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODVkZjFkOGEzNGEyMzMwZmY5MmE2YTdmM2EyOTU1YWJmMWViNDM1",
+  "snapshot_id": "MCw2ZDViNTE3MzFjMzMyMDQxZjU2MzY3YmFkYjg5NTdkYzlmODU4NmM0",
   "tracks": [
     {
       "added_at": "2023-03-10 18:44:18",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Puro Tejano Gold",
-        "url": "https://open.spotify.com/album/1PrA59M1gA4Pn8sqilMhI7"
+        "name": "Esto Es Lo Nuestro - 20 Exitos",
+        "url": "https://open.spotify.com/album/3phdl28dDCj4AFDgfhKxHw"
       },
       "artists": [
         {
-          "name": "David Lee Garza",
-          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
+          "name": "La Tropa F",
+          "url": "https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1"
         }
       ],
-      "duration_ms": 186706,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/5fLsWE6O9kHLY7MflY1Gh8"
+      "duration_ms": 222306,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/6iKnCeOWsfBTZxLAtqm2xn"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Esto Es Lo Nuestro - 20 Exitos",
-        "url": "https://open.spotify.com/album/3phdl28dDCj4AFDgfhKxHw"
+        "name": "Puro Tejano Gold",
+        "url": "https://open.spotify.com/album/1PrA59M1gA4Pn8sqilMhI7"
       },
       "artists": [
         {
-          "name": "La Tropa F",
-          "url": "https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1"
+          "name": "David Lee Garza",
+          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
         }
       ],
-      "duration_ms": 222306,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/6iKnCeOWsfBTZxLAtqm2xn"
+      "duration_ms": 186706,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/5fLsWE6O9kHLY7MflY1Gh8"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Dias de Ayer",
-        "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Algun Dia",
-      "url": "https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 273000,
       "name": "Donde Quiera Que Est\u00e9s",
       "url": "https://open.spotify.com/track/7qUmi5fQAZ2FWvVb91tAvU"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Dias de Ayer",
+        "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Algun Dia",
+      "url": "https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7"
     },
     {
       "added_at": "2023-03-10 18:44:18",

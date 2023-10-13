@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Katie Melua",
+  "description": "The best jazz new releases. Cover: Roberto Fonseca",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -708,7 +708,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 217247,
       "name": "Because of You - 2023",
       "url": "https://open.spotify.com/track/3ivoMu5Y5iDA4qjTElozbd"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 333800,
       "name": "Black and Blue",
       "url": "https://open.spotify.com/track/1tbdcCfeGjibUJ0Et1qT9L"
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 295899,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0wEMhtUHRK1xlwGYpEfCHj"
@@ -1700,6 +1700,24 @@
       "duration_ms": 218979,
       "name": "Cool comme \u00e7a",
       "url": "https://open.spotify.com/track/6c4nvb604vZl3kITvIrPQ7"
+    },
+    {
+      "album": {
+        "name": "Corner Kisses",
+        "url": "https://open.spotify.com/album/3gGiLP5nx1WsiXLkulXYV4"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300031,
+      "name": "Corner Kisses",
+      "url": "https://open.spotify.com/track/1DUQwRzzAeOhFAc5CD7qD9"
     },
     {
       "album": {
@@ -2585,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "Fray",
+        "url": "https://open.spotify.com/album/5iNTpKhAny2Jsz7MYjoe3G"
+      },
+      "artists": [
+        {
+          "name": "Lucy Woodward",
+          "url": "https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271487,
+      "name": "Fray",
+      "url": "https://open.spotify.com/track/2FRJTSOJjRGZx5i9MhBI6E"
+    },
+    {
+      "album": {
         "name": "Freedom Road",
         "url": "https://open.spotify.com/album/3fN5DXHpo9ut4TmVAouTRG"
       },
@@ -2862,7 +2898,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 296761,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/5l4hVrAgRkZHNQMx59hmk4"
@@ -3938,6 +3974,28 @@
       "duration_ms": 263560,
       "name": "La balade",
       "url": "https://open.spotify.com/track/23prDH0nwHcIi5YQ54Sl8l"
+    },
+    {
+      "album": {
+        "name": "Habana-Bahia",
+        "url": "https://open.spotify.com/album/40Glzz3JECT8bA1w7TXzkw"
+      },
+      "artists": [
+        {
+          "name": "Yilian Ca\u00f1izares",
+          "url": "https://open.spotify.com/artist/51kjU9cCnLDzokU3agspnv"
+        },
+        {
+          "name": "Tigan\u00e1 Santana",
+          "url": "https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201992,
+      "name": "La Gloria Eres T\u00fa",
+      "url": "https://open.spotify.com/track/1CpwwKDtTwWJ4NNC6gVygw"
     },
     {
       "album": {
@@ -6411,6 +6469,32 @@
     },
     {
       "album": {
+        "name": "Discotheques 001",
+        "url": "https://open.spotify.com/album/3v11OGRfUdnN6IGp2tdcAm"
+      },
+      "artists": [
+        {
+          "name": "JaRon Marshall",
+          "url": "https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        },
+        {
+          "name": "Amahla",
+          "url": "https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212194,
+      "name": "Sunseekers",
+      "url": "https://open.spotify.com/track/2hD250ixyqBjvYHpsOOEqG"
+    },
+    {
+      "album": {
         "name": "Sunset Ballad",
         "url": "https://open.spotify.com/album/6Wk5CDla9XNKvAJHdAGqJP"
       },
@@ -7202,7 +7286,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 383000,
       "name": "Transe",
       "url": "https://open.spotify.com/track/6o9JFWqgg1RiVoUqv5d0yk"
@@ -7228,6 +7312,24 @@
       "duration_ms": 238826,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/6G6XGVNCOV2tfwv3r2QlhY"
+    },
+    {
+      "album": {
+        "name": "Bir\u00e9li Lagr\u00e8ne plays Loulou Gast\u00e9",
+        "url": "https://open.spotify.com/album/18j6w0grfr4xEHUn9fUDUc"
+      },
+      "artists": [
+        {
+          "name": "Bir\u00e9li Lagr\u00e8ne",
+          "url": "https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152146,
+      "name": "Trop beau pour \u00eatre vrai",
+      "url": "https://open.spotify.com/track/6bBpA9MKQTyRrdENizWJYf"
     },
     {
       "album": {

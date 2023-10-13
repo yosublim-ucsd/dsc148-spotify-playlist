@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Mike Shinoda
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,193 likes - 126 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,001 likes - 126 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 125 | [Dead Weight](https://open.spotify.com/track/6zESIOIYKaxZQJP2hxgDlB) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [Dead Weight](https://open.spotify.com/album/7HuFADTbWIytpxrDfpKTwc) | 3:22 |
 | 126 | [Don't Let The Party Die](https://open.spotify.com/track/0h9HqYMU1EGRZ8E3aQ2lJE) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Complete Collapse \(Deluxe\)](https://open.spotify.com/album/3povldXcm2CSdm3lpkE1tW) | 2:46 |
 
-Snapshot ID: `MCw0YWRiZGRmMDcwOTBhODU2YWIzZDMyN2JhNzExMjIxZmJlODZiYTMx`
+Snapshot ID: `MCwyMDQwYjgxNzhhZjZjNDVmYTg4YzhkZDE3Njc1NjlkNTA2NTZiN2Vl`

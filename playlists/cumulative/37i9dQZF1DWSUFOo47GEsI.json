@@ -4675,6 +4675,24 @@
     },
     {
       "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/0IQosaM3ZOq4Pz4VeU9vEr"
+      },
+      "artists": [
+        {
+          "name": "Aveni\u00f3s",
+          "url": "https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187528,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/3a6FURwcm1WZ9MfEzxkTe6"
+    },
+    {
+      "album": {
         "name": "Redamancy",
         "url": "https://open.spotify.com/album/3zOIJ6Ke62DFZYdXMMtrnQ"
       },
@@ -4866,7 +4884,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 208069,
       "name": "Revival",
       "url": "https://open.spotify.com/track/28sltBUJ0po8xXWfTrFPe2"

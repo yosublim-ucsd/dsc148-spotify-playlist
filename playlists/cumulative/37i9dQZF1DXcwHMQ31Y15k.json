@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Woro Widowati",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Gilga Sahid",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 288000,
       "name": "Bojo Setyo",
       "url": "https://open.spotify.com/track/63TwHyUBMkvBbeeHr07sOG"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 355514,
       "name": "Ginio",
       "url": "https://open.spotify.com/track/4EQ14BW8rUd94OZR5ISWMo"
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 328000,
       "name": "KALIH WELASKU",
       "url": "https://open.spotify.com/track/7AtjD8ykb3pROEkYwrbJ1z"
@@ -1332,6 +1332,24 @@
       "duration_ms": 200974,
       "name": "Kelingan Mantan",
       "url": "https://open.spotify.com/track/6hdIeCcyyiaktYIH8DvJhU"
+    },
+    {
+      "album": {
+        "name": "Kisinan",
+        "url": "https://open.spotify.com/album/4x5lktOv7MBMZEV2yqcMax"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296704,
+      "name": "Kisinan",
+      "url": "https://open.spotify.com/track/57W31ORSD6sAOCYhoh7EFv"
     },
     {
       "album": {
@@ -2008,7 +2026,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 256066,
       "name": "Mode Pesawat",
       "url": "https://open.spotify.com/track/5TMKZboiuzmIDuVQmuLgba"
@@ -3042,7 +3060,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 326455,
       "name": "Raiso Dadi Siji",
       "url": "https://open.spotify.com/track/3gA9NVMBvhfztFQRYxCzx8"
@@ -3060,7 +3078,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 259130,
       "name": "Raiso Dadi Siji",
       "url": "https://open.spotify.com/track/2AmH9mOGhfr4I8el6dLaVO"
@@ -3227,6 +3245,28 @@
     },
     {
       "album": {
+        "name": "Resiko Tresna Sejati",
+        "url": "https://open.spotify.com/album/2wS1bp3iPDQarwtK1pXnFP"
+      },
+      "artists": [
+        {
+          "name": "ROFA",
+          "url": "https://open.spotify.com/artist/24fOBtG2MUcVO490MuYSFL"
+        },
+        {
+          "name": "Brindil Kurus",
+          "url": "https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "Resiko Tresna Sejati",
+      "url": "https://open.spotify.com/track/117nf2jn1zsHG9H7gZaEjv"
+    },
+    {
+      "album": {
         "name": "Roso Atiku",
         "url": "https://open.spotify.com/album/6f3YYxy5mYMnH8Bx4iN6eJ"
       },
@@ -3268,6 +3308,24 @@
       "duration_ms": 285000,
       "name": "Roso Atiku",
       "url": "https://open.spotify.com/track/1d8I3k13qDu1lbRQ8xDqeh"
+    },
+    {
+      "album": {
+        "name": "Rucah",
+        "url": "https://open.spotify.com/album/7CiVeWW4ERfswmLDGqh1AA"
+      },
+      "artists": [
+        {
+          "name": "Gilga Sahid",
+          "url": "https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273204,
+      "name": "Rucah",
+      "url": "https://open.spotify.com/track/2unTuqdiSehhL4G7Q5U01m"
     },
     {
       "album": {
@@ -3896,7 +3954,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 413090,
       "name": "Teteg Ati",
       "url": "https://open.spotify.com/track/4xENChb83VAH1qbanAAlWh"
@@ -4008,7 +4066,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 266140,
       "name": "Top Topan",
       "url": "https://open.spotify.com/track/5pjJmCYsCzg2xRJHDq18kq"

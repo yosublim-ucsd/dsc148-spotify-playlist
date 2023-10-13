@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> Nuit Incolore au top des 50 hits de variété française du moment.
+> Grand Corps Malade au top des 50 hits de variété française du moment.
 
 55 songs - 2 hr 56 min
 

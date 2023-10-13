@@ -2,9 +2,9 @@
 
 ### [RADAR GSA](https://open.spotify.com/playlist/37i9dQZF1DX3Vl51vsat7a)
 
-> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Dilla
+> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Cloudy June
 
-252 songs - 13 hr 34 min
+256 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Bulletproof](https://open.spotify.com/track/0wQ0yPIeyJAvSBCRu9PGon) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [KEIR](https://open.spotify.com/album/6DIwGl4xl6vRf3LTzJuyuJ) | 2:34 | 2023-08-24 |  |
 | [Cabriolet](https://open.spotify.com/track/1386VN04NxJTXHxUa1M2r2) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Cabriolet](https://open.spotify.com/album/4KkqzAcyfYG4bGsRdnCwcf) | 2:29 | 2023-07-27 | 2023-08-25 |
 | [Can't Take This Silence](https://open.spotify.com/track/1IihN2MXusofF69y5OCDNP) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Rose](https://open.spotify.com/album/51EEO2MvJmchRb0b4V9Ii7) | 4:08 | 2021-12-16 | 2022-03-18 |
-| [Carnage](https://open.spotify.com/track/0xEET5KnxdohPyrPMgnY3P) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [Carnage](https://open.spotify.com/album/5O5xtWzWK7BUWKDzChUfR6) | 3:22 | 2023-08-17 |  |
+| [Carnage](https://open.spotify.com/track/0xEET5KnxdohPyrPMgnY3P) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [Carnage](https://open.spotify.com/album/5O5xtWzWK7BUWKDzChUfR6) | 3:22 | 2023-08-17 | 2023-10-13 |
 | [Cigarette](https://open.spotify.com/track/5Brzg5PdxEwUbwfS2looQf) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Cigarette](https://open.spotify.com/album/4cVguILaTeTnjfcMhJx2Mz) | 3:18 | 2021-12-16 | 2022-04-08 |
 | [Circles](https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Circles](https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7) | 3:33 | 2023-07-27 |  |
 | [Confession](https://open.spotify.com/track/3SV6D7J2G3LUxhuybgHJg4) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Confession](https://open.spotify.com/album/6xg0GJEU0lf60zcSdsjCel) | 3:09 | 2022-06-30 | 2023-04-14 |
@@ -91,7 +91,7 @@
 | [Fuji](https://open.spotify.com/track/7wXakijrSKkpvrdPYwJr7t) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Fuji](https://open.spotify.com/album/29spAqjN7v2hmQHoHMU7z1) | 2:28 | 2021-12-16 | 2022-03-25 |
 | [Funke, Flächenbrand](https://open.spotify.com/track/5MumaN3URY1XqIWkRdVxjz) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Funke, Flächenbrand](https://open.spotify.com/album/6OTvVeDS7GlTqKf2qVU86o) | 2:36 | 2022-03-03 | 2023-07-28 |
 | [Für jeden aber nicht für dich](https://open.spotify.com/track/6wNyJwgzl4Tl6wEZa1StHI) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Für jeden aber nicht für dich](https://open.spotify.com/album/1f5h6JX9E8RO5zRW9ALMIf) | 2:14 | 2023-04-13 |  |
-| [gensehaut](https://open.spotify.com/track/4hcuqPKZS9s8P9jyOamH0M) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [gensehaut](https://open.spotify.com/album/1JAdrZuesXk1mY6KVOEYyq) | 2:15 | 2023-08-31 |  |
+| [gensehaut](https://open.spotify.com/track/4hcuqPKZS9s8P9jyOamH0M) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [gensehaut](https://open.spotify.com/album/1JAdrZuesXk1mY6KVOEYyq) | 2:15 | 2023-08-31 | 2023-10-13 |
 | [Ghetto Tekkno](https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Ghetto Tekkno](https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq) | 1:52 | 2023-01-05 | 2023-03-18 |
 | [Gib Gib](https://open.spotify.com/track/1RUZl4jYcStuNxkwib8wBk) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Gib Gib](https://open.spotify.com/album/557EOriY4Y0nOixN726p9C) | 2:59 | 2022-05-12 | 2023-02-24 |
 | [Glücklich](https://open.spotify.com/track/0PoorhuDSZ7hgvFT7C6fgf) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Altbau](https://open.spotify.com/album/2auKjXyzl5jD6heDu160dA) | 2:23 | 2022-03-24 | 2022-11-24 |
@@ -120,6 +120,7 @@
 | [IDGAF](https://open.spotify.com/track/1QREbpl3GAFm0ZyufYeil7) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [IDGAF](https://open.spotify.com/album/3FSkVmYiQfJEePj9phBD55) | 2:09 | 2023-09-07 |  |
 | [Immer wenn du weinst](https://open.spotify.com/track/6GYGIEVQHFbYV5AvkJD8Mp) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Immer wenn du weinst](https://open.spotify.com/album/0ksQY1tGoSYQMweAYgmOpB) | 2:30 | 2021-12-16 |  |
 | [In My Novaa](https://open.spotify.com/track/0BWgnfDV4o5PPQMhcKfrzH) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [In My Novaa](https://open.spotify.com/album/6vEMutP9WTvE9vC5oxhH2a) | 4:16 | 2023-09-28 |  |
+| [In The Business](https://open.spotify.com/track/5wBeqF4IpiPFyUZf347KfG) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [SUPER NOVAA](https://open.spotify.com/album/3eKmwCRUPW3KapM3iIlQsJ) | 3:34 | 2023-10-12 |  |
 | [Incredibly Annoying](https://open.spotify.com/track/7iHetqDyri7aXIyl69QqHG) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Incredibly Annoying](https://open.spotify.com/album/2EHzdOCliBlaKJWTJ7A8li) | 2:14 | 2022-07-07 | 2022-08-26 |
 | [Indigo](https://open.spotify.com/track/5voBx32zUStgxAfTZ8d4Gv) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Indigo](https://open.spotify.com/album/2cbAgiynVNUCo4vO9PsZao) | 2:49 | 2023-04-06 |  |
 | [Insomnia](https://open.spotify.com/track/0EN4byNEi2vJ0VKyn9pXRS) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:04 | 2022-09-08 | 2023-01-20 |
@@ -159,6 +160,7 @@
 | [Neues Geld](https://open.spotify.com/track/0ohdHACL1eACasCxA1UXa8) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Neues Geld](https://open.spotify.com/album/7tqHzLMSERvb6cs6aOzLPz) | 2:28 | 2022-05-12 | 2022-09-09 |
 | [New 68](https://open.spotify.com/track/5hMIBsn64hajBIKbFJAsf6) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [New 68](https://open.spotify.com/album/0R1JPqXUR7sXSq67zGMRqO) | 3:30 | 2021-12-16 | 2022-05-20 |
 | [New Era](https://open.spotify.com/track/3qhW02v4Yo6d5lPhxE6iZb) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [New Era EP](https://open.spotify.com/album/49LqNtUITrajPTnpwyC8tA) | 3:41 | 2021-12-16 | 2022-04-08 |
+| [nicht nachmachen!!](https://open.spotify.com/track/3gro2tfkybWGoK9MflVLWs) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:29 | 2023-10-12 |  |
 | [nie wieder wegrennen](https://open.spotify.com/track/1E9inOEvd8MyLeosUaOFNP) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [nie wieder wegrennen](https://open.spotify.com/album/2PuC50H1fnvm82PWEG4sja) | 2:10 | 2023-06-08 |  |
 | [Nirvana](https://open.spotify.com/track/09QQd4SG87DKuel4BVYkfT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/6l917ziBG07nTM0CDjAxwb) | 3:31 | 2022-12-15 | 2023-04-14 |
 | [Nirvana](https://open.spotify.com/track/5xl244VVxvCmvUEAJn40CW) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/64l6m4xbHEHyiEeMkHlMk2) | 3:31 | 2022-12-01 | 2022-12-17 |
@@ -178,6 +180,7 @@
 | [Physical Aspects Of Disco](https://open.spotify.com/track/10UQj7uJ2RPG481QII1xpv) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Somebody EP](https://open.spotify.com/album/5pU5K5SdRh93tZ7gOrJ2s7) | 6:26 | 2023-03-16 |  |
 | [Piccolo](https://open.spotify.com/track/0g3hdWIwkYStsPojCvDIG0) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Piccolo](https://open.spotify.com/album/3Imzkvlri6mG8V04fsdFkv) | 2:27 | 2023-09-14 |  |
 | [pressure & release](https://open.spotify.com/track/6BzTik1v9IdQpXMxsBXAsY) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [pressure & release](https://open.spotify.com/album/2aCwGrHZVzuNtjUlxZY9JU) | 3:20 | 2023-02-02 | 2023-04-14 |
+| [Red Flag](https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Red Flag](https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc) | 2:28 | 2023-10-12 |  |
 | [REMIND ME](https://open.spotify.com/track/3sQwXoHktwhzOKT2rFBo9Z) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [REMIND ME](https://open.spotify.com/album/084HROOXCRrykD5zzuGXZ1) | 5:32 | 2022-08-18 | 2022-09-09 |
 | [Rich Girl](https://open.spotify.com/track/1BCBzCwhOZ3MEfOybVmoRs) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Rich Girl](https://open.spotify.com/album/5invgj6RjVaDwh3Odvaj3v) | 4:04 | 2021-12-16 | 2022-09-23 |
 | [Rimini](https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [rimini tape](https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU) | 2:54 | 2023-04-13 |  |
@@ -246,13 +249,14 @@
 | [Wer](https://open.spotify.com/track/5lNFWihJT9yUCg4awzZj2z) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Wer](https://open.spotify.com/album/5aNhKzcHLEEGvn1eroz7vy) | 2:25 | 2021-12-16 | 2022-02-25 |
 | [Wer wir sind](https://open.spotify.com/track/4SEImIUylCy9YVNwREfXkL) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Wer wir sind](https://open.spotify.com/album/3zUerUY6tHRhKCvMnJR87K) | 3:37 | 2022-03-24 | 2022-12-09 |
 | [WER, WENN NICHT WIR?](https://open.spotify.com/track/5v0oqncTY2wOweL6unFnbQ) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [WER, WENN NICHT WIR?](https://open.spotify.com/album/4fBtvg2ixMyybD5YB33gn5) | 2:05 | 2022-05-26 | 2022-07-15 |
-| [WEREWOLF](https://open.spotify.com/track/41dOSS3ZztCISuZQI3EiMR) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [WEREWOLF](https://open.spotify.com/album/7GzDjBFRcfbske2x9U5QA9) | 3:13 | 2023-08-24 |  |
+| [WEREWOLF](https://open.spotify.com/track/41dOSS3ZztCISuZQI3EiMR) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [WEREWOLF](https://open.spotify.com/album/7GzDjBFRcfbske2x9U5QA9) | 3:13 | 2023-08-24 | 2023-10-13 |
 | [What If the Dead Dream](https://open.spotify.com/track/748LdQj3Lhiynqf3XdTqlr) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [What If the Dead Dream](https://open.spotify.com/album/4DNxWrwCw1MeHxgDLNezGT) | 3:39 | 2021-12-16 | 2022-12-02 |
 | [Wien](https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [MINI](https://open.spotify.com/album/7w1GycA2X3co1x2JLj1G6e) | 2:16 | 2023-03-02 | 2023-09-15 |
 | [Wild Ones](https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones](https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr) | 3:26 | 2023-10-05 |  |
+| [WITCH](https://open.spotify.com/track/06JsKnlqdAYvbhWWwzXyM4) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [WITCH](https://open.spotify.com/album/12kAESgAld7orprsv64J0k) | 2:31 | 2023-10-12 |  |
 | [Would Do It Again](https://open.spotify.com/track/4DJyKfX1ImzBnINTXUzKkQ) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Would Do It Again](https://open.spotify.com/album/7zy3Gc7G6GoZk8ULpp0kAl) | 3:06 | 2023-06-29 | 2023-08-11 |
 | [WOW](https://open.spotify.com/track/1oMc6wSttdm9hUmovca5RJ) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [WOW / OBAMA FREESTYLE](https://open.spotify.com/album/4seApoijgdNaChd2Y2JrDx) | 1:55 | 2023-07-06 | 2023-09-22 |
-| [You Problem](https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [You Problem](https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu) | 3:01 | 2023-02-16 |  |
+| [You Problem](https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [You Problem](https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu) | 3:01 | 2023-02-16 | 2023-10-13 |
 | [Zerrissen](https://open.spotify.com/track/3X0nFQWGJw0FQp6A3uVhgl) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Zerrissen](https://open.spotify.com/album/3wWEzUcLrvF0ONRDJh3dur) | 3:24 | 2023-04-20 |  |
 | [Zimmer](https://open.spotify.com/track/4SN5MyYZbiYhNHEQC51gh3) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zu spät um umzudrehen](https://open.spotify.com/album/4DnP7qkS1KlDKixC4jNf3L) | 2:57 | 2021-12-16 | 2022-05-13 |
 | [ZOMBIE](https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [ZOMBIE](https://open.spotify.com/album/0BUM8lM9I5YnnPFVXV3yyv) | 3:13 | 2023-01-19 | 2023-06-16 |

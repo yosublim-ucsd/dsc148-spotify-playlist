@@ -2,9 +2,9 @@
 
 ### [pulp](https://open.spotify.com/playlist/37i9dQZF1DX3IplhwNexYg)
 
-> The best in current indie rock\. Cover: Teen Jesus and the Jean Teasers
+> The best in current indie rock\. Cover: The Last Dinner Party
 
-486 songs - 1 day 3 hr 16 min
+488 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Deep](https://open.spotify.com/track/1Qd0jDJKlgBTuCNqlM4GWO) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Deep](https://open.spotify.com/album/3UVA6Nxe9gBBRVmbZwwIld) | 3:00 | 2021-03-19 | 2022-01-17 |
 | [Deep End \(Paul’s in Pieces\)](https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:29 | 2023-09-29 |  |
 | [Designated Driver](https://open.spotify.com/track/73u0xUD9Aag0hI1d2d0VU5) | [Motel Marys](https://open.spotify.com/artist/1mLFRG2MVmK7pRIoPTSRcj) | [Designated Driver](https://open.spotify.com/album/0MQ37Z3Hnkd1KhOHAhCkcH) | 2:35 | 2021-03-09 | 2022-01-17 |
-| [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 | 2023-05-25 |  |
+| [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 | 2023-05-25 | 2023-10-13 |
 | [Did I Mention I’m Sorry](https://open.spotify.com/track/2IjvWisUntZj8yNT8Uh5uu) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Did I Mention I'm Sorry](https://open.spotify.com/album/5OJsV7LFoQBXSuGk7vBPac) | 3:17 | 2023-08-11 |  |
 | [Diet Cigarette](https://open.spotify.com/track/66MqvK5aWjC4c2t8txkZh9) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Diet Cigarette](https://open.spotify.com/album/6S8jivSZAqfqU81AR6dZSP) | 3:41 | 2021-10-29 | 2022-08-19 |
 | [Dig!](https://open.spotify.com/track/003jZXYNwnO3rl83ajtLpd) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Dig!](https://open.spotify.com/album/5HoYh07ZPhKkZ1hwV5VFL7) | 2:41 | 2022-09-01 | 2022-09-03 |
@@ -130,7 +130,7 @@
 | [Dreams](https://open.spotify.com/track/3H8JYbDDyS65ui2Obl7QTW) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Dreams](https://open.spotify.com/album/2Ry7t04pq9buAzPucJhr5o) | 3:14 | 2022-10-06 | 2023-01-14 |
 | [Dress](https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dress](https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys) | 3:26 | 2023-01-20 | 2023-05-30 |
 | [Drive](https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Drive](https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c) | 2:57 | 2022-10-06 | 2023-07-01 |
-| [Drunk & Loud](https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ) | [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [Drunk & Loud](https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy) | 1:54 | 2023-08-10 |  |
+| [Drunk & Loud](https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ) | [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [Drunk & Loud](https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy) | 1:54 | 2023-08-10 | 2023-10-13 |
 | [Dutch Courage](https://open.spotify.com/track/6kQmrit1q7b5BR6CvxpO99) | [Pit Pony](https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j) | [Dutch Courage](https://open.spotify.com/album/02f6WXw7JMV9NLf0Z7Evza) | 4:30 | 2021-03-09 | 2022-01-17 |
 | [Easy On Your Own?](https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:54 | 2022-11-25 |  |
 | [Easy On Your Own?](https://open.spotify.com/track/2ZmQI8hVG0wGsvBAvSPx47) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Easy On Your Own?](https://open.spotify.com/album/1v3VgD0YVk0bOrwfs0TO3J) | 2:54 | 2022-08-18 | 2022-11-28 |
@@ -293,6 +293,7 @@
 | [Ms\. California](https://open.spotify.com/track/0WxZEci23tWn1YzikUljEt) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Ms\. California](https://open.spotify.com/album/69vZJh3B8Dvjl7yUU0Eb5v) | 2:52 | 2021-03-09 | 2022-01-17 |
 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-09-29 |  |
 | [My Fall](https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Plus Ultra](https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk) | 3:14 | 2023-04-13 | 2023-05-23 |
+| [My Lady of Mercy](https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [My Lady Of Mercy](https://open.spotify.com/album/2W3JTxVFYQ9m4xd5sYKCC0) | 2:55 | 2023-10-13 |  |
 | [My Very Best](https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [My Very Best](https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6) | 3:17 | 2023-01-20 | 2023-06-18 |
 | [Narration of a Lost Millennial](https://open.spotify.com/track/7iQfH9grc0jwbbPOuUZSSw) | [Rad Horror](https://open.spotify.com/artist/3AqJEHlSivoMSqsVYQ595n) | [Anti Teenage Sensation \(The Part Where Julia Dies\)](https://open.spotify.com/album/1jZfZrwSmI6TnXrxY5lnk2) | 3:05 | 2021-03-09 | 2022-01-17 |
 | [Neighbours](https://open.spotify.com/track/6PpGAVANQ6CZ5OSIwA3oBj) | [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB) | [Neighbours](https://open.spotify.com/album/3udbFrx4tlFGwZEh4CK3HX) | 2:51 | 2023-01-13 | 2023-02-11 |
@@ -397,6 +398,7 @@
 | [Someone2Me](https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Someone2Me](https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n) | 3:46 | 2022-12-22 | 2023-08-16 |
 | [Speak of the Devil](https://open.spotify.com/track/5dBqUGyiFVvjc901wkZGyr) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Speak of the Devil](https://open.spotify.com/album/0cwnN8cat7gqJDL84CxxyO) | 3:35 | 2021-03-09 | 2022-01-17 |
 | [Spilling Yr Guts](https://open.spotify.com/track/6wVjWIoAuJUqizw5MdgzDf) | [Apollo Ghosts](https://open.spotify.com/artist/1kELNMadpWBN7W2moY0h9O) | [Spilling Yr Guts](https://open.spotify.com/album/54jluCmKYHXQp2cii3NOzN) | 2:52 | 2022-01-24 | 2022-08-19 |
+| [SPLAT!](https://open.spotify.com/track/3QYGJb41WJjj6xs68Pvf1z) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [SPLAT!](https://open.spotify.com/album/4jUgvT7VlkhWmpmm6KvtCt) | 2:33 | 2023-10-13 |  |
 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 | 2023-06-30 | 2023-08-05 |
 | [St\. Charles Square](https://open.spotify.com/track/7lo2Wos97Xq6DFHURcsxeQ) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 3:55 | 2023-08-04 |  |
 | [stabilise](https://open.spotify.com/track/3JlNvjlxIlaQ4iQsnxPGct) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 3:32 | 2022-08-18 | 2022-10-07 |

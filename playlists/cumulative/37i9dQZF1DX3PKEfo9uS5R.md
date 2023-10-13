@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-195 songs - 10 hr 5 min
+196 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,9 +46,10 @@
 | [Deeper Spheres](https://open.spotify.com/track/1pKglyymqDNY0yXIv94ztW) | [Duplé](https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf) | [Deeper Spheres](https://open.spotify.com/album/31jWTV8wMy7Q12z5ENEWWl) | 2:29 | 2021-11-11 | 2022-01-22 |
 | [Don't Stop My Heart](https://open.spotify.com/track/5P4EpJA9NgsBpzDoGO4A98) | [dvine](https://open.spotify.com/artist/3VV2pfR0CoFp9JbX6PsaLs) | [Don't Stop My Heart](https://open.spotify.com/album/59vG5QyIX7REK3sxomex53) | 3:14 | 2022-04-15 | 2023-03-10 |
 | [Don't Wanna Let Go](https://open.spotify.com/track/3GINyEMoUV13pzJxNMuvxW) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Don't Wanna Let Go](https://open.spotify.com/album/2RQ5mV8lNxAzLRi8xKTgie) | 2:28 | 2022-05-27 | 2023-03-10 |
+| [Down to the Blue](https://open.spotify.com/track/21jfC5vXMMoy1u4qNEkJLi) | [Liana Wall](https://open.spotify.com/artist/7E7H82aEPVcHMWMldQkXcI) | [Down to the Blue](https://open.spotify.com/album/3Al543n7aW5g7gqwfkiQn4) | 2:26 | 2023-10-13 |  |
 | [Dreamscape](https://open.spotify.com/track/6YHhIKNyqtWN0jHqvsrf10) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Dreamscape](https://open.spotify.com/album/0zZCLYy5ZUvqgFUfp9LcVd) | 2:27 | 2022-08-05 | 2023-03-10 |
 | [drift](https://open.spotify.com/track/15bdg1OPg7Se0f5aIYWUxR) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [drift](https://open.spotify.com/album/61s9uzgpln4l7n81lM0UIw) | 3:57 | 2023-06-19 |  |
-| [Duane](https://open.spotify.com/track/6OFnPWtW3pANhBtcG8orIg) | [Baron Malice](https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe) | [Duane](https://open.spotify.com/album/51Hqtsc3EsOYeDIuYunnjd) | 3:12 | 2023-03-31 |  |
+| [Duane](https://open.spotify.com/track/6OFnPWtW3pANhBtcG8orIg) | [Baron Malice](https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe) | [Duane](https://open.spotify.com/album/51Hqtsc3EsOYeDIuYunnjd) | 3:12 | 2023-03-31 | 2023-10-13 |
 | [easy](https://open.spotify.com/track/3fcJHP9P1Jipkv9UBQZNTh) | [Triple Bulletin](https://open.spotify.com/artist/0g8pyizsQwlRvbDEazNSm3) | [easy](https://open.spotify.com/album/2xwuLtS6WGvYyphK7N7CYk) | 2:19 | 2023-04-07 |  |
 | [Extrinsic](https://open.spotify.com/track/5NRnGOcVYxj01G7osJWKgV) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Picturesque](https://open.spotify.com/album/1TLkNZ4uXScUE03mlYOnEe) | 5:23 | 2021-11-11 | 2022-05-20 |
 | [Fallen Angel](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d) | [Wolfgang Laux](https://open.spotify.com/artist/1B7wnKyiBhdKUDAWQB5tHu) | [Fallen Angel](https://open.spotify.com/album/0RdQWXdOdLmWAKtnVgb0lJ) | 2:55 | 2021-11-11 |  |
@@ -79,7 +80,7 @@
 | [Harbor](https://open.spotify.com/track/3XnfMD4VpGq6BGnMloX6vj) | [Pink Lotus](https://open.spotify.com/artist/04mBicybfm6mAlKZa2kNLX) | [Harbor](https://open.spotify.com/album/4uqyetNhdGQQyZ1OtRjA05) | 2:22 | 2022-11-25 | 2023-08-05 |
 | [Heart On Fire](https://open.spotify.com/track/2v1GOkolx37zgMzwNBf9FG) | [Ingbrit](https://open.spotify.com/artist/1oqi1KuDH3koFICALPltAS) | [Heart On Fire](https://open.spotify.com/album/2J5jKANI4Taz8H9N5qKTuN) | 2:28 | 2021-11-11 | 2022-02-11 |
 | [Heat Wave](https://open.spotify.com/track/59q8vvH0Eo4Wi1MhgUhtl0) | [People Safari](https://open.spotify.com/artist/4iHmCfEwNugPXuVF2D523z) | [Heat Wave](https://open.spotify.com/album/7jJgMxaUWkvoHaE4uwDrwg) | 2:21 | 2023-09-08 |  |
-| [Higher Fun](https://open.spotify.com/track/6Rbptz8SnSzSrQaQIS2agP) | [Turqousie Day](https://open.spotify.com/artist/29YYpH6cWgHKCW4m0nafgG) | [Higher Fun](https://open.spotify.com/album/3nA9zwp2HlLbpoomZGLtHl) | 3:39 | 2022-01-21 |  |
+| [Higher Fun](https://open.spotify.com/track/6Rbptz8SnSzSrQaQIS2agP) | [Turqousie Day](https://open.spotify.com/artist/29YYpH6cWgHKCW4m0nafgG) | [Higher Fun](https://open.spotify.com/album/3nA9zwp2HlLbpoomZGLtHl) | 3:39 | 2022-01-21 | 2023-10-13 |
 | [Holding Anchor](https://open.spotify.com/track/73l7YNceUVRyggXqCajwlZ) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Mango Love](https://open.spotify.com/album/1MgbQTIcNtBnGoemdnQL8u) | 3:08 | 2021-11-11 | 2022-02-11 |
 | [Honey Bee](https://open.spotify.com/track/7iM8XlrP0vRWZ7IMnFChtc) | [Don Battina](https://open.spotify.com/artist/35XkOpKPNN4P8zTMOmPb9X) | [Honey Bee](https://open.spotify.com/album/3dd4xMb3GxR1oqTgbBnHqN) | 3:19 | 2021-11-11 | 2022-01-22 |
 | [How We Do It](https://open.spotify.com/track/7Fangq5H3r0uFVnBmtjqPB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:10 | 2022-05-20 | 2022-07-22 |
@@ -103,7 +104,7 @@
 | [Let You Go](https://open.spotify.com/track/6bt44gR5bahuDhY6WJaVJu) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [Let You Go](https://open.spotify.com/album/6iUanbEtluQQ5dj38wpf6f) | 2:36 | 2021-11-11 | 2022-05-11 |
 | [Lickshot](https://open.spotify.com/track/775MgiY1RE3RVTegxgHwEQ) | [Saxon Monte](https://open.spotify.com/artist/416RME57I6fWDVrfbO7H8Z) | [Lickshot](https://open.spotify.com/album/2nUwhidPZlxBourcTFX283) | 3:24 | 2021-11-11 | 2023-10-03 |
 | [Little Joys](https://open.spotify.com/track/1unDqTrQWQOe5MqFouU5nk) | [Rose Sun](https://open.spotify.com/artist/6ouNagNKWDTz73MNkKiGIT) | [Little Joys](https://open.spotify.com/album/4ofw6KmpKSfygUzct5YOwF) | 2:38 | 2021-11-11 | 2023-06-03 |
-| [Love in the Air](https://open.spotify.com/track/0DAaxDD2brWwpTDH2HdaON) | [Gold Glo](https://open.spotify.com/artist/5OOBTy3uO1KvzwexXmMhVz) | [Love in the Air](https://open.spotify.com/album/2cAL5xHeFCKMfFIGuNinst) | 2:38 | 2021-11-11 |  |
+| [Love in the Air](https://open.spotify.com/track/0DAaxDD2brWwpTDH2HdaON) | [Gold Glo](https://open.spotify.com/artist/5OOBTy3uO1KvzwexXmMhVz) | [Love in the Air](https://open.spotify.com/album/2cAL5xHeFCKMfFIGuNinst) | 2:38 | 2021-11-11 | 2023-10-13 |
 | [Lueur](https://open.spotify.com/track/0PlsM5HVPGAPKqNxoEGir0) | [Drippl](https://open.spotify.com/artist/5a0p2jBB8s3RbE3Dh7o99K) | [Lueur](https://open.spotify.com/album/27YE95xO8qTIj9L2ACmnzt) | 3:42 | 2021-11-11 | 2023-03-10 |
 | [Lunar Soil](https://open.spotify.com/track/3oIEmx0I8qfBb01lKTe4uE) | [Basaux](https://open.spotify.com/artist/11pLNU3Nzu5J3yFAmetC2s) | [Lunar Soil](https://open.spotify.com/album/1m5UoUNbtCwJMAIOWCDaPv) | 2:40 | 2022-01-21 |  |
 | [L’avion](https://open.spotify.com/track/1TZ3xS8JjAPbvYe5BqIqhW) | [Palombi](https://open.spotify.com/artist/7jY1E7URIXvA0gmnuE2m2k) | [L’avion](https://open.spotify.com/album/1VD6PTvEFHDks4Z6dkZTlk) | 2:35 | 2023-10-02 |  |

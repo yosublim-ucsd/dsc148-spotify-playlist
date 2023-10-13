@@ -1,12 +1,12 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 216080,
+  "num_followers": 216061,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWY4YjMwNjI2YjIzNGVmNDI0YWM1YjM4MmNhZjVlNTcyMmI1M2Jk",
+  "snapshot_id": "MCw3Zjg3NTJkZDkzZDUzNmJjYzU4NWEwZDQyNDk0OWE4YTM2M2E1NGIy",
   "tracks": [
     {
       "added_at": "2021-02-12 10:06:47",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Who Wrote The Book Of Love? [Digital Version]",
-        "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
-      },
-      "artists": [
-        {
-          "name": "The Monotones",
-          "url": "https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "Here's Larry Williams",
         "url": "https://open.spotify.com/album/0IezgTiPL0BoQuujiGQvVZ"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 146560,
       "name": "Short Fat Fannie",
       "url": "https://open.spotify.com/track/5xAkEg9CI3rxXFV8mdbSyp"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Who Wrote The Book Of Love? [Digital Version]",
+        "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
+      },
+      "artists": [
+        {
+          "name": "The Monotones",
+          "url": "https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a"
+        }
+      ],
+      "duration_ms": 138440,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "The Hollywood Flames",
-        "url": "https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET"
-      },
-      "artists": [
-        {
-          "name": "The Hollywood Flames",
-          "url": "https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC"
-        }
-      ],
-      "duration_ms": 136333,
-      "name": "Buzz, Buzz, Buzz",
-      "url": "https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "Presenting the Jive Five",
         "url": "https://open.spotify.com/album/38QUQ8y53mMhnpd4Yv07CI"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 154466,
       "name": "My True Story",
       "url": "https://open.spotify.com/track/1zfxyezgvocPSjSVup5ND4"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "The Hollywood Flames",
+        "url": "https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET"
+      },
+      "artists": [
+        {
+          "name": "The Hollywood Flames",
+          "url": "https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC"
+        }
+      ],
+      "duration_ms": 136333,
+      "name": "Buzz, Buzz, Buzz",
+      "url": "https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg"
     },
     {
       "added_at": "2021-02-12 10:06:47",

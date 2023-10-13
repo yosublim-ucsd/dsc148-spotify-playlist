@@ -9595,6 +9595,28 @@
     },
     {
       "album": {
+        "name": "The Art Of Change",
+        "url": "https://open.spotify.com/album/2w5ieF6SZV9flk1gkOgzdK"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        },
+        {
+          "name": "Banji",
+          "url": "https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160730,
+      "name": "Landscape",
+      "url": "https://open.spotify.com/track/3DJGNgVK7g18EgpyKvy5T9"
+    },
+    {
+      "album": {
         "name": "Landscape",
         "url": "https://open.spotify.com/album/3Wzgh6znehuaK9Yu2IdZ6s"
       },
@@ -9610,7 +9632,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 160730,
       "name": "Landscape",
       "url": "https://open.spotify.com/track/3mhmsgWbnEex2qBUZEUnCK"

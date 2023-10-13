@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ati242",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Khontkar",
   "name": "NKVT",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 186352,
       "name": "24/7",
       "url": "https://open.spotify.com/track/4UySkSnMBKf1PS32agnwxp"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 186950,
       "name": "Aynen",
       "url": "https://open.spotify.com/track/72HD3OMs70hTZlbKVVd1rG"
@@ -558,6 +558,28 @@
       "duration_ms": 128000,
       "name": "BALENCIAGA",
       "url": "https://open.spotify.com/track/2HQpdd5cVGGfyX1khL5BQP"
+    },
+    {
+      "album": {
+        "name": "BANA G\u00d6NDER!",
+        "url": "https://open.spotify.com/album/0pQazycqkeWHnSTBnW3Ich"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136483,
+      "name": "BANA G\u00d6NDER!",
+      "url": "https://open.spotify.com/track/4L34uXdYfwRA7zTFFfajFI"
     },
     {
       "album": {
@@ -1511,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "HAM",
+        "url": "https://open.spotify.com/album/3POP3LZl3qug1RG0mcBHKF"
+      },
+      "artists": [
+        {
+          "name": "Khontkar",
+          "url": "https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132739,
+      "name": "HAM",
+      "url": "https://open.spotify.com/track/7duMMtfNk8IgHDLBh1eMhG"
+    },
+    {
+      "album": {
         "name": "ROMANT\u0130K",
         "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
       },
@@ -1969,7 +2009,7 @@
       "artists": [
         {
           "name": "Ati242",
-          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+          "url": "https://open.spotify.com/artist/0L4R942qURiZh3ADjod3BB"
         }
       ],
       "date_added": "2023-09-28",
@@ -2332,7 +2372,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 121714,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/3xnXolsftH5cvHSAv77Oo2"
@@ -3956,6 +3996,28 @@
       "duration_ms": 141072,
       "name": "YAPTIRICAZ TIRNAKLARINI",
       "url": "https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k"
+    },
+    {
+      "album": {
+        "name": "Yemin Olsun",
+        "url": "https://open.spotify.com/album/6c7bzpsj6dFJvDA1fRDzL1"
+      },
+      "artists": [
+        {
+          "name": "ice",
+          "url": "https://open.spotify.com/artist/1R0O5gQtbGxtlwBdVvp5aS"
+        },
+        {
+          "name": "Tepki",
+          "url": "https://open.spotify.com/artist/5DtQ3MpxpzAyDvgMNFWN1r"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157777,
+      "name": "Yemin Olsun",
+      "url": "https://open.spotify.com/track/3YWc6CWUIv1awok2u6Mek3"
     },
     {
       "album": {

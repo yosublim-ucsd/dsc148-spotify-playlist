@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 195824,
+  "num_followers": 195908,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzY0NzI5M2FkMTJlMTVmNDc0MGY4MjAwODU5YmJmNGQxY2QxNTQx",
+  "snapshot_id": "MCw1MzU5YmMzYzYwYzQ5OWIxMDEwMDgyMjk2Nzk5MmFkMDFiOTkwOTcx",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -327,18 +327,26 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Soon It Will Be Cold Enough",
-        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
+        "name": "Small Craft On A Milk Sea",
+        "url": "https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg"
       },
       "artists": [
         {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Leo Abrahams",
+          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
         }
       ],
-      "duration_ms": 180520,
-      "name": "Soon It Will Be Cold Enough to Build Fires",
-      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
+      "duration_ms": 132306,
+      "name": "Emerald and Stone",
+      "url": "https://open.spotify.com/track/6fymXW3eFHPmIOdDfnLXS4"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -391,26 +399,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Small Craft On A Milk Sea",
-        "url": "https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg"
+        "name": "Soon It Will Be Cold Enough",
+        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "Leo Abrahams",
-          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
         }
       ],
-      "duration_ms": 132306,
-      "name": "Emerald and Stone",
-      "url": "https://open.spotify.com/track/6fymXW3eFHPmIOdDfnLXS4"
+      "duration_ms": 180520,
+      "name": "Soon It Will Be Cold Enough to Build Fires",
+      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Six Songs for Invisible Gardens",
-        "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
-      },
-      "artists": [
-        {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "Soft Meadow",
-      "url": "https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Solo Piano",
         "url": "https://open.spotify.com/album/79hPlit22yH2TfyeW1a32K"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 202840,
       "name": "Overnight",
       "url": "https://open.spotify.com/track/75Qzn03RmrNsY0ZEIwCLdj"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Six Songs for Invisible Gardens",
+        "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "Soft Meadow",
+      "url": "https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Ultravisitor",
-        "url": "https://open.spotify.com/album/3ZsW2VSx5OxHpV3Kno59O2"
-      },
-      "artists": [
-        {
-          "name": "Squarepusher",
-          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
-        }
-      ],
-      "duration_ms": 130440,
-      "name": "Tommib Help Buss",
-      "url": "https://open.spotify.com/track/3LbuqJCxuX5P63vVONosge"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Radio Amor",
         "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 262813,
       "name": "Trade Winds, White Heat",
       "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Ultravisitor",
+        "url": "https://open.spotify.com/album/3ZsW2VSx5OxHpV3Kno59O2"
+      },
+      "artists": [
+        {
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+        }
+      ],
+      "duration_ms": 130440,
+      "name": "Tommib Help Buss",
+      "url": "https://open.spotify.com/track/3LbuqJCxuX5P63vVONosge"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "ANTH01",
-        "url": "https://open.spotify.com/album/53wStBoNAK1lhbfbuCJ2zd"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 403080,
-      "name": "Another Girl",
-      "url": "https://open.spotify.com/track/1tsoKfM2I3a1VGpkjhzFTw"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 140226,
       "name": "runnersz",
       "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "ANTH01",
+        "url": "https://open.spotify.com/album/53wStBoNAK1lhbfbuCJ2zd"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 403080,
+      "name": "Another Girl",
+      "url": "https://open.spotify.com/track/1tsoKfM2I3a1VGpkjhzFTw"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 246706,
-      "name": "Kodomotachi",
-      "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "No Home of the Mind",
         "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 340276,
       "name": "As Much as Possible",
       "url": "https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 246706,
+      "name": "Kodomotachi",
+      "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
+      },
+      "artists": [
+        {
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
+        }
+      ],
+      "duration_ms": 266640,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 272093,
       "name": "born slipping",
       "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
-      },
-      "artists": [
-        {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Far Away Trains Passing By",
-        "url": "https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ"
-      },
-      "artists": [
-        {
-          "name": "Ulrich Schnauss",
-          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
-        }
-      ],
-      "duration_ms": 397986,
-      "name": "Passing By - 2019 remaster",
-      "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Lost At Sea (Kelly Moran remix)",
         "url": "https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 296681,
       "name": "Lost At Sea - Kelly Moran remix",
       "url": "https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Far Away Trains Passing By",
+        "url": "https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ"
+      },
+      "artists": [
+        {
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
+        }
+      ],
+      "duration_ms": 397986,
+      "name": "Passing By - 2019 remaster",
+      "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
     },
     {
       "added_at": "2022-02-03 02:43:26",

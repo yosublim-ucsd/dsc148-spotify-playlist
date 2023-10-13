@@ -4,7 +4,7 @@
 
 > The perfect noughties blend.
 
-367 songs - 1 day 0 hr 11 min
+368 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [The Last Day on Earth](https://open.spotify.com/track/6qTmjG7thRJEOaUKFmfjGR) | [Kate Miller\-Heidke](https://open.spotify.com/artist/6sfUgwUTFjy1SNF2uWOcPp) | [Curiouser](https://open.spotify.com/album/4MfZuQLc3X8SwngAcD6OLD) | 4:47 | 2022-04-18 | 2022-07-07 |
 | [The Last High](https://open.spotify.com/track/4jWtqHOLwFoXMsXtlnBK7v) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx) | 4:46 | 2021-07-24 | 2021-07-27 |
 | [The Lazy Song](https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:09 | 2020-06-18 | 2022-11-13 |
-| [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 | 2020-06-18 |  |
+| [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 | 2020-06-18 | 2023-10-13 |
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/1GvL5xdSY7n46XFKDVGKeA) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/0QS7D1gSA5fqSEV2QKNf0c) | 4:01 | 2019-05-27 | 2022-07-29 |
 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 | 2019-06-22 | 2022-02-27 |
 | [The Only Exception](https://open.spotify.com/track/3ZHfX6kbiY7JVsB63lLOLu) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r) | 4:27 | 2019-06-25 | 2022-04-21 |
@@ -345,6 +345,7 @@
 | [Warwick Avenue](https://open.spotify.com/track/5IdPVawDl9lz84nPj832is) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry \(Deluxe Edition\)](https://open.spotify.com/album/5Mxz1P0qfXLR6SgE6xbyBb) | 3:47 | 2020-06-18 | 2022-04-20 |
 | [Wasted](https://open.spotify.com/track/4I8SjAgSnLZ4ZS606OOj2K) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [A Book Like This](https://open.spotify.com/album/25xEMKamYFIMjqdZHYyrL3) | 3:47 | 2020-06-18 | 2022-04-19 |
 | [We Are The People](https://open.spotify.com/track/4fhWwOptWMYqGhl5WHzuWe) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream](https://open.spotify.com/album/0Eb3EwPPS9I2Gcaaa5jGjx) | 4:27 | 2020-06-18 | 2022-04-21 |
+| [We Are The People](https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 4:27 | 2020-06-18 |  |
 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 | 2019-05-26\* | 2021-10-14 |
 | [We're All In This Together](https://open.spotify.com/track/7nqsSyeUYbj03bAQd3i3aE) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf) | [Awake Is the New Sleep](https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam) | 4:39 | 2021-07-24 | 2021-07-27 |
 | [What Goes Around.../...Comes Around \(Interlude\)](https://open.spotify.com/track/1oZKouBsMFC6c3sv0lzYnh) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds](https://open.spotify.com/album/6sLXslRyrsSUQ8lKygNrCY) | 7:28 | 2020-06-18 | 2022-04-20 |

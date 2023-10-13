@@ -4,7 +4,7 @@
 
 > Soft instrumental Blues for any activity.
 
-83 songs - 5 hr 55 min
+87 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,9 @@
 | [Back Slid to Heaven](https://open.spotify.com/track/7d0S96NvfnnzVnnhanZhBM) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Running Waters](https://open.spotify.com/album/7qOQeRFKmnpgY8R34U9cS9) | 2:25 | 2023-03-17 |  |
 | [Bird in a Cage](https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Sweet Giant of the Blues](https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw) | 6:06 | 2022-11-30 |  |
 | [Blue dreams](https://open.spotify.com/track/2sbUjbMeYzhFx23SSQmpy5) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 2:41 | 2022-11-30 | 2023-08-24 |
+| [Blue In The Morning](https://open.spotify.com/track/5oBwhvP4LLNxOjDHUK9RgX) | [Benjamin Davies](https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ) | [Blue In The Morning](https://open.spotify.com/album/6POQDXgVNbBiVAMkY6Ed2v) | 2:29 | 2023-10-13 |  |
 | [Blue Midnight \- Alternate Take](https://open.spotify.com/track/6qpWYefGy5ziiGVKxvoNQu) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:02 | 2022-11-30 |  |
+| [Blue Monk](https://open.spotify.com/track/4L0hmvCZuefMG2WiThBd1c) | [Fred Hayes](https://open.spotify.com/artist/62p6oXKfOk0e0tLh9uO94a) | [Blue Monk](https://open.spotify.com/album/4XmhrFFPfS9zO0J7SHge4z) | 2:56 | 2023-10-13 |  |
 | [Blue Rose](https://open.spotify.com/track/4OLD0o2PHJkIrlc6FrHmSX) | [Wolf Mail](https://open.spotify.com/artist/2bN1TY9rrW2axotPjQzFV6) | [Blue Fix](https://open.spotify.com/album/2P6Fu4EqitlskRVpyosR16) | 5:05 | 2022-11-30 |  |
 | [Blue Steel](https://open.spotify.com/track/7mrRkKKrwiwYv3qn7OZJgK) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Memphis Charlie](https://open.spotify.com/album/3anXYfHvmF3ebgaHxbuROu) | 4:47 | 2022-11-30 |  |
 | [Blues 'Fore Dawn \- Instrumental](https://open.spotify.com/track/3zVx7964ROy15h1lC7fhzD) | [Jimmy Thackery](https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ) | [Guitar](https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI) | 4:54 | 2022-11-30 |  |
@@ -29,6 +31,7 @@
 | [Blues for Jimmie and Jesse](https://open.spotify.com/track/3C2WSB7TKIUlN7InbKnuot) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 2:43 | 2022-11-30 |  |
 | [Blues for the nightowls](https://open.spotify.com/track/41Merz07bIvWzALurwkXXs) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 2:43 | 2022-11-30 |  |
 | [Blues Garage](https://open.spotify.com/track/63z5HlfiJw3g74Ja9NYgUt) | [Marco Tansini](https://open.spotify.com/artist/4nqDZHAp53xZXsaySBj6Dp) | [Blues Garage](https://open.spotify.com/album/2naMQdig9E1D2yA1aMlb2Y) | 4:40 | 2022-11-30 |  |
+| [Blues In The Closet](https://open.spotify.com/track/11w62lcuFaIPrSf64XkK2S) | [Maxeen](https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN) | [Blues In The Closet](https://open.spotify.com/album/32vOOaqwQl8zrAsmXDpQ5u) | 2:40 | 2023-10-13 |  |
 | [Blues on a Borrowed Guitar](https://open.spotify.com/track/5xr5jeIHR15YyllJRHmkEY) | [Snowy White](https://open.spotify.com/artist/4DMlDJn7CPSSS0DuUf1vrH) | [Released](https://open.spotify.com/album/4Yzs60CBn1AteXBUaXqnk6) | 5:45 | 2022-11-30 |  |
 | [Blues Wail](https://open.spotify.com/track/39W3NjHlj7MSFS9q5D46zN) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Blues Wail: Coleman Hawkins Plays The Blues](https://open.spotify.com/album/21NYOM1XZhCPaLDX8CkvOc) | 6:43 | 2022-11-30 |  |
 | [Boedo's Blues](https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Boedo's Blues](https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf) | 2:13 | 2022-11-30 |  |
@@ -39,7 +42,7 @@
 | [Don't Be Late](https://open.spotify.com/track/1CT03EZWEzeePJs8nYvZHu) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [Don't Be Late](https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P) | 2:46 | 2022-11-30 |  |
 | [Donna](https://open.spotify.com/track/23ozU0cVhWspGJpd84NQHi) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 7:23 | 2022-11-30 | 2023-08-24 |
 | [Dont Lie](https://open.spotify.com/track/4jJCx5gt62d4yYvfy1Z7GQ) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Nickel for Your Troubles](https://open.spotify.com/album/7BehaPSDwpwY35CddZrreY) | 2:58 | 2023-03-31 |  |
-| [Early In The Morning](https://open.spotify.com/track/1KWS957gYfLrSjgn2Wu9ju) | [Maxeen](https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN) | [Early In The Morning](https://open.spotify.com/album/6ni6IpbUPhd5Te3kKC1RR6) | 4:05 | 2023-05-22 |  |
+| [Early In The Morning](https://open.spotify.com/track/1KWS957gYfLrSjgn2Wu9ju) | [Maxeen](https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN) | [Early In The Morning](https://open.spotify.com/album/6ni6IpbUPhd5Te3kKC1RR6) | 4:05 | 2023-05-22 | 2023-10-13 |
 | [Feelin' Bad Blues \- 2008 Remaster](https://open.spotify.com/track/1mka0egloj2XnXJznzMCw6) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:16 | 2022-11-30 |  |
 | [Ferry Crossing Blues](https://open.spotify.com/track/47QhhDihrVeoFbUum7r7NY) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Stephan Holstein](https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA) | [The Spiekeroog Sessions](https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ) | 4:25 | 2023-02-24 |  |
 | [Five Star Day](https://open.spotify.com/track/4aKLpPhtOiNV0mhSQmhBvr) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Tales of the Delta](https://open.spotify.com/album/19i2DMKG833LoDi7nYWNm3) | 2:57 | 2023-07-21 |  |
@@ -71,6 +74,7 @@
 | [Rigo's Blues](https://open.spotify.com/track/5Zrlbo3PDGziGvAUccOozk) | [Tom Rigney](https://open.spotify.com/artist/3slWYiAVBZ82CDexfn4IK4) | [Back Porch Blues](https://open.spotify.com/album/4OeXjIOg8ResXnVKTleUSi) | 4:18 | 2022-11-30 |  |
 | [Roads](https://open.spotify.com/track/7JZJ84ZmMhrUNw3eQNgUxN) | [Lior Holzman](https://open.spotify.com/artist/4FKgykI3l7fUUayQm9He3O) | [Roads](https://open.spotify.com/album/5EyvVzoYsNcZnFa2wPyFNz) | 3:15 | 2023-02-17 |  |
 | [Run through the mountains](https://open.spotify.com/track/2J8XXy0ds8g4wpEe5PmHfN) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Vagabond](https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4) | 1:50 | 2023-03-03 | 2023-08-24 |
+| [Sandu](https://open.spotify.com/track/3djatpF3E3vAj05vQX3Jxv) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [Sandu](https://open.spotify.com/album/1gKmNF6qPfsSWFldrDr2MK) | 2:38 | 2023-10-13 |  |
 | [Sittin on Top of the World](https://open.spotify.com/track/7G234VgTRaXpiX9GnsZvdK) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 4:53 | 2022-11-30 |  |
 | [Skyman](https://open.spotify.com/track/013yxuTbh3mfL0Qjtaykqj) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Spread The Love](https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht) | 8:19 | 2022-11-30 | 2023-08-24 |
 | [Slow Blues](https://open.spotify.com/track/0amfQAlygBi3JTf1qph861) | [Cephas & Wiggins](https://open.spotify.com/artist/40MbAfRt1y7QdeGSkSp4pF) | [Homemade](https://open.spotify.com/album/5kdbWGmr1nzhXpzlDTf497) | 3:25 | 2022-11-30 |  |

@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Catacea Animals",
+        "url": "https://open.spotify.com/album/38yEh4LCIMJil5LsbUVT6m"
+      },
+      "artists": [
+        {
+          "name": "Aya Morata",
+          "url": "https://open.spotify.com/artist/6ryTZyH1Vnxas1vzYPzE0L"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148874,
+      "name": "Catacea Animals",
+      "url": "https://open.spotify.com/track/65nwy2Gx3Om5fuyySr1RAS"
+    },
+    {
+      "album": {
         "name": "Catchacoma Lake",
         "url": "https://open.spotify.com/album/7fTupqeF42aDgxnwxZ4XAj"
       },
@@ -1533,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/31vutoDOOQeWJWo3B1s45F"
+      },
+      "artists": [
+        {
+          "name": "Inner Purpose",
+          "url": "https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/2ieNJNNIwKIiT68JKVNv9I"
+    },
+    {
+      "album": {
         "name": "Silent Mind",
         "url": "https://open.spotify.com/album/45La9VqG8XymSR0sul7XAp"
       },
@@ -1656,7 +1692,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 202714,
       "name": "Silent Forest",
       "url": "https://open.spotify.com/track/4RJ7NLf74ZcQwvVVSB29WO"
@@ -1952,6 +1988,24 @@
       "duration_ms": 187918,
       "name": "Tributary Balance",
       "url": "https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h"
+    },
+    {
+      "album": {
+        "name": "Tu\u00b4i",
+        "url": "https://open.spotify.com/album/0AxYeSn9QBiaYJ8meIurZ3"
+      },
+      "artists": [
+        {
+          "name": "Dyfi Francis",
+          "url": "https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Tu\u00b4i",
+      "url": "https://open.spotify.com/track/0RBiJCkvaFRkLEQNV05cBs"
     },
     {
       "album": {

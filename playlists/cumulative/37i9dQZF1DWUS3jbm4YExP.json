@@ -576,7 +576,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 239806,
       "name": "Amazone",
       "url": "https://open.spotify.com/track/3b41lO2hVuWUPuXUU48JxS"
@@ -3969,6 +3969,24 @@
     },
     {
       "album": {
+        "name": "Tonica & Dominante",
+        "url": "https://open.spotify.com/album/2l3BZH3NPEIlFaEckdh348"
+      },
+      "artists": [
+        {
+          "name": "Tonica & Dominante",
+          "url": "https://open.spotify.com/artist/4U5PlulITu7q03ItEaIOmz"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198995,
+      "name": "Gennarino 'O Sioux",
+      "url": "https://open.spotify.com/track/7yIQkdNIHAPwshIZdR4Jlk"
+    },
+    {
+      "album": {
         "name": "Ghibli",
         "url": "https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As"
       },
@@ -5386,7 +5404,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 214287,
       "name": "Judge Not - Ray Mang Radio Edit",
       "url": "https://open.spotify.com/track/63Dcd1TRAGV5dxpJPDz6Ae"
@@ -8068,7 +8086,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 135017,
       "name": "Ontem",
       "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"

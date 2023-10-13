@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: juju <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,022 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,103 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 12 | [Moving In Place](https://open.spotify.com/track/5p6yv9NC4oxdRBUfAlaMKS) | [Shauna Dean Cokeland](https://open.spotify.com/artist/0vbNLTyYwdVv2m0gzQ8skz) | [Moving In Place](https://open.spotify.com/album/2qHiPAbNv0XHAZhZK8v4qC) | 2:35 |
 | 13 | [Under the Gun](https://open.spotify.com/track/6Y3rVkddzqreyCqlP8Zlag) | [Morning Silk](https://open.spotify.com/artist/4tyiJFCv1MuTzfykbK0q7A), [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Under the Gun](https://open.spotify.com/album/3nKSU4PXCId6jxF8ud7oQl) | 2:48 |
 | 14 | [I Met God](https://open.spotify.com/track/6v9CIwn1623LQd9x6qXodk) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [I Met God](https://open.spotify.com/album/3TUtl9BQPfP4kWqXveAyv6) | 4:22 |
-| 15 | [INFATUATION](https://open.spotify.com/track/3utAfd1gVKucJ8u9fABRaI) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [INFATUATION](https://open.spotify.com/album/40UdPGBdQ0C2Yv26AkAJNe) | 2:02 |
+| 15 | [INFATUATION](https://open.spotify.com/track/01ohSXFsSpf2tv0obiygSQ) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [INFATUATION](https://open.spotify.com/album/1F0Rb7AUH5yMbLtIEdiNeL) | 2:02 |
 | 16 | [Shove](https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Shove](https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb) | 2:39 |
 | 17 | [Bhuta Kala](https://open.spotify.com/track/5kM9HjvFKnENXfkNdvFdyJ) | [Meernaa](https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g) | [Bhuta Kala](https://open.spotify.com/album/1L8ulFB7FYlglGlIKMns6v) | 3:39 |
 | 18 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Pressure](https://open.spotify.com/track/1idPrmJk9PlmFsupge2Xrf) | [Miina](https://open.spotify.com/artist/2be45mouasgEeyH4Tgm4fB), [Carmanah](https://open.spotify.com/artist/6JThhhe0e1F4wFnsJpn8AS) | [Pressure](https://open.spotify.com/album/1pX9EsEOwkenls3ZZ37p70) | 2:49 |
 | 100 | [tattoos and jeans](https://open.spotify.com/track/0yeKMJtAUmiIhoOL4IS6DJ) | [Jackson Marshall](https://open.spotify.com/artist/4sabxefSr7gXnTA6Lv3ILl) | [tattoos and jeans](https://open.spotify.com/album/5oLvVoNLrYcrvz3jHh2Vuy) | 2:57 |
 
-Snapshot ID: `MCw1M2VjNWUzYzVjZWY4ZjgxZmQzNGI0MWI2MWQwMDY4MDVlODkxNDkz`
+Snapshot ID: `MCxlNDlhMzVjYTNjMDlmMGRkNDY4YmQzMjQ0YmEyOGRmM2ZhZjc2ZTk0`

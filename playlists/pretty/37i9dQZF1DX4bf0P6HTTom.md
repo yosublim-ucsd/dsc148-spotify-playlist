@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,346 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,384 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 49 | [Ten More Miles to Louisiana](https://open.spotify.com/track/1E252QgKGNYBXfwaiXZtZy) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Black & White](https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ) | 2:24 |
 | 50 | [Someone Who Cares](https://open.spotify.com/track/2eSySlmf3c5114MaxAVaAS) | [Richie Furay](https://open.spotify.com/artist/2KpCZazKx8c2qBDtNXvmvf) | [Dance A Little Light](https://open.spotify.com/album/0TuDxWKVA21dJJtM14Ghfs) | 3:53 |
 
-Snapshot ID: `MCw3YzZlNDM2NmM5OGEwMzMyOWI1NDQyM2M3MmNkNGYwZTU2MTYwMjNm`
+Snapshot ID: `MCw4OGE3MmMzZTZkNTIxZWY2ZjllMzg2MzExNWQyMmJjMDg4YWIzY2Vj`

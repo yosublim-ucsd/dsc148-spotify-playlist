@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-143 songs - 6 hr 34 min
+144 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Do not disturb](https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE) | [Matty Mel Jr](https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW) | [Do not disturb](https://open.spotify.com/album/4RG39enCANdnjbagkDndcp) | 2:59 | 2023-01-26 | 2023-04-21 |
 | [Driftwood](https://open.spotify.com/track/6dkFwu9Z7HUuz69P2Nr6yF) | [Just Steezy Things](https://open.spotify.com/artist/1WGInLKTtABkRppFt2637E) | [Driftwood](https://open.spotify.com/album/0A6bH7eWnye4Pe25YdCv6g) | 2:19 | 2023-01-12 |  |
 | [Early Rio](https://open.spotify.com/track/0rpf1OhSfp8hkOsFhONU0d) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Early Rio](https://open.spotify.com/album/2a1LMvKsH5AowfwGC49jhI) | 2:40 | 2023-01-12 |  |
+| [Eat More Fruits](https://open.spotify.com/track/5zWf9Ug3ubWOizrx9iDnTi) | [Sweet Spot Lab](https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At) | [Eat More Fruits](https://open.spotify.com/album/3JENHK40xUTH4VgMbxrZVu) | 2:16 | 2023-10-13 |  |
 | [El Platanal](https://open.spotify.com/track/5euxtzHFyA4WAbbERfT0eg) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Monte Adentro](https://open.spotify.com/album/0Rsap5JXIEDLxkhTVNT3Kr) | 2:23 | 2023-01-13 |  |
 | [Fade Away](https://open.spotify.com/track/788O8dH7FJlO7SebmtLqj4) | [Nokimo](https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Fade Away](https://open.spotify.com/album/5T3fTXo9oHhsE1NzN45vQj) | 2:12 | 2023-01-12 | 2023-06-21 |
 | [Fever, Fever](https://open.spotify.com/track/7D9UKc1To1SiOrQGcAMjM3) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Fever, Fever](https://open.spotify.com/album/6fl21BaGkpjnUQa5x9V2Vz) | 2:44 | 2023-01-12 |  |
@@ -46,7 +47,7 @@
 | [Full Wet's](https://open.spotify.com/track/5ZwZXIPPrM8tglWmUHq60a) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Full Wet's](https://open.spotify.com/album/59q8662jceuRnzPeEgxhbs) | 2:20 | 2023-04-13 | 2023-06-02 |
 | [Galilean Moons](https://open.spotify.com/track/2VLwrtdD36caMB8NLcte9v) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O), [Benjamin Furman](https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH) | [Moons of Jupiter](https://open.spotify.com/album/1AcUrdOB61lJmyGvUqwugr) | 4:02 | 2023-01-12 |  |
 | [Gelato](https://open.spotify.com/track/7nhFat90m89TNhlHdqjOM5) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Easely EP](https://open.spotify.com/album/6vRg935QEJInaajnUHSF9t) | 2:17 | 2023-01-12 |  |
-| [Gemstone](https://open.spotify.com/track/2peUYTOZ5tOHSl6opQ8955) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Gemstone](https://open.spotify.com/album/00k8alj8IzblCKTeCDvUNQ) | 3:07 | 2023-01-12 |  |
+| [Gemstone](https://open.spotify.com/track/2peUYTOZ5tOHSl6opQ8955) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Gemstone](https://open.spotify.com/album/00k8alj8IzblCKTeCDvUNQ) | 3:07 | 2023-01-12 | 2023-10-13 |
 | [get up and go](https://open.spotify.com/track/0AmxMNsfzteEOvlMx3r5JU) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D) | [get up and go](https://open.spotify.com/album/2x09XHdln0ntQcYKxb4KNM) | 2:27 | 2023-01-12 |  |
 | [Glass](https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Glass](https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ) | 3:22 | 2023-01-13 |  |
 | [Golden Age](https://open.spotify.com/track/1ZVi3Mfl9UO3i26SXU43Ta) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 2:22 | 2023-01-12 | 2023-09-29 |

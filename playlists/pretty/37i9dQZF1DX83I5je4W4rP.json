@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1064959,
+  "num_followers": 1064209,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjBmN2E5YmZhNDlmZmJkMWU4ZmJkODZlYTVkNzg5YWZkMTZlMjc2",
+  "snapshot_id": "MCw5ZTk1YmY1Yjk1YTQ1NzRhYjYyMTQxNmU2ODk2NDcwMjljZmQyYmMz",
   "tracks": [
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "One Lovely Day",
-        "url": "https://open.spotify.com/album/08H1gq5VICAZyVXf9XDJax"
-      },
-      "artists": [
-        {
-          "name": "Citizen Cope",
-          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "Something to Believe In",
-      "url": "https://open.spotify.com/track/0z1hoxTVVdZn1OxciNsRuw"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Super Moon",
         "url": "https://open.spotify.com/album/1a8kasT2fbeOcjvFsuGnch"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
+        "name": "One Lovely Day",
+        "url": "https://open.spotify.com/album/08H1gq5VICAZyVXf9XDJax"
+      },
+      "artists": [
+        {
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
+        }
+      ],
+      "duration_ms": 221840,
+      "name": "Something to Believe In",
+      "url": "https://open.spotify.com/track/0z1hoxTVVdZn1OxciNsRuw"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
         "name": "Edge of the Ocean",
         "url": "https://open.spotify.com/album/29TmBre90Vd3iE2pu8cDP1"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 295867,
       "name": "Edge of the Ocean",
       "url": "https://open.spotify.com/track/0SctzStskP74wkmBBXlmEn"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 203912,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/1JQr89uc6xVkIwfS09ct8K"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1227,6 +1211,22 @@
       "duration_ms": 274810,
       "name": "Press Rewind",
       "url": "https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 203912,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/1JQr89uc6xVkIwfS09ct8K"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/5SDGTrB2F8K4U95zvLjvgZ"
-      },
-      "artists": [
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
-        }
-      ],
-      "duration_ms": 210573,
-      "name": "IRL",
-      "url": "https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Sunday Vibe",
         "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/5SDGTrB2F8K4U95zvLjvgZ"
+      },
+      "artists": [
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        }
+      ],
+      "duration_ms": 210573,
+      "name": "IRL",
+      "url": "https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
         "name": "Effection",
         "url": "https://open.spotify.com/album/7DRW2mILmVTbyitwdNBdzU"
       },
@@ -1387,22 +1387,18 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Dance My Stress Away (with Stephen Marley)",
-        "url": "https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW"
+        "name": "From Here To Now To You",
+        "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
       },
       "artists": [
         {
-          "name": "Demarco",
-          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
-        },
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 214122,
-      "name": "Dance My Stress Away (with Stephen Marley)",
-      "url": "https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f"
+      "duration_ms": 179346,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/5WjDmjD39LsFCRRALhorjd"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1427,18 +1423,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "From Here To Now To You",
-        "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
+        "name": "Dance My Stress Away (with Stephen Marley)",
+        "url": "https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Demarco",
+          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
         }
       ],
-      "duration_ms": 179346,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/5WjDmjD39LsFCRRALhorjd"
+      "duration_ms": 214122,
+      "name": "Dance My Stress Away (with Stephen Marley)",
+      "url": "https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Jack Johnson & Friends: Best Of Kokua Festival, A Benefit For The Kokua Hawaii Foundation",
-        "url": "https://open.spotify.com/album/1tqFk7TTYICk0Mhk9XUX9L"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        },
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "Breakdown",
-      "url": "https://open.spotify.com/track/01cbb52SrkVOB8VuFaPoGP"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/2SVH3FUWDU8BzlNn2Q6UEr"
       },
@@ -1883,22 +1863,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Middle Finger",
-        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 206032,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Ride (Edit)",
         "url": "https://open.spotify.com/album/1N1yANyT1E01JumCbGsfm9"
       },
@@ -1911,6 +1875,42 @@
       "duration_ms": 220310,
       "name": "Ride - Edit",
       "url": "https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Jack Johnson & Friends: Best Of Kokua Festival, A Benefit For The Kokua Hawaii Foundation",
+        "url": "https://open.spotify.com/album/1tqFk7TTYICk0Mhk9XUX9L"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/01cbb52SrkVOB8VuFaPoGP"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Middle Finger",
+        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 206032,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
     },
     {
       "added_at": "2023-07-28 15:11:46",

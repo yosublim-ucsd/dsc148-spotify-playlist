@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 314319,
       "name": "Himitsu",
       "url": "https://open.spotify.com/track/3o9rv8K6kzQ1qLf2LRrE1b"
@@ -2308,6 +2308,24 @@
       "duration_ms": 153735,
       "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI"
+    },
+    {
+      "album": {
+        "name": "Leaving",
+        "url": "https://open.spotify.com/album/1DyDhZGMs0ta4AFDPgJGTT"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223538,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/2VsCSKol8i9vHyc9S1kI7y"
     },
     {
       "album": {
@@ -4141,6 +4159,24 @@
     },
     {
       "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203324,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
+    },
+    {
+      "album": {
         "name": "Somebody's Gotta Do It",
         "url": "https://open.spotify.com/album/2WFzXFDjr6IVRaUTC8jgrH"
       },
@@ -4450,7 +4486,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 200653,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I"

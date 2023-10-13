@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Liggi",
+        "url": "https://open.spotify.com/album/1zITUizbdnwegHf2BM7faa"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181176,
+      "name": "Liggi",
+      "url": "https://open.spotify.com/track/4vwPirpSJCOiIsgxMV4Xcv"
+    },
+    {
+      "album": {
         "name": "Dev",
         "url": "https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE"
       },
@@ -730,7 +748,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 181176,
       "name": "Liggi",
       "url": "https://open.spotify.com/track/7tbzfR8ZvZzJEzy6v0d6el"
@@ -1401,10 +1419,6 @@
         "url": "https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP"
       },
       "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
         {
           "name": "Mika Singh",
           "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"

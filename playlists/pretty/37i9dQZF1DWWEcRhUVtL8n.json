@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: hemlocke springs ",
-  "num_followers": 1700421,
+  "num_followers": 1699196,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzM4NWUyOWJkZDMzYWMwZTI3Mzg0YTMwNTUwOTliZDM1ZGY3NzYw",
+  "snapshot_id": "MCxmZDA1MDQ4Mzk3MjhlNzJhOGRmYWUxZTE1NGQzNWYwNDRkNDY5ZThi",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -301,22 +301,6 @@
       "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 173369,
-      "name": "Living In A Haze",
-      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Stick Season",
@@ -331,6 +315,22 @@
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 173369,
+      "name": "Living In A Haze",
+      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -861,22 +861,6 @@
       "url": "https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 213271,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
-    },
-    {
       "added_at": "2023-07-03 15:40:30",
       "album": {
         "name": "Kill Your Pain (with King Princess)",
@@ -897,20 +881,20 @@
       "url": "https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg"
     },
     {
-      "added_at": "2023-09-08 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Boy Scout",
-        "url": "https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq"
       },
       "artists": [
         {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 200261,
-      "name": "Boy Scout",
-      "url": "https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL"
+      "duration_ms": 213271,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
     },
     {
       "added_at": "2023-06-30 04:21:00",
@@ -927,6 +911,22 @@
       "duration_ms": 155801,
       "name": "There\u2019s no Other",
       "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Boy Scout",
+        "url": "https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 200261,
+      "name": "Boy Scout",
+      "url": "https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/47oqstCW9u5SARWggwVQqE"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Perspective",
-        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 163050,
-      "name": "Perspective",
-      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
-    },
-    {
       "added_at": "2023-07-07 18:51:45",
       "album": {
         "name": "a beautiful blur",
@@ -1045,20 +1029,20 @@
       "url": "https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Coping on Unemployment",
-        "url": "https://open.spotify.com/album/5lh7UQoL2Sd9HJv6kFEsTw"
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
       },
       "artists": [
         {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Coping on Unemployment",
-      "url": "https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU"
+      "duration_ms": 163050,
+      "name": "Perspective",
+      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1075,6 +1059,22 @@
       "duration_ms": 150430,
       "name": "jupiter",
       "url": "https://open.spotify.com/track/1In2l2VqjtZIW9loAA341S"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Coping on Unemployment",
+        "url": "https://open.spotify.com/album/5lh7UQoL2Sd9HJv6kFEsTw"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Coping on Unemployment",
+      "url": "https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1133,6 +1133,22 @@
       "url": "https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
+    },
+    {
       "added_at": "2023-08-04 13:13:27",
       "album": {
         "name": "Ease",
@@ -1149,20 +1165,20 @@
       "url": "https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
+        "name": "Next Best Exit",
+        "url": "https://open.spotify.com/album/5BaqyXWFe7128CZfNaMISB"
       },
       "artists": [
         {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
+      "duration_ms": 166500,
+      "name": "Next Best Exit",
+      "url": "https://open.spotify.com/track/5AK6xch0zSVSZe3HJhxy6Y"
     },
     {
       "added_at": "2023-08-14 19:08:31",
@@ -1195,22 +1211,6 @@
       "duration_ms": 210306,
       "name": "Un Deux Trois",
       "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Next Best Exit",
-        "url": "https://open.spotify.com/album/5BaqyXWFe7128CZfNaMISB"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Next Best Exit",
-      "url": "https://open.spotify.com/track/5AK6xch0zSVSZe3HJhxy6Y"
     },
     {
       "added_at": "2023-08-25 04:56:29",
@@ -1297,22 +1297,6 @@
       "url": "https://open.spotify.com/track/3wrgRknQKf58IIEbV4flhx"
     },
     {
-      "added_at": "2023-07-14 01:28:17",
-      "album": {
-        "name": "Screw Time",
-        "url": "https://open.spotify.com/album/3XuJ6wvVTZyiMslESPVRJ7"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 185724,
-      "name": "Screw Time",
-      "url": "https://open.spotify.com/track/041KVEd5BQnsyZKdqdmE0r"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Friends",
@@ -1327,6 +1311,22 @@
       "duration_ms": 186643,
       "name": "Friends",
       "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
+    },
+    {
+      "added_at": "2023-07-14 01:28:17",
+      "album": {
+        "name": "Screw Time",
+        "url": "https://open.spotify.com/album/3XuJ6wvVTZyiMslESPVRJ7"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 185724,
+      "name": "Screw Time",
+      "url": "https://open.spotify.com/track/041KVEd5BQnsyZKdqdmE0r"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1413,22 +1413,6 @@
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
     },
     {
-      "added_at": "2023-04-21 04:19:11",
-      "album": {
-        "name": "Monster Brain",
-        "url": "https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h"
-      },
-      "artists": [
-        {
-          "name": "Mia Wray",
-          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
-        }
-      ],
-      "duration_ms": 217737,
-      "name": "Monster Brain",
-      "url": "https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "i wanna be your right hand",
@@ -1445,6 +1429,22 @@
       "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
     },
     {
+      "added_at": "2023-04-21 04:19:11",
+      "album": {
+        "name": "Monster Brain",
+        "url": "https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h"
+      },
+      "artists": [
+        {
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+        }
+      ],
+      "duration_ms": 217737,
+      "name": "Monster Brain",
+      "url": "https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG"
+    },
+    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "Satan Loves You",
@@ -1459,6 +1459,22 @@
       "duration_ms": 195936,
       "name": "Satan Loves You",
       "url": "https://open.spotify.com/track/3LdXoKD1oTAsRxHLJGEEOE"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "It's Euphoric",
+        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "It\u2019s Euphoric",
+      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
     },
     {
       "added_at": "2023-08-25 04:56:29",
@@ -1479,22 +1495,6 @@
       "duration_ms": 234681,
       "name": "Moonlit Breakers (feat. Dijon)",
       "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "It's Euphoric",
-        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "It\u2019s Euphoric",
-      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
     },
     {
       "added_at": "2023-07-14 18:19:08",
@@ -1577,22 +1577,6 @@
       "url": "https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts"
     },
     {
-      "added_at": "2023-08-25 04:56:29",
-      "album": {
-        "name": "Imposter Syndrome",
-        "url": "https://open.spotify.com/album/7zgIk5sn1wrmDeRfljG25J"
-      },
-      "artists": [
-        {
-          "name": "Abby Roberts",
-          "url": "https://open.spotify.com/artist/11260Smss09lExMicvRPeO"
-        }
-      ],
-      "duration_ms": 150533,
-      "name": "Imposter Syndrome",
-      "url": "https://open.spotify.com/track/15ooUT2BqringLAgnx9n3O"
-    },
-    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "play pretenses",
@@ -1607,6 +1591,22 @@
       "duration_ms": 159514,
       "name": "play pretenses",
       "url": "https://open.spotify.com/track/3Ocg0Q8hekO5O8xIbNJS3Y"
+    },
+    {
+      "added_at": "2023-08-25 04:56:29",
+      "album": {
+        "name": "Imposter Syndrome",
+        "url": "https://open.spotify.com/album/7zgIk5sn1wrmDeRfljG25J"
+      },
+      "artists": [
+        {
+          "name": "Abby Roberts",
+          "url": "https://open.spotify.com/artist/11260Smss09lExMicvRPeO"
+        }
+      ],
+      "duration_ms": 150533,
+      "name": "Imposter Syndrome",
+      "url": "https://open.spotify.com/track/15ooUT2BqringLAgnx9n3O"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1625,6 +1625,22 @@
       "url": "https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "I Met God",
+        "url": "https://open.spotify.com/album/3TUtl9BQPfP4kWqXveAyv6"
+      },
+      "artists": [
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+        }
+      ],
+      "duration_ms": 262454,
+      "name": "I Met God",
+      "url": "https://open.spotify.com/track/6v9CIwn1623LQd9x6qXodk"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "I Haven't Seen You Since The Summer",
@@ -1639,22 +1655,6 @@
       "duration_ms": 200328,
       "name": "I Haven't Seen You Since The Summer",
       "url": "https://open.spotify.com/track/3LQnvTX0E4cwig42VTbX3X"
-    },
-    {
-      "added_at": "2023-08-25 04:56:29",
-      "album": {
-        "name": "VOYCONTODO",
-        "url": "https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 137114,
-      "name": "VOYCONTODO",
-      "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
     }
   ],
   "unique_name": "Indie Pop",

@@ -2,12 +2,13 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Miel de Montagne
+> La scène française branchée sur courant alternatif\. Photo : Astral Bakers
 
-57 songs - 3 hr 4 min
+60 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [200 km/h](https://open.spotify.com/track/17UYpnAQnpJLBJCeg8YFUX) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [200 km/h](https://open.spotify.com/album/5xjwqRzTw2YqtxbthiC1JM) | 2:40 | 2023-10-12 |  |
 | [Aloha Baby](https://open.spotify.com/track/6U3pRWlzTqWbjBjBHfIvEI) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Aloha Baby](https://open.spotify.com/album/6AEcF9E1JgVy7J4U0UfpYh) | 6:05 | 2023-09-28 |  |
 | [Aspiration](https://open.spotify.com/track/7IXvqtnsBbJM7IEDQetR9b) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 3:02 | 2023-09-28 |  |
 | [Au Top](https://open.spotify.com/track/65QYWkPPVLsFj0pFGoLSSO) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G) | [Une Nouvelle Chance](https://open.spotify.com/album/2y0CqT7wxeJ4xXGEt9OpEl) | 2:59 | 2023-09-28 |  |
@@ -22,7 +23,8 @@
 | [Du Faux](https://open.spotify.com/track/5YA0jwcbbjL0bS4upsd5Kq) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Du Faux](https://open.spotify.com/album/30PG6zM9Qmvarc75N7c3Vp) | 2:34 | 2023-09-28 |  |
 | [dénudée](https://open.spotify.com/track/4dJo55UsW4gWpKkkRvRTy1) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [dénudée](https://open.spotify.com/album/3n2PoNjcnOX4QSTbZuitU2) | 2:11 | 2023-09-28 |  |
 | [Girlfriend](https://open.spotify.com/track/3BvnwJMDF3MxPVGSitA4f3) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [Encore](https://open.spotify.com/album/5g010EGj82UnGrOTxaHveU) | 2:43 | 2023-09-28 |  |
-| [It's Over](https://open.spotify.com/track/1ZpbVeGleNHviKOyPQhMkU) | [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj) | [Player Non Player](https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K) | 4:57 | 2023-09-28 |  |
+| [Idiot du quartier de lune](https://open.spotify.com/track/2rD3JBQh4lkVj0qvSbZzw0) | [Ian Caulfield](https://open.spotify.com/artist/4jcI2D2oUbSyQYB4isUZiz) | [Idiot du quartier de lune](https://open.spotify.com/album/6fig2z3viSXQIukDe36Hwo) | 3:21 | 2023-10-12 |  |
+| [It's Over](https://open.spotify.com/track/1ZpbVeGleNHviKOyPQhMkU) | [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj) | [Player Non Player](https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K) | 4:57 | 2023-09-28 | 2023-10-13 |
 | [J'ai plus peur](https://open.spotify.com/track/68Bx21Flk7AhI9PCnNI775) | [TOMASI](https://open.spotify.com/artist/54Bq5KQLmswXsQyh6kDSJ5), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Adulescent Fluorescent](https://open.spotify.com/album/7CN4CQaAH8OlV2vEFGNXhf) | 3:23 | 2023-09-28 |  |
 | [Jamais Je Ne Viens](https://open.spotify.com/track/5dSLiCcetFe3LGrnhbh9fZ) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Léon](https://open.spotify.com/album/48OOvBs7jVOAWitbHAQ9Ll) | 2:28 | 2023-09-28 | 2023-10-06 |
 | [Je cours](https://open.spotify.com/track/51Gt7yGGiV4wEH9C8YgwBd) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Je cours](https://open.spotify.com/album/4mjbfmCjIffHSLbZRqNWNf) | 2:57 | 2023-09-28 |  |
@@ -38,6 +40,7 @@
 | [Lunettes du style](https://open.spotify.com/track/22kQGWbD8Pq8tdG1PzorJQ) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [Lunettes du style](https://open.spotify.com/album/3UTwX4b6mg3wRf5qBl5wPN) | 3:35 | 2023-09-28 |  |
 | [madame](https://open.spotify.com/track/11mG8zAlXntqPSo3um9kZX) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [madame](https://open.spotify.com/album/01vzBMHu7LAeGT2Y3IQaYg) | 2:42 | 2023-09-28 |  |
 | [Mauvais Garçon](https://open.spotify.com/track/0b9cs1WibgvzNh6zIaljzw) | [Allo Christine](https://open.spotify.com/artist/0ycuoXwPh9pQpDebMV5Wg3) | [Mauvais Garçon](https://open.spotify.com/album/2xRuAm8VKXSMpbAjlqkCbW) | 2:51 | 2023-09-28 |  |
+| [mignon](https://open.spotify.com/track/532whyQUywJsT8tL5Jgkyz) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [mignon](https://open.spotify.com/album/2LPAGoujHArNcmK94Gll3r) | 2:23 | 2023-10-12 |  |
 | [New World](https://open.spotify.com/track/4j9XjA7cYOeX9KFKNk3WUz) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [New World](https://open.spotify.com/album/6MTwKUXoJ0zWO8H8bshzqy) | 3:14 | 2023-09-28 |  |
 | [Nobody's Wife](https://open.spotify.com/track/3b0XPLMM0anvaKPumGyDoW) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Nobody's Wife](https://open.spotify.com/album/0JGgXJR6ZJES8IQ1bYEg8W) | 3:39 | 2023-09-28 | 2023-10-06 |
 | [On Fait du Rock](https://open.spotify.com/track/3Y6MKj7jBrXqPve2DyoWqO) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [On Fait du Rock](https://open.spotify.com/album/2vAq1Kmv81GC3GfkSg9neE) | 4:13 | 2023-09-28 | 2023-10-06 |
@@ -49,14 +52,14 @@
 | [Radio](https://open.spotify.com/track/3XDbBLoiPf3NNR4DY1wMld) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [Radio](https://open.spotify.com/album/1nRoA7wDI7mraWdDMOteQ8) | 3:11 | 2023-09-28 |  |
 | [Radio](https://open.spotify.com/track/7t4TKQwffyxm6VjV8xUzdP) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Radio](https://open.spotify.com/album/4gjmcshJN2wyvrZZeIXO2M) | 2:50 | 2023-09-28 |  |
 | [Rage2](https://open.spotify.com/track/6FEa9mo6Qrd1v0u5rTUlZU) | [SÜEÜR](https://open.spotify.com/artist/124RVleRdpnGBCTjulr6rq) | [ANANKÉ](https://open.spotify.com/album/7sUul65XdFnWzyjbhI0tpd) | 3:02 | 2023-09-28 |  |
-| [Sans Cesse](https://open.spotify.com/track/2DLzUlHC6TY0JIri9c3Nd0) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Sans Cesse](https://open.spotify.com/album/5k9uPMU5VmYPDP3Zh5Iu1e) | 2:47 | 2023-09-28 |  |
+| [Sans Cesse](https://open.spotify.com/track/2DLzUlHC6TY0JIri9c3Nd0) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Sans Cesse](https://open.spotify.com/album/5k9uPMU5VmYPDP3Zh5Iu1e) | 2:47 | 2023-09-28 | 2023-10-13 |
 | [Serie A](https://open.spotify.com/track/0D3MTS7Ea2EgXy6O9Horqc) | [Th Da Freak](https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd) | [Serie A](https://open.spotify.com/album/6AQIcVtbI9gxFbRIKyr1i6) | 2:41 | 2023-09-28 |  |
 | [Shelter \- Edit](https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 4:26 | 2023-09-28 |  |
 | [Si j'avais su](https://open.spotify.com/track/6ZmquJRJGfeimrtQnLMQ64) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Si j'avais su](https://open.spotify.com/album/1NE8tgtqwz0hYV0q3PXf0i) | 3:41 | 2023-09-28 |  |
 | [STP Apaise toi](https://open.spotify.com/track/1JDY621fH5Ufd0y9AuCg59) | [Petit Fantôme](https://open.spotify.com/artist/3MUJ4wHF8z7MSoIfp1Tt1j), [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Stave II](https://open.spotify.com/album/4IwLrhUacdpFv13CSIEnZC) | 3:12 | 2023-10-05 |  |
 | [Strike](https://open.spotify.com/track/4GTA7LtqEO2b5kMT6EHfZ2) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Strike](https://open.spotify.com/album/7j2K75QimzNjpbc316cCxr) | 1:00 | 2023-10-05 |  |
 | [Superstar](https://open.spotify.com/track/4yeQykjmOJeVxxfEoyPfiA) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [DÉSORDRES](https://open.spotify.com/album/6TGZoFUFnus52OtEXSmDEd) | 3:01 | 2023-09-28 |  |
-| [Tes mains sales](https://open.spotify.com/track/0SlqPsiEli9P0SolyyaeIu) | [Ojos](https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE) | [Tes mains sales](https://open.spotify.com/album/1qHu35g9fesjTYiBQzL057) | 2:38 | 2023-09-28 |  |
+| [Tes mains sales](https://open.spotify.com/track/0SlqPsiEli9P0SolyyaeIu) | [Ojos](https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE) | [Tes mains sales](https://open.spotify.com/album/1qHu35g9fesjTYiBQzL057) | 2:38 | 2023-09-28 | 2023-10-13 |
 | [Une dernière fois](https://open.spotify.com/track/3FWo0LZdY98cNzlJ3vkBPO) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Bella Vita](https://open.spotify.com/album/1CUDj03p5bIJMthHyrqpYZ) | 3:07 | 2023-09-28 |  |
 | [Vampire](https://open.spotify.com/track/1NXaC1bu1eufFLpkqog2zw) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Le cœur qui cogne](https://open.spotify.com/album/4yQrejKybw0gsJ7W6k0Vmw) | 3:33 | 2023-09-28 |  |
 | [Vivre soit 2](https://open.spotify.com/track/3HQUQjYxybimuqzIdebnr9) | [Astéréotypie](https://open.spotify.com/artist/1bPIphq90zexFcnUA7qILm) | [Aucun mec ne ressemble à Brad Pitt dans la Drôme](https://open.spotify.com/album/1POjEAquHo8mTJZDuanBeF) | 2:51 | 2023-09-28 |  |

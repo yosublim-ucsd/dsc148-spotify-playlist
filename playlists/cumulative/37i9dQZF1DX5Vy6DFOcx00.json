@@ -3177,6 +3177,28 @@
     },
     {
       "album": {
+        "name": "Can't Play Myself (A Tribute To Amy)",
+        "url": "https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174330,
+      "name": "Can't Play Myself (A Tribute To Amy)",
+      "url": "https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp"
+    },
+    {
+      "album": {
         "name": "Capo",
         "url": "https://open.spotify.com/album/2WAAfdbV4y4qn6lHidoYaR"
       },
@@ -21151,6 +21173,24 @@
     },
     {
       "album": {
+        "name": "Wassup Gway",
+        "url": "https://open.spotify.com/album/0lBc6xsaXgtiFrcy103fEY"
+      },
+      "artists": [
+        {
+          "name": "FamousSally & YB",
+          "url": "https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144961,
+      "name": "Wassup Gway",
+      "url": "https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu"
+    },
+    {
+      "album": {
         "name": "Wassup Gwayy",
         "url": "https://open.spotify.com/album/1RlJJaItCwvPI1qkIfsJax"
       },
@@ -21162,7 +21202,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 144383,
       "name": "Wassup Gwayy",
       "url": "https://open.spotify.com/track/5CQ0tp4ZdSrzj2ev9yieVV"

@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,161 songs - 2 day 14 hr 23 min
+1,163 songs - 2 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-03-02 | 2023-03-28 |
 | [Can You Remember The Rain \- Sequence Remix](https://open.spotify.com/track/5wHBA7ROxraWgOBcMwVJ7P) | [Garrett Atterberry](https://open.spotify.com/artist/0KppDOsHTsrrm0zAfRzZcC) | [Melodramatic](https://open.spotify.com/album/5W9Qrru4JRDToERv3xxmX1) | 3:05 | 2023-07-20 |  |
 | [Can You Remember the Rain \- Sequence Remix](https://open.spotify.com/track/5jikmrFL7wzkaCvdUSePkB) | [Garrett Atterberry](https://open.spotify.com/artist/0KppDOsHTsrrm0zAfRzZcC) | [Melodramatic](https://open.spotify.com/album/68QwVLwpCilgbZorXibyd2) | 3:06 | 2023-02-21 | 2023-09-16 |
+| [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35) | 2:54 | 2023-10-12 |  |
 | [Capo](https://open.spotify.com/track/1vux5TJpXtc7tbjA1YODpp) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Capo](https://open.spotify.com/album/2WAAfdbV4y4qn6lHidoYaR) | 3:12 | 2022-08-10 | 2022-08-31 |
 | [Captain \(whistle\)](https://open.spotify.com/track/2GPh676erhgaOyMRmQNOc6) | [Nutcase22](https://open.spotify.com/artist/223shoqJ9oge1jE0QKyV1K) | [Captain \(whistle\)](https://open.spotify.com/album/32cbprgfOu2u1RoUzZ35mX) | 3:34 | 2022-01-30 | 2022-03-14 |
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2022-07-26 | 2022-12-14 |
@@ -1101,7 +1102,8 @@
 | [Walk Around](https://open.spotify.com/track/6WFW82dzsdevDzS2zAle04) | [Double A\-Ron](https://open.spotify.com/artist/4F2fO13keDtQ3zYtKpxlua), [Jdillon](https://open.spotify.com/artist/5eNYvtpRb5v6pA7cAj6EeT) | [Walk Around](https://open.spotify.com/album/6UUugVOt7WnPXz3Oy1357L) | 2:12 | 2022-06-17 | 2022-06-28 |
 | [Wannabe](https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe](https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1) | 3:37 | 2022-08-12 | 2022-11-14 |
 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 | 2023-09-06 | 2023-10-04 |
-| [Wassup Gwayy](https://open.spotify.com/track/5CQ0tp4ZdSrzj2ev9yieVV) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gwayy](https://open.spotify.com/album/1RlJJaItCwvPI1qkIfsJax) | 2:24 | 2023-09-26 |  |
+| [Wassup Gway](https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gway](https://open.spotify.com/album/0lBc6xsaXgtiFrcy103fEY) | 2:24 | 2023-10-12 |  |
+| [Wassup Gwayy](https://open.spotify.com/track/5CQ0tp4ZdSrzj2ev9yieVV) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gwayy](https://open.spotify.com/album/1RlJJaItCwvPI1qkIfsJax) | 2:24 | 2023-09-26 | 2023-10-13 |
 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 | 2022-11-01 | 2023-04-27 |
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-08 |  |
 | [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k) | 2:46 | 2023-07-20 | 2023-08-08 |

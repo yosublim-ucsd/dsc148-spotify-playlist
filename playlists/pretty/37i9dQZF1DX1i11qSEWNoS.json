@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 508862,
+  "num_followers": 509390,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTk5ZDY5OTRjMTk0MWE5ZjdmMjhhMWYzZGIxZGJhMTVjYjk5NGU2",
+  "snapshot_id": "MCxhNTNmMWI0MDAxNmU5ZTNiM2ViMDUzMTdlOWY2MGJhNmFjMGJmMTg5",
   "tracks": [
     {
       "added_at": "2023-10-03 11:57:51",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
+        "name": "Drugs From Amsterdam",
+        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 235785,
+      "name": "Drugs From Amsterdam",
+      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
         "name": "mietfrei",
         "url": "https://open.spotify.com/album/3MWijTaxJrKLKeY1VmcwyH"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 141026,
       "name": "mietfrei",
       "url": "https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
-        "name": "Drugs From Amsterdam",
-        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 235785,
-      "name": "Drugs From Amsterdam",
-      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184752,
-      "name": "Typa Girl",
-      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
         "name": "It's That Time",
         "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 240250,
       "name": "It's That Time",
       "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184752,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "Broker",
-        "url": "https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "Dauner",
-          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
-        }
-      ],
-      "duration_ms": 150877,
-      "name": "Broker",
-      "url": "https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
         "name": "About You Now (How I Feel)",
         "url": "https://open.spotify.com/album/4a22kWJ4n6KE7apkohVxKp"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 162352,
       "name": "About You Now (How I Feel)",
       "url": "https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
+        "name": "Broker",
+        "url": "https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
+        }
+      ],
+      "duration_ms": 150877,
+      "name": "Broker",
+      "url": "https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
+        "name": "33 Max Verstappen",
+        "url": "https://open.spotify.com/album/5ph3neJzadn49q1YxktC8V"
+      },
+      "artists": [
+        {
+          "name": "Carte Blanq",
+          "url": "https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o"
+        },
+        {
+          "name": "Maxx Power",
+          "url": "https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5"
+        }
+      ],
+      "duration_ms": 170390,
+      "name": "33 Max Verstappen",
+      "url": "https://open.spotify.com/track/4nKRZAONxGgcKCMin730Ai"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
         "name": "Rave Harder Techno Bass",
         "url": "https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe"
       },
@@ -1587,42 +1607,6 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "33 Max Verstappen",
-        "url": "https://open.spotify.com/album/5ph3neJzadn49q1YxktC8V"
-      },
-      "artists": [
-        {
-          "name": "Carte Blanq",
-          "url": "https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o"
-        },
-        {
-          "name": "Maxx Power",
-          "url": "https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5"
-        }
-      ],
-      "duration_ms": 170390,
-      "name": "33 Max Verstappen",
-      "url": "https://open.spotify.com/track/4nKRZAONxGgcKCMin730Ai"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
-        "name": "Next!",
-        "url": "https://open.spotify.com/album/3BKfDiq9KWSmbV7NHoCGlt"
-      },
-      "artists": [
-        {
-          "name": "Seeed",
-          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Ding",
-      "url": "https://open.spotify.com/track/5LH1z4ma2TN2aVeESXthj9"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
         "name": "I Can Feel",
         "url": "https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7"
       },
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
+        "name": "Next!",
+        "url": "https://open.spotify.com/album/3BKfDiq9KWSmbV7NHoCGlt"
+      },
+      "artists": [
+        {
+          "name": "Seeed",
+          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Ding",
+      "url": "https://open.spotify.com/track/5LH1z4ma2TN2aVeESXthj9"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
         "name": "Maneater",
         "url": "https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw"
       },
@@ -1663,66 +1663,6 @@
       "duration_ms": 154285,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
-        "name": "The Bad Touch 2k20",
-        "url": "https://open.spotify.com/album/66mM7VqKVfvV9dhZpj0Hat"
-      },
-      "artists": [
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
-        },
-        {
-          "name": "Empyre One",
-          "url": "https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22"
-        }
-      ],
-      "duration_ms": 160844,
-      "name": "The Bad Touch 2k20",
-      "url": "https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
-        "name": "Milkshake 20 (Alex Wann Remix)",
-        "url": "https://open.spotify.com/album/4B5VkayNwax1Z2ZDThsNt9"
-      },
-      "artists": [
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        },
-        {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
-        }
-      ],
-      "duration_ms": 176949,
-      "name": "Milkshake 20 - Alex Wann Remix",
-      "url": "https://open.spotify.com/track/39jBAaaSlgM9UdZBSKDd6F"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
-        "name": "Schei\u00df auf eure Party 2.0",
-        "url": "https://open.spotify.com/album/1MNjy6MEHcxJ5GzPt7Avte"
-      },
-      "artists": [
-        {
-          "name": "SIRA",
-          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
-        },
-        {
-          "name": "Ufo361",
-          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
-        }
-      ],
-      "duration_ms": 149458,
-      "name": "Schei\u00df auf eure Party 2.0",
-      "url": "https://open.spotify.com/track/5GkGYgozRCsEtaqLnBc2nz"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1747,6 +1687,46 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
+        "name": "Milkshake 20 (Alex Wann Remix)",
+        "url": "https://open.spotify.com/album/4B5VkayNwax1Z2ZDThsNt9"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        },
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        }
+      ],
+      "duration_ms": 176949,
+      "name": "Milkshake 20 - Alex Wann Remix",
+      "url": "https://open.spotify.com/track/39jBAaaSlgM9UdZBSKDd6F"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
+        "name": "The Bad Touch 2k20",
+        "url": "https://open.spotify.com/album/66mM7VqKVfvV9dhZpj0Hat"
+      },
+      "artists": [
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Empyre One",
+          "url": "https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22"
+        }
+      ],
+      "duration_ms": 160844,
+      "name": "The Bad Touch 2k20",
+      "url": "https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
         "name": "Ghetto Tekkno",
         "url": "https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 112000,
       "name": "Ghetto Tekkno",
       "url": "https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
+        "name": "Schei\u00df auf eure Party 2.0",
+        "url": "https://open.spotify.com/album/1MNjy6MEHcxJ5GzPt7Avte"
+      },
+      "artists": [
+        {
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        },
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        }
+      ],
+      "duration_ms": 149458,
+      "name": "Schei\u00df auf eure Party 2.0",
+      "url": "https://open.spotify.com/track/5GkGYgozRCsEtaqLnBc2nz"
     },
     {
       "added_at": "2023-10-03 11:57:51",

@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Grant Gilbert, Artwork: Fanélie Muselier
 
-1,930 songs - 4 day 8 hr 56 min
+1,931 songs - 4 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1455,7 +1455,7 @@
 | [Sleepless](https://open.spotify.com/track/7iJcazBT96Opg2Z4y5M3BS) | [On The Outside](https://open.spotify.com/artist/13Li6fzmLzxxOzMEIRr0TN) | [Sleepless](https://open.spotify.com/album/2hTBQXEgJgBg38wugiS9ev) | 3:20 | 2022-01-12 | 2022-01-27 |
 | [Sleeve](https://open.spotify.com/track/40OAMuxuJPssTKQ4gdU1JA) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Sleeve](https://open.spotify.com/album/23E0DdtttVfeD7n4W77FF9) | 4:21 | 2021-12-01 | 2022-01-13 |
 | [Slip Out The Side Door](https://open.spotify.com/track/6hwQvGjsaokUbQO5nvCIP6) | [Juna N Joey](https://open.spotify.com/artist/7sFEaRrD84U9n0GHI4CmO8) | [Slip Out The Side Door](https://open.spotify.com/album/5J75d4YfJe2u1JROLgrG7p) | 2:56 | 2023-03-15 | 2023-04-20 |
-| [Slow](https://open.spotify.com/track/1tnf4hRWvOWlGTaj6OqkHG) | [Caleb Seth](https://open.spotify.com/artist/5cspkc1oJf5HvR95jLFxtT) | [Slow](https://open.spotify.com/album/2Y6HMPNTxCmpJT7xw7rKXc) | 3:11 | 2023-10-11 |  |
+| [Slow](https://open.spotify.com/track/1tnf4hRWvOWlGTaj6OqkHG) | [Caleb Seth](https://open.spotify.com/artist/5cspkc1oJf5HvR95jLFxtT) | [Slow](https://open.spotify.com/album/2Y6HMPNTxCmpJT7xw7rKXc) | 3:11 | 2023-10-11 | 2023-10-13 |
 | [Slow](https://open.spotify.com/track/6RXYoYRAvIDlAlHwFO2ytj) | [LECADE](https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt) | [Slow](https://open.spotify.com/album/7FKTfpN6qcqlNqJ46UAUjT) | 3:08 | 2022-09-14 | 2023-01-12 |
 | [Slow Down](https://open.spotify.com/track/37cgzhQTxeh0qWnuE5y3iu) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Every Girl](https://open.spotify.com/album/6ojOP2oEJnDwTt7hpelt3Q) | 3:52 | 2022-06-08 | 2022-07-21 |
 | [Slow Down Fast](https://open.spotify.com/track/21JY7SzJaraL3XkyaAFqKU) | [Southburn](https://open.spotify.com/artist/56UcHVuitLdXwBIbeHIFMO) | [Slow Down Fast](https://open.spotify.com/album/2CPC1PxOuOWpGTCVNiSceD) | 2:51 | 2022-08-03 | 2022-09-15 |
@@ -1863,6 +1863,7 @@
 | [WILD SIDE](https://open.spotify.com/track/7ugOYbHC9OqaCi7w2z4uZs) | [Chase Baker](https://open.spotify.com/artist/1GG4ocPHFTAGheKNjFhAzb) | [WILD SIDE](https://open.spotify.com/album/6w0szMlwVCRodGDpt7ZjGn) | 3:06 | 2022-08-10 | 2022-09-22 |
 | [Wild West](https://open.spotify.com/track/3FIhBQpEGebgXTOFtWQCzZ) | [Nick Davisson](https://open.spotify.com/artist/1at890go0vxaofaRfn9Qfd) | [Wild West](https://open.spotify.com/album/6HDInScQ8RwZ2MtjlHi0da) | 3:02 | 2022-06-29 | 2022-07-28 |
 | [Wild Wind](https://open.spotify.com/track/72EbGRAdgdlTcn3vNGfqgG) | [Joey Hendricks](https://open.spotify.com/artist/3QhaBtqxJgyreg7CO1wjCV) | [Wild Wind](https://open.spotify.com/album/20BjnjLcpcDGhxTyzg9Ipz) | 2:54 | 2023-04-05 | 2023-05-18 |
+| [Wildfire](https://open.spotify.com/track/61AS0RfmxiG4zHHnNJFsNj) | [Caleb Seth](https://open.spotify.com/artist/5cspkc1oJf5HvR95jLFxtT) | [Wildfire](https://open.spotify.com/album/485IyzP2PbghME4bMS9LZs) | 2:35 | 2023-10-12 |  |
 | [Wildfire](https://open.spotify.com/track/6QxHoqMCbj7kJBm7X1Fcq2) | [Regan Rousseau](https://open.spotify.com/artist/7gf2EXVs0JygoHyrjxycOF) | [Wildfire](https://open.spotify.com/album/1TVos7I1A3tXzRRZk65nAG) | 2:52 | 2022-03-16 | 2022-04-27 |
 | [Wildflower](https://open.spotify.com/track/4PUoaexLqclUUi2PSyTeiz) | [Allie Colleen](https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas) | [Stones](https://open.spotify.com/album/2NTy5nb4T1Wix9Mo1tUw4U) | 4:05 | 2022-01-12 | 2022-01-27 |
 | [Wildflower](https://open.spotify.com/track/5MKQzYyrqdZz5d9TDhWhcU) | [Matt Roy](https://open.spotify.com/artist/00hgDE113euRrneQug8LV7) | [Wildflower EP](https://open.spotify.com/album/2tb87bX13nVaN875CfpLLY) | 3:43 | 2022-03-02 | 2022-04-14 |

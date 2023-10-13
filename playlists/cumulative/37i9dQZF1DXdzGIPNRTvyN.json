@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 194797,
       "name": "Fri\u00f0ur",
       "url": "https://open.spotify.com/track/1rkmSbMTJ4kSNed9O4YwSt"
@@ -1316,6 +1316,24 @@
       "duration_ms": 178460,
       "name": "Lily's Arrival",
       "url": "https://open.spotify.com/track/0KdOX4bbKodh8fWhbUgRLe"
+    },
+    {
+      "album": {
+        "name": "Little Creek",
+        "url": "https://open.spotify.com/album/2JrZeRYzlInaQwWbbkU3ZB"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169958,
+      "name": "Little Creek",
+      "url": "https://open.spotify.com/track/243ZkbrvYLMB7i1ni3sxlo"
     },
     {
       "album": {

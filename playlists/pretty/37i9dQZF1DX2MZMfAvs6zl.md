@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MZMfAvs6zl.md) - [plain]
 
 > South African rising star <a href="spotify:artist:0fs9otT9TtwXUOcFXZomZY">Caiiro</a> perfectly blends together the rhythmic beats from his home country with emotional melodies in his latest mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,751 likes - 9 songs - 54 min 50 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,769 likes - 9 songs - 54 min 50 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MZMfAvs6zl.md) - [plain]
 | 8 | [Nkolwa \- Caiiro Remix \- Mixed](https://open.spotify.com/track/2LusAwunrsUlicW1m7jtWk) | [Kyaku Kyadaff](https://open.spotify.com/artist/1oCj9jg6Vy4kaCrDpMLvg9), [Homeboyz](https://open.spotify.com/artist/3L5iHIeqJGEaYViGapHs0C), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY) | [Nkolwa \- Caiiro Remix \(Mixed\)](https://open.spotify.com/album/070hRKt6ZCxe7Ub9jOq21O) | 6:08 |
 | 9 | [Body Resonance \- MoBlack Remix \- Mixed](https://open.spotify.com/track/0Je8Oex0Rt6HMJGn6IjoNQ) | [Pastaboys](https://open.spotify.com/artist/3e2yTUnzQ3S3lITAt0Er1l), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Body Resonance \- MoBlack Remix \(Mixed\)](https://open.spotify.com/album/4KGAPCwrUCnOK07mXiw6vL) | 7:38 |
 
-Snapshot ID: `MCxhMDFkMzRjMmIyNjdjOWYzYmZjNTFkNjQzNjQ5OTMyNDQzYTU0ZGUz`
+Snapshot ID: `MCw1MWE4M2Q5YjMyN2IxMTE2ZjVkMWZiMGJlYjgyMjNjNjhkNzFmZGRk`

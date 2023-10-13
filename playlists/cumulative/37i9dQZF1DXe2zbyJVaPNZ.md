@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-185 songs - 12 hr 12 min
+187 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Lakey Kong](https://open.spotify.com/track/0IGktAavgQwK4vrVF8Pnz5) | [Bengalfuel](https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl) | [Reidy](https://open.spotify.com/album/7wHYNxnEhPwgvdnda1yIcq) | 10:05 | 2022-08-05 | 2023-08-19 |
 | [Lapsing](https://open.spotify.com/track/3Bp2uDUuNqTN75L24ajiJt) | [Pausal](https://open.spotify.com/artist/1lzjZxbBabBWnSO2s3Wuax) | [Lapses](https://open.spotify.com/album/5wmrhW0j9zNod1LG9AaJWt) | 7:15 | 2022-08-05 | 2023-03-25 |
 | [Lazy Day](https://open.spotify.com/track/5UKNlerIjVt1DKTFvVuCsv) | [Le Code](https://open.spotify.com/artist/5w7nuCjDmpoz2mcdM8RsOQ) | [Lazy Day](https://open.spotify.com/album/2tUw2L7aIETEh9UegbTLwS) | 3:48 | 2023-07-07 |  |
+| [Leading Light](https://open.spotify.com/track/36M8Y3KGOqj9VutRdQ12oE) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Leading Light](https://open.spotify.com/album/0S30lEmZbJzxzJuSnn83OR) | 3:33 | 2023-10-13 |  |
 | [Looking You In Silence](https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 2:24 | 2022-08-05 |  |
 | [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/track/3nWcjWALonQpDBsyRP5725) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/album/3N4fmmPCO3Vh6QTKCiDyob) | 5:08 | 2022-08-05 |  |
 | [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/track/1H0BgYKS69p9fITJ4vWrXF) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [An Introduction to Hammock](https://open.spotify.com/album/6rixSK0uFTufD1gXvnB9ir) | 5:10 | 2022-10-14 | 2022-11-14 |
@@ -136,6 +137,7 @@
 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 | 2022-08-05 |  |
 | [Poilsis](https://open.spotify.com/track/3eiTRMQP5e5zE5InM2jkUR) | [Nojus Lanka](https://open.spotify.com/artist/5P5HAmVeVOaNVcGMQpoWgY) | [Poilsis](https://open.spotify.com/album/1joObn066X6m5c1GyBRLTa) | 2:40 | 2023-01-20 |  |
 | [Pre\-Dawn Landscape](https://open.spotify.com/track/1xm9Oaljikz6usiy1q9l8R) | [Matthew Puffett](https://open.spotify.com/artist/2QG2J0BOBUk48yz0VSzcho) | [Pre\-Dawn Landscape](https://open.spotify.com/album/60CF637xGSKzMEKV410eKB) | 4:27 | 2022-08-05 |  |
+| [Protect Your Soul](https://open.spotify.com/track/6R4Gy59aFE9fg8NOTJ5Ndg) | [Natural Space](https://open.spotify.com/artist/6kBh9KP21Uw1fbnq1oY9Nz), [Nazibrola](https://open.spotify.com/artist/6IIKAH6Oj6znfZZC0JsnUj), [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Protect Your Soul](https://open.spotify.com/album/4ee4vOZ7YFEWfRYLPCtwSS) | 2:25 | 2023-10-13 |  |
 | [Radiance](https://open.spotify.com/track/4JFYMHunnBTjBXdluGP815) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [zakè](https://open.spotify.com/album/3r6FE0ZrYm1jOEEpd7GJLF) | 5:32 | 2022-08-19 |  |
 | [Randy River](https://open.spotify.com/track/6AlfFyRWQ4KUWpr4eKr4VY) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Randy River](https://open.spotify.com/album/22fdx9g5H3XLCOwRcrln8N) | 3:28 | 2022-10-14 |  |
 | [Rebalancing in 528 Hz](https://open.spotify.com/track/0NPCFnX2TkQSYrOi5v9xhQ) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Rebalancing in 528 Hz](https://open.spotify.com/album/2yinRx0UEk2X5OgCOBSXhI) | 3:11 | 2022-11-22 |  |

@@ -4,7 +4,7 @@
 
 > DJ Bullet takes over Haitian Heat for Miami Carnival 2023.
 
-239 songs - 14 hr 22 min
+239 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Can't Catch Me](https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Can't Catch Me](https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK) | 3:49 | 2021-12-06 | 2023-09-25 |
 | [Cashapp Cashapp Zelle](https://open.spotify.com/track/6joLh6fVXL9vYwnUZosrnu) | [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [Cashapp Cashapp Zelle](https://open.spotify.com/album/7dcwRgnRPQQo65y30WEdQo) | 1:01 | 2023-09-24 |  |
 | [Chasing Amy](https://open.spotify.com/track/3KSQ1BjRT0T4dnu6Z7UL8c) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [Before I Spill Myself](https://open.spotify.com/album/3AK7VAPf2hnnLMpITKokgq) | 4:08 | 2021-12-06 | 2023-02-18 |
+| [Cliffone](https://open.spotify.com/track/6Zi9DIVY8J84zsAJlPehdz) | [Ti Mari](https://open.spotify.com/artist/5KctvKCUAgtZDV6G7vneeF) | [Cliffone](https://open.spotify.com/album/4vRyEW3OV9rfhbpi3kWCDC) | 2:40 | 2023-09-24 |  |
 | [Clueless \(with Oxlade\)](https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Clueless \(with Oxlade\)](https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54) | 2:44 | 2023-02-17 | 2023-09-25 |
 | [Come to My Bedroom](https://open.spotify.com/track/5fnGy4kjvO08yxiFkVt1bG) | [JHK No AKA](https://open.spotify.com/artist/2jrzJQBx9kjJJpAJwKFT5A), [Meza45](https://open.spotify.com/artist/55PvXIRqh23ng6LNpKDoUk) | [Come to My Bedroom](https://open.spotify.com/album/2vYwjJsZHvUDwfiAXS8LP9) | 2:21 | 2023-08-18 | 2023-09-25 |
 | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg) | 2:25 | 2023-08-18 | 2023-09-25 |
@@ -62,7 +63,6 @@
 | [Designa](https://open.spotify.com/track/7d3wIcVooCbZ02cUlhNrZR) | [Gio\-K](https://open.spotify.com/artist/7cnGhb65N4hiSdJ2QWdGxI), [Egar Boi](https://open.spotify.com/artist/5BgxilmpjhmqEFKqoQnmIV) | [Designa](https://open.spotify.com/album/5SqfQYstMm4D1xi8qVDXt0) | 2:35 | 2021-12-06 | 2023-02-18 |
 | [Destemperado](https://open.spotify.com/track/6wg23d1pHboNW9vsmuIEpc) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Melanin](https://open.spotify.com/album/6Mj7wkPDHPr6OV4mDZCUsp) | 2:28 | 2021-12-06 | 2022-05-02 |
 | [Destine](https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk), [Jmd Tunes](https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj) | [Destine](https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2) | 3:31 | 2021-12-06 | 2023-09-25 |
-| [Diaspora](https://open.spotify.com/track/6Zi9DIVY8J84zsAJlPehdz) | [Loji Baby](https://open.spotify.com/artist/44uFXLOiAcaPs3H3E2vnAg) | [Diaspora](https://open.spotify.com/album/4vRyEW3OV9rfhbpi3kWCDC) | 3:43 | 2023-09-24 |  |
 | [Djambo \- Gardy Girault Remix](https://open.spotify.com/track/2xDLz3zfFNUg2r7b0cCXzr) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI), [Gardy Girault](https://open.spotify.com/artist/0t3dfH6tVRLJFu1fz6z0Gb) | [Djambo Remixes](https://open.spotify.com/album/3semgKizfNk6uINata3Ugu) | 6:34 | 2021-12-06 | 2022-05-13 |
 | [Dlo Dous](https://open.spotify.com/track/092nVwXDBvlff4H9p71rOh) | [Zafem](https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9) | [LAS](https://open.spotify.com/album/72xQw0tZDwDDl1uQ6ixpo7) | 5:13 | 2023-05-08 | 2023-07-14 |
 | [Dlo Dous](https://open.spotify.com/track/0JnnQ2ONBFYcPl451tyIHM) | [Zafem](https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9) | [LAS](https://open.spotify.com/album/15L1z6E5DX2PIX62oy36k9) | 5:13 | 2023-06-09 | 2023-07-21 |

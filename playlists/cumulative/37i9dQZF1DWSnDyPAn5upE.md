@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-166 songs - 12 hr 50 min
+167 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Fields of Grass](https://open.spotify.com/track/6PpVxPdzjB8D5OAZcmTCDz) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Fields of Grass](https://open.spotify.com/album/2J9IHhS5cC7CeW2bY5fsZL) | 4:25 | 2022-05-18 | 2022-07-27 |
 | [Fields of Grass](https://open.spotify.com/track/727SGrQuPMEECEmnpisZVC) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 4:25 | 2022-07-01 |  |
 | [For You I Am Missing …](https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Ana Stamp](https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH) | [There Up, Behind The Moon](https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m) | 3:18 | 2022-05-18 |  |
+| [forever](https://open.spotify.com/track/75RuDOLRx4KOukzYLa4y4R) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [forever](https://open.spotify.com/album/1BoW6TARHPohhSmAcYq0tv) | 2:30 | 2023-10-12 |  |
 | [Forward](https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Forward / Wreck Dive](https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN) | 3:16 | 2022-07-01 |  |
 | [Fountain \(ars amatoria\)](https://open.spotify.com/track/4tuK95S2K07yPnMYJiMnlH) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Vessel](https://open.spotify.com/artist/3CVP7vT9JUFGLj8MgiVKjY) | [Fountain \(ars amatoria\)](https://open.spotify.com/album/0hGiFp2Ac0VzhFDQCodUFG) | 7:27 | 2022-05-18 | 2023-01-07 |
 | [From the Sea](https://open.spotify.com/track/0oscyoMaLrUVmAWCeevHig) | [Serena Gabriel](https://open.spotify.com/artist/5BqR7OV66mbFIr0yxJqsSR), [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Seeing Inside](https://open.spotify.com/album/5DpwvMHLe0PK3XfNMYYyRF) | 11:47 | 2022-05-18 |  |
@@ -104,7 +105,7 @@
 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 | 2022-05-18 |  |
 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 | 2022-05-18 |  |
 | [Lullaby for the Newborn](https://open.spotify.com/track/4KgYBHkIZpuI7KQBUfza8A) | [Sonja Tofik](https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3) | [Anomi](https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV) | 2:00 | 2022-05-18 | 2022-07-28 |
-| [Lämpö](https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Dalmarnock Tapes](https://open.spotify.com/album/6ZAGUwp9bVhe13qoXrNqA7) | 5:14 | 2022-05-18 |  |
+| [Lämpö](https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Dalmarnock Tapes](https://open.spotify.com/album/6ZAGUwp9bVhe13qoXrNqA7) | 5:14 | 2022-05-18 | 2023-10-13 |
 | [Magnolia](https://open.spotify.com/track/1d3wIYlKXUUylvCkIkbzXW) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig), [Scandinavian Star](https://open.spotify.com/artist/0IHVd7aU0SzB7t0HDiCWsp), [Alto Aria](https://open.spotify.com/artist/2fKzX6tkABWKK5MnXizpSR) | [Spring Snow](https://open.spotify.com/album/3l3DeVnMAOtSLZKSjLzJay) | 4:44 | 2022-05-18 | 2023-06-16 |
 | [melting cups](https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj) | [Aphir](https://open.spotify.com/artist/5FjAJK7JsaOahbaAwIxtE4) | [plastichoir](https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2) | 3:10 | 2022-05-18 |  |
 | [Mirror](https://open.spotify.com/track/57R08VnhqGxJ9gQibB9ARS) | [Umitaro Abe](https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b), [Kaori Takeda](https://open.spotify.com/artist/7eXYitpmnte1BBdZZsmuHk) | [Mirror](https://open.spotify.com/album/4dgEPvuxoOfoyciOzTiQQj) | 2:01 | 2023-08-31 |  |

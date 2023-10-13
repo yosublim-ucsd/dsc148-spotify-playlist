@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-326 songs - 18 hr 47 min
+327 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Amor Papaya en Invierno](https://open.spotify.com/track/4TZ0kv6Elbb4cTsoNXxBZJ) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Amor Papaya](https://open.spotify.com/album/4SedZWefA0qnDU6mnDiXI6) | 3:25 | 2022-04-07 | 2022-10-28 |
 | [Amor Sensible](https://open.spotify.com/track/4ERDIJmue9ZZY4nOdNZ7KR) | [Chabuco](https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl) | [Encuentro](https://open.spotify.com/album/5dMx0NVZdoTtrdVprK7gSz) | 3:11 | 2021-12-09 | 2022-07-29 |
 | [Amsterdam \- Versión En Español](https://open.spotify.com/track/5mGLoYLnMe0LpEOSIPLSpv) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Ventura \(Extended\)](https://open.spotify.com/album/6zmVEzMyhSJCqggKxTtFJY) | 3:57 | 2021-12-09 | 2022-03-22 |
-| [Amá](https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [Amá](https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ) | 2:56 | 2021-12-09 |  |
+| [Amá](https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [Amá](https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ) | 2:56 | 2021-12-09 | 2023-10-13 |
 | [Antes De Verte \(with Kevin Johansen\)](https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:54 | 2021-12-09 | 2022-10-28 |
 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 | 2021-12-09 |  |
 | [Aquí Vinimos \- El Que Busca Mix](https://open.spotify.com/track/4XYDvFGIzgCg3QGqpwB1I8) | [Cheo & Ulises Hadjis](https://open.spotify.com/artist/7IKuQRkkcfoycYLQVDGLpg) | [Aquí Vinimos \(El Que Busca Mix\)](https://open.spotify.com/album/4pCn6UMCYtGWObf3x9vBp6) | 2:30 | 2022-04-07 | 2022-04-21 |
@@ -68,6 +68,7 @@
 | [Caney](https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Caney](https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc) | 3:50 | 2022-04-07 | 2022-09-22 |
 | [Capulí](https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Capulí](https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA) | 3:22 | 2021-12-09 |  |
 | [Cardenalito](https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:32 | 2022-08-08 | 2023-09-29 |
+| [Cardenalito](https://open.spotify.com/track/6ZfPILRSg3V9jM8yH1V8xc) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciseis](https://open.spotify.com/album/4zLZDzFqhK8fY9V5PpfPPG) | 3:32 | 2023-09-01 |  |
 | [Carmesí](https://open.spotify.com/track/5VjpI5RsDja4HFsh8gW2bP) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Carmesí](https://open.spotify.com/album/6pK2ZkchdNLYjVZhcBzHRL) | 3:01 | 2021-12-09 | 2022-07-29 |
 | [Carnaval](https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:02 | 2021-12-09 |  |
 | [Cartagena](https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc), [Melo Gía](https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU) | [Cartagena](https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9) | 3:41 | 2021-12-09 |  |

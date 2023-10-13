@@ -859,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Good bye-bye",
+        "url": "https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq"
+      },
+      "artists": [
+        {
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201137,
+      "name": "Good bye-bye",
+      "url": "https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3"
+    },
+    {
+      "album": {
         "name": "Gradation",
         "url": "https://open.spotify.com/album/5woBgrQYG6UZZ84NVaKtXw"
       },
@@ -892,6 +910,24 @@
       "duration_ms": 188093,
       "name": "GRL GVNG",
       "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
+    },
+    {
+      "album": {
+        "name": "Hana",
+        "url": "https://open.spotify.com/album/0v6vQ9tMopUTccn0wUvzQD"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246699,
+      "name": "Hana",
+      "url": "https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh"
     },
     {
       "album": {
@@ -942,7 +978,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 257000,
       "name": "Hyper",
       "url": "https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW"
@@ -1138,6 +1174,28 @@
       "duration_ms": 190460,
       "name": "Koinu no Carnival -From \"Minute Waltz\"-",
       "url": "https://open.spotify.com/track/3OP9la2QTA5artehqjFJCp"
+    },
+    {
+      "album": {
+        "name": "KUNOICHI",
+        "url": "https://open.spotify.com/album/1pVKX4UnCrRGGvwth0FyOI"
+      },
+      "artists": [
+        {
+          "name": "BURNOUT SYNDROMES",
+          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
+        },
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219728,
+      "name": "KUNOICHI",
+      "url": "https://open.spotify.com/track/54oSb0hs2lyn13ZanbVUkW"
     },
     {
       "album": {
@@ -1962,7 +2020,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 128000,
       "name": "Pichi Pichi",
       "url": "https://open.spotify.com/track/6yU5OWl6JcErMP4gFqqFKr"
@@ -2774,7 +2832,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 239070,
       "name": "Workin' Hard",
       "url": "https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH"
@@ -4054,7 +4112,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 275212,
       "name": "\u91d1\u6728\u7280",
       "url": "https://open.spotify.com/track/6lJ31xE2jGeRqapTygwRGm"
@@ -4098,6 +4156,24 @@
       "duration_ms": 183692,
       "name": "\u98db\u5929",
       "url": "https://open.spotify.com/track/6MId4xKGdUNhndCtpZC4Bl"
+    },
+    {
+      "album": {
+        "name": "\u98df\u5353",
+        "url": "https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206107,
+      "name": "\u98df\u5353",
+      "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9ww9tisjowN"

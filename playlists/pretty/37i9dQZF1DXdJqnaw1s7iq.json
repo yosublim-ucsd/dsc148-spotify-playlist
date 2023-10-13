@@ -1,12 +1,12 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 24271,
+  "num_followers": 24481,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODM4NWUyNGUzZGJjOTdmMGM5NTYwYTI4OTJmYjExZTAzZmEwMDMz",
+  "snapshot_id": "MCw2YWVhNzBmMzlmZGU1MjkzNmZlMzliNDk1MDAxN2ZlYjBhYWRiMjc5",
   "tracks": [
     {
       "added_at": "2023-05-17 20:35:57",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Sylvan Esso",
-        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Hey Mami",
-      "url": "https://open.spotify.com/track/7bp7QInQ5uIMzYjJqTtjVA"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Seconds",
         "url": "https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "It's the Arps",
-        "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
+        "name": "Sylvan Esso",
+        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
       },
       "artists": [
         {
-          "name": "Todd Terje",
-          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
         }
       ],
-      "duration_ms": 400751,
-      "name": "Inspector Norse",
-      "url": "https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T"
+      "duration_ms": 200160,
+      "name": "Hey Mami",
+      "url": "https://open.spotify.com/track/7bp7QInQ5uIMzYjJqTtjVA"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -723,6 +707,22 @@
       "duration_ms": 148706,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "It's the Arps",
+        "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
+      },
+      "artists": [
+        {
+          "name": "Todd Terje",
+          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
+        }
+      ],
+      "duration_ms": 400751,
+      "name": "Inspector Norse",
+      "url": "https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "Merriweather Post Pavilion",
+        "url": "https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 340786,
+      "name": "My Girls",
+      "url": "https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "New Energy",
         "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 253080,
       "name": "Jasmine - Demo",
       "url": "https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "Merriweather Post Pavilion",
-        "url": "https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 340786,
-      "name": "My Girls",
-      "url": "https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "In A Space Outta Sound",
-        "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 324173,
-      "name": "Flip Ya Lid",
-      "url": "https://open.spotify.com/track/6qb76Rj7bFYI4ZafAYlH96"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
@@ -919,26 +903,6 @@
       "duration_ms": 224973,
       "name": "Fences",
       "url": "https://open.spotify.com/track/3f4AG90lRsmrpY3D0GsXat"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "Black Sands",
-        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 284800,
-      "name": "Stay The Same",
-      "url": "https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -963,18 +927,38 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "DJ-KiCKS (Wolf + Lamb vs Soul Clap) [DJ Mix]",
-        "url": "https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW"
+        "name": "In A Space Outta Sound",
+        "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
       },
       "artists": [
         {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
         }
       ],
-      "duration_ms": 117967,
-      "name": "Can't See What Is Burning There - Mixed",
-      "url": "https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK"
+      "duration_ms": 324173,
+      "name": "Flip Ya Lid",
+      "url": "https://open.spotify.com/track/6qb76Rj7bFYI4ZafAYlH96"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Black Sands",
+        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Stay The Same",
+      "url": "https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -995,6 +979,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "DJ-KiCKS (Wolf + Lamb vs Soul Clap) [DJ Mix]",
+        "url": "https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        }
+      ],
+      "duration_ms": 117967,
+      "name": "Can't See What Is Burning There - Mixed",
+      "url": "https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "TAPE TWO",
         "url": "https://open.spotify.com/album/7ACFIbsrhepZRIbKnRzxjy"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 222792,
       "name": "I Heard",
       "url": "https://open.spotify.com/track/3zgptmNsfqy1JscBOebsYJ"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Tremors",
+        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
+      },
+      "artists": [
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "duration_ms": 233017,
+      "name": "The Wheel",
+      "url": "https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1047,22 +1063,6 @@
       "duration_ms": 253584,
       "name": "Warm Water - Snakehips Remix",
       "url": "https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "Tremors",
-        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
-      },
-      "artists": [
-        {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
-        }
-      ],
-      "duration_ms": 233017,
-      "name": "The Wheel",
-      "url": "https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "obedear",
+      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "Love What Survives",
         "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 91010,
       "name": "While You Doooo",
       "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209573,
-      "name": "obedear",
-      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Someday Somewhere",
-        "url": "https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        }
-      ],
-      "duration_ms": 196546,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/3GGg9FWBlAjrAvC16kazer"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Underwaterfall",
         "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 260064,
       "name": "Underwaterfall",
       "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Someday Somewhere",
+        "url": "https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 196546,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/3GGg9FWBlAjrAvC16kazer"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/5ulxwV032s3dUxd1sXLxm0"
-      },
-      "artists": [
-        {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        }
-      ],
-      "duration_ms": 385986,
-      "name": "Don't Call It Love - 12\" Version",
-      "url": "https://open.spotify.com/track/2ikT7zgIJYBcpchNseRmka"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Helios",
         "url": "https://open.spotify.com/album/5K3ZZRtBqotmlCWFwZbX4S"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 198315,
       "name": "Helios",
       "url": "https://open.spotify.com/track/5xQkY7ia30xE1rLnHSblKI"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/5ulxwV032s3dUxd1sXLxm0"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        }
+      ],
+      "duration_ms": 385986,
+      "name": "Don't Call It Love - 12\" Version",
+      "url": "https://open.spotify.com/track/2ikT7zgIJYBcpchNseRmka"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "MOVEMENT",
+        "url": "https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck"
+      },
+      "artists": [
+        {
+          "name": "MOVEMENT",
+          "url": "https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX"
+        }
+      ],
+      "duration_ms": 222339,
+      "name": "Ivory",
+      "url": "https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "Genesis Series",
         "url": "https://open.spotify.com/album/1X4yodq8QzdlHOf2EgwhWU"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 230720,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/1NB0VPwAw6Rx8b9qvDKB5M"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 196052,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/2ru82sMlycieEodGcKyszh"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1575,18 +1575,34 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "MOVEMENT",
-        "url": "https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck"
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
       },
       "artists": [
         {
-          "name": "MOVEMENT",
-          "url": "https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 222339,
-      "name": "Ivory",
-      "url": "https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj"
+      "duration_ms": 196052,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/2ru82sMlycieEodGcKyszh"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Escapism",
+        "url": "https://open.spotify.com/album/7GoQwmBYFCOPSdOOp8OUds"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 219474,
+      "name": "LONG DISTANCE",
+      "url": "https://open.spotify.com/track/6ih6vYggeYPomAbJupA4hA"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Escapism",
-        "url": "https://open.spotify.com/album/7GoQwmBYFCOPSdOOp8OUds"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 219474,
-      "name": "LONG DISTANCE",
-      "url": "https://open.spotify.com/track/6ih6vYggeYPomAbJupA4hA"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Love What Survives",
         "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
       },
@@ -1639,22 +1639,6 @@
       "duration_ms": 152931,
       "name": "SP12 Beat",
       "url": "https://open.spotify.com/track/2ouEiUmToYQClbXbSIF2T2"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "Hunch Music",
-        "url": "https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV"
-      },
-      "artists": [
-        {
-          "name": "Hunee",
-          "url": "https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy"
-        }
-      ],
-      "duration_ms": 351207,
-      "name": "Rare Happiness",
-      "url": "https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1675,6 +1659,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "Hunch Music",
+        "url": "https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV"
+      },
+      "artists": [
+        {
+          "name": "Hunee",
+          "url": "https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy"
+        }
+      ],
+      "duration_ms": 351207,
+      "name": "Rare Happiness",
+      "url": "https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "Dual",
         "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
       },
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Electric Lines (Bonus Edition)",
-        "url": "https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6"
+        "name": "Weval",
+        "url": "https://open.spotify.com/album/51zkn8CSA5Tx2wKaGpl9ci"
       },
       "artists": [
         {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
         }
       ],
-      "duration_ms": 239076,
-      "name": "Truth Is Light",
-      "url": "https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF"
+      "duration_ms": 140733,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/0aCRmuAglOL2ckmyXfG7Oh"
     }
   ],
   "unique_name": "voltage",

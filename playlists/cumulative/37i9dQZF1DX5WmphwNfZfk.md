@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: SadBoi
 
-1,402 songs - 2 day 23 hr 40 min
+1,403 songs - 2 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,7 +355,8 @@
 | [Driving Around](https://open.spotify.com/track/0UskdLSFEqspr1gMKADP27) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Driving Around](https://open.spotify.com/album/5qOU27Kapl0stO8FTbgClv) | 3:48 | 2022-08-05 | 2022-09-03 |
 | [drugs are for fun](https://open.spotify.com/track/3EAPXckxzS63OgxbDgaAZz) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [drugs are for fun](https://open.spotify.com/album/7IhqRJzrwITx7QCXzYitzT) | 2:22 | 2022-08-05 | 2022-09-03 |
 | [Dwayne Carter Flow](https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [Dwayne Carter Flow](https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d) | 2:10 | 2022-06-03 | 2022-07-02 |
-| [Débloquer](https://open.spotify.com/track/0nbMa3ZHOLlgb2IJPsGFCt) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/3gwKFYmiUvCxCUP5lRLHF5) | 3:27 | 2023-10-05 |  |
+| [Débloquer](https://open.spotify.com/track/0nbMa3ZHOLlgb2IJPsGFCt) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/3gwKFYmiUvCxCUP5lRLHF5) | 3:27 | 2023-10-05 | 2023-10-13 |
+| [Débloquer](https://open.spotify.com/track/2EwkmMArSs5Qxb6Tus0r4A) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/0nLznb2oEE0QTEpYciNEoU) | 3:27 | 2023-10-06 |  |
 | [détours](https://open.spotify.com/track/6i3q4BXaN42wQ4JdcUUxr6) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [détours](https://open.spotify.com/album/2gdBJRe6IHRlwWLeBY6XYY) | 2:40 | 2023-10-05 |  |
 | [Earth, Wind & Fire](https://open.spotify.com/track/4IO7F7UsuktRmQiAl9PoTc) | [RUNXGUN](https://open.spotify.com/artist/4o5J4GkzULwVnupOfcmRPI), [Roshin](https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig) | [Earth, Wind & Fire](https://open.spotify.com/album/4yUM68qkDkpZvGqgLCtqe2) | 2:55 | 2022-05-06 | 2022-06-04 |
 | [Ease Up](https://open.spotify.com/track/1d0VSJ4PYFLpL3VotFZlvd) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Ease Up](https://open.spotify.com/album/4lBx85O8VzOndNvAWBnzKe) | 2:56 | 2022-07-01 | 2022-08-06 |

@@ -2119,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Dancing with Taylor",
+        "url": "https://open.spotify.com/album/4bLhdFsywgLO3Hup4H4Qan"
+      },
+      "artists": [
+        {
+          "name": "Venus Bay",
+          "url": "https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181646,
+      "name": "Dancing with Taylor",
+      "url": "https://open.spotify.com/track/36PqpImKv4HV6ueNoR0o9s"
+    },
+    {
+      "album": {
         "name": "Raincaller",
         "url": "https://open.spotify.com/album/0ZHvIq9zoftFWPbBeRpgVc"
       },
@@ -5234,7 +5252,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 171731,
       "name": "Marilyn",
       "url": "https://open.spotify.com/track/6PiyVPRpo96Qn9xxyjmbSe"

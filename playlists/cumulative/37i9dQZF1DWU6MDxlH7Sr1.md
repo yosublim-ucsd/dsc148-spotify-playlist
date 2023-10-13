@@ -4,13 +4,14 @@
 
 > Soft Jazz in the background of your cocktail party.
 
-290 songs - 18 hr 46 min
+291 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Certain Smile](https://open.spotify.com/track/4ln4s0kVCZyH0lK6MioPYk) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [A Certain Smile](https://open.spotify.com/album/40ynWeqMktudTHSlnMBmsS) | 3:50 | 2023-04-13 |  |
 | [A Future With You](https://open.spotify.com/track/0iIxcgkANZfp1Mk4Es1OUw) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [A Future With You](https://open.spotify.com/album/6BQydkNHQgsSwEhsFm1YUf) | 3:05 | 2022-09-13 | 2023-02-17 |
 | [A Life Remembered](https://open.spotify.com/track/1Z2syyXirlJMUq8NRh6r3t) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [A Life Remembered](https://open.spotify.com/album/787bxoPDOcR9LASFyyWlHA) | 2:56 | 2022-05-10 | 2023-01-06 |
+| [A Long Day](https://open.spotify.com/track/0G9w3EodK2pcqKhzB7KpN8) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [A Long Day](https://open.spotify.com/album/1NNC5s9uAgPIHxwi7VlvBs) | 2:48 | 2023-10-13 |  |
 | [A Lucky Break](https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Lucky Break](https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d) | 3:09 | 2023-04-13 |  |
 | [A Train to Cannes](https://open.spotify.com/track/4Gh6qRN0GWET3KFx6lIkzF) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [A Train to Cannes](https://open.spotify.com/album/7I75eKv2H6qCe26EFS5dsj) | 2:34 | 2023-01-05 |  |
 | [Adrift](https://open.spotify.com/track/1bMvqBFGPYsNVRCxYFUkRu) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Adrift](https://open.spotify.com/album/1xbQp1I63p3105CriGuV6n) | 3:46 | 2022-12-22 |  |
@@ -179,7 +180,7 @@
 | [My Ideal](https://open.spotify.com/track/7auDnLAZDuygfAcDyaRwIN) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [My Ideal](https://open.spotify.com/album/1UPIz7n0yAGGuMaonT6Vho) | 3:20 | 2023-04-27 |  |
 | [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 | 2022-12-22 |  |
 | [My Shining Hour](https://open.spotify.com/track/0IBOhB35u9pJLdNSWFuCpM) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [My Shining Hour](https://open.spotify.com/album/7uqCrcgqBpD40AI8MrAxh1) | 2:23 | 2023-08-10 |  |
-| [My Sweetest You](https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [My Sweetest You](https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq) | 3:07 | 2023-01-12 |  |
+| [My Sweetest You](https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [My Sweetest You](https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq) | 3:07 | 2023-01-12 | 2023-10-13 |
 | [Nearness of You](https://open.spotify.com/track/28hv3qok0P0nu4K7OsmDRG) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 6:42 | 2022-04-26 | 2022-06-15 |
 | [Neither am I](https://open.spotify.com/track/0YPtESitV9bG5IYkW2IUEp) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Neither am I](https://open.spotify.com/album/4VOjaVWr7ggqYvdxliXxhI) | 3:17 | 2023-08-31 |  |
 | [Never Let Me Go](https://open.spotify.com/track/25VqRlCspcn3W04pGctbcn) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Never Let Me Go](https://open.spotify.com/album/19Nia0TNGcaQFU2xI86mwg) | 4:14 | 2022-12-01 |  |

@@ -4,7 +4,7 @@
 
 > Where drum & bass comes alive\. Cover: Venbee, Rudimental
 
-152 songs - 9 hr 36 min
+155 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 | 2023-05-11 |  |
 | [CNCNTRTN](https://open.spotify.com/track/6CyWYoGbXYDaWzgVtDWFfJ) | [PRFCT Mandem](https://open.spotify.com/artist/17E7dnCNABNW9SJBiaDe5E) | [CNCNTRTN](https://open.spotify.com/album/3EMQpMfulXzJIVnHQRskOs) | 3:24 | 2022-06-08 | 2023-08-25 |
 | [Come This Far](https://open.spotify.com/track/0jE6OcJzJ1mngyrNV82mZK) | [V O E](https://open.spotify.com/artist/3t8Pn6gip5ndfX7mGIymYm) | [Take What You Want / Come This Far](https://open.spotify.com/album/446PvnUtFcdBH010dsqcNZ) | 3:40 | 2022-06-08 |  |
+| [Connected](https://open.spotify.com/track/56ChzyUJ7FrIsToNQaJi7i) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Connected](https://open.spotify.com/album/5ybyy1avjgzWjCg8oaMGG3) | 4:00 | 2023-10-12 |  |
 | [DAMAGE DONE](https://open.spotify.com/track/72Fda3WMmhSCw73rzblSOC) | [TREi](https://open.spotify.com/artist/0ZNle26FCkef6NjJqBRice), [Tiki Taane](https://open.spotify.com/artist/31ACkQCBFwLQGxN8MwfSrO) | [DAMAGE DONE](https://open.spotify.com/album/1SK3R2FUZKMfMFx7VSD45B) | 3:55 | 2023-06-22 | 2023-08-18 |
 | [Daydream](https://open.spotify.com/track/0cPfUHZzcYDdk1L1iJ5Pza) | [Safire](https://open.spotify.com/artist/0RUdbVM6eQL5oCoh6VHTDB) | [Spectrum Vol.2](https://open.spotify.com/album/7zEoD45UE887YCOIGKvA6m) | 6:06 | 2023-05-25 | 2023-06-02 |
 | [Daydream](https://open.spotify.com/track/1okj0LECQjsWMu20HA9Ici) | [Safire](https://open.spotify.com/artist/0RUdbVM6eQL5oCoh6VHTDB) | [Daydream](https://open.spotify.com/album/3TQJC7ExA4az1Xtv3niT4D) | 6:06 | 2023-06-01 |  |
@@ -103,6 +104,8 @@
 | [Nocturnal](https://open.spotify.com/track/64jRAmk99vinM9WgvGSNch) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Nocturnal](https://open.spotify.com/album/2DZvctY5zi4s5RyyiwPFxT) | 3:43 | 2022-06-08 |  |
 | [Nyx](https://open.spotify.com/track/55oEMPn7GcYw0QnEPC7JRR) | [Neonlight](https://open.spotify.com/artist/1dDzlLlakr2JyoK4EtRv5L), [State of Mind](https://open.spotify.com/artist/6Piel9jEbV4Qb18Yw1B2dI) | [Prophecy & Nyx](https://open.spotify.com/album/2jRDWwBxGM3YkRzY93r2xK) | 4:08 | 2022-06-08 |  |
 | [On Love](https://open.spotify.com/track/1l9LhZpUwweKaz1K3Rcoof) | [Protection](https://open.spotify.com/artist/7ylzcNyL5o6XSn8iDuy8eu) | [On Love](https://open.spotify.com/album/6UyYnPkXn7tEcSwjr6nsox) | 4:00 | 2023-07-27 |  |
+| [On Your Side](https://open.spotify.com/track/4dpHuT18ILHncpFWPwOPm1) | [Shapeshifter](https://open.spotify.com/artist/4whp3jSWWaITn36r9D4ZLf) | [On Your Side](https://open.spotify.com/album/54hCoqoBDnCmuG1Rdy10TR) | 3:22 | 2023-10-12 |  |
+| [Opticals](https://open.spotify.com/track/2pL8Juf84OVNT5bkngQ0Bf) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Opticals](https://open.spotify.com/album/0vY8vkYbTZc9ni9wx7zX4I) | 2:51 | 2023-10-12 |  |
 | [Overture](https://open.spotify.com/track/4AjiA5HkJVy59369f0Jjlk) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj) | [Overture](https://open.spotify.com/album/3WBh6onMnl64BJOyyCp64C) | 5:12 | 2022-06-08 | 2023-05-19 |
 | [Peace Of Mind](https://open.spotify.com/track/76fyFZLL5uI3uH6uPMlWKa) | [Solomon France](https://open.spotify.com/artist/2NGEzvIbogjqVnEEnksrXp), [Oli Scott](https://open.spotify.com/artist/0JGeTI3sByz80XJ48gk9pv) | [Peace Of Mind](https://open.spotify.com/album/3Q7mz6QSjLA2O25sZ5JNm3) | 3:23 | 2022-06-08 |  |
 | [POWER](https://open.spotify.com/track/3VTXX0KqnhJxerRXn9rQGE) | [Primate](https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU), [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [POWER](https://open.spotify.com/album/6LIIW4E1n2nqdVp9ozoydA) | 3:08 | 2023-06-29 |  |

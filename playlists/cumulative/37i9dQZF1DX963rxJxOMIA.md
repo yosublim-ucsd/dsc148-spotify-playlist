@@ -4,7 +4,7 @@
 
 > Fino y elegante, como Feid 👻 🔦
 
-204 songs - 10 hr 43 min
+205 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [Q´Hubo Bebé](https://open.spotify.com/track/2TPWn36SvcFXT2lEfEvm0p) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Q´Hubo Bebé](https://open.spotify.com/album/5mENGsx78U8fn1xigykmwj) | 3:00 | 2022-09-06 | 2023-04-22 |
 | [Red Velvet](https://open.spotify.com/track/6VPXeQLMC7hpFdJjyeDMvW) | [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre), [Gambeta](https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4), [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa) | [Arketipo Temporada 2](https://open.spotify.com/album/5zcLt8Qw4QCNH48l0CBjyu) | 3:09 | 2023-02-02 | 2023-03-18 |
 | [REMIX EXCLUSIVO](https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [REMIX EXCLUSIVO](https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS) | 3:26 | 2023-03-17 |  |
-| [RITMO DE MEDALLO](https://open.spotify.com/track/3gquN8yA0TnqD4NemqCnng) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:58 | 2023-09-29 |  |
+| [RITMO DE MEDALLO](https://open.spotify.com/track/30ZwYmaZ9rrmjlEHLhF8qR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 1:58 | 2023-10-10 |  |
+| [RITMO DE MEDALLO](https://open.spotify.com/track/3gquN8yA0TnqD4NemqCnng) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:58 | 2023-09-29 | 2023-10-13 |
 | [Roxe](https://open.spotify.com/track/6LayKriqRHaFYI6peQp45f) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Roxe](https://open.spotify.com/album/5Mjitq9NAXuE4ARFJTZuHe) | 3:05 | 2022-10-14 | 2022-10-29 |
 | [RULAY](https://open.spotify.com/track/5ITpOthZI6yuhF33ANi3UV) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [RULAY](https://open.spotify.com/album/3iYAQLMCjwrj4q8cS3I8d2) | 2:24 | 2023-07-14 | 2023-08-26 |
 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 | 2023-07-14 |  |

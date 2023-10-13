@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Trijntje Oosterhuis
 
-122 songs - 7 hr 42 min
+125 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,12 +41,14 @@
 | [De wedstrijd](https://open.spotify.com/track/5Dxa2mLRNttIlADdbUjY1e) | [Bram Vermeulen](https://open.spotify.com/artist/4ymKPNzHwzhCvJbOGWLviV) | [Voltooid Verleden Tijd](https://open.spotify.com/album/7qYL5WgJIzwEYCZszBG5vO) | 5:01 | 2023-05-15 |  |
 | [De Weg](https://open.spotify.com/track/3UY1sWsqEYx7fgRBU0ItF7) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [De Weg](https://open.spotify.com/album/7n9NfMSnYi59u7vGSelWAn) | 3:19 | 2023-02-10 |  |
 | [Door De Wind](https://open.spotify.com/track/3h7NZT1CATbn4GqUs51vwf) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2020 \(Miss Montreal\)](https://open.spotify.com/album/6g8ZS309YWXN7pUzfBQYhB) | 2:50 | 2023-02-10 |  |
+| [Dorp Van Hop En Van Mout](https://open.spotify.com/track/0LIjzIgfv2K3zanAiJgNKc) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Dorp Van Hop En Van Mout](https://open.spotify.com/album/4ZlSQQ2ZKjcN5tQ3sU1pDm) | 4:52 | 2023-10-12 |  |
 | [Elke Seconde](https://open.spotify.com/track/41Y8FqhbSRNEqsK47Ks7xW) | [Belinda Kinnaer](https://open.spotify.com/artist/3MHjbcGUxFSEHexlD4csSF) | [Elke Seconde](https://open.spotify.com/album/4i6m3BW07pUoAuWd4IFP4c) | 3:43 | 2023-02-10 | 2023-03-18 |
 | [Er Wordt Op Je Gewacht](https://open.spotify.com/track/59L9doBK0VFybuPglXAqzo) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Er Wordt Op Je Gewacht](https://open.spotify.com/album/4b9Jjg3fjdBiZ2EMQzJQWp) | 3:35 | 2023-02-10 |  |
 | [Even voorgoed](https://open.spotify.com/track/4C7Opc7GkOln45lwSUqsaT) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Even voorgoed](https://open.spotify.com/album/0BbM1K1A00wIpkX4H9cq3q) | 3:18 | 2023-02-10 |  |
 | [Geef Je Hart Niet Zomaar Weg](https://open.spotify.com/track/2JPdHwNtkyZCSf2pM6AYMl) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Geef Je Hart Niet Zomaar Weg](https://open.spotify.com/album/6DtVWWZoinuNU1QiUgFMZq) | 4:05 | 2023-02-10 |  |
 | [Geen Ander](https://open.spotify.com/track/0erh8RtDG4siDMHqdixBXf) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Geen Ander](https://open.spotify.com/album/4miPU2jUOXsoUDAtglywn9) | 3:31 | 2023-02-10 | 2023-03-09 |
-| [Geen Kind Meer](https://open.spotify.com/track/4ZMBna8ky5JR1gocyYCiML) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/7bEv36tsd3IBSvP4TJRDpA) | 4:23 | 2023-02-10 |  |
+| [Geen Kind Meer](https://open.spotify.com/track/4ZMBna8ky5JR1gocyYCiML) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/7bEv36tsd3IBSvP4TJRDpA) | 4:23 | 2023-02-10 | 2023-10-13 |
+| [Geen Kind Meer](https://open.spotify.com/track/50icYQNGHdT8wLoIbMEpix) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/2BXUEUcVn8LbeQRh18aQfY) | 4:23 | 2023-10-12 |  |
 | [Geen Sorry](https://open.spotify.com/track/3BMITetzGUWczLKsSf56Lb) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Geen Sorry](https://open.spotify.com/album/1MitPYDJbnyboKq21vLTby) | 3:09 | 2023-02-10 |  |
 | [Heb Het Leven Lief](https://open.spotify.com/track/1A1GsoCvSUMh8Mlgf29eOP) | [NICCI NOVA](https://open.spotify.com/artist/57f3Vu62mKzV3EpyiqvOT4) | [Heb Het Leven Lief](https://open.spotify.com/album/0uSoMJU3QhZXTdqE7o1ILE) | 4:51 | 2023-02-10 | 2023-09-09 |
 | [Het Dorp \- Live](https://open.spotify.com/track/4HWOyz21zZDbHe3mMukrFJ) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Wim Sonneveld En Ina Van Faassen](https://open.spotify.com/album/097Ma7nG7Cye0gfief3mR6) | 3:18 | 2023-02-10 |  |
@@ -103,7 +105,7 @@
 | [Pastorale \- Remastered](https://open.spotify.com/track/2BUfuy4p88WKk3d49B1ayP) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If), [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Pastorale \(Remastered\)](https://open.spotify.com/album/4NgdGBam7i5ua7YzaJZ8Z8) | 4:15 | 2023-02-10 |  |
 | [Samen Zijn](https://open.spotify.com/track/3ZMdjAHgHDihm21VZt5RxB) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Samen Zijn](https://open.spotify.com/album/3y7ncQnFAmLzxu4ukpPPSn) | 4:23 | 2023-02-10 |  |
 | [Sarah](https://open.spotify.com/track/7yDqMzyLCuu3pE1NqbqWbO) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Edith Leerkes](https://open.spotify.com/artist/78UaWj1oZgFfDSjhTj6oKs) | [Moeders](https://open.spotify.com/album/7tjnfbRE4E3jCzH6pv1BHd) | 3:30 | 2023-02-10 | 2023-04-26 |
-| [Stap Voor Stap](https://open.spotify.com/track/6x8y52msTAuUrGpXjkrYKG) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Stap Voor Stap](https://open.spotify.com/album/0gDWnkxZ44kcBdizwd12qT) | 3:53 | 2023-02-10 |  |
+| [Stap Voor Stap](https://open.spotify.com/track/6x8y52msTAuUrGpXjkrYKG) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Stap Voor Stap](https://open.spotify.com/album/0gDWnkxZ44kcBdizwd12qT) | 3:53 | 2023-02-10 | 2023-10-13 |
 | [Stilte Na De Storm](https://open.spotify.com/track/6wkKgQuU44VWkWD7A4Y2mv) | [The Kik](https://open.spotify.com/artist/5vEW6oifezRitpxbykJSw8) | [Stilte Na De Storm](https://open.spotify.com/album/1edANTaXlVj17VXFPOG04b) | 3:33 | 2023-02-10 | 2023-04-26 |
 | [Suzanne](https://open.spotify.com/track/1BNp77RjuxC9koWD67CNiL) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 3:59 | 2023-02-10 |  |
 | [Telkens Weer](https://open.spotify.com/track/45PcTtMMf5qUGhSTj43ZnE) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Liedjes Uit De Film Rooie Sien \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1mejiAFSmPftZbBTq43Bee) | 3:14 | 2023-02-10 |  |
@@ -130,5 +132,6 @@
 | [Zing\-Vecht\-Huil\-Bid\-Lach\-Werk En Bewonder](https://open.spotify.com/track/3jMqRtGTnYmGHqSvdinx2O) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Zonder Bagage](https://open.spotify.com/album/6C2BruFkpg9TImWwigpLRL) | 3:50 | 2023-06-01 |  |
 | [Zonden](https://open.spotify.com/track/3CTVkBeZBpO8TWIxsFr9ZW) | [Sophie](https://open.spotify.com/artist/4s5ENnBFGHPG0N6W6QKwGV) | [Zonden](https://open.spotify.com/album/7dMWmv9ozI0l6sVM0EbBzM) | 3:48 | 2023-02-10 |  |
 | [Zonder Jou](https://open.spotify.com/track/4xPkcG6Efkn22baq0kJmQo) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0) | [Mooi Weer Een CD](https://open.spotify.com/album/2EVSRkvcdN6TYFg1gY8tlE) | 3:57 | 2023-02-10 |  |
+| [Zwitserland](https://open.spotify.com/track/47Be1HFZ32kqP6jj4yRpIi) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Zwitserland](https://open.spotify.com/album/59mqhbdApjpWnVC4dP5zbM) | 3:32 | 2023-10-12 |  |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits ! Photo : SANTA",
+  "description": "Le meilleur des hits ! Photo : David Kushner",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -56,6 +56,28 @@
       "duration_ms": 185147,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/2vZ8h5CXVsOlClCXj89DDW"
+    },
+    {
+      "album": {
+        "name": "A Thousand Miles",
+        "url": "https://open.spotify.com/album/3wG7wRynmcVriqvBDEkSk4"
+      },
+      "artists": [
+        {
+          "name": "TimeMachine1985",
+          "url": "https://open.spotify.com/artist/2XgfAq6E80cypDmNZ5JXGv"
+        },
+        {
+          "name": "Beea",
+          "url": "https://open.spotify.com/artist/4LLMdJ0ZadFH4PzIdVlrws"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/2KI7EiN7PScxiMnkoy2Ljy"
     },
     {
       "album": {
@@ -184,7 +206,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -852,6 +874,32 @@
       "duration_ms": 177921,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
+    },
+    {
+      "album": {
+        "name": "God Is A Girl",
+        "url": "https://open.spotify.com/album/6SsqqKA7GXG1ZVch5S8YKX"
+      },
+      "artists": [
+        {
+          "name": "Sound Of Legend",
+          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
+        },
+        {
+          "name": "Groove Coverage",
+          "url": "https://open.spotify.com/artist/1yWjNh9SRE7C59A3LDIwVW"
+        },
+        {
+          "name": "DJane HouseKat",
+          "url": "https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161777,
+      "name": "God Is A Girl",
+      "url": "https://open.spotify.com/track/6orZ3ZsSlFvsgmXEAiGfWJ"
     },
     {
       "album": {
@@ -1772,7 +1820,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 198360,
       "name": "TQG",
       "url": "https://open.spotify.com/track/2oMjKuKUEJFuLiVmTq7Vjx"

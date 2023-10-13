@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-713 songs - 1 day 5 hr 58 min
+714 songs - 1 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Cornerstone](https://open.spotify.com/track/1Tltv8qWqyd47AAYXei24i) | [Dominic Walton](https://open.spotify.com/artist/5yYhE8v7LRvK1dIBCbS4JA) | [The Loop](https://open.spotify.com/album/1RyGxuY2zYWsCtyQ5MATra) | 3:53 | 2022-05-27 | 2022-09-24 |
 | [Coulant](https://open.spotify.com/track/445KHitEvap0tspDZ3C78V) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Coulant](https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq) | 2:28 | 2022-05-27 | 2023-03-28 |
 | [Counting the Days You’re Gone](https://open.spotify.com/track/69fSsSmk0EHoJjiUK12AKm) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Counting the Days You’re Gone](https://open.spotify.com/album/3dbXjKwnJZj5eLpXrx9PqX) | 3:24 | 2022-05-27 | 2022-07-21 |
+| [Countless](https://open.spotify.com/track/2D81ZsdcSyofVfZULWD2rI) | [Lynn Kay](https://open.spotify.com/artist/1y2zzoYNLRN6jCwiUzcKgE) | [Countless](https://open.spotify.com/album/2YFHlVbfyfXwHtLJnAX0o3) | 2:26 | 2023-10-09 |  |
 | [Credo](https://open.spotify.com/track/7GhpnGB1M8qQ04yqHLdoaE) | [Samuel Yates](https://open.spotify.com/artist/490O7wKhdxCPXCpZyklL9R) | [Credo](https://open.spotify.com/album/7F2h54BsLRxDAfmi0Wa4f9) | 2:30 | 2022-05-27 | 2022-09-24 |
 | [Crossing the Danube](https://open.spotify.com/track/2nFrDHWjyJccuR1OvyjEf7) | [Marcel Pokorný](https://open.spotify.com/artist/6ln2peaIEnqs0cTqxJWVyW) | [Crossing the Danube](https://open.spotify.com/album/2BslkVgPfccnYDMot7rwCP) | 2:03 | 2022-05-27 | 2023-01-24 |
 | [Crystal Depths](https://open.spotify.com/track/1Yyi70Exy9YlfKn6o0ciSO) | [Junius Clyde](https://open.spotify.com/artist/0RvljygdcU5lXCCnNMwAGU) | [Crystal Depths](https://open.spotify.com/album/34B5pQYYk9GQTColSy9dUJ) | 3:33 | 2022-05-27 | 2023-08-17 |
@@ -501,7 +502,7 @@
 | [Quando gli alberi incontrano il vento](https://open.spotify.com/track/1HByqL0NBv4U3EXobDUkiy) | [Riccardo Lucciano](https://open.spotify.com/artist/20WwrV7uTNMYTN1Rax9ORA) | [Quando gli alberi incontrano il vento](https://open.spotify.com/album/5gC9wVZoOL4bJNSo9eoclI) | 2:55 | 2022-05-27 | 2023-09-30 |
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2022-05-27 |  |
 | [Reaching Out](https://open.spotify.com/track/4qqsH0Wy7dDhW2j2CvfJFS) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Reflections](https://open.spotify.com/album/20yjn2yCBg4NWgHaAegF0m) | 2:55 | 2023-10-09 |  |
-| [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2022-05-27 |  |
+| [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2022-05-27 | 2023-10-13 |
 | [Recluse](https://open.spotify.com/track/3bFvORAkFIg8TFXcpoCYwg) | [Pavel Antonov Manev](https://open.spotify.com/artist/0A7g4WQaIuDvhaZBcKpYee) | [Recluse](https://open.spotify.com/album/3OQ5VptI9YDkb90OnksjrR) | 2:22 | 2022-05-27 | 2022-09-24 |
 | [Reflections](https://open.spotify.com/track/6jkQJB7iKoYFZanJuXlnUf) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Reflections](https://open.spotify.com/album/0E51TVTXSATgUi0AkGzw3s) | 1:53 | 2023-03-13 | 2023-07-25 |
 | [Reflections](https://open.spotify.com/track/1qXzQi8CxX0Y5JqZ22m1zy) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reflections](https://open.spotify.com/album/11xwClKSNpUm1w1dYE4HnI) | 2:09 | 2022-05-27 |  |

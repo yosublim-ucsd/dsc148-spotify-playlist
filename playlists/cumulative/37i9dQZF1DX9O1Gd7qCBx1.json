@@ -110,7 +110,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 329329,
       "name": "Barrag\u00e1n",
       "url": "https://open.spotify.com/track/3emS4pu5weH07M5GlQ6nJt"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 183200,
       "name": "Coyoac\u00e1n",
       "url": "https://open.spotify.com/track/58VDkDKmw5tLvS2HcxMAxw"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 190226,
       "name": "Dia De Los Muertos",
       "url": "https://open.spotify.com/track/3UTwxVRAc1mUOAbqxWqbl1"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 204680,
       "name": "Era Mi Abuelo",
       "url": "https://open.spotify.com/track/6fCvxTPA1u5ov55svizA97"
@@ -832,10 +832,28 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 268992,
       "name": "Espectro (En Vivo Desde Cuba)",
       "url": "https://open.spotify.com/track/46S0Ic3yTeYniFbB3Bh69Y"
+    },
+    {
+      "album": {
+        "name": "\u00a1\u00a1En Escena!!",
+        "url": "https://open.spotify.com/album/6dyxIMSQ3DDb41D2Myhp1U"
+      },
+      "artists": [
+        {
+          "name": "Mister Chivo",
+          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265613,
+      "name": "Frankestein",
+      "url": "https://open.spotify.com/track/59hECJ8oyCMJOuY0A1zhzL"
     },
     {
       "album": {
@@ -904,7 +922,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 288253,
       "name": "Kumbia Zombie",
       "url": "https://open.spotify.com/track/3i5QMzqtVccNIp2TWSquEH"
@@ -1326,7 +1344,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 186400,
       "name": "La Tumba Falsa",
       "url": "https://open.spotify.com/track/5DW1e0gPIiSJuigtNy61e5"
@@ -1402,6 +1420,28 @@
       "duration_ms": 247453,
       "name": "Los Versos de la Catrina",
       "url": "https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7"
+    },
+    {
+      "album": {
+        "name": "Sigan Hablando",
+        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144640,
+      "name": "Me Toc\u00f3 Morir",
+      "url": "https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV"
     },
     {
       "album": {
@@ -1813,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "D\u00eda de los Muertos: El Mariachi",
+        "url": "https://open.spotify.com/album/7jqmdkq2YAaKY6U8ej89mB"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Pere y Mariachi Tanampa",
+          "url": "https://open.spotify.com/artist/0VWRpbGtIhxbRkrLX0Gp2n"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201247,
+      "name": "Que Me Importa Morir",
+      "url": "https://open.spotify.com/track/1W1wyCjpDdJ1VbZI2Yb55f"
+    },
+    {
+      "album": {
         "name": "Mondo Zombie Boogaloo",
         "url": "https://open.spotify.com/album/3SkPMcfyCGA9T9DB30XbL6"
       },
@@ -2151,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Trece Cielos (Con Cerveza Victoria)",
+        "url": "https://open.spotify.com/album/4sLmrP60deEJ3qrU6S7fgQ"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Coronel",
+          "url": "https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207960,
+      "name": "Trece Cielos (Con Cerveza Victoria)",
+      "url": "https://open.spotify.com/track/5lMgrfqMHikrPx0trUm5aT"
+    },
+    {
+      "album": {
         "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
         "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
       },
@@ -2274,7 +2350,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 170839,
       "name": "Y Tu Sombra",
       "url": "https://open.spotify.com/track/6p7wL9H4f4eKkdma5oZcej"

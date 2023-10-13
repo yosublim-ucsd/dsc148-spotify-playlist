@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,127 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,211 likes - 99 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 91 | [Like Crying \(with Noel Gallagher\) \- Live from The London Palladium](https://open.spotify.com/track/0O6lcWkE8m9pTDGD8Kpatf) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk), [Noel Gallagher](https://open.spotify.com/artist/6IRQd80VHepXiTXdmBzk6l) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac \(Live from The London Palladium\)](https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA) | 2:38 |
 | 92 | [You Shook Me \- Remaster](https://open.spotify.com/track/2Y1HhOfvtzms7urVKFY67n) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin \(Deluxe Edition\)](https://open.spotify.com/album/22BzOOZKYZ2jYYKLpOlnET) | 6:28 |
 | 93 | [Fixin' To Die Blues](https://open.spotify.com/track/5xscuYoBceOfi1y2HfpPZd) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Keepin' Outta Trouble: A Tribute To Bukka White](https://open.spotify.com/album/7IVijDUdKmwy8kdvHYLhMA) | 5:22 |
-| 94 | [Death Letter](https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 4:29 |
-| 95 | [Yer Blues](https://open.spotify.com/track/6VFZdBFUTLciOus17vmBWI) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Cover To Cover](https://open.spotify.com/album/6brfMrKnGoGFF1AtB7TTS5) | 4:31 |
-| 96 | [Million Miles](https://open.spotify.com/track/7cSqMBqUSDCdqJj1sLuN0P) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [All Blues'd Up: Songs of Bob Dylan](https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00) | 6:32 |
-| 97 | [Messing With The Blues](https://open.spotify.com/track/09tD5JvaiCrdlmKdmjDATX) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [Messing With The Blues](https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp) | 2:12 |
-| 98 | [A Change Is Gonna Come](https://open.spotify.com/track/0JCiStjQ3LqDn6Ijni8wFf) | [Bonny B.](https://open.spotify.com/artist/0awWK2CDOk4vhdtqs6WlOG) | [Freedom](https://open.spotify.com/album/51Q8xb6yKqRdETYMUDj9mo) | 7:09 |
-| 99 | [Taxman](https://open.spotify.com/track/3kT1cthH4KOLPJRpmdHQrI) | [Teresa James](https://open.spotify.com/artist/4Ovys1AMeXFomDQvnc4f0C) | [Taxman](https://open.spotify.com/album/147vvnC0aJ0Ttrtbgmv6ee) | 3:26 |
-| 100 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
+| 94 | [Yer Blues](https://open.spotify.com/track/6VFZdBFUTLciOus17vmBWI) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Cover To Cover](https://open.spotify.com/album/6brfMrKnGoGFF1AtB7TTS5) | 4:31 |
+| 95 | [Million Miles](https://open.spotify.com/track/7cSqMBqUSDCdqJj1sLuN0P) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [All Blues'd Up: Songs of Bob Dylan](https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00) | 6:32 |
+| 96 | [Messing With The Blues](https://open.spotify.com/track/09tD5JvaiCrdlmKdmjDATX) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [Messing With The Blues](https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp) | 2:12 |
+| 97 | [A Change Is Gonna Come](https://open.spotify.com/track/0JCiStjQ3LqDn6Ijni8wFf) | [Bonny B.](https://open.spotify.com/artist/0awWK2CDOk4vhdtqs6WlOG) | [Freedom](https://open.spotify.com/album/51Q8xb6yKqRdETYMUDj9mo) | 7:09 |
+| 98 | [Taxman](https://open.spotify.com/track/3kT1cthH4KOLPJRpmdHQrI) | [Teresa James](https://open.spotify.com/artist/4Ovys1AMeXFomDQvnc4f0C) | [Taxman](https://open.spotify.com/album/147vvnC0aJ0Ttrtbgmv6ee) | 3:26 |
+| 99 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
 
-Snapshot ID: `MCwzNTQ3NmJiY2QyNGJhM2JmYWRlYWQxNzY0N2Q5ZDBkNTcwNTIyMTQ2`
+Snapshot ID: `MCxiMGFhMjViODU2MzkyZTJiZDE4MThhMDkxZDM2OTVkMmU4NmMwOGVi`

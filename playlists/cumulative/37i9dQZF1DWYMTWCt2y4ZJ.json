@@ -1553,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "Myths",
+        "url": "https://open.spotify.com/album/6wHe0GNjkRdjAbbtrE8mGG"
+      },
+      "artists": [
+        {
+          "name": "Apech",
+          "url": "https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194882,
+      "name": "Myths",
+      "url": "https://open.spotify.com/track/1gRPjKpK7KKAxNjMFnq6ok"
+    },
+    {
+      "album": {
         "name": "Nagnallar",
         "url": "https://open.spotify.com/album/7mc0YuErrVKMLdfWw16lOP"
       },

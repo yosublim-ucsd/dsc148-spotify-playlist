@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 61577,
+  "num_followers": 61573,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2JjOThkY2NkNmU5NzUxYjQ4ZjYxNDE2ZWE2OWEyMDcyMDM0Nzkw",
+  "snapshot_id": "MCwzMGQ2ZjUzZmJiMWNhZWEyY2FiOGZmZWY4MDc0NzMzODA4MDUxNzI0",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Satan i gatan (Bonus Version)",
-        "url": "https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "Jag kommer",
-      "url": "https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Yours Truly, Angry Mob",
         "url": "https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 204200,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Satan i gatan (Bonus Version)",
+        "url": "https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "Jag kommer",
+      "url": "https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU"
     },
     {
       "added_at": "2021-06-15 09:25:05",

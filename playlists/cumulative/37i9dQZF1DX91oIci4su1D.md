@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-755 songs - 1 day 21 hr 52 min
+756 songs - 1 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,7 +602,7 @@
 | [Sonata](https://open.spotify.com/track/4tbJLaTclmcaaro2lAhKIe) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [Sonata](https://open.spotify.com/album/3qLi1lqpntgGdH5DAROvY0) | 3:13 | 2021-12-17 | 2022-05-07 |
 | [Sorry](https://open.spotify.com/track/0PJr4eTfffgfHQda27VpIq) | [Simon Patterson](https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Sorry](https://open.spotify.com/album/0hDrWUeld7zd4DZIx0p9tg) | 4:03 | 2022-08-12 | 2023-05-20 |
 | [Soul Theory](https://open.spotify.com/track/4P64WuBJEjSwyAnM3II9zh) | [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Soul Theory](https://open.spotify.com/album/6hxEUebk8cOULv4bQgSAFB) | 2:57 | 2023-06-02 |  |
-| [Soundscape](https://open.spotify.com/track/2ckuYy0wxNGXfjrRLfCnQQ) | [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE), [Proyal](https://open.spotify.com/artist/4Lof8bu6EJxnEX2owLrVtP) | [Soundscape](https://open.spotify.com/album/0D5zpBdgsCQAfeXtpoUuhK) | 3:58 | 2023-02-24 |  |
+| [Soundscape](https://open.spotify.com/track/2ckuYy0wxNGXfjrRLfCnQQ) | [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE), [Proyal](https://open.spotify.com/artist/4Lof8bu6EJxnEX2owLrVtP) | [Soundscape](https://open.spotify.com/album/0D5zpBdgsCQAfeXtpoUuhK) | 3:58 | 2023-02-24 | 2023-10-13 |
 | [Sovereign](https://open.spotify.com/track/6iZ1W8WDYCYjstuzxHWv6d) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [Sovereign](https://open.spotify.com/album/6Q4QME7TcWGXtquJEi2ZRO) | 4:54 | 2022-04-08 | 2022-06-04 |
 | [Space Case](https://open.spotify.com/track/1VSbfnWlHajs3Wz9LhucLB) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Space Case](https://open.spotify.com/album/61OEWqooBSWvgvqPxRvc9L) | 3:32 | 2023-08-11 |  |
 | [Space Mission](https://open.spotify.com/track/0O7VvrRlagTEEFDd73Kuwt) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [A State Of Trance \- Selections 002](https://open.spotify.com/album/2iYtpcVD0UFxXbYPlkifp0) | 3:14 | 2021-12-17 | 2023-02-25 |
@@ -622,6 +622,7 @@
 | [Stolen](https://open.spotify.com/track/1Mns7l7I5KdfHRhCnikhJd) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Pretty Poison](https://open.spotify.com/artist/4Xe7UmOgczT2GMm5uK8Axu) | [The Rabbit Hole Circus](https://open.spotify.com/album/51wucYCwRnPJhsZlbzzIsp) | 4:05 | 2023-06-30 |  |
 | [Stomp](https://open.spotify.com/track/3ilAhDVrTmBV09Zn5AgeHS) | [Paul Denton](https://open.spotify.com/artist/2fKsd61swALXCOUa8q89U2) | [Stomp](https://open.spotify.com/album/3cCSecnngrOyuIpimq7zgQ) | 2:27 | 2021-12-17 | 2022-03-12 |
 | [Storm](https://open.spotify.com/track/0xfcqMqf1yYNbOf0pw5LE1) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Storm](https://open.spotify.com/album/70qsSkJhiVT2YVqqx4HygG) | 2:49 | 2023-06-30 |  |
+| [Stormarn](https://open.spotify.com/track/40rJRda0SwHICpgKTrlfkW) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ), [Johan Vilborg](https://open.spotify.com/artist/7hccrx4H5boJlleSXh1j7N) | [Stormarn](https://open.spotify.com/album/1xusXXQVxw7eaJB40GhA0s) | 5:14 | 2023-10-06 |  |
 | [Stranger To Your Love \- Pretty Pink Remix](https://open.spotify.com/track/4sINTZQxR0n7yEidMy3QQK) | [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn), [Ellen Smith](https://open.spotify.com/artist/2Adxujcg6io8JWrWyJb43x), [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Stranger To Your Love \(Pretty Pink Remix\)](https://open.spotify.com/album/1jlIoanhBtX4Fb39r0ZImT) | 3:03 | 2022-03-11 | 2023-04-09 |
 | [Stranger To Your Love \- Stoneblue Remix](https://open.spotify.com/track/4T4iV29W5lTYmYOjJxDNUZ) | [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn), [Ellen Smith](https://open.spotify.com/artist/2Adxujcg6io8JWrWyJb43x), [Stoneblue](https://open.spotify.com/artist/1GdY7Cww4HDYTnnayS9hqR) | [Stranger To Your Love \(Stoneblue Remix\)](https://open.spotify.com/album/0Zdh6T15Zt1XH6bEbNnqVf) | 4:22 | 2021-12-17 | 2022-02-26 |
 | [Strangers](https://open.spotify.com/track/6Dy2lZsVHAsj9G0YfLLb12) | [Cubicore](https://open.spotify.com/artist/44APJiQpJhK4CWuLC9gGrx), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX) | [Strangers](https://open.spotify.com/album/5zyd35cUz8pkMfYBAZu9Af) | 4:14 | 2023-07-14 | 2023-09-07 |

@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 296467,
+  "num_followers": 296546,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWE0YzVhOTQ0MzE0MWFiNjM5ZWI1NWMyYzE1Y2Q4OTczNjhhMjU2",
+  "snapshot_id": "MCxjNWQ2ZjIwYTI5Y2U4YmJhNjA0NjQ4MzFhZTcxYzY5YTdiZmIwNThj",
   "tracks": [
     {
       "added_at": "2020-10-06 12:32:47",
@@ -335,22 +335,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Not Over Yet (Remixes)",
-        "url": "https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw"
-      },
-      "artists": [
-        {
-          "name": "Grace",
-          "url": "https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Not over Yet - Perfecto Edit",
-      "url": "https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "Jungle Hits, Vol. 1",
         "url": "https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 238760,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/2XdL95Ifg9gysRDpFWNYWt"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Not Over Yet (Remixes)",
+        "url": "https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw"
+      },
+      "artists": [
+        {
+          "name": "Grace",
+          "url": "https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg"
+        }
+      ],
+      "duration_ms": 261733,
+      "name": "Not over Yet - Perfecto Edit",
+      "url": "https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -675,22 +675,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "This Style",
-        "url": "https://open.spotify.com/album/7acwlv5XvgMfSXtGQiMnDR"
-      },
-      "artists": [
-        {
-          "name": "SHY FX",
-          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
-        }
-      ],
-      "duration_ms": 334129,
-      "name": "This Style",
-      "url": "https://open.spotify.com/track/2rYo8S1hlnyx7aH9h87So2"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "R.I.P / Ice Cream & Syrup",
         "url": "https://open.spotify.com/album/5RX5DEe12BK2L8FCCPQv3W"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 276263,
       "name": "R.I.P.",
       "url": "https://open.spotify.com/track/1SHNtEYq8rz1MnCpAQVHnP"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "This Style",
+        "url": "https://open.spotify.com/album/7acwlv5XvgMfSXtGQiMnDR"
+      },
+      "artists": [
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        }
+      ],
+      "duration_ms": 334129,
+      "name": "This Style",
+      "url": "https://open.spotify.com/track/2rYo8S1hlnyx7aH9h87So2"
     },
     {
       "added_at": "2020-10-06 12:32:47",

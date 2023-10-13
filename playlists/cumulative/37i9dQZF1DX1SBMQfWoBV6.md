@@ -4,13 +4,13 @@
 
 > Light electronic movements for study, focus and flow.
 
-82 songs - 6 hr 5 min
+83 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abstract Ambience](https://open.spotify.com/track/7hnCKEU2LpfD3tkfgEhnKF) | [Zeombala](https://open.spotify.com/artist/1ERLT1kdPcQocPENfka9M8) | [Abstract Ambience](https://open.spotify.com/album/5067Ai9GOj6ROHmVhUX3mn) | 2:49 | 2023-01-31 |  |
 | [Achievement Unlocked](https://open.spotify.com/track/1qlpsQZTzBJ3C9Padf3dCp) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Focus: Work Smart Sounds](https://open.spotify.com/album/5sVSZ4CGxYznBbbO2DTPvV) | 2:16 | 2023-01-31 |  |
-| [Amazing Things to Come](https://open.spotify.com/track/6ocXaLZ1ooYNJejDnGxRx8) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Amazing Things](https://open.spotify.com/album/0DBiS3ynX5LmsZjv7OnvQW) | 2:53 | 2023-01-31 |  |
+| [Amazing Things to Come](https://open.spotify.com/track/6ocXaLZ1ooYNJejDnGxRx8) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Amazing Things](https://open.spotify.com/album/0DBiS3ynX5LmsZjv7OnvQW) | 2:53 | 2023-01-31 | 2023-10-13 |
 | [Arperious](https://open.spotify.com/track/6NpymTa0H0DXNQcfGBSb9M) | [Hyperix](https://open.spotify.com/artist/2vlHxzMM3LDROyxBioXC2Q) | [Arperious](https://open.spotify.com/album/5rxLM3dUbhXaItPpAsnKbh) | 2:51 | 2023-01-31 |  |
 | [As the Leaves Fall](https://open.spotify.com/track/6IL0hp5UGrDvL0S1B7UVM1) | [Selffish](https://open.spotify.com/artist/0YIcdQQ4Mmhl4l40ubHABn) | [He She Them Us](https://open.spotify.com/album/4oyS54Dgj9V4RfwaWQO5t5) | 5:28 | 2023-01-31 |  |
 | [Balearic Pulse](https://open.spotify.com/track/3hPrb5z3kXBRO8i5EOLgxw) | [Moodal](https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf) | [Balearic Pulse](https://open.spotify.com/album/5jlQDHw1h914CFzHSivNYC) | 2:48 | 2023-03-17 |  |
@@ -28,6 +28,7 @@
 | [False Angel Lullaby](https://open.spotify.com/track/5Q9QWEZCmxTMTC25HrUaEf) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Labyrinth](https://open.spotify.com/album/2uXc2ajokBOxI2FX27icQ9) | 7:24 | 2023-01-31 |  |
 | [Far Far Away](https://open.spotify.com/track/2QYFCIqPfs6xonIijWZWKh) | [Shaanouri](https://open.spotify.com/artist/2FWFKErUkjpSdqcbvTsw33) | [Journey To Neptune](https://open.spotify.com/album/2Em0BfI2XgT5Cv7d4ieSL4) | 3:41 | 2023-05-19 |  |
 | [Finding Determination](https://open.spotify.com/track/1IZ8OjFT6GAVAQ1wQCEIlv) | [Moodal](https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf) | [Balearic Pulse](https://open.spotify.com/album/5jlQDHw1h914CFzHSivNYC) | 2:56 | 2023-03-17 |  |
+| [Focus On](https://open.spotify.com/track/1ZPFtHW2s6uQc3KajMCP7l) | [Recov](https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47) | [Focus On](https://open.spotify.com/album/0BZPrdDFhpgCD1mLYBhIan) | 3:13 | 2023-10-13 |  |
 | [Fyresvatn](https://open.spotify.com/track/3oXtuTObYRvhsShC7I96M5) | [Asle Bjørn](https://open.spotify.com/artist/5ktwEgR7MPFnz1QuYdUcmq) | [My Places](https://open.spotify.com/album/0hBJ0y5ms0sU5j2tK7X75J) | 4:37 | 2023-01-31 | 2023-10-05 |
 | [Hollow Streams](https://open.spotify.com/track/0QKVXdZz1DbluflLmv9Jld) | [Machabara](https://open.spotify.com/artist/5OQe8EsRkxUlaeJ8sESTyK) | [Journey To Neptune](https://open.spotify.com/album/1nNwWW5To3Hxqx9UakBNlf) | 3:56 | 2023-05-19 |  |
 | [Ikata \- 1](https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 5:04 | 2023-01-31 |  |

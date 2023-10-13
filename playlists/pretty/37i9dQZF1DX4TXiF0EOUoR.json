@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 146622,
+  "num_followers": 146744,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjA5NDM3YmI2ZDJiOTlmMmQ1MTEyYzFmY2M4MzgwZWIxZmI2OWE5",
+  "snapshot_id": "MCwzZWNhOGEyYTVkNzc2Yjk0MWQ1YTA4NmU1NmM1YjQwYmU4OTkyMjI1",
   "tracks": [
     {
       "added_at": "2022-12-30 18:59:47",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Escuela De Rancho",
-        "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 139186,
-      "name": "El Mech\u00f3n",
-      "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Gold Collection, Vol.1",
         "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 181968,
       "name": "Sal con Lim\u00f3n",
       "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Escuela De Rancho",
+        "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 139186,
+      "name": "El Mech\u00f3n",
+      "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
+        "name": "Cahuates, Pistaches",
+        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "Cahuates, Pistaches",
+      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
         "name": "Lives Pa' La Raza (En Vivo)",
         "url": "https://open.spotify.com/album/5p50bUpy7JxrzPkAs2XS1q"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 216320,
       "name": "El Toro Mambo",
       "url": "https://open.spotify.com/track/4IMnHiK4j5yY0XWC9XmOcz"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Cahuates, Pistaches",
-        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 177053,
-      "name": "Cahuates, Pistaches",
-      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
+        "name": "Banda La Jaripera Vol.1",
+        "url": "https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn"
+      },
+      "artists": [
+        {
+          "name": "Banda La Jaripera",
+          "url": "https://open.spotify.com/artist/5uZqerP5PYAlfakWKAU5DX"
+        }
+      ],
+      "duration_ms": 145520,
+      "name": "Arriba Pichataro",
+      "url": "https://open.spotify.com/track/2LlavtI2ZyzTEEgPwOXrLg"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
         "name": "Carnavaleando con la Tierra Mojada",
         "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 178933,
       "name": "Por Una Lagrima",
       "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Banda La Jaripera Vol.1",
-        "url": "https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn"
-      },
-      "artists": [
-        {
-          "name": "Banda La Jaripera",
-          "url": "https://open.spotify.com/artist/5uZqerP5PYAlfakWKAU5DX"
-        }
-      ],
-      "duration_ms": 145520,
-      "name": "Arriba Pichataro",
-      "url": "https://open.spotify.com/track/2LlavtI2ZyzTEEgPwOXrLg"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 153760,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/3zZLLl6h70ggta49LwrYdd"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 289691,
       "name": "El Toro Pinto",
       "url": "https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 153760,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/3zZLLl6h70ggta49LwrYdd"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Que Lindo Es Michoac\u00e1n! (Puros Sones!)",
-        "url": "https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR"
-      },
-      "artists": [
-        {
-          "name": "Banda Zirahuen",
-          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
-        }
-      ],
-      "duration_ms": 138640,
-      "name": "El Tiliche",
-      "url": "https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "En Vivo Desde El Rancho",
         "url": "https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 196736,
       "name": "Pelea De Gallos - En Vivo",
       "url": "https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Que Lindo Es Michoac\u00e1n! (Puros Sones!)",
+        "url": "https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR"
+      },
+      "artists": [
+        {
+          "name": "Banda Zirahuen",
+          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
+        }
+      ],
+      "duration_ms": 138640,
+      "name": "El Tiliche",
+      "url": "https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Que Chulo Es el Jaripeo",
-        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
-      },
-      "artists": [
-        {
-          "name": "Banda la Fascinante del Merito Zirahuen",
-          "url": "https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "El Toro Requeson",
-      "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Arriba Mi Rancho",
         "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 225410,
       "name": "El Tecolotito",
       "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Que Chulo Es el Jaripeo",
+        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
+      },
+      "artists": [
+        {
+          "name": "Banda la Fascinante del Merito Zirahuen",
+          "url": "https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "El Toro Requeson",
+      "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
-        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
-      },
-      "artists": [
-        {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
-        }
-      ],
-      "duration_ms": 197162,
-      "name": "Los Enanitos",
-      "url": "https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "En Vivo Desde Colima, Vol. 2",
         "url": "https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 207621,
       "name": "Arriba Pichantaro (En Vivo)",
       "url": "https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
+        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "duration_ms": 197162,
+      "name": "Los Enanitos",
+      "url": "https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
+        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
+        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "duration_ms": 162117,
+      "name": "Las G\u00fcilotas",
+      "url": "https://open.spotify.com/track/1D5gzAE5R84Ub01oVsDHxh"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
         "name": "Reproches al Viento",
         "url": "https://open.spotify.com/album/1tb0DGlrslcT6cNyvfB6Zb"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 288500,
       "name": "Popurri de Sones: Son Coste\u00f1o / Toro Pinto / Los Viejitos / Cara de Pingo",
       "url": "https://open.spotify.com/track/5MroqL18HhTsDRpC4IXqEm"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
-        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
-      },
-      "artists": [
-        {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
-        }
-      ],
-      "duration_ms": 162117,
-      "name": "Las G\u00fcilotas",
-      "url": "https://open.spotify.com/track/1D5gzAE5R84Ub01oVsDHxh"
     },
     {
       "added_at": "2022-12-30 18:59:47",

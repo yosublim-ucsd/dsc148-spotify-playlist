@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,181 likes - 149 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,102 likes - 149 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [All I Needed](https://open.spotify.com/track/15TlVyJLpMysa7g9FSS0No) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [All I Needed](https://open.spotify.com/album/0tfD1g8c7W0tun48L9ZK7U) | 2:59 |
 | 149 | [Roll Away \(Like a Stone\)](https://open.spotify.com/track/27XhypqVeaRNo4lf3CeM1k) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [Butch Walker as..\. Glenn](https://open.spotify.com/album/0FIk2aeXbMu4MmSJ8x0upW) | 4:46 |
 
-Snapshot ID: `MCwzMTExZTAwMzY2YjVhMDBhYWE5MGVjMzU1N2RjYTlmMDVjNmIwYmI0`
+Snapshot ID: `MCw5ZWM3MDVlOGRkNzg3Mzg3ZDZkMjA4YzQ2ZjRjNmQ3Y2I4OGMyNjUz`

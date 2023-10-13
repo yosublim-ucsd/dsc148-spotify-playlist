@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Polo & Pan
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,986 likes - 150 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,976 likes - 150 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 55 | [Humans \- Elevated Mix](https://open.spotify.com/track/4vCrLKs6M10bLbMFRXEbJ6) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Humans \(Elevated Mix\)](https://open.spotify.com/album/2BPV9ZHTm0HxIQ3QBC1edp) | 4:12 |
 | 56 | [Icy](https://open.spotify.com/track/4S9p0HwkV3SvxpCR41a5IP) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Icy](https://open.spotify.com/album/3oV5TP7EKHrkcz6lS99u4g) | 3:34 |
 | 57 | [Tartaruga](https://open.spotify.com/track/0CFwsncuCbp6qkW8C0dtSZ) | [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [Madrugada](https://open.spotify.com/album/2enL7M75Dt4yGg6qodIhfm) | 3:40 |
-| 58 | [Landscape](https://open.spotify.com/track/3mhmsgWbnEex2qBUZEUnCK) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc) | [Landscape](https://open.spotify.com/album/3Wzgh6znehuaK9Yu2IdZ6s) | 2:40 |
+| 58 | [Landscape](https://open.spotify.com/track/3DJGNgVK7g18EgpyKvy5T9) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc) | [The Art Of Change](https://open.spotify.com/album/2w5ieF6SZV9flk1gkOgzdK) | 2:40 |
 | 59 | [JOY \(Head To The Sky\)](https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Head To The Sky\)](https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu) | 3:50 |
 | 60 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 |
 | 61 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 149 | [No Limit](https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [trip9love...???](https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7) | 3:02 |
 | 150 | [cry for help](https://open.spotify.com/track/5gfYxsAS939n06daeVX7WF) | [Xedrin](https://open.spotify.com/artist/0T8OlNkaNRP75U1kSlRyWG), [spiderblush](https://open.spotify.com/artist/20b2KfO5KOXtq9jTWkfcQO) | [cry for help](https://open.spotify.com/album/6JFrOuwXVsGIifVmwx9sn8) | 1:58 |
 
-Snapshot ID: `MCw3MDc4MjM5YWE4ZDk2ZWJkMDcxZDg5OWVlNmIzNTFjZDVjYTVkMDdk`
+Snapshot ID: `MCw0ZDMwNDM1MDYyMGRhMWJkZTFhMmE3OWFhMWFkMDdiMWFkZDI1MmQ3`

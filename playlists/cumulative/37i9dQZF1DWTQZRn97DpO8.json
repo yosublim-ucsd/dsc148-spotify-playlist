@@ -532,7 +532,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 109053,
       "name": "Maudit",
       "url": "https://open.spotify.com/track/0CyzbKO9MFV1pFCaMbwA1U"
@@ -568,7 +568,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 190049,
       "name": "Novline 5 - Ella",
       "url": "https://open.spotify.com/track/3La8BcVk0mKP641D68DHWY"
@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "quel type de vibe?",
+        "url": "https://open.spotify.com/album/4b71KrH0rd453L1aHPN57T"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116435,
+      "name": "quel type de vibe?",
+      "url": "https://open.spotify.com/track/2aAgX2pC17FCFB9TtBKFwn"
+    },
+    {
+      "album": {
         "name": "Saison 00",
         "url": "https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf"
       },
@@ -680,6 +698,24 @@
       "duration_ms": 170513,
       "name": "Room 69 - Acoustic version",
       "url": "https://open.spotify.com/track/7pU322ixXzZ1Lostt5Rz1n"
+    },
+    {
+      "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5CEexTwatSOWIHJdarjQiR"
+      },
+      "artists": [
+        {
+          "name": "Na\u00eb",
+          "url": "https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154173,
+      "name": "Rouge",
+      "url": "https://open.spotify.com/track/0MGa47R4L0OFTUd0H2AOBU"
     },
     {
       "album": {
@@ -854,7 +890,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 156404,
       "name": "Tout essay\u00e9 - Acoustic version",
       "url": "https://open.spotify.com/track/77ZBaOziSr8gYC7r6o1RMh"
@@ -948,6 +984,24 @@
       "duration_ms": 183963,
       "name": "VENUS",
       "url": "https://open.spotify.com/track/6pWVce5c6JXqFfl7JfJBnl"
+    },
+    {
+      "album": {
+        "name": "Viano",
+        "url": "https://open.spotify.com/album/7dpcQRInh1WFjqcE3Llvtb"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166831,
+      "name": "Viano",
+      "url": "https://open.spotify.com/track/6BYlMc8prfYvFoqTbIuGQf"
     },
     {
       "album": {

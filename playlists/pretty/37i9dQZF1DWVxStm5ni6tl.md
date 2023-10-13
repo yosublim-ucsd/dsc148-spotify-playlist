@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Omega Mighty, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,676 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,700 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 69 | [Vigilante](https://open.spotify.com/track/7yuasYDaH6Ji7aJZzI9HGQ) | [TAAJ KANG](https://open.spotify.com/artist/6Yxh1qeiK15ygRuqncgI82) | [Vigilante](https://open.spotify.com/album/4PTYZq3XqBYJrdjnXyQuxq) | 2:29 |
 | 70 | [Oh My Days](https://open.spotify.com/track/2NzLUARHYNcPH7OErQIkOq) | [BOYFRN](https://open.spotify.com/artist/3u0vmi7mLqKIUgnyL6OND2), [Young Clancy](https://open.spotify.com/artist/1gWVuqL7Ag3foUmrV5Us98) | [Oh My Days](https://open.spotify.com/album/757Xqp7ZVR7F4P9lSVLpNM) | 2:30 |
 | 71 | [MIDDLEMAN](https://open.spotify.com/track/6v3aeL4r7AL1R8sm7vsCTo) | [Josh Maitre](https://open.spotify.com/artist/6HikaK7Dr3ncmM2FvfPNxC), [Young Sambito](https://open.spotify.com/artist/67uajpHnv2XPCTaUGZ9zOZ) | [THE VALUE OF A LIFE](https://open.spotify.com/album/6pfGjK1PLzGAmaeh8NLAeP) | 2:38 |
-| 72 | [Débloquer](https://open.spotify.com/track/0nbMa3ZHOLlgb2IJPsGFCt) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/3gwKFYmiUvCxCUP5lRLHF5) | 3:27 |
+| 72 | [Débloquer](https://open.spotify.com/track/2EwkmMArSs5Qxb6Tus0r4A) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/0nLznb2oEE0QTEpYciNEoU) | 3:27 |
 | 73 | [Karaoke Breakup](https://open.spotify.com/track/6EA052zPI1629cZ32xt690) | [Jade The Moon](https://open.spotify.com/artist/7hpbBkeMZRmBJiK3Vg8KYP) | [Karaoke Breakup](https://open.spotify.com/album/3sBhX1sc7cW9BDasoLpdAY) | 2:35 |
 | 74 | [Viv](https://open.spotify.com/track/6SMxtIKmMvfR0W7DFnpNyb) | [Ash Molloy](https://open.spotify.com/artist/7r9idpCLiq7S2KS1n5Fp7J) | [Viv](https://open.spotify.com/album/3uwkKLVkmD9zY5Ne3aegU0) | 3:50 |
 | 75 | [Home](https://open.spotify.com/track/0m06d5jBQf5MdmpTJpq7fp) | [ILUVMARKAS](https://open.spotify.com/artist/0Icpb8z5am35VraKtA1ApO) | [Home](https://open.spotify.com/album/2BfvlZAydc0gtGkelISvNe) | 2:46 |
 
-Snapshot ID: `MCw0MWI0ZmU5NGY4MmU2ZjYwNjk3NmJmYjJjYjNlZjVjN2FhYTAyMjEx`
+Snapshot ID: `MCw0ZmQ2MTI3OGJmMGJjODBhZTI1Y2EwNzJmYWY2MjdiYjAzODVkZjAz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,929 likes - 115 songs - 6 hr 35 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,924 likes - 117 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 100 | [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 |
 | 101 | [Yours](https://open.spotify.com/track/4YuZXJDmHNtliF8N5TVMH8) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Yours](https://open.spotify.com/album/6BsBUWdc6Ewfv77AbNL5I4) | 3:17 |
 | 102 | [always](https://open.spotify.com/track/4x18rLsHPvkWkBPCULknfd) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [always](https://open.spotify.com/album/0BINonSEu5AmCiLrhhfAMm) | 2:26 |
-| 103 | [i can see](https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [i can see](https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A) | 3:49 |
+| 103 | [I Can See](https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [I Can See](https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A) | 3:49 |
 | 104 | [Summer Nights \(feat\. emma løv & Loote\)](https://open.spotify.com/track/2DOySVSvMKh95vZpIfcaWM) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3), [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Summer Nights \(feat\. emma løv & Loote\)](https://open.spotify.com/album/4RSVAG5I1nKLaa1nEAKiXG) | 2:24 |
 | 105 | [Changes](https://open.spotify.com/track/3jhHrxY2eyV4zciR8WfzIc) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i) | [Changes](https://open.spotify.com/album/0RS8mVII3i0aAhTWcsMpG2) | 3:59 |
 | 106 | [Closer To You](https://open.spotify.com/track/64UCdNSBP51U28Uduj1KiI) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Closer To You / Make Yourself At Home](https://open.spotify.com/album/6g2yAFcr82CEv9ONmcfntZ) | 2:34 |
@@ -123,5 +123,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 113 | [Hyperdust \- Reimagined](https://open.spotify.com/track/0Jh1vCA3I7yBpoKJumWdiq) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Hyperdust \(Reimagined\)](https://open.spotify.com/album/5aGVY0IyU7KOe2v9mLAKsY) | 3:58 |
 | 114 | [Phantom Love](https://open.spotify.com/track/67j3g4eymg1Ev6UbMyMr0m) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Phantom Love](https://open.spotify.com/album/1W4WffgX8enc9VwffpDRYi) | 4:19 |
 | 115 | [Strangers \(feat\. Linney\)](https://open.spotify.com/track/7wKCuyM3ePTmBtygQMqbDB) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Strangers \(feat\. Linney\)](https://open.spotify.com/album/1xN5qOb2SI9zDM2u0UricP) | 3:15 |
+| 116 | [Fallin'](https://open.spotify.com/track/5S50KnoWF8B39yp0DziC7U) | [Late Night Therapy](https://open.spotify.com/artist/2mlllc3fdsSFJHJDBcg33I) | [Fallin'](https://open.spotify.com/album/5u0iectTVN6O01g7ca1yCt) | 4:32 |
+| 117 | [Moth Love](https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Moth Love](https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr) | 3:22 |
 
-Snapshot ID: `MTA1MzQsZjk5NTNkNjBmYjQxNWI1ZjE2MTkyZGY1OTVlMDI4OGE5ZjU4ZjdlMA==`
+Snapshot ID: `MTA1MzYsMTYwMTJmYmVlMmFhYzNiZDQ5MmIwMTc5NzFiZTYzMDVmZDgxYWYzZg==`

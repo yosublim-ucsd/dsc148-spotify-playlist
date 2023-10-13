@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 27159,
+  "num_followers": 27175,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjlhZmVmNjIxYzUyZDI5MmJlOGI5NWRkZmJiOTgzNDg3ZWEzNjE2",
+  "snapshot_id": "MCxiMmU5NmNkYzE0MjMwOGYwY2JiMzU3NTk2NDdjMjQzYTRlNTA3MzFh",
   "tracks": [
     {
       "added_at": "2023-09-03 23:24:36",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "Sentimiento Mundial",
+        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
+      },
+      "artists": [
+        {
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "Delicadeza",
+      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "vampiro",
         "url": "https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4"
       },
@@ -275,18 +291,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Sentimiento Mundial",
-        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
       },
       "artists": [
         {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
         }
       ],
-      "duration_ms": 178146,
-      "name": "Delicadeza",
-      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
+      "duration_ms": 204856,
+      "name": "Lloro",
+      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -303,22 +319,6 @@
       "duration_ms": 188728,
       "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
       "url": "https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
-      },
-      "artists": [
-        {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
-        }
-      ],
-      "duration_ms": 204856,
-      "name": "Lloro",
-      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Wow",
         "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 316777,
       "name": "Wow",
       "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "Tri\u00e1ngulo de Amor Bizarro",
+        "url": "https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m"
+      },
+      "artists": [
+        {
+          "name": "Tri\u00e1ngulo de Amor Bizarro",
+          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
+        }
+      ],
+      "duration_ms": 361064,
+      "name": "Fukushima",
+      "url": "https://open.spotify.com/track/1tnyObmkojHC10zaTFV0rT"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "S.O.S.",
         "url": "https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG"
       },
@@ -663,18 +679,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Tri\u00e1ngulo de Amor Bizarro",
-        "url": "https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m"
+        "name": "Sigo",
+        "url": "https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K"
       },
       "artists": [
         {
-          "name": "Tri\u00e1ngulo de Amor Bizarro",
-          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
         }
       ],
-      "duration_ms": 361064,
-      "name": "Fukushima",
-      "url": "https://open.spotify.com/track/1tnyObmkojHC10zaTFV0rT"
+      "duration_ms": 199294,
+      "name": "Sigo",
+      "url": "https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -695,22 +711,6 @@
       "duration_ms": 267019,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Sigo",
-        "url": "https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K"
-      },
-      "artists": [
-        {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
-        }
-      ],
-      "duration_ms": 199294,
-      "name": "Sigo",
-      "url": "https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I"
     },
     {
       "added_at": "2023-05-05 06:00:00",

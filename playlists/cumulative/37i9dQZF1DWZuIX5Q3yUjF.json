@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Etta Jungle",
+  "description": "Il meglio dell'R&B italiano. Cover: Shadaloo",
   "name": "anima R&B",
   "tracks": [
     {
@@ -136,6 +136,28 @@
       "duration_ms": 132941,
       "name": "5 minuti",
       "url": "https://open.spotify.com/track/4SJqYClpiN2aWMbn42fk9S"
+    },
+    {
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/40KoQYdYFrIcHYn0wGrC2i"
+      },
+      "artists": [
+        {
+          "name": "Queen of Saba",
+          "url": "https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200986,
+      "name": "ACAB (Amami Come Ameresti Bambi)",
+      "url": "https://open.spotify.com/track/7cbyPy16QbkxPfcLZsT5TV"
     },
     {
       "album": {
@@ -882,7 +904,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 191886,
       "name": "CAOTICA",
       "url": "https://open.spotify.com/track/5Vh7cwTM43jfQHq8iMFtZc"
@@ -1275,6 +1297,28 @@
     },
     {
       "album": {
+        "name": "Come mi ricordi",
+        "url": "https://open.spotify.com/album/7qkxyfFepBq7ImES9cguZh"
+      },
+      "artists": [
+        {
+          "name": "Bye.Tide",
+          "url": "https://open.spotify.com/artist/30Ufi67H57YMdnKTV5wNJH"
+        },
+        {
+          "name": "Drvmmer",
+          "url": "https://open.spotify.com/artist/6br4GP9OfOdNFTngwqYWYQ"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193076,
+      "name": "Come mi ricordi",
+      "url": "https://open.spotify.com/track/3uB8fbnGNHH8YqsrT0bP4V"
+    },
+    {
+      "album": {
         "name": "Come nevicando",
         "url": "https://open.spotify.com/album/7HTq4YrBhejxyxsPgYBtSR"
       },
@@ -1330,6 +1374,28 @@
       "duration_ms": 184714,
       "name": "Come se Ballassimo",
       "url": "https://open.spotify.com/track/4aLp3lEAzKtMMbpYICQYEZ"
+    },
+    {
+      "album": {
+        "name": "Aurora Boreale",
+        "url": "https://open.spotify.com/album/0BywUWtRfCZXLRjrl53PFx"
+      },
+      "artists": [
+        {
+          "name": "Shadaloo",
+          "url": "https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR"
+        },
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193488,
+      "name": "Come si fa (feat. Mecna)",
+      "url": "https://open.spotify.com/track/0fsVkQHvaOq1dxW1MMfGHV"
     },
     {
       "album": {
@@ -4307,6 +4373,28 @@
     },
     {
       "album": {
+        "name": "Napoli (feat. Ezeeo)",
+        "url": "https://open.spotify.com/album/5Y0vNaNfAA4AtT3HHLcGS5"
+      },
+      "artists": [
+        {
+          "name": "Subconscio",
+          "url": "https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh"
+        },
+        {
+          "name": "Ezeeo",
+          "url": "https://open.spotify.com/artist/0sYZ6OSyY2qGLVGQurc4nU"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Napoli (feat. Ezeeo)",
+      "url": "https://open.spotify.com/track/6Cdp3MuLOe4dBPGfREz97i"
+    },
+    {
+      "album": {
         "name": "Nebbia",
         "url": "https://open.spotify.com/album/76e0HbnfnSnL0ytMysAmol"
       },
@@ -4504,6 +4592,24 @@
       "duration_ms": 183000,
       "name": "non ci sta",
       "url": "https://open.spotify.com/track/4atRzLSh8tx0lsVsmgHTTu"
+    },
+    {
+      "album": {
+        "name": "Non Esisto",
+        "url": "https://open.spotify.com/album/1cCaGXIvEfKdaW3ArX7Czh"
+      },
+      "artists": [
+        {
+          "name": "Shari",
+          "url": "https://open.spotify.com/artist/3X9nkz31tAOM25rdtzfi60"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186434,
+      "name": "Non Esisto",
+      "url": "https://open.spotify.com/track/6rQPAiHbOHdsAfTl9VSpfA"
     },
     {
       "album": {
@@ -5756,6 +5862,24 @@
       "duration_ms": 197282,
       "name": "Rotterdam",
       "url": "https://open.spotify.com/track/0zyw45b8liedkjfjOUbPnQ"
+    },
+    {
+      "album": {
+        "name": "Roulette",
+        "url": "https://open.spotify.com/album/2SiNIJDHO34gqUSsML9d5h"
+      },
+      "artists": [
+        {
+          "name": "Sidea",
+          "url": "https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/73JpGj55qaZvDHN6j0mHJo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-226 songs - 11 hr 37 min
+227 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Hauted House](https://open.spotify.com/track/4bgJysj0wesaffybBBzNwL) | [RODUT](https://open.spotify.com/artist/4pYxDHDsuR2K54B5e3tFWT) | [Hauted House](https://open.spotify.com/album/1gaNZzo9rhuXN8qmjpGlR0) | 3:18 | 2022-04-15 |  |
 | [Hazy Mind](https://open.spotify.com/track/7u1BPBmDmpGx3f5uMwDFwb) | [One Astra](https://open.spotify.com/artist/3dMytoLrOfFv2VBrrdQzg6) | [Hazy Mind](https://open.spotify.com/album/0ODhnamGlOt6993K6vICG4) | 1:56 | 2023-05-22 | 2023-07-29 |
 | [Heads Up](https://open.spotify.com/track/2FTO3XZkp89p0CgbGYzwZf) | [Ori Kul](https://open.spotify.com/artist/5z8cjgepcL6KMXRzOJXVf5) | [Heads Up](https://open.spotify.com/album/0GBz9hb37EU9qvSJirMXm9) | 2:24 | 2022-04-15 |  |
+| [Heavy Wish](https://open.spotify.com/track/3yZ9HqGcPmJElydRYDPdNY) | [9Fivey](https://open.spotify.com/artist/5U5RKfPTGsbCTyLTnaUHXU) | [Heavy Wish](https://open.spotify.com/album/1pY9mh46YEBv5hAUYnozJa) | 2:10 | 2023-10-13 |  |
 | [Hold On](https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Hold On](https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x) | 2:32 | 2022-04-15 | 2022-07-08 |
 | [Hold U](https://open.spotify.com/track/6CRjHjpt2jl4Ga7TsrtQja) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Hold U](https://open.spotify.com/album/1vXChZQ7cOhiFjsHqAGJng) | 2:35 | 2022-04-15 |  |
 | [Hot Summer](https://open.spotify.com/track/1Huk1qu2Iw8Y220O6aJX0w) | [Kel Lee](https://open.spotify.com/artist/0JcZM0msHdzQ4WiL1OlHiJ) | [Hot Summer](https://open.spotify.com/album/3MK2VO9vdpHMGb7RizZ72l) | 2:28 | 2022-04-15 | 2022-05-11 |

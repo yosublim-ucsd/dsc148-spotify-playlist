@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-731 songs - 1 day 12 hr 35 min
+732 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Circle of Life](https://open.spotify.com/track/5ZES0TpHFfczYU6OgoBYA4) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Circle of Life](https://open.spotify.com/album/1nFutOjJZwK70snfXyPUhT) | 2:44 | 2022-03-24 | 2022-10-16 |
 | [Clouds Part](https://open.spotify.com/track/7ynEnHDa88G4wX0KvtzCxP) | [Stol Perez](https://open.spotify.com/artist/7vX6lEYQpX7Eh81wa9LxGP) | [Clouds Part](https://open.spotify.com/album/73h8fitLHaGy0ttdecDDMn) | 2:58 | 2021-12-21 | 2022-07-29 |
 | [Colors Of Tomorrow](https://open.spotify.com/track/5UkYo3mcGKkkkp9aZmPW5b) | [Camilento](https://open.spotify.com/artist/4BekYfsPtsGwVk7Jda3NqR) | [Tranquilidad](https://open.spotify.com/album/06JP68CfOlaRpwdAoSpTXG) | 3:30 | 2023-06-20 |  |
-| [Companion](https://open.spotify.com/track/1FgtKAO4lPSU7C83CLIOqu) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Snow Berries](https://open.spotify.com/album/13nTRdiXmI29GzOv0x0fJs) | 3:19 | 2022-10-15 |  |
+| [Companion](https://open.spotify.com/track/1FgtKAO4lPSU7C83CLIOqu) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Snow Berries](https://open.spotify.com/album/13nTRdiXmI29GzOv0x0fJs) | 3:19 | 2022-10-15 | 2023-10-13 |
 | [Compass](https://open.spotify.com/track/3GkQknFe1Ua3llsq7KkYKJ) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Water Reflection](https://open.spotify.com/album/5ps4dbNHztphxVSu5Pf1W8) | 3:09 | 2022-06-22 | 2023-08-11 |
 | [Confidence](https://open.spotify.com/track/61LzaoAvJFI2N1qZKjWEfG) | [Jiao Ch'ien](https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck) | [Confidence](https://open.spotify.com/album/5Bhi1WTuw3gm08KC3iwi3v) | 2:42 | 2022-07-28 | 2023-01-04 |
 | [Connected By Stars](https://open.spotify.com/track/3THYxB5RPTXmjAA1dUVAnW) | [The Nightgate](https://open.spotify.com/artist/5Q3USAuNC7NpbhO9JqN2uK) | [Connected By Stars](https://open.spotify.com/album/5rO4roJQqcHPRcBeUDZ6AB) | 3:01 | 2023-02-09 |  |
@@ -472,6 +472,7 @@
 | [Peaceful Sundown](https://open.spotify.com/track/03o9SRxgQAu7lpmvqePASW) | [Buddha's Sleep](https://open.spotify.com/artist/32JsxZpT1TFmRtCJzr7lg2) | [Peaceful Sundown](https://open.spotify.com/album/7owwupvVS9cNFJLvI1hQKI) | 2:34 | 2022-10-03 |  |
 | [Peaks](https://open.spotify.com/track/08ZVl6IBiPemNOsVfkoIyv) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Peaks](https://open.spotify.com/album/2xv2cURnTpq0NdL39xJsCw) | 2:48 | 2022-11-25 |  |
 | [Pegasus](https://open.spotify.com/track/0N08dxkNnilnHjjRhCL9V1) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Pegasus](https://open.spotify.com/album/45XW5GtxG6TdPEEgvA7Jul) | 3:31 | 2021-12-21 | 2022-07-29 |
+| [Pelagos](https://open.spotify.com/track/4NdxzUIuzsbbcWg0FgAFuO) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Pelagos](https://open.spotify.com/album/6UT38vqmiWGEQkFbsJolrD) | 2:18 | 2023-10-13 |  |
 | [Pensamiento](https://open.spotify.com/track/1JHA7IWr53uuJ0TOOldoEA) | [Anabel Rioja](https://open.spotify.com/artist/0sSPiLUffeBfqSeStJDTHf) | [Pensamiento](https://open.spotify.com/album/0YTZXjgqOPCK3wkG68FiMt) | 2:47 | 2022-07-28 | 2023-01-21 |
 | [Per Me](https://open.spotify.com/track/6km83BJ2tedUp9R0RDTz9N) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Per Me](https://open.spotify.com/album/1kg1n715SGQCmmS741iP7F) | 3:17 | 2022-09-22 | 2023-01-21 |
 | [Perfection](https://open.spotify.com/track/1b6zd9iiSYGSCz5tYW14l6) | [Mundo Suave](https://open.spotify.com/artist/7mpuCc5RJrH5047X6M7Rcd) | [Perfection](https://open.spotify.com/album/25nMYJeMnGslko2C1Id5ps) | 2:54 | 2022-11-25 |  |

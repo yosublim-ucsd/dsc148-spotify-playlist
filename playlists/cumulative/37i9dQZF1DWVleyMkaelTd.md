@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-159 songs - 10 hr 9 min
+162 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Estate](https://open.spotify.com/track/4gzyWqG3sEWGOpe8DhIdS1) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Estate](https://open.spotify.com/album/2aAHY1D8FLEOu0nPSMxmRQ) | 4:32 | 2022-04-26 | 2022-12-02 |
 | [Estate](https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 7:22 | 2022-04-26 | 2023-03-16 |
 | [Este Seu Olhar](https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Pure Bossa Nova](https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt) | 2:32 | 2022-04-26 | 2022-05-25 |
+| [Estrella Nueva](https://open.spotify.com/track/52LtqSJTlaazA0LE5LeLXt) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [Estrella Nueva](https://open.spotify.com/album/2Sr0JrPADZucr0Fe4pb1zo) | 2:36 | 2023-10-13 |  |
 | [Everything I Love](https://open.spotify.com/track/1HmfqLGKxU3pSnhs2n0RDn) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [Everything I Love](https://open.spotify.com/album/0xEdEQEBbOvXAS640Ii8PP) | 4:31 | 2022-09-29 |  |
 | [Falando de Amor](https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe) | [Rosa Collins](https://open.spotify.com/artist/3ODYl7kPOjcfxnnjHz2zLe) | [Falando de Amor](https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y) | 4:16 | 2022-04-26 |  |
 | [Florianópolis](https://open.spotify.com/track/4yjDimLGS5JTXh34bFAiFi) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [Florianópolis](https://open.spotify.com/album/2C33KFJjdDgqabZRiEoiJB) | 3:10 | 2023-08-10 |  |
@@ -97,6 +98,7 @@
 | [Light Dance](https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Light Dance](https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ) | 3:39 | 2022-04-26 |  |
 | [Liljeholmsviken](https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 4:22 | 2023-01-26 |  |
 | [Little Sunflower](https://open.spotify.com/track/6EBzxEkM0l4UkRBhqj3JWn) | [Mitchell Jackson Quartet](https://open.spotify.com/artist/6zV8mNPXyQHoNMxGxlcQXF) | [Soul Eyes](https://open.spotify.com/album/6Y1sADHp2yDRkT6iCPKYTG) | 4:23 | 2022-04-26 | 2023-05-05 |
+| [Lonely Desires](https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6) | [Amir Patel](https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy) | [Lonely Desires](https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1) | 2:41 | 2023-10-13 |  |
 | [Maua](https://open.spotify.com/track/02ngxoQds9K80KQk95QDR1) | [Joao Silva Olivieira](https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX) | [Mestre Sala](https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p) | 5:05 | 2022-12-01 |  |
 | [Meditação](https://open.spotify.com/track/4QdHwCmkuQuKfCuqK0VqOP) | [Michel Rosa](https://open.spotify.com/artist/5tGQbvcsEaVXQ5uD7NzfLV) | [Meditação](https://open.spotify.com/album/7uvnQx1Ih6etuDuFLamyzr) | 6:18 | 2022-04-26 |  |
 | [Mestre Sala](https://open.spotify.com/track/5R9gaRq8mNeuStZxXu1Sr9) | [Joao Silva Olivieira](https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX) | [Mestre Sala](https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p) | 4:32 | 2022-12-01 |  |
@@ -151,6 +153,7 @@
 | [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 | 2022-04-26 | 2022-09-21 |
 | [The Look Of Love](https://open.spotify.com/track/1DGRTR2cE0Sr9eTCeCztZY) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [The Look Of Love](https://open.spotify.com/album/3a7bqpNydrqKIXM9ViTxoH) | 2:13 | 2023-05-25 |  |
 | [The Shadow of Your Smile](https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Shadow Of Your Smile](https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ) | 3:52 | 2022-04-26 |  |
+| [Time Passes By](https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Time Passes By](https://open.spotify.com/album/3vbx6IdBvFjp0awFTBjA3u) | 2:31 | 2023-10-13 |  |
 | [Time Passing Slowly](https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Time Passing Slowly](https://open.spotify.com/album/2UFNvSBbtLOxzaFXxNoeKv) | 3:38 | 2022-08-10 |  |
 | [Triste](https://open.spotify.com/track/6PNnw3AFDCwNV6uDcNjnQ4) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Triste](https://open.spotify.com/album/1cWLEhykpxcgb1QABboKt1) | 3:12 | 2022-04-26 |  |
 | [Um Dia No Mar](https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Um Dia No Mar](https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U) | 2:41 | 2022-04-26 |  |

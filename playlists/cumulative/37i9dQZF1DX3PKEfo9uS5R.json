@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Down to the Blue",
+        "url": "https://open.spotify.com/album/3Al543n7aW5g7gqwfkiQn4"
+      },
+      "artists": [
+        {
+          "name": "Liana Wall",
+          "url": "https://open.spotify.com/artist/7E7H82aEPVcHMWMldQkXcI"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146550,
+      "name": "Down to the Blue",
+      "url": "https://open.spotify.com/track/21jfC5vXMMoy1u4qNEkJLi"
+    },
+    {
+      "album": {
         "name": "Dreamscape",
         "url": "https://open.spotify.com/album/0zZCLYy5ZUvqgFUfp9LcVd"
       },
@@ -740,7 +758,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 192000,
       "name": "Duane",
       "url": "https://open.spotify.com/track/6OFnPWtW3pANhBtcG8orIg"
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 219130,
       "name": "Higher Fun",
       "url": "https://open.spotify.com/track/6Rbptz8SnSzSrQaQIS2agP"
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 158809,
       "name": "Love in the Air",
       "url": "https://open.spotify.com/track/0DAaxDD2brWwpTDH2HdaON"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="spotify:artist:1uVtllLSmvkfPRozmSmxzG">Cardec Drums,</a> <a href="spotify:artist:4sPaDVtUm4TRrM6TATYC8D">Don Ryvcko,</a> <a href="spotify:artist:3YUvGhcDPnR0Y8m8It9WuP"> Chuiqui,</a> y <a href="spotify:artist:37Bz4qzDoJ2eTwKPKiT7iE"> Issac Fontanez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,661 likes - 100 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,499 likes - 100 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 26 | [No Lo Has Visto Aún](https://open.spotify.com/track/71omnuYdvWJaUV0efU582f) | [Predicadores Studio](https://open.spotify.com/artist/3KkGsQ2VBhUGOR7cTXZhAw), [Carlos Mantuano](https://open.spotify.com/artist/5seVg94vNAxbYfOnrq0Alg) | [No Lo Has Visto Aún](https://open.spotify.com/album/4q2TX7I48fbUYPQc76qF6S) | 4:06 |
 | 27 | [Cristo, Mesías](https://open.spotify.com/track/6j1UXgXoGueFsquwGprV0B) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Daniela Quintero](https://open.spotify.com/artist/34faznZpOtWgjQPugCRiir) | [Cristo, Mesías](https://open.spotify.com/album/2CDC8wiDkeLcxu0ROhFV4S) | 10:04 |
 | 28 | [Esa Es La Razón \- Live](https://open.spotify.com/track/3lwiyQh8K7qWumYTiheXlq) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Esa Es La Razón \(Live\)](https://open.spotify.com/album/5HTaOwYUl701aYLyxYlezf) | 6:35 |
-| 29 | [El Canto de Redención \- Live](https://open.spotify.com/track/2DzcbgcYaCuKr5iUKkrwAk) | [David Hernandez](https://open.spotify.com/artist/1sxkwqBNtZurX4SVaNzuzC), [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7) | [El Canto de Redención \(Live\)](https://open.spotify.com/album/45a8rUwbT32glM9eni6owV) | 8:07 |
+| 29 | [El Canto de Redención \- En Vivo](https://open.spotify.com/track/2DzcbgcYaCuKr5iUKkrwAk) | [David Hernandez](https://open.spotify.com/artist/1sxkwqBNtZurX4SVaNzuzC), [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7) | [El Canto de Redención \(En Vivo\)](https://open.spotify.com/album/45a8rUwbT32glM9eni6owV) | 8:07 |
 | 30 | [Yo Soy Tu Amado](https://open.spotify.com/track/30NS04CDhzMIsn44oKPthN) | [Som Do Reino](https://open.spotify.com/artist/4Bei91U4XakJsOUQVxH2Cq), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp) | [Tribo & Nação Vol.1](https://open.spotify.com/album/2y4OVWwz1MMFceZMFpjKGC) | 8:35 |
 | 31 | [Aroma de Vida \(Versión Radio\)](https://open.spotify.com/track/1BGdH6KclWimHHdk2LzBsa) | [Ericson Alexander Molano](https://open.spotify.com/artist/725RWHC7v2JOqMWmzx7XuK) | [Aroma de Vida \(Versión Radio\)](https://open.spotify.com/album/7o9KkVli3ERgyFS75bCUTj) | 5:14 |
 | 32 | [Autor de la Vida \- Acoustic](https://open.spotify.com/track/6pq7hQV87rKY58qDAKTFkU) | [Juanitta](https://open.spotify.com/artist/5Y3zg9KZRD81IZYeKCPLnW), [Sara Borraez](https://open.spotify.com/artist/5GsoiNOyYerVge1J6FHH3u) | [Autor de la Vida \(Acoustic\)](https://open.spotify.com/album/5gBYp9LZ4iecBigbG7cV7Y) | 4:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Tu Habitación \- Live](https://open.spotify.com/track/5K1KztZIKtkq6eJdPjAtHQ) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [Tu Habitación \(Live\)](https://open.spotify.com/album/1BJXzDHZSUFqlNkWyoVI2I) | 11:56 |
 | 100 | [Eres Mi Bendición](https://open.spotify.com/track/4PWOHWzNDlENfrapoZqU8o) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Rewind](https://open.spotify.com/album/427gdsvNPa8CZ5pe0IXh4L) | 3:26 |
 
-Snapshot ID: `MCw5YmRiMjRkMjkxY2Y0NzQ0NDU5NWY0NWJhZGY1ODNiZjIyYTJhYWFm`
+Snapshot ID: `MCxiZDZlNGJkMGVlYzBiZWNkNzliNzRkMTMzZGU3MWQ3MjgzMzJmNzZi`

@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Come And See",
+        "url": "https://open.spotify.com/album/5ZfFWKZiYjGbYZcUKmNhyG"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Rosado",
+          "url": "https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197671,
+      "name": "Come And See",
+      "url": "https://open.spotify.com/track/0xGXXhBANmAw51BSM4RjxN"
+    },
+    {
+      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
       },

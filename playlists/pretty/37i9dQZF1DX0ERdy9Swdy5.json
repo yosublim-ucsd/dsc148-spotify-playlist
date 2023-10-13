@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 679288,
+  "num_followers": 679184,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmFmODAxYTk0ZmEzYWY4YTdkYjY2ODM0ZGRlZTAyYzg1M2NjMjFi",
+  "snapshot_id": "MCxjYTQ4Y2MyNTViM2U3NDg4MTk5NmI3Zjc4NzM0NmE0ZGRhZGRhNzgz",
   "tracks": [
     {
       "added_at": "2023-03-17 00:48:14",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Agradecimiento",
-        "url": "https://open.spotify.com/album/5lxFeS4lOHmN40iv7LsCWr"
-      },
-      "artists": [
-        {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
-        }
-      ],
-      "duration_ms": 320800,
-      "name": "Pagina de Amor",
-      "url": "https://open.spotify.com/track/7otEYXe06YiUKPQsK4kGqf"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "El Sonero Quel El Pueblo Prefiere",
         "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 300106,
       "name": "Lady Laura",
       "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Agradecimiento",
+        "url": "https://open.spotify.com/album/5lxFeS4lOHmN40iv7LsCWr"
+      },
+      "artists": [
+        {
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+        }
+      ],
+      "duration_ms": 320800,
+      "name": "Pagina de Amor",
+      "url": "https://open.spotify.com/track/7otEYXe06YiUKPQsK4kGqf"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 281773,
-      "name": "As\u00ed Es la Vida",
-      "url": "https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Victor Manuelle (3 CD Box Set)",
         "url": "https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 288293,
       "name": "Pensamiento y Palabra",
       "url": "https://open.spotify.com/track/2Dy2rajQYwC0p1j4nOH9bX"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 281773,
+      "name": "As\u00ed Es la Vida",
+      "url": "https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET"
     },
     {
       "added_at": "2023-03-17 00:48:14",

@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 103052,
+  "num_followers": 103300,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTE3OTkwNGQwNGNlNjE5ZjE1NTg4YTNhNDQ1OGMzNjgzNjY5MzE5",
+  "snapshot_id": "MCxlNzMwNDAwMmU0YmJlNDc2YWJkOTRhZTU2MzMzYTQxZGMzNDkxODAy",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1511,34 +1511,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Ven y Hazlo T\u00fa (feat. Arc\u00e1ngel)",
-        "url": "https://open.spotify.com/album/2D7VGl437ipTJnMQg0bs99"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 262500,
-      "name": "Ven y Hazlo T\u00fa (feat. Arc\u00e1ngel)",
-      "url": "https://open.spotify.com/track/3NbwRR74N1FykCWETcEk3j"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "La Verdadera Vuelta",
         "url": "https://open.spotify.com/album/1N9uoPv76ac3oi8XXqJPop"
       },
@@ -1575,6 +1547,34 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Ven y Hazlo T\u00fa (feat. Arc\u00e1ngel)",
+        "url": "https://open.spotify.com/album/2D7VGl437ipTJnMQg0bs99"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 262500,
+      "name": "Ven y Hazlo T\u00fa (feat. Arc\u00e1ngel)",
+      "url": "https://open.spotify.com/track/3NbwRR74N1FykCWETcEk3j"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Real G's",
         "url": "https://open.spotify.com/album/1htLS1cOgyAHgTn1GIRHcJ"
       },
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Flow Cabron",
-        "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
-      },
-      "artists": [
-        {
-          "name": "Tali",
-          "url": "https://open.spotify.com/artist/1HzjYKBYzU5HamS57RbqhB"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 226371,
-      "name": "Flow Cabron",
-      "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Privado",
         "url": "https://open.spotify.com/album/4mPO7JkT8H5B71Ij05x4mb"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 260000,
       "name": "Privado",
       "url": "https://open.spotify.com/track/4Nu07kdmj2GDenygAFmuT8"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Flow Cabron",
+        "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
+      },
+      "artists": [
+        {
+          "name": "Tali",
+          "url": "https://open.spotify.com/artist/1HzjYKBYzU5HamS57RbqhB"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 226371,
+      "name": "Flow Cabron",
+      "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1835,6 +1835,30 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Costear (Remix)",
+        "url": "https://open.spotify.com/album/4PnEQJUbXRvFhgZSu7c8qO"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        },
+        {
+          "name": "Eq",
+          "url": "https://open.spotify.com/artist/2PKri8qrwMoXCsm3D9Zpzh"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Costear - Remix",
+      "url": "https://open.spotify.com/track/5K1gNVbNJXqpADn4wAc2JY"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Blanco o Negro (Remix)",
         "url": "https://open.spotify.com/album/1XYbgWmEbABolhk1D4Eygr"
       },
@@ -1867,30 +1891,6 @@
       "duration_ms": 374142,
       "name": "Blanco o Negro - Remix",
       "url": "https://open.spotify.com/track/6Bt7uEWabZzgdN0g6UQurK"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Costear (Remix)",
-        "url": "https://open.spotify.com/album/4PnEQJUbXRvFhgZSu7c8qO"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        },
-        {
-          "name": "Eq",
-          "url": "https://open.spotify.com/artist/2PKri8qrwMoXCsm3D9Zpzh"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Costear - Remix",
-      "url": "https://open.spotify.com/track/5K1gNVbNJXqpADn4wAc2JY"
     },
     {
       "added_at": "2023-05-25 17:50:01",

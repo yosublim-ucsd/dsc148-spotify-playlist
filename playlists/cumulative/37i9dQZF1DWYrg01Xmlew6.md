@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. MV Killa in cover.
 
-240 songs - 11 hr 17 min
+241 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | ['O NOMME](https://open.spotify.com/track/7vTtjwKa63wPERKQ3B7mlE) | [Big Effe](https://open.spotify.com/artist/5w0y7r1VtKCnWjnsyM4Inm) | ['O NOMME](https://open.spotify.com/album/0PWAS2mH0qvRuT5Pos0Q5Q) | 2:00 | 2022-07-14 | 2022-08-26 |
 | [0 In Tasca](https://open.spotify.com/track/6TTX5dhUU8hyyrOADiy1KZ) | [Luis Add](https://open.spotify.com/artist/3oMuALMGNkRZ5OZaktx8s0), [Anthony](https://open.spotify.com/artist/4kAf149Iextkiu3MpCX4ut) | [0 In Tasca](https://open.spotify.com/album/6tZ1DGxKbvpbshXOredaKu) | 2:58 | 2022-11-22 |  |
 | [2 SECONDI](https://open.spotify.com/track/5EL2pGymrFM9jpVjBbsZhn) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:29 | 2023-04-06 | 2023-04-21 |
-| [365 ANDROMEDA](https://open.spotify.com/track/0Sj67WJfyuGp06ABJH0B7M) | [Dome Flame](https://open.spotify.com/artist/5QWbGP2dTpUGHzxR6g0YLq), [Flyboy](https://open.spotify.com/artist/4UvqRWkkxG8KbXYzmxEYgJ), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [365 ANDROMEDA](https://open.spotify.com/album/5ZfoFzsKrOUJf0Ma2FBPRQ) | 3:45 | 2023-09-28 |  |
+| [365 ANDROMEDA](https://open.spotify.com/track/0Sj67WJfyuGp06ABJH0B7M) | [Dome Flame](https://open.spotify.com/artist/5QWbGP2dTpUGHzxR6g0YLq), [Flyboy](https://open.spotify.com/artist/4UvqRWkkxG8KbXYzmxEYgJ), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [365 ANDROMEDA](https://open.spotify.com/album/5ZfoFzsKrOUJf0Ma2FBPRQ) | 3:45 | 2023-09-28 | 2023-10-13 |
 | [64 Bare](https://open.spotify.com/track/2hgdx2fVpYncIrV4IDMZoF) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [Baloo](https://open.spotify.com/artist/7fjRLtiDvaLA8CeqGCmEYA) | [64 Bare](https://open.spotify.com/album/03T2e774bXN4yNQzN9F3aj) | 2:41 | 2023-04-20 | 2023-05-12 |
 | [A' vita senz' e te \(Me fa paura\)](https://open.spotify.com/track/0aihKoR995mM6IO31vYd3I) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [A' vita senz' e te \(Me fa paura\)](https://open.spotify.com/album/0o862B9nqWJuGpEJwsQIsI) | 2:22 | 2022-11-10 |  |
 | [Accussì](https://open.spotify.com/track/5qvea4yzUYkFQGkUTQLjKy) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [LEO](https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp) | [Accussì](https://open.spotify.com/album/3k19bFL6YN6EEezYhA9ofi) | 3:09 | 2022-05-10 | 2022-05-13 |
@@ -75,6 +75,7 @@
 | [FUEGO](https://open.spotify.com/track/2k0lyGHBhhH0oqlQO89jpZ) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [FUEGO](https://open.spotify.com/album/6LhpKWPTsU2ymlFVAHPhdA) | 2:57 | 2023-05-18 | 2023-07-04 |
 | [FUOC X SEMP](https://open.spotify.com/track/6PoAFFOQiLzXOFeD3EbiaL) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [FUOC X SEMP](https://open.spotify.com/album/1eOLhOslFE7WSermbE6Ne4) | 2:46 | 2023-05-04 | 2023-05-12 |
 | [GAS](https://open.spotify.com/track/6351T1EhGpm7IAnsmXplnn) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H), [emvnuel](https://open.spotify.com/artist/6rGb0Db2lSQVMVWuSwzQBj) | [GAS](https://open.spotify.com/album/7ciK8kJ0K7fExA4VtiXLYQ) | 2:25 | 2022-07-07 | 2022-07-27 |
+| [Gelosa](https://open.spotify.com/track/6yFFIzhqSpbLpThVX1NBA5) | [Fiore](https://open.spotify.com/artist/087xYE0Vx9VAmQnkDpCq3R) | [Gelosa](https://open.spotify.com/album/4DqWLszRz3xqOVKwYtQrop) | 2:46 | 2023-10-12 |  |
 | [Genny e Mattia](https://open.spotify.com/track/0Ok5OqNJtBwU6iROg4M5cA) | [Kepa](https://open.spotify.com/artist/0STOPxbjhPEECpskdc6Qjg), [Manuel Erry](https://open.spotify.com/artist/3EuxW7IEIQFkxTKHSq8ETH), [Whizy](https://open.spotify.com/artist/5Cb508kGFzNJvPDsu9KgP2) | [Genny e Mattia](https://open.spotify.com/album/2VB3t5nVljtzj0qJwePSIj) | 3:14 | 2023-06-01 | 2023-06-15 |
 | [GESCAL](https://open.spotify.com/track/3i9FbuHPNwzERPtut6ZdgW) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt) | [GESCAL](https://open.spotify.com/album/722mXX4yzovAHZo9K6gag9) | 2:16 | 2022-10-13 | 2022-11-30 |
 | [GLORIA](https://open.spotify.com/track/4HoCHskLaChG5WQEYbjUew) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt) | [GLORIA](https://open.spotify.com/album/1bHMxxRXGzttc6ClsSPBYH) | 2:46 | 2022-05-19 | 2022-06-24 |

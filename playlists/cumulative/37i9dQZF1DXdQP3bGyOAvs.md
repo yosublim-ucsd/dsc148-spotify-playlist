@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-323 songs - 16 hr 8 min
+325 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Des Moments](https://open.spotify.com/track/6u7aoEs8qCeiQh80c94d73) | [OYOANNE](https://open.spotify.com/artist/54SxhcvIgW6e7A4R2UKNrL) | [Des Moments](https://open.spotify.com/album/0yCHMROpPtyxWYBgXF7rln) | 2:58 | 2022-05-27 | 2022-06-03 |
 | [Dial In](https://open.spotify.com/track/74UYdNAk3qSD6U4V5DShef) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Call Me](https://open.spotify.com/album/6MD0V6Ap6pdO6trtrG8Vhg) | 2:59 | 2022-12-09 | 2023-08-05 |
 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 | 2022-05-20 | 2022-09-09 |
+| [Double Booked](https://open.spotify.com/track/0NHeNBFdw03LNFIHlz2iMW) | [Terminal Grooves](https://open.spotify.com/artist/0TbDCdm68D1QjlairLPiTE) | [Double Booked](https://open.spotify.com/album/0ylLloIH1E9prf545wILc6) | 2:11 | 2023-10-13 |  |
 | [Dream Repeat](https://open.spotify.com/track/04evXU0FfGzNOQR8WLdhPw) | [Hiro Lam](https://open.spotify.com/artist/2mZ6IwBhZqvfxcCtAwz25L) | [Dream Repeat](https://open.spotify.com/album/1fUGc9LxW52P90f49TYT0o) | 3:57 | 2022-05-20 |  |
 | [Dress Code](https://open.spotify.com/track/4FAplJVLA4DZ021mNlQooP) | [Gridlocks](https://open.spotify.com/artist/0UdtexVQoBH5XHUwGEkCZO) | [Dress Code](https://open.spotify.com/album/7tIzQ9i65nq4YsQCZznkHg) | 2:18 | 2022-10-14 |  |
 | [Driving at Night](https://open.spotify.com/track/4yahCXe4VtfBj7vVrWdMmT) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Driving at Night](https://open.spotify.com/album/6xY0fpbRimEKGssb4Js6dc) | 3:45 | 2022-08-05 |  |
@@ -288,6 +289,7 @@
 | [Suamalie](https://open.spotify.com/track/6OIRXuSjisW4P186yxV1En) | [Slashio](https://open.spotify.com/artist/47tNKltwmA9PtSyeuGvhHe) | [Suamalie](https://open.spotify.com/album/5B8Nc7nSk7UW8Zu3ZIa4yB) | 2:47 | 2022-06-03 |  |
 | [Summer flower](https://open.spotify.com/track/1FZ8DbYXBExoMZpVYlILR1) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [Summer flower](https://open.spotify.com/album/5N07HHsi9ZhvquiBgwtQLa) | 3:08 | 2022-07-29 | 2023-01-07 |
 | [Summertime Love](https://open.spotify.com/track/2h1OAlUkaqGlUdiCsfWy0P) | [Lady Mas](https://open.spotify.com/artist/1dLFAvqPp134vW4ZpZzUYJ) | [Summertime Love](https://open.spotify.com/album/0LcN6YlgfKqBqvdpB29JNM) | 3:20 | 2022-05-20 | 2022-09-09 |
+| [Sunday Grid](https://open.spotify.com/track/1QdHI6XAewVlerEOweBHnh) | [Zumaia](https://open.spotify.com/artist/30w51iPwkBwWcs6ZzrrxsH) | [Sunday Grid](https://open.spotify.com/album/5Zb2pyStZHq6x8dQPJ4eMR) | 2:03 | 2023-10-13 |  |
 | [Sundown](https://open.spotify.com/track/09PSpnj9hH0kpoRDRWucVW) | [Coconut & Palm Trees](https://open.spotify.com/artist/5BLqpPJJkxoP3M03obHi1K) | [Sundown](https://open.spotify.com/album/26X1IbQSHXNSFmRCZTuz03) | 2:57 | 2022-05-20 | 2022-09-09 |
 | [sunique](https://open.spotify.com/track/7a44ttV7Dp0nxJTXduqgSb) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [sunique](https://open.spotify.com/album/60t2NsIUvRFZ6kMTMIg7SH) | 3:08 | 2022-05-20 |  |
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2022-05-20 |  |

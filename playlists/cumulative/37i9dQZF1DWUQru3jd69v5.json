@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Lefar",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: 8blevrai",
   "name": "Raptopia",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 210580,
       "name": "4:44 Sisu L' Immortale",
       "url": "https://open.spotify.com/track/47wo95wHNxB1XvsWsH8Ck7"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 173333,
       "name": "AAAnimal",
       "url": "https://open.spotify.com/track/6wXtc9rxZcSWH77mgqps2W"
@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 135512,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/6dfus00rufybawdDBasdG8"
@@ -2480,10 +2480,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 122769,
       "name": "Bustdown",
       "url": "https://open.spotify.com/track/2lEs6hNfZResQJnapGLPez"
+    },
+    {
+      "album": {
+        "name": "BVLGARI",
+        "url": "https://open.spotify.com/album/1959Xf6EJPqYLaxFJxsYXD"
+      },
+      "artists": [
+        {
+          "name": "R1MKA",
+          "url": "https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144466,
+      "name": "BVLGARI",
+      "url": "https://open.spotify.com/track/1WibnlA9JXDEOewy0mr71I"
     },
     {
       "album": {
@@ -2732,6 +2750,32 @@
       "duration_ms": 123333,
       "name": "Captato",
       "url": "https://open.spotify.com/track/4kSEO7zOY10fak3s1KF04k"
+    },
+    {
+      "album": {
+        "name": "Carhartt (feat. Kuremino)",
+        "url": "https://open.spotify.com/album/5dlmCQA1unPeHuiwfHatwP"
+      },
+      "artists": [
+        {
+          "name": "Incis ZONE",
+          "url": "https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt"
+        },
+        {
+          "name": "Goss Vinyard",
+          "url": "https://open.spotify.com/artist/2w3jmxjfaLRyLhJ8GfqyiV"
+        },
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140869,
+      "name": "Carhartt (feat. Kuremino)",
+      "url": "https://open.spotify.com/track/4SluBeyc807T4WowzQgILG"
     },
     {
       "album": {
@@ -4319,6 +4363,24 @@
     },
     {
       "album": {
+        "name": "DON'T TRUST HOES",
+        "url": "https://open.spotify.com/album/0qnzven1Tz6v5C8qPpXjzR"
+      },
+      "artists": [
+        {
+          "name": "MISSVIVS",
+          "url": "https://open.spotify.com/artist/4M8Y3T3ocS8wJNw9hAWkY1"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163839,
+      "name": "DON'T TRUST HOES",
+      "url": "https://open.spotify.com/track/6c8ttfvaawdm8iKhSvgWzc"
+    },
+    {
+      "album": {
         "name": "Donnie Brasco freestyle",
         "url": "https://open.spotify.com/album/78W5CaphrYeizlF43lpJFE"
       },
@@ -4414,7 +4476,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 161352,
       "name": "DRIN DRIN (feat. LJK)",
       "url": "https://open.spotify.com/track/6l1kvKetaUlC235MpIJrUD"
@@ -5330,7 +5392,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 178846,
       "name": "Formentera",
       "url": "https://open.spotify.com/track/12IR65dUPwMXxB7Y3HGw1c"
@@ -6926,7 +6988,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 92800,
       "name": "INFERNO",
       "url": "https://open.spotify.com/track/5jz7OO7VT8eWmWW9dBTBRD"
@@ -7362,7 +7424,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 141290,
       "name": "Kratos",
       "url": "https://open.spotify.com/track/0cWJZCWkTzMyer8IbBhHbK"
@@ -7516,7 +7578,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 171598,
       "name": "La cit\u00e8",
       "url": "https://open.spotify.com/track/0rKCp9Obl3biQTNsuYRbcY"
@@ -8293,6 +8355,24 @@
     },
     {
       "album": {
+        "name": "LOST CONTROL",
+        "url": "https://open.spotify.com/album/5UAfKgJeU7yiTvBOVBOHcg"
+      },
+      "artists": [
+        {
+          "name": "LILCR",
+          "url": "https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144022,
+      "name": "LOST CONTROL",
+      "url": "https://open.spotify.com/track/4gJXn8lWZVD7Zc8LBTi0Nf"
+    },
+    {
+      "album": {
         "name": "Lycamobile",
         "url": "https://open.spotify.com/album/7CnUxTj8QB1OybIkKwXRBc"
       },
@@ -8438,7 +8518,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 148804,
       "name": "MALAGA",
       "url": "https://open.spotify.com/track/2wP2hvc5vEG37UPcHLJbDM"
@@ -12187,6 +12267,24 @@
     },
     {
       "album": {
+        "name": "Regola",
+        "url": "https://open.spotify.com/album/00SHH9ByP99buGH3GLzlyt"
+      },
+      "artists": [
+        {
+          "name": "emanuelino",
+          "url": "https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155697,
+      "name": "Regola",
+      "url": "https://open.spotify.com/track/56P2inxeIGjPaXMpr8HCCC"
+    },
+    {
+      "album": {
         "name": "Responsabile (feat. Nerissima Serpe)",
         "url": "https://open.spotify.com/album/7tyFbNorSj6F0n9zUl25hO"
       },
@@ -14036,7 +14134,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 146400,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/63LyHQhQ23buXUq1NdWYbR"
@@ -14178,7 +14276,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 174224,
       "name": "TE QUIERO (feat. LJK)",
       "url": "https://open.spotify.com/track/3iMyhsqTI6i7C55ihN5ejG"
@@ -14873,6 +14971,24 @@
     },
     {
       "album": {
+        "name": "Tutta Tatuata",
+        "url": "https://open.spotify.com/album/7lrATruRoCmymNm6JXtUml"
+      },
+      "artists": [
+        {
+          "name": "Manu Skar",
+          "url": "https://open.spotify.com/artist/592TSNOHonUcOHcEorAGgV"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124920,
+      "name": "Tutta Tatuata",
+      "url": "https://open.spotify.com/track/45g7ALZKKjiaUvH5o6ovxC"
+    },
+    {
+      "album": {
         "name": "TUTTO PERFETTO",
         "url": "https://open.spotify.com/album/3F6ggobCxry9HTbiAtKO1W"
       },
@@ -15136,7 +15252,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 148711,
       "name": "Vegeta (feat. N\u00e9za)",
       "url": "https://open.spotify.com/track/73TYUZ7vZ6hFP0p5NXin0g"
@@ -15470,7 +15586,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 142400,
       "name": "Vulture Activity",
       "url": "https://open.spotify.com/track/2gBZh3c9dOIO3rVOOYcgul"
@@ -15838,6 +15954,46 @@
       "duration_ms": 157584,
       "name": "X-ADV",
       "url": "https://open.spotify.com/track/2c7ikfs0Skm2IZvK1NPWPr"
+    },
+    {
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/3s8ZAoor3QKU1Se21RoT0s"
+      },
+      "artists": [
+        {
+          "name": "Silnyya",
+          "url": "https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145924,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/6jozqjEnIIgJHfcU7DCkfe"
+    },
+    {
+      "album": {
+        "name": "XXL",
+        "url": "https://open.spotify.com/album/5IqtWy8AZcWFEuQNShmgZ3"
+      },
+      "artists": [
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        },
+        {
+          "name": "85Prod",
+          "url": "https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216214,
+      "name": "XXL",
+      "url": "https://open.spotify.com/track/38WBxeWWDxnggsr3USYSnP"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Bo9al",
-  "num_followers": 125488,
+  "num_followers": 125238,
   "original_name": "Arab Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmU4OWY1MmM2MGRmNjExNzFhOTM4YWJjMjQ3NTY4YTFmYTNjNDBl",
+  "snapshot_id": "MCw2ODc1MDQ4N2Q0MGUyMjNlZjBiOTNkZTJiZWQ1NTI0NGZiMzQyYmE5",
   "tracks": [
     {
       "added_at": "2023-10-03 11:10:55",
@@ -263,8 +263,8 @@
     {
       "added_at": "2023-10-03 11:10:55",
       "album": {
-        "name": "Belad",
-        "url": "https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV"
+        "name": "TA TA TA",
+        "url": "https://open.spotify.com/album/1FJ28AVA8iFQuwtAQWOwGP"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
         }
       ],
-      "duration_ms": 170919,
-      "name": "Askot Khales",
-      "url": "https://open.spotify.com/track/2zdUvdGC4hwlYC1WjaFKCr"
+      "duration_ms": 159810,
+      "name": "TA TA TA",
+      "url": "https://open.spotify.com/track/0RH75zMCXxmyxqiz8CymsO"
     },
     {
       "added_at": "2023-10-03 11:10:55",
@@ -551,6 +551,38 @@
     {
       "added_at": "2023-10-03 11:10:55",
       "album": {
+        "name": "Alatif",
+        "url": "https://open.spotify.com/album/12PmJ95M7wML8ievJRi0zx"
+      },
+      "artists": [
+        {
+          "name": "Dollypran",
+          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
+        }
+      ],
+      "duration_ms": 196231,
+      "name": "Alatif",
+      "url": "https://open.spotify.com/track/5EziL9bwKacAPWAQSkl8Wh"
+    },
+    {
+      "added_at": "2023-10-03 11:10:55",
+      "album": {
+        "name": "Belad",
+        "url": "https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "duration_ms": 170919,
+      "name": "Askot Khales",
+      "url": "https://open.spotify.com/track/2zdUvdGC4hwlYC1WjaFKCr"
+    },
+    {
+      "added_at": "2023-10-03 11:10:55",
+      "album": {
         "name": "Lamouni",
         "url": "https://open.spotify.com/album/67GW8ttYMQksrL6ER2Ovaf"
       },
@@ -571,38 +603,6 @@
       "duration_ms": 202733,
       "name": "Lamouni",
       "url": "https://open.spotify.com/track/3VjyVm2EOI3bKXmA9BRz7i"
-    },
-    {
-      "added_at": "2023-10-03 11:10:55",
-      "album": {
-        "name": "TA TA TA",
-        "url": "https://open.spotify.com/album/1FJ28AVA8iFQuwtAQWOwGP"
-      },
-      "artists": [
-        {
-          "name": "Afroto",
-          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
-        }
-      ],
-      "duration_ms": 159810,
-      "name": "TA TA TA",
-      "url": "https://open.spotify.com/track/0RH75zMCXxmyxqiz8CymsO"
-    },
-    {
-      "added_at": "2023-10-03 11:10:55",
-      "album": {
-        "name": "Alatif",
-        "url": "https://open.spotify.com/album/12PmJ95M7wML8ievJRi0zx"
-      },
-      "artists": [
-        {
-          "name": "Dollypran",
-          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
-        }
-      ],
-      "duration_ms": 196231,
-      "name": "Alatif",
-      "url": "https://open.spotify.com/track/5EziL9bwKacAPWAQSkl8Wh"
     },
     {
       "added_at": "2023-10-03 11:10:55",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-10-03 11:10:55",
       "album": {
+        "name": "KALBI",
+        "url": "https://open.spotify.com/album/52C44WKKnzqgzbnTb5J5pt"
+      },
+      "artists": [
+        {
+          "name": "Shabjdeed",
+          "url": "https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95"
+        }
+      ],
+      "duration_ms": 165899,
+      "name": "KALBI",
+      "url": "https://open.spotify.com/track/5hUJkjeGR4CCyMmMLt9iLx"
+    },
+    {
+      "added_at": "2023-10-03 11:10:55",
+      "album": {
         "name": "Leila",
         "url": "https://open.spotify.com/album/0apSvBI2Dw5KWkIKdBPFSJ"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 148292,
       "name": "Leh Nehzar",
       "url": "https://open.spotify.com/track/0vE3QsIZEyespCVUntPOa9"
-    },
-    {
-      "added_at": "2023-10-03 11:10:55",
-      "album": {
-        "name": "KALBI",
-        "url": "https://open.spotify.com/album/52C44WKKnzqgzbnTb5J5pt"
-      },
-      "artists": [
-        {
-          "name": "Shabjdeed",
-          "url": "https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95"
-        }
-      ],
-      "duration_ms": 165899,
-      "name": "KALBI",
-      "url": "https://open.spotify.com/track/5hUJkjeGR4CCyMmMLt9iLx"
     },
     {
       "added_at": "2023-10-03 11:10:55",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-10-03 11:10:55",
       "album": {
-        "name": "Helma",
-        "url": "https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx"
+        "name": "Bader Khol3a",
+        "url": "https://open.spotify.com/album/5XhXrx2BTXQqIndy969kez"
       },
       "artists": [
         {
-          "name": "Tagne",
-          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+          "name": "Montiyago",
+          "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
         }
       ],
-      "duration_ms": 163527,
-      "name": "Helma",
-      "url": "https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ"
+      "duration_ms": 132000,
+      "name": "Bader Khol3a",
+      "url": "https://open.spotify.com/track/2O4fl7UvPHbledhgyHjTio"
     },
     {
       "added_at": "2023-10-03 11:10:55",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-10-03 11:10:55",
       "album": {
-        "name": "Bader Khol3a",
-        "url": "https://open.spotify.com/album/5XhXrx2BTXQqIndy969kez"
+        "name": "Helma",
+        "url": "https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx"
       },
       "artists": [
         {
-          "name": "Montiyago",
-          "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Bader Khol3a",
-      "url": "https://open.spotify.com/track/2O4fl7UvPHbledhgyHjTio"
+      "duration_ms": 163527,
+      "name": "Helma",
+      "url": "https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ"
     },
     {
       "added_at": "2023-10-03 11:10:55",

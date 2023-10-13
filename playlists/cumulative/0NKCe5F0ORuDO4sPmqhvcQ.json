@@ -3343,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "Fallin'",
+        "url": "https://open.spotify.com/album/5u0iectTVN6O01g7ca1yCt"
+      },
+      "artists": [
+        {
+          "name": "Late Night Therapy",
+          "url": "https://open.spotify.com/artist/2mlllc3fdsSFJHJDBcg33I"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272903,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/5S50KnoWF8B39yp0DziC7U"
+    },
+    {
+      "album": {
         "name": "Falling In Love",
         "url": "https://open.spotify.com/album/4RM7dK7ScgLW1UG1k8kInQ"
       },
@@ -4613,7 +4631,7 @@
     },
     {
       "album": {
-        "name": "i can see",
+        "name": "I Can See",
         "url": "https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A"
       },
       "artists": [
@@ -4626,7 +4644,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 229083,
-      "name": "i can see",
+      "name": "I Can See",
       "url": "https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr"
     },
     {
@@ -6104,6 +6122,24 @@
       "duration_ms": 173061,
       "name": "Moonlight (feat. Gianni Taylor)",
       "url": "https://open.spotify.com/track/6u2XCvRMgI7kQZ32RbiAbk"
+    },
+    {
+      "album": {
+        "name": "Moth Love",
+        "url": "https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202391,
+      "name": "Moth Love",
+      "url": "https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA"
     },
     {
       "album": {

@@ -253,6 +253,24 @@
     },
     {
       "album": {
+        "name": "Proof Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171700,
+      "name": "Black Car",
+      "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
+    },
+    {
+      "album": {
         "name": "BLACK SHADOW",
         "url": "https://open.spotify.com/album/0CUg8QxPvuu71RqUvZ7UCD"
       },
@@ -937,6 +955,24 @@
     },
     {
       "album": {
+        "name": "In My Soul",
+        "url": "https://open.spotify.com/album/5XzrqHjTXVWn6WRnLVawep"
+      },
+      "artists": [
+        {
+          "name": "Shalom Dubas",
+          "url": "https://open.spotify.com/artist/2ys4tbtUpMQd5eujuaRXSj"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "In My Soul",
+      "url": "https://open.spotify.com/track/3CMfurJL0T1OZPKU1RdYUc"
+    },
+    {
+      "album": {
         "name": "In The Clouds",
         "url": "https://open.spotify.com/album/79eYcHk7WngNWEIAP68pmn"
       },
@@ -1170,6 +1206,24 @@
       "duration_ms": 213333,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD"
+    },
+    {
+      "album": {
+        "name": "Milk & Honey / Light",
+        "url": "https://open.spotify.com/album/7bPhbpX3wRkmgf75CFSd6m"
+      },
+      "artists": [
+        {
+          "name": "Muzi",
+          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191782,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/41NqESXB9XqryxvtaRjubm"
     },
     {
       "album": {
@@ -1449,6 +1503,28 @@
     },
     {
       "album": {
+        "name": "Moses",
+        "url": "https://open.spotify.com/album/0bfbqUxGnVezR36AUwTbfq"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "Boma Nime",
+          "url": "https://open.spotify.com/artist/2tkw8FFnCrgenakG7wml4B"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161073,
+      "name": "Moses",
+      "url": "https://open.spotify.com/track/0NC9BEfvWG3hCsog3VihV8"
+    },
+    {
+      "album": {
         "name": "PALM WINE MUSIC",
         "url": "https://open.spotify.com/album/0SM08MFC2SE6HT7YvFEadu"
       },
@@ -1706,7 +1782,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 227748,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/4MOgPPMxHEHdyIvbMJXUgt"
@@ -2370,7 +2446,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 188181,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/1ySzohfiLo3l12pcqW40p3"
@@ -2526,7 +2602,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 182644,
       "name": "Theysaid.",
       "url": "https://open.spotify.com/track/1jU9gOcHzL2FncEgneJQYD"
@@ -2678,7 +2754,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 389120,
       "name": "Too Many Bags - Kaidi's Remix",
       "url": "https://open.spotify.com/track/66lnFWtNlxv3MQbF7QNQoy"

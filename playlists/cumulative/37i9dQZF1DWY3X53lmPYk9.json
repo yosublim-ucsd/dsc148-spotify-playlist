@@ -2011,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "First Steps",
+        "url": "https://open.spotify.com/album/4ZsRYhlJzvIpSNucb51GvA"
+      },
+      "artists": [
+        {
+          "name": "Southside Players",
+          "url": "https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200706,
+      "name": "First Steps",
+      "url": "https://open.spotify.com/track/38bC7Ca64SP0ea8bqBXpGT"
+    },
+    {
+      "album": {
         "name": "First-rate",
         "url": "https://open.spotify.com/album/6P8l5ZJ9uktJb9Shz2lnTM"
       },
@@ -4009,6 +4027,24 @@
     },
     {
       "album": {
+        "name": "Lover\u00b4s Lullaby",
+        "url": "https://open.spotify.com/album/5msQgWuEsEnoCs6TQ5M0mC"
+      },
+      "artists": [
+        {
+          "name": "Lucas Collins",
+          "url": "https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "Lover\u00b4s Lullaby",
+      "url": "https://open.spotify.com/track/7wuxoIozxMyvupQcb4Yh7P"
+    },
+    {
+      "album": {
         "name": "Lullaby for Lilly",
         "url": "https://open.spotify.com/album/11AeTqQfSfhLMqjlar2RaC"
       },
@@ -4258,6 +4294,24 @@
       "duration_ms": 267679,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/6itam0ElHeMmal7zEFVn63"
+    },
+    {
+      "album": {
+        "name": "Moonlight Over Manhattan",
+        "url": "https://open.spotify.com/album/1EeXlyJEGwucXGlmivU95U"
+      },
+      "artists": [
+        {
+          "name": "Claire Martinelle",
+          "url": "https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187751,
+      "name": "Moonlight Over Manhattan",
+      "url": "https://open.spotify.com/track/1d6SiPIjnEc0Q7H8vHIetM"
     },
     {
       "album": {
@@ -6886,6 +6940,24 @@
       "duration_ms": 117474,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/4CK5h3o4QliBTMJ8SjWf2E"
+    },
+    {
+      "album": {
+        "name": "Velvet Reverie",
+        "url": "https://open.spotify.com/album/3yJlZjH3LO49AbvNBRdWvN"
+      },
+      "artists": [
+        {
+          "name": "Natalie Meir",
+          "url": "https://open.spotify.com/artist/3olbeTBaHv78vZXeoDPq4B"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154448,
+      "name": "Velvet Reverie",
+      "url": "https://open.spotify.com/track/07H8tef2AWRWeTUkvCgjej"
     },
     {
       "album": {

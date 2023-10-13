@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere & celebrating Filipino Heritage Month all month long! Cover: Ez Mil.
 
-623 songs - 1 day 8 hr 23 min
+624 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Don't Know About The World](https://open.spotify.com/track/76M8uxD1WvL0H4h2Jv8Fm5) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Don't Know About The World](https://open.spotify.com/album/5GrDrzY4yWfB2YwyZqx2gP) | 2:23 | 2023-09-15 |  |
 | [Don't Leave Yet](https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Don't Leave Yet](https://open.spotify.com/album/3waB8KtFMT0fggbkjbK7Kj) | 2:45 | 2023-08-11 |  |
 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu) | 3:25 | 2023-08-04 |  |
+| [Don't Step On My Nikes](https://open.spotify.com/track/60rwDygmXmbkD5OVc508y9) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Don't Step On My Nikes](https://open.spotify.com/album/3IOrmd5uhcEwnLyWXEmM1d) | 2:36 | 2023-10-06 |  |
 | [Done \(Let’s Get It\)](https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Done \(Let's Get It\)](https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO) | 2:52 | 2023-02-24 | 2023-08-13 |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2022-07-22 |  |
 | [double take](https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax) | 2:51 | 2022-05-27 | 2022-07-29 |
@@ -627,7 +628,7 @@
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-27 | 2022-08-27 |
 | [夢中人](https://open.spotify.com/track/1SGPQAdXXDbcRX8kGoBiN3) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [傳奇 \- 胡思亂想](https://open.spotify.com/album/5FhKi7rkSdgJhQeNEmNPje) | 4:21 | 2023-09-01 | 2023-09-23 |
 | [最偉大的作品](https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:04 | 2022-07-15 | 2023-08-12 |
-| [最後一次心碎](https://open.spotify.com/track/0Mn3gzrUf0ubQ64XhsL9mY) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [最後一次心碎](https://open.spotify.com/album/25hqQlN9L9482Arrj3PmgD) | 2:48 | 2023-09-29 |  |
+| [最後一次心碎](https://open.spotify.com/track/0Mn3gzrUf0ubQ64XhsL9mY) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [最後一次心碎](https://open.spotify.com/album/25hqQlN9L9482Arrj3PmgD) | 2:48 | 2023-09-29 | 2023-10-13 |
 | [途中](https://open.spotify.com/track/6ps7aXKGIUjokiYT7e727f) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW) | [途中](https://open.spotify.com/album/2JkrYRPnJyStuspThL1Raz) | 3:31 | 2022-12-02 | 2023-01-06 |
 | [電線桿上的鳥](https://open.spotify.com/track/1t4HsbksxswOkhArZcLZ5t) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/1Eq1IRbDhCLWfjbp0pNQ1p) | 3:55 | 2022-06-17 | 2022-07-29 |
 | [電線桿上的鳥](https://open.spotify.com/track/5qwczaEoBqJG2S5T2LqZKk) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/5GLdc5aIjdvyO0U1U9sJKX) | 3:55 | 2023-05-05 | 2023-07-15 |

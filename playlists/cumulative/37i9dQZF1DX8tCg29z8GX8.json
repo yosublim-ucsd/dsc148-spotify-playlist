@@ -938,7 +938,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 173888,
       "name": "Body 2 Body (feat. KiDi & Camidoh)",
       "url": "https://open.spotify.com/track/1POkAbQJ7Hja6FIzCYWCBY"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 148374,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA"
@@ -1565,6 +1565,32 @@
     },
     {
       "album": {
+        "name": "Denge II",
+        "url": "https://open.spotify.com/album/7K9VJX2ZO6rtj4jW9zqY8t"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158771,
+      "name": "Denge II",
+      "url": "https://open.spotify.com/track/4BoTvPsNH6ijLrdlIV1kbA"
+    },
+    {
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
@@ -1730,7 +1756,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 183118,
       "name": "E Choke",
       "url": "https://open.spotify.com/track/0lzX67xt1DiKrl3CV0stJC"
@@ -1968,6 +1994,28 @@
       "duration_ms": 178105,
       "name": "Fate",
       "url": "https://open.spotify.com/track/1QCV9ndrHVnqtMcqXszEN6"
+    },
+    {
+      "album": {
+        "name": "BUTiFLY",
+        "url": "https://open.spotify.com/album/2xvYJb8vpUxIvzmUTeleQ3"
+      },
+      "artists": [
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "Feel Your Body",
+      "url": "https://open.spotify.com/track/7i1IidJjOxCxv9Yq7DKPM5"
     },
     {
       "album": {
@@ -3077,6 +3125,24 @@
     },
     {
       "album": {
+        "name": "Kai Me",
+        "url": "https://open.spotify.com/album/2ATGjmkksfDn9WY1VJ9MX5"
+      },
+      "artists": [
+        {
+          "name": "Paq",
+          "url": "https://open.spotify.com/artist/0XYSXxykpPb4xmTjvc2yY4"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148116,
+      "name": "Kai Me",
+      "url": "https://open.spotify.com/track/0rJa955M9QtlA6tNOSBDzy"
+    },
+    {
+      "album": {
         "name": "RUSHAFELLA TO THE WORLD",
         "url": "https://open.spotify.com/album/6S4PAxvRROYepV9KJ2Ov6P"
       },
@@ -3816,7 +3882,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 198362,
       "name": "Mapuka",
       "url": "https://open.spotify.com/track/2OwWSctJ0S8Nd44gBzmQQC"
@@ -3834,7 +3900,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 184166,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G"
@@ -4088,7 +4154,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 180000,
       "name": "More Of You",
       "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
@@ -4351,6 +4417,24 @@
     },
     {
       "album": {
+        "name": "No Wam",
+        "url": "https://open.spotify.com/album/72EQ052XrPOGeHp1M7ruYE"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "No Wam",
+      "url": "https://open.spotify.com/track/2ZoMTHk3A1IiChH9h6BW5b"
+    },
+    {
+      "album": {
         "name": "Black Panther: Wakanda Forever Prologue",
         "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
       },
@@ -4410,6 +4494,28 @@
       "duration_ms": 150055,
       "name": "Not God",
       "url": "https://open.spotify.com/track/6u15h9ZJMKrV3ZBZ5FwAUH"
+    },
+    {
+      "album": {
+        "name": "Not God (Remix)",
+        "url": "https://open.spotify.com/album/05ruDWqO8oNBoz4L66xzG2"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215757,
+      "name": "Not God - Remix",
+      "url": "https://open.spotify.com/track/3WOjwhAJopm0H1d7Z804JP"
     },
     {
       "album": {
@@ -6672,6 +6778,28 @@
       "duration_ms": 149457,
       "name": "Water",
       "url": "https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH"
+    },
+    {
+      "album": {
+        "name": "Planning & Plotting",
+        "url": "https://open.spotify.com/album/5tzGN7v8ThskOevWZtZCUS"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/39XhbcJa05wPLIEHid0ETX"
     },
     {
       "album": {

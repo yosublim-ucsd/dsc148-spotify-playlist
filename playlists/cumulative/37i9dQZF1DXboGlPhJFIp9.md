@@ -4,7 +4,7 @@
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-174 songs - 8 hr 14 min
+175 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Over the Highlands](https://open.spotify.com/track/0YnGWHjeqvBxbdf1T2RXbM) | [Stim Rush](https://open.spotify.com/artist/6oauPLbeRb1ShwhY7dzRUn) | [Expanse](https://open.spotify.com/album/5To2yLp2nIg7TZ11RGc9Ho) | 3:10 | 2022-05-13 |  |
 | [Pathways](https://open.spotify.com/track/4xDlA5m82NK3cPFBED5ttv) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Pathways](https://open.spotify.com/album/61FPjJzbfrVssH6ELwer5Z) | 3:20 | 2022-05-13 |  |
 | [Phoenicia](https://open.spotify.com/track/5d09BHHm15tqsHaEHkILOb) | [Lester Simon Trio](https://open.spotify.com/artist/4QKlnta4dWJLNF1yE94FF8) | [Phoenicia](https://open.spotify.com/album/1xYqWYfJaUuSa4AHdItMuR) | 4:18 | 2022-05-13 | 2023-03-11 |
+| [Places](https://open.spotify.com/track/2xzeiaDWINS5uKxcKACelE) | [Pireas](https://open.spotify.com/artist/3ypTDxZrbGFGzOhO4XQuJd) | [Places](https://open.spotify.com/album/4oWakKLFI6Sqxku6v8RBWt) | 1:56 | 2023-10-13 |  |
 | [Playing With The Wind](https://open.spotify.com/track/3yZKk7wp39zvQVhw5sI94h) | [Minos Gold](https://open.spotify.com/artist/4kz76xioOGVZ11SWiz64WL) | [Playing With The Wind](https://open.spotify.com/album/1MAfSjDCWtWMddzLKCSMpe) | 2:30 | 2023-06-09 | 2023-08-17 |
 | [Precious Time](https://open.spotify.com/track/1CE2JVNtxahAJONVsQtXn0) | [Snohia](https://open.spotify.com/artist/1SLKYmQ8qOG0ntwWx0LCrl) | [Precious Time](https://open.spotify.com/album/6dB6ksULB0MT3aRol8dBkH) | 2:25 | 2023-06-09 |  |
 | [PROVENZA \- Guitar](https://open.spotify.com/track/7j2LbOo50jIVChXZsxyFn2) | [FOCUS MODE](https://open.spotify.com/artist/78kusWUesOzmpCfw9l4tMp) | [Éxitos Latinos \(Guitar\)](https://open.spotify.com/album/1QThiTr0gwlXNDP5oW9NGN) | 3:56 | 2023-01-20 | 2023-08-12 |

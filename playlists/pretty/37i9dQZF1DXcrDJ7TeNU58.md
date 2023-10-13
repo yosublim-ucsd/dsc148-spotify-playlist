@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrDJ7TeNU58.md) - [plain]
 
 > Fêtez Halloween en musique !
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,162 likes - 40 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,405 likes - 40 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrDJ7TeNU58.md) - [plain]
 | 39 | [Trick Me \- Club Mix](https://open.spotify.com/track/2qib0282oGZPZWyJHqJaVi) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:26 |
 | 40 | [Gimme Some More](https://open.spotify.com/track/47wZfF4OdME3xkIPhhpSSF) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Extinction Level Event: The Final World Front](https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW) | 2:38 |
 
-Snapshot ID: `MCw5ODgxYWVhNTdlYWEwNjgwNzY2NWMxNGUxMGZiMmY3Njk2NmM0Yzk3`
+Snapshot ID: `MCxiMTYzMWUzM2I4NzE2MDI5MGNlZThmYTEyYjI0ZjI4OGQ0OWMxOWY3`

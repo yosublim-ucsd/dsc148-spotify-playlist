@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-516 songs - 1 day 4 hr 52 min
+518 songs - 1 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [For Oli](https://open.spotify.com/track/7FNBpx4om1iQcUPnyGqdMG) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [For Oli](https://open.spotify.com/album/4oKKOTdzrkbucK3RwrvYXI) | 3:23 | 2023-06-15 |  |
 | [Forgot About Us](https://open.spotify.com/track/5WJtuMqSdxcbuNvouacT37) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Forgot About Us](https://open.spotify.com/album/414LRtMnUY3SguBTwr0duS) | 3:33 | 2022-04-28 |  |
 | [Free Time](https://open.spotify.com/track/0fNLObXT9pvc3VED0oAevd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:38 | 2019-09-13 | 2020-06-19 |
-| [Frozen Lake](https://open.spotify.com/track/0LkTtVU68j3y1JS9o8bdvR) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4fuT39LI3YOcS3dQXNA1IS) | 3:36 | 2023-07-07 |  |
+| [Frozen Lake](https://open.spotify.com/track/0LkTtVU68j3y1JS9o8bdvR) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4fuT39LI3YOcS3dQXNA1IS) | 3:36 | 2023-07-07 | 2023-10-13 |
+| [Frozen Lake](https://open.spotify.com/track/29zts9dRYNDmGcMJjWxjio) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4yHhW0tJ06QGsIBSpFRchc) | 3:36 | 2023-09-21 |  |
 | [Frozen Lake](https://open.spotify.com/track/4IAEwFyvFjKRe3kMDFw2F5) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Frozen Lake](https://open.spotify.com/album/7bjfCfZ6Cf5K2bS1kLLMrd) | 3:36 | 2023-06-01 | 2023-08-09 |
 | [Future Kids](https://open.spotify.com/track/5Cy20icxvxt8EnB2pIdVxf) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Future Kids](https://open.spotify.com/album/2aAF4bnWU9rrbK8mw70TGl) | 3:11 | 2021-02-12 | 2021-11-10 |
 | [Getting Over You](https://open.spotify.com/track/22hCW8J2tHYdaBhdDX44HI) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Getting Over You](https://open.spotify.com/album/0JxpmNUNXqfXFDpZgaJ4My) | 2:10 | 2022-07-14 |  |
@@ -255,7 +256,8 @@
 | [la](https://open.spotify.com/track/0YCHNLppOQkT0fNg6UAXhr) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [la](https://open.spotify.com/album/2Szj6AvXKHtR90Gi81bj6R) | 2:46 | 2020-01-23 | 2020-02-11 |
 | [La Di Da](https://open.spotify.com/track/2YyvWje3cEYyqgYhNUIaBJ) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Love, me](https://open.spotify.com/album/3OIuzwZjpwUwyvFhSHYjj6) | 3:29 | 2019-07-29\* | 2019-10-25 |
 | [Last Night](https://open.spotify.com/track/3ywrISEwzG77sLVaPaxY4L) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Sabotage \- EP](https://open.spotify.com/album/0b04e2zgFiPddLwUcqJicq) | 3:29 | 2019-07-29\* | 2019-08-16 |
-| [last request](https://open.spotify.com/track/3e2k9IlblTs4o5cD5DrPcO) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [last request](https://open.spotify.com/album/5FTXpQ9VirW7NG2Ee2gXvD) | 3:00 | 2022-07-14 |  |
+| [last request](https://open.spotify.com/track/3e2k9IlblTs4o5cD5DrPcO) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [last request](https://open.spotify.com/album/5FTXpQ9VirW7NG2Ee2gXvD) | 3:00 | 2022-07-14 | 2023-10-13 |
+| [last request](https://open.spotify.com/track/4cbFNidq9E1kfxG9iykJcX) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [last request](https://open.spotify.com/album/4z4pT9sg61pJLBal6tRFuk) | 3:00 | 2023-09-21 |  |
 | [Lead Me to the Water](https://open.spotify.com/track/3I6WUxyaO5rxn1or1aiIl7) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Lead Me to the Water](https://open.spotify.com/album/0YJf6rs8qBmTnV1FUsWwYL) | 3:03 | 2021-04-07 | 2021-11-10 |
 | [Learning To Fly](https://open.spotify.com/track/7K17Bf15jq4EGfqhYc8Zjv) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Learning To Fly](https://open.spotify.com/album/3blsbvbusz2BUmqVCqwb06) | 2:56 | 2023-09-21 |  |
 | [Let Go](https://open.spotify.com/track/6C4iAGKybEdevddZklaxpX) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Let Go](https://open.spotify.com/album/24lCE3skRS14egP6xhAIjr) | 3:02 | 2022-07-08 | 2023-02-24 |

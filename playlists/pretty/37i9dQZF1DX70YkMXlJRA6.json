@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 46780,
+  "num_followers": 46806,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzY3ZGRkOWZmNjU1OTU2YzhlMGI2ZDRiN2QxZWUwOWJjY2ViNmE5",
+  "snapshot_id": "MCxiOTljOGQ2YzQ0NGE5NmU4Mjk0OTlkMjU3MWRiNjk2MmJjYWM2NTk0",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -415,26 +415,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
-        "url": "https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx"
-      },
-      "artists": [
-        {
-          "name": "Zoufris Maracas",
-          "url": "https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD"
-        },
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 220452,
-      "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
-      "url": "https://open.spotify.com/track/6GMd54cabubG2fdz438cmF"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Mira Bien",
         "url": "https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 207386,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
+        "url": "https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx"
+      },
+      "artists": [
+        {
+          "name": "Zoufris Maracas",
+          "url": "https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD"
+        },
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 220452,
+      "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
+      "url": "https://open.spotify.com/track/6GMd54cabubG2fdz438cmF"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Tamburo Infinito",
+        "url": "https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Poso",
+          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "Futurista",
+      "url": "https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Bonito",
         "url": "https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 183829,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Tamburo Infinito",
-        "url": "https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx"
-      },
-      "artists": [
-        {
-          "name": "Gabriele Poso",
-          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
-        }
-      ],
-      "duration_ms": 179817,
-      "name": "Futurista",
-      "url": "https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "El Baile de las Ara\u00f1as",
+        "url": "https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw"
+      },
+      "artists": [
+        {
+          "name": "PAAX (Tulum)",
+          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
+        }
+      ],
+      "duration_ms": 404351,
+      "name": "Elelu Tomassita",
+      "url": "https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "El Baile de las Ara\u00f1as",
-        "url": "https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw"
-      },
-      "artists": [
-        {
-          "name": "PAAX (Tulum)",
-          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
-        }
-      ],
-      "duration_ms": 404351,
-      "name": "Elelu Tomassita",
-      "url": "https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW"
     },
     {
       "added_at": "2022-06-07 16:47:23",

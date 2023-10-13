@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,557 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,353 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [Energy \(feat\. Bay\-C\)](https://open.spotify.com/track/3gEeuIgoPgU592HYvgn0wn) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr), [Bay\-C](https://open.spotify.com/artist/21ciCl1i66cJdB0owlmyQ8) | [Energy \(feat\. Bay\-C\)](https://open.spotify.com/album/0PS5JxokId6B3FsRjycHfs) | 2:32 |
 | 50 | [Make U SWEAT!](https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [Make U SWEAT!](https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3) | 3:54 |
 
-Snapshot ID: `MCw1NGU1NWEyZDhiNmFmNjAyNDM0ZDhhMjFlZTdiNzIwMWI4ZDA5ZjFk`
+Snapshot ID: `MCwxZWMzZjMxN2NhOTgzMmQzNzJkZjA0OWUzY2JhMzg4ZTQ1NzUwMTJi`

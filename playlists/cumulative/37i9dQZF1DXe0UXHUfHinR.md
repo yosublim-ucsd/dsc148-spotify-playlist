@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-657 songs - 2 day 4 hr 6 min
+658 songs - 2 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Autumn In New York](https://open.spotify.com/track/6Ad2BCQGByNSDSYAdn9iEk) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC) | [Young Chet](https://open.spotify.com/album/2DYP3Cpj7U88CgUqdZubky) | 2:08 | 2023-05-03 |  |
 | [Autumn In New York](https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 5:19 | 2022-10-27 | 2023-04-09 |
 | [Autumn In New York](https://open.spotify.com/track/0f2489MzoisF9pKduawvce) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 5:56 | 2022-10-27 |  |
-| [Autumn In New York](https://open.spotify.com/track/2rguP2Zy8ohN8tYWwcbr0l) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 3:37 | 2023-01-18 | 2023-10-05 |
+| [Autumn In New York](https://open.spotify.com/track/2rguP2Zy8ohN8tYWwcbr0l) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 3:37 | 2023-01-18 |  |
 | [Autumn in Washington Square](https://open.spotify.com/track/5I3dI6HaVLW34JxNYxB7sn) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Jazz Impressions Of New York](https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH) | 5:28 | 2022-10-27 | 2023-01-07 |
 | [Autumn Leaves](https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 10:59 | 2022-10-27 |  |
 | [Autumn Leaves](https://open.spotify.com/track/2rFRXdxA9PupBVau54E3tl) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Unforgettable](https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi) | 2:31 | 2023-02-23 | 2023-07-09 |
@@ -183,7 +183,7 @@
 | [Donna Lee](https://open.spotify.com/track/1zWG5Jk6mcC1ewXlYYVaxC) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Jaco Pastorius](https://open.spotify.com/album/6SsT4Zyev0zS7eocL0B72m) | 2:27 | 2023-05-09 |  |
 | [Dorene Don't Cry, I \- Remastered](https://open.spotify.com/track/1JXxyiihPJrMLotLklU0Cb) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 6:14 | 2022-10-27 | 2023-04-29 |
 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 | 2022-10-27 |  |
-| [Draw Near](https://open.spotify.com/track/1ufvEL42UBnAYbi3gjSuZK) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Being There](https://open.spotify.com/album/5JuT4GGK3RKVtbqQTDwlkS) | 3:51 | 2023-06-21 |  |
+| [Draw Near](https://open.spotify.com/track/1ufvEL42UBnAYbi3gjSuZK) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Being There](https://open.spotify.com/album/5JuT4GGK3RKVtbqQTDwlkS) | 3:51 | 2023-06-21 | 2023-10-13 |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 | 2022-10-27 |  |
 | [Easy Does It](https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:43 | 2022-10-27 | 2023-01-22 |
 | [Easy Living](https://open.spotify.com/track/1UuGIqqp2QhYZU0N2PRh9G) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [How My Heart Sings](https://open.spotify.com/album/5IVK6ouWKcCUNLygavq4pg) | 4:53 | 2022-10-27 |  |
@@ -609,6 +609,7 @@
 | [Unsophisticated](https://open.spotify.com/track/3FmL7hAgo3C3iPnDdSiRn9) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Indigo](https://open.spotify.com/album/3KJDc381jm06rWww5E45or) | 3:27 | 2022-10-27 | 2023-02-21 |
 | [Unsquare Dance](https://open.spotify.com/track/2VUo8O3ymKRYNgj97ZG2kM) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Further Out](https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT) | 1:59 | 2022-10-27 |  |
 | [Vendome](https://open.spotify.com/track/1L7l5qJeQpqWDigBjxUcQw) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Pyramid](https://open.spotify.com/album/53JQWUSeq9LeRsSLMrXVKZ) | 2:30 | 2022-10-27 |  |
+| [Vid Frösö kyrka \- From Frösöblomster](https://open.spotify.com/track/6bqNdzv1KHd5C7ae0YbV7r) | [Trio X of Sweden](https://open.spotify.com/artist/51s0AOLvBvXk75SsVUqIKZ) | [Träumerei](https://open.spotify.com/album/0xvKY28Z5isacgZ1CoEn8r) | 4:57 | 2023-10-05 |  |
 | [Virgo \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:06 | 2023-03-15 |  |
 | [Visa från Utanmyra](https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på svenska](https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE) | 4:33 | 2022-10-27 |  |
 | [Volare](https://open.spotify.com/track/5dIvbV5t3zSKYp1W1kr77v) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:46 | 2023-03-23 |  |
@@ -642,7 +643,7 @@
 | [Whiplash](https://open.spotify.com/track/0v0oL77zDnGTdRwB2q6OIm) | [Hank Levy](https://open.spotify.com/artist/542qEE4zFUrLQjWNMaOrbc) | [Whiplash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt) | 1:55 | 2022-10-27 |  |
 | [Whisper Not](https://open.spotify.com/track/79C7NxcxlBEJcyGHGy6ZMD) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Anita O'Day And The Three Sounds](https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX) | 2:56 | 2022-10-27 |  |
 | [Windows](https://open.spotify.com/track/0f6Fb3g0DRpCIbhljotYwO) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Now He Sings, Now He Sobs](https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE) | 3:12 | 2023-02-23 |  |
-| [Wishful Thinking](https://open.spotify.com/track/5Ok60qRT2vAj3n9qLa9Ez6) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [Wishful Thinking](https://open.spotify.com/album/0L3yaukGbiP8X9BGHMGNOt) | 3:58 | 2022-10-27 |  |
+| [Wishful Thinking](https://open.spotify.com/track/5Ok60qRT2vAj3n9qLa9Ez6) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [Wishful Thinking](https://open.spotify.com/album/0L3yaukGbiP8X9BGHMGNOt) | 3:58 | 2022-10-27 | 2023-10-13 |
 | [Work Song](https://open.spotify.com/track/0GSXh7IeBpk5uJDv7KsuKZ) | [Nat Adderley](https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D) | [Work Song](https://open.spotify.com/album/0l07068z65NQtYicJn1OPn) | 4:12 | 2022-10-27 | 2023-08-05 |
 | [Worrisome Heart](https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Worrisome Heart](https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y) | 4:21 | 2022-10-27 |  |
 | [Yams](https://open.spotify.com/track/57B6gMEI1E4E3kKLKvfX3U) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Vertigo](https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a) | 8:00 | 2022-10-27 |  |

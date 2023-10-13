@@ -2836,7 +2836,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 107586,
       "name": "BRB",
       "url": "https://open.spotify.com/track/4sZJgYizP3YR9MkQ7SaRjX"
@@ -3198,7 +3198,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 154320,
       "name": "Can't Blame Em",
       "url": "https://open.spotify.com/track/2O7Nl0SHRRcV0rR2NDS6BM"
@@ -4362,7 +4362,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 144000,
       "name": "Deuces & Waves",
       "url": "https://open.spotify.com/track/4GOR0WrtX09731VDluR93a"
@@ -5480,7 +5480,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 120387,
       "name": "F* TASTE",
       "url": "https://open.spotify.com/track/0eyFCLT8pkBjqxgkgypZGk"
@@ -9374,6 +9374,24 @@
       "duration_ms": 130612,
       "name": "Living with Passion",
       "url": "https://open.spotify.com/track/4g6wkPxpmgBlC6rAtHyaWM"
+    },
+    {
+      "album": {
+        "name": "LLTK",
+        "url": "https://open.spotify.com/album/1D1ouEX6eIt8I3iF4RpqfV"
+      },
+      "artists": [
+        {
+          "name": "No Money Enterprise",
+          "url": "https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172394,
+      "name": "LLTK",
+      "url": "https://open.spotify.com/track/6XNrW7oM3S7VsokV65VcVp"
     },
     {
       "album": {
@@ -13349,6 +13367,24 @@
     },
     {
       "album": {
+        "name": "Return Of The Gangsta",
+        "url": "https://open.spotify.com/album/1QyxemTyRGvd68PDKOqzyx"
+      },
+      "artists": [
+        {
+          "name": "Big Mali",
+          "url": "https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164156,
+      "name": "Return Of The Gangsta",
+      "url": "https://open.spotify.com/track/60ujufmGzQFHcCswIiiWIw"
+    },
+    {
+      "album": {
         "name": "Rich and Raw",
         "url": "https://open.spotify.com/album/4IKZietJgrE6tBFwMGjPFf"
       },
@@ -13684,6 +13720,24 @@
       "duration_ms": 161584,
       "name": "Roll the Dice",
       "url": "https://open.spotify.com/track/2gEGG6MHS4zbXn8dByzjVa"
+    },
+    {
+      "album": {
+        "name": "Roll Up",
+        "url": "https://open.spotify.com/album/3OdsnzT1eoXIvEuqONa2cc"
+      },
+      "artists": [
+        {
+          "name": "Lsplizzy",
+          "url": "https://open.spotify.com/artist/71YYGrNiabmxemuhm2eauI"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160056,
+      "name": "Roll Up",
+      "url": "https://open.spotify.com/track/7rjguvonSMd8610eH6JDjL"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, sol\u00f8)",
-  "num_followers": 41464,
+  "num_followers": 41501,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzA1N2E4YmZhNzZiYmY1MTA4YTg0NjU1NzRkNmM1OWM4ZmM0ZTg3",
+  "snapshot_id": "MCwzZDFhMGIzNGU2ODU2Yjk0OGI0NmM1MjEwNjVmYmM0OGZmNWFhNjQ4",
   "tracks": [
     {
       "added_at": "2023-09-07 22:01:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "Autopsia",
-        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 208504,
-      "name": "Autopsia",
-      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
         "name": "nostalgia liquida",
         "url": "https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 151858,
       "name": "pensieri brutti",
       "url": "https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "Autopsia",
+        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 208504,
+      "name": "Autopsia",
+      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
+        "name": "Dimmi se sbaglio",
+        "url": "https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh"
+      },
+      "artists": [
+        {
+          "name": "Bada1",
+          "url": "https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb"
+        },
+        {
+          "name": "Matris",
+          "url": "https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL"
+        }
+      ],
+      "duration_ms": 135374,
+      "name": "Dimmi se sbaglio",
+      "url": "https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
         "name": "Winston Blue",
         "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 172216,
       "name": "Empatia",
       "url": "https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "Dimmi se sbaglio",
-        "url": "https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh"
-      },
-      "artists": [
-        {
-          "name": "Bada1",
-          "url": "https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb"
-        },
-        {
-          "name": "Matris",
-          "url": "https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL"
-        }
-      ],
-      "duration_ms": 135374,
-      "name": "Dimmi se sbaglio",
-      "url": "https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
+        "name": "AUTORITRATTO",
+        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+      },
+      "artists": [
+        {
+          "name": "Zoda",
+          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+        }
+      ],
+      "duration_ms": 133658,
+      "name": "SOGNI",
+      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
         "name": "MOVIMENTO + THE DAY AFTER",
         "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 139773,
       "name": "I CAN FLY",
       "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "AUTORITRATTO",
-        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
-      },
-      "artists": [
-        {
-          "name": "Zoda",
-          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
-        }
-      ],
-      "duration_ms": 133658,
-      "name": "SOGNI",
-      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "ME & YOU",
-        "url": "https://open.spotify.com/album/1laFOBIGISoV3AtdDFTP9H"
-      },
-      "artists": [
-        {
-          "name": "Zyrtck",
-          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
-        },
-        {
-          "name": "Friman",
-          "url": "https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ"
-        }
-      ],
-      "duration_ms": 137008,
-      "name": "ME & YOU",
-      "url": "https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
         "name": "LOVE?",
         "url": "https://open.spotify.com/album/0zNYn4shWIiTPfCporUCVm"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 176666,
       "name": "Bombay Lemon",
       "url": "https://open.spotify.com/track/1ZdWAkytO762tfvevja8lG"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "ME & YOU",
+        "url": "https://open.spotify.com/album/1laFOBIGISoV3AtdDFTP9H"
+      },
+      "artists": [
+        {
+          "name": "Zyrtck",
+          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
+        },
+        {
+          "name": "Friman",
+          "url": "https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ"
+        }
+      ],
+      "duration_ms": 137008,
+      "name": "ME & YOU",
+      "url": "https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "NON SO CHI SIAMO",
-        "url": "https://open.spotify.com/album/6NmapKNBkMY0bSHuB7eSpw"
-      },
-      "artists": [
-        {
-          "name": "Poet",
-          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
-        },
-        {
-          "name": "Pi Greco",
-          "url": "https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b"
-        }
-      ],
-      "duration_ms": 171700,
-      "name": "NON SO CHI SIAMO",
-      "url": "https://open.spotify.com/track/1swXlgQi9YdVqzoOXfnJ1O"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
         "name": "Non piover\u00e0 per sempre",
         "url": "https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 189000,
       "name": "Non piover\u00e0 per sempre",
       "url": "https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "NON SO CHI SIAMO",
+        "url": "https://open.spotify.com/album/6NmapKNBkMY0bSHuB7eSpw"
+      },
+      "artists": [
+        {
+          "name": "Poet",
+          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
+        },
+        {
+          "name": "Pi Greco",
+          "url": "https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b"
+        }
+      ],
+      "duration_ms": 171700,
+      "name": "NON SO CHI SIAMO",
+      "url": "https://open.spotify.com/track/1swXlgQi9YdVqzoOXfnJ1O"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1535,70 +1535,6 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "sola (con me)",
-        "url": "https://open.spotify.com/album/4qcnkhmpl1h21kbgG3u9OM"
-      },
-      "artists": [
-        {
-          "name": "Neverbh",
-          "url": "https://open.spotify.com/artist/7DsVmuKz4Cgg42Sfp5S7oN"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "sola (con me)",
-      "url": "https://open.spotify.com/track/0zmgkltOjhGASQiZXtskmD"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "setiva",
-        "url": "https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        }
-      ],
-      "duration_ms": 137137,
-      "name": "setiva",
-      "url": "https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "Semiminime",
-        "url": "https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ"
-      },
-      "artists": [
-        {
-          "name": "Rondine",
-          "url": "https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l"
-        }
-      ],
-      "duration_ms": 129854,
-      "name": "Semiminime",
-      "url": "https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "Pagine",
-        "url": "https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU"
-      },
-      "artists": [
-        {
-          "name": "Kia",
-          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Pagine",
-      "url": "https://open.spotify.com/track/2qfLABUmMubADB6tRridR3"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
         "name": "Credimi ancora",
         "url": "https://open.spotify.com/album/0getMLUgdB1w2NeJy0UOGB"
       },
@@ -1635,18 +1571,66 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "Palude 4",
-        "url": "https://open.spotify.com/album/54in2b7QYjcF5hCOMcZANu"
+        "name": "Semiminime",
+        "url": "https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ"
       },
       "artists": [
         {
-          "name": "Blue Virus",
-          "url": "https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn"
+          "name": "Rondine",
+          "url": "https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l"
         }
       ],
-      "duration_ms": 213818,
-      "name": "Palude 4",
-      "url": "https://open.spotify.com/track/0QKWZgWId3t9aZpcgA3Qr1"
+      "duration_ms": 129854,
+      "name": "Semiminime",
+      "url": "https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "Pagine",
+        "url": "https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU"
+      },
+      "artists": [
+        {
+          "name": "Kia",
+          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Pagine",
+      "url": "https://open.spotify.com/track/2qfLABUmMubADB6tRridR3"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "setiva",
+        "url": "https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        }
+      ],
+      "duration_ms": 137137,
+      "name": "setiva",
+      "url": "https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "sola (con me)",
+        "url": "https://open.spotify.com/album/4qcnkhmpl1h21kbgG3u9OM"
+      },
+      "artists": [
+        {
+          "name": "Neverbh",
+          "url": "https://open.spotify.com/artist/7DsVmuKz4Cgg42Sfp5S7oN"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "sola (con me)",
+      "url": "https://open.spotify.com/track/0zmgkltOjhGASQiZXtskmD"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1667,6 +1651,22 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
+        "name": "Palude 4",
+        "url": "https://open.spotify.com/album/54in2b7QYjcF5hCOMcZANu"
+      },
+      "artists": [
+        {
+          "name": "Blue Virus",
+          "url": "https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn"
+        }
+      ],
+      "duration_ms": 213818,
+      "name": "Palude 4",
+      "url": "https://open.spotify.com/track/0QKWZgWId3t9aZpcgA3Qr1"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
         "name": "Fragili",
         "url": "https://open.spotify.com/album/6ixktzZ4cFQkeewHAY8fjY"
       },
@@ -1683,22 +1683,6 @@
       "duration_ms": 167000,
       "name": "Fragili",
       "url": "https://open.spotify.com/track/6Y1wgVdi0sJ6JVM9rnL26K"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "Piangi mai (domani)",
-        "url": "https://open.spotify.com/album/0MwrHf04OMj7HOG29XC5ev"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "Piangi mai (domani)",
-      "url": "https://open.spotify.com/track/1aYYkE4vIycFLgy2IJrlGZ"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1751,6 +1735,22 @@
       "duration_ms": 199053,
       "name": "Rottami",
       "url": "https://open.spotify.com/track/4LqZES294uk01Y7c6Qyyau"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "Piangi mai (domani)",
+        "url": "https://open.spotify.com/album/0MwrHf04OMj7HOG29XC5ev"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Piangi mai (domani)",
+      "url": "https://open.spotify.com/track/1aYYkE4vIycFLgy2IJrlGZ"
     }
   ],
   "unique_name": "ragazzo triste",

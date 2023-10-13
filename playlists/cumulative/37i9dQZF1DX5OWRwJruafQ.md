@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Prem Dhillon
 
-223 songs - 10 hr 42 min
+224 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Dunia](https://open.spotify.com/track/191UibAfAOKYeA8vKv7MI9) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:05 | 2023-06-29 |  |
 | [Duphare](https://open.spotify.com/track/6Yd2Qe4m4DHNrOYoGz46Us) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Jatt Da Nishana](https://open.spotify.com/album/63SkBlsiJBtXn24OefwFLT) | 2:05 | 2023-03-29 | 2023-04-15 |
 | [Elite](https://open.spotify.com/track/2m9aE9cICRHXEg3s4Tqoti) | [Deep Karan](https://open.spotify.com/artist/2rAC8yC2Aqdo2utiGuDto2) | [Fluke](https://open.spotify.com/album/6fk8tsjC44D7JuY4TcwBXO) | 2:11 | 2023-09-11 |  |
+| [Envy](https://open.spotify.com/track/1bQnVE1IwHM7xIuP3eb0Mk) | [Virasat Sandhu](https://open.spotify.com/artist/1gm0NXFSicD5imUY0PzcFA), [Honey Sarkar](https://open.spotify.com/artist/6HwR215Y6DmlQNt5XgdnZf) | [Envy](https://open.spotify.com/album/7JUhYQwR2pkxp0KBp9Ut8m) | 3:24 | 2023-10-12 |  |
 | [Excited](https://open.spotify.com/track/4zgEDxWXTVuNmkI79ptoms) | [Inder Dosanjh](https://open.spotify.com/artist/4uhm0dnOES3u20XHR4HTQY), [Quan](https://open.spotify.com/artist/4rDS8JCx4Q5fYKO5K14Vxp) | [Excited](https://open.spotify.com/album/3tSrUwOd0bpchOFDr23apD) | 2:52 | 2023-03-29 | 2023-04-21 |
 | [Expense](https://open.spotify.com/track/4LPNEtQxELZYdaacTHWMxq) | [Teji Grewal](https://open.spotify.com/artist/68evXbnRy6P5jtQ9Q0gVMr) | [Expense](https://open.spotify.com/album/1T0Lwamtr3bvYAOIQ4WdW3) | 2:10 | 2023-03-29 | 2023-04-09 |
 | [Face Off](https://open.spotify.com/track/6F4IkQArLX0RLBtkdVozdw) | [Harry Waraich](https://open.spotify.com/artist/3z8JCnJGvJfcjNDfHzTnzp), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Face Off](https://open.spotify.com/album/2oF0uESFONNNQOdQwtM57J) | 2:44 | 2023-09-18 | 2023-10-07 |

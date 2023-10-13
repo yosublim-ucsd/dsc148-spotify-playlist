@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2ZjYmE5NjE0NWE3MjA3NDE1MmZiMmJhN2U3YWFkYTllMmJiNTcx",
+  "snapshot_id": "MCxhMDE2MDgzYTQ2MDg2YjBkYjlkNzY1MjMwN2YxMWQ3M2M4YzMyOWQ5",
   "tracks": [
     {
       "added_at": "2019-10-17 15:42:26",
@@ -519,6 +519,22 @@
       "duration_ms": 251000,
       "name": "The Rain (Supa Dupa Fly)",
       "url": "https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ"
+    },
+    {
+      "added_at": "2019-10-17 15:42:26",
+      "album": {
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
     },
     {
       "added_at": "2019-10-17 15:42:26",

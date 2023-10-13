@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-358 songs - 1 day 9 hr 31 min
+359 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Anchor Point](https://open.spotify.com/track/6tE5zuD7eC7cV2O1IyjRLX) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Anchor Point EP](https://open.spotify.com/album/1WmE8DAfRSq16Qre7SEV1V) | 5:59 | 2023-04-28 |  |
 | [Another Day](https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Heavy Tangled](https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX) | 7:40 | 2022-10-28 | 2023-04-10 |
 | [Anything Else Feat\. Alix Edwards](https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r) | [Carlo](https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo) | [Carlito Archives](https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg) | 6:03 | 2022-06-24 | 2022-10-21 |
+| [Aperol Spiritz](https://open.spotify.com/track/7LHJGgiSJEsa1uaYqubGde) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Aperol Spiritz](https://open.spotify.com/album/2U4jv3hgtuYc95dCjjsTs2) | 5:15 | 2023-10-02 |  |
 | [Arc De Triomphe \- Brandt Brauer Frick Remix](https://open.spotify.com/track/1uiwyqzS8UMVExmJus9wn2) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ), [Brandt Brauer Frick](https://open.spotify.com/artist/29TG40TGDvrOFQZM4adBf7) | [Ludwig \(Club Versions\)](https://open.spotify.com/album/6mtPPsbdZXFaGSpdoDgQvJ) | 6:48 | 2022-01-14 | 2022-07-22 |
 | [Atlantis](https://open.spotify.com/track/3N0Bk8zkKxuGHQslbFMmEk) | [Den Maar](https://open.spotify.com/artist/1AXeLwBPyiLoOXRLCHa4ic), [Off Night](https://open.spotify.com/artist/5qDJioeKV9r17pP8MybZoe) | [Atlantis](https://open.spotify.com/album/6upiYrO59qPQGyHgHqMkdZ) | 7:27 | 2022-05-13 | 2022-07-24 |
 | [Auriol \- Bondi Remix](https://open.spotify.com/track/5otyAwp1rylIyQOFjkPFnZ) | [T.M.A](https://open.spotify.com/artist/2byiSAqYCxVFaUmm0KxiIe), [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk) | [Auriol \(Bondi Remix\)](https://open.spotify.com/album/5HN2RJ0aquwMYhkk1rVjia) | 7:06 | 2021-11-26 | 2022-04-20 |
@@ -302,7 +303,7 @@
 | [Steps](https://open.spotify.com/track/1pIBxvFjjnp7tAKOTwA0Az) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Steps](https://open.spotify.com/album/0uin82gWKieM4DTE77Ayrk) | 5:58 | 2021-11-26 | 2022-06-18 |
 | [Sun Salutations](https://open.spotify.com/track/75ZMW4hqyXQ2TgF6pL1Giz) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Sun Salutations EP](https://open.spotify.com/album/5mhCg9ohnm2214WyLoFXss) | 8:04 | 2021-11-26 | 2023-05-11 |
 | [Svanur \(feat\. Rökkurró\)](https://open.spotify.com/track/2rnONdiE5CpLdmtNspVnTx) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Rökkurró](https://open.spotify.com/artist/3H5JhEkJ3IKuNT1elqCxQ4) | [Svanur](https://open.spotify.com/album/3g9O3lDO7O4AfW0CuCPKKa) | 4:56 | 2021-11-26 | 2022-02-13 |
-| [Sway](https://open.spotify.com/track/5GkG36tzfeuSaeW5TROrE4) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sway](https://open.spotify.com/album/0AzztMsrs61QyBF9b1IaJh) | 4:01 | 2022-04-04 |  |
+| [Sway](https://open.spotify.com/track/5GkG36tzfeuSaeW5TROrE4) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sway](https://open.spotify.com/album/0AzztMsrs61QyBF9b1IaJh) | 4:01 | 2022-04-04 | 2023-10-13 |
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2022-04-04 |  |
 | [Teleport \- Future Mix](https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Soundexile](https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg) | [Future Memories](https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u) | 6:23 | 2022-11-15 | 2023-07-02 |
 | [Temperament of the Beat](https://open.spotify.com/track/2d7TJXGNI2nvyWF51CLFkJ) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Cari Golden](https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp) | [Temperament of the Beat](https://open.spotify.com/album/6dSMmjwuLDTbGrbOJHXysy) | 6:28 | 2021-11-26 | 2022-10-29 |

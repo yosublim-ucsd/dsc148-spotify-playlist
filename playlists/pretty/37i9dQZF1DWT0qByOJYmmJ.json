@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 640671,
+  "num_followers": 640829,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWY4MzYxMmUyYTBkMTY2ZTQyZGFhODJmMGMwYzBmNWE2YjIzMDE5",
+  "snapshot_id": "MCw4NTBmOWI1MWI5ZGRmY2E1MTA0MzMzZGQ3MzBmN2Y2YjAzMzVhZTQ2",
   "tracks": [
     {
       "added_at": "2023-02-24 17:40:22",
@@ -903,22 +903,18 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Lo Que Construimos",
-        "url": "https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M"
+        "name": "Anhelos",
+        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
       },
       "artists": [
         {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
         }
       ],
-      "duration_ms": 208289,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj"
+      "duration_ms": 222474,
+      "name": "Anhelos",
+      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -943,18 +939,22 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Anhelos",
-        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
+        "name": "Lo Que Construimos",
+        "url": "https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M"
       },
       "artists": [
         {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 222474,
-      "name": "Anhelos",
-      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
+      "duration_ms": 208289,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj"
     },
     {
       "added_at": "2023-02-24 17:40:22",

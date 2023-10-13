@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-295 songs - 11 hr 26 min
+296 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,8 @@
 | [Spike the Eggnog](https://open.spotify.com/track/5Ndi8aTYfmjrXYgTOXhYEM) | [Two Dudes](https://open.spotify.com/artist/7B4UaTUFjsPmtPNg2HcLwS) | [Sounds of the Season, Vol\. I](https://open.spotify.com/album/38MuWDkJ0apxRo0nniKlpu) | 2:15 | 2021-12-20 |  |
 | [That’s Christmas To Me](https://open.spotify.com/track/1gFMfxMXkETjtfHUPjAYqD) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [That’s Christmas To Me](https://open.spotify.com/album/6gAxwmPsSel57fMKf7aZ7k) | 2:42 | 2022-11-11 |  |
 | [The Christmas Song](https://open.spotify.com/track/4JwPTsnZYEl85SZhtiDgYR) | [Jazzamass](https://open.spotify.com/artist/3gMOdlsYdkbCobRA1i8Bwb) | [The Christmas Song](https://open.spotify.com/album/556s2vwXqKkEFrGhDKK2Gw) | 1:57 | 2022-11-11 |  |
-| [The Christmas Song](https://open.spotify.com/track/4ZX6yH8H5nNldN8h34AQto) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Spaniel Mac](https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30) | [The Christmas Song](https://open.spotify.com/album/3HwZFyER0XsknO8inC4SVS) | 2:09 | 2022-12-25 |  |
+| [the christmas song](https://open.spotify.com/track/2CTEtE3PBIanviYN04Z3ez) | [Jupuno](https://open.spotify.com/artist/2pDShM9W72ItBRO27oUEZ9) | [the christmas song](https://open.spotify.com/album/6ZmbJ19uql25ZczTmnQraS) | 2:19 | 2023-10-13 |  |
+| [The Christmas Song](https://open.spotify.com/track/4ZX6yH8H5nNldN8h34AQto) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Spaniel Mac](https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30) | [The Christmas Song](https://open.spotify.com/album/3HwZFyER0XsknO8inC4SVS) | 2:09 | 2022-12-25 | 2023-10-13 |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/1jfe1vVK9uruZS6wF9P04Q) | [Ameer Corro](https://open.spotify.com/artist/1H5PsYGFaTqxJUoyr6bD5C), [Sun Kim](https://open.spotify.com/artist/0jcraZwUALvGIS3RtpsWZQ) | [Lofimas \(A Lofi Christmas\)](https://open.spotify.com/album/30YjVa2kQbQ9XmkIGe87RG) | 2:44 | 2021-12-20 | 2022-07-29 |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/44R8mSrOzeIL8h7j2tn4KU) | [Ameer Corro](https://open.spotify.com/artist/1H5PsYGFaTqxJUoyr6bD5C), [Sun Kim](https://open.spotify.com/artist/0jcraZwUALvGIS3RtpsWZQ) | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/album/0MJj6YAUwn9QiLgXSBomyX) | 2:44 | 2021-12-20 | 2022-11-12 |
 | [The First Noel](https://open.spotify.com/track/2L7Pan356vmGe4tIfiLvHd) | [Hadoque](https://open.spotify.com/artist/3nn3OEYb7jVEreIYIqoFR3) | [A Lofi Christmas](https://open.spotify.com/album/0QJZU8Vi8bboQZLziY1lst) | 3:09 | 2021-12-20 |  |

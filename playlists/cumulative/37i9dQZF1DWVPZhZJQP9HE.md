@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
 
-448 songs - 1 day 2 hr 37 min
+449 songs - 1 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Kudikaran Flex](https://open.spotify.com/track/1lMe6NHUMJGl2z6B09UFiv) | [Shyam Sasikumar](https://open.spotify.com/artist/4UsEnWXfJJrVNNEv4fClaT), [Xwrld](https://open.spotify.com/artist/4j8qTveVETBkm23uFjJv5f), [Fault Kai](https://open.spotify.com/artist/3EiihLQLBqq5bnNmOb3cwk) | [Palaya Folder](https://open.spotify.com/album/53ZtBsYjTasQUCmg3Qd8Hz) | 2:41 | 2022-11-28 | 2023-03-08 |
 | [KuKuLaLa](https://open.spotify.com/track/3l9oVezOaCNCAVqQN1xi79) | [Mr.5K](https://open.spotify.com/artist/3GGIEIL34jlfQ8ACSX0KLm), [Prem Jr.](https://open.spotify.com/artist/2xTuEvMZ4BPpMUj57089LV), [DK Dinesh Kumar](https://open.spotify.com/artist/0oOdOPbeOZovoN5TheQL1t) | [KuKuLaLa](https://open.spotify.com/album/7s0VJTlnVh4qiXBEq85me8) | 3:33 | 2022-11-10 | 2023-02-07 |
 | [Kuru Kure](https://open.spotify.com/track/75XFlO98uPiuuV3GLld4x5) | [TeeJay Arunachalam](https://open.spotify.com/artist/3HXoAXanyNRqXXAZLZ1zhA) | [Kuru Kure](https://open.spotify.com/album/4cXstr3Bglnj7cZcvuUtrK) | 3:49 | 2021-12-01 | 2022-07-18 |
+| [LaaLaatu \- Sangu Kazhuthazagu](https://open.spotify.com/track/6xbeOgGCf2v8oJud91OdC5) | [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [LaaLaatu \- Sangu Kazhuthazagu](https://open.spotify.com/album/2SiSFROqcGQDxPM4ye6YrM) | 4:52 | 2023-10-12 |  |
 | [Lalala Cindrella](https://open.spotify.com/track/03tXg4jq1WCOvYLlb0GOq4) | [Chandar Karunakaran](https://open.spotify.com/artist/0n7QXUrwDAmArjWNgyrBmO), [Avinash Sivan](https://open.spotify.com/artist/5wCbzqnV8mRtQPNya06r1h) | [Enakkena Oru Ulagam](https://open.spotify.com/album/4MGM3Vn0QSI4VZUIVmqjiv) | 3:47 | 2022-11-25 | 2023-03-09 |
 | [Lambo Lambo](https://open.spotify.com/track/7K5pyTmRA4qqu3ZfS71Flf) | [Nincy Vincent](https://open.spotify.com/artist/3YztabPkmM6fDWVUZJ51AH) | [Lambo Lambo](https://open.spotify.com/album/333wx95hhctae7PSkl6Cob) | 4:19 | 2023-07-03 |  |
 | [Lityananda](https://open.spotify.com/track/3uLjbFmhCeVBtBXwueAAYx) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Lityananda](https://open.spotify.com/album/2IniUlFtmoXBSMCu6Uro57) | 2:53 | 2021-12-01 | 2023-02-07 |

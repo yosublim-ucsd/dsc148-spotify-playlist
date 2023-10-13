@@ -1,32 +1,32 @@
 {
   "description": "\u4eca\u5e74\u306e\u79cb\u306b\u8074\u304d\u305f\u3044\u65e5\u672c\u306e\u30af\u30e9\u30b7\u30c3\u30af\u3092\u96c6\u3081\u307e\u3057\u305f\u3002cover: \u5c0f\u685c \u30cf\u30eb(\u3053\u3056\u304f\u3089 \u306f\u308b)\u3000 \u00a9\u963f\u4e45\u4e95\u771f\uff0f\u5c0f\u5b66\u9928\uff0fNHK\u30fbNEP\u30fb\u65e5\u672c\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
-  "num_followers": 23123,
+  "num_followers": 23240,
   "original_name": "Autumn Classical Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmFhMjAyZTE0MWNiYjY4MmRhOTM3N2ViNWY1NmY0OTJmNTk3NDA2",
+  "snapshot_id": "MCw2ODY3ZjBmYTYwYzEwYmQ3YjU0YjIxN2Y0OWE5ZTFiMDJhNjExZjg4",
   "tracks": [
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "J.S.\u30d0\u30c3\u30cf\uff1aG\u7dda\u4e0a\u306e\u30a2\u30ea\u30a2\uff08\u7121\u4f34\u594f\u30f4\u30a1\u30a4\u30aa\u30ea\u30f3\u7248\uff09",
-        "url": "https://open.spotify.com/album/5fJER6xaeHGZTQMXBzOxt9"
+        "name": "Blue Orchestra - Premium Classic",
+        "url": "https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9"
       },
       "artists": [
         {
-          "name": "\u5c0f\u5ddd\u606d\u5b50",
-          "url": "https://open.spotify.com/artist/22MNZFpm5ETAg33C7ZNodS"
-        },
-        {
           "name": "Johann Sebastian Bach",
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "\u5c0f\u5ddd\u606d\u5b50",
+          "url": "https://open.spotify.com/artist/22MNZFpm5ETAg33C7ZNodS"
         }
       ],
-      "duration_ms": 305054,
-      "name": "G\u7dda\u4e0a\u306e\u30a2\u30ea\u30a2\uff08\u7121\u4f34\u594f\u30f4\u30a1\u30a4\u30aa\u30ea\u30f3\u7248\uff09",
-      "url": "https://open.spotify.com/track/3fXUgYuJJ6iNskUNfLTE8V"
+      "duration_ms": 310480,
+      "name": "Air on the G String (Version for Violin Solo)",
+      "url": "https://open.spotify.com/track/6ISMzJg3eW5RWMf3Irs6TU"
     },
     {
       "added_at": "2023-10-10 15:00:00",

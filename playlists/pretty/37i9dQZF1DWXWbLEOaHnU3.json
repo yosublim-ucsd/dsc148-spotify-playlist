@@ -1,12 +1,12 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 517044,
+  "num_followers": 517187,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTAzOTQ5Yjg2ZmU2ZGVmYzYxODNlZGFiNjA0Y2Y5M2MyMWMwMGRh",
+  "snapshot_id": "MCxmYjQyYzFjMWY0ZjMzZDZjNWY0OTg0ZWIzOGQ3MDc0MGZlOWRkMTNm",
   "tracks": [
     {
       "added_at": "2023-10-06 15:37:41",
@@ -343,8 +343,8 @@
     {
       "added_at": "2023-10-06 15:37:41",
       "album": {
-        "name": "There Was A Time",
-        "url": "https://open.spotify.com/album/1SCh5zitZe6JRGeATpcGXB"
+        "name": "Stupid as Fvck (Physis Remix)",
+        "url": "https://open.spotify.com/album/5rKCuh31YA9TKTnt4u5cSD"
       },
       "artists": [
         {
@@ -352,13 +352,17 @@
           "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
         },
         {
-          "name": "Caroline Harrison",
-          "url": "https://open.spotify.com/artist/43Cmg6YqnuPEHxe7TQLOk7"
+          "name": "Symphonix",
+          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
+        },
+        {
+          "name": "Physis",
+          "url": "https://open.spotify.com/artist/1IM0Mnml2ITEkXZoULnu6Z"
         }
       ],
-      "duration_ms": 307826,
-      "name": "There Was A Time",
-      "url": "https://open.spotify.com/track/6f9X4NeJ9TofyaKKqYcWl3"
+      "duration_ms": 329565,
+      "name": "Stupid as Fvck (Physis Remix)",
+      "url": "https://open.spotify.com/track/7sR7TTMwNmLvQWSMgAr16f"
     },
     {
       "added_at": "2023-10-06 15:37:41",
@@ -467,8 +471,8 @@
     {
       "added_at": "2023-10-06 15:37:41",
       "album": {
-        "name": "Stupid as Fvck (Physis Remix)",
-        "url": "https://open.spotify.com/album/5rKCuh31YA9TKTnt4u5cSD"
+        "name": "There Was A Time",
+        "url": "https://open.spotify.com/album/1SCh5zitZe6JRGeATpcGXB"
       },
       "artists": [
         {
@@ -476,17 +480,13 @@
           "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
         },
         {
-          "name": "Symphonix",
-          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
-        },
-        {
-          "name": "Physis",
-          "url": "https://open.spotify.com/artist/1IM0Mnml2ITEkXZoULnu6Z"
+          "name": "Caroline Harrison",
+          "url": "https://open.spotify.com/artist/43Cmg6YqnuPEHxe7TQLOk7"
         }
       ],
-      "duration_ms": 329565,
-      "name": "Stupid as Fvck (Physis Remix)",
-      "url": "https://open.spotify.com/track/7sR7TTMwNmLvQWSMgAr16f"
+      "duration_ms": 307826,
+      "name": "There Was A Time",
+      "url": "https://open.spotify.com/track/6f9X4NeJ9TofyaKKqYcWl3"
     },
     {
       "added_at": "2023-10-06 15:37:41",
@@ -763,6 +763,26 @@
     {
       "added_at": "2023-10-06 15:37:41",
       "album": {
+        "name": "Freetown",
+        "url": "https://open.spotify.com/album/2s45Lf1MC6IGJNRccgN8WU"
+      },
+      "artists": [
+        {
+          "name": "Phaxe",
+          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
+        },
+        {
+          "name": "Querox",
+          "url": "https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn"
+        }
+      ],
+      "duration_ms": 389781,
+      "name": "Freetown",
+      "url": "https://open.spotify.com/track/4JqZGVmqFQMMezLeIdcClY"
+    },
+    {
+      "added_at": "2023-10-06 15:37:41",
+      "album": {
         "name": "Lights On",
         "url": "https://open.spotify.com/album/1LEo1BgOu006DGD7bXW6gx"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 181276,
       "name": "Lights On",
       "url": "https://open.spotify.com/track/39FiLxdIcBO5oZaH87Rax7"
-    },
-    {
-      "added_at": "2023-10-06 15:37:41",
-      "album": {
-        "name": "Freetown",
-        "url": "https://open.spotify.com/album/2s45Lf1MC6IGJNRccgN8WU"
-      },
-      "artists": [
-        {
-          "name": "Phaxe",
-          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
-        },
-        {
-          "name": "Querox",
-          "url": "https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn"
-        }
-      ],
-      "duration_ms": 389781,
-      "name": "Freetown",
-      "url": "https://open.spotify.com/track/4JqZGVmqFQMMezLeIdcClY"
     },
     {
       "added_at": "2023-10-06 15:37:41",
@@ -1035,26 +1035,18 @@
     {
       "added_at": "2023-10-06 15:37:41",
       "album": {
-        "name": "STFD (Remix)",
-        "url": "https://open.spotify.com/album/7I7kTiZ5UcBnkIHbgzoJ4A"
+        "name": "I Want Your Soul",
+        "url": "https://open.spotify.com/album/4wXLChVEExhDz4PQ37V8yx"
       },
       "artists": [
         {
-          "name": "Omiki",
-          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
-        },
-        {
-          "name": "WHITENO1SE",
-          "url": "https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2"
-        },
-        {
-          "name": "TeZATalks",
-          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
+          "name": "Naturalize",
+          "url": "https://open.spotify.com/artist/0fzvJQrOtf2nhtgNCRZ022"
         }
       ],
-      "duration_ms": 178206,
-      "name": "STFD (Remix)",
-      "url": "https://open.spotify.com/track/3cr4nLS3rbzII8fqvsDO5N"
+      "duration_ms": 420872,
+      "name": "I Want Your Soul",
+      "url": "https://open.spotify.com/track/1jRBWD3P86rcJi2AAONZdz"
     },
     {
       "added_at": "2023-10-06 15:37:41",
@@ -1079,18 +1071,46 @@
     {
       "added_at": "2023-10-06 15:37:41",
       "album": {
-        "name": "I Want Your Soul",
-        "url": "https://open.spotify.com/album/4wXLChVEExhDz4PQ37V8yx"
+        "name": "STFD (Remix)",
+        "url": "https://open.spotify.com/album/7I7kTiZ5UcBnkIHbgzoJ4A"
       },
       "artists": [
         {
-          "name": "Naturalize",
-          "url": "https://open.spotify.com/artist/0fzvJQrOtf2nhtgNCRZ022"
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        },
+        {
+          "name": "WHITENO1SE",
+          "url": "https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2"
+        },
+        {
+          "name": "TeZATalks",
+          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
         }
       ],
-      "duration_ms": 420872,
-      "name": "I Want Your Soul",
-      "url": "https://open.spotify.com/track/1jRBWD3P86rcJi2AAONZdz"
+      "duration_ms": 178206,
+      "name": "STFD (Remix)",
+      "url": "https://open.spotify.com/track/3cr4nLS3rbzII8fqvsDO5N"
+    },
+    {
+      "added_at": "2023-10-06 15:37:41",
+      "album": {
+        "name": "Remixes",
+        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
+      },
+      "artists": [
+        {
+          "name": "Astrix",
+          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+        },
+        {
+          "name": "Darma",
+          "url": "https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi"
+        }
+      ],
+      "duration_ms": 488275,
+      "name": "Poison - Darma Remix",
+      "url": "https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH"
     },
     {
       "added_at": "2023-10-06 15:37:41",
@@ -1115,26 +1135,6 @@
       "duration_ms": 236978,
       "name": "Lose My Cool",
       "url": "https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz"
-    },
-    {
-      "added_at": "2023-10-06 15:37:41",
-      "album": {
-        "name": "Remixes",
-        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
-      },
-      "artists": [
-        {
-          "name": "Astrix",
-          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
-        },
-        {
-          "name": "Darma",
-          "url": "https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi"
-        }
-      ],
-      "duration_ms": 488275,
-      "name": "Poison - Darma Remix",
-      "url": "https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH"
     },
     {
       "added_at": "2023-10-06 15:37:41",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-10-06 15:37:41",
       "album": {
-        "name": "Extra-Terra",
-        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
-      },
-      "artists": [
-        {
-          "name": "GRAViiTY",
-          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
-        }
-      ],
-      "duration_ms": 231269,
-      "name": "Extra-Terra",
-      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
-    },
-    {
-      "added_at": "2023-10-06 15:37:41",
-      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/2lhRmzTITHYR9xcAdRho0R"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 328937,
       "name": "You & I",
       "url": "https://open.spotify.com/track/6evCF4QQGUt2C3pbefE3jH"
+    },
+    {
+      "added_at": "2023-10-06 15:37:41",
+      "album": {
+        "name": "Extra-Terra",
+        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
+      },
+      "artists": [
+        {
+          "name": "GRAViiTY",
+          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
+        }
+      ],
+      "duration_ms": 231269,
+      "name": "Extra-Terra",
+      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
     },
     {
       "added_at": "2023-10-06 15:37:41",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-10-06 15:37:41",
       "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
-      },
-      "artists": [
-        {
-          "name": "Tao Andra",
-          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
-        }
-      ],
-      "duration_ms": 348274,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
-    },
-    {
-      "added_at": "2023-10-06 15:37:41",
-      "album": {
         "name": "Rise The Remixes",
         "url": "https://open.spotify.com/album/7aJEOvh6tSmx81Sz7OVQg3"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 427605,
       "name": "We are Psychedelic - GMS Remix",
       "url": "https://open.spotify.com/track/3qehmGY1DnlBI5W9iFlUhR"
+    },
+    {
+      "added_at": "2023-10-06 15:37:41",
+      "album": {
+        "name": "Gracias a la Vida",
+        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
+      },
+      "artists": [
+        {
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+        }
+      ],
+      "duration_ms": 348274,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
     },
     {
       "added_at": "2023-10-06 15:37:41",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-10-06 15:37:41",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub"
-      },
-      "artists": [
-        {
-          "name": "Morten Granau",
-          "url": "https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0"
-        }
-      ],
-      "duration_ms": 452173,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0"
-    },
-    {
-      "added_at": "2023-10-06 15:37:41",
-      "album": {
         "name": "Huna (feat. Ravid Kahalani)",
         "url": "https://open.spotify.com/album/2zCbJe1hvzAZqkP4JIJMHc"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 145714,
       "name": "Huna (feat. Ravid Kahalani)",
       "url": "https://open.spotify.com/track/2MTosWcPKh92SAzZgZhVlc"
+    },
+    {
+      "added_at": "2023-10-06 15:37:41",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub"
+      },
+      "artists": [
+        {
+          "name": "Morten Granau",
+          "url": "https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0"
+        }
+      ],
+      "duration_ms": 452173,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0"
     },
     {
       "added_at": "2023-10-06 15:37:41",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2023-10-06 15:37:41",
       "album": {
-        "name": "Enimatek",
-        "url": "https://open.spotify.com/album/00TsqOQn92UASwSACrS81W"
+        "name": "Shroomeez",
+        "url": "https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ"
       },
       "artists": [
         {
-          "name": "Kore-G",
-          "url": "https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7"
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Enimatek",
-      "url": "https://open.spotify.com/track/6QXjBAxGgcDcSx4VjH7Pf2"
+      "duration_ms": 390011,
+      "name": "You Wanna Stay",
+      "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"
     }
   ],
   "unique_name": "Psytrance Supernova",

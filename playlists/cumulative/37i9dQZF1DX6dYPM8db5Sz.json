@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261165,
+      "name": "A Running Start",
+      "url": "https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq"
+    },
+    {
+      "album": {
         "name": "A Scene from Some Old Poem",
         "url": "https://open.spotify.com/album/5pzNFoJ5N9F5ygVheE9ykL"
       },
@@ -946,6 +964,24 @@
       "duration_ms": 185635,
       "name": "Bizarre",
       "url": "https://open.spotify.com/track/61Phoppvo0NkAIjrql2NCi"
+    },
+    {
+      "album": {
+        "name": "Proof Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171700,
+      "name": "Black Car",
+      "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
     },
     {
       "album": {
@@ -1859,6 +1895,28 @@
     },
     {
       "album": {
+        "name": "Dancing By Myself",
+        "url": "https://open.spotify.com/album/1sSfgH76mxLGe5M6OxaFsU"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Rodrigues",
+          "url": "https://open.spotify.com/artist/64Vss2wNfj7wyFFVbpIy3d"
+        },
+        {
+          "name": "Molly Annelle",
+          "url": "https://open.spotify.com/artist/3mgxzlrTPRjDZ5qn93i5vz"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185010,
+      "name": "Dancing By Myself",
+      "url": "https://open.spotify.com/track/1FGS4DKeGwZdXStDpwyAxh"
+    },
+    {
+      "album": {
         "name": "Dark In The Day",
         "url": "https://open.spotify.com/album/0u9Yy2PjPE2KD3uHD0Kb0j"
       },
@@ -2628,6 +2686,28 @@
       "duration_ms": 153062,
       "name": "Far Far Away",
       "url": "https://open.spotify.com/track/667RuRJORsvZLjNCjIJiYH"
+    },
+    {
+      "album": {
+        "name": "Far Too Gone",
+        "url": "https://open.spotify.com/album/7Kj7Q7NRImb1JmmpqHhol3"
+      },
+      "artists": [
+        {
+          "name": "Namakau Star",
+          "url": "https://open.spotify.com/artist/5PJjfwzboKU6Q8mapvR1oc"
+        },
+        {
+          "name": "The Planetoids",
+          "url": "https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210728,
+      "name": "Far Too Gone",
+      "url": "https://open.spotify.com/track/116G8wWsBGlSqhUfahTDhO"
     },
     {
       "album": {
@@ -4151,6 +4231,24 @@
     },
     {
       "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/4Q0EESoSG4Tq1RbFKgY7Tc"
+      },
+      "artists": [
+        {
+          "name": "Cal Motto-Ros",
+          "url": "https://open.spotify.com/artist/3nQ3eVNDnBzGUBIIgUTqqg"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/43bNwvKfljXxMNGVfHJAHP"
+    },
+    {
+      "album": {
         "name": "Aidan Fraser",
         "url": "https://open.spotify.com/album/4SX8wjnaLxGo19l6x0Xmxt"
       },
@@ -4476,6 +4574,24 @@
       "duration_ms": 138507,
       "name": "letter for you",
       "url": "https://open.spotify.com/track/7vLA0SpjzlLLneMlfSIr3K"
+    },
+    {
+      "album": {
+        "name": "for the boys i like",
+        "url": "https://open.spotify.com/album/03sJKeNC4zs4jRrPr8BYpu"
+      },
+      "artists": [
+        {
+          "name": "Muneyi",
+          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219320,
+      "name": "letter to my father",
+      "url": "https://open.spotify.com/track/7tCVDMEqgqSNPKhs8DTIER"
     },
     {
       "album": {
@@ -5731,6 +5847,24 @@
     },
     {
       "album": {
+        "name": "Fortune's child",
+        "url": "https://open.spotify.com/album/4CjY3RnccWWHglcx2D6Hwr"
+      },
+      "artists": [
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170213,
+      "name": "Opposites don't attract",
+      "url": "https://open.spotify.com/track/4WuBRsw8NvN8gAjiQGfVhM"
+    },
+    {
+      "album": {
         "name": "Ordinary Love",
         "url": "https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt"
       },
@@ -5992,6 +6126,24 @@
       "duration_ms": 193333,
       "name": "Place To Be",
       "url": "https://open.spotify.com/track/3fjEy2DBm2qiQbqr59yrIT"
+    },
+    {
+      "album": {
+        "name": "Play God",
+        "url": "https://open.spotify.com/album/7E9KWeTboK20nXJ5bzMElQ"
+      },
+      "artists": [
+        {
+          "name": "Cece Vee",
+          "url": "https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227460,
+      "name": "Play God",
+      "url": "https://open.spotify.com/track/1JeNe2MbM5ho0WpCXOCbJ8"
     },
     {
       "album": {
@@ -6756,6 +6908,24 @@
       "duration_ms": 178615,
       "name": "sex symbol",
       "url": "https://open.spotify.com/track/04IWHcxPerT5PxCIboSPUj"
+    },
+    {
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/3kwMTqU5TIqfhOFXG3szmV"
+      },
+      "artists": [
+        {
+          "name": "A Year on Earth",
+          "url": "https://open.spotify.com/artist/3fUsegKYycWDZOspXioFO7"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259480,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/2dMJugJNquLUTM2kTFXd0i"
     },
     {
       "album": {
@@ -7876,7 +8046,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 287384,
       "name": "The Spin Astride",
       "url": "https://open.spotify.com/track/0DniVPo0gdLY94cSJVKYMV"
@@ -8306,6 +8476,24 @@
       "duration_ms": 216764,
       "name": "Turbo Charged",
       "url": "https://open.spotify.com/track/2gzVZEiwOM5jBLtMGhYlJa"
+    },
+    {
+      "album": {
+        "name": "I'm Green",
+        "url": "https://open.spotify.com/album/1upKvbsQau0k852Ol079dD"
+      },
+      "artists": [
+        {
+          "name": "Mali Velasquez",
+          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236057,
+      "name": "Turn Red",
+      "url": "https://open.spotify.com/track/0rayVRqTtVHVkFiYdI8QW2"
     },
     {
       "album": {
@@ -8992,6 +9180,24 @@
       "duration_ms": 103021,
       "name": "Wildfire Love",
       "url": "https://open.spotify.com/track/2Z9r1F0qUif5yjEHq01X60"
+    },
+    {
+      "album": {
+        "name": "Winter Depression",
+        "url": "https://open.spotify.com/album/0bxEi3qP1bHHtLV8IVDifF"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213494,
+      "name": "Winter Depression",
+      "url": "https://open.spotify.com/track/6qE4LaHVH7Dgkm7N9Bhp2o"
     },
     {
       "album": {

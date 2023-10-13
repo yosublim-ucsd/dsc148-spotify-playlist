@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:4GUR4UKtbNQiAV2h5qV2df\">Kamil Kempi\u0144ski</a>",
-  "num_followers": 6531,
+  "num_followers": 6555,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWEwMWUyZTU5YTcyYzBlZTRjMTAzNmU1MGQ4ZjEwZmY0OTQyNjI4",
+  "snapshot_id": "MCxkYTI4Y2E0ZGFlY2I0MjJiMmIzZmFmZDNiNjVmNzEzNjZhNzRlOWNl",
   "tracks": [
     {
       "added_at": "2023-10-09 22:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "Hydra",
-        "url": "https://open.spotify.com/album/7A7tpEscBr4gb6G5dJAqZv"
-      },
-      "artists": [
-        {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
-        }
-      ],
-      "duration_ms": 288480,
-      "name": "Hydra",
-      "url": "https://open.spotify.com/track/5IIkGVU8NWqjWmxWSKyD6u"
-    },
-    {
-      "added_at": "2023-10-09 22:00:00",
-      "album": {
         "name": "tw\u00f3j zapach",
         "url": "https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 180000,
       "name": "tw\u00f3j zapach",
       "url": "https://open.spotify.com/track/0irIpENIile1obCEpugDL1"
+    },
+    {
+      "added_at": "2023-10-09 22:00:00",
+      "album": {
+        "name": "Hydra",
+        "url": "https://open.spotify.com/album/7A7tpEscBr4gb6G5dJAqZv"
+      },
+      "artists": [
+        {
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+        }
+      ],
+      "duration_ms": 288480,
+      "name": "Hydra",
+      "url": "https://open.spotify.com/track/5IIkGVU8NWqjWmxWSKyD6u"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "OLIMP",
-        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
-      },
-      "artists": [
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
-        }
-      ],
-      "duration_ms": 192557,
-      "name": "Tamto Lato",
-      "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
-    },
-    {
-      "added_at": "2023-10-09 22:00:00",
-      "album": {
         "name": "miss u",
         "url": "https://open.spotify.com/album/0TIjkkDpIOiOmdc3el92Uz"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "Le$bijka",
-        "url": "https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2"
+        "name": "OLIMP",
+        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
       },
       "artists": [
         {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
         }
       ],
-      "duration_ms": 169759,
-      "name": "Le$bijka",
-      "url": "https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D"
+      "duration_ms": 192557,
+      "name": "Tamto Lato",
+      "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -631,6 +615,22 @@
       "duration_ms": 211555,
       "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
       "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
+    },
+    {
+      "added_at": "2023-10-09 22:00:00",
+      "album": {
+        "name": "Le$bijka",
+        "url": "https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "duration_ms": 169759,
+      "name": "Le$bijka",
+      "url": "https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
+        "name": "$WAG (lepi si\u0119 w ch*j)",
+        "url": "https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z"
+      },
+      "artists": [
+        {
+          "name": "susk",
+          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
+        }
+      ],
+      "duration_ms": 158787,
+      "name": "$WAG (lepi si\u0119 w ch*j)",
+      "url": "https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi"
+    },
+    {
+      "added_at": "2023-10-09 22:00:00",
+      "album": {
         "name": "The Moon",
         "url": "https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 284422,
       "name": "The Moon",
       "url": "https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g"
-    },
-    {
-      "added_at": "2023-10-09 22:00:00",
-      "album": {
-        "name": "$WAG (lepi si\u0119 w ch*j)",
-        "url": "https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z"
-      },
-      "artists": [
-        {
-          "name": "susk",
-          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
-        }
-      ],
-      "duration_ms": 158787,
-      "name": "$WAG (lepi si\u0119 w ch*j)",
-      "url": "https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
+        "name": "Jeszcze mam serce",
+        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 251216,
+      "name": "Jeszcze mam serce",
+      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
+    },
+    {
+      "added_at": "2023-10-09 22:00:00",
+      "album": {
         "name": "psychodynamiczne",
         "url": "https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 190000,
       "name": "priorytetem",
       "url": "https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux"
-    },
-    {
-      "added_at": "2023-10-09 22:00:00",
-      "album": {
-        "name": "J\u0119zyk",
-        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 186468,
-      "name": "J\u0119zyk",
-      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
+        "name": "J\u0119zyk",
+        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 186468,
+      "name": "J\u0119zyk",
+      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
+    },
+    {
+      "added_at": "2023-10-09 22:00:00",
+      "album": {
         "name": "Spina",
         "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
       },
@@ -991,18 +1007,18 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "Jeszcze mam serce",
-        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
       },
       "artists": [
         {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
         }
       ],
-      "duration_ms": 251216,
-      "name": "Jeszcze mam serce",
-      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
+      "duration_ms": 225920,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
+        "name": "DOM",
+        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
       },
       "artists": [
         {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
         }
       ],
-      "duration_ms": 225920,
-      "name": "Tango",
-      "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
+      "duration_ms": 243979,
+      "name": "Cie\u0144",
+      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -1067,22 +1083,6 @@
       "duration_ms": 141340,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX"
-    },
-    {
-      "added_at": "2023-10-09 22:00:00",
-      "album": {
-        "name": "Ulubione miejsce",
-        "url": "https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf"
-      },
-      "artists": [
-        {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Ulubione miejsce",
-      "url": "https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
+        "name": "Ulubione miejsce",
+        "url": "https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Ulubione miejsce",
+      "url": "https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7"
+    },
+    {
+      "added_at": "2023-10-09 22:00:00",
+      "album": {
         "name": "FOMO",
         "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
       },
@@ -1163,38 +1179,6 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "DOM",
-        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 243979,
-      "name": "Cie\u0144",
-      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
-    },
-    {
-      "added_at": "2023-10-09 22:00:00",
-      "album": {
-        "name": "Bezpowrotnie",
-        "url": "https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 182219,
-      "name": "Bezpowrotnie",
-      "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
-    },
-    {
-      "added_at": "2023-10-09 22:00:00",
-      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 267000,
       "name": "Rojava",
       "url": "https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW"
+    },
+    {
+      "added_at": "2023-10-09 22:00:00",
+      "album": {
+        "name": "Bezpowrotnie",
+        "url": "https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 182219,
+      "name": "Bezpowrotnie",
+      "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "Girls, Gays, People",
-        "url": "https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9"
+        "name": "Organic Love",
+        "url": "https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX"
       },
       "artists": [
         {
-          "name": "Yanch",
-          "url": "https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ"
+          "name": "MICU\u0141A",
+          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
         }
       ],
-      "duration_ms": 395000,
-      "name": "Girls, Gays, People",
-      "url": "https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10"
+      "duration_ms": 192000,
+      "name": "Organic Love",
+      "url": "https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m"
     }
   ],
   "unique_name": "GLOW Polska",

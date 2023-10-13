@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 845892,
+  "num_followers": 844434,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzY5MmVkYzRhMDI2ODQxM2UyNGNlMDlkYWJhZjkyMzhiZTIzMDc4",
+  "snapshot_id": "MCxkYjRiYTA1MzY5YmRlMjJmZDQxYmU5MzAzMTljY2E0MDA4NDJjMGYz",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 225153,
-      "name": "C\u00f3mo Me Quieres",
-      "url": "https://open.spotify.com/track/11AURg9Kbju7LOcwQnR17f"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Nocturne EP",
         "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 268626,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 225153,
+      "name": "C\u00f3mo Me Quieres",
+      "url": "https://open.spotify.com/track/11AURg9Kbju7LOcwQnR17f"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Grapefruit Season",
-        "url": "https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 233954,
-      "name": "Poison to You",
-      "url": "https://open.spotify.com/track/2gespzBmNAR9mpbenZdPlH"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Haven Lea",
         "url": "https://open.spotify.com/album/206TdjkA3eP2MVvI3VPe3z"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 187370,
       "name": "Haven Lea",
       "url": "https://open.spotify.com/track/1npKCqB7DQ8bAM1DlWp5a9"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Grapefruit Season",
+        "url": "https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 233954,
+      "name": "Poison to You",
+      "url": "https://open.spotify.com/track/2gespzBmNAR9mpbenZdPlH"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1599,18 +1599,34 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Island",
-        "url": "https://open.spotify.com/album/3o9uyMA85EvDzYvbvfoRh0"
+        "name": "Overlook",
+        "url": "https://open.spotify.com/album/3UAI3FHdoMIdFDK0Pwb4Cd"
       },
       "artists": [
         {
-          "name": "Corrina Repp",
-          "url": "https://open.spotify.com/artist/6VhCOB0YOxq4S2a8GuPtvz"
+          "name": "Jack Bradley Vaught",
+          "url": "https://open.spotify.com/artist/5wblMUnLVqEef2mIpuiDED"
         }
       ],
-      "duration_ms": 278625,
-      "name": "One Summer",
-      "url": "https://open.spotify.com/track/3T3nxiYdQQxF0EjBtwDAtm"
+      "duration_ms": 161506,
+      "name": "Overlook",
+      "url": "https://open.spotify.com/track/6gsZ2naKRWRnadouOtpcNt"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Orbit",
+        "url": "https://open.spotify.com/album/7JDJYXq99Jd9kUYAtsfK5u"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 233238,
+      "name": "Society",
+      "url": "https://open.spotify.com/track/5BQZpjCcPmFSeLzTh48Zfc"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1627,22 +1643,6 @@
       "duration_ms": 238200,
       "name": "Pistol Shrimp",
       "url": "https://open.spotify.com/track/5M1hoIZLs9cSOihCgUTJjT"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Overlook",
-        "url": "https://open.spotify.com/album/3UAI3FHdoMIdFDK0Pwb4Cd"
-      },
-      "artists": [
-        {
-          "name": "Jack Bradley Vaught",
-          "url": "https://open.spotify.com/artist/5wblMUnLVqEef2mIpuiDED"
-        }
-      ],
-      "duration_ms": 161506,
-      "name": "Overlook",
-      "url": "https://open.spotify.com/track/6gsZ2naKRWRnadouOtpcNt"
     }
   ],
   "unique_name": "Chill + Atmospheric",

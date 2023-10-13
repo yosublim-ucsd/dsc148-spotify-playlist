@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-200 songs - 13 hr 1 min
+201 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Church Pew](https://open.spotify.com/track/0Z1ZBLSFEu16lc2JPbiWlw) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Church Pew](https://open.spotify.com/album/7lWtYUVYwsWT7iTtOR192c) | 3:59 | 2023-07-14 |  |
 | [Close](https://open.spotify.com/track/6E8ABhH2AzuZd6DfsgQmEv) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Close](https://open.spotify.com/album/3ftXKae2xksSRlAg9ZhPPo) | 3:31 | 2023-08-25 |  |
 | [Come Alive \(Resurrection Power\) \- Live](https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Here \(Live\)](https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1) | 7:48 | 2022-03-25 |  |
+| [Come And See](https://open.spotify.com/track/0xGXXhBANmAw51BSM4RjxN) | [Jeremy Rosado](https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY) | [Come And See](https://open.spotify.com/album/5ZfFWKZiYjGbYZcUKmNhyG) | 3:17 | 2023-10-12 |  |
 | [Come Home](https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Come Home](https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X) | 3:57 | 2022-05-13 |  |
 | [Coming Out Fighting](https://open.spotify.com/track/4BhIdUwXCuraOleWckiAL5) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Coming Out Fighting](https://open.spotify.com/album/7v4kN2sY4pDsP6MpafYEbk) | 3:43 | 2022-02-17 | 2022-08-27 |
 | [Cornerstone \(feat\. Zach Williams\)](https://open.spotify.com/track/6wCVcqWX20n8kAtIK9PoeG) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Life After Death](https://open.spotify.com/album/0r9SK42XWsd4BOu4IGi1c3) | 3:39 | 2022-08-19 |  |

@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Mychelle
 
-198 songs - 11 hr 57 min
+200 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Addicted \- Acoustic version](https://open.spotify.com/track/4eJYkJ8YMhx2Q6vISpzQTC) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben.](https://open.spotify.com/album/2DqIcOBa5RWU1dX9id4M4u) | 3:48 | 2021-12-09 | 2022-05-06 |
 | [Ali](https://open.spotify.com/track/4TQYdFRCYW7QH0vwmYYt97) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:12 | 2022-06-16 |  |
 | [Ali](https://open.spotify.com/track/6MIBYuOl9utcgCkhcnwh4K) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Ali](https://open.spotify.com/album/0dA1GAsNyDEHy0uHAkXFzS) | 3:12 | 2021-12-09 | 2022-07-29 |
-| [All Kinds Of Crazy](https://open.spotify.com/track/3tyUkDjSuUFRlyRsCl1oXE) | [Kat Eaton](https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P) | [All Kinds Of Crazy](https://open.spotify.com/album/3zt1friOENCNbNxunXoyIY) | 3:07 | 2021-12-09 |  |
+| [All Kinds Of Crazy](https://open.spotify.com/track/3tyUkDjSuUFRlyRsCl1oXE) | [Kat Eaton](https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P) | [All Kinds Of Crazy](https://open.spotify.com/album/3zt1friOENCNbNxunXoyIY) | 3:07 | 2021-12-09 | 2023-10-13 |
 | [All My Love](https://open.spotify.com/track/5zkU3MXBvHqMAfiqSuEYQX) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [I Told You I Would](https://open.spotify.com/album/2lIpGHB6SBjKsShyLRrZhM) | 3:28 | 2022-12-09 |  |
 | [Anything For You \- The Duet](https://open.spotify.com/track/4Y6kb79j6Dw8Sy99JSBtzO) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Anything For You \(The Duet\)](https://open.spotify.com/album/0SehtJ2CGMhcBrEZTE5HLH) | 4:16 | 2021-12-09 |  |
 | [At Your Best \(You Are Love\)](https://open.spotify.com/track/1UQdvPrkLvzvU4ktYCRHCu) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [For Real\. \(Acoustic\)](https://open.spotify.com/album/24RKf3d0OpuUoJtWj4hgmT) | 4:14 | 2021-12-09 | 2023-04-09 |
@@ -26,8 +26,9 @@
 | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/album/5MBSSSfF904m3GaUapgRIs) | 3:17 | 2021-12-09 | 2022-11-17 |
 | [Be Honest \(feat\. Burna Boy\) \(acoustic\)](https://open.spotify.com/track/29OB96bcpEnlfbdVREAr83) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\) \(acoustic\)](https://open.spotify.com/album/0qb2JuzgSBbbrJJM6sDWLU) | 3:11 | 2021-12-09 | 2023-04-09 |
 | [Belong To You](https://open.spotify.com/track/6pda92NQRMnWwbOgQhYhtw) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Belong To You](https://open.spotify.com/album/4zvlLzjTjhSzZeINzOcp5Q) | 3:05 | 2021-12-09 |  |
+| [Biting These Bullets](https://open.spotify.com/track/26DRE0b2MT2ym9LxVpfgDa) | [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [Biting These Bullets](https://open.spotify.com/album/7h5jbvfnzdxDUtKd9vUj8U) | 3:22 | 2023-10-12 |  |
 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 | 2021-12-09 |  |
-| [Body \- Remastered](https://open.spotify.com/track/0RMG7vVLwdPFfcfiTeceOa) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [Body \(Remastered\)](https://open.spotify.com/album/2rKyEZj5sLPoy2UXudGswY) | 2:52 | 2021-12-09 |  |
+| [Body \- Remastered](https://open.spotify.com/track/0RMG7vVLwdPFfcfiTeceOa) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [Body \(Remastered\)](https://open.spotify.com/album/2rKyEZj5sLPoy2UXudGswY) | 2:52 | 2021-12-09 | 2023-10-13 |
 | [BRB \- Acoustic](https://open.spotify.com/track/2a8LoldsEpzYbwAs7uf4Sl) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [BRB \(Acoustic\)](https://open.spotify.com/album/0ZJVf5ifFPQg6Zb6tNpDKZ) | 2:32 | 2021-12-09 | 2023-08-16 |
 | [Breathe Me \(Homegrown Session\)](https://open.spotify.com/track/1k8AvMh61nJFUIak5NXdEY) | [Maya Mae](https://open.spotify.com/artist/3Rf9Szpp2LkKOc3SffGinv) | [Breathe Me \(Homegrown Session\)](https://open.spotify.com/album/0BkgJSfl9AGCRvIj5Oekk0) | 2:48 | 2021-12-09 |  |
 | [Burn \- Outro 4 Intro](https://open.spotify.com/track/2J6zYW4fByPIAn9GVzNNrX) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:34 | 2021-12-09 | 2023-04-09 |
@@ -93,6 +94,7 @@
 | [If You Let Me \(acoustic\)](https://open.spotify.com/track/34saUkPG912g18oQd8FT3R) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love \- Acoustic](https://open.spotify.com/album/1lV062Z85zZ8Euv2UFjCJR) | 4:25 | 2022-06-16 | 2023-04-09 |
 | [In Your Head](https://open.spotify.com/track/7CJ1Q5T9InemrShfg1mHAY) | [Shan Ako](https://open.spotify.com/artist/6e8tjWVoHdVq00RY4VetKL), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [God's Best](https://open.spotify.com/album/6qazaJgI2kR9ClXu0MsFAi) | 3:21 | 2022-05-03 |  |
 | [Insecure \- Live in Nashville](https://open.spotify.com/track/1xKTLrwGGxHhltkrDHd6N8) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Insecure \(Live In Nashville\)](https://open.spotify.com/album/3GS6nnMAWVavSdhcq7PLKS) | 3:07 | 2021-12-09 |  |
+| [Is It Any Wonder? \- Live at Paste](https://open.spotify.com/track/7MGlEFQtwlbT0qJF3fK8Vj) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Live at Paste](https://open.spotify.com/album/7jzoFgu5QkIkobI4Tgt7QY) | 4:09 | 2023-10-12 |  |
 | [Is This Love](https://open.spotify.com/track/0fBJCJyrMSnX7vZrvXKovG) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Is This Love](https://open.spotify.com/album/49R4sdFgr1sHH6RXXRdhPU) | 4:04 | 2022-11-03 | 2022-11-13 |
 | [Is This Love](https://open.spotify.com/track/0mu7b8QUACHrd6SzQHWhxy) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Magic](https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0) | 4:04 | 2023-07-10 | 2023-07-29 |
 | [Is This Love](https://open.spotify.com/track/3BwJpqcYEoQqMuJVEgl0aF) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ) | 4:04 | 2022-06-16 | 2023-07-16 |

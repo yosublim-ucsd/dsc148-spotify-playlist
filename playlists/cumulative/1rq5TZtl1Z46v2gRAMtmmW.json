@@ -670,7 +670,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 144479,
       "name": "Dance of the Crab - Edit",
       "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 144149,
       "name": "Fader - Edit",
       "url": "https://open.spotify.com/track/4oR9onkuU2xWQL3E5apApP"
@@ -1937,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "Its me ( g 8 ) / Oway ( f 7 )",
+        "url": "https://open.spotify.com/album/6rZTJHYLDsA564tCn9kEJ9"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317765,
+      "name": "Its me ( g 8 )",
+      "url": "https://open.spotify.com/track/3dC6yRjocmprQqEYvv72Ft"
+    },
+    {
+      "album": {
         "name": "I\u2019m Tight",
         "url": "https://open.spotify.com/album/3BRjhB1XOxBPM5AGzJZLmi"
       },
@@ -2756,6 +2774,28 @@
       "duration_ms": 232304,
       "name": "Running",
       "url": "https://open.spotify.com/track/2sFOzyRqcN5fKXPrZJjoc2"
+    },
+    {
+      "album": {
+        "name": "S e x",
+        "url": "https://open.spotify.com/album/1DnORgesBFu2C0lJ2ZPQuO"
+      },
+      "artists": [
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181546,
+      "name": "S e x",
+      "url": "https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr"
     },
     {
       "album": {

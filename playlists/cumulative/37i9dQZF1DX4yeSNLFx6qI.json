@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 189240,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/1s8TR4ZPyrRf0E7zbNNjvZ"
@@ -2512,6 +2512,24 @@
       "duration_ms": 201190,
       "name": "Por Qu\u00e9 Te Vas",
       "url": "https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3"
+    },
+    {
+      "album": {
+        "name": "claridad",
+        "url": "https://open.spotify.com/album/3WfOIUEYZSSBlJVzF9UCt0"
+      },
+      "artists": [
+        {
+          "name": "Marina Reche",
+          "url": "https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Por si quieres volver",
+      "url": "https://open.spotify.com/track/0Y66CEujNdMDXKPAxuHK0s"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Baani Sandhu
 
-66 songs - 3 hr 30 min
+69 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Defaulter](https://open.spotify.com/track/260lfDzVnZHXmIXIvKUNVz) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Defaulter](https://open.spotify.com/album/4iGipyYHimj6ZMsAzkhQDQ) | 3:21 | 2023-03-18 |  |
 | [Dil Te](https://open.spotify.com/track/2UPFPN46lpcpZCSCrPVjad) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Dil Te](https://open.spotify.com/album/7ymbaDDS8DT9ObivkZ5bco) | 2:51 | 2023-03-18 |  |
 | [Dil Tutteya](https://open.spotify.com/track/48IF4LGpBuSitHqaiPua95) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Dil Tutteya](https://open.spotify.com/album/0VT9ERykGHCBKSn2eqbFAg) | 3:47 | 2023-03-18 |  |
+| [Door Door](https://open.spotify.com/track/1exPCMH8g9oZLMRH6neVG1) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 3:32 | 2023-10-12 |  |
 | [Gaddi](https://open.spotify.com/track/408tsYRN9p77OQvpWouhWj) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Step Up](https://open.spotify.com/album/3r4E0LF4sCrql6Z9TV7nNO) | 3:17 | 2023-03-18 |  |
 | [Gall Mukk Gyi](https://open.spotify.com/track/3DWcDfFX2Hb8oNTD4i67yv) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Jay B](https://open.spotify.com/artist/2TdZWrXKfFeB02QswxEvU5) | [Gall Mukk Gyi](https://open.spotify.com/album/5rJH6PsvkyknJrB7EnmaxR) | 3:26 | 2023-03-18 |  |
 | [Ghori](https://open.spotify.com/track/2NNBsoC80svL6FU8mIhn82) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Mahi Da Viyah](https://open.spotify.com/album/799pGvv7ev2JMIMMy8GJCR) | 4:31 | 2023-03-18 | 2023-04-20 |
@@ -59,8 +60,10 @@
 | [Rooh](https://open.spotify.com/track/2HuoVplD1lLM8WYUVDd3gE) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Rooh](https://open.spotify.com/album/5obWYzYO5TQJkIoWBx4OHG) | 3:28 | 2023-03-18 |  |
 | [Routine](https://open.spotify.com/track/2QTCe4GzV85PZlu0t1ybGU) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Kaptaan](https://open.spotify.com/artist/2czXapo5pWGIMCK0CVxxGl) | [Routine](https://open.spotify.com/album/1HjNtwpnWn3Jy85DJBn2qn) | 3:23 | 2023-04-19 |  |
 | [Saadi Yaad](https://open.spotify.com/track/2lQKUDOOg4TELqOacnHwDt) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Saadi Yaad](https://open.spotify.com/album/4y0IjnVoYUKqJIr2uhtff6) | 2:40 | 2023-03-18 |  |
+| [Sau Sau Gallan](https://open.spotify.com/track/0V3Hnajwu7cpaKRtg3VVjT) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 4:11 | 2023-10-12 |  |
 | [Shikayatan](https://open.spotify.com/track/4M0gBdxmNHpFql2o3lre9t) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Shikayatan](https://open.spotify.com/album/392bVyibCeU6hQJN494LoW) | 2:40 | 2023-03-18 |  |
 | [Sohna Lagda](https://open.spotify.com/track/3DIHLEEI2qMVvUi7HNFUWF) | [Divya Sharma](https://open.spotify.com/artist/6JbAd8GIWUoAwKjJfKx3oR) | [Sohna Lagda](https://open.spotify.com/album/50wVYIfIIi0TssIiqHcCxH) | 2:50 | 2023-03-18 | 2023-10-10 |
+| [Suhagan](https://open.spotify.com/track/2UN5ayAAWWfdHI6I33eehA) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 5:14 | 2023-10-12 |  |
 | [Supna Laavan Da](https://open.spotify.com/track/3tXRp4vdz8lFQNI3r2RAFM) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Supna Laavan Da](https://open.spotify.com/album/1QYyTRzohDG1fi1eUQzOGZ) | 3:32 | 2023-03-18 |  |
 | [Taur](https://open.spotify.com/track/7wk74Tjsm5TrWfiL2FMIWZ) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Life Mere Wargi](https://open.spotify.com/album/0dvqdE6NfoZB7FTFOpXReJ) | 2:23 | 2023-07-20 |  |
 | [Tere Na Viahi](https://open.spotify.com/track/0mHLk3UHmPjzHENMrhLoFq) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Tere Na Viahi](https://open.spotify.com/album/4YL1opCeVh4laO5NTAYKu4) | 2:40 | 2023-04-19 |  |

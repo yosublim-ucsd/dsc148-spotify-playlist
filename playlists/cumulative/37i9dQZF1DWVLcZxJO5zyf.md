@@ -4,7 +4,7 @@
 
 > Ouça todos as novidades e hits do pop br aqui e agora! Foto: Pabllo Vittar
 
-239 songs - 11 hr 1 min
+240 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Cancelaram o Carnaval](https://open.spotify.com/track/3gUs7mbRVLaGAKOcSuUHXU) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Cancelaram o Carnaval](https://open.spotify.com/album/7qkynGkf30AuUc7jbPaedY) | 2:21 | 2022-03-18 | 2022-06-04 |
 | [Cavalgada](https://open.spotify.com/track/299c1FN7oTHwldS1risWZ8) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Cavalgada](https://open.spotify.com/album/044NoY1Exsn2gjc7N9yNmZ) | 2:01 | 2022-08-26 | 2022-12-24 |
 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 | 2023-09-08 |  |
-| [Ciclone](https://open.spotify.com/track/2J4nJffXU569d2ld9yxH6D) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Ciclone](https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v) | 2:54 | 2023-08-25 |  |
+| [Ciclone](https://open.spotify.com/track/2J4nJffXU569d2ld9yxH6D) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Ciclone](https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v) | 2:54 | 2023-08-25 | 2023-10-13 |
 | [Combinadinho](https://open.spotify.com/track/3o1wkALMRxFgotr82yUnSY) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Combinadinho](https://open.spotify.com/album/2TqritjMLjbcYejnZvZElm) | 2:43 | 2023-06-02 |  |
 | [CORAÇÃO CIGANO \- Ao Vivo](https://open.spotify.com/track/4vWh6tEfcLzdvYWp2IlOJS) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 3:29 | 2022-08-12 |  |
 | [Coração de Gelo](https://open.spotify.com/track/5tx0bbEsMwk7luBItngfrX) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Coração de Gelo](https://open.spotify.com/album/6QUWmfP8I7IF2PRhKvDuKS) | 2:34 | 2022-02-04 | 2022-05-07 |
@@ -247,5 +247,6 @@
 | [Yo No Se \(feat\. L7NNON & Maffio\)](https://open.spotify.com/track/2K176iGMIBESoxbTzyoFsH) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:01 | 2022-08-26 | 2023-09-30 |
 | [Zangadinha](https://open.spotify.com/track/4o31yQPBDncr20tBIEi9hM) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Zangadinha](https://open.spotify.com/album/72bDC2HxY61C2poH7GEaOC) | 2:36 | 2023-05-26 |  |
 | [Zap Zum](https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:47 | 2022-01-14 | 2022-02-05 |
+| [Zero a Cem](https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Zero a Cem](https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG) | 3:10 | 2023-10-12 |  |
 
 \*This playlist was first scraped on 2022-01-18. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Zaoui",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Laura",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -170,7 +170,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 157192,
       "name": "Baiser Amer",
       "url": "https://open.spotify.com/track/3cguuolaXUqJU7tUAEbFfZ"
@@ -192,6 +192,24 @@
       "duration_ms": 158604,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/1AQnssggAwAJTeV9hFzZHu"
+    },
+    {
+      "album": {
+        "name": "CC SAVA",
+        "url": "https://open.spotify.com/album/0fk7JDzCzSLdQpvV2u3l2S"
+      },
+      "artists": [
+        {
+          "name": "Mauvaise Bouche",
+          "url": "https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "CC SAVA",
+      "url": "https://open.spotify.com/track/6HoSoaAfrL9F3lZMuMVZFb"
     },
     {
       "album": {
@@ -264,6 +282,24 @@
       "duration_ms": 165826,
       "name": "CONS\u2019 DE LOVE",
       "url": "https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW"
+    },
+    {
+      "album": {
+        "name": "Corps Nucl\u00e9aire",
+        "url": "https://open.spotify.com/album/1w501CXi8HCQdDOXNmrRx7"
+      },
+      "artists": [
+        {
+          "name": "ELISA ERKA",
+          "url": "https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213142,
+      "name": "Corps Nucl\u00e9aire",
+      "url": "https://open.spotify.com/track/4m2Jir1D8nb2dHFeXEBtp6"
     },
     {
       "album": {
@@ -404,7 +440,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 199146,
       "name": "FEEL GOOD",
       "url": "https://open.spotify.com/track/4818KPM4qB4jOHL3wCx4xv"
@@ -509,6 +545,24 @@
     },
     {
       "album": {
+        "name": "J'vais passer l'\u00e2ge",
+        "url": "https://open.spotify.com/album/37vSJJne6tHF4nDhnRDybJ"
+      },
+      "artists": [
+        {
+          "name": "Laurie Darmon",
+          "url": "https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182438,
+      "name": "J'vais passer l'\u00e2ge",
+      "url": "https://open.spotify.com/track/2lXsHUjQV9sZN83sivu9JE"
+    },
+    {
+      "album": {
         "name": "Je veux, je veux, je veux",
         "url": "https://open.spotify.com/album/2Vm3JlbhgYPWjD6wsOgwlS"
       },
@@ -560,6 +614,24 @@
       "duration_ms": 158613,
       "name": "Julia",
       "url": "https://open.spotify.com/track/7wOiVecTrFnimS9bpnWJcS"
+    },
+    {
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7"
+      },
+      "artists": [
+        {
+          "name": "chien noir",
+          "url": "https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173973,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/7M45CXpMcsjxAVZxqpmzrH"
     },
     {
       "album": {
@@ -636,7 +708,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 164906,
       "name": "Langue de P***",
       "url": "https://open.spotify.com/track/3i9Pggk53qDhoMSV5CPmUk"
@@ -679,6 +751,32 @@
     },
     {
       "album": {
+        "name": "Le sport",
+        "url": "https://open.spotify.com/album/1eeXV77VD0bcIROCu4MAI0"
+      },
+      "artists": [
+        {
+          "name": "Louisette & Amaury",
+          "url": "https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y"
+        },
+        {
+          "name": "Louisette",
+          "url": "https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT"
+        },
+        {
+          "name": "Amaury",
+          "url": "https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188142,
+      "name": "Le sport",
+      "url": "https://open.spotify.com/track/327n10K86XlYJ6SNU92HLx"
+    },
+    {
+      "album": {
         "name": "Les Royaumes Minuscules",
         "url": "https://open.spotify.com/album/3VGubAeKi1fg002fAta5rz"
       },
@@ -715,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Loin de moi",
+        "url": "https://open.spotify.com/album/3hwZ6kczuObzQxBBBk23CW"
+      },
+      "artists": [
+        {
+          "name": "Clodelle",
+          "url": "https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166358,
+      "name": "Loin de moi",
+      "url": "https://open.spotify.com/track/39n7S9oaAPZ9JyVYaadset"
+    },
+    {
+      "album": {
         "name": "LOVE'n'TENDRESSE",
         "url": "https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6"
       },
@@ -744,7 +860,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 176250,
       "name": "Ma vie",
       "url": "https://open.spotify.com/track/2DDZ4FdbuEaTlytVpVzY31"
@@ -766,10 +882,32 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 187251,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/0eNAdxp91MiBmI7sHPsJJG"
+    },
+    {
+      "album": {
+        "name": "Mission",
+        "url": "https://open.spotify.com/album/4pITFt5Q4CnPjlcb1VLBtd"
+      },
+      "artists": [
+        {
+          "name": "Ambre Sls",
+          "url": "https://open.spotify.com/artist/3cMsbhJUy9mujVSPtMzxe9"
+        },
+        {
+          "name": "La P\u00e9pite",
+          "url": "https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183602,
+      "name": "Mission",
+      "url": "https://open.spotify.com/track/04wLbifT6G1tAzBRqMAC7d"
     },
     {
       "album": {
@@ -784,7 +922,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 165839,
       "name": "M\u00eame en enfer",
       "url": "https://open.spotify.com/track/0mxEFN9yHT8HLgEp1NtcDE"
@@ -802,7 +940,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 198506,
       "name": "Oh ma vie",
       "url": "https://open.spotify.com/track/6SLMAJI9fGwK3oQC32pWNB"

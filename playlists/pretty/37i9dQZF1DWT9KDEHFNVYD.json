@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 11000,
+  "num_followers": 11003,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjdkOTlmN2ZkMjg1ZDFkZWFjMzBlMDA5N2ViZTBhY2U1YmIzNzI2",
+  "snapshot_id": "MCw0MTIzN2I4M2QwMTBhYTVhYWM1NDY5M2Q2ZTZkZjg0OGUxZTZiOTM1",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Butterfly 3000",
-        "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 315133,
-      "name": "Interior People",
-      "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Love What Survives",
         "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 152931,
       "name": "SP12 Beat",
       "url": "https://open.spotify.com/track/2ouEiUmToYQClbXbSIF2T2"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Butterfly 3000",
+        "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 315133,
+      "name": "Interior People",
+      "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Masana Temples",
-        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
-      },
-      "artists": [
-        {
-          "name": "Kikagaku Moyo",
-          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
-        }
-      ],
-      "duration_ms": 193530,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/0thTo7umyVGvfnaQmQUuZX"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Deceiver",
         "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
       },
@@ -203,18 +187,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Flying Microtonal Banana",
-        "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
+        "name": "Masana Temples",
+        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
         }
       ],
-      "duration_ms": 468093,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
+      "duration_ms": 193530,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/0thTo7umyVGvfnaQmQUuZX"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -235,6 +219,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Mars Audiac Quintet",
+        "url": "https://open.spotify.com/album/3p7TBwwN0OGa9UxpcbdeY4"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Wow And Flutter",
+      "url": "https://open.spotify.com/track/7I8lsynj5wHO1p2DxccDrX"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Zitilites",
         "url": "https://open.spotify.com/album/6SRo0LgsrC4MV3nONDtr4c"
       },
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Mars Audiac Quintet",
-        "url": "https://open.spotify.com/album/3p7TBwwN0OGa9UxpcbdeY4"
+        "name": "Flying Microtonal Banana",
+        "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
       },
       "artists": [
         {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 188933,
-      "name": "Wow And Flutter",
-      "url": "https://open.spotify.com/track/7I8lsynj5wHO1p2DxccDrX"
+      "duration_ms": 468093,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -903,18 +903,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Stars Are the Light",
-        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
+        "name": "Know by Heart",
+        "url": "https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S"
       },
       "artists": [
         {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+          "name": "The American Analog Set",
+          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
         }
       ],
-      "duration_ms": 288031,
-      "name": "The World and the Sun",
-      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
+      "duration_ms": 217133,
+      "name": "Like Foxes Through Fences",
+      "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -951,34 +951,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Know by Heart",
-        "url": "https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S"
+        "name": "Stars Are the Light",
+        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
       },
       "artists": [
         {
-          "name": "The American Analog Set",
-          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
         }
       ],
-      "duration_ms": 217133,
-      "name": "Like Foxes Through Fences",
-      "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"
-    },
-    {
-      "added_at": "2022-03-29 02:06:14",
-      "album": {
-        "name": "QUAKENBR\u00dcCK [Version]",
-        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
-      },
-      "artists": [
-        {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
-        }
-      ],
-      "duration_ms": 279601,
-      "name": "Quakenbr\u00fcck - version",
-      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
+      "duration_ms": 288031,
+      "name": "The World and the Sun",
+      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1011,6 +995,22 @@
       "duration_ms": 310040,
       "name": "All Your Love is Gone",
       "url": "https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT"
+    },
+    {
+      "added_at": "2022-03-29 02:06:14",
+      "album": {
+        "name": "QUAKENBR\u00dcCK [Version]",
+        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
+      },
+      "artists": [
+        {
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+        }
+      ],
+      "duration_ms": 279601,
+      "name": "Quakenbr\u00fcck - version",
+      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
       "added_at": "2023-01-12 03:40:17",
@@ -1097,22 +1097,6 @@
       "url": "https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X"
     },
     {
-      "added_at": "2023-03-23 21:21:38",
-      "album": {
-        "name": "L'\u00e9t\u00e9 suivant...",
-        "url": "https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM"
-      },
-      "artists": [
-        {
-          "name": "Limousine",
-          "url": "https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh"
-        }
-      ],
-      "duration_ms": 387200,
-      "name": "Autoroute",
-      "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Switched On",
@@ -1127,6 +1111,22 @@
       "duration_ms": 322360,
       "name": "Super-Electric",
       "url": "https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL"
+    },
+    {
+      "added_at": "2023-03-23 21:21:38",
+      "album": {
+        "name": "L'\u00e9t\u00e9 suivant...",
+        "url": "https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM"
+      },
+      "artists": [
+        {
+          "name": "Limousine",
+          "url": "https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh"
+        }
+      ],
+      "duration_ms": 387200,
+      "name": "Autoroute",
+      "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
     },
     {
       "added_at": "2023-03-23 20:53:14",
@@ -1245,22 +1245,6 @@
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
     },
     {
-      "added_at": "2022-03-04 01:55:34",
-      "album": {
-        "name": "Mandatory Enjoyment",
-        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
-      },
-      "artists": [
-        {
-          "name": "Dummy",
-          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Final Weapon",
-      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Haha Sound",
@@ -1275,6 +1259,22 @@
       "duration_ms": 261426,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/6hbP2Xs5W0SVvepjLWnTeL"
+    },
+    {
+      "added_at": "2022-03-04 01:55:34",
+      "album": {
+        "name": "Mandatory Enjoyment",
+        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
+      },
+      "artists": [
+        {
+          "name": "Dummy",
+          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Final Weapon",
+      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "NEU!",
-        "url": "https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH"
-      },
-      "artists": [
-        {
-          "name": "NEU!",
-          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
-        }
-      ],
-      "duration_ms": 587333,
-      "name": "Negativland",
-      "url": "https://open.spotify.com/track/4IBOCVRedkQ3obCIaTqcxm"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Find The Sun",
         "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 426342,
       "name": "Saturnine Night",
       "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "NEU!",
+        "url": "https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH"
+      },
+      "artists": [
+        {
+          "name": "NEU!",
+          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+        }
+      ],
+      "duration_ms": 587333,
+      "name": "Negativland",
+      "url": "https://open.spotify.com/track/4IBOCVRedkQ3obCIaTqcxm"
     },
     {
       "added_at": "2021-07-30 14:56:06",

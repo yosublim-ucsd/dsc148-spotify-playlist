@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,628 likes - 101 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,525 likes - 101 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 80 | [I'm Not Afraid \- TV Version](https://open.spotify.com/track/6e3m9B9mGKJBHkO5hEzmsX) | [未來少女 日光之橙](https://open.spotify.com/artist/5NlodMnaOxmwPPBVqa3Zb5) | [I'm Not Afraid \(TV Version\)](https://open.spotify.com/album/5kzMnXlQsLEh7fjoWATLCq) | 3:09 |
 | 81 | [太阳与地球](https://open.spotify.com/track/2dyHXh5dfquUdH2ci30ZSI) | [Jarrell 黄俊融](https://open.spotify.com/artist/5hFV5x9k9vxFmKFneJIVp5) | [太阳与地球](https://open.spotify.com/album/6nD2McHVXlAo9NUl96FjQk) | 4:22 |
 | 82 | [几何](https://open.spotify.com/track/6jpthAGvW8UowRznK4fmJH) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [几何](https://open.spotify.com/album/2DChVorOry7Y1sW8WSt6VH) | 3:57 |
-| 83 | [怯](https://open.spotify.com/track/2Cd9Z6LLounw1LfS3iH0aF) | [KunppleZz](https://open.spotify.com/artist/4IJ4F9XmUZHFokW8LDzdda), [Ian](https://open.spotify.com/artist/2rfrTgqNXVOz3dlgpArSAf) | [怯](https://open.spotify.com/album/4l0JVHhAokMSKodbPMTFRS) | 3:36 |
+| 83 | [怯](https://open.spotify.com/track/32B07j7lIxBWNQfTQkZA4d) | [KunppleZz](https://open.spotify.com/artist/4IJ4F9XmUZHFokW8LDzdda), [Ian](https://open.spotify.com/artist/2rfrTgqNXVOz3dlgpArSAf) | [没有永恒](https://open.spotify.com/album/58cxrd9MChIEJ4htpaMbkZ) | 3:36 |
 | 84 | [光影](https://open.spotify.com/track/59ZrFOUOptVURSvxHhZ8SK) | [Olivia Ong](https://open.spotify.com/artist/4kcLQfpkqAt5AdNlZZNSDd) | [光影](https://open.spotify.com/album/7bBf2ysngmkMuMOVl4KS77) | 4:02 |
 | 85 | [mango](https://open.spotify.com/track/7oON1GggqDG63Be1ZvAFIF) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [mango](https://open.spotify.com/album/0wSxVstccBI3PiqE3VT7Et) | 2:58 |
 | 86 | [兽](https://open.spotify.com/track/68sr6E4ex5txuwTJNX1JTL) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [兽](https://open.spotify.com/album/2G07rbuWMEdhhrseYoLfsW) | 4:09 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 100 | [全世界我只想保護你](https://open.spotify.com/track/2vBVm6KI77nG25Rj1ulVZy) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [全世界我只想保護你](https://open.spotify.com/album/6f0Le98a7kmccH2vRsVWEf) | 2:33 |
 | 101 | [唯一](https://open.spotify.com/track/6ENf77i5DmXDimXle5Ux3C) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [唯一](https://open.spotify.com/album/4o9Q4RFqR6deYGWOgUQ3nC) | 4:13 |
 
-Snapshot ID: `MCxlMjQ0NWI1NTlhNmM1MmExMDMxZWNhN2NlM2EwMGM0NjNhOGZjOTlh`
+Snapshot ID: `MCxjMjg3NGQ3N2Q2ZDEyZjJhNDg1YzMyNTJkNDAwMTMxNDI2ZGNiM2E1`

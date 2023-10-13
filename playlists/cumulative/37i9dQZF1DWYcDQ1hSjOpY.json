@@ -1881,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "Decipio",
+        "url": "https://open.spotify.com/album/6UMkRmzBaWDK89m3qVaEoE"
+      },
+      "artists": [
+        {
+          "name": "Palaestrio",
+          "url": "https://open.spotify.com/artist/5sXyHDr8pH922zvnRRLCb4"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Decipio",
+      "url": "https://open.spotify.com/track/6yIapt71wzgrXfUVpaQoiT"
+    },
+    {
+      "album": {
         "name": "Deep Dive",
         "url": "https://open.spotify.com/album/5QAkFwDV1ZSsxC1XyVu0sG"
       },
@@ -3055,6 +3073,24 @@
     },
     {
       "album": {
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/27B8gIvKfl6q9zJxrikPKT"
+      },
+      "artists": [
+        {
+          "name": "Sirozza",
+          "url": "https://open.spotify.com/artist/5wGpeSaToESKYtSW5Is674"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188931,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/5L5BetJRHsmGZfySSRZvKZ"
+    },
+    {
+      "album": {
         "name": "Gauean",
         "url": "https://open.spotify.com/album/0m9mJavFy36qOitzx3uOhp"
       },
@@ -3556,6 +3592,24 @@
       "duration_ms": 166986,
       "name": "If Ever Two Were One",
       "url": "https://open.spotify.com/track/725z4lty7B7pcrBzg4udLU"
+    },
+    {
+      "album": {
+        "name": "If only for a while",
+        "url": "https://open.spotify.com/album/12GEjM5C15iUivXkDBDakN"
+      },
+      "artists": [
+        {
+          "name": "Lush Lotus",
+          "url": "https://open.spotify.com/artist/4Ho8lnnZWQ6ldapSazUAbq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "If only for a while",
+      "url": "https://open.spotify.com/track/0Vv8QzR27iisAXTdYifzG4"
     },
     {
       "album": {
@@ -4978,6 +5032,24 @@
       "duration_ms": 144000,
       "name": "Night Mind",
       "url": "https://open.spotify.com/track/6jD6Rk6mDkYM44raG3m9jA"
+    },
+    {
+      "album": {
+        "name": "Nightlight",
+        "url": "https://open.spotify.com/album/4Epm7oEoA46x3R90Tp3HNY"
+      },
+      "artists": [
+        {
+          "name": "Lulu Helensworth",
+          "url": "https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167193,
+      "name": "Nightlight",
+      "url": "https://open.spotify.com/track/7ucDH3T6TmA6bCBCBBlDwy"
     },
     {
       "album": {

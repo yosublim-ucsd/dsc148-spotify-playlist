@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Boro, Artie 5ive",
+  "description": "Solo il meglio dello street rap italiano. Cover: Slings, Bello Figo",
   "name": "Street Culto",
   "tracks": [
     {
@@ -1136,6 +1136,32 @@
       "duration_ms": 157808,
       "name": "Benefit",
       "url": "https://open.spotify.com/track/5llcUAP6bmNBYEb3mssCqA"
+    },
+    {
+      "album": {
+        "name": "INNOCENTE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "J Lord",
+          "url": "https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119329,
+      "name": "Bentley (feat. Simba La Rue, J Lord)",
+      "url": "https://open.spotify.com/track/4H8mFU6lQDvHVi4pIqrvku"
     },
     {
       "album": {
@@ -2528,7 +2554,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 176218,
       "name": "Drouba",
       "url": "https://open.spotify.com/track/0cU27Hge710bbX3BzDi4Io"
@@ -2932,7 +2958,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 178846,
       "name": "Formentera",
       "url": "https://open.spotify.com/track/12IR65dUPwMXxB7Y3HGw1c"
@@ -4589,6 +4615,28 @@
     },
     {
       "album": {
+        "name": "INNOCENTE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194250,
+      "name": "Mocro Mafia (feat. Maes)",
+      "url": "https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5"
+    },
+    {
+      "album": {
         "name": "MON LOVE OHO (feat. Icy Subzero) [Italian Remix]",
         "url": "https://open.spotify.com/album/05l8KatG6SlZrnFXM67Ma4"
       },
@@ -4766,7 +4814,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 176829,
       "name": "Napoletano RMX (feat. SLF)",
       "url": "https://open.spotify.com/track/1t8fZilEEUPk6DCHVAQQTZ"
@@ -4788,6 +4836,24 @@
       "duration_ms": 161149,
       "name": "NASTY",
       "url": "https://open.spotify.com/track/62qL3R7T6G4wgHBpZ8efBu"
+    },
+    {
+      "album": {
+        "name": "Nato Per Questo",
+        "url": "https://open.spotify.com/album/3nrUsKXZlLAEKE5HUeoc0v"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167076,
+      "name": "Nato Per Questo",
+      "url": "https://open.spotify.com/track/2YQx1HsasbXKv8nVvXKidO"
     },
     {
       "album": {
@@ -6176,7 +6242,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 163823,
       "name": "Rotto",
       "url": "https://open.spotify.com/track/5qfriBxu82O0SlUc3ilMqJ"
@@ -6216,6 +6282,24 @@
       "duration_ms": 132660,
       "name": "RS6",
       "url": "https://open.spotify.com/track/61CNHYt7uT3l3NwDltun2K"
+    },
+    {
+      "album": {
+        "name": "Salam Alaykum",
+        "url": "https://open.spotify.com/album/3ZeuySAYlaZN1QFlWPHIBS"
+      },
+      "artists": [
+        {
+          "name": "8blevrai",
+          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "Salam Alaykum",
+      "url": "https://open.spotify.com/track/6LI8B0UaQ70WdO2vlmKQK5"
     },
     {
       "album": {

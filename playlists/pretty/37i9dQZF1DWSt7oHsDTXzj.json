@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 160283,
+  "num_followers": 160281,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjUxOWNlYWY0ZjFmMjg2ZDg4M2Q3YjAwZWE1NzMxZGU1NzZkYmJj",
+  "snapshot_id": "MCwxNjYyYTU4N2MzZTAzN2ZjZDEwMGYwNzM4MDJiMmI0ZmFjYzU4ZTdk",
   "tracks": [
     {
       "added_at": "2023-08-18 18:00:09",
@@ -59,18 +59,18 @@
     {
       "added_at": "2023-08-18 18:00:09",
       "album": {
-        "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
+        "name": "two queens in a king sized bed",
+        "url": "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 167666,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
+      "duration_ms": 190944,
+      "name": "two queens in a king sized bed",
+      "url": "https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy"
     },
     {
       "added_at": "2023-08-18 18:00:09",
@@ -91,18 +91,18 @@
     {
       "added_at": "2023-08-18 18:00:09",
       "album": {
-        "name": "two queens in a king sized bed",
-        "url": "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII"
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 190944,
-      "name": "two queens in a king sized bed",
-      "url": "https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy"
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
     },
     {
       "added_at": "2023-08-18 18:00:09",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-08-18 18:00:09",
       "album": {
-        "name": "Surfing in Iceland",
-        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Surfing in Iceland",
-      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
-    },
-    {
-      "added_at": "2023-08-18 18:00:09",
-      "album": {
         "name": "Day After Tomorrow",
         "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 365141,
       "name": "Day After Tomorrow",
       "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
+    },
+    {
+      "added_at": "2023-08-18 18:00:09",
+      "album": {
+        "name": "Surfing in Iceland",
+        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Surfing in Iceland",
+      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
     },
     {
       "added_at": "2023-08-18 18:00:09",
@@ -355,26 +355,6 @@
     {
       "added_at": "2023-08-18 18:00:09",
       "album": {
-        "name": "Edits",
-        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        },
-        {
-          "name": "Slowed Down Songs + Reverb",
-          "url": "https://open.spotify.com/artist/2fTPQanPcwZAHWokwxcRJi"
-        }
-      ],
-      "duration_ms": 213783,
-      "name": "This December - slow",
-      "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
-    },
-    {
-      "added_at": "2023-08-18 18:00:09",
-      "album": {
         "name": "If We Make It Through December",
         "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 189088,
       "name": "Ain't Christmas (with Laufey)",
       "url": "https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN"
+    },
+    {
+      "added_at": "2023-08-18 18:00:09",
+      "album": {
+        "name": "Edits",
+        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        },
+        {
+          "name": "Slowed Down Songs + Reverb",
+          "url": "https://open.spotify.com/artist/2fTPQanPcwZAHWokwxcRJi"
+        }
+      ],
+      "duration_ms": 213783,
+      "name": "This December - slow",
+      "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
     },
     {
       "added_at": "2023-08-18 18:00:09",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-08-18 18:00:09",
       "album": {
-        "name": "When Christmas Comes Again",
-        "url": "https://open.spotify.com/album/1Vw3Muq7BgvhYF5eLL5fjD"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 197787,
-      "name": "When Christmas Comes Again",
-      "url": "https://open.spotify.com/track/19Gx7n7xkTJ29rA8990QKx"
-    },
-    {
-      "added_at": "2023-08-18 18:00:09",
-      "album": {
         "name": "Christmas Song",
         "url": "https://open.spotify.com/album/57QwFfafVAQLKXjBSLQwxC"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 221906,
       "name": "Christmas Song",
       "url": "https://open.spotify.com/track/67xmO7UDlUazlQ9Nje9pmb"
+    },
+    {
+      "added_at": "2023-08-18 18:00:09",
+      "album": {
+        "name": "When Christmas Comes Again",
+        "url": "https://open.spotify.com/album/1Vw3Muq7BgvhYF5eLL5fjD"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 197787,
+      "name": "When Christmas Comes Again",
+      "url": "https://open.spotify.com/track/19Gx7n7xkTJ29rA8990QKx"
     },
     {
       "added_at": "2023-08-18 18:00:09",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-08-18 18:00:09",
       "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/5P6ipsN2cYH8Bp2DokqkHf"
       },
       "artists": [
         {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 236586,
-      "name": "Snow Song",
-      "url": "https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX"
+      "duration_ms": 179368,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6KktzUnQSJZC3iZSwj812R"
     },
     {
       "added_at": "2023-08-18 18:00:09",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-08-18 18:00:09",
       "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Snow Song",
+      "url": "https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX"
+    },
+    {
+      "added_at": "2023-08-18 18:00:09",
+      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 152426,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
-    },
-    {
-      "added_at": "2023-08-18 18:00:09",
-      "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/5P6ipsN2cYH8Bp2DokqkHf"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6KktzUnQSJZC3iZSwj812R"
     },
     {
       "added_at": "2023-08-18 18:00:09",

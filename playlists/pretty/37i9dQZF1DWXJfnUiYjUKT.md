@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,679 likes - 99 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,667 likes - 99 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 98 | [unconditional](https://open.spotify.com/track/0lMr7vbQZeDT4ZS37Ui5l9) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [i’ll be fine if i want to](https://open.spotify.com/album/7mBtFLd9LAr8jrgOjjV959) | 3:53 |
 | 99 | [a lesson in chemistry](https://open.spotify.com/track/4PoCaIK1ATTxQvqtTTXFzz) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [a lesson in chemistry](https://open.spotify.com/album/2slYBTkG0mGdQEmQVe6dD3) | 2:07 |
 
-Snapshot ID: `MCxmM2M0ODYwNTllNjc0NTEyYzkwMDhmMDE0YWIyYzg0MTNiNTM3ZDJi`
+Snapshot ID: `MCxmZmQ2NGRjODAwNzg0ZmM0YzJmYzNhYjJlMjMwMmMyZWFiMWQ1MWEw`

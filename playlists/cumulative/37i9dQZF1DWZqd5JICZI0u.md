@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-495 songs - 1 day 1 hr 35 min
+497 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Flashback](https://open.spotify.com/track/37VNAvc9lZC70FcViKcI6f) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Brightness](https://open.spotify.com/album/6mRVmuhkO5VClWaRgVHcCf) | 3:17 | 2021-06-16 | 2022-08-13 |
 | [Floating](https://open.spotify.com/track/4BoKls3fZWdNJLgpoG8xcM) | [Seismic Shift](https://open.spotify.com/artist/3anH6IjogfsbzwaSRB8Kd6) | [Floating](https://open.spotify.com/album/0o9kQDuxYaAtzhUd5IruW9) | 2:25 | 2020-09-30\* | 2021-09-14 |
 | [Floating Peace](https://open.spotify.com/track/1vpzs2y4nduldNWjJdPMQ6) | [Ee Ve](https://open.spotify.com/artist/18NItzXyxJgwcsJ6skOoPb) | [Transcend](https://open.spotify.com/album/12DfL5OyYopS4UqF8AgCyq) | 3:34 | 2020-09-30\* | 2022-08-13 |
+| [Flying Spirits.](https://open.spotify.com/track/3qfofCNp0UgwHKmgM1EJ6A) | [Ashlynn Vinno](https://open.spotify.com/artist/2LJPtJzLybu9EKKX8X84DJ) | [Flying Spirits.](https://open.spotify.com/album/0omGFYMltCOD9AOACXmP9E) | 2:56 | 2023-10-12 |  |
 | [Follow The Light](https://open.spotify.com/track/2zQUrkKRnY9kapyhH37X2e) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Follow The Light](https://open.spotify.com/album/0nqqeOcy2kuBbj4nrS4aIT) | 2:31 | 2022-09-13 |  |
 | [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 |  |
 | [For Simplicity's Sake](https://open.spotify.com/track/6pQxeKnVSxdasJR9PEfFom) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [For Simplicity's Sake](https://open.spotify.com/album/4zN9OaGKrnJOb5y8bukzc7) | 1:56 | 2022-02-18 | 2023-07-29 |
@@ -238,6 +239,7 @@
 | [Lejano](https://open.spotify.com/track/0MhfZWXe9tMrtB80z974QY) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Lejano](https://open.spotify.com/album/6phKUl6l43TpUOvbcsbcPn) | 3:20 | 2022-09-30 |  |
 | [Leniter](https://open.spotify.com/track/6TsWlVkbmD6PUVFNuNrzmw) | [Mente](https://open.spotify.com/artist/0s44CtxQI8KCHmf9R9kwtQ) | [Leniter](https://open.spotify.com/album/0lKpz8qThCynvYNgB6EAgN) | 2:55 | 2022-06-16 |  |
 | [Lenitivo](https://open.spotify.com/track/6PEwEkL4lzRbGMGH7j7kBB) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Lenitivo](https://open.spotify.com/album/0aKQ6hDtXLG2FbFiDqfiEi) | 3:00 | 2021-03-10 | 2023-09-09 |
+| [Let Go Your Mind](https://open.spotify.com/track/5iyJdB9n5r3Ud8OR0Lwy0X) | [Ripper Americano](https://open.spotify.com/artist/32ilLVDD7knHF3JUOeBAXR) | [Let Go Your Mind](https://open.spotify.com/album/57NSYEQevJRL3arNqy4ORb) | 2:57 | 2023-10-12 |  |
 | [Let The Lights On](https://open.spotify.com/track/5jbEgWSfbxBA7573jEnYhr) | [Christine Malowe](https://open.spotify.com/artist/6v132t3GaQZqfu3okc5VoO) | [Let The Lights On](https://open.spotify.com/album/4L3rZkyKokj7M23tAAgLCF) | 3:01 | 2022-11-11 |  |
 | [Léas](https://open.spotify.com/track/58VrQRlGE6ZmTMhOtIGPct) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Léas](https://open.spotify.com/album/4GosHKu9fNJyJDXUS3zaj5) | 3:43 | 2020-09-30\* | 2021-10-27 |
 | [Light](https://open.spotify.com/track/0peYIO0XdyvdK2znrrH3ys) | [Mina Rojas](https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712) | [Light](https://open.spotify.com/album/2MCEhwQ8lurgvTkZ7WMrjI) | 2:49 | 2022-09-02 |  |

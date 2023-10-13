@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 488629,
+  "num_followers": 488335,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGEyYzIyYWQ5YjJiNTU3MDU4YzE2NzA3ZjFkNDg4N2M5NTE4MjNi",
+  "snapshot_id": "MCw3ZjljODdhZTc2MzUyMDE2ZjgzN2ZkZDI3Yjg1YTk4NGI1MmJiNTg4",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Feats Don't Fail Me Now",
-        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
+        "name": "Molly Hatchet",
+        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
       },
       "artists": [
         {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+          "name": "Molly Hatchet",
+          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
         }
       ],
-      "duration_ms": 209373,
-      "name": "Oh, Atlanta",
-      "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
+      "duration_ms": 177600,
+      "name": "Bounty Hunter",
+      "url": "https://open.spotify.com/track/50d2zWUEVp9jn0EphgvdWe"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Molly Hatchet",
-        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
+        "name": "Feats Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
       },
       "artists": [
         {
-          "name": "Molly Hatchet",
-          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Bounty Hunter",
-      "url": "https://open.spotify.com/track/50d2zWUEVp9jn0EphgvdWe"
+      "duration_ms": 209373,
+      "name": "Oh, Atlanta",
+      "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -839,6 +839,22 @@
       "duration_ms": 281640,
       "name": "Climb to Safety",
       "url": "https://open.spotify.com/track/2tKvbXiqQM7aYhbpEWLbTf"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Molly Hatchet",
+        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
+      },
+      "artists": [
+        {
+          "name": "Molly Hatchet",
+          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
+        }
+      ],
+      "duration_ms": 376666,
+      "name": "Gator Country",
+      "url": "https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -923,22 +939,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Molly Hatchet",
-        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
-      },
-      "artists": [
-        {
-          "name": "Molly Hatchet",
-          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
-        }
-      ],
-      "duration_ms": 376666,
-      "name": "Gator Country",
-      "url": "https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Platinum & Gold Collection",
         "url": "https://open.spotify.com/album/6Lx6Uk2ToDnKo5T3BhIT9v"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Champagne Jam",
-        "url": "https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt"
-      },
-      "artists": [
-        {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
-        }
-      ],
-      "duration_ms": 273226,
-      "name": "Champagne Jam",
-      "url": "https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Just Before The Bullets Fly",
         "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 293066,
       "name": "Don't Pass Me By",
       "url": "https://open.spotify.com/track/4eeCQtgohd0nLeI2t5XgGo"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Champagne Jam",
+        "url": "https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt"
+      },
+      "artists": [
+        {
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+        }
+      ],
+      "duration_ms": 273226,
+      "name": "Champagne Jam",
+      "url": "https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Dark Side of the Mule (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "Bad Little Doggie",
-      "url": "https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Just Before The Bullets Fly",
         "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 255840,
       "name": "Island",
       "url": "https://open.spotify.com/track/0UHSZ1m3t9vcL1MYqTJSge"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Dark Side of the Mule (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "Bad Little Doggie",
+      "url": "https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section",
-        "url": "https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f"
+        "name": "I'm No Angel",
+        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
       },
       "artists": [
         {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
         }
       ],
-      "duration_ms": 293800,
-      "name": "Georgia Rhythm",
-      "url": "https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt"
+      "duration_ms": 242106,
+      "name": "Can't Keep Running",
+      "url": "https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1351,6 +1351,22 @@
       "duration_ms": 245600,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section",
+        "url": "https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f"
+      },
+      "artists": [
+        {
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+        }
+      ],
+      "duration_ms": 293800,
+      "name": "Georgia Rhythm",
+      "url": "https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1387,38 +1403,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Train, Train",
-        "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 244400,
-      "name": "Gimme, Gimme, Gimme",
-      "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "I'm No Angel",
-        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
-      },
-      "artists": [
-        {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
-        }
-      ],
-      "duration_ms": 242106,
-      "name": "Can't Keep Running",
-      "url": "https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Cats On The Coast",
         "url": "https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 219933,
       "name": "It Hurts To Want It So Bad",
       "url": "https://open.spotify.com/track/7HdVnKXXDuFz003iLaky53"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Train, Train",
+        "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+        }
+      ],
+      "duration_ms": 244400,
+      "name": "Gimme, Gimme, Gimme",
+      "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1479,6 +1479,22 @@
       "duration_ms": 355226,
       "name": "Miss Understanding",
       "url": "https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Just Before The Bullets Fly",
+        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
+      },
+      "artists": [
+        {
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+        }
+      ],
+      "duration_ms": 252466,
+      "name": "Thorn And A Wild Rose",
+      "url": "https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1547,38 +1563,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Live At The Moody Theater",
-        "url": "https://open.spotify.com/album/7fBc5Ge5u6lxKBxqaaU8y8"
-      },
-      "artists": [
-        {
-          "name": "Warren Haynes",
-          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
-        }
-      ],
-      "duration_ms": 426200,
-      "name": "Fire In The Kitchen",
-      "url": "https://open.spotify.com/track/2OXVvNEILOCFxEHEElOHTb"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Just Before The Bullets Fly",
-        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
-      },
-      "artists": [
-        {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
-        }
-      ],
-      "duration_ms": 252466,
-      "name": "Thorn And A Wild Rose",
-      "url": "https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Pullin' Together",
         "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 249626,
       "name": "Open Road",
       "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Live At The Moody Theater",
+        "url": "https://open.spotify.com/album/7fBc5Ge5u6lxKBxqaaU8y8"
+      },
+      "artists": [
+        {
+          "name": "Warren Haynes",
+          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+        }
+      ],
+      "duration_ms": 426200,
+      "name": "Fire In The Kitchen",
+      "url": "https://open.spotify.com/track/2OXVvNEILOCFxEHEElOHTb"
     },
     {
       "added_at": "2023-01-18 21:52:55",

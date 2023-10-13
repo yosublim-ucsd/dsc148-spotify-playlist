@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Pentatonix
 
-382 songs - 20 hr 5 min
+383 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Amazing Grace \[Feat\. The Tabernacle Choir at Temple Square, Mack Wilberg\]](https://open.spotify.com/track/28jnXcjSRpWIOaM506zvGM) | [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre), [The Tabernacle Choir at Temple Square](https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5), [Mack Wilberg](https://open.spotify.com/artist/2Zpql3RdMQjunbDKk1bIiz) | [Amazing Grace](https://open.spotify.com/album/2Af93EMMgovYkVVl1xFFI9) | 4:27 | 2023-10-09 |  |
 | [Another Christmas](https://open.spotify.com/track/1Og6LRjGIWWb3kQIT7POsI) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Another Christmas](https://open.spotify.com/album/6oRbZoVWeNJA6x4GyP9EWY) | 3:16 | 2022-11-18 | 2023-10-04 |
 | [At Christmas](https://open.spotify.com/track/5GkvoGc6QBbPWc6VJEiJby) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [At Christmas](https://open.spotify.com/album/5bGzbLRYva85dIc4BLgYp1) | 2:22 | 2022-12-02 | 2023-10-10 |
+| [Baby Doll](https://open.spotify.com/track/4C1wHfdwErRlzICLKBW1uE) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Essential Christmas](https://open.spotify.com/album/5YDQLysdnsIzRxAFCazMIO) | 2:09 | 2023-10-09 |  |
 | [Because It's Christmas](https://open.spotify.com/track/2bnCUBgmqbirSSyUWiK1jw) | [Peter Cincotti](https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F) | [Because It's Christmas](https://open.spotify.com/album/66dvNhgCyN9ltRO7Pbt4Kz) | 3:19 | 2022-11-25 | 2023-10-04 |
 | [Believe](https://open.spotify.com/track/3GRrReIVJ4C71ajUvk7O1e) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Believe](https://open.spotify.com/album/0Wr6JfWQD7bzK7ipLyeiOD) | 3:19 | 2021-12-24 | 2022-11-12 |
 | [Bells Will Be Ringing \(Please Come Home For Christmas\)](https://open.spotify.com/track/5i6xGtlDQu0QJ2zk5nIplx) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Bells Will Be Ringing \(Please Come Home For Christmas\)](https://open.spotify.com/album/1stSQNVamMpXqqy8ihJvhw) | 4:00 | 2022-11-11 | 2023-10-04 |

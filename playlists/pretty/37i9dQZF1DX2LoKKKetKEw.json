@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=a22ff423549d4950\">Limoblaze</a>",
-  "num_followers": 64707,
+  "num_followers": 64801,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmQ0MjQyNzIzNjhmYWI0NjRkOTJiOWExZmI2NDg4Yzg5ZDk5M2Fi",
+  "snapshot_id": "MCw1MzliYWE4Mjk3ZmYzZWY2MzU0MmIwNTc4ZTdkN2YyMTU2ZDkyOWRi",
   "tracks": [
     {
       "added_at": "2023-08-25 12:19:29",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-08-25 12:19:29",
       "album": {
-        "name": "On My Case",
-        "url": "https://open.spotify.com/album/4yCTzq9LQLQ3b6AJ3BprFc"
-      },
-      "artists": [
-        {
-          "name": "Tjsarx",
-          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 163399,
-      "name": "On My Case",
-      "url": "https://open.spotify.com/track/04IQOJLLfOYcoyddANSaiY"
-    },
-    {
-      "added_at": "2023-08-25 12:19:29",
-      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 174545,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI"
+    },
+    {
+      "added_at": "2023-08-25 12:19:29",
+      "album": {
+        "name": "On My Case",
+        "url": "https://open.spotify.com/album/4yCTzq9LQLQ3b6AJ3BprFc"
+      },
+      "artists": [
+        {
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 163399,
+      "name": "On My Case",
+      "url": "https://open.spotify.com/track/04IQOJLLfOYcoyddANSaiY"
     },
     {
       "added_at": "2023-08-25 12:19:29",
@@ -1131,6 +1131,30 @@
     {
       "added_at": "2023-08-25 12:19:29",
       "album": {
+        "name": "Still Blessed",
+        "url": "https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt"
+      },
+      "artists": [
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Nathanael",
+          "url": "https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs"
+        },
+        {
+          "name": "Still Blessed Music",
+          "url": "https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Still Blessed",
+      "url": "https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL"
+    },
+    {
+      "added_at": "2023-08-25 12:19:29",
+      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/2ICTiVfpQ9tSNb9vdITG09"
       },
@@ -1143,22 +1167,6 @@
       "duration_ms": 215880,
       "name": "Balance",
       "url": "https://open.spotify.com/track/3zBWaXjXVUqyk3CfH8k8OI"
-    },
-    {
-      "added_at": "2023-08-25 12:19:29",
-      "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/2GGdcif99IqBhZ7m9401eZ"
-      },
-      "artists": [
-        {
-          "name": "Tjsarx",
-          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/3a19KaPgaijBm1yOmqsxf9"
     },
     {
       "added_at": "2023-08-25 12:19:29",
@@ -1187,26 +1195,18 @@
     {
       "added_at": "2023-08-25 12:19:29",
       "album": {
-        "name": "Still Blessed",
-        "url": "https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt"
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/2GGdcif99IqBhZ7m9401eZ"
       },
       "artists": [
         {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        },
-        {
-          "name": "Nathanael",
-          "url": "https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs"
-        },
-        {
-          "name": "Still Blessed Music",
-          "url": "https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd"
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
         }
       ],
-      "duration_ms": 175200,
-      "name": "Still Blessed",
-      "url": "https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL"
+      "duration_ms": 169655,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/3a19KaPgaijBm1yOmqsxf9"
     },
     {
       "added_at": "2023-08-25 12:19:29",
@@ -1231,6 +1231,34 @@
       "duration_ms": 164022,
       "name": "You",
       "url": "https://open.spotify.com/track/1xaeMB6qDw01j79mhMgYPy"
+    },
+    {
+      "added_at": "2023-08-25 12:19:29",
+      "album": {
+        "name": "Dey Play",
+        "url": "https://open.spotify.com/album/5OeAMGQdbFMoCzAn06D1LO"
+      },
+      "artists": [
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        },
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+        },
+        {
+          "name": "Derry Hans",
+          "url": "https://open.spotify.com/artist/6OcDjc4E6BZgxojhEQcG6R"
+        }
+      ],
+      "duration_ms": 169285,
+      "name": "Dey Play",
+      "url": "https://open.spotify.com/track/7ahQayCflONbnl4uD1qjHk"
     },
     {
       "added_at": "2023-08-25 12:19:29",
@@ -1375,34 +1403,6 @@
     {
       "added_at": "2023-08-25 12:19:29",
       "album": {
-        "name": "Dey Play",
-        "url": "https://open.spotify.com/album/5OeAMGQdbFMoCzAn06D1LO"
-      },
-      "artists": [
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        },
-        {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
-        },
-        {
-          "name": "Protek Illasheva",
-          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
-        },
-        {
-          "name": "Derry Hans",
-          "url": "https://open.spotify.com/artist/6OcDjc4E6BZgxojhEQcG6R"
-        }
-      ],
-      "duration_ms": 169285,
-      "name": "Dey Play",
-      "url": "https://open.spotify.com/track/7ahQayCflONbnl4uD1qjHk"
-    },
-    {
-      "added_at": "2023-08-25 12:19:29",
-      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/4IPg0TIXt2teKZxvxnjJHr"
       },
@@ -1431,6 +1431,34 @@
       "duration_ms": 162000,
       "name": "Yellow Soul",
       "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
+    },
+    {
+      "added_at": "2023-08-25 12:19:29",
+      "album": {
+        "name": "PRAISE YOUR NAME",
+        "url": "https://open.spotify.com/album/7iUgmGiBgXkpECjHYgQ7AL"
+      },
+      "artists": [
+        {
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
+        },
+        {
+          "name": "The Love Trybe",
+          "url": "https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ"
+        }
+      ],
+      "duration_ms": 197456,
+      "name": "PRAISE YOUR NAME",
+      "url": "https://open.spotify.com/track/5YxkWVkxssPVMIgXQp8ahd"
     },
     {
       "added_at": "2023-08-25 12:19:29",
@@ -1491,34 +1519,6 @@
     {
       "added_at": "2023-08-25 12:19:29",
       "album": {
-        "name": "PRAISE YOUR NAME",
-        "url": "https://open.spotify.com/album/7iUgmGiBgXkpECjHYgQ7AL"
-      },
-      "artists": [
-        {
-          "name": "King Dareal",
-          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Drakare",
-          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
-        },
-        {
-          "name": "The Love Trybe",
-          "url": "https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ"
-        }
-      ],
-      "duration_ms": 197456,
-      "name": "PRAISE YOUR NAME",
-      "url": "https://open.spotify.com/track/5YxkWVkxssPVMIgXQp8ahd"
-    },
-    {
-      "added_at": "2023-08-25 12:19:29",
-      "album": {
         "name": "Only",
         "url": "https://open.spotify.com/album/2PmXOqX60yjlQ52f1ZUuQw"
       },
@@ -1559,46 +1559,26 @@
     {
       "added_at": "2023-08-25 12:19:29",
       "album": {
-        "name": "Belongs to You (EDM Remix)",
-        "url": "https://open.spotify.com/album/5bO2RKSu7dpos2tguifru8"
+        "name": "NEVER FORGET",
+        "url": "https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq"
       },
       "artists": [
         {
-          "name": "Sarah T\u00e9ibo",
-          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
         },
-        {
-          "name": "Sigag Lauren",
-          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
-        },
-        {
-          "name": "Paola Carla",
-          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Belongs to You - EDM Remix",
-      "url": "https://open.spotify.com/track/2KCyx1wmIdWUwJPM7LItHS"
-    },
-    {
-      "added_at": "2023-08-25 12:19:29",
-      "album": {
-        "name": "Johnny",
-        "url": "https://open.spotify.com/album/4LcOFetnZSjygsBtwUXpAY"
-      },
-      "artists": [
         {
           "name": "K3ndrick",
           "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
         },
         {
-          "name": "Churemi",
-          "url": "https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO"
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
         }
       ],
-      "duration_ms": 116066,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/1EC2uXIP0AYROl8EbWKiWq"
+      "duration_ms": 217959,
+      "name": "NEVER FORGET",
+      "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
     },
     {
       "added_at": "2023-08-25 12:19:29",
@@ -1627,26 +1607,22 @@
     {
       "added_at": "2023-08-25 12:19:29",
       "album": {
-        "name": "NEVER FORGET",
-        "url": "https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq"
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/4LcOFetnZSjygsBtwUXpAY"
       },
       "artists": [
-        {
-          "name": "King Dareal",
-          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
-        },
         {
           "name": "K3ndrick",
           "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
         },
         {
-          "name": "Nolly",
-          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+          "name": "Churemi",
+          "url": "https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO"
         }
       ],
-      "duration_ms": 217959,
-      "name": "NEVER FORGET",
-      "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
+      "duration_ms": 116066,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/1EC2uXIP0AYROl8EbWKiWq"
     },
     {
       "added_at": "2023-08-25 12:19:29",
@@ -1703,6 +1679,30 @@
     {
       "added_at": "2023-08-25 12:19:29",
       "album": {
+        "name": "Belongs to You (EDM Remix)",
+        "url": "https://open.spotify.com/album/5bO2RKSu7dpos2tguifru8"
+      },
+      "artists": [
+        {
+          "name": "Sarah T\u00e9ibo",
+          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
+        },
+        {
+          "name": "Sigag Lauren",
+          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
+        },
+        {
+          "name": "Paola Carla",
+          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Belongs to You - EDM Remix",
+      "url": "https://open.spotify.com/track/2KCyx1wmIdWUwJPM7LItHS"
+    },
+    {
+      "added_at": "2023-08-25 12:19:29",
+      "album": {
         "name": "Jah!",
         "url": "https://open.spotify.com/album/6IN6VQD4zWgfcpJhQetAOu"
       },
@@ -1719,26 +1719,6 @@
       "duration_ms": 192500,
       "name": "Jah!",
       "url": "https://open.spotify.com/track/4tgsrzbZKMqSfwpbm3Auz3"
-    },
-    {
-      "added_at": "2023-08-25 12:19:29",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV"
-      },
-      "artists": [
-        {
-          "name": "Paul Rarity",
-          "url": "https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48"
-        },
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        }
-      ],
-      "duration_ms": 157706,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc"
     },
     {
       "added_at": "2023-08-25 12:19:29",
@@ -1763,6 +1743,26 @@
     {
       "added_at": "2023-08-25 12:19:29",
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV"
+      },
+      "artists": [
+        {
+          "name": "Paul Rarity",
+          "url": "https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "duration_ms": 157706,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc"
+    },
+    {
+      "added_at": "2023-08-25 12:19:29",
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1jEbLKBbUdvKqLoCoNTDz4"
       },
@@ -1783,22 +1783,22 @@
     {
       "added_at": "2023-08-25 12:19:29",
       "album": {
-        "name": "Afurum Gi Nanya",
-        "url": "https://open.spotify.com/album/5MoKsBnpO108u2NAtwXTae"
+        "name": "TOTORI (The Name of Jesus)",
+        "url": "https://open.spotify.com/album/2kUPjp8CwTRXMWnzaiemdT"
       },
       "artists": [
         {
-          "name": "Okey Sokay",
-          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
         },
         {
-          "name": "Tryphena",
-          "url": "https://open.spotify.com/artist/2YLax85sS5OfWUlg8lbcub"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 139320,
-      "name": "Afurum Gi Nanya",
-      "url": "https://open.spotify.com/track/55hhlxMF4pUKCzQzSaOSai"
+      "duration_ms": 204648,
+      "name": "TOTORI (The Name of Jesus)",
+      "url": "https://open.spotify.com/track/6C2YHtc0mW29XBFRTIFuAZ"
     },
     {
       "added_at": "2023-08-25 12:19:29",
@@ -1823,22 +1823,22 @@
     {
       "added_at": "2023-08-25 12:19:29",
       "album": {
-        "name": "TOTORI (The Name of Jesus)",
-        "url": "https://open.spotify.com/album/2kUPjp8CwTRXMWnzaiemdT"
+        "name": "Afurum Gi Nanya",
+        "url": "https://open.spotify.com/album/5MoKsBnpO108u2NAtwXTae"
       },
       "artists": [
         {
-          "name": "Mike Aremu",
-          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
         },
         {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+          "name": "Tryphena",
+          "url": "https://open.spotify.com/artist/2YLax85sS5OfWUlg8lbcub"
         }
       ],
-      "duration_ms": 204648,
-      "name": "TOTORI (The Name of Jesus)",
-      "url": "https://open.spotify.com/track/6C2YHtc0mW29XBFRTIFuAZ"
+      "duration_ms": 139320,
+      "name": "Afurum Gi Nanya",
+      "url": "https://open.spotify.com/track/55hhlxMF4pUKCzQzSaOSai"
     },
     {
       "added_at": "2023-08-25 12:19:29",
@@ -1967,26 +1967,6 @@
     {
       "added_at": "2023-08-25 12:19:29",
       "album": {
-        "name": "Shining",
-        "url": "https://open.spotify.com/album/1afbLhtXnQbyLrBqNeRVhX"
-      },
-      "artists": [
-        {
-          "name": "Phontera",
-          "url": "https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm"
-        },
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        }
-      ],
-      "duration_ms": 132662,
-      "name": "Shining",
-      "url": "https://open.spotify.com/track/2Rn8O7Er19MwnyOlJDhpgA"
-    },
-    {
-      "added_at": "2023-08-25 12:19:29",
-      "album": {
         "name": "Legacy (Remix)",
         "url": "https://open.spotify.com/album/2h0tdeNppdVe1PajAQZX7M"
       },
@@ -2003,18 +1983,42 @@
     {
       "added_at": "2023-08-25 12:19:29",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/1eukwQKbKTyHhnQDGU0ZfC"
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/1eiKWT8uMg2QC1F8N34jdC"
       },
       "artists": [
         {
-          "name": "Sammie Ekpoh",
-          "url": "https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0"
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "GAV",
+          "url": "https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/24yzTiIIm6voL9ez0AUOZ1"
+      "duration_ms": 155326,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/3hH73HFk0SrSCTLxsTw9gD"
+    },
+    {
+      "added_at": "2023-08-25 12:19:29",
+      "album": {
+        "name": "Shining",
+        "url": "https://open.spotify.com/album/1afbLhtXnQbyLrBqNeRVhX"
+      },
+      "artists": [
+        {
+          "name": "Phontera",
+          "url": "https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "duration_ms": 132662,
+      "name": "Shining",
+      "url": "https://open.spotify.com/track/2Rn8O7Er19MwnyOlJDhpgA"
     }
   ],
   "unique_name": "AfroGospel",

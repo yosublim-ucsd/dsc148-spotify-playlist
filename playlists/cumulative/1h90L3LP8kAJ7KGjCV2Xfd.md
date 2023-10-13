@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1h90L3LP8kAJ7KGjCV2Xfd.md) - cumulative - [plain](/playlists/plain/1h90L3LP8kAJ7KGjCV2Xfd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1h90L3LP8kAJ7KGjCV2Xfd)
 
-### [Happy Songs 🤩 Feel Good Hits](https://open.spotify.com/playlist/1h90L3LP8kAJ7KGjCV2Xfd)
+### [Feel Good 🤩 Happy Hits](https://open.spotify.com/playlist/1h90L3LP8kAJ7KGjCV2Xfd)
 
 > happy \| vibes \| feel good \| music \| mood boost \| happy hits \| clean pop \| positive vibes \| dopamine \| serotonin \| high vibes \| happy summer \| positive affirmation \| upbeat \| drive \| windows down \| good vibes \| indie \| pop \| rock \| alternative \| feelin' good \| healing \| rise \| smile
 

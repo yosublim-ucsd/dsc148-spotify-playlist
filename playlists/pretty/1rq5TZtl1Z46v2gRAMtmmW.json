@@ -1,13 +1,49 @@
 {
   "description": "",
-  "num_followers": 28496,
+  "num_followers": 28494,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzQ5OSwzOWVmZDE4NGE3NDg5Zjg5N2Y4NzQ3MDU1N2Q5MDA0Mzk0Nzk5ZTIy",
+  "snapshot_id": "MzUwMyw2ZmMwODBmYmY0MzEzMTBkMTZjYTc1YzU1MmU5N2MzNThmMWQ1MTI3",
   "tracks": [
+    {
+      "added_at": "2023-10-12 09:59:58",
+      "album": {
+        "name": "S e x",
+        "url": "https://open.spotify.com/album/1DnORgesBFu2C0lJ2ZPQuO"
+      },
+      "artists": [
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "duration_ms": 181546,
+      "name": "S e x",
+      "url": "https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr"
+    },
+    {
+      "added_at": "2023-10-12 13:58:14",
+      "album": {
+        "name": "Its me ( g 8 ) / Oway ( f 7 )",
+        "url": "https://open.spotify.com/album/6rZTJHYLDsA564tCn9kEJ9"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 317765,
+      "name": "Its me ( g 8 )",
+      "url": "https://open.spotify.com/track/3dC6yRjocmprQqEYvv72Ft"
+    },
     {
       "added_at": "2023-10-03 14:27:03",
       "album": {
@@ -511,42 +547,6 @@
       "duration_ms": 257799,
       "name": "Heavier",
       "url": "https://open.spotify.com/track/5KPYMz7DUZc6ZdcxNgfL18"
-    },
-    {
-      "added_at": "2023-06-20 18:52:18",
-      "album": {
-        "name": "Fader",
-        "url": "https://open.spotify.com/album/2WKucBnirwfJwNMtcxxD1U"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 144149,
-      "name": "Fader - Edit",
-      "url": "https://open.spotify.com/track/4oR9onkuU2xWQL3E5apApP"
-    },
-    {
-      "added_at": "2023-07-06 18:08:37",
-      "album": {
-        "name": "Dance of the Crab",
-        "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 144479,
-      "name": "Dance of the Crab - Edit",
-      "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
     },
     {
       "added_at": "2023-06-27 16:35:03",

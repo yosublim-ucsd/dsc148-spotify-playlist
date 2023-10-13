@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "MILLAS",
+        "url": "https://open.spotify.com/album/71ANhRl5U4jM8vBUTvQTsZ"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95798,
+      "name": "ALI",
+      "url": "https://open.spotify.com/track/0CgKpM15mWm8az3ypb4Q1N"
+    },
+    {
+      "album": {
         "name": "AMANTES",
         "url": "https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF"
       },
@@ -638,7 +656,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 193806,
       "name": "AMIGA DEL ALCOHOL",
       "url": "https://open.spotify.com/track/4wL75NdSDkaK9KocyH5JHY"
@@ -908,6 +926,24 @@
       "duration_ms": 166529,
       "name": "Arranca (feat. Omega)",
       "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
+    },
+    {
+      "album": {
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/5SsyubVb6ry1L845ARB5x2"
+      },
+      "artists": [
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229093,
+      "name": "Arte",
+      "url": "https://open.spotify.com/track/2AocneguErlK5cs3OrmZXb"
     },
     {
       "album": {
@@ -2416,7 +2452,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 150318,
       "name": "Colibr\u00ed",
       "url": "https://open.spotify.com/track/4JI7FOO4QeKmvXbhk9p2hi"
@@ -4701,6 +4737,28 @@
     },
     {
       "album": {
+        "name": "en dormir sin Madrid",
+        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132294,
+      "name": "Fruto",
+      "url": "https://open.spotify.com/track/4SW9gHnW8NfKOdqmh0ij45"
+    },
+    {
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3"
       },
@@ -5278,7 +5336,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 183040,
       "name": "Hora de Salir",
       "url": "https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI"
@@ -5446,6 +5504,40 @@
       "duration_ms": 171724,
       "name": "Inseparables",
       "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
+    },
+    {
+      "album": {
+        "name": "INSTAL\u00c1RTELO (feat. Sleezy O & Young Gallo)",
+        "url": "https://open.spotify.com/album/1WEHAfCuVdBCKUU0cUMZjp"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Sleezy O",
+          "url": "https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n"
+        },
+        {
+          "name": "Young Gallo",
+          "url": "https://open.spotify.com/artist/1AfxlMLCP8GSIoyA5htFUd"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "INSTAL\u00c1RTELO (feat. Sleezy O & Young Gallo)",
+      "url": "https://open.spotify.com/track/4iiLT6wrLtcoW3vOUjjlbS"
     },
     {
       "album": {
@@ -6278,7 +6370,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 211472,
       "name": "La Tierra del Corrido - Spotify Singles",
       "url": "https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB"
@@ -6977,6 +7069,24 @@
     },
     {
       "album": {
+        "name": "Los mismos",
+        "url": "https://open.spotify.com/album/5FOyz0vBUeOoj49M9loFTg"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Los mismos",
+      "url": "https://open.spotify.com/track/6LnWzTjHrsrv57lVATmnZR"
+    },
+    {
+      "album": {
         "name": "Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
       },
@@ -7526,6 +7636,24 @@
       "duration_ms": 185822,
       "name": "Me EnRD",
       "url": "https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1"
+    },
+    {
+      "album": {
+        "name": "Me Gustas Tu",
+        "url": "https://open.spotify.com/album/1WWkPIDdO1PWxIl36eymzE"
+      },
+      "artists": [
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205022,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/5NF8FAe3INIXOnTJuo3ngL"
     },
     {
       "album": {
@@ -8164,7 +8292,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 130000,
       "name": "Mustang 65'",
       "url": "https://open.spotify.com/track/3vVnKrR31NraqoVTMIm0Cp"
@@ -8208,7 +8336,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 219642,
       "name": "Mu\u00f1ekita (with El Alfa & JT)",
       "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
@@ -8326,6 +8454,24 @@
       "duration_ms": 235996,
       "name": "M\u00fasica Ligera",
       "url": "https://open.spotify.com/track/1lMuQJHBznRfq7GdQrIQN4"
+    },
+    {
+      "album": {
+        "name": "Nada Que Me Guste M\u00e1s",
+        "url": "https://open.spotify.com/album/1TvWgVEEt5UMrodGdtZ7O7"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208748,
+      "name": "Nada Que Me Guste M\u00e1s",
+      "url": "https://open.spotify.com/track/24ZdWvvNirs87VDxSMDU9u"
     },
     {
       "album": {
@@ -8720,7 +8866,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 230049,
       "name": "no quiero olvidarte",
       "url": "https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d"
@@ -9623,6 +9769,32 @@
     },
     {
       "album": {
+        "name": "PE$O",
+        "url": "https://open.spotify.com/album/0OkNyxyUFDhEfhWUUI3MGa"
+      },
+      "artists": [
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Slow Jamz",
+          "url": "https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190324,
+      "name": "PE$O",
+      "url": "https://open.spotify.com/track/33pkoToooZswUu9v1mSANV"
+    },
+    {
+      "album": {
         "name": "Pegao",
         "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
       },
@@ -9722,7 +9894,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 215172,
       "name": "PICARD\u00cdA",
       "url": "https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF"
@@ -11522,7 +11694,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 155789,
       "name": "Solita y SueltAAA",
       "url": "https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf"
@@ -12310,7 +12482,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 188013,
       "name": "Trampas",
       "url": "https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv"
@@ -12328,7 +12500,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 158325,
       "name": "TRANKY FUNKY",
       "url": "https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH"
@@ -13096,6 +13268,24 @@
       "duration_ms": 189006,
       "name": "Vamo\u2019 A Beber",
       "url": "https://open.spotify.com/track/52Jv0Db51Aa3LztWh00xVU"
+    },
+    {
+      "album": {
+        "name": "Vas a Destrozarme",
+        "url": "https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174480,
+      "name": "Vas a Destrozarme",
+      "url": "https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP"
     },
     {
       "album": {

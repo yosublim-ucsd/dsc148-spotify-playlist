@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 287270,
+  "num_followers": 287252,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2VjYzEwOTY0MjNhZWE0MTE5Y2FlM2EyYzIzM2ExNTkzNTE0MWMx",
+  "snapshot_id": "MCw1ZTY5MzU4YTMzZjBmMDQxN2NhNjQ0ZWQxMGY3NDk4NTEyNDY0YjFm",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Kids In The Street",
+        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "duration_ms": 233706,
+      "name": "What's She Crying For",
+      "url": "https://open.spotify.com/track/7piSpTyc00ahEUgqBMLYjH"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Make Way for Love",
         "url": "https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH"
       },
@@ -859,6 +875,22 @@
       "duration_ms": 153548,
       "name": "Party Boy",
       "url": "https://open.spotify.com/track/6iyXhFNl11mcuyuuPnqhBW"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Sidelong",
+        "url": "https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "duration_ms": 201426,
+      "name": "Fuck Up",
+      "url": "https://open.spotify.com/track/4W5vicHqRLGvCeq9Odh2LD"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -879,38 +911,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Kids In The Street",
-        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
-      },
-      "artists": [
-        {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
-        }
-      ],
-      "duration_ms": 233706,
-      "name": "What's She Crying For",
-      "url": "https://open.spotify.com/track/7piSpTyc00ahEUgqBMLYjH"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Welcome to Hard Times",
-        "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 185754,
-      "name": "Welcome to Hard Times",
-      "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Easy Way",
         "url": "https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg"
       },
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Sidelong",
-        "url": "https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO"
+        "name": "Welcome to Hard Times",
+        "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
       },
       "artists": [
         {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
         }
       ],
-      "duration_ms": 201426,
-      "name": "Fuck Up",
-      "url": "https://open.spotify.com/track/4W5vicHqRLGvCeq9Odh2LD"
+      "duration_ms": 185754,
+      "name": "Welcome to Hard Times",
+      "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Giddy Up",
-        "url": "https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 181320,
-      "name": "Giddy Up",
-      "url": "https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Years",
         "url": "https://open.spotify.com/album/4DdokaghnnKmmaWOhO2G0I"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 193306,
       "name": "Good As Gold",
       "url": "https://open.spotify.com/track/5c40AAhGGG0d7iDgXyF38y"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Giddy Up",
+        "url": "https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 181320,
+      "name": "Giddy Up",
+      "url": "https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1427,6 +1427,38 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
+      },
+      "artists": [
+        {
+          "name": "Lasers Lasers Birmingham",
+          "url": "https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Sidelong",
+        "url": "https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "No Name",
+      "url": "https://open.spotify.com/track/2CVpkt0xfradTwL6KxNncR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Family Reunion",
         "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
       },
@@ -1459,22 +1491,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
-      },
-      "artists": [
-        {
-          "name": "Lasers Lasers Birmingham",
-          "url": "https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Mint Condition",
         "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 242493,
       "name": "Mint Condition",
       "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Sidelong",
-        "url": "https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO"
-      },
-      "artists": [
-        {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "No Name",
-      "url": "https://open.spotify.com/track/2CVpkt0xfradTwL6KxNncR"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Golden Eagle",
-        "url": "https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL"
-      },
-      "artists": [
-        {
-          "name": "Holly Macve",
-          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
-        }
-      ],
-      "duration_ms": 208826,
-      "name": "No One Has the Answers",
-      "url": "https://open.spotify.com/track/58emzxS7apqOn2amBFfDyr"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Sidelong",
         "url": "https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 183626,
       "name": "Keep the Home Fires Burnin'",
       "url": "https://open.spotify.com/track/7zOtgId0kQD0XPtablFROE"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Golden Eagle",
+        "url": "https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL"
+      },
+      "artists": [
+        {
+          "name": "Holly Macve",
+          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
+        }
+      ],
+      "duration_ms": 208826,
+      "name": "No One Has the Answers",
+      "url": "https://open.spotify.com/track/58emzxS7apqOn2amBFfDyr"
     },
     {
       "added_at": "2023-10-06 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,382 likes - 173 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,393 likes - 173 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 34 | [SUMN LIKE THIS](https://open.spotify.com/track/2BhB2u9hxOX2ploipaG6fo) | [The Bleus](https://open.spotify.com/artist/1ZlFxR76M4IgjEKFgLkMDI), [Likkle Slave](https://open.spotify.com/artist/5TQX9jI6jo0GYhnx0dluOL) | [SUMN LIKE THIS](https://open.spotify.com/album/2DTeCIjA7XkhMAuBBrTt9u) | 2:23 |
 | 35 | [Munchies](https://open.spotify.com/track/6KwliIK6KXwVLY6TKOkOOx) | [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Munchies](https://open.spotify.com/album/5genJf5NzSsmOEeVCpzIiM) | 2:37 |
 | 36 | [Forgiveless](https://open.spotify.com/track/5IcP1PPnleZ2kuwKDyfNC5) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:21 |
-| 37 | [TOPIC](https://open.spotify.com/track/6ho5I49ybvEwuMmmUGDGLv) | [YUNGCYBERPRINCESS](https://open.spotify.com/artist/1s8CGPUhqhhH9UkNoK9TGZ), [Threat333](https://open.spotify.com/artist/0PgVYTmSgUexalwckcBVuL) | [TOPIC](https://open.spotify.com/album/6W6LAS9Qo1AdwzjB7xeMxq) | 1:14 |
+| 37 | [TOPIC](https://open.spotify.com/track/0r5Sp6vDej7NpEVljHWzYI) | [YUNGCYBERPRINCESS](https://open.spotify.com/artist/1s8CGPUhqhhH9UkNoK9TGZ), [Threat333](https://open.spotify.com/artist/0PgVYTmSgUexalwckcBVuL) | [TOPIC](https://open.spotify.com/album/7eNRzznJs1D3r7e5pmg28z) | 1:14 |
 | 38 | [W4TN](https://open.spotify.com/track/49Ho47D2uHc3eYqTcwNHRb) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [W4TN](https://open.spotify.com/album/3dLaZiheWAG3mmBBDP0z1u) | 2:41 |
 | 39 | [All Natural](https://open.spotify.com/track/6ti0huIVHb1J9JiwKbj7vM) | [Overkissed](https://open.spotify.com/artist/4m194iCkQ1ow7ijhuu9lk3) | [Porn Cuts](https://open.spotify.com/album/1KgBNDMEyu45mrAcG5y5rE) | 3:35 |
 | 40 | [Toxic](https://open.spotify.com/track/7lEaKSYmt8AQ9A9zqzfayM) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Almost Blue \(After Hours Deluxe\)](https://open.spotify.com/album/2YgVEpyUtHUdr5pLHDhuPX) | 1:51 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 172 | [Lose Ya Mind ft Aleisha Lee](https://open.spotify.com/track/6RVOJNTrEXOlecsUPCaOG5) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Perception](https://open.spotify.com/album/52ZsESTtVx9GWBVQK1rE00) | 4:26 |
 | 173 | [Follow Me \- Skeptical Remix](https://open.spotify.com/track/040XDv8exmt03jJNMB6BhQ) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX), [Skeptical](https://open.spotify.com/artist/28ee6rnxMl8AqwcroPfivP) | [Follow Me \(Remixes\)](https://open.spotify.com/album/2PuyaW7cXMyhikQ95l2jXU) | 3:49 |
 
-Snapshot ID: `MCxjZDZkZGEzZGEwYWNkYjdhOTU5MDFkM2QyYTcyYzI1MWQ5NTg0YmYz`
+Snapshot ID: `MCwwYjM3OTUzYjM1MGY1Zjc1ZGFkYWNkODg2MDQwYzExZDJjZDE1OTk3`

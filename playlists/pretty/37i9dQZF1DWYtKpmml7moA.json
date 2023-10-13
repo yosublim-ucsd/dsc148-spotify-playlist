@@ -1,12 +1,12 @@
 {
   "description": "Simmer down with this relaxing selection of old and new Reggae.",
-  "num_followers": 404931,
+  "num_followers": 404854,
   "original_name": "Chilled Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2YxNzE2MzQ4NTZhMDdmOWQwNjkzYWExNzNiNzNjY2Y5ZDg2ZjBj",
+  "snapshot_id": "MCwxNGY3Njk0NzkwYzBlMGI1MTJiZjcxNDRhZmRiNzJmNjU3YjA4MjE5",
   "tracks": [
     {
       "added_at": "2023-05-16 15:46:13",
@@ -939,22 +939,18 @@
     {
       "added_at": "2023-05-16 15:46:13",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/3WVrgqUT8NWgAuicUPcKt0"
+        "name": "Upside Down 2020",
+        "url": "https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l"
       },
       "artists": [
         {
-          "name": "Mungo's Hi Fi",
-          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
-        },
-        {
-          "name": "Eva Lazarus",
-          "url": "https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp"
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
         }
       ],
-      "duration_ms": 238176,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/19LXhmESLLMBb6bUJC02uR"
+      "duration_ms": 232511,
+      "name": "Buried Alive",
+      "url": "https://open.spotify.com/track/0TihbhZf0uXlEcxDj4Fzpi"
     }
   ],
   "unique_name": "Chilled Reggae",

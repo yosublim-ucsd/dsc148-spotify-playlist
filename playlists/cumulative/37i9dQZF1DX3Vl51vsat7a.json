@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Dilla",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Cloudy June",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -814,7 +814,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 202167,
       "name": "Carnage",
       "url": "https://open.spotify.com/track/0xEET5KnxdohPyrPMgnY3P"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 135883,
       "name": "gensehaut",
       "url": "https://open.spotify.com/track/4hcuqPKZS9s8P9jyOamH0M"
@@ -2090,6 +2090,28 @@
       "duration_ms": 256875,
       "name": "In My Novaa",
       "url": "https://open.spotify.com/track/0BWgnfDV4o5PPQMhcKfrzH"
+    },
+    {
+      "album": {
+        "name": "SUPER NOVAA",
+        "url": "https://open.spotify.com/album/3eKmwCRUPW3KapM3iIlQsJ"
+      },
+      "artists": [
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        },
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214128,
+      "name": "In The Business",
+      "url": "https://open.spotify.com/track/5wBeqF4IpiPFyUZf347KfG"
     },
     {
       "album": {
@@ -2835,6 +2857,32 @@
     },
     {
       "album": {
+        "name": "denk mal dr\u00fcber nach...",
+        "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Monk",
+          "url": "https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE"
+        },
+        {
+          "name": "Longus Mongus",
+          "url": "https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149799,
+      "name": "nicht nachmachen!!",
+      "url": "https://open.spotify.com/track/3gro2tfkybWGoK9MflVLWs"
+    },
+    {
+      "album": {
         "name": "nie wieder wegrennen",
         "url": "https://open.spotify.com/album/2PuC50H1fnvm82PWEG4sja"
       },
@@ -3190,6 +3238,24 @@
       "duration_ms": 200464,
       "name": "pressure & release",
       "url": "https://open.spotify.com/track/6BzTik1v9IdQpXMxsBXAsY"
+    },
+    {
+      "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148074,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR"
     },
     {
       "album": {
@@ -4508,7 +4574,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 193000,
       "name": "WEREWOLF",
       "url": "https://open.spotify.com/track/41dOSS3ZztCISuZQI3EiMR"
@@ -4573,6 +4639,24 @@
     },
     {
       "album": {
+        "name": "WITCH",
+        "url": "https://open.spotify.com/album/12kAESgAld7orprsv64J0k"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151242,
+      "name": "WITCH",
+      "url": "https://open.spotify.com/track/06JsKnlqdAYvbhWWwzXyM4"
+    },
+    {
+      "album": {
         "name": "Would Do It Again",
         "url": "https://open.spotify.com/album/7zy3Gc7G6GoZk8ULpp0kAl"
       },
@@ -4624,7 +4708,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 181889,
       "name": "You Problem",
       "url": "https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF"

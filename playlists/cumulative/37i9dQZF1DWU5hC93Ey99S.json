@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Morning Glory",
+        "url": "https://open.spotify.com/album/123UYRsFD3mu0hM4H8ZyIa"
+      },
+      "artists": [
+        {
+          "name": "Mondingo",
+          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288043,
+      "name": "Astray",
+      "url": "https://open.spotify.com/track/6wg4BDrJ68j2ug62VSyXwT"
+    },
+    {
+      "album": {
         "name": "back in time",
         "url": "https://open.spotify.com/album/5pgSw0cqiPHDtSwjMK2d0o"
       },
@@ -1989,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/2Lp9nUToblWF8nbzeMVzjA"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133636,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/6Kl0BmROA5CAwtQOEFd99y"
+    },
+    {
+      "album": {
         "name": "Hurricane (Ryan Case Remix)",
         "url": "https://open.spotify.com/album/6J62BG8YytAQ5zhRgOEb61"
       },
@@ -2033,7 +2069,7 @@
     },
     {
       "album": {
-        "name": "i can see",
+        "name": "I Can See",
         "url": "https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A"
       },
       "artists": [
@@ -2046,7 +2082,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 229083,
-      "name": "i can see",
+      "name": "I Can See",
       "url": "https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr"
     },
     {
@@ -3620,6 +3656,24 @@
     {
       "album": {
         "name": "Pulse",
+        "url": "https://open.spotify.com/album/65kd2HOjsJ9NE0m5EYrM2s"
+      },
+      "artists": [
+        {
+          "name": "Cella",
+          "url": "https://open.spotify.com/artist/3w7ASanLoAsQcWhd7V9DpJ"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233349,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/23iZJf28GEWUPSPy7lvuYQ"
+    },
+    {
+      "album": {
+        "name": "Pulse",
         "url": "https://open.spotify.com/album/7GCTjtsPVA8BSaFsUycCjf"
       },
       "artists": [
@@ -4552,6 +4606,28 @@
       "duration_ms": 181000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj"
+    },
+    {
+      "album": {
+        "name": "ten",
+        "url": "https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182013,
+      "name": "ten",
+      "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
     },
     {
       "album": {

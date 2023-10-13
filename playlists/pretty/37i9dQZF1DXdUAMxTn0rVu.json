@@ -1,12 +1,12 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Madlib",
-  "num_followers": 436264,
+  "num_followers": 436868,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDI4NjJhMzJjYTkwYzJiZDhhMTM4ZTFkZGZlYjAzMTdhYWViMDg4",
+  "snapshot_id": "MCxhYmU4MDM1YjA2ZDA5MTlkOGRkYTBlNjRmNzU3YzQwNzc5Y2JjZmM1",
   "tracks": [
     {
       "added_at": "2023-09-29 04:01:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "The Listening",
-        "url": "https://open.spotify.com/album/3TCtnxxB0OSY5sRtYzpYGG"
-      },
-      "artists": [
-        {
-          "name": "Little Brother",
-          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
-        }
-      ],
-      "duration_ms": 272066,
-      "name": "The Way You Do It",
-      "url": "https://open.spotify.com/track/6jZ1SNPuYqCqJsZhJlSGe1"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
         "name": "Disposable Arts",
         "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
+        "name": "Things Fall Apart",
+        "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 233493,
+      "name": "100% Dundee",
+      "url": "https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
         "name": "The Hurricane (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs"
       },
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Things Fall Apart",
-        "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
+        "name": "The Listening",
+        "url": "https://open.spotify.com/album/3TCtnxxB0OSY5sRtYzpYGG"
       },
       "artists": [
         {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+          "name": "Little Brother",
+          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
         }
       ],
-      "duration_ms": 233493,
-      "name": "100% Dundee",
-      "url": "https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O"
+      "duration_ms": 272066,
+      "name": "The Way You Do It",
+      "url": "https://open.spotify.com/track/6jZ1SNPuYqCqJsZhJlSGe1"
     },
     {
       "added_at": "2023-09-29 04:01:00",

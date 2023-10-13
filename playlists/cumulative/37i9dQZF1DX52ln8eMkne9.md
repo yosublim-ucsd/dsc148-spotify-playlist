@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-306 songs - 22 hr 59 min
+307 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Don't Take Your Love From Me](https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem On My Mind](https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd) | 4:52 | 2021-12-17 |  |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/7x571g4w2cwwr6A3Dhjtn5) | [Grasiela Piasson](https://open.spotify.com/artist/4Pj02WhBGYtttMP4iud5hn), [Guga Stroeter](https://open.spotify.com/artist/6AZWEt3SrpxmPIuzT10RSk) | [Grasiela Piasson & Guga Stroeter](https://open.spotify.com/album/1bZ1IxMM8lVMtMVkLWqSZ4) | 4:09 | 2022-03-10 |  |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:06 | 2021-12-17 | 2023-09-14 |
-| [Early Autumn](https://open.spotify.com/track/4KTOEna2iDPxK69eTaEPza) | [The Jazz Trio](https://open.spotify.com/artist/5zX4srAEfIPgYbERzNCJ1Y), [Ursina](https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY) | [Early Autumn](https://open.spotify.com/album/1S55qFVE9hceDFE9UbIX5p) | 3:13 | 2023-08-24 |  |
+| [Early Autumn](https://open.spotify.com/track/4KTOEna2iDPxK69eTaEPza) | [The Jazz Trio](https://open.spotify.com/artist/5zX4srAEfIPgYbERzNCJ1Y), [Ursina](https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY) | [Early Autumn](https://open.spotify.com/album/1S55qFVE9hceDFE9UbIX5p) | 3:13 | 2023-08-24 | 2023-10-13 |
 | [East of the Sun and West of the Moon](https://open.spotify.com/track/0hed9Q52TtwFLRMgK0M98e) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:21 | 2022-03-10 |  |
 | [Eat It Too](https://open.spotify.com/track/4as16KAbhjo5MPSo58ilez) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Eat It Too](https://open.spotify.com/album/6DeT7vD5VN5vGj9vnTji0d) | 3:46 | 2023-06-08 |  |
 | [Embraceable You](https://open.spotify.com/track/5m3XMzewNg9EADweC7j7Nn) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:51 | 2021-12-17 |  |
@@ -210,6 +210,7 @@
 | [On My Worst Day \(I'm Still In Love With You\)](https://open.spotify.com/track/3wbCw5YUZbHbVpJB4VkCyy) | [Erika Ingrid](https://open.spotify.com/artist/5qykgTkNRZf1P5QZL1r4Nr) | [On My Worst Day \(I'm Still In Love With You\)](https://open.spotify.com/album/05usim6u1byXZXYzYq70JO) | 3:44 | 2023-03-09 |  |
 | [One For My Baby](https://open.spotify.com/track/3tH1hpTg9fBtuvX1ghzNON) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx) | 5:11 | 2021-12-17 |  |
 | [Only the Lonely](https://open.spotify.com/track/4BJlrxrnHmnUi6DoZHexAc) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB) | [Only the Lonely](https://open.spotify.com/album/2LEdyJtyGv0wVJnwN5S67p) | 3:12 | 2023-01-25 |  |
+| [Out of the Blue](https://open.spotify.com/track/4vgJoEztJ2uXCgU5fXxxGW) | [Eudald Payés](https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [Out of the Blue](https://open.spotify.com/album/1g7TW3FbyhPzxBLLGSNFkd) | 3:36 | 2023-10-13 |  |
 | [Over The Rainbow](https://open.spotify.com/track/3TotnIhZuLlxAZY22hUw6k) | [Roberta Gambarini](https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS) | [So In Love](https://open.spotify.com/album/3XXHWtBulLdFVGD8zW0oO2) | 3:55 | 2021-12-17 | 2022-07-29 |
 | [Perhaps You'll Wonder Why](https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Perhaps You’ll Wonder Why](https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr) | 4:45 | 2022-05-05 |  |
 | [Please Don’t Kiss Me](https://open.spotify.com/track/53BNQYtpEJu1lmOVkYRWTL) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:33 | 2021-12-17 |  |

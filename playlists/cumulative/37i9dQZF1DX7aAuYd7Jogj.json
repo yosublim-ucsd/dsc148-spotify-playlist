@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 183272,
       "name": "Eons",
       "url": "https://open.spotify.com/track/538bWp96juSoSBvM7wD2Qm"
@@ -2252,6 +2252,24 @@
       "duration_ms": 216543,
       "name": "Freeform",
       "url": "https://open.spotify.com/track/3YrLrT0dfvY3biwPDkecAq"
+    },
+    {
+      "album": {
+        "name": "Frieden",
+        "url": "https://open.spotify.com/album/2Rq3e8qI8EEhPbWOWBR3xx"
+      },
+      "artists": [
+        {
+          "name": "Leo Baumgart",
+          "url": "https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Frieden",
+      "url": "https://open.spotify.com/track/14AIRP0JWtBQR6nkNuS0yv"
     },
     {
       "album": {
@@ -3566,6 +3584,24 @@
       "duration_ms": 181715,
       "name": "Morgennebel",
       "url": "https://open.spotify.com/track/2LSVCsevs25vMNmAdCTVMZ"
+    },
+    {
+      "album": {
+        "name": "Mudita",
+        "url": "https://open.spotify.com/album/1BTP6Dm6UiPfCV0slcxGuB"
+      },
+      "artists": [
+        {
+          "name": "Gamini Khatri",
+          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Mudita",
+      "url": "https://open.spotify.com/track/7Hm3jiAs1f0oypQythNWxy"
     },
     {
       "album": {

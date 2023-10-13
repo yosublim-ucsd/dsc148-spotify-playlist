@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-111 songs - 7 hr 2 min
+112 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Cumbia Buena](https://open.spotify.com/track/0NA27btGDmBNAgJiV0QBdG) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Bueno Pa' Bailar](https://open.spotify.com/album/4uWDQj68C6UF6e0TvWMAWF) | 2:24 | 2022-07-14 |  |
 | [Cumbia de la Montaña](https://open.spotify.com/track/39h2XcPNOiMbFyxOOMhVyf) | [Amantes del Futuro](https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0) | [Sabor Sónico](https://open.spotify.com/album/08VzWkqOdpCE30H0kJvoFQ) | 6:26 | 2021-10-20 |  |
 | [Cumbia De Los Pajaritos](https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK) | [Grupo Fantasma](https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE) | [Sonidos Gold](https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f) | 2:41 | 2021-10-20 |  |
-| [Cumbia del Metrónomo](https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz) | [Las Muiscas](https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige) | [Cumbia del Metrónomo](https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac) | 5:04 | 2022-02-12 |  |
+| [Cumbia del Metrónomo](https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz) | [Las Muiscas](https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige) | [Cumbia del Metrónomo](https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac) | 5:04 | 2022-02-12 | 2023-10-13 |
 | [Cumbia del Monte Fuji](https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cumbia del Monte Fuji](https://open.spotify.com/album/6JEkMpOD5jA6py8yAEoYc9) | 4:24 | 2021-10-20 |  |
 | [Cumbia del Pichamán](https://open.spotify.com/track/5WjRThnwydfhzybQStKVaI) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia siglo XXI](https://open.spotify.com/album/6s91YTFJHq3LWDRMC4QOvp) | 3:17 | 2021-10-20 |  |
 | [Cumbia en do Menor](https://open.spotify.com/track/3s82dVyBp9xjyL2ysM5vhl) | [Lito Barrientos y su Orquesta](https://open.spotify.com/artist/05iql7fgeGRNLLDjU66wN6) | [Very, Very, Well](https://open.spotify.com/album/5Qk3wsVkRcwoUB1hfy4bll) | 2:45 | 2021-10-20 |  |
@@ -51,6 +51,7 @@
 | [El pavo real](https://open.spotify.com/track/7CscQhRVoHs50YioshIbuQ) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [La Estrella](https://open.spotify.com/album/7quHZhPNAMaxImHsjrOkSr) | 3:28 | 2022-11-24 |  |
 | [El Pinochito Saltarin](https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR) | [Legado: Colección Definitiva](https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW) | 2:36 | 2021-10-20 |  |
 | [Elsa](https://open.spotify.com/track/04ZstZIjwSRoXAGix50GPT) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Mundial....](https://open.spotify.com/album/3gT44BsjTWWgIZvItinJSH) | 3:40 | 2021-10-20 |  |
+| [Fantasmagoría](https://open.spotify.com/track/1UKdzeFMgUECS6bYGR1Jv6) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Paganismo](https://open.spotify.com/album/6n4OdUAJ1Zr2oPt7VvohAW) | 4:13 | 2021-10-20 |  |
 | [Futurista](https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx) | 2:59 | 2022-02-15 |  |
 | [Guadalupe](https://open.spotify.com/track/2gokZy0P2QgqIRGMljHJAg) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 3:24 | 2021-10-20 | 2023-10-11 |
 | [Guaracha U.F.O \(No Estamos Solos...\)](https://open.spotify.com/track/5A8XYp8wXZD5Y3gQlZp81h) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Desesperanza](https://open.spotify.com/album/00F2FhpcLejOuh1nDnfnRm) | 6:51 | 2021-10-20 |  |

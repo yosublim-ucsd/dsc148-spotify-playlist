@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-208 songs - 10 hr 35 min
+209 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Fèath](https://open.spotify.com/track/52dScVRoybs6acPSkmK6jc) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Fèath](https://open.spotify.com/album/1uPNzg4SM9YYcclHGewiyC) | 3:26 | 2021-11-10 |  |
 | [floating through skies](https://open.spotify.com/track/1Krks9XwcyuoQggzxk9vz6) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [floating through skies](https://open.spotify.com/album/6RwX53r1RC1vqNyIit3M1W) | 3:14 | 2022-03-30 | 2022-10-14 |
 | [floating through skies](https://open.spotify.com/track/6JvT7qlbtHHzSgl3qM93Aq) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [floating through skies](https://open.spotify.com/album/6iep1QTLB997wpzeAyGFGM) | 3:14 | 2022-10-07 |  |
+| [Flotation Device In The Sky](https://open.spotify.com/track/7exg8OEdzbkWPtNNOjU4mk) | [Asta Meta](https://open.spotify.com/artist/10BR4J0WGz3qMPLOwqGrTX) | [Flotation Device In The Sky](https://open.spotify.com/album/7HgEHntaRepCqqw8jlN4pz) | 2:50 | 2023-10-12 |  |
 | [From Above](https://open.spotify.com/track/3bmicq5CCRnFGlvZY8mQYP) | [Jack Rosslyn](https://open.spotify.com/artist/2NsHKcM4F9lLMEppqZnsM5) | [From Above](https://open.spotify.com/album/7rj2uybb1d4Q3WnjMCtn04) | 2:19 | 2021-11-10 |  |
 | [Fully Present](https://open.spotify.com/track/4EzSRiQSPMWyeomPFfl52r) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Alpha State Binaural Beats](https://open.spotify.com/album/2lldx93cVF1rfleXKCCTZX) | 3:51 | 2021-11-10 | 2023-08-12 |
 | [Geneva](https://open.spotify.com/track/4ZJQUajvBXUmTilpiISmN4) | [To There From](https://open.spotify.com/artist/1hn9Nb0xO7aw9HMiWsYSjH) | [Mine, Complete](https://open.spotify.com/album/3vmT7BDyy8Or4zJwhsX5VW) | 4:13 | 2021-11-10 | 2022-08-13 |
@@ -167,7 +168,7 @@
 | [Ring Revolutions](https://open.spotify.com/track/5uFDnx2ryH994AZl8Ps0Zs) | [Cave Painters](https://open.spotify.com/artist/11OUQavysIomwEeKYmNQeE) | [Ring Revolutions](https://open.spotify.com/album/23B8w3QuiaMhX0r5OFWeIu) | 3:37 | 2021-11-10 | 2022-12-03 |
 | [Runic Inscriptions on Parapets](https://open.spotify.com/track/5Zlpz6ITS8QTfmFY9RUT4F) | [Old Norse](https://open.spotify.com/artist/0mF2EOEFiENizRK7E4ybuX) | [Hall in Bonn](https://open.spotify.com/album/6pTkaZaATdn52njMTppf6u) | 3:12 | 2021-11-10 |  |
 | [Santa Fe Reflection](https://open.spotify.com/track/7hIAFW3wOT3uRN42BXZRPx) | [Sleep Tentacles](https://open.spotify.com/artist/5XmgBXKhW63y3BaSISYNOd) | [Scales](https://open.spotify.com/album/5SdcXnRTvOdtSDomLsnCAh) | 3:50 | 2021-11-10 |  |
-| [Self\-Reflection](https://open.spotify.com/track/5zeo2UddrkVqbHg7dt3jYb) | [Apech](https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf) | [Self\-Reflection](https://open.spotify.com/album/10khRZPxXlxObbjZGHWLpV) | 2:50 | 2021-11-10 |  |
+| [Self\-Reflection](https://open.spotify.com/track/5zeo2UddrkVqbHg7dt3jYb) | [Apech](https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf) | [Self\-Reflection](https://open.spotify.com/album/10khRZPxXlxObbjZGHWLpV) | 2:50 | 2021-11-10 | 2023-10-13 |
 | [Sensory Bypass](https://open.spotify.com/track/6d9PX0f4YezrwhMtH5BKiU) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Sensory Bypass](https://open.spotify.com/album/2jxMcJP34nxtV2I9OHXe3s) | 2:31 | 2023-04-14 |  |
 | [Shapes of Solitude](https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Peaceful Illusions](https://open.spotify.com/album/56A3q7RrXnTuljybi6L14X) | 2:57 | 2022-06-16 |  |
 | [Siiasaar](https://open.spotify.com/track/5XIpdciEK4tR1I95ojGw0r) | [Roman Loukas](https://open.spotify.com/artist/0mMyinWmeBOc3OWdByH0Bd) | [Three Side Quests](https://open.spotify.com/album/4qiYeoOxu0BNgBex9qLwZt) | 3:57 | 2021-11-10 | 2022-06-17 |

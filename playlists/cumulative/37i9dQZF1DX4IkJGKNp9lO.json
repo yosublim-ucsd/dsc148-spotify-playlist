@@ -1893,6 +1893,24 @@
     },
     {
       "album": {
+        "name": "Jane Doe, \u00d6stersund",
+        "url": "https://open.spotify.com/album/3Se4PLem67i9Do45OPzWu0"
+      },
+      "artists": [
+        {
+          "name": "En Svensk Tiger",
+          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189010,
+      "name": "Jane Doe, \u00d6stersund",
+      "url": "https://open.spotify.com/track/4tzLVTf3Cw3hi2C6oINeQS"
+    },
+    {
+      "album": {
         "name": "Pengar Har Inga \u00d6gon",
         "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
       },
@@ -1994,7 +2012,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 180573,
       "name": "Kom och dansa lite",
       "url": "https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq?si=mMlOv57fS5a6MC7Wik304w\"> Tems </a> ",
+  "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn?si=tYz_NBKETlaQCAgwz6XWEw\"> WurlD </a> ",
   "name": "Tantalizers",
   "tracks": [
     {
@@ -192,6 +192,24 @@
       "duration_ms": 208290,
       "name": "ALL OF ME",
       "url": "https://open.spotify.com/track/4LK8gp5INawRELfGEhnjHv"
+    },
+    {
+      "album": {
+        "name": "All the Noise",
+        "url": "https://open.spotify.com/album/7wi4SEBg116K9mEX5x4I2D"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249520,
+      "name": "All the Noise",
+      "url": "https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d"
     },
     {
       "album": {
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 215217,
       "name": "Cinderella Girl (Where You Dey) [feat. Ludacris]",
       "url": "https://open.spotify.com/track/1E4ed73l5iopAIr9UkAlGy"
@@ -2431,6 +2449,24 @@
     },
     {
       "album": {
+        "name": "Journey to Idan",
+        "url": "https://open.spotify.com/album/2U6DR87NV7jBoc2d5cHRxt"
+      },
+      "artists": [
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227217,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/31iNSE9TF3ehPE7cX8OSek"
+    },
+    {
+      "album": {
         "name": "Hivyo",
         "url": "https://open.spotify.com/album/0DDhl9xlbotJWZ7yihik6B"
       },
@@ -2810,7 +2846,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 124776,
       "name": "Just The Start",
       "url": "https://open.spotify.com/track/683EhjBwGmcv23ezqCM22h"
@@ -3120,7 +3156,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 224444,
       "name": "Lil Mama",
       "url": "https://open.spotify.com/track/0TdQ54hT5S5racTQAwdW3U"
@@ -3146,6 +3182,28 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+    },
+    {
+      "album": {
+        "name": "Love Made Me Do It",
+        "url": "https://open.spotify.com/album/09afloJIDVkuukH5f0Puo2"
+      },
+      "artists": [
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196008,
+      "name": "Love Made Me Do It",
+      "url": "https://open.spotify.com/track/0EDveqCZ7ExWFkF0SE4NV7"
     },
     {
       "album": {
@@ -4414,7 +4472,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 220000,
       "name": "Rush",
       "url": "https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy"
@@ -4490,6 +4548,24 @@
       "duration_ms": 170666,
       "name": "SAME AS YOU",
       "url": "https://open.spotify.com/track/3vYLmH7y9vkEKI9IB1fw8v"
+    },
+    {
+      "album": {
+        "name": "Sarafina",
+        "url": "https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe"
+      },
+      "artists": [
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Sarafina",
+      "url": "https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-521 songs - 1 day 20 hr 25 min
+522 songs - 1 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Annihilation Phenomena](https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Annihilation Phenomena](https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO) | 3:51 | 2022-10-27 |  |
 | [Apostle](https://open.spotify.com/track/1HI10LWV2JuIhTrl1WUVeu) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Apostle](https://open.spotify.com/album/2zuqFATCXyRlhU50M1uYvA) | 4:16 | 2021-12-17 | 2022-07-29 |
 | [Apostle](https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Acts Of God](https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp) | 4:16 | 2022-11-25 |  |
-| [Arsenal of War](https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6) | [Arsenal of War](https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07) | 4:05 | 2023-03-17 |  |
+| [Arsenal of War](https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6) | [Arsenal of War](https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07) | 4:05 | 2023-03-17 | 2023-10-13 |
 | [As Above So Below](https://open.spotify.com/track/6RxzW1gYB5qCWGl2fV6bdb) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Zos Kia Cultus](https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN) | 4:59 | 2022-07-13 |  |
 | [As Above So Below](https://open.spotify.com/track/5T6FioXGDdd5kw4I3HpHH1) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Zos Kia Cultus](https://open.spotify.com/album/7FKHNF62tKyP6ejTQ1qo2m) | 5:01 | 2022-07-13 | 2022-07-29 |
 | [Asebeia](https://open.spotify.com/track/64APQrZbLJ0P6OF4sYZfZn) | [Temple Of Dread](https://open.spotify.com/artist/63gOmJYMY5DArrmagcCrOL) | [Asebeia](https://open.spotify.com/album/3J5r481a3YFAn3HHQtzkPM) | 2:13 | 2023-08-11 | 2023-09-22 |
@@ -123,6 +123,7 @@
 | [Death March](https://open.spotify.com/track/29jdT24cfdRzOmn57MSFlS) | [Enemies Everywhere](https://open.spotify.com/artist/0i5eguj2szDPz1STo9Ursz) | [Death March](https://open.spotify.com/album/5Mpro4JXyYlwrbA1cX9Nzs) | 4:41 | 2023-09-01 |  |
 | [Death Walks Among Us \- Single Edit](https://open.spotify.com/track/005yHsz6xGZubdhG8ghJdY) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Death Walks Among Us](https://open.spotify.com/album/3UuzBA3t6Krm96ydpYXaei) | 4:38 | 2022-01-14 | 2022-04-02 |
 | [Deathcrush](https://open.spotify.com/track/5wWRdIjndDOh1j4OXAPpdD) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [Deathcrush](https://open.spotify.com/album/2RxBdrvHKwgx57RKrNQ9hz) | 3:32 | 2022-07-13 | 2023-03-01 |
+| [Death·chaos·void](https://open.spotify.com/track/3frwYpO72nBBkn2TCTUBsz) | [Akouphenom](https://open.spotify.com/artist/1Sds5s7jYPS5iOfQebawN3) | [Death·chaos·void](https://open.spotify.com/album/4IxAlYMNOR9rsfot26RBk6) | 8:07 | 2023-10-12 |  |
 | [Decade of Therion](https://open.spotify.com/track/1CrBmNLLRTuq19YHFxZV6h) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Satanica](https://open.spotify.com/album/5GVt3QeIw7ueuou2AZlzcV) | 3:19 | 2022-07-13 |  |
 | [Demonon Vrosis](https://open.spotify.com/track/6YuVmHEXQU3Dgg3w3LSZnZ) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Aealo](https://open.spotify.com/album/16ywSYjE1gvCU1GtlYVXgV) | 4:56 | 2022-07-13 |  |
 | [Desolation's Flower](https://open.spotify.com/track/7gX1NBorrOZqpLYBlRIW3F) | [Ragana](https://open.spotify.com/artist/3SwRHVTRoAEOkggZnCSFzt) | [Desolation's Flower](https://open.spotify.com/album/3AmTVBNLadBMNE4OlVro6S) | 8:29 | 2023-08-04 |  |

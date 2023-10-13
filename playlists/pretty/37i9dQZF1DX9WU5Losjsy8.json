@@ -1,12 +1,12 @@
 {
   "description": "Ist nur einmal im Jahr!",
-  "num_followers": 363207,
+  "num_followers": 363362,
   "original_name": "Malle Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTBkY2JkNGM0MzMwMGYzYjA2NzgwOGRkNDY3MzEyYzlhODlmOWUx",
+  "snapshot_id": "MCw3N2IxZDE1MzE5MGQ2OGZhMWFhMDY4NDM4MDA5NmQ2Y2VmNmM5OGEx",
   "tracks": [
     {
       "added_at": "2023-09-18 16:25:06",
@@ -203,26 +203,6 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Olivia",
-        "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
-      },
-      "artists": [
-        {
-          "name": "Die Zipfelbuben",
-          "url": "https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U"
-        },
-        {
-          "name": "DJ Cashi",
-          "url": "https://open.spotify.com/artist/3maDQKNIwvbtAglSmYGhCo"
-        }
-      ],
-      "duration_ms": 180157,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
         "name": "Ein bisschen Aroma (Stereoact Remix)",
         "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 178540,
       "name": "Ein bisschen Aroma - Stereoact Remix",
       "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
+        "name": "Olivia",
+        "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
+      },
+      "artists": [
+        {
+          "name": "Die Zipfelbuben",
+          "url": "https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U"
+        },
+        {
+          "name": "DJ Cashi",
+          "url": "https://open.spotify.com/artist/3maDQKNIwvbtAglSmYGhCo"
+        }
+      ],
+      "duration_ms": 180157,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -291,26 +291,18 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Der Zug hat keine Bremse (Mallorcastyle Edition)",
-        "url": "https://open.spotify.com/album/1EqQTMuCCCO7wXH8S9pZyZ"
+        "name": "Crackstreet Boys 3 (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK"
       },
       "artists": [
         {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        },
-        {
-          "name": "Malle Anja",
-          "url": "https://open.spotify.com/artist/7GgR71h3yQSxU4bwfX9gRd"
-        },
-        {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+          "name": "Trailerpark",
+          "url": "https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB"
         }
       ],
-      "duration_ms": 207301,
-      "name": "Der Zug hat keine Bremse - Mallorcastyle Edition",
-      "url": "https://open.spotify.com/track/3T4DdPVqWeaC4U7vrIxlKz"
+      "duration_ms": 265494,
+      "name": "Bleib in der Schule",
+      "url": "https://open.spotify.com/track/14ZdGRgEojosST783o66CX"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -339,18 +331,26 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Crackstreet Boys 3 (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK"
+        "name": "Der Zug hat keine Bremse (Mallorcastyle Edition)",
+        "url": "https://open.spotify.com/album/1EqQTMuCCCO7wXH8S9pZyZ"
       },
       "artists": [
         {
-          "name": "Trailerpark",
-          "url": "https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB"
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        },
+        {
+          "name": "Malle Anja",
+          "url": "https://open.spotify.com/artist/7GgR71h3yQSxU4bwfX9gRd"
+        },
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
         }
       ],
-      "duration_ms": 265494,
-      "name": "Bleib in der Schule",
-      "url": "https://open.spotify.com/track/14ZdGRgEojosST783o66CX"
+      "duration_ms": 207301,
+      "name": "Der Zug hat keine Bremse - Mallorcastyle Edition",
+      "url": "https://open.spotify.com/track/3T4DdPVqWeaC4U7vrIxlKz"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -511,18 +511,22 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Ich schwanke noch",
-        "url": "https://open.spotify.com/album/3RyHanFXbchaHozto8cFJN"
+        "name": "Igel",
+        "url": "https://open.spotify.com/album/6wGn5LhAfZsymA3wVyBWFv"
       },
       "artists": [
         {
           "name": "Ikke H\u00fcftgold",
           "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "Vanessa Mai",
+          "url": "https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7"
         }
       ],
-      "duration_ms": 209358,
-      "name": "Ich schwanke noch",
-      "url": "https://open.spotify.com/track/6myefhZIHsPCDloC1iu8KS"
+      "duration_ms": 134826,
+      "name": "Igel",
+      "url": "https://open.spotify.com/track/1op1VrGBMP2uuPOMFQ45R3"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -575,26 +579,6 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Partysau",
-        "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
-      },
-      "artists": [
-        {
-          "name": "Malle Kalle",
-          "url": "https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP"
-        },
-        {
-          "name": "Danergy",
-          "url": "https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf"
-        }
-      ],
-      "duration_ms": 115680,
-      "name": "Partysau",
-      "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
         "name": "Wir eskalieren",
         "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
       },
@@ -611,6 +595,26 @@
       "duration_ms": 216286,
       "name": "Wir eskalieren",
       "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
+        "name": "Partysau",
+        "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
+      },
+      "artists": [
+        {
+          "name": "Malle Kalle",
+          "url": "https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP"
+        },
+        {
+          "name": "Danergy",
+          "url": "https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf"
+        }
+      ],
+      "duration_ms": 115680,
+      "name": "Partysau",
+      "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -635,22 +639,18 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Igel",
-        "url": "https://open.spotify.com/album/6wGn5LhAfZsymA3wVyBWFv"
+        "name": "Ich schwanke noch",
+        "url": "https://open.spotify.com/album/3RyHanFXbchaHozto8cFJN"
       },
       "artists": [
         {
           "name": "Ikke H\u00fcftgold",
           "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
-        },
-        {
-          "name": "Vanessa Mai",
-          "url": "https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7"
         }
       ],
-      "duration_ms": 134826,
-      "name": "Igel",
-      "url": "https://open.spotify.com/track/1op1VrGBMP2uuPOMFQ45R3"
+      "duration_ms": 209358,
+      "name": "Ich schwanke noch",
+      "url": "https://open.spotify.com/track/6myefhZIHsPCDloC1iu8KS"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
+        "name": "Dorfdisko",
+        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 206944,
+      "name": "Abfahrt",
+      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
         "name": "Party Chaos",
         "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 194173,
       "name": "Strobo Pop",
       "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
-        "name": "Dorfdisko",
-        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 206944,
-      "name": "Abfahrt",
-      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Atzen Musik Vol.1, 2 & 3",
-        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
-      },
-      "artists": [
-        {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
-        }
-      ],
-      "duration_ms": 204946,
-      "name": "Disco Pogo",
-      "url": "https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
         "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
         "url": "https://open.spotify.com/album/268VrfGJQ200XIqhvZIypX"
       },
@@ -875,6 +859,26 @@
       "duration_ms": 223671,
       "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
       "url": "https://open.spotify.com/track/2TBimpeTwsFPzpSRuUHw18"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
+        "name": "DORFDiSKO ZWEi",
+        "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 198160,
+      "name": "PECH & SCHWEFEL",
+      "url": "https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -939,6 +943,22 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
+        "name": "Atzen Musik Vol.1, 2 & 3",
+        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        }
+      ],
+      "duration_ms": 204946,
+      "name": "Disco Pogo",
+      "url": "https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 144533,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
-        "name": "DORFDiSKO ZWEi",
-        "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        }
-      ],
-      "duration_ms": 198160,
-      "name": "PECH & SCHWEFEL",
-      "url": "https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
+        "name": "Ich will mehr",
+        "url": "https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Petry",
+          "url": "https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Wahnsinn",
+      "url": "https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
         "name": "Ciao 3 Tage Blau",
         "url": "https://open.spotify.com/album/0UspjAHvU9oPeNgoyGK5gw"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 188000,
       "name": "Ciao 3 Tage Blau",
       "url": "https://open.spotify.com/track/3AZ24YPWIpb82PaduK1FZS"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
-        "name": "Ich will mehr",
-        "url": "https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Petry",
-          "url": "https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "Wahnsinn",
-      "url": "https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -1515,22 +1515,22 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Scheiss auf Schickimicki (Video Edit)",
-        "url": "https://open.spotify.com/album/28NwJjbkVrQ1J7NfS8ed5I"
+        "name": "Ich schie\u00df mich weg",
+        "url": "https://open.spotify.com/album/1nkb9GbsadB9rE1vonRmXg"
       },
       "artists": [
         {
-          "name": "Stefan St\u00fcrmer",
-          "url": "https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q"
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
         },
         {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+          "name": "Micha von der Rampe",
+          "url": "https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w"
         }
       ],
-      "duration_ms": 198750,
-      "name": "Scheiss auf Schickimicki - Video Edit",
-      "url": "https://open.spotify.com/track/2Vz4iMRlwS95zChQbZo4HL"
+      "duration_ms": 127989,
+      "name": "Ich schie\u00df mich weg",
+      "url": "https://open.spotify.com/track/72ZWod6JckJuSZ4BeyEqPU"
     }
   ],
   "unique_name": "Malle Party 2023",

@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 142800,
       "name": "Blunotte",
       "url": "https://open.spotify.com/track/7xJ9d7j9fcB2czQyPbLyhy"
@@ -5578,7 +5578,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 131707,
       "name": "Don Done",
       "url": "https://open.spotify.com/track/66uJyJoHQjheshWqgUTahM"
@@ -9808,7 +9808,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 158229,
       "name": "Hope Of Tomorrow",
       "url": "https://open.spotify.com/track/2EeKsuMVApMdC69tQSJNd4"
@@ -11482,7 +11482,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 120068,
       "name": "Kodomo",
       "url": "https://open.spotify.com/track/22oZLEhweK52rticJhnJqZ"
@@ -12966,7 +12966,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 158377,
       "name": "Magic Hour",
       "url": "https://open.spotify.com/track/0NNVD0Py1o7aMJLyX12swP"
@@ -13140,7 +13140,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 140117,
       "name": "Marbles",
       "url": "https://open.spotify.com/track/7McgbJW6Bo2WHx9tXmzoUA"
@@ -13162,6 +13162,24 @@
       "duration_ms": 183963,
       "name": "maskros",
       "url": "https://open.spotify.com/track/6UFRV34euOz5X7sCfJgGyV"
+    },
+    {
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/0ADb25xnbJyUYcc8DrauGS"
+      },
+      "artists": [
+        {
+          "name": "Carlile G.",
+          "url": "https://open.spotify.com/artist/1sFHTftk8Uv66yflP78Wi7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156585,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/2oU3SCdUA35sudMw5DyqMX"
     },
     {
       "album": {
@@ -17162,7 +17180,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 150236,
       "name": "Plus 1",
       "url": "https://open.spotify.com/track/4RsCOb6v8sMrHoBFhF2IEh"
@@ -18306,7 +18324,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 123658,
       "name": "Rock",
       "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
@@ -21558,7 +21576,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 144352,
       "name": "Sway",
       "url": "https://open.spotify.com/track/75sZBm6xeoNEOewWjk8yCB"
@@ -21930,6 +21948,24 @@
       "duration_ms": 172440,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/2eyJQMPDcWlC5CmZsodlSD"
+    },
+    {
+      "album": {
+        "name": "Take It Home",
+        "url": "https://open.spotify.com/album/4QlNhHUyV9KTQ4QC7GbwXu"
+      },
+      "artists": [
+        {
+          "name": "Mint Tape",
+          "url": "https://open.spotify.com/artist/35l6dl8unoLV3T6EjbO0hn"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132231,
+      "name": "Take It Home",
+      "url": "https://open.spotify.com/track/0x8ezdTuFi6El6BTGcQojf"
     },
     {
       "album": {
@@ -23537,6 +23573,24 @@
     },
     {
       "album": {
+        "name": "Undeniable Swagger",
+        "url": "https://open.spotify.com/album/4wbdyhvAX5V0Cdq92hGayi"
+      },
+      "artists": [
+        {
+          "name": "Toshdy",
+          "url": "https://open.spotify.com/artist/55bwDdaEDVEycXFNC9Xl1D"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124874,
+      "name": "Undeniable Swagger",
+      "url": "https://open.spotify.com/track/0X574TlCOR4SEtcg9tU8IC"
+    },
+    {
+      "album": {
         "name": "under the snow",
         "url": "https://open.spotify.com/album/45vErdXJLaH1IGeeYQtukV"
       },
@@ -23991,6 +24045,24 @@
     },
     {
       "album": {
+        "name": "Vitae",
+        "url": "https://open.spotify.com/album/4GgfRSypBrqRIevwH3kriJ"
+      },
+      "artists": [
+        {
+          "name": "Nacho Dat\u00far",
+          "url": "https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132750,
+      "name": "Vitae",
+      "url": "https://open.spotify.com/track/1Qm8jGs8iEgrvfbPCAawqR"
+    },
+    {
+      "album": {
         "name": "Week Line",
         "url": "https://open.spotify.com/album/5SFXZFbi6A8VIFgd6wZror"
       },
@@ -24082,7 +24154,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 139340,
       "name": "Walk The Dog",
       "url": "https://open.spotify.com/track/4AowHOaycPNDRId7N4Npf9"
@@ -25330,7 +25402,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 136363,
       "name": "Zeal, Pt. 2",
       "url": "https://open.spotify.com/track/1Z3PDHNa9EQHjuJT3mWrqW"

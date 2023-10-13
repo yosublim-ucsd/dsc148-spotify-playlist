@@ -4,7 +4,7 @@
 
 > Bring in the new day.
 
-168 songs - 9 hr 2 min
+169 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Morningtide](https://open.spotify.com/track/3MzDyx6wOKtQAJF7hGCfOl) | [Rhia Medina](https://open.spotify.com/artist/0l1AWcJLnjRdZx1XLVki2p) | [Early Bright](https://open.spotify.com/album/3L7tcCyYDAAVUkcNe9Nl7i) | 3:36 | 2022-06-01 |  |
 | [Mountains](https://open.spotify.com/track/0H6JIWGyILocIhKM8ItOHC) | [Bahn Kramina](https://open.spotify.com/artist/3fBzknNOKdMhLJ0oSuYMqA) | [Mountains](https://open.spotify.com/album/5BPUrS4ypZSS836CGQ75mp) | 2:52 | 2022-12-23 |  |
 | [Mystique](https://open.spotify.com/track/79GIRejvbVrpQTc8287iYz) | [Tech Art](https://open.spotify.com/artist/1DAsNQc739srYx6Go2Evo8) | [Hang Drums](https://open.spotify.com/album/68kllnJ8TPDgacPsapIQBG) | 3:04 | 2022-05-17 |  |
+| [Myths](https://open.spotify.com/track/1gRPjKpK7KKAxNjMFnq6ok) | [Apech](https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf) | [Myths](https://open.spotify.com/album/6wHe0GNjkRdjAbbtrE8mGG) | 3:14 | 2023-10-12 |  |
 | [Nagnallar](https://open.spotify.com/track/0KvcCmSBIRFBfpvG8qXDtE) | [Sahasrara Beats](https://open.spotify.com/artist/4KAmS7nBbav0B58adlaCJa) | [Nagnallar](https://open.spotify.com/album/7mc0YuErrVKMLdfWw16lOP) | 2:28 | 2022-05-17 |  |
 | [Ning's Garden](https://open.spotify.com/track/7Bv6U3feaLTl2LRCEYMy6D) | [World Of Ning](https://open.spotify.com/artist/2S1WPnScXc94xexaArzFf9) | [Ning's Garden](https://open.spotify.com/album/6n677UbXTQfUGW6TKSYIKH) | 2:54 | 2023-06-21 |  |
 | [Oceans Anahata](https://open.spotify.com/track/7D3XzDFwR1BYnzcQ5Yl6P2) | [Surya](https://open.spotify.com/artist/35cfF1k6EkenA6CvqrhneD) | [Oceans Anahata](https://open.spotify.com/album/6geVgdN6Ik1nG3YF4Vex51) | 3:22 | 2022-10-25 |  |

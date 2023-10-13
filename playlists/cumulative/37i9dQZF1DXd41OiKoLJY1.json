@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Fresh releases from your future favorite artists. Cover: Dear Dahlia  Artwork: Isu Kim\n",
+  "description": "Fresh releases from your future favorite artists. Cover: Paolo Agudelo  Artwork: Isu Kim\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 153861,
       "name": "Alabang",
       "url": "https://open.spotify.com/track/5Fgqf9XvapuQ0I7qyV7d4L"
@@ -1925,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "Alon",
+        "url": "https://open.spotify.com/album/63UMia6Pz0jPJwvoSSCaGZ"
+      },
+      "artists": [
+        {
+          "name": "Paulo Agudelo",
+          "url": "https://open.spotify.com/artist/5LGjH4EQ1NvSeKaZSNhi5i"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Alon",
+      "url": "https://open.spotify.com/track/31aoAkozsws5DKVyvQLBL2"
+    },
+    {
+      "album": {
         "name": "ALONE TOGETHER",
         "url": "https://open.spotify.com/album/16FyV3LsShp44hfdFe9jTk"
       },
@@ -1966,6 +1984,24 @@
       "duration_ms": 138461,
       "name": "Always Be Mine",
       "url": "https://open.spotify.com/track/32W92fyZfJJ7fDnKLSafwF"
+    },
+    {
+      "album": {
+        "name": "Always Been",
+        "url": "https://open.spotify.com/album/41LQPmLZLIF3Qw5q2jFwWW"
+      },
+      "artists": [
+        {
+          "name": "KinoBuds",
+          "url": "https://open.spotify.com/artist/6lqWoN745sV6x42bSHDC9B"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184117,
+      "name": "Always Been",
+      "url": "https://open.spotify.com/track/5LhBaeMrVrHDQYxsJ5ewHv"
     },
     {
       "album": {
@@ -2903,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "Ayoko Na",
+        "url": "https://open.spotify.com/album/4eRyUFUqjUE9GZD9VxnyEt"
+      },
+      "artists": [
+        {
+          "name": "LONER",
+          "url": "https://open.spotify.com/artist/7wuV7nxsIsWC0UBbDDBR6R"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Ayoko Na",
+      "url": "https://open.spotify.com/track/2BwIseOuuRAR3x5NJ2xGYv"
+    },
+    {
+      "album": {
         "name": "Ayoko Na Umuwi",
         "url": "https://open.spotify.com/album/3JlPDOEYEHMYqP66cOg3WO"
       },
@@ -2922,6 +2976,28 @@
       "duration_ms": 157697,
       "name": "Ayoko Na Umuwi",
       "url": "https://open.spotify.com/track/19voXXQ1fORAEwtN3SZnUX"
+    },
+    {
+      "album": {
+        "name": "Ayoko nang umibig (Red Edition)",
+        "url": "https://open.spotify.com/album/4TgsJy5RjHj3TAk6URt9z1"
+      },
+      "artists": [
+        {
+          "name": "Jeko Royo",
+          "url": "https://open.spotify.com/artist/5HX42nUgvxmShHsxivaApm"
+        },
+        {
+          "name": "RB Slatt",
+          "url": "https://open.spotify.com/artist/1mp3obA5hrR8GjHx95Wlrk"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253216,
+      "name": "Ayoko nang umibig v1",
+      "url": "https://open.spotify.com/track/5Mah0oWSnKDdTN6m8uPOmT"
     },
     {
       "album": {
@@ -3172,7 +3248,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 265120,
       "name": "Baby Blues",
       "url": "https://open.spotify.com/track/5EQZZNj3rT2I3TqRxrz9Qk"
@@ -3616,7 +3692,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 255882,
       "name": "Bakit Papa?",
       "url": "https://open.spotify.com/track/280Mm8m0HB5Qo2yFCzbfBP"
@@ -3692,7 +3768,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 205241,
       "name": "Balak",
       "url": "https://open.spotify.com/track/0UVo4TQG2cLwbdRqImjvGK"
@@ -5074,7 +5150,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 225541,
       "name": "Bumalik",
       "url": "https://open.spotify.com/track/5wtosWeVlW58uOYZHqDbTE"
@@ -5136,7 +5212,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 164567,
       "name": "Burnt Out!",
       "url": "https://open.spotify.com/track/0zbhplZ4q6nbDP3rmW6HP8"
@@ -5314,7 +5390,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 315000,
       "name": "Can We Just Keep On Talking?",
       "url": "https://open.spotify.com/track/7G8dwy66UZPzMwus1wEMnp"
@@ -5452,6 +5528,24 @@
       "duration_ms": 185163,
       "name": "Can't Play",
       "url": "https://open.spotify.com/track/1ZGENDbDKPx8LS9jYKDzS5"
+    },
+    {
+      "album": {
+        "name": "Can't Wait",
+        "url": "https://open.spotify.com/album/1uDNJT4EMEhVjwBhY3wWXz"
+      },
+      "artists": [
+        {
+          "name": "Anton Paras",
+          "url": "https://open.spotify.com/artist/1focgoX1VwBCEcZFAInks7"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236708,
+      "name": "Can't Wait",
+      "url": "https://open.spotify.com/track/4jmdZHXYXKFnMHSIExE3Wt"
     },
     {
       "album": {
@@ -5604,7 +5698,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 179547,
       "name": "Change",
       "url": "https://open.spotify.com/track/7JVruzd6Obr1gF8qIUuYn8"
@@ -6012,7 +6106,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 203129,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/7EbiigoDmIvc9sHvAjVUQh"
@@ -6164,7 +6258,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 205962,
       "name": "Creatures",
       "url": "https://open.spotify.com/track/1FhdejdRP526E0WfCNIiin"
@@ -6564,7 +6658,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 291026,
       "name": "Dalawampu't Apat",
       "url": "https://open.spotify.com/track/5yzv3mfRyNU1Tj8TgbO3OY"
@@ -7425,6 +7519,24 @@
     },
     {
       "album": {
+        "name": "Digital Slaves",
+        "url": "https://open.spotify.com/album/0lhMU8GuAuDW2AVFASCarH"
+      },
+      "artists": [
+        {
+          "name": "Ultraviolet",
+          "url": "https://open.spotify.com/artist/3P0lmdEF8uBGXjCyonbKrl"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286133,
+      "name": "Digital Slaves",
+      "url": "https://open.spotify.com/track/58dERTszseAyzROM4rEFz4"
+    },
+    {
+      "album": {
         "name": "DIKA",
         "url": "https://open.spotify.com/album/6LxvwPdCLLVzMVjFE7eN9S"
       },
@@ -7440,6 +7552,24 @@
       "duration_ms": 206839,
       "name": "DIKA",
       "url": "https://open.spotify.com/track/4e5qNv9gXHb7NYtptDYxuJ"
+    },
+    {
+      "album": {
+        "name": "Disclaimer: Hindi Ako Rapper",
+        "url": "https://open.spotify.com/album/4ReD9QyfZMwO6VRIrCV2JP"
+      },
+      "artists": [
+        {
+          "name": "NCCO",
+          "url": "https://open.spotify.com/artist/1pCGGSxxnrMs5hVzD3yQ8a"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206425,
+      "name": "Disclaimer: Hindi Ako Rapper",
+      "url": "https://open.spotify.com/track/1WL3nvqVw7RNG09s4G3wZy"
     },
     {
       "album": {
@@ -8361,6 +8491,24 @@
     },
     {
       "album": {
+        "name": "Elbi Foodtrip",
+        "url": "https://open.spotify.com/album/352CQlM5EbcYpRNSCAfcT1"
+      },
+      "artists": [
+        {
+          "name": "KOLAR!S",
+          "url": "https://open.spotify.com/artist/4zjGJb2jgFthbymEY2lx3i"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Elbi Foodtrip",
+      "url": "https://open.spotify.com/track/58D0lY64la05sb7wpDDS1l"
+    },
+    {
+      "album": {
         "name": "Electric Wind God Fist",
         "url": "https://open.spotify.com/album/7vwrfrqiMoRyhIW4RXIWRU"
       },
@@ -9235,6 +9383,24 @@
     },
     {
       "album": {
+        "name": "fell for you",
+        "url": "https://open.spotify.com/album/6NLvtNZCc2rw6lliduy9bB"
+      },
+      "artists": [
+        {
+          "name": "Jaykey",
+          "url": "https://open.spotify.com/artist/6qQIl9Pz6NAbJDAHmpc6Lw"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210043,
+      "name": "fell for you",
+      "url": "https://open.spotify.com/track/3aIeBymRLkRZjTrQSBMq9Y"
+    },
+    {
+      "album": {
         "name": "FEVER",
         "url": "https://open.spotify.com/album/7KCW0dBVPKsD8uSnNaksnY"
       },
@@ -9610,6 +9776,28 @@
       "duration_ms": 217620,
       "name": "Fly",
       "url": "https://open.spotify.com/track/4jqOYldUcMqWTIaPVMPRW3"
+    },
+    {
+      "album": {
+        "name": "fly",
+        "url": "https://open.spotify.com/album/2v7nFaczto9sLKBZomNCdG"
+      },
+      "artists": [
+        {
+          "name": "yerroi",
+          "url": "https://open.spotify.com/artist/62fmNflL0KqDihP5IGy5Tu"
+        },
+        {
+          "name": "Daniel Taberna",
+          "url": "https://open.spotify.com/artist/3NnyAhfd9vHhOX9cbGdzrP"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "fly",
+      "url": "https://open.spotify.com/track/2LIwG9x6juuorG6pUwl1gt"
     },
     {
       "album": {
@@ -10601,6 +10789,28 @@
     },
     {
       "album": {
+        "name": "gimme",
+        "url": "https://open.spotify.com/album/3vrVa3F1vtYqZ79zjz4gj6"
+      },
+      "artists": [
+        {
+          "name": "dreamboy mac",
+          "url": "https://open.spotify.com/artist/5iglkeBrSbQwMCR62b7oOi"
+        },
+        {
+          "name": "Sophie Said",
+          "url": "https://open.spotify.com/artist/0uhGoYlsroDbyn3GvupHas"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "gimme",
+      "url": "https://open.spotify.com/track/6Uo0aEr28Q8r7vTyXMY1P7"
+    },
+    {
+      "album": {
         "name": "Gimme Luv",
         "url": "https://open.spotify.com/album/4O55VgHTw9E0FTIKTlA8u1"
       },
@@ -10900,6 +11110,24 @@
       "duration_ms": 240020,
       "name": "Gold",
       "url": "https://open.spotify.com/track/1rnDe03OCfGry7vFW3iMHL"
+    },
+    {
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/71iOiJwfbuy76iWm7H8TND"
+      },
+      "artists": [
+        {
+          "name": "felhony",
+          "url": "https://open.spotify.com/artist/3E5iZBzhKO8WXDZzdTxE0m"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215111,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/6bK7TPUlA9TF2lkAAfOIeH"
     },
     {
       "album": {
@@ -12558,7 +12786,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 214497,
       "name": "Honest",
       "url": "https://open.spotify.com/track/4Ufb9S96GWmfV4yeoONO53"
@@ -12757,6 +12985,24 @@
     },
     {
       "album": {
+        "name": "Huling",
+        "url": "https://open.spotify.com/album/7ihfEUaZYuWWv7ADmeyJz3"
+      },
+      "artists": [
+        {
+          "name": "Nino Obenza",
+          "url": "https://open.spotify.com/artist/38iGiwGWAkgE2VnflabU7T"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205294,
+      "name": "Huling",
+      "url": "https://open.spotify.com/track/7IWWx54lOVrMpgOdC8TNIA"
+    },
+    {
+      "album": {
         "name": "Hundreds",
         "url": "https://open.spotify.com/album/3pPTgJ9H4v4T8745Gcf4Ai"
       },
@@ -12923,6 +13169,24 @@
     },
     {
       "album": {
+        "name": "I Got A Girlfriend!",
+        "url": "https://open.spotify.com/album/4HLj3KzdnSI4Q2QNCjHBiw"
+      },
+      "artists": [
+        {
+          "name": "Heshua",
+          "url": "https://open.spotify.com/artist/7hGE9MPTQkhxiDH0dS9qjA"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236712,
+      "name": "I Got A Girlfriend!",
+      "url": "https://open.spotify.com/track/1z1XNEvEotBBNiQ6DuUhsU"
+    },
+    {
+      "album": {
         "name": "I Guess It's Not Love",
         "url": "https://open.spotify.com/album/3MRI608gutePVIURol8O8D"
       },
@@ -13010,6 +13274,24 @@
       "duration_ms": 226963,
       "name": "I Just Wanna Be Alright",
       "url": "https://open.spotify.com/track/4M0XbikasZcceSnMs3YQT7"
+    },
+    {
+      "album": {
+        "name": "I Just Wanna Be Alright",
+        "url": "https://open.spotify.com/album/3G27KwUCxItEtdFPS2kKJI"
+      },
+      "artists": [
+        {
+          "name": "Yhuan",
+          "url": "https://open.spotify.com/artist/3Dw1lH0mmEb3kx6qJXEN53"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227166,
+      "name": "I Just Wanna Be Alright",
+      "url": "https://open.spotify.com/track/0Hhc9pLmYx7ybUM6QzMHSG"
     },
     {
       "album": {
@@ -14477,6 +14759,24 @@
     },
     {
       "album": {
+        "name": "Italy Freestyle",
+        "url": "https://open.spotify.com/album/3UHZVZkkkPnQuYiSrWvdqa"
+      },
+      "artists": [
+        {
+          "name": "Sin Santos",
+          "url": "https://open.spotify.com/artist/6ObY07YC4aESI52KJ16vQ5"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142371,
+      "name": "Italy Freestyle",
+      "url": "https://open.spotify.com/track/1JT3i2AeWfGnkQ45RuORad"
+    },
+    {
+      "album": {
         "name": "Ito ba ang Pag-Ibig",
         "url": "https://open.spotify.com/album/5OU6jszq5qMQsSuM6d4eyW"
       },
@@ -15930,7 +16230,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 185735,
       "name": "Kung Pwede Lang",
       "url": "https://open.spotify.com/track/5bMjwCHrTdpiLflklBuCV0"
@@ -15952,6 +16252,24 @@
       "duration_ms": 272214,
       "name": "Kung Pwede Lang",
       "url": "https://open.spotify.com/track/38C8wXuqpng6Z51AARFigB"
+    },
+    {
+      "album": {
+        "name": "Kung Sa Akin Ka",
+        "url": "https://open.spotify.com/album/27IFzWTB7Q3Q9C2dWU9L9A"
+      },
+      "artists": [
+        {
+          "name": "Sweet Patatas",
+          "url": "https://open.spotify.com/artist/6WcXIzk9DATDeru4Bm90uq"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360580,
+      "name": "Kung Sa Akin Ka",
+      "url": "https://open.spotify.com/track/5hqbDDwbWRTWECLTYocKnU"
     },
     {
       "album": {
@@ -16636,7 +16954,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 144000,
       "name": "LDR",
       "url": "https://open.spotify.com/track/6xL6P14g61GYDAdAypq9iJ"
@@ -17064,6 +17382,24 @@
       "duration_ms": 186815,
       "name": "Liham",
       "url": "https://open.spotify.com/track/5X95QhVjnVze08XVnjbKQA"
+    },
+    {
+      "album": {
+        "name": "LIHAM",
+        "url": "https://open.spotify.com/album/3xDCQRLv3fwoUB9gEsPLVx"
+      },
+      "artists": [
+        {
+          "name": "Marq Aljo",
+          "url": "https://open.spotify.com/artist/1Hp9XIpVkadYVZQ67rUbZj"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178327,
+      "name": "LIHAM",
+      "url": "https://open.spotify.com/track/052TjOn3gOFXYsRroele3u"
     },
     {
       "album": {
@@ -18784,7 +19120,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 214054,
       "name": "Manhid",
       "url": "https://open.spotify.com/track/3ZEizp0VRcawAyiOxsTslB"
@@ -19087,6 +19423,24 @@
     },
     {
       "album": {
+        "name": "Maulit Muli",
+        "url": "https://open.spotify.com/album/64oCEeEiNEeOEftpMh5mnG"
+      },
+      "artists": [
+        {
+          "name": "Poe",
+          "url": "https://open.spotify.com/artist/4CYoSJ9TgxdUibgs4RUFFR"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "Maulit Muli",
+      "url": "https://open.spotify.com/track/3IgTcbSFBfAhUOUtUaEULU"
+    },
+    {
+      "album": {
         "name": "may magagalit?",
         "url": "https://open.spotify.com/album/2sjRgfcDWheNgbPervazyN"
       },
@@ -19196,7 +19550,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 192451,
       "name": "Memorya",
       "url": "https://open.spotify.com/track/2O5xZNfGRvtxvoGKf14E8Y"
@@ -19428,6 +19782,42 @@
       "duration_ms": 324635,
       "name": "Minamahal Kita",
       "url": "https://open.spotify.com/track/1Tf8EhqixQPypLoOSVVrzA"
+    },
+    {
+      "album": {
+        "name": "minsan // madalas",
+        "url": "https://open.spotify.com/album/70hEsOrwJkDBMH38qnkiwS"
+      },
+      "artists": [
+        {
+          "name": "Fridge",
+          "url": "https://open.spotify.com/artist/05AnataZndSnQS30joEvuk"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215211,
+      "name": "minsan // madalas",
+      "url": "https://open.spotify.com/track/7cjxhNXY3FY2S24SK9OHUX"
+    },
+    {
+      "album": {
+        "name": "Minsan Lang",
+        "url": "https://open.spotify.com/album/3S2muSiVuN3w3RuuuGUSQZ"
+      },
+      "artists": [
+        {
+          "name": "K-Leb",
+          "url": "https://open.spotify.com/artist/4U3clCN7761fpD0czDpytx"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203385,
+      "name": "Minsan Lang",
+      "url": "https://open.spotify.com/track/2v1fUJ1XPNYoV4wHRbITgq"
     },
     {
       "album": {
@@ -19772,7 +20162,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 350955,
       "name": "Monster",
       "url": "https://open.spotify.com/track/4DV0r0U8ONIEBq8dlFTnBK"
@@ -20486,7 +20876,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 238620,
       "name": "Naku",
       "url": "https://open.spotify.com/track/5kI2bbRK6ekHl3qLjh3klB"
@@ -20544,6 +20934,28 @@
       "duration_ms": 235728,
       "name": "Nandiyan Ka Lang Pala",
       "url": "https://open.spotify.com/track/3HmCBj3fty1IyXiTiKr4mg"
+    },
+    {
+      "album": {
+        "name": "Nararamdaman",
+        "url": "https://open.spotify.com/album/3WDyjAPOsnwXJbgKVULPdy"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lacambacal",
+          "url": "https://open.spotify.com/artist/3wPfc9LxqTDNmgSgEo8lE2"
+        },
+        {
+          "name": "Pauline Cueto",
+          "url": "https://open.spotify.com/artist/16RosqrGJ7rbsUdDEgTmv8"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Nararamdaman",
+      "url": "https://open.spotify.com/track/5SSM3zgqGJAkX1jQZOvd6t"
     },
     {
       "album": {
@@ -21162,6 +21574,28 @@
       "duration_ms": 213577,
       "name": "No Way",
       "url": "https://open.spotify.com/track/4fT6TsqJuQcQvHSRKjLojz"
+    },
+    {
+      "album": {
+        "name": "nobdy",
+        "url": "https://open.spotify.com/album/67WU2YsKIGEa5UmY0QGprV"
+      },
+      "artists": [
+        {
+          "name": "P4bl0",
+          "url": "https://open.spotify.com/artist/0xh04KMHGerrwFTxxdLs4V"
+        },
+        {
+          "name": "Zp3nd",
+          "url": "https://open.spotify.com/artist/5VLDBW6i2VuVtHKBMys58S"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129522,
+      "name": "nobdy",
+      "url": "https://open.spotify.com/track/3jMeF4XRNKppt4Wjz7lhqT"
     },
     {
       "album": {
@@ -21835,6 +22269,24 @@
     },
     {
       "album": {
+        "name": "Oras",
+        "url": "https://open.spotify.com/album/6HgVZ7lp3q6J2tTABVAZTe"
+      },
+      "artists": [
+        {
+          "name": "Sean Andrae",
+          "url": "https://open.spotify.com/artist/3wcoOSFXygwGD05qWTTFcj"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208701,
+      "name": "Oras",
+      "url": "https://open.spotify.com/track/5cpmvo8dVMiXQigbMm4U0e"
+    },
+    {
+      "album": {
         "name": "ORASAN",
         "url": "https://open.spotify.com/album/1CqKODkg4Oyw0o8OBmkfnI"
       },
@@ -22056,6 +22508,24 @@
       "duration_ms": 194913,
       "name": "Over Time (for you, my heart)",
       "url": "https://open.spotify.com/track/02v8Dlb1prgEh9V2Hr5Fp9"
+    },
+    {
+      "album": {
+        "name": "overpour",
+        "url": "https://open.spotify.com/album/4eKPpMcTekzgvIOFB3cjN8"
+      },
+      "artists": [
+        {
+          "name": "Annie Lux",
+          "url": "https://open.spotify.com/artist/54vSGePBrdJojNSXh13DwN"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156102,
+      "name": "overpour",
+      "url": "https://open.spotify.com/track/0baj7qfpm4JPLtOK5rvX3q"
     },
     {
       "album": {
@@ -22760,7 +23230,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 301158,
       "name": "Palayo Sa Daigdig",
       "url": "https://open.spotify.com/track/0yHbqJmOQZcn8pU5PVUMhY"
@@ -23766,7 +24236,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 220185,
       "name": "Peakin'",
       "url": "https://open.spotify.com/track/6cqLnnOGudbQwDkuZmnUOj"
@@ -24246,7 +24716,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 180386,
       "name": "pluggnb drill",
       "url": "https://open.spotify.com/track/1gJ2hfLH5xXAZ2tguMzZFl"
@@ -25112,7 +25582,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 174285,
       "name": "Rest My Case",
       "url": "https://open.spotify.com/track/0T49tYHlwfuyQRgBdM92kV"
@@ -25873,6 +26343,24 @@
     },
     {
       "album": {
+        "name": "Sa'yo",
+        "url": "https://open.spotify.com/album/33ggyx0NgOGNgLo1NzNNzg"
+      },
+      "artists": [
+        {
+          "name": "Starlight Replica",
+          "url": "https://open.spotify.com/artist/2AbaEhL8UZoeSn4KbsXkjB"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237913,
+      "name": "Sa'yo",
+      "url": "https://open.spotify.com/track/2UrwUn5ps7zMCA1hvkg1a3"
+    },
+    {
+      "album": {
         "name": "Sa'yo Lamang",
         "url": "https://open.spotify.com/album/7783sfLwZZlxEUOhSx8uSQ"
       },
@@ -26236,7 +26724,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 222219,
       "name": "Salamat, Panginoon.",
       "url": "https://open.spotify.com/track/2wVvzrl5udnrvBo9t2G8zt"
@@ -27490,7 +27978,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 233500,
       "name": "Siyam Na Buwan",
       "url": "https://open.spotify.com/track/7MEku37VHucrM79mTBKc12"
@@ -27903,6 +28391,24 @@
     },
     {
       "album": {
+        "name": "Southbound",
+        "url": "https://open.spotify.com/album/4jYdG3csDF4HY6Ts4Deasv"
+      },
+      "artists": [
+        {
+          "name": "Erik Villanueva",
+          "url": "https://open.spotify.com/artist/4cWuxVZWKH9jPX74eYip2E"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Southbound",
+      "url": "https://open.spotify.com/track/2AxRv1cbeFnOZ6yrJ6tGSe"
+    },
+    {
+      "album": {
         "name": "Soy-Sauced Lovers",
         "url": "https://open.spotify.com/album/2NfWclHl5YkNbxPZ4GiPmu"
       },
@@ -28255,6 +28761,28 @@
     },
     {
       "album": {
+        "name": "stay with me",
+        "url": "https://open.spotify.com/album/0k2ZwkOl2VMR6372fIY3fU"
+      },
+      "artists": [
+        {
+          "name": "Louise Laurel",
+          "url": "https://open.spotify.com/artist/0SJZewYE7KVefeZBHRgnEf"
+        },
+        {
+          "name": "$ho",
+          "url": "https://open.spotify.com/artist/1w41hM9l4cPa1Q6025rELB"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185201,
+      "name": "stay with me",
+      "url": "https://open.spotify.com/track/1TYJxIYJlP7gPJ7LJ3lq1l"
+    },
+    {
+      "album": {
         "name": "Steady",
         "url": "https://open.spotify.com/album/6siRdYtpNuLsdEn2AV8VH5"
       },
@@ -28364,7 +28892,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 197647,
       "name": "Strawberry Sundae",
       "url": "https://open.spotify.com/track/6PM8LzFgpLxhewpZuQTnWQ"
@@ -29723,6 +30251,24 @@
     },
     {
       "album": {
+        "name": "Tayong Dalawa",
+        "url": "https://open.spotify.com/album/54uw6K5HhXB4q6fiMprggu"
+      },
+      "artists": [
+        {
+          "name": "maeve",
+          "url": "https://open.spotify.com/artist/0EZRbA37wE7AlWqa8HBHn2"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224160,
+      "name": "Tayong Dalawa",
+      "url": "https://open.spotify.com/track/05IsVVlCPLOL7veWrSlc0s"
+    },
+    {
+      "album": {
         "name": "Teka Lang",
         "url": "https://open.spotify.com/album/1pIEP9m9NyP1oLZBfgXqOt"
       },
@@ -29938,7 +30484,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 305554,
       "name": "The Bible Song",
       "url": "https://open.spotify.com/track/0qBUmDHR0UxAm9bZS68KDA"
@@ -30312,6 +30858,24 @@
       "duration_ms": 206376,
       "name": "Time Heals",
       "url": "https://open.spotify.com/track/5VQEhp2WjKotdPL1vL1omg"
+    },
+    {
+      "album": {
+        "name": "Timebomb",
+        "url": "https://open.spotify.com/album/2YbOHk2zulhlGDIeneD7WA"
+      },
+      "artists": [
+        {
+          "name": "YP",
+          "url": "https://open.spotify.com/artist/317sYdaoNPU4HAZMiUArvF"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Timebomb",
+      "url": "https://open.spotify.com/track/4znEga0O1gzb2xjDg7DYMb"
     },
     {
       "album": {
@@ -31052,7 +31616,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 188687,
       "name": "twenty seven",
       "url": "https://open.spotify.com/track/4cehvQNMmaxaepbBLUTYRP"
@@ -32069,6 +32633,24 @@
     },
     {
       "album": {
+        "name": "Wait Lang",
+        "url": "https://open.spotify.com/album/2X1C0SC0jvhtOpPrljKSu7"
+      },
+      "artists": [
+        {
+          "name": "Elton Clark",
+          "url": "https://open.spotify.com/artist/7DCpfcT30flUpKkII1DTqL"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190933,
+      "name": "Wait Lang",
+      "url": "https://open.spotify.com/track/1szOnmPQ7iWkTJARdFh99D"
+    },
+    {
+      "album": {
         "name": "Wala Na",
         "url": "https://open.spotify.com/album/4WSFYzT3gaRgQ4XvUvTfEY"
       },
@@ -32242,7 +32824,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 180518,
       "name": "Walang Kaso",
       "url": "https://open.spotify.com/track/5kEhKA5walcIESjTbWEV7Y"
@@ -32564,7 +33146,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 162000,
       "name": "we were getting pretty blurry",
       "url": "https://open.spotify.com/track/519FD1iPWgc792wfiNHfeE"
@@ -32782,7 +33364,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 178983,
       "name": "Whenever",
       "url": "https://open.spotify.com/track/7eGGpCULYU8fpV2uGGaaDO"
@@ -32858,7 +33440,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 266000,
       "name": "Where To Go From Here",
       "url": "https://open.spotify.com/track/7rG607w49toMv5X03eLFKX"
@@ -32916,6 +33498,28 @@
       "duration_ms": 175786,
       "name": "Why",
       "url": "https://open.spotify.com/track/4SesSGKwB589XJGeB6BJWH"
+    },
+    {
+      "album": {
+        "name": "why bother",
+        "url": "https://open.spotify.com/album/3NlZ3rvwx1Gh4qkEONk8dT"
+      },
+      "artists": [
+        {
+          "name": "sxber",
+          "url": "https://open.spotify.com/artist/5Xb3coCF1TSOuJkZMJqdz2"
+        },
+        {
+          "name": "maki!",
+          "url": "https://open.spotify.com/artist/6HgKaNv80DxlvjhSMoerAJ"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130961,
+      "name": "why bother",
+      "url": "https://open.spotify.com/track/12V9FeMDFkEoMwlzsjp6oc"
     },
     {
       "album": {
@@ -33612,7 +34216,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 192631,
       "name": "You'll Be Known",
       "url": "https://open.spotify.com/track/61D1GuCGTVoX5wJXYZ7jhH"

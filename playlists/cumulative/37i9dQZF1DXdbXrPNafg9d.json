@@ -50348,7 +50348,7 @@
     {
       "album": {
         "name": "INFATUATION",
-        "url": "https://open.spotify.com/album/40UdPGBdQ0C2Yv26AkAJNe"
+        "url": "https://open.spotify.com/album/1F0Rb7AUH5yMbLtIEdiNeL"
       },
       "artists": [
         {
@@ -50359,6 +50359,24 @@
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 122158,
+      "name": "INFATUATION",
+      "url": "https://open.spotify.com/track/01ohSXFsSpf2tv0obiygSQ"
+    },
+    {
+      "album": {
+        "name": "INFATUATION",
+        "url": "https://open.spotify.com/album/40UdPGBdQ0C2Yv26AkAJNe"
+      },
+      "artists": [
+        {
+          "name": "Black Hibiscus",
+          "url": "https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-13",
       "duration_ms": 122158,
       "name": "INFATUATION",
       "url": "https://open.spotify.com/track/3utAfd1gVKucJ8u9fABRaI"
@@ -86716,7 +86734,7 @@
     {
       "album": {
         "name": "So Free So Lonely",
-        "url": "https://open.spotify.com/album/3N4GBkPn1MmjSQcjeJOHFJ"
+        "url": "https://open.spotify.com/album/4ucJg25t2uOgZ2GC3fm8XZ"
       },
       "artists": [
         {
@@ -86727,6 +86745,24 @@
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192499,
+      "name": "So Free So Lonely",
+      "url": "https://open.spotify.com/track/3zbnvBAEG5PSeACvYaafMU"
+    },
+    {
+      "album": {
+        "name": "So Free So Lonely",
+        "url": "https://open.spotify.com/album/3N4GBkPn1MmjSQcjeJOHFJ"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-13",
       "duration_ms": 192499,
       "name": "So Free So Lonely",
       "url": "https://open.spotify.com/track/4q7ElQxJQFArqpl8Kw7Zrm"

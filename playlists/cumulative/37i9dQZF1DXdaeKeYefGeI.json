@@ -639,6 +639,28 @@
     },
     {
       "album": {
+        "name": "Dorp Van Hop En Van Mout",
+        "url": "https://open.spotify.com/album/4ZlSQQ2ZKjcN5tQ3sU1pDm"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        },
+        {
+          "name": "De Troubadours",
+          "url": "https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292974,
+      "name": "Dorp Van Hop En Van Mout",
+      "url": "https://open.spotify.com/track/0LIjzIgfv2K3zanAiJgNKc"
+    },
+    {
+      "album": {
         "name": "Elke Seconde",
         "url": "https://open.spotify.com/album/4i6m3BW07pUoAuWd4IFP4c"
       },
@@ -740,10 +762,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 263466,
       "name": "Geen Kind Meer",
       "url": "https://open.spotify.com/track/4ZMBna8ky5JR1gocyYCiML"
+    },
+    {
+      "album": {
+        "name": "Kameleon",
+        "url": "https://open.spotify.com/album/2BXUEUcVn8LbeQRh18aQfY"
+      },
+      "artists": [
+        {
+          "name": "Karin Bloemen",
+          "url": "https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263466,
+      "name": "Geen Kind Meer",
+      "url": "https://open.spotify.com/track/50icYQNGHdT8wLoIbMEpix"
     },
     {
       "album": {
@@ -1814,7 +1854,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 233262,
       "name": "Stap Voor Stap",
       "url": "https://open.spotify.com/track/6x8y52msTAuUrGpXjkrYKG"
@@ -2310,6 +2350,24 @@
       "duration_ms": 237666,
       "name": "Zonder Jou",
       "url": "https://open.spotify.com/track/4xPkcG6Efkn22baq0kJmQo"
+    },
+    {
+      "album": {
+        "name": "Zwitserland",
+        "url": "https://open.spotify.com/album/59mqhbdApjpWnVC4dP5zbM"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Struijk",
+          "url": "https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212575,
+      "name": "Zwitserland",
+      "url": "https://open.spotify.com/track/47Be1HFZ32kqP6jj4yRpIi"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdaeKeYefGeI"

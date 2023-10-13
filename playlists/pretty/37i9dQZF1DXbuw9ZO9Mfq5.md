@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 
 > Nominated songs & artists for the 54th Annual GMA <a href="https://doveawards.com/">Dove Awards.</a> Tune in to the awards on Friday, 10/20/23 at 8 pm and 10 pm ET exclusively on TBN & the TBN app! Cover: Host <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,575 likes - 70 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,597 likes - 70 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 14 | [Jireh \(My Provider\)](https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Jireh \(My Provider\)](https://open.spotify.com/album/4CsmgXl5bQQWHubJdZvNgW) | 2:48 |
 | 15 | [SPIN BACK!](https://open.spotify.com/track/5td2JvO9vGsPANQmafsXsj) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [SPIN BACK!](https://open.spotify.com/album/4mnrj37PQcuWiYfzjiJCX3) | 2:02 |
 | 16 | [The Lows](https://open.spotify.com/track/7h0bST38vPZD0kC2Tw8byH) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 2:55 |
-| 17 | [Goodbye Ole Me](https://open.spotify.com/track/0INmfgwSQHFbkvTBdlyAgU) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc) | 2:01 |
+| 17 | [Goodbye Ole Me](https://open.spotify.com/track/1bw0pKdQVY17dmevzVioKY) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj) | 2:01 |
 | 18 | [Promise to Live](https://open.spotify.com/track/2gRFslKJg5xGMJYsh81TbB) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Skeleton Psalms](https://open.spotify.com/album/7Gwi1nBnbHPcsTMu12IUfx) | 4:53 |
 | 19 | [Brother Jack](https://open.spotify.com/track/6YADY7Gg8saWlsAyFxYTP9) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [The Consequence Of Being Alive](https://open.spotify.com/album/18lesZi0aFfIUMClfCK1l7) | 3:08 |
 | 20 | [Psycho In My Head](https://open.spotify.com/track/1iz2f0zevj8H2lPVdWu4NG) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Psycho In My Head \(Live\)](https://open.spotify.com/album/3t5cIJkK7eq40hAmhOEIB2) | 3:17 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 69 | [The Fruit Of The Spirit](https://open.spotify.com/track/4V3umDvc5BzgSqiYeCe02c) | [Worship Together Kids](https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4) | [Songs Of The Bible II](https://open.spotify.com/album/4JhQYQroSKKy4o3qAEogJK) | 2:02 |
 | 70 | [Savior of All](https://open.spotify.com/track/5ojrWhngSc3A8Wf5ClrZmS) | [PJ Anderson](https://open.spotify.com/artist/26At9viOA8zaXaUgwISznQ) | [Savior of All](https://open.spotify.com/album/5OGlSZRJ0pq1C0VIYaUiBl) | 3:30 |
 
-Snapshot ID: `MCwwZDYyNmM2MzM5NjcwYzIxMTk2ZTMzMzVhZjA5ZjBlN2QzY2E4ZWZm`
+Snapshot ID: `MCw2NTY1NTI2NWNjODhiNzFlYjc5M2RlMzk2MzU1ZWVhMDJmMTRhMWY2`

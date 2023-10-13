@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Vaundy
 
-1,053 songs - 2 day 17 hr 37 min
+1,054 songs - 2 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Greatest Journey](https://open.spotify.com/track/7FaArVLHS3aEqfhAishhk7) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Greatest Journey](https://open.spotify.com/album/0QbN68y6D0WCViH0iiDlQ5) | 2:58 | 2022-08-14 | 2022-09-19 |
 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 | 2023-07-02 | 2023-08-07 |
 | [Habit](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Habit](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) | 4:13 | 2022-05-01 | 2023-02-06 |
+| [Hana](https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hana](https://open.spotify.com/album/0v6vQ9tMopUTccn0wUvzQD) | 4:06 | 2023-10-13 |  |
 | [Hanaarashi](https://open.spotify.com/track/7appEyBT2D7skgWyyb5klH) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Hanaarashi](https://open.spotify.com/album/1txQrmehD3TKMQ8a5SQrbv) | 3:43 | 2023-10-08 |  |
 | [Happy Ending](https://open.spotify.com/track/3b2BqLB9U3PNdMhcGq8pOR) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Happy Ending](https://open.spotify.com/album/0dSDXhmYL9VjTIj9PMn1ny) | 3:49 | 2023-06-18 | 2023-07-17 |
 | [Happy Sad](https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Happy Sad](https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ) | 2:50 | 2022-05-01 | 2022-05-08 |
@@ -600,7 +601,7 @@
 | [With Us](https://open.spotify.com/track/3V3qaACLm2qFCvYZ1amkco) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [With Us](https://open.spotify.com/album/0JmNrJnN3y0CfwpMnoYMrE) | 3:10 | 2022-05-08 | 2022-05-16 |
 | [Wonderful Life](https://open.spotify.com/track/5YlVrcpa4RUtZVapiatmIN) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [SURF & TURF](https://open.spotify.com/album/3JQPj1uNk62oTh8oB1qsNQ) | 3:03 | 2023-06-25 | 2023-07-10 |
 | [Wonderland](https://open.spotify.com/track/56axXmCSalRuKYgDXWzDW4) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Wonderland](https://open.spotify.com/album/4L1SQvuU3XLhaZAJQYyHo8) | 3:18 | 2023-02-26 | 2023-03-13 |
-| [Workin' Hard](https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Workin' Hard](https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt) | 3:59 | 2023-08-27 |  |
+| [Workin' Hard](https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Workin' Hard](https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt) | 3:59 | 2023-08-27 | 2023-10-13 |
 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-07-02 | 2023-07-17 |
 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-04-02 | 2023-08-14 |
 | [Yae](https://open.spotify.com/track/6GcVf0wzXw0F1WQx5xXHbb) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [HANAYODO \-flower and dust\-](https://open.spotify.com/album/2L8zOjcxhs8D7w04N9XIDe) | 4:21 | 2023-04-09 | 2023-04-24 |

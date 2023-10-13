@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Masdo, Aisyah Aziz
 
-313 songs - 19 hr 48 min
+314 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Khilaf Asmara](https://open.spotify.com/track/5ubqF9AMFQ0iU7dUnKi5Hs) | [Shila Amzah](https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X) | [Khilaf Asmara](https://open.spotify.com/album/7x3XbkqzFCKljhqwyyAX11) | 3:54 | 2022-06-08 | 2022-09-01 |
 | [Kisah Sempurna](https://open.spotify.com/track/6gB7kLGZNkf5tkvWkzSGKR) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Kisah Sempurna](https://open.spotify.com/album/39fz0raJs02USfEzd71c8b) | 4:36 | 2022-05-25 | 2023-07-26 |
 | [Kita Ditakdirkan Jatuh Cinta](https://open.spotify.com/track/6hiwvUonVohLBioSRNBy0A) | [Fieya Julia](https://open.spotify.com/artist/568FFnkRaJ2ZotzzrffSyW), [Luqman Faiz](https://open.spotify.com/artist/2ZhUfT19cZKRi7sayQcEZH) | [Kita Ditakdirkan Jatuh Cinta](https://open.spotify.com/album/5tZENpgh0DwkwThGyY394c) | 4:29 | 2023-07-05 | 2023-07-26 |
-| [Komang](https://open.spotify.com/track/2AaaE0qvFWtyT8srKNfRhH) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/2N8JUijzZsT2IJnplY4vAE) | 3:42 | 2023-03-01 |  |
+| [Komang](https://open.spotify.com/track/2AaaE0qvFWtyT8srKNfRhH) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/2N8JUijzZsT2IJnplY4vAE) | 3:42 | 2023-03-01 | 2023-10-13 |
 | [Kong Kali Kong](https://open.spotify.com/track/3ZSMdkjrxvB6fY3eBdS38i) | [Floor 88](https://open.spotify.com/artist/4QwvHvUlOSlPvxH7ldeEvD), [Namiey](https://open.spotify.com/artist/1o8u7FWcdL5S8upSWJNoNw) | [Kong Kali Kong](https://open.spotify.com/album/7cIbMGFQcsAaURdaNGyE0L) | 3:18 | 2022-11-02 | 2022-12-22 |
 | [Kopi Sepi](https://open.spotify.com/track/36v2Nx5shbMJwFiTEig9Nc) | [Aiman Sidek](https://open.spotify.com/artist/1povjOYaWAzxgLchIrhKtM) | [Kopi Sepi](https://open.spotify.com/album/0EP1K4z5uyenKCDYs1Nu93) | 4:02 | 2022-10-05 | 2022-11-03 |
 | [Ku Lamar Dia](https://open.spotify.com/track/2BQVAvekyCpR2UD4IfySnq) | [Rizal Rasid](https://open.spotify.com/artist/0N5dq4m7PRgUGNGdOtuGh8) | [Ku Lamar Dia](https://open.spotify.com/album/2NxMQ93bNHEXz3tHWzbU7i) | 4:01 | 2023-07-19 | 2023-08-10 |
@@ -170,6 +170,7 @@
 | [LUKAKU \(feat\. Quai\)](https://open.spotify.com/track/1sAKfmljlUdzXAQWVaZrQu) | [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV), [Quai](https://open.spotify.com/artist/1clik527FuABFJlnXLAq4c) | [LUKAKU \(feat\. Quai\)](https://open.spotify.com/album/4HrkoTSYeJ6xigRys3tGV5) | 3:46 | 2022-10-20 | 2022-12-15 |
 | [Lupakan Cinta](https://open.spotify.com/track/4QhfKUW0Qn1W4nCfnjptw7) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 3:48 | 2023-02-16 | 2023-03-09 |
 | [Mainan](https://open.spotify.com/track/22kK0vT2SplI4UhEaC828t) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO) | [Mainan](https://open.spotify.com/album/6dPgorGiH8T02YZfFoqvwm) | 3:54 | 2022-05-25 | 2022-08-11 |
+| [MAJAL](https://open.spotify.com/track/2Pbyp4hWzGILfOe8L7ol7C) | [Swanz](https://open.spotify.com/artist/3Azc9GjO06m477OscwDHkZ), [ASMAI](https://open.spotify.com/artist/7nYdWVbFI4ZwjInvOwsG5e) | [MAJAL](https://open.spotify.com/album/3GQDvnnYHG85S7P5SWz9VX) | 3:42 | 2023-10-12 |  |
 | [Malam Semakin Dingin](https://open.spotify.com/track/5ChJqcOG8z9NgSlFwmfYql) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Malam Semakin Dingin](https://open.spotify.com/album/5f0mJV2GE6xbYVyRm3nowB) | 4:42 | 2022-05-25 | 2023-01-12 |
 | [Malampagi](https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy) | [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ) | [Malampagi](https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO) | 4:06 | 2023-06-07 |  |
 | [Mandrem](https://open.spotify.com/track/779zDIMn5tmn8mq3e0GTpu) | [Tomok](https://open.spotify.com/artist/0KO2CkZIpSmEsBDkITCAnl) | [Mandrem](https://open.spotify.com/album/2sU2zcfZTeHoWZ03ClnH1h) | 3:45 | 2022-11-16 | 2022-12-15 |

@@ -4,7 +4,7 @@
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=GnO1OB\_6S\_6kZLJF\-0n5sQ">Jemma Catherine</a>
 
-350 songs - 20 hr 48 min
+352 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [CONCIOUS IS A FOX](https://open.spotify.com/track/0h2uflPrk8v5cGFToZsPac) | [CLUB VALLEY](https://open.spotify.com/artist/0QA1gqKpLcVh4poXeglSHn) | [INFINITE PROPORTIONS EP](https://open.spotify.com/album/5ddIYNdWTFkM1hN2LsU8lt) | 3:41 | 2023-04-20 | 2023-06-23 |
 | [Constellations](https://open.spotify.com/track/2N0OwIqsXpeV4IGvOBUyhD) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Constellations](https://open.spotify.com/album/0xNIlmXdBcqH3fjRNSNaNs) | 2:52 | 2023-06-22 | 2023-09-29 |
 | [Contagious](https://open.spotify.com/track/5JtXQeRS0pznrpwKWRHmk3) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Contagious](https://open.spotify.com/album/0JBFWuICgQnyvb6rjDsA0d) | 3:12 | 2023-08-31 |  |
-| [Control](https://open.spotify.com/track/0NsxWoR74hCj9KTYB70o4r) | [Toughguy](https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK) | [Control](https://open.spotify.com/album/5UJLHNTrNAzal68QU0xZXB) | 3:26 | 2023-08-11 |  |
+| [Control](https://open.spotify.com/track/0NsxWoR74hCj9KTYB70o4r) | [Toughguy](https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK) | [Control](https://open.spotify.com/album/5UJLHNTrNAzal68QU0xZXB) | 3:26 | 2023-08-11 | 2023-10-13 |
 | [Count the Days \(Count the Nights\)](https://open.spotify.com/track/60knTkjc5HZHkPVQjq3JMO) | [Zayn Adams](https://open.spotify.com/artist/3CJMRrR9xQ11XG7RFUWOfd), [Tully Mc Cully](https://open.spotify.com/artist/3zfnLnN1wMxn2av8BygIQJ) | [Count the Days \(2021\)](https://open.spotify.com/album/1IHFQbyWTiJ3krUJRUCdyq) | 3:19 | 2021-10-14 | 2022-02-18 |
 | [Country in Me](https://open.spotify.com/track/5s0aFRBOpQzWBivW8EHiZK) | [Jono Grayson](https://open.spotify.com/artist/2A91hKSHbGC0awW297Plqi) | [Country in Me](https://open.spotify.com/album/14TyyqNVDqZ7i1X60CNE0J) | 2:30 | 2022-02-03 | 2022-09-03 |
 | [Crazy Meisie](https://open.spotify.com/track/34oEkwMsB3u6JnyI8JlZm3) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Crazy Meisie](https://open.spotify.com/album/4ArWlcEJMCqRt5CIWNX8hU) | 3:00 | 2023-04-14 | 2023-06-02 |
@@ -143,6 +143,7 @@
 | [Hey Jy](https://open.spotify.com/track/77YX4Et5rOuvhQqG7RLUfe) | [SAKKIE](https://open.spotify.com/artist/5Yktx2wffJlILfJSpoISRR), [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Hey Jy](https://open.spotify.com/album/18kpyRiXNAOEuTfRRks6xM) | 2:39 | 2023-03-16 | 2023-07-14 |
 | [Hoer In Beton](https://open.spotify.com/track/4fnZUb6KEtgcGIx3eWgJi0) | [Millennium](https://open.spotify.com/artist/3GhHWHWIAs0uWCawtI3v4t), [Koos Kombuis](https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ) | [Hoer In Beton](https://open.spotify.com/album/6NwMydQDPSmxYq4OgZ9uPh) | 4:40 | 2023-03-02 | 2023-03-04 |
 | [Hoer In Beton](https://open.spotify.com/track/7wCIoRoxOnYx7DTUUfbOYy) | [Millennium](https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw), [Koos Kombuis](https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ) | [Hoer In Beton](https://open.spotify.com/album/6wTcDkkteYS8r3S7WEvIHn) | 4:40 | 2023-03-02 |  |
+| [Hold Back The River](https://open.spotify.com/track/50iOr6N8l3xmJqKhF80apP) | [Jon Savage](https://open.spotify.com/artist/0ugtV6ddeZpZcziSYgGztY) | [Hold Back The River](https://open.spotify.com/album/0GsUUoZHzXm7mT86HWtKCw) | 4:03 | 2023-10-12 |  |
 | [Hold On](https://open.spotify.com/track/31oIFvE1Vc8wnKqPyRdIgu) | [Jonny and the Fellow Revellers](https://open.spotify.com/artist/07WFFoO9ByGnuhq4c8dwH8) | [Hold On](https://open.spotify.com/album/7dH1gsdcvGYlURx0XWzbiR) | 3:36 | 2023-03-30 | 2023-06-02 |
 | [Hold You](https://open.spotify.com/track/2em2HgEcpE1OAJevg8suiw) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Hold You](https://open.spotify.com/album/7eHKq7xyL3UBRP0hwPUGq1) | 4:05 | 2023-08-31 |  |
 | [Hollow](https://open.spotify.com/track/629X30psE0HDVwMflpkOKm) | [Soul Suture](https://open.spotify.com/artist/1GKLeylQc3yEtf4ulo0fmA), [Fred Honig](https://open.spotify.com/artist/3BJIJ0jOquRFcoRJn5yPAf) | [The Art of Escape / The Escape of Art](https://open.spotify.com/album/3IdU7v0EYjbZgfztsrZCKl) | 4:03 | 2021-09-02 | 2022-03-18 |
@@ -162,6 +163,7 @@
 | [In Stereo](https://open.spotify.com/track/64ngTG7lCggnvgOk6ZpFXZ) | [Liberty Down](https://open.spotify.com/artist/5G3sIpOn5aW0SkDwTSupj9) | [In Stereo](https://open.spotify.com/album/3676QgP6dh5qrUWUJ3yARp) | 4:01 | 2023-06-08 | 2023-08-05 |
 | [IN TIME](https://open.spotify.com/track/6y7Y65Klj3xweqD4aGMJeC) | [FAXXON](https://open.spotify.com/artist/09g0uGvlDQ3TmMnZgjl4rf) | [IN TIME](https://open.spotify.com/album/4ARwLOhAqcNho5PfqJt9wl) | 2:43 | 2023-02-02 | 2023-04-28 |
 | [Invisible Visitor](https://open.spotify.com/track/4NjEqKPBOXbKI88kdDPA9s) | [Far from Who We Are](https://open.spotify.com/artist/5942rdEHlZewFlsd3ThJvO) | [Invisible Visitor](https://open.spotify.com/album/5rMsebBa22S17tSHVcgUGP) | 3:51 | 2021-11-11 | 2022-03-25 |
+| [Invisible Walls](https://open.spotify.com/track/1eQRPJcdoX8D4nbnxPlJX1) | [West Coast Wolves](https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY) | [Invisible Walls](https://open.spotify.com/album/74hEUTUDoPPxa5HP2DcTT7) | 3:23 | 2023-10-12 |  |
 | [It's Hard](https://open.spotify.com/track/3EngfC1jCb8CtLQK1eWiWj) | [No Handshake](https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk) | [It's Hard](https://open.spotify.com/album/1v8tCzFlpw6f2VRAj6xgVM) | 3:06 | 2021-09-02 | 2022-04-01 |
 | [Jou Skoene](https://open.spotify.com/track/7FHRJmJRWB3qjUsn4B65HM) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Jou Skoene](https://open.spotify.com/album/3uduux6dMKTobDSo6e6DAG) | 3:36 | 2023-02-09 | 2023-04-22 |
 | [Just One Hit](https://open.spotify.com/track/3tUmY7VsbEvM7YxcYB4t4R) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [Just One Hit](https://open.spotify.com/album/4soy6XuqH6x8XnWT9YrjOs) | 4:04 | 2023-06-15 | 2023-08-25 |
@@ -229,7 +231,7 @@
 | [Outcasts](https://open.spotify.com/track/38WBPi8N2uLBIA03sU0vea) | [Cindy\-Louise](https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD), [Erick Gerber](https://open.spotify.com/artist/4EPvmo3SCToxenG4mQfhcc) | [Outcasts](https://open.spotify.com/album/1WJEMPcD7KGqkJrSzmgTdD) | 3:09 | 2023-08-04 |  |
 | [Outer Space](https://open.spotify.com/track/0DWkbxfSqGNmHaEuqlR3wU) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Outer Space](https://open.spotify.com/album/5LsVvRpDG6HIju5gZK1gRe) | 4:00 | 2022-02-17 | 2022-08-05 |
 | [Overkill](https://open.spotify.com/track/6Pnoo2W3kHr11N0Eb4YEqg) | [Parable Fifteen](https://open.spotify.com/artist/0nIR1lnY2FD8JAaKcmmV1Z) | [Within the Margin of Error](https://open.spotify.com/album/5qhaaBLxoGO2D7Gi4Rd6Dr) | 3:14 | 2023-01-12 | 2023-03-25 |
-| [Overkill \- Radio Edit](https://open.spotify.com/track/3oM6PSeSJrTvfs3XLW9U7I) | [Parable Fifteen](https://open.spotify.com/artist/0nIR1lnY2FD8JAaKcmmV1Z) | [Overkill](https://open.spotify.com/album/1h5HVObZMAqciIqwZXKAIi) | 2:59 | 2023-08-24 |  |
+| [Overkill \- Radio Edit](https://open.spotify.com/track/3oM6PSeSJrTvfs3XLW9U7I) | [Parable Fifteen](https://open.spotify.com/artist/0nIR1lnY2FD8JAaKcmmV1Z) | [Overkill](https://open.spotify.com/album/1h5HVObZMAqciIqwZXKAIi) | 2:59 | 2023-08-24 | 2023-10-13 |
 | [OVERTHINKING](https://open.spotify.com/track/4hZR6HRe5UnXs5CqdIjIen) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Christian James](https://open.spotify.com/artist/3vIPpGcOC1CWD5MVg9xX8x) | [OVERTHINKING](https://open.spotify.com/album/5N6VbOBsJUIaMlihQn6S5M) | 1:48 | 2022-05-26 | 2022-12-16 |
 | [Parasite](https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Distopia](https://open.spotify.com/album/1D37tFbgePiH2NuBrzOAm9) | 3:33 | 2022-10-06 | 2022-12-16 |
 | [Parasite](https://open.spotify.com/track/30QoZ68McWKW7jNcznqYAc) | [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Parasite](https://open.spotify.com/album/03kcrEFLCsPQ5pnev44X5S) | 2:42 | 2022-03-18 | 2022-08-05 |

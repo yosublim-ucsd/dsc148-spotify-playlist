@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Bahebak",
+        "url": "https://open.spotify.com/album/6lGfM6xAHxoqCCthpYMsk0"
+      },
+      "artists": [
+        {
+          "name": "Azeem",
+          "url": "https://open.spotify.com/artist/1C7GlEj3ifjU7NbXTgV2sN"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182817,
+      "name": "Bahebak",
+      "url": "https://open.spotify.com/track/3H4aKXzXM8UrgcueXfGSLV"
+    },
+    {
+      "album": {
         "name": "Balaleen",
         "url": "https://open.spotify.com/album/37UynY0uK4f0M9tRKcfubi"
       },
@@ -4254,7 +4272,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 187500,
       "name": "Hawwa",
       "url": "https://open.spotify.com/track/1y3sV7iuYh4RYZcCvHuVMQ"

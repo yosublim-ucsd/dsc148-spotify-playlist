@@ -4,7 +4,7 @@
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-145 songs - 7 hr 14 min
+146 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Amor Falso](https://open.spotify.com/track/1n36knZX4bQ6FvcNEISVe9) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Amor Falso](https://open.spotify.com/album/0PmAoUGCiwmbjnaOaG3OCU) | 2:56 | 2022-02-18 | 2022-07-29 |
 | [Ao Vivo E A Cores](https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Ao Vivo E A Cores](https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo) | 3:00 | 2022-02-18 |  |
 | [Apaixonadinha \- Ao Vivo](https://open.spotify.com/track/0rUL7vUZmCKxB0gS83W3aM) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Didá Banda Feminina](https://open.spotify.com/artist/1XggRlhdW70SWvKflaZUEI) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 3:00 | 2022-02-18 |  |
-| [Aquele 1%](https://open.spotify.com/track/3m8Ndnhd8u1VuSlu75hy7D) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Acústico \- Tão Feliz \(Deluxe\)](https://open.spotify.com/album/5zIF8gOoLkPouCjxiJJS9O) | 2:56 | 2022-03-24 |  |
+| [Aquele 1%](https://open.spotify.com/track/3m8Ndnhd8u1VuSlu75hy7D) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Acústico \- Tão Feliz \(Deluxe\)](https://open.spotify.com/album/5zIF8gOoLkPouCjxiJJS9O) | 2:56 | 2022-03-24 | 2023-10-13 |
 | [Aquele 1% \- Ao Vivo](https://open.spotify.com/track/62LiYpeFoJaixqkaNRGg47) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Acústico Tão Feliz \- Deluxe](https://open.spotify.com/album/0Vyc1CPiHapppuNmA7rGTV) | 2:56 | 2022-02-18 | 2022-07-08 |
 | [Ar Condicionado no 15 \- Ao Vivo](https://open.spotify.com/track/59iqQY09BBJD3cSvojPsh0) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [In Miami Beach \(Ao Vivo\)](https://open.spotify.com/album/20wBgOGIjSo3lWwgXfishN) | 2:51 | 2022-03-24 |  |
 | [Ar\-Condicionado No 15 \- Ao Vivo](https://open.spotify.com/track/5ac0YTpOaDX9wEYYyGCglL) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [In Miami Beach \(Ao Vivo\)](https://open.spotify.com/album/508PwdK7nipXn6CL20PWkb) | 2:48 | 2022-02-18 | 2022-12-08 |
@@ -53,6 +53,7 @@
 | [Cê Acredita](https://open.spotify.com/track/4sVkydp30HWLjOvF2ILbGy) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Cê Acredita](https://open.spotify.com/album/5WePCCEsG1GwFRbnGISXrY) | 2:50 | 2022-02-18 | 2022-07-28 |
 | [Deixa Ela Beijar](https://open.spotify.com/track/2KxHe4qxNgeFcKpE2r2aBt) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Deixa Ela Beijar](https://open.spotify.com/album/0cRh2xyjTOdUSVBNk84nd4) | 2:46 | 2022-03-24 |  |
 | [Deixa Ela Beijar](https://open.spotify.com/track/7q5agbUOzZnVF4Yes3AD7I) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Deixa Ela Beijar](https://open.spotify.com/album/3ZPrHZ58I5eh9jtOBsFcov) | 2:46 | 2022-02-18 | 2022-07-29 |
+| [Deixa em Off \- Ao Vivo](https://open.spotify.com/track/2pVNpc1uoGwKvE8x2VHTXG) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Turma do Pagode XV Anos \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/7qGmJLYI1VIgihUmWJgifq) | 2:53 | 2022-03-24 |  |
 | [Deixa em Off \- Ao Vivo](https://open.spotify.com/track/5sudtP2ME6aIHN20glKW0k) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Turma do Pagode XV Anos \(Ao Vivo\)](https://open.spotify.com/album/6VLXyeH6GWVBqgntHlK5NW) | 2:53 | 2022-02-18 | 2023-10-11 |
 | [Deixa Eu Te Fazer Feliz](https://open.spotify.com/track/0z9sgzZsUAXmbSHSxRleUZ) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Deixa Eu Te Fazer Feliz](https://open.spotify.com/album/16r3bOihSt87DuMoUTZs5X) | 2:41 | 2022-03-24 | 2022-04-21 |
 | [Deu Onda](https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Deu Onda](https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl) | 2:23 | 2022-03-24 |  |

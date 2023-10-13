@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 21732,
+  "num_followers": 21745,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTJkZmI5NmQ4NTFmZmU1OGQ1NTRkYjdjYTgyMDgwNzNiOGViN2My",
+  "snapshot_id": "MCxiOWExZTg0ZWFiOWM3NDQ3YTJmYWM2NDcyNDAxNGMwYTVkZTI4YzY0",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Popurries Tropicales Con Las Mejores",
-        "url": "https://open.spotify.com/album/2ZUWvcCfxghvKHugtjL1nH"
-      },
-      "artists": [
-        {
-          "name": "Marimba Chiapas",
-          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
-        }
-      ],
-      "duration_ms": 394213,
-      "name": "Popurri De Cumbias",
-      "url": "https://open.spotify.com/track/2Gm648VRiqOG6kp0tmN6Ka"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 182720,
       "name": "El A\u00f1o Viejo",
       "url": "https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Popurries Tropicales Con Las Mejores",
+        "url": "https://open.spotify.com/album/2ZUWvcCfxghvKHugtjL1nH"
+      },
+      "artists": [
+        {
+          "name": "Marimba Chiapas",
+          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
+        }
+      ],
+      "duration_ms": 394213,
+      "name": "Popurri De Cumbias",
+      "url": "https://open.spotify.com/track/2Gm648VRiqOG6kp0tmN6Ka"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "40 Temas Originales",
-        "url": "https://open.spotify.com/album/6G9XJm8YJ4oO265SWCqmk5"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
-        },
-        {
-          "name": "Orquesta Pedro Flores",
-          "url": "https://open.spotify.com/artist/35ePrAW1vdWYsrYywU6Mps"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Despedida",
-      "url": "https://open.spotify.com/track/6r6bcAHYlO0bAC5q7mSJYw"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Az\u00facar! Caliente",
         "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 176706,
       "name": "Yerbero Moderno",
       "url": "https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "40 Temas Originales",
+        "url": "https://open.spotify.com/album/6G9XJm8YJ4oO265SWCqmk5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
+        },
+        {
+          "name": "Orquesta Pedro Flores",
+          "url": "https://open.spotify.com/artist/35ePrAW1vdWYsrYywU6Mps"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Despedida",
+      "url": "https://open.spotify.com/track/6r6bcAHYlO0bAC5q7mSJYw"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "The Genius of Esquivel",
-        "url": "https://open.spotify.com/album/2cBovPqZGZkNfcsOfyajTj"
-      },
-      "artists": [
-        {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Agua De Beber",
-      "url": "https://open.spotify.com/track/3m5kWHTfLwkfBK0v9bjXGM"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Presentando a Ana Mar\u00eda Gonz\u00e1lez",
         "url": "https://open.spotify.com/album/1xUHmBMg8McZqErft7qraw"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 141640,
       "name": "Espinita",
       "url": "https://open.spotify.com/track/0mYvrd6bEvIb6eVlo8G0zN"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "The Genius of Esquivel",
+        "url": "https://open.spotify.com/album/2cBovPqZGZkNfcsOfyajTj"
+      },
+      "artists": [
+        {
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Agua De Beber",
+      "url": "https://open.spotify.com/track/3m5kWHTfLwkfBK0v9bjXGM"
     },
     {
       "added_at": "2023-01-23 22:42:50",

@@ -4,14 +4,14 @@
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-273 songs - 17 hr 41 min
+274 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Round Midnight](https://open.spotify.com/track/5rVp4lUeVnreDokWtWJ08a) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | ['Round Midnight](https://open.spotify.com/album/21hu6rdw1Tj3lake6poRGg) | 3:34 | 2023-05-25 |  |
 | [A Better Place](https://open.spotify.com/track/7JfORZg3Tvn0YyDZCiGhMU) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/0BIRayldwphnBlwreGKihM) | 2:13 | 2021-12-14 | 2022-01-06 |
 | [A Few Odd Jobs](https://open.spotify.com/track/3iqhWCI6anGEfsGuHgTOCm) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Few Odd Jobs](https://open.spotify.com/album/32mipwmPBIaktTnArY4kJt) | 3:12 | 2022-09-29 |  |
-| [A Glimpse Of The Future](https://open.spotify.com/track/6D3Imkm2BqdYhn1RoFVGmY) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [A Glimpse Of The Future](https://open.spotify.com/album/5qXuFVg88DnAFDpYtl9A9S) | 2:29 | 2023-08-10 |  |
+| [A Glimpse Of The Future](https://open.spotify.com/track/6D3Imkm2BqdYhn1RoFVGmY) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [A Glimpse Of The Future](https://open.spotify.com/album/5qXuFVg88DnAFDpYtl9A9S) | 2:29 | 2023-08-10 | 2023-10-13 |
 | [A Hero Lives Another Day](https://open.spotify.com/track/5R5fWpRXhe5YqmtZ2WPzw0) | [Claudia Torrek](https://open.spotify.com/artist/2vTJc7s0MUGFXfXVK8TypJ) | [A Hero Lives Another Day](https://open.spotify.com/album/15BIymmR9Y0raWZcbcFs6n) | 3:06 | 2021-12-14 |  |
 | [A Knock On The Door](https://open.spotify.com/track/1lKkIBFCcsUOG14fPmvbhw) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [A Knock On The Door](https://open.spotify.com/album/0q2peKbZDl0x0NuIn7UZ7F) | 3:27 | 2022-09-20 |  |
 | [A Time For Love](https://open.spotify.com/track/1lj6MFAyOG9mlwmp0EkBAF) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 5:08 | 2021-12-14 | 2023-02-24 |
@@ -79,7 +79,7 @@
 | [Eternity](https://open.spotify.com/track/3AxL4mOBBcz5vse4V7o7es) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Eternity](https://open.spotify.com/album/0fFkT2IJK4lCPGKX8LGseX) | 3:38 | 2021-12-14 |  |
 | [Evening Dance](https://open.spotify.com/track/2mWTB2ZKouAhTQruOpbyMA) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Evening Dance](https://open.spotify.com/album/02XU7xcCZKUiYUfV9fvaNV) | 3:35 | 2023-01-19 |  |
 | [Evening Silence](https://open.spotify.com/track/3ObWIAbtVhxTPguDsHT9vf) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 4:27 | 2022-08-11 | 2023-09-23 |
-| [Everything Happens To Me](https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Presenting The Gerry Mulligan Sextet](https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y) | 5:23 | 2021-12-14 |  |
+| [Everything Happens To Me](https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Presenting The Gerry Mulligan Sextet](https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y) | 5:23 | 2021-12-14 | 2023-10-13 |
 | [Everytime We Say Goodbye](https://open.spotify.com/track/6xeEdMWJiNsQwxmCJ7fsQ6) | [Billy Charlotte](https://open.spotify.com/artist/5kwTfmxxihzQfDf7lavECv) | [How Long Has This Been Going On](https://open.spotify.com/album/1I3EDZzXo6MPpsOy0Bt2n7) | 4:05 | 2021-12-14 |  |
 | [Fading Love](https://open.spotify.com/track/5xEOUPnUkpErHaxHi2D1tr) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:40 | 2021-12-14 |  |
 | [Fall Song](https://open.spotify.com/track/07SatuQJo7AH6eHZQxpFp2) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 4:37 | 2022-09-13 |  |
@@ -128,6 +128,7 @@
 | [In The Wee Small Hours of the Morning](https://open.spotify.com/track/6E1m3l49ocTr2gKzl3lFvT) | [The Andy Love Band](https://open.spotify.com/artist/4psWzLHJ7pHepkJn6euY1S) | [Sidewinder](https://open.spotify.com/album/1Oni0D0iiqXbix69OQ0Cot) | 4:22 | 2021-12-14 | 2022-04-13 |
 | [In This Wonderful World](https://open.spotify.com/track/7cxOaLcFhKEH4IaBOd0F46) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [In This Wonderful World](https://open.spotify.com/album/6DgGOcAfVYCHu7xX3ChE85) | 4:04 | 2022-05-17 |  |
 | [In Unforgettable Ways](https://open.spotify.com/track/5tt5XCZlIpHyrdMNNRm721) | [Dinner Club Band](https://open.spotify.com/artist/3FLF2qI9V3gVxBcvc3D2To) | [Beneath the Tide](https://open.spotify.com/album/5ew8lwhVmVfgLed2nv3Ay6) | 2:51 | 2022-04-26 |  |
+| [Indeed Necessary](https://open.spotify.com/track/1sYLG6wsPi6H2bGPAovwCz) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Indeed Necessary](https://open.spotify.com/album/7JMgiEKjiWEY7e8e8bh3rt) | 2:57 | 2023-10-13 |  |
 | [Irridescent Mountains](https://open.spotify.com/track/6W2hNKNp5Brv1igihBn5zw) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Irridescent Mountains](https://open.spotify.com/album/2Qkk2GO6d72FNEdGZloHwq) | 3:19 | 2023-04-13 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/6PKCEB5JzjCizpz9hUQcpX) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:46 | 2021-12-14 | 2022-09-30 |
 | [It Never Rains In Florida](https://open.spotify.com/track/1Z35oBnxnF9dUJIMvMzhky) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [It Never Rains In Florida](https://open.spotify.com/album/7LytFaMhdA3l1NLT8X8CRu) | 2:48 | 2022-04-26 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 51738,
+  "num_followers": 51844,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWJiYjg0ZDgzYmFkMDJlY2MyMzZmYmNhM2YzMGY3MzIwYTYyMWE0",
+  "snapshot_id": "MCxhZmZjZWY0NjkzMzBlOGNiNmJhMzU0ZjgwNTMyMWJhNjIxZjk2Mzlj",
   "tracks": [
     {
       "added_at": "2022-04-08 19:03:44",
@@ -273,6 +273,26 @@
       "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
+      "added_at": "2022-12-07 04:48:22",
+      "album": {
+        "name": "Tres Hermanos",
+        "url": "https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        },
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Tres Hermanos",
+      "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
+    },
+    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Charanga Moderna",
@@ -303,26 +323,6 @@
       "duration_ms": 212466,
       "name": "Guajira Sicod\u00e9lica",
       "url": "https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs"
-    },
-    {
-      "added_at": "2022-12-07 04:48:22",
-      "album": {
-        "name": "Tres Hermanos",
-        "url": "https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        },
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Tres Hermanos",
-      "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
     },
     {
       "added_at": "2022-12-20 21:43:10",
@@ -375,22 +375,6 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "!!Going Places!!",
-        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 126893,
-      "name": "Spanish Flea",
-      "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
         "name": "A Swingin' Safari (Remastered)",
         "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 146133,
       "name": "Afrikaan Beat",
       "url": "https://open.spotify.com/track/1BPXaPBTN9oF2HJ4PDx2sp"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6"
     },
     {
       "added_at": "2022-02-17 23:02:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "Salvavidas de hielo",
-        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+        "name": "!!Going Places!!",
+        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
       },
       "artists": [
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
         }
       ],
-      "duration_ms": 231653,
-      "name": "Movimiento",
-      "url": "https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6"
+      "duration_ms": 126893,
+      "name": "Spanish Flea",
+      "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
     },
     {
       "added_at": "2022-02-18 18:49:36",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "Cumbia Amazonica",
-        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Sonido Amazonico",
-      "url": "https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
         "name": "Churupaca",
         "url": "https://open.spotify.com/album/4WEJMxY05ww9RP2jCK4SXX"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 293746,
       "name": "Duda Morena",
       "url": "https://open.spotify.com/track/2tUUUBIx7SqR3WVVSN7R5V"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Cumbia Amazonica",
+        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Sonido Amazonico",
+      "url": "https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
-        }
-      ],
-      "duration_ms": 213810,
-      "name": "Mar\u00e9",
-      "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
         "name": "Ojos Del Sol",
         "url": "https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 245161,
       "name": "Ojos Del Sol",
       "url": "https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "duration_ms": 213810,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
     },
     {
       "added_at": "2022-04-23 18:00:53",
@@ -767,26 +767,6 @@
       "duration_ms": 250866,
       "name": "Cumbiera Intelectual",
       "url": "https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz"
-    },
-    {
-      "added_at": "2022-07-15 18:11:06",
-      "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
       "added_at": "2022-03-30 01:48:29",
@@ -825,6 +805,26 @@
       "url": "https://open.spotify.com/track/7IuUjEcv8BWqnUSIqWJP8O"
     },
     {
+      "added_at": "2022-07-15 18:11:06",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
+    },
+    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
@@ -847,18 +847,18 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "Ondatr\u00f3pica",
-        "url": "https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC"
+        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
+        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
       },
       "artists": [
         {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
         }
       ],
-      "duration_ms": 245280,
-      "name": "Cumbia Espacial",
-      "url": "https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg"
+      "duration_ms": 197000,
+      "name": "Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
     },
     {
       "added_at": "2022-04-23 18:00:53",
@@ -883,18 +883,18 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
-        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
+        "name": "Ondatr\u00f3pica",
+        "url": "https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC"
       },
       "artists": [
         {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Mu\u00f1eca",
-      "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
+      "duration_ms": 245280,
+      "name": "Cumbia Espacial",
+      "url": "https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg"
     },
     {
       "added_at": "2023-04-01 01:18:58",
@@ -1001,6 +1001,22 @@
       "url": "https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH"
     },
     {
+      "added_at": "2022-01-21 18:59:13",
+      "album": {
+        "name": "Instantes Decisivos Edici\u00f3n Deluxe",
+        "url": "https://open.spotify.com/album/1UhsU0waoToMeZcaG5W13w"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 166172,
+      "name": "Supersticioso",
+      "url": "https://open.spotify.com/track/3cCQBokVCnGWbwasKeQ9n6"
+    },
+    {
       "added_at": "2022-09-02 06:00:17",
       "album": {
         "name": "La Matanza",
@@ -1019,22 +1035,6 @@
       "duration_ms": 201562,
       "name": "La Matanza",
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
-    },
-    {
-      "added_at": "2022-01-21 18:59:13",
-      "album": {
-        "name": "Instantes Decisivos Edici\u00f3n Deluxe",
-        "url": "https://open.spotify.com/album/1UhsU0waoToMeZcaG5W13w"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 166172,
-      "name": "Supersticioso",
-      "url": "https://open.spotify.com/track/3cCQBokVCnGWbwasKeQ9n6"
     },
     {
       "added_at": "2022-03-30 01:48:29",

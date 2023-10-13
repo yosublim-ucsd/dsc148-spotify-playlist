@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: MC SQUARE
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,572 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,635 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 32 | [Been](https://open.spotify.com/track/4hs1cApFZPa3OeVgwqt0eG) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Been](https://open.spotify.com/album/4YGwBcyeLlawZd9QYg21Xg) | 3:04 |
 | 33 | [Sneeze](https://open.spotify.com/track/0ssV2OWkon59eAeR7gEpXZ) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sneeze](https://open.spotify.com/album/0i9EeZFCVSRa3FbSeLF64o) | 4:16 |
 | 34 | [Pataka](https://open.spotify.com/track/23jHzNShbAaRsuEmQJN5hE) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Pataka](https://open.spotify.com/album/1RHx6SdPqgoYkmpiOqV29P) | 3:24 |
-| 35 | [This is Haryana](https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [This is Haryana](https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH) | 3:28 |
+| 35 | [Donali](https://open.spotify.com/track/7pGWXs5NjOtYnr07cjVj9y) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Donali](https://open.spotify.com/album/0xlAEkP9ChcMnyxR1Fm5X2) | 3:24 |
 | 36 | [Badmos Chora](https://open.spotify.com/track/1aN0nqXAM5fgrsmltCMUgq) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:21 |
 | 37 | [MAHAKAAL](https://open.spotify.com/track/6bwmcJiXjx2297D0mgdeFF) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [MAHAKAAL](https://open.spotify.com/album/6P1oRqxxhiRkmOvSdG0hw0) | 3:19 |
-| 38 | [Donali](https://open.spotify.com/track/7pGWXs5NjOtYnr07cjVj9y) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Donali](https://open.spotify.com/album/0xlAEkP9ChcMnyxR1Fm5X2) | 3:24 |
+| 38 | [This is Haryana](https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [This is Haryana](https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH) | 3:28 |
 | 39 | [Afgan](https://open.spotify.com/track/1wL7PQ8llOmRXdgNLRnm4j) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Afgan](https://open.spotify.com/album/6RuY485BMHDFNkc0FydvNn) | 3:17 |
 | 40 | [Kaand](https://open.spotify.com/track/202W8cvVBBKZw9uEwTs0BC) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa) | [Kaand](https://open.spotify.com/album/1TZLTVAVHYPUsLwskjBHvs) | 3:06 |
 | 41 | [Vampire](https://open.spotify.com/track/31olLVhKdDW291OezbnDZt) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Vampire](https://open.spotify.com/album/5KI34lG871b5QkuNHKeIn1) | 5:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 49 | [Ace](https://open.spotify.com/track/1TsvGXzmBCn3AdqJeqTMfm) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [Shiqaari](https://open.spotify.com/artist/6SGlv8rvlA0TfucEWP7Mvh) | [Ace](https://open.spotify.com/album/7AgbNhegpQac8FMASg9oy6) | 3:21 |
 | 50 | [Jaat Warriors](https://open.spotify.com/track/6oWxnsiYG5bj2tqhDcdlRY) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warriors](https://open.spotify.com/album/0XMUkwivt9uRvZtVhrSk4J) | 2:43 |
 
-Snapshot ID: `MCwyM2UwOTQwNzc5ZjAxNGQwZWVmODU4NTk2MjY0MDg3MjlhZDE5ZDlm`
+Snapshot ID: `MCxiMmVjYzEwY2Y0YTg5N2JjMjc2NjYwNDkzOWYzMWQ3Y2M0MDNkYjc0`

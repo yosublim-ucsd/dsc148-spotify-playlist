@@ -4,7 +4,7 @@
 
 > Latin music bangers for your gaming session! Cover: Feid
 
-553 songs - 1 day 7 hr 37 min
+554 songs - 1 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,8 @@
 | [Los Bandoleros](https://open.spotify.com/track/6PxRarQMMrZnB9m0vRhMW0) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 4:33 | 2022-03-23 | 2022-07-20 |
 | [Los De Siempre](https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Los De Siempre](https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ) | 3:25 | 2021-12-16 | 2022-10-29 |
 | [LowKey](https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [LowKey](https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH) | 3:13 | 2022-03-23 | 2022-04-20 |
-| [LUCES DE TECNO](https://open.spotify.com/track/3DBtvrhv3SAgK7s6zBGgbe) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:43 | 2023-09-29 |  |
+| [LUCES DE TECNO](https://open.spotify.com/track/3DBtvrhv3SAgK7s6zBGgbe) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:43 | 2023-09-29 | 2023-10-13 |
+| [LUCES DE TECNO](https://open.spotify.com/track/0goXAEnjWhssHU0y9Zyqyf) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:44 | 2023-10-06 |  |
 | [M.A \(Mejores Amigos\)](https://open.spotify.com/track/1eIDsKCLwZF6CJK8pOgHX5) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [M.A \(Mejores Amigos\)](https://open.spotify.com/album/2ESUDQUE3ku1wEBCO5RKG6) | 2:38 | 2023-04-03 | 2023-09-22 |
 | [M.A \(Mejores Amigos\)](https://open.spotify.com/track/61wAL7pFMMfvYv9SXIiYAB) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [M.A \(Mejores Amigos\)](https://open.spotify.com/album/2QaWChONzZgOeHkfB8Bykl) | 2:38 | 2023-09-23 |  |
 | [Ma' G](https://open.spotify.com/track/4iFSDLdPrWIaYo2VQeCv4f) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Ma' G](https://open.spotify.com/album/4jSlgVZD4bbTuxOYrXTPWe) | 3:46 | 2021-12-16 | 2022-07-28 |

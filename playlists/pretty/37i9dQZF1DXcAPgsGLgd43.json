@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3513,
+  "num_followers": 3515,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjUyYTBhNTEwMmE3YzJlM2FmNWJhNjFlOTM3MTYyZjcxYmUzNTZi",
+  "snapshot_id": "MCw4ODEzZTdiMDMzZThkNjI4MmMxZGYyZTNkNjJmNWE3YjUxODY4ODZh",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -813,20 +813,20 @@
       "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
     },
     {
-      "added_at": "2021-10-08 15:53:55",
+      "added_at": "2021-10-15 05:57:00",
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/3VNhdA2xtNcLopHG9lep3u"
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg"
       },
       "artists": [
         {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+          "name": "Dot N Life",
+          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
         }
       ],
-      "duration_ms": 266666,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/2r9um9Y1MklfVLt6XNylmf"
+      "duration_ms": 195000,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -849,20 +849,20 @@
       "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
     },
     {
-      "added_at": "2021-10-15 05:57:00",
+      "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg"
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/3VNhdA2xtNcLopHG9lep3u"
       },
       "artists": [
         {
-          "name": "Dot N Life",
-          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
         }
       ],
-      "duration_ms": 195000,
-      "name": "La Vida",
-      "url": "https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8"
+      "duration_ms": 266666,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2r9um9Y1MklfVLt6XNylmf"
     },
     {
       "added_at": "2021-10-08 15:53:55",

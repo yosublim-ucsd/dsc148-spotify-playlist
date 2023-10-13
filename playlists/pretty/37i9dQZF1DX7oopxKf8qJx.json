@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 73457,
+  "num_followers": 73531,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2QxMzA5MTFlZTgxNWJmNjc2YjE1MDkwNDkxNGMxOWQ1OTk1NTlh",
+  "snapshot_id": "MCw4MTgxMDE4OGEzODBjYWYzMmE3N2ZmZDg2MTQ3N2U0OTE0YjAzYzU4",
   "tracks": [
     {
       "added_at": "2023-09-01 09:29:43",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
-        "name": "Concert In Rhythm",
-        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
-      },
-      "artists": [
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Early Evening",
-      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
-    },
-    {
-      "added_at": "2023-09-01 09:29:43",
-      "album": {
         "name": "The Magic Of Manuel",
         "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 188240,
       "name": "Fools Rush In (Where Angels Fear to Tread)",
       "url": "https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B"
+    },
+    {
+      "added_at": "2023-09-01 09:29:43",
+      "album": {
+        "name": "Concert In Rhythm",
+        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
+      },
+      "artists": [
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Early Evening",
+      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
     },
     {
       "added_at": "2023-09-01 09:29:43",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
+        "name": "The Magic Of Manuel",
+        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
+      },
+      "artists": [
+        {
+          "name": "Manuel & The Music Of The Mountains",
+          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Moonglow and Theme from Picnic",
+      "url": "https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6"
+    },
+    {
+      "added_at": "2023-09-01 09:29:43",
+      "album": {
         "name": "The Piano Legend (Remastered)",
         "url": "https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 203973,
       "name": "Theme from Picnic - Remastered",
       "url": "https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0"
-    },
-    {
-      "added_at": "2023-09-01 09:29:43",
-      "album": {
-        "name": "I Wish You Love",
-        "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
-      },
-      "artists": [
-        {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
     },
     {
       "added_at": "2023-09-01 09:29:43",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
-        "name": "The Magic Of Manuel",
-        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
+        "name": "I Wish You Love",
+        "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
       },
       "artists": [
         {
-          "name": "Manuel & The Music Of The Mountains",
-          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
         }
       ],
-      "duration_ms": 224800,
-      "name": "Moonglow and Theme from Picnic",
-      "url": "https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6"
+      "duration_ms": 168666,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
     },
     {
       "added_at": "2023-09-01 09:29:43",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-203 songs - 17 hr 58 min
+204 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [No Sympathy](https://open.spotify.com/track/4wySt0Tw3gCiybsPeXScGA) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [No Sympathy](https://open.spotify.com/album/48140dThJ2fdFQpcvO0x5B) | 4:18 | 2023-03-31 |  |
 | [Nobody Else Will Do](https://open.spotify.com/track/7523LoHW3sgiFG0GJcrV0C) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Nobody Else Will Do](https://open.spotify.com/album/6FQnPSIRDTKDxvZuFAH9qY) | 3:33 | 2023-08-18 |  |
 | [Now Is](https://open.spotify.com/track/5sM3ZjYmxQ2haTliX3ry5M) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 6:31 | 2023-01-12 | 2023-03-18 |
-| [Obsessed \- Extended Mix](https://open.spotify.com/track/4xLyA7ZU4dvDnmTlSLdKFs) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [Obsessed EP](https://open.spotify.com/album/75VFo3nmd2EmNnTp6I9lTj) | 7:12 | 2023-03-31 |  |
+| [Obsessed \- Extended Mix](https://open.spotify.com/track/3JVxO7366xPzmFqEha1xZS) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [Obsessed](https://open.spotify.com/album/7JYcgSMmsH4JAylYu21jeJ) | 7:12 | 2023-10-06 |  |
+| [Obsessed \- Extended Mix](https://open.spotify.com/track/4xLyA7ZU4dvDnmTlSLdKFs) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [Obsessed EP](https://open.spotify.com/album/75VFo3nmd2EmNnTp6I9lTj) | 7:12 | 2023-03-31 | 2023-10-13 |
 | [Ocra](https://open.spotify.com/track/1gFtLU3VseotNKgxZAJIP8) | [Pizeta](https://open.spotify.com/artist/6eU8OJ3ZbHoMGFmDcSyE75) | [A Kind of Kling Klong, Vol\. 6](https://open.spotify.com/album/7xL0L3IA2nhjlxQw88037H) | 6:23 | 2023-05-12 | 2023-09-05 |
 | [Ohh Baby \- David Tort's Dub Tech Mix \- Mixed](https://open.spotify.com/track/3ptuqk51FuN2SHB1g9cmW8) | [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Space Ibiza 2016 \(DJ Mix\)](https://open.spotify.com/album/3t0flZXOivtODPwcORKacT) | 2:47 | 2023-10-02 |  |
 | [One \- PARIS Remix](https://open.spotify.com/track/5nlFzzKbPXZ77b2RB2FtSQ) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq), [PARIS](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N) | [Eternal Existence Remixes](https://open.spotify.com/album/4tPD6a1BZzueQOHsXxfIcS) | 7:14 | 2023-01-12 | 2023-04-01 |

@@ -1,15 +1,15 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 43258,
+  "num_followers": 43486,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmJhNGQyZTE3YjhiNTY1NjkxZGI2OGFhYmE4YjQ2M2MxZDQxYTJl",
+  "snapshot_id": "MCxkZDAwMDMzYTI0YzEwNjEyMDUyYTEyMzg0NmZiYWEwNDVhY2U1ZDBh",
   "tracks": [
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Mnike (Radio Edit) (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
         "url": "https://open.spotify.com/album/6vEFTGVOAcke5UVOetvDWV"
@@ -45,7 +45,35 @@
       "url": "https://open.spotify.com/track/5OnDiLZlKXnBlBk2nCC9xE"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
+      "album": {
+        "name": "Dalie",
+        "url": "https://open.spotify.com/album/5GIUF3gHNmZpa684imXQ5J"
+      },
+      "artists": [
+        {
+          "name": "Kamo Mphela",
+          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "Baby S.O.N",
+          "url": "https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6"
+        }
+      ],
+      "duration_ms": 280424,
+      "name": "Dalie",
+      "url": "https://open.spotify.com/track/7HmE17lcfpENCJkuurXDvh"
+    },
+    {
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Hakuna Mathata",
         "url": "https://open.spotify.com/album/5WsgpaaHCVDm0Mn1Dllm2Q"
@@ -69,55 +97,31 @@
       "url": "https://open.spotify.com/track/67iNlrjPKMiqrpY5mTne2u"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
-        "name": "La Maluka",
-        "url": "https://open.spotify.com/album/32UflENeLioWm4rKSpyRvm"
+        "name": "Abo Mvelo (feat. Mellow & Sleazy & M.J)",
+        "url": "https://open.spotify.com/album/437dkJZjTY2KPRtZAVleKs"
       },
       "artists": [
         {
-          "name": "Blaqnick & MasterBlaq",
-          "url": "https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF"
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
         },
         {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "M.J",
+          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
         }
       ],
-      "duration_ms": 274285,
-      "name": "La Maluka",
-      "url": "https://open.spotify.com/track/7EJfaSvCBWNJwKYe7ol4D7"
+      "duration_ms": 480000,
+      "name": "Abo Mvelo (feat. Mellow & Sleazy & M.J)",
+      "url": "https://open.spotify.com/track/0Ek5bneviajgSzZGonWfds"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
-        "name": "Umhlolo",
-        "url": "https://open.spotify.com/album/6ZKX7q754N7FdJMwnuqKNj"
-      },
-      "artists": [
-        {
-          "name": "Kamo Mphela",
-          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
-        },
-        {
-          "name": "Masterpiece YVK",
-          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
-        },
-        {
-          "name": "AyaProw",
-          "url": "https://open.spotify.com/artist/71bxxwRdRECZ4whnAKcJ2t"
-        },
-        {
-          "name": "Yumbs",
-          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "Umhlolo",
-      "url": "https://open.spotify.com/track/7w9l1MLqmCtwhKHz9R93Xd"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Ba Straata (feat. 2woshort, Stompiiey, ShaunMusiQ, Ftears & Madumane)",
         "url": "https://open.spotify.com/album/25plKOfn0KCUMmzBztMMu6"
@@ -157,7 +161,35 @@
       "url": "https://open.spotify.com/track/3DssiWp4pAGNvPrvHVi94f"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
+      "album": {
+        "name": "Umhlolo",
+        "url": "https://open.spotify.com/album/6ZKX7q754N7FdJMwnuqKNj"
+      },
+      "artists": [
+        {
+          "name": "Kamo Mphela",
+          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
+        },
+        {
+          "name": "Masterpiece YVK",
+          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
+        },
+        {
+          "name": "AyaProw",
+          "url": "https://open.spotify.com/artist/71bxxwRdRECZ4whnAKcJ2t"
+        },
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "Umhlolo",
+      "url": "https://open.spotify.com/track/7w9l1MLqmCtwhKHz9R93Xd"
+    },
+    {
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Hamba Wena",
         "url": "https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51"
@@ -177,7 +209,7 @@
       "url": "https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Ka Valungu",
         "url": "https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU"
@@ -197,31 +229,7 @@
       "url": "https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
-        "name": "ZERO TO HUNDRED",
-        "url": "https://open.spotify.com/album/5rLapSQjaq0g24oHxqM6p5"
-      },
-      "artists": [
-        {
-          "name": "2.0 Worldwide",
-          "url": "https://open.spotify.com/artist/4gCBp9CiBWLVfMKhjUFWtS"
-        },
-        {
-          "name": "Bangs MuziQ",
-          "url": "https://open.spotify.com/artist/4DiVrEeqbJOSHp7CWn7P8v"
-        },
-        {
-          "name": "Uncle Kee",
-          "url": "https://open.spotify.com/artist/263fuIlGLHbVR3tFA9taEm"
-        }
-      ],
-      "duration_ms": 437712,
-      "name": "Welcome To Cairo!",
-      "url": "https://open.spotify.com/track/12OOvIG2fJkojf998UXLrA"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Yahyuppiyah (feat. Pcee, EeQue, & Chley)",
         "url": "https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C"
@@ -257,7 +265,7 @@
       "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "DALI DALI",
         "url": "https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc"
@@ -281,7 +289,7 @@
       "url": "https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "uMlando",
         "url": "https://open.spotify.com/album/3oSmq5FBBBfgaMWNt6ry7R"
@@ -325,31 +333,43 @@
       "url": "https://open.spotify.com/track/03GRsjCSytQo3LuspJayKT"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
-        "name": "Abo Mvelo (feat. Mellow & Sleazy & M.J)",
-        "url": "https://open.spotify.com/album/437dkJZjTY2KPRtZAVleKs"
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/1n99YYqW3PqB4d1GdxfvS5"
       },
       "artists": [
         {
-          "name": "Daliwonga",
-          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+          "name": "Ney the Bae",
+          "url": "https://open.spotify.com/artist/3sLiGy7gf30hkSHHAutPDm"
         },
         {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
         },
         {
-          "name": "M.J",
-          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
+          "name": "Optimist Music ZA",
+          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
+        },
+        {
+          "name": "Sthibo de Beat",
+          "url": "https://open.spotify.com/artist/4FVvHkJlWuJXz34KZK9eym"
+        },
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/7aFmc9LckA1On33CWWFgDD"
+        },
+        {
+          "name": "BoiBizza",
+          "url": "https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR"
         }
       ],
-      "duration_ms": 480000,
-      "name": "Abo Mvelo (feat. Mellow & Sleazy & M.J)",
-      "url": "https://open.spotify.com/track/0Ek5bneviajgSzZGonWfds"
+      "duration_ms": 378214,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/5cmq3bQRln1nrn8cRtZCPf"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "SOLACE",
         "url": "https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik"
@@ -373,7 +393,7 @@
       "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Sgudi Snyc",
         "url": "https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe"
@@ -397,7 +417,31 @@
       "url": "https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
+      "album": {
+        "name": "ZERO TO HUNDRED",
+        "url": "https://open.spotify.com/album/5rLapSQjaq0g24oHxqM6p5"
+      },
+      "artists": [
+        {
+          "name": "2.0 Worldwide",
+          "url": "https://open.spotify.com/artist/4gCBp9CiBWLVfMKhjUFWtS"
+        },
+        {
+          "name": "Bangs MuziQ",
+          "url": "https://open.spotify.com/artist/4DiVrEeqbJOSHp7CWn7P8v"
+        },
+        {
+          "name": "Uncle Kee",
+          "url": "https://open.spotify.com/artist/263fuIlGLHbVR3tFA9taEm"
+        }
+      ],
+      "duration_ms": 437712,
+      "name": "Welcome To Cairo!",
+      "url": "https://open.spotify.com/track/12OOvIG2fJkojf998UXLrA"
+    },
+    {
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Big Flexa",
         "url": "https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3"
@@ -433,7 +477,7 @@
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Nkwari 2.0",
         "url": "https://open.spotify.com/album/49zpZBTFjHdCUTLRMyFwro"
@@ -465,7 +509,7 @@
       "url": "https://open.spotify.com/track/5ZDw1sqZQDlC5aV7ir6kkN"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Bhebha (feat. Myztro, Mellow & Sleazy, QuayR Musiq & Matuteboy)",
         "url": "https://open.spotify.com/album/1KLpiUVZQVXglbMCLI10n7"
@@ -505,7 +549,7 @@
       "url": "https://open.spotify.com/track/1SB1UdyYs3DMyzHVxZg0QE"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
         "url": "https://open.spotify.com/album/0d6dUG7eTcnKoGzX8VKbn1"
@@ -533,7 +577,7 @@
       "url": "https://open.spotify.com/track/51fIDcNGiIp7pxHCCN5QaL"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "MOB TIES",
         "url": "https://open.spotify.com/album/7qG3ybL5XDIzcbfr5DKHBj"
@@ -553,7 +597,7 @@
       "url": "https://open.spotify.com/track/6UqPgAXiEWQ6ufr6SsrYrn"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Mr Big Flexa",
         "url": "https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z"
@@ -577,7 +621,7 @@
       "url": "https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Pele Pele",
         "url": "https://open.spotify.com/album/3HnFaSlDoeqqmPoVWYAETZ"
@@ -601,7 +645,7 @@
       "url": "https://open.spotify.com/track/3r4sc1n8kNL2FpebHwaAQE"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Notumato",
         "url": "https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge"
@@ -625,7 +669,7 @@
       "url": "https://open.spotify.com/track/2dTQe0W5KXs6TNVV7yi2oS"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Masego",
         "url": "https://open.spotify.com/album/3SQvKMjiNxWvup5k9HnX6c"
@@ -645,7 +689,7 @@
       "url": "https://open.spotify.com/track/5MYAArfzgqwgyhR6XFRwGq"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Ngeke",
         "url": "https://open.spotify.com/album/75OwLwUKBzBGgPlsROtNcL"
@@ -673,7 +717,7 @@
       "url": "https://open.spotify.com/track/1Xs7ZBzJRexv4QF2R5iR22"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Selema (Po Po)",
         "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
@@ -693,7 +737,27 @@
       "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
+      "album": {
+        "name": "La Maluka",
+        "url": "https://open.spotify.com/album/32UflENeLioWm4rKSpyRvm"
+      },
+      "artists": [
+        {
+          "name": "Blaqnick & MasterBlaq",
+          "url": "https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "La Maluka",
+      "url": "https://open.spotify.com/track/7EJfaSvCBWNJwKYe7ol4D7"
+    },
+    {
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Umsebenzi Wethu, Vol. 2",
         "url": "https://open.spotify.com/album/3pA1oYHkNliSJVD7JxIIoV"
@@ -713,7 +777,7 @@
       "url": "https://open.spotify.com/track/7jeXFt3u9o8PveE4CHSOs0"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "JAGERMEISTER",
         "url": "https://open.spotify.com/album/5Tk2uNjYtHL9V0uEhSQAYx"
@@ -737,7 +801,7 @@
       "url": "https://open.spotify.com/track/3VBwoaePYGdOmG1YHgGOHi"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Shayimpempe",
         "url": "https://open.spotify.com/album/6EcnO6qmWJzUuPODOMK6TH"
@@ -761,7 +825,7 @@
       "url": "https://open.spotify.com/track/0Rl25OrMjAz4w54JfkjGBo"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "SUKA",
         "url": "https://open.spotify.com/album/6HMVNohYiUCt2igg0wPBKp"
@@ -789,7 +853,7 @@
       "url": "https://open.spotify.com/track/1eb2pZlRqGLndvOj8MHaTD"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Kancane",
         "url": "https://open.spotify.com/album/5ai1amA8bctv0ozwOTEncb"
@@ -821,7 +885,7 @@
       "url": "https://open.spotify.com/track/0dHswGoIHgWfHSraVv9mnq"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Party With The English",
         "url": "https://open.spotify.com/album/5IWQ1qQbZyzWIVtUTEi61o"
@@ -849,7 +913,7 @@
       "url": "https://open.spotify.com/track/3830LcxTUk1zTWA51f5xfF"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/5staFtQtXQOhOBxBvH9TaY"
@@ -865,7 +929,7 @@
       "url": "https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Tanzania",
         "url": "https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN"
@@ -893,7 +957,7 @@
       "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Dipatje Tsa Felo (feat. Daliwonga)",
         "url": "https://open.spotify.com/album/7u3mrMGgYgQkpIO5ntmezv"
@@ -917,7 +981,7 @@
       "url": "https://open.spotify.com/track/3rDd1X68wGTaKYRATrcARb"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "I Feel Nice",
         "url": "https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk"
@@ -941,7 +1005,7 @@
       "url": "https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Banyana",
         "url": "https://open.spotify.com/album/1H0Us4t0RJOtulhONf5bQp"
@@ -977,7 +1041,7 @@
       "url": "https://open.spotify.com/track/2lM7orFD058wiAiBixzffm"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Yaba Buluku (feat. Preck & Nelson Tivane) [Remix]",
         "url": "https://open.spotify.com/album/1vc9def4aoS2RJZJzyw5Vi"
@@ -1005,7 +1069,7 @@
       "url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Nkao Tempela",
         "url": "https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE"
@@ -1025,7 +1089,7 @@
       "url": "https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
         "url": "https://open.spotify.com/album/0uNAWv8SfWOd9vIJ3QwzcH"
@@ -1053,7 +1117,7 @@
       "url": "https://open.spotify.com/track/5m6AedvemL6Oz8GVwAOTF3"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Down The Drain",
         "url": "https://open.spotify.com/album/4RrEXzYVPDRdYUufiCw2W2"
@@ -1073,7 +1137,7 @@
       "url": "https://open.spotify.com/track/62SaDdv956IYAt5nS1nWx7"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Khekheleza (Dlala Dlala)",
         "url": "https://open.spotify.com/album/0xzQmemSpxC1d1XmNAQY80"
@@ -1097,7 +1161,7 @@
       "url": "https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Ace Of Spades (Reshuffle)",
         "url": "https://open.spotify.com/album/2kE4dNChxoaS64Xdt6XLvu"
@@ -1121,7 +1185,7 @@
       "url": "https://open.spotify.com/track/4nLJnkaFq9VNYVz1SxJsXi"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "The Fxckin Injury",
         "url": "https://open.spotify.com/album/4nRqcmsWYPF9ubAM7Csq81"
@@ -1145,7 +1209,7 @@
       "url": "https://open.spotify.com/track/4TI2IiuzHSG0ZSiWHpcI1k"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "GUPTA",
         "url": "https://open.spotify.com/album/5O4ZXfp5cjeK0ClZzjRT3X"
@@ -1173,7 +1237,7 @@
       "url": "https://open.spotify.com/track/3ZDWlHNxPkVcjhRWJUvPz0"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Salary Salary",
         "url": "https://open.spotify.com/album/4quyAgJ23twffpKkEgfhji"
@@ -1205,7 +1269,7 @@
       "url": "https://open.spotify.com/track/2icgqIMkjpToStO1FRAoyj"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "John Vuli Gate",
         "url": "https://open.spotify.com/album/2LV2PfwatDDB9HeMs9NeH0"
@@ -1229,7 +1293,7 @@
       "url": "https://open.spotify.com/track/0iHnYSPIQlmQzo1NVN6kRJ"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Sanitizer",
         "url": "https://open.spotify.com/album/1dPG0MRY5u8J2e2cw1NPCN"
@@ -1257,7 +1321,7 @@
       "url": "https://open.spotify.com/track/3dFpRuEIxuQfm2EHBf4ZVU"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Baja Ko Pele",
         "url": "https://open.spotify.com/album/5rDVWC3IBpWunIKPEx5PXd"
@@ -1289,7 +1353,7 @@
       "url": "https://open.spotify.com/track/6RzTv3JiPndZpv0Lq3kGHO"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Uyavala",
         "url": "https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ"
@@ -1309,7 +1373,7 @@
       "url": "https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "The Return of the Scorpion Kings",
         "url": "https://open.spotify.com/album/3jVIkEFzkl5JuF4cLL1DKq"
@@ -1341,7 +1405,7 @@
       "url": "https://open.spotify.com/track/0HqMsg5QmooAII1GZUvVHA"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Undisputed, Vol. 2",
         "url": "https://open.spotify.com/album/5BAVTtz6uDhRUjr9Kf0x3n"
@@ -1361,7 +1425,7 @@
       "url": "https://open.spotify.com/track/4Hm1wkKAh7b2GI2yC6sgi0"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "IYO (feat. Focalistic, Mapara A Jazz, & Ntosh Gazi)",
         "url": "https://open.spotify.com/album/6i59pzMOcP1qQ1WnEKJz80"
@@ -1389,7 +1453,7 @@
       "url": "https://open.spotify.com/track/4CqIW0SZapPpI0IQq6Yno0"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
         "url": "https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR"
@@ -1421,7 +1485,7 @@
       "url": "https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "The Return of the Scorpion Kings",
         "url": "https://open.spotify.com/album/3jVIkEFzkl5JuF4cLL1DKq"
@@ -1453,7 +1517,7 @@
       "url": "https://open.spotify.com/track/6VIlerY0Emf3oYWIVBIsMN"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Widlysm",
         "url": "https://open.spotify.com/album/1ZwWviKOdxQsoaobNqiMg6"
@@ -1469,7 +1533,7 @@
       "url": "https://open.spotify.com/track/61P7fkM3YBSTGCrLBUaWKM"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Blecke",
         "url": "https://open.spotify.com/album/7DFR6SIjNhiDiviaQfGho7"
@@ -1489,7 +1553,7 @@
       "url": "https://open.spotify.com/track/21vYZmoBTqM2upLQbkN2dV"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Undisputed, Vol. 2",
         "url": "https://open.spotify.com/album/5BAVTtz6uDhRUjr9Kf0x3n"
@@ -1509,7 +1573,7 @@
       "url": "https://open.spotify.com/track/22sG77yM0PrgIpbVKZ40yY"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Baby Boy 2 Reloaded",
         "url": "https://open.spotify.com/album/1yWI355GWrXToRiwrP6osF"
@@ -1525,7 +1589,7 @@
       "url": "https://open.spotify.com/track/63HL27uW6RXQq0vjL8XZIe"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Isphithiphithi",
         "url": "https://open.spotify.com/album/0ZTUOYTfG0BFiDH85T3vKD"
@@ -1553,7 +1617,7 @@
       "url": "https://open.spotify.com/track/7GHKr2Fg86xWObxTnz26vK"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "The III Wise Men",
         "url": "https://open.spotify.com/album/4D8HZrq24Rh4hdJ1NS3ZIB"
@@ -1585,7 +1649,7 @@
       "url": "https://open.spotify.com/track/4SnsV0PFEszDt8V2GD42WS"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Stolen Goods",
         "url": "https://open.spotify.com/album/0t5OUH14bARmKQEITo9GX4"
@@ -1601,7 +1665,7 @@
       "url": "https://open.spotify.com/track/2cZAgtMdUNsbrmS6wpSu8Q"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "10111 (feat. M.J, Djy Ma'Ten & Matute Boy)",
         "url": "https://open.spotify.com/album/3FzREqbZZ7YctJYPU8VCav"
@@ -1633,7 +1697,7 @@
       "url": "https://open.spotify.com/track/21pRTkAdSPCP3tAn7ECYzs"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Catalia",
         "url": "https://open.spotify.com/album/0Cb2Zi3bxdpR9YrwadfS6Y"
@@ -1665,7 +1729,7 @@
       "url": "https://open.spotify.com/track/2PgDbeuhqT2vY6fOe15PDf"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Notumato",
         "url": "https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge"
@@ -1693,7 +1757,7 @@
       "url": "https://open.spotify.com/track/4tYw8LJySmSEopvN1AknXv"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Amaneighbour",
         "url": "https://open.spotify.com/album/5FoWUwSYwWGGym4oVzNrOq"
@@ -1725,7 +1789,7 @@
       "url": "https://open.spotify.com/track/0mOoPsb9xZTzFqKLLqvkjL"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Bambelela",
         "url": "https://open.spotify.com/album/7jMiUvL8n8I7g1NvJVJk6C"
@@ -1745,7 +1809,7 @@
       "url": "https://open.spotify.com/track/6FJOlQk0XSCWRs8NorJik1"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Shapa Munne Ep.1",
         "url": "https://open.spotify.com/album/70c2rlqsypfKYzsug2Nyml"
@@ -1769,7 +1833,7 @@
       "url": "https://open.spotify.com/track/06WiZEUgQIleFoZlQFou1y"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Iyamemeza",
         "url": "https://open.spotify.com/album/6HUKeCPZEmDADA4KKlaCCL"
@@ -1793,7 +1857,7 @@
       "url": "https://open.spotify.com/track/09mer8EOsqtdQ43Dqsm54m"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Possible",
         "url": "https://open.spotify.com/album/4O2ppYH1KLoP8pE7XomrDk"
@@ -1833,7 +1897,7 @@
       "url": "https://open.spotify.com/track/6ARmMd93cqRGYDP0XC6JH7"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Yithi Sonke",
         "url": "https://open.spotify.com/album/1lKKprGwnEwYdDschpWkR1"
@@ -1869,7 +1933,7 @@
       "url": "https://open.spotify.com/track/380AIR4IYW4Ni3O3shTXa2"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Moz Piano Vol.2",
         "url": "https://open.spotify.com/album/6dDwI2EBzWbmEiAEOnj6zj"
@@ -1889,7 +1953,7 @@
       "url": "https://open.spotify.com/track/2YJtekYbkUE6QIqLIn8Pz0"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Tetema",
         "url": "https://open.spotify.com/album/0ceNIR1fRMz6vRGvccv3eS"
@@ -1913,7 +1977,7 @@
       "url": "https://open.spotify.com/track/5emv0gRnEk4dVXWETqewAC"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "NINI na NINI",
         "url": "https://open.spotify.com/album/0R4G8NI4IjNRcqqrCBRUCr"
@@ -1937,7 +2001,7 @@
       "url": "https://open.spotify.com/track/3MqIKE7r4Pjag6xaEgOHlD"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1cuzlgF3KQzQOMiuWfNYox"
@@ -1961,7 +2025,7 @@
       "url": "https://open.spotify.com/track/1HNDRSH8IPUc58fXrKHpP6"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Internal (Mr Bassplay)",
         "url": "https://open.spotify.com/album/5YmVCNpHxrbVlNdgJxmSol"
@@ -1977,7 +2041,7 @@
       "url": "https://open.spotify.com/track/4iJzHasoWssPMFvCE3MPK0"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "HANNAH MONTANA",
         "url": "https://open.spotify.com/album/5vtEJHcUHSWXtv6rv52zM2"
@@ -2025,7 +2089,7 @@
       "url": "https://open.spotify.com/track/15gpBjflmoEQ0Hpe8SqMud"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "XpensiveClections, Vol. 41",
         "url": "https://open.spotify.com/album/3d2jVmROpZoUKqDAAnmG94"
@@ -2049,7 +2113,7 @@
       "url": "https://open.spotify.com/track/77pVhq7KrUYE3ZRd3XUi9F"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Sgubhu Se Monate, Vol. 2",
         "url": "https://open.spotify.com/album/5215kGbiBk8Xl8DaMSdufL"
@@ -2077,7 +2141,7 @@
       "url": "https://open.spotify.com/track/13O2tE5Z6l24mcAR5OdsGk"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Ede Weri (Srananpiano)",
         "url": "https://open.spotify.com/album/4SoctD06nQGh2KfwlXuBr6"
@@ -2101,7 +2165,7 @@
       "url": "https://open.spotify.com/track/51XMfEXGLn4kIuhcZ0xZYA"
     },
     {
-      "added_at": "2023-10-05 23:00:00",
+      "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Location",
         "url": "https://open.spotify.com/album/73w9zUGjkV9TqlzROMOclV"

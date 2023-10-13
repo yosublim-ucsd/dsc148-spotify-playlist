@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-1,330 songs - 2 day 12 hr 12 min
+1,331 songs - 2 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1261,7 +1261,8 @@
 | [WALKED IN](https://open.spotify.com/track/4TtwfNpekE33a0Uo5sIMLF) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [WALKED IN](https://open.spotify.com/album/20yPX27SdWr1hc5aZQAOsn) | 2:22 | 2023-01-17 | 2023-04-01 |
 | [WANT EM HOOD](https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [WANT EM HOOD](https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO) | 2:45 | 2023-07-07 | 2023-08-26 |
 | [Warzone \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/1vehZ3FrmhbxX5oh9ZdO0c) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Warzone \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/album/3pnZdrOF3JXq5ZTXsT09AW) | 3:44 | 2022-07-15 | 2022-09-10 |
-| [Wassup Gwayy](https://open.spotify.com/track/5CQ0tp4ZdSrzj2ev9yieVV) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gwayy](https://open.spotify.com/album/1RlJJaItCwvPI1qkIfsJax) | 2:24 | 2023-09-29 |  |
+| [Wassup Gway](https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gway](https://open.spotify.com/album/0lBc6xsaXgtiFrcy103fEY) | 2:24 | 2023-10-06 |  |
+| [Wassup Gwayy](https://open.spotify.com/track/5CQ0tp4ZdSrzj2ev9yieVV) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gwayy](https://open.spotify.com/album/1RlJJaItCwvPI1qkIfsJax) | 2:24 | 2023-09-29 | 2023-10-13 |
 | [WASTED TIMES](https://open.spotify.com/track/37TkK1yF2JeIpzLlkv43Ns) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [STILL PRETTY](https://open.spotify.com/album/2BdFsADlZDxK09knj5fSEk) | 2:03 | 2023-07-14 | 2023-09-16 |
 | [WAVE](https://open.spotify.com/track/6jc7hcVqCDGjjeRokClILI) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [WAVE](https://open.spotify.com/album/7ySlZx8l59eRiX7WYOAofF) | 2:10 | 2022-10-21 | 2022-11-05 |
 | [waY bacK wheN](https://open.spotify.com/track/6P0XCZPe8OZZtasJ5xG3Uz) | [LEW](https://open.spotify.com/artist/3Jm6kDs1lVTJSiIN6fZyP4) | [wheN iT rainS iT pourS](https://open.spotify.com/album/53zUIw0vdPLw5YhMwFBeWU) | 2:57 | 2022-05-20 | 2022-07-23 |

@@ -4,7 +4,7 @@
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-148 songs - 7 hr 45 min
+152 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [O Little Town of Bethlehem](https://open.spotify.com/track/3o8hnh4QHvO1n7FtpZ1154) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [O Little Town of Bethlehem](https://open.spotify.com/album/6fD04UQuEKpf3xt92q0OYP) | 1:56 | 2022-10-07 |  |
 | [Old Time Christmas](https://open.spotify.com/track/5zIyymMc7mENbj2oRdJZsp) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [Old Time Christmas](https://open.spotify.com/album/400GevcjYjBmtOzCn6orRT) | 3:21 | 2022-10-14 |  |
 | [Old Toy Trains](https://open.spotify.com/track/0tWFzIcS9iEY7n1ntAj1G7) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Old Toy Trains](https://open.spotify.com/album/6RqWB8DbsGCYjDj8N3pVW4) | 2:45 | 2022-10-14 |  |
+| [Once In Royal David's City](https://open.spotify.com/track/4o9strKpeTHvt2ojETGPZf) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Once in Royal David's City](https://open.spotify.com/album/45URvI9CPhDETWSaMgyBDt) | 2:45 | 2023-10-13 |  |
 | [Please Come Home for Christmas](https://open.spotify.com/track/4W31Mtah0f28AW2fRBQpQq) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Please Come Home For Christmas](https://open.spotify.com/album/3duk39Tee1A4VgvwPTjiu7) | 2:41 | 2021-12-17 |  |
 | [Please Come Home for Christmas \- Acoustic](https://open.spotify.com/track/09Qu2q7DsZ3DRQVn8TwNEL) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [The Acoustic Sessions](https://open.spotify.com/album/1m8phO2wWxsofIP9VSnkFz) | 3:14 | 2021-12-17 | 2022-07-29 |
 | [Please Come Home for Christmas \- Acoustic Version](https://open.spotify.com/track/7nWnzOuTIwVo5Ihjz024vd) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Please Come Home for Christmas \(Acoustic Version\)](https://open.spotify.com/album/64mq9Wgk82qoXWcwKpvwmw) | 3:14 | 2021-12-17 | 2022-10-15 |
@@ -137,14 +138,17 @@
 | [Step Into Christmas](https://open.spotify.com/track/0lnqUHZhyP2UBxB1HnzIvH) | [Eleanor Zamora](https://open.spotify.com/artist/0qvn8xbF2YvSvBIj7Ud4Cz) | [Step Into Christmas](https://open.spotify.com/album/6T6Vyxa9DWZaIWQtojuASa) | 5:24 | 2022-10-24 |  |
 | [Step Into Christmas \- Acoustic](https://open.spotify.com/track/4jm6JwmRMV1wzKLW3cQKNK) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Step Into Christmas \(Acoustic\)](https://open.spotify.com/album/0T2O9nj2khsfg0I8J5FgVe) | 3:03 | 2022-11-24 |  |
 | [Thank God It's Christmas](https://open.spotify.com/track/3sSEbpbUVNnzU2sFZ81WAk) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Thank God It's Christmas](https://open.spotify.com/album/5eifKVwGfihPewkitHo5PS) | 4:03 | 2021-12-17 |  |
+| [That's Christmas to Me](https://open.spotify.com/track/5PefLhPGTBDvHLNvCqgDVp) | [Tiffany Thomas](https://open.spotify.com/artist/3v2c2YbSY9F2DxmF88MbUw), [Theresa Chase](https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P) | [That's Christmas to Me](https://open.spotify.com/album/3JzHEhbSkMYTBUBI77C793) | 3:04 | 2023-10-13 |  |
 | [The Christmas Song](https://open.spotify.com/track/3CXCy292csbL8S8X2DOnxT) | [Catherine Feeny](https://open.spotify.com/artist/2PKUc5LXsZNjqOpAZKcFgz) | [The Hotel Café presents..\. Winter Songs](https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad) | 3:21 | 2021-12-17 | 2022-10-15 |
 | [The Christmas Song](https://open.spotify.com/track/12CVNOsr1L3omtra5Z2Jmi) | [McKenna Williams](https://open.spotify.com/artist/03uZO3ld49qo2B5Y39Io05), [Gil Cohen](https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe) | [The Christmas Song](https://open.spotify.com/album/7M4I7btwjjSv6WIa3AxqH6) | 3:26 | 2021-12-17 | 2022-10-15 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/0QSELmravjW44FAonYCWV5) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/album/0nkB7pN7Zw01xnzfx4u7oj) | 2:53 | 2022-10-14 |  |
 | [The Christmas Waltz](https://open.spotify.com/track/2QopSlvNVohyDbU1n185Rn) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [The Secret Of Christmas](https://open.spotify.com/album/6PkCw5bDn4bYlpmz3mKyQT) | 1:50 | 2021-12-17 |  |
 | [The First Noel](https://open.spotify.com/track/57gAliJz7TiUxAmdNA5juk) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [The First Noel](https://open.spotify.com/album/3cszSYyCFlDPrCdcuN2nSe) | 3:23 | 2022-12-16 |  |
 | [This Christmas](https://open.spotify.com/track/5TE14896R7FuZQ6wPgORl6) | [Tore](https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk) | [Acoustic Christmas \- Deluxe Edition](https://open.spotify.com/album/20PjNlTdOUYB2lIg5ipiA7) | 3:38 | 2021-12-17 |  |
+| [Twelve Days Of Christmas](https://open.spotify.com/track/67BkXkBDWcPVWVNkBGiFvA) | [The Rose Thorns](https://open.spotify.com/artist/74vreNdorDoDuid4Jgmy7p) | [Twelve Days Of Christmas](https://open.spotify.com/album/2Y40iENowik3TeGiUpXQSI) | 3:28 | 2023-10-13 |  |
 | [Underneath The Christmas Tree](https://open.spotify.com/track/5uqci5rtzYQXraMi5UifJm) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Christmas Lights](https://open.spotify.com/album/0SQXEEtNIYg1Ar5rX0OND9) | 2:44 | 2021-12-17 |  |
 | [Walking In The Air](https://open.spotify.com/track/4fgAnfGDUtwvc7hDQLoQK0) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas Vol.2](https://open.spotify.com/album/70IoCLSMLnzQ5gaeABJ1qB) | 3:26 | 2022-10-24 |  |
+| [We Three Kings](https://open.spotify.com/track/5dT77tyFweHSHC8V0lrDFH) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [We Three Kings](https://open.spotify.com/album/1NZWpPv9ATEef2q7UaS5hc) | 2:41 | 2023-10-13 |  |
 | [We Wish You A Merry Christmas](https://open.spotify.com/track/7F1TSO5pw6jCnCtAUW4JmI) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas](https://open.spotify.com/album/6LIX8A6r9r6hbaHI1nkOFo) | 2:40 | 2021-12-17 |  |
 | [What Are You Doing New Years Eve](https://open.spotify.com/track/5HhcXgRU7kYszL7OQZtNlc) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 2:53 | 2021-12-17 | 2022-10-08 |
 | [What Child Is This](https://open.spotify.com/track/4vMeO6jafDMycnkrBvizrF) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [The Light Came Down](https://open.spotify.com/album/69jXtqUEHCVsB5geUWN1Yl) | 3:52 | 2021-12-17 |  |

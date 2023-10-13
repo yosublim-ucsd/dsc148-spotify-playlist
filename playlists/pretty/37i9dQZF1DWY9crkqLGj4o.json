@@ -1,12 +1,12 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos. Foto: Anderson Freire",
-  "num_followers": 396949,
+  "num_followers": 396975,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTc0MTIyMWMyOTc1ZDIyY2UxMWY1Y2NjYjJkMTJiZGE4ODdhYzIx",
+  "snapshot_id": "MCw5NDVkZTlkZjhhZjQzZGUwN2VmMDEwYzZmYjAxODEzMjgxNjRlNzI4",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:05",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-10-06 04:01:05",
       "album": {
-        "name": "Pode Morar Aqui",
-        "url": "https://open.spotify.com/album/4DZvXBLQeG6YTNggyOQGDI"
-      },
-      "artists": [
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        }
-      ],
-      "duration_ms": 566865,
-      "name": "Pode Morar Aqui",
-      "url": "https://open.spotify.com/track/3SSb1jUojmZLbml3S3f9bN"
-    },
-    {
-      "added_at": "2023-10-06 04:01:05",
-      "album": {
         "name": "Eu Me Atrevi a Te Chamar de Abba",
         "url": "https://open.spotify.com/album/2QgaEgtRuW1EZ3zk7J4oNd"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 425800,
       "name": "Aquieta Minh'alma",
       "url": "https://open.spotify.com/track/2pfh4FmcvPTqBYApHaV6p3"
+    },
+    {
+      "added_at": "2023-10-06 04:01:05",
+      "album": {
+        "name": "Pode Morar Aqui",
+        "url": "https://open.spotify.com/album/4DZvXBLQeG6YTNggyOQGDI"
+      },
+      "artists": [
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        }
+      ],
+      "duration_ms": 566865,
+      "name": "Pode Morar Aqui",
+      "url": "https://open.spotify.com/track/3SSb1jUojmZLbml3S3f9bN"
     },
     {
       "added_at": "2023-10-06 04:01:05",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-10-06 04:01:05",
       "album": {
+        "name": "Que Amor \u00c9 Esse",
+        "url": "https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 420977,
+      "name": "Que Amor \u00c9 Esse",
+      "url": "https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS"
+    },
+    {
+      "added_at": "2023-10-06 04:01:05",
+      "album": {
         "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
         "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
       },
@@ -515,18 +531,22 @@
     {
       "added_at": "2023-10-06 04:01:05",
       "album": {
-        "name": "Que Amor \u00c9 Esse",
-        "url": "https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd"
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/5CJfvaEHC43XbIFCDRN97k"
       },
       "artists": [
         {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+          "name": "Heloisa Rosa",
+          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 420977,
-      "name": "Que Amor \u00c9 Esse",
-      "url": "https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS"
+      "duration_ms": 343344,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/6466PQ9yTWUsEr1sWBpH2w"
     },
     {
       "added_at": "2023-10-06 04:01:05",
@@ -547,26 +567,6 @@
       "duration_ms": 384760,
       "name": "Maranata - Ao Vivo",
       "url": "https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N"
-    },
-    {
-      "added_at": "2023-10-06 04:01:05",
-      "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/5CJfvaEHC43XbIFCDRN97k"
-      },
-      "artists": [
-        {
-          "name": "Heloisa Rosa",
-          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 343344,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/6466PQ9yTWUsEr1sWBpH2w"
     },
     {
       "added_at": "2023-10-06 04:01:05",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-10-06 04:01:05",
       "album": {
+        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Eu Escolho Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/2MaKWxPGQ6zocvj2ciYREO"
+    },
+    {
+      "added_at": "2023-10-06 04:01:05",
+      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2023-10-06 04:01:05",
       "album": {
-        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Eu Escolho Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/2MaKWxPGQ6zocvj2ciYREO"
-    },
-    {
-      "added_at": "2023-10-06 04:01:05",
-      "album": {
         "name": "Rompendo",
         "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
       },
@@ -703,26 +703,6 @@
       "duration_ms": 233406,
       "name": "Volte a Sonhar",
       "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
-    },
-    {
-      "added_at": "2023-10-06 04:01:05",
-      "album": {
-        "name": "Entre Amigos",
-        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3o L\u00e1zaro",
-          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
-        },
-        {
-          "name": "Marquinhos Gomes",
-          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
-      "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
     },
     {
       "added_at": "2023-10-06 04:01:05",
@@ -759,6 +739,26 @@
     {
       "added_at": "2023-10-06 04:01:05",
       "album": {
+        "name": "Entre Amigos",
+        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3o L\u00e1zaro",
+          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
+        },
+        {
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
+      "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
+    },
+    {
+      "added_at": "2023-10-06 04:01:05",
+      "album": {
         "name": "Liberta-Me de Mim",
         "url": "https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y"
       },
@@ -791,6 +791,26 @@
     {
       "added_at": "2023-10-06 04:01:05",
       "album": {
+        "name": "Fornalha Laura Souguellis",
+        "url": "https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW"
+      },
+      "artists": [
+        {
+          "name": "Laura Souguellis",
+          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
+        },
+        {
+          "name": "Dunamis Music",
+          "url": "https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce"
+        }
+      ],
+      "duration_ms": 735253,
+      "name": "Em Teus Bra\u00e7os",
+      "url": "https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ"
+    },
+    {
+      "added_at": "2023-10-06 04:01:05",
+      "album": {
         "name": "Quebrantado Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 296147,
       "name": "Deus de Detalhes",
       "url": "https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq"
-    },
-    {
-      "added_at": "2023-10-06 04:01:05",
-      "album": {
-        "name": "Fornalha Laura Souguellis",
-        "url": "https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW"
-      },
-      "artists": [
-        {
-          "name": "Laura Souguellis",
-          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
-        },
-        {
-          "name": "Dunamis Music",
-          "url": "https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce"
-        }
-      ],
-      "duration_ms": 735253,
-      "name": "Em Teus Bra\u00e7os",
-      "url": "https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ"
     },
     {
       "added_at": "2023-10-06 04:01:05",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-10-06 04:01:05",
       "album": {
-        "name": "Entre Amigos",
-        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3o L\u00e1zaro",
-          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
-        },
-        {
-          "name": "Damaris Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Deus Vai Fazer (feat. Damaris Brand\u00e3o)",
-      "url": "https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp"
-    },
-    {
-      "added_at": "2023-10-06 04:01:05",
-      "album": {
         "name": "Preto no Branco (Ao Vivo)",
         "url": "https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 368346,
       "name": "Os Sonhos de Deus (feat. Luk\u00e3o Carvalho & Eli Soares) - Ao Vivo",
       "url": "https://open.spotify.com/track/6IdgK0aBrVMfyFGcADSUgM"
+    },
+    {
+      "added_at": "2023-10-06 04:01:05",
+      "album": {
+        "name": "Entre Amigos",
+        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3o L\u00e1zaro",
+          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
+        },
+        {
+          "name": "Damaris Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Deus Vai Fazer (feat. Damaris Brand\u00e3o)",
+      "url": "https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp"
     },
     {
       "added_at": "2023-10-06 04:01:05",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-10-06 04:01:05",
       "album": {
-        "name": "Kemuel (Sony Music Live)",
-        "url": "https://open.spotify.com/album/5ewCRapBYzfnGeXTQq1fE1"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 314289,
-      "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (What a Beautiful Name) [Sony Music Live]",
-      "url": "https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n"
-    },
-    {
-      "added_at": "2023-10-06 04:01:05",
-      "album": {
         "name": "Uma Coisa (Ao Vivo)",
         "url": "https://open.spotify.com/album/5apwTXXwp74piToPxH30dE"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 398562,
       "name": "Para Que Entre o Rei - Ao Vivo",
       "url": "https://open.spotify.com/track/2c8UiaOBa5eWB5eVIMpAna"
+    },
+    {
+      "added_at": "2023-10-06 04:01:05",
+      "album": {
+        "name": "Kemuel (Sony Music Live)",
+        "url": "https://open.spotify.com/album/5ewCRapBYzfnGeXTQq1fE1"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 314289,
+      "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (What a Beautiful Name) [Sony Music Live]",
+      "url": "https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n"
     },
     {
       "added_at": "2023-10-06 04:01:05",

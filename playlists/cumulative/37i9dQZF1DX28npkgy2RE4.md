@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Tré Burt
 
-426 songs - 1 day 2 hr 11 min
+427 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [Multiply](https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Digital Meadow](https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ) | 2:16 | 2021-11-12 |  |
 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 | 2022-01-14 |  |
 | [My First Life \(feat\. Wye Oak\)](https://open.spotify.com/track/0FbCIMjpjtheaSTsFlzknc) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt), [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [My First Life](https://open.spotify.com/album/2pvy6Hm8BuyUJGzIXQKgJ1) | 3:36 | 2021-11-12 | 2022-07-29 |
-| [Nadja](https://open.spotify.com/track/6AaZ0uxY59zj65pyIalnKS) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Nadja](https://open.spotify.com/album/0Niv3RqgsVUsDHIJBwqYE5) | 4:06 | 2023-02-24 |  |
+| [Nadja](https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:06 | 2023-10-06 |  |
+| [Nadja](https://open.spotify.com/track/6AaZ0uxY59zj65pyIalnKS) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Nadja](https://open.spotify.com/album/0Niv3RqgsVUsDHIJBwqYE5) | 4:06 | 2023-02-24 | 2023-10-13 |
 | [Nature Song](https://open.spotify.com/track/7gxMs8qsk1PmdSjwHlG86B) | [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Alternator E.P.](https://open.spotify.com/album/0VLcprwhFTvYUbI31jTCb2) | 2:43 | 2021-11-12 | 2022-07-29 |
 | [Never on My Mind](https://open.spotify.com/track/4z9ViersKJgj1ZwTjjfhtk) | [Tobacco City](https://open.spotify.com/artist/00Af3oygT0HC6ld0c2HwFX) | [Tobacco City, USA](https://open.spotify.com/album/11J38DSk3mY2KEOx1NEY20) | 3:45 | 2022-07-11 | 2022-09-15 |
 | [New Mercies](https://open.spotify.com/track/0yl1pCNHItFUpbFgwIfgjY) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [New Mercies](https://open.spotify.com/album/2JrnDNWhJzz5J801SYEOvb) | 4:42 | 2022-04-01 | 2022-04-20 |

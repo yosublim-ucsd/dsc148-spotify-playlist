@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Martin Kartenjer
 
-152 songs - 8 hr 39 min
+154 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,10 +153,12 @@
 | [Vaanam Ellaye](https://open.spotify.com/track/5jNV9LJs8MeaN8d5sO4Fes) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Vaanam Ellaye](https://open.spotify.com/album/6ehc5mD4YXCrWpJYNpnXFy) | 3:30 | 2023-04-03 | 2023-06-24 |
 | [Vaasam Pesum](https://open.spotify.com/track/3oBLxR0GR0tCuhEvjamXM4) | [Ainthinai](https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ) | [Vaasam Pesum](https://open.spotify.com/album/65uesvauWksGXmaSS78K1L) | 3:50 | 2023-09-22 |  |
 | [Vachi Seiyapora](https://open.spotify.com/track/7zP9oosuNW34MudwwLLDdF) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Vachi Seiyapora](https://open.spotify.com/album/3CpQGDhtO10nxGLJUXOXLo) | 3:56 | 2023-07-26 |  |
+| [Valapodum Kannala](https://open.spotify.com/track/0RfaSAx3yNsRglSucB3mIT) | [Rithvi Ramesh](https://open.spotify.com/artist/4lah4fQGDTcyB6C9sAEQSq), [Allan Francis](https://open.spotify.com/artist/38WAcNnawdxZRRt96EAmDL) | [Valapodum Kannala](https://open.spotify.com/album/7KO1uHv3ZYY2wdNJJbVOxU) | 3:27 | 2023-10-12 |  |
 | [Valithathey](https://open.spotify.com/track/3sKdK2a0Arlv0KC0BEorQl) | [Allan Preetham](https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03) | [Valithathey](https://open.spotify.com/album/1mx2goQMmpZ4Xy08BMbo8F) | 2:01 | 2023-07-12 |  |
 | [Vannamayilae](https://open.spotify.com/track/5cgiw1qjyjnrmP8Xmm4LFf) | [A K PRRIYAN](https://open.spotify.com/artist/0awt0os7KJ5wBgHD5RV58o), [Akshaya Shivkumar](https://open.spotify.com/artist/3XQCmyhNSMPYoTRE7VVKWJ) | [Vannamayilae](https://open.spotify.com/album/6hcO0cW28GJfY0rWj0hqMU) | 3:07 | 2023-06-16 | 2023-10-04 |
 | [Vengai Penne](https://open.spotify.com/track/5l2kfVTuAkV7Fh3e98XmeT) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Vengai Penne](https://open.spotify.com/album/2mMZVC8DDZ9avU17VSmWNB) | 3:22 | 2023-05-22 |  |
 | [Veruthu Pochu](https://open.spotify.com/track/5G8ax76K5ZmOgi2KRkaaDk) | [Shyam Sasikumar](https://open.spotify.com/artist/4UsEnWXfJJrVNNEv4fClaT), [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd) | [Palaya Folder](https://open.spotify.com/album/53ZtBsYjTasQUCmg3Qd8Hz) | 2:04 | 2023-03-21 | 2023-09-26 |
+| [Vibe](https://open.spotify.com/track/3s5TMnbs3AKo7j8FG7kXkq) | [Meiarivu](https://open.spotify.com/artist/0hCIMGzjKCTxoHrfbJ17jw), [Imman Vijay](https://open.spotify.com/artist/5I0kqjiVuNcomVmnFVhvX3) | [Vibe](https://open.spotify.com/album/5ryE7bfNEuN3d5qs3MEJ3V) | 3:13 | 2023-10-12 |  |
 | [Vizhigalil Aasa](https://open.spotify.com/track/0M3vAjj63SOIIlfBr3Ts7M) | [RAJ\-RIZ](https://open.spotify.com/artist/6OAMNxGZwWZAuYqRhh4Y5d), [Surabhi Vimala](https://open.spotify.com/artist/03W0fDGDp3NuAgNUXjm6pT) | [Vizhigalil Aasa](https://open.spotify.com/album/5Sb2VNYMrRVWAcO1KtOsso) | 4:02 | 2023-10-04 |  |
 | [Without You](https://open.spotify.com/track/4vsmUOSYq1RkeSKJXRKr7S) | [Parth Sapphire](https://open.spotify.com/artist/5m3eU2BVDTAKz6Lm9MBpDr), [Niriksha Manoj](https://open.spotify.com/artist/2ZShEPlbOdm7sfbKuPIuaZ), [Vaaheesan Rasaiya](https://open.spotify.com/artist/10SpEg9HhR7vQzNRUhHdye) | [Without You](https://open.spotify.com/album/5i75qd9PvfHvZlSZwaQs20) | 3:07 | 2023-07-25 |  |
 | [பெண்ணே..\. பெண்ணே...](https://open.spotify.com/track/2fuTKZlkfYox0kst02bAEA) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh) | [பெண்ணே..\. பெண்ணே...](https://open.spotify.com/album/4Rxs9oN8ofjCQYFFUHFqQo) | 4:26 | 2023-07-31 |  |

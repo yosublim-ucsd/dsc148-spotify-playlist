@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 175187,
+  "num_followers": 175245,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjVmMjA4ZmNlNWI5ZWZiYmU4ZGIwNTY3OWZmNGVmNjc0ZTExMGU0",
+  "snapshot_id": "MCxiNzIwOWE1NWRhNjMwNjk4MmM3ZTVmZDVjOGE1Y2E5MDdiYzE5YzQz",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "El Dise\u00f1ador",
+        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
+      },
+      "artists": [
+        {
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+        }
+      ],
+      "duration_ms": 225930,
+      "name": "El Dise\u00f1ador",
+      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Somos Uno",
         "url": "https://open.spotify.com/album/7uBOVDAdKIUIw8KpsNAhvJ"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 135850,
       "name": "Somos Uno",
       "url": "https://open.spotify.com/track/1uABVd0XV7yZLb3kAHEtUI"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "El Dise\u00f1ador",
-        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
-      },
-      "artists": [
-        {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
-        }
-      ],
-      "duration_ms": 225930,
-      "name": "El Dise\u00f1ador",
-      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Por un Momento",
-        "url": "https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs"
-      },
-      "artists": [
-        {
-          "name": "The cXurch",
-          "url": "https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL"
-        },
-        {
-          "name": "Villanova",
-          "url": "https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Por un Momento",
-      "url": "https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Sigo Aqui",
         "url": "https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 194986,
       "name": "Sigo Aqu\u00ed",
       "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Por un Momento",
+        "url": "https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs"
+      },
+      "artists": [
+        {
+          "name": "The cXurch",
+          "url": "https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL"
+        },
+        {
+          "name": "Villanova",
+          "url": "https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Por un Momento",
+      "url": "https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1827,42 +1827,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Relevantes",
-        "url": "https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF"
-      },
-      "artists": [
-        {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
-        },
-        {
-          "name": "Onell Diaz",
-          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
-        }
-      ],
-      "duration_ms": 210370,
-      "name": "Humillado",
-      "url": "https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Flow Cristiano",
-        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
-      },
-      "artists": [
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
-        }
-      ],
-      "duration_ms": 210337,
-      "name": "Flow Cristiano",
-      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "No Tiene Sentido",
         "url": "https://open.spotify.com/album/1o7jXsTfe2SrhI4HEPoaKO"
       },
@@ -1883,6 +1847,42 @@
       "duration_ms": 253388,
       "name": "No Tiene Sentido",
       "url": "https://open.spotify.com/track/2jSSGUPLFu6OFlFuTWOLlP"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Flow Cristiano",
+        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
+      },
+      "artists": [
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "duration_ms": 210337,
+      "name": "Flow Cristiano",
+      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Relevantes",
+        "url": "https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF"
+      },
+      "artists": [
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        },
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        }
+      ],
+      "duration_ms": 210370,
+      "name": "Humillado",
+      "url": "https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863"
     },
     {
       "added_at": "2022-08-27 05:04:45",

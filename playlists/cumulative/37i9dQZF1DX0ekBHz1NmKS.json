@@ -254,7 +254,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 202686,
       "name": "A Bowl of Unripe Fruit",
       "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
@@ -1087,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Begrava dig",
+        "url": "https://open.spotify.com/album/3QnFcFuPqIdEq8xA9RK4yD"
+      },
+      "artists": [
+        {
+          "name": "Manon Lamartine",
+          "url": "https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192813,
+      "name": "Begrava dig",
+      "url": "https://open.spotify.com/track/75w415l2DWr3SwGMEreFpS"
+    },
+    {
+      "album": {
         "name": "Belly Shots",
         "url": "https://open.spotify.com/album/5Js3djpsjpb4D5YtIW7QCU"
       },
@@ -1398,6 +1416,24 @@
       "duration_ms": 165200,
       "name": "Borde veta b\u00e4ttre",
       "url": "https://open.spotify.com/track/3W8uHFs1NQm5bXVgAGKYvo"
+    },
+    {
+      "album": {
+        "name": "Both Ways",
+        "url": "https://open.spotify.com/album/7lrIOVjFYRKTIDPFufwfJF"
+      },
+      "artists": [
+        {
+          "name": "ELMA",
+          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Both Ways",
+      "url": "https://open.spotify.com/track/7fJT8SSG96Su9Q40Bjs8x2"
     },
     {
       "album": {
@@ -5269,6 +5305,24 @@
     },
     {
       "album": {
+        "name": "Heartbreakmiljon\u00e4r",
+        "url": "https://open.spotify.com/album/0b4MV4Nget3iV9y2vi7Ewz"
+      },
+      "artists": [
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193703,
+      "name": "Heartbreakmiljon\u00e4r",
+      "url": "https://open.spotify.com/track/2li3Mf9nEwOkvQ43QUNh0j"
+    },
+    {
+      "album": {
         "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
         "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
       },
@@ -7382,7 +7436,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 183733,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/6mXCbiHcFrosLRz2Lnypsx"
@@ -7440,6 +7494,28 @@
       "duration_ms": 142816,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/6DS1xAYtMbwfMx0b8IlYIk"
+    },
+    {
+      "album": {
+        "name": "LIGHTS",
+        "url": "https://open.spotify.com/album/2VOmS03kyA3Gqvf79dgp9c"
+      },
+      "artists": [
+        {
+          "name": "MASAKA",
+          "url": "https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY"
+        },
+        {
+          "name": "Stella Explorer",
+          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187181,
+      "name": "LIGHTS",
+      "url": "https://open.spotify.com/track/1AoR3F9cAjoHm6qpB0wpFe"
     },
     {
       "album": {
@@ -12178,7 +12254,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 177928,
       "name": "Summer 16",
       "url": "https://open.spotify.com/track/52SIiW51Nr9JwtM9pJ5Mn3"
@@ -12388,7 +12464,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 130509,
       "name": "SVAG",
       "url": "https://open.spotify.com/track/4ONPQrk76tFwINmmnDVUTS"

@@ -4,7 +4,7 @@
 
 > Mellow jazz to stay focused or unwind.
 
-726 songs - 1 day 18 hr 50 min
+730 songs - 1 day 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [A Foggy Day](https://open.spotify.com/track/6XKW9hyxFMh8K8HrhzR91I) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [A Foggy Day](https://open.spotify.com/album/0ufANbMUnmINmTAVRjdXhX) | 2:34 | 2023-03-23 | 2023-06-09 |
 | [A Future With You](https://open.spotify.com/track/0iIxcgkANZfp1Mk4Es1OUw) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [A Future With You](https://open.spotify.com/album/6BQydkNHQgsSwEhsFm1YUf) | 3:05 | 2022-09-13 |  |
 | [A Gentle Reminder](https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 3:29 | 2022-05-31 |  |
+| [A Long Day](https://open.spotify.com/track/0G9w3EodK2pcqKhzB7KpN8) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [A Long Day](https://open.spotify.com/album/1NNC5s9uAgPIHxwi7VlvBs) | 2:48 | 2023-10-13 |  |
 | [A Love Devine](https://open.spotify.com/track/5TyZn6zFqw8tA6S5qdMheG) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Stand](https://open.spotify.com/album/1LFfPnj2bH1O8D8FGyQhvt) | 2:21 | 2021-12-07 | 2023-05-05 |
 | [A Lucky Break](https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Lucky Break](https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d) | 3:09 | 2023-04-13 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1sp7bA5S2pxf2mNsVLCjuU) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/7979k1NF3U9qJlbgl9yoAj) | 3:36 | 2022-08-30 |  |
@@ -65,6 +66,7 @@
 | [As I Ponder](https://open.spotify.com/track/6khM5DGF44SpKPh0Wb0lQI) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [As I Ponder](https://open.spotify.com/album/367OQVZU6YW07Dk0B7SvO5) | 3:19 | 2023-08-17 |  |
 | [As Long As I Live](https://open.spotify.com/track/2Q3QWcfG4G8K5cGx1nG2Hf) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [In Your Own Sweet Way](https://open.spotify.com/album/6kz1KxMklEoHyqx5CjzGG6) | 2:32 | 2023-01-05 |  |
 | [Ascent](https://open.spotify.com/track/4d2YgepBRyYjr1EXM6slZq) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:10 | 2021-12-07 | 2022-12-02 |
+| [At Dawn](https://open.spotify.com/track/5nLMgWEQA33IDqZJyCkHND) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Paris in Spring](https://open.spotify.com/album/6j3hvmLvXl1eIHonHyj8cV) | 3:53 | 2023-10-13 |  |
 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 | 2022-05-09 |  |
 | [Audrey and Jack](https://open.spotify.com/track/6Zxx0HOw0vDjvO5URV6C4b) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Audrey and Jack](https://open.spotify.com/album/6bRuZkAUye4yQB0kaymNcO) | 3:23 | 2023-08-10 |  |
 | [Autumn In New York](https://open.spotify.com/track/62FrtiVepyS9UGfcTPhu7W) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Autumn In New York](https://open.spotify.com/album/1bfAtOefGFjr2k6eQicSzJ) | 4:19 | 2022-09-29 |  |
@@ -253,6 +255,7 @@
 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-05-31 |  |
 | [Hope](https://open.spotify.com/track/4bKVx5gwMwv0pEN79Jo8V6) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Hope](https://open.spotify.com/album/6KISGlQsr69gUTLtsLABa2) | 3:57 | 2022-11-17 | 2023-06-16 |
 | [Hoppet](https://open.spotify.com/track/50QdRhmKuE8C2z1NGkiKxB) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Hoppet](https://open.spotify.com/album/6IOoncN42rM25gZJx0rp8J) | 2:35 | 2021-12-07 | 2023-03-03 |
+| [How About You](https://open.spotify.com/track/4tVteS21UzbqesfNG7uT8D) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [How About You](https://open.spotify.com/album/5DUxax2EBK8DvoRMmiEi7m) | 3:22 | 2023-10-13 |  |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/4C4nNem1wGqL8xXrE1Ak1e) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [How Long Has This Been Going On?](https://open.spotify.com/album/3W0jGlzSvEXMh9tL3d2x3P) | 4:57 | 2021-12-07 | 2022-09-20 |
 | [Hum Sweet Serenades](https://open.spotify.com/track/4HCsxaiFhQ5J6JZbsv9TUm) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [Hum Sweet Serenades](https://open.spotify.com/album/0XrvNpJzc7mLeoHBiuzbzF) | 3:03 | 2023-03-02 |  |
 | [I awake](https://open.spotify.com/track/6AianoPQwgFLarNY5s3ntc) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [I awake](https://open.spotify.com/album/1H478Tq3lKuqWtTdzhLa8q) | 4:05 | 2023-02-02 |  |
@@ -714,6 +717,7 @@
 | [Witchcraft](https://open.spotify.com/track/66aAqXbtPixOM1WDoEuhHb) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Witchcraft](https://open.spotify.com/album/37mjWYjc42OJuWa65ZyFBQ) | 3:02 | 2022-11-10 | 2023-09-01 |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-06 |  |
 | [Wooden String](https://open.spotify.com/track/7A0Tfue4lSnzJsudy5m7y9) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Wooden String](https://open.spotify.com/album/0JNbiCpZInQlQcYnRzVGZS) | 3:24 | 2023-08-10 |  |
+| [Worry and Gossip](https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Worry and Gossip](https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV) | 3:41 | 2023-10-13 |  |
 | [Wrap Your Troubles In Dreams](https://open.spotify.com/track/7H6doSNNykKJH1ewJxW4FL) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Wrap Your Troubles In Dreams](https://open.spotify.com/album/5BMDLUvkvvkaxOVWKDnM7Q) | 2:49 | 2023-06-08 |  |
 | [Yearning](https://open.spotify.com/track/5VHpA5RrPEGY9NgHhahHnG) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Yearning](https://open.spotify.com/album/7boH53I2zbrw1GoeACrj8c) | 2:59 | 2023-08-31 |  |
 | [Yet another dream](https://open.spotify.com/track/5tJwP1uR77rBWkFUdzmB2Y) | [Tom Bates](https://open.spotify.com/artist/2HyugLj7NVwGIowZWzX2D1) | [Just a fool](https://open.spotify.com/album/293iki1PCPrjghcqs9r8dY) | 4:46 | 2021-12-07 |  |

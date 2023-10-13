@@ -2,9 +2,9 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy?si=7f7EU7StRLafRZ1CMVjKcQ">Thandi Ntuli</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C?si=EjNBNj\-rTx2PbN4oc64EcQ">Desire Marea</a>
 
-131 songs - 13 hr 48 min
+132 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [The Fall](https://open.spotify.com/track/4rjThEz7ckmhTMcxNzkavN) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Group Theory: Black Music](https://open.spotify.com/album/27dEFff0ZxZ4EI6Fatqap1) | 4:55 | 2022-05-12 | 2023-08-26 |
 | [The Meeting Place](https://open.spotify.com/track/70ECtruJHPrf2eoEMLdDqU) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp), [Siparia Deltones](https://open.spotify.com/artist/72CBLZTw8aO90bXlS8vMUz), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Siparia To Soweto](https://open.spotify.com/album/4xCOJRqTHEqgNVKZIYBL5u) | 6:15 | 2023-09-29 |  |
 | [The Migration Suite Part II](https://open.spotify.com/track/2aUgQ0RxwcOOGCrWKYwUAC) | [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm) | [uGaba the Migration](https://open.spotify.com/album/1Igp59kX92saIgyQYTbnm7) | 7:24 | 2022-04-28 |  |
+| [The Only Way](https://open.spotify.com/track/5khKL5lhGGIdyR0T2dAgKC) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [The Only Way](https://open.spotify.com/album/4Cscjy5WTsT2p4sVc7Iyjn) | 4:16 | 2023-10-12 |  |
 | [The Panther](https://open.spotify.com/track/5duF6755ZRQ90ga0HUlirm) | [Simeon Davis Group](https://open.spotify.com/artist/4VpuhyxGT6WgAwOfI6OLqT), [Alex Hand](https://open.spotify.com/artist/1JHDHQilgJSwnEvwRmsFpL) | [Of Narratives & Nocturnes](https://open.spotify.com/album/52UFxrxnZAHFnzYmCLGoIE) | 12:26 | 2022-06-23 | 2023-02-04 |
 | [The Prayer](https://open.spotify.com/track/6Zr7F3b51giK0VapxTNjRS) | [Leagan Starchild](https://open.spotify.com/artist/463uy2bD1rR0u2GbG8AMxS), [Mangaliso Asi](https://open.spotify.com/artist/154yazp34Zc2hrkxo0YbTx), [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Ekyoto](https://open.spotify.com/album/2Ga31FnP8JCHAncOn9MxgS) | 2:37 | 2022-04-28 | 2023-03-18 |
 | [The Rapture](https://open.spotify.com/track/7MHE2OM265GQ7TAGB5DnSo) | [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Tefiti \- Goddess of Creation](https://open.spotify.com/album/7GAp6bCSVu0dbV5scjOa5M) | 2:46 | 2022-04-28 | 2023-08-25 |

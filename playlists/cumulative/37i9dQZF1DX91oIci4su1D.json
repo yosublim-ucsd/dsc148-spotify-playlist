@@ -12728,7 +12728,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 238285,
       "name": "Soundscape",
       "url": "https://open.spotify.com/track/2ckuYy0wxNGXfjrRLfCnQQ"
@@ -13134,6 +13134,28 @@
       "duration_ms": 169014,
       "name": "Storm",
       "url": "https://open.spotify.com/track/0xfcqMqf1yYNbOf0pw5LE1"
+    },
+    {
+      "album": {
+        "name": "Stormarn",
+        "url": "https://open.spotify.com/album/1xusXXQVxw7eaJB40GhA0s"
+      },
+      "artists": [
+        {
+          "name": "Farius",
+          "url": "https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ"
+        },
+        {
+          "name": "Johan Vilborg",
+          "url": "https://open.spotify.com/artist/7hccrx4H5boJlleSXh1j7N"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314375,
+      "name": "Stormarn",
+      "url": "https://open.spotify.com/track/40rJRda0SwHICpgKTrlfkW"
     },
     {
       "album": {

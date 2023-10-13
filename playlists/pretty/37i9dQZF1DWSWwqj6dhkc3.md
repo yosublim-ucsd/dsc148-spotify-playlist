@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 
 > The official playlist for Valeria\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,594 likes - 76 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,609 likes - 76 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 | 45 | [Spur](https://open.spotify.com/track/4v2EuZGI2keGtmUoOBucwk) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Discreet Desires](https://open.spotify.com/album/0bQyK8wR0FFKE0rJyQH9pQ) | 4:18 |
 | 46 | [Only Takes a Night \(Unreleased B\-side\)](https://open.spotify.com/track/1KkYxLKmRJM4Z3cgbbqysq) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Shake, Shook, Shaken \(Deluxe Edition B\-Sides\)](https://open.spotify.com/album/1YT3LrX8BhUeqsscli66Iu) | 2:49 |
 | 47 | [Chup Chup](https://open.spotify.com/track/47xZ4kPQh82LSMBwCXLGZJ) | [Australian Blonde](https://open.spotify.com/artist/5jbvTNkLBE4W1wQlDzHgxU) | [Pizza Pop](https://open.spotify.com/album/3GScIDM0j0GnnNdISSd1Df) | 2:27 |
-| 48 | [Fui a Buscar al Sol](https://open.spotify.com/track/72q51tZkGZeN92UAHca86o) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [The New Raemon](https://open.spotify.com/artist/7grmT5tV1tUKfCjPhZgW3h) | [Eclíptica](https://open.spotify.com/album/7HqkDcXBIrGdvoFXZKYDkX) | 3:07 |
+| 48 | [Fui a Buscar al Sol](https://open.spotify.com/track/7mVuCRl3e36TrJuBUBOQZh) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Eclíptica](https://open.spotify.com/album/4BN32ZYVFyGOA7O2VtPV2P) | 3:07 |
 | 49 | [Blow Up](https://open.spotify.com/track/7dNqszkx1prIf0m33E8gDw) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [With Julia](https://open.spotify.com/album/655WhvyaxwMG6PryGpCoTz) | 5:15 |
 | 50 | [Ave María](https://open.spotify.com/track/6xn3h3AVnXYflh1Y2fdXwI) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [12 Favoritas](https://open.spotify.com/album/0sJRzBMswUq69grM3QsR8A) | 3:32 |
 | 51 | [Run](https://open.spotify.com/track/7zEmM99SSam7njYi5XryCa) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Smother](https://open.spotify.com/album/6sSjgyWUWZLmZSAAKZLcwL) | 4:06 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 | 75 | [Voilà](https://open.spotify.com/track/7z9b9sw3k2ov3fO6YHKLHO) | [Club Yoko](https://open.spotify.com/artist/3kcV06zLtzUXC1p43aO5DJ) | [Voilà](https://open.spotify.com/album/7asKOioOiNZUhL5JiQs30H) | 2:25 |
 | 76 | [Everybody Hurts](https://open.spotify.com/track/1keQQqma4XPBRL1e6USd7Z) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Dream On](https://open.spotify.com/album/4EKA6cOPmM0VmjHigV03QH) | 3:36 |
 
-Snapshot ID: `MCxiYzYxYjRiN2EyOWFmNzg5YjEzNGIzMmVjN2NmZjMzOTllNjAxZWYz`
+Snapshot ID: `MCxjOTkzNDc0MzU5M2E4YzIzYzFmNGZmMTQyMjk3ZDQxMTM0Yzk1NDI2`

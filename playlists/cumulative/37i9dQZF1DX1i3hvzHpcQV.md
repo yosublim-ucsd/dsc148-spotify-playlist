@@ -4,7 +4,7 @@
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Jailer
 
-106 songs - 6 hr 27 min
+107 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Kurumugil \(From "Sita Ramam \(Tamil\)"\)](https://open.spotify.com/track/5e2eJl3qNNGWllzSFCYrad) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS) | [Kurumugil \[From "Sita Ramam \(Tamil\)"\]](https://open.spotify.com/album/3QbblpY2hZM0cEhAs3baV7) | 3:38 | 2022-09-20 | 2023-04-19 |
 | [Kutty Pattas](https://open.spotify.com/track/7AHKnQ6XB5l7GL4pTJWLZn) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kutty Pattas](https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs) | 3:59 | 2021-11-15 | 2023-04-19 |
 | [Lokiverse \- Background Score](https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:36 | 2022-07-08 |  |
+| [Maamadura \- From "Jigarthanda DoubleX"](https://open.spotify.com/track/5DezAsjtSLUxW9j00eh0Ia) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Maamadura \(From "Jigarthanda DoubleX"\)](https://open.spotify.com/album/6ndlH0frO7Ol70wcwNrcIS) | 2:48 | 2023-10-12 |  |
 | [Mainaru Vetti Katti](https://open.spotify.com/track/2kvn37700jHPUsRaAbVBFk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Muthamil](https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2) | [Dasara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2RbZdUoJM1OVDhUaly3plr) | 3:23 | 2023-04-15 |  |
 | [Mainaru Vetti Katti \(From "Dasara"\)](https://open.spotify.com/track/2bNnF0kKGMHFSaxXiitbFr) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Muthamil](https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2) | [Mainaru Vetti Katti \(From "Dasara"\) \- Single](https://open.spotify.com/album/0rGcHqbQ7KLQNuEpSfcmf2) | 3:23 | 2023-04-15 | 2023-05-03 |
 | [Mallipoo](https://open.spotify.com/track/3i7qScF9Oyp31O9bAutJez) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Madhushree](https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo) | [Vendhu Thanindhathu Kaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ID1od4fd4L19s7ZjoCeW4) | 4:05 | 2022-09-19 |  |

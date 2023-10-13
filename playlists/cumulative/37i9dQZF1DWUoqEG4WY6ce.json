@@ -1725,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "Cousin",
+        "url": "https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209760,
+      "name": "Evicted",
+      "url": "https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5"
+    },
+    {
+      "album": {
         "name": "Big Echo",
         "url": "https://open.spotify.com/album/4GGwYDNw2tNHbmK93bygqm"
       },
@@ -2780,7 +2798,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 190469,
       "name": "Lancaster Nights",
       "url": "https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4"

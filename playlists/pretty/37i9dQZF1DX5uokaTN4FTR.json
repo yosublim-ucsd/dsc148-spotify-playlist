@@ -1,15 +1,15 @@
 {
-  "description": "The UK's biggest dance playlist! Cover: Joel Corry",
-  "num_followers": 1366802,
+  "description": "The UK's biggest dance playlist! Cover: Jazzy",
+  "num_followers": 1365920,
   "original_name": "Massive Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzY4ODNkOTg1ZmQ5YzA2NTdmMTYwNzJlNzc1NDVhY2QzZDU5MzJh",
+  "snapshot_id": "MCxjNjcxNDFiMTgxNzVjN2NjZDQ0NDk4M2RmMDM2ZGI0MTE4ZDI1MjM4",
   "tracks": [
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -33,7 +33,27 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
+      "album": {
+        "name": "DNA (Loving You) [feat. Hannah Boleyn]",
+        "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
+      },
+      "artists": [
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 164919,
+      "name": "DNA (Loving You) [feat. Hannah Boleyn]",
+      "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
+    },
+    {
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Asking",
         "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
@@ -57,7 +77,7 @@
       "url": "https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Feel It (Club Edit)",
         "url": "https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH"
@@ -73,27 +93,7 @@
       "url": "https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
-      "album": {
-        "name": "DNA (Loving You) [feat. Hannah Boleyn]",
-        "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
-      },
-      "artists": [
-        {
-          "name": "Billy Gillies",
-          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 164919,
-      "name": "DNA (Loving You) [feat. Hannah Boleyn]",
-      "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
-    },
-    {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Disconnect",
         "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Party All The Time",
         "url": "https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Desire (with Sam Smith)",
         "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
@@ -173,7 +173,23 @@
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
+      "album": {
+        "name": "NRG",
+        "url": "https://open.spotify.com/album/3S6FlsCt2FK6saAarcRoyy"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "NRG",
+      "url": "https://open.spotify.com/track/79Ojf7CxxJw04NP4d8hrf8"
+    },
+    {
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Hey DJ",
         "url": "https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Would You (go to bed with me?)",
         "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "So Much In Love",
         "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
@@ -225,7 +241,27 @@
       "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
+      "album": {
+        "name": "On My Love",
+        "url": "https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 222911,
+      "name": "On My Love",
+      "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
+    },
+    {
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Million Dollar Bill",
         "url": "https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7"
@@ -249,7 +285,7 @@
       "url": "https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
@@ -265,27 +301,7 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
-      "album": {
-        "name": "On My Love",
-        "url": "https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 222911,
-      "name": "On My Love",
-      "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
-    },
-    {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Bittersweet Goodbye",
         "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Mosquito",
         "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
@@ -333,31 +349,7 @@
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
-      "album": {
-        "name": "Liquor & Cigarettes (feat. ArrDee)",
-        "url": "https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
-        },
-        {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
-        }
-      ],
-      "duration_ms": 189257,
-      "name": "Liquor & Cigarettes (feat. ArrDee)",
-      "url": "https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g"
-    },
-    {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Good Love",
         "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
@@ -377,7 +369,7 @@
       "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Drinkin'",
         "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
@@ -401,7 +393,7 @@
       "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "It's That Time",
         "url": "https://open.spotify.com/album/4YGSYJpKXUClPZoBDvRzyJ"
@@ -421,7 +413,31 @@
       "url": "https://open.spotify.com/track/72qcP3hwdqa8NkVxSCpYjm"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
+      "album": {
+        "name": "Liquor & Cigarettes (feat. ArrDee)",
+        "url": "https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "duration_ms": 189257,
+      "name": "Liquor & Cigarettes (feat. ArrDee)",
+      "url": "https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g"
+    },
+    {
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "BOTH",
         "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Vino Bandit",
         "url": "https://open.spotify.com/album/5wmkCBglZqdYFKjudx75JG"
@@ -537,7 +553,7 @@
       "url": "https://open.spotify.com/track/00c6JYguKlfq5yOlLoITlH"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Groove Thang",
         "url": "https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "0800 HEAVEN",
         "url": "https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
         "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Dancing is Healing",
         "url": "https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "One in a Million",
         "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "If Love Could Have Saved You",
         "url": "https://open.spotify.com/album/6h00scGXHmjeGfQDWjy8A3"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/7D5vd0DZ2zR0NoIeaX0stb"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Giving Me",
         "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Adrenaline Rush (feat. MORGAN)",
         "url": "https://open.spotify.com/album/49MtrlNhaTuqn3C1QGrU0c"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/5HiEBFh2xlpS9HV729BxiX"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Phone",
         "url": "https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Shella Verse",
         "url": "https://open.spotify.com/album/4BitmFpa4h4GaGNvtnsQw3"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/2aoWvGMW6W40WelevwsOUx"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "die young",
         "url": "https://open.spotify.com/album/0Syusfm1V3UKmEwK7ZB4HP"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/0ohtsxNylBu2zu6hlopn1X"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Alchemy",
         "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
@@ -773,7 +789,7 @@
       "url": "https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Atmosphere",
         "url": "https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "In The City / Wasted",
         "url": "https://open.spotify.com/album/6fD63DrkcebHWfu9a5krd0"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/4U4vRo9EM6DXaLIagwbbMW"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
@@ -825,7 +841,7 @@
       "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Jam Inside Your Love (feat. Carla Monroe)",
         "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Dance Around It",
         "url": "https://open.spotify.com/album/6vxZwJ7nz8OQ8UbEI4maOt"
@@ -865,7 +881,7 @@
       "url": "https://open.spotify.com/track/4ThxV3T887uIHatv3QPMhO"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
@@ -889,7 +905,7 @@
       "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Side Effects",
         "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
@@ -909,7 +925,7 @@
       "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Car Keys (Ayla)",
         "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
@@ -929,7 +945,7 @@
       "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Now U Do",
         "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
@@ -949,7 +965,7 @@
       "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
@@ -965,7 +981,7 @@
       "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
         "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
@@ -989,7 +1005,7 @@
       "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Relax My Eyes",
         "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
@@ -1009,7 +1025,7 @@
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
@@ -1029,7 +1045,7 @@
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Number 1",
         "url": "https://open.spotify.com/album/0vkYGGLv8iwyQWdccl46j3"
@@ -1049,7 +1065,7 @@
       "url": "https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Padam Padam",
         "url": "https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV"
@@ -1065,7 +1081,7 @@
       "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Make Me",
         "url": "https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku"
@@ -1089,7 +1105,7 @@
       "url": "https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Rave Out",
         "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
@@ -1113,7 +1129,7 @@
       "url": "https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Rhyme Dust",
         "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
@@ -1133,7 +1149,7 @@
       "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
@@ -1157,7 +1173,7 @@
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Off Wiv Ya Headz",
         "url": "https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ"
@@ -1173,7 +1189,7 @@
       "url": "https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Whistle (feat. Calum Scott)",
         "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
@@ -1193,7 +1209,7 @@
       "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Eat Your Man (with Nelly Furtado)",
         "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
@@ -1213,7 +1229,7 @@
       "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "I Found You",
         "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
@@ -1233,7 +1249,7 @@
       "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "My Barn My Rules",
         "url": "https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0"
@@ -1253,7 +1269,7 @@
       "url": "https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Where Do We Go (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ"
@@ -1273,23 +1289,7 @@
       "url": "https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
-      "album": {
-        "name": "Give It To Me (Full Vocal Mix)",
-        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        }
-      ],
-      "duration_ms": 102860,
-      "name": "Give It To Me - Full Vocal Mix",
-      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
-    },
-    {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/7013wm9XVP8PgvytXjKRug"
@@ -1305,7 +1305,7 @@
       "url": "https://open.spotify.com/track/7ar5VLrVTyXPmJpyfzzAa6"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "DJ Turn It Up",
         "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
@@ -1321,7 +1321,7 @@
       "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Oh Baby (feat. bshp & Issey Cross)",
         "url": "https://open.spotify.com/album/7oXgMepNUWPk1dN6MpDn2C"
@@ -1349,7 +1349,7 @@
       "url": "https://open.spotify.com/track/2F0dCzhF9W1tcXwXu99m28"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Be The One",
         "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
@@ -1365,7 +1365,7 @@
       "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE"
@@ -1381,7 +1381,7 @@
       "url": "https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS"
     },
     {
-      "added_at": "2023-10-06 00:00:00",
+      "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Push Up (Main Edit)",
         "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"

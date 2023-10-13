@@ -283,6 +283,42 @@
     },
     {
       "album": {
+        "name": "autumn nights",
+        "url": "https://open.spotify.com/album/5EcvO8QOBEhimWNWDq6rao"
+      },
+      "artists": [
+        {
+          "name": "Sto Nii",
+          "url": "https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95999,
+      "name": "autumn nights",
+      "url": "https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot"
+    },
+    {
+      "album": {
+        "name": "Autumn Stroll",
+        "url": "https://open.spotify.com/album/4n6WWpN0P3MsBU4OTFXFIM"
+      },
+      "artists": [
+        {
+          "name": "Pi Teddy",
+          "url": "https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118411,
+      "name": "Autumn Stroll",
+      "url": "https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO"
+    },
+    {
+      "album": {
         "name": "Ayways",
         "url": "https://open.spotify.com/album/1JrIdcauTrqt2sJKvYwXnQ"
       },
@@ -1604,7 +1640,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 130237,
       "name": "Early Morning",
       "url": "https://open.spotify.com/track/6qxuSObaNZ0ihaXxNwTtsg"
@@ -1742,6 +1778,24 @@
       "duration_ms": 138482,
       "name": "Fallen Leaves",
       "url": "https://open.spotify.com/track/7IBc2QkYuuaTP52Vd2jhAt"
+    },
+    {
+      "album": {
+        "name": "Far East",
+        "url": "https://open.spotify.com/album/0FTsRS7Jn5xpr3evrJpPsV"
+      },
+      "artists": [
+        {
+          "name": "Darren Spice",
+          "url": "https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "Far East",
+      "url": "https://open.spotify.com/track/6PQdebTH2xQn4mURkNP4IU"
     },
     {
       "album": {
@@ -1955,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "Flower Kingdom",
+        "url": "https://open.spotify.com/album/0ZyDmjkemTFFIGrlenJiiV"
+      },
+      "artists": [
+        {
+          "name": "Mossdeep",
+          "url": "https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128225,
+      "name": "Flower Kingdom",
+      "url": "https://open.spotify.com/track/1s8hwjA2u5dOpU0SEoxDxz"
+    },
+    {
+      "album": {
         "name": "flowerfest",
         "url": "https://open.spotify.com/album/5v78jA38QYcUgJLdocGEzV"
       },
@@ -2058,6 +2130,24 @@
       "duration_ms": 140256,
       "name": "freedom",
       "url": "https://open.spotify.com/track/31SIuAcWYSfKiyPrIn7sWK"
+    },
+    {
+      "album": {
+        "name": "Friday Dazed",
+        "url": "https://open.spotify.com/album/3r7qEzzlkQNFSQOuggOQm4"
+      },
+      "artists": [
+        {
+          "name": "Alek Faith",
+          "url": "https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132857,
+      "name": "Friday Dazed",
+      "url": "https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9"
     },
     {
       "album": {
@@ -2386,7 +2476,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 103123,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/56HUyGxOI5Afv2exte10g3"
@@ -2422,7 +2512,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 205217,
       "name": "How Much",
       "url": "https://open.spotify.com/track/1vkubMeGvmrGZitLx8t9cx"
@@ -2556,7 +2646,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 126428,
       "name": "In Reflection",
       "url": "https://open.spotify.com/track/0OhTWdBfNW2kPgSnO2yWuM"
@@ -2960,7 +3050,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 128000,
       "name": "keep calling",
       "url": "https://open.spotify.com/track/2vhWpSNBUv5xVXnzCgFddc"
@@ -3170,6 +3260,24 @@
       "duration_ms": 142400,
       "name": "Lazy Sunday",
       "url": "https://open.spotify.com/track/4H6jIpY6dMpGuqCes4dmKt"
+    },
+    {
+      "album": {
+        "name": "less-than-flattering",
+        "url": "https://open.spotify.com/album/1ETVGZXDwls6QNfhhil7aj"
+      },
+      "artists": [
+        {
+          "name": "Slow Bounce",
+          "url": "https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127788,
+      "name": "less-than-flattering",
+      "url": "https://open.spotify.com/track/7ay42oCBar4ZtjwlvqyKyt"
     },
     {
       "album": {
@@ -4300,7 +4408,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 145925,
       "name": "One of Those Things",
       "url": "https://open.spotify.com/track/09ZlP4tiJ7x788kh7iyuLL"
@@ -4380,7 +4488,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 124000,
       "name": "One Year",
       "url": "https://open.spotify.com/track/5Lqhf0MAaWVY0IlWZkPa3w"
@@ -4474,7 +4582,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 168031,
       "name": "overcast",
       "url": "https://open.spotify.com/track/01DvNsF5yrsteUPkftRkpU"
@@ -4626,7 +4734,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 156800,
       "name": "Pockets Full Of",
       "url": "https://open.spotify.com/track/1rqBSlF38nYSLjBbFr4hQf"
@@ -5046,7 +5154,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 126315,
       "name": "Same Way Home (Wowflower Remix)",
       "url": "https://open.spotify.com/track/25oS9gdWOLSe8YRralMzPk"
@@ -5086,10 +5194,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 161129,
       "name": "Saved For Sunset",
       "url": "https://open.spotify.com/track/100UDnuT6X9MbK8aw4yc2P"
+    },
+    {
+      "album": {
+        "name": "Sayuri",
+        "url": "https://open.spotify.com/album/04u4KqVs87eqD8smvP7Ril"
+      },
+      "artists": [
+        {
+          "name": "Fritz Pants",
+          "url": "https://open.spotify.com/artist/6gGcdv1surWW1Mh32Q3GF1"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Sayuri",
+      "url": "https://open.spotify.com/track/2RluOZNvc49Ddj3cqLUUSR"
     },
     {
       "album": {
@@ -5546,7 +5672,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 102400,
       "name": "state of mind",
       "url": "https://open.spotify.com/track/1MNKZmHvEHv3qRF4CrfwX3"
@@ -5644,7 +5770,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 124635,
       "name": "Strolls",
       "url": "https://open.spotify.com/track/5jIAefeRb8yFpC6p39ntWM"
@@ -5769,6 +5895,24 @@
     },
     {
       "album": {
+        "name": "Sun Course",
+        "url": "https://open.spotify.com/album/64KBolf3eGaOVnzA0tv4TJ"
+      },
+      "artists": [
+        {
+          "name": "Spitzgef\u00fchl",
+          "url": "https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "Sun Course",
+      "url": "https://open.spotify.com/track/5zd8kAM3NF6oPd4jJJzaJe"
+    },
+    {
+      "album": {
         "name": "Sun Day",
         "url": "https://open.spotify.com/album/1VjeX2hkfm4FZxixjy4I9A"
       },
@@ -5886,10 +6030,28 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 170000,
       "name": "Sunset Trip",
       "url": "https://open.spotify.com/track/1C7ZWHQomi4SzZyHmYnZDz"
+    },
+    {
+      "album": {
+        "name": "Swaype",
+        "url": "https://open.spotify.com/album/14psBo6XTptrqiGfRHGRow"
+      },
+      "artists": [
+        {
+          "name": "Wavy Naps",
+          "url": "https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145945,
+      "name": "Swaype",
+      "url": "https://open.spotify.com/track/0YRWFGr8QkH3GhmcLYOUTv"
     },
     {
       "album": {
@@ -6072,7 +6234,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 95851,
       "name": "The Joy of Music",
       "url": "https://open.spotify.com/track/1hwjjRnXRn0dV2ZAxmV1Ku"
@@ -6170,7 +6332,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 126588,
       "name": "The Road Ahead",
       "url": "https://open.spotify.com/track/1xSU4K363fvzzx63fD9Z2z"
@@ -6686,7 +6848,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 150447,
       "name": "Woollen Potato",
       "url": "https://open.spotify.com/track/5WSBqCeXfUE6A7siQZewYK"

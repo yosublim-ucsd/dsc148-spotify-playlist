@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/7gS11TlkTwLYdH2lEJi3kd"
+      },
+      "artists": [
+        {
+          "name": "Beloved More",
+          "url": "https://open.spotify.com/artist/4MK9CnbT54N8i28jWYx4s8"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190243,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/03rievEiJ7NxtUfak0XGPH"
+    },
+    {
+      "album": {
         "name": "Comfort Zone",
         "url": "https://open.spotify.com/album/1svkSAU7m4SXST5rh8a7xw"
       },
@@ -1809,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "In a Sentence",
+        "url": "https://open.spotify.com/album/6d3NoUO1WR1r6DOylTnB5o"
+      },
+      "artists": [
+        {
+          "name": "Alec Wynter",
+          "url": "https://open.spotify.com/artist/6PKn0AB4MUWk51WWdZLPMd"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "In a Sentence",
+      "url": "https://open.spotify.com/track/4LNY7W6U2JFRN135YZq6rH"
+    },
+    {
+      "album": {
         "name": "In jouw armen",
         "url": "https://open.spotify.com/album/0R7SDTTsNQOpxGKM5PVKKm"
       },
@@ -2072,7 +2108,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 216315,
       "name": "Lakem",
       "url": "https://open.spotify.com/track/5gb5P8hzzC4l2PBMJl0FZF"
@@ -4186,6 +4222,24 @@
       "duration_ms": 107076,
       "name": "Zeit zu schlafen",
       "url": "https://open.spotify.com/track/6BDciTeYRejg7wi9F63k4H"
+    },
+    {
+      "album": {
+        "name": "Zorora",
+        "url": "https://open.spotify.com/album/4iXrTyj4ZuiiHHAPzdL0LQ"
+      },
+      "artists": [
+        {
+          "name": "Tendai Marwan",
+          "url": "https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156818,
+      "name": "Zorora",
+      "url": "https://open.spotify.com/track/1okmwtb0Elf2nyOBGlzZAf"
     },
     {
       "album": {

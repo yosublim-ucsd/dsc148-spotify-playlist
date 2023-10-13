@@ -3703,6 +3703,24 @@
     },
     {
       "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+    },
+    {
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR"
       },
@@ -5426,6 +5444,24 @@
       "duration_ms": 177972,
       "name": "SADEH",
       "url": "https://open.spotify.com/track/2ZoILnftCn6K3MVj1EhdpN"
+    },
+    {
+      "album": {
+        "name": "Sarafina",
+        "url": "https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe"
+      },
+      "artists": [
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Sarafina",
+      "url": "https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3"
     },
     {
       "album": {

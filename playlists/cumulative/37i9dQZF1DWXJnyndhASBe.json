@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "1000 lat",
+        "url": "https://open.spotify.com/album/4zcrpQxoFj0YqmfWm2RA7f"
+      },
+      "artists": [
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160353,
+      "name": "1000 lat",
+      "url": "https://open.spotify.com/track/0utuBTWxhsv4abdCVOt76u"
+    },
+    {
+      "album": {
         "name": "3 w nocy w Mi\u0119dzyzdrojach",
         "url": "https://open.spotify.com/album/3Kb9Hu7HPcylofDU8ekkZy"
       },
@@ -118,6 +140,52 @@
       "duration_ms": 185142,
       "name": "Anio\u0142",
       "url": "https://open.spotify.com/track/3NLM8pSlBATBXG2TswsXDN"
+    },
+    {
+      "album": {
+        "name": "BEZ LOKALIZACJI",
+        "url": "https://open.spotify.com/album/04UxQWDOr41Sf77h6TQlBj"
+      },
+      "artists": [
+        {
+          "name": "2115",
+          "url": "https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m"
+        },
+        {
+          "name": "bango balenci",
+          "url": "https://open.spotify.com/artist/4BRchUufCww3elXTIG9nAE"
+        },
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "Fekir",
+          "url": "https://open.spotify.com/artist/4fLXII05TSSsKMRudaFhMr"
+        },
+        {
+          "name": "Koder",
+          "url": "https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO"
+        },
+        {
+          "name": "Kruzzo",
+          "url": "https://open.spotify.com/artist/4To0MfuPYNKFChuiKFW50K"
+        },
+        {
+          "name": "XEIDEN",
+          "url": "https://open.spotify.com/artist/40kXpqJi6aSgg9HNsWFyjx"
+        },
+        {
+          "name": "zdunekk",
+          "url": "https://open.spotify.com/artist/4HslOaTdnHIBXMAVlZQIOU"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "BEZ LOKALIZACJI",
+      "url": "https://open.spotify.com/track/2Gikijk4VAPyKTZVhTO4o6"
     },
     {
       "album": {
@@ -412,7 +480,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 157297,
       "name": "Dawaj ten sos",
       "url": "https://open.spotify.com/track/2Px76pOZiCjIYAph4hftIg"
@@ -530,7 +598,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 196615,
       "name": "HAJ",
       "url": "https://open.spotify.com/track/5ur2O53q1gbXSUVCQAdXuJ"
@@ -868,7 +936,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 181000,
       "name": "Ma\u0142y Ksi\u0105\u017c\u0119",
       "url": "https://open.spotify.com/track/5ngOu7hZUAGnk0FTDPzBob"
@@ -923,6 +991,32 @@
     },
     {
       "album": {
+        "name": "MMS",
+        "url": "https://open.spotify.com/album/7EfQTrbwAlIWRpKb2Wnkzm"
+      },
+      "artists": [
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        },
+        {
+          "name": "Kronkel Dom",
+          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
+        },
+        {
+          "name": "Sir Mich",
+          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161266,
+      "name": "MMS",
+      "url": "https://open.spotify.com/track/3pZWJ7C1Tv4thFHgD8vBtS"
+    },
+    {
+      "album": {
         "name": "Sextape / MTW",
         "url": "https://open.spotify.com/album/3CAUyLZPYc4wP4xOGeSoR2"
       },
@@ -968,7 +1062,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 135572,
       "name": "NA ZAWSZE",
       "url": "https://open.spotify.com/track/4l2ugyJ52D0ErwcS0gB7da"
@@ -1193,6 +1287,28 @@
     },
     {
       "album": {
+        "name": "Plaque PL",
+        "url": "https://open.spotify.com/album/2JNppLLgyACzv6xNhA3Enl"
+      },
+      "artists": [
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        },
+        {
+          "name": "DA Uzi",
+          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136125,
+      "name": "Plaque PL",
+      "url": "https://open.spotify.com/track/07AYYd8cwIbAHdceX9WXGc"
+    },
+    {
+      "album": {
         "name": "MOWA W\u0118\u017bY",
         "url": "https://open.spotify.com/album/0mN6XUkbzU1zwUzHYWbA74"
       },
@@ -1208,7 +1324,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 185000,
       "name": "RONDO",
       "url": "https://open.spotify.com/track/6bj4cH8DseYmq9G1fQ8CZV"
@@ -1342,7 +1458,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 185250,
       "name": "setki dr\u00f3g",
       "url": "https://open.spotify.com/track/2JbBGM0HewmYSL99YFec02"
@@ -1380,6 +1496,24 @@
       "duration_ms": 193500,
       "name": "Sextape",
       "url": "https://open.spotify.com/track/77zPD9o9tBR5hhsxdDZJeV"
+    },
+    {
+      "album": {
+        "name": "Siekiera (Push Up) [Remix]",
+        "url": "https://open.spotify.com/album/5X791Fi6v1kUWcjFt3lhIa"
+      },
+      "artists": [
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131665,
+      "name": "Siekiera (Push Up) - Remix",
+      "url": "https://open.spotify.com/track/0YyjrAD1ELu01JG2T5yQa9"
     },
     {
       "album": {
@@ -1446,7 +1580,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 157974,
       "name": "SZA\u0141",
       "url": "https://open.spotify.com/track/0HAjbuIEDbqhg70zbCcsHn"
@@ -1708,6 +1842,28 @@
       "duration_ms": 153600,
       "name": "Zabi\u0107 Stan",
       "url": "https://open.spotify.com/track/4u9Zcji4fWCHADZB8iGzv3"
+    },
+    {
+      "album": {
+        "name": "Zawsze chcia\u0142em",
+        "url": "https://open.spotify.com/album/5d3qRgHcgMg3VIsK6WsW8r"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184982,
+      "name": "Zawsze chcia\u0142em",
+      "url": "https://open.spotify.com/track/3AmVHFyIPCDYkqzYTfizOt"
     },
     {
       "album": {

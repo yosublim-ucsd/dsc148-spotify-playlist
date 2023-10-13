@@ -4,7 +4,7 @@
 
 > Perreando toda la noche con Bellakath.
 
-619 songs - 1 day 9 hr 47 min
+620 songs - 1 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,7 +496,8 @@
 | [Resaca](https://open.spotify.com/track/5O9qe3x4QUi7OCmkepWJat) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Resaca](https://open.spotify.com/album/2SxzHKPlWLNmGgtLK9cZD2) | 2:57 | 2021-12-24 | 2022-05-13 |
 | [REÑACA](https://open.spotify.com/track/3MioiUQSZ9rUWHhIxypQQH) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [REÑACA](https://open.spotify.com/album/5iIWwuo2KhzxryAKUuCaOR) | 2:53 | 2023-03-02 | 2023-07-29 |
 | [Ricota](https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Ricota](https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3) | 2:40 | 2023-03-10 | 2023-07-14 |
-| [RITMO DE MEDALLO](https://open.spotify.com/track/3gquN8yA0TnqD4NemqCnng) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:58 | 2023-09-29 |  |
+| [RITMO DE MEDALLO](https://open.spotify.com/track/30ZwYmaZ9rrmjlEHLhF8qR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 1:58 | 2023-10-10 |  |
+| [RITMO DE MEDALLO](https://open.spotify.com/track/3gquN8yA0TnqD4NemqCnng) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:58 | 2023-09-29 | 2023-10-13 |
 | [Rolls\-Royce](https://open.spotify.com/track/0MvBwodAYMxyL4VHqFI1QM) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Rolls\-Royce](https://open.spotify.com/album/4oqhWvUVK4EunS0ALx8svu) | 3:25 | 2023-06-09 |  |
 | [RULAY](https://open.spotify.com/track/5ITpOthZI6yuhF33ANi3UV) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [RULAY](https://open.spotify.com/album/3iYAQLMCjwrj4q8cS3I8d2) | 2:24 | 2023-07-14 | 2023-10-07 |
 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 | 2022-03-25 | 2022-10-08 |

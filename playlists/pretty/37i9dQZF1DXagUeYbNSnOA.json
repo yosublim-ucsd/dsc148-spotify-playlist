@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring INE. Updates every Wednesday.",
-  "num_followers": 172604,
+  "num_followers": 172451,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmMxZmRlODg1ZmQzOTdiMjdmNTU1NDA2NWNkN2U2OWQwMTk2YmFm",
+  "snapshot_id": "MCxkY2M1ZmIyYzk4YzVmZDlhYzk5MzM0ZjI3ODI4OWVkNjFjOGYzMTE0",
   "tracks": [
     {
       "added_at": "2023-10-11 06:00:00",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-10-11 06:00:00",
       "album": {
-        "name": "\u00bfy si se me olvida tu cara?",
-        "url": "https://open.spotify.com/album/3PTUZK8mk8FidXT1ZbzlLM"
-      },
-      "artists": [
-        {
-          "name": "Canal de Miramontes",
-          "url": "https://open.spotify.com/artist/1KcwNYIVePfXXEZeaRrrkE"
-        },
-        {
-          "name": "Youyousolo",
-          "url": "https://open.spotify.com/artist/2yfpmMx5Uf2llnCTcFTsqe"
-        }
-      ],
-      "duration_ms": 126176,
-      "name": "\u00bfy si se me olvida tu cara?",
-      "url": "https://open.spotify.com/track/2H2Y0NIQcStHip1k26o1nv"
-    },
-    {
-      "added_at": "2023-10-11 06:00:00",
-      "album": {
         "name": "Destello",
         "url": "https://open.spotify.com/album/2NnEzu27IglNr2K7dImXoX"
       },
@@ -611,6 +591,26 @@
     {
       "added_at": "2023-10-11 06:00:00",
       "album": {
+        "name": "\u00bfy si se me olvida tu cara?",
+        "url": "https://open.spotify.com/album/3PTUZK8mk8FidXT1ZbzlLM"
+      },
+      "artists": [
+        {
+          "name": "Canal de Miramontes",
+          "url": "https://open.spotify.com/artist/1KcwNYIVePfXXEZeaRrrkE"
+        },
+        {
+          "name": "Youyousolo",
+          "url": "https://open.spotify.com/artist/2yfpmMx5Uf2llnCTcFTsqe"
+        }
+      ],
+      "duration_ms": 126176,
+      "name": "\u00bfy si se me olvida tu cara?",
+      "url": "https://open.spotify.com/track/2H2Y0NIQcStHip1k26o1nv"
+    },
+    {
+      "added_at": "2023-10-11 06:00:00",
+      "album": {
         "name": "Busc\u00e1ndote",
         "url": "https://open.spotify.com/album/41SEH7lslJ5yeA7c1ykUXI"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 180062,
       "name": "Busc\u00e1ndote",
       "url": "https://open.spotify.com/track/0nconQIFbXmzBK6bj5YGEp"
-    },
-    {
-      "added_at": "2023-10-11 06:00:00",
-      "album": {
-        "name": "Lente Anam\u00f3rfico",
-        "url": "https://open.spotify.com/album/6iqnbkY71BpLZKalGwRQwo"
-      },
-      "artists": [
-        {
-          "name": "ERRE TRES",
-          "url": "https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb"
-        }
-      ],
-      "duration_ms": 130667,
-      "name": "Lente Anam\u00f3rfico",
-      "url": "https://open.spotify.com/track/1VcIWcYwKgMZyjAQuVgOvw"
     },
     {
       "added_at": "2023-10-11 06:00:00",
@@ -659,6 +643,22 @@
     {
       "added_at": "2023-10-11 06:00:00",
       "album": {
+        "name": "Lente Anam\u00f3rfico",
+        "url": "https://open.spotify.com/album/6iqnbkY71BpLZKalGwRQwo"
+      },
+      "artists": [
+        {
+          "name": "ERRE TRES",
+          "url": "https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb"
+        }
+      ],
+      "duration_ms": 130667,
+      "name": "Lente Anam\u00f3rfico",
+      "url": "https://open.spotify.com/track/1VcIWcYwKgMZyjAQuVgOvw"
+    },
+    {
+      "added_at": "2023-10-11 06:00:00",
+      "album": {
         "name": "Camino Dorado",
         "url": "https://open.spotify.com/album/1jESRLrDw77dVGvIVVeKQl"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 233488,
       "name": "Pak\u00e9 - Bonus Track",
       "url": "https://open.spotify.com/track/7GvLms1X8R24dewdrYcKTM"
-    },
-    {
-      "added_at": "2023-10-11 06:00:00",
-      "album": {
-        "name": "La Ciencia de los Sue\u00f1os",
-        "url": "https://open.spotify.com/album/2wenU4wxBWVVl1F7W3mAYL"
-      },
-      "artists": [
-        {
-          "name": "Volc\u00e1n",
-          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
-        }
-      ],
-      "duration_ms": 253250,
-      "name": "La Ciencia de los Sue\u00f1os",
-      "url": "https://open.spotify.com/track/1ZXGGCmqMjLkjqcaxP27Vd"
     },
     {
       "added_at": "2023-10-11 06:00:00",
@@ -711,6 +695,22 @@
     {
       "added_at": "2023-10-11 06:00:00",
       "album": {
+        "name": "La Ciencia de los Sue\u00f1os",
+        "url": "https://open.spotify.com/album/2wenU4wxBWVVl1F7W3mAYL"
+      },
+      "artists": [
+        {
+          "name": "Volc\u00e1n",
+          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
+        }
+      ],
+      "duration_ms": 253250,
+      "name": "La Ciencia de los Sue\u00f1os",
+      "url": "https://open.spotify.com/track/1ZXGGCmqMjLkjqcaxP27Vd"
+    },
+    {
+      "added_at": "2023-10-11 06:00:00",
+      "album": {
         "name": "la gravedad",
         "url": "https://open.spotify.com/album/5Q7zP1RICrgVrQY2JEK4IM"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 137704,
       "name": "la gravedad",
       "url": "https://open.spotify.com/track/5yxTppo1pOxR1yYtONIUrJ"
+    },
+    {
+      "added_at": "2023-10-11 06:00:00",
+      "album": {
+        "name": "MAGNOLIAS",
+        "url": "https://open.spotify.com/album/3pdl8NiwKScliQkidd4uA7"
+      },
+      "artists": [
+        {
+          "name": "BADBADNEWS",
+          "url": "https://open.spotify.com/artist/0EEz8VdaBaVnbleGTtXhEb"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "MAGNOLIAS",
+      "url": "https://open.spotify.com/track/7mrblNUZAb7taOtHsXnp7v"
     },
     {
       "added_at": "2023-10-11 06:00:00",
@@ -743,18 +759,22 @@
     {
       "added_at": "2023-10-11 06:00:00",
       "album": {
-        "name": "MAGNOLIAS",
-        "url": "https://open.spotify.com/album/3pdl8NiwKScliQkidd4uA7"
+        "name": "Los Pies",
+        "url": "https://open.spotify.com/album/6SetzynPD4KDzFopUTZ1yq"
       },
       "artists": [
         {
-          "name": "BADBADNEWS",
-          "url": "https://open.spotify.com/artist/0EEz8VdaBaVnbleGTtXhEb"
+          "name": "Melov",
+          "url": "https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22"
+        },
+        {
+          "name": "Fancy Nancy",
+          "url": "https://open.spotify.com/artist/0Cu9wt4SQgDIhrL5EvlGSO"
         }
       ],
-      "duration_ms": 248000,
-      "name": "MAGNOLIAS",
-      "url": "https://open.spotify.com/track/7mrblNUZAb7taOtHsXnp7v"
+      "duration_ms": 244285,
+      "name": "Los Pies",
+      "url": "https://open.spotify.com/track/0YY4OOYHpow0Xd8pnigi3P"
     },
     {
       "added_at": "2023-10-11 06:00:00",
@@ -791,26 +811,6 @@
       "duration_ms": 136050,
       "name": "Hipnotizado",
       "url": "https://open.spotify.com/track/7os13mKds81NvwtSMz7kqw"
-    },
-    {
-      "added_at": "2023-10-11 06:00:00",
-      "album": {
-        "name": "Los Pies",
-        "url": "https://open.spotify.com/album/6SetzynPD4KDzFopUTZ1yq"
-      },
-      "artists": [
-        {
-          "name": "Melov",
-          "url": "https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22"
-        },
-        {
-          "name": "Fancy Nancy",
-          "url": "https://open.spotify.com/artist/0Cu9wt4SQgDIhrL5EvlGSO"
-        }
-      ],
-      "duration_ms": 244285,
-      "name": "Los Pies",
-      "url": "https://open.spotify.com/track/0YY4OOYHpow0Xd8pnigi3P"
     },
     {
       "added_at": "2023-10-11 06:00:00",

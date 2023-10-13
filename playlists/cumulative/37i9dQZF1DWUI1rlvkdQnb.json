@@ -2093,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "Promissus",
+        "url": "https://open.spotify.com/album/0YaqeFy4R15go6qxCfkjVG"
+      },
+      "artists": [
+        {
+          "name": "Eunephele",
+          "url": "https://open.spotify.com/artist/0RfnRQ6vmyxDzMuyDmJaSm"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202901,
+      "name": "Promissus",
+      "url": "https://open.spotify.com/track/5VpmKYWuKcX33aKeMAuRkV"
+    },
+    {
+      "album": {
         "name": "Propinquity",
         "url": "https://open.spotify.com/album/1WqG5MwUfHKvW4Vzyox843"
       },
@@ -2576,6 +2594,24 @@
       "duration_ms": 166500,
       "name": "Skyjum",
       "url": "https://open.spotify.com/track/5UWXwaQAf0IADjmS2auqNj"
+    },
+    {
+      "album": {
+        "name": "Solar Flare Symphony",
+        "url": "https://open.spotify.com/album/6n5AsYCxEBtypoV7Ndoyji"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195849,
+      "name": "Solar Flare Symphony",
+      "url": "https://open.spotify.com/track/4gvMwZeHtBpWEheeHnob6r"
     },
     {
       "album": {

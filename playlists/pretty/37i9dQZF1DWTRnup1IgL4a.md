@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,151 likes - 118 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,210 likes - 118 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,28 +14,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 4 | [Clouded Reflection](https://open.spotify.com/track/0BTLhUHKgEi7Jx8uRjTAii) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Clouded Reflection](https://open.spotify.com/album/6KwQj931Z6T7Q6xg9Ldbge) | 2:03 |
 | 5 | [A la recherche de l'autre](https://open.spotify.com/track/7tRL2A19PEY7MbLttIL8T8) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [A la recherche de l'autre](https://open.spotify.com/album/17WLl7MsDL25RsYFH0nPvO) | 2:17 |
 | 6 | [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 |
-| 7 | [Inside the stone](https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Inside the stone](https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi) | 2:04 |
-| 8 | [Slowmood](https://open.spotify.com/track/2uBdx5OBEQmRIBcM7FSnSB) | [Mike Duff](https://open.spotify.com/artist/3CCA4rgJaywSdKgYyuBzQy) | [Slowmood](https://open.spotify.com/album/5E4adlY3rgcjvPrA3jqE0L) | 2:15 |
-| 9 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 |
-| 10 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 |
-| 11 | [To The Train](https://open.spotify.com/track/1f8zxyXpm6WkSA0az7Wjry) | [Dössell](https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It) | [Shining in the Shade](https://open.spotify.com/album/02DUOVZpVb47edaTaNTBPT) | 3:20 |
-| 12 | [Five Cornered Room](https://open.spotify.com/track/41iPgjTzfG65v54L3pwst9) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [Five Cornered Room](https://open.spotify.com/album/04AbFpNCNq5Az76OyS0MR1) | 2:46 |
-| 13 | [Lovely Secrets](https://open.spotify.com/track/4I7btOSG6pDNBxptBTrKQG) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Lovely Secrets](https://open.spotify.com/album/7tKiOXcCi7lsyzrdsH56qi) | 2:22 |
-| 14 | [Blush](https://open.spotify.com/track/02lN91c8sceWQBD7JVhYaz) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Blush](https://open.spotify.com/album/6Gcvlj6eQHvDSpU9nMM3M2) | 2:29 |
-| 15 | [Revolving Wheel](https://open.spotify.com/track/7Bbk1oFCZwU4k3ODJzNqRH) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Revolving Wheel](https://open.spotify.com/album/6Q5jVBPXmleh97QRUN5s5N) | 2:14 |
-| 16 | [Passing Through](https://open.spotify.com/track/1y4XIS1dYvAfxjVjYeO7Jt) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Passing Through](https://open.spotify.com/album/2ByVknXLBoYoXVP8hzGQ5s) | 2:06 |
-| 17 | [Devotion](https://open.spotify.com/track/6jEZ4J76ZXnj49JZrMCTIM) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Devotion](https://open.spotify.com/album/6ygOd5rPLlHFTzQS2CMpmk) | 2:45 |
-| 18 | [Ode Au Chagrin](https://open.spotify.com/track/6AQ6EficiiIlDgIutcH60i) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Ode Au Chagrin](https://open.spotify.com/album/7d8e1ke0qGHlRqTLa7PAYN) | 2:11 |
-| 19 | [Inno](https://open.spotify.com/track/2exAKnDc96TYgcySwQe5lY) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Inno](https://open.spotify.com/album/6o8hZNZB0cQKkIqobZWutg) | 2:05 |
-| 20 | [End Of Us](https://open.spotify.com/track/0HzYFF9wRz7CiVfag6yvi2) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Break Of Day](https://open.spotify.com/album/1izp4JeZb5r3bPSIQVCv0o) | 2:52 |
-| 21 | [Le Pavillon de la Reine](https://open.spotify.com/track/6jOdFXJqt6tRo6enDPseg4) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Le Pavillon de la Reine](https://open.spotify.com/album/0PJUpmgSckPipfkFiN8UAI) | 2:30 |
-| 22 | [La vie sans tempête](https://open.spotify.com/track/443UYWttxhi3XVPHaD261k) | [Thaisa Deboys](https://open.spotify.com/artist/1mIbAzEXDPLycJNcDcck5B) | [La vie sans tempête](https://open.spotify.com/album/013YBPhL4svBS05w8IEoNK) | 2:17 |
-| 23 | [A Sweet Portrait](https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [A Sweet Portrait](https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl) | 2:27 |
-| 24 | [Fields of nothing](https://open.spotify.com/track/2ITekY6iizrWwOa0mlP8nZ) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Fields of nothing](https://open.spotify.com/album/5ey0j3lFSmX5DjQoHjTeGz) | 2:25 |
-| 25 | [When You Came Along](https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [When You Came Along](https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ) | 2:06 |
-| 26 | [Luz de la tarde](https://open.spotify.com/track/3DKBcKpkpmPpp9WUjvpPCn) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Luz de la tarde](https://open.spotify.com/album/3MEwyUjJPURTeJqL1RcEas) | 2:02 |
-| 27 | [The Dust Settles](https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [The Dust Settles](https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh) | 2:27 |
-| 28 | [Magic Wind](https://open.spotify.com/track/77ekrhV3OHhwaTO4CNoFo5) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Moods](https://open.spotify.com/album/0RAExk1jIs0Q9CSso8uAR8) | 2:02 |
+| 7 | [Slowmood](https://open.spotify.com/track/2uBdx5OBEQmRIBcM7FSnSB) | [Mike Duff](https://open.spotify.com/artist/3CCA4rgJaywSdKgYyuBzQy) | [Slowmood](https://open.spotify.com/album/5E4adlY3rgcjvPrA3jqE0L) | 2:15 |
+| 8 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 |
+| 9 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 |
+| 10 | [To The Train](https://open.spotify.com/track/1f8zxyXpm6WkSA0az7Wjry) | [Dössell](https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It) | [Shining in the Shade](https://open.spotify.com/album/02DUOVZpVb47edaTaNTBPT) | 3:20 |
+| 11 | [Five Cornered Room](https://open.spotify.com/track/41iPgjTzfG65v54L3pwst9) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [Five Cornered Room](https://open.spotify.com/album/04AbFpNCNq5Az76OyS0MR1) | 2:46 |
+| 12 | [Lovely Secrets](https://open.spotify.com/track/4I7btOSG6pDNBxptBTrKQG) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Lovely Secrets](https://open.spotify.com/album/7tKiOXcCi7lsyzrdsH56qi) | 2:22 |
+| 13 | [Blush](https://open.spotify.com/track/02lN91c8sceWQBD7JVhYaz) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Blush](https://open.spotify.com/album/6Gcvlj6eQHvDSpU9nMM3M2) | 2:29 |
+| 14 | [Revolving Wheel](https://open.spotify.com/track/7Bbk1oFCZwU4k3ODJzNqRH) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Revolving Wheel](https://open.spotify.com/album/6Q5jVBPXmleh97QRUN5s5N) | 2:14 |
+| 15 | [Passing Through](https://open.spotify.com/track/1y4XIS1dYvAfxjVjYeO7Jt) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Passing Through](https://open.spotify.com/album/2ByVknXLBoYoXVP8hzGQ5s) | 2:06 |
+| 16 | [Devotion](https://open.spotify.com/track/6jEZ4J76ZXnj49JZrMCTIM) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Devotion](https://open.spotify.com/album/6ygOd5rPLlHFTzQS2CMpmk) | 2:45 |
+| 17 | [Ode Au Chagrin](https://open.spotify.com/track/6AQ6EficiiIlDgIutcH60i) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Ode Au Chagrin](https://open.spotify.com/album/7d8e1ke0qGHlRqTLa7PAYN) | 2:11 |
+| 18 | [Inno](https://open.spotify.com/track/2exAKnDc96TYgcySwQe5lY) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Inno](https://open.spotify.com/album/6o8hZNZB0cQKkIqobZWutg) | 2:05 |
+| 19 | [End Of Us](https://open.spotify.com/track/0HzYFF9wRz7CiVfag6yvi2) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Break Of Day](https://open.spotify.com/album/1izp4JeZb5r3bPSIQVCv0o) | 2:52 |
+| 20 | [Le Pavillon de la Reine](https://open.spotify.com/track/6jOdFXJqt6tRo6enDPseg4) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Le Pavillon de la Reine](https://open.spotify.com/album/0PJUpmgSckPipfkFiN8UAI) | 2:30 |
+| 21 | [La vie sans tempête](https://open.spotify.com/track/443UYWttxhi3XVPHaD261k) | [Thaisa Deboys](https://open.spotify.com/artist/1mIbAzEXDPLycJNcDcck5B) | [La vie sans tempête](https://open.spotify.com/album/013YBPhL4svBS05w8IEoNK) | 2:17 |
+| 22 | [A Sweet Portrait](https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [A Sweet Portrait](https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl) | 2:27 |
+| 23 | [Fields of nothing](https://open.spotify.com/track/2ITekY6iizrWwOa0mlP8nZ) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Fields of nothing](https://open.spotify.com/album/5ey0j3lFSmX5DjQoHjTeGz) | 2:25 |
+| 24 | [When You Came Along](https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [When You Came Along](https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ) | 2:06 |
+| 25 | [Luz de la tarde](https://open.spotify.com/track/3DKBcKpkpmPpp9WUjvpPCn) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Luz de la tarde](https://open.spotify.com/album/3MEwyUjJPURTeJqL1RcEas) | 2:02 |
+| 26 | [The Dust Settles](https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [The Dust Settles](https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh) | 2:27 |
+| 27 | [Magic Wind](https://open.spotify.com/track/77ekrhV3OHhwaTO4CNoFo5) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Moods](https://open.spotify.com/album/0RAExk1jIs0Q9CSso8uAR8) | 2:02 |
+| 28 | [Inside the stone](https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Inside the stone](https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi) | 2:04 |
 | 29 | [Pure As You](https://open.spotify.com/track/3bPbiu9rSQou2Iqx5dT5z8) | [Blanche Genet](https://open.spotify.com/artist/2HKdCLXiYvnSQyujGm9Nkk) | [Pure As You](https://open.spotify.com/album/2om6nDeDbESNIsKmMNOIp6) | 2:17 |
 | 30 | [Boboli Gardens](https://open.spotify.com/track/6ol6xm2KcSn5Pr2biM7Ps0) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:01 |
 | 31 | [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 117 | [Rio De La Plata](https://open.spotify.com/track/1H4v0YFVVKN8uU6nxzmfWt) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Rio De La Plata](https://open.spotify.com/album/4WhBZeA6L71Jy9sNXZm0Cd) | 4:06 |
 | 118 | [La Storia D'Amor](https://open.spotify.com/track/2FNvWhfz1C20qwZaADbkcz) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [La Storia D'amor](https://open.spotify.com/album/1TlO2EbMobeLY5DQncxm1Q) | 2:50 |
 
-Snapshot ID: `MCw1OWYwMzZmMWEwMjAyMDkxZjcwNDc1ZjI3OWJhZTIyMGMxMDE5NzVi`
+Snapshot ID: `MCw2ZjM1ZDU5ZDUxZTU4YzNlZTlhNjk3OTBlYTQ2MmUwNjZkZjFhNTcz`

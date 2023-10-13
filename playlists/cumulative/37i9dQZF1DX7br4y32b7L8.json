@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "songs voor je playlist! #voorjou #wiebenjij #rihanna #noano7k #koekje #joost",
+  "description": "songs voor je playlist! #voorjou #danceforme #wiebenjij #rihanna #noano7k",
   "name": "Viral Hits NL",
   "tracks": [
     {
@@ -866,16 +866,16 @@
           "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
         },
         {
+          "name": "Lyente",
+          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
+        },
+        {
           "name": "ZANA",
           "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
         },
         {
           "name": "Quinten Circle",
           "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
-        },
-        {
-          "name": "Lyente",
-          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
         }
       ],
       "date_added": "2023-10-11",
@@ -2692,6 +2692,24 @@
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "album": {
+        "name": "Gevoelig Feestje",
+        "url": "https://open.spotify.com/album/2It3C6VpmoUqbDxuyVyKpu"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234373,
+      "name": "Momenten Gekoesterd",
+      "url": "https://open.spotify.com/track/4kO516FbjVKj67zX3Ymxhk"
     },
     {
       "album": {

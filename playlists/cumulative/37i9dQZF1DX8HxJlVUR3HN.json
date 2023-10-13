@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : F.F.F.",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Dro\u00efd Fant\u00f4m",
   "name": "VOLUME FRANCE",
   "tracks": [
+    {
+      "album": {
+        "name": "Accidents",
+        "url": "https://open.spotify.com/album/5gij4p2FSt40MgqYfnPJyV"
+      },
+      "artists": [
+        {
+          "name": "Deportivo",
+          "url": "https://open.spotify.com/artist/7k8b9tyD9a0WEoPgidHrGK"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221604,
+      "name": "Accidents",
+      "url": "https://open.spotify.com/track/3IiyRusvy9yOh2uuDsG1Ai"
+    },
     {
       "album": {
         "name": "Anxiety",
@@ -38,6 +56,24 @@
       "duration_ms": 157608,
       "name": "Baise tout seul",
       "url": "https://open.spotify.com/track/5TE991wFPT4dLTlkvgJthg"
+    },
+    {
+      "album": {
+        "name": "Born to Win",
+        "url": "https://open.spotify.com/album/5DVy8NKNSeRGYIjH7rCftk"
+      },
+      "artists": [
+        {
+          "name": "La Rosa",
+          "url": "https://open.spotify.com/artist/3XX6YLm7pQFZZA8qo0MtmB"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151100,
+      "name": "Born to Win",
+      "url": "https://open.spotify.com/track/4fsVCgzknleqGFmV7WihCF"
     },
     {
       "album": {
@@ -106,7 +142,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 205426,
       "name": "Broken Bones",
       "url": "https://open.spotify.com/track/2ZTXDpAna2oX7SmxctOjmi"
@@ -132,6 +168,24 @@
       "duration_ms": 201305,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/11KdG302ZtlT6LUC0NpaAW"
+    },
+    {
+      "album": {
+        "name": "This Too Shall Pass",
+        "url": "https://open.spotify.com/album/2cQYNZcTP8bD02QwiFCS2i"
+      },
+      "artists": [
+        {
+          "name": "Grandma's Ashes",
+          "url": "https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224489,
+      "name": "Cassandra",
+      "url": "https://open.spotify.com/track/6gspNJTYQYS9ynsN87MU0J"
     },
     {
       "album": {
@@ -164,7 +218,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 188019,
       "name": "Coma Kids",
       "url": "https://open.spotify.com/track/6anegGcJvjryHbQ9vS0Ry5"
@@ -297,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Gelled Water",
+        "url": "https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW"
+      },
+      "artists": [
+        {
+          "name": "Dro\u00efd Fant\u00f4m",
+          "url": "https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226906,
+      "name": "Gelled Water",
+      "url": "https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR"
+    },
+    {
+      "album": {
         "name": "Get Away (I Wanna Get Get Get Get Get Get Get Get)",
         "url": "https://open.spotify.com/album/5lirOHxhUeUdbgvFRK46D5"
       },
@@ -330,6 +402,24 @@
       "duration_ms": 207740,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/3plpIWQeDa8ptI5u0YOmDF"
+    },
+    {
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/1X7RILlUXKDyOD1NZBEhwO"
+      },
+      "artists": [
+        {
+          "name": "Onlap",
+          "url": "https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226111,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/17Ig0GeL1BPTh2K9SwwIKZ"
     },
     {
       "album": {
@@ -614,7 +704,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 119053,
       "name": "Perdu !",
       "url": "https://open.spotify.com/track/3PIF5IalvXFUmghnlRqRMY"
@@ -812,7 +902,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 189579,
       "name": "Still There",
       "url": "https://open.spotify.com/track/6nE6Ays1vUQugTCUiUpi6z"
@@ -992,7 +1082,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 161004,
       "name": "WELCOME TO AMERICA",
       "url": "https://open.spotify.com/track/3zgrOmeYSZsn3K6WKjr7ih"

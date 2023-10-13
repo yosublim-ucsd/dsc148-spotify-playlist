@@ -2573,6 +2573,24 @@
     },
     {
       "album": {
+        "name": "In Quiet Admiration",
+        "url": "https://open.spotify.com/album/4bnRFPUL7Gbu5a17uY0FgR"
+      },
+      "artists": [
+        {
+          "name": "Aveline Bisset",
+          "url": "https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139208,
+      "name": "In Quiet Admiration",
+      "url": "https://open.spotify.com/track/7gIbaF08zajeFH0JwjTflZ"
+    },
+    {
+      "album": {
         "name": "In Search of Miracles",
         "url": "https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm"
       },
@@ -2606,6 +2624,24 @@
       "duration_ms": 99076,
       "name": "In the Makeup of the Sun - Instrumental Version",
       "url": "https://open.spotify.com/track/2yyUytDg93W9yK40uENJg6"
+    },
+    {
+      "album": {
+        "name": "Easy Guitar",
+        "url": "https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ"
+      },
+      "artists": [
+        {
+          "name": "Celia Cloten",
+          "url": "https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122646,
+      "name": "Innocent Face",
+      "url": "https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb"
     },
     {
       "album": {
@@ -3214,7 +3250,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 153522,
       "name": "Mn\u00e1 Na H'Eireann",
       "url": "https://open.spotify.com/track/5InWJK8aUznloFHTNH3Yza"
@@ -3376,7 +3412,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 145624,
       "name": "New York",
       "url": "https://open.spotify.com/track/31Y814r838dlqpwjwCfDqd"
@@ -3448,7 +3484,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 174561,
       "name": "Notes From You",
       "url": "https://open.spotify.com/track/1jy9gxys6Lf7eE07bt6Wdb"
@@ -3754,7 +3790,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 139113,
       "name": "Quiver and Wince",
       "url": "https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb"
@@ -5050,7 +5086,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 127043,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/6Zq6tANmR79uUWS58OUglp"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Maestro Fresh Wes
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,462 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,503 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 25 | [Everyday \(Rudebwoy\)](https://open.spotify.com/track/3rIbZ1ElW0ZFF646ZQrYTj) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Ray Robinson](https://open.spotify.com/artist/4w0YXf91PUV9T1zlTK6yPr) | [Everyday \(Rudebwoy\)](https://open.spotify.com/album/2ZDasdZAS2qpAyqr3Vetk3) | 4:17 |
 | 26 | [Say About Us? \- Feat\. Jenna](https://open.spotify.com/track/1clvE2lBqwbLsZocPaLZmx) | [Michie Mee](https://open.spotify.com/artist/1WlzGi0kEyKjZe4egH6BJD) | [Say About Us?](https://open.spotify.com/album/3M0txXTWpZxrCoSmAFB2Co) | 3:56 |
 | 27 | [Nice 2 Meet U \(Original\)](https://open.spotify.com/track/3BfVW09wYHVKbUqT0tvq6D) | [Frank N Dank](https://open.spotify.com/artist/2ZTaLRGGGwQKyO9spJbthl) | [Nice 2 Meet U \('06 Version\) 12"](https://open.spotify.com/album/18hpvcziLJHrKT3vJJclBB) | 3:37 |
-| 28 | [U Can Have It All](https://open.spotify.com/track/53ZIzhozH4pkPvQTVeEbsm) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [IAMJRDN](https://open.spotify.com/album/179DxfuuPAq1CobzAL9ui3) | 3:11 |
+| 28 | [U Can Have It All](https://open.spotify.com/track/6WmiyYrLNBIfjUqgFTKukP) | [JRDN](https://open.spotify.com/artist/5v44WEYTAsI7rnuxsfJBly) | [High Definition](https://open.spotify.com/album/6PwZAxwUliHlGiZZjIQKjQ) | 3:14 |
 | 29 | [Back For More \(featuring Kardinal Offishall\)](https://open.spotify.com/track/2UBTQWYASPvWU1FAJ5pUjx) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Back For More](https://open.spotify.com/album/6sG9BpyHGpCC3xZgU1JNZz) | 3:54 |
 | 30 | [Fall From Paradise](https://open.spotify.com/track/1dxAAKR7k0RDPrje4lUUk0) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [Hitch Hikin' Music](https://open.spotify.com/album/5m7ReqcMfj3VyXJiOF3Rxa) | 4:14 |
 | 31 | [E\-Z on the Motion](https://open.spotify.com/track/7v0NXl6RTU9XMhHrUp0gQJ) | [Ghetto Concept](https://open.spotify.com/artist/7dQsyUecbPiqTSDbVWJDaU) | [E\-Z on the Motion / Hard Copy](https://open.spotify.com/album/4FP694zjOnV4aPP6c8wn5a) | 3:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 74 | [Rewind](https://open.spotify.com/track/1PHtMv7FD30owJuNl2N1tE) | [Andreena](https://open.spotify.com/artist/6Yj9DHVH5JLhPFQMlhG28v), [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Rewind](https://open.spotify.com/album/0aEQ1YQNcx2bWHCukaefna) | 3:31 |
 | 75 | [The Radio Edit](https://open.spotify.com/track/3LucZMivE3CYFWGFgdao1Q) | [Sugar Jones](https://open.spotify.com/artist/3PDXxxiHRyqwU2GLg6zJHT), [Justin Grey For Big Boom Entertainment](https://open.spotify.com/artist/05JfwFiagvihkfnK64VP9g) | [Days Like That](https://open.spotify.com/album/3MCI6hWXIU3ViGaITU6yz3) | 3:49 |
 
-Snapshot ID: `MCw4ZDI5ZmYyOGYwYzM3ZjI2NGI3NjczZGIzOTE5OTFhMTBhMzMyMDNi`
+Snapshot ID: `MCw1NjY5YzJhMDU1YTg5YWM5OTlhYWM5MmIwNTUwNjhhZWQ3MmUwZWU5`

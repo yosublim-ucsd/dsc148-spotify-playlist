@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 十明
 
-1,151 songs - 2 day 22 hr 45 min
+1,153 songs - 2 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Himotoai](https://open.spotify.com/track/2MtTAPmEoGKUC0vDloY6nw) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Himotoai](https://open.spotify.com/album/0NSqWhZSLPVcgceCGpVV5O) | 2:42 | 2023-02-28 | 2023-03-15 |
 | [Hirune no Kuni](https://open.spotify.com/track/4dymwcfZ7u6irN77AqHsLG) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Hirune no Kuni](https://open.spotify.com/album/72oJRih7QCDNBPWVuUlIB5) | 3:06 | 2023-05-16 | 2023-07-19 |
 | [Hitono Katachi](https://open.spotify.com/track/04HdAkdqkHsxE6g4pCtKvx) | [Limre](https://open.spotify.com/artist/7hDICOxRG5iwTYyMUiYSHT) | [Limre](https://open.spotify.com/album/5CK1FaKsSogYM6ufKrUcv3) | 2:27 | 2022-08-06 | 2022-10-05 |
+| [HOLD ME](https://open.spotify.com/track/3sQLUPCxwuKGalHkJq1x32) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [HOLD ME](https://open.spotify.com/album/5AtZuvYmwLB1PRAMcg8g1X) | 3:12 | 2023-10-12 |  |
 | [Holmes](https://open.spotify.com/track/6f09fSN8QvkGVWYtHkKQtX) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [夢を叶える旅](https://open.spotify.com/album/44GDDN5PokE3t0QUU0r6vO) | 3:39 | 2022-11-29 | 2023-01-13 |
 | [HOMEWORK](https://open.spotify.com/track/0gq75lykNVUk0zaHVruLGB) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [HOMEWORK](https://open.spotify.com/album/30ZEBL5NnWPGAwd80jEsHG) | 2:51 | 2022-08-23 | 2022-09-21 |
 | [HOMEWORK](https://open.spotify.com/track/1s1kPQn6VPPIpQjm4dy2T9) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [BEANIE](https://open.spotify.com/album/0Unuh962T4V4QakKGMahUg) | 2:51 | 2023-01-12 | 2023-02-02 |
@@ -1134,12 +1135,12 @@
 | [近い夜明け](https://open.spotify.com/track/2a8183S8N1XtyHBbBOoFYy) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [近い夜明け](https://open.spotify.com/album/5cmjQoKSSl3HdQphqKpLvo) | 4:05 | 2023-05-02 | 2023-06-28 |
 | [逆光](https://open.spotify.com/track/2skO0TsEvWhvcyFZMecHiD) | [AIRCRAFT](https://open.spotify.com/artist/56xP3O4YvqejlueiysaheO) | [逆光](https://open.spotify.com/album/2xi1cPT3wVznO0XPivoLLa) | 4:05 | 2023-03-28 | 2023-05-03 |
 | [遅刻](https://open.spotify.com/track/2EhMtQkvL0MFmylVUXRklU) | [Niiiya](https://open.spotify.com/artist/2ouzqdQoRdpwti2dT4Kbqh) | [遅刻](https://open.spotify.com/album/3QajBUxnmnGNRC5iQMUck7) | 4:12 | 2022-10-11 | 2022-11-09 |
-| [道の途中](https://open.spotify.com/track/03V3gmMDZZa8U3CGXTEOsu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [道の途中](https://open.spotify.com/album/2I2XSTxcPhYvozdRWKswAj) | 4:05 | 2023-08-22 |  |
+| [道の途中](https://open.spotify.com/track/03V3gmMDZZa8U3CGXTEOsu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [道の途中](https://open.spotify.com/album/2I2XSTxcPhYvozdRWKswAj) | 4:05 | 2023-08-22 | 2023-10-13 |
 | [遠ざかる犬](https://open.spotify.com/track/1cKHVRusQeLaOAbUjYwQeI) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [遠ざかる犬](https://open.spotify.com/album/0Lcw3UBEpNKe0XAwOaC5Rd) | 4:19 | 2023-02-01 | 2023-02-24 |
 | [遮二無二アイキャッチ](https://open.spotify.com/track/1Yq9CgUpZ4453lF89q4miA) | [Viewtrade](https://open.spotify.com/artist/5t0IQMpDwk0CQ0B1vmJxbi) | [遮二無二アイキャッチ](https://open.spotify.com/album/12diPhxY1KgE0NAxVP1a2W) | 3:40 | 2023-05-30 | 2023-07-12 |
 | [酔ひもせす](https://open.spotify.com/track/4uMgC3IQoT8wvupuPWotG1) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [酔ひもせす/グッドラック](https://open.spotify.com/album/55IkehGMr9Saotpbt8h8O2) | 3:42 | 2022-03-29 | 2022-06-15 |
 | [金星](https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [金星](https://open.spotify.com/album/3El28GIdiUaHziptKtw5d0) | 3:37 | 2023-09-05 |  |
-| [金木犀](https://open.spotify.com/track/6lJ31xE2jGeRqapTygwRGm) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [金木犀](https://open.spotify.com/album/7kYA3MEiquoNZVZgzWhJJX) | 4:35 | 2023-08-24 |  |
+| [金木犀](https://open.spotify.com/track/6lJ31xE2jGeRqapTygwRGm) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [金木犀](https://open.spotify.com/album/7kYA3MEiquoNZVZgzWhJJX) | 4:35 | 2023-08-24 | 2023-10-13 |
 | [針葉樹](https://open.spotify.com/track/3tFPO0zoU0TgsfhZUdgfuZ) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [針葉樹](https://open.spotify.com/album/7bpwfJnwg8tdSlhKlV8vC2) | 4:09 | 2022-10-11 | 2022-11-16 |
 | [銃の部品](https://open.spotify.com/track/0AmXho7WWR4MprccR2pILw) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [銃の部品](https://open.spotify.com/album/3lF7gg3xzznR7gL6IKm4LB) | 2:34 | 2022-04-19 | 2022-05-20 |
 | [閃光花](https://open.spotify.com/track/7JSTgwuyEvLBJBfnekVlHQ) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [閃光花](https://open.spotify.com/album/4rUGbI22oU6hcYs2vDeftz) | 3:22 | 2022-10-25 | 2022-10-27 |
@@ -1156,6 +1157,7 @@
 | [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 | 2023-04-06 | 2023-04-09 |
 | [風の噂](https://open.spotify.com/track/0XF71aEbLVIqAkvOdnf8YA) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [風の噂](https://open.spotify.com/album/22gvgKShk2m1bbuecfgEP5) | 3:50 | 2023-10-10 |  |
 | [風船は小さな手を離れて](https://open.spotify.com/track/1dF4ksSNiXJnogblM7YfEa) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [もしかして世間](https://open.spotify.com/album/78Bbwa8TUPLlsaV1Y0vL3Q) | 3:55 | 2023-04-25 | 2023-06-14 |
+| [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 | 2023-10-12 |  |
 | [食欲](https://open.spotify.com/track/7xwewmsS7PzGMtdvRNqZff) | [SephiroSpace](https://open.spotify.com/artist/1WFZhAfqVFdVZRBSOM9o18) | [僕の宇宙 君の宇宙](https://open.spotify.com/album/46kewcuoGgxMAsXoNALFgh) | 2:35 | 2022-08-04 | 2022-08-24 |
 | [魚 \_ 魚](https://open.spotify.com/track/0iReJwnfIhYXmdGKN1OgB2) | [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7) | [魚 \_ 魚](https://open.spotify.com/album/4X1929ex2VAoBiJ0M5eYkk) | 4:54 | 2023-10-03 |  |
 | [鯨の子](https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [鯨の子](https://open.spotify.com/album/72OedMUACIRxK4gVHnPgKB) | 4:13 | 2023-02-14 | 2023-04-26 |

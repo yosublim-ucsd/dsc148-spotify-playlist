@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,850,502 likes - 276 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,850,036 likes - 276 songs - 13 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,18 +19,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 9 | [It Begins](https://open.spotify.com/track/2jONJzJJyxkiqu3mpIjR39) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [It Begins](https://open.spotify.com/album/0j2yDeXylsqDQS8QdBmGel) | 5:19 |
 | 10 | [Heima](https://open.spotify.com/track/6cb2ZbtBESjuwhKawvm9qg) | [Ronja Mair](https://open.spotify.com/artist/6ZUyQlJPTDM23KGIdnivNH) | [Heima](https://open.spotify.com/album/17h1RYnKGZhwoMYVDyWHAb) | 2:38 |
 | 11 | [Sumargola](https://open.spotify.com/track/5zQm7n2ahnvGa3ntYy569W) | [Afturkalla](https://open.spotify.com/artist/5oPcLgpF7oNZ7eiuTZsohZ) | [Sumargola](https://open.spotify.com/album/1FhinixtO382WgvThtedas) | 3:31 |
-| 12 | [Plein De Vie](https://open.spotify.com/track/7h3fcy1pUvEGtF2Nxmf4wo) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Plein De Vie](https://open.spotify.com/album/2cXCpvru1xID8Y4tWfP4oN) | 2:55 |
-| 13 | [Quivi](https://open.spotify.com/track/1iqljBbLrGmLYcap41EHP5) | [Bjørn Haugen](https://open.spotify.com/artist/7JUfFT5xvJ3qv0HZqQ8Tab) | [Aesthete](https://open.spotify.com/album/25yFdVOmSHUH4NdCswNrzT) | 3:13 |
-| 14 | [Nattord](https://open.spotify.com/track/5Vab4sH6FYCTPHEZHFlIhQ) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Nattord](https://open.spotify.com/album/5YlgpGdRTaSuCCUC9bdMuf) | 2:49 |
-| 15 | [Tidal Energy](https://open.spotify.com/track/7KuG4E1I7cNDaHo31R8Lzm) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Tidal Energy](https://open.spotify.com/album/01LVspS9Zhj3RDVsLcZqyP) | 2:46 |
-| 16 | [Placidus](https://open.spotify.com/track/0k5fYqZwhHGPxMxmLYg6gu) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [Placidus](https://open.spotify.com/album/6PoCmbDRnMT0gR02kQk2ra) | 3:15 |
-| 17 | [Aligne](https://open.spotify.com/track/09Y2QXKWb5cTg8GeHNK3L2) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Aligne](https://open.spotify.com/album/6AyW1mzv9XkoucZtDSdlxw) | 3:06 |
-| 18 | [Spirals](https://open.spotify.com/track/78HCy9rFb20PwAJvk9Tv73) | [Hrothgar Tarek](https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB) | [Spirals](https://open.spotify.com/album/4bzZ0mCQXJOBOvTVLxa7iZ) | 2:49 |
-| 19 | [Droplet of Grace](https://open.spotify.com/track/3W2UlaHx93we9YqM1BvjFZ) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [Droplet of Grace](https://open.spotify.com/album/2Fp93WU1JUHpRmtEknRne7) | 3:06 |
-| 20 | [Shelter](https://open.spotify.com/track/6AOdCocb5K5qoqtgJJZfbv) | [Armando Mago](https://open.spotify.com/artist/3G03DUCoeCCsWqlZRlvakU) | [Shelter](https://open.spotify.com/album/6T315JLO4N7RDtHYMRt2Vx) | 2:25 |
-| 21 | [Faithful](https://open.spotify.com/track/2epHEGzdynPsNt6AXiBnC7) | [Ozo Nakuru](https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7) | [Faithful](https://open.spotify.com/album/0DtDk3ENvhd5iZsTOqgAF2) | 2:47 |
-| 22 | [Nocturnal](https://open.spotify.com/track/4sJMWTrLmw0ijFb7NmqqKL) | [Zamphire](https://open.spotify.com/artist/1oSjfZFemVPG0PZa6j94vl) | [Nocturnal](https://open.spotify.com/album/0JuOM1FiY5sNZCpgetmPSH) | 2:52 |
-| 23 | [Companion](https://open.spotify.com/track/1FgtKAO4lPSU7C83CLIOqu) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Snow Berries](https://open.spotify.com/album/13nTRdiXmI29GzOv0x0fJs) | 3:19 |
+| 12 | [Pelagos](https://open.spotify.com/track/4NdxzUIuzsbbcWg0FgAFuO) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Pelagos](https://open.spotify.com/album/6UT38vqmiWGEQkFbsJolrD) | 2:18 |
+| 13 | [Plein De Vie](https://open.spotify.com/track/7h3fcy1pUvEGtF2Nxmf4wo) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Plein De Vie](https://open.spotify.com/album/2cXCpvru1xID8Y4tWfP4oN) | 2:55 |
+| 14 | [Quivi](https://open.spotify.com/track/1iqljBbLrGmLYcap41EHP5) | [Bjørn Haugen](https://open.spotify.com/artist/7JUfFT5xvJ3qv0HZqQ8Tab) | [Aesthete](https://open.spotify.com/album/25yFdVOmSHUH4NdCswNrzT) | 3:13 |
+| 15 | [Nattord](https://open.spotify.com/track/5Vab4sH6FYCTPHEZHFlIhQ) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Nattord](https://open.spotify.com/album/5YlgpGdRTaSuCCUC9bdMuf) | 2:49 |
+| 16 | [Tidal Energy](https://open.spotify.com/track/7KuG4E1I7cNDaHo31R8Lzm) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Tidal Energy](https://open.spotify.com/album/01LVspS9Zhj3RDVsLcZqyP) | 2:46 |
+| 17 | [Placidus](https://open.spotify.com/track/0k5fYqZwhHGPxMxmLYg6gu) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [Placidus](https://open.spotify.com/album/6PoCmbDRnMT0gR02kQk2ra) | 3:15 |
+| 18 | [Aligne](https://open.spotify.com/track/09Y2QXKWb5cTg8GeHNK3L2) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Aligne](https://open.spotify.com/album/6AyW1mzv9XkoucZtDSdlxw) | 3:06 |
+| 19 | [Spirals](https://open.spotify.com/track/78HCy9rFb20PwAJvk9Tv73) | [Hrothgar Tarek](https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB) | [Spirals](https://open.spotify.com/album/4bzZ0mCQXJOBOvTVLxa7iZ) | 2:49 |
+| 20 | [Droplet of Grace](https://open.spotify.com/track/3W2UlaHx93we9YqM1BvjFZ) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [Droplet of Grace](https://open.spotify.com/album/2Fp93WU1JUHpRmtEknRne7) | 3:06 |
+| 21 | [Shelter](https://open.spotify.com/track/6AOdCocb5K5qoqtgJJZfbv) | [Armando Mago](https://open.spotify.com/artist/3G03DUCoeCCsWqlZRlvakU) | [Shelter](https://open.spotify.com/album/6T315JLO4N7RDtHYMRt2Vx) | 2:25 |
+| 22 | [Faithful](https://open.spotify.com/track/2epHEGzdynPsNt6AXiBnC7) | [Ozo Nakuru](https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7) | [Faithful](https://open.spotify.com/album/0DtDk3ENvhd5iZsTOqgAF2) | 2:47 |
+| 23 | [Nocturnal](https://open.spotify.com/track/4sJMWTrLmw0ijFb7NmqqKL) | [Zamphire](https://open.spotify.com/artist/1oSjfZFemVPG0PZa6j94vl) | [Nocturnal](https://open.spotify.com/album/0JuOM1FiY5sNZCpgetmPSH) | 2:52 |
 | 24 | [Innervate](https://open.spotify.com/track/2ZUsvuyl43t1oqiwGaHMt7) | [Jasmine Viola](https://open.spotify.com/artist/46G2FNi6a9iLA5XyKQ00kZ) | [Innervate](https://open.spotify.com/album/10eJeTFDULwxl3aV41l2Ll) | 3:15 |
 | 25 | [Undulating](https://open.spotify.com/track/77X5JEYLRwx9G3DCJ3PVsn) | [Joseff Shields](https://open.spotify.com/artist/3k3jeStlJRgFKEWvcbJuy3) | [Undulating](https://open.spotify.com/album/3I5IxqeLnS2yNYZD4z8l00) | 3:07 |
 | 26 | [Oscalated](https://open.spotify.com/track/09uALXIXXbw9TV31XtuMvk) | [Setareha](https://open.spotify.com/artist/5gV1FzhRvG4WhQXku1tUav) | [Call Of Nature](https://open.spotify.com/album/6w7ox31LekFkKOMQi8QnHK) | 3:12 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 275 | [Cosmogonie](https://open.spotify.com/track/6dCO7VelwRbF5m4RhimWSg) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Cosmogonie](https://open.spotify.com/album/25wiFsSWwhcLjb3fj3OCQm) | 2:51 |
 | 276 | [Profetia](https://open.spotify.com/track/3DjhYKmRHk0fq0fpb103nY) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Profetia](https://open.spotify.com/album/6iUHb3XJ0K7hxJ4grACdPV) | 2:55 |
 
-Snapshot ID: `MCxhYjQ3ODMxOGJiNjMyMDQxZjZmNWY0MTI1OGJhZjc1Zjg1M2FkN2Nh`
+Snapshot ID: `MCw0ZTYxNzYwNWVhYTk5NzE4MGZjZWZjYzhhYzIxZjY1MjBkZTlhYzUw`

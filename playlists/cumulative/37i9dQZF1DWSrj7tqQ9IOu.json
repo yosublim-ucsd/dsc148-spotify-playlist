@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Polo & Pan",
+  "description": "The best French indie tracks right now. Cover : Jeanne Bonjour",
   "name": "Made in France",
   "tracks": [
     {
@@ -410,7 +410,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 135830,
       "name": "Apportez-moi un th\u00e9",
       "url": "https://open.spotify.com/track/4jF75m5oNgToVIuaD8Y1OA"
@@ -2099,6 +2099,24 @@
     },
     {
       "album": {
+        "name": "Frisco Blues",
+        "url": "https://open.spotify.com/album/0KteuByNpfG6DnPfNPytbF"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247800,
+      "name": "Frisco Blues",
+      "url": "https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV"
+    },
+    {
+      "album": {
         "name": "Fun And Games",
         "url": "https://open.spotify.com/album/0TARB7CV4PQJKl6ceVpyfG"
       },
@@ -2434,7 +2452,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 183360,
       "name": "Highway",
       "url": "https://open.spotify.com/track/5Y5Poj7qMpNSOX9L0c2gup"
@@ -5147,6 +5165,24 @@
     },
     {
       "album": {
+        "name": "Paris cyclone",
+        "url": "https://open.spotify.com/album/4vSFzEL2EvWRK02kaGwC4N"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Fever",
+          "url": "https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171832,
+      "name": "Paris cyclone",
+      "url": "https://open.spotify.com/track/6RWkgGCxCCZxZplgL2CHsn"
+    },
+    {
+      "album": {
         "name": "Paris en ao\u00fbt",
         "url": "https://open.spotify.com/album/2F97r4tTBp5iGMgkMNT6rA"
       },
@@ -5310,7 +5346,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 171290,
       "name": "Plage convexe",
       "url": "https://open.spotify.com/track/7z9j6bH7EO9iH5SR11etkq"
@@ -6526,6 +6562,24 @@
       "duration_ms": 196546,
       "name": "Teenager",
       "url": "https://open.spotify.com/track/4fuFDRwSnpcU7xfeSrZHrr"
+    },
+    {
+      "album": {
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/03fmmEHO36zkMzPOZRyWg2"
+      },
+      "artists": [
+        {
+          "name": "Napkey",
+          "url": "https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189973,
+      "name": "The Best Part of Me",
+      "url": "https://open.spotify.com/track/0ZsXNkIWD2wx6OX3dVDu4l"
     },
     {
       "album": {

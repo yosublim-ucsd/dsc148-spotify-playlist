@@ -125,6 +125,32 @@
     },
     {
       "album": {
+        "name": "Antikuna Anqa",
+        "url": "https://open.spotify.com/album/5OjIJkbPTPDdOy8n7Fb2UD"
+      },
+      "artists": [
+        {
+          "name": "Nintu",
+          "url": "https://open.spotify.com/artist/6fhBqhLVgzSRQAvGxm4yt5"
+        },
+        {
+          "name": "Mauricio Arratia",
+          "url": "https://open.spotify.com/artist/42h2ekeqZDzgo6IcfiPpai"
+        },
+        {
+          "name": "Pao Pamaki",
+          "url": "https://open.spotify.com/artist/6vqF9GI9o8la8YpvWQaWbz"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456000,
+      "name": "Antikuna Anqa",
+      "url": "https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO"
+    },
+    {
+      "album": {
         "name": "Huestes",
         "url": "https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a"
       },
@@ -542,7 +568,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 200000,
       "name": "Cuando Oigo Sonar la Caja (Ruido Selecto Remix)",
       "url": "https://open.spotify.com/track/48pUSL891H5B5dGOFjhuiV"

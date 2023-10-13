@@ -4,7 +4,7 @@
 
 > Certi amori bruciano di più\. Cover: Tedua
 
-139 songs - 7 hr 12 min
+140 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Diamanti \(feat\. Heartman & VillaBanks\) \- Remix](https://open.spotify.com/track/2XhvzUs8rnF71FBadXRaCK) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Wave Deluxe](https://open.spotify.com/album/7lHPDAKjXWGliwyaNHK4fj) | 2:38 | 2022-05-03 | 2022-07-29 |
 | [Diamanti \(feat\. Heartman & VillaBanks\) \- Remix](https://open.spotify.com/track/39dekO8ZmqocCrKeBaBFty) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Wave Deluxe](https://open.spotify.com/album/2l7qyKFV7mDoDfZ3xS5luZ) | 2:38 | 2022-07-28 | 2023-07-07 |
 | [DIMMI CHE \(feat\. Bresh & Neima Ezza\)](https://open.spotify.com/track/3QVmR6UVx3gXtnUm6AWtwr) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [DIMMI CHE \(feat\. Bresh & Neima Ezza\)](https://open.spotify.com/album/4Kq7rsh7q0dzH9DFss5X7X) | 3:06 | 2023-03-14 | 2023-07-01 |
+| [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs) | 3:10 | 2023-10-12 |  |
 | [Faraway](https://open.spotify.com/track/0wUgl8594IkO3YtjHM1nd4) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Midnite \(Deluxe Version\)](https://open.spotify.com/album/0d0xhfyP9VIZ8V9IsyvUdg) | 3:19 | 2022-05-03 | 2022-06-04 |
 | [Ferma A Guardare](https://open.spotify.com/track/1zVUP6UPrzxZEYLXOl1AV1) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli](https://open.spotify.com/album/2hHDTcf1MzvkDdFm0CEujn) | 3:13 | 2022-05-03 |  |
 | [FINCHÉ FA GIORNO](https://open.spotify.com/track/5yYsbDBAflTr31aksx8BHS) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [FINCHÉ FA GIORNO](https://open.spotify.com/album/5o7p3GN41Aak9jgKTtaX73) | 3:02 | 2022-05-03 | 2023-02-02 |

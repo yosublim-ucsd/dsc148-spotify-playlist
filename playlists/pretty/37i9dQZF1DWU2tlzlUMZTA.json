@@ -1,15 +1,35 @@
 {
   "description": "Where Bollywood meets the hood. Cover: Badshah",
-  "num_followers": 32224,
+  "num_followers": 32234,
   "original_name": "Bollyhood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODg1NmRmNjlmNTU3ZWQwYTJhNGU0YTUyM2E3NWVjMWYwZDdkZjUy",
+  "snapshot_id": "MCw4ZWRjMTg3MzI5MzdjM2FiZGZmZjgwNDk2YmQ2OWRhZTQyM2NjZTBk",
   "tracks": [
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
+      "album": {
+        "name": "Issa Vibe (From \"Bloody Daddy\")",
+        "url": "https://open.spotify.com/album/7DGKbA1EoSICnyUhorwxDF"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        }
+      ],
+      "duration_ms": 147613,
+      "name": "Issa Vibe (From \"Bloody Daddy\")",
+      "url": "https://open.spotify.com/track/5hhBvvpp7zyZiS2fuQgEa4"
+    },
+    {
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Farzi (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2W4AYutWKIjmtGVnU6q3Xz"
@@ -37,47 +57,7 @@
       "url": "https://open.spotify.com/track/5kwldaZvtbiTmRYsmlyxAN"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
-      "album": {
-        "name": "Issa Vibe (From \"Bloody Daddy\")",
-        "url": "https://open.spotify.com/album/7DGKbA1EoSICnyUhorwxDF"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Payal Dev",
-          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
-        }
-      ],
-      "duration_ms": 147613,
-      "name": "Issa Vibe (From \"Bloody Daddy\")",
-      "url": "https://open.spotify.com/track/5hhBvvpp7zyZiS2fuQgEa4"
-    },
-    {
-      "added_at": "2023-09-11 08:13:54",
-      "album": {
-        "name": "Ganda Banda (From \"Chamak\")",
-        "url": "https://open.spotify.com/album/28EdhRMtXEKJOkkTUmhXUt"
-      },
-      "artists": [
-        {
-          "name": "Vikram Montrose",
-          "url": "https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg"
-        },
-        {
-          "name": "Shekhar Astitwa",
-          "url": "https://open.spotify.com/artist/1o4gJ2P9CYruGrCXoMv36l"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Ganda Banda (From \"Chamak\")",
-      "url": "https://open.spotify.com/track/7FuzvOjW800pbpujSrfKT7"
-    },
-    {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Bluff Master (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5sASM5OybJgExUWUXLH2eQ"
@@ -97,7 +77,7 @@
       "url": "https://open.spotify.com/track/4pVnxSz312uhq2hM3b8CAO"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Ki & Ka",
         "url": "https://open.spotify.com/album/3sKetZJ9cmRj54AIWXOWSv"
@@ -125,7 +105,7 @@
       "url": "https://open.spotify.com/track/1bAa1OyefOhXdqnL8dlxFt"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Khoobsurat",
         "url": "https://open.spotify.com/album/66PqhjAV83M26X8mJ8nqDO"
@@ -145,7 +125,7 @@
       "url": "https://open.spotify.com/track/0rUN8ascPVT9iiLzC5ocPw"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy"
@@ -165,7 +145,7 @@
       "url": "https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Humpty Sharma Ki Dulhania (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5jqOPaSXkGQv3IH62dHoUE"
@@ -193,7 +173,95 @@
       "url": "https://open.spotify.com/track/5L9gWUx3Ystgb42kn3AF0i"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
+      "album": {
+        "name": "Garmi (From \"Street Dancer 3D\")",
+        "url": "https://open.spotify.com/album/6NYmsKroUtthf1XpzGSCx7"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Varun Dhawan",
+          "url": "https://open.spotify.com/artist/1P0xN5daAiUEebg0m8pY2O"
+        }
+      ],
+      "duration_ms": 182738,
+      "name": "Garmi (From \"Street Dancer 3D\") (feat. Varun Dhawan)",
+      "url": "https://open.spotify.com/track/6q9XTgfWilsnyiFofvYrIF"
+    },
+    {
+      "added_at": "2023-10-12 07:24:46",
+      "album": {
+        "name": "Shor Machega (From \"Mumbai Saga\")",
+        "url": "https://open.spotify.com/album/5WbtQsxa5kT6TOfGbOoi0c"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Hommie Dilliwala",
+          "url": "https://open.spotify.com/artist/4nK9FAS3HuQXcJva8gEWYT"
+        }
+      ],
+      "duration_ms": 208085,
+      "name": "Shor Machega (From \"Mumbai Saga\")",
+      "url": "https://open.spotify.com/track/6jWENK1fDLJutaCZJDrxxj"
+    },
+    {
+      "added_at": "2023-10-12 07:24:46",
+      "album": {
+        "name": "Sonu Ke Titu Ki Sweety",
+        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Simar Kaur",
+          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
+        },
+        {
+          "name": "Ishers",
+          "url": "https://open.spotify.com/artist/1UHgzvQ7MJB9U2qlRtUJGo"
+        }
+      ],
+      "duration_ms": 226696,
+      "name": "Dil Chori",
+      "url": "https://open.spotify.com/track/6zojSFiUNySBy3Kd1JVCXb"
+    },
+    {
+      "added_at": "2023-10-12 07:24:46",
+      "album": {
+        "name": "Ganda Banda (From \"Chamak\")",
+        "url": "https://open.spotify.com/album/28EdhRMtXEKJOkkTUmhXUt"
+      },
+      "artists": [
+        {
+          "name": "Vikram Montrose",
+          "url": "https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg"
+        },
+        {
+          "name": "Shekhar Astitwa",
+          "url": "https://open.spotify.com/artist/1o4gJ2P9CYruGrCXoMv36l"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Ganda Banda (From \"Chamak\")",
+      "url": "https://open.spotify.com/track/7FuzvOjW800pbpujSrfKT7"
+    },
+    {
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Bambai Meri Jaan (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1YKJ7en4IlL2OewnsqemEb"
@@ -213,7 +281,7 @@
       "url": "https://open.spotify.com/track/61aZkSLmYtcVror3d69l26"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Tiku Weds Sheru (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4MH8afxzGgsHThYybVnWaZ"
@@ -241,7 +309,7 @@
       "url": "https://open.spotify.com/track/27OFRkLUNAQr1ZtpfBjg1P"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Asli Action Chaalu (Theme Song) [From \"An Action Hero\"]",
         "url": "https://open.spotify.com/album/6prkYvbRtR03unSG5w15EP"
@@ -265,7 +333,7 @@
       "url": "https://open.spotify.com/track/7wTaexlHXGPcx3ORPLzRvv"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Dj Waley Babu (feat. Aastha Gill)",
         "url": "https://open.spotify.com/album/0Md3x45nETTF6TQ0r6b0tJ"
@@ -285,7 +353,7 @@
       "url": "https://open.spotify.com/track/2SRv30X7NoYRZB62dX0UzH"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Back To Then (From \"Blind\")",
         "url": "https://open.spotify.com/album/7uR2ySdVvO3FKbWC4WYQFo"
@@ -317,7 +385,7 @@
       "url": "https://open.spotify.com/track/6ZnsDwNHhn1FxX8A6yU3LO"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Bloody Daddy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5pmBPVa6MtjFYVBTeODYBl"
@@ -333,7 +401,7 @@
       "url": "https://open.spotify.com/track/1IuZ1WioES1D3ep0j3ahhr"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Sher (From \"Selfiee\")",
         "url": "https://open.spotify.com/album/0G7PspTECvtldL1jfXUs0s"
@@ -357,7 +425,7 @@
       "url": "https://open.spotify.com/track/7tO6bKdh9fzsTOP139HV3E"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "An Action Hero",
         "url": "https://open.spotify.com/album/075Qjn7wO4dLd42tAjw1Er"
@@ -385,7 +453,7 @@
       "url": "https://open.spotify.com/track/1Fg54KvZh02xX035gzsCVQ"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Pagglait (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6BnRf8fttKY98wU5XTU6xN"
@@ -413,75 +481,7 @@
       "url": "https://open.spotify.com/track/7i5VhhLnimERnq9i7FM86Y"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
-      "album": {
-        "name": "Shor Machega (From \"Mumbai Saga\")",
-        "url": "https://open.spotify.com/album/5WbtQsxa5kT6TOfGbOoi0c"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Hommie Dilliwala",
-          "url": "https://open.spotify.com/artist/4nK9FAS3HuQXcJva8gEWYT"
-        }
-      ],
-      "duration_ms": 208085,
-      "name": "Shor Machega (From \"Mumbai Saga\")",
-      "url": "https://open.spotify.com/track/6jWENK1fDLJutaCZJDrxxj"
-    },
-    {
-      "added_at": "2023-09-11 08:13:54",
-      "album": {
-        "name": "Garmi (From \"Street Dancer 3D\")",
-        "url": "https://open.spotify.com/album/6NYmsKroUtthf1XpzGSCx7"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Varun Dhawan",
-          "url": "https://open.spotify.com/artist/1P0xN5daAiUEebg0m8pY2O"
-        }
-      ],
-      "duration_ms": 182738,
-      "name": "Garmi (From \"Street Dancer 3D\") (feat. Varun Dhawan)",
-      "url": "https://open.spotify.com/track/6q9XTgfWilsnyiFofvYrIF"
-    },
-    {
-      "added_at": "2023-09-11 08:13:54",
-      "album": {
-        "name": "Sonu Ke Titu Ki Sweety",
-        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Simar Kaur",
-          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
-        },
-        {
-          "name": "Ishers",
-          "url": "https://open.spotify.com/artist/1UHgzvQ7MJB9U2qlRtUJGo"
-        }
-      ],
-      "duration_ms": 226696,
-      "name": "Dil Chori",
-      "url": "https://open.spotify.com/track/6zojSFiUNySBy3Kd1JVCXb"
-    },
-    {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Paintra (From \"Mukkabaaz\") - Single",
         "url": "https://open.spotify.com/album/5u6calkleLhJulsH9dEgZi"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/3FbwHPeM5myHMTvOTi6ipl"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Sultan",
         "url": "https://open.spotify.com/album/0tAi6H8acUKefYMIEuxcMA"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/7fllsOe1cV2pTBzdbkgrX7"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Nyaay Yuddh Dharm Yuddh",
         "url": "https://open.spotify.com/album/1HAIYajWGoWi2syh7owPqg"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/2OlLzyE9YtysMoOjA8KkHK"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Paagal",
         "url": "https://open.spotify.com/album/0Qn1webMNo0WuEMjRdcrhW"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/4gyPGtExOjj1rsByKW33LR"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Kar Gayi Chull (From \"Kapoor & Sons (Since 1921)\")",
         "url": "https://open.spotify.com/album/6GbJgAWazNCzOxobNoDeIv"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/3Q8yDujnXxwRiZ4p6VqY7b"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Sheher Ki Ladki (From \"Khandaani Shafakhana\")",
         "url": "https://open.spotify.com/album/4aroXseEbgMQBVvF0SfAHz"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/24d3IPklAxzBJB2nuWeSpg"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "The Humma Song (From \"OK Jaanu\")",
         "url": "https://open.spotify.com/album/3vJoUE05bg6Ki7BrzTOAPl"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/7Ck2si1vtgdPXdKGtWGGXr"
     },
     {
-      "added_at": "2023-09-11 08:13:54",
+      "added_at": "2023-10-12 07:24:46",
       "album": {
         "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"

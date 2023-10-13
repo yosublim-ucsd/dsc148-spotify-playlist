@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Glorilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,789 likes - 80 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,032 likes - 80 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 21 | [BEACH BALL \(feat\. BIA\)](https://open.spotify.com/track/3wSf7ZuqT38jZyJ92hNUiE) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BEACH BALL \(feat\. BIA\)](https://open.spotify.com/album/2lUZ8Vde6vLKqg4kdaAuXZ) | 2:24 |
 | 22 | [Area Codes \(850 Remix\) \[feat\. Luh Tyler\]](https://open.spotify.com/track/0K6igArm92Tiq9kSdzIoY9) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Area Codes \(850 Remix\) \[feat\. Luh Tyler\]](https://open.spotify.com/album/3yAXqiis6ilpIUgUMn1eRV) | 2:18 |
 | 23 | [IdgaF](https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [IdgaF](https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk) | 1:43 |
-| 24 | [Wassup Gwayy](https://open.spotify.com/track/5CQ0tp4ZdSrzj2ev9yieVV) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gwayy](https://open.spotify.com/album/1RlJJaItCwvPI1qkIfsJax) | 2:24 |
+| 24 | [Wassup Gway](https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gway](https://open.spotify.com/album/0lBc6xsaXgtiFrcy103fEY) | 2:24 |
 | 25 | [Kickin In \(feat\. Kaliii\)](https://open.spotify.com/track/28319tGwwnaIVtjFk7JPfH) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Back To 304'n](https://open.spotify.com/album/01Q0we3MvUuyWfJrVq85gg) | 2:56 |
 | 26 | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih) | 3:43 |
 | 27 | [Don't Deserve](https://open.spotify.com/track/7xHL6p6qopTBWiS7ezvxLA) | [Kayla B](https://open.spotify.com/artist/5yvTe64rt7c77FUaskqaCZ) | [Don't Deserve](https://open.spotify.com/album/7qxkb6P8rBSqLQCSeXx3CP) | 2:01 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 53 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 |
 | 54 | [Real Rap B\*\*\*\* \(Poppin It\)](https://open.spotify.com/track/3OxWD1a4W2d5FEiT8hgzur) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Real Rap B\*\*\*\* \(Poppin It\)](https://open.spotify.com/album/7C8rTzfTRLswbWsf2oJoqN) | 2:14 |
 | 55 | [Roadents](https://open.spotify.com/track/4FT0QtlIjX1H4R7LJfQyc4) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/5lAHwBa5haHDIAfGpNQCII) | 2:17 |
-| 56 | [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH) | 1:42 |
+| 56 | [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5XFGYtybPWAP90N7gEVpwc) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4ZjzeyERuwR39NcUmg95S8) | 1:42 |
 | 57 | [Hood Rats \(with Sukihana\)](https://open.spotify.com/track/3bdyyYQ9Ykldt7XOgxWNQY) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Hood Rats \(with Sukihana\)](https://open.spotify.com/album/1dkqNDedqxeSUyFnmHL8Nx) | 2:55 |
 | 58 | [Boy Oh Boy](https://open.spotify.com/track/4hOBpBqVXqk1lkwKCM5QGF) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9) | [Boy Oh Boy](https://open.spotify.com/album/3AKtlxNCe8MHDRKvlJF6M1) | 1:57 |
 | 59 | [Set The Tone](https://open.spotify.com/track/6ymnmbGOS5yi8EcwGS97HC) | [The Real Meladee](https://open.spotify.com/artist/5QgAjPJ1resFH43bMepkZT) | [Set The Tone](https://open.spotify.com/album/4nkBdox5tbf2DtxEHJl9S4) | 2:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 79 | [Like Dat \- Remix](https://open.spotify.com/track/5o7gax2i8xXhrJyk2TA5YJ) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Like Dat \(Remix\)](https://open.spotify.com/album/2uElhN7gFctTBwTmESMxcj) | 2:22 |
 | 80 | [Saturday \(feat\. Cozz\)](https://open.spotify.com/track/7lam0WhGxAfl0Ax2wy4hhO) | [NCognita](https://open.spotify.com/artist/5cbFRX9vfBg6rtjN1V0VTI) | [Saturday \(feat\. Cozz\)](https://open.spotify.com/album/0jd3Es2wqZlmNw67YArtaw) | 2:34 |
 
-Snapshot ID: `MCw0NjQ2ZmNiZmE2MjU1Y2ZhNzczN2UwNjI4MjJlMWU4NTQzY2E2YTUw`
+Snapshot ID: `MCw5YzIyNDdkYjE5YjU4YzM2NTdlZjg3OTRjMGQ0NzZiNTdhMDg0ZTYy`

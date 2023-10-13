@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 163349,
       "name": "A Quiet Haven",
       "url": "https://open.spotify.com/track/4OraVyKuW65iz5tUgfN6a0"
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 190821,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/6BpicmKtoKZqysBUKgx92S"
@@ -1642,6 +1642,24 @@
       "duration_ms": 166643,
       "name": "Dois Mundos",
       "url": "https://open.spotify.com/track/4Ls25DZAykE5rhatYaFivp"
+    },
+    {
+      "album": {
+        "name": "Donegal",
+        "url": "https://open.spotify.com/album/4aPfvkL9aJn4yozAV8Hift"
+      },
+      "artists": [
+        {
+          "name": "Marcio Philomena",
+          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156217,
+      "name": "Donegal",
+      "url": "https://open.spotify.com/track/51760UCr1H0wFGIeNlZg2F"
     },
     {
       "album": {
@@ -2406,7 +2424,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 121858,
       "name": "Fragile Dreams",
       "url": "https://open.spotify.com/track/1S1RTPziNCXpzq2ULuoeKG"
@@ -4199,6 +4217,24 @@
     },
     {
       "album": {
+        "name": "Montes Claros",
+        "url": "https://open.spotify.com/album/4xouEO0NJWhJswiV2Qofy8"
+      },
+      "artists": [
+        {
+          "name": "Adeben",
+          "url": "https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165149,
+      "name": "Montes Claros",
+      "url": "https://open.spotify.com/track/2DwZFuh7xnuEDvNwz4mAMi"
+    },
+    {
+      "album": {
         "name": "Sandrina",
         "url": "https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB"
       },
@@ -4678,7 +4714,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 137486,
       "name": "Ouarzazate",
       "url": "https://open.spotify.com/track/4KLHM8BsHxjA74q1H1wvnx"
@@ -4808,7 +4844,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 171162,
       "name": "Pellegrino",
       "url": "https://open.spotify.com/track/0mNMNk8NPcay74AHyFwzfX"
@@ -6108,7 +6144,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 172031,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/1w6k1oy9LqMtxpNhBLFCi0"
@@ -7048,7 +7084,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 128173,
       "name": "We Wonder",
       "url": "https://open.spotify.com/track/722UjaEjoA9IeiHvEXrE5N"

@@ -888,6 +888,24 @@
     {
       "album": {
         "name": "10 Years Hive Audio, Pt. 3",
+        "url": "https://open.spotify.com/album/4VZ7Nx41LpcYST7YRwjqVd"
+      },
+      "artists": [
+        {
+          "name": "Amine K (Moroko Loko)",
+          "url": "https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394654,
+      "name": "Hecate",
+      "url": "https://open.spotify.com/track/3cHhaSoB0KCXuzok7ILC9f"
+    },
+    {
+      "album": {
+        "name": "10 Years Hive Audio, Pt. 3",
         "url": "https://open.spotify.com/album/5PmgOg1nXO0o0x2BjzVCw1"
       },
       "artists": [
@@ -916,7 +934,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 394654,
       "name": "Hecate - Original Mix",
       "url": "https://open.spotify.com/track/7qLsv1BkNBhxz9spbM3ggl"

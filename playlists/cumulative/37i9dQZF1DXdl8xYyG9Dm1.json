@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "80's Love",
+        "url": "https://open.spotify.com/album/6ikzhi2Y1rW1gsyljgWQ57"
+      },
+      "artists": [
+        {
+          "name": "Stogie T",
+          "url": "https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs"
+        },
+        {
+          "name": "Brittney Crush",
+          "url": "https://open.spotify.com/artist/43Oq0Lvc8IfW0vRTnIQ53z"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199715,
+      "name": "80's Love",
+      "url": "https://open.spotify.com/track/0nN4AmUQe1h2jCC1Z8rjG8"
+    },
+    {
+      "album": {
         "name": "A Million",
         "url": "https://open.spotify.com/album/1K7d4nsh7rQiu4eSqYlsAf"
       },
@@ -158,7 +180,7 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 186923,
       "name": "Afro Jigga",
       "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
@@ -246,6 +268,32 @@
       "duration_ms": 149250,
       "name": "Alaye Toh Se Gogo",
       "url": "https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm"
+    },
+    {
+      "album": {
+        "name": "All My Life (Remixes)",
+        "url": "https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264179,
+      "name": "All My Life (Burna Boy Remix) - Burna Explicit Stereo",
+      "url": "https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq"
     },
     {
       "album": {
@@ -1860,7 +1908,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 155019,
       "name": "Jinja",
       "url": "https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x"
@@ -2262,7 +2310,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 121750,
       "name": "Lord Protect My Steppings",
       "url": "https://open.spotify.com/track/7ExAAitYugXqJ1YA6IICC5"
@@ -2546,6 +2594,32 @@
       "duration_ms": 217520,
       "name": "Never Forget [Feat. Chef 187, Tio Nason, Mwanj\u00e9]",
       "url": "https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7"
+    },
+    {
+      "album": {
+        "name": "Beautiful Lies",
+        "url": "https://open.spotify.com/album/2mPFn6vASk3VVP1M3nTeCM"
+      },
+      "artists": [
+        {
+          "name": "Runda",
+          "url": "https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x"
+        },
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196904,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/1dRcJH6gdBPnXKcvVU8SiB"
     },
     {
       "album": {
@@ -2924,7 +2998,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 175428,
       "name": "Prada",
       "url": "https://open.spotify.com/track/2DQ8VLRmHPn3QOx2xjlAQw"
@@ -3200,7 +3274,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 209148,
       "name": "SAUCE (feat. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK)",
       "url": "https://open.spotify.com/track/3jEWgcZ0K3mg9T2Iwp7jVR"
@@ -3270,6 +3344,42 @@
       "duration_ms": 194863,
       "name": "Second Sermon - Remix",
       "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
+    },
+    {
+      "album": {
+        "name": "EZIOKWU",
+        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172941,
+      "name": "SHOOT AND GO HOME",
+      "url": "https://open.spotify.com/track/7LULqWeafZzoFjW9KAUvay"
+    },
+    {
+      "album": {
+        "name": "SHUT IT DOWN",
+        "url": "https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "SHUT IT DOWN",
+      "url": "https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX"
     },
     {
       "album": {

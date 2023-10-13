@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-786 songs - 1 day 18 hr 41 min
+787 songs - 1 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,6 +659,7 @@
 | [Straight Forward](https://open.spotify.com/track/12PQrHIHBYHz6CqDzRS6Ot) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Straight Forward](https://open.spotify.com/album/3O0QPqMcrOw7SalZBuBIjQ) | 3:15 | 2022-07-28 | 2022-09-23 |
 | [Straight Forward](https://open.spotify.com/track/2bpKRLiSsAW4jWBZ8pLKt8) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Straight Forward](https://open.spotify.com/album/2tzKmPJ72cXuUz6tcV9Tf5) | 3:15 | 2022-07-22 | 2022-07-29 |
 | [Sufi Sufi](https://open.spotify.com/track/3qitvcLRDXlR1LiITfWpZ9) | [Dilraj Grewal](https://open.spotify.com/artist/4K57exUc4hdq6l4iaGyTrT), [Anjali Arora](https://open.spotify.com/artist/40uVhJMaDcTekOBAe2qqTg) | [Sufi Sufi](https://open.spotify.com/album/3SXvkoSVJCpVLoN4cic5gf) | 3:02 | 2022-06-30 | 2022-07-06 |
+| [Suhagan](https://open.spotify.com/track/2UN5ayAAWWfdHI6I33eehA) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 5:14 | 2023-10-12 |  |
 | [Suit](https://open.spotify.com/track/0Wzt3fC0iru2uLmE5fg3st) | [Amar Sehmbi](https://open.spotify.com/artist/39qok0BZ6YbUgGWRH4UEEY), [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Suit](https://open.spotify.com/album/5iAjlGCxk1g8J3Bsn394g3) | 3:24 | 2022-07-27 | 2022-12-16 |
 | [Suit](https://open.spotify.com/track/5hP26tC5gV42IwhYMQ4nLA) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Another Side](https://open.spotify.com/album/3wd8Hr4S8649tc3kTuy3ch) | 3:27 | 2023-01-18 |  |
 | [Suit Gulabi](https://open.spotify.com/track/1do83bSMh85dYMSCml1t8I) | [Dalvir Sidhu](https://open.spotify.com/artist/56z6Zt5dNIwgD7ajzBwu0A) | [Never Died](https://open.spotify.com/album/6QgCbo5YPwTmCLejqEaaLZ) | 2:34 | 2022-04-11 | 2022-05-11 |

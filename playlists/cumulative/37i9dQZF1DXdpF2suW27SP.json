@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Plutonio e Vulgo FK entram na zona. ",
+  "description": "Slow J entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -2149,6 +2149,28 @@
     },
     {
       "album": {
+        "name": "Desejos",
+        "url": "https://open.spotify.com/album/1MIuWVILfqHrmw1tV3AAlm"
+      },
+      "artists": [
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        },
+        {
+          "name": "Oestrela",
+          "url": "https://open.spotify.com/artist/4OHp25KOzOBF38Uq4CNtNE"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213437,
+      "name": "Desejos",
+      "url": "https://open.spotify.com/track/2EDyvafmx73KbIKDtlrSLx"
+    },
+    {
+      "album": {
         "name": "Deus \u00e9 Pai",
         "url": "https://open.spotify.com/album/0YrZzoDGUdyGhoUxc2kaAE"
       },
@@ -2895,6 +2917,28 @@
     },
     {
       "album": {
+        "name": "Faya",
+        "url": "https://open.spotify.com/album/1L0ZyJRCsGSzWEuRWkq8SQ"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        },
+        {
+          "name": "Felishia",
+          "url": "https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166523,
+      "name": "Faya",
+      "url": "https://open.spotify.com/track/0wL9hQUzatIoqv6lcxT2M1"
+    },
+    {
+      "album": {
         "name": "Fazi Gossi",
         "url": "https://open.spotify.com/album/7tzCB0q53jFKN0klR9NgXB"
       },
@@ -3368,7 +3412,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 243071,
       "name": "Guarda Sentimentos",
       "url": "https://open.spotify.com/track/3YiUSTFpMWTlorXwddedNj"
@@ -4857,6 +4901,32 @@
     },
     {
       "album": {
+        "name": "Nosso Spot",
+        "url": "https://open.spotify.com/album/7FDiVH4jRpJ1vgJP5l0ZVw"
+      },
+      "artists": [
+        {
+          "name": "Cunha Beats",
+          "url": "https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7"
+        },
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "Amaro",
+          "url": "https://open.spotify.com/artist/2PFhhQZgtdqOT8mXiAHJ0A"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156570,
+      "name": "Nosso Spot",
+      "url": "https://open.spotify.com/track/4f69bb1IhaFjRgNulkpdyA"
+    },
+    {
+      "album": {
         "name": "NR5",
         "url": "https://open.spotify.com/album/1mJesBtaqgysGAlk9aFWuZ"
       },
@@ -5570,7 +5640,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 218181,
       "name": "Peitto Feitto",
       "url": "https://open.spotify.com/track/7MuaeiBSGXeQQt4skDjdNU"
@@ -5756,7 +5826,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 139506,
       "name": "Por Aqui",
       "url": "https://open.spotify.com/track/6Pre7MaAvhrV8VgiwTX7KP"

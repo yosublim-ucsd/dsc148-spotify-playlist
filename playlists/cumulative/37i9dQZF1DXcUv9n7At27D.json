@@ -101,6 +101,28 @@
     },
     {
       "album": {
+        "name": "Blue Orchestra - Premium Classic",
+        "url": "https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "\u5c0f\u5ddd\u606d\u5b50",
+          "url": "https://open.spotify.com/artist/22MNZFpm5ETAg33C7ZNodS"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310480,
+      "name": "Air on the G String (Version for Violin Solo)",
+      "url": "https://open.spotify.com/track/6ISMzJg3eW5RWMf3Irs6TU"
+    },
+    {
+      "album": {
         "name": "neiro",
         "url": "https://open.spotify.com/album/6TCmGyhwZAo6A2DuLSsctc"
       },
@@ -806,7 +828,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 305054,
       "name": "G\u7dda\u4e0a\u306e\u30a2\u30ea\u30a2\uff08\u7121\u4f34\u594f\u30f4\u30a1\u30a4\u30aa\u30ea\u30f3\u7248\uff09",
       "url": "https://open.spotify.com/track/3fXUgYuJJ6iNskUNfLTE8V"

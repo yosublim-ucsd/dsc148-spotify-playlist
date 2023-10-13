@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-266 songs - 12 hr 8 min
+267 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Arizona Sunsets](https://open.spotify.com/track/3vBZ5BwSoqcDdab0ks2AEx) | [Chris Nordlinger](https://open.spotify.com/artist/7jxfHriBt8rNxGMvvUfJKy) | [Arizona Sunsets](https://open.spotify.com/album/463pBKIsmNYwXgXuWBvSPq) | 2:07 | 2022-07-08 |  |
 | [Arve](https://open.spotify.com/track/7Ej0i8220fmM91CuhkeG4Q) | [Simon Persicke](https://open.spotify.com/artist/2EwkG5Ii2DfeUJSqdDzamR) | [Arve](https://open.spotify.com/album/4Pbuna5jvR0aLRy7JLJIlG) | 3:48 | 2022-05-13 | 2023-08-12 |
 | [As It Was](https://open.spotify.com/track/0AdUlf7gmrwhuVp8oznsRc) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [As It Was](https://open.spotify.com/album/7yZM712MQzUbnXAKeoAW4H) | 3:30 | 2022-06-10 | 2023-04-28 |
-| [As Lovely as You](https://open.spotify.com/track/1DM9o5mLVWg0gigkcHBLHE) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [As Lovely As You](https://open.spotify.com/album/332IMrwRY4IP3srSACnjH4) | 3:07 | 2022-05-13 |  |
+| [As Lovely as You](https://open.spotify.com/track/1DM9o5mLVWg0gigkcHBLHE) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [As Lovely As You](https://open.spotify.com/album/332IMrwRY4IP3srSACnjH4) | 3:07 | 2022-05-13 | 2023-10-13 |
 | [Asian Delight](https://open.spotify.com/track/0EQOLN8bCteRj62De3MLSn) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [Asian Delight](https://open.spotify.com/album/3EhfE5X0ILlNI30Yt3trQ2) | 3:28 | 2022-05-13 |  |
 | [At first dawn](https://open.spotify.com/track/7xWZgRtEfN2WYzomtNynes) | [Robert Blanke](https://open.spotify.com/artist/0nXlrKMk6YSm3vN04HaghF) | [At first dawn](https://open.spotify.com/album/2Cv6U6taQMno5m7KMZakLz) | 2:41 | 2022-05-13 |  |
 | [Autumn Coming](https://open.spotify.com/track/4FMe5WxTUYxd4U9jk0C4yl) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Autumn Coming](https://open.spotify.com/album/3Q6axAHOm4KVMFJlxFRvQF) | 2:21 | 2022-05-13 |  |
@@ -144,6 +144,7 @@
 | [In Daisies Lain](https://open.spotify.com/track/5cfyGiPqoeKsIGgnmj6Hvq) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [In Daisies Lain](https://open.spotify.com/album/48Ry8I2qQ5R6wyMfVQMjwf) | 2:21 | 2022-12-23 |  |
 | [In the Makeup of the Sun \- Instrumental Version](https://open.spotify.com/track/2yyUytDg93W9yK40uENJg6) | [Christian Wannerwall](https://open.spotify.com/artist/4Z3m4U4Qm1b8EFpcws68kh) | [In the Makeup of the Sun \(Instrumental Version\)](https://open.spotify.com/album/1h90KBYEpVefz7oqZbpYFx) | 1:39 | 2022-05-13 | 2023-03-07 |
 | [In the Makeup of the Sun \- Instrumental Version](https://open.spotify.com/track/6ve8VJ7npOQkUQof64nEoK) | [Christian Wannerwall](https://open.spotify.com/artist/4Z3m4U4Qm1b8EFpcws68kh) | [In the Makeup of the Sun \(Instrumental Version\)](https://open.spotify.com/album/58u78BdHflclRqGWlv5hro) | 1:39 | 2023-02-24 | 2023-06-10 |
+| [Innocent Face](https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:02 | 2023-10-13 |  |
 | [Intuition](https://open.spotify.com/track/6vUsv2JJEUDjfKO6WPDJhZ) | [Miller Hawkins](https://open.spotify.com/artist/3UOaQwHxcBDlMJm5P34hme) | [Intuition](https://open.spotify.com/album/4yTM5RvuKvukyE0JudZm6G) | 2:54 | 2022-05-13 |  |
 | [Isaar im Mondschein](https://open.spotify.com/track/0wyxPRiJzaNkJ3KmiqXaQq) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Frühlings Erwachen](https://open.spotify.com/album/2qUMNFnnZUzoyQbYo3jvWc) | 3:41 | 2022-05-13 |  |
 | [Jasmine Spring](https://open.spotify.com/track/0rvAQQgVhaUsbl9oF4pmlQ) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Jasmine Spring](https://open.spotify.com/album/5jTFUQwgbtF73qI3Qky9sF) | 2:26 | 2022-07-22 |  |

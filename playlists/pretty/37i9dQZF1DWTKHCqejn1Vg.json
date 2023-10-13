@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 27823,
+  "num_followers": 27872,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzZjZTYzNjljMmNhYTZlMTJlNDMyZDVlZjYzNDEwMjQ1OWYwNTEx",
+  "snapshot_id": "MCxmYTM2NGI4YjQ4OGUwYTIzODQwMjU2NzgxMmNiN2RiNTJkOTUwOWQ3",
   "tracks": [
     {
       "added_at": "2023-09-20 06:37:46",
@@ -447,22 +447,18 @@
     {
       "added_at": "2023-09-20 06:37:46",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
       },
       "artists": [
         {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        },
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
         }
       ],
-      "duration_ms": 219080,
-      "name": "Black Rose",
-      "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
+      "duration_ms": 198069,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/26vcAIAnkT3d7i9B8gtpTy"
     },
     {
       "added_at": "2023-09-20 06:37:46",
@@ -483,18 +479,22 @@
     {
       "added_at": "2023-09-20 06:37:46",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
       "artists": [
         {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
         }
       ],
-      "duration_ms": 198069,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/26vcAIAnkT3d7i9B8gtpTy"
+      "duration_ms": 219080,
+      "name": "Black Rose",
+      "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
     },
     {
       "added_at": "2023-09-20 06:37:46",
@@ -731,22 +731,22 @@
     {
       "added_at": "2023-09-20 06:37:46",
       "album": {
-        "name": "mojo",
-        "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
+        "name": "EMO #1",
+        "url": "https://open.spotify.com/album/55glnrkeboPTnBJAmcIrYu"
       },
       "artists": [
         {
-          "name": "vangdale",
-          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
         },
         {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 151880,
-      "name": "LSD (Feat. JUNNY)",
-      "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
+      "duration_ms": 217489,
+      "name": "Justin Bieber (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/7lKq1zBuch1xYlwQxs9RdD"
     },
     {
       "added_at": "2023-09-20 06:37:46",
@@ -771,22 +771,22 @@
     {
       "added_at": "2023-09-20 06:37:46",
       "album": {
-        "name": "EMO #1",
-        "url": "https://open.spotify.com/album/55glnrkeboPTnBJAmcIrYu"
+        "name": "mojo",
+        "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
       },
       "artists": [
         {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+          "name": "vangdale",
+          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
         },
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
         }
       ],
-      "duration_ms": 217489,
-      "name": "Justin Bieber (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/7lKq1zBuch1xYlwQxs9RdD"
+      "duration_ms": 151880,
+      "name": "LSD (Feat. JUNNY)",
+      "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
     },
     {
       "added_at": "2023-09-20 06:37:46",

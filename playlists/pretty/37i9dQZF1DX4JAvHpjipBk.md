@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Tems, JENNIE, Omar Apollo, Lil Yachty & J\. Cole and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,172,036 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,166,839 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [a lesson in chemistry](https://open.spotify.com/track/4PoCaIK1ATTxQvqtTTXFzz) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [a lesson in chemistry](https://open.spotify.com/album/2slYBTkG0mGdQEmQVe6dD3) | 2:07 |
 | 100 | [Tethered](https://open.spotify.com/track/0ZRnv9lXrT1kthOFt0llwy) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [Tethered](https://open.spotify.com/album/2MOOICbNuggNtJU2OZWaA4) | 3:48 |
 
-Snapshot ID: `MCxmMzhkMWZiYTNhN2FkYjk5MGEzYzg4ZGIzYzU5OTM1YTJjYmFmYjg2`
+Snapshot ID: `MCw4OTc0ZGE1M2ZmNTcwOTY2NzJmZWExNWJiN2IwYzkwZDAxMDBlMzFh`

@@ -1666,10 +1666,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 184958,
       "name": "What I'm Feelin'",
       "url": "https://open.spotify.com/track/67Td5REaBJ3Kn5YLhi1N9s"
+    },
+    {
+      "album": {
+        "name": "Dare To Be Me",
+        "url": "https://open.spotify.com/album/3eTkFUGzZzb70aO7fORDqo"
+      },
+      "artists": [
+        {
+          "name": "Kaci Bolls",
+          "url": "https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184958,
+      "name": "What I'm Feelin'",
+      "url": "https://open.spotify.com/track/7iMabirL3UdSaGX2CrZDWz"
     },
     {
       "album": {

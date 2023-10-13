@@ -4,7 +4,7 @@
 
 > 
 
-39 songs - 2 hr 18 min
+41 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Dracula From Houston](https://open.spotify.com/track/4KJKj7GZLzxq1bXRu0XP6l) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Weird Revolution](https://open.spotify.com/album/1nrZ789CcB2NWW3xn8MBfe) | 3:42 | 2023-06-17 |  |
 | [Every Morning](https://open.spotify.com/track/0BfcEHpbpAvvZok7OnIHEN) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Sugar Ray Collection](https://open.spotify.com/album/717p2dG02D55NmbZY61135) | 3:39 | 2022-02-03 |  |
 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 | 2022-04-01 |  |
+| [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 | 2023-10-12 |  |
 | [Lump](https://open.spotify.com/track/0BkfgzhxeFtLBbmTjbPJ97) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/3ItI6JFnsUIt5PajojH8kJ) | 2:14 | 2022-02-03 |  |
 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/09zcsg2TgceQZ5GCmzrUDZ) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [Eddie Stobart \- Trucking Songs](https://open.spotify.com/album/1ruxsc2tZWcHR9DcO0ChsM) | 3:53 | 2022-02-03 |  |
 | [Mrs\. Robinson \- Remastered](https://open.spotify.com/track/1Hnv9uDIokwi4nkcVUyS0X) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's a Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/4Q8DyYRZ8qbDoTUDJBgE3A) | 3:44 | 2023-05-18 |  |
@@ -31,6 +32,7 @@
 | [People Who Died](https://open.spotify.com/track/5mcaY65WhtzFk1TFRGY6kY) | [The Jim Carroll Band](https://open.spotify.com/artist/7jrNr1OwKCfNDfHkwOTJnc) | [Catholic Boy](https://open.spotify.com/album/4wAWa84e356LRGEPA741Fv) | 4:59 | 2022-02-28 |  |
 | [Pepper](https://open.spotify.com/track/1ng36571Iyov4HBxUClySn) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Electriclarryland](https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz) | 4:57 | 2022-02-03 |  |
 | [Pretty Fly \(For A White Guy\)](https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:08 | 2023-05-12 |  |
+| [She's Kerosene](https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:50 | 2023-10-12 |  |
 | [Spiderwebs](https://open.spotify.com/track/4ZD6SiaJi75smnel0d7jl3) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:26 | 2022-02-05 |  |
 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 | 2022-03-06 |  |
 | [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 | 2022-02-05 |  |

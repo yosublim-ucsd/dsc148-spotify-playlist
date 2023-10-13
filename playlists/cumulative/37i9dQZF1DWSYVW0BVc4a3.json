@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 190769,
       "name": "Channel Z",
       "url": "https://open.spotify.com/track/2ojGxz1MKMnxSnu9DB8E9d"
@@ -4200,7 +4200,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 253338,
       "name": "Gershwin",
       "url": "https://open.spotify.com/track/5YYUwGeR0uVKLeHr4vjuo3"
@@ -4262,7 +4262,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 232131,
       "name": "ghost (feat. HUMAN) - Alex Wann Remix",
       "url": "https://open.spotify.com/track/37v3bXubm5YbjUKQKDJFAM"
@@ -4790,6 +4790,24 @@
       "duration_ms": 277099,
       "name": "Heaven, Wait (Joplyn Remix)",
       "url": "https://open.spotify.com/track/4OFUyGiyOphh0WjTCEjjGc"
+    },
+    {
+      "album": {
+        "name": "Hera",
+        "url": "https://open.spotify.com/album/7zCZCLV0eO0TPCxl3iFobd"
+      },
+      "artists": [
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Hera - Radio Edit",
+      "url": "https://open.spotify.com/track/3vvI4AgjiuPerFxIkhLxXy"
     },
     {
       "album": {
@@ -6522,7 +6540,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 214237,
       "name": "Liquid Gold",
       "url": "https://open.spotify.com/track/5ePsIL5oYErKR9zvEFjtIr"
@@ -7256,7 +7274,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 311507,
       "name": "Mind Games",
       "url": "https://open.spotify.com/track/5xCKy767Ol19tTbD5wszUf"
@@ -7304,6 +7322,32 @@
       "duration_ms": 302740,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS"
+    },
+    {
+      "album": {
+        "name": "Miracle - R\u00dcF\u00dcS DU SOL Remix",
+        "url": "https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503475,
+      "name": "Miracle - R\u00dcF\u00dcS DU SOL Remix",
+      "url": "https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K"
     },
     {
       "album": {
@@ -8332,7 +8376,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 183194,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/5lipO9xkC68LREHy8kBPJH"
@@ -8899,6 +8943,24 @@
     },
     {
       "album": {
+        "name": "Phonox",
+        "url": "https://open.spotify.com/album/6QvULTM7fp7F2kYtjIDxCO"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476280,
+      "name": "Phonox",
+      "url": "https://open.spotify.com/track/1S2HYB1DU0Qt4ScO2WpCbR"
+    },
+    {
+      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/2KRkITw3duxYZvQxAnZTaF"
       },
@@ -9366,7 +9428,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 184514,
       "name": "Ring The Alarm",
       "url": "https://open.spotify.com/track/6EACtpp2xlqbs2rViFRXDO"
@@ -9873,6 +9935,32 @@
     },
     {
       "album": {
+        "name": "Seismic",
+        "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Fly With Us",
+          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208125,
+      "name": "Seismic",
+      "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
+    },
+    {
+      "album": {
         "name": "Wide Open EP",
         "url": "https://open.spotify.com/album/41B6WXHp2NjI7NTbSrDq1g"
       },
@@ -9914,6 +10002,28 @@
       "duration_ms": 351393,
       "name": "Sentimental Fool - Pole Folder Full Sentimental Mix",
       "url": "https://open.spotify.com/track/3DS8XW8HPdcezb673CVGwe"
+    },
+    {
+      "album": {
+        "name": "The Red Flavonoid Dope",
+        "url": "https://open.spotify.com/album/6pVIdkm8ZZpi04rNeEdkCL"
+      },
+      "artists": [
+        {
+          "name": "Alex Tomb",
+          "url": "https://open.spotify.com/artist/3nVDcXlZeXPG1GsjrUdGZJ"
+        },
+        {
+          "name": "OLING",
+          "url": "https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503409,
+      "name": "Sepiaria Linn - OLING Remix",
+      "url": "https://open.spotify.com/track/3czGrj1aQr4heR31MY78e4"
     },
     {
       "album": {
@@ -10102,7 +10212,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 205454,
       "name": "Shake",
       "url": "https://open.spotify.com/track/0al96kbwWxScOcA1iK7T0b"
@@ -11481,6 +11591,24 @@
     },
     {
       "album": {
+        "name": "Tell That Boy",
+        "url": "https://open.spotify.com/album/1pQODgWcJzz8oUoucbos1R"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214211,
+      "name": "Tell That Boy",
+      "url": "https://open.spotify.com/track/34x9lHWBLEWgDSUUlx1T5Z"
+    },
+    {
+      "album": {
         "name": "Tell You What It Is (Shermanology SoulTec Mix)",
         "url": "https://open.spotify.com/album/7GJ2eSxgOOjIbTm57N8HUV"
       },
@@ -12044,6 +12172,24 @@
       "duration_ms": 202500,
       "name": "The Treble",
       "url": "https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5"
+    },
+    {
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/4jfQMJchWnQjF3bjSGYfqM"
+      },
+      "artists": [
+        {
+          "name": "Bigfett",
+          "url": "https://open.spotify.com/artist/7x68cYMeDnvneRvfFyEyae"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389032,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/0bFYxqlC4hYxJ0Gnrm8IqR"
     },
     {
       "album": {
@@ -13450,7 +13596,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 318208,
       "name": "What Do Adults Say?",
       "url": "https://open.spotify.com/track/2hGDLEswvlENe7KFFLPfmI"

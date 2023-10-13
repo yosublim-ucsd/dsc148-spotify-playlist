@@ -1463,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "Flying Spirits.",
+        "url": "https://open.spotify.com/album/0omGFYMltCOD9AOACXmP9E"
+      },
+      "artists": [
+        {
+          "name": "Ashlynn Vinno",
+          "url": "https://open.spotify.com/artist/2LJPtJzLybu9EKKX8X84DJ"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Flying Spirits.",
+      "url": "https://open.spotify.com/track/3qfofCNp0UgwHKmgM1EJ6A"
+    },
+    {
+      "album": {
         "name": "For a while",
         "url": "https://open.spotify.com/album/7l4681Ts204dYgHCOiZjba"
       },
@@ -2410,7 +2428,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 235562,
       "name": "L\u00e4ngtan",
       "url": "https://open.spotify.com/track/5dU3ZoeCCMmRziuCCr4ErZ"

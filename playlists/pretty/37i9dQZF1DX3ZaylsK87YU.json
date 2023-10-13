@@ -1,12 +1,12 @@
 {
   "description": "Discover this set of songs that define modern hymns for and beyond the church.  Cover artist: Phil Wickham",
-  "num_followers": 68699,
+  "num_followers": 68822,
   "original_name": "Modhymns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODliOGUyZWZlYjMwNWE0NTczMjRjMzZlMDQwMDJjMjdjYjBhYWI0",
+  "snapshot_id": "MCxlYTZmY2RiNmFjYWZlOGRiZjg2YzVmODc0M2Q5ZTQ0Yjg0YWZhMzNl",
   "tracks": [
     {
       "added_at": "2023-02-18 04:59:55",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Hymns, Vol. 1",
-        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
+        "name": "Peace Like A River: The Hymns Project",
+        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
       },
       "artists": [
         {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
         }
       ],
-      "duration_ms": 351718,
-      "name": "Come Thou Fount (Above All Else)",
-      "url": "https://open.spotify.com/track/5yZcK6LIBxD6Ia5vYuEr6v"
+      "duration_ms": 293986,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/2YtsgFOv3e2oAPvGg5iLBb"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Peace Like A River: The Hymns Project",
-        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+        "name": "Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
       },
       "artists": [
         {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 293986,
-      "name": "How Great Thou Art",
-      "url": "https://open.spotify.com/track/2YtsgFOv3e2oAPvGg5iLBb"
+      "duration_ms": 351718,
+      "name": "Come Thou Fount (Above All Else)",
+      "url": "https://open.spotify.com/track/5yZcK6LIBxD6Ia5vYuEr6v"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Psalms, Vol. 2",
-        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 312592,
-      "name": "Psalm 139 (Far Too Wonderful)",
-      "url": "https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "The Worship Initiative, Vol. 6",
         "url": "https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 224000,
       "name": "Come Thou Fount Of Every Blessing",
       "url": "https://open.spotify.com/track/0f9U92JG3vu8BH3PTvxySR"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 312592,
+      "name": "Psalm 139 (Far Too Wonderful)",
+      "url": "https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
+        "name": "Limbs & Branches",
+        "url": "https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        }
+      ],
+      "duration_ms": 283986,
+      "name": "The House Of God, Forever",
+      "url": "https://open.spotify.com/track/11DoHAnnLO1kK2FTyzs5Uv"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
         "name": "Hymns, Vol. 1",
         "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 281866,
       "name": "Great Is Thy Faithfulness",
       "url": "https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Limbs & Branches",
-        "url": "https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI"
-      },
-      "artists": [
-        {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        }
-      ],
-      "duration_ms": 283986,
-      "name": "The House Of God, Forever",
-      "url": "https://open.spotify.com/track/11DoHAnnLO1kK2FTyzs5Uv"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Peace Like A River: The Hymns Project",
-        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+        "name": "Messenger Hymns, Vol. 2 - EP",
+        "url": "https://open.spotify.com/album/00AuuN8Eba5KnPauBSOT6w"
       },
       "artists": [
         {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
         }
       ],
-      "duration_ms": 279653,
-      "name": "It Is Well With My Soul",
-      "url": "https://open.spotify.com/track/3VBqIpJOTtauueKPLl20wn"
+      "duration_ms": 234801,
+      "name": "Christ the Sure and Steady Anchor",
+      "url": "https://open.spotify.com/track/4Pq8VwiL1XA7MfpmDhY7dw"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1355,18 +1355,34 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Messenger Hymns, Vol. 2 - EP",
-        "url": "https://open.spotify.com/album/00AuuN8Eba5KnPauBSOT6w"
+        "name": "Counting Every Blessing",
+        "url": "https://open.spotify.com/album/77bSJkD7soqec8JBlCV4Xq"
       },
       "artists": [
         {
-          "name": "Matt Boswell",
-          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
         }
       ],
-      "duration_ms": 234801,
-      "name": "Christ the Sure and Steady Anchor",
-      "url": "https://open.spotify.com/track/4Pq8VwiL1XA7MfpmDhY7dw"
+      "duration_ms": 302780,
+      "name": "Counting Every Blessing",
+      "url": "https://open.spotify.com/track/7ewrtrIaGOiKh3G0zD5egG"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Peace Like A River: The Hymns Project",
+        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "It Is Well With My Soul",
+      "url": "https://open.spotify.com/track/3VBqIpJOTtauueKPLl20wn"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1387,22 +1403,6 @@
       "duration_ms": 482386,
       "name": "Since Your Love (Live) [feat. Brandon Hampton]",
       "url": "https://open.spotify.com/track/0XPZo7uag05Vi90Tz0G8ry"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Counting Every Blessing",
-        "url": "https://open.spotify.com/album/77bSJkD7soqec8JBlCV4Xq"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 302780,
-      "name": "Counting Every Blessing",
-      "url": "https://open.spotify.com/track/7ewrtrIaGOiKh3G0zD5egG"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "The Undoing",
-        "url": "https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA"
-      },
-      "artists": [
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 244479,
-      "name": "Cecie's Lullaby",
-      "url": "https://open.spotify.com/track/4swc1KilG2ZCsF26hvz3Cq"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Hymns",
         "url": "https://open.spotify.com/album/5BjcLlthKNZxElwEFd7sjc"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 124311,
       "name": "Doxology (feat. Selah)",
       "url": "https://open.spotify.com/track/7L5YVihzHRC89rIBknxRDP"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "The Undoing",
+        "url": "https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 244479,
+      "name": "Cecie's Lullaby",
+      "url": "https://open.spotify.com/track/4swc1KilG2ZCsF26hvz3Cq"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Praise 8 - As The Deer",
-        "url": "https://open.spotify.com/album/5W8FCrbWLKeeltQ0NBEdUG"
+        "name": "Joy Has Dawned",
+        "url": "https://open.spotify.com/album/7jfGMR3tcoRYefoNxst4w8"
       },
       "artists": [
         {
-          "name": "Maranatha! Music",
-          "url": "https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe"
+          "name": "Kings (MHM)",
+          "url": "https://open.spotify.com/artist/64bkd3Cql2VeQBIfl5tjCC"
         }
       ],
-      "duration_ms": 249360,
-      "name": "As The Deer",
-      "url": "https://open.spotify.com/track/0XwVqr3oNiLpuQI3NkzQgf"
+      "duration_ms": 246106,
+      "name": "All Glory Be to Christ",
+      "url": "https://open.spotify.com/track/02GNfO1O7d0Rx3tGcvfuIP"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1647,34 +1647,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Joy Has Dawned",
-        "url": "https://open.spotify.com/album/7jfGMR3tcoRYefoNxst4w8"
+        "name": "Praise 8 - As The Deer",
+        "url": "https://open.spotify.com/album/5W8FCrbWLKeeltQ0NBEdUG"
       },
       "artists": [
         {
-          "name": "Kings (MHM)",
-          "url": "https://open.spotify.com/artist/64bkd3Cql2VeQBIfl5tjCC"
+          "name": "Maranatha! Music",
+          "url": "https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe"
         }
       ],
-      "duration_ms": 246106,
-      "name": "All Glory Be to Christ",
-      "url": "https://open.spotify.com/track/02GNfO1O7d0Rx3tGcvfuIP"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Even So Come: A Worship Album",
-        "url": "https://open.spotify.com/album/5xc8W0sOrOt2FvVS0uyztz"
-      },
-      "artists": [
-        {
-          "name": "Brooke Griffith",
-          "url": "https://open.spotify.com/artist/4fnlaDM9xpbXlqwiZhS4un"
-        }
-      ],
-      "duration_ms": 318566,
-      "name": "You Are My All In All",
-      "url": "https://open.spotify.com/track/28WU7koB2YsCtoTfsGwOb9"
+      "duration_ms": 249360,
+      "name": "As The Deer",
+      "url": "https://open.spotify.com/track/0XwVqr3oNiLpuQI3NkzQgf"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1691,6 +1675,22 @@
       "duration_ms": 264480,
       "name": "Far Kingdom",
       "url": "https://open.spotify.com/track/0FqK5zRZm46125vbLR7K6v"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Even So Come: A Worship Album",
+        "url": "https://open.spotify.com/album/5xc8W0sOrOt2FvVS0uyztz"
+      },
+      "artists": [
+        {
+          "name": "Brooke Griffith",
+          "url": "https://open.spotify.com/artist/4fnlaDM9xpbXlqwiZhS4un"
+        }
+      ],
+      "duration_ms": 318566,
+      "name": "You Are My All In All",
+      "url": "https://open.spotify.com/track/28WU7koB2YsCtoTfsGwOb9"
     },
     {
       "added_at": "2023-02-18 04:59:55",

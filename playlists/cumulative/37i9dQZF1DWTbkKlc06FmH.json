@@ -998,7 +998,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 174516,
       "name": "Better",
       "url": "https://open.spotify.com/track/1dLXLETYiZohIZWnse4ypG"
@@ -1950,6 +1950,24 @@
       "duration_ms": 216066,
       "name": "DEEP",
       "url": "https://open.spotify.com/track/0EVdzF6jNEL5fKH1FeONbb"
+    },
+    {
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/1gtc4Ft1JspHCCd9dozX8a"
+      },
+      "artists": [
+        {
+          "name": "Sen Morimoto",
+          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312080,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/3ShUS9A5HC0ZaO21Cnl3v8"
     },
     {
       "album": {
@@ -3436,6 +3454,24 @@
       "duration_ms": 260000,
       "name": "Hair Up High",
       "url": "https://open.spotify.com/track/2Yy2LQe91B18DxooUldFLm"
+    },
+    {
+      "album": {
+        "name": "Hana",
+        "url": "https://open.spotify.com/album/0v6vQ9tMopUTccn0wUvzQD"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246699,
+      "name": "Hana",
+      "url": "https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh"
     },
     {
       "album": {
@@ -5310,7 +5346,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 148571,
       "name": "move",
       "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
@@ -7794,7 +7830,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 219266,
       "name": "Still Rolling",
       "url": "https://open.spotify.com/track/4uHTsdgtVHUbJcLvs9jE3P"
@@ -8114,7 +8150,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 219813,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"

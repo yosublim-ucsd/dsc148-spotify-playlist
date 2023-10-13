@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 72922,
+  "num_followers": 72979,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTkzYmMwNGZmZGZkYTU2MTgxNzY2NmNlNzlhOTM0OWM0NDEyZjAy",
+  "snapshot_id": "MCw0NDU5YTAzNGE1MGMzNzY0MDkxMzgxY2VmNjgyZDQxYmQyZmI0OGVh",
   "tracks": [
     {
       "added_at": "2023-07-28 05:01:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/28wQLNnT2Vt6yrsoNAxErW"
+      },
+      "artists": [
+        {
+          "name": "El Rey de la Cantina",
+          "url": "https://open.spotify.com/artist/3Z30LsykS8OWsx2Ro7MO1Y"
+        }
+      ],
+      "duration_ms": 176019,
+      "name": "La C\u00e1rcel de Sing Sing",
+      "url": "https://open.spotify.com/track/5EHoGs7zKe79N5kcTaV1da"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
         "name": "Vicentico Vald\u00e9s Con La Sonora Matancera",
         "url": "https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 307401,
       "name": "Mi Viejo / Recordando a Mi Padre",
       "url": "https://open.spotify.com/track/5sK9OW4DCGyfO7uaIR9pJq"
-    },
-    {
-      "added_at": "2023-07-28 05:01:00",
-      "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/28wQLNnT2Vt6yrsoNAxErW"
-      },
-      "artists": [
-        {
-          "name": "El Rey de la Cantina",
-          "url": "https://open.spotify.com/artist/3Z30LsykS8OWsx2Ro7MO1Y"
-        }
-      ],
-      "duration_ms": 176019,
-      "name": "La C\u00e1rcel de Sing Sing",
-      "url": "https://open.spotify.com/track/5EHoGs7zKe79N5kcTaV1da"
     },
     {
       "added_at": "2023-07-28 05:01:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/28wQLNnT2Vt6yrsoNAxErW"
+      },
+      "artists": [
+        {
+          "name": "El Rey de la Cantina",
+          "url": "https://open.spotify.com/artist/3Z30LsykS8OWsx2Ro7MO1Y"
+        }
+      ],
+      "duration_ms": 153533,
+      "name": "El Contragolpe",
+      "url": "https://open.spotify.com/track/34vslpjwLp3AiR86EwJgCz"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
         "name": "Los Triunfadores de la Rockola",
         "url": "https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw"
       },
@@ -839,22 +855,6 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/28wQLNnT2Vt6yrsoNAxErW"
-      },
-      "artists": [
-        {
-          "name": "El Rey de la Cantina",
-          "url": "https://open.spotify.com/artist/3Z30LsykS8OWsx2Ro7MO1Y"
-        }
-      ],
-      "duration_ms": 153533,
-      "name": "El Contragolpe",
-      "url": "https://open.spotify.com/track/34vslpjwLp3AiR86EwJgCz"
-    },
-    {
-      "added_at": "2023-07-28 05:01:00",
-      "album": {
         "name": "El Bolerista De Am\u00e9rica",
         "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
-        "name": "Pedrito Otiniano y Sus Exitos",
-        "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Otiniano",
-          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "Kio",
-      "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
-    },
-    {
-      "added_at": "2023-07-28 05:01:00",
-      "album": {
         "name": "Mucho Coraz\u00f3n",
         "url": "https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 191000,
       "name": "Esc\u00e1ndalo / Luz y Sombra",
       "url": "https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "Pedrito Otiniano y Sus Exitos",
+        "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Otiniano",
+          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "Kio",
+      "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
     },
     {
       "added_at": "2023-07-28 05:01:00",

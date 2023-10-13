@@ -2,7 +2,7 @@
 
 ### [Party Hits 2010s](https://open.spotify.com/playlist/37i9dQZF1DWWylYLMvjuRG)
 
-> Los mejores éxitos de fiesta de la década de 2010\. Portada: Flo Rida.
+> The biggest party hits of the 2010s\. Cover: Flo Rida.
 
 410 songs - 1 day 0 hr 15 min
 

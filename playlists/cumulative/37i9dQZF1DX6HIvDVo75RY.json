@@ -1319,6 +1319,28 @@
     },
     {
       "album": {
+        "name": "TWENTY SOMETHING",
+        "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        },
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171080,
+      "name": "goodbye looks good on you (feat. Mitchell Tenpenny)",
+      "url": "https://open.spotify.com/track/2otAb5kIGdZzJCqcUHNztT"
+    },
+    {
+      "album": {
         "name": "TWENTY SOMETHING: Messing It Up",
         "url": "https://open.spotify.com/album/1Uyc48o6p2Dv1RfyZYztFS"
       },
@@ -1334,7 +1356,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 171080,
       "name": "goodbye looks good on you (feat. Mitchell Tenpenny)",
       "url": "https://open.spotify.com/track/4K3tnAfDLPZPvc3lzsrjoq"
@@ -4304,10 +4326,28 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 190893,
       "name": "you don't deserve a country song",
       "url": "https://open.spotify.com/track/6Ucd3amMzVE9d4UeimUUUS"
+    },
+    {
+      "album": {
+        "name": "TWENTY SOMETHING",
+        "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "you don't deserve a country song",
+      "url": "https://open.spotify.com/track/6eOtO0s3hoPsaBsf1gtd8J"
     },
     {
       "album": {

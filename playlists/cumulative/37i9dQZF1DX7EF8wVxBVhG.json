@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Harmonic Balance",
+        "url": "https://open.spotify.com/album/5EIABDLRDHWgwcIRxcadfc"
+      },
+      "artists": [
+        {
+          "name": "Binaural Explorer",
+          "url": "https://open.spotify.com/artist/2ZhPgXqdfCoEYgtumgaZ5z"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225805,
+      "name": "Alpha Harmony (105Hz - 115Hz)",
+      "url": "https://open.spotify.com/track/3l3JdIcEn1lZ6mwnZSO2BV"
+    },
+    {
+      "album": {
         "name": "Alpha Horizon",
         "url": "https://open.spotify.com/album/6GnCnCvllPPRsgxHIWPi5Z"
       },
@@ -614,7 +632,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 156153,
       "name": "Alpha Pulse - 92Hz - 100Hz",
       "url": "https://open.spotify.com/track/6Bdz9KhB5T0yIM8ix7TYjR"
@@ -2868,6 +2886,28 @@
       "duration_ms": 199124,
       "name": "Circumspect Alpha 10Hz",
       "url": "https://open.spotify.com/track/6xa4tQjf1T53fTB2RfZyGi"
+    },
+    {
+      "album": {
+        "name": "Conception - Alpha Sinus 115Hz - 122Hz",
+        "url": "https://open.spotify.com/album/4DmBExlFUISgPtR4rxz5ie"
+      },
+      "artists": [
+        {
+          "name": "The Binaural Monk",
+          "url": "https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B"
+        },
+        {
+          "name": "The Binaural Girl",
+          "url": "https://open.spotify.com/artist/1SZvf7oGMJwvncGXAFMWvs"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Conception - Alpha Sinus 115Hz - 122Hz",
+      "url": "https://open.spotify.com/track/0YZSPagJQcp2t1qlZZoFuW"
     },
     {
       "album": {

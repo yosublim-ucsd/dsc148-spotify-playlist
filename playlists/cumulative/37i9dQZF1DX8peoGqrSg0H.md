@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PiXXiE, bamm
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: NONT TANONT
 
-391 songs - 23 hr 29 min
+392 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [ข้างกัน \(City\)](https://open.spotify.com/track/2XDCs8vAubxRe8mO1A0eTa) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [feat\. ออม TELExTELEXs](https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ) | [ข้างกัน \(City\) \[feat\. ออม TELExTELEXs\]](https://open.spotify.com/album/61V9QCyJm3LPEUHrm84AIj) | 4:56 | 2022-05-26 | 2022-09-30 |
 | [คงคา](https://open.spotify.com/track/5umkeJySqBIhm2uYGjidMT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [คงคา](https://open.spotify.com/album/4pAuZ51mvoBeEIVSL1tI5n) | 4:17 | 2022-05-26 | 2022-08-26 |
 | [คงต้องบอกลาแล้ว](https://open.spotify.com/track/2EPMa8Jm1h5XRH4jwf8yK9) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [คงต้องบอกลาแล้ว](https://open.spotify.com/album/0tLEOYTiDJYMLam1orBK0B) | 4:30 | 2022-07-23 | 2022-07-29 |
-| [คนขี้อาย](https://open.spotify.com/track/1lFgYqokQDMsMbMef1prKh) | [DOM](https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL) | [คนขี้อาย](https://open.spotify.com/album/043jxqPXEmDEnHPH7HgO2y) | 3:04 | 2023-10-05 |  |
+| [คนขี้อาย](https://open.spotify.com/track/1lFgYqokQDMsMbMef1prKh) | [DOM](https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL) | [คนขี้อาย](https://open.spotify.com/album/043jxqPXEmDEnHPH7HgO2y) | 3:04 | 2023-10-05 | 2023-10-13 |
 | [คนคุย \(Call Me!\)](https://open.spotify.com/track/4GpMoL5ylwYGqgf7gjUVzd) | [BowImm](https://open.spotify.com/artist/7aISVZ8grtQxn3MQjCq3E0) | [คนคุย \(Call Me!\)](https://open.spotify.com/album/5SvjNQNdL3bzUtU6EDfGA5) | 3:23 | 2022-08-18 | 2022-08-26 |
 | [คนที่รักเธอมากกว่าฉัน คือฉันในวันพรุ่งนี้](https://open.spotify.com/track/0fvvyqCcC852NNvxYa0Yiq) | [Kaew Natruja](https://open.spotify.com/artist/3T6wkzov42KuhYFCqUnhL0) | [คนที่รักเธอมากกว่าฉัน คือฉันในวันพรุ่งนี้](https://open.spotify.com/album/7jarLJFZP27N4t7GpQ73DU) | 3:56 | 2022-12-01 | 2022-12-09 |
 | [คนฟังน่ารักจัง \(Song Of The You\)](https://open.spotify.com/track/6gwTcWiHGGR6l1FGMQY8Sd) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1), [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj), [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc), [LIT Artists](https://open.spotify.com/artist/5tP7vyON1ndNJMYFFaOiju) | [คนฟังน่ารักจัง \(Song Of The You\)](https://open.spotify.com/album/3wr631ScZnkq3jhc46CZmW) | 3:39 | 2023-08-10 | 2023-08-25 |
@@ -202,6 +202,7 @@
 | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [น่ารักน้อยลงหน่อย \(Cuteless\) \- Single](https://open.spotify.com/album/1iDsrhpGyZfAtoDXXgxhxE) | 3:45 | 2023-06-15 |  |
 | [น่ารักไม่ได้แปลว่ามีเจ้าของ \(Try Me\)](https://open.spotify.com/track/1I0XLODs2jOKlKd4z9ytYt) | [iWish](https://open.spotify.com/artist/6dlCDcr5JTHjzc1osXFaNH) | [น่ารักไม่ได้แปลว่ามีเจ้าของ \(Try Me\)](https://open.spotify.com/album/3JAiFB6tzLSOn7NEiHZZ9z) | 2:49 | 2022-09-29 | 2022-10-08 |
 | [น้อมรับคำทำนาย \- THE SUN](https://open.spotify.com/track/7yRaBXZzpWLAnW57MeVts5) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [น้อมรับคำทำนาย \(THE SUN\)](https://open.spotify.com/album/2GwiR97NrF1ZzADeuJpLHd) | 3:37 | 2022-11-19 |  |
+| [น้อยใจ](https://open.spotify.com/track/4SUjsrUM5F05F85ZdAZn2v) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [น้อยใจ](https://open.spotify.com/album/7w6pH6dWy5zIBNQBvvJ0Wm) | 3:52 | 2023-10-12 |  |
 | [บรรเทา \- PLASTER](https://open.spotify.com/track/5khymyREguDo1CVkvmkNbF) | [Porch Pathaseth](https://open.spotify.com/artist/4fsxA6EvDO4EElwerEM6Ve) | [บรรเทา \(PLASTER\)](https://open.spotify.com/album/3YvA19eCW4iFHuQhpMEMkt) | 3:43 | 2022-07-23 | 2022-07-29 |
 | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/track/0agwacC49QdfC2rZ6R6lBc) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [Copter](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/album/4fTuhlSm9xd48eyxz9nzEm) | 3:36 | 2022-07-28 | 2022-09-30 |
 | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/track/17UUTchNWTLOFsLUJnpIv8) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [Copter](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/album/1EMY6N5Ciaa5xHQPsyIJ8P) | 3:36 | 2022-05-26 | 2022-07-29 |

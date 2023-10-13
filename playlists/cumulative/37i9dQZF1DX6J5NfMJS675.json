@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2020-04-18",
   "description": "Welcome to the dark side of the club.",
-  "name": "Techno Bunker",
+  "name": "TECHNO BUNKER",
   "tracks": [
     {
       "album": {
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 247319,
       "name": "Come Closer",
       "url": "https://open.spotify.com/track/6WK7TJ53QPNZnpQBjToHBi"
@@ -3216,7 +3216,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 348444,
       "name": "Experience",
       "url": "https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn"
@@ -5769,6 +5769,28 @@
     },
     {
       "album": {
+        "name": "MAVI VE MOR EP",
+        "url": "https://open.spotify.com/album/48TQN7mfCiFDRR5y71jkL3"
+      },
+      "artists": [
+        {
+          "name": "Doruksen",
+          "url": "https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6"
+        },
+        {
+          "name": "Denis Dekay",
+          "url": "https://open.spotify.com/artist/3bJNAzLC9MAaAScBx7WSDh"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331354,
+      "name": "MAVI",
+      "url": "https://open.spotify.com/track/5WIskb28ahYuXWm7CwGQ59"
+    },
+    {
+      "album": {
         "name": "Maximizer",
         "url": "https://open.spotify.com/album/4MOHOd7vEezYYNn8mCaO4W"
       },
@@ -5944,7 +5966,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 377867,
       "name": "Metamorphosis - Marie Vaunt Remix",
       "url": "https://open.spotify.com/track/0bfeRvbX6Y7BU13QqeA7wf"
@@ -8885,6 +8907,24 @@
     },
     {
       "album": {
+        "name": "Techno Acid 303",
+        "url": "https://open.spotify.com/album/1qo26STwNIEujdeZ2S4IyG"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230142,
+      "name": "Techno Acid 303",
+      "url": "https://open.spotify.com/track/3I6rEbfsXuLUPeYehl0q1g"
+    },
+    {
+      "album": {
         "name": "Techno in Space (Edit)",
         "url": "https://open.spotify.com/album/43rmQaMRRUC7FO4NBQYWRA"
       },
@@ -10680,6 +10720,28 @@
       "duration_ms": 379781,
       "name": "Well Tempered",
       "url": "https://open.spotify.com/track/4kOe1LOGs79AiTgiKe8FfQ"
+    },
+    {
+      "album": {
+        "name": "When I Rock (A.D.H.S. Remix)",
+        "url": "https://open.spotify.com/album/3AUUUXLVRCj3nHbGHPT0ic"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        },
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259130,
+      "name": "When I Rock - A.D.H.S. Remix",
+      "url": "https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > Nuevo sonido, misma actitud.<br/>📷 Evlay
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,215 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,232 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 27 | [Merito Propio](https://open.spotify.com/track/6h4dbOFS5ofc1Bpl1sHwz5) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Merito Propio](https://open.spotify.com/album/5kQ7gbYGyfjU8Gq8mRc0CV) | 2:42 |
 | 28 | [Es Tiempo](https://open.spotify.com/track/47SFtWMILr2P82FGBjrnAB) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [¿Qué Hacemos Con Todo Este Dinero?](https://open.spotify.com/album/4WOB6QazFzRe1bDopMFfjX) | 4:17 |
 | 29 | [ANCESTRAL](https://open.spotify.com/track/5FCnN5oCrccvoaShwfanmU) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [NEO](https://open.spotify.com/album/3sfLvbXtGlQl9wVafzi55i) | 2:33 |
-| 30 | [Limpio y Suelto](https://open.spotify.com/track/0MbHB6J0fAroord0VamzkK) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx), [Roman YG](https://open.spotify.com/artist/1FZXkcxfsrrD0WTj9WMJFX) | [Hiperbórea](https://open.spotify.com/album/4jbjW5z9G3r2diahIwLT1G) | 4:30 |
+| 30 | [Limpio y Suelto](https://open.spotify.com/track/0MbHB6J0fAroord0VamzkK) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx), [ROMAN YOUGARETH](https://open.spotify.com/artist/1FZXkcxfsrrD0WTj9WMJFX) | [Hiperbórea](https://open.spotify.com/album/4jbjW5z9G3r2diahIwLT1G) | 4:30 |
 | 31 | [AMERRIKAN HORROR LOVE](https://open.spotify.com/track/1JkbNy4YSGVcP8JLtXCfgS) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [MIXTAPE DE VERANO](https://open.spotify.com/album/0PxeMQT4VFstgaEdpPjRqV) | 3:04 |
 | 32 | [Crisis](https://open.spotify.com/track/4OuHH9ENBgHBhDtINSFhPG) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Crisis](https://open.spotify.com/album/4CPJwXlJppxOlld9175oVA) | 2:46 |
 | 33 | [Barro](https://open.spotify.com/track/6ANUJ5BBbDmhjpMjzU8YIy) | [BARRO](https://open.spotify.com/artist/15eDgdb1lKrgc9DDtuLN41) | [Barro](https://open.spotify.com/album/2oUg7X1bWG4JfAkmuSDNMS) | 3:07 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 39 | [ES TIEMPO](https://open.spotify.com/track/2DCChX8EUuSAtlhdILQCos) | [Kid Munni](https://open.spotify.com/artist/2HBcNkdZk8JzGkqlc7RsIL), [Trashu](https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY), [Bullz](https://open.spotify.com/artist/7fakgBRUaUmAO91c9INRp1) | [ES TIEMPO](https://open.spotify.com/album/3bzOjrVIwXHqJR7jYGc6iC) | 2:29 |
 | 40 | [En Mi Nombre \(de la serie de Netflix ¨El Reino¨ Temporada 2\)](https://open.spotify.com/track/7s0DDMCJuIPryu0MclayW8) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [En Mi Nombre \(de la serie de Netflix ¨El Reino¨ Temporada 2\)](https://open.spotify.com/album/0IVBLdyYbDZnsoRrNhTBdQ) | 2:36 |
 
-Snapshot ID: `MCw4ZWU2OTUyY2YzODUwNzczYzIxNTVkZDYwMmY0ZGU3NTE1YzFiMDY2`
+Snapshot ID: `MCw3YzUyMmI1YjEzNTgwZGUwZDViYTI4NGMzMDJlNmI2YjgyOTQxOWMz`

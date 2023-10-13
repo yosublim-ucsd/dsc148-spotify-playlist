@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,789,917 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,786,987 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 58 | [Emily](https://open.spotify.com/track/6URtrmPQlWDbCy3Ke1VSNz) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Emily](https://open.spotify.com/album/5gyHraOxWm3iG92twv1HrL) | 1:39 |
 | 59 | [Yea Freestyle](https://open.spotify.com/track/1tNIrPGSAhs4wquxihb01G) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [No Socks 3](https://open.spotify.com/album/0TuZ9izuLgcVvN7dKyqRRb) | 3:06 |
 | 60 | [Do The Most](https://open.spotify.com/track/1yg9VKFZ4nAtylknE3lUHo) | [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [Do The Most](https://open.spotify.com/album/7umiUkssxpb76qm8AT8Uq0) | 3:12 |
-| 61 | [Wassup Gwayy](https://open.spotify.com/track/5CQ0tp4ZdSrzj2ev9yieVV) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gwayy](https://open.spotify.com/album/1RlJJaItCwvPI1qkIfsJax) | 2:24 |
+| 61 | [Wassup Gway](https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gway](https://open.spotify.com/album/0lBc6xsaXgtiFrcy103fEY) | 2:24 |
 | 62 | [NEED IT](https://open.spotify.com/track/6T1dDWfxHxjHkIIhKANk49) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [NEED IT](https://open.spotify.com/album/3awkjfYN3DbBh1F2LXUVCs) | 2:19 |
 | 63 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 |
 | 64 | [We Did It](https://open.spotify.com/track/5oPGSnMmza9IFsalYmY7dA) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE), [Big Homiie G](https://open.spotify.com/artist/3IG49Dhngr903hQWOFzmlh) | [We Did It](https://open.spotify.com/album/0c64YZh7wn0XUO4bFeJAdn) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [GOMD](https://open.spotify.com/track/1wabjSijwiHbAKhCiDlLEu) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2) | 2:51 |
 | 100 | [Gangsta Boogie](https://open.spotify.com/track/05pTIcFoJc2Sd5gULTUR1t) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Gangsta Boogie](https://open.spotify.com/album/0MVmaI88e3V5OdfQ29FeTi) | 3:54 |
 
-Snapshot ID: `MCw0NmRhNWM5YmFiOWI3N2YzY2FlODVhYmYyZGQ2YWY3NWRiMDEyODhl`
+Snapshot ID: `MCw5Mzk0ZGJjOTdhNDc2Njg0YTBlOWQxNzJiOTAyOGNkNjlmMDVjZDQz`

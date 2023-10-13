@@ -1,12 +1,12 @@
 {
   "description": "Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.",
-  "num_followers": 422872,
+  "num_followers": 422058,
   "original_name": "Rainy Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWEwYzNlNGNlMzBjYWU2ZmUxYmVjZjZlOWZmNmYyNzQ3ZWI4NDc0",
+  "snapshot_id": "MCw0OWEyYWUxOTAyM2YyY2I4ZjQ4NDE0ZDY1Njg3YTE0NWRkYjk3NGY3",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Stick Season (We'll All Be Here Forever)",
-        "url": "https://open.spotify.com/album/3aaVxygUPKEQMIpXPgAUrJ"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 207880,
-      "name": "Your Needs, My Needs",
-      "url": "https://open.spotify.com/track/43lHewwomOqpJ4ZVwLRfgr"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Seven Swans",
         "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 152480,
       "name": "The Dress Looks Nice on You",
       "url": "https://open.spotify.com/track/74DrpM6tAWvcMu6Uxko9xb"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Stick Season (We'll All Be Here Forever)",
+        "url": "https://open.spotify.com/album/3aaVxygUPKEQMIpXPgAUrJ"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 207880,
+      "name": "Your Needs, My Needs",
+      "url": "https://open.spotify.com/track/43lHewwomOqpJ4ZVwLRfgr"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "If This Is The End",
-        "url": "https://open.spotify.com/album/0PnDs1aZvcco3PihWmrQ9n"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 362786,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/1uMazr2OwFSC4SHqfkoY7h"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Theatrics",
         "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "If This Is The End",
+        "url": "https://open.spotify.com/album/0PnDs1aZvcco3PihWmrQ9n"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 362786,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1uMazr2OwFSC4SHqfkoY7h"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Sketches for My Sweetheart The Drunk (Expanded Edition)",
         "url": "https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "The Wind Rose EP",
-        "url": "https://open.spotify.com/album/282IyhL4hVih0WwLOwrvtl"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 254897,
-      "name": "The Lily",
-      "url": "https://open.spotify.com/track/6clgEkDsjM0QGLRPH7GAwx"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "In Darkened Rooms",
         "url": "https://open.spotify.com/album/0FBUrWKF7V022FRI1RkfW7"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 322680,
       "name": "Stars",
       "url": "https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "The Wind Rose EP",
+        "url": "https://open.spotify.com/album/282IyhL4hVih0WwLOwrvtl"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 254897,
+      "name": "The Lily",
+      "url": "https://open.spotify.com/track/6clgEkDsjM0QGLRPH7GAwx"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "bl\u00f3mi",
+        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
+      },
+      "artists": [
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "duration_ms": 263880,
+      "name": "fare thee well",
+      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Dreaming (Mahogany Sessions)",
         "url": "https://open.spotify.com/album/3r9bDmZ0W3CROXfLusAymH"
       },
@@ -911,22 +927,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "bl\u00f3mi",
-        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
-      },
-      "artists": [
-        {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        }
-      ],
-      "duration_ms": 263880,
-      "name": "fare thee well",
-      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "At Swim",
         "url": "https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 179826,
       "name": "Fall",
       "url": "https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Mending Song",
-        "url": "https://open.spotify.com/album/0cETfActVxeesqjmLW1Wwn"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Mending Song",
-      "url": "https://open.spotify.com/track/0YxQPmvo2NupJHW8QHEDNL"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -987,6 +971,22 @@
       "duration_ms": 205402,
       "name": "Caught in the Strange",
       "url": "https://open.spotify.com/track/67SFgwRk1tnYDIIB10j78g"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Mending Song",
+        "url": "https://open.spotify.com/album/0cETfActVxeesqjmLW1Wwn"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Mending Song",
+      "url": "https://open.spotify.com/track/0YxQPmvo2NupJHW8QHEDNL"
     },
     {
       "added_at": "2023-09-08 04:00:00",

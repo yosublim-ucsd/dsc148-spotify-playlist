@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Bo9al
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,488 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,238 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 12 | [La Tete](https://open.spotify.com/track/5XXOa4ih4ELmoeY5G48Axk) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 2:57 |
 | 13 | [R.I.P](https://open.spotify.com/track/4dUiCEFw6hzX1EIHeN0x8J) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 3:19 |
 | 14 | [SAM3 AKHINA](https://open.spotify.com/track/55mj9EYItGVGjrvyiY9rlw) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [ZAZA ELWASEEM](https://open.spotify.com/album/4gYfyZHNfpZdI4ebAybyUD) | 2:08 |
-| 15 | [Askot Khales](https://open.spotify.com/track/2zdUvdGC4hwlYC1WjaFKCr) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Belad](https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV) | 2:50 |
+| 15 | [TA TA TA](https://open.spotify.com/track/0RH75zMCXxmyxqiz8CymsO) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [TA TA TA](https://open.spotify.com/album/1FJ28AVA8iFQuwtAQWOwGP) | 2:39 |
 | 16 | [JOUJ MIZAN](https://open.spotify.com/track/0J4y5Eq182zXfVERO8fqTD) | [HKZ Production](https://open.spotify.com/artist/6JDjrFsoGyhwiTI36dFra6), [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5), [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [JOUJ MIZAN](https://open.spotify.com/album/4GYRFzg6eT9WcyAkegwmdp) | 3:15 |
 | 17 | [ZOK](https://open.spotify.com/track/3loxaMcGfCeycbksSzhShU) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZOK](https://open.spotify.com/album/0OcUHEVDLg623PN70lnoxb) | 3:03 |
 | 18 | [RO7 3ALATOL](https://open.spotify.com/track/7t2VGVXc2VxGB062e36uQy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:37 |
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 29 | [6G](https://open.spotify.com/track/5cDw3Icnxb1hB5XGBRzKer) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [6G](https://open.spotify.com/album/6myOlMXXWjwlOrz7xugqnj) | 2:56 |
 | 30 | [SOMNIFERE](https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [I HATE SUMMER](https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt) | 3:08 |
 | 31 | [De Bruyne](https://open.spotify.com/track/3wiwZ6TDdSVVg5p19bdrZL) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [De Bruyne](https://open.spotify.com/album/38JMcDUUN2H2oo2eeiOvIT) | 2:29 |
-| 32 | [Lamouni](https://open.spotify.com/track/3VjyVm2EOI3bKXmA9BRz7i) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [Lamouni](https://open.spotify.com/album/67GW8ttYMQksrL6ER2Ovaf) | 3:22 |
-| 33 | [TA TA TA](https://open.spotify.com/track/0RH75zMCXxmyxqiz8CymsO) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [TA TA TA](https://open.spotify.com/album/1FJ28AVA8iFQuwtAQWOwGP) | 2:39 |
-| 34 | [Alatif](https://open.spotify.com/track/5EziL9bwKacAPWAQSkl8Wh) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alatif](https://open.spotify.com/album/12PmJ95M7wML8ievJRi0zx) | 3:16 |
+| 32 | [Alatif](https://open.spotify.com/track/5EziL9bwKacAPWAQSkl8Wh) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alatif](https://open.spotify.com/album/12PmJ95M7wML8ievJRi0zx) | 3:16 |
+| 33 | [Askot Khales](https://open.spotify.com/track/2zdUvdGC4hwlYC1WjaFKCr) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Belad](https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV) | 2:50 |
+| 34 | [Lamouni](https://open.spotify.com/track/3VjyVm2EOI3bKXmA9BRz7i) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [Lamouni](https://open.spotify.com/album/67GW8ttYMQksrL6ER2Ovaf) | 3:22 |
 | 35 | [Gezira](https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Gezira](https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk) | 3:13 |
 | 36 | [SAME3 EL HAKY](https://open.spotify.com/track/4TsCqhS1FsmVTXrNzjykbr) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Lorenzoo](https://open.spotify.com/artist/2xKNNvun5ikWnywLrU5Gr7) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:14 |
 | 37 | [ROCKSTAR](https://open.spotify.com/track/6cjGkkdBNvkcFeKk1TQ1jd) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 3:22 |
 | 38 | [Talkie](https://open.spotify.com/track/0HZIFkazJb3MzdJ2G7FSIB) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Talkie](https://open.spotify.com/album/3pBrKbB4kPkqRfut3NY44Z) | 3:29 |
 | 39 | [LILA](https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [LILA](https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx) | 2:44 |
 | 40 | [Saye2 Souq](https://open.spotify.com/track/3qtXvNZ8bNIRfN6aYamUor) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:14 |
-| 41 | [Leh Nehzar](https://open.spotify.com/track/0vE3QsIZEyespCVUntPOa9) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Leila](https://open.spotify.com/album/0apSvBI2Dw5KWkIKdBPFSJ) | 2:28 |
-| 42 | [KALBI](https://open.spotify.com/track/5hUJkjeGR4CCyMmMLt9iLx) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95) | [KALBI](https://open.spotify.com/album/52C44WKKnzqgzbnTb5J5pt) | 2:45 |
+| 41 | [KALBI](https://open.spotify.com/track/5hUJkjeGR4CCyMmMLt9iLx) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95) | [KALBI](https://open.spotify.com/album/52C44WKKnzqgzbnTb5J5pt) | 2:45 |
+| 42 | [Leh Nehzar](https://open.spotify.com/track/0vE3QsIZEyespCVUntPOa9) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Leila](https://open.spotify.com/album/0apSvBI2Dw5KWkIKdBPFSJ) | 2:28 |
 | 43 | [7abayby](https://open.spotify.com/track/7dc5rPTGzN3WUXO717YWFc) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Mostt](https://open.spotify.com/artist/4xCFJxipdDrobk0MtuV84B) | [7abayby](https://open.spotify.com/album/6j2XnIRR7YziaIoKRURo7x) | 2:36 |
-| 44 | [Helma](https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Helma](https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx) | 2:43 |
+| 44 | [Bader Khol3a](https://open.spotify.com/track/2O4fl7UvPHbledhgyHjTio) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Bader Khol3a](https://open.spotify.com/album/5XhXrx2BTXQqIndy969kez) | 2:12 |
 | 45 | [AFROTO TYPE BEAT](https://open.spotify.com/track/2wkzNBwQFb6jQPnX8LFaU8) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 2:37 |
-| 46 | [Bader Khol3a](https://open.spotify.com/track/2O4fl7UvPHbledhgyHjTio) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Bader Khol3a](https://open.spotify.com/album/5XhXrx2BTXQqIndy969kez) | 2:12 |
+| 46 | [Helma](https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Helma](https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx) | 2:43 |
 | 47 | [EL\-NEGM EL\-SAHELY](https://open.spotify.com/track/6kjHh3y3KItPG6fXLhxHW7) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [EL\-NEGM EL\-SAHELY](https://open.spotify.com/album/5fH5chAIaWvNR7rs1ExVyK) | 2:13 |
 | 48 | [7ABBA \(BONUS\)](https://open.spotify.com/track/41VVamZ33DPHpMKv7CoJM8) | [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD), [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [ZEKRAYAT ELMOSTABAL](https://open.spotify.com/album/61Ojlc71E1GLoE36DmzgdR) | 2:05 |
 | 49 | [Kda Msh Bees](https://open.spotify.com/track/3f1AUIx5LZoS3afGcSOJNl) | [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [Kda Msh Bees](https://open.spotify.com/album/5WKuQfB4NZXZWKeCQ1Uk9L) | 2:36 |
 | 50 | [Dabbaba](https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Dabbaba](https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv) | 2:09 |
 
-Snapshot ID: `MCxlNmU4OWY1MmM2MGRmNjExNzFhOTM4YWJjMjQ3NTY4YTFmYTNjNDBl`
+Snapshot ID: `MCw2ODc1MDQ4N2Q0MGUyMjNlZjBiOTNkZTJiZWQ1NTI0NGZiMzQyYmE5`

@@ -4,7 +4,7 @@
 
 > FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
-142 songs - 8 hr 0 min
+143 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Keep It Together](https://open.spotify.com/track/3kyL3FdLJvCIS9HIf1pPHj) | [Pip Blom](https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr) | [Keep It Together](https://open.spotify.com/album/4KDaXA0zbILlJO62i07plQ) | 3:16 | 2023-03-02 | 2023-04-05 |
 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 | 2023-02-23 | 2023-06-10 |
 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 | 2023-03-02 |  |
-| [Landscape](https://open.spotify.com/track/3mhmsgWbnEex2qBUZEUnCK) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc) | [Landscape](https://open.spotify.com/album/3Wzgh6znehuaK9Yu2IdZ6s) | 2:40 | 2023-06-21 |  |
+| [Landscape](https://open.spotify.com/track/3DJGNgVK7g18EgpyKvy5T9) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc) | [The Art Of Change](https://open.spotify.com/album/2w5ieF6SZV9flk1gkOgzdK) | 2:40 | 2023-10-02 |  |
+| [Landscape](https://open.spotify.com/track/3mhmsgWbnEex2qBUZEUnCK) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc) | [Landscape](https://open.spotify.com/album/3Wzgh6znehuaK9Yu2IdZ6s) | 2:40 | 2023-06-21 | 2023-10-13 |
 | [Leave Now](https://open.spotify.com/track/4SeLaRsfneY69BJH19G5IL) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Leave Now](https://open.spotify.com/album/67zrW9POiw6xEnzDae83QQ) | 3:47 | 2023-02-23 |  |
 | [Linger On \- Roosevelt Remix Edit](https://open.spotify.com/track/7H1ANIC9UvF8pllkQq9w6t) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Linger On \(Roosevelt Remix\)](https://open.spotify.com/album/3u8Mqoh9aU1a3OyhcjdYpA) | 4:15 | 2023-02-23 | 2023-04-14 |
 | [Live It Up](https://open.spotify.com/track/3EuQ0cCmo81wMxM2wTn5Yh) | [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Always In My Head](https://open.spotify.com/album/5yNSrDrLVydHp5WjKAkKju) | 3:18 | 2023-02-23 | 2023-04-05 |

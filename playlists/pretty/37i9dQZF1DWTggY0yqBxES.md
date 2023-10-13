@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: TOBi
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,940 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,984 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 16 | [CRUEL WORLD](https://open.spotify.com/track/4j5vI66Qz7HU9jumYqggzX) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [CRUEL WORLD](https://open.spotify.com/album/3WKwtwwX4Vxd5bh4TjLFeC) | 2:27 |
 | 17 | [DARKSIDE](https://open.spotify.com/track/2Gpra5OwSBeTQ8vZcTs1Pw) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [6](https://open.spotify.com/album/5Tj31Y3qUvAFFamwQS6ZeO) | 3:25 |
 | 18 | [Hit & Run](https://open.spotify.com/track/4Cl0ism4qfwNTtDbk8K6qm) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [internetboy](https://open.spotify.com/artist/0ZJw6xiDo3vtQXMZpDg3fW) | ['Decent](https://open.spotify.com/album/1WoPO9sVvJXy0MktOhBiIU) | 4:21 |
-| 19 | [BKNY \(feat\. Mr\. Muthafuckin' eXquire, Melo\-X, and GLDNEYE\) \- Remix \- Redux](https://open.spotify.com/track/5I0GdDY99hHYEDU5kjmEC5) | [Fat Tony](https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26), [Mr\. Muthafuckin' eXquire](https://open.spotify.com/artist/1Sq6VkcHqHAuFvURbH3sXQ), [Melo X](https://open.spotify.com/artist/4kgtyoO8ehnGHyDUyEIWYy), [GLDNEYE](https://open.spotify.com/artist/6OzEp7FvO7HIfvuFVtDHC7) | [BKNY \(feat\. Mr\. Muthafuckin' eXquire, Melo\-X, and GLDNEYE\) \[Remix \- Redux\]](https://open.spotify.com/album/4JYR9pl6cMeJOIOnWq63Dd) | 3:53 |
+| 19 | [BKNY \(feat\. Mr\. Muthafuckin' eXquire, Melo\-X, and GLDNEYE\) \- Remix \- Redux](https://open.spotify.com/track/5I0GdDY99hHYEDU5kjmEC5) | [Fat Tony](https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26), [Mr\. Muthafuckin' eXquire](https://open.spotify.com/artist/1Sq6VkcHqHAuFvURbH3sXQ), [Melo\-X](https://open.spotify.com/artist/6AxHPycFTjxDROqK1pzsAE), [GLDNEYE](https://open.spotify.com/artist/6OzEp7FvO7HIfvuFVtDHC7) | [BKNY \(feat\. Mr\. Muthafuckin' eXquire, Melo\-X, and GLDNEYE\) \[Remix \- Redux\]](https://open.spotify.com/album/4JYR9pl6cMeJOIOnWq63Dd) | 3:53 |
 | 20 | [MESSY](https://open.spotify.com/track/2K6f0hncJdVzA9eK76JIxN) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THE RUSH](https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD) | 2:31 |
 | 21 | [97](https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:57 |
 | 22 | [SKED \[Feat\. Kenny Mason\]](https://open.spotify.com/track/57WwGbbzcKCG4tF4LdJjU5) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [SKED \[feat\. Kenny Mason\]](https://open.spotify.com/album/5aQJMDgrFgssrR5xS4p5MX) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [PRESIDENT](https://open.spotify.com/track/71HfqaGQGQ8ERPphZQ53AJ) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [PRESIDENT](https://open.spotify.com/album/1UGft9d5GndWYADJP7979x) | 2:20 |
 | 100 | [cracked screen](https://open.spotify.com/track/74iw3OCAb3it0SjOVw4Dnq) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [cracked screen](https://open.spotify.com/album/5JzrI4ObDjPuTLfD84VmAm) | 3:32 |
 
-Snapshot ID: `MCwxMjQxZGM3MzdhZWY1NDkyZmUzZGVmMGY3M2E2MzQxODExYzNmNDQ4`
+Snapshot ID: `MCwyMzBhNTljNzRiYWQxZDliZjYzNWMzMWI0ODNhYzg1MTNmZWFlYTA2`

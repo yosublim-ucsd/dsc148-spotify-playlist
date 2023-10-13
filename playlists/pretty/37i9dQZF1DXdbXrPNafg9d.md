@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Mac DeMarco & Ryan Paris
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,284,459 likes - 160 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,280,874 likes - 160 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 26 | [Honey \(I Hope, You Understand\)](https://open.spotify.com/track/3mk3oJaBqlHnDGJJ7hOG91) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Honey \(I Hope, You Understand\)](https://open.spotify.com/album/4aSxjNrJrf8ayjpml0dgF0) | 3:21 |
 | 27 | [Chariot](https://open.spotify.com/track/7LZzQ0dCbyVtiLDFhySTnY) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Chariot](https://open.spotify.com/album/1k5Pt1vC16pTzNO1w4si7U) | 3:35 |
 | 28 | [Silver Girl](https://open.spotify.com/track/4ZbwKnGwcgufvQ74Le0RGu) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Silver Girl](https://open.spotify.com/album/7jRY6EP1tBPyLO1zs14Gmq) | 2:23 |
-| 29 | [So Free So Lonely](https://open.spotify.com/track/4q7ElQxJQFArqpl8Kw7Zrm) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [So Free So Lonely](https://open.spotify.com/album/3N4GBkPn1MmjSQcjeJOHFJ) | 3:12 |
+| 29 | [So Free So Lonely](https://open.spotify.com/track/3zbnvBAEG5PSeACvYaafMU) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [So Free So Lonely](https://open.spotify.com/album/4ucJg25t2uOgZ2GC3fm8XZ) | 3:12 |
 | 30 | [If The Car Crashed](https://open.spotify.com/track/2zsthaGOn1HFt19XbB7kuh) | [Beforefrances](https://open.spotify.com/artist/0Sx1GmPY18HuO1ZrzyCnVj) | [If The Car Crashed](https://open.spotify.com/album/5cyLCldH7vZb9z5YYDq8Rz) | 3:23 |
 | 31 | [Tuesday](https://open.spotify.com/track/19Ta3GtCyDQHhFXMS0vUZj) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Tuesday](https://open.spotify.com/album/3uzaEWHPjutN7RP2WjLiXf) | 4:59 |
-| 32 | [INFATUATION](https://open.spotify.com/track/3utAfd1gVKucJ8u9fABRaI) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [INFATUATION](https://open.spotify.com/album/40UdPGBdQ0C2Yv26AkAJNe) | 2:02 |
+| 32 | [INFATUATION](https://open.spotify.com/track/01ohSXFsSpf2tv0obiygSQ) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [INFATUATION](https://open.spotify.com/album/1F0Rb7AUH5yMbLtIEdiNeL) | 2:02 |
 | 33 | [Cleo](https://open.spotify.com/track/4GoyFC5pPMyuP8jAm4MZBD) | [Yasmin Hass](https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC) | [Cleo](https://open.spotify.com/album/4FAxvxyEV5QwhAkXK3doU0) | 3:36 |
 | 34 | [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 |
 | 35 | [I Love You So](https://open.spotify.com/track/4Cg8SLfX4tCJDNEP4dUFsj) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue) | [I Love You So](https://open.spotify.com/album/4knp03MK0LfunYzjA3FvYn) | 3:30 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 159 | [forest green](https://open.spotify.com/track/4ARqMW0NJQpNtqnYHAgbjO) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [forest green](https://open.spotify.com/album/10avrb3XzKDttFJte6w2gR) | 3:27 |
 | 160 | [So You Are Tired](https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:49 |
 
-Snapshot ID: `MCw1NDA4NjU3NzBhODc3NjUzMDZjODJmZmIwZDI3OTAxMDFiOGIxOWU4`
+Snapshot ID: `MCwyMDk5OTcyZWY3NTgxMmU2MGJlMjMzZDM1NzllM2VkOWJmOTkxZjgx`

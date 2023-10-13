@@ -4,7 +4,7 @@
 
 > Relax and unwind to the soothing hum of the electric fan.
 
-243 songs - 11 hr 24 min
+245 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Dark Room And Table Fan \(LP 3.8khz\)](https://open.spotify.com/track/7dzDAuMHoGJe3hoKfzEtEZ) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Fan Sounds Vol\. 1](https://open.spotify.com/album/0YEkPZ64ji8bJpu2ceIQce) | 2:47 | 2023-02-23 |  |
 | [Data Center Fan Ambience](https://open.spotify.com/track/09Kd1HMedRxpiva06Wi1F2) | [Noise Recorder](https://open.spotify.com/artist/4dP7FaHEym6UneIfaZhlSf) | [Workplace Fans](https://open.spotify.com/album/4DHcdRMpDZvWhHWE03Iicq) | 2:31 | 2022-11-14 |  |
 | [Deep Fan \(Filtered 2.6khz\)](https://open.spotify.com/track/44u6XnWByFqGqHLXVuMc9b) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Fan Noise](https://open.spotify.com/album/6xbIBXN9DVYNaqAYk1tCMH) | 2:39 | 2023-02-23 | 2023-07-07 |
+| [Deep Fan Noise](https://open.spotify.com/track/6ial0i324STPhggnmVSn3q) | [Noise Station](https://open.spotify.com/artist/2NfMg903Rbr8UdXbjyGplm) | [Deep Fan Noise](https://open.spotify.com/album/2fNSjppZXYxTjCkRHuPhyE) | 2:32 | 2023-10-12 |  |
 | [Dehumidifier Pink Noise](https://open.spotify.com/track/5wINlGlaDE9lm9f74LLXro) | [Ljudith](https://open.spotify.com/artist/5DihhCZUInKqFLe3K00DLP) | [Air Conditioner Pink Noise](https://open.spotify.com/album/4BWmnO3nQ712fnEmBhdsFA) | 3:47 | 2022-12-20 |  |
 | [Desk Fan \- Loopable With No Fade](https://open.spotify.com/track/6TCuOBuCpf2eolEjf4qUVv) | [123 Sleep](https://open.spotify.com/artist/5p2DzA0n3Ewwr3iDTVKtx5) | [Noise for Sleep \(Loopable With No Fade\)](https://open.spotify.com/album/0GfZxXKuZBiBcdmZ0hDbHx) | 0:59 | 2022-07-29 | 2022-12-08 |
 | [Din of Desktop Computer](https://open.spotify.com/track/5R9nmLtAi5ZVRigA3739zH) | [Mind Tickle](https://open.spotify.com/artist/3G4BQXIQ09Rb0JWFtjoDzk) | [ASMR House](https://open.spotify.com/album/7mVRi3wpR3vNesav7ziSzi) | 4:23 | 2022-07-29 |  |
@@ -218,6 +219,7 @@
 | [Soothing Box Fan for Sleep](https://open.spotify.com/track/6qURDzirLSBLoURUafSZCM) | [Emotional Support Fan](https://open.spotify.com/artist/6MmL3GAvpQHHIKryoi4eIf) | [Calm Restful Box Fan Sounds](https://open.spotify.com/album/5PnBXTlS3RMT2Ynjq6i4iC) | 3:48 | 2023-08-14 |  |
 | [Soothing Breeze](https://open.spotify.com/track/6jqdXdM6N8c2lbZ0B5kJ4C) | [Kali Sounds](https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c) | [Winds Of Sleep](https://open.spotify.com/album/20XsGyU1IpxYxCrdpycVq6) | 1:45 | 2022-08-26 | 2023-06-23 |
 | [Soothing Breeze](https://open.spotify.com/track/6vwiUroQYreMhtdkCokCtF) | [Synthetic Architect](https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5) | [Soothing Breeze](https://open.spotify.com/album/086kiBNrgLRYP7jh0WNBBO) | 3:00 | 2023-05-05 |  |
+| [Soothing Dream Fan](https://open.spotify.com/track/3eLAiLEczQ9fxsEUkOQUgU) | [WOS Project](https://open.spotify.com/artist/4R7xSJpwf9IsrGzUYNpyz0) | [Soothing Dream Fan](https://open.spotify.com/album/1kd4XfTbYocpowu4nclzu2) | 2:43 | 2023-10-12 |  |
 | [Soothing Fan](https://open.spotify.com/track/5HQ4kVXRn4UyPwc3NxgwDj) | [Home Sounds](https://open.spotify.com/artist/7wYCOLJRTwlaS5jgf9rCiI) | [Calming Fan Sounds](https://open.spotify.com/album/4n6bgMp0fNv2qfqeW6W3lL) | 2:48 | 2023-02-23 |  |
 | [Soothing Flowing Air Sounds](https://open.spotify.com/track/60isuZHIb24zg1QKPg2NNw) | [ASMR HOME](https://open.spotify.com/artist/5egbo4BefQDLFi0EvqDJyM) | [Bedroom Sleep Sounds](https://open.spotify.com/album/3ZdoATG0kV02f3EHvob9Cd) | 2:20 | 2023-03-23 |  |
 | [Soothing Panning Box Fan \- Seamless](https://open.spotify.com/track/2Jef9t38xnPQ2sH8AGM0HY) | [ASMR Doze](https://open.spotify.com/artist/2LQxmUm6LgVqKlTWuiFp2D) | [Fan Hypnosis](https://open.spotify.com/album/4O3JywlUAKSETN8w8CrcJf) | 1:42 | 2022-07-29 | 2023-06-23 |

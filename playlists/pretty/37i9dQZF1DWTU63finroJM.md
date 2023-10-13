@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,470 likes - 129 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,531 likes - 129 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 128 | [Amore&casino](https://open.spotify.com/track/4cz1tnar27zWx8H56ASrd6) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Amore&casino](https://open.spotify.com/album/3sNEQxM6ZYqeEScouZ1733) | 2:41 |
 | 129 | [台北宵夜指南](https://open.spotify.com/track/0eLiTFv7m8O6ScxJVQZyCR) | [胡家誠](https://open.spotify.com/artist/200pQawht4r55tBNrWTVpx) | [台北宵夜指南](https://open.spotify.com/album/0g6Hzc1A6nAOAloMQtUDPn) | 3:44 |
 
-Snapshot ID: `MCw3ZDdlNjE5YWUwODAxNmZjNzgyYTU4NGFhNzAzMzRmMTM1YWE2MzNm`
+Snapshot ID: `MCxhMTZhYTY4NWFhOTA4ODQ2NDA3NTUxNDRlYTY5MDExMWE3YjcwZDgy`

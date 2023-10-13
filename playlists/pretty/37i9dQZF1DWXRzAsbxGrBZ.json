@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 30787,
+  "num_followers": 30861,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2YyNmJjNDQ0OGJiY2ZlN2E1ZTljYzJiMGMwNGFhN2QwNjdhMTZh",
+  "snapshot_id": "MCxiNmM1M2U3YTNjZWZjMGVkNjI5NjA3ZTlkZGFhYzg3YmI2ZWM1MmQ2",
   "tracks": [
     {
       "added_at": "2023-10-05 23:00:00",
@@ -359,6 +359,30 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
+        "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
+        "url": "https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6"
+      },
+      "artists": [
+        {
+          "name": "Sitha",
+          "url": "https://open.spotify.com/artist/44t9AevT07GOmWQ3cplcfM"
+        },
+        {
+          "name": "BlaQ Afro-Kay",
+          "url": "https://open.spotify.com/artist/5FMpvRvyyk5EUo26xIJ80E"
+        },
+        {
+          "name": "Laps Rsa",
+          "url": "https://open.spotify.com/artist/46RRPn997jjhnUkheJxOXQ"
+        }
+      ],
+      "duration_ms": 400103,
+      "name": "Winter Nights - BlaQ Afro-Kay Remix",
+      "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
         "name": "Never Thought",
         "url": "https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj"
       },
@@ -383,30 +407,6 @@
       "duration_ms": 284284,
       "name": "Never Thought",
       "url": "https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
-        "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
-        "url": "https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6"
-      },
-      "artists": [
-        {
-          "name": "Sitha",
-          "url": "https://open.spotify.com/artist/44t9AevT07GOmWQ3cplcfM"
-        },
-        {
-          "name": "BlaQ Afro-Kay",
-          "url": "https://open.spotify.com/artist/5FMpvRvyyk5EUo26xIJ80E"
-        },
-        {
-          "name": "Laps Rsa",
-          "url": "https://open.spotify.com/artist/46RRPn997jjhnUkheJxOXQ"
-        }
-      ],
-      "duration_ms": 400103,
-      "name": "Winter Nights - BlaQ Afro-Kay Remix",
-      "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
     },
     {
       "added_at": "2023-10-05 23:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "We Gonna Fight For Music",
-        "url": "https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb"
-      },
-      "artists": [
-        {
-          "name": "Echo Deep",
-          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
-        }
-      ],
-      "duration_ms": 521744,
-      "name": "We Gonna Fight For Music",
-      "url": "https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
         "name": "OVGSREPUBLIC",
         "url": "https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "Old but New Last Episode",
-        "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
+        "name": "We Gonna Fight For Music",
+        "url": "https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb"
       },
       "artists": [
         {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
         }
       ],
-      "duration_ms": 412264,
-      "name": "Sunday Showers",
-      "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
+      "duration_ms": 521744,
+      "name": "We Gonna Fight For Music",
+      "url": "https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp"
     },
     {
       "added_at": "2023-10-05 23:00:00",
@@ -687,6 +671,22 @@
       "duration_ms": 459731,
       "name": "Flute Activation - Original Mix",
       "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "Old but New Last Episode",
+        "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 412264,
+      "name": "Sunday Showers",
+      "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
     },
     {
       "added_at": "2023-10-05 23:00:00",

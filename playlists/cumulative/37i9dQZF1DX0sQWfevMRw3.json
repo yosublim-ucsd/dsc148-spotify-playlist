@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 128772,
       "name": "5 SHOTS",
       "url": "https://open.spotify.com/track/5CqyzTnsaP20NBBiDZZe5H"
@@ -2069,6 +2069,28 @@
     },
     {
       "album": {
+        "name": "COUNTRYBRUD",
+        "url": "https://open.spotify.com/album/1aaIw45Ljv2FBprjgbJGj8"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        },
+        {
+          "name": "Woodie",
+          "url": "https://open.spotify.com/artist/0qrmko0TC9xE41TtCejiTx"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139535,
+      "name": "COUNTRYBRUD",
+      "url": "https://open.spotify.com/track/6xCbc6HKvpbuVA3qezMXFs"
+    },
+    {
+      "album": {
         "name": "Crystallise",
         "url": "https://open.spotify.com/album/11faQiUnyNFKWJYpj1HXsK"
       },
@@ -2214,6 +2236,28 @@
       "duration_ms": 147808,
       "name": "DANSA UTAN DIG",
       "url": "https://open.spotify.com/track/01I13TY1pgfk7ZhkFsuKbz"
+    },
+    {
+      "album": {
+        "name": "DANSAR ALDRIG NYKTER",
+        "url": "https://open.spotify.com/album/0W4QW4TQvbRM8GWCCttuC8"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148474,
+      "name": "DANSAR ALDRIG NYKTER",
+      "url": "https://open.spotify.com/track/1JgM35QWMB4P8ZfhSBSgXx"
     },
     {
       "album": {
@@ -3922,7 +3966,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 152800,
       "name": "Ett Glas Till",
       "url": "https://open.spotify.com/track/2NHCEvEBgLaqvJZPIMLzVd"
@@ -4440,7 +4484,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 148443,
       "name": "Fest hos Mange",
       "url": "https://open.spotify.com/track/5UeW7pLJSQMZbfs6jkQFNm"
@@ -4462,6 +4506,28 @@
       "duration_ms": 127629,
       "name": "FESTA HELA NATTEN",
       "url": "https://open.spotify.com/track/5t7HXhpi1baZ0XRfuZqICh"
+    },
+    {
+      "album": {
+        "name": "FESTEN \u00c4R IG\u00c5NG",
+        "url": "https://open.spotify.com/album/2TCA38yZ4FyRDqCauhjazn"
+      },
+      "artists": [
+        {
+          "name": "BR0D3R",
+          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
+        },
+        {
+          "name": "PARTYMAN",
+          "url": "https://open.spotify.com/artist/5P1br9cvxUPoqDchFZkGza"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "FESTEN \u00c4R IG\u00c5NG",
+      "url": "https://open.spotify.com/track/5KADWZk28lS4628D2Y545s"
     },
     {
       "album": {
@@ -4574,6 +4640,24 @@
       "duration_ms": 209373,
       "name": "Flaggan i topp - Sveriges Officiella EM-l\u00e5t 2021",
       "url": "https://open.spotify.com/track/7w2sCUWVAop5sTmikAdhCD"
+    },
+    {
+      "album": {
+        "name": "FLICKORNA SOM BUSAR",
+        "url": "https://open.spotify.com/album/6DZRSld6n6JMb2ebNEFES0"
+      },
+      "artists": [
+        {
+          "name": "TRIPPEL TRUBBEL",
+          "url": "https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133768,
+      "name": "FLICKORNA SOM BUSAR",
+      "url": "https://open.spotify.com/track/2XuHrava3lXFaUVMIj95Jk"
     },
     {
       "album": {
@@ -5195,6 +5279,28 @@
     },
     {
       "album": {
+        "name": "Fyll & Faenskap",
+        "url": "https://open.spotify.com/album/4fOwJRo15Uc22mks6PsxVE"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Sofie Svensson & Dom D\u00e4r",
+          "url": "https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175075,
+      "name": "Fyll & Faenskap",
+      "url": "https://open.spotify.com/track/3r0aM0M0toxEPbkYtXhNAZ"
+    },
+    {
+      "album": {
         "name": "FYLLA I BILEN",
         "url": "https://open.spotify.com/album/14iyUj5zQt8LzWeaiplfB5"
       },
@@ -5658,7 +5764,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 188374,
       "name": "GERT MUSEXPERT",
       "url": "https://open.spotify.com/track/6enFnXmwBiqrLgkFauh5ZY"
@@ -7462,7 +7568,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 130860,
       "name": "INGA UNDANFLYKTER",
       "url": "https://open.spotify.com/track/0Ga0pkNXfnTkVG56C9j3Ql"
@@ -10176,7 +10282,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 171600,
       "name": "NEJ, S\u00c5 TJOCK DU HAR BLITT",
       "url": "https://open.spotify.com/track/0UtJ4NuMDn1pDYYzcu0ghU"
@@ -10238,6 +10344,24 @@
       "duration_ms": 159088,
       "name": "No Super League",
       "url": "https://open.spotify.com/track/0IrS6f8lDKMEcwOf2FcCHQ"
+    },
+    {
+      "album": {
+        "name": "NON STOP ALKOHOL",
+        "url": "https://open.spotify.com/album/5t3EtJgiYIde1IgreHPoEU"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114461,
+      "name": "NON STOP ALKOHOL",
+      "url": "https://open.spotify.com/track/09HjIqsEjYcNXhxe0X3Hm6"
     },
     {
       "album": {
@@ -10542,6 +10666,32 @@
       "duration_ms": 133333,
       "name": "N\u00c4STA FAS",
       "url": "https://open.spotify.com/track/3apm63y7bK4rcXUQjWI3Ab"
+    },
+    {
+      "album": {
+        "name": "N\u00c4TTERNA P\u00c5 SM\u00d6GEN",
+        "url": "https://open.spotify.com/album/0S97r72koBAgUPWmole90S"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        },
+        {
+          "name": "Maximus",
+          "url": "https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C"
+        },
+        {
+          "name": "RIK1",
+          "url": "https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154754,
+      "name": "N\u00c4TTERNA P\u00c5 SM\u00d6GEN",
+      "url": "https://open.spotify.com/track/20y6dLrUf6pcyhQ0C0baRx"
     },
     {
       "album": {
@@ -12339,6 +12489,28 @@
     },
     {
       "album": {
+        "name": "RIKTIGT J\u00c4VLA FULL (Dunka pl\u00e5t)",
+        "url": "https://open.spotify.com/album/6L6GKBOLuxUA2qknoQ88ct"
+      },
+      "artists": [
+        {
+          "name": "Erik Meduza",
+          "url": "https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr"
+        },
+        {
+          "name": "Crille",
+          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120417,
+      "name": "RIKTIGT J\u00c4VLA FULL (Dunka pl\u00e5t)",
+      "url": "https://open.spotify.com/track/7306szl1WpxRboJ3lNAbe8"
+    },
+    {
+      "album": {
         "name": "Ring The Alarm (Remixes)",
         "url": "https://open.spotify.com/album/6161quyAWtf6v1f0kIUd4w"
       },
@@ -13120,7 +13292,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 152884,
       "name": "SKA VI LIGGA",
       "url": "https://open.spotify.com/track/12whZJ3s4xXHytQirmlUFc"
@@ -13175,6 +13347,32 @@
     },
     {
       "album": {
+        "name": "SKITER I DIN DALAH\u00c4ST (demz remix)",
+        "url": "https://open.spotify.com/album/34xgBhEoyLrdAAJ68wJcWE"
+      },
+      "artists": [
+        {
+          "name": "demz",
+          "url": "https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj"
+        },
+        {
+          "name": "FESTEN",
+          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
+        },
+        {
+          "name": "Pappa Paavo",
+          "url": "https://open.spotify.com/artist/3BKk31zMt1l4Dj7rhVYJe2"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155581,
+      "name": "SKITER I DIN DALAH\u00c4ST - demz remix",
+      "url": "https://open.spotify.com/track/0d9lRyjzBFIeByheIyz53Y"
+    },
+    {
+      "album": {
         "name": "SKITER I DIN DALAH\u00c4ST (Greta Tuborg Remix)",
         "url": "https://open.spotify.com/album/4BuddnRvdrsOyD9o38MzgT"
       },
@@ -13198,6 +13396,28 @@
       "duration_ms": 123176,
       "name": "SKITER I DIN DALAH\u00c4ST - Greta Tuborg Remix",
       "url": "https://open.spotify.com/track/1dEkcEWOANqUbwJYPUrhRt"
+    },
+    {
+      "album": {
+        "name": "SKITER P\u00c5 ARBETSTID",
+        "url": "https://open.spotify.com/album/3T9DrCA8QQKkBLy2xTR3aW"
+      },
+      "artists": [
+        {
+          "name": "Mr. P",
+          "url": "https://open.spotify.com/artist/5K6cIE6i4ZIWFlrpzi2T5u"
+        },
+        {
+          "name": "Jofa",
+          "url": "https://open.spotify.com/artist/3Wis8lYSGuybe6pMwUT7Ug"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135141,
+      "name": "SKITER P\u00c5 ARBETSTID",
+      "url": "https://open.spotify.com/track/3FFfmjfbzCc4tUaKHAswM1"
     },
     {
       "album": {
@@ -13428,7 +13648,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 146339,
       "name": "Sm\u00e5 grodorna (Hardstyle)",
       "url": "https://open.spotify.com/track/2HVhPDA6VWxZYKrvTm0mzb"
@@ -13964,7 +14184,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 146285,
       "name": "Staffan",
       "url": "https://open.spotify.com/track/4h0aGS6y4Gk7WULVkgzW2K"
@@ -14333,6 +14553,32 @@
     },
     {
       "album": {
+        "name": "STUPA I ETT DIKE ( IKV\u00c4LL )",
+        "url": "https://open.spotify.com/album/2SRJWJDYxAy9r5Riva5Bfp"
+      },
+      "artists": [
+        {
+          "name": "BJ\u00d8RNES",
+          "url": "https://open.spotify.com/artist/0oSU27mh8UZ25AbZ3eC7YB"
+        },
+        {
+          "name": "ShotLine",
+          "url": "https://open.spotify.com/artist/7El3MpnDRD7JMdhvhrW3pn"
+        },
+        {
+          "name": "Greta Tuborg",
+          "url": "https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106499,
+      "name": "STUPA I ETT DIKE ( IKV\u00c4LL )",
+      "url": "https://open.spotify.com/track/5olOA9gDVIgB4aWBbf62HB"
+    },
+    {
+      "album": {
         "name": "STUPA I ETT DIKE (IKV\u00c4LL)",
         "url": "https://open.spotify.com/album/6kn7eJbPLKRP6EmFW2xnwd"
       },
@@ -14534,7 +14780,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 93677,
       "name": "Supa s\u00e5 som mig",
       "url": "https://open.spotify.com/track/5EkYk9jar1DlpOZsBZuoUD"
@@ -14882,6 +15128,24 @@
       "duration_ms": 168620,
       "name": "S\u00e5 kommer k\u00e4nslorna tillbaka - Summer Dance Remix",
       "url": "https://open.spotify.com/track/5saaFsfDlrNWDrKuSmxKdo"
+    },
+    {
+      "album": {
+        "name": "S\u00c5 M\u00c5NGA MIL, S\u00c5 M\u00c5NGA \u00c5R...",
+        "url": "https://open.spotify.com/album/0pgqOhQRFL2n6if9pbcvGs"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181555,
+      "name": "S\u00c5 M\u00c5NGA MIL, S\u00c5 M\u00c5NGA \u00c5R...",
+      "url": "https://open.spotify.com/track/3yE566OGWBAZ6Z6SuosfFQ"
     },
     {
       "album": {

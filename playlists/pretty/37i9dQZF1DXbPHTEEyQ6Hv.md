@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,747 likes - 87 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,622 likes - 87 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 86 | [A Holly Jolly Christmas](https://open.spotify.com/track/7nH4hOiwPlutDW9qw0hBhs) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [A Holly Jolly Christmas](https://open.spotify.com/album/1oViorTcTSGZzAxFVMA5Au) | 3:08 |
 | 87 | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/0wPujtWCbSrEy5eylY7SAn) | [Kevin Duncan](https://open.spotify.com/artist/2Kg6QagAYT2ttYNxWnlADj) | [Christmas at the Piano](https://open.spotify.com/album/3YrqmcMeScUTkGq0wGT5IE) | 2:38 |
 
-Snapshot ID: `MCxiNmMxNjY3MzlkNTI5ZGJkYTc3NjU0YmZhYjYyZTlkOTg5ZTljM2M1`
+Snapshot ID: `MCwzNDNkYWI4MTFlYzgxNmQwMzU2YjgwOGY5OTIwZjNiZjg2YmMyY2Qw`

@@ -544,10 +544,28 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 181073,
       "name": "Amor",
       "url": "https://open.spotify.com/track/3Ip0TaOOaXTrCmZCdJkgpf"
+    },
+    {
+      "album": {
+        "name": "Quente",
+        "url": "https://open.spotify.com/album/7osQ0gzVF3aXXawd685gWX"
+      },
+      "artists": [
+        {
+          "name": "Nayr Faquir\u00e1",
+          "url": "https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116842,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/4INDkE9mhwrcfVZdC3GgEr"
     },
     {
       "album": {
@@ -734,7 +752,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 251147,
       "name": "Aura Diferente",
       "url": "https://open.spotify.com/track/087JPu4QHA65h7zUmk0pxf"
@@ -2002,7 +2020,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 206400,
       "name": "Deixa Arder",
       "url": "https://open.spotify.com/track/6jdWRN2OOnFPLdjtLkPTnP"
@@ -2812,7 +2830,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 236099,
       "name": "FAZ ME FICAR",
       "url": "https://open.spotify.com/track/6H42vwpapfQH1XpihD9OD4"
@@ -3408,6 +3426,24 @@
       "duration_ms": 221597,
       "name": "HEADS or TAILS",
       "url": "https://open.spotify.com/track/1eS203gD4KhOpO4OopTTFI"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/7fxSDn1vvLJc7dd7ZMgtVM"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206657,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4RtUyJA9AXqBHG0QeqJfkl"
     },
     {
       "album": {
@@ -5176,6 +5212,32 @@
       "duration_ms": 220408,
       "name": "Nosso Som",
       "url": "https://open.spotify.com/track/3i9QW2ocovZ44yX2bsUfjQ"
+    },
+    {
+      "album": {
+        "name": "Nosso Spot",
+        "url": "https://open.spotify.com/album/7FDiVH4jRpJ1vgJP5l0ZVw"
+      },
+      "artists": [
+        {
+          "name": "Cunha Beats",
+          "url": "https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7"
+        },
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "Amaro",
+          "url": "https://open.spotify.com/artist/2PFhhQZgtdqOT8mXiAHJ0A"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156570,
+      "name": "Nosso Spot",
+      "url": "https://open.spotify.com/track/4f69bb1IhaFjRgNulkpdyA"
     },
     {
       "album": {
@@ -7221,6 +7283,28 @@
     },
     {
       "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/3x05UGCR3UPt3ibUhEMbdT"
+      },
+      "artists": [
+        {
+          "name": "Carlos Kendrick",
+          "url": "https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH"
+        },
+        {
+          "name": "Dream Studio",
+          "url": "https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/0EDNbGpfrXygiEHkDrHKT3"
+    },
+    {
+      "album": {
         "name": "Steppa",
         "url": "https://open.spotify.com/album/2sfhXcCFx07eM0QTl4prDT"
       },
@@ -7588,6 +7672,28 @@
       "duration_ms": 203351,
       "name": "That's Me",
       "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
+    },
+    {
+      "album": {
+        "name": "The Sand And The Sea",
+        "url": "https://open.spotify.com/album/77oe4gtULjTSNj57femiV0"
+      },
+      "artists": [
+        {
+          "name": "D\u00b4Lucca",
+          "url": "https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x"
+        },
+        {
+          "name": "Vinny Q",
+          "url": "https://open.spotify.com/artist/45Ko5xdHWTjndqUVbX5Br5"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203432,
+      "name": "The Sand And The Sea",
+      "url": "https://open.spotify.com/track/4VldmkuiAu0IiB8a60Okhg"
     },
     {
       "album": {
@@ -8134,7 +8240,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 199322,
       "name": "Vem S\u00f3",
       "url": "https://open.spotify.com/track/2rpA0HiRKG8bV132SiopRU"
@@ -8342,7 +8448,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 236000,
       "name": "What i Want, How i Like",
       "url": "https://open.spotify.com/track/5ESYN254hHVlueVCHxMj9A"
@@ -8494,7 +8600,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 134743,
       "name": "\u00c0 Tona",
       "url": "https://open.spotify.com/track/2pejdDJoyqDBWM706pwC9M"

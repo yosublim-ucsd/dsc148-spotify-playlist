@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Sufjan Stevens
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,108 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,044 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [When You Lose Her](https://open.spotify.com/track/2RX2B72whvpTmrMjKadHoQ) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [When You Lose Her](https://open.spotify.com/album/4zJJ6j6z9K6FZhb5ssoZQl) | 3:56 |
 | 100 | [Death By Suspicion](https://open.spotify.com/track/53yh4A2jqHZBA3QOB4TJyY) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer \(Deluxe Edition\)](https://open.spotify.com/album/3nGF3nGNbvyqlwPHbpGof1) | 4:43 |
 
-Snapshot ID: `MCwyYWY3ZmFjNmQ5OTllMmRjYmNiNjIyM2UwNjRkYjQ5OTM2NjBhOGY4`
+Snapshot ID: `MCxlM2NlMjg4YzY4ZjgyNmQ5YzY3MDhhMzdkNWU3YjZiMmQ4OTZiNTA5`

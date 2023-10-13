@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 40491,
+  "num_followers": 40620,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDU2MTZjZWM2NmY0MjAwNGQ2MzJiMGM1MjIxNGNiNmFiYWIwZDlh",
+  "snapshot_id": "MCwzZjM3Zjc3MDIxZTY1YTE5M2VkMjA3ZDM3MmUwYWE3ZjAxZGU0M2Fl",
   "tracks": [
     {
       "added_at": "2023-10-02 12:14:32",
@@ -63,26 +63,22 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Careless Whisper",
-        "url": "https://open.spotify.com/album/1XjxeJw2RkvKoyj9ZQKqjI"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/6Wkt3HuhyHbxN7G9aSJ6L9"
       },
       "artists": [
         {
-          "name": "Toby Rose",
-          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
         },
         {
-          "name": "ALUR",
-          "url": "https://open.spotify.com/artist/4IwYXGDh3e4LBKRxT9e623"
-        },
-        {
-          "name": "Eirik N\u00e6ss",
-          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/4wyIAKiAc8Twh1jgzylZWo"
+      "duration_ms": 144375,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -131,22 +127,26 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/6Wkt3HuhyHbxN7G9aSJ6L9"
+        "name": "Careless Whisper",
+        "url": "https://open.spotify.com/album/1XjxeJw2RkvKoyj9ZQKqjI"
       },
       "artists": [
         {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+          "name": "Toby Rose",
+          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
         },
         {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+          "name": "ALUR",
+          "url": "https://open.spotify.com/artist/4IwYXGDh3e4LBKRxT9e623"
+        },
+        {
+          "name": "Eirik N\u00e6ss",
+          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
         }
       ],
-      "duration_ms": 144375,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh"
+      "duration_ms": 172800,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/4wyIAKiAc8Twh1jgzylZWo"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Juno Love",
-        "url": "https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38"
-      },
-      "artists": [
-        {
-          "name": "Nico Morano",
-          "url": "https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz"
-        },
-        {
-          "name": "Mewhy",
-          "url": "https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31"
-        }
-      ],
-      "duration_ms": 446585,
-      "name": "Juno Love",
-      "url": "https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
         "name": "Never Give Up On You",
         "url": "https://open.spotify.com/album/5SxcIZ1qmurQOKL7Io5xCa"
       },
@@ -735,22 +715,22 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul"
+        "name": "Juno Love",
+        "url": "https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38"
       },
       "artists": [
         {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+          "name": "Nico Morano",
+          "url": "https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz"
         },
         {
-          "name": "Eloi El",
-          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
+          "name": "Mewhy",
+          "url": "https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31"
         }
       ],
-      "duration_ms": 139010,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA"
+      "duration_ms": 446585,
+      "name": "Juno Love",
+      "url": "https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -779,26 +759,22 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Better Now",
-        "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul"
       },
       "artists": [
         {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
         },
         {
-          "name": "Mathieu Koss",
-          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
-        },
-        {
-          "name": "Janieck",
-          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
+          "name": "Eloi El",
+          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
         }
       ],
-      "duration_ms": 169048,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
+      "duration_ms": 139010,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -819,6 +795,30 @@
       "duration_ms": 132927,
       "name": "I Blame You",
       "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Mathieu Koss",
+          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+        },
+        {
+          "name": "Janieck",
+          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
+        }
+      ],
+      "duration_ms": 169048,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Apologize",
-        "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        }
-      ],
-      "duration_ms": 159845,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
         "name": "Stay A Little Longer",
         "url": "https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 141371,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
+        "name": "Apologize",
+        "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "duration_ms": 159845,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -1027,26 +1027,22 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq"
       },
       "artists": [
         {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+          "name": "Junerule",
+          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
         },
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+          "name": "AUGUSTKID",
+          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
         }
       ],
-      "duration_ms": 178909,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
+      "duration_ms": 174193,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -1075,22 +1071,26 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "My Darling",
-        "url": "https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq"
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
       },
       "artists": [
         {
-          "name": "Junerule",
-          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
         },
         {
-          "name": "AUGUSTKID",
-          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
         }
       ],
-      "duration_ms": 174193,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
+      "duration_ms": 178909,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Oasis de Gafsa",
-        "url": "https://open.spotify.com/album/6E8HautP6oIoR2BxW3njnf"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 142363,
-      "name": "Oasis de Gafsa",
-      "url": "https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
         "name": "Light A Fire",
         "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 154500,
       "name": "Light A Fire",
       "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
+        "name": "Oasis de Gafsa",
+        "url": "https://open.spotify.com/album/6E8HautP6oIoR2BxW3njnf"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 142363,
+      "name": "Oasis de Gafsa",
+      "url": "https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Rooftop",
-        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 167380,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
+        "name": "What You Do to Me",
+        "url": "https://open.spotify.com/album/33dz95maLS3wwFgdmdBOFO"
+      },
+      "artists": [
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "duration_ms": 164388,
+      "name": "What You Do to Me",
+      "url": "https://open.spotify.com/track/44fvlfBmomFkyO0jC7vuWF"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
         "name": "Feel Alive (feat. PollyAnna)",
         "url": "https://open.spotify.com/album/6DSWCfsRDuOTO6yKxO5YKM"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 157401,
       "name": "Feel Alive (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/47G4wvdU7hBOTxLyutkCSS"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
-        "name": "What You Do to Me",
-        "url": "https://open.spotify.com/album/33dz95maLS3wwFgdmdBOFO"
-      },
-      "artists": [
-        {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
-        }
-      ],
-      "duration_ms": 164388,
-      "name": "What You Do to Me",
-      "url": "https://open.spotify.com/track/44fvlfBmomFkyO0jC7vuWF"
     },
     {
       "added_at": "2023-10-02 12:14:32",

@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa ñeri\. Foto: BM & La Champions Liga.
 
-155 songs - 8 hr 28 min
+156 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Mabel](https://open.spotify.com/track/5Pcqvln7Yo4XPYRzuaVWja) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros:Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 3:54 | 2023-05-26 | 2023-06-16 |
 | [Mari y Juana](https://open.spotify.com/track/78x7mqnjsge3bQozhX6RcT) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:30 | 2023-05-26 | 2023-07-15 |
 | [Mata](https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Mata](https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3) | 2:37 | 2023-05-26 |  |
+| [Me Escapé](https://open.spotify.com/track/0iVcmJx7r74F7mTf7M6s0v) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [Me Escapé](https://open.spotify.com/album/2ypjhfhKCKTtyvB5IW5ZcU) | 2:56 | 2023-10-12 |  |
 | [Me Muero de Amor \- En Vivo](https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Viejo Marquez](https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA) | [Me Muero de Amor \(En Vivo\)](https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88) | 3:28 | 2023-05-26 |  |
 | [Me Re Cabio](https://open.spotify.com/track/1OCG4qYwvzanyg4f1EcvYI) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Close de Ort!](https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f) | 3:09 | 2023-05-26 |  |
 | [Me Vas a Extrañar \- En Vivo](https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Me Vas a Extrañar \(En Vivo\)](https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53) | 3:58 | 2023-05-26 |  |
@@ -158,7 +159,7 @@
 | [Vos de Bebe](https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf) | [Alta Gira](https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy) | 4:07 | 2023-05-26 |  |
 | [Voz de bebé](https://open.spotify.com/track/38WBgeP8cXm9I5Rr6kftyE) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf), [Búfalo Ortiz](https://open.spotify.com/artist/5j7kpHc00qZrSIxnSZ4YZj) | [Voz de bebé](https://open.spotify.com/album/60RFhH1hdv4XPfXO9UDwof) | 4:07 | 2023-07-14 | 2023-08-05 |
 | [Yendo No, Llegando](https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Yendo No, Llegando](https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP) | 3:31 | 2023-05-26 |  |
-| [Yo amo la música](https://open.spotify.com/track/46iC4HPfnbMAj34EwPKJVB) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Yo amo la música](https://open.spotify.com/album/2NNCMbHXF5ZyywFPwN5k8g) | 3:44 | 2023-09-29 |  |
+| [Yo amo la música](https://open.spotify.com/track/46iC4HPfnbMAj34EwPKJVB) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Yo amo la música](https://open.spotify.com/album/2NNCMbHXF5ZyywFPwN5k8g) | 3:44 | 2023-09-29 | 2023-10-13 |
 | [Yo Fumo](https://open.spotify.com/track/2AOiUFvBd1AbUtEnmwqhaI) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Yo Fumo](https://open.spotify.com/album/33FknRCSpak207j4cmiApB) | 3:10 | 2023-05-26 | 2023-06-13 |
 | [Yo Me Enamoré](https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 3:12 | 2023-05-26 |  |
 | [YO SOY TU MAESTRO \- Remix](https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [YO SOY TU MAESTRO \(Remix\)](https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG) | 3:25 | 2023-09-15 |  |

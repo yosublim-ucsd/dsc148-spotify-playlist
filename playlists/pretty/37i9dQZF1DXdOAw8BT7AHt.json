@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: SPRINTS",
-  "num_followers": 51137,
+  "num_followers": 51206,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTZhYWI4NDc2NzQ4YzBhYjg1MjBkYTI1MjBlZTg1NTg4YzYzNDU3",
+  "snapshot_id": "MCxiMmRmZDZlY2QwMzc3ZmU3NGVlNTFjZDBkN2E3YmQ5M2M1MWMxYWJi",
   "tracks": [
     {
       "added_at": "2023-09-22 00:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Baku's Revenge (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 151268,
-      "name": "Facedown",
-      "url": "https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Here's What You Could Have Won",
         "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 218400,
       "name": "New England",
       "url": "https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Baku's Revenge (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 151268,
+      "name": "Facedown",
+      "url": "https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Knees Deep",
+      "url": "https://open.spotify.com/track/26nKaeICWQGG1EC3cTGliE"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
         "name": "New York Transit Queen",
         "url": "https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm"
       },
@@ -631,38 +647,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Knees Deep",
-      "url": "https://open.spotify.com/track/26nKaeICWQGG1EC3cTGliE"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
-        "name": "Black Rainbows",
-        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 166405,
-      "name": "Erasure",
-      "url": "https://open.spotify.com/track/5pfc8Q86sfgziVm8jSIdar"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "The King and Queen of Gasoline",
         "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Bob Vylan Presents The Price Of Life",
-        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
+        "name": "Black Rainbows",
+        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
       },
       "artists": [
         {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
         }
       ],
-      "duration_ms": 150143,
-      "name": "Wicked & Bad",
-      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
+      "duration_ms": 166405,
+      "name": "Erasure",
+      "url": "https://open.spotify.com/track/5pfc8Q86sfgziVm8jSIdar"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -723,6 +707,22 @@
       "duration_ms": 101650,
       "name": "COLD BEER",
       "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Bob Vylan Presents The Price Of Life",
+        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 150143,
+      "name": "Wicked & Bad",
+      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "The Delicate Nature",
-        "url": "https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        },
-        {
-          "name": "Laurie Vincent",
-          "url": "https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV"
-        }
-      ],
-      "duration_ms": 182407,
-      "name": "The Delicate Nature",
-      "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Expert In A Dying Field",
         "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
       },
@@ -891,18 +871,22 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "I Gotta Feeling",
-        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
+        "name": "The Delicate Nature",
+        "url": "https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY"
       },
       "artists": [
         {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        },
+        {
+          "name": "Laurie Vincent",
+          "url": "https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV"
         }
       ],
-      "duration_ms": 197648,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
+      "duration_ms": 182407,
+      "name": "The Delicate Nature",
+      "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -943,6 +927,22 @@
       "duration_ms": 141352,
       "name": "AFTER THERAPY (feat. Hot Mulligan)",
       "url": "https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "I Gotta Feeling",
+        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Sweet Dreams of Otherness",
-        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "Sweet Dreams of Otherness",
-      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Country Life",
         "url": "https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 147535,
       "name": "Country Life",
       "url": "https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Sweet Dreams of Otherness",
+        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "Sweet Dreams of Otherness",
+      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "You're Welcome",
         "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 155788,
       "name": "Boys in the Band",
       "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Congregation",
-        "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
-      },
-      "artists": [
-        {
-          "name": "Witch Fever",
-          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
-        }
-      ],
-      "duration_ms": 160185,
-      "name": "At The Core",
-      "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Growing Up",
         "url": "https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 142124,
       "name": "Talking To Myself",
       "url": "https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Congregation",
+        "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "duration_ms": 160185,
+      "name": "At The Core",
+      "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
     },
     {
       "added_at": "2023-09-22 00:00:00",

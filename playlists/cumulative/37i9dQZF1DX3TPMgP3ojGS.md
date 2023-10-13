@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,751 songs - 3 day 6 hr 27 min
+1,752 songs - 3 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [After The Rain](https://open.spotify.com/track/1Zm94tzqt9ylN5wgBWRePJ) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [After The Rain](https://open.spotify.com/album/07UTHovmXYvheYrEW3Ogpj) | 2:46 | 2021-03-16 | 2022-04-01 |
 | [After The Storm](https://open.spotify.com/track/29vKgz3LXrTMqbxy71p0Fr) | [Florian Palmer](https://open.spotify.com/artist/1uEslan6MADlkRjoKgLKXB) | [After The Storm](https://open.spotify.com/album/3LMyS8dC4dPSbIU7uGu4hV) | 2:49 | 2022-04-12 | 2022-04-21 |
 | [After Tomorrow](https://open.spotify.com/track/65HbyIsjKBNpneF8iAA3IP) | [Emmanuelle Rimbaud](https://open.spotify.com/artist/25eoowiv7avebKZvqc7knq) | [After Tomorrow](https://open.spotify.com/album/3IpaUmzzIka9aZKXuadGug) | 3:11 | 2021-10-11 | 2022-04-12 |
+| [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 | 2023-10-10 |  |
 | [Afterthought](https://open.spotify.com/track/6V3EqKAHRMDKUYYPtD0lVQ) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Afterthought](https://open.spotify.com/album/4AFxPojfD0MLU03FMCtDmg) | 2:29 | 2022-12-24 | 2023-01-01 |
 | [Aika \- From "The Promised Land" Soundtrack](https://open.spotify.com/track/5c67QYM9Sl0tLPsR17UsVL) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Aika \(From "The Promised Land" Soundtrack\)](https://open.spotify.com/album/6GxDn64aAIRAfGcqg1gmYJ) | 3:38 | 2021-03-17 | 2021-05-12 |
 | [Aion](https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf) | [Kolorascze](https://open.spotify.com/artist/7nftAWIfdA1qHbIZuWUFGJ) | [Aion](https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh) | 2:04 | 2021-03-19 | 2022-04-04 |
@@ -421,7 +422,7 @@
 | [Early Flight](https://open.spotify.com/track/5A3iiKw1vacKg0uKBe1mrY) | [The Village Mountain Orchestra](https://open.spotify.com/artist/5GU68b12TotwGIyIFxhhnX) | [Focus Your Brain \- Deep Ambient Soundscapes Vol 1](https://open.spotify.com/album/6EK5AiyrCaxi8Hlp7UfMgr) | 4:05 | 2021-05-23 | 2022-04-16 |
 | [Early Morning](https://open.spotify.com/track/5iB8faGsvwZpLm3RIeQO3B) | [Lorraine J\. Kovach](https://open.spotify.com/artist/3H92L5ns19ZFEIcvVj2KhY) | [Early Morning](https://open.spotify.com/album/7viQj7LLIp5cqQTcVXYj7t) | 2:06 | 2022-05-31 | 2022-06-01 |
 | [Echoes of You](https://open.spotify.com/track/4NSorTl9g80CArixVtqGfz) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [Piano & Chill](https://open.spotify.com/album/68ypGrxQ3BTihCdY2eJqS2) | 2:20 | 2021-03-09 | 2022-04-14 |
-| [Eclipsis](https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Eclipsis](https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t) | 2:26 | 2023-04-25 |  |
+| [Eclipsis](https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Eclipsis](https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t) | 2:26 | 2023-04-25 | 2023-10-13 |
 | [Eftertanke](https://open.spotify.com/track/0yn3WfTE8MmH3IsYlpMPCs) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Eftertanke](https://open.spotify.com/album/425TkvWPxsTPyFKEdjtz1J) | 2:41 | 2022-03-24 | 2022-04-16 |
 | [Elegy For The Arctic](https://open.spotify.com/track/7B5OjrUhDBJao8CrIlnXBI) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Elegy For The Arctic](https://open.spotify.com/album/03IcjA0YrUxqOvFmbKwnA9) | 2:38 | 2021-03-18 | 2021-05-20 |
 | [Elfreth’s Alley](https://open.spotify.com/track/56kV0SkieRGfY4HUAGIsCM) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Elfreth’s Alley](https://open.spotify.com/album/0eN8e5w0xTXymCqKf1bdlZ) | 2:16 | 2021-03-10 | 2022-04-15 |
@@ -790,7 +791,7 @@
 | [La Fille d’en Face](https://open.spotify.com/track/7wx4Pn5bcMQhZxZeplFOiF) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB) | [Rêveries](https://open.spotify.com/album/1JwQ0z2Rj9WX5FSzS9Z90M) | 3:14 | 2021-03-14 | 2021-03-15 |
 | [La Fleur](https://open.spotify.com/track/3tTr7aNFBaUkH5O7KFB1wS) | [Blithe Youth](https://open.spotify.com/artist/4iIddIHZEHkH5SAjX7hEMu) | [La Fleur](https://open.spotify.com/album/6qec6hpXXfINiHHMnAvpHr) | 2:32 | 2021-03-20 | 2022-07-29 |
 | [La Gondola](https://open.spotify.com/track/43xkjr0u5DBR3NfkrCQdHo) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Surrender](https://open.spotify.com/album/2SSwUTubPIzCDF0n2IVYYZ) | 3:41 | 2021-09-25 | 2021-09-26 |
-| [La grande Nue](https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [La grande Nue](https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh) | 3:04 | 2023-05-30 |  |
+| [La grande Nue](https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [La grande Nue](https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh) | 3:04 | 2023-05-30 | 2023-10-13 |
 | [La luce nel cuore](https://open.spotify.com/track/2WJGRRRZ35beKytyV9h476) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [Selected Works](https://open.spotify.com/album/0mSXDUjoKeXdbGYGMe3emC) | 2:57 | 2021-05-24 | 2021-05-25 |
 | [La Madonna](https://open.spotify.com/track/1nGVbaoELgntPagNcfx7RX) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [La Madonna](https://open.spotify.com/album/5aOlMWhVHnVnpMF9WaNvEI) | 3:20 | 2021-04-26 | 2022-04-19 |
 | [La mariposa](https://open.spotify.com/track/7hnHIeg2UVBYmxkvhmaOts) | [Carmín Aponte](https://open.spotify.com/artist/0xh9QyZHWTadoIZx6A20h9) | [La mariposa](https://open.spotify.com/album/7L1I2d8HsB8J9RmphxKlUj) | 2:14 | 2021-04-22 | 2022-04-19 |
@@ -1302,7 +1303,7 @@
 | [Sides](https://open.spotify.com/track/4ydIU8ZiYsyTkRuqYIMJUG) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [All Behind Us](https://open.spotify.com/album/4hwIH1YgDbVfPSGjelmO08) | 2:29 | 2021-05-08 | 2022-04-14 |
 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 | 2021-03-14 | 2022-06-24 |
 | [Silence](https://open.spotify.com/track/4JU1uJZmDZCAJYEZ8MpIjp) | [Musicboxes](https://open.spotify.com/artist/51WLH938s8ZPIHSnoLjj2d) | [Focus Your Brain \- Deep Ambient Soundscapes Vol 1](https://open.spotify.com/album/6EK5AiyrCaxi8Hlp7UfMgr) | 3:08 | 2021-04-22 | 2022-04-20 |
-| [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 | 2021-10-02 | 2022-12-24 |
+| [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 | 2021-10-02 |  |
 | [Silent Rain](https://open.spotify.com/track/3HijOHaUfpWWJNEbU0QsHZ) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Silent Rain](https://open.spotify.com/album/71ceTov00b4SL0TiqvzIGy) | 2:19 | 2022-06-08 | 2022-07-24 |
 | [Silent River](https://open.spotify.com/track/4z3xb8dj9OigB5N5Yni8KK) | [The Lagoon](https://open.spotify.com/artist/1lnUDktBx0qwi8Rcya0hkM) | [Sleepy Baby Piano](https://open.spotify.com/album/4F64kqOUZucHOwcfftBJ5u) | 3:02 | 2021-04-26 | 2022-04-19 |
 | [Silent Side](https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Silent Side](https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk) | 2:42 | 2022-04-14 | 2022-08-09 |

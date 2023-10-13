@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,903 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,902 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 48 | [Moment](https://open.spotify.com/track/29GkXFjhPiigl84TeZEHdz) | [sangdei](https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI) | [Moment](https://open.spotify.com/album/0H0qxJ2ZpPbNk4zyHnOAOH) | 2:52 |
 | 49 | [Atlantic Ocean](https://open.spotify.com/track/0NZ1WA4wLJgbdpVrHyZ6cs) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Atlantic Ocean](https://open.spotify.com/album/2OTZ3ap5ScBuOVHz4ksfyE) | 2:39 |
 | 50 | [KATAKOTO \- Remix](https://open.spotify.com/track/50t94iUypd7oW6fsP8wV5f) | [C6ix](https://open.spotify.com/artist/4g0NGiHJAVMSqJKTCtzZzE), [S TILL I DIE](https://open.spotify.com/artist/1ICd95tL6iZcEKFEQpuWaW), [Rudebwoy Face](https://open.spotify.com/artist/0knzo2ocVAltWTjEDsSrsk) | [KATAKOTO \(Remix\)](https://open.spotify.com/album/0NJWKRnIUskd0Rq4Mrfxad) | 3:10 |
-| 51 | [BKNY \(feat\. Mr\. Muthafuckin' eXquire, Melo\-X, and GLDNEYE\) \- Remix \- Redux](https://open.spotify.com/track/5I0GdDY99hHYEDU5kjmEC5) | [Fat Tony](https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26), [Mr\. Muthafuckin' eXquire](https://open.spotify.com/artist/1Sq6VkcHqHAuFvURbH3sXQ), [Melo X](https://open.spotify.com/artist/4kgtyoO8ehnGHyDUyEIWYy), [GLDNEYE](https://open.spotify.com/artist/6OzEp7FvO7HIfvuFVtDHC7) | [BKNY \(feat\. Mr\. Muthafuckin' eXquire, Melo\-X, and GLDNEYE\) \[Remix \- Redux\]](https://open.spotify.com/album/4JYR9pl6cMeJOIOnWq63Dd) | 3:53 |
+| 51 | [BKNY \(feat\. Mr\. Muthafuckin' eXquire, Melo\-X, and GLDNEYE\) \- Remix \- Redux](https://open.spotify.com/track/5I0GdDY99hHYEDU5kjmEC5) | [Fat Tony](https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26), [Mr\. Muthafuckin' eXquire](https://open.spotify.com/artist/1Sq6VkcHqHAuFvURbH3sXQ), [Melo\-X](https://open.spotify.com/artist/6AxHPycFTjxDROqK1pzsAE), [GLDNEYE](https://open.spotify.com/artist/6OzEp7FvO7HIfvuFVtDHC7) | [BKNY \(feat\. Mr\. Muthafuckin' eXquire, Melo\-X, and GLDNEYE\) \[Remix \- Redux\]](https://open.spotify.com/album/4JYR9pl6cMeJOIOnWq63Dd) | 3:53 |
 | 52 | [Block](https://open.spotify.com/track/4XBnguB4Xpg3flMEt4ZTTq) | [NEXT WAY](https://open.spotify.com/artist/36W7LDbrcAsG2zAfKwOf7J), [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h) | [Block](https://open.spotify.com/album/4svngyOnzZMBcesWwAbLuL) | 1:58 |
 | 53 | [Viciedo](https://open.spotify.com/track/4QrhKVDbzr8TlIzVPdLu9z) | [YUNG HIROPON](https://open.spotify.com/artist/2xb1QDLyjh8ZfSLpDC38mn), [Contakeit](https://open.spotify.com/artist/1RTnC0KCSNfJlcb7bJg0zG) | [TAKAHASHI TAPE](https://open.spotify.com/album/03TZzOvu1q4OPaLTMFsTtZ) | 1:52 |
 | 54 | [16hrs!](https://open.spotify.com/track/0P6EeF4yYuOUiqZOWqfSmm) | [Bain](https://open.spotify.com/artist/7iTvQXjSsstZgnMFfLloYy) | [16hrs!](https://open.spotify.com/album/0yvB5TSJWXkbgU1ijXjQJP) | 1:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [What are you doing now](https://open.spotify.com/track/4Wp4Tptf9GMeKkljwJHvAY) | [Clearr Note](https://open.spotify.com/artist/7DZC3SoU3g5wrkYObbhTDk) | [What are you doing now](https://open.spotify.com/album/5hqr7DbSMbfW0NNbkG91ap) | 1:42 |
 | 60 | [You've Got A Friend](https://open.spotify.com/track/4aM5tFMceaO2VlhcdEDhk2) | [KODAMA AND THE DUB STATION BAND](https://open.spotify.com/artist/6EI7t3mczkCqKUNIsFtyKH) | [You've Got A Friend](https://open.spotify.com/album/0Om9ccW2UD8X2BI1lUerOP) | 5:01 |
 
-Snapshot ID: `MCw0NzIwOTQ1YzFiOGM3YzNiNzgxOTIwMzZhMzZiYjllZTU2ZmUyMTRj`
+Snapshot ID: `MCwzN2NhOTA1NmViODVkMWFiNTI1Y2JjNzI0ZDM5M2I3MDc3Y2NhOGU2`

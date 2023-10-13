@@ -2,9 +2,9 @@
 
 ### [Street Energy ](https://open.spotify.com/playlist/37i9dQZF1DX1GHMwBE32Ob)
 
-> The sounds keeping the streets of Nigeria on fire\. <br/>RIP Mohbad
+> The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Shallipopi
 
-152 songs - 7 hr 9 min
+153 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [No Advise Me](https://open.spotify.com/track/563TepXA7x9GT17SHlSBMW) | [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD) | [No Advise Me](https://open.spotify.com/album/1DVKvXIvBqaIIuPQxy1qkK) | 2:58 | 2022-11-18 | 2023-05-15 |
 | [NO COMPETITION \(feat\. Asake\)](https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:36 | 2023-03-30 |  |
 | [No Peace \(Violence\)](https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Boy Etiquette 101](https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA) | 2:35 | 2022-12-08 | 2023-09-01 |
-| [Nobody](https://open.spotify.com/track/5WKHQJCEHNqzZHZduHGrHc) | [LAOD](https://open.spotify.com/artist/7pUd9fPD9tSOugDrBHqMl9), [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Nelly Baradi](https://open.spotify.com/artist/77bRctbyJcjkQcyEa5wrQr) | [Nobody](https://open.spotify.com/album/6ZN0u3yb58U9SKLQ5ciIoq) | 2:44 | 2023-09-29 |  |
+| [Nobody](https://open.spotify.com/track/5WKHQJCEHNqzZHZduHGrHc) | [LAOD](https://open.spotify.com/artist/7pUd9fPD9tSOugDrBHqMl9), [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Nelly Baradi](https://open.spotify.com/artist/77bRctbyJcjkQcyEa5wrQr) | [Nobody](https://open.spotify.com/album/6ZN0u3yb58U9SKLQ5ciIoq) | 2:44 | 2023-09-29 | 2023-10-13 |
 | [NSV](https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [NSV](https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB) | 3:08 | 2023-05-11 |  |
 | [Of Lagos](https://open.spotify.com/track/0G6mkL7Qenh7YYWPuorN3A) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Of Lagos](https://open.spotify.com/album/0XZG1YD6gSjTTARiGEWz6l) | 2:45 | 2022-06-29 | 2023-06-03 |
 | [Of Lala](https://open.spotify.com/track/6VMwrNQPmy3lHbuoHBTAO0) | [Rahman Jago](https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS), [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Of Lala](https://open.spotify.com/album/1Fq2heYALs55JGlNPjHZLB) | 3:07 | 2022-06-29 | 2023-01-20 |
@@ -141,6 +141,7 @@
 | [Stronger](https://open.spotify.com/track/1JW5qjse9QQn9jfseFeYsD) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Stronger](https://open.spotify.com/album/6tYoYFfnVfseQRC7iVWHyP) | 3:05 | 2023-01-12 | 2023-02-04 |
 | [Taka Oshi](https://open.spotify.com/track/2NexijiPK9irTO8VsjiF9N) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Big Time](https://open.spotify.com/album/6T069OH10Fo4kfJGO6kiWG) | 2:13 | 2023-03-10 | 2023-03-18 |
 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 | 2022-08-18 |  |
+| [Things on Things](https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Things on Things](https://open.spotify.com/album/5OXS5DoiCaozs5l7WztbLc) | 3:16 | 2023-10-13 |  |
 | [Tiff](https://open.spotify.com/track/5jdJ6Flvi1ep0mpnWKa04R) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Tiff](https://open.spotify.com/album/1KeUFIH7fYkSCWByLwCiAO) | 2:12 | 2022-11-25 |  |
 | [Time \- Remix](https://open.spotify.com/track/2ETc95EJp82O8Bbx1MGEAR) | [Damo K](https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Time \(Remix\)](https://open.spotify.com/album/1c2FeiwmSLO8prJnDg24Z1) | 2:27 | 2023-02-16 |  |
 | [Tintok Cruise Beat](https://open.spotify.com/track/4KDnF7cF5UwTBEJYosVSnw) | [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u) | [TinTok Cruise Beat](https://open.spotify.com/album/3AdRRuXQ3Rs8B0APJsbaOu) | 2:13 | 2022-06-29 | 2023-03-25 |

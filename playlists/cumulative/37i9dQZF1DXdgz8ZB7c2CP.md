@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Sam Gellaitry
 
-566 songs - 1 day 7 hr 18 min
+567 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,8 @@
 | [Knock the Wind Out](https://open.spotify.com/track/2z6rarDaYU9H2z1IY1QLqv) | [Von Storm](https://open.spotify.com/artist/5acEBp4nbqoEjROkF8nLj4) | [Knock the Wind Out](https://open.spotify.com/album/0cgdngdkYBSeSkoQ07SnLZ) | 3:04 | 2021-08-06 | 2023-05-13 |
 | [Know](https://open.spotify.com/track/18Nb7k9gprZ6r17bbaiUQZ) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [SADBOii](https://open.spotify.com/artist/1fzPKzbxV0zBhhquKXLisN) | [Know](https://open.spotify.com/album/1nxBOq1s4IrC4W0eqiwrpV) | 4:11 | 2021-10-08 | 2023-04-29 |
 | [kora](https://open.spotify.com/track/76sfncHLblimgAGJYEYLQn) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [kora](https://open.spotify.com/album/5yfGKNCwibrh4GLVC5dLyc) | 4:42 | 2021-08-06 | 2023-03-10 |
-| [Landscape](https://open.spotify.com/track/3mhmsgWbnEex2qBUZEUnCK) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc) | [Landscape](https://open.spotify.com/album/3Wzgh6znehuaK9Yu2IdZ6s) | 2:40 | 2023-06-16 |  |
+| [Landscape](https://open.spotify.com/track/3DJGNgVK7g18EgpyKvy5T9) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc) | [The Art Of Change](https://open.spotify.com/album/2w5ieF6SZV9flk1gkOgzdK) | 2:40 | 2023-10-05 |  |
+| [Landscape](https://open.spotify.com/track/3mhmsgWbnEex2qBUZEUnCK) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc) | [Landscape](https://open.spotify.com/album/3Wzgh6znehuaK9Yu2IdZ6s) | 2:40 | 2023-06-16 | 2023-10-13 |
 | [Landslide](https://open.spotify.com/track/7DsQcrBb8p6dc6ccMFf7Gk) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Landslide](https://open.spotify.com/album/4vEjKBgSWs2EvLWQ4FNL8n) | 3:10 | 2023-03-03 | 2023-09-16 |
 | [Last Time](https://open.spotify.com/track/43EsCCOIJL1gVTBraWd4Gx) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Sessions: Diana](https://open.spotify.com/album/524MIbuattv09j7FW5NVu2) | 2:31 | 2021-12-14 | 2022-06-18 |
 | [Leave Me Like This](https://open.spotify.com/track/7vzWtCVhEKDmDkMmT3AiUL) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Leave Me Like This](https://open.spotify.com/album/2U5XHV8AMBojtjxB6AWP6U) | 3:08 | 2023-02-10 |  |

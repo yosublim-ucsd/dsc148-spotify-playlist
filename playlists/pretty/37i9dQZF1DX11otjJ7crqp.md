@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,875 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,905 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 63 | [Out Of My League](https://open.spotify.com/track/0O7V6ItLSmWsh8qisU8mTr) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 3:26 |
 | 64 | [Brake Lights](https://open.spotify.com/track/72VpsA3m5YIVDxVEaGuTGv) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Brake Lights](https://open.spotify.com/album/2WGlq1sKvzljpMr8fX1MVp) | 2:41 |
 | 65 | [A Man Like Me](https://open.spotify.com/track/1pJklQvgj7BmpMrO9E2P3u) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [The Ride: Part 2](https://open.spotify.com/album/3GD05St31XOYQZ0Hboop4T) | 2:30 |
-| 66 | [1\-800\-LONLEY\-AF](https://open.spotify.com/track/5RRajWBbubYzrURrDeFwP9) | [Dutch Melrose](https://open.spotify.com/artist/6NRSfOnXw4qaypEfIV2QXn) | [1\-800\-LONLEY\-AF](https://open.spotify.com/album/6e2YzQ504gHuYKhkx4ENQE) | 2:24 |
+| 66 | [1\-800\-LONELY\-AF](https://open.spotify.com/track/5RRajWBbubYzrURrDeFwP9) | [Dutch Melrose](https://open.spotify.com/artist/6NRSfOnXw4qaypEfIV2QXn) | [1\-800\-LONELY\-AF](https://open.spotify.com/album/6e2YzQ504gHuYKhkx4ENQE) | 2:24 |
 | 67 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 |
 | 68 | [Idolize](https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 2:25 |
 | 69 | [Dani](https://open.spotify.com/track/6bghqHHv3lSrGiz97vDyon) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Dani](https://open.spotify.com/album/62pcnIOSyWj3BxniV5T3Ja) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [FOR THE PEOPLE](https://open.spotify.com/track/2X6YKBVsLzOUwCVQdfDDIK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [FOR THE PEOPLE](https://open.spotify.com/album/34wcoE6wTdaCMpZtHVdbSc) | 2:37 |
 | 100 | [Heartbreak Souvenirs](https://open.spotify.com/track/1v7exhEYimYPHHV58YyYY6) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Heartbreak Souvenirs](https://open.spotify.com/album/2KQ3PWiOJWWlei0U5j9E0b) | 3:13 |
 
-Snapshot ID: `MCwwZTY0YzU5MDI5MWY2NzkzYTgyNjNiNmNiNzg1NjZlNmUyYzIxMzU5`
+Snapshot ID: `MCw2Njg4NmVmZjc1MzFmYWIzNjZhMWE1ODRiYTIwMGJlNmEyMDgzYTQ5`

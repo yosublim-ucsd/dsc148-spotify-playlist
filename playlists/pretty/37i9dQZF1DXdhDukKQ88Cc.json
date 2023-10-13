@@ -1,15 +1,35 @@
 {
-  "description": "dk rap holder det 100 lige nu \ud83d\udea8  ICEKIID tar forsiden",
-  "num_followers": 143305,
+  "description": "dk rap holder det 100 lige nu \ud83d\udea8 Branco og Gobs tar forsiden",
+  "num_followers": 143252,
   "original_name": "100 DK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGM1MTJhYTAwNjc5YmI5M2VkMzVlMzBhY2E0MDE1YzAyMjEwZDNm",
+  "snapshot_id": "MCwyNjRlMTc2YzVjMjhmNWVmYTMzZTI2YjgxNmJkNmRhZDNkYjVjM2E4",
   "tracks": [
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "FORSVINDER (feat. Gobs)",
+        "url": "https://open.spotify.com/album/0Xhp7Kgke0OveQaVRMkJwW"
+      },
+      "artists": [
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        },
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 160470,
+      "name": "FORSVINDER (feat. Gobs)",
+      "url": "https://open.spotify.com/track/2aNMkT86YjYPlKujUiHYbS"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Skarpt Lys",
         "url": "https://open.spotify.com/album/6ukNPtoxvCSYiayGIcDi0y"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/66K8nCovQPjJLs11RAqdnl"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Je Ka Jo",
         "url": "https://open.spotify.com/album/29OCZ1A2FbLNBvoDrlEUf0"
@@ -41,7 +61,27 @@
       "url": "https://open.spotify.com/track/0GFJI3tJuE9S3su4H8Co2G"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "DK GOAT",
+        "url": "https://open.spotify.com/album/5rwILepTiMfBTOwJCqholQ"
+      },
+      "artists": [
+        {
+          "name": "TopGunn",
+          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "duration_ms": 173069,
+      "name": "Balancen (feat. Kesi)",
+      "url": "https://open.spotify.com/track/4sGUkfsLxIK4tZxLZt0unU"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "2 Kanoner",
         "url": "https://open.spotify.com/album/1OkJRJq4oFJgzaCOIcA04p"
@@ -57,27 +97,7 @@
       "url": "https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
-      "album": {
-        "name": "Payback (feat. RH)",
-        "url": "https://open.spotify.com/album/77T0zKbTYx05Fcb5qIeFNB"
-      },
-      "artists": [
-        {
-          "name": "Mowgli",
-          "url": "https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5"
-        },
-        {
-          "name": "RH",
-          "url": "https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ"
-        }
-      ],
-      "duration_ms": 149084,
-      "name": "Payback (feat. RH)",
-      "url": "https://open.spotify.com/track/01oiNNLfj1N5n8McYBq3kt"
-    },
-    {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "LEVENDE LEGENDE",
         "url": "https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb"
@@ -97,23 +117,7 @@
       "url": "https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
-      "album": {
-        "name": "Psykosebarn",
-        "url": "https://open.spotify.com/album/1bVTGCNXPtNVjznVGYpCGx"
-      },
-      "artists": [
-        {
-          "name": "Baloosh",
-          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
-        }
-      ],
-      "duration_ms": 130414,
-      "name": "Psykosebarn",
-      "url": "https://open.spotify.com/track/7ar1cv0qnLwodfUOIUx2Vh"
-    },
-    {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "I LIKE 2 MOVE IT (feat. ABCITOO)",
         "url": "https://open.spotify.com/album/19VwYofnlTp22my1SUbVeR"
@@ -133,167 +137,7 @@
       "url": "https://open.spotify.com/track/4FXxjGxNBIPmDnOU1VFq8x"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
-      "album": {
-        "name": "STAYBUSY",
-        "url": "https://open.spotify.com/album/5TtPoVWJI5k7xGf1oh6HIJ"
-      },
-      "artists": [
-        {
-          "name": "Maurice",
-          "url": "https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl"
-        }
-      ],
-      "duration_ms": 143243,
-      "name": "STAYBUSY",
-      "url": "https://open.spotify.com/track/4t76e7lcoYva7eZparMcfw"
-    },
-    {
-      "added_at": "2023-10-06 10:45:26",
-      "album": {
-        "name": "Settings",
-        "url": "https://open.spotify.com/album/4c9XYiW6vT5hS8c4Pofmjp"
-      },
-      "artists": [
-        {
-          "name": "Carmon",
-          "url": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
-        }
-      ],
-      "duration_ms": 121967,
-      "name": "Settings",
-      "url": "https://open.spotify.com/track/6nQqtUIELq6zQWld6UwhDn"
-    },
-    {
-      "added_at": "2023-10-06 10:45:26",
-      "album": {
-        "name": "TILLYKKE",
-        "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 141833,
-      "name": "Topform (feat. Lamin)",
-      "url": "https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH"
-    },
-    {
-      "added_at": "2023-10-06 10:45:26",
-      "album": {
-        "name": "K-City (feat. Stepz)",
-        "url": "https://open.spotify.com/album/6DKZHaI2sj7p7rMxNnouhf"
-      },
-      "artists": [
-        {
-          "name": "EZ",
-          "url": "https://open.spotify.com/artist/1KQsdrbzpa7RQfYq2U0ABb"
-        },
-        {
-          "name": "Stepz",
-          "url": "https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj"
-        }
-      ],
-      "duration_ms": 153560,
-      "name": "K-City (feat. Stepz)",
-      "url": "https://open.spotify.com/track/12gl0uMirrvJL9DzTgcRXR"
-    },
-    {
-      "added_at": "2023-10-06 10:45:26",
-      "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/2orIoKQ5g0mxhWZyh8umbZ"
-      },
-      "artists": [
-        {
-          "name": "Xabski",
-          "url": "https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF"
-        }
-      ],
-      "duration_ms": 125538,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/63LAurQHWMq3ARoZLxClgU"
-    },
-    {
-      "added_at": "2023-10-06 10:45:26",
-      "album": {
-        "name": "Du Min (Frk. Escobar)",
-        "url": "https://open.spotify.com/album/3Y1sF71OVCLAPfwekAViUB"
-      },
-      "artists": [
-        {
-          "name": "DIBSET",
-          "url": "https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH"
-        }
-      ],
-      "duration_ms": 126743,
-      "name": "Du Min (Frk. Escobar)",
-      "url": "https://open.spotify.com/track/7kHon0ZXCxI7rwONmhS9Ax"
-    },
-    {
-      "added_at": "2023-10-06 10:45:26",
-      "album": {
-        "name": "nu hvor vi er her",
-        "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
-      },
-      "artists": [
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        },
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 177263,
-      "name": "hva status",
-      "url": "https://open.spotify.com/track/4uD38j8IHpg5g8LFOlV1XV"
-    },
-    {
-      "added_at": "2023-10-06 10:45:26",
-      "album": {
-        "name": "Miguel F\u00e9lix",
-        "url": "https://open.spotify.com/album/5rJSr8ejGeIEmteVDHyTVO"
-      },
-      "artists": [
-        {
-          "name": "Shooter Gang",
-          "url": "https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO"
-        }
-      ],
-      "duration_ms": 194217,
-      "name": "Miguel F\u00e9lix",
-      "url": "https://open.spotify.com/track/5uQvsr0OBicAIl0DJJAQeC"
-    },
-    {
-      "added_at": "2023-10-06 10:45:26",
-      "album": {
-        "name": "Boys I D Bl\u00e5",
-        "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        },
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
-        }
-      ],
-      "duration_ms": 133130,
-      "name": "Boys I D Bl\u00e5",
-      "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
-    },
-    {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "De Forbudte Trin (feat. Benny Jamz)",
         "url": "https://open.spotify.com/album/51dPCd7L8zdDZNzGeCASeV"
@@ -313,7 +157,219 @@
       "url": "https://open.spotify.com/track/3TPqw77JJK9CEa3ZVuMEIO"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Payback (feat. RH)",
+        "url": "https://open.spotify.com/album/77T0zKbTYx05Fcb5qIeFNB"
+      },
+      "artists": [
+        {
+          "name": "Mowgli",
+          "url": "https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5"
+        },
+        {
+          "name": "RH",
+          "url": "https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ"
+        }
+      ],
+      "duration_ms": 149084,
+      "name": "Payback (feat. RH)",
+      "url": "https://open.spotify.com/track/01oiNNLfj1N5n8McYBq3kt"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Psykosebarn",
+        "url": "https://open.spotify.com/album/1bVTGCNXPtNVjznVGYpCGx"
+      },
+      "artists": [
+        {
+          "name": "Baloosh",
+          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
+        }
+      ],
+      "duration_ms": 130414,
+      "name": "Psykosebarn",
+      "url": "https://open.spotify.com/track/7ar1cv0qnLwodfUOIUx2Vh"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "STAYBUSY",
+        "url": "https://open.spotify.com/album/5TtPoVWJI5k7xGf1oh6HIJ"
+      },
+      "artists": [
+        {
+          "name": "Maurice",
+          "url": "https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl"
+        }
+      ],
+      "duration_ms": 143243,
+      "name": "STAYBUSY",
+      "url": "https://open.spotify.com/track/4t76e7lcoYva7eZparMcfw"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "DK GOAT",
+        "url": "https://open.spotify.com/album/5rwILepTiMfBTOwJCqholQ"
+      },
+      "artists": [
+        {
+          "name": "TopGunn",
+          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
+        }
+      ],
+      "duration_ms": 166808,
+      "name": "Copenhagen",
+      "url": "https://open.spotify.com/track/1ic0b3srMKuadfg4z9TSLK"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Settings",
+        "url": "https://open.spotify.com/album/4c9XYiW6vT5hS8c4Pofmjp"
+      },
+      "artists": [
+        {
+          "name": "Carmon",
+          "url": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
+        }
+      ],
+      "duration_ms": 121967,
+      "name": "Settings",
+      "url": "https://open.spotify.com/track/6nQqtUIELq6zQWld6UwhDn"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "TILLYKKE",
+        "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 141833,
+      "name": "Topform (feat. Lamin)",
+      "url": "https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "K-City (feat. Stepz)",
+        "url": "https://open.spotify.com/album/6DKZHaI2sj7p7rMxNnouhf"
+      },
+      "artists": [
+        {
+          "name": "EZ",
+          "url": "https://open.spotify.com/artist/1KQsdrbzpa7RQfYq2U0ABb"
+        },
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj"
+        }
+      ],
+      "duration_ms": 153560,
+      "name": "K-City (feat. Stepz)",
+      "url": "https://open.spotify.com/track/12gl0uMirrvJL9DzTgcRXR"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/2orIoKQ5g0mxhWZyh8umbZ"
+      },
+      "artists": [
+        {
+          "name": "Xabski",
+          "url": "https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF"
+        }
+      ],
+      "duration_ms": 125538,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/63LAurQHWMq3ARoZLxClgU"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Du Min (Frk. Escobar)",
+        "url": "https://open.spotify.com/album/3Y1sF71OVCLAPfwekAViUB"
+      },
+      "artists": [
+        {
+          "name": "DIBSET",
+          "url": "https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH"
+        }
+      ],
+      "duration_ms": 126743,
+      "name": "Du Min (Frk. Escobar)",
+      "url": "https://open.spotify.com/track/7kHon0ZXCxI7rwONmhS9Ax"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "nu hvor vi er her",
+        "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 177263,
+      "name": "hva status",
+      "url": "https://open.spotify.com/track/4uD38j8IHpg5g8LFOlV1XV"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Miguel F\u00e9lix",
+        "url": "https://open.spotify.com/album/5rJSr8ejGeIEmteVDHyTVO"
+      },
+      "artists": [
+        {
+          "name": "Shooter Gang",
+          "url": "https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO"
+        }
+      ],
+      "duration_ms": 194217,
+      "name": "Miguel F\u00e9lix",
+      "url": "https://open.spotify.com/track/5uQvsr0OBicAIl0DJJAQeC"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Boys I D Bl\u00e5",
+        "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        },
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        }
+      ],
+      "duration_ms": 133130,
+      "name": "Boys I D Bl\u00e5",
+      "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "I KNOW",
         "url": "https://open.spotify.com/album/5DjM5MJoima73xcyXJ1mkG"
@@ -329,23 +385,7 @@
       "url": "https://open.spotify.com/track/3aQzeklWllLWZSH4xk7Udj"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
-      "album": {
-        "name": "DISCO FOMO",
-        "url": "https://open.spotify.com/album/1uzvZpLr8jnwtlEjukbDT4"
-      },
-      "artists": [
-        {
-          "name": "PIND",
-          "url": "https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q"
-        }
-      ],
-      "duration_ms": 159952,
-      "name": "DISCO FOMO",
-      "url": "https://open.spotify.com/track/46dax66BvUDwO3b15Dc3ZH"
-    },
-    {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Et Sted Herude",
         "url": "https://open.spotify.com/album/7hGBBxMDxFPoIAslWcoA5E"
@@ -361,7 +401,7 @@
       "url": "https://open.spotify.com/track/1BrhRqAJRa8YweyLVNCBQm"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Ny Sejr",
         "url": "https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ"
@@ -381,7 +421,7 @@
       "url": "https://open.spotify.com/track/2hFdRvBjl6eWf0tPt9NYID"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "vi ku' blive",
         "url": "https://open.spotify.com/album/0vgn9MyoQ9YfNPHV3vAIc9"
@@ -401,7 +441,7 @@
       "url": "https://open.spotify.com/track/1B6jWZtTp6od8DQBQ9l8Ji"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "CPH CITY",
         "url": "https://open.spotify.com/album/5fVv3UKquiZIXBrYfvCmCh"
@@ -417,7 +457,7 @@
       "url": "https://open.spotify.com/track/19x15dgq2VMEqb7tH5r4kO"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Jumeirah",
         "url": "https://open.spotify.com/album/6QlAljhTljlTtzuPEDzBCm"
@@ -437,7 +477,7 @@
       "url": "https://open.spotify.com/track/38xttLsyfUwd284fbNjymm"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Ny Sejr",
         "url": "https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ"
@@ -457,7 +497,7 @@
       "url": "https://open.spotify.com/track/7a2ZJ7zftM3SkQ0sDvI4Aa"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "4 LIFE",
         "url": "https://open.spotify.com/album/2ZSarbwHOnvmj19c4jiVey"
@@ -473,7 +513,7 @@
       "url": "https://open.spotify.com/track/3oR0iJiqjO5onYOs8ThQa1"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Fast Life",
         "url": "https://open.spotify.com/album/2KFFfOn8uwTyLxeTtyPGfV"
@@ -493,7 +533,7 @@
       "url": "https://open.spotify.com/track/6uWlAXg3PSZsizyCPFdUoZ"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Tak For Sidst",
         "url": "https://open.spotify.com/album/0rvZGDpA6Gw8s4dT3xRnpi"
@@ -509,7 +549,39 @@
       "url": "https://open.spotify.com/track/5cNxyZy9r5f8m2L7it8ZtB"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Tar Dig Med",
+        "url": "https://open.spotify.com/album/1Nu2RKMKHHDyk6Oo2GpeOc"
+      },
+      "artists": [
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
+        }
+      ],
+      "duration_ms": 120382,
+      "name": "Tar Dig Med",
+      "url": "https://open.spotify.com/track/2oGIev7T7TQDqwDdt0d3or"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Den Sidste",
+        "url": "https://open.spotify.com/album/3qsX0mf6RmJssERtAQSwua"
+      },
+      "artists": [
+        {
+          "name": "KIDD",
+          "url": "https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i"
+        }
+      ],
+      "duration_ms": 145703,
+      "name": "Den Sidste",
+      "url": "https://open.spotify.com/track/07X1mqPPTSMdtdN03rxMyu"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Baby Mama",
         "url": "https://open.spotify.com/album/7uonA79doG0xDcgWWobwsf"
@@ -525,7 +597,7 @@
       "url": "https://open.spotify.com/track/3NG0HvogvABEgt8bdpzCK8"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Zoo (feat. Branco)",
         "url": "https://open.spotify.com/album/5Fev5JoZyULNiMeVArH7RA"
@@ -545,7 +617,7 @@
       "url": "https://open.spotify.com/track/4uSOMRmjHHwxF5CoSCKiAQ"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "TILLYKKE",
         "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
@@ -565,7 +637,7 @@
       "url": "https://open.spotify.com/track/1CsNJtHR4s0eZ7CmyoCtQZ"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "nu hvor vi er her",
         "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
@@ -589,7 +661,7 @@
       "url": "https://open.spotify.com/track/1QYu15XcUvIzbniUykHudF"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Under Radar",
         "url": "https://open.spotify.com/album/5e09iR2DufFRiMK8JmTlNu"
@@ -617,7 +689,7 @@
       "url": "https://open.spotify.com/track/18jOIUboPPzwu84t9GlUKu"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Som Forleden",
         "url": "https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd"
@@ -633,7 +705,7 @@
       "url": "https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "NO MONEY NO FUNNY (feat. Branco)",
         "url": "https://open.spotify.com/album/26JQ7MSTG8tAdJbLVU7ZMN"
@@ -653,7 +725,7 @@
       "url": "https://open.spotify.com/track/7ME4hi8iUI8ppwRpIGbKg4"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Slow Mo' / Swervin'",
         "url": "https://open.spotify.com/album/2QVD6w1lvKmxSr2petQ7H8"
@@ -673,7 +745,23 @@
       "url": "https://open.spotify.com/track/49fxzVDFQGVorGiv3FEUcv"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Mange D\u00f8jer Med Angst",
+        "url": "https://open.spotify.com/album/5txniOdxQFJAotpTiCJGUj"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0"
+        }
+      ],
+      "duration_ms": 157477,
+      "name": "MDMA",
+      "url": "https://open.spotify.com/track/6IybluLzGGNRTe8blxh69C"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Puto Criminel (feat. ZUUZ)",
         "url": "https://open.spotify.com/album/1ZjCCgHb5cOFqbFLhM4F22"
@@ -693,7 +781,7 @@
       "url": "https://open.spotify.com/track/4PJqYYdcQ1rubq1O0S8AVu"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Rider",
         "url": "https://open.spotify.com/album/7rsFe7IgBjlh2TCd23lX4t"
@@ -713,7 +801,7 @@
       "url": "https://open.spotify.com/track/3OKI9yggHapQONX0k8xtlD"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Rock with It",
         "url": "https://open.spotify.com/album/0vs2X0QGBP3RSK7jtzLOrE"
@@ -733,7 +821,7 @@
       "url": "https://open.spotify.com/track/0H5Q7G69hxQs8qdkD6rmRJ"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Draco",
         "url": "https://open.spotify.com/album/10FjouEsDArE1pce1q6j7v"
@@ -749,7 +837,7 @@
       "url": "https://open.spotify.com/track/5G02IArmAsqcU3yTdLxZRN"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "MOULAGA",
         "url": "https://open.spotify.com/album/16WOsN6JTgg1QV4VwrdlXm"
@@ -769,7 +857,7 @@
       "url": "https://open.spotify.com/track/5MzZ0U4Zihj9iAR9c7uUyy"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Internazionale (feat. Magzim)",
         "url": "https://open.spotify.com/album/3YON54IWdqFWos7oNwoiiG"
@@ -789,7 +877,7 @@
       "url": "https://open.spotify.com/track/4ymwixcQXSHyAY5Af4bvr8"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Ny Art",
         "url": "https://open.spotify.com/album/6Wk9GkksYDxUvEgt8jRh1Z"
@@ -813,7 +901,7 @@
       "url": "https://open.spotify.com/track/3jdWYmiOaDfs7urzqN0sSk"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Baddies & Draris",
         "url": "https://open.spotify.com/album/29ExeT8qqQJwiHv7R7Qhvw"
@@ -829,23 +917,7 @@
       "url": "https://open.spotify.com/track/4oy5g8o1arUDfFX1jTsGna"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
-      "album": {
-        "name": "Tar Dig Med",
-        "url": "https://open.spotify.com/album/1Nu2RKMKHHDyk6Oo2GpeOc"
-      },
-      "artists": [
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
-        }
-      ],
-      "duration_ms": 120382,
-      "name": "Tar Dig Med",
-      "url": "https://open.spotify.com/track/2oGIev7T7TQDqwDdt0d3or"
-    },
-    {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Feeling Myself (Shooter Gang Remix)",
         "url": "https://open.spotify.com/album/0nuDeMCXPzfCwJNtArjVUS"
@@ -865,7 +937,7 @@
       "url": "https://open.spotify.com/track/2o4MYiPOmV2A7GAhs3ckrY"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/08bFLkMDwhsO59XMM9qobU"
@@ -881,7 +953,7 @@
       "url": "https://open.spotify.com/track/0uUbeTMGlvqFWdtMuqLTEB"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "TMAX",
         "url": "https://open.spotify.com/album/0DQG2g45oPf0Zvi5gbCh0a"
@@ -897,7 +969,7 @@
       "url": "https://open.spotify.com/track/4ssk9gSrtDLemExleFmYeS"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Sp\u00e5kone",
         "url": "https://open.spotify.com/album/2YMSb0pHCX4stwMGUBPIGl"
@@ -913,7 +985,7 @@
       "url": "https://open.spotify.com/track/4VIai4an6QpUiuQxxliAF7"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "HONEYMOON",
         "url": "https://open.spotify.com/album/5Dgf2urRgPtWByAz7hILGA"
@@ -933,7 +1005,7 @@
       "url": "https://open.spotify.com/track/6D6N8pH1B0K2FI6DC2bxeY"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Noget Med Noget",
         "url": "https://open.spotify.com/album/1AD9rLclpmI9abg4LMYYNH"
@@ -949,7 +1021,39 @@
       "url": "https://open.spotify.com/track/256J9I7Vp9SiPrUaxPqAw7"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "EV1GT&ALT1D",
+        "url": "https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 180908,
+      "name": "TIL VI D\u00d8R",
+      "url": "https://open.spotify.com/track/1EWIROunAjtVo8bZtOEt7w"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "F\u00d8RSTE M\u00d8DE",
+        "url": "https://open.spotify.com/album/4wXmOKjr5zYQqktDAQyHKe"
+      },
+      "artists": [
+        {
+          "name": "AMAL",
+          "url": "https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD"
+        }
+      ],
+      "duration_ms": 169234,
+      "name": "F\u00d8RSTE M\u00d8DE",
+      "url": "https://open.spotify.com/track/2wsrfdApbrHB5OlPdwJqyz"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Ny Sejr",
         "url": "https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ"
@@ -969,23 +1073,7 @@
       "url": "https://open.spotify.com/track/1LzZuD8TsgFC8kG5DoocWb"
     },
     {
-      "added_at": "2023-10-06 10:45:26",
-      "album": {
-        "name": "EV1GT&ALT1D",
-        "url": "https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw"
-      },
-      "artists": [
-        {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
-        }
-      ],
-      "duration_ms": 180908,
-      "name": "TIL VI D\u00d8R",
-      "url": "https://open.spotify.com/track/1EWIROunAjtVo8bZtOEt7w"
-    },
-    {
-      "added_at": "2023-10-06 10:45:26",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Run Away",
         "url": "https://open.spotify.com/album/6r4uMfuIDI5l3nYjLELNmx"

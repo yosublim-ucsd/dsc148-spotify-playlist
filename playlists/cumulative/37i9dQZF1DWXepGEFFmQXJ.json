@@ -1470,7 +1470,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 183906,
       "name": "Country Boy's Dream Girl",
       "url": "https://open.spotify.com/track/1UlwFwRrb4Kth3TwnjBAJV"
@@ -2953,6 +2953,24 @@
     },
     {
       "album": {
+        "name": "The Heartland EP",
+        "url": "https://open.spotify.com/album/7ihEHyfbFjHfLrrGeKOgvN"
+      },
+      "artists": [
+        {
+          "name": "Taylor Moss",
+          "url": "https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195326,
+      "name": "Guitar & A Suitcase",
+      "url": "https://open.spotify.com/track/59Er5XFfEdfPQcsEdwdvrb"
+    },
+    {
+      "album": {
         "name": "Half the Man",
         "url": "https://open.spotify.com/album/6J9yFlQhmFK4ehkTkEb4W3"
       },
@@ -3661,6 +3679,28 @@
     },
     {
       "album": {
+        "name": "I Will (When You Do)",
+        "url": "https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        },
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207533,
+      "name": "I Will (When You Do)",
+      "url": "https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4"
+    },
+    {
+      "album": {
         "name": "I Wonder",
         "url": "https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy"
       },
@@ -3828,6 +3868,24 @@
       "duration_ms": 171880,
       "name": "It Matters To Her",
       "url": "https://open.spotify.com/track/4aSRUXfKuBbmje0eXNukuL"
+    },
+    {
+      "album": {
+        "name": "It Takes A Woman",
+        "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246986,
+      "name": "It Takes A Woman",
+      "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
     },
     {
       "album": {
@@ -5318,7 +5376,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 226558,
       "name": "One More Song",
       "url": "https://open.spotify.com/track/5Qe3FZ4tEgTyoD493M5YlS"
@@ -8260,7 +8318,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 214040,
       "name": "When You Walked Into The Room",
       "url": "https://open.spotify.com/track/2sDQsJlSp9AZ9msGol5PMM"

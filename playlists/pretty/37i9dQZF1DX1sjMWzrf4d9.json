@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib?si=TNRwnRDwQCScvT6x3LhYzQ\">Ziwe Fumudoh</a>",
-  "num_followers": 1446,
+  "num_followers": 1447,
   "original_name": "Ziwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWU0MTFiMzJmNDg5MmRiYTRjN2FkYWVmYzFkYmY2ZTE5M2Y0MTMy",
+  "snapshot_id": "MCw3YmI1YjJmMDIzOGU5YmI4ZmRjYWZjYWMwN2I2NWMzNTc3OWM5MGY4",
   "tracks": [
     {
       "added_at": "2022-12-01 09:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 308820,
-      "name": "Texts Go Green",
-      "url": "https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "Late Nights With Jeremih",
         "url": "https://open.spotify.com/album/6BaIJnFDztZfnTCxyJxAo4"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 263785,
       "name": "All The Time (feat. Lil Wayne & Natasha Mosley)",
       "url": "https://open.spotify.com/track/7JWmo14H5J8aUZ5b18kbev"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 308820,
+      "name": "Texts Go Green",
+      "url": "https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "The Hits",
-        "url": "https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7"
-      },
-      "artists": [
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        }
-      ],
-      "duration_ms": 182813,
-      "name": "Milkshake",
-      "url": "https://open.spotify.com/track/4LmzPJDil70LpiApWfOI6O"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 602296,
       "name": "Freudian",
       "url": "https://open.spotify.com/track/4nESnAOALHmxg8UFCCtXhO"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "Milkshake",
+      "url": "https://open.spotify.com/track/4LmzPJDil70LpiApWfOI6O"
     },
     {
       "added_at": "2022-12-01 09:00:00",

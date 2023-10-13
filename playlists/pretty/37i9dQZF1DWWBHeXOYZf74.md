@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Omar Apollo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,801 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,791 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 70 | [black mirror](https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 2:17 |
 | 71 | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD) | 3:54 |
 | 72 | [Do The Dance](https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Do The Dance](https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza) | 4:02 |
-| 73 | [Sentry \(feat\. MIKE\)](https://open.spotify.com/track/5L2zGgJi9BlL3CjVF4KL7W) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Sentry \(feat\. MIKE\)](https://open.spotify.com/album/5XrYVLVAJTGiBt43Pdusuo) | 2:21 |
+| 73 | [Sentry \(feat\. MIKE\)](https://open.spotify.com/track/5L2zGgJi9BlL3CjVF4KL7W) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Sentry \(feat\. MIKE\)](https://open.spotify.com/album/5XrYVLVAJTGiBt43Pdusuo) | 2:16 |
 | 74 | [Blue Hundreds](https://open.spotify.com/track/4DHupq2NA0tvJXNOmwHZJi) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:44 |
 | 75 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 | 76 | [Pet Rock](https://open.spotify.com/track/3rmTtAIJydBOPohvykKubn) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Pet Rock](https://open.spotify.com/album/6OhhcYS7IB3M7gtNucP8Iz) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [Mates](https://open.spotify.com/track/7caHa8cZXqyzCv0JGwzL12) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Mates](https://open.spotify.com/album/7GW3JPpqLTzy7LjSujyWPT) | 4:57 |
 | 100 | [Charge It](https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:05 |
 
-Snapshot ID: `MCw2ZTE5ODRhZTQ1ODcxZmJmNzdlNWM3MGEzMTM5NDI2ODgyMTdmOGM0`
+Snapshot ID: `MCwyMDdiZWMyNDNjYWFiNjZlMDc4YWFiYjliZWRlYzY4NjI0ZTg5NGNk`

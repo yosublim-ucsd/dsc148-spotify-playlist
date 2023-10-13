@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: \u67cf\u9716 (PoLin)",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: Juice Boy",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -397,6 +397,28 @@
     },
     {
       "album": {
+        "name": "cos idk how",
+        "url": "https://open.spotify.com/album/4vkYp8TEchsqjKSuCR0oHt"
+      },
+      "artists": [
+        {
+          "name": "Soph T.",
+          "url": "https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP"
+        },
+        {
+          "name": "Sherman Zhuo",
+          "url": "https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "cos idk how",
+      "url": "https://open.spotify.com/track/1DozwzMwdx5ovfQfRs6dtb"
+    },
+    {
+      "album": {
         "name": "Dadi (feat. Vera Chai)",
         "url": "https://open.spotify.com/album/7zDsEOFLq0SJ3CmNadx2ps"
       },
@@ -528,7 +550,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 157142,
       "name": "Don't You - Heineken Refresh Mix",
       "url": "https://open.spotify.com/track/5LLiVQdIRkMQU4UOaijHym"
@@ -2140,7 +2162,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 170204,
       "name": "sharp knife",
       "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
@@ -2427,6 +2449,28 @@
     },
     {
       "album": {
+        "name": "Target (feat. Karencici)",
+        "url": "https://open.spotify.com/album/6smv82OAQXXhbok6DFCp0y"
+      },
+      "artists": [
+        {
+          "name": "Juice Boy",
+          "url": "https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H"
+        },
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Target (feat. Karencici)",
+      "url": "https://open.spotify.com/track/2ulcss4bdzR92Sa8BM3MZn"
+    },
+    {
+      "album": {
         "name": "tbh",
         "url": "https://open.spotify.com/album/6HjV1YoD29GqhlpcYV3Lym"
       },
@@ -2624,7 +2668,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 130200,
       "name": "whatnot (ft. \u6728\u6728mumu)",
       "url": "https://open.spotify.com/track/0eJRc05BRVvdUekEGko7oj"
@@ -2954,7 +2998,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 232917,
       "name": "\u4e0a\u9396",
       "url": "https://open.spotify.com/track/5vDksybGZvVKPvWvYVu5TA"
@@ -3402,7 +3446,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 196750,
       "name": "\u4f60\u8aaa\u9019\u53eb\u5929\u79e4\u5ea7\u4f46\u4f60\u559c\u6b61",
       "url": "https://open.spotify.com/track/5vYF35h9hdvYWfCL3Zb8Xj"
@@ -3996,7 +4040,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 210418,
       "name": "\u56e0\u70ba\u6211\u9084\u5e74\u8f15",
       "url": "https://open.spotify.com/track/2rJZJT8waYGkWIDlP6OKVI"
@@ -4156,7 +4200,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 273000,
       "name": "\u591a\u4e45\u624d\u61c2\u59b3\u7684\u5fc3",
       "url": "https://open.spotify.com/track/3bKO2AM761yeB65LFdVcK4"
@@ -4544,7 +4588,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 143214,
       "name": "\u5c31\u7b97\u4e16\u754c\u7d42\u7d50",
       "url": "https://open.spotify.com/track/1KOxYSLeEUj4NSrFk2HLsg"
@@ -4830,6 +4874,50 @@
       "duration_ms": 182805,
       "name": "\u60c5\u4fb6\u978b",
       "url": "https://open.spotify.com/track/7wPZGWCCpP6wpzrxjiKJzy"
+    },
+    {
+      "album": {
+        "name": "\u5931\u6200\u6d3e\u5c0d",
+        "url": "https://open.spotify.com/album/7DTYlKTfn1drFrfmpTNUK1"
+      },
+      "artists": [
+        {
+          "name": "G5SH",
+          "url": "https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd"
+        },
+        {
+          "name": "Yi Liou",
+          "url": "https://open.spotify.com/artist/79ccqfxwTxpZVjdcAu4roP"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182791,
+      "name": "\u60c5\u4fb6\u978b",
+      "url": "https://open.spotify.com/track/1KRENSWOmCxbKiK975y9Mg"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u9060\u8655",
+        "url": "https://open.spotify.com/album/3OfDmuDl9aMma0I8JxtYeA"
+      },
+      "artists": [
+        {
+          "name": "Marz23",
+          "url": "https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9"
+        },
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227907,
+      "name": "\u60c5\u52d2",
+      "url": "https://open.spotify.com/track/7jhNUTHoYXFuoeL353Wr3w"
     },
     {
       "album": {
@@ -5858,7 +5946,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 300383,
       "name": "\u6a5f\u5834",
       "url": "https://open.spotify.com/track/6FeEzoxcZmfy8kDplfP9Py"
@@ -5996,6 +6084,28 @@
       "duration_ms": 264274,
       "name": "\u6d77\u670b\u53cb (ft.CHILLBAKA)",
       "url": "https://open.spotify.com/track/6pSW8xGp75rokyqjMNroGs"
+    },
+    {
+      "album": {
+        "name": "\u5927\u9006\u4e0d\u9053",
+        "url": "https://open.spotify.com/album/4pmimPqqUWaflYZ0MCzNYn"
+      },
+      "artists": [
+        {
+          "name": "Asiaboy \u7981\u85e5\u738b \uff06 Lizi \u6817\u5b50",
+          "url": "https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ"
+        },
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226250,
+      "name": "\u6dda ft. \u9673\u5ffb\u73a5 Vicky Chen",
+      "url": "https://open.spotify.com/track/3ZWsSvDyKxyjGy6IGrCpBt"
     },
     {
       "album": {
@@ -6470,7 +6580,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 214927,
       "name": "\u77e5\u9053\u4f60\u904e\u5f97\u4e0d\u592a\u597d\u6211\u5c31\u653e\u5fc3\u4e86 (feat. Teezy)",
       "url": "https://open.spotify.com/track/1XqSUfBkz9jacZOgOkwy2C"
@@ -7114,6 +7224,24 @@
       "duration_ms": 226774,
       "name": "\u8d77\u9ede",
       "url": "https://open.spotify.com/track/2uJgXbj2oav0Z57t4gIruz"
+    },
+    {
+      "album": {
+        "name": "\u8d95\u4e0d\u8d70\u7684\u4f60",
+        "url": "https://open.spotify.com/album/7vO1kneh8tZbj2lvnuh4ja"
+      },
+      "artists": [
+        {
+          "name": "Young",
+          "url": "https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281807,
+      "name": "\u8d95\u4e0d\u8d70\u7684\u4f60",
+      "url": "https://open.spotify.com/track/0vFIIyIU9ivCuVV4giU8jU"
     },
     {
       "album": {

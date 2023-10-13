@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW!  BERCHANDYA! Cover: Tilu, Ali Sariah",
-  "num_followers": 16357,
+  "num_followers": 16377,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmY0Zjk4Zjc1OGY5MDdiNzQ3M2NmYzZhYmRjMzVmNGZiYzVjMjhl",
+  "snapshot_id": "MCxhN2RjMzdjZTEzN2UzNzNhZjBkNGE3ZmQ5ZjBlZTcyMDVjZDA1MmY1",
   "tracks": [
     {
       "added_at": "2023-10-06 08:47:59",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-10-06 08:47:59",
       "album": {
+        "name": "penjaga hati",
+        "url": "https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 260346,
+      "name": "penjaga hati",
+      "url": "https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO"
+    },
+    {
+      "added_at": "2023-10-06 08:47:59",
+      "album": {
         "name": "Haunting",
         "url": "https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 189158,
       "name": "Haunting",
       "url": "https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ"
-    },
-    {
-      "added_at": "2023-10-06 08:47:59",
-      "album": {
-        "name": "penjaga hati",
-        "url": "https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a"
-      },
-      "artists": [
-        {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
-        }
-      ],
-      "duration_ms": 260346,
-      "name": "penjaga hati",
-      "url": "https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO"
     },
     {
       "added_at": "2023-10-06 08:47:59",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-10-06 08:47:59",
       "album": {
-        "name": "Flip It Up",
-        "url": "https://open.spotify.com/album/6Em77lD3FmCc1CkNVu3iYj"
+        "name": "Tawa",
+        "url": "https://open.spotify.com/album/04uwdQzsYFw7yRsCj0u3DT"
       },
       "artists": [
         {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
         }
       ],
-      "duration_ms": 186894,
-      "name": "Flip It Up",
-      "url": "https://open.spotify.com/track/6ls04sZoLvBNXwvi7XsZK5"
+      "duration_ms": 255375,
+      "name": "Tawa",
+      "url": "https://open.spotify.com/track/2cUtg4hpCug4Gc9aibZIYV"
     },
     {
       "added_at": "2023-10-06 08:47:59",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-10-06 08:47:59",
       "album": {
-        "name": "Tawa",
-        "url": "https://open.spotify.com/album/04uwdQzsYFw7yRsCj0u3DT"
+        "name": "Flip It Up",
+        "url": "https://open.spotify.com/album/6Em77lD3FmCc1CkNVu3iYj"
       },
       "artists": [
         {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
         }
       ],
-      "duration_ms": 255375,
-      "name": "Tawa",
-      "url": "https://open.spotify.com/track/2cUtg4hpCug4Gc9aibZIYV"
+      "duration_ms": 186894,
+      "name": "Flip It Up",
+      "url": "https://open.spotify.com/track/6ls04sZoLvBNXwvi7XsZK5"
     },
     {
       "added_at": "2023-10-06 08:47:59",

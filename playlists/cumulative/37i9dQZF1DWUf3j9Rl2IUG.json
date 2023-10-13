@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG?si=2-B6h7PLTd20CGZtBywsBg\"> Bayanni </a>   ",
+  "description": "Afrobeats' hottest singles. Cover:  <a href=\"https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR?si=8l0ZFAOsS0K3OP-UZAArdw\"> DJ Neptune </a>  and <a href=\"https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF?si=ny0fp0AOTJmEpTxgXwTrIA\"> Joeboy </a>  ",
   "name": "Gbedu",
   "tracks": [
     {
@@ -680,6 +680,32 @@
       "duration_ms": 191113,
       "name": "Belle Full",
       "url": "https://open.spotify.com/track/7ppSFPUTqVqp97SmOci4q8"
+    },
+    {
+      "album": {
+        "name": "EZIOKWU",
+        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233571,
+      "name": "BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale)",
+      "url": "https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m"
     },
     {
       "album": {
@@ -1690,7 +1716,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 189026,
       "name": "Gbedu",
       "url": "https://open.spotify.com/track/1XhTCQFzYcgFeJpkw2x2VV"
@@ -2658,7 +2684,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 181283,
       "name": "Low Waist",
       "url": "https://open.spotify.com/track/5rb99A8aR2scVXSLIbLAft"
@@ -2794,6 +2820,28 @@
       "duration_ms": 150491,
       "name": "Move",
       "url": "https://open.spotify.com/track/6g8Ztyoym7VNLEzl8alsJK"
+    },
+    {
+      "album": {
+        "name": "Mumu",
+        "url": "https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Mumu",
+      "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
     },
     {
       "album": {

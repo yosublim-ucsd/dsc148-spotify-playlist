@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 219815,
+  "num_followers": 219881,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWM3MDc3ZWFmOTJkMzIyN2M3ZmE4MTRjYjVjNmE4ZGVlZjEyNDYw",
+  "snapshot_id": "MCxmMDQwODRmZWQ5M2M3YjYzZjA3NWRkODczZjBkOGU4YmZiNmZiZjRh",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Greatest Hits: Blondie",
-        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
+        "name": "Straight from the Heart (Remastered)",
+        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
       },
       "artists": [
         {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
         }
       ],
-      "duration_ms": 299373,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL"
+      "duration_ms": 319893,
+      "name": "Remind Me - Remastered",
+      "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Straight from the Heart (Remastered)",
-        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
+        "name": "Greatest Hits: Blondie",
+        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
       },
       "artists": [
         {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 319893,
-      "name": "Remind Me - Remastered",
-      "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
+      "duration_ms": 299373,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Summertime Groove",
-        "url": "https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB"
-      },
-      "artists": [
-        {
-          "name": "Bohannon",
-          "url": "https://open.spotify.com/artist/3opvWF0Koer2VPIJVOqnU6"
-        }
-      ],
-      "duration_ms": 352106,
-      "name": "Let's Start The Dance",
-      "url": "https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Charles Webster - Coast2Coast",
         "url": "https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 396546,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Summertime Groove",
+        "url": "https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB"
+      },
+      "artists": [
+        {
+          "name": "Bohannon",
+          "url": "https://open.spotify.com/artist/3opvWF0Koer2VPIJVOqnU6"
+        }
+      ],
+      "duration_ms": 352106,
+      "name": "Let's Start The Dance",
+      "url": "https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
-        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
-      },
-      "artists": [
-        {
-          "name": "Ashford & Simpson",
-          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
-        }
-      ],
-      "duration_ms": 423240,
-      "name": "Found a Cure - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "M.V.P. (Expanded Edition)",
         "url": "https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 300826,
       "name": "On and On",
       "url": "https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
+        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
+      },
+      "artists": [
+        {
+          "name": "Ashford & Simpson",
+          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
+        }
+      ],
+      "duration_ms": 423240,
+      "name": "Found a Cure - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Watchin Out",
-        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
-      },
-      "artists": [
-        {
-          "name": "Frazelle",
-          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
-        }
-      ],
-      "duration_ms": 320851,
-      "name": "Today Is the Day - Linkwood Chop",
-      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Disco Baby",
         "url": "https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 229734,
       "name": "Disco Baby - Floating Points & Red Greg Edit",
       "url": "https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Watchin Out",
+        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
+      },
+      "artists": [
+        {
+          "name": "Frazelle",
+          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
+        }
+      ],
+      "duration_ms": 320851,
+      "name": "Today Is the Day - Linkwood Chop",
+      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
     },
     {
       "added_at": "2022-09-05 16:54:43",

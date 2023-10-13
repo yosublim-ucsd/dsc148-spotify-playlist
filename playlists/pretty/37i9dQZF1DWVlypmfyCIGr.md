@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 少年キッズボウイ
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,708 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,693 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [CH4NGE](https://open.spotify.com/track/0tZNBm62R9dr5xCHONe4r0) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [CH4NGE](https://open.spotify.com/album/01RDfYld8bmfLUyxx2nqm4) | 2:13 |
 | 80 | [光を浴びて](https://open.spotify.com/track/6w8teS79FT2JV8XV4EgZDj) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [光を浴びて](https://open.spotify.com/album/2gmerqerD6iqVX4RgzDWGt) | 3:45 |
 
-Snapshot ID: `MCw1Nzc3Yzg2YjQyYWM0MjJiODc3MDViY2M5MTM3MTIwNjE3YTA5MGFi`
+Snapshot ID: `MCxmOTYxN2Y2Mjk4NzZkN2M0MTcyMDhjZThkMzU0ZDUzYjU2ZDM1MWVk`

@@ -4,7 +4,7 @@
 
 > Music from "Dr.STONE" /「Dr.STONE」の楽曲を1つのプレイリストで。©米スタジオ・Boichi／集英社・Dr.STONE製作委員会
 
-50 songs - 2 hr 27 min
+51 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,5 +58,6 @@
 | [声?](https://open.spotify.com/track/00EAiVX99rZ4rlYFLItPcC) | [はてな](https://open.spotify.com/artist/3HueoTIeJ7XZYpiu8eadUM) | [声?](https://open.spotify.com/album/6wbxrXya4hrgjELtSpgGaG) | 4:07 | 2023-09-28 |  |
 | [夢のような](https://open.spotify.com/track/0sUDRs6IsFW6vZSLuHS531) | [佐伯ユウスケ](https://open.spotify.com/artist/7bjHzqnMSYi84ljh01L8DM) | [夢のような](https://open.spotify.com/album/1UqA1kcXUl54nWPbh4W55k) | 3:50 | 2023-09-28 |  |
 | [楽園](https://open.spotify.com/track/6X9m9JRk2ypGusClUBraII) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [楽園](https://open.spotify.com/album/0Mr39HG5mzEClMKWpQGrGo) | 3:45 | 2023-09-28 |  |
+| [遥か](https://open.spotify.com/track/5DjOVg4mTlMHWsLREAHe7S) | [Ryujin Kiyoshi](https://open.spotify.com/artist/15c6wAJcxNMHjSZVjgE8VW) | [遥か](https://open.spotify.com/album/3YDS1skzsx5PZk0HspoEm9) | 3:01 | 2023-10-12 |  |
 
 \*This playlist was first scraped on 2023-09-30. Prior content cannot be recovered.

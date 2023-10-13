@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: GAIKAI\. Artwork: Isu Kim
+> ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: JR KVZ, Ging Daisy Monday\. Artwork: Isu Kim
 
-802 songs - 2 day 2 hr 50 min
+803 songs - 2 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [NLYD](https://open.spotify.com/track/6IqSwIwXqyxyn5cX6TaCQe) | [AXCE WINTER](https://open.spotify.com/artist/6MfqX4PRjxHwawy2ArWbqL) | [NLYD](https://open.spotify.com/album/3Xs7PKu8Bcp6Xwf7WIyEnw) | 3:33 | 2023-05-19 | 2023-05-27 |
 | [NO.1](https://open.spotify.com/track/3tpKwPBhe8j4kvlXQ8KERl) | [NwN YD](https://open.spotify.com/artist/2pKNB91zsSoPmwm6qlaWPr) | [NO.1](https://open.spotify.com/album/4fjjSVwuXR42NZbhRXT7to) | 2:45 | 2023-05-26 | 2023-06-03 |
 | [No.1 \(โปรดเลือกฉันเป็นความรักอีกครั้ง\)](https://open.spotify.com/track/3rqUnxDMRgFxpxEndsHTpY) | [Hiwwhee](https://open.spotify.com/artist/1oo8Xnp5XgrWYL8NyZmLSW) | [No.1 \(โปรดเลือกฉันเป็นความรักอีกครั้ง\)](https://open.spotify.com/album/5c3fKpneFORRCQm6XZkCqf) | 4:17 | 2022-11-04 | 2022-12-02 |
-| [nostalgia](https://open.spotify.com/track/510pSTAwXOV6fMLUHbAPrh) | [Jing](https://open.spotify.com/artist/2Jr86sjAohy5az25fRUfSz) | [nostalgia](https://open.spotify.com/album/5omm9bGX3Szo3y1Ks13T0I) | 2:55 | 2023-09-08 |  |
+| [nostalgia](https://open.spotify.com/track/510pSTAwXOV6fMLUHbAPrh) | [Jing](https://open.spotify.com/artist/2Jr86sjAohy5az25fRUfSz) | [nostalgia](https://open.spotify.com/album/5omm9bGX3Szo3y1Ks13T0I) | 2:55 | 2023-09-08 | 2023-10-13 |
 | [notOKkrubbossX](https://open.spotify.com/track/3a45uca8fm2zk46M2pBwcg) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [notOKkrubbossX](https://open.spotify.com/album/7aKVWeLmAGGlXBb61cUnTU) | 3:53 | 2023-06-30 | 2023-08-26 |
 | [Now or Never](https://open.spotify.com/track/2yC0X3ZawPFWMHohgSoG9k) | [Jack Jarupong](https://open.spotify.com/artist/1NxFa9zKNgTVu486TAZqr3) | [Now or Never](https://open.spotify.com/album/0EZL5i09bkaFbFWMbOo1m0) | 3:40 | 2022-10-28 | 2022-11-05 |
 | [OC NO IC](https://open.spotify.com/track/4JRbJPTxTnDuqpKHRltq2r) | [TANTHAM](https://open.spotify.com/artist/3LhLCj9BmCSjbbQlukNAG7), [MOON](https://open.spotify.com/artist/6r5W7XKP7KNzxUby9XNzQd), [TRILØGY](https://open.spotify.com/artist/3MVDI9OPhL1k719RkUK5l1) | [OC NO IC](https://open.spotify.com/album/1ues2ru0xp8DPbd667miGm) | 3:19 | 2022-09-15 | 2022-09-24 |
@@ -584,6 +584,7 @@
 | [อยากที่จะลืม \(Blue rubber\)](https://open.spotify.com/track/3scf4Y2sUoSXCyNScr5EVJ) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [อยากที่จะลืม \(Blue rubber\)](https://open.spotify.com/album/0wOojkUDqliBbc2VgdTOMB) | 4:20 | 2022-12-16 | 2023-01-06 |
 | [อยากฟังเพลงรักบ้างไหม?](https://open.spotify.com/track/1j7IozAGDxmDdFfoXdNUt5) | [Mek Sippanun](https://open.spotify.com/artist/1Z5XbfiRj15ojnSJsovqGc), [Fahlithh](https://open.spotify.com/artist/3aAcqoGEAiCQD4LSdTR473) | [อยากฟังเพลงรักบ้างไหม?](https://open.spotify.com/album/4pBUzAxDh9PdELlTduSYsR) | 4:48 | 2023-03-17 | 2023-05-27 |
 | [อยากมีรัก \(Thought\)](https://open.spotify.com/track/1gXEQGmm0FIRkFjrP0mCkU) | [Jeone 247units](https://open.spotify.com/artist/6Ru9bnkSQ3Xsk5tuaNStFa) | [อยากมีรัก \(Thought\)](https://open.spotify.com/album/2AZz5fJ2WOM6qi1FkgWJTJ) | 4:17 | 2022-12-23 | 2023-03-25 |
+| [อยากมีใครซ่อนไว้ในเพลง](https://open.spotify.com/track/3JfYPi8G9MfWYcF0NJRuXC) | [JR KVZ](https://open.spotify.com/artist/614EUUtkxBH7rs3ijv67tF), [Ging Daisy Monday](https://open.spotify.com/artist/6YDx8umF1kVY2LDM32GWXj) | [อยากมีใครซ่อนไว้ในเพลง](https://open.spotify.com/album/18nhfWlwBbYzEQh5VPS0Ga) | 4:01 | 2023-10-12 |  |
 | [อยากสิงเธอจัง](https://open.spotify.com/track/0YKfnxt9NBhffS3HYox37l) | [Wawa Yanisa](https://open.spotify.com/artist/51dVGJxTTHiCSW74SBJ1UM) | [อยากสิงเธอจัง](https://open.spotify.com/album/3UkEJCzhqAa18rORFOkyoq) | 3:12 | 2022-11-18 | 2022-11-26 |
 | [อยากอยู่ในลิสต์เพลงโปรดของเธอบ้าง](https://open.spotify.com/track/3je6sH5k8rNpNRXHb6kpOy) | [youarelikearayofsunshinetome](https://open.spotify.com/artist/77tcLVqeyAdYsntQ0pT0pn) | [อยากอยู่ในลิสต์เพลงโปรดของเธอบ้าง](https://open.spotify.com/album/0kvNXnHpSjOjb1pxw8ezbA) | 4:00 | 2023-05-26 | 2023-06-10 |
 | [อยากให้เธอได้รู้](https://open.spotify.com/track/2qw8rqqDZMo375uLKmfLYB) | [WPPER](https://open.spotify.com/artist/2qJ5MVqne3pml03CvtmDvd), [Kenmuai](https://open.spotify.com/artist/1UV7nqqTeXTLF7DU2AuzJM) | [อยากให้เธอได้รู้](https://open.spotify.com/album/43K5CGNFTWPCRlt88bTV5y) | 3:21 | 2023-07-28 |  |

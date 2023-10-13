@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,809 likes - 71 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,846 likes - 71 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 24 | [LIVE\-O \- Haai Remix](https://open.spotify.com/track/1KWoVLw43OxWMNuA7gS7WS) | [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [LIVE\-O \(HAAi remix\)](https://open.spotify.com/album/0CyDae0WkQmAu3LN6BrnLi) | 3:12 |
 | 25 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
 | 26 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 |
-| 27 | [Jordan 1s](https://open.spotify.com/track/2VU0FHPZfnkCYQLTTosD9e) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr) | [Jordan 1s](https://open.spotify.com/album/6wWL8dHpzUOG6pR01OQmpy) | 3:09 |
+| 27 | [Jordan 1s](https://open.spotify.com/track/2VU0FHPZfnkCYQLTTosD9e) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Jordan 1s](https://open.spotify.com/album/6wWL8dHpzUOG6pR01OQmpy) | 3:09 |
 | 28 | [Hide The Pain](https://open.spotify.com/track/49uf6X9dJUhr2qBNjB6Qfc) | [Yash Bansal](https://open.spotify.com/artist/3sqpT2IVKtrhy6tfv0NosT) | [Hide The Pain](https://open.spotify.com/album/5muEv1DPTWmAKuokogULAs) | 3:49 |
 | 29 | [Why Don't I Feel](https://open.spotify.com/track/53hSjJoLvpo60MOlAq2WdW) | [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve) | [N\_O CALLER ID](https://open.spotify.com/album/3qxLKEhHClX5kruHh5rb85) | 3:36 |
 | 30 | [Rhinoplasty](https://open.spotify.com/track/2GWnD736qlpwqcJMnZJVoC) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Sidechains Club Vol\. 3](https://open.spotify.com/album/5kI5MSCHRI74wLyse4aa5I) | 4:47 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 70 | [Evening Time \(feat\. KAM\-BU & BXKS\)](https://open.spotify.com/track/25D1IY6rHJhm8PZHN9DNev) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Evening Time \(feat\. KAM\-BU & BXKS\)](https://open.spotify.com/album/5V9hEnW2hEWOK7SR8p8PgF) | 3:16 |
 | 71 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
 
-Snapshot ID: `MCwyYzY1NWRjMmZjM2FjYjZhNWVmZjU2MWM4N2M5N2FhZjRlMDhkYjQ2`
+Snapshot ID: `MCwzNzE0MTUzMTY1ZmU2ZjIyOTVmMzE5ZTc2YjA5MWY4NmMwZWIxNmY5`

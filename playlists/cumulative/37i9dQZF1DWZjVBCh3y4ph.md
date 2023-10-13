@@ -2,7 +2,7 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Barth
+> Les hits zouk du moment\. Photo : Fanny J x Nesly
 
 43 songs - 2 hr 21 min
 

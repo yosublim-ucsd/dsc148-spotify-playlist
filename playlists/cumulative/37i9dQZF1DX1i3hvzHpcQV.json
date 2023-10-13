@@ -1005,6 +1005,32 @@
     },
     {
       "album": {
+        "name": "Maamadura (From \"Jigarthanda DoubleX\")",
+        "url": "https://open.spotify.com/album/6ndlH0frO7Ol70wcwNrcIS"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Maamadura - From \"Jigarthanda DoubleX\"",
+      "url": "https://open.spotify.com/track/5DezAsjtSLUxW9j00eh0Ia"
+    },
+    {
+      "album": {
         "name": "Dasara (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2RbZdUoJM1OVDhUaly3plr"
       },

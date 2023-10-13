@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,887 likes - 135 songs - 9 hr 11 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,876 likes - 136 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,5 +143,6 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 | 133 | [Hills & Horizons](https://open.spotify.com/track/2V4l1eFzP7imN2HrWmDHxy) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Hills & Horizons](https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h) | 3:32 |
 | 134 | [Anything](https://open.spotify.com/track/68suEvcTsvGpZ2i2Zw3PVE) | [LIN D](https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr) | [Anything](https://open.spotify.com/album/47XMm1xQTyBI0vPuoLPp1W) | 3:04 |
 | 135 | [Stay Strong](https://open.spotify.com/track/5X08wv5osqvAQ1kjfZb04B) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Jesus People](https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5) | 3:18 |
+| 136 | [Come And See](https://open.spotify.com/track/0xGXXhBANmAw51BSM4RjxN) | [Jeremy Rosado](https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY) | [Come And See](https://open.spotify.com/album/5ZfFWKZiYjGbYZcUKmNhyG) | 3:17 |
 
-Snapshot ID: `MzI5MywzYjY0MjY0ZTk4NzdiNDcyNWI1ODQxOTQ5N2RkYWQwODRjZTZkYjM1`
+Snapshot ID: `MzI5NCw0MWVhM2M0ODg0ZTNhOWJjNGU4MGIzMjM5YjU0Y2M3NjhlYzFkNDM5`

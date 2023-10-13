@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,178 likes - 80 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,184 likes - 80 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 57 | [So Sweet](https://open.spotify.com/track/4Ehm5IVHbwkOHiS6kWHgbX) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:27 |
 | 58 | [Baume](https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Baume](https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9) | 4:20 |
 | 59 | [We You](https://open.spotify.com/track/3WQ2ZSaSvkU6cmf6vZZb7Q) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [We You / Track 51](https://open.spotify.com/album/4QQMFcqAbJQgseDTKeC0Ov) | 3:32 |
-| 60 | [Obsessed \- Extended Mix](https://open.spotify.com/track/4xLyA7ZU4dvDnmTlSLdKFs) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [Obsessed EP](https://open.spotify.com/album/75VFo3nmd2EmNnTp6I9lTj) | 7:12 |
+| 60 | [Obsessed \- Extended Mix](https://open.spotify.com/track/3JVxO7366xPzmFqEha1xZS) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [Obsessed](https://open.spotify.com/album/7JYcgSMmsH4JAylYu21jeJ) | 7:12 |
 | 61 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 |
 | 62 | [Take Me High](https://open.spotify.com/track/1EF8Ya2wALJOufB5VQAwtt) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Take Me High](https://open.spotify.com/album/45QHBYLqcIq50K0yCt43J7) | 4:15 |
 | 63 | [Cos Of You](https://open.spotify.com/track/7nAbkjtxvS00NBcOlapI9V) | [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Cos Of You](https://open.spotify.com/album/1N4eo5yQdprG0nLBJ7UlhM) | 6:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 79 | [Door Of The Cosmos \- Armonica Cosmos Mix](https://open.spotify.com/track/2XXCvqEGl1wL8ywsjFJCes) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX), [Armonica](https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy) | [Door Of The Cosmos \(Armonica Cosmos Mix\)](https://open.spotify.com/album/2AGd783U2EtrmGa8ZcdiYb) | 7:12 |
 | 80 | [Diving Into Minds \- Club Mix](https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Diving Into Minds](https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z) | 6:27 |
 
-Snapshot ID: `MCxjY2U1MGEyNzU0MTQwN2VkZTkyNzVmYzQzMjk2YWRjMDFhOGY5MGM4`
+Snapshot ID: `MCwyOTAwY2VmYjRkNGUxM2QwZTBhOWJmMWI5OTQ5YWU0OTc1M2U1ZTYw`

@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 1743,
+  "num_followers": 1748,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjFiNmIxNDQ4MGFlODc0OTFmZGQwNGJlMDA2ZTdmYTcxNDdlYWJh",
+  "snapshot_id": "MCxiZmJjMzM1NDUzNzZjZTZhZDk4NDk2NmM3ZWVjNTU5NzU4ZjI2N2U0",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -491,22 +491,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Zalouzi",
-        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
+        "name": "Soul Sok S\u00e9ga",
+        "url": "https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f"
       },
       "artists": [
         {
-          "name": "JSB Morning Game",
-          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
-        },
-        {
-          "name": "Julien Verloppe",
-          "url": "https://open.spotify.com/artist/40ld1lEZz0y0r3cHngak60"
+          "name": "Claudio",
+          "url": "https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT"
         }
       ],
-      "duration_ms": 250358,
-      "name": "Ti lipi\u00e9 fer rozet",
-      "url": "https://open.spotify.com/track/31pGdVTn8adJ9FV2515Lkd"
+      "duration_ms": 261911,
+      "name": "Bhai Aboo",
+      "url": "https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -547,18 +543,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Soul Sok S\u00e9ga",
-        "url": "https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f"
+        "name": "Zalouzi",
+        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
       },
       "artists": [
         {
-          "name": "Claudio",
-          "url": "https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT"
+          "name": "JSB Morning Game",
+          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
+        },
+        {
+          "name": "Julien Verloppe",
+          "url": "https://open.spotify.com/artist/40ld1lEZz0y0r3cHngak60"
         }
       ],
-      "duration_ms": 261911,
-      "name": "Bhai Aboo",
-      "url": "https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw"
+      "duration_ms": 250358,
+      "name": "Ti lipi\u00e9 fer rozet",
+      "url": "https://open.spotify.com/track/31pGdVTn8adJ9FV2515Lkd"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Zalouzi",
-        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
-      },
-      "artists": [
-        {
-          "name": "JSB Morning Game",
-          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
-        }
-      ],
-      "duration_ms": 281917,
-      "name": "Madame ohh",
-      "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "S\u00e9ga Li Lao",
         "url": "https://open.spotify.com/album/12pEc0RP8s9BTtYW7mY1WX"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 286275,
       "name": "Kitole",
       "url": "https://open.spotify.com/track/7iWQimkoqXZcrpINhfvjuZ"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Zalouzi",
+        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
+      },
+      "artists": [
+        {
+          "name": "JSB Morning Game",
+          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
+        }
+      ],
+      "duration_ms": 281917,
+      "name": "Madame ohh",
+      "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
     },
     {
       "added_at": "2022-08-11 10:05:16",

@@ -1185,6 +1185,28 @@
     },
     {
       "album": {
+        "name": "Computers Take Over The World (Remixes)",
+        "url": "https://open.spotify.com/album/6VhnussdJIvf9LGBVkUr6J"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242112,
+      "name": "Computers Take Over The World - Maddix Remix",
+      "url": "https://open.spotify.com/track/1YvZAl9rv455hj64qOZmj5"
+    },
+    {
+      "album": {
         "name": "Convince",
         "url": "https://open.spotify.com/album/6ipdKigxaFa4UmNtkWlcek"
       },
@@ -2190,7 +2212,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
@@ -2462,7 +2484,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 156384,
       "name": "Give Me",
       "url": "https://open.spotify.com/track/5kbFc1QbGvCRJmQTldYod4"
@@ -3491,6 +3513,28 @@
     },
     {
       "album": {
+        "name": "Let Me Be Your Fantasy",
+        "url": "https://open.spotify.com/album/7xgkEBwCZmK4dOkh2648dV"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Let Me Be Your Fantasy",
+      "url": "https://open.spotify.com/track/4fGOsBz3c3d3CXAmc1kLob"
+    },
+    {
+      "album": {
         "name": "Let Me Think About It Again",
         "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
       },
@@ -3524,7 +3568,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 131428,
       "name": "LFG",
       "url": "https://open.spotify.com/track/68ZnVusVckKXOLW80KGeRh"
@@ -5216,6 +5260,32 @@
       "duration_ms": 229565,
       "name": "Raindrops - Avao Remix",
       "url": "https://open.spotify.com/track/5jZ51sHeSMMGMBLIUjMawb"
+    },
+    {
+      "album": {
+        "name": "Raining On Me (feat. FAST BOY) [FAULHABER Remix]",
+        "url": "https://open.spotify.com/album/0T6SXzu7gPs4s2uNpXrByX"
+      },
+      "artists": [
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        },
+        {
+          "name": "Noel Holler",
+          "url": "https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Raining On Me (feat. FAST BOY) [FAULHABER Remix]",
+      "url": "https://open.spotify.com/track/0HvdV3IXySmFxCp9GTtgMP"
     },
     {
       "album": {

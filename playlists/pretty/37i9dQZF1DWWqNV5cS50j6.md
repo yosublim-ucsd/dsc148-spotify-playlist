@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not NOT pop\. Cover: ericdoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,488 likes - 77 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,262 likes - 77 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 76 | [taste of u](https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [taste of u](https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco) | 2:59 |
 | 77 | [Dizzy Vision](https://open.spotify.com/track/20LTZsoVpBQsbbwkgY9YPb) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Dizzy Vision](https://open.spotify.com/album/2XOFL54zsynsBPicRY3dnX) | 2:47 |
 
-Snapshot ID: `MCxjMzJiMTNiNGE3NTUwODMzYTdlMDg3MGUxZTEwYTNjYWEwZDM1YWRk`
+Snapshot ID: `MCw5YTNlMWU1OTMxYjE0ZDQ2NzdmZTY0MGFkYjExNjllMTBmODliODQw`

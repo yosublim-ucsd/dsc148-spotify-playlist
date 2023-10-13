@@ -4,7 +4,7 @@
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-175 songs - 9 hr 13 min
+176 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Vinyasa Rhytm](https://open.spotify.com/track/2LOv8O1P9CdJn3sZkxQbVi) | [Moira Kent](https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl) | [Vinyasa Rhytm](https://open.spotify.com/album/0uw8jZTriHtecSWAq7NrLi) | 2:52 | 2022-10-25 | 2023-08-12 |
 | [Vistaar](https://open.spotify.com/track/27jJ0tpNrZkd9qQrA40xQj) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Vistaar](https://open.spotify.com/album/0IOthohemR6IYskmq3WhJQ) | 3:32 | 2022-10-25 |  |
 | [Walk of the spirits](https://open.spotify.com/track/4JACIMZAYI7XVct3neUH90) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Walk of the spirits](https://open.spotify.com/album/5tuWm6iduv819xKUFhPDao) | 2:39 | 2023-08-11 |  |
+| [Waves Of Happiness](https://open.spotify.com/track/7hnZqM8r2hZKVXB5vrINSa) | [Armango Bay](https://open.spotify.com/artist/7AmkawHusvlrAoWr90PZPP) | [Waves Of Happiness](https://open.spotify.com/album/4WTzL9gI7lc1Xv1EhEjJnU) | 3:11 | 2023-10-12 |  |
 | [Well of Hope](https://open.spotify.com/track/1nL2bxBSNHt8tFI9T80XWn) | [KunDharma](https://open.spotify.com/artist/3NhCohtDbc2pjX9myuU2YJ) | [Well Of Hope](https://open.spotify.com/album/53dEbBBAkicA0G4mBDPkxc) | 3:08 | 2022-11-25 |  |
 | [whisper](https://open.spotify.com/track/5MUvU7ylgZmnSjwXuquLXZ) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [whisper](https://open.spotify.com/album/0DrbR3dm2neCYUb3Qib5JA) | 2:34 | 2022-09-02 |  |
 | [Whispered Memories](https://open.spotify.com/track/0v24eWUZ2hh9nJjEcb938x) | [Jolene Cedar](https://open.spotify.com/artist/41pIg33NrVsSkXuvOcG9Vs) | [Whispered Memories](https://open.spotify.com/album/5kUUikE5OCvC2OwDTPEl2A) | 2:15 | 2023-06-21 |  |

@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Cover: Duster
 
-456 songs - 1 day 5 hr 53 min
+457 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Luminous](https://open.spotify.com/track/0HIqiZlMuJm7fV4CyxaQF2) | [Youthlim](https://open.spotify.com/artist/0rHYAz4lrtdEHOXNZA7XzC) | [Luminous](https://open.spotify.com/album/001WORXD9jU5p2yIcfzHfd) | 6:08 | 2022-01-19 | 2022-07-19 |
 | [Lux](https://open.spotify.com/track/6VDgwdarNZ5yaQAWhSFPS5) | [Zeruel](https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu) | [Lux](https://open.spotify.com/album/5kHxWoHIvm5u8rV6DD4flR) | 2:42 | 2023-07-21 | 2023-09-30 |
 | [Making Room](https://open.spotify.com/track/2CoP6BbpUoMmTfks7WeDHX) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Together](https://open.spotify.com/album/428iId26KsW5U3fhyC7S3W) | 3:46 | 2022-04-12 | 2023-01-14 |
+| [Mantra](https://open.spotify.com/track/5t8ykLn9zmfzzFtA5bWBlc) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Mantra](https://open.spotify.com/album/3yBPUOCTZbu2FdwvR2piFY) | 6:28 | 2023-10-12 |  |
 | [means to an end \(not enough\)](https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [means to an end \(not enough\)](https://open.spotify.com/album/3lSgb650mqEWwBGZB2vwDT) | 4:40 | 2023-02-09 | 2023-08-12 |
 | [Melody Experiment](https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody Experiment](https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho) | 5:10 | 2023-06-30 |  |
 | [Mind the Wires](https://open.spotify.com/track/0rEVhkcwdi9CcKANWYV0Ot) | [Tears Run Rings](https://open.spotify.com/artist/0cNUrcNznBuZErkcSdHoxJ) | [Always, Sometimes, Seldom, Never](https://open.spotify.com/album/795uPXiy5JMXIpsHtEYmoV) | 4:53 | 2021-10-19 | 2022-12-16 |
@@ -357,7 +358,7 @@
 | [Shirley Temple Tidal Wave](https://open.spotify.com/track/5AqfZijqhbE04nZfyDjfZr) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Crackled](https://open.spotify.com/album/2LgQaWzaoAjlnTgTCtwblE) | 6:36 | 2021-10-19 | 2023-06-08 |
 | [SHOEGAZING \(feat\. No Rome\)](https://open.spotify.com/track/5hXgfUWMLWpZjtSrDP0Efp) | [MISOGI](https://open.spotify.com/artist/778Snztf3N5DXp0kHGFl3g), [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [SHOEGAZING \(feat\. No Rome\)](https://open.spotify.com/album/7zc4AIdY7gsbZvcDtL9Oty) | 3:44 | 2023-06-20 | 2023-07-01 |
 | [Showers](https://open.spotify.com/track/5lJDgnn9Wq06dBoEdMyXuz) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Showers](https://open.spotify.com/album/2BOX9sptUqhm34flUnHuM0) | 3:40 | 2021-10-19 | 2022-12-16 |
-| [Sigh In My Ear](https://open.spotify.com/track/7lvtC5scO2e6fjk8vakUVq) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Sigh In My Ear](https://open.spotify.com/album/0RoDxdxaHbp73JB56oSBzf) | 5:22 | 2023-07-21 |  |
+| [Sigh In My Ear](https://open.spotify.com/track/7lvtC5scO2e6fjk8vakUVq) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Sigh In My Ear](https://open.spotify.com/album/0RoDxdxaHbp73JB56oSBzf) | 5:22 | 2023-07-21 | 2023-10-13 |
 | [sin\. \(feat\. Yunjin\)](https://open.spotify.com/track/7kFgDnOMb1AEKmOnofnylh) | [gozeuneok:](https://open.spotify.com/artist/5GDl6PFdx0n7rPIDgTlSrV), [Yunjin](https://open.spotify.com/artist/4v1XwaMgeiN8T1wrxG6Gfq) | [Things to be Left Behind:](https://open.spotify.com/album/07xp4gVIHOlrdxzfiCHhiV) | 4:08 | 2022-09-29 | 2022-10-28 |
 | [Sink](https://open.spotify.com/track/59oSaOV2RMpdcWzlPsvy42) | [Dog Ears](https://open.spotify.com/artist/3JIof4HxulwCqTMAUdJQO1) | [Sink](https://open.spotify.com/album/3gdzC6RB8QGu2rulkyD6aI) | 2:41 | 2023-02-21 |  |
 | [skin in the game](https://open.spotify.com/track/2EpduTUFSZfeb0GI4CaCQD) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:52 | 2023-07-21 |  |

@@ -4,7 +4,7 @@
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Monsieur Nov
 
-50 songs - 2 hr 35 min
+53 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,15 +34,17 @@
 | [Le code](https://open.spotify.com/track/74SKS91bfQHLomV8rcErwE) | [Myth Syzer](https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu), [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Bisous](https://open.spotify.com/album/34ADaayLcTthIfMqRnbx2t) | 4:40 | 2023-09-28 |  |
 | [Lie \(feat\. Sonik\) \- Version acoustique](https://open.spotify.com/track/66wbCeD09YB0yZ4Y4Ozt12) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF), [Sonik](https://open.spotify.com/artist/1pZnslHopDREVLA0hjtpgR) | [Lie \(feat\. Sonik\) \[Version acoustique\]](https://open.spotify.com/album/4jYYbwybc9rqoRMkICJIkt) | 2:56 | 2023-09-28 |  |
 | [Là où on dort heureux](https://open.spotify.com/track/5BalWculrB3c08qX6wN4pb) | [Tuerie](https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a) | [Papillon Monarque](https://open.spotify.com/album/5WJBBxQz7mhA2XlvWFP7CX) | 2:12 | 2023-09-28 |  |
-| [Maudit](https://open.spotify.com/track/0CyzbKO9MFV1pFCaMbwA1U) | [Abah](https://open.spotify.com/artist/34HGZEcVjKwWtkIebx4tfR) | [Lumière](https://open.spotify.com/album/0crLrXnmTkvukqmoPQh2Yv) | 1:49 | 2023-09-28 |  |
+| [Maudit](https://open.spotify.com/track/0CyzbKO9MFV1pFCaMbwA1U) | [Abah](https://open.spotify.com/artist/34HGZEcVjKwWtkIebx4tfR) | [Lumière](https://open.spotify.com/album/0crLrXnmTkvukqmoPQh2Yv) | 1:49 | 2023-09-28 | 2023-10-13 |
 | [Nous Deux](https://open.spotify.com/track/1Vr26bojJG8VZzg7JYql03) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Idéal](https://open.spotify.com/album/4cyrwuyOwNd6YHf3Gi2cI4) | 3:23 | 2023-09-28 |  |
-| [Novline 5 \- Ella](https://open.spotify.com/track/3La8BcVk0mKP641D68DHWY) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Novline 5 \- Ella](https://open.spotify.com/album/23LI78h9V83LINboG8hmfV) | 3:10 | 2023-09-28 |  |
+| [Novline 5 \- Ella](https://open.spotify.com/track/3La8BcVk0mKP641D68DHWY) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Novline 5 \- Ella](https://open.spotify.com/album/23LI78h9V83LINboG8hmfV) | 3:10 | 2023-09-28 | 2023-10-13 |
 | [P.U.O.](https://open.spotify.com/track/4MzVaIZs5751w1XQdhmfPJ) | [Baeredith](https://open.spotify.com/artist/11gmga2kStANeq9nBa2TMa) | [RESET](https://open.spotify.com/album/7Fe3FMaXNzFVcUm9DZuq3e) | 2:30 | 2023-09-28 |  |
 | [P1M2+](https://open.spotify.com/track/1J83mrCrM6SHUd6Oex6BJT) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [UV](https://open.spotify.com/album/3M6wxcxqY9NfeRTkynRQAA) | 2:38 | 2023-09-28 |  |
 | [PRADA's BIRTHDAY \- A COLORS SHOW](https://open.spotify.com/track/6q8GWj1qGBieT4fDcLV1Mo) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [PRADA’S BIRTHDAY \- A COLORS SHOW](https://open.spotify.com/album/1sTBYpKRWhZCIAcX5RjztP) | 3:14 | 2023-09-28 |  |
+| [quel type de vibe?](https://open.spotify.com/track/2aAgX2pC17FCFB9TtBKFwn) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [quel type de vibe?](https://open.spotify.com/album/4b71KrH0rd453L1aHPN57T) | 1:56 | 2023-10-12 |  |
 | [Reste en Vie](https://open.spotify.com/track/1qkwBaQUYh3HeUlUlGu8YM) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 3:18 | 2023-09-28 |  |
 | [Restons tranquilles](https://open.spotify.com/track/6LW8XqunD8dtcCT1UpBmRG) | [Yakuzian](https://open.spotify.com/artist/5lpfeX5C3gGvxa5dja8JhM) | [Restons tranquilles](https://open.spotify.com/album/0Q3snq5JRm4KHx7uXrO2n4) | 2:55 | 2023-09-28 |  |
 | [Room 69 \- Acoustic version](https://open.spotify.com/track/7pU322ixXzZ1Lostt5Rz1n) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Room 69 \(Acoustic version\)](https://open.spotify.com/album/1TXY709t3Wr10BWHiu9Yem) | 2:50 | 2023-09-28 |  |
+| [Rouge](https://open.spotify.com/track/0MGa47R4L0OFTUd0H2AOBU) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [Rouge](https://open.spotify.com/album/5CEexTwatSOWIHJdarjQiR) | 2:34 | 2023-10-12 |  |
 | [Sacrifices](https://open.spotify.com/track/1t2cHwdbx0lmmYsfdUS0MF) | [Walk in Paris](https://open.spotify.com/artist/7iogfxoFBRb7fwoxDIFJoG), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Nemir](https://open.spotify.com/artist/5f6nz3iqzrfiUfKOIKvLvd) | [Sacrifices](https://open.spotify.com/album/2DfHq4xDVVM7uSGyN8X69l) | 3:13 | 2023-09-28 |  |
 | [Saison](https://open.spotify.com/track/4zi8smCuFzqipfbyLczdnY) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj), [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [Mocha](https://open.spotify.com/album/1ZS8Y52PxhvfAj515Afl73) | 2:56 | 2023-09-28 |  |
 | [Say my name](https://open.spotify.com/track/13IWwumPWR4yxibM1ILGen) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [GINGER LOVE](https://open.spotify.com/album/1XqTyJRbyNXr7cAs3Syc96) | 2:51 | 2023-09-28 |  |
@@ -51,12 +53,13 @@
 | [Sur la rive](https://open.spotify.com/track/01EU33zjVyNNaBK46wfD2X) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp), [Hedges](https://open.spotify.com/artist/4wIqXlUU7ManNDpURytYbJ) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 3:11 | 2023-09-28 |  |
 | [Sérénade](https://open.spotify.com/track/11gx5jgG7Pm6Y5R2Ba6RDB) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 2:39 | 2023-09-28 |  |
 | [TOMBER](https://open.spotify.com/track/2dd9zGIh8vPvki0zVaNkaV) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [TOMBER](https://open.spotify.com/album/2ihjIrroACvpyiGkrXiZBN) | 1:51 | 2023-09-28 |  |
-| [Tout essayé \- Acoustic version](https://open.spotify.com/track/77ZBaOziSr8gYC7r6o1RMh) | [MOORE](https://open.spotify.com/artist/0xCU6JJnQWVFOQd6Zcbtj5) | [Tout essayé \(Acoustic version\)](https://open.spotify.com/album/2u4dt36M3jpHIBh1CiXfk9) | 2:36 | 2023-09-28 |  |
+| [Tout essayé \- Acoustic version](https://open.spotify.com/track/77ZBaOziSr8gYC7r6o1RMh) | [MOORE](https://open.spotify.com/artist/0xCU6JJnQWVFOQd6Zcbtj5) | [Tout essayé \(Acoustic version\)](https://open.spotify.com/album/2u4dt36M3jpHIBh1CiXfk9) | 2:36 | 2023-09-28 | 2023-10-13 |
 | [Tu m'aimes](https://open.spotify.com/track/1tUDGMd4dsqF8cFE3Z7UQq) | [Maheva Ony](https://open.spotify.com/artist/2Qrsf6B7PrwRq27zlCdS49) | [Tu m'aimes](https://open.spotify.com/album/2PpHuRVgWli4YFpDObnmNc) | 2:35 | 2023-09-28 |  |
 | [Tu mens mal](https://open.spotify.com/track/50NmgRTIoJxkwnGLXhplIG) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Tu mens mal](https://open.spotify.com/album/7xkT6u3xmwFtVoBmaeH8Nh) | 3:46 | 2023-09-28 |  |
 | [Un autre que moi](https://open.spotify.com/track/6mW9sMSGdjjMWLAiiG6uf6) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Blessing](https://open.spotify.com/album/1EqLDQ1zxS2Sz5eCcGIRbJ) | 2:40 | 2023-09-28 |  |
 | [Une erreur](https://open.spotify.com/track/7rT5EgRLRIAMf867fTHnTc) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [BTLV](https://open.spotify.com/album/0RVI6Nf64FsFvG8yZJ7JNR) | 2:41 | 2023-09-28 |  |
 | [VENUS](https://open.spotify.com/track/6pWVce5c6JXqFfl7JfJBnl) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [LONGO MAÏ](https://open.spotify.com/album/1e6H42WI9oJ8rOSYDjrIcf) | 3:03 | 2023-09-28 |  |
+| [Viano](https://open.spotify.com/track/6BYlMc8prfYvFoqTbIuGQf) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Viano](https://open.spotify.com/album/7dpcQRInh1WFjqcE3Llvtb) | 2:46 | 2023-10-12 |  |
 | [Violence](https://open.spotify.com/track/5B6u3uSnl7aBwOrwpLxsMJ) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Jusqu'à l'aube](https://open.spotify.com/album/3cuZcv4o0IuNuxPBiq0axn) | 3:08 | 2023-09-28 |  |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

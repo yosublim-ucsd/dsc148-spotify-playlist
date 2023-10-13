@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Vibe Chemistry, HARLEE",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: A Little Sound\n",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -309,6 +309,32 @@
     },
     {
       "album": {
+        "name": "Allstars Mic (feat. DnB Allstars)",
+        "url": "https://open.spotify.com/album/6lNVKBldqAB67t4m1ckmBR"
+      },
+      "artists": [
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+        },
+        {
+          "name": "4K",
+          "url": "https://open.spotify.com/artist/4B5o3KYgu0h7jpphQsrDRP"
+        },
+        {
+          "name": "DnB Allstars",
+          "url": "https://open.spotify.com/artist/6BZteNwG1mxgEFJvBaAGLx"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136551,
+      "name": "Allstars Mic (feat. DnB Allstars)",
+      "url": "https://open.spotify.com/track/5CDSFSwAyL9Ck7sSKjQtdY"
+    },
+    {
+      "album": {
         "name": "Already Disappeared",
         "url": "https://open.spotify.com/album/2KDOAfezL4bJLIrnlONxW7"
       },
@@ -451,6 +477,32 @@
     },
     {
       "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/12Shipy3GiThj28Lt9x4Tt"
+      },
+      "artists": [
+        {
+          "name": "Metrik",
+          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+        },
+        {
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248275,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/6pEQUJelejN4xL3bhE4Khk"
+    },
+    {
+      "album": {
         "name": "Back & Forth",
         "url": "https://open.spotify.com/album/0y87UoNhU7IanBpcRB3uZb"
       },
@@ -488,6 +540,24 @@
       "duration_ms": 259028,
       "name": "Back on Top",
       "url": "https://open.spotify.com/track/1iGIMbVXMxXG0aoFZyBrQs"
+    },
+    {
+      "album": {
+        "name": "Back To Back (B2B)",
+        "url": "https://open.spotify.com/album/6bSMeMnzgxWncuRlL80p3s"
+      },
+      "artists": [
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175546,
+      "name": "Back To Back (B2B)",
+      "url": "https://open.spotify.com/track/0Ax0rAJqWrwJ7Tyib3dvUb"
     },
     {
       "album": {
@@ -4641,6 +4711,28 @@
     },
     {
       "album": {
+        "name": "Keep Running",
+        "url": "https://open.spotify.com/album/6o1vMPIgmD9iJTa0KLRltM"
+      },
+      "artists": [
+        {
+          "name": "Hak Baker",
+          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244531,
+      "name": "Keep Running",
+      "url": "https://open.spotify.com/track/0ijaYwZ2AuH0F9ZNJ5EHFC"
+    },
+    {
+      "album": {
         "name": "Keep Up",
         "url": "https://open.spotify.com/album/5qr55cE8aHiPVwlAzh0Sdn"
       },
@@ -5668,7 +5760,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 171279,
       "name": "Meteor",
       "url": "https://open.spotify.com/track/3q53rFJ6wnhLhm6W8VlA8P"
@@ -9057,6 +9149,28 @@
     },
     {
       "album": {
+        "name": "Too Shy",
+        "url": "https://open.spotify.com/album/1DnTFNdYDFboAGqs9T9BEs"
+      },
+      "artists": [
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "IYAMAH",
+          "url": "https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "Too Shy",
+      "url": "https://open.spotify.com/track/0rA0pNjUoFrnVfrRdl6eQN"
+    },
+    {
+      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/4plyZ7inzzjyLJOLTmLWxg"
       },
@@ -9626,6 +9740,28 @@
       "duration_ms": 193104,
       "name": "Warning",
       "url": "https://open.spotify.com/track/7BmE2mwDV8prI6JQg8Ofv4"
+    },
+    {
+      "album": {
+        "name": "Waste My Time",
+        "url": "https://open.spotify.com/album/72xrwHrXihuGZxJiliuFdz"
+      },
+      "artists": [
+        {
+          "name": "DJ Zinc",
+          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
+        },
+        {
+          "name": "HEIGHTS",
+          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145862,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/6Dy8UR9dhacqq6BJlumXN1"
     },
     {
       "album": {

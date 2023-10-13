@@ -3835,6 +3835,24 @@
     },
     {
       "album": {
+        "name": "Hana",
+        "url": "https://open.spotify.com/album/0v6vQ9tMopUTccn0wUvzQD"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246699,
+      "name": "Hana",
+      "url": "https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh"
+    },
+    {
+      "album": {
         "name": "Hanaarashi",
         "url": "https://open.spotify.com/album/1txQrmehD3TKMQ8a5SQrbv"
       },
@@ -11596,7 +11614,7 @@
       ],
       "date_added": "2023-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 239070,
       "name": "Workin' Hard",
       "url": "https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH"

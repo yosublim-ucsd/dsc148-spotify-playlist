@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Grant Gilbert, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,331 likes - 182 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,386 likes - 182 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 30 | [Just Missed You](https://open.spotify.com/track/08nObjCus7bEElnnGxchLW) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Just Missed You](https://open.spotify.com/album/3jvy7SKl9ZQmvyIHJhL41Y) | 2:50 |
 | 31 | [Until That Song Came On](https://open.spotify.com/track/6tQ0pwHU9ow74Plzdfq4Tu) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Until That Song Came On](https://open.spotify.com/album/1ggR8r3iygWb9nhi9VLFg7) | 3:38 |
 | 32 | [Lovers](https://open.spotify.com/track/5pWCppUFYQwDCSHFW4cFz7) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Lovers](https://open.spotify.com/album/3VVC8mWSXDMSjvcIGwjKrJ) | 2:56 |
-| 33 | [Slow](https://open.spotify.com/track/1tnf4hRWvOWlGTaj6OqkHG) | [Caleb Seth](https://open.spotify.com/artist/5cspkc1oJf5HvR95jLFxtT) | [Slow](https://open.spotify.com/album/2Y6HMPNTxCmpJT7xw7rKXc) | 3:11 |
-| 34 | [The Bed I Made](https://open.spotify.com/track/0oR3IuN0YOoqlWJRI4qSQJ) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [Wanna Be Saved](https://open.spotify.com/album/4BdjNaOmvOspT2oyHnVAtw) | 4:06 |
+| 33 | [The Bed I Made](https://open.spotify.com/track/0oR3IuN0YOoqlWJRI4qSQJ) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [Wanna Be Saved](https://open.spotify.com/album/4BdjNaOmvOspT2oyHnVAtw) | 4:06 |
+| 34 | [Wildfire](https://open.spotify.com/track/61AS0RfmxiG4zHHnNJFsNj) | [Caleb Seth](https://open.spotify.com/artist/5cspkc1oJf5HvR95jLFxtT) | [Wildfire](https://open.spotify.com/album/485IyzP2PbghME4bMS9LZs) | 2:35 |
 | 35 | [Pour My Heart Out](https://open.spotify.com/track/15EHG8LhwOn1eRRjb3KSLJ) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Pour My Heart Out](https://open.spotify.com/album/0SR72BuMowT5gSFqfZpD4y) | 3:38 |
 | 36 | [Walking Man](https://open.spotify.com/track/2peujF6rxIoeKhPwzr4JVZ) | [Dillon James](https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR) | [Walking Man](https://open.spotify.com/album/4ks9ooYdf5guO753gPHTAK) | 3:15 |
 | 37 | [Back to Me](https://open.spotify.com/track/7bHy4yJ8CjEORfR4ZADlth) | [Jenna DeVries](https://open.spotify.com/artist/7zWh6xlYOnoNdJTl2e9na9) | [Back to Me](https://open.spotify.com/album/51wjZ0Wkhk5VId5tT6ju9k) | 3:04 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 181 | [All I Need](https://open.spotify.com/track/0ALoQRB70pKZ7uQJn73ayj) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [All I Need](https://open.spotify.com/album/4gZKOtJnkoalUg98BQONK8) | 2:51 |
 | 182 | [Heart Ain't Gonna Break Itself](https://open.spotify.com/track/7eEgQXDglOtRow46n0bcbh) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0) | [Heart Ain't Gonna Break Itself](https://open.spotify.com/album/2ermdyMMGsZEvXe4tmMZBq) | 2:38 |
 
-Snapshot ID: `MCw5NDg0NWIzYjc4ODQyMjk0YTM2NjM2NTEwYzBjYzBiYjc5ZTA0NTBj`
+Snapshot ID: `MCw4YzcxM2IwOGUwMDE4YmZiODBiOTBkNjY0MGJlOGE4N2M3NDc3ODI1`

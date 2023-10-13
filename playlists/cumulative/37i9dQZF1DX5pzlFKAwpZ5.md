@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Masayoshi Fujita on cover.
 
-236 songs - 17 hr 33 min
+238 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Körper](https://open.spotify.com/track/5LoatYCsraVXB08X6bhpzO) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Raum](https://open.spotify.com/album/1CPBp6tHWeEUM87bEBCpxS) | 5:55 | 2022-10-15 |  |
 | [La Cathédrale Engloutie](https://open.spotify.com/track/0GiSKGYCdQtGXDSCmSxuVb) | [sora](https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7) | [Re.sort](https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9) | 4:04 | 2022-01-07 | 2022-12-21 |
 | [Lachrymation](https://open.spotify.com/track/5SCIlWl5oI8QmSgF9j5mjr) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Lachrymation](https://open.spotify.com/album/4av2tDxEG9t4rlssx6XJUT) | 3:59 | 2022-01-07 |  |
+| [Leaving](https://open.spotify.com/track/2VsCSKol8i9vHyc9S1kI7y) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Leaving](https://open.spotify.com/album/1DyDhZGMs0ta4AFDPgJGTT) | 3:43 | 2023-10-13 |  |
 | [Liberty](https://open.spotify.com/track/2pv4n0WhR3f0IayyG0lc4z) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Envision](https://open.spotify.com/album/2lnwd16ApEAAJ0GNqH7SNq) | 2:39 | 2022-01-07 |  |
 | [Life, Life](https://open.spotify.com/track/63MjNIL7Jsz6uqqE39YCFr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/55BwNuGPkSSKOCBkTSCQWA) | 4:23 | 2022-01-07 | 2022-07-29 |
 | [LIFE, LIFE](https://open.spotify.com/track/7npQjukEKQQYiqSWtqeCvW) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 4:23 | 2022-07-22 |  |
@@ -237,6 +238,7 @@
 | [さてと](https://open.spotify.com/track/5QGQs3ju80BbO5Q3heCVkX) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Dementos](https://open.spotify.com/album/4rvC2RKIa10KGyGQYx2ftc) | 2:49 | 2022-12-30 | 2023-01-21 |
 | [ザ・ミラージュ](https://open.spotify.com/track/1fvrnSlOdMqNTsRMzZZLSZ) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 5:06 | 2022-12-30 |  |
 | [ミート・ミー・イン・ザ・シープ・メドウ](https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 3:25 | 2022-12-30 |  |
+| [光の塵](https://open.spotify.com/track/3vqINomEEpyG7nlUfqbd49) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Dustlight / 光の塵 / Afterglow](https://open.spotify.com/album/577opext6ZuqRDwowBmMdc) | 5:03 | 2023-10-13 |  |
 | [森のざわめき](https://open.spotify.com/track/13Qy7Tjeiwv8lHK6zI8Bpj) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [メンタルトレーナーがすすめる不安解消、安眠ヒーリング 〜自然とつながる音楽〜](https://open.spotify.com/album/2ybjutfqiEx8u3QZ5XfJ17) | 5:12 | 2022-03-25 | 2022-07-29 |
 | [氷雨](https://open.spotify.com/track/76dAXmTFhZtxPP1ncZGzJM) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Rain Studies](https://open.spotify.com/album/074za5MLXcINIJSOlIxLpn) | 5:56 | 2022-01-07 |  |
 | [甘い塊](https://open.spotify.com/track/0mx3zg2cSgmkl85lxrj5G7) | [Naohito Uchiyama](https://open.spotify.com/artist/04uIs0KHmV0KwDUalfwXpb) | [雪と電気](https://open.spotify.com/album/4oGm40jnKa42r3IsCZW7M3) | 5:57 | 2022-01-07 | 2023-07-07 |

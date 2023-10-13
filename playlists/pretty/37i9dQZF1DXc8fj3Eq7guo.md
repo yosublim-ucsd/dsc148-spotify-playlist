@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 
 > Where you at? We outside!
 
-[Spotify](https://open.spotify.com/user/spotify) - 616 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 635 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 | 2 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
 | 3 | [Africa](https://open.spotify.com/track/1RRoBxDDWuIhIrZ7T3JZCG) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Mama Africa \(The Diary of an African Woman\)](https://open.spotify.com/album/6rDmHNtB73R2i7jEf0BAY8) | 3:56 |
 | 4 | [Ojuelegba](https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:36 |
-| 5 | [Jericho](https://open.spotify.com/track/6PrImSndUslYTiN77tqlp8) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Omo Charlie Champagne Vol\. 1](https://open.spotify.com/album/0DfMhXwJEtsRauBcpb2rz7) | 3:15 |
+| 5 | [Jericho](https://open.spotify.com/track/1Am00a8Tk3uEaMMToIYNQo) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Omo Charlie Champagne Vol.1](https://open.spotify.com/album/2c8Mf9ScYdKrb9foJiNaGe) | 3:15 |
 | 6 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 |
 | 7 | [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 |
 | 8 | [Run Jozi \(Godly\) \(feat\. K.O\)](https://open.spotify.com/track/2zuOiLM3QGT5DpO4fJwOEo) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Levels \(Explicit\)](https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 | 49 | [Limpopo](https://open.spotify.com/track/6DX3c5LFsm0sJE8eZezUWu) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Take Over](https://open.spotify.com/album/59Oas92o7LPanTgxcsJTjU) | 4:13 |
 | 50 | [Morogoro](https://open.spotify.com/track/653sdYtuZPYKZHr6GRplOX) | [Tankie DJ](https://open.spotify.com/artist/5QhPNPVnSivVz4R0PXZN3L) | [Morogoro](https://open.spotify.com/album/1SwmQQRqFY1OsPBpXjGE4k) | 6:58 |
 
-Snapshot ID: `MCwwZWI3YmRjM2Y3MjFlMTg4MmZjY2Q1ODRkMTliYzA4Y2YwOTYxNGRl`
+Snapshot ID: `MCxjYTY1YjU0MGUxNDRhZTQ5MzIzZDM3MTgzZmExNjAxMzJmM2Y5YWQ2`

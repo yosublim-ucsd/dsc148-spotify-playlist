@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: OMSB
 
-152 songs - 7 hr 37 min
+153 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [New World](https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq) | 2:43 | 2023-09-21 |  |
 | [No More Cry](https://open.spotify.com/track/3WADc7iPezZv4eKnZbTixf) | [AZU](https://open.spotify.com/artist/1hWfPkBroOMDyXvyEoXoML) | [No More Cry](https://open.spotify.com/album/0TkVdXs7WIP05AnLawcnmo) | 2:03 | 2023-09-21 | 2023-09-27 |
 | [Oil](https://open.spotify.com/track/7dn9D2UEhRrOVBjC2zhfdk) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [Oil](https://open.spotify.com/album/1RiMtUb7MdEGVCV3XxgHY8) | 2:00 | 2023-09-21 |  |
+| [Old Rookie](https://open.spotify.com/track/6wo2dSc2HAsF0KUqti4UQn) | [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [OLD ROOKIE EP.1](https://open.spotify.com/album/0cc0kTXheZsfEllaCljvKI) | 2:29 | 2023-10-12 |  |
 | [On The Stage](https://open.spotify.com/track/4917OdwyM95TyLIWDPBeLn) | [KOSÉ 8ROCKS](https://open.spotify.com/artist/4xPnkzn7b7oxBNhk8hYfZz), [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [On The Stage](https://open.spotify.com/album/0uTcqFEZI9V1vziYxvZ2wH) | 2:18 | 2023-10-10 |  |
 | [one call](https://open.spotify.com/track/2ATQ3KHJowOqBzF6AiI67b) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [one call](https://open.spotify.com/album/6LVVpAPHMnk2EDvKSTWGA1) | 1:54 | 2023-09-21 | 2023-10-04 |
 | [Opp Otaku](https://open.spotify.com/track/1MYWyWFPcbWzaDSvqLUDvX) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Opp Otaku](https://open.spotify.com/album/43wBfcdooKrpJbfNaqoXWk) | 2:24 | 2023-09-21 |  |
@@ -151,7 +152,7 @@
 | [Yellow Flag](https://open.spotify.com/track/0AKuvqtPpGlPubexc0wvCe) | [YELLADIGOS](https://open.spotify.com/artist/4XoMdQKZT6hC57PRnacpYa), [PEAVIS](https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe), [BASHI THE BRIDGE](https://open.spotify.com/artist/43qc2sLsduWZ8zezBF536f), [Rio Woodruff](https://open.spotify.com/artist/2OqsoABwi0LbUZQLwRkFBK) | [Yellow Flag](https://open.spotify.com/album/6O4IO5uehIKXAb9AGezoJM) | 2:55 | 2023-10-10 | 2023-10-12 |
 | [Yellow Flag](https://open.spotify.com/track/55cgtFnKYudlGN2UcSWakf) | [YELLADIGOS](https://open.spotify.com/artist/4XoMdQKZT6hC57PRnacpYa), [PEAVIS](https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe), [BASHI THE BRIDGE](https://open.spotify.com/artist/43qc2sLsduWZ8zezBF536f), [Rio Woodruff](https://open.spotify.com/artist/2OqsoABwi0LbUZQLwRkFBK) | [Yellow Flag](https://open.spotify.com/album/2yn2Dm72I5fYnOhWZFoYFA) | 2:55 | 2023-10-10 |  |
 | [YUUTEMOSYAANAI](https://open.spotify.com/track/2WoHeCMpClK6Zg9012BM7R) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D) | [YUUTEMOSYAANAI](https://open.spotify.com/album/5NI86DahynUBZGquFOzKdD) | 3:10 | 2023-09-21 | 2023-09-29 |
-| [Zone 6 \- BDM! Circus Remix](https://open.spotify.com/track/7gJDcMSqGDGnbkd6QzL9fk) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [BDM! Circus](https://open.spotify.com/artist/2bJ6Gax3dHCypiHjfG8HEK) | [ISSUES \(Remix\)](https://open.spotify.com/album/7LnfKuyPg6kisAVpq732G7) | 2:28 | 2023-10-05 |  |
+| [Zone 6 \- BDM! Circus Remix](https://open.spotify.com/track/7gJDcMSqGDGnbkd6QzL9fk) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [BDM! Circus](https://open.spotify.com/artist/2bJ6Gax3dHCypiHjfG8HEK) | [ISSUES \(Remix\)](https://open.spotify.com/album/7LnfKuyPg6kisAVpq732G7) | 2:28 | 2023-10-05 | 2023-10-13 |
 | [いまも](https://open.spotify.com/track/1N1dfP5lttRxhcLzIUY74j) | [Itto](https://open.spotify.com/artist/2ysorIMr4GzHF4dHiVRX5E), [Jambo Lacquer](https://open.spotify.com/artist/0eCTHbWkpE5PHesKzCf4cQ) | [いまも](https://open.spotify.com/album/4noSiPBaI0PhTJrkCt4F59) | 2:15 | 2023-10-10 |  |
 | [ビリケン](https://open.spotify.com/track/4uw7rnFgYs9g3pdexIIL7L) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [ビリケン](https://open.spotify.com/album/5Um8TaZJ6QluqpqlMMs2db) | 2:30 | 2023-10-12 |  |
 | [上にあるバッズ](https://open.spotify.com/track/4YOgeNWNFqgTTAgvPJGXZS) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [TaeyoungBoy](https://open.spotify.com/artist/6U9PA9nXDmzmlpSwR9KJ2n) | [上にあるバッズ](https://open.spotify.com/album/33A352cI9mBFRpMmuIvZwk) | 2:28 | 2023-09-26 | 2023-09-28 |

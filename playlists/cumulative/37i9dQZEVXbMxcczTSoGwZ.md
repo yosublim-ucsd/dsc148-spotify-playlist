@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,614 songs - 3 day 15 hr 3 min
+1,615 songs - 3 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Autiomaa](https://open.spotify.com/track/1jRjMpN31x4yCkQqKSRErC) | [Ida Paul & Kalle Lindroth](https://open.spotify.com/artist/1pbX4qbCZOyiRA0ih5jGfX), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0), [Kalle Lindroth](https://open.spotify.com/artist/49PPHx2WvBFfsk6RKE0lCi) | [Autiomaa](https://open.spotify.com/album/1X6GmmGfe8DRDjaFhF8ndP) | 3:06 | 2022-09-24 | 2022-10-23 |
 | [Auto jää \(feat\. Käärijä\)](https://open.spotify.com/track/06s64RSl5UhrIA5BXq1c8d) | [Antti Tuisku](https://open.spotify.com/artist/54CMkgIraCOO9pSRfPKiKt), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Sisään ja ulos](https://open.spotify.com/album/5VoW8UUQN6ARhuA5rcl7aO) | 2:52 | 2023-06-17 | 2023-06-25 |
 | [Auto jää \(feat\. Käärijä\)](https://open.spotify.com/track/3rsDUslPzGw6sGHjkM4lg2) | [Antti Tuisku](https://open.spotify.com/artist/54CMkgIraCOO9pSRfPKiKt), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Auto jää \(feat\. Käärijä\)](https://open.spotify.com/album/68VvJB0YdL5CIwTd7c3gag) | 2:52 | 2023-04-29 | 2023-06-18 |
+| [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 | 2023-10-12 |  |
 | [Avaruus](https://open.spotify.com/track/1pxr8ZU8xEmt6vp1JNw2bx) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Avaruus](https://open.spotify.com/album/1Q1lbRnue3Dc6LrZ9flrPh) | 4:18 | 2021-12-23 | 2022-12-27 |
 | [B\-Day \(feat\. DAVI, baka®, Korelon\)](https://open.spotify.com/track/2QqVRDgYIZbOXCKp3qrd6m) | [vitunleija](https://open.spotify.com/artist/0nV8YXTHj3pP05WTGNBF5Z), [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [baka®](https://open.spotify.com/artist/2cIN5e6ouIgJiebmItnDaW), [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [B\-Day \(feat\. DAVI, baka®, Korelon\)](https://open.spotify.com/album/18YVNBColhbn73l6v7UYSG) | 2:04 | 2023-04-29 | 2023-06-04 |
 | [Baby baby](https://open.spotify.com/track/5AbP52CPQ5X1x9yJT6uAHE) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Baby baby](https://open.spotify.com/album/0Ldch5yr9KezDCImmsnt4Q) | 3:38 | 2022-09-03 | 2022-09-18 |
@@ -536,7 +537,7 @@
 | [Ilmastonmuutos](https://open.spotify.com/track/5ID7vGQn7i9SFCHqXwDWuE) | [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M), [Emma Gun](https://open.spotify.com/artist/6eJRaxDd7hUt7PzG5W4ixT) | [Ilmastonmuutos](https://open.spotify.com/album/6jjSGSHhRzIVySIFsHNLNf) | 3:32 | 2021-06-13 | 2021-06-27 |
 | [Ilves \- Vain elämää kausi 12](https://open.spotify.com/track/7adJTN4x7fVzC0Rcg80AWU) | [Pyhimys](https://open.spotify.com/artist/3MaQwUQBigrjcMYHk8bDKm) | [Ilves \(Vain elämää kausi 12\)](https://open.spotify.com/album/0sbVv72LnkMoNYFzbw0vMI) | 3:03 | 2021-10-18 | 2021-10-27 |
 | [Ime huiluu \- Vain elämää kausi 14](https://open.spotify.com/track/7f6VypEU8LL0LnI33tJP6v) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Ime huiluu \(Vain elämää kausi 14\)](https://open.spotify.com/album/4QINbnAVs66JbpdtSjNM0O) | 2:30 | 2023-10-08 |  |
-| [Imus \- Vain elämää kausi 14](https://open.spotify.com/track/3fX9l40wogPWEVuBIgnfPu) | [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Imus \(Vain elämää kausi 14\)](https://open.spotify.com/album/1zhWMCujUwiKkarQKztW1a) | 3:02 | 2023-10-08 |  |
+| [Imus \- Vain elämää kausi 14](https://open.spotify.com/track/3fX9l40wogPWEVuBIgnfPu) | [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Imus \(Vain elämää kausi 14\)](https://open.spotify.com/album/1zhWMCujUwiKkarQKztW1a) | 3:02 | 2023-10-08 | 2023-10-13 |
 | [In corpore sano](https://open.spotify.com/track/1JaOUMmaSZlWfONvT4HTlg) | [Konstrakta](https://open.spotify.com/artist/0mrbJs6eUt85g1ozyYMiUt) | [In corpore sano](https://open.spotify.com/album/5OrxFHIvmC4KkSLQI8yhsI) | 2:59 | 2022-05-16 | 2022-05-22 |
 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-04-02 | 2022-04-17 |
 | [In The Bible \(with Lil Durk & Giveon\)](https://open.spotify.com/track/61S79KIVA4I9FXbnsylEHT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:56 | 2021-09-05 | 2021-09-06 |

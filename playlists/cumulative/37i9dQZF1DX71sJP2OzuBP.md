@@ -4,7 +4,7 @@
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-1,050 songs - 2 day 19 hr 54 min
+1,051 songs - 2 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,7 +551,8 @@
 | [急不來的,就讓它慢吧](https://open.spotify.com/track/2QSnrBDO2otXBs5bAxnf3O) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [急不來的,就讓它慢吧](https://open.spotify.com/album/3DVxsikpJeWt8A7yNPLmUK) | 3:21 | 2022-06-06 | 2022-07-29 |
 | [急不來的,就讓它慢吧](https://open.spotify.com/track/6zIN5WKGj9ggtavb7u7JYY) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [急不來的,就讓它慢吧](https://open.spotify.com/album/2HbPi4XvZagKGk8SBKGzYK) | 3:21 | 2022-07-25 | 2022-11-22 |
 | [怪物的自己](https://open.spotify.com/track/5ajyAtbgnmUo9dPYkJY7Cp) | [Lisa Djaati](https://open.spotify.com/artist/0B5SvQzqGubvGgPBEtNOb0) | [漣漪效應](https://open.spotify.com/album/1jVYoFQcEQDit73diiYlXJ) | 4:32 | 2022-10-17 | 2022-11-08 |
-| [怯](https://open.spotify.com/track/2Cd9Z6LLounw1LfS3iH0aF) | [KunppleZz](https://open.spotify.com/artist/4IJ4F9XmUZHFokW8LDzdda), [Ian](https://open.spotify.com/artist/2rfrTgqNXVOz3dlgpArSAf) | [怯](https://open.spotify.com/album/4l0JVHhAokMSKodbPMTFRS) | 3:36 | 2023-09-25 |  |
+| [怯](https://open.spotify.com/track/2Cd9Z6LLounw1LfS3iH0aF) | [KunppleZz](https://open.spotify.com/artist/4IJ4F9XmUZHFokW8LDzdda), [Ian](https://open.spotify.com/artist/2rfrTgqNXVOz3dlgpArSAf) | [怯](https://open.spotify.com/album/4l0JVHhAokMSKodbPMTFRS) | 3:36 | 2023-09-25 | 2023-10-13 |
+| [怯](https://open.spotify.com/track/32B07j7lIxBWNQfTQkZA4d) | [KunppleZz](https://open.spotify.com/artist/4IJ4F9XmUZHFokW8LDzdda), [Ian](https://open.spotify.com/artist/2rfrTgqNXVOz3dlgpArSAf) | [没有永恒](https://open.spotify.com/album/58cxrd9MChIEJ4htpaMbkZ) | 3:36 | 2023-10-09 |  |
 | [恋爱动物](https://open.spotify.com/track/7zpjpxAvHGPpxG0c397Fnd) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [恋爱动物](https://open.spotify.com/album/0fMi5PizYxs0zjUClDQMk5) | 3:08 | 2022-11-14 | 2022-11-29 |
 | [恋香 \(新传媒电视剧 《遇见你,真香!》主题曲\)](https://open.spotify.com/track/0nNxfR5XNdnMpa0U1YZIrf) | [Jocie Guo](https://open.spotify.com/artist/6hkP84fpANIA89Nv3T9JSm) | [恋香 \(新传媒电视剧 《遇见你,真香!》主题曲\)](https://open.spotify.com/album/3gcYplSF1bpg6Mgi4P00Ft) | 3:47 | 2022-12-12 | 2022-12-27 |
 | [恻隐](https://open.spotify.com/track/0qwKtHJpzcjeBd9tM95iyw) | [Ada Zhuang](https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM) | [恻隐](https://open.spotify.com/album/5nM8mlxNfSLO9mOA1Arzqv) | 4:09 | 2022-06-06 | 2023-02-28 |

@@ -2,9 +2,9 @@
 
 ### [Jazz Covers](https://open.spotify.com/playlist/37i9dQZF1DX7lkAsA4QOXG)
 
-> Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
+> Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-174 songs - 13 hr 37 min
+175 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [I Am The Walrus](https://open.spotify.com/track/1FQ36swxT2Zn0K5xlwkxUg) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [I Am The Walrus](https://open.spotify.com/album/4Py5viNf0Lzt14Od4iTCNJ) | 4:14 | 2023-01-12 | 2023-02-28 |
 | [I Am The Walrus](https://open.spotify.com/track/7rs2rtBcpCH1PEUhapS3rE) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know: Brad Mehldau Plays The Beatles](https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT) | 4:14 | 2023-02-23 | 2023-04-20 |
 | [I Can't Make You Love Me](https://open.spotify.com/track/7axFvcS9zMo6Pug8edH7VO) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [I Can't Make You Love Me](https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a) | 4:26 | 2023-02-15 |  |
+| [I Can’t Make You Love Me](https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [I Can’t Make You Love Me](https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz) | 5:03 | 2023-10-13 |  |
 | [I Got You \- I Feel Good](https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Joshua Redman](https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1) | 4:39 | 2022-09-13 |  |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/1W6p8Y996nO7Pd1JYEZIb6) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Shine](https://open.spotify.com/album/5IDEw0lSO7uTBsk8dWRQac) | 4:52 | 2022-10-05 | 2023-09-02 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/1vQPul9VZ1dODkVg9lxF3L) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/1wBXnntlEwlD9cuDdwmraq) | 3:39 | 2023-05-30 | 2023-09-02 |
@@ -142,7 +143,7 @@
 | [She's Always A Woman](https://open.spotify.com/track/4ql11Y7pZAgUW25dbJqFED) | [Shelly Berg Trio](https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3) | [Blackbird](https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio) | 4:00 | 2022-09-27 | 2023-09-02 |
 | [She's Leaving Home](https://open.spotify.com/track/6U6wRwjLkBQUjBEQ1vdVJi) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Jazz Plays The Beatles](https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i) | 5:56 | 2022-09-13 | 2023-09-02 |
 | [She's Leaving Home \- Live](https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8) | [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI), [Hans Backenroth](https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD) | [The Gallery Concerts II \(Jazz Poetry\)](https://open.spotify.com/album/0q1erikNTQiQC5opFqeMUl) | 5:03 | 2023-02-07 |  |
-| [Simple Twist Of Fate](https://open.spotify.com/track/2eQwEOTPoOVe5gVWFdRQHv) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 3:49 | 2022-09-27 |  |
+| [Simple Twist Of Fate](https://open.spotify.com/track/2eQwEOTPoOVe5gVWFdRQHv) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 3:49 | 2022-09-27 | 2023-10-13 |
 | [Someone Like You \- Spotify Singles](https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 5:21 | 2023-02-02 |  |
 | [Something](https://open.spotify.com/track/4XbKuAikkAMr9V4DZXtIwm) | [J for Jazz](https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3) | [Something](https://open.spotify.com/album/0vGRBkBvjA07b06LVbLzSI) | 2:48 | 2023-05-30 |  |
 | [Sorry Seems to Be the Hardest Word](https://open.spotify.com/track/5kBw6WiW6YwymbFQm4DQQp) | [Claudio Cusmano](https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L), [Nello Toscano](https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR), [Enzo Zirilli](https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6) | [Remember to Remember](https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR) | 5:05 | 2022-12-01 |  |

@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-278 songs - 13 hr 35 min
+279 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [éternité](https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [éternité](https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc) | 3:19 | 2021-12-23 |  |
 | [Feathers](https://open.spotify.com/track/5zafrD1Ovmh2XiuoX3IuUa) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Feathers](https://open.spotify.com/album/68btKDvVJKuKLW9IiRuv6V) | 3:12 | 2022-09-13 |  |
 | [Flow State](https://open.spotify.com/track/3pUQApLLT0iAnxGbe1IC8q) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Flow State](https://open.spotify.com/album/2JgRSgWb6qxviNI3SN0B6W) | 2:37 | 2022-10-14 |  |
+| [Flying Spirits.](https://open.spotify.com/track/3qfofCNp0UgwHKmgM1EJ6A) | [Ashlynn Vinno](https://open.spotify.com/artist/2LJPtJzLybu9EKKX8X84DJ) | [Flying Spirits.](https://open.spotify.com/album/0omGFYMltCOD9AOACXmP9E) | 2:56 | 2023-10-12 |  |
 | [For a while](https://open.spotify.com/track/0AGYeuTCEtwHWZ45RZNaHN) | [Ida Eline](https://open.spotify.com/artist/5KytELOgYZTg1s0VxUG9Nw) | [For a while](https://open.spotify.com/album/7l4681Ts204dYgHCOiZjba) | 3:04 | 2021-12-23 | 2023-08-05 |
 | [For Emmabelle](https://open.spotify.com/track/6f096qqr3TLKBEoWxy8HPg) | [Donato Manna](https://open.spotify.com/artist/7ITvoe7pKuN7DqVBje697p) | [For Emmabelle](https://open.spotify.com/album/2NbjoYfZ6toamz1EPAA4lu) | 3:29 | 2021-12-23 | 2022-09-03 |
 | [For now](https://open.spotify.com/track/1IdZJSn4MgU8nGWVQGm25D) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [For now](https://open.spotify.com/album/3ewH2K6sin3yWusThvhdFV) | 2:41 | 2021-12-23 |  |
@@ -141,7 +142,7 @@
 | [Lorimar](https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7) | [Danyel Varda](https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB) | [Mandala Spirit](https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z) | 3:42 | 2021-12-23 | 2022-09-03 |
 | [Lost](https://open.spotify.com/track/3O1AqwrqIwVoAr0GET75SY) | [Janae Milligan](https://open.spotify.com/artist/7fXVjzJEkTzPsCman3hBFu) | [Lost](https://open.spotify.com/album/5PGFQeWWIrlxj9fQzSwkRp) | 2:26 | 2021-12-23 |  |
 | [Lyrebird](https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Lyrebird](https://open.spotify.com/album/73YZiV6JEfhRBr855r2fvk) | 2:33 | 2021-12-23 | 2023-07-14 |
-| [Längtan](https://open.spotify.com/track/5dU3ZoeCCMmRziuCCr4ErZ) | [Amsaga](https://open.spotify.com/artist/2Z4elDEV9RqWpqQT9yxE7o) | [Längtan](https://open.spotify.com/album/1Ct1me1fiNQ2c37OyvTnku) | 3:55 | 2022-09-02 |  |
+| [Längtan](https://open.spotify.com/track/5dU3ZoeCCMmRziuCCr4ErZ) | [Amsaga](https://open.spotify.com/artist/2Z4elDEV9RqWpqQT9yxE7o) | [Längtan](https://open.spotify.com/album/1Ct1me1fiNQ2c37OyvTnku) | 3:55 | 2022-09-02 | 2023-10-13 |
 | [líquido](https://open.spotify.com/track/6UlSa5WUahJzFVSRCUt8K3) | [Arlo Leclerc](https://open.spotify.com/artist/3EBKbV8vGkaVfjF21qCb4g) | [líquido](https://open.spotify.com/album/4MXpvYR7qsNouiXC5bP6ar) | 2:24 | 2021-12-23 | 2023-06-17 |
 | [Marmoris](https://open.spotify.com/track/3DEJFS5pJMjFr2zG24oDHt) | [Boudoin](https://open.spotify.com/artist/1VtcKV38DHQyR0rBukGcep) | [Marmoris](https://open.spotify.com/album/5jWt650eZDQgPm47eEazPd) | 2:36 | 2021-12-23 | 2023-08-05 |
 | [Mellow Moon](https://open.spotify.com/track/3pwWWv9jwQxxh81W8bKWSB) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Winds](https://open.spotify.com/album/0y85Fl4PfcS9zsfvYyA7q6) | 3:25 | 2021-12-23 | 2023-05-06 |

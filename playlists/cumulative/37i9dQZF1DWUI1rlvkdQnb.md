@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-180 songs - 9 hr 29 min
+182 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Persepolis](https://open.spotify.com/track/6B8dXkHi9J04EFvlDncRCm) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Morning Dew](https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd) | 2:23 | 2022-06-29 | 2022-09-15 |
 | [Pomiri se](https://open.spotify.com/track/4RqQwKxM6mzWEJXl0DNiRn) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Pomiri se](https://open.spotify.com/album/0258oNwoApLV1QwCGfZD9P) | 3:39 | 2021-12-10 |  |
 | [Prarie Whisper](https://open.spotify.com/track/0qwKXExu6ZFmCVmuXS77Bd) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Lost Without Thoughts](https://open.spotify.com/album/7eSQYxXrvCdp2AWDlKGlyc) | 3:48 | 2021-12-10 | 2021-12-24 |
+| [Promissus](https://open.spotify.com/track/5VpmKYWuKcX33aKeMAuRkV) | [Eunephele](https://open.spotify.com/artist/0RfnRQ6vmyxDzMuyDmJaSm) | [Promissus](https://open.spotify.com/album/0YaqeFy4R15go6qxCfkjVG) | 3:22 | 2023-10-12 |  |
 | [Propinquity](https://open.spotify.com/track/333vuxsUus6GcCuaUv40fm) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Propinquity](https://open.spotify.com/album/1WqG5MwUfHKvW4Vzyox843) | 2:22 | 2021-12-10 | 2021-12-24 |
 | [Purpose](https://open.spotify.com/track/5GzuDxMuqENSCZ61rb3Zex) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Purpose](https://open.spotify.com/album/20huIijfp7AeN5jvvzfeYv) | 3:34 | 2021-12-10 |  |
 | [Radiant](https://open.spotify.com/track/2leJrTGeB6reJMKvvAkOb6) | [Kumatra](https://open.spotify.com/artist/5I6mjLaJjYhtmDJY2nsF5H) | [Radiant](https://open.spotify.com/album/0cRHU8IubGRGBH2tIBiCff) | 3:08 | 2023-09-01 |  |
@@ -151,6 +152,7 @@
 | [Sigur](https://open.spotify.com/track/2hkjEqloiE8FdudIDgUbwJ) | [Rufus Odobata](https://open.spotify.com/artist/5x7BmkqNC3iDXqN4PvDwdK) | [Sigur](https://open.spotify.com/album/5cpKYQ6H4dPM4RNArtaR0l) | 2:56 | 2023-03-17 |  |
 | [Silver Lines](https://open.spotify.com/track/1ytKEjrWSIUGWqdYuIn74F) | [Jane Deliah](https://open.spotify.com/artist/3sWzxP1XwTIvyyQpz9sZXM) | [Mercury](https://open.spotify.com/album/6ZdtsFFTfV3LXvRHJsnF9M) | 2:41 | 2021-12-10 |  |
 | [Skyjum](https://open.spotify.com/track/5UWXwaQAf0IADjmS2auqNj) | [Catedral Infinita](https://open.spotify.com/artist/4ZHk7eCeQ5Q4o4wWvxq26r) | [Skyjum](https://open.spotify.com/album/5KjQoy7EkLWickNQz3FCAj) | 2:46 | 2022-11-11 |  |
+| [Solar Flare Symphony](https://open.spotify.com/track/4gvMwZeHtBpWEheeHnob6r) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Solar Flare Symphony](https://open.spotify.com/album/6n5AsYCxEBtypoV7Ndoyji) | 3:15 | 2023-10-12 |  |
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2021-12-10 |  |
 | [Sombre Skies](https://open.spotify.com/track/32aIhNW375SKumCg2Xaodu) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Sombre Skies](https://open.spotify.com/album/67boTj5EroXcdNOhMwiPap) | 3:33 | 2021-12-10 |  |
 | [Son Of Sun](https://open.spotify.com/track/5SDeAt9APL6sQ0mZSmtru9) | [Iyaam Ibe](https://open.spotify.com/artist/3wKXsp0WLtntFbx7mcaLWp) | [Son Of Sun](https://open.spotify.com/album/60MgZ2KGa6lyju4IJxkTzz) | 2:20 | 2023-06-30 |  |

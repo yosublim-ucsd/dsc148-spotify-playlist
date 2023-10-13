@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy?si=7f7EU7StRLafRZ1CMVjKcQ\">Thandi Ntuli</a>",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C?si=EjNBNj-rTx2PbN4oc64EcQ\">Desire Marea</a>",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -2240,6 +2240,24 @@
       "duration_ms": 444120,
       "name": "The Migration Suite Part II",
       "url": "https://open.spotify.com/track/2aUgQ0RxwcOOGCrWKYwUAC"
+    },
+    {
+      "album": {
+        "name": "The Only Way",
+        "url": "https://open.spotify.com/album/4Cscjy5WTsT2p4sVc7Iyjn"
+      },
+      "artists": [
+        {
+          "name": "Desire Marea",
+          "url": "https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256215,
+      "name": "The Only Way",
+      "url": "https://open.spotify.com/track/5khKL5lhGGIdyR0T2dAgKC"
     },
     {
       "album": {

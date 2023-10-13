@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse liedjes! Cover: Do",
+  "description": "De nieuwste Nederlandse liedjes! Cover: Irene Hin",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -38,6 +38,28 @@
       "duration_ms": 154805,
       "name": "100K Tranen",
       "url": "https://open.spotify.com/track/6obwm23hKEtFLHMefCg33l"
+    },
+    {
+      "album": {
+        "name": "De Tijd Gaat Mooie Dingen Doen",
+        "url": "https://open.spotify.com/album/6myczO3dCuLnjSoUS6yOfY"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/0ZcTWDFmCidCFw4pPr7ekO"
     },
     {
       "album": {
@@ -179,6 +201,24 @@
     },
     {
       "album": {
+        "name": "Achtbaan",
+        "url": "https://open.spotify.com/album/7uMaP4UxEn8MkA1pf6I74s"
+      },
+      "artists": [
+        {
+          "name": "Irene Hin",
+          "url": "https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200149,
+      "name": "Achtbaan",
+      "url": "https://open.spotify.com/track/5x8PzeaVxkN8XFgJGlhXvG"
+    },
+    {
+      "album": {
         "name": "ADD",
         "url": "https://open.spotify.com/album/5NdeujZHuGj57BrSMLvo7Q"
       },
@@ -266,7 +306,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 199549,
       "name": "Alleen",
       "url": "https://open.spotify.com/track/1SMbXa6Ri7Rg2lxsBbKvBB"
@@ -859,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Levensdraden",
+        "url": "https://open.spotify.com/album/6arLkm6MoS93r5rE50uNQJ"
+      },
+      "artists": [
+        {
+          "name": "Edwin Evers",
+          "url": "https://open.spotify.com/artist/5BVgpCPWqBxTVis97X2fVO"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246520,
+      "name": "Bel me niet",
+      "url": "https://open.spotify.com/track/6NtORS6kdQnmBrAnbNPHTl"
+    },
+    {
+      "album": {
         "name": "Beloof Je Dat (Live in de Ziggo Dome)",
         "url": "https://open.spotify.com/album/2Q6t4oJAbaTjWOFyXXBVGi"
       },
@@ -1228,7 +1286,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 194482,
       "name": "Dakkie Open",
       "url": "https://open.spotify.com/track/0AdtOEkY2yw0r4dU5nasSd"
@@ -1470,10 +1528,50 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 168700,
       "name": "De Bloemen Die Je Stuurde",
       "url": "https://open.spotify.com/track/1Wmj2gkXgEm0xLpvO5hT4s"
+    },
+    {
+      "album": {
+        "name": "De Geest van de Tijd",
+        "url": "https://open.spotify.com/album/0xSICWjAzGYqQNnmvc98tW"
+      },
+      "artists": [
+        {
+          "name": "Huize Lucas",
+          "url": "https://open.spotify.com/artist/5V8b23P7NLOVaB04lfb79b"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268670,
+      "name": "De Geest van de Tijd",
+      "url": "https://open.spotify.com/track/4W3RRfsw7rjKeRB9lMPwNF"
+    },
+    {
+      "album": {
+        "name": "De Hele Nacht",
+        "url": "https://open.spotify.com/album/3FJVjlwiacUhh69HjeyGoB"
+      },
+      "artists": [
+        {
+          "name": "Vincent Visser",
+          "url": "https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139047,
+      "name": "De Hele Nacht",
+      "url": "https://open.spotify.com/track/5piOsIWpDiaK8BUmPYCIVF"
     },
     {
       "album": {
@@ -1806,7 +1904,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 177066,
       "name": "Dit Is Wat Mijn Mama Zei",
       "url": "https://open.spotify.com/track/5QJoojtfYodIvWSfpeCcHh"
@@ -2006,7 +2104,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 174760,
       "name": "Droom Het Donker Weg (feat. MEAU)",
       "url": "https://open.spotify.com/track/7mYoKmUoppdfr51cIYdR1l"
@@ -2046,6 +2144,24 @@
       "duration_ms": 166000,
       "name": "Een Chick Als (Jade)",
       "url": "https://open.spotify.com/track/6YoYAPb0z1TGznmifvmCwm"
+    },
+    {
+      "album": {
+        "name": "Eigen Schuld",
+        "url": "https://open.spotify.com/album/06lZcDwBLxPbT326eAxqS7"
+      },
+      "artists": [
+        {
+          "name": "Metejoor",
+          "url": "https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Eigen Schuld",
+      "url": "https://open.spotify.com/track/5pf1eSfMJE4efPzwpqB5jK"
     },
     {
       "album": {
@@ -2682,7 +2798,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 222418,
       "name": "Het Heeft Zo Moeten Zijn",
       "url": "https://open.spotify.com/track/2vEIeP2yzMbijx7o27YT39"
@@ -3374,7 +3490,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 194500,
       "name": "Kapitein",
       "url": "https://open.spotify.com/track/39lfuCGvxLUu5zIx5C9Y1C"
@@ -3786,7 +3902,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 196361,
       "name": "Leugenaar II",
       "url": "https://open.spotify.com/track/2YLTNvko2SBU4j0qX4iaQT"
@@ -3877,6 +3993,24 @@
     },
     {
       "album": {
+        "name": "Luchtkasteel",
+        "url": "https://open.spotify.com/album/2YZgPFSB0qkZNUmhPMPh98"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153634,
+      "name": "Luchtkasteel",
+      "url": "https://open.spotify.com/track/6jYvHA6LvFcTe9lCiuIc5f"
+    },
+    {
+      "album": {
         "name": "Magneet",
         "url": "https://open.spotify.com/album/0euEcmBRqP9kRVeMyFbL3L"
       },
@@ -3888,7 +4022,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 155835,
       "name": "Magneet",
       "url": "https://open.spotify.com/track/6vKcQiib6tIYFtfygjwhWd"
@@ -6024,6 +6158,24 @@
       "duration_ms": 214604,
       "name": "Vergeven, Vergeten",
       "url": "https://open.spotify.com/track/6ID5NQlBr7RikVeC0jkKdH"
+    },
+    {
+      "album": {
+        "name": "Verlaten",
+        "url": "https://open.spotify.com/album/5enwsEosuR83tZqUFuTlam"
+      },
+      "artists": [
+        {
+          "name": "Livv",
+          "url": "https://open.spotify.com/artist/0DVLNg4cUvv8X38wf9iyt2"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145167,
+      "name": "Verlaten",
+      "url": "https://open.spotify.com/track/4zlL8HgU3x8o8gDHcbMX2g"
     },
     {
       "album": {

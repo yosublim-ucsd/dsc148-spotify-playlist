@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Glorilla
 
-467 songs - 19 hr 56 min
+469 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [25 Days of Christmas \(feat\. K Carbon, Slimeroni, and Aleza\)](https://open.spotify.com/track/3FbjvZ0r9yIZAT8YXtWItC) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz) | [25 Days of Christmas \(feat\. K Carbon, Slimeroni, and Aleza\)](https://open.spotify.com/album/1BiH7myT4q3TP9kDTJxjbr) | 1:49 | 2022-12-09 | 2023-01-07 |
 | [313\-414 \(feat\. Tee Grizzley\)](https://open.spotify.com/track/7gW1UPdKgyEhUW6jDgP9sw) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [313\-414 \(feat\. Tee Grizzley\)](https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8) | 2:29 | 2021-11-05 | 2022-07-25 |
 | [380 BAKE](https://open.spotify.com/track/7iFkd7WdWJO63WG9JRmKyS) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [380 BAKE](https://open.spotify.com/album/65fpNPgM1mjLQNdEvx2CX3) | 2:20 | 2023-08-18 | 2023-09-23 |
-| [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH) | 1:42 | 2022-11-18 |  |
+| [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5XFGYtybPWAP90N7gEVpwc) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4ZjzeyERuwR39NcUmg95S8) | 1:42 | 2023-10-06 |  |
+| [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH) | 1:42 | 2022-11-18 | 2023-10-13 |
 | [8 Year Run](https://open.spotify.com/track/3E4xQP5sFwanJROhnqkEJF) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [8 Year Run](https://open.spotify.com/album/1Mo5tYLmHQz2Lo9QiDatea) | 2:10 | 2022-06-24 | 2022-10-01 |
 | [Act Bad](https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Act Bad](https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ) | 3:12 | 2023-05-26 | 2023-07-01 |
 | [ADD IT UP](https://open.spotify.com/track/3yGkAxLoThYMYzoZcWMNwJ) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Back on Dexter: A Gangsta Grillz Mixtape](https://open.spotify.com/album/1Jm12CDLPjD2FQHvUBQCNi) | 2:56 | 2023-02-10 | 2023-06-03 |
@@ -449,7 +450,8 @@
 | [Walk In](https://open.spotify.com/track/6NVp9jx6E5U3ueEfFxm9Bm) | [S3nsi Molly](https://open.spotify.com/artist/1BllYKfrGfZPGfUnL5MoSL) | [Walk In](https://open.spotify.com/album/7f2w303hV2NcEq5S7R34TB) | 1:36 | 2022-06-17 | 2022-07-28 |
 | [Want Sum](https://open.spotify.com/track/0sZVQUB6jYpTDAEKSbj4PE) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Want Sum](https://open.spotify.com/album/5se07VxKwmmum9LNtZdnZU) | 2:07 | 2021-11-05 | 2022-08-02 |
 | [Wash The Dishes](https://open.spotify.com/track/46YZs3kPeVMvUvyWm2JQes) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Wash The Dishes](https://open.spotify.com/album/5dMPpYYfS9Bb2dBCJS9Gpz) | 2:28 | 2022-09-23 | 2022-11-12 |
-| [Wassup Gwayy](https://open.spotify.com/track/5CQ0tp4ZdSrzj2ev9yieVV) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gwayy](https://open.spotify.com/album/1RlJJaItCwvPI1qkIfsJax) | 2:24 | 2023-09-08 |  |
+| [Wassup Gway](https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gway](https://open.spotify.com/album/0lBc6xsaXgtiFrcy103fEY) | 2:24 | 2023-10-06 |  |
+| [Wassup Gwayy](https://open.spotify.com/track/5CQ0tp4ZdSrzj2ev9yieVV) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gwayy](https://open.spotify.com/album/1RlJJaItCwvPI1qkIfsJax) | 2:24 | 2023-09-08 | 2023-10-13 |
 | [Wat U Need](https://open.spotify.com/track/5K4zdrXD3WuDVBRsAIGCO9) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0G3gjrxHd6QIbiSGxNBJ2h) | 2:01 | 2022-02-25 | 2022-09-02 |
 | [Way Up!](https://open.spotify.com/track/7mj1prKBTEisjBlahW1PSK) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Way Up!](https://open.spotify.com/album/6c36BqvLIyeL5NEGt4o0EP) | 2:26 | 2023-09-29 |  |
 | [We Not Humping](https://open.spotify.com/track/0ypTgFheHb8nRVq4ygoQ3P) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [We Not Humping](https://open.spotify.com/album/5zdbJoOThfYjQhzDwpdF7B) | 2:24 | 2021-12-03 | 2022-03-18 |

@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-561 songs - 1 day 13 hr 54 min
+562 songs - 1 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Bath＆Frog \(風呂と蛙\)](https://open.spotify.com/track/4UaiMmr3Rqlylaiv2gSFSb) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Undercurrent](https://open.spotify.com/album/4MKH2kAjS3SgTPm4HICzWJ) | 3:07 | 2023-10-03 |  |
 | [Be On Your Way](https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Be On Your Way](https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl) | 4:04 | 2023-01-10 | 2023-04-10 |
 | [Be On Your Way](https://open.spotify.com/track/2LadlqFWLPRJAQu3PEe9CN) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:04 | 2023-04-18 | 2023-08-27 |
+| [beautiful day](https://open.spotify.com/track/4ndFUYVNhh4NRPBpt6F890) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [beautiful day](https://open.spotify.com/album/4KcJOUrysPeU4YuDFnpBvm) | 2:45 | 2023-10-12 |  |
 | [Belief](https://open.spotify.com/track/4NEQrLQUbGX5XZtJzlXkgP) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Sentimental Days](https://open.spotify.com/album/0b1GNpqsnogyIWlpXB2Zi1) | 2:32 | 2023-02-28 | 2023-03-25 |
 | [Berceuse](https://open.spotify.com/track/2aj9gk89sJ9Rj8kE6EfxM3) | [Armas Järnefelt](https://open.spotify.com/artist/0DDOvrV9wGcN6EPZU2KeRK), [Erkki Rautio](https://open.spotify.com/artist/0mrn7eJEcqV7KPopqH5UYy), [Izumi Tateno](https://open.spotify.com/artist/1IDW9jgQRukXDqINZyrkue) | [Finland 100 Years: Classical Music](https://open.spotify.com/album/7hCQ6pzgHwpyKFPSoS2sym) | 3:21 | 2022-12-01 | 2023-02-01 |
 | [Berceuse in D\-Flat Major, Op\. 57](https://open.spotify.com/track/54EA2jYguG3h7L5i22NZ8y) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Kotaro Fukuma](https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK) | [Chopin Legacy](https://open.spotify.com/album/0ybt3QM7jBuI78W9UpkLTN) | 4:43 | 2022-12-01 | 2023-04-21 |
@@ -449,7 +450,7 @@
 | [touten No.4](https://open.spotify.com/track/2iTmJTOBvoldQ980R4GlSB) | [Ayatake Ezaki](https://open.spotify.com/artist/30XTStA4lExo4PotWkoOQT) | [touten I](https://open.spotify.com/album/41LcXRuuDjV8JicIVvKUPc) | 2:59 | 2023-02-28 |  |
 | [Tragic Magic \- Dream Version](https://open.spotify.com/track/6qF62tssDqn4EZ3FnBAa9q) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Tragic Magic \(Dream Version\)](https://open.spotify.com/album/4iJYb3HLJXRsmJHCLFq6Xt) | 3:03 | 2023-05-18 | 2023-06-14 |
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-09-05 | 2023-09-22 |
-| [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 | 2022-10-20 |  |
+| [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 | 2022-10-20 | 2023-10-13 |
 | [tsuru\-tsuki](https://open.spotify.com/track/1Tuq0XiJO21YcG5B9ImhGX) | [Ironomi](https://open.spotify.com/artist/62tSwHM7qLhiSDtVSf51Y5) | [Four Nocturnes](https://open.spotify.com/album/0aheGuEnQDm2C0f8tm6A3u) | 13:37 | 2023-02-28 | 2023-06-14 |
 | [Tuning to Hear / WAVE I](https://open.spotify.com/track/5UfTtAnJEw6qPLe3hoXCB5) | [Iwamura Ryuta](https://open.spotify.com/artist/3OmrzPwelcCJVLFVSf1CrT) | [Tuning to Hear](https://open.spotify.com/album/5APYYdhxL66xCZKEk4CPgz) | 4:52 | 2023-07-18 | 2023-09-15 |
 | [Turbines/Pigs \- Live at Bush Hall](https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Live at Bush Hall](https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW) | 9:46 | 2023-03-23 | 2023-08-23 |

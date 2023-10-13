@@ -2,9 +2,9 @@
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi?si=U\_TTRYUYTG2uDC5jZRDtSQ">LC Beatz</a>
+> Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/2Zhpjwk7OjYXrQG3YOhIzo?si=D8ORmxnjSdWgRf0oQY4aKA">Rae Rae</a>
 
-105 songs - 9 hr 39 min
+106 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Daddy](https://open.spotify.com/track/7yjKnPwdYwo8jcT4xQtNlb) | [M I L O](https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa) | [Daddy](https://open.spotify.com/album/29sf3eScVnDNqfBVpCtf8t) | 3:13 | 2023-05-19 | 2023-06-16 |
 | [Daddy Wey Dey Pamper \- Special Version](https://open.spotify.com/track/21K28NfxP5PJQcCdxtbOpL) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Doris Joseph](https://open.spotify.com/artist/52JrpF7KvjwmFvt4MTV5ho) | [Daddy Wey Dey Pamper \(Special Version\)](https://open.spotify.com/album/7MoXTFv7bTm0g5moOX0Tz2) | 4:47 | 2023-04-13 | 2023-07-29 |
 | [Daily](https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Daily](https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj) | 2:56 | 2023-06-30 |  |
-| [Dansaki](https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Higher](https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN) | 5:24 | 2023-04-07 |  |
+| [Dansaki](https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Higher](https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN) | 5:24 | 2023-04-07 | 2023-10-13 |
 | [Day By Day](https://open.spotify.com/track/33ztFxjys2xXQZBn0upbeE) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Day By Day](https://open.spotify.com/album/5O1tpz2vdJXhGnFIwSzU9Z) | 2:52 | 2023-09-29 |  |
 | [Dependable God \(Medley\)](https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Dependable God \(Medley\)](https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj) | 3:52 | 2023-04-07 |  |
 | [Ebenezer \- Live](https://open.spotify.com/track/0ssKyRqsf6GmSXtBHObYAP) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Kingdom Come \(Live\)](https://open.spotify.com/album/0nmXZ2QOghK12EEQv8NNnD) | 7:11 | 2023-07-28 |  |
@@ -101,6 +101,7 @@
 | [Under The Canopy](https://open.spotify.com/track/59SR0FpZzENp1Xa5yXExzW) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Under The Canopy](https://open.spotify.com/album/0m4KXfassO1hsCsQBnQBkb) | 5:13 | 2023-04-07 | 2023-07-21 |
 | [Victory](https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 3:50 | 2023-04-07 |  |
 | [Victory Song](https://open.spotify.com/track/40sjTKH9XM4BEToiQdbyIq) | [Sammie Ekpoh](https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Victory Song](https://open.spotify.com/album/74aVBnCplKOcQiXHPJ0jx4) | 2:56 | 2023-06-16 | 2023-06-23 |
+| [Waiting](https://open.spotify.com/track/1RhhWmeGXnBzhgQMvABtVO) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Rae Rae](https://open.spotify.com/artist/2Zhpjwk7OjYXrQG3YOhIzo) | [Waiting](https://open.spotify.com/album/0BD9WVtDVVywYDuKvD5FWy) | 3:21 | 2023-10-13 |  |
 | [Way Maker](https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker](https://open.spotify.com/album/3rnFSwqvcBtB9OP7em9C2H) | 5:06 | 2023-09-01 |  |
 | [Way Maker](https://open.spotify.com/track/4eTgQdjd7bIet6d045GGUc) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker](https://open.spotify.com/album/7gFZYUrRossdN7GEY938s1) | 5:06 | 2023-04-07 | 2023-08-24 |
 | [Waymaker \(Live\)](https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker \(Live\)](https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm) | 8:20 | 2023-04-07 | 2023-04-24 |

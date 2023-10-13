@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10064,
+  "num_followers": 10069,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmJmNzRlZmE0Njk0NzQzYmY0YTQ4Yzk5OTA4YmM1MzQ2Y2IwZjkx",
+  "snapshot_id": "MCxkN2Q0M2UwNThiMjExNGJmZTUwM2JmMGE5ZDY5ZDJjOWM0ZDNlNjQ4",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -91,30 +91,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Famalay",
-        "url": "https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q"
-      },
-      "artists": [
-        {
-          "name": "Skinny Fabulous",
-          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 199020,
-      "name": "Famalay",
-      "url": "https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Dumpling (Remix)",
         "url": "https://open.spotify.com/album/6Cjp5NnE0J5WD4XkrVt9ds"
       },
@@ -135,6 +111,30 @@
       "duration_ms": 197227,
       "name": "Dumpling - Remix",
       "url": "https://open.spotify.com/track/4AaXmQvHMWNwZSoqi4kcsK"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Famalay",
+        "url": "https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q"
+      },
+      "artists": [
+        {
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 199020,
+      "name": "Famalay",
+      "url": "https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Pop's Guitar Riddim",
-        "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 237131,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Stage Gone Bad",
         "url": "https://open.spotify.com/album/7u4TbngsJ9JaETb6M6wKEe"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Pop's Guitar Riddim",
+        "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 237131,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Darkseid Riddim",
         "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Caution Riddim",
-        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
-      },
-      "artists": [
-        {
-          "name": "Skinny Fabulous",
-          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
-        }
-      ],
-      "duration_ms": 189022,
-      "name": "Up & Up",
-      "url": "https://open.spotify.com/track/6Lm3yZ7ZHNyHJmNlxuCrge"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Wileside Government",
         "url": "https://open.spotify.com/album/32atiLrIa1jY1bKgZCWTi9"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 202332,
       "name": "Wileside Government",
       "url": "https://open.spotify.com/track/0SAx46pqnF5tEzmazHw7Id"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Caution Riddim",
+        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
+      },
+      "artists": [
+        {
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+        }
+      ],
+      "duration_ms": 189022,
+      "name": "Up & Up",
+      "url": "https://open.spotify.com/track/6Lm3yZ7ZHNyHJmNlxuCrge"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -727,6 +727,30 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Conch Shell",
+        "url": "https://open.spotify.com/album/2HAyottRa9yxUIiZXx2xLQ"
+      },
+      "artists": [
+        {
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Iwer George",
+          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
+        }
+      ],
+      "duration_ms": 192198,
+      "name": "Conch Shell",
+      "url": "https://open.spotify.com/track/6NVR4oBAlPuuvpsYSZcyJF"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Wrong Again",
         "url": "https://open.spotify.com/album/45cwc8M8DQrrAcfjTDog4b"
       },
@@ -759,30 +783,6 @@
       "duration_ms": 168888,
       "name": "Private Zess",
       "url": "https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Conch Shell",
-        "url": "https://open.spotify.com/album/2HAyottRa9yxUIiZXx2xLQ"
-      },
-      "artists": [
-        {
-          "name": "Skinny Fabulous",
-          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Iwer George",
-          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
-        }
-      ],
-      "duration_ms": 192198,
-      "name": "Conch Shell",
-      "url": "https://open.spotify.com/track/6NVR4oBAlPuuvpsYSZcyJF"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Drue",
-          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
-        }
-      ],
-      "duration_ms": 169241,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Bend Yuh Back",
         "url": "https://open.spotify.com/album/67LQ1YfnKsx2jIjBc8VQ4P"
       },
@@ -963,30 +947,34 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Baby Bells Riddim",
-        "url": "https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY"
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R"
       },
       "artists": [
         {
-          "name": "Skorch Bun It",
-          "url": "https://open.spotify.com/artist/7ylwp2wfBZGg6NhrqTKFqZ"
-        },
-        {
-          "name": "CoolBlaze",
-          "url": "https://open.spotify.com/artist/7MfpWE7ToeVCeyyQdcEdkf"
-        },
-        {
-          "name": "Salty",
-          "url": "https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out"
-        },
-        {
-          "name": "Sekon Sta",
-          "url": "https://open.spotify.com/artist/6Q08wCr0QX7xdn58DFJKLZ"
+          "name": "Ricardo Drue",
+          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
         }
       ],
-      "duration_ms": 227356,
-      "name": "Who Pay!? (Big Bumpa) [feat. Salty & Sekon Sta]",
-      "url": "https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8"
+      "duration_ms": 169241,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "The Wedding Album",
+        "url": "https://open.spotify.com/album/2K8mWL2Bph4tETpm54zOUQ"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 219846,
+      "name": "Play Harder",
+      "url": "https://open.spotify.com/track/6Cn3zyojCFk7QsVoQrU0xe"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1019,6 +1007,34 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Baby Bells Riddim",
+        "url": "https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY"
+      },
+      "artists": [
+        {
+          "name": "Skorch Bun It",
+          "url": "https://open.spotify.com/artist/7ylwp2wfBZGg6NhrqTKFqZ"
+        },
+        {
+          "name": "CoolBlaze",
+          "url": "https://open.spotify.com/artist/7MfpWE7ToeVCeyyQdcEdkf"
+        },
+        {
+          "name": "Salty",
+          "url": "https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out"
+        },
+        {
+          "name": "Sekon Sta",
+          "url": "https://open.spotify.com/artist/6Q08wCr0QX7xdn58DFJKLZ"
+        }
+      ],
+      "duration_ms": 227356,
+      "name": "Who Pay!? (Big Bumpa) [feat. Salty & Sekon Sta]",
+      "url": "https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Rats Hole Riddim",
         "url": "https://open.spotify.com/album/6iMD5L9a8b28BmBRRMvZcl"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 185025,
       "name": "Sexin",
       "url": "https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "The Wedding Album",
-        "url": "https://open.spotify.com/album/2K8mWL2Bph4tETpm54zOUQ"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 219846,
-      "name": "Play Harder",
-      "url": "https://open.spotify.com/track/6Cn3zyojCFk7QsVoQrU0xe"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol. 9",
+        "url": "https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Rough Wine",
+      "url": "https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Honda",
         "url": "https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 247272,
       "name": "Feeling It",
       "url": "https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol. 9",
-        "url": "https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Rough Wine",
-      "url": "https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt"
     }
   ],
   "unique_name": "Soca Bashment",

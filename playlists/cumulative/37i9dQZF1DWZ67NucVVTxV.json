@@ -295,6 +295,32 @@
     },
     {
       "album": {
+        "name": "All My Life (Remixes)",
+        "url": "https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264179,
+      "name": "All My Life (Burna Boy Remix) - Burna Explicit Stereo",
+      "url": "https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq"
+    },
+    {
+      "album": {
         "name": "All On Me (Spotify Singles)",
         "url": "https://open.spotify.com/album/4SFKBjTmLEGFDle3ojroE7"
       },
@@ -760,7 +786,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 142500,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/6sID8N4CP0ikYnl9hRgtUO"
@@ -1352,6 +1378,28 @@
       "duration_ms": 155769,
       "name": "CHOSEN",
       "url": "https://open.spotify.com/track/7aPr9KnO3XLXQQ8u5JDsMb"
+    },
+    {
+      "album": {
+        "name": "Claro (Remix)",
+        "url": "https://open.spotify.com/album/6csL3SCACkZbhaF91d46i0"
+      },
+      "artists": [
+        {
+          "name": "Tobi Adu",
+          "url": "https://open.spotify.com/artist/16o16zAhWJZGxny53h8TaU"
+        },
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190673,
+      "name": "Claro - Remix",
+      "url": "https://open.spotify.com/track/76D7VSkqGGLWfceh46Q3u1"
     },
     {
       "album": {
@@ -1954,7 +2002,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 106500,
       "name": "Everyday & Night",
       "url": "https://open.spotify.com/track/7b4yahnTvPpGeq9EWJ75zH"
@@ -4651,6 +4699,28 @@
     },
     {
       "album": {
+        "name": "Not God (Remix)",
+        "url": "https://open.spotify.com/album/05ruDWqO8oNBoz4L66xzG2"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215757,
+      "name": "Not God - Remix",
+      "url": "https://open.spotify.com/track/3WOjwhAJopm0H1d7Z804JP"
+    },
+    {
+      "album": {
         "name": "Nothing Matter",
         "url": "https://open.spotify.com/album/5IvYoSr6zrOMpCqFCUTr5e"
       },
@@ -4910,7 +4980,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 157159,
       "name": "On Check",
       "url": "https://open.spotify.com/track/6zotVuFWbPn8ST6mvfvzDV"
@@ -5350,7 +5420,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 177931,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
@@ -5744,6 +5814,32 @@
       "duration_ms": 164705,
       "name": "Royal Rumble",
       "url": "https://open.spotify.com/track/2If4yVXLFbGksTtbn260Se"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/1EbYyDICzqwkKP79qtnERw"
+      },
+      "artists": [
+        {
+          "name": "Kirani Ayat",
+          "url": "https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9"
+        },
+        {
+          "name": "Marince Omario",
+          "url": "https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M"
+        },
+        {
+          "name": "Haeven",
+          "url": "https://open.spotify.com/artist/5JTZ0MKURW6cUUT2y18w5H"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192008,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/21MSFhrfJzZOYUnKqNdkQr"
     },
     {
       "album": {

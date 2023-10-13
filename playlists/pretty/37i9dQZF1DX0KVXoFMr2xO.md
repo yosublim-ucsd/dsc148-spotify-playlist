@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 
 > A creepy collection of scary sounds
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,627 likes - 121 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,728 likes - 121 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 | 120 | [Ooky Halloween Sounds](https://open.spotify.com/track/4jhfEOBjn6W3V2l6c08290) | [The Horror Technicians](https://open.spotify.com/artist/2EOOQylgFLrm4pvYJ2OvZj) | [Halloween Fear Factory Sound Effects](https://open.spotify.com/album/4J49RBjUpYWHdg78vVZ6UC) | 2:10 |
 | 121 | [Chainsaw Bloody Massacre](https://open.spotify.com/track/5tsURkMATlBZ6DeUhFN7eJ) | [Spooky Halloween Sounds](https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y) | [I'm Bloody Scared: Halloween Horror Music 2020, Like in Nightmare, Halloween Party, Scary Sounds](https://open.spotify.com/album/70BqiOr9cDH2WpGV7FB8eZ) | 4:00 |
 
-Snapshot ID: `MCxkNGExNTBmZjExNThiZjdkNWFiZjdjNGZkYTkzNGViMDBiY2YyNzE2`
+Snapshot ID: `MCw3NDQxMjE1ZjA1OTdmNjMzMTI4ZmEzOGZhMjlhYWZkOWZhNjA0MTUy`

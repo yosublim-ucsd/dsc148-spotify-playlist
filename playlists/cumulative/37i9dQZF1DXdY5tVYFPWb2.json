@@ -2324,7 +2324,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 210120,
       "name": "FANTASY",
       "url": "https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao"
@@ -6133,6 +6133,28 @@
     },
     {
       "album": {
+        "name": "Rouge feat. Taichi Mukai",
+        "url": "https://open.spotify.com/album/00t8byMoRv2LZrsEaH9X7K"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        },
+        {
+          "name": "Taichi Mukai",
+          "url": "https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217924,
+      "name": "Rouge feat. Taichi Mukai",
+      "url": "https://open.spotify.com/track/4FpxAbBBGBY8dFiMCsaOi7"
+    },
+    {
+      "album": {
         "name": "Such is life",
         "url": "https://open.spotify.com/album/3SppLYDvuBYIn30ISyEZlm"
       },
@@ -8036,7 +8058,7 @@
     {
       "album": {
         "name": "THINK OF SUMMER",
-        "url": "https://open.spotify.com/album/6j854MxXOXhZ8WiNdhOi9a"
+        "url": "https://open.spotify.com/album/1fqeQV1L97fvOPDW09kSpC"
       },
       "artists": [
         {
@@ -8047,6 +8069,24 @@
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 278571,
+      "name": "THINK OF SUMMER",
+      "url": "https://open.spotify.com/track/25Nom4nb1pULKwa4nQBPgq"
+    },
+    {
+      "album": {
+        "name": "THINK OF SUMMER",
+        "url": "https://open.spotify.com/album/6j854MxXOXhZ8WiNdhOi9a"
+      },
+      "artists": [
+        {
+          "name": "Natsu Summer",
+          "url": "https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-13",
       "duration_ms": 278571,
       "name": "THINK OF SUMMER",
       "url": "https://open.spotify.com/track/5uLq64klXKRMcdX6GIKfEO"
@@ -10996,7 +11036,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 217924,
       "name": "\u30eb\u30fc\u30b8\u30e5 feat. \u5411\u4e95\u592a\u4e00",
       "url": "https://open.spotify.com/track/06KGPEWi5lFvv31MK7Qzu4"
@@ -11896,7 +11936,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 275912,
       "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: English Teacher",
+  "description": "The home of the best new alternative music. Cover: boygenius",
   "name": "The Other List",
   "tracks": [
     {
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 190574,
       "name": "Alligator",
       "url": "https://open.spotify.com/track/611w5RH6Et8D5hrSqxxib7"
@@ -3284,7 +3284,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 172515,
       "name": "Big Ground",
       "url": "https://open.spotify.com/track/1zwNoQEODYKs7vFcGOjZGf"
@@ -3580,6 +3580,24 @@
       "duration_ms": 95973,
       "name": "Black Gold",
       "url": "https://open.spotify.com/track/0usVZ1hVbeBjmcGT7f6G8d"
+    },
+    {
+      "album": {
+        "name": "the rest",
+        "url": "https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141390,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ"
     },
     {
       "album": {
@@ -4042,6 +4060,24 @@
       "duration_ms": 210309,
       "name": "BORED",
       "url": "https://open.spotify.com/track/6n8qhUw6YFNfX7lZiqY9C5"
+    },
+    {
+      "album": {
+        "name": "BORING",
+        "url": "https://open.spotify.com/album/1QdU9ucWowBxXbHnGourRR"
+      },
+      "artists": [
+        {
+          "name": "DellaXOZ",
+          "url": "https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149386,
+      "name": "BORING",
+      "url": "https://open.spotify.com/track/63RCUs24Zch5w1EE3W1WH3"
     },
     {
       "album": {
@@ -4570,6 +4606,24 @@
       "duration_ms": 248147,
       "name": "California",
       "url": "https://open.spotify.com/track/2nBKc6tiMagmwJR8P6bXqs"
+    },
+    {
+      "album": {
+        "name": "Crazymad, For Me",
+        "url": "https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245773,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6X7ij8jz33hp7xPe1Psn7r"
     },
     {
       "album": {
@@ -5680,7 +5734,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 215879,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0q6Xgn4RsP8EMUrjOtoOy7"
@@ -6670,7 +6724,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 186987,
       "name": "cyber meat",
       "url": "https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM"
@@ -7222,6 +7276,24 @@
       "duration_ms": 204285,
       "name": "deathbound",
       "url": "https://open.spotify.com/track/75c8IAKvGrKPs4yV8b5EJN"
+    },
+    {
+      "album": {
+        "name": "ROCK 'N' RAVE",
+        "url": "https://open.spotify.com/album/3oRlu91UUBH536qpdagyNQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146195,
+      "name": "DECAY",
+      "url": "https://open.spotify.com/track/7ujHwnDCjSx77is9AI1tdR"
     },
     {
       "album": {
@@ -8620,7 +8692,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 258122,
       "name": "Economies of Scale",
       "url": "https://open.spotify.com/track/3UEQhGwwkEsQ2odaYpx4YU"
@@ -9076,6 +9148,24 @@
       "duration_ms": 206493,
       "name": "exit girl",
       "url": "https://open.spotify.com/track/6nbfnqVbTWYfgscVHlgTR3"
+    },
+    {
+      "album": {
+        "name": "Exposed to Some Light",
+        "url": "https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH"
+      },
+      "artists": [
+        {
+          "name": "Nightbus",
+          "url": "https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239250,
+      "name": "Exposed to Some Light",
+      "url": "https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX"
     },
     {
       "album": {
@@ -11550,7 +11640,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 145893,
       "name": "GO GO GO",
       "url": "https://open.spotify.com/track/4tQ3eY36dfKWDiAQqX9w0u"
@@ -16634,7 +16724,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 306050,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/0jVRZSyLXC48J2G66b12Ms"
@@ -17096,7 +17186,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 243093,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/4VAzUwIL69PDIMjmhzBwMD"
@@ -17230,7 +17320,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 147619,
       "name": "LOO SONG",
       "url": "https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku"
@@ -18164,7 +18254,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 319559,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/0WMkBDaWr13JBRaIGMNyQu"
@@ -18960,6 +19050,24 @@
       "duration_ms": 186419,
       "name": "More Than I Can Afford",
       "url": "https://open.spotify.com/track/6rM8PhpdxO2vtY5MCs29xV"
+    },
+    {
+      "album": {
+        "name": "More to me",
+        "url": "https://open.spotify.com/album/5feSG8uVsqlDWrMrzIrInL"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135256,
+      "name": "More to me",
+      "url": "https://open.spotify.com/track/0J1qkBgPKmgAY3M3BPe1QR"
     },
     {
       "album": {
@@ -20041,6 +20149,24 @@
     },
     {
       "album": {
+        "name": "No Body",
+        "url": "https://open.spotify.com/album/37Oqe9dvGu7jWs19pVLGPW"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162935,
+      "name": "No Body",
+      "url": "https://open.spotify.com/track/4BdA7ZtP00Dda9UWiSAn2F"
+    },
+    {
+      "album": {
         "name": "No Caffeine",
         "url": "https://open.spotify.com/album/37fWX21foAwqgvhdFvm3KX"
       },
@@ -20906,7 +21032,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 161279,
       "name": "Off The Rails",
       "url": "https://open.spotify.com/track/5kmBAp1D2G0vNZUdbXu0vM"
@@ -21214,7 +21340,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 262261,
       "name": "Out There",
       "url": "https://open.spotify.com/track/106uRhMksIxm1FmlP6rcnP"
@@ -24061,6 +24187,24 @@
     },
     {
       "album": {
+        "name": "Run Run Run",
+        "url": "https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173028,
+      "name": "Run Run Run",
+      "url": "https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN"
+    },
+    {
+      "album": {
         "name": "Run The Credits",
         "url": "https://open.spotify.com/album/1AYmvWV0JLTdgNMAxngkGy"
       },
@@ -25126,7 +25270,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 167078,
       "name": "sideline, red wine lover",
       "url": "https://open.spotify.com/track/4tCwtpj5QR1FLpCevAuGx3"
@@ -26062,7 +26206,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 155906,
       "name": "SOBER",
       "url": "https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ"
@@ -28467,6 +28611,28 @@
     },
     {
       "album": {
+        "name": "Tekken 2 (feat. Chaka Khan)",
+        "url": "https://open.spotify.com/album/4z2R1paeBuJJiIcYsGtvfX"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Tekken 2 (feat. Chaka Khan)",
+      "url": "https://open.spotify.com/track/5F2sBRf79hjdKdlzNZ0sX2"
+    },
+    {
+      "album": {
         "name": "Telephobia",
         "url": "https://open.spotify.com/album/57OIOnad9VrdiVwZJm3YHR"
       },
@@ -30787,6 +30953,24 @@
     },
     {
       "album": {
+        "name": "trust exercises",
+        "url": "https://open.spotify.com/album/7F8Up4TqiQZO2cdsVUDUY8"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214002,
+      "name": "trust exercises",
+      "url": "https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP"
+    },
+    {
+      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/5l710vNzBqEqWo7KaXvBr1"
       },
@@ -32204,6 +32388,24 @@
       "duration_ms": 124861,
       "name": "What if I jump from a Bridge?",
       "url": "https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc"
+    },
+    {
+      "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/34hq1FBvredIMga6KyZnF2"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226680,
+      "name": "What Now",
+      "url": "https://open.spotify.com/track/1g8becOwXRFEkYukY94L99"
     },
     {
       "album": {

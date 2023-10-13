@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 294381,
+  "num_followers": 294485,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGUwM2M2MmViM2ZlMWMyMTE0NjNlZDc2YWVhN2U2OWE4MTFkYjMy",
+  "snapshot_id": "MCxmNTg3M2UzZmZhMjNlMDFmZDFjMmI3OTlkZjY4Y2IyNTExMzgxMTUy",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -307,38 +307,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Bad Dream",
-        "url": "https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 202502,
-      "name": "Bad Dream",
-      "url": "https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg"
-    },
-    {
-      "added_at": "2023-09-29 10:51:04",
-      "album": {
-        "name": "Lost In A Rush Of Emptiness",
-        "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
-      },
-      "artists": [
-        {
-          "name": "Bleach Lab",
-          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
-        }
-      ],
-      "duration_ms": 198767,
-      "name": "Nothing Left To Lose",
-      "url": "https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Kate's Not Here (Day Wave & Lawrence Rothman Remix)",
         "url": "https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x"
       },
@@ -359,6 +327,38 @@
       "duration_ms": 187364,
       "name": "Kate's Not Here - Day Wave & Lawrence Rothman Remix",
       "url": "https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK"
+    },
+    {
+      "added_at": "2023-09-29 10:51:04",
+      "album": {
+        "name": "Lost In A Rush Of Emptiness",
+        "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
+      },
+      "artists": [
+        {
+          "name": "Bleach Lab",
+          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
+        }
+      ],
+      "duration_ms": 198767,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Bad Dream",
+        "url": "https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 202502,
+      "name": "Bad Dream",
+      "url": "https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "The world within our bedrooms",
+        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
+      },
+      "artists": [
+        {
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/5amx35Lnc2tzpCAhNjSg5c"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Falling Apart Without You",
         "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 256204,
       "name": "Keep You Warm",
       "url": "https://open.spotify.com/track/4GjWZDfWw5ZnW9vmioJwY0"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "The world within our bedrooms",
-        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
-      },
-      "artists": [
-        {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
-        }
-      ],
-      "duration_ms": 154533,
-      "name": "Vibrate",
-      "url": "https://open.spotify.com/track/5amx35Lnc2tzpCAhNjSg5c"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/3i9uLop8qSpPZ8g4yXXHTN"
     },
     {
-      "added_at": "2023-09-29 10:51:04",
-      "album": {
-        "name": "I Feel It",
-        "url": "https://open.spotify.com/album/379yDlK37waTY9OTYkixcR"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        }
-      ],
-      "duration_ms": 185182,
-      "name": "I Feel It",
-      "url": "https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o"
-    },
-    {
       "added_at": "2023-07-21 10:37:28",
       "album": {
         "name": "Space Between Us",
@@ -797,6 +781,22 @@
       "url": "https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW"
     },
     {
+      "added_at": "2023-09-29 10:51:04",
+      "album": {
+        "name": "I Feel It",
+        "url": "https://open.spotify.com/album/379yDlK37waTY9OTYkixcR"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 185182,
+      "name": "I Feel It",
+      "url": "https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o"
+    },
+    {
       "added_at": "2023-07-21 10:37:28",
       "album": {
         "name": "Giving The World Away",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Stay And Rest For A While",
-        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
-      },
-      "artists": [
-        {
-          "name": "Good Dog",
-          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
-        }
-      ],
-      "duration_ms": 173259,
-      "name": "Stay And Rest For A While",
-      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 950210,
       "name": "Songs",
       "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Stay And Rest For A While",
+        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
+      },
+      "artists": [
+        {
+          "name": "Good Dog",
+          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
+        }
+      ],
+      "duration_ms": 173259,
+      "name": "Stay And Rest For A While",
+      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "27 Club",
-        "url": "https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 214137,
-      "name": "27 Club",
-      "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Gloomy Girl",
         "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 186410,
       "name": "Gloomy Girl",
       "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "27 Club",
+        "url": "https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 214137,
+      "name": "27 Club",
+      "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 389948,
+      "name": "Deceiver",
+      "url": "https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Blister",
         "url": "https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 340000,
       "name": "Near",
       "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 389948,
-      "name": "Deceiver",
-      "url": "https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1283,18 +1283,34 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "What We Left Behind",
-        "url": "https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv"
+        "name": "Sentimiento Mundial",
+        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
       },
       "artists": [
         {
-          "name": "Hydromag",
-          "url": "https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa"
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
         }
       ],
-      "duration_ms": 235462,
-      "name": "What We Left Behind",
-      "url": "https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH"
+      "duration_ms": 178146,
+      "name": "Delicadeza",
+      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1311,22 +1327,6 @@
       "duration_ms": 166453,
       "name": "What Does It Mean To Me?",
       "url": "https://open.spotify.com/track/0fQMFvcUD9j1SBFRoTHxnL"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "James",
-        "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
-      },
-      "artists": [
-        {
-          "name": "Oscar and the Wolf",
-          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
-        }
-      ],
-      "duration_ms": 269268,
-      "name": "James",
-      "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
     }
   ],
   "unique_name": "Dreampop",

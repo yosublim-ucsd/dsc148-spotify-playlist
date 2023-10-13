@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Miel de Montagne",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Astral Bakers",
   "name": "Courant Alternatif",
   "tracks": [
+    {
+      "album": {
+        "name": "200 km/h",
+        "url": "https://open.spotify.com/album/5xjwqRzTw2YqtxbthiC1JM"
+      },
+      "artists": [
+        {
+          "name": "ELOI",
+          "url": "https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160905,
+      "name": "200 km/h",
+      "url": "https://open.spotify.com/track/17UYpnAQnpJLBJCeg8YFUX"
+    },
     {
       "album": {
         "name": "Aloha Baby",
@@ -257,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Idiot du quartier de lune",
+        "url": "https://open.spotify.com/album/6fig2z3viSXQIukDe36Hwo"
+      },
+      "artists": [
+        {
+          "name": "Ian Caulfield",
+          "url": "https://open.spotify.com/artist/4jcI2D2oUbSyQYB4isUZiz"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201346,
+      "name": "Idiot du quartier de lune",
+      "url": "https://open.spotify.com/track/2rD3JBQh4lkVj0qvSbZzw0"
+    },
+    {
+      "album": {
         "name": "Player Non Player",
         "url": "https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K"
       },
@@ -268,7 +304,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 297480,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/1ZpbVeGleNHviKOyPQhMkU"
@@ -549,6 +585,24 @@
     },
     {
       "album": {
+        "name": "mignon",
+        "url": "https://open.spotify.com/album/2LPAGoujHArNcmK94Gll3r"
+      },
+      "artists": [
+        {
+          "name": "L'enfant",
+          "url": "https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143986,
+      "name": "mignon",
+      "url": "https://open.spotify.com/track/532whyQUywJsT8tL5Jgkyz"
+    },
+    {
+      "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/6MTwKUXoJ0zWO8H8bshzqy"
       },
@@ -758,7 +812,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 167932,
       "name": "Sans Cesse",
       "url": "https://open.spotify.com/track/2DLzUlHC6TY0JIri9c3Nd0"
@@ -888,7 +942,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 158160,
       "name": "Tes mains sales",
       "url": "https://open.spotify.com/track/0SlqPsiEli9P0SolyyaeIu"

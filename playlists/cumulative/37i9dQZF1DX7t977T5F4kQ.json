@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw?si=cfLh9-xbSXyIsuwsJr5hYA\"> Jay Bahd</a>",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L?si=RGqtM734R7qRRPRkwQmnpQ\"> Fameye </a>",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 184800,
       "name": "Aluta",
       "url": "https://open.spotify.com/track/42zyObr3pHrqizANcRdSQK"
@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 180000,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/4o288GFXXDZIo745sGSFRJ"
@@ -1540,6 +1540,28 @@
       "duration_ms": 178105,
       "name": "Fate",
       "url": "https://open.spotify.com/track/1QCV9ndrHVnqtMcqXszEN6"
+    },
+    {
+      "album": {
+        "name": "BUTiFLY",
+        "url": "https://open.spotify.com/album/2xvYJb8vpUxIvzmUTeleQ3"
+      },
+      "artists": [
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "Feel Your Body",
+      "url": "https://open.spotify.com/track/7i1IidJjOxCxv9Yq7DKPM5"
     },
     {
       "album": {
@@ -2038,7 +2060,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 181682,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/2FU37MmVlpgnHaP6TCm3W0"
@@ -2856,7 +2878,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 170342,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/0wNnw5wgzLUBo8unHciXpD"
@@ -2936,6 +2958,28 @@
       "duration_ms": 290533,
       "name": "Not God - Live Session",
       "url": "https://open.spotify.com/track/0lZiKKc4PP5E9E9eojgAoO"
+    },
+    {
+      "album": {
+        "name": "Not God (Remix)",
+        "url": "https://open.spotify.com/album/05ruDWqO8oNBoz4L66xzG2"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215757,
+      "name": "Not God - Remix",
+      "url": "https://open.spotify.com/track/3WOjwhAJopm0H1d7Z804JP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,208 likes - 65 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,279 likes - 65 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 64 | [I Don't Care](https://open.spotify.com/track/3hbwdoayA5vJwebCygMDg2) | [Duffy Power](https://open.spotify.com/artist/1HD11ESo3mcg0LtEJSZkvN) | [The Marquis Sessions](https://open.spotify.com/album/2jIctQtMRND7mnasTHEFmW) | 2:42 |
 | 65 | [Still a Fool \- Single Edit](https://open.spotify.com/track/4lYuosKr9Iux8wgkRkJGSN) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ for the Groundhogs: The Liberty Years 1968\-1972](https://open.spotify.com/album/2xpmn3S9CKC1HnnbsHw2mD) | 4:11 |
 
-Snapshot ID: `MCxiMTIyZTdmY2Q2ODI4NmQ3ODJhYmJiNmFhMDBmZTdlYzQ1YTFiNDU5`
+Snapshot ID: `MCxlNTYyYmUzZTBjZjZhOGJiYTIyMThjNzcyYzQ0ZGZhZTBkNjU4ZDk5`

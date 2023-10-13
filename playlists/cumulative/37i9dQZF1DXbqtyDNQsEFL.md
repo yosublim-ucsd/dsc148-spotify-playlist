@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-211 songs - 23 hr 28 min
+212 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Come & See](https://open.spotify.com/track/3Mvw1n1cbjNvyH4QRvaj09) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Come & See](https://open.spotify.com/album/2jt2SWpIkCZ8ECPo2Y9f6k) | 7:27 | 2022-10-14 | 2022-11-05 |
 | [Commando](https://open.spotify.com/track/7xXuJDOPMq2oIWryexZQ5A) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Commando](https://open.spotify.com/album/2pyYdLMR85a4xogAD5ikcn) | 2:33 | 2023-08-25 | 2023-09-06 |
 | [Confidence \- Live](https://open.spotify.com/track/5J0TvJIdYrybgk6SINgieR) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:14 | 2022-06-09 | 2023-01-20 |
-| [Consistent](https://open.spotify.com/track/6JMXe5OMvvxsuE7ND0AzIx) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Nothing but the Gospel](https://open.spotify.com/album/0op0nK45r5sr0KiE8UGoRr) | 8:00 | 2022-09-19 |  |
+| [Consistent](https://open.spotify.com/track/6JMXe5OMvvxsuE7ND0AzIx) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Nothing but the Gospel](https://open.spotify.com/album/0op0nK45r5sr0KiE8UGoRr) | 8:00 | 2022-09-19 | 2023-10-13 |
 | [Covenant Keeper](https://open.spotify.com/track/3oHMTQYoGL1eEAqFDK4bRh) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 3:52 | 2022-10-14 | 2022-11-05 |
 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 | 2022-07-22 |  |
 | [Dadi](https://open.spotify.com/track/1jsNfKk9Jv6QuGaQWFh872) | [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Tobi Toun](https://open.spotify.com/artist/6hZdbBNTnqujBRgVzROQ22), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Dadi](https://open.spotify.com/album/0JGojovVFDXUzBOh4zw9p2) | 2:57 | 2023-05-26 | 2023-06-09 |
@@ -184,6 +184,7 @@
 | [Unlimited God](https://open.spotify.com/track/15KX1ukuGFhPVhziOMzmxs) | [Olumide Iyun](https://open.spotify.com/artist/7s4JPpeVPMOGeS3eODEheL), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Unlimited God, Vol\. 4](https://open.spotify.com/album/4MnjOxY34Yi4NrIYPb2V1V) | 5:12 | 2022-10-14 | 2022-11-05 |
 | [Victory](https://open.spotify.com/track/03CHhDauAkuZsaCsDJ9Evf) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm), [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE) | [Victory](https://open.spotify.com/album/3jau4dbwIs9tbz4DyZ458z) | 3:14 | 2023-06-16 | 2023-07-13 |
 | [Wade In The Water \- Live](https://open.spotify.com/track/0d5m0E5BzI6mrhZVAdDZ2J) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | [Black History Project \(Live from London\)](https://open.spotify.com/album/5ETzZjl4e0CcHbjzI5uBC6) | 3:19 | 2022-06-09 | 2023-06-16 |
+| [Waiting](https://open.spotify.com/track/1RhhWmeGXnBzhgQMvABtVO) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Rae Rae](https://open.spotify.com/artist/2Zhpjwk7OjYXrQG3YOhIzo) | [Waiting](https://open.spotify.com/album/0BD9WVtDVVywYDuKvD5FWy) | 3:21 | 2023-10-13 |  |
 | [Watching All over Me](https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Watching All over Me](https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL) | 3:10 | 2022-06-09 |  |
 | [Wayε Me Yie](https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Wayε Me Yie](https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr) | 5:03 | 2022-06-16 |  |
 | [We Behold\(Qavah Anthem\)](https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [We Behold\(Qavah Anthem\)](https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM) | 12:53 | 2023-07-28 |  |

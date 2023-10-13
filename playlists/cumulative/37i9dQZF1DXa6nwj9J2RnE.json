@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 212135,
       "name": "Afstand",
       "url": "https://open.spotify.com/track/45RziHZ3kb4hZvu15keuPx"
@@ -688,7 +688,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 232168,
       "name": "I Found",
       "url": "https://open.spotify.com/track/7BqGd98KWC3b5GGx1wEQ2V"
@@ -1116,6 +1116,24 @@
       "duration_ms": 205026,
       "name": "Our Time Is Here",
       "url": "https://open.spotify.com/track/3sDLHJgIDP1q2IYnEQjMWq"
+    },
+    {
+      "album": {
+        "name": "UTTERLY MISTAKEN",
+        "url": "https://open.spotify.com/album/0IkT1RbrxEQLDv59ySR6ca"
+      },
+      "artists": [
+        {
+          "name": "FLORA",
+          "url": "https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145073,
+      "name": "OUT LOUD",
+      "url": "https://open.spotify.com/track/7BMOCSHP4JqzgRa4Dukf2W"
     },
     {
       "album": {
@@ -1864,6 +1882,24 @@
       "duration_ms": 208241,
       "name": "Where Nothing Lives",
       "url": "https://open.spotify.com/track/6ofdXDYZi0FlGADmT8GXLM"
+    },
+    {
+      "album": {
+        "name": "mensenkind",
+        "url": "https://open.spotify.com/album/2ezRCf4Loqn8azlJxAV6QM"
+      },
+      "artists": [
+        {
+          "name": "damy",
+          "url": "https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144444,
+      "name": "wolken",
+      "url": "https://open.spotify.com/track/26QmlgDd3OyGvXPjueLSHW"
     },
     {
       "album": {

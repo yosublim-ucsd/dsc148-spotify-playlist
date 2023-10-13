@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 654001,
+  "num_followers": 654311,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDkxYjU5MjU3NzZiYTYxOGUxMmE1ZjM5MGRjNjFmYmVmNWFjMTll",
+  "snapshot_id": "MCw5MDk2NWQ4M2MyODc4OGJmMzdhYTI2MDRiYzdmOGMyM2VjNjI4YzA3",
   "tracks": [
     {
       "added_at": "2023-10-04 13:49:02",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Cub",
-        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 171756,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "Ode to Joy",
         "url": "https://open.spotify.com/album/023pQhsaEoks0T6AfL5cry"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 213127,
       "name": "Love Is Everywhere (Beware)",
       "url": "https://open.spotify.com/track/0cWKIr2hzxT6vuxFrCzcMz"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "The Day My Father Died",
-        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 200693,
-      "name": "Chariot",
-      "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "Californian Soil",
         "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 221387,
       "name": "Californian Soil",
       "url": "https://open.spotify.com/track/1YhJTm664ZT5xheQLBDgd1"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 200693,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "My Grandma Says We Have No Future",
-        "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
-      },
-      "artists": [
-        {
-          "name": "Cari Cari",
-          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "My Grandma Says We Have No Future",
-      "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "As Long As You Are",
         "url": "https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 218738,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/3RGdTJbr4eWMS0upJntQAn"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "My Grandma Says We Have No Future",
+        "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "My Grandma Says We Have No Future",
+      "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Breach",
-        "url": "https://open.spotify.com/album/6w03R3cOqEyw58PhPnYoPg"
-      },
-      "artists": [
-        {
-          "name": "Boatkeeper",
-          "url": "https://open.spotify.com/artist/50KHQF16VC7NeTwFNnKoJ5"
-        }
-      ],
-      "duration_ms": 202361,
-      "name": "Breach",
-      "url": "https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "I'm Around",
         "url": "https://open.spotify.com/album/2grUI8BnHMjjIxLjRMjxmj"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 271854,
       "name": "I'm Around",
       "url": "https://open.spotify.com/track/5mclZNj6vme4vrBOJlJ2ks"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/6w03R3cOqEyw58PhPnYoPg"
+      },
+      "artists": [
+        {
+          "name": "Boatkeeper",
+          "url": "https://open.spotify.com/artist/50KHQF16VC7NeTwFNnKoJ5"
+        }
+      ],
+      "duration_ms": 202361,
+      "name": "Breach",
+      "url": "https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj"
     },
     {
       "added_at": "2023-10-04 13:49:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Di Ferrero \(NXZero\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,271 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,920 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 59 | [Voltar a Ser Canção](https://open.spotify.com/track/4As0FVE0RhNu5nKYgHa3dN) | [Dom Pedro](https://open.spotify.com/artist/2dn4iIwTZDvX8suARVjwBs) | [Primeiro](https://open.spotify.com/album/0Q6r6sOigwWud4pXvg8BTH) | 4:04 |
 | 60 | [Olha minha cara](https://open.spotify.com/track/6y1ssXWGsye4VJsSOP50Kt) | [Canto dos Malditos Na Terra do Nunca](https://open.spotify.com/artist/0zpgOZi5pnXnFxanyxowaI) | [Canto dos Malditos Na Terra do Nunca](https://open.spotify.com/album/2O5Q1X14xnEt4AbS2QkbLp) | 3:31 |
 
-Snapshot ID: `MCxiNmU1ZDI5NjU0ZjhlOWNjZGE4MmUyYjRjNzRlN2RjOWViZWQ3ZDY5`
+Snapshot ID: `MCxkMGQyNjdhYTcyMDNhZWEzZmY1YjQ4YWE5MjFmNzg3MmI4N2FmOWE1`

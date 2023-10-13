@@ -2,12 +2,13 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Werenoi x SCH au top de la première playlist de rap français !
+> Ikaz Boi x Tiakola au top de la première playlist de rap français !
 
-195 songs - 10 hr 3 min
+198 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1 2 3 4](https://open.spotify.com/track/6feTvFEMNj1ytgfNe6kA88) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [1 2 3 4](https://open.spotify.com/album/3KnZAkAduQuv5KhcjjxuDJ) | 3:00 | 2023-10-12 |  |
 | [10 minutes](https://open.spotify.com/track/3KLqY7E5dOgvfZ6qppQ9u7) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:32 | 2023-05-04 |  |
 | [22](https://open.spotify.com/track/0Q9yA6p8yufj42kYFZMdJa) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 3:21 | 2022-07-28 | 2022-11-11 |
 | [22](https://open.spotify.com/track/3iarwMZyDiCy1p4M553MWw) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [22](https://open.spotify.com/album/5xeUL1ff9wFIl6pNxOnmsk) | 3:21 | 2022-06-16 | 2022-07-29 |
@@ -60,7 +61,7 @@
 | [Décembre](https://open.spotify.com/track/5yzH31eVQS7ctEcvYIwdTk) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Décembre](https://open.spotify.com/album/3jYj8yDBVr3Opb71BldBns) | 2:19 | 2023-03-09 | 2023-06-09 |
 | [Elle veut](https://open.spotify.com/track/6YC6zgdJog4gw0y2IyfRmR) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF), [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [Enfant2LaRue Vol\. 2](https://open.spotify.com/album/5Hq4ZIoPwHNYCQiDxxUIpG) | 3:06 | 2022-01-06 | 2022-07-15 |
 | [Entraînement](https://open.spotify.com/track/10IQPICqgiB3TeUV2UcYqz) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 4:11 | 2023-06-15 | 2023-09-24 |
-| [Entraînement](https://open.spotify.com/track/5JwqiWLLvi0HGABtvw57eX) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/1WYGwCvsfFrr7kuQcfNnJr) | 4:11 | 2023-09-21 |  |
+| [Entraînement](https://open.spotify.com/track/5JwqiWLLvi0HGABtvw57eX) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/1WYGwCvsfFrr7kuQcfNnJr) | 4:11 | 2023-09-21 | 2023-10-13 |
 | [Escorte](https://open.spotify.com/track/41owO9tpVFmNAZ4IEpM2iK) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:14 | 2023-04-06 | 2023-07-29 |
 | [Escorte](https://open.spotify.com/track/4cj9dhfsdN71e2gBgCP8Ho) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 3:14 | 2023-07-27 | 2023-09-29 |
 | [Eurostar \(feat\. Central Cee\)](https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:07 | 2023-07-06 |  |
@@ -124,6 +125,7 @@
 | [Ma Came](https://open.spotify.com/track/3x6n0IkVMIqTl7EE2j3R2g) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Ma Came](https://open.spotify.com/album/2R9xCcqvgr4UCFfN3JvviO) | 2:42 | 2023-01-20 | 2023-06-02 |
 | [Ma Came](https://open.spotify.com/track/6DdKVun3sEVCfyeSV1vTJI) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Ma Came](https://open.spotify.com/album/2rW8ck12ZmGvd7NSO1Fbzm) | 2:42 | 2023-01-19 | 2023-01-21 |
 | [Magot](https://open.spotify.com/track/69zAnyBtarXinChSUq925t) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 3:16 | 2023-09-28 |  |
+| [Mahmouma](https://open.spotify.com/track/6JFTOgZAgYwTxYDg9T6VDe) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [Mandat de Dépôt](https://open.spotify.com/album/41HNUXTQtfRTKZdcxD3qH6) | 2:22 | 2023-10-12 |  |
 | [Malpolis](https://open.spotify.com/track/4MHEsggGJNsgcK1zKD6W1D) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Malpolis](https://open.spotify.com/album/1cieqTocQSlVT8W0f8sCDh) | 3:20 | 2022-09-29 | 2023-02-24 |
 | [Manège](https://open.spotify.com/track/0JyX9jNf4mUdp1eNUVAqyR) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/1UEcfpwy8q1TvhATQx6Ntu) | 2:29 | 2022-01-06 | 2022-02-11 |
 | [Mapessa \(feat\. Tiakola\)](https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 2:48 | 2022-01-06 | 2022-09-30 |
@@ -162,6 +164,7 @@
 | [Philly](https://open.spotify.com/track/0KZwbPHcktfHL3OCxXzoYu) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Philly](https://open.spotify.com/album/01dyrtieKEgLywMux9N9tP) | 3:48 | 2023-02-02 |  |
 | [Pistol & Zamal](https://open.spotify.com/track/62N0lcbpZiLKaly4o0DffQ) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Pistol & Zamal](https://open.spotify.com/album/5qzjroW1hyHrxILtShmQwR) | 2:25 | 2023-04-06 | 2023-05-26 |
 | [Platine o Plomo](https://open.spotify.com/track/3q75DDBcn7RfeMxAmTvJ7d) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:37 | 2022-01-06 | 2022-03-25 |
+| [Préjudice](https://open.spotify.com/track/4QNPtD5yF7sTwoE92n2sSg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Préjudice](https://open.spotify.com/album/5v5g6wVemrFkJFJDe4S77V) | 2:01 | 2023-10-12 |  |
 | [Quali](https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Quali](https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF) | 3:01 | 2023-07-27 |  |
 | [Quand j'y repense](https://open.spotify.com/track/3BsYL1gVsiFpo0bM8oTbi0) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Toujours +](https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs) | 3:14 | 2022-10-13 | 2023-05-26 |
 | [Quand tout s'enflamme](https://open.spotify.com/track/04M7hgJo8KgONKo4OL91jz) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Années Sauvages](https://open.spotify.com/album/3zsnpMh0K6pM1Rbo7btDtN) | 2:50 | 2023-02-09 | 2023-06-02 |
@@ -180,7 +183,7 @@
 | [Shavkat](https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Shavkat](https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x) | 3:39 | 2023-08-03 |  |
 | [Shooter](https://open.spotify.com/track/6RkusvVLSW6i29LiUWyg8w) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 2:43 | 2022-02-10 | 2022-04-01 |
 | [Si j'savais](https://open.spotify.com/track/5b0jPRxr4XEqIwWlkGrVq3) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Si j'savais](https://open.spotify.com/album/2Js5uKx7NHtCYqNTqk4LUC) | 3:43 | 2022-05-19 | 2022-11-18 |
-| [Signé](https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Signé](https://open.spotify.com/album/0LQj4X4tGaXE4PwtZGQDuh) | 3:00 | 2023-06-29 |  |
+| [Signé](https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Signé](https://open.spotify.com/album/0LQj4X4tGaXE4PwtZGQDuh) | 3:00 | 2023-06-29 | 2023-10-13 |
 | [Solitaire](https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Solitaire](https://open.spotify.com/album/1w91fuTe3zAPvcSyGlZdvE) | 2:26 | 2022-09-15 | 2023-04-07 |
 | [Sosa](https://open.spotify.com/track/4lx26x6BggtyDtYZxUC0su) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Sosa](https://open.spotify.com/album/3omG7CP7Ipif4phk12EitY) | 2:43 | 2022-11-17 | 2023-04-21 |
 | [Special](https://open.spotify.com/track/2G4C8evrYTOcMhWNSKSBoy) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Special](https://open.spotify.com/album/6TGfYxyok74SZjidtVZB79) | 4:07 | 2023-10-05 |  |
@@ -198,7 +201,7 @@
 | [Urus](https://open.spotify.com/track/2A44J8NMBI9DKi0AZW2W84) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Urus](https://open.spotify.com/album/00G85akdHnBoZJ3hSdjapJ) | 2:28 | 2022-11-03 | 2023-09-15 |
 | [Vengeance !](https://open.spotify.com/track/6R7Efh28yqv5a21h3G7Qbg) | [menace Santana](https://open.spotify.com/artist/5Y5EJ20jDQkkB213zwuDXR) | [!](https://open.spotify.com/album/3n0nvH5owR2tGHLWL4s4Au) | 1:55 | 2022-01-13 | 2022-04-29 |
 | [VVS](https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:07 | 2022-01-06 | 2023-01-13 |
-| [Zaza](https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Zaza](https://open.spotify.com/album/4qtwEHbTm4hUnsa7F8EbLZ) | 2:28 | 2023-05-18 |  |
+| [Zaza](https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Zaza](https://open.spotify.com/album/4qtwEHbTm4hUnsa7F8EbLZ) | 2:28 | 2023-05-18 | 2023-10-13 |
 | [À L'AUBE](https://open.spotify.com/track/1aOy9aPUFFE73cPPUJ2kNW) | [Hös Copperfield](https://open.spotify.com/artist/4fn6Kez1kGOO74vNuKrvCU), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [À L'AUBE](https://open.spotify.com/album/3dRIUWKwJ9lTV59OXqtUN8) | 3:10 | 2023-03-09 | 2023-06-16 |
 | [Ça canarde](https://open.spotify.com/track/7r9KkTYiFYMuNcGR4aySxh) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Anarchiste](https://open.spotify.com/album/0fx7GAAhnZT3gFe7mskNBg) | 3:18 | 2022-01-06 | 2022-01-28 |
 | [Étincelle \- Maradona](https://open.spotify.com/track/2PZTDaakPcvII5QJJP7SDO) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Étincelle \(Maradona\)](https://open.spotify.com/album/19ZrUrjD6DTq9jRbYEOsma) | 3:32 | 2022-01-06 | 2022-06-03 |

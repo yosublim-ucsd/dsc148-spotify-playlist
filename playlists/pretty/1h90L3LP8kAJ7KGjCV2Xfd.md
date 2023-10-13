@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain](/playlists/plain/1h90L3LP8kAJ7KGjCV2Xfd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1h90L3LP8kAJ7KGjCV2Xfd)
 
-### [Happy Songs 🤩 Feel Good Hits](https://open.spotify.com/playlist/1h90L3LP8kAJ7KGjCV2Xfd)
+### [Feel Good 🤩 Happy Hits](https://open.spotify.com/playlist/1h90L3LP8kAJ7KGjCV2Xfd)
 
 > happy \| vibes \| feel good \| music \| mood boost \| happy hits \| clean pop \| positive vibes \| dopamine \| serotonin \| high vibes \| happy summer \| positive affirmation \| upbeat \| drive \| windows down \| good vibes \| indie \| pop \| rock \| alternative \| feelin' good \| healing \| rise \| smile
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 305,651 likes - 221 songs - 12 hr 34 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 305,331 likes - 221 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,4 +230,4 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 | 220 | [I Want To Be Your Only Pet](https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Want To Be Your Only Pet](https://open.spotify.com/album/5JN324RyeAPDTbRDkn5KRW) | 3:34 |
 | 221 | [Perfect Day](https://open.spotify.com/track/1IvmggBcaMBHaJaVaNak69) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Perfect Day](https://open.spotify.com/album/5NHcQLzfaRMSKkZDTLPv4H) | 4:01 |
 
-Snapshot ID: `MzU2NCw4NGFkMmFlNGViNWJkNmEyZmI4YmYwYWFlMjVlMmZmOTI0NWJjNDRl`
+Snapshot ID: `MzU2NSw2NTcxYzc2MTEyZTdjZDQ4NTExNDRlNjUzMjNmZmU1NTQwMmM1YzRm`

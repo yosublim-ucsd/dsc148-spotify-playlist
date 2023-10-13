@@ -2758,7 +2758,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 222706,
       "name": "Komang",
       "url": "https://open.spotify.com/track/2AaaE0qvFWtyT8srKNfRhH"
@@ -3134,6 +3134,28 @@
       "duration_ms": 234000,
       "name": "Mainan",
       "url": "https://open.spotify.com/track/22kK0vT2SplI4UhEaC828t"
+    },
+    {
+      "album": {
+        "name": "MAJAL",
+        "url": "https://open.spotify.com/album/3GQDvnnYHG85S7P5SWz9VX"
+      },
+      "artists": [
+        {
+          "name": "Swanz",
+          "url": "https://open.spotify.com/artist/3Azc9GjO06m477OscwDHkZ"
+        },
+        {
+          "name": "ASMAI",
+          "url": "https://open.spotify.com/artist/7nYdWVbFI4ZwjInvOwsG5e"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222149,
+      "name": "MAJAL",
+      "url": "https://open.spotify.com/track/2Pbyp4hWzGILfOe8L7ol7C"
     },
     {
       "album": {

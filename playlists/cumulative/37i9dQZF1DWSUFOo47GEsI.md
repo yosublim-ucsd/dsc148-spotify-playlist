@@ -4,7 +4,7 @@
 
 > Music to reduce insomnia and help you relax.
 
-375 songs - 18 hr 35 min
+376 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Raft Ahead](https://open.spotify.com/track/6SjsGXE89jzNFTcxRoP4UD) | [Sauftly](https://open.spotify.com/artist/74T0gfwFSioVpy2hcO1Xld) | [Raft Ahead](https://open.spotify.com/album/3VTkKfQsIluLhYff0cdYkE) | 2:44 | 2021-11-10 | 2023-06-10 |
 | [Rayos de luz](https://open.spotify.com/track/7xYWPFjmb1He7vmhGlO4iX) | [João Marta](https://open.spotify.com/artist/64SRAlT6z9a7J2iVrat1si) | [Rayos de luz](https://open.spotify.com/album/56oCwt4NIYgW7AxYs83iap) | 3:24 | 2021-11-10 |  |
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2021-11-10 |  |
+| [Reasons](https://open.spotify.com/track/3a6FURwcm1WZ9MfEzxkTe6) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Reasons](https://open.spotify.com/album/0IQosaM3ZOq4Pz4VeU9vEr) | 3:07 | 2023-10-13 |  |
 | [Redamancy](https://open.spotify.com/track/2iWt83ffEevRHEPJiz6nJN) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Redamancy](https://open.spotify.com/album/3zOIJ6Ke62DFZYdXMMtrnQ) | 3:39 | 2022-09-13 |  |
 | [Relations](https://open.spotify.com/track/66uQkXu45zDJSxvbUR4jPk) | [Diya Wiler](https://open.spotify.com/artist/0DZNNKLNypEjKUpkgJS01w) | [Relations](https://open.spotify.com/album/6bXV4rq5bUsnjnFwi0Xm7c) | 3:04 | 2023-01-20 |  |
 | [Release U](https://open.spotify.com/track/23RCTNUpMvJoBpnWUizG3y) | [Jamie Soner](https://open.spotify.com/artist/1bdlQnsdKWva2CelmDntCB) | [Release U](https://open.spotify.com/album/4TdzdTQDRB9NQs3OYgDPaq) | 3:14 | 2021-11-10 | 2023-06-10 |
@@ -277,7 +278,7 @@
 | [Resting Peace](https://open.spotify.com/track/0BWqXtl5RSRWEDfoL2HdV9) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [Ambioso](https://open.spotify.com/album/6WrK1ZkwCjDKfY8LrAbpt8) | 3:29 | 2021-11-10 | 2022-12-31 |
 | [Reticence](https://open.spotify.com/track/1VLKeNy3qUe8MNvejjTtoy) | [Fiona Kolev](https://open.spotify.com/artist/5gIsewE9wwowXLnCYMpzO4) | [Reticence](https://open.spotify.com/album/3r2Bjqzlzo9eGjzcFjT4Ox) | 2:33 | 2021-11-10 |  |
 | [Retrieved Moments](https://open.spotify.com/track/0VD4MkKGJcWdDsIOZSUyO0) | [Spring Euphemia](https://open.spotify.com/artist/2LTLJd4VIsqMpaoh9dn1ik) | [Retrieved Moments](https://open.spotify.com/album/0rtav09pOyz3h5xNWo3EAW) | 3:04 | 2022-06-16 |  |
-| [Revival](https://open.spotify.com/track/28sltBUJ0po8xXWfTrFPe2) | [Brenda Latro](https://open.spotify.com/artist/0mHX6nwLN0iQCEGTNUkpFC) | [Revival](https://open.spotify.com/album/2I4Gb4vBDlszTW1sHT7MDT) | 3:28 | 2021-11-10 |  |
+| [Revival](https://open.spotify.com/track/28sltBUJ0po8xXWfTrFPe2) | [Brenda Latro](https://open.spotify.com/artist/0mHX6nwLN0iQCEGTNUkpFC) | [Revival](https://open.spotify.com/album/2I4Gb4vBDlszTW1sHT7MDT) | 3:28 | 2021-11-10 | 2023-10-13 |
 | [Rituals](https://open.spotify.com/track/6ijjVhsdUDrHWTkciKq0nD) | [Lorelle Paredes](https://open.spotify.com/artist/6ivO0lqiz77mOwRgh9UNev) | [Rituals](https://open.spotify.com/album/54PzqjmnzQhv0ylYYUSA6A) | 2:24 | 2021-11-10 |  |
 | [Sakalas](https://open.spotify.com/track/6OA8XPGALjJXIhQ7996ftt) | [Gabriel Derus](https://open.spotify.com/artist/0eUKr3LcMQaxwzgIqKKDZ8) | [Sakalas](https://open.spotify.com/album/6YrWkecb5QbcvBBVwJcalr) | 2:56 | 2023-03-30 |  |
 | [Sant](https://open.spotify.com/track/6Y8v8sSvSEGSZi5tkW5Nhw) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Sant](https://open.spotify.com/album/7pt1yJzAhU0RaxvTkno8Of) | 3:38 | 2022-11-22 |  |

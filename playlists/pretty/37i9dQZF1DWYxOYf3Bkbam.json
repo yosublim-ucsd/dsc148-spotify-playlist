@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 42236,
+  "num_followers": 42257,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWU2MWU5YTJiNWYwY2FiMWYwYjg0MmM3ZDY4OWI0MmFjOTkyZjM4",
+  "snapshot_id": "MCw0MDNmZjNhYjNkOTkxNzFhMmVjNzExYzZiN2MyYjU4NTExNzU2NzI0",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Su Poes\u00eda y Su Voz, Vol. 2",
-        "url": "https://open.spotify.com/album/4l5nvz2OokGtlEgNCLxupu"
-      },
-      "artists": [
-        {
-          "name": "Juan Carlos Jensen",
-          "url": "https://open.spotify.com/artist/1GBfQ2cHEpXyGiHBlSjVfi"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "De P\u00e1jaros y Campanas",
-      "url": "https://open.spotify.com/track/5L5R6NMMGc6HiTTbOHZqeO"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Taipero Poriahu",
         "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 189293,
       "name": "Taipero Poriahu",
       "url": "https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Su Poes\u00eda y Su Voz, Vol. 2",
+        "url": "https://open.spotify.com/album/4l5nvz2OokGtlEgNCLxupu"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Jensen",
+          "url": "https://open.spotify.com/artist/1GBfQ2cHEpXyGiHBlSjVfi"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "De P\u00e1jaros y Campanas",
+      "url": "https://open.spotify.com/track/5L5R6NMMGc6HiTTbOHZqeO"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Mario Mill\u00e1n Medina",
-          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Mi ponchillo colorado",
-      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 147986,
       "name": "Siete Higueras",
       "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Mario Mill\u00e1n Medina",
+          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Mi ponchillo colorado",
+      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "12 A\u00f1os Con el Chamam\u00e9",
-        "url": "https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV"
-      },
-      "artists": [
-        {
-          "name": "La Pilarcita",
-          "url": "https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX"
-        },
-        {
-          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
-        }
-      ],
-      "duration_ms": 183220,
-      "name": "El Gallo Negro",
-      "url": "https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Segundo Contacto",
         "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 194853,
       "name": "Para Volver a So\u00f1ar",
       "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "12 A\u00f1os Con el Chamam\u00e9",
+        "url": "https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV"
+      },
+      "artists": [
+        {
+          "name": "La Pilarcita",
+          "url": "https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX"
+        },
+        {
+          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
+        }
+      ],
+      "duration_ms": 183220,
+      "name": "El Gallo Negro",
+      "url": "https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Blas Martinez Riera",
-          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
-        }
-      ],
-      "duration_ms": 185906,
-      "name": "Malvita",
-      "url": "https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Mi Estrella Perdida",
         "url": "https://open.spotify.com/album/1gZEqHoM4jZF6OCHNZWuAu"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 248320,
       "name": "Mi Estrella Perdida",
       "url": "https://open.spotify.com/track/47ugki7NC3Nb0lwUZQEqzd"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
+        }
+      ],
+      "duration_ms": 185906,
+      "name": "Malvita",
+      "url": "https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Andando",
+        "url": "https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ"
+      },
+      "artists": [
+        {
+          "name": "Litoral Tag\u00fce",
+          "url": "https://open.spotify.com/artist/0odFequN8vGiLfovpuY8bE"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "General Madariaga",
+      "url": "https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "P\u00e1jaro Chog\u00fc\u00ed",
         "url": "https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 138893,
       "name": "P\u00e1jaro Chog\u00fc\u00ed",
       "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Andando",
-        "url": "https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ"
-      },
-      "artists": [
-        {
-          "name": "Litoral Tag\u00fce",
-          "url": "https://open.spotify.com/artist/0odFequN8vGiLfovpuY8bE"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "General Madariaga",
-      "url": "https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "La Diferencia",
-        "url": "https://open.spotify.com/album/2L7t3aR7OIj7YdRiYmEd9O"
+        "name": "Con Estilo Mbaret\u00e9",
+        "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
       },
       "artists": [
         {
-          "name": "Los Chamameceros de Federal",
-          "url": "https://open.spotify.com/artist/1iBMoh8uDvIOzP72LbmF9O"
+          "name": "Los Criollitos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r"
         }
       ],
-      "duration_ms": 298893,
-      "name": "L\u00e1zaro Blanco/Como Zapato en la Tapera/Por Llegar de Madrugada/Como Calandria Pal Cebo/barrio Uni\u00f3n/devuelta a Mi Ranchito/a Cachencho Federal",
-      "url": "https://open.spotify.com/track/26Q2T1D7kFDDPs7aoJcgpQ"
+      "duration_ms": 474053,
+      "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
+      "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Con Estilo Mbaret\u00e9",
-        "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
+        "name": "La Diferencia",
+        "url": "https://open.spotify.com/album/2L7t3aR7OIj7YdRiYmEd9O"
       },
       "artists": [
         {
-          "name": "Los Criollitos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r"
+          "name": "Los Chamameceros de Federal",
+          "url": "https://open.spotify.com/artist/1iBMoh8uDvIOzP72LbmF9O"
         }
       ],
-      "duration_ms": 474053,
-      "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
-      "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
+      "duration_ms": 298893,
+      "name": "L\u00e1zaro Blanco/Como Zapato en la Tapera/Por Llegar de Madrugada/Como Calandria Pal Cebo/barrio Uni\u00f3n/devuelta a Mi Ranchito/a Cachencho Federal",
+      "url": "https://open.spotify.com/track/26Q2T1D7kFDDPs7aoJcgpQ"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

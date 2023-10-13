@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,249 likes - 75 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,358 likes - 75 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 64 | [Da Girls \- Dance Mix](https://open.spotify.com/track/6tOKaJyfdulCnW70cmCUHx) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Da Girls \(Dance Mix\)](https://open.spotify.com/album/6sXiCimlYj6lHEowy0khmz) | 2:26 |
 | 65 | [Anxious](https://open.spotify.com/track/7E88f39Uum7WujbktVHUxM) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Anxious](https://open.spotify.com/album/70xcTsZtiHwFKcMaHYHMt6) | 2:01 |
 | 66 | [Clout Chaser Pt\. 4](https://open.spotify.com/track/7KtQMIQ37J6Q9M9XYQPoNx) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [Flyy TheProducer](https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG), [Pyt Ny](https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy) | [Clout Chaser Pt\. 4](https://open.spotify.com/album/0Ax19bfL9zyCOWdMUbFnZJ) | 2:30 |
-| 67 | [cómo t va?](https://open.spotify.com/track/0wNfrrgnzjFLbFeGKPBax5) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [cómo t va?](https://open.spotify.com/album/3GdlieFk7Zy21yxHI5qdgd) | 2:06 |
-| 68 | [Drowning \(feat\. Kodak Black\) \- Jersey Club Remix](https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Remixes\)](https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7) | 2:08 |
+| 67 | [Drowning \(feat\. Kodak Black\) \- Jersey Club Remix](https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Remixes\)](https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7) | 2:08 |
+| 68 | [cómo t va?](https://open.spotify.com/track/0wNfrrgnzjFLbFeGKPBax5) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [cómo t va?](https://open.spotify.com/album/3GdlieFk7Zy21yxHI5qdgd) | 2:06 |
 | 69 | [BE FORREAL](https://open.spotify.com/track/1RmJwFy8hk4VHTSJPU3nm9) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [Big Bam](https://open.spotify.com/artist/2NkyvcYEasg0Yd4a6domnq), [DJ Blizz](https://open.spotify.com/artist/1QkWDabKuR7G7AcFLaN1hq) | [BE FORREAL](https://open.spotify.com/album/01l5PzKJarsRsihuxKfX1h) | 1:26 |
 | 70 | [Put Cha Back In It](https://open.spotify.com/track/5PYxnArK4wlkX5qYENV5Ac) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Vibrate EP](https://open.spotify.com/album/4Z7nLkNRHfL3RRAqECtTEe) | 2:08 |
 | 71 | [The 90s Lied To Us](https://open.spotify.com/track/04b2YLqewR7aMOwGnwXuUJ) | [Dave Childz](https://open.spotify.com/artist/7isyse6k2xFXsZLAE7gwdk) | [The 90s Lied To Us](https://open.spotify.com/album/0BmDsHZemgIKdH98eIOS95) | 1:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 74 | [\#miles \(DJ Sliink Remix\)](https://open.spotify.com/track/4OWGtEwXCFTopkKyEZv0ur) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [\#miles \(DJ Sliink Remix\)](https://open.spotify.com/album/6edZ2TEStQvGjvtTuv20mK) | 3:16 |
 | 75 | [Hatin' Ass Bitches Anthem](https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [Flyy TheProducer](https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG), [Pyt Ny](https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy), [Dj Blizz](https://open.spotify.com/artist/2zYaRrKIuHRb2zeseymcUu) | [Hatin' Ass Bitches Anthem](https://open.spotify.com/album/75l0Wfo3Y4SCb7jkk8Rn10) | 1:56 |
 
-Snapshot ID: `MCxlYjZmMmVjMDcyNDAxZjU5NzIyMGFiMWI3NmRkNDY1ZWRiNmEzNWY4`
+Snapshot ID: `MCwzNjU4ZTIyODU1OWIwZGZhNjI5ZmVjMjA3OWI5OGQyMTNjYzc4ZmY3`

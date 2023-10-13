@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,363 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,454 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 35 | [It's the Way '99](https://open.spotify.com/track/6OpIIDKPGffGytEpqmjlF7) | [Future Underground Nation](https://open.spotify.com/artist/2fbIUYDJY7fITWypLoa2ws) | [It's the Way '99](https://open.spotify.com/album/12GKH2hyb3lppMl3FUQn5B) | 5:03 |
 | 36 | [Love Shy \- Club Asylum Remix](https://open.spotify.com/track/4ThF7v3bdi7wHiDIrB8Ggn) | [Kristine Blond](https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE), [Club Asylum](https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH) | [Love Shy](https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1) | 3:41 |
 | 37 | [Masterblaster 2000 \- Oracles Remix](https://open.spotify.com/track/79QD38Dz9HaIHqQM9t7Wth) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF), [J.J](https://open.spotify.com/artist/4XEZZV3z4TlU5XmXPfKbss), [Oracles](https://open.spotify.com/artist/782ZTSDrjaLcfR9AbmRvxb) | [Masterblaster 2000](https://open.spotify.com/album/54DrfxFAuA9fdGus2bMWBu) | 5:32 |
-| 38 | [Girls Like Us \- Extended Mix](https://open.spotify.com/track/75jvPWqVp6IiFBMuaWSvGe) | [B15 Project](https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc), [Crissy D](https://open.spotify.com/artist/3Pu3KpT4wihOuoADlMWRSh), [Lady G](https://open.spotify.com/artist/1C5RzkueJX7bh2ZrzpA2fa) | [Girls Like Us](https://open.spotify.com/album/2Z7K9KQn69qXxXIIglNYlg) | 5:56 |
-| 39 | [My Desire \- Dreem Team Remix](https://open.spotify.com/track/4wDuuEI9ecmWVVQVfHfrp3) | [AMIRA](https://open.spotify.com/artist/32GCwVMzzFTuaFhQGXgdxD) | [My Desire \(Remixes\)](https://open.spotify.com/album/7m7dj6cgyKXzOkBHF4MDug) | 5:44 |
+| 38 | [My Desire \- Dreem Team Remix](https://open.spotify.com/track/4wDuuEI9ecmWVVQVfHfrp3) | [AMIRA](https://open.spotify.com/artist/32GCwVMzzFTuaFhQGXgdxD) | [My Desire \(Remixes\)](https://open.spotify.com/album/7m7dj6cgyKXzOkBHF4MDug) | 5:44 |
+| 39 | [Girls Like Us \- Extended Mix](https://open.spotify.com/track/75jvPWqVp6IiFBMuaWSvGe) | [B15 Project](https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc), [Crissy D](https://open.spotify.com/artist/3Pu3KpT4wihOuoADlMWRSh), [Lady G](https://open.spotify.com/artist/1C5RzkueJX7bh2ZrzpA2fa) | [Girls Like Us](https://open.spotify.com/album/2Z7K9KQn69qXxXIIglNYlg) | 5:56 |
 | 40 | [Just In Case \- Dub\-A\-Holics Roller's Revival Mix Edit](https://open.spotify.com/track/6wzw5660L5NK8WAMRORDOg) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Summer Heat](https://open.spotify.com/album/46QSMAy6Q1fX9IirJpFDPH) | 3:39 |
 | 41 | [God Made Me Phunky \(Extended Mix\)](https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS) | [God Made Me Phunky](https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc) | 6:16 |
 | 42 | [Let's Groove](https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq) | [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Morel's Grooves \(Pt\. 4\)](https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A) | 6:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 74 | [Kung\-Fu](https://open.spotify.com/track/5y7mEkaEL1fivzcwNhYtrU) | [187 Lockdown](https://open.spotify.com/artist/1tlAuGE8fWLJOWyqdBrR2p) | [187](https://open.spotify.com/album/7v4aQVzT2vh3S4kinfpnV4) | 6:31 |
 | 75 | [Masquerade \- MJ Cole Vocal](https://open.spotify.com/track/6Y0rukXFNvg7b0EqlxEpSZ) | [Gerideau](https://open.spotify.com/artist/3R2svMuMZlY9RBETwlkuEJ), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Masquerade](https://open.spotify.com/album/69AdLMny9By0erdS3ZJBbI) | 6:29 |
 
-Snapshot ID: `MCw5MWE4NDUwMDAzMDlkYjE4YmY2YWE4ZWZlNDllOGVmNDE4Y2EwYTBj`
+Snapshot ID: `MCwyOGYxNTMxYjdjZjAxZjkxZTVmYWNmZTg0MmRmMDIyNzA4ODRlMzFm`

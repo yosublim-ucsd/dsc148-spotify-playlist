@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: NOVELISTS",
-  "num_followers": 649383,
+  "num_followers": 648935,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmUwZmQwYzFmYjRjOWY0ZGNlN2Y5NGMxOGViMjI1ODQ2NWM4M2E0",
+  "snapshot_id": "MCw5YmUyODc1NzQyZmU2N2M5ZTkzOWRjMjBhOWQ4MzZhM2ExMTMzMWU2",
   "tracks": [
     {
       "added_at": "2023-09-15 12:26:41",
@@ -559,22 +559,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
-        "url": "https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf"
+        "name": "Looking for You",
+        "url": "https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9"
       },
       "artists": [
         {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        },
-        {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+          "name": "Amberian Dawn",
+          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
         }
       ],
-      "duration_ms": 148500,
-      "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
-      "url": "https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9"
+      "duration_ms": 233472,
+      "name": "Lay All Your Love on Me",
+      "url": "https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -595,18 +591,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Looking for You",
-        "url": "https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9"
+        "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
+        "url": "https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf"
       },
       "artists": [
         {
-          "name": "Amberian Dawn",
-          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        },
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
         }
       ],
-      "duration_ms": 233472,
-      "name": "Lay All Your Love on Me",
-      "url": "https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t"
+      "duration_ms": 148500,
+      "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
+      "url": "https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "EAT IT UP SPIT IT OUT",
-        "url": "https://open.spotify.com/album/0dAQn8Qq1L1olB4QqQvARM"
-      },
-      "artists": [
-        {
-          "name": "Holy Wars",
-          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
-        }
-      ],
-      "duration_ms": 165282,
-      "name": "21ST CENTURY BITCH",
-      "url": "https://open.spotify.com/track/2car32KMDF9AbUTbRYq5q4"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Stigmata Itch",
         "url": "https://open.spotify.com/album/1lrivcdLt2w1EXhVKwYvLN"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 217173,
       "name": "Colossvs",
       "url": "https://open.spotify.com/track/2UT1QfO4PD8fYaKaZetv2t"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "EAT IT UP SPIT IT OUT",
+        "url": "https://open.spotify.com/album/0dAQn8Qq1L1olB4QqQvARM"
+      },
+      "artists": [
+        {
+          "name": "Holy Wars",
+          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
+        }
+      ],
+      "duration_ms": 165282,
+      "name": "21ST CENTURY BITCH",
+      "url": "https://open.spotify.com/track/2car32KMDF9AbUTbRYq5q4"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "Cure 4 Psycho",
+        "url": "https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 157749,
+      "name": "Cure 4 Psycho",
+      "url": "https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "Sleeping with the Enemy",
         "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 106331,
       "name": "FYB",
       "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "Cure 4 Psycho",
-        "url": "https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        }
-      ],
-      "duration_ms": 157749,
-      "name": "Cure 4 Psycho",
-      "url": "https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "BEAVER CAGE",
-        "url": "https://open.spotify.com/album/5JV4NKwb73DvgeUOcjlV6Z"
+        "name": "METAL KINGDOM",
+        "url": "https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE"
       },
       "artists": [
         {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "duration_ms": 218487,
-      "name": "BEAVER CAGE",
-      "url": "https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0"
+      "duration_ms": 351354,
+      "name": "METAL KINGDOM",
+      "url": "https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi"
     }
   ],
   "unique_name": "Heavy Queens",

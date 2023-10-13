@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 123954,
+  "num_followers": 123944,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDAyYjVkZjEyZDk3MzA0NTQ5Y2QzZWFiMzg1ZGUwOWEzMWViZGJm",
+  "snapshot_id": "MCxkYjQzMzFkYmY0MjRkZjkxOGQ3M2E5ZjgwMDVkYjFhMWY2YzQyODc4",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Out Here On A Friday Where It Began (Live)",
-        "url": "https://open.spotify.com/album/6WW9fXSiAv0wj5gn8XbFvy"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 162894,
-      "name": "Phenomena (DA DA) - Live",
-      "url": "https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Quiet Talk",
         "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 168000,
       "name": "Quiet Talk",
       "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Out Here On A Friday Where It Began (Live)",
+        "url": "https://open.spotify.com/album/6WW9fXSiAv0wj5gn8XbFvy"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 162894,
+      "name": "Phenomena (DA DA) - Live",
+      "url": "https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Never Have I Ever",
+      "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "All I See (feat. CASS)",
         "url": "https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 183341,
       "name": "All I See (feat. CASS)",
       "url": "https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Never Have I Ever",
-      "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Louder",
-        "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
+        "name": "Ages",
+        "url": "https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k"
       },
       "artists": [
         {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Louder",
-      "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
+      "duration_ms": 224693,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Ages",
-        "url": "https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k"
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
       },
       "artists": [
         {
-          "name": "River Valley AGES",
-          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
         }
       ],
-      "duration_ms": 224693,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc"
+      "duration_ms": 182000,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Fear Not",
-        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
-      },
-      "artists": [
-        {
-          "name": "FEARLESS BND",
-          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
-        }
-      ],
-      "duration_ms": 333890,
-      "name": "Not a Chance",
-      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Worship: The Remix Project, Vol. 3",
         "url": "https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 227500,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Fear Not",
+        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
+      },
+      "artists": [
+        {
+          "name": "FEARLESS BND",
+          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
+        }
+      ],
+      "duration_ms": 333890,
+      "name": "Not a Chance",
+      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
     },
     {
       "added_at": "2023-02-18 04:35:24",

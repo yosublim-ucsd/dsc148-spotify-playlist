@@ -2037,6 +2037,24 @@
     },
     {
       "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/4oWakKLFI6Sqxku6v8RBWt"
+      },
+      "artists": [
+        {
+          "name": "Pireas",
+          "url": "https://open.spotify.com/artist/3ypTDxZrbGFGzOhO4XQuJd"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116258,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/2xzeiaDWINS5uKxcKACelE"
+    },
+    {
+      "album": {
         "name": "Playing With The Wind",
         "url": "https://open.spotify.com/album/1MAfSjDCWtWMddzLKCSMpe"
       },

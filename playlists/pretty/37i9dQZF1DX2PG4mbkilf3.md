@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with Majid Jordan\. ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,913 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,927 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [MORAL](https://open.spotify.com/track/4FVeq46pcFppDtiMd8GReE) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [MORAL](https://open.spotify.com/album/7eMOW9nITxzhIs7RUzv26H) | 2:45 |
 | 100 | [Closure](https://open.spotify.com/track/7LtlYlVrSuM54aKxa0FxDZ) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Closure \(Remix\)](https://open.spotify.com/album/0Sg1F7YdSv1ApoTBpzcvSM) | 3:56 |
 
-Snapshot ID: `MCwxMTkyMzRkZGFmOWNlMmRhZmVhZmFhNDczZTFkMjkyNzFjODExZmFl`
+Snapshot ID: `MCwxNGYxM2EyNDc4NGY3NzQwODE3YWQzZDhmYTZmNDg5YTM1MjNhMjQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,570 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,533 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 33 | [Go DJ](https://open.spotify.com/track/1iD60ApOiYKOb32UCaYWP1) | [Lil' Max$o](https://open.spotify.com/artist/7kXeApbOgTQGEeF76m6qQP) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:22 |
 | 34 | [I'm Healthy](https://open.spotify.com/track/7ECdYi17tlPuGg9YVblRPU) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap](https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C) | 2:33 |
 | 35 | [Hey Ya](https://open.spotify.com/track/7qEaSln7DzqWAxVWPJG8hz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Party Hits](https://open.spotify.com/album/7dtTU6GpOYFNwF5hE1o4zE) | 3:55 |
-| 36 | [Bored is a Bad Word](https://open.spotify.com/track/6l8PVMHkToebBTlJacW6Fa) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Underground Playground](https://open.spotify.com/album/41kgd9xgfuYAmKasunl4Sa) | 3:43 |
-| 37 | [Joy to the World](https://open.spotify.com/track/63myJHXOKprgF5Kdze08XA) | [Roots Radics](https://open.spotify.com/artist/2tm55XgrmiuDC0RBTE9AQT) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 2:37 |
+| 36 | [Joy to the World](https://open.spotify.com/track/63myJHXOKprgF5Kdze08XA) | [Roots Radics](https://open.spotify.com/artist/2tm55XgrmiuDC0RBTE9AQT) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 2:37 |
+| 37 | [Bored is a Bad Word](https://open.spotify.com/track/6l8PVMHkToebBTlJacW6Fa) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Underground Playground](https://open.spotify.com/album/41kgd9xgfuYAmKasunl4Sa) | 3:43 |
 | 38 | [Rise](https://open.spotify.com/track/00Nx5kFUJBcdGa0GNPH8Lx) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Tower to Tower 2](https://open.spotify.com/album/0FT8XvXuscoSlxZb5138Fq) | 3:03 |
 | 39 | [Man Stop](https://open.spotify.com/track/12Llj63CAU32PYzOc40h8Z) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Da Boss Baby EP](https://open.spotify.com/album/1x5OIHJhieOQhkqjUoulQ8) | 1:59 |
 | 40 | [Dance Party in the House](https://open.spotify.com/track/6ZSMbNa2ZSmLR7LlC5Bz0m) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap \(In the House\)](https://open.spotify.com/album/2waS7cb3Rnkr2oZLO6l0Wf) | 3:18 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 45 | [Kids That Rock](https://open.spotify.com/track/3MZmpfcmRK73emDMcqNpbe) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 7](https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6) | 3:30 |
 | 46 | [Have Fun](https://open.spotify.com/track/2SRrXQG5zBbd2VUZFu38iL) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Easy](https://open.spotify.com/album/0z7eg9m6jd8CfepI2WLLC6) | 3:06 |
 | 47 | [2 Times Tables \(Biggie Style\)](https://open.spotify.com/track/6pFoYMv2aU4aBORxa4UrIz) | [Multiplication Hip Hop For Kids](https://open.spotify.com/artist/661nGSGFdpxESwfUkaaLEL) | [Multiplication Times Tables \- 2 Pac, Biggie, & TI Style](https://open.spotify.com/album/7J2JwQSMGuY513Bo3lDGjc) | 4:49 |
-| 48 | [Boomerang](https://open.spotify.com/track/6c3ipL19bLPHrpoj5kKawy) | [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rita Rosa](https://open.spotify.com/artist/3ZRSW9hN8aC1KiRGb4Bb0k), [Verny Varela](https://open.spotify.com/artist/63vWZsC4Qd6AAdeqWfVwdk) | [Hola, Amigo: Songs of Friendship](https://open.spotify.com/album/0V5TLnYXWxNFZ0Bmy5bOza) | 3:10 |
-| 49 | [The Cypher](https://open.spotify.com/track/1RlNTr0g5m8b1juzyPEz1e) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [The Cypher](https://open.spotify.com/album/0iFJLdXv22Uam0ItEQ4076) | 2:52 |
-| 50 | [Dance to the Reggae Rhythm \(feat\. Father Goose\)](https://open.spotify.com/track/0PylWiOSendDTztmimb42y) | [Aaron Nigel Smith](https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4), [Father Goose](https://open.spotify.com/artist/7aufdCkGeBn79Gmb6ir6ys) | [One](https://open.spotify.com/album/5uTpQiaJIt5aSKMXAlCCqW) | 3:25 |
+| 48 | [The Cypher](https://open.spotify.com/track/1RlNTr0g5m8b1juzyPEz1e) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [The Cypher](https://open.spotify.com/album/0iFJLdXv22Uam0ItEQ4076) | 2:52 |
+| 49 | [Dance to the Reggae Rhythm \(feat\. Father Goose\)](https://open.spotify.com/track/0PylWiOSendDTztmimb42y) | [Aaron Nigel Smith](https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4), [Father Goose](https://open.spotify.com/artist/7aufdCkGeBn79Gmb6ir6ys) | [One](https://open.spotify.com/album/5uTpQiaJIt5aSKMXAlCCqW) | 3:25 |
+| 50 | [Boomerang](https://open.spotify.com/track/6c3ipL19bLPHrpoj5kKawy) | [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rita Rosa](https://open.spotify.com/artist/3ZRSW9hN8aC1KiRGb4Bb0k), [Verny Varela](https://open.spotify.com/artist/63vWZsC4Qd6AAdeqWfVwdk) | [Hola, Amigo: Songs of Friendship](https://open.spotify.com/album/0V5TLnYXWxNFZ0Bmy5bOza) | 3:10 |
 
-Snapshot ID: `MCwyMDI4MjMyNDNhZTA4MDEwMGY1ZWQ0N2U3MThiNzhkMDQ2MWE5MDM0`
+Snapshot ID: `MCw2NjJjYmZjYmJiMWYzZjE3ZjRmMGM3Yzk5NjEyYTY1OGU1N2Q3MDA1`

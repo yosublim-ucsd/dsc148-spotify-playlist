@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Der Zitronenbaum",
+        "url": "https://open.spotify.com/album/7hOfOjdJETRvyEVQPD0sKR"
+      },
+      "artists": [
+        {
+          "name": "Camilo Branca",
+          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150716,
+      "name": "Der Zitronenbaum",
+      "url": "https://open.spotify.com/track/5dUnoV5tSQQUvneGmiQ0gG"
+    },
+    {
+      "album": {
         "name": "Destino",
         "url": "https://open.spotify.com/album/1u2JiFBEIL5S4pPArH5df6"
       },
@@ -754,7 +772,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 148362,
       "name": "Destino",
       "url": "https://open.spotify.com/track/2Yw5Xgku6dIBZDVpOLW0Dv"
@@ -1539,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "Into Your Arms",
+        "url": "https://open.spotify.com/album/4NVq00ICpY2IjkUAxLwoYK"
+      },
+      "artists": [
+        {
+          "name": "Oaktree Melodies",
+          "url": "https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154669,
+      "name": "Into Your Arms",
+      "url": "https://open.spotify.com/track/5d09XwfMeUBHzZ2ZBexX9k"
+    },
+    {
+      "album": {
         "name": "Just One Step At A Time",
         "url": "https://open.spotify.com/album/49pNKyGqE0DIc9vF9XVjGp"
       },
@@ -2259,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/0ez2YoSEOUJJOgHDlprSxR"
+      },
+      "artists": [
+        {
+          "name": "Vita Alexander",
+          "url": "https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141991,
+      "name": "Meliora",
+      "url": "https://open.spotify.com/track/5Rcadz15kuvonMLJ6Oc8OF"
+    },
+    {
+      "album": {
         "name": "Melrose",
         "url": "https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj"
       },
@@ -2288,7 +2342,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 124333,
       "name": "Melrose",
       "url": "https://open.spotify.com/track/7o39DRcwrKMz17xUNc0BbN"

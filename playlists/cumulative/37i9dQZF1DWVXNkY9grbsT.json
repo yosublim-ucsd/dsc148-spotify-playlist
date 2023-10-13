@@ -2525,6 +2525,28 @@
     },
     {
       "album": {
+        "name": "Metallic Spheres In Colour",
+        "url": "https://open.spotify.com/album/4Rfyk5GBsfwxVjctVoJHgs"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        },
+        {
+          "name": "David Gilmour",
+          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547920,
+      "name": "Flat Side: Seamlessly Martian Spheres of Reflection Mix: Movement 4",
+      "url": "https://open.spotify.com/track/3iy7QnGu7UFU9tInjNnjPp"
+    },
+    {
+      "album": {
         "name": "Fond",
         "url": "https://open.spotify.com/album/5PEVqlVVEvvQJgmLmQ7IEh"
       },
@@ -5165,6 +5187,24 @@
     },
     {
       "album": {
+        "name": "In Electric Time",
+        "url": "https://open.spotify.com/album/7hwgIUsEcY3xfvC3I947TL"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271240,
+      "name": "Seawater Swell",
+      "url": "https://open.spotify.com/track/19c9OUyBtj1Mmgh5hfiUou"
+    },
+    {
+      "album": {
         "name": "Trance Spirits (2022 Remaster)",
         "url": "https://open.spotify.com/album/4GLYU9Ajjtqe9QwU8wOviJ"
       },
@@ -5300,7 +5340,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 447847,
       "name": "Signal",
       "url": "https://open.spotify.com/track/1BlAZfBzrNiXyHfUQUSilj"
@@ -6586,7 +6626,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 413755,
       "name": "VCDB",
       "url": "https://open.spotify.com/track/1AyFY68bV6nIaO6E8Arcyp"

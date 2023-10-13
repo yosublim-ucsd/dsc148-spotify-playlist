@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 19167,
+  "num_followers": 19170,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWQ2YmIxYWVmNzBlMWZiYjFkNTFkOTdiMDcxNmE3MzFkYWExZmIw",
+  "snapshot_id": "MCwwM2ZlMTQzMDVlMDJjYzI2MDAzMzRhOWI2MjhkNzE0MGJiMmViZTQ4",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -327,6 +327,22 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
+        "name": "Reminisce",
+        "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
+      },
+      "artists": [
+        {
+          "name": "WMD",
+          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
+        }
+      ],
+      "duration_ms": 273117,
+      "name": "It Was 9:30 and You Were Beautiful",
+      "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
         "name": "Der Bote",
         "url": "https://open.spotify.com/album/2FCodoLjwxOlCuK7KbUOMq"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Reminisce",
-        "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
-      },
-      "artists": [
-        {
-          "name": "WMD",
-          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
-        }
-      ],
-      "duration_ms": 273117,
-      "name": "It Was 9:30 and You Were Beautiful",
-      "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "The Campfire Headphase",
         "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "I Can Hear the Birds",
-        "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 288866,
-      "name": "Brockley",
-      "url": "https://open.spotify.com/track/5gz0QlcMMxQXZgXC1uvi5k"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 278693,
       "name": "Tobiume",
       "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "I Can Hear the Birds",
+        "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 288866,
+      "name": "Brockley",
+      "url": "https://open.spotify.com/track/5gz0QlcMMxQXZgXC1uvi5k"
     },
     {
       "added_at": "2021-09-10 04:35:25",

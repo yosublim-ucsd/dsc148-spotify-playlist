@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-560 songs - 1 day 11 hr 18 min
+561 songs - 1 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Cul de Sac](https://open.spotify.com/track/4AMrfTJror50C9Tx3zX5Z2) | [HOUNDTRACK](https://open.spotify.com/artist/3nw1z931Oc4JMbF4rGfz6O) | [Cul de Sac](https://open.spotify.com/album/0KcH619DqxpelLGbWgRA0J) | 3:35 | 2020-10-20\* | 2021-06-23 |
 | [Daiane's Samba](https://open.spotify.com/track/5SQTB8jJNdMHKQslwg1GX2) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [Daiane's Samba](https://open.spotify.com/album/5BnKfRcJNRnbWvYTiTy3vU) | 2:43 | 2021-01-29 |  |
 | [Dancing On The Ceiling](https://open.spotify.com/track/4i9EX3daDLV0qiWOROKCUJ) | [SCRP](https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1) | [Dancing On The Ceiling](https://open.spotify.com/album/1t1lPrpOtT685DdfsWwIuz) | 3:51 | 2023-01-13 |  |
+| [Dancing with Taylor](https://open.spotify.com/track/36PqpImKv4HV6ueNoR0o9s) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Dancing with Taylor](https://open.spotify.com/album/4bLhdFsywgLO3Hup4H4Qan) | 3:01 | 2023-10-12 |  |
 | [Dawncaller](https://open.spotify.com/track/68RwfkkJ1VFOr5g3Apeif7) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Raincaller](https://open.spotify.com/album/0ZHvIq9zoftFWPbBeRpgVc) | 4:04 | 2020-10-20\* | 2021-05-13 |
 | [Deep Forest](https://open.spotify.com/track/1wVd0OZYD1aUQfqwwJqf7U) | [TOMATOSLICE](https://open.spotify.com/artist/6EqyBfmaGsykcIF15BCATj) | [Deep Forest](https://open.spotify.com/album/0efSrTP5Bp6QsyZdUJV6rj) | 5:18 | 2020-12-24 | 2021-01-29 |
 | [Deep in a Dream](https://open.spotify.com/track/36Dn2xN9wrCfVSGu4NlJBu) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Don’t Stop](https://open.spotify.com/album/7sQFQyKIQL2CSrRCqqkszF) | 6:05 | 2021-05-13 | 2021-10-16 |
@@ -293,7 +294,7 @@
 | [Makes Me Feel](https://open.spotify.com/track/3M2yTiUW78Qy0Ns0b1RLGn) | [Alex Dovo](https://open.spotify.com/artist/2dFwWoBhOLLBO9bfTUvqaL) | [Makes Me Feel](https://open.spotify.com/album/29svWGr4NecSbSwbsLakw6) | 7:05 | 2020-10-20\* | 2020-10-30 |
 | [Malibu](https://open.spotify.com/track/2MWvKZWDgGZEZrcnf31ncO) | [Candrian](https://open.spotify.com/artist/63cZ0PSG0ATAKRWRmTcYAJ) | [Malibu](https://open.spotify.com/album/7caM8UC7Fff0eCgIOVfTLS) | 2:39 | 2021-03-25 | 2021-06-23 |
 | [Marbella Sun](https://open.spotify.com/track/4RiHR70ysOr82n2d5cAq8q) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Marbella Sun](https://open.spotify.com/album/28Pm0uMfRZyKcaXhI2SynC) | 3:44 | 2021-04-15 | 2022-07-01 |
-| [Marilyn](https://open.spotify.com/track/6PiyVPRpo96Qn9xxyjmbSe) | [MC Baptiste](https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL) | [Marilyn](https://open.spotify.com/album/15q9GI1pbHFAFD6PjtPKP2) | 2:51 | 2022-07-01 |  |
+| [Marilyn](https://open.spotify.com/track/6PiyVPRpo96Qn9xxyjmbSe) | [MC Baptiste](https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL) | [Marilyn](https://open.spotify.com/album/15q9GI1pbHFAFD6PjtPKP2) | 2:51 | 2022-07-01 | 2023-10-13 |
 | [Matter](https://open.spotify.com/track/5Rd1qrMQpuDcgmqrhC1OcM) | [Klejv](https://open.spotify.com/artist/491ZjutBNQPFA6hn5lDQW4) | [Matter](https://open.spotify.com/album/3AjQTfwlLHoiblJkFZPTCi) | 2:39 | 2021-05-13 | 2021-10-16 |
 | [Mediterranea](https://open.spotify.com/track/6WyxIRWwje9OjziaplhUVJ) | [Thirsty Ear](https://open.spotify.com/artist/6RqaxUVExoKE01pPo39A2e) | [Mediterranea](https://open.spotify.com/album/6XOJlEUYi2uRbPwWqBfm6u) | 4:21 | 2021-06-23 |  |
 | [Mellow Trouble](https://open.spotify.com/track/4MVCzATZ6mpXsZ1sLz7QYn) | [Sin.Clare](https://open.spotify.com/artist/5TNJ1DPxBNr0rBHWuyeo3w) | [Mellow Trouble](https://open.spotify.com/album/6kZ8F8oIo2Ze1izmthGiuS) | 2:54 | 2021-10-16 |  |

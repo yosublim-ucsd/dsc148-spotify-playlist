@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. Foto: Juliana Gattas
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,270 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,262 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 7 | [Que poco saben de mí](https://open.spotify.com/track/7DJnS2omEQOjU1hbLCPUH7) | [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [Que poco saben de mí](https://open.spotify.com/album/1aqUCKeSXnMeAQnrAxq6SM) | 3:44 |
 | 8 | [La Historia Sin Final](https://open.spotify.com/track/2vK2Q4Evlb7VYwZ3FCweSb) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [La Historia Sin Final](https://open.spotify.com/album/1de1EluzPrCYRh7BlEQPtv) | 2:52 |
 | 9 | [Ya No](https://open.spotify.com/track/26qmCEncx9paaaIQro9K8A) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:29 |
-| 10 | [Fin del Mundo](https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 5:19 |
-| 11 | [PINCHÓ](https://open.spotify.com/track/6Xvkvbjdk920JEBQfYUqAm) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [PINCHÓ](https://open.spotify.com/album/18Xynx3lXf0c3mNqEV4ngD) | 3:05 |
+| 10 | [PINCHÓ](https://open.spotify.com/track/6Xvkvbjdk920JEBQfYUqAm) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [PINCHÓ](https://open.spotify.com/album/18Xynx3lXf0c3mNqEV4ngD) | 3:05 |
+| 11 | [Fin del Mundo](https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 5:19 |
 | 12 | [pensando en ti](https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [pensando en ti](https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9) | 3:17 |
 | 13 | [Hay que venir al Sur](https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Hay que venir al Sur](https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC) | 3:48 |
 | 14 | [Reina](https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Cardo o Ceniza](https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl) | 3:03 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 33 | [A Veces No Da](https://open.spotify.com/track/4oSj4VDcYCjt74sswuw7Ou) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [A Veces No Da](https://open.spotify.com/album/6pWQ8icbcWlDOSmrPA6XC5) | 3:14 |
 | 34 | [Distraída](https://open.spotify.com/track/3tbD5rcDj4wAl9gLg5z42E) | [Faraonika](https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk), [Coghlan](https://open.spotify.com/artist/3w5H96UHynWkmtg1zm7HUg) | [Distraída](https://open.spotify.com/album/11AaRkvtuiD9NxBhCdoMwZ) | 2:42 |
 | 35 | [Escama de Vidrio](https://open.spotify.com/track/4SsymOuHEuMZFsqHsN2ASL) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [EL MUNDO PEQUEÑO](https://open.spotify.com/album/7wmhvmQJ2Ms31oXLF0mLzi) | 3:34 |
-| 36 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 |
-| 37 | [Despejarte](https://open.spotify.com/track/1FLNgasNG7B2OXdJKplNCd) | [Mailen Pankonin](https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5) | [Affaire](https://open.spotify.com/album/43wkXdPtvXxK5q3Wsh4ljE) | 2:59 |
+| 36 | [Despejarte](https://open.spotify.com/track/1FLNgasNG7B2OXdJKplNCd) | [Mailen Pankonin](https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5) | [Affaire](https://open.spotify.com/album/43wkXdPtvXxK5q3Wsh4ljE) | 2:59 |
+| 37 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 |
 | 38 | [Fuerte](https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Fuerte](https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5) | 3:49 |
 | 39 | [Odio despertar](https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Odio despertar](https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS) | 4:27 |
 | 40 | [Éxodo Mental](https://open.spotify.com/track/1ZT6RqnorPxsQnQ2mzgwP1) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Pánico y Distorsión](https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Invencible](https://open.spotify.com/track/57ZD0rQSin2Tg28Bx1jUxp) | [Jimena Lopez Chaplin](https://open.spotify.com/artist/08aspKTy15p0uOx8hOokKY) | [El Ruido de la Piara](https://open.spotify.com/album/1kDa9uU0TtQ8vjofZQpVeP) | 2:34 |
 | 50 | [El Estado de las Cosas Como Son](https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Desaria](https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8) | [El Estado de las Cosas Como Son](https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE) | 3:02 |
 
-Snapshot ID: `MCwzZmI5NTM1M2M3NDc4NzE5MDBkODdiZGUxNjc5MzBhYmYwNmFkMzJi`
+Snapshot ID: `MCxiZGJiMjQwOWY5ZmQ4NDc2NzNjOGY2ZDY4YmNhYzk3NjkyNGNjNjBh`

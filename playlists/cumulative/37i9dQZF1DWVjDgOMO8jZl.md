@@ -4,7 +4,7 @@
 
 > Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:24oVOFAARWAYUb1LaedbI0">Icy Subzero</a>
 
-124 songs - 6 hr 1 min
+125 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Particelle \(feat\. Laila Al Habash\)](https://open.spotify.com/track/2w75dcKrvv4GRShZ4JEsFx) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Particelle \(feat\. Laila Al Habash\)](https://open.spotify.com/album/1vlzf9KjSJ3Bm8T6MoGbas) | 3:28 | 2022-08-31 | 2023-04-12 |
 | [Pasta Rossa](https://open.spotify.com/track/4ZM0faoYcQViZmQYKUdpyc) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Macchie](https://open.spotify.com/album/24TYUiY7aNSq7MeI9VamLh) | 3:28 | 2022-08-31 | 2023-04-12 |
 | [Per sentirsi meno soli](https://open.spotify.com/track/23C3f0TckAwl0PFWXqDDKz) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [FIAT131](https://open.spotify.com/artist/517LowCOyXMoAyEYVK3nuA), [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Per sentirsi meno soli](https://open.spotify.com/album/3wy8IYXn4kEco6DoCn0imf) | 2:10 | 2023-04-11 |  |
+| [PETARDI](https://open.spotify.com/track/6aBkkxEVmDGC1o0DpxQcjM) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PETARDI](https://open.spotify.com/album/0KFD7ttxVpwUGGHws8HKod) | 2:28 | 2023-10-12 |  |
 | [Petite](https://open.spotify.com/track/2Yuqyd3Ah8n2pcumd7xB6v) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Petite](https://open.spotify.com/album/7lXvqyfPkgQpx6jXTOQBni) | 2:33 | 2022-08-31 | 2023-04-12 |
 | [Pioggia di CBD](https://open.spotify.com/track/5eL7azGDSAndUemSxGm79B) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Pioggia di CBD](https://open.spotify.com/album/4UcG471p9uZwNJUGLRG4Ib) | 3:10 | 2022-08-31 | 2023-04-12 |
 | [Poker](https://open.spotify.com/track/6wHgwzvhFNFT01ecGXNGrI) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 2:41 | 2022-08-31 | 2023-04-12 |

@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-114 songs - 6 hr 20 min
+117 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Calihue](https://open.spotify.com/track/1DLvqCj6UGzQcPoXzH6wMM) | [Paihuén](https://open.spotify.com/artist/4UOw7vZ41cwDXGNce9zTLB) | [Calihue](https://open.spotify.com/album/4E0BbqjU0J9EU3aIPtwkp6) | 2:11 | 2022-09-15 |  |
 | [Call of the Sea](https://open.spotify.com/track/4aB1CV3jThJqcdCvoh70ZT) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Call of the Sea](https://open.spotify.com/album/7orgE1tuvFQoWVQpxgh9ep) | 4:51 | 2022-10-07 | 2023-09-01 |
 | [Calm Forest](https://open.spotify.com/track/0lC8zT7WHcpDfY4nXly46Y) | [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [Calm Forest](https://open.spotify.com/album/3shOyi6D4SFu1LG27tSyO4) | 3:12 | 2022-11-11 | 2023-06-17 |
+| [Catacea Animals](https://open.spotify.com/track/65nwy2Gx3Om5fuyySr1RAS) | [Aya Morata](https://open.spotify.com/artist/6ryTZyH1Vnxas1vzYPzE0L) | [Catacea Animals](https://open.spotify.com/album/38yEh4LCIMJil5LsbUVT6m) | 2:28 | 2023-10-13 |  |
 | [Catchacoma Lake](https://open.spotify.com/track/0KBDOOB3rmySzqcqIet1wp) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Catchacoma Lake](https://open.spotify.com/album/7fTupqeF42aDgxnwxZ4XAj) | 2:59 | 2022-09-23 |  |
 | [Clarity](https://open.spotify.com/track/2SEFRp8tsRpHMDuoOLDySR) | [Jaylen Sharise](https://open.spotify.com/artist/0xrQf6fTJb3fjpYyddA0ph) | [Clarity](https://open.spotify.com/album/6Zfm4chfknuDbhHbwrmWZf) | 2:46 | 2022-09-15 |  |
 | [Comfortable under the Surface](https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:05 | 2022-09-15 |  |
@@ -92,13 +93,14 @@
 | [Perfect State Of Mind](https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ) | [Pine River](https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN) | [Perfect State Of Mind](https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b) | 2:35 | 2023-03-10 |  |
 | [Pristine Serenity](https://open.spotify.com/track/2CttcShYdFruE99bOglV8x) | [Calmatics](https://open.spotify.com/artist/37sS66WbTIbdn4ewquyWhw) | [Pristine Serenity](https://open.spotify.com/album/6AcVoBF3DeDJyDy8OrQXEM) | 2:40 | 2022-09-30 |  |
 | [Radiance](https://open.spotify.com/track/09j78GCloYLj0f1MG1V6h0) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Radiance](https://open.spotify.com/album/4bzmUK9MSQoKeQZk4VzpZQ) | 2:13 | 2022-10-14 |  |
+| [Recovery](https://open.spotify.com/track/2ieNJNNIwKIiT68JKVNv9I) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Recovery](https://open.spotify.com/album/31vutoDOOQeWJWo3B1s45F) | 3:12 | 2023-10-13 |  |
 | [Sacred Groves](https://open.spotify.com/track/04cZKVBULr2VKl7VwquEUF) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Silent Mind](https://open.spotify.com/album/45La9VqG8XymSR0sul7XAp) | 2:01 | 2022-09-15 |  |
 | [Secrets of the Forest](https://open.spotify.com/track/7rVg5IaSVhulVdXpIUbZcR) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Secrets of the Forest](https://open.spotify.com/album/1MMXk8aJ4rCi8tBrKXa433) | 2:55 | 2022-09-15 | 2023-09-23 |
 | [Self Empathy \- Night Version](https://open.spotify.com/track/3M1zoke7AguNqJls0YVIGz) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8), [Raphael Beaudon](https://open.spotify.com/artist/4XbEtxj5AxINGaASuk3KD6) | [Self Empathy](https://open.spotify.com/album/0F9UrVkjArSjtuLEpg4qiw) | 2:38 | 2022-10-14 |  |
 | [Self Empathy 2](https://open.spotify.com/track/1HXPzjfK4hYiIPYJchH1k2) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Self Empathy 2](https://open.spotify.com/album/53IJTj3ETsfT3W9I45aS53) | 3:52 | 2022-09-23 |  |
 | [Sentiment \- Sound Bath](https://open.spotify.com/track/6NCBhoJxrycWkrkjM3TgFP) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Sentiment \- Sound Bath](https://open.spotify.com/album/4iRyKexSdcfqJIff3i1W5j) | 2:42 | 2022-10-21 |  |
 | [Shimmering Forest](https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Shimmering Forest](https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2) | 3:07 | 2022-12-02 |  |
-| [Silent Forest](https://open.spotify.com/track/4RJ7NLf74ZcQwvVVSB29WO) | [Nails Meijer](https://open.spotify.com/artist/1eppraYB675IEGfk25zGhz) | [Silent Forest](https://open.spotify.com/album/4o58Zvl3itrlAyARSNIotq) | 3:22 | 2022-09-15 |  |
+| [Silent Forest](https://open.spotify.com/track/4RJ7NLf74ZcQwvVVSB29WO) | [Nails Meijer](https://open.spotify.com/artist/1eppraYB675IEGfk25zGhz) | [Silent Forest](https://open.spotify.com/album/4o58Zvl3itrlAyARSNIotq) | 3:22 | 2022-09-15 | 2023-10-13 |
 | [Sitting Still](https://open.spotify.com/track/6BtENACq8EIL1oeqEJVbdR) | [Sullivan Stone](https://open.spotify.com/artist/222vfEjnEFBEZRczs5zUNj) | [Forest Flowers](https://open.spotify.com/album/5qgrCLlPi1VKF1d5P19inO) | 2:49 | 2022-09-15 |  |
 | [Somos Tierra](https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Somos Tierra](https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM) | 2:54 | 2022-09-15 |  |
 | [Song for Milkweed \(asclepias, a genus of herbaceous, perennial, flowering plants\)](https://open.spotify.com/track/6kiL320opeuGmB8d4O7a3c) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w), [D\. Field Recording Co.](https://open.spotify.com/artist/5hdo68ZZKXYHWBu21odRQi) | [Song for Milkweed \(asclepias, a genus of herbaceous, perennial, flowering plants\)](https://open.spotify.com/album/3QnE3ye7yScDPQLdjN9UGr) | 2:21 | 2022-09-15 |  |
@@ -115,6 +117,7 @@
 | [The Tranquil Waterfall](https://open.spotify.com/track/4lAylrArN2GyYLm8hTILhK) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [The Tranquil Waterfall](https://open.spotify.com/album/5iabwBF618d1vCXeYThoLv) | 2:24 | 2023-04-21 |  |
 | [Theias \(Nature Sounds\)](https://open.spotify.com/track/1FqPRzwHoEJfRJMYxf9XND) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Theias](https://open.spotify.com/album/12tMrozLxtUx7OxkLnIC0X) | 2:19 | 2023-05-22 |  |
 | [Tributary Balance](https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h) | [Ezmae Forrest](https://open.spotify.com/artist/6ruCfksOefHsnWf3TjGJYn) | [Tributary Balance](https://open.spotify.com/album/0jeMzKkXb7a3vVLn2EbBkX) | 3:07 | 2022-09-15 |  |
+| [Tu´i](https://open.spotify.com/track/0RBiJCkvaFRkLEQNV05cBs) | [Dyfi Francis](https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj) | [Tu´i](https://open.spotify.com/album/0AxYeSn9QBiaYJ8meIurZ3) | 3:10 | 2023-10-13 |  |
 | [twentieth\-night moon \- Meditation](https://open.spotify.com/track/58Slfe4cHE4uqvPIFyTEbx) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [twentieth\-night moon](https://open.spotify.com/album/2N0jLRcc26Bdph24mVNwHK) | 2:50 | 2022-09-15 |  |
 | [Up Above](https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54) | [Amosento](https://open.spotify.com/artist/1TA2SmsBfupnHplKJkEajW) | [You are a miracle](https://open.spotify.com/album/0eZSO9dRfHPub2fkBev7nE) | 3:43 | 2022-09-15 |  |
 | [Visionary Dream \- Meditation](https://open.spotify.com/track/6wfaskFMMdp4YyDL1W6MeE) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Visionary Dream](https://open.spotify.com/album/0jEBTemH7rAFee2ruX4WMY) | 4:41 | 2022-12-30 |  |

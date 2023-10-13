@@ -1,12 +1,12 @@
 {
   "description": "Curated by Bun B.",
-  "num_followers": 18086,
+  "num_followers": 18105,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGZjMmE3ZWFlNWM3YWFhOWNlZTFlYzFjZTk0ZDlkYjhiYmRlNjAw",
+  "snapshot_id": "MCw3NmE0MDk3NmIwMTM3YzI5OTUwMjczYTdhOGQ5MGQ5ZDMzMWQwOGRh",
   "tracks": [
     {
       "added_at": "2023-08-30 19:30:34",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 260333,
       "name": "Let Me Ride",
       "url": "https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     },
     {
       "added_at": "2023-08-30 19:30:34",

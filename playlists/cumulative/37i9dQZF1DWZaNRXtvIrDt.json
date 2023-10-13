@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 185357,
       "name": "<3<3<3",
       "url": "https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3"
@@ -512,6 +512,28 @@
       "duration_ms": 268900,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7M1UJSaliSR5dVDIpsbCFz"
+    },
+    {
+      "album": {
+        "name": "Looking Out EP",
+        "url": "https://open.spotify.com/album/7iIbHbXbdy1paNeSveGX2k"
+      },
+      "artists": [
+        {
+          "name": "Pugilist",
+          "url": "https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S"
+        },
+        {
+          "name": "Tamen",
+          "url": "https://open.spotify.com/artist/2HVIdpqXvq82kEqaXzWIc6"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344000,
+      "name": "Anda",
+      "url": "https://open.spotify.com/track/610etRTkTe8TwReNIDEipU"
     },
     {
       "album": {
@@ -869,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Bet",
+        "url": "https://open.spotify.com/album/6jK3xauGcNKdufcJpWOfuG"
+      },
+      "artists": [
+        {
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257640,
+      "name": "Bet",
+      "url": "https://open.spotify.com/track/59qDJj2HVo4XM7uQB6iaDM"
+    },
+    {
+      "album": {
         "name": "Beta Zest",
         "url": "https://open.spotify.com/album/7wXq2iigRs9OP6r8sAMM5R"
       },
@@ -1032,7 +1072,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 298574,
       "name": "Block Rockin",
       "url": "https://open.spotify.com/track/4Pdga2WbSduucrMZeNMFpd"
@@ -1838,7 +1878,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 343384,
       "name": "Corundrum",
       "url": "https://open.spotify.com/track/3RbD9sf6y6QxA4BGMvtXRr"
@@ -2512,10 +2552,28 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 196414,
       "name": "Eyes Ablaze",
       "url": "https://open.spotify.com/track/2XyONYSVdVe78Ecdtfy09t"
+    },
+    {
+      "album": {
+        "name": "F.U.",
+        "url": "https://open.spotify.com/album/59Vusax4IuNkWBWkNfLx8d"
+      },
+      "artists": [
+        {
+          "name": "Djanaba",
+          "url": "https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175566,
+      "name": "F.U.",
+      "url": "https://open.spotify.com/track/7LSMkz6hAlMqt1qNqlA5V6"
     },
     {
       "album": {
@@ -3540,7 +3598,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 196598,
       "name": "Higher Than Ever Before",
       "url": "https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh"
@@ -5033,6 +5091,24 @@
     },
     {
       "album": {
+        "name": "Moth Love",
+        "url": "https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202391,
+      "name": "Moth Love",
+      "url": "https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA"
+    },
+    {
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/038nzTPTer7dDaM9Z5K4M6"
       },
@@ -5732,7 +5808,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 242822,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/1cn5pv4piEsW871xQj43Ur"
@@ -6012,6 +6088,24 @@
       "duration_ms": 290785,
       "name": "Pleasure",
       "url": "https://open.spotify.com/track/0Smyu8abzy9ghD1JMZwCiu"
+    },
+    {
+      "album": {
+        "name": "Pleasure",
+        "url": "https://open.spotify.com/album/1nUIIkaakagx1UUd4R1yKd"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Loveless",
+          "url": "https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403526,
+      "name": "Pleasure - Original Vox Mix",
+      "url": "https://open.spotify.com/track/0wGZ0gl1g04dAYFB0IeTji"
     },
     {
       "album": {
@@ -6574,7 +6668,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 200329,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/77Q0qbZPx8ikjqvPOADORA"
@@ -6880,6 +6974,28 @@
       "duration_ms": 117539,
       "name": "Si Te Portas Bonito - Edit",
       "url": "https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9"
+    },
+    {
+      "album": {
+        "name": "Simply Won't Do (DJ BORING Remix)",
+        "url": "https://open.spotify.com/album/75keapwOSA8CGgg6mjUXXY"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295198,
+      "name": "Simply Won't Do - DJ BORING Remix",
+      "url": "https://open.spotify.com/track/6u7QJ9AVsSzkCGJZTzHQtC"
     },
     {
       "album": {
@@ -7726,7 +7842,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 292481,
       "name": "T for Tremendous",
       "url": "https://open.spotify.com/track/2I2mSx0egKdHQs9xO0PEZJ"
@@ -7860,6 +7976,28 @@
       "duration_ms": 334530,
       "name": "Temple Ball",
       "url": "https://open.spotify.com/track/7Ah1d6NCuGZu9cBUUgKF1H"
+    },
+    {
+      "album": {
+        "name": "ten",
+        "url": "https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182013,
+      "name": "ten",
+      "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
     },
     {
       "album": {
@@ -8980,6 +9118,24 @@
       "duration_ms": 200000,
       "name": "Work Don't Stop",
       "url": "https://open.spotify.com/track/2oykIE78Z7BSDrq4VEsMy7"
+    },
+    {
+      "album": {
+        "name": "Xoh",
+        "url": "https://open.spotify.com/album/0jkMzDX119ZIc4T77v8AU1"
+      },
+      "artists": [
+        {
+          "name": "Eden Burns",
+          "url": "https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307988,
+      "name": "Xoh",
+      "url": "https://open.spotify.com/track/3M1jp0fMslDypTe1mphBeI"
     },
     {
       "album": {

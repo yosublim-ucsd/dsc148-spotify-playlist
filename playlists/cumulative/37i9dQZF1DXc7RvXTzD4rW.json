@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u9022\u7530\u68a8\u9999\u5b50",
+  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af",
   "name": "\u58f0\u512a\u3001\u6b4c\u3046 -Sing Like Talking-",
   "tracks": [
     {
@@ -366,7 +366,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 215826,
       "name": "Another Self",
       "url": "https://open.spotify.com/track/7gz4Eo94PvX01geJuH8xDx"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 233166,
       "name": "Haiiro",
       "url": "https://open.spotify.com/track/6FCMUZ0ecM2nAfOnPmmPar"
@@ -1340,6 +1340,24 @@
       "duration_ms": 217615,
       "name": "Happy-go-Journey",
       "url": "https://open.spotify.com/track/6JcmTPEHDLvwToGpeAukA2"
+    },
+    {
+      "album": {
+        "name": "HELP",
+        "url": "https://open.spotify.com/album/2hJ603Bso9KCAAHwQD606w"
+      },
+      "artists": [
+        {
+          "name": "Aimi",
+          "url": "https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227478,
+      "name": "HELP",
+      "url": "https://open.spotify.com/track/5fTk6RfTbySiEyjRnrpHNV"
     },
     {
       "album": {
@@ -1426,7 +1444,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 192133,
       "name": "I wish",
       "url": "https://open.spotify.com/track/0JnG9ptaFJKPvktDvfudM4"
@@ -1491,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "Intaglio",
+        "url": "https://open.spotify.com/album/6PEuilXPcId94BGiIW8bYE"
+      },
+      "artists": [
+        {
+          "name": "Kana Hanazawa",
+          "url": "https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272266,
+      "name": "Intaglio",
+      "url": "https://open.spotify.com/track/5lQdtdz7hAYuvccRxGjMMu"
+    },
+    {
+      "album": {
         "name": "Invincible Love",
         "url": "https://open.spotify.com/album/2MdBFOCJlHfVVdERAGFY4W"
       },
@@ -1538,7 +1574,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 216853,
       "name": "Joyful",
       "url": "https://open.spotify.com/track/2zRLLFvhcAlfqPTt5dzd2Y"
@@ -1815,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "Love You Tender!",
+        "url": "https://open.spotify.com/album/0teYYt0UReRcl1Dv1rIBaU"
+      },
+      "artists": [
+        {
+          "name": "Maaya Uchida",
+          "url": "https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224920,
+      "name": "Love You Tender!",
+      "url": "https://open.spotify.com/track/1EE8P5OZGivcXrP6dqzGDj"
+    },
+    {
+      "album": {
         "name": "LOVE&MOON",
         "url": "https://open.spotify.com/album/6hodN3snVIv1TUixHMq6Xf"
       },
@@ -1960,7 +2014,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 234800,
       "name": "Megamorphose",
       "url": "https://open.spotify.com/track/62QXjppBAgbfhggeN1B5au"
@@ -2338,7 +2392,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 246466,
       "name": "Preview",
       "url": "https://open.spotify.com/track/5WsbwswBs3C0vheCVFFy1Z"
@@ -2414,6 +2468,24 @@
       "duration_ms": 247599,
       "name": "REAL-EYES",
       "url": "https://open.spotify.com/track/4dvWchb4P8bNqeO0UsHoEc"
+    },
+    {
+      "album": {
+        "name": "RISE FROM DEAD",
+        "url": "https://open.spotify.com/album/4XuDdSGWx2G7i4MVtDrMAZ"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Division All Stars)",
+          "url": "https://open.spotify.com/artist/2jDF6txAVkptRBGsIpqXv8"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220359,
+      "name": "RISE FROM DEAD",
+      "url": "https://open.spotify.com/track/0drusw4d19L4kgzkYrgkkC"
     },
     {
       "album": {
@@ -2504,6 +2576,24 @@
       "duration_ms": 317640,
       "name": "Sepia Rainbow",
       "url": "https://open.spotify.com/track/2XT5czmMaKQUE9HsmNTXAk"
+    },
+    {
+      "album": {
+        "name": "Sequel",
+        "url": "https://open.spotify.com/album/3cgQcgyVE0xXR1wZUNjafw"
+      },
+      "artists": [
+        {
+          "name": "Daiki Yamashita",
+          "url": "https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255880,
+      "name": "Sequel",
+      "url": "https://open.spotify.com/track/2fodS2u01KCFoPknzkJGcN"
     },
     {
       "album": {
@@ -2684,6 +2774,24 @@
       "duration_ms": 238480,
       "name": "sugar",
       "url": "https://open.spotify.com/track/2675zqM1O6irmmtUWamczG"
+    },
+    {
+      "album": {
+        "name": "Sugar Doughnuts",
+        "url": "https://open.spotify.com/album/1sNavFjkIPQAuHhIUTSm9O"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206567,
+      "name": "Sugar Doughnuts",
+      "url": "https://open.spotify.com/track/5Cv67fj74PhUgO26qRvBO5"
     },
     {
       "album": {
@@ -2984,7 +3092,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 236800,
       "name": "Treat You Mean, Keep You Keen",
       "url": "https://open.spotify.com/track/2TyttcekkPh2itiALNlPNO"
@@ -3522,6 +3630,24 @@
       "duration_ms": 236878,
       "name": "\u3082\u3046\u3072\u3068\u304f\u3061",
       "url": "https://open.spotify.com/track/0OI5ER4W0AQr5YAdMKSIur"
+    },
+    {
+      "album": {
+        "name": "\u3082\u306e\u305f\u3093\u306a\u3044",
+        "url": "https://open.spotify.com/album/6W497iLP0CdHyn1tVILV1F"
+      },
+      "artists": [
+        {
+          "name": "\u5185\u7530\u96c4\u99ac",
+          "url": "https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221693,
+      "name": "\u3082\u306e\u305f\u3093\u306a\u3044",
+      "url": "https://open.spotify.com/track/2Cm59feNSyFniTp93vhY4M"
     },
     {
       "album": {
@@ -4642,7 +4768,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 241226,
       "name": "\u74e6\u792b\u306b\u54b2\u304f\u82b1",
       "url": "https://open.spotify.com/track/468TZYqs6ShxxjnSKgjjzI"
@@ -4880,6 +5006,24 @@
       "duration_ms": 250133,
       "name": "\u9063\u3089\u305a\u306e\u96e8",
       "url": "https://open.spotify.com/track/6vQ8WVHugsqwRYxU68mdu8"
+    },
+    {
+      "album": {
+        "name": "\u9583 -Sen-",
+        "url": "https://open.spotify.com/album/7CJlc9nZISFfXwRBWieQrt"
+      },
+      "artists": [
+        {
+          "name": "Yoshino Nanjo",
+          "url": "https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256959,
+      "name": "\u9583 -Sen-",
+      "url": "https://open.spotify.com/track/6UjRCdLRF9uBgELHiPOdu4"
     },
     {
       "album": {

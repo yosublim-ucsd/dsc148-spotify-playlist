@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,572 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,431 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 15 | [Monster Brain](https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Monster Brain](https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h) | 3:37 |
 | 16 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 |
 | 17 | [All I See Is Him](https://open.spotify.com/track/53bNbChiuQHSUZJTfNvERf) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [All I See Is Him](https://open.spotify.com/album/5eU9qQS8lKlTQNyLHaibsE) | 2:45 |
-| 18 | [Frozen Lake](https://open.spotify.com/track/0LkTtVU68j3y1JS9o8bdvR) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4fuT39LI3YOcS3dQXNA1IS) | 3:36 |
+| 18 | [Frozen Lake](https://open.spotify.com/track/29zts9dRYNDmGcMJjWxjio) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4yHhW0tJ06QGsIBSpFRchc) | 3:36 |
 | 19 | [Caught Up On You](https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Caught Up On You](https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq) | 3:26 |
 | 20 | [Arrived](https://open.spotify.com/track/0kT06I5dLlP64u7kloklLS) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Arrived](https://open.spotify.com/album/48MYOEQZ33MT69BNB3DuBY) | 3:42 |
 | 21 | [Sycamore](https://open.spotify.com/track/3qwxZ8ygOYSWE790KcfgU1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 2:50 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 46 | [What I Get for Loving You](https://open.spotify.com/track/1Yp36OdGRGxo5FOGvKrNFd) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [What I Get for Loving You](https://open.spotify.com/album/5rDXynhwvYoIHdqoTmcQRC) | 3:04 |
 | 47 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 |
 | 48 | [Cold Nights \(feat\. Stan Walker & Larissa Lambert\)](https://open.spotify.com/track/5KyDKBcR0BEeLylGRDTCwF) | [Pacific Heights](https://open.spotify.com/artist/0Yty2T0fXIPw6hAzEGV9mK), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Cold Nights \(feat\. Stan Walker & Larissa Lambert\)](https://open.spotify.com/album/3hgBfbjG4TGdfjoqQZLjQi) | 3:06 |
-| 49 | [last request](https://open.spotify.com/track/3e2k9IlblTs4o5cD5DrPcO) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [last request](https://open.spotify.com/album/5FTXpQ9VirW7NG2Ee2gXvD) | 3:00 |
+| 49 | [last request](https://open.spotify.com/track/4cbFNidq9E1kfxG9iykJcX) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [last request](https://open.spotify.com/album/4z4pT9sg61pJLBal6tRFuk) | 3:00 |
 | 50 | [swan song](https://open.spotify.com/track/4usm1GSxHP41mtvBK73QZ0) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [swan song](https://open.spotify.com/album/4BKr7uEHxiqnMnUO3KwNgs) | 3:40 |
 | 51 | [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 |
 | 52 | [Tunnel Vision](https://open.spotify.com/track/4yvcI6pOLBcIcnxSsDTWSR) | [MCK](https://open.spotify.com/artist/4gTs9iz3O0hzMwY2U2XKS7) | [Becoming](https://open.spotify.com/album/6IfhqxXa9LGW6upcbBkzzV) | 3:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 74 | [Winter City](https://open.spotify.com/track/2KtH6OayZaFH5Zowhglw1Y) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [I Got 3](https://open.spotify.com/album/7g0CXNdiVVnAGj1f9yle7e) | 2:41 |
 | 75 | [Sooner](https://open.spotify.com/track/45z1TVyovToPnkuEKSgTPx) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Sooner](https://open.spotify.com/album/5786eFf3UrHXrA1KEnuYDM) | 2:38 |
 
-Snapshot ID: `MCw3ODgxMDNhM2FjZDMzMDFkNTRhMWQ1ODQ4NjRjYWQ3Njc0Y2QwM2Qz`
+Snapshot ID: `MCxiMWVhYjBjMmMxM2Y3N2I5NGZmODU1ZjViMmY0ODQ2YTk0ODU5MjU2`

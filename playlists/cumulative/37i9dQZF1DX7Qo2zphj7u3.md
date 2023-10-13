@@ -4,7 +4,7 @@
 
 > Éxitos románticos, de hoy y de siempre\. Foto: Laura Pausini
 
-459 songs - 1 day 6 hr 47 min
+460 songs - 1 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A Tu Lado](https://open.spotify.com/track/2sxGambjEMewIexGbpP089) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Tu Lado](https://open.spotify.com/album/4unZDGlQA29DS3atjhfUQJ) | 4:04 | 2022-01-25 |  |
 | [A Tu Lado](https://open.spotify.com/track/5EWino1os6FUYJ1q7KRDnN) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Tu Lado](https://open.spotify.com/album/1XtVGi0vSh9FSIZ6lfrDeE) | 4:04 | 2022-01-25 | 2022-07-29 |
 | [A Un Beso](https://open.spotify.com/track/5c8KTKmAo3zlqBSsvnQrmB) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Un Beso](https://open.spotify.com/album/5x4CHqbGKiDrkE8CNcdlwk) | 3:37 | 2022-01-25 |  |
+| [Abril Sin Anestesia](https://open.spotify.com/track/0jQgmYh0j0yjpqTDlCbbhX) | [Pablo López](https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ) | [Abril Sin Anestesia](https://open.spotify.com/album/0xSI52Ok6xO8vxFkAACXgQ) | 3:55 | 2023-10-12 |  |
 | [Abriré La Puerta](https://open.spotify.com/track/1btyIQGzPdebh4XwVPMPr5) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [En Tus Planes](https://open.spotify.com/album/63cRlzjRihSdheA6lKonRy) | 3:36 | 2022-01-25 | 2022-07-27 |
 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 | 2022-01-25 |  |
 | [Agua Nueva](https://open.spotify.com/track/3oG4RYZCM0hVPo9N46I0E9) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Primer Amor Los Éxitos](https://open.spotify.com/album/1XQYOY8gKZjku7pnMEJjSg) | 3:57 | 2022-01-25 | 2022-07-29 |
@@ -134,7 +135,7 @@
 | [En Tus Planes](https://open.spotify.com/track/5fmXWEFh8vMXzKTHN9ezKV) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [En Tus Planes](https://open.spotify.com/album/63cRlzjRihSdheA6lKonRy) | 2:52 | 2022-01-25 | 2022-11-13 |
 | [Enamorado de Ti](https://open.spotify.com/track/3pY68z0dH4i4gF1zzONS0q) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Tu Última Canción](https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa) | 4:09 | 2022-08-05 | 2023-01-07 |
 | [Entrégate](https://open.spotify.com/track/4F4iZn4IqiP7fhsNzyDUlw) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Grandes Éxitos](https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA) | 4:23 | 2022-01-25 | 2022-07-29 |
-| [Entrégate](https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:23 | 2022-01-25 |  |
+| [Entrégate](https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:23 | 2022-01-25 | 2023-10-13 |
 | [Eres Mi Religión](https://open.spotify.com/track/4I3liLHdMIHqI4VsyMzJiH) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Exiliados en la Bahia: Lo mejor de Mana \(Correcta\)](https://open.spotify.com/album/1OZeDqa64PvbEHTBeKgF1k) | 5:28 | 2022-01-25 | 2022-07-29 |
 | [Eres Mi Religión](https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [Eres Mi Religión](https://open.spotify.com/album/0mw9JCjWu3hzUTru1yt2mc) | 4:27 | 2022-01-25 |  |
 | [Eres Tú](https://open.spotify.com/track/3iVu49ZmRHsCdRA0RTGUkP) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:38 | 2022-01-25 |  |
@@ -318,7 +319,7 @@
 | [Que Nada Nos Separe](https://open.spotify.com/track/7AgAU0AIL8UxsHKUBHhrz8) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [En Vivo](https://open.spotify.com/album/2ljd5FKLVreLFXqgQUJAlx) | 4:44 | 2022-01-25 | 2022-07-18 |
 | [Que Quieres De Mi](https://open.spotify.com/track/3CPRPpkv2p7r3EYdYM7jF3) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8](https://open.spotify.com/album/6y31iVGrIxg1YZ4Elcgko3) | 4:34 | 2022-01-25 | 2022-07-29 |
 | [Que Quieres De Mi](https://open.spotify.com/track/4rhQ89gUsCW5ig91qtoDSE) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 4:34 | 2022-01-25 |  |
-| [Que Se Acabe El Mundo](https://open.spotify.com/track/4H5P1WcFth99LYVuvm8MBd) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mi Soundtrack Vol\. 1](https://open.spotify.com/album/5JtXN4gac5A4rRVcKQPda2) | 2:57 | 2023-08-18 |  |
+| [Que Se Acabe El Mundo](https://open.spotify.com/track/4H5P1WcFth99LYVuvm8MBd) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mi Soundtrack Vol\. 1](https://open.spotify.com/album/5JtXN4gac5A4rRVcKQPda2) | 2:57 | 2023-08-18 | 2023-10-13 |
 | [Querida](https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 4:55 | 2022-01-25 | 2022-11-13 |
 | [Quiero Amanecer Con Alguien](https://open.spotify.com/track/2ryQUYtQkg8oHvkEyPxPz5) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Original Masters](https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO) | 4:07 | 2022-01-25 |  |
 | [Quiero decirte que te amo](https://open.spotify.com/track/5viiKzaFMP6gptZGKEDjen) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Entre tú y mil mares](https://open.spotify.com/album/6YZ8BnXi5PavXdw8XmOmUj) | 4:03 | 2022-01-25 | 2023-09-16 |
@@ -425,7 +426,7 @@
 | [Una Mujer Como Tú](https://open.spotify.com/track/5KT4EniEaaf3Mn6uAVL2sh) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 3:30 | 2022-08-05 | 2023-02-12 |
 | [Underneath Your Clothes](https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:44 | 2022-01-25 |  |
 | [Vamos a Darnos Tiempo](https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Gracias](https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D) | 4:08 | 2022-01-25 |  |
-| [Vas A Recordarme](https://open.spotify.com/track/2lCEkKWWTOwsgXjOwZtMdd) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Vas A Recordarme](https://open.spotify.com/album/5oCSMM79ZFH04eRwF33pbV) | 3:56 | 2022-01-25 | 2023-08-30 |
+| [Vas A Recordarme](https://open.spotify.com/track/2lCEkKWWTOwsgXjOwZtMdd) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Vas A Recordarme](https://open.spotify.com/album/5oCSMM79ZFH04eRwF33pbV) | 3:56 | 2022-01-25 |  |
 | [Ven Porque Te Necesito](https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Internacionales Y Románticos](https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3) | 2:55 | 2022-01-25 | 2023-01-07 |
 | [Viaje a ningún lado \(con Carin Leon\)](https://open.spotify.com/track/2MqQtML6652d7oIgrdumKH) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Viaje a ningún lado \(con Carin Leon\)](https://open.spotify.com/album/1zsGPMjwq2tK1reGSPhmZ4) | 3:49 | 2022-12-30 | 2023-01-07 |
 | [Vida](https://open.spotify.com/track/0ztGxRRezfNElo79ESJkx6) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Iconos](https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g) | 4:39 | 2022-01-25 |  |

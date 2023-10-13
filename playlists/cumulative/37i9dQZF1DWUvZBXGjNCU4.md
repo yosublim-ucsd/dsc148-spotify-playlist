@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-285 songs - 12 hr 57 min
+287 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,8 +132,10 @@
 | [Im Sonnenblumenfeld](https://open.spotify.com/track/3IFZMY6ohZsOgTVcMyL5b8) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [Am Flussufer](https://open.spotify.com/album/16sGnI2slEAdvJ1PHZkHmJ) | 2:55 | 2022-05-13 | 2022-05-27 |
 | [In A Slow Moment](https://open.spotify.com/track/6tHQxrvxKbZAr2E0wEoX87) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [In A Slow Moment](https://open.spotify.com/album/0AJSoKEOFJ7uoaE0tqh8m5) | 2:50 | 2022-05-13 |  |
 | [In Daisies Lain](https://open.spotify.com/track/5cfyGiPqoeKsIGgnmj6Hvq) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [In Daisies Lain](https://open.spotify.com/album/48Ry8I2qQ5R6wyMfVQMjwf) | 2:21 | 2022-12-23 | 2023-06-23 |
+| [In Quiet Admiration](https://open.spotify.com/track/7gIbaF08zajeFH0JwjTflZ) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [In Quiet Admiration](https://open.spotify.com/album/4bnRFPUL7Gbu5a17uY0FgR) | 2:19 | 2023-10-13 |  |
 | [In Search of Miracles](https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [In Search of Miracles](https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm) | 2:27 | 2023-02-24 |  |
 | [In the Makeup of the Sun \- Instrumental Version](https://open.spotify.com/track/2yyUytDg93W9yK40uENJg6) | [Christian Wannerwall](https://open.spotify.com/artist/4Z3m4U4Qm1b8EFpcws68kh) | [In the Makeup of the Sun \(Instrumental Version\)](https://open.spotify.com/album/1h90KBYEpVefz7oqZbpYFx) | 1:39 | 2022-05-13 | 2022-06-10 |
+| [Innocent Face](https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:02 | 2023-10-13 |  |
 | [Isaar im Mondschein](https://open.spotify.com/track/0wyxPRiJzaNkJ3KmiqXaQq) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Frühlings Erwachen](https://open.spotify.com/album/2qUMNFnnZUzoyQbYo3jvWc) | 3:41 | 2022-05-13 |  |
 | [Je Te Manque?](https://open.spotify.com/track/3OH8rKFY3rNV6Y7HMIate7) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Je Te Manque?](https://open.spotify.com/album/5VepAU0NTh96kQZmkFIvEb) | 2:56 | 2022-05-27 |  |
 | [Journey Home](https://open.spotify.com/track/1n8JIhb5wq50ZNvuas4ceq) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Journey Home](https://open.spotify.com/album/2KGpAwyPvctqPpcpzLpRwh) | 3:08 | 2022-05-13 | 2023-09-01 |
@@ -142,7 +144,7 @@
 | [L'heure de l'harmonie](https://open.spotify.com/track/7818YjCizM6uEh7gjYzVdj) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [L'heure de l'harmonie](https://open.spotify.com/album/0P6Ka37RvhKX8a8AjrGdhc) | 2:19 | 2022-05-13 |  |
 | [Lake Como](https://open.spotify.com/track/2R9ykhDMzrzHsS6Btwtnjv) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Lake Como](https://open.spotify.com/album/5ia5Ug2k521GycvqAyEM1C) | 2:12 | 2022-05-27 |  |
 | [Lakeside](https://open.spotify.com/track/2Igh5u0Gj6TtitvFY2eRhB) | [Kit Degas](https://open.spotify.com/artist/4JnwupXUsT1x9UZHN6v4Ri) | [Lakeside](https://open.spotify.com/album/6Mw4gVTRoLSiY964SJDYR6) | 2:05 | 2022-05-13 |  |
-| [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 | 2023-04-28 |  |
+| [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 | 2023-04-28 | 2023-10-13 |
 | [Last Days of April](https://open.spotify.com/track/1S7CCMZhklFA5qQQ7MpRoi) | [Lido Danielle](https://open.spotify.com/artist/4xfdrrJlyc8m3dJS5W59OP) | [Last Days of April](https://open.spotify.com/album/356KV0cpPpgKnxca5zQNPx) | 2:51 | 2023-08-11 |  |
 | [Lavendel](https://open.spotify.com/track/4z9Qej0akvAJ9SRbSa4LGY) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Green Fields](https://open.spotify.com/album/2Tlm0lRIBuVsLhxPJiJc39) | 2:57 | 2023-02-24 |  |
 | [Light on the Horizon](https://open.spotify.com/track/0ZJ3l5D3mVtv7JPS63OITC) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Light on the Horizon](https://open.spotify.com/album/6UVIzwrAE25SibE8HWlrFP) | 2:29 | 2022-10-07 |  |

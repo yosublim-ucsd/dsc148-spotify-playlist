@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-230 songs - 12 hr 22 min
+231 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Camarones y Viniles](https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Cuando Los Acéfalos Predominan](https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW) | 5:21 | 2023-05-12 |  |
 | [CAMINAAANDO / Warapita](https://open.spotify.com/track/7GPI2FrKyz7YznXjsWc9p9) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf), [Los Hermanos Química](https://open.spotify.com/artist/1X33bufSxrzgJhGjrv9jSt), [Vera Delacruz](https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt) | [Comida para Llevar \(2ª Season\)](https://open.spotify.com/album/5UvvQXgXlGIleqQDPiklcR) | 7:53 | 2023-01-06 |  |
 | [Cardenalito](https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:32 | 2022-08-08 | 2023-09-29 |
+| [Cardenalito](https://open.spotify.com/track/6ZfPILRSg3V9jM8yH1V8xc) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciseis](https://open.spotify.com/album/4zLZDzFqhK8fY9V5PpfPPG) | 3:32 | 2023-10-12 |  |
 | [Chimbo](https://open.spotify.com/track/2MRbBjUXWrouk36b55vipO) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Chimbo](https://open.spotify.com/album/5XRQrTcMUREddc69cWGtzn) | 3:02 | 2022-12-30 | 2023-04-09 |
 | [Cliché](https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Singles 2019\-2021](https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY) | 3:44 | 2022-07-11 |  |
 | [Cliché](https://open.spotify.com/track/4LibnjBGrnHExVThKnN3BG) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Cliché](https://open.spotify.com/album/7aVEWvrRBqfRArFCJUtfVf) | 3:44 | 2022-05-20 | 2022-07-29 |
@@ -207,7 +208,7 @@
 | [Soy capaz](https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Soy capaz](https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT) | 3:25 | 2022-05-20 |  |
 | [Soñé Contigo](https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Soñé Contigo](https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ) | 3:31 | 2022-05-20 | 2022-10-28 |
 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 | 2022-06-29 | 2022-09-07 |
-| [superman](https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 1:33 | 2023-03-10 |  |
+| [superman](https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 1:33 | 2023-03-10 | 2023-10-13 |
 | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY) | 2:47 | 2022-05-20 | 2022-10-28 |
 | [Te Quiero Olvidar](https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:22 | 2022-05-20 | 2022-10-28 |
 | [The Process 2](https://open.spotify.com/track/5qR47w2aiijdN7EUCnqCeM) | [Fer](https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J) | [The Process 2](https://open.spotify.com/album/7eWz5te5PJL41BdYN4CehQ) | 2:50 | 2023-08-31 |  |

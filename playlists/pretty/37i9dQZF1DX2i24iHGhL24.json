@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 111680,
+  "num_followers": 111732,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmNjNTc2OTk0ZjhiMmE4N2FhZTE2NTFiOTZlMWJkMTAxYmFlYTdk",
+  "snapshot_id": "MCw5NGMxMGVmMjcyNmNjNTRlYmM3OTVjMjFjZTEwZWJiNDFlNGRkNzgw",
   "tracks": [
     {
       "added_at": "2023-09-04 16:45:54",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Only Wanna Be With You (Pok\u00e9mon 25 Version)",
-        "url": "https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 241360,
-      "name": "Only Wanna Be With You - Pok\u00e9mon 25 Version",
-      "url": "https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 177214,
       "name": "Baby One More Time - Recorded at Spotify Studios New York City",
       "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Only Wanna Be With You (Pok\u00e9mon 25 Version)",
+        "url": "https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 241360,
+      "name": "Only Wanna Be With You - Pok\u00e9mon 25 Version",
+      "url": "https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 228853,
-      "name": "Cupid - Deluxe Edition Version",
-      "url": "https://open.spotify.com/track/5kG1ARHk8dli0bKiMN2oE6"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 190652,
       "name": "Heather - Spotify Singles",
       "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "Cupid - Deluxe Edition Version",
+      "url": "https://open.spotify.com/track/5kG1ARHk8dli0bKiMN2oE6"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 206187,
-      "name": "As It Was - Spotify Singles",
-      "url": "https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 218253,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 206187,
+      "name": "As It Was - Spotify Singles",
+      "url": "https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI"
-      },
-      "artists": [
-        {
-          "name": "Lisa Mitchell",
-          "url": "https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz"
-        }
-      ],
-      "duration_ms": 167094,
-      "name": "California",
-      "url": "https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "dancing in the moonlight",
         "url": "https://open.spotify.com/album/7Bh1i9QqJTdmtwi8DtXheN"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 147457,
       "name": "dancing in the moonlight",
       "url": "https://open.spotify.com/track/0pSLfXI0tYQU2Gvycaw4B6"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mitchell",
+          "url": "https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz"
+        }
+      ],
+      "duration_ms": 167094,
+      "name": "California",
+      "url": "https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 194480,
-      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
-      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Everytime - Spotify Singles",
         "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 234753,
       "name": "Everytime - Spotify Singles",
       "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 194480,
+      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
+      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 173482,
-      "name": "so into you - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Praise You",
         "url": "https://open.spotify.com/album/65CxUyETl0Q4A2u6dZtbiA"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 169050,
       "name": "Praise You",
       "url": "https://open.spotify.com/track/56dOfIe8TCrSvPBnQduue9"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 173482,
+      "name": "so into you - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 319750,
-      "name": "Sign Of The Times - Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Everybody Wants To Rule The World",
         "url": "https://open.spotify.com/album/4vNTnk9ZwBi2zIJlAiOYms"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 167933,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/3lAzdfubFCfgrmSPUWBh4b"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 319750,
+      "name": "Sign Of The Times - Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Industry Baby",
-        "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 231381,
-      "name": "Industry Baby",
-      "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "LOVE ALL COVER ALL",
         "url": "https://open.spotify.com/album/1290P26ZPIKJSHOrOyqLXD"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 169383,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6tbSgMKlQ31izXvorTATrn"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Industry Baby",
+        "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 231381,
+      "name": "Industry Baby",
+      "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "RUNNING UP THAT HILL",
-        "url": "https://open.spotify.com/album/4b0lmXRVg3jpRkrLS49yeg"
-      },
-      "artists": [
-        {
-          "name": "Betty Who",
-          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
-        }
-      ],
-      "duration_ms": 199841,
-      "name": "RUNNING UP THAT HILL",
-      "url": "https://open.spotify.com/track/0IPux9AVDKm0OiJgqi8b4v"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Take On Me",
         "url": "https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 206138,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/4yyHCYD1ZmeIXEEbvLjCqh"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "RUNNING UP THAT HILL",
+        "url": "https://open.spotify.com/album/4b0lmXRVg3jpRkrLS49yeg"
+      },
+      "artists": [
+        {
+          "name": "Betty Who",
+          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
+        }
+      ],
+      "duration_ms": 199841,
+      "name": "RUNNING UP THAT HILL",
+      "url": "https://open.spotify.com/track/0IPux9AVDKm0OiJgqi8b4v"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 238439,
-      "name": "Complicated - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
         "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 127400,
       "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
       "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 238439,
+      "name": "Complicated - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2575,6 +2575,22 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
+        "name": "In Da Club",
+        "url": "https://open.spotify.com/album/0tY0cLxwPSwvjyFfOol58C"
+      },
+      "artists": [
+        {
+          "name": "Skylar Stecker",
+          "url": "https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0"
+        }
+      ],
+      "duration_ms": 204186,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/1kDSSQ0xBiZgogNN2a7ofQ"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
         "name": "Broken Glass, Vol. 5",
         "url": "https://open.spotify.com/album/1GNtlaf1suRPWz351bNiVc"
       },
@@ -2591,22 +2607,6 @@
       "duration_ms": 214933,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/5CqrCMMhS8QzBfzks0vel8"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "In Da Club",
-        "url": "https://open.spotify.com/album/0tY0cLxwPSwvjyFfOol58C"
-      },
-      "artists": [
-        {
-          "name": "Skylar Stecker",
-          "url": "https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0"
-        }
-      ],
-      "duration_ms": 204186,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/1kDSSQ0xBiZgogNN2a7ofQ"
     },
     {
       "added_at": "2023-09-04 16:45:54",

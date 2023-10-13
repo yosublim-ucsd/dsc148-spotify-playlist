@@ -4,7 +4,7 @@
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-130 songs - 9 hr 8 min
+131 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Ibhanoyi](https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Umuthi](https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU) | 4:09 | 2022-02-10 |  |
 | [If](https://open.spotify.com/track/0WeN52xa8nBDBfKsaiKJ0i) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 3:57 | 2022-02-10 |  |
 | [Jolie](https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jolie](https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ) | 3:29 | 2023-02-14 |  |
-| [Joromi](https://open.spotify.com/track/2veqQDtwehytVhqYJbTHtW) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Simisola](https://open.spotify.com/album/2lHgNW983t05IFHxKSryH3) | 3:55 | 2022-02-10 |  |
+| [Joromi](https://open.spotify.com/track/2veqQDtwehytVhqYJbTHtW) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Simisola](https://open.spotify.com/album/2lHgNW983t05IFHxKSryH3) | 3:55 | 2022-02-10 | 2023-10-13 |
+| [Joromi](https://open.spotify.com/track/6NvUNJefj3U5ANRwFBCQXE) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Simisola](https://open.spotify.com/album/4FFft6oVCqgbcIaD9CxZiR) | 3:55 | 2023-03-17 |  |
 | [Kahlet Laayoune](https://open.spotify.com/track/0zqQI8ysvCrDAJPmLuEDev) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Kahlet Laayoune](https://open.spotify.com/album/0tztx9JoOcjRnBZoWvojzF) | 4:02 | 2022-02-10 | 2023-02-15 |
 | [Kahlet Laayoune](https://open.spotify.com/track/5zeufqSf652FfeS69bX4BP) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Kahlet Laayoune](https://open.spotify.com/album/5jHqA34XycZvSzer0QhfNj) | 4:02 | 2022-02-10 | 2022-12-24 |
 | [Kahlete Laayoune](https://open.spotify.com/track/0Vk0PhvVKhXbMj75eaLbu3) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe) | 4:20 | 2022-02-10 |  |

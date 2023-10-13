@@ -4,7 +4,7 @@
 
 > Listen to the music from all 3 seasons of Ragnarok, now streaming on Netflix.
 
-35 songs - 2 hr 14 min
+36 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Where Is My Mind](https://open.spotify.com/track/2X8S0sObGFG5rkSvieOx9M) | [Safari Riot](https://open.spotify.com/artist/2B1AeLc4tMEDVTcn4XXpjT), [Grayson Sanders](https://open.spotify.com/artist/0MlGMVJlkgkO40TgR65itd) | [Where Is My Mind](https://open.spotify.com/album/71M6lU1mI1Ry8awQjnOP0z) | 3:02 | 2023-08-24 |  |
 | [Who?](https://open.spotify.com/track/3HB6iBmLd4AWVJz4R9VqRE) | [Resa Saffa Park](https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv) | [Spaces](https://open.spotify.com/album/10vsHRQxrUT0ZsbzDDaHfm) | 2:50 | 2023-08-24 |  |
 | [Woods](https://open.spotify.com/track/49MWriRkyLTPYf9q155Ti8) | [LALUNE](https://open.spotify.com/artist/3SushzyMPoFFirwjJhFtH0) | [Woods](https://open.spotify.com/album/5H4agQPO9Tqesnlf8NGFtL) | 3:30 | 2023-08-24 |  |
-| [YO! MY SAINT \- Film Version](https://open.spotify.com/track/6SaCjxL5MEPEIRtAQVUo9x) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [YO! MY SAINT \(Film Version\)](https://open.spotify.com/album/3TDQa0jEwwDEJh4jFPUNed) | 5:10 | 2023-08-24 |  |
+| [YO! MY SAINT \- \(feat\. Michael Kiwanuka\) \[Film Version\]](https://open.spotify.com/track/5oHBYI1NKRHoyeSFsyrn1c) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [YO! MY SAINT \[\(feat\. Michael Kiwanuka\) \[Film Version\]\]](https://open.spotify.com/album/01o6QHHXyoK6lqc4g1xTAP) | 5:10 | 2023-08-24 |  |
+| [YO! MY SAINT \- Film Version](https://open.spotify.com/track/6SaCjxL5MEPEIRtAQVUo9x) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [YO! MY SAINT \(Film Version\)](https://open.spotify.com/album/3TDQa0jEwwDEJh4jFPUNed) | 5:10 | 2023-08-24 | 2023-10-13 |
 | [You Can't Crush Me](https://open.spotify.com/track/5jqvDUfhKEiCZA96YZ4rbG) | [Entertaining Mona](https://open.spotify.com/artist/5hTrfElcDbATkhNzAVnOe0) | [10,000 Roads to Wisdom](https://open.spotify.com/album/3qRQgJZ3E4hq0sYIOXcLa0) | 4:39 | 2023-08-24 |  |
 
 \*This playlist was first scraped on 2023-08-26. Prior content cannot be recovered.

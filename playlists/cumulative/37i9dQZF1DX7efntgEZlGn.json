@@ -68,7 +68,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 200489,
       "name": "Anaweza",
       "url": "https://open.spotify.com/track/0kjoe34OL34ON1BiilcX2e"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 204434,
       "name": "Fundi Wa Mbao",
       "url": "https://open.spotify.com/track/0bDMecbVcSax1k9yz1j8yi"
@@ -817,6 +817,28 @@
     },
     {
       "album": {
+        "name": "Mungu Ni Upendo (feat. Pitson)",
+        "url": "https://open.spotify.com/album/3rxqx10BOlKbhcu4RkWcGS"
+      },
+      "artists": [
+        {
+          "name": "Boss MOG",
+          "url": "https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie"
+        },
+        {
+          "name": "Pitson",
+          "url": "https://open.spotify.com/artist/4eck3OWpx2oKPgHeSSgsMM"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Mungu Ni Upendo (feat. Pitson)",
+      "url": "https://open.spotify.com/track/0BPriVJeWjmo3ugIVkN2vw"
+    },
+    {
+      "album": {
         "name": "New Song",
         "url": "https://open.spotify.com/album/4MQwDxDIAqaZ6WwJMUnEPb"
       },
@@ -902,6 +924,24 @@
       "duration_ms": 320536,
       "name": "Nipe Kukumbuka",
       "url": "https://open.spotify.com/track/2MY7dMPcDPmn7MZd5Y3a6R"
+    },
+    {
+      "album": {
+        "name": "Nishike Mkono",
+        "url": "https://open.spotify.com/album/0EMDXYWyD4OqNqpVVGhp8S"
+      },
+      "artists": [
+        {
+          "name": "Boss MOG",
+          "url": "https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280450,
+      "name": "Nishike Mkono",
+      "url": "https://open.spotify.com/track/7imPIKeaJaEyHPH8m5Xocq"
     },
     {
       "album": {

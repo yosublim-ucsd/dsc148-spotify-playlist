@@ -2,7 +2,7 @@
 
 ### [Hot Hits Australia](https://open.spotify.com/playlist/37i9dQZF1DWXXs9GFYnvLB)
 
-> The hottest tracks with the freshest hits! Cover: Tate McRae
+> The hottest tracks with the freshest hits! Cover: Drake
 
 100 songs - 5 hr 22 min
 

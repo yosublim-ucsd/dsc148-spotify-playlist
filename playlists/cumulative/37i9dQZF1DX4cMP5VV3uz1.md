@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-138 songs - 8 hr 0 min
+139 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Ready To Fly \- Sub Focus & Dimension](https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Ready To Fly \(Sub Focus & Dimension\)](https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc) | 3:24 | 2023-01-25 |  |
 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 | 2022-09-30 | 2023-05-20 |
 | [Remedies \- Vibe Chemistry Remix](https://open.spotify.com/track/3yQ516QezlWKO2jbWNgZrA) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Remedies \(Vibe Chemistry Remix\)](https://open.spotify.com/album/1WbjxqUd6FddMU9cKJQReX) | 3:31 | 2023-03-14 | 2023-05-23 |
-| [Renaissance \(Edit\)](https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequence](https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX) | 3:29 | 2022-09-30 |  |
+| [Renaissance \(Edit\)](https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequence](https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX) | 3:29 | 2022-09-30 | 2023-10-13 |
 | [Renegade](https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Renegade](https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8) | 2:34 | 2022-10-28 | 2023-08-23 |
 | [Riot Gear Romance](https://open.spotify.com/track/3LIQzjfcbhRGZmP9DfiF6T) | [QZB](https://open.spotify.com/artist/7DrL4NTd8JcbCpxOvdCnV9) | [Riot Gear Romance](https://open.spotify.com/album/2EFKBPxVQcp4EwmlOzws21) | 4:08 | 2023-09-01 | 2023-10-07 |
 | [Run Up \(Unknown T\)](https://open.spotify.com/track/2d4Opt89xsBbTSOEnl8WPn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:16 | 2022-09-30 | 2023-07-28 |
@@ -111,6 +111,7 @@
 | [Shake the Foundations](https://open.spotify.com/track/41oMLrpW7SND8rk8GXYMsz) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Shake the Foundations](https://open.spotify.com/album/4ueQeW187BVwaMpMugNvT0) | 3:02 | 2023-10-06 |  |
 | [Show Me](https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Show Me](https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M) | 3:28 | 2023-09-22 | 2023-10-07 |
 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 | 2023-04-13 |  |
+| [Sirens](https://open.spotify.com/track/3HeOOjms1LHV4U91lKcbwd) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Sirens](https://open.spotify.com/album/3L4Meb0nRGrUulc4Xp9esu) | 2:50 | 2023-10-06 |  |
 | [Sliding](https://open.spotify.com/track/5iAp1pQB3dqB3rWfs38Yb6) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [Charlie Choppa](https://open.spotify.com/artist/4aTBKDsrXC1os9HzfPuDTR) | [Sliding](https://open.spotify.com/album/5WvQFSYrjHNsZ85XP22GtT) | 4:17 | 2023-09-01 |  |
 | [Special Powers \(feat\. Devilman & Local\) \- Remix](https://open.spotify.com/track/6YvrOZtZiZZEnkSw6t8q3l) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Ego Trippin](https://open.spotify.com/artist/5bdp2qyumzpzh4mJoLNilw), [Devilman](https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [Special Powers \(feat\. Devilman & Local\) \[Remix\]](https://open.spotify.com/album/4BXt89QiijaIXI1WmDB6Kt) | 2:46 | 2022-09-30 | 2023-03-15 |
 | [SPECTACULAR](https://open.spotify.com/track/2KbYcnZQmfwe8RrCMSMwym) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Problematik](https://open.spotify.com/album/3omXYWmxB50sNFrnOECCuy) | 2:55 | 2022-09-30 | 2023-09-02 |

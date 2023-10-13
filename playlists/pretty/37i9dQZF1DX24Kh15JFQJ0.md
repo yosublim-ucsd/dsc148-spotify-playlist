@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Reba McEntire
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,404 likes - 173 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,118 likes - 173 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 2 | [Breakfast In Birmingham \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/3GOgNvOS69nv122eNjYGUG) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Breakfast In Birmingham \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/2R5MdULbrzeoioeTF7xrpj) | 3:30 |
 | 3 | [Cry Myself To Sleep](https://open.spotify.com/track/1yuQdcpI7ngCtwMYVdljVv) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Cry Myself To Sleep](https://open.spotify.com/album/44oSlwYfwOS3Cu0SFOQFd6) | 4:13 |
 | 4 | [When the Cowboys Gone](https://open.spotify.com/track/72U86afw7ZhxeNsPo76bxf) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [When the Cowboy's Gone](https://open.spotify.com/album/2ja9bHN4AHzlIKuc5eIJ0t) | 3:17 |
-| 5 | [Two Dozen Roses](https://open.spotify.com/track/5GQgvVT7tJGZNzj13pz36l) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Two Dozen Roses](https://open.spotify.com/album/3Drss6cMVLm1BC2787GlLY) | 3:50 |
+| 5 | [Two Dozen Roses \(feat\. Luke Combs\)](https://open.spotify.com/track/5GQgvVT7tJGZNzj13pz36l) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Two Dozen Roses \(feat\. Luke Combs\)](https://open.spotify.com/album/3Drss6cMVLm1BC2787GlLY) | 3:50 |
 | 6 | [Just To Be Loved](https://open.spotify.com/track/515sfGf2gmnr14l5dblnxH) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Just To Be Loved](https://open.spotify.com/album/3SjOoyWph9hb3oQKb2tSoU) | 3:12 |
 | 7 | [Kissing Your Picture \(Is So Cold\)](https://open.spotify.com/track/2ghjBzkF9XwqBt9nw1GjlO) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Kissing Your Picture \(Is So Cold\)](https://open.spotify.com/album/1cx9p0adZ9GVMOsWs1UIhC) | 3:25 |
 | 8 | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV) | 4:27 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 172 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 |
 | 173 | [Born Ready](https://open.spotify.com/track/532uB7VNAJi3V6uRcLIKPm) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [Born Ready](https://open.spotify.com/album/40PSbH50uUot5MIjIvqm9G) | 2:55 |
 
-Snapshot ID: `MCw2ZTA0YjIzZjc2ZGJhN2ExNWJmZTNmOWY0NGQ3MWJhMmEwOTQyZjUw`
+Snapshot ID: `MCw3NTAxYWFiZjg1ZGVmNTY3ZmFmZTQxZDk5N2M1MGNiYmE5NmE0YzM1`

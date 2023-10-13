@@ -1,12 +1,12 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 137736,
+  "num_followers": 137900,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjhhNzFjN2U3YTdlYzc5ZGEzOGMyMjhjYmQ4NmNkZWZmOTQ2MGZk",
+  "snapshot_id": "MCxiZDJlOTVhYTNjMzExYWJiNDY2OTBjZDM2MDAwNmYzZWFjODE5NmYx",
   "tracks": [
     {
       "added_at": "2023-09-01 16:42:45",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Memo Rex Commander y el Coraz\u00f3n At\u00f3mico de la V\u00eda L\u00e1ctea",
+        "url": "https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "V\u00eda L\u00e1ctea",
+      "url": "https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "El Vuelo del Pez",
         "url": "https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 211319,
       "name": "Loco",
       "url": "https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Memo Rex Commander y el Coraz\u00f3n At\u00f3mico de la V\u00eda L\u00e1ctea",
-        "url": "https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "V\u00eda L\u00e1ctea",
-      "url": "https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "D\u00edas De Fuego",
+        "url": "https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "D\u00edas De Fuego",
+      "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "MEMORIA FUTURO",
         "url": "https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 221390,
       "name": "Respiro (Cap. 8)",
       "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "D\u00edas De Fuego",
-        "url": "https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "D\u00edas De Fuego",
-      "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "S\u00ed, Yo Soy",
-        "url": "https://open.spotify.com/album/55xfAVi9VsvzxmZBTwCBUe"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 218840,
-      "name": "No",
-      "url": "https://open.spotify.com/track/32QNjBLycSMFSpY0pJ1Hau"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Arunima",
         "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 228534,
       "name": "No Es Que No Te Quiera",
       "url": "https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "S\u00ed, Yo Soy",
+        "url": "https://open.spotify.com/album/55xfAVi9VsvzxmZBTwCBUe"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 218840,
+      "name": "No",
+      "url": "https://open.spotify.com/track/32QNjBLycSMFSpY0pJ1Hau"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Pi\u00f1ata",
-        "url": "https://open.spotify.com/album/4NNsCRL4LuWbspwc4F0RRu"
-      },
-      "artists": [
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "El Micr\u00f3fono",
-      "url": "https://open.spotify.com/track/2hfGuADMk6YBgciFuJnv5s"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Ha Sido",
         "url": "https://open.spotify.com/album/5d8kc4RkQim1IXtL3QwxnK"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 196941,
       "name": "Amor Prohibido II",
       "url": "https://open.spotify.com/track/6e0R0ZhqkRvh0yVXM0LUxq"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/4NNsCRL4LuWbspwc4F0RRu"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "El Micr\u00f3fono",
+      "url": "https://open.spotify.com/track/2hfGuADMk6YBgciFuJnv5s"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Rey Pila",
-        "url": "https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS"
-      },
-      "artists": [
-        {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
-        }
-      ],
-      "duration_ms": 205346,
-      "name": "No Longer Fun",
-      "url": "https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "La \u00daltima Noche del Mundo",
         "url": "https://open.spotify.com/album/5XYaeuGHi7sVB0L2YKgqAm"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 288760,
       "name": "Ella No Me Conoce",
       "url": "https://open.spotify.com/track/5WyAHEuvc2mpHeOJTkzsbS"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Rey Pila",
+        "url": "https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS"
+      },
+      "artists": [
+        {
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "No Longer Fun",
+      "url": "https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Meta y Dinero",
-        "url": "https://open.spotify.com/album/5FRhhyIaXmEPloYSFUaYfs"
-      },
-      "artists": [
-        {
-          "name": "Los Blenders",
-          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
-        }
-      ],
-      "duration_ms": 133894,
-      "name": "Meta y Dinero",
-      "url": "https://open.spotify.com/track/7ujlY5tMc64ZA5Igz2FaYi"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Bella \u00c9poca",
         "url": "https://open.spotify.com/album/7HJRr6o6Efu5XJCFNPKtHd"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 200173,
       "name": "Si",
       "url": "https://open.spotify.com/track/1LN0Ut0IBHSrx4Urexq8xb"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Meta y Dinero",
+        "url": "https://open.spotify.com/album/5FRhhyIaXmEPloYSFUaYfs"
+      },
+      "artists": [
+        {
+          "name": "Los Blenders",
+          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+        }
+      ],
+      "duration_ms": 133894,
+      "name": "Meta y Dinero",
+      "url": "https://open.spotify.com/track/7ujlY5tMc64ZA5Igz2FaYi"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Los Odio",
-        "url": "https://open.spotify.com/album/4jnjFnZIJ7kHm2VIfQwQFC"
-      },
-      "artists": [
-        {
-          "name": "Los Odio!",
-          "url": "https://open.spotify.com/artist/0tqpmKIKOBpH3PESt3W93v"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "El Ultimo",
-      "url": "https://open.spotify.com/track/1LnHgQUu6IBqDLlXH4A3Vq"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "EXPRESS",
         "url": "https://open.spotify.com/album/5X6VPdxmPVASY9SuQJHR6n"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "El Bar de Peter Pan",
-        "url": "https://open.spotify.com/album/3uzJdTLK0NfNbkKnsusZII"
+        "name": "Los Odio",
+        "url": "https://open.spotify.com/album/4jnjFnZIJ7kHm2VIfQwQFC"
       },
       "artists": [
         {
-          "name": "Pau y Amigos",
-          "url": "https://open.spotify.com/artist/46jXSb4Q3RLlT5M1nWCKMD"
+          "name": "Los Odio!",
+          "url": "https://open.spotify.com/artist/0tqpmKIKOBpH3PESt3W93v"
         }
       ],
-      "duration_ms": 280853,
-      "name": "Fiesta Permanente",
-      "url": "https://open.spotify.com/track/2IWmJTCkFBafsl702cwURa"
+      "duration_ms": 215266,
+      "name": "El Ultimo",
+      "url": "https://open.spotify.com/track/1LnHgQUu6IBqDLlXH4A3Vq"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1587,6 +1571,22 @@
       "duration_ms": 206673,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "El Bar de Peter Pan",
+        "url": "https://open.spotify.com/album/3uzJdTLK0NfNbkKnsusZII"
+      },
+      "artists": [
+        {
+          "name": "Pau y Amigos",
+          "url": "https://open.spotify.com/artist/46jXSb4Q3RLlT5M1nWCKMD"
+        }
+      ],
+      "duration_ms": 280853,
+      "name": "Fiesta Permanente",
+      "url": "https://open.spotify.com/track/2IWmJTCkFBafsl702cwURa"
     },
     {
       "added_at": "2023-09-01 16:42:45",

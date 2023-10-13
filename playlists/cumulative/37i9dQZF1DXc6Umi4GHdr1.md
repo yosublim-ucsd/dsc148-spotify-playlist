@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-258 songs - 11 hr 33 min
+264 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Diamante](https://open.spotify.com/track/5fW1NupjNhGjwoEQwlh9FU) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Diamante](https://open.spotify.com/album/12SQTw5KsmzIa8BENXP98Y) | 2:30 | 2022-05-27 | 2022-07-08 |
 | [Die Donau](https://open.spotify.com/track/2cZMVymCXBcY4KDr0Qag2f) | [Sylvia Warren](https://open.spotify.com/artist/0Jvjt5h5TJPxU0hsoTljL7) | [Die Donau](https://open.spotify.com/album/1hcqmGoCbBo79hyTfMLnl9) | 2:42 | 2021-12-10 | 2022-07-22 |
 | [die Tulpe](https://open.spotify.com/track/2lxdP9tH5uCkKXJi8MfxpK) | [Frederick Fried](https://open.spotify.com/artist/4c38lToOvTzqQJCfS1uNtx) | [Kona](https://open.spotify.com/album/2qaqZMgv6yVLC6XOO5hka9) | 4:01 | 2021-12-10 | 2023-03-31 |
+| [Donegal](https://open.spotify.com/track/51760UCr1H0wFGIeNlZg2F) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Donegal](https://open.spotify.com/album/4aPfvkL9aJn4yozAV8Hift) | 2:36 | 2023-10-13 |  |
 | [Dorival](https://open.spotify.com/track/1sgihll2tdAfRm3ko1Bay3) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Dorival](https://open.spotify.com/album/460T3DYQguwcbXb5M97nr6) | 2:46 | 2022-12-09 |  |
 | [Droplets](https://open.spotify.com/track/5dqXVZIkN8zzWQTStYGr0i) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Droplets](https://open.spotify.com/album/3hgVEb5uOhSbwPnosbYMZt) | 2:22 | 2022-11-25 |  |
 | [Dulces Sueños](https://open.spotify.com/track/0sNwS8yvAm4qiDt5wxMQqJ) | [Lullaby Texture](https://open.spotify.com/artist/1nniTSIKfKilcQ0gdDTsvW) | [Dulces Sueños](https://open.spotify.com/album/0Z0MbM8YTWu2BzoqZymHff) | 2:36 | 2022-05-27 | 2022-07-22 |
@@ -98,6 +99,7 @@
 | [Hearst Castle](https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Hearst Castle](https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN) | 2:08 | 2023-03-10 | 2023-08-26 |
 | [Hearts Entwined \(Ethereal Guitar\)](https://open.spotify.com/track/5OFG5SN0E8D0oQptaD9wTp) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Hearts Entwined \(Ethereal Guitar\)](https://open.spotify.com/album/3d5sBqzj7y36pGyGr39JnK) | 3:57 | 2022-07-22 | 2022-07-29 |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2021-12-10 |  |
+| [Helix](https://open.spotify.com/track/1gzalRgd6177ItWli3V6fI) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Helix](https://open.spotify.com/album/36IKErRzj6twXIiIPDh4TN) | 2:12 | 2023-10-13 |  |
 | [Her Smoke Rose Up Forever](https://open.spotify.com/track/7Ko4so8MIU5HBwrCMcOI1c) | [James Blackshaw](https://open.spotify.com/artist/0v3A74qYtkL8Wjj1rzLe9Z) | [Love Is the Plan, The Plan Is Death](https://open.spotify.com/album/0Hs9ZPAGmekggdUCj4g6e9) | 7:06 | 2021-12-10 | 2022-04-22 |
 | [Hesitation Theme and Variation Blues](https://open.spotify.com/track/2h4KmvKPMxvZjTpHTpq2FE) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 2:22 | 2021-12-10 | 2023-04-28 |
 | [Hidden Treasures](https://open.spotify.com/track/5QMPnfATvvolBDWSvM2hjm) | [Carsten Meyer](https://open.spotify.com/artist/6je5sFIVVOMLNUeTVnx3v6) | [A Town on a Hill](https://open.spotify.com/album/6IpmlOnnDB4ilaK8mMZtuV) | 3:17 | 2021-12-10 | 2022-05-27 |
@@ -141,11 +143,13 @@
 | [Maine](https://open.spotify.com/track/6HcSIn5EsFz20aillG9Itv) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Maine](https://open.spotify.com/album/3vbEzZqSsm4K9cxkBpw0wa) | 2:44 | 2023-09-29 |  |
 | [Mar en Calma](https://open.spotify.com/track/3ixw6dc0jP30Vw8WmV36tT) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [Mar en Calma](https://open.spotify.com/album/2w5M7NjPdfKtcNjknLwHuV) | 2:15 | 2021-12-10 | 2023-06-10 |
 | [Meet Me When I Come](https://open.spotify.com/track/6A4OZEbZdVXcWa79ZhanWN) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Meet Me When I Come](https://open.spotify.com/album/5n6VG1x2YR6D8xVDrpFGaL) | 3:11 | 2023-06-22 |  |
-| [Midnight Rain](https://open.spotify.com/track/2O0NykJV0XOkbHAsedN21s) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [Midnight Rain](https://open.spotify.com/album/1IV7ToivCrCyOBoQMbKGok) | 2:09 | 2022-12-09 |  |
+| [Meliora](https://open.spotify.com/track/5Rcadz15kuvonMLJ6Oc8OF) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [Meliora](https://open.spotify.com/album/0ez2YoSEOUJJOgHDlprSxR) | 2:21 | 2023-10-13 |  |
+| [Midnight Rain](https://open.spotify.com/track/2O0NykJV0XOkbHAsedN21s) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [Midnight Rain](https://open.spotify.com/album/1IV7ToivCrCyOBoQMbKGok) | 2:09 | 2022-12-09 | 2023-10-13 |
 | [Midnight Sun](https://open.spotify.com/track/49np3roHmTZhiHhO4P2suj) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Midnight Sun](https://open.spotify.com/album/4Vghw5bCOZnBkD4W1Mr9I9) | 1:50 | 2022-05-27 | 2022-07-22 |
 | [Midsommarblomster](https://open.spotify.com/track/1m5RLwW0Bkmkb5yeCn33du) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [Midsommarblomster](https://open.spotify.com/album/61xdS2VlEuTV5Qy0VvoPCv) | 3:07 | 2022-06-10 | 2022-07-29 |
 | [Minore Sostenuto, Op\. 107](https://open.spotify.com/track/7xyK7jldqjNERe6RP0DWuZ) | [Mauro Giuliani](https://open.spotify.com/artist/4qXtGiJP51BsAIi4bJNeir), [Bill Russell](https://open.spotify.com/artist/7ilKUFoBWbdNujwb6t0PKe) | [Minore Sostenuto, Op\. 107](https://open.spotify.com/album/3AegI4cYed4MJCAF39DqQC) | 3:16 | 2022-11-18 | 2023-05-27 |
 | [Misspent Life](https://open.spotify.com/track/3ktxKAEJ3WvNezNl00O041) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Misspent Life](https://open.spotify.com/album/4dFszxldPJd0l36xuAXPu2) | 2:48 | 2022-12-09 |  |
+| [Montes Claros](https://open.spotify.com/track/2DwZFuh7xnuEDvNwz4mAMi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Montes Claros](https://open.spotify.com/album/4xouEO0NJWhJswiV2Qofy8) | 2:45 | 2023-10-13 |  |
 | [Moondust](https://open.spotify.com/track/4f4IeJgCi2IVwmjqbDzDON) | [Gabriel Femi](https://open.spotify.com/artist/5TfOpr1QMPSdpygmQvf1qX) | [Moondust](https://open.spotify.com/album/1qZvjFoXmGVvCTWNd9YPef) | 2:09 | 2022-12-09 |  |
 | [Morning Gifts](https://open.spotify.com/track/0rzUmunEigDbc5oZJwjScg) | [Ken Verheecke](https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl) | [Morning Gifts](https://open.spotify.com/album/1fUdgeiqaGxHXoB2Xs5692) | 2:13 | 2023-05-26 | 2023-06-10 |
 | [Mother](https://open.spotify.com/track/5gaAuySZEHflS9lLLIEXkG) | [Sergio Sorrentino](https://open.spotify.com/artist/2hV0tEHHlVNNr8qxpBr1qN) | [Mother](https://open.spotify.com/album/4SEJYvpvBcKwRGS83ihp2f) | 2:22 | 2022-10-28 |  |
@@ -185,8 +189,10 @@
 | [Rickover's Dream](https://open.spotify.com/track/3rbanyAxECNBbFFi2IM0S2) | [Michael Hedges](https://open.spotify.com/artist/3IqoFUpoJi1qvebL8Vi2aK) | [Aerial Boundaries](https://open.spotify.com/album/2hgrTinAeHSNaSPzLFoamH) | 4:50 | 2021-12-10 | 2023-03-10 |
 | [Rio De Los Sauces](https://open.spotify.com/track/693lY3L3XadRUYWEQoYHtb) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Rio De Los Sauces](https://open.spotify.com/album/3rW87wBuoMnxn5CIdesQ7I) | 2:49 | 2021-12-23 |  |
 | [Rio Segundo](https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Rio Segundo](https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU) | 2:49 | 2021-12-23 |  |
+| [Rippling Waters](https://open.spotify.com/track/2CJYWfBlOJ9WWoi5ynPMDf) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Rippling Waters](https://open.spotify.com/album/6vbPmAiYbJaGwsE3Ieli13) | 2:23 | 2023-10-13 |  |
 | [Road To Pappy's](https://open.spotify.com/track/4e9rBrNPDRoXqlT2anxvmu) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [Road To Pappy's](https://open.spotify.com/album/17n0YzedIGhgxEKFgvNZmf) | 2:33 | 2023-05-26 | 2023-06-16 |
 | [Sans Toi](https://open.spotify.com/track/0gYgdEiS0wNp4OFllLrpr3) | [Loane Tellier](https://open.spotify.com/artist/6xKXSveUUJyAIZAOCnnSvS) | [Sans Toi \- Guitar](https://open.spotify.com/album/38NCkRjEp9lwz3GmRQOyeq) | 2:18 | 2023-01-20 |  |
+| [Santorini](https://open.spotify.com/track/0rx4tPhXaiVrpglMzVLVbj) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Santorini](https://open.spotify.com/album/0Ipg8tK3kvzke2pNfPVFSz) | 2:09 | 2023-10-13 |  |
 | [Saudade](https://open.spotify.com/track/2sVKwpi20O0WkibAdxWQk4) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Saudade](https://open.spotify.com/album/6nkyNZGse00wWlhvhXsRFs) | 2:27 | 2021-12-10 | 2023-03-10 |
 | [Sawdust Floors](https://open.spotify.com/track/22CshhpyS2gjbii88Rizzm) | [Verona Cassidy](https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0) | [Sawdust Floors](https://open.spotify.com/album/2cgfREGDztUfqSQoVib1Er) | 1:51 | 2023-04-28 | 2023-08-26 |
 | [Sensibilita](https://open.spotify.com/track/4vS8BQGwgPbweNJLLHC9kE) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Sensibilita](https://open.spotify.com/album/6K384fMAEjg7xCsSvWwoP2) | 2:21 | 2022-09-23 |  |
@@ -197,7 +203,7 @@
 | [Sommersby](https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Sommersby](https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH) | 1:48 | 2023-04-28 | 2023-08-26 |
 | [Sonnensterne](https://open.spotify.com/track/3y1gTkcn6Vp1qFj0mLWH5L) | [Arno Pohl](https://open.spotify.com/artist/711DDi0p3SKq9UI82cvuhT) | [Waldschlaf](https://open.spotify.com/album/7dE6eIR5CifPhi9u2EuZtq) | 3:26 | 2021-12-10 | 2023-09-01 |
 | [Sonora Sunshine](https://open.spotify.com/track/0BT47n9p88wIwm7yNPvvLN) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [Sonora Sunshine](https://open.spotify.com/album/6Q48kfNKXooTHk6T5DLWCT) | 1:51 | 2023-08-24 | 2023-08-26 |
-| [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-03-03 |  |
+| [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-03-03 | 2023-10-13 |
 | [Sorrento](https://open.spotify.com/track/2tK0zbhhHsbQIjHSk6XmaF) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Sorrento](https://open.spotify.com/album/4h28TS4QXiLmaPEzON7Jrr) | 2:19 | 2023-08-17 |  |
 | [Southern](https://open.spotify.com/track/1MZDSZNmYSWR5IIRmmPCXm) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Southern](https://open.spotify.com/album/0s2CFBb8tEHleuDk01vwfz) | 2:38 | 2021-12-10 |  |
 | [Speak Once More](https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Speak Once More](https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb) | 1:51 | 2022-06-24 | 2022-07-22 |

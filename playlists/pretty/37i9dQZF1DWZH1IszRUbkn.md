@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,617 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,623 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 27 | [Dos ojitos tengo](https://open.spotify.com/track/5NVfQukFgB2NUo5kEmb328) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [A cantar](https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em) | 0:55 |
 | 28 | [Ki Ki Kí \- Co Co Có \- Dance Remix](https://open.spotify.com/track/0dT11N8Apg5dqZrm5iYHyF) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T) | [Por Ti y Para Ti](https://open.spotify.com/album/553Z8YDy0KOYGyh1BegVoH) | 3:42 |
 | 29 | [Libre Soy \- Single Version](https://open.spotify.com/track/0WXKTj2Lfa8zOgK4l7u32M) | [Martina Stoessel](https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL) | [Frozen: Una Aventura Congelada \(Banda Sonora Original\)](https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO) | 3:43 |
-| 30 | [La Familia Dedo](https://open.spotify.com/track/4YKEh2ULjn9phBPXbiOfhI) | [Minidisco Español](https://open.spotify.com/artist/7aNXgkii6Zsi7Otp2MSOiQ) | [Minidisco 2018 \(Español Version\)](https://open.spotify.com/album/5Npbvxnl5kx6VnQwmBgr0N) | 2:23 |
-| 31 | [Canción de las Brujas \- Remasterizado](https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 3:16 |
+| 30 | [Canción de las Brujas \- Remasterizado](https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 3:16 |
+| 31 | [La Familia Dedo](https://open.spotify.com/track/4YKEh2ULjn9phBPXbiOfhI) | [Minidisco Español](https://open.spotify.com/artist/7aNXgkii6Zsi7Otp2MSOiQ) | [Minidisco 2018 \(Español Version\)](https://open.spotify.com/album/5Npbvxnl5kx6VnQwmBgr0N) | 2:23 |
 | 32 | [Mueve el Ombligo](https://open.spotify.com/track/6A6iJVLM4LkDkKYCK7w7wx) | [La Banda de Carmen](https://open.spotify.com/artist/1J37T04jOISczqfu7UInu8) | [Música Infantil para Fiestas: Canciones para Bailar Niños y Padres](https://open.spotify.com/album/4mModRw64DMTdGsDfhzjYT) | 2:53 |
 | 33 | [La Feria de Cepillín](https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb), [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [Mejores Amigos](https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl) | 3:05 |
 | 34 | [Sana, Sana, Colita de Rana](https://open.spotify.com/track/26cHBaPyFGH2lhtdaq4Dz1) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T) | [Entre Ayer y Hoy](https://open.spotify.com/album/69JFGFoQLfiVaQaPfduFet) | 2:27 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 47 | [Mi Familia](https://open.spotify.com/track/2bsMa5r165wLPih4iM3uBn) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas y Clásicos Infantiles 2](https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg) | 2:54 |
 | 48 | [Malísima](https://open.spotify.com/track/1wmcsShYTSot5sc8tC0xA9) | [Chiquititas](https://open.spotify.com/artist/0qAthAwwFa3RW6BRRsP4cQ) | [24 Horas](https://open.spotify.com/album/3dPdREEhxWnXBcVDcl90Ea) | 2:38 |
 | 49 | [Garabato Colorado](https://open.spotify.com/track/3XjOBu6y6mlyGJK9gABfL9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 3:04 |
-| 50 | [Osos de Paseo](https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Las 4 Estaciones, vol\. 11](https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2) | 0:50 |
+| 50 | [Tres Gatitos \(Sin Pastel\)](https://open.spotify.com/track/1qq8bfHsFQX6rP1Wz9HOOY) | [Little Baby Bum en Español](https://open.spotify.com/artist/64eFqyIS1dsTv725lcQ25w) | [Nanas y Canciones para Niños, Vol\. 5 \(Cantar y Aprender con LittleBabyBum\)](https://open.spotify.com/album/6HfilJnTxnoWW1MA9ZgwiS) | 2:12 |
 
-Snapshot ID: `MCxhYzQ4NmE0MTgzMjc5NWFkZWZjMDY1NDhiZTJlMWU1ZWQwNThkZjU2`
+Snapshot ID: `MCw0YzBjNmJmMGUxM2RiYmU4NzkyZjc0MzJlNGNmYzIxM2QyMGQzOGE4`

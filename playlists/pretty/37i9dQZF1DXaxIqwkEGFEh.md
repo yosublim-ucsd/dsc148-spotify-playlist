@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,188,878 likes - 101 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,662 likes - 101 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 100 | [Raw ASL](https://open.spotify.com/track/5lCXJ1n0JQPJM4SgSp054k) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Raw ASL](https://open.spotify.com/album/7KimPKI5rbjUnx7UFd6eZC) | 2:26 |
 | 101 | [B'CUZ \(feat\. G Herbo\)](https://open.spotify.com/track/2HvORsttUMTfUqEyhX7z1x) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [B'CUZ \(feat\. G Herbo\)](https://open.spotify.com/album/2DTtyXTqV77kHcu20TDNyE) | 2:51 |
 
-Snapshot ID: `MCw3ZmY0OThhYjE2MDljMTU2MmQwZmYzNWJhZDQxMzMwMjRjZGYzNGNj`
+Snapshot ID: `MCwzMTY0NTFkMjA5ZTk2MTVjYTEwYzc2NGY3ZWJkYjE4YjA4ZWMzMWQ2`

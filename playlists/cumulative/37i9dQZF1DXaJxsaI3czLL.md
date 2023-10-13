@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-325 songs - 22 hr 57 min
+326 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Days](https://open.spotify.com/track/26o4oI2sYBD4r0Oq0sV5GY) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Days](https://open.spotify.com/album/6y6EKuZFTF27DVWz2CckWK) | 3:19 | 2023-01-24 | 2023-01-26 |
 | [December](https://open.spotify.com/track/6OTYbrTn8BUb1WViI9HaAS) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [5am](https://open.spotify.com/album/1dLcTY0iMPyX7i6yrz5KjP) | 4:15 | 2023-08-29 |  |
 | [Don't Let Me Go](https://open.spotify.com/track/5t7TDtxEROR35WDMrUioBu) | [Somewhere](https://open.spotify.com/artist/1nDq6lPB8DMpBpnxLFqXO2) | [Don't Let Me Go](https://open.spotify.com/album/0WcB8yWpupgALCIrjfBEJG) | 3:44 | 2023-01-24 | 2023-03-15 |
+| [Drawl](https://open.spotify.com/track/7un82BeP1sOVI4R8NhQq6p) | [tatyn](https://open.spotify.com/artist/2bGZL8hoNpceJ6rRbflybA) | [Drawl](https://open.spotify.com/album/5DTs7RlPryssenWO0ClL0O) | 3:18 | 2023-10-12 |  |
 | [Earth: my Home Planet](https://open.spotify.com/track/5jrasBBRelZu8W51HHYWSx) | [矢野顕子・野口聡一](https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS), [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [Earth: my Home Planet](https://open.spotify.com/album/367AxTys5leFcc98kZP0Nr) | 2:12 | 2022-12-13 | 2022-12-21 |
 | [Empty](https://open.spotify.com/track/3nYCP4ugsBEj04BDjp6CrG) | [猫田ねたこ](https://open.spotify.com/artist/0lzD8LErG1lgw65vqVZuQE) | [dropss](https://open.spotify.com/album/2stLVpBMmc65mFVC0OUXPg) | 2:37 | 2023-08-08 | 2023-10-11 |
 | [Enso Cloud](https://open.spotify.com/track/5GgSWpikkWn40eG1bGpsKq) | [tuLaLa](https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd) | [Enso Cloud](https://open.spotify.com/album/19O1dvpI4p0P8GxmMJjOKt) | 5:44 | 2023-07-18 | 2023-08-09 |
@@ -59,7 +60,7 @@
 | [Furui Chizu \(Old Map\)](https://open.spotify.com/track/0cNzX9fSafdJQQuxNeUOFM) | [Miyuki Hatakeyama](https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI), [Kazuma Fujimoto](https://open.spotify.com/artist/20qDjhYBrYKWNCKmGgJIFH) | [Yoru no Niwa \(Night Garden\)](https://open.spotify.com/album/596yPS71AnU4gBjgzK4eKR) | 3:42 | 2022-11-10 | 2022-12-14 |
 | [Gekijyou](https://open.spotify.com/track/6JgoiW5cZae1GUEktXaJLq) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 5:58 | 2023-08-15 | 2023-09-06 |
 | [Gloria](https://open.spotify.com/track/1LfLRWF1I3ydJpNgwGP88u) | [Wuinguin](https://open.spotify.com/artist/00N3aCj3lIPQW8hcPNFjRO) | [Gloria](https://open.spotify.com/album/4c7yPOvymJDhwEpwiQ1yOq) | 3:07 | 2023-03-14 | 2023-03-29 |
-| [Good Night Station](https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUEHARLEM](https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ) | 5:27 | 2022-10-20 |  |
+| [Good Night Station](https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUEHARLEM](https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ) | 5:27 | 2022-10-20 | 2023-10-13 |
 | [grace](https://open.spotify.com/track/4tIvs7L5ND34rMCCfMuKUQ) | [Nezumi Coo](https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs) | [grace](https://open.spotify.com/album/5xy29po3H6R9PgsIfznkl3) | 3:03 | 2022-12-06 | 2022-12-14 |
 | [Grapefruit Moon](https://open.spotify.com/track/2PE3kNSKy56QkLZmO3Sb5w) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:16 | 2023-10-03 |  |
 | [Grapefruit Moon](https://open.spotify.com/track/4u6rKlnEBE1Ul3Ll7IUuH9) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Grapefruit Moon](https://open.spotify.com/album/0JFZ2rVwfkL6YpBfyNIN1l) | 3:16 | 2023-09-08 | 2023-10-01 |

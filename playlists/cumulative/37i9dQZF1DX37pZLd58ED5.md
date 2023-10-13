@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Geolier
 
-121 songs - 6 hr 37 min
+122 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Avanti](https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Avanti](https://open.spotify.com/album/4c1n4Fmve8p70NESEBivV3) | 2:30 | 2023-03-23 |  |
 | [Bella](https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Come Uccidere Un Usignolo](https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp) | 3:26 | 2022-04-28 |  |
 | [Bitch Affianco \(feat\. Il Ghost\)](https://open.spotify.com/track/7GMdUBnPCy8ttOJwxUW6HM) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 4:36 | 2022-04-28 |  |
-| [BLACKOUT](https://open.spotify.com/track/4HKQTz6RoJkFwlFLBAsJqm) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 3:06 | 2023-09-14 |  |
+| [BLACKOUT](https://open.spotify.com/track/4HKQTz6RoJkFwlFLBAsJqm) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 3:06 | 2023-09-14 | 2023-10-13 |
 | [Bottiglie Privè](https://open.spotify.com/track/3E2KP5AWn6Wx0NcPstzKeo) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Bottiglie Privè](https://open.spotify.com/album/0vu1M0rGdZ7yR34KwyEmrj) | 3:09 | 2022-04-28 |  |
 | [Brivido](https://open.spotify.com/track/52dGHpZuhlsB28gV4z6MSv) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Grandi Classici Rap Italiano I GOT 5 ON IT](https://open.spotify.com/album/1lCXo2TP1ryw3AsaTgwDac) | 3:47 | 2022-10-25 | 2022-11-14 |
 | [Brivido](https://open.spotify.com/track/631EjX7Jgo7QeSn2JbRoBz) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Pensando a te Rap Italiano Game Over](https://open.spotify.com/album/23KDlmJHZGCeM8G6LUhsRm) | 3:47 | 2022-07-14 |  |
@@ -121,6 +121,7 @@
 | [STUPIDO](https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:07 | 2022-04-28 |  |
 | [Svuotatasche](https://open.spotify.com/track/4cF8xXRteGQypocjEOtdAd) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 3:51 | 2022-04-28 | 2022-05-20 |
 | [Ti ricorderai di me \(feat\. Vegas Jones\) \- prod\. Strage](https://open.spotify.com/track/0fBDL8yd1xfCF594H33qcD) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Teoria Del Contrario Mixtape Vol\. 2](https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx) | 2:26 | 2023-03-17 | 2023-04-14 |
+| [Too late](https://open.spotify.com/track/2UKH7wJBVt2tF5JINtOPmZ) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Too late](https://open.spotify.com/album/2wI2mYdlA9BmjRWATm1fjD) | 3:15 | 2023-10-12 |  |
 | [Tre Winston \(feat\. Chakra & Yung Snapp\) \- prod\. Kanesh](https://open.spotify.com/track/6CCFwUKqPxiR48VoU2paUa) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Teoria Del Contrario Mixtape Vol\. 2](https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx) | 3:18 | 2023-03-17 | 2023-04-21 |
 | [Tutto Di Me](https://open.spotify.com/track/2OPbCVmIYfDo6KVvPmcBfL) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 3:55 | 2022-04-28 | 2022-05-20 |
 | [Un milione di volte \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:01 | 2023-06-08 |  |

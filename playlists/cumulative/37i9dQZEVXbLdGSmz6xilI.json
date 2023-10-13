@@ -314,7 +314,7 @@
       ],
       "date_added": "2021-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 240000,
       "name": "3107 3",
       "url": "https://open.spotify.com/track/1EmMFSLRVkOszCa4ul9z0F"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 223783,
       "name": "Anh L\u00e0 Ai? (feat. Dick, DT & UMIE)",
       "url": "https://open.spotify.com/track/6HpkHTTwfVmSoopeloHqOp"
@@ -1854,6 +1854,24 @@
       "duration_ms": 201599,
       "name": "Bigcityboi (feat. Touliver)",
       "url": "https://open.spotify.com/track/3sV8ExJeOGXbanczafavZv"
+    },
+    {
+      "album": {
+        "name": "\u0110\u00e1nh \u0110\u1ed5i",
+        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
+      },
+      "artists": [
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179072,
+      "name": "Bi\u00ean Gi\u1edbi Long B\u00ecnh",
+      "url": "https://open.spotify.com/track/1D9QWphMtRcxYybdzM6JUa"
     },
     {
       "album": {
@@ -6022,7 +6040,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 186678,
       "name": "Gi\u1edd Th\u00ec Ai C\u01b0\u1eddi",
       "url": "https://open.spotify.com/track/0CKe6iIHpuoArjOsT4iese"
@@ -6764,6 +6782,28 @@
       "duration_ms": 179026,
       "name": "Hype Boy",
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
+    },
+    {
+      "album": {
+        "name": "\u0110\u00e1nh \u0110\u1ed5i",
+        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
+      },
+      "artists": [
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        },
+        {
+          "name": "VSTRA",
+          "url": "https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165555,
+      "name": "H\u00e0 N\u1ed9i (ft. VSTRA)",
+      "url": "https://open.spotify.com/track/0SLhB9JLM4Ksz1XdwK3aQD"
     },
     {
       "album": {
@@ -10668,7 +10708,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 241340,
       "name": "N\u1ea5u \u0103n cho em",
       "url": "https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6"
@@ -11324,7 +11364,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
@@ -16169,6 +16209,24 @@
     },
     {
       "album": {
+        "name": "\u0110\u00e1nh \u0110\u1ed5i",
+        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
+      },
+      "artists": [
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189111,
+      "name": "Xu\u1ea5t Ph\u00e1t \u0110i\u1ec3m",
+      "url": "https://open.spotify.com/track/6TOI8hhlfebwsTYRCVpRMn"
+    },
+    {
+      "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
       },
@@ -16767,6 +16825,28 @@
     },
     {
       "album": {
+        "name": "\u0110\u00e1nh \u0110\u1ed5i",
+        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
+      },
+      "artists": [
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        },
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226993,
+      "name": "\u0110\u00e1nh \u0110\u1ed5i (ft. RPT MCK)",
+      "url": "https://open.spotify.com/track/2doGmsaPLdot51o80juiYU"
+    },
+    {
+      "album": {
         "name": "\u0110\u00ecu Anh Lu\u00f4n Gi\u1eef K\u00edn Trong Tym",
         "url": "https://open.spotify.com/album/7dT3UJreSMx4S9wlIoHXs7"
       },
@@ -16874,6 +16954,28 @@
       "duration_ms": 247368,
       "name": "\u0110\u1ea1i Minh Tinh",
       "url": "https://open.spotify.com/track/3g0Dwgd36QRmPecFIoubg4"
+    },
+    {
+      "album": {
+        "name": "\u0110\u00e1nh \u0110\u1ed5i",
+        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
+      },
+      "artists": [
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        },
+        {
+          "name": "L\u0103ng LD",
+          "url": "https://open.spotify.com/artist/0EOMdQwzUG6CKh9oWvcANr"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "\u0110\u1ea7u \u0110\u01b0\u1eddng X\u00f3 Ch\u1ee3 (ft. L\u0103ng LD)",
+      "url": "https://open.spotify.com/track/2nFXaYb2fWOoUJXMPb6y4C"
     },
     {
       "album": {

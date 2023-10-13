@@ -1793,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "PETARDI",
+        "url": "https://open.spotify.com/album/0KFD7ttxVpwUGGHws8HKod"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148839,
+      "name": "PETARDI",
+      "url": "https://open.spotify.com/track/6aBkkxEVmDGC1o0DpxQcjM"
+    },
+    {
+      "album": {
         "name": "Petite",
         "url": "https://open.spotify.com/album/7lXvqyfPkgQpx6jXTOQBni"
       },

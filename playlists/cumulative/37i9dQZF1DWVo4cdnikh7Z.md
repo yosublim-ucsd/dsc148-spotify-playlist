@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Leo
 
-930 songs - 2 day 9 hr 10 min
+931 songs - 2 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [Maaya Neer Vizhchiye](https://open.spotify.com/track/6ydqQoUO58aEMziLsAXbOT) | [Jerry Silvester Vincent](https://open.spotify.com/artist/0ZLNQhaRJbi6lottdmo1k1), [Padmaja Sreenivasan](https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P) | [The Great Indian Kitchen \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5SPVKiiP9sUIxP6rw0wdlZ) | 2:24 | 2023-01-25 | 2023-02-07 |
 | [Maayakari](https://open.spotify.com/track/7sKeH5mCZs8JhHA22PHqfD) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [The Legend \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N) | 4:42 | 2022-05-31 | 2022-06-10 |
 | [Maayava Thooyava \(From “Iravin Nizhal”\)](https://open.spotify.com/track/5kfVUproMZte1jCqjnwgO3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Maayava Thooyava \(From “Iravin Nizhal”\)](https://open.spotify.com/album/2Wvz8sqLkJEeGkLjuyDBJe) | 4:08 | 2022-05-02 | 2022-05-31 |
+| [Machaane Unnaala \(From "Tiger Nageswara Rao"\) \(Tamil\)](https://open.spotify.com/track/17oyZAJcQbH66YDKFTIGlL) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO), [Uma Devi](https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo) | [Machaane Unnaala \(From "Tiger Nageswara Rao"\) \(Tamil\)](https://open.spotify.com/album/1xikQIgZH3PfyySCjtcL4r) | 4:36 | 2023-10-12 |  |
 | [Madhayaanai Kootam \(From "Parundhaaguthu Oor Kuruvi"\)](https://open.spotify.com/track/31lHRZafWHDazAbKFx4JEC) | [Renjith Unni](https://open.spotify.com/artist/0gwiu2YjENIc80Dw6iaswA), [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP) | [Madhayaanai Kootam \(From "Parundhaaguthu Oor Kuruvi"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/54i9kRnSLIbomdo5WK0lmY) | 4:00 | 2023-02-20 | 2023-03-25 |
 | [Madura Veeran](https://open.spotify.com/track/3eFoAIpRrhGCEISQxnoNFI) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Aditi Shankar](https://open.spotify.com/artist/5xLJfbHjlXr4OYawjoGhE8) | [Viruman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Rwd1j6rdOs7M9PLCkqcOi) | 3:49 | 2022-08-03 | 2023-01-25 |
 | [Mahimaalayamagu \(From "Shaakuntalam"\) \[Tamil\]](https://open.spotify.com/track/1ZGDFvLpirBqgNbFg1cZQZ) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Mahimaalayamagu \(From "Shaakuntalam"\) \[Tamil\] \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4f1V2LhglURkh8G4XycJhB) | 1:38 | 2023-04-21 | 2023-04-26 |

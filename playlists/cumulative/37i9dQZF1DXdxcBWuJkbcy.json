@@ -1249,6 +1249,28 @@
     },
     {
       "album": {
+        "name": "Beautiful Life (Faustix RMX)",
+        "url": "https://open.spotify.com/album/621d4r3IhIOtDRJZLEtKWh"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        },
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179888,
+      "name": "Beautiful Life - Faustix RMX",
+      "url": "https://open.spotify.com/track/27r1J3SrSwVoRHIcb5FdIh"
+    },
+    {
+      "album": {
         "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
         "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
@@ -1994,7 +2016,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 172790,
       "name": "Broken - Lost Frequencies Cut",
       "url": "https://open.spotify.com/track/1C1zuA0hSfyNYFOTUddCzO"
@@ -3154,7 +3176,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 159375,
       "name": "Desire",
       "url": "https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc"
@@ -10474,6 +10496,40 @@
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "album": {
+        "name": "Prada (feat. D-Block Europe & Hypaton) [David Guetta & Hypaton Remix]",
+        "url": "https://open.spotify.com/album/4kH630EFDyIlW8AH1yeDaQ"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Prada (feat. D-Block Europe & Hypaton) - David Guetta & Hypaton Remix",
+      "url": "https://open.spotify.com/track/5zfmr8f3jcnQSTX4sSbqks"
     },
     {
       "album": {

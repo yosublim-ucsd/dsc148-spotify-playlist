@@ -6027,6 +6027,24 @@
     },
     {
       "album": {
+        "name": "Jelsy",
+        "url": "https://open.spotify.com/album/7npp2bUGWig9s5OHeHR6Cn"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228898,
+      "name": "Jelsy",
+      "url": "https://open.spotify.com/track/0a01pZuz12ELhxMyzYuQoF"
+    },
+    {
+      "album": {
         "name": "Jus U",
         "url": "https://open.spotify.com/album/4MHiBV3HFk6f5vlT36Xdzx"
       },
@@ -6792,7 +6810,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 229346,
       "name": "Loveher",
       "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
@@ -7286,7 +7304,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 218242,
       "name": "Motherwell",
       "url": "https://open.spotify.com/track/1jizTrVCzc1nrTdB3gP7we"
@@ -7334,6 +7352,24 @@
       "duration_ms": 146666,
       "name": "Mr Medicine",
       "url": "https://open.spotify.com/track/02xliGbqxFVQGRctSA7V1G"
+    },
+    {
+      "album": {
+        "name": "Mr. Bubblegum",
+        "url": "https://open.spotify.com/album/66gBmjWn292fLfUkWoZkqa"
+      },
+      "artists": [
+        {
+          "name": "Blue Bendy",
+          "url": "https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Mr. Bubblegum",
+      "url": "https://open.spotify.com/track/6dZa8SZpYFdGc5JVsZceiC"
     },
     {
       "album": {
@@ -8754,7 +8790,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 252017,
       "name": "Rain",
       "url": "https://open.spotify.com/track/3mSr9nqAbo6Ai9NXtjuT9S"
@@ -10291,6 +10327,24 @@
     },
     {
       "album": {
+        "name": "Talulah",
+        "url": "https://open.spotify.com/album/3LxJHrHUBrWEMueliTUBfD"
+      },
+      "artists": [
+        {
+          "name": "Meadow Meadow",
+          "url": "https://open.spotify.com/artist/4E931YbK4MBdiTzf0UHazk"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273845,
+      "name": "Talulah",
+      "url": "https://open.spotify.com/track/42kUJXRopqPiVYDb2RqS1k"
+    },
+    {
+      "album": {
         "name": "The Candle and the Flame",
         "url": "https://open.spotify.com/album/1e0pkJp4dZGq6vGa7L47rd"
       },
@@ -11299,6 +11353,24 @@
     },
     {
       "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/3uzaEWHPjutN7RP2WjLiXf"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299136,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/19Ta3GtCyDQHhFXMS0vUZj"
+    },
+    {
+      "album": {
         "name": "Two Days",
         "url": "https://open.spotify.com/album/4KNqcEIJ0YPjIjfubGPo2L"
       },
@@ -11714,7 +11786,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 184493,
       "name": "Watcher",
       "url": "https://open.spotify.com/track/2yM9xDhNKZWASkynqaOr9C"
@@ -11826,7 +11898,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 234750,
       "name": "Wet Stuff - 2023 Live Session",
       "url": "https://open.spotify.com/track/158utttpCrbXbIqyLV0ny6"

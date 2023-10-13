@@ -4,7 +4,7 @@
 
 > Música para insubordinados\. Sum 41 en portada.
 
-134 songs - 7 hr 16 min
+135 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Almost Had to Start a Fight/In and Out of Patience](https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ) | 3:14 | 2023-09-23 |  |
 | [Amigos \- En Vivo \- Mazunte 3016](https://open.spotify.com/track/3MjFHWF85f099edPlGN4Mm) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Amigos \(En Vivo \- Mazunte 3016\)](https://open.spotify.com/album/1JLlqbasqPbugK1n2U7DRA) | 3:04 | 2022-03-25 |  |
 | [Anthem Part Two](https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:47 | 2023-09-23 |  |
+| [Ardiendo Lento](https://open.spotify.com/track/7G3WYQW7DrFjmm8a4wPleH) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [Ardiendo Lento](https://open.spotify.com/album/6rYACTUC0TXKlu3pc3dbID) | 2:56 | 2023-10-13 |  |
 | [Atari \(Todo Mi Mundo A Color\)](https://open.spotify.com/track/3v6oyDCU5rB9ze5XdIAmK8) | [Niña ](https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc) | [R.o.c.k.](https://open.spotify.com/album/3FFaVqWKX7AJLoKiSL0v5M) | 3:33 | 2023-09-23 |  |
 | [Año de Mierda](https://open.spotify.com/track/52Gh9CvRUV2BdFo7ywL8IC) | [Artistas Fifí](https://open.spotify.com/artist/7JlaLRHjy1CAcVvIaYFRro) | [Elesplit](https://open.spotify.com/album/1OHKTDWW6BOpRKuKX8ehVB) | 2:51 | 2022-03-25 | 2022-07-29 |
 | [Año de Mierda](https://open.spotify.com/track/7q1ugxgWb8J7kOeDIRbXdd) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4), [Artistas Fifí](https://open.spotify.com/artist/7JlaLRHjy1CAcVvIaYFRro) | [Elesplit](https://open.spotify.com/album/0VwxKnWVX5fKLp2CQN3Yyc) | 2:51 | 2022-03-25 |  |

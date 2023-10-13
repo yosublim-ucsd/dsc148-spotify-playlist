@@ -498,6 +498,24 @@
     {
       "album": {
         "name": "Ecl\u00edptica",
+        "url": "https://open.spotify.com/album/4BN32ZYVFyGOA7O2VtPV2P"
+      },
+      "artists": [
+        {
+          "name": "Maria Rod\u00e9s",
+          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187839,
+      "name": "Fui a Buscar al Sol",
+      "url": "https://open.spotify.com/track/7mVuCRl3e36TrJuBUBOQZh"
+    },
+    {
+      "album": {
+        "name": "Ecl\u00edptica",
         "url": "https://open.spotify.com/album/7HqkDcXBIrGdvoFXZKYDkX"
       },
       "artists": [
@@ -512,7 +530,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 187839,
       "name": "Fui a Buscar al Sol",
       "url": "https://open.spotify.com/track/72q51tZkGZeN92UAHca86o"

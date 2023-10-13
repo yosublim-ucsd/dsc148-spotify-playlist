@@ -4,7 +4,7 @@
 
 > New music from Sufjan Stevens, Mac DeMarco, Slow Pulp, Mitski and more.
 
-1,840 songs - 4 day 14 hr 29 min
+1,841 songs - 4 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1079,7 +1079,8 @@
 | [My Own Person](https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH) | [Smoothboi Ezra](https://open.spotify.com/artist/2efF0JsHHsKKyjceFHUMFj) | [My Own Person](https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373) | 4:24 | 2020-12-04 | 2020-12-22 |
 | [MyLuv](https://open.spotify.com/track/5cNPfcnT3y3JmWiqBQqtLi) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [MyLuv](https://open.spotify.com/album/0con7VlHh3THpC6TLtNoQd) | 2:01 | 2021-10-13 | 2021-10-14 |
 | [Mystery](https://open.spotify.com/track/5vP8rlBjIV1bPBhi2b3siA) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Mystery](https://open.spotify.com/album/7yLKbtAmyVNuuJKofj2DTg) | 3:51 | 2021-10-09 | 2021-10-12 |
-| [Nadja](https://open.spotify.com/track/6AaZ0uxY59zj65pyIalnKS) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Nadja](https://open.spotify.com/album/0Niv3RqgsVUsDHIJBwqYE5) | 4:06 | 2023-02-22 |  |
+| [Nadja](https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:06 | 2023-07-07 |  |
+| [Nadja](https://open.spotify.com/track/6AaZ0uxY59zj65pyIalnKS) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Nadja](https://open.spotify.com/album/0Niv3RqgsVUsDHIJBwqYE5) | 4:06 | 2023-02-22 | 2023-10-13 |
 | [Naeem](https://open.spotify.com/track/10HyIp1uCZbLvS4ImdgHg7) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Naeem](https://open.spotify.com/album/6GXEPutCTzXosjcz2hOvWy) | 4:22 | 2019-08-09 | 2019-09-21 |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-07-08 | 2022-07-29 |
 | [name & place](https://open.spotify.com/track/45hAnZZq08IMAZZM3GOgMT) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [name & place](https://open.spotify.com/album/5iElagbLcBoeHkFmvY2AeV) | 4:19 | 2020-06-12 | 2021-03-10 |

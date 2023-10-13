@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-453 songs - 22 hr 28 min
+457 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [D'une Certaine Distance](https://open.spotify.com/track/3bUaSIfWsg01lqJW9O5JCS) | [Aintzane Martzel](https://open.spotify.com/artist/48LwBBG7FfBjBUjGdaRCiO) | [D'une Certaine Distance](https://open.spotify.com/album/1XHuFjN6JmqlzCfZ91KRAh) | 2:51 | 2021-11-10 | 2023-05-06 |
 | [Dachaigh](https://open.spotify.com/track/7BqlHggYnNB26lfAw6y7Ch) | [Cadhla Byrne](https://open.spotify.com/artist/73717wA5LNgbEDtJ2lqSW1) | [Dachaigh](https://open.spotify.com/album/2UnxVf2gBHvYG9GvfGYWPw) | 3:17 | 2021-11-10 |  |
 | [Dans Mes Rèves](https://open.spotify.com/track/5rnWDfjlHA2OVtes6J2RF7) | [Ervin Alba](https://open.spotify.com/artist/3gBRdpF4cFeZPXkvp0R1LQ) | [Dans Mes Rèves](https://open.spotify.com/album/1FEBGcOFl7kr7zf1GOK0rH) | 2:32 | 2022-06-16 |  |
+| [Decipio](https://open.spotify.com/track/6yIapt71wzgrXfUVpaQoiT) | [Palaestrio](https://open.spotify.com/artist/5sXyHDr8pH922zvnRRLCb4) | [Decipio](https://open.spotify.com/album/6UMkRmzBaWDK89m3qVaEoE) | 3:20 | 2023-10-13 |  |
 | [Deep Dive](https://open.spotify.com/track/5XpGnwCqMlGFi1x4YdlKFE) | [Ambienetic](https://open.spotify.com/artist/68sYM79L5H6v9c3x6IC0XD) | [Deep Dive](https://open.spotify.com/album/5QAkFwDV1ZSsxC1XyVu0sG) | 2:41 | 2021-11-10 |  |
 | [Deep Sleeper](https://open.spotify.com/track/7lwl3ScD69HlJQtk7h49nw) | [Tranquomo](https://open.spotify.com/artist/6z737VR1MbCOSfYhG1mzY3) | [Deep Sleeper](https://open.spotify.com/album/4GD1oZku0kELvN5DzXWVJV) | 2:43 | 2021-11-10 |  |
 | [Deep Soul](https://open.spotify.com/track/3982hLjimRRPGIfInxlzyh) | [Sydney Woods](https://open.spotify.com/artist/4TmYC9ChYdsrhNwEKkKs2z) | [Deep Soul](https://open.spotify.com/album/7GjFApBQPjiEoZg1fvIXlr) | 2:43 | 2021-11-10 |  |
@@ -177,6 +178,7 @@
 | [For Simplicity's Sake](https://open.spotify.com/track/6pQxeKnVSxdasJR9PEfFom) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [For Simplicity's Sake](https://open.spotify.com/album/4zN9OaGKrnJOb5y8bukzc7) | 1:56 | 2022-02-17 | 2023-07-29 |
 | [For Your Relief](https://open.spotify.com/track/2bBNdeBMLLOrpzewcEQIPl) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Graceful](https://open.spotify.com/album/5qRo14dwWwk80r2UK4flJa) | 2:21 | 2022-02-09 |  |
 | [From Above](https://open.spotify.com/track/3bmicq5CCRnFGlvZY8mQYP) | [Jack Rosslyn](https://open.spotify.com/artist/2NsHKcM4F9lLMEppqZnsM5) | [From Above](https://open.spotify.com/album/7rj2uybb1d4Q3WnjMCtn04) | 2:19 | 2021-11-10 |  |
+| [Gaia](https://open.spotify.com/track/5L5BetJRHsmGZfySSRZvKZ) | [Sirozza](https://open.spotify.com/artist/5wGpeSaToESKYtSW5Is674) | [Gaia](https://open.spotify.com/album/27B8gIvKfl6q9zJxrikPKT) | 3:08 | 2023-10-13 |  |
 | [Gauean](https://open.spotify.com/track/50ZPTAib8pmhNbUirF8AAJ) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Gauean](https://open.spotify.com/album/0m9mJavFy36qOitzx3uOhp) | 3:56 | 2022-10-21 |  |
 | [Gently Flow](https://open.spotify.com/track/6CGZ2JDFU2YRtCmiCkVLMk) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Gently Flow](https://open.spotify.com/album/5qD9rt2W1XmsYPrnqHc9xH) | 3:14 | 2023-06-02 |  |
 | [Giant Steps Tomorrow](https://open.spotify.com/track/2KiBZ6xU6dnj47aT71G28P) | [Shibb](https://open.spotify.com/artist/3S9OW04ZfXbQUjzGvjAlPZ) | [Giant Steps Tomorrow](https://open.spotify.com/album/31cxoMZtA7p665UG7sEhew) | 3:15 | 2021-11-10 |  |
@@ -205,6 +207,7 @@
 | [Hybrid](https://open.spotify.com/track/1VRFoW2WUOY4FxQNvdTcja) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Dreamcatcher](https://open.spotify.com/album/7BddZNhcTyWCJnnglynrT3) | 2:25 | 2022-01-28 |  |
 | [Idyllica](https://open.spotify.com/track/595wjSvF9vZ3yiyu6yzicF) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Idyllica](https://open.spotify.com/album/4YWyvu33UuHfzQFcfixhYW) | 2:13 | 2023-02-17 |  |
 | [If Ever Two Were One](https://open.spotify.com/track/725z4lty7B7pcrBzg4udLU) | [Troy Fuentes](https://open.spotify.com/artist/7FsKe2FZdoq66vdqJjIMCM) | [If Ever Two Were One](https://open.spotify.com/album/6ircWe4J1ug26qcNNQTuuT) | 2:46 | 2022-12-20 |  |
+| [If only for a while](https://open.spotify.com/track/0Vv8QzR27iisAXTdYifzG4) | [Lush Lotus](https://open.spotify.com/artist/4Ho8lnnZWQ6ldapSazUAbq) | [If only for a while](https://open.spotify.com/album/12GEjM5C15iUivXkDBDakN) | 2:46 | 2023-10-13 |  |
 | [If Only I Could Fly](https://open.spotify.com/track/5YqXPRA1ErLjJ9UZCJxJyG) | [Amellia Grey](https://open.spotify.com/artist/7EjA2HhxVmzaVwE161kcV8) | [Ever So Slightly](https://open.spotify.com/album/1w8fsgM9nty9TyheWILL2Z) | 1:47 | 2021-11-10 | 2023-07-29 |
 | [Ilinova](https://open.spotify.com/track/4PGOX4mKVxdnb4fKZ8d49h) | [Isak Wellington](https://open.spotify.com/artist/4UZyZN8YPXUmu1E2COn52N) | [Ilinova](https://open.spotify.com/album/1uL2rl1FBiiRG3Zwf3dpcH) | 3:08 | 2023-05-05 |  |
 | [Illa Pancha](https://open.spotify.com/track/1aU0CFHRycE2Va7CVmDZEX) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Candieira](https://open.spotify.com/album/2VKD43M5UUzJvi2rHHmSEe) | 2:40 | 2021-11-10 |  |
@@ -284,6 +287,7 @@
 | [Neogothic](https://open.spotify.com/track/10DehqwY6X7wIv3qqSRVDV) | [Elivvia](https://open.spotify.com/artist/6UaDpZsdXyWYAyBHVZIqtA) | [Neogothic](https://open.spotify.com/album/7hlEPsZy03JxFs1LZbISUo) | 3:33 | 2021-11-10 | 2022-03-25 |
 | [Niebla](https://open.spotify.com/track/6SM7xwEN26ps6UmGaYOncB) | [Segarus](https://open.spotify.com/artist/5L3uMci2iyD3APnlwYfTkO) | [Niebla](https://open.spotify.com/album/5tJKaiUQdeG6YZPnWkedHj) | 2:33 | 2022-11-11 |  |
 | [Night Mind](https://open.spotify.com/track/6jD6Rk6mDkYM44raG3m9jA) | [Brisbois](https://open.spotify.com/artist/3kp0L0gzhW88FsfpD4H0kH) | [Night Mind](https://open.spotify.com/album/0MWCo1sR8DN8cL7Ptf9qkd) | 2:24 | 2023-05-19 |  |
+| [Nightlight](https://open.spotify.com/track/7ucDH3T6TmA6bCBCBBlDwy) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Nightlight](https://open.spotify.com/album/4Epm7oEoA46x3R90Tp3HNY) | 2:47 | 2023-10-13 |  |
 | [Nikad ne Zaboravi](https://open.spotify.com/track/717ijFnuktEjgu8yn7Qvw6) | [Nadia Bulic](https://open.spotify.com/artist/40kJyvmOynMTDFT8bBuk4d) | [Nikad ne Zaboravi](https://open.spotify.com/album/4x8sORIXCiVndueGBD78mU) | 2:22 | 2021-11-10 |  |
 | [Noche Brilliante](https://open.spotify.com/track/2kVsD3DNreqNJ0CdM2ix2U) | [Santiago Penitente](https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9) | [Noche Brilliante](https://open.spotify.com/album/2HGRxLG4zOXpVAYQcRbE6e) | 2:21 | 2022-08-05 |  |
 | [Noctu](https://open.spotify.com/track/4tPLkMhxU4a62HmkA95iwC) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [Noctu](https://open.spotify.com/album/0ddzc5odnJ9sgAEaQAKiKP) | 3:21 | 2021-11-10 |  |

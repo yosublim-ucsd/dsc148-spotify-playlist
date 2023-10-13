@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Homegrown Ugandan hits in one playlist. Cover: Joshua Baraka",
+  "description": "Homegrown Ugandan hits in one playlist. Cover: Azawi",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -516,7 +516,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 252000,
       "name": "Bomboclat Boi",
       "url": "https://open.spotify.com/track/1QDk4sKrNUirJkz1QlPuWc"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 174759,
       "name": "Dont-Stopp",
       "url": "https://open.spotify.com/track/7t1UWWVjom7keLZLzW8Wex"
@@ -1708,6 +1708,24 @@
       "duration_ms": 201822,
       "name": "Low",
       "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
+    },
+    {
+      "album": {
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Lucky Day",
+      "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
     },
     {
       "album": {
@@ -2980,6 +2998,28 @@
       "duration_ms": 183829,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
+    },
+    {
+      "album": {
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Summer Bae",
+      "url": "https://open.spotify.com/track/4FKLDG7TJuMHtaP9sDZOpi"
     },
     {
       "album": {

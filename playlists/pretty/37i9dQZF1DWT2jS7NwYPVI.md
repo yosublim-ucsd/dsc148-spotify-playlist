@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: HUNNY
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,238 likes - 121 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,285 likes - 121 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 120 | [BATSHIT](https://open.spotify.com/track/0xA47Wk9UfpBcqSvLkfHuI) | [LOLA](https://open.spotify.com/artist/0cD96GFyKaDX2LdpHpyT7d) | [BATSHIT](https://open.spotify.com/album/6wM6nmqkAArmrS1U5pkELi) | 4:11 |
 | 121 | [t!mezone](https://open.spotify.com/track/4O8j9RMURUEsdFBtxGKaSZ) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [t!mezone](https://open.spotify.com/album/7LyemIrA9Xf7ZiiJTDiMvX) | 2:53 |
 
-Snapshot ID: `MCw3NjNkMmFhMDY0N2YyNDgxNTU1NzM4NDg1ZTk2ZjEzNmVlZTBmMTMy`
+Snapshot ID: `MCwyYTgxOWJiYzNjZDBiOTlhNGFiYTVjNDNmN2Q5ZmM0MGY2NTE2MWFj`

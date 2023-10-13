@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Polo & Pan
 
-980 songs - 2 day 15 hr 22 min
+981 songs - 2 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,7 +487,8 @@
 | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/track/3h3szgXLd2FJ0WSWj8om9t) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/album/3tXVxjXrXJMTBXorraiZHQ) | 2:49 | 2022-03-04 | 2022-10-06 |
 | [Lake Shore Drive](https://open.spotify.com/track/2mFWXeXmghEkm2jcPtXntU) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Lake Shore Drive](https://open.spotify.com/album/4stUGWIUSHrqa0sP6EzAsf) | 4:32 | 2022-03-04 | 2022-04-14 |
 | [Lamb's Wool \(with Poolside\)](https://open.spotify.com/track/2Kv2ihNE3KAztq2GWassEZ) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Lamb's Wool \(with Poolside\)](https://open.spotify.com/album/1Txwny427aGDWNZPxd5mvY) | 4:54 | 2021-03-26 | 2022-07-22 |
-| [Landscape](https://open.spotify.com/track/3mhmsgWbnEex2qBUZEUnCK) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc) | [Landscape](https://open.spotify.com/album/3Wzgh6znehuaK9Yu2IdZ6s) | 2:40 | 2023-06-16 |  |
+| [Landscape](https://open.spotify.com/track/3DJGNgVK7g18EgpyKvy5T9) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc) | [The Art Of Change](https://open.spotify.com/album/2w5ieF6SZV9flk1gkOgzdK) | 2:40 | 2023-10-02 |  |
+| [Landscape](https://open.spotify.com/track/3mhmsgWbnEex2qBUZEUnCK) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc) | [Landscape](https://open.spotify.com/album/3Wzgh6znehuaK9Yu2IdZ6s) | 2:40 | 2023-06-16 | 2023-10-13 |
 | [Last Bloom](https://open.spotify.com/track/5pB9UH5jW7eO51T5mrat4D) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 5:53 | 2022-09-17 | 2022-10-06 |
 | [Lavender Haze \- Jungle Remix](https://open.spotify.com/track/0ThxqUZ9PwS6n0UT5i1XH6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Lavender Haze \(Remixes\)](https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr) | 3:55 | 2023-03-03 | 2023-08-26 |
 | [Laws of the Universe](https://open.spotify.com/track/4rMWnKX4szJV3k2FATLdnR) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 2:49 | 2023-02-24 | 2023-08-26 |

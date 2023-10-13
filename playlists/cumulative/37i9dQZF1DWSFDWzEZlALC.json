@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 166333,
       "name": "Alles Neu",
       "url": "https://open.spotify.com/track/7e5Ov8MCSFNpuCFAGY5Fuc"
@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 134822,
       "name": "Er oder Sie oder Du",
       "url": "https://open.spotify.com/track/1ojpWs42lG7y9FlB0xQXPk"
@@ -2854,6 +2854,28 @@
       "duration_ms": 120732,
       "name": "Hallo",
       "url": "https://open.spotify.com/track/66kh9O5vsEh4nKAb5jM5vc"
+    },
+    {
+      "album": {
+        "name": "Durch die Blume",
+        "url": "https://open.spotify.com/album/0JHy72rVJDNxmvhNHVNDhD"
+      },
+      "artists": [
+        {
+          "name": "nand",
+          "url": "https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg"
+        },
+        {
+          "name": "laloba",
+          "url": "https://open.spotify.com/artist/3C26GfV6N8ldIZdARc928z"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265473,
+      "name": "Halt mich (feat. laloba)",
+      "url": "https://open.spotify.com/track/4vRptSf2KRSneN26gjlIPM"
     },
     {
       "album": {
@@ -3666,7 +3688,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 189295,
       "name": "Keine Freunde",
       "url": "https://open.spotify.com/track/2ksbDxdi1P6gTL4kfX8uiN"
@@ -3868,7 +3890,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 169840,
       "name": "Lange nicht gut",
       "url": "https://open.spotify.com/track/0AoOnrPNHPwuqgPoJX5LRB"
@@ -4299,6 +4321,24 @@
     },
     {
       "album": {
+        "name": "Marlboro",
+        "url": "https://open.spotify.com/album/5sHOBlcohfiJD02j2JlXTj"
+      },
+      "artists": [
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152199,
+      "name": "Marlboro",
+      "url": "https://open.spotify.com/track/6Ptjpsd6Dzd5gz6zGZmFo7"
+    },
+    {
+      "album": {
         "name": "Maschinenmensch",
         "url": "https://open.spotify.com/album/64JsLSPoGhbMMgCirGTmFX"
       },
@@ -4310,7 +4350,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 140804,
       "name": "Maschinenmensch",
       "url": "https://open.spotify.com/track/6mnVuD8vAXH0hGPURlnJKF"
@@ -4332,7 +4372,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 135482,
       "name": "Mein Leben ist monoton",
       "url": "https://open.spotify.com/track/4jz17gFogx4uKLHmzYr4e2"
@@ -4488,6 +4528,24 @@
       "duration_ms": 163555,
       "name": "Moment",
       "url": "https://open.spotify.com/track/79uciSS2z1jLXt9Pz4K7tQ"
+    },
+    {
+      "album": {
+        "name": "Moshpit",
+        "url": "https://open.spotify.com/album/3TOjET9DF6t5ShxPWjmlIZ"
+      },
+      "artists": [
+        {
+          "name": "BEVN",
+          "url": "https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154720,
+      "name": "Moshpit",
+      "url": "https://open.spotify.com/track/1oBPebtPj0ZApJjKkhHxiO"
     },
     {
       "album": {
@@ -4813,6 +4871,24 @@
     },
     {
       "album": {
+        "name": "Nur ein Wort",
+        "url": "https://open.spotify.com/album/61mfad2kmJgyXovylegPd2"
+      },
+      "artists": [
+        {
+          "name": "Kicker Dibs",
+          "url": "https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185680,
+      "name": "Nur ein Wort",
+      "url": "https://open.spotify.com/track/3Hj12TRBTOBkbBnNpAKe6S"
+    },
+    {
+      "album": {
         "name": "Offiziell Gl\u00fccklich",
         "url": "https://open.spotify.com/album/5nI1xih2hIWj0zf056x31C"
       },
@@ -5034,7 +5110,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 158333,
       "name": "Pflanzen",
       "url": "https://open.spotify.com/track/3i6KvLajKVAuux92xPK6ls"
@@ -5493,6 +5569,28 @@
     },
     {
       "album": {
+        "name": "Schlaf gut",
+        "url": "https://open.spotify.com/album/1Swdd6ktgwOrIYVCk3v4m7"
+      },
+      "artists": [
+        {
+          "name": "Betterov",
+          "url": "https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ"
+        },
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201193,
+      "name": "Schlaf gut",
+      "url": "https://open.spotify.com/track/1gUDyPpx99jRTVgSvrWEjl"
+    },
+    {
+      "album": {
         "name": "Schrei Es Raus",
         "url": "https://open.spotify.com/album/5SLzzCL9Cse7Mo2crW0gk3"
       },
@@ -5699,6 +5797,50 @@
     },
     {
       "album": {
+        "name": "Shots",
+        "url": "https://open.spotify.com/album/6ozSYOUv2z9a2NLyONFNnb"
+      },
+      "artists": [
+        {
+          "name": "YRRRE",
+          "url": "https://open.spotify.com/artist/1wwT1eZWyAjVXbb1qpzEVC"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179960,
+      "name": "Shots",
+      "url": "https://open.spotify.com/track/3SZ0pzEWeUTMvF2b9e5ak6"
+    },
+    {
+      "album": {
+        "name": "Sie passt nicht nach Berlin",
+        "url": "https://open.spotify.com/album/3jd8pOKaDAX3IGxkTUL7cz"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        },
+        {
+          "name": "*maliiik",
+          "url": "https://open.spotify.com/artist/63Oa7FWYtfPylgzUEWhZWd"
+        },
+        {
+          "name": "Drumla",
+          "url": "https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191484,
+      "name": "Sie passt nicht nach Berlin",
+      "url": "https://open.spotify.com/track/6UPdWtYm3G696jzlopLmae"
+    },
+    {
+      "album": {
         "name": "Sie tanzt so gut",
         "url": "https://open.spotify.com/album/2gUVkJk5RzEyIQndV1VUt9"
       },
@@ -5902,7 +6044,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 135320,
       "name": "sommernacht",
       "url": "https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI"
@@ -7190,6 +7332,32 @@
       "duration_ms": 170434,
       "name": "Wie Du",
       "url": "https://open.spotify.com/track/1HQVrKIUKAF6pq1JYqNMzS"
+    },
+    {
+      "album": {
+        "name": "wie papier",
+        "url": "https://open.spotify.com/album/5YftfztP69iYMUiWMUZxE0"
+      },
+      "artists": [
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
+        },
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136216,
+      "name": "wie papier",
+      "url": "https://open.spotify.com/track/6CVik5FWKhct0VwMit0rfr"
     },
     {
       "album": {

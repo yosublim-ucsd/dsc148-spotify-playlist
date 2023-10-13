@@ -1,12 +1,12 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 254151,
+  "num_followers": 254403,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTcyY2IwZWFmNjk4NzYyOTU3NDk4ZTRlNWEyZDE4NzYwYTA4Zjhk",
+  "snapshot_id": "MCwzZTRlY2ExMDUyZGEyYjQ3MTk1MzEyMWM0YTY0YzQzZTBmYTQxZDQw",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 189750,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Y Cambi\u00f3 Mi Suerte",
         "url": "https://open.spotify.com/album/3CQHB0ViD8q0O385StFTq2"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 185637,
       "name": "Y Cambi\u00f3 Mi Suerte",
       "url": "https://open.spotify.com/track/6O66RxXRZOfQSpgLEo65GO"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 189750,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -923,42 +923,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Inseparables",
-        "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        },
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 171724,
-      "name": "Inseparables",
-      "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "El Due\u00f1o De Tu Amor",
-      "url": "https://open.spotify.com/track/3CJaDcjZKse7X7eVUukQJB"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Todo A Su Tiempo",
         "url": "https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g"
       },
@@ -979,6 +943,62 @@
       "duration_ms": 217770,
       "name": "Todo A Su Tiempo",
       "url": "https://open.spotify.com/track/6EZXRINHTCGDwZzboCgDML"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "El Due\u00f1o De Tu Amor",
+      "url": "https://open.spotify.com/track/3CJaDcjZKse7X7eVUukQJB"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Una Mentirosa",
+        "url": "https://open.spotify.com/album/7Ax5vWCPWDcMqa2gkxATNs"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 182380,
+      "name": "Una Mentirosa",
+      "url": "https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Inseparables",
+        "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 171724,
+      "name": "Inseparables",
+      "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1015,26 +1035,6 @@
       "duration_ms": 173663,
       "name": "Me Estoy Enamorando - en Vivo",
       "url": "https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Una Mentirosa",
-        "url": "https://open.spotify.com/album/7Ax5vWCPWDcMqa2gkxATNs"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 182380,
-      "name": "Una Mentirosa",
-      "url": "https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Good Vibes Buenas Vibras",
-        "url": "https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 194329,
-      "name": "Antes y Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Sad Boy Shit",
         "url": "https://open.spotify.com/album/7dfEFQgVDb6BKLsJmVdg00"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 276973,
       "name": "Me Vuelves Loco",
       "url": "https://open.spotify.com/track/6XecBnprrMoxhMiHHyvWN7"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Good Vibes Buenas Vibras",
+        "url": "https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 194329,
+      "name": "Antes y Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+        "name": "A\u00f1o Nuevo",
+        "url": "https://open.spotify.com/album/0FAyOaoGk5lvBjzjkE075P"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "juanitoo2x",
+          "url": "https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf"
         }
       ],
-      "duration_ms": 199960,
-      "name": "Infeliz",
-      "url": "https://open.spotify.com/track/1HfkiyazS6licNey0lz01N"
+      "duration_ms": 173985,
+      "name": "A\u00f1o Nuevo",
+      "url": "https://open.spotify.com/track/6s2YmUFyj2krxfHcXevEH7"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Infeliz",
+      "url": "https://open.spotify.com/track/1HfkiyazS6licNey0lz01N"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Las Romanticas Favoritas de Fuerza Regida",
         "url": "https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 206191,
       "name": "Disculpe Usted",
       "url": "https://open.spotify.com/track/0EoGITCf80uJ52Yk5BxUsV"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "A\u00f1o Nuevo",
-        "url": "https://open.spotify.com/album/0FAyOaoGk5lvBjzjkE075P"
-      },
-      "artists": [
-        {
-          "name": "juanitoo2x",
-          "url": "https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf"
-        }
-      ],
-      "duration_ms": 173985,
-      "name": "A\u00f1o Nuevo",
-      "url": "https://open.spotify.com/track/6s2YmUFyj2krxfHcXevEH7"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1527,38 +1527,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "D\u00e9jame Ser",
-        "url": "https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "D\u00e9jame Ser",
-      "url": "https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Fases del Amor",
-        "url": "https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5"
-      },
-      "artists": [
-        {
-          "name": "Angel Perez",
-          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
-        }
-      ],
-      "duration_ms": 216149,
-      "name": "Amor Con Detalle",
-      "url": "https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Perdido En Ti",
         "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
       },
@@ -1575,6 +1543,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "D\u00e9jame Ser",
+        "url": "https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "D\u00e9jame Ser",
+      "url": "https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Me Vas A Llorar",
         "url": "https://open.spotify.com/album/5UirOXfLgjVDkz6FvuOSNa"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 259493,
       "name": "Me Vas A Llorar",
       "url": "https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Fases del Amor",
+        "url": "https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5"
+      },
+      "artists": [
+        {
+          "name": "Angel Perez",
+          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
+        }
+      ],
+      "duration_ms": 216149,
+      "name": "Amor Con Detalle",
+      "url": "https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 245808,
-      "name": "Mi Despedida",
-      "url": "https://open.spotify.com/track/0V3vAtJgeOEI58diEdq5by"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Olvidarte",
         "url": "https://open.spotify.com/album/1z8RqsiClrx1T60HQb0JcR"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/696y1nHhaHmvlaMSugs8eQ"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "Tony",
+      "url": "https://open.spotify.com/track/1X3oULnfRY6dvZxRQLftaE"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/7zHS91GU59Tlwo4RDkf7qD"
       },
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/696y1nHhaHmvlaMSugs8eQ"
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
       },
       "artists": [
         {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 220645,
-      "name": "Tony",
-      "url": "https://open.spotify.com/track/1X3oULnfRY6dvZxRQLftaE"
+      "duration_ms": 245808,
+      "name": "Mi Despedida",
+      "url": "https://open.spotify.com/track/0V3vAtJgeOEI58diEdq5by"
     }
   ],
   "unique_name": "#SadCuhHours \ud83d\udc94",

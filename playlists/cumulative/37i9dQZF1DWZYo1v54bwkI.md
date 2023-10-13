@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-235 songs - 11 hr 54 min
+238 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Cette Montagne](https://open.spotify.com/track/0sMr78LRMvZNviXwmOWGQE) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Cette Montagne](https://open.spotify.com/album/4NIeCDqaUXOh2WD7jE0qNf) | 3:26 | 2022-09-02 |  |
 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 | 2022-07-15 |  |
 | [Closure 432 hz](https://open.spotify.com/track/5W2G3rrqupygc1iP3RGLg3) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [432 hz Frequency of Universe](https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O) | 3:53 | 2022-10-07 |  |
+| [Colours](https://open.spotify.com/track/03rievEiJ7NxtUfak0XGPH) | [Beloved More](https://open.spotify.com/artist/4MK9CnbT54N8i28jWYx4s8) | [Colours](https://open.spotify.com/album/7gS11TlkTwLYdH2lEJi3kd) | 3:10 | 2023-10-13 |  |
 | [Comfort Zone](https://open.spotify.com/track/3QjA9DSJn9hEIkfiRYMBZB) | [Sounds And Beyond](https://open.spotify.com/artist/751p5MqwmdTxiqWVg0J46Y) | [Comfort Zone](https://open.spotify.com/album/1svkSAU7m4SXST5rh8a7xw) | 2:34 | 2022-07-15 |  |
 | [Companion](https://open.spotify.com/track/1FgtKAO4lPSU7C83CLIOqu) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Snow Berries](https://open.spotify.com/album/13nTRdiXmI29GzOv0x0fJs) | 3:19 | 2022-10-15 |  |
 | [Con Ojos Cerrados](https://open.spotify.com/track/0ZM4ZmYetI5obeA6bSyx8C) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Con Ojos Cerrados](https://open.spotify.com/album/3w3zoZE8H5efdPfUv3vt4b) | 3:00 | 2022-07-15 |  |
@@ -108,6 +109,7 @@
 | [Hohenbol](https://open.spotify.com/track/6TYZYNqAoYfE64csvrZyoy) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [Between Camerae](https://open.spotify.com/album/64c0jCqYkzq1jhxFTve3Bq) | 3:20 | 2022-07-15 | 2023-03-10 |
 | [Huzurlu](https://open.spotify.com/track/5AE2Q5ecdUUPxjNbIknTNW) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Huzurlu](https://open.spotify.com/album/4vsCehW0aBcrsCeTWodFYa) | 3:03 | 2022-07-15 |  |
 | [Imagine Nuvem](https://open.spotify.com/track/0BjyXBAXWTvEOgX1KPhadD) | [Clémence Alheoux](https://open.spotify.com/artist/3ciGAvpM5PtG4bvpTF6wdK) | [Imagine Nuvem](https://open.spotify.com/album/0GlOjrFZe7mT9XC2TRPvcu) | 3:09 | 2022-07-15 |  |
+| [In a Sentence](https://open.spotify.com/track/4LNY7W6U2JFRN135YZq6rH) | [Alec Wynter](https://open.spotify.com/artist/6PKn0AB4MUWk51WWdZLPMd) | [In a Sentence](https://open.spotify.com/album/6d3NoUO1WR1r6DOylTnB5o) | 2:45 | 2023-10-13 |  |
 | [In jouw armen](https://open.spotify.com/track/27U2vAXaXKEFo3oaqYFqq3) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In jouw armen](https://open.spotify.com/album/0R7SDTTsNQOpxGKM5PVKKm) | 3:10 | 2022-07-15 |  |
 | [Infinity](https://open.spotify.com/track/5O4656zc4mKAgTSAIDmBSR) | [Nerum](https://open.spotify.com/artist/0STEjaBPW4uFYhPWOM2mXv) | [Infinity](https://open.spotify.com/album/2HLoaxMy9ulPw9NXdJIuT5) | 2:30 | 2023-06-09 |  |
 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 | 2022-07-15 |  |
@@ -122,7 +124,7 @@
 | [Journey to Relaxation](https://open.spotify.com/track/2nFs6Epn8PRBcrCPRJdwO7) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Journey to Relaxation](https://open.spotify.com/album/5F3OwpwK8QLycXARbNrToO) | 2:41 | 2022-07-15 |  |
 | [Kaleidoscopes](https://open.spotify.com/track/0Pkywn7CGwbUhk10iGPpou) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Kaleidoscopes](https://open.spotify.com/album/2aiyIySFX9CdtSAJC2jJy0) | 3:51 | 2022-07-15 |  |
 | [La Lune](https://open.spotify.com/track/2CaJTDQRm5mss61P0dm6OE) | [Cécile Theroux](https://open.spotify.com/artist/2t2cTHZOCw0iz30wBxeTyh) | [La Lune](https://open.spotify.com/album/5P9kFLcgUPazvp1sBXWCqs) | 2:52 | 2022-07-15 |  |
-| [Lakem](https://open.spotify.com/track/5gb5P8hzzC4l2PBMJl0FZF) | [Peaceful Peach](https://open.spotify.com/artist/7swB8qhjWa5PsRA90gjuWd) | [Lakem](https://open.spotify.com/album/2jFecqMEoEYYWCGXbsv4fF) | 3:36 | 2022-07-15 |  |
+| [Lakem](https://open.spotify.com/track/5gb5P8hzzC4l2PBMJl0FZF) | [Peaceful Peach](https://open.spotify.com/artist/7swB8qhjWa5PsRA90gjuWd) | [Lakem](https://open.spotify.com/album/2jFecqMEoEYYWCGXbsv4fF) | 3:36 | 2022-07-15 | 2023-10-13 |
 | [Lana](https://open.spotify.com/track/3MGCNZbekjphNk5SKVCdme) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [Nova](https://open.spotify.com/album/1rvBfxWsbgqQKg0UHdTTeT) | 2:35 | 2022-10-21 |  |
 | [Lasai](https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Lasai](https://open.spotify.com/album/7kYXPNnP4j96kO0FzCfYjb) | 3:41 | 2022-07-15 |  |
 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 | 2022-07-15 |  |
@@ -240,6 +242,7 @@
 | [Yonder](https://open.spotify.com/track/6eIaNamCwzTfJr4SrFypu5) | [Nathalie J](https://open.spotify.com/artist/54gLxB9PQp26E1NsXCPsOb) | [Yonder](https://open.spotify.com/album/6X6DVdhuR1Ajws0GwFgjHD) | 3:20 | 2022-11-11 |  |
 | [You're Filled With Courage](https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0) | [Geneviève Corin](https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38) | [You're Filled With Courage](https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2) | 2:37 | 2022-11-11 |  |
 | [Zeit zu schlafen](https://open.spotify.com/track/6BDciTeYRejg7wi9F63k4H) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [Zeit zu schlafen](https://open.spotify.com/album/2imLIpOy9hSqRx2SAszBoa) | 1:47 | 2022-07-15 | 2023-07-29 |
+| [Zorora](https://open.spotify.com/track/1okmwtb0Elf2nyOBGlzZAf) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Zorora](https://open.spotify.com/album/4iXrTyj4ZuiiHHAPzdL0LQ) | 2:36 | 2023-10-13 |  |
 | [Équilibre](https://open.spotify.com/track/1kY64LDhpgy30XGXj5c7Qa) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Équilibre](https://open.spotify.com/album/3ue6f4Rru74OH3ozKrFnU3) | 3:21 | 2022-10-15 |  |
 | [和 Harmony](https://open.spotify.com/track/578WQbtlCaB1LBoPYZLECn) | [Shunya Koyanagi](https://open.spotify.com/artist/2NGMjhqXuqLLdvot10Mij4) | [和 Harmony](https://open.spotify.com/album/2xqsxjexOjRgS8lYOpoKKU) | 3:04 | 2022-07-15 | 2023-02-25 |
 | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/track/6gfL880RuRTk3toqkVxjGO) | [Yue Yan Jen](https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU) | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/album/7fbFR0qZouklk3kM5voFNw) | 3:09 | 2022-07-15 | 2023-09-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,525,576 likes - 153 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,525,559 likes - 153 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 152 | [MELODY](https://open.spotify.com/track/1NfjUyoSiqliAy40rR9CVv) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [MELODY](https://open.spotify.com/album/0rbnod5eDoqsgg8rBWUD1i) | 2:54 |
 | 153 | [my world](https://open.spotify.com/track/4YC4jW8DAxwANQXJDMiDqh) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [my world](https://open.spotify.com/album/2tOL4tC0w7iUUkl76ZcpBl) | 2:21 |
 
-Snapshot ID: `MCw2MWVhN2NmYTBiZDJmY2FkZmJhOTZjM2IwYjIwMjNhZDgwNmM4Yjcw`
+Snapshot ID: `MCwxN2E1YmEwNjVhNTU2ZmUxMzE2Mjg4NGVhMmUyMjRjM2E0ZWFkMDU1`

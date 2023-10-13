@@ -10035,6 +10035,32 @@
     },
     {
       "album": {
+        "name": "Machaane Unnaala (From \"Tiger Nageswara Rao\") (Tamil)",
+        "url": "https://open.spotify.com/album/1xikQIgZH3PfyySCjtcL4r"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sinduri Vishal",
+          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
+        },
+        {
+          "name": "Uma Devi",
+          "url": "https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Machaane Unnaala (From \"Tiger Nageswara Rao\") (Tamil)",
+      "url": "https://open.spotify.com/track/17oyZAJcQbH66YDKFTIGlL"
+    },
+    {
+      "album": {
         "name": "Madhayaanai Kootam (From \"Parundhaaguthu Oor Kuruvi\") [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/54i9kRnSLIbomdo5WK0lmY"
       },

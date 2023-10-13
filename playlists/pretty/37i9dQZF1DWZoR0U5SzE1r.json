@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 273175,
+  "num_followers": 273234,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTAzMDE0ZTFlZDMzZTgwMDNlYTFhMTgwZTkyYmFiMTNlYjZkN2Uy",
+  "snapshot_id": "MCwyNDg0ZDE2MzkxNDIxODQ4NWZkOTc0ZjY1NTBmYWZjYzA2MjYxYzA2",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/4nvMojhvDqVwfb0htY8Byf"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 312266,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/32r0t2fUFcrZ63Eg5IVRdz"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Canvas And Clay (Live)",
         "url": "https://open.spotify.com/album/4N1jzfvc9FTcDWqQnD46Rv"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 400000,
       "name": "Canvas And Clay - Live",
       "url": "https://open.spotify.com/track/4Woit6kXxixnS2jduLUcy4"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/4nvMojhvDqVwfb0htY8Byf"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 312266,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/32r0t2fUFcrZ63Eg5IVRdz"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 272426,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/78pKjOa4gToyRxn3cVc7Sa"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Touching Heaven (Live)",
         "url": "https://open.spotify.com/album/51TJKJhXFke5OZaU56B9qe"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 360935,
       "name": "Breathe - Live",
       "url": "https://open.spotify.com/track/5OfIpf1OOrbWYBBAMZpO5N"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 272426,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/78pKjOa4gToyRxn3cVc7Sa"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Dancing On The Waves (Live)",
+        "url": "https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 269040,
+      "name": "Dancing On The Waves - Live At The Wheelhouse",
+      "url": "https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Church Volume One (Live)",
         "url": "https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 516373,
       "name": "More Than Enough - Live",
       "url": "https://open.spotify.com/track/6EIDCcB7NlRox5jIrErS8b"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Dancing On The Waves (Live)",
-        "url": "https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 269040,
-      "name": "Dancing On The Waves - Live At The Wheelhouse",
-      "url": "https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Calm the Storm (Live)",
+        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
+      },
+      "artists": [
+        {
+          "name": "Union Creative",
+          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
+        }
+      ],
+      "duration_ms": 311406,
+      "name": "Calm the Storm (Live)",
+      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "The Songs We Sing",
         "url": "https://open.spotify.com/album/5KWSVv7EOYsOmuKmsLg5pD"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 288000,
       "name": "Unshakable",
       "url": "https://open.spotify.com/track/05YyiE4iKGzNNwLDlA8v96"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Calm the Storm (Live)",
-        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
-      },
-      "artists": [
-        {
-          "name": "Union Creative",
-          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
-        }
-      ],
-      "duration_ms": 311406,
-      "name": "Calm the Storm (Live)",
-      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
     },
     {
       "added_at": "2020-06-26 04:02:00",

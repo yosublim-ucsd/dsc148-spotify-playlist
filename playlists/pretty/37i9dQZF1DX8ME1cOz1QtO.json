@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 77822,
+  "num_followers": 77887,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjU3ZWI0MjM1NjJkZTZiOTJlNjdjNGQ4OGEwMmFkMmFjMDA5NWU2",
+  "snapshot_id": "MCwxYjQ5NDQ5M2Y4MDc1M2I4NzUzZjgyODBmN2UzZjU5ODU2OTVhZjk4",
   "tracks": [
     {
       "added_at": "2023-08-18 14:02:54",
@@ -459,38 +459,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "The Celts",
-        "url": "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv"
-      },
-      "artists": [
-        {
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Aldebaran",
-      "url": "https://open.spotify.com/track/60hzUuOVktVPzrfBlhSk5A"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Antarctica (Remastered)",
-        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 445613,
-      "name": "Theme From Antarctica - Remastered",
-      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "The Essential Yanni",
         "url": "https://open.spotify.com/album/79CkQrncB01Wc41FhBSALx"
       },
@@ -503,6 +471,22 @@
       "duration_ms": 225786,
       "name": "The Mermaid",
       "url": "https://open.spotify.com/track/2THAycwJ47OsWLMhC04yEr"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 546106,
+      "name": "To the Unknown Man",
+      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -523,6 +507,22 @@
       "duration_ms": 1127173,
       "name": "Meditation No. 1",
       "url": "https://open.spotify.com/track/3Z9PWaE8d55XcOxEHwx6U8"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "The Celts",
+        "url": "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/60hzUuOVktVPzrfBlhSk5A"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -607,8 +607,8 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
+        "name": "Antarctica (Remastered)",
+        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 546106,
-      "name": "To the Unknown Man",
-      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
+      "duration_ms": 445613,
+      "name": "Theme From Antarctica - Remastered",
+      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Seven Waves",
+        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 317733,
+      "name": "The Third Wave - Love In The Waves",
+      "url": "https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Spectrum Suite (Bonus Version) [Remastered]",
         "url": "https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 199506,
       "name": "Star Children Theme II - (Bonus Version) (Remastered)",
       "url": "https://open.spotify.com/track/1bJ1KjsjWAAN1sq7GIviSw"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Seven Waves",
-        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 317733,
-      "name": "The Third Wave - Love In The Waves",
-      "url": "https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Collected Ambient & Textural Works 1977-1987",
-        "url": "https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq"
-      },
-      "artists": [
-        {
-          "name": "Michael Stearns",
-          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "Ancient Leaves",
-      "url": "https://open.spotify.com/track/1XWKSNngAvp3hs6w3cFWAs"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Seven Waves",
         "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 347626,
       "name": "The Fifth Wave - Water Lullaby",
       "url": "https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Collected Ambient & Textural Works 1977-1987",
+        "url": "https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq"
+      },
+      "artists": [
+        {
+          "name": "Michael Stearns",
+          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "Ancient Leaves",
+      "url": "https://open.spotify.com/track/1XWKSNngAvp3hs6w3cFWAs"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Missa Gaia - Earth Mass",
-        "url": "https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru"
-      },
-      "artists": [
-        {
-          "name": "Paul Winter",
-          "url": "https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "For The Beauty Of The Earth - Instrumental",
-      "url": "https://open.spotify.com/track/5PjnCekj1D0FtZzaaCA4tU"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Ki",
         "url": "https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 418666,
       "name": "Chi",
       "url": "https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Missa Gaia - Earth Mass",
+        "url": "https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru"
+      },
+      "artists": [
+        {
+          "name": "Paul Winter",
+          "url": "https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "For The Beauty Of The Earth - Instrumental",
+      "url": "https://open.spotify.com/track/5PjnCekj1D0FtZzaaCA4tU"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Ages",
+        "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
+      },
+      "artists": [
+        {
+          "name": "Edgar Froese",
+          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
+        }
+      ],
+      "duration_ms": 672226,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Meditation",
         "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 720426,
       "name": "Silmarillion",
       "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Ages",
-        "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
-      },
-      "artists": [
-        {
-          "name": "Edgar Froese",
-          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
-        }
-      ],
-      "duration_ms": 672226,
-      "name": "Metropolis",
-      "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Glide/Star Gazer",
-        "url": "https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K"
+        "name": "Aum",
+        "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
       },
       "artists": [
         {
-          "name": "Peter Davison",
-          "url": "https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy"
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 505733,
-      "name": "Glide III",
-      "url": "https://open.spotify.com/track/6bmHCvu6qgO6roOubB3Ga5"
+      "duration_ms": 116440,
+      "name": "Abraxas",
+      "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Aum",
-        "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
+        "name": "Glide/Star Gazer",
+        "url": "https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K"
       },
       "artists": [
         {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+          "name": "Peter Davison",
+          "url": "https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy"
         }
       ],
-      "duration_ms": 116440,
-      "name": "Abraxas",
-      "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
+      "duration_ms": 505733,
+      "name": "Glide III",
+      "url": "https://open.spotify.com/track/6bmHCvu6qgO6roOubB3Ga5"
     },
     {
       "added_at": "2023-08-18 14:02:54",

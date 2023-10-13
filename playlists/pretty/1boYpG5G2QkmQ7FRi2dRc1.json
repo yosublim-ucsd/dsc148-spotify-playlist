@@ -1,13 +1,65 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 303914,
+  "num_followers": 303472,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "MTk5MCwyYjUwNjQ5MDQ4NmMwODNlNmQ4MTQwYzg4NGJlZDJkOWU2MzQ5MWMz",
+  "snapshot_id": "MTk5MSxkMDg1YzJlNGNlYmRkYzRiMTk0YTBiMjMwNGU5MjhmZDY0NmExMTQw",
   "tracks": [
+    {
+      "added_at": "2023-10-12 15:10:24",
+      "album": {
+        "name": "Pull Me Through The Fire",
+        "url": "https://open.spotify.com/album/4yWs1fevkBIaUhJrKVkq0V"
+      },
+      "artists": [
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "James French",
+          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
+        }
+      ],
+      "duration_ms": 216569,
+      "name": "Pull Me Through The Fire",
+      "url": "https://open.spotify.com/track/7xo6XBzMspckqbMQRfEQqh"
+    },
+    {
+      "added_at": "2023-10-12 15:10:24",
+      "album": {
+        "name": "Howling",
+        "url": "https://open.spotify.com/album/5SOZmB1PXP2lSWrCBVGHUa"
+      },
+      "artists": [
+        {
+          "name": "Blinders",
+          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
+        }
+      ],
+      "duration_ms": 269512,
+      "name": "Howling",
+      "url": "https://open.spotify.com/track/3zU7UfEX9pawgzPq9dUSup"
+    },
+    {
+      "added_at": "2023-10-12 15:10:24",
+      "album": {
+        "name": "Back To The Oldskool",
+        "url": "https://open.spotify.com/album/2m9K1f69BnBrUAlBmNs82E"
+      },
+      "artists": [
+        {
+          "name": "Andrew Mathers",
+          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Back To The Oldskool",
+      "url": "https://open.spotify.com/track/4AIeZB6EkwLB0RLcFmoaVY"
+    },
     {
       "added_at": "2023-09-29 17:24:32",
       "album": {

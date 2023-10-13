@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-286 songs - 14 hr 35 min
+288 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,13 +35,14 @@
 | [Alpha Focus 97Hz \- 104Hz](https://open.spotify.com/track/67VwwXXg1k6cEMFX1rpGoo) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:51 | 2021-04-10 |  |
 | [Alpha Focus Drone](https://open.spotify.com/track/5dg5PNv5LXNPJoWTfOPQZn) | [Therapeutic Reality](https://open.spotify.com/artist/0cikLffzif45mLdhObDe0V) | [Brainwave State Alpha](https://open.spotify.com/album/2mlB96cTpOna6IQOoyY07x) | 3:27 | 2019-05-26\* | 2021-04-10 |
 | [Alpha Focus Waves 128Hz \- 136Hz](https://open.spotify.com/track/1CoW9K4Sabt7H8bspY6dI1) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Alpha Focus](https://open.spotify.com/album/0Kv4W0JNSSXCLe2RAPDVcp) | 3:13 | 2023-03-10 |  |
+| [Alpha Harmony \(105Hz \- 115Hz\)](https://open.spotify.com/track/3l3JdIcEn1lZ6mwnZSO2BV) | [Binaural Explorer](https://open.spotify.com/artist/2ZhPgXqdfCoEYgtumgaZ5z) | [Harmonic Balance](https://open.spotify.com/album/5EIABDLRDHWgwcIRxcadfc) | 3:45 | 2023-10-13 |  |
 | [Alpha Horizon 128 + 130 Hz](https://open.spotify.com/track/4o4y2ZK2pso1lHYAGwhbLN) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Horizon](https://open.spotify.com/album/6GnCnCvllPPRsgxHIWPi5Z) | 3:27 | 2023-03-16 |  |
 | [Alpha Meditation](https://open.spotify.com/track/2UITlqXM467haohWgPffAT) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Alpha Meditation](https://open.spotify.com/album/1bPVJAq7CbCRx8pOA16H0y) | 2:36 | 2021-04-22 |  |
 | [Alpha Mind Fields 12Hz](https://open.spotify.com/track/1FoDFD5k9GChv7nC9Sp9QK) | [Sound Calligraphy](https://open.spotify.com/artist/1Zp7nKZPuuLgjoPOeWoXVm) | [Mind Fields](https://open.spotify.com/album/1z9ggktUU722husvf5FCNN) | 4:00 | 2021-06-04 |  |
 | [Alpha Night \(106Hz \- 114Hz\)](https://open.spotify.com/track/749a2IxiF2QIwgSrmbBZ3M) | [Binaural Explorer](https://open.spotify.com/artist/2ZhPgXqdfCoEYgtumgaZ5z) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 3:12 | 2021-08-05 |  |
 | [Alpha Overload \(1.4hz\)](https://open.spotify.com/track/6LXE8SCIlLewp3w8ayJI7P) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [sinewave party](https://open.spotify.com/album/2VQWSbMOQizkg9RtacXTd3) | 2:24 | 2022-05-05 |  |
 | [Alpha Prosperity 127 Hz \- 135 Hz](https://open.spotify.com/track/0Qwn9VwFUlhrhsNGBNtIjB) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Binaural Bliss](https://open.spotify.com/album/1Vdw99FLXQSRFbg9tYLxFH) | 2:42 | 2023-05-26 |  |
-| [Alpha Pulse \- 92Hz \- 100Hz](https://open.spotify.com/track/6Bdz9KhB5T0yIM8ix7TYjR) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [Binaural Concentration](https://open.spotify.com/album/0SC46nDHuX7dsxufZ3UV5l) | 2:36 | 2021-09-02 |  |
+| [Alpha Pulse \- 92Hz \- 100Hz](https://open.spotify.com/track/6Bdz9KhB5T0yIM8ix7TYjR) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [Binaural Concentration](https://open.spotify.com/album/0SC46nDHuX7dsxufZ3UV5l) | 2:36 | 2021-09-02 | 2023-10-13 |
 | [Alpha Pure Focus 96 Hz \- 104 Hz](https://open.spotify.com/track/5nOEci7Elw7ybRmf1v4qfZ) | [Unconscious Mind](https://open.spotify.com/artist/4z2YcYMIwrt57Yr2REOia0) | [Alpha Pure Focus 96 Hz \- 104 Hz](https://open.spotify.com/album/2XgnLzzkKZynfzJFJzjw2d) | 2:55 | 2023-06-02 |  |
 | [Alpha Relief 94 Hz \- 102 Hz](https://open.spotify.com/track/2X4GzC2AF0Mq46fjE3IFRd) | [Unconscious Mind](https://open.spotify.com/artist/4z2YcYMIwrt57Yr2REOia0) | [Alpha Relief 94 Hz \- 102 Hz](https://open.spotify.com/album/6UG8gpJjygEMaIXIlYyxuR) | 3:08 | 2023-04-28 |  |
 | [Alpha Sine](https://open.spotify.com/track/2ayFHCjDIFtxjnyzDCt1J6) | [SOWE](https://open.spotify.com/artist/4gsiHX6ewD0G96o4sO5wOF) | [Binaural Sleep Beats](https://open.spotify.com/album/7lHKcPjSRQsXDfWKzOrXOp) | 3:25 | 2021-01-19 |  |
@@ -167,6 +168,7 @@
 | [Bûche Creuse](https://open.spotify.com/track/2X6yLNxl3XsH0YZRQ4B1w2) | [Kensa Mitchell](https://open.spotify.com/artist/1Bw5TivstABMbIaMDM4jyX) | [Brainwave Focus](https://open.spotify.com/album/6jc66CwXrBYOVNQvqkQFXz) | 3:38 | 2019-05-26\* | 2021-01-12 |
 | [Chakra Flow Gamma Sinus](https://open.spotify.com/track/2IjmfeOvXo6ha4PxW7WqWk) | [Mindful Entrainment](https://open.spotify.com/artist/3VC3a7EmahK5d9RCPQqNEk) | [Chakra Flow Gamma Sinus](https://open.spotify.com/album/0DL8insWLSxIU96C5AwDmv) | 1:44 | 2021-02-03 | 2021-03-25 |
 | [Circumspect Alpha 10Hz](https://open.spotify.com/track/6xa4tQjf1T53fTB2RfZyGi) | [Sine Soothers](https://open.spotify.com/artist/3heVgDPxG5RpofyonEqwX9) | [Circumspect Alpha 10Hz](https://open.spotify.com/album/3pe61os5F0RnpPjMCvVbiw) | 3:19 | 2023-01-13 |  |
+| [Conception \- Alpha Sinus 115Hz \- 122Hz](https://open.spotify.com/track/0YZSPagJQcp2t1qlZZoFuW) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B), [The Binaural Girl](https://open.spotify.com/artist/1SZvf7oGMJwvncGXAFMWvs) | [Conception \- Alpha Sinus 115Hz \- 122Hz](https://open.spotify.com/album/4DmBExlFUISgPtR4rxz5ie) | 2:08 | 2023-10-13 |  |
 | [Connection Alpha 10Hz](https://open.spotify.com/track/4D32XPyh0L8GX07mUDwaoe) | [Restful SInus](https://open.spotify.com/artist/6S3sDcK2WIHZ9a2eMLJJYX) | [Connection Alpha 10Hz](https://open.spotify.com/album/2o33M5zBgQWCniGBpU2jbb) | 2:34 | 2023-01-24 |  |
 | [Creative Alpha Sinus 101Hz \- 109Hz](https://open.spotify.com/track/3H9TQiTijyVfgeTGkFR918) | [Lucy Dreamer](https://open.spotify.com/artist/7xProv7zrnGc1wQX25gy3P) | [Binaural Dreams](https://open.spotify.com/album/3ElQwXi7IKxq7r0mrwd1QR) | 3:16 | 2021-04-22 |  |
 | [Creative State of Mind \- Alpha Sinus 102Hz \- 109Hz](https://open.spotify.com/track/4lJDq74K2vzwSnYGoLvSjJ) | [Letter One](https://open.spotify.com/artist/4SfajLLhVt2uROSEyVBQdx) | [Binaural Alpha](https://open.spotify.com/album/7t3NNSYWStDFMrpdT5UVXV) | 2:47 | 2021-03-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 79561,
+  "num_followers": 79620,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2JlOTRlNjFkZWJlMmI3NDc0NjBhMmU4MWIyODNjMzgwYmViZWFm",
+  "snapshot_id": "MCxkNmMxMGEzYjlkZTE4NzdmMGFkZTMxODAxMDE5NDIxODg3ZTA4MTky",
   "tracks": [
     {
       "added_at": "2022-01-25 22:47:02",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Caja de Canciones",
-        "url": "https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 225813,
-      "name": "Veneno en la Piel",
-      "url": "https://open.spotify.com/track/3RDMd9JiKdVik8zjGhZ0wJ"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Furia Latina",
         "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 220626,
       "name": "Quiero tener tu presencia",
       "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Caja de Canciones",
+        "url": "https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "duration_ms": 225813,
+      "name": "Veneno en la Piel",
+      "url": "https://open.spotify.com/track/3RDMd9JiKdVik8zjGhZ0wJ"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Muchas Flores",
-        "url": "https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg"
-      },
-      "artists": [
-        {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Al Son Del Tambor",
-      "url": "https://open.spotify.com/track/6KpEeLn57CE8rw3yg8HtdQ"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Puro Veneno",
         "url": "https://open.spotify.com/album/65S9zOtZi43kFdHB8y91vY"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 230106,
       "name": "Joselito",
       "url": "https://open.spotify.com/track/72Fm5e7KPBEQwCeIcSU33g"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Muchas Flores",
+        "url": "https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg"
+      },
+      "artists": [
+        {
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Al Son Del Tambor",
+      "url": "https://open.spotify.com/track/6KpEeLn57CE8rw3yg8HtdQ"
     },
     {
       "added_at": "2022-01-25 22:47:02",

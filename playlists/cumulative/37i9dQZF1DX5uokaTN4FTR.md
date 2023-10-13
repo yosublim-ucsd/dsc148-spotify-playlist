@@ -2,9 +2,9 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Joel Corry
+> The UK's biggest dance playlist! Cover: Jazzy
 
-504 songs - 1 day 2 hr 49 min
+505 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Free \(feat\. Tyrone & Chris Nichols\) \- Nathan Dawe Freemix](https://open.spotify.com/track/2RdWvdzQztDTypZCywTHH8) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Tyrone](https://open.spotify.com/artist/6aapEQN8zrKOf2NOKf0MPI), [Chris Nichols](https://open.spotify.com/artist/4XVhziV4quD1z8cWWhp4fe), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Free \(feat\. Tyrone & Chris Nichols\) \[Nathan Dawe Freemix\]](https://open.spotify.com/album/4olzFO245ebsDV7MZX43d8) | 3:15 | 2021-11-03\* | 2021-11-12 |
 | [Fuck It!](https://open.spotify.com/track/4GTa4r47RMGgVzESGRmEul) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Fuck It!](https://open.spotify.com/album/1snDRRO46ItFbvq8OyNvo2) | 3:41 | 2023-03-08 | 2023-03-09 |
 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 | 2022-02-04 | 2022-05-20 |
-| [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2023-01-13 |  |
+| [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2023-01-13 | 2023-10-13 |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-03-30 |  |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-06-16 | 2022-09-02 |
 | [go \- goddard\. Remix](https://open.spotify.com/track/6RZo8T7GY9EoWZXC5i2587) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:12 | 2023-03-08 | 2023-03-09 |
@@ -334,6 +334,7 @@
 | [No Time \(feat\. Nia Archives, Beenie Man, Cristale & ShaSimone\)](https://open.spotify.com/track/1ONDma4NENd2D7ig3HvJ1Z) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27), [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [No Time \(feat\. Nia Archives, Beenie Man, Cristale & ShaSimone\)](https://open.spotify.com/album/6RWLMGjUpEKOndzpfWVbVL) | 2:48 | 2022-08-18 | 2022-11-18 |
 | [Not Over Yet \(feat\. Tom Grennan\)](https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Not Over Yet \(feat\. Tom Grennan\)](https://open.spotify.com/album/2JwhadQOv6ZEnpuWkZNNFh) | 2:35 | 2022-08-05 | 2022-11-08 |
 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 | 2023-07-06 |  |
+| [NRG](https://open.spotify.com/track/79Ojf7CxxJw04NP4d8hrf8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [NRG](https://open.spotify.com/album/3S6FlsCt2FK6saAarcRoyy) | 2:26 | 2023-10-13 |  |
 | [Number 1](https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Number 1](https://open.spotify.com/album/0vkYGGLv8iwyQWdccl46j3) | 2:25 | 2023-07-20 |  |
 | [Off The Ground](https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Off The Ground](https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h) | 4:02 | 2022-06-30 | 2022-10-07 |
 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 | 2023-06-08 |  |

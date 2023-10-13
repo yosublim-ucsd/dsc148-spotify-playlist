@@ -1,29 +1,13 @@
 {
   "description": "A blend of new songs and artists in the soul space. Cover: vAn",
-  "num_followers": 476318,
+  "num_followers": 476136,
   "original_name": "Next Wave Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzg5ZmRjNzMxZjRjM2U1M2UzYzdlN2Y0NmUyZWJhYTBmZGRkYjUy",
+  "snapshot_id": "MCwwNjRlMjkxZDk1MWQ3YjY5MmVmMDYzOTRhMjUwYTAyMDliMGYzNDYx",
   "tracks": [
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
-        "name": "SHIMMER",
-        "url": "https://open.spotify.com/album/53RPlxQAShRuRumHbOw9Iu"
-      },
-      "artists": [
-        {
-          "name": "vAn",
-          "url": "https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC"
-        }
-      ],
-      "duration_ms": 218732,
-      "name": "SHIMMER",
-      "url": "https://open.spotify.com/track/21PNdcOg9gWRsvfko3in1Q"
-    },
     {
       "added_at": "2023-10-06 12:01:11",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
+    },
+    {
+      "added_at": "2023-10-06 12:01:11",
+      "album": {
+        "name": "SHIMMER",
+        "url": "https://open.spotify.com/album/53RPlxQAShRuRumHbOw9Iu"
+      },
+      "artists": [
+        {
+          "name": "vAn",
+          "url": "https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC"
+        }
+      ],
+      "duration_ms": 218732,
+      "name": "SHIMMER",
+      "url": "https://open.spotify.com/track/21PNdcOg9gWRsvfko3in1Q"
     },
     {
       "added_at": "2023-10-06 12:01:11",

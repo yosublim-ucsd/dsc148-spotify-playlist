@@ -4,7 +4,7 @@
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-190 songs - 13 hr 40 min
+191 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Weak](https://open.spotify.com/track/3J10F4lCEb7vdStCZN27z6) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb) | [In A Dream](https://open.spotify.com/album/3RzIu8LThvyRGzWorhCWRH) | 5:09 | 2021-12-02 | 2022-07-29 |
 | [Weak](https://open.spotify.com/track/5G90jbJFSuo2BIoyvIDMm7) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb) | [In A Dream \(Japan bonus track edition\)](https://open.spotify.com/album/4mzWnRHrgRMcUKtvqNW6eB) | 5:11 | 2022-03-08 |  |
 | [What Seems to Be](https://open.spotify.com/track/6nFj1w0i80WtD7tRWt3Upk) | [Yumi Ito](https://open.spotify.com/artist/3uWJmmVbMN5fhVLhaDRcBY) | [Stardust Crystals](https://open.spotify.com/album/4kCfpL1lN7now0bDfBIaW4) | 4:38 | 2021-12-02 |  |
+| [When Sunny Gets Blue](https://open.spotify.com/track/2ttCdSWedaPtOltZLPZVAT) | [Stína Ágústsdóttir](https://open.spotify.com/artist/7tn2NxdUjOm9WuvEXQNhLi), [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [When Sunny Gets Blue](https://open.spotify.com/album/2tcBjPtxrfZLep0WKsdVAR) | 4:24 | 2023-10-13 |  |
 | [Willow Weep For Me](https://open.spotify.com/track/2LHaIw3mxrbKbiZnEnGpvJ) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:30 | 2021-12-02 |  |
 | [Without That Gal!](https://open.spotify.com/track/4HwJCIYAVBciTWHZBOJuTE) | [Blanche Calloway](https://open.spotify.com/artist/4Pb1I6ZTK7XnAfk7bJtvjh) | [Blanche Calloway \(Doxy Collection\)](https://open.spotify.com/album/7joIm6xZU01pPtT2ZVsA1O) | 3:36 | 2022-03-08 |  |
 | [Without That Gal! \(06\-11\-31\)](https://open.spotify.com/track/6RsdHCcaWpatuOxqsIbBh6) | [Blanche Calloway](https://open.spotify.com/artist/4Pb1I6ZTK7XnAfk7bJtvjh) | [Complete Jazz Series 1925 \- 1935](https://open.spotify.com/album/4u6xGQVPpDu50k8nORV2f5) | 3:36 | 2021-12-02 | 2022-07-29 |

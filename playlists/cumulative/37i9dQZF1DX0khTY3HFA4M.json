@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/5v2UDMEhWTqNnwdTYdQXyI"
+      },
+      "artists": [
+        {
+          "name": "Gooee",
+          "url": "https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123385,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/54Q1fME5hhgFWipi1SkTtU"
+    },
+    {
+      "album": {
         "name": "Hutton's Diary",
         "url": "https://open.spotify.com/album/27sN7grc7J1hUyDolsjGoW"
       },
@@ -884,6 +902,24 @@
       "duration_ms": 135000,
       "name": "Autumn Love",
       "url": "https://open.spotify.com/track/2erA2PWWM0T3H2T2CO2x1T"
+    },
+    {
+      "album": {
+        "name": "Autumn Stroll",
+        "url": "https://open.spotify.com/album/4n6WWpN0P3MsBU4OTFXFIM"
+      },
+      "artists": [
+        {
+          "name": "Pi Teddy",
+          "url": "https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118411,
+      "name": "Autumn Stroll",
+      "url": "https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO"
     },
     {
       "album": {
@@ -3536,7 +3572,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 135876,
       "name": "Fairy Tale",
       "url": "https://open.spotify.com/track/33x57rcYVkrWtkWB9y2PF2"
@@ -4742,6 +4778,24 @@
       "duration_ms": 115662,
       "name": "Hidden Cove",
       "url": "https://open.spotify.com/track/0VfK1TCCV3dXnagjP7hAxd"
+    },
+    {
+      "album": {
+        "name": "Hokkaido Breeze",
+        "url": "https://open.spotify.com/album/2FuriS42295H1EzGOwZV6x"
+      },
+      "artists": [
+        {
+          "name": "Furry Beats",
+          "url": "https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140470,
+      "name": "Hokkaido Breeze",
+      "url": "https://open.spotify.com/track/20aWMDQFYgx0da54JctdZd"
     },
     {
       "album": {
@@ -6403,6 +6457,24 @@
     },
     {
       "album": {
+        "name": "Meltdown",
+        "url": "https://open.spotify.com/album/3fedlhIrSKvzsgd8MV7sEg"
+      },
+      "artists": [
+        {
+          "name": "Arlos",
+          "url": "https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204874,
+      "name": "Meltdown",
+      "url": "https://open.spotify.com/track/4gLJWrqUpHLaiDH7K276l9"
+    },
+    {
+      "album": {
         "name": "Scenery",
         "url": "https://open.spotify.com/album/1mTMDmQIzXGRR26E4MnWPE"
       },
@@ -7514,6 +7586,24 @@
       "duration_ms": 136311,
       "name": "oof",
       "url": "https://open.spotify.com/track/5sY3HbCZXyKPzTNewxoleJ"
+    },
+    {
+      "album": {
+        "name": "Oonga Boonga",
+        "url": "https://open.spotify.com/album/4cxVtYbW26RwdkQc8H00Pk"
+      },
+      "artists": [
+        {
+          "name": "cakofonik",
+          "url": "https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125853,
+      "name": "Oonga Boonga",
+      "url": "https://open.spotify.com/track/26QyP0HrEPW0EAggeRovc5"
     },
     {
       "album": {
@@ -8998,7 +9088,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 181333,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/3YAAuuGofMCbXlAuAzxFu0"
@@ -9724,7 +9814,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 118588,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/6iCSkJSmXWnuWM6tt2KkcM"
@@ -9974,6 +10064,24 @@
       "duration_ms": 134000,
       "name": "Stay In Bed",
       "url": "https://open.spotify.com/track/1ACT2a4ZJWOZ2pyxuy3LuW"
+    },
+    {
+      "album": {
+        "name": "Stones",
+        "url": "https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV"
+      },
+      "artists": [
+        {
+          "name": "W8lss",
+          "url": "https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137228,
+      "name": "Stones",
+      "url": "https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3"
     },
     {
       "album": {
@@ -10256,6 +10364,24 @@
       "duration_ms": 108116,
       "name": "Supercolor",
       "url": "https://open.spotify.com/track/2LzPtYMEj4S44yoBVU7ccu"
+    },
+    {
+      "album": {
+        "name": "Sushi Brain",
+        "url": "https://open.spotify.com/album/3zwdMxlU8Ups7n2ZyJwL9B"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Road",
+          "url": "https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134112,
+      "name": "Sushi Brain",
+      "url": "https://open.spotify.com/track/6qsaBLpqxkxCkS2pUYDslr"
     },
     {
       "album": {
@@ -11106,7 +11232,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 157500,
       "name": "Twentytwoface",
       "url": "https://open.spotify.com/track/2prMYcblwlNxn0MdpfmhEn"
@@ -11494,7 +11620,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 161142,
       "name": "waiting for april",
       "url": "https://open.spotify.com/track/2Fs5xakZwbu23dDdOnvBzQ"
@@ -12094,6 +12220,28 @@
       "duration_ms": 157096,
       "name": "wishful moments",
       "url": "https://open.spotify.com/track/0JSrPZlMHGevb1IMTMLC4G"
+    },
+    {
+      "album": {
+        "name": "Wistful Silhouettes",
+        "url": "https://open.spotify.com/album/7bnbpre7jCyEwHu1hT9ngt"
+      },
+      "artists": [
+        {
+          "name": "Chill Def",
+          "url": "https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41"
+        },
+        {
+          "name": "alt.bin.beats",
+          "url": "https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136941,
+      "name": "Wistful Silhouettes",
+      "url": "https://open.spotify.com/track/5Ltgq6XMTilOXhNiSQZrVT"
     },
     {
       "album": {

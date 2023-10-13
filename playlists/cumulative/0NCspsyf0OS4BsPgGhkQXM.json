@@ -1795,6 +1795,32 @@
     },
     {
       "album": {
+        "name": "Black & Yellow",
+        "url": "https://open.spotify.com/album/18FiBeV48fOCw89SyOfyFq"
+      },
+      "artists": [
+        {
+          "name": "Alban Chela",
+          "url": "https://open.spotify.com/artist/53gpGyHpJpOOe0UIl0YigG"
+        },
+        {
+          "name": "Emre Bayrak",
+          "url": "https://open.spotify.com/artist/6kC2Rhds73ktValmDSPjFP"
+        },
+        {
+          "name": "Xblaze",
+          "url": "https://open.spotify.com/artist/3l22ah9mu4QDWC32wRBN9j"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121535,
+      "name": "Black & Yellow",
+      "url": "https://open.spotify.com/track/3HPdRX1UJIYoaoDkE5uDxn"
+    },
+    {
+      "album": {
         "name": "black bouquet",
         "url": "https://open.spotify.com/album/7rUhMfLNHaNFn09bXWyus5"
       },
@@ -6094,6 +6120,28 @@
       "duration_ms": 152666,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/2YO54djjxe6AYyhCpYZm2s"
+    },
+    {
+      "album": {
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/4NT0EDiOqeIcyoomo56LSA"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "John De Sohn",
+          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155409,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/4PPCWezfTaXfJxvJh3scND"
     },
     {
       "album": {
@@ -15225,6 +15273,28 @@
     },
     {
       "album": {
+        "name": "Stress You",
+        "url": "https://open.spotify.com/album/5D5ZXdcjvXx8tW4pMgeUaD"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "SUPER-Hi",
+          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156426,
+      "name": "Stress You",
+      "url": "https://open.spotify.com/track/5NvBcltC9SGWoo9GnIrkhn"
+    },
+    {
+      "album": {
         "name": "Stride",
         "url": "https://open.spotify.com/album/75yDcpgSrrT93p81MsIZNK"
       },
@@ -17238,6 +17308,32 @@
       "duration_ms": 198400,
       "name": "Venom",
       "url": "https://open.spotify.com/track/3tacyVZsROkiT12vHRbllJ"
+    },
+    {
+      "album": {
+        "name": "Vibration",
+        "url": "https://open.spotify.com/album/2XUwPTz8pbtfggtSR66Os7"
+      },
+      "artists": [
+        {
+          "name": "Alban Chela",
+          "url": "https://open.spotify.com/artist/53gpGyHpJpOOe0UIl0YigG"
+        },
+        {
+          "name": "HOMINID",
+          "url": "https://open.spotify.com/artist/7lyYlIclaVEmE0rlSCwH3h"
+        },
+        {
+          "name": "Xblaze",
+          "url": "https://open.spotify.com/artist/3l22ah9mu4QDWC32wRBN9j"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129320,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/5iVCcci2NZMEbQEi4cSXKQ"
     },
     {
       "album": {

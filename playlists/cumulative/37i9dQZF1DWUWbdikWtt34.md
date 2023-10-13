@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Hetty Koes Endang
+> Dendang Dangdut teratas\. Cover: Nilam Sari
 
-126 songs - 9 hr 46 min
+128 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Kau Tercipta Untukku](https://open.spotify.com/track/0NfWMu3zA2v4ymR2pWiXV9) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Kau Tercipta Untukku](https://open.spotify.com/album/1zpXdr3kkwZF8RKMz4vi72) | 4:07 | 2021-08-23 | 2023-06-30 |
 | [Kejam](https://open.spotify.com/track/1jGPT79sQ8k48Lu4nWqKMj) | [Iyeth Bustami](https://open.spotify.com/artist/00C7NuuxMrVAu6Yzxj667R) | [Kejam](https://open.spotify.com/album/7vOcQvH0zVauyTYW4wWh73) | 5:03 | 2023-05-11 |  |
 | [Khianatiku](https://open.spotify.com/track/2TtWxUm8XnwMmKFEdw8FZN) | [Andre Mastijan](https://open.spotify.com/artist/4CaULC2hulDukMworEU70V) | [Khianatiku](https://open.spotify.com/album/2IuAi1TB6o7IVql5MKNAHI) | 4:18 | 2023-08-03 |  |
+| [Kilau Cinta](https://open.spotify.com/track/4pnuf1MaxKMi94aaSZ1xwq) | [Nilam Sari](https://open.spotify.com/artist/1HMH1XCsJiOQhp0piHmKE6) | [Kilau Cinta](https://open.spotify.com/album/3iPvBqNKPSsRQv0rnwEOoy) | 4:32 | 2023-10-12 |  |
 | [Konco Mesra](https://open.spotify.com/track/2ey0HK2pXI9y5cIW5NqFLj) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Nella Kharisma Special NDX](https://open.spotify.com/album/5lJx0J2xoruceOPUDWUDDD) | 5:01 | 2021-08-23 |  |
 | [Konco Rindu](https://open.spotify.com/track/5KXY2olwTQxjhbX6plooNV) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Konco Rindu](https://open.spotify.com/album/4zoCn0RSzcqyAvf3gEjn1i) | 5:05 | 2021-08-23 | 2023-03-31 |
 | [Ku Puja Puja](https://open.spotify.com/track/13p3Fu1HTCPsUXQ8JGxVEz) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Ku Puja Puja](https://open.spotify.com/album/7xH7H47nIFy8825YlQPeTv) | 4:55 | 2021-08-23 |  |
@@ -119,6 +120,7 @@
 | [Tak Ikhlasno](https://open.spotify.com/track/4h8rT4tUL27KwIznPur58B) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Ikhlasno](https://open.spotify.com/album/2n0favF8lI3Tv4y8dIQBbY) | 4:31 | 2021-08-23 | 2023-02-17 |
 | [Tak Lalekne Kowe](https://open.spotify.com/track/5Qj0PtT0uCwEX3IuWiHLt9) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Lalekne Kowe](https://open.spotify.com/album/7Mrs9ngZquGRsZSkR1HIE7) | 5:41 | 2021-08-23 | 2023-09-15 |
 | [Tak Mungkin Kembali](https://open.spotify.com/track/3NCPT1Ll3BC2OiaCbYkwgz) | [Ikke Nurjanah](https://open.spotify.com/artist/14eVM8s1mDJhnC4etvhFNn) | [Tak Mungkin Kembali](https://open.spotify.com/album/0jO3LcdJTkucjLxGF3M0yx) | 5:20 | 2021-08-23 |  |
+| [Tanya Hatimu](https://open.spotify.com/track/22mwaQkDEwU2W1y99VazbD) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Tanya Hatimu](https://open.spotify.com/album/1gAg60OyhZl1W7VjmfjrXL) | 4:30 | 2023-10-12 |  |
 | [Tatu](https://open.spotify.com/track/6Mp5wge6ri9XgqcQqMJVyb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/2u8kGA8Duva5Dxruf7NyxH) | 4:46 | 2021-08-23 | 2023-02-05 |
 | [Tatu](https://open.spotify.com/track/55XnOFlzoXBcx1Ov0UvzeL) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/45mzuK7vN3XolfmyyEoOh3) | 4:54 | 2023-02-02 |  |
 | [Terbuai Cinta Palsu \- Live Ska Reggae](https://open.spotify.com/track/3zb04SuRpCGf9U45hcaDdZ) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Terbuai Cinta Palsu \(Live Ska Reggae\)](https://open.spotify.com/album/0WznoxDQEe7I64PQTKsswJ) | 4:58 | 2023-02-02 |  |

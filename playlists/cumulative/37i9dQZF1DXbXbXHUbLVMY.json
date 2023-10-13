@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Skandinavisk hiphop holder det 100! \ud83d\udea8 ",
+  "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
   "name": "100 (2)",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 162818,
       "name": "95",
       "url": "https://open.spotify.com/track/41rOFUwgdYCySkMPb99RjL"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 143544,
       "name": "BODY",
       "url": "https://open.spotify.com/track/6jYyljzxnFohnVpHgrBpNp"
@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Hvit hval",
+        "url": "https://open.spotify.com/album/4YXxwP7NteUVqFzSZLiyW4"
+      },
+      "artists": [
+        {
+          "name": "Linni",
+          "url": "https://open.spotify.com/artist/5EnyJ6QaGHnetHxAUD9Xoc"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220469,
+      "name": "Hvit hval",
+      "url": "https://open.spotify.com/track/0jEn2ndzR7erpPbKpktqjW"
+    },
+    {
+      "album": {
         "name": "Tessas H\u00e6vn (Igen Bitch)",
         "url": "https://open.spotify.com/album/0fpVZ3AwZeu6EWKuYB1ZEZ"
       },
@@ -720,7 +738,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 155498,
       "name": "kjemiker/romantiker.",
       "url": "https://open.spotify.com/track/3PWtq9chrzLwFdGc9a7IIx"
@@ -891,6 +909,28 @@
     },
     {
       "album": {
+        "name": "Mariachi",
+        "url": "https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Mariachi",
+      "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
+    },
+    {
+      "album": {
         "name": "Notoriske B.O.G.",
         "url": "https://open.spotify.com/album/1PBwk1ooupSISW2Py20p3O"
       },
@@ -906,7 +946,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 252000,
       "name": "Marokko Barcelona Colorado California",
       "url": "https://open.spotify.com/track/2jHkG1qU1vrb5gssUNTevT"
@@ -990,7 +1030,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 125826,
       "name": "Narcissist (feat. Rambow)",
       "url": "https://open.spotify.com/track/5nYDSfRi5fN8ju240UGSkb"
@@ -1226,7 +1266,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 135333,
       "name": "SIPPER",
       "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
@@ -1248,6 +1288,24 @@
       "duration_ms": 133375,
       "name": "Sjunka",
       "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
+    },
+    {
+      "album": {
+        "name": "Skarpt Lys",
+        "url": "https://open.spotify.com/album/6ukNPtoxvCSYiayGIcDi0y"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184440,
+      "name": "Skarpt Lys",
+      "url": "https://open.spotify.com/track/66K8nCovQPjJLs11RAqdnl"
     },
     {
       "album": {
@@ -1426,6 +1484,24 @@
       "duration_ms": 141471,
       "name": "WONDERLAND",
       "url": "https://open.spotify.com/track/7IfJ76AmwueC2QiN3USbyt"
+    },
+    {
+      "album": {
+        "name": "Zinah",
+        "url": "https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116500,
+      "name": "Zinah",
+      "url": "https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbXbXHUbLVMY"

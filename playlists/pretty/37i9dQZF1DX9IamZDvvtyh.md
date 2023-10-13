@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain]
 
 > 80s workout jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,680 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,784 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 |
 | 2 | [You're The Best](https://open.spotify.com/track/4zXa17K83Pp6N2yXdVc2sv) | [Joe "Bean" Esposito](https://open.spotify.com/artist/4PCSnq8Q3hxOTn3ro4cl0M) | [The Karate Kid: The Original Motion Picture Soundtrack](https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH) | 2:59 |
 | 3 | [Never Surrender](https://open.spotify.com/track/6pVu4C72ynA60xEZPWyCDL) | [Paul Hertzog](https://open.spotify.com/artist/409cI7liPsNtYwPyKLln7d) | [Kickboxer: The Deluxe Edition Soundtrack](https://open.spotify.com/album/5GEMDzzKJzVJkwRiPYPzn4) | 4:38 |
-| 4 | [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 2:59 |
-| 5 | [Hearts On Fire \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/5vI0C3TDTxySR6Oq8NWjE0) | [John Cafferty](https://open.spotify.com/artist/0fPK3TAseRcy6sAS8U8pEw) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:12 |
-| 6 | [Scarface \(Push It To The Limit\)](https://open.spotify.com/track/0H6rpW1xnJ8qRQwSrIADPE) | [Paul Engemann](https://open.spotify.com/artist/3Rfb8wuY9YHVntDXJqPW6r) | [Scarface \(Expanded Motion Picture Soundtrack\)](https://open.spotify.com/album/6ccQdoDqZsqWlflxEIg0F3) | 2:58 |
+| 4 | [Scarface \(Push It To The Limit\)](https://open.spotify.com/track/0H6rpW1xnJ8qRQwSrIADPE) | [Paul Engemann](https://open.spotify.com/artist/3Rfb8wuY9YHVntDXJqPW6r) | [Scarface \(Expanded Motion Picture Soundtrack\)](https://open.spotify.com/album/6ccQdoDqZsqWlflxEIg0F3) | 2:58 |
+| 5 | [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 2:59 |
+| 6 | [Hearts On Fire \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/5vI0C3TDTxySR6Oq8NWjE0) | [John Cafferty](https://open.spotify.com/artist/0fPK3TAseRcy6sAS8U8pEw) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:12 |
 | 7 | [No Easy Way Out \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/5bnMKUXkMfYVXW8FjvFTuV) | [Robert Tepper](https://open.spotify.com/artist/5T1bhiyED6hokaKTechcKI) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:22 |
 | 8 | [Turn Up The Radio](https://open.spotify.com/track/0kHQcbHlfUhpDh00G2460e) | [Autograph](https://open.spotify.com/artist/2koMWjvRRF0cOpJnjhdKx0) | [Turn Up The Radio](https://open.spotify.com/album/6bOsxiN76LA4AYNr0vRjH6) | 4:22 |
 | 9 | [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 5:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain]
 | 49 | [Heatseeker](https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Blow Up Your Video](https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI) | 3:50 |
 | 50 | [No Shelter](https://open.spotify.com/track/04rLT4KBoCtGpJSTp1sPjR) | [Broken Edge](https://open.spotify.com/artist/51w118T3tZyeQwAye9iHrq) | [The Karate Kid: The Original Motion Picture Soundtrack](https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH) | 3:58 |
 
-Snapshot ID: `MCwzNTAzMmQxNTJmOWI1NWJiYTE5NzBlNzE0OTQ4NmZiNmE4YmI3YTkz`
+Snapshot ID: `MCwyYjMzNzQxMDU0NWNiYjZhMmQ3YjNjMDNjZWNiZWNmOTFkZjEwZDNl`

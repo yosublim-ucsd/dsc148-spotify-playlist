@@ -729,6 +729,28 @@
     },
     {
       "album": {
+        "name": "Janji Kita",
+        "url": "https://open.spotify.com/album/22W5ioNqkaJrSPvgPm9oA2"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        },
+        {
+          "name": "Nuca",
+          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279344,
+      "name": "Janji Kita",
+      "url": "https://open.spotify.com/track/1yaS5CVpNYQWV2OGiVoXug"
+    },
+    {
+      "album": {
         "name": "Journey of Love",
         "url": "https://open.spotify.com/album/53cOSsrFmKTIWSBiBB81vf"
       },
@@ -744,7 +766,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 279344,
       "name": "Janji Kita",
       "url": "https://open.spotify.com/track/6ZEChRRRAQECMkEXXDVQTC"

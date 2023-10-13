@@ -4,7 +4,7 @@
 
 > 今年の秋に聴きたい日本のクラシックを集めました。cover: 小桜 ハル\(こざくら はる\)　 ©阿久井真／小学館／NHK・NEP・日本アニメーション
 
-173 songs - 11 hr 4 min
+174 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [24の前奏曲 作品28 第15番変ニ長調「雨だれ」](https://open.spotify.com/track/4SYtaQjXT3Wyw2mIBU6FF6) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Hisako Kawamura](https://open.spotify.com/artist/49AcsFEdqWxwuQnTKA2pbq) | [映画「蜜蜂と遠雷」 \~ 河村尚子 plays 栄伝亜夜](https://open.spotify.com/album/6vlTbjLLiXsgdyShPe1IFb) | 5:37 | 2023-02-28 | 2023-06-10 |
 | [3 Romanzen für Violine und Klavier Op.22: 1\. Andante molto](https://open.spotify.com/track/3mzyTGFLlcSPUpO47GkD96) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Seiji Okamoto](https://open.spotify.com/artist/5Xdh3EzSnmmN52W8nVp60P), [Kyohei Sorita](https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc) | [frei aber einsam](https://open.spotify.com/album/2gX9f4VhPdbFJs61qCKK2Z) | 3:02 | 2023-06-09 | 2023-09-15 |
 | [5つの歌曲 作品105より第1曲「調べのように私を通り抜ける」](https://open.spotify.com/track/4vEIAx1HbcJynNpOlhpueH) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [吉田 誠](https://open.spotify.com/artist/5wev3nAlYNDtbSDAZyqnVD), [Yu Kosuge](https://open.spotify.com/artist/5tcUjfUAZwX2NMjWU0fqON) | [ブラームス:クラリネット・ソナタ\(全曲\)、シューマン:幻想小曲集ほか](https://open.spotify.com/album/34gl2k0zSTO3Vp5Ckkd0LH) | 2:12 | 2022-09-21 |  |
+| [Air on the G String \(Version for Violin Solo\)](https://open.spotify.com/track/6ISMzJg3eW5RWMf3Irs6TU) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [小川恭子](https://open.spotify.com/artist/22MNZFpm5ETAg33C7ZNodS) | [Blue Orchestra \- Premium Classic](https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9) | 5:10 | 2023-10-10 |  |
 | [Always You](https://open.spotify.com/track/4743TsEgme4vHSjWOmH1oi) | [Naoki Kanda](https://open.spotify.com/artist/6LjDW7YzX2GubNeJR9Yk5b), [Yukiharu Ito](https://open.spotify.com/artist/2eatv5mHMm8Tk8sjnqMT8t) | [neiro](https://open.spotify.com/album/6TCmGyhwZAo6A2DuLSsctc) | 3:17 | 2023-06-09 | 2023-09-15 |
 | [Anna \- Piano Version](https://open.spotify.com/track/38DYHnTRQ4HgYmP32sS3vu) | [Yomiuri Nippon Symphony Orchestra](https://open.spotify.com/artist/15FC47aoLjTKgv0otgmXLN) | [When Marnie Was There Soundtrack Music Collection](https://open.spotify.com/album/00odo2OS2nQ1j15oeG53g2) | 3:53 | 2023-06-09 | 2023-09-15 |
 | [Aonami](https://open.spotify.com/track/0YHJqA4phbpOZ45sG3Y6Xd) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Teen Regime Original Soundtrack](https://open.spotify.com/album/7w3OAphubFA3l5JRsduF9N) | 1:58 | 2023-06-09 | 2023-09-15 |
@@ -47,7 +48,7 @@
 | [Found](https://open.spotify.com/track/0nmsZnjOt2rVGToXSyPm18) | [Marika Takeuchi](https://open.spotify.com/artist/0lsDi98XEKVkgN2kdZWBHT) | [Melding](https://open.spotify.com/album/4e9GDgyr6XVS50tjwUeKy0) | 5:13 | 2022-09-21 |  |
 | [Fragment](https://open.spotify.com/track/0SzKEFWzWvqrPmHPPilLxA) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Fragment](https://open.spotify.com/album/5R5yXIlGTWcSOqq1gT0Y7j) | 3:14 | 2023-02-28 | 2023-06-10 |
 | [Gardenia](https://open.spotify.com/track/5VvDYrvmi1oiPlmLcf6Rr8) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Gardenia](https://open.spotify.com/album/1Q5cMBpn4o5H9qFwqo3xAP) | 3:29 | 2023-06-09 | 2023-09-15 |
-| [G線上のアリア（無伴奏ヴァイオリン版）](https://open.spotify.com/track/3fXUgYuJJ6iNskUNfLTE8V) | [小川恭子](https://open.spotify.com/artist/22MNZFpm5ETAg33C7ZNodS), [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408) | [J.S.バッハ：G線上のアリア（無伴奏ヴァイオリン版）](https://open.spotify.com/album/5fJER6xaeHGZTQMXBzOxt9) | 5:05 | 2023-10-10 |  |
+| [G線上のアリア（無伴奏ヴァイオリン版）](https://open.spotify.com/track/3fXUgYuJJ6iNskUNfLTE8V) | [小川恭子](https://open.spotify.com/artist/22MNZFpm5ETAg33C7ZNodS), [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408) | [J.S.バッハ：G線上のアリア（無伴奏ヴァイオリン版）](https://open.spotify.com/album/5fJER6xaeHGZTQMXBzOxt9) | 5:05 | 2023-10-10 | 2023-10-13 |
 | [G線上のアリア（Ａｉｒ）](https://open.spotify.com/track/32aXWDVLpSqOnIEvBftq0Z) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Ikuko Kawai](https://open.spotify.com/artist/3Mn8t5WvKxtpW1vjxDjphD) | [The Melody ～100年の音楽～](https://open.spotify.com/album/6qlcoQ2M33fJ9Y2Y7VW3kY) | 2:27 | 2022-09-21 |  |
 | [Hakukou](https://open.spotify.com/track/5f5m8do8PCgqJLEm2G02JH) | [Ayatake Ezaki](https://open.spotify.com/artist/30XTStA4lExo4PotWkoOQT) | [Hakukou](https://open.spotify.com/album/7zP5tM1fwHaRvPNRY2TYpv) | 4:30 | 2023-06-09 | 2023-09-15 |
 | [hananoame](https://open.spotify.com/track/0pPlbgLKDPFlGKTbmApQiX) | [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [hananoame](https://open.spotify.com/album/3c2oU0PlWnVe0Eg4IZIb5D) | 4:20 | 2022-11-30 | 2023-03-01 |

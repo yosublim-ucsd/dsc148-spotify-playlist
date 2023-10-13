@@ -3361,6 +3361,24 @@
     },
     {
       "album": {
+        "name": "On the Radio",
+        "url": "https://open.spotify.com/album/1atSc91dCuV5QAzLczaVKo"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rn",
+          "url": "https://open.spotify.com/artist/2g8oDoqZwwzpF6Km7f0kp2"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144719,
+      "name": "On the Radio",
+      "url": "https://open.spotify.com/track/0oJYlpXGOSAqqNwTceobvI"
+    },
+    {
+      "album": {
         "name": "Open Fields",
         "url": "https://open.spotify.com/album/2fgoswYqbGfQDGQOoS3oWO"
       },
@@ -3646,6 +3664,24 @@
       "duration_ms": 168061,
       "name": "Primal View",
       "url": "https://open.spotify.com/track/1g0mgAfM8cT1wwgfK3XOPM"
+    },
+    {
+      "album": {
+        "name": "Priority Boarding",
+        "url": "https://open.spotify.com/album/4s6IR6GvhsAW7sHGKxAq5o"
+      },
+      "artists": [
+        {
+          "name": "Altitude Chill",
+          "url": "https://open.spotify.com/artist/2vPjdJVB78DdGawUuz9fGu"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140377,
+      "name": "Priority Boarding",
+      "url": "https://open.spotify.com/track/1cVRHATXnkjhaO1SWEZihP"
     },
     {
       "album": {

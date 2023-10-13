@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Hetty Koes Endang",
+  "description": "Dendang Dangdut teratas. Cover: Nilam Sari",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "Kilau Cinta",
+        "url": "https://open.spotify.com/album/3iPvBqNKPSsRQv0rnwEOoy"
+      },
+      "artists": [
+        {
+          "name": "Nilam Sari",
+          "url": "https://open.spotify.com/artist/1HMH1XCsJiOQhp0piHmKE6"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272727,
+      "name": "Kilau Cinta",
+      "url": "https://open.spotify.com/track/4pnuf1MaxKMi94aaSZ1xwq"
+    },
+    {
+      "album": {
         "name": "Nella Kharisma Special NDX",
         "url": "https://open.spotify.com/album/5lJx0J2xoruceOPUDWUDDD"
       },
@@ -2064,6 +2082,24 @@
       "duration_ms": 320913,
       "name": "Tak Mungkin Kembali",
       "url": "https://open.spotify.com/track/3NCPT1Ll3BC2OiaCbYkwgz"
+    },
+    {
+      "album": {
+        "name": "Tanya Hatimu",
+        "url": "https://open.spotify.com/album/1gAg60OyhZl1W7VjmfjrXL"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270162,
+      "name": "Tanya Hatimu",
+      "url": "https://open.spotify.com/track/22mwaQkDEwU2W1y99VazbD"
     },
     {
       "album": {

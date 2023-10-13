@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk?si=gnYOdOZxT_-mL-QVsbRxKQ\">Red</a> ",
-  "num_followers": 137521,
+  "num_followers": 137594,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGViOThkMDU1OGZiZDBjZjhiMmJhNmY1NmJmZmU2MGZhYTU1Yjk0",
+  "snapshot_id": "MCw2MjVhMWZlYTU0M2FkN2M2ZjU1YzIxOTg5NGNjZmIzZDdiZjQzZWUy",
   "tracks": [
     {
       "added_at": "2023-08-04 12:11:34",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "The Fear",
-        "url": "https://open.spotify.com/album/0sGZmzDg3gTKKEWx5MqIZ1"
-      },
-      "artists": [
-        {
-          "name": "Night Argent",
-          "url": "https://open.spotify.com/artist/2juQ07Q8H8FEFzrP0SBGid"
-        }
-      ],
-      "duration_ms": 203171,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/41LmGmVK8KAQ7QIIhMvOtX"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Before There Was",
         "url": "https://open.spotify.com/album/5OFTKeciwZwpxna07JM5YX"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 304813,
       "name": "Lazarus",
       "url": "https://open.spotify.com/track/4Ku8uqOCqyxCf99iI3OLHP"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "The Fear",
+        "url": "https://open.spotify.com/album/0sGZmzDg3gTKKEWx5MqIZ1"
+      },
+      "artists": [
+        {
+          "name": "Night Argent",
+          "url": "https://open.spotify.com/artist/2juQ07Q8H8FEFzrP0SBGid"
+        }
+      ],
+      "duration_ms": 203171,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/41LmGmVK8KAQ7QIIhMvOtX"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "The Covering",
-        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
-      },
-      "artists": [
-        {
-          "name": "Random Hero",
-          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
-        }
-      ],
-      "duration_ms": 206288,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Surviving The Wasteland",
         "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 198500,
       "name": "Surviving The Wasteland",
       "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "The Covering",
+        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
+      },
+      "artists": [
+        {
+          "name": "Random Hero",
+          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
+        }
+      ],
+      "duration_ms": 206288,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Peace That Starts the War",
-        "url": "https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk"
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt"
       },
       "artists": [
         {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+          "name": "Safemode",
+          "url": "https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN"
         }
       ],
-      "duration_ms": 168391,
-      "name": "Peace That Starts the War",
-      "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
+      "duration_ms": 266503,
+      "name": "This Is Not the End",
+      "url": "https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Colorblind",
-        "url": "https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt"
+        "name": "Peace That Starts the War",
+        "url": "https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk"
       },
       "artists": [
         {
-          "name": "Safemode",
-          "url": "https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN"
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
         }
       ],
-      "duration_ms": 266503,
-      "name": "This Is Not the End",
-      "url": "https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9"
+      "duration_ms": 168391,
+      "name": "Peace That Starts the War",
+      "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Acoustic - EP",
-        "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
-      },
-      "artists": [
-        {
-          "name": "Decyfer Down",
-          "url": "https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B"
-        }
-      ],
-      "duration_ms": 239552,
-      "name": "Burn Back the Sun",
-      "url": "https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Real Emotion",
-        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
+        "name": "Acoustic - EP",
+        "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
       },
       "artists": [
         {
-          "name": "Paper Route",
-          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
+          "name": "Decyfer Down",
+          "url": "https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B"
         }
       ],
-      "duration_ms": 254866,
-      "name": "Balconies",
-      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
+      "duration_ms": 239552,
+      "name": "Burn Back the Sun",
+      "url": "https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1251,6 +1235,22 @@
       "duration_ms": 515318,
       "name": "No Fear In Love",
       "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Real Emotion",
+        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
+      },
+      "artists": [
+        {
+          "name": "Paper Route",
+          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
+        }
+      ],
+      "duration_ms": 254866,
+      "name": "Balconies",
+      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Faith Over Fear",
-        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Michaels",
-          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
-        }
-      ],
-      "duration_ms": 194298,
-      "name": "Faith Over Fear",
-      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "The Final Battle",
         "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 233686,
       "name": "Ashes to Ashes",
       "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Faith Over Fear",
+        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Michaels",
+          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
+        }
+      ],
+      "duration_ms": 194298,
+      "name": "Faith Over Fear",
+      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "I'm Only Dreaming",
-        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
-      },
-      "artists": [
-        {
-          "name": "Eisley",
-          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
-        }
-      ],
-      "duration_ms": 236969,
-      "name": "Louder Than a Lion",
-      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Wake Me Up",
         "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
       },
@@ -1435,34 +1419,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Angels vs Demons",
-        "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
+        "name": "I'm Only Dreaming",
+        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
       },
       "artists": [
         {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+          "name": "Eisley",
+          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
         }
       ],
-      "duration_ms": 258888,
-      "name": "Angels vs Demons",
-      "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Pulp",
-        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
-      },
-      "artists": [
-        {
-          "name": "Love Ghost",
-          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
-        }
-      ],
-      "duration_ms": 239655,
-      "name": "Pulp",
-      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
+      "duration_ms": 236969,
+      "name": "Louder Than a Lion",
+      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1491,6 +1459,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "Angels vs Demons",
+        "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 258888,
+      "name": "Angels vs Demons",
+      "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "Unite",
         "url": "https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 257466,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Pulp",
+        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
+      },
+      "artists": [
+        {
+          "name": "Love Ghost",
+          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
+        }
+      ],
+      "duration_ms": 239655,
+      "name": "Pulp",
+      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
     },
     {
       "added_at": "2023-08-04 12:11:34",

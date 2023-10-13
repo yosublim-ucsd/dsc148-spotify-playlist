@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Dubdogz
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,876 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,436 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Dance](https://open.spotify.com/track/2MsjElxTVXkpt1w5ujRxvC) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Dance](https://open.spotify.com/album/3MTZEOI0xmQtguhQ0y4AiU) | 2:28 |
 | 50 | [Love Goes](https://open.spotify.com/track/3uAFwegcb4Vavx5BNgzXT9) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [Jae Walters](https://open.spotify.com/artist/2kAm3LwfVyqbufmusOcanD) | [Love Goes](https://open.spotify.com/album/3vGHDvBv1PAtzQCnD00eAO) | 3:21 |
 
-Snapshot ID: `MCxmZGE1ZTRjZGVkYjE3ZTczZmRmYmY0YTU5Y2FjNzA2NDI1MDY5Njli`
+Snapshot ID: `MCxlN2U0NWExZmNkZTg2MmVmNjEzOTdlNTUyNzYxY2E3M2Y5N2UyNTZh`

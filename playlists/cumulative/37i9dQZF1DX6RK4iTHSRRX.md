@@ -4,7 +4,7 @@
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-97 songs - 3 hr 55 min
+98 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Coventry Carol](https://open.spotify.com/track/2E58NGSvZRVE94PY8fpCHZ) | [David Snellbacher](https://open.spotify.com/artist/599FWOk7IwAvQSkkTYV2p4) | [All Acoustic Christmas](https://open.spotify.com/album/4O52UOM58x3bRdIZDPomF8) | 3:26 | 2021-12-22 |  |
 | [Deck The Halls](https://open.spotify.com/track/27vCWK2IVbhahTwnw5nhrW) | [Aaron Larget\-Caplan](https://open.spotify.com/artist/3SQ8wM04jpHcSbPM6Rl2BL) | [A Guitar Holiday](https://open.spotify.com/album/5fIhvb26J7V639RThl2t0X) | 1:52 | 2021-12-22 |  |
 | [Ding Dong Merrily High](https://open.spotify.com/track/2Dyf9xAvNTnv6kl8PxSDMN) | [Emma Mann Lee](https://open.spotify.com/artist/5qidU3ekPOWXD3I7qzI18Y) | [Ding Dong Merrily High](https://open.spotify.com/album/1f6UoUJCV7cyPZ4WPLI9SL) | 2:44 | 2021-12-22 |  |
+| [Do You Want to Build a Snowman](https://open.spotify.com/track/25RqCzdrL6O6OFahC1sFqk) | [Taylor Bernette](https://open.spotify.com/artist/7vHCdssDmnIs4w9Q3osvKV) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 1:46 | 2023-10-13 |  |
 | [Fairytale of New York](https://open.spotify.com/track/08YmAqEDTXRBoxYfkxqMYE) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Fairytale of New York](https://open.spotify.com/album/58CgzG5yqqtNrdcbp3TmaA) | 3:07 | 2021-12-22 |  |
 | [Feliz Navidad](https://open.spotify.com/track/1vWVGELREX5WZKcjMNZaa6) | [Chris Richter](https://open.spotify.com/artist/2Salm1AJWZ4jsIX2SLLZDi) | [Acoustic Christmas Songs: 40 Holiday Favorites Arranged for Instrumental Classical Guitar](https://open.spotify.com/album/32ba7omgonaVctekBdymyH) | 2:29 | 2021-12-22 | 2023-09-14 |
 | [Feliz Navidad](https://open.spotify.com/track/3xvRbdVCBPoOD1q0381Hbr) | [Denis Raum](https://open.spotify.com/artist/04326aFqeHuCMcdFVI66EZ) | [Christmas Guitar](https://open.spotify.com/album/7FetKTnSUViylCu4GCi79T) | 2:59 | 2022-11-11 |  |

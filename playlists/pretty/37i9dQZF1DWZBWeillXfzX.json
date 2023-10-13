@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 20463,
+  "num_followers": 20482,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzRiMDhjMTYyZGMwYzUyMGJmYTJmMGY3MjFlY2JiZWNmOTkwMmM4",
+  "snapshot_id": "MCwwOTA3MjI4OTgwM2FiZmY0NjY4OTUwMmU4MDczNmM5Y2Q4MzkzMTk2",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -501,6 +501,22 @@
       "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
     },
     {
+      "added_at": "2021-04-27 23:04:41",
+      "album": {
+        "name": "Raisin' Cain",
+        "url": "https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY"
+      },
+      "artists": [
+        {
+          "name": "Chris Cain",
+          "url": "https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
+    },
+    {
       "added_at": "2020-10-21 17:37:12",
       "album": {
         "name": "Ashes & Dust",
@@ -519,22 +535,6 @@
       "duration_ms": 446346,
       "name": "Coal Tattoo",
       "url": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
-    },
-    {
-      "added_at": "2021-04-27 23:04:41",
-      "album": {
-        "name": "Raisin' Cain",
-        "url": "https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY"
-      },
-      "artists": [
-        {
-          "name": "Chris Cain",
-          "url": "https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -587,18 +587,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA"
+        "name": "The Outsider",
+        "url": "https://open.spotify.com/album/1FhG7Y39Kl943GMX5ftL5I"
       },
       "artists": [
         {
-          "name": "TORA",
-          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+          "name": "Davy Knowles",
+          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
         }
       ],
-      "duration_ms": 180583,
-      "name": "Cry for Me",
-      "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
+      "duration_ms": 216552,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/5XXZm9gKlhJYXONpvzPWQ1"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -639,18 +639,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "The Outsider",
-        "url": "https://open.spotify.com/album/1FhG7Y39Kl943GMX5ftL5I"
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA"
       },
       "artists": [
         {
-          "name": "Davy Knowles",
-          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
+          "name": "TORA",
+          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
         }
       ],
-      "duration_ms": 216552,
-      "name": "Uprising",
-      "url": "https://open.spotify.com/track/5XXZm9gKlhJYXONpvzPWQ1"
+      "duration_ms": 180583,
+      "name": "Cry for Me",
+      "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
     },
     {
       "added_at": "2020-10-21 17:37:12",

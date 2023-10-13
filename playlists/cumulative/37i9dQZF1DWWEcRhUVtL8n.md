@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: hemlocke springs
 
-1,687 songs - 3 day 16 hr 53 min
+1,688 songs - 3 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -739,6 +739,7 @@
 | [I Live In Patterns \(feat\. Alix Page\)](https://open.spotify.com/track/7LDHQfiTWtQ4VMJA1Cm7Vv) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc), [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [I Live In Patterns \(feat\. Alix Page\)](https://open.spotify.com/album/1F97dMZ1k8BwYp9H9bNswN) | 3:42 | 2022-12-07 | 2022-12-22 |
 | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A), [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R) | 3:42 | 2021-10-22 | 2022-08-06 |
 | [I Love You So \- King Henry Remix](https://open.spotify.com/track/0F6XcWEzymSracgq12pOXX) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8), [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [I Love You So \(King Henry Remix\)](https://open.spotify.com/album/7mGp8czi0fTiBsg7xq6wMD) | 3:13 | 2022-01-07 | 2022-07-23 |
+| [I Met God](https://open.spotify.com/track/6v9CIwn1623LQd9x6qXodk) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [I Met God](https://open.spotify.com/album/3TUtl9BQPfP4kWqXveAyv6) | 4:22 | 2023-09-22 |  |
 | [I Miss When I Smelled Like You](https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [I Miss When I Smelled Like You](https://open.spotify.com/album/0L0s3OfgFfFoHBlk1A07WH) | 3:51 | 2022-06-14 | 2022-08-13 |
 | [I Miss You](https://open.spotify.com/track/4QVIZ1C5fOvlwVaWywkkHz) | [Abigail Fierce](https://open.spotify.com/artist/24q2VAybFrs4Lzy0eEnXga) | [I Miss You](https://open.spotify.com/album/3XtttQ1KmntgU5cx1wOmW2) | 3:30 | 2022-01-07 | 2022-04-15 |
 | [I Miss You, I'm Sorry](https://open.spotify.com/track/2sFFfkOzS68g4KCsTBeQdZ) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [I Miss You, I'm Sorry](https://open.spotify.com/album/4MdfuJD1AnnogWlEtcpayM) | 3:31 | 2020-10-16 | 2021-05-23 |
@@ -1585,7 +1586,7 @@
 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 | 2021-02-23 | 2021-02-26 |
 | [virtual reality](https://open.spotify.com/track/7wWqAGY1k2cr1ntffgBBH1) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [virtual reality](https://open.spotify.com/album/3I8QGm5k3zW9MU5alzXI2c) | 2:41 | 2021-02-28 | 2021-12-29 |
 | [Virtually Anything \(feat\. Sophie Meiers\)](https://open.spotify.com/track/2g9bvABQeN7pNCFJkAo0d1) | [GRANDMA](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [Virtually Anything \(feat\. Sophie Meiers\)](https://open.spotify.com/album/7A4X3EQsPoLwpnwl7EO7Ga) | 2:26 | 2020-10-13\* | 2020-10-16 |
-| [VOYCONTODO](https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [VOYCONTODO](https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy) | 2:17 | 2023-08-25 |  |
+| [VOYCONTODO](https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [VOYCONTODO](https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy) | 2:17 | 2023-08-25 | 2023-10-13 |
 | [Wait](https://open.spotify.com/track/3cZghnx0vGbhMgPtSSNKWG) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Rancho Catastrophe](https://open.spotify.com/album/5mEz2wLWBXDB76mAv5qW6T) | 3:07 | 2020-11-20 | 2021-05-28 |
 | [Waiting](https://open.spotify.com/track/7JfqyQ8JSRve0oXhbH1Y8m) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Waiting](https://open.spotify.com/album/3dDEzizNaiMilGP4dHFNUn) | 2:39 | 2020-11-10 | 2021-01-15 |
 | [Wake Me up When My 20's End](https://open.spotify.com/track/1Un2pcWyuv5cbQpPX1mu8X) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Wake Me up When My 20's End](https://open.spotify.com/album/7cNEaCkk9aR3DeTXxyYgID) | 3:14 | 2022-04-15 | 2022-04-18 |

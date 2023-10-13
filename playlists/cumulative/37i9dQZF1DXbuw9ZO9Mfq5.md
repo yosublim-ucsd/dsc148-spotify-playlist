@@ -4,7 +4,7 @@
 
 > Nominated songs & artists for the 54th Annual GMA <a href="https://doveawards.com/">Dove Awards.</a> Tune in to the awards on Friday, 10/20/23 at 8 pm and 10 pm ET exclusively on TBN & the TBN app! Cover: Host <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells<a>
 
-133 songs - 10 hr 8 min
+134 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Good & Loved \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/4n4cx6whB4gXfFAJ9gUewi) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Broken Record](https://open.spotify.com/album/3KvTiS9JDUb7IR1xOWl9Wj) | 9:31 | 2021-08-24 | 2023-09-27 |
 | [Good God Almighty](https://open.spotify.com/track/4Wea9K8KRTsrlfIks5yepP) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 3:11 | 2021-08-24 | 2023-09-27 |
 | [Good Morning Mercy](https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Good Morning Mercy](https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc) | 3:10 | 2023-09-26 |  |
-| [Goodbye Ole Me](https://open.spotify.com/track/0INmfgwSQHFbkvTBdlyAgU) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc) | 2:01 | 2023-09-26 |  |
+| [Goodbye Ole Me](https://open.spotify.com/track/0INmfgwSQHFbkvTBdlyAgU) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc) | 2:01 | 2023-09-26 | 2023-10-13 |
+| [Goodbye Ole Me](https://open.spotify.com/track/1bw0pKdQVY17dmevzVioKY) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj) | 2:01 | 2023-09-26 |  |
 | [Goodness of God \- Live](https://open.spotify.com/track/6vXOAkNQQ1KLmnC7vGYA0c) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 4:57 | 2023-09-26 |  |
 | [Gratitude](https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:37 | 2023-09-26 |  |
 | [Gratitude \- Radio Version](https://open.spotify.com/track/6ujcANrreKP6PMXE9vGalA) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Gratitude \(Radio Version\)](https://open.spotify.com/album/0wiU7QehvsvZye4j644YX3) | 3:55 | 2023-09-26 |  |

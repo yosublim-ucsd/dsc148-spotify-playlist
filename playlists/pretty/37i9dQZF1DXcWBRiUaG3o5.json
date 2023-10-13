@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1318247,
+  "num_followers": 1311085,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGQxZmM1MmZmOGVhZjk4ZWMwMjUxY2I0ZTk3MDhkYzRjNGM3MmVk",
+  "snapshot_id": "MCxkOTdkYzcwYTcwMWM1YzJlMjY1Y2E4MTE0YzViMGU1NDIwMjg5YmQ1",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Before the Sun",
-        "url": "https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2"
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
       },
       "artists": [
         {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
         }
       ],
-      "duration_ms": 168853,
-      "name": "Before the Sun",
-      "url": "https://open.spotify.com/track/5g54tKWuCOrHmLppzxzQrt"
+      "duration_ms": 195845,
+      "name": "Drinking Song",
+      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Before the Sun",
+        "url": "https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 168853,
+      "name": "Before the Sun",
+      "url": "https://open.spotify.com/track/5g54tKWuCOrHmLppzxzQrt"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Nocturne EP",
         "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 268626,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "I Need to Start a Garden",
-        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
-      },
-      "artists": [
-        {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
-        }
-      ],
-      "duration_ms": 195845,
-      "name": "Drinking Song",
-      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
         }
       ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
+      "duration_ms": 189506,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         }
       ],
-      "duration_ms": 189506,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Song For The Thankful",
-        "url": "https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM"
-      },
-      "artists": [
-        {
-          "name": "Avi Kaplan",
-          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
-        }
-      ],
-      "duration_ms": 234799,
-      "name": "Song For The Thankful",
-      "url": "https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Under Dusk",
         "url": "https://open.spotify.com/album/6P2il2hKvAhUel4zPM0Dpp"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 219186,
       "name": "Under Dusk",
       "url": "https://open.spotify.com/track/3TbH823KFCLfwo8elqPtpj"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Song For The Thankful",
+        "url": "https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM"
+      },
+      "artists": [
+        {
+          "name": "Avi Kaplan",
+          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
+        }
+      ],
+      "duration_ms": 234799,
+      "name": "Song For The Thankful",
+      "url": "https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Year of the Cartographer",
-        "url": "https://open.spotify.com/album/4xS4qxWSBVXOdqUaClBkW2"
+        "name": "Granny Music",
+        "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
       },
       "artists": [
         {
-          "name": "Quiet Arrows",
-          "url": "https://open.spotify.com/artist/7KRnRH8bRvoX4ebQwHw2EI"
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
         }
       ],
-      "duration_ms": 167413,
-      "name": "Find a Way",
-      "url": "https://open.spotify.com/track/7upud4NlWW4U4C0ngg84qU"
+      "duration_ms": 214013,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1011,6 +1011,22 @@
       "duration_ms": 352240,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/1rwFqSVH8k9ovPHgAxThkN"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Year of the Cartographer",
+        "url": "https://open.spotify.com/album/4xS4qxWSBVXOdqUaClBkW2"
+      },
+      "artists": [
+        {
+          "name": "Quiet Arrows",
+          "url": "https://open.spotify.com/artist/7KRnRH8bRvoX4ebQwHw2EI"
+        }
+      ],
+      "duration_ms": 167413,
+      "name": "Find a Way",
+      "url": "https://open.spotify.com/track/7upud4NlWW4U4C0ngg84qU"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1107,22 +1123,6 @@
       "duration_ms": 307312,
       "name": "Golden (Acoustic)",
       "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Granny Music",
-        "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "God I Hope This Year Is Better Than the Last",
-        "url": "https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 236849,
-      "name": "God I Hope This Year Is Better Than The Last",
-      "url": "https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Sweet Return",
         "url": "https://open.spotify.com/album/3SVbamqXTzLhP9x6yDeHSK"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 135077,
       "name": "Sweet Return",
       "url": "https://open.spotify.com/track/5nLX5d1k44smyu9OT7tydf"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "God I Hope This Year Is Better Than the Last",
+        "url": "https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 236849,
+      "name": "God I Hope This Year Is Better Than The Last",
+      "url": "https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Sang About It",
-        "url": "https://open.spotify.com/album/4mczmDqhr8dVQIQP8mdBJZ"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        }
-      ],
-      "duration_ms": 133786,
-      "name": "Sang About It",
-      "url": "https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Aldous Harding",
         "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
       },
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Sang About It",
+        "url": "https://open.spotify.com/album/4mczmDqhr8dVQIQP8mdBJZ"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "duration_ms": 133786,
+      "name": "Sang About It",
+      "url": "https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "In My Garden",
         "url": "https://open.spotify.com/album/0ECV8Ah8uUGnJxPjCOjDpe"
       },
@@ -1615,6 +1615,22 @@
       "duration_ms": 186560,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Tragedy Reel",
+        "url": "https://open.spotify.com/album/5YYAGPTggoqXxidTTb7AgM"
+      },
+      "artists": [
+        {
+          "name": "Fog Lake",
+          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
+        }
+      ],
+      "duration_ms": 201028,
+      "name": "Catacombs",
+      "url": "https://open.spotify.com/track/2SE7iLlDGwXFHdIj256n7O"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1635,22 +1651,6 @@
       "duration_ms": 198313,
       "name": "Ain't No Grave (Sparse)",
       "url": "https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Tragedy Reel",
-        "url": "https://open.spotify.com/album/5YYAGPTggoqXxidTTb7AgM"
-      },
-      "artists": [
-        {
-          "name": "Fog Lake",
-          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
-        }
-      ],
-      "duration_ms": 201028,
-      "name": "Catacombs",
-      "url": "https://open.spotify.com/track/2SE7iLlDGwXFHdIj256n7O"
     }
   ],
   "unique_name": "Evening Acoustic",

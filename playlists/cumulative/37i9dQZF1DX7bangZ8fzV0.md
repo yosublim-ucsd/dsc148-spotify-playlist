@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5?si=pk0hGHdJQMKTKVFyaPULLA">Karlien Van Jaarsveld</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=rDYUkxzAQ2KKoae81cY4KA">Riaan Benadé</a>
 
-174 songs - 9 hr 44 min
+175 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bietjie Benoni](https://open.spotify.com/track/5JGkomhAMrzfikSR4BGuYh) | [Lianie May](https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B) | [Bietjie Benoni](https://open.spotify.com/album/2ulADrlXBpiPp6fTeI9pl4) | 3:23 | 2022-04-28 |  |
 | [Boer In My Hart](https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Boer In My Hart](https://open.spotify.com/album/4JL1ZXeecKOOsbZFRJnuqj) | 3:50 | 2023-08-10 |  |
 | [Boerepompie \(feat\. Snotkop\)](https://open.spotify.com/track/6bQrPl31SAzC5bepMr7vSp) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Boerepompie \(feat\. Snotkop\)](https://open.spotify.com/album/2Cu7dy6YFbDGrDzJuPzgLN) | 3:42 | 2023-03-09 | 2023-03-18 |
+| [Boksemdais](https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Boksemdais](https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0) | 3:08 | 2023-10-12 |  |
 | [Bokswyn](https://open.spotify.com/track/4ZdEKnyBbsxJf0FRd3rTb5) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Bokswyn](https://open.spotify.com/album/0AUEv3KyWp0AGzlxq0sjud) | 3:09 | 2022-08-18 |  |
 | [Bosveld Vakansie](https://open.spotify.com/track/6LHiWLGfFYRV9iUCrcC2Gf) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Sing Hoop Weerklink](https://open.spotify.com/album/38dU50ugb1c3kWmrdJqUg8) | 3:32 | 2022-11-10 | 2022-12-09 |
 | [Bou Aan 'n Vrou](https://open.spotify.com/track/5JifoftIfvhWm5UQtCKzLL) | [Minke Brits](https://open.spotify.com/artist/47lU4Bj1lkJDJk0HfCkA6x) | [Bou Aan 'n Vrou](https://open.spotify.com/album/488JiMZH1vN3E3Jfq5Vr6W) | 3:43 | 2023-03-16 | 2023-04-07 |
@@ -37,7 +38,7 @@
 | [Dagdrome in Suburbia](https://open.spotify.com/track/1K9B9JRjtUe6bVVOv8Bw1X) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Dagdrome in Suburbia](https://open.spotify.com/album/7HUBQlGEE0eQ77zIT6Yz40) | 3:11 | 2023-03-09 | 2023-04-14 |
 | [Dans Met Gevaar](https://open.spotify.com/track/4EPTBSsuBCIiIjl4Dt4Aof) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Dans Met Gevaar](https://open.spotify.com/album/1QDF3wxfhwDJIYrXf4vMEV) | 4:09 | 2022-12-22 | 2023-03-31 |
 | [Diana](https://open.spotify.com/track/6bcUztS91zHtPE9uJ2JIL2) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Diana](https://open.spotify.com/album/5UlvfJZV9qoZA6Ik3xXlbE) | 3:30 | 2023-05-25 |  |
-| [Die Bokmasjien](https://open.spotify.com/track/3IgEWo5IVygGPj1gIXGnEK) | [Leon Schuster](https://open.spotify.com/artist/39RqxQROFqqcfA4TJmKgbs) | [Die Bokmasjien](https://open.spotify.com/album/7mAkMSrrW44f9SbtVv5oZm) | 3:46 | 2023-09-15 |  |
+| [Die Bokmasjien](https://open.spotify.com/track/3IgEWo5IVygGPj1gIXGnEK) | [Leon Schuster](https://open.spotify.com/artist/39RqxQROFqqcfA4TJmKgbs) | [Die Bokmasjien](https://open.spotify.com/album/7mAkMSrrW44f9SbtVv5oZm) | 3:46 | 2023-09-15 | 2023-10-13 |
 | [Die Dansvloer](https://open.spotify.com/track/2bXohPFI2yPrHTlCifvDhy) | [Janie Bay](https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM) | [Die Dansvloer](https://open.spotify.com/album/6H59UrYa3cmFGsd5INDVkx) | 3:04 | 2023-02-02 | 2023-04-21 |
 | [Die Rower](https://open.spotify.com/track/2V2nGO3KiIXZunNZjIiPY4) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Die Rower](https://open.spotify.com/album/5MRXndYHbRTxLhROnjpeoO) | 4:15 | 2023-09-21 |  |
 | [Dina](https://open.spotify.com/track/5qA6bUnDzyLDbyAlH4U7vV) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:16 | 2023-03-09 |  |

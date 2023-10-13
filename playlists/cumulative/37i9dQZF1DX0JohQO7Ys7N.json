@@ -874,7 +874,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 199090,
       "name": "I Like",
       "url": "https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF"
@@ -1048,6 +1048,28 @@
       "duration_ms": 187851,
       "name": "Jahera",
       "url": "https://open.spotify.com/track/3a0RyTh7kp57YxE4BtjpFV"
+    },
+    {
+      "album": {
+        "name": "Jioni",
+        "url": "https://open.spotify.com/album/2KLjotalInooY3FMPxYnFD"
+      },
+      "artists": [
+        {
+          "name": "Kinoti",
+          "url": "https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm"
+        },
+        {
+          "name": "Ethan Muziki",
+          "url": "https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234545,
+      "name": "Jioni",
+      "url": "https://open.spotify.com/track/5QSs2eM32gab8J9yjp2O8w"
     },
     {
       "album": {
@@ -1883,6 +1905,24 @@
     },
     {
       "album": {
+        "name": "The Love That Was",
+        "url": "https://open.spotify.com/album/6Y5X4f4tdTW6RCeQyzL3ZC"
+      },
+      "artists": [
+        {
+          "name": "Visser O'Brien",
+          "url": "https://open.spotify.com/artist/0GIKRKygeFQpKi12hfidcv"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216642,
+      "name": "Pick Me Up",
+      "url": "https://open.spotify.com/track/5s5cXS6FGVgUpKnvkzPznW"
+    },
+    {
+      "album": {
         "name": "Heart to Hurt",
         "url": "https://open.spotify.com/album/4QEJSaRYujs6FtiF7gpctX"
       },
@@ -1894,7 +1934,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 239500,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/6ynowQEXMq0CmE1PaWwlnz"

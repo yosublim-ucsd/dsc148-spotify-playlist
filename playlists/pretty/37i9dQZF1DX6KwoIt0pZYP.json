@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 200322,
+  "num_followers": 200505,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWY2YTZmMDBhNmE4NjA1MmU2ZDM3MTk3M2VmMzExNDdjZDA3N2E3",
+  "snapshot_id": "MCxkNzExMWFmZWIyZTJiNmM0YzUzYjdhYzZlNDA4ODJiNDM0MDAzNjVh",
   "tracks": [
     {
       "added_at": "2023-10-06 02:07:14",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-10-06 02:07:14",
       "album": {
-        "name": "Toast",
-        "url": "https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb"
-      },
-      "artists": [
-        {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s"
-    },
-    {
-      "added_at": "2023-10-06 02:07:14",
-      "album": {
         "name": "your love",
         "url": "https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 155923,
       "name": "your love",
       "url": "https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN"
+    },
+    {
+      "added_at": "2023-10-06 02:07:14",
+      "album": {
+        "name": "Toast",
+        "url": "https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb"
+      },
+      "artists": [
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s"
     },
     {
       "added_at": "2023-10-06 02:07:14",

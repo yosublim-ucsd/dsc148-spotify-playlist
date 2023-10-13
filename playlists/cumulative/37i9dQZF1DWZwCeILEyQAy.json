@@ -138,6 +138,24 @@
     {
       "album": {
         "name": "6000 Degrees (AH HA)",
+        "url": "https://open.spotify.com/album/4ZjzeyERuwR39NcUmg95S8"
+      },
+      "artists": [
+        {
+          "name": "$hyfromdatre",
+          "url": "https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102872,
+      "name": "6000 Degrees (AH HA)",
+      "url": "https://open.spotify.com/track/5XFGYtybPWAP90N7gEVpwc"
+    },
+    {
+      "album": {
+        "name": "6000 Degrees (AH HA)",
         "url": "https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH"
       },
       "artists": [
@@ -148,7 +166,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 102872,
       "name": "6000 Degrees (AH HA)",
       "url": "https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG"
@@ -8779,6 +8797,24 @@
     },
     {
       "album": {
+        "name": "Wassup Gway",
+        "url": "https://open.spotify.com/album/0lBc6xsaXgtiFrcy103fEY"
+      },
+      "artists": [
+        {
+          "name": "FamousSally & YB",
+          "url": "https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144961,
+      "name": "Wassup Gway",
+      "url": "https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu"
+    },
+    {
+      "album": {
         "name": "Wassup Gwayy",
         "url": "https://open.spotify.com/album/1RlJJaItCwvPI1qkIfsJax"
       },
@@ -8790,7 +8826,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 144383,
       "name": "Wassup Gwayy",
       "url": "https://open.spotify.com/track/5CQ0tp4ZdSrzj2ev9yieVV"

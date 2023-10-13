@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-219 songs - 20 hr 15 min
+220 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Not Moved](https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z) | 4:33 | 2023-01-27 |  |
 | [Not Moved](https://open.spotify.com/track/6bvQPwpiGkvhwXq12f429q) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/11WIHYBbynfg1VwUlmHshG) | 4:33 | 2022-06-30 | 2023-02-15 |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 | 2023-06-30 |  |
-| [Oceans \(Where Feet May Fail\) \- Redux](https://open.spotify.com/track/4oxHDhN1my6y0Isk2k7GsV) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(X\)](https://open.spotify.com/album/2XKmrW38QMmkXJqn9SgBLR) | 8:11 | 2023-09-15 |  |
+| [Oceans \(Where Feet May Fail\) \- Redux](https://open.spotify.com/track/4oxHDhN1my6y0Isk2k7GsV) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(X\)](https://open.spotify.com/album/2XKmrW38QMmkXJqn9SgBLR) | 8:11 | 2023-09-15 | 2023-10-13 |
 | [Odo Kese](https://open.spotify.com/track/0LFf0DV7PObhqDRNMHC0RA) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [Odo Kese](https://open.spotify.com/album/790ALtbGXPJ1W0BwLnWcks) | 4:41 | 2022-07-14 | 2022-11-19 |
 | [Ogo](https://open.spotify.com/track/74cYpHbbUTJfDgu1yETDZf) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Ogo](https://open.spotify.com/album/0FR8yTV3mlUHExeORoCCWS) | 5:36 | 2022-06-30 | 2023-04-15 |
 | [Oh My Soul](https://open.spotify.com/track/0uQfatIe71HRJHJrBdtlNc) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Voice of Truth](https://open.spotify.com/album/5g3V6zzN6xNcdPzJOaak14) | 4:23 | 2023-09-01 |  |
@@ -175,6 +175,7 @@
 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 | 2023-06-30 |  |
 | [Satisfy](https://open.spotify.com/track/6DGi6J7yowxdGkzWBuXa28) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Satisfy](https://open.spotify.com/album/3fxGuECzrTfEaPpQOOHbUh) | 2:07 | 2022-06-30 | 2023-02-11 |
 | [Savior](https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Savior](https://open.spotify.com/album/0xDS06ehDdWLIrKhq4tSvs) | 2:33 | 2022-09-19 | 2023-01-20 |
+| [Scandal Of Grace \- Live At Red Rocks](https://open.spotify.com/track/2Xa7XYHeb62XLMRJShKr2L) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [Zion \(X\)](https://open.spotify.com/album/5cuXbASACaEmO4TmrKn5yV) | 4:16 | 2023-10-06 |  |
 | [Seasons \- Live At Sound Emporium](https://open.spotify.com/track/62IddVSKvP0DytPSzfm9Xp) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc) | [Songs You Maybe Didn't Know I Wrote And Some You Maybe Did \(Live At Sound Emporium\)](https://open.spotify.com/album/6zkm3hMUBGWTigktv1U4PK) | 4:42 | 2023-09-08 | 2023-09-21 |
 | [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 | 2023-05-12 | 2023-08-14 |
 | [Shine](https://open.spotify.com/track/4wDlHsa0h7kg42T94CWmU2) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Shine](https://open.spotify.com/album/3s9EGrEnTKHlBS24KT2M6K) | 3:14 | 2022-09-30 | 2023-05-11 |

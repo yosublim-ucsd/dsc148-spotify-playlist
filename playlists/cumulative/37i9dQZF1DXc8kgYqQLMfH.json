@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 113656,
       "name": "Bax Glax",
       "url": "https://open.spotify.com/track/4EsEVVF81gV1ilOSltLFbP"
@@ -2474,6 +2474,24 @@
       "duration_ms": 118153,
       "name": "Calm",
       "url": "https://open.spotify.com/track/7b8typZKTFHbGA1jivtORb"
+    },
+    {
+      "album": {
+        "name": "calm the mind",
+        "url": "https://open.spotify.com/album/7ecnD9VzrEx4xaMMfUmf5S"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142791,
+      "name": "calm the mind",
+      "url": "https://open.spotify.com/track/3pBRXJlRx3OwrI0YesboWC"
     },
     {
       "album": {
@@ -5060,7 +5078,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 135010,
       "name": "Echos",
       "url": "https://open.spotify.com/track/7ruubQWd9pge9BwU2kPWpT"
@@ -5314,6 +5332,28 @@
       "duration_ms": 156486,
       "name": "Essence",
       "url": "https://open.spotify.com/track/6TsfMWf0hyOq0ReOC1tPo2"
+    },
+    {
+      "album": {
+        "name": "Eternal Minds",
+        "url": "https://open.spotify.com/album/7Drd5CWkI3dxigj0DVHiLL"
+      },
+      "artists": [
+        {
+          "name": "Dan\u00e6",
+          "url": "https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys"
+        },
+        {
+          "name": "cl\u00f8se2u",
+          "url": "https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140416,
+      "name": "Eternal Minds",
+      "url": "https://open.spotify.com/track/1hI8kgl7nOWmpWDS4TPPqa"
     },
     {
       "album": {
@@ -6488,7 +6528,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 147692,
       "name": "Forgotten Photos",
       "url": "https://open.spotify.com/track/4hvCO4S2yEoIKV30nS7Fhz"
@@ -7739,6 +7779,24 @@
     },
     {
       "album": {
+        "name": "honey sweet",
+        "url": "https://open.spotify.com/album/68VuJvWiekf22ADYco8THc"
+      },
+      "artists": [
+        {
+          "name": "louke's beats",
+          "url": "https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115291,
+      "name": "honey sweet",
+      "url": "https://open.spotify.com/track/6HMReqwhFiDYjXm9Yp008x"
+    },
+    {
+      "album": {
         "name": "Light of Dawn",
         "url": "https://open.spotify.com/album/5oqNd0jD06nuviPzb0fOFE"
       },
@@ -8764,7 +8822,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 152631,
       "name": "Jazzy Whispers",
       "url": "https://open.spotify.com/track/5T5Nn55hw5SMXc0RcJ7C9c"
@@ -9734,7 +9792,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 128571,
       "name": "Like Yesterday",
       "url": "https://open.spotify.com/track/0tIvW9b2qB122R6LW4RGGp"
@@ -12254,7 +12312,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 135652,
       "name": "New Start",
       "url": "https://open.spotify.com/track/63EvcDNHX5y1RKG27xA8MU"
@@ -12642,7 +12700,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 155076,
       "name": "No More",
       "url": "https://open.spotify.com/track/19QV2tu1yq7Zj04E9uBjNo"
@@ -13988,7 +14046,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 117333,
       "name": "Portugal",
       "url": "https://open.spotify.com/track/3veP9Z9IG4gxTa951pgVlN"
@@ -14158,7 +14216,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 110113,
       "name": "Purple",
       "url": "https://open.spotify.com/track/0VGdOE6W9O8D4RoVhO1vb9"
@@ -14390,7 +14448,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 139402,
       "name": "Red Lantern",
       "url": "https://open.spotify.com/track/6YxhKca0Ru2cXocI6esQXN"
@@ -14842,7 +14900,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 121312,
       "name": "Rosso",
       "url": "https://open.spotify.com/track/3pscNS95UxbGBl9JY0SsFP"
@@ -17165,6 +17223,24 @@
     },
     {
       "album": {
+        "name": "Superpuma",
+        "url": "https://open.spotify.com/album/1ZcF39I2TcC5aecOitniNt"
+      },
+      "artists": [
+        {
+          "name": "Lofi Lucy",
+          "url": "https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Superpuma",
+      "url": "https://open.spotify.com/track/5hPil4ReWu21w1f9sWtE23"
+    },
+    {
+      "album": {
         "name": "Surf",
         "url": "https://open.spotify.com/album/66EAjNXod8ux4htXfWsXDj"
       },
@@ -18182,7 +18258,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 104750,
       "name": "Time To Fly",
       "url": "https://open.spotify.com/track/4lnTZHXAvMOuQSeAI4pp8o"

@@ -4,7 +4,7 @@
 
 > Where you at? We outside!
 
-54 songs - 3 hr 51 min
+55 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Ghana](https://open.spotify.com/track/5SCbTbJ5Q8c6eLktMWFqqg) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Phola](https://open.spotify.com/album/30y3OcmLbW8kB6eO9QV3JP) | 5:24 | 2023-09-08 |  |
 | [Ghana Bounce](https://open.spotify.com/track/1AVVencV5yF6KzISmmjUbg) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [What Happens in Lagos](https://open.spotify.com/album/3U8mj36DD0Rv3f3LlT1lrk) | 3:45 | 2023-09-08 |  |
 | [Githurai](https://open.spotify.com/track/1bhXFMTeq9gvBXGpZI5LpG) | [Mr\. Lenny](https://open.spotify.com/artist/5tETuh1p6FPXwPHqHdf5WB), [Mr\. Googz](https://open.spotify.com/artist/5d4BOJk2FraY1wX67nnNp8), [Vinnie Banton](https://open.spotify.com/artist/5OA8lNrPkC0aLCNvEo4POE) | [Best of Kenyan Local Classics 3](https://open.spotify.com/album/5qmcjoEaVsK9KVNOdrVKI5) | 4:42 | 2023-09-08 | 2023-10-10 |
-| [Jericho](https://open.spotify.com/track/6PrImSndUslYTiN77tqlp8) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Omo Charlie Champagne Vol\. 1](https://open.spotify.com/album/0DfMhXwJEtsRauBcpb2rz7) | 3:15 | 2023-09-08 |  |
+| [Jericho](https://open.spotify.com/track/6PrImSndUslYTiN77tqlp8) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Omo Charlie Champagne Vol\. 1](https://open.spotify.com/album/0DfMhXwJEtsRauBcpb2rz7) | 3:15 | 2023-09-08 | 2023-10-13 |
+| [Jericho](https://open.spotify.com/track/1Am00a8Tk3uEaMMToIYNQo) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Omo Charlie Champagne Vol.1](https://open.spotify.com/album/2c8Mf9ScYdKrb9foJiNaGe) | 3:15 | 2023-10-09 |  |
 | [Jinja](https://open.spotify.com/track/2Vmghmiz5piVjU2AbhYqB1) | [Cxnrvd](https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [Rulz](https://open.spotify.com/artist/3dxuyx3F7NkYMg2BfVhG9I), [Ridym](https://open.spotify.com/artist/4Ewa9Ix2mlKs0lkDO2ol9j) | [RWA](https://open.spotify.com/album/4GBAc63hCEwHjRBFApfU0P) | 2:58 | 2023-09-08 |  |
 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 | 2023-09-08 |  |
 | [Kampala](https://open.spotify.com/track/0FApqdxGmmNO6ijZEYbNcH) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW) | [Kampala](https://open.spotify.com/album/3sOQTISPW0P2fJIMq3AFPH) | 2:38 | 2023-09-08 |  |

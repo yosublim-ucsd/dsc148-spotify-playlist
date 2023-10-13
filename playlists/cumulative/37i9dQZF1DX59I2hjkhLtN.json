@@ -889,6 +889,28 @@
     },
     {
       "album": {
+        "name": "Atividade",
+        "url": "https://open.spotify.com/album/2pLgfyIhoZ01kFwnSR8Fmg"
+      },
+      "artists": [
+        {
+          "name": "Krazye Loko",
+          "url": "https://open.spotify.com/artist/4I6Abuoma3TJBURyGNTI1G"
+        },
+        {
+          "name": "CemManha",
+          "url": "https://open.spotify.com/artist/0fbbKfkVWrPRWgjoRa1jxf"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Atividade",
+      "url": "https://open.spotify.com/track/48x1lR1NnXfqJdYceZVU2M"
+    },
+    {
+      "album": {
         "name": "ATL FLOW",
         "url": "https://open.spotify.com/album/7hPqGALjqWWN0iSTNrppDX"
       },
@@ -1293,6 +1315,36 @@
     },
     {
       "album": {
+        "name": "Banzai",
+        "url": "https://open.spotify.com/album/1GvPtB2fOyxkcnWXmkB3Tb"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/1hCGO7VVNrnfdcfGX3aATO"
+        },
+        {
+          "name": "BDK",
+          "url": "https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj"
+        },
+        {
+          "name": "A1onee",
+          "url": "https://open.spotify.com/artist/63ULtQsrcXmae3KSSr31st"
+        },
+        {
+          "name": "Freesesh",
+          "url": "https://open.spotify.com/artist/3VVV1LXTiAx0kDszn9rOlH"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185286,
+      "name": "Banzai",
+      "url": "https://open.spotify.com/track/1gDVF5NsjxmfuAkrv9sLI4"
+    },
+    {
+      "album": {
         "name": "Batman",
         "url": "https://open.spotify.com/album/4826t8Wg7l6wUH02LzUHNY"
       },
@@ -1402,6 +1454,24 @@
       "duration_ms": 232813,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/6i1UomF0hghBwNP1gKh2YK"
+    },
+    {
+      "album": {
+        "name": "Big Poppa",
+        "url": "https://open.spotify.com/album/6z7xEVu8UPNIUge2gSzdUH"
+      },
+      "artists": [
+        {
+          "name": "Nicholas",
+          "url": "https://open.spotify.com/artist/2Y5CUrIyRo9uaUTasckcHB"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216330,
+      "name": "Big Poppa",
+      "url": "https://open.spotify.com/track/3OvhDBI0Au2TDDsS02YcoN"
     },
     {
       "album": {
@@ -1664,7 +1734,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 234929,
       "name": "Cartel",
       "url": "https://open.spotify.com/track/5R7wL9yxS2ScG28eIP2ZXw"
@@ -3680,7 +3750,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 179200,
       "name": "Faz T\u00e3o Bem",
       "url": "https://open.spotify.com/track/6q5DrAd4LELL2gPIoe5mDP"
@@ -4116,6 +4186,24 @@
       "duration_ms": 176104,
       "name": "Fuma\u00e7a Quente",
       "url": "https://open.spotify.com/track/0Sf3ZpUH9YMfqAczuAje5o"
+    },
+    {
+      "album": {
+        "name": "ESTILVS MISTICVS",
+        "url": "https://open.spotify.com/album/0da0siZKs2vXIOEmUnsz1f"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Corona",
+          "url": "https://open.spotify.com/artist/7g0sTWeRrr9xUiBGOkWBWy"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227133,
+      "name": "FUMO NA PANELA",
+      "url": "https://open.spotify.com/track/122syuxBPapmRt9CRXZfMY"
     },
     {
       "album": {
@@ -4935,6 +5023,32 @@
     },
     {
       "album": {
+        "name": "I.G.I",
+        "url": "https://open.spotify.com/album/70BkuhaGcQPUzjwGSprSPv"
+      },
+      "artists": [
+        {
+          "name": "Dote",
+          "url": "https://open.spotify.com/artist/4uAoxHS1E4Hd8KCH8m9aaP"
+        },
+        {
+          "name": "DTM4535",
+          "url": "https://open.spotify.com/artist/41GyohIwX2ngEqFmBKViVj"
+        },
+        {
+          "name": "SomeOne",
+          "url": "https://open.spotify.com/artist/6zxBdkNQMucMYpijGdotmW"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163876,
+      "name": "I.G.I",
+      "url": "https://open.spotify.com/track/6v9BxSZSYJ7crFCaGB0JVQ"
+    },
+    {
+      "album": {
         "name": "IBC",
         "url": "https://open.spotify.com/album/5uzZIVVjB9Rwk87pNnyRuP"
       },
@@ -5212,7 +5326,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 143941,
       "name": "Jack Daniel\u2019s",
       "url": "https://open.spotify.com/track/5enUgwLHANOSzhbsLKpFq7"
@@ -6194,7 +6308,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 171940,
       "name": "MARIPOSA",
       "url": "https://open.spotify.com/track/7iXvDTsQSHA88hLA0j29QX"
@@ -7852,7 +7966,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 213333,
       "name": "n\u00e3o tenho tempo",
       "url": "https://open.spotify.com/track/1wgywA6vpxvJT0MXHzn37c"
@@ -9318,6 +9432,28 @@
       "duration_ms": 160000,
       "name": "Rage",
       "url": "https://open.spotify.com/track/5vT66niXqKQHtW8cD5mQ99"
+    },
+    {
+      "album": {
+        "name": "RALPH LAUREN BLUE",
+        "url": "https://open.spotify.com/album/6N4oQk83JTBNT8BGIK2ozn"
+      },
+      "artists": [
+        {
+          "name": "BDK",
+          "url": "https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj"
+        },
+        {
+          "name": "AET",
+          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268373,
+      "name": "RALPH LAUREN BLUE",
+      "url": "https://open.spotify.com/track/540lH0hhSc2MQn1FKNS8Jb"
     },
     {
       "album": {
@@ -11441,6 +11577,24 @@
     },
     {
       "album": {
+        "name": "Uhhh",
+        "url": "https://open.spotify.com/album/7MEglQk1l4RfMwcgmbRccc"
+      },
+      "artists": [
+        {
+          "name": "Pepinz",
+          "url": "https://open.spotify.com/artist/5RSOOjDzMG5bf6TdM5VOfR"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141620,
+      "name": "Uhhh",
+      "url": "https://open.spotify.com/track/1iZXkSTeRP5bPcOpHfNqSr"
+    },
+    {
+      "album": {
         "name": "Um Brinde",
         "url": "https://open.spotify.com/album/1WUXK28K3aakrN7VZPbc9F"
       },
@@ -12080,7 +12234,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 137406,
       "name": "VROOM",
       "url": "https://open.spotify.com/track/1ZOyOWkGCBAN2U9ZmAppxb"
@@ -12200,7 +12354,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 209500,
       "name": "why?",
       "url": "https://open.spotify.com/track/6IEEdpREFl5OkYGFsKMM6s"

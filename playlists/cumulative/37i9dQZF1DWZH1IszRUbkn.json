@@ -806,7 +806,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-13",
       "duration_ms": 50651,
       "name": "Osos de Paseo",
       "url": "https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex"
@@ -1028,6 +1028,24 @@
       "duration_ms": 239600,
       "name": "Te Creo",
       "url": "https://open.spotify.com/track/7iMwrMRtauAM5EKh4J1Q4i"
+    },
+    {
+      "album": {
+        "name": "Nanas y Canciones para Ni\u00f1os, Vol. 5 (Cantar y Aprender con LittleBabyBum)",
+        "url": "https://open.spotify.com/album/6HfilJnTxnoWW1MA9ZgwiS"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/64eFqyIS1dsTv725lcQ25w"
+        }
+      ],
+      "date_added": "2020-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132925,
+      "name": "Tres Gatitos (Sin Pastel)",
+      "url": "https://open.spotify.com/track/1qq8bfHsFQX6rP1Wz9HOOY"
     },
     {
       "album": {

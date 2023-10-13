@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Geolier
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,917 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,132 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,13 +22,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 12 | [CASA](https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CASA](https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq) | 3:17 |
 | 13 | [X CASO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:35 |
 | 14 | [Lei È...](https://open.spotify.com/track/6VJCsvAbFi0webNvv8zzWZ) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Habitat Cielo](https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc) | 2:44 |
-| 15 | [Avanti](https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Avanti](https://open.spotify.com/album/4c1n4Fmve8p70NESEBivV3) | 2:30 |
-| 16 | [SOGNI D'ORO](https://open.spotify.com/track/2tKH7kT40eTSp8SCf6VKeH) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:37 |
-| 17 | [Aeroplanini Di Carta](https://open.spotify.com/track/5lSUBOoR69N6lbwGySVdSr) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Dasein Sollen](https://open.spotify.com/album/4cpbVkMPzHjWZajKY53SKJ) | 3:44 |
-| 18 | [Nuovi Jeans](https://open.spotify.com/track/0N1pKkjhVwKZWFLF47R1tv) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Real](https://open.spotify.com/album/46DpgdlcIIF9poWbkKmQFc) | 3:29 |
-| 19 | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr) | 2:59 |
-| 20 | [Maltempo](https://open.spotify.com/track/7FZicMWhkxtQxIsV6Y9SZk) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Maltempo](https://open.spotify.com/album/1Jopcn1DSXFQzDvj53uDpw) | 2:44 |
-| 21 | [BLACKOUT](https://open.spotify.com/track/4HKQTz6RoJkFwlFLBAsJqm) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 3:06 |
+| 15 | [Too late](https://open.spotify.com/track/2UKH7wJBVt2tF5JINtOPmZ) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Too late](https://open.spotify.com/album/2wI2mYdlA9BmjRWATm1fjD) | 3:15 |
+| 16 | [Avanti](https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Avanti](https://open.spotify.com/album/4c1n4Fmve8p70NESEBivV3) | 2:30 |
+| 17 | [SOGNI D'ORO](https://open.spotify.com/track/2tKH7kT40eTSp8SCf6VKeH) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:37 |
+| 18 | [Aeroplanini Di Carta](https://open.spotify.com/track/5lSUBOoR69N6lbwGySVdSr) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Dasein Sollen](https://open.spotify.com/album/4cpbVkMPzHjWZajKY53SKJ) | 3:44 |
+| 19 | [Nuovi Jeans](https://open.spotify.com/track/0N1pKkjhVwKZWFLF47R1tv) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Real](https://open.spotify.com/album/46DpgdlcIIF9poWbkKmQFc) | 3:29 |
+| 20 | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr) | 2:59 |
+| 21 | [Maltempo](https://open.spotify.com/track/7FZicMWhkxtQxIsV6Y9SZk) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Maltempo](https://open.spotify.com/album/1Jopcn1DSXFQzDvj53uDpw) | 2:44 |
 | 22 | [Prometto \(feat\. Rkomi & Luchè\)](https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mattoni](https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf) | 3:14 |
 | 23 | [Immortale \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/3UZkuJS1tn3jNYHcxJcNzH) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:20 |
 | 24 | [Cicatrici \(feat\. Tedua\)](https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:12 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 54 | [Lei \(feat\. Bené\)](https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bené](https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:32 |
 | 55 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
 
-Snapshot ID: `MCwxNmRlOGUxYjY2ODcxODEwMmVmOTYyYzUxYTliNjgwZDc3NTUyYmIy`
+Snapshot ID: `MCwwYjNiNGE0MzhjMTA2YWM0ZTFmYTk2ZDAxYTJmNWExZDU2MTQ4YWQ1`

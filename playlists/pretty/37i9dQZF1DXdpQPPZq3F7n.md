@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\. Cover \- Kabir Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,475 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,098,371 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 26 | [Saibo](https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Shor in the City \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2HZl13JCi3PIaqVlIkp4q6) | 3:15 |
 | 27 | [Tumhe Kitna Pyaar Karte \(From "Bawaal"\)](https://open.spotify.com/track/03hJuEQpEQERrHpjcXKWzJ) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Tumhe Kitna Pyaar Karte \(From "Bawaal"\)](https://open.spotify.com/album/20zQZcEhMLsDUn1LhPCEFY) | 5:05 |
 | 28 | [O Bedardeya \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/track/0czcoKJbJt08NqKrvSbbz7) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [O Bedardeya \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/album/7kXEDaT5yy8IUT7Fmqs1i2) | 5:13 |
-| 29 | [Mann Mera](https://open.spotify.com/track/0jA7224piVQUJAm8obiaHG) | [CATO1948](https://open.spotify.com/artist/5UWB8WQR5gxyNqfhmNbXmt) | [Mann Mera](https://open.spotify.com/album/2wAAwh2gWBLIkm7KTfThIi) | 3:18 |
+| 29 | [Mann Mera](https://open.spotify.com/track/3yV2c3cYhkAwSsxAq6nRiv) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Table No\. 21 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Gws1vUsWltRs58x8QuYVQ) | 3:20 |
 | 30 | [Bekhayali](https://open.spotify.com/track/4yMbbysldl7E3WgiaugnwM) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 6:11 |
 | 31 | [Tu Har Lamha \(From "Khamoshiyan"\)](https://open.spotify.com/track/13tg1zpSfWyFQbv09a9LPD) | [Bobby\-Imran](https://open.spotify.com/artist/5HgB3r11CTMckYeopesztP), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tu Har Lamha \(From "Khamoshiyan"\)](https://open.spotify.com/album/376E0BuJNLEggasPjj2MST) | 4:32 |
 | 32 | [Chashni](https://open.spotify.com/track/1ZQFkNNTzooW4lThiC8pg2) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Bharat](https://open.spotify.com/album/6Jl2MfI7pB2hWKvTUc5DbA) | 4:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Tum Hi Ho](https://open.spotify.com/track/56zZ48jdyY2oDXHVnwg5Di) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Aashiqui 2](https://open.spotify.com/album/0Rkv5iqjF2uenfL0OVB8hg) | 4:21 |
 | 75 | [Katra Katra](https://open.spotify.com/track/0FMend2Dt9IUVDDtAPnLxO) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Alone](https://open.spotify.com/album/4yHDudrSH5umdyehifUyJO) | 6:21 |
 
-Snapshot ID: `MCw0ZDc2ZTNhMjIwZjc4NDZlZWYzNmE1Zjc5NWQxNTM0Nzk1ZTVjMjNh`
+Snapshot ID: `MCxhODEyNTY5MDYxYzA4ZWExYTVhODdjOWU3MTY1Mjg5N2JlMzVjYzZl`

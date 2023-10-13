@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-161 songs - 12 hr 27 min
+162 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Visa från Utanmyra](https://open.spotify.com/track/37VD4tD2Y8FqhcGeXkSJGx) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Gyllene Blad Ur Monicas Dagbok](https://open.spotify.com/album/2kJAeAiZ3cS6WQ1dkcv8wT) | 2:45 | 2021-11-08 | 2022-07-29 |
 | [Värmlandsvisan](https://open.spotify.com/track/15ZfBld86GoCxOVgJhz9XM) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Nature Boy](https://open.spotify.com/album/307oTTIMfdG5Yvv24SBgz1) | 2:56 | 2022-06-22 |  |
 | [Värmlandsvisan](https://open.spotify.com/track/2AlHBryGkTFdhCcXWxfMKb) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Värmlandsvisan](https://open.spotify.com/album/0lsjVtRIR5S7Av3J0zY1Ab) | 2:56 | 2021-11-08 | 2022-07-29 |
+| [Västertorps Hjärta](https://open.spotify.com/track/3ROvgS56VoCFcafLOFO6GZ) | [Tonbruket](https://open.spotify.com/artist/5Txp8CzIIEwkALY9agmKpJ) | [Light Wood, Dark Strings](https://open.spotify.com/album/2JSTNVXcog7ywG3iG3xIiG) | 5:58 | 2023-10-13 |  |
 | [Walk and Talk](https://open.spotify.com/track/0V41B4y5ttrA7QqyKzJ9oM) | [Karl Olandersson](https://open.spotify.com/artist/4Sx4xZbzOfZm3aXJ3icVe7) | [Walk and Talk](https://open.spotify.com/album/0g1u4YLCnzvakanT4ZJllC) | 4:20 | 2021-11-08 |  |
 | [What a Wonderful World](https://open.spotify.com/track/5UmSpoIcHl74x58dleXMul) | [Isabella Lundgren](https://open.spotify.com/artist/58Ftd7Tzkeve7Ht36LYL2j), [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [Look for the Silver Lining](https://open.spotify.com/album/5vDSlnXD8tdlY8KmhbizcX) | 3:03 | 2021-11-08 |  |
 | [Whole Foods](https://open.spotify.com/track/2ZWejGOCrCBCh5XWpSRLlM) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Whole Foods](https://open.spotify.com/album/5ayHH5soMQKXwsARFxFIPE) | 6:38 | 2023-04-13 |  |

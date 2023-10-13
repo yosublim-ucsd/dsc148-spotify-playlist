@@ -4,7 +4,7 @@
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-194 songs - 16 hr 13 min
+195 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Nobody Knows You When You're Down And Out \- Live In New York](https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Gold](https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho) | 2:38 | 2022-02-10 |  |
 | [OCT 33 \- Live In Studio](https://open.spotify.com/track/2lKZJgos5LeBRCfRShviWZ) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 5:44 | 2022-02-10 |  |
 | [OCT 33 \- Live In Studio](https://open.spotify.com/track/3xzMHgF7BPoo7Ys0VJRIVf) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [OCT 33 \(Live In Studio\)](https://open.spotify.com/album/6KcBenLJ5rjifhxTdmtZk5) | 5:44 | 2022-02-10 | 2022-07-29 |
-| [On & On \- Live](https://open.spotify.com/track/4QT4TDuorhuBn6ycdQN4sQ) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Live](https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX) | 5:30 | 2022-02-10 |  |
+| [On & On \- Live](https://open.spotify.com/track/4QT4TDuorhuBn6ycdQN4sQ) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Live](https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX) | 5:30 | 2022-02-10 | 2023-10-13 |
 | [Ordinary Day \- Live](https://open.spotify.com/track/3OAe5PVAQBLfAkcHwAGJyh) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [QCBA](https://open.spotify.com/artist/37B0KQjcPVSWjLpOO8ChBb) | [Live at Last](https://open.spotify.com/album/1CiO7szQh4omqmKs2Szfxx) | 6:18 | 2022-02-10 | 2022-07-28 |
 | [Ordinary People \- Live from Spotify Milan](https://open.spotify.com/track/2UGuZUEnJMAcpYd5Xf4R5K) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Sessions](https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE) | 5:08 | 2022-02-10 |  |
 | [Peg \- Live](https://open.spotify.com/track/4Us2AWyR40tWO9mtJiBx44) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Alive In America](https://open.spotify.com/album/66rBZ848b4aO0hCJQF6GGc) | 4:19 | 2022-02-10 |  |
@@ -142,6 +142,7 @@
 | [Say Yes \- Live At The House Of Blues, New Orleans / 2003](https://open.spotify.com/track/54tuUilU05mObbh1Xhqu44) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floacism "Live"](https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa) | 5:56 | 2022-02-10 |  |
 | [Send It On](https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 5:41 | 2022-02-10 | 2023-09-03 |
 | [She's Always In My Hair \- Live at ESNS 2023](https://open.spotify.com/track/2pUS5JQBZDuvGBRuYFAwG6) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [She's Always In My Hair \(Live at ESNS 2023\)](https://open.spotify.com/album/6bHo1AKBDhXx2auV7z3kFi) | 2:47 | 2023-04-06 | 2023-04-25 |
+| [Smile \- Live at Paste](https://open.spotify.com/track/4PNcOEOxdTQjGO4gcWW2zB) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Live at Paste](https://open.spotify.com/album/7jzoFgu5QkIkobI4Tgt7QY) | 3:41 | 2023-10-12 |  |
 | [St\. James Infirmary \- Live/Remastered](https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Live](https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC) | 4:34 | 2022-02-10 |  |
 | [Stand by Me / Chain Gang / Don't Know Much About History / The Happy Song \- Live](https://open.spotify.com/track/4bnDjFR0UZ4QECCGBqj0LI) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Live: 1989 Memphis Music & Heritage Festival](https://open.spotify.com/album/6YQxgANveFPoKUd4gPt6DH) | 11:36 | 2022-02-10 | 2022-07-12 |
 | [State of Mind \(feat\. Raúl Midón\) \- Live](https://open.spotify.com/track/3wxagevxnWNHxwWLKNyr50) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Raul Midón](https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE) | [A Night in Monte\-Carlo \(Live\)](https://open.spotify.com/album/705bq5sKnKPefFvVhobQTG) | 6:23 | 2022-02-10 | 2022-07-29 |

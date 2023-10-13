@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-529 songs - 1 day 5 hr 47 min
+531 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Falcon](https://open.spotify.com/track/11NbL1wxxGZUqvHK46K1hD) | [Cherry Flavored Antacids](https://open.spotify.com/artist/45WhFmbNarLeiAJr9YElJ7) | [Falcon](https://open.spotify.com/album/2SF71EDbFOE3EkQ7skpqth) | 5:41 | 2022-08-02 | 2022-09-19 |
 | [Fall In](https://open.spotify.com/track/6uEy133no179YW6ulcmalc) | [Kidswaste](https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Fall In](https://open.spotify.com/album/0O87u3ZNG6B7jXiRh9TOoz) | 4:22 | 2022-03-30 |  |
 | [fallforu](https://open.spotify.com/track/4PHm7uYgyYNQ5Kl2t4MU3D) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [intothedeep](https://open.spotify.com/album/39HS7epzzW2dowDQWJP047) | 2:36 | 2022-08-11 | 2022-09-17 |
+| [Fallin'](https://open.spotify.com/track/5S50KnoWF8B39yp0DziC7U) | [Late Night Therapy](https://open.spotify.com/artist/2mlllc3fdsSFJHJDBcg33I) | [Fallin'](https://open.spotify.com/album/5u0iectTVN6O01g7ca1yCt) | 4:32 | 2023-10-12 |  |
 | [Falling In Love](https://open.spotify.com/track/1qkGT5wBhfWwbbHtkm2GMZ) | [Modapit](https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb) | [Falling In Love](https://open.spotify.com/album/4RM7dK7ScgLW1UG1k8kInQ) | 3:25 | 2023-03-03 | 2023-07-20 |
 | [Fantasy](https://open.spotify.com/track/3vyKrUUszxdu0A5Ri9T68t) | [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Taste.test](https://open.spotify.com/album/12oUL69GdPvCu3D3jfyT4F) | 3:15 | 2023-02-23 | 2023-07-20 |
 | [far gone](https://open.spotify.com/track/0vb4In2ytG8ZHsoY59ROA7) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [far gone](https://open.spotify.com/album/4Es18yYMmB0hcsCHpN6TqL) | 2:32 | 2023-03-30 | 2023-04-01 |
@@ -234,7 +235,7 @@
 | [HydroPlane](https://open.spotify.com/track/639R1wABWk9uwfHUUpAJcx) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [HydroPlane](https://open.spotify.com/album/50gNjUaJI0gIJ6uiX95aRQ) | 3:28 | 2023-08-16 |  |
 | [Hyperdust \- Reimagined](https://open.spotify.com/track/0Jh1vCA3I7yBpoKJumWdiq) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Hyperdust \(Reimagined\)](https://open.spotify.com/album/5aGVY0IyU7KOe2v9mLAKsY) | 3:58 | 2023-10-09 |  |
 | [Hysteria](https://open.spotify.com/track/4O3acCqL5poIvUl1px4WES) | [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Hysteria](https://open.spotify.com/album/3zOh32D5fBrhgPMUnKwyiE) | 3:49 | 2022-02-07 | 2022-03-10 |
-| [i can see](https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [i can see](https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A) | 3:49 | 2023-09-22 |  |
+| [I Can See](https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [I Can See](https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A) | 3:49 | 2023-09-22 |  |
 | [I Don't Believe You](https://open.spotify.com/track/212EdVzDMfSoUolXGQ4iTT) | [Jerome Blazé](https://open.spotify.com/artist/4Xugx9BOIAE45eFzvzEN6e) | [I Don't Believe You](https://open.spotify.com/album/4Am00AmCdt7qCMifgAmtcJ) | 3:30 | 2022-02-28 | 2022-03-31 |
 | [I Kill Everything](https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [I Kill Everything](https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd) | 3:36 | 2022-10-05 | 2023-06-23 |
 | [i luv ur smile](https://open.spotify.com/track/4rX8Np5NElrnKeCd4KDNbD) | [Harrisun](https://open.spotify.com/artist/7Fs3Yj5hp3rvtj9JSXYiSa), [Teddy Roxpin](https://open.spotify.com/artist/0MZ2kdIMm8GrHOzPm1QK1A) | [i luv ur smile](https://open.spotify.com/album/19ADS40GUeLlNCa7Rbk2gP) | 4:07 | 2023-08-11 |  |
@@ -307,6 +308,7 @@
 | [minnesota is a place that exists](https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [minnesota is a place that exists](https://open.spotify.com/album/5NnsC01LT1Z79Sw0QQf46Q) | 2:18 | 2022-06-24 | 2022-11-23 |
 | [MONEY ON THE DASH](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 2:25 | 2023-01-26 |  |
 | [Moonlight \(feat\. Gianni Taylor\)](https://open.spotify.com/track/6u2XCvRMgI7kQZ32RbiAbk) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [GIANNI TAYLOR](https://open.spotify.com/artist/3fNJYQvnucBeI9BfNwMC5i) | [Moonlight \(feat\. Gianni Taylor\)](https://open.spotify.com/album/1faudGW99AwyzM2vIZxYzt) | 2:53 | 2023-01-27 | 2023-08-18 |
+| [Moth Love](https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Moth Love](https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr) | 3:22 | 2023-10-12 |  |
 | [Motion](https://open.spotify.com/track/09Gw3c0YxUGPVCrj2GXbSF) | [Electric Polar Bears](https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI) | [Motion](https://open.spotify.com/album/3RnXk2590lJ1zz4l2otNOZ) | 3:02 | 2023-09-06 | 2023-09-26 |
 | [Move Up](https://open.spotify.com/track/1wyg0x1IvNNSWv8JWxKpRn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Move Up](https://open.spotify.com/album/0iX0mDDPY7A5ayoPza4tpK) | 2:59 | 2022-02-11 | 2022-03-10 |
 | [Movin' On](https://open.spotify.com/track/5gVS85OUfWUX2kaORjc5J3) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren), [Majeur Mineur](https://open.spotify.com/artist/3IMSh6UlcrbKXwG1lARp5j), [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb) | [Movin' On](https://open.spotify.com/album/4KXrOxYRj4OsVIgixVU30l) | 3:24 | 2022-06-24 | 2023-07-20 |

@@ -1,12 +1,12 @@
 {
   "description": " songs that feel like new and old friends, all stitched together.",
-  "num_followers": 174779,
+  "num_followers": 174863,
   "original_name": "patchwork",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWFiNWI2OGU5NzUyZmVhMWZiNWM0ODdhNDFjOWQ4NDNmN2QwMmMy",
+  "snapshot_id": "MCxkNWJiNTY0NTIxY2Q2OTQ4NzU4ZDM0MGYzN2JlNmE1NWQ2NzgyNjAz",
   "tracks": [
     {
       "added_at": "2023-09-26 13:24:44",
@@ -75,6 +75,22 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Always Forever",
+      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
         "name": "Nothing Happens",
         "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 178000,
       "name": "Are You Bored Yet? (feat. Clairo)",
       "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Always Forever",
-      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
+        "name": "flounder",
+        "url": "https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "touch tank",
+      "url": "https://open.spotify.com/track/1TgCchWmdmmhGrtsa8NHwY"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
         "name": "Gone Now",
         "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 195370,
       "name": "Be Sweet",
       "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
-        "name": "flounder",
-        "url": "https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ"
-      },
-      "artists": [
-        {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "touch tank",
-      "url": "https://open.spotify.com/track/1TgCchWmdmmhGrtsa8NHwY"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 220826,
-      "name": "Shatter",
-      "url": "https://open.spotify.com/track/4MP5tSTc6LxY8xhrUOv9Ya"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
         "name": "But Not Kiss",
         "url": "https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 222555,
       "name": "But Not Kiss",
       "url": "https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 220826,
+      "name": "Shatter",
+      "url": "https://open.spotify.com/track/4MP5tSTc6LxY8xhrUOv9Ya"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 230586,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/2orcl4a2qxEpbsYeZXKsyR"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
         "name": "The Kiss Of Venus (Dominic Fike)",
         "url": "https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 143530,
       "name": "The Kiss Of Venus (Dominic Fike)",
       "url": "https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/2orcl4a2qxEpbsYeZXKsyR"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
+        "name": "In the Sky",
+        "url": "https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 217284,
+      "name": "Groceries",
+      "url": "https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
         "name": "Daisy Chain",
         "url": "https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "In the Sky",
-        "url": "https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 217284,
-      "name": "Groceries",
-      "url": "https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
         "name": "Theatre",
         "url": "https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 177641,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/1yQkAv4xtapCBCzI8q1QGF"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
         "name": "hotline",
         "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 137404,
       "name": "hotline",
       "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 177641,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1yQkAv4xtapCBCzI8q1QGF"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
+        "name": "going...going...GONE!",
+        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "girlfriend",
+      "url": "https://open.spotify.com/track/7qkNf6D661jZI9yNqw27LA"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
         "name": "Something",
         "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 194133,
       "name": "Kenny",
       "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
-        "name": "going...going...GONE!",
-        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 133200,
-      "name": "girlfriend",
-      "url": "https://open.spotify.com/track/7qkNf6D661jZI9yNqw27LA"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Love Me In Chapters",
-        "url": "https://open.spotify.com/album/3jSf7bYXENh5wdn2a01DtF"
-      },
-      "artists": [
-        {
-          "name": "Chrissi",
-          "url": "https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Love Me In Chapters",
-      "url": "https://open.spotify.com/track/4MTRui4ZDCOc0a6D2g0qgw"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
         "name": "Your Ex",
         "url": "https://open.spotify.com/album/38N1yrl3r6rGulkphT8pO3"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 217728,
       "name": "Your Ex",
       "url": "https://open.spotify.com/track/3IkXLkNFF93omLpzxfcOK8"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
+        "name": "Love Me In Chapters",
+        "url": "https://open.spotify.com/album/3jSf7bYXENh5wdn2a01DtF"
+      },
+      "artists": [
+        {
+          "name": "Chrissi",
+          "url": "https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Love Me In Chapters",
+      "url": "https://open.spotify.com/track/4MTRui4ZDCOc0a6D2g0qgw"
     },
     {
       "added_at": "2023-09-26 13:24:44",

@@ -1,28 +1,44 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5?si=pk0hGHdJQMKTKVFyaPULLA\">Karlien Van Jaarsveld</a>  ",
-  "num_followers": 84148,
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=rDYUkxzAQ2KKoae81cY4KA\">Riaan Benad\u00e9</a>  ",
+  "num_followers": 84210,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGExMTAyYTkyNzg3NTJkYmRjZGZiOTdiNGUxNThhMjIxMjAxMGEx",
+  "snapshot_id": "MCw2NzNjY2QwOWY5MTViY2NiYzJjMmE1ZmYzN2I2NzlhZDIxY2RlYTJh",
   "tracks": [
     {
-      "added_at": "2023-09-21 21:59:00",
+      "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Moegdans",
-        "url": "https://open.spotify.com/album/2PZIORUBXjaeRTuepRjTvq"
+        "name": "Boksemdais",
+        "url": "https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0"
       },
       "artists": [
         {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
         }
       ],
-      "duration_ms": 201777,
-      "name": "Moegdans",
-      "url": "https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b"
+      "duration_ms": 188553,
+      "name": "Boksemdais",
+      "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
+    },
+    {
+      "added_at": "2023-08-24 21:59:00",
+      "album": {
+        "name": "Liewe Jinne!",
+        "url": "https://open.spotify.com/album/48DLDbFi0LBISIgqbfHMUm"
+      },
+      "artists": [
+        {
+          "name": "Juanita du Plessis",
+          "url": "https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO"
+        }
+      ],
+      "duration_ms": 211154,
+      "name": "Liewe Jinne!",
+      "url": "https://open.spotify.com/track/4Sq2nuXtqS8K88WNVTGERf"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -57,48 +73,20 @@
       "url": "https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3"
     },
     {
-      "added_at": "2023-08-24 21:59:00",
+      "added_at": "2023-09-21 21:59:00",
       "album": {
-        "name": "Liewe Jinne!",
-        "url": "https://open.spotify.com/album/48DLDbFi0LBISIgqbfHMUm"
+        "name": "Moegdans",
+        "url": "https://open.spotify.com/album/2PZIORUBXjaeRTuepRjTvq"
       },
       "artists": [
         {
-          "name": "Juanita du Plessis",
-          "url": "https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO"
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
         }
       ],
-      "duration_ms": 211154,
-      "name": "Liewe Jinne!",
-      "url": "https://open.spotify.com/track/4Sq2nuXtqS8K88WNVTGERf"
-    },
-    {
-      "added_at": "2023-09-15 03:24:00",
-      "album": {
-        "name": "Saam Suid-Afrika",
-        "url": "https://open.spotify.com/album/795PoyrlQBseo7X9SQsNJA"
-      },
-      "artists": [
-        {
-          "name": "Robbie Wessels",
-          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
-        },
-        {
-          "name": "Anlia Star",
-          "url": "https://open.spotify.com/artist/0ijtg0i2JHKpiiQnyZofqm"
-        },
-        {
-          "name": "Ruhan Du Toit",
-          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
-        },
-        {
-          "name": "Karlien Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
-        }
-      ],
-      "duration_ms": 226229,
-      "name": "Saam Suid-Afrika",
-      "url": "https://open.spotify.com/track/4Nngq9WlJXvN3AyDnocQAz"
+      "duration_ms": 201777,
+      "name": "Moegdans",
+      "url": "https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b"
     },
     {
       "added_at": "2023-08-17 22:01:39",
@@ -133,20 +121,20 @@
       "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
     },
     {
-      "added_at": "2023-09-21 21:59:00",
+      "added_at": "2023-06-29 21:59:00",
       "album": {
-        "name": "Ouens Soos Ek",
-        "url": "https://open.spotify.com/album/6qagm31j3HbFae3BV3I2Ab"
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
       },
       "artists": [
         {
-          "name": "Marno van der Merwe",
-          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
         }
       ],
-      "duration_ms": 163035,
-      "name": "Ouens Soos Ek",
-      "url": "https://open.spotify.com/track/30dt1BYdgSPFyed2YZykV0"
+      "duration_ms": 191303,
+      "name": "Toer Om Die Vloer",
+      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -165,20 +153,36 @@
       "url": "https://open.spotify.com/track/4QyvkP2gRHGYOaOntzVJpL"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2023-09-21 21:59:00",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+        "name": "Ouens Soos Ek",
+        "url": "https://open.spotify.com/album/6qagm31j3HbFae3BV3I2Ab"
       },
       "artists": [
         {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+          "name": "Marno van der Merwe",
+          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
         }
       ],
-      "duration_ms": 191303,
-      "name": "Toer Om Die Vloer",
-      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
+      "duration_ms": 163035,
+      "name": "Ouens Soos Ek",
+      "url": "https://open.spotify.com/track/30dt1BYdgSPFyed2YZykV0"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
+        "name": "Hittegolf",
+        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 220831,
+      "name": "Swipe Regs",
+      "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -211,22 +215,6 @@
       "duration_ms": 174254,
       "name": "Laatnag Gedagtes",
       "url": "https://open.spotify.com/track/3ACYgEkC2uFq5FY6GRM46r"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Hittegolf",
-        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 220831,
-      "name": "Swipe Regs",
-      "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -279,22 +267,6 @@
       "duration_ms": 184026,
       "name": "ATKV",
       "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
-    },
-    {
-      "added_at": "2023-09-21 21:59:00",
-      "album": {
-        "name": "Die Rower",
-        "url": "https://open.spotify.com/album/5MRXndYHbRTxLhROnjpeoO"
-      },
-      "artists": [
-        {
-          "name": "Juan Boucher",
-          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
-        }
-      ],
-      "duration_ms": 255857,
-      "name": "Die Rower",
-      "url": "https://open.spotify.com/track/2V2nGO3KiIXZunNZjIiPY4"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -569,6 +541,34 @@
       "url": "https://open.spotify.com/track/1PIvpkHqj84KC0En6LosWH"
     },
     {
+      "added_at": "2023-09-15 03:24:00",
+      "album": {
+        "name": "Saam Suid-Afrika",
+        "url": "https://open.spotify.com/album/795PoyrlQBseo7X9SQsNJA"
+      },
+      "artists": [
+        {
+          "name": "Robbie Wessels",
+          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
+        },
+        {
+          "name": "Anlia Star",
+          "url": "https://open.spotify.com/artist/0ijtg0i2JHKpiiQnyZofqm"
+        },
+        {
+          "name": "Ruhan Du Toit",
+          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
+        },
+        {
+          "name": "Karlien Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
+        }
+      ],
+      "duration_ms": 226229,
+      "name": "Saam Suid-Afrika",
+      "url": "https://open.spotify.com/track/4Nngq9WlJXvN3AyDnocQAz"
+    },
+    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "Ek Like Jou",
@@ -653,6 +653,38 @@
       "url": "https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm"
     },
     {
+      "added_at": "2023-09-21 21:59:00",
+      "album": {
+        "name": "Die Rower",
+        "url": "https://open.spotify.com/album/5MRXndYHbRTxLhROnjpeoO"
+      },
+      "artists": [
+        {
+          "name": "Juan Boucher",
+          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
+        }
+      ],
+      "duration_ms": 255857,
+      "name": "Die Rower",
+      "url": "https://open.spotify.com/track/2V2nGO3KiIXZunNZjIiPY4"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
+        "name": "Die Onbekende",
+        "url": "https://open.spotify.com/album/5DQ6KesEHKfwfO2AUjzkvc"
+      },
+      "artists": [
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "Kyk Na My Hart",
+      "url": "https://open.spotify.com/track/3ZHlUA6rI4xaljhilmWDtN"
+    },
+    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "Lawaaiwater",
@@ -683,22 +715,6 @@
       "duration_ms": 234000,
       "name": "Suikerbos",
       "url": "https://open.spotify.com/track/5MENUK617o8avXcMM4TDpt"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Die Onbekende",
-        "url": "https://open.spotify.com/album/5DQ6KesEHKfwfO2AUjzkvc"
-      },
-      "artists": [
-        {
-          "name": "Rooksein",
-          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "Kyk Na My Hart",
-      "url": "https://open.spotify.com/track/3ZHlUA6rI4xaljhilmWDtN"
     },
     {
       "added_at": "2023-08-10 21:59:00",
@@ -1015,22 +1031,6 @@
       "duration_ms": 205973,
       "name": "Kom En L\u00ea My Neer",
       "url": "https://open.spotify.com/track/5P6L2kPsrfqqXrKOHhELpW"
-    },
-    {
-      "added_at": "2023-09-15 03:24:00",
-      "album": {
-        "name": "Die Bokmasjien",
-        "url": "https://open.spotify.com/album/7mAkMSrrW44f9SbtVv5oZm"
-      },
-      "artists": [
-        {
-          "name": "Leon Schuster",
-          "url": "https://open.spotify.com/artist/39RqxQROFqqcfA4TJmKgbs"
-        }
-      ],
-      "duration_ms": 226539,
-      "name": "Die Bokmasjien",
-      "url": "https://open.spotify.com/track/3IgEWo5IVygGPj1gIXGnEK"
     },
     {
       "added_at": "2023-06-29 21:59:00",
