@@ -2,7 +2,7 @@
 
 ### [Lento.](https://open.spotify.com/playlist/37i9dQZF1DX64myInc1vfu)
 
-> The new bolero era\. Los boleritos de hoy, just for you\. Cover: La Isla Centeno
+> The new bolero era\. Los boleritos de hoy, just for you\. Cover: Noreh
 
 117 songs - 6 hr 35 min
 

@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-287 songs - 14 hr 27 min
+289 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Doug](https://open.spotify.com/track/4n4q1FZ84xHhZRdexhFz0X) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Inez & Doug & Kira \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HwPJRFbqGPu9bw4z0FKze) | 1:53 | 2021-12-20 | 2022-08-20 |
 | [Dreams](https://open.spotify.com/track/2egNpOad1kRNG32VE5uHtF) | [Pinar Toprak](https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl) | [Slumberland \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/77qpAPLvKnFn8IpB53401F) | 1:03 | 2022-11-18 |  |
 | [Dungeons and Dragons](https://open.spotify.com/track/30NS4OLaCDe0aJOPCcrF1J) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Dungeons & Dragons: Honor Among Thieves \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xfCcBT8UbC8wjszXjyPPf) | 1:35 | 2023-03-31 |  |
+| [Earth](https://open.spotify.com/track/183tCj3FW0MBHKeDPHKoDj) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Life On Our Planet \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0twoJjqA27AFvNr5UiCNGz) | 3:50 | 2023-10-13 |  |
 | [Egwene al'Vere \- from The Wheel of Time: Season 2, a Prime Video Original Series](https://open.spotify.com/track/1pUpYWRubFMzugCP4jIcdi) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [The Wheel of Time: Season 2, Vol\. 1 \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/71lPSpzDgHtwW8oM6933EX) | 3:02 | 2023-09-01 |  |
 | [Egwene al'Vere \- from The Wheel of Time: Season 2, a Prime Video Original Series](https://open.spotify.com/track/25VaTouvJUmUkIccRJfTGG) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Egwene al'Vere \(from The Wheel of Time: Season 2, a Prime Video Original Series\)](https://open.spotify.com/album/6PDzQ3pZl8CRTcOMwk5gPU) | 3:02 | 2023-09-01 | 2023-09-09 |
 | [End](https://open.spotify.com/track/6AvYxIG35XLT3Vpeydm0Oj) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [End](https://open.spotify.com/album/6l2sYGF6yH4TQZXD7O7XEd) | 3:53 | 2021-12-20 |  |
@@ -142,6 +143,7 @@
 | [Maps](https://open.spotify.com/track/5arnqM3mLtyOpdqDrbavQb) | [Nick Lloyd Webber](https://open.spotify.com/artist/3r0kvjF0xGitqk9azZVB35) | [The Last Bus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/231VrH3cg7DOmHpLB2AlGx) | 1:48 | 2022-05-27 |  |
 | [Marital Dance](https://open.spotify.com/track/10DKh4aJ2sPPOVZnBwjruG) | [Evgueni Galperine](https://open.spotify.com/artist/6wUwrf6CPtVdxhMX8TejqM), [Sacha Galperine](https://open.spotify.com/artist/4rhbbNkUATyvGiYxGMmx7H) | [Scenes from a Marriage \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/5SG4qxHwgSHsIQHF045MjC) | 2:10 | 2021-12-20 | 2022-07-09 |
 | [Maya’s Adoption Party](https://open.spotify.com/track/1QQGVmtL3AC8ECUWDNDOIH) | [Starr Parodi](https://open.spotify.com/artist/4wMTcGiDCOJ5XkpbeyMU3m), [Jeff Eden Fair](https://open.spotify.com/artist/05BkDv6lrBLduTzqJABTqB) | [The Storied Life of A.J\. Fikry \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ewjDDOWk0vXaUiJjIkjun) | 2:21 | 2022-12-09 |  |
+| [Meeting Ruth](https://open.spotify.com/track/6mKHm67aAI4azpDooIf3qO) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm), [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Barbie \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy) | 2:22 | 2023-10-13 |  |
 | [Minamata Piano Theme](https://open.spotify.com/track/4SuctdNPUY8Cl6NL5dasGN) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Minamata Piano Theme](https://open.spotify.com/album/2uGicSh9qaQyj7oRQsolTi) | 2:50 | 2021-12-20 | 2022-07-09 |
 | [Missile Launch](https://open.spotify.com/track/2s5clj5ey4v257HOAxBIPD) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Creator \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/69GMDH8pkopRkQRwdff0Jp) | 3:01 | 2023-09-29 |  |
 | [Mo Ergaste Forn](https://open.spotify.com/track/6PRHXNZzRrsP5RppsMXTkq) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 2:31 | 2023-05-05 |  |

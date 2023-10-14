@@ -4,7 +4,7 @@
 
 > Set the mood of your day with these happy songs.
 
-563 songs - 1 day 7 hr 46 min
+564 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 | 2023-02-24 | 2023-06-10 |
 | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC) | 3:25 | 2021-12-16 | 2022-12-14 |
 | [Boomin' In Your Jeep](https://open.spotify.com/track/1HCiEG5t4xSZIpU8foVcmj) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Boomin' In Your Jeep](https://open.spotify.com/album/7uj93MPOmimkNz0W8OOdmP) | 3:37 | 2022-03-15 | 2022-04-21 |
-| [Born This Way](https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:20 | 2023-08-04 |  |
+| [Born This Way](https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:20 | 2023-08-04 | 2023-10-14 |
 | [Brightsider](https://open.spotify.com/track/45r6xQhf7hKsefH0FEUPVH) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Brightsider](https://open.spotify.com/album/025bhDcJFx2CWiYVXOUZvA) | 3:16 | 2022-06-03 | 2022-07-29 |
 | [Brooklyn In The Summer](https://open.spotify.com/track/3umkzHosXJRxujeCjIhRmU) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Brooklyn In The Summer](https://open.spotify.com/album/2ooG2GlHnems6JwwM87eLW) | 3:28 | 2021-12-16 | 2022-07-29 |
 | [Build Me up Buttercup](https://open.spotify.com/track/6g3EtZDHdvss7vmqigJCRJ) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Highlights of the Foundations](https://open.spotify.com/album/4AUYNiurhFVJ1vcGbThpAf) | 2:53 | 2022-07-08 | 2022-12-14 |
@@ -98,6 +98,7 @@
 | [Can We Pretend \(feat\. Cash Cash\)](https://open.spotify.com/track/3O0e0LHTpza0rYVDbZfQ4r) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [Can We Pretend \(feat\. Cash Cash\)](https://open.spotify.com/album/1CXDHsSaA7UgUPvRm2AVRH) | 3:44 | 2021-12-16 | 2022-12-14 |
 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/22skzmqfdWrjJylampe0kt) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd) | 4:18 | 2022-12-14 | 2023-01-12 |
 | [Canyon Moon](https://open.spotify.com/track/5IhzJOXNE7ki0IIJbZbnGq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:09 | 2022-06-24 | 2023-05-30 |
+| [Capital Letters](https://open.spotify.com/track/6l0Ky2PycJV1Bz88kFeVGL) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [BloodPop®](https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:39 | 2023-08-04 |  |
 | [Carried Away](https://open.spotify.com/track/3TOfWEQ9kpGBaT7o2GtI1X) | [Denny White](https://open.spotify.com/artist/0RuDUIQCXhrbLcsegLwp2Q) | [Carried Away](https://open.spotify.com/album/5mabbKLRmRaTBT4Zbp0Z1e) | 3:29 | 2022-03-15 | 2022-04-20 |
 | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz) | 3:35 | 2021-12-16 | 2022-12-14 |
 | [Castle on the Hill](https://open.spotify.com/track/66qlqxhEMpSHOzjRK4il0b) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Castle on the Hill](https://open.spotify.com/album/5YnGwVQx2OQ4CpcQeVDthP) | 4:21 | 2022-04-11 | 2022-11-15 |

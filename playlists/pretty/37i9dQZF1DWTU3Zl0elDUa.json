@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 312326,
+  "num_followers": 312576,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODAxYzlhOTQyYTc5M2M2NGZkY2E4ZTdkMTNiNDcyOGQyMjMwYmE3",
+  "snapshot_id": "MCxiZjNiMWU3OWU1NGZhMmIwYTNhOTRkZDRjZjhlMTViYjY4YTcwOTYw",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Wanted",
+        "url": "https://open.spotify.com/album/59RWOTMG259wspCYTvmW9x"
+      },
+      "artists": [
+        {
+          "name": "Yazz",
+          "url": "https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8"
+        }
+      ],
+      "duration_ms": 268373,
+      "name": "The Only Way Is Up",
+      "url": "https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Make The World Go Round",
         "url": "https://open.spotify.com/album/7EUPZNQdefg99rHecK3DA0"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 230933,
       "name": "Make The World Go Round - Deep Dish Radio Edit",
       "url": "https://open.spotify.com/track/3suUyj7jumc7N0sxNfsdPe"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Wanted",
-        "url": "https://open.spotify.com/album/59RWOTMG259wspCYTvmW9x"
-      },
-      "artists": [
-        {
-          "name": "Yazz",
-          "url": "https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8"
-        }
-      ],
-      "duration_ms": 268373,
-      "name": "The Only Way Is Up",
-      "url": "https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "My Feeling",
-        "url": "https://open.spotify.com/album/0wZmxx9tdFJGYkkTjZ5ew5"
-      },
-      "artists": [
-        {
-          "name": "Junior Jack",
-          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
-        }
-      ],
-      "duration_ms": 228960,
-      "name": "My Feeling - Daddy's Prime Time Edit",
-      "url": "https://open.spotify.com/track/1HkPj9fZFpjAoAUigBAmJS"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "King Of My Castle (Mixes)",
         "url": "https://open.spotify.com/album/5B0SFs0tNHlR8pTkedmRgd"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 215693,
       "name": "King of My Castle - Roy Malone's King Radio Edit",
       "url": "https://open.spotify.com/track/6tMljaV7JPdoPc88Z2dlwu"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "My Feeling",
+        "url": "https://open.spotify.com/album/0wZmxx9tdFJGYkkTjZ5ew5"
+      },
+      "artists": [
+        {
+          "name": "Junior Jack",
+          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
+        }
+      ],
+      "duration_ms": 228960,
+      "name": "My Feeling - Daddy's Prime Time Edit",
+      "url": "https://open.spotify.com/track/1HkPj9fZFpjAoAUigBAmJS"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -455,26 +455,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
-        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
-      },
-      "artists": [
-        {
-          "name": "Lil' Louis",
-          "url": "https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs"
-        },
-        {
-          "name": "The World",
-          "url": "https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F"
-        }
-      ],
-      "duration_ms": 591733,
-      "name": "French Kiss - The Original Underground Mix",
-      "url": "https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Everybody Everybody",
         "url": "https://open.spotify.com/album/6xWCKGUnDcZRXQQn1A9e5H"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 320374,
       "name": "Everybody Everybody (Le Freak Mix)",
       "url": "https://open.spotify.com/track/7uhAqFWN1GDG1IX6m3C0sm"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
+        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
+      },
+      "artists": [
+        {
+          "name": "Lil' Louis",
+          "url": "https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs"
+        },
+        {
+          "name": "The World",
+          "url": "https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F"
+        }
+      ],
+      "duration_ms": 591733,
+      "name": "French Kiss - The Original Underground Mix",
+      "url": "https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG"
     },
     {
       "added_at": "2023-08-18 04:00:00",

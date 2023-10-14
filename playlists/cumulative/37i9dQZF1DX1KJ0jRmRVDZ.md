@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-848 songs - 2 day 0 hr 26 min
+850 songs - 2 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Gerbera](https://open.spotify.com/track/0WpodCrGhNjKu87WxMUkFK) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [Gerbera](https://open.spotify.com/album/5bW6MAWuSTKFk7cuMLOETR) | 3:50 | 2022-07-14 | 2022-07-27 |
 | [Gingiragin](https://open.spotify.com/track/0yMLnG5bKL8HWHnp6Jj5oG) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Gingiragin](https://open.spotify.com/album/6xznymn8xYfw4SBmwLb10L) | 3:01 | 2023-03-30 | 2023-05-24 |
 | [Girl.](https://open.spotify.com/track/2uH4sSVxfRDBhsg1YekBBm) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Girl.](https://open.spotify.com/album/5jR5aEVdxEXOMRf9Mp6uIK) | 3:25 | 2022-06-09 | 2022-07-24 |
-| [give me hack.](https://open.spotify.com/track/5TNnxcs3K8dFZT6u4xCzFW) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [give me hack.](https://open.spotify.com/album/0OmVDeO71Ym4FMHHf4x2Uu) | 2:33 | 2023-10-12 |  |
+| [Give Me Hack.](https://open.spotify.com/track/4YYwfHJXmbd4JPqnzxp2fN) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Give Me Hack.](https://open.spotify.com/album/0kwRgklTnQDN8MXbGjkkbe) | 2:33 | 2023-10-12 |  |
+| [give me hack.](https://open.spotify.com/track/5TNnxcs3K8dFZT6u4xCzFW) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [give me hack.](https://open.spotify.com/album/0OmVDeO71Ym4FMHHf4x2Uu) | 2:33 | 2023-10-12 | 2023-10-14 |
 | [GLOW](https://open.spotify.com/track/6AP21pc2X40IiXdiNZytN1) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [GLOW](https://open.spotify.com/album/7vNqDHhm2UThG4t713JO1a) | 3:36 | 2023-10-05 | 2023-10-11 |
 | [good time](https://open.spotify.com/track/7vLR5hYebH7l7CCRoZZ21f) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [二条瑛士郎](https://open.spotify.com/artist/0RIr0bT6YEaqInva42lKBS) | [good time](https://open.spotify.com/album/2J7uuTCcBiIqNYF3C8Zgky) | 3:34 | 2022-08-25 | 2022-09-15 |
 | [gozennreiji、gatasunokutsuha](https://open.spotify.com/track/2O3MN7anJ1TeBOTztMJ2mV) | [Soraru](https://open.spotify.com/artist/2hRrM4EVq5bjYRHQvX7goz) | [soukutomaerchensanka](https://open.spotify.com/album/4uXZxB5lmd7cTTaECdLZ3l) | 4:18 | 2022-10-04 | 2022-10-12 |
@@ -180,7 +181,8 @@
 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 | 2022-10-12 | 2023-01-04 |
 | [Mob](https://open.spotify.com/track/18DhxwCxUWbnnqO5IXm2ty) | [TORIENA](https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i) | [Mob](https://open.spotify.com/album/6CR45VfAP7FqOvCnHGgyDv) | 3:14 | 2022-06-30 | 2022-07-04 |
 | [model room](https://open.spotify.com/track/3ELEwSQF8cdy8cqAPBIwO9) | [春瀬 烈](https://open.spotify.com/artist/6bqf6xtgbyKTaqdYT8NaG3) | [MAGNET](https://open.spotify.com/album/3VDEH2uLJ0QdRD2z6ARnNC) | 4:29 | 2022-07-24 | 2022-07-27 |
-| [MONSTER'S CRY](https://open.spotify.com/track/3ikHKe6Uk5eIMdlnmqrSQX) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [MONSTER'S CRY](https://open.spotify.com/album/5KGNZ9TzxkBKplktZZK1MO) | 3:29 | 2023-10-12 |  |
+| [Monster's Cry](https://open.spotify.com/track/2Cf4xRLFAwbd83V3v87foS) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [Monster's Cry](https://open.spotify.com/album/65f4dtUzOQRfW4ogvBXWcS) | 3:29 | 2023-10-12 |  |
+| [MONSTER'S CRY](https://open.spotify.com/track/3ikHKe6Uk5eIMdlnmqrSQX) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [MONSTER'S CRY](https://open.spotify.com/album/5KGNZ9TzxkBKplktZZK1MO) | 3:29 | 2023-10-12 | 2023-10-14 |
 | [MoonWalker](https://open.spotify.com/track/4ELSoW5BZzs7rV8ac0Cpit) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [MoonWalker](https://open.spotify.com/album/088QzeGKVNk68ebMWTeL9q) | 3:34 | 2022-06-09 | 2022-08-31 |
 | [Mother Drug](https://open.spotify.com/track/28tXpSZ6nmsYDtn5sH3ZpS) | [HIMEHINA](https://open.spotify.com/artist/5OBmR4AY53SS26qHZ4uwnq) | [Mother Drug](https://open.spotify.com/album/05szkGoDv3RawMUYUEUQ27) | 3:46 | 2023-08-10 | 2023-08-25 |
 | [Move Move Move \- feat\. 96猫](https://open.spotify.com/track/0QaPDcKufzYjm5T5VGja7V) | [Lezel](https://open.spotify.com/artist/6Dt654Ld9lg3i6fjLGClz7), [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p) | [Move Move Move \(feat\. 96猫\)](https://open.spotify.com/album/2IOZVbQkmip8AKOscWiUQm) | 3:34 | 2022-09-20 | 2022-10-05 |

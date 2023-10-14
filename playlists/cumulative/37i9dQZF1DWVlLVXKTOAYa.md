@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-784 songs - 1 day 16 hr 21 min
+785 songs - 1 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,6 +553,7 @@
 | [Pray](https://open.spotify.com/track/7MOCaEUbfGyq1K96umNVwJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:26 | 2023-05-11 | 2023-06-29 |
 | [Present](https://open.spotify.com/track/6RBfz4bNLNzvt37HycN1Xf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Present](https://open.spotify.com/album/5KsduyvZorQ3RjJTZA8In9) | 2:36 | 2022-03-24 | 2022-04-18 |
 | [Pretty](https://open.spotify.com/track/0dUIqBRL0Tlw5d4ly8Ahv0) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [The Hating Game \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5) | 2:55 | 2022-03-24 | 2022-04-21 |
+| [Pretty Girl \(with Rema\)](https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Pretty Girl \(with Rema\)](https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH) | 2:17 | 2023-10-13 |  |
 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 | 2022-02-24 | 2022-11-13 |
 | [PSYCHO](https://open.spotify.com/track/1eprzC29mwUQqcVj0eILdx) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [PSYCHO](https://open.spotify.com/album/7qUT6ERWHp2U6RdUkuYZ3O) | 2:42 | 2022-09-30 | 2023-04-13 |
 | [Put Me First \- Spotify Singles](https://open.spotify.com/track/3sjBxFckbKIYH7FShghTlF) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Put Me First \(Spotify Singles\)](https://open.spotify.com/album/0elfTjxej6qsWnxpjgWs7q) | 2:25 | 2023-03-09 | 2023-03-11 |
@@ -744,7 +745,7 @@
 | [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 | 2023-02-09 | 2023-05-07 |
 | [We're Good](https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 2:45 | 2021-12-16 | 2022-07-19 |
 | [Weapons](https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Weapons](https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO) | 2:31 | 2022-11-24 | 2023-01-20 |
-| [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 | 2023-03-17 |  |
+| [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 | 2023-03-17 | 2023-10-14 |
 | [West Coast](https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [West Coast](https://open.spotify.com/album/1EM2RddQo9GGjrCsE1bk7a) | 3:12 | 2022-03-24 | 2022-11-25 |
 | [What Did I Do?](https://open.spotify.com/track/3olUFMwgASQGeXrlm4g6OH) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [What Did I Do?](https://open.spotify.com/album/74WdQxAgACeqOaId2H4W7I) | 3:35 | 2022-03-24 | 2022-04-20 |
 | [What If I Told You \(Original Music from The L Word: Generation Q\)](https://open.spotify.com/track/3qDLLnU3pQBCkb7Pctum3O) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [What If I Told You \(Original Music from The L Word: Generation Q\)](https://open.spotify.com/album/0k7wjFeipafGeyu29azRR7) | 2:48 | 2022-02-10 | 2022-02-12 |

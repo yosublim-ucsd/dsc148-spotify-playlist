@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: TOMORROW X TOGETHER, Anitta)",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: B.I, James Reid)",
   "name": "K-Pop X-Overs",
   "tracks": [
     {
@@ -1354,6 +1354,32 @@
       "duration_ms": 243247,
       "name": "Ito",
       "url": "https://open.spotify.com/track/0Fb1M7rbOnydw6SrXXSlHr"
+    },
+    {
+      "album": {
+        "name": "Jacuzzi",
+        "url": "https://open.spotify.com/album/3OZaC0jqmBwWn1CEScwzlt"
+      },
+      "artists": [
+        {
+          "name": "James Reid",
+          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "DJ FLICT",
+          "url": "https://open.spotify.com/artist/5kGccnf4y59UqCEMOPzAXX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171056,
+      "name": "Jacuzzi",
+      "url": "https://open.spotify.com/track/3WS8Wul8jTZg9jvmN8556Q"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : Marina Kaye",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : Loreen",
   "name": "Nouveaut\u00e9s Pop",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "BITTERSWEET",
+        "url": "https://open.spotify.com/album/5aVRKxppPPFxvPYGXNerNX"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158266,
+      "name": "BITTERSWEET",
+      "url": "https://open.spotify.com/track/4Ap4XPfDknSxcqBTVbyEqp"
+    },
+    {
+      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
@@ -423,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/40eOtSpXZRNJDZ2MR7oN3K"
+      },
+      "artists": [
+        {
+          "name": "Anna-Sophie",
+          "url": "https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123109,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/5H42YUEriD3ToSUpJ9wklA"
+    },
+    {
+      "album": {
         "name": "Boys Of Faith (feat. Bon Iver)",
         "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
       },
@@ -438,7 +474,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 170824,
       "name": "Boys Of Faith (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
@@ -460,6 +496,24 @@
       "duration_ms": 132213,
       "name": "Broken is the man",
       "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182670,
+      "name": "Chasing That Feeling",
+      "url": "https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv"
     },
     {
       "album": {
@@ -720,7 +774,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 142545,
       "name": "Doing Time",
       "url": "https://open.spotify.com/track/46U6Q6qD71twELCau5AKMr"
@@ -778,7 +832,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 166946,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
@@ -796,7 +850,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 178352,
       "name": "Elevator Eyes",
       "url": "https://open.spotify.com/track/1xaI8BC30DDf9RDQSWyonb"
@@ -1103,6 +1157,28 @@
     },
     {
       "album": {
+        "name": "Hands On Me (feat. Meghan Trainor)",
+        "url": "https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183022,
+      "name": "Hands On Me (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD"
+    },
+    {
+      "album": {
         "name": "Happy Again",
         "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
       },
@@ -1299,6 +1375,62 @@
     },
     {
       "album": {
+        "name": "Is It Love",
+        "url": "https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143669,
+      "name": "Is It Love",
+      "url": "https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7"
+    },
+    {
+      "album": {
+        "name": "It Takes Two (feat. Eric Andre, Daveed Diggs, Kid Cudi & Trolls)",
+        "url": "https://open.spotify.com/album/7oGTxPAGX6htcQblSqWo0r"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Eric Andre",
+          "url": "https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/21vLEEtCTBS6fxw1TuPJAy"
+    },
+    {
+      "album": {
         "name": "Euphoric",
         "url": "https://open.spotify.com/album/4J2xyrxoURH3t6plYCEPhf"
       },
@@ -1480,7 +1612,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 208421,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/1q4BCQssFe74UJmnWt5lov"
@@ -1502,6 +1634,24 @@
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "album": {
+        "name": "Losing a Friend",
+        "url": "https://open.spotify.com/album/3UXK8j03CixeaM1LBXJcfs"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194900,
+      "name": "Losing a Friend",
+      "url": "https://open.spotify.com/track/2fhxyW8DpS4rWmt5DwdOmy"
     },
     {
       "album": {
@@ -1541,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Stellaria",
+        "url": "https://open.spotify.com/album/5UHVVt48bKChmsZNguXZIu"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/5MFUxQJGj5KrcCX6Gnphgh"
+    },
+    {
+      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
@@ -1552,7 +1720,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 225360,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
@@ -1631,6 +1799,28 @@
     },
     {
       "album": {
+        "name": "MIDNIGHT OIL",
+        "url": "https://open.spotify.com/album/6Jb0lh95dtrWjRcfgVLY17"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179693,
+      "name": "MIDNIGHT OIL",
+      "url": "https://open.spotify.com/track/65qzuuS7pR1Q5nOfgvg93a"
+    },
+    {
+      "album": {
         "name": "Mirage (for Assassin's Creed Mirage)",
         "url": "https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz"
       },
@@ -1650,7 +1840,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 133183,
       "name": "Mirage - for Assassin's Creed Mirage",
       "url": "https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW"
@@ -1881,6 +2071,24 @@
     },
     {
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
+    },
+    {
+      "album": {
         "name": "Only In My Mind",
         "url": "https://open.spotify.com/album/4JWnSrjQv0zOW594N76PMf"
       },
@@ -1935,6 +2143,24 @@
     },
     {
       "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229713,
+      "name": "Paint My Bedroom Black",
+      "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
+    },
+    {
+      "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
       },
@@ -1946,10 +2172,28 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "album": {
+        "name": "Pedestal",
+        "url": "https://open.spotify.com/album/5KRQkpYEeyfXX4gF9kWV7I"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191555,
+      "name": "Pedestal",
+      "url": "https://open.spotify.com/track/3C8Z6rLzMjQiDSkZxpRHxV"
     },
     {
       "album": {
@@ -2059,6 +2303,24 @@
     },
     {
       "album": {
+        "name": "Mirror (Deluxe)",
+        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175550,
+      "name": "Sad Forever",
+      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
+    },
+    {
+      "album": {
         "name": "Say Yes To Heaven",
         "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
       },
@@ -2092,7 +2354,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 184400,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
@@ -2114,6 +2376,46 @@
       "duration_ms": 171655,
       "name": "Single Soon",
       "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
+    },
+    {
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203324,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
+    },
+    {
+      "album": {
+        "name": "Someone I Used To Know",
+        "url": "https://open.spotify.com/album/0jHmLiL2rX5R8KLQ5lNiBf"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175833,
+      "name": "Someone I Used to Know",
+      "url": "https://open.spotify.com/track/6JZD3cr8CTNOmZg205emdw"
     },
     {
       "album": {
@@ -2410,7 +2712,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 176420,
       "name": "this time",
       "url": "https://open.spotify.com/track/3RflzntjekyDoIlm11kNIN"
@@ -2576,7 +2878,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
@@ -2634,7 +2936,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 217209,
       "name": "Winner",
       "url": "https://open.spotify.com/track/3b5MPNYlX8ztJowxAwzTai"
@@ -2652,7 +2954,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 163392,
       "name": "With You",
       "url": "https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa"
@@ -2710,7 +3012,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 198203,
       "name": "World On Fire",
       "url": "https://open.spotify.com/track/7CYvA2dKCUZUxfUohwyFU0"

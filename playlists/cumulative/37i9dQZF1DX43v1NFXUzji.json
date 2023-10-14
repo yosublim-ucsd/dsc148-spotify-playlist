@@ -801,6 +801,28 @@
     },
     {
       "album": {
+        "name": "Andamos Francos",
+        "url": "https://open.spotify.com/album/4CsfRkIYoAO2PwjUOSMdr2"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125402,
+      "name": "Andamos Francos",
+      "url": "https://open.spotify.com/track/3MiLSG8Ewq2Q4kgnQVKnmV"
+    },
+    {
+      "album": {
         "name": "Antes",
         "url": "https://open.spotify.com/album/0ISa5lIjmXXaQ9bNQXJe6s"
       },
@@ -2037,6 +2059,36 @@
     },
     {
       "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265999,
+      "name": "COLMILLO",
+      "url": "https://open.spotify.com/track/15U5RHzuLMPNFThQqfKL0U"
+    },
+    {
+      "album": {
         "name": "Colocao",
         "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
       },
@@ -2788,7 +2840,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 286040,
       "name": "Diles",
       "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
@@ -4092,7 +4144,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 142916,
       "name": "FUCK EL POLICE - REMIX",
       "url": "https://open.spotify.com/track/3oIsx1ixRKtt4bZu9qT8Ut"
@@ -5666,7 +5718,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 206420,
       "name": "La Santa",
       "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
@@ -7129,6 +7181,24 @@
     },
     {
       "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
+    },
+    {
+      "album": {
         "name": "Monastery",
         "url": "https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC"
       },
@@ -7759,6 +7829,24 @@
     },
     {
       "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225654,
+      "name": "NO ME QUIERO CASAR",
+      "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"
+    },
+    {
+      "album": {
         "name": "NO MIENTEN",
         "url": "https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw"
       },
@@ -8124,7 +8212,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 138500,
       "name": "Paleteao",
       "url": "https://open.spotify.com/track/73C0oEa8vbrR0gPpj7HBkl"
@@ -10249,6 +10337,28 @@
     },
     {
       "album": {
+        "name": "Sin Dormir (Ya Se Arm\u00f3)",
+        "url": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160150,
+      "name": "Sin Dormir (Ya Se Arm\u00f3)",
+      "url": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
+    },
+    {
+      "album": {
         "name": "Sin Panty",
         "url": "https://open.spotify.com/album/145677HAE67bXSXjwHXOdq"
       },
@@ -11596,7 +11706,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 186487,
       "name": "Ubi",
       "url": "https://open.spotify.com/track/0FwCxicKn0FYSDZ8c9gVG1"

@@ -4,11 +4,11 @@
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Droïd Fantôm
 
-61 songs - 3 hr 40 min
+62 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Accidents](https://open.spotify.com/track/3IiyRusvy9yOh2uuDsG1Ai) | [Deportivo](https://open.spotify.com/artist/7k8b9tyD9a0WEoPgidHrGK) | [Accidents](https://open.spotify.com/album/5gij4p2FSt40MgqYfnPJyV) | 3:41 | 2023-10-12 |  |
+| [Accidents](https://open.spotify.com/track/3IiyRusvy9yOh2uuDsG1Ai) | [Deportivo](https://open.spotify.com/artist/7k8b9tyD9a0WEoPgidHrGK) | [Accidents](https://open.spotify.com/album/5gij4p2FSt40MgqYfnPJyV) | 3:41 | 2023-10-12 | 2023-10-14 |
 | [Anxiety](https://open.spotify.com/track/4WlWURWhySwwK7lq0kwyIO) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [Anxiety](https://open.spotify.com/album/2QRKR6Pm7MjSoDcLZuVdX2) | 3:26 | 2023-09-28 |  |
 | [Baise tout seul](https://open.spotify.com/track/5TE991wFPT4dLTlkvgJthg) | [Princesses Leya](https://open.spotify.com/artist/5YunN7uZjy9Tgvds1IKSVT) | [Baise tout seul](https://open.spotify.com/album/3QFJWu9AxTJr7b930GRUQm) | 2:37 | 2023-09-28 |  |
 | [Born to Win](https://open.spotify.com/track/4fsVCgzknleqGFmV7WihCF) | [La Rosa](https://open.spotify.com/artist/3XX6YLm7pQFZZA8qo0MtmB) | [Born to Win](https://open.spotify.com/album/5DVy8NKNSeRGYIjH7rCftk) | 2:31 | 2023-10-12 |  |
@@ -27,6 +27,7 @@
 | [Fantasize](https://open.spotify.com/track/0U4fmzqtFTbtrwX7QQooT3) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Fantasize](https://open.spotify.com/album/0QMUUYbfJ1Tu6fuilNyhor) | 2:42 | 2023-09-28 |  |
 | [Feeling Fine](https://open.spotify.com/track/5ME9PbpmM05EobMN3sHqIh) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Feeling Fine](https://open.spotify.com/album/0Y2w2sOj4Ob7JZmmD5ZX0r) | 3:36 | 2023-09-28 |  |
 | [From Zero](https://open.spotify.com/track/2rBxyjJZPPSz7HHVBExEAW) | [Shady Fat Kats](https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD) | [From Zero](https://open.spotify.com/album/7nt2Z2wjPtE4Iu6X2lsjK9) | 2:50 | 2023-09-28 | 2023-10-06 |
+| [Full Speed Ahead](https://open.spotify.com/track/47Ze9JFgxEc0a9OS46D8X7) | [Dirty Fonzy](https://open.spotify.com/artist/2o8W6N7UkMBsAeVmyRYW4Y) | [Full Speed Ahead](https://open.spotify.com/album/5pDqns1lE2Lax57DaLqrpX) | 3:07 | 2023-10-13 |  |
 | [Gelled Water](https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [Gelled Water](https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW) | 3:46 | 2023-10-12 |  |
 | [Get Away \(I Wanna Get Get Get Get Get Get Get Get\)](https://open.spotify.com/track/2QVrkOeN5bz8H96exrcgvi) | [Basement Gary](https://open.spotify.com/artist/7zse5STLZ5qD4mJEUU4tX5) | [Get Away \(I Wanna Get Get Get Get Get Get Get Get\)](https://open.spotify.com/album/5lirOHxhUeUdbgvFRK46D5) | 2:12 | 2023-09-28 |  |
 | [Homesick](https://open.spotify.com/track/3plpIWQeDa8ptI5u0YOmDF) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Homesick](https://open.spotify.com/album/0OBVZGrQNG9jrea52NK2dZ) | 3:27 | 2023-09-28 |  |

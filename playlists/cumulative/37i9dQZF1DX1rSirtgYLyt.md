@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-128 songs - 9 hr 25 min
+129 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Death Letter](https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 4:29 | 2022-06-24 | 2023-10-13 |
 | [Don't Give a Damn](https://open.spotify.com/track/2jFIiF5GpgS5PL8y7rFurn) | [Pete Alderton](https://open.spotify.com/artist/6ZcrtRB04NsWQp5bTnMSem) | [Cover My Blues](https://open.spotify.com/album/417wJrH380kNJ1SBJwAgtm) | 2:27 | 2022-06-24 |  |
 | [Fixin' To Die Blues](https://open.spotify.com/track/5xscuYoBceOfi1y2HfpPZd) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Keepin' Outta Trouble: A Tribute To Bukka White](https://open.spotify.com/album/7IVijDUdKmwy8kdvHYLhMA) | 5:22 | 2022-06-24 |  |
+| [Fortune Teller](https://open.spotify.com/track/0aRHwNMbIxgVjrqPBEdbGZ) | [Deltaphonic](https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8) | [Fortune Teller](https://open.spotify.com/album/0J4GJQ0Mgp63AEiHFYrQ1B) | 4:48 | 2023-10-13 |  |
 | [Funny How Time Slips Away](https://open.spotify.com/track/0tyDdSze4rfPuwFTFkV2lG) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [B.B\. King & Friends \- 80](https://open.spotify.com/album/5xQz73Q2PPi3xeoLrg1uce) | 4:08 | 2022-06-24 | 2022-07-29 |
 | [Funny How Time Slips Away](https://open.spotify.com/track/1fDmvwNjghVsHWjrIruFJU) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Country Blues Hits](https://open.spotify.com/album/7zmKufdRW5fhQ1TfCBRV0h) | 4:08 | 2022-07-08 |  |
 | [Give Me One Reason](https://open.spotify.com/track/3ag0SbzIlflUWf1ChhEmhZ) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Neckbone Stew](https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb) | 4:23 | 2022-06-24 |  |

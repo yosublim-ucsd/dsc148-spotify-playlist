@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,061 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,070 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 46 | [Sincerely](https://open.spotify.com/track/6OkPtqmjlq8hWkkZGv7LWY) | [Harvey & The Moonglows](https://open.spotify.com/artist/2ZPn0kfIZf1aeq4J988Z5b) | [Harvey & The Moonglows 2000](https://open.spotify.com/album/4AHMnxyxnTiZh6rPD0Hs2E) | 3:10 |
 | 47 | [Lovers Never Say Goodbye](https://open.spotify.com/track/1XDKn16I6tc1PNpXf58y3t) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Playlist: The Best Of The Flamingos](https://open.spotify.com/album/4jwec58eQ4tIr8YWKdxyjg) | 2:53 |
 | 48 | [Little Girl of Mine](https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN) | [The Cleftones](https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf) | [The Best Of The Cleftones](https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN) | 3:12 |
-| 49 | [Shop Around](https://open.spotify.com/track/1VMncXCJ34SIAosUKhzjHy) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Greatest Hits: From The Beginning](https://open.spotify.com/album/5XmTHDRdxXFdrctu02TLMP) | 2:49 |
-| 50 | [Crying in the Chapel \- Remastered](https://open.spotify.com/track/53AD8JznNIb0jUZvwFY6MB) | [Sonny Til & The Orioles](https://open.spotify.com/artist/0xu2ZjoR7pUPjMIDcJ67dW) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/5GuwHCtGYe062YWhAyc0jF) | 3:01 |
+| 49 | [Whispering Bells](https://open.spotify.com/track/146DRoVAxV5jNjv04Pw6XJ) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [The Pennsylvania Vikings](https://open.spotify.com/album/3AEbuPJtClS1zNd8oTJLSD) | 2:23 |
+| 50 | [Shop Around](https://open.spotify.com/track/1VMncXCJ34SIAosUKhzjHy) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Greatest Hits: From The Beginning](https://open.spotify.com/album/5XmTHDRdxXFdrctu02TLMP) | 2:49 |
 
-Snapshot ID: `MCw3Zjg3NTJkZDkzZDUzNmJjYzU4NWEwZDQyNDk0OWE4YTM2M2E1NGIy`
+Snapshot ID: `MCxkOWVhMGYyNzU4NWE2MzgxMWJkYTVmODAxMmYyYWYwYTY2MjU0NGVl`

@@ -396,7 +396,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 208759,
       "name": "Can't Stop the Feeling",
       "url": "https://open.spotify.com/track/0NsigEyiIwuysCjeU9EhRU"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 245333,
       "name": "Dance for Me",
       "url": "https://open.spotify.com/track/6wJ22X7UZ56eCmrsibz6Td"
@@ -2767,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "Take You Higher",
+        "url": "https://open.spotify.com/album/5A7VgzMdiSsy3GFIhwGwLA"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214351,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/1UdP4gLeahMZAqZyoNnDBN"
+    },
+    {
+      "album": {
         "name": "Teatro",
         "url": "https://open.spotify.com/album/6t3Zksrkbhfkf8UOzBVn9k"
       },
@@ -2786,6 +2804,24 @@
       "duration_ms": 404996,
       "name": "Teatro",
       "url": "https://open.spotify.com/track/5wDHm6XJA1vkysHDPdI8Db"
+    },
+    {
+      "album": {
+        "name": "Techno Acid 303",
+        "url": "https://open.spotify.com/album/1qo26STwNIEujdeZ2S4IyG"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230142,
+      "name": "Techno Acid 303",
+      "url": "https://open.spotify.com/track/3I6rEbfsXuLUPeYehl0q1g"
     },
     {
       "album": {
@@ -3114,7 +3150,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 288671,
       "name": "Together One Time",
       "url": "https://open.spotify.com/track/5UH3wpmBqgrTqMjtBdDv2s"
@@ -3416,6 +3452,28 @@
       "duration_ms": 206625,
       "name": "We Control",
       "url": "https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu"
+    },
+    {
+      "album": {
+        "name": "When I Rock (A.D.H.S. Remix)",
+        "url": "https://open.spotify.com/album/3AUUUXLVRCj3nHbGHPT0ic"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        },
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259130,
+      "name": "When I Rock - A.D.H.S. Remix",
+      "url": "https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd"
     },
     {
       "album": {

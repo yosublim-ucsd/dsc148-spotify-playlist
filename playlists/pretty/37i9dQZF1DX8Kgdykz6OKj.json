@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1182122,
+  "num_followers": 1182425,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTk5Yjk2NWMzMDE5MTBlYWE0MTljNzM1YWIwZTQ1MjUzYzExZDg2",
+  "snapshot_id": "MCxjMzczYWIwNjA4MjI5MTExNjNjNzc4MzA3MmJjYTEyNjkwZjNjNDkz",
   "tracks": [
     {
       "added_at": "2023-09-21 22:00:00",
@@ -331,6 +331,26 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "Nobody Cares Till Everybody Does",
+        "url": "https://open.spotify.com/album/0TpMAy5WPGObUkL5LPuuMc"
+      },
+      "artists": [
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        },
+        {
+          "name": "Ady Suleiman",
+          "url": "https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88"
+        }
+      ],
+      "duration_ms": 195821,
+      "name": "Talk About Us",
+      "url": "https://open.spotify.com/track/7GcCIkXh9Y4qDSXnMLJgHW"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Spiritual State",
         "url": "https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 194293,
       "name": "City Lights (feat. Pase Rock & Substantial)",
       "url": "https://open.spotify.com/track/0fbnqrpTlUdy0PUwMdU8Pl"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Nobody Cares Till Everybody Does",
-        "url": "https://open.spotify.com/album/0TpMAy5WPGObUkL5LPuuMc"
-      },
-      "artists": [
-        {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        },
-        {
-          "name": "Ady Suleiman",
-          "url": "https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88"
-        }
-      ],
-      "duration_ms": 195821,
-      "name": "Talk About Us",
-      "url": "https://open.spotify.com/track/7GcCIkXh9Y4qDSXnMLJgHW"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
+      },
+      "artists": [
+        {
+          "name": "Grand Puba",
+          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "A Little Of This",
+      "url": "https://open.spotify.com/track/1M3D5FWqKil0eNpKksKBa1"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "After The Storm (Pete Rock Remix)",
         "url": "https://open.spotify.com/album/6TM1R6aTR2wGMMAZpwvXje"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 225026,
       "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins) - Pete Rock Remix",
       "url": "https://open.spotify.com/track/1aKzgL3nsei4Idwi8H9Zts"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
-      },
-      "artists": [
-        {
-          "name": "Grand Puba",
-          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "A Little Of This",
-      "url": "https://open.spotify.com/track/1M3D5FWqKil0eNpKksKBa1"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 271373,
+      "name": "Pacifics - From The Original Motion Picture Soundtrack \u201cN.Y. Is Red Hot\"",
+      "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Metaphorical Music",
         "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 203706,
       "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
       "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 271373,
-      "name": "Pacifics - From The Original Motion Picture Soundtrack \u201cN.Y. Is Red Hot\"",
-      "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 260693,
+      "name": "Dog It",
+      "url": "https://open.spotify.com/track/6Mbm86B4joMLyCncLCESCG"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
         "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 176884,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/0Wk1F7rr43ANfiyAgHZxOs"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 260693,
-      "name": "Dog It",
-      "url": "https://open.spotify.com/track/6Mbm86B4joMLyCncLCESCG"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "Jettin'",
+      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "The Actual Proof",
         "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
       },
@@ -847,6 +863,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "The Rain",
+        "url": "https://open.spotify.com/album/60DtiPQbSHleBcigjwztG9"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        }
+      ],
+      "duration_ms": 157603,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/30qvk9d9puwUPqklbQG3KT"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Green Street (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5gGkZtYnMyoAvNUz88V47g"
       },
@@ -863,22 +895,6 @@
       "duration_ms": 160508,
       "name": "Super Fly Funk",
       "url": "https://open.spotify.com/track/1gEdLgfWA7xkJ9TYaUJHmi"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "The Rain",
-        "url": "https://open.spotify.com/album/60DtiPQbSHleBcigjwztG9"
-      },
-      "artists": [
-        {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
-        }
-      ],
-      "duration_ms": 157603,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/30qvk9d9puwUPqklbQG3KT"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -915,22 +931,6 @@
       "duration_ms": 198525,
       "name": "POETRY JAM (feat. Foggieraw)",
       "url": "https://open.spotify.com/track/4m4IJ0GaepAsVNP3qqSVDW"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Jettin'",
-      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -979,6 +979,30 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "GISEKE",
+        "url": "https://open.spotify.com/album/3EVhMsdzVzTUe1I67viGDv"
+      },
+      "artists": [
+        {
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Ar\u00e9na",
+          "url": "https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j"
+        }
+      ],
+      "duration_ms": 153028,
+      "name": "MOVIN'",
+      "url": "https://open.spotify.com/track/344MYybqGBtYOEI97tb0f5"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "The Feeling",
         "url": "https://open.spotify.com/album/3vH1qTsY5lbQvkwHH8PwGc"
       },
@@ -1023,30 +1047,6 @@
       "duration_ms": 147617,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/37NJtv7Cbkb9potgl3pArj"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "GISEKE",
-        "url": "https://open.spotify.com/album/3EVhMsdzVzTUe1I67viGDv"
-      },
-      "artists": [
-        {
-          "name": "Bluestaeb",
-          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "Ar\u00e9na",
-          "url": "https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j"
-        }
-      ],
-      "duration_ms": 153028,
-      "name": "MOVIN'",
-      "url": "https://open.spotify.com/track/344MYybqGBtYOEI97tb0f5"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Heart Shaped Kisses",
-        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
-      },
-      "artists": [
-        {
-          "name": "Vluestar",
-          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Heart Shaped Kisses",
-      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "LONERWRLD, vol 1",
         "url": "https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Bring Backs",
-        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
+        "name": "Heart Shaped Kisses",
+        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
       },
       "artists": [
         {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
         }
       ],
-      "duration_ms": 276252,
-      "name": "Organic Rust",
-      "url": "https://open.spotify.com/track/4HtCMJaTUdrtgBtVEL2W42"
+      "duration_ms": 168000,
+      "name": "Heart Shaped Kisses",
+      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1535,6 +1519,22 @@
       "duration_ms": 131000,
       "name": "Careful",
       "url": "https://open.spotify.com/track/63IDTb6NGCCQuLLsS3He3L"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Bring Backs",
+        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 276252,
+      "name": "Organic Rust",
+      "url": "https://open.spotify.com/track/4HtCMJaTUdrtgBtVEL2W42"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "It's Nice Outside",
-        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly",
-          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "It's Nice Outside",
-      "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 242747,
       "name": "Go So Far",
       "url": "https://open.spotify.com/track/7q2H0gVB35EQgn8vXS3kw3"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "It's Nice Outside",
+        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly",
+          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "It's Nice Outside",
+      "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1883,6 +1883,26 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j"
+      },
+      "artists": [
+        {
+          "name": "Lord Apex",
+          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 213940,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "DOOM",
         "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
       },
@@ -1971,30 +1991,6 @@
       "duration_ms": 355720,
       "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
       "url": "https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Palm Trees",
-        "url": "https://open.spotify.com/album/5cFilTRRO7XTL1ZN3AjDKM"
-      },
-      "artists": [
-        {
-          "name": "K. Sparks",
-          "url": "https://open.spotify.com/artist/24wsTHZ4EsAzPrgG4qIf3Z"
-        },
-        {
-          "name": "Ricardo Schneider",
-          "url": "https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv"
-        },
-        {
-          "name": "Hoffy Beats",
-          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
-        }
-      ],
-      "duration_ms": 136526,
-      "name": "Midnight Schemes",
-      "url": "https://open.spotify.com/track/6xPB98epJF3wqRObu8w0Ro"
     },
     {
       "added_at": "2023-09-21 22:00:00",

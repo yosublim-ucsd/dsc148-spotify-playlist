@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTM0MGMwNWUyODQwNDZmMDkzNTI0MDBlZGMzZDMxNTIwOTgwZWEw",
+  "snapshot_id": "MCxmNWZlMGZmZmU5NTZjZGMwYWE2YWU3ODMxODhlNmJhNjM1MTg0M2Vj",
   "tracks": [
     {
       "added_at": "2021-12-29 23:25:31",
@@ -387,38 +387,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "World Music Guatemala, Danzas Mayas, Mayan Dances",
-        "url": "https://open.spotify.com/album/0dKCmV0ACWcV5JqebK6ibq"
-      },
-      "artists": [
-        {
-          "name": "Maderas Chapinas",
-          "url": "https://open.spotify.com/artist/4aOdzq55jxQd2Oxdg7fNo2"
-        }
-      ],
-      "duration_ms": 139533,
-      "name": "Rabin Ajau, Marimba de Guatemala",
-      "url": "https://open.spotify.com/track/7sxGGYL3FpktgNWlyTQyTc"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
-        "name": "Marimba Alma de Chiapas de Juan Palacios",
-        "url": "https://open.spotify.com/album/27owIuyxZgBgWnVQdxBaOz"
-      },
-      "artists": [
-        {
-          "name": "Marimba Alma de Chiapas de Juan Palacios",
-          "url": "https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm"
-        }
-      ],
-      "duration_ms": 331213,
-      "name": "Popurr\u00ed Ranchero: Tristes Recuerdos, Caminos de Michoac\u00e1n, No Volver\u00e9, El Sinaloense",
-      "url": "https://open.spotify.com/track/4fenlXxnj6nZ61J3PZa35C"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "Marimbas Y Regional Vol. 2",
         "url": "https://open.spotify.com/album/0ETFW2f3YiuOJqNHeevh1c"
       },
@@ -439,6 +407,38 @@
       "duration_ms": 86644,
       "name": "Escalera a las nubes",
       "url": "https://open.spotify.com/track/1k1wRrZuqioouMN7yZbeX2"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "Marimba Alma de Chiapas de Juan Palacios",
+        "url": "https://open.spotify.com/album/27owIuyxZgBgWnVQdxBaOz"
+      },
+      "artists": [
+        {
+          "name": "Marimba Alma de Chiapas de Juan Palacios",
+          "url": "https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm"
+        }
+      ],
+      "duration_ms": 331213,
+      "name": "Popurr\u00ed Ranchero: Tristes Recuerdos, Caminos de Michoac\u00e1n, No Volver\u00e9, El Sinaloense",
+      "url": "https://open.spotify.com/track/4fenlXxnj6nZ61J3PZa35C"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "World Music Guatemala, Danzas Mayas, Mayan Dances",
+        "url": "https://open.spotify.com/album/0dKCmV0ACWcV5JqebK6ibq"
+      },
+      "artists": [
+        {
+          "name": "Maderas Chapinas",
+          "url": "https://open.spotify.com/artist/4aOdzq55jxQd2Oxdg7fNo2"
+        }
+      ],
+      "duration_ms": 139533,
+      "name": "Rabin Ajau, Marimba de Guatemala",
+      "url": "https://open.spotify.com/track/7sxGGYL3FpktgNWlyTQyTc"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -507,18 +507,22 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Gracias Vol. 5. M\u00fasica de Guatemala para los Latinos",
-        "url": "https://open.spotify.com/album/4Vhn9pgDaLg6Cm3zSud2pc"
+        "name": "Marimbas Clasicas",
+        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
       },
       "artists": [
         {
-          "name": "Hermanos Funes y Su Marimba Orquesta",
-          "url": "https://open.spotify.com/artist/7zTwYRqtldx7Ha4rdEukxZ"
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 292536,
-      "name": "Bailando Con la Llorona",
-      "url": "https://open.spotify.com/track/1K2m47vXdg40MG4h6tdluf"
+      "duration_ms": 97894,
+      "name": "Las Ma\u00f1anitas",
+      "url": "https://open.spotify.com/track/4PelarhQJOESpMFTunAoNV"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -555,22 +559,18 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Marimbas Clasicas",
-        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
+        "name": "Gracias Vol. 5. M\u00fasica de Guatemala para los Latinos",
+        "url": "https://open.spotify.com/album/4Vhn9pgDaLg6Cm3zSud2pc"
       },
       "artists": [
         {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+          "name": "Hermanos Funes y Su Marimba Orquesta",
+          "url": "https://open.spotify.com/artist/7zTwYRqtldx7Ha4rdEukxZ"
         }
       ],
-      "duration_ms": 97894,
-      "name": "Las Ma\u00f1anitas",
-      "url": "https://open.spotify.com/track/4PelarhQJOESpMFTunAoNV"
+      "duration_ms": 292536,
+      "name": "Bailando Con la Llorona",
+      "url": "https://open.spotify.com/track/1K2m47vXdg40MG4h6tdluf"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -743,22 +743,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Vuelve La Marimba Orquesta Lira de Chiapas",
-        "url": "https://open.spotify.com/album/4Pj926DUiao0viyG8mho42"
-      },
-      "artists": [
-        {
-          "name": "Marimba Orquesta Lira de Chiapas",
-          "url": "https://open.spotify.com/artist/3n3cR7uemjtAhab5GjUEmX"
-        }
-      ],
-      "duration_ms": 247853,
-      "name": "Amor de Mis Amores",
-      "url": "https://open.spotify.com/track/1PiYkzT93TD8ht6x3QgodE"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "Boleros en Marimba",
         "url": "https://open.spotify.com/album/5XNrHU5DQgAk8c0zsb7TA4"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 300466,
       "name": "Un Viejo Amor (Bolero en Marimba)",
       "url": "https://open.spotify.com/track/286pe3S2UB3LEGCYV8lz2o"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "Vuelve La Marimba Orquesta Lira de Chiapas",
+        "url": "https://open.spotify.com/album/4Pj926DUiao0viyG8mho42"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Lira de Chiapas",
+          "url": "https://open.spotify.com/artist/3n3cR7uemjtAhab5GjUEmX"
+        }
+      ],
+      "duration_ms": 247853,
+      "name": "Amor de Mis Amores",
+      "url": "https://open.spotify.com/track/1PiYkzT93TD8ht6x3QgodE"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -987,22 +987,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Danzones, Mambos y Cha Cha Chas",
-        "url": "https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL"
-      },
-      "artists": [
-        {
-          "name": "Marimba Nandayapa",
-          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "Mambo No. 5",
-      "url": "https://open.spotify.com/track/2SxY5ATUpTUSowmQclPhTm"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "World Music Guatemala 2, M\u00fasica Tradicional, Traditional Music",
         "url": "https://open.spotify.com/album/4J0lRtA02lqPbjfyr5tHXi"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 188666,
       "name": "Chichicastenango, Marimba de Guatemala",
       "url": "https://open.spotify.com/track/3oiHEDRCOrCLU27og8j182"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "Danzones, Mambos y Cha Cha Chas",
+        "url": "https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL"
+      },
+      "artists": [
+        {
+          "name": "Marimba Nandayapa",
+          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "Mambo No. 5",
+      "url": "https://open.spotify.com/track/2SxY5ATUpTUSowmQclPhTm"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "M\u00fasica de Guatemala en Marimba",
-        "url": "https://open.spotify.com/album/4jJIhOVAFGrbpnyb4SYBVC"
-      },
-      "artists": [
-        {
-          "name": "Marimba de Concierto de Chichicastenango",
-          "url": "https://open.spotify.com/artist/4RLtu3vMR2RJi4OGXV7ABV"
-        }
-      ],
-      "duration_ms": 444557,
-      "name": "Obertura indigena (Marimba version)",
-      "url": "https://open.spotify.com/track/2m3b8k1jZSPQgWsXn9ltUw"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "Luna de Plata",
         "url": "https://open.spotify.com/album/5zsYxrTgEVPdO24SKoaMbv"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
+        "name": "M\u00fasica de Guatemala en Marimba",
+        "url": "https://open.spotify.com/album/4jJIhOVAFGrbpnyb4SYBVC"
+      },
+      "artists": [
+        {
+          "name": "Marimba de Concierto de Chichicastenango",
+          "url": "https://open.spotify.com/artist/4RLtu3vMR2RJi4OGXV7ABV"
+        }
+      ],
+      "duration_ms": 444557,
+      "name": "Obertura indigena (Marimba version)",
+      "url": "https://open.spotify.com/track/2m3b8k1jZSPQgWsXn9ltUw"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
         "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
         "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 222853,
       "name": "20 de Enero",
       "url": "https://open.spotify.com/track/68dfC4E9fkr5Eh75Ga7rK3"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/2lfTr5gFbW8j6PzZUXa3nw"
-      },
-      "artists": [
-        {
-          "name": "Marimba Nandayapa",
-          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
-        }
-      ],
-      "duration_ms": 69773,
-      "name": "El Vuelo del Abejorro",
-      "url": "https://open.spotify.com/track/4MaT5mpCJ5DvipUR0uQAEw"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1143,6 +1127,22 @@
       "duration_ms": 267013,
       "name": "Sabor a Mi",
       "url": "https://open.spotify.com/track/6V94Oxsr2RPI82dF9jAZmo"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/2lfTr5gFbW8j6PzZUXa3nw"
+      },
+      "artists": [
+        {
+          "name": "Marimba Nandayapa",
+          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
+        }
+      ],
+      "duration_ms": 69773,
+      "name": "El Vuelo del Abejorro",
+      "url": "https://open.spotify.com/track/4MaT5mpCJ5DvipUR0uQAEw"
     },
     {
       "added_at": "2021-12-29 23:25:31",

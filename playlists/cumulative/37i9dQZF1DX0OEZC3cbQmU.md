@@ -2,7 +2,7 @@
 
 ### [Sucessos Gospel](https://open.spotify.com/playlist/37i9dQZF1DX0OEZC3cbQmU)
 
-> A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Maria Marçal
+> A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Valesca Mayssa
 
 96 songs - 9 hr 40 min
 

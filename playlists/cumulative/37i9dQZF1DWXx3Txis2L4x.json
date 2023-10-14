@@ -2587,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216893,
+      "name": "Streetcar",
+      "url": "https://open.spotify.com/track/3QvcNLv6ljvuU1KD7dSINg"
+    },
+    {
+      "album": {
         "name": "From Under The Cork Tree",
         "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
@@ -2850,7 +2868,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 209693,
       "name": "The Other Line",
       "url": "https://open.spotify.com/track/3eoEriMHjKEpyNa2BFmdSm"

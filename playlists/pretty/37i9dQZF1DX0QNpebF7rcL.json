@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Shemekia Copeland",
-  "num_followers": 51881,
+  "num_followers": 51903,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWY1MmM1N2UwZDhiNjhkNGI2MGM0ZGVkNjg4ZjM5NjNmMmUxMjc3",
+  "snapshot_id": "MCwyZDc4MWJlZDJlNWRiZTZkOTk3NTFjYmJmYzVkZTZlMjhlMTRhYzc5",
   "tracks": [
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/2AfgpZdbs8CI1MvjFaus2A"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 265720,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/4GuQf92xMVo9FYRYnj37OL"
+    },
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
@@ -109,22 +125,6 @@
       "url": "https://open.spotify.com/track/2tKvPt023QVMNkkNqmTDap"
     },
     {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Sweet 'Lil Lies",
-        "url": "https://open.spotify.com/album/6UCqBQAXge2aQLiZa6HrLu"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 317719,
-      "name": "Sweet 'Lil Lies",
-      "url": "https://open.spotify.com/track/6ibzlLNs7baLXzz4RjMLd9"
-    },
-    {
       "added_at": "2023-09-22 04:01:00",
       "album": {
         "name": "I'll Be Moving On",
@@ -143,22 +143,6 @@
       "duration_ms": 231885,
       "name": "I'll Be Moving On",
       "url": "https://open.spotify.com/track/3q53EOS9boS1UYg7et96KC"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Hope You Realize It (Goodbye Again)",
-        "url": "https://open.spotify.com/album/2fHbu3R5or4jVtzvHdc9OZ"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Hope You Realize It (Goodbye Again)",
-      "url": "https://open.spotify.com/track/2cMKzAbQbKwHqYQgvRvGSw"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -203,6 +187,22 @@
       "duration_ms": 298984,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Big Grey Sky",
+        "url": "https://open.spotify.com/album/19Unzw1ncj6JqxPGPBkXbP"
+      },
+      "artists": [
+        {
+          "name": "Chris Thomas King",
+          "url": "https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN"
+        }
+      ],
+      "duration_ms": 268031,
+      "name": "Big Grey Sky",
+      "url": "https://open.spotify.com/track/58oEh6arIVp6WWUDiTnBun"
     },
     {
       "added_at": "2023-09-15 04:01:00",

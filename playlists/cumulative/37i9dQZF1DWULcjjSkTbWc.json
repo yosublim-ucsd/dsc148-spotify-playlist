@@ -430,7 +430,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 285706,
       "name": "Dark Star",
       "url": "https://open.spotify.com/track/40lm5PFVQopOYaIXmyWNS9"
@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Are We There Yet?",
+        "url": "https://open.spotify.com/album/0BuCV5EL2sM6iUvaxFtpPx"
+      },
+      "artists": [
+        {
+          "name": "Rick Astley",
+          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217092,
+      "name": "Forever and More",
+      "url": "https://open.spotify.com/track/0B9xp10eoOa1XK5F30gY0l"
+    },
+    {
+      "album": {
         "name": "The Magic Numbers",
         "url": "https://open.spotify.com/album/22V78Zizbqody4GGdF4gLL"
       },
@@ -766,7 +784,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 199759,
       "name": "Hate To Say I Told You So",
       "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
@@ -838,7 +856,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 244767,
       "name": "Houses of American Style",
       "url": "https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl"
@@ -1029,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167840,
+      "name": "Lasso",
+      "url": "https://open.spotify.com/track/29ceu4GvNpnHSfLeBL4O7W"
+    },
+    {
+      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
       },
@@ -1130,7 +1166,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 184653,
       "name": "Love the One You're With",
       "url": "https://open.spotify.com/track/6kXGGyEPSRS1g9Ltm70jo9"
@@ -1530,7 +1566,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
@@ -1696,7 +1732,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 204200,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q"
@@ -1732,7 +1768,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 232106,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
@@ -1804,7 +1840,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 444053,
       "name": "Suite: Judy Blue Eyes - 2005 Remaster",
       "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
@@ -1884,10 +1920,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 174727,
       "name": "Thunderdome [W.T.A.] (feat. Black Thought & Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/6GBY5tHb2U39hYDGjrpQ0Y"
+    },
+    {
+      "album": {
+        "name": "TK421",
+        "url": "https://open.spotify.com/album/7IncAEknANwQthqiwWySBP"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195266,
+      "name": "TK421",
+      "url": "https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO"
     },
     {
       "album": {

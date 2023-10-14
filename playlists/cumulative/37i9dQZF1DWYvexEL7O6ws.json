@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "H e r O l d F r i e n d s",
+        "url": "https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256117,
+      "name": "H e r O l d F r i e n d s",
+      "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
+    },
+    {
+      "album": {
         "name": "SEPT 5TH",
         "url": "https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv"
       },
@@ -882,24 +900,6 @@
       "duration_ms": 300728,
       "name": "Her",
       "url": "https://open.spotify.com/track/4Wfe2jloKo95eFVnJEr5N1"
-    },
-    {
-      "album": {
-        "name": "Her Old Friends",
-        "url": "https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "date_added": "2023-06-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 256117,
-      "name": "Her Old Friends",
-      "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
     },
     {
       "album": {

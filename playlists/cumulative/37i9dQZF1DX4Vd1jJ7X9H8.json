@@ -516,7 +516,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 215506,
       "name": "Baby I'm Yours",
       "url": "https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV"
@@ -814,6 +814,24 @@
       "duration_ms": 188713,
       "name": "Body Of Water",
       "url": "https://open.spotify.com/track/3t3nRJMR8dvWySXrgGUpyD"
+    },
+    {
+      "album": {
+        "name": "This Must Be A PawPaw Rod EP",
+        "url": "https://open.spotify.com/album/7kCZCWQ1F3MAEQYEvcqQQF"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188421,
+      "name": "Bonafide",
+      "url": "https://open.spotify.com/track/1jIopA8Imz4gwR8bjBlEjJ"
     },
     {
       "album": {
@@ -1732,7 +1750,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 305350,
       "name": "Dang! (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
@@ -2744,7 +2762,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 199006,
       "name": "Feels Right",
       "url": "https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D"
@@ -2926,7 +2944,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-09",
+      "date_removed": null,
       "duration_ms": 244080,
       "name": "Foreign Language",
       "url": "https://open.spotify.com/track/6M0cy8N7KQhaYbJ7088D28"
@@ -3104,7 +3122,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 231192,
       "name": "go with u",
       "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
@@ -5409,6 +5427,24 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/6oaWJD1A4bgpiqNWvp0mwk"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205026,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3dyI5XL7jMz905RsJiGDjf"
+    },
+    {
+      "album": {
         "name": "If This Is House I Want My Money Back 3",
         "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
       },
@@ -5474,7 +5510,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 198305,
       "name": "Music Sounds Better with You",
       "url": "https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV"
@@ -5568,7 +5604,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 190826,
       "name": "Nan\u00e3",
       "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
@@ -7286,7 +7322,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 233978,
       "name": "Starry Night - Edit",
       "url": "https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB"
@@ -7380,7 +7416,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 220726,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
@@ -8116,7 +8152,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 170125,
       "name": "Uno Dos",
       "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"

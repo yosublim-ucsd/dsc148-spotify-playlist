@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-13",
-  "description": "Italian funk, disco and jazz, recent and old\u2014to listen to while you have aperitivo on a rooftop, ideally \ud83c\udf05",
+  "description": "Italian funk, disco and jazz, recent and old. Hand-picked by actual Italians. \ud83c\udf19",
   "name": "Italian Sunset",
   "tracks": [
     {
@@ -3074,6 +3074,24 @@
       "duration_ms": 148173,
       "name": "Motion",
       "url": "https://open.spotify.com/track/4jeQnCp9IL3pbLPn0UjLmh"
+    },
+    {
+      "album": {
+        "name": "Gli ordini sono ordini (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3kBJUgj279LsOfO13mrhOe"
+      },
+      "artists": [
+        {
+          "name": "Fred Bongusto",
+          "url": "https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80527,
+      "name": "Motivo di Giorgia",
+      "url": "https://open.spotify.com/track/6v77gXfHDNgbVqFbVN5MD7"
     },
     {
       "album": {

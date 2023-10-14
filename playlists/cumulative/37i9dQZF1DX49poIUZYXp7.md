@@ -4,7 +4,7 @@
 
 > The extraordinary women making great country music today\. Cover: Tenille Townes
 
-342 songs - 18 hr 43 min
+343 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Better Luck Next Time](https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Better Luck Next Time](https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6) | 2:52 | 2021-12-01 | 2022-03-02 |
 | [Better On Me](https://open.spotify.com/track/3Gk75ziLzHNskYTW2MIG4p) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Better On Me](https://open.spotify.com/album/5iCiDUEYtamxT2KOTT22Gf) | 2:29 | 2022-03-25 | 2023-02-07 |
 | [Big for a Small Town](https://open.spotify.com/track/1cssFOIRPAewIVA9cjRXxH) | [Karli June](https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR) | [Where You Come From](https://open.spotify.com/album/2mO8xA8bcTFLezrNCnUjnF) | 3:07 | 2022-03-25 | 2022-04-21 |
+| [Bigger Than The Song](https://open.spotify.com/track/5v3r5BBXflOj5vedGJb1v8) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Bigger Than The Song](https://open.spotify.com/album/7i0OwcTKu2NSs6CNnuP653) | 3:09 | 2023-10-13 |  |
 | [Bits & Pieces](https://open.spotify.com/track/2muPf36lYJMIqGzI3h8JTQ) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Bits & Pieces](https://open.spotify.com/album/5kGK6raX2Jt0hiQSZ6Q3uC) | 2:41 | 2021-12-01 | 2022-07-27 |
 | [Bluebird](https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:29 | 2021-12-01 |  |
 | [Bonfire At Tina's](https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:40 | 2022-09-30 | 2022-11-02 |
@@ -238,7 +239,7 @@
 | [Safe](https://open.spotify.com/track/7Hzfq1oa2I3fACCSIP4SMN) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Safe](https://open.spotify.com/album/4vC4o3WtfvJ7BcQrlQGDOi) | 3:19 | 2021-12-01 | 2022-04-19 |
 | [Same Car](https://open.spotify.com/track/6yCW8qaDobbzDQS4qjTfJO) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Same Car](https://open.spotify.com/album/18QJ8qka8jU6I9P4SAgmGo) | 3:39 | 2023-05-05 |  |
 | [Say It First](https://open.spotify.com/track/1rIzZXLoXTMXif9IKAoqvc) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Say It First](https://open.spotify.com/album/6icFOHKNtZPLyUimlFFCSA) | 3:20 | 2021-12-01 | 2022-04-21 |
-| [Sayin' What I'm Thinkin'](https://open.spotify.com/track/0Hhb848NsTCRTqi3Fm6C79) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:21 | 2021-12-01 |  |
+| [Sayin' What I'm Thinkin'](https://open.spotify.com/track/0Hhb848NsTCRTqi3Fm6C79) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:21 | 2021-12-01 | 2023-10-14 |
 | [Seeing Someone Else](https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Seeing Someone Else](https://open.spotify.com/album/4oAvf42fOYgtFbVdoslw6n) | 3:26 | 2022-06-01 | 2023-03-02 |
 | [self care.](https://open.spotify.com/track/6LquGHxKryERHadmNCaQrE) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 2:19 | 2022-09-23 | 2023-06-03 |
 | [Selfish](https://open.spotify.com/track/71iRqMLlOmowRrAK1ZkjOB) | [Shae Dupuy](https://open.spotify.com/artist/5m32rAyDfE2NKMRrOhc0L0) | [Selfish](https://open.spotify.com/album/66gju6259kmYi4puVpwWpI) | 3:15 | 2022-03-25 | 2022-04-15 |

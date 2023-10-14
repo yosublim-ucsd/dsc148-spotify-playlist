@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-267 songs - 12 hr 10 min
+268 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [In Daisies Lain](https://open.spotify.com/track/5cfyGiPqoeKsIGgnmj6Hvq) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [In Daisies Lain](https://open.spotify.com/album/48Ry8I2qQ5R6wyMfVQMjwf) | 2:21 | 2022-12-23 |  |
 | [In the Makeup of the Sun \- Instrumental Version](https://open.spotify.com/track/2yyUytDg93W9yK40uENJg6) | [Christian Wannerwall](https://open.spotify.com/artist/4Z3m4U4Qm1b8EFpcws68kh) | [In the Makeup of the Sun \(Instrumental Version\)](https://open.spotify.com/album/1h90KBYEpVefz7oqZbpYFx) | 1:39 | 2022-05-13 | 2023-03-07 |
 | [In the Makeup of the Sun \- Instrumental Version](https://open.spotify.com/track/6ve8VJ7npOQkUQof64nEoK) | [Christian Wannerwall](https://open.spotify.com/artist/4Z3m4U4Qm1b8EFpcws68kh) | [In the Makeup of the Sun \(Instrumental Version\)](https://open.spotify.com/album/58u78BdHflclRqGWlv5hro) | 1:39 | 2023-02-24 | 2023-06-10 |
-| [Innocent Face](https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:02 | 2023-10-13 |  |
+| [Innocent Face](https://open.spotify.com/track/1LjYFVvhXmuP3RgErQBYkH) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Innocent Face](https://open.spotify.com/album/4GpBw9UUFaHkv12myq2POe) | 2:02 | 2023-10-13 |  |
+| [Innocent Face](https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:02 | 2023-10-13 | 2023-10-14 |
 | [Intuition](https://open.spotify.com/track/6vUsv2JJEUDjfKO6WPDJhZ) | [Miller Hawkins](https://open.spotify.com/artist/3UOaQwHxcBDlMJm5P34hme) | [Intuition](https://open.spotify.com/album/4yTM5RvuKvukyE0JudZm6G) | 2:54 | 2022-05-13 |  |
 | [Isaar im Mondschein](https://open.spotify.com/track/0wyxPRiJzaNkJ3KmiqXaQq) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Frühlings Erwachen](https://open.spotify.com/album/2qUMNFnnZUzoyQbYo3jvWc) | 3:41 | 2022-05-13 |  |
 | [Jasmine Spring](https://open.spotify.com/track/0rvAQQgVhaUsbl9oF4pmlQ) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Jasmine Spring](https://open.spotify.com/album/5jTFUQwgbtF73qI3Qky9sF) | 2:26 | 2022-07-22 |  |

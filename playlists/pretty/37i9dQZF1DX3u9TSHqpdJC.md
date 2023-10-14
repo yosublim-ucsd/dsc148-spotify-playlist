@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: NEEA RIVER
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,353 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,330 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 38 | [hanging on to u](https://open.spotify.com/track/7a0dSjvdpgKo9TS2elKzgT) | [Nico Annello](https://open.spotify.com/artist/0nHk7N31XWz5AFgj9K314m) | [hanging on to u](https://open.spotify.com/album/2PjgJHtInoinXf3duFFyXq) | 3:15 |
 | 39 | [No Problema](https://open.spotify.com/track/3QwMFdozsuXkscFngjBuL8) | [Triple Charm](https://open.spotify.com/artist/4NXWlpR2K0dfd31I6K9AWV) | [No Problema](https://open.spotify.com/album/1GgaNXxUgIz2ajjs8HIGn8) | 2:38 |
 | 40 | [can't think straight](https://open.spotify.com/track/2ShPJKWLjZ5kYgIS9BpQ5l) | [Eva Grace](https://open.spotify.com/artist/67sX3xnatlElE31KHjSWVr) | [can't think straight](https://open.spotify.com/album/4gth6e3MaS6rrn2W2XvjAw) | 2:21 |
-| 41 | [Natural Tendency](https://open.spotify.com/track/5RhxxIUt6PpeqDjJln2H0E) | [Ayla Tesler\-Mabe](https://open.spotify.com/artist/3BEEiUnWFsmP8EbK0QCe1O) | [Natural Tendency](https://open.spotify.com/album/7adpPb0DioQlvT5juvqntA) | 3:22 |
+| 41 | [Natural Tendency](https://open.spotify.com/track/5RhxxIUt6PpeqDjJln2H0E) | [Ayla Tesler\-Mabé](https://open.spotify.com/artist/3BEEiUnWFsmP8EbK0QCe1O) | [Natural Tendency](https://open.spotify.com/album/7adpPb0DioQlvT5juvqntA) | 3:22 |
 | 42 | [V&V](https://open.spotify.com/track/3a6yyXcHO6gGrUpoC2ojaW) | [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [V&V](https://open.spotify.com/album/3jvaeU6sCrECIE0gR8vtFX) | 3:14 |
 | 43 | [Horror Movie](https://open.spotify.com/track/0N7DrFdls2ZCXInaviVLdL) | [Gia Darcy](https://open.spotify.com/artist/5asUNjuXqcxAs2PmpQxGK1) | [Horror Movie](https://open.spotify.com/album/4YMvlIOgp4JbOzrOmyBhL1) | 3:10 |
 | 44 | [Out of Your Mind](https://open.spotify.com/track/1eTe7F3gr8UbKrzEocuK55) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Out of Your Mind](https://open.spotify.com/album/2a4LBjLOuYkCWiaJkbxXP1) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [different but exactly like you](https://open.spotify.com/track/7IbkNoUqOuOSUeSqqxm56f) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [idk if this is it](https://open.spotify.com/album/6pCfsQZiAiWXx9zMctgxyj) | 3:47 |
 | 100 | [Melancholia High Season](https://open.spotify.com/track/5MM3IVs8N9edrTOTs7Ug60) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Melancholia High Season](https://open.spotify.com/album/13aLxThHnCfi8aEyFsNuh2) | 3:03 |
 
-Snapshot ID: `MCwzMWVlZWNmMTViMmIwYzlhODkxOTQ5YjNkMGJjMDZlMWE2MzZlYjUz`
+Snapshot ID: `MCxkM2U5NzI4MmFmODlhNzM1MzMzMjQ1ZjcxMWRlNWQyOTUzY2VkOGNk`

@@ -4,13 +4,13 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Enrique Iglesias y Maria Becerra
 
-328 songs - 20 hr 16 min
+329 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [15,500 Noches](https://open.spotify.com/track/0X6sRADYbUDYutAulPllKN) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy), [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx), [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu), [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 4:31 | 2022-09-02 | 2022-09-10 |
 | [50/50](https://open.spotify.com/track/6OMRRYsSxvwAfFxkFfzn4L) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [50/50](https://open.spotify.com/album/7pqN4Gjy61BPFqpbJ8Vqjf) | 3:46 | 2022-03-04 | 2022-09-03 |
-| [7 Pecados](https://open.spotify.com/track/6xl0OFFGmvDd0MnmOT4zuj) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [7 Pecados](https://open.spotify.com/album/176s0aCeKMzCKl51vXul3X) | 3:24 | 2023-05-05 |  |
+| [7 Pecados](https://open.spotify.com/track/6xl0OFFGmvDd0MnmOT4zuj) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [7 Pecados](https://open.spotify.com/album/176s0aCeKMzCKl51vXul3X) | 3:24 | 2023-05-05 | 2023-10-14 |
 | [Abrete](https://open.spotify.com/track/2JT09i9gxPolHFrliKbxsD) | [Chiko Swagg](https://open.spotify.com/artist/0zz9lzzQBgwxEDsYHy0H2n), [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Abrete](https://open.spotify.com/album/06PuNPUtn9QmMWuSgmMAz5) | 4:14 | 2022-08-19 | 2022-09-03 |
 | [Adicta](https://open.spotify.com/track/0TrltbGlB8TyzKnYLWGaM8) | [Dama](https://open.spotify.com/artist/5YvnPJFWHBBV8SkjvzGWHT), [Mayinbito](https://open.spotify.com/artist/6FdgIggKvVgdMenO8cnnBA) | [Adicta](https://open.spotify.com/album/5VfoZy7Ge4Le12RDRRZVt5) | 3:31 | 2023-02-03 | 2023-05-27 |
 | [Adicto \(feat\. Marc Anthony\)](https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Adicto \(feat\. Marc Anthony\)](https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ) | 3:29 | 2022-03-04 | 2022-07-29 |
@@ -333,6 +333,7 @@
 | [Vuelve](https://open.spotify.com/track/4mOrl5Eg5dogkuJmxDnsyr) | [Optimo](https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM) | [Amor de Guerra](https://open.spotify.com/album/6x0ppUmVxxdl3z5hcDi2Jg) | 3:57 | 2022-09-09 | 2022-10-25 |
 | [With or Without You](https://open.spotify.com/track/4oByhbsmy68c2V7GUEMr22) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Johnny Sky](https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi) | 3:57 | 2022-09-09 |  |
 | [Ya Fué Bastante](https://open.spotify.com/track/0S76ldR7V4vQ0BDjRFKxi4) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Este Soy Yo](https://open.spotify.com/album/62FZyT9vBsUAD85XxomugZ) | 3:50 | 2022-05-20 | 2022-09-03 |
+| [Yo Quiero El Amor](https://open.spotify.com/track/3w04UT98eT7KSrBvbIP0Bc) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Yo Quiero El Amor](https://open.spotify.com/album/7rTIazgkqWjpS2fiCRA1C6) | 2:25 | 2023-10-13 |  |
 | [Yo También \(feat\. Marc Anthony\)](https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 5:06 | 2022-09-02 | 2022-09-10 |
 | [Yo Tengo Un Angel](https://open.spotify.com/track/2Wp00eqjQ0Z9IlE26Ls5yG) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Yo Tengo Un Angel](https://open.spotify.com/album/6J7lnjPKdPcZXvsw6dZWSu) | 4:03 | 2022-05-20 | 2022-09-03 |
 | [You](https://open.spotify.com/track/1sQrCwV8vvtYLqa0KQlwE9) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:08 | 2022-09-02 | 2022-09-10 |

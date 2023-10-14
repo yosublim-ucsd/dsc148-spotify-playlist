@@ -4,7 +4,7 @@
 
 > Dale play y que la música te acompañe.
 
-273 songs - 14 hr 57 min
+275 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 | 2023-03-17 | 2023-08-12 |
 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 | 2023-03-17 | 2023-08-12 |
 | [Machu Picchu](https://open.spotify.com/track/1LXb70u8SLsvBAPWHMCTMe) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Machu Picchu](https://open.spotify.com/album/7jqXGkhOKZ3wuZuD6IgTYR) | 2:59 | 2023-08-11 |  |
+| [Magia](https://open.spotify.com/track/032IsZRdgIFxxLgDZvxfwU) | [Abi González](https://open.spotify.com/artist/3ZdD1ROrESvZQwaDDEfNsV), [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Magia](https://open.spotify.com/album/2P9LDrehwuTIPxyyQpTlOA) | 4:18 | 2023-10-13 |  |
 | [Mal Marzo](https://open.spotify.com/track/766ijuYNzQTsmaaUonOvM4) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [Pulsión](https://open.spotify.com/album/19atAigwiE58wvFBfoqmQ2) | 2:25 | 2023-08-18 | 2023-09-09 |
 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 | 2023-03-17 | 2023-08-12 |
 | [Maquillada en la Cama](https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087) | 3:38 | 2023-10-09 |  |
@@ -182,11 +183,11 @@
 | [My Love](https://open.spotify.com/track/0GGqDX0PE8vYc5WUB9qmo8) | [SER](https://open.spotify.com/artist/5Tk3cLiTSfgrMC4BxInpO9), [King Vvibe](https://open.spotify.com/artist/5XAc3nSssOTAg4LIZ1XVpT) | [My Love](https://open.spotify.com/album/6XyPFhUqtSitlQhMuCggJh) | 4:07 | 2023-08-18 | 2023-09-23 |
 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2023-03-17 | 2023-08-12 |
 | [MYA LIVE P3: Qué Pasará](https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [MYA LIVE P3: Qué Pasará](https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E) | 3:33 | 2023-10-04 |  |
-| [N5](https://open.spotify.com/track/6WZk0S0t6YP414VJz99mWT) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [N5](https://open.spotify.com/album/0vWaEsVo9edkkpkGWAUqBd) | 2:34 | 2023-07-28 |  |
+| [N5](https://open.spotify.com/track/6WZk0S0t6YP414VJz99mWT) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [N5](https://open.spotify.com/album/0vWaEsVo9edkkpkGWAUqBd) | 2:34 | 2023-07-28 | 2023-10-14 |
 | [Nasty Girl \(feat\. Ingratax\)](https://open.spotify.com/track/3G8XMxse6i7UANaT9GT0jg) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Nasty Girl \(feat\. Ingratax\)](https://open.spotify.com/album/7nmAtVkZuv1Z9iwvCpwbXs) | 4:05 | 2023-06-16 | 2023-06-23 |
 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2023-03-17 | 2023-06-10 |
 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-10-09 |  |
-| [Ni la Mitad](https://open.spotify.com/track/4RVOSlBWNPg5gioxdE7NDE) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Ni la Mitad](https://open.spotify.com/album/1dvIWZFecTtk8ZLEEoeAgZ) | 3:10 | 2023-08-18 |  |
+| [Ni la Mitad](https://open.spotify.com/track/4RVOSlBWNPg5gioxdE7NDE) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Ni la Mitad](https://open.spotify.com/album/1dvIWZFecTtk8ZLEEoeAgZ) | 3:10 | 2023-08-18 | 2023-10-14 |
 | [No Ha Parado De Llover \(with Sebastián Yatra\)](https://open.spotify.com/track/0Ao64XWY9rvsx4K0JmJ7Pv) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Ha Parado De Llover](https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU) | 4:05 | 2023-08-11 |  |
 | [No Hay Más Que Hablar](https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [No Hay Más Que Hablar](https://open.spotify.com/album/7ujTeoR2BX09yMsOVPzwGe) | 3:31 | 2023-08-11 |  |
 | [No Lo Pienses Más](https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [No Lo Pienses Más](https://open.spotify.com/album/71rAPDZUaJKAcQM19wweYK) | 2:51 | 2023-08-25 | 2023-09-23 |
@@ -221,6 +222,7 @@
 | [Qué Querés?](https://open.spotify.com/track/21PkuPzobaZcpp1UprW9Q1) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Qué Querés?](https://open.spotify.com/album/7HcdDDJ5aa4IaONKc02rr0) | 3:27 | 2023-07-14 | 2023-08-19 |
 | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf) | 3:11 | 2023-06-22 | 2023-08-12 |
 | [Regresa](https://open.spotify.com/track/7p8SFNiZjUjbGrA9nK8tGW) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Regresa](https://open.spotify.com/album/43cwThRaGvMa8NIYPL663p) | 3:08 | 2023-08-18 |  |
+| [Renacer](https://open.spotify.com/track/0FkJ9U1q9ouhMowz2eniEO) | [Cris Rye](https://open.spotify.com/artist/0OGduw6Oii6PJFM8bevFw7) | [Renacer](https://open.spotify.com/album/5fTy1m24EJ8mNss2RDoJfF) | 2:29 | 2023-10-13 |  |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2023-03-17 | 2023-07-08 |
 | [Saturno](https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD) | 4:13 | 2023-03-17 |  |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2023-03-17 | 2023-08-12 |

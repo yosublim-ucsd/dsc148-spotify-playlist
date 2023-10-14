@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Chris Stapelton
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,966 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,991 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 45 | [But I Got A Beer In My Hand](https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [But I Got A Beer In My Hand](https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3) | 2:56 |
 | 46 | [Back Then Right Now](https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Back Then Right Now](https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9) | 3:21 |
 | 47 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
-| 48 | [NIGHTS LIKE THIS](https://open.spotify.com/track/2SMpPuLG1PDPz5tP2RhjWT) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/0iPEHKxVGBBka65r0AwUWz) | 3:03 |
+| 48 | [NIGHTS LIKE THIS](https://open.spotify.com/track/2hOKrPOGFsWinOWguSvjSR) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/3gKp0v7cx8VBr0C3dzgizg) | 3:03 |
 | 49 | [Love in a Country Town](https://open.spotify.com/track/0CdgXUdmcZ2Tej7Ilv2Hz0) | [Lane Pittman](https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ) | [Love In A Country Town](https://open.spotify.com/album/4l7zygarBRjtJrGaE8w04t) | 3:08 |
 | 50 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 |
 | 51 | [Feelin' Love](https://open.spotify.com/track/5GiOrSNO9SXfTTHILJ7abt) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [Feelin' Love](https://open.spotify.com/album/1TziVHlrIqMbPmuRZ0Xudc) | 3:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 79 | [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 |
 | 80 | [Dance With You](https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You](https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp) | 3:03 |
 
-Snapshot ID: `MCwyYjA4ZGUxZjRlZmNiNmZlNDVjNjcyMWY4NzNhNjcxMzg2MWQxZGQy`
+Snapshot ID: `MCxhNTcwNGRkNTVjMDM2YzU0YTExMzlhM2UzZGIwMjU1NWMwNTIzMjJj`

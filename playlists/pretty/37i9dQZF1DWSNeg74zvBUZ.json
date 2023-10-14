@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 19170,
+  "num_followers": 19169,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2ZlMTQzMDVlMDJjYzI2MDAzMzRhOWI2MjhkNzE0MGJiMmViZTQ4",
+  "snapshot_id": "MCw1MGNjNjg2ZWVhZDJiM2I4ZmRmMmFmOWZkZDQ5ZThjYmY2MWQ2MTBh",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -281,26 +281,6 @@
       "url": "https://open.spotify.com/track/2ry9LQ8m7dRbRn6FN8uT5u"
     },
     {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
-        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 426533,
-      "name": "First Light - Remastered 2004",
-      "url": "https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY"
-    },
-    {
       "added_at": "2022-12-21 06:00:00",
       "album": {
         "name": "Alaskan Dream",
@@ -323,6 +303,26 @@
       "duration_ms": 320965,
       "name": "Alaskan Dream",
       "url": "https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 426533,
+      "name": "First Light - Remastered 2004",
+      "url": "https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY"
     },
     {
       "added_at": "2021-09-10 04:35:25",

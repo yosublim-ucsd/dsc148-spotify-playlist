@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Grupo 5, Joey Montana",
-  "num_followers": 105333,
+  "num_followers": 105385,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTJlNzU4ODY1ZTUxZDcxM2EzMTI4ZDIyMjBhNTRkYTkzN2UyY2Mx",
+  "snapshot_id": "MCw2YTgxOGMxMDkzMzIzZWYwZDdjZjY2YjMwOWYxNGY3ZmJhOGExMWY1",
   "tracks": [
     {
       "added_at": "2023-09-22 04:59:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "No Te Creas Tan Importante",
-        "url": "https://open.spotify.com/album/6044Bh2cDK6TtuD5TEbKTJ"
-      },
-      "artists": [
-        {
-          "name": "Deyvis Orosco",
-          "url": "https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV"
-        }
-      ],
-      "duration_ms": 246048,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/4aZTN8T7FTSxNb663ZpeNE"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "Goza Tu Cumbia: Peruvian Cumbia",
         "url": "https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 261600,
       "name": "El Solitario",
       "url": "https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "No Te Creas Tan Importante",
+        "url": "https://open.spotify.com/album/6044Bh2cDK6TtuD5TEbKTJ"
+      },
+      "artists": [
+        {
+          "name": "Deyvis Orosco",
+          "url": "https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV"
+        }
+      ],
+      "duration_ms": 246048,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/4aZTN8T7FTSxNb663ZpeNE"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "El Futuro De La Cumbia",
-        "url": "https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc"
-      },
-      "artists": [
-        {
-          "name": "La \u00danica Tropical",
-          "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
-        }
-      ],
-      "duration_ms": 277296,
-      "name": "Te Burlaste de Mi",
-      "url": "https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "El Tirul\u00e1",
         "url": "https://open.spotify.com/album/14sGuXKkPTy3BXhXKrFEXG"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 191085,
       "name": "Si Saben Como Me Pongo Pa Que Me Invitan",
       "url": "https://open.spotify.com/track/1FaXpzvwFxDhvvuIAW3nAA"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "El Futuro De La Cumbia",
+        "url": "https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc"
+      },
+      "artists": [
+        {
+          "name": "La \u00danica Tropical",
+          "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
+        }
+      ],
+      "duration_ms": 277296,
+      "name": "Te Burlaste de Mi",
+      "url": "https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg"
     },
     {
       "added_at": "2023-09-22 04:59:00",

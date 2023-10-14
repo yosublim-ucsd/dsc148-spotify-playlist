@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,480 likes - 60 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,387 likes - 60 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 |
-| 2 | [Echo](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [Echo](https://open.spotify.com/album/3oVQAqfrzIg4S5pF74au4x) | 2:14 |
+| 1 | [Echo](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [Echo](https://open.spotify.com/album/3oVQAqfrzIg4S5pF74au4x) | 2:14 |
+| 2 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 |
 | 3 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 |
 | 4 | [Lonely](https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Lonely](https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj) | 2:45 |
 | 5 | [Transmission \- Joris Voorn Remix](https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Transmission \(Joris Voorn Remix\)](https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx) | 3:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [I WON'T STAY](https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O) | 4:46 |
 | 60 | [Lose Your Senses](https://open.spotify.com/track/4UGtoN1j6i8gtMb64Y2cDY) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Lose Your Senses](https://open.spotify.com/album/6yLyY2UFppJXFz2jVXTKUM) | 6:28 |
 
-Snapshot ID: `MCxlNjFjODgxYzZiYzVlMzM0MDg3ODQ3YmRmMThiM2Q3NGQ5NTFhZTUx`
+Snapshot ID: `MCw3YTc1ODFlZDVkN2UwNTIxYWMxNTQwNTkxZTViMDJiNThlZjE3ODVi`

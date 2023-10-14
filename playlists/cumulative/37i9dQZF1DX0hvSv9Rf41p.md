@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with GRiZ
 
-619 songs - 1 day 11 hr 44 min
+620 songs - 1 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [fisticuffs \(feat\. tiLLie\)](https://open.spotify.com/track/5uwjwHf7gA1DqLvnsTM3aW) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [fuck ya go us](https://open.spotify.com/album/3nD84oMa7zffmYcLEPkWZT) | 3:57 | 2022-10-21 | 2023-02-25 |
 | [Fkdmeupinside](https://open.spotify.com/track/0XL5yhXznIFECAThpiGYJe) | [The Duchess](https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B) | [Fkdmeupinside](https://open.spotify.com/album/6qp9XlkYX0an6hceGaBWho) | 2:35 | 2023-07-07 | 2023-09-23 |
 | [FLATLINE \- Eliminate Remix](https://open.spotify.com/track/3a5LILnpCITemhDUZzB3D3) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [FLATLINE \(Eliminate Remix\)](https://open.spotify.com/album/4wO3apJ4C7c1Fb18bpKg3j) | 3:41 | 2023-08-25 |  |
+| [Flip It](https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Flip It](https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE) | 2:15 | 2023-10-13 |  |
 | [Flourish](https://open.spotify.com/track/3SYoswG9FXQGGMFphwNNgq) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Flourish](https://open.spotify.com/album/1cfItDeK7Zq8DptVmokzN2) | 4:03 | 2021-12-17 | 2022-02-19 |
 | [Flow](https://open.spotify.com/track/2F14jGKSIvL10dEYhimqVY) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb), [C.D](https://open.spotify.com/artist/709rmeAswe9n36FbeXXOFk) | [Flow](https://open.spotify.com/album/4V1hkAAIZRNP9CVj4hJkZW) | 3:12 | 2022-04-22 | 2022-08-06 |
 | [FLUTE](https://open.spotify.com/track/6D1v5PAr6RKuJ8VuaS5aIO) | [MONSS](https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz) | [FLUTE](https://open.spotify.com/album/5wd6GqCH0LfjgoklXABWxF) | 3:17 | 2022-11-11 | 2023-04-01 |
@@ -441,7 +442,7 @@
 | [Rainbow Brain](https://open.spotify.com/track/2XDNYySUXdZNlACNr7XRn1) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY), [Chrishira Perrier](https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2) | [Rainbow Brain](https://open.spotify.com/album/1BHSEilVU74s7UKj1bToQA) | 4:21 | 2021-12-17 | 2022-02-19 |
 | [RATATA](https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:06 | 2023-02-17 |  |
 | [Rattle Your Bones](https://open.spotify.com/track/2QXGAgIReGxutvkKg2FjDh) | [Volt](https://open.spotify.com/artist/2kKSibjeb2x2e6L3VjJkRu), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Rattle Your Bones](https://open.spotify.com/album/1fz3JrQ1Z1LImADGSCEWzi) | 2:43 | 2021-12-17 | 2022-03-12 |
-| [Rave Control](https://open.spotify.com/track/7Et4IAXXFpLaJMf4mSWE18) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Rave Control](https://open.spotify.com/album/3w6uYN4OuJ09JLp0Hwjo9v) | 2:40 | 2023-06-09 |  |
+| [Rave Control](https://open.spotify.com/track/7Et4IAXXFpLaJMf4mSWE18) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Rave Control](https://open.spotify.com/album/3w6uYN4OuJ09JLp0Hwjo9v) | 2:40 | 2023-06-09 | 2023-10-14 |
 | [RE\-IGNITION](https://open.spotify.com/track/3R1618eXJB4mMxIZzLv3Ac) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ARB4](https://open.spotify.com/artist/7e2hk3B42soSKnZhzCkOD8), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RE\-IGNITION](https://open.spotify.com/album/0RaMpMa53l4NSA7QOlDlju) | 3:24 | 2023-09-01 |  |
 | [Ready To Fly \- Sub Focus & Dimension](https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Ready To Fly \(Sub Focus & Dimension\)](https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc) | 3:24 | 2022-10-07 | 2023-04-01 |
 | [Reaper \(feat\. JID\)](https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Reaper \(feat\. JID\)](https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg) | 2:44 | 2021-12-17 | 2022-02-26 |

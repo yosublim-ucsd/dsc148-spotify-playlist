@@ -4,7 +4,7 @@
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-292 songs - 17 hr 33 min
+294 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Bright Star](https://open.spotify.com/track/2MzJjyG6MWkAY8wQIfDMSZ) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/1ZpLitOlsiSKy0Sdmhudi6) | 3:10 | 2022-06-06 |  |
 | [Bright Star](https://open.spotify.com/track/3eMWAyf54iRQhCQVt8h2ny) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell \(Deluxe\)](https://open.spotify.com/album/6tOEg8pBcr1IKImNngQHkc) | 3:10 | 2022-08-01 | 2022-11-13 |
 | [Broken Coastline](https://open.spotify.com/track/1DNMD4CEyX2XrFkOR4lvP1) | [Down Like Silver](https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps), [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V), [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Broken Coastline](https://open.spotify.com/album/1HjpXCId9AyLZXYXzlW2Wn) | 3:29 | 2019-09-29\* |  |
-| [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-09-05 |  |
+| [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-09-05 | 2023-10-14 |
 | [Build Me Up From Bones](https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Build Me Up From Bones](https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK) | 3:36 | 2019-09-29\* | 2020-07-10 |
 | [Burden Of The Road](https://open.spotify.com/track/77JjUVTkadxmopBO2iqA2z) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Burden Of The Road](https://open.spotify.com/album/3QLel0Neaqcy6zjJoibERN) | 3:16 | 2019-10-21 | 2021-03-06 |
 | [Burning Ground](https://open.spotify.com/track/0IbrXdAcOPb7BCQqK9NqBh) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [Burning Ground](https://open.spotify.com/album/1bsxq8JmnAhka3lbqm9nOp) | 3:55 | 2019-09-29\* | 2022-07-29 |
@@ -174,6 +174,7 @@
 | [Moving in Slow Motion](https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x) | [The Sweet Remains](https://open.spotify.com/artist/35HoDSeQMKnwC1f4sng0eK) | [Laurel & Sunset](https://open.spotify.com/album/6HjqPv1wOvpoPzyINKwTf4) | 3:57 | 2019-09-29\* |  |
 | [My Arms Were Always Around You](https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [My Arms Were Always Around You](https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc) | 3:20 | 2019-09-29\* |  |
 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 | 2021-12-13 |  |
+| [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-10-13 |  |
 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 | 2019-09-29\* |  |
 | [New Star](https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [New Star](https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3) | 3:05 | 2021-08-14 |  |
 | [Night Singing](https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 2:11 | 2021-04-15 | 2022-06-07 |
@@ -240,6 +241,7 @@
 | [Take Back Thy Gift](https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:13 | 2021-10-09 |  |
 | [Tears Don't Fall](https://open.spotify.com/track/02p7KhGzlicIY8rvRVVION) | [Terrible Sons](https://open.spotify.com/artist/3eaJ1prUilN6z7yoFx9u2g) | [Tears Don't Fall](https://open.spotify.com/album/2w6APYKw1Tb4oWNtZJYIde) | 3:12 | 2019-09-29\* | 2022-02-19 |
 | [The Ballad of Betty and Barney Hill](https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [The Ballad of Betty and Barney Hill](https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC) | 3:16 | 2023-05-26 |  |
+| [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 | 2023-10-13 |  |
 | [The Fall](https://open.spotify.com/track/67ZPraK8Fpf4aDskXXs2XK) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Fall](https://open.spotify.com/album/2S8EkNv3ZmaXYA9AYnjAVc) | 3:27 | 2023-05-26 | 2023-07-15 |
 | [The Flood](https://open.spotify.com/track/2YdU9FRM7fYiZ9B2KOUIpl) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [In Deepest Blue \(Bonus Track Version\)](https://open.spotify.com/album/7nSIlWXzql4FW4JG8v2OcE) | 4:21 | 2019-09-29\* | 2022-07-29 |
 | [The Flood](https://open.spotify.com/track/5wQci5VCUjdbKnRD61XYwu) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [In Deepest Blue \(Bonus Track Version\)](https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy) | 4:21 | 2022-06-06 |  |
@@ -248,7 +250,7 @@
 | [The Only Thing](https://open.spotify.com/track/0eVYGqIPngJQUeRwGeVeXG) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/5MQPCHqfFR9wweKrLJyaSM) | 4:41 | 2019-09-29\* | 2022-07-29 |
 | [The Only Thing](https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:44 | 2022-06-06 |  |
 | [The Ship](https://open.spotify.com/track/0LXXiQatpwbFI6JBc0xLOH) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [The Ship](https://open.spotify.com/album/2T7uDGO2JZGk4Ts6Kya78U) | 4:14 | 2021-04-15 | 2021-07-17 |
-| [The Spur](https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [The Spur](https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI) | 3:52 | 2022-06-06 |  |
+| [The Spur](https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [The Spur](https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI) | 3:52 | 2022-06-06 | 2023-10-14 |
 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/4nlDcud1pcNcvWEbPH4it1) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/3ZkPIFsMYL7cALJr2LPohi) | 4:07 | 2023-04-12 | 2023-05-13 |
 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/5YebJFFiYKBXYQYASFUuoD) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/1OOpLsjYm20UGottxYTusF) | 4:07 | 2023-04-12 |  |
 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq) | 4:07 | 2020-06-01 | 2023-05-01 |

@@ -4,7 +4,7 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-153 songs - 8 hr 29 min
+154 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Acércate a mí](https://open.spotify.com/track/5zF2fiVLe317dSh9goEkHD) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g), [Ross J\. Rodrigo](https://open.spotify.com/artist/7ziN1J53NW2enUFbxd01C4) | [Acércate a mí](https://open.spotify.com/album/3Y7T4PrwWQQWF9K6vcqCDu) | 2:30 | 2023-03-19 | 2023-05-27 |
 | [Aforismos](https://open.spotify.com/track/1xlNttatz94ku8vVjH7OMS) | [Maria Codino](https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Tiene Que Haber Un Mapa](https://open.spotify.com/album/4Nurj8APmgekx15HgXOyYB) | 3:28 | 2023-08-15 |  |
 | [Algo](https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Algo](https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb) | 2:48 | 2023-03-19 | 2023-05-12 |
-| [Alma Sola \- Versión Acústica](https://open.spotify.com/track/2jVb4wnqiooprgsu1TUb09) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Alma Sola \(Versión Acústica\)](https://open.spotify.com/album/1rkG4GlLGjDCLEAqXVKCo2) | 4:42 | 2023-07-14 |  |
+| [Alma Sola \- Versión Acústica](https://open.spotify.com/track/2jVb4wnqiooprgsu1TUb09) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Alma Sola \(Versión Acústica\)](https://open.spotify.com/album/1rkG4GlLGjDCLEAqXVKCo2) | 4:42 | 2023-07-14 | 2023-10-14 |
 | [Amantes](https://open.spotify.com/track/7fsk4uHED00HfG2z5Hpq5h) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Amantes \- Su Majestad La Eternidad](https://open.spotify.com/album/7HvthDR7lGp5JNua540inw) | 3:52 | 2023-03-19 | 2023-05-10 |
 | [AMOR MINIMAL](https://open.spotify.com/track/3gydgoR0OGDNJNhkY0337b) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/0OACOxBHoNzyA36x7au0bo) | 3:27 | 2023-03-19 | 2023-04-11 |
 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 | 2023-07-11 | 2023-10-11 |
@@ -68,6 +68,7 @@
 | [El Cardón](https://open.spotify.com/track/2L5z9XcA1PCxUOJ3W24tnX) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Bungalo Dub](https://open.spotify.com/artist/69JPOTvYfcr3R57sMZdJU0), [Bhajan](https://open.spotify.com/artist/03gjTMhvuxszNbXMxwYJmv) | [El Cardón](https://open.spotify.com/album/69EuMRSnKU8THC0V3WZ4rz) | 3:27 | 2023-03-19 | 2023-06-01 |
 | [El Milagro](https://open.spotify.com/track/60E01nbyLNShvaeVPr7Tic) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Milagro](https://open.spotify.com/album/4lY54ab6G5Ex4TPFxadXlh) | 3:38 | 2023-08-16 |  |
 | [El Plan Mayor](https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht), [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7) | [El Plan Mayor](https://open.spotify.com/album/3gwoxCZpCCpcWlmuoR0efY) | 2:52 | 2023-06-24 | 2023-09-17 |
+| [Ella se burló de mí](https://open.spotify.com/track/4A7e3xbhvbktOXCgVYBCDZ) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [3D](https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz) | 2:30 | 2023-10-13 |  |
 | [EME](https://open.spotify.com/track/4Zsk8bKl9FIvaDPBO464BI) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [EME](https://open.spotify.com/album/7LNPWPlfY52Lfip0mubSNx) | 2:27 | 2023-05-31 | 2023-09-04 |
 | [En Todas Partes](https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [En Todas Partes](https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof) | 3:37 | 2023-03-19 | 2023-06-24 |
 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 | 2023-03-19 | 2023-04-13 |

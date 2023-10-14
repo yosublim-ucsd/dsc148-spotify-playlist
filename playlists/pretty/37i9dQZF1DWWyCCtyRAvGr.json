@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 160017,
+  "num_followers": 160060,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWU4NmUxNWVjYTUxM2VlMzBlYTg0ZTZlZGU3Zjc5YzFkMzE4M2Y4",
+  "snapshot_id": "MCxmMzM5NmE2YTkzMmY4MzdkNmZhYWQ5ZDBhZTFiMDIxM2IzYzhjMGJk",
   "tracks": [
     {
       "added_at": "2023-10-05 13:18:26",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 355434,
+      "name": "Come on and Go with Me",
+      "url": "https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 210826,
       "name": "I Ain't Superstitious",
       "url": "https://open.spotify.com/track/14RtX37onWzSyGDxrVEjnH"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Delta Kream",
-        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 355434,
-      "name": "Come on and Go with Me",
-      "url": "https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Sweet Giant of the Blues",
-        "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 366826,
-      "name": "Bird in a Cage",
-      "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Bluesmen Don't Use Umbrellas",
         "url": "https://open.spotify.com/album/4f8EqC1IzbcSosXgbkSbTm"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 419600,
       "name": "J.C's. Blues",
       "url": "https://open.spotify.com/track/7j1KFZmBIKtv8lsmTptiM1"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Sweet Giant of the Blues",
+        "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 366826,
+      "name": "Bird in a Cage",
+      "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "From The Heart Of A Woman",
-        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
         }
       ],
-      "duration_ms": 257093,
-      "name": "Thanks, But No Thanks",
-      "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
+      "duration_ms": 210253,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1335,50 +1335,34 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
+        "name": "From The Heart Of A Woman",
+        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
       },
       "artists": [
         {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 210253,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A"
+      "duration_ms": 257093,
+      "name": "Thanks, But No Thanks",
+      "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
     },
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Outdated Emotion",
-        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
+        "name": "Contemporary",
+        "url": "https://open.spotify.com/album/1iarrnQhFVvqazwsGSz0G7"
       },
       "artists": [
         {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+          "name": "Rick Estrin & The Nightcats",
+          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
         }
       ],
-      "duration_ms": 146397,
-      "name": "Connecticut Blues",
-      "url": "https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Andrew Brown",
-          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
-        }
-      ],
-      "duration_ms": 301440,
-      "name": "I Got News For You",
-      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
+      "duration_ms": 182706,
+      "name": "Nothing But Love",
+      "url": "https://open.spotify.com/track/4O4GPgWzFwIjMZggucEDk2"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1399,18 +1383,34 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Contemporary",
-        "url": "https://open.spotify.com/album/1iarrnQhFVvqazwsGSz0G7"
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
       "artists": [
         {
-          "name": "Rick Estrin & The Nightcats",
-          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
+          "name": "Andrew Brown",
+          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
         }
       ],
-      "duration_ms": 182706,
-      "name": "Nothing But Love",
-      "url": "https://open.spotify.com/track/4O4GPgWzFwIjMZggucEDk2"
+      "duration_ms": 301440,
+      "name": "I Got News For You",
+      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Outdated Emotion",
+        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
+      },
+      "artists": [
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "duration_ms": 146397,
+      "name": "Connecticut Blues",
+      "url": "https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Standing My Ground",
-        "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 278560,
-      "name": "I Hate These Doggone Blues",
-      "url": "https://open.spotify.com/track/1eE6YpZjxNZg9EKOL41za7"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Hiding Place",
         "url": "https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 443160,
       "name": "Hiding Place",
       "url": "https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Standing My Ground",
+        "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 278560,
+      "name": "I Hate These Doggone Blues",
+      "url": "https://open.spotify.com/track/1eE6YpZjxNZg9EKOL41za7"
     },
     {
       "added_at": "2023-10-05 13:18:26",

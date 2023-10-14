@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 41252,
+  "num_followers": 41276,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2JmMGM0NjA0NDVjN2JmMGQ2N2I0NzQ5OWU5NTY3OTJhOGRmMDg4",
+  "snapshot_id": "MCwxZGRjZmQ3YzA5YTFhOTNkMTExMDZmZGE2NDllNDM4YmE1ODE0NDMx",
   "tracks": [
     {
       "added_at": "2019-10-04 16:01:14",
@@ -559,22 +559,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Giblet Gravy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/4SsYEBMS6glreI8XXAtVMw"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Songs For Distingu\u00e9 Lovers",
         "url": "https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 333200,
       "name": "Just One Of Those Things - Take 8 - Master Take",
       "url": "https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Giblet Gravy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/4SsYEBMS6glreI8XXAtVMw"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -751,6 +751,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "The Very Best Of Jeff Lorber",
+        "url": "https://open.spotify.com/album/1Dja6xdLXw5w6EjvEdKLDg"
+      },
+      "artists": [
+        {
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
+        }
+      ],
+      "duration_ms": 262146,
+      "name": "Reverend Green",
+      "url": "https://open.spotify.com/track/58u2WAEAtgOeWSTeTRAPIW"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "Buddy And Sweets",
         "url": "https://open.spotify.com/album/2vkrql6FPjZeTADB3om0kc"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 244706,
       "name": "Nice Work If You Can Get It",
       "url": "https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Very Best Of Jeff Lorber",
-        "url": "https://open.spotify.com/album/1Dja6xdLXw5w6EjvEdKLDg"
-      },
-      "artists": [
-        {
-          "name": "Jeff Lorber",
-          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
-        }
-      ],
-      "duration_ms": 262146,
-      "name": "Reverend Green",
-      "url": "https://open.spotify.com/track/58u2WAEAtgOeWSTeTRAPIW"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
-      },
-      "artists": [
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 333800,
-      "name": "Moonlight (Claro de Luna)",
-      "url": "https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "The Very Best of Chris Botti",
         "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 299066,
       "name": "First Wish",
       "url": "https://open.spotify.com/track/3vOXI61BAwIaUDJG4E6Oq6"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 333800,
+      "name": "Moonlight (Claro de Luna)",
+      "url": "https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1281,22 +1281,6 @@
       "url": "https://open.spotify.com/track/1h3X4QybzSWb7XaokCC6iF"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Very Best of Chris Botti",
-        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
-      },
-      "artists": [
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        }
-      ],
-      "duration_ms": 277466,
-      "name": "Worlds Outside",
-      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Samba Para Dos",
@@ -1331,6 +1315,22 @@
       "duration_ms": 599333,
       "name": "The Barbara Song",
       "url": "https://open.spotify.com/track/1mnhCmPsFNpUxJWKE5J20M"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Very Best of Chris Botti",
+        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "duration_ms": 277466,
+      "name": "Worlds Outside",
+      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Gettin' To It",
-        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        }
-      ],
-      "duration_ms": 330760,
-      "name": "Gettin' To It",
-      "url": "https://open.spotify.com/track/3oV49QXWetJyyp5dKno5wt"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Guitar Forms (Expanded Edition)",
         "url": "https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc"
       },
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Gettin' To It",
+        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "duration_ms": 330760,
+      "name": "Gettin' To It",
+      "url": "https://open.spotify.com/track/3oV49QXWetJyyp5dKno5wt"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "The Lonely One",
         "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 280053,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/04ctxBgUXc3Tj6I4ufWPSZ"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "High Life",
+        "url": "https://open.spotify.com/album/2SN7tuhq5GC1usNNrY74yU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 312133,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1481,22 +1497,6 @@
       "url": "https://open.spotify.com/track/3MDM8xFeOPmTQgmV5mJUqB"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "High Life",
-        "url": "https://open.spotify.com/album/2SN7tuhq5GC1usNNrY74yU"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 312133,
-      "name": "Maya",
-      "url": "https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI"
-    },
-    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "Lester Swings",
@@ -1517,22 +1517,6 @@
       "url": "https://open.spotify.com/track/5JEpa8eK5ohw3ZD8s9Gjer"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Betty Carter Album",
-        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "You're A Sweetheart",
-      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Birks Works: The Verve Big-Band Sessions",
@@ -1547,6 +1531,22 @@
       "duration_ms": 175800,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Betty Carter Album",
+        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "You're A Sweetheart",
+      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
     },
     {
       "added_at": "2019-10-02 08:54:10",

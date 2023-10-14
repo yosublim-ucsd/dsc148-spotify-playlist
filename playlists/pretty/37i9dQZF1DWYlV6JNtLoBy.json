@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 3114,
+  "num_followers": 3134,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWU4YTczNWQ2YjdmYzIzZWJmYjg1MTEwNTE1NWJjYmNhZWY3Njhm",
+  "snapshot_id": "MCxlNTZlZTk3ZDBmZTZlZTQ4YTJhYzgwOGYyNGIwNTdlNDQxYWU5MWVi",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Everything (Amen)",
-        "url": "https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7"
-      },
-      "artists": [
-        {
-          "name": "Timi Dakolo",
-          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
-        }
-      ],
-      "duration_ms": 237725,
-      "name": "Everything (Amen)",
-      "url": "https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "I Believe (Island Medley) - Single",
         "url": "https://open.spotify.com/album/69PdhhgvSzawIe73yaItL8"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 240204,
       "name": "I Believe (Island Medley) [So Long Bye Bye] (Radio Edit)",
       "url": "https://open.spotify.com/track/7bZCkTQ5qXrCgQvPbKF2gH"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Everything (Amen)",
+        "url": "https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7"
+      },
+      "artists": [
+        {
+          "name": "Timi Dakolo",
+          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
+        }
+      ],
+      "duration_ms": 237725,
+      "name": "Everything (Amen)",
+      "url": "https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Umusirikare",
+        "url": "https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh"
+      },
+      "artists": [
+        {
+          "name": "Israel Mbonyi",
+          "url": "https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH"
+        }
+      ],
+      "duration_ms": 670000,
+      "name": "Nina Siri",
+      "url": "https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "NADEKA",
         "url": "https://open.spotify.com/album/3yUcY9wjNDbc2Rw1kcvw5A"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 346640,
       "name": "Huyu Ni Nani",
       "url": "https://open.spotify.com/track/0l39flJoMHffawcZES5NCS"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Hapa Nilipo",
-        "url": "https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz"
-      },
-      "artists": [
-        {
-          "name": "UPENDO NKONE",
-          "url": "https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n"
-        }
-      ],
-      "duration_ms": 261355,
-      "name": "Upendo Wa Yesu",
-      "url": "https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer"
     }
   ],
   "unique_name": "Sunday Service",

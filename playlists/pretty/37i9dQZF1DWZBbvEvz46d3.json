@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 61221,
+  "num_followers": 61210,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTY4NWMxM2JmMTk1OWZhY2JlNDQ2ZWYzODM4ZTE1ZDRkNTBmN2Q4",
+  "snapshot_id": "MCwyYjNkZGUxZmY5NTgxN2MyYTljZjA1N2Q1OWQyMzUxZDIyZTE3ZjI0",
   "tracks": [
     {
       "added_at": "2023-09-01 14:10:27",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Prawda o nas",
-        "url": "https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Prawda o nas",
-      "url": "https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Fake Love",
         "url": "https://open.spotify.com/album/50neih37CvuPZQjvSSQAu0"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 179612,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/01T5SgoNDIm6JMRoL4w2d5"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "Prawda o nas",
+        "url": "https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Prawda o nas",
+      "url": "https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Bez Ciebie",
-        "url": "https://open.spotify.com/album/2XX6T9V5MPE35hZRDrBJgR"
-      },
-      "artists": [
-        {
-          "name": "Dawid Kwiatkowski",
-          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
-        }
-      ],
-      "duration_ms": 198222,
-      "name": "Bez Ciebie",
-      "url": "https://open.spotify.com/track/28rASnN07Gun1cXpOsbCHo"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Tamta dziewczyna",
         "url": "https://open.spotify.com/album/10xXsahXWCsHQDS5IR82QN"
       },
@@ -1307,6 +1291,26 @@
       "duration_ms": 222865,
       "name": "Bezdro\u017ca (feat. Mateusz Zi\u00f3\u0142ko)",
       "url": "https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "Kayah & Bregovic",
+        "url": "https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX"
+      },
+      "artists": [
+        {
+          "name": "Kayah",
+          "url": "https://open.spotify.com/artist/2v295z585SM68pluEKXKSM"
+        },
+        {
+          "name": "Goran Bregovi\u0107",
+          "url": "https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS"
+        }
+      ],
+      "duration_ms": 271760,
+      "name": "\u015apij Kochanie \u015apij",
+      "url": "https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H"
     }
   ],
   "unique_name": "Polskie hity o mi\u0142o\u015bci",

@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 294485,
+  "num_followers": 294562,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTg3M2UzZmZhMjNlMDFmZDFjMmI3OTlkZjY4Y2IyNTExMzgxMTUy",
+  "snapshot_id": "MCwxZTFmMzJmZTM0OTM4ZmI5ZTk0ZDg2NzczNDA3N2Q5ZDc3NTRiYjhh",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -227,18 +227,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Last Day On Earth",
-        "url": "https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj"
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
         }
       ],
-      "duration_ms": 222357,
-      "name": "Last Day On Earth",
-      "url": "https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo"
+      "duration_ms": 191527,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
+        "name": "Last Day On Earth",
+        "url": "https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj"
       },
       "artists": [
         {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 191527,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
+      "duration_ms": 222357,
+      "name": "Last Day On Earth",
+      "url": "https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2"
-      },
-      "artists": [
-        {
-          "name": "Hazel English",
-          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Heavy Days",
         "url": "https://open.spotify.com/album/5B2eSjpDpzAmIxfpGndPHe"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 227683,
       "name": "Heavy Days",
       "url": "https://open.spotify.com/track/0nGmz6gDOZdRh0rYd623P9"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2"
+      },
+      "artists": [
+        {
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Falling Apart Without You",
-        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
       },
       "artists": [
         {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
         }
       ],
-      "duration_ms": 203625,
-      "name": "Falling Apart Without You",
-      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
+      "duration_ms": 400037,
+      "name": "Earth To Sea",
+      "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+        "name": "Falling Apart Without You",
+        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
       },
       "artists": [
         {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
         }
       ],
-      "duration_ms": 400037,
-      "name": "Earth To Sea",
-      "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
+      "duration_ms": 203625,
+      "name": "Falling Apart Without You",
+      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Pronounced McGee",
-        "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 226645,
-      "name": "Roll With The Punches",
-      "url": "https://open.spotify.com/track/0R1NENmGu9tjHRq1S0bXX8"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Morningside",
         "url": "https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 240736,
       "name": "Jennifer",
       "url": "https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Pronounced McGee",
+        "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 226645,
+      "name": "Roll With The Punches",
+      "url": "https://open.spotify.com/track/0R1NENmGu9tjHRq1S0bXX8"
     },
     {
       "added_at": "2023-09-29 10:51:04",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Cellar",
-        "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
-      },
-      "artists": [
-        {
-          "name": "Sea Lemon",
-          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
-        }
-      ],
-      "duration_ms": 245998,
-      "name": "Cellar",
-      "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 950210,
       "name": "Songs",
       "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Cellar",
+        "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
+      },
+      "artists": [
+        {
+          "name": "Sea Lemon",
+          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
+        }
+      ],
+      "duration_ms": 245998,
+      "name": "Cellar",
+      "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/5NwyQFaZbL6w8SaFcPFDn8"
     },
     {
-      "added_at": "2023-09-29 10:51:04",
-      "album": {
-        "name": "Snowman",
-        "url": "https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh"
-      },
-      "artists": [
-        {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
-        }
-      ],
-      "duration_ms": 315005,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8"
-    },
-    {
       "added_at": "2023-07-21 10:37:28",
       "album": {
         "name": "Ways To Get Out (Deluxe)",
@@ -959,6 +943,22 @@
       "duration_ms": 247866,
       "name": "Come Down and Waste With Me",
       "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
+    },
+    {
+      "added_at": "2023-09-29 10:51:04",
+      "album": {
+        "name": "Snowman",
+        "url": "https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 315005,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8"
     },
     {
       "added_at": "2023-09-29 10:51:04",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "27 Club",
-        "url": "https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 214137,
-      "name": "27 Club",
-      "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "number own",
         "url": "https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 159032,
       "name": "number own",
       "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "27 Club",
+        "url": "https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 214137,
+      "name": "27 Club",
+      "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
-      },
-      "artists": [
-        {
-          "name": "atmos bloom",
-          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
-        }
-      ],
-      "duration_ms": 135375,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 389948,
       "name": "Deceiver",
       "url": "https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
+      },
+      "artists": [
+        {
+          "name": "atmos bloom",
+          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
+        }
+      ],
+      "duration_ms": 135375,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Sentimiento Mundial",
+        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
+      },
+      "artists": [
+        {
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "Delicadeza",
+      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Twin Heavy",
         "url": "https://open.spotify.com/album/6LFY3DlCGt04t3LY9NjNIC"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 174874,
       "name": "Two Step",
       "url": "https://open.spotify.com/track/1lcL7ccfhuLC1MhmD5ikYG"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Sentimiento Mundial",
-        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
-      },
-      "artists": [
-        {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Delicadeza",
-      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
     },
     {
       "added_at": "2023-07-21 10:37:28",

@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 14593,
+  "num_followers": 14640,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGU1ZjFjNzNhNmU1ODlhZTU3NDQ1OWZmZDVkMGJiMTk3NzBhNDA1",
+  "snapshot_id": "MCwyM2M4YWZhNDQwMGFjZDRlNDZkNjE5MTZiY2JlZWQyMDQxODY0MmU5",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Choral",
-        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
-      },
-      "artists": [
-        {
-          "name": "Mountains",
-          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Sheets Two",
-      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Tape Chants",
         "url": "https://open.spotify.com/album/11KyPBhF9RpbILPg8NNuEC"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 76106,
       "name": "V",
       "url": "https://open.spotify.com/track/1TInFFEp6bNWX4E2wLHh39"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Choral",
+        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
+      },
+      "artists": [
+        {
+          "name": "Mountains",
+          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Sheets Two",
+      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -355,38 +355,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 141746,
-      "name": "I'm Dragging a Dead Deer Up a Hill",
-      "url": "https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 161853,
-      "name": "Sherbet Head",
-      "url": "https://open.spotify.com/track/4A14Tvo2k0Ty2RWHdwj1ZD"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Vir\u00f0ulegu forsetar",
         "url": "https://open.spotify.com/album/4Z1mxIr5W6e6udtQOztJK7"
       },
@@ -423,6 +391,38 @@
       "duration_ms": 78579,
       "name": "Part 1.2",
       "url": "https://open.spotify.com/track/4fo5POX7jgXpz44NsElSBr"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 161853,
+      "name": "Sherbet Head",
+      "url": "https://open.spotify.com/track/4A14Tvo2k0Ty2RWHdwj1ZD"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 141746,
+      "name": "I'm Dragging a Dead Deer Up a Hill",
+      "url": "https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+        "name": "Black One",
+        "url": "https://open.spotify.com/album/3oFLD6FiLtAe1Ykq3wWuPf"
       },
       "artists": [
         {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+          "name": "sunn O)))",
+          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
         }
       ],
-      "duration_ms": 270680,
-      "name": "Wind and Snow",
-      "url": "https://open.spotify.com/track/1lUqMBDI4ttfqZUmNRvXn6"
+      "duration_ms": 137826,
+      "name": "Sin Nanna",
+      "url": "https://open.spotify.com/track/5Io6W7GqRsXUZnl1O0fcb0"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Black One",
-        "url": "https://open.spotify.com/album/3oFLD6FiLtAe1Ykq3wWuPf"
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
       },
       "artists": [
         {
-          "name": "sunn O)))",
-          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 137826,
-      "name": "Sin Nanna",
-      "url": "https://open.spotify.com/track/5Io6W7GqRsXUZnl1O0fcb0"
+      "duration_ms": 270680,
+      "name": "Wind and Snow",
+      "url": "https://open.spotify.com/track/1lUqMBDI4ttfqZUmNRvXn6"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Venice",
-        "url": "https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ"
+        "name": "Lambent Material",
+        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
       },
       "artists": [
         {
-          "name": "Fennesz",
-          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
         }
       ],
-      "duration_ms": 394693,
-      "name": "City of Light",
-      "url": "https://open.spotify.com/track/1x5gVSrVSGtnNZ3JewrKKH"
+      "duration_ms": 309560,
+      "name": "Under the Water It Glowed",
+      "url": "https://open.spotify.com/track/37oYHRw3yNT2VTL1WIkpo0"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Lambent Material",
-        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
+        "name": "Venice",
+        "url": "https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ"
       },
       "artists": [
         {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
         }
       ],
-      "duration_ms": 309560,
-      "name": "Under the Water It Glowed",
-      "url": "https://open.spotify.com/track/37oYHRw3yNT2VTL1WIkpo0"
+      "duration_ms": 394693,
+      "name": "City of Light",
+      "url": "https://open.spotify.com/track/1x5gVSrVSGtnNZ3JewrKKH"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Telegraphs in Negative / Mouths Trapped in Static",
+        "url": "https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka"
+      },
+      "artists": [
+        {
+          "name": "Set Fire To Flames",
+          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+        }
+      ],
+      "duration_ms": 135293,
+      "name": "Your Guts Are Like Mine",
+      "url": "https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Orchid",
         "url": "https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Telegraphs in Negative / Mouths Trapped in Static",
-        "url": "https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka"
+        "name": "Lambent Material",
+        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
       },
       "artists": [
         {
-          "name": "Set Fire To Flames",
-          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
         }
       ],
-      "duration_ms": 135293,
-      "name": "Your Guts Are Like Mine",
-      "url": "https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc"
+      "duration_ms": 278173,
+      "name": "The Unfinished",
+      "url": "https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Lambent Material",
-        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
+        "name": "I Am a Man Who Will Fight for Your Honor",
+        "url": "https://open.spotify.com/album/6loc604vNMnAaCwxgl8G85"
       },
       "artists": [
         {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+          "name": "Chris Zabriskie",
+          "url": "https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka"
         }
       ],
-      "duration_ms": 278173,
-      "name": "The Unfinished",
-      "url": "https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm"
+      "duration_ms": 424760,
+      "name": "The Sun Is Scheduled to Come Out Tomorrow",
+      "url": "https://open.spotify.com/track/5E62oQ051vOnn6UDVthTot"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "I Am a Man Who Will Fight for Your Honor",
-        "url": "https://open.spotify.com/album/6loc604vNMnAaCwxgl8G85"
-      },
-      "artists": [
-        {
-          "name": "Chris Zabriskie",
-          "url": "https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka"
-        }
-      ],
-      "duration_ms": 424760,
-      "name": "The Sun Is Scheduled to Come Out Tomorrow",
-      "url": "https://open.spotify.com/track/5E62oQ051vOnn6UDVthTot"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "October Language",
         "url": "https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 313866,
       "name": "I'm Too Sleepy...Shall We Swim?",
       "url": "https://open.spotify.com/track/6bSDsTjVh6RIfYqHDxUyD3"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Talk Amongst the Trees",
+        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 330666,
+      "name": "Calm Of The Cast-Light Cloud",
+      "url": "https://open.spotify.com/track/5e5lDuehzdZRJaoRjCmwPj"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Talk Amongst the Trees",
-        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
+        "name": "dedication",
+        "url": "https://open.spotify.com/album/1hbuMDEa4b9db9XafVZOqi"
       },
       "artists": [
         {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
         }
       ],
-      "duration_ms": 330666,
-      "name": "Calm Of The Cast-Light Cloud",
-      "url": "https://open.spotify.com/track/5e5lDuehzdZRJaoRjCmwPj"
+      "duration_ms": 219707,
+      "name": "white mountain",
+      "url": "https://open.spotify.com/track/6wx1qKHRS97vFUBBPm5Ys7"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1299,22 +1315,6 @@
       "duration_ms": 378693,
       "name": "Btwn You + Me",
       "url": "https://open.spotify.com/track/2c29Sowwtuf7U3Thnh24nK"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "dedication",
-        "url": "https://open.spotify.com/album/1hbuMDEa4b9db9XafVZOqi"
-      },
-      "artists": [
-        {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
-        }
-      ],
-      "duration_ms": 219707,
-      "name": "white mountain",
-      "url": "https://open.spotify.com/track/6wx1qKHRS97vFUBBPm5Ys7"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "MP3 Collection",
-        "url": "https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg"
-      },
-      "artists": [
-        {
-          "name": "Vladislav Delay",
-          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
-        }
-      ],
-      "duration_ms": 438066,
-      "name": "Raamat",
-      "url": "https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Mist",
         "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 231240,
       "name": "The Mist",
       "url": "https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "MP3 Collection",
+        "url": "https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg"
+      },
+      "artists": [
+        {
+          "name": "Vladislav Delay",
+          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
+        }
+      ],
+      "duration_ms": 438066,
+      "name": "Raamat",
+      "url": "https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5"
     },
     {
       "added_at": "2023-08-04 12:53:28",

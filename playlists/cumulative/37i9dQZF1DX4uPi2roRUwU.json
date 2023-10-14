@@ -254,7 +254,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 189671,
       "name": "By Your Side (feat. Tom Grennan)",
       "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 164757,
       "name": "Crazy Like A Fool",
       "url": "https://open.spotify.com/track/0a6SLEVbOGBJhMgWjPhN5j"
@@ -893,6 +893,28 @@
     },
     {
       "album": {
+        "name": "Past Life",
+        "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196821,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy"
+    },
+    {
+      "album": {
         "name": "Rain In Ibiza",
         "url": "https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN"
       },
@@ -937,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183810,
+      "name": "Ritmo",
+      "url": "https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF"
+    },
+    {
+      "album": {
         "name": "Ritmo De La Noche (Vamos A La Playa)",
         "url": "https://open.spotify.com/album/0cti2FC4fjKghKMv8JDPUj"
       },
@@ -974,7 +1014,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 170785,
       "name": "Rule The World",
       "url": "https://open.spotify.com/track/22sKunNSPMCy2lvSLOY5yX"
@@ -1548,7 +1588,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 158847,
       "name": "YEAH (feat. ClockClock)",
       "url": "https://open.spotify.com/track/2OXvvdHQ9Q4KAqd152MTj2"

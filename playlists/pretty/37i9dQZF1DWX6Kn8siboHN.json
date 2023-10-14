@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Carlos & Jos\u00e9 en portada.",
-  "num_followers": 599480,
+  "num_followers": 600004,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTY5ZTMxYTE2NzE4YTEzZmI3OGE4NTI5YzJhNzE4MGRmOTliOTYw",
+  "snapshot_id": "MCxjYWU0ZTMyYjRjZjkwNDM5MTEwNGRhNmY1MjYwOTAzMzc5ZTc5ZDUz",
   "tracks": [
     {
       "added_at": "2023-08-08 23:03:11",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-08-08 23:03:11",
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 179280,
-      "name": "Amores Fingidos",
-      "url": "https://open.spotify.com/track/2PYfmBDAfXilm300zaMTIC"
-    },
-    {
-      "added_at": "2023-08-08 23:03:11",
-      "album": {
         "name": "Era Cabron El Viejo",
         "url": "https://open.spotify.com/album/4qkWGXtdS7AQDlqIpgjyP6"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 201546,
       "name": "Era Cabr\u00f3n El Viejo",
       "url": "https://open.spotify.com/track/39mFPN0z66M4azlAljnFHc"
+    },
+    {
+      "added_at": "2023-08-08 23:03:11",
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "Amores Fingidos",
+      "url": "https://open.spotify.com/track/2PYfmBDAfXilm300zaMTIC"
     },
     {
       "added_at": "2023-08-08 23:03:11",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-08-08 23:03:11",
       "album": {
-        "name": "15 exitazos",
-        "url": "https://open.spotify.com/album/4sMQ7QkSpj49jqNBAoiAyp"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Mi tesoro",
-      "url": "https://open.spotify.com/track/7KHGecUR5KX9hPLnsIdo8q"
-    },
-    {
-      "added_at": "2023-08-08 23:03:11",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 138440,
       "name": "Cielo Azul, Cielo Nublado",
       "url": "https://open.spotify.com/track/2odo6Lq6sOadOslMxzkGMw"
+    },
+    {
+      "added_at": "2023-08-08 23:03:11",
+      "album": {
+        "name": "15 exitazos",
+        "url": "https://open.spotify.com/album/4sMQ7QkSpj49jqNBAoiAyp"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Mi tesoro",
+      "url": "https://open.spotify.com/track/7KHGecUR5KX9hPLnsIdo8q"
     },
     {
       "added_at": "2023-08-08 23:03:11",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-08-08 23:03:11",
       "album": {
-        "name": "Aqu\u00ed Est\u00e1n!..",
-        "url": "https://open.spotify.com/album/05XTL5zW5DH7JvoFrRLPnF"
-      },
-      "artists": [
-        {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Acepto Mi Derrota",
-      "url": "https://open.spotify.com/track/04WZrScUUzNGXExDtUrQe5"
-    },
-    {
-      "added_at": "2023-08-08 23:03:11",
-      "album": {
         "name": "Exitos De Oro",
         "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
       },
@@ -1271,18 +1255,34 @@
     {
       "added_at": "2023-08-08 23:03:11",
       "album": {
-        "name": "20 Aniversario - Martes Trece",
-        "url": "https://open.spotify.com/album/2opmRjJnk6eFKmz6lBMvnz"
+        "name": "Aqu\u00ed Est\u00e1n!..",
+        "url": "https://open.spotify.com/album/05XTL5zW5DH7JvoFrRLPnF"
       },
       "artists": [
         {
-          "name": "Los terribles Del Norte",
-          "url": "https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT"
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
         }
       ],
-      "duration_ms": 244400,
-      "name": "Corrido De La Muerta",
-      "url": "https://open.spotify.com/track/2rr90xS2B05xvZdQ0WJykz"
+      "duration_ms": 209293,
+      "name": "Acepto Mi Derrota",
+      "url": "https://open.spotify.com/track/04WZrScUUzNGXExDtUrQe5"
+    },
+    {
+      "added_at": "2023-08-08 23:03:11",
+      "album": {
+        "name": "15 Grandes Exitos Vol. 2",
+        "url": "https://open.spotify.com/album/7kvowluQkpvjIGpvOGPC9f"
+      },
+      "artists": [
+        {
+          "name": "La Migra",
+          "url": "https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76"
+        }
+      ],
+      "duration_ms": 255111,
+      "name": "Celos De Ti",
+      "url": "https://open.spotify.com/track/1DeMLkxCC8lAoOHzHnkPcv"
     },
     {
       "added_at": "2023-08-08 23:03:11",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-08-08 23:03:11",
       "album": {
-        "name": "15 Grandes Exitos Vol. 2",
-        "url": "https://open.spotify.com/album/7kvowluQkpvjIGpvOGPC9f"
+        "name": "20 Aniversario - Martes Trece",
+        "url": "https://open.spotify.com/album/2opmRjJnk6eFKmz6lBMvnz"
       },
       "artists": [
         {
-          "name": "La Migra",
-          "url": "https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76"
+          "name": "Los terribles Del Norte",
+          "url": "https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT"
         }
       ],
-      "duration_ms": 255111,
-      "name": "Celos De Ti",
-      "url": "https://open.spotify.com/track/1DeMLkxCC8lAoOHzHnkPcv"
+      "duration_ms": 244400,
+      "name": "Corrido De La Muerta",
+      "url": "https://open.spotify.com/track/2rr90xS2B05xvZdQ0WJykz"
     },
     {
       "added_at": "2023-08-08 23:03:11",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-08-08 23:03:11",
       "album": {
-        "name": "Puras de Juan Gabriel, vol. 2",
-        "url": "https://open.spotify.com/album/3vPgQxFr1vdoiKIdbtg911"
-      },
-      "artists": [
-        {
-          "name": "Chuy Vega",
-          "url": "https://open.spotify.com/artist/3hjrGFp8ocEsDoHgkzAd4A"
-        }
-      ],
-      "duration_ms": 280398,
-      "name": "Asi Fue",
-      "url": "https://open.spotify.com/track/1CvmWRVOr6EUCDt1nmkWcN"
-    },
-    {
-      "added_at": "2023-08-08 23:03:11",
-      "album": {
         "name": "Entrega Total",
         "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 158275,
       "name": "Entrega Total",
       "url": "https://open.spotify.com/track/2o1jz9qLpX8tRffAU5mQ3R"
+    },
+    {
+      "added_at": "2023-08-08 23:03:11",
+      "album": {
+        "name": "Puras de Juan Gabriel, vol. 2",
+        "url": "https://open.spotify.com/album/3vPgQxFr1vdoiKIdbtg911"
+      },
+      "artists": [
+        {
+          "name": "Chuy Vega",
+          "url": "https://open.spotify.com/artist/3hjrGFp8ocEsDoHgkzAd4A"
+        }
+      ],
+      "duration_ms": 280398,
+      "name": "Asi Fue",
+      "url": "https://open.spotify.com/track/1CvmWRVOr6EUCDt1nmkWcN"
     },
     {
       "added_at": "2023-08-08 23:03:11",

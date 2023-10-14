@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums. Cover: ODUMODUBLVCK, Bloody Civilian, Wale \ud83c\uddf3\ud83c\uddec \ud83c\uddf3\ud83c\uddec \ud83c\uddf3\ud83c\uddec ",
+  "description": "Inspired by African drums. Cover: Ice Spice, Rema \ud83c\udde9\ud83c\uddf4 \ud83c\uddf3\ud83c\uddec ",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 165995,
       "name": "Advice",
       "url": "https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA"
@@ -2496,7 +2496,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 227313,
       "name": "Celebrate (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/1HEEnDxmxHvrAddczaWS48"
@@ -3222,7 +3222,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 359943,
       "name": "Drift",
       "url": "https://open.spotify.com/track/4JZiqyIrrexl2VGeBEMUYh"
@@ -3717,6 +3717,24 @@
     },
     {
       "album": {
+        "name": "Fefe Ne Fefe",
+        "url": "https://open.spotify.com/album/24ZhqMl3si2HuUPZC9IjZc"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "Fefe Ne Fefe",
+      "url": "https://open.spotify.com/track/4RxqGYYDnx1R6JfQAfd7B9"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/6u2P1FApJTEd74ZixHCXRd"
       },
@@ -3754,6 +3772,24 @@
       "duration_ms": 173697,
       "name": "Final Feliz",
       "url": "https://open.spotify.com/track/1PAUJoxklhLNqzDPHWYJPx"
+    },
+    {
+      "album": {
+        "name": "Fine Pass",
+        "url": "https://open.spotify.com/album/7fRa0SFSKPr2dX9Fnee44k"
+      },
+      "artists": [
+        {
+          "name": "TOME",
+          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163154,
+      "name": "Fine Pass",
+      "url": "https://open.spotify.com/track/1L1ateHMb54rv0QsoD9YKy"
     },
     {
       "album": {
@@ -4700,7 +4736,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 190103,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4K4ePgfFyaENPjNzsXIWCv"
@@ -7145,6 +7181,28 @@
     },
     {
       "album": {
+        "name": "7 SEAS",
+        "url": "https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Messi",
+      "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
+    },
+    {
+      "album": {
         "name": "MI PAPER",
         "url": "https://open.spotify.com/album/0OB1qnvDpny15yKOBhGSs0"
       },
@@ -9293,6 +9351,28 @@
     },
     {
       "album": {
+        "name": "Pretty Girl (with Rema)",
+        "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137907,
+      "name": "Pretty Girl (with Rema)",
+      "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
+    },
+    {
+      "album": {
         "name": "Pretty Pretty (Remix)",
         "url": "https://open.spotify.com/album/0l02JRJriL0N6zPJDZZCo5"
       },
@@ -9670,7 +9750,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 214445,
       "name": "Red Ruby Da Sleeze",
       "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
@@ -9872,6 +9952,28 @@
       "duration_ms": 259946,
       "name": "Room Service",
       "url": "https://open.spotify.com/track/4rFBWsRewnHZsCywLaIh2B"
+    },
+    {
+      "album": {
+        "name": "Rora",
+        "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143762,
+      "name": "Rora",
+      "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
     },
     {
       "album": {
@@ -10176,7 +10278,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 156428,
       "name": "Say Salud",
       "url": "https://open.spotify.com/track/3LaMO5jj65HG15NqlJsI3I"
@@ -10513,6 +10615,28 @@
     },
     {
       "album": {
+        "name": "Shell Down",
+        "url": "https://open.spotify.com/album/3RmBYeM723eUKdwig8rEqM"
+      },
+      "artists": [
+        {
+          "name": "Cocanina",
+          "url": "https://open.spotify.com/artist/6Jwx0B8JhSuBMy5ZBz7GIk"
+        },
+        {
+          "name": "Nessa Preppy",
+          "url": "https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100991,
+      "name": "Shell Down",
+      "url": "https://open.spotify.com/track/7KC612HKDkjnq1JwjoN8Mh"
+    },
+    {
+      "album": {
         "name": "Shen Yeng Anthem",
         "url": "https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT"
       },
@@ -10696,7 +10820,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 173329,
       "name": "Sixteen",
       "url": "https://open.spotify.com/track/2HZphTYchmvBQL2ejpNSoq"
@@ -11888,6 +12012,32 @@
       "duration_ms": 177818,
       "name": "Temporary Baby",
       "url": "https://open.spotify.com/track/7wbR9tAbacRzZVJS625xff"
+    },
+    {
+      "album": {
+        "name": "Tequila Shots",
+        "url": "https://open.spotify.com/album/6OjkSwUgvaM8zhkUumQXWN"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189834,
+      "name": "Tequila Shots",
+      "url": "https://open.spotify.com/track/16imuDRy30OJ19fJLAA3Fu"
     },
     {
       "album": {

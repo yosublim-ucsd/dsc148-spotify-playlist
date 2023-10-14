@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Mitski
 
-537 songs - 1 day 9 hr 36 min
+538 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,7 @@
 | [Still Life \(feat\. Joseph\)](https://open.spotify.com/track/2Qj1pOoYSCjLDgxMKffGuS) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Tourism](https://open.spotify.com/album/7G07UTNS6qqiu7c5cz7jcj) | 3:48 | 2021-10-22 | 2022-07-23 |
 | [Stone](https://open.spotify.com/track/7ByCBSiSnTIiI8E3wp6gof) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Stone](https://open.spotify.com/album/6lPerPOYueMPnlKjuRghia) | 3:37 | 2023-09-01 |  |
 | [Storm in Summer](https://open.spotify.com/track/01wiNf866foVe76Q6LFqU7) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Storm in Summer](https://open.spotify.com/album/7loAmhY1aqyfhLyUqm629W) | 4:20 | 2021-10-22 | 2022-07-29 |
-| [Strange Overtones](https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 3:26 | 2022-06-24 |  |
+| [Strange Overtones](https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 3:26 | 2022-06-24 | 2023-10-14 |
 | [Strange Overtones](https://open.spotify.com/track/7J6alVcVYqASesygsZG4VW) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/61ouYBX1skZYiuv5EHnmEK) | 3:26 | 2021-10-22 | 2022-07-29 |
 | [Stranger](https://open.spotify.com/track/0JmSm5QqrdHEUDOG1k0D4h) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Stranger](https://open.spotify.com/album/4bqE0GxxSdnrfJMiFB6MAA) | 2:48 | 2021-10-22 | 2023-06-10 |
 | [Sucker](https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker's Lunch](https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ) | 4:43 | 2022-10-14 | 2022-11-13 |
@@ -439,6 +439,7 @@
 | [That's Life Honey](https://open.spotify.com/track/41EWCCqujOEoyQreiu9pt2) | [Boy Scouts](https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V) | [That's Life Honey](https://open.spotify.com/album/0Dto3sJrxxHp4GEy12KAI1) | 3:02 | 2021-10-22 | 2022-07-29 |
 | [That's Life Honey](https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ) | [Boy Scouts](https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V) | [Wayfinder](https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN) | 3:02 | 2022-10-14 | 2023-01-27 |
 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-04-28 |  |
+| [The Animals](https://open.spotify.com/track/751PUtzjp2nrpSsp3sAvgL) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:16 | 2023-10-13 |  |
 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 | 2021-10-22 | 2022-04-14 |
 | [The Breeze / My Baby Cries](https://open.spotify.com/track/32QtDJN4oRfo3Jwy6gpoWN) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Loving Takes This Course \- a Tribute to the Songs of Kath Bloom](https://open.spotify.com/album/45Ae8sd3ZB5gbBHNNIZaGY) | 6:23 | 2021-10-22 | 2022-01-15 |
 | [The Bride & The Bachelor](https://open.spotify.com/track/3toFxCag8BngPPZYm3p9kY) | [Magnolian](https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp) | [Famous Men](https://open.spotify.com/album/6KGnCDspnm0AQe4uHymeg6) | 4:10 | 2021-10-22 | 2023-08-05 |

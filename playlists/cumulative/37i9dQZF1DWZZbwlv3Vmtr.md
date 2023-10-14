@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-806 songs - 1 day 7 hr 20 min
+807 songs - 1 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Forgiveness](https://open.spotify.com/track/72MhlqX4Eb1IyMJq486XRN) | [Pabzzz](https://open.spotify.com/artist/1cqhGlKnyF5Fhl5juBFduj) | [Forgiveness](https://open.spotify.com/album/41pBXLIfbweKQn6S9KSywT) | 3:43 | 2022-06-03 | 2022-08-19 |
 | [Fresher Scents](https://open.spotify.com/track/2AyGe2TYtgvJ7xyM3db0jH) | [Nokawa](https://open.spotify.com/artist/2oEffj6YkFOVSxj6uiK8g7) | [Fresher Scents](https://open.spotify.com/album/2MRysprtYZtG0PxCRS2gVj) | 1:51 | 2022-04-15 |  |
 | [Friday](https://open.spotify.com/track/0VMPNNbZcV6aP0O9ZCLNhe) | [Little Lazy Lights](https://open.spotify.com/artist/2YEOM2LGal4G2Z2GkbbAlA) | [Friday](https://open.spotify.com/album/5yDhrdMgbYA3EdMkKBYads) | 3:36 | 2022-04-15 |  |
-| [Friday Dazed](https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Friday Dazed](https://open.spotify.com/album/3r7qEzzlkQNFSQOuggOQm4) | 2:12 | 2023-10-13 |  |
+| [Friday Dazed](https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Friday Dazed](https://open.spotify.com/album/3r7qEzzlkQNFSQOuggOQm4) | 2:12 | 2023-10-13 | 2023-10-14 |
 | [Fried Beans](https://open.spotify.com/track/2rG2JAPKFQxDZXcf6pUO5S) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Fried Beans](https://open.spotify.com/album/6whOtrxJvVArWYlyii3TnO) | 2:04 | 2022-04-15 |  |
 | [Frolic](https://open.spotify.com/track/2KNFOqcjVlBX4Gq4ieiysa) | [fallover](https://open.spotify.com/artist/7IcaEh6tPfZwI4FHtbPMD6) | [Frolic](https://open.spotify.com/album/16veguDPc6MecMoXfcYOUt) | 1:57 | 2022-04-15 | 2023-10-13 |
 | [fromain](https://open.spotify.com/track/5LhVAZrBWUrqIcCLX90uPa) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [fromain](https://open.spotify.com/album/7C3avsrbBhR7CiACWLX1SK) | 2:02 | 2023-09-22 |  |
@@ -793,6 +793,7 @@
 | [Wine To The Plants](https://open.spotify.com/track/6XqLGVVMtx8ZUK8jsZhAWR) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Wine To The Plants](https://open.spotify.com/album/3V0GXWAPQnhMiYuWnr8jzi) | 2:27 | 2022-04-15 | 2022-07-08 |
 | [Winter Wander](https://open.spotify.com/track/3EPBKsUyZH08juX1WfKOXS) | [kosmikk](https://open.spotify.com/artist/7ttBQqZEqRcKAyTstldlyj), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Winter Wander](https://open.spotify.com/album/1A5gxXGpnI1l7jGHzDt66n) | 1:46 | 2023-01-06 |  |
 | [Wisps Of Mist](https://open.spotify.com/track/2kfrKI1L3INqbbTY7zDWZ5) | [Kosibeats](https://open.spotify.com/artist/2Yrmz6F0FhNkIVOt2Lfco3), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Wisps Of Mist](https://open.spotify.com/album/3ojY79JiyqFY39CIwmZ5oD) | 2:26 | 2022-04-15 | 2022-12-10 |
+| [Wistful Silhouettes](https://open.spotify.com/track/5Ltgq6XMTilOXhNiSQZrVT) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41), [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Wistful Silhouettes](https://open.spotify.com/album/7bnbpre7jCyEwHu1hT9ngt) | 2:16 | 2023-10-13 |  |
 | [Wonder](https://open.spotify.com/track/5i0QmCyCt4qJudSqoNbu17) | [Dixxy](https://open.spotify.com/artist/3tzNFZuGKTcNypBltcMf4a) | [Wonder](https://open.spotify.com/album/1upkA8NqjW7otpz8jaheYg) | 3:12 | 2022-04-15 | 2023-10-13 |
 | [Wonderland](https://open.spotify.com/track/6qeMnGssbQmFZQ4NA9NPT2) | [So\_nny](https://open.spotify.com/artist/1sHQ9ZkPcQPs3TIG3EJFd4) | [Wonderland](https://open.spotify.com/album/1FXPEiafiBIQoBL2FnoWGl) | 2:30 | 2022-04-15 | 2022-09-17 |
 | [Woodlander](https://open.spotify.com/track/577MuVDzCHjTASuPsU34Hs) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [Woodlander](https://open.spotify.com/album/7sSPJBrN2fgSnW5rHSSKhG) | 2:29 | 2022-09-09 | 2023-10-06 |

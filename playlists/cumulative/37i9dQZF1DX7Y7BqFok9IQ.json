@@ -1551,6 +1551,32 @@
     },
     {
       "album": {
+        "name": "The Lucky Strokes",
+        "url": "https://open.spotify.com/album/4S5JMPHzFFEPql78r26qux"
+      },
+      "artists": [
+        {
+          "name": "The Lucky Strokes",
+          "url": "https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        },
+        {
+          "name": "Shelby Kemp",
+          "url": "https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235152,
+      "name": "Holy Fire",
+      "url": "https://open.spotify.com/track/57h5BBMhju3L84Vruq34oX"
+    },
+    {
+      "album": {
         "name": "Holy Ghost Fire",
         "url": "https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht"
       },
@@ -1886,7 +1912,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 300487,
       "name": "Innocence Of Youth - Live",
       "url": "https://open.spotify.com/track/3wv8SOIuHKruVasUr4OuRP"

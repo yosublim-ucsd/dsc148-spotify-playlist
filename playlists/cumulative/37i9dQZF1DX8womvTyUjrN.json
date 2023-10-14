@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Leon Leiden & Juliana",
+  "description": "Fresh Latin pop on the rise. Cover: Marc Segu\u00ed",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -494,7 +494,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 172066,
       "name": "Amor",
       "url": "https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32"
@@ -1038,6 +1038,24 @@
       "duration_ms": 171680,
       "name": "Besos y Pendientes",
       "url": "https://open.spotify.com/track/4xxIXKRyO2t4KiPzzZvHnj"
+    },
+    {
+      "album": {
+        "name": "bien hecho",
+        "url": "https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241038,
+      "name": "bien hecho",
+      "url": "https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB"
     },
     {
       "album": {
@@ -1687,6 +1705,28 @@
     },
     {
       "album": {
+        "name": "COBARDE",
+        "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166081,
+      "name": "COBARDE",
+      "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
+    },
+    {
+      "album": {
         "name": "SUENA MYA!",
         "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
       },
@@ -2222,6 +2262,24 @@
       "duration_ms": 151011,
       "name": "de mi cabeza no te vas",
       "url": "https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0"
+    },
+    {
+      "album": {
+        "name": "de mi pa ti",
+        "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206351,
+      "name": "de mi pa ti",
+      "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
     },
     {
       "album": {
@@ -3048,6 +3106,28 @@
       "duration_ms": 164412,
       "name": "Eso Que Ten\u00e9s",
       "url": "https://open.spotify.com/track/48Qj2SZJpEJ9ToXwcyJBhC"
+    },
+    {
+      "album": {
+        "name": "ESO VA",
+        "url": "https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "ESO VA",
+      "url": "https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4"
     },
     {
       "album": {
@@ -6124,7 +6204,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 212698,
       "name": "Nuez",
       "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
@@ -6146,7 +6226,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 170389,
       "name": "Nunca Deja de Llover",
       "url": "https://open.spotify.com/track/5wCv4JWrrvRNlonIy536tC"
@@ -7304,7 +7384,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 206546,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61"

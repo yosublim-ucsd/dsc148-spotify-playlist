@@ -2,9 +2,9 @@
 
 ### [Indie Twang](https://open.spotify.com/playlist/37i9dQZF1DWZ1RmpoqILAO)
 
-> indie tunes with country experimentation Cover: Slaughter Beach, Dog
+> indie tunes with country experimentation Cover: Arcy Drive
 
-173 songs - 11 hr 28 min
+175 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 | 2023-02-23 |  |
 | [Cowgirl Giving](https://open.spotify.com/track/5iByVlZlOmIVTPbF34VSTM) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Cowgirl Giving](https://open.spotify.com/album/3f62q827UrlNTwvJS8v6oq) | 5:05 | 2023-07-28 |  |
 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 | 2023-02-23 |  |
+| [Daisy](https://open.spotify.com/track/61aJAWoZAj4ymQOkkfUSnk) | [After Ours](https://open.spotify.com/artist/48mkLSnW17hfCg0rDjMzs7) | [Daisy](https://open.spotify.com/album/6ubBnaA12qbh5WbxoNXsn2) | 4:02 | 2023-10-13 |  |
 | [Daisy](https://open.spotify.com/track/5R27EWWvm93ihBXaIebEqr) | [Charlie Martin](https://open.spotify.com/artist/4FAFa9p2vpYWRZdUpcAKH4) | [Imaginary People \(Deluxe Edition\)](https://open.spotify.com/album/5xLq48DQQuDbvcdM9ofNwv) | 4:34 | 2023-02-23 |  |
 | [Dandelions](https://open.spotify.com/track/15ABFJbl41BsIKFWGKfmZ7) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Speed, Sound, Lonely KV \(ep\)](https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6) | 6:34 | 2023-02-23 |  |
 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-04-28 |  |
@@ -114,6 +115,7 @@
 | [Lose Sight of You](https://open.spotify.com/track/0MRl699sc4XD47N8voalTg) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Something Wild](https://open.spotify.com/album/3Wc0YFoix2vAhwc8UmRkFJ) | 1:58 | 2023-06-12 |  |
 | [Mountain Man](https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:58 | 2023-02-23 |  |
 | [My Life in Art](https://open.spotify.com/track/14Zab7jJKwK89fY4RxXl3N) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Excuses for Travellers](https://open.spotify.com/album/69Kl8ciY9o4lxA4qhdwPZD) | 7:21 | 2023-07-05 |  |
+| [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-10-13 |  |
 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 | 2023-03-20 |  |
 | [Never on My Mind](https://open.spotify.com/track/4z9ViersKJgj1ZwTjjfhtk) | [Tobacco City](https://open.spotify.com/artist/00Af3oygT0HC6ld0c2HwFX) | [Tobacco City, USA](https://open.spotify.com/album/11J38DSk3mY2KEOx1NEY20) | 3:45 | 2023-09-22 |  |
 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 | 2023-02-23 |  |

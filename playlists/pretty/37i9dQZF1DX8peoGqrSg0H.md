@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: NONT TANONT
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,929 likes - 65 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,885 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [เส้นเรื่องเดิม \(RERUN\)](https://open.spotify.com/track/7kYkOkwL7644XyOdjQ9zo5) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [เส้นเรื่องเดิม \(RERUN\)](https://open.spotify.com/album/26LY4e9rP1alRPyBwokxsW) | 3:31 |
-| 2 | [น้อยใจ](https://open.spotify.com/track/4SUjsrUM5F05F85ZdAZn2v) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [น้อยใจ](https://open.spotify.com/album/7w6pH6dWy5zIBNQBvvJ0Wm) | 3:52 |
+| 2 | [น้อยใจ \(hurt\)](https://open.spotify.com/track/4SUjsrUM5F05F85ZdAZn2v) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [น้อยใจ \(hurt\)](https://open.spotify.com/album/7w6pH6dWy5zIBNQBvvJ0Wm) | 3:52 |
 | 3 | [พูดไม่ออก \(Mute\)](https://open.spotify.com/track/18PwDfOlpsz2PvGU1SXV7Q) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [พูดไม่ออก \(Mute\)](https://open.spotify.com/album/5Wq6kTJU9h1F2GgJifHOZ7) | 3:11 |
 | 4 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 |
 | 5 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [เลือกเค้าเลยได้มั้ย \(No Choice\)](https://open.spotify.com/track/4qVnHEFxfJvjT35d9CdOMc) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [เลือกเค้าเลยได้มั้ย \(No Choice\)](https://open.spotify.com/album/5yLgzmQrTpCqmH40sJu8B0) | 3:29 |
 | 65 | [R U OK?](https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [R U OK? \- Single](https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95) | 3:27 |
 
-Snapshot ID: `MCxiMDcwZjFlNjc2ZDJiYjYzNDJmYmY0ZDUzOWNhZmU4YjNjOWVmNjA5`
+Snapshot ID: `MCw3YjA0NmViMGY4OTc0YzhjZmU2MjA2ODRiOWI4MzJlZTEwMTU3NDdm`

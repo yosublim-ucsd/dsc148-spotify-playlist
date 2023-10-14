@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: ANNA, Capo Plaza, AVA",
-  "num_followers": 89543,
+  "num_followers": 89639,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGFlMGI0NDBkMjQ5MjQ2NDk0OTg1MzhiNmRkZmQ4NWRlMmFlNjA5",
+  "snapshot_id": "MCw1OGExMmM5YWJmNjUyOGFkZGZhNmRmZDQ4ZmQ4NWI0ZDI1NDYxZDM0",
   "tracks": [
     {
       "added_at": "2023-09-28 22:01:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
-        "name": "PLAYA",
-        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
+        "name": "Caramba",
+        "url": "https://open.spotify.com/album/0wnFOzdO3ujU3eabTYDoF1"
       },
       "artists": [
         {
-          "name": "Zefe",
-          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
         }
       ],
-      "duration_ms": 154926,
-      "name": "PLAYA",
-      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
+      "duration_ms": 183174,
+      "name": "Caramba",
+      "url": "https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe"
     },
     {
       "added_at": "2023-09-28 22:01:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
-        "name": "Caramba",
-        "url": "https://open.spotify.com/album/0wnFOzdO3ujU3eabTYDoF1"
+        "name": "PLAYA",
+        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
       },
       "artists": [
         {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
         }
       ],
-      "duration_ms": 183174,
-      "name": "Caramba",
-      "url": "https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe"
+      "duration_ms": 154926,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
     },
     {
       "added_at": "2023-09-28 22:01:00",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 191869,
+      "name": "Hollywood (feat. Diplo)",
+      "url": "https://open.spotify.com/track/1gnKOz6FFFOcP3DqvDz0Rt"
+    },
+    {
+      "added_at": "2023-09-28 22:01:00",
+      "album": {
         "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
         "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 196000,
       "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
       "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
-    },
-    {
-      "added_at": "2023-09-28 22:01:00",
-      "album": {
-        "name": "Famoso",
-        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 191869,
-      "name": "Hollywood (feat. Diplo)",
-      "url": "https://open.spotify.com/track/1gnKOz6FFFOcP3DqvDz0Rt"
     },
     {
       "added_at": "2023-09-28 22:01:00",
@@ -1619,34 +1619,26 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
-        "name": "X2",
-        "url": "https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5"
+        "name": "HOURS",
+        "url": "https://open.spotify.com/album/6wo9LoC6T6VWdsSR35SXlE"
       },
       "artists": [
         {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
         },
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
         },
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+          "name": "Enzo Dong",
+          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
         }
       ],
-      "duration_ms": 158630,
-      "name": "DREAM TEAM (feat. Dylan, Capo Plaza, Tedua & Shiva)",
-      "url": "https://open.spotify.com/track/4IjDcm8qRdRiwrRtpIdpSD"
+      "duration_ms": 172800,
+      "name": "SPLASH (feat. Enzo Dong)",
+      "url": "https://open.spotify.com/track/0CjTQ01ADXx3BMO07LxpKx"
     }
   ],
   "unique_name": "Club Rap ",

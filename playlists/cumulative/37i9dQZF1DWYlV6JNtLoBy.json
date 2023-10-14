@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Umusirikare",
+        "url": "https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh"
+      },
+      "artists": [
+        {
+          "name": "Israel Mbonyi",
+          "url": "https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 670000,
+      "name": "Nina Siri",
+      "url": "https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE"
+    },
+    {
+      "album": {
         "name": "NINA SIRI",
         "url": "https://open.spotify.com/album/3NyvSTjdt2P19P7I8xV3oz"
       },
@@ -1482,7 +1500,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 261355,
       "name": "Upendo Wa Yesu",
       "url": "https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer"

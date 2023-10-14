@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 
 > 時には、思いっきりラウドな音に感情を乗せてシャウト。 Shout your heart out with these loud tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,648 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,695 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 | 42 | [AREA PD](https://open.spotify.com/track/2vdO4HCh3Ya4B6U044UdCh) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [AREA PD](https://open.spotify.com/album/4QC4o5bDLPMDLPk4Hs2M22) | 2:57 |
 | 43 | [EXiSTENCE](https://open.spotify.com/track/4NOO855YQh16AF5FhhO41L) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [THE BEAUTiFUL PEOPLE](https://open.spotify.com/album/5GZMmsnK1viNAVvxIBB98A) | 4:04 |
 | 44 | [Curse](https://open.spotify.com/track/24CBIOlOxIMwXB8rmkYToW) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Curse](https://open.spotify.com/album/4IO7PP3b6sRhsJVrj8u4IK) | 3:14 |
-| 45 | [Shambles](https://open.spotify.com/track/590KvwnYag62VRzmXM7dOk) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Shambles](https://open.spotify.com/album/4hhkj6li1ULllYOZJHFt7w) | 3:22 |
-| 46 | [ゆきこさん](https://open.spotify.com/track/7EzsrJjJQBXRPiAPijADtG) | [ミドリ](https://open.spotify.com/artist/1Qjrx8NtccILLfR3wh1u3o) | [あらためまして、はじめまして、ミドリです。](https://open.spotify.com/album/5q8Hkakvwmb5Zyk4nUZKyD) | 3:08 |
+| 45 | [ゆきこさん](https://open.spotify.com/track/7EzsrJjJQBXRPiAPijADtG) | [ミドリ](https://open.spotify.com/artist/1Qjrx8NtccILLfR3wh1u3o) | [あらためまして、はじめまして、ミドリです。](https://open.spotify.com/album/5q8Hkakvwmb5Zyk4nUZKyD) | 3:08 |
+| 46 | [Shambles](https://open.spotify.com/track/590KvwnYag62VRzmXM7dOk) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Shambles](https://open.spotify.com/album/4hhkj6li1ULllYOZJHFt7w) | 3:22 |
 | 47 | [Morgue](https://open.spotify.com/track/47zqDEkR048yjkN3YJvlYg) | [Otus](https://open.spotify.com/artist/5NgVz693TXUKsh7wFGPEPe) | [Morgue](https://open.spotify.com/album/127oCVYGHOgjQ5WvFnEWko) | 2:33 |
 | 48 | [LIGHTS](https://open.spotify.com/track/0V0Dd9h94tRw37B8BdhZ4y) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HAPPY TALK](https://open.spotify.com/album/6AmYx6hJ0hNrCcg8u25FXk) | 4:44 |
 | 49 | [BUG](https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [BUG](https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP) | 3:51 |
 | 50 | [Chronostasis](https://open.spotify.com/track/2hvydf5uDU6LD8e55JEScU) | [View From The Soyuz](https://open.spotify.com/artist/3F0nXEE0ikWWVavikJGkOT) | [Immaculate](https://open.spotify.com/album/4MVWrveCovKtARU8jwY0YD) | 2:43 |
 
-Snapshot ID: `MCw5NTYwODQzZGNhOTc5NDFiZGE1MzU4MWJjYjU1YTg0N2MxOTc3ZjYw`
+Snapshot ID: `MCxhOTgzNmQzOGYxZTRkOGRlYjNlNDBmOWI5MjIyNDFhYzI1YTE2NjZk`

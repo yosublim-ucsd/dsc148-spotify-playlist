@@ -1405,6 +1405,36 @@
     },
     {
       "album": {
+        "name": "Algu\u00e9m Conseguiu Entender?",
+        "url": "https://open.spotify.com/album/2lhZM1xIYVhJKCtM2KhejI"
+      },
+      "artists": [
+        {
+          "name": "Xamuel",
+          "url": "https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC"
+        },
+        {
+          "name": "Dubaile",
+          "url": "https://open.spotify.com/artist/5PxrxQbj723sfmU9NwGBBT"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131111,
+      "name": "Algu\u00e9m Conseguiu Entender?",
+      "url": "https://open.spotify.com/track/2CqTUaPznDgIQEDS9pSlcX"
+    },
+    {
+      "album": {
         "name": "Ali Te Ama",
         "url": "https://open.spotify.com/album/6aR8YMno9VPTfKYvRf8DSL"
       },
@@ -28793,6 +28823,28 @@
     },
     {
       "album": {
+        "name": "Rodeo (Remix)",
+        "url": "https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq"
+      },
+      "artists": [
+        {
+          "name": "Lah Pat",
+          "url": "https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245959,
+      "name": "Rodeo (Remix)",
+      "url": "https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv"
+    },
+    {
+      "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
       },
@@ -31284,7 +31336,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 230746,
       "name": "Sorte - Ao Vivo",
       "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
@@ -31742,7 +31794,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 239727,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1UVquahdeg6mRYDTHFKRx0"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-15",
-  "description": "Music by our 2023 Artists To Watch. Cover: Young Miko",
+  "description": "Music by our 2023 Artists To Watch. Cover: Ivan Cornejo",
   "name": "Viva Latino Artists To Watch",
   "tracks": [
     {
@@ -195,6 +195,24 @@
     },
     {
       "album": {
+        "name": "Donde Est\u00e1s",
+        "url": "https://open.spotify.com/album/3P1vHJYr9mrJYvIEWNm8yb"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249040,
+      "name": "Donde Est\u00e1s",
+      "url": "https://open.spotify.com/track/69qvqJ61NqTtr1eO29tapa"
+    },
+    {
+      "album": {
         "name": "Emeyc\u00e9",
         "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
       },
@@ -257,6 +275,24 @@
     },
     {
       "album": {
+        "name": "GTA.mp3",
+        "url": "https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151653,
+      "name": "GTA.mp3",
+      "url": "https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk"
+    },
+    {
+      "album": {
         "name": "ID",
         "url": "https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL"
       },
@@ -308,7 +344,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 155861,
       "name": "Jagger.mp3",
       "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
@@ -362,7 +398,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 252166,
       "name": "La \u00daltima Vez - Deluxe",
       "url": "https://open.spotify.com/track/1XX3sKKZN3DfWeFpMAc2WX"
@@ -486,7 +522,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 180374,
       "name": "Movezz en silencio",
       "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
@@ -530,7 +566,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 182204,
       "name": "noches largas, faldas cortas",
       "url": "https://open.spotify.com/track/3So3rUrTEA5PT5lJCNXFe4"

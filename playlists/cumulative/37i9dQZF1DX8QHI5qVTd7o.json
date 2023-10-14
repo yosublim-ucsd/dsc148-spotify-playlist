@@ -340,10 +340,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 326887,
       "name": "Five Hours",
       "url": "https://open.spotify.com/track/3haS1MDe2Zh8jJaeiiymSt"
+    },
+    {
+      "album": {
+        "name": "Five Hours",
+        "url": "https://open.spotify.com/album/3hM67HrtJ55aUC5TGt66Za"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326887,
+      "name": "Five Hours",
+      "url": "https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT"
     },
     {
       "album": {

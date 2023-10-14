@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Milena\(밀레나\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Whee In\(휘인\)\)
 
-243 songs - 13 hr 39 min
+247 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Diving \(Piano by Seokwon Lee\)](https://open.spotify.com/track/76BHfwrmbjxqHiUFdJS4zL) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 3:32 | 2023-02-10 | 2023-08-18 |
 | [DO \(Feat\. LeeHi\)](https://open.spotify.com/track/2MVEiDjCneHRZxmv10rb5l) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Answer Answer](https://open.spotify.com/album/0r7yewj1OlyCzhDk2tmYjP) | 3:04 | 2023-05-24 |  |
 | [Don't Ever Leave Me](https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Seoul Check\-in OST Part 8](https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5) | 2:58 | 2022-06-18 | 2022-10-05 |
+| [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 | 2023-10-13 |  |
 | [Don't you know](https://open.spotify.com/track/5L2sypKfJmGGcZLUXq5Obs) | [LIMZY](https://open.spotify.com/artist/5UBoOzYYNpwHfwXqr1JNXS) | [NIGHT DRIVER](https://open.spotify.com/album/6ucIPiCHNNiz5w4okN3Bjp) | 3:21 | 2023-10-05 |  |
 | [Don’t go home](https://open.spotify.com/track/2ROP0upaRoZuU3WZAAv4d3) | [seoseo](https://open.spotify.com/artist/19fpoLzmPBNG4TdMQMSSc8) | [Don’t go home](https://open.spotify.com/album/5Z2DV5deJlPtSIgLPta6Hb) | 3:07 | 2023-01-10 | 2023-07-08 |
 | [Dotdanbae](https://open.spotify.com/track/03ARk5P8goF6JoP5Rwc8Is) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 3:13 | 2022-06-18 | 2022-10-05 |
@@ -126,6 +127,7 @@
 | [I Want to Be Closer to You](https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:30 | 2023-09-18 |  |
 | [I'm Your Puppy \- 2021](https://open.spotify.com/track/3ZnK8D6A0oO6mPmg9Id4R6) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [December](https://open.spotify.com/album/6mUh75sWY6BAfmkfBkXDb4) | 4:54 | 2022-05-28 | 2022-06-21 |
 | [If You Didn’t Know \(With\. Peej\)](https://open.spotify.com/track/1e7SDFFex4hsV5uZCyH6QW) | [Jflow](https://open.spotify.com/artist/3k0PWW1VH0ZNcew1eBN5H1), [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [If You Didn’t Know \(With\. Peej\)](https://open.spotify.com/album/3KILBs3bHUA8R6zbCoDgJJ) | 4:56 | 2022-05-28 | 2022-08-03 |
+| [In The Mood](https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [IN the mood](https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet) | 2:48 | 2023-10-13 |  |
 | [insomnia \(feat\. KURO\)](https://open.spotify.com/track/7Jartabvap5nlDW9IGXrPd) | [16](https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [insomnia \(feat\. KURO\)](https://open.spotify.com/album/0ltQcPJwhuE68IyKTLlHYs) | 3:47 | 2023-07-14 |  |
 | [Jealousy](https://open.spotify.com/track/5D0xOSWIpc7dTIEWQHhNSY) | [Jeon Chan Bin](https://open.spotify.com/artist/6UZ8dJVWmp2olPASce03YZ) | [Jealousy](https://open.spotify.com/album/4bhD2vJg23j42c0a2J9Osr) | 2:55 | 2022-06-09 | 2022-09-06 |
 | [karaoke love \(Feat\. Ugly Duck\)](https://open.spotify.com/track/6xAB0AmhaIfeGkSkVXGpJ9) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [karaoke love](https://open.spotify.com/album/1VaTPAvkL829cceEPOOrUM) | 3:33 | 2023-07-14 |  |
@@ -138,6 +140,7 @@
 | [Lock me up](https://open.spotify.com/track/0PDYx9zpcOnzIW4Epfk2Bb) | [GooNight](https://open.spotify.com/artist/6HeK6beIohZ8q4L8me1iId) | [Lock me up](https://open.spotify.com/album/3TjzPxoh0SfQSdxAq9GMfn) | 3:12 | 2022-07-07 | 2022-11-15 |
 | [Lokuko \(feat\. Kid Wine\)](https://open.spotify.com/track/2kPXxMK07nUGTL2eQdVM3O) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [NEWRNBERA](https://open.spotify.com/album/1EWG73KSFYGrnZ3InrANPo) | 3:16 | 2023-08-29 |  |
 | [Lonely](https://open.spotify.com/track/4oZfm9BPohSYNM3dMpV2KQ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Sailing](https://open.spotify.com/album/7uXqFtzEZggg75Kpb1Eyya) | 3:17 | 2023-09-21 |  |
+| [lonely](https://open.spotify.com/track/4vSVu22ZUSMxVPdWnemTWo) | [SEINY](https://open.spotify.com/artist/3tjBsp5CVODuG5f1rT2afI) | [lonely](https://open.spotify.com/album/3566WHXxAjUYG5VgWXlSkt) | 3:07 | 2023-10-13 |  |
 | [Loner \(Feat\. g0nny\)](https://open.spotify.com/track/5z71sbduBfZcSWdgdx4Gfk) | [yiyona](https://open.spotify.com/artist/5UxbxMzCNo2m4oyAN4GYCv), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Loner \(Feat\. g0nny\)](https://open.spotify.com/album/1n6h9eUFPgRcDVxPxy40CT) | 3:33 | 2022-10-28 | 2023-01-11 |
 | [Look at the Sky](https://open.spotify.com/track/2xCb6yQWQexnqBj15IU6sh) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Look at the Sky \(Single Edition 3\)](https://open.spotify.com/album/3qfywpeo4Jch6bALjKWdYn) | 4:07 | 2022-05-28 | 2022-07-06 |
 | [Lotus \(feat\. bluetin\)](https://open.spotify.com/track/269hsEUZuvhQ3dkONmgrNc) | [Hanon](https://open.spotify.com/artist/4Lj2K1MmY34I1CX08LqeR1), [bluetin](https://open.spotify.com/artist/5SblXf2aM3Dy65ja16JhuB) | [Water Lily \(feat\. bluetin\)](https://open.spotify.com/album/4WFh1X5whmRko0kxY9fuIx) | 3:12 | 2022-06-09 | 2022-09-06 |
@@ -239,6 +242,7 @@
 | [Wondering](https://open.spotify.com/track/3g7s0ksdIltUCM82h9Zrnb) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Wondering](https://open.spotify.com/album/1dY56fErmPTREtwhWN8ORI) | 4:05 | 2022-05-28 | 2022-06-15 |
 | [Worth It](https://open.spotify.com/track/5IoVUdE0ux6eOFJh91Ys4n) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [Worth It](https://open.spotify.com/album/7iGhLNqA3VgbPa9qnlUqsl) | 4:05 | 2023-02-14 | 2023-08-18 |
 | [Would You Still Love Me \(Feat\. MELOH\)](https://open.spotify.com/track/03CC9T66w6i25B8KPGcIxA) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [Beginning](https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0) | 3:40 | 2022-05-28 | 2022-07-28 |
+| [Write & Draw](https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34) | [Kim Boa](https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p) | [Write & Draw](https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE) | 3:52 | 2023-10-13 |  |
 | [XNFP \(feat.JUNE\)](https://open.spotify.com/track/6O1DGge7UkQzyLBrb9hSep) | [søye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx), [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [XNFP \(feat.JUNE\)](https://open.spotify.com/album/3mYQq0tgwSXvUBkNQFegEl) | 3:29 | 2022-08-02 | 2023-01-21 |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-13 | 2023-08-18 |
 | [Yooou \(Feat\. BIG Naughty\)](https://open.spotify.com/track/2iQ77ftQFhdxyBt1DET8Xf) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Yooou \(Feat\. BIG Naughty\)](https://open.spotify.com/album/6MLmMlHFNJp5GqZuI7Fwga) | 4:04 | 2023-04-28 | 2023-10-06 |

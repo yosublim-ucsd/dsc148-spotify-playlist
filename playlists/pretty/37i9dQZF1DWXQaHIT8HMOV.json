@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Azawi",
-  "num_followers": 1841,
+  "num_followers": 1842,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjg2Mzc5YThhZDBiOTI2Yjg5ZjIzYWQ2ZWJjNjM2ODgwNTYzZmVi",
+  "snapshot_id": "MCw3ZDQxN2FjZmYzNDgxNzEwYjMxNzRkZjQ4NzM0ZTJjMjk3MTBjYjI2",
   "tracks": [
     {
       "added_at": "2023-10-12 20:59:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-10-12 20:59:00",
       "album": {
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Lucky Day",
+      "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
+    },
+    {
+      "added_at": "2023-10-12 20:59:00",
+      "album": {
         "name": "Shabada",
         "url": "https://open.spotify.com/album/2v5MZK7ZOZLOTMfVkZUrYs"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2023-10-12 20:59:00",
       "album": {
-        "name": "SANKOFA",
-        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
-      },
-      "artists": [
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Lucky Day",
-      "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
-    },
-    {
-      "added_at": "2023-10-12 20:59:00",
-      "album": {
         "name": "Chai Mata",
         "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 175000,
       "name": "Chai Mata",
       "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
-    },
-    {
-      "added_at": "2023-10-12 20:59:00",
-      "album": {
-        "name": "Nfa",
-        "url": "https://open.spotify.com/album/4eh4a2glfPoGKT9tXk8paz"
-      },
-      "artists": [
-        {
-          "name": "Victor Ruz",
-          "url": "https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ"
-        }
-      ],
-      "duration_ms": 193833,
-      "name": "Nfa",
-      "url": "https://open.spotify.com/track/4313TUVH2spsBkaGg8B8pC"
     },
     {
       "added_at": "2023-10-12 20:59:00",
@@ -583,18 +567,18 @@
     {
       "added_at": "2023-10-12 20:59:00",
       "album": {
-        "name": "Omwana",
-        "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
+        "name": "Nfa",
+        "url": "https://open.spotify.com/album/4eh4a2glfPoGKT9tXk8paz"
       },
       "artists": [
         {
-          "name": "Juliana Kanyomozi",
-          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
+          "name": "Victor Ruz",
+          "url": "https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ"
         }
       ],
-      "duration_ms": 212903,
-      "name": "Omwana",
-      "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
+      "duration_ms": 193833,
+      "name": "Nfa",
+      "url": "https://open.spotify.com/track/4313TUVH2spsBkaGg8B8pC"
     },
     {
       "added_at": "2023-10-12 20:59:00",
@@ -615,6 +599,22 @@
       "duration_ms": 193776,
       "name": "Enjoyment",
       "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
+    },
+    {
+      "added_at": "2023-10-12 20:59:00",
+      "album": {
+        "name": "Omwana",
+        "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
+      },
+      "artists": [
+        {
+          "name": "Juliana Kanyomozi",
+          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Omwana",
+      "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
     },
     {
       "added_at": "2023-10-12 20:59:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-10-12 20:59:00",
       "album": {
-        "name": "Kikole",
-        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
+        "name": "Kika Buka",
+        "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
       },
       "artists": [
         {
-          "name": "Runbouy",
-          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
         }
       ],
-      "duration_ms": 216058,
-      "name": "Kikole",
-      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
+      "duration_ms": 156961,
+      "name": "Kika Buka",
+      "url": "https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS"
     },
     {
       "added_at": "2023-10-12 20:59:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-10-12 20:59:00",
       "album": {
-        "name": "Kika Buka",
-        "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
       },
       "artists": [
         {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+          "name": "Runbouy",
+          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
         }
       ],
-      "duration_ms": 156961,
-      "name": "Kika Buka",
-      "url": "https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS"
+      "duration_ms": 216058,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
     },
     {
       "added_at": "2023-10-12 20:59:00",
@@ -727,26 +727,6 @@
       "duration_ms": 175072,
       "name": "Fertilizer",
       "url": "https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG"
-    },
-    {
-      "added_at": "2023-10-12 20:59:00",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
-      },
-      "artists": [
-        {
-          "name": "Benji Kasule",
-          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
-        },
-        {
-          "name": "Coopy Bly",
-          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
-        }
-      ],
-      "duration_ms": 226153,
-      "name": "On my Mind",
-      "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
     },
     {
       "added_at": "2023-10-12 20:59:00",
@@ -803,6 +783,26 @@
     {
       "added_at": "2023-10-12 20:59:00",
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
+      },
+      "artists": [
+        {
+          "name": "Benji Kasule",
+          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
+        },
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        }
+      ],
+      "duration_ms": 226153,
+      "name": "On my Mind",
+      "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
+    },
+    {
+      "added_at": "2023-10-12 20:59:00",
+      "album": {
         "name": "Pretty Young Thing",
         "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
       },
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-10-12 20:59:00",
       "album": {
-        "name": "WATERSHED",
-        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Lagum the Rapper",
-          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "Mama I Made It",
-      "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
-    },
-    {
-      "added_at": "2023-10-12 20:59:00",
-      "album": {
         "name": "Aye",
         "url": "https://open.spotify.com/album/6CXDElxxiujEhPQbwcBXR9"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 174905,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J"
+    },
+    {
+      "added_at": "2023-10-12 20:59:00",
+      "album": {
+        "name": "WATERSHED",
+        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Lagum the Rapper",
+          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "Mama I Made It",
+      "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
     }
   ],
   "unique_name": "Made In Uganda",

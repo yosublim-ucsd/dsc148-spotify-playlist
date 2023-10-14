@@ -4,7 +4,7 @@
 
 > Desde México hasta Argentina, el hogar de los beats latinoamericanos\. Foto: MIEL
 
-60 songs - 3 hr 18 min
+61 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 | 2023-08-18 |  |
 | [No Siendo Más](https://open.spotify.com/track/2lpWuRN2YKwhgQntuhjUQ4) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [No Siendo Más](https://open.spotify.com/album/2X5VQdRr3YAVRPbUZos4ap) | 3:23 | 2023-08-18 |  |
 | [Not Samba](https://open.spotify.com/track/6HLXqdpjmTlDF3vIeuK2qH) | [The Otherz](https://open.spotify.com/artist/2vi0mEbkU7fjjyJs1dcukY), [DISORDER](https://open.spotify.com/artist/58wlWYajhaIloGV3GlPd9M) | [Not Samba](https://open.spotify.com/album/4ddJHsRTVMYxd0xZ1o4CVy) | 2:26 | 2023-08-18 |  |
-| [Playa Grande](https://open.spotify.com/track/5TJ6emvXEa0KxL7We4QyJT) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Playa Grande](https://open.spotify.com/album/1CNYk7pMA94naeh4XyTrlf) | 3:21 | 2023-08-18 |  |
+| [Playa Grande](https://open.spotify.com/track/5TJ6emvXEa0KxL7We4QyJT) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Playa Grande](https://open.spotify.com/album/1CNYk7pMA94naeh4XyTrlf) | 3:21 | 2023-08-18 | 2023-10-14 |
+| [Playa Grande](https://open.spotify.com/track/6IsMnhtDLKG0h4H8pmQVRw) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Playa Grande](https://open.spotify.com/album/0P90stLNlBJtamGSsokK4g) | 3:21 | 2023-08-18 |  |
 | [Potente](https://open.spotify.com/track/4MvCdK15VGFvmAYqG4PcQ8) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Potente](https://open.spotify.com/album/3mMGZiXwqikBAkY3VXVy0Y) | 2:40 | 2023-08-18 |  |
 | [Quédate \- Tiësto Remix](https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Quédate \(Tiësto Remix\)](https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr) | 3:52 | 2023-08-18 |  |
 | [Sandunga](https://open.spotify.com/track/39IO9RdFkp85M2qjehD4lh) | [Alexx Fall](https://open.spotify.com/artist/12osK1nBgewd62jOVTHNzz), [Sebastian Badi](https://open.spotify.com/artist/3nkr4W8o3UNbAiHL6FTaQS) | [Sandunga](https://open.spotify.com/album/7woOV8EKGTAOw9076mNsVH) | 3:26 | 2023-08-18 |  |

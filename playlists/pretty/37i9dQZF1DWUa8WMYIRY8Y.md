@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : The Libertines
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,094 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,916 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [DESPERATE BREAKFAST](https://open.spotify.com/track/0dWxRisAsPcoN1DOWj4hRR) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [DESPERATE BREAKFAST](https://open.spotify.com/album/7aavLSvHUOAqXYr0jPSm7t) | 3:11 |
 | 50 | [catalogue](https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [catalogue](https://open.spotify.com/album/4Hd9WBZhWgxKGXsH9OWYOc) | 3:14 |
 
-Snapshot ID: `MCxkNzkxNmJmNTI2NjI4ZmNlMTgwNWFmYTgxN2Q3OGIzYjIwZGYyNDY4`
+Snapshot ID: `MCw1Yzg0OTFlODM2Mzc0ODExMzZhNDMzOGM5NjAwMzQ4NzQ1MmFiYjlm`

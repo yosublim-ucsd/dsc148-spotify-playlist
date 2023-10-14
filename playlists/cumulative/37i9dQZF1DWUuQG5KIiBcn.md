@@ -4,7 +4,7 @@
 
 > Corridos viejitos que cuentan los hechos reales de nuestro pueblo\. Chalino Sánchez en portada.
 
-154 songs - 8 hr 12 min
+156 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [El Odio De Dos Hermanos](https://open.spotify.com/track/5MhJKLhRlFTvSzSNCXRrxt) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Corridos Originales](https://open.spotify.com/album/4zvdkkzLRpxofrlbviTXmf) | 2:58 | 2022-01-28 | 2022-07-29 |
 | [El Odio De Dos Hermanos](https://open.spotify.com/track/3FeJTpOiidtXHcAyTggrxF) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Consentidas Para Ti](https://open.spotify.com/album/6fAfYVE6D2PFgCWHqi1VWO) | 3:01 | 2022-01-28 | 2022-11-13 |
 | [El Odio De Dos Hermanos](https://open.spotify.com/track/7E9LZqiVJUtDP2yt3ysoP0) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tesoros Musicales](https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz) | 3:01 | 2022-01-28 |  |
+| [El Panamá West](https://open.spotify.com/track/25W0oz32wgnoE2SSbRx0Ta) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Me Traes de un Ala](https://open.spotify.com/album/01jUgz4sKHuQlIEI8kzBDv) | 2:31 | 2023-10-13 |  |
 | [El Penal De La Loma](https://open.spotify.com/track/2NRQRAPq2BF5UIZitIMZGJ) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Los Amos Del Corrido](https://open.spotify.com/album/1B2DVd1xN1wC5QGmnBvla5) | 2:55 | 2022-01-28 | 2022-08-20 |
 | [El Penal De La Loma](https://open.spotify.com/track/4EylbrBoqejHLkzJGS3WhU) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Los Amos Del Corrido](https://open.spotify.com/album/3ladHEsIM6AEiXyRTzZ9qI) | 2:55 | 2022-01-28 | 2022-07-29 |
 | [El Penal De La Loma](https://open.spotify.com/track/3SAVvokIo0aVdzpR7qosB6) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Mano A Mano Norteño](https://open.spotify.com/album/61iuhFv5dkJEAb4VWxOME3) | 2:55 | 2022-01-28 | 2022-11-13 |
@@ -121,9 +122,9 @@
 | [Los Tequileros](https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos](https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS) | 3:38 | 2022-01-28 | 2023-10-07 |
 | [Los Tequileros](https://open.spotify.com/track/0Z37Nxt632gZ8pas3rlPCG) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [30 Corridos de Colección](https://open.spotify.com/album/5TE7osBdB4JHJ5NX4K8Nne) | 3:38 | 2022-01-28 | 2022-07-29 |
 | [Los Tequileros](https://open.spotify.com/track/6z1dls2C1E0Thb3RSIOeCN) | [Los Ases De Los Corridos](https://open.spotify.com/artist/2SugUjYIyVzjcwn7a1hWat) | [14 Exitos](https://open.spotify.com/album/7KAD0iHyQawCeh5VJ7xWrZ) | 3:37 | 2022-01-28 | 2022-11-13 |
-| [Los Tres Amarradores](https://open.spotify.com/track/2YOZV4dEKxK9s54VcpDBkD) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Manuel El Indio Ortega](https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj) | [Con el Corazón en Sonora](https://open.spotify.com/album/23psNaHxAyRctb7HUSqq67) | 4:09 | 2022-05-03 |  |
+| [Los Tres Amarradores](https://open.spotify.com/track/2YOZV4dEKxK9s54VcpDBkD) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Manuel El Indio Ortega](https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj) | [Con el Corazón en Sonora](https://open.spotify.com/album/23psNaHxAyRctb7HUSqq67) | 4:09 | 2022-05-03 | 2023-10-14 |
 | [Los Tres Gallos](https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:48 | 2022-01-28 |  |
-| [Luis Pulido](https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Y Sus Corridos Consentidos](https://open.spotify.com/album/7JRZqO7zZrTJiL0yeeQfYn) | 2:26 | 2022-01-28 |  |
+| [Luis Pulido](https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Y Sus Corridos Consentidos](https://open.spotify.com/album/7JRZqO7zZrTJiL0yeeQfYn) | 2:26 | 2022-01-28 | 2023-10-14 |
 | [Macario Leyva](https://open.spotify.com/track/4Ntt6RR3bpaT4amQ8vp5B3) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [25 Corridos Explosivos](https://open.spotify.com/album/25t7KqO1NxdLLsKvxttWNT) | 3:15 | 2022-01-28 | 2022-07-29 |
 | [Macario Leyva](https://open.spotify.com/track/48eI21F16RMtjBXHOAaAZh) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 3:19 | 2022-01-28 | 2022-11-14 |
 | [Macario Leyva](https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:19 | 2022-01-28 |  |
@@ -161,6 +162,7 @@
 | [Tres Veces Mojado](https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Idolos Del Pueblo](https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG) | 2:51 | 2022-05-03 | 2023-05-19 |
 | [Un Cruzado en Palestina](https://open.spotify.com/track/3HWKUvYb8H47YIKOghzPcR) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 3](https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL) | 5:38 | 2022-01-28 | 2023-07-18 |
 | [Valente Quintero](https://open.spotify.com/track/4de4ivYcmGbVwkyi8nPdZ8) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [10 Aniversario](https://open.spotify.com/album/2P3M1m7lG147D6T1KhRZEV) | 4:47 | 2022-01-28 | 2023-08-23 |
+| [Veinte Mujeres](https://open.spotify.com/track/0fwA0r7bGtfi9QGEStLkZM) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Corridos De Oro](https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14) | 3:02 | 2023-10-13 |  |
 | [Veinte Mujeres De Negro](https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:43 | 2023-05-18 |  |
 
 \*This playlist was first scraped on 2022-05-23. Prior content cannot be recovered.

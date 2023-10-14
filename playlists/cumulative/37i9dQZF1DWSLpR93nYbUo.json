@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Ou\u00e7a as novidades da cena eletr\u00f4nica. Foto: Bolth",
+  "description": "Ou\u00e7a as novidades da cena eletr\u00f4nica. Foto: Low Disco",
   "name": "Novos Beats",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 391740,
       "name": "Agikuyu",
       "url": "https://open.spotify.com/track/3WyHX9IjbSpq31wmjYA1fs"
@@ -140,6 +140,24 @@
       "duration_ms": 178064,
       "name": "Baby",
       "url": "https://open.spotify.com/track/2A4L0NKNd3PHYBfA6u3PSG"
+    },
+    {
+      "album": {
+        "name": "Beat Unleashed",
+        "url": "https://open.spotify.com/album/6GB0zfDqUCR7l3DYo38brc"
+      },
+      "artists": [
+        {
+          "name": "Cityburn",
+          "url": "https://open.spotify.com/artist/567HOJYjplPqcqvqGfBLUm"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327272,
+      "name": "Beat Unleashed",
+      "url": "https://open.spotify.com/track/2rdxghXx9rb04Jyv6hcSaz"
     },
     {
       "album": {
@@ -352,7 +370,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 197812,
       "name": "Coca\u00edna",
       "url": "https://open.spotify.com/track/5WyOfc3pkG3RiZqx5pbpVm"
@@ -586,10 +604,32 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 169783,
       "name": "Falling",
       "url": "https://open.spotify.com/track/1i5yqWsJBngtx3wzrcMgVi"
+    },
+    {
+      "album": {
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/76deBFvpUGQkq3tnZdwHAj"
+      },
+      "artists": [
+        {
+          "name": "Brannco",
+          "url": "https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL"
+        },
+        {
+          "name": "Lowdelic",
+          "url": "https://open.spotify.com/artist/5Kddhc8aFjVx5Ab2MBCVnD"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/34p4fCmqhtRLRhmODfibZ4"
     },
     {
       "album": {
@@ -805,6 +845,28 @@
     },
     {
       "album": {
+        "name": "Hit The Floor",
+        "url": "https://open.spotify.com/album/2vabxPUkVCQGmA78JtjCvU"
+      },
+      "artists": [
+        {
+          "name": "SUBB",
+          "url": "https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r"
+        },
+        {
+          "name": "Ruiz",
+          "url": "https://open.spotify.com/artist/3O2qgIUDvVtm7iXuzV7BTN"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "Hit The Floor",
+      "url": "https://open.spotify.com/track/7oHh5kXBg4Ppuqwb5nJJW7"
+    },
+    {
+      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/0xtrHMehgz8uPX7UjR0f6Q"
       },
@@ -1012,7 +1074,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 166436,
       "name": "Light",
       "url": "https://open.spotify.com/track/1kpk5xfAxdJ2cY5owd2afF"
@@ -1338,7 +1400,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 132240,
       "name": "No More",
       "url": "https://open.spotify.com/track/1FeiuCLt5LZcCmBdVHfkcs"
@@ -1552,7 +1614,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 168095,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/5IMqtBkrBojIW74dlWuSHW"
@@ -1910,7 +1972,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 330491,
       "name": "So Beautiful",
       "url": "https://open.spotify.com/track/1yLkoxMWyzo39M5AIeEceQ"
@@ -2179,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "Refused EP",
+        "url": "https://open.spotify.com/album/6vX6OrdwL9rJwQold48e9C"
+      },
+      "artists": [
+        {
+          "name": "Low Disco",
+          "url": "https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196535,
+      "name": "Trippin",
+      "url": "https://open.spotify.com/track/4iU5SbOCM3kEdkOV8Isbm1"
+    },
+    {
+      "album": {
         "name": "Tugudu",
         "url": "https://open.spotify.com/album/4X8ykiffFeI1RPpC0gVAxr"
       },
@@ -2362,7 +2442,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 190683,
       "name": "You Give Me a Feelin'",
       "url": "https://open.spotify.com/track/3WZvq6eOdH8nvtJHHINa23"

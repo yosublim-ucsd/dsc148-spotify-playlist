@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: WANIMA
 
-894 songs - 2 day 8 hr 9 min
+896 songs - 2 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [No more cry](https://open.spotify.com/track/0pxhbWaseLjZbcFCKpMrn3) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [No more cry](https://open.spotify.com/album/6zpFA9iNwQHkV4xSXzIQEK) | 4:38 | 2023-10-10 |  |
 | [No.11](https://open.spotify.com/track/2HDoip3pYuJujlJ6r0Cyq7) | [Maki](https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA) | [Toy box](https://open.spotify.com/album/0qQYB8pHRbWRoKD2IgIYSo) | 3:50 | 2023-10-03 |  |
 | [No.11](https://open.spotify.com/track/5k476EgU88agg4tU6ZRWxE) | [Maki](https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA) | [Toy box](https://open.spotify.com/album/3l2UAoF305fKigFWyUiUaN) | 3:50 | 2023-10-03 | 2023-10-05 |
+| [nonfiction no bokurayo](https://open.spotify.com/track/0qN4W3Gog1LaIt0zg20b0f) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [nonfiction no bokurayo](https://open.spotify.com/album/4q8HsbxRxCrfisC2cL5fLo) | 4:16 | 2023-10-12 |  |
 | [NORLUSS](https://open.spotify.com/track/6Qcpizu30yYKN7rEFxcKWp) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Melody](https://open.spotify.com/album/4Nm8hiPsfTDjzzA0RalBNj) | 2:58 | 2023-01-13 | 2023-02-08 |
 | [NOT OK](https://open.spotify.com/track/690KKCzni7cDqy9EWe0rpc) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [NOT OK](https://open.spotify.com/album/0L4T0uAWSFgIPZ0Y3JVKoC) | 4:51 | 2023-10-05 |  |
 | [Now is the best!!!](https://open.spotify.com/track/4kjGAeGr3PPocjqhuIYbjf) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [Now is the best!!!](https://open.spotify.com/album/0tmM7aev0krqJLKlSyvej9) | 2:26 | 2023-05-29 | 2023-07-12 |
@@ -578,7 +579,8 @@
 | [カスミソウ](https://open.spotify.com/track/5ZcXYs8O3q6melv9GF5VEd) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [カスミソウ](https://open.spotify.com/album/7aEiuGRM1CVprvce4RkQ15) | 3:42 | 2023-01-13 | 2023-03-01 |
 | [カナヅチ](https://open.spotify.com/track/4LaEWDdKrmU2x3BXMvjSDB) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [カナヅチ](https://open.spotify.com/album/5OVzZm40lG4u43p0XBcYfm) | 3:33 | 2023-07-11 | 2023-08-23 |
 | [キュウセッキン](https://open.spotify.com/track/5pMKNI4JWXDbmgt4qke6pq) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [キュウセッキン](https://open.spotify.com/album/2wz3cBhGjXj7FaoqGDQ6Tu) | 2:55 | 2023-07-11 | 2023-07-13 |
-| [キリエ・憐れみの讃歌](https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/16UD0fdKRMlLwVfCIviFyZ) | 5:18 | 2023-10-03 |  |
+| [キリエ・憐れみの讃歌](https://open.spotify.com/track/4KjNYo1Y9QWc0GQES77dfl) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/6P0h9ZA6Vf5Drg76VGFLSe) | 5:18 | 2023-10-12 |  |
+| [キリエ・憐れみの讃歌](https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/16UD0fdKRMlLwVfCIviFyZ) | 5:18 | 2023-10-03 | 2023-10-14 |
 | [ギフト \(alt ver.\)](https://open.spotify.com/track/2RCZLGGtKIJl59Jy5eYd2o) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [ギフト \(alt ver.\)](https://open.spotify.com/album/6NTEA3yHbJbaHAEuFSfA8x) | 4:19 | 2023-09-20 | 2023-09-21 |
 | [クエスチョン](https://open.spotify.com/track/0KeSj8mWXvtC7XfUgian5b) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [クエスチョン](https://open.spotify.com/album/7iUsgV2Sr93tmNaWKzzfwx) | 3:03 | 2023-03-28 | 2023-04-19 |
 | [クラシックハイ](https://open.spotify.com/track/16JaSG5xDmwHczSCNdHMO9) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [ジェニークラシック](https://open.spotify.com/album/3aE28znA0tYGoqxLwzaWxl) | 4:13 | 2023-06-27 | 2023-08-18 |
@@ -622,7 +624,7 @@
 | [ネイビーオレンジ\(AI VOCAL\)](https://open.spotify.com/track/4JIU603Pf3TVBB2SFBBFUi) | [UNICORN](https://open.spotify.com/artist/0z4FY376uhecutd5Adph8s) | [ええ愛のメモリ](https://open.spotify.com/album/6hHu1BjPsB91vEtYh6ZjGc) | 3:31 | 2023-10-10 |  |
 | [ノックブーツ](https://open.spotify.com/track/0qgj1atPxj1ae6rG7VHS0M) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ノックブーツ](https://open.spotify.com/album/6adm4VVFTHqIF4qmKbcpOd) | 3:11 | 2023-09-12 |  |
 | [ノット・オーケー](https://open.spotify.com/track/3DL6F8sLqcL3y0zJClSdIg) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ノット・オーケー](https://open.spotify.com/album/1sGrRkk96R4AgRq5a39bC5) | 4:51 | 2023-10-03 | 2023-10-08 |
-| [ノンフィクションの僕らよ](https://open.spotify.com/track/19la777VTT7xPscoo7CJbA) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [ノンフィクションの僕らよ](https://open.spotify.com/album/6JoeJ7skkF5Oc2s4c0m5Rb) | 4:16 | 2023-10-12 |  |
+| [ノンフィクションの僕らよ](https://open.spotify.com/track/19la777VTT7xPscoo7CJbA) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [ノンフィクションの僕らよ](https://open.spotify.com/album/6JoeJ7skkF5Oc2s4c0m5Rb) | 4:16 | 2023-10-12 | 2023-10-14 |
 | [ハイキ](https://open.spotify.com/track/571OuDNbmwsysH42KfVp5P) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ハイキ](https://open.spotify.com/album/4RCWq7krRO3AVFj8fvWhYs) | 3:35 | 2023-04-06 | 2023-05-10 |
 | [ハイパーイメージ](https://open.spotify.com/track/5higKPhcN5wzx2IqafqalE) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [ハイパーイメージ](https://open.spotify.com/album/5aIKLPM4ONVaodAX2Dt3Z8) | 2:30 | 2023-03-14 | 2023-04-05 |
 | [ハコワレサマー](https://open.spotify.com/track/1AhD9y8osVs5OV2ZKVWhuT) | [KEYTALK](https://open.spotify.com/artist/0nES8AwBZpeQ69oZZp47OL) | [DANCEJILLION](https://open.spotify.com/album/0NFdMpX5RyLnhkvr9e71OG) | 3:29 | 2023-08-29 | 2023-10-04 |

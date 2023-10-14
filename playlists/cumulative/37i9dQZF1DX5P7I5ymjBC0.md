@@ -4,7 +4,7 @@
 
 > Where Sitar meets Guitar\. Cover \- Shakti
 
-75 songs - 6 hr 7 min
+76 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,9 +30,10 @@
 | [Iss Tan Dhan \- From the Album Tu Hai](https://open.spotify.com/track/1wwB9jPkl91wkFRwLTA5rW) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy), [Vikku Vinayakram](https://open.spotify.com/artist/5xA5y17B4ipntbaVqifsoR) | [Iss Tan Dhan](https://open.spotify.com/album/1WiWIKDEXmUF6X4iCqfOZ8) | 10:14 | 2023-05-11 | 2023-07-05 |
 | [Ithlati](https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Mann Bheetar](https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz) | 6:27 | 2023-05-11 |  |
 | [Jogiya](https://open.spotify.com/track/2T0WqDhuQDfqcjSZnRDOVK) | [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jogiya](https://open.spotify.com/album/3oj1F2vMdJa8TUHKhlo1La) | 4:09 | 2023-05-29 | 2023-10-12 |
+| [Jogiya](https://open.spotify.com/track/7MU4WVkk08iWn61vLxGU9C) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Chandreyee Bhattacharya](https://open.spotify.com/artist/3mH3uFlFhSCBJ9iJRrTtxy), [Nilanjan Samadder](https://open.spotify.com/artist/534gzAUm9B9d5jFkWR0y4A) | [Jogiya](https://open.spotify.com/album/3HDp3VjwowVEIkWkVpP15W) | 3:16 | 2023-10-13 |  |
 | [Justaju: The Essence of Love](https://open.spotify.com/track/617AQXp7dNlAQnJPPQNyUV) | [Raahein Gharana](https://open.spotify.com/artist/1DilhiF5W5TuadHjgoYnMR) | [Justaju: The Essence of Love](https://open.spotify.com/album/5hDfb1r3Xm1hdmEX49WE45) | 5:02 | 2023-05-29 | 2023-08-14 |
 | [Kaa Karoon Sajni \- Thumri Jazz](https://open.spotify.com/track/19UHMX3nByKeul6TOHePUY) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l), [Ruslan Sirota](https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm) | [Kaa Karoon Sajni \(Thumri Jazz\)](https://open.spotify.com/album/7cvDSGp8SCQHDwBkiuBcjH) | 3:43 | 2023-05-11 |  |
-| [Kahaani](https://open.spotify.com/track/144TS04R5kwzBqaM805g9E) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Anirban Chowdhury](https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w) | [Kahaani](https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah) | 4:03 | 2023-05-11 |  |
+| [Kahaani](https://open.spotify.com/track/144TS04R5kwzBqaM805g9E) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Anirban Chowdhury](https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w) | [Kahaani](https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah) | 4:03 | 2023-05-11 | 2023-10-14 |
 | [Karpur Gauram](https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Karpur Gauram](https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l) | 4:29 | 2023-05-11 |  |
 | [Kautilya \(The Echo Project\)](https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Kautilya \(The Echo Project\)](https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE) | 3:11 | 2023-09-11 |  |
 | [Kinaray](https://open.spotify.com/track/3chvS4B3KaT7wCyoVLO88I) | [Mekaal Hassan Band](https://open.spotify.com/artist/0XSTzPae7xbdt1ZH0fbpZR) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 4:21 | 2023-05-11 | 2023-09-18 |

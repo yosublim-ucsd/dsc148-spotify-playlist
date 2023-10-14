@@ -4,7 +4,7 @@
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-102 songs - 5 hr 19 min
+104 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,10 +76,12 @@
 | [Oh Christmas Tree](https://open.spotify.com/track/4HkmCOAh5oqQ7KsihV2Yfs) | [Holy Eve Trio](https://open.spotify.com/artist/2MIg8Vq5NCa9AER8dbCFDG) | [Blue Christmas EP](https://open.spotify.com/album/4dJvLEZjecdymJWBHCiZiZ) | 2:23 | 2022-10-07 |  |
 | [Oh Holy Night](https://open.spotify.com/track/1sCwaLpoN8VitJIYHgWZei) | [Lucy Christiansen](https://open.spotify.com/artist/7MEdErlyxiA996mSCEy9l0) | [Home For Christmas](https://open.spotify.com/album/2TH7H24oY5NaW44MILtcPK) | 3:30 | 2021-12-21 | 2022-10-14 |
 | [Once in Royal David's City](https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Once in Royal David's City](https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp) | 2:45 | 2021-12-21 |  |
-| [Please Come Home for Christmas](https://open.spotify.com/track/528sRoUStf8eqZS1bLwVQP) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 2:33 | 2023-10-13 |  |
+| [Please come home for christmas](https://open.spotify.com/track/4CjsInvWGmHOxxVQ2sS9F4) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Please come home for christmas](https://open.spotify.com/album/5r2ZzaDZhyqzORtTWnbYPM) | 2:33 | 2023-10-13 |  |
+| [Please Come Home for Christmas](https://open.spotify.com/track/528sRoUStf8eqZS1bLwVQP) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 2:33 | 2023-10-13 | 2023-10-14 |
 | [Rudolph the Red Nosed Rain Deer](https://open.spotify.com/track/00zEutyWPkwIbwl50L1fop) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Rudolph the Red Nosed Rain Deer](https://open.spotify.com/album/1hMXOVW1GQ7qRqyZ4ffxFN) | 2:25 | 2023-10-06 |  |
 | [Santa Baby](https://open.spotify.com/track/4t7gSDW8t9Nzoy3z63Q253) | [William Chu](https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv) | [Santa Baby](https://open.spotify.com/album/0oVxHx60zwj8nRiPgkcDGp) | 2:17 | 2021-12-21 |  |
-| [Santa Tell Me](https://open.spotify.com/track/44RdYUqTwUvlQlTBnRNUkq) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 2:18 | 2023-10-13 |  |
+| [Santa tell me](https://open.spotify.com/track/1g5N61jKCHgVpSYYBz9FDV) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Santa tell me](https://open.spotify.com/album/7Jtr3x70ZlCJ5Igqw1Zwhu) | 2:18 | 2023-10-13 |  |
+| [Santa Tell Me](https://open.spotify.com/track/44RdYUqTwUvlQlTBnRNUkq) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 2:18 | 2023-10-13 | 2023-10-14 |
 | [Silent Night](https://open.spotify.com/track/27N4Y24PdcXZtR4IJ40Fhz) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Merry Ole Soul](https://open.spotify.com/album/2Px6XKffVuuPx6zaTEDwlx) | 4:15 | 2021-12-21 | 2022-10-26 |
 | [Silent Night](https://open.spotify.com/track/2QRzVMpP0v8RqmHctJ6yCH) | [Sydney Taylor Band](https://open.spotify.com/artist/2M3GH9JFk7Z62j2XarUJ1g) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/5P0WsqOfG5viZpxVpqIuaI) | 2:54 | 2022-10-25 |  |
 | [Silver Bells](https://open.spotify.com/track/5cT9UuSKWfCYbDCDQwS2aY) | [Art Silver Trio](https://open.spotify.com/artist/1IdNwXpBJIXak2tdHmICgT) | [Home For Christmas](https://open.spotify.com/album/1K6iFbZbde2NZetHrW1Jj0) | 4:09 | 2021-12-21 |  |

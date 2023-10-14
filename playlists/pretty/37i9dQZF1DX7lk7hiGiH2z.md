@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,653 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,725 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 30 | [Hu Ha Halloween](https://open.spotify.com/track/4r8pkG3FfuYGFTHYtb2az9) | [Cattu der Traumfänger](https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx) | [Im Land der bunten Fantasie \- Lieder zum Tanzen, Träumen und Mitsingen](https://open.spotify.com/album/4snrlgBOo2mHe82gC8ONhn) | 2:36 |
 | 31 | [Herbstwind](https://open.spotify.com/track/2J5jWCJN3a657QROqTdPSc) | [Fidibus](https://open.spotify.com/artist/3CYRhdvIbbOTYYqnQXOZiQ) | [Ab auf die Reise](https://open.spotify.com/album/6jzvkjk1BmzWrLfmnttUYe) | 2:33 |
 | 32 | [Langsam zieht der Herbst in's Land](https://open.spotify.com/track/6kA7a7xAqLoDEC9DgztIYF) | [Eddi & Dän](https://open.spotify.com/artist/16bEAeEFFLi2M6zQuI439D) | [Eddi & Dän singen noch mehr Kinderlieder a cappella, Vol\. 3](https://open.spotify.com/album/6FCNX9cYvGqGuLVbvg9VcD) | 1:38 |
-| 33 | [Die Biene maja](https://open.spotify.com/track/37Ya452sNHfucQVaKPM522) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Karel](https://open.spotify.com/album/4W2UDtKNsB7iGwKVFIDERR) | 2:39 |
-| 34 | [Pitsch\-Patsch, Pfützenmatsch](https://open.spotify.com/track/4D4sUEL0SGireh2vsZ2fxh) | [Benjamin Blümchen](https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe) | [Benjamin Blümchen Liederzoo: Wi\-Wa\-Wetterlieder](https://open.spotify.com/album/5eE3bos99SlobyGrDPfnCV) | 3:14 |
+| 33 | [Pitsch\-Patsch, Pfützenmatsch](https://open.spotify.com/track/4D4sUEL0SGireh2vsZ2fxh) | [Benjamin Blümchen](https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe) | [Benjamin Blümchen Liederzoo: Wi\-Wa\-Wetterlieder](https://open.spotify.com/album/5eE3bos99SlobyGrDPfnCV) | 3:14 |
+| 34 | [Die Biene maja](https://open.spotify.com/track/37Ya452sNHfucQVaKPM522) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Karel](https://open.spotify.com/album/4W2UDtKNsB7iGwKVFIDERR) | 2:39 |
 | 35 | [Kommt, wir wollen Laterne laufen](https://open.spotify.com/track/0KrkBKVLjtqfDaL1uD10W0) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 3:40 |
 | 36 | [Was zieh' ich an?](https://open.spotify.com/track/2mB1Bd0hw1b5cJr3AfvmRH) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs neue Schulweg\-Hitparade](https://open.spotify.com/album/09au3ViAkjIjJA4dEjIJTp) | 3:00 |
 | 37 | [Matschepfütze](https://open.spotify.com/track/184q1mPkvExhFXLB02g9dM) | [Fug und Janina](https://open.spotify.com/artist/28yWTWoXoLABVhSicSOspR) | [Unfug für alle](https://open.spotify.com/album/3Ead8yYrf4E0S77jQedAsY) | 2:10 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 44 | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/track/5D5apAAFmvWxHKYzV9fYoi) | [Liederkoffer](https://open.spotify.com/artist/4fs4NI8WUOYhMjjNzDf3f7) | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/album/6ZJoNJBigls3iiEatIYZKd) | 2:47 |
 | 45 | [Die Herbstzeit ist da](https://open.spotify.com/track/2cjgPruvFDY3a29FgU8T4E) | [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Herbst ist da \- Die 25 schönsten Herbstlieder](https://open.spotify.com/album/3dOuVkISzkQo4jy2qNsBbg) | 3:29 |
 | 46 | [Der Sommer muss gehen](https://open.spotify.com/track/4I0WyPnEmUKn74jFDZPvHi) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Itzibitz die Liedermaus](https://open.spotify.com/album/5rfbCBwFt727Bjlz2ZC4pO) | 2:06 |
-| 47 | [Alle Vögel sind schon da](https://open.spotify.com/track/6ShcsLKki4wuy1LIfilCvz) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Liederbüchermaus](https://open.spotify.com/album/34fvEGFsxX9vl6phTn23XS) | 1:48 |
-| 48 | [Wenn der Herbst für dich singt](https://open.spotify.com/track/5EvDPBe18z0G5xqcIIdGYW) | [Natalie Rohrer](https://open.spotify.com/artist/16yPiZ50vlvW4hAS00ZvgF) | [Kinder dieser Welt](https://open.spotify.com/album/0VYUUIZ0sDH3BzJqUdvFi1) | 2:13 |
-| 49 | [Hörst du die Regenwürmer husten](https://open.spotify.com/track/6BMiwUZ69Paj0vOzJynqGP) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Kita \- EP](https://open.spotify.com/album/6BG5UPlf5ptnaz77upzB6v) | 3:07 |
+| 47 | [Wenn der Herbst für dich singt](https://open.spotify.com/track/5EvDPBe18z0G5xqcIIdGYW) | [Natalie Rohrer](https://open.spotify.com/artist/16yPiZ50vlvW4hAS00ZvgF) | [Kinder dieser Welt](https://open.spotify.com/album/0VYUUIZ0sDH3BzJqUdvFi1) | 2:13 |
+| 48 | [Hörst du die Regenwürmer husten](https://open.spotify.com/track/6BMiwUZ69Paj0vOzJynqGP) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Kita \- EP](https://open.spotify.com/album/6BG5UPlf5ptnaz77upzB6v) | 3:07 |
+| 49 | [Alle Vögel sind schon da](https://open.spotify.com/track/6ShcsLKki4wuy1LIfilCvz) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Liederbüchermaus](https://open.spotify.com/album/34fvEGFsxX9vl6phTn23XS) | 1:48 |
 | 50 | [Ei, Ei, Ei, Ei, Eichhörnchen](https://open.spotify.com/track/2tVwU4CYWkqZ1jdkhzLEhS) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 2:02 |
 
-Snapshot ID: `MCxlZTUzNTUwYjdmMWI1NWU4ZWVjMDlhY2FlMjZjZGNlY2Q2OGIwZDM2`
+Snapshot ID: `MCwxOWJjYzA0YjY0OTU2MThhMTZkNzM2N2I3NmYwYjc1NTJkNjYxOTRj`

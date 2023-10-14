@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: KAU
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,782 likes - 75 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,800 likes - 75 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 13 | [Buraq](https://open.spotify.com/track/5eEVndJMdH8YKwByOHY3ef) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Dishwasher\_](https://open.spotify.com/album/5EQLnoq5Z8Qjr4FHF4VjxM) | 3:58 |
 | 14 | [Mtwk part 2](https://open.spotify.com/track/0VBQ4OrQPcNdlGf3fqsaok) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Sink\-Along](https://open.spotify.com/album/79jbHO5dq9dkn0TvqbHBdT) | 4:33 |
 | 15 | [Fair Enough](https://open.spotify.com/track/3JCgJv9obC3FmP0uyrDlEr) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Dishwasher\_](https://open.spotify.com/album/5EQLnoq5Z8Qjr4FHF4VjxM) | 3:56 |
-| 16 | [The Dimmed](https://open.spotify.com/track/1ElYStai1Ik9NchUuuqR6s) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [The Dimmed](https://open.spotify.com/album/1CXm1pO5gXumW2K1x9wDhC) | 8:56 |
+| 16 | [The Dimmed](https://open.spotify.com/track/6d1InEmfCNHQoK1ZCC1pjK) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [Thin Air \. Mirror Land](https://open.spotify.com/album/7sTfLYoudXX4vjSXn2lwYo) | 8:56 |
 | 17 | [Bossa dolce](https://open.spotify.com/track/5tkqbAUvxJ3hkvqRfIoEAE) | [HONEY](https://open.spotify.com/artist/4A8G43ljlPyTmgBYOzi6zc) | [Bossa dolce](https://open.spotify.com/album/34HZEX6AwbnbGCdqJ5BUtZ) | 5:08 |
 | 18 | [Bee Jive](https://open.spotify.com/track/0b41FogpMfqTEgGjmPjecc) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Bee Jive](https://open.spotify.com/album/2REXT0lKTL8rPIuim1Nycd) | 6:00 |
 | 19 | [SambaFassa](https://open.spotify.com/track/07pXnLZ5IX6PTOFueCydMm) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [IRONEYE](https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C) | 5:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 74 | [Cascade\(s\)](https://open.spotify.com/track/136X5PnHEO3jUiAm3bU6kF) | [Nordmann](https://open.spotify.com/artist/0Uox3PUw47qEqroDggrDRE) | [Cascade\(s\)](https://open.spotify.com/album/5QNydaZL1yVLAqWFN9fA8H) | 4:16 |
 | 75 | [Birdman](https://open.spotify.com/track/06CZmASsue66Gkp269Rqld) | [Hachoo](https://open.spotify.com/artist/63YSIh9PBCZZUzZWAJoidv) | [On a Thin Rope with a Shaky Smile](https://open.spotify.com/album/11fDYTospHQX82R2IKQFcj) | 5:05 |
 
-Snapshot ID: `MCw4NTBjM2ZhOTRjZGY3ZmU5NWY0OTE1MjEzOGY3YTMyZDAxNzFhYWEz`
+Snapshot ID: `MCxhNmQ0NDYyYzc1ZTRmN2QzYzUwZGJiM2JiNjY2ZWNkMmRjYTUyZDAw`

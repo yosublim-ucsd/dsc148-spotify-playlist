@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:4bOqkIGQCcuZgjfDxNuX1I">Anycia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,464 likes - 74 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,483 likes - 74 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 73 | [Walk \(Freestyle\)](https://open.spotify.com/track/4l9vpiMSvBpvrilql9XDTx) | [O.E.](https://open.spotify.com/artist/1BNwD0GcTCdzY2pWmg2M1p) | [Walk \(Freestyle\)](https://open.spotify.com/album/7KMReipNFjMZSWpZRNp73f) | 1:48 |
 | 74 | [YUP!](https://open.spotify.com/track/51bDDKxzwJAc6zUtyYSyHL) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [HOURS AFTER THE CLUB](https://open.spotify.com/album/7LCH3EL2NaCmVegWM3dPBq) | 2:39 |
 
-Snapshot ID: `MCw0NGJlYWUyNzA4ZTJkOGQxYmFmMTNkNjViYWViYjE2Yzc1ZjYxNWU4`
+Snapshot ID: `MCw0NjIyNWViZjllNDAyN2FiNjYwZDA2ZWViNTA1OWJiMjI2Y2I0YThm`

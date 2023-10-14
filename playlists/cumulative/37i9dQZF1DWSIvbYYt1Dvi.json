@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "bk menorzin \u00e9 AULAS ",
+  "description": "kayblack \u00e9 AULAS ",
   "name": "AULAS",
   "tracks": [
     {
@@ -214,6 +214,44 @@
       "duration_ms": 319992,
       "name": "A Divina Com\u00e9dia 2",
       "url": "https://open.spotify.com/track/6YhXnVP8iOuM35xhYtQsJh"
+    },
+    {
+      "album": {
+        "name": "A Divina Com\u00e9dia 3",
+        "url": "https://open.spotify.com/album/6DO0trRQUc5rOqUq4XrWRK"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Zeus",
+          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
+        },
+        {
+          "name": "Mozart Mz",
+          "url": "https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne"
+        },
+        {
+          "name": "Gigante No Mic",
+          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324473,
+      "name": "A Divina Com\u00e9dia 3",
+      "url": "https://open.spotify.com/track/15jaB4U3dPbSoxoj1dIRNb"
     },
     {
       "album": {
@@ -922,7 +960,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 220909,
       "name": "Bug do Mil\u00eanio (A Cone Voltou)",
       "url": "https://open.spotify.com/track/2AL89TC0tGo2dxvpDjve3n"
@@ -1278,7 +1316,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 288000,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/3AdKHZtW6IapFJRgYmBTgv"
@@ -1436,6 +1474,24 @@
       "duration_ms": 155263,
       "name": "Demanda",
       "url": "https://open.spotify.com/track/6XjT1pBSLzCJJ5hYSM54YY"
+    },
+    {
+      "album": {
+        "name": "Parece Morte, Mas \u00e9 S\u00f3 a Vida",
+        "url": "https://open.spotify.com/album/2hfVKJpFbDVf4AkqpxNsJc"
+      },
+      "artists": [
+        {
+          "name": "Pecaos",
+          "url": "https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72000,
+      "name": "Deriva",
+      "url": "https://open.spotify.com/track/5fuXzLQAOD3pgwL9uunavL"
     },
     {
       "album": {
@@ -1614,6 +1670,36 @@
       "duration_ms": 229894,
       "name": "Dior",
       "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
+    },
+    {
+      "album": {
+        "name": "Disposi\u00e7\u00e3o e Atividade",
+        "url": "https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Yokame",
+          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164874,
+      "name": "Disposi\u00e7\u00e3o e Atividade",
+      "url": "https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ"
     },
     {
       "album": {
@@ -1838,7 +1924,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 204230,
       "name": "Eu Te Vi Dan\u00e7ando",
       "url": "https://open.spotify.com/track/4ycPdxPOOcLoo8vSgeBtZL"
@@ -2203,6 +2289,32 @@
     },
     {
       "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Laura Sette",
+          "url": "https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211142,
+      "name": "fuma\u00e7a",
+      "url": "https://open.spotify.com/track/2hfkQwt8mqmd2GxBRYOPG0"
+    },
+    {
+      "album": {
         "name": "Melhor Momento",
         "url": "https://open.spotify.com/album/6kIoVuFEULMVH6bM7u7aVI"
       },
@@ -2266,7 +2378,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 228022,
       "name": "God Bless",
       "url": "https://open.spotify.com/track/6R5HTxqW0yOl7UUYqnhJmm"
@@ -3628,7 +3740,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 196981,
       "name": "Pequenas Coisas",
       "url": "https://open.spotify.com/track/734Psmqq41D9bam2zPjY7z"
@@ -4534,7 +4646,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 251166,
       "name": "Respeitosamente",
       "url": "https://open.spotify.com/track/11Kl9alN9okNVqew0BIdQw"

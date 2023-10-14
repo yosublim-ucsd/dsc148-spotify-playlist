@@ -1,12 +1,12 @@
 {
   "description": "All your Disco favorites. Cover: Earth Wind & Fire",
-  "num_followers": 1526874,
+  "num_followers": 1526430,
   "original_name": "Disco Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmJmZDIyNDA2MjU0ZGY2YjcxYjM5NDhiZjA5NWFkZTBhNmYyYjFj",
+  "snapshot_id": "MCxiNjRlYmZiMGNjOTIxODdmNjU5MDU5ZTdjNThjOGY3NGFhMjdlMDZi",
   "tracks": [
     {
       "added_at": "2023-09-20 21:46:22",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-09-20 21:46:22",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "We Are Family - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
-    },
-    {
-      "added_at": "2023-09-20 21:46:22",
-      "album": {
         "name": "Back Stabbers",
         "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 178400,
       "name": "Love Train",
       "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
+    },
+    {
+      "added_at": "2023-09-20 21:46:22",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "We Are Family - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
     },
     {
       "added_at": "2023-09-20 21:46:22",

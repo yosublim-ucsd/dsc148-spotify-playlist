@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Polim\u00e1 Westcoast",
-  "num_followers": 9787,
+  "num_followers": 9796,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGRlMTViMTA0NzI0MDYzNzJjOWY5NWMxNjZjMDgxNThkOGNkMjE2",
+  "snapshot_id": "MCxkZGY2OWE0YmYzYWU5MTIwZGI3OGNhYWU0ZWIxNjVmOTJhMmI5MGYz",
   "tracks": [
     {
       "added_at": "2023-07-24 18:55:43",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti"
-      },
-      "artists": [
-        {
-          "name": "Anmily Brown",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Holy Ghost $$$",
         "url": "https://open.spotify.com/album/4pWMN5lBEFrwZde1kdCqrh"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 157297,
       "name": "Holy Ghost $$$",
       "url": "https://open.spotify.com/track/4JNxvjgaJyYdRAc1yhUPKj"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti"
+      },
+      "artists": [
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Rojo Rub\u00ed",
-        "url": "https://open.spotify.com/album/6S1KXwY7uaibxhjMmKGCbk"
-      },
-      "artists": [
-        {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Rojo Rub\u00ed - Rompiendo La Cadera",
-      "url": "https://open.spotify.com/track/54vDLytP2uR0XvSPFNJ45q"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Pa' El Alma",
         "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
       },
@@ -1019,6 +1003,42 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Rojo Rub\u00ed",
+        "url": "https://open.spotify.com/album/6S1KXwY7uaibxhjMmKGCbk"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Rojo Rub\u00ed - Rompiendo La Cadera",
+      "url": "https://open.spotify.com/track/54vDLytP2uR0XvSPFNJ45q"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Champion Ninz",
+        "url": "https://open.spotify.com/album/4jRjuppvJlqiNdlxcl3Z31"
+      },
+      "artists": [
+        {
+          "name": "Nino Augustine",
+          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
+        },
+        {
+          "name": "Mystro",
+          "url": "https://open.spotify.com/artist/7GUayRAp1ClL94DXIwMmD4"
+        }
+      ],
+      "duration_ms": 139603,
+      "name": "Solita",
+      "url": "https://open.spotify.com/track/3gV9Ru9Kdkq5RcF0A2WjZj"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "KLK TE PASA A TI",
         "url": "https://open.spotify.com/album/6BLCH4XUfASbKUCIZ5Zko3"
       },
@@ -1031,30 +1051,6 @@
       "duration_ms": 166533,
       "name": "KLK TE PASA A TI",
       "url": "https://open.spotify.com/track/4XSO2ESu4JENljsN2irGWz"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "Trucki",
-        "url": "https://open.spotify.com/album/5jO83YZz3ujLMMM61Fwkzv"
-      },
-      "artists": [
-        {
-          "name": "Atomic Otro Way",
-          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
-        },
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "Real Sofoke Hiigh",
-          "url": "https://open.spotify.com/artist/5sX6UbJx4vxLzHXIMsVXZh"
-        }
-      ],
-      "duration_ms": 236910,
-      "name": "Trucki",
-      "url": "https://open.spotify.com/track/1xyMEik4SsayMAEV4rwYYW"
     }
   ],
   "unique_name": "Latin Frequency",

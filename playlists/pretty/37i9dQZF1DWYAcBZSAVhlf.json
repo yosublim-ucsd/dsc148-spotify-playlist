@@ -1,12 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
-  "num_followers": 258446,
+  "num_followers": 258639,
   "original_name": "Happy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjU1MDRmZmQxOGU1NzIzZDg3NTM0MWNmZGZhZGUzYmNhNjg4NGQ5",
+  "snapshot_id": "MCxmOTM5MjBlODZiOTdjNTdlOTQ5OTM4OWY1Y2M1NWRkMzI3MDEzYTUw",
   "tracks": [
     {
       "added_at": "2023-01-03 15:06:17",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Colour By Numbers (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
-      },
-      "artists": [
-        {
-          "name": "Culture Club",
-          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Karma Chameleon - Remastered 2002",
-      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Let's Talk About Love",
         "url": "https://open.spotify.com/album/1JDlLoZugxdneiaTnGyaKr"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 226333,
       "name": "Cheri Cheri Lady",
       "url": "https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Colour By Numbers (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
+      },
+      "artists": [
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Karma Chameleon - Remastered 2002",
+      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Frantic Romantic",
-        "url": "https://open.spotify.com/album/3OCmVGmewrfW3eZmLhRAIX"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Stewart",
-          "url": "https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3"
-        }
-      ],
-      "duration_ms": 293240,
-      "name": "We Don't Have To Take Our Clothes Off",
-      "url": "https://open.spotify.com/track/7o9KG7iQY8KACz7PZXYpyv"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 231560,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Frantic Romantic",
+        "url": "https://open.spotify.com/album/3OCmVGmewrfW3eZmLhRAIX"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Stewart",
+          "url": "https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3"
+        }
+      ],
+      "duration_ms": 293240,
+      "name": "We Don't Have To Take Our Clothes Off",
+      "url": "https://open.spotify.com/track/7o9KG7iQY8KACz7PZXYpyv"
     },
     {
       "added_at": "2023-01-16 10:44:07",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "The Loco-Motion",
-      "url": "https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Cocker",
         "url": "https://open.spotify.com/album/0YnLeYOGgy0vtxQRbgW7s1"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 255293,
       "name": "You Can Leave Your Hat On",
       "url": "https://open.spotify.com/track/1x9iOd3K1JC6tdjGZJpFgZ"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "The Loco-Motion",
+      "url": "https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Harold F",
-        "url": "https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc"
-      },
-      "artists": [
-        {
-          "name": "Harold Faltermeyer",
-          "url": "https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Axel F",
-      "url": "https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "The Very Best of Billy Ocean",
         "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 284373,
       "name": "Get Outta My Dreams, Get Into My Car",
       "url": "https://open.spotify.com/track/2D4D3hiOf5U0W6SvJoCQph"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Harold F",
+        "url": "https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc"
+      },
+      "artists": [
+        {
+          "name": "Harold Faltermeyer",
+          "url": "https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Axel F",
+      "url": "https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "World Beat",
-        "url": "https://open.spotify.com/album/3RWIENzO8frYhajwCHl7SL"
-      },
-      "artists": [
-        {
-          "name": "Kaoma",
-          "url": "https://open.spotify.com/artist/1LsXqDdYVyONhrjAORENbu"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Lambada - Original Radio Edit",
-      "url": "https://open.spotify.com/track/2VpdG2QLhVv6qAPdDt9Ipr"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Look Sharp!",
         "url": "https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 237320,
       "name": "The Look",
       "url": "https://open.spotify.com/track/79LdvxXi5JYUjhnO7v9Fi3"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "World Beat",
+        "url": "https://open.spotify.com/album/3RWIENzO8frYhajwCHl7SL"
+      },
+      "artists": [
+        {
+          "name": "Kaoma",
+          "url": "https://open.spotify.com/artist/1LsXqDdYVyONhrjAORENbu"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Lambada - Original Radio Edit",
+      "url": "https://open.spotify.com/track/2VpdG2QLhVv6qAPdDt9Ipr"
     },
     {
       "added_at": "2023-01-03 15:06:17",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de la cosecha 2023. Los Dareyes de la Sierra & Xavi en portada.",
+  "description": "Lo m\u00e1s fresco de la cosecha 2023. Herencia de Grandes en portada.",
   "name": "Corridos 2023",
   "tracks": [
     {
@@ -584,7 +584,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 169400,
       "name": "Amigo 09",
       "url": "https://open.spotify.com/track/6u2zEs6QmaVYbuQFzh8JVQ"
@@ -818,6 +818,24 @@
       "duration_ms": 162168,
       "name": "Aqu\u00ed Andamos",
       "url": "https://open.spotify.com/track/0TOsDKRNmnAsyVihPwHwiy"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Sigue El 19",
+        "url": "https://open.spotify.com/album/3oApMT28jZcuVunsTu6Dgv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cartel",
+          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181633,
+      "name": "Aqu\u00ed Sigue El 19",
+      "url": "https://open.spotify.com/track/5bV7l3ESQtlHoDc4ui1BfP"
     },
     {
       "album": {
@@ -1313,6 +1331,28 @@
     },
     {
       "album": {
+        "name": "Bienvenido a la Chapiza",
+        "url": "https://open.spotify.com/album/3rIaATmhyQCd1w6JkZVhox"
+      },
+      "artists": [
+        {
+          "name": "Revolver Cannabis",
+          "url": "https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I"
+        },
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175733,
+      "name": "Bienvenido a la Chapiza",
+      "url": "https://open.spotify.com/track/2THZ79y3BIdNwZM4B8EbSZ"
+    },
+    {
+      "album": {
         "name": "Billete Grande (En Vivo)",
         "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
       },
@@ -1346,7 +1386,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 257531,
       "name": "Blanca Nieves",
       "url": "https://open.spotify.com/track/0cIjGS69xkKGavLQG8n0YK"
@@ -1905,6 +1945,28 @@
     },
     {
       "album": {
+        "name": "Chalineras",
+        "url": "https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217033,
+      "name": "Chalineras",
+      "url": "https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06"
+    },
+    {
+      "album": {
         "name": "Chalo Araujo (Pistolero De Arturo Beltr\u00e1n)",
         "url": "https://open.spotify.com/album/5WMWsNeKATwiYcN6u1XCz3"
       },
@@ -1924,6 +1986,24 @@
       "duration_ms": 135653,
       "name": "Chalo Araujo (Pistolero De Arturo Beltr\u00e1n)",
       "url": "https://open.spotify.com/track/2Jw4p4WIIxl8BwLyZ78HJ3"
+    },
+    {
+      "album": {
+        "name": "Chapos y Mayos",
+        "url": "https://open.spotify.com/album/5zTcZ5BivyDqlriXUm15N5"
+      },
+      "artists": [
+        {
+          "name": "Nivel C",
+          "url": "https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154522,
+      "name": "Chapos y Mayos",
+      "url": "https://open.spotify.com/track/67lfXtF0a60TDMdk8dWqcL"
     },
     {
       "album": {
@@ -2278,6 +2358,24 @@
       "duration_ms": 165351,
       "name": "Como Es Arriba Es Abajo",
       "url": "https://open.spotify.com/track/0Dn0h4YdPvM4v0HNdgnyeP"
+    },
+    {
+      "album": {
+        "name": "Como Pancho Villa",
+        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143661,
+      "name": "Como Pancho Villa",
+      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
     },
     {
       "album": {
@@ -2742,7 +2840,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 194477,
       "name": "De 8 A 5",
       "url": "https://open.spotify.com/track/19CPH67llc3aSBnTtQNTZE"
@@ -2932,6 +3030,28 @@
       "duration_ms": 210157,
       "name": "Del SS Al Valle",
       "url": "https://open.spotify.com/track/44T5q5K7kPvcRJRGjeUclY"
+    },
+    {
+      "album": {
+        "name": "Desde Topo Hasta La Sierra",
+        "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        },
+        {
+          "name": "Los Torrenciales de la Sierra",
+          "url": "https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218534,
+      "name": "Desde Topo Hasta La Sierra",
+      "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
     },
     {
       "album": {
@@ -3546,7 +3666,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 197511,
       "name": "El Agua Del Florero",
       "url": "https://open.spotify.com/track/2YnFyOLxdevskeewYJNH0j"
@@ -4946,6 +5066,24 @@
     {
       "album": {
         "name": "El Flaco",
+        "url": "https://open.spotify.com/album/38Oz9fC4isKyRTx9Hcjli1"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200044,
+      "name": "El Flaco",
+      "url": "https://open.spotify.com/track/5sWS0FUxzQvYyEuzMuGIfV"
+    },
+    {
+      "album": {
+        "name": "El Flaco",
         "url": "https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd"
       },
       "artists": [
@@ -5532,7 +5670,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 171391,
       "name": "El Justiciero - En Vivo",
       "url": "https://open.spotify.com/track/34kAodQ7ShXtIVRYLeznzj"
@@ -6318,6 +6456,28 @@
       "duration_ms": 151896,
       "name": "El Pollo Coyote",
       "url": "https://open.spotify.com/track/6DYai2NoxXnvreCeFOZLiw"
+    },
+    {
+      "album": {
+        "name": "El Primito",
+        "url": "https://open.spotify.com/album/16n9JAWP37liELwCRM4oHv"
+      },
+      "artists": [
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        },
+        {
+          "name": "Grupo Vanguardia",
+          "url": "https://open.spotify.com/artist/5qrmJRfUakYkbZZPXdD2FE"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174433,
+      "name": "El Primito",
+      "url": "https://open.spotify.com/track/07ENRSIr0dRqvlJI76DF03"
     },
     {
       "album": {
@@ -7126,7 +7286,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 191774,
       "name": "El Vato (En Vivo)",
       "url": "https://open.spotify.com/track/6QauXHKPLrGofZOGbRCUxj"
@@ -8526,7 +8686,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 173760,
       "name": "Hasta La Caja Cuesta",
       "url": "https://open.spotify.com/track/05NeYNxTvQe2Wl9xbaTUWc"
@@ -11411,6 +11571,28 @@
     },
     {
       "album": {
+        "name": "Me Belikeo",
+        "url": "https://open.spotify.com/album/4e0WXXX4WzjNMaLxohEu2B"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        },
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170424,
+      "name": "Me Belikeo",
+      "url": "https://open.spotify.com/track/4hI9OdYFVdAO8BF8Tuxvld"
+    },
+    {
+      "album": {
         "name": "Me Dicen El Chavo",
         "url": "https://open.spotify.com/album/2GAQ8DhWnILWXcnbLTny2W"
       },
@@ -11872,7 +12054,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 168800,
       "name": "MM",
       "url": "https://open.spotify.com/track/1IxTNg2s3WvWUiW271iDFv"
@@ -12076,6 +12258,28 @@
       "duration_ms": 163834,
       "name": "Nacho Coronel",
       "url": "https://open.spotify.com/track/2zGxf8uAuNscp5JgkwMpnO"
+    },
+    {
+      "album": {
+        "name": "Pisteando con Nico & Alemi",
+        "url": "https://open.spotify.com/album/4vZa4rfWwniKA7thjP5WaK"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        },
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264415,
+      "name": "Nacho Coronel",
+      "url": "https://open.spotify.com/track/4vWGykpz2KZIYl13oY0cfE"
     },
     {
       "album": {
@@ -12308,7 +12512,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 148946,
       "name": "No Me Dan De Comer",
       "url": "https://open.spotify.com/track/6TZGOKRQbrW9o11OeytGeq"
@@ -14834,7 +15038,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 209358,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY"

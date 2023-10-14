@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Toma Tapa e os funks mais \ud83d\udd11 do Brasil. Foto: Mc Jacar\u00e9",
+  "description": "Calma Amor, Calma Bb e os funks mais \ud83d\udd11 do Brasil. Foto: dj Bruninho Pzs, Dj Mano Lost, MC MENOR KAUAN",
   "name": "Funk Hits",
   "tracks": [
     {
@@ -172,6 +172,36 @@
       "duration_ms": 223058,
       "name": "Anota A\u00ed",
       "url": "https://open.spotify.com/track/0unjURnhsUVgVAUtNxyr8j"
+    },
+    {
+      "album": {
+        "name": "Funktroit",
+        "url": "https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU"
+      },
+      "artists": [
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "Complexo dos Hits",
+          "url": "https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G"
+        },
+        {
+          "name": "DJ Sammer",
+          "url": "https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs"
+        },
+        {
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116307,
+      "name": "Aquariano Nato",
+      "url": "https://open.spotify.com/track/3hfCle1QRfbwIpQ1B746lV"
     },
     {
       "album": {
@@ -4166,7 +4196,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 227294,
       "name": "Quem Vai Patrocinar?",
       "url": "https://open.spotify.com/track/7cIdk9sqiABl2I41wcLiML"

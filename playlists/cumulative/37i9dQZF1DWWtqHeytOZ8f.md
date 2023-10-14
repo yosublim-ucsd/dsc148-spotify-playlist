@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-603 songs - 2 day 5 hr 32 min
+604 songs - 2 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Astrosat](https://open.spotify.com/track/7Bp6FeyuwmUlM7atMBag1A) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/3P1lcWQ2sc7RGGiY4nQuL1) | 5:00 | 2021-10-20 | 2022-10-21 |
 | [Atelier](https://open.spotify.com/track/0reQqPRkPgYvKfMQR7Nfin) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa), [Satsuki Shibano](https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c) | [FRKWYS Vol\. 15: serenitatem](https://open.spotify.com/album/5l69NsahjgyhPCZNzVVGls) | 6:47 | 2021-10-20 | 2022-05-30 |
 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 | 2022-11-17 |  |
+| [Atlas](https://open.spotify.com/track/6i7i1fNug2GXwJXKbLTUDr) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Atlas](https://open.spotify.com/album/54yPuui7BKEJsys2JgMs7w) | 6:53 | 2023-10-13 |  |
 | [Aura Show](https://open.spotify.com/track/709Tz6gMwBFkAxzMlcwYbj) | [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [Annual Flowers in Color](https://open.spotify.com/album/2lKc2An4mbMhJvlGqCmHYX) | 10:18 | 2021-10-20 | 2022-07-28 |
 | [Autowave](https://open.spotify.com/track/2o66yBPuBDNKm2tB0q5MNI) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Ultraviolet](https://open.spotify.com/album/0dfCsSXhtcdAyW7ODD4Aeu) | 3:09 | 2021-10-20 | 2022-06-02 |
 | [ava\_](https://open.spotify.com/track/40PBYI3cLbrKRwZMaH1TlM) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [ava\_](https://open.spotify.com/album/4EuCr6DMm2zyS2gX5uelmA) | 3:06 | 2021-10-20 | 2022-11-21 |
@@ -430,7 +431,7 @@
 | [Sad Alron](https://open.spotify.com/track/2GLpbn7AqK5pyK5YyevI7K) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun](https://open.spotify.com/album/5VtrkG2Vs7GE1ufQpqqUug) | 2:36 | 2021-10-20 |  |
 | [Sad Alron](https://open.spotify.com/track/4DYgpUB0XeFyWjV6LwYTz5) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Sad Alron](https://open.spotify.com/album/1EUDG2I4DZsV1andpZerph) | 2:36 | 2021-10-20 | 2022-04-21 |
 | [Sankai](https://open.spotify.com/track/6IQoOFscOOZqWTy6Hn6QnC) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kwaidan](https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO) | 4:18 | 2021-10-20 |  |
-| [Santosha](https://open.spotify.com/track/1Lx2eaXNUdvqgO1f70LSrQ) | [Van Sandano](https://open.spotify.com/artist/1ncrVuDd5AG12G0rwAJP8z) | [Yuma](https://open.spotify.com/album/6BIPb7wIRPrkPar5cMawk2) | 2:40 | 2021-10-20 |  |
+| [Santosha](https://open.spotify.com/track/1Lx2eaXNUdvqgO1f70LSrQ) | [Van Sandano](https://open.spotify.com/artist/1ncrVuDd5AG12G0rwAJP8z) | [Yuma](https://open.spotify.com/album/6BIPb7wIRPrkPar5cMawk2) | 2:40 | 2021-10-20 | 2023-10-14 |
 | [Say Something](https://open.spotify.com/track/43rqUnNFGNGZdRXjskdj5Z) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Riven](https://open.spotify.com/album/350aCIe1s5yP9XOoO1ZTZg) | 2:38 | 2021-10-20 |  |
 | [See](https://open.spotify.com/track/7KRmNCnkr1h0UnfmHdFaFD) | [TENGGER](https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4) | [Spiritual 2](https://open.spotify.com/album/1GRF6wjrtvSGqPiUgdvuyM) | 5:47 | 2021-10-20 | 2022-07-29 |
 | [Sensi](https://open.spotify.com/track/3skhLjuG4wNU7Szv7MN8MW) | [Verdandi](https://open.spotify.com/artist/1OCPf5fgDsnkOa7ybQlcTQ) | [Sensi](https://open.spotify.com/album/6294tobI7hvroKXhAuBD2O) | 3:13 | 2021-10-20 | 2022-11-13 |
@@ -441,7 +442,7 @@
 | [Shadows \(The Light of Light\)](https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [Shadows \(The Light of Light\)](https://open.spotify.com/album/2iGsHH8dXl9VHM0JtGiDo2) | 4:34 | 2021-10-20 |  |
 | [Shifting Waveforms](https://open.spotify.com/track/5AQBGyLSAo7WDcminnWzd7) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Shifting Waveforms](https://open.spotify.com/album/4g5jCuB4W9PgM079v3scP5) | 3:45 | 2021-10-20 | 2022-07-29 |
 | [Shortwave](https://open.spotify.com/track/2hqhIH3UeFZ4Sa2eDpbEMw) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [There's a Riot Going On](https://open.spotify.com/album/32XGOlFpD3mpyLXQfyKXvJ) | 5:44 | 2021-10-20 | 2022-07-29 |
-| [Shortwave](https://open.spotify.com/track/3pwTbqkqTbko4Nds3togoX) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [There’s A Riot Going On](https://open.spotify.com/album/05TwuwqwLCm1V0GimPcXrD) | 5:44 | 2021-10-20 |  |
+| [Shortwave](https://open.spotify.com/track/3pwTbqkqTbko4Nds3togoX) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [There’s A Riot Going On](https://open.spotify.com/album/05TwuwqwLCm1V0GimPcXrD) | 5:44 | 2021-10-20 | 2023-10-14 |
 | [Silence](https://open.spotify.com/track/1WWe3wNH9u2Z5Hg5GbEQ9A) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Silence](https://open.spotify.com/album/1La939vqONBIqsOFnsUmOr) | 3:00 | 2021-10-20 | 2022-11-06 |
 | [Silence](https://open.spotify.com/track/4hDzsyjdmMSA89mHQNgHdO) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Silence](https://open.spotify.com/album/3SS8Pj4KizsVF4d4nHvXOo) | 3:00 | 2021-10-20 | 2022-07-29 |
 | [Silencio y Amancer](https://open.spotify.com/track/1A9iQiTMgYoc8Qky2dTDSe) | [Dyb](https://open.spotify.com/artist/2XaoeOBIkNSE1V4DeGueLn) | [Al Margen de los Sueños](https://open.spotify.com/album/2s2AevR8DMOgSr1VwFSFAX) | 4:16 | 2022-12-21 | 2023-02-16 |
@@ -564,7 +565,7 @@
 | [Twilight Sea](https://open.spotify.com/track/4dHxCO4kzAtcoki383YV0v) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/0ivDCaGwBmUHHatP2XDe0Y) | 6:05 | 2021-10-20 |  |
 | [Twilight Sea](https://open.spotify.com/track/6dO87KnbWYhBaLF4gkRzkf) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Twilight Sea](https://open.spotify.com/album/1EK0o47MPbqz6khTEN4u64) | 6:05 | 2021-10-20 | 2023-09-21 |
 | [Two Heads in a Frame Looking at Something Beautiful](https://open.spotify.com/track/6D4oXT9CNYfzdCZg8mYUZf) | [J\. Albert](https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK) | [Young American Artist](https://open.spotify.com/album/7uO5lLWW2Nv3G01Yt7lpGP) | 3:52 | 2021-10-20 | 2023-10-05 |
-| [Ultraviolet](https://open.spotify.com/track/5zaYPmW3fWxDcPrGQxPsZ2) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Above The Clouds](https://open.spotify.com/album/6Sjxd5p5VEM0Mj6FnhqPpP) | 4:16 | 2021-10-20 | 2023-09-05 |
+| [Ultraviolet](https://open.spotify.com/track/5zaYPmW3fWxDcPrGQxPsZ2) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Above The Clouds](https://open.spotify.com/album/6Sjxd5p5VEM0Mj6FnhqPpP) | 4:16 | 2021-10-20 |  |
 | [Uncertain Instruction](https://open.spotify.com/track/3PUFtJDxqSC2sRefySSHmf) | [K\. Leimer](https://open.spotify.com/artist/5m1jRZQE4BjLrFrV33jIql) | [Irrational Overcast](https://open.spotify.com/album/3mRYK8bya5UUM4JA695PJv) | 2:48 | 2021-10-20 | 2022-11-09 |
 | [Uncertain Instruction](https://open.spotify.com/track/4UTAaPcuUUbNz7LoKE6f5X) | [K\. Leimer](https://open.spotify.com/artist/5m1jRZQE4BjLrFrV33jIql) | [Irrational Overcast](https://open.spotify.com/album/2hZ9RhdWKzLQozs3AMIbMf) | 2:48 | 2021-10-20 |  |
 | [Under Isen \(sunset ocean\)](https://open.spotify.com/track/0clbuYStWIt4imZXUMwxGI) | [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [Under Isen](https://open.spotify.com/album/55r5c0ARy8AK2C73OotZJY) | 5:20 | 2021-10-28 | 2023-01-22 |

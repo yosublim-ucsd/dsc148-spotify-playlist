@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Natalie Lopez en portada.",
-  "num_followers": 57573,
+  "num_followers": 57593,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjE1OWY1ZDFiODU4MWVjNDUxZmJhMTk2NTExOTA2MGQyNjRhODhj",
+  "snapshot_id": "MCxiYTcxMWY4YjVhOTY4NGI4OTg5MTY5YjI4MzRhYWU3ZmZkNzI3YzVk",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Me Duele",
-        "url": "https://open.spotify.com/album/1Vq8Ynt4RN2B6S1dmpfKnV"
-      },
-      "artists": [
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        }
-      ],
-      "duration_ms": 201142,
-      "name": "Me Duele",
-      "url": "https://open.spotify.com/track/5lUaSlCN3Zne9VKRbk7Xfp"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Disfruto",
         "url": "https://open.spotify.com/album/0aUNOBEeSPDD7nKdOBYZPB"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 204000,
       "name": "Disfruto",
       "url": "https://open.spotify.com/track/4dxueEvA4IjUBjB50mt8h4"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Me Duele",
+        "url": "https://open.spotify.com/album/1Vq8Ynt4RN2B6S1dmpfKnV"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 201142,
+      "name": "Me Duele",
+      "url": "https://open.spotify.com/track/5lUaSlCN3Zne9VKRbk7Xfp"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Descifrar",
-        "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 256885,
-      "name": "Hace Mucho Tiempo",
-      "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Jupiter",
         "url": "https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 182706,
       "name": "Normal",
       "url": "https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Descifrar",
+        "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 256885,
+      "name": "Hace Mucho Tiempo",
+      "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "TRANQUILE\u00d3N",
-        "url": "https://open.spotify.com/album/5xCtNSL4NqQNgw3r7O2KKZ"
-      },
-      "artists": [
-        {
-          "name": "Chiken Lira",
-          "url": "https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn"
-        },
-        {
-          "name": "Los Master Plus",
-          "url": "https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "TRANQUILE\u00d3N",
-      "url": "https://open.spotify.com/track/17tisFioZUL9GaClgNYV3S"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "CUANDO LLUEVE",
         "url": "https://open.spotify.com/album/0Me1LJTvDr06VOYB9jfWjq"
       },
@@ -675,38 +655,6 @@
       "duration_ms": 258528,
       "name": "CUANDO LLUEVE",
       "url": "https://open.spotify.com/track/1zGm84bD3EQLq7Iot79U3T"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Nada Sigue Igual",
-        "url": "https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 208641,
-      "name": "Nada Sigue Igual",
-      "url": "https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "VETE",
-        "url": "https://open.spotify.com/album/3GIN6jcQHRLIno3O1r14SU"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 207402,
-      "name": "VETE",
-      "url": "https://open.spotify.com/track/1nZZVprSn3MjlypZ8QYcPF"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -727,6 +675,58 @@
       "duration_ms": 164062,
       "name": "LA 5 12",
       "url": "https://open.spotify.com/track/7nlYhsjPaMlRzjH1iCJ9P2"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Nada Sigue Igual",
+        "url": "https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 208641,
+      "name": "Nada Sigue Igual",
+      "url": "https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "TRANQUILE\u00d3N",
+        "url": "https://open.spotify.com/album/5xCtNSL4NqQNgw3r7O2KKZ"
+      },
+      "artists": [
+        {
+          "name": "Chiken Lira",
+          "url": "https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn"
+        },
+        {
+          "name": "Los Master Plus",
+          "url": "https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "TRANQUILE\u00d3N",
+      "url": "https://open.spotify.com/track/17tisFioZUL9GaClgNYV3S"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "VETE",
+        "url": "https://open.spotify.com/album/3GIN6jcQHRLIno3O1r14SU"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 207402,
+      "name": "VETE",
+      "url": "https://open.spotify.com/track/1nZZVprSn3MjlypZ8QYcPF"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Qui\u00e9n Quiere Otro Bote?",
+        "url": "https://open.spotify.com/album/4qxOY9Fwf1jprPIhAJmc5V"
+      },
+      "artists": [
+        {
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Qui\u00e9n Quiere Otro Bote?",
+      "url": "https://open.spotify.com/track/6sTzLNPWCIPY7qzfnP6pE4"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "El Chamaquito",
         "url": "https://open.spotify.com/album/4GJxnawlts3HizXeVb7Fye"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 228706,
       "name": "El Chamaquito",
       "url": "https://open.spotify.com/track/43m5eJ9Ln6AqcuDJvEtN33"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Qui\u00e9n Quiere Otro Bote?",
-        "url": "https://open.spotify.com/album/4qxOY9Fwf1jprPIhAJmc5V"
-      },
-      "artists": [
-        {
-          "name": "ElArturo",
-          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Qui\u00e9n Quiere Otro Bote?",
-      "url": "https://open.spotify.com/track/6sTzLNPWCIPY7qzfnP6pE4"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Que Bonito Es Tomar",
-        "url": "https://open.spotify.com/album/4auVeclloio4ybbEMCSeIP"
-      },
-      "artists": [
-        {
-          "name": "Franco Rey",
-          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
-        }
-      ],
-      "duration_ms": 165512,
-      "name": "Que Bonito Es Tomar",
-      "url": "https://open.spotify.com/track/521PvPw05mx8HH97MBxw9Y"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "No He Parado",
         "url": "https://open.spotify.com/album/0fTbXfGHSfS0Aq8JCqysdZ"
       },
@@ -975,18 +959,38 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "7 Dias",
-        "url": "https://open.spotify.com/album/11LDC0VyI6mfScuOCWXBLz"
+        "name": "Que Bonito Es Tomar",
+        "url": "https://open.spotify.com/album/4auVeclloio4ybbEMCSeIP"
       },
       "artists": [
         {
-          "name": "Everardo",
-          "url": "https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd"
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
         }
       ],
-      "duration_ms": 158953,
-      "name": "7 D\u00edas",
-      "url": "https://open.spotify.com/track/2VkO0XzFaHd6KCSFtFgth2"
+      "duration_ms": 165512,
+      "name": "Que Bonito Es Tomar",
+      "url": "https://open.spotify.com/track/521PvPw05mx8HH97MBxw9Y"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "La Plebada",
+        "url": "https://open.spotify.com/album/2RhK9R4I6t8bdacMbu5Qt6"
+      },
+      "artists": [
+        {
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "La Plebada",
+      "url": "https://open.spotify.com/track/1yGQ5WHIaLboYVm5IRjT0w"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1011,6 +1015,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "7 Dias",
+        "url": "https://open.spotify.com/album/11LDC0VyI6mfScuOCWXBLz"
+      },
+      "artists": [
+        {
+          "name": "Everardo",
+          "url": "https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd"
+        }
+      ],
+      "duration_ms": 158953,
+      "name": "7 D\u00edas",
+      "url": "https://open.spotify.com/track/2VkO0XzFaHd6KCSFtFgth2"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Todas Son Iguales",
         "url": "https://open.spotify.com/album/4cnB7ZFMYPWYXtMyDkahpj"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 155125,
       "name": "Todas Son Iguales",
       "url": "https://open.spotify.com/track/2qfUvyyu0CrKcJTSXh6ifx"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "La Plebada",
-        "url": "https://open.spotify.com/album/2RhK9R4I6t8bdacMbu5Qt6"
-      },
-      "artists": [
-        {
-          "name": "ElArturo",
-          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "La Plebada",
-      "url": "https://open.spotify.com/track/1yGQ5WHIaLboYVm5IRjT0w"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1107,18 +1107,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Ganas de Volver",
-        "url": "https://open.spotify.com/album/0HNCuLUkataflaUI5NtVIy"
+        "name": "Mi Peor Versi\u00f3n",
+        "url": "https://open.spotify.com/album/30cVCFW3g90useQnn8Kssk"
       },
       "artists": [
         {
-          "name": "Omar Robles",
-          "url": "https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL"
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        },
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
         }
       ],
-      "duration_ms": 220571,
-      "name": "Qu\u00e9 Ganas de Volver",
-      "url": "https://open.spotify.com/track/2xfgaz02xDkL2Yyumjhejz"
+      "duration_ms": 156680,
+      "name": "Mi Peor Versi\u00f3n",
+      "url": "https://open.spotify.com/track/4daaFXcH4eJtalXOGQzdAt"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1143,26 +1147,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Mi Peor Versi\u00f3n",
-        "url": "https://open.spotify.com/album/30cVCFW3g90useQnn8Kssk"
-      },
-      "artists": [
-        {
-          "name": "ElArturo",
-          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
-        },
-        {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
-        }
-      ],
-      "duration_ms": 156680,
-      "name": "Mi Peor Versi\u00f3n",
-      "url": "https://open.spotify.com/track/4daaFXcH4eJtalXOGQzdAt"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Rolitas De Oro",
         "url": "https://open.spotify.com/album/0zI12JLhcVts2MxbS1z4Ox"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 258500,
       "name": "Juan Ayon",
       "url": "https://open.spotify.com/track/27qF3lsFDE0Rat4i305MWs"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Qu\u00e9 Ganas de Volver",
+        "url": "https://open.spotify.com/album/0HNCuLUkataflaUI5NtVIy"
+      },
+      "artists": [
+        {
+          "name": "Omar Robles",
+          "url": "https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL"
+        }
+      ],
+      "duration_ms": 220571,
+      "name": "Qu\u00e9 Ganas de Volver",
+      "url": "https://open.spotify.com/track/2xfgaz02xDkL2Yyumjhejz"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "x el 215",
-        "url": "https://open.spotify.com/album/0JYxLMZ6fgDayKM04oTGlB"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1o Armado",
-          "url": "https://open.spotify.com/artist/1iXmwjgoA59F6JIkc8RAJJ"
-        }
-      ],
-      "duration_ms": 191271,
-      "name": "x el 215",
-      "url": "https://open.spotify.com/track/3KpxZy5MCs8lJlgIAqdtRc"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Dej\u00e9moslo As\u00ed",
         "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 209026,
       "name": "Dej\u00e9moslo As\u00ed",
       "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "x el 215",
+        "url": "https://open.spotify.com/album/0JYxLMZ6fgDayKM04oTGlB"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1o Armado",
+          "url": "https://open.spotify.com/artist/1iXmwjgoA59F6JIkc8RAJJ"
+        }
+      ],
+      "duration_ms": 191271,
+      "name": "x el 215",
+      "url": "https://open.spotify.com/track/3KpxZy5MCs8lJlgIAqdtRc"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Dir\u00e9",
-        "url": "https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "Dir\u00e9",
-      "url": "https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/456vorveaWp2EZSHNDhHAG"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 232533,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/5Eelane6BPV4SbiSP33ATI"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Dir\u00e9",
+        "url": "https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "Dir\u00e9",
+      "url": "https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r"
     },
     {
       "added_at": "2023-10-06 06:00:00",

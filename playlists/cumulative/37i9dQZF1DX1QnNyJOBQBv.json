@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The hottest Latin pop tracks right now. Cover: i\u00f1igo quintero",
+  "description": "The hottest Latin pop tracks right now. Cover: Humbe",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -1023,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "bien hecho",
+        "url": "https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241038,
+      "name": "bien hecho",
+      "url": "https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB"
+    },
+    {
+      "album": {
         "name": "Don Juan",
         "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
       },
@@ -1148,6 +1166,24 @@
       "duration_ms": 209578,
       "name": "Brother",
       "url": "https://open.spotify.com/track/3M23T72K5eqHI2GzdFMMHE"
+    },
+    {
+      "album": {
+        "name": "bubble gum",
+        "url": "https://open.spotify.com/album/67uEROQSX8obMBPZkuhMaw"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210707,
+      "name": "bubble gum",
+      "url": "https://open.spotify.com/track/2MWaS0ko4ABFXulETnZ3m4"
     },
     {
       "album": {
@@ -1346,6 +1382,24 @@
       "duration_ms": 203756,
       "name": "cara :)",
       "url": "https://open.spotify.com/track/5q4ZSDqJotpZfucKsUJFx4"
+    },
+    {
+      "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167485,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa"
     },
     {
       "album": {
@@ -1989,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "de mi pa ti",
+        "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206351,
+      "name": "de mi pa ti",
+      "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
+    },
+    {
+      "album": {
         "name": "De Nada (Remix)",
         "url": "https://open.spotify.com/album/53eR7ZWqLIdRVZHcQfHgaC"
       },
@@ -2176,7 +2248,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 166426,
       "name": "Dientes",
       "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
@@ -2776,7 +2848,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 184826,
       "name": "Ex (con La Joaqui)",
       "url": "https://open.spotify.com/track/4aHc6XvgDFIdey7Y7D8lH4"
@@ -4372,7 +4444,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 182075,
       "name": "Me Enter\u00e9",
       "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
@@ -4685,6 +4757,24 @@
     },
     {
       "album": {
+        "name": "Milanoche",
+        "url": "https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168282,
+      "name": "Milanoche",
+      "url": "https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO"
+    },
+    {
+      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
       },
@@ -4766,6 +4856,24 @@
       "duration_ms": 180374,
       "name": "Movezz en silencio",
       "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
+    },
+    {
+      "album": {
+        "name": "M\u00e1quina del Tiempo",
+        "url": "https://open.spotify.com/album/7oXFKwMbYhY6K8P6Skp3hM"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153386,
+      "name": "M\u00e1quina del Tiempo",
+      "url": "https://open.spotify.com/track/7rGpG81sWMUcxkyJwvmlAq"
     },
     {
       "album": {
@@ -4874,7 +4982,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 230049,
       "name": "no quiero olvidarte",
       "url": "https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d"
@@ -5340,7 +5448,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 151666,
       "name": "Palpita",
       "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
@@ -6468,7 +6576,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 164673,
       "name": "Soltando A Pedazos",
       "url": "https://open.spotify.com/track/54Hpm4MoCvzmlO6yvD2wj0"
@@ -7255,6 +7363,24 @@
     },
     {
       "album": {
+        "name": "Verano En NY",
+        "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186617,
+      "name": "Verano En NY",
+      "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
+    },
+    {
+      "album": {
         "name": "Volare",
         "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
       },
@@ -7446,7 +7572,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 140906,
       "name": "YELIANA - Cap. 3 - ZHA",
       "url": "https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW"

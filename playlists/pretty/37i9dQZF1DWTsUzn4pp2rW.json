@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 139628,
+  "num_followers": 139675,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGIyOWE3YjkyZTliN2RhZGJkOTM2ZTFhNjhjM2E0YjhiNzY2NmRi",
+  "snapshot_id": "MCw4MWIzNWMyYzE2ZWQ5NzU3ZGMxYmZkMmJmODk0MDliOTkwNjRhMzBj",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -131,18 +131,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
+        "name": "Flores para Frida",
+        "url": "https://open.spotify.com/album/2RnkhkkMf3ohTkeynGNfMq"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
         }
       ],
-      "duration_ms": 124986,
-      "name": "They Can\u2019t Take That Away From Me",
-      "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
+      "duration_ms": 163043,
+      "name": "You Belong To My Heart - Solamente una Vez",
+      "url": "https://open.spotify.com/track/6s4lefaSddnWhOiT1hBre5"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -167,18 +167,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Flores para Frida",
-        "url": "https://open.spotify.com/album/2RnkhkkMf3ohTkeynGNfMq"
+        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
       },
       "artists": [
         {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         }
       ],
-      "duration_ms": 163043,
-      "name": "You Belong To My Heart - Solamente una Vez",
-      "url": "https://open.spotify.com/track/6s4lefaSddnWhOiT1hBre5"
+      "duration_ms": 124986,
+      "name": "They Can\u2019t Take That Away From Me",
+      "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Taller",
+        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 188413,
+      "name": "You Can't Hide Away From Love",
+      "url": "https://open.spotify.com/track/5wT4caQu7Qdom8A3ADhyYx"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "A Voice",
         "url": "https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 238524,
       "name": "No Meanness",
       "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Taller",
-        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 188413,
-      "name": "You Can't Hide Away From Love",
-      "url": "https://open.spotify.com/track/5wT4caQu7Qdom8A3ADhyYx"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Strangers in Disguise",
-        "url": "https://open.spotify.com/album/7p6Fu4k7F97W60BV2Bz4KK"
-      },
-      "artists": [
-        {
-          "name": "Anthony Lazaro",
-          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
-        }
-      ],
-      "duration_ms": 166635,
-      "name": "Strangers in Disguise",
-      "url": "https://open.spotify.com/track/4rIoGSsuUE9KOhYwkhX4Ls"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Softly Loudly",
         "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 253246,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Strangers in Disguise",
+        "url": "https://open.spotify.com/album/7p6Fu4k7F97W60BV2Bz4KK"
+      },
+      "artists": [
+        {
+          "name": "Anthony Lazaro",
+          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
+        }
+      ],
+      "duration_ms": 166635,
+      "name": "Strangers in Disguise",
+      "url": "https://open.spotify.com/track/4rIoGSsuUE9KOhYwkhX4Ls"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "I Need Your Love",
+        "url": "https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andrea Wang",
+          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
+        }
+      ],
+      "duration_ms": 260377,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Much Rain",
         "url": "https://open.spotify.com/album/6Rl3a9T2VTGwCita9jJTeo"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 394997,
       "name": "Cup of Tea",
       "url": "https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "I Need Your Love",
-        "url": "https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andrea Wang",
-          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
-        }
-      ],
-      "duration_ms": 260377,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Break In",
+        "url": "https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO"
+      },
+      "artists": [
+        {
+          "name": "TICO DE MORAES",
+          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
+        }
+      ],
+      "duration_ms": 199636,
+      "name": "Break In",
+      "url": "https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "My One and Only Love",
         "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 233013,
       "name": "A Better One for You",
       "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Break In",
-        "url": "https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO"
-      },
-      "artists": [
-        {
-          "name": "TICO DE MORAES",
-          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
-        }
-      ],
-      "duration_ms": 199636,
-      "name": "Break In",
-      "url": "https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Sugilite",
-        "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
-      },
-      "artists": [
-        {
-          "name": "Jeanne Newhall",
-          "url": "https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t"
-        }
-      ],
-      "duration_ms": 278961,
-      "name": "Sugilite",
-      "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Take Me Off to Dreamland",
         "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 247986,
       "name": "Sunshine & Lullaby",
       "url": "https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Sugilite",
+        "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Newhall",
+          "url": "https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t"
+        }
+      ],
+      "duration_ms": 278961,
+      "name": "Sugilite",
+      "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Can't Fight Love",
-        "url": "https://open.spotify.com/album/5sA7cYMhDl7Xqx8fPmHpZV"
-      },
-      "artists": [
-        {
-          "name": "Marif\u00e9",
-          "url": "https://open.spotify.com/artist/1NN1tNV02Nxhcw2c5YNj2X"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Can't Fight Love",
-      "url": "https://open.spotify.com/track/2ffjgH34upcSYa0dKnCxvW"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Same Soul",
         "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 293504,
       "name": "Your Hands",
       "url": "https://open.spotify.com/track/5L2WZHdSzV9rCsK6KWxb2E"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Can't Fight Love",
+        "url": "https://open.spotify.com/album/5sA7cYMhDl7Xqx8fPmHpZV"
+      },
+      "artists": [
+        {
+          "name": "Marif\u00e9",
+          "url": "https://open.spotify.com/artist/1NN1tNV02Nxhcw2c5YNj2X"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Can't Fight Love",
+      "url": "https://open.spotify.com/track/2ffjgH34upcSYa0dKnCxvW"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2051,18 +2051,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "The Road Is Narrow",
-        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
+        "name": "Listen To The Sky",
+        "url": "https://open.spotify.com/album/3G9hrfPSpBsvBwcgLT4i7u"
       },
       "artists": [
         {
-          "name": "Jecca",
-          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
         }
       ],
-      "duration_ms": 194823,
-      "name": "the road is narrow",
-      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
+      "duration_ms": 172042,
+      "name": "Listen To The Sky",
+      "url": "https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2083,18 +2083,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Listen To The Sky",
-        "url": "https://open.spotify.com/album/3G9hrfPSpBsvBwcgLT4i7u"
+        "name": "The Road Is Narrow",
+        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
       },
       "artists": [
         {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+          "name": "Jecca",
+          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
         }
       ],
-      "duration_ms": 172042,
-      "name": "Listen To The Sky",
-      "url": "https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT"
+      "duration_ms": 194823,
+      "name": "the road is narrow",
+      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2335,26 +2335,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Infant Eyes (Edit)",
-        "url": "https://open.spotify.com/album/393PRcPTjHGLjUJrvFTihd"
-      },
-      "artists": [
-        {
-          "name": "Jamael Dean",
-          "url": "https://open.spotify.com/artist/2eoVP5QgTopsYgTS7H1CKs"
-        },
-        {
-          "name": "Sharada Shashidhar",
-          "url": "https://open.spotify.com/artist/1S5hEP3i3XrnBeW602MbUq"
-        }
-      ],
-      "duration_ms": 389983,
-      "name": "Infant Eyes - Edit",
-      "url": "https://open.spotify.com/track/0Vp28wPW0x7uV2nIgvzrQ1"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Same Way Home",
         "url": "https://open.spotify.com/album/4tzpMQQJ5JPI6n7xEsxs7e"
       },
@@ -2371,6 +2351,26 @@
       "duration_ms": 178786,
       "name": "Same Way Home",
       "url": "https://open.spotify.com/track/5lYlBcimTYIywerAwZnyi0"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Infant Eyes (Edit)",
+        "url": "https://open.spotify.com/album/393PRcPTjHGLjUJrvFTihd"
+      },
+      "artists": [
+        {
+          "name": "Jamael Dean",
+          "url": "https://open.spotify.com/artist/2eoVP5QgTopsYgTS7H1CKs"
+        },
+        {
+          "name": "Sharada Shashidhar",
+          "url": "https://open.spotify.com/artist/1S5hEP3i3XrnBeW602MbUq"
+        }
+      ],
+      "duration_ms": 389983,
+      "name": "Infant Eyes - Edit",
+      "url": "https://open.spotify.com/track/0Vp28wPW0x7uV2nIgvzrQ1"
     },
     {
       "added_at": "2023-10-13 00:01:00",

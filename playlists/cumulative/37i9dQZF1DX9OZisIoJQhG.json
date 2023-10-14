@@ -1351,6 +1351,36 @@
     },
     {
       "album": {
+        "name": "Destins tragiques",
+        "url": "https://open.spotify.com/album/4pssVfUS6LWSm0EEKUqcO5"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Elvira Misbakhova",
+          "url": "https://open.spotify.com/artist/1TmhJmSvk7r0CbIRjMxhcO"
+        },
+        {
+          "name": "I Musici de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/6zB5N5OhPV65PGkh4rPVHK"
+        },
+        {
+          "name": "Jean-Fran\u00e7ois Rivest",
+          "url": "https://open.spotify.com/artist/4o9zNggXc4KRZoVI9GtcNY"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155840,
+      "name": "Romeo and Juliette, Op. 64 (Arr. for Viola and Piano by Vadim Borisovsky, Orchestration for Viola and String Orchestra by Fran\u00e7ois Valli\u00e8res): Introduction",
+      "url": "https://open.spotify.com/track/0f4YTikmB09RKwNEjzG17Y"
+    },
+    {
+      "album": {
         "name": "Cello Moods",
         "url": "https://open.spotify.com/album/7i83TEHhrYpSdiemOVqajE"
       },

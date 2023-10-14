@@ -4,7 +4,7 @@
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ Ëgo in cover!
 
-664 songs - 1 day 6 hr 31 min
+665 songs - 1 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,8 @@
 | [GIORNI](https://open.spotify.com/track/1M2Me9b51HDBQEZmh5YuKP) | [Tear&Drugz](https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT), [tobehonest](https://open.spotify.com/artist/2ufSXCAobEyscTZllwpEzV), [pippx](https://open.spotify.com/artist/78N7nP5wUagUYUax3I5Ldv) | [GIORNI](https://open.spotify.com/album/4F81BH0tY3rOOnRzrjz5I5) | 2:28 | 2023-05-11 |  |
 | [GIORNI A METÀ](https://open.spotify.com/track/1qkHY7ADUziSAVvL8zZzQ9) | [Trophie](https://open.spotify.com/artist/02ZhsNQYP2ECXtHCBUdm7w) | [GIORNI A METÀ](https://open.spotify.com/album/0nKRo6pVAUGKzB94AZkDXY) | 2:37 | 2023-05-04 | 2023-08-04 |
 | [Giorni di merda](https://open.spotify.com/track/4rYt3cDiPMJMfU8nSlbxGM) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Giorni di merda](https://open.spotify.com/album/2b3qHx8nwIQR6FMyuk5Air) | 2:43 | 2022-09-01 | 2023-01-20 |
-| [Giovani Pop Punk](https://open.spotify.com/track/1OOfq8XCmp4qv1WzIEZ95M) | [Misa](https://open.spotify.com/artist/5jHjoTewpLc3afcQ8hdCzF), [Tiasnow](https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe) | [Giovani Pop Punk](https://open.spotify.com/album/4GSl3bThAEPykU4pJVQfhD) | 2:29 | 2023-07-27 |  |
+| [Giovani Pop Punk](https://open.spotify.com/track/1OOfq8XCmp4qv1WzIEZ95M) | [Misa](https://open.spotify.com/artist/5jHjoTewpLc3afcQ8hdCzF), [Tiasnow](https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe) | [Giovani Pop Punk](https://open.spotify.com/album/4GSl3bThAEPykU4pJVQfhD) | 2:29 | 2023-07-27 | 2023-10-14 |
+| [Giovani Pop Punk](https://open.spotify.com/track/2xHp4mzHewMwsAf3uYmj9E) | [Misa](https://open.spotify.com/artist/5jHjoTewpLc3afcQ8hdCzF), [Tiasnow](https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe) | [Giovani Pop Punk](https://open.spotify.com/album/230oPHuDKJz2xWqOjEUkw1) | 2:29 | 2023-10-12 |  |
 | [Girl Next Door](https://open.spotify.com/track/4ABdzNfI4wWkhmvBRe0AcN) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [ERRØR BØY](https://open.spotify.com/album/0J6qP8wX9hmFM1rjL5FtjA) | 2:37 | 2022-08-18 | 2022-09-02 |
 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 | 2022-06-09 | 2022-07-01 |
 | [Giro Di Notte](https://open.spotify.com/track/0Ah4GcfhnjzbVwbz02DOz3) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Giro Di Notte](https://open.spotify.com/album/6tnD3idVgdhI193PYFTNJe) | 3:07 | 2022-09-08 | 2023-01-06 |

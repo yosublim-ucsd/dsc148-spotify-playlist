@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "$1M",
+        "url": "https://open.spotify.com/album/1BpLjNHS6EqNkrIaJ3otYr"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110184,
+      "name": "$1M",
+      "url": "https://open.spotify.com/track/6EZevl0aJzkUmW0MUQKC1p"
+    },
+    {
+      "album": {
         "name": "Victor",
         "url": "https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH"
       },
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 173871,
       "name": "Barely Holdin' On",
       "url": "https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx"
@@ -1768,7 +1786,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 131058,
       "name": "Boomshakalacka",
       "url": "https://open.spotify.com/track/3IMnLWHNOdfvz0nfBEJaqP"
@@ -2042,6 +2060,24 @@
       "duration_ms": 130351,
       "name": "Cash App",
       "url": "https://open.spotify.com/track/6AG2zjruUpoYu9hunhx2lg"
+    },
+    {
+      "album": {
+        "name": "Catch A B",
+        "url": "https://open.spotify.com/album/02GqHGLaoX1mKGypdJP2VW"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133474,
+      "name": "Catch A B",
+      "url": "https://open.spotify.com/track/1N1OEPRVwRpimvSL6H3Mwx"
     },
     {
       "album": {
@@ -2326,6 +2362,28 @@
       "duration_ms": 190653,
       "name": "Come My Way (feat. Krayzie Bone)",
       "url": "https://open.spotify.com/track/774RwZfAI8Ge5RcFu0pzD6"
+    },
+    {
+      "album": {
+        "name": "Come Outside (feat. YTB Fatt)",
+        "url": "https://open.spotify.com/album/0xTtXNNN82brPd2cRn23ZX"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        },
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "Come Outside (feat. YTB Fatt)",
+      "url": "https://open.spotify.com/track/1fxlHuMfJPa0de1WJHOwBf"
     },
     {
       "album": {
@@ -3420,7 +3478,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 185502,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/6AF1EXOhKE8VxOmyN995uG"
@@ -3614,6 +3672,24 @@
       "duration_ms": 173289,
       "name": "Get It",
       "url": "https://open.spotify.com/track/379Bq2UYx6X6NagvNjZLSX"
+    },
+    {
+      "album": {
+        "name": "Ganger (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179612,
+      "name": "Get Lucki",
+      "url": "https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6"
     },
     {
       "album": {
@@ -4339,6 +4415,24 @@
     },
     {
       "album": {
+        "name": "HEAVEN'S GALAXY",
+        "url": "https://open.spotify.com/album/68xRB3gmaXR0ja7HaBSi1B"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377466,
+      "name": "HEAVEN'S GALAXY",
+      "url": "https://open.spotify.com/track/1iUlclkUb1sXcmrDqfQkIH"
+    },
+    {
+      "album": {
         "name": "I Never Felt Nun",
         "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
       },
@@ -4546,7 +4640,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 158096,
       "name": "Hot Outside",
       "url": "https://open.spotify.com/track/7gZpuXva0SqsOgkUEEwkbF"
@@ -5156,6 +5250,24 @@
       "duration_ms": 243352,
       "name": "Insubordination",
       "url": "https://open.spotify.com/track/2geW0ZSZzuJYzlyi95kAl9"
+    },
+    {
+      "album": {
+        "name": "GHETTO",
+        "url": "https://open.spotify.com/album/0CsE05G84CsmW5Uqgh1WC3"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206176,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/0avQvapA4ZO9XojUpsaDL5"
     },
     {
       "album": {
@@ -5780,7 +5892,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 147664,
       "name": "Lenny Cooke",
       "url": "https://open.spotify.com/track/6jkoFl438J3fNH38dk7Amu"
@@ -5842,6 +5954,54 @@
       "duration_ms": 130703,
       "name": "Likka Sto",
       "url": "https://open.spotify.com/track/69PUAWTgoHZihzmM0kwYpE"
+    },
+    {
+      "album": {
+        "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
+        "url": "https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt"
+      },
+      "artists": [
+        {
+          "name": "Lil Blessin",
+          "url": "https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228251,
+      "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
+      "url": "https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0"
+    },
+    {
+      "album": {
+        "name": "LIL YEAH",
+        "url": "https://open.spotify.com/album/2CBmsfG1xXvkU3Fr14vPp3"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121376,
+      "name": "LIL YEAH",
+      "url": "https://open.spotify.com/track/0kFJUQfYRMhyBBbaXYaNxc"
     },
     {
       "album": {
@@ -5972,6 +6132,24 @@
       "duration_ms": 305142,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/16Oy2t41hPHbM8rjpdVGov"
+    },
+    {
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/5pF3uHPu7XXDWwVTBYQXew"
+      },
+      "artists": [
+        {
+          "name": "D. Savage",
+          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125184,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/35gPF7j6rBRHKUe4zsXqry"
     },
     {
       "album": {
@@ -6474,7 +6652,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 132220,
       "name": "Motion",
       "url": "https://open.spotify.com/track/1fFg0KgrMwxTdIsO4bTd9S"
@@ -7233,6 +7411,32 @@
     },
     {
       "album": {
+        "name": "On A Star (feat. FendiDa Rappa & Raiche)",
+        "url": "https://open.spotify.com/album/5MSUYBMNkmi1HeWgkKW1AF"
+      },
+      "artists": [
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        },
+        {
+          "name": "Raiche",
+          "url": "https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI"
+        },
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193543,
+      "name": "On A Star (feat. FendiDa Rappa & Raiche)",
+      "url": "https://open.spotify.com/track/0n177AtFQY4VoYEGAV2EcZ"
+    },
+    {
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/639gMjOufhPpas54rznoPg"
       },
@@ -7682,7 +7886,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 258220,
       "name": "Perc & Sex",
       "url": "https://open.spotify.com/track/7wbNu1P1ZokAM4gTJSImzu"
@@ -8138,7 +8342,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 138598,
       "name": "Psilocybin",
       "url": "https://open.spotify.com/track/0ON7bBXpaFPRoWzaHhBrDl"
@@ -8454,7 +8658,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 113015,
       "name": "Rich & Player",
       "url": "https://open.spotify.com/track/4uAdk4WsvROzbhHpxlI744"
@@ -9600,7 +9804,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 161000,
       "name": "Special (feat. OhGeesy)",
       "url": "https://open.spotify.com/track/3Mlcjjz7jwTyNcb1mP7qsI"
@@ -10316,7 +10520,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 241133,
       "name": "Tell Shyanne 2 (feat. Jace!)",
       "url": "https://open.spotify.com/track/2Nlky0GKESaONs5FBZpisF"
@@ -10962,7 +11166,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 187880,
       "name": "TRY & SEE (feat. Future, G Herbo & Roddy Ricch)",
       "url": "https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh"
@@ -11622,6 +11826,24 @@
       "duration_ms": 151099,
       "name": "Wicked Inna RaQ 2 (with G Herbo)",
       "url": "https://open.spotify.com/track/0C4cunXxLICqzrxhYWorP0"
+    },
+    {
+      "album": {
+        "name": "With My Boo",
+        "url": "https://open.spotify.com/album/6nfnwJ2rMqwYhnqoM5aexC"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124425,
+      "name": "With My Boo",
+      "url": "https://open.spotify.com/track/5jv854w0ZHUCesbjFHIxSs"
     },
     {
       "album": {

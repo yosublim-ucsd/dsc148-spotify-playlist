@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 167173,
       "name": "Ide\u00e1ln\u00ed \u010das se nezbl\u00e1znit",
       "url": "https://open.spotify.com/track/0a5o3sRVK2Ptg93HiDzElE"
@@ -1110,6 +1110,44 @@
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
+    },
+    {
+      "album": {
+        "name": "It Takes Two (feat. Eric Andre, Daveed Diggs, Kid Cudi & Trolls)",
+        "url": "https://open.spotify.com/album/7oGTxPAGX6htcQblSqWo0r"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Eric Andre",
+          "url": "https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/21vLEEtCTBS6fxw1TuPJAy"
     },
     {
       "album": {
@@ -1577,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Pomeran\u010d",
+        "url": "https://open.spotify.com/album/2MXqpOP91GFLhQhhzZqi1Z"
+      },
+      "artists": [
+        {
+          "name": "Fast Food Orchestra",
+          "url": "https://open.spotify.com/artist/2EjBCwIB8BXPEdWQKTeEqN"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163085,
+      "name": "Pomeran\u010d",
+      "url": "https://open.spotify.com/track/3hZmNAVbONiEXnPAYa6nRC"
+    },
+    {
+      "album": {
         "name": "Pozvala m\u011b do teepee",
         "url": "https://open.spotify.com/album/2dGqQ0BEjJtLO8nvIAnWaE"
       },
@@ -1640,7 +1696,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 177142,
       "name": "PRESNETAKAJE",
       "url": "https://open.spotify.com/track/6p4LTuNQpMytX7fIgSK5Rr"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Chandler Leighton & Meg Smith",
+  "description": "Dark, hard hitting pop. Cover: Ari Abdul",
   "name": "SALT",
   "tracks": [
     {
@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203369,
+      "name": "ballad of a homeschooled girl",
+      "url": "https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b"
+    },
+    {
+      "album": {
         "name": "BANG BANG!",
         "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
       },
@@ -856,6 +874,24 @@
       "duration_ms": 143428,
       "name": "Bitches These Days",
       "url": "https://open.spotify.com/track/1Ls9hQqVRPIIWnylIlHg48"
+    },
+    {
+      "album": {
+        "name": "CCTV",
+        "url": "https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161171,
+      "name": "Bite Marks",
+      "url": "https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia"
     },
     {
       "album": {
@@ -1292,7 +1328,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 133679,
       "name": "BURY YOU",
       "url": "https://open.spotify.com/track/7Elu7fHAoNkPNSMDNeu822"
@@ -4065,6 +4101,24 @@
     },
     {
       "album": {
+        "name": "i should call my friends",
+        "url": "https://open.spotify.com/album/7qYCSuZ6kdIid6QrhuLAYe"
+      },
+      "artists": [
+        {
+          "name": "Hey Violet",
+          "url": "https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159981,
+      "name": "i should call my friends",
+      "url": "https://open.spotify.com/track/7u0JipKqt3pIxbvgjOqd4R"
+    },
+    {
+      "album": {
         "name": "i should\u2019ve fucked your brother",
         "url": "https://open.spotify.com/album/2gJ0I8ch7Jq8vSa1tt8A7U"
       },
@@ -4952,7 +5006,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 154516,
       "name": "love is embarrassing",
       "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
@@ -5104,6 +5158,24 @@
       "duration_ms": 145788,
       "name": "martyr",
       "url": "https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP"
+    },
+    {
+      "album": {
+        "name": "OVER HER DEAD BODY",
+        "url": "https://open.spotify.com/album/16VkEvSvpJZVdqchm8E6F2"
+      },
+      "artists": [
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "MASOCHIST",
+      "url": "https://open.spotify.com/track/3wlU8UYOvnnbt9BYkBqrgH"
     },
     {
       "album": {
@@ -6403,6 +6475,24 @@
     },
     {
       "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148074,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR"
+    },
+    {
+      "album": {
         "name": "red flag collector",
         "url": "https://open.spotify.com/album/29nqXCfWwutCC9ZWnNZKHU"
       },
@@ -7318,6 +7408,24 @@
       "duration_ms": 161250,
       "name": "Soul Sucker, Pt. 2",
       "url": "https://open.spotify.com/track/7lSRoGGERYMfi5mDotavru"
+    },
+    {
+      "album": {
+        "name": "Spelling",
+        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
+      },
+      "artists": [
+        {
+          "name": "Lolahol",
+          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241133,
+      "name": "Spelling",
+      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
     },
     {
       "album": {
@@ -8692,6 +8800,24 @@
       "duration_ms": 126189,
       "name": "WEEDKILLER",
       "url": "https://open.spotify.com/track/4c5LGEwgEEgL8VlNeeBCL8"
+    },
+    {
+      "album": {
+        "name": "WEIRDO",
+        "url": "https://open.spotify.com/album/6rDokynybvQJty9nxAAGVh"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150558,
+      "name": "WEIRDO",
+      "url": "https://open.spotify.com/track/4q0l0eybNVn3ae13cj4OBw"
     },
     {
       "album": {

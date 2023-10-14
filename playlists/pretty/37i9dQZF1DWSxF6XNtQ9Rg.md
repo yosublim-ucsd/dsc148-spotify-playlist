@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 > Solo hit rap da ascoltare in loop\. Cover: Marra e Guè
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,842 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,924 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 73 | [Blue Sky](https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Kepler](https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog) | 3:07 |
 | 74 | [Angelina Jolie](https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Angelina Jolie](https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR) | 2:49 |
 | 75 | [Ma Chérie \(feat\. Capo Plaza\)](https://open.spotify.com/track/56oawXplSFrfIJSyZjBgez) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 2:39 |
-| 76 | [Baby \(with J Balvin\)](https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Famoso](https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk) | 3:13 |
-| 77 | [10 RAGAZZE \(con ERNIA\)](https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:54 |
+| 76 | [10 RAGAZZE \(con ERNIA\)](https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:54 |
+| 77 | [Baby \(with J Balvin\)](https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Famoso](https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk) | 3:13 |
 | 78 | [Bimbi](https://open.spotify.com/track/4JJtZMgxQgTlBBg7E9Qeac) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Bimbi](https://open.spotify.com/album/1UrR17tCBddq6cbSKQQWA2) | 4:00 |
 | 79 | [Rompo \(feat\. Boro\)](https://open.spotify.com/track/4oPh7HAoMR1bLBbxwqKmgn) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Filtri](https://open.spotify.com/album/0Rh1xvnuSs3GyZAvpLlkut) | 2:49 |
 | 80 | [Malibu](https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Bellaria](https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 99 | [STAI ZITTO \(feat\. Fabri Fibra\)](https://open.spotify.com/track/2rgOAX5Cj3pk8JFnaPwJbd) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:22 |
 | 100 | [LA CANZONE NOSTRA ⟁ \(con BLANCO & Salmo\)](https://open.spotify.com/track/0aQi1JGO1oKWEmKGfvf8TF) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [LA CANZONE NOSTRA ⟁ \(con BLANCO & Salmo\)](https://open.spotify.com/album/2w5HWooasQeHJC4lYspeG3) | 3:57 |
 
-Snapshot ID: `MCw0ZjllNjkyZDYzYzQ5YWViODdjNDNhMjA2MWQ0NmJiODQ5YTA0MTkx`
+Snapshot ID: `MCw1YmI5NTdkMTc4OTllZDI2ZTI2NThkOWQxMDBmODRmZDljMjJiY2Y4`

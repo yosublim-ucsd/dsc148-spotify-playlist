@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Cover: Duster
 
-457 songs - 1 day 5 hr 59 min
+462 songs - 1 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Blue](https://open.spotify.com/track/2gD6XfMklqFzI766JU9xjt) | [Retlehs](https://open.spotify.com/artist/1Zinn1WzK7KHfvgBUuGrrX) | [Satyr's Satire](https://open.spotify.com/album/4wOvGi8aHdcRcjLJ9HLZY2) | 3:57 | 2022-08-03 | 2022-09-05 |
 | [Blue Line Baby](https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:30 | 2021-10-19 | 2023-06-08 |
 | [Blurred Out](https://open.spotify.com/track/5cdOifwMWbS0DBzbcocfdJ) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C), [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Coping Habits](https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp) | 3:02 | 2023-09-25 |  |
+| [blurry](https://open.spotify.com/track/2UkC6lFTKIAIiAErr6fDo0) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [the way night falls](https://open.spotify.com/album/5y5JOeRipEP9JfKhQFDp8J) | 3:49 | 2023-10-13 |  |
 | [Bonsai](https://open.spotify.com/track/2Js2COGl7htc00CjZ2L2CO) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Infinite Summer](https://open.spotify.com/album/2UgS0gIHCafJEhhKVEDH4p) | 2:35 | 2021-10-19 | 2022-07-29 |
 | [Bottlerocket](https://open.spotify.com/track/5EeaNNzKCbJfcaVnaWz6Dl) | [Astrobrite](https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ) | [Crush](https://open.spotify.com/album/60ikpGF6cPz302ZG0kqk4s) | 3:14 | 2021-10-19 | 2022-07-29 |
 | [bottlerocket](https://open.spotify.com/track/6meqtPZTfzDzYenqPY9DC8) | [Astrobrite](https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ) | [Crush](https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw) | 3:14 | 2021-10-19 | 2022-12-13 |
@@ -176,6 +177,7 @@
 | [Fields](https://open.spotify.com/track/2ryh0usciIkkHrtlgsv1gC) | [JAUS](https://open.spotify.com/artist/0m43w9Hjef7w2XWtttk7j2) | [Fields](https://open.spotify.com/album/3zxXCJpeI1PcsNI8e4JVE6) | 3:50 | 2021-10-19 | 2022-07-29 |
 | [Firefly](https://open.spotify.com/track/5Fmk7akgjEpRI4vvu7CQ2m) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1), [Stella Tran](https://open.spotify.com/artist/3yETcd6deerTsw8RJDqW01) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 6:25 | 2021-10-19 | 2023-01-14 |
 | [Flood Into](https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE) | 3:01 | 2023-03-10 | 2023-07-22 |
+| [floor](https://open.spotify.com/track/5zf733d1cp4qk7uah0moKq) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [happyyy](https://open.spotify.com/album/4xFzkTYNjBrLg9KRNUyXWm) | 1:34 | 2023-10-13 |  |
 | [Flores Rotas](https://open.spotify.com/track/4Kpx1Srna5losw7gIq1Kkv) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [Flores Rotas](https://open.spotify.com/album/4aLjH5HM35HSeShlbFYymW) | 5:05 | 2021-12-02 | 2022-07-29 |
 | [flower](https://open.spotify.com/track/1U1HCNmMUk1tCZDU7ME9y2) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [ok](https://open.spotify.com/album/26zISVi1kzYcpi3tkMfUvs) | 1:15 | 2023-06-14 | 2023-06-21 |
 | [flutter](https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [flutter](https://open.spotify.com/album/0r2dEhL4Ijur6WDzvgXygl) | 4:27 | 2023-01-12 |  |
@@ -224,6 +226,7 @@
 | [I Just Want To See Your Face](https://open.spotify.com/track/7a5EClvwLoJO6nOKBpwqO7) | [Serena\-Maneesh](https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb) | [S\-M 2: Abyss In B Minor](https://open.spotify.com/album/4I8nWyG5oG9c9HEgLvhiRR) | 2:18 | 2021-10-19 | 2022-07-25 |
 | [I Think It's Light Outside](https://open.spotify.com/track/0VFtbHmwmD2aZ3MjfOyipM) | [Secret Machines](https://open.spotify.com/artist/67HNxzMi851bSGexRUBtgn) | [The Moth, The Lizard, And The Secret Machines](https://open.spotify.com/album/21dYzZhlxvBeHShNB26zHu) | 4:31 | 2023-03-24 | 2023-05-23 |
 | [idk how to luv](https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [idk how to luv](https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3) | 2:30 | 2023-03-10 | 2023-09-30 |
+| [im not](https://open.spotify.com/track/1xDS1zCdbKILaRSSCFe1Dq) | [sodistilled](https://open.spotify.com/artist/54S56FDCzOYP1EY3hb7wbW) | [im not](https://open.spotify.com/album/3RBo4g7bbqLAjUaxvGy34O) | 1:45 | 2023-10-13 |  |
 | [In Love with Useless \(The Timeless Geometry in the Tradition of Passing\)](https://open.spotify.com/track/6X9uwtzTwsJ58lgcqa3Vmz) | [A Sunny Day In Glasgow](https://open.spotify.com/artist/6ri0XKbaMvGEQ6r7fSee8g) | [Sea When Absent](https://open.spotify.com/album/6V15ZxQvFbfbajjXEetZrL) | 5:07 | 2021-10-19 | 2022-07-13 |
 | [In The Hanging Gardens](https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 5:15 | 2021-10-19 | 2022-07-28 |
 | [In Your Room](https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE) | 9:26 | 2021-10-19 | 2023-06-17 |
@@ -280,7 +283,8 @@
 | [Luminous](https://open.spotify.com/track/0HIqiZlMuJm7fV4CyxaQF2) | [Youthlim](https://open.spotify.com/artist/0rHYAz4lrtdEHOXNZA7XzC) | [Luminous](https://open.spotify.com/album/001WORXD9jU5p2yIcfzHfd) | 6:08 | 2022-01-19 | 2022-07-19 |
 | [Lux](https://open.spotify.com/track/6VDgwdarNZ5yaQAWhSFPS5) | [Zeruel](https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu) | [Lux](https://open.spotify.com/album/5kHxWoHIvm5u8rV6DD4flR) | 2:42 | 2023-07-21 | 2023-09-30 |
 | [Making Room](https://open.spotify.com/track/2CoP6BbpUoMmTfks7WeDHX) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Together](https://open.spotify.com/album/428iId26KsW5U3fhyC7S3W) | 3:46 | 2022-04-12 | 2023-01-14 |
-| [Mantra](https://open.spotify.com/track/5t8ykLn9zmfzzFtA5bWBlc) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Mantra](https://open.spotify.com/album/3yBPUOCTZbu2FdwvR2piFY) | 6:28 | 2023-10-12 |  |
+| [Mantra](https://open.spotify.com/track/5iPdRGqkEDG3Y8xTt76Z4T) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [yoyo](https://open.spotify.com/album/4wdbBDjGWuLAN8WQlSDN0H) | 6:28 | 2023-10-12 |  |
+| [Mantra](https://open.spotify.com/track/5t8ykLn9zmfzzFtA5bWBlc) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Mantra](https://open.spotify.com/album/3yBPUOCTZbu2FdwvR2piFY) | 6:28 | 2023-10-12 | 2023-10-14 |
 | [means to an end \(not enough\)](https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [means to an end \(not enough\)](https://open.spotify.com/album/3lSgb650mqEWwBGZB2vwDT) | 4:40 | 2023-02-09 | 2023-08-12 |
 | [Melody Experiment](https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody Experiment](https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho) | 5:10 | 2023-06-30 |  |
 | [Mind the Wires](https://open.spotify.com/track/0rEVhkcwdi9CcKANWYV0Ot) | [Tears Run Rings](https://open.spotify.com/artist/0cNUrcNznBuZErkcSdHoxJ) | [Always, Sometimes, Seldom, Never](https://open.spotify.com/album/795uPXiy5JMXIpsHtEYmoV) | 4:53 | 2021-10-19 | 2022-12-16 |
@@ -380,6 +384,7 @@
 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 | 2021-10-19 | 2023-05-10 |
 | [Stick](https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH) | 3:22 | 2021-10-19 | 2023-04-16 |
 | [Stick](https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3) | 3:22 | 2021-10-19 | 2023-06-08 |
+| [Stick](https://open.spotify.com/track/6MVDqPlrnS0vfH8BI0DY4p) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Tomorrow's Fire](https://open.spotify.com/album/5GYQtBhrKfobrD0RkFF43Z) | 3:02 | 2023-10-13 |  |
 | [Strawberry](https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/5aZjNX2D52tzOPM2FMcA0v) | 3:29 | 2022-01-07 | 2023-06-08 |
 | [Strawberry](https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt) | 3:29 | 2022-01-07 | 2023-02-03 |
 | [Strawberry Cream](https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF) | [Oeil](https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7) | [Urban Twilight \(Remaster\)](https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI) | 3:50 | 2022-12-15 | 2023-06-24 |

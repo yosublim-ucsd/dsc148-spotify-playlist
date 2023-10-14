@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,276 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,291 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 70 | [The Fox \- Remastered 2014](https://open.spotify.com/track/6kEZ6Xa87zYFDCRX69mxK5) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Trompeta Toccata \(Remastered 2014\)](https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl) | 8:00 |
 | 71 | [French Spice \- Remaster 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/1Mg3SMOgU9XFyrEdIIgjSk) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Free Form \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4) | 8:02 |
 | 72 | [Portsmouth Figurations](https://open.spotify.com/track/3D0W1LYyO4yp2QjEg6UiJS) | [Gary Burton Quartet](https://open.spotify.com/artist/2vB9VR5CJ70elfI1wWrvBl) | [Duster](https://open.spotify.com/album/7hA6gmViMYYoSpb8FxJsFf) | 3:05 |
-| 73 | [Easterly Winds \- Remastered 2004](https://open.spotify.com/track/1XZrDnwGRDzElcXigwhUSb) | [Jack Wilson](https://open.spotify.com/artist/1MJpO71ShS9nmFAbT6KM2n) | [Easterly Winds \(Remastered\)](https://open.spotify.com/album/1Xist2IJU302l9yVzyVoYz) | 5:56 |
-| 74 | [Kahlil The Prophet](https://open.spotify.com/track/25UXC18kep4qTng1062Fjf) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Destination...Out!](https://open.spotify.com/album/5G3L2XFdPWxKmsFSljLjj1) | 10:24 |
+| 73 | [Kahlil The Prophet](https://open.spotify.com/track/25UXC18kep4qTng1062Fjf) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Destination...Out!](https://open.spotify.com/album/5G3L2XFdPWxKmsFSljLjj1) | 10:24 |
+| 74 | [Easterly Winds \- Remastered 2004](https://open.spotify.com/track/1XZrDnwGRDzElcXigwhUSb) | [Jack Wilson](https://open.spotify.com/artist/1MJpO71ShS9nmFAbT6KM2n) | [Easterly Winds \(Remastered\)](https://open.spotify.com/album/1Xist2IJU302l9yVzyVoYz) | 5:56 |
 | 75 | [Sao Paulo \- Remastered 2014](https://open.spotify.com/track/1USV1eumNSdlqPCSOkOUg4) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Una Mas \(Remastered 2014\)](https://open.spotify.com/album/5CWHeD4i4D8ytWcttJ2SpZ) | 7:17 |
 | 76 | [Idle While \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/2SmyY2bDv75ogpDUqXEvL8) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Dialogue](https://open.spotify.com/album/5142jRc6IrvsI7F6V7tUy2) | 6:37 |
 | 77 | [East of the Sun \- Live@Monterey](https://open.spotify.com/track/0oanzoMD8tt7YMkgaAd6Gj) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Forest Flower: Charles Lloyd At Monterey](https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD) | 10:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 99 | [D Minor Mint \- Remastered 2004](https://open.spotify.com/track/7ALt0a2CpJrDiMQZkdxyNY) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Breaking Point](https://open.spotify.com/album/0FeZbhuzIoD7E5ru2eDpIH) | 6:24 |
 | 100 | [Melonae's Dance \- Remastered](https://open.spotify.com/track/6E9PgCW9kMhkIZuuCXcc5K) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Jackie's Bag](https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P) | 6:46 |
 
-Snapshot ID: `MCxmYTZhMzAxYzIzYmM5YWU0YzBlYTNjOTVhMTUwNzc1NTQ0ZWM5NmNj`
+Snapshot ID: `MCwwMDlkMjM4NTdmOWRlZGFiN2ViZmE5MGMzNzkyYjMxNTFlMWJmZWM2`

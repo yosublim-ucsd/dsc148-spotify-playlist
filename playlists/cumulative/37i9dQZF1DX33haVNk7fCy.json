@@ -230,10 +230,28 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 207309,
       "name": "Baarishein",
       "url": "https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg"
+    },
+    {
+      "album": {
+        "name": "Baarishein",
+        "url": "https://open.spotify.com/album/2LeZ6oWQed5ewVUpyGJKDh"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207312,
+      "name": "Baarishein",
+      "url": "https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W"
     },
     {
       "album": {
@@ -1342,6 +1360,24 @@
     {
       "album": {
         "name": "Riha",
+        "url": "https://open.spotify.com/album/57CUE1rhe5wit99tVR2GzZ"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287312,
+      "name": "Riha",
+      "url": "https://open.spotify.com/track/54XrOdhUS2311wIt9m0OlD"
+    },
+    {
+      "album": {
+        "name": "Riha",
         "url": "https://open.spotify.com/album/6jL8rcC7NYpkHEBAjI4Zw6"
       },
       "artists": [
@@ -1352,7 +1388,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 287323,
       "name": "Riha",
       "url": "https://open.spotify.com/track/6Ln89sczgIcAJXGAIdS94R"

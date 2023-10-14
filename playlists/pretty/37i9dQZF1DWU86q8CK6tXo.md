@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover:  <a href=“spotify:artist:5GGJosGMs08YEmKTZJe1fL”>Suki Waterhouse</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,585 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,615 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 19 | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl) | 2:41 |
 | 20 | [Black Dress](https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Black Dress](https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9) | 3:57 |
 | 21 | [PATRAS \(with Yahritza Y Su Esencia\)](https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:51 |
-| 22 | [Lemon](https://open.spotify.com/track/0pMmIEwZpl31qkiUqSAYBo) | [SMITH](https://open.spotify.com/artist/4XOIQF9cT5At4H0qcjhVL7) | [Lemon](https://open.spotify.com/album/1kG83ZnIwWZmoAkAvQYWFA) | 2:41 |
-| 23 | [ALL NIGHT](https://open.spotify.com/track/7JUNheFeoB0wTzBcq9BvF8) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [QUEEN DEGENERATE](https://open.spotify.com/album/4ZDAY6ZwhHKpy3W7e6Yo4g) | 2:56 |
+| 22 | [ALL NIGHT](https://open.spotify.com/track/7JUNheFeoB0wTzBcq9BvF8) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [QUEEN DEGENERATE](https://open.spotify.com/album/4ZDAY6ZwhHKpy3W7e6Yo4g) | 2:56 |
+| 23 | [Lemon](https://open.spotify.com/track/0pMmIEwZpl31qkiUqSAYBo) | [SMITH](https://open.spotify.com/artist/4XOIQF9cT5At4H0qcjhVL7) | [Lemon](https://open.spotify.com/album/1kG83ZnIwWZmoAkAvQYWFA) | 2:41 |
 | 24 | [HOY ME PORTO MAL](https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [HOY ME PORTO MAL](https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ) | 2:13 |
 | 25 | [Rhinestone Heart](https://open.spotify.com/track/28TbRayU38hCt7vYvRbHM4) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [STARFUCKER](https://open.spotify.com/album/5sjBJH8HZKiBGEa4guEHcL) | 2:29 |
 | 26 | [I Got Heaven](https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l) | 2:58 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 35 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 |
 | 36 | [Bigger Than The Song](https://open.spotify.com/track/5v3r5BBXflOj5vedGJb1v8) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Bigger Than The Song](https://open.spotify.com/album/7i0OwcTKu2NSs6CNnuP653) | 3:09 |
 | 37 | [Sunglasses At Night](https://open.spotify.com/track/6SbjCiX0QB41ToJi1aXPuw) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [Sunglasses At Night](https://open.spotify.com/album/7K28YTMpPAEEAP0oSrlOmi) | 2:59 |
-| 38 | [Linda Natural](https://open.spotify.com/track/61C5r6fPRxNFoOUG7JQPfH) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Linda Natural](https://open.spotify.com/album/6CQRznzuAM7gKDTlfcrNQx) | 2:22 |
-| 39 | [Body](https://open.spotify.com/track/5t8FBhJKbpBCskmOaMRxQW) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Body](https://open.spotify.com/album/3wTOyUsrPYyyByd6kMkZRn) | 2:47 |
-| 40 | [One Pill](https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [One Pill](https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio) | 3:37 |
+| 38 | [One Pill](https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [One Pill](https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio) | 3:37 |
+| 39 | [Linda Natural](https://open.spotify.com/track/61C5r6fPRxNFoOUG7JQPfH) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Linda Natural](https://open.spotify.com/album/6CQRznzuAM7gKDTlfcrNQx) | 2:22 |
+| 40 | [Body](https://open.spotify.com/track/5t8FBhJKbpBCskmOaMRxQW) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Body](https://open.spotify.com/album/3wTOyUsrPYyyByd6kMkZRn) | 2:47 |
 | 41 | [U Fool](https://open.spotify.com/track/1FFjMvlFNNr4OfXjbQaGOJ) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [U Fool](https://open.spotify.com/album/4Ic0bjOCuwSglRn1KnC5fB) | 3:47 |
 | 42 | [Jealous Moon](https://open.spotify.com/track/6hHTBOwgnAGOLcHFDlYknX) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Jealous Moon](https://open.spotify.com/album/1rWmeFnn1ucnPJCHedPDl7) | 4:24 |
 | 43 | [good cry](https://open.spotify.com/track/3tuuvlzu72PRKCb9IxFXst) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Take What You Need](https://open.spotify.com/album/3nR9KOMEB7VhY8PlyiK11d) | 2:39 |
 | 44 | [Terrenas](https://open.spotify.com/track/09bjw433XQN5p3M9lSyToN) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Terrenas](https://open.spotify.com/album/06Q5tx0RnwRsyUG9lxXl6p) | 2:52 |
-| 45 | [Faltó](https://open.spotify.com/track/3YMbT29QAQNiuC6VWP1uic) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Falto](https://open.spotify.com/album/5Zg6mTfVdWz6UQcdEwRaHk) | 2:36 |
-| 46 | [GIRLS GIRLS GIRLS](https://open.spotify.com/track/0LMry7J6N4fouJrOkpDjXy) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [GIRLS GIRLS GIRLS](https://open.spotify.com/album/1ZHkFJ13emPD3qYZVOGMqx) | 2:57 |
+| 45 | [GIRLS GIRLS GIRLS](https://open.spotify.com/track/0LMry7J6N4fouJrOkpDjXy) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [GIRLS GIRLS GIRLS](https://open.spotify.com/album/1ZHkFJ13emPD3qYZVOGMqx) | 2:57 |
+| 46 | [Faltó](https://open.spotify.com/track/3YMbT29QAQNiuC6VWP1uic) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Falto](https://open.spotify.com/album/5Zg6mTfVdWz6UQcdEwRaHk) | 2:36 |
 | 47 | [como yo](https://open.spotify.com/track/3INvtnbBJSYi0ZmRRi0aSh) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Cumbialicious](https://open.spotify.com/album/0nbjdwPL1EjjNmVZr8hTnG) | 3:08 |
 | 48 | [You Know How](https://open.spotify.com/track/1DIA047bxy09Z1IAzEf2wc) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:44 |
 | 49 | [Back Into It](https://open.spotify.com/track/1Oj3Co069DI1DLxbVLU0au) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Back Into It](https://open.spotify.com/album/5Pg1l7PCtNxoL6HQWy6OSX) | 3:18 |
 | 50 | [GAS](https://open.spotify.com/track/22Uq8APwbxC5vTuQaxswfJ) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [GAS](https://open.spotify.com/album/1E9i3K2aDCotq9DN9D3ZWB) | 2:27 |
 
-Snapshot ID: `MCw1ZjdjYjQzZmUyNTEwM2E3MWI4M2Q1MzFmZDJmODNiZDhmMmExNzZm`
+Snapshot ID: `MCxjOTJlOWU2MDA4YjQ4ZmI2ZGFkNmUzY2FkNmE1MTlmNmM3YjM2MGVi`

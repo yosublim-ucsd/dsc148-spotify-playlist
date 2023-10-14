@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Ease into the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,616 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,129 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 |
 | 2 | [Monday Comes Around \(Sleeping At Last Version\)](https://open.spotify.com/track/3HkohZNvcVBLXEr2t4z7TL) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 3:36 |
-| 3 | [Feel This Way Too](https://open.spotify.com/track/3RO7i5x4x7iPsm0o1AKzBU) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Feel This Way Too](https://open.spotify.com/album/21gSKSi1yQ1dSXDembzlpe) | 4:32 |
+| 3 | [Feel This Way Too](https://open.spotify.com/track/4pjo6uHUuP2FgoBfphagOd) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Reasons Why](https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh) | 4:32 |
 | 4 | [Make It Work](https://open.spotify.com/track/6z2Yyi7djrqPL2OalDW8ha) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Make It Work](https://open.spotify.com/album/7JHovvwDzAaSFc2vDw5DTG) | 3:07 |
 | 5 | [With Me](https://open.spotify.com/track/2LviX2K6A98fRLLi1KLuo2) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor), [Anthony de la Torre](https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4) | [With Me](https://open.spotify.com/album/5KwenN0bRpyZmFYN1zLPBE) | 2:32 |
 | 6 | [80's Baby](https://open.spotify.com/track/4uHKi2GTJEsNgssBLqjv8z) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [80's Baby](https://open.spotify.com/album/5PG0AmjEASRuW7XxFPYLQq) | 4:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 99 | [Next Time](https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Next Time](https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6) | 3:17 |
 | 100 | [Only The Lonely](https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Only The Lonely](https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk) | 3:52 |
 
-Snapshot ID: `MCw5ZWYzZmRjNTM3NmM0ODc1NmRlNDg2M2ZiOWU0NjUzMmZjMWI1NzJl`
+Snapshot ID: `MCw3YTZjYzI5MjRmMTAxZGVmNzQ0Y2U0MDU2NmYyYzk1YjE5OGJmMzRl`

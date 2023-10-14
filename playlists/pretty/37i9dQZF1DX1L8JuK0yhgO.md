@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,902 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,909 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 8 | [Kimi Ja Nai](https://open.spotify.com/track/6RuOpHdQj7pJoJA1Xyfuwz) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N), [mashoe'](https://open.spotify.com/artist/5MPZJyDVTTKSdkli4U4k6Z) | [Kimi Ja Nai](https://open.spotify.com/album/0m6rWQpinh7nu9mdDBQrrr) | 3:05 |
 | 9 | [Hyper](https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hyper](https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N) | 4:17 |
 | 10 | [RUMBLE](https://open.spotify.com/track/5TJii7hQr93G7yYdgO5RAU) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Masato](https://open.spotify.com/artist/11xDXwn09ERXhnM1wZgywo) | [RUMBLE](https://open.spotify.com/album/1q3QicMrnFJ4RrdFcVyvig) | 4:41 |
-| 11 | [peanut phenomenon \- six impala remix](https://open.spotify.com/track/1mFdnNncviy9Xlx4VmEPH0) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW), [Peanuts\-kun](https://open.spotify.com/artist/60ozr90VmyvHkoiLXDGafV) | [peanut phenomenon \(six impala remix\)](https://open.spotify.com/album/5LsE0YZr2XCXl8y40AIePJ) | 4:21 |
+| 11 | [peanut phenomenon \- six impala remix](https://open.spotify.com/track/7DbvW1SH8AGJM3SOZmi2zp) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW), [Peanuts\-kun](https://open.spotify.com/artist/60ozr90VmyvHkoiLXDGafV) | [GOOD POP REMIXES](https://open.spotify.com/album/1CxF69zNhAqSkVbzh2Y8pR) | 4:21 |
 | 12 | [Blanket](https://open.spotify.com/track/34mIasINn8fmO54la1cDaM) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Blanket](https://open.spotify.com/album/1yUYTi45DvH4lTZnrX9hib) | 1:57 |
 | 13 | [I Feel Something Like That](https://open.spotify.com/track/0JbrWWQiqT0L45zUNM6GYQ) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3), [RUZZY TATTOO COLOUR](https://open.spotify.com/artist/5umzj4PGA5pKpgr40TMbsz) | [Hey Mom,Did You See Me In The Newspaper?](https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx) | 3:29 |
 | 14 | [individuality](https://open.spotify.com/track/0MsKp85ae7lEEQmOlykug3) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [Human Being](https://open.spotify.com/album/10Wr7astO9QsiJGIZyeWs7) | 3:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [What are you doing now](https://open.spotify.com/track/4Wp4Tptf9GMeKkljwJHvAY) | [Clearr Note](https://open.spotify.com/artist/7DZC3SoU3g5wrkYObbhTDk) | [What are you doing now](https://open.spotify.com/album/5hqr7DbSMbfW0NNbkG91ap) | 1:42 |
 | 60 | [You've Got A Friend](https://open.spotify.com/track/4aM5tFMceaO2VlhcdEDhk2) | [KODAMA AND THE DUB STATION BAND](https://open.spotify.com/artist/6EI7t3mczkCqKUNIsFtyKH) | [You've Got A Friend](https://open.spotify.com/album/0Om9ccW2UD8X2BI1lUerOP) | 5:01 |
 
-Snapshot ID: `MCwzN2NhOTA1NmViODVkMWFiNTI1Y2JjNzI0ZDM5M2I3MDc3Y2NhOGU2`
+Snapshot ID: `MCw1Y2M4ZjBiZjNjZjI5ZGIxMGMwMjczMGM3ZjdjMGY1ZGVhYmIxMDA1`

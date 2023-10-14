@@ -312,7 +312,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 161123,
       "name": "do u really? (with Ruth B.)",
       "url": "https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 164710,
       "name": "For You",
       "url": "https://open.spotify.com/track/6jG0kTVLlfdKtZMUjoyMAI"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 200840,
       "name": "More To This Life",
       "url": "https://open.spotify.com/track/6zPyE3kqAboGKv2iKNOEcR"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 217125,
       "name": "Over",
       "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 201226,
       "name": "Sie",
       "url": "https://open.spotify.com/track/07gGSxcPN5iEnszYgtx73S"
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 135320,
       "name": "sommernacht",
       "url": "https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI"
@@ -1530,6 +1530,24 @@
       "duration_ms": 194946,
       "name": "Spiegelbild",
       "url": "https://open.spotify.com/track/0rt8k3nUqVpM4lc5KRdkOf"
+    },
+    {
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
       "album": {
@@ -1681,6 +1699,24 @@
     },
     {
       "album": {
+        "name": "Utopie",
+        "url": "https://open.spotify.com/album/7k8u3WFdC2fHOmp9VWsC2E"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163026,
+      "name": "Utopie",
+      "url": "https://open.spotify.com/track/5dEk2G5Cdklq7eZFCrTIkm"
+    },
+    {
+      "album": {
         "name": "vielleicht in einem jahr",
         "url": "https://open.spotify.com/album/13QzEFvk3yyGMTw4ucm41U"
       },
@@ -1718,7 +1754,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 186795,
       "name": "Waiting Forever",
       "url": "https://open.spotify.com/track/4Slh7mZfToAtPaQXdoBM3c"
@@ -1794,6 +1830,24 @@
       "duration_ms": 213851,
       "name": "Wir haben den Winter \u00fcberlebt",
       "url": "https://open.spotify.com/track/07kPTchc4mhslGur0QF6lj"
+    },
+    {
+      "album": {
+        "name": "Von Wind und Anonymit\u00e4t",
+        "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213851,
+      "name": "Wir haben den Winter \u00fcberlebt",
+      "url": "https://open.spotify.com/track/0pNWfgjldlMtuyp28kspFY"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZESE3fHLhmD"

@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 225360,
       "name": "Fires Don't Start Themselves",
       "url": "https://open.spotify.com/track/6Ahy5fItdBfXRVWYOLo7pM"
@@ -1745,6 +1745,28 @@
     },
     {
       "album": {
+        "name": "TWENTY SOMETHING",
+        "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200893,
+      "name": "ghost in my guitar (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG"
+    },
+    {
+      "album": {
         "name": "TWENTY SOMETHING: Figuring It Out",
         "url": "https://open.spotify.com/album/1JcMkDyAk2OHljYXOmJpki"
       },
@@ -1760,7 +1782,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 200893,
       "name": "ghost in my guitar (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/2tva3AvqXjPsMMLHknGGwe"
@@ -5826,6 +5848,24 @@
       "duration_ms": 172999,
       "name": "Whiskey Can't",
       "url": "https://open.spotify.com/track/583kGzEQ7eZRrQCeGNfiUk"
+    },
+    {
+      "album": {
+        "name": "Whiskey Drink",
+        "url": "https://open.spotify.com/album/4g06Vx2YKohoVR7FX33l9C"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Whiskey Drink",
+      "url": "https://open.spotify.com/track/5uU4GKzz0x4ma1udXnLf6O"
     },
     {
       "album": {

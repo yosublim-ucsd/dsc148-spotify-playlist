@@ -1,15 +1,15 @@
 {
   "description": "Le rap francophone est en forme. Photo: Dave, Tiakola",
-  "num_followers": 10961,
+  "num_followers": 11026,
   "original_name": "Connexion Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTUwYTIzYjg0NDNlOGEzMTU3ODdmMTg4MDBjYzU0NGZmM2E3ZTFj",
+  "snapshot_id": "MCxkNjljMmI1ZmJiYjc2NDU0NDY2YTY1YzIwMWZlZDUyNjQ3NDFmNmU5",
   "tracks": [
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Meridian",
         "url": "https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "ADC",
         "url": "https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM"
@@ -45,10 +45,30 @@
       "url": "https://open.spotify.com/track/7CpI3rs2A4etl7VXghjfWe"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "H\u00c9RITAGE",
-        "url": "https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K"
+        "name": "BRUT4L",
+        "url": "https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC"
+      },
+      "artists": [
+        {
+          "name": "Ikaz Boi",
+          "url": "https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "BALLE DANS LE COEUR",
+      "url": "https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "FTG",
+        "url": "https://open.spotify.com/album/1glTvN8B0pM2VY33CJnT9v"
       },
       "artists": [
         {
@@ -56,12 +76,12 @@
           "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
         }
       ],
-      "duration_ms": 144893,
-      "name": "MIKE TANGO LIMA",
-      "url": "https://open.spotify.com/track/38bvFbzotkGZLkBNi5LYD0"
+      "duration_ms": 183443,
+      "name": "FTG",
+      "url": "https://open.spotify.com/track/5j5ar3YNnHXZlYLfVPLcHT"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Bonjour",
         "url": "https://open.spotify.com/album/3sBZDZM9mAEVN9mV3s8yj7"
@@ -81,7 +101,23 @@
       "url": "https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Roule un autre (A COLORS SHOW)",
+        "url": "https://open.spotify.com/album/0ddT6KMNHM7qXZQww6yZWx"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "duration_ms": 176086,
+      "name": "Roule un autre - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Saiyan",
         "url": "https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK"
@@ -101,7 +137,23 @@
       "url": "https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Mauvais r\u00eave",
+        "url": "https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "duration_ms": 170413,
+      "name": "Mauvais r\u00eave",
+      "url": "https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "\u16b7. INSPIR\u00c9 DE FAITS R\u00c9ELS #6",
         "url": "https://open.spotify.com/album/4HqxQlBSI8N5u9OnPCRXNZ"
@@ -117,71 +169,7 @@
       "url": "https://open.spotify.com/track/0QqP2jJFb8RhGjugYSbFxf"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
-      "album": {
-        "name": "1942",
-        "url": "https://open.spotify.com/album/2oQpRsIZLxm9UrC2AQpmAm"
-      },
-      "artists": [
-        {
-          "name": "Enima",
-          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "1942",
-      "url": "https://open.spotify.com/track/2p5gQtpYZLmhZPyYYgTWuW"
-    },
-    {
-      "added_at": "2023-09-26 18:52:56",
-      "album": {
-        "name": "Shavkat",
-        "url": "https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x"
-      },
-      "artists": [
-        {
-          "name": "Freeze corleone",
-          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
-        }
-      ],
-      "duration_ms": 219865,
-      "name": "Shavkat",
-      "url": "https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l"
-    },
-    {
-      "added_at": "2023-09-26 18:52:56",
-      "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/7jMCdSNccIuSFNDfl8spLk"
-      },
-      "artists": [
-        {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
-        }
-      ],
-      "duration_ms": 184109,
-      "name": "21",
-      "url": "https://open.spotify.com/track/6w7lhVlpPkjSAdd4AhKWzN"
-    },
-    {
-      "added_at": "2023-09-26 18:52:56",
-      "album": {
-        "name": "Liens du 100",
-        "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 176746,
-      "name": "Bolide allemand",
-      "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
-    },
-    {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
@@ -201,7 +189,87 @@
       "url": "https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "1942",
+        "url": "https://open.spotify.com/album/2oQpRsIZLxm9UrC2AQpmAm"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        }
+      ],
+      "duration_ms": 219053,
+      "name": "1942",
+      "url": "https://open.spotify.com/track/2p5gQtpYZLmhZPyYYgTWuW"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Shavkat",
+        "url": "https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x"
+      },
+      "artists": [
+        {
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
+        }
+      ],
+      "duration_ms": 219865,
+      "name": "Shavkat",
+      "url": "https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/7jMCdSNccIuSFNDfl8spLk"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "duration_ms": 184109,
+      "name": "21",
+      "url": "https://open.spotify.com/track/6w7lhVlpPkjSAdd4AhKWzN"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Liens du 100",
+        "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 176746,
+      "name": "Bolide allemand",
+      "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "H\u00c9RITAGE",
+        "url": "https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "duration_ms": 144893,
+      "name": "MIKE TANGO LIMA",
+      "url": "https://open.spotify.com/track/38bvFbzotkGZLkBNi5LYD0"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "LA RUE",
         "url": "https://open.spotify.com/album/7IaBlF8e6NvoKSiE0SXRP1"
@@ -225,7 +293,7 @@
       "url": "https://open.spotify.com/track/7EO5oDxrq2dvYDgBjFvFYY"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Int\u00e9gral 2 #POV",
         "url": "https://open.spotify.com/album/1Pp29brafMioAYDYXJSM1D"
@@ -245,7 +313,7 @@
       "url": "https://open.spotify.com/track/6IPZTZjbaVxzKDTU2ZBn1w"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Finale - Nouvelle \u00c9cole",
         "url": "https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS"
@@ -261,7 +329,23 @@
       "url": "https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Death Note",
+        "url": "https://open.spotify.com/album/2AVGEBmOIgBFwdtFLzARi4"
+      },
+      "artists": [
+        {
+          "name": "Zinera",
+          "url": "https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn"
+        }
+      ],
+      "duration_ms": 167444,
+      "name": "Death Note",
+      "url": "https://open.spotify.com/track/5lK58jbXWVRXQ9EYvAWPse"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "J'Fonce",
         "url": "https://open.spotify.com/album/5F3UHcdI6u3T3C3l7ujJOM"
@@ -281,7 +365,7 @@
       "url": "https://open.spotify.com/track/2HondNQ2pnnAYxRrWUDezm"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Quali",
         "url": "https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF"
@@ -297,27 +381,7 @@
       "url": "https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
-      "album": {
-        "name": "H\u00c9RITAGE",
-        "url": "https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K"
-      },
-      "artists": [
-        {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-        },
-        {
-          "name": "Loud",
-          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
-        }
-      ],
-      "duration_ms": 284801,
-      "name": "PARANO",
-      "url": "https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia"
-    },
-    {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "MONNAIE",
         "url": "https://open.spotify.com/album/6ARWG8BntraLXVsELp9JkI"
@@ -337,7 +401,7 @@
       "url": "https://open.spotify.com/track/51pddJ1sTmqHgSV8Wh4MCg"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Immonde",
         "url": "https://open.spotify.com/album/3x78Oog0LtAlT75BAshBZ3"
@@ -357,7 +421,7 @@
       "url": "https://open.spotify.com/track/21QfY11V5UmQ3xZJVoK5A2"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "2069'",
         "url": "https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq"
@@ -373,7 +437,7 @@
       "url": "https://open.spotify.com/track/66TAAKeoOD0cFpVRug9IXZ"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "TP",
         "url": "https://open.spotify.com/album/6Mkan2lPAHIebVP04fQucL"
@@ -393,7 +457,7 @@
       "url": "https://open.spotify.com/track/71BbAEWBJIaewEK5seMkCg"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
@@ -413,7 +477,7 @@
       "url": "https://open.spotify.com/track/3t6CmLKKMFxclNBzvJd51t"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Holla",
         "url": "https://open.spotify.com/album/5C9ivT1fN9yRG73t18040F"
@@ -429,7 +493,7 @@
       "url": "https://open.spotify.com/track/3xMeqBNtZ5vyjcWlnfpTb4"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "C'est carr\u00e9 le S",
         "url": "https://open.spotify.com/album/1qDBDmqDsBfiZeWToRTu3Y"
@@ -453,43 +517,7 @@
       "url": "https://open.spotify.com/track/5v0MxVbfjFCBrEi3fQ9VHz"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
-      "album": {
-        "name": "Chien Mang\u00e9 Chien",
-        "url": "https://open.spotify.com/album/0EfEB9jjLhdhyVYHjPRdCG"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
-        },
-        {
-          "name": "Shreez",
-          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
-        }
-      ],
-      "duration_ms": 203322,
-      "name": "Chien Mang\u00e9 Chien",
-      "url": "https://open.spotify.com/track/2i0fBPihCnAu4c48PFdgvv"
-    },
-    {
-      "added_at": "2023-09-26 18:52:56",
-      "album": {
-        "name": "LA VIE RAPIDE EARLY ACCESS",
-        "url": "https://open.spotify.com/album/3HSqYFBuzJKMW5GkrDzxQq"
-      },
-      "artists": [
-        {
-          "name": "Rowjay",
-          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
-        }
-      ],
-      "duration_ms": 205337,
-      "name": "KENZO NIGO - Sur moi",
-      "url": "https://open.spotify.com/track/4C2zaqRvJjRq09u2Rar1Tx"
-    },
-    {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Ciao",
         "url": "https://open.spotify.com/album/5gbcnNg4JK4qaR6BYtdUwv"
@@ -509,7 +537,7 @@
       "url": "https://open.spotify.com/track/7hGyQqjhVw2LbCr2oZ4rUS"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "M\u00e9rit\u00e9",
         "url": "https://open.spotify.com/album/32kQLDgEXAfljcw3wgOQxk"
@@ -529,23 +557,7 @@
       "url": "https://open.spotify.com/track/5wd8lk4IpsqJomwYuzpCCy"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
-      "album": {
-        "name": "Mercure",
-        "url": "https://open.spotify.com/album/6yE3LYJwJSITg7u8uD5u1F"
-      },
-      "artists": [
-        {
-          "name": "WarEnd",
-          "url": "https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR"
-        }
-      ],
-      "duration_ms": 170078,
-      "name": "Sans nuances",
-      "url": "https://open.spotify.com/track/4waXynr0ZvdD98abYYFmiY"
-    },
-    {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "DIAMANT DU BLED",
         "url": "https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo"
@@ -565,7 +577,7 @@
       "url": "https://open.spotify.com/track/6IGg7qsBvA5xbrwz3MNHWK"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "EAU DE MARS",
         "url": "https://open.spotify.com/album/3bmTy2k4jf6KnWhs2djxfu"
@@ -581,7 +593,7 @@
       "url": "https://open.spotify.com/track/4OjqwWFfbrgsvJSArDXNyq"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "NO L\u00c8CHE \ud83d\udeab\ud83d\udc45 (feat. Fav\u00e9, Kerchak & Leto)",
         "url": "https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn"
@@ -609,7 +621,7 @@
       "url": "https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Jolie (feat. Ninho)",
         "url": "https://open.spotify.com/album/0S78h6ZbLzlZjpprrx6LO2"
@@ -629,7 +641,7 @@
       "url": "https://open.spotify.com/track/3q1FxEzXmsNmJrxaoICXzW"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Jolie Go",
         "url": "https://open.spotify.com/album/52zSoFhwybohJaFzHMI9CF"
@@ -645,7 +657,7 @@
       "url": "https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
@@ -665,7 +677,7 @@
       "url": "https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Sosa",
         "url": "https://open.spotify.com/album/0zIgRy3ocqZBUl2C6b2625"
@@ -685,7 +697,7 @@
       "url": "https://open.spotify.com/track/7rM7aSrcKeChtJA3Y6YFp4"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Qui sait ? (feat. ElGrandeToto)",
         "url": "https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr"
@@ -705,7 +717,7 @@
       "url": "https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Harry Potter",
         "url": "https://open.spotify.com/album/6MnHYmSmPstYkUu8S6stN7"
@@ -729,7 +741,7 @@
       "url": "https://open.spotify.com/track/3eNknjtpGp0Su9Nx1VTvEE"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
@@ -749,7 +761,7 @@
       "url": "https://open.spotify.com/track/4BZZTXcd5ROagKhynqj61X"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Metaverse",
         "url": "https://open.spotify.com/album/4yb1lj6MdPuKHJuQlXs5O7"
@@ -769,7 +781,7 @@
       "url": "https://open.spotify.com/track/7rzjdyHmqwloCA16UBdDgg"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "\u00c0 L'AUBE",
         "url": "https://open.spotify.com/album/3dRIUWKwJ9lTV59OXqtUN8"
@@ -789,7 +801,7 @@
       "url": "https://open.spotify.com/track/1aOy9aPUFFE73cPPUJ2kNW"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Coeur De Pirate",
         "url": "https://open.spotify.com/album/6amYcdS4hW0H69JcDrK2wY"
@@ -805,7 +817,7 @@
       "url": "https://open.spotify.com/track/2q2tG7xR37PNyqrXqooemZ"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "1.6",
         "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
@@ -821,7 +833,7 @@
       "url": "https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "zzz",
         "url": "https://open.spotify.com/album/6CiyzGH2UrOvYFhQqiyPTP"
@@ -841,7 +853,7 @@
       "url": "https://open.spotify.com/track/7dO2JbXPSd8MhXv38IKi2x"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Genkidama",
         "url": "https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ"
@@ -857,7 +869,7 @@
       "url": "https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
@@ -873,7 +885,7 @@
       "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "L'\u00c9lu",
         "url": "https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i"
@@ -889,7 +901,7 @@
       "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "QUARTIERS NORD",
         "url": "https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC"
@@ -913,7 +925,7 @@
       "url": "https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR"
     },
     {
-      "added_at": "2023-09-26 18:52:56",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Double vision",
         "url": "https://open.spotify.com/album/2gSKjDu2BgrXnrcKryoz1o"

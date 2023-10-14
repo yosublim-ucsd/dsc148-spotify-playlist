@@ -1,12 +1,12 @@
 {
   "description": "La casa de los corazones rotos.",
-  "num_followers": 1574563,
+  "num_followers": 1573673,
   "original_name": "Mal de Amores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTFmNTg2ZTY5NjQ3ZTBhNmU1NTgxZTlkNTNmZWE0ZWJmMGYyYjM0",
+  "snapshot_id": "MCwxMzdiNDZiMThiY2I5ZjlmYjIyNjU4ZTEzODgwMTBkN2Y5MTE1Y2Ew",
   "tracks": [
     {
       "added_at": "2023-09-22 19:04:40",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-09-22 19:04:40",
       "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193816,
+      "name": "NO SE VA - EN VIVO",
+      "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
+    },
+    {
+      "added_at": "2023-09-22 19:04:40",
+      "album": {
         "name": "Ojos Cerrados",
         "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 180750,
       "name": "Ojos Cerrados",
       "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
-    },
-    {
-      "added_at": "2023-09-22 19:04:40",
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 193816,
-      "name": "NO SE VA - EN VIVO",
-      "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
     },
     {
       "added_at": "2023-09-22 19:04:40",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-09-22 19:04:40",
       "album": {
+        "name": "En Vivo Desde El Nokia",
+        "url": "https://open.spotify.com/album/06bvQzfkwqSceCaZxDFWpK"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 187834,
+      "name": "El Papel Cambio (Bonus Track)",
+      "url": "https://open.spotify.com/track/7LMbe2WJ3jgk7Mn7DzXb4Z"
+    },
+    {
+      "added_at": "2023-09-22 19:04:40",
+      "album": {
         "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
         "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
       },
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2023-09-22 19:04:40",
       "album": {
-        "name": "En Vivo Desde El Nokia",
-        "url": "https://open.spotify.com/album/06bvQzfkwqSceCaZxDFWpK"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
       },
       "artists": [
         {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
         }
       ],
-      "duration_ms": 187834,
-      "name": "El Papel Cambio (Bonus Track)",
-      "url": "https://open.spotify.com/track/7LMbe2WJ3jgk7Mn7DzXb4Z"
+      "duration_ms": 178050,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
     },
     {
       "added_at": "2023-09-22 19:04:40",
@@ -1091,22 +1107,6 @@
       "duration_ms": 225213,
       "name": "Por Mi No Te Detengas",
       "url": "https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl"
-    },
-    {
-      "added_at": "2023-09-22 19:04:40",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
     },
     {
       "added_at": "2023-09-22 19:04:40",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-09-22 19:04:40",
       "album": {
+        "name": "Caminando",
+        "url": "https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Me Hubieras Dicho",
+      "url": "https://open.spotify.com/track/0NEM7h8JdcCOO2JMs22ekV"
+    },
+    {
+      "added_at": "2023-09-22 19:04:40",
+      "album": {
         "name": "Recordando A Una Leyenda",
         "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
       },
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2023-09-22 19:04:40",
       "album": {
-        "name": "Caminando",
-        "url": "https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Me Hubieras Dicho",
-      "url": "https://open.spotify.com/track/0NEM7h8JdcCOO2JMs22ekV"
-    },
-    {
-      "added_at": "2023-09-22 19:04:40",
-      "album": {
         "name": "El Indio Enamorado",
         "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
       },
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-09-22 19:04:40",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "A Qui\u00e9n Vas a Amar M\u00e1s Que a M\u00ed",
-      "url": "https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9"
-    },
-    {
-      "added_at": "2023-09-22 19:04:40",
-      "album": {
         "name": "La Otra Cara De La Moneda",
         "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 245693,
       "name": "La Otra Cara De La Moneda",
       "url": "https://open.spotify.com/track/6hwTRoFaQzmkbvh4tOoVpV"
+    },
+    {
+      "added_at": "2023-09-22 19:04:40",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "A Qui\u00e9n Vas a Amar M\u00e1s Que a M\u00ed",
+      "url": "https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9"
     },
     {
       "added_at": "2023-09-22 19:04:40",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-09-22 19:04:40",
       "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Mi Enemigo El Amor",
-      "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
-    },
-    {
-      "added_at": "2023-09-22 19:04:40",
-      "album": {
         "name": "Perdoname Mi Amor",
         "url": "https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 159373,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/5iCcDXbsM7Sj0kP7h9g60b"
+    },
+    {
+      "added_at": "2023-09-22 19:04:40",
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Mi Enemigo El Amor",
+      "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
     },
     {
       "added_at": "2023-09-22 19:04:40",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2023-09-22 19:04:40",
       "album": {
+        "name": "El Fen\u00f3meno",
+        "url": "https://open.spotify.com/album/2ha9AYHQfi9sA6sMyC5kgs"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "As\u00ed Ya No",
+      "url": "https://open.spotify.com/track/0rc9jL9G6RQHtgvIDYUmLD"
+    },
+    {
+      "added_at": "2023-09-22 19:04:40",
+      "album": {
         "name": "Te Vale Madre",
         "url": "https://open.spotify.com/album/025e1NdAZgqFznEwS9Amvm"
       },
@@ -2067,22 +2083,6 @@
       "duration_ms": 151600,
       "name": "Te Vale Madre",
       "url": "https://open.spotify.com/track/4KSBQ8YMajJPd7ParPBlV6"
-    },
-    {
-      "added_at": "2023-09-22 19:04:40",
-      "album": {
-        "name": "El Fen\u00f3meno",
-        "url": "https://open.spotify.com/album/2ha9AYHQfi9sA6sMyC5kgs"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "As\u00ed Ya No",
-      "url": "https://open.spotify.com/track/0rc9jL9G6RQHtgvIDYUmLD"
     },
     {
       "added_at": "2023-09-22 19:04:40",

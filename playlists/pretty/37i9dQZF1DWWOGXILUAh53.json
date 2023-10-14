@@ -1,13 +1,165 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: R\u00eave",
-  "num_followers": 135502,
+  "description": "The hottest new pop with all the drops. Cover: Rita Ora",
+  "num_followers": 135460,
   "original_name": "Fresh Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmRmNGNhYjIzYWVlZGUxMzY1Y2M2NmNkMTdhNWMxODI5YjI5MGY1",
+  "snapshot_id": "MCw1NmQ5ODMxNTg3MmJiNTI0MmZlYThkNGIwMjQ5ODI0MjA5YmJlYWQz",
   "tracks": [
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 166632,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "MIDNIGHT OIL",
+        "url": "https://open.spotify.com/album/6Jb0lh95dtrWjRcfgVLY17"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "MIDNIGHT OIL",
+      "url": "https://open.spotify.com/track/65qzuuS7pR1Q5nOfgvg93a"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Telephone Line",
+        "url": "https://open.spotify.com/album/1WF5kYD5BIbBKHYIyeekeG"
+      },
+      "artists": [
+        {
+          "name": "Touch Sensitive",
+          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
+        },
+        {
+          "name": "Your Smith",
+          "url": "https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1"
+        }
+      ],
+      "duration_ms": 211797,
+      "name": "Telephone Line",
+      "url": "https://open.spotify.com/track/602hMiOBUq8jmSnZxEyNdP"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 206878,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0GMZYC6lcrpnwjDiEtDO8i"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Capable of love",
+        "url": "https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 223680,
+      "name": "Capable of love",
+      "url": "https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Can't Play Myself (A Tribute To Amy)",
+        "url": "https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 174330,
+      "name": "Can't Play Myself (A Tribute To Amy)",
+      "url": "https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "SUCCUBUS",
+        "url": "https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 183879,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/2h3Pf8SrVoNpy3no4WQlEn"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "I'm My Only Friend",
+        "url": "https://open.spotify.com/album/00Z6vze8Xtk9rGTRTBrpXz"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 192016,
+      "name": "I'm My Only Friend (feat. Arden Jones)",
+      "url": "https://open.spotify.com/track/7gOxYYw4HKBa89vAAagh9q"
+    },
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
@@ -25,6 +177,22 @@
       "url": "https://open.spotify.com/track/2yp3Cqx9etkMlVVe0vourb"
     },
     {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "This Moment",
+        "url": "https://open.spotify.com/album/4Yohw2SkANTgUSmCruXeKX"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        }
+      ],
+      "duration_ms": 136825,
+      "name": "This Moment",
+      "url": "https://open.spotify.com/track/2kM9z0qXLXvUjb4MqIn1U8"
+    },
+    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "Saving Up",
@@ -39,6 +207,26 @@
       "duration_ms": 207514,
       "name": "Saving Up",
       "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Base Camp Ep",
+        "url": "https://open.spotify.com/album/5OHe12YdhU3OWFjLqTrDXk"
+      },
+      "artists": [
+        {
+          "name": "FRENSHIP",
+          "url": "https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH"
+        },
+        {
+          "name": "Drew Sycamore",
+          "url": "https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA"
+        }
+      ],
+      "duration_ms": 209672,
+      "name": "Love Like It's Religion with Drew Sycamore",
+      "url": "https://open.spotify.com/track/51D4XQWTAAShdFCH5zYTOs"
     },
     {
       "added_at": "2023-10-06 19:48:51",
@@ -527,22 +715,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "FEMININE ENERGY",
-        "url": "https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 171265,
-      "name": "FEMININE ENERGY",
-      "url": "https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Catch Me (Beautiful Fall)",
         "url": "https://open.spotify.com/album/4EsvEffXkdatx6a7ZqUGZA"
       },
@@ -771,22 +943,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Pink",
-        "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "One with the Wolves",
-      "url": "https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Drama Queen",
         "url": "https://open.spotify.com/album/04rxodRiaHUNMgIRitI437"
       },
@@ -899,30 +1055,6 @@
       "duration_ms": 143081,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Planet of the Bass (feat. DJ Crazy Times & Ms. Biljana Electronica)",
-        "url": "https://open.spotify.com/album/3fNM5L0cmVEGzmkYZIkB6X"
-      },
-      "artists": [
-        {
-          "name": "Kyle Gordon",
-          "url": "https://open.spotify.com/artist/3LjnXZYlHbblbd8OZTtSip"
-        },
-        {
-          "name": "DJ Crazy Times",
-          "url": "https://open.spotify.com/artist/7HmF22PLne8U2Hv1ZMNVPf"
-        },
-        {
-          "name": "Ms. Biljana Electronica",
-          "url": "https://open.spotify.com/artist/1h3ezgw89bB4tDRHKnqPje"
-        }
-      ],
-      "duration_ms": 200267,
-      "name": "Planet of the Bass (feat. DJ Crazy Times & Ms. Biljana Electronica)",
-      "url": "https://open.spotify.com/track/7xOjJ5v3SGlYl5Rb2c31dI"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1055,22 +1187,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Hands",
-        "url": "https://open.spotify.com/album/5OSwvy5caZkRrREeGlG4xX"
-      },
-      "artists": [
-        {
-          "name": "MINOE",
-          "url": "https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi"
-        }
-      ],
-      "duration_ms": 188205,
-      "name": "Hands",
-      "url": "https://open.spotify.com/track/0Zy0tCZZESUFUxCvKXv95j"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Need Your Love",
         "url": "https://open.spotify.com/album/12PQ5IbSS0mm4XMgQubpX9"
       },
@@ -1087,22 +1203,6 @@
       "duration_ms": 176041,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/2TSU0Ti5e5beL9mYlHbYQu"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Maybe It's You",
-        "url": "https://open.spotify.com/album/7tkl4rTfVtEnW8ih0oWCkO"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Maybe It's You",
-      "url": "https://open.spotify.com/track/0dXUMuhHDJ0rPgv3qpQ1DM"
     },
     {
       "added_at": "2023-10-06 04:00:00",

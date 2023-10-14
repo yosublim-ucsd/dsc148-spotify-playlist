@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 27872,
+  "num_followers": 27910,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTM2NGI4YjQ4OGUwYTIzODQwMjU2NzgxMmNiN2RiNTJkOTUwOWQ3",
+  "snapshot_id": "MCwzZDgyNWE4YTdmNDUwNGM2NGI0ZDJlZTM1MjEzYzliYjE5MTAzOTgw",
   "tracks": [
     {
       "added_at": "2023-09-20 06:37:46",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-09-20 06:37:46",
       "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 201510,
-      "name": "Jasmine",
-      "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
-    },
-    {
-      "added_at": "2023-09-20 06:37:46",
-      "album": {
         "name": "28 Reasons - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 189413,
       "name": "28 Reasons",
       "url": "https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex"
+    },
+    {
+      "added_at": "2023-09-20 06:37:46",
+      "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 201510,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
     },
     {
       "added_at": "2023-09-20 06:37:46",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-09-20 06:37:46",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 198949,
-      "name": "Dank",
-      "url": "https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4"
-    },
-    {
-      "added_at": "2023-09-20 06:37:46",
-      "album": {
         "name": "There And Back Again",
         "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 196986,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"
+    },
+    {
+      "added_at": "2023-09-20 06:37:46",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 198949,
+      "name": "Dank",
+      "url": "https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4"
     },
     {
       "added_at": "2023-09-20 06:37:46",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-09-20 06:37:46",
       "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 198069,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/26vcAIAnkT3d7i9B8gtpTy"
+    },
+    {
+      "added_at": "2023-09-20 06:37:46",
+      "album": {
         "name": "with HER",
         "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 208786,
       "name": "She Said (with BIBI)",
       "url": "https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W"
-    },
-    {
-      "added_at": "2023-09-20 06:37:46",
-      "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 198069,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/26vcAIAnkT3d7i9B8gtpTy"
     },
     {
       "added_at": "2023-09-20 06:37:46",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-09-20 06:37:46",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 224951,
-      "name": "2nd THOTS",
-      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
-    },
-    {
-      "added_at": "2023-09-20 06:37:46",
-      "album": {
         "name": "Neo Seoul",
         "url": "https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 195891,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc"
+    },
+    {
+      "added_at": "2023-09-20 06:37:46",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 224951,
+      "name": "2nd THOTS",
+      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
     },
     {
       "added_at": "2023-09-20 06:37:46",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-09-20 06:37:46",
       "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Okasian",
-          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
-        }
-      ],
-      "duration_ms": 244153,
-      "name": "YOU KNOW",
-      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
-    },
-    {
-      "added_at": "2023-09-20 06:37:46",
-      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 178186,
       "name": "Rebound",
       "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
+    },
+    {
+      "added_at": "2023-09-20 06:37:46",
+      "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Okasian",
+          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
+        }
+      ],
+      "duration_ms": 244153,
+      "name": "YOU KNOW",
+      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
     },
     {
       "added_at": "2023-09-20 06:37:46",
@@ -747,26 +747,6 @@
       "duration_ms": 217489,
       "name": "Justin Bieber (feat. Jay Park)",
       "url": "https://open.spotify.com/track/7lKq1zBuch1xYlwQxs9RdD"
-    },
-    {
-      "added_at": "2023-09-20 06:37:46",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "ELO",
-          "url": "https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A"
-        }
-      ],
-      "duration_ms": 243492,
-      "name": "Turn Off Your Phone (Feat. ELO) - Remix",
-      "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
     },
     {
       "added_at": "2023-09-20 06:37:46",
@@ -859,6 +839,26 @@
       "duration_ms": 194645,
       "name": "Te Quiero(feat.BIBI)",
       "url": "https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie"
+    },
+    {
+      "added_at": "2023-09-20 06:37:46",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A"
+        }
+      ],
+      "duration_ms": 243492,
+      "name": "Turn Off Your Phone (Feat. ELO) - Remix",
+      "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
     },
     {
       "added_at": "2023-09-20 06:37:46",

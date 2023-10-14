@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUij1y62UPcn.md) - [plain]
 
 > Aidez vos enfants à commencer la journée du bon pied avec ces chansons positives
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,488 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,520 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUij1y62UPcn.md) - [plain]
 | 13 | [Moi aimer toi](https://open.spotify.com/track/1qqceUwmiSLrjkPxg9OLm8) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Vianney](https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O) | 3:18 |
 | 14 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 |
 | 15 | [Chocolat \(feat\. Awa Imani\)](https://open.spotify.com/track/4fwtP5khM1iEoa6BP1QQsX) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Awa Imani](https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i) | [Clandestino](https://open.spotify.com/album/6j0ZbLhJ0uyREyXoz0KtON) | 3:55 |
-| 16 | [Jerusalema](https://open.spotify.com/track/5F6tLUQGd7GtiWID9ZEzev) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema](https://open.spotify.com/album/6Wa3TTEUxvOwUOoJsVkCF4) | 5:42 |
+| 16 | [Jerusalema \(feat\. Nomcebo Zikode\)](https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema](https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K) | 5:42 |
 | 17 | [Plus tard](https://open.spotify.com/track/6NwkyHDIPYoJNEzpb6aXCR) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vie de rêve](https://open.spotify.com/album/0glCy1Eg7cdO7RsIXXucHn) | 3:23 |
 | 18 | [Giant \(with Rag'n'Bone Man\)](https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Giant \(with Rag'n'Bone Man\)](https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K) | 3:49 |
 | 19 | [Thérapie](https://open.spotify.com/track/68lnnqUEbjOv8jZ3KhQy5m) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Lettre infinie](https://open.spotify.com/album/4yYVqX2KierVI3nDV0M2UL) | 2:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUij1y62UPcn.md) - [plain]
 | 59 | [Everything Is AWESOME!!! \(feat\. The Lonely Island\)](https://open.spotify.com/track/58vnVBWfKWIjSVvKTZJly2) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH), [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [The Lego Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0GFqFY8fZonWLoX6O6tPNX) | 2:43 |
 | 60 | [Le plus fort du monde](https://open.spotify.com/track/0ZUAu9lg95YEVqV7M0GQf8) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw) | [Éternel insatisfait \(Réédition\)](https://open.spotify.com/album/3rmi48z2cufjbMzLZYf6vI) | 3:19 |
 
-Snapshot ID: `MCxjMzhjMWYxMDc0MmMwMzEyZjZiOGY5YTgwODc4MTI1YzBiNjQxMWQ1`
+Snapshot ID: `MCxmY2NjOWI5NTU3NjkyOWI4NmQ4MTY4ZDYwOGRlZGMwMDA5NWJjOGVi`

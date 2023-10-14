@@ -2,7 +2,7 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Pitty
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Fresno
 
 383 songs - 21 hr 30 min
 

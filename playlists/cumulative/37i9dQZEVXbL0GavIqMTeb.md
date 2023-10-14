@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-770 songs - 1 day 19 hr 26 min
+771 songs - 1 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [DOMINGO DE BOTE](https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:10 | 2022-11-05 | 2022-11-10 |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2021-09-06 | 2021-10-04 |
 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 | 2021-12-13 | 2021-12-22 |
-| [DONDE SE APRENDE A QUERER?](https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 2:24 | 2023-08-30 |  |
+| [DONDE SE APRENDE A QUERER?](https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 2:24 | 2023-08-30 | 2023-10-14 |
 | [Donde?](https://open.spotify.com/track/2ZV9wvj6gu8C0oB16aD0vR) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [6.5](https://open.spotify.com/album/5QFR1S8bcR3YA68BC5tTUO) | 2:42 | 2023-09-08 | 2023-09-12 |
 | [Donde?](https://open.spotify.com/track/5iaGRmDzm4aPhttaOEK8OD) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [6.5](https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2) | 2:42 | 2023-03-07 | 2023-09-09 |
 | [Dos Mil 16](https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:28 | 2022-05-07 | 2022-07-09 |
@@ -662,6 +662,7 @@
 | [Tacones Rojos](https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:09 | 2022-02-01 | 2022-02-07 |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-10 | 2023-06-12 |
 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 | 2022-05-07 | 2022-11-26 |
+| [Tas Texteandome](https://open.spotify.com/track/7spAR93xvPOfkxIeTGbpPf) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Tas Texteandome](https://open.spotify.com/album/4lcpQOkpFBp3qGV0jR8N6v) | 2:56 | 2023-10-13 |  |
 | [TAY PAPO](https://open.spotify.com/track/2wobyrg2plnNYY9Qy8ZPBK) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [TAY PAPO](https://open.spotify.com/album/7a9RHd4sO9X1nFoSBaZzvR) | 2:53 | 2022-07-17 | 2022-09-04 |
 | [Te Amo en Silencio](https://open.spotify.com/track/7udlCswy96a5tyCtnVINUN) | [Entremares](https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU) | [La Vida en Versos..](https://open.spotify.com/album/7BuhI0plokfjW5QaDepizy) | 1:58 | 2023-09-14 | 2023-09-22 |
 | [Te Deseo Muy Felices Fiestas](https://open.spotify.com/track/45fKgDxHS174490B3qruhx) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 4:15 | 2021-12-26 | 2021-12-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl?si=BG7B9bJ\-TwWccNonxJ5DhA"> أصالة </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,687 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,799 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [GALEK EIN](https://open.spotify.com/track/6qmxkmnQbq0lerMrj07NS0) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [GALEK EIN](https://open.spotify.com/album/5ihTnM8oVZm29OOYTWAWfL) | 3:46 |
 | 75 | [Ktab Maftoh](https://open.spotify.com/track/2HznblRR4j5w8QkSH1e8El) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Ktab Maftoh](https://open.spotify.com/album/4Zk52gbAM5A88NjkghWQpR) | 4:30 |
 
-Snapshot ID: `MCw3MjhhZGM5MGE4NjE3NjFlY2YyMTc4ZTdmOWFmMmRmNjFkMzhiNTI0`
+Snapshot ID: `MCxkNWU5OTY2ZTM2YzE0YmZhMThiNzAyMDc0NGJlODk3ZDliZWU3OThi`

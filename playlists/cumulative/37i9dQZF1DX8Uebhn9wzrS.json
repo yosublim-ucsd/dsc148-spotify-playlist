@@ -8828,7 +8828,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 124500,
       "name": "Far East",
       "url": "https://open.spotify.com/track/6PQdebTH2xQn4mURkNP4IU"
@@ -12158,7 +12158,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 140470,
       "name": "Hokkaido Breeze",
       "url": "https://open.spotify.com/track/20aWMDQFYgx0da54JctdZd"
@@ -14808,7 +14808,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 127788,
       "name": "less-than-flattering",
       "url": "https://open.spotify.com/track/7ay42oCBar4ZtjwlvqyKyt"
@@ -16136,6 +16136,24 @@
       "duration_ms": 149855,
       "name": "Macabre Noir",
       "url": "https://open.spotify.com/track/5wvIk2q91xWTzyOS4dMexE"
+    },
+    {
+      "album": {
+        "name": "Machines",
+        "url": "https://open.spotify.com/album/585g5BfKMv4XNcBYbSukzD"
+      },
+      "artists": [
+        {
+          "name": "Cyber Bloom",
+          "url": "https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120031,
+      "name": "Machines",
+      "url": "https://open.spotify.com/track/5LD9Kx8SmFL4yToNIbQ0ty"
     },
     {
       "album": {
@@ -20324,7 +20342,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 124411,
       "name": "Paris",
       "url": "https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB"
@@ -25499,6 +25517,24 @@
     },
     {
       "album": {
+        "name": "Stones",
+        "url": "https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV"
+      },
+      "artists": [
+        {
+          "name": "W8lss",
+          "url": "https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137228,
+      "name": "Stones",
+      "url": "https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3"
+    },
+    {
+      "album": {
         "name": "Stoplight",
         "url": "https://open.spotify.com/album/1JjsVP9vK43eiZrpw70zoq"
       },
@@ -25844,6 +25880,24 @@
       "duration_ms": 132000,
       "name": "Sun",
       "url": "https://open.spotify.com/track/0v0sKdw1NSfBzdINcCNU5k"
+    },
+    {
+      "album": {
+        "name": "Sun Course",
+        "url": "https://open.spotify.com/album/64KBolf3eGaOVnzA0tv4TJ"
+      },
+      "artists": [
+        {
+          "name": "Spitzgef\u00fchl",
+          "url": "https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "Sun Course",
+      "url": "https://open.spotify.com/track/5zd8kAM3NF6oPd4jJJzaJe"
     },
     {
       "album": {
@@ -30410,6 +30464,28 @@
       "duration_ms": 119550,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/2j7BPZDxU6TVZ3miGoLiF5"
+    },
+    {
+      "album": {
+        "name": "Wistful Silhouettes",
+        "url": "https://open.spotify.com/album/7bnbpre7jCyEwHu1hT9ngt"
+      },
+      "artists": [
+        {
+          "name": "Chill Def",
+          "url": "https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41"
+        },
+        {
+          "name": "alt.bin.beats",
+          "url": "https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136941,
+      "name": "Wistful Silhouettes",
+      "url": "https://open.spotify.com/track/5Ltgq6XMTilOXhNiSQZrVT"
     },
     {
       "album": {

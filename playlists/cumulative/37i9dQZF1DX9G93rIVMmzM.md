@@ -4,7 +4,7 @@
 
 > seduced in the shadows.
 
-56 songs - 3 hr 35 min
+58 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Animals](https://open.spotify.com/track/2n1Go55RzCD8pvnEmA6HGO) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [The Shape of Everything](https://open.spotify.com/album/5t7diqfBBT6QnXADEKbyaZ) | 4:30 | 2023-09-20 |  |
 | [Bitches Brew](https://open.spotify.com/track/4E23uX1BDdUTk9x56nEbla) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [††† \(Crosses\)](https://open.spotify.com/album/0nmLUAAUIUfm8q8Mq3mRAV) | 3:28 | 2023-09-29 |  |
 | [Bitches Brew](https://open.spotify.com/track/32GLsaZGtVQ4OUaqmVsF9I) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [††† \(Crosses\)](https://open.spotify.com/album/3OFwgpivi60ZjfNmnPm2kf) | 3:28 | 2023-09-20 | 2023-10-04 |
+| [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 | 2023-10-13 |  |
 | [Blur Into One](https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Blur Into One](https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z) | 3:50 | 2023-09-20 |  |
 | [Blvd\. Nights](https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7) | [Team Sleep](https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7) | [Team Sleep \(U.S\. Release\)](https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP) | 3:08 | 2023-09-20 |  |
 | [BROWN NOISE](https://open.spotify.com/track/6J9FRTVeIX9D1GgM6K0wr9) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [NOISE T.V](https://open.spotify.com/album/3TxlPPVEkL4vlOcmpEJWLS) | 2:52 | 2023-09-20 |  |
@@ -26,6 +27,7 @@
 | [Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 3:47 | 2023-09-20 |  |
 | [Crawling Into You](https://open.spotify.com/track/2EVVaTiZFIXwkV74McpZy5) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Promo 2019](https://open.spotify.com/album/6DKO5xmgzhet0tQD8zXMZ5) | 3:23 | 2023-09-20 |  |
 | [Custer](https://open.spotify.com/track/3GiJq4AQK7324mfIQbpiTf) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 4:14 | 2023-09-20 |  |
+| [deprecating](https://open.spotify.com/track/0S3hKgCbYTWPOesdVM4bg7) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [deprecating](https://open.spotify.com/album/0zV1xLH1fwzi1ESG8tf6qt) | 2:06 | 2023-10-13 |  |
 | [Drain](https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Drain](https://open.spotify.com/album/4td2lzPI1u95ohvolQfTkZ) | 3:22 | 2023-09-20 |  |
 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 | 2023-09-22 |  |
 | [Echolalia](https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Remnants of the Vessel](https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD) | 5:06 | 2023-09-20 |  |

@@ -130,7 +130,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 225493,
       "name": "Amor Imparable",
       "url": "https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U"
@@ -1428,6 +1428,28 @@
       "duration_ms": 368683,
       "name": "Muerte Por Vida",
       "url": "https://open.spotify.com/track/68rCrBWih9O3ctD7NbXUUH"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s De Ti",
+        "url": "https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189075,
+      "name": "M\u00e1s De Ti",
+      "url": "https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks"
     },
     {
       "album": {

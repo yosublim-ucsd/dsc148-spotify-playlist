@@ -4,7 +4,7 @@
 
 > Gospel music from across East Africa
 
-91 songs - 7 hr 27 min
+92 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Ndio](https://open.spotify.com/track/3CnETTK4rc5A5XnTWpvjWZ) | [Rehema Simfukwe](https://open.spotify.com/artist/6LL0XXSfIWHDxuDf9HmnjL) | [Ndio](https://open.spotify.com/album/5CzUS1DY6pEqcYUxq9fiLm) | 9:23 | 2023-07-14 |  |
 | [Nikumbushe Wema Wako](https://open.spotify.com/track/62cnrFkQOy5jBuOoCBm5qT) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Nikumbushe Wema Wako](https://open.spotify.com/album/5u0BBGqAaYEgN3Kkrk41AX) | 7:19 | 2022-12-19 | 2023-08-25 |
 | [Nikupendeze](https://open.spotify.com/track/6PsXyv0ljD3fuOTZRiOw4Z) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Mwema](https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX) | 3:54 | 2022-12-19 | 2023-06-16 |
+| [Nina Siri](https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Umusirikare](https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh) | 11:10 | 2023-08-25 |  |
 | [NINA SIRI](https://open.spotify.com/track/71qTDQi7eBRbheRm7pny4V) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [NINA SIRI](https://open.spotify.com/album/3NyvSTjdt2P19P7I8xV3oz) | 11:12 | 2023-08-18 | 2023-09-16 |
 | [Nipe Macho](https://open.spotify.com/track/6RShwwY6EHo3sOJtkUMKvh) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Nipe Macho](https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV) | 5:53 | 2022-12-19 |  |
 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 | 2023-08-04 |  |
@@ -81,7 +82,7 @@
 | [Uko Single?](https://open.spotify.com/track/1LYgA4jCtKJQ3sx8WjMIcz) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Uko Single?](https://open.spotify.com/album/5ub2GKGHFCglwgxkpiq3v0) | 3:44 | 2023-09-01 |  |
 | [Uliniumba Nikuabudu](https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Yahwe Uhimidiwe](https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn) | 4:30 | 2022-12-19 | 2023-08-04 |
 | [Uniongoze Yesu](https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol.4](https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx) | 8:10 | 2022-12-19 |  |
-| [Upendo Wa Yesu](https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Hapa Nilipo](https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz) | 4:21 | 2022-12-19 |  |
+| [Upendo Wa Yesu](https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Hapa Nilipo](https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz) | 4:21 | 2022-12-19 | 2023-10-14 |
 | [Usiniache \- Remix](https://open.spotify.com/track/44mdd5TPUmYqrir91xg9bX) | [Mr Seed](https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw), [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Usiniache \(Remix\)](https://open.spotify.com/album/2uzf8hKInIrYTMqqbLmez2) | 4:30 | 2023-05-12 | 2023-06-16 |
 | [Utukufu](https://open.spotify.com/track/5vFGjh1BlYhklM4ikVcRcC) | [Ali Mukhwana](https://open.spotify.com/artist/0U7KGdU4TcvHnZok2Yntrj) | [Utukufu](https://open.spotify.com/album/7GCarY8GirkE80DpFX5Ki4) | 4:41 | 2022-12-19 | 2023-04-21 |
 | [Utukufu Na Heshima](https://open.spotify.com/track/0vNZmwnIZqzz0jUCEHs8Z3) | [John Lisu](https://open.spotify.com/artist/39ASHssSh5BCkjBzCA1Cdg) | [Jehovah Yu Hai](https://open.spotify.com/album/7m1A6ahy5nTSXLlZb63aDt) | 8:37 | 2022-12-19 | 2023-04-09 |

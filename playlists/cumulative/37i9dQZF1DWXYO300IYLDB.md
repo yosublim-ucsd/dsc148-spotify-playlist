@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-304 songs - 18 hr 12 min
+305 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,8 @@
 | [My Boo \- Acoustic](https://open.spotify.com/track/3jksD6ZdMZSjfH3zgT0SEg) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1), [Rahky](https://open.spotify.com/artist/5oUvJ4GGen3ikQjzgPuGal) | [My Boo \(Acoustic\)](https://open.spotify.com/album/3snZXDK4dZwIzQARdadvpP) | 2:52 | 2022-10-20 | 2023-04-14 |
 | [My Stupid Heart \- Acoustic Version](https://open.spotify.com/track/3WQz7iXHJZ9x5ASGfp45r7) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Luminati Suns](https://open.spotify.com/artist/3L3LFvtOjqaNkOvZDIFnW0) | [My Stupid Heart \(Acoustic Version\)](https://open.spotify.com/album/5WFL3TMZVnWb69W7w4zlKt) | 2:42 | 2023-04-13 |  |
 | [Nice To Meet You](https://open.spotify.com/track/7dmiORZteCCZMj9yWRtdsb) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Nice To Meet You](https://open.spotify.com/album/0rNN9txzPOXExZAtE8XFth) | 3:07 | 2022-10-20 | 2022-11-16 |
-| [No Matter What](https://open.spotify.com/track/3LUai3qN5tzG0HpM72IHCy) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [No Matter What](https://open.spotify.com/album/456nxcaYCzETLiEnfwvMID) | 3:02 | 2023-08-08 |  |
+| [No Matter What](https://open.spotify.com/track/3LUai3qN5tzG0HpM72IHCy) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [No Matter What](https://open.spotify.com/album/456nxcaYCzETLiEnfwvMID) | 3:02 | 2023-08-08 | 2023-10-14 |
+| [No Matter What](https://open.spotify.com/track/5pYsEdfprWa7B2RbsbUIDC) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [The Things I Left Unsaid](https://open.spotify.com/album/2MbohPX2P1ms4RjAo9X0iW) | 3:02 | 2023-10-13 |  |
 | [No One \- Acoustic](https://open.spotify.com/track/73E08jF1urQQSO0oTzCPpP) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Volume 1](https://open.spotify.com/album/0dICqPiSgbmRRRqWAT0XKk) | 4:19 | 2022-10-25 | 2023-03-27 |
 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 | 2023-09-21 |  |
 | [Nobody Knows \(Acoustic\)](https://open.spotify.com/track/42pQzfx4pTUbTWNnUY2xw8) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ), [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb) | [Nobody Knows \(Acoustic\)](https://open.spotify.com/album/16Cx5MBA4HTIPnhBA6VhO3) | 2:15 | 2022-10-20 | 2022-12-14 |

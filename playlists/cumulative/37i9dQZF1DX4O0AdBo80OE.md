@@ -4,7 +4,7 @@
 
 > Rimas cremosas, tan necesarias como tu café\. Sabino en portada.
 
-121 songs - 6 hr 52 min
+122 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Del 93](https://open.spotify.com/track/36Uul56N5hSr0f188JHqav) | [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO), [Polo Ml](https://open.spotify.com/artist/5bTmknFI6te1DhUpfWqhcR) | [Del 93](https://open.spotify.com/album/7jICCWazUNwpYJKS4OjIHD) | 3:23 | 2023-05-26 |  |
 | [Duele](https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Duele](https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T) | 2:39 | 2023-05-26 |  |
 | [El Puente](https://open.spotify.com/track/0AEE29MR3wWP5KHo3wIJiu) | [Eric Vasquez,Jesse Manuel Hernadez,Julian Mireles Jr.](https://open.spotify.com/artist/0rAVxTEmScGnf5A0XSl7iG) | [Hecho en Mexico: Traditional Sounds and Modern Latin Grooves](https://open.spotify.com/album/3VGQQzs6CiziWT37YApV7z) | 2:27 | 2023-05-26 |  |
-| [En Pausa](https://open.spotify.com/track/4xSLkAIKGL1kYa6V0NzJGV) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [En Pausa](https://open.spotify.com/album/33NBuJXblgn3swtbT6d846) | 3:31 | 2023-05-26 |  |
+| [En Pausa](https://open.spotify.com/track/4xSLkAIKGL1kYa6V0NzJGV) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [En Pausa](https://open.spotify.com/album/33NBuJXblgn3swtbT6d846) | 3:31 | 2023-05-26 | 2023-10-14 |
 | [Enculado](https://open.spotify.com/track/07lthWzkSdlmEI435DtCcf) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [RIKO](https://open.spotify.com/artist/3bX0TAwah1a1TNlsJgOgP7) | [Enculado](https://open.spotify.com/album/4LuGDwl9vmidZ1T1PxpJEm) | 3:46 | 2023-05-26 |  |
 | [Enrolemos uno](https://open.spotify.com/track/51SfvQm8QcPAyW4yBfPv1L) | [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Chenguedengue](https://open.spotify.com/artist/2BbaWbkYiUZw3MRpiZYFdi) | [Enrolemos uno](https://open.spotify.com/album/5gaExTOw8xJLQdZkDwEqRE) | 3:06 | 2023-09-15 |  |
 | [Entendí](https://open.spotify.com/track/1Irew14HVrUqhLJFt31NYr) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Entendí](https://open.spotify.com/album/60fBhH5X0kY5d8moClLTZg) | 2:56 | 2023-05-26 |  |
@@ -128,6 +128,7 @@
 | [Tú Tienes el Son](https://open.spotify.com/track/5UBSfqsnxc2GW86eHEsuA2) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Tú Tienes el Son](https://open.spotify.com/album/0YVNvh5zedGZ2cOmC6tD3E) | 3:01 | 2023-10-06 |  |
 | [Vegetales Con Pescado](https://open.spotify.com/track/5hXIWWxST35rAT5pUCLAer) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Vegetales Con Pescado](https://open.spotify.com/album/23XssGbWNkixBvuJL48mA3) | 3:02 | 2023-05-26 |  |
 | [Villana](https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Villana](https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u) | 3:18 | 2023-05-26 | 2023-09-09 |
+| [Vámonos](https://open.spotify.com/track/008S9w7s1NF1O3GmtUR6PX) | [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Vámonos](https://open.spotify.com/album/0lIZplY0HUvE3jbBu8ZOQj) | 2:40 | 2023-10-13 |  |
 | [Weekend](https://open.spotify.com/track/1bg8OvZcoYvvQl2WwDCQXI) | [West Gold](https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM) | [Weekend](https://open.spotify.com/album/709GgE0luZdMQj7LrWaoVh) | 3:11 | 2023-05-26 |  |
 
 \*This playlist was first scraped on 2023-06-14. Prior content cannot be recovered.

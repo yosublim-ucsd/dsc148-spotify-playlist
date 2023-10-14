@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Bring Me The Horizon
 
-680 songs - 1 day 15 hr 17 min
+681 songs - 1 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Candy Pink](https://open.spotify.com/track/0fhDu7tCzkKEsWvwAZYHLH) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Pulp](https://open.spotify.com/album/3jGK6MR6SNkw4j78MFQ1I2) | 2:53 | 2023-05-25 | 2023-06-09 |
 | [Carnavoyeur](https://open.spotify.com/track/11VOYtYJ0Bstb7QOCDDs5e) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Carnavoyeur](https://open.spotify.com/album/2UB1sEIK8wEhikbkcsIcIn) | 3:56 | 2023-06-01 | 2023-06-22 |
 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 | 2023-03-16 | 2023-03-25 |
-| [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/track/5zxw8pF2P97NMSzGsdCgzg) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/album/7Gu5f03bP20s7holoeIO3E) | 3:56 | 2023-10-12 |  |
+| [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/track/5AzFP6taTTCZp0SU18jxpc) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/album/1dVLmx7MeskNv1bwe6MY8Y) | 3:56 | 2023-10-12 |  |
+| [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/track/5zxw8pF2P97NMSzGsdCgzg) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/album/7Gu5f03bP20s7holoeIO3E) | 3:56 | 2023-10-12 | 2023-10-14 |
 | [catalogue](https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [catalogue](https://open.spotify.com/album/4Hd9WBZhWgxKGXsH9OWYOc) | 3:14 | 2023-09-28 | 2023-10-06 |
 | [Ceiling Fan/Piggy](https://open.spotify.com/track/4kfeEOMy1ba1K7gMdxYoXp) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Ceiling Fan/Piggy](https://open.spotify.com/album/2iHlPpnltsN7fpivWmudIY) | 4:19 | 2023-07-06 | 2023-07-14 |
 | [Champ \(feat\. Edgar Winter\)](https://open.spotify.com/track/3OHYElP3QCFKfnReFTZ2nw) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk) | [Champ \(feat\. Edgar Winter\)](https://open.spotify.com/album/53Ss7QGhX8hDfymNXdSRtd) | 3:49 | 2023-04-13 | 2023-04-21 |

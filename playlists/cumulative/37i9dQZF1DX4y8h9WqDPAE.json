@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover:   Janelle Mon\u00e1e",
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Drake",
   "name": "Channel-X",
   "tracks": [
     {
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 189000,
       "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
       "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 203637,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU"
@@ -2107,6 +2107,28 @@
     },
     {
       "album": {
+        "name": "Crash & Burn (feat. Blxst)",
+        "url": "https://open.spotify.com/album/3jAriMle4Wj0L0CKXHQRF7"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Crash & Burn (feat. Blxst)",
+      "url": "https://open.spotify.com/track/1swquvjyuVbDP4QYMFhZ8d"
+    },
+    {
+      "album": {
         "name": "What I Didn't Tell You",
         "url": "https://open.spotify.com/album/7cBVQOxPkxufTsRh750x3u"
       },
@@ -2334,7 +2356,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 134398,
       "name": "Dealer (feat. Blaqbonez & TAR1Q)",
       "url": "https://open.spotify.com/track/7dHai2diN3uYd5SHZ8LsAO"
@@ -3366,7 +3388,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 186382,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
@@ -4132,7 +4154,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 188093,
       "name": "GRL GVNG",
       "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
@@ -5163,6 +5185,24 @@
     },
     {
       "album": {
+        "name": "jersey luv (turn me on)",
+        "url": "https://open.spotify.com/album/18VQoqu4E1cej9M1CsrxUq"
+      },
+      "artists": [
+        {
+          "name": "GROOVY",
+          "url": "https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183224,
+      "name": "jersey luv (turn me on)",
+      "url": "https://open.spotify.com/track/0824LHgyDYQeWrLsQ7BWOn"
+    },
+    {
+      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/7nUtmWS4nJ0fqEapRua3jq"
       },
@@ -5954,7 +5994,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 183589,
       "name": "Love Jones (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/0vbFrb1U7sRV2UhEPCmE3t"
@@ -6216,6 +6256,28 @@
       "duration_ms": 277720,
       "name": "Members Only (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn"
+    },
+    {
+      "album": {
+        "name": "7 SEAS",
+        "url": "https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Messi",
+      "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
     },
     {
       "album": {
@@ -7293,6 +7355,32 @@
     },
     {
       "album": {
+        "name": "PAMELA",
+        "url": "https://open.spotify.com/album/3sgshiWcl1YVV4ywA1GEp2"
+      },
+      "artists": [
+        {
+          "name": "Gwamz",
+          "url": "https://open.spotify.com/artist/5asNjXXCZBu2NfJDarWlRR"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213976,
+      "name": "PAMELA",
+      "url": "https://open.spotify.com/track/4G3axOEaeRZ95EIbubQbQu"
+    },
+    {
+      "album": {
         "name": "BUSINESS IS BUSINESS",
         "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
       },
@@ -8160,6 +8248,28 @@
       "duration_ms": 219181,
       "name": "Room (with Adekunle Gold & 2 Chainz)",
       "url": "https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF"
+    },
+    {
+      "album": {
+        "name": "Rora",
+        "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143762,
+      "name": "Rora",
+      "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
     },
     {
       "album": {
@@ -9430,6 +9540,28 @@
       "duration_ms": 188504,
       "name": "Summer Too Hot",
       "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
+    },
+    {
+      "album": {
+        "name": "Summers Around The Corner",
+        "url": "https://open.spotify.com/album/3E4ICiqiWEXTncH5RxR1tB"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228390,
+      "name": "Summers Around The Corner",
+      "url": "https://open.spotify.com/track/6AY1IWGyVFkdkq8AA5F2zT"
     },
     {
       "album": {

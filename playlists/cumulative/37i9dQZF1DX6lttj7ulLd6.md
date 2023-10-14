@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-169 songs - 12 hr 54 min
+170 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Out'a Nowhere](https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:51 | 2022-08-16 |  |
 | [Over The Line](https://open.spotify.com/track/1kA20EkOahp3dPlvFDgz2E) | [Melrose Avenue](https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1) | [Over The Line](https://open.spotify.com/album/5vyjEsckiQO2Ot84RiPG45) | 2:37 | 2023-08-18 |  |
 | [Pacific Breeze](https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [Nelson Braxton](https://open.spotify.com/artist/3Jd4iNOHLWDkR3hAER3GLt) | [Pearls](https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF) | 3:44 | 2022-05-06 |  |
+| [Paks](https://open.spotify.com/track/3f526KslwaHSuamZFabgvk) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Paks](https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW) | 2:48 | 2023-10-13 |  |
 | [Passages](https://open.spotify.com/track/3rddq2C6kmthJnC2VFYzyr) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 5:57 | 2022-06-14 | 2022-10-05 |
 | [Peace Of Mind](https://open.spotify.com/track/7ahXlJ51Pto9AiR2tUyM2j) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [From The Heart](https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW) | 4:25 | 2022-05-06 | 2023-03-25 |
 | [Peas And Carrots](https://open.spotify.com/track/6suqE7jsS61mbxUa1jqxxl) | [Matty Mel Jr](https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW) | [Peas And Carrots](https://open.spotify.com/album/6bfnbStxUvR8R7JDZd0NBK) | 3:04 | 2023-03-09 |  |
@@ -135,7 +136,7 @@
 | [Sky Watcher](https://open.spotify.com/track/6M5Zlr1uSlLksVBVy5q6uq) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:02 | 2022-05-06 | 2022-11-30 |
 | [So Beautiful](https://open.spotify.com/track/4ffJ3kxKr4XP5pjfFm6uZR) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Ride](https://open.spotify.com/album/5x5eUg69ezurxlTfSriyjv) | 4:21 | 2022-05-06 | 2023-02-08 |
 | [Soul Vibration](https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Ten](https://open.spotify.com/album/6vw1IOlxgQy2otoKPOng7e) | 4:26 | 2022-05-06 | 2022-08-11 |
-| [Squeeze Me](https://open.spotify.com/track/01XCanusQyKKtuhfMq5c0C) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe) | 6:54 | 2022-06-28 |  |
+| [Squeeze Me](https://open.spotify.com/track/01XCanusQyKKtuhfMq5c0C) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe) | 6:54 | 2022-06-28 | 2023-10-14 |
 | [Squeeze Me](https://open.spotify.com/track/6dSzZ1ll6LwJ7OG5U1w7RG) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 6:54 | 2022-05-06 | 2022-07-29 |
 | [Stay](https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x) | [Club 1600](https://open.spotify.com/artist/1juPaCPPvPqkkocbYuedXn) | [Club 1600](https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z) | 4:43 | 2022-05-06 |  |
 | [Straight to the Heart](https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Secrets](https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc) | 3:53 | 2022-05-06 |  |

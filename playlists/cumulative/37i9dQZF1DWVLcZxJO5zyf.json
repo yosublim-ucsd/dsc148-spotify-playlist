@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todos as novidades e hits do pop br aqui e agora! Foto: Pabllo Vittar",
+  "description": "Ou\u00e7a todos as novidades e hits do pop br aqui e agora! Foto:  kamaitachi, Lagum",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -1064,6 +1064,28 @@
       "duration_ms": 141404,
       "name": "Cancelaram o Carnaval",
       "url": "https://open.spotify.com/track/3gUs7mbRVLaGAKOcSuUHXU"
+    },
+    {
+      "album": {
+        "name": "Canoa",
+        "url": "https://open.spotify.com/album/3yVv0gmK4EdJNQBWt6au3D"
+      },
+      "artists": [
+        {
+          "name": "kamaitachi",
+          "url": "https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm"
+        },
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177605,
+      "name": "Canoa",
+      "url": "https://open.spotify.com/track/2LneA7MOWuowIRaga0eO3t"
     },
     {
       "album": {
@@ -2441,6 +2463,24 @@
     },
     {
       "album": {
+        "name": "Mais Um Voo",
+        "url": "https://open.spotify.com/album/27ZKtXmfYS7OXGb1aKoI7U"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Mais Um Voo",
+      "url": "https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU"
+    },
+    {
+      "album": {
         "name": "REVERSA",
         "url": "https://open.spotify.com/album/6GKytGwQgYxwGwYuo4spvq"
       },
@@ -3168,7 +3208,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 230886,
       "name": "O \u00daltimo Rom\u00e2ntico Online (feat. Pedro Lotto & Wey)",
       "url": "https://open.spotify.com/track/4yzSTxcOIaCbEdtM4KwJ1W"
@@ -5182,7 +5222,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 156635,
       "name": "Zangadinha",
       "url": "https://open.spotify.com/track/4o31yQPBDncr20tBIEi9hM"

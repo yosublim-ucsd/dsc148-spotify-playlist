@@ -8085,6 +8085,24 @@
     },
     {
       "album": {
+        "name": "DEFENDER",
+        "url": "https://open.spotify.com/album/6b6ykEktEnuGJ4jQUvTyWX"
+      },
+      "artists": [
+        {
+          "name": "KROY",
+          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193866,
+      "name": "DEFENDER",
+      "url": "https://open.spotify.com/track/1MFz62BDFCPhVuMAELPDf6"
+    },
+    {
+      "album": {
         "name": "fishmonger",
         "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
       },
@@ -20884,6 +20902,24 @@
       "duration_ms": 156307,
       "name": "maybe im overreacting",
       "url": "https://open.spotify.com/track/5L4UlkVVSO97UYiAlgzf35"
+    },
+    {
+      "album": {
+        "name": "maybe you are not enough",
+        "url": "https://open.spotify.com/album/6bOOT1i8gu0g1BRKqc9qxq"
+      },
+      "artists": [
+        {
+          "name": "Lucky Iris",
+          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183053,
+      "name": "maybe you are not enough",
+      "url": "https://open.spotify.com/track/4dT1Sv6dZFqoVwen8r1xG0"
     },
     {
       "album": {

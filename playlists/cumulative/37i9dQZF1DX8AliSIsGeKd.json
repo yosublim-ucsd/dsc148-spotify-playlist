@@ -30495,6 +30495,24 @@
     },
     {
       "album": {
+        "name": "My Love for You (Yebba's Heartbreak)",
+        "url": "https://open.spotify.com/album/2du5nqdaDnYOu3k1yCXbBc"
+      },
+      "artists": [
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205573,
+      "name": "My Love for You (Yebba's Heartbreak) - Edit",
+      "url": "https://open.spotify.com/track/4IC4M64imsv7BGowdrFEzH"
+    },
+    {
+      "album": {
         "name": "My Mind",
         "url": "https://open.spotify.com/album/5KfHfNi0qULYg2NBNlfgOx"
       },

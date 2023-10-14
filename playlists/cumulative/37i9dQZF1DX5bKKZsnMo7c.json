@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "All eyes on you. Cover: DPR IAN",
+  "description": "All eyes on you. Cover: Mad Tsai",
   "name": "Limelight",
   "tracks": [
     {
@@ -3161,6 +3161,24 @@
     },
     {
       "album": {
+        "name": "mad's world",
+        "url": "https://open.spotify.com/album/0tR2hMv1kGNWZpqbk7a3D5"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194545,
+      "name": "mad's world",
+      "url": "https://open.spotify.com/track/1MZHbJsMBbq5P3Mq4xgu8G"
+    },
+    {
+      "album": {
         "name": "Mawce",
         "url": "https://open.spotify.com/album/3oFi7F2V5tfDvhd07ixnNc"
       },
@@ -4332,7 +4350,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 150266,
       "name": "Sleeping in the Kitchen (feat. Addison Grace)",
       "url": "https://open.spotify.com/track/0665FV7vuJskwGWIFIrFPB"

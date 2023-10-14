@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,266 likes - 167 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,268 likes - 167 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,7 +163,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 153 | [Panfilo En Texas](https://open.spotify.com/track/627SipAyNu1kgCQ8fMB7nm) | [Las Ardillitas De Lalo Guerrero](https://open.spotify.com/artist/3GOlkpNORG58DAXrR7qJIa) | [Las Ardillitas En La Navidad](https://open.spotify.com/album/2kk8njfDemSRotFL3moFYR) | 2:19 |
 | 154 | [Cross Country Feelin'](https://open.spotify.com/track/4k9L2qUTm9pqfuG5rHhdNB) | [White Heat](https://open.spotify.com/artist/4euUNldRBC2usRt1iRfPxS) | [Presence of a Man](https://open.spotify.com/album/45Gr04mALNDUHJLBEGw7wS) | 2:59 |
 | 155 | [Contrabando Y Traición](https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Contrabando Y Traicion](https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3) | 3:26 |
-| 156 | [Flor de Orinoco](https://open.spotify.com/track/6R1in541hQlqGK4xjRCUs2) | [Guy Lukowski](https://open.spotify.com/artist/35Lkxkt757TcCkP82I2zHf) | [Music Featured in "Narcos" Season 4](https://open.spotify.com/album/0yFMyA6xYbTFC2ZCz0q6uK) | 1:38 |
+| 156 | [Flor de Orinoco](https://open.spotify.com/track/1nDHqlwfxB5unIohRZO2vi) | [Guy Lukowski](https://open.spotify.com/artist/35Lkxkt757TcCkP82I2zHf) | [Music Featured in "Narcos" Season 4](https://open.spotify.com/album/0nOIGoDPdfv9AoJG3Y0Dh5) | 1:38 |
 | 157 | [Four A.M](https://open.spotify.com/track/7eVhUvv2QSKv6uSsxsDaCx) | [Anthony King](https://open.spotify.com/artist/0cMCJ6yH6Dl6MnPgVBHuRf) | [1960s Cool Jazz](https://open.spotify.com/album/7tfaVHiHJqOxtjG9q7m7fh) | 1:44 |
 | 158 | [Psalm 109: II\. Donec ponam inimicos tuos \(Largo\)](https://open.spotify.com/track/6W9thnuuRtxwb2RNKO86Yx) | [Rinaldo Alessandrini](https://open.spotify.com/artist/1CqIIrCkdFMduTzAdIaeZb), [Concerto Italiano](https://open.spotify.com/artist/3f26hJvBDQnllvH0aP4OSb) | [Vivaldi / Alessandrini](https://open.spotify.com/album/4wwLd0aXSZmvKQFj2CsjZR) | 4:29 |
 | 159 | [Devuélveme a mi chica](https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 3:14 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 166 | [Rock And Roll Never Forgets \- Live/Remastered](https://open.spotify.com/track/7wfMo45fLnq1fnmghB5388) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Nine Tonight \(Live/Remastered\)](https://open.spotify.com/album/3IopzrrHrPPzEEp28YtP35) | 3:35 |
 | 167 | [Dejé la puerta abierta](https://open.spotify.com/track/3EfbEKy4d9yQu7N53pSdfa) | [Efraín Ríos](https://open.spotify.com/artist/1QFw9RTzNqQ66UEJoNfEZ4) | [Antologia de Cuba](https://open.spotify.com/album/3AFDWZtcXQbPOfnk9r6Bag) | 2:52 |
 
-Snapshot ID: `MCxjYTk3YmZiYWM1NDBjNTQ3MDRlNmNiZThlNWQ0ZDIyNzU5MDI0Zjli`
+Snapshot ID: `MCxlNTQ5YzIyMzVkZmVmODU5MzZmMjdlMmZlN2YzNGFlMzQxYWM2OTYw`

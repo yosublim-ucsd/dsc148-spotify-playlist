@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-332 songs - 18 hr 31 min
+334 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Happy Days](https://open.spotify.com/track/0XXgkLA2n6wpTlMG3V3VDm) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 3:52 | 2022-01-19 | 2023-04-22 |
 | [hate the way you love me](https://open.spotify.com/track/6GXRPqb0daBCcA9SRJMTMe) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:53 | 2022-07-08 | 2023-04-22 |
 | [Have You Ever Really Lived](https://open.spotify.com/track/6UfOWl2K7ges1EWwJEpXpu) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P), [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Have You Ever Really Lived](https://open.spotify.com/album/2inpPKTNpMmtitTciLHtVR) | 3:17 | 2022-07-15 | 2022-07-23 |
+| [HBU?](https://open.spotify.com/track/3cvYl1prmMzM3m9zyLneBl) | [Atlus](https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp) | [HBU?](https://open.spotify.com/album/2xZD1y11PZmgwHkP8N1clN) | 2:15 | 2023-10-13 |  |
 | [Heartbeat Changes](https://open.spotify.com/track/5fcMjLsEtBOJLk1kRv2j9W) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/1Utcb3SXIeR6ESyIxjCP01) | 3:08 | 2022-06-10 | 2023-04-22 |
 | [Hearts on Fire](https://open.spotify.com/track/5HkslahmVaoXXjbphnlYmZ) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:48 | 2022-09-16 | 2022-10-01 |
 | [Her Body Is Bible](https://open.spotify.com/track/1qMMRXrcyfjbik6Mh1XRDz) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Her Body Is Bible](https://open.spotify.com/album/3JwM5vjiKuLf2HLmcR5o6D) | 2:57 | 2022-06-24 | 2022-09-28 |
@@ -179,7 +180,7 @@
 | [Less Than Zero](https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:31 | 2022-01-19 |  |
 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 | 2022-01-19 | 2023-04-22 |
 | [Light Shine In](https://open.spotify.com/track/01JNL6P4M4hRPUWvK7Fr96) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Wilder Woods](https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG) | 3:55 | 2022-01-19 | 2023-04-22 |
-| [LIGHTNING](https://open.spotify.com/track/6ptDJrpmo53dp5weWeN0A5) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [LIGHTNING](https://open.spotify.com/album/5omg8JAqL1wXARrfBLWXHD) | 2:42 | 2022-12-02 |  |
+| [LIGHTNING](https://open.spotify.com/track/6ptDJrpmo53dp5weWeN0A5) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [LIGHTNING](https://open.spotify.com/album/5omg8JAqL1wXARrfBLWXHD) | 2:42 | 2022-12-02 | 2023-10-14 |
 | [Like A Saviour](https://open.spotify.com/track/5aNjxmDikP3zGMHfO9dop5) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Like A Saviour](https://open.spotify.com/album/0bAL4OMaZIgjmUH3j7q6kb) | 3:40 | 2023-02-03 |  |
 | [Little Bird](https://open.spotify.com/track/2tgxtvUoSFvaiXeYBAyjFv) | [Jasmine Cephas\-Jones](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF) | [Blue Bird](https://open.spotify.com/album/0YWPi08zlzmD5YsS9atXC4) | 4:25 | 2021-08-05 | 2022-01-20 |
 | [Lonely Beat](https://open.spotify.com/track/5mdgcqfSqwbQfzRCw9lO4j) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Lonely Beat](https://open.spotify.com/album/3yyy2ZGtSeVxP9nyw2TL9v) | 2:53 | 2022-01-19 | 2023-03-18 |
@@ -261,6 +262,7 @@
 | [self sabotage](https://open.spotify.com/track/1B7WWtKiz2LU85t9tL8x5v) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:40 | 2022-05-06 |  |
 | [self sabotage](https://open.spotify.com/track/7A2TOQVHBgIiqmhtP0yC0L) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [self sabotage](https://open.spotify.com/album/4xKRxemLXX5dxv5dRlZu85) | 3:40 | 2022-04-29 | 2022-07-27 |
 | [September](https://open.spotify.com/track/5DTBPQRHrBOnvzIF5XLBPq) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:40 | 2022-01-19 |  |
+| [September](https://open.spotify.com/track/4tzUX6dYhN6CPRaO7wF4c9) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Big Red](https://open.spotify.com/album/1C8XiXbac4G7EoCSIsCpYG) | 3:24 | 2023-10-13 |  |
 | [Shaky Bridges](https://open.spotify.com/track/2iDu5rmcBZwd70LBGbKWUm) | [Sean McConnell](https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC), [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [Secondhand Smoke](https://open.spotify.com/album/70G1nUwFugH5eW2WuKWwvW) | 3:28 | 2021-08-05 | 2022-01-20 |
 | [SHE SAID HE SAID SHE SAID](https://open.spotify.com/track/61SwOvGpjoANrBOVgBZvMi) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [SHE SAID HE SAID SHE SAID](https://open.spotify.com/album/0A1JBqEiwmsyxnCqgH4axf) | 2:37 | 2022-10-14 |  |
 | [She's Not You](https://open.spotify.com/track/6zkwvT8jjhtrTxNuebFgfz) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She’s Not You](https://open.spotify.com/album/5G2gwyWYBDnOeh7BT3cj3j) | 3:07 | 2022-07-22 | 2023-04-22 |
@@ -325,7 +327,7 @@
 | [When The Lights Go Out](https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 3:18 | 2022-01-19 | 2023-04-22 |
 | [When You Lose Someone](https://open.spotify.com/track/4K8Oan6E1K7eaxjaXXSZLX) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [When You Lose Someone](https://open.spotify.com/album/1FsTVcCyDJUTdi4TgsKzWK) | 3:25 | 2022-01-19 | 2023-04-22 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-01 |  |
-| [When You’re Breaking My Heart](https://open.spotify.com/track/0D0oMP3byoKW7vOcI51LlG) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [When You’re Breaking My Heart](https://open.spotify.com/album/2MlHzvufzqaNSzLwDJAeJw) | 3:04 | 2023-05-19 |  |
+| [When You’re Breaking My Heart](https://open.spotify.com/track/0D0oMP3byoKW7vOcI51LlG) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [When You’re Breaking My Heart](https://open.spotify.com/album/2MlHzvufzqaNSzLwDJAeJw) | 3:04 | 2023-05-19 | 2023-10-14 |
 | [Why Don't You Touch Me](https://open.spotify.com/track/2zBlJIbYVotuBXkLyM0dPw) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:17 | 2021-08-05 | 2022-01-20 |
 | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/track/3jK53bWJDGzbTbqaBayfBB) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/album/6AxPMn4e6dETGN7PNvH3xM) | 3:30 | 2023-03-17 |  |
 | [Wild Love \- Acoustic](https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Wild Love \(Acoustic\)](https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk) | 3:09 | 2021-08-05 | 2022-01-20 |

@@ -1,12 +1,12 @@
 {
-  "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 56716,
+  "description": "El soundtrack oficial de EA SPORTS FC 24.",
+  "num_followers": 57157,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDk3ZGU4MDU1NDAwNWVhZDRmNTcyMWYyNDBkMzY4ZWNiY2Q5MDA5",
+  "snapshot_id": "MCw3MTE2YWQwNzAzNmNmMmJmMzgwYjVhZDkyMjVmN2UwNDZmYjhhZDFk",
   "tracks": [
     {
       "added_at": "2023-10-06 19:23:39",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "Longevity Flow",
-        "url": "https://open.spotify.com/album/0UV7EM6NwjbyINDUwEpQUg"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 183649,
-      "name": "Longevity Flow",
-      "url": "https://open.spotify.com/track/4xftWzEdtv72VcDlVvA5t0"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "1,2 & Mer",
         "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 157080,
       "name": "1,2 & Mer",
       "url": "https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "Longevity Flow",
+        "url": "https://open.spotify.com/album/0UV7EM6NwjbyINDUwEpQUg"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 183649,
+      "name": "Longevity Flow",
+      "url": "https://open.spotify.com/track/4xftWzEdtv72VcDlVvA5t0"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "Going Kokomo",
+      "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "6am",
         "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 113292,
       "name": "They Don't Love It",
       "url": "https://open.spotify.com/track/4YnazaBNYt86O9KhwjH9NA"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "Going Kokomo",
-      "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "SPECCHIO",
+        "url": "https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "duration_ms": 183386,
+      "name": "AVVISO",
+      "url": "https://open.spotify.com/track/2YMvLfACAlvQMiKonxdeUq"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "098RADIO vol.1 Hosted by Awich",
         "url": "https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 289846,
       "name": "RASEN in OKINAWA",
       "url": "https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "SPECCHIO",
-        "url": "https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3"
-      },
-      "artists": [
-        {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
-        }
-      ],
-      "duration_ms": 183386,
-      "name": "AVVISO",
-      "url": "https://open.spotify.com/track/2YMvLfACAlvQMiKonxdeUq"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "Who Let Him In",
+        "url": "https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Who Let Him In",
+      "url": "https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "Mamgobhozi",
         "url": "https://open.spotify.com/album/3stGihwj49yO2EJ6Ovl598"
       },
@@ -743,18 +759,18 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "Who Let Him In",
-        "url": "https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus"
+        "name": "Henge",
+        "url": "https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW"
       },
       "artists": [
         {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Who Let Him In",
-      "url": "https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3"
+      "duration_ms": 222200,
+      "name": "The Stranger",
+      "url": "https://open.spotify.com/track/6vWKSlMiyGlsWzRw8REBxE"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -779,18 +795,18 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "Henge",
-        "url": "https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW"
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/3n3gvdhR2fkx9qXXPrIAi3"
       },
       "artists": [
         {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
         }
       ],
-      "duration_ms": 222200,
-      "name": "The Stranger",
-      "url": "https://open.spotify.com/track/6vWKSlMiyGlsWzRw8REBxE"
+      "duration_ms": 161800,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/1uD1DhAEZ2XzU8psOERt54"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -859,22 +875,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/3n3gvdhR2fkx9qXXPrIAi3"
-      },
-      "artists": [
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/1uD1DhAEZ2XzU8psOERt54"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "Panna Cotta",
         "url": "https://open.spotify.com/album/28Ymo5sEs0gwOoZYdaLkNY"
       },
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 243354,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "no sleep in LA",
         "url": "https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 243354,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "Hostage",
         "url": "https://open.spotify.com/album/4fAX7xHj1PJZfIMKtnri9G"
       },
@@ -975,26 +975,6 @@
       "duration_ms": 208747,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/2HtXypOaDQhfWG1sKrjN0f"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "Stone",
-        "url": "https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H"
-      },
-      "artists": [
-        {
-          "name": "Effy",
-          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 182270,
-      "name": "Stone",
-      "url": "https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1015,6 +995,26 @@
       "duration_ms": 186222,
       "name": "Assumptions - Jengi Remix",
       "url": "https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "Stone",
+        "url": "https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 182270,
+      "name": "Stone",
+      "url": "https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1107,6 +1107,34 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "O Que Se Leva (D\u00f3i)",
+        "url": "https://open.spotify.com/album/27uX1i9485ofNAO9EHIWBE"
+      },
+      "artists": [
+        {
+          "name": "Rod 3030",
+          "url": "https://open.spotify.com/artist/44C21oZdrybmbaepup96M2"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        },
+        {
+          "name": "Tom Z\u00e9",
+          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
+        }
+      ],
+      "duration_ms": 170261,
+      "name": "O Que Se Leva (D\u00f3i)",
+      "url": "https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "Why You Waiting?",
         "url": "https://open.spotify.com/album/3czLQ2sjzql5WJQg7degVt"
       },
@@ -1147,34 +1175,6 @@
       "duration_ms": 252693,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/2iGu9F7QQXW8h7Er5c8Gq3"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "O Que Se Leva (D\u00f3i)",
-        "url": "https://open.spotify.com/album/27uX1i9485ofNAO9EHIWBE"
-      },
-      "artists": [
-        {
-          "name": "Rod 3030",
-          "url": "https://open.spotify.com/artist/44C21oZdrybmbaepup96M2"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Helio Bentes",
-          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
-        },
-        {
-          "name": "Tom Z\u00e9",
-          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
-        }
-      ],
-      "duration_ms": 170261,
-      "name": "O Que Se Leva (D\u00f3i)",
-      "url": "https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "Pinking Shears",
-        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
-      },
-      "artists": [
-        {
-          "name": "Mandy, Indiana",
-          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
-        }
-      ],
-      "duration_ms": 152420,
-      "name": "Pinking Shears",
-      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "Paragon Songs",
         "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 247613,
       "name": "Gan Ainm",
       "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "Pinking Shears",
+        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
+      },
+      "artists": [
+        {
+          "name": "Mandy, Indiana",
+          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+        }
+      ],
+      "duration_ms": 152420,
+      "name": "Pinking Shears",
+      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "The World\u2019s Biggest Paving Slab",
-        "url": "https://open.spotify.com/album/3ducN0Lrdg8qwP5xnoJ5X6"
-      },
-      "artists": [
-        {
-          "name": "English Teacher",
-          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
-        }
-      ],
-      "duration_ms": 185471,
-      "name": "The World's Biggest Paving Slab",
-      "url": "https://open.spotify.com/track/0BrPXLcu7IavDEzSU7YwSo"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "i've got a bf (best friend)",
         "url": "https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 148852,
       "name": "i've got a bf (best friend)",
       "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "The World\u2019s Biggest Paving Slab",
+        "url": "https://open.spotify.com/album/3ducN0Lrdg8qwP5xnoJ5X6"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "duration_ms": 185471,
+      "name": "The World's Biggest Paving Slab",
+      "url": "https://open.spotify.com/track/0BrPXLcu7IavDEzSU7YwSo"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "Who Else Would It Be",
-        "url": "https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm"
-      },
-      "artists": [
-        {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        }
-      ],
-      "duration_ms": 91913,
-      "name": "Who Else Would It Be",
-      "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "EZ 4 Me",
         "url": "https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg"
       },
@@ -1427,6 +1411,42 @@
       "duration_ms": 180628,
       "name": "EZ 4 Me",
       "url": "https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "Who Else Would It Be",
+        "url": "https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "duration_ms": 91913,
+      "name": "Who Else Would It Be",
+      "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "DICHOTOMY",
+        "url": "https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+        }
+      ],
+      "duration_ms": 223278,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1455,26 +1475,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "DICHOTOMY",
-        "url": "https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg"
-      },
-      "artists": [
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
-        }
-      ],
-      "duration_ms": 223278,
-      "name": "Paradox",
-      "url": "https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "Tings My Way",
         "url": "https://open.spotify.com/album/5ljS6V83W1O00uaXLFRYW5"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 124878,
       "name": "Tings My Way",
       "url": "https://open.spotify.com/track/3xdiLJ5x946mdlj3vwbPPu"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "The Gates Will Open",
+        "url": "https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv"
+      },
+      "artists": [
+        {
+          "name": "Karma Kid",
+          "url": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
+        }
+      ],
+      "duration_ms": 346775,
+      "name": "The Gates Will Open",
+      "url": "https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1519,22 +1535,6 @@
       "duration_ms": 178373,
       "name": "Relentless",
       "url": "https://open.spotify.com/track/4BTvXr4GKPvuHAWGr14ghc"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "The Gates Will Open",
-        "url": "https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv"
-      },
-      "artists": [
-        {
-          "name": "Karma Kid",
-          "url": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
-        }
-      ],
-      "duration_ms": 346775,
-      "name": "The Gates Will Open",
-      "url": "https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4"
     },
     {
       "added_at": "2023-10-06 19:23:39",

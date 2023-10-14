@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-289 songs - 18 hr 4 min
+290 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 | 2021-10-29 |  |
 | [Carry](https://open.spotify.com/track/1aJsXPeKKQsTlKhff3uKo5) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light: Second Phase](https://open.spotify.com/album/2o3PqYyPUnFHmay1PtvBuI) | 3:35 | 2021-10-29 | 2022-07-27 |
 | [Cascades](https://open.spotify.com/track/5Wp1uC4TKl5gPTWF0GjfdK) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Emigrant EP](https://open.spotify.com/album/74rT0Qt1NIlFzAqAiShAYL) | 3:56 | 2021-10-29 | 2022-07-29 |
-| [Celebrants](https://open.spotify.com/track/2oiIZsx8TsmnKF5TvY42aq) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:23 | 2023-03-24 |  |
+| [Celebrants](https://open.spotify.com/track/2oiIZsx8TsmnKF5TvY42aq) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:23 | 2023-03-24 | 2023-10-14 |
 | [Certainty](https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Certainty](https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw) | 3:07 | 2021-10-29 | 2022-01-29 |
 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 | 2022-04-15 |  |
 | [Change](https://open.spotify.com/track/3Nk3CL1Z73VMydXFCfnTcI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Change](https://open.spotify.com/album/1IQ1ZGGttsawfbItibsBHj) | 4:55 | 2021-11-24 | 2022-07-29 |
@@ -253,6 +253,7 @@
 | [Sword from the Stone](https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted \(Deluxe\)](https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ) | 3:21 | 2021-10-29 | 2022-07-29 |
 | [Take Back Thy Gift](https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:13 | 2021-10-29 |  |
 | [Tangerine](https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Bluebeard](https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC) | 3:08 | 2023-09-15 |  |
+| [The Good Life](https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Slow Lightning](https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB) | 3:58 | 2023-10-13 |  |
 | [The Lightning](https://open.spotify.com/track/31yuwnkOHIUHNMc0TaCSXA) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [The Lightning](https://open.spotify.com/album/2S7mGFGwUqO8qBTfoG3FkU) | 4:01 | 2022-02-11 | 2022-06-26 |
 | [The Lonely Persistence of Time](https://open.spotify.com/track/14QQhzM4gDwNP1M52pyq9p) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [The Lonely Persistence of Time](https://open.spotify.com/album/5g84elUozrlHGFSYCvvV8d) | 4:20 | 2022-02-11 | 2022-04-21 |
 | [The Love](https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Slow Reveal: Chapter One](https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s) | 2:38 | 2022-04-15 |  |

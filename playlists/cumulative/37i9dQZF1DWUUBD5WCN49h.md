@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8?si=SjcFe\-spQVOk21d\_XoZiXA"> Kold AF </a>
 
-580 songs - 1 day 4 hr 22 min
+581 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Melo](https://open.spotify.com/track/6DYmGpZ1a45MlLqf6w5UiL) | [Konstance](https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I) | [Melo](https://open.spotify.com/album/3FbED3SjtuHsbtXQ70XCOu) | 2:22 | 2023-09-08 | 2023-09-15 |
 | [Memories](https://open.spotify.com/track/69tiff9diPnJh3meXUYi5w) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Memories](https://open.spotify.com/album/1zBON4RP6HxcJiklNx5gk5) | 2:33 | 2023-03-17 | 2023-03-31 |
 | [Memory Lane](https://open.spotify.com/track/74JVJp8ChK3rHbtY5dity4) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Memory Lane](https://open.spotify.com/album/6nii6T6T0MseXxmH0NjCCW) | 3:26 | 2023-06-15 | 2023-08-04 |
+| [Messi](https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [7 SEAS](https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc) | 3:06 | 2023-10-13 |  |
 | [Mi Casa Su Casa\(Ye\)](https://open.spotify.com/track/2PxmI6wSmiEJXYOO0H0OEV) | [Corby Rhymez](https://open.spotify.com/artist/2LzvaWfoTlVuuSh6bBo0n3) | [Mi Casa Su Casa\(Ye\)](https://open.spotify.com/album/0qHE584bfUqtGwX2lGFiMj) | 3:05 | 2023-03-17 | 2023-04-21 |
 | [MIA](https://open.spotify.com/track/1IebTlyuQbihNgzyBHl4ps) | [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ), [DJames](https://open.spotify.com/artist/5okIIcFP9Tm05dnmf3qWij) | [Boundaries](https://open.spotify.com/album/2fwP0nclEMCLZaYBI6rfYs) | 2:30 | 2023-07-28 | 2023-09-15 |
 | [Migraine](https://open.spotify.com/track/3CBPgAhZ8XnRxzLfksRS5Q) | [Spy Shitta](https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD) | [Spy Shitta The EP](https://open.spotify.com/album/2vE9kJqmDwx4yICL2RPbqD) | 3:32 | 2022-10-28 | 2023-01-14 |

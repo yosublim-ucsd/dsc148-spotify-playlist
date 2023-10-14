@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Fall Out Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,456 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,373 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 55 | [I Just Don't Know What to Do With Myself](https://open.spotify.com/track/5F6tUpAoDzz5PjJos99176) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 2:46 |
 | 56 | [Easy](https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust](https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q) | 3:06 |
 | 57 | [What a Wonderful World](https://open.spotify.com/track/04cdEVbQPb8BJb7593e5fO) | [Joey Ramone](https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx) | [Don't Worry About Me](https://open.spotify.com/album/4QkB5FT0hN3KWQeeF5Bih5) | 2:23 |
-| 58 | [Temple of Love \(feat\. VV\)](https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs), [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Temple of Love \(feat\. VV\)](https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj) | 3:24 |
-| 59 | [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 |
+| 58 | [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 |
+| 59 | [Temple of Love \(feat\. VV\)](https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs), [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Temple of Love \(feat\. VV\)](https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj) | 3:24 |
 | 60 | [All Along the Watchtower](https://open.spotify.com/track/7xdLNxZCtY68x5MAOBEmBq) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Experience Hendrix: The Best Of Jimi Hendrix](https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY) | 3:58 |
 | 61 | [Dream On](https://open.spotify.com/track/5Z3DfEnGBOKC5XMjNlJ8qm) | [Blacktop Mojo](https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2) | [Burn the Ships](https://open.spotify.com/album/27TGyW8JaXeWo971FPfKUi) | 4:25 |
 | 62 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 90 | [Just Like Heaven](https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [You're Living All Over Me](https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu) | 2:53 |
 | 91 | [Skyfall](https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Age Of Ignorance \(Deluxe Edition\)](https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1) | 4:09 |
 | 92 | [I Think We're Alone Now](https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I Think We're Alone Now](https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W) | 2:14 |
-| 93 | [Listen To Your Heart](https://open.spotify.com/track/6NxTKEfNa5DyhOIin6VWYP) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6) | 3:35 |
-| 94 | [Come Together \- Live From Fox Theatre Detroit, MI/2012](https://open.spotify.com/track/02LrmnkHvOcQo6L2RBdfqu) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live & Inspired](https://open.spotify.com/album/4qq3w5Bfb46Rw9kE6QSYNT) | 3:46 |
+| 93 | [Come Together \- Live From Fox Theatre Detroit, MI/2012](https://open.spotify.com/track/02LrmnkHvOcQo6L2RBdfqu) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live & Inspired](https://open.spotify.com/album/4qq3w5Bfb46Rw9kE6QSYNT) | 3:46 |
+| 94 | [Listen To Your Heart](https://open.spotify.com/track/6NxTKEfNa5DyhOIin6VWYP) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6) | 3:35 |
 | 95 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
 | 96 | [Dancing on My Own](https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Dancing on My Own](https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa) | 3:29 |
 | 97 | [Numb \(Acoustic\)](https://open.spotify.com/track/4D6amyd3ONcv28VBe07xsk) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Decade II: Rock & Acoustic](https://open.spotify.com/album/2KTwK7D7uge6M1x6PzKHfi) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 99 | [Chemical](https://open.spotify.com/track/7uYwtxCDbqPEmhX0UyHq5d) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Chemical](https://open.spotify.com/album/6pRgz5qJcDGpGhVSU1qJiv) | 3:02 |
 | 100 | [You Give Love A Bad Name](https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse \(Deluxe Edition\)](https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL) | 3:26 |
 
-Snapshot ID: `MCxkYjBjYWNiMGNlNGIxODU0Y2I2OGFkZWNjN2Q3YjBmMzY4ZjVlOGEz`
+Snapshot ID: `MCw0OTgyOWIyZjRkMjM5NmZmOTY5Mzk3YmY1MjdiYjllMjBjZDE1MmQ2`

@@ -2,7 +2,7 @@
 
 ### [funk challenge](https://open.spotify.com/playlist/37i9dQZF1DWSlRNWoWejBr)
 
-> vulgo Mc Paivinha
+> dá o play e fica suave ai ô bactério
 
 84 songs - 3 hr 34 min
 

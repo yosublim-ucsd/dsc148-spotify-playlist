@@ -12178,7 +12178,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 202931,
       "name": "MAMACITA",
       "url": "https://open.spotify.com/track/4cQAhjxynTUlhVUJN5yhUb"
@@ -14767,6 +14767,24 @@
     },
     {
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
+    },
+    {
+      "album": {
         "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
         "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
       },
@@ -17098,7 +17116,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-09",
+      "date_removed": null,
       "duration_ms": 169500,
       "name": "Self Esteem (featuring NLE Choppa)",
       "url": "https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE"
@@ -19748,7 +19766,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 195873,
       "name": "The Spins",
       "url": "https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR"

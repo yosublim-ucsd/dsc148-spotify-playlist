@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,280 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,316 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 29 | [Fisherman](https://open.spotify.com/track/4jIO4fWetRQXS6Tw1XbhWD) | [The Congos](https://open.spotify.com/artist/0nGxKkhmIzyu6bvuXrko1e) | [Heart Of The Congos](https://open.spotify.com/album/0FqUTYrs4FtPbav2Ry2I1M) | 5:28 |
 | 30 | [Nice Up The Dance](https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Nice Up The Dance](https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ) | 3:32 |
 | 31 | [Deeper](https://open.spotify.com/track/4pbQqdxHDI1oJpKxEfHxvq) | [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc) | [Strictly The Best Vol\. 36](https://open.spotify.com/album/5OAh9E576gCvvut3xHh89G) | 3:50 |
-| 32 | [Big Ship](https://open.spotify.com/track/7IBIZHonObtZG33pkVZZkg) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf) | 3:17 |
-| 33 | [Earth A Run Red](https://open.spotify.com/track/0MYZaB4hSiHVdHuUf4F6nQ) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [Spice In Your Life](https://open.spotify.com/album/7bSj7D86JEHSFEDIjvadn5) | 3:47 |
+| 32 | [Earth A Run Red](https://open.spotify.com/track/0MYZaB4hSiHVdHuUf4F6nQ) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [Spice In Your Life](https://open.spotify.com/album/7bSj7D86JEHSFEDIjvadn5) | 3:47 |
+| 33 | [Big Ship](https://open.spotify.com/track/7IBIZHonObtZG33pkVZZkg) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf) | 3:17 |
 | 34 | [Two Sevens Clash](https://open.spotify.com/track/4ueq6n73MAh23KMabKrpI0) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Two Sevens Clash \(40th Anniversary Edition\)](https://open.spotify.com/album/75KzjLsruVDxWJ0bL0Lrm6) | 3:29 |
 | 35 | [Stop That Train](https://open.spotify.com/track/0Ajis5FpljtwnD7uWqO8jf) | [Clint Eastwood](https://open.spotify.com/artist/7gDNcZAStavwiBcb1CHQND), [General Saint](https://open.spotify.com/artist/3LvMhOfZRrE93aW5Xtb5Ua) | [Stop That Train](https://open.spotify.com/album/2GkHD2HdhKoY4B5yigF66J) | 5:10 |
 | 36 | [Solid As A Rock](https://open.spotify.com/track/0jgyTx1QHB5dvsylTJhcvK) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Da Real Thing](https://open.spotify.com/album/6P6cZYXPzjL5mwHhgkJBC5) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 49 | [Trueversation \(feat\. Damian Marley\)](https://open.spotify.com/track/1NrhydZEnKzzrf4Q1UFdIq) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Climb](https://open.spotify.com/album/4nc9KnE9TK5ObJXkxYWk0z) | 3:39 |
 | 50 | [Put Down The Weapon \(feat\. Capleton\)](https://open.spotify.com/track/4UPNMTYRckH4PCrnTzNwpl) | [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Jah Love](https://open.spotify.com/album/2lC2ZgJcDOxOlHroVLcCbG) | 4:01 |
 
-Snapshot ID: `MCxlZjI2Nzg2MTg2ODgzNTRkOTE2ODYxYTZmYTY2NDQxMGJhNmJlMjM1`
+Snapshot ID: `MCw3NGFiZWQ5MTY2ZDMyYjFkYjVlMmZmZDBmOGYwMmI2NWExNTViYzM5`

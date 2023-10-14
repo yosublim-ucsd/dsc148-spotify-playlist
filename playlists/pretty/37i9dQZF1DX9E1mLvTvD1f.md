@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 
 > 90s rock to fuel your ride\. Cover: The Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,352 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,480 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 | 59 | [Is Anybody Home?](https://open.spotify.com/track/2QQ0lfEAu3ncUHM3C6Rkg3) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Happiness...Is Not a Fish That You Can Catch](https://open.spotify.com/album/6zlcEv6OCgGoVlF5Fm4cSd) | 3:38 |
 | 60 | [Teen Angst \(What The World Needs Now\)](https://open.spotify.com/track/21gRGP5LdIgto8sznRZ7xz) | [Cracker](https://open.spotify.com/artist/0ODQJS4mk7rVBJXjdqByX6) | [Cracker](https://open.spotify.com/album/2r1yuRwAB0kmidzNuuNmdp) | 4:14 |
 
-Snapshot ID: `MCxjMjM3M2IxYjc5YjU5MzU5M2E5MjJiMDFhNjkwNjgxMmI1YjBlMzky`
+Snapshot ID: `MCwwMzA3NmNmZDY4NjRhODY2OWM0ZDBhZGZhY2QxNjA2ODA4OWRlNGMw`

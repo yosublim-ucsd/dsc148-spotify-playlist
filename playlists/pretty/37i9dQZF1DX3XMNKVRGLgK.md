@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/nigelsylvester/">Nigel Sylvester</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,789 likes - 30 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,831 likes - 30 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 | 29 | [queens shit.](https://open.spotify.com/track/5fKB3QygGZfzgyapUCTpV9) | [Remy Banks](https://open.spotify.com/artist/37dMe6EquztHIXOFF44iKZ) | [champ hoody music\. ep.1](https://open.spotify.com/album/16wn93pdT8x632qceupGXI) | 1:22 |
 | 30 | [Championships](https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 4:21 |
 
-Snapshot ID: `MCxhZDU1ZDBlYTgxMzM5NTUyOWM3NjE4YjRkZWYwYWYwOGQ4YzY1NTk2`
+Snapshot ID: `MCwzOWU1YjgzZmM0MDkxMDJmZTE4ZTdlZDhjNGE3OTljMmI4YTYwODQx`

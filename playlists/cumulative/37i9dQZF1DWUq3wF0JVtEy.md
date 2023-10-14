@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-358 songs - 17 hr 29 min
+359 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-10-29 | 2022-08-06 |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2022-04-01 | 2022-08-06 |
 | [Don't Say You Love Me](https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [Don't Say You Love Me](https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7) | 3:04 | 2022-08-12 |  |
+| [Don't Step On My Nikes](https://open.spotify.com/track/60rwDygmXmbkD5OVc508y9) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Don't Step On My Nikes](https://open.spotify.com/album/3IOrmd5uhcEwnLyWXEmM1d) | 2:36 | 2023-10-06 |  |
 | [Down Low](https://open.spotify.com/track/5jbz9ONajDOe1AW5c3ob5U) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE), [Donnie Sloan](https://open.spotify.com/artist/4t95822Jv53tQJK2iS4dKt) | [Down Low](https://open.spotify.com/album/38O7LZ16jFp9RJ5BdCpFt0) | 2:41 | 2021-10-29 | 2022-11-12 |
 | [Downtown \(with Kelvin Jones\)](https://open.spotify.com/track/3d7SAAfRMZzuYNqfJhR3bI) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Downtown \(with Kelvin Jones\)](https://open.spotify.com/album/0XKTTx5dsmKvSphUp8wBVS) | 2:10 | 2021-10-29 | 2022-09-09 |
 | [DRIVE](https://open.spotify.com/track/3v6cqJNWyYT1A2xsaVnO2r) | [Podhajski](https://open.spotify.com/artist/4Uqq0JQaGLSDvsQMVGx1kL) | [DRIVE](https://open.spotify.com/album/5yXEJipjPEb2AOiCrXrMJv) | 4:40 | 2021-10-29 | 2022-07-28 |
@@ -262,7 +263,7 @@
 | [Outer Space](https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Outer Space](https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY) | 3:12 | 2022-11-11 |  |
 | [Paradise](https://open.spotify.com/track/3KcUTtzg9W5Hse7RknCSZr) | [DJ Shaan](https://open.spotify.com/artist/274JojhV4zGJX0Z6WPgg5x), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Paradise](https://open.spotify.com/album/4Vl5A4SFNnw6BCjTWfWSQf) | 2:53 | 2021-10-29 | 2022-06-11 |
 | [Party Crashers](https://open.spotify.com/track/2gVxKVSXaj9AONYkw2AUZc) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Party Crashers](https://open.spotify.com/album/3LLtXVH3HDyBIOBQ1SKl6l) | 2:35 | 2023-09-08 |  |
-| [Patron](https://open.spotify.com/track/5u6vPXz6fNB55xWP5pzmJb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Patron](https://open.spotify.com/album/0mFtxNT7BPD4Mb5BWuX0jX) | 2:49 | 2023-05-26 |  |
+| [Patron](https://open.spotify.com/track/5u6vPXz6fNB55xWP5pzmJb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Patron](https://open.spotify.com/album/0mFtxNT7BPD4Mb5BWuX0jX) | 2:49 | 2023-05-26 | 2023-10-14 |
 | [Play By My Rules](https://open.spotify.com/track/01xowIJrmShI6X9Q1WXqAd) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Play By My Rules](https://open.spotify.com/album/1FBavf0FlcPMSm1OaByO2p) | 3:37 | 2022-01-28 | 2022-08-27 |
 | [Poison](https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [Poison](https://open.spotify.com/album/2jKuairRPQOhtdfDCRNvNT) | 3:24 | 2021-10-29 | 2022-11-12 |
 | [Policia](https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Policia](https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM) | 3:31 | 2022-04-29 | 2023-04-23 |

@@ -2,7 +2,7 @@
 
 ### [Templo do Rock](https://open.spotify.com/playlist/37i9dQZF1DWZ0BlvV9acBN)
 
-> Grandes sucessos e novidades do rock Cristão\. Foto: Judas O Outro
+> Grandes sucessos e novidades do rock Cristão\. Foto: Trazendo a Arca
 
 122 songs - 9 hr 34 min
 
@@ -15,10 +15,10 @@
 | [A Estátua](https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Diego Rox](https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg) | [A Estátua](https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK) | 3:27 | 2023-03-18 |  |
 | [A Fênix](https://open.spotify.com/track/036y2ECw1GN9hzwYtUzcjh) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [A Fênix](https://open.spotify.com/album/5TTQATslcS8RatQMnppMh6) | 4:00 | 2022-09-02 | 2023-07-22 |
 | [A Porta \- Acústico](https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [A Porta \(Acústico\)](https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4) | 3:11 | 2022-10-14 | 2023-07-15 |
-| [A Rosa e o Espinho: In Concert \- Ao Vivo](https://open.spotify.com/track/5xjyvPqZN4i2cim98DvNx5) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [A Rosa e o Espinho: In Concert \(Ao Vivo\)](https://open.spotify.com/album/2Pm6LMv22egl44eo75SBgx) | 4:48 | 2023-09-08 |  |
+| [A Rosa e o Espinho: In Concert \- Ao Vivo](https://open.spotify.com/track/5xjyvPqZN4i2cim98DvNx5) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [A Rosa e o Espinho: In Concert \(Ao Vivo\)](https://open.spotify.com/album/2Pm6LMv22egl44eo75SBgx) | 4:48 | 2023-09-08 | 2023-10-14 |
 | [A Vitória Da Cruz / Mais Que Vencedor \- Ao Vivo](https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Salazar \(Ao Vivo\)](https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN) | 6:20 | 2022-09-02 |  |
 | [Agora Eu Vivo Teu Amor](https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Agora Eu Vivo Teu Amor](https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO) | 3:10 | 2022-09-02 |  |
-| [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 | 2022-09-02 | 2023-10-07 |
+| [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 | 2022-09-02 |  |
 | [Artifício](https://open.spotify.com/track/5UPGfXS8YBzGYlo6qjajAc) | [Marcelo Sissá](https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3) | [Artifício](https://open.spotify.com/album/1D0PrOO9NiviiCtDWCoLpC) | 3:12 | 2022-09-02 | 2023-04-16 |
 | [As Sepulturas Se Abrirão \- Ao Vivo](https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy) | [Palankin](https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ), [Ana Rock](https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U) | [Na Terra Parte 2/3 \(Ao Vivo\)](https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d) | 4:48 | 2023-03-03 |  |
 | [Assume a Responsa](https://open.spotify.com/track/1QsGZr3d0O0vqJhJr1QZQg) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Assume a Responsa](https://open.spotify.com/album/2Z8TDPzD9x6rDB1VSRtFm8) | 4:19 | 2022-09-02 | 2023-02-04 |

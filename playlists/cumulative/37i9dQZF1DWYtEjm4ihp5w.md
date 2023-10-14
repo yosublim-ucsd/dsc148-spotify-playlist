@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Inkonnu
+> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Bo9al
 
 165 songs - 8 hr 44 min
 

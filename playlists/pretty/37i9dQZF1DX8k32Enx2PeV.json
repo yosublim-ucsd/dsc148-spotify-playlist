@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 7969,
+  "num_followers": 7992,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWMzOGRmNDJhYjI5NzdmMjkyMzhjNGRhOThlMGUwYzZiODQ2ZDBi",
+  "snapshot_id": "MCw5YzUyMTY5MWUyYzZhNWEwYmFhNmExMzA3N2ExN2U5ODViMTVlMzZl",
   "tracks": [
     {
       "added_at": "2023-09-22 05:25:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "B\u00faho",
+        "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bleat",
+          "url": "https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb"
+        }
+      ],
+      "duration_ms": 300338,
+      "name": "B\u00faho",
+      "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "Un D\u00eda a la Vez",
         "url": "https://open.spotify.com/album/1ou9ssBPUFB9hQzieb1ctA"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 246000,
       "name": "Un D\u00eda a la Vez",
       "url": "https://open.spotify.com/track/1tlIVwWxXIIoNfqa9aELW9"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "B\u00faho",
-        "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
-      },
-      "artists": [
-        {
-          "name": "Mr. Bleat",
-          "url": "https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb"
-        }
-      ],
-      "duration_ms": 300338,
-      "name": "B\u00faho",
-      "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 221346,
-      "name": "Se Acab\u00f3",
-      "url": "https://open.spotify.com/track/5VCpCHyZO5LzLGgN4399D4"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Supernatural Love",
         "url": "https://open.spotify.com/album/5UqBaTISwlVwyjVZJZP8ec"
       },
@@ -983,18 +967,34 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Mudanza",
-        "url": "https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt"
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
       },
       "artists": [
         {
-          "name": "Kid Fresco",
-          "url": "https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD"
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         }
       ],
-      "duration_ms": 212178,
-      "name": "Mudanza",
-      "url": "https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C"
+      "duration_ms": 221346,
+      "name": "Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/5VCpCHyZO5LzLGgN4399D4"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 155613,
+      "name": "All Inclusive",
+      "url": "https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
+        "name": "Mudanza",
+        "url": "https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt"
       },
       "artists": [
         {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+          "name": "Kid Fresco",
+          "url": "https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD"
         }
       ],
-      "duration_ms": 155613,
-      "name": "All Inclusive",
-      "url": "https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm"
+      "duration_ms": 212178,
+      "name": "Mudanza",
+      "url": "https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C"
     },
     {
       "added_at": "2023-09-22 05:25:00",

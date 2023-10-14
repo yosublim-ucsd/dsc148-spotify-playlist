@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 
 ### [Coleção Emo](https://open.spotify.com/playlist/37i9dQZF1DWZWPnggOS86l)
 
-> Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Di Ferrero \(NXZero\)
+> Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Emoponto
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,920 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,654 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Razões E Emoções](https://open.spotify.com/track/3VPWRmLJaUtj8WPFo4LXtg) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Daqui Pra Frente \- NX Zero](https://open.spotify.com/album/7u2G12TefBv9h5q9bhOLL4) | 3:42 |
-| 2 | [Deixar Partir \- Live Session](https://open.spotify.com/track/4gsoxxhfcVBZ8rIzl2b6HD) | [Emoponto](https://open.spotify.com/artist/5wybIAmMmNUQ4zmwRMODRb), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK) | [Live na Quarentena: Polifonia Online 2020 \(Live Session\)](https://open.spotify.com/album/2pHlcGhSS81dnJ1I1tzw55) | 3:35 |
+| 1 | [Deixar Partir \- Live Session](https://open.spotify.com/track/4gsoxxhfcVBZ8rIzl2b6HD) | [Emoponto](https://open.spotify.com/artist/5wybIAmMmNUQ4zmwRMODRb), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK) | [Live na Quarentena: Polifonia Online 2020 \(Live Session\)](https://open.spotify.com/album/2pHlcGhSS81dnJ1I1tzw55) | 3:35 |
+| 2 | [Razões E Emoções](https://open.spotify.com/track/3VPWRmLJaUtj8WPFo4LXtg) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Daqui Pra Frente \- NX Zero](https://open.spotify.com/album/7u2G12TefBv9h5q9bhOLL4) | 3:42 |
 | 3 | [O Mundo Dá Voltas](https://open.spotify.com/track/0f0Udph5uhDHBLEAbhWdNm) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [CPM22](https://open.spotify.com/album/4IfW9TyWxqjTWMoSKBEdCK) | 2:57 |
 | 4 | [Hidropônica](https://open.spotify.com/track/41cfAAqVwiPDtiaqkbHJOB) | [Forfun](https://open.spotify.com/artist/1qIAsl3tIpnX0j4BMi0l5g) | [Ao Vivo No Circo Voador](https://open.spotify.com/album/1rDTkwnb3Md7D8hF7sXEK8) | 3:13 |
 | 5 | [Cada Poça Dessa Rua Tem Um Pouco de Minhas Lágrimas](https://open.spotify.com/track/4WMZXYJ57CZMX5W1bWcNHb) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/1nCMa3kC0kbnabvqKdH0aR) | 5:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 59 | [Voltar a Ser Canção](https://open.spotify.com/track/4As0FVE0RhNu5nKYgHa3dN) | [Dom Pedro](https://open.spotify.com/artist/2dn4iIwTZDvX8suARVjwBs) | [Primeiro](https://open.spotify.com/album/0Q6r6sOigwWud4pXvg8BTH) | 4:04 |
 | 60 | [Olha minha cara](https://open.spotify.com/track/6y1ssXWGsye4VJsSOP50Kt) | [Canto dos Malditos Na Terra do Nunca](https://open.spotify.com/artist/0zpgOZi5pnXnFxanyxowaI) | [Canto dos Malditos Na Terra do Nunca](https://open.spotify.com/album/2O5Q1X14xnEt4AbS2QkbLp) | 3:31 |
 
-Snapshot ID: `MCxkMGQyNjdhYTcyMDNhZWEzZmY1YjQ4YWE5MjFmNzg3MmI4N2FmOWE1`
+Snapshot ID: `MCwyZmJmMjFlZWEzNWQ3OGRkNDI2YTU4ZGIwMzU3MjE5ZDNjNWM3YWYx`

@@ -2,7 +2,7 @@
 
 ### [ALTO ASTRAL](https://open.spotify.com/playlist/37i9dQZF1DWUIDYTCle9M9)
 
-> Hits e clássicos para jogar sua energia lá em cima! Foto: IZA
+> Hits e clássicos para jogar sua energia lá em cima!
 
 150 songs - 9 hr 14 min
 
@@ -65,7 +65,7 @@
 | [Fico Assim Sem Você](https://open.spotify.com/track/1L3XZAKODPVuBgeJQpJHLM) | [Claudinho & Buchecha](https://open.spotify.com/artist/4avp60HMZY8XgYe7VGi4SU) | [Vamos Dançar](https://open.spotify.com/album/3kMmtmPY4u4KLJbYWTc7Q8) | 3:44 | 2021-07-02 | 2022-07-29 |
 | [Forever](https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Forever](https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW) | 4:38 | 2021-07-02 |  |
 | [Fácil](https://open.spotify.com/track/5rhijzoJmc7ZdnEgBS58Wh) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [De Volta Ao Planeta](https://open.spotify.com/album/0j7IkGGOTpFMLIiLffhEkX) | 5:18 | 2021-07-02 | 2022-07-29 |
-| [Fé nas Maluca](https://open.spotify.com/track/7xGVDSYG1QhdXlKpLKJAgg) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:23 | 2023-10-06 |  |
+| [Fé nas Maluca](https://open.spotify.com/track/7xGVDSYG1QhdXlKpLKJAgg) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:23 | 2023-10-06 | 2023-10-14 |
 | [Galway Girl](https://open.spotify.com/track/0afhq8XCExXpqazXczTSve) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 2:50 | 2021-07-02 |  |
 | [Garota Nacional](https://open.spotify.com/track/7DoBn08dqKS9MmtZiZChVD) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [O Samba Poconé](https://open.spotify.com/album/7evTWhFmwKyf1GXnLzos3p) | 5:17 | 2021-07-02 | 2022-07-29 |
 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 | 2021-07-02 |  |
@@ -123,7 +123,7 @@
 | [Rindo À Toa](https://open.spotify.com/track/36OHYoQYvFtjuTE3LCdEoH) | [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Falamansa Essencial](https://open.spotify.com/album/6QB3is8FTgiJ84fLQsMOJU) | 3:41 | 2021-07-02 | 2022-07-29 |
 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 | 2021-07-02 |  |
 | [Sexy Iemanjá](https://open.spotify.com/track/0PvYd9bLZoIMbVd1TJpeju) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Meu Coração](https://open.spotify.com/album/0pV48P4dUt5ajWGZpAnvpy) | 3:41 | 2021-07-02 | 2022-07-29 |
-| [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 | 2021-07-02 | 2023-10-07 |
+| [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 | 2021-07-02 |  |
 | [Shimbalaiê](https://open.spotify.com/track/4xISjdYpFEMsAFC2ax7OVE) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:16 | 2021-07-02 | 2022-06-11 |
 | [Shotgun](https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:21 | 2021-07-02 |  |
 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 | 2021-07-02 |  |

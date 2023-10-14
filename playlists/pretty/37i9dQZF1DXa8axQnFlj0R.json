@@ -1,12 +1,12 @@
 {
   "description": "The playlist version of a warm hug",
-  "num_followers": 69247,
+  "num_followers": 69275,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTVkNzdlNjMzZTQxZTYxZTllYzAxZmRmZWY4NmJjZTU4NjcxOWE2",
+  "snapshot_id": "MCwzZTYwMzljOWM2MzczZjcxMTllOWIzNTQzZTFkYmM5NTNkNzk5NWNl",
   "tracks": [
     {
       "added_at": "2023-10-10 21:15:28",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-10-10 21:15:28",
       "album": {
-        "name": "Simply the Best (From \"Schitt's Creek\")",
-        "url": "https://open.spotify.com/album/3by1f21NPpyV2sxW4PkzRp"
-      },
-      "artists": [
-        {
-          "name": "Noah Reid",
-          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
-        }
-      ],
-      "duration_ms": 177918,
-      "name": "Simply the Best (From \"Schitt's Creek\")",
-      "url": "https://open.spotify.com/track/1KFuLRUmWf0irn0CLclT2X"
-    },
-    {
-      "added_at": "2023-10-10 21:15:28",
-      "album": {
         "name": "Tomb",
         "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 236819,
       "name": "Time",
       "url": "https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ"
+    },
+    {
+      "added_at": "2023-10-10 21:15:28",
+      "album": {
+        "name": "Simply the Best (From \"Schitt's Creek\")",
+        "url": "https://open.spotify.com/album/3by1f21NPpyV2sxW4PkzRp"
+      },
+      "artists": [
+        {
+          "name": "Noah Reid",
+          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
+        }
+      ],
+      "duration_ms": 177918,
+      "name": "Simply the Best (From \"Schitt's Creek\")",
+      "url": "https://open.spotify.com/track/1KFuLRUmWf0irn0CLclT2X"
     },
     {
       "added_at": "2023-10-10 21:15:28",
@@ -1167,22 +1167,18 @@
     {
       "added_at": "2023-10-10 21:15:28",
       "album": {
-        "name": "Seventeen Going Under (Acoustic)",
-        "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
+        "name": "Dream Song",
+        "url": "https://open.spotify.com/album/6NlSEYD0tosjRfVAUqBSLb"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        },
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Shallow Alcove",
+          "url": "https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj"
         }
       ],
-      "duration_ms": 270840,
-      "name": "Seventeen Going Under - Acoustic",
-      "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
+      "duration_ms": 163125,
+      "name": "Dream Song",
+      "url": "https://open.spotify.com/track/6ojor4w0aY3Nl101vyidbH"
     },
     {
       "added_at": "2023-10-10 21:15:28",
@@ -1203,18 +1199,22 @@
     {
       "added_at": "2023-10-10 21:15:28",
       "album": {
-        "name": "Dream Song",
-        "url": "https://open.spotify.com/album/6NlSEYD0tosjRfVAUqBSLb"
+        "name": "Seventeen Going Under (Acoustic)",
+        "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
       "artists": [
         {
-          "name": "Shallow Alcove",
-          "url": "https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj"
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 163125,
-      "name": "Dream Song",
-      "url": "https://open.spotify.com/track/6ojor4w0aY3Nl101vyidbH"
+      "duration_ms": 270840,
+      "name": "Seventeen Going Under - Acoustic",
+      "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
     },
     {
       "added_at": "2023-10-10 21:15:28",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-10-10 21:15:28",
       "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 236653,
-      "name": "Two People",
-      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
-    },
-    {
-      "added_at": "2023-10-10 21:15:28",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/2ZazqwsVLTRPltQMgje6Mc"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 227698,
       "name": "Still",
       "url": "https://open.spotify.com/track/7lKmIkQzOyJuW9ZIbmIOog"
+    },
+    {
+      "added_at": "2023-10-10 21:15:28",
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 236653,
+      "name": "Two People",
+      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
     },
     {
       "added_at": "2023-10-10 21:15:28",

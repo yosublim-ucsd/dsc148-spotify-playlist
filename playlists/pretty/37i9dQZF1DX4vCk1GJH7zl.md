@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 ### [Rock Leve](https://open.spotify.com/playlist/37i9dQZF1DX4vCk1GJH7zl)
 
-> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Raphael Ota
+> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Jota Quest
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,499 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,493 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Quem Me Dera](https://open.spotify.com/track/6NqgtbC5WuR20UKSnDCsQ2) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [Invernia](https://open.spotify.com/album/6aICwiB8bpY0ZA409IIfdx) | 3:30 |
-| 2 | [Começa Tudo Outra Vez](https://open.spotify.com/track/6h0ASQ97OHyTyY8AfcCfAN) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Quatro Cantos de Um Mundo Redondo](https://open.spotify.com/album/5xBXM2fP2SkEEttijLCtGB) | 3:28 |
+| 1 | [N\-U\-M\-A\-B\-O\-A](https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [De Volta Ao Novo \- Volume 1](https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC) | 3:06 |
+| 2 | [No Delta dos Rios](https://open.spotify.com/track/7ifgiwIrIWAlckZPXSL2m2) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Power Trio](https://open.spotify.com/album/4my2f5Jg1MTotcaknswcxR) | 4:03 |
 | 3 | [Por Enquanto \- Ao Vivo](https://open.spotify.com/track/3H2oROvmrOu4hnf3Xv7pjU) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial Multishow \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/2UF8ePNIpJAQiU6V7E1zRS) | 4:14 |
 | 4 | [Blue](https://open.spotify.com/track/25dMFOp9UeMCVkJoUXczwW) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [The High Life EP](https://open.spotify.com/album/2t9oCdm1Bu3Ja68sTW2v4t) | 4:09 |
-| 5 | [Sweet Sounds Of Heaven \(feat\. Lady Gaga & Stevie Wonder\)](https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Sweet Sounds Of Heaven](https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK) | 7:22 |
-| 6 | [No Delta dos Rios](https://open.spotify.com/track/7ifgiwIrIWAlckZPXSL2m2) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Power Trio](https://open.spotify.com/album/4my2f5Jg1MTotcaknswcxR) | 4:03 |
-| 7 | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6) | 3:27 |
-| 8 | [Pequenas Coisas](https://open.spotify.com/track/2sfKGR8005yI04id52i70p) | [Daniel Lima](https://open.spotify.com/artist/3y08WX6dvJRofhXVXnQ3Lo), [Wilson Sideral](https://open.spotify.com/artist/43NwJ02BY0AU2fHjlSKLQO) | [Pequenas Coisas](https://open.spotify.com/album/6ZjnmO1ErxLMwSQcteDnV2) | 4:41 |
-| 9 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/4GifjoggvmG2sYEGE2PsIu) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny) | 5:22 |
-| 10 | [Birds and the Bees](https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn) | 4:14 |
-| 11 | [Quimera](https://open.spotify.com/track/38AhroLzkLm5gs2JRkVjPJ) | [Tukum](https://open.spotify.com/artist/69aatX6EpsWfK0b4rsFsly) | [Estradas Dentro](https://open.spotify.com/album/2HS046T4uwxsytXEKHMXTt) | 3:43 |
-| 12 | [Stop Crying Your Heart Out](https://open.spotify.com/track/0SlpFHdk4UHBDzCEoXzy14) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 5:03 |
-| 13 | [Pássaro Livre](https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pássaro Livre](https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA) | 4:28 |
-| 14 | [Stonehenge \- Live](https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos\) \[Live\]](https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6) | 4:12 |
-| 15 | [Wishbone](https://open.spotify.com/track/5kmyEZWbvN68yERmQq3PM5) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Wishbone](https://open.spotify.com/album/3epsVwCw6BGWKBa3kplHRr) | 2:52 |
+| 5 | [Quem Me Dera](https://open.spotify.com/track/6NqgtbC5WuR20UKSnDCsQ2) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [Invernia](https://open.spotify.com/album/6aICwiB8bpY0ZA409IIfdx) | 3:30 |
+| 6 | [Sweet Sounds Of Heaven \(feat\. Lady Gaga & Stevie Wonder\)](https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Sweet Sounds Of Heaven](https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK) | 7:22 |
+| 7 | [Começa Tudo Outra Vez](https://open.spotify.com/track/6h0ASQ97OHyTyY8AfcCfAN) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Quatro Cantos de Um Mundo Redondo](https://open.spotify.com/album/5xBXM2fP2SkEEttijLCtGB) | 3:28 |
+| 8 | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6) | 3:27 |
+| 9 | [Pequenas Coisas](https://open.spotify.com/track/2sfKGR8005yI04id52i70p) | [Daniel Lima](https://open.spotify.com/artist/3y08WX6dvJRofhXVXnQ3Lo), [Wilson Sideral](https://open.spotify.com/artist/43NwJ02BY0AU2fHjlSKLQO) | [Pequenas Coisas](https://open.spotify.com/album/6ZjnmO1ErxLMwSQcteDnV2) | 4:41 |
+| 10 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/4GifjoggvmG2sYEGE2PsIu) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny) | 5:22 |
+| 11 | [Birds and the Bees](https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn) | 4:14 |
+| 12 | [Quimera](https://open.spotify.com/track/38AhroLzkLm5gs2JRkVjPJ) | [Tukum](https://open.spotify.com/artist/69aatX6EpsWfK0b4rsFsly) | [Estradas Dentro](https://open.spotify.com/album/2HS046T4uwxsytXEKHMXTt) | 3:43 |
+| 13 | [Stop Crying Your Heart Out](https://open.spotify.com/track/0SlpFHdk4UHBDzCEoXzy14) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 5:03 |
+| 14 | [Pássaro Livre](https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pássaro Livre](https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA) | 4:28 |
+| 15 | [Stonehenge \- Live](https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos\) \[Live\]](https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6) | 4:12 |
 | 16 | [Pensando Bem](https://open.spotify.com/track/2hzv2fq86gwMSR3ppsvyJ5) | [Drenna](https://open.spotify.com/artist/7Km2oqSGqY9nTSnyY4QVyf) | [Cisne Negro](https://open.spotify.com/album/2d6HKeQ9TVtHFjrWnrMO9n) | 3:25 |
 | 17 | [Simplesmente](https://open.spotify.com/track/60m0V9vDxXMfBn9geBFOIn) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Simplesmente](https://open.spotify.com/album/3ac6zkBEQu4VBuEEZ6A5nZ) | 3:42 |
 | 18 | [Lanterna Dos Afogados](https://open.spotify.com/track/2ooYFhMEWlxsvkGVw6QMlM) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Os Paralamas do Sucesso: 40 Anos \- As Melhores](https://open.spotify.com/album/3Mr4t7nIyQRiUCnKouTyYY) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 74 | [Quero Te Levar](https://open.spotify.com/track/5HNSzyOYeKko9LiIJvVGaQ) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Quero Te Levar](https://open.spotify.com/album/22CxgpaTDyzRSzdeQq1jQc) | 2:59 |
 | 75 | [Camaleão](https://open.spotify.com/track/4rNTVavvYJ6RZnWQDqOJrP) | [Leo Quintella](https://open.spotify.com/artist/6Rb1kQndjICzingrL0jXW9) | [Camaleão](https://open.spotify.com/album/0JdfXInQkquJKuyqlVLfEH) | 3:16 |
 
-Snapshot ID: `MCwxYTA1NzBiZTA3YjI5NDQ5MGE1ZDIxMDRlY2M1YjNkOTk5YTc5Y2I0`
+Snapshot ID: `MCxmMzRhMmYxYWQ5NmE0YzkzYzk0NzZmYzZmNWUyNjA4MTNkYTZmYTE2`

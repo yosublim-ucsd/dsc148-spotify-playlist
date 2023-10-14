@@ -119,6 +119,24 @@
     },
     {
       "album": {
+        "name": "Afternoon X",
+        "url": "https://open.spotify.com/album/6yUptnHXA1lRp48hWzXsUl"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246466,
+      "name": "Afternoon X",
+      "url": "https://open.spotify.com/track/3DdKYu9en4HzWUdg98bB9Z"
+    },
+    {
+      "album": {
         "name": "Ain't No Grave",
         "url": "https://open.spotify.com/album/3T3przz4Szk0vu6RSsncmk"
       },
@@ -3464,7 +3482,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 240262,
       "name": "Mormor",
       "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"

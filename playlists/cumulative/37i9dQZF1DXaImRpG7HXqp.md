@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-624 songs - 1 day 3 hr 4 min
+625 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,8 @@
 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 | 2021-12-08 | 2022-04-06 |
 | [Infatuated](https://open.spotify.com/track/4snLhsoeQDkuYpjSmnGlUV) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Infatuated](https://open.spotify.com/album/2kIwwzu3FAJcZRxA5P0eFH) | 2:45 | 2023-02-24 |  |
 | [Infatuation](https://open.spotify.com/track/1RKWZJKvFfuPDroaYPnaNA) | [Kay Meine](https://open.spotify.com/artist/1YCpuDhM5Ounw7IiCBypuB) | [Infatuation](https://open.spotify.com/album/7eyl64vJR6DiBHa8TAzgRL) | 2:14 | 2021-12-08 |  |
-| [Innocent Face](https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:02 | 2023-10-13 |  |
+| [Innocent Face](https://open.spotify.com/track/1LjYFVvhXmuP3RgErQBYkH) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Innocent Face](https://open.spotify.com/album/4GpBw9UUFaHkv12myq2POe) | 2:02 | 2023-10-13 |  |
+| [Innocent Face](https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:02 | 2023-10-13 | 2023-10-14 |
 | [Inside the stone](https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Inside the stone](https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi) | 2:04 | 2023-03-24 |  |
 | [Intimation](https://open.spotify.com/track/1pPsz87YEWRZKgCLSPKyoL) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Intimation](https://open.spotify.com/album/3zKYzylFhenfGuKNaNfOB6) | 1:24 | 2022-08-19 | 2023-08-19 |
 | [Intuition](https://open.spotify.com/track/6vUsv2JJEUDjfKO6WPDJhZ) | [Miller Hawkins](https://open.spotify.com/artist/3UOaQwHxcBDlMJm5P34hme) | [Intuition](https://open.spotify.com/album/4yTM5RvuKvukyE0JudZm6G) | 2:54 | 2021-12-08 | 2022-04-22 |

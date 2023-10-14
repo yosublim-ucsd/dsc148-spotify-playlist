@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 85036,
+  "num_followers": 84952,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTlkMDllMTcyZTE4ZGQ0YzJlNWMyN2U0ZGVhMzM4NWRmMGEzZTlk",
+  "snapshot_id": "MCxhN2RkYWI4YzEwYTA0ZjJjZWUzMmFmYjQ0M2U3MjBjMjJmYjI3ZWQ1",
   "tracks": [
     {
       "added_at": "2023-10-07 00:35:47",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Perdedor",
-        "url": "https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB"
-      },
-      "artists": [
-        {
-          "name": "Consulado Popular",
-          "url": "https://open.spotify.com/artist/7A8fPSWDyJhjCtzHWhprQR"
-        }
-      ],
-      "duration_ms": 191533,
-      "name": "Perdedor",
-      "url": "https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Castillos de Arena",
         "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 196437,
       "name": "Punto Final",
       "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Perdedor",
+        "url": "https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB"
+      },
+      "artists": [
+        {
+          "name": "Consulado Popular",
+          "url": "https://open.spotify.com/artist/7A8fPSWDyJhjCtzHWhprQR"
+        }
+      ],
+      "duration_ms": 191533,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -631,6 +631,26 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "Nada que hablar (feat. Aterciopelados)",
+        "url": "https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        },
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 205180,
+      "name": "Nada que hablar (feat. Aterciopelados)",
+      "url": "https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Delirio",
         "url": "https://open.spotify.com/album/35nk59oHxNe8wQkGiDyAMI"
       },
@@ -671,6 +691,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "No Hay Mal Que Dure una Vida",
+        "url": "https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd"
+      },
+      "artists": [
+        {
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+        }
+      ],
+      "duration_ms": 215287,
+      "name": "Qu\u00e9date Cerca",
+      "url": "https://open.spotify.com/track/5dioafqgaV1ywCUXpMMAOR"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Ni\u00f1os Perdidos",
         "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
       },
@@ -691,22 +727,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "No Hay Mal Que Dure una Vida",
-        "url": "https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd"
-      },
-      "artists": [
-        {
-          "name": "Lika Nova",
-          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
-        }
-      ],
-      "duration_ms": 215287,
-      "name": "Qu\u00e9date Cerca",
-      "url": "https://open.spotify.com/track/5dioafqgaV1ywCUXpMMAOR"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "TEMPLO KOMODO",
         "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 249965,
       "name": "B\u00fahoz",
       "url": "https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "Nada que hablar (feat. Aterciopelados)",
-        "url": "https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        },
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        }
-      ],
-      "duration_ms": 205180,
-      "name": "Nada que hablar (feat. Aterciopelados)",
-      "url": "https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "Barco de Papel",
+        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 203584,
+      "name": "Salir Ileso",
+      "url": "https://open.spotify.com/track/4x5YCTYmHCJV32RO5TAbr0"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Perro Come Perro",
         "url": "https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 197334,
       "name": "Perro Come Perro",
       "url": "https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "Manglares (B-Sides) - EP",
-        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "Gemas",
-      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Barco de Papel",
-        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
+        "name": "Manglares (B-Sides) - EP",
+        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
       },
       "artists": [
         {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
         }
       ],
-      "duration_ms": 203584,
-      "name": "Salir Ileso",
-      "url": "https://open.spotify.com/track/4x5YCTYmHCJV32RO5TAbr0"
+      "duration_ms": 218752,
+      "name": "Gemas",
+      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "El Pasado Fue Mejor (feat. Don Tetto)",
-        "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        },
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "El Pasado Fue Mejor (feat. Don Tetto)",
-      "url": "https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Ave Nocturna",
         "url": "https://open.spotify.com/album/7kwFVg9z4gRPmmz8z5TZIH"
       },
@@ -971,6 +951,22 @@
       "duration_ms": 175724,
       "name": "El Viejo",
       "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 179239,
+      "name": "Lejos De Aqui",
+      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
     },
     {
       "added_at": "2023-10-07 00:35:47",

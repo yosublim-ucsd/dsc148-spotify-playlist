@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 29252,
+  "num_followers": 29278,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjkzYzk4MDYyMjZkYTYxNDViMjg5OTBhNzBjNmE5MjBlNTM0Zjgy",
+  "snapshot_id": "MCw0ZDFlNjQ4MGE5YzlmYmM3ZDQxOWI1NzZhNjNmNWE2NTFiYjhiMjM1",
   "tracks": [
     {
       "added_at": "2023-09-15 11:43:10",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music",
-        "url": "https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb"
-      },
-      "artists": [
-        {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Early in the Morning",
-      "url": "https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "The Honeydripper",
         "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 152000,
       "name": "Pocketful Of Money",
       "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music",
+        "url": "https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Early in the Morning",
+      "url": "https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "SUN STUDIO STORY",
-        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
-      },
-      "artists": [
-        {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Early In The Morning",
-      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "This Is the Blues! Vol. 7 (Mono Version)",
         "url": "https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 192011,
       "name": "Me and My Gin",
       "url": "https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "SUN STUDIO STORY",
+        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Early In The Morning",
+      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
     },
     {
       "added_at": "2023-09-15 11:43:10",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Milena(\ubc00\ub808\ub098))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Whee In(\ud718\uc778))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -1319,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "Dear Insanity...",
+        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
+    },
+    {
+      "album": {
         "name": "NIGHT DRIVER",
         "url": "https://open.spotify.com/album/6ucIPiCHNNiz5w4okN3Bjp"
       },
@@ -2349,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "IN the mood",
+        "url": "https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "In The Mood",
+      "url": "https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY"
+    },
+    {
+      "album": {
         "name": "insomnia (feat. KURO)",
         "url": "https://open.spotify.com/album/0ltQcPJwhuE68IyKTLlHYs"
       },
@@ -2594,6 +2630,24 @@
       "duration_ms": 197930,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4oZfm9BPohSYNM3dMpV2KQ"
+    },
+    {
+      "album": {
+        "name": "lonely",
+        "url": "https://open.spotify.com/album/3566WHXxAjUYG5VgWXlSkt"
+      },
+      "artists": [
+        {
+          "name": "SEINY",
+          "url": "https://open.spotify.com/artist/3tjBsp5CVODuG5f1rT2afI"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187773,
+      "name": "lonely",
+      "url": "https://open.spotify.com/track/4vSVu22ZUSMxVPdWnemTWo"
     },
     {
       "album": {
@@ -4540,6 +4594,24 @@
       "duration_ms": 220149,
       "name": "Would You Still Love Me (Feat. MELOH)",
       "url": "https://open.spotify.com/track/03CC9T66w6i25B8KPGcIxA"
+    },
+    {
+      "album": {
+        "name": "Write & Draw",
+        "url": "https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE"
+      },
+      "artists": [
+        {
+          "name": "Kim Boa",
+          "url": "https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232374,
+      "name": "Write & Draw",
+      "url": "https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34"
     },
     {
       "album": {

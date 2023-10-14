@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Drake, J. Cole, Lil Tecca and Lil Wayne!",
+  "description": "Today's Hip-Hop with Drake, Offset, Travis Scott and Young Thug!",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -850,6 +850,32 @@
       "duration_ms": 138187,
       "name": "All Dz Chainz (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/6f8nS2g21RNEL7gNG4WJVT"
+    },
+    {
+      "album": {
+        "name": "All My Life (Remixes)",
+        "url": "https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264179,
+      "name": "All My Life (Burna Boy Remix)",
+      "url": "https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq"
     },
     {
       "album": {
@@ -1758,7 +1784,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 151272,
       "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
       "url": "https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e"
@@ -3032,7 +3058,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 211006,
       "name": "Cha Cha Cha (GloRilla, Fivio Foreign)",
       "url": "https://open.spotify.com/track/7KNccGSE8lwRn9Gu0BY8Q6"
@@ -4451,6 +4477,28 @@
     },
     {
       "album": {
+        "name": "And Then You Pray For Me",
+        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239355,
+      "name": "DunnHill (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/3Hwc9uyLKCu0aCKmpE6Gm9"
+    },
+    {
+      "album": {
         "name": "Dwayne Carter Flow",
         "url": "https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d"
       },
@@ -4876,7 +4924,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 198000,
       "name": "F*ck U Thought",
       "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
@@ -5366,7 +5414,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 142739,
       "name": "First Day Out (Freestyle)",
       "url": "https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G"
@@ -5798,6 +5846,24 @@
       "duration_ms": 124800,
       "name": "Free The Shiners",
       "url": "https://open.spotify.com/track/5NMWPokmUZIX1ySu7YLF74"
+    },
+    {
+      "album": {
+        "name": "From A Man",
+        "url": "https://open.spotify.com/album/3Ut8zKJlqFVRMqwcAww9bP"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207133,
+      "name": "From A Man",
+      "url": "https://open.spotify.com/track/3CUMd8XMv3LBSLrDrKoXQE"
     },
     {
       "album": {
@@ -6378,6 +6444,28 @@
       "duration_ms": 118889,
       "name": "Glitches (feat. G Herbo)",
       "url": "https://open.spotify.com/track/41NdzKqZKg6i629P4UxUaO"
+    },
+    {
+      "album": {
+        "name": "Glizock & Wizop (feat. Key Glock)",
+        "url": "https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192508,
+      "name": "Glizock & Wizop (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0"
     },
     {
       "album": {
@@ -7231,6 +7319,24 @@
     },
     {
       "album": {
+        "name": "Hope You Know",
+        "url": "https://open.spotify.com/album/1Od4A4Vif26G3twKbIGJp2"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227184,
+      "name": "Hope You Know",
+      "url": "https://open.spotify.com/track/2Ge2ZhznMuO22wIQ9Z5Wql"
+    },
+    {
+      "album": {
         "name": "Hopscotch (feat. Swae Lee)",
         "url": "https://open.spotify.com/album/2mer205w0rPUj3mYvud2G8"
       },
@@ -7953,6 +8059,28 @@
     },
     {
       "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260111,
+      "name": "IDGAF (feat. Yeat)",
+      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
+    },
+    {
+      "album": {
         "name": "If I Want You",
         "url": "https://open.spotify.com/album/18WeqJ2p0BOIcPBTKzYso8"
       },
@@ -8266,7 +8394,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 174466,
       "name": "JEALOUSY (feat. Cardi B)",
       "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
@@ -9316,7 +9444,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 159026,
       "name": "Long Nights",
       "url": "https://open.spotify.com/track/6dczv2wlXwCeUkRPjzHUGL"
@@ -10467,6 +10595,24 @@
     },
     {
       "album": {
+        "name": "MY DAY IS RUINED !",
+        "url": "https://open.spotify.com/album/0S2I5ehn7kCisujdvyYImy"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133286,
+      "name": "MY DAY IS RUINED !",
+      "url": "https://open.spotify.com/track/7kxSAje77rPVfZZlWCqtGH"
+    },
+    {
+      "album": {
         "name": "My Escape",
         "url": "https://open.spotify.com/album/1OM4rOFBBHRbN588TxCrD3"
       },
@@ -10850,6 +10996,24 @@
       "duration_ms": 252705,
       "name": "No Good",
       "url": "https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD"
+    },
+    {
+      "album": {
+        "name": "No Hook 2",
+        "url": "https://open.spotify.com/album/4VnhVzYgluzloFMMY5cCf5"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "No Hook 2",
+      "url": "https://open.spotify.com/track/2eLrDMQnosvAOTzoZ8bRZZ"
     },
     {
       "album": {
@@ -11936,7 +12100,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 217213,
       "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
@@ -12994,7 +13158,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 319191,
       "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
       "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
@@ -13343,6 +13507,28 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1blmgrdzwfAKML3bek7xfg"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Oliver Cronin",
+          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/7MljuHS2zehnQXikZ2R1J1"
+    },
+    {
+      "album": {
         "name": "Rumors (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM"
       },
@@ -13578,6 +13764,50 @@
       "duration_ms": 174853,
       "name": "Say Less (feat. Lil Durk & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/6D4n6TkbC3Dce3c03FzrDM"
+    },
+    {
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173253,
+      "name": "SAY MY GRACE (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
+    },
+    {
+      "album": {
+        "name": "FCK GIRL SZN",
+        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193426,
+      "name": "Say Too Much",
+      "url": "https://open.spotify.com/track/3ivlOgTCKS7zk1lXlZsebF"
     },
     {
       "album": {
@@ -13878,7 +14108,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 177902,
       "name": "Shake Yo Dreads",
       "url": "https://open.spotify.com/track/5n2V631qeQri7jI6Kvbm4j"
@@ -15708,7 +15938,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 134715,
       "name": "The One",
       "url": "https://open.spotify.com/track/3V0A5gVJFGy4Hmo3MJ59uD"
@@ -15818,7 +16048,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 172375,
       "name": "There I Go (feat. J. Cole & Mike WiLL Made-It)",
       "url": "https://open.spotify.com/track/1llzRvV9QpuNHjPu0rVQSp"
@@ -16004,6 +16234,24 @@
       "duration_ms": 112625,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/23Cos3STwcp1Q1BX9MSHTC"
+    },
+    {
+      "album": {
+        "name": "TLC",
+        "url": "https://open.spotify.com/album/74SmXYF8NJlxp1PqMEXf3p"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149938,
+      "name": "TLC",
+      "url": "https://open.spotify.com/track/1nXEbGvVAWGRFwVRBu1YSY"
     },
     {
       "album": {
@@ -16870,7 +17118,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 192527,
       "name": "Us Against the World - Remix",
       "url": "https://open.spotify.com/track/0pGecxPm2EOIQgc241d38t"
@@ -17457,6 +17705,36 @@
     },
     {
       "album": {
+        "name": "What's Beef (feat. Inderpal Moga)",
+        "url": "https://open.spotify.com/album/5yHCpPgd6ejBh3rHRZ5WSK"
+      },
+      "artists": [
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        },
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        },
+        {
+          "name": "Jay Trak",
+          "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
+        },
+        {
+          "name": "Inderpal Moga",
+          "url": "https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160159,
+      "name": "What's Beef (feat. Inderpal Moga)",
+      "url": "https://open.spotify.com/track/08XzbojBXDW2GOGKQXt1ga"
+    },
+    {
+      "album": {
         "name": "What's My Name",
         "url": "https://open.spotify.com/album/34kNIYmmIxFlgLDTSp2R2m"
       },
@@ -17974,7 +18252,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 157508,
       "name": "You Wish (with Missy Elliott & Kaliii) \u2013 Remix",
       "url": "https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR"

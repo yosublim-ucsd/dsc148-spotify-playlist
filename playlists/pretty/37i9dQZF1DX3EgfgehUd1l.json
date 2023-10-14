@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 158346,
+  "num_followers": 158427,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWQ3ODNmZTNiNDZhMDEzM2JjZTUzZmFmZTRkYWI5ZWEyODM3OWZi",
+  "snapshot_id": "MCxhMTQyNDVmOTU2YzdmNzk1MGQ2NmRkMWNiYjU3MWU1ZjlhNGFjMjRk",
   "tracks": [
     {
       "added_at": "2020-07-08 17:36:08",
@@ -967,18 +967,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
+        "name": "Ricky Nelson (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt"
       },
       "artists": [
         {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
         }
       ],
-      "duration_ms": 140306,
-      "name": "Walkin' My Baby Back Home",
-      "url": "https://open.spotify.com/track/6JUygdnYt24lSMdXqlfSCt"
+      "duration_ms": 171826,
+      "name": "Someday (You'll Want Me To Want You) - Remastered",
+      "url": "https://open.spotify.com/track/6ew1MCEKObxl8HbkdszmzP"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -999,18 +999,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Ricky Nelson (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
       },
       "artists": [
         {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
         }
       ],
-      "duration_ms": 171826,
-      "name": "Someday (You'll Want Me To Want You) - Remastered",
-      "url": "https://open.spotify.com/track/6ew1MCEKObxl8HbkdszmzP"
+      "duration_ms": 140306,
+      "name": "Walkin' My Baby Back Home",
+      "url": "https://open.spotify.com/track/6JUygdnYt24lSMdXqlfSCt"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Welsh Tenor",
-        "url": "https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Vaughan",
-          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "My Special Angel",
-      "url": "https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Country Style",
         "url": "https://open.spotify.com/album/5e0v4FN49fj8gSgqSNMfal"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 144466,
       "name": "Rose Marie",
       "url": "https://open.spotify.com/track/0DRw1YzAejMK8Qv2MAPzJl"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "The Welsh Tenor",
+        "url": "https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Vaughan",
+          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "My Special Angel",
+      "url": "https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx"
     },
     {
       "added_at": "2020-07-08 17:36:08",

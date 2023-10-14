@@ -1,13 +1,45 @@
 {
   "description": "Apasi\u00f3nate con sus \u00e9xitos en espa\u00f1ol.",
-  "num_followers": 256467,
+  "num_followers": 256406,
   "original_name": "This Is Laura Pausini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGFhOGJmNWYzM2Q1YmVlNWViNDgzMWY4NDJmOTJjNzM2MDJkNzhl",
+  "snapshot_id": "MCw1NjFkZWQ0NTRkYTNjZjRiZDNjMGQwOWU3ZWJkNjcwOGRlYzFlNmJj",
   "tracks": [
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "El primer paso en la luna",
+        "url": "https://open.spotify.com/album/0UU1WRNq0lEBST4QqW7DS6"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 178545,
+      "name": "El primer paso en la luna",
+      "url": "https://open.spotify.com/track/4GcdtQaqyH6qpnv0jrPpcm"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Frente a nosotros",
+        "url": "https://open.spotify.com/album/2tlRHyJYMznfBLjYEY69zt"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 179303,
+      "name": "Frente a nosotros",
+      "url": "https://open.spotify.com/track/7ejgpCjT3L5JRJWKnqeSbV"
+    },
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {

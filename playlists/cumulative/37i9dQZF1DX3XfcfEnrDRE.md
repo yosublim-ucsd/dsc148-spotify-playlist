@@ -4,7 +4,7 @@
 
 > The ever\-evolving sound of Alt! Cover: Gable Price and Friends
 
-172 songs - 11 hr 4 min
+173 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Rebel Heart](https://open.spotify.com/track/1CYfu90Vv4TOCMyrPVdYi1) | [Sam Hibbard](https://open.spotify.com/artist/08mV0xcJ2gAanEFGjWJsCT) | [Rebel Heart](https://open.spotify.com/album/6XGZvU6rGfvHhrhNSdKfSa) | 2:47 | 2022-02-27 | 2022-12-17 |
 | [Remember What It Cost](https://open.spotify.com/track/6uamWfgHsS72Axi8Gpb95p) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Aodhan King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [7](https://open.spotify.com/album/2g1SAILgSY5GB70zgYarni) | 5:25 | 2022-02-27 |  |
 | [right here](https://open.spotify.com/track/5ulMvQqZZGvtNTyKZJ7OX1) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [right here](https://open.spotify.com/album/2RRNHvaYTDhdRidkuvJaz3) | 2:34 | 2022-12-16 |  |
+| [Right Now](https://open.spotify.com/track/1eI2tJUhgaC1b0cYmvzUaa) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm), [Coop](https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP) | [Right Now](https://open.spotify.com/album/4aMuBVHF6EJuaD1SQMhHub) | 2:21 | 2022-12-16 |  |
 | [Right Now](https://open.spotify.com/track/3QMmsuQyB2m4XAkM3VkKTR) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm), [Coop](https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP) | [Rapzilla.com Presents: Freshmen 2021](https://open.spotify.com/album/4HtfMKAYg8lbnR1HKFZ03h) | 2:21 | 2022-02-27 | 2023-09-21 |
 | [Rooftops](https://open.spotify.com/track/3Kx67wg68HCdDLWGeKepL8) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Rooftops](https://open.spotify.com/album/0E5sGFa3NnW5Jj2iIkDwqq) | 2:49 | 2022-02-27 |  |
 | [Run \- Twenty Version](https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Twenty](https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ) | 4:22 | 2022-12-16 |  |
@@ -159,7 +160,7 @@
 | [Talk of the Town](https://open.spotify.com/track/4rTD34yd4a3ECP7vpkyFf0) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Talk of the Town](https://open.spotify.com/album/0zvyYHDg3kFHlcXmVfwL8B) | 3:27 | 2022-07-17 |  |
 | [The Hope Inside](https://open.spotify.com/track/4ayryg0lW8w3FIibi0UcWb) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [Leave What's Lost Behind](https://open.spotify.com/album/7aYN3ImZcHkloKR4LGvHcV) | 4:09 | 2022-02-27 |  |
 | [The Love Of Jesus](https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [The Love Of Jesus](https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c) | 3:04 | 2022-02-27 |  |
-| [Until the End of Time](https://open.spotify.com/track/0tSTru4U38wKK5SuuqHeAe) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [Dancing in the Fire](https://open.spotify.com/album/6NjLmLTuYtbXFPoXv3UqEz) | 4:37 | 2022-07-17 |  |
+| [Until the End of Time](https://open.spotify.com/track/0tSTru4U38wKK5SuuqHeAe) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [Dancing in the Fire](https://open.spotify.com/album/6NjLmLTuYtbXFPoXv3UqEz) | 4:37 | 2022-07-17 | 2023-10-14 |
 | [Until The End Of Time](https://open.spotify.com/track/6ib5TpsfZglT3tieqg9Ley) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [Dancing In The Fire](https://open.spotify.com/album/7E2Cr8LxCdsGwev01NLXzW) | 4:37 | 2022-02-27 | 2022-07-29 |
 | [W O U N D E D H E A R T](https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5) | [W O U N D E D H E A R T](https://open.spotify.com/album/3stPMKUkRfVuXnDHkUaLlQ) | 2:46 | 2022-12-16 |  |
 | [Walk Away](https://open.spotify.com/track/5bCjoSvRrL8YVB0sntBEKd) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Baptized Imagination](https://open.spotify.com/album/1fbxmuiX3FXjhMzwJGYwQE) | 3:10 | 2022-12-16 |  |

@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -3082,7 +3082,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 222091,
       "name": "Grenade",
       "url": "https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ"
@@ -6842,7 +6842,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 206693,
       "name": "That's What I Like",
       "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
@@ -7562,7 +7562,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
@@ -11448,7 +11448,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-09",
+      "date_removed": null,
       "duration_ms": 161208,
       "name": "\u05db\u05dc \u05d4\u05db\u05d5\u05db\u05d1\u05d9\u05dd",
       "url": "https://open.spotify.com/track/6xtqda5h0wlcFn3WdI4pb6"
@@ -12697,6 +12697,24 @@
     },
     {
       "album": {
+        "name": "\u05db\u05dc \u05e4\u05e2\u05dd \u05e7\u05e6\u05ea",
+        "url": "https://open.spotify.com/album/47608LfOkYM1Sq6WBdGhjy"
+      },
+      "artists": [
+        {
+          "name": "Idan Rafael Haviv",
+          "url": "https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211493,
+      "name": "\u05de\u05d7\u05db\u05d4",
+      "url": "https://open.spotify.com/track/3cmplhlwMZyQbuTHThyGe7"
+    },
+    {
+      "album": {
         "name": "\u05de\u05d7\u05e8\u05d5\u05d6\u05ea \u05e4\u05d5\u05e8\u05d9\u05dd",
         "url": "https://open.spotify.com/album/0xDwhMNCuS6Vr7dvBsO8jy"
       },
@@ -13810,7 +13828,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 267466,
       "name": "\u05e2\u05d3 \u05de\u05d7\u05e8",
       "url": "https://open.spotify.com/track/1ttOlVyZvmnozD2muIxulw"
@@ -15048,7 +15066,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 151442,
       "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp"

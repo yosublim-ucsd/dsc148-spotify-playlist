@@ -4,7 +4,7 @@
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-119 songs - 8 hr 11 min
+120 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [They Say I'm Different](https://open.spotify.com/track/7yQpHgbDPweCZhTD5ZtXES) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [They Say I'm Different](https://open.spotify.com/album/6cnH06Wxjb2QqUHFa8PEwc) | 4:15 | 2020-01-08 |  |
 | [Thumb](https://open.spotify.com/track/7pt7AcxYHyVLOpthh9IxHZ) | [TM Stevens](https://open.spotify.com/artist/1JQSaRDeBgD9qxqotg6n6y) | [Shocka Zooloo](https://open.spotify.com/album/4Ykpxtr1YHvEIPQwJDXNyu) | 4:20 | 2020-01-08 |  |
 | [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 | 2022-08-19 | 2023-04-29 |
+| [TK421](https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [TK421](https://open.spotify.com/album/7IncAEknANwQthqiwWySBP) | 3:15 | 2023-10-13 |  |
 | [Tobacco Road](https://open.spotify.com/track/5qE0ehKYj0Mp0XH5BsOKqZ) | [Eric Burdon](https://open.spotify.com/artist/3miNucraVWk4hdVsIxn7id), [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [The Hits & More](https://open.spotify.com/album/4sDlPp3lFxvY3HgKQTOBMG) | 3:57 | 2020-01-08 | 2022-07-29 |
 | [Tobacco Road](https://open.spotify.com/track/4qEOCUBvjk1za4pDYWFsab) | [Eric Burdon](https://open.spotify.com/artist/3miNucraVWk4hdVsIxn7id), [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [The Best of Eric Burdon & War](https://open.spotify.com/album/0Pm5PksODNsUnZjy9ia4Nc) | 3:57 | 2022-02-04 |  |
 | [Tommy The Cat](https://open.spotify.com/track/1efp2bPw7ssJpCi0Almgsx) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [They Can't All Be Zingers](https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT) | 4:14 | 2020-01-08 |  |
@@ -123,7 +124,7 @@
 | [Water](https://open.spotify.com/track/307UYyg68MlszzxHBEzmL5) | [Pigeons Playing Ping Pong](https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl) | [Perspective](https://open.spotify.com/album/7f194oEr0tflRH7sUmtMyw) | 6:30 | 2022-04-08 |  |
 | [What About Love?](https://open.spotify.com/track/5RYLym87yzbP1RW23ywf5j) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Forever](https://open.spotify.com/album/3plQfKgqc059mGxRaQIFqw) | 3:58 | 2022-03-18 |  |
 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 | 2020-01-08 |  |
-| [What Time Is It?](https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:49 | 2020-01-08 |  |
+| [What Time Is It?](https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:49 | 2020-01-08 | 2023-10-14 |
 | [Who Really Are the Monsters?](https://open.spotify.com/track/3w1m4uW4EgWAxXyoKKUHDw) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH) | 5:19 | 2022-02-04 |  |
 | [Wrong Way](https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:16 | 2020-01-08 |  |
 | [You Know That](https://open.spotify.com/track/0TKz5gQUDPeHSyEHBCnsMP) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Go Faster](https://open.spotify.com/album/6C33RIIcD7Q0Sx0APSfpm5) | 3:56 | 2022-02-04 |  |

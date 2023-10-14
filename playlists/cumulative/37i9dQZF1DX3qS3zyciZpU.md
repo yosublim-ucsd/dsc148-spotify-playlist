@@ -4,7 +4,7 @@
 
 > The perfect songs for the perfect day.
 
-170 songs - 10 hr 2 min
+171 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [I'll Never](https://open.spotify.com/track/2c9WCG3eAxbCUiEbvAVj2z) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [I'll Never](https://open.spotify.com/album/18EtwJgfmxArCatnS6w49T) | 2:43 | 2023-01-13 |  |
 | [I'll Say I Do](https://open.spotify.com/track/4eSOx2FzrVXpKmtssY59LB) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [I'll Say I Do](https://open.spotify.com/album/6sDNyjuQ8lvAKoc6qf6K6A) | 3:55 | 2021-09-17 |  |
 | [It Must Be Love](https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 2:51 | 2021-09-17 |  |
+| [It Takes A Woman](https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [It Takes A Woman](https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR) | 4:06 | 2023-10-13 |  |
 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 | 2021-09-17 |  |
 | [Long Haul](https://open.spotify.com/track/4q6L3Ca4YuLHWg8YZqfMvE) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Long Haul](https://open.spotify.com/album/6hv9rSMxLukAg8nYVegpYL) | 3:51 | 2021-09-17 | 2022-07-29 |
 | [Long Haul](https://open.spotify.com/track/6WFhyQ6n43T6bWQgjtW3aX) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Laidback Country](https://open.spotify.com/album/6HUfFgJtKTXSd9b9B4u1Pc) | 3:51 | 2022-10-21 | 2022-11-13 |

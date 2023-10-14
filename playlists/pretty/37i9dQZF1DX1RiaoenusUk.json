@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 24559,
+  "num_followers": 24573,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDg5YTE3MDU4ZmEyN2NmOTg2NGZjZTY2YWEwOTg2ZWE1M2I2NjMz",
+  "snapshot_id": "MCw4ZmVhNDg3YTg1OGZmY2RiZTUzZGU3MTE0MzVhYmVmMTMwNjQ1ODg3",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Leche",
-        "url": "https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 295813,
-      "name": "Jennifer Del Estero",
-      "url": "https://open.spotify.com/track/3aJBJ4DAfTknfkzbd0G9Um"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "funkysolo",
         "url": "https://open.spotify.com/album/7HhpsWu3oXmYHGqYDkQ79V"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 226517,
       "name": "funkysolo",
       "url": "https://open.spotify.com/track/1wd9Yc43eVRgsfivN750MU"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Leche",
+        "url": "https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 295813,
+      "name": "Jennifer Del Estero",
+      "url": "https://open.spotify.com/track/3aJBJ4DAfTknfkzbd0G9Um"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Versus",
-        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 259506,
-      "name": "Jugo",
-      "url": "https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Xavier",
         "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 222333,
       "name": "1000 D\u00edas",
       "url": "https://open.spotify.com/track/3UaCBKxFiggeyp8Y25GxUm"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 259506,
+      "name": "Jugo",
+      "url": "https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Pangea",
-        "url": "https://open.spotify.com/album/4UjEy9hqJdmG31HCaV1Lr4"
-      },
-      "artists": [
-        {
-          "name": "Spaghetti Western",
-          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/3CfFt0xZrWJSBT0Ki46Eou"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Groovin' Bohemia",
         "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 445089,
       "name": "Ameba",
       "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Pangea",
+        "url": "https://open.spotify.com/album/4UjEy9hqJdmG31HCaV1Lr4"
+      },
+      "artists": [
+        {
+          "name": "Spaghetti Western",
+          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/3CfFt0xZrWJSBT0Ki46Eou"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 176924,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/1mKpZeH6wpdhI4jpGYy870"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Myselfed",
         "url": "https://open.spotify.com/album/1gMhxgWFw8hCTKQH0B9Wvf"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 287639,
       "name": "Myselfed",
       "url": "https://open.spotify.com/track/5mp9xzoVJgpdHQTDkJz7r2"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 176924,
-      "name": "Freaky",
-      "url": "https://open.spotify.com/track/1mKpZeH6wpdhI4jpGYy870"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 218172,
-      "name": "Resistencia",
-      "url": "https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Env\u00e9s",
         "url": "https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 378213,
       "name": "Maybe I'm Leo",
       "url": "https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 218172,
+      "name": "Resistencia",
+      "url": "https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1239,38 +1239,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Ac\u00e9rcame a Tu Piel",
-        "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
-      },
-      "artists": [
-        {
-          "name": "Santiago Soul",
-          "url": "https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9"
-        }
-      ],
-      "duration_ms": 248832,
-      "name": "Ac\u00e9rcame a Tu Piel",
-      "url": "https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Guacamole",
-        "url": "https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 279399,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/3LBvCd7GSvDJYxeJpgcuAu"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "De Reviente",
         "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
       },
@@ -1283,6 +1251,22 @@
       "duration_ms": 205374,
       "name": "Pret\u00e9rito Mujer",
       "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Ac\u00e9rcame a Tu Piel",
+        "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
+      },
+      "artists": [
+        {
+          "name": "Santiago Soul",
+          "url": "https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9"
+        }
+      ],
+      "duration_ms": 248832,
+      "name": "Ac\u00e9rcame a Tu Piel",
+      "url": "https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1319,6 +1303,22 @@
       "duration_ms": 175957,
       "name": "Contra la Corriente",
       "url": "https://open.spotify.com/track/1GltPY9or2DUMLAZIIFyno"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Guacamole",
+        "url": "https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 279399,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/3LBvCd7GSvDJYxeJpgcuAu"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+      },
+      "artists": [
+        {
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Sujeto a Espacio",
+      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "La Nave",
         "url": "https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk"
       },
@@ -1415,6 +1431,38 @@
       "duration_ms": 272373,
       "name": "Todo Atr\u00e1s",
       "url": "https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
+      },
+      "artists": [
+        {
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+        }
+      ],
+      "duration_ms": 210796,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Monte Fuji",
+        "url": "https://open.spotify.com/album/6jkOVQCi7HQYf6ZnW7Zkrw"
+      },
+      "artists": [
+        {
+          "name": "Santos de Madera",
+          "url": "https://open.spotify.com/artist/3AMbKAJi3R8sEQFJkscCEO"
+        }
+      ],
+      "duration_ms": 233777,
+      "name": "Monte Fuji",
+      "url": "https://open.spotify.com/track/2rUOSo8ttuETxWH1CqulhS"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1439,54 +1487,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
-      },
-      "artists": [
-        {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
-        }
-      ],
-      "duration_ms": 210796,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
-      },
-      "artists": [
-        {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "Sujeto a Espacio",
-      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Monte Fuji",
-        "url": "https://open.spotify.com/album/6jkOVQCi7HQYf6ZnW7Zkrw"
-      },
-      "artists": [
-        {
-          "name": "Santos de Madera",
-          "url": "https://open.spotify.com/artist/3AMbKAJi3R8sEQFJkscCEO"
-        }
-      ],
-      "duration_ms": 233777,
-      "name": "Monte Fuji",
-      "url": "https://open.spotify.com/track/2rUOSo8ttuETxWH1CqulhS"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Tangible",
         "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
       },
@@ -1499,6 +1499,30 @@
       "duration_ms": 315922,
       "name": "Beast in You",
       "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Para Ernesto",
+        "url": "https://open.spotify.com/album/4tZc2ALthrdQKbO09arrs1"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Soler",
+          "url": "https://open.spotify.com/artist/6RyrFvHJPFymCOzrfIyPdR"
+        },
+        {
+          "name": "Miguel Narvaez",
+          "url": "https://open.spotify.com/artist/09lMweiqZ7U5McT0VqnLnO"
+        },
+        {
+          "name": "Nico Vera",
+          "url": "https://open.spotify.com/artist/4P2ggHnAJsFCmzph1XpAL7"
+        }
+      ],
+      "duration_ms": 213490,
+      "name": "Para Ernesto",
+      "url": "https://open.spotify.com/track/5EpbaJs8fHwiVHag4ZHX8K"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1539,22 +1563,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
-      },
-      "artists": [
-        {
-          "name": "Ania Ivania",
-          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Guacamole",
         "url": "https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl"
       },
@@ -1571,6 +1579,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
+      },
+      "artists": [
+        {
+          "name": "Ania Ivania",
+          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
       },
@@ -1583,22 +1607,6 @@
       "duration_ms": 230250,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
-      },
-      "artists": [
-        {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
-        }
-      ],
-      "duration_ms": 206142,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
     }
   ],
   "unique_name": "Nota Funk",

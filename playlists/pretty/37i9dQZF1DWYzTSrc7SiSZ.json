@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 668589,
+  "num_followers": 667786,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWZhZTQ1MTA4OWQ5Y2ExZDRjZmRhYmUwZDBmOGMyZjA4YmMwZTg0",
+  "snapshot_id": "MCwyMGU3YTU2ZWMzMTgxYTYyOTM4N2NkNzYwNWY2MTg0MzZjZDdjNTFh",
   "tracks": [
     {
       "added_at": "2023-10-12 22:12:50",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
+        "name": "Planeando Madrid",
+        "url": "https://open.spotify.com/album/6nKhhgRiT0icKwW12lgVKS"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 252736,
+      "name": "Planeando Madrid",
+      "url": "https://open.spotify.com/track/6SreMzzAJ5OFN396IJnBlq"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
         "name": "Delorean",
         "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 183000,
       "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
       "url": "https://open.spotify.com/track/3g8vUQKuz1k5FIxxASjyS1"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
-        "name": "Planeando Madrid",
-        "url": "https://open.spotify.com/album/6nKhhgRiT0icKwW12lgVKS"
-      },
-      "artists": [
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 252736,
-      "name": "Planeando Madrid",
-      "url": "https://open.spotify.com/track/6SreMzzAJ5OFN396IJnBlq"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -855,30 +855,6 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "fr\u00edo",
-        "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Luisa",
-          "url": "https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z"
-        }
-      ],
-      "duration_ms": 278490,
-      "name": "fr\u00edo",
-      "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
         "name": "Pajaritos",
         "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
       },
@@ -907,6 +883,30 @@
       "duration_ms": 127275,
       "name": "UNA LUZ",
       "url": "https://open.spotify.com/track/1c3qAaZrwvcTHHOL8XrHLJ"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
+        "name": "fr\u00edo",
+        "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Luisa",
+          "url": "https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z"
+        }
+      ],
+      "duration_ms": 278490,
+      "name": "fr\u00edo",
+      "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -963,30 +963,6 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "cuarto pa' las doce",
-        "url": "https://open.spotify.com/album/2ReN9ssYYTNOW3irKf5XB1"
-      },
-      "artists": [
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        },
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 144255,
-      "name": "cuarto pa' las doce",
-      "url": "https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
         "name": "la vida viene y va",
         "url": "https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW"
       },
@@ -1011,18 +987,46 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "Cuando Los Ac\u00e9falos Predominan",
-        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
+        "name": "cuarto pa' las doce",
+        "url": "https://open.spotify.com/album/2ReN9ssYYTNOW3irKf5XB1"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        },
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
         }
       ],
-      "duration_ms": 321019,
-      "name": "Camarones y Viniles",
-      "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
+      "duration_ms": 144255,
+      "name": "cuarto pa' las doce",
+      "url": "https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
+        "name": "Otro Lado",
+        "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
+      },
+      "artists": [
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        },
+        {
+          "name": "Nahuel Barbero",
+          "url": "https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I"
+        }
+      ],
+      "duration_ms": 231936,
+      "name": "Hablo Con Vos (feat. Nahuel Barbero)",
+      "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -1063,26 +1067,6 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "Otro Lado",
-        "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
-      },
-      "artists": [
-        {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
-        },
-        {
-          "name": "Nahuel Barbero",
-          "url": "https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I"
-        }
-      ],
-      "duration_ms": 231936,
-      "name": "Hablo Con Vos (feat. Nahuel Barbero)",
-      "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
         "name": "No Te Voy a Ver",
         "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 205452,
       "name": "Soy capaz",
       "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
+        "name": "Cuando Los Ac\u00e9falos Predominan",
+        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 321019,
+      "name": "Camarones y Viniles",
+      "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 237518,
-      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
         "name": "Guitarra",
         "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 213993,
       "name": "A la Mitad (Suceso 1)",
       "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
+        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 237518,
+      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
         "name": "Indirecta",
         "url": "https://open.spotify.com/album/7bDYJcet4ezQInDdEUTe4o"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 200727,
       "name": "Indirecta",
       "url": "https://open.spotify.com/track/3LHFIfINcMHX7LmiaI9mn3"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "Volves",
-        "url": "https://open.spotify.com/album/4W0sH5fMAH2NYYGopA8pr9"
-      },
-      "artists": [
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Volves",
-      "url": "https://open.spotify.com/track/5uvobs7WJRW691LBLX3oxM"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
         "name": "Tus Besos",
         "url": "https://open.spotify.com/album/7tKmmrsdzeFOsCka3PV3Ou"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 205874,
       "name": "Tus Besos",
       "url": "https://open.spotify.com/track/028vko2T93bPeotwTWXOve"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
+        "name": "Volves",
+        "url": "https://open.spotify.com/album/4W0sH5fMAH2NYYGopA8pr9"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Volves",
+      "url": "https://open.spotify.com/track/5uvobs7WJRW691LBLX3oxM"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
+        "name": "Dime la verdad",
+        "url": "https://open.spotify.com/album/2UysmvX5GsuNXZ3oTs1YrC"
+      },
+      "artists": [
+        {
+          "name": "Jordan Boyd",
+          "url": "https://open.spotify.com/artist/2giZslWrqgUxCXEcYbV3R0"
+        },
+        {
+          "name": "Drunk and Drops",
+          "url": "https://open.spotify.com/artist/7GXCNFQuvcOb2TVQjtFOUG"
+        }
+      ],
+      "duration_ms": 180927,
+      "name": "Dime la verdad",
+      "url": "https://open.spotify.com/track/3h9Oea03Nxz2KBQu35IdvO"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
         "name": "no est\u00e1s",
         "url": "https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc"
       },
@@ -1627,26 +1647,6 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "Dime la verdad",
-        "url": "https://open.spotify.com/album/2UysmvX5GsuNXZ3oTs1YrC"
-      },
-      "artists": [
-        {
-          "name": "Jordan Boyd",
-          "url": "https://open.spotify.com/artist/2giZslWrqgUxCXEcYbV3R0"
-        },
-        {
-          "name": "Drunk and Drops",
-          "url": "https://open.spotify.com/artist/7GXCNFQuvcOb2TVQjtFOUG"
-        }
-      ],
-      "duration_ms": 180927,
-      "name": "Dime la verdad",
-      "url": "https://open.spotify.com/track/3h9Oea03Nxz2KBQu35IdvO"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
         "name": "Dos y Veintid\u00f3s",
         "url": "https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp"
       },
@@ -1659,6 +1659,22 @@
       "duration_ms": 237272,
       "name": "Electricidad (2:21am)",
       "url": "https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
+        "name": "Dieciseis",
+        "url": "https://open.spotify.com/album/4zLZDzFqhK8fY9V5PpfPPG"
+      },
+      "artists": [
+        {
+          "name": "Tiare",
+          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Cardenalito",
+      "url": "https://open.spotify.com/track/6ZfPILRSg3V9jM8yH1V8xc"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -1727,18 +1743,26 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "Dieciseis",
-        "url": "https://open.spotify.com/album/4zLZDzFqhK8fY9V5PpfPPG"
+        "name": "NOS SOLTAMOS chiliado",
+        "url": "https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU"
       },
       "artists": [
         {
-          "name": "Tiare",
-          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+        },
+        {
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        },
+        {
+          "name": "Pablo Sotelo",
+          "url": "https://open.spotify.com/artist/7JTIskra5uVup9ZyODtm0u"
         }
       ],
-      "duration_ms": 212506,
-      "name": "Cardenalito",
-      "url": "https://open.spotify.com/track/6ZfPILRSg3V9jM8yH1V8xc"
+      "duration_ms": 222806,
+      "name": "NOS SOLTAMOS chiliado",
+      "url": "https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -1771,22 +1795,6 @@
       "duration_ms": 172586,
       "name": "Esc\u00e1pate",
       "url": "https://open.spotify.com/track/3AxC4Prjz8GNKFLH4jlzt4"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
-        "name": "if you let me",
-        "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
-      },
-      "artists": [
-        {
-          "name": "riela",
-          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "if you let me",
-      "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
     }
   ],
   "unique_name": "Chill Latino",

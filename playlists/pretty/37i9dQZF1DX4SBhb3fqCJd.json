@@ -1,29 +1,13 @@
 {
-  "description": "Where R&B lives. Cover: Tems",
-  "num_followers": 6245513,
+  "description": "Where R&B lives. Cover: Tyla",
+  "num_followers": 6233758,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTgwYzg2NmJhZmVhYmYwYzNmOGMwYjE2NWI2OWQxNDc5M2FiM2Ix",
+  "snapshot_id": "MCw2Mjg2ZDQ1OWExYzdmYjg4Mzk1ZjJlYjlmYTY1MTU4NDVlMzEwNzZl",
   "tracks": [
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
-    },
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
@@ -59,58 +43,54 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Good Good",
-        "url": "https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3"
+        "name": "BB/ANG3L",
+        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 247100,
-      "name": "Good Good",
-      "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
+      "duration_ms": 146791,
+      "name": "Needs",
+      "url": "https://open.spotify.com/track/6sg284TefDkBpFh0317Agp"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "WY@",
-        "url": "https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd"
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
         }
       ],
-      "duration_ms": 208038,
-      "name": "WY@",
-      "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
+      "duration_ms": 237852,
+      "name": "Feelings (feat. J Hus)",
+      "url": "https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW"
     },
     {
-      "added_at": "2023-10-06 17:04:43",
+      "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 184089,
-      "name": "Bahamas Promises",
-      "url": "https://open.spotify.com/track/3JZjcKImHcmOI9ylL4zrSc"
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -133,20 +113,44 @@
       "url": "https://open.spotify.com/track/4Ep3FZomL0EAKeYqW0riz6"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "BB/ANG3L",
-        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+        "name": "WY@",
+        "url": "https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd"
       },
       "artists": [
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 146791,
-      "name": "Needs",
-      "url": "https://open.spotify.com/track/6sg284TefDkBpFh0317Agp"
+      "duration_ms": 208038,
+      "name": "WY@",
+      "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Good Good",
+        "url": "https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 247100,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -189,24 +193,36 @@
       "url": "https://open.spotify.com/track/58WSKtcvVt208XY8tolYQI"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+        "name": "From A Woman",
+        "url": "https://open.spotify.com/album/41EnEbv52wuUZLFOdXH1d8"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 237852,
-      "name": "Feelings (feat. J Hus)",
-      "url": "https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW"
+      "duration_ms": 182072,
+      "name": "From A Woman",
+      "url": "https://open.spotify.com/track/6x4z51Q0PBhSs8NoGbJ5wk"
+    },
+    {
+      "added_at": "2023-10-06 17:04:43",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 184089,
+      "name": "Bahamas Promises",
+      "url": "https://open.spotify.com/track/3JZjcKImHcmOI9ylL4zrSc"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -297,26 +313,6 @@
       "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
     },
     {
-      "added_at": "2023-09-15 19:05:50",
-      "album": {
-        "name": "Slime You Out",
-        "url": "https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 310490,
-      "name": "Slime You Out (feat. SZA)",
-      "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
-    },
-    {
       "added_at": "2023-09-15 04:00:00",
       "album": {
         "name": "R e s e n t m e n t",
@@ -371,22 +367,6 @@
       "duration_ms": 195000,
       "name": "Moment Of Your Life",
       "url": "https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Made For Me",
-        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Made For Me",
-      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -459,6 +439,22 @@
       "duration_ms": 187723,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -839,30 +835,6 @@
       "duration_ms": 193413,
       "name": "Hardlife",
       "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "My Phone Can Die",
-        "url": "https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa"
-      },
-      "artists": [
-        {
-          "name": "Rory",
-          "url": "https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
-        }
-      ],
-      "duration_ms": 179508,
-      "name": "My Phone Can Die",
-      "url": "https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo"
     },
     {
       "added_at": "2023-09-15 04:00:00",

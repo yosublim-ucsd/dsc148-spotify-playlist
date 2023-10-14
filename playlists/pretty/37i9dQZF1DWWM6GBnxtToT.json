@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 576501,
+  "num_followers": 576358,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmQ3ZjcxN2YwNjU0ZjBlYzdjNjU1ZmNkOTk3NTZkNGViYzAwY2Zj",
+  "snapshot_id": "MCw5MDM4ZmJmMzhlZTgwMWRlMjQzYWI5ZTgyODU1YWIwMzM3ZmZhMjAw",
   "tracks": [
     {
       "added_at": "2023-08-29 08:42:33",
@@ -423,22 +423,18 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Diving (feat. Holly Humberstone)",
-        "url": "https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25"
+        "name": "in my mind",
+        "url": "https://open.spotify.com/album/0BLXUt3TsQv6e4A3Mp6PZk"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Wallners",
+          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
         }
       ],
-      "duration_ms": 215986,
-      "name": "Diving (feat. Holly Humberstone)",
-      "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
+      "duration_ms": 181800,
+      "name": "in my mind",
+      "url": "https://open.spotify.com/track/6HEJavNON4wd0cy1Hp6KV2"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -475,18 +471,22 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "in my mind",
-        "url": "https://open.spotify.com/album/0BLXUt3TsQv6e4A3Mp6PZk"
+        "name": "Diving (feat. Holly Humberstone)",
+        "url": "https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25"
       },
       "artists": [
         {
-          "name": "Wallners",
-          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 181800,
-      "name": "in my mind",
-      "url": "https://open.spotify.com/track/6HEJavNON4wd0cy1Hp6KV2"
+      "duration_ms": 215986,
+      "name": "Diving (feat. Holly Humberstone)",
+      "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -851,26 +851,18 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "wait outside",
-        "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
+        "name": "Walking Like That",
+        "url": "https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh"
       },
       "artists": [
         {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        },
-        {
-          "name": "NAVENI",
-          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
-        },
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+          "name": "Color The Night",
+          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
         }
       ],
-      "duration_ms": 151500,
-      "name": "wait outside",
-      "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
+      "duration_ms": 149000,
+      "name": "Walking Like That",
+      "url": "https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -891,18 +883,26 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Walking Like That",
-        "url": "https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh"
+        "name": "wait outside",
+        "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
       "artists": [
         {
-          "name": "Color The Night",
-          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        },
+        {
+          "name": "NAVENI",
+          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
         }
       ],
-      "duration_ms": 149000,
-      "name": "Walking Like That",
-      "url": "https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN"
+      "duration_ms": 151500,
+      "name": "wait outside",
+      "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 266614,
-      "name": "2001",
-      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "beautiful day",
         "url": "https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Adult Movies",
-        "url": "https://open.spotify.com/album/7IWXZKQU9nUC3ae508E46p"
+        "name": "2001",
+        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
       },
       "artists": [
         {
-          "name": "Litany",
-          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
         }
       ],
-      "duration_ms": 195982,
-      "name": "Adult Movies",
-      "url": "https://open.spotify.com/track/1RPtMkfP5TfnlylnW6LIDd"
+      "duration_ms": 266614,
+      "name": "2001",
+      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1371,6 +1355,22 @@
       "duration_ms": 160853,
       "name": "Waste My Life",
       "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Adult Movies",
+        "url": "https://open.spotify.com/album/7IWXZKQU9nUC3ae508E46p"
+      },
+      "artists": [
+        {
+          "name": "Litany",
+          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
+        }
+      ],
+      "duration_ms": 195982,
+      "name": "Adult Movies",
+      "url": "https://open.spotify.com/track/1RPtMkfP5TfnlylnW6LIDd"
     },
     {
       "added_at": "2023-08-29 08:42:33",

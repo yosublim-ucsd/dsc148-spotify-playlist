@@ -3769,6 +3769,28 @@
     },
     {
       "album": {
+        "name": "Summers Around The Corner",
+        "url": "https://open.spotify.com/album/3E4ICiqiWEXTncH5RxR1tB"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228390,
+      "name": "Summers Around The Corner",
+      "url": "https://open.spotify.com/track/6AY1IWGyVFkdkq8AA5F2zT"
+    },
+    {
+      "album": {
         "name": "Sweet Distraction",
         "url": "https://open.spotify.com/album/6dEK6JiVB7DoalHiMayTsb"
       },

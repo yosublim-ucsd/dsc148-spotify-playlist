@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Tyler Childers
 
-373 songs - 22 hr 53 min
+374 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Birds Go Die Out Of Sight \(Don't Go Home\) \(feat\. Allison Russell\)](https://open.spotify.com/track/2ifZiKf2QSQV4yQQzUdyUo) | [Peter One](https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Birds Go Die Out Of Sight \(Don’t Go Home\)](https://open.spotify.com/album/6q96GD9tH8GoiSO3dN1Mc0) | 4:17 | 2023-03-03 | 2023-04-22 |
 | [Black Creek](https://open.spotify.com/track/4jB3Mw900goYibsFAueHph) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [No Place Left to Leave \(2006\)](https://open.spotify.com/album/2dUlzOFbYohtRpYHXklj0K) | 3:32 | 2023-04-21 |  |
 | [Blackjack County Chain](https://open.spotify.com/track/5LXa2KkGzasB6I66RG7Jay) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Blackjack County Chain](https://open.spotify.com/album/0Y4htv2b5SQzLBP9GBckhL) | 2:43 | 2022-07-15 | 2023-01-21 |
+| [Bobtail Road](https://open.spotify.com/track/5kPu5GCBKldjAy2sMgU2bU) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Bobtail Road](https://open.spotify.com/album/37pFeBTwztjSqMzYqTcEqV) | 3:32 | 2023-10-13 |  |
 | [Boots Mine Gold](https://open.spotify.com/track/2ceZV0m3C8uafOk2WBrTuj) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Honey Harper & The Infinite Sky](https://open.spotify.com/album/400XedHANVhPNbid6j0UQc) | 3:11 | 2022-10-28 | 2023-04-22 |
 | [Boots Mine Gold](https://open.spotify.com/track/7ACy8muxyMV2T72wNVDk3k) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Boots Mine Gold](https://open.spotify.com/album/2FDMXYESNgDjpLTVIZnOiB) | 3:11 | 2022-10-28 | 2022-10-31 |
 | [Borderline](https://open.spotify.com/track/3n1O2V1FyxebYNlsl0Zbi6) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Borderline](https://open.spotify.com/album/0njLxifL1LcAPRrNIBiaQJ) | 3:14 | 2022-05-13 | 2023-04-15 |
@@ -210,7 +211,7 @@
 | [Lost for a While](https://open.spotify.com/track/5lLq0yhstHqi4Tz68qguqS) | [Little Misty](https://open.spotify.com/artist/695A3b4A5eEZx3aKpGZYay) | [Nowhere Land](https://open.spotify.com/album/34F00rG3BIf0CfY867Tn6W) | 3:46 | 2023-04-14 | 2023-05-08 |
 | [Love Thy Neighbor](https://open.spotify.com/track/3ArBCwHbrBaW8hTWF4CWdG) | [Stefanie Joyce](https://open.spotify.com/artist/2RUc697ynBhe0NGow1eDda) | [Love Thy Neighbor](https://open.spotify.com/album/7aGhjHYKpPW7lciXUx5Hlz) | 3:06 | 2022-05-13 | 2022-06-25 |
 | [Love You Now](https://open.spotify.com/track/6Wh7Doli3WsaYihYXNVGiD) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Love You Now](https://open.spotify.com/album/0Z7KfTzLDJxxGRAQgjcjM6) | 2:49 | 2022-12-16 | 2023-02-25 |
-| [Maggie](https://open.spotify.com/track/6Zwrxz3uCj8Pbx9ohCRD7W) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Maggie](https://open.spotify.com/album/6qx5cnOifPpGkSu6jFLXZA) | 2:58 | 2023-01-20 |  |
+| [Maggie](https://open.spotify.com/track/6Zwrxz3uCj8Pbx9ohCRD7W) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Maggie](https://open.spotify.com/album/6qx5cnOifPpGkSu6jFLXZA) | 2:58 | 2023-01-20 | 2023-10-14 |
 | [Magic Hits](https://open.spotify.com/track/2RheiwXxiC3lbWhoMaTq5z) | [Adrian Sutherland](https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ) | [When the Magic Hits](https://open.spotify.com/album/5VcEQHvnipMBirRWhE2DqL) | 4:10 | 2022-05-13 | 2022-09-24 |
 | [Make This Better](https://open.spotify.com/track/5LLA7OrEC2ouVUt6419VeN) | [Lydia Hol](https://open.spotify.com/artist/7hFH2Id7zwVCr9MWYyK0Y9) | [Some Dreamers of the Golden Dream](https://open.spotify.com/album/3ZEkYEtst5mhOV5KeTTjeG) | 3:42 | 2022-05-13 | 2022-08-20 |
 | [Making Believe \(feat\. Rose Cousins\)](https://open.spotify.com/track/0m2QW5c8rATo81FjTYZkcu) | [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf), [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [It's Only a Little Loneliness](https://open.spotify.com/album/4ZRQS7I2IlLKLNyDV6ON7P) | 2:36 | 2022-09-23 | 2023-08-05 |

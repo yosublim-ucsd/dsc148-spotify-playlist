@@ -619,6 +619,28 @@
     },
     {
       "album": {
+        "name": "Global Control / Invisible Invasion",
+        "url": "https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI"
+      },
+      "artists": [
+        {
+          "name": "Ammar 808",
+          "url": "https://open.spotify.com/artist/0TAPEEcG2NQAfSKkreQWAM"
+        },
+        {
+          "name": "Susha",
+          "url": "https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212946,
+      "name": "Geeta duniki",
+      "url": "https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484"
+    },
+    {
+      "album": {
         "name": "Ghibli",
         "url": "https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As"
       },
@@ -1532,7 +1554,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"

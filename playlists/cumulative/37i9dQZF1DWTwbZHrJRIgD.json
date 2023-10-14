@@ -1391,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "jaanu na",
+        "url": "https://open.spotify.com/album/7rnZFaD0VEQZ5CcbjiNm4h"
+      },
+      "artists": [
+        {
+          "name": "KASYAP",
+          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160854,
+      "name": "jaanu na",
+      "url": "https://open.spotify.com/track/7C0IvBW7ZTk0cyyQQid44w"
+    },
+    {
+      "album": {
         "name": "Janiye (from the Netflix Film \"Chor Nikal Ke Bhaga\")",
         "url": "https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC"
       },
@@ -2896,7 +2914,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 154615,
       "name": "Soneya",
       "url": "https://open.spotify.com/track/4T3afa03vozVX8YVwsr34x"

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Amores Pasajeros",
+        "url": "https://open.spotify.com/album/3nNFxx4kiSUmExd6zCE6Pz"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156401,
+      "name": "Amores Pasajeros",
+      "url": "https://open.spotify.com/track/2pOSUvbqg479E45rxzD7C4"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -103,6 +121,42 @@
     },
     {
       "album": {
+        "name": "Caribbean All-Inclusive Luxury",
+        "url": "https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl"
+      },
+      "artists": [
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242961,
+      "name": "Boca Chica",
+      "url": "https://open.spotify.com/track/5tOWbNhSeeV4uvD7HejJB3"
+    },
+    {
+      "album": {
+        "name": "Conmigo",
+        "url": "https://open.spotify.com/album/22naNg5hX2AqKlwmKdwazV"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215708,
+      "name": "Conmigo",
+      "url": "https://open.spotify.com/track/7rYXDaiy6mVyj9nRG8BS20"
+    },
+    {
+      "album": {
         "name": "Cool Down (Ice Cream Donut)",
         "url": "https://open.spotify.com/album/4qoS5Sayi1rJByfNv3S8te"
       },
@@ -136,6 +190,24 @@
       "duration_ms": 181874,
       "name": "Cr\u00f3nico",
       "url": "https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA"
+    },
+    {
+      "album": {
+        "name": "Caribbean All-Inclusive Luxury",
+        "url": "https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl"
+      },
+      "artists": [
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63488,
+      "name": "Daiquiri",
+      "url": "https://open.spotify.com/track/3zAATyIcE5Mwvi3FuXarcE"
     },
     {
       "album": {
@@ -306,7 +378,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 297207,
       "name": "El Espanto",
       "url": "https://open.spotify.com/track/3C1I4Djs5MNYnj9BMJuZjB"
@@ -372,7 +444,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 257497,
       "name": "Fake Blood",
       "url": "https://open.spotify.com/track/6Yww6YfgWVZiLE4oP7NS3Y"
@@ -408,7 +480,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 250934,
       "name": "Isla Nueva",
       "url": "https://open.spotify.com/track/3PR00jq3LXwNxFQC1glvGM"
@@ -426,7 +498,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 186727,
       "name": "La Cabra Jala Pal Monte",
       "url": "https://open.spotify.com/track/5F7BVBpJmYpZ9Z9yfl3YlI"
@@ -505,6 +577,32 @@
     },
     {
       "album": {
+        "name": "Caribbean All-Inclusive Luxury",
+        "url": "https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl"
+      },
+      "artists": [
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        },
+        {
+          "name": "Calacote",
+          "url": "https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO"
+        },
+        {
+          "name": "mediopicky",
+          "url": "https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182001,
+      "name": "Masa",
+      "url": "https://open.spotify.com/track/3f1sD5hO3N1loYO79wX27L"
+    },
+    {
+      "album": {
         "name": "Isla Disco",
         "url": "https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K"
       },
@@ -523,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Mi Fantasma",
+        "url": "https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162391,
+      "name": "Mi Fantasma",
+      "url": "https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj"
+    },
+    {
+      "album": {
         "name": "Mandinga Times",
         "url": "https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6"
       },
@@ -534,7 +650,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 211560,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/5O5uV0ywfQ4Hl1LVyHdJp7"
@@ -596,7 +712,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 294192,
       "name": "Naturaleza Humana (feat. Raquel Berr\u00edos)",
       "url": "https://open.spotify.com/track/37WN9UzPLFYFpoP1AxXlmu"
@@ -618,7 +734,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 216590,
       "name": "Nice & Easy",
       "url": "https://open.spotify.com/track/7G01Y33GZ4IA2BJMoGtWTt"
@@ -658,7 +774,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 205114,
       "name": "No la Controles",
       "url": "https://open.spotify.com/track/3h8lcSa7U2hB5c57LOliqE"
@@ -694,7 +810,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 226500,
       "name": "No Se Puede Apagar",
       "url": "https://open.spotify.com/track/6efFBz9FKFwz4Ma1bL4igt"
@@ -777,6 +893,46 @@
     },
     {
       "album": {
+        "name": "Amores Pasajeros",
+        "url": "https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Nino Augustine",
+          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145062,
+      "name": "Real Luv",
+      "url": "https://open.spotify.com/track/33cDr0F2NZHw0HonZ24aZh"
+    },
+    {
+      "album": {
+        "name": "Switched-On",
+        "url": "https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213541,
+      "name": "Sale el Sol",
+      "url": "https://open.spotify.com/track/1YKNaQqLDMVNDULbyOHGqK"
+    },
+    {
+      "album": {
         "name": "Si T\u00fa Quieres M\u00e1s",
         "url": "https://open.spotify.com/album/1xU1Zj9cCqcRKkORRF71zw"
       },
@@ -788,7 +944,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 264760,
       "name": "Si T\u00fa Quieres M\u00e1s",
       "url": "https://open.spotify.com/track/4dfDK5mveASz4gFx3XzQGH"
@@ -908,6 +1064,42 @@
       "duration_ms": 249853,
       "name": "Te Quiero Con Bugal\u00fa",
       "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
+    },
+    {
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157267,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
+    },
+    {
+      "album": {
+        "name": "Switched-On",
+        "url": "https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182533,
+      "name": "Trago Coqueto",
+      "url": "https://open.spotify.com/track/5t4rndvpGfblr16xsSZCZ2"
     },
     {
       "album": {

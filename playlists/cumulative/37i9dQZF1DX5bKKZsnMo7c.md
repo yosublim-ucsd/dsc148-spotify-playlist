@@ -2,9 +2,9 @@
 
 ### [Limelight](https://open.spotify.com/playlist/37i9dQZF1DX5bKKZsnMo7c)
 
-> All eyes on you\. Cover: DPR IAN
+> All eyes on you\. Cover: Mad Tsai
 
-288 songs - 15 hr 38 min
+289 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/track/0jG7SgyIpQa0ZFBjB8fFDh) | [Madylin Gilbert](https://open.spotify.com/artist/4Ul5nI6dNwODUPY8lufzk2) | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/album/659uFsMnMpBCnAqiGre77y) | 2:01 | 2023-03-07 | 2023-03-10 |
 | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/track/70gFbSkpt8Yj4DhToyXzpG) | [Madylin Gilbert](https://open.spotify.com/artist/4Ul5nI6dNwODUPY8lufzk2) | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/album/55uW1iNFxaYXYq3dIw8Blx) | 2:01 | 2023-03-07 |  |
 | [Mad Hoes](https://open.spotify.com/track/7g1o1CUxSRbuTWa8m1Afgi) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Mad Hoes](https://open.spotify.com/album/7tuRGmj8L9bUYjlpkNXJWT) | 2:43 | 2022-09-02 | 2022-09-28 |
+| [mad's world](https://open.spotify.com/track/1MZHbJsMBbq5P3Mq4xgu8G) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [mad's world](https://open.spotify.com/album/0tR2hMv1kGNWZpqbk7a3D5) | 3:14 | 2023-10-13 |  |
 | [Mawce](https://open.spotify.com/track/2cy5F36NoF5DihBkx0S3G7) | [Everybody's Worried About Owen](https://open.spotify.com/artist/2xV9kLZH2pToABQfvwTqJx) | [Mawce](https://open.spotify.com/album/3oFi7F2V5tfDvhd07ixnNc) | 3:02 | 2022-05-17 | 2022-07-29 |
 | [Mawce](https://open.spotify.com/track/5zdhuWhl2JAGmfJ8lhaKzY) | [Everybody's Worried About Owen](https://open.spotify.com/artist/2xV9kLZH2pToABQfvwTqJx) | [Mawce](https://open.spotify.com/album/4T4HBzxpLymOrndGcgwNC7) | 3:02 | 2022-06-07 | 2022-12-10 |
 | [Meant to Be Yours](https://open.spotify.com/track/6YYeBYEpkiR84eCDNPBDoF) | [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn), [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Michelle Duffy](https://open.spotify.com/artist/4KyX6IwYaHVTz4KSHtMJw0) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 3:25 | 2022-05-17 |  |
@@ -240,7 +241,7 @@
 | [Should've Been Me](https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:11 | 2022-05-17 | 2023-09-23 |
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2023-08-22 | 2023-09-23 |
 | [Sleeping Beauty](https://open.spotify.com/track/750GbARizeicwnH0gLznJs) | [Jeffrey Eli](https://open.spotify.com/artist/7y2o4IQi5QnL6PbsOYuNp5) | [Sleeping Beauty](https://open.spotify.com/album/4SpcLIdWePHUp62Lt4BJ5A) | 4:05 | 2023-05-26 |  |
-| [Sleeping in the Kitchen \(feat\. Addison Grace\)](https://open.spotify.com/track/0665FV7vuJskwGWIFIrFPB) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer), [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Sleeping in the Kitchen \(feat\. Addison Grace\)](https://open.spotify.com/album/4MFqzRvRBP8dPr1ffjT0J4) | 2:30 | 2023-04-28 |  |
+| [Sleeping in the Kitchen \(feat\. Addison Grace\)](https://open.spotify.com/track/0665FV7vuJskwGWIFIrFPB) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer), [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Sleeping in the Kitchen \(feat\. Addison Grace\)](https://open.spotify.com/album/4MFqzRvRBP8dPr1ffjT0J4) | 2:30 | 2023-04-28 | 2023-10-14 |
 | [Smitten](https://open.spotify.com/track/4ECcVxvtmcKyemj7GLu8V0) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Smitten](https://open.spotify.com/album/1nBm5rHMr2g9dqIU98OmcT) | 2:29 | 2022-05-17 | 2022-08-06 |
 | [Smitten / vulnerable](https://open.spotify.com/track/40BNw8gYwlfSp9eUsfzG8K) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Forward / Slash](https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi) | 3:52 | 2022-05-17 | 2022-12-10 |
 | [Snow Angel](https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/5oAVKxhmwzPo9uTsUDGw8n) | 3:35 | 2023-09-01 | 2023-09-04 |

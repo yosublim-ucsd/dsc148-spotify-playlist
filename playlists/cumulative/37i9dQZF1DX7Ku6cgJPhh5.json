@@ -560,10 +560,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 180500,
       "name": "Everything Turns Around",
       "url": "https://open.spotify.com/track/1snNY6gV41RNLYdetvv2nr"
+    },
+    {
+      "album": {
+        "name": "Somewhere Between the Power Lines and Palm Trees",
+        "url": "https://open.spotify.com/album/6mo1n5cRP3rmTKMnBuDZsL"
+      },
+      "artists": [
+        {
+          "name": "Dogstar",
+          "url": "https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Everything Turns Around",
+      "url": "https://open.spotify.com/track/69xF3xSskwfReh9L14Lv0N"
     },
     {
       "album": {

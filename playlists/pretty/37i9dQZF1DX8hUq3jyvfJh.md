@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Alcione e mais mulheres icônicas para serem ouvidas no volume máximo! Foto: Alcione
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,402 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,399 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 22 | [Pausa](https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Pausa](https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H) | 3:39 |
 | 23 | [Nosso Xote](https://open.spotify.com/track/3mY1ul8bd8qxcIbjLFNCSY) | [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Nosso Xote](https://open.spotify.com/album/0H5IYRMUhYZ3htTLaFUtSB) | 4:15 |
 | 24 | [Faz Parte Do Meu Show](https://open.spotify.com/track/2c9cy32pkhuznDXIN0eWMG) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Faz Parte Do Meu Show](https://open.spotify.com/album/4YyhntF13f93ty7GdhyjI1) | 2:43 |
-| 25 | [Lindo Dom](https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Lindo Dom](https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf) | 3:13 |
+| 25 | [Alguém me avisou](https://open.spotify.com/track/6usciGiDOoFfmvnrC7Tyv5) | [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Sorriso negro](https://open.spotify.com/album/6Mpu9KUGFNTYJw6lQ5RcS8) | 2:34 |
 | 26 | [Mulher do Fim do Mundo](https://open.spotify.com/track/6JyyilCXZPb8fm0tQPqjUZ) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [A Mulher do Fim do Mundo](https://open.spotify.com/album/0I316eFTjobTdyH5xtniYe) | 4:37 |
-| 27 | [Alguém me avisou](https://open.spotify.com/track/6usciGiDOoFfmvnrC7Tyv5) | [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Sorriso negro](https://open.spotify.com/album/6Mpu9KUGFNTYJw6lQ5RcS8) | 2:34 |
+| 27 | [Lindo Dom](https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Lindo Dom](https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf) | 3:13 |
 | 28 | [Pena Que Acabou](https://open.spotify.com/track/57DTGthLG6wQGuJV1QDJCA) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Pena Que Acabou](https://open.spotify.com/album/79R8Ivfbp5Gz1PpvKoBVjJ) | 2:25 |
 | 29 | [O amor te dá](https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [O amor te dá](https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW) | 4:07 |
 | 30 | [Ofício de Cantante](https://open.spotify.com/track/0NNeK4HYMAGjWwX0SJMv4v) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Ofício de Cantante](https://open.spotify.com/album/28FxczQCIQtBEn0FGqWtxE) | 4:38 |
-| 31 | [Me Arrepender \- Ao Vivo](https://open.spotify.com/track/3Jo7IezM4VzhoheB1WwTJ4) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 2:20 |
-| 32 | [Acreditar](https://open.spotify.com/track/3pmYp7wfaDfr5OwHoxAR9K) | [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Pirajá Esquina Carioca \- uma Noite com a Raíz do Samba](https://open.spotify.com/album/7HW7vlBfeUVauC7TwiJpvl) | 2:33 |
-| 33 | [Terezinha](https://open.spotify.com/track/6jZq2kwbo4pLsoREwTveq3) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Serour](https://open.spotify.com/artist/4L8osYNuWu9ggZONwYGGC8) | [Terezinha](https://open.spotify.com/album/6tk8iJGsL0xKCJ8zXbm20Z) | 2:22 |
-| 34 | [Habilidades Extraordinárias](https://open.spotify.com/track/4ORL3b19kkul61f5Qem2r5) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Habilidades Extraordinárias](https://open.spotify.com/album/7CsBswgYYISQdoy5DqSywx) | 4:33 |
+| 31 | [Acreditar](https://open.spotify.com/track/3pmYp7wfaDfr5OwHoxAR9K) | [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Pirajá Esquina Carioca \- uma Noite com a Raíz do Samba](https://open.spotify.com/album/7HW7vlBfeUVauC7TwiJpvl) | 2:33 |
+| 32 | [Me Arrepender \- Ao Vivo](https://open.spotify.com/track/3Jo7IezM4VzhoheB1WwTJ4) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 2:20 |
+| 33 | [Habilidades Extraordinárias](https://open.spotify.com/track/4ORL3b19kkul61f5Qem2r5) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Habilidades Extraordinárias](https://open.spotify.com/album/7CsBswgYYISQdoy5DqSywx) | 4:33 |
+| 34 | [Terezinha](https://open.spotify.com/track/6jZq2kwbo4pLsoREwTveq3) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Serour](https://open.spotify.com/artist/4L8osYNuWu9ggZONwYGGC8) | [Terezinha](https://open.spotify.com/album/6tk8iJGsL0xKCJ8zXbm20Z) | 2:22 |
 | 35 | [Reacender a Chama](https://open.spotify.com/track/3kH39Eb5UCv8Wl81U9sJK9) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:43 |
 | 36 | [Menino Bonito](https://open.spotify.com/track/4bc6uLpspNXiL7aFCYAIdo) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ARREPIADA](https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0) | 3:49 |
 | 37 | [Fluorescente](https://open.spotify.com/track/07peghrFo7KCcAgRGqIs6v) | [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8) | [Lusco\-Fusco](https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Liberô Geral](https://open.spotify.com/track/656KfnvxwBqdvv4xk6y7ty) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Liberô Geral](https://open.spotify.com/album/0fhuotgqtda2nHGli4kfAX) | 3:30 |
 | 50 | [Deságua](https://open.spotify.com/track/2GMPFXQWfYKjKXRlxBsRlc) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 3:34 |
 
-Snapshot ID: `MCw5MmY0YjI3YzllODc3OGY2ZmJhOTk0ZTQyMzhmYTcwOWQ1YzgzMTFi`
+Snapshot ID: `MCwyZjgxYjI5OTQyMDZiYjdmYTk5NTEwNWM0NDFmOTE3OTY2ZWEzYjgz`

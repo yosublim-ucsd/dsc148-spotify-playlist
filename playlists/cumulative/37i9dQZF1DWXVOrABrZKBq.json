@@ -121,6 +121,28 @@
     },
     {
       "album": {
+        "name": "BRUT4L",
+        "url": "https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC"
+      },
+      "artists": [
+        {
+          "name": "Ikaz Boi",
+          "url": "https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160306,
+      "name": "BALLE DANS LE COEUR",
+      "url": "https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D"
+    },
+    {
+      "album": {
         "name": "QCLTUR",
         "url": "https://open.spotify.com/album/4bHZOMo5sjb7SrSvaevvKy"
       },
@@ -326,7 +348,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 203322,
       "name": "Chien Mang\u00e9 Chien",
       "url": "https://open.spotify.com/track/2i0fBPihCnAu4c48PFdgvv"
@@ -472,6 +494,24 @@
       "duration_ms": 167727,
       "name": "C\u00e9sar",
       "url": "https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW"
+    },
+    {
+      "album": {
+        "name": "Death Note",
+        "url": "https://open.spotify.com/album/2AVGEBmOIgBFwdtFLzARi4"
+      },
+      "artists": [
+        {
+          "name": "Zinera",
+          "url": "https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167444,
+      "name": "Death Note",
+      "url": "https://open.spotify.com/track/5lK58jbXWVRXQ9EYvAWPse"
     },
     {
       "album": {
@@ -708,6 +748,24 @@
       "duration_ms": 210933,
       "name": "FLEURS (feat. Tiakola)",
       "url": "https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2"
+    },
+    {
+      "album": {
+        "name": "FTG",
+        "url": "https://open.spotify.com/album/1glTvN8B0pM2VY33CJnT9v"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183443,
+      "name": "FTG",
+      "url": "https://open.spotify.com/track/5j5ar3YNnHXZlYLfVPLcHT"
     },
     {
       "album": {
@@ -992,7 +1050,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 205337,
       "name": "KENZO NIGO - Sur moi",
       "url": "https://open.spotify.com/track/4C2zaqRvJjRq09u2Rar1Tx"
@@ -1142,6 +1200,24 @@
       "duration_ms": 168513,
       "name": "Mapessa (feat. Tiakola)",
       "url": "https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo"
+    },
+    {
+      "album": {
+        "name": "Mauvais r\u00eave",
+        "url": "https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170413,
+      "name": "Mauvais r\u00eave",
+      "url": "https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5"
     },
     {
       "album": {
@@ -1394,7 +1470,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 284801,
       "name": "PARANO",
       "url": "https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia"
@@ -1631,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "Roule un autre (A COLORS SHOW)",
+        "url": "https://open.spotify.com/album/0ddT6KMNHM7qXZQww6yZWx"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176086,
+      "name": "Roule un autre - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich"
+    },
+    {
+      "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
       },
@@ -1686,7 +1780,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 170078,
       "name": "Sans nuances",
       "url": "https://open.spotify.com/track/4waXynr0ZvdD98abYYFmiY"

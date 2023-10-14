@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 70011,
+  "num_followers": 69959,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjk4OTdhOTE5ZTAxM2EwYTYwNWI0NjczNmI5NmQxOWRmYjBhMGU5",
+  "snapshot_id": "MCwxMjhkYzJhZjI3NTMyMjllOWZiYTcxZTUxMmQxZmZmMDExYWNmY2E3",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Randy Johnson",
+        "url": "https://open.spotify.com/album/2pPVTRXkobNnFqNhlZ6f85"
+      },
+      "artists": [
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        }
+      ],
+      "duration_ms": 152760,
+      "name": "Randy Johnson",
+      "url": "https://open.spotify.com/track/2jjgP6T0u8sCzRXkg6rLMK"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Reina de la Selva",
         "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 176986,
       "name": "Reina de la Selva",
       "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Randy Johnson",
-        "url": "https://open.spotify.com/album/2pPVTRXkobNnFqNhlZ6f85"
-      },
-      "artists": [
-        {
-          "name": "Hanzel La H",
-          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
-        }
-      ],
-      "duration_ms": 152760,
-      "name": "Randy Johnson",
-      "url": "https://open.spotify.com/track/2jjgP6T0u8sCzRXkg6rLMK"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Private Suite (Vol. 1)",
+        "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "Freelance",
+      "url": "https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Te La Dedico",
         "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
       },
@@ -911,6 +927,22 @@
       "duration_ms": 231724,
       "name": "Te La Dedico",
       "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Hedonismo",
+      "url": "https://open.spotify.com/track/7l6H2qBoaTETYgvYHSRQ9I"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -931,38 +963,6 @@
       "duration_ms": 219361,
       "name": "Soluci\u00f3n",
       "url": "https://open.spotify.com/track/7L2iH3hbDuMpxIwABcyHV9"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Private Suite (Vol. 1)",
-        "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "Freelance",
-      "url": "https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "La Sustancia X",
-        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Hedonismo",
-      "url": "https://open.spotify.com/track/7l6H2qBoaTETYgvYHSRQ9I"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Toma",
-        "url": "https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 162330,
-      "name": "Toma",
-      "url": "https://open.spotify.com/track/48iWXYdWMFNenABULLtopW"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 182857,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Toma",
+        "url": "https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 162330,
+      "name": "Toma",
+      "url": "https://open.spotify.com/track/48iWXYdWMFNenABULLtopW"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Ronca",
+        "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 145777,
+      "name": "Ronca",
+      "url": "https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Tan Rico",
         "url": "https://open.spotify.com/album/2fGm8wI8Datqlq8sK6leF0"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 246937,
       "name": "Tan Rico",
       "url": "https://open.spotify.com/track/71OoXq0nOq1044lycb1Kz9"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Ronca",
-        "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 145777,
-      "name": "Ronca",
-      "url": "https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "3 y Pico",
-        "url": "https://open.spotify.com/album/5KV1DEKnLvZZsXeeUhvlGp"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 190068,
-      "name": "3 y Pico",
-      "url": "https://open.spotify.com/track/0r64jJnSYca92hWaTLca5W"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/0D7TME7LVUblhluJnxUT8n"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 197378,
       "name": "Tasty",
       "url": "https://open.spotify.com/track/54z9eqTwfhpLIj5kCi2rfM"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "3 y Pico",
+        "url": "https://open.spotify.com/album/5KV1DEKnLvZZsXeeUhvlGp"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 190068,
+      "name": "3 y Pico",
+      "url": "https://open.spotify.com/track/0r64jJnSYca92hWaTLca5W"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "diamante$ + espina$",
-        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 178176,
-      "name": "gatx",
-      "url": "https://open.spotify.com/track/3fiYdUULxybJx1M1tOuoip"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Traficando",
         "url": "https://open.spotify.com/album/4uTZikMbZ7sKhApOhIQGxQ"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 267633,
       "name": "Traficando",
       "url": "https://open.spotify.com/track/4SQ6Wf45YaLFBsXXPfvuNZ"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "diamante$ + espina$",
+        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 178176,
+      "name": "gatx",
+      "url": "https://open.spotify.com/track/3fiYdUULxybJx1M1tOuoip"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Si Si",
-        "url": "https://open.spotify.com/album/7fJRgKViojIrwZFyrAl76b"
-      },
-      "artists": [
-        {
-          "name": "Osquel",
-          "url": "https://open.spotify.com/artist/2pG0eQLB8CbmmWWmjJi4yd"
-        },
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 200362,
-      "name": "Si Si",
-      "url": "https://open.spotify.com/track/58C7oLoWmbVgBIR7r7A3Ao"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Twisty",
         "url": "https://open.spotify.com/album/2ZF9vzq2iW6e6Xo1evM7N7"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 165337,
       "name": "Twisty",
       "url": "https://open.spotify.com/track/2EpuU1Fb5JnYnQxgUeNSoN"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Si Si",
+        "url": "https://open.spotify.com/album/7fJRgKViojIrwZFyrAl76b"
+      },
+      "artists": [
+        {
+          "name": "Osquel",
+          "url": "https://open.spotify.com/artist/2pG0eQLB8CbmmWWmjJi4yd"
+        },
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 200362,
+      "name": "Si Si",
+      "url": "https://open.spotify.com/track/58C7oLoWmbVgBIR7r7A3Ao"
     },
     {
       "added_at": "2023-06-09 02:27:24",

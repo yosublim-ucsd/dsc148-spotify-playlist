@@ -4,7 +4,7 @@
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-171 songs - 10 hr 29 min
+172 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Feel Me](https://open.spotify.com/track/0DZlGFqY7WSvQ92Ivf6J3E) | [Blancmange](https://open.spotify.com/artist/3LtBdgNHdH0Ix8hCFZ4NJG) | [Happy Families](https://open.spotify.com/album/0JfH0CgotRyhNiyfUtXS0l) | 5:05 | 2021-11-17 |  |
 | [Fiel Enamorado](https://open.spotify.com/track/25oPfVNfZu0cSc4mUuJic7) | [Chiquito Socarras y su Conjunto](https://open.spotify.com/artist/4sadDI30koP3HJ8sRy91wk) | [Recordando El Ayer](https://open.spotify.com/album/5zerx4VZjfwZyNphtXk7Lz) | 2:35 | 2021-11-17 |  |
 | [Fiesta Cha Cha \(2\) \- 30 Second Edit](https://open.spotify.com/track/30IJpUqRIWwt3j7kyiA5om) | [John Shakespeare](https://open.spotify.com/artist/7EC5LkNoK80QtJhNqkgvZN) | [Kpm 1000 Series: Contemporary Colour](https://open.spotify.com/album/2G4US4Kz6Xz7CcDE6dSuVu) | 0:37 | 2021-11-17 |  |
-| [Flor de Orinoco](https://open.spotify.com/track/6R1in541hQlqGK4xjRCUs2) | [Guy Lukowski](https://open.spotify.com/artist/35Lkxkt757TcCkP82I2zHf) | [Music Featured in "Narcos" Season 4](https://open.spotify.com/album/0yFMyA6xYbTFC2ZCz0q6uK) | 1:38 | 2021-11-17 |  |
+| [Flor de Orinoco](https://open.spotify.com/track/1nDHqlwfxB5unIohRZO2vi) | [Guy Lukowski](https://open.spotify.com/artist/35Lkxkt757TcCkP82I2zHf) | [Music Featured in "Narcos" Season 4](https://open.spotify.com/album/0nOIGoDPdfv9AoJG3Y0Dh5) | 1:38 | 2021-11-17 |  |
+| [Flor de Orinoco](https://open.spotify.com/track/6R1in541hQlqGK4xjRCUs2) | [Guy Lukowski](https://open.spotify.com/artist/35Lkxkt757TcCkP82I2zHf) | [Music Featured in "Narcos" Season 4](https://open.spotify.com/album/0yFMyA6xYbTFC2ZCz0q6uK) | 1:38 | 2021-11-17 | 2023-10-14 |
 | [Flor de Orinoco](https://open.spotify.com/track/1Q2d4c0Hi0W3Zufo3ezgth) | [Guy Lukowski](https://open.spotify.com/artist/35Lkxkt757TcCkP82I2zHf) | [America Latina, La Otra America: Argentina uruguay Paraguay Chile Los Andes \(Latin American Roadbook \#1\)](https://open.spotify.com/album/4PKypUxUHfiBlCKvyXQFLF) | 1:39 | 2021-11-17 | 2023-06-17 |
 | [Four A.M](https://open.spotify.com/track/7eVhUvv2QSKv6uSsxsDaCx) | [Anthony King](https://open.spotify.com/artist/0cMCJ6yH6Dl6MnPgVBHuRf) | [1960s Cool Jazz](https://open.spotify.com/album/7tfaVHiHJqOxtjG9q7m7fh) | 1:44 | 2021-11-17 |  |
 | [Goma de Mascar](https://open.spotify.com/track/1zhKU8lNOnA5MKplW2pO4S) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Yuri](https://open.spotify.com/album/4LobneflJRIK01f4gyXm8T) | 3:38 | 2021-11-17 |  |

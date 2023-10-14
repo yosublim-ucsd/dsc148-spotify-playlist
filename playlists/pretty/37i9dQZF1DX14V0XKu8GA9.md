@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: King Lil G & Young Drummer Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,486 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,554 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,18 +28,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 18 | [PLAYMAKER](https://open.spotify.com/track/5AF5qSs9BXiIkQzQxlP9ri) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [PLAYMAKER](https://open.spotify.com/album/4542AeXKmiq8SXAObLPPae) | 2:45 |
 | 19 | [Star Shootin](https://open.spotify.com/track/59iGJ5GJdXHT1sbIOb7zyN) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE) | [Star Shootin](https://open.spotify.com/album/0EFupahEI1Ma5UeviRof5I) | 1:48 |
 | 20 | [Hit List \(with BigXthaPlug & Big Yavo\)](https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 3:05 |
-| 21 | [Energy](https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i) | [Chito Rana$](https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz) | [Energy](https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY) | 3:07 |
+| 21 | [Down](https://open.spotify.com/track/0bETxFfD6956IoJfW5gEjz) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Down](https://open.spotify.com/album/6UN87ZXkg9pMcj4CvZ3PT3) | 1:49 |
 | 22 | [Antidote](https://open.spotify.com/track/1qPkCtml7Mvu9d95MaKv5k) | [Izzy93](https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq), [Lil M3D](https://open.spotify.com/artist/41BOfVP6FBA8WQJhSVAWeS) | [Antidote](https://open.spotify.com/album/0McJojbjClX3WgUrmcxOUe) | 2:40 |
-| 23 | [Down](https://open.spotify.com/track/0bETxFfD6956IoJfW5gEjz) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Down](https://open.spotify.com/album/6UN87ZXkg9pMcj4CvZ3PT3) | 1:49 |
+| 23 | [Energy](https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i) | [Chito Rana$](https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz) | [Energy](https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY) | 3:07 |
 | 24 | [It's Officially Done](https://open.spotify.com/track/0q4v62eDHaqkPYVWmkGOsO) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [It's Officially Done](https://open.spotify.com/album/7399tv9lmTGk3rNfC0woQD) | 2:56 |
 | 25 | [Bad Habit](https://open.spotify.com/track/029WlDmdzpAOk50tDXb6LR) | [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Bad Habit](https://open.spotify.com/album/4MAefGYESTnCQio1sF5gET) | 2:26 |
 | 26 | [Apologies](https://open.spotify.com/track/0E1xO4LIXWBRxSaKVtls87) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Apologies](https://open.spotify.com/album/3AhD9hkjE5CNI5fwA8iqOP) | 3:10 |
 | 27 | [Chingon \(with Peso Peso\)](https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Chingon \(with Peso Peso\)](https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px) | 2:05 |
 | 28 | [Glock N Switches \(with DJ Drama\)](https://open.spotify.com/track/3054AeRkauPqoSjtxGHE3z) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Gangsta Grillz: Mvrda Gvng](https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos) | 2:56 |
-| 29 | [This Is What I Need](https://open.spotify.com/track/174sKBWy1cMVxUapeaD1SC) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [Muriel](https://open.spotify.com/artist/5mbYm79icxiW01SUp5G5Ov) | [This Is What I Need](https://open.spotify.com/album/5xlnkITJKmXqDETUJB9qQw) | 2:14 |
+| 29 | [Need That](https://open.spotify.com/track/6Mlt51MMwu5wg0f11BynCE) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Need That](https://open.spotify.com/album/1fbUmxGfHJQhvr2Va02YaW) | 2:30 |
 | 30 | [Morals & Principles](https://open.spotify.com/track/7taqc8ECCZeRWtjaCEYzlc) | [Acito](https://open.spotify.com/artist/01oY6wumU3INVxo8ddX7mj), [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [The Ace Of Spades](https://open.spotify.com/album/0HNREpMTFSwFnURnDYEYS8) | 2:40 |
-| 31 | [John Gotti \(feat\. Chunks\)](https://open.spotify.com/track/2aJHkplaxZaO4ERusqANdK) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo), [Chunks](https://open.spotify.com/artist/43EFGDxwTeEgR2qzw9i8Re) | [John Gotti \(feat\. Chunks\)](https://open.spotify.com/album/4YK1V7pLeQ1Kd28Zkm45Vh) | 3:16 |
-| 32 | [Need That](https://open.spotify.com/track/6Mlt51MMwu5wg0f11BynCE) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Need That](https://open.spotify.com/album/1fbUmxGfHJQhvr2Va02YaW) | 2:30 |
+| 31 | [This Is What I Need](https://open.spotify.com/track/174sKBWy1cMVxUapeaD1SC) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [Muriel](https://open.spotify.com/artist/5mbYm79icxiW01SUp5G5Ov) | [This Is What I Need](https://open.spotify.com/album/5xlnkITJKmXqDETUJB9qQw) | 2:14 |
+| 32 | [John Gotti \(feat\. Chunks\)](https://open.spotify.com/track/2aJHkplaxZaO4ERusqANdK) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo), [Chunks](https://open.spotify.com/artist/43EFGDxwTeEgR2qzw9i8Re) | [John Gotti \(feat\. Chunks\)](https://open.spotify.com/album/4YK1V7pLeQ1Kd28Zkm45Vh) | 3:16 |
 | 33 | [Stop Cry'n](https://open.spotify.com/track/0yf28sQY66U44MITXsz6Fm) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Stop Cry'n](https://open.spotify.com/album/6BxbrYbOSW2YbccOMCuX5q) | 2:20 |
 | 34 | [Ran It Up](https://open.spotify.com/track/7KSQcZeFYQlF8lugakrTV3) | [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Be Right Back](https://open.spotify.com/album/4HttlJdK5FmQkrcSZZip4n) | 1:26 |
 | 35 | [Ww3](https://open.spotify.com/track/40fS9HNRLevyJewxseOioF) | [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD) | [For the Hood](https://open.spotify.com/album/72Qs7WVuNMwizR3mI6vEME) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 49 | [Props](https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/2LNkVTLJFYRz9sxzSVZ7rP) | 2:54 |
 | 50 | [Toxic](https://open.spotify.com/track/0aS10pGB1AyvV8YKlModuD) | [BELLA](https://open.spotify.com/artist/7DmOVfbnFeAOA3Fujc3Toe) | [Abandoned Love](https://open.spotify.com/album/4NB6CVW0MxLuMwKz9emUPK) | 3:20 |
 
-Snapshot ID: `MCwwZDYwNzBkMWJhNWE3NjY1NGE4ZDI1YWI3NGQwN2FiMTM1ZmY5YTE0`
+Snapshot ID: `MCxkOWFkYmQwNTJkZjNiMGNhYjRjYmE1MGYxNmY2YjcxZGY4YTU3MGYx`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,615 songs - 3 day 15 hr 5 min
+1,616 songs - 3 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-09 | 2023-09-11 |
 | [Get Together](https://open.spotify.com/track/46W9QGI2bVjitikXmpHFgv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Get Together](https://open.spotify.com/album/2ofQzyhu2LGNLPfIPM0209) | 2:42 | 2021-05-09 | 2021-05-10 |
 | [Getting Older](https://open.spotify.com/track/4HOryCnbme0zBnF8LWij3f) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:04 | 2021-08-01 | 2021-08-05 |
+| [Ghetto Love](https://open.spotify.com/track/4zClLaFTN76B9qHuXpJ2hH) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Ghetto Love](https://open.spotify.com/album/6h6gvLvzUFaap0qVojsrox) | 2:06 | 2023-10-13 |  |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2022-08-10 | 2022-08-14 |
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-10-28 | 2021-11-21 |
 | [Giftig](https://open.spotify.com/track/3Ye7vnZdrO2Gq5IyyH3cOp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:08 | 2022-04-30 | 2022-05-06 |
@@ -522,7 +523,7 @@
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-27 | 2023-06-02 |
 | [I'm Tired \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I'm Tired \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-03-05 | 2022-03-13 |
 | [IDGAF \(feat\. Fabe\)](https://open.spotify.com/track/5gtqR8tdO0jrYoCrNNH5Kt) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [BOY WONDER](https://open.spotify.com/album/17NNoDhQk1jYRWeVTuoPSB) | 2:43 | 2021-10-03 | 2021-10-09 |
-| [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 | 2023-10-07 |  |
+| [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 | 2023-10-07 | 2023-10-14 |
 | [Ihana kipu](https://open.spotify.com/track/4EXBxZeqKIayJa65KtAwZw) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Ihana kipu](https://open.spotify.com/album/3XxoOZ0yPeoig9wjK31bR7) | 3:07 | 2022-10-28 | 2023-05-14 |
 | [Ihana mies](https://open.spotify.com/track/1JuNanMDR8N94nicMCbusE) | [Titta](https://open.spotify.com/artist/3vSPGdAKywVxEwnOXjghbG) | [Ihana mies](https://open.spotify.com/album/0jmyQQzgR3SPy2QPw7PGIW) | 3:27 | 2022-02-12 | 2022-02-15 |
 | [Ihanaa Leijonat, Ihanaa](https://open.spotify.com/track/14l8B86O8bFUpy2ujERYfX) | [A\-Tyyppi](https://open.spotify.com/artist/6Fz4OHOMAFJMpa2uJmYnJQ) | [A\-Studio Live! \- Äärimmäinen katastrofialbumi](https://open.spotify.com/album/1aiJu4PEdPnwHrOsqSwWrw) | 3:40 | 2022-02-21 | 2022-06-01 |

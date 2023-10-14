@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Feat. Maria Becerra y Enrique Iglesias.",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Feat. Maria Becerra.",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -708,7 +708,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 178567,
       "name": "Cursi",
       "url": "https://open.spotify.com/track/2ePVy5fIcduj4U70PKlA8Z"
@@ -1970,6 +1970,32 @@
       "duration_ms": 217810,
       "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
       "url": "https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC"
+    },
+    {
+      "album": {
+        "name": "L\u00e1grimas | CROSSOVER #4",
+        "url": "https://open.spotify.com/album/5J0QySoFlt8cXEQIH0jF64"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167419,
+      "name": "L\u00e1grimas | CROSSOVER #4",
+      "url": "https://open.spotify.com/track/5zDEMy7lLJ1W7vauTrH5mb"
     },
     {
       "album": {

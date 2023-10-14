@@ -1,12 +1,12 @@
 {
   "description": "Today's biggest Dance hits! Cover: Dom Dolla",
-  "num_followers": 409128,
+  "num_followers": 409051,
   "original_name": "Dance Generation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmRlNjIwMjE4NGNhZDdmMjk0MjU1NDc3ZDc2ZjVmNDU5MzczOTk2",
+  "snapshot_id": "MCxkOTgzMzEwM2YyMmQyOThkMGE2OGJjNWZmNjQ1MTY2MDU5MTM0ZTQ3",
   "tracks": [
     {
       "added_at": "2023-10-12 12:49:10",
@@ -83,6 +83,30 @@
       "duration_ms": 125178,
       "name": "Makeba - Ian Asher Remix",
       "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
+    },
+    {
+      "added_at": "2023-10-12 12:49:10",
+      "album": {
+        "name": "Pepper",
+        "url": "https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y"
+      },
+      "artists": [
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq"
     },
     {
       "added_at": "2023-10-12 12:49:10",

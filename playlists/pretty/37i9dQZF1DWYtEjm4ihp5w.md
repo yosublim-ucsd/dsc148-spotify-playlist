@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Inkonnu
+> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Bo9al
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,998 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,120 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ماما](https://open.spotify.com/track/02JOIeE385aLgrUrMvOjGh) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [ماما](https://open.spotify.com/album/3o1uJGm5FWz1nZThS1xB8o) | 3:46 |
-| 2 | [ZIGZAG](https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZIGZAG](https://open.spotify.com/album/00AGiSuiFx3kmEIbj0ENeK) | 2:48 |
+| 1 | [ZIGZAG](https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZIGZAG](https://open.spotify.com/album/00AGiSuiFx3kmEIbj0ENeK) | 2:48 |
+| 2 | [ماما](https://open.spotify.com/track/02JOIeE385aLgrUrMvOjGh) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [ماما](https://open.spotify.com/album/3o1uJGm5FWz1nZThS1xB8o) | 3:46 |
 | 3 | [Lmossiba \(المصيبة\)](https://open.spotify.com/track/0epZr5EAVHCi1VLSb227ky) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Lmossiba \(المصيبة\)](https://open.spotify.com/album/0KIu6uf8aHHY4yebS9Zj0t) | 3:48 |
 | 4 | [JOUJ MIZAN](https://open.spotify.com/track/0J4y5Eq182zXfVERO8fqTD) | [HKZ Production](https://open.spotify.com/artist/6JDjrFsoGyhwiTI36dFra6), [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5), [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [JOUJ MIZAN](https://open.spotify.com/album/4GYRFzg6eT9WcyAkegwmdp) | 3:15 |
 | 5 | [Omri](https://open.spotify.com/track/4EwhShRVqFuVTdqPKM5yoj) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Omri](https://open.spotify.com/album/0SugmLl21ELoSvkZN3v3rp) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Moulaga](https://open.spotify.com/track/2s4eIt2bWj7xwcXEV7lQdG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Moulaga](https://open.spotify.com/album/0OeZXdYEZcy5yWuC4oQLMt) | 2:52 |
 | 50 | [M3a L3echrane](https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk) | 3:52 |
 
-Snapshot ID: `MCw4ZTI3N2I0MzhlMDVhNjM2NGRjMWYzMzA3ZTM0ZTdmY2MxYWRkY2M3`
+Snapshot ID: `MCwwNWZlZWY4NWMzMWE4MDhhZDAyZjI4MDljYTZjNTM0MWEzOTM3MTk0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 
 > <a href="spotify:artist:205i7E8fNVfojowcQSfK9m">Dom Dolla's </a> favourite tracks\. Updated regularly\. Curated by Dom Dolla\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,811 likes - 80 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,840 likes - 80 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 | 79 | [We Could Be Love](https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [We Could Be Love](https://open.spotify.com/album/4p3Eue4nXRORfFiID2811z) | 3:09 |
 | 80 | [Define \- Cassian Remix](https://open.spotify.com/track/6uA724aKkiX68eVV9G3uGg) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6) | [Define](https://open.spotify.com/album/60Ebp6R5FhD9oZvnc8YaZ9) | 5:33 |
 
-Snapshot ID: `MCwwODI1MWIyMGI1ZTQyYzg3ZTNjZjMxMzM1N2E3MTZmODQxNDljMzcx`
+Snapshot ID: `MCw1NDZlNjVlMWVhMGVjZjIxZDhiOWE1ZWNhZjljYWNlMzg2YjYyNTJl`

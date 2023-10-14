@@ -2,7 +2,7 @@
 
 ### [Tenha um Ótimo Dia!](https://open.spotify.com/playlist/37i9dQZF1DX7KTVQYEg01L)
 
-> celebre seu dia no maior astral! Foto: Gilsons
+> celebre seu dia no maior astral!
 
 310 songs - 17 hr 50 min
 
@@ -62,7 +62,7 @@
 | [Crazy](https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Crazy](https://open.spotify.com/album/6SysUU95ns1m8xfNrLCWDx) | 2:33 | 2022-03-24 | 2022-04-15 |
 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/2zCs0vLKiRO0ctaAji81g5) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen Forever](https://open.spotify.com/album/3zSA87rmoHtugmRiuQnfoy) | 2:43 | 2022-03-24 | 2022-04-18 |
 | [Da Ya Think I'm Sexy](https://open.spotify.com/track/058VOmj2vkyItyKHFLc8vF) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Da Ya Think I'm Sexy?](https://open.spotify.com/album/5R9aNxFDDbjiLOi56sLpYa) | 3:40 | 2022-03-24 | 2022-04-21 |
-| [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 | 2022-03-24 | 2023-10-07 |
+| [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 | 2022-03-24 |  |
 | [Dance Monkey](https://open.spotify.com/track/5ZULALImTm80tzUbYQYM9d) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [The Kids Are Coming](https://open.spotify.com/album/2pJXQvY0YeDvVJ9gMU9G7j) | 3:29 | 2022-02-04 | 2022-04-20 |
 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 | 2022-02-04 | 2022-11-13 |
 | [Delicate](https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:52 | 2022-03-24 |  |
@@ -96,7 +96,7 @@
 | [Flores](https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Flores](https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt) | 2:35 | 2022-02-04 | 2022-07-29 |
 | [Folha](https://open.spotify.com/track/0AvsPHbkzsw9ppulfb3l2E) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Folha](https://open.spotify.com/album/7MoNbxYmqfZQxi2CKAw6m2) | 3:17 | 2023-03-17 | 2023-04-09 |
 | [For The Night \(feat\. Lil Baby & DaBaby\)](https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:10 | 2022-03-24 |  |
-| [Garotos II \- Ao Vivo](https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Garotos II \(Ao Vivo\)](https://open.spotify.com/album/3yYpPiPKxnoL39eKC6H3gk) | 3:18 | 2023-07-21 |  |
+| [Garotos II \- Ao Vivo](https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Garotos II \(Ao Vivo\)](https://open.spotify.com/album/3yYpPiPKxnoL39eKC6H3gk) | 3:18 | 2023-07-21 | 2023-10-14 |
 | [Gelo](https://open.spotify.com/track/0J6cINt02c8UQqDG7vLShY) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Gelo](https://open.spotify.com/album/27dY9TESomQPh85EJuIvTQ) | 2:29 | 2022-02-04 | 2022-07-29 |
 | [Get Up \(I Feel Like Being A\) Sex Machine \- Pt\. 1 & 2](https://open.spotify.com/track/79ZVCdPe6jqL2UvfUHyHRA) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/11vTACMkaTq4urfwn9QzEM) | 5:16 | 2022-03-24 | 2022-04-03 |
 | [Ginga \(Participação especial de Rincon Sapiência\)](https://open.spotify.com/track/3RHhNmN9eFeutAzyJ6SqnY) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Ginga \(Participação especial de Rincon Sapiência\)](https://open.spotify.com/album/5qMS3cSMMEwhMEykSB7GcX) | 3:00 | 2022-02-04 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:   <a href=\"spotify:artist:5njxJJEEXE6Kxkr4yiFeJi\">Kim Richards</a> y <a href=\"spotify:artist:4fdudhIT1GNNvtvM309dyM\">Indiomar</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto: <a href=\"spotify:artist:1w76rpst0I6hGUgCR2B33C\">Generaci\u00f3n 12</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -594,7 +594,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 355377,
       "name": "ALELUYA (Al\u00e9-Grense Los Justos)",
       "url": "https://open.spotify.com/track/7CgJ6mGO2cqQqMrDz1GL9u"
@@ -1338,6 +1338,32 @@
       "duration_ms": 643485,
       "name": "Beso Tus Pies",
       "url": "https://open.spotify.com/track/7k3Y4nFrqjBD4gzJpHGAL1"
+    },
+    {
+      "album": {
+        "name": "Momentos: 012 (Latino America) [Live]",
+        "url": "https://open.spotify.com/album/0FOQymr4hpfU2ctVcXfBJb"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Gabriela Suarez",
+          "url": "https://open.spotify.com/artist/5HwmwWYoGmMQrWvOAFUENg"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 747906,
+      "name": "Beso Tus Pies - Live",
+      "url": "https://open.spotify.com/track/3KBpqzjZpNFeJMixh8qpda"
     },
     {
       "album": {
@@ -2156,6 +2182,28 @@
       "duration_ms": 278500,
       "name": "Cree Solamente",
       "url": "https://open.spotify.com/track/4G33FeKB2sM4W9bC4bSii4"
+    },
+    {
+      "album": {
+        "name": "Creemos Que lo Har\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/7bWocN1ILtSnvsHIBPZcPZ"
+      },
+      "artists": [
+        {
+          "name": "Unified Sound",
+          "url": "https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315230,
+      "name": "Creemos Que lo Har\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/76EyNAWIvfKT0098KnbSAI"
     },
     {
       "album": {
@@ -3202,7 +3250,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 211569,
       "name": "El D\u00eda En Que La Muerte Muri\u00f3",
       "url": "https://open.spotify.com/track/79o7CaZCTWxN4VV6g6RJr9"
@@ -3692,7 +3740,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 240700,
       "name": "Enfocao'",
       "url": "https://open.spotify.com/track/0N4DWBGSIZX2roMfhmM9EW"
@@ -3740,6 +3788,28 @@
       "duration_ms": 206446,
       "name": "Eres Mi Bendici\u00f3n",
       "url": "https://open.spotify.com/track/4PWOHWzNDlENfrapoZqU8o"
+    },
+    {
+      "album": {
+        "name": "Eres Mi Hogar",
+        "url": "https://open.spotify.com/album/3v612539U71tAoLMHXmiqo"
+      },
+      "artists": [
+        {
+          "name": "Wes Kennedy",
+          "url": "https://open.spotify.com/artist/3cDhJtuPtspj12n7MFERBL"
+        },
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236571,
+      "name": "Eres Mi Hogar",
+      "url": "https://open.spotify.com/track/4dL9f8ZewIOs3Vj5BTmObw"
     },
     {
       "album": {
@@ -4380,7 +4450,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 184547,
       "name": "Grande Como El Cielo",
       "url": "https://open.spotify.com/track/40NxV30GjlEjNK52Z40Dnq"
@@ -4812,6 +4882,24 @@
       "duration_ms": 244793,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/6pSAPtBPK6YlfOQ0DxqIQw"
+    },
+    {
+      "album": {
+        "name": "INEXPLICABLE",
+        "url": "https://open.spotify.com/album/1nd9D1hguoYMOlvIljJym1"
+      },
+      "artists": [
+        {
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471100,
+      "name": "INEXPLICABLE",
+      "url": "https://open.spotify.com/track/6uOIHZAzjVPw4HMvVm2iLB"
     },
     {
       "album": {
@@ -6343,6 +6431,28 @@
     },
     {
       "album": {
+        "name": "M\u00e1s De Ti",
+        "url": "https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189075,
+      "name": "M\u00e1s De Ti",
+      "url": "https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Rico Del Mundo",
         "url": "https://open.spotify.com/album/2i58OQEx8hQzBBOKC7KI4I"
       },
@@ -7016,6 +7126,40 @@
       "duration_ms": 270695,
       "name": "Nunca Me Fallas (feat. Marcos Witt)",
       "url": "https://open.spotify.com/track/5Y8ALB1dMCFTIdPJ7sWk0A"
+    },
+    {
+      "album": {
+        "name": "Obra de Tu Amor",
+        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        },
+        {
+          "name": "Pedro Pablo Quintero",
+          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 605453,
+      "name": "Obra de Tu Amor - (Alfarero)",
+      "url": "https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3"
     },
     {
       "album": {
@@ -8188,7 +8332,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 245760,
       "name": "Si T\u00fa Est\u00e1s Conmigo",
       "url": "https://open.spotify.com/track/6k1NGpGexYFNYtHvpVWs3t"
@@ -9902,7 +10046,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 254357,
       "name": "Venga Tu Reino",
       "url": "https://open.spotify.com/track/3MoTudMnu8aolGYdvCb9Um"

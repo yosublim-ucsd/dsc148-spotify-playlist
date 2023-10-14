@@ -2249,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158568,
+      "name": "dopamine",
+      "url": "https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv"
+    },
+    {
+      "album": {
         "name": "Down in the Willow Garden (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/7MAmoUXsgLUzc887kZcX46"
       },
@@ -3108,10 +3126,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 272177,
       "name": "Feel This Way Too",
       "url": "https://open.spotify.com/track/3RO7i5x4x7iPsm0o1AKzBU"
+    },
+    {
+      "album": {
+        "name": "Reasons Why",
+        "url": "https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272177,
+      "name": "Feel This Way Too",
+      "url": "https://open.spotify.com/track/4pjo6uHUuP2FgoBfphagOd"
     },
     {
       "album": {
@@ -3743,6 +3779,28 @@
     },
     {
       "album": {
+        "name": "Hard to Say Goodnight",
+        "url": "https://open.spotify.com/album/10DSPgSF8Ae6dy4ITIz1HS"
+      },
+      "artists": [
+        {
+          "name": "Living Hour",
+          "url": "https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia"
+        },
+        {
+          "name": "The Ophelias",
+          "url": "https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235666,
+      "name": "Hard to Say Goodnight",
+      "url": "https://open.spotify.com/track/763AWCvF9LLMyf4febXmFK"
+    },
+    {
+      "album": {
         "name": "Something Easy",
         "url": "https://open.spotify.com/album/09pC9vJ3xDCpLmkuLLUiP8"
       },
@@ -4178,7 +4236,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 253808,
       "name": "Honey",
       "url": "https://open.spotify.com/track/7KXox0OtaeI7iAadPc2dEw"
@@ -5892,7 +5950,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 241552,
       "name": "Memory Palace",
       "url": "https://open.spotify.com/track/60wYARCUwuFlDHumkWOIv7"
@@ -6112,7 +6170,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 161548,
       "name": "mundane",
       "url": "https://open.spotify.com/track/1mRGGMgNmToBG2arFHFhru"
@@ -6562,7 +6620,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 165693,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/3iKmFRb80BCvLHqRsxFdJc"
@@ -7254,7 +7312,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 277930,
       "name": "Pilgrims",
       "url": "https://open.spotify.com/track/5nVlBiK4kqitHE1An7BFL5"
@@ -8225,6 +8283,24 @@
     },
     {
       "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203324,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
+    },
+    {
+      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO"
       },
@@ -8536,7 +8612,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 278126,
       "name": "Strawberry Moon",
       "url": "https://open.spotify.com/track/1GQzHB0p19FDWzUZkqNZej"
@@ -8558,6 +8634,24 @@
       "duration_ms": 159626,
       "name": "Stubborn Heart",
       "url": "https://open.spotify.com/track/6CuaS0ZrVqMafHACp8YdJ5"
+    },
+    {
+      "album": {
+        "name": "styrofoam",
+        "url": "https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML"
+      },
+      "artists": [
+        {
+          "name": "harper",
+          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184221,
+      "name": "styrofoam",
+      "url": "https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9"
     },
     {
       "album": {
@@ -8930,6 +9024,24 @@
       "duration_ms": 267773,
       "name": "The Alcott (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
+    },
+    {
+      "album": {
+        "name": "Goodnight Summerland",
+        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196150,
+      "name": "The Animals",
+      "url": "https://open.spotify.com/track/751PUtzjp2nrpSsp3sAvgL"
     },
     {
       "album": {
@@ -9778,7 +9890,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 303781,
       "name": "Twenty Twenty",
       "url": "https://open.spotify.com/track/3PwNuvZHqvkflzOQkDyBuA"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Moderna de Pueblo
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,403 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,312 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 56 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 |
 | 57 | [MARIA PRZED OŁTARZEM](https://open.spotify.com/track/5sobLosz9Iylv99EoX6759) | [Mery Spolsky](https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx) | [MARIA PRZED OŁTARZEM](https://open.spotify.com/album/0UyyV7i0FJmHgD06VwtYAR) | 3:00 |
 | 58 | [Sushi en Lata](https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:07 |
-| 59 | [Hay aliya](https://open.spotify.com/track/3uXfxzrlhW9KwIM8aF5Zq3) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Hay aliya](https://open.spotify.com/album/0kke5oKlPdP0oSqlKaXsjR) | 2:57 |
-| 60 | [Nieba nie ma](https://open.spotify.com/track/4WCr0otDWYCVYHsbtvxqZU) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Nieba nie ma](https://open.spotify.com/album/7tE91JMUMPk4AHAX0IGNXn) | 2:58 |
+| 59 | [Nieba nie ma](https://open.spotify.com/track/4WCr0otDWYCVYHsbtvxqZU) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Nieba nie ma](https://open.spotify.com/album/7tE91JMUMPk4AHAX0IGNXn) | 2:58 |
+| 60 | [Hay aliya](https://open.spotify.com/track/3uXfxzrlhW9KwIM8aF5Zq3) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Hay aliya](https://open.spotify.com/album/0kke5oKlPdP0oSqlKaXsjR) | 2:57 |
 | 61 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
 | 62 | [Di Arsy\-Mu](https://open.spotify.com/track/4GvHn9ArvWi0eB6lvq1Rzk) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Di Arsy\-Mu](https://open.spotify.com/album/4vLuDMMcmt8JeSIYMyTCM7) | 5:46 |
 | 63 | [I Like Boys](https://open.spotify.com/track/51M1VWU6EMuNBGPfce03sZ) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [I Like Boys](https://open.spotify.com/album/5VUDQzV5sQED97pVSlGDdi) | 3:09 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 68 | [imposter syndrome](https://open.spotify.com/track/33eaEAdtz55ZyDjGsXGEdM) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [befriending my tears](https://open.spotify.com/album/4pnIWjnhk1gg73KghffqGn) | 3:15 |
 | 69 | [Wild Girl](https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Wild Girl](https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT) | 3:14 |
 | 70 | [Home With Me](https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Home With Me](https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe) | 2:47 |
-| 71 | [Miami \- From Miami Bici 2 The Movie](https://open.spotify.com/track/6zssQJs1w0wOFuyVBU8VB2) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [Miami \(From Miami Bici 2 The Movie\)](https://open.spotify.com/album/0r81zGM7H4gVVz2YpvLbzT) | 2:20 |
-| 72 | [Maquillada en la Cama](https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087) | 3:38 |
+| 71 | [Maquillada en la Cama](https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087) | 3:38 |
+| 72 | [Miami \- From Miami Bici 2 The Movie](https://open.spotify.com/track/6zssQJs1w0wOFuyVBU8VB2) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [Miami \(From Miami Bici 2 The Movie\)](https://open.spotify.com/album/0r81zGM7H4gVVz2YpvLbzT) | 2:20 |
 | 73 | [Chắc Anh Có Nỗi Khổ Tâm](https://open.spotify.com/track/7GcPP6XnsvwJzJ7GMem62o) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl), [Châu Đăng Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk) | [Chắc Anh Có Nỗi Khổ Tâm](https://open.spotify.com/album/5aVa3UtePEKd3BBLmHWYdc) | 3:46 |
 | 74 | [Say My Name](https://open.spotify.com/track/6AchAK5rBD4KTzJ14wOvSI) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Say My Name](https://open.spotify.com/album/2tAO03fZDc1V1TureuHTeH) | 2:39 |
-| 75 | [Energy](https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L) | [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h) | [Energy](https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf) | 2:37 |
+| 75 | [Pao Sto Nisi](https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pao Sto Nisi](https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD) | 2:58 |
 
-Snapshot ID: `MCw2ZDQ4YjhhODk1OGJlOWY3NTdjM2YwZWM1NjY1OGE1MmQwMTlhYWFk`
+Snapshot ID: `MCw1YjhhOTdjNTdlOGZhMmRlM2NkNzM3ZTJkMmFjYzM0NWMzN2JjMTlm`

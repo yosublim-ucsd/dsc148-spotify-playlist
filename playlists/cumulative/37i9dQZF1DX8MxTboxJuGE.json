@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Gods Of The World",
+        "url": "https://open.spotify.com/album/2wignG8fzELVtVgMOOnifA"
+      },
+      "artists": [
+        {
+          "name": "ANGRA",
+          "url": "https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283683,
+      "name": "Gods Of The World",
+      "url": "https://open.spotify.com/track/2iYBWJgNMqyezqWGUsPK6l"
+    },
+    {
+      "album": {
         "name": "Hard Skool",
         "url": "https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0"
       },
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 208695,
       "name": "Symptoms",
       "url": "https://open.spotify.com/track/6VMWyTf2jw2DmaquunqTuW"

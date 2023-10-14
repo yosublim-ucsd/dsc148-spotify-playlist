@@ -4,7 +4,7 @@
 
 > dorian alert
 
-1,852 songs - 3 day 12 hr 12 min
+1,854 songs - 3 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [Deathmatch](https://open.spotify.com/track/7kJVdqXJw3s9M2xBVUWvv2) | [111nightshift](https://open.spotify.com/artist/29j2O8FnYrHOx7Kh8qFOPn), [kkypr](https://open.spotify.com/artist/2qmldm3WLc4yv0Ps18Enoo) | [Deathmatch](https://open.spotify.com/album/79gy0bPfZ4miXWp1nuSTmx) | 2:01 | 2021-08-28 | 2021-09-21 |
 | [DEBUT](https://open.spotify.com/track/1yXdZqdbYdbG6mRVDwXyYy) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [DEBUT](https://open.spotify.com/album/55txd7wuC6m9gXkNbcVwC8) | 2:50 | 2021-02-10 | 2021-12-20 |
 | [Dedication](https://open.spotify.com/track/5VE2XpJVTysyGll09PcMXv) | [NNAMDÏ](https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90) | [Dedication](https://open.spotify.com/album/7eTbiselU00MgIrhhnTWaB) | 3:41 | 2022-09-10 | 2022-10-22 |
+| [DEFENDER](https://open.spotify.com/track/1MFz62BDFCPhVuMAELPDf6) | [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX) | [DEFENDER](https://open.spotify.com/album/6b6ykEktEnuGJ4jQUvTyWX) | 3:13 | 2023-10-13 |  |
 | [Del mar county fair 2008](https://open.spotify.com/track/7HTdY4rpT1Wal6ux3t2hE4) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Maxwell Young](https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 4:31 | 2021-10-16 | 2021-11-13 |
 | [delirious](https://open.spotify.com/track/25Ygt9oe0v56ka0KNzV5YF) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [delirious](https://open.spotify.com/album/3BQuAmBiNChWZo6FyNpRXy) | 2:18 | 2022-12-16 | 2023-03-25 |
 | [Demolished \- Frost Children Remix](https://open.spotify.com/track/1VjaYij5lLaHf2LC7FoSZX) | [Strange Ranger](https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Demolished \(Frost Children Remix\)](https://open.spotify.com/album/2NfnzAXzpfK0ZBDRWXeOR6) | 3:31 | 2022-12-16 | 2023-01-25 |
@@ -1049,6 +1050,7 @@
 | [MATRIX](https://open.spotify.com/track/0DyEnrW1MGBHA1sRLb2eGp) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [MATRIX](https://open.spotify.com/album/4KwW9lAthRqtz2DpVpaQgT) | 3:22 | 2022-05-06 | 2022-05-28 |
 | [mayb](https://open.spotify.com/track/6FSQ2VAR2O5aPNrGSu6QCv) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S) | [mayb](https://open.spotify.com/album/6swraG5e9hBxJXa5CapsJF) | 1:40 | 2021-07-24 | 2022-01-13 |
 | [maybe im overreacting](https://open.spotify.com/track/5L4UlkVVSO97UYiAlgzf35) | [slushh](https://open.spotify.com/artist/5sVGOfWrbGir0YlxROKdnP) | [MAKING FACES](https://open.spotify.com/album/33WtlKCBBr2tYcT1YJa5Mi) | 2:36 | 2021-05-08 | 2021-05-15 |
+| [maybe you are not enough](https://open.spotify.com/track/4dT1Sv6dZFqoVwen8r1xG0) | [Lucky Iris](https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC) | [maybe you are not enough](https://open.spotify.com/album/6bOOT1i8gu0g1BRKqc9qxq) | 3:03 | 2023-10-13 |  |
 | [Mazeltov Autopilot](https://open.spotify.com/track/6E4pTeJmOXemgvxrAYb4He) | [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [Blind Vision](https://open.spotify.com/album/5SkcBAmwWVLfLzWJPiCkjJ) | 2:08 | 2021-10-29 | 2022-02-24 |
 | [me](https://open.spotify.com/track/40oPD16ORkPwFA0SwiTTQj) | [dltzk](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [me](https://open.spotify.com/album/1J5iYJIcdNMC0hZiZUBScG) | 3:10 | 2020-11-21 | 2020-12-11 |
 | [me & me out of sync](https://open.spotify.com/track/5w7Ndx2cXYxsqjDxWVhCiL) | [inuday](https://open.spotify.com/artist/29OqAIxz15uCoDjXX0a4Gg) | [me & me out of sync](https://open.spotify.com/album/31k56HacbFRTJqrcJshzC1) | 2:58 | 2023-01-06 | 2023-02-18 |

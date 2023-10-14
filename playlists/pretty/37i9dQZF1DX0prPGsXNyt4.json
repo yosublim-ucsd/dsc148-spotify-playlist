@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 64356,
+  "num_followers": 64411,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzA3ZmYzZmRlZjUyMTI5NzY5N2RlMzEwZjZiYWQ0MzBiMzIwOWNi",
+  "snapshot_id": "MCxhODM1ZTkzNTUwNzYxN2Y1MWYxYThhZGE3ZWUwMDgzZDgzNGQzN2Mw",
   "tracks": [
     {
       "added_at": "2023-08-25 03:01:00",
@@ -351,6 +351,26 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
+        "name": "Funk \u00e9 N\u00f3is GR6 3.1, Vol. 1",
+        "url": "https://open.spotify.com/album/6pM2v9vda24Hils9lqCLeU"
+      },
+      "artists": [
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "duration_ms": 157088,
+      "name": "Doutora 3",
+      "url": "https://open.spotify.com/track/4DWKtQVURjepn8uzBgmwuv"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
         "name": "Saturno",
         "url": "https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 186947,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
-        "name": "Funk \u00e9 N\u00f3is GR6 3.1, Vol. 1",
-        "url": "https://open.spotify.com/album/6pM2v9vda24Hils9lqCLeU"
-      },
-      "artists": [
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        }
-      ],
-      "duration_ms": 157088,
-      "name": "Doutora 3",
-      "url": "https://open.spotify.com/track/4DWKtQVURjepn8uzBgmwuv"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "Doutora 2",
-        "url": "https://open.spotify.com/album/4ygocMSqluhiWZHnDmB4Wl"
-      },
-      "artists": [
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        },
-        {
-          "name": "Dj Nene",
-          "url": "https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM"
-        }
-      ],
-      "duration_ms": 206117,
-      "name": "Doutora 2",
-      "url": "https://open.spotify.com/track/2AwpSQRW0iOKlx3AWSUZaf"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
         "name": "Ap\u00ea 1001",
         "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 171428,
       "name": "Ap\u00ea 1001",
       "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
+        "name": "Doutora 2",
+        "url": "https://open.spotify.com/album/4ygocMSqluhiWZHnDmB4Wl"
+      },
+      "artists": [
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "Dj Nene",
+          "url": "https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM"
+        }
+      ],
+      "duration_ms": 206117,
+      "name": "Doutora 2",
+      "url": "https://open.spotify.com/track/2AwpSQRW0iOKlx3AWSUZaf"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -771,30 +771,6 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "Dubl\u00ea de Marido",
-        "url": "https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Dubl\u00ea de Marido",
-      "url": "https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
         "name": "Dono das Esquinas",
         "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 176000,
       "name": "Todo T\u00edmido",
       "url": "https://open.spotify.com/track/6xs35sD9WnoShqmJXfOj27"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
+        "name": "Dubl\u00ea de Marido",
+        "url": "https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Dubl\u00ea de Marido",
+      "url": "https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg"
     },
     {
       "added_at": "2023-08-25 03:01:00",

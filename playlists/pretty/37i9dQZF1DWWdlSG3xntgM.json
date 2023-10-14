@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: L\u1ec7 Quy\u00ean",
-  "num_followers": 35598,
+  "num_followers": 35470,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTliMTVhZDE4Y2M1YmNkMzM0NWZlY2RmODM5MmU5ZDM4Y2JkOThm",
+  "snapshot_id": "MCxjY2FjZjhhNDMwZjMyYjczMGIxZmViMWYwN2YxNzQ0YzI4MDNlNGMx",
   "tracks": [
     {
       "added_at": "2023-10-12 02:03:48",
@@ -95,8 +95,8 @@
     {
       "added_at": "2023-10-12 02:03:48",
       "album": {
-        "name": "\u00c1o Hoa: Best of Nh\u01b0 Qu\u1ef3nh 2",
-        "url": "https://open.spotify.com/album/0EnFGB1E7NMO9vwm9GJqh1"
+        "name": "L\u1ea1 Gi\u01b0\u1eddng",
+        "url": "https://open.spotify.com/album/2NSxPDtElksuXKVRfkaYYf"
       },
       "artists": [
         {
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw"
         }
       ],
-      "duration_ms": 276131,
-      "name": "Ng\u01b0\u1eddi Ngo\u00e0i Ph\u1ed1",
-      "url": "https://open.spotify.com/track/5tCyOXDeo8eQNqpJQ6zgse"
+      "duration_ms": 319973,
+      "name": "V\u00f9ng L\u00e1 Me Bay",
+      "url": "https://open.spotify.com/track/6FGmCnAfdtRxXvvD7MLBN1"
     },
     {
       "added_at": "2023-10-12 02:03:48",
@@ -215,8 +215,8 @@
     {
       "added_at": "2023-10-12 02:03:48",
       "album": {
-        "name": "L\u1ea1 Gi\u01b0\u1eddng",
-        "url": "https://open.spotify.com/album/2NSxPDtElksuXKVRfkaYYf"
+        "name": "\u00c1o Hoa: Best of Nh\u01b0 Qu\u1ef3nh 2",
+        "url": "https://open.spotify.com/album/0EnFGB1E7NMO9vwm9GJqh1"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw"
         }
       ],
-      "duration_ms": 319973,
-      "name": "V\u00f9ng L\u00e1 Me Bay",
-      "url": "https://open.spotify.com/track/6FGmCnAfdtRxXvvD7MLBN1"
+      "duration_ms": 276131,
+      "name": "Ng\u01b0\u1eddi Ngo\u00e0i Ph\u1ed1",
+      "url": "https://open.spotify.com/track/5tCyOXDeo8eQNqpJQ6zgse"
     },
     {
       "added_at": "2023-10-12 02:03:48",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-10-12 02:03:48",
       "album": {
-        "name": "\u0110\u1eafp M\u1ed9 Cu\u1ed9c T\u00ecnh",
-        "url": "https://open.spotify.com/album/06gVRXKGJdHRRWHq9acZH6"
-      },
-      "artists": [
-        {
-          "name": "Quang L\u1eadp",
-          "url": "https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ"
-        }
-      ],
-      "duration_ms": 335189,
-      "name": "\u0110\u1eafp m\u1ed9 cu\u1ed9c t\u00ecnh",
-      "url": "https://open.spotify.com/track/3T5ebvfNzgtvFzi1CuKKui"
-    },
-    {
-      "added_at": "2023-10-12 02:03:48",
-      "album": {
         "name": "H\u1eb9n H\u00f2 (Kh\u00fac T\u00ecnh X\u01b0a 5)",
         "url": "https://open.spotify.com/album/3LTDAw02F8S3HjkaDHnvZV"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 244859,
       "name": "T\u1ea5m \u1ea2nh Kh\u00f4ng H\u1ed3n",
       "url": "https://open.spotify.com/track/1HJ9VqgGvmrWoVaT8zid85"
+    },
+    {
+      "added_at": "2023-10-12 02:03:48",
+      "album": {
+        "name": "\u0110\u1eafp M\u1ed9 Cu\u1ed9c T\u00ecnh",
+        "url": "https://open.spotify.com/album/06gVRXKGJdHRRWHq9acZH6"
+      },
+      "artists": [
+        {
+          "name": "Quang L\u1eadp",
+          "url": "https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ"
+        }
+      ],
+      "duration_ms": 335189,
+      "name": "\u0110\u1eafp m\u1ed9 cu\u1ed9c t\u00ecnh",
+      "url": "https://open.spotify.com/track/3T5ebvfNzgtvFzi1CuKKui"
     },
     {
       "added_at": "2023-10-12 02:03:48",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-10-12 02:03:48",
       "album": {
-        "name": "Lan V\u00e0 \u0110i\u1ec7p 4",
-        "url": "https://open.spotify.com/album/2VhxESlFWGQJ2qDsZSajZB"
+        "name": "Th\u00f3i \u0110\u1eddi",
+        "url": "https://open.spotify.com/album/2P4uN9x0YGoB5upe2QzH42"
       },
       "artists": [
         {
-          "name": "Ph\u01b0\u01a1ng Anh",
-          "url": "https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk"
+          "name": "Ch\u1ebf Linh",
+          "url": "https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi"
         }
       ],
-      "duration_ms": 272975,
-      "name": "Ng\u01b0\u1eddi Th\u01b0\u01a1ng K\u1ebb Nh\u1edb",
-      "url": "https://open.spotify.com/track/7uRH7YpXzcK9yfRJSyrP7w"
+      "duration_ms": 304600,
+      "name": "Th\u00e0nh Ph\u1ed1 Bu\u1ed3n",
+      "url": "https://open.spotify.com/track/3mAckDAkkd1U21obGu0zA9"
     },
     {
       "added_at": "2023-10-12 02:03:48",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-10-12 02:03:48",
       "album": {
-        "name": "Th\u00f3i \u0110\u1eddi",
-        "url": "https://open.spotify.com/album/2P4uN9x0YGoB5upe2QzH42"
+        "name": "Lan V\u00e0 \u0110i\u1ec7p 4",
+        "url": "https://open.spotify.com/album/2VhxESlFWGQJ2qDsZSajZB"
       },
       "artists": [
         {
-          "name": "Ch\u1ebf Linh",
-          "url": "https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi"
+          "name": "Ph\u01b0\u01a1ng Anh",
+          "url": "https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk"
         }
       ],
-      "duration_ms": 304600,
-      "name": "Th\u00e0nh Ph\u1ed1 Bu\u1ed3n",
-      "url": "https://open.spotify.com/track/3mAckDAkkd1U21obGu0zA9"
+      "duration_ms": 272975,
+      "name": "Ng\u01b0\u1eddi Th\u01b0\u01a1ng K\u1ebb Nh\u1edb",
+      "url": "https://open.spotify.com/track/7uRH7YpXzcK9yfRJSyrP7w"
     },
     {
       "added_at": "2023-10-12 02:03:48",

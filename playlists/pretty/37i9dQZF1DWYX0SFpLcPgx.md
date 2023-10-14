@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYX0SFpLcPgx.md) - [plain]
 
 > Les 60 titres incontournables de ces dernières années\. Photo : Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,964 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,872 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYX0SFpLcPgx.md) - [plain]
 | 11 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 |
 | 12 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 |
 | 13 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 |
-| 14 | [Jerusalema](https://open.spotify.com/track/5F6tLUQGd7GtiWID9ZEzev) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema](https://open.spotify.com/album/6Wa3TTEUxvOwUOoJsVkCF4) | 5:42 |
+| 14 | [Jerusalema \(feat\. Nomcebo Zikode\)](https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema](https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K) | 5:42 |
 | 15 | [Clic clic pan pan](https://open.spotify.com/track/37DnQQzvedZUOhtjEEaHQT) | [Yanns](https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR) | [Clic clic pan pan](https://open.spotify.com/album/7D2m7aAnb9fRkI9qd16LDf) | 2:43 |
 | 16 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
 | 17 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYX0SFpLcPgx.md) - [plain]
 | 59 | [Ani Kuni \- Edit](https://open.spotify.com/track/6BhwbBtaXivvPHmHCZmxkT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Ani Kuni](https://open.spotify.com/album/225g0HM8FJAep14tN7H7aA) | 2:49 |
 | 60 | [Coup de vieux](https://open.spotify.com/track/63siBeZzxXVaY0uASns1V2) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Les autres c’est nous](https://open.spotify.com/album/07WjNDav7akW13k90qeqGw) | 3:52 |
 
-Snapshot ID: `MCwxNjQ5YTI0YWI3NGM1ZWIzYmI3NDEwNjdkMGUyOGI0MmRkMTQ2MGJh`
+Snapshot ID: `MCxlODM2Nzk2M2FkYzJmYjVmNWZlMjA0NTY1NGE4OWRhZWU3NjA1NjBk`

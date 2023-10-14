@@ -1,12 +1,12 @@
 {
   "description": "The hits that keep on rocking your world. Cover: TALK",
-  "num_followers": 62221,
+  "num_followers": 62248,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2NkNTE2YWUyYWU0YmE5Y2MyY2FmMTZhZjRiZmMxODdhNDM3MGUw",
+  "snapshot_id": "MCwxZDQxOWQwZDJiZGEwMzIzOTRhMzc3MjQ2MTdmMWE3NjlmYzZiNzM3",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 191800,
       "name": "Howlin' for You",
       "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Broken Machine (Deluxe)",
-        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/454I78HEySdcHE8fcVabTb"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Lunatic",
         "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 211960,
       "name": "Come with Me Now",
       "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Broken Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/454I78HEySdcHE8fcVabTb"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Servant Of The Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Shotgun Blues",
-      "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Servant Of The Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "Shotgun Blues",
+      "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Isolate And Medicate",
         "url": "https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 197800,
       "name": "Nobody Praying For Me",
       "url": "https://open.spotify.com/track/3bq8WiQrEXMwPAibYs7tpu"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Crooked Teeth",
+        "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 214797,
+      "name": "Help",
+      "url": "https://open.spotify.com/track/0IbiFpXPFpvCAIs9WMX5wC"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Crooked Teeth",
-        "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 214797,
-      "name": "Help",
-      "url": "https://open.spotify.com/track/0IbiFpXPFpvCAIs9WMX5wC"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Savages",
         "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Mister Asylum",
-        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 242560,
-      "name": "Lydia",
-      "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "The Suburbs (Deluxe)",
         "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 315026,
       "name": "The Suburbs",
       "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Mister Asylum",
+        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 242560,
+      "name": "Lydia",
+      "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
     },
     {
       "added_at": "2023-08-25 04:00:00",

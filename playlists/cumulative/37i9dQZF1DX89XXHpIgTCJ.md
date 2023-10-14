@@ -4,7 +4,7 @@
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-127 songs - 8 hr 10 min
+128 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Pony](https://open.spotify.com/track/108U9FAOtfHOAIGdHG12Fc) | [Far](https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt) | [At Night We Live](https://open.spotify.com/album/1hHLV0qtV4X9O1iAoVQP3i) | 4:22 | 2022-11-04 | 2022-11-08 |
 | [Pony](https://open.spotify.com/track/5cP1MO5wtxaAsf3GP5fQ6C) | [Far](https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt) | [At Night We Live](https://open.spotify.com/album/77C5KlztfSufwoZj9AxK42) | 4:22 | 2021-05-15 | 2022-07-27 |
 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 | 2021-05-15 |  |
+| [Pure 90 \(Rapping Queen\)](https://open.spotify.com/track/24ZEVCdOTKgdcM41B598NM) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Apelogies](https://open.spotify.com/album/0TAeIWcUAjAb1ZBXzaDOGV) | 4:36 | 2023-10-01 |  |
 | [Radioactive](https://open.spotify.com/track/69yfbpvmkIaB10msnKT7Q5) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Radioactive](https://open.spotify.com/album/2M0IZTKgkN3ZpYluF4lKAM) | 4:36 | 2023-10-01 |  |
 | [Raise Hell](https://open.spotify.com/track/3MmNP0Ey7mtyWY6DbsibtW) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Only In Amerika](https://open.spotify.com/album/6asMjHG61jnEVBsoScskM6) | 5:09 | 2023-02-22 |  |
 | [Ready To Go](https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Ready To Go](https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur) | 6:01 | 2021-05-15 |  |
@@ -131,7 +132,7 @@
 | [White Lines \(Don't Do It\) \[feat\. Melle Mel & Grandmaster Flash & the Furious Five\]](https://open.spotify.com/track/6v3VwiYjFuSYe1pwXGkrOV) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT), [Grandmaster Melle Mel](https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0), [Grandmaster Flash](https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk), [The Furious Five](https://open.spotify.com/artist/77iR4WkkEWMrhAw8lFFL2v) | [Thank You](https://open.spotify.com/album/2XIlp6UgHAQYNg3OTtoD54) | 5:31 | 2022-03-31 | 2022-04-18 |
 | [Wicked \(feat\. Chino Moreno\)](https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 4:00 | 2021-05-15 |  |
 | [Word Up!](https://open.spotify.com/track/1pHPpLVH2XEN0xYRoQs4wq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Word Up! \(The Remixes\)](https://open.spotify.com/album/1L9iPuSu8FZFaFzzqHQarF) | 2:52 | 2021-05-15 | 2023-10-02 |
-| [Wretches and Kings](https://open.spotify.com/track/4uqacT1xJ7UhPJAMAcb25A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo) | 4:10 | 2022-11-04 |  |
+| [Wretches and Kings](https://open.spotify.com/track/4uqacT1xJ7UhPJAMAcb25A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo) | 4:10 | 2022-11-04 | 2023-10-14 |
 | [Wretches and Kings](https://open.spotify.com/track/5U4RjLvUsjYaKu1dKWzSsP) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ) | 4:10 | 2021-05-15 | 2022-07-29 |
 | [Wu\-Tang Clan Ain't Nothing Ta F\*\*K Wit](https://open.spotify.com/track/66ZZ9lN9KKiA8zplDXM7GX) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Chad Smith](https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7), [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Loud Rocks](https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu) | 3:52 | 2023-02-20 |  |
 | [XXX\. FEAT\. U2.](https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:14 | 2022-03-31 | 2023-02-02 |

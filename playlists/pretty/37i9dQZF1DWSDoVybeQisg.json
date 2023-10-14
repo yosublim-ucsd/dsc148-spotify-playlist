@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1124860,
+  "num_followers": 1124435,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzdhNjMxYTllODg2MzliZmI4NGNhZGE4ZTMzNzU5NDgxZTU4YTIx",
+  "snapshot_id": "MCw5OWM2M2YzMWYwOTdjYWFlZjhlOGZlZDk2YWQ4YjJhN2U0NjNmMjQ3",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1223,18 +1223,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "The Savage Resurrection",
-        "url": "https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu"
+        "name": "Sly Stone & The Mojo Men",
+        "url": "https://open.spotify.com/album/1v7g2I7epACiji9krdyOhH"
       },
       "artists": [
         {
-          "name": "The Savage Resurrection",
-          "url": "https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE"
+          "name": "Sly Stone",
+          "url": "https://open.spotify.com/artist/6hA6GJ2yJA08ifsAplkUr0"
+        },
+        {
+          "name": "The Mojo Men",
+          "url": "https://open.spotify.com/artist/0RMmoLhiIGyaVI6icgcJU9"
         }
       ],
-      "duration_ms": 186560,
-      "name": "Thing in E",
-      "url": "https://open.spotify.com/track/6yUIyHqIrx854Jief095VE"
+      "duration_ms": 181026,
+      "name": "My Woman's Head",
+      "url": "https://open.spotify.com/track/6DZWfBmnJMsHnwzTWTL3iV"
     }
   ],
   "unique_name": "Psychedelic Rock",

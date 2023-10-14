@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 286222,
+  "num_followers": 286409,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzFjZWIzN2M1OTQ5ZmY5ZThkNzUxYWZiODkxM2I0Mjg1Nzg5NmE3",
+  "snapshot_id": "MCw0ZTMyZDg4NjQ5NTM4ODI5YTYwNDRhN2RhZWFlZWM4NzM3YTMyZjQ4",
   "tracks": [
     {
       "added_at": "2023-09-29 19:53:20",
@@ -47,22 +47,18 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+        "name": "cross my heart",
+        "url": "https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 305350,
-      "name": "Dang! (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
+      "duration_ms": 146228,
+      "name": "cross my heart",
+      "url": "https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -81,20 +77,20 @@
       "url": "https://open.spotify.com/track/6yEANV0C15jXJg2lsHf6F5"
     },
     {
-      "added_at": "2023-09-29 19:53:20",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "cross my heart",
-        "url": "https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/6oaWJD1A4bgpiqNWvp0mwk"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
         }
       ],
-      "duration_ms": 146228,
-      "name": "cross my heart",
-      "url": "https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU"
+      "duration_ms": 205026,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3dyI5XL7jMz905RsJiGDjf"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -151,38 +147,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "Music Sounds Better with You",
-        "url": "https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 198305,
-      "name": "Music Sounds Better with You",
-      "url": "https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 233978,
-      "name": "Starry Night - Edit",
-      "url": "https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "For Ever",
         "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
@@ -195,6 +159,22 @@
       "duration_ms": 234369,
       "name": "Casio",
       "url": "https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "This Must Be A PawPaw Rod EP",
+        "url": "https://open.spotify.com/album/7kCZCWQ1F3MAEQYEvcqQQF"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 188421,
+      "name": "Bonafide",
+      "url": "https://open.spotify.com/track/1jIopA8Imz4gwR8bjBlEjJ"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -259,46 +239,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT"
-      },
-      "artists": [
-        {
-          "name": "Breakbot",
-          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
-        },
-        {
-          "name": "Irfane",
-          "url": "https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Baby I'm Yours",
-      "url": "https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
-        "name": "99.9%",
-        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "YOU'RE THE ONE",
-      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "Pang",
         "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
       },
@@ -331,6 +271,26 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "YOU'RE THE ONE",
+      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
         "name": "Odyss\u00e9e - EP",
         "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
       },
@@ -343,38 +303,6 @@
       "duration_ms": 248892,
       "name": "Agitations tropicales",
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
-        "name": "Feels Right",
-        "url": "https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 199006,
-      "name": "Feels Right",
-      "url": "https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "Nan\u00e3",
-      "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -579,6 +507,22 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb"
+      },
+      "artists": [
+        {
+          "name": "okaywill",
+          "url": "https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L"
+        }
+      ],
+      "duration_ms": 119016,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -595,22 +539,6 @@
       "duration_ms": 226280,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb"
-      },
-      "artists": [
-        {
-          "name": "okaywill",
-          "url": "https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L"
-        }
-      ],
-      "duration_ms": 119016,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -807,22 +735,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "Dream in Colour",
-        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 183896,
-      "name": "Skin on Skin",
-      "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "Ungodly Hour",
         "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
       },
@@ -835,6 +747,22 @@
       "duration_ms": 255893,
       "name": "Ungodly Hour",
       "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "Dream in Colour",
+        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 183896,
+      "name": "Skin on Skin",
+      "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -895,6 +823,78 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "Foreign Language",
+        "url": "https://open.spotify.com/album/0VaOUq9SfMxBspe18eyufo"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Jess",
+          "url": "https://open.spotify.com/artist/0TmD2CTH26wHTBb8LxOw7s"
+        }
+      ],
+      "duration_ms": 244080,
+      "name": "Foreign Language",
+      "url": "https://open.spotify.com/track/6M0cy8N7KQhaYbJ7088D28"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "\u00bfT\u00e9o?",
+        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        },
+        {
+          "name": "Jaden Smith",
+          "url": "https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4"
+        }
+      ],
+      "duration_ms": 170125,
+      "name": "Uno Dos",
+      "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "Someone's EP II",
+        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 231192,
+      "name": "go with u",
+      "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
     }
   ],
   "unique_name": "Soir\u00e9e",

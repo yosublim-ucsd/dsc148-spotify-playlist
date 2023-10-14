@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats love stories have the best beginnings",
-  "num_followers": 18724,
+  "num_followers": 18827,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDM2MGQ4MzQwOTZmZjg3YmM2MmM1OWNkNWRjNGU0N2MwMTMzNThj",
+  "snapshot_id": "MCwzMTNiMWEwYzQ5MzQxOTMyYmMzNjFiZGJlOWIwNjBkMTlhNDIyYzA1",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "In The Rough",
+        "url": "https://open.spotify.com/album/7kUONXoXGQCZg93xSJph4x"
+      },
+      "artists": [
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        }
+      ],
+      "duration_ms": 165283,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Sweet Tea (Aduke)",
         "url": "https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB"
       },
@@ -367,18 +383,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "In The Rough",
-        "url": "https://open.spotify.com/album/7kUONXoXGQCZg93xSJph4x"
+        "name": "7 SEAS",
+        "url": "https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc"
       },
       "artists": [
         {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
         }
       ],
-      "duration_ms": 165283,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2"
+      "duration_ms": 186500,
+      "name": "Messi",
+      "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -451,22 +471,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
+        "name": "Duffel Bag",
+        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
       },
       "artists": [
         {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        },
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 186382,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
+      "duration_ms": 127067,
+      "name": "Duffel Bag",
+      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -487,18 +503,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Duffel Bag",
-        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        },
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 127067,
-      "name": "Duffel Bag",
-      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
+      "duration_ms": 186382,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -615,6 +635,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 154455,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz"
       },
@@ -631,38 +667,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Unruly",
-        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
+        "name": "SOMETHING",
+        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
       },
       "artists": [
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 227448,
-      "name": "Mukulu",
-      "url": "https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
+      "duration_ms": 188411,
+      "name": "SOMETHING",
+      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -691,18 +707,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "SOMETHING",
-        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
+        "name": "Unruly",
+        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
       },
       "artists": [
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 188411,
-      "name": "SOMETHING",
-      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
+      "duration_ms": 227448,
+      "name": "Mukulu",
+      "url": "https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -791,42 +811,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Trumpet",
-        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 188656,
-      "name": "Trumpet",
-      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 211265,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Bienvenue",
         "url": "https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 176000,
       "name": "Bienvenue",
       "url": "https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 211265,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -891,6 +891,26 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 188656,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1095,22 +1115,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Pheelz Good EP",
-        "url": "https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 170097,
-      "name": "Pheelz Like Summer",
-      "url": "https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -1127,6 +1131,22 @@
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Pheelz Good EP",
+        "url": "https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 170097,
+      "name": "Pheelz Like Summer",
+      "url": "https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q"
     },
     {
       "added_at": "2023-10-13 00:01:00",

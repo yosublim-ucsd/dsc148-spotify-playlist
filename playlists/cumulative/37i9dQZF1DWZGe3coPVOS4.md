@@ -4,7 +4,7 @@
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits.
 
-54 songs - 2 hr 38 min
+55 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,5 +62,6 @@
 | [TRUSTFALL](https://open.spotify.com/track/5wGn1TsD4ddPVmm0QoReKC) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 3:40 | 2023-07-14 |  |
 | [TRUSTFALL](https://open.spotify.com/track/7E7E6JigvQ3wr08M0g7CaH) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [TRUSTFALL](https://open.spotify.com/album/2cW6PAdLsP7wS2lSTWQV9a) | 3:40 | 2023-06-09 | 2023-07-15 |
 | [Uptown Funk](https://open.spotify.com/track/6oDMkS87z90Vjm3QrlGdD1) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:46 | 2023-06-09 |  |
+| [Vampire](https://open.spotify.com/track/7yYNyX64fVUrRDm9B8CwGP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Vampire](https://open.spotify.com/album/7f6qgMKsVgZZVnyndvvjHG) | 3:40 | 2023-10-13 |  |
 
 \*This playlist was first scraped on 2023-06-10. Prior content cannot be recovered.

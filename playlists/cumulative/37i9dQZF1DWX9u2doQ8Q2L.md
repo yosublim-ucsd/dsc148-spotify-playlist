@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,031 songs - 2 day 15 hr 42 min
+1,032 songs - 2 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -852,7 +852,8 @@
 | [エジソン](https://open.spotify.com/track/223e30Nk8UY0HKezFtakUS) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [招き猫 / エジソン](https://open.spotify.com/album/5R4QHlcpCdAX1CxV8tHWaa) | 3:13 | 2022-07-07 | 2022-07-29 |
 | [エジソン](https://open.spotify.com/track/2wRKOmpe6I7q6k69bkjuFU) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:13 | 2022-06-06 | 2022-06-29 |
 | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/track/1oYLlpOQv3LrykfZDyizun) | [sooogood!](https://open.spotify.com/artist/72C5vNpdDKj70D3NU1P5fB), [lily wii!](https://open.spotify.com/artist/4S393iGKVn1I0Kro8MD4BP) | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/album/1oDCKrs5Xg8rX1uij43sBK) | 3:35 | 2022-06-28 | 2022-07-20 |
-| [キリエ・憐れみの讃歌](https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/16UD0fdKRMlLwVfCIviFyZ) | 5:18 | 2023-09-26 |  |
+| [キリエ・憐れみの讃歌](https://open.spotify.com/track/4KjNYo1Y9QWc0GQES77dfl) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/6P0h9ZA6Vf5Drg76VGFLSe) | 5:18 | 2023-10-12 |  |
+| [キリエ・憐れみの讃歌](https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/16UD0fdKRMlLwVfCIviFyZ) | 5:18 | 2023-09-26 | 2023-10-14 |
 | [ギヴ・ミー・ア・ライド](https://open.spotify.com/track/5mGPkWaDs8EHz15T9HBHmE) | [CAPSULE](https://open.spotify.com/artist/61KJdJU38zrAW4c3PI9C9N) | [ギヴ・ミー・ア・ライド](https://open.spotify.com/album/17ODkxcwEwZ3pvCjeZViMA) | 5:05 | 2022-12-01 | 2023-01-16 |
 | [クロエ](https://open.spotify.com/track/55Tvnmqj49iNka1u3p46nK) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [THE COYOTE BAND](https://open.spotify.com/artist/432HTPxin2aQmEIHXQMUnh) | [今、何処](https://open.spotify.com/album/5ZTjkUoIxLVyyILhfXAyQM) | 3:15 | 2022-07-05 | 2022-07-29 |
 | [ゲームオーバー](https://open.spotify.com/track/7wX4lU05mPcLejQXPhh4Gk) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ゲームオーバー](https://open.spotify.com/album/1W2ALpoA6PjU52mkFj2JwS) | 4:26 | 2022-11-22 | 2023-02-23 |
@@ -879,7 +880,7 @@
 | [ハテナビト](https://open.spotify.com/track/5jMnAGIF26bzAcKf2OeUQM) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [PLASMA](https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y) | 2:57 | 2022-07-28 | 2022-09-15 |
 | [ハナノヨウ](https://open.spotify.com/track/5WwC895TwQsdgxiH9qkuq5) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [ハナノヨウ](https://open.spotify.com/album/1NORsBbP4WjmIBG2P8OsCt) | 3:52 | 2022-10-25 | 2022-11-19 |
 | [ハローソング](https://open.spotify.com/track/07FLYYBSqru9qs5hFlMa2N) | [エンヤコーラーズ](https://open.spotify.com/artist/2VmYWki0mkdmHAgbacjdZE) | [ハローソング](https://open.spotify.com/album/1QPajmQ6wMNWfIlGLiPAt9) | 2:56 | 2023-07-18 | 2023-07-26 |
-| [バイオリズム](https://open.spotify.com/track/085LjIAB3rVZOaX6yIcVNa) | [WANCE](https://open.spotify.com/artist/3F3BoiAnUVzsgIKso1xsby), [Gakushi](https://open.spotify.com/artist/4aC2s1KWbRuKKrHMJBnkhY) | [For me](https://open.spotify.com/album/0KpioD93ztWzdUtg2FABEO) | 2:28 | 2023-10-10 |  |
+| [バイオリズム](https://open.spotify.com/track/085LjIAB3rVZOaX6yIcVNa) | [WANCE](https://open.spotify.com/artist/3F3BoiAnUVzsgIKso1xsby), [Gakushi](https://open.spotify.com/artist/4aC2s1KWbRuKKrHMJBnkhY) | [FOR ME](https://open.spotify.com/album/0KpioD93ztWzdUtg2FABEO) | 2:28 | 2023-10-10 |  |
 | [バケーションに沿って](https://open.spotify.com/track/0CnzkJ43YQpKu7IbBFxwvd) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [バケーションに沿って](https://open.spotify.com/album/6kmhdz9RBc5dfXl0vXEHSX) | 3:16 | 2023-07-18 | 2023-08-29 |
 | [パラドックス](https://open.spotify.com/track/1hgVGz9OOckTZSWLBECAHx) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/53VEqiQkkbIbRXr6JfLGW9) | 3:24 | 2022-05-26 | 2022-06-24 |
 | [ピンクの髪](https://open.spotify.com/track/56V7casJFyKngwOksqwWD0) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [ピンクの髪](https://open.spotify.com/album/2aBOY6hwasvx0aUj1OI28b) | 2:57 | 2023-02-14 | 2023-02-16 |

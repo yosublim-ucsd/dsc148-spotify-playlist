@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: TOMORROW X TOGETHER, Anitta\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: B.I, James Reid\)
 
-143 songs - 7 hr 42 min
+144 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [IDOL](https://open.spotify.com/track/54azQnjuDYDFfImXimGFsA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:20 | 2022-07-22 |  |
 | [In the morning \- English Ver.](https://open.spotify.com/track/4GNMnhLF0sfDxXbEjAl2TA) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [In the morning \(English Ver.\)](https://open.spotify.com/album/5jDFUDs30zMukAEk81Fveg) | 2:52 | 2021-12-20 | 2022-06-01 |
 | [Ito](https://open.spotify.com/track/0Fb1M7rbOnydw6SrXXSlHr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Ito](https://open.spotify.com/album/4kZPJgs4OcK4AXHlEbIwuU) | 4:03 | 2021-12-20 | 2022-08-30 |
+| [Jacuzzi](https://open.spotify.com/track/3WS8Wul8jTZg9jvmN8556Q) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [DJ FLICT](https://open.spotify.com/artist/5kGccnf4y59UqCEMOPzAXX) | [Jacuzzi](https://open.spotify.com/album/3OZaC0jqmBwWn1CEScwzlt) | 2:51 | 2023-10-13 |  |
 | [JUST BREATHE \- feat\. 3RACHA of Stray Kids](https://open.spotify.com/track/6PqDYUTmTGXnCfSDhm6AlJ) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [3RACHA of Stray Kids](https://open.spotify.com/artist/1GpgROLET8tI7DKTRz4EgO) | [JUST BREATHE \(feat\. 3RACHA of Stray Kids\)](https://open.spotify.com/album/4LYNdaRg79Yfj6nEPIB9L8) | 3:50 | 2022-02-25 |  |
 | [last breath](https://open.spotify.com/track/3oBrXFR59oxbYVBJZ6lHG2) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [last breath](https://open.spotify.com/album/1j6ugJWxbjmxT2nukjUIQj) | 2:41 | 2021-12-20 | 2022-08-30 |
 | [Late Night Feels](https://open.spotify.com/track/3QvCW0O7zuvG3oPtzxmHOm) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Late Night Feels](https://open.spotify.com/album/0rdC8yB4neHiouKSAlkA06) | 2:53 | 2022-07-22 |  |

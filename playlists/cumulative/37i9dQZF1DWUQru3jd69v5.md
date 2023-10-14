@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: 8blevrai
 
-760 songs - 1 day 9 hr 4 min
+762 songs - 1 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Comment tu t'appelles](https://open.spotify.com/track/1OGvG0XEf41AxsgGF68lV3) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Comment tu t'appelles](https://open.spotify.com/album/63mSwU47Exb3aBPtqqNbUk) | 3:17 | 2022-05-10 | 2022-06-17 |
 | [Con Te](https://open.spotify.com/track/0cqrtm4RTq72e6RHJEmkqb) | [Andrès Las](https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO), [Dalu](https://open.spotify.com/artist/4oIQqm101EnDn0FjhreaIi) | [Con Te](https://open.spotify.com/album/7o46tgw63JOeayBOcQlMrw) | 2:49 | 2023-07-20 | 2023-09-15 |
 | [Con Te](https://open.spotify.com/track/0d3X6EsJll4q4rmMdDRtvf) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1) | [Con Te](https://open.spotify.com/album/6yRcSRnjcoc9kSvWEmkR2i) | 2:17 | 2023-01-26 | 2023-09-15 |
+| [CONNEXION \(feat\. Samara, Izi & AbSynapse\)](https://open.spotify.com/track/79Hlcx3lsgzE7ZdaSlUgMc) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [AbSynapse](https://open.spotify.com/artist/1gd8C8kLiAE3FcnkbbdAT9) | [CONNEXION \(feat\. Samara, Izi & AbSynapse\)](https://open.spotify.com/album/3nQyJKflMMrLQtNfNno51B) | 5:16 | 2023-10-13 |  |
 | [CONSUMAZIONE PERSONALE](https://open.spotify.com/track/0aRJUjFAbeWss7p50XOL69) | [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [CONSUMAZIONE PERSONALE](https://open.spotify.com/album/59Td7MNLKUnOsIfhW5UUIx) | 2:18 | 2022-05-19 | 2022-06-24 |
 | [Contatto Romano \(feat\. Manali & Mescal Dom\)](https://open.spotify.com/track/543ohXW976Ir5IdMpbTLil) | [Sosa Priority](https://open.spotify.com/artist/0gDbGOh9itthM6koQpDLoc), [Manali](https://open.spotify.com/artist/0aH4uMOQMV806IsaRf4nLh), [Mescal Dom](https://open.spotify.com/artist/0Ybyxgq4ypFiGcoLAStiPr) | [Contatto Romano \(feat\. Manali & Mescal Dom\)](https://open.spotify.com/album/3d10pi96nYto14V1DQR08x) | 3:19 | 2023-10-05 |  |
 | [Copacabana](https://open.spotify.com/track/4IUW8x8SdDkcbm8LivZRC1) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Copacabana](https://open.spotify.com/album/1gDOQhITnrLJtvL1q3aTm2) | 1:56 | 2022-09-15 | 2022-12-09 |
@@ -535,6 +536,7 @@
 | [PENSAVA](https://open.spotify.com/track/7crSaHFvZ4GjDlNxOlQs9m) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:25 | 2022-11-14 | 2022-11-18 |
 | [PENSAVA](https://open.spotify.com/track/3a2OF3JdIW9VXC9wnbs68X) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [PENSAVA](https://open.spotify.com/album/7tC6dFwgPbCx4oNoNnJfHn) | 2:28 | 2022-11-10 | 2023-02-03 |
 | [Per i Roiz 2](https://open.spotify.com/track/0wqh8UaAV1rqMyFOtFRWMT) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Nevia](https://open.spotify.com/artist/2CcJATfFG50akqpHUVp1be) | [Per i Roiz 2](https://open.spotify.com/album/55RAY16Dyy9bMIfyKRKatF) | 2:33 | 2022-10-13 | 2022-11-18 |
+| [Per me no](https://open.spotify.com/track/7IYh5OOeLuVrSO3oaPWROu) | [Pikasso](https://open.spotify.com/artist/3jgdWFCeO22HYQ0DiFK8xD) | [Per me no](https://open.spotify.com/album/2h7nKs3v8gprNVaARJCYkd) | 2:46 | 2023-10-13 |  |
 | [Perchè?!](https://open.spotify.com/track/11oqcjXJqFCcmsHCZxhBm0) | [G.Issa](https://open.spotify.com/artist/7gU8RwGw5k4wbutDIrIimI) | [Perchè?!](https://open.spotify.com/album/0zBAziAYfMXqnAeKq3zZJv) | 3:45 | 2023-06-29 | 2023-07-14 |
 | [PIACERE FRANCESCO](https://open.spotify.com/track/7rbsHurbo79lcr954mwjyw) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Enomoney](https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8) | [PIACERE FRANCESCO](https://open.spotify.com/album/0vaYb9C3HxAFGwPJvIypgR) | 2:41 | 2022-05-10 | 2022-05-27 |
 | [PICCOLI](https://open.spotify.com/track/1FcxGXTJDdTTtkWXT9mVVc) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Arden](https://open.spotify.com/artist/38PbHju77F8TBo3ByW4HiI) | [PICCOLI](https://open.spotify.com/album/552cO0pQzMzCNVkwLKkV8N) | 2:43 | 2022-05-10 | 2022-07-01 |

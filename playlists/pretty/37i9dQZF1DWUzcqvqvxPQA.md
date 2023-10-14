@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,958 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,947 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 20 | [Hang On](https://open.spotify.com/track/7iUNwLdjPrcteXLNq1fBlZ) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 4:15 |
 | 21 | [Faith](https://open.spotify.com/track/6UBNCEcxtzCNUQdQOle3um) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Future](https://open.spotify.com/album/0u67ZdhmmnjZ0Jxze8ca3b) | 3:42 |
 | 22 | [Love Like Thunder](https://open.spotify.com/track/2MoXe7cv3H3J3Z9oSy514F) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb), [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [RICHLIN](https://open.spotify.com/album/5GD8P8i4RfBRKbeUs59P0v) | 3:52 |
-| 23 | [Champion \- Studio Version](https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Champion \(Studio Version\)](https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS) | 3:57 |
+| 23 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
 | 24 | [Drown](https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Drown](https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ) | 3:20 |
-| 25 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
+| 25 | [Champion \- Studio Version](https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Champion \(Studio Version\)](https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS) | 3:57 |
 | 26 | [Over And Over](https://open.spotify.com/track/5AjM1AF3Gy3W5Mr4ZG7zgI) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Over And Over](https://open.spotify.com/album/6JSGQXaNZyITJBTMTWGseO) | 3:38 |
 | 27 | [I’ll Give Thanks](https://open.spotify.com/track/5iBYUI5N7zZzTkd7ychQ0P) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [I’ll Give Thanks](https://open.spotify.com/album/6X7mF04HpAVdND0ODi4TDo) | 3:52 |
 | 28 | [Patient](https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:34 |
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 60 | [Follow Me](https://open.spotify.com/track/6O8Q77DLdXZTdciVeU2Aak) | [Shonlock](https://open.spotify.com/artist/0Fs18mA7TFMvYVRNX4dNTt) | [Follow Me](https://open.spotify.com/album/46jicEgCHc3Zxh4TKaRuCN) | 3:48 |
 | 61 | [Never Far \(House Church\)](https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far \(House Church\)](https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72) | 3:51 |
 | 62 | [Confidence](https://open.spotify.com/track/2qoac9iEajoV0V6eJcCvkJ) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Confidence](https://open.spotify.com/album/5arHoem6Gn0ZZEckShyhP6) | 3:01 |
-| 63 | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2) | 3:42 |
-| 64 | [Not To Us / Good Love](https://open.spotify.com/track/3pR9Qyt791pr6Hf0Cv63Rh) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ), [Anderson Michael](https://open.spotify.com/artist/3Vci8iOFt2wRpNlqRem9hv) | [The Second City](https://open.spotify.com/album/5PQtB12QQQmkTOTxBcaVtR) | 4:05 |
+| 63 | [Not To Us / Good Love](https://open.spotify.com/track/3pR9Qyt791pr6Hf0Cv63Rh) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ), [Anderson Michael](https://open.spotify.com/artist/3Vci8iOFt2wRpNlqRem9hv) | [The Second City](https://open.spotify.com/album/5PQtB12QQQmkTOTxBcaVtR) | 4:05 |
+| 64 | [Count That High](https://open.spotify.com/track/3yejM42cofDkyazZoQn8f0) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Future](https://open.spotify.com/album/0u67ZdhmmnjZ0Jxze8ca3b) | 2:59 |
 | 65 | [Love \(Remix\)](https://open.spotify.com/track/7CtbpjinSwlPwRolx7wmTi) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Love \(Remix\)](https://open.spotify.com/album/3irVs3SlBLgZnrotRIkd6W) | 3:30 |
-| 66 | [Count That High](https://open.spotify.com/track/3yejM42cofDkyazZoQn8f0) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Future](https://open.spotify.com/album/0u67ZdhmmnjZ0Jxze8ca3b) | 2:59 |
+| 66 | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2) | 3:42 |
 | 67 | [Shining Down](https://open.spotify.com/track/32xXj2TeK1vrtFDUfFFXEW) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [Sonshine](https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7) | 5:11 |
 | 68 | [Fanatic](https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Twenty Four Seven](https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn) | 3:06 |
 | 69 | [Juggernaut](https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 99 | [Whatever It Takes](https://open.spotify.com/track/7dZSnaAGuBSgi69OWCTQcL) | [Manwell](https://open.spotify.com/artist/3HWMxHfbtrP3H39BnsquW8), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Whatever It Takes](https://open.spotify.com/album/6zSIkly50OdBZGydPYA9JR) | 3:29 |
 | 100 | [City Lights \(feat\. Mitch Wong\)](https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [City Lights \(feat\. Mitch Wong\)](https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9) | 3:58 |
 
-Snapshot ID: `MCwxNzYxMDQ2MzllNDZlM2M1MTNmNGRiNmZhNDIzOTgwODQ0ODdiYWU4`
+Snapshot ID: `MCwwNGIyYzFmZWY3ZTg5Njg2MThhZWFlMmE2ZWUxOTkwM2ZkMGFiMjgw`

@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Clinton Kane
 
-394 songs - 20 hr 25 min
+397 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 | 2023-10-12 |  |
 | [Caught Up On You](https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Caught Up On You](https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq) | 3:26 | 2023-08-10 | 2023-08-25 |
 | [Changes](https://open.spotify.com/track/13CoTwU7uuvbnCfejIhH7n) | [Amila](https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh), [Rhys Rich](https://open.spotify.com/artist/5NUjwOnA599cEmrIpSSw7d) | [Changes](https://open.spotify.com/album/29MhV870Wmh41zik9fFSZK) | 3:07 | 2023-06-27 | 2023-08-18 |
+| [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 | 2023-10-12 |  |
 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 | 2023-06-15 | 2023-06-30 |
 | [Chill Girl](https://open.spotify.com/track/6faiqpVDrqfx7aYOvnAWsl) | [Hannah Brewer](https://open.spotify.com/artist/0MYPoaaBk0uz7ZrS2VHFWk) | [Chill Girl](https://open.spotify.com/album/5Ma6nHH8GjGzCd9V9iUIWT) | 3:20 | 2023-09-07 | 2023-10-13 |
 | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1) | 2:17 | 2023-07-20 | 2023-08-25 |
@@ -239,6 +240,7 @@
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2023-06-15 | 2023-06-23 |
 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 | 2023-06-15 | 2023-06-30 |
 | [Molly Sucks \(At Parties\)](https://open.spotify.com/track/3boVjk1GSKD4mnJJbmdXf9) | [GAZAL](https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU), [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Molly Sucks \(At Parties\)](https://open.spotify.com/album/7pETeC6zWXLdNGFGrdM6X8) | 3:13 | 2023-09-28 |  |
+| [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2023-10-12 |  |
 | [Monopoly](https://open.spotify.com/track/127bEznW7acmYrAHqsT2yF) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Monopoly](https://open.spotify.com/album/4x6R4qgvQl6CMAXj4gzMKv) | 3:38 | 2023-06-15 | 2023-07-14 |
 | [Monster Brain](https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Monster Brain](https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h) | 3:37 | 2023-06-15 | 2023-07-14 |
 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 | 2023-09-28 |  |
@@ -280,6 +282,7 @@
 | [Practically Strangers](https://open.spotify.com/track/3qkRncHx7iqp05daYmVPCL) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Practically Strangers](https://open.spotify.com/album/2Hh1RsqsHsz80iosebrvob) | 2:10 | 2023-06-15 | 2023-07-14 |
 | [Pretend](https://open.spotify.com/track/6qigDYyPtOw2MbuL516gbu) | [Harry Cleverdon](https://open.spotify.com/artist/28fC9QdxJdW0SHet0oKbHk), [Shy Devine](https://open.spotify.com/artist/7FL8kwDLbYB432bc52ocpo) | [Pretend](https://open.spotify.com/album/1GPQXFYfRtc7RJIxH5TSPg) | 3:31 | 2023-09-07 | 2023-10-13 |
 | [Pretty Girl \(Teine Aulelei\)](https://open.spotify.com/track/6IEcLmbHyP3nPaKc2L7LZl) | [Vince Harder](https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M) | [Pretty Girl \(Teine Aulelei\)](https://open.spotify.com/album/5MU4ri3gJ6JK3YMiKmS0B7) | 4:11 | 2023-09-14 |  |
+| [Pretty Girl \(with Rema\)](https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Pretty Girl \(with Rema\)](https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH) | 2:17 | 2023-10-12 |  |
 | [Pretty Girls](https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:26 | 2023-08-17 | 2023-10-06 |
 | [PRETTYBOY!](https://open.spotify.com/track/18MZbVjTlMi6Hd1CYOOc33) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PRETTYBOY!](https://open.spotify.com/album/4isWgXL9r0Jq4OCMeTbeyl) | 4:05 | 2023-07-06 | 2023-08-05 |
 | [Problematic](https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Lucid Dreams](https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY) | 2:44 | 2023-10-05 |  |

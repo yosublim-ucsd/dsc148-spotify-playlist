@@ -4,7 +4,7 @@
 
 > Modo cursi: ON \#RelationshipGoals
 
-117 songs - 6 hr 55 min
+118 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Missing Piece](https://open.spotify.com/track/04uqXUGRGRkkf5XJ11bsw4) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/6sXKV4fvutpadpmpt0V51h) | 3:37 | 2022-04-05 | 2022-07-29 |
 | [Missing Piece](https://open.spotify.com/track/1yOGq68obU3Tiza2eytqEp) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Chill Summer 2022](https://open.spotify.com/album/4yKmMoi2enPkIR7IRLC14U) | 3:37 | 2022-05-27 | 2022-11-13 |
 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2022-02-04 | 2022-04-06 |
-| [Mon Soleil \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Mon Soleil \(from "Emily in Paris" Soundtrack\)](https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu) | 3:28 | 2022-02-04 |  |
+| [Mon Soleil \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Mon Soleil \(from "Emily in Paris" Soundtrack\)](https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu) | 3:28 | 2022-02-04 | 2023-10-14 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-11-09 |  |
 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 | 2021-11-09 |  |
 | [Nobody Like U \- From "Turning Red"](https://open.spotify.com/track/6WdfqDzpz3XkvMSlPVc0U8) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Nobody Like U \(From "Turning Red"\)](https://open.spotify.com/album/7uk4poI15EMWdMrMLnCIL2) | 2:40 | 2022-04-05 | 2023-02-28 |
@@ -104,6 +104,7 @@
 | [Scary Love](https://open.spotify.com/track/6TA5aymvVrtiPVbuAwmPIc) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:42 | 2022-05-27 |  |
 | [Scary Love](https://open.spotify.com/track/1w553LQgqi5Wr1EbnPe2bB) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [The Neighbourhood](https://open.spotify.com/album/5xbaMmAs8y8sglwm3GzHCm) | 3:44 | 2022-02-04 | 2022-07-29 |
 | [Set Fire to the Rain](https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:02 | 2023-02-27 |  |
+| [Someone I Used to Know](https://open.spotify.com/track/6JZD3cr8CTNOmZg205emdw) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Someone I Used To Know](https://open.spotify.com/album/0jHmLiL2rX5R8KLQ5lNiBf) | 2:55 | 2023-10-13 |  |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-11-09 |  |
 | [Something About Us](https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:52 | 2021-11-09 | 2022-02-05 |
 | [Soul Mate](https://open.spotify.com/track/2xo3D4eKXs19ISgTcICbua) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Soul Mate](https://open.spotify.com/album/3pFB2FG0kMs3MhfDfcjHRr) | 3:57 | 2022-04-05 | 2022-07-29 |

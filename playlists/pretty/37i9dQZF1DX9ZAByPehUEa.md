@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,828 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,942 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 40 | [Love You Better](https://open.spotify.com/track/1TvazP1ZwXFtJnkO3FcGsD) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Love You Better](https://open.spotify.com/album/38ra4cHiMOZQRLZQrrTFp1) | 3:14 |
 | 41 | [Better Day \(feat\. Nile Rodgers & Josh Barry\)](https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Better Day \(feat\. Nile Rodgers & Josh Barry\)](https://open.spotify.com/album/67B57RL961NRFHyce5dYEK) | 2:29 |
 | 42 | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo) | 4:30 |
-| 43 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 |
-| 44 | [Sky's the Limit \- Edit](https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP) | [Full Intention](https://open.spotify.com/artist/1tayOcNuoYWnrXeuh1HhXB) | [Sky's the Limit \(Edit\)](https://open.spotify.com/album/5pQwvmqU1IU8VdvqBGuSl1) | 2:43 |
+| 43 | [Sky's the Limit \- Edit](https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP) | [Full Intention](https://open.spotify.com/artist/1tayOcNuoYWnrXeuh1HhXB) | [Sky's the Limit \(Edit\)](https://open.spotify.com/album/5pQwvmqU1IU8VdvqBGuSl1) | 2:43 |
+| 44 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 |
 | 45 | [Solid Gold \(feat\. bshp\)](https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ) | [Solid Gold \(feat\. bshp\)](https://open.spotify.com/album/59EfQjM7As9BfUSPcd8FKR) | 3:18 |
 | 46 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 |
 | 47 | [I'm A Woman](https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [I'm A Woman](https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 49 | [Please \- Single Edit](https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Please](https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR) | 3:39 |
 | 50 | [Ma quale idea \- Myd Remix \(Radio Edit\)](https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Ma quale idea \(Myd Remix\)](https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY) | 3:39 |
 
-Snapshot ID: `MCxjMzBlMWQ1YTQ2YmI0NjVhZGI1Y2NhNzY2NmIyOWRkNzM4NzE2MzE4`
+Snapshot ID: `MCw3ZjUzMGIzYjgxOWIxMmI1Nzc3MGQwOTliNjQ4MTc4MTViNDViMDgx`

@@ -592,7 +592,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 147840,
       "name": "All Around The World (La La La)",
       "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 146880,
       "name": "Chain My Heart",
       "url": "https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn"
@@ -7371,6 +7371,24 @@
     },
     {
       "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164293,
+      "name": "LUCES DE TECNO",
+      "url": "https://open.spotify.com/track/0goXAEnjWhssHU0y9Zyqyf"
+    },
+    {
+      "album": {
         "name": "Mad Love (Remixes)",
         "url": "https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW"
       },
@@ -11146,6 +11164,24 @@
       "duration_ms": 192441,
       "name": "Storm (feat. Kyra Mastro)",
       "url": "https://open.spotify.com/track/2YhRM1qG1JRapw0YD8hRPE"
+    },
+    {
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Diljit Dosanjh
 
-256 songs - 13 hr 20 min
+257 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 | 2022-10-25 |  |
 | [Dekhya Kite](https://open.spotify.com/track/07X7p4jFhHEECps5IBKQ3c) | [Davy](https://open.spotify.com/artist/53DGPAJOq7aJrvYGrumUOV), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Dekhya Kite](https://open.spotify.com/album/2zPnY5L7hwCjuYmpuCCAO5) | 3:02 | 2023-01-23 |  |
 | [DESIRES](https://open.spotify.com/track/5pcmtf1lwrMqmAWWm248fY) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:48 | 2022-05-29 | 2023-08-18 |
+| [Dhundle Dhundle](https://open.spotify.com/track/4JU4kP0LBnUJg4qMQjGF0H) | [Bunny Johal](https://open.spotify.com/artist/0jdnMCU1yJPwoIErT6a4OS) | [Dhundle Dhundle](https://open.spotify.com/album/1mazw25I3H3UlGaw8a7tiO) | 4:03 | 2023-10-13 |  |
 | [Dil Nu](https://open.spotify.com/track/7AsG1F1eMWd17RYan8M3Wm) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Two Hearts Never Break The Same](https://open.spotify.com/album/0eZKTY3yDMqMTrVvtcEokh) | 3:53 | 2022-10-07 |  |
 | [Dilawara](https://open.spotify.com/track/1C6auFaK08OhOTJ8bfrAiG) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Dilawara](https://open.spotify.com/album/6Q9uRhFdTKxWGItb71JcQh) | 3:42 | 2023-05-03 |  |
 | [Dior](https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:19 | 2023-05-19 |  |
@@ -193,7 +194,7 @@
 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 | 2022-12-15 |  |
 | [Saada Pyaar](https://open.spotify.com/track/5gSVKG0R4xc8qtDIoyDNy8) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Money Musik](https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o) | [Not by Chance](https://open.spotify.com/album/3Msv5MSxcayA4sbQpQhXzu) | 3:33 | 2022-05-29 | 2023-07-08 |
 | [Salute](https://open.spotify.com/track/0w2wUGseVPOTjYVp3ZbBlf) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Salute](https://open.spotify.com/album/1QXDxsneMDb6sD2995j8FM) | 3:23 | 2023-03-17 |  |
-| [Sama](https://open.spotify.com/track/2sPBFOLTThxTp98E9Sfgrj) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Echoes of Emotions](https://open.spotify.com/album/6ZGcsvHEjS1kC20utWkE6H) | 4:16 | 2023-08-30 |  |
+| [Sama](https://open.spotify.com/track/2sPBFOLTThxTp98E9Sfgrj) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Echoes of Emotions](https://open.spotify.com/album/6ZGcsvHEjS1kC20utWkE6H) | 4:16 | 2023-08-30 | 2023-10-14 |
 | [Satisfy](https://open.spotify.com/track/2SazZ5d4m9G5IWu5xdMjZf) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS) | [Satisfy](https://open.spotify.com/album/6RYfEZXGozNip5vEpP0Llp) | 4:40 | 2022-06-14 | 2022-08-02 |
 | [Scars](https://open.spotify.com/track/2WzcdOr9IGIWjGQLEtV90Y) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [First of a Kind \(From the Amazon Original Series\)](https://open.spotify.com/album/6vMzmr8k0HL8Ci9Y0VUbvu) | 2:43 | 2023-09-08 | 2023-09-21 |
 | [Schedule](https://open.spotify.com/track/5eGsHi6RcL33gb9k89UYaB) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Schedule](https://open.spotify.com/album/0XtDEAGgkFrbNNaukE8pEF) | 2:28 | 2022-05-29 |  |

@@ -5784,10 +5784,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 183924,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/2SMpPuLG1PDPz5tP2RhjWT"
+    },
+    {
+      "album": {
+        "name": "NIGHTS LIKE THIS",
+        "url": "https://open.spotify.com/album/3gKp0v7cx8VBr0C3dzgizg"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183924,
+      "name": "NIGHTS LIKE THIS",
+      "url": "https://open.spotify.com/track/2hOKrPOGFsWinOWguSvjSR"
     },
     {
       "album": {

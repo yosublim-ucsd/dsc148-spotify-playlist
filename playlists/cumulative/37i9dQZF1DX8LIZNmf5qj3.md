@@ -4,7 +4,7 @@
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Tone Stith
 
-238 songs - 13 hr 5 min
+239 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Still Work \(feat\. Ty Dolla $ign & Muni Long\)](https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Still Work \(feat\. Ty Dolla $ign & Muni Long\)](https://open.spotify.com/album/0t2ykalFeWerglEzAC9tBS) | 2:34 | 2023-02-16 | 2023-03-25 |
 | [Stranger](https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Stranger](https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms) | 2:35 | 2023-09-15 |  |
 | [Suite Life \(Familiar\) \- Bonus Track](https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu) | 2:34 | 2023-07-06 | 2023-09-08 |
+| [Summers Around The Corner](https://open.spotify.com/track/6AY1IWGyVFkdkq8AA5F2zT) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Summers Around The Corner](https://open.spotify.com/album/3E4ICiqiWEXTncH5RxR1tB) | 3:48 | 2023-10-12 |  |
 | [Sweet Distraction](https://open.spotify.com/track/6oYDza5APcRR4c8w1WEAml) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Sweet Distraction](https://open.spotify.com/album/6dEK6JiVB7DoalHiMayTsb) | 2:51 | 2022-12-22 | 2023-03-18 |
 | [T.B.D.](https://open.spotify.com/track/21PVx9jD4ylrKTXgdntOz0) | [Solomon Headen](https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv) | [T.B.D.](https://open.spotify.com/album/18Xm1iSbMb5srLntraenBP) | 3:03 | 2023-10-05 |  |
 | [Take It Slow](https://open.spotify.com/track/7aSTt5lOkSBxBvllByKINK) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:41 | 2023-04-13 | 2023-06-23 |

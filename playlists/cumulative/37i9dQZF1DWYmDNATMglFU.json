@@ -6803,6 +6803,24 @@
     },
     {
       "album": {
+        "name": "suraksha",
+        "url": "https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279284,
+      "name": "lullaby",
+      "url": "https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo"
+    },
+    {
+      "album": {
         "name": "Made You Cool",
         "url": "https://open.spotify.com/album/1FwoENdmB6fCMorZZaDmbv"
       },
@@ -8510,7 +8528,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 149194,
       "name": "REAL SUPER DARK",
       "url": "https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr"
@@ -9987,6 +10005,24 @@
     },
     {
       "album": {
+        "name": "I Feel A Bit Weird",
+        "url": "https://open.spotify.com/album/4KhsMrML9a4mIMwsHdXWXj"
+      },
+      "artists": [
+        {
+          "name": "Uninvited",
+          "url": "https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258409,
+      "name": "Survivor's Guilt",
+      "url": "https://open.spotify.com/track/6jNN6oZaHZ7PiFsRgN8RFT"
+    },
+    {
+      "album": {
         "name": "t r a n s p a r e n t s o u l feat. Kid Cudi & Travis Barker (Remix)",
         "url": "https://open.spotify.com/album/7nh9bTQBhetVOYSXWBhK8l"
       },
@@ -10292,6 +10328,24 @@
       "duration_ms": 184761,
       "name": "TELL ME THAT YOU\u2019RE OKAY",
       "url": "https://open.spotify.com/track/1sHJXrHy6zDP6V2gwJVZyk"
+    },
+    {
+      "album": {
+        "name": "Terrified",
+        "url": "https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186071,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/5S9opvHpOztqiShDAAusum"
     },
     {
       "album": {
@@ -11924,6 +11978,24 @@
       "duration_ms": 152796,
       "name": "WW3",
       "url": "https://open.spotify.com/track/7cL0pp1OpgcAUQfS2CsQ23"
+    },
+    {
+      "album": {
+        "name": "The Rot That Grows Inside My Chest",
+        "url": "https://open.spotify.com/album/6Y0Gh7nGWrVw1CfA4fDWIV"
+      },
+      "artists": [
+        {
+          "name": "Teenage Joans",
+          "url": "https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154142,
+      "name": "Yoke",
+      "url": "https://open.spotify.com/track/6AUifRe9r44yBbsF2SeuqK"
     },
     {
       "album": {

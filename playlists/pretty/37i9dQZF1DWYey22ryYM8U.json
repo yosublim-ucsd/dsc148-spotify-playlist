@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Carlos Vives & Juanes",
-  "num_followers": 603588,
+  "num_followers": 603352,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWJhZWMyN2NhM2NkNzEyY2ViZjc5MzFhYTI0NTU3YjU3MjkzYTE2",
+  "snapshot_id": "MCw0MmI2OTU1ZTZmMDA5YmJjYWExNGI3ZWQzYTMzNjc1ZDkxMTg5Nzk0",
   "tracks": [
     {
       "added_at": "2023-10-12 21:42:51",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-10-12 21:42:51",
       "album": {
-        "name": "Mi Mundo Entero",
-        "url": "https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        }
-      ],
-      "duration_ms": 158067,
-      "name": "Mi Mundo Entero",
-      "url": "https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ"
-    },
-    {
-      "added_at": "2023-10-12 21:42:51",
-      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 204324,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
+    },
+    {
+      "added_at": "2023-10-12 21:42:51",
+      "album": {
+        "name": "Mi Mundo Entero",
+        "url": "https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 158067,
+      "name": "Mi Mundo Entero",
+      "url": "https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ"
     },
     {
       "added_at": "2023-10-12 21:42:51",

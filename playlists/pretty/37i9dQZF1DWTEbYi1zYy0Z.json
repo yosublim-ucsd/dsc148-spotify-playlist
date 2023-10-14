@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Jonathan Butler",
-  "num_followers": 55150,
+  "num_followers": 55170,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWI3NTA1ODkxYzg1MDAyNDgyMjAyZGUzYjIxMjJkNWQxNmI5NDA3",
+  "snapshot_id": "MCxmMDExYTY2MTNiOGU0NjQxMDNjYmUzMGNlMTNhMjZmYTcxZThiNWYy",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/1GH50Go52ia1z82l7AZalJ"
     },
     {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Dancin' Shoes",
+        "url": "https://open.spotify.com/album/2bH1chYifngpHOjrlyppS5"
+      },
+      "artists": [
+        {
+          "name": "Paula Atherton",
+          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+        }
+      ],
+      "duration_ms": 254480,
+      "name": "Dancin' Shoes",
+      "url": "https://open.spotify.com/track/15i4GMjiFCHKWMYSUTp2CS"
+    },
+    {
       "added_at": "2023-09-29 04:01:00",
       "album": {
         "name": "Ride the Vibes",
@@ -97,6 +113,22 @@
       "url": "https://open.spotify.com/track/4t6HSsIeDTF8Iis2JTSHP5"
     },
     {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Edelweiss",
+        "url": "https://open.spotify.com/album/6W9KJZCfnCPm1IpoEgMrXb"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 207757,
+      "name": "Edelweiss",
+      "url": "https://open.spotify.com/track/00Cs2pIEXYOWATPGeQywMm"
+    },
+    {
       "added_at": "2023-10-06 04:01:00",
       "album": {
         "name": "Moving Too Fast",
@@ -127,6 +159,30 @@
       "duration_ms": 273500,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/2yHVPYPyY6ufasL41DYwh7"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Victoria Falls",
+        "url": "https://open.spotify.com/album/0XeOa7J4MyLZcpvEDkq4fp"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shell",
+          "url": "https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9"
+        },
+        {
+          "name": "Douglas Lira",
+          "url": "https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI"
+        },
+        {
+          "name": "Angie Nicole",
+          "url": "https://open.spotify.com/artist/5tZTqwfxy4zLaEWkVejTws"
+        }
+      ],
+      "duration_ms": 318578,
+      "name": "Victoria Falls",
+      "url": "https://open.spotify.com/track/4fudubz4Z7yzxrbn6Ytgnr"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -161,6 +217,22 @@
       "url": "https://open.spotify.com/track/54q9Z3bppcAviIX7cX5mXB"
     },
     {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "On the Up and Up",
+        "url": "https://open.spotify.com/album/0fendbHIfxrBOViSQahezC"
+      },
+      "artists": [
+        {
+          "name": "Michael Manson",
+          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+        }
+      ],
+      "duration_ms": 248412,
+      "name": "On the Up and Up",
+      "url": "https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB"
+    },
+    {
       "added_at": "2023-09-15 04:01:00",
       "album": {
         "name": "Champagne Sky",
@@ -175,22 +247,6 @@
       "duration_ms": 248431,
       "name": "Champagne Sky",
       "url": "https://open.spotify.com/track/1Nl85nf0Q9JNUVOxSa86k4"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "A Mother's Lullaby",
-        "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 197125,
-      "name": "A Mother\u2019s Lullaby",
-      "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -845,22 +901,6 @@
       "url": "https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Do I Do",
-        "url": "https://open.spotify.com/album/6TZE2Yv5CjiHYlyxdHkNYQ"
-      },
-      "artists": [
-        {
-          "name": "Uriel Vega",
-          "url": "https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg"
-        }
-      ],
-      "duration_ms": 251255,
-      "name": "Do I Do",
-      "url": "https://open.spotify.com/track/6Hb966XHYqgzBW701zsJMX"
-    },
-    {
       "added_at": "2023-04-07 04:01:00",
       "album": {
         "name": "Ubuntu",
@@ -1043,42 +1083,6 @@
       "duration_ms": 260000,
       "name": "It's You",
       "url": "https://open.spotify.com/track/6RIfyAqxJTMMUu7IlsYXfC"
-    },
-    {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Savoir Faire",
-        "url": "https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 318733,
-      "name": "Savoir Faire",
-      "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "A Sunny Day",
-        "url": "https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA"
-      },
-      "artists": [
-        {
-          "name": "WaKaNa",
-          "url": "https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6"
-        },
-        {
-          "name": "Jonathan Fritz\u00e9n",
-          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "Fika Talk",
-      "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
     },
     {
       "added_at": "2023-06-02 04:01:00",

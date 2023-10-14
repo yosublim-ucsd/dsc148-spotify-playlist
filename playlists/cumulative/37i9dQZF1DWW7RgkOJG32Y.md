@@ -4,7 +4,7 @@
 
 > Top trending country tracks from the last few months\. Cover: Dylan Gossett
 
-338 songs - 18 hr 3 min
+340 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2022-02-25 | 2022-09-10 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-03-31 |  |
 | [Fearless \- The Echo](https://open.spotify.com/track/1xVjqCBkpIUMe3EmW0PxTM) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Fearless \(The Echo\)](https://open.spotify.com/album/5P0hRYIH6ZpS92LjqyRXuh) | 3:36 | 2023-08-11 |  |
-| [Fires Don't Start Themselves](https://open.spotify.com/track/6Ahy5fItdBfXRVWYOLo7pM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Fires Don't Start Themselves](https://open.spotify.com/album/12n7yWhXKfnjn0HMEcrNj9) | 3:45 | 2023-08-04 |  |
+| [Fires Don't Start Themselves](https://open.spotify.com/track/6Ahy5fItdBfXRVWYOLo7pM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Fires Don't Start Themselves](https://open.spotify.com/album/12n7yWhXKfnjn0HMEcrNj9) | 3:45 | 2023-08-04 | 2023-10-14 |
 | [First Taste of Gone](https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg) | 2:52 | 2022-07-22 | 2023-02-25 |
 | [First Taste of Gone](https://open.spotify.com/track/59OjYMzswJJ5uv9GfxYEK5) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Country Hits: June 2022](https://open.spotify.com/album/1NL8MOv7WaIg71wEd2ERRE) | 2:52 | 2022-11-02 | 2022-11-13 |
 | [First Taste of Gone](https://open.spotify.com/track/73WwVhoDuv9IuNU1i7gY1R) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/1hqieJ5qNMuT4y0L64W00L) | 2:52 | 2022-04-01 | 2022-07-29 |
@@ -102,7 +102,8 @@
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-03-04 | 2022-08-06 |
 | [Get That All The Time \(feat\. Mitchell Tenpenny\)](https://open.spotify.com/track/3hfEwSKgFMMhZJBaPpR41e) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Get That All The Time \(feat\. Mitchell Tenpenny\)](https://open.spotify.com/album/3nD5gS9oxfsp4JjpmcO41B) | 2:58 | 2021-12-17 | 2022-05-14 |
 | [getting into](https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [getting into](https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3) | 2:49 | 2022-08-19 | 2023-02-25 |
-| [ghost in my guitar \(feat\. Chris Stapleton\)](https://open.spotify.com/track/2tva3AvqXjPsMMLHknGGwe) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TWENTY SOMETHING: Figuring It Out](https://open.spotify.com/album/1JcMkDyAk2OHljYXOmJpki) | 3:20 | 2023-07-21 |  |
+| [ghost in my guitar \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:20 | 2023-10-13 |  |
+| [ghost in my guitar \(feat\. Chris Stapleton\)](https://open.spotify.com/track/2tva3AvqXjPsMMLHknGGwe) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TWENTY SOMETHING: Figuring It Out](https://open.spotify.com/album/1JcMkDyAk2OHljYXOmJpki) | 3:20 | 2023-07-21 | 2023-10-14 |
 | [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 | 2022-03-25 | 2022-09-03 |
 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 | 2023-02-24 | 2023-07-29 |
 | [Girl In Mine](https://open.spotify.com/track/2DPqR0kuZVjrOF5oxIRYPy) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Girl In Mine](https://open.spotify.com/album/6R75pGKkSGEsUArsphBZ9W) | 2:35 | 2023-01-13 | 2023-04-01 |
@@ -322,6 +323,7 @@
 | [When You Don't](https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/3mArQu301uZWkNwfGJ51sE) | 3:33 | 2022-01-14 | 2022-07-30 |
 | [Where It Ends](https://open.spotify.com/track/7lNezbnIXBbgNmFOa9dt1c) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Where It Ends](https://open.spotify.com/album/7bLUJsXoEiVopKhg1syj2l) | 2:59 | 2022-09-09 | 2023-05-06 |
 | [Whiskey Can't](https://open.spotify.com/track/583kGzEQ7eZRrQCeGNfiUk) | [Teddy Robb](https://open.spotify.com/artist/64IzKvcuvD2Q06UGawFiuO) | [Whiskey Can't](https://open.spotify.com/album/4sERtXmIt0fusA9kmRcrNT) | 2:52 | 2021-12-17 | 2022-03-26 |
+| [Whiskey Drink](https://open.spotify.com/track/5uU4GKzz0x4ma1udXnLf6O) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Whiskey Drink](https://open.spotify.com/album/4g06Vx2YKohoVR7FX33l9C) | 3:10 | 2023-10-13 |  |
 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 | 2022-05-13 | 2022-10-01 |
 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 | 2022-01-21 | 2022-09-24 |
 | [Why Don't We](https://open.spotify.com/track/2aRN0QN3BSUAd81TatzrMK) | [Zack Dyer](https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2) | [Why Don't We](https://open.spotify.com/album/4PywMvltuqO7wSGwFxSmfY) | 3:00 | 2021-12-24 | 2022-07-30 |

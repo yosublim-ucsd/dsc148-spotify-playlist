@@ -4,7 +4,7 @@
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-75 songs - 4 hr 50 min
+76 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Filme de Romance](https://open.spotify.com/track/4iTahl8TU9hjSaGGVAsdTd) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Acústico Planta e Raiz 2022, Pt\. 1](https://open.spotify.com/album/4ZJQfw6hoCE1t2YcTijqTU) | 3:07 | 2023-07-07 |  |
 | [Firmamento \(Wrong Girl to Play With\) \[Acústico\]](https://open.spotify.com/track/5ML1D7QsoupxcvUJgf7eD1) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 3:42 | 2023-07-07 |  |
 | [Girassol \(Acústico\)](https://open.spotify.com/track/0mscBkMFduxGFsFEhTv7du) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 4:09 | 2023-07-07 |  |
+| [I Wanna Be](https://open.spotify.com/track/1BCX365xfyXvfhkMtUFGuE) | [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O), [Rockers Control](https://open.spotify.com/artist/1iPwoFhbDDW4WQGiehzuun) | [ADMIRÁVEL CHIP NOVO \(RE\)ATIVADO](https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ) | 3:40 | 2023-10-13 |  |
 | [Is This Love \(Cover\) \- Acústico](https://open.spotify.com/track/18F79JBZvBDdI7FmRtFEEh) | [Luana Camarah](https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G) | [Is This Love \(Cover\) \[Acústico\]](https://open.spotify.com/album/1dKiVt1rzKdnjEoRHKsN8O) | 3:52 | 2023-07-07 |  |
 | [Johny B\. Goode \(Johny B\. Goode\) \[Acústico\]](https://open.spotify.com/track/1BkxFAodaIkcM2vynl4CVM) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 4:14 | 2023-07-07 |  |
 | [Lunar \(acústico\)](https://open.spotify.com/track/0N9qQtxL7sNEqKbGO9qTTw) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Lunar \(acústico\)](https://open.spotify.com/album/34wfLXnN1uN11x0be2uoRS) | 4:00 | 2023-07-07 |  |
@@ -58,7 +59,7 @@
 | [Real Gold](https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Real Gold](https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3) | 3:17 | 2023-07-07 |  |
 | [Reggae de Barão \- Acústico](https://open.spotify.com/track/1eZq0aDtVF4JOe1OMXCQKo) | [Da Vula Band](https://open.spotify.com/artist/4foXml2ME1mqHJ6i8DDhdA) | [Flow and Slow \(Acústico\)](https://open.spotify.com/album/5Rb8yyhD4wFRbzGJxK2UOM) | 3:42 | 2023-07-07 |  |
 | [Reggae do Manero \- Ao Vivo \| Acústico](https://open.spotify.com/track/0VaMFkBz3QsRAuaek4jYR5) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 5:25 | 2023-07-07 |  |
-| [Reggae Good Vibe](https://open.spotify.com/track/5OSWVxhBiidE6KVf3lvMno) | [Good Vibe](https://open.spotify.com/artist/3rpzzzuQFoqc1tNhQ3Xp6p) | [Tribo](https://open.spotify.com/album/384Jx7rHBTpn3Wt6e9CodH) | 4:23 | 2023-07-07 |  |
+| [Reggae Good Vibe](https://open.spotify.com/track/5OSWVxhBiidE6KVf3lvMno) | [Good Vibe](https://open.spotify.com/artist/3rpzzzuQFoqc1tNhQ3Xp6p) | [Tribo](https://open.spotify.com/album/384Jx7rHBTpn3Wt6e9CodH) | 4:23 | 2023-07-07 | 2023-10-14 |
 | [Reviso Meus Planos \- Ao Vivo Em São Paulo](https://open.spotify.com/track/0qEngYWXqMntXxTTUbdLnZ) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ) | 4:12 | 2023-07-07 |  |
 | [Roots Dance](https://open.spotify.com/track/6fkjiRiUOO5UTUC5hPwqcB) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Só Pra Brilhar](https://open.spotify.com/album/4dcwRYbS4okDFQiwPcEGuY) | 3:33 | 2023-07-07 |  |
 | [Roots, Rock, Reggae \- Live](https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:52 | 2023-07-07 |  |

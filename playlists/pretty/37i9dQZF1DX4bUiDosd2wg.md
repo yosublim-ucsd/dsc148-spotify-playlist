@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,765 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,785 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,7 +207,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 197 | [Love has left again](https://open.spotify.com/track/51juQGmbyLEYkL9y2hqMcI) | [Lee Ki\-chan](https://open.spotify.com/artist/06lmDAKbe4tXjN9m7bRaQj) | [New Story](https://open.spotify.com/album/5bZfsIAGUeJfsRd9hN9PEA) | 4:16 |
 | 198 | [Fall in Fall](https://open.spotify.com/track/7M8UfQ4tszq3j4zpljhLX2) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [ABOUT ME](https://open.spotify.com/album/6sxOMgS63kM7nDYkUYkkuZ) | 3:51 |
 | 199 | [Nothing Better](https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:23 |
-| 200 | [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [ALI](https://open.spotify.com/artist/5NmGi4tI04spJQqScP5K35) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 |
+| 200 | [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 |
 | 201 | [늦은 후회](https://open.spotify.com/track/46XH9XZwZKuISZZAieHmke) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [2011 김형석 With Friends Part.1](https://open.spotify.com/album/5VIZj07PjlySAdYgo28An9) | 4:42 |
 
-Snapshot ID: `MCwwNmVjNGExZDFhMWY3MDhmOTgyMjY1M2QzMzk0YmIwNGIwOGQ5ZWNj`
+Snapshot ID: `MCwzMTM0OWJlODEyNmVmMjQzNDM4ZDdmMDdjODAxOTFmYTA4MWZlMTUx`

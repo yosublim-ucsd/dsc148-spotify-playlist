@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: Madness
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,374 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,373 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,18 +15,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 5 | [The Impression That I Get](https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee) | 3:14 |
 | 6 | [Crazy Life](https://open.spotify.com/track/6HetWMoIuWJpTRuhk82x5U) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Crazy Life](https://open.spotify.com/album/3N5BvC9o2V2huzPmIxRoI4) | 3:33 |
 | 7 | [You Can Get It If You Really Want](https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 2:38 |
-| 8 | [Wrong Way](https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:16 |
-| 9 | [Recess](https://open.spotify.com/track/27o2eN8ssJK6dYwy20LvfS) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I), [JER](https://open.spotify.com/artist/7xJaPX4LwOT3i6XB7WFskK), [Stacked Like Pancakes](https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp) | [Recess](https://open.spotify.com/album/0sJwWtsL2dXGdKpUu1Chnb) | 2:48 |
-| 10 | [Time Bomb](https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:24 |
-| 11 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 |
-| 12 | [Charade](https://open.spotify.com/track/4TU950aBQIwFjkuWk63shn) | [Roland Alphonso](https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn), [The Beverley's All Stars](https://open.spotify.com/artist/4YLJ8hO5NSk1uWjGUb0xlK) | [King of Ska: The Beverley's Records Singles Collection 1963 \- 1967](https://open.spotify.com/album/2rRn15y0Y7m6NKWL9QXo3Y) | 3:06 |
-| 13 | [A Message to You Rudy \- 2015 Remaster](https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 2:52 |
+| 8 | [Blessed with a Melody](https://open.spotify.com/track/2VOPWmLCCfSKDtxiQBxKsx) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7) | [Blessed with a Melody](https://open.spotify.com/album/06rxIyt9gHCan4NA9puzRL) | 4:27 |
+| 9 | [Wrong Way](https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:16 |
+| 10 | [Brown Baby](https://open.spotify.com/track/1xI1flFEJ1M2h5SxeqfNdV) | [The Gramophone Allstars](https://open.spotify.com/artist/329b1AgXMb6retylGLzMjN), [Tonia Richii](https://open.spotify.com/artist/3qa3xLMQmz6DAw4mlQhQi9) | [Brown Baby](https://open.spotify.com/album/78nYiCsjbSeiMQ5hzl6two) | 3:46 |
+| 11 | [Time Bomb](https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:24 |
+| 12 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 |
+| 13 | [Ghost Town](https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz) | 3:39 |
 | 14 | [She's Kerosene](https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:50 |
 | 15 | [Que me quemen tus ojos](https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy) | [Que me quemen tus ojos](https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ) | 2:39 |
 | 16 | [Sunday Morning](https://open.spotify.com/track/6yCjhDzcVIfxvTjBKhhn7P) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:33 |
 | 17 | [All My Best Friends Are Metalheads](https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:31 |
 | 18 | [Gotta Keep It Going](https://open.spotify.com/track/1pBrnr4hWlpQl2a2TXyd8j) | [The Gramophone Allstars](https://open.spotify.com/artist/329b1AgXMb6retylGLzMjN), [Rodrigo Laviña](https://open.spotify.com/artist/2GY6Es5fP09QBZW8KDbbv5) | [Gotta Keep It Going](https://open.spotify.com/album/37mFb0lfYnSslaJxUYabIX) | 3:45 |
-| 19 | [Ghost Town](https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz) | 3:39 |
+| 19 | [A Message to You Rudy \- 2015 Remaster](https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 2:52 |
 | 20 | [Same In The End](https://open.spotify.com/track/3kGt9uxpJzKTxwp2uJHrU5) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:36 |
 | 21 | [54\-46 Was My Number](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [In The Dark](https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto) | 3:24 |
 | 22 | [007 \(Shanty Town\)](https://open.spotify.com/track/7LOAChK8Lkj8ZdF1LuhNWP) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [007 Shanty Town](https://open.spotify.com/album/5lJvmBzHTq7POLabCLvzOm) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [2Tone Army](https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 3:17 |
 | 100 | [SKrAm!](https://open.spotify.com/track/5ROazJQzZ1LqD2muLOEaHy) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [SKA DREAM](https://open.spotify.com/album/3H28j4CQIYPGvrS4StXeMz) | 2:38 |
 
-Snapshot ID: `MCwyYzgwOWY4MTI3MjZjZDhhZjE4ZmM5MjI0MjBiYzM4M2E5ZTgwMzgy`
+Snapshot ID: `MCw3ZDQwYzNiYTgzNjcyMjJkMjdlZTA2M2I3MjA1Njg5YzdiZDU0YWEy`

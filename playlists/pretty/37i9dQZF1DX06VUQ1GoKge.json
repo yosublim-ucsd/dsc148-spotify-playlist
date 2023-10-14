@@ -1,12 +1,12 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 555520,
+  "num_followers": 555651,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDY1ZWY3Mzk4OGVkMTg3ZjU5N2VhNmJmYzE3ODk1OThhYjVlOGM2",
+  "snapshot_id": "MCw1M2ViMWI5YjZlYWY5N2RhNWNjMTE3MDRmNDQ2MDBjNmVmZDU1MWQ3",
   "tracks": [
     {
       "added_at": "2023-09-14 13:20:31",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 261811,
-      "name": "Glitch",
-      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
         "name": "Eternal Blue",
         "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 173174,
       "name": "Holy Roller",
       "url": "https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 261811,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
     },
     {
       "added_at": "2023-09-14 13:20:31",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 255230,
-      "name": "Prey",
-      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
         "name": "Protect The Land / Genocidal Humanoidz",
         "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 307644,
       "name": "Protect The Land",
       "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 255230,
+      "name": "Prey",
+      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
     },
     {
       "added_at": "2023-09-14 13:20:31",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
+        "name": "American Sun",
+        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
+      },
+      "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 179181,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
-        "name": "American Sun",
-        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
-      },
-      "artists": [
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR"
     },
     {
       "added_at": "2023-09-14 13:20:31",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
+        "name": "Will To Power",
+        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 293466,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
         "name": "Talk To Me (feat. Lzzy Hale)",
         "url": "https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 208021,
       "name": "Talk To Me (feat. Lzzy Hale)",
       "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
-        "name": "Will To Power",
-        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 293466,
-      "name": "The World Is Yours",
-      "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
     },
     {
       "added_at": "2023-09-14 13:20:31",

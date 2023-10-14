@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,794 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,054 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Gbedu](https://open.spotify.com/track/1XhTCQFzYcgFeJpkw2x2VV) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Gbedu](https://open.spotify.com/album/78tVCq1xaSu5u8L3sABqE4) | 3:09 |
 | 50 | [Big Man](https://open.spotify.com/track/07MLjNIlPLOXBsxOL6W4uS) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Big Man](https://open.spotify.com/album/07NzZwKyx7hjidyelPjUDt) | 2:32 |
 
-Snapshot ID: `MCxjNDljNTY0ZDJiNjQ4Y2I0NGQ2OGM4NTdiMTNmZWNkNTYyNmQwMzc3`
+Snapshot ID: `MCw2Zjc5NmEzMjM1N2EyMmE3Y2MwYjU3MDMxNDk4NzA2MWZlZjAxNGYw`

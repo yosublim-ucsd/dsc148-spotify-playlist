@@ -4,7 +4,7 @@
 
 > Sapphic songs that defined your music taste as "yearning."
 
-363 songs - 21 hr 48 min
+364 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Between the Bars](https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:21 | 2023-05-25 |  |
 | [Between the Bars](https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:21 | 2022-12-02 | 2023-04-29 |
 | [Big Star](https://open.spotify.com/track/6Hgk1HQsWfx6VmivH45Csc) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/1lDMJQcBCttCroFPkNHtN7) | 2:47 | 2021-12-15 | 2022-07-28 |
+| [Black Hole](https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:21 | 2023-10-13 |  |
 | [Blossom \(Wasting All My Time\)](https://open.spotify.com/track/4yhAcg6xUHtZgt731WsFl1) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 3:12 | 2021-12-15 | 2022-07-06 |
 | [Blue Hippo](https://open.spotify.com/track/1kKHlRNEXpIkYARjFXGmnm) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Blue Hippo](https://open.spotify.com/album/1zo8HozcWbmjMfcn9T3LYH) | 3:19 | 2021-12-15 | 2022-07-29 |
 | [Built To Spill](https://open.spotify.com/track/4waleULtpyAttZiusnOuKG) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Built To Spill](https://open.spotify.com/album/6TLLO4Oh4ndwKlnkXNoCUV) | 3:44 | 2022-04-14 | 2022-04-18 |
@@ -185,7 +186,7 @@
 | [Kinky Love](https://open.spotify.com/track/3Uz3K1Ctq6MOIDqRddKHXo) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [Flesh Balloon](https://open.spotify.com/album/7pyRF4vb1WxOGQTgZk6tsw) | 4:04 | 2022-04-06 | 2022-04-21 |
 | [Kinky Love](https://open.spotify.com/track/5hUCTgttGB1eS4GJdPEQEM) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [Flesh Balloon](https://open.spotify.com/album/57N92LQlPaWjNfxCP98SRx) | 4:04 | 2021-12-15 | 2022-01-07 |
 | [Kiss City](https://open.spotify.com/track/4cGypWQnh0A4iAC9qsId7h) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Kiss City](https://open.spotify.com/album/7cmsEgxgZSQeggXZuJHINh) | 2:23 | 2022-07-20 | 2022-07-30 |
-| [Kissing Lessons](https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Kissing Lessons](https://open.spotify.com/album/0uXVaGNDshKcJr0CXlWeYj) | 1:54 | 2022-02-11 |  |
+| [Kissing Lessons](https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Kissing Lessons](https://open.spotify.com/album/0uXVaGNDshKcJr0CXlWeYj) | 1:54 | 2022-02-11 | 2023-10-14 |
 | [Kokomo, IN](https://open.spotify.com/track/0O4sIQ728ugLlwBVaxF8UM) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:38 | 2022-01-08 |  |
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2022-04-29 | 2022-09-24 |
 | [Landslide](https://open.spotify.com/track/0ZxSPvOEDHlwUvjfKxLdZr) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Single Sessions](https://open.spotify.com/album/5CQZHRx66NBFLheNYh1XGM) | 3:53 | 2022-01-08 | 2022-04-19 |

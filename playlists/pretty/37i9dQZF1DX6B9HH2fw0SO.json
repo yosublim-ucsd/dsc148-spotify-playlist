@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 54735,
+  "num_followers": 54792,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTNmYTUyNWI3OWQ0NzQ0NWIyNTZjMWY2NzhiNjgxMTQ4YzJiZjZk",
+  "snapshot_id": "MCxkODVmN2Q1ZTA1MmNjNmY4OWU3N2RiMDVjMzQ5YzZiZmJhOWJiYWU3",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1116,9 +1116,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 180026,
-      "name": "UGH!",
-      "url": "https://open.spotify.com/track/5vgdeMt4uKUN2BeltZjoDh"
+      "duration_ms": 222040,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/5hRzAbY2AAO258hL6oqsqO"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1212,9 +1212,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 222040,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/5hRzAbY2AAO258hL6oqsqO"
+      "duration_ms": 180026,
+      "name": "UGH!",
+      "url": "https://open.spotify.com/track/5vgdeMt4uKUN2BeltZjoDh"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/6IoA01Eo4bfsXfEKBEisyG"
+        "name": "Christine and the Queens",
+        "url": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
       },
       "artists": [
         {
-          "name": "Chromatics",
-          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
         }
       ],
-      "duration_ms": 224527,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq"
+      "duration_ms": 233247,
+      "name": "Tilted",
+      "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Christine and the Queens",
-        "url": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/6IoA01Eo4bfsXfEKBEisyG"
       },
       "artists": [
         {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
         }
       ],
-      "duration_ms": 233247,
-      "name": "Tilted",
-      "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
+      "duration_ms": 224527,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq"
     },
     {
       "added_at": "2021-09-14 05:14:45",

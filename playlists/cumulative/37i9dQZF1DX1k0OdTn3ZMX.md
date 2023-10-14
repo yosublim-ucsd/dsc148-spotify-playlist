@@ -2,9 +2,9 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with Static\-X.
+> nü\-metal revival is happening here and now with Limp Bizkit.
 
-62 songs - 3 hr 42 min
+65 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,10 +23,10 @@
 | [Cycle Of Hurting](https://open.spotify.com/track/5YYICTJqdW3m32yaAYGN2d) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [In This Condition](https://open.spotify.com/album/3sKQj82cnByXwXNuwVEe5m) | 3:49 | 2023-09-13 | 2023-09-23 |
 | [Dead World](https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Dead World](https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF) | 4:01 | 2023-09-13 |  |
 | [DEADZONE](https://open.spotify.com/track/6SvhGaXpd2pkUaAGyMJ3Uw) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [DEADZONE](https://open.spotify.com/album/2VE9zs72iNOeoXZHyAMRF7) | 2:50 | 2023-09-13 |  |
-| [DETOX](https://open.spotify.com/track/7a3dzgrNu32WXb1ymJmgm2) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [DETOX](https://open.spotify.com/album/6iLG5mKnCdfkObd5e1onm2) | 3:45 | 2023-09-13 |  |
+| [DETOX](https://open.spotify.com/track/7a3dzgrNu32WXb1ymJmgm2) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [DETOX](https://open.spotify.com/album/6iLG5mKnCdfkObd5e1onm2) | 3:45 | 2023-09-13 | 2023-10-14 |
 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 | 2023-09-13 |  |
 | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE) | 3:11 | 2023-09-22 |  |
-| [EMPTY](https://open.spotify.com/track/1lU1D4ay1tarkjkyEhxiSN) | [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [EMPTY](https://open.spotify.com/album/539efTuyDDvj6njVfILi0G) | 3:12 | 2023-09-13 |  |
+| [EMPTY](https://open.spotify.com/track/1lU1D4ay1tarkjkyEhxiSN) | [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [EMPTY](https://open.spotify.com/album/539efTuyDDvj6njVfILi0G) | 3:12 | 2023-09-13 | 2023-10-14 |
 | [Everything](https://open.spotify.com/track/0aBFPOcQfWPQZvdLx2jWmq) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Truth Killer](https://open.spotify.com/album/6YKRSUJ7jo99IYvHeOx5aT) | 4:18 | 2023-09-13 |  |
 | [Everything She Wants](https://open.spotify.com/track/01pR1krOFbSYfTbSaxYHq0) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Everything She Wants](https://open.spotify.com/album/5fCJH4JORE9qWixhlniKem) | 3:41 | 2023-09-13 |  |
 | [Evil](https://open.spotify.com/track/5mJ7uYK3uqOOoinTsVPBLT) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia \(Deluxe Version\)](https://open.spotify.com/album/08mukWlu8RaDICE3GvqO3l) | 2:43 | 2023-09-13 |  |
@@ -36,6 +36,7 @@
 | [For the Beaten](https://open.spotify.com/track/33QuKSmC3xJISItWeGuPWc) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [The Algorithm](https://open.spotify.com/album/4K3EGyXF7wdfaR4fGPlOXg) | 3:38 | 2023-09-13 |  |
 | [Gimme That Boom](https://open.spotify.com/track/5aZ9mfnT8jp3ZdrMQaF76j) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Smile](https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm) | 3:13 | 2023-09-13 |  |
 | [Grooming My Replacement](https://open.spotify.com/track/0FMJNZDjRFPEBvI86u8NAZ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Grooming My Replacement / The Game](https://open.spotify.com/album/7IRDBqkMaGhw0HxItP6zHL) | 2:54 | 2023-09-13 | 2023-09-23 |
+| [Hard Knock](https://open.spotify.com/track/3zxoPM98k49H9cuxsXPWoL) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Hard Knock](https://open.spotify.com/album/4z0FAe3hOWNG5McJu8JCUw) | 2:49 | 2023-10-13 |  |
 | [I Remember](https://open.spotify.com/track/3XDP2NR8lCbyU2mohcsZXq) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [I Remember](https://open.spotify.com/album/6hP42dqjbIWOS8gdHXWueK) | 3:08 | 2023-09-13 |  |
 | [I'm Not Right](https://open.spotify.com/track/3mtwzP9E05Ad8sJCvrnRvK) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Unstable](https://open.spotify.com/album/5CeWYs97NFdLiydGVFBtFz) | 3:46 | 2023-09-13 |  |
 | [Kill The Noise](https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2023-09-13 |  |
@@ -45,6 +46,7 @@
 | [Lost](https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:19 | 2023-09-13 |  |
 | [Nightmare](https://open.spotify.com/track/5c3fIHmLHmL4iaqUuqBPHo) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:07 | 2023-09-13 |  |
 | [No One Else To Blame](https://open.spotify.com/track/1LAUa3m7ncdsdzC6e0WtJ1) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [SC\\SSRS](https://open.spotify.com/album/3KtkgdjSTdTzkHdYQ0cglt) | 4:40 | 2023-09-29 |  |
+| [Out Of Style](https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:22 | 2023-10-13 |  |
 | [Overture or Obituary](https://open.spotify.com/track/3PgK8DK9jZSYR17OEUDjJb) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untitled \(Deluxe\)](https://open.spotify.com/album/5gizwaBQyfZYTEb8zdL7Z6) | 3:02 | 2023-09-13 | 2023-09-23 |
 | [Pink Push\-Up Bra](https://open.spotify.com/track/6QbpIejpFu4dpnyHdGJ0fX) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Push\-Up Bra](https://open.spotify.com/album/5vormAy9yNKoLQ6yHsEldX) | 2:12 | 2023-09-22 | 2023-09-30 |
 | [Radio](https://open.spotify.com/track/6NYptQ5KJyMEz8Mm5IpI6W) | [Julien\-K](https://open.spotify.com/artist/6a82pdlhS6SsAq7HDUSZKN) | [Radio](https://open.spotify.com/album/02MYjSgDrcWxZknZAujBUq) | 4:44 | 2023-09-13 |  |
@@ -52,13 +54,14 @@
 | [Saviourself](https://open.spotify.com/track/2V7dPhw5Ui4SpQ80USGIFL) | [BUTTERFLY SCISSORS](https://open.spotify.com/artist/3M9AoSedl5prEHAvhWeQiD), [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq) | [Saviourself](https://open.spotify.com/album/2mzZt1rYEWLCKPgo8tp1ck) | 2:50 | 2023-09-22 | 2023-09-30 |
 | [SELF HELL](https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW) | 4:39 | 2023-09-13 |  |
 | [Showdown](https://open.spotify.com/track/0dMlUGAmgBLLLjiufG5R18) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Showdown](https://open.spotify.com/album/0hynTwx1tRcpaCMf2t2YXv) | 4:11 | 2023-09-13 |  |
-| [Soaking Nerves](https://open.spotify.com/track/16obiBx0cUuFG2ib5QRTfX) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Soaking Nerves](https://open.spotify.com/album/28LaJRDcI0PPmkylQH0vsn) | 2:57 | 2023-09-13 |  |
+| [Soaking Nerves](https://open.spotify.com/track/16obiBx0cUuFG2ib5QRTfX) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Soaking Nerves](https://open.spotify.com/album/28LaJRDcI0PPmkylQH0vsn) | 2:57 | 2023-09-13 | 2023-10-14 |
 | [Stay Alive](https://open.spotify.com/track/66Qgii6ORyeqooYBgEwOjM) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Stay Alive](https://open.spotify.com/album/4UHvt8BH9vbtB2ZhVKT8mR) | 3:46 | 2023-09-13 | 2023-10-07 |
 | [Stay Alive](https://open.spotify.com/track/2gsMbIi220xUNmGcNEVUBR) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Z0mbie](https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE) | 3:47 | 2023-10-06 |  |
 | [system\_failure](https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Slow Burn](https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9) | 4:18 | 2023-09-13 |  |
 | [Telescope](https://open.spotify.com/track/3Tn9ea6IIwfH0LuRF71vfg) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Generation Of Danger](https://open.spotify.com/album/3o2oLb3RZjWhdIU6d98rnr) | 4:09 | 2023-09-13 | 2023-09-23 |
 | [The Heresy](https://open.spotify.com/track/2zl4OeEKQTUhswMeAVkwbo) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [A Wonderful Life](https://open.spotify.com/album/6r09VreaN9XExE5fS6NoTv) | 3:59 | 2023-09-13 |  |
 | [This Is Over](https://open.spotify.com/track/5aX9v4Y1q1iibwYmsPVchf) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [This Is Over](https://open.spotify.com/album/1WTW5zVbx104vQyQolqOHf) | 3:06 | 2023-09-13 |  |
+| [Too Late](https://open.spotify.com/track/1n110MY4nS0rX59wbpNoPS) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Too Late](https://open.spotify.com/album/5xTfpkXcdVjW5RjiWl4PkF) | 4:09 | 2023-10-13 |  |
 | [Two\-Way Mirror](https://open.spotify.com/track/0b4TKuvZ4eJ8eHgJgXaCnN) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [I Let It in and It Took Everything](https://open.spotify.com/album/6nUUV3haj8ug8okTmOyIU2) | 5:00 | 2023-09-13 |  |
 | [Unraveling](https://open.spotify.com/track/6YP09NwxQ8SLxcIksD89Bp) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Unraveling](https://open.spotify.com/album/1QpkidAXuoW3JBeHlA8Vu0) | 2:59 | 2023-09-13 |  |
 | [Unstoppable](https://open.spotify.com/track/6l769YojBjFfjOItRJQPCM) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Divisive](https://open.spotify.com/album/592wLCECATlzgwiEWTOPEa) | 3:58 | 2023-09-13 |  |

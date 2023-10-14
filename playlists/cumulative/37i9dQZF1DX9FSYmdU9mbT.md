@@ -2,7 +2,7 @@
 
 ### [O Melhor da MPB](https://open.spotify.com/playlist/37i9dQZF1DX9FSYmdU9mbT)
 
-> Os grandes artistas da MPB\. Foto: Gal Costa
+> Os grandes artistas da MPB\. Foto: Elis Regina
 
 140 songs - 8 hr 57 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 
 > This is the Latin soundtrack of the 70s! Cover:  José José
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,100 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,136 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,11 +78,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 68 | [Melina](https://open.spotify.com/track/2UXCWyEOySmZR97yq4OIAY) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [15 Grandes Exitos Vol\. I \- A Peticion Del Publico](https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY) | 2:47 |
 | 69 | [No Lastimes Más](https://open.spotify.com/track/5NBBPD7iyOk34gtKgWz3IW) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [La Absoluta Colección](https://open.spotify.com/album/4Z9kcMbrFta5WTrxFq9Law) | 3:35 |
 | 70 | [Usted Abusó](https://open.spotify.com/track/7l4rheatghobSX90XilfPL) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/3zHl7v8SJjqKoHZWCszzzn) | 4:19 |
-| 71 | [La de la Mochila Azul \- Tema Remasterizado](https://open.spotify.com/track/7mAJhTUR86m8za71QGYIMK) | [Pedrito Fernández](https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk) | [La Gran Coleccion Del 60 Aniversario CBS \- Pedro Fernandez](https://open.spotify.com/album/352knvMHml1CF221Etuqnw) | 2:47 |
-| 72 | [Voy a Perder la Cabeza por Tu Amor](https://open.spotify.com/track/6aOHV5MoVmS5UeHEhXIXtT) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Serie de Autores \- Vol\. II, Manuel Alejandro](https://open.spotify.com/album/4pRW2FxKY2Ir5sNqSPwh5g) | 5:19 |
-| 73 | [Se Me Perdió la Cadenita](https://open.spotify.com/track/4lNIfnscCanglCCUuVVUan) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b) | [La Discoteca del Siglo \- Historia de la Cumbia en el Siglo Xx, Vol\. 3](https://open.spotify.com/album/0QIW02TgQwYnJtQ4JW0J6Z) | 2:37 |
+| 71 | [Voy a Perder la Cabeza por Tu Amor](https://open.spotify.com/track/6aOHV5MoVmS5UeHEhXIXtT) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Serie de Autores \- Vol\. II, Manuel Alejandro](https://open.spotify.com/album/4pRW2FxKY2Ir5sNqSPwh5g) | 5:19 |
+| 72 | [La de la Mochila Azul \- Tema Remasterizado](https://open.spotify.com/track/7mAJhTUR86m8za71QGYIMK) | [Pedrito Fernández](https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk) | [La Gran Coleccion Del 60 Aniversario CBS \- Pedro Fernandez](https://open.spotify.com/album/352knvMHml1CF221Etuqnw) | 2:47 |
+| 73 | [Stay Out Of My Life](https://open.spotify.com/track/0wsGHiAoOQwOOtBWauLiVN) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [I Can See](https://open.spotify.com/album/12SudP5pnMsY8b7f2ypAd6) | 3:56 |
 | 74 | [Por un Amor](https://open.spotify.com/track/6TNOBScJXFw3nNemRdeEd0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Joyas Rancheras Al Estilo](https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj) | 3:27 |
-| 75 | [Stay Out Of My Life](https://open.spotify.com/track/0wsGHiAoOQwOOtBWauLiVN) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [I Can See](https://open.spotify.com/album/12SudP5pnMsY8b7f2ypAd6) | 3:56 |
+| 75 | [Se Me Perdió la Cadenita](https://open.spotify.com/track/4lNIfnscCanglCCUuVVUan) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b) | [La Discoteca del Siglo \- Historia de la Cumbia en el Siglo Xx, Vol\. 3](https://open.spotify.com/album/0QIW02TgQwYnJtQ4JW0J6Z) | 2:37 |
 | 76 | [La Murga](https://open.spotify.com/track/0ERampYomIgYBMJlX3rKXY) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [A Man And His Music: The Player](https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg) | 5:34 |
 | 77 | [Libre](https://open.spotify.com/track/2zC0ObgALavrI8pg23ggPR) | [Nino Bravo](https://open.spotify.com/artist/03zz3zpyV15ZGw1cgjZ7tj) | [Lo Mejor De...](https://open.spotify.com/album/3UJiui06mKfzd3ERnIrcCA) | 4:11 |
 | 78 | [No Soy de Aquí, Ni Soy de Allá](https://open.spotify.com/track/1rcrTr5RoivJAUC1VbD3r5) | [Facundo Cabral](https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx) | [Inolvidables RCA \- 20 Grandes Exitos](https://open.spotify.com/album/1ubnzcAUtQjzxGgszdCcW3) | 4:17 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 89 | [Iremos de la Mano](https://open.spotify.com/track/11eMjGWRKv0ZuUTCk42sEU) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [10 Éxitos](https://open.spotify.com/album/3sMYq7e2hCexGBrFA73dS7) | 3:25 |
 | 90 | [Lágrimas y Lluvia](https://open.spotify.com/track/2XbZmljaMUuU10gZ5uaOAn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 3:03 |
 
-Snapshot ID: `MCw0N2NiNjU1MDM4YmVjN2M1NmI1ZDQyN2FhOGRiYWU2MWY4ZGM3NWQ0`
+Snapshot ID: `MCxmNTRlODdkN2JiMzQxMzIwZGNlOGYxZDkzMGE5Zjg4ZmRhODg3Nzdl`

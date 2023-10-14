@@ -266,6 +266,24 @@
     {
       "album": {
         "name": "Alag Aasmaan",
+        "url": "https://open.spotify.com/album/3ggRRHH3VsmspGHzOl4v42"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212750,
+      "name": "Alag Aasmaan",
+      "url": "https://open.spotify.com/track/3bQsp4Vr9Rg4fNCx6HPOgX"
+    },
+    {
+      "album": {
+        "name": "Alag Aasmaan",
         "url": "https://open.spotify.com/album/2WSMj9vMUGTwAMq0fo1vXi"
       },
       "artists": [
@@ -276,7 +294,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 212773,
       "name": "Alag Aasmaan",
       "url": "https://open.spotify.com/track/74kCarkFBzXYXNkkYJIsG0"
@@ -454,10 +472,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 207309,
       "name": "Baarishein",
       "url": "https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg"
+    },
+    {
+      "album": {
+        "name": "Baarishein",
+        "url": "https://open.spotify.com/album/2LeZ6oWQed5ewVUpyGJKDh"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207312,
+      "name": "Baarishein",
+      "url": "https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W"
     },
     {
       "album": {
@@ -1234,10 +1270,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 217241,
       "name": "Gul",
       "url": "https://open.spotify.com/track/0NLkVxf0PyxsXBG3EuZcJf"
+    },
+    {
+      "album": {
+        "name": "Gul",
+        "url": "https://open.spotify.com/album/7gxvq2TLEEThZzaOQEOI2r"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217250,
+      "name": "Gul",
+      "url": "https://open.spotify.com/track/6ivemTXTn27PwVjtd0oqDs"
     },
     {
       "album": {
@@ -3326,7 +3380,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 230204,
       "name": "Sage",
       "url": "https://open.spotify.com/track/43mHckutQvJr49nT0UvRxy"
@@ -3344,7 +3398,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230204,
       "name": "Sage",
       "url": "https://open.spotify.com/track/64RkEV5b7bG697vhIPMlrl"

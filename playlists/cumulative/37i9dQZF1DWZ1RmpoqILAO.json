@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "indie tunes with country experimentation Cover: Slaughter Beach, Dog",
+  "description": "indie tunes with country experimentation Cover: Arcy Drive",
   "name": "Indie Twang",
   "tracks": [
     {
@@ -774,6 +774,24 @@
       "duration_ms": 197933,
       "name": "Curls",
       "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
+    },
+    {
+      "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/6ubBnaA12qbh5WbxoNXsn2"
+      },
+      "artists": [
+        {
+          "name": "After Ours",
+          "url": "https://open.spotify.com/artist/48mkLSnW17hfCg0rDjMzs7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242265,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/61aJAWoZAj4ymQOkkfUSnk"
     },
     {
       "album": {
@@ -1962,6 +1980,24 @@
       "duration_ms": 441173,
       "name": "My Life in Art",
       "url": "https://open.spotify.com/track/14Zab7jJKwK89fY4RxXl3N"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "album": {

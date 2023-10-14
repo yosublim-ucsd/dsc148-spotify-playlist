@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 ### [O Melhor da MPB](https://open.spotify.com/playlist/37i9dQZF1DX9FSYmdU9mbT)
 
-> Os grandes artistas da MPB\. Foto: Gal Costa
+> Os grandes artistas da MPB\. Foto: Elis Regina
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,293,835 likes - 91 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,292,704 likes - 91 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Força Estranha](https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Tropical](https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2) | 3:34 |
-| 2 | [Aquarela](https://open.spotify.com/track/5JP9AC0yt5Q2wtWjY9Atv9) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Novas Cores, Eternas Canções \(Deluxe\)](https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR) | 3:25 |
-| 3 | [O Leãozinho \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 2:56 |
-| 4 | [Como Nossos Pais](https://open.spotify.com/track/2ZC8sdv4Kvuql7Q9T8Agzv) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:21 |
+| 1 | [Como Nossos Pais](https://open.spotify.com/track/2ZC8sdv4Kvuql7Q9T8Agzv) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:21 |
+| 2 | [Força Estranha](https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Tropical](https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2) | 3:34 |
+| 3 | [Aquarela](https://open.spotify.com/track/5JP9AC0yt5Q2wtWjY9Atv9) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Novas Cores, Eternas Canções \(Deluxe\)](https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR) | 3:25 |
+| 4 | [O Leãozinho \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 2:56 |
 | 5 | [Baby](https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:32 |
 | 6 | [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 |
 | 7 | [Deus Me Proteja](https://open.spotify.com/track/4Ijct6HkKsC9HQVgcnMe7C) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [francisco forró y frevo](https://open.spotify.com/album/08J9fO5TtYRrAO4LkplP8D) | 4:53 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 90 | [Oba, Lá Vem Ela](https://open.spotify.com/track/4u0Xdy7BizHLrcPIf7c6h2) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Favourites: From Samba Esquema Novo 1963 To Africa Brasil 1976](https://open.spotify.com/album/1jJXtCHztoIKiSG8IbLmq0) | 4:14 |
 | 91 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 |
 
-Snapshot ID: `MCwxMTdmOWQ4MjViZDE3ZDc1ZTExYmM4NTUwNDZlMWEwYmU4YWYxZDJl`
+Snapshot ID: `MCw1M2I3MTcyMDYxYmUyYmFjYjllMDNlMDdiNzdmNDk3N2I1ZTY4NjE1`

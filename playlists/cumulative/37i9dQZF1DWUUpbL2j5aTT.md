@@ -2,9 +2,9 @@
 
 ### [House Brasil](https://open.spotify.com/playlist/37i9dQZF1DWUUpbL2j5aTT)
 
-> The best of Brazilian House\. Photo: Cat Dealers
+> The best of Brazilian House\. Photo: Riro
 
-75 songs - 4 hr 44 min
+77 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Addictive](https://open.spotify.com/track/1h99HGj5wwNX1DqoJRpPDv) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Addictive](https://open.spotify.com/album/6sZycycWxSmPtRRrarYJSU) | 2:45 | 2023-07-21 |  |
 | [ANTISSOCIAL](https://open.spotify.com/track/2UGAXXO6rxhGIWEROH996S) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [O AMOR, O PERDÃO E A TECNOLOGIA IRÃO NOS LEVAR PARA OUTRO PLANETA](https://open.spotify.com/album/639QW9bvf08nR0dCWFpcTC) | 3:59 | 2023-07-28 | 2023-10-07 |
 | [Anyway](https://open.spotify.com/track/1D2k8w6a7pGgm01Q3xLiae) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Anyway](https://open.spotify.com/album/4eTG5fu0MGHN1DjgqoxQaB) | 3:16 | 2023-07-21 |  |
+| [Baby](https://open.spotify.com/track/5AiGklmXZAAKUlfNs1su49) | [Riro](https://open.spotify.com/artist/4NqnlCPDCBgLdVOY8lDark) | [Baby](https://open.spotify.com/album/3g0z38jrU0AE7aJNYniLBq) | 2:40 | 2023-10-13 |  |
 | [Back To Love](https://open.spotify.com/track/7p7W3U6Eo39Y125LYbdtyg) | [Windy City Classics](https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m), [Ale Salles](https://open.spotify.com/artist/3WUTfT3MAFhrVcvAntC3Iu), [F.Brothers](https://open.spotify.com/artist/4mDFQIBuckxntnJso2MFrP), [Leela D](https://open.spotify.com/artist/3H7Ar822wLNsiDOCXhpbQu) | [Back To Love](https://open.spotify.com/album/6x0vkrPeOWUXqRyvfDIErh) | 3:27 | 2023-07-21 |  |
 | [Back To Love \- Alex Gewer Remix](https://open.spotify.com/track/2aRoFgPAzB0xPDLXrjyGAP) | [Windy City Classics](https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m), [Ale Salles](https://open.spotify.com/artist/3WUTfT3MAFhrVcvAntC3Iu), [F.Brothers](https://open.spotify.com/artist/4mDFQIBuckxntnJso2MFrP), [Leela D](https://open.spotify.com/artist/3H7Ar822wLNsiDOCXhpbQu), [Alex Gewer](https://open.spotify.com/artist/0k8ztNiYX9wO2ZLFFqOSBH) | [Back To Love](https://open.spotify.com/album/7HV0plDgfHVjXopEwYDIeM) | 3:33 | 2023-08-04 | 2023-10-07 |
 | [Bad Boy](https://open.spotify.com/track/0Cyy5IEypFjBhVOyBOLZuF) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx) | [Bad Boy](https://open.spotify.com/album/21QkoaGK1l2eEHI7y1SEc0) | 2:59 | 2023-07-21 |  |
@@ -27,7 +28,7 @@
 | [Cornetera](https://open.spotify.com/track/77llNe4mjR1Vesm3zoohku) | [Cityburn](https://open.spotify.com/artist/567HOJYjplPqcqvqGfBLUm) | [Cornetera](https://open.spotify.com/album/6kUsuX5ifNBUdFQPARiE6u) | 5:54 | 2023-07-21 |  |
 | [Cosmic Witch \(feat\. Anané\) \- Mochakk Remix](https://open.spotify.com/track/6DFsOKG0Xlf441cChjW8lV) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Anane](https://open.spotify.com/artist/3cGghqrVTd3niWn9olcGYS), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Cosmic Witch \(feat\. Anané\) \[Mochakk Remix\]](https://open.spotify.com/album/38fWBTKNq37hFnBRCruAVm) | 4:00 | 2023-07-21 |  |
 | [Cuando Vengas](https://open.spotify.com/track/1l0aHFk8ABCVRTshocDReQ) | [Blue Man](https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI) | [Cuando Vengas](https://open.spotify.com/album/1fR6tN5tfSC8r2Zmux1LGz) | 2:15 | 2023-07-21 |  |
-| [Disco Lover](https://open.spotify.com/track/1V9rQA9gg0z1mImwUvXMKS) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ), [Nytron](https://open.spotify.com/artist/7wpaPcYQBZ11SddBrEGXhu) | [Disco Lover / Give Me Love](https://open.spotify.com/album/1DomIOODkN9HgfdD7n7y0t) | 4:49 | 2023-07-21 |  |
+| [Disco Lover](https://open.spotify.com/track/1V9rQA9gg0z1mImwUvXMKS) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ), [Nytron](https://open.spotify.com/artist/7wpaPcYQBZ11SddBrEGXhu) | [Disco Lover / Give Me Love](https://open.spotify.com/album/1DomIOODkN9HgfdD7n7y0t) | 4:49 | 2023-07-21 | 2023-10-14 |
 | [Don Billy](https://open.spotify.com/track/2SNo3iAEEBQfv3lWDU5MBg) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1) | [Don Billy](https://open.spotify.com/album/1OJSSfAoCY32OAOyr0dupE) | 3:25 | 2023-07-21 |  |
 | [Don't](https://open.spotify.com/track/0kgicICgleRJFUcUlF1uk8) | [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Ali Schwartz](https://open.spotify.com/artist/3CXu2xqQnt5Ey4vyWuiuFk) | [Don't](https://open.spotify.com/album/4ABrMCSWWbXuInDdNocuY8) | 2:05 | 2023-07-21 |  |
 | [Empire feat Laura Rogalli \(Natema Remix\) \- Short Edit](https://open.spotify.com/track/5SCxwXX1FzzdGWTVsLCymt) | [Sugar Hill](https://open.spotify.com/artist/2YhGeHBfFndRzwUvpTwK4D), [Laura Rogalli](https://open.spotify.com/artist/5WWDkfZ0qBUfwUEbk0jH8X), [Natema](https://open.spotify.com/artist/4rRv0Fox6Cw8lHMorSyksg) | [Empire feat Laura Rogalli \(Natema Remix\)](https://open.spotify.com/album/22JoUxkoof54aeG7bulFZ7) | 4:03 | 2023-07-21 |  |
@@ -78,7 +79,8 @@
 | [Take It Slow](https://open.spotify.com/track/4vl3yZOTqu7y2WMB0kMvND) | [Prophecy](https://open.spotify.com/artist/20p5YCG101lJcLPtPnOqAH), [Newera](https://open.spotify.com/artist/78Bbgb8kaIDnW3GCeWlDDa) | [New Era, Vol\. 3](https://open.spotify.com/album/2ZC5O12mhaLFmg9x5u5jaQ) | 2:45 | 2023-07-21 |  |
 | [That Beat](https://open.spotify.com/track/09LtKPYSJWlyBO4ajbkAfb) | [Caique Carvalho](https://open.spotify.com/artist/1W9pJsla05m0YLC25BaPzW), [Diogo da Silva](https://open.spotify.com/artist/2MGeOJOsHLvtXyiyK2vOUX) | [That Beat](https://open.spotify.com/album/0UOM3eiX3cdqMDDw34j2mi) | 3:01 | 2023-07-21 |  |
 | [The Best](https://open.spotify.com/track/1yNo5QZMvMVsdYjDoDzZZj) | [Dakar](https://open.spotify.com/artist/1AFLSmQHDeR1no58sHKLg9) | [The Best](https://open.spotify.com/album/4o5vNDJVEch9hDKNa6BmtY) | 3:37 | 2023-07-21 |  |
-| [The Invisibles](https://open.spotify.com/track/2SylThwYhtMPGr1OIFy976) | [Morttagua](https://open.spotify.com/artist/1XVL802tNy6tucST8spKOv) | [The Invisibles](https://open.spotify.com/album/4Mo9Zpdxx3RRpDVOOlPXTe) | 8:30 | 2023-07-21 |  |
+| [The Invisibles](https://open.spotify.com/track/2SylThwYhtMPGr1OIFy976) | [Morttagua](https://open.spotify.com/artist/1XVL802tNy6tucST8spKOv) | [The Invisibles](https://open.spotify.com/album/4Mo9Zpdxx3RRpDVOOlPXTe) | 8:30 | 2023-07-21 | 2023-10-14 |
+| [The Valve](https://open.spotify.com/track/4q9aaBA5hxLr7VpOM61S0F) | [Almek](https://open.spotify.com/artist/0OWFz4qVgVrnaPpvhOAZYa) | [The Valve](https://open.spotify.com/album/4qIndp2du7jcYjd5Gd2GfK) | 2:17 | 2023-10-13 |  |
 | [There Was Heaven](https://open.spotify.com/track/0hrOwGPRbgdatrxurTEf0r) | [HNQO](https://open.spotify.com/artist/6pkEHKolF0GKjOdbbIEuUg) | [There Was Heaven](https://open.spotify.com/album/2Yq99y3KW6SWkEcnAJHAxA) | 5:37 | 2023-07-21 |  |
 | [This or That](https://open.spotify.com/track/0wmQLBZ6rrvdNAaSIaRrlx) | [Plastic Robots](https://open.spotify.com/artist/7qd3q5BKu3lh5r0vVBWSzm) | [This or That](https://open.spotify.com/album/3U6m8Fdx291RToRuqqtspl) | 4:05 | 2023-07-21 |  |
 | [Waiting](https://open.spotify.com/track/0MwpOYPMBXRbd3SgQwf6u7) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Castelani](https://open.spotify.com/artist/0aAZdI0nv5BNNmXmdYc3it), [Tallez](https://open.spotify.com/artist/2GV086sizQwsDGJHPqRXA8) | [Waiting](https://open.spotify.com/album/36KwdgtXlo4P3u6ZeEC6R8) | 2:55 | 2023-07-21 |  |

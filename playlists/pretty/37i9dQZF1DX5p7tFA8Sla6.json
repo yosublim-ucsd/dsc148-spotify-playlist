@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 52677,
+  "num_followers": 52704,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjViNTM1NjA1YzNiNDdjNzk1OWFkMmNhYzRiNTdjZTJiMmRjZmI4",
+  "snapshot_id": "MCw4MjM0MGUxY2EyZmNiZGVkNzQ1NDI1ZjJiZjFkOTNlODdkNGFmNTU4",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -243,22 +243,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Zapp",
-        "url": "https://open.spotify.com/album/1y7wSbPgFFeLxbpf5v5CIY"
-      },
-      "artists": [
-        {
-          "name": "Zapp",
-          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
-        }
-      ],
-      "duration_ms": 311120,
-      "name": "More Bounce to the Ounce",
-      "url": "https://open.spotify.com/track/1LiwqqaafXkNQuWGW3HeId"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "The Fearless Flyers",
         "url": "https://open.spotify.com/album/2GEQWuTviG5lXO66aiOYqt"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 124565,
       "name": "Ace of Aces",
       "url": "https://open.spotify.com/track/1SlkhRMOEJp97Ho0BaIOkj"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Zapp",
+        "url": "https://open.spotify.com/album/1y7wSbPgFFeLxbpf5v5CIY"
+      },
+      "artists": [
+        {
+          "name": "Zapp",
+          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
+        }
+      ],
+      "duration_ms": 311120,
+      "name": "More Bounce to the Ounce",
+      "url": "https://open.spotify.com/track/1LiwqqaafXkNQuWGW3HeId"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -679,22 +679,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Back In The Day: The Best Of Bootsy",
-        "url": "https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV"
-      },
-      "artists": [
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        }
-      ],
-      "duration_ms": 339373,
-      "name": "Bootzilla",
-      "url": "https://open.spotify.com/track/5js0eS99CZbJpbZW6A9T95"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Tuxedo III",
         "url": "https://open.spotify.com/album/50FkN4h0tTESPCzIK6E7KX"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 209875,
       "name": "On a Good One",
       "url": "https://open.spotify.com/track/71nvrESAOkHt17x0n5pibQ"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Back In The Day: The Best Of Bootsy",
+        "url": "https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "duration_ms": 339373,
+      "name": "Bootzilla",
+      "url": "https://open.spotify.com/track/5js0eS99CZbJpbZW6A9T95"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -847,22 +847,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Dirty Mind",
-        "url": "https://open.spotify.com/album/4JsSbaggaprB1AfDylXnxO"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 285506,
-      "name": "Head",
-      "url": "https://open.spotify.com/track/3dFVdhSdZ88dmGNlTHWC5P"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Tuxedo II",
         "url": "https://open.spotify.com/album/6iDvvsXxNNCiwSUQhixa68"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 166590,
       "name": "Fux with the Tux",
       "url": "https://open.spotify.com/track/5pdyEWdUmpbxs9jkAagOMh"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Dirty Mind",
+        "url": "https://open.spotify.com/album/4JsSbaggaprB1AfDylXnxO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 285506,
+      "name": "Head",
+      "url": "https://open.spotify.com/track/3dFVdhSdZ88dmGNlTHWC5P"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -935,22 +935,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Death or Devotion",
-        "url": "https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl"
-      },
-      "artists": [
-        {
-          "name": "The Motet",
-          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
-        }
-      ],
-      "duration_ms": 365200,
-      "name": "Highly Compatible",
-      "url": "https://open.spotify.com/track/6duiqRWqHNVhCNCqPzd65q"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "My Radio Sure Sounds Good To Me",
         "url": "https://open.spotify.com/album/5DldGiP8hbKtAjGzzcdYEq"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Controversy",
-        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
+        "name": "Death or Devotion",
+        "url": "https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+          "name": "The Motet",
+          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
         }
       ],
-      "duration_ms": 234800,
-      "name": "Let's Work",
-      "url": "https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99"
+      "duration_ms": 365200,
+      "name": "Highly Compatible",
+      "url": "https://open.spotify.com/track/6duiqRWqHNVhCNCqPzd65q"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1043,6 +1027,22 @@
       "duration_ms": 383746,
       "name": "I Can Understand It",
       "url": "https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Controversy",
+        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Let's Work",
+      "url": "https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Sign \"O\" the Times",
-        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 282106,
-      "name": "Housequake",
-      "url": "https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "The Deep End",
         "url": "https://open.spotify.com/album/1BRjZuuUCqYjCDAOhMnJ29"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 274580,
       "name": "All This Love That I'm Giving",
       "url": "https://open.spotify.com/track/5hj0KzWvcfEZ4M1JjIwbU3"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 282106,
+      "name": "Housequake",
+      "url": "https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Funk!",
+        "url": "https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 225424,
+      "name": "Let's Take a Ride",
+      "url": "https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Stay Good",
         "url": "https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 332661,
       "name": "Miss Mess",
       "url": "https://open.spotify.com/track/47agFZSo5O4c6ZEJfgfH8k"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Funk!",
-        "url": "https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 225424,
-      "name": "Let's Take a Ride",
-      "url": "https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj"
     },
     {
       "added_at": "2019-08-22 14:26:16",

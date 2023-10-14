@@ -1,12 +1,12 @@
 {
   "description": "Amp up your commute with these rock hits. Cover: The Smashing Pumpkins",
-  "num_followers": 474788,
+  "num_followers": 474744,
   "original_name": "Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTBjZWU0OTlkY2U5MTFmNzA2MWQ5NzVhZmM1ZmY4ODFiYmYxZGZh",
+  "snapshot_id": "MCwxOTY3NWVhNzM1OGFmNzNmNWU3YTM1YmRiNjk1OWM1MzdmOWE1MmQy",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -431,8 +431,8 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Everything Turns Around",
-        "url": "https://open.spotify.com/album/2q1uXiqqTfP24tnWjEDxhg"
+        "name": "Somewhere Between the Power Lines and Palm Trees",
+        "url": "https://open.spotify.com/album/6mo1n5cRP3rmTKMnBuDZsL"
       },
       "artists": [
         {
@@ -442,7 +442,7 @@
       ],
       "duration_ms": 180500,
       "name": "Everything Turns Around",
-      "url": "https://open.spotify.com/track/1snNY6gV41RNLYdetvv2nr"
+      "url": "https://open.spotify.com/track/69xF3xSskwfReh9L14Lv0N"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 199342,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 258466,
       "name": "Bullet With Butterfly Wings - Remastered 2012",
       "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 257053,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Wonder What's Next (Expanded Edition)",
         "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 238400,
       "name": "The Red",
       "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 257053,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
     },
     {
       "added_at": "2023-09-29 04:00:00",

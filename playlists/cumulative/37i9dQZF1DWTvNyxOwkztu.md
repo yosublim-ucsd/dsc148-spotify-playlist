@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-284 songs - 15 hr 46 min
+288 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,11 +35,12 @@
 | [Bangkok](https://open.spotify.com/track/2jldQxck8ZUKv1BLxqVt4b) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Bangkok](https://open.spotify.com/album/2aRJel1Hr4NGqK9MVfivfA) | 2:48 | 2022-06-02 | 2022-11-26 |
 | [Barracudas](https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Barracudas EP](https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ) | 4:13 | 2021-12-09 |  |
 | [Be Your Home](https://open.spotify.com/track/0BMyWJ75QwSyKuVUeOQWwg) | [minite](https://open.spotify.com/artist/7pKvjpj0hmP1nnj34y9TlY) | [Be Your Home](https://open.spotify.com/album/3hcUBBnPFGeadvkuUi5So3) | 2:31 | 2021-12-09 | 2022-07-29 |
-| [Be Your Home](https://open.spotify.com/track/4CwnUUiKf86h7nu11EFTat) | [minite](https://open.spotify.com/artist/7pKvjpj0hmP1nnj34y9TlY) | [Be Your Home](https://open.spotify.com/album/5pMZbZNmxPdVp7gL5zvj3M) | 2:31 | 2022-06-02 |  |
+| [Be Your Home](https://open.spotify.com/track/4CwnUUiKf86h7nu11EFTat) | [minite](https://open.spotify.com/artist/7pKvjpj0hmP1nnj34y9TlY) | [Be Your Home](https://open.spotify.com/album/5pMZbZNmxPdVp7gL5zvj3M) | 2:31 | 2022-06-02 | 2023-10-14 |
 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 | 2023-04-14 |  |
 | [Beautiful Days](https://open.spotify.com/track/3VkSrMcKCi4CSXoNiSqnZd) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Beautiful Days](https://open.spotify.com/album/7L61BSNJHk6KbiXS4SyYO3) | 2:41 | 2022-11-25 | 2023-02-18 |
 | [Before](https://open.spotify.com/track/4jnryVYgyBPM6yxZQLFzJT) | [Fresh Faces](https://open.spotify.com/artist/054OEgiAhYwnqHQOV2KmSc) | [Before](https://open.spotify.com/album/0ZgzhNN2wnyVnDjlRKi0vK) | 2:34 | 2022-03-25 | 2022-06-08 |
-| [Beyond Beliefs](https://open.spotify.com/track/58ney0bG2Vwecj8QzNGRkV) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 5:13 | 2021-12-09 |  |
+| [Beyond Beliefs](https://open.spotify.com/track/58ney0bG2Vwecj8QzNGRkV) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 5:13 | 2021-12-09 | 2023-10-14 |
+| [Big Jet Plane](https://open.spotify.com/track/1AcpKqom3BJtk24rd6CP3A) | [HAYM](https://open.spotify.com/artist/6QQD5qFg4hsxqks5NGZEel), [Duke Chaine](https://open.spotify.com/artist/2tKcCJam4q1AjQkF3sF6Qt), [blakke](https://open.spotify.com/artist/1ZsbGfIYCahTeY9RyejokW) | [Big Jet Plane](https://open.spotify.com/album/6ejYy9egIKbzME90xHySOL) | 2:07 | 2023-10-13 |  |
 | [Blend](https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blend](https://open.spotify.com/album/0kP4q3IOUAmdDLp6hc7oBQ) | 2:12 | 2023-09-13 | 2023-10-02 |
 | [Bloom](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Bloom](https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB) | 2:59 | 2022-08-05 |  |
 | [Blue Room](https://open.spotify.com/track/0kALrkZ7O7dZfLuwjD0wDT) | [Noonlight](https://open.spotify.com/artist/0Goi0yeqJIUVfvKkVhksHe) | [Blue Room](https://open.spotify.com/album/64wlWLiCzubQBn4zxkCwxc) | 2:07 | 2022-06-02 | 2023-09-14 |
@@ -82,6 +83,7 @@
 | [Doubts](https://open.spotify.com/track/10Iafk2IS4TyUsfP4C4kPE) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Down Here with You](https://open.spotify.com/album/6WqF77ilKp8ui2RlGIYmAp) | 3:15 | 2021-12-09 | 2022-02-27 |
 | [Dreams](https://open.spotify.com/track/2HcHfWexQZ2UcjIvpZbxVI) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Dreams](https://open.spotify.com/album/61e2gK909Y2JMapY2jPw1b) | 3:27 | 2023-08-25 |  |
 | [dustland](https://open.spotify.com/track/27H4C3bLGGAIm5vSXDosVy) | [Alex R](https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2) | [dustland](https://open.spotify.com/album/2fFsnUpoimIqQSeaBPGTC2) | 2:41 | 2022-02-26 |  |
+| [Echoes](https://open.spotify.com/track/4l2CpvgKAxajlJkH1acJb4) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Echoes](https://open.spotify.com/album/5a9HnDOcCnbV0MGcap2qIh) | 4:16 | 2023-10-13 |  |
 | [Evermore](https://open.spotify.com/track/1MC3Qkc2oC0ISlyrA1YefY) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Evermore](https://open.spotify.com/album/2gvEsAot01a7rhHTYJVFf5) | 5:25 | 2023-05-26 |  |
 | [FADED](https://open.spotify.com/track/5gWCNZX5T9aNKOagwUMNQQ) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [OASIS \(Prelude\)](https://open.spotify.com/album/41YLj80mj5GEaNkZnNLpYx) | 3:36 | 2022-03-25 | 2022-04-17 |
 | [Fall In Love](https://open.spotify.com/track/2nJ2lKCSKBUjqrEUlTyi9c) | [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA), [Harry Cho](https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q) | [Fall In Love](https://open.spotify.com/album/5BVxHRFGDTzrpeer3z5BHP) | 2:55 | 2022-03-11 | 2023-03-06 |
@@ -92,7 +94,7 @@
 | [Flow](https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd) | [Pool Blue](https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL) | [Flow](https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67) | 1:56 | 2021-12-09 |  |
 | [Flowers](https://open.spotify.com/track/67P8NxXLKkwdBx6LjzndgR) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Flowers](https://open.spotify.com/album/2I2VoGHrwQ8k8RpUzJSbyd) | 3:02 | 2023-09-13 |  |
 | [flux de vibrations](https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [flux de vibrations](https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9) | 2:56 | 2022-06-02 |  |
-| [Follow Me](https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Follow Me](https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq) | 3:03 | 2021-12-09 |  |
+| [Follow Me](https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Follow Me](https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq) | 3:03 | 2021-12-09 | 2023-10-14 |
 | [Follow Up](https://open.spotify.com/track/7sxfrgHZkrpl74e7UlJGNH) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Follow Up](https://open.spotify.com/album/7cjTvqHIXbcN0qmNmSfZmO) | 2:48 | 2021-12-09 | 2022-04-20 |
 | [Forever](https://open.spotify.com/track/0d3aVK5p4ULp4r2Nmd7f3C) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Forever](https://open.spotify.com/album/608b83QDjBMRWUyeKuPqHR) | 3:37 | 2023-02-17 |  |
 | [Forrest Glade](https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Forrest Glade](https://open.spotify.com/album/7hRyQtQhYkVC0QQV3D5F2r) | 7:17 | 2021-12-09 | 2023-09-06 |
@@ -177,6 +179,7 @@
 | [Night Drives](https://open.spotify.com/track/6QXoFb7p7ze2jmZF8BNlCT) | [HGenius](https://open.spotify.com/artist/0c0IlXec4ZRHTZsYh6qoRt) | [Night Drives](https://open.spotify.com/album/2hjmfQKBwgEs1E27b2JJOA) | 3:48 | 2023-06-09 | 2023-10-11 |
 | [Night Wish](https://open.spotify.com/track/605A3zlaQrLYyY6DQkMmKB) | [Moon Groove](https://open.spotify.com/artist/5jfSxdztr8x1KzWQpHcWI8) | [Night Wish](https://open.spotify.com/album/1XEzLyAWtXzE5oonBI1IBo) | 4:11 | 2023-04-14 |  |
 | [NiteGlow](https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ) | [Zev Lyso](https://open.spotify.com/artist/3GzxMwoPimZI714GHHrCsy) | [NiteGlow](https://open.spotify.com/album/4F4aUag4mbxyT1TSAT5hj8) | 2:12 | 2021-12-09 | 2023-01-08 |
+| [No Stress in Cres](https://open.spotify.com/track/0gRVYjk3IFVQBUtfdoLc5W) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [No Stress in Cres](https://open.spotify.com/album/4R3hOElsUNXGykwoXwdsef) | 4:51 | 2023-10-13 |  |
 | [November Nights](https://open.spotify.com/track/57724RmJKfjECtItkTmVZI) | [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [November Nights](https://open.spotify.com/album/75QFY6WUkR1VjgV7x4ltS7) | 2:42 | 2022-02-26 | 2022-04-21 |
 | [Oasis](https://open.spotify.com/track/0Oa7qEBUNog1i58SW9BKf2) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Oasis](https://open.spotify.com/album/7FIqkD76gTpehE4dVqmyu3) | 2:59 | 2023-08-25 |  |
 | [Oasis](https://open.spotify.com/track/1ghrPNkNMayJr3MTLS3SJR) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Oasis](https://open.spotify.com/album/2kH9815MY3JaK71IEFENli) | 2:59 | 2021-12-09 | 2023-07-21 |
@@ -218,6 +221,7 @@
 | [Sea Roses](https://open.spotify.com/track/4EruKoCJQHvgnsRMS8tf5V) | [VieVie](https://open.spotify.com/artist/0MVywHu6BOHRljtmeeUE9l) | [Sea Roses](https://open.spotify.com/album/2HcnVH4G2SeqYQpyJiBSgs) | 2:32 | 2021-12-09 | 2022-09-13 |
 | [Season](https://open.spotify.com/track/6plrjFbPuHZIUXZdh1bavs) | [Monojoke](https://open.spotify.com/artist/6WtncXp78N12hQFMe0e2fm) | [Cadillac Red](https://open.spotify.com/album/3MqLUGCgQADNvWCnsamcVS) | 7:07 | 2022-03-25 | 2022-07-29 |
 | [Seeds](https://open.spotify.com/track/2EkhQc261n3oQsLFIgZdws) | [Dj Hindi Bacha](https://open.spotify.com/artist/4DKQvnJHtQWd7G7DgyjKKV) | [Seeds](https://open.spotify.com/album/5aeblHVH3Yo3Xh8xsv1gjD) | 3:13 | 2021-12-09 | 2022-12-24 |
+| [Serene](https://open.spotify.com/track/4cBshIyiiAzbl61Ij0FjHD) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Serene](https://open.spotify.com/album/3yRGknNxEatUwMpSCSwG2C) | 2:54 | 2023-10-13 |  |
 | [Shroom](https://open.spotify.com/track/6mxnpHQMS44u4eQ9IQrus5) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Shroom](https://open.spotify.com/album/1mWo0lXQTVGZ4H3Y5xmHZB) | 3:13 | 2022-03-25 | 2023-06-01 |
 | [sinks deep](https://open.spotify.com/track/1JOcfQEI0fJXoDhKKO8XMl) | [Fuze T](https://open.spotify.com/artist/7Eiei3IWCbX0zxoWoxR1KK) | [sinks deep](https://open.spotify.com/album/7lLxb8zhBE9xiPz5n6CSZQ) | 2:56 | 2022-04-22 | 2022-07-24 |
 | [Sinus](https://open.spotify.com/track/0H2KxoSVnnEJrbOruF5lgk) | [Leo Perna](https://open.spotify.com/artist/0nZVFbVPVpCz6leeVjpWf7) | [Trigonometry](https://open.spotify.com/album/2iMHXhlavQVsCWERxPNvCN) | 1:49 | 2021-12-09 | 2022-05-23 |
@@ -263,7 +267,7 @@
 | [The Third in Line](https://open.spotify.com/track/0aCzk0rLcSarPylQmx6txM) | [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4) | [Third in Line](https://open.spotify.com/album/242CvoMDlEco9NHuSlcFZR) | 6:16 | 2021-12-09 | 2022-04-21 |
 | [There For You](https://open.spotify.com/track/2m8dDOhC8fIaCFQ53c1l5z) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [There For You](https://open.spotify.com/album/62H7U1XbShQDiRaGtGWlBo) | 2:45 | 2022-02-26 | 2022-05-21 |
 | [Title Theme](https://open.spotify.com/track/4g2rGutKnnY43ubOC121U7) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Title Theme](https://open.spotify.com/album/53MsfZ6E3jwugaw5JXC8Fi) | 2:36 | 2022-02-26 | 2023-01-14 |
-| [Toybox](https://open.spotify.com/track/5eZp105lnwsIkLpdGfSLn7) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Toybox](https://open.spotify.com/album/5oGhsKmDJgrgdkLI2SQV5s) | 3:41 | 2023-09-13 |  |
+| [Toybox](https://open.spotify.com/track/5eZp105lnwsIkLpdGfSLn7) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Toybox](https://open.spotify.com/album/5oGhsKmDJgrgdkLI2SQV5s) | 3:41 | 2023-09-13 | 2023-10-14 |
 | [Under Water](https://open.spotify.com/track/0Oq4dCN4vvEVGX6T0XQ7Ge) | [Lightcore](https://open.spotify.com/artist/4AlA8vTiQdHHCKVBMJKHBg) | [Under Water](https://open.spotify.com/album/2lNccIpLWGysgBFlZWNQdL) | 2:42 | 2021-12-09 | 2022-04-20 |
 | [Unfading](https://open.spotify.com/track/0ZnpSil0JjchG4yAuPGqkE) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Unfading](https://open.spotify.com/album/37wVWvWgPPCoZUlgpJ9Z06) | 2:42 | 2021-12-09 | 2023-02-17 |
 | [Unhappy Alien](https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ) | [Not Tudor](https://open.spotify.com/artist/3dOxIuKHSabrAVdJosO7gJ) | [Unhappy Alien](https://open.spotify.com/album/4JpLIm5YrcMfhbNmrvVdjx) | 3:18 | 2021-12-09 | 2022-10-20 |

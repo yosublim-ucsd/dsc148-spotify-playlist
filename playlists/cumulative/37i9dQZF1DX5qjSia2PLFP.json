@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves.  Cover:   <a href=\"spotify:artist:07EcmJpfAday8xGkslfanE\">Kevin Abstract</a>",
+  "description": "New music breaking waves.  Cover:   <a href=\"spotify:artist:4UodukR17NIQfNu5uaqm9B\">Jamila Woods</a>",
   "name": "RIPPLE EFFECT",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 157028,
       "name": "11:11",
       "url": "https://open.spotify.com/track/5paPjaVnrSIjG3jKnZHmUa"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 217582,
       "name": "Blood In The Water",
       "url": "https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T"
@@ -938,6 +938,28 @@
       "duration_ms": 87576,
       "name": "bloom!",
       "url": "https://open.spotify.com/track/67hbTDETlOrG5rGjhvnXux"
+    },
+    {
+      "album": {
+        "name": "Dark Songs To Drive To",
+        "url": "https://open.spotify.com/album/7fc2sH5vRsDNXaIlWl9Cyn"
+      },
+      "artists": [
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153614,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/66GdFBE7JJ0ASvCLyKn7HR"
     },
     {
       "album": {
@@ -970,7 +992,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 176692,
       "name": "Bone",
       "url": "https://open.spotify.com/track/1frBbihDVWHwovuKKoDDoV"
@@ -1021,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "MC_2.1",
+        "url": "https://open.spotify.com/album/71ubLDFkE6cbBQLyYpr3AV"
+      },
+      "artists": [
+        {
+          "name": "James Mantis",
+          "url": "https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172570,
+      "name": "bra!ncandy",
+      "url": "https://open.spotify.com/track/53CzW4YMDK1LOQeGflQzIt"
+    },
+    {
+      "album": {
         "name": "Brand New Blues",
         "url": "https://open.spotify.com/album/5fSbf5rRr5VO5zyWnoBPk9"
       },
@@ -1032,7 +1072,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 114036,
       "name": "Brand New Blues",
       "url": "https://open.spotify.com/track/6dGN5ani0pYe40kfS3wNcx"
@@ -1409,6 +1449,28 @@
     },
     {
       "album": {
+        "name": "Children (What Time It Is)",
+        "url": "https://open.spotify.com/album/5OOn9cixybs44lmmeFx4GI"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        },
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221744,
+      "name": "Children (What Time It Is)",
+      "url": "https://open.spotify.com/track/62mKCfQX5J2nnEq8lSwuOX"
+    },
+    {
+      "album": {
         "name": "METTENARRATIVE",
         "url": "https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM"
       },
@@ -1438,7 +1500,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 126000,
       "name": "Clickbait (FlauMixx)",
       "url": "https://open.spotify.com/track/3jTEDbYsZPI5ZXuuI4sai8"
@@ -2638,7 +2700,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 154847,
       "name": "Famous (Lost to LA)",
       "url": "https://open.spotify.com/track/1wE6Shwlye4gEdUaq6Cg3H"
@@ -2656,7 +2718,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 179200,
       "name": "Fast Route",
       "url": "https://open.spotify.com/track/5jO9sTjyQKyayUmYnobf1d"
@@ -3191,6 +3253,24 @@
     },
     {
       "album": {
+        "name": "Nearly Straight",
+        "url": "https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156053,
+      "name": "Good Guys",
+      "url": "https://open.spotify.com/track/33qepYPIBzWlDVJtpV2oAK"
+    },
+    {
+      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/4XBC6xmWwswsKiITRNeIL2"
       },
@@ -3551,6 +3631,24 @@
     },
     {
       "album": {
+        "name": "Hillside",
+        "url": "https://open.spotify.com/album/2wjrIUMwThHxKlj4gu4zcl"
+      },
+      "artists": [
+        {
+          "name": "Pvrx",
+          "url": "https://open.spotify.com/artist/3tMGRYyYmK8LChGAnnmikZ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203619,
+      "name": "Hillside",
+      "url": "https://open.spotify.com/track/3igHPQmE6HLNLDIpTNaJ1Y"
+    },
+    {
+      "album": {
         "name": "History",
         "url": "https://open.spotify.com/album/3pqOqlgUJ39OPL3F2EqPcN"
       },
@@ -3620,6 +3718,24 @@
       "duration_ms": 195756,
       "name": "Hoochie Mama",
       "url": "https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ"
+    },
+    {
+      "album": {
+        "name": "Hoodwinked",
+        "url": "https://open.spotify.com/album/26DiCWmZZNdA5ro488WtGf"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174693,
+      "name": "Hoodwinked",
+      "url": "https://open.spotify.com/track/2IrTCLhpb9q7NSd4HdXpdq"
     },
     {
       "album": {
@@ -4074,7 +4190,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 200740,
       "name": "Just Earth with New Skin",
       "url": "https://open.spotify.com/track/13QRcBHGVhUERv5rTqFqk3"
@@ -4612,7 +4728,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 156607,
       "name": "Love & War",
       "url": "https://open.spotify.com/track/1MBzLdsSsotZiVPZ54crZf"
@@ -4688,6 +4804,24 @@
       "duration_ms": 157451,
       "name": "LUCKY",
       "url": "https://open.spotify.com/track/3OmQETOVbKRGtBFqGMpOQY"
+    },
+    {
+      "album": {
+        "name": "LUV N DEVOTION",
+        "url": "https://open.spotify.com/album/5R8TDNyNfrrh9PprKnl8Ig"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "LUV N DEVOTION",
+      "url": "https://open.spotify.com/track/2C2KmQyeGfMVULfrdMVs8i"
     },
     {
       "album": {
@@ -5158,6 +5292,24 @@
       "duration_ms": 173290,
       "name": "My Matter",
       "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
+    },
+    {
+      "album": {
+        "name": "my sweet caroline",
+        "url": "https://open.spotify.com/album/1VZwYmyVauqNYZYTmADI84"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185105,
+      "name": "my sweet caroline",
+      "url": "https://open.spotify.com/track/41FPk5C1XcGEYIpTHVoCO5"
     },
     {
       "album": {
@@ -5650,7 +5802,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 224451,
       "name": "Options (feat. Tamera & Bellah)",
       "url": "https://open.spotify.com/track/0DZsGL1M6txb1dobjIqca5"
@@ -6376,6 +6528,24 @@
       "duration_ms": 148717,
       "name": "Red Light",
       "url": "https://open.spotify.com/track/7gV7gStLkm7ybb2WZhhksp"
+    },
+    {
+      "album": {
+        "name": "redemption",
+        "url": "https://open.spotify.com/album/60rj4BVsWTGVGtXh9UveG6"
+      },
+      "artists": [
+        {
+          "name": "BADMIND",
+          "url": "https://open.spotify.com/artist/4qTKTDRcMPtnohoWWR1oX9"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "redemption",
+      "url": "https://open.spotify.com/track/0ntXnIQz8m2ED1vBqw85tr"
     },
     {
       "album": {
@@ -7682,6 +7852,28 @@
       "duration_ms": 208880,
       "name": "Till The World's Awake",
       "url": "https://open.spotify.com/track/4hedQVjhX9bdo7DAUDWtex"
+    },
+    {
+      "album": {
+        "name": "Tiny Garden",
+        "url": "https://open.spotify.com/album/6auEC4yc0x3xoYv580Dbke"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        },
+        {
+          "name": "duendita",
+          "url": "https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251991,
+      "name": "Tiny Garden",
+      "url": "https://open.spotify.com/track/40ke1BOmv6yyUrfbchPr3P"
     },
     {
       "album": {

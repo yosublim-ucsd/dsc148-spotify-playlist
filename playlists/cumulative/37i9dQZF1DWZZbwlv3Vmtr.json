@@ -4086,7 +4086,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 132857,
       "name": "Friday Dazed",
       "url": "https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9"
@@ -15000,6 +15000,28 @@
       "duration_ms": 146382,
       "name": "Wisps Of Mist",
       "url": "https://open.spotify.com/track/2kfrKI1L3INqbbTY7zDWZ5"
+    },
+    {
+      "album": {
+        "name": "Wistful Silhouettes",
+        "url": "https://open.spotify.com/album/7bnbpre7jCyEwHu1hT9ngt"
+      },
+      "artists": [
+        {
+          "name": "Chill Def",
+          "url": "https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41"
+        },
+        {
+          "name": "alt.bin.beats",
+          "url": "https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136941,
+      "name": "Wistful Silhouettes",
+      "url": "https://open.spotify.com/track/5Ltgq6XMTilOXhNiSQZrVT"
     },
     {
       "album": {

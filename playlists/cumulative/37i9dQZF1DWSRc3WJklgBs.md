@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,205 songs - 2 day 22 hr 31 min
+1,206 songs - 2 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1010,6 +1010,7 @@
 | [Tell Me](https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Tell Me](https://open.spotify.com/album/7qnMJEfvGH0G9X6Y3RgJrP) | 2:07 | 2022-02-11 |  |
 | [Tell Me \- Radio Edit](https://open.spotify.com/track/7EPgTIrqowRd4zWvjCZMg6) | [2Elements](https://open.spotify.com/artist/7DEvfeSTfHlHpo2Op6jRon) | [Tell Me](https://open.spotify.com/album/4sXFvEHdAs3YAnqqZ0xOGB) | 2:39 | 2019-08-09\* | 2019-08-27 |
 | [tell me what you’re thinking](https://open.spotify.com/track/5ym3bCHNv6OoDuQ96lNu3y) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [tell me what you’re thinking](https://open.spotify.com/album/6vzqm9Z7sOO5BTjR2GKJXy) | 2:53 | 2021-03-27 | 2022-05-14 |
+| [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:02 | 2023-10-13 |  |
 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 | 2022-06-10 |  |
 | [The Feelings](https://open.spotify.com/track/4hGZ3RITe8oHRKeancaA1h) | [Boye & Sigvardt](https://open.spotify.com/artist/5waIYqZSsMaTQqdL4QnqyR), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [The Feelings](https://open.spotify.com/album/3lqfC6QMNvaCBFm58xkkKy) | 3:04 | 2020-10-30 | 2021-09-25 |
 | [The Greatest Speech \(feat\. The Great Dictator\)](https://open.spotify.com/track/2VJc4bhwtkvX1tZ6so5MtR) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW), [The Great Dictators](https://open.spotify.com/artist/5lLz1TtyX6e2LlUdbbAsJH) | [The Greatest Speech \(feat\. The Great Dictator\)](https://open.spotify.com/album/61uopuAi6ygHua7CR1iWlA) | 3:12 | 2019-08-09\* | 2019-09-14 |
@@ -1169,7 +1170,7 @@
 | [With Me](https://open.spotify.com/track/3BAqz3rhnEEIvW8KWBr3E7) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [With Me](https://open.spotify.com/album/08JGDZxUzYyCPaZYziCP88) | 3:03 | 2020-09-07 | 2021-09-25 |
 | [With You](https://open.spotify.com/track/3gCF6JWBIyUxkKSA5GjCPR) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Panorama: Form](https://open.spotify.com/album/5JHsZYG9ai1cW6YEZ0Rh2v) | 4:31 | 2019-08-09\* | 2019-11-30 |
 | [With You](https://open.spotify.com/track/4EQsvb4EX5TgiXiwMxADJL) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [LZRZ](https://open.spotify.com/artist/02Y4AdQs7ofsz3OBWbE5Yl) | [With You](https://open.spotify.com/album/0WpclKxFD2ZPtqf58NnbEl) | 2:57 | 2020-02-24 | 2021-09-25 |
-| [With You \(with Morgin Madison\)](https://open.spotify.com/track/5lW36ZLCGu81VzbIsMD2Rz) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [With You \(with Morgin Madison\)](https://open.spotify.com/album/3ao0vhcYn0YR92cGNC9kW5) | 2:58 | 2023-03-07 |  |
+| [With You \(with Morgin Madison\)](https://open.spotify.com/track/5lW36ZLCGu81VzbIsMD2Rz) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [With You \(with Morgin Madison\)](https://open.spotify.com/album/3ao0vhcYn0YR92cGNC9kW5) | 2:58 | 2023-03-07 | 2023-10-14 |
 | [With You, Friends \(Long Drive\)](https://open.spotify.com/track/1aF6jpITT6RzPxrYsZJeIm) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 6:29 | 2019-08-09\* | 2019-08-27 |
 | [Without You](https://open.spotify.com/track/1yd3iMLXISa8Dny1E6l6Fq) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Without You](https://open.spotify.com/album/49x1bVSPp9P1UEdheyS8J8) | 3:16 | 2019-08-09\* | 2019-09-14 |
 | [Without You \(feat\. Linney\)](https://open.spotify.com/track/1n1co3IQaEBLbouzf3BesL) | [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Without You \(feat\. Linney\)](https://open.spotify.com/album/0DIxlkwPTV3fJie4uvRwsk) | 3:09 | 2021-11-27 | 2022-05-14 |

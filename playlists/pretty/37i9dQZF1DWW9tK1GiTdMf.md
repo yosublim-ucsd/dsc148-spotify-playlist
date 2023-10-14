@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ Ëgo in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,499 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,502 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 42 | [VENERE](https://open.spotify.com/track/056jYB4VJ8j4YbwRniD4Hr) | [pablo murphy](https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB) | [VENERE](https://open.spotify.com/album/2oDt8ji4RSwpjImc66YvvD) | 2:17 |
 | 43 | [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 |
 | 44 | [Andare avanti \(pt2\)](https://open.spotify.com/track/6SrTowWjoVZh4hDtMLgl65) | [xDiemondx](https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN), [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [GiorniTristi](https://open.spotify.com/artist/0KjmZKo6Rhw4m4MaFlVVUa) | [Andare avanti \(pt2\)](https://open.spotify.com/album/3RHG5zvLqi39q0sj83ijUO) | 2:56 |
-| 45 | [Giovani Pop Punk](https://open.spotify.com/track/1OOfq8XCmp4qv1WzIEZ95M) | [Misa](https://open.spotify.com/artist/5jHjoTewpLc3afcQ8hdCzF), [Tiasnow](https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe) | [Giovani Pop Punk](https://open.spotify.com/album/4GSl3bThAEPykU4pJVQfhD) | 2:29 |
+| 45 | [Giovani Pop Punk](https://open.spotify.com/track/2xHp4mzHewMwsAf3uYmj9E) | [Misa](https://open.spotify.com/artist/5jHjoTewpLc3afcQ8hdCzF), [Tiasnow](https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe) | [Giovani Pop Punk](https://open.spotify.com/album/230oPHuDKJz2xWqOjEUkw1) | 2:29 |
 | 46 | [EMOGIRL](https://open.spotify.com/track/35v2ybDpFJ564K9xzXwyRn) | [Yans](https://open.spotify.com/artist/0JMlv0THvYWc44fizfiVCX), [Fulgur](https://open.spotify.com/artist/3AgppFtvLifix2HTKhGDiC), [Kunai](https://open.spotify.com/artist/1meu0gJt7jU6ltCO5eYz1J) | [EMOGIRL](https://open.spotify.com/album/7jRApMUwk5O2JN6wOh9oov) | 2:30 |
 | 47 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 |
 | 48 | [PIAZZA LIBERTÀ](https://open.spotify.com/track/7obLS8mXOX0nGuhId299K7) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY), [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR), [Agon](https://open.spotify.com/artist/1LHVbos3OPyt6XN52RvTJK) | [PIAZZA LIBERTÀ](https://open.spotify.com/album/5xUQYRjzvgZHRTjdhtjJX1) | 2:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 79 | [Uomini e Topi \- IMAGE](https://open.spotify.com/track/784jdx0uTlGKZ76rpiltM3) | [Vipra](https://open.spotify.com/artist/6RubjTZ123VH3iDaGbi7hM) | [Musica dal Morto](https://open.spotify.com/album/0zgmJpBrqWzO9sjtDy45QA) | 2:35 |
 | 80 | [Dead Or Alive](https://open.spotify.com/track/2t4qXJ8xOup0zA34v07TX4) | [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE) | [X SALVARSI](https://open.spotify.com/album/4ToEwnAtv09o3oNfd48ziU) | 3:18 |
 
-Snapshot ID: `MCwwZjNmZTYyMWFkNzgzMTEwZGUxYzI3OGM2YTFkOWEyMmE0ZGZlMTBj`
+Snapshot ID: `MCw5NDc2M2JhOGI2NzI4NzJkMDEyYzUwNDQ0NDE2MDlmZDk1MTVlMTkz`

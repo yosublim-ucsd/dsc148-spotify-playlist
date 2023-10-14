@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-231 songs - 12 hr 25 min
+232 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Hurricane Season](https://open.spotify.com/track/4SSCjm47y2uA41sEy60Niv) | [JCZR](https://open.spotify.com/artist/5H5QptnwdQ3RNGpzftlR7D) | [Hurricane Season](https://open.spotify.com/album/6TUBj8dnlXvtmL0i5gWG7j) | 2:47 | 2022-05-20 | 2023-08-01 |
 | [I Fell in Love](https://open.spotify.com/track/39hJ5R7L6AvL4DyApOPRmH) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Xenia Rubinos](https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb) | [I Fell In Love](https://open.spotify.com/album/4rT4HtEqudtBqg1tqa25Vw) | 4:20 | 2022-07-11 |  |
 | [I Fell In Love](https://open.spotify.com/track/51y9N9jm8ykm0UrpaJ6J3s) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Xenia Rubinos](https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb) | [I Fell In Love](https://open.spotify.com/album/7tNjHSLioVJsgily2nkn7z) | 4:20 | 2022-05-20 | 2022-07-29 |
-| [if you let me](https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [if you let me](https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK) | 2:40 | 2022-05-20 |  |
+| [if you let me](https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [if you let me](https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK) | 2:40 | 2022-05-20 | 2023-10-14 |
 | [Indirecta](https://open.spotify.com/track/3LHFIfINcMHX7LmiaI9mn3) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [Indirecta](https://open.spotify.com/album/7bDYJcet4ezQInDdEUTe4o) | 3:20 | 2022-10-27 |  |
 | [Intenciones](https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Intenciones](https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3) | 2:43 | 2023-01-06 |  |
 | [just a boy](https://open.spotify.com/track/2fAeROYFSbWdvML6rbnCar) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/6C2WtjbTyOmdMq7E8uTXcg) | 3:05 | 2022-05-20 | 2022-10-13 |
@@ -155,6 +155,7 @@
 | [No Te Pude Soltar](https://open.spotify.com/track/6b8FXDatwJCnc5jZ4RfMz8) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [No Te Pude Soltar](https://open.spotify.com/album/4YJJwMucL3nteBymNw1cc4) | 2:44 | 2022-05-20 | 2023-06-03 |
 | [No Te Voy a Ver](https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [No Te Voy a Ver](https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL) | 3:37 | 2022-05-20 |  |
 | [NO voy a llorar :'\)](https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [NO voy a llorar :'\)](https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT) | 2:58 | 2023-03-10 | 2023-04-09 |
+| [NOS SOLTAMOS chiliado](https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6), [Pablo Sotelo](https://open.spotify.com/artist/7JTIskra5uVup9ZyODtm0u) | [NOS SOLTAMOS chiliado](https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU) | 3:42 | 2023-10-12 |  |
 | [Nunca Estoy](https://open.spotify.com/track/6f4LYJwICqxoAILj82kwB0) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Nunca Estoy](https://open.spotify.com/album/4OYHwdjX2Ocuj792RJETJ9) | 2:42 | 2022-05-20 | 2022-10-28 |
 | [Nydia](https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 4:13 | 2022-05-20 | 2022-10-28 |
 | [ojitos caramelo](https://open.spotify.com/track/3TDIrNpqBTHx4ePEBh6zyR) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/3tBjBSHpI7up9rQWNWZ3PL) | 2:27 | 2022-05-20 | 2022-07-29 |

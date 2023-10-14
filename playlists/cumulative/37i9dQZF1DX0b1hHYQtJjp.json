@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Recent hits and new songs from your fave artists. Cover: *NSYNC",
+  "description": "Recent hits and new songs from your fave artists. Cover: Paul Russell",
   "name": "Just Good Music",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 200305,
       "name": "21 Days",
       "url": "https://open.spotify.com/track/5FXjoF2qI7scNEL56dzcAN"
@@ -260,7 +260,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
@@ -3222,6 +3222,24 @@
     {
       "album": {
         "name": "Call My Name",
+        "url": "https://open.spotify.com/album/1tdzxoaEx4CBftJrZ06X8B"
+      },
+      "artists": [
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217666,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/6PvlwHIjZKFjEvCyZbb86i"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
         "url": "https://open.spotify.com/album/7frSUNEyPlMiLV1wK96NZU"
       },
       "artists": [
@@ -3370,7 +3388,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 200133,
       "name": "Can't Break Up Now",
       "url": "https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz"
@@ -3870,7 +3888,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 183410,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/7jvtmQ3onpWeUm7dyFSSSc"
@@ -8153,6 +8171,28 @@
     },
     {
       "album": {
+        "name": "Hands On Me (feat. Meghan Trainor)",
+        "url": "https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183022,
+      "name": "Hands On Me (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD"
+    },
+    {
+      "album": {
         "name": "Hands Up To The Sky",
         "url": "https://open.spotify.com/album/6zIEU67gUCnGZ9yYQW9tL6"
       },
@@ -9046,7 +9086,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 237866,
       "name": "Hold On To Now",
       "url": "https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR"
@@ -10359,6 +10399,32 @@
     },
     {
       "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166632,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6"
+    },
+    {
+      "album": {
         "name": "I'll Follow",
         "url": "https://open.spotify.com/album/2eVMMMyptV72ZWM75hER4w"
       },
@@ -10446,7 +10512,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 222306,
       "name": "I'm Here",
       "url": "https://open.spotify.com/track/4ttrwU0rvD0f4WRQsHDPrh"
@@ -12756,7 +12822,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 153738,
       "name": "Link Up",
       "url": "https://open.spotify.com/track/5vsCD4vU93v7Y3HDVdGl4b"
@@ -16171,6 +16237,24 @@
     },
     {
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
+    },
+    {
+      "album": {
         "name": "One On The Way",
         "url": "https://open.spotify.com/album/38k1BuDRvqPmbD4Yq2MHXJ"
       },
@@ -17090,7 +17174,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 206008,
       "name": "Punchline",
       "url": "https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf"
@@ -17866,6 +17950,24 @@
       "duration_ms": 220520,
       "name": "Sad Corny Fuck",
       "url": "https://open.spotify.com/track/5YlHgqWo3Kt2mF88ubmR62"
+    },
+    {
+      "album": {
+        "name": "Mirror (Deluxe)",
+        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175550,
+      "name": "Sad Forever",
+      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
     },
     {
       "album": {
@@ -22304,6 +22406,24 @@
       "duration_ms": 196231,
       "name": "Tulips & Roses",
       "url": "https://open.spotify.com/track/4W6gvqpSxaTipukE5521Yl"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213912,
+      "name": "Turbulent Skies",
+      "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
     },
     {
       "album": {

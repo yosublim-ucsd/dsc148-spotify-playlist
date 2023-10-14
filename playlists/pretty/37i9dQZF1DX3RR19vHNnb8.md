@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,385 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,409 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 19 | [E.N.K.R](https://open.spotify.com/track/2ZHm36ojzqkGPOfpkNpcJ4) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO) | [E.N.K.R](https://open.spotify.com/album/6fUW1ADYZQIxY81HfkxKEf) | 0:55 |
 | 20 | [018](https://open.spotify.com/track/7vaW4NJiToSP1iretmDZq4) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [018](https://open.spotify.com/album/7cc1c9rmxzod99qDf3P5P1) | 3:15 |
 | 21 | [NDI IKE](https://open.spotify.com/track/0YGSh7YrEtSQ6z4icTszc1) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [NDI IKE](https://open.spotify.com/album/7c5jgET8u1LYjNp7JEFeO4) | 2:35 |
-| 22 | [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 |
-| 23 | [This Is What I Mean](https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [STORRY](https://open.spotify.com/artist/2B3DdwYxUSSrYdda9V2UL0) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 5:25 |
+| 22 | [This Is What I Mean](https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [STORRY](https://open.spotify.com/artist/2B3DdwYxUSSrYdda9V2UL0) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 5:25 |
+| 23 | [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 |
 | 24 | [Dog Eat Dog](https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Dog Eat Dog](https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH) | 2:29 |
 | 25 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 |
 | 26 | [It's Crazy \- Single Version](https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [It's Crazy](https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ) | 3:20 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 48 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 |
 | 49 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:01 |
 
-Snapshot ID: `MCw4OTdjNzFmODNiYmY4Yzc0YWZiZmZmNjlhNzRhNDcwYmMxZjIxNTVm`
+Snapshot ID: `MCw1NzIxNzg1ZjgwYTM2MjE2N2M5Yzc2N2I3ZmViMmJkMjdjZmYzZjEy`

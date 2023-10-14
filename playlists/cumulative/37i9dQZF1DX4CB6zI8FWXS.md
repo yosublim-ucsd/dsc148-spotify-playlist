@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Jorja Smith
 
-245 songs - 13 hr 14 min
+246 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Main One \(feat\. Tyga\)](https://open.spotify.com/track/2nB44lzuvxp40hNMkT6BZj) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Main One \(feat\. Tyga\)](https://open.spotify.com/album/3poW1IiF8t9MNcrk2CgJWF) | 3:19 | 2023-07-20 |  |
 | [Make It Up To You](https://open.spotify.com/track/6zZU70goOWBGPWTThgP4IW) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Make It Up To You](https://open.spotify.com/album/3enz29y0ybkTEdS322Jejt) | 3:22 | 2023-04-06 | 2023-06-23 |
 | [Make Up Your Mind](https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Make Up Your Mind](https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80) | 2:52 | 2023-08-03 |  |
+| [Messi](https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [7 SEAS](https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc) | 3:06 | 2023-10-12 |  |
 | [Midlife Glow \(feat\. Ozay Moore\)](https://open.spotify.com/track/3dvaCvUSosEjWxUOuUiOiw) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Ozay Moore](https://open.spotify.com/artist/5upHj0MnOX1kIBXf7zzoZb) | [Midlife Glow \(feat\. Ozay Moore\)](https://open.spotify.com/album/4mhIfyutZJgYcmtKG0la1q) | 3:58 | 2023-03-16 | 2023-05-05 |
 | [MIRROR](https://open.spotify.com/track/6BH26KLvdWAgWyh5ITG3Li) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [SWING A SOUL](https://open.spotify.com/album/0HHc2bE8BCfMlqeijJZJLV) | 2:00 | 2023-06-22 | 2023-09-15 |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-03-16 | 2023-05-05 |

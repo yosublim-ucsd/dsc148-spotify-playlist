@@ -4,13 +4,13 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-712 songs - 1 day 17 hr 16 min
+713 songs - 1 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1](https://open.spotify.com/track/2wZgpHjOlD78ocLwkzHWES) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAQSOUM](https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC) | 4:11 | 2021-12-30 | 2022-01-01 |
 | [3ASAS](https://open.spotify.com/track/5BR3tXQcK6CL7rgv6mA9m2) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [3ASAS](https://open.spotify.com/album/4kNPySNlBOMX1WZbdIiIwp) | 4:02 | 2021-11-28 | 2021-12-11 |
-| [3atma](https://open.spotify.com/track/47dZKuQLD7ubcY0TT0Q04x) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0) | [3atma](https://open.spotify.com/album/0BDmbzmtap74a1IbNieQr1) | 3:19 | 2023-08-27 |  |
+| [3atma](https://open.spotify.com/track/47dZKuQLD7ubcY0TT0Q04x) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0) | [3atma](https://open.spotify.com/album/0BDmbzmtap74a1IbNieQr1) | 3:19 | 2023-08-27 | 2023-10-14 |
 | [3ayz Fin](https://open.spotify.com/track/0PmwGroz5BHqUSVpQgfZXX) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [3ayz Fin](https://open.spotify.com/album/6EMzTjf5z7KNvJT1U56iBF) | 3:32 | 2021-03-31 | 2021-04-02 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 | 2023-10-03 | 2023-10-12 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-09-30 | 2023-10-04 |
@@ -343,6 +343,7 @@
 | [MESAMA3EEN](https://open.spotify.com/track/6gg53gW5wlz0jSQmOcqIfY) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [MESAMA3EEN \(Deluxe\)](https://open.spotify.com/album/0F05Bs9oMtCyuAd22o4xKQ) | 3:00 | 2022-12-18 | 2023-07-30 |
 | [Mesh Aader Ansa](https://open.spotify.com/track/2DMv8xhr5mw2nJWqGgVPLU) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/3PiLAHM8hDtVxWkwg1LStr) | 3:12 | 2021-10-09 | 2021-10-29 |
 | [Mesh Nadman](https://open.spotify.com/track/3g4p8OgtpxHpEHzEjnRo6J) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mesh Nadman](https://open.spotify.com/album/5UzHxBDzrASY4c8xUXBbzy) | 2:55 | 2021-12-31 |  |
+| [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/track/7a4fFS88i5CiAn3zCkfoGk) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Bosy](https://open.spotify.com/artist/3wREoMa2oI5qs6NsmQcsKb), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/album/3wYZey6tv0VrSgpYUkCLQs) | 3:42 | 2023-10-13 |  |
 | [MESH ZAY ELE 7ASO](https://open.spotify.com/track/7f9GYz8Hcb58pKxOddasNR) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [MESH ZAY ELE 7ASO](https://open.spotify.com/album/4FYA7i61BUnjbgfoVCLBnC) | 3:00 | 2021-10-19 | 2021-10-22 |
 | [Met3'er](https://open.spotify.com/track/2EQ4OFrnXp3Fn9ZQa5HFtW) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Met3'er](https://open.spotify.com/album/2pBdfaLgjOgU8Exmi97yks) | 2:51 | 2023-01-13 | 2023-02-11 |
 | [Metkatef](https://open.spotify.com/track/3YJvA5FwsJdP6jytpPkvFp) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Metkatef](https://open.spotify.com/album/2FuBitU6GXqchhRGmEr6Fa) | 3:27 | 2023-08-09 | 2023-08-26 |

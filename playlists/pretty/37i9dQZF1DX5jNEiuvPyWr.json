@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Zamdane",
-  "num_followers": 350952,
+  "num_followers": 350767,
   "original_name": "Cloud Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGE2ODk4YzM1YzJkZmZiZDVhNzQyMzExZDk3MTViZGUzZDU3NGNi",
+  "snapshot_id": "MCw3YWViYWM0OTQ0OTJiNTBiZTg1NjY4NzIyZDdhZGU0YzY0ZjYzOWJi",
   "tracks": [
     {
       "added_at": "2023-10-12 22:01:00",
@@ -594,6 +594,10 @@
         {
           "name": "So La Lune",
           "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        },
+        {
+          "name": "LETS GO",
+          "url": "https://open.spotify.com/artist/0slvOa2y1TVxMkb7H1iasz"
         }
       ],
       "duration_ms": 189757,

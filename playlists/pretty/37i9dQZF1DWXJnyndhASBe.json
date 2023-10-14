@@ -1,13 +1,29 @@
 {
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Sobel, Oki",
-  "num_followers": 486144,
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Mata",
+  "num_followers": 486223,
   "original_name": "RAP GENERACJA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTY0YWZlZWVmYzE4NDY5MTg1YjZhNmMyZDRlMjU3ZThhMmVlMGNj",
+  "snapshot_id": "MCxmMzVkOTc2MzBhMzk1ZTA3YjYxYjFmMTY4MzhlODcxOGM2YWRjYzA5",
   "tracks": [
+    {
+      "added_at": "2023-10-13 10:00:00",
+      "album": {
+        "name": "GiEwOnT",
+        "url": "https://open.spotify.com/album/064ETxMz9Qnq5vfa9jOxUm"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "duration_ms": 322113,
+      "name": "GiEwOnT",
+      "url": "https://open.spotify.com/track/1fEh4NSXSaVhVGArLtxEiG"
+    },
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {

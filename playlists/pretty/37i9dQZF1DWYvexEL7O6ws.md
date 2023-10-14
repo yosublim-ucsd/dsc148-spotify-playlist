@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 
 > The label's essential tracks by Drake, PARTYNEXTDOOR, Roy Woods, dvsn, and more\. Cover: <a href="spotify:artist:3TVXtAsR1Inumwj472S9r4">Drake</a> and Noah "40" Shebib
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,778 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,865 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 | 20 | [Nicky Nine Door](https://open.spotify.com/track/0UMmJaSuRVNYlUv47XTZt8) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Nicky Nine Door](https://open.spotify.com/album/4xdOcLPursBFxoEArmUPPa) | 2:08 |
 | 21 | [Celebrate \(feat\. Black Sherif\)](https://open.spotify.com/track/1HEEnDxmxHvrAddczaWS48) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Great Is He \(Deluxe\)](https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o) | 3:47 |
 | 22 | [Don't Love Me](https://open.spotify.com/track/2TrFQYku0STJn94gRMhlNZ) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Don't Love Me](https://open.spotify.com/album/2SNGZ52dDl74z2sxhAzUSM) | 3:23 |
-| 23 | [Her Old Friends](https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Old Friends](https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5) | 4:16 |
+| 23 | [H e r O l d F r i e n d s](https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [H e r O l d F r i e n d s](https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5) | 4:16 |
 | 24 | [Another Life](https://open.spotify.com/track/6Bv0HF6uWodg3DIDXSDQs4) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 4:30 |
 | 25 | [Jumbotron Shit Poppin](https://open.spotify.com/track/2ZlABhxMMa43COmZ97kKsJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:17 |
 | 26 | [Stars Align \(with Drake\)](https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 | 99 | [Money in the Bank](https://open.spotify.com/track/1zOBliu4XVuQ0246Jbt23w) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [4Milli](https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2) | 3:01 |
 | 100 | [Best I Ever Had](https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 4:17 |
 
-Snapshot ID: `MCxkMTUyMGY3YjhhNGI5YzE3NTQ4ZTNiODc4NTE2NGUxNWI2NDk4NTBi`
+Snapshot ID: `MCxlZTJkNWY0OWRhMTFmNjZmOWI3MzUyYWZmOTM0MTIwN2ExNmZiNzYw`

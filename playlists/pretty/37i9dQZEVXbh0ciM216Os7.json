@@ -6,10 +6,274 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNzYwODAsMDAwMDAwMDA2ZWZkNjk5YmM5MDM0Y2ZlMGY5NTkyOTAwMzcyY2JmOQ==",
+  "snapshot_id": "MjgyODYxNjAsMDAwMDAwMDBlMzUzMWEwMmUyZTE5MWNlMzE2OTg4MTRlMTA1Yzg1ZA==",
   "tracks": [
     {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "NIGHTTIME",
+        "url": "https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "duration_ms": 147783,
+      "name": "NIGHTTIME",
+      "url": "https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "MOTHERLESS [Feat. Eryn Allen Kane] (Robert Glasper Rendition)",
+        "url": "https://open.spotify.com/album/2QGrs0tVKYw8uEkgr9tsSu"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "duration_ms": 209716,
+      "name": "MOTHERLESS - Robert Glasper Rendition",
+      "url": "https://open.spotify.com/track/1wefL4EqXv2WsHtjuAc1W7"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Shadow Boxin' 2.0",
+        "url": "https://open.spotify.com/album/3VK20AvaDAbt9XYOBOEdAf"
+      },
+      "artists": [
+        {
+          "name": "Picanto the boy",
+          "url": "https://open.spotify.com/artist/6gSYK8reLZWaJK2PCfMkT0"
+        },
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        }
+      ],
+      "duration_ms": 267337,
+      "name": "Shadow Boxin' 2.0",
+      "url": "https://open.spotify.com/track/0OMjDQ112ToLSSV7nCde4y"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Panic Attack",
+        "url": "https://open.spotify.com/album/02DtysqFzSbWAfptGA7mec"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 325987,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "It Takes Two (feat. Eric Andre, Daveed Diggs, Kid Cudi & Trolls)",
+        "url": "https://open.spotify.com/album/7oGTxPAGX6htcQblSqWo0r"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Eric Andre",
+          "url": "https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/21vLEEtCTBS6fxw1TuPJAy"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "FYFTY (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5x2HAo3F8HL7sKyTL9h0EI"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 824080,
+      "name": "Free Bird - Live At Fox Theatre, Atlanta, GA - July 7, 1976",
+      "url": "https://open.spotify.com/track/26OAwqHKameHUQLgQJqPnd"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967)",
+        "url": "https://open.spotify.com/album/6XW3aKGGCReIq2NIhTJRq8"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 100618,
+      "name": "Sgt. Pepper's Lonely Hearts Club Band - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+      "url": "https://open.spotify.com/track/2kwUETBvq1zr0HpUsM2B3n"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Joyride (Vansire Remix)",
+        "url": "https://open.spotify.com/album/7kVC0fSOqrH4D14KtqreX3"
+      },
+      "artists": [
+        {
+          "name": "Karina Rykman",
+          "url": "https://open.spotify.com/artist/4uiRvtezQs3mZ2OichIhYj"
+        },
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 203213,
+      "name": "Joyride - Vansire Remix",
+      "url": "https://open.spotify.com/track/4nP5oZTjYn9TnUtHSXS79e"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Big Youth (feat. El-P)",
+        "url": "https://open.spotify.com/album/0hidwDhYbIU6eXyGltHikN"
+      },
+      "artists": [
+        {
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "Big Youth (feat. El-P)",
+      "url": "https://open.spotify.com/track/4YucKCHgSdWoj7BtH8lbDa"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Reunion (25th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/0LKOlxflzwKoZerUQLtSmJ"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 209774,
+      "name": "Selling My Soul - Danny Saber Remix",
+      "url": "https://open.spotify.com/track/5soAf86M7IS91HacoojI9H"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Barracuda (Metal Version)",
+        "url": "https://open.spotify.com/album/7Dz8MrHYOUkL110MmTMIaN"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        },
+        {
+          "name": "Erik Torp",
+          "url": "https://open.spotify.com/artist/4DvfiICwjvu3osZVqEEHLs"
+        },
+        {
+          "name": "Hannah Boulton",
+          "url": "https://open.spotify.com/artist/140Mz9HM8aQSbKqcE16zer"
+        },
+        {
+          "name": "Truls Haugen",
+          "url": "https://open.spotify.com/artist/2cPrnygS5K2stvEloTBvoh"
+        },
+        {
+          "name": "Rabea Massaad",
+          "url": "https://open.spotify.com/artist/2VMefj2Ob7Dc7PElvmMdOX"
+        }
+      ],
+      "duration_ms": 297006,
+      "name": "Barracuda (Metal Version)",
+      "url": "https://open.spotify.com/track/6Nzn9HvVW5hhxYGfauC5Se"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Mesmerized",
+        "url": "https://open.spotify.com/album/6J0q2U2k5bqeQKnvA3zS05"
+      },
+      "artists": [
+        {
+          "name": "Vacationer",
+          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+        }
+      ],
+      "duration_ms": 133792,
+      "name": "Dialogue",
+      "url": "https://open.spotify.com/track/7fAJzwOBclWqwZ26uehprW"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "KNOWER FOREVER",
+        "url": "https://open.spotify.com/album/4HLzhoSO67xRwfZa1T343L"
+      },
+      "artists": [
+        {
+          "name": "KNOWER",
+          "url": "https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ"
+        }
+      ],
+      "duration_ms": 212782,
+      "name": "Do Hot Girls Like Chords?",
+      "url": "https://open.spotify.com/track/3edXLmc4WGO8r2g5gjh0Ux"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "VOIR DIRE",
         "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
@@ -29,23 +293,7 @@
       "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "KNOWER FOREVER",
-        "url": "https://open.spotify.com/album/4HLzhoSO67xRwfZa1T343L"
-      },
-      "artists": [
-        {
-          "name": "KNOWER",
-          "url": "https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ"
-        }
-      ],
-      "duration_ms": 212782,
-      "name": "Do Hot Girls Like Chords?",
-      "url": "https://open.spotify.com/track/3edXLmc4WGO8r2g5gjh0Ux"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Who's That?",
         "url": "https://open.spotify.com/album/2aq3ORkrQrbY34dFnQDKZH"
@@ -61,7 +309,7 @@
       "url": "https://open.spotify.com/track/306sDtgbcHZJrz9fxTZD5U"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Champagne Shit (feat. Latto & Quavo) [Remix]",
         "url": "https://open.spotify.com/album/0EIDcpEoX0tO28b55vvCTK"
@@ -85,7 +333,7 @@
       "url": "https://open.spotify.com/track/2oKU8iNurGW4W1WjshPdWe"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Tether",
         "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
@@ -101,23 +349,31 @@
       "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Dialogue",
-        "url": "https://open.spotify.com/album/7hGucrZZDdkeyf0ip1TyZN"
+        "name": "Whenever I Call You Friend",
+        "url": "https://open.spotify.com/album/3UDpY8hvITJfi4P3Y2ISpI"
       },
       "artists": [
         {
-          "name": "Vacationer",
-          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+          "name": "Melissa Manchester",
+          "url": "https://open.spotify.com/artist/78udmCDNaDu5jqfVnBqwia"
+        },
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
         }
       ],
-      "duration_ms": 133792,
-      "name": "Dialogue",
-      "url": "https://open.spotify.com/track/6mRF4zTfe96Fza0idXLopQ"
+      "duration_ms": 242226,
+      "name": "Whenever I Call You Friend",
+      "url": "https://open.spotify.com/track/5QGUp0Iz7KYyji9UdzHV5J"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "The Lost Tapes \u2022 5 Year Anniversary \u2022 Deluxe Edition",
         "url": "https://open.spotify.com/album/7IPPuUTxZmdbTLpRGMbjZj"
@@ -153,31 +409,7 @@
       "url": "https://open.spotify.com/track/2rJh0F25kLFq3AUmhP45g4"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Whenever I Call You Friend",
-        "url": "https://open.spotify.com/album/3UDpY8hvITJfi4P3Y2ISpI"
-      },
-      "artists": [
-        {
-          "name": "Melissa Manchester",
-          "url": "https://open.spotify.com/artist/78udmCDNaDu5jqfVnBqwia"
-        },
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        },
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "Whenever I Call You Friend",
-      "url": "https://open.spotify.com/track/5QGUp0Iz7KYyji9UdzHV5J"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/5ds7EwBnEDlshnnh2yO238"
@@ -201,7 +433,7 @@
       "url": "https://open.spotify.com/track/3qEPlrpAIt4uGJBrhZPbnp"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Koala (LOSTBOYJAY Remix)",
         "url": "https://open.spotify.com/album/7jdggFhPQVoEaQvdYrsBlP"
@@ -221,7 +453,7 @@
       "url": "https://open.spotify.com/track/6t3fgZevGImXgT1yuNyNYE"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Dookie (30th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/47l8TkJCLzHaekHImz1e9g"
@@ -237,31 +469,7 @@
       "url": "https://open.spotify.com/track/4ECOhAff9rCHTgddtPO1Wa"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "FMF (feat. GoldLink & Audrey Mika)",
-        "url": "https://open.spotify.com/album/6vAI3r50JOdTnFdFQPE9mq"
-      },
-      "artists": [
-        {
-          "name": "Diamond Pistols",
-          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        },
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        }
-      ],
-      "duration_ms": 141647,
-      "name": "FMF (feat. GoldLink & Audrey Mika)",
-      "url": "https://open.spotify.com/track/5W7F1XmizXlIo4nambCREY"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Tech N9ne Presents: NNUTTHOWZE - The Siqnal",
         "url": "https://open.spotify.com/album/5B6i2xqAaKsquOzw7WYPIM"
@@ -285,67 +493,7 @@
       "url": "https://open.spotify.com/track/02TKQCqn07U3oCpsqFzk7f"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "In a sentimental mood",
-        "url": "https://open.spotify.com/album/1Io8ZCinPYklU5J3KBTU4k"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Carla Marcotulli",
-          "url": "https://open.spotify.com/artist/5g7Xx9k207AzA2qJVdZTR0"
-        }
-      ],
-      "duration_ms": 404375,
-      "name": "In a sentimental mood",
-      "url": "https://open.spotify.com/track/6uasGTRvjhX99lF921NDx0"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Sondela",
-        "url": "https://open.spotify.com/album/0XXLvIOKk0PJMCSozQpRAc"
-      },
-      "artists": [
-        {
-          "name": "PUNIST",
-          "url": "https://open.spotify.com/artist/54wYhYIpRfgFDAp4FAJNYl"
-        },
-        {
-          "name": "GZA",
-          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
-        },
-        {
-          "name": "MABHATHU",
-          "url": "https://open.spotify.com/artist/6CNzpv64tVN5KGv00prLJw"
-        }
-      ],
-      "duration_ms": 280737,
-      "name": "Sondela",
-      "url": "https://open.spotify.com/track/14suPeoNNh1CSWJsOIOzMj"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Ruska (Live In Helsinki St. John's Church)",
-        "url": "https://open.spotify.com/album/652egKdpXVS1zSHcE31scB"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Ruska - Live In Helsinki St. John's Church",
-      "url": "https://open.spotify.com/track/6U3oadsJct1P3IiwrESmxO"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/2aVhrxNZrwE8sB3fqvyZys"
@@ -365,7 +513,7 @@
       "url": "https://open.spotify.com/track/17zGPlvmZ8cWkmMXTUFSrf"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Have You Seen This Movie",
         "url": "https://open.spotify.com/album/4RCjDPhqY9W4JE0tVGtAvl"
@@ -385,7 +533,7 @@
       "url": "https://open.spotify.com/track/2LUiRhU7rSaGqPAvaQ5Zik"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Here Comes Sunshine (Demo)",
         "url": "https://open.spotify.com/album/3qbrhr54cpon3Wx7pKQZit"
@@ -401,39 +549,7 @@
       "url": "https://open.spotify.com/track/7Ac7QBdM2glC046hYdlcgR"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Killing Floor (Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967)",
-        "url": "https://open.spotify.com/album/2WI9lpUoCz2iXHWfrv2O2q"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 223616,
-      "name": "Killing Floor - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
-      "url": "https://open.spotify.com/track/7JAjSAKtzRgfiYnnOyAaWH"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Bushwick Cowboy",
-        "url": "https://open.spotify.com/album/3pCrRQfCSaR4gIpcUewNsx"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 243980,
-      "name": "Bushwick Cowboy",
-      "url": "https://open.spotify.com/track/3LppKZzfb7NLNmxe3rKRk9"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
         "url": "https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB"
@@ -457,23 +573,7 @@
       "url": "https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Skyfall (Metal Version)",
-        "url": "https://open.spotify.com/album/15GVwQBYsFGYaITw391EKd"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 287446,
-      "name": "Skyfall (Metal Version)",
-      "url": "https://open.spotify.com/track/3Nd1FM5i5aBIXqyVyD4BOT"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Come Fly with Me",
         "url": "https://open.spotify.com/album/3MFgyPfraw1DJqjNFrTkMa"
@@ -493,23 +593,7 @@
       "url": "https://open.spotify.com/track/2lPSrt9dSVInIwuMiYkS7H"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Ram",
-        "url": "https://open.spotify.com/album/3o88dhnm1Bn9EH8vweXsnM"
-      },
-      "artists": [
-        {
-          "name": "Wheeler Walker Jr.",
-          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
-        }
-      ],
-      "duration_ms": 162853,
-      "name": "Puddin'",
-      "url": "https://open.spotify.com/track/3tYYyvMUVDszb8FlsuZHAw"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "KAYTRAMIN\u00c9 (Instrumentals)",
         "url": "https://open.spotify.com/album/6qYJO4dmiWCqILHweWVmUf"
@@ -533,7 +617,7 @@
       "url": "https://open.spotify.com/track/01S67rhdOvdqdvQHBuLJpO"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Too Far Gone? (Live at MetLife Stadium, East Rutherford, NJ \u2013 August 6, 2023)",
         "url": "https://open.spotify.com/album/4fd8mqhFEDpn8sJitGqS8k"
@@ -549,23 +633,7 @@
       "url": "https://open.spotify.com/track/4P5M6lFGdjz58JJK6hYW8w"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "MICHAEL (Deluxe)",
-        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 177814,
-      "name": "YES!",
-      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5ckMdSLnCP1HEGe8clgU9B"
@@ -585,7 +653,7 @@
       "url": "https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "End",
         "url": "https://open.spotify.com/album/6iyqFDzMfdgCcrWq7PeCTb"

@@ -57,6 +57,32 @@
     },
     {
       "album": {
+        "name": "Danse Macabre",
+        "url": "https://open.spotify.com/album/2hRaFLIC2ge5ZDoThJZaMU"
+      },
+      "artists": [
+        {
+          "name": "Modest Mussorgsky",
+          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 710626,
+      "name": "A Night On The Bare Mountain",
+      "url": "https://open.spotify.com/track/7ziy9EUNCwYgXQsqxyW7pb"
+    },
+    {
+      "album": {
         "name": "Essential Baroque",
         "url": "https://open.spotify.com/album/2ptb27zRmcc2Iu9NlG5URO"
       },
@@ -420,7 +446,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 770520,
       "name": "Night on Bare Mountain",
       "url": "https://open.spotify.com/track/67F2FBLJL9Wn09qvPe6XVa"
@@ -1038,6 +1064,32 @@
       "duration_ms": 576653,
       "name": "Symphony No. 3 In A Minor, Op. 56, MWV N 18 - \"Scottish\": 4. Allegro vivacissimo - Allegro maestoso assai",
       "url": "https://open.spotify.com/track/4I024wasuUj1tEm6t7Uz5x"
+    },
+    {
+      "album": {
+        "name": "Mozart: Symphony No. 40 in G Minor, K. 550: I. Molto allegro",
+        "url": "https://open.spotify.com/album/5ftkdxmHWSA3H7c8E8tVat"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Il Pomo D'oro",
+          "url": "https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z"
+        },
+        {
+          "name": "Maxim Emelyanychev",
+          "url": "https://open.spotify.com/artist/36CgM42AtIA5SEne7Wou7q"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422240,
+      "name": "Symphony No. 40 in G Minor, K. 550: I. Molto allegro",
+      "url": "https://open.spotify.com/track/1e2QVQsoNAwAFROq8kN7M8"
     },
     {
       "album": {

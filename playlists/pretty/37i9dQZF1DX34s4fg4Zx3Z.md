@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: NGHI; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,931 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,955 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Rơi Vào U Sầu](https://open.spotify.com/track/4dSqJH6oG57ov48ZzIgdlq) | [Truc Ban Bun](https://open.spotify.com/artist/1gRltC2Wy0Gi2cxsDDJrh6) | [Rơi Vào U Sầu](https://open.spotify.com/album/05cA6VOQmjhbM6tgPZW9Wd) | 3:26 |
 | 100 | [Tinh dep latinh buon](https://open.spotify.com/track/7JeE6PNUGbzaR8eqbxYE1Y) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30) | [Tinh dep latinh buon](https://open.spotify.com/album/2ZzqQTlqBiZNsj0JxYsQPh) | 2:31 |
 
-Snapshot ID: `MCxiNWM5ZjlkMzY2OWRiYWRjZTY1Y2YxOTdkMTZkNzY0ZDZlOWEyOThl`
+Snapshot ID: `MCwwYWEyMDdkYjY5NmRhM2E0OTVkMmE3MDc5YWQwOWM2YTg4YTJjMDU5`

@@ -2,7 +2,7 @@
 
 ### [Treino Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX9wPYtCQ8Q0s)
 
-> A batida certa para o seu treino\. Foto: Travis Scott
+> A batida certa para o seu treino
 
 108 songs - 6 hr 13 min
 

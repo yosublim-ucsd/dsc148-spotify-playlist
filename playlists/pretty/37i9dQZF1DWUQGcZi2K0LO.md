@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQGcZi2K0LO.md) - [plain]
 
 > Indian Indie songs we loved the most in 2022\. Cover \- Aditya A \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,510 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,540 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQGcZi2K0LO.md) - [plain]
 | 3 | [Basti Ka Hasti](https://open.spotify.com/track/3k9PtGmPNnQtt32TKWm6f3) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Insaan](https://open.spotify.com/album/5Xrj5h7GQkxcjXRWJAtNvF) | 3:15 |
 | 4 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 |
 | 5 | [Nasha \(Equals Sessions\)](https://open.spotify.com/track/1rDjwexewf4hrdZT7SRNsH) | [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [Amar Jalal](https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03) | [Nasha \(Equals Sessions\) \- Single](https://open.spotify.com/album/0DCY52sgebqixheOPwwasZ) | 4:47 |
-| 6 | [Gul](https://open.spotify.com/track/0NLkVxf0PyxsXBG3EuZcJf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Gul](https://open.spotify.com/album/0aD1s9SFgIIZG95AzVhLC7) | 3:37 |
+| 6 | [Gul](https://open.spotify.com/track/6ivemTXTn27PwVjtd0oqDs) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Gul](https://open.spotify.com/album/7gxvq2TLEEThZzaOQEOI2r) | 3:37 |
 | 7 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 |
 | 8 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
 | 9 | [Heer Ranjha](https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Heer Ranjha](https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQGcZi2K0LO.md) - [plain]
 | 49 | [Khaare Raste](https://open.spotify.com/track/54jXWKDWh2IAFnuYcYEwb3) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Khaare Raste](https://open.spotify.com/album/0UbMs14msg4N7BBzwWh1il) | 4:06 |
 | 50 | [Pablo \- Love Bites](https://open.spotify.com/track/0Xgp4D3enM5Sh8r32XoPV9) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr) | [Pablo \(Love Bites\)](https://open.spotify.com/album/6GYIV808IRhPEFyLf7apVh) | 2:50 |
 
-Snapshot ID: `MCwxNWQwNDAxMGMxYzcwMjcyMWUwNTdjMmIwNWRlMzFmNTkxNWY2NmFk`
+Snapshot ID: `MCxiOGIyZWMxZGU4NTZkZjcxY2U1YzUwNTdjZGE1YzEyYTBiOTllNWU5`

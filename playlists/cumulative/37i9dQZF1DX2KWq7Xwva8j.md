@@ -4,11 +4,12 @@
 
 > El futuro está aquí\. Foto: Yarea
 
-192 songs - 9 hr 23 min
+193 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100tas](https://open.spotify.com/track/4Wdin6LVBOduIVlCKi8FYK) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [100tas](https://open.spotify.com/album/3UXz1qRHI73JmsNYvklh9W) | 2:28 | 2022-02-17 | 2022-09-09 |
+| [22:22](https://open.spotify.com/track/6sgvEizEWx78hraou2YH1t) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [En qué pienso cuando lloro](https://open.spotify.com/album/2IkrQhvVdddjOMbwiW77nI) | 3:21 | 2023-10-13 |  |
 | [3 AMIGAS TUYAS](https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [EDDI CIRCA](https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa) | [3 AMIGAS TUYAS](https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv) | 3:04 | 2022-02-17 | 2022-09-09 |
 | [A Contraluz](https://open.spotify.com/track/5go70LzuMiSpKWlLn1SzVj) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN) | [A Contraluz](https://open.spotify.com/album/5VlLEWKCcPDWAJecwDeZE9) | 3:07 | 2022-06-06 | 2023-02-08 |
 | [A W](https://open.spotify.com/track/3EEnS8xkMxfvp3BB5xquQ4) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [A W](https://open.spotify.com/album/3n9FQ4ABfG6YRlSDuRadH9) | 2:15 | 2022-09-23 | 2023-03-01 |
@@ -193,7 +194,7 @@
 | [un poco sí...](https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [un poco sí...](https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD) | 2:59 | 2022-06-06 | 2023-02-08 |
 | [Universitaria](https://open.spotify.com/track/13goZ7smSa0LkMnNaxKiVF) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Universitaria](https://open.spotify.com/album/7ugNb8tgXC5q1FKGdfuadl) | 3:16 | 2021-12-31 | 2022-04-01 |
 | [uno x ciento](https://open.spotify.com/track/0cbp157hyiM0c9XVLb0Mqk) | [Miren](https://open.spotify.com/artist/4YGQgS8rZcbt0VOsV6GPcv), [Fulston](https://open.spotify.com/artist/4NAeRqTT8u5AC9WUOMCLeM) | [a partes](https://open.spotify.com/album/0wNq0PfOh28Ye1VvygIrBP) | 1:40 | 2022-03-31 | 2023-02-08 |
-| [Veo tan Dentro](https://open.spotify.com/track/0IG1i3O84chtFIQMsKg6TD) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [Veo tan Dentro](https://open.spotify.com/album/69MjZjIJ1dmeDF9vjXNtue) | 3:59 | 2022-09-22 |  |
+| [Veo tan Dentro](https://open.spotify.com/track/0IG1i3O84chtFIQMsKg6TD) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [Veo tan Dentro](https://open.spotify.com/album/69MjZjIJ1dmeDF9vjXNtue) | 3:59 | 2022-09-22 | 2023-10-14 |
 | [videodrome](https://open.spotify.com/track/0QVWnULSoHRVEiZVvjxXJz) | [Ghouljaboy](https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d) | [videodrome](https://open.spotify.com/album/378fitgmXUna8s3GI0GBfr) | 2:39 | 2021-12-31 | 2022-01-28 |
 | [Vista Al Mar](https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Vista Al Mar](https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW) | 3:00 | 2022-09-16 | 2022-10-28 |
 | [Vértices](https://open.spotify.com/track/4b7IBgXC4SVKTXMEqhcuXb) | [keezyporta](https://open.spotify.com/artist/59a1bsEPllg9vAM5ZdZtBS) | [Vértices](https://open.spotify.com/album/2d4Ib8uv3ZbCWwwiQmzI0N) | 3:55 | 2021-12-31 | 2022-02-18 |

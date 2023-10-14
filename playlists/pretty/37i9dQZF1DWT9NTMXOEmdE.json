@@ -1,12 +1,12 @@
 {
   "description": "The happiest hits to boost your day.",
-  "num_followers": 484466,
+  "num_followers": 483880,
   "original_name": "Good Times",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTQyODhlYmQ3YmNhMDc4MGQzMjk0ODFmZjgxMDc3M2U4MjI1NGYz",
+  "snapshot_id": "MCxlNWNkNzc5OTY1ZjdiN2QwZDE5NDFmZGIwNzE0NTM1NmJiNDY4NDA0",
   "tracks": [
     {
       "added_at": "2023-08-09 05:21:47",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-08-09 05:21:47",
       "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "thank u, next",
-      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
-    },
-    {
-      "added_at": "2023-08-09 05:21:47",
-      "album": {
         "name": "Origins (Deluxe)",
         "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 260773,
       "name": "Bad Liar",
       "url": "https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3"
+    },
+    {
+      "added_at": "2023-08-09 05:21:47",
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
     },
     {
       "added_at": "2023-08-09 05:21:47",

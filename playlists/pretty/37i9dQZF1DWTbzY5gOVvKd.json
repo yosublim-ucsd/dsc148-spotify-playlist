@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1200756,
+  "num_followers": 1198467,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjBhMzdkNzE5YjkwMWYwMGJiZGQ2M2VlNzAzMzg5NDJmYTZiNGQw",
+  "snapshot_id": "MCw5NzU2YTEwZDIxNTc4M2M2YmJmNjUwMDYxYjJiOTRlNDZiNzUyMTEx",
   "tracks": [
     {
       "added_at": "2023-10-04 11:21:47",
@@ -839,22 +839,18 @@
     {
       "added_at": "2023-10-04 11:21:47",
       "album": {
-        "name": "OK Crooner",
-        "url": "https://open.spotify.com/album/13yp37PL2hnN1fP25AFB6J"
+        "name": "For One to Love",
+        "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
       },
       "artists": [
         {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-        },
-        {
-          "name": "Sunny Holiday",
-          "url": "https://open.spotify.com/artist/2dX157YnbGJAnNclK9HU0X"
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
         }
       ],
-      "duration_ms": 192000,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6y80WSyy5Neu2CsrqjQszz"
+      "duration_ms": 121039,
+      "name": "Monday",
+      "url": "https://open.spotify.com/track/4FYmHTavxSVFUPyM2GUpPb"
     },
     {
       "added_at": "2023-10-04 11:21:47",
@@ -875,18 +871,22 @@
     {
       "added_at": "2023-10-04 11:21:47",
       "album": {
-        "name": "For One to Love",
-        "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
+        "name": "OK Crooner",
+        "url": "https://open.spotify.com/album/13yp37PL2hnN1fP25AFB6J"
       },
       "artists": [
         {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Sunny Holiday",
+          "url": "https://open.spotify.com/artist/2dX157YnbGJAnNclK9HU0X"
         }
       ],
-      "duration_ms": 121039,
-      "name": "Monday",
-      "url": "https://open.spotify.com/track/4FYmHTavxSVFUPyM2GUpPb"
+      "duration_ms": 192000,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6y80WSyy5Neu2CsrqjQszz"
     },
     {
       "added_at": "2023-10-04 11:21:47",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-10-04 11:21:47",
       "album": {
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39"
+      },
+      "artists": [
+        {
+          "name": "Kat Gang",
+          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "People Will Say We're In Love",
+      "url": "https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij"
+    },
+    {
+      "added_at": "2023-10-04 11:21:47",
+      "album": {
         "name": "Love Is... The Tender Trap",
         "url": "https://open.spotify.com/album/0BnOXskh6wArTePmqEGIfs"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 283933,
       "name": "Fools Rush In (Where Angels Fear To Tread)",
       "url": "https://open.spotify.com/track/4mxR3iB1bvDEUsSuFLeIWF"
-    },
-    {
-      "added_at": "2023-10-04 11:21:47",
-      "album": {
-        "name": "Come Closer",
-        "url": "https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39"
-      },
-      "artists": [
-        {
-          "name": "Kat Gang",
-          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "People Will Say We're In Love",
-      "url": "https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij"
     },
     {
       "added_at": "2023-10-04 11:21:47",

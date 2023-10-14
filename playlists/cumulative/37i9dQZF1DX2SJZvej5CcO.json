@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "El primer paso en la luna",
+        "url": "https://open.spotify.com/album/0UU1WRNq0lEBST4QqW7DS6"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178545,
+      "name": "El primer paso en la luna",
+      "url": "https://open.spotify.com/track/4GcdtQaqyH6qpnv0jrPpcm"
+    },
+    {
+      "album": {
         "name": "Hazte sentir",
         "url": "https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo"
       },
@@ -576,6 +594,24 @@
       "duration_ms": 211000,
       "name": "Francesca",
       "url": "https://open.spotify.com/track/6S6oyPIG38fIdvvGEoxgPM"
+    },
+    {
+      "album": {
+        "name": "Frente a nosotros",
+        "url": "https://open.spotify.com/album/2tlRHyJYMznfBLjYEY69zt"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179303,
+      "name": "Frente a nosotros",
+      "url": "https://open.spotify.com/track/7ejgpCjT3L5JRJWKnqeSbV"
     },
     {
       "album": {

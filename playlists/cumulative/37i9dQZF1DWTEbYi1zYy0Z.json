@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 197125,
       "name": "A Mother\u2019s Lullaby",
       "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
@@ -1523,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Dancin' Shoes",
+        "url": "https://open.spotify.com/album/2bH1chYifngpHOjrlyppS5"
+      },
+      "artists": [
+        {
+          "name": "Paula Atherton",
+          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254480,
+      "name": "Dancin' Shoes",
+      "url": "https://open.spotify.com/track/15i4GMjiFCHKWMYSUTp2CS"
+    },
+    {
+      "album": {
         "name": "Deep Dive",
         "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
       },
@@ -1704,7 +1722,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 251255,
       "name": "Do I Do",
       "url": "https://open.spotify.com/track/6Hb966XHYqgzBW701zsJMX"
@@ -1979,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "Edelweiss",
+        "url": "https://open.spotify.com/album/6W9KJZCfnCPm1IpoEgMrXb"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207757,
+      "name": "Edelweiss",
+      "url": "https://open.spotify.com/track/00Cs2pIEXYOWATPGeQywMm"
+    },
+    {
+      "album": {
         "name": "ELEVATE",
         "url": "https://open.spotify.com/album/4W8UWPwAwbqurn6NiKgaCm"
       },
@@ -2214,7 +2250,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 255466,
       "name": "Fika Talk",
       "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
@@ -4877,6 +4913,24 @@
     },
     {
       "album": {
+        "name": "On the Up and Up",
+        "url": "https://open.spotify.com/album/0fendbHIfxrBOViSQahezC"
+      },
+      "artists": [
+        {
+          "name": "Michael Manson",
+          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248412,
+      "name": "On the Up and Up",
+      "url": "https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB"
+    },
+    {
+      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve"
       },
@@ -5436,7 +5490,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 318733,
       "name": "Savoir Faire",
       "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
@@ -7160,6 +7214,32 @@
       "duration_ms": 260996,
       "name": "Uptop",
       "url": "https://open.spotify.com/track/2dVePyjsLCrWmu6ICDm8cF"
+    },
+    {
+      "album": {
+        "name": "Victoria Falls",
+        "url": "https://open.spotify.com/album/0XeOa7J4MyLZcpvEDkq4fp"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shell",
+          "url": "https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9"
+        },
+        {
+          "name": "Douglas Lira",
+          "url": "https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI"
+        },
+        {
+          "name": "Angie Nicole",
+          "url": "https://open.spotify.com/artist/5tZTqwfxy4zLaEWkVejTws"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318578,
+      "name": "Victoria Falls",
+      "url": "https://open.spotify.com/track/4fudubz4Z7yzxrbn6Ytgnr"
     },
     {
       "album": {

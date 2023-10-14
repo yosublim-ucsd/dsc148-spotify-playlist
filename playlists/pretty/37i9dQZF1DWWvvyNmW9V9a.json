@@ -1,13 +1,29 @@
 {
-  "description": "Nessa \ud83d\udda4 Coop",
-  "num_followers": 2135015,
+  "description": "if this* was a movie (*this = eras tour)",
+  "num_followers": 2134896,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTUzNzZmM2U3NzJjZTFlOGUxM2U5MjczMjdlNGMxNjRmZmVjYzk0",
+  "snapshot_id": "MCwzOTJjZTE4NDljYjhiNDE1MTRlOWYxMzQ1OWU0NTBlODZjYTdkZmYw",
   "tracks": [
+    {
+      "added_at": "2023-10-13 23:52:52",
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "I Knew You Were Trouble (Taylor's Version)",
+      "url": "https://open.spotify.com/track/6AtZLIzUINvExIUy4QhdjP"
+    },
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
@@ -41,6 +57,42 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
+      "added_at": "2023-10-13 03:59:49",
+      "album": {
+        "name": "Pretty Girl (with Rema)",
+        "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 137907,
+      "name": "Pretty Girl (with Rema)",
+      "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
+    },
+    {
+      "added_at": "2023-09-19 17:20:25",
+      "album": {
+        "name": "older",
+        "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 137778,
+      "name": "older",
+      "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
+    },
+    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "GODS",
@@ -61,6 +113,22 @@
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
     },
     {
+      "added_at": "2023-10-14 00:04:17",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 194206,
+      "name": "You're On Your Own, Kid",
+      "url": "https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t"
+    },
+    {
       "added_at": "2023-10-08 23:06:23",
       "album": {
         "name": "GUTS",
@@ -77,40 +145,20 @@
       "url": "https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b"
     },
     {
-      "added_at": "2023-09-19 17:20:25",
+      "added_at": "2023-10-13 03:59:49",
       "album": {
-        "name": "older",
-        "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
+        "name": "Capable of love",
+        "url": "https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2"
       },
       "artists": [
         {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 137778,
-      "name": "older",
-      "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
-    },
-    {
-      "added_at": "2023-09-29 04:00:51",
-      "album": {
-        "name": "3D (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 201812,
-      "name": "3D (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
+      "duration_ms": 223680,
+      "name": "Capable of love",
+      "url": "https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -161,6 +209,54 @@
       "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
     },
     {
+      "added_at": "2023-10-13 03:59:49",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232852,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
+    },
+    {
+      "added_at": "2023-10-13 03:59:49",
+      "album": {
+        "name": "Mirror (Deluxe)",
+        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175550,
+      "name": "Sad Forever",
+      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
+    },
+    {
+      "added_at": "2023-09-19 17:20:25",
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
       "added_at": "2023-09-19 17:20:25",
       "album": {
         "name": "Paint The Town Red",
@@ -209,20 +305,20 @@
       "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
     },
     {
-      "added_at": "2023-09-19 17:20:25",
+      "added_at": "2023-10-13 03:59:49",
       "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -241,6 +337,22 @@
       "url": "https://open.spotify.com/track/5dLhmqJRJiV0RyRwv7VUdv"
     },
     {
+      "added_at": "2023-10-13 03:59:49",
+      "album": {
+        "name": "CCTV",
+        "url": "https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 161171,
+      "name": "Bite Marks",
+      "url": "https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia"
+    },
+    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "Chrome Hearted",
@@ -255,6 +367,26 @@
       "duration_ms": 136923,
       "name": "Chrome Hearted",
       "url": "https://open.spotify.com/track/4s7uuCPNCPl80WPzaD4cGh"
+    },
+    {
+      "added_at": "2023-09-29 04:00:51",
+      "album": {
+        "name": "3D (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
     },
     {
       "added_at": "2023-09-19 17:20:25",
@@ -381,22 +513,6 @@
       "url": "https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt"
     },
     {
-      "added_at": "2023-10-08 23:38:35",
-      "album": {
-        "name": "Normal People Things",
-        "url": "https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 164844,
-      "name": "Normal People Things",
-      "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
-    },
-    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "Kissing In Swimming Pools",
@@ -411,6 +527,22 @@
       "duration_ms": 287567,
       "name": "Kissing In Swimming Pools",
       "url": "https://open.spotify.com/track/6BIlXbxx0kRiUdnmX8L1I9"
+    },
+    {
+      "added_at": "2023-10-13 04:22:32",
+      "album": {
+        "name": "mad's world",
+        "url": "https://open.spotify.com/album/0tR2hMv1kGNWZpqbk7a3D5"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 194545,
+      "name": "mad's world",
+      "url": "https://open.spotify.com/track/1MZHbJsMBbq5P3Mq4xgu8G"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -577,22 +709,6 @@
       "url": "https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf"
     },
     {
-      "added_at": "2023-09-29 04:00:51",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "seven",
-      "url": "https://open.spotify.com/track/6KJqZcs9XDgVck7Lg9QOTC"
-    },
-    {
       "added_at": "2023-09-19 17:20:25",
       "album": {
         "name": "Lil Boo Thang",
@@ -753,42 +869,6 @@
       "url": "https://open.spotify.com/track/4PMdq7Q7xOFrY424ZelZEb"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Yours (feat. Bea Miller)",
-        "url": "https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        },
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 177188,
-      "name": "Yours (feat. Bea Miller)",
-      "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
-    },
-    {
-      "added_at": "2023-09-29 04:00:51",
-      "album": {
-        "name": "Diving Lessons",
-        "url": "https://open.spotify.com/album/40xtLenvoFDDtygmZl4THH"
-      },
-      "artists": [
-        {
-          "name": "Addison Grace",
-          "url": "https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap"
-        }
-      ],
-      "duration_ms": 199268,
-      "name": "Pessimistic",
-      "url": "https://open.spotify.com/track/0yNbpxj15mSWlfflOIqugk"
-    },
-    {
       "added_at": "2023-09-19 17:20:25",
       "album": {
         "name": "Single Soon",
@@ -931,26 +1011,6 @@
       "duration_ms": 175636,
       "name": "Crush",
       "url": "https://open.spotify.com/track/00Apys6jYrWA0Bse9Yon6O"
-    },
-    {
-      "added_at": "2023-09-19 17:20:25",
-      "album": {
-        "name": "On My Love",
-        "url": "https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 222911,
-      "name": "On My Love",
-      "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
     },
     {
       "added_at": "2023-09-19 17:20:25",
@@ -1187,26 +1247,6 @@
       "duration_ms": 278670,
       "name": "Call Your Mom (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
-    },
-    {
-      "added_at": "2023-09-19 17:20:25",
-      "album": {
-        "name": "My Love (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm"
-      },
-      "artists": [
-        {
-          "name": "Leigh-Anne",
-          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 176187,
-      "name": "My Love (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR"
     },
     {
       "added_at": "2023-09-19 17:20:25",
@@ -1535,22 +1575,6 @@
     {
       "added_at": "2023-09-19 17:20:25",
       "album": {
-        "name": "recently",
-        "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "duration_ms": 161929,
-      "name": "rises the moon",
-      "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
-    },
-    {
-      "added_at": "2023-09-19 17:20:25",
-      "album": {
         "name": "What It Is (Versions)",
         "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
       },
@@ -1631,26 +1655,6 @@
       "duration_ms": 150720,
       "name": "eyes don't lie",
       "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
-    },
-    {
-      "added_at": "2023-09-19 17:20:25",
-      "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 275986,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
     },
     {
       "added_at": "2023-09-19 17:20:25",

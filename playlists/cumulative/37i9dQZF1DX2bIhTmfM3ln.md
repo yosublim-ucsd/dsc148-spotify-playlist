@@ -4,7 +4,7 @@
 
 > Afrobeats love stories have the best beginnings
 
-345 songs - 17 hr 12 min
+346 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Medicine \(feat\. Maleek Berry & LADIPOE\)](https://open.spotify.com/track/0M8zgwFqNr6h2yX1405Z8S) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Medicine \(feat\. Maleek Berry & LADIPOE\)](https://open.spotify.com/album/0ozxicCrg2KTyabSeKWV2I) | 4:12 | 2022-11-18 | 2023-01-20 |
 | [Melody](https://open.spotify.com/track/5HMk6l89LGrGxG7hnlme1y) | [ginius](https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw), [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [Her Notions Since '97](https://open.spotify.com/album/6O0LMIl1QM7YBe4UP9Ofyw) | 2:23 | 2022-08-12 | 2022-08-26 |
 | [Mercedes](https://open.spotify.com/track/5yddpYI7Hwe7fQv2NLg7l1) | [Samba Peuzzi](https://open.spotify.com/artist/4jXLwmp2AhoxoaPr14fagb), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Mercedes](https://open.spotify.com/album/3qZWv38DiTCaImDx6ylRed) | 3:22 | 2023-01-27 | 2023-03-04 |
+| [Messi](https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [7 SEAS](https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc) | 3:06 | 2023-10-13 |  |
 | [Mine Alone](https://open.spotify.com/track/4fnxxV0RRzHLaMHBAp4FCe) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:07 | 2022-09-30 | 2023-02-26 |
 | [MISS UNIVERSE](https://open.spotify.com/track/6rOY9kHJxwJCNMqsqd2LUO) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Dumey](https://open.spotify.com/artist/0OEKjS8wv0c1cdc9ogqjFz) | [MISS UNIVERSE](https://open.spotify.com/album/2F4eqhwtKRJtq4B8slZoTO) | 4:14 | 2022-09-15 | 2022-10-14 |
 | [mmadu](https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:16 | 2023-01-13 | 2023-06-16 |

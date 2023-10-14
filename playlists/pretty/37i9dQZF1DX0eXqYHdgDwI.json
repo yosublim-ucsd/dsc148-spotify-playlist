@@ -1,12 +1,12 @@
 {
   "description": "canzoni su cui piangere \ud83e\udd40",
-  "num_followers": 107438,
+  "num_followers": 107499,
   "original_name": "Canzoni Tristi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmMyYmY2ZmYyMzQ5MmUzNmEwMDI0Zjc4ZTdkMTU0NmIxNjljYmQx",
+  "snapshot_id": "MCwyOTg4NDA3ODBmYjYwMGJjZGFlYWM1Mjk5ODYxZjA2NTU3MzE1MWEw",
   "tracks": [
     {
       "added_at": "2023-08-18 08:27:31",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-08-18 08:27:31",
       "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/7FqJvfHEUv3vbv9FZhpsgW"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/226PUvIuxGdceSijXXZRRz"
+    },
+    {
+      "added_at": "2023-08-18 08:27:31",
+      "album": {
         "name": "The Joker And The Queen (feat. Taylor Swift)",
         "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
-    },
-    {
-      "added_at": "2023-08-18 08:27:31",
-      "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/7FqJvfHEUv3vbv9FZhpsgW"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/226PUvIuxGdceSijXXZRRz"
     },
     {
       "added_at": "2023-08-18 08:27:31",

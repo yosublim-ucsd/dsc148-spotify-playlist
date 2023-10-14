@@ -2,9 +2,9 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Avenged Sevenfold
+> Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Judas Priest
 
-740 songs - 2 day 6 hr 55 min
+742 songs - 2 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Ashes to Ashes](https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [The Final Battle](https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy) | 3:53 | 2022-10-21 | 2022-11-21 |
 | [Astorolus \- the Great Octopus](https://open.spotify.com/track/7v6DwMJy1kPV874CfuN1mY) | [Candlemass](https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5) | [Astorolus \- the Great Octopus](https://open.spotify.com/album/4XrIy3GrY9wdXMgiBEmj37) | 6:42 | 2022-01-14 | 2022-06-27 |
 | [At the End of the Rainbow](https://open.spotify.com/track/1dPLUFDn4ZnmCQRslS6vMm) | [Enforcer](https://open.spotify.com/artist/6nQ7NZbr43lnKpLYBvLf7A) | [At the End of the Rainbow](https://open.spotify.com/album/3JYX12KjroniwQ9KN9ChAw) | 3:21 | 2021-12-17 | 2022-07-28 |
-| [Atonement](https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Atonement](https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV) | 3:57 | 2022-03-25 |  |
+| [Atonement](https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Atonement](https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV) | 3:57 | 2022-03-25 | 2023-10-14 |
 | [Avernal Gate](https://open.spotify.com/track/2XdUaiSuEVgSvNjTirgvfj) | [Khemmis](https://open.spotify.com/artist/5Dejhd4zYKEUm6q1FLr1ik) | [Deceiver](https://open.spotify.com/album/6Cuy7vHasodpVWwo9fVs5B) | 7:10 | 2022-03-22 | 2022-04-02 |
 | [Back to the Rhythm](https://open.spotify.com/track/6AhyAj8E1JyYcY3VR3K7M2) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Back to the Rhythm](https://open.spotify.com/album/6JsuY2qnJQd0QPRiCar8K0) | 4:11 | 2022-04-08 | 2022-07-29 |
 | [Bad Company](https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 4:22 | 2023-05-26 |  |
@@ -309,7 +309,7 @@
 | [I Will Be Heard](https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Perseverance](https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG) | 2:58 | 2022-08-19 |  |
 | [I'll Be Your Hero \- Single Edit](https://open.spotify.com/track/5dwI4Uips5iK1Q7q0vAcHU) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [I'll Be Your Hero](https://open.spotify.com/album/5smEbdNLzzhh7WdBmW5rtJ) | 4:12 | 2021-12-17 | 2022-06-14 |
 | [Icon of Sin](https://open.spotify.com/track/5g64OWLbV0DFtLGCxOFmAo) | [Icon of Sin](https://open.spotify.com/artist/1Pr3Zk2s1bZpX2WVkKdmkP) | [Icon of Sin](https://open.spotify.com/album/5NYtZtQ2T687s5qhLTOlSa) | 5:47 | 2021-12-17 | 2022-07-04 |
-| [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-04-14 |  |
+| [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-04-14 | 2023-10-14 |
 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 | 2023-04-17 |
 | [If I Can't Have You \- No One Will \(feat\. Johan Hegg\)](https://open.spotify.com/track/658hbUMUk7jcYpSqAOhX28) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl), [Johan Hegg](https://open.spotify.com/artist/468XobaUhrILLXnYCv013o) | [If I Can't Have You \- No One Will \(feat\. Johan Hegg\)](https://open.spotify.com/album/5n2FbYAZQzVYUw6aFMYu7v) | 5:09 | 2021-12-17 | 2022-04-15 |
 | [If Not for You](https://open.spotify.com/track/0YErfApccjJFLU9KvVd0Lv) | [Tremonti](https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00) | [Marching in Time](https://open.spotify.com/album/0kxRp8FlcQ0Sx2edzWzEGe) | 4:10 | 2022-07-13 | 2022-07-29 |
@@ -457,6 +457,7 @@
 | [Over the Horizon Radar](https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Over the Horizon Radar](https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss) | 5:23 | 2022-07-08 | 2022-07-22 |
 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 | 2022-02-11 |  |
 | [Paint the Sky with Blood](https://open.spotify.com/track/7j0DSyekwDBBkAesbD5bzH) | [Bodom After Midnight](https://open.spotify.com/artist/1pK4DWtAsZ6KSlIPwijXvG) | [Paint the Sky with Blood](https://open.spotify.com/album/6TMCI01byEtKKnGZHuzFUe) | 4:26 | 2021-12-17 | 2022-07-29 |
+| [Panic Attack](https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Panic Attack](https://open.spotify.com/album/02DtysqFzSbWAfptGA7mec) | 5:25 | 2023-10-13 |  |
 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 | 2023-04-14 | 2023-05-13 |
 | [Paranoid](https://open.spotify.com/track/4MSqgoFS7e8LpsxeeMMVMu) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Ultimate Collection](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) | 2:48 | 2022-11-04 | 2022-11-14 |
 | [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 | 2022-08-19 |  |
@@ -662,6 +663,7 @@
 | [To Hell and Back](https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Heroes](https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7) | 3:26 | 2022-08-19 |  |
 | [Together We Rise](https://open.spotify.com/track/4Asn26WKTDwVEx5sJrEc8T) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [Together We Rise](https://open.spotify.com/album/2DAqWZXEeZkdWkfgOCek8V) | 5:02 | 2022-05-06 | 2022-08-12 |
 | [Tomorrow's No Concern](https://open.spotify.com/track/1PFKsXase0JFt1KVH6qm5P) | [Dee Snider](https://open.spotify.com/artist/2pD123sZTm8brthWviUKlQ) | [Tomorrow's No Concern](https://open.spotify.com/album/3fSFfYaGtMMhNDGHTiVyJX) | 3:19 | 2021-12-17 | 2022-07-09 |
+| [Too Far Gone?](https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 4:33 | 2023-10-13 |  |
 | [Too Mean to Die](https://open.spotify.com/track/2qxqY65LHkd4UbZtRAZKIN) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Too Mean to Die](https://open.spotify.com/album/1Ua7bczSzWunvSHJQ44tQD) | 4:21 | 2022-07-08 | 2022-08-20 |
 | [Too Mean to Die](https://open.spotify.com/track/5BM618dNRZxN40mCCMFjP0) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Too Mean to Die](https://open.spotify.com/album/5dbzbQ2Lx9oTwSvHyfKheq) | 4:21 | 2021-12-17 | 2022-07-29 |
 | [Transcendence](https://open.spotify.com/track/7rMMabpzaaPSAqWq2ctQZA) | [Pyramaze](https://open.spotify.com/artist/23jSIm8VfKV2HaQJtfR3PK), [Brittney Slayes](https://open.spotify.com/artist/47gDQfHce3BxdKGzAbI9v0) | [Epitaph](https://open.spotify.com/album/0WjqWNehSwmLwREiaebwQo) | 4:17 | 2021-12-29 | 2022-04-17 |

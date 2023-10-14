@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-61 songs - 7 hr 14 min
+62 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Cold Drop](https://open.spotify.com/track/4Fckl9iBwYjLpZHdH9FdbV) | [Tentura](https://open.spotify.com/artist/6BQ1BhtrM8AesrBYpsoNRj) | [Fall](https://open.spotify.com/album/2MEEwrnlPtRMphH55rp3nI) | 10:36 | 2023-08-10 |  |
 | [Disconnect](https://open.spotify.com/track/0wnuB7yelcWO4OnlB8JMCP) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE), [Hannah Noelle](https://open.spotify.com/artist/1lE36WexHt1gmXkxRt6DYC) | [Disconnect](https://open.spotify.com/album/4G5L6HfKeGP5pFoMRUYzOV) | 7:07 | 2023-08-10 |  |
 | [Dusk](https://open.spotify.com/track/6RAH1GzmFzMgEsNYxHwSyr) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Dusk](https://open.spotify.com/album/4AlP7d5GNEl7h00l6XvkAo) | 3:54 | 2023-09-06 |  |
-| [Embrace Me Now \- Techno Radio Edit](https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Embrace Me Now](https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70) | 3:12 | 2023-08-10 |  |
+| [Embrace Me Now \- Techno Radio Edit](https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Embrace Me Now](https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70) | 3:12 | 2023-08-10 | 2023-10-14 |
 | [EYES](https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [EYES](https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO) | 3:32 | 2023-08-10 |  |
 | [Fading](https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I) | 4:27 | 2023-08-10 |  |
 | [Freie Sicht feat\. Acud \- Tal Fussman Remix](https://open.spotify.com/track/5jjM09V3op14MffQeJeXAN) | [Oberst & Buchner](https://open.spotify.com/artist/6c6I6loLZeoagmF9nfAXJw), [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb), [Acud](https://open.spotify.com/artist/6nkfC5ET7sPeZHTZN5X78N) | [Freie Sicht feat\. Acud](https://open.spotify.com/album/0DFeLHLXOOW6jCUB77FUq0) | 5:52 | 2023-08-10 |  |
@@ -37,6 +37,7 @@
 | [Humans](https://open.spotify.com/track/5fm9CYWfh1FVOEmdZrqcTz) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Magical Signs / Humans](https://open.spotify.com/album/7pXHM8pLfASnm2NqIqFaKf) | 6:18 | 2023-08-10 |  |
 | [Impossible \- &ME Remix](https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Impossible \(&ME Remix\)](https://open.spotify.com/album/4HmgIUcdgMfWDJYQdxhy6o) | 9:15 | 2023-08-10 |  |
 | [Inside My Head](https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Inside My Head](https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc) | 6:59 | 2023-09-06 |  |
+| [Intuition](https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Intuition](https://open.spotify.com/album/2kORg46W2CuossZxEm5qOO) | 3:23 | 2023-10-13 |  |
 | [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 | 2023-08-10 |  |
 | [Killer Machine](https://open.spotify.com/track/6Y0s43nhtwwjhkbkMFOgE6) | [Indra](https://open.spotify.com/artist/3sH57C4p0KSpzkh5uY0bK6) | [Killer Machine](https://open.spotify.com/album/5tbyLz98nz0uYmfgdSZnwu) | 6:30 | 2023-08-10 |  |
 | [Kua \- Original Mix](https://open.spotify.com/track/7hUZJ8lupDInaXfbNLsdC8) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Kua](https://open.spotify.com/album/0SsNWOTQmf6rUjoa6w9waM) | 6:25 | 2023-08-10 |  |

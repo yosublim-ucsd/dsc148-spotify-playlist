@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "Christmas Wish",
+        "url": "https://open.spotify.com/album/1HfHKTJRTvwjvSRi865iNv"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234341,
+      "name": "Christmas Wish",
+      "url": "https://open.spotify.com/track/6WARQvk8lSlBv7HTWpFpFv"
+    },
+    {
+      "album": {
         "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM"
       },

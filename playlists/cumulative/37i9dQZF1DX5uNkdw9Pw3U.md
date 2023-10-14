@@ -4,7 +4,7 @@
 
 > Tough crowd.
 
-112 songs - 6 hr 34 min
+113 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Avenue](https://open.spotify.com/track/7b7vlu6R3ww0Hzvz50GQDh) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I) | [Avenue](https://open.spotify.com/album/3xCkKt8x3YWLpEMOVLX7vx) | 3:16 | 2022-11-17 | 2023-06-04 |
 | [Blue Lights](https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:10 | 2022-11-17 |  |
 | [Booty](https://open.spotify.com/track/0LGrFyVEM5qc9W5BOTEJ5z) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [Canto](https://open.spotify.com/artist/0IfFGR3deyYYoBzXsz3dWN) | [Booty](https://open.spotify.com/album/1wZUA48qppx695AaNY97a4) | 2:20 | 2022-11-17 | 2023-10-06 |
-| [Burn Out](https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:19 | 2022-11-17 |  |
+| [Burn Out](https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:19 | 2022-11-17 | 2023-10-14 |
 | [Care for You](https://open.spotify.com/track/3cW7ETAXGDAM2aNN45DuNq) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Dancing Shadows](https://open.spotify.com/album/2DEpDHpIuQbCsLy0rKyhaI) | 3:32 | 2022-11-17 |  |
 | [Change \(with Kehlani\)](https://open.spotify.com/track/2qhId6ko1ug9A0mw8BQJs8) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Phases II \- EP](https://open.spotify.com/album/6VIjrQlk9cTrufxWJX8pi1) | 3:12 | 2022-11-17 |  |
 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 | 2022-11-17 |  |
@@ -34,6 +34,7 @@
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-11-17 |  |
 | [Fall into place](https://open.spotify.com/track/0f6kT8WozcmtkenxnhDbp6) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Fall into place](https://open.spotify.com/album/6H9LrowBd43bph6WF3NKxo) | 2:48 | 2023-05-04 |  |
 | [gangster romanse \(feat\. Magdi\)](https://open.spotify.com/track/1ftdrKxNslW2b60trc2inw) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Magdi](https://open.spotify.com/artist/37TkImYSoPGZ9LDo0Frf2J) | [sukkerspinn & hodepine \(Del 2\)](https://open.spotify.com/album/1liGHJczFXltMS2R4kqV8R) | 2:43 | 2022-11-17 | 2023-10-02 |
+| [gangster romanse \(feat\. Magdi\)](https://open.spotify.com/track/1wYNkGybIdmnXFtTM7sS9C) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Magdi](https://open.spotify.com/artist/37TkImYSoPGZ9LDo0Frf2J) | [sukkerspinn & hodepine \(Del 2\)](https://open.spotify.com/album/1VMrZTOpnA6v86LaR8YST0) | 2:43 | 2023-10-12 |  |
 | [Hair Down \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/4QiyTGoMBRz4AHbsPYgiRc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Chasing Summer](https://open.spotify.com/album/7yd9HHhG8MvhJ1ksT3InDF) | 3:36 | 2023-07-06 |  |
 | [Hair Down \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/5nh0W1TTi4LxxxVYAVJCh1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Hair Down \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/4rgYc1sBdFQg2bOJvXSd2I) | 3:36 | 2022-11-17 | 2023-08-26 |
 | [Heart Don't Stand a Chance](https://open.spotify.com/track/25GlFJq5QNAXyVgJvCZ4Mf) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 5:12 | 2022-11-17 |  |

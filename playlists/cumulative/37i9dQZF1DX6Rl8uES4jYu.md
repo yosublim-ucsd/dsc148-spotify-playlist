@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-405 songs - 22 hr 47 min
+406 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Dynamite](https://open.spotify.com/track/5J4CkTyZitaJ0L0X5kSoJr) | [Jackson Breit](https://open.spotify.com/artist/4Y6wyjvVZtxzzXILoDEulZ), [Carneyval](https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ), [Alex Ghenea](https://open.spotify.com/artist/1mGISDumAyOoK6epKA8gq1) | [Dynamite](https://open.spotify.com/album/33lLqNPDlSDWWbnEFFPgja) | 2:56 | 2021-09-21 | 2022-06-15 |
 | [Earworm](https://open.spotify.com/track/6rp0Q5ptNjERiSPe4yATSl) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Earworm](https://open.spotify.com/album/0GBVpcsUU2nzeOLHQ0sirl) | 2:24 | 2022-12-02 | 2023-01-01 |
 | [Earworm](https://open.spotify.com/track/3cc1BbtqEBbmBvXcmqdwBa) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 2:24 | 2022-12-02 |  |
-| [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2022-04-22 |  |
+| [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2022-04-22 | 2023-10-14 |
 | [Easy](https://open.spotify.com/track/2ipglkB6dSUbv9yePOI5r9) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Who?](https://open.spotify.com/album/0B6zhl08QLXwQg2eBXofCx) | 2:58 | 2022-04-22 |  |
 | [Electric](https://open.spotify.com/track/1ixBWXSofFhf5Oa9GdoF4O) | [Madison Watkins](https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT) | [Electric](https://open.spotify.com/album/6lSKp6TouQtfZAduv7gLaj) | 2:53 | 2022-09-02 | 2023-06-24 |
 | [Elgin Towers](https://open.spotify.com/track/5s46ultSkIt3ruLBKma9ab) | [Smoove & Turrell](https://open.spotify.com/artist/2H1QvrzVgcOKPRpYF8xDUn) | [Stratos Bleu](https://open.spotify.com/album/2KPQAbH2GD5TfneiMx8pOE) | 4:32 | 2021-04-30 | 2022-04-19 |
@@ -360,6 +360,7 @@
 | [This Moment](https://open.spotify.com/track/5N2HumJKAELVA5fCzvKL0Q) | [Jay.Keyz](https://open.spotify.com/artist/735Dj0ds517E8X1uPiJ35s) | [This Moment](https://open.spotify.com/album/0i49LwOl5ZKvIBdMh1Kouf) | 3:02 | 2021-05-14 | 2022-07-29 |
 | [Those Days Are Gone](https://open.spotify.com/track/3lca4MeFGxOtgePnb168n3) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa), [Johnny Cattini](https://open.spotify.com/artist/1NTNDi3hpUfwBPz3taaaCv), [connor](https://open.spotify.com/artist/7DdiQ4GtU0voZdZKPzFKFl) | [Those Days Are Gone](https://open.spotify.com/album/1ZKAMOLSajYmjRH4ZHCsKK) | 5:04 | 2020-12-08 | 2022-03-26 |
 | [Til' The End](https://open.spotify.com/track/637xhnFza81m9ZAXTOYFkI) | [Dupont Brass](https://open.spotify.com/artist/0k65PL08B1OYc76Wlh2hjT) | [Til' The End](https://open.spotify.com/album/1pTYH3a3ZhOWjKWnLrNLC8) | 4:13 | 2020-11-13 | 2022-03-23 |
+| [Time Out](https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [PANIC](https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ) | 3:41 | 2023-10-13 |  |
 | [TIP OF THE FLAME \- 12" DISCO MIX](https://open.spotify.com/track/1rtL8tDWsIWhRjuOONau7r) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [TIP OF THE FLAME \(12" DISCO MIX\)](https://open.spotify.com/album/7B4L0vrNdIShUKOqwcM8mO) | 5:57 | 2023-02-17 | 2023-02-19 |
 | [Tip Of The Flame \- 12" Disco Mix](https://open.spotify.com/track/67DpsCMB560OVTv3EfztzW) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Tip Of The Flame \(12" Disco Mix\)](https://open.spotify.com/album/6QoIPnSuTwSMWoWjoqtiCD) | 5:57 | 2023-02-17 | 2023-05-13 |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-03-11 | 2023-02-18 |

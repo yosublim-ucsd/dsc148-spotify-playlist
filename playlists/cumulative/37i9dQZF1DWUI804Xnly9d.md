@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-196 songs - 11 hr 4 min
+197 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Khwab \- Reprise](https://open.spotify.com/track/1qPvV2Esdu9oenN7vXzlys) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Khwab \(Reprise\)](https://open.spotify.com/album/7tuLM0Hbw6XZcMSeRACoMc) | 2:27 | 2023-06-02 | 2023-08-04 |
 | [Khwaish](https://open.spotify.com/track/6wC3qTwNrty90JM9WXP0K6) | [Arshit](https://open.spotify.com/artist/224EYKBELbeX1n7R5fxnjP), [Luvdeep Saini Aka LDS](https://open.spotify.com/artist/09IBw62SGjjIOhl47qfnHs), [Sahil Randhawa](https://open.spotify.com/artist/47BLm9E1Q3mqdmzmqOvoU9) | [Khwaish](https://open.spotify.com/album/0QKrdsQcRuGXhqUIeIGfFs) | 3:46 | 2023-06-02 | 2023-07-08 |
 | [Kivein Mukhade](https://open.spotify.com/track/7FFfdpjbckpKidr7AoLLPE) | [Harjot K Dhillon](https://open.spotify.com/artist/0OR1HFAannTqpzRH4Efq5Z) | [Kivein Mukhade](https://open.spotify.com/album/7dK1nmyjIuvBb1OZEpZlL8) | 2:21 | 2023-07-07 | 2023-09-30 |
+| [Koi Matlab Nahi](https://open.spotify.com/track/44UJTphbSUJX2K7Ba6KBtm) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Doie](https://open.spotify.com/artist/61WxZKiXbPoi7rMp1beJf6) | [Koi Matlab Nahi](https://open.spotify.com/album/2VDW1QYt24MvQL92aqP6hM) | 2:57 | 2023-10-13 |  |
 | [Kuch ghadi aur](https://open.spotify.com/track/3pwYsNSjZNzcp9wOt28gVI) | [Samiir](https://open.spotify.com/artist/6E4rMwXlr9mQh5BbSlw3oR), [Avanish Bhalla](https://open.spotify.com/artist/5RJvc3CEkxK4WVkeKzu9Dc) | [Kuch ghadi aur](https://open.spotify.com/album/6PD8Mtm1k4teXgjIY2QPRw) | 4:08 | 2023-07-28 | 2023-09-26 |
 | [Kuch Kam](https://open.spotify.com/track/3sHxLZsqf3wGMMm80O0mWM) | [Rahul Pandey](https://open.spotify.com/artist/6nZs8OAaiWEGqNJsKTK7Vq) | [Kuch Kam](https://open.spotify.com/album/2bC8qwPlpC8CO1YpppXczb) | 2:32 | 2023-05-17 | 2023-07-13 |
 | [Kya Bataya](https://open.spotify.com/track/0IRw2VTYgLk4HxyEpuyRcY) | [Vicky sandhu](https://open.spotify.com/artist/3vYjrjW80Bsa4lKBNIYZVT) | [Kya Bataya](https://open.spotify.com/album/3WAWqQ41mCyBGusm4Fhrzt) | 3:34 | 2023-07-07 | 2023-07-18 |
@@ -185,7 +186,7 @@
 | [Tu Jae Jahan](https://open.spotify.com/track/1X0ZbfKmPJHNCy385PH7z9) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Tu Jae Jahan](https://open.spotify.com/album/1xi3ZzJ6rzFeTCvSaU1flo) | 2:55 | 2023-06-20 | 2023-07-20 |
 | [Tu Jo Paas \(Raw\)](https://open.spotify.com/track/3i8GG9i2cUpNDIitAJ533b) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Jo Paas \(Raw\)](https://open.spotify.com/album/6UUAbYF6ooSr9rqqW7rceU) | 3:34 | 2023-07-07 |  |
 | [Tu Jo Yahan](https://open.spotify.com/track/1fULK4j53eq4WKcf3HM49K) | [Sreejone](https://open.spotify.com/artist/5Gc5Dav4w12nqmXwFce9Ik), [Musiciankur](https://open.spotify.com/artist/7zO6WL2IncO3uF24faEIXo) | [Tu Jo Yahan](https://open.spotify.com/album/3P9fCFad8hbkKU8GXCC4cC) | 3:06 | 2023-07-24 |  |
-| [Tu Shaam aur Chai](https://open.spotify.com/track/4qpvCNIUdfT2ND2HEisUcZ) | [Shadaab Hashmi](https://open.spotify.com/artist/6yNEY8VOMEzsD2bQZJdqEl) | [Tu Shaam aur Chai](https://open.spotify.com/album/6ozGN0Q1iT85gOGAUw3jQU) | 2:31 | 2023-08-08 |  |
+| [Tu Shaam aur Chai](https://open.spotify.com/track/4qpvCNIUdfT2ND2HEisUcZ) | [Shadaab Hashmi](https://open.spotify.com/artist/6yNEY8VOMEzsD2bQZJdqEl) | [Tu Shaam aur Chai](https://open.spotify.com/album/6ozGN0Q1iT85gOGAUw3jQU) | 2:31 | 2023-08-08 | 2023-10-14 |
 | [Tujhsa Koi](https://open.spotify.com/track/6jaqvNjr73noLIQ9kh29uc) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey) | [Tujhsa Koi](https://open.spotify.com/album/6lwcv8iowg548rs9MH0v2p) | 2:51 | 2023-09-21 |  |
 | [Tum Aur Main](https://open.spotify.com/track/29O6kviQMumVmWZDO14QSB) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Tum Aur Main](https://open.spotify.com/album/3uP0bCOGPkGSPKzfN3tJyU) | 2:43 | 2023-07-19 |  |
 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 | 2023-09-22 |  |

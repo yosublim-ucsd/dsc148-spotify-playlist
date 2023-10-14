@@ -884,7 +884,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 201480,
       "name": "Deadicated",
       "url": "https://open.spotify.com/track/7BaipfgQs3gWGjttLAt8wN"
@@ -1901,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "IF I DIE RIGHT NOW",
+        "url": "https://open.spotify.com/album/4cAgvy7ZjVP0SxreZZulHI"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161921,
+      "name": "IF I DIE RIGHT NOW",
+      "url": "https://open.spotify.com/track/2rIHvbvMbiQ2pjotR2rZpX"
+    },
+    {
+      "album": {
         "name": "IF I STOP NOW",
         "url": "https://open.spotify.com/album/0A47WlEya9WQaB0XwtaTx8"
       },
@@ -2148,6 +2166,28 @@
       "duration_ms": 233513,
       "name": "Life Support",
       "url": "https://open.spotify.com/track/1vERyqgnr9u4BnbLTKFNq6"
+    },
+    {
+      "album": {
+        "name": "Life Of The Party",
+        "url": "https://open.spotify.com/album/6XkmlhDX3zlEpd6J5m6CQo"
+      },
+      "artists": [
+        {
+          "name": "Toure",
+          "url": "https://open.spotify.com/artist/1OXhvSQDWPFqq6v2bhY17X"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159771,
+      "name": "Lifestyle Vicious",
+      "url": "https://open.spotify.com/track/7JCR3o72lk90eWwvr0cwdq"
     },
     {
       "album": {
@@ -2420,7 +2460,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 177941,
       "name": "Me First",
       "url": "https://open.spotify.com/track/5hT0mnDTVjyIsnBjXc3X0Q"
@@ -2968,7 +3008,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 161918,
       "name": "Patience (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7ci1R1e89Zw0HumjHSN5XF"
@@ -3290,6 +3330,28 @@
       "duration_ms": 130000,
       "name": "Remember",
       "url": "https://open.spotify.com/track/1fTX9XyVl9lhFO928pJubY"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/475bx5gQq2PATODjuDmXJ8"
+      },
+      "artists": [
+        {
+          "name": "SheedTs",
+          "url": "https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176027,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/47AnQOnGJsW36cWmYtKB5u"
     },
     {
       "album": {

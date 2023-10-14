@@ -1,13 +1,93 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 983140,
+  "num_followers": 982235,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjY3OWMzYzQxNmRiMmIwOGE4YzIxYjE1NzRhYjQwYWU5NGIyZmFj",
+  "snapshot_id": "MCwyNDAyMWZiMGNlYTk3ZDdiY2ZiOTk3ZGMyNGViMjlmOThlODA5MmU0",
   "tracks": [
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Before We Step Inside",
+        "url": "https://open.spotify.com/album/4nXC12lYgRlswGeLUumBJb"
+      },
+      "artists": [
+        {
+          "name": "Charlie Burg",
+          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+        }
+      ],
+      "duration_ms": 134268,
+      "name": "Before We Step Inside",
+      "url": "https://open.spotify.com/track/6bxfwQ5z8qe2uoEOiO35YG"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Red Sky Continued",
+        "url": "https://open.spotify.com/album/3iguCKsubREAOrpyG0wcoZ"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 218229,
+      "name": "I Get It Now",
+      "url": "https://open.spotify.com/track/0bgkFYeUHHu3ANzPwvGUgH"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Proof Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 171700,
+      "name": "Black Car",
+      "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3iGBGOKL0eH0MjBZHHN4qU"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3D4XjhkvYU3F89G9Elok5T"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Mirror (Deluxe)",
+        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175550,
+      "name": "Sad Forever",
+      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
+    },
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
@@ -223,8 +303,8 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/11p55BSOZRJ6NvNuycreEl"
+        "name": "The Things I Left Unsaid",
+        "url": "https://open.spotify.com/album/2MbohPX2P1ms4RjAo9X0iW"
       },
       "artists": [
         {
@@ -234,7 +314,7 @@
       ],
       "duration_ms": 184746,
       "name": "Empty Room",
-      "url": "https://open.spotify.com/track/4ZIfi9sghAcESLhBFvbxHc"
+      "url": "https://open.spotify.com/track/3rhWu9LLv0LleWbO9LuQrO"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -623,22 +703,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "High Fives",
-        "url": "https://open.spotify.com/album/79lVizUrAQGC343JO79ot2"
-      },
-      "artists": [
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        }
-      ],
-      "duration_ms": 258092,
-      "name": "High Fives",
-      "url": "https://open.spotify.com/track/5oI4N7WB9KjwoRLllhmwqC"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "For When It Hurts",
         "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
       },
@@ -887,22 +951,6 @@
       "duration_ms": 243520,
       "name": "Go Getter",
       "url": "https://open.spotify.com/track/4SuT3gebBDQuDgfmkMsjzn"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Can You Believe",
-        "url": "https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 235531,
-      "name": "Can You Believe",
-      "url": "https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1177,26 +1225,6 @@
       "url": "https://open.spotify.com/track/3b5MPNYlX8ztJowxAwzTai"
     },
     {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Many Rivers To Cross",
-        "url": "https://open.spotify.com/album/5hNrnNHh2fWcDQmeJ44cbC"
-      },
-      "artists": [
-        {
-          "name": "EJ Worland",
-          "url": "https://open.spotify.com/artist/5nMHRjG7zxYLDC5vIpI5N8"
-        },
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Many Rivers To Cross",
-      "url": "https://open.spotify.com/track/6xOgpQ7vLQLA5PF2rg6XIp"
-    },
-    {
       "added_at": "2023-09-01 04:01:00",
       "album": {
         "name": "You're So You",
@@ -1259,38 +1287,6 @@
       "duration_ms": 213248,
       "name": "So Easy",
       "url": "https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/7sFLLJXz8uVbEvnbTwNGI1"
-      },
-      "artists": [
-        {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
-        }
-      ],
-      "duration_ms": 209218,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/2E5pFaZicddHQmFcgu6xVb"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Proof Of Life",
-        "url": "https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 236291,
-      "name": "Somebody Like Me",
-      "url": "https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq"
     },
     {
       "added_at": "2023-05-12 04:00:00",

@@ -4,7 +4,7 @@
 
 > The most calming Christmas carols.
 
-72 songs - 3 hr 59 min
+73 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [The Lamb](https://open.spotify.com/track/1iUNUV6RiPrwKTKJjNQb5B) | [John Tavener](https://open.spotify.com/artist/45ff9QmiC1LkmDPk5TBN21), [The Temple Church Choir](https://open.spotify.com/artist/76tVWIYmmTAVFQ2TdOt3TM), [Stephen Layton](https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o) | [The John Tavener Collection](https://open.spotify.com/album/1xe1KTfrLW7g9cjNVKTdhX) | 3:33 | 2022-12-05 |  |
 | [The Oxen](https://open.spotify.com/track/1zPv5KR8byLsf3756onjPh) | [Tenebrae](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD), [Nigel Short](https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN) | [What Sweeter Music: Songs and Carols for Christmas](https://open.spotify.com/album/1TsZm9UbZaVYA9x24qsKuQ) | 2:55 | 2022-12-05 |  |
 | [The Shepherds' Cradle\-Song \(arr\. Charles Macpherson\)](https://open.spotify.com/track/49F2loxneIjbAo57sgwjQY) | [Charles Macpherson](https://open.spotify.com/artist/1cflGQ44qeN0izEVSPU4zW), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Tewkesbury Abbey Choir](https://open.spotify.com/artist/4NOFolaAMP4kBDVq8GwEfQ), [Andrew Sackett](https://open.spotify.com/artist/2Q4Ge9DEARr3PU0lCHb6kz) | [Christmas Carols From Tewkesbury Abbey](https://open.spotify.com/album/1BCTTrLVeS68wGHvkj3zag) | 3:43 | 2022-12-05 |  |
+| [The Sleeping Child](https://open.spotify.com/track/5Yy7htu9WwJbB3yfRXNt1q) | [Bob Chilcott](https://open.spotify.com/artist/5Q2lvqropyKbugryLHx8e7), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Chilcott: The Sleeping Child](https://open.spotify.com/album/2Ul5o881ZwkFPll6XkNMYc) | 3:22 | 2023-10-13 |  |
 | [The Stable Door](https://open.spotify.com/track/0AkU2CTTrrLxTWqhzCdfkO) | [Cecil Armstrong Gibbs](https://open.spotify.com/artist/5hrypd0adAHTj2JSBs2CvU), [Vasari Singers](https://open.spotify.com/artist/2QInYkK0ys9Uj6aa0n8XFx), [Jeremy Backhouse](https://open.spotify.com/artist/53briF9i45bOTMyBWWkmzy) | [A Winter's Light: A Christmas Collection](https://open.spotify.com/album/5Mdv6Guj9j0nOqDGPV4KN4) | 2:24 | 2022-12-05 |  |
 | [The Truth From Above \(arr\. R.V\. Williams\)](https://open.spotify.com/track/7j9scuNhYqSWassnA3hfw9) | [Ralph Vaughan Williams](https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Tewkesbury Abbey Choir](https://open.spotify.com/artist/4NOFolaAMP4kBDVq8GwEfQ), [Andrew Sackett](https://open.spotify.com/artist/2Q4Ge9DEARr3PU0lCHb6kz) | [Christmas Carols From Tewkesbury Abbey](https://open.spotify.com/album/1BCTTrLVeS68wGHvkj3zag) | 3:04 | 2022-12-05 |  |
 | [The Work of Christmas](https://open.spotify.com/track/0wlq4qRLZ7AwAlLBSCXrDF) | [Dan Forrest](https://open.spotify.com/artist/2rQzS4iX6bEMlrO4noTwIX), [The Ebor Singers](https://open.spotify.com/artist/0wjlGo6utxuSBJtSrg1hv3), [Paul Gameson](https://open.spotify.com/artist/7AiOZrlfN1ZDzH1suwyIgn) | [The Work of Christmas](https://open.spotify.com/album/3u3cZHZI7COv1IrUFolmYv) | 3:49 | 2022-12-05 |  |

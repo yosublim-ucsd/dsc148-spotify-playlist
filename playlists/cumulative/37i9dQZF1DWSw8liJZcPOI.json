@@ -2996,7 +2996,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 201181,
       "name": "For You",
       "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
@@ -5660,6 +5660,24 @@
       "duration_ms": 285711,
       "name": "pause (almost equal to) play",
       "url": "https://open.spotify.com/track/4LB8iSej8QryIZ3Vk0XNmS"
+    },
+    {
+      "album": {
+        "name": "Peaceful Music (Three)",
+        "url": "https://open.spotify.com/album/3toMJlJjsS6eV768AdGXtk"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166958,
+      "name": "Peaceful Music (Three)",
+      "url": "https://open.spotify.com/track/2hQQSxIxbJyiLSsDvrLJmp"
     },
     {
       "album": {

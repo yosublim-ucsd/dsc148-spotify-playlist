@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,524 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,521 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,14 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 68 | [Malvadão 3](https://open.spotify.com/track/0NBgyml7T0IvUNbXIkcSpH) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Malvadão 3](https://open.spotify.com/album/1XrBVMRctpsTGw189yBIsl) | 2:21 |
 | 69 | [DANÇARINA](https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 1:50 |
 | 70 | [MORENA](https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [MORENA](https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv) | 3:13 |
-| 71 | [Kikando e Me Olhando](https://open.spotify.com/track/4a0sqvCBo7aRIS4GzBQpnp) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [Dj Win](https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG) | [Kikando e Me Olhando](https://open.spotify.com/album/0f8qsGhJ3RZf4ol3YqIuMw) | 3:30 |
-| 72 | [Alma Nua](https://open.spotify.com/track/6qqCZliorzZbHI6HWM02g1) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Alma Nua](https://open.spotify.com/album/4c3RFBaJWDJqwTJ5gLUz8p) | 3:23 |
+| 71 | [Alma Nua](https://open.spotify.com/track/6qqCZliorzZbHI6HWM02g1) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Alma Nua](https://open.spotify.com/album/4c3RFBaJWDJqwTJ5gLUz8p) | 3:23 |
+| 72 | [Kikando e Me Olhando](https://open.spotify.com/track/4a0sqvCBo7aRIS4GzBQpnp) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [Dj Win](https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG) | [Kikando e Me Olhando](https://open.spotify.com/album/0f8qsGhJ3RZf4ol3YqIuMw) | 3:30 |
 | 73 | [EU VOU COM CARINHO ELA QUER COM FORÇA](https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [EU VOU COM CARINHO ELA QUER COM FORÇA](https://open.spotify.com/album/4PNdseKOViclyZdCEzTmfv) | 2:24 |
 | 74 | [O Poder Dessa Garota](https://open.spotify.com/track/3emWP5AGvDHFAlHlCOPiqT) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx) | [O Poder Dessa Garota](https://open.spotify.com/album/443D9lOS7CSKSgR0RxaxdV) | 2:16 |
 | 75 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 |
 | 76 | [NO CHÃO NOVINHA](https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [NO CHÃO NOVINHA](https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh) | 2:16 |
-| 77 | [Loucamente](https://open.spotify.com/track/7dmP18O7QHHwf2VXjBauJ3) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y), [Los Romeros](https://open.spotify.com/artist/5R9lB5jcI6GXb39hkI6LiI) | [Loucamente](https://open.spotify.com/album/4uuGVn3VQKek2PYwMLfH33) | 3:42 |
-| 78 | [Vontade De Morder](https://open.spotify.com/track/4lsDFVKOVwPeAVw1hPOn7G) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Vontade De Morder](https://open.spotify.com/album/7Iah8z9NOyOa6WUe0J22I1) | 2:34 |
+| 77 | [Vontade De Morder](https://open.spotify.com/track/4lsDFVKOVwPeAVw1hPOn7G) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Vontade De Morder](https://open.spotify.com/album/7Iah8z9NOyOa6WUe0J22I1) | 2:34 |
+| 78 | [Loucamente](https://open.spotify.com/track/7dmP18O7QHHwf2VXjBauJ3) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y), [Los Romeros](https://open.spotify.com/artist/5R9lB5jcI6GXb39hkI6LiI) | [Loucamente](https://open.spotify.com/album/4uuGVn3VQKek2PYwMLfH33) | 3:42 |
 | 79 | [Como Antes](https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Como Antes](https://open.spotify.com/album/5Ja0yJ2hIVxWq5lOtGQ6Ih) | 3:44 |
 | 80 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 |
 | 81 | [GALOPA](https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [GALOPA](https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 99 | [Love Again](https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Love Again](https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ) | 3:28 |
 | 100 | [Cê Não Tem Noção](https://open.spotify.com/track/0iDNkj4n9xuU7SwfKSd4f2) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Cê Não Tem Noção](https://open.spotify.com/album/6E8YCf91O1AaKIh0B1MlL0) | 2:39 |
 
-Snapshot ID: `MCwxMjEwZTIzZjkwYWQxZTI1YTEzNzZkYjMxY2EzNmEzNWI4ODI1ODJj`
+Snapshot ID: `MCwxYThiMGE0MThhZDMxNTY0OWQxODRiZGVmYTEwODZiZmJmODVhYzIx`

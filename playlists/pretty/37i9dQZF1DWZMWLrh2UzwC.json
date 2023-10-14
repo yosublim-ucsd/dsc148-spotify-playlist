@@ -1,18 +1,18 @@
 {
   "description": "The best newly released songs of the week. Cover: Troye Sivan",
-  "num_followers": 61941,
+  "num_followers": 61829,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTAzNWQ2MTg2NDU5ZmYzZTk0MzFkN2Y2NTNjNjlhNjRkYzQ0OWRk",
+  "snapshot_id": "MCxiZTk0YjM1ZjgxMzc0ZWNhMWRjZGE1MWRjODM4NjNlNmRjODliMzc0",
   "tracks": [
     {
       "added_at": "2023-10-12 16:01:00",
       "album": {
         "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/0J8bLeayafqiMPoIZXOqtO"
+        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
       },
       "artists": [
         {
@@ -22,7 +22,39 @@
       ],
       "duration_ms": 181481,
       "name": "One Of Your Girls",
-      "url": "https://open.spotify.com/track/3QlaRJPhMAdtSebkshXA2E"
+      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
+    },
+    {
+      "added_at": "2023-10-12 16:01:00",
+      "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 182670,
+      "name": "Chasing That Feeling",
+      "url": "https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv"
+    },
+    {
+      "added_at": "2023-10-12 16:01:00",
+      "album": {
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 154360,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
     },
     {
       "added_at": "2023-10-12 16:01:00",
@@ -75,6 +107,42 @@
       "duration_ms": 212045,
       "name": "BRB",
       "url": "https://open.spotify.com/track/1E1P4FFDWZQarIllFj7pCf"
+    },
+    {
+      "added_at": "2023-10-12 16:01:00",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
+    },
+    {
+      "added_at": "2023-10-12 16:01:00",
+      "album": {
+        "name": "Pretty Girl (with Rema)",
+        "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 137907,
+      "name": "Pretty Girl (with Rema)",
+      "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
     },
     {
       "added_at": "2023-10-12 16:01:00",
@@ -927,6 +995,30 @@
     {
       "added_at": "2023-10-12 16:01:00",
       "album": {
+        "name": "Pepper",
+        "url": "https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y"
+      },
+      "artists": [
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq"
+    },
+    {
+      "added_at": "2023-10-12 16:01:00",
+      "album": {
         "name": "This Moment",
         "url": "https://open.spotify.com/album/4Yohw2SkANTgUSmCruXeKX"
       },
@@ -1027,6 +1119,26 @@
     {
       "added_at": "2023-10-12 16:01:00",
       "album": {
+        "name": "Summers Around The Corner",
+        "url": "https://open.spotify.com/album/3E4ICiqiWEXTncH5RxR1tB"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 228390,
+      "name": "Summers Around The Corner",
+      "url": "https://open.spotify.com/track/6AY1IWGyVFkdkq8AA5F2zT"
+    },
+    {
+      "added_at": "2023-10-12 16:01:00",
+      "album": {
         "name": "UNDERDOG",
         "url": "https://open.spotify.com/album/59dUrZn6tENKO2Lg30QfLI"
       },
@@ -1107,6 +1219,26 @@
       "duration_ms": 132902,
       "name": "can't get over it",
       "url": "https://open.spotify.com/track/3Y8fpZ2FAU2ghW3YXUxYd3"
+    },
+    {
+      "added_at": "2023-10-12 16:01:00",
+      "album": {
+        "name": "FCK GIRL SZN",
+        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "duration_ms": 193426,
+      "name": "Say Too Much",
+      "url": "https://open.spotify.com/track/3ivlOgTCKS7zk1lXlZsebF"
     },
     {
       "added_at": "2023-10-12 16:01:00",
@@ -1406,6 +1538,10 @@
         {
           "name": "DJ SODA",
           "url": "https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA"
+        },
+        {
+          "name": "Joe Killington",
+          "url": "https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237"
         }
       ],
       "duration_ms": 153250,
@@ -1563,6 +1699,26 @@
       "duration_ms": 169586,
       "name": "H\u00e0 N\u1ed9i",
       "url": "https://open.spotify.com/track/4zQGlbAeQPq6cmE2iYJfI2"
+    },
+    {
+      "added_at": "2023-10-12 16:01:00",
+      "album": {
+        "name": "Tipsy Remedy",
+        "url": "https://open.spotify.com/album/0eS0d8DWUoLnxrFcMZhbYs"
+      },
+      "artists": [
+        {
+          "name": "Mutual Artists",
+          "url": "https://open.spotify.com/artist/1a6FwegZ8SPetZKfl0ex41"
+        },
+        {
+          "name": "WEIWEI",
+          "url": "https://open.spotify.com/artist/36FpU17PPki4K8rfQ4CNrF"
+        }
+      ],
+      "duration_ms": 152342,
+      "name": "Tipsy Remedy",
+      "url": "https://open.spotify.com/track/3MZ2fYD6MbRzZp0ImlbQ5j"
     },
     {
       "added_at": "2023-10-12 16:01:00",

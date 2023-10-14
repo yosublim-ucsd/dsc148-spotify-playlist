@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie. Cover: Benjamin Walker",
+  "description": "Fresh Latin Indie. Cover: Loyal Lobos",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -754,6 +754,24 @@
       "duration_ms": 167843,
       "name": "Aunque nunca te lo diga",
       "url": "https://open.spotify.com/track/3bknyaIwxNamskujz37Gom"
+    },
+    {
+      "album": {
+        "name": "Autosabotear",
+        "url": "https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192104,
+      "name": "Autosabotear",
+      "url": "https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo"
     },
     {
       "album": {
@@ -2138,7 +2156,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 170864,
       "name": "El Rayo Vallecano",
       "url": "https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd"
@@ -4041,6 +4059,32 @@
     },
     {
       "album": {
+        "name": "Los Chicos Tristes (El Michels Affair Remix)",
+        "url": "https://open.spotify.com/album/3S7HTJw7AgnqpP5b9TeLkW"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        },
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Jensine Benitez",
+          "url": "https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161255,
+      "name": "Los Chicos Tristes - El Michels Affair Remix",
+      "url": "https://open.spotify.com/track/0ZLuy99MEaGRkpfzlyfQ8i"
+    },
+    {
+      "album": {
         "name": "Los Marcianos",
         "url": "https://open.spotify.com/album/3ALswjPd4659w0ygjUTjQH"
       },
@@ -5281,6 +5325,24 @@
     },
     {
       "album": {
+        "name": "no es culpa m\u00eda",
+        "url": "https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185667,
+      "name": "no es culpa m\u00eda",
+      "url": "https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I"
+    },
+    {
+      "album": {
         "name": "no hace falta saber",
         "url": "https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW"
       },
@@ -5384,6 +5446,32 @@
       "duration_ms": 210763,
       "name": "NO TE ALEJES",
       "url": "https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v"
+    },
+    {
+      "album": {
+        "name": "NOS SOLTAMOS chiliado",
+        "url": "https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU"
+      },
+      "artists": [
+        {
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+        },
+        {
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        },
+        {
+          "name": "Pablo Sotelo",
+          "url": "https://open.spotify.com/artist/7JTIskra5uVup9ZyODtm0u"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222806,
+      "name": "NOS SOLTAMOS chiliado",
+      "url": "https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv"
     },
     {
       "album": {
@@ -5500,7 +5588,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 171106,
       "name": "Nunca Nunca",
       "url": "https://open.spotify.com/track/6Y0hEZqVjgkrP8VqWYcGvM"
@@ -6869,6 +6957,24 @@
     },
     {
       "album": {
+        "name": "SE DESVANECI\u00d3",
+        "url": "https://open.spotify.com/album/0yww6xqlxtNQLcb1EsAXGP"
+      },
+      "artists": [
+        {
+          "name": "Lujavo",
+          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161840,
+      "name": "SE DESVANECI\u00d3",
+      "url": "https://open.spotify.com/track/4q0AvJnUh3y2ADKcaIUYgi"
+    },
+    {
+      "album": {
         "name": "Searching",
         "url": "https://open.spotify.com/album/1RGJZLh0NYnWX2cqMaZnmz"
       },
@@ -8040,7 +8146,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 182785,
       "name": "Todo o nada",
       "url": "https://open.spotify.com/track/7JcGt3lxb68CDpLzjoP3gl"
@@ -8260,7 +8366,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 189232,
       "name": "TUYO",
       "url": "https://open.spotify.com/track/3rXaUHSp1NtX2RRreQ0IoF"
@@ -8336,7 +8442,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 170362,
       "name": "UN A\u00d1O DE MIERDA",
       "url": "https://open.spotify.com/track/6ULVB1kHPglPyGX49qX37Y"

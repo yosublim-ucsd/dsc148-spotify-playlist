@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 234133,
       "name": "Ainokansoki",
       "url": "https://open.spotify.com/track/2cg3kcWIvavYN4YajDvvco"
@@ -1424,6 +1424,24 @@
       "duration_ms": 246876,
       "name": "PRIDE",
       "url": "https://open.spotify.com/track/6YSiCQPEEEimysown5ad19"
+    },
+    {
+      "album": {
+        "name": "Re-monolith",
+        "url": "https://open.spotify.com/album/7AJtqR3thUCneHnGKgHAAa"
+      },
+      "artists": [
+        {
+          "name": "04 Limited Sazabys",
+          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "Re-monolith",
+      "url": "https://open.spotify.com/track/2P406Mp2LZ8Iqai7WAUDs3"
     },
     {
       "album": {
@@ -2957,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "\u30ea\u30c3\u30d7\u30b7\u30f3\u30af",
+        "url": "https://open.spotify.com/album/1Hf7LSW4yGAhlTgOdsvBJU"
+      },
+      "artists": [
+        {
+          "name": "\u9ed2\u5b50\u9996",
+          "url": "https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193240,
+      "name": "\u30ea\u30c3\u30d7\u30b7\u30f3\u30af",
+      "url": "https://open.spotify.com/track/1bvbHclmu1q5yLsGuaV1pS"
+    },
+    {
+      "album": {
         "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
         "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
       },
@@ -3940,7 +3976,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 266080,
       "name": "\u7570\u661f\u4eba\u3068\u71b1\u5e2f\u591c",
       "url": "https://open.spotify.com/track/6tucykg7Srw72sYKMSyPys"

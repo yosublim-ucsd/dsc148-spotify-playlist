@@ -1,13 +1,29 @@
 {
   "description": "Icons only. Cover: Duran Duran",
-  "num_followers": 11304,
+  "num_followers": 11320,
   "original_name": "Classic Artists New Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTU1NmE5NjZiMDE4NjJiYjQwNzU0NDdkMDlmYTIxMWNkMjU0OTEw",
+  "snapshot_id": "MCw5OWZiOWM3MTJjODc5ZThkNDZlNjVhOTg1YzZkMjQzN2Y0OWI5N2Q5",
   "tracks": [
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Are We There Yet?",
+        "url": "https://open.spotify.com/album/0BuCV5EL2sM6iUvaxFtpPx"
+      },
+      "artists": [
+        {
+          "name": "Rick Astley",
+          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
+        }
+      ],
+      "duration_ms": 217092,
+      "name": "Forever and More",
+      "url": "https://open.spotify.com/track/0B9xp10eoOa1XK5F30gY0l"
+    },
     {
       "added_at": "2023-09-01 04:42:58",
       "album": {
@@ -75,22 +91,6 @@
       "duration_ms": 199061,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/3jUvfhQkh89AHkl2f4nNAE"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "Dippin My Feet",
-        "url": "https://open.spotify.com/album/2S2jgHkv3R3lmc92DPHSjy"
-      },
-      "artists": [
-        {
-          "name": "Rick Astley",
-          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Dippin My Feet",
-      "url": "https://open.spotify.com/track/0hb9885MfdqibhnFysxCon"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -723,42 +723,6 @@
       "duration_ms": 221426,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/6moeh7teMhi1ykOZNFDzP7"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Finish Line",
-        "url": "https://open.spotify.com/album/0AiRY02hMgv49bJlqCQNPG"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 264846,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/2mRK4OJ96kntvBe141m9AW"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Lindsey Buckingham",
-        "url": "https://open.spotify.com/album/0atVY7fmPpavJNvQjXxcPG"
-      },
-      "artists": [
-        {
-          "name": "Lindsey Buckingham",
-          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "I Don't Mind",
-      "url": "https://open.spotify.com/track/5qO1z8NyHcPCcjgxAnFMgj"
     },
     {
       "added_at": "2021-10-22 04:02:00",

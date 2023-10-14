@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 137931,
+  "num_followers": 137953,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDkzYTU2MjJmMjU2OWZhOTQ0NjJmYjA1OTgxYWM4YmUyMjA3YjZj",
+  "snapshot_id": "MCw3Nzg4MTQ0ZWY1MDA3YTgxMzdkYmQxYzU5MzRjODNkMjY3MzM2NWEy",
   "tracks": [
     {
       "added_at": "2023-08-15 12:19:30",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "I Feel the Earth Move",
-      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Every Great Motown Hit Of Marvin Gaye",
         "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
       },
@@ -363,18 +347,34 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+        "name": "Abandoned Luncheonette",
+        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
+      "duration_ms": 313373,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "I Feel the Earth Move",
+      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Collected",
         "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 238000,
       "name": "Cherish - Single Version",
       "url": "https://open.spotify.com/track/2yCAGizViD7HZXwNYxJToQ"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Abandoned Luncheonette",
-        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Dreamin' Wild",
         "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 250533,
       "name": "Baby",
       "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Very Best of Otis Redding",
-        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/3XWiy9JEQ4iyqCzIqqdQu3"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Capitol Gold: The Best Of Minnie Riperton",
         "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 238693,
       "name": "Inside My Love - Remastered 1993",
       "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Very Best of Otis Redding",
+        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/3XWiy9JEQ4iyqCzIqqdQu3"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Nothing Can Come Between Us",
-      "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 184413,
       "name": "Love That Girl",
       "url": "https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Nothing Can Come Between Us",
+      "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Remember the Rain",
-        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
-      },
-      "artists": [
-        {
-          "name": "Kadhja Bonet",
-          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
-        }
-      ],
-      "duration_ms": 280062,
-      "name": "Remember the Rain",
-      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Lay It Down",
         "url": "https://open.spotify.com/album/1lanaz3WgCVv2brd64XVeK"
       },
@@ -1963,18 +1947,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+        "name": "Remember the Rain",
+        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
         }
       ],
-      "duration_ms": 265186,
-      "name": "The Sweetest Taboo - Remastered",
-      "url": "https://open.spotify.com/track/5SRvh35HZmN5bNe8iT4ST5"
+      "duration_ms": 280062,
+      "name": "Remember the Rain",
+      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2007,6 +1991,22 @@
       "duration_ms": 270640,
       "name": "This Land Is Your Land",
       "url": "https://open.spotify.com/track/3PiHGEbBLYuBPFdP9tihF0"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 265186,
+      "name": "The Sweetest Taboo - Remastered",
+      "url": "https://open.spotify.com/track/5SRvh35HZmN5bNe8iT4ST5"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Irma Thomas Collection: 1961-1966",
+        "url": "https://open.spotify.com/album/3MhMYjRhAkiZ9F4GDkcpuy"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 159733,
+      "name": "Ruler Of My Heart",
+      "url": "https://open.spotify.com/track/2W9cyvOHeC26mSy96802Kk"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Groove Curse",
         "url": "https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx"
       },
@@ -2091,22 +2107,6 @@
       "duration_ms": 224000,
       "name": "This Girl",
       "url": "https://open.spotify.com/track/5TJD3o52h1wMDoU0cYGwTv"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Irma Thomas Collection: 1961-1966",
-        "url": "https://open.spotify.com/album/3MhMYjRhAkiZ9F4GDkcpuy"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Ruler Of My Heart",
-      "url": "https://open.spotify.com/track/2W9cyvOHeC26mSy96802Kk"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2244,9 +2244,9 @@
           "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 213560,
-      "name": "Spanish Harlem",
-      "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
+      "duration_ms": 333933,
+      "name": "Bridge over Troubled Water",
+      "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2408,9 +2408,9 @@
           "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 333933,
-      "name": "Bridge over Troubled Water",
-      "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
+      "duration_ms": 213560,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2519,22 +2519,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Rejuvenation",
-        "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
-      },
-      "artists": [
-        {
-          "name": "The Meters",
-          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
-        }
-      ],
-      "duration_ms": 318800,
-      "name": "People Say",
-      "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 138426,
       "name": "100 Yard Dash",
       "url": "https://open.spotify.com/track/2OPANrnimcwWcVQuDk8ibD"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Rejuvenation",
+        "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
+      },
+      "artists": [
+        {
+          "name": "The Meters",
+          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "People Say",
+      "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2651,22 +2651,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Come On Train",
-        "url": "https://open.spotify.com/album/1nEliK62SZTygH2Nm3bryF"
-      },
-      "artists": [
-        {
-          "name": "Don Thomas",
-          "url": "https://open.spotify.com/artist/2P9UdbP8tHeUrz9gKuGu2y"
-        }
-      ],
-      "duration_ms": 196653,
-      "name": "Come On Train - Original Mix",
-      "url": "https://open.spotify.com/track/7sa9QlfY9MUYT2ysod85Rz"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
       },
@@ -2679,6 +2663,22 @@
       "duration_ms": 148240,
       "name": "Let's Take a Walk",
       "url": "https://open.spotify.com/track/7izNjJmJNskhSEFGMUacfl"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Come On Train",
+        "url": "https://open.spotify.com/album/1nEliK62SZTygH2Nm3bryF"
+      },
+      "artists": [
+        {
+          "name": "Don Thomas",
+          "url": "https://open.spotify.com/artist/2P9UdbP8tHeUrz9gKuGu2y"
+        }
+      ],
+      "duration_ms": 196653,
+      "name": "Come On Train - Original Mix",
+      "url": "https://open.spotify.com/track/7sa9QlfY9MUYT2ysod85Rz"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2715,22 +2715,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Eugene Record",
-        "url": "https://open.spotify.com/album/0UoC8Ujy2OzF3L3Co30M8B"
-      },
-      "artists": [
-        {
-          "name": "Eugene Record",
-          "url": "https://open.spotify.com/artist/1EzKfWyQHxq5fzKoZpD9kM"
-        }
-      ],
-      "duration_ms": 257360,
-      "name": "Overdose of Joy",
-      "url": "https://open.spotify.com/track/0Ay7pwWStfH00fpQlEaLFM"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Spirit in the Dark",
         "url": "https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO"
       },
@@ -2743,6 +2727,22 @@
       "duration_ms": 243826,
       "name": "Spirit in the Dark",
       "url": "https://open.spotify.com/track/1wGvueGYFPUmQUtVglgcPt"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Eugene Record",
+        "url": "https://open.spotify.com/album/0UoC8Ujy2OzF3L3Co30M8B"
+      },
+      "artists": [
+        {
+          "name": "Eugene Record",
+          "url": "https://open.spotify.com/artist/1EzKfWyQHxq5fzKoZpD9kM"
+        }
+      ],
+      "duration_ms": 257360,
+      "name": "Overdose of Joy",
+      "url": "https://open.spotify.com/track/0Ay7pwWStfH00fpQlEaLFM"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2807,22 +2807,6 @@
       "duration_ms": 178280,
       "name": "Come to Mama",
       "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 141626,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/7mvKpoeI6sq6osDtSb9xcF"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2895,6 +2879,22 @@
       "duration_ms": 219506,
       "name": "Fell In Love With A Boy",
       "url": "https://open.spotify.com/track/4FEAmHZ3UXRAzP5354CErS"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 141626,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/7mvKpoeI6sq6osDtSb9xcF"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3091,6 +3091,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Beach Diggin', Vol. 3",
+        "url": "https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU"
+      },
+      "artists": [
+        {
+          "name": "Bobbie Houston",
+          "url": "https://open.spotify.com/artist/4i975rT2vHNcwrOqEm6laa"
+        }
+      ],
+      "duration_ms": 186617,
+      "name": "I Want to Make It with You",
+      "url": "https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Playlist: The ATCO Singles",
         "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
       },
@@ -3107,22 +3123,6 @@
       "duration_ms": 174706,
       "name": "I'm About Loving You",
       "url": "https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Beach Diggin', Vol. 3",
-        "url": "https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU"
-      },
-      "artists": [
-        {
-          "name": "Bobbie Houston",
-          "url": "https://open.spotify.com/artist/4i975rT2vHNcwrOqEm6laa"
-        }
-      ],
-      "duration_ms": 186617,
-      "name": "I Want to Make It with You",
-      "url": "https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e"
     },
     {
       "added_at": "2023-08-15 12:19:30",

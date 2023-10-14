@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-2,088 songs - 4 day 6 hr 11 min
+2,089 songs - 4 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1585,7 +1585,8 @@
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-30 | 2022-10-01 |
 | [Ryu](https://open.spotify.com/track/0t7XJbUWXL7Mow2ZLT50f8) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Ryu](https://open.spotify.com/album/4wh6lUZnjR6vy4v9Y3VpAC) | 2:26 | 2021-08-29 | 2021-09-05 |
 | [Ryu](https://open.spotify.com/track/2eVdX5bORCk2MNHDT5MRaC) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [DESTROY ALL COPIES](https://open.spotify.com/album/6XsN3b2ttmdn6M6tHsAkma) | 2:26 | 2021-09-05 | 2021-09-12 |
-| [S u m m e r t i m e](https://open.spotify.com/track/1932nDF4nTvlJvcO405jiv) | [danicpeepner](https://open.spotify.com/artist/4ol7o2NC4NYIyJHj9RcGNz) | [S u m m e r t i m e](https://open.spotify.com/album/6pWclGc5gXRbQLb1GenZ1C) | 3:15 | 2023-10-12 |  |
+| [S u m m e r t i m e](https://open.spotify.com/track/7DKKm1y3KxR0UZIJj8bSHB) | [danicpeepner](https://open.spotify.com/artist/4ol7o2NC4NYIyJHj9RcGNz) | [S u m m e r t i m e](https://open.spotify.com/album/6voFMJlTk3CwJ4WHc7AWLm) | 3:15 | 2023-10-13 |  |
+| [S u m m e r t i m e](https://open.spotify.com/track/1932nDF4nTvlJvcO405jiv) | [danicpeepner](https://open.spotify.com/artist/4ol7o2NC4NYIyJHj9RcGNz) | [S u m m e r t i m e](https://open.spotify.com/album/6pWclGc5gXRbQLb1GenZ1C) | 3:15 | 2023-10-12 | 2023-10-14 |
 | [S&M](https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud \(Japan Version\)](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:03 | 2023-01-01 | 2023-01-03 |
 | [S1](https://open.spotify.com/track/5M9h1FePRQwKlOOFdt9OSF) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [S1](https://open.spotify.com/album/28Ud7hGlfVUwAMWxkW1RoJ) | 3:12 | 2023-08-26 | 2023-08-28 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-01-23 |

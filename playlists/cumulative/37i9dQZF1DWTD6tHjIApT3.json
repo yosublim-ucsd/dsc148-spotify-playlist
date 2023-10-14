@@ -23534,6 +23534,28 @@
     {
       "album": {
         "name": "DEBUT",
+        "url": "https://open.spotify.com/album/6P0h9ZA6Vf5Drg76VGFLSe"
+      },
+      "artists": [
+        {
+          "name": "Kyrie",
+          "url": "https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu"
+        },
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318762,
+      "name": "\u30ad\u30ea\u30a8\u30fb\u6190\u308c\u307f\u306e\u8b83\u6b4c",
+      "url": "https://open.spotify.com/track/4KjNYo1Y9QWc0GQES77dfl"
+    },
+    {
+      "album": {
+        "name": "DEBUT",
         "url": "https://open.spotify.com/album/16UD0fdKRMlLwVfCIviFyZ"
       },
       "artists": [
@@ -23548,7 +23570,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 318762,
       "name": "\u30ad\u30ea\u30a8\u30fb\u6190\u308c\u307f\u306e\u8b83\u6b4c",
       "url": "https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq"

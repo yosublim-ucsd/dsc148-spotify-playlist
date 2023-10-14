@@ -2,7 +2,7 @@
 
 ### [Sertanejo Religioso](https://open.spotify.com/playlist/37i9dQZF1DWZxPtFzzWt6R)
 
-> A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: André e Felipe
+> A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Canção & Louvor
 
 70 songs - 4 hr 32 min
 

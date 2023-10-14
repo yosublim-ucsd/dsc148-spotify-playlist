@@ -1771,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "Burning Desire",
+        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108281,
+      "name": "Burning Desire",
+      "url": "https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp"
+    },
+    {
+      "album": {
         "name": "BUZZCUT (feat. Danny Brown)",
         "url": "https://open.spotify.com/album/71qxIkZvfyFGQKUe9YA0ry"
       },
@@ -2006,6 +2024,28 @@
       "duration_ms": 226173,
       "name": "Chicken N Dumplins",
       "url": "https://open.spotify.com/track/0d6nLPB8mwKp2qYJupyPuY"
+    },
+    {
+      "album": {
+        "name": "Chops on the Blade",
+        "url": "https://open.spotify.com/album/1W8rO7SBVNsjB2v197I0bk"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Cardo",
+          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212154,
+      "name": "Chops on the Blade",
+      "url": "https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE"
     },
     {
       "album": {
@@ -3593,6 +3633,24 @@
     },
     {
       "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/1j9mROY31VbmxKmls37QJX"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205185,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/4kYOrgTRLZzKi8DcuwXfqM"
+    },
+    {
+      "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
@@ -4256,7 +4314,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 137945,
       "name": "Harlem World 97 (feat. Estelle)",
       "url": "https://open.spotify.com/track/66c6S7LLdZ6V4LdqnB1k2M"
@@ -4574,6 +4632,32 @@
       "duration_ms": 155292,
       "name": "HOT WIND BLOWS (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
+    },
+    {
+      "album": {
+        "name": "Start Finish Repeat",
+        "url": "https://open.spotify.com/album/0jFuO3558SHKGCMOiGyU8n"
+      },
+      "artists": [
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Termanology",
+          "url": "https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl"
+        },
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186136,
+      "name": "Houston BBQ (feat. Bun B)",
+      "url": "https://open.spotify.com/track/1BOdSKk6qnTUMY3AV0hayh"
     },
     {
       "album": {
@@ -6086,7 +6170,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 160000,
       "name": "LOVE ME 4 ME (feat. Blvck Svm)",
       "url": "https://open.spotify.com/track/3mfb0QoFdmNWQxlFJJdyc1"
@@ -6144,6 +6228,36 @@
       "duration_ms": 105999,
       "name": "Making The Band (Danity Kane)",
       "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
+    },
+    {
+      "album": {
+        "name": "And Then You Pray For Me",
+        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Cartier A Williams",
+          "url": "https://open.spotify.com/artist/2Fsw6Hh9wWybcZPZZEGYPj"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299270,
+      "name": "Mamas PrimeTime",
+      "url": "https://open.spotify.com/track/5DBkCzSGttobRr6ApIEd4f"
     },
     {
       "album": {
@@ -7869,6 +7983,28 @@
     },
     {
       "album": {
+        "name": "Burning Desire",
+        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "plz don\u2019t cut my wings - feat. Earl Sweatshirt",
+      "url": "https://open.spotify.com/track/1ic7rjvkA5LzguZHZHAe6M"
+    },
+    {
+      "album": {
         "name": "Point God",
         "url": "https://open.spotify.com/album/5Rj9y2OkoTogv1La20MgLG"
       },
@@ -8612,7 +8748,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 186491,
       "name": "Runway",
       "url": "https://open.spotify.com/track/1OnukNKu7NWY4ouTc7w26u"
@@ -9106,7 +9242,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 204000,
       "name": "SINCE ELEMENTARY",
       "url": "https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk"
@@ -10476,7 +10612,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 213833,
       "name": "The NoN Anthem",
       "url": "https://open.spotify.com/track/4OVHwI7j9udmd7khJwYkvf"
@@ -11020,7 +11156,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 150000,
       "name": "TWO SIDES",
       "url": "https://open.spotify.com/track/50bZ9l5bg1jgoglj6qgy8J"

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Lithuania.",
-  "num_followers": 27309,
+  "num_followers": 27275,
   "original_name": "Top 50 - Lithuania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUwNDc1MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUwNTYxNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -61,23 +61,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "Pasaka",
         "url": "https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U"
@@ -93,7 +77,39 @@
       "url": "https://open.spotify.com/track/0hcY1gJD8yQWdgi2oGVZCG"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "BIZNIS",
+        "url": "https://open.spotify.com/album/5ti82aEJC2euzp1rwxW7vO"
+      },
+      "artists": [
+        {
+          "name": "Proflame",
+          "url": "https://open.spotify.com/artist/08hlS00IaeGBaRSZtxuwUq"
+        }
+      ],
+      "duration_ms": 126060,
+      "name": "BIZNIS",
+      "url": "https://open.spotify.com/track/3zB5KG6eGNnNS38dvAQs9K"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -117,43 +133,39 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
-        "name": "BIZNIS",
-        "url": "https://open.spotify.com/album/5ti82aEJC2euzp1rwxW7vO"
+        "name": "\u0426\u0430\u0440\u0438\u0446\u0430",
+        "url": "https://open.spotify.com/album/2rnuTMnUTPZOZQUw99TleP"
       },
       "artists": [
         {
-          "name": "Proflame",
-          "url": "https://open.spotify.com/artist/08hlS00IaeGBaRSZtxuwUq"
+          "name": "ANNA ASTI",
+          "url": "https://open.spotify.com/artist/40YXr3tdSqFv0kfmgjj8vP"
         }
       ],
-      "duration_ms": 126060,
-      "name": "BIZNIS",
-      "url": "https://open.spotify.com/track/3zB5KG6eGNnNS38dvAQs9K"
+      "duration_ms": 215301,
+      "name": "\u0426\u0430\u0440\u0438\u0446\u0430",
+      "url": "https://open.spotify.com/track/1sgGy5HcUAdYoWGj3RXmYb"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
-        "name": "3D : The Remixes",
-        "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
+        "name": "ITALODISCO",
+        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
         }
       ],
-      "duration_ms": 201812,
-      "name": "3D (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
+      "duration_ms": 199512,
+      "name": "ITALODISCO",
+      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
@@ -173,23 +185,7 @@
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "ITALODISCO",
-        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
-      },
-      "artists": [
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        }
-      ],
-      "duration_ms": 199512,
-      "name": "ITALODISCO",
-      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
@@ -205,23 +201,27 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
-        "name": "ecstacy (slowed)",
-        "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
+        "name": "3D : The Remixes",
+        "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
       },
       "artists": [
         {
-          "name": "SUICIDAL-IDOL",
-          "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 119120,
-      "name": "ecstacy (slowed)",
-      "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
@@ -237,55 +237,23 @@
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
-        "name": "\u0426\u0430\u0440\u0438\u0446\u0430",
-        "url": "https://open.spotify.com/album/2rnuTMnUTPZOZQUw99TleP"
+        "name": "ecstacy (slowed)",
+        "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
       },
       "artists": [
         {
-          "name": "ANNA ASTI",
-          "url": "https://open.spotify.com/artist/40YXr3tdSqFv0kfmgjj8vP"
+          "name": "SUICIDAL-IDOL",
+          "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
         }
       ],
-      "duration_ms": 215301,
-      "name": "\u0426\u0430\u0440\u0438\u0446\u0430",
-      "url": "https://open.spotify.com/track/1sgGy5HcUAdYoWGj3RXmYb"
+      "duration_ms": 119120,
+      "name": "ecstacy (slowed)",
+      "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "Pasaka",
         "url": "https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U"
@@ -301,27 +269,23 @@
       "url": "https://open.spotify.com/track/0NfRszAHHTci3p02z41Gra"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
-        "name": "Sprinter",
-        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 229133,
-      "name": "Sprinter",
-      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "I\u0161 L\u0117to Leid\u017eiasi Saul\u0117",
         "url": "https://open.spotify.com/album/4rKp5XE8zf0E38vd1pL19l"
@@ -345,55 +309,7 @@
       "url": "https://open.spotify.com/track/6CiKfOUAxxTxhdeXyxd6Lw"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 249466,
-      "name": "P.I.M.P.",
-      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "Apkabinti Prisiminimus",
-        "url": "https://open.spotify.com/album/7a6yvohFsFbRkQarmnJHcz"
-      },
-      "artists": [
-        {
-          "name": "Jessica Shy",
-          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "\u0160okam L\u0117tai",
-      "url": "https://open.spotify.com/track/149qQkZez6yujONJspKw7U"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
@@ -413,27 +329,91 @@
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
-        "name": "The Massacre",
-        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "Apkabinti Prisiminimus",
+        "url": "https://open.spotify.com/album/7a6yvohFsFbRkQarmnJHcz"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "\u0160okam L\u0117tai",
+      "url": "https://open.spotify.com/track/149qQkZez6yujONJspKw7U"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "IT GIRL",
+        "url": "https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH"
+      },
+      "artists": [
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+        }
+      ],
+      "duration_ms": 161760,
+      "name": "IT GIRL",
+      "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
       "artists": [
         {
           "name": "50 Cent",
           "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Olivia",
-          "url": "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
         }
       ],
-      "duration_ms": 209106,
-      "name": "Candy Shop",
-      "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
+      "duration_ms": 193466,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
@@ -449,39 +429,7 @@
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 256226,
-      "name": "Many Men (Wish Death)",
-      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "Paskend\u0119 vyne",
-        "url": "https://open.spotify.com/album/49Av61NYQ6SwuZrttWqNRY"
-      },
-      "artists": [
-        {
-          "name": "Furytto",
-          "url": "https://open.spotify.com/artist/53xjuOkCa7byXggNs2VZOw"
-        }
-      ],
-      "duration_ms": 134044,
-      "name": "Paskend\u0119 vyne",
-      "url": "https://open.spotify.com/track/7hUjUlcZyl9N6zWzqyYbjs"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "Aft\u00ebrLyfe",
         "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
@@ -497,23 +445,7 @@
       "url": "https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
@@ -529,7 +461,7 @@
       "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "Ko Tau Reikia",
         "url": "https://open.spotify.com/album/6FoJsX37wgrDiRm05D8TRH"
@@ -549,7 +481,39 @@
       "url": "https://open.spotify.com/track/5SVo1JpFTKbTbnDXeJoL6p"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "Paskend\u0119 vyne",
+        "url": "https://open.spotify.com/album/49Av61NYQ6SwuZrttWqNRY"
+      },
+      "artists": [
+        {
+          "name": "Furytto",
+          "url": "https://open.spotify.com/artist/53xjuOkCa7byXggNs2VZOw"
+        }
+      ],
+      "duration_ms": 134044,
+      "name": "Paskend\u0119 vyne",
+      "url": "https://open.spotify.com/track/7hUjUlcZyl9N6zWzqyYbjs"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "Apkabinti Prisiminimus",
         "url": "https://open.spotify.com/album/7a6yvohFsFbRkQarmnJHcz"
@@ -569,59 +533,23 @@
       "url": "https://open.spotify.com/track/6RmV54gl0nByycqhTajiiZ"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
-        "name": "IT GIRL",
-        "url": "https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH"
+        "name": "PASAKA",
+        "url": "https://open.spotify.com/album/7A2qhaz9SWStG7o0A8LG1N"
       },
       "artists": [
         {
-          "name": "Aliyah's Interlude",
-          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+          "name": "Proflame",
+          "url": "https://open.spotify.com/artist/08hlS00IaeGBaRSZtxuwUq"
         }
       ],
-      "duration_ms": 161760,
-      "name": "IT GIRL",
-      "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
+      "duration_ms": 161433,
+      "name": "NUOTYKIS",
+      "url": "https://open.spotify.com/track/36CwyCUu8fyBx1mBFMTs4j"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 247444,
-      "name": "First Person Shooter (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -645,7 +573,7 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
@@ -661,7 +589,55 @@
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "Va\u017eiuoju Kur \u0160irdis",
+        "url": "https://open.spotify.com/album/5jUi7zJHx8ZWwQNgtEUJ2O"
+      },
+      "artists": [
+        {
+          "name": "GJan",
+          "url": "https://open.spotify.com/artist/6fuceMe1tElXcrzMaSjdcy"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Va\u017eiuoju Kur \u0160irdis",
+      "url": "https://open.spotify.com/track/1GLBcWaalefu9ahDdL4rVa"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 249466,
+      "name": "P.I.M.P.",
+      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
@@ -681,7 +657,7 @@
       "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "Shut up My Moms Calling",
         "url": "https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S"
@@ -697,71 +673,7 @@
       "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 161123,
-      "name": "Why'd You Only Call Me When You're High?",
-      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "Va\u017eiuoju Kur \u0160irdis",
-        "url": "https://open.spotify.com/album/5jUi7zJHx8ZWwQNgtEUJ2O"
-      },
-      "artists": [
-        {
-          "name": "GJan",
-          "url": "https://open.spotify.com/artist/6fuceMe1tElXcrzMaSjdcy"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Va\u017eiuoju Kur \u0160irdis",
-      "url": "https://open.spotify.com/track/1GLBcWaalefu9ahDdL4rVa"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "PASAKA",
-        "url": "https://open.spotify.com/album/7A2qhaz9SWStG7o0A8LG1N"
-      },
-      "artists": [
-        {
-          "name": "Proflame",
-          "url": "https://open.spotify.com/artist/08hlS00IaeGBaRSZtxuwUq"
-        }
-      ],
-      "duration_ms": 161433,
-      "name": "NUOTYKIS",
-      "url": "https://open.spotify.com/track/36CwyCUu8fyBx1mBFMTs4j"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "Pasaka",
         "url": "https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U"
@@ -777,7 +689,7 @@
       "url": "https://open.spotify.com/track/2DAYE1jtbM0UNeYyPCC2z1"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "Rugpj\u016btis",
         "url": "https://open.spotify.com/album/40U4367k8BABqzzIiPsxSO"
@@ -797,7 +709,159 @@
       "url": "https://open.spotify.com/track/2psbE7Ds01Xz2MaMIk7APk"
     },
     {
-      "added_at": "2023-10-12 11:38:59",
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 161123,
+      "name": "Why'd You Only Call Me When You're High?",
+      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 256226,
+      "name": "Many Men (Wish Death)",
+      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 290616,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "Stadionai",
+        "url": "https://open.spotify.com/album/0mvlCZJYaEuJOjI3MsiJ4n"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        },
+        {
+          "name": "Rokas",
+          "url": "https://open.spotify.com/artist/17IHT4KW6k85SHKiSAssQt"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Stadionai",
+      "url": "https://open.spotify.com/track/2JtsIAfAu4PFyjlk17Hg3M"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 292799,
+      "name": "No Role Modelz",
+      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 184516,
+      "name": "Pink + White",
+      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
+      "album": {
+        "name": "The Massacre",
+        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Olivia",
+          "url": "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "Candy Shop",
+      "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
+    },
+    {
+      "added_at": "2023-10-13 10:43:37",
       "album": {
         "name": "Melodramos",
         "url": "https://open.spotify.com/album/7v45dfZZ7MfMVO6UAofAuK"
@@ -815,74 +879,6 @@
       "duration_ms": 159000,
       "name": "Melodramos",
       "url": "https://open.spotify.com/track/63OlqSFnE71ZirsZpjzvBw"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "The Massacre",
-        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 237706,
-      "name": "Just A Lil Bit",
-      "url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 224426,
-      "name": "21 Questions",
-      "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 290616,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
-    },
-    {
-      "added_at": "2023-10-12 11:38:59",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     }
   ],
   "unique_name": "Top 50 - Lithuania",

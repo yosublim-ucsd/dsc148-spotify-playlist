@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Indio Solari y Los Fundamentalistas del Aire Acondicionado
+> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Estelares
 
-217 songs - 13 hr 36 min
+219 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Dos Días en la Vida \- EADDA9223](https://open.spotify.com/track/4oDx5VoqSQJCduO5J5A8MB) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 4:08 | 2023-05-31 |  |
 | [Dulce](https://open.spotify.com/track/00qJ7UYGzz0STfuBaJzaP5) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Dulce](https://open.spotify.com/album/4rSqRY2mGS0kUETwHMh6Oj) | 4:20 | 2022-09-23 | 2023-06-17 |
 | [Día Mil](https://open.spotify.com/track/0C8sntkt9YJMgPNMJYDQEL) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Día Mil](https://open.spotify.com/album/5f61HbLZV9pWoCWYqo9nu1) | 3:38 | 2022-06-24 | 2023-05-06 |
+| [EGO](https://open.spotify.com/track/14ftM04cOvRswUMx8IKaY3) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [EGO](https://open.spotify.com/album/1BRTLy5OxF1u5JvP8UrxxP) | 2:56 | 2023-10-13 |  |
 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 | 2023-05-05 | 2023-09-27 |
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/0FnR7sXg9R6gvnYk2B03RS) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/2RJzwGQFNIyHuVUqLiTJyo) | 5:02 | 2022-07-15 | 2022-08-11 |
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/1IC9QfsEQx2aVhsscCsbTE) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [El Farolito \(Acústico\)](https://open.spotify.com/album/2ZtLtqU9H4IXLQn4EMDFjU) | 5:02 | 2022-06-24 | 2022-07-29 |
@@ -92,6 +93,7 @@
 | [Game Over](https://open.spotify.com/track/0A3EkkI3X1aprb7YKoD8oH) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Game Over](https://open.spotify.com/album/759aMTB254aQ8lo03rtOwI) | 3:28 | 2022-06-24 | 2023-08-26 |
 | [Gatitas y Ratones](https://open.spotify.com/track/5wCZXxCLl2pL0sGartRAQM) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Gatitas y Ratones](https://open.spotify.com/album/2gss5ZLfFetUYxZDDu2PK0) | 3:57 | 2022-06-24 | 2023-04-01 |
 | [Goodbye Adiós](https://open.spotify.com/track/60Cohjy8lgh1jIkTpGz9S1) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Goodbye Adiós](https://open.spotify.com/album/72kYZH666UwSHVBTw0zL8f) | 3:31 | 2022-08-05 | 2023-10-06 |
+| [Hacerlo Bien](https://open.spotify.com/track/0hJBuCIq43WYZgZQ9A3Aq7) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Hacerlo Bien](https://open.spotify.com/album/2H73ICOxIxQAbAetEg70Qm) | 4:09 | 2023-10-13 |  |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-06-24 | 2023-09-27 |
 | [Home Sweet Home](https://open.spotify.com/track/1moo4754JGB02h0XqUC6Jn) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Home Sweet Home](https://open.spotify.com/album/1YR3ye2nVpjmXFSCHSsOdX) | 3:24 | 2022-06-24 |  |
 | [Impulsando El Encuentro](https://open.spotify.com/track/2La3j8YgEErCVBXWIopKym) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Impulsando El Encuentro](https://open.spotify.com/album/6aaFN44R7nF2J7uI6kiAKj) | 4:19 | 2023-03-31 | 2023-06-03 |

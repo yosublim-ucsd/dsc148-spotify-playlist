@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Os grandes hits do momento est\u00e3o aqui! Foto: Lu\u00edsa Sonza",
+  "description": "Os grandes hits do momento est\u00e3o aqui! Foto: Ludmilla",
   "name": "Hot Hits Brasil",
   "tracks": [
     {
@@ -1962,7 +1962,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 143221,
       "name": "F\u00e9 nas Maluca",
       "url": "https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1"
@@ -2660,7 +2660,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 129146,
       "name": "Marrento",
       "url": "https://open.spotify.com/track/5gH5JWzP4Iqqagm0f4UGL0"
@@ -2822,7 +2822,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 186666,
       "name": "Minha Vida \u00e9 um Filme",
       "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
@@ -4696,6 +4696,32 @@
       "duration_ms": 142151,
       "name": "Zona De Perigo",
       "url": "https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Tes\u00e3o ou \u00c9 Amor",
+        "url": "https://open.spotify.com/album/6yimbyJdwJgL4bKA8MfS1s"
+      },
+      "artists": [
+        {
+          "name": "cjnobeat",
+          "url": "https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM"
+        },
+        {
+          "name": "Bibi Babydoll",
+          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158091,
+      "name": "\u00c9 Tes\u00e3o ou \u00c9 Amor",
+      "url": "https://open.spotify.com/track/19TnKf5YHapfrI1FJjbx8i"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm"

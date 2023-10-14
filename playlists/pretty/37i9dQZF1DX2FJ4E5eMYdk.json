@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 153291,
+  "num_followers": 153314,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTJmYzM2ZDdjMjVhNDhlYjJiZjE5YzU1NWY2YmEzYjA1NWFmY2Iz",
+  "snapshot_id": "MCwxZTNjZjg0N2U1Yzk1MGIwMWI3NGQyNDAxMmRlMTViOTY4ZjU1YzI1",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/71ujjjzO4U0ED11m2tVzKu"
-      },
-      "artists": [
-        {
-          "name": "Wolf People",
-          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
-        }
-      ],
-      "duration_ms": 418146,
-      "name": "Kingfisher",
-      "url": "https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Panther in the Dollhouse",
         "url": "https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 203319,
       "name": "Nighthawks",
       "url": "https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/71ujjjzO4U0ED11m2tVzKu"
+      },
+      "artists": [
+        {
+          "name": "Wolf People",
+          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
+        }
+      ],
+      "duration_ms": 418146,
+      "name": "Kingfisher",
+      "url": "https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "To Who Knows Where",
-        "url": "https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn"
-      },
-      "artists": [
-        {
-          "name": "Vetiver",
-          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "To Who Knows Where",
-      "url": "https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Private Tales",
         "url": "https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "& I'm Fine Today",
-        "url": "https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21"
+        "name": "To Who Knows Where",
+        "url": "https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn"
       },
       "artists": [
         {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+          "name": "Vetiver",
+          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
         }
       ],
-      "duration_ms": 218964,
-      "name": "Far out Feeling",
-      "url": "https://open.spotify.com/track/7cXOCT8IbMLFXiCeRExTJ6"
+      "duration_ms": 199586,
+      "name": "To Who Knows Where",
+      "url": "https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -935,6 +919,22 @@
       "duration_ms": 351725,
       "name": "Where Do You Go When You Dream",
       "url": "https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "& I'm Fine Today",
+        "url": "https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 218964,
+      "name": "Far out Feeling",
+      "url": "https://open.spotify.com/track/7cXOCT8IbMLFXiCeRExTJ6"
     },
     {
       "added_at": "2023-09-29 04:00:00",

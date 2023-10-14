@@ -2,9 +2,9 @@
 
 ### [Country Favourites](https://open.spotify.com/playlist/37i9dQZF1DX13ZzXoot6Jc)
 
-> Country hits that will have you singing every word\. Cover: Josh Ross
+> Country hits that will have you singing every word\. Cover: Kane Brown
 
-235 songs - 12 hr 47 min
+236 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Strange](https://open.spotify.com/track/6BWOWBSalJEp7woRZSyiMb) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:31 | 2023-02-17 | 2023-09-02 |
 | [Summer Don't Go](https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Summer Don't Go](https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK) | 2:48 | 2023-09-15 |  |
 | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/track/1aqQ8YzJlkrfN7dqCYBTTg) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX), [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/album/1CyvTlYda5V9EnbwEUwUIa) | 3:13 | 2023-08-25 |  |
-| [Take Me Out](https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Take Me Out](https://open.spotify.com/album/6sJh3uH5blwXur99LVe2pQ) | 4:03 | 2023-08-11 |  |
+| [Take Me Out](https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Take Me Out](https://open.spotify.com/album/6sJh3uH5blwXur99LVe2pQ) | 4:03 | 2023-08-11 | 2023-10-14 |
 | [Taking It Easy](https://open.spotify.com/track/4cymUHqMBOwxcI6HuaI4i0) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Throw Down \(Deluxe Remastered\)](https://open.spotify.com/album/0DOWHM6JBa9U0agPsDQDXY) | 2:49 | 2023-09-08 | 2023-09-16 |
 | [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 | 2023-02-10 |  |
 | [Tequila](https://open.spotify.com/track/7Il2yWQmsqKgSkLQvHTPUI) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Tequila](https://open.spotify.com/album/01w6VtM4EpFWvBNg4g9xZF) | 3:15 | 2022-07-21 | 2022-11-16 |
@@ -228,6 +228,7 @@
 | [What’s Your Country Song](https://open.spotify.com/track/4oR2cCQGs0Yt0Mgr2diV6V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 2:51 | 2022-07-21 | 2023-08-19 |
 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 | 2022-07-21 | 2023-08-19 |
 | [Where'd You Learn How To Do That](https://open.spotify.com/track/4Do7NhvafmOQENTNAus874) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Where'd You Learn How To Do That](https://open.spotify.com/album/7v5wPGa49lcZiDyMdJe1zq) | 2:54 | 2022-09-30 | 2023-09-19 |
+| [Whiskey Drink](https://open.spotify.com/track/5uU4GKzz0x4ma1udXnLf6O) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Whiskey Drink](https://open.spotify.com/album/4g06Vx2YKohoVR7FX33l9C) | 3:10 | 2023-10-13 |  |
 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 | 2022-11-11 |  |
 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 | 2022-07-21 | 2022-08-15 |
 | [Why We Drink](https://open.spotify.com/track/4lSfhHd5Knwl8yQw2cVjAD) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Late Nights And Longnecks](https://open.spotify.com/album/6k7PNoooJpFHVVd2ZE9t2K) | 3:31 | 2022-10-07 | 2022-11-16 |

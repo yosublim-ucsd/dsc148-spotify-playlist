@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 69187,
+  "num_followers": 69286,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjgzNjEzNDRjYzM0YzlhMTljYjI0ZDE0MzRjMjBkZGU3OWFjMTg3",
+  "snapshot_id": "MCw3MGFlNWJiMDNhOGRjNmJiNmNmZjVkYWVkZmU1N2E3ZDNlN2QyNDI1",
   "tracks": [
     {
       "added_at": "2023-09-26 16:36:45",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-09-26 16:36:45",
       "album": {
-        "name": "Posturado e Calmo (Speedplug)",
-        "url": "https://open.spotify.com/album/797TrPg1DNXRxrEkuaZJJi"
-      },
-      "artists": [
-        {
-          "name": "Eusoares085",
-          "url": "https://open.spotify.com/artist/0T4h7cQARJcizvV3JuKasg"
-        }
-      ],
-      "duration_ms": 103894,
-      "name": "Posturado e Calmo (Speedplug)",
-      "url": "https://open.spotify.com/track/6fpUsqLmeozvHBzWPJslmZ"
-    },
-    {
-      "added_at": "2023-09-26 16:36:45",
-      "album": {
         "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
         "url": "https://open.spotify.com/album/39tM6ABIBGChLivVHYCie3"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 163384,
       "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
       "url": "https://open.spotify.com/track/3JHUfpS7hQPeYwjBBZ690R"
+    },
+    {
+      "added_at": "2023-09-26 16:36:45",
+      "album": {
+        "name": "Posturado e Calmo (Speedplug)",
+        "url": "https://open.spotify.com/album/797TrPg1DNXRxrEkuaZJJi"
+      },
+      "artists": [
+        {
+          "name": "Eusoares085",
+          "url": "https://open.spotify.com/artist/0T4h7cQARJcizvV3JuKasg"
+        }
+      ],
+      "duration_ms": 103894,
+      "name": "Posturado e Calmo (Speedplug)",
+      "url": "https://open.spotify.com/track/6fpUsqLmeozvHBzWPJslmZ"
     },
     {
       "added_at": "2023-09-26 16:36:45",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-09-26 16:36:45",
       "album": {
+        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
+    },
+    {
+      "added_at": "2023-09-26 16:36:45",
+      "album": {
         "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
         "url": "https://open.spotify.com/album/4ZZFHTy6rCdrnbqCoEd0B7"
       },
@@ -687,38 +703,6 @@
     {
       "added_at": "2023-09-26 16:36:45",
       "album": {
-        "name": "Nunca Duvide de um Mano",
-        "url": "https://open.spotify.com/album/1fTsqeLfYx1EItPGCudGg9"
-      },
-      "artists": [
-        {
-          "name": "Brand\u00e3o85",
-          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
-        }
-      ],
-      "duration_ms": 84124,
-      "name": "Nunca Duvide de um Mano (Speed Up)",
-      "url": "https://open.spotify.com/track/5ayuzPrJE082hhsn3tc00D"
-    },
-    {
-      "added_at": "2023-09-26 16:36:45",
-      "album": {
-        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 176538,
-      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
-    },
-    {
-      "added_at": "2023-09-26 16:36:45",
-      "album": {
         "name": "Semblante de Criminoso Speed",
         "url": "https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 98475,
       "name": "Semblante de Criminoso Speed",
       "url": "https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa"
+    },
+    {
+      "added_at": "2023-09-26 16:36:45",
+      "album": {
+        "name": "Nunca Duvide de um Mano",
+        "url": "https://open.spotify.com/album/1fTsqeLfYx1EItPGCudGg9"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        }
+      ],
+      "duration_ms": 84124,
+      "name": "Nunca Duvide de um Mano (Speed Up)",
+      "url": "https://open.spotify.com/track/5ayuzPrJE082hhsn3tc00D"
     },
     {
       "added_at": "2023-09-26 16:36:45",

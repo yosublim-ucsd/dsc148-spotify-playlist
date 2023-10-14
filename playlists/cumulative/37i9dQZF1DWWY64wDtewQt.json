@@ -5116,7 +5116,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 117445,
       "name": "JUDAS",
       "url": "https://open.spotify.com/track/2fDvxV1N7SxQYbWNrN7YJl"
@@ -6886,7 +6886,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 207692,
       "name": "MTG - REBOLA NO MEU C4RALHO",
       "url": "https://open.spotify.com/track/6UsDf89sHDBewBBw7hc0Qc"
@@ -6926,7 +6926,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 99875,
       "name": "MTG PATRONO",
       "url": "https://open.spotify.com/track/3NQOcWmMK1YDhcES2DRlQI"
@@ -7534,6 +7534,32 @@
       "duration_ms": 122553,
       "name": "OPEN WOUNDS",
       "url": "https://open.spotify.com/track/7qV0qA9LhALiD6B8VwV6E3"
+    },
+    {
+      "album": {
+        "name": "Oppa",
+        "url": "https://open.spotify.com/album/0MjCgPgOnJJKGvaaLINZig"
+      },
+      "artists": [
+        {
+          "name": "NECROLX",
+          "url": "https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ"
+        },
+        {
+          "name": "YOUK3IV",
+          "url": "https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4"
+        },
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87000,
+      "name": "Oppa",
+      "url": "https://open.spotify.com/track/2YSBjsqZ2YxwwHi8xqf9ms"
     },
     {
       "album": {
@@ -9729,6 +9755,24 @@
     },
     {
       "album": {
+        "name": "SOCA SOCA",
+        "url": "https://open.spotify.com/album/7Gf4assY5DRHSkEhnY77xm"
+      },
+      "artists": [
+        {
+          "name": "shonci",
+          "url": "https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "SOCA SOCA",
+      "url": "https://open.spotify.com/track/73hsuKcpEGujnjA1z5RE2m"
+    },
+    {
+      "album": {
         "name": "Sokudo",
         "url": "https://open.spotify.com/album/1ofsYpNYNllBOz5dFyV22N"
       },
@@ -11866,6 +11910,28 @@
       "duration_ms": 129697,
       "name": "YUM YUM",
       "url": "https://open.spotify.com/track/0R902FnwJO8kBZYvtpQLrL"
+    },
+    {
+      "album": {
+        "name": "YUMMI",
+        "url": "https://open.spotify.com/album/4J0FEQtbjPH1DA60p6bKe9"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        },
+        {
+          "name": "YOUK3IV",
+          "url": "https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95996,
+      "name": "YUMMI",
+      "url": "https://open.spotify.com/track/3RlfkOE0lXMec08I6CaakR"
     },
     {
       "album": {

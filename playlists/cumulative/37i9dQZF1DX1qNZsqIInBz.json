@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 91879,
       "name": "ALL FOR YOU",
       "url": "https://open.spotify.com/track/6EAewY7sUaLGigFkwsPZ05"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 182021,
       "name": "Beat M\u00e1gico Que Mexe Com a Sua Mente (Slowed)",
       "url": "https://open.spotify.com/track/7dDnis2a3lqOXHYuSrdcVL"
@@ -404,6 +404,28 @@
       "duration_ms": 185142,
       "name": "Black Road",
       "url": "https://open.spotify.com/track/4CyrXp09zI9cJvWwDF3QZ8"
+    },
+    {
+      "album": {
+        "name": "BLESSED BY THE FALLEN",
+        "url": "https://open.spotify.com/album/1fbidNqwgNIePyy9u88z5u"
+      },
+      "artists": [
+        {
+          "name": "CYPARISS",
+          "url": "https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP"
+        },
+        {
+          "name": "Puhf",
+          "url": "https://open.spotify.com/artist/6Wg5mZaSksZatBkTApBsPj"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185383,
+      "name": "BLESSED BY THE FALLEN",
+      "url": "https://open.spotify.com/track/2B1Xx9NLZQUhU27Ssh3caZ"
     },
     {
       "album": {
@@ -784,7 +806,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 120309,
       "name": "DREAMLAND",
       "url": "https://open.spotify.com/track/5L28ADW32Zq2KwfjUOJNZ4"
@@ -1006,6 +1028,24 @@
       "duration_ms": 183441,
       "name": "EXIST",
       "url": "https://open.spotify.com/track/6SqUoYtpsmaFhSU3TnUVtT"
+    },
+    {
+      "album": {
+        "name": "Eyes Don't Lie",
+        "url": "https://open.spotify.com/album/3RYY1oBqLh96SzqxoFzSzp"
+      },
+      "artists": [
+        {
+          "name": "Lastfragment",
+          "url": "https://open.spotify.com/artist/0prNIqZMr1aog4xj7qQo1A"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136585,
+      "name": "Eyes Don't Lie",
+      "url": "https://open.spotify.com/track/1DCPoSVMgOr457qKTSp8c8"
     },
     {
       "album": {
@@ -2751,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "RATHER BE ALONE / GODSPEED",
+        "url": "https://open.spotify.com/album/1UxzvQ0y8C28eeImfcaDzF"
+      },
+      "artists": [
+        {
+          "name": "STRLGHT",
+          "url": "https://open.spotify.com/artist/4Tpbh6x3um360ffs5DUpgx"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "RATHER BE ALONE",
+      "url": "https://open.spotify.com/track/2R7s9KxoZqYb4AzXh7M0bn"
+    },
+    {
+      "album": {
         "name": "RENEGADE",
         "url": "https://open.spotify.com/album/5N93SkOr64iOa2bwsf5oyr"
       },
@@ -3050,7 +3108,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 99636,
       "name": "SOFT PHONK",
       "url": "https://open.spotify.com/track/1avPaaXMn8UfvnxWX5xCYP"

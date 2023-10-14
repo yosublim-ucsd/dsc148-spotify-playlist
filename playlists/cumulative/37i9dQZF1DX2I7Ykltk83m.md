@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Haley Blais
 
-368 songs - 22 hr 20 min
+369 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Charm You \- Blondshell Version](https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Charm You \(Blondshell Version\)](https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7) | 2:58 | 2023-07-28 |  |
 | [Cheers](https://open.spotify.com/track/1o6AAprhFq448i4PVPKoZ6) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Cheers](https://open.spotify.com/album/1SZyOSR32ufm1Gdx6guwZR) | 3:15 | 2021-11-14 | 2022-07-29 |
 | [Cheers](https://open.spotify.com/track/3ruYlsPdwqrvb6mEDcfUUP) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:15 | 2022-05-20 |  |
+| [Clovers](https://open.spotify.com/track/5k8oU9p71fIhYiTCPudwdh) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 4:51 | 2023-10-13 |  |
 | [Color of the Pool](https://open.spotify.com/track/487No2iHijl2TqOM6OBC3U) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Color of the Pool](https://open.spotify.com/album/6BnLKRLuEEeTwZwfVk1Eo3) | 2:22 | 2021-11-14 | 2022-07-29 |
 | [Combat](https://open.spotify.com/track/2oFcg1dEGotfeeEYFrWSqD) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2A2k0MgzDEiFjW3ejlpxxV) | 3:48 | 2021-11-14 | 2022-07-29 |
 | [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 | 2022-10-07 | 2023-04-09 |
@@ -307,7 +308,7 @@
 | [sunstruck](https://open.spotify.com/track/74ofPe4D7s8ajM7A7haPYE) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [sunstruck](https://open.spotify.com/album/3Ngb3n0RgkVD6Uo6pIvU9c) | 5:01 | 2022-04-15 | 2022-07-29 |
 | [Sure](https://open.spotify.com/track/38jmyQQhIpC6SP0zRF5WCu) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Sugar & Spice](https://open.spotify.com/album/6Wzwhd5VTklhTkqQPooIla) | 4:09 | 2022-05-20 | 2022-10-08 |
 | [Sure](https://open.spotify.com/track/6gE07whLj5Zis7MnL2Q4nm) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Sure](https://open.spotify.com/album/4YDaXqdjZQMJQ0RIBEGlcg) | 4:09 | 2021-11-14 | 2022-07-28 |
-| [Sweet Tooth](https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Sweet Tooth](https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh) | 3:41 | 2022-10-07 |  |
+| [Sweet Tooth](https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Sweet Tooth](https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh) | 3:41 | 2022-10-07 | 2023-10-14 |
 | [Sweetheart](https://open.spotify.com/track/4T7okh1A7MmqS7xXypO0wx) | [Long Beard](https://open.spotify.com/artist/3truyDimkGtu58fxQj9Xv9) | [Means To Me](https://open.spotify.com/album/1GS9YuJnV8cNUZFJapg1AK) | 5:34 | 2021-11-14 | 2022-11-13 |
 | [Sword](https://open.spotify.com/track/6mD1KDKC3CcGAVCAwUkKl4) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Drink The Lake](https://open.spotify.com/album/111JuJ9c9okr6iskmC7DR3) | 3:02 | 2021-11-14 | 2022-07-29 |
 | [Sword](https://open.spotify.com/track/1EQ08xDU7g9brPXEVNeWnE) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Show Me How You Disappear](https://open.spotify.com/album/3byic3J5R5PQCm62tdTimO) | 3:02 | 2022-10-07 | 2023-01-28 |

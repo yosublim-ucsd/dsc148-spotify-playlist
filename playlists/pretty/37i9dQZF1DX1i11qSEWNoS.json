@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 509390,
+  "num_followers": 509775,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTNmMWI0MDAxNmU5ZTNiM2ViMDUzMTdlOWY2MGJhNmFjMGJmMTg5",
+  "snapshot_id": "MCwxZjMxNDY1ZGI3OTgwYTU0Nzg2OWY1NzQ3NWY5N2M2ZjQ1N2NlY2Vh",
   "tracks": [
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184752,
-      "name": "Typa Girl",
-      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
         "name": "How I Fell in Love",
         "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 112551,
       "name": "How I Fell in Love",
       "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184752,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
+        "name": "About You Now (How I Feel)",
+        "url": "https://open.spotify.com/album/4a22kWJ4n6KE7apkohVxKp"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "About You Now (How I Feel)",
+      "url": "https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
         "name": "Nothing but the Beat 2.0",
         "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
       },
@@ -1435,26 +1455,6 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "About You Now (How I Feel)",
-        "url": "https://open.spotify.com/album/4a22kWJ4n6KE7apkohVxKp"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "Luca-Dante Spadafora",
-          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "About You Now (How I Feel)",
-      "url": "https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
         "name": "Broker",
         "url": "https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk"
       },
@@ -1471,6 +1471,26 @@
       "duration_ms": 150877,
       "name": "Broker",
       "url": "https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
+        "name": "33 Max Verstappen",
+        "url": "https://open.spotify.com/album/5ph3neJzadn49q1YxktC8V"
+      },
+      "artists": [
+        {
+          "name": "Carte Blanq",
+          "url": "https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o"
+        },
+        {
+          "name": "Maxx Power",
+          "url": "https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5"
+        }
+      ],
+      "duration_ms": 170390,
+      "name": "33 Max Verstappen",
+      "url": "https://open.spotify.com/track/4nKRZAONxGgcKCMin730Ai"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1535,22 +1555,26 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "33 Max Verstappen",
-        "url": "https://open.spotify.com/album/5ph3neJzadn49q1YxktC8V"
+        "name": "I Can Feel",
+        "url": "https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7"
       },
       "artists": [
         {
-          "name": "Carte Blanq",
-          "url": "https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o"
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
         },
         {
-          "name": "Maxx Power",
-          "url": "https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5"
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         }
       ],
-      "duration_ms": 170390,
-      "name": "33 Max Verstappen",
-      "url": "https://open.spotify.com/track/4nKRZAONxGgcKCMin730Ai"
+      "duration_ms": 173360,
+      "name": "I Can Feel",
+      "url": "https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1607,42 +1631,22 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "I Can Feel",
-        "url": "https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7"
+        "name": "KETA UND KRAWALL",
+        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
       },
       "artists": [
         {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
         },
         {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
         }
       ],
-      "duration_ms": 173360,
-      "name": "I Can Feel",
-      "url": "https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
-        "name": "Next!",
-        "url": "https://open.spotify.com/album/3BKfDiq9KWSmbV7NHoCGlt"
-      },
-      "artists": [
-        {
-          "name": "Seeed",
-          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Ding",
-      "url": "https://open.spotify.com/track/5LH1z4ma2TN2aVeESXthj9"
+      "duration_ms": 125492,
+      "name": "KETA UND KRAWALL",
+      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1667,22 +1671,18 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "KETA UND KRAWALL",
-        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
+        "name": "Next!",
+        "url": "https://open.spotify.com/album/3BKfDiq9KWSmbV7NHoCGlt"
       },
       "artists": [
         {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        },
-        {
-          "name": "Barr\u00e9",
-          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+          "name": "Seeed",
+          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
         }
       ],
-      "duration_ms": 125492,
-      "name": "KETA UND KRAWALL",
-      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
+      "duration_ms": 206160,
+      "name": "Ding",
+      "url": "https://open.spotify.com/track/5LH1z4ma2TN2aVeESXthj9"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "Schei\u00df auf eure Party 2.0",
-        "url": "https://open.spotify.com/album/1MNjy6MEHcxJ5GzPt7Avte"
-      },
-      "artists": [
-        {
-          "name": "SIRA",
-          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
-        },
-        {
-          "name": "Ufo361",
-          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
-        }
-      ],
-      "duration_ms": 149458,
-      "name": "Schei\u00df auf eure Party 2.0",
-      "url": "https://open.spotify.com/track/5GkGYgozRCsEtaqLnBc2nz"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
         "name": "S&M (With Chacel) [HYPERTECHNO Edit]",
         "url": "https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 178614,
       "name": "S&M (With Chacel) - HYPERTECHNO Edit",
       "url": "https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
+        "name": "Schei\u00df auf eure Party 2.0",
+        "url": "https://open.spotify.com/album/1MNjy6MEHcxJ5GzPt7Avte"
+      },
+      "artists": [
+        {
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        },
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        }
+      ],
+      "duration_ms": 149458,
+      "name": "Schei\u00df auf eure Party 2.0",
+      "url": "https://open.spotify.com/track/5GkGYgozRCsEtaqLnBc2nz"
     },
     {
       "added_at": "2023-10-03 11:57:51",

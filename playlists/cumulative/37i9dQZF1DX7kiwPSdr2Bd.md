@@ -2,7 +2,7 @@
 
 ### [Mulheres do Gospel](https://open.spotify.com/playlist/37i9dQZF1DX7kiwPSdr2Bd)
 
-> Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Aline Barros
+> Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Ana Nóbrega
 
 211 songs - 18 hr 45 min
 

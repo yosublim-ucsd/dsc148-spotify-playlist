@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ca\u00f1onazos salseros para persignar la pista de baile!",
-  "num_followers": 47391,
+  "num_followers": 47464,
   "original_name": "Salsa Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWJkNDMzMTViOTM0YTg1ZGQ5YWIxNjUyZDYyZTQ1NGQ2MjBkOTNi",
+  "snapshot_id": "MCxlOTgyOTZiNzZmYmNjNmFhMTJlOTVmYjMyMTAwYTgxYzUwNTAzN2Y0",
   "tracks": [
     {
       "added_at": "2022-12-30 20:26:55",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Cara De Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
+        "name": "Puro Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/39gzi20j94Xta3yLFG5wtR"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
         }
       ],
-      "duration_ms": 298640,
-      "name": "Qu\u00e9 Hay de Malo",
-      "url": "https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op"
+      "duration_ms": 255213,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/5WyX397vZTvYQwSrylCka0"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Puro Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/39gzi20j94Xta3yLFG5wtR"
+        "name": "Cara De Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
       },
       "artists": [
         {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 255213,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/5WyX397vZTvYQwSrylCka0"
+      "duration_ms": 298640,
+      "name": "Qu\u00e9 Hay de Malo",
+      "url": "https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "10 De Coleccion",
-        "url": "https://open.spotify.com/album/4l7BTfiKsjv1DoReRxxySR"
+        "name": "En Tiempo De Amor",
+        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
         }
       ],
-      "duration_ms": 302360,
-      "name": "Amores Como el Nuestro",
-      "url": "https://open.spotify.com/track/3WLXf7K7mIGEBtFq41afce"
+      "duration_ms": 290706,
+      "name": "Si Volvieras A Mi",
+      "url": "https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
+        "name": "10 De Coleccion",
+        "url": "https://open.spotify.com/album/4l7BTfiKsjv1DoReRxxySR"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 302360,
+      "name": "Amores Como el Nuestro",
+      "url": "https://open.spotify.com/track/3WLXf7K7mIGEBtFq41afce"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
         "name": "No Hay Quinto Malo",
         "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 310360,
       "name": "Cali Pachanguero",
       "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
-        "name": "En Tiempo De Amor",
-        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 290706,
-      "name": "Si Volvieras A Mi",
-      "url": "https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -655,6 +655,22 @@
       "duration_ms": 348600,
       "name": "Ella Feat. Luis Enrique",
       "url": "https://open.spotify.com/track/3CXhO7ZR4kZ0n5dW3v3ACK"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Exitos Originales",
+        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 310973,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -703,22 +719,6 @@
       "duration_ms": 263920,
       "name": "Me Liber\u00e9",
       "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
-        "name": "Exitos Originales",
-        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 310973,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Exitos Eternos",
-        "url": "https://open.spotify.com/album/3fyopvDCAQpZIJrCCIz6dx"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 308013,
-      "name": "De M\u00ed Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/45oxZMWNjH5Ft8QSjUuQkb"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Legal Alien - Top Secrets",
         "url": "https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 414380,
       "name": "El Gran Varon",
       "url": "https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Exitos Eternos",
+        "url": "https://open.spotify.com/album/3fyopvDCAQpZIJrCCIz6dx"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 308013,
+      "name": "De M\u00ed Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/45oxZMWNjH5Ft8QSjUuQkb"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Frankie Ruiz La Leyenda",
-        "url": "https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 287600,
-      "name": "Desn\u00fadate Mujer",
-      "url": "https://open.spotify.com/track/0NmiKXgu8oRjfL5B85RDrL"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "From Cali with Love",
         "url": "https://open.spotify.com/album/6l2H02jQ5TEVk0QTI90I4s"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 301400,
       "name": "Tendria Que Llorar Por Ti",
       "url": "https://open.spotify.com/track/1KvvRNWBKRcWE6aSxroIb0"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Frankie Ruiz La Leyenda",
+        "url": "https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 287600,
+      "name": "Desn\u00fadate Mujer",
+      "url": "https://open.spotify.com/track/0NmiKXgu8oRjfL5B85RDrL"
     },
     {
       "added_at": "2022-12-30 20:26:55",

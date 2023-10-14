@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 173544,
       "name": "Beside Me",
       "url": "https://open.spotify.com/track/2WsFKU9K172qfsGveJPr5m"
@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 201739,
       "name": "Campos Eliseos",
       "url": "https://open.spotify.com/track/0suq6pekpVWxP5OqcjhtbQ"
@@ -3027,6 +3027,28 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/55g3kFOFsp00P2cHNJWvwD"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Mode\u0101",
+          "url": "https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268656,
+      "name": "Contrast",
+      "url": "https://open.spotify.com/track/6ND5LGkeitafW7tM7I4oND"
+    },
+    {
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/6FpqTdRVVt6Lq3SD9xAcGn"
       },
@@ -3636,7 +3658,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 208722,
       "name": "Dynamo",
       "url": "https://open.spotify.com/track/00MHnP9LWlS0H5F5kXnN0N"
@@ -3812,7 +3834,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 241285,
       "name": "Edge of Tomorrow",
       "url": "https://open.spotify.com/track/7q5rYWltVXyYloLt7K9Efs"
@@ -4368,6 +4390,32 @@
       "duration_ms": 163200,
       "name": "Everything You've Got",
       "url": "https://open.spotify.com/track/0ySnEd1xXTrmWn29O3XdXY"
+    },
+    {
+      "album": {
+        "name": "Everytime (Ciaran McAuley Remix)",
+        "url": "https://open.spotify.com/album/4wx8mnp0SRaaIsaeEazxep"
+      },
+      "artists": [
+        {
+          "name": "Lustral",
+          "url": "https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7"
+        },
+        {
+          "name": "The Space Brothers",
+          "url": "https://open.spotify.com/artist/4nb1tQbYZYqvr50cdTqek5"
+        },
+        {
+          "name": "Ciaran McAuley",
+          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200888,
+      "name": "Everytime - Ciaran McAuley Remix",
+      "url": "https://open.spotify.com/track/0cfhLq3j4vLMDWrS6xII9N"
     },
     {
       "album": {
@@ -5184,7 +5232,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 204852,
       "name": "Freak Of The Week",
       "url": "https://open.spotify.com/track/6ftO5bAiMPsUcRs6fgKWfW"
@@ -7183,6 +7231,32 @@
     },
     {
       "album": {
+        "name": "Just Be You",
+        "url": "https://open.spotify.com/album/2Ylnqq6L3V0WhsPfqZczfn"
+      },
+      "artists": [
+        {
+          "name": "Roman Messer",
+          "url": "https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR"
+        },
+        {
+          "name": "Six Mists",
+          "url": "https://open.spotify.com/artist/0vdDEioIxzwNO0jO4DYnTL"
+        },
+        {
+          "name": "Jaki Nelson",
+          "url": "https://open.spotify.com/artist/7oz4dlYyj9jadcbGJq1jwx"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216521,
+      "name": "Just Be You",
+      "url": "https://open.spotify.com/track/6M38bg35bW8ukDhP1hhobf"
+    },
+    {
+      "album": {
         "name": "Just the Beginning",
         "url": "https://open.spotify.com/album/0mfbgKFoJlEVjMrjuDh0Nu"
       },
@@ -7720,7 +7794,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 209262,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/4cRysbsSV8hwNcbD44r0rE"
@@ -8623,6 +8697,28 @@
     },
     {
       "album": {
+        "name": "Magnificent",
+        "url": "https://open.spotify.com/album/7cpTzLLbNfqweqcu8HNxTe"
+      },
+      "artists": [
+        {
+          "name": "Alex M.O.R.P.H.",
+          "url": "https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW"
+        },
+        {
+          "name": "Faith Mark",
+          "url": "https://open.spotify.com/artist/1B2K7bRlTUNk6XAK82S7AI"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201739,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/5vRS7k3p0DVlJiIct0hki8"
+    },
+    {
+      "album": {
         "name": "Magnolia EP",
         "url": "https://open.spotify.com/album/40AhUh9P55CSo5RefNudwK"
       },
@@ -8688,7 +8784,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 224230,
       "name": "Mainframe",
       "url": "https://open.spotify.com/track/5fWIe5lL4T7ra5IEcc3Xrb"
@@ -9486,7 +9582,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 249565,
       "name": "Need To Feel Loved",
       "url": "https://open.spotify.com/track/4SdHIbH7OmWuOYunj5BWtm"
@@ -12208,7 +12304,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 202615,
       "name": "ShellShock",
       "url": "https://open.spotify.com/track/4BMjsfcFqL4AwwbmRT7I4W"
@@ -12728,7 +12824,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 238285,
       "name": "Soundscape",
       "url": "https://open.spotify.com/track/2ckuYy0wxNGXfjrRLfCnQQ"
@@ -12954,7 +13050,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 233030,
       "name": "Starship",
       "url": "https://open.spotify.com/track/04ted2YPfm40Peb2pC9CyD"
@@ -14436,7 +14532,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 265285,
       "name": "This Is Real - Christopher Corrigan Remix",
       "url": "https://open.spotify.com/track/1rxfxybkU2MH5FPqE7UNqs"
@@ -15210,7 +15306,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 234782,
       "name": "Vision",
       "url": "https://open.spotify.com/track/6YYL79mwL0GzwCPHzz6eiw"
@@ -16012,7 +16108,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-21",
+      "date_removed": null,
       "duration_ms": 225937,
       "name": "You Get Me",
       "url": "https://open.spotify.com/track/4swpBMR7chyLpb3sbCOnUC"

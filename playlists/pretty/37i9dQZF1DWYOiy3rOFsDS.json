@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Gian Marco y Rub\u00e9n Blades en portada.",
-  "num_followers": 532355,
+  "num_followers": 531600,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTEyMTU2ZTY4ODljY2QyZTdkMmI2OTExMTBjMjIyMWYwNmM3ZTQ1",
+  "snapshot_id": "MCxmMWJmNzVhZTBkNDZhMTc2OTYzOWQ3NDc0NzUzNTM3ZmRhYTIyNmMw",
   "tracks": [
     {
       "added_at": "2023-09-08 15:43:39",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-09-08 15:43:39",
       "album": {
+        "name": "Que Sepan Todos",
+        "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
+      },
+      "artists": [
+        {
+          "name": "Las Hermanas Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Que Sepan Todos",
+      "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
+    },
+    {
+      "added_at": "2023-09-08 15:43:39",
+      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/1sT251K5WVSKOGpUtG4Kli"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 218804,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/5P0QmeChDF8KtzHa1Tw0xf"
-    },
-    {
-      "added_at": "2023-09-08 15:43:39",
-      "album": {
-        "name": "Que Sepan Todos",
-        "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
-      },
-      "artists": [
-        {
-          "name": "Las Hermanas Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Que Sepan Todos",
-      "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
     },
     {
       "added_at": "2023-09-08 15:43:39",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-09-08 15:43:39",
       "album": {
+        "name": "El palacio de las flores",
+        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Contigo aprend\u00ed",
+      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
+    },
+    {
+      "added_at": "2023-09-08 15:43:39",
+      "album": {
         "name": "Te Tocaba A Ti Llorar",
         "url": "https://open.spotify.com/album/1QdQqLnwuQsKnfZ5blD3Al"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 193426,
       "name": "Te Tocaba A Ti Llorar",
       "url": "https://open.spotify.com/track/69wyLBhOeKlS4VcilXZhzN"
-    },
-    {
-      "added_at": "2023-09-08 15:43:39",
-      "album": {
-        "name": "El palacio de las flores",
-        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Contigo aprend\u00ed",
-      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
     },
     {
       "added_at": "2023-09-08 15:43:39",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-09-08 15:43:39",
       "album": {
-        "name": "Frenesi (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1D9QdIT6bueT23rSwp0C63"
+        "name": "Trebol (II)",
+        "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
       },
       "artists": [
         {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+          "name": "Pantoja",
+          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
         }
       ],
-      "duration_ms": 213213,
-      "name": "Frenes\u00ed - 2016 Remaster",
-      "url": "https://open.spotify.com/track/7HGyyoWiUdLYddj985Aj1C"
+      "duration_ms": 189900,
+      "name": "Lo Mismo Que Usted",
+      "url": "https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq"
     },
     {
       "added_at": "2023-09-08 15:43:39",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2023-09-08 15:43:39",
       "album": {
-        "name": "Trebol (II)",
-        "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
+        "name": "Frenesi (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1D9QdIT6bueT23rSwp0C63"
       },
       "artists": [
         {
-          "name": "Pantoja",
-          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
         }
       ],
-      "duration_ms": 189900,
-      "name": "Lo Mismo Que Usted",
-      "url": "https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq"
+      "duration_ms": 213213,
+      "name": "Frenes\u00ed - 2016 Remaster",
+      "url": "https://open.spotify.com/track/7HGyyoWiUdLYddj985Aj1C"
     },
     {
       "added_at": "2023-09-08 15:43:39",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-09-08 15:43:39",
       "album": {
+        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "Sombras - Sombras Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
+    },
+    {
+      "added_at": "2023-09-08 15:43:39",
+      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
-    },
-    {
-      "added_at": "2023-09-08 15:43:39",
-      "album": {
-        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "Sombras - Sombras Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
     },
     {
       "added_at": "2023-09-08 15:43:39",

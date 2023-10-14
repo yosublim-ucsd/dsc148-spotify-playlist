@@ -6673,6 +6673,24 @@
     },
     {
       "album": {
+        "name": "Nuwe Liefde",
+        "url": "https://open.spotify.com/album/1385mUopK4X7q2jW76Ma0G"
+      },
+      "artists": [
+        {
+          "name": "Nadine Blom",
+          "url": "https://open.spotify.com/artist/4xdhhxjDnqlTtI5uIEN2Sd"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180884,
+      "name": "Nuwe Liefde",
+      "url": "https://open.spotify.com/track/2UPxiygts8H5sci9D41YWL"
+    },
+    {
+      "album": {
         "name": "Nuwe Reise",
         "url": "https://open.spotify.com/album/2eTnfCXIPXQ6ZGKRs30Uy4"
       },
@@ -10406,7 +10424,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 187391,
       "name": "Wil Jy Bly",
       "url": "https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb"

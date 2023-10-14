@@ -1783,6 +1783,24 @@
     },
     {
       "album": {
+        "name": "\u4e8c\u4eba\u9650\u5b9a\u6545\u4e8b",
+        "url": "https://open.spotify.com/album/6paffDqSD3W1HIQMjA7xmu"
+      },
+      "artists": [
+        {
+          "name": "Lolly Talk",
+          "url": "https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194590,
+      "name": "\u4e8c\u4eba\u9650\u5b9a\u6545\u4e8b",
+      "url": "https://open.spotify.com/track/2LfrOjRAXQz4wdTbUXpsEu"
+    },
+    {
+      "album": {
         "name": "\u4e94\u7a2e\u611b\u7684\u5bc6\u8a9e",
         "url": "https://open.spotify.com/album/2jwrFQsFUNjLYwBeNKgMAG"
       },

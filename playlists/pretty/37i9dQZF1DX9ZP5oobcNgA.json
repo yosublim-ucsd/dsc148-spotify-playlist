@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 115273,
+  "num_followers": 115284,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTdkYTI5MDRlYjdkZjlmNzA5NTEwN2UzNzQ5ZDA2ODU0OGJjNjk0",
+  "snapshot_id": "MCxmYTA3MWQ1OWE2NmZkYzQ0YTM1ZTgxNDA2N2QyMDM3ZWI0NzJjMWIy",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "H\u00e4ndel: Water Works",
-        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Syr\u00e8ne Saxophone Quartet",
-          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
-        }
-      ],
-      "duration_ms": 64773,
-      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
-      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Royal Fireworks",
         "url": "https://open.spotify.com/album/5VBPDKdQ3UDSf3jXvOiIcr"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 280266,
       "name": "Concerti grossi, Op. 6, Concerto Grosso No. 3 in E Minor, HWV 321: IV. Polonaise",
       "url": "https://open.spotify.com/track/7cp6Eo0en3PyejoEQv1bg2"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "H\u00e4ndel: Water Works",
+        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Syr\u00e8ne Saxophone Quartet",
+          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
+        }
+      ],
+      "duration_ms": 64773,
+      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
+      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1095,58 +1095,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
-        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        },
-        {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Water Music: Suite No. 1 in F Major, HWV 348, VII. Air",
-      "url": "https://open.spotify.com/track/4qMKtNSa5KhCTp1kWgFTvA"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel Coronation Anthems",
-        "url": "https://open.spotify.com/album/4c8lcNQ6aSjGJ2pJEWACw8"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Choir of King's College, Cambridge",
-          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
-        },
-        {
-          "name": "Academy of Ancient Music",
-          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
-        },
-        {
-          "name": "Stephen Cleobury",
-          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
-        }
-      ],
-      "duration_ms": 164320,
-      "name": "Handel: Coronation Anthem No. 4, HWV 261 \"My Heart Is Inditing\": I. My Heart Is Inditing",
-      "url": "https://open.spotify.com/track/5VPuxHjU7hVG4kWkSyAR1H"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "John Eliot Gardiner Conducts Handel",
         "url": "https://open.spotify.com/album/5c1KNy2PXJttM46NhAq3hN"
       },
@@ -1211,6 +1159,58 @@
       "duration_ms": 205360,
       "name": "Deborah, HWV 51: Part I: Chorus - Let thy deeds be glorious",
       "url": "https://open.spotify.com/track/2vjvCb7bgJH5ix8bfwp8MR"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
+        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Water Music: Suite No. 1 in F Major, HWV 348, VII. Air",
+      "url": "https://open.spotify.com/track/4qMKtNSa5KhCTp1kWgFTvA"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel Coronation Anthems",
+        "url": "https://open.spotify.com/album/4c8lcNQ6aSjGJ2pJEWACw8"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Stephen Cleobury",
+          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        }
+      ],
+      "duration_ms": 164320,
+      "name": "Handel: Coronation Anthem No. 4, HWV 261 \"My Heart Is Inditing\": I. My Heart Is Inditing",
+      "url": "https://open.spotify.com/track/5VPuxHjU7hVG4kWkSyAR1H"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1635,6 +1635,34 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Oboe Concertos Nos. 1- 3 / Suite in G Minor",
+        "url": "https://open.spotify.com/album/3TjxqWoMqsVNKOyCcw09jb"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Anthony Camden",
+          "url": "https://open.spotify.com/artist/1iNHrIYKqHXQONIKKClI73"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "Nicholas Ward",
+          "url": "https://open.spotify.com/artist/4fgDrYK3Ua8O0eV4cU8Pl2"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Oboe Concerto No. 3 in G Minor, HWV 287: III. Sarabande: Largo",
+      "url": "https://open.spotify.com/track/375eVZkpa9bfZmx7khLebT"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Esther (1718 version)",
         "url": "https://open.spotify.com/album/4kZlY4e1NQHLSvYHsxUuZM"
       },
@@ -1683,34 +1711,6 @@
       "duration_ms": 274866,
       "name": "Music for the Royal Fireworks, HWV 351: III. La Paix. Largo alla Siciliana",
       "url": "https://open.spotify.com/track/6leCZq7Sh4KbQC4pEwnwmY"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Oboe Concertos Nos. 1- 3 / Suite in G Minor",
-        "url": "https://open.spotify.com/album/3TjxqWoMqsVNKOyCcw09jb"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Anthony Camden",
-          "url": "https://open.spotify.com/artist/1iNHrIYKqHXQONIKKClI73"
-        },
-        {
-          "name": "City of London Sinfonia",
-          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
-        },
-        {
-          "name": "Nicholas Ward",
-          "url": "https://open.spotify.com/artist/4fgDrYK3Ua8O0eV4cU8Pl2"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Oboe Concerto No. 3 in G Minor, HWV 287: III. Sarabande: Largo",
-      "url": "https://open.spotify.com/track/375eVZkpa9bfZmx7khLebT"
     },
     {
       "added_at": "2022-06-28 08:56:25",

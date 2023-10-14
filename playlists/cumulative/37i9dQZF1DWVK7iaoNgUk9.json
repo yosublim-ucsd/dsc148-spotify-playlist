@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-13",
-  "description": "se for pra sofrer, que seja com trilha sonora n\u00e9 n\u00e3o?? Foto: Clarissa",
+  "description": "se for pra sofrer, que seja com trilha sonora n\u00e9 n\u00e3o?? ",
   "name": "Cora\u00e7\u00e3o Partido",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 218040,
       "name": "A noite",
       "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
@@ -150,6 +150,24 @@
       "duration_ms": 228373,
       "name": "Call Out My Name",
       "url": "https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN"
+    },
+    {
+      "album": {
+        "name": "Carta Aberta",
+        "url": "https://open.spotify.com/album/19xqgrFltFQOFvEJi8yHVo"
+      },
+      "artists": [
+        {
+          "name": "WD",
+          "url": "https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203713,
+      "name": "Carta Aberta",
+      "url": "https://open.spotify.com/track/69Q81hch5PAcKbqAXuFfej"
     },
     {
       "album": {
@@ -387,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Irreal",
+        "url": "https://open.spotify.com/album/6SyPsQZccd9QiB4nbnbZZI"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218303,
+      "name": "Irreal",
+      "url": "https://open.spotify.com/track/3XsCsD76Ume0kuPnJ9xwX1"
+    },
+    {
+      "album": {
         "name": "B'Day Deluxe Edition",
         "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
       },
@@ -492,7 +528,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 196933,
       "name": "Love You Goodbye",
       "url": "https://open.spotify.com/track/1ZWLWVqeEMWMKTlteS0yLH"
@@ -510,7 +546,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 191007,
       "name": "mine",
       "url": "https://open.spotify.com/track/20XB21FHWhdyWTs5z7p9Vl"
@@ -644,6 +680,24 @@
       "duration_ms": 231120,
       "name": "Pointless",
       "url": "https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq"
+    },
+    {
+      "album": {
+        "name": "puro osso",
+        "url": "https://open.spotify.com/album/5fr6TVmir3T7hUCQWZWUw0"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217486,
+      "name": "puro osso",
+      "url": "https://open.spotify.com/track/7v7Nd6owrtzpCuSttYrrfp"
     },
     {
       "album": {
@@ -799,6 +853,24 @@
     },
     {
       "album": {
+        "name": "TE ODEIO",
+        "url": "https://open.spotify.com/album/6gvXPaIkbnjAI0TdKbMp1W"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142889,
+      "name": "TE ODEIO",
+      "url": "https://open.spotify.com/track/5W9RiXy0RIO3sQi2dQxF96"
+    },
+    {
+      "album": {
         "name": "Ends & Begins",
         "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
@@ -882,7 +954,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 191207,
       "name": "The Show",
       "url": "https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs"

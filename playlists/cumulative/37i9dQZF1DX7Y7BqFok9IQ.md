@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Rival Sons
 
-252 songs - 15 hr 57 min
+253 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Higher Power](https://open.spotify.com/track/0u70IdyL5XsnryWI99Haqr) | [Cody Jasper](https://open.spotify.com/artist/5TUeTFpidqbyGqXeOj5I1H) | [Higher Power](https://open.spotify.com/album/1IUvobngXGOyJ4BdtlYILD) | 4:14 | 2022-02-25 | 2023-07-15 |
 | [Hippies On Acid](https://open.spotify.com/track/4IdcUbuVe9VN6lnFJqCeIk) | [7Horse](https://open.spotify.com/artist/3P5NW1wQjcWpR0VsT1m0xr) | [The Last Resort](https://open.spotify.com/album/0ihKlGpDF5aXScqrJu7zUZ) | 3:45 | 2022-07-15 |  |
 | [Hold on It](https://open.spotify.com/track/7GXqZ0v1AovRQDV0NBIs4a) | [The Sideshow Tragedy](https://open.spotify.com/artist/3orDENaFfgt5gcLk24QHSS) | [Hold on It](https://open.spotify.com/album/4rdexywHhYUx0aouC1if9r) | 4:11 | 2020-10-16 |  |
+| [Holy Fire](https://open.spotify.com/track/57h5BBMhju3L84Vruq34oX) | [The Lucky Strokes](https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Shelby Kemp](https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5) | [The Lucky Strokes](https://open.spotify.com/album/4S5JMPHzFFEPql78r26qux) | 3:55 | 2023-10-13 |  |
 | [Holy Ghost Fire](https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Holy Ghost Fire](https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht) | 3:22 | 2020-10-16 | 2023-03-05 |
 | [Holy Ghost Fire](https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:22 | 2020-10-16 | 2023-04-26 |
 | [Homesick Blues](https://open.spotify.com/track/0sL71NFPGTCMCylI0owpZN) | [True Strays](https://open.spotify.com/artist/2arsJQ0bB5uQyDJoR3MbOq) | [Homeward Bound](https://open.spotify.com/album/14KKcXPokDi6qo43F5ttV3) | 3:40 | 2020-10-16 |  |
@@ -111,7 +112,7 @@
 | [In Stride](https://open.spotify.com/track/4maDoiqrbnZYA64w4Wzmha) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [In Stride](https://open.spotify.com/album/7b11AjtUEnyIJfSVqSmY16) | 3:47 | 2021-02-19 | 2022-07-28 |
 | [In The Night Time](https://open.spotify.com/track/0S84XFY5CMmwDTTkbi08q4) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In The Night Time](https://open.spotify.com/album/3dd5Y678XGzwSOSkDLYOrF) | 3:08 | 2021-04-30 | 2022-07-29 |
 | [In The Night Time](https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:08 | 2021-04-30 | 2023-03-11 |
-| [Innocence Of Youth \- Live](https://open.spotify.com/track/3wv8SOIuHKruVasUr4OuRP) | [When Rivers Meet](https://open.spotify.com/artist/3r4hYfzQA1yuQFEKMDJzJi) | [Innocence Of Youth \(Live\)](https://open.spotify.com/album/1c69MRP9d9rPor6AJ2cgfg) | 5:00 | 2022-10-28 |  |
+| [Innocence Of Youth \- Live](https://open.spotify.com/track/3wv8SOIuHKruVasUr4OuRP) | [When Rivers Meet](https://open.spotify.com/artist/3r4hYfzQA1yuQFEKMDJzJi) | [Innocence Of Youth \(Live\)](https://open.spotify.com/album/1c69MRP9d9rPor6AJ2cgfg) | 5:00 | 2022-10-28 | 2023-10-14 |
 | [Innocence Of Youth \- Live](https://open.spotify.com/track/6hKLwqU65JM6LfVS4VFsnk) | [When Rivers Meet](https://open.spotify.com/artist/3r4hYfzQA1yuQFEKMDJzJi) | [Flying Free Tour \(Live\)](https://open.spotify.com/album/3kqzlnGvqTxFSrcblmAP8n) | 5:00 | 2022-11-04 | 2023-09-24 |
 | [Into The Midnight Sun](https://open.spotify.com/track/4aGwqnQRU1nQuDuqGkNnoR) | [Electric Boys](https://open.spotify.com/artist/0zRRk9Oe6owoIi3cY5yWk4) | [Into The Midnight Sun](https://open.spotify.com/album/4tV6FOGhLdQHSospIkbDfc) | 3:54 | 2022-04-26 |  |
 | [Just Takes Time](https://open.spotify.com/track/4NfUTIqcPzLTcL7Owbezt7) | [Simon McBride](https://open.spotify.com/artist/4S2kddUZy77NYpLH50f3qC) | [The Fighter](https://open.spotify.com/album/52jRQHJzlln2SkAfYQnLQC) | 3:09 | 2022-06-03 |  |

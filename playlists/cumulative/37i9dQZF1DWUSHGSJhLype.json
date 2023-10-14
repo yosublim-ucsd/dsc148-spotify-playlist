@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "aquele mexid\u00e3o envolvente que o brasileiro ama / Foto: Mc Don Juan",
+  "description": "aquele mexid\u00e3o envolvente que o brasileiro ama / Foto: Mc Kevin O Chris",
   "name": "Puro SUCO DE BRASIL",
   "tracks": [
     {
@@ -497,6 +497,28 @@
     },
     {
       "album": {
+        "name": "Caf\u00e9zim de V\u00f3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/71WPmaIdErmdczERbxFDRp"
+      },
+      "artists": [
+        {
+          "name": "Avine Vinny",
+          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163654,
+      "name": "Caf\u00e9zim de V\u00f3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/1BCn0dTxjdd4IWDLBFIX6V"
+    },
+    {
+      "album": {
         "name": "Calma Vai Devagar",
         "url": "https://open.spotify.com/album/59jmPN9aIqUNqCB0QbFG5V"
       },
@@ -926,7 +948,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 145091,
       "name": "DONA DE MIM",
       "url": "https://open.spotify.com/track/7sopDXkuzXtHt8AQpdBxmT"
@@ -2286,7 +2308,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 122666,
       "name": "Papin",
       "url": "https://open.spotify.com/track/3khLpwuyIjEOw8vfJ1oUIT"
@@ -2381,6 +2403,32 @@
     },
     {
       "album": {
+        "name": "Perfume Diferente",
+        "url": "https://open.spotify.com/album/2DOO1JYlNyuZddB7NIwp4t"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92444,
+      "name": "Perfume Diferente",
+      "url": "https://open.spotify.com/track/1bD0gGRUPUJZ9YDhffHkvK"
+    },
+    {
+      "album": {
         "name": "Pilantra",
         "url": "https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K"
       },
@@ -2454,6 +2502,36 @@
       "duration_ms": 217509,
       "name": "Planejei - Ao Vivo",
       "url": "https://open.spotify.com/track/0tt0kaL2vefCw19a2bk54N"
+    },
+    {
+      "album": {
+        "name": "Vers\u00e3o Brasileira - Bloco: \"N\u00e3o vale se apegar\" (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2AVpTeN7G2MrcpU36LfXwZ"
+      },
+      "artists": [
+        {
+          "name": "MC Mari",
+          "url": "https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth"
+        },
+        {
+          "name": "Mc Danny",
+          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Poc, Poc, Poc (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0X8XyruUu5AryuAWiSx8yD"
     },
     {
       "album": {
@@ -3278,7 +3356,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 142151,
       "name": "Zona De Perigo",
       "url": "https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9"

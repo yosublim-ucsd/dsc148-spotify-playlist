@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 
 > 70s rock to fuel your ride\. Cover: Aerosmith
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,915 likes - 70 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,061 likes - 70 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 | 69 | [Hair Of The Dog](https://open.spotify.com/track/1wXE6zvNWRz8GuMfEUgETz) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Hair Of The Dog](https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF) | 4:09 |
 | 70 | [Radar Love](https://open.spotify.com/track/4Zau4QvgyxWiWQ5KQrwL43) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [The Long Versions \- Part One](https://open.spotify.com/album/2qZLEQ9KsfExIhQKJF3VkD) | 6:26 |
 
-Snapshot ID: `MCw0NzhlM2UzNTQzM2E2ZDE4ODZkYjI0NTYxYjg4MjAxMjk1NjA1ODU4`
+Snapshot ID: `MCw3ZjdlYmE4MGI3MzRjOWVjNzg5YzMwNzQ3YzY1NmNiMjg5NjUzNjI2`

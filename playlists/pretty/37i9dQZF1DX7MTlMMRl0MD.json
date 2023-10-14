@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Enrique Iglesias y Maria Becerra",
-  "num_followers": 1904325,
+  "num_followers": 1899859,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDI1MGI3NGY4NWM2OGEwODA2Njg1ZmI5NDY4NzFhMGVhMDQyMmIz",
+  "snapshot_id": "MCxmMjMxMDMxNjRiMWZjZDA5OGY5NjQ4YjY2ZWJkMzIxOWExODViM2Mw",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -261,6 +261,22 @@
       "url": "https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v"
     },
     {
+      "added_at": "2023-10-13 02:49:10",
+      "album": {
+        "name": "Yo Quiero El Amor",
+        "url": "https://open.spotify.com/album/7rTIazgkqWjpS2fiCRA1C6"
+      },
+      "artists": [
+        {
+          "name": "Jalil Lopez",
+          "url": "https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN"
+        }
+      ],
+      "duration_ms": 145079,
+      "name": "Yo Quiero El Amor",
+      "url": "https://open.spotify.com/track/3w04UT98eT7KSrBvbIP0Bc"
+    },
+    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "La Bachata",
@@ -275,22 +291,6 @@
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/79nrfAlzkAaCorWG5JtKD2"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -311,18 +311,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Perdon",
-        "url": "https://open.spotify.com/album/3ExPJyqjXscTQvzo0UC96u"
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/79nrfAlzkAaCorWG5JtKD2"
       },
       "artists": [
         {
-          "name": "Ronny Dae",
-          "url": "https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId"
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Perdon",
-      "url": "https://open.spotify.com/track/200Xoixz9vIdfvUoB9Lq6I"
+      "duration_ms": 200000,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -507,18 +507,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Prince Royce",
-        "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
+        "name": "FIVE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
       },
       "artists": [
         {
           "name": "Prince Royce",
           "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 223200,
-      "name": "Rechazame",
-      "url": "https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK"
+      "duration_ms": 196480,
+      "name": "Deja vu",
+      "url": "https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -591,22 +595,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "FIVE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
+        "name": "Prince Royce",
+        "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
       },
       "artists": [
         {
           "name": "Prince Royce",
           "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 196480,
-      "name": "Deja vu",
-      "url": "https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda"
+      "duration_ms": 223200,
+      "name": "Rechazame",
+      "url": "https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Don Juan",
-        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 185734,
-      "name": "Procura",
-      "url": "https://open.spotify.com/track/2RXrX4BuyEPmmRCNzIJsYQ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Merengue y Sentimiento",
         "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 230546,
       "name": "Amorcito Enfermito",
       "url": "https://open.spotify.com/track/2colCrVYpDalL5Oc0NkfaK"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 185734,
+      "name": "Procura",
+      "url": "https://open.spotify.com/track/2RXrX4BuyEPmmRCNzIJsYQ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1043,26 +1043,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Que Vuelvas",
-        "url": "https://open.spotify.com/album/4KN1ZXAY94rRlL8IwH1Pxg"
+        "name": "Que Sera de Mi",
+        "url": "https://open.spotify.com/album/6S2qBQU4NA4ZEOzARrS1QF"
       },
       "artists": [
         {
-          "name": "Lirow",
-          "url": "https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs"
-        },
-        {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
-        },
-        {
-          "name": "DJ Ramon",
-          "url": "https://open.spotify.com/artist/6UTnO6XhjHYM2Oe9V0DEH1"
+          "name": "El Varon de la bachata",
+          "url": "https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Que Vuelvas",
-      "url": "https://open.spotify.com/track/6YBMVW3OF19qHwJJ6AmQ6N"
+      "duration_ms": 271066,
+      "name": "Que Sera de Mi",
+      "url": "https://open.spotify.com/track/4T7xZSaBTDUmUWjnHtnSvQ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1083,18 +1075,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Que Sera de Mi",
-        "url": "https://open.spotify.com/album/6S2qBQU4NA4ZEOzARrS1QF"
+        "name": "Que Vuelvas",
+        "url": "https://open.spotify.com/album/4KN1ZXAY94rRlL8IwH1Pxg"
       },
       "artists": [
         {
-          "name": "El Varon de la bachata",
-          "url": "https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV"
+          "name": "Lirow",
+          "url": "https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs"
+        },
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        },
+        {
+          "name": "DJ Ramon",
+          "url": "https://open.spotify.com/artist/6UTnO6XhjHYM2Oe9V0DEH1"
         }
       ],
-      "duration_ms": 271066,
-      "name": "Que Sera de Mi",
-      "url": "https://open.spotify.com/track/4T7xZSaBTDUmUWjnHtnSvQ"
+      "duration_ms": 213000,
+      "name": "Que Vuelvas",
+      "url": "https://open.spotify.com/track/6YBMVW3OF19qHwJJ6AmQ6N"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "KITSUNE",
-        "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 169418,
-      "name": "AMNESIA",
-      "url": "https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Canciones Inmortales Bachatas",
         "url": "https://open.spotify.com/album/1VjinqTO9MoT3YJkpkhVbA"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 472546,
       "name": "Loco de Amor",
       "url": "https://open.spotify.com/track/33lOsXDjSYVgjaTkNcXCFA"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "KITSUNE",
+        "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 169418,
+      "name": "AMNESIA",
+      "url": "https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Volvio el Dolor",
+        "url": "https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "Volvio el dolor",
+      "url": "https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Fronteo",
         "url": "https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC"
       },
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Volvio el Dolor",
-        "url": "https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi"
-      },
-      "artists": [
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "Volvio el dolor",
-      "url": "https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Sangre De Mis Venas",
         "url": "https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 249034,
       "name": "Sangre De Mis Venas",
       "url": "https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Perdon",
+        "url": "https://open.spotify.com/album/3ExPJyqjXscTQvzo0UC96u"
+      },
+      "artists": [
+        {
+          "name": "Ronny Dae",
+          "url": "https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Perdon",
+      "url": "https://open.spotify.com/track/200Xoixz9vIdfvUoB9Lq6I"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1487,38 +1503,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Johnny Sky",
-        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
-      },
-      "artists": [
-        {
-          "name": "Johnny Sky",
-          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
-        }
-      ],
-      "duration_ms": 237998,
-      "name": "With or Without You",
-      "url": "https://open.spotify.com/track/4oByhbsmy68c2V7GUEMr22"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "La Voz de La Juventud",
-        "url": "https://open.spotify.com/album/5fVuQ17Py7H1s5LAboQRGO"
-      },
-      "artists": [
-        {
-          "name": "Toby Love",
-          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Te Parece Poco",
-      "url": "https://open.spotify.com/track/2uSSzhpzGhLxAsArQH8DVW"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
       },
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "La Voz de La Juventud",
+        "url": "https://open.spotify.com/album/5fVuQ17Py7H1s5LAboQRGO"
+      },
+      "artists": [
+        {
+          "name": "Toby Love",
+          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Te Parece Poco",
+      "url": "https://open.spotify.com/track/2uSSzhpzGhLxAsArQH8DVW"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/51sUzxktVYZSJdt34KR2e9"
       },
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Johnny Sky",
+        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 237998,
+      "name": "With or Without You",
+      "url": "https://open.spotify.com/track/4oByhbsmy68c2V7GUEMr22"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/2YHB2aqmMs5WrzLZK6hfSP"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 220645,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/58dDbQWXLM1Fop74OWCxl0"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Sin Tu Amor",
-        "url": "https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla"
-      },
-      "artists": [
-        {
-          "name": "Johnny Sky",
-          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
-        }
-      ],
-      "duration_ms": 161835,
-      "name": "Sin Tu Amor",
-      "url": "https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Toby Love",
-        "url": "https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG"
-      },
-      "artists": [
-        {
-          "name": "Toby Love",
-          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "Tengo un Amor",
-      "url": "https://open.spotify.com/track/4dz2XW41AQTMn0bFKzaqsr"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
         "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
       },
@@ -1663,22 +1647,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "7 Pecados",
-        "url": "https://open.spotify.com/album/176s0aCeKMzCKl51vXul3X"
-      },
-      "artists": [
-        {
-          "name": "Dani J",
-          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "7 Pecados",
-      "url": "https://open.spotify.com/track/6xl0OFFGmvDd0MnmOT4zuj"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Hablame De Ti",
         "url": "https://open.spotify.com/album/5uAejFtlnv9SC42nXpN6Tn"
       },
@@ -1691,6 +1659,38 @@
       "duration_ms": 267572,
       "name": "Hablame De Ti",
       "url": "https://open.spotify.com/track/7MrYqXLMquDTSC8CfvGJVF"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Sin Tu Amor",
+        "url": "https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 161835,
+      "name": "Sin Tu Amor",
+      "url": "https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Toby Love",
+        "url": "https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG"
+      },
+      "artists": [
+        {
+          "name": "Toby Love",
+          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "Tengo un Amor",
+      "url": "https://open.spotify.com/track/4dz2XW41AQTMn0bFKzaqsr"
     },
     {
       "added_at": "2023-10-06 04:00:00",

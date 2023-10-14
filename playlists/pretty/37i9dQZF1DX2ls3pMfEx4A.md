@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 
 > Songs that will make you and your kids laugh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,794 likes - 51 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,790 likes - 51 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 | 3 | [Mr Butt](https://open.spotify.com/track/5LE6ragFpfU11QQymnZBGR) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [The Really Really Really Really Boring Album](https://open.spotify.com/album/2yr8p98bJvQlImtgFhJEH4) | 1:11 |
 | 4 | [Raining Tacos](https://open.spotify.com/track/01apQz7E72krU1k1b4VWs7) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Parry Gripp Mega\-Party \(2008 \- 2012\)](https://open.spotify.com/album/0xbbsauKysPCTQDd38P2CW) | 1:32 |
 | 5 | [Bees Can Talk by Moving Their Butts](https://open.spotify.com/track/3jtsg0PEBWqbTFG9qIdUSx) | [Chompers](https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z) | [Songs to Brush Your Teeth To](https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG) | 1:53 |
-| 6 | [PPAP\(Pen\-Pineapple\-Apple\-Pen\) \- Long ver.](https://open.spotify.com/track/5qRj5I58zuHkVilcqVWN3P) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2) | [I have a PPAP](https://open.spotify.com/album/2c8W1S31BgpyrAm0txBFTc) | 2:02 |
+| 6 | [PPAP \(Pen Pineapple Apple Pen\) \- Long Version](https://open.spotify.com/track/4bw49rU057FSUTpGF4pnxq) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2) | [PPAP \(Pen Pineapple Apple Pen\) \[Long Version\]](https://open.spotify.com/album/0TTreMWrqyCSiKJrnLjvlE) | 2:04 |
 | 7 | [Pink Fluffy Unicorns Dancing On Rainbows](https://open.spotify.com/track/4Xn2RsLiDUDisOgJ24FigK) | [Songs To Wear Pants To](https://open.spotify.com/artist/0UizQYD2qphg8nfPOdeOdX) | [Corduroys, With Tassles](https://open.spotify.com/album/5LwQFB5zCZDbaMQ8f6uSZG) | 1:33 |
 | 8 | [I Am A Gummy Bear \(English\)](https://open.spotify.com/track/5YJfmBODXO0lL2zTDf8xlD) | [Gummibär](https://open.spotify.com/artist/6NJb7ZCMVLu2ZXwWJa2O3G) | [The Gummy Bear Song International Singles](https://open.spotify.com/album/1sgWR5fZEmnBxPlbjmCQVg) | 3:12 |
 | 9 | [Chicken Monkey Duck](https://open.spotify.com/track/5LbLwcJgzQggfp2EiGGaFb) | [Mike Phirman](https://open.spotify.com/artist/4RXwlvGvt3VjfVJjVIFQTJ) | [Songs to Sing at Children](https://open.spotify.com/album/58SHDR5ORDlCe909wOZeD8) | 1:11 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 | 50 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 |
 | 51 | [B\-I\-N\-G\-O](https://open.spotify.com/track/4xdQOzApn01AUGHYjOOKEn) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [New Year's Eve 2021 with the Frenchies](https://open.spotify.com/album/5pL4VA9ZMhKEstafBfBGYF) | 1:57 |
 
-Snapshot ID: `MCwyZTFlY2I4MTRmNTkyMDAwOTAwZWNiMmFlY2M4YTZmYzdiOTdlMGEx`
+Snapshot ID: `MCw2MmZiNjJlNWRhYjRhOGY4YmNmOTQ0YTJkZmY1MTU3MzE2NGVjNzRk`

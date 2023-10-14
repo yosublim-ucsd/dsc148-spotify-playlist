@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 29433,
+  "num_followers": 29515,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjBmOWE3ZjkyNzVkZWI1NjFkNTA4ZTBiODZjZGEwZTcwN2VjZTY2",
+  "snapshot_id": "MCw2MWRhNDhiOGI4ZDBmY2M5YWM1NTBhNmEyMGIzYWI3ZWU3NzZlOGU5",
   "tracks": [
     {
       "added_at": "2022-10-02 01:51:23",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Tony! Toni! Tone'! Greatest Hits",
-        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Anniversary",
-      "url": "https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
         "name": "All That I Am",
         "url": "https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 380533,
       "name": "All The Things (Your Man Won't Do)",
       "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
+        "name": "Tony! Toni! Tone'! Greatest Hits",
+        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Anniversary",
+      "url": "https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl"
     },
     {
       "added_at": "2022-10-02 01:51:23",

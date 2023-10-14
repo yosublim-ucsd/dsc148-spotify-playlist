@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,178 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,085 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Farbverlauf](https://open.spotify.com/track/0mSTVa3P2tv6zGRK2J63wI) | [George JR](https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t) | [Farbverlauf](https://open.spotify.com/album/6BbW7UG3EPMKyWUTnob6NJ) | 2:26 |
 | 75 | [Wenn wir groß sind](https://open.spotify.com/track/1EIviVazDK4zTaRHaU280S) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wenn wir groß sind](https://open.spotify.com/album/0QIFovoVISr6tYzg3HYeQZ) | 3:41 |
 
-Snapshot ID: `MCxmNWU1YmYwOWU2ZjNmZjBlYTQ3MWRmNjk1M2VkZjQxMTQ3YjNlNTYw`
+Snapshot ID: `MCw1ZGZkNjNiMGE2MzZhMzM0NTUyOTMzYzIwZDcxOGIzZThjNTAwNWRk`

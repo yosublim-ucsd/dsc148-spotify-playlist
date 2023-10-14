@@ -4,7 +4,7 @@
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo?si=tLbyRVllQF2P5TR3mx4lRww">Elandré</a>
 
-563 songs - 1 day 7 hr 54 min
+564 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Nonna](https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Patriot](https://open.spotify.com/album/4F98wQqGeijl8nnda2yUaM) | 3:23 | 2022-12-27 | 2023-01-02 |
 | [Nora Vlok](https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Nora Vlok](https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs) | 3:07 | 2022-12-08 | 2023-05-26 |
 | [Nostalgie](https://open.spotify.com/track/51gmwQ2DysLAzGMDZ9QJbr) | [Carlissa](https://open.spotify.com/artist/4DnxYe01g800MpVYYvN74l) | [Nostalgie](https://open.spotify.com/album/5WEswN1xODOysaRnIxKhsF) | 3:22 | 2023-05-04 | 2023-05-12 |
+| [Nuwe Liefde](https://open.spotify.com/track/2UPxiygts8H5sci9D41YWL) | [Nadine Blom](https://open.spotify.com/artist/4xdhhxjDnqlTtI5uIEN2Sd) | [Nuwe Liefde](https://open.spotify.com/album/1385mUopK4X7q2jW76Ma0G) | 3:00 | 2023-10-13 |  |
 | [Nuwe Reise](https://open.spotify.com/track/6irJs3wXpfMJBwPsx6BZUP) | [Legkaart](https://open.spotify.com/artist/6q148JlUofOrUfcf7Dmac6) | [Nuwe Reise](https://open.spotify.com/album/2eTnfCXIPXQ6ZGKRs30Uy4) | 2:42 | 2023-01-19 | 2023-03-18 |
 | [O My Vy](https://open.spotify.com/track/6UPiIutgybDU0QljOWWUHf) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [O My Vy](https://open.spotify.com/album/0vFiwfmHqB84pPcp6tWcbh) | 3:29 | 2022-10-20 | 2023-02-24 |
 | [O, My Donner](https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hanu De Jong](https://open.spotify.com/artist/3rMWW9HNEP3gaFRUp7BKOs) | [O, My Donner](https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw) | 2:52 | 2023-08-31 | 2023-09-15 |
@@ -559,7 +560,7 @@
 | [Weskus Wyn](https://open.spotify.com/track/0OBxUSpC7q7KlJZ7EbusfC) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0) | [Weskus Wyn](https://open.spotify.com/album/1DDWVBKCXgZDv4C672D6up) | 2:53 | 2023-07-13 | 2023-08-04 |
 | [Wie's Jou Kat?](https://open.spotify.com/track/1cpPxUeohprGjsQInKBggX) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Wie's Jou Kat?](https://open.spotify.com/album/1eQFe82cj7zrCeh3R0XizG) | 3:25 | 2022-10-27 | 2023-01-13 |
 | [Wikkel En Weeg](https://open.spotify.com/track/58sfTO42iIqP7wXczW5oIH) | [Jolanda Fouché](https://open.spotify.com/artist/0V7auwP4exRWU5qL6LvyzD) | [Wikkel En Weeg](https://open.spotify.com/album/3j5OkkBYLr6p63NqtvFe5H) | 4:12 | 2023-04-27 | 2023-05-05 |
-| [Wil Jy Bly](https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Wil Jy Bly](https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg) | 3:07 | 2023-06-08 |  |
+| [Wil Jy Bly](https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Wil Jy Bly](https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg) | 3:07 | 2023-06-08 | 2023-10-14 |
 | [Willemiena Van Gezina](https://open.spotify.com/track/6DL9Lejno5xdGRl0gwLwP9) | [Pieter Smith](https://open.spotify.com/artist/436epCFSdTxQ6EtvKmOg26) | [Willemiena Van Gezina](https://open.spotify.com/album/4wMtEK7o7S37aebSotkFb0) | 2:58 | 2023-03-16 | 2023-06-17 |
 | [Wind Oor Die Berge](https://open.spotify.com/track/0VJlsGRJCojYup9mWi72t2) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [Wind Oor Die Berge](https://open.spotify.com/album/2dJlSMrpuRPH1HkKqNjogS) | 3:21 | 2023-01-05 | 2023-02-03 |
 | [Wit Vlag](https://open.spotify.com/track/5TLdTbaryDECAd7tq9DUB5) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Loki Rothman](https://open.spotify.com/artist/2dRlORRtjS7XHuCdEbHrE3) | [Wit Vlag](https://open.spotify.com/album/2gIDuvSzxRdjbZzuxl7S0L) | 3:31 | 2023-08-24 | 2023-09-08 |

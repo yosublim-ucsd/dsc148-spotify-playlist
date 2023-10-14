@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "The best Latin Indie tracks right now, featuring Simon Grossman.",
+  "description": "The best Latin Indie tracks right now, featuring Esteman.",
   "name": "Ultimate Latin Indie",
   "tracks": [
     {
@@ -418,7 +418,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 164708,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR"
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 154119,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ"
@@ -2321,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "Live For Me",
+        "url": "https://open.spotify.com/album/6zGhZBWh0K0PolEhjLv1Km"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Live For Me",
+      "url": "https://open.spotify.com/track/3wEa4oO2y9kuaPAbh4pzQb"
+    },
+    {
+      "album": {
         "name": "Saccharine",
         "url": "https://open.spotify.com/album/30I9MlPFuQjg71yzt19XcB"
       },
@@ -2788,7 +2806,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 187557,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
@@ -2854,6 +2872,28 @@
       "duration_ms": 213893,
       "name": "M\u00e1quina Del Tiempo",
       "url": "https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF"
+    },
+    {
+      "album": {
+        "name": "M\u00edstica",
+        "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232693,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
     },
     {
       "album": {
@@ -3032,6 +3072,32 @@
       "duration_ms": 150461,
       "name": "No Te Vayas with Jane",
       "url": "https://open.spotify.com/track/6dkcbaRHCVqSeWG1cmbZC0"
+    },
+    {
+      "album": {
+        "name": "XO clubeteado / NOS SOLTAMOS chiliado",
+        "url": "https://open.spotify.com/album/4L9dCnZASsPEIhhBwItsho"
+      },
+      "artists": [
+        {
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+        },
+        {
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        },
+        {
+          "name": "Pablo Sotelo",
+          "url": "https://open.spotify.com/artist/7JTIskra5uVup9ZyODtm0u"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222806,
+      "name": "NOS SOLTAMOS chiliado",
+      "url": "https://open.spotify.com/track/53btwRfmuueXwDxtEoeGFj"
     },
     {
       "album": {
@@ -4100,7 +4166,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 251520,
       "name": "Te Espero Aqu\u00ed",
       "url": "https://open.spotify.com/track/5cTyKJd1pHOxTt8pt8hAi7"
@@ -4688,6 +4754,24 @@
       "duration_ms": 176400,
       "name": "VHS",
       "url": "https://open.spotify.com/track/4k34WNz27uYpifsREylsyx"
+    },
+    {
+      "album": {
+        "name": "VOYCONTODO",
+        "url": "https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137114,
+      "name": "VOYCONTODO",
+      "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
     },
     {
       "album": {

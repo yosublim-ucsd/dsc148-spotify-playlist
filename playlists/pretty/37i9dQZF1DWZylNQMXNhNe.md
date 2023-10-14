@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Gloria Groove
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,126 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,026 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 17 | [AEIOU](https://open.spotify.com/track/49QWN3Hq99FriZqIWEISYQ) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [AEIOU](https://open.spotify.com/album/6SeOld4CS4Le8JuxMmkfXP) | 2:46 |
 | 18 | [Parabéns](https://open.spotify.com/track/6X0XdIcgwfVa9orJnDMQB0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Parabéns](https://open.spotify.com/album/0rDDD6fyQCUDiwlehEJsnd) | 2:16 |
 | 19 | [Te Deixo Crazy](https://open.spotify.com/track/7xyvvzTC0cG4wqJNIDuiNb) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Te Deixo Crazy](https://open.spotify.com/album/6GhQsV31Iz1edjKeAD6fan) | 2:44 |
-| 20 | [Aladim](https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Aladim](https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj) | 2:25 |
-| 21 | [só sei me apaixonar](https://open.spotify.com/track/2t9aq7casApouXjzTlQUf1) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [só sei me apaixonar](https://open.spotify.com/album/1dVHwfsxBLGjENRogLrIo7) | 2:27 |
+| 20 | [só sei me apaixonar](https://open.spotify.com/track/2t9aq7casApouXjzTlQUf1) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [só sei me apaixonar](https://open.spotify.com/album/1dVHwfsxBLGjENRogLrIo7) | 2:27 |
+| 21 | [Aladim](https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Aladim](https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj) | 2:25 |
 | 22 | [Barbie \(feat\. Danny Bond\)](https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Barbie \(feat\. Danny Bond\)](https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx) | 2:29 |
 | 23 | [Bumbum Check](https://open.spotify.com/track/07q51cMw9IyDfZ7Jk08S6z) | [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [VILLA](https://open.spotify.com/artist/0YBvFbBw6zspOBX3t0PNGD) | [Bumbum Check](https://open.spotify.com/album/6MDj1MOMSs5N34VtAyxzjy) | 2:21 |
 | 24 | [PROIBIDONA](https://open.spotify.com/track/090GUuqAuh7Vje3V745nep) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [PROIBIDONA](https://open.spotify.com/album/4uE5CGnjimzfh5m40ullYU) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 49 | [Bang Bang](https://open.spotify.com/track/165HsSYegdOoZO7jKMt9xb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:54 |
 | 50 | [Trago Seu Amor de Volta \- Ao Vivo](https://open.spotify.com/track/21AFVwyji9hdtWqlekS4Xx) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [I AM PABLLO \(Ao Vivo\)](https://open.spotify.com/album/4nRBYJ5BaPMk66wyQdeq9O) | 2:34 |
 
-Snapshot ID: `MCxmOTBlNTA2M2Q4YjA5ODc5NGMyMmE0MjUxZGU5OTg5YzMyYjE4NWNm`
+Snapshot ID: `MCw1YmY4YmI5OTU1NzUyYTNiYzRjYzM0OGUxZjUyMjY3MmEwMjE0NzE5`

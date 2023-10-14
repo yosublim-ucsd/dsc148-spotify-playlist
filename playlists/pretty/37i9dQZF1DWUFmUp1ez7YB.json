@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. Foto: Marc Anthony",
-  "num_followers": 487436,
+  "num_followers": 487520,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmZiODdhZDc1MDNmNTc0NWQzOTI4ZGZmNzMxOTkwMDE2ZDgwMTIy",
+  "snapshot_id": "MCw1MDM2ODhjZDIzZTZkZjhjNTA3NjA4YWViN2Y2NjI1N2RmNTEwY2Qy",
   "tracks": [
     {
       "added_at": "2023-09-26 23:46:47",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-09-26 23:46:47",
       "album": {
-        "name": "Exitos de Victor Manuelle",
-        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 305066,
-      "name": "Dile A Ella",
-      "url": "https://open.spotify.com/track/45nyOQWvhjn9bfAoTIKCuJ"
-    },
-    {
-      "added_at": "2023-09-26 23:46:47",
-      "album": {
         "name": "Desde Un Principio / From The Beginning",
         "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 366200,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
+    },
+    {
+      "added_at": "2023-09-26 23:46:47",
+      "album": {
+        "name": "Exitos de Victor Manuelle",
+        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 305066,
+      "name": "Dile A Ella",
+      "url": "https://open.spotify.com/track/45nyOQWvhjn9bfAoTIKCuJ"
     },
     {
       "added_at": "2023-09-26 23:46:47",

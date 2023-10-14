@@ -4,7 +4,7 @@
 
 > For whatever activity you do that may need a punch of intensity!
 
-317 songs - 16 hr 50 min
+318 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A Yo](https://open.spotify.com/track/7jLePOhkwslpzYSw5ZTCDG) | [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL), [TizzTrap](https://open.spotify.com/artist/2gkITzNx4kpWyX8Tf140HX), [BG](https://open.spotify.com/artist/331Xmbd0r2nu2TxnA4aQQR) | [A Yo](https://open.spotify.com/album/7H3XNmuhuX5HOpXpByYKRL) | 2:41 | 2022-04-15 | 2022-04-20 |
 | [Act Up](https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:38 | 2022-04-15 | 2022-04-17 |
 | [Active](https://open.spotify.com/track/4z5WcMruV9ABwG9pJE1GT2) | [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Inferno](https://open.spotify.com/album/40xx4FFeandutDmaK3qEqj) | 3:41 | 2023-01-31 | 2023-05-27 |
-| [After Party](https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:47 | 2021-12-20 |  |
+| [After Party](https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:47 | 2021-12-20 | 2023-10-14 |
 | [Airplane Mode \(feat\. NSG\)](https://open.spotify.com/track/4Dech2aFB9vMxRFF4rJAM1) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Crabs In A Bucket](https://open.spotify.com/album/6nGxZjUBZK40BydnxQkc15) | 3:57 | 2022-04-15 | 2022-04-21 |
 | [ALREADY](https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:42 | 2022-04-15 | 2022-04-19 |
 | [Ambition For Cash](https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Ambition For Cash](https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9) | 2:23 | 2021-12-20 | 2022-07-29 |
@@ -55,6 +55,7 @@
 | [Breakup Riddim](https://open.spotify.com/track/6eQJlOBTVunZYc0DvVj1H0) | [DJ Aroma](https://open.spotify.com/artist/6JAmITwWmfcxmfTMRw1Qtq), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Nhlanhla Nciza](https://open.spotify.com/artist/5RWkCVS7J5JkzumQrh7uBd) | [Breakup Riddim](https://open.spotify.com/album/4jgEls0nOqJJdC2WepmEdf) | 3:24 | 2022-04-15 | 2022-04-19 |
 | [Brick by Brick](https://open.spotify.com/track/0UcYXBvTQH62tkGiJkhv5H) | [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE) | [Brick by Brick](https://open.spotify.com/album/52BVM9BUXNS21xpZKLxB1z) | 2:16 | 2022-05-06 | 2022-06-25 |
 | [Broke In A Minute](https://open.spotify.com/track/2ZrAjMSmlbDIil0JaVgTHh) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Broke In A Minute](https://open.spotify.com/album/0UWsJ8Z4BRe740txEt4IM6) | 2:12 | 2021-12-20 | 2022-07-27 |
+| [Broke In A Minute](https://open.spotify.com/track/4xqIYGwwZTEem9U8A42SPF) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [The New Toronto 3](https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf) | 2:12 | 2023-08-24 |  |
 | [Bubbly \(with Drake & Travis Scott\)](https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:45 | 2021-12-20 | 2022-07-29 |
 | [Buff Baddies](https://open.spotify.com/track/71hCrxBjDzCL49k20QCbGS) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Now Or Never](https://open.spotify.com/album/5REuIeh4EBrkU0Nrz3n5jT) | 2:37 | 2022-04-15 | 2022-04-20 |
 | [Bufu](https://open.spotify.com/track/63b8nIX4nLik9ZCtKTTGcX) | [Boy Boy](https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS) | [Bufu](https://open.spotify.com/album/7MTyYh2AMh6Whf6zpB1OTe) | 3:18 | 2023-06-05 | 2023-07-21 |

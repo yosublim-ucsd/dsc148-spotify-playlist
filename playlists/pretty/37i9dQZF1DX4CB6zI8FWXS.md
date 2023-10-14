@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Jorja Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,225 likes - 79 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,187 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 73 | [Catwalk](https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Chalawan Sound](https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go) | 4:11 |
 | 74 | [Wrong Hands](https://open.spotify.com/track/7lP071DicbJJgF3VU8vCkw) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Wrong Hands](https://open.spotify.com/album/4v5bS7FUVnI04SH8JIZOh5) | 3:09 |
 | 75 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 |
-| 76 | [butterflies \(feat\. Rexx Life Raj\)](https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 2:49 |
-| 77 | [Full Time \(Part Time Allthetime\)](https://open.spotify.com/track/5TDsWeQtaNonNuhY5PMfV3) | [Fieh](https://open.spotify.com/artist/0KmBIwN1qmQbXpR4wtJX88) | [III](https://open.spotify.com/album/6P6orEowiFPwJFJxZOTpPl) | 5:11 |
-| 78 | [Lipstick Lover](https://open.spotify.com/track/5c2jJgsGsnYWB6QdkK1ycR) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/76yGR9gMIP6BdHuWsb7Iun) | 2:49 |
-| 79 | [Text Me When You Get Home](https://open.spotify.com/track/2izQTx8Kqqim7uwsd6JDTt) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Lola Vialet](https://open.spotify.com/artist/17pVXx2X9nRMCPFkdrxkUD), [UHMEER](https://open.spotify.com/artist/5PsYkefUonoeM9VCnpf5zd) | [A Kid From Yerevan](https://open.spotify.com/album/1OBqbm22aIZsHyxkrUVVOu) | 5:17 |
+| 76 | [Messi](https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [7 SEAS](https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc) | 3:06 |
+| 77 | [butterflies \(feat\. Rexx Life Raj\)](https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 2:49 |
+| 78 | [Full Time \(Part Time Allthetime\)](https://open.spotify.com/track/5TDsWeQtaNonNuhY5PMfV3) | [Fieh](https://open.spotify.com/artist/0KmBIwN1qmQbXpR4wtJX88) | [III](https://open.spotify.com/album/6P6orEowiFPwJFJxZOTpPl) | 5:11 |
+| 79 | [Lipstick Lover](https://open.spotify.com/track/5c2jJgsGsnYWB6QdkK1ycR) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/76yGR9gMIP6BdHuWsb7Iun) | 2:49 |
+| 80 | [Text Me When You Get Home](https://open.spotify.com/track/2izQTx8Kqqim7uwsd6JDTt) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Lola Vialet](https://open.spotify.com/artist/17pVXx2X9nRMCPFkdrxkUD), [UHMEER](https://open.spotify.com/artist/5PsYkefUonoeM9VCnpf5zd) | [A Kid From Yerevan](https://open.spotify.com/album/1OBqbm22aIZsHyxkrUVVOu) | 5:17 |
 
-Snapshot ID: `MCwxM2IyODFmMGU2MjEwYjA1ODlkYTVlYjk3ZDRlYWY4NzI2NzFiYmI4`
+Snapshot ID: `MCxlN2NjNTg3ZDVhZjBmZWEzNTA0Njk1OTRhYjVlMjcyMzk3MzE5Yjgw`

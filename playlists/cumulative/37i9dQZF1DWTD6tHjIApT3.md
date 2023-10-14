@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 幾田りら
 
-1,806 songs - 4 day 20 hr 47 min
+1,807 songs - 4 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1236,7 +1236,8 @@
 | [キャリーケースは重いままで](https://open.spotify.com/track/2ADl3dTfftKsYTVQjdY7iH) | [やましたりな](https://open.spotify.com/artist/1O235Li0262kkP7gfP6B5W) | [バイバイ、私 / キャリーケースは重いままで](https://open.spotify.com/album/6ywtlcRbSCR213Z70OZIgK) | 4:05 | 2022-06-07 | 2022-06-10 |
 | [キライキライ](https://open.spotify.com/track/2bxeuMx4zkZwFMIBueowbY) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [キライキライ](https://open.spotify.com/album/0Thk7AwgYbKr7i8ZObpEj3) | 3:06 | 2023-05-16 | 2023-05-31 |
 | [キラボシ](https://open.spotify.com/track/6XTcLBGaDOafFwg39GBjv3) | [Momoka Kisaki](https://open.spotify.com/artist/1CP2ElxvOk08sIZn9xXfl4) | [キラボシ](https://open.spotify.com/album/4VdxIfLBEu7K9gZZwyIxwx) | 3:07 | 2022-10-25 | 2022-11-16 |
-| [キリエ・憐れみの讃歌](https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/16UD0fdKRMlLwVfCIviFyZ) | 5:18 | 2023-09-26 |  |
+| [キリエ・憐れみの讃歌](https://open.spotify.com/track/4KjNYo1Y9QWc0GQES77dfl) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/6P0h9ZA6Vf5Drg76VGFLSe) | 5:18 | 2023-10-12 |  |
+| [キリエ・憐れみの讃歌](https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/16UD0fdKRMlLwVfCIviFyZ) | 5:18 | 2023-09-26 | 2023-10-14 |
 | [キンモクセイ](https://open.spotify.com/track/5D4rmd0lELbzElkHne1EvY) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [キンモクセイ](https://open.spotify.com/album/15SsNtLdpBfNUzEcZEGDFV) | 4:29 | 2022-05-29 | 2022-07-29 |
 | [ギブス](https://open.spotify.com/track/7kIKjH4RrK8LT5TbmwecK9) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [あなたの生きている世界1](https://open.spotify.com/album/62YAdq98gEQphXbrvLUMtD) | 6:41 | 2022-11-08 | 2022-11-10 |
 | [クジラのステージ](https://open.spotify.com/track/4GHRt13bE6FwsszVsXnOeh) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [クジラのステージ](https://open.spotify.com/album/7LqOws7ynv8xkqt9oJ0Qhs) | 5:24 | 2023-02-07 | 2023-02-09 |

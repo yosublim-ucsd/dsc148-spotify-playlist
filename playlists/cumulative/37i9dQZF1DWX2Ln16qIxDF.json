@@ -1754,7 +1754,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
@@ -3050,7 +3050,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 186666,
       "name": "Mejor Que Ayer",
       "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
@@ -3220,7 +3220,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 189901,
       "name": "Milo J: Bzrp Music Sessions, Vol. 57",
       "url": "https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1"
@@ -3570,6 +3570,28 @@
       "duration_ms": 166246,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/3d4rloohk7D9OqY267uq8n"
+    },
+    {
+      "album": {
+        "name": "en dormir sin Madrid",
+        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151468,
+      "name": "No soy Eterno",
+      "url": "https://open.spotify.com/track/0aPs3kmiqmt9QG7gWXdefA"
     },
     {
       "album": {
@@ -4741,6 +4763,32 @@
     },
     {
       "album": {
+        "name": "C\u00e1psula",
+        "url": "https://open.spotify.com/album/6cvF4lgfLW7pI0XmwvLrab"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214801,
+      "name": "Te Gust\u00f3",
+      "url": "https://open.spotify.com/track/0Ec5NO9g6ImmDzC0BksSPR"
+    },
+    {
+      "album": {
         "name": "Temor",
         "url": "https://open.spotify.com/album/04x545owsC3bnx17iQdnMj"
       },
@@ -4808,6 +4856,28 @@
       "duration_ms": 177032,
       "name": "Toto",
       "url": "https://open.spotify.com/track/3IWcUkdKHKCd8yC6WImYnl"
+    },
+    {
+      "album": {
+        "name": "en dormir sin Madrid",
+        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137053,
+      "name": "Toy en el Mic",
+      "url": "https://open.spotify.com/track/3DeZc9cOc1DM8YNoJV8lAv"
     },
     {
       "album": {

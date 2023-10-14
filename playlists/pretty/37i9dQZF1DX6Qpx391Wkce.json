@@ -1,15 +1,15 @@
 {
   "description": "<a href=\"spotify:artist:2xeHjPrS4EnEUIXHV9pkeg\">Monika Kruse</a>'s favorite tracks. Updated regularly. Curated by Monika Kruse. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 48351,
+  "num_followers": 48374,
   "original_name": "Monika Kruse's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWMxY2MyMDM0ZjdiMWY0NjY5ZTlhNzRiODE1MjJlZjc2MzBlNTBi",
+  "snapshot_id": "MCxjZjI2Yzg0YWVhYTNiNDIxYjkzYmVlN2Y0ZTU3NTc0MGM0NTM4OTJi",
   "tracks": [
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Morgana (2023 Edit)",
         "url": "https://open.spotify.com/album/3YlTnr4cYNg9tufccsFgRQ"
@@ -29,23 +29,63 @@
       "url": "https://open.spotify.com/track/2IOaOQTxrtJf0clbcjXNua"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/1EYnKdfqGYbyWsu8rDukJ8"
+        "name": "Cycle of Life",
+        "url": "https://open.spotify.com/album/5mnmAkEBByR4mXyA8ybYsc"
       },
       "artists": [
         {
-          "name": "Marco Faraone",
-          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+          "name": "Kaspar",
+          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
         }
       ],
-      "duration_ms": 402352,
-      "name": "Dangerous - Extended Mix",
-      "url": "https://open.spotify.com/track/1IdUhr40vhCnP8Ae0HaT9A"
+      "duration_ms": 355555,
+      "name": "Cycle of Life",
+      "url": "https://open.spotify.com/track/3HA1tvMrOoOnZl3GOb3rEB"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/6lYFoDZ0TmSSSuwLDtmfI2"
+      },
+      "artists": [
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "duration_ms": 330777,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/5OiHKfBSVXR2R0wf166GO5"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "RIDE OR DIE",
+        "url": "https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 189855,
+      "name": "RIDE OR DIE",
+      "url": "https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/5OeUe3GFRpsY9HJXDZGmes"
@@ -61,7 +101,391 @@
       "url": "https://open.spotify.com/track/0I3TiiC484ZkpOoTIFeeeP"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "The Beat / Rollercoaster (Remixes)",
+        "url": "https://open.spotify.com/album/20tc8YU6DkFS6ytga9UjiK"
+      },
+      "artists": [
+        {
+          "name": "Rudy Ripani",
+          "url": "https://open.spotify.com/artist/75Ik7Kv5iuyqvlvowJir4Z"
+        },
+        {
+          "name": "Aladarus",
+          "url": "https://open.spotify.com/artist/4lCHfDE64ZWCW7cdMyZs3N"
+        }
+      ],
+      "duration_ms": 311051,
+      "name": "Rollercoaster - Aladarus Remix",
+      "url": "https://open.spotify.com/track/2O30LF5pjVk7brwuotAddn"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "You Better Run",
+        "url": "https://open.spotify.com/album/0ZMfKICFGZwQqHhRqYAdr2"
+      },
+      "artists": [
+        {
+          "name": "Juliet Fox",
+          "url": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
+        }
+      ],
+      "duration_ms": 455294,
+      "name": "You Better Run",
+      "url": "https://open.spotify.com/track/2FYgp3V2xTc41xGkSiu41w"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/55g3kFOFsp00P2cHNJWvwD"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Mode\u0101",
+          "url": "https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ"
+        }
+      ],
+      "duration_ms": 278181,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4AqLfv5PWtRBhDm0VA8ewq"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "Phoney / Hybrid",
+        "url": "https://open.spotify.com/album/3RYyQxGhx4g4p4zJmdJlha"
+      },
+      "artists": [
+        {
+          "name": "Veerus",
+          "url": "https://open.spotify.com/artist/7GZGpDZcYVX1wrbaOoDWOH"
+        }
+      ],
+      "duration_ms": 221855,
+      "name": "Phoney",
+      "url": "https://open.spotify.com/track/40SA5sjFK3VHjFn9eOZJ73"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "Old School EP",
+        "url": "https://open.spotify.com/album/5n8Ql5AetOmyb7XNWIPuRw"
+      },
+      "artists": [
+        {
+          "name": "Alignment",
+          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+        }
+      ],
+      "duration_ms": 331934,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/0bIrl9bmKPztH1TQCTwuEr"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/5EnuzoFxD2QjtG2VFfZVpF"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        },
+        {
+          "name": "Pig&Dan",
+          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
+        }
+      ],
+      "duration_ms": 422450,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/2rPORah5HuBMmSklwbFMoi"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/0ZfVmT08B3v1RZtF4ZIuWj"
+      },
+      "artists": [
+        {
+          "name": "The Advent",
+          "url": "https://open.spotify.com/artist/2viciQWa7lV7FrogoaDvk8"
+        },
+        {
+          "name": "Thomas Hoffknecht",
+          "url": "https://open.spotify.com/artist/5NZNUuAd9Z92Q4wAVRq3Cf"
+        },
+        {
+          "name": "Pina Tesla",
+          "url": "https://open.spotify.com/artist/4cdNLTbg5gmVILlui2cIFB"
+        }
+      ],
+      "duration_ms": 349373,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/4kLeI1f9UxfvKhszaWUsXe"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "Feel The Bass",
+        "url": "https://open.spotify.com/album/5XJP3kCNx6JzzcFoLlrhqx"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Arfeli",
+          "url": "https://open.spotify.com/artist/53nQsmYO19z1chV4aSVzlp"
+        }
+      ],
+      "duration_ms": 402857,
+      "name": "Feel The Bass",
+      "url": "https://open.spotify.com/track/1gLlWewzD3lAD0e3bAhJOT"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "Illusion Of Touch EP",
+        "url": "https://open.spotify.com/album/6H6U4SSfbOlNaXS7aiXDVT"
+      },
+      "artists": [
+        {
+          "name": "DJ Dextro",
+          "url": "https://open.spotify.com/artist/3ygZ5oQeymor1LlYuGV3FO"
+        }
+      ],
+      "duration_ms": 326758,
+      "name": "Self Inductance",
+      "url": "https://open.spotify.com/track/2tAsOfI49k9BRLlQpAtPLr"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/6lYFoDZ0TmSSSuwLDtmfI2"
+      },
+      "artists": [
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "duration_ms": 370858,
+      "name": "Dopemine",
+      "url": "https://open.spotify.com/track/1DHpTZqedmXOahLu8HFHxT"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/55g3kFOFsp00P2cHNJWvwD"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Mode\u0101",
+          "url": "https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ"
+        }
+      ],
+      "duration_ms": 268656,
+      "name": "Contrast",
+      "url": "https://open.spotify.com/track/6ND5LGkeitafW7tM7I4oND"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "When I Rock (A.D.H.S. Remix)",
+        "url": "https://open.spotify.com/album/3AUUUXLVRCj3nHbGHPT0ic"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        },
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "duration_ms": 259130,
+      "name": "When I Rock - A.D.H.S. Remix",
+      "url": "https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/0khENo9jG8D9mXplIjF0hD"
+      },
+      "artists": [
+        {
+          "name": "Christian Smith",
+          "url": "https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3"
+        }
+      ],
+      "duration_ms": 330500,
+      "name": "Nu Style",
+      "url": "https://open.spotify.com/track/0sMgXQOQfyPhoLyZqojFOk"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "Embodied",
+        "url": "https://open.spotify.com/album/3YZWZ2ddtjq4e5LZeBH55G"
+      },
+      "artists": [
+        {
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+        }
+      ],
+      "duration_ms": 392677,
+      "name": "The Ultimate Ride",
+      "url": "https://open.spotify.com/track/7yOTnhPzxxQeoMpd7iXSSG"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "Voicemail (Layton Giordani Remix)",
+        "url": "https://open.spotify.com/album/2Nm01e295X9vBLH3g9FJBo"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 275472,
+      "name": "Voicemail - Layton Giordani Remix",
+      "url": "https://open.spotify.com/track/2Fm1CwqVf3TN0dlZSy0lyE"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "BARBEE (On Acid)",
+        "url": "https://open.spotify.com/album/4afcZIEQNtU404MSb03d0h"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Joeski",
+          "url": "https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7"
+        }
+      ],
+      "duration_ms": 208427,
+      "name": "BARBEE - On Acid",
+      "url": "https://open.spotify.com/track/7Ium6Ib92uNyQAJKqlnv9s"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "CORE",
+        "url": "https://open.spotify.com/album/1zSb8QsiCUw8tl7Jjxn7rw"
+      },
+      "artists": [
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        }
+      ],
+      "duration_ms": 388031,
+      "name": "CORE",
+      "url": "https://open.spotify.com/track/3lDoxEw7eZjQpcsVvWL3zP"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "Sense Fiction (Remixed)",
+        "url": "https://open.spotify.com/album/0UlUePGtOxsZ5lndnfWP6E"
+      },
+      "artists": [
+        {
+          "name": "Heiko Laux",
+          "url": "https://open.spotify.com/artist/2pmVj0JrzZpPFXhQRrhz1E"
+        },
+        {
+          "name": "Johannes Heil",
+          "url": "https://open.spotify.com/artist/3E7NxReR3vC125lN74picI"
+        }
+      ],
+      "duration_ms": 503920,
+      "name": "Presence - Johannes Heil Golden Dawn Mix",
+      "url": "https://open.spotify.com/track/4Ge8kNnp4FnvcVzRYKZX9t"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "Polished Chrome",
+        "url": "https://open.spotify.com/album/5nJQAwhMGcFWP7Q0wFkv4i"
+      },
+      "artists": [
+        {
+          "name": "Christian Smith",
+          "url": "https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3"
+        },
+        {
+          "name": "DJ Dextro",
+          "url": "https://open.spotify.com/artist/3ygZ5oQeymor1LlYuGV3FO"
+        }
+      ],
+      "duration_ms": 341125,
+      "name": "Polished Chrome - DJ Dextro Remix",
+      "url": "https://open.spotify.com/track/6eOcq6gvd9xZGOopSaaS7C"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "Reminder",
+        "url": "https://open.spotify.com/album/4UpS4QM1pb8elSfKEFiGX9"
+      },
+      "artists": [
+        {
+          "name": "Patrik Berg",
+          "url": "https://open.spotify.com/artist/13SB6LyYpsdN2QPEqpYS9l"
+        }
+      ],
+      "duration_ms": 416452,
+      "name": "Reminder",
+      "url": "https://open.spotify.com/track/2XtWtuyUPlLljHpcTwWoli"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/1EYnKdfqGYbyWsu8rDukJ8"
+      },
+      "artists": [
+        {
+          "name": "Marco Faraone",
+          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+        }
+      ],
+      "duration_ms": 402352,
+      "name": "Dangerous - Extended Mix",
+      "url": "https://open.spotify.com/track/1IdUhr40vhCnP8Ae0HaT9A"
+    },
+    {
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Let Go (KL\u00d8SET Remix)",
         "url": "https://open.spotify.com/album/1rJLukLTIECPuZqD2TpkhF"
@@ -81,27 +505,7 @@
       "url": "https://open.spotify.com/track/03qT9X4SvcKfsjiAzmrNPM"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Shiver [Ivory (IT) Remix]",
-        "url": "https://open.spotify.com/album/63Zfkd2GRScH4KpLvYMzCb"
-      },
-      "artists": [
-        {
-          "name": "Fever Ray",
-          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
-        },
-        {
-          "name": "Ivory (IT)",
-          "url": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
-        }
-      ],
-      "duration_ms": 380499,
-      "name": "Shiver - Ivory (IT) Remix",
-      "url": "https://open.spotify.com/track/3iGQ4zDfDWC0lTVb3J72rz"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Dimension",
         "url": "https://open.spotify.com/album/4rOkZ0lcidjSec0fPJrGLr"
@@ -117,7 +521,7 @@
       "url": "https://open.spotify.com/track/4LcWDwCxPWfM0aadSqLYis"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
@@ -133,7 +537,7 @@
       "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Body Ride / Demon",
         "url": "https://open.spotify.com/album/26TXuVlmcTZRN1qcuFZTsV"
@@ -149,7 +553,7 @@
       "url": "https://open.spotify.com/track/2uCf8ZlSMQhMAzwYedTaMK"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Simulator",
         "url": "https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ"
@@ -169,7 +573,7 @@
       "url": "https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "In Memoro",
         "url": "https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm"
@@ -185,23 +589,7 @@
       "url": "https://open.spotify.com/track/3T8drVfyLMXG9eyOCqJgjb"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Overdrive EP",
-        "url": "https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 254836,
-      "name": "Overdrive - Edit",
-      "url": "https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "The Violator",
         "url": "https://open.spotify.com/album/1kLSXmk2rBzGoPizreKGnB"
@@ -217,7 +605,7 @@
       "url": "https://open.spotify.com/track/3WMSOkdBmgxgkQkZkkgqZc"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Diamonds On My Mind",
         "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
@@ -233,7 +621,7 @@
       "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Mosaik",
         "url": "https://open.spotify.com/album/24LrUTOayWjn0qiEGDnlkE"
@@ -249,31 +637,7 @@
       "url": "https://open.spotify.com/track/0u1sNIPanvW5vtwRKzSQSg"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Tuning The Moon (\u00d8ostil Remix)",
-        "url": "https://open.spotify.com/album/3hQOzWcQkn4xE1LBRQ6Paa"
-      },
-      "artists": [
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        },
-        {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        },
-        {
-          "name": "\u00d8ostil",
-          "url": "https://open.spotify.com/artist/7E0ZeAt3clBvTXWsvOIV7v"
-        }
-      ],
-      "duration_ms": 325161,
-      "name": "Tuning The Moon - \u00d8ostil Remix",
-      "url": "https://open.spotify.com/track/45zl31P9Cdmgs057TmZg5C"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Leben (Extended Mix)",
         "url": "https://open.spotify.com/album/68sOYMFg1iayXlamMtaShO"
@@ -289,31 +653,7 @@
       "url": "https://open.spotify.com/track/0JGVJBpIFL9AOyS8kgnYAE"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Sal Sal",
-        "url": "https://open.spotify.com/album/1NVFgokZIeAv3vutPhLEfE"
-      },
-      "artists": [
-        {
-          "name": "Namito",
-          "url": "https://open.spotify.com/artist/6E8wYeE1CsvOUO031l9QGJ"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        },
-        {
-          "name": "Amir Sheykh",
-          "url": "https://open.spotify.com/artist/0jkm4met7RZxXJCE8IvGmr"
-        }
-      ],
-      "duration_ms": 477030,
-      "name": "Sal Sal",
-      "url": "https://open.spotify.com/track/0IbGzLHAEuX7qqzq64VdJM"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "15 Years of Terminal M - A-Sides, Vol. 2",
         "url": "https://open.spotify.com/album/2OyED7CAiXg10WRfqtcZGG"
@@ -333,47 +673,7 @@
       "url": "https://open.spotify.com/track/0EIPOXPT93Yq8NclvoZD0N"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Legends",
-        "url": "https://open.spotify.com/album/63rqiTHHTobOqJCxZRpwhC"
-      },
-      "artists": [
-        {
-          "name": "Gaga",
-          "url": "https://open.spotify.com/artist/0kolce4lQQT3kf9QJmEuMX"
-        },
-        {
-          "name": "Mateo!",
-          "url": "https://open.spotify.com/artist/3XTXJ0qA1B0EZxqdPcISv2"
-        },
-        {
-          "name": "Zafer Atabey",
-          "url": "https://open.spotify.com/artist/7FnPG0rhevatoL8aTx9Ag7"
-        }
-      ],
-      "duration_ms": 390461,
-      "name": "Legends - Zafer Atabey Remix",
-      "url": "https://open.spotify.com/track/7dqzY8JkKGSmXuM9UJIgzI"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Blurry Thoughts EP",
-        "url": "https://open.spotify.com/album/0XNqhLrjWIb5TRLtMlHXOT"
-      },
-      "artists": [
-        {
-          "name": "Flug",
-          "url": "https://open.spotify.com/artist/3sMtPWvoIoTE1IR3Ehdf5m"
-        }
-      ],
-      "duration_ms": 330857,
-      "name": "Blurry Thoughts",
-      "url": "https://open.spotify.com/track/08DdwwWnU3kU8xTFZYraqm"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Circular EP",
         "url": "https://open.spotify.com/album/3S2FQUjjtMXY5Lw1U9EN0a"
@@ -389,7 +689,7 @@
       "url": "https://open.spotify.com/track/5wki473M05c257DxpTwfYm"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "20 Years Of Dancefloor by Smiley",
         "url": "https://open.spotify.com/album/40RglEFwehUJvPb8fzGNRz"
@@ -405,7 +705,7 @@
       "url": "https://open.spotify.com/track/21uqgBVyhkmQ6w3Wpjo60m"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "D-Classics",
         "url": "https://open.spotify.com/album/0felMf9A9uIVwjTZu6uEwV"
@@ -421,7 +721,7 @@
       "url": "https://open.spotify.com/track/2QVPdMJdLAdCenGzDjhNnB"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Human Robot",
         "url": "https://open.spotify.com/album/34PZAeNnEDiUH3OUw5hf6a"
@@ -441,7 +741,7 @@
       "url": "https://open.spotify.com/track/25VtvV3hr1j4VUr4KnTrQS"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Since 94",
         "url": "https://open.spotify.com/album/5M6NyOFCdJZA83Ty9IJROy"
@@ -457,7 +757,7 @@
       "url": "https://open.spotify.com/track/6h5wIi5Gi9qAZgnAIHI4bv"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Like Forever",
         "url": "https://open.spotify.com/album/6G4e1s4wLAJj6cSxBkFAP1"
@@ -477,7 +777,7 @@
       "url": "https://open.spotify.com/track/2Ya3VU6jVjLaPF51OXcrCU"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Everything Collapses",
         "url": "https://open.spotify.com/album/564l8RYKO06QPnjdfYplq0"
@@ -497,7 +797,7 @@
       "url": "https://open.spotify.com/track/7mjjSmrYqxucbk6W98tcE0"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Bring Me Fire EP",
         "url": "https://open.spotify.com/album/6NKHZlMaaSlR8ToHZSGS4K"
@@ -513,7 +813,7 @@
       "url": "https://open.spotify.com/track/2DcrucFg2LOT03osZQ2rkX"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Distorted Reality",
         "url": "https://open.spotify.com/album/4O4jPcQKhOyTRnprLbPjo0"
@@ -533,7 +833,7 @@
       "url": "https://open.spotify.com/track/4FJTgL8CuntIAJbcclrQ5c"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Like An Old Dog (Enrico Sangiuliano Remix)",
         "url": "https://open.spotify.com/album/0urbEfySrOpOBUz2rrSZc0"
@@ -557,7 +857,7 @@
       "url": "https://open.spotify.com/track/02juAgzBtqbe2r0OJOTLLD"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/1Wuffc9B0PQ3THntefTq6y"
@@ -573,7 +873,7 @@
       "url": "https://open.spotify.com/track/13wGULWSLE2VjE1VXAOny8"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "My Cosmos Is Mine (ANNA Remix)",
         "url": "https://open.spotify.com/album/4uRqaAA83DA9CumodHfGW7"
@@ -593,7 +893,7 @@
       "url": "https://open.spotify.com/track/3K86NkImdmjzBYZamJvx4T"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Something More",
         "url": "https://open.spotify.com/album/0SHhPYk0boerswxE4eYy3s"
@@ -613,7 +913,7 @@
       "url": "https://open.spotify.com/track/0u2ay7AAm7Jr5FHycGkLEN"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Chrysalide",
         "url": "https://open.spotify.com/album/3fF6yuSKTrQeMZLZsje22b"
@@ -629,7 +929,7 @@
       "url": "https://open.spotify.com/track/1173KOXcgnmyx6u3zAiQjN"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Spiritual Experience",
         "url": "https://open.spotify.com/album/5SRjebL4m70r2YbqD4Dj8Y"
@@ -645,7 +945,7 @@
       "url": "https://open.spotify.com/track/0xaYqC37eY4tNFdHQYG2yP"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "EVOLUTION",
         "url": "https://open.spotify.com/album/0xdtMKiVBPXGY7uognRoGc"
@@ -661,7 +961,7 @@
       "url": "https://open.spotify.com/track/0qN1L4PR2XhYBsl2ATjiSU"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Renegade",
         "url": "https://open.spotify.com/album/7dVQk4IqAYbp15APZ5hf5v"
@@ -681,7 +981,7 @@
       "url": "https://open.spotify.com/track/33jUhN85Ly3yaOdSoVyp1d"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Fierce Pain",
         "url": "https://open.spotify.com/album/70SenUXN7TMgIImOWetVdo"
@@ -697,7 +997,7 @@
       "url": "https://open.spotify.com/track/2OWEbZ4gvh0YjrrWsPX7yg"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Perception",
         "url": "https://open.spotify.com/album/3kKpXacCqn5kUo5wSbP93Z"
@@ -713,7 +1013,7 @@
       "url": "https://open.spotify.com/track/3ll4L5Dd6LIdYRvJnp9l7a"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Liberty",
         "url": "https://open.spotify.com/album/5X3xCHpz9IYIbvbaFbRYs6"
@@ -729,23 +1029,7 @@
       "url": "https://open.spotify.com/track/7ACHeIO3dmqiR2NrD3oTzF"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Physical Change EP",
-        "url": "https://open.spotify.com/album/0QeMDNqrQdFQoBNcem9UqF"
-      },
-      "artists": [
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
-        }
-      ],
-      "duration_ms": 453158,
-      "name": "Pulse Of Progression",
-      "url": "https://open.spotify.com/track/54hcdCs31JKzViz8hVXgpV"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Switch (Alex Stein Remix)",
         "url": "https://open.spotify.com/album/3zuD6J3tJHwg7Ed7b55y9F"
@@ -765,7 +1049,7 @@
       "url": "https://open.spotify.com/track/6gNDuHiTw1wVJvYsId2PXb"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "In Memoro",
         "url": "https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm"
@@ -781,7 +1065,7 @@
       "url": "https://open.spotify.com/track/5tOYSYhbf8pEcMLpx93qrG"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/6qm78dcqzX6yffzyf2FTFS"
@@ -801,39 +1085,7 @@
       "url": "https://open.spotify.com/track/5M5GqUm5F6rSo2zJ6Ibhcf"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Motherland",
-        "url": "https://open.spotify.com/album/2OCa8O6QmkOD57qpZ7sDE0"
-      },
-      "artists": [
-        {
-          "name": "Jay Lumen",
-          "url": "https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV"
-        }
-      ],
-      "duration_ms": 428000,
-      "name": "Motherland",
-      "url": "https://open.spotify.com/track/2rorRxfJxJ8ymQGLKrC9V5"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "In Your Mind EP",
-        "url": "https://open.spotify.com/album/1YBf9rbFGSkHddjJKUPUOO"
-      },
-      "artists": [
-        {
-          "name": "Drunken Kong",
-          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
-        }
-      ],
-      "duration_ms": 328248,
-      "name": "Abyss",
-      "url": "https://open.spotify.com/track/3IL15Il5AeAHci6B4wt6Al"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Generalisation (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53LV50a3r9n6MLvFUHr1TY"
@@ -849,27 +1101,7 @@
       "url": "https://open.spotify.com/track/2sJlMjGUzMr58tkV1tdOyx"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Coakley Collabs, Vol.1",
-        "url": "https://open.spotify.com/album/7yaHB4RwNwE1kM3wd7XbEK"
-      },
-      "artists": [
-        {
-          "name": "Josh Coakley",
-          "url": "https://open.spotify.com/artist/2ACmAkPH4fGPtNdnGYmF54"
-        },
-        {
-          "name": "Karl Seery",
-          "url": "https://open.spotify.com/artist/6cm8lW0gC3KkXeJi7Q3mIX"
-        }
-      ],
-      "duration_ms": 226542,
-      "name": "W.O.T.U. - Original Mix",
-      "url": "https://open.spotify.com/track/6KhhpJduBJTUzVObcwires"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Unparalleled",
         "url": "https://open.spotify.com/album/3tAcMtEyp0ir61tvLhBM5K"
@@ -889,43 +1121,7 @@
       "url": "https://open.spotify.com/track/3SkAU4S5dSGXadZXrBWvR0"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/79wz5w8tnPlcagiEjsiduz"
-      },
-      "artists": [
-        {
-          "name": "Mark Michael",
-          "url": "https://open.spotify.com/artist/4h5c1OI66KXOmOODqS62GI"
-        },
-        {
-          "name": "Pleasurekraft",
-          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
-        }
-      ],
-      "duration_ms": 405380,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/3KvwutGuoRhpNW8y3v1Qa3"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Placebo",
-        "url": "https://open.spotify.com/album/6iywSIMjsXqpcVSdbj3VHt"
-      },
-      "artists": [
-        {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
-        }
-      ],
-      "duration_ms": 341832,
-      "name": "Placebo",
-      "url": "https://open.spotify.com/track/0zyDfWoIeAhu3sFfc1OLFF"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Something More",
         "url": "https://open.spotify.com/album/0SHhPYk0boerswxE4eYy3s"
@@ -945,75 +1141,7 @@
       "url": "https://open.spotify.com/track/4YMxL3YsA943fie0W7viZO"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Come Closer",
-        "url": "https://open.spotify.com/album/1BMEA1hy55rRBIjRZ4TokC"
-      },
-      "artists": [
-        {
-          "name": "Thomas Schumacher",
-          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
-        }
-      ],
-      "duration_ms": 247319,
-      "name": "Come Closer",
-      "url": "https://open.spotify.com/track/6WK7TJ53QPNZnpQBjToHBi"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Touch The Darkness",
-        "url": "https://open.spotify.com/album/4RJKnty59mAjgmslaWAGkm"
-      },
-      "artists": [
-        {
-          "name": "Victor Ruiz",
-          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
-        }
-      ],
-      "duration_ms": 453333,
-      "name": "Touch The Darkness",
-      "url": "https://open.spotify.com/track/6BaQEqUuo6R1RISio9U5T3"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Vortex",
-        "url": "https://open.spotify.com/album/0khENo9jG8D9mXplIjF0hD"
-      },
-      "artists": [
-        {
-          "name": "Christian Smith",
-          "url": "https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/14PZ7xTa5DXGVjh4zEADmb"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Momentum EP",
-        "url": "https://open.spotify.com/album/6SWmGg9QPqD9t4j4x6N4E2"
-      },
-      "artists": [
-        {
-          "name": "Ramon Tapia",
-          "url": "https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1"
-        },
-        {
-          "name": "Gaston Zani",
-          "url": "https://open.spotify.com/artist/2uU0gIFQJd8zSyAaxhhoL1"
-        }
-      ],
-      "duration_ms": 399480,
-      "name": "Friction",
-      "url": "https://open.spotify.com/track/1zpsyx9HYDqYv99kc6wez0"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Temple",
         "url": "https://open.spotify.com/album/76NljCWu0BMxSL4it9FPNm"
@@ -1029,23 +1157,7 @@
       "url": "https://open.spotify.com/track/2CHiHSmPP9EB0HJBHFwQN2"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "NRG",
-        "url": "https://open.spotify.com/album/72vORdnp7mycsBRuTxDPNV"
-      },
-      "artists": [
-        {
-          "name": "Egbert",
-          "url": "https://open.spotify.com/artist/2XDYCsSrSPH37AtnRvCkIx"
-        }
-      ],
-      "duration_ms": 341584,
-      "name": "NRG",
-      "url": "https://open.spotify.com/track/3pshVKwau2AsyR0y1vcFfO"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Mayday Anthem (Thomas Schumacher Remix)",
         "url": "https://open.spotify.com/album/52DgryHGie1RWvB99nbVT3"
@@ -1065,59 +1177,7 @@
       "url": "https://open.spotify.com/track/0h5bjHIioNsHAV58lcNVqs"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Solar Deity",
-        "url": "https://open.spotify.com/album/259ZhVkGqI3NqzLKn4W9ZK"
-      },
-      "artists": [
-        {
-          "name": "Balthazar & JackRock",
-          "url": "https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA"
-        }
-      ],
-      "duration_ms": 384009,
-      "name": "Solar Deity",
-      "url": "https://open.spotify.com/track/1EGRJ6ekCKA3DigfsFTce6"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Hentzi",
-        "url": "https://open.spotify.com/album/5xiN6UHip2lElD5xEqcWwj"
-      },
-      "artists": [
-        {
-          "name": "Gary Beck",
-          "url": "https://open.spotify.com/artist/1mUVjZFnDM8mHpi4fR2bPC"
-        }
-      ],
-      "duration_ms": 398364,
-      "name": "Leo",
-      "url": "https://open.spotify.com/track/4TPws9xCzOQnMGvakbjlch"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "The Best of Love Stimulation - The Remixes",
-        "url": "https://open.spotify.com/album/598sDBADDnMBDr2aL2LAqJ"
-      },
-      "artists": [
-        {
-          "name": "Humate",
-          "url": "https://open.spotify.com/artist/4XS20v9WPvT0OnCtIiC79Q"
-        },
-        {
-          "name": "Paul van Dyk",
-          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Love Stimulation - Love-Club-Mix-H\u00f6rfunk-Edit",
-      "url": "https://open.spotify.com/track/5YkSGfis1pjWNz9sniCE2E"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Choose Happiness",
         "url": "https://open.spotify.com/album/6lS7bn5C1jGy97CWW1SrqB"
@@ -1133,47 +1193,7 @@
       "url": "https://open.spotify.com/track/4cfP3sLcZHUkQxuF6l4lkU"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Mood Elevation Vol. 2",
-        "url": "https://open.spotify.com/album/4NNAeNbnrmZeCQgRQXy1PS"
-      },
-      "artists": [
-        {
-          "name": "Nicole Moudaber",
-          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
-        },
-        {
-          "name": "Chris Liebing",
-          "url": "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
-        }
-      ],
-      "duration_ms": 417666,
-      "name": "What Was - Chris Liebing Remix",
-      "url": "https://open.spotify.com/track/5M81BMStSdjIL0UBlFr9be"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Deep Focus",
-        "url": "https://open.spotify.com/album/6Cp3DIdcnG5pW7NgV1AV9M"
-      },
-      "artists": [
-        {
-          "name": "Risa Taniguchi",
-          "url": "https://open.spotify.com/artist/44HyyC4bGo2Z30zoaaeTxy"
-        },
-        {
-          "name": "Yigitoglu",
-          "url": "https://open.spotify.com/artist/11aocLw5Y8neDRMc7pJNgK"
-        }
-      ],
-      "duration_ms": 378666,
-      "name": "Not Even Close - Original Mix",
-      "url": "https://open.spotify.com/track/0PgKxHHifs5plpSZBYkGkv"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Moroccan Chant 2022",
         "url": "https://open.spotify.com/album/6TCP4hfqx9qzvNyLUJP6HZ"
@@ -1193,7 +1213,7 @@
       "url": "https://open.spotify.com/track/3Aj2fa76GUBgmZmBKfb07H"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Hick (Pan-Pot Remix)",
         "url": "https://open.spotify.com/album/6fthnKNuVFdWZOhFFlRJEK"
@@ -1217,7 +1237,7 @@
       "url": "https://open.spotify.com/track/5sGtHaUKoaGlp68uEp7oz6"
     },
     {
-      "added_at": "2023-09-22 09:31:05",
+      "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "The Beat Just Goes Straight on and On",
         "url": "https://open.spotify.com/album/43e0TVbRqCaVKIBnA6xqPE"
@@ -1231,42 +1251,6 @@
       "duration_ms": 593449,
       "name": "The Beat Just Goes Straight on and On",
       "url": "https://open.spotify.com/track/0UOdOG9XKi7gpAD72fZo1q"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Sector II: Acid",
-        "url": "https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U"
-      },
-      "artists": [
-        {
-          "name": "MATRiXXMAN",
-          "url": "https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y"
-        }
-      ],
-      "duration_ms": 465312,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ"
-    },
-    {
-      "added_at": "2023-09-22 09:31:05",
-      "album": {
-        "name": "Butoh (Robert Hood Remix)",
-        "url": "https://open.spotify.com/album/2sqpT33fOrCzj9d0JUVceQ"
-      },
-      "artists": [
-        {
-          "name": "Sven V\u00e4th",
-          "url": "https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F"
-        },
-        {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
-        }
-      ],
-      "duration_ms": 426080,
-      "name": "Butoh (Robert Hood Remix)",
-      "url": "https://open.spotify.com/track/1eAw92jTlkIhrj0H4k7yKj"
     }
   ],
   "unique_name": "Monika Kruse's track IDs",

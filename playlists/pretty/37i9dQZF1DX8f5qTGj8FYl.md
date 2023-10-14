@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 59 | [Open Season](https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Bacano](https://open.spotify.com/album/0WSLWbijlDB3tnbl2WcSgt) | 5:09 |
 | 60 | [S Rank](https://open.spotify.com/track/23Ww50OpRlSoEL1vLhdKNw) | [Cody Dear](https://open.spotify.com/artist/019crWCRkPjQjBnhKaafTV) | [Songs Like These](https://open.spotify.com/album/6CyBHWNGfph10i6q4cRysI) | 5:13 |
 | 61 | [Basket Case](https://open.spotify.com/track/4X9qoigjhdm32eRJRcjtm2) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr) | [Golden Ticket](https://open.spotify.com/album/0iOLQnizNBBrvLbvmdUPF6) | 3:48 |
-| 62 | [Say Goodbye](https://open.spotify.com/track/1btR46PFIB5xnpIJJxniBB) | [Lucas de Mulder](https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ), [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Say Goodbye](https://open.spotify.com/album/5A2nu2JUX7DpEZ9koqOBaG) | 3:07 |
+| 62 | [Say Goodbye](https://open.spotify.com/track/5p6ClyVnopzx4FPS5YCM87) | [Lucas de Mulder](https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ), [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Feel The Spirit](https://open.spotify.com/album/3Hg9U218D9EgPrcGGQ3JIQ) | 3:08 |
 | 63 | [Chili Wa Man](https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S) | [John Tropea](https://open.spotify.com/artist/0WPM7cWlRjCwho6G09x2S2) | [Gotcha Rhythm Right Here](https://open.spotify.com/album/5Ru54rs8Wr4ojekCyKHsz0) | 5:52 |
 | 64 | [Flying Home](https://open.spotify.com/track/5St8RhYDg6dyF43aFod1YM) | [Felix Magnus Grossmann](https://open.spotify.com/artist/7uWwYPKXHTU6JXRm8VVLtH) | [Big Band Around the World](https://open.spotify.com/album/2fgBvjukx0OLHEmTOK4Cb8) | 2:45 |
 | 65 | [Boiling Pot](https://open.spotify.com/track/6e2cN0jB6TskHmMvQAxW7k) | [The Winston Brothers](https://open.spotify.com/artist/0zCVxM6Xe6ueD8pzot3nbr) | [Drift](https://open.spotify.com/album/33PW6j12JZS3VTvbQkuKUX) | 3:11 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 149 | [Get Funked](https://open.spotify.com/track/38sBy1Ig1pojTtcsOpNIYN) | [Low\-Res Royalty](https://open.spotify.com/artist/0BHZPaU8Rm27DxydcWn8Xq) | [Get Funked](https://open.spotify.com/album/1sErMYQ42qnb0STz97sNkt) | 2:35 |
 | 150 | [Goliath](https://open.spotify.com/track/3xGsGKZtO9igxUGjC6SFcv) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Into The Infrasounds](https://open.spotify.com/album/73HHKGxaTm3f0GognR7hBv) | 5:03 |
 
-Snapshot ID: `MCxkYmU0Y2IzOGRkYzRkMTM1ODY1NjM2ZjdlMTA4NDYzNzc0ZjZhN2Nj`
+Snapshot ID: `MCw1MzJlMzkyM2U2Mzk1YzJjNmVlM2JmYmQzOWQ2ZDRjNjg4ZjgwOWI5`

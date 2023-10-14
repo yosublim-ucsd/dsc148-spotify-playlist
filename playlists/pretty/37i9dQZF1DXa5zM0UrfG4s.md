@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > bøgdebangers du kan spelle i kjerra!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,411 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,467 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 41 | [EFTERFEST PÅ VÅR BALKONG](https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [EFTERFEST PÅ VÅR BALKONG](https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL) | 2:20 |
 | 42 | [Raggen måste gå](https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Raggen måste gå](https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF) | 2:11 |
 | 43 | [Du kan inte få min öl](https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Du kan inte få min öl](https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN) | 2:16 |
-| 44 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 |
-| 45 | [Polare](https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Polare](https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr) | 3:25 |
+| 44 | [Polare](https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Polare](https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr) | 3:25 |
+| 45 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 |
 | 46 | [Rundt neste sving](https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 3:55 |
 | 47 | [Ja likaväl](https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Ja likaväl](https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh) | 2:41 |
 | 48 | [Sjå sole](https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ) | [Staut](https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P) | [Staut](https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD) | 3:26 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 61 | [Nå Koser Vi Oss](https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Nå Koser Vi Oss](https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF) | 2:49 |
 | 62 | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK) | [DJ Anton](https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq) | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw) | 2:52 |
 | 63 | [Fy Faen Så Deilig](https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Fy Faen Så Deilig](https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0) | 2:36 |
-| 64 | [EN GAMMAL AMAZON](https://open.spotify.com/track/4910aDasJAeKxAAo5fNHll) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [EN GAMMAL AMAZON](https://open.spotify.com/album/1Vi6Fpf8sGX9PAFY0q2bz6) | 2:16 |
-| 65 | [Hytta Mi](https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Norge rundt med Staysman](https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3) | 2:18 |
+| 64 | [Hytta Mi](https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Norge rundt med Staysman](https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3) | 2:18 |
+| 65 | [EN GAMMAL AMAZON](https://open.spotify.com/track/4910aDasJAeKxAAo5fNHll) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [EN GAMMAL AMAZON](https://open.spotify.com/album/1Vi6Fpf8sGX9PAFY0q2bz6) | 2:16 |
 | 66 | [Sånn So Det Va Før](https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Sånn So Det Va Før](https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm) | 4:38 |
 | 67 | [Hardanger](https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Hardanger](https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt) | 3:56 |
 | 68 | [Levva Livet](https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/00m8339CymX4adXiATrT7e) | 4:34 |
 | 69 | [Kompis](https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Kompis](https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE) | 2:41 |
 | 70 | [En Siste Gang](https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Helt Sykt VOL2](https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA) | 3:05 |
 
-Snapshot ID: `MCxkMDcxN2M3OTExMmRiYzdkMTc1M2ZiZDA0NjFmMGU2MWEyMmI4NGM2`
+Snapshot ID: `MCxkZTAyM2VlOTVjOWZhMDhlZjBhZjJiYTgzNTQ1YjQwNDIwMDE5MDcw`

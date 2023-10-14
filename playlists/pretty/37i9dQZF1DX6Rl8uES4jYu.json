@@ -1,13 +1,29 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 239194,
+  "num_followers": 238879,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTUwNjY5Yjk3YTU4OTA3ZWExZWNmOWEyNmExZThjYTNjN2JiNDll",
+  "snapshot_id": "MCwwMjRlYzQ4MjllY2FjZWM3OTI1N2E3NzFlOTZmMWJlYjc4MzFjMWZl",
   "tracks": [
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "PANIC",
+        "url": "https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Time Out",
+      "url": "https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD"
+    },
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
@@ -1695,26 +1711,6 @@
       "duration_ms": 189079,
       "name": "AM Gold - Tobtok Remix",
       "url": "https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8"
-      },
-      "artists": [
-        {
-          "name": "Darius",
-          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
-        },
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        }
-      ],
-      "duration_ms": 237368,
-      "name": "EASE YOUR MIND",
-      "url": "https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM"
     },
     {
       "added_at": "2022-05-20 04:01:00",

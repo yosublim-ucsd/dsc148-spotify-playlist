@@ -1,12 +1,12 @@
 {
   "description": "Die Playlist, die dich f\u00fchlt. Cover: Kenya Grace",
-  "num_followers": 438943,
+  "num_followers": 439056,
   "original_name": "me right now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmM0N2Y2Yzc3NzFmYWRiZTUxM2Q4NTBiYzRkZTAzY2RjZDIyMTJi",
+  "snapshot_id": "MCxkNDc5NmU4ZDVmZTE4ZWU5ZjkxZTYyNzNjZmExMmUxOTQ2ODVkNzRm",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -411,6 +411,26 @@
       "duration_ms": 203080,
       "name": "SO WIE DU BIST",
       "url": "https://open.spotify.com/track/44R36gWtM2XB5Lm9lxuTNp"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "WORTH IT (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -947,6 +967,26 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 173253,
+      "name": "SAY MY GRACE (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Prio",
         "url": "https://open.spotify.com/album/14tJ2zxWRUDuZMFMshihdh"
       },
@@ -1011,6 +1051,26 @@
       "duration_ms": 172105,
       "name": "Take it",
       "url": "https://open.spotify.com/track/0ya0fBUHF1TKookyKM5ZVQ"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Pretty Girl (with Rema)",
+        "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 137907,
+      "name": "Pretty Girl (with Rema)",
+      "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1515,6 +1575,26 @@
       "duration_ms": 146531,
       "name": "F\u039bSHION",
       "url": "https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 133694,
+      "name": "Gently (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn"
     },
     {
       "added_at": "2023-10-12 22:00:00",

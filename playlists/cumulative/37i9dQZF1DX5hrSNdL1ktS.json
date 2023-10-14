@@ -77,6 +77,36 @@
     },
     {
       "album": {
+        "name": "SUPER ESTRELLAS",
+        "url": "https://open.spotify.com/album/09qxG7QLNUM8SHYXX878Xe"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
+        },
+        {
+          "name": "Sleezy O",
+          "url": "https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n"
+        },
+        {
+          "name": "Lexy walter",
+          "url": "https://open.spotify.com/artist/4QAzgy5wBNe1RmxORakECG"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "3 x 3 (feat. Lexy Walter)",
+      "url": "https://open.spotify.com/track/7nQFKhrS6eN6xyQwnp3hjK"
+    },
+    {
+      "album": {
         "name": "45 GRADOS",
         "url": "https://open.spotify.com/album/3Rrng36wX7sHHYemRlNoap"
       },
@@ -321,6 +351,28 @@
     },
     {
       "album": {
+        "name": "Andamos Francos",
+        "url": "https://open.spotify.com/album/4CsfRkIYoAO2PwjUOSMdr2"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125402,
+      "name": "Andamos Francos",
+      "url": "https://open.spotify.com/track/3MiLSG8Ewq2Q4kgnQVKnmV"
+    },
+    {
+      "album": {
         "name": "ANDROMEDA",
         "url": "https://open.spotify.com/album/1SaKp9LhPnu7NrjlmBt1Tg"
       },
@@ -446,7 +498,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 166560,
       "name": "AVIONES (i wanna fly)",
       "url": "https://open.spotify.com/track/06Dv3OLVkC65n34sRXOPmZ"
@@ -1109,6 +1161,40 @@
     },
     {
       "album": {
+        "name": "Chup\u00f3n",
+        "url": "https://open.spotify.com/album/0TVjnQlL30VMz4Kqu0qoVQ"
+      },
+      "artists": [
+        {
+          "name": "El Gudi",
+          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        },
+        {
+          "name": "Ovi\u00f1a",
+          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201084,
+      "name": "Chup\u00f3n",
+      "url": "https://open.spotify.com/track/3lev2QW3nUHNuxrVstVEGj"
+    },
+    {
+      "album": {
         "name": "Coca",
         "url": "https://open.spotify.com/album/2nUNuWgE7XdFNocY3KG9N4"
       },
@@ -1120,7 +1206,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 99692,
       "name": "Coca",
       "url": "https://open.spotify.com/track/2hLAVhXhe5O6rPyHfUfH3C"
@@ -4526,7 +4612,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 172800,
       "name": "Mugrero",
       "url": "https://open.spotify.com/track/125nqMWKwiX4LhpxZvaUZL"
@@ -5212,7 +5298,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 169090,
       "name": "Paginas",
       "url": "https://open.spotify.com/track/64YzNGYuzNdmuGtxIfueru"
@@ -5572,6 +5658,36 @@
       "duration_ms": 172812,
       "name": "Perrealo",
       "url": "https://open.spotify.com/track/5Z91mj8aVlei16GuiYOUxK"
+    },
+    {
+      "album": {
+        "name": "Perreando Triste (feat. Uzielito Mix)",
+        "url": "https://open.spotify.com/album/0Z0tJ5ucn0zI9Z1nuPruCs"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175483,
+      "name": "Perreando Triste (feat. Uzielito Mix)",
+      "url": "https://open.spotify.com/track/7yo64TVgvf9hBKZKCuVhUy"
     },
     {
       "album": {

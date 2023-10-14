@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Roxana Amed.",
-  "num_followers": 31256,
+  "num_followers": 31257,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzY1MWEzNjkxNjBjYWNiNmJiMjY1Y2IyYmE5MjFjMTJjN2MxZDQ5",
+  "snapshot_id": "MCw2MGY0OTA3MmVkYjU2ODMzYzk4ZDgwYTc1M2VlNjI4YmU4ZmVjMWRm",
   "tracks": [
     {
       "added_at": "2023-08-11 14:55:45",
@@ -207,22 +207,18 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "ONTOLOGY",
-        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
+        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
+        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
       },
       "artists": [
         {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        },
-        {
-          "name": "Martin Bejerano",
-          "url": "https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb"
+          "name": "Ramiro Flores",
+          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
         }
       ],
-      "duration_ms": 350062,
-      "name": "Last Happy Hour (feat. Martin Bejerano)",
-      "url": "https://open.spotify.com/track/4Vv73WKOQzQ9LxgpWyJ6nx"
+      "duration_ms": 114760,
+      "name": "Entrada al Jardi\u0301n de Ordo\u0301n\u0303ez",
+      "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -243,18 +239,22 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
-        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
+        "name": "ONTOLOGY",
+        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
       },
       "artists": [
         {
-          "name": "Ramiro Flores",
-          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Martin Bejerano",
+          "url": "https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb"
         }
       ],
-      "duration_ms": 114760,
-      "name": "Entrada al Jardi\u0301n de Ordo\u0301n\u0303ez",
-      "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
+      "duration_ms": 350062,
+      "name": "Last Happy Hour (feat. Martin Bejerano)",
+      "url": "https://open.spotify.com/track/4Vv73WKOQzQ9LxgpWyJ6nx"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -359,26 +359,6 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "Cinemateca Finlandesa",
-        "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
-      },
-      "artists": [
-        {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        },
-        {
-          "name": "Adri\u00e1n Iaies",
-          "url": "https://open.spotify.com/artist/38yosjfq6EXdWuWbLSKulh"
-        }
-      ],
-      "duration_ms": 276640,
-      "name": "Viernes 3AM",
-      "url": "https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
         "name": "San Juan Live Sessions",
         "url": "https://open.spotify.com/album/1ubJr6ptIPjunkPCrPIoJx"
       },
@@ -391,22 +371,6 @@
       "duration_ms": 145601,
       "name": "Summertime - San Juan Live Sessions",
       "url": "https://open.spotify.com/track/4XlEKFkjAggPIEwQWEtVMz"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
-        "name": "Solo Guitarra",
-        "url": "https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs"
-      },
-      "artists": [
-        {
-          "name": "Luis Salinas",
-          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "El Dia que me Quieras",
-      "url": "https://open.spotify.com/track/1SwDFyCldGRSvsdqiMTp3I"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -427,6 +391,42 @@
       "duration_ms": 301893,
       "name": "Shape of My Heart",
       "url": "https://open.spotify.com/track/6BBwufrPMAGPU6VTaPiH7u"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
+        "name": "Solo Guitarra",
+        "url": "https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs"
+      },
+      "artists": [
+        {
+          "name": "Luis Salinas",
+          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "El Dia que me Quieras",
+      "url": "https://open.spotify.com/track/1SwDFyCldGRSvsdqiMTp3I"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
+        "name": "Cinemateca Finlandesa",
+        "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
+      },
+      "artists": [
+        {
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Adri\u00e1n Iaies",
+          "url": "https://open.spotify.com/artist/38yosjfq6EXdWuWbLSKulh"
+        }
+      ],
+      "duration_ms": 276640,
+      "name": "Viernes 3AM",
+      "url": "https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
-      },
-      "artists": [
-        {
-          "name": "Walter Malosetti",
-          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
         "name": "El Bosque Brillante",
         "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 232333,
       "name": "En Busca de la Tierra Sin Mal",
       "url": "https://open.spotify.com/track/4H97jD3blKiD0tdU4PrjLG"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
+      },
+      "artists": [
+        {
+          "name": "Walter Malosetti",
+          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
+        }
+      ],
+      "duration_ms": 279640,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "Nude (En Vivo)",
-        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Est\u00e9vez",
-          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
-        }
-      ],
-      "duration_ms": 305108,
-      "name": "Learning the Blues - En Vivo",
-      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
+        "name": "Nude (En Vivo)",
+        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Est\u00e9vez",
+          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
+        }
+      ],
+      "duration_ms": 305108,
+      "name": "Learning the Blues - En Vivo",
+      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 402265,
       "name": "Primavera Porte\u00f1a",
       "url": "https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
+        "name": "Danza",
+        "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
+      },
+      "artists": [
+        {
+          "name": "Mariano Otero",
+          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
+        }
+      ],
+      "duration_ms": 280635,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -823,38 +839,6 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "Danza",
-        "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
-      },
-      "artists": [
-        {
-          "name": "Mariano Otero",
-          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
-        }
-      ],
-      "duration_ms": 280635,
-      "name": "Pop",
-      "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
-        "name": "Rata",
-        "url": "https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 436414,
       "name": "Kua Nalu",
       "url": "https://open.spotify.com/track/2UMpvaP5UQzYqQ07pJTon6"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
+        "name": "Rata",
+        "url": "https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
+        "name": "Umbral de M\u00ed",
+        "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
+      },
+      "artists": [
+        {
+          "name": "Mariano Otero",
+          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
+        }
+      ],
+      "duration_ms": 296653,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
         "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
         "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 361280,
       "name": "Viva Jujuy",
       "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
-        "name": "Umbral de M\u00ed",
-        "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
-      },
-      "artists": [
-        {
-          "name": "Mariano Otero",
-          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
-        }
-      ],
-      "duration_ms": 296653,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "Grabaciones In\u00e9ditas Vol. 1",
-        "url": "https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA"
-      },
-      "artists": [
-        {
-          "name": "Enrique \"Mono\" Villegas",
-          "url": "https://open.spotify.com/artist/5g70cDApbV4sLS0T3zCSP6"
-        }
-      ],
-      "duration_ms": 254120,
-      "name": "In a Middle Tone",
-      "url": "https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
         "name": "...Baby One More Time",
         "url": "https://open.spotify.com/album/6WeqZRTUp9w2M6sNV0Hw6M"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 201500,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/4rPDxqdzrNVf5Kjj8AngtC"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
+        "name": "Grabaciones In\u00e9ditas Vol. 1",
+        "url": "https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA"
+      },
+      "artists": [
+        {
+          "name": "Enrique \"Mono\" Villegas",
+          "url": "https://open.spotify.com/artist/5g70cDApbV4sLS0T3zCSP6"
+        }
+      ],
+      "duration_ms": 254120,
+      "name": "In a Middle Tone",
+      "url": "https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
+        "name": "Piano Tuerto",
+        "url": "https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8"
+      },
+      "artists": [
+        {
+          "name": "Leo Genovese",
+          "url": "https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk"
+        }
+      ],
+      "duration_ms": 326666,
+      "name": "Luna en Nueva York",
+      "url": "https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
         "name": "80 A\u00f1os - Jazztar\u00edaenbaterita",
         "url": "https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo"
       },
@@ -1291,18 +1307,22 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "Piano Tuerto",
-        "url": "https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8"
+        "name": "El Ombligo de un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH"
       },
       "artists": [
         {
-          "name": "Leo Genovese",
-          "url": "https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk"
+          "name": "Ernesto Amstein",
+          "url": "https://open.spotify.com/artist/3RtoD2Lg2AMClwewzI109w"
+        },
+        {
+          "name": "Gabriel Domenicucci",
+          "url": "https://open.spotify.com/artist/0RVTCxjrWgfnzamvKD61G0"
         }
       ],
-      "duration_ms": 326666,
-      "name": "Luna en Nueva York",
-      "url": "https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg"
+      "duration_ms": 324506,
+      "name": "Pretos",
+      "url": "https://open.spotify.com/track/3qU2fhuzoTAHUkKtdcnz1H"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -1323,26 +1343,6 @@
       "duration_ms": 572278,
       "name": "Estate",
       "url": "https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
-        "name": "El Ombligo de un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Amstein",
-          "url": "https://open.spotify.com/artist/3RtoD2Lg2AMClwewzI109w"
-        },
-        {
-          "name": "Gabriel Domenicucci",
-          "url": "https://open.spotify.com/artist/0RVTCxjrWgfnzamvKD61G0"
-        }
-      ],
-      "duration_ms": 324506,
-      "name": "Pretos",
-      "url": "https://open.spotify.com/track/3qU2fhuzoTAHUkKtdcnz1H"
     },
     {
       "added_at": "2023-08-11 14:55:45",

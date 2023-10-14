@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 367362,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
@@ -2390,7 +2390,7 @@
       ],
       "date_added": "2021-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 196007,
       "name": "CLOUDS",
       "url": "https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ"
@@ -2778,7 +2778,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "CTG",
       "url": "https://open.spotify.com/track/5JlEWsqXWnIT4rPTJF3bny"
@@ -2984,7 +2984,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 262682,
       "name": "Decision",
       "url": "https://open.spotify.com/track/7trvPTuc4YAozZBlZXAExl"
@@ -3530,7 +3530,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 278400,
       "name": "Dream Weaversm, Pt. 2",
       "url": "https://open.spotify.com/track/5zH3MhHsWmqBvw72bHb52h"
@@ -5696,7 +5696,7 @@
       ],
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 238661,
       "name": "Gende\u0300r",
       "url": "https://open.spotify.com/track/73J0XZfBhvGgCloBnkXVCP"
@@ -6792,6 +6792,24 @@
       "duration_ms": 324530,
       "name": "I Need Space",
       "url": "https://open.spotify.com/track/2y6krW4iylDWiKVxTzUJcE"
+    },
+    {
+      "album": {
+        "name": "I Need Space",
+        "url": "https://open.spotify.com/album/7iUlntb6FvS1J72XpLLPBg"
+      },
+      "artists": [
+        {
+          "name": "M!NT ",
+          "url": "https://open.spotify.com/artist/1ghaj9f3HCe4tMU4SVjplQ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324530,
+      "name": "I Need Space",
+      "url": "https://open.spotify.com/track/3mi4Vz5N9Co1aSuoOIaETz"
     },
     {
       "album": {
@@ -9692,7 +9710,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 278124,
       "name": "NO SKIN",
       "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
@@ -9834,6 +9852,24 @@
       "duration_ms": 181463,
       "name": "NUNGWI",
       "url": "https://open.spotify.com/track/4hMdVt2j6y43bS7rC2dEBr"
+    },
+    {
+      "album": {
+        "name": "Eurybia",
+        "url": "https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x"
+      },
+      "artists": [
+        {
+          "name": "Francesca Heart",
+          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Nuova Atlantide",
+      "url": "https://open.spotify.com/track/7obbiHF6noRBSzVpJxSMkx"
     },
     {
       "album": {
@@ -10256,7 +10292,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 211299,
       "name": "Ozone Scraper",
       "url": "https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV"
@@ -11368,7 +11404,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 157500,
       "name": "restless",
       "url": "https://open.spotify.com/track/0HkqBi1na692hJl5nrTDit"
@@ -12710,6 +12746,24 @@
     {
       "album": {
         "name": "Some Other Day",
+        "url": "https://open.spotify.com/album/2w2AD3qYwJvO0s5tH7Ovrp"
+      },
+      "artists": [
+        {
+          "name": "Solcal",
+          "url": "https://open.spotify.com/artist/747NrOqEVashBfjHGkwfhn"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186864,
+      "name": "Some Other Day",
+      "url": "https://open.spotify.com/track/3xUvUhfiuuzc9eyUmrIMoA"
+    },
+    {
+      "album": {
+        "name": "Some Other Day",
         "url": "https://open.spotify.com/album/33o265ZYYvht3tsO7TvbTh"
       },
       "artists": [
@@ -13299,6 +13353,24 @@
     },
     {
       "album": {
+        "name": "Sun Tickles",
+        "url": "https://open.spotify.com/album/59PQf43N68KbDeiq8zdu3v"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271807,
+      "name": "Sun Tickles",
+      "url": "https://open.spotify.com/track/52UtKsQplzV4d5s36xEZXv"
+    },
+    {
+      "album": {
         "name": "Sunday Maybe",
         "url": "https://open.spotify.com/album/0FCWOujsH9selQ8rkOP976"
       },
@@ -13746,7 +13818,7 @@
       ],
       "date_added": "2021-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 273953,
       "name": "Talia",
       "url": "https://open.spotify.com/track/49KMGrpCasQj4bP7R27nEL"
@@ -13874,7 +13946,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 176548,
       "name": "Terrace Rain",
       "url": "https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA"
@@ -14202,7 +14274,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 288694,
       "name": "The Long Journey Home",
       "url": "https://open.spotify.com/track/78qoim2GGUkspkxV8kUtVv"
@@ -15862,7 +15934,7 @@
       ],
       "date_added": "2021-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 169000,
       "name": "When Will I Learn",
       "url": "https://open.spotify.com/track/15iCIkRtJkYoJJavwSbA3n"
@@ -16212,7 +16284,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 159000,
       "name": "zin2 test5",
       "url": "https://open.spotify.com/track/6OGlcUOK8B9Nfy8v5LHsYQ"

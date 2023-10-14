@@ -4,11 +4,12 @@
 
 > Estas son las grandes voces del Hip Hop\. Foto: Tayko
 
-97 songs - 5 hr 15 min
+98 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Agradezco](https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Agradezco](https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp) | 3:08 | 2023-05-26 |  |
+| [Aguardiente](https://open.spotify.com/track/3ZAeqSO5szb2IDsAHqnYk6) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB) | [Aguardiente](https://open.spotify.com/album/0xooEKUlRZ4kgyBBfA9Ird) | 2:47 | 2023-10-13 |  |
 | [Ahora Qué](https://open.spotify.com/track/5EFkC2D8cFCTyPPaCMJk6B) | [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7) | [Mirar Pa' Dentro](https://open.spotify.com/album/7zxtczgh8ys5vxrO6FpowQ) | 2:47 | 2023-07-14 |  |
 | [Amor Sin Contrato](https://open.spotify.com/track/3B56Mr3QophjrI2hB9R2qc) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Flow Amazing](https://open.spotify.com/album/5FRw6kGV05wV7NrIcsd58V) | 1:32 | 2023-08-04 | 2023-08-12 |
 | [Asi Es la Vida](https://open.spotify.com/track/5BA4WEqUAPHBqx4bxO7Ld5) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Rodesens](https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8) | [Asi Es la Vida](https://open.spotify.com/album/4yLc8PxzYwiyTw2iogrCK3) | 2:12 | 2023-05-26 | 2023-09-09 |
@@ -20,7 +21,7 @@
 | [Boombarrio](https://open.spotify.com/track/0san1KUetFkSctwivThY7z) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM) | [Boombarrio](https://open.spotify.com/album/5bmFCK52DIm32GPjOzzT8V) | 3:26 | 2023-05-26 |  |
 | [Buenos Días Vietnam](https://open.spotify.com/track/2ieyIDwlghKt45bqH19sOg) | [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre), [Gambeta](https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4) | [Indiana Jones](https://open.spotify.com/album/0Zzv3eEsc54Szwm8CrZjd6) | 3:58 | 2023-05-26 |  |
 | [C.Funktastic](https://open.spotify.com/track/5b6CPprnxzCEVGzCJawrp0) | [Tsh Sudaca](https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [C.Funktastic](https://open.spotify.com/album/7B4bUYQKNMhSwMYtEmjtXB) | 2:29 | 2023-05-26 | 2023-07-08 |
-| [Caléndula Aka Rainhands \- Haggard Version](https://open.spotify.com/track/76MKFgt8Zz7QxqxEkTVv6s) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Charles Haggard](https://open.spotify.com/artist/5DliQslWaMaP25PjpoGval) | [Tambor 2 \(Haggard Versions\)](https://open.spotify.com/album/5aIhMVRk4fhoi6TmAfDybR) | 2:25 | 2023-05-26 |  |
+| [Caléndula Aka Rainhands \- Haggard Version](https://open.spotify.com/track/76MKFgt8Zz7QxqxEkTVv6s) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Charles Haggard](https://open.spotify.com/artist/5DliQslWaMaP25PjpoGval) | [Tambor 2 \(Haggard Versions\)](https://open.spotify.com/album/5aIhMVRk4fhoi6TmAfDybR) | 2:25 | 2023-05-26 | 2023-10-14 |
 | [Camina Sola](https://open.spotify.com/track/0KtDnYAe59IGfIpPwtL82b) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 3:33 | 2023-05-26 |  |
 | [Cara/Cruz](https://open.spotify.com/track/2KmRADR0BFvChKNAI24cTc) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5) | [Cara/Cruz](https://open.spotify.com/album/5EOcbsuFDolPWVLSeZb02m) | 3:44 | 2023-05-26 |  |
 | [Como Bolero](https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Bolero](https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB) | 3:14 | 2023-05-26 |  |

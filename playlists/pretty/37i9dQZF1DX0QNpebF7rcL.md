@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Shemekia Copeland
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,881 likes - 101 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,903 likes - 101 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Is It Safe To Go Home](https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 6:22 |
-| 2 | [Nobody Wants To Be Lonely](https://open.spotify.com/track/04AyFkLrP4bbrDjcXGPhfz) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Nobody Wants To Be Lonely](https://open.spotify.com/album/4VQuUtKFBB9BjBjFvqWXJl) | 3:13 |
-| 3 | [Sweet Feeling](https://open.spotify.com/track/4pPi8qmEYGCtWZdSWZ79vW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Sweet Feeling](https://open.spotify.com/album/1rSf0wxKtdVx1e2dy66CMr) | 5:34 |
-| 4 | [Out Of Sight](https://open.spotify.com/track/3s6cuxFNe2so5aX2NTAM6Q) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd), [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Out Of Sight](https://open.spotify.com/album/5o9sRpyDsuhc3fiS7y99gK) | 3:48 |
-| 5 | [Runaway Train](https://open.spotify.com/track/0p0F9JbSXgllWzOAIeje7Y) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Runaway Train](https://open.spotify.com/album/6TylTdm2xJghIX9o9sBp1Y) | 4:15 |
-| 6 | [Help Me](https://open.spotify.com/track/2tKvPt023QVMNkkNqmTDap) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Help Me](https://open.spotify.com/album/5fQEUm0GyrU0TDezWAR2sL) | 3:30 |
-| 7 | [Sweet 'Lil Lies](https://open.spotify.com/track/6ibzlLNs7baLXzz4RjMLd9) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Sweet 'Lil Lies](https://open.spotify.com/album/6UCqBQAXge2aQLiZa6HrLu) | 5:17 |
+| 1 | [Black Magic](https://open.spotify.com/track/4GuQf92xMVo9FYRYnj37OL) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Black Magic](https://open.spotify.com/album/2AfgpZdbs8CI1MvjFaus2A) | 4:25 |
+| 2 | [Is It Safe To Go Home](https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 6:22 |
+| 3 | [Nobody Wants To Be Lonely](https://open.spotify.com/track/04AyFkLrP4bbrDjcXGPhfz) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Nobody Wants To Be Lonely](https://open.spotify.com/album/4VQuUtKFBB9BjBjFvqWXJl) | 3:13 |
+| 4 | [Sweet Feeling](https://open.spotify.com/track/4pPi8qmEYGCtWZdSWZ79vW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Sweet Feeling](https://open.spotify.com/album/1rSf0wxKtdVx1e2dy66CMr) | 5:34 |
+| 5 | [Out Of Sight](https://open.spotify.com/track/3s6cuxFNe2so5aX2NTAM6Q) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd), [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Out Of Sight](https://open.spotify.com/album/5o9sRpyDsuhc3fiS7y99gK) | 3:48 |
+| 6 | [Runaway Train](https://open.spotify.com/track/0p0F9JbSXgllWzOAIeje7Y) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Runaway Train](https://open.spotify.com/album/6TylTdm2xJghIX9o9sBp1Y) | 4:15 |
+| 7 | [Help Me](https://open.spotify.com/track/2tKvPt023QVMNkkNqmTDap) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Help Me](https://open.spotify.com/album/5fQEUm0GyrU0TDezWAR2sL) | 3:30 |
 | 8 | [I'll Be Moving On](https://open.spotify.com/track/3q53EOS9boS1UYg7et96KC) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Sari Schorr](https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl) | [I'll Be Moving On](https://open.spotify.com/album/6b6VYA1u7gpcGq5jPaFezV) | 3:51 |
-| 9 | [Hope You Realize It \(Goodbye Again\)](https://open.spotify.com/track/2cMKzAbQbKwHqYQgvRvGSw) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Hope You Realize It \(Goodbye Again\)](https://open.spotify.com/album/2fHbu3R5or4jVtzvHdc9OZ) | 3:58 |
-| 10 | [Save It For The Next Fool](https://open.spotify.com/track/4U9jHh7OSiDErr0OTW2FzO) | [Coco Montoya](https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb) | [Writing On The Wall](https://open.spotify.com/album/3g8mmWEgsQs1H15zMnxTKX) | 4:19 |
-| 11 | [I'm A Woman](https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [I'm A Woman](https://open.spotify.com/album/0ul0OtmuYOCV00rsaKaHPm) | 4:58 |
+| 9 | [Save It For The Next Fool](https://open.spotify.com/track/4U9jHh7OSiDErr0OTW2FzO) | [Coco Montoya](https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb) | [Writing On The Wall](https://open.spotify.com/album/3g8mmWEgsQs1H15zMnxTKX) | 4:19 |
+| 10 | [I'm A Woman](https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [I'm A Woman](https://open.spotify.com/album/0ul0OtmuYOCV00rsaKaHPm) | 4:58 |
+| 11 | [Big Grey Sky](https://open.spotify.com/track/58oEh6arIVp6WWUDiTnBun) | [Chris Thomas King](https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN) | [Big Grey Sky](https://open.spotify.com/album/19Unzw1ncj6JqxPGPBkXbP) | 4:28 |
 | 12 | [Talkin' Company Man Blues](https://open.spotify.com/track/49X6s0pSjdjOxy2eMFA7BI) | [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Talkin' Company Man Blues](https://open.spotify.com/album/0ij4E9nKXJQaxJ8OcOb4D2) | 4:10 |
 | 13 | [Long Road Ahead](https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Long Road Ahead](https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2) | 3:22 |
 | 14 | [I Want To](https://open.spotify.com/track/5JsZqpiC00eYCz7NRmACw6) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [All My Love For You](https://open.spotify.com/album/222kRkwtM8uoejy4iuhMMK) | 3:56 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 100 | [Always Free](https://open.spotify.com/track/0vD4NlJVWTYE8rdj1UGsAt) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 2:57 |
 | 101 | [She Calls Me Kingfish](https://open.spotify.com/track/7txQNFAmmzHJezbLSVCclc) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:12 |
 
-Snapshot ID: `MCwzNWY1MmM1N2UwZDhiNjhkNGI2MGM0ZGVkNjg4ZjM5NjNmMmUxMjc3`
+Snapshot ID: `MCwyZDc4MWJlZDJlNWRiZTZkOTk3NTFjYmJmYzVkZTZlMjhlMTRhYzc5`

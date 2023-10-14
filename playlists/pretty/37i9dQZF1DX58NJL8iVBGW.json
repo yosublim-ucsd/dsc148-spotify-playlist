@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 583541,
+  "num_followers": 583406,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTZiNzFmZjBhYWRjMzlmODMxODI0NmI3NzIzODFlMTJiYmQ1MTU2",
+  "snapshot_id": "MCw3NjlhNDcyYTcwZTA1ZmNhZTYwYWRhOTE5YTYxMDZkZThmOGU1N2Ez",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Folk Songs of the American Longhair",
-        "url": "https://open.spotify.com/album/0eU0Ig4o4Asslx1t3nIPm2"
-      },
-      "artists": [
-        {
-          "name": "Brother Dege",
-          "url": "https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR"
-        }
-      ],
-      "duration_ms": 224053,
-      "name": "Too Old to Die Young",
-      "url": "https://open.spotify.com/track/3B9CVXsyyFRVQwCPYbhS9m"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "A Long Life of Living",
         "url": "https://open.spotify.com/album/1e7YbwFtvVBUpWMTojqeCg"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 250240,
       "name": "The Railroad",
       "url": "https://open.spotify.com/track/7mkemk33kdLQvrkIpRkWWd"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Folk Songs of the American Longhair",
+        "url": "https://open.spotify.com/album/0eU0Ig4o4Asslx1t3nIPm2"
+      },
+      "artists": [
+        {
+          "name": "Brother Dege",
+          "url": "https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR"
+        }
+      ],
+      "duration_ms": 224053,
+      "name": "Too Old to Die Young",
+      "url": "https://open.spotify.com/track/3B9CVXsyyFRVQwCPYbhS9m"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Oh, Willie, Please...",
-        "url": "https://open.spotify.com/album/6zAjJYvX7qsgoRPNMAZeN3"
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
       },
       "artists": [
         {
-          "name": "Vandaveer",
-          "url": "https://open.spotify.com/artist/3SP3zwx9ot2sOEf80VJA5A"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 228958,
-      "name": "Pretty Polly",
-      "url": "https://open.spotify.com/track/6XixumK1atNVgBVoqpNvAg"
+      "duration_ms": 229666,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/5szmwG86IFASvYrca21MEz"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
+        "name": "Oh, Willie, Please...",
+        "url": "https://open.spotify.com/album/6zAjJYvX7qsgoRPNMAZeN3"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Vandaveer",
+          "url": "https://open.spotify.com/artist/3SP3zwx9ot2sOEf80VJA5A"
         }
       ],
-      "duration_ms": 229666,
-      "name": "Work Song",
-      "url": "https://open.spotify.com/track/5szmwG86IFASvYrca21MEz"
+      "duration_ms": 228958,
+      "name": "Pretty Polly",
+      "url": "https://open.spotify.com/track/6XixumK1atNVgBVoqpNvAg"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "27 Ways",
-        "url": "https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy"
-      },
-      "artists": [
-        {
-          "name": "Desert Noises",
-          "url": "https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe"
-        }
-      ],
-      "duration_ms": 108361,
-      "name": "Dime in My Pocket",
-      "url": "https://open.spotify.com/track/4MaJqmMJ1CGjyL1oolmx8K"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Howl",
         "url": "https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 177306,
       "name": "Fault Line",
       "url": "https://open.spotify.com/track/1mLlfRGoI7a6qbvyH0Bh2A"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "27 Ways",
+        "url": "https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy"
+      },
+      "artists": [
+        {
+          "name": "Desert Noises",
+          "url": "https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe"
+        }
+      ],
+      "duration_ms": 108361,
+      "name": "Dime in My Pocket",
+      "url": "https://open.spotify.com/track/4MaJqmMJ1CGjyL1oolmx8K"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Heatstroke/The Wind and the War",
-        "url": "https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ"
-      },
-      "artists": [
-        {
-          "name": "KaiL Baxley",
-          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
-        }
-      ],
-      "duration_ms": 158533,
-      "name": "Boy Got It Bad",
-      "url": "https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Filthy Dirty South",
         "url": "https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 346333,
       "name": "Filthy Dirty South",
       "url": "https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Heatstroke/The Wind and the War",
+        "url": "https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ"
+      },
+      "artists": [
+        {
+          "name": "KaiL Baxley",
+          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
+        }
+      ],
+      "duration_ms": 158533,
+      "name": "Boy Got It Bad",
+      "url": "https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Little Wing",
-        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "The Ghost Who Walks",
         "url": "https://open.spotify.com/album/3kROejW59eSIewYwDdPtx1"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 187146,
       "name": "Stolen Roses",
       "url": "https://open.spotify.com/track/4iA8sr24vIQkDmNeS8W1RR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Little Wing",
+        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
     },
     {
       "added_at": "2023-10-06 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Immasoul en portada.",
-  "num_followers": 34554,
+  "num_followers": 34568,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGU3ZGU3NTE4YTY2MGIwYTI5MTAwNWUyZWQ1ZWEzZjQwMzY5NjQ4",
+  "snapshot_id": "MCw2N2U0MzlkODFlNzkxZTIwOTFjYmRlZmI0ZWU2NjhlMWY3MjNhYWNk",
   "tracks": [
     {
       "added_at": "2023-10-12 02:18:45",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Alma Carnavalera",
-        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Santiago",
-          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
-        }
-      ],
-      "duration_ms": 234655,
-      "name": "Alma Carnavalera",
-      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
-    },
-    {
       "added_at": "2023-05-09 00:13:28",
       "album": {
         "name": "Sauvage",
@@ -643,6 +627,22 @@
       "duration_ms": 331746,
       "name": "Sauvage",
       "url": "https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Alma Carnavalera",
+        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Santiago",
+          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
+        }
+      ],
+      "duration_ms": 234655,
+      "name": "Alma Carnavalera",
+      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Noest\u00e1saqu\u00ed",
-        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
-      },
-      "artists": [
-        {
-          "name": "Caramelo Haze",
-          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Window Seat",
-      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Canoas",
         "url": "https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 297000,
       "name": "Canoas",
       "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Noest\u00e1saqu\u00ed",
+        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
+      },
+      "artists": [
+        {
+          "name": "Caramelo Haze",
+          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -879,18 +879,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Los Estimados",
-        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
       },
       "artists": [
         {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 277589,
-      "name": "Los Estimados",
-      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
+      "duration_ms": 197733,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -915,22 +919,18 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
+        "name": "Los Estimados",
+        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
       },
       "artists": [
         {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
         }
       ],
-      "duration_ms": 197733,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+      "duration_ms": 277589,
+      "name": "Los Estimados",
+      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Camino al Mar",
-        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 252040,
-      "name": "Hoy Como Siempre",
-      "url": "https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 198048,
       "name": "Flores",
       "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Camino al Mar",
+        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 252040,
+      "name": "Hoy Como Siempre",
+      "url": "https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0"
     },
     {
       "added_at": "2023-05-05 23:46:53",

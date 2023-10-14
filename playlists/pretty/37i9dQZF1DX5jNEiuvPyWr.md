@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Zamdane
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,952 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,767 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 32 | [Semblant](https://open.spotify.com/track/48cHrfBxVCy0x1hgNBACe4) | [Djiggy](https://open.spotify.com/artist/6dsigAAr7UblMinqOSzbCa) | [Semblant](https://open.spotify.com/album/2lRudXz3qRULXLQz961e65) | 2:20 |
 | 33 | [GRANDIR ET RAJEUNIR](https://open.spotify.com/track/0qXgwDS6MQzM4FHgoS0eLp) | [Luni](https://open.spotify.com/artist/3xEtgUoHv1k1JyqYLEwRGl) | [AHBON MIXTAPE](https://open.spotify.com/album/5s5MPCy39ktuAFfewT2xSk) | 2:19 |
 | 34 | [SOUVENIRS](https://open.spotify.com/track/070rxSgfnTVjn9kikhGLU2) | [YUME](https://open.spotify.com/artist/7IgkOITmhunwpVY5EbvXlu) | [MIROIR](https://open.spotify.com/album/4ZtlOqJwGEBc5t9umPxWtP) | 2:33 |
-| 35 | [SOLIDE](https://open.spotify.com/track/6bHjkSacCGQ558e2VPHBL2) | [PUSH & GIO](https://open.spotify.com/artist/1dsDes6AhaezAMdHIEQbAr), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [LETS GO](https://open.spotify.com/album/07JcrUKjzCDu3fkEtiW1XP) | 3:09 |
+| 35 | [SOLIDE](https://open.spotify.com/track/6bHjkSacCGQ558e2VPHBL2) | [PUSH & GIO](https://open.spotify.com/artist/1dsDes6AhaezAMdHIEQbAr), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [LETS GO](https://open.spotify.com/artist/0slvOa2y1TVxMkb7H1iasz) | [LETS GO](https://open.spotify.com/album/07JcrUKjzCDu3fkEtiW1XP) | 3:09 |
 | 36 | [5 AM](https://open.spotify.com/track/5I4nsx9cderO8FqfjDR0zA) | [Many Santana](https://open.spotify.com/artist/3rCZ4fFIVhGxQHg3UwizcJ) | [5 AM](https://open.spotify.com/album/3fdxBZ7JxFiXtCDRYizYSB) | 2:33 |
 | 37 | [Dernière page](https://open.spotify.com/track/6l3HLmhZkRi80m3ymQA8U5) | [Elh Kmer](https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ) | [Vivaldi : Vík](https://open.spotify.com/album/1e3aP2KfgSCO2IwPDAM2DN) | 4:04 |
 | 38 | [+80°](https://open.spotify.com/track/3Yu1cTbimH7Xxgw6cBixGQ) | [Rookie Magazine](https://open.spotify.com/artist/4qAeOrb5Lvgh2TSE4qwaRe), [A$tro Boi](https://open.spotify.com/artist/3z3ZlPSstN29UKnGUTbgVJ) | [Amplitude Thermique](https://open.spotify.com/album/6XQUfVJqDPy8wAmMmt2deZ) | 3:33 |
 | 39 | [JOUR DE PLUIE](https://open.spotify.com/track/6nxLFvMeQySR4wKFPRh1tC) | [Golgoth](https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA) | [JOUR DE PLUIE](https://open.spotify.com/album/2yWX4MlBDNXu3xtscHFi3O) | 2:47 |
 | 40 | [Aura](https://open.spotify.com/track/6qOuClqwGnHV9GSlp6zCJa) | [Tensei](https://open.spotify.com/artist/4l8e0PM8xxd2dbm74mGsQn) | [Aura](https://open.spotify.com/album/7khYQ0rYRwrJlkwvFtYggc) | 4:07 |
 
-Snapshot ID: `MCxjNGE2ODk4YzM1YzJkZmZiZDVhNzQyMzExZDk3MTViZGUzZDU3NGNi`
+Snapshot ID: `MCw3YWViYWM0OTQ0OTJiNTBiZTg1NjY4NzIyZDdhZGU0YzY0ZjYzOWJi`

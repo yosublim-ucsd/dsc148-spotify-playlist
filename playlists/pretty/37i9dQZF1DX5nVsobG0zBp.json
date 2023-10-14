@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: ProfJam.  ",
-  "num_followers": 53186,
+  "num_followers": 53233,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGVmNzQ2NThhNTBiYTBlOWE1Y2IyYmVlMzFiMmU0MzAwMmM4ZGYx",
+  "snapshot_id": "MCwzMzNiYTM5ZWFmYzc0MjZkMTFjZjc1NTUyMzE1MDdhZWMyNzQ3OTNj",
   "tracks": [
     {
       "added_at": "2023-09-28 14:24:20",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-09-28 14:24:20",
       "album": {
+        "name": "Galileu",
+        "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 182362,
+      "name": "Galileu",
+      "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
+    },
+    {
+      "added_at": "2023-09-28 14:24:20",
+      "album": {
         "name": "Sweet Spot",
         "url": "https://open.spotify.com/album/2qK6Eff85oD0PcsmFbv4Dj"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 288000,
       "name": "Sweet Spot",
       "url": "https://open.spotify.com/track/7yrH4ghvW4hivGBpLU7dDb"
-    },
-    {
-      "added_at": "2023-09-28 14:24:20",
-      "album": {
-        "name": "S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7"
-      },
-      "artists": [
-        {
-          "name": "Yuri NR5",
-          "url": "https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew"
-        }
-      ],
-      "duration_ms": 233247,
-      "name": "S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn"
     },
     {
       "added_at": "2023-09-28 14:24:20",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-09-28 14:24:20",
       "album": {
-        "name": "Galileu",
-        "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7"
       },
       "artists": [
         {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+          "name": "Yuri NR5",
+          "url": "https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew"
         }
       ],
-      "duration_ms": 182362,
-      "name": "Galileu",
-      "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
+      "duration_ms": 233247,
+      "name": "S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn"
     },
     {
       "added_at": "2023-09-28 14:24:20",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-09-28 14:24:20",
       "album": {
-        "name": "Mechelas",
-        "url": "https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1"
+        "name": "Juvena",
+        "url": "https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc"
       },
       "artists": [
         {
-          "name": "Sam The Kid",
-          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
         }
       ],
-      "duration_ms": 314133,
-      "name": "Sendo Assim",
-      "url": "https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6"
+      "duration_ms": 159452,
+      "name": "Juvena",
+      "url": "https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP"
     },
     {
       "added_at": "2023-09-28 14:24:20",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-09-28 14:24:20",
       "album": {
-        "name": "00 Fala Bonito",
-        "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
+        "name": "Mechelas",
+        "url": "https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1"
       },
       "artists": [
         {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+          "name": "Sam The Kid",
+          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
         }
       ],
-      "duration_ms": 212093,
-      "name": "00 Fala Bonito",
-      "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
+      "duration_ms": 314133,
+      "name": "Sendo Assim",
+      "url": "https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6"
     },
     {
       "added_at": "2023-09-28 14:24:20",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-09-28 14:24:20",
       "album": {
+        "name": "00 Fala Bonito",
+        "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "00 Fala Bonito",
+      "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
+    },
+    {
+      "added_at": "2023-09-28 14:24:20",
+      "album": {
         "name": "CARO",
         "url": "https://open.spotify.com/album/4IwuZcwCQmHt7SEX2TUrxP"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 237722,
       "name": "CARO",
       "url": "https://open.spotify.com/track/0zjmhKBOuslq0d26IEbVKD"
-    },
-    {
-      "added_at": "2023-09-28 14:24:20",
-      "album": {
-        "name": "Juvena",
-        "url": "https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 159452,
-      "name": "Juvena",
-      "url": "https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP"
     },
     {
       "added_at": "2023-09-28 14:24:20",
@@ -911,22 +911,18 @@
     {
       "added_at": "2023-09-28 14:24:20",
       "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT"
+        "name": "Bailarina 2",
+        "url": "https://open.spotify.com/album/3MrYzIwKpAQ7KdjFzysWyd"
       },
       "artists": [
         {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "Los Cavakitos",
-          "url": "https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi"
+          "name": "Dezinho",
+          "url": "https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA"
         }
       ],
-      "duration_ms": 260301,
-      "name": "Bolero",
-      "url": "https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0"
+      "duration_ms": 189624,
+      "name": "Bailarina 2",
+      "url": "https://open.spotify.com/track/2Pei7rzUWupgWq3HeF8KOv"
     },
     {
       "added_at": "2023-09-28 14:24:20",
@@ -947,18 +943,22 @@
     {
       "added_at": "2023-09-28 14:24:20",
       "album": {
-        "name": "Bailarina 2",
-        "url": "https://open.spotify.com/album/3MrYzIwKpAQ7KdjFzysWyd"
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT"
       },
       "artists": [
         {
-          "name": "Dezinho",
-          "url": "https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA"
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "Los Cavakitos",
+          "url": "https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi"
         }
       ],
-      "duration_ms": 189624,
-      "name": "Bailarina 2",
-      "url": "https://open.spotify.com/track/2Pei7rzUWupgWq3HeF8KOv"
+      "duration_ms": 260301,
+      "name": "Bolero",
+      "url": "https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0"
     },
     {
       "added_at": "2023-09-28 14:24:20",
@@ -999,22 +999,6 @@
       "duration_ms": 153858,
       "name": "PRA MIM",
       "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
-    },
-    {
-      "added_at": "2023-09-28 14:24:20",
-      "album": {
-        "name": "Dama & Vagabundo",
-        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        }
-      ],
-      "duration_ms": 313825,
-      "name": "Dama & Vagabundo",
-      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
     },
     {
       "added_at": "2023-09-28 14:24:20",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2023-09-28 14:24:20",
       "album": {
+        "name": "Dama & Vagabundo",
+        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "duration_ms": 313825,
+      "name": "Dama & Vagabundo",
+      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
+    },
+    {
+      "added_at": "2023-09-28 14:24:20",
+      "album": {
         "name": "FAMA",
         "url": "https://open.spotify.com/album/2wehAGXNEm5zttICwk1ERI"
       },
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-09-28 14:24:20",
       "album": {
-        "name": "P de Pablito",
-        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
+        "name": "Malandro",
+        "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
       },
       "artists": [
         {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
         }
       ],
-      "duration_ms": 182000,
-      "name": "P de Pablito",
-      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
+      "duration_ms": 210675,
+      "name": "Malandro",
+      "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
     },
     {
       "added_at": "2023-09-28 14:24:20",
@@ -1171,22 +1171,6 @@
       "duration_ms": 168631,
       "name": "GUUD",
       "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
-    },
-    {
-      "added_at": "2023-09-28 14:24:20",
-      "album": {
-        "name": "Malandro",
-        "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 210675,
-      "name": "Malandro",
-      "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
     },
     {
       "added_at": "2023-09-28 14:24:20",
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2023-09-28 14:24:20",
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23"
+    },
+    {
+      "added_at": "2023-09-28 14:24:20",
+      "album": {
         "name": "Conclus\u00e3o",
         "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
       },
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-09-28 14:24:20",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6"
+        "name": "P de Pablito",
+        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
       },
       "artists": [
         {
-          "name": "Kappa Jotta",
-          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23"
+      "duration_ms": 182000,
+      "name": "P de Pablito",
+      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
     },
     {
       "added_at": "2023-09-28 14:24:20",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-09-28 14:24:20",
       "album": {
-        "name": "O Re$To",
-        "url": "https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "DJ HYPE MYKE",
-          "url": "https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch"
-        }
-      ],
-      "duration_ms": 304600,
-      "name": "O Re$To",
-      "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
-    },
-    {
-      "added_at": "2023-09-28 14:24:20",
-      "album": {
         "name": "2020 (feat. Slow J)",
         "url": "https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ"
       },
@@ -1347,6 +1327,22 @@
       "duration_ms": 203812,
       "name": "2020 (feat. Slow J)",
       "url": "https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS"
+    },
+    {
+      "added_at": "2023-09-28 14:24:20",
+      "album": {
+        "name": "Morte do Artista",
+        "url": "https://open.spotify.com/album/7a88VpAUQJiWQbrlWOF9oL"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Rdc",
+          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
+        }
+      ],
+      "duration_ms": 207658,
+      "name": "Morte do Artista",
+      "url": "https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr"
     }
   ],
   "unique_name": "Rap Tuga Hits",

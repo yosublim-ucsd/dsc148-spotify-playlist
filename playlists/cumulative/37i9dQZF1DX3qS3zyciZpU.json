@@ -1359,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "It Takes A Woman",
+        "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246986,
+      "name": "It Takes A Woman",
+      "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
+    },
+    {
+      "album": {
         "name": "Sunset Man (Standard Version)",
         "url": "https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim"
       },

@@ -2,9 +2,9 @@
 
 ### [Rarities](https://open.spotify.com/playlist/37i9dQZF1DX18m1EYRUeh9)
 
-> Smooth joints from around the globe\. Cover: Dana and Alden
+> Smooth indie jazz joints from around the globe\. Cover: Dana and Alden
 
-162 songs - 10 hr 41 min
+165 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Fever](https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Sariah Mae](https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th) | [Fever](https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf) | 2:58 | 2023-09-28 |  |
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2023-08-10 |  |
 | [Find My Way](https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Find My Way](https://open.spotify.com/album/6NWwBZ308qTBXufqWAboMe) | 3:42 | 2023-08-10 |  |
+| [Frisco Blues](https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Frisco Blues](https://open.spotify.com/album/0KteuByNpfG6DnPfNPytbF) | 4:07 | 2023-10-13 |  |
 | [FUGAZI](https://open.spotify.com/track/5xWvtdIspTn4RK8Ki3IjtR) | [Boyboy](https://open.spotify.com/artist/3atKvJHxeZCllkWawVbmXc) | [FUGAZI](https://open.spotify.com/album/782lLDVj2EifDWu5JAgGgh) | 3:05 | 2023-08-24 |  |
 | [Good Hair Day \- Harvey Sutherland Remix](https://open.spotify.com/track/1iHtGA7VOlHET7JScO42vB) | [Simon Mavin](https://open.spotify.com/artist/7cLYKsKV8Xsyrn1cvszju4), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Good Hair Day \(Harvey Sutherland Remix\)](https://open.spotify.com/album/6Tzr0ct0zPtuUWU5tyFg0B) | 4:27 | 2023-08-10 | 2023-09-08 |
 | [Greatest Gift \(feat\. Lila Iké\)](https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:12 | 2023-09-28 |  |
@@ -80,7 +81,8 @@
 | [Knocked Down](https://open.spotify.com/track/6eqB9nHqFg5lXl0R4KJOfn) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Asher Kosher](https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6), [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [Turt](https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0), [Paya](https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO), [Joe Beard](https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP) | [Knocked Down](https://open.spotify.com/album/7Aaay06Qqs7PTimOjKuIFC) | 3:35 | 2023-09-21 |  |
 | [Last Words](https://open.spotify.com/track/3khWqd9n9x6U7UMDlXWxbm) | [NO ZU](https://open.spotify.com/artist/0ASJYABL9IBmNhXFXDuV5P) | [Last Words](https://open.spotify.com/album/11rsTNOr3mFKfGJ0JjtSJy) | 5:09 | 2023-09-21 |  |
 | [Let's Go to Trader Joe's](https://open.spotify.com/track/0z5l7DO1gTxysQagz2ze8M) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [Cinya Khan](https://open.spotify.com/artist/7nv9u1rH0xrKytpgKfDKfz) | [Quiet Music For Young People](https://open.spotify.com/album/7EnjFsVN3FXf3L1tknhyKm) | 2:36 | 2023-08-14 |  |
-| [Light Years](https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB) | 4:07 | 2023-10-12 |  |
+| [Light Years](https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB) | 4:07 | 2023-10-12 | 2023-10-14 |
+| [Light Years](https://open.spotify.com/track/4M3TB3K2uietahnWZuzIZF) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc) | 4:07 | 2023-10-12 |  |
 | [Listen To The Sky](https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Listen To The Sky](https://open.spotify.com/album/3G9hrfPSpBsvBwcgLT4i7u) | 2:52 | 2023-09-14 |  |
 | [Lost in a Bed of Flowers](https://open.spotify.com/track/6jKRORjRyncMFPyMxsYyp1) | [Zen in Space](https://open.spotify.com/artist/3tCapIBvPdztdjuCnoout6) | [Between the Abstract](https://open.spotify.com/album/08RkTLcmCy8RvbLD4MacKZ) | 5:57 | 2023-08-17 | 2023-09-29 |
 | [Loverboy](https://open.spotify.com/track/4WhxZNWqt4rzXf6ctk73CY) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [The Height Of Love](https://open.spotify.com/album/5I5F5oznREIBNiyl1f4ZuO) | 5:23 | 2023-08-10 | 2023-09-15 |
@@ -134,6 +136,7 @@
 | [Sunbursting](https://open.spotify.com/track/5i35BpUHPzdgWY6YJNFige) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Óskar Guðjónsson](https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N) | [Sunbursting](https://open.spotify.com/album/4YjPkjnA20KAcFmYa3Jz04) | 3:19 | 2023-08-24 |  |
 | [Taivshral](https://open.spotify.com/track/0Q6JH1gDVsDRiDpES28Dqc) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Ulaan](https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat) | 3:07 | 2023-08-10 |  |
 | [Take Your Time](https://open.spotify.com/track/0kjPELR27yGGQlTQn9leFi) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Take Your Time](https://open.spotify.com/album/15LdEtHxICBhxzYUAE0ruA) | 6:24 | 2023-08-10 | 2023-10-06 |
+| [Tell Me Why](https://open.spotify.com/track/7AvuIMRKdo5RvS6YIzXjsj) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [On The Inside](https://open.spotify.com/album/0PW6NRnAfrWlngoemmoa8K) | 3:51 | 2023-10-13 |  |
 | [Tenere Den](https://open.spotify.com/track/7ytOQ3MLqno1gpctggPRTU) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Fats Kaplin](https://open.spotify.com/artist/5AzDLOaBZOw8YvHyMuGt69) | [Tenere Den](https://open.spotify.com/album/6Kn1FZXSVW4ydCAelpLpei) | 3:32 | 2023-08-10 | 2023-08-25 |
 | [That's Life \(A Swamp\)](https://open.spotify.com/track/3q2rGkL2k9YHckjz0kG9Sx) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf) | 5:26 | 2023-08-17 |  |
 | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/0zaiRanCo4iG7DnETYBMEJ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/6lz8QIW4YG1QbyFTQ79r68) | 5:40 | 2023-08-24 | 2023-09-11 |

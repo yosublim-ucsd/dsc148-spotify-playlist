@@ -1763,6 +1763,28 @@
     },
     {
       "album": {
+        "name": "Apelogies",
+        "url": "https://open.spotify.com/album/0TAeIWcUAjAb1ZBXzaDOGV"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        },
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276160,
+      "name": "Pure 90 (Rapping Queen)",
+      "url": "https://open.spotify.com/track/24ZEVCdOTKgdcM41B598NM"
+    },
+    {
+      "album": {
         "name": "Radioactive",
         "url": "https://open.spotify.com/album/2M0IZTKgkN3ZpYluF4lKAM"
       },
@@ -2682,7 +2704,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 250586,
       "name": "Wretches and Kings",
       "url": "https://open.spotify.com/track/4uqacT1xJ7UhPJAMAcb25A"

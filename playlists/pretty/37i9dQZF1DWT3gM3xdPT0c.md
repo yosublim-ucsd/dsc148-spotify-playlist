@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 
 > Warm instrumental guitar for a gentle start.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,622 likes - 108 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,673 likes - 108 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Innocent Face](https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:02 |
+| 1 | [Innocent Face](https://open.spotify.com/track/1LjYFVvhXmuP3RgErQBYkH) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Innocent Face](https://open.spotify.com/album/4GpBw9UUFaHkv12myq2POe) | 2:02 |
 | 2 | [Dwell in Possibility](https://open.spotify.com/track/34phA6QvS4jPziVuBj90Kz) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Dwell in Possibility](https://open.spotify.com/album/6C1207mfDBJpnGsBJd4PSp) | 2:32 |
 | 3 | [Rumors](https://open.spotify.com/track/4Mw71ocvgDe6uYELLu9r0U) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 2:21 |
 | 4 | [Shadow Mountain Road](https://open.spotify.com/track/0Qku1Xmz1hD569s8avKCYn) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [Shadow Mountain Road](https://open.spotify.com/album/3ZZ558auGHvycTNuluHWAn) | 2:36 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 | 107 | [Gentle Stream](https://open.spotify.com/track/7xV7FTZ8rvSco3lZRxF3rt) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Gentle Stream](https://open.spotify.com/album/2ZiJsj9Wp3f7UTDgoVcVHN) | 2:40 |
 | 108 | [Pumori](https://open.spotify.com/track/1CLchOJrSa1K59IgJtBgAS) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Makalu](https://open.spotify.com/album/1T6ygMtSOuBoR1rMg4Ejh7) | 2:59 |
 
-Snapshot ID: `MCxlZTRjNDA1NThkNTdkNzA5MDQ4MTZhOWE2YTVmYTM0M2EzMDJkOTIz`
+Snapshot ID: `MCwxNzNlMjE0YjlmMmNlNzgwNjgxNmVmZGNjZGVjZWExOTVlM2I0MzFm`

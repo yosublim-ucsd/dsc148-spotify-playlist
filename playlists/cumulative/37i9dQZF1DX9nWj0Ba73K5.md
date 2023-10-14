@@ -2,9 +2,9 @@
 
 ### [Country Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX9nWj0Ba73K5)
 
-> Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Lori McKenna
+> Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Nicolle Galyon
 
-240 songs - 13 hr 58 min
+242 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Red Satin Dress](https://open.spotify.com/track/0k7sELmj9D9rNtVWCyCw4h) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Red Satin Dress](https://open.spotify.com/album/0naK2HyiBWs3NUBmtAt69v) | 4:01 | 2022-01-01 |  |
 | [Right on Time](https://open.spotify.com/track/5mGRUc1K0PeiIZVLgENPbU) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [Tell the People](https://open.spotify.com/album/0AXC4SSbB9ojN8ZFxXNTwt) | 2:54 | 2022-01-01 |  |
 | [Rocking Chair](https://open.spotify.com/track/2trulLYIXb48yr8KlTYpKd) | [Yesterday's Wine](https://open.spotify.com/artist/0tRBFOqzDBDH8XP3VC9kZN), [Wyatt Durrette](https://open.spotify.com/artist/3VZsRkLj2QtJBcYoHojb0k), [Levi Lowrey](https://open.spotify.com/artist/0nMJIZIXTK8H6f3fS1OlZ7) | [Rocking Chair](https://open.spotify.com/album/3tw58VPAIjS7IHMD9eAisS) | 3:59 | 2022-01-01 |  |
+| [rooms.](https://open.spotify.com/track/1LFxcgibKQBrTGlYzjdGhL) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [Second Wife](https://open.spotify.com/album/6ozGfS9Cyd684kJhm3PRLI) | 2:33 | 2023-10-13 |  |
 | [Same Team](https://open.spotify.com/track/7knjkn9qkKM6VyekFQMYW0) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Same Team](https://open.spotify.com/album/1tyfPdNSvHpE8jgxlCfENs) | 2:54 | 2022-01-21 |  |
 | [Sangria](https://open.spotify.com/track/0kCKUX3wgd6c6da5I4vJIR) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Osborne](https://open.spotify.com/artist/1QoLSRhja9IcOQKelE594L) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:25 | 2022-01-01 |  |
 | [Save The Roses](https://open.spotify.com/track/4r8tnUcdD9kVETRZSTIa5E) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:21 | 2023-03-03 |  |
@@ -194,6 +195,7 @@
 | [Take Your Time](https://open.spotify.com/track/6B9KlXistEsO9vOLLzeSmq) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Osborne](https://open.spotify.com/artist/1QoLSRhja9IcOQKelE594L) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 4:00 | 2022-01-01 |  |
 | [Tears the Size of Texas](https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI) | 3:58 | 2022-09-01 |  |
 | [Tell Your Mother I’m Fine](https://open.spotify.com/track/5PM67sXQVdZIJfX86JgwcM) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Tell Your Mother I’m Fine](https://open.spotify.com/album/5gdxk0YHrfX9HCsGh6QNaP) | 3:08 | 2023-03-03 |  |
+| [texas hold 'em.](https://open.spotify.com/track/4LgLudzcFPzho9RQh5iYve) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [Second Wife](https://open.spotify.com/album/6ozGfS9Cyd684kJhm3PRLI) | 2:43 | 2023-10-13 |  |
 | [That's Where It's At](https://open.spotify.com/track/3emkNnlUI9A5YJopfdk6wC) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Zach Crowell](https://open.spotify.com/artist/2yZT0zo8NPltj0c8KZvJip) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:17 | 2022-01-01 |  |
 | [That's Why I Don't Drink Anymore](https://open.spotify.com/track/6q0h7XhAkIjkFZZEhR1vaE) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI) | [Music Row](https://open.spotify.com/album/5aWz2wmH9Hb0vklmrBrnVw) | 4:00 | 2022-01-01 |  |
 | [The Better Part of Living](https://open.spotify.com/track/2h2LM8gHbCu7USHG8rRVG5) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 3:37 | 2022-01-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,207 likes - 95 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,239 likes - 95 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 94 | [Jakob’s Happy Song](https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW) | [Simon Westman Trio](https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw) | [Stay a While](https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE) | 5:32 |
 | 95 | [Feeling](https://open.spotify.com/track/6mLWHZHMceU8qX8uQx8k8M) | [Hegge](https://open.spotify.com/artist/5EWX8RNmEZQNPmKQY4XU1G) | [Feeling](https://open.spotify.com/album/1I5B2Z0aFETAorqMcAO33u) | 6:46 |
 
-Snapshot ID: `MCw0NWFhZjY4ZDM5OTI3NDdmZmM4YjY2ODVhMjYxZTIzYzI3OTkwNzdj`
+Snapshot ID: `MCw3M2Y2YjEwY2JmN2Y1ZjIyMWZkN2I0NWQ5MWE4ZWVmYWMzNGQyMDY0`

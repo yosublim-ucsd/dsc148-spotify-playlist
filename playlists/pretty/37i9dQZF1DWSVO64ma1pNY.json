@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 288611,
+  "num_followers": 288781,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjU1OTU1ZDZhMWRhZWFjMDJiMjg2YzJiMTcxNzFhODM1YWQzOTEz",
+  "snapshot_id": "MCw4ZDQ3Mjg0Mzg5NGRlYTBjNjE2ODI4MzdkOTExM2U2YzI5ZDQ3Yjc0",
   "tracks": [
     {
       "added_at": "2023-09-28 07:33:18",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-09-28 07:33:18",
       "album": {
-        "name": "So Much (For) Stardust",
-        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 215601,
-      "name": "Hold Me Like a Grudge",
-      "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
-    },
-    {
-      "added_at": "2023-09-28 07:33:18",
-      "album": {
         "name": "Take Off Your Pants And Jacket",
         "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 227200,
       "name": "Anthem Part Two",
       "url": "https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB"
+    },
+    {
+      "added_at": "2023-09-28 07:33:18",
+      "album": {
+        "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 215601,
+      "name": "Hold Me Like a Grudge",
+      "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
     },
     {
       "added_at": "2023-09-28 07:33:18",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-09-28 07:33:18",
       "album": {
-        "name": "Dosage",
-        "url": "https://open.spotify.com/album/5YcqcN9ZyZIS2vYYT4WC66"
-      },
-      "artists": [
-        {
-          "name": "Collective Soul",
-          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
-        }
-      ],
-      "duration_ms": 174912,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/0VbOBom0Ya2zrlSpv7II1C"
-    },
-    {
-      "added_at": "2023-09-28 07:33:18",
-      "album": {
         "name": "Hats Off to the Bull",
         "url": "https://open.spotify.com/album/4rTrbTxqjHtjle04l4blOV"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 218560,
       "name": "Face to the Floor",
       "url": "https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"
+    },
+    {
+      "added_at": "2023-09-28 07:33:18",
+      "album": {
+        "name": "Dosage",
+        "url": "https://open.spotify.com/album/5YcqcN9ZyZIS2vYYT4WC66"
+      },
+      "artists": [
+        {
+          "name": "Collective Soul",
+          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
+        }
+      ],
+      "duration_ms": 174912,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/0VbOBom0Ya2zrlSpv7II1C"
     },
     {
       "added_at": "2023-09-28 07:33:18",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-09-28 07:33:18",
       "album": {
+        "name": "The Heroin Diaries Soundtrack",
+        "url": "https://open.spotify.com/album/2sHrTFehGvpj3sLoZn9ZBy"
+      },
+      "artists": [
+        {
+          "name": "Sixx:A.M.",
+          "url": "https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Life is Beautiful",
+      "url": "https://open.spotify.com/track/6zW2lcSvb5RDzJEauHZHPS"
+    },
+    {
+      "added_at": "2023-09-28 07:33:18",
+      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2023-09-28 07:33:18",
       "album": {
-        "name": "The Truth Is... (Special Edition)",
-        "url": "https://open.spotify.com/album/2JUpjRRxWKUZwVwY9sTXS1"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 219360,
-      "name": "Bitch Came Back",
-      "url": "https://open.spotify.com/track/6kp8F9FpHXzjga2MeRDSG8"
-    },
-    {
-      "added_at": "2023-09-28 07:33:18",
-      "album": {
         "name": "Sci-Fi Crimes",
         "url": "https://open.spotify.com/album/4yo38BbmUi80kZOqHlRhNH"
       },
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-09-28 07:33:18",
       "album": {
-        "name": "The Heroin Diaries Soundtrack",
-        "url": "https://open.spotify.com/album/2sHrTFehGvpj3sLoZn9ZBy"
+        "name": "The Truth Is... (Special Edition)",
+        "url": "https://open.spotify.com/album/2JUpjRRxWKUZwVwY9sTXS1"
       },
       "artists": [
         {
-          "name": "Sixx:A.M.",
-          "url": "https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6"
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Life is Beautiful",
-      "url": "https://open.spotify.com/track/6zW2lcSvb5RDzJEauHZHPS"
+      "duration_ms": 219360,
+      "name": "Bitch Came Back",
+      "url": "https://open.spotify.com/track/6kp8F9FpHXzjga2MeRDSG8"
     },
     {
       "added_at": "2023-09-28 07:33:18",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-09-28 07:33:18",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 159741,
-      "name": "The Champion",
-      "url": "https://open.spotify.com/track/5AU57UY8wDFicbZw8E6mw2"
-    },
-    {
-      "added_at": "2023-09-28 07:33:18",
-      "album": {
         "name": "Swoon",
         "url": "https://open.spotify.com/album/0swOso9dwIp1PHmDP4dTbX"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 343906,
       "name": "Panic Switch",
       "url": "https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54"
+    },
+    {
+      "added_at": "2023-09-28 07:33:18",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 159741,
+      "name": "The Champion",
+      "url": "https://open.spotify.com/track/5AU57UY8wDFicbZw8E6mw2"
     },
     {
       "added_at": "2023-09-28 07:33:18",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-09-28 07:33:18",
       "album": {
-        "name": "Eleven Eleven",
-        "url": "https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur Pile-Up",
-          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
-        }
-      ],
-      "duration_ms": 244677,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/3HtazJXet39mz8SqZwm5NP"
-    },
-    {
-      "added_at": "2023-09-28 07:33:18",
-      "album": {
         "name": "Siamese Dream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 222725,
       "name": "Quiet - 2011 Remaster",
       "url": "https://open.spotify.com/track/5h9qCxrIrS7atH6OEglH8X"
+    },
+    {
+      "added_at": "2023-09-28 07:33:18",
+      "album": {
+        "name": "Eleven Eleven",
+        "url": "https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "duration_ms": 244677,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/3HtazJXet39mz8SqZwm5NP"
     },
     {
       "added_at": "2023-09-28 07:33:18",

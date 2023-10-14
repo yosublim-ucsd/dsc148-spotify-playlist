@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Skepta
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,379 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,660 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 99 | [For You](https://open.spotify.com/track/61xnXX4B0GJ5SW3AEzz6Xc) | [Bazzyb](https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97) | [For You](https://open.spotify.com/album/4gKjlcQiESI111lulR9jdJ) | 2:17 |
 | 100 | [Colours Of Love](https://open.spotify.com/track/0y4LbOxZEpwmfVHxB4HQ19) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Colours Of Love](https://open.spotify.com/album/4TYQZTD8qDGlrHMfg5aYsO) | 3:18 |
 
-Snapshot ID: `MCxmYmZmNzNmMTA5ZDM3NTFhNjUxMjE0YzBlMWYyMjFmM2Q3NGNhMTVk`
+Snapshot ID: `MCw5MzJjZjgzMWEzMDg5ZjZlZjhhY2UzY2FjZjE5MmQwYTg1ZDE4YWYw`

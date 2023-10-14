@@ -7346,10 +7346,28 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 216773,
       "name": "Imposter Syndrome",
       "url": "https://open.spotify.com/track/2rM2dih5BTtMvVRLrcpLIW"
+    },
+    {
+      "album": {
+        "name": "Star Potential",
+        "url": "https://open.spotify.com/album/4yHhW0tJ06QGsIBSpFRchc"
+      },
+      "artists": [
+        {
+          "name": "Sody",
+          "url": "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216773,
+      "name": "Imposter Syndrome",
+      "url": "https://open.spotify.com/track/3wjEFPAe4ofrzlrbPy0WrC"
     },
     {
       "album": {

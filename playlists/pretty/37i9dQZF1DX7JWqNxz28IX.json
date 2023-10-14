@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, sol\u00f8)",
-  "num_followers": 41501,
+  "num_followers": 41530,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDFhMGIzNGU2ODU2Yjk0OGI0NmM1MjEwNjVmYmM0OGZmNWFhNjQ4",
+  "snapshot_id": "MCxiYjc0ODZjZDY0NjRmNjhlYWM0NTQ3YThlMjMzNDYzZTdmYzdiZDUz",
   "tracks": [
     {
       "added_at": "2023-09-07 22:01:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "Due anni fa",
-        "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
-      },
-      "artists": [
-        {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
-        }
-      ],
-      "duration_ms": 160247,
-      "name": "Due anni fa",
-      "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
         "name": "Volevo dirti",
         "url": "https://open.spotify.com/album/2uHvJYoHJbcC4rwcdqSgZM"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 181953,
       "name": "Volevo dirti",
       "url": "https://open.spotify.com/track/4DGL38YHhXeoZehaVdoICU"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "Due anni fa",
+        "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
+      },
+      "artists": [
+        {
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+        }
+      ],
+      "duration_ms": 160247,
+      "name": "Due anni fa",
+      "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "Cose stupide",
-        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
+        "name": "Hai fatto tardi",
+        "url": "https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m"
       },
       "artists": [
         {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
         }
       ],
-      "duration_ms": 186500,
-      "name": "Cose stupide",
-      "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
+      "duration_ms": 172923,
+      "name": "Hai fatto tardi",
+      "url": "https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "Hai fatto tardi",
-        "url": "https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m"
+        "name": "Cose stupide",
+        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
       },
       "artists": [
         {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
         }
       ],
-      "duration_ms": 172923,
-      "name": "Hai fatto tardi",
-      "url": "https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2"
+      "duration_ms": 186500,
+      "name": "Cose stupide",
+      "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "NON SO CHI SIAMO",
-        "url": "https://open.spotify.com/album/6NmapKNBkMY0bSHuB7eSpw"
-      },
-      "artists": [
-        {
-          "name": "Poet",
-          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
-        },
-        {
-          "name": "Pi Greco",
-          "url": "https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b"
-        }
-      ],
-      "duration_ms": 171700,
-      "name": "NON SO CHI SIAMO",
-      "url": "https://open.spotify.com/track/1swXlgQi9YdVqzoOXfnJ1O"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
         "name": "poster",
         "url": "https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge"
       },
@@ -1459,38 +1439,18 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "Fuori di me",
-        "url": "https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv"
+        "name": "Pagine",
+        "url": "https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU"
       },
       "artists": [
         {
           "name": "Kia",
           "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
-        },
-        {
-          "name": "Liarr",
-          "url": "https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY"
         }
       ],
-      "duration_ms": 166267,
-      "name": "Clipper",
-      "url": "https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "Amor proprio",
-        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 109357,
-      "name": "Ricordi",
-      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
+      "duration_ms": 144000,
+      "name": "Pagine",
+      "url": "https://open.spotify.com/track/2qfLABUmMubADB6tRridR3"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1515,6 +1475,42 @@
       "duration_ms": 165714,
       "name": "SEMBREREMO DISTANTI",
       "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "Amor proprio",
+        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 109357,
+      "name": "Ricordi",
+      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "NON SO CHI SIAMO",
+        "url": "https://open.spotify.com/album/6NmapKNBkMY0bSHuB7eSpw"
+      },
+      "artists": [
+        {
+          "name": "Poet",
+          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
+        },
+        {
+          "name": "Pi Greco",
+          "url": "https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b"
+        }
+      ],
+      "duration_ms": 171700,
+      "name": "NON SO CHI SIAMO",
+      "url": "https://open.spotify.com/track/1swXlgQi9YdVqzoOXfnJ1O"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1587,22 +1583,6 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "Pagine",
-        "url": "https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU"
-      },
-      "artists": [
-        {
-          "name": "Kia",
-          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Pagine",
-      "url": "https://open.spotify.com/track/2qfLABUmMubADB6tRridR3"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
         "name": "setiva",
         "url": "https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 171250,
       "name": "sola (con me)",
       "url": "https://open.spotify.com/track/0zmgkltOjhGASQiZXtskmD"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "Fuori di me",
+        "url": "https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv"
+      },
+      "artists": [
+        {
+          "name": "Kia",
+          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
+        },
+        {
+          "name": "Liarr",
+          "url": "https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY"
+        }
+      ],
+      "duration_ms": 166267,
+      "name": "Clipper",
+      "url": "https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "nostalgia",
-        "url": "https://open.spotify.com/album/6MK8Grvo1obeWQThpRZ77E"
-      },
-      "artists": [
-        {
-          "name": "TB",
-          "url": "https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN"
-        }
-      ],
-      "duration_ms": 195638,
-      "name": "nostalgia",
-      "url": "https://open.spotify.com/track/0msorSiyF2W6XKAllxBYhX"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
         "name": "Rottami",
         "url": "https://open.spotify.com/album/5kuJSMOo46VXXSG4DGIT2U"
       },
@@ -1739,18 +1723,34 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "Piangi mai (domani)",
-        "url": "https://open.spotify.com/album/0MwrHf04OMj7HOG29XC5ev"
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/6MK8Grvo1obeWQThpRZ77E"
       },
       "artists": [
         {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+          "name": "TB",
+          "url": "https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN"
         }
       ],
-      "duration_ms": 152500,
-      "name": "Piangi mai (domani)",
-      "url": "https://open.spotify.com/track/1aYYkE4vIycFLgy2IJrlGZ"
+      "duration_ms": 195638,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/0msorSiyF2W6XKAllxBYhX"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "EVOL",
+        "url": "https://open.spotify.com/album/7abPNbFZKEsNioUfehUD4c"
+      },
+      "artists": [
+        {
+          "name": "Radical",
+          "url": "https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3"
+        }
+      ],
+      "duration_ms": 127753,
+      "name": "GOODBYE",
+      "url": "https://open.spotify.com/track/2xRrpkcxPlFEj4ze9f8t6X"
     }
   ],
   "unique_name": "ragazzo triste",

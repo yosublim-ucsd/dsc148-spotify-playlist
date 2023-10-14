@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- La Signore
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,438 likes - 95 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,475 likes - 95 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,11 +97,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 87 | [Mage Dangamalla](https://open.spotify.com/track/3rdFFWmrGky5pHp53n8Jzu) | [Sanjeew Lonliyes](https://open.spotify.com/artist/61Jce4aGUQXCcfJnlLGqZn) | [Mage Dangamalla](https://open.spotify.com/album/3kqiHChISvlbqBA3Ljn6oq) | 3:03 |
 | 88 | [Maria](https://open.spotify.com/track/36n8XmkPHq2VQEy6hpxdG6) | [Radeesh Vandebona](https://open.spotify.com/artist/1XJqTUg7BCcJgzk976s2q0) | [Me Sansare](https://open.spotify.com/album/3bRZpHvDNFf3wK0xjGpvoU) | 3:57 |
 | 89 | [Pawasanna](https://open.spotify.com/track/0oa39TWmQYITVFBSActlL4) | [Romesh Sugathapala](https://open.spotify.com/artist/1e3JYUy2zWuu6afa85vG0C) | [Pawasanna](https://open.spotify.com/album/2IHUbUmNbWUVewDSppBkKN) | 3:05 |
-| 90 | [Sidangana](https://open.spotify.com/track/1Hsj1FzBYIrwh2ZebxD4Nd) | [D Mass](https://open.spotify.com/artist/2PPDhgCub45ZoTyJ4dsPB8) | [Sidangana](https://open.spotify.com/album/4wCWmKNM1drx6K34J7p6dg) | 2:36 |
+| 90 | [Sidangana](https://open.spotify.com/track/2i0rmqAaFzM7URhq0dZsqu) | [D Mass](https://open.spotify.com/artist/2PPDhgCub45ZoTyJ4dsPB8) | [Sidangana](https://open.spotify.com/album/6Po3z9GCNNNplTR68TGEJk) | 2:36 |
 | 91 | [Kurulu Bilindi](https://open.spotify.com/track/4DJ1GUxB4UCHvUlUi5p4u5) | [Kasun Kalhara](https://open.spotify.com/artist/33Y7dADrRWpD5ZVrVm8tw9), [Sanuli Perera](https://open.spotify.com/artist/5jAkV311RjvbaaKNr4wJKv) | [Kurulu Bilindi](https://open.spotify.com/album/4k2VHs7CaBQNpgXMzP0W27) | 3:55 |
 | 92 | [Diki Bonat](https://open.spotify.com/track/5zJZu3Oe57zy8dNNra9tf2) | [Dimi3](https://open.spotify.com/artist/7uRcNDbRBROKZcU6r2ZPIE) | [Diki Bonat](https://open.spotify.com/album/1sObWi2HyehSfD7EGKyEoG) | 3:19 |
 | 93 | [Yashodara](https://open.spotify.com/track/3C6ba3oe3WYVk4G5tpSHvr) | [Gangadara](https://open.spotify.com/artist/0LgNWOFOH2xGYD0MOdNZVw) | [Yashodara](https://open.spotify.com/album/53YsQzMJP2RH4fQgo5T9Rq) | 3:04 |
 | 94 | [Pitakavare amu song](https://open.spotify.com/track/6iyZXnxBY8GdipxRvi3m2Y) | [Sanjeew Lonliyes](https://open.spotify.com/artist/61Jce4aGUQXCcfJnlLGqZn) | [Pitakavare amu song](https://open.spotify.com/album/3Cjbr96NqzWQ3slOKyrPvc) | 3:11 |
 | 95 | [Kandulu Podak Kandulu Bindak](https://open.spotify.com/track/5V13G1Ce60HdCI0J2yZLFY) | [Rohana Weerasinghe](https://open.spotify.com/artist/7xtH99LIfTdFERRQE7kT8z), [Radeesh Vandebona](https://open.spotify.com/artist/1XJqTUg7BCcJgzk976s2q0), [Nuwandhika Senarathne](https://open.spotify.com/artist/07uOYIxsQBxDIPYaSRtWcK) | [Kandulu Podak Kandulu Bindak](https://open.spotify.com/album/32cR9qniWWXpccJTe1x3Af) | 3:40 |
 
-Snapshot ID: `MCw3MTVmY2I0ZWZmNTE4MWI4MjM4ODgwNGJiOWFiMjAzMjk2NTk0Y2I2`
+Snapshot ID: `MCxiMWE1N2Q2MGZmNzAwMjI5ZmQxY2MwMDRmMGZhMDhjNGUzZWI5NjY5`

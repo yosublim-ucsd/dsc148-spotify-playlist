@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Estevie
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,780 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,838 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 35 | [VETE](https://open.spotify.com/track/1nZZVprSn3MjlypZ8QYcPF) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [VETE](https://open.spotify.com/album/3GIN6jcQHRLIno3O1r14SU) | 3:27 |
 | 36 | [SÁLVAME](https://open.spotify.com/track/66zpZXzpcnyeg4s6Ahhf99) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [SÁLVAME](https://open.spotify.com/album/23P9z5m6FNvfz5eXarJxvA) | 3:05 |
 | 37 | [kiss u better](https://open.spotify.com/track/7ghyfzs27FAYNaP7sO8FnS) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [kiss u better](https://open.spotify.com/album/0hF3HodPikSBNy4dMGVSOf) | 3:07 |
-| 38 | [I Drove U Crazy](https://open.spotify.com/track/3pV6qrTGBNx2nsTHfu71tR) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [I Drove U Crazy](https://open.spotify.com/album/3EaYlUGXxBtUpt0mfuogP0) | 2:49 |
-| 39 | [Menciones](https://open.spotify.com/track/7ydgxBTlslEdoPxB0vElCd) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Menciones](https://open.spotify.com/album/4ghTu7qG2BaVNrbHCmzxum) | 2:46 |
+| 38 | [Menciones](https://open.spotify.com/track/7ydgxBTlslEdoPxB0vElCd) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Menciones](https://open.spotify.com/album/4ghTu7qG2BaVNrbHCmzxum) | 2:46 |
+| 39 | [I Drove U Crazy](https://open.spotify.com/track/3pV6qrTGBNx2nsTHfu71tR) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [I Drove U Crazy](https://open.spotify.com/album/3EaYlUGXxBtUpt0mfuogP0) | 2:49 |
 | 40 | [Sigo Muerto](https://open.spotify.com/track/71S52xUjNYtBSsRcJSZJva) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Sigo Muerto](https://open.spotify.com/album/1aPO6B5MYdkyiZ4vYA1YSX) | 2:29 |
 | 41 | [Mi Estilo](https://open.spotify.com/track/5Mh7ttqT7eDrAMSDdYLT2m) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Mi Estilo](https://open.spotify.com/album/09hkkkk36xgJfcg8fssPlq) | 4:45 |
 | 42 | [Hear Me Out](https://open.spotify.com/track/43u76RiZEjdtuEWar9ItUb) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 49 | [QUIERO LLORAR Y NO PUEDO](https://open.spotify.com/track/3uvj97aCrgC1bGpiV5oCNm) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [QUIERO LLORAR Y NO PUEDO](https://open.spotify.com/album/4Ua1w80i6Lz0yF1kc1ZQSP) | 3:21 |
 | 50 | [GAS](https://open.spotify.com/track/22Uq8APwbxC5vTuQaxswfJ) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [GAS](https://open.spotify.com/album/1E9i3K2aDCotq9DN9D3ZWB) | 2:27 |
 
-Snapshot ID: `MCxhMDU2MGFlMzMwN2Y1OTAxZDg3OTQ2ZjVjMzY5NDRjMWI1MDlhZmMz`
+Snapshot ID: `MCwyMzg2NjcwODEyYjQxNThmMTU2OGE5NjNhYjFmMzlmYjU5MDc0NjVk`

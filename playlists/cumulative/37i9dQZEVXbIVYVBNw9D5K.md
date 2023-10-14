@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-768 songs - 1 day 14 hr 33 min
+769 songs - 1 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -696,6 +696,7 @@
 | [Uzak Ol](https://open.spotify.com/track/3UtxLgkmTZZkPr6scOEglC) | [Diyar Pala](https://open.spotify.com/artist/23Q5T7JtqekFJMbC0XKxnh) | [Uzak Ol](https://open.spotify.com/album/690HvmsEBKLv5gsKdoZdVi) | 2:57 | 2021-03-27\* | 2021-07-04 |
 | [Uzaklara Savrulalım](https://open.spotify.com/track/0c4orZI2hBcd7VfkFB6FDI) | [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn), [Mark Eliyahu](https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9) | [Sanrılar](https://open.spotify.com/album/3GfORRNxyhQnepv1rtRLGK) | 3:33 | 2021-03-27 | 2021-06-27 |
 | [Uzaklara Savrulalım](https://open.spotify.com/track/7LGuxwQ3PzCxtinavcMlew) | [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn), [Mark Eliyahu](https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9) | [Uzaklara Savrulalım](https://open.spotify.com/album/2AtLcEL3VMjW75OSUMDUGK) | 3:33 | 2021-03-27\* | 2021-03-27 |
+| [Uzun Lafın Kısası](https://open.spotify.com/track/2v14AB4uUoWMjnNnlQJRJC) | [Ozan Doğulu](https://open.spotify.com/artist/6xLv41SHPrVVfvyGd1M7ut), [Gülden Mutlu](https://open.spotify.com/artist/3ScdCahXjzw08np6FULdmA), [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [130 Bpm Forte](https://open.spotify.com/album/2YS3khuycfVxtVjn43sta2) | 3:39 | 2023-10-13 |  |
 | [Uzunlar \- V1](https://open.spotify.com/track/1vLkBVAy8ZWrqcQjYTPP3a) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Uzunlar](https://open.spotify.com/album/39fSB986BtwaS4x5vXbiuo) | 4:42 | 2021-03-27\* | 2022-08-07 |
 | [VAMPIR](https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [VAMPIR](https://open.spotify.com/album/4QBczRY1FMlmk9KIEhAZJ0) | 3:36 | 2023-03-11 | 2023-03-21 |
 | [Veda Saati](https://open.spotify.com/track/0NJJ31ggDI7aODrLYZQkgV) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Veda Saati](https://open.spotify.com/album/6VTcJDaRCRSgvOKlewDU9d) | 2:27 | 2023-03-25 | 2023-07-11 |
@@ -747,7 +748,7 @@
 | [Yıldızlar](https://open.spotify.com/track/6p4m4ls8CkXpeWDSyRPvTI) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Yıldızlar](https://open.spotify.com/album/5G2FtfCdpwmGfZTdurkULN) | 2:18 | 2023-01-07 | 2023-01-22 |
 | [Yıldızlara Bak](https://open.spotify.com/track/5jSjin6KJMH6WT68YnE7bW) | [Yaşlı Amca](https://open.spotify.com/artist/4Vr0nv4nM4aqWfj76zDTTp) | [Yaşlı Amca](https://open.spotify.com/album/5UkfRBKjeHnppOGTHX7uJ4) | 4:00 | 2021-03-27\* | 2021-05-19 |
 | [Yıldızların Altında](https://open.spotify.com/track/77pFHFviVrb2iOP2gMFDNf) | [Kargo](https://open.spotify.com/artist/3eedpDhV8pocvTvTHLGq9R) | [Yıldızların Altında](https://open.spotify.com/album/7iBnGObSriC4GOdsA2SVVg) | 2:57 | 2021-10-18 | 2022-02-03 |
-| [Zalim](https://open.spotify.com/track/3HrH0tLPJHsweeAlw3leQO) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Düş Bahçeleri](https://open.spotify.com/album/3pCSt4dgNRTTDVI1XO6nqZ) | 4:38 | 2023-06-13 |  |
+| [Zalim](https://open.spotify.com/track/3HrH0tLPJHsweeAlw3leQO) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Düş Bahçeleri](https://open.spotify.com/album/3pCSt4dgNRTTDVI1XO6nqZ) | 4:38 | 2023-06-13 | 2023-10-14 |
 | [Zeki Müren](https://open.spotify.com/track/4bSc4Mpi9KcN4hS88F9ByL) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Zeki Müren](https://open.spotify.com/album/3eVrMsuPjOStJExES8clDg) | 2:15 | 2022-06-11 | 2022-06-19 |
 | [Zemin](https://open.spotify.com/track/5WT3ohLdg04eUy9Bz2sRsi) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Zemin](https://open.spotify.com/album/3GhtXj3VtpblJcDThh0m49) | 2:56 | 2021-03-27\* | 2021-03-27 |
 | [Zenti](https://open.spotify.com/track/1LuaqpbhicGeIYCptQf7cO) | [EX](https://open.spotify.com/artist/2RL1fxftHZRkaF1JQ62gaV) | [Zenti](https://open.spotify.com/album/4hSqLGHsRgNuUMGQNBp7lb) | 1:24 | 2022-05-11 | 2022-05-15 |

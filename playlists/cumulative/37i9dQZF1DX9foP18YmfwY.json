@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Padre Reginaldo Manzotti",
+  "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Colo de Deus",
   "name": "M\u00fasica Cat\u00f3lica ",
   "tracks": [
     {
@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "Aparecida",
+        "url": "https://open.spotify.com/album/1PwZ4VdOiutXpHW36p3Ix8"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293248,
+      "name": "Aparecida",
+      "url": "https://open.spotify.com/track/7vOHQz29ONEhBzd4bid09H"
+    },
+    {
+      "album": {
         "name": "Apenas Barro",
         "url": "https://open.spotify.com/album/1SCgr0nIPx6A9mJrH36dT0"
       },
@@ -246,7 +264,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 208511,
       "name": "Bendita Entre as Mulheres",
       "url": "https://open.spotify.com/track/2UtdCK3fpZgIAxJ4Nr0qAF"
@@ -1349,6 +1367,28 @@
     },
     {
       "album": {
+        "name": "Maria Mulher",
+        "url": "https://open.spotify.com/album/4HxFGFFfzy1iNMj9DMVsHM"
+      },
+      "artists": [
+        {
+          "name": "Gege Adoremos",
+          "url": "https://open.spotify.com/artist/6d74te2rn97doVNb7iEBTA"
+        },
+        {
+          "name": "Betinho de Assis",
+          "url": "https://open.spotify.com/artist/6era1gf9n8NaU2YBOhYA8f"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224428,
+      "name": "Maria Mulher",
+      "url": "https://open.spotify.com/track/3vjOu7vDPg0cjSTGdTHAw0"
+    },
+    {
+      "album": {
         "name": "Maria Passa \u00e0 Frente (feat. Gusttavo Lima)",
         "url": "https://open.spotify.com/album/7KR81hHAFjA5SpC2JjVP4k"
       },
@@ -1814,7 +1854,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 228420,
       "name": "O Vento (Faixa B\u00f4nus)",
       "url": "https://open.spotify.com/track/1OWjFm57Jdchk8XhZFuHtO"

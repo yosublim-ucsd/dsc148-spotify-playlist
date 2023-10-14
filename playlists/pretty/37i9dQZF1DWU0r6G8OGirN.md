@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,809 likes - 73 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,061 likes - 73 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 17 | [When You Wish Upon a Star](https://open.spotify.com/track/1RS0fQUXF7GJRC5SJwX6MW) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [When You Wish Upon a Star](https://open.spotify.com/album/45GERqZgHo745HSE9VgjgN) | 2:10 |
 | 18 | [My Favourite Time of Year](https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [My Favourite Time of Year](https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw) | 4:02 |
 | 19 | [O Come, All Ye Faithful](https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [O Come, All Ye Faithful](https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA) | 2:57 |
-| 20 | [Please Come Home for Christmas](https://open.spotify.com/track/528sRoUStf8eqZS1bLwVQP) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 2:33 |
+| 20 | [Please come home for christmas](https://open.spotify.com/track/4CjsInvWGmHOxxVQ2sS9F4) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Please come home for christmas](https://open.spotify.com/album/5r2ZzaDZhyqzORtTWnbYPM) | 2:33 |
 | 21 | [A Holly Jolly Christmas](https://open.spotify.com/track/1pIu25hl8EmtdXTHQqV51T) | [Holly St Jazz Duo](https://open.spotify.com/artist/5v5Z6rjlMk2Kp4wBxxNv80) | [A Holly Jolly Christmas](https://open.spotify.com/album/2OjP7B1WKh8VcezjQnJ85k) | 2:57 |
 | 22 | [Oh Christmas Tree](https://open.spotify.com/track/4HkmCOAh5oqQ7KsihV2Yfs) | [Holy Eve Trio](https://open.spotify.com/artist/2MIg8Vq5NCa9AER8dbCFDG) | [Blue Christmas EP](https://open.spotify.com/album/4dJvLEZjecdymJWBHCiZiZ) | 2:23 |
 | 23 | [Winter Wonderland](https://open.spotify.com/track/09hSLe9VWIOT5uiMDufJZF) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [That Christmas Feel](https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ) | 2:47 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 55 | [Happy Christmas, Little Friend](https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 2:31 |
 | 56 | [I Saw Three Ships](https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:48 |
 | 57 | [Greensleeves](https://open.spotify.com/track/3yUhFUj9GsId8yqwNIMndK) | [Roddy Doyle Trio](https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3) | [It's Christmas in New York](https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI) | 2:16 |
-| 58 | [Santa Tell Me](https://open.spotify.com/track/44RdYUqTwUvlQlTBnRNUkq) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 2:18 |
+| 58 | [Santa tell me](https://open.spotify.com/track/1g5N61jKCHgVpSYYBz9FDV) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Santa tell me](https://open.spotify.com/album/7Jtr3x70ZlCJ5Igqw1Zwhu) | 2:18 |
 | 59 | [It Is Well With My Soul](https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 2:05 |
 | 60 | [O Tannenbaum](https://open.spotify.com/track/2xADXrCsbvisyiD4GGkXYo) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [A Slow Jams Jazz Christmas](https://open.spotify.com/album/7CVYLI6ozhkfiV8Lken1OQ) | 3:37 |
 | 61 | [Angels We Have Heard on High](https://open.spotify.com/track/0TDif8fPpS7TfXsOHLHfDn) | [Henri La Mer](https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9) | [Angels We Have Heard on High](https://open.spotify.com/album/2KqInjYpnuhRqjqff6qgDF) | 2:40 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 72 | [In Dulce Jubilo](https://open.spotify.com/track/7j2B1yYjSxVg9MGEQLIBqn) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [It's Snowing on My Piano](https://open.spotify.com/album/2GVRqMDD7XThNuI6pxqlAX) | 6:05 |
 | 73 | [Mistletoe And Holly](https://open.spotify.com/track/3ECWipwM2liY1Z0pcbCXVj) | [Dim Light Quartet](https://open.spotify.com/artist/55PYUwgpz4KVtb2I5FNREc) | [Mistletoe And Holly](https://open.spotify.com/album/16erh4O46uaVuPocbpDBIE) | 2:51 |
 
-Snapshot ID: `MCxhNDlmNmQwNTBkNDViYjNmMGJjOWM1YTFlZWNjODcxY2Q2ZGQ2NWM0`
+Snapshot ID: `MCw3ZjU1NjMzN2Y1MDQ3OTEwODRiZWQwMDUwOTE2NjNhNWMwMjRmNDkw`

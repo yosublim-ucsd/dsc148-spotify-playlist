@@ -4,7 +4,7 @@
 
 > where folk flowers bloom\. cover: Noah Kahan
 
-87 songs - 5 hr 0 min
+94 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,11 @@
 | [All Is Well](https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [All Is Well](https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo) | 2:30 | 2023-10-06 |  |
 | [Allergy Season](https://open.spotify.com/track/7iABcQjrZuN8bZaQyYLJcf) | [Levi Turner](https://open.spotify.com/artist/0QwS0oC5xcBWPmWfjGAhH6) | [Allergy Season](https://open.spotify.com/album/4Mz9ZrzR4jm3wwsbIXArvp) | 3:33 | 2023-10-06 |  |
 | [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 | 2023-10-06 |  |
+| [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2023-10-13 |  |
 | [Bindi in the Dirt](https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH) | [Mikayla Pasterfield](https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA) | [Bindi in the Dirt](https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm) | 3:51 | 2023-10-06 |  |
+| [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-10-13 |  |
+| [Blame The Moon](https://open.spotify.com/track/3p1kSUxsCux5Zf1CeKxpqh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Blame The Moon](https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2) | 3:43 | 2023-10-13 |  |
+| [Blood Moon](https://open.spotify.com/track/37J6sYIBny0g0YJi88FPnc) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [2022](https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC) | 2:48 | 2023-10-13 |  |
 | [Bruises Off The Peach](https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:12 | 2023-10-06 |  |
 | [Cedar Island](https://open.spotify.com/track/2mu4GuE7tG8vAiFsXgSQYC) | [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8) | [Cedar Island](https://open.spotify.com/album/69ppA0WybAHl4hpGqQQUqc) | 2:57 | 2023-10-06 |  |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-10-06 |  |
@@ -24,6 +28,7 @@
 | [Dead Man](https://open.spotify.com/track/6I3q5qBAa1DpzfcdIq21DD) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man + Daylight](https://open.spotify.com/album/2CjolbvXx5qRclGGGGdacx) | 4:34 | 2023-10-06 |  |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-10-06 |  |
 | [Didn't You](https://open.spotify.com/track/79yJPBXQYjLIcU7lxrDkC6) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Canyon](https://open.spotify.com/album/1qSYkiIAFof7yxgLsrvxl7) | 4:03 | 2023-10-06 |  |
+| [dopamine](https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [dopamine](https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx) | 2:38 | 2023-10-13 |  |
 | [Dream Dating](https://open.spotify.com/track/0ikubwVXWkOeYH3HFhXMfK) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Infinite Spring](https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC) | 3:47 | 2023-10-06 |  |
 | [Dream Song](https://open.spotify.com/track/6ojor4w0aY3Nl101vyidbH) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Dream Song](https://open.spotify.com/album/6NlSEYD0tosjRfVAUqBSLb) | 2:43 | 2023-10-06 |  |
 | [Eidolon](https://open.spotify.com/track/5ttu0jY3rOQuaW3D2AN6OU) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Act 2 \(Their God\)](https://open.spotify.com/album/20tEagJfooo80QqJND3FMR) | 3:30 | 2023-10-06 |  |
@@ -36,6 +41,7 @@
 | [Foundry](https://open.spotify.com/track/1CjRmbOw9rR7AiH4s8xa32) | [Laney Esper](https://open.spotify.com/artist/7FcC6gSlV7ONLxNUYVFiBO) | [Foundry](https://open.spotify.com/album/0Gx7vzTl7o7ZMmM15EWbe9) | 3:05 | 2023-10-06 |  |
 | [from here on out](https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [from here on out](https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM) | 4:31 | 2023-10-06 |  |
 | [Good Morning, Al](https://open.spotify.com/track/0rNWtiBcJh8T6gXtIAIJIJ) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Good Morning, Al](https://open.spotify.com/album/66Z431cNHK8eTDjzSZhlR7) | 2:39 | 2023-10-06 |  |
+| [Grace](https://open.spotify.com/track/2LF1EjI7vMM37yRUzEWk8s) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Grace](https://open.spotify.com/album/2SLgmMY9hC8pM6qPwNRBWK) | 3:20 | 2023-10-13 |  |
 | [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 | 2023-10-06 |  |
 | [Heavy Handed](https://open.spotify.com/track/27vxMDq3CkXdNdPsKvMlsX) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Heavy Handed](https://open.spotify.com/album/4QZPwH9ALMRJp4G3llnDqK) | 3:21 | 2023-10-06 |  |
 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2023-10-06 |  |
@@ -67,6 +73,7 @@
 | [Rattlesnake](https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:56 | 2023-10-06 |  |
 | [Rearview](https://open.spotify.com/track/3RyPOX98HHEYQholV0RBYF) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD) | 3:51 | 2023-10-06 |  |
 | [resentme2](https://open.spotify.com/track/6ubGK2bazBd5iOCvRAmudE) | [Brett Seper](https://open.spotify.com/artist/0ha3FIe7oUSx86k9krBSKE) | [toxic ties & troubled minds](https://open.spotify.com/album/5x6eyMAnZ3fUu26mgqE9kP) | 2:48 | 2023-10-06 |  |
+| [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 | 2023-10-13 |  |
 | [Secrets](https://open.spotify.com/track/6HVr7aL6ZqGMO2gknTCZf7) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Secrets](https://open.spotify.com/album/4xXu2XeAwIcAUIRcd2Fj1U) | 4:12 | 2023-10-06 |  |
 | [September](https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [September](https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo) | 3:09 | 2023-10-06 |  |
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-10-06 |  |

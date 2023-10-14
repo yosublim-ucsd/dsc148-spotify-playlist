@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Pitty
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Fresno
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,172 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,282 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Imagem É Tudo, Sua Cabeça Não Tem Nada](https://open.spotify.com/track/7mpHoeijOKCkAkU7rkdQN7) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Jason](https://open.spotify.com/artist/70t5J0JdC7dRV2gXTyVaR4) | [Espelhos – Versões Completas de Admirável Vídeo Novo](https://open.spotify.com/album/1yFxl1VPjOj3FmzMJTLPh0) | 1:27 |
-| 2 | [Stonehenge \- Live](https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos\) \[Live\]](https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6) | 4:12 |
+| 1 | [Stonehenge \- Live](https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos\) \[Live\]](https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6) | 4:12 |
+| 2 | [Imagem É Tudo, Sua Cabeça Não Tem Nada](https://open.spotify.com/track/7mpHoeijOKCkAkU7rkdQN7) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Jason](https://open.spotify.com/artist/70t5J0JdC7dRV2gXTyVaR4) | [Espelhos – Versões Completas de Admirável Vídeo Novo](https://open.spotify.com/album/1yFxl1VPjOj3FmzMJTLPh0) | 1:27 |
 | 3 | [Culpa](https://open.spotify.com/track/1MO8oMHUeiHdoePEFfwkbh) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Conflitos](https://open.spotify.com/album/51X8DO8BGPyLVl8tv5tmI7) | 3:04 |
 | 4 | [Você Vai Lembrar de Mim](https://open.spotify.com/track/2bVt8bpiSBQn6HMizoRX4k) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Você Vai Lembrar de Mim](https://open.spotify.com/album/6POQpPegZbqAUtawoGW7wh) | 3:05 |
 | 5 | [Outro Lugar \- Ao Vivo](https://open.spotify.com/track/4bsZ1px2MlpkIviocF4qFv) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [20 Anos \- Acústico](https://open.spotify.com/album/16okUPvniGJp4tXjeLBgLw) | 4:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Berrini](https://open.spotify.com/track/0qbgGOjkWnWrjBj91QPTsV) | [Molho Negro](https://open.spotify.com/artist/51aX6xmdT0iMI1FNCONTzR) | [Berrini](https://open.spotify.com/album/3Y8jVYw1s5O5bHSdzMrr7N) | 3:09 |
 | 75 | [Primeiros Erros](https://open.spotify.com/track/7FWkuxnRVX16pkVmxtO2Lt) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Primeiros Erros](https://open.spotify.com/album/4Zjcmh7q0ShqZPHtAMcFDM) | 5:51 |
 
-Snapshot ID: `MCw5MWNhYWFmNzE2N2IzMzg5MDBhOGQ5Yjc0MjZiNmI4NDc1ZDAxOGRl`
+Snapshot ID: `MCw5YTBlYzJiODg3Y2U0OTAyM2M4MGZjODNhMDVlMDBhMjMwNTI1YWNi`

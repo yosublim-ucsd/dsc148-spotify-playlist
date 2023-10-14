@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,061 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,099 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 77 | [곁에 있어주길](https://open.spotify.com/track/0nHB8bNZtg3BuAkWr7uJNc) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:29 |
 | 78 | [Bite](https://open.spotify.com/track/3WM1yelIg2AkfFAhLXTu3D) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Bite](https://open.spotify.com/album/73yJOomRZF9pO34AGgAjPA) | 3:39 |
 | 79 | [To Life](https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [To Life](https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6) | 3:11 |
-| 80 | [ALL IN \(Prod\. GroovyRoom\)](https://open.spotify.com/track/586VUZmfGAEjeHkIPHwy3p) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB) | [ALL IN](https://open.spotify.com/album/4Pe85vc4NSIC9Y9adjmNA5) | 3:45 |
-| 81 | [All The Way Up](https://open.spotify.com/track/0LPIfrP6dURnrG5qXweTDZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [All The Way Up](https://open.spotify.com/album/1RB92dqVzPpvvOQ3zLVPqr) | 3:43 |
+| 80 | [All The Way Up](https://open.spotify.com/track/0LPIfrP6dURnrG5qXweTDZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [All The Way Up](https://open.spotify.com/album/1RB92dqVzPpvvOQ3zLVPqr) | 3:43 |
+| 81 | [ALL IN \(Prod\. GroovyRoom\)](https://open.spotify.com/track/586VUZmfGAEjeHkIPHwy3p) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB) | [ALL IN](https://open.spotify.com/album/4Pe85vc4NSIC9Y9adjmNA5) | 3:45 |
 | 82 | [I Don’t Disappoint](https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:30 |
 | 83 | [Replay](https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 2:43 |
 | 84 | [DNA Remix](https://open.spotify.com/track/64m44h2nTKmBczXoDkbErt) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [365LIT](https://open.spotify.com/artist/65LSFEqRhq074aUBF1zF2e), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Choo](https://open.spotify.com/artist/6hAqtKCaOISAG24LhlNqdr), [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [DNA Remix](https://open.spotify.com/album/7BJ4UhVP36NLhjxgGcXhNA) | 6:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 99 | [Alone Tonight \(Feat\. Sik\-K\)](https://open.spotify.com/track/1uzq7zOP5JNFPk4aDji01d) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:11 |
 | 100 | [FSU \(feat\. GASHI & Rich The Kid\)](https://open.spotify.com/track/0nJnzVlIJV3vqckZ06PeaM) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:51 |
 
-Snapshot ID: `MCxiNGM1NTM1MDdjZGVmMjM0OWNkNDc5ZmI0YzdiNDhkM2NiMzI3M2Vl`
+Snapshot ID: `MCw3YjgxOGVlMzI5ZDc2Njk2M2QwNmI0ZDE0MTYwYjY5OGMyZjEzNzhl`

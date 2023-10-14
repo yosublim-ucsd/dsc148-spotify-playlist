@@ -31,6 +31,28 @@
     },
     {
       "album": {
+        "name": "Aguardiente",
+        "url": "https://open.spotify.com/album/0xooEKUlRZ4kgyBBfA9Ird"
+      },
+      "artists": [
+        {
+          "name": "Sr Pablo",
+          "url": "https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq"
+        },
+        {
+          "name": "Thomas Parr",
+          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167135,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/3ZAeqSO5szb2IDsAHqnYk6"
+    },
+    {
+      "album": {
         "name": "Mirar Pa' Dentro",
         "url": "https://open.spotify.com/album/7zxtczgh8ys5vxrO6FpowQ"
       },
@@ -272,7 +294,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 145074,
       "name": "Cal\u00e9ndula Aka Rainhands - Haggard Version",
       "url": "https://open.spotify.com/track/76MKFgt8Zz7QxqxEkTVv6s"

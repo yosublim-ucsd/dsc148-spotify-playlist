@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,791 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,849 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Radiate](https://open.spotify.com/track/1kxsqPsBOhxBC5REK0wL8K) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Radiate](https://open.spotify.com/album/18BQpkuEyej1YgBOw2V1uy) | 4:17 |
-| 2 | [Everywhere I Go](https://open.spotify.com/track/6PbDGsz1YF8vKNVmn0Lu9c) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d) | [Everywhere I Go](https://open.spotify.com/album/17Mzd54AI68RCfpPeAjzu8) | 4:50 |
-| 3 | [Like A Tattoo](https://open.spotify.com/track/4FSODqy1KStAlvQJmH7vR9) | [Don Arcadio](https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh), [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Like A Tattoo](https://open.spotify.com/album/2UaT96Sd2dBECtupDDASAO) | 4:20 |
+| 2 | [Like A Tattoo](https://open.spotify.com/track/4FSODqy1KStAlvQJmH7vR9) | [Don Arcadio](https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh), [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Like A Tattoo](https://open.spotify.com/album/2UaT96Sd2dBECtupDDASAO) | 4:20 |
+| 3 | [Waiting](https://open.spotify.com/track/6H8YJ7IHiAEqTWPV5opclB) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Losing Balance](https://open.spotify.com/album/1VwP5dm8dPqgNHJlvVtduN) | 2:48 |
 | 4 | [Grow](https://open.spotify.com/track/0JCHKnoruBII0Ir6CnhLCf) | [Carmelle Cox](https://open.spotify.com/artist/5LprRwSpDwiAQxRbrZ70zz), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH), [ST Files](https://open.spotify.com/artist/3ovV3uOHZzKoAzcdNSsP2p) | [Grow](https://open.spotify.com/album/3ltcAgSi9tAObMxJwGvzBC) | 5:55 |
 | 5 | [Fine Lines](https://open.spotify.com/track/6eD6GPEiaMna96ylz395oa) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Sustance](https://open.spotify.com/artist/3069G1J62ioGObj518Umm2), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Fine Lines](https://open.spotify.com/album/0cFM1QU0I7aQRBoSDWdP85) | 3:24 |
 | 6 | [Smashed Lies](https://open.spotify.com/track/6S5XgvlxcMQtZj1xFQVdc8) | [Mitekiss](https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH) | [Love Me, Haunt Me / Smashed Lies](https://open.spotify.com/album/58TNPOAoE9KZ5XJPISGKPq) | 4:08 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 47 | [Sleepless](https://open.spotify.com/track/7HaWpt26kgx6rhaa4SvBPX) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Letters From Ndegwa](https://open.spotify.com/album/3IWcTt9U6SnZKftEB2FDoO) | 4:37 |
 | 48 | [She Moves](https://open.spotify.com/track/1QeliItLbS0fvWbJA2dxMX) | [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg), [KILLSWSH](https://open.spotify.com/artist/015vF6YuCsnX2b89hU3qNG) | [Off Broadway](https://open.spotify.com/album/6Lu0XmmqRDocjeFR5GlOTh) | 5:40 |
 | 49 | [The Drift](https://open.spotify.com/track/1JsJnmUKULIbbNy7ePgYD3) | [Javano](https://open.spotify.com/artist/61b5v13hJBQhKlQ5sXMub2) | [The Drift](https://open.spotify.com/album/59Yj6MwubdBXwpNUZLft6W) | 4:51 |
-| 50 | [Friend](https://open.spotify.com/track/5f2arlFLA9GaQ1Ka48fWgp) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Friend](https://open.spotify.com/album/0AFzj8NngCJNwNzke4VxpC) | 3:47 |
+| 50 | [Gifted Lover](https://open.spotify.com/track/2xsK1pXFX2Dlx7xH33Tc1N) | [Villem](https://open.spotify.com/artist/3mupfXo95OeusJKhAJVCUf), [Mcleod](https://open.spotify.com/artist/0mEsOKLNGOPE2Zhb6OCYuf), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Better Place EP](https://open.spotify.com/album/0HtD2johjX3h3AgONmmiU0) | 6:01 |
 
-Snapshot ID: `MCxiNTE1NjgxMmZmOWNhMmI5ZTUyODBlMjQ2MDU0YzI0NWI2ODIyNjEx`
+Snapshot ID: `MCwwZjg1ZTFiMzU2OWNiNWFmNDRjMTc5YTU1ZTA2YjY3NjI3OTcyMTRh`

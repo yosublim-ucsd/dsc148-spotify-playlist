@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Colbie Caillat",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Dylan Marlowe and Avery Anna",
   "name": "New Boots",
   "tracks": [
     {
@@ -4954,7 +4954,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 205480,
       "name": "Could've Been Her",
       "url": "https://open.spotify.com/track/1I8EAskXPELoy0q3EkErsg"
@@ -5374,6 +5374,28 @@
       "duration_ms": 162885,
       "name": "Cowboy Don\u2019t",
       "url": "https://open.spotify.com/track/5qxXv3JWNTTliODO4LZ0V4"
+    },
+    {
+      "album": {
+        "name": "Cowboys and Plowboys",
+        "url": "https://open.spotify.com/album/6Yip6MiXMk9wVHomaatQJn"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208063,
+      "name": "Cowboys and Plowboys",
+      "url": "https://open.spotify.com/track/1YfyfFBZ7cY7wgwtZEq3tf"
     },
     {
       "album": {
@@ -6374,7 +6396,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 174280,
       "name": "Dirt Road When I Die",
       "url": "https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk"
@@ -9429,6 +9451,28 @@
     },
     {
       "album": {
+        "name": "TWENTY SOMETHING",
+        "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200893,
+      "name": "ghost in my guitar (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG"
+    },
+    {
+      "album": {
         "name": "TWENTY SOMETHING: Figuring It Out",
         "url": "https://open.spotify.com/album/1JcMkDyAk2OHljYXOmJpki"
       },
@@ -9444,7 +9488,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 200893,
       "name": "ghost in my guitar (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/2tva3AvqXjPsMMLHknGGwe"
@@ -13306,7 +13350,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 270933,
       "name": "How I Learned To Pray (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/6DYtfjCJdFOXUlV3E9a9bI"
@@ -14574,6 +14618,28 @@
       "duration_ms": 178613,
       "name": "I Was On a Boat That Day",
       "url": "https://open.spotify.com/track/1nnsiuuYlvPF9gxXIiyAr8"
+    },
+    {
+      "album": {
+        "name": "I Will (When You Do)",
+        "url": "https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        },
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207533,
+      "name": "I Will (When You Do)",
+      "url": "https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4"
     },
     {
       "album": {
@@ -21014,7 +21080,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 227891,
       "name": "Old Dirt Roads",
       "url": "https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl"
@@ -21994,6 +22060,24 @@
       "duration_ms": 184013,
       "name": "Over You is You (feat. Matt Stell)",
       "url": "https://open.spotify.com/track/4q6ZkvXOCdKaGFBwTWj7nY"
+    },
+    {
+      "album": {
+        "name": "Paint The Town Blue",
+        "url": "https://open.spotify.com/album/0lifeDOx0hIOwqMUEwmcfZ"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185133,
+      "name": "Paint The Town Blue",
+      "url": "https://open.spotify.com/track/0XgOhyJWH5UVWyV7farWDr"
     },
     {
       "album": {
@@ -32656,6 +32740,28 @@
       "duration_ms": 195199,
       "name": "Wild Horse",
       "url": "https://open.spotify.com/track/5IQkgdk6xQJQ5CYEtcFvxi"
+    },
+    {
+      "album": {
+        "name": "Wild Ones (feat. Jelly Roll)",
+        "url": "https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141367,
+      "name": "Wild Ones (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz"
     },
     {
       "album": {

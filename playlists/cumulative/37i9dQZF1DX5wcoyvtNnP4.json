@@ -1601,6 +1601,28 @@
     },
     {
       "album": {
+        "name": "Silent Running (Can You Hear Me)",
+        "url": "https://open.spotify.com/album/4JZgXQUacZMZ0DyFANFmNY"
+      },
+      "artists": [
+        {
+          "name": "Tha Old Heads",
+          "url": "https://open.spotify.com/artist/7CS9nPGPWRYT5h2eLEcgMY"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147543,
+      "name": "Silent Running (Can You Hear Me)",
+      "url": "https://open.spotify.com/track/43LwQHbZDeJCs9TwiSaGID"
+    },
+    {
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/7xWgrLBIQVECzOsNvo2OHU"
       },
@@ -1642,7 +1664,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 152139,
       "name": "Stay (Never Leave)",
       "url": "https://open.spotify.com/track/6zDitZRQadPCyaVl4u6OJy"
@@ -1668,6 +1690,28 @@
       "duration_ms": 193475,
       "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
       "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
+    },
+    {
+      "album": {
+        "name": "Stress You",
+        "url": "https://open.spotify.com/album/5D5ZXdcjvXx8tW4pMgeUaD"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "SUPER-Hi",
+          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156426,
+      "name": "Stress You",
+      "url": "https://open.spotify.com/track/5NvBcltC9SGWoo9GnIrkhn"
     },
     {
       "album": {
@@ -1906,7 +1950,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 138773,
       "name": "Where You Want",
       "url": "https://open.spotify.com/track/43wKRbV4ZvC6AoCR05zGMh"

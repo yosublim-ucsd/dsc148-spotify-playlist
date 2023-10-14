@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 63943,
+  "num_followers": 63979,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjQzN2E0ZTE4MjA2ZTRiNTcwMjc3Y2RmOGU1Mzk3MGQ5NDZmNTFk",
+  "snapshot_id": "MCxkODg2M2NiODQzOTBkNzYwMWI5NGU0YjUwMzZlZDkyNTRlYWIxNTc2",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:41",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Folk Singer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "My Home Is In The Delta",
-      "url": "https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "The Essential Jimmie Vaughan",
         "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 383760,
       "name": "Dengue Woman Blues",
       "url": "https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "My Home Is In The Delta",
+      "url": "https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Buffalo Nichols",
-        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Nichols",
-          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
-        }
-      ],
-      "duration_ms": 222853,
-      "name": "Lost & Lonesome",
-      "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Love Transcends",
         "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
       },
@@ -599,18 +583,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "All The Bad Things (Stripped Back)",
-        "url": "https://open.spotify.com/album/3iJ2lF1mIHOEGSTl5HSZy4"
+        "name": "Buffalo Nichols",
+        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
       },
       "artists": [
         {
-          "name": "Liam St. John",
-          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
         }
       ],
-      "duration_ms": 192250,
-      "name": "San Quentin Infirmary Blues - Stripped Back",
-      "url": "https://open.spotify.com/track/6A8JDsJSjQsrBwfXl2UTKk"
+      "duration_ms": 222853,
+      "name": "Lost & Lonesome",
+      "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -627,6 +611,22 @@
       "duration_ms": 438840,
       "name": "Heavy Load",
       "url": "https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "All The Bad Things (Stripped Back)",
+        "url": "https://open.spotify.com/album/3iJ2lF1mIHOEGSTl5HSZy4"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "duration_ms": 192250,
+      "name": "San Quentin Infirmary Blues - Stripped Back",
+      "url": "https://open.spotify.com/track/6A8JDsJSjQsrBwfXl2UTKk"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "First Recordings",
-        "url": "https://open.spotify.com/album/5OfjjEzy7ofCj2EZDOKZ87"
-      },
-      "artists": [
-        {
-          "name": "Junior Kimbrough",
-          "url": "https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr"
-        }
-      ],
-      "duration_ms": 120920,
-      "name": "Feels so Good #2",
-      "url": "https://open.spotify.com/track/0IlJfv6ACOvNyjd9vvgKzm"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "His Best",
         "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "I Must Be In A Good Place Now",
-        "url": "https://open.spotify.com/album/3M4bCDvBhAyP7gFMOTerot"
+        "name": "First Recordings",
+        "url": "https://open.spotify.com/album/5OfjjEzy7ofCj2EZDOKZ87"
       },
       "artists": [
         {
-          "name": "Seth Walker",
-          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
+          "name": "Junior Kimbrough",
+          "url": "https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr"
         }
       ],
-      "duration_ms": 187265,
-      "name": "I Must Be In A Good Place Now",
-      "url": "https://open.spotify.com/track/75J1XqFui85iw1L8ocepuF"
+      "duration_ms": 120920,
+      "name": "Feels so Good #2",
+      "url": "https://open.spotify.com/track/0IlJfv6ACOvNyjd9vvgKzm"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -739,6 +723,22 @@
       "duration_ms": 240360,
       "name": "I Got the Cross the River Jordan",
       "url": "https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "I Must Be In A Good Place Now",
+        "url": "https://open.spotify.com/album/3M4bCDvBhAyP7gFMOTerot"
+      },
+      "artists": [
+        {
+          "name": "Seth Walker",
+          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
+        }
+      ],
+      "duration_ms": 187265,
+      "name": "I Must Be In A Good Place Now",
+      "url": "https://open.spotify.com/track/75J1XqFui85iw1L8ocepuF"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "It Would Be Better for the Bad to Be Good",
-        "url": "https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y"
-      },
-      "artists": [
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
-        }
-      ],
-      "duration_ms": 213253,
-      "name": "It Would Be Better for the Bad to Be Good",
-      "url": "https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 229150,
       "name": "Blues Before Sunrise",
       "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "It Would Be Better for the Bad to Be Good",
+        "url": "https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "duration_ms": 213253,
+      "name": "It Would Be Better for the Bad to Be Good",
+      "url": "https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Preachin' Blues",
-        "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
-      },
-      "artists": [
-        {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
-        }
-      ],
-      "duration_ms": 316360,
-      "name": "Preachin' Blues",
-      "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "The Natch'l Blues",
         "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 423560,
       "name": "Done Changed My Way of Living",
       "url": "https://open.spotify.com/track/1VpguOrCSVqF6UoxI2DsnO"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Preachin' Blues",
+        "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 316360,
+      "name": "Preachin' Blues",
+      "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 236182,
-      "name": "Money Talks",
-      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Between Midnight And Day",
         "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 160213,
       "name": "Catfish Blues",
       "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 236182,
+      "name": "Money Talks",
+      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "I Be Trying",
-        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "The World Can Be So Cold",
-      "url": "https://open.spotify.com/track/0U1M0MLvbw0ZZQDR2BXELd"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "All The Bad Things (Stripped Back)",
         "url": "https://open.spotify.com/album/3iJ2lF1mIHOEGSTl5HSZy4"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 138250,
       "name": "The Fools Gold Blues - Stripped Back",
       "url": "https://open.spotify.com/track/3X5QEkIW5e38ByxavuR0sV"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "I Be Trying",
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "The World Can Be So Cold",
+      "url": "https://open.spotify.com/track/0U1M0MLvbw0ZZQDR2BXELd"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Rory Gallagher (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6C418YFIg1MVKldv9rpS16"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "For The Last Time - Alternate Take 1",
-      "url": "https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Porch Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 170893,
       "name": "Change is Inevitable (feat. AJ Fullerton)",
       "url": "https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Rory Gallagher (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6C418YFIg1MVKldv9rpS16"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "For The Last Time - Alternate Take 1",
+      "url": "https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1955,18 +1955,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "original soundtrack to my nightmare",
-        "url": "https://open.spotify.com/album/7egqzjudOsyV9zYWWGfdpT"
+        "name": "The Tumbler",
+        "url": "https://open.spotify.com/album/0MFLGuQwM22kc38Gt5XVAV"
       },
       "artists": [
         {
-          "name": "Jake La Botz",
-          "url": "https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX"
+          "name": "John Martyn",
+          "url": "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
         }
       ],
-      "duration_ms": 244320,
-      "name": "This Ain't the Way I Came Up",
-      "url": "https://open.spotify.com/track/4MtQq37dHX2xQLqbgeSJW3"
+      "duration_ms": 140853,
+      "name": "Winin\u2019 Boy Blues",
+      "url": "https://open.spotify.com/track/3bLcw2Fh2FTR7orvOQeNFg"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1991,34 +1991,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "The Tumbler",
-        "url": "https://open.spotify.com/album/0MFLGuQwM22kc38Gt5XVAV"
+        "name": "original soundtrack to my nightmare",
+        "url": "https://open.spotify.com/album/7egqzjudOsyV9zYWWGfdpT"
       },
       "artists": [
         {
-          "name": "John Martyn",
-          "url": "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
+          "name": "Jake La Botz",
+          "url": "https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX"
         }
       ],
-      "duration_ms": 140853,
-      "name": "Winin\u2019 Boy Blues",
-      "url": "https://open.spotify.com/track/3bLcw2Fh2FTR7orvOQeNFg"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Turn Me Loose",
-        "url": "https://open.spotify.com/album/7qYPsrVyyy12xAcSfqPPz0"
-      },
-      "artists": [
-        {
-          "name": "Angela Perley",
-          "url": "https://open.spotify.com/artist/2U3xMvB5tzEWXO6lM6HMfg"
-        }
-      ],
-      "duration_ms": 176980,
-      "name": "Praying for Daylight",
-      "url": "https://open.spotify.com/track/44g9peXGLkmhN61xdpPhkt"
+      "duration_ms": 244320,
+      "name": "This Ain't the Way I Came Up",
+      "url": "https://open.spotify.com/track/4MtQq37dHX2xQLqbgeSJW3"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2035,6 +2019,22 @@
       "duration_ms": 153493,
       "name": "Preachin' the Blues",
       "url": "https://open.spotify.com/track/2tGxma55fb0GeAsTESNGaH"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Turn Me Loose",
+        "url": "https://open.spotify.com/album/7qYPsrVyyy12xAcSfqPPz0"
+      },
+      "artists": [
+        {
+          "name": "Angela Perley",
+          "url": "https://open.spotify.com/artist/2U3xMvB5tzEWXO6lM6HMfg"
+        }
+      ],
+      "duration_ms": 176980,
+      "name": "Praying for Daylight",
+      "url": "https://open.spotify.com/track/44g9peXGLkmhN61xdpPhkt"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Keep On Walkin'",
-        "url": "https://open.spotify.com/album/1Yov4hqxOqmb4r3KxlElWu"
-      },
-      "artists": [
-        {
-          "name": "Lil Ed Williams",
-          "url": "https://open.spotify.com/artist/6TyJ3ZMyiax8OoqfqBTKEP"
-        }
-      ],
-      "duration_ms": 299867,
-      "name": "North Carolina Bound (Acoustic Duo)",
-      "url": "https://open.spotify.com/track/1WDDdDwtw1THRG9CjFDAJm"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "The Blues Never End",
         "url": "https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 181120,
       "name": "God Moves on the Water",
       "url": "https://open.spotify.com/track/4lLBd2YSJddTlpx67egIgQ"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Keep On Walkin'",
+        "url": "https://open.spotify.com/album/1Yov4hqxOqmb4r3KxlElWu"
+      },
+      "artists": [
+        {
+          "name": "Lil Ed Williams",
+          "url": "https://open.spotify.com/artist/6TyJ3ZMyiax8OoqfqBTKEP"
+        }
+      ],
+      "duration_ms": 299867,
+      "name": "North Carolina Bound (Acoustic Duo)",
+      "url": "https://open.spotify.com/track/1WDDdDwtw1THRG9CjFDAJm"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Porch Sessions",
-        "url": "https://open.spotify.com/album/1EypaqokUNZiaYafQZP5az"
-      },
-      "artists": [
-        {
-          "name": "Tony Holiday",
-          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
-        }
-      ],
-      "duration_ms": 263200,
-      "name": "Coin Operated Woman (feat. Johnny Burgin)",
-      "url": "https://open.spotify.com/track/3UzFhxg69DF9bzb7sWsmJ4"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/4UikUDx3HNDM1NEqNaJnGE"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 322437,
       "name": "Good to You Blues",
       "url": "https://open.spotify.com/track/671nwzfH2ruB5CRyhNaeiw"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Porch Sessions",
+        "url": "https://open.spotify.com/album/1EypaqokUNZiaYafQZP5az"
+      },
+      "artists": [
+        {
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
+        }
+      ],
+      "duration_ms": 230960,
+      "name": "Pickpocket Fingers (feat. James Harman & Kid Ramos)",
+      "url": "https://open.spotify.com/track/26J6ldiphWDHtSTOgFAeoF"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Porch Sessions",
-        "url": "https://open.spotify.com/album/1EypaqokUNZiaYafQZP5az"
-      },
-      "artists": [
-        {
-          "name": "Tony Holiday",
-          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
-        }
-      ],
-      "duration_ms": 230960,
-      "name": "Pickpocket Fingers (feat. James Harman & Kid Ramos)",
-      "url": "https://open.spotify.com/track/26J6ldiphWDHtSTOgFAeoF"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Traveling Medicine Man",
         "url": "https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 254093,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/0Kood2NdRhznv8q24bzFn7"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Black & Blues Revisited",
+        "url": "https://open.spotify.com/album/28xKFUcoOpKPu4HbanKjzg"
+      },
+      "artists": [
+        {
+          "name": "Sunjay",
+          "url": "https://open.spotify.com/artist/3p62DWI8KdlfX4lNTMNXeu"
+        }
+      ],
+      "duration_ms": 291173,
+      "name": "Monday Morning Blues",
+      "url": "https://open.spotify.com/track/0UWg0V4IqANW1o7NNiZwxA"
     }
   ],
   "unique_name": "Morning Blues",

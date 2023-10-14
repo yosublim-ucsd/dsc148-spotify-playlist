@@ -4,7 +4,7 @@
 
 > Nuestra alma mater es la calle\. La Santa Grifa en portada
 
-76 songs - 4 hr 51 min
+78 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Boombap](https://open.spotify.com/track/4rO6YPOCRk9jnEQYjMdsah) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Kintuper](https://open.spotify.com/artist/6Y5TDy3rbWK6f7GpjVLBEQ) | [Boombap](https://open.spotify.com/album/3DrFQ81DOctYiOHoVbvZJk) | 4:02 | 2023-09-15 |  |
 | [Bosses](https://open.spotify.com/track/3EI0WbXre6WTM3HTm70phi) | [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Bosses](https://open.spotify.com/album/6d1jFOmkfXAnoXjTm3PGJT) | 3:31 | 2023-08-04 |  |
 | [Bueno Pa Lo Malo](https://open.spotify.com/track/37Wk4Hhm4MIy6Q1Vg8nVMO) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb) | [Bueno Pa Lo Malo](https://open.spotify.com/album/3EYmozDR9AJxr9RSJi5NRt) | 6:39 | 2023-08-04 |  |
+| [Chalineras](https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Chalineras](https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2) | 3:37 | 2023-10-13 |  |
 | [Cholo en un Low](https://open.spotify.com/track/4Orw6MjT2VFgwGH9YI9ATY) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Fobia](https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq) | 3:20 | 2023-08-04 |  |
 | [Con el Coco Rapado](https://open.spotify.com/track/13mi6Ut0rcnvj88hLsTHDx) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Sincopa](https://open.spotify.com/album/5bZ7Jgk7YE35ULHWO3wgHP) | 4:02 | 2023-08-04 |  |
 | [Conoceras El Frio](https://open.spotify.com/track/77cvpRNS9DfI8Xh8uWi8I9) | [Locura Terminal](https://open.spotify.com/artist/6TgsrbRVzTvaXifgu46mjr), [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN) | [Conoceras El Frio](https://open.spotify.com/album/7tO7w8Zuxssr7wKZkqTdZJ) | 4:17 | 2023-08-04 |  |
@@ -38,6 +39,7 @@
 | [Frikitona](https://open.spotify.com/track/2kY8eaR1Y5T69uMhXw3h1s) | [Chikis RA](https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA) | [Frikitona](https://open.spotify.com/album/0NAoesvR4n07viJtdUBqDE) | 2:58 | 2023-09-29 |  |
 | [HDP](https://open.spotify.com/track/6Yz3ftaOXFBSIUh8DKFoLp) | [Duendy](https://open.spotify.com/artist/6EcbitbSqckbOT8K5Bjhrk), [Dorian Cracken](https://open.spotify.com/artist/1qrJLoZNlTEVIg47qBWCnc), [Cuervo Loomi](https://open.spotify.com/artist/5I3JpPqcXZjUiLOmDFKQfE) | [HDP](https://open.spotify.com/album/671zdpfcfgpxxEsEP3XUo5) | 3:42 | 2023-08-04 |  |
 | [Ilegal](https://open.spotify.com/track/6SYOA4crkUyhgtsNrhpRd9) | [Don Tkt Hemafia](https://open.spotify.com/artist/6YBqTxHlF9NKytDKR4I2aw), [69 Lokos](https://open.spotify.com/artist/4sJC9ncqXO3ulcAhomHevu), [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j) | [Ilegal](https://open.spotify.com/album/5xdzsNhg4IP4FXUMiT70Be) | 4:27 | 2023-09-29 |  |
+| [KUMBIA MAKABRA](https://open.spotify.com/track/72BlB9Lok4jD7t1NCdPfAr) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Cricket](https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R) | [KUMBIA MAKABRA](https://open.spotify.com/album/1oXkI5mJE3WtNJRnYDR2nt) | 2:48 | 2023-10-13 |  |
 | [La Bachona](https://open.spotify.com/track/7vZoJVfJ14jZJaHtiYcHyM) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [La Bachona](https://open.spotify.com/album/0kl7f5ss7mwh8zaJD6Ggye) | 2:51 | 2023-09-01 |  |
 | [La Calle Llora](https://open.spotify.com/track/0YxCHyRniH8traBWNtmgoB) | [Made X La Calle](https://open.spotify.com/artist/65XnSO2UIDvG0zQIjcrFAJ), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb), [Alexis Linares](https://open.spotify.com/artist/0mJWgWivNI3ioDcrlz5jy4), [Nueve Siete](https://open.spotify.com/artist/7fzZKj3Tr03xohWrfinjBI), [Kush](https://open.spotify.com/artist/7oScaVlu12AMNd8miidieh), [Skubby.V](https://open.spotify.com/artist/6oHOsV3QP5gYuCqcPdSO9m) | [La Calle Llora](https://open.spotify.com/album/7ikJ4foUE0oHwoJdASOwlC) | 4:50 | 2023-10-06 |  |
 | [La Cara de Loco](https://open.spotify.com/track/5NxgaP46I5vi1aJZW4oIsZ) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Frenia](https://open.spotify.com/album/6DtziobPePcdasV0uUycOn) | 2:47 | 2023-08-04 |  |

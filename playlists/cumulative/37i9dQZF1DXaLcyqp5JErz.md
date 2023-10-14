@@ -2,7 +2,7 @@
 
 ### [Gospel Clássicos](https://open.spotify.com/playlist/37i9dQZF1DXaLcyqp5JErz)
 
-> Os grandes hinos reunidos em um único lugar\. Foto: Ana Paula Valadão \(Diante do Trono\)
+> Os grandes hinos reunidos em um único lugar\. Foto: Damares
 
 73 songs - 7 hr 20 min
 

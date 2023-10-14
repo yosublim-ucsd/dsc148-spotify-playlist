@@ -200,7 +200,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-06",
+      "date_removed": null,
       "duration_ms": 264560,
       "name": "American Woman",
       "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 259893,
       "name": "Black Smoke Rising",
       "url": "https://open.spotify.com/track/32BEasyNQgqXQJKoVa0fUw"
@@ -938,7 +938,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 222026,
       "name": "Cochise",
       "url": "https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim"
@@ -1428,10 +1428,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 180500,
       "name": "Everything Turns Around",
       "url": "https://open.spotify.com/track/1snNY6gV41RNLYdetvv2nr"
+    },
+    {
+      "album": {
+        "name": "Somewhere Between the Power Lines and Palm Trees",
+        "url": "https://open.spotify.com/album/6mo1n5cRP3rmTKMnBuDZsL"
+      },
+      "artists": [
+        {
+          "name": "Dogstar",
+          "url": "https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Everything Turns Around",
+      "url": "https://open.spotify.com/track/69xF3xSskwfReh9L14Lv0N"
     },
     {
       "album": {
@@ -2440,7 +2458,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 280466,
       "name": "Joker And The Thief",
       "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
@@ -2692,7 +2710,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 286219,
       "name": "Life in the Fast Lane - 2013 Remaster",
       "url": "https://open.spotify.com/track/78Pny5O5RDkHJNPZf1QcFs"
@@ -2764,7 +2782,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 332386,
       "name": "Look At Us Now (Honeycomb)",
       "url": "https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V"
@@ -3128,7 +3146,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 258973,
       "name": "My Hero",
       "url": "https://open.spotify.com/track/7u5dBtASrtOuBTTZjJrvuJ"
@@ -5060,7 +5078,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 341666,
       "name": "This Land",
       "url": "https://open.spotify.com/track/0Jxl1PdSbiQPYRPVdzBdES"
@@ -5100,6 +5118,24 @@
       "duration_ms": 292413,
       "name": "Thunderstruck",
       "url": "https://open.spotify.com/track/52UWtKlYjZO3dHoRlWuz9S"
+    },
+    {
+      "album": {
+        "name": "TK421",
+        "url": "https://open.spotify.com/album/7IncAEknANwQthqiwWySBP"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195266,
+      "name": "TK421",
+      "url": "https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO"
     },
     {
       "album": {
@@ -5638,7 +5674,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 210880,
       "name": "You Shook Me All Night Long",
       "url": "https://open.spotify.com/track/6yl8Es1tCYD9WdSkeVLFw4"

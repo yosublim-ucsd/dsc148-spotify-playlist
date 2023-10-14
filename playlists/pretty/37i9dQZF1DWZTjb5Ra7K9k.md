@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,539 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,369 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 69 | [Ground On Down](https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Fight For Your Mind](https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4) | 4:53 |
 | 70 | [Life, Love & Laughter](https://open.spotify.com/track/4d0mp3RK1yCY2RkWvLibNV) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Pass It Around](https://open.spotify.com/album/5UGyKjOCdpxPkamcLkJNZL) | 3:10 |
 | 71 | [Piloto Automático](https://open.spotify.com/track/739RpxxbLVj7YQz2wGJcE1) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Piloto Automático](https://open.spotify.com/album/5w5bBSJCBvUUy2VeOgPnzu) | 3:05 |
-| 72 | [Living Single](https://open.spotify.com/track/2mVjzhHBcqZ9WRzGsX59Tf) | [Kayavibe](https://open.spotify.com/artist/4tuJL0fsbiMtUyKNGCQxox) | [Kayavibe](https://open.spotify.com/album/6oHQpLOX2QXBhZXbMBFo3u) | 3:22 |
-| 73 | [Joker Smoker 12" Mix](https://open.spotify.com/track/72Mqd8exzzElzRCeuP5tSm) | [Triston Palma](https://open.spotify.com/artist/5zRp3bPBElRwxg5kVzTrAP) | [Joker Smoker](https://open.spotify.com/album/364SqWnW8GVEn3EQAHjuZR) | 7:11 |
+| 72 | [Joker Smoker 12" Mix](https://open.spotify.com/track/72Mqd8exzzElzRCeuP5tSm) | [Triston Palma](https://open.spotify.com/artist/5zRp3bPBElRwxg5kVzTrAP) | [Joker Smoker](https://open.spotify.com/album/364SqWnW8GVEn3EQAHjuZR) | 7:11 |
+| 73 | [Living Single](https://open.spotify.com/track/2mVjzhHBcqZ9WRzGsX59Tf) | [Kayavibe](https://open.spotify.com/artist/4tuJL0fsbiMtUyKNGCQxox) | [Kayavibe](https://open.spotify.com/album/6oHQpLOX2QXBhZXbMBFo3u) | 3:22 |
 | 74 | [Pipeline](https://open.spotify.com/track/4JnefzMlvvO3OUBRW4oLlU) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [The Real Deal: Greatest Hits Volume 2](https://open.spotify.com/album/2SYJxEVYF7yzxEf2Ncymi1) | 2:59 |
 | 75 | [Invincible](https://open.spotify.com/track/6NTaNlVIeigg3ERXef5wjM) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/7woWmF7vNQwAVNymD0UkbY) | 4:46 |
 
-Snapshot ID: `MCwyZGRhZTA4YTJiZDI3ODY5M2QxMGZkMmI2ZWU1ODk0M2ZhMTM3ZGU3`
+Snapshot ID: `MCxmOGM3NGRhNDIyMzU5MGJlMWZiMTQzODQ5Y2I4MWUwOWIyMzhmMDU1`

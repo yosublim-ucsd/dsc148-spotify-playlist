@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR?si=8l0ZFAOsS0K3OP\-UZAArdw"> DJ Neptune </a>  and <a href="https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF?si=ny0fp0AOTJmEpTxgXwTrIA"> Joeboy </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,466,068 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,466,402 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [Dollar For Love \(Baby\)](https://open.spotify.com/track/46906mYFRf4gRPqvdrhWhX) | [Thuto The Human](https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj) | [Dollar For Love \(Baby\)](https://open.spotify.com/album/4IABFEmSzX66zvR16cPt1H) | 6:53 |
 | 50 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 |
 
-Snapshot ID: `MCwwZTgyNzdjYTFjMDg5OWExN2VhYzZkYWVkODNmOWNlNjY3YjJiNDA2`
+Snapshot ID: `MCw4NWRhMTVlYmE2NWRhNDJiMmQ2ZmZjYmVjMDQ3ZmRlNDU5YjFjMTRj`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u300210\u670811\u65e5\u4ed8\u3002",
+  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u300210\u670812\u65e5\u4ed8\u3002",
   "name": "Spotify Japan \u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8",
   "tracks": [
     {
@@ -7425,6 +7425,24 @@
     },
     {
       "album": {
+        "name": "Hana",
+        "url": "https://open.spotify.com/album/0v6vQ9tMopUTccn0wUvzQD"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246699,
+      "name": "Hana",
+      "url": "https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh"
+    },
+    {
+      "album": {
         "name": "TAG ME",
         "url": "https://open.spotify.com/album/0uZD2qIc7Y9UsXFModWKau"
       },
@@ -12602,7 +12620,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 201200,
       "name": "My Sweet Darlin' - Remastered 2004",
       "url": "https://open.spotify.com/track/2aZ8vYJ3BvSM41JFhoO3mB"
@@ -12906,7 +12924,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 200701,
       "name": "Nee",
       "url": "https://open.spotify.com/track/3xYCy8Gpp8I37ljuIELCOJ"
@@ -15082,7 +15100,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 203666,
       "name": "Re-monolith",
       "url": "https://open.spotify.com/track/2P406Mp2LZ8Iqai7WAUDs3"
@@ -21772,7 +21790,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 192733,
       "name": "ZOOM ZOOM",
       "url": "https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl"
@@ -22424,7 +22442,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 198971,
       "name": "\u305f\u3060\u541b\u306b\u6674\u308c",
       "url": "https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz"
@@ -23698,6 +23716,28 @@
       "duration_ms": 52664,
       "name": "\u30ad\u30e5\u30fc\u30c8\u30a2\u30b0\u30ec\u30c3\u30b7\u30e7\u30f3 - Leaks From His Laptop",
       "url": "https://open.spotify.com/track/0BxmdoTgGqbBdgAYFAGvvg"
+    },
+    {
+      "album": {
+        "name": "DEBUT",
+        "url": "https://open.spotify.com/album/6P0h9ZA6Vf5Drg76VGFLSe"
+      },
+      "artists": [
+        {
+          "name": "Kyrie",
+          "url": "https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu"
+        },
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318762,
+      "name": "\u30ad\u30ea\u30a8\u30fb\u6190\u308c\u307f\u306e\u8b83\u6b4c",
+      "url": "https://open.spotify.com/track/4KjNYo1Y9QWc0GQES77dfl"
     },
     {
       "album": {
@@ -26976,7 +27016,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 138135,
       "name": "\u590f\u604b\u30bb\u30f3\u30bb\u30a4\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/5McCZ1isTVJg3Wr5WBVoI3"
@@ -27946,7 +27986,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 204600,
       "name": "\u61a7\u308c\u306e\u307e\u307e\u306b",
       "url": "https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs"
@@ -28282,6 +28322,24 @@
       "duration_ms": 252340,
       "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
       "url": "https://open.spotify.com/track/5xoar7MhzRUVqJvGpAtxfP"
+    },
+    {
+      "album": {
+        "name": "\u6708\u5149\u6d74",
+        "url": "https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248130,
+      "name": "\u6708\u5149\u6d74",
+      "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
     },
     {
       "album": {

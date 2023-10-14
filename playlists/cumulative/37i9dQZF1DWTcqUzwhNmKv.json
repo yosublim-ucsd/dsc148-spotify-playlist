@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Of Mice & Men on top of the biggest Metal playlist.",
+  "description": "Spiritbox on top of the biggest Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 172353,
       "name": "$wing",
       "url": "https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO"
+    },
+    {
+      "album": {
+        "name": "(i)",
+        "url": "https://open.spotify.com/album/3raVH1dBBNAguI8WqQE0vn"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183404,
+      "name": "(i)",
+      "url": "https://open.spotify.com/track/3Ve1TJKgbzNBBk3cTZN0Hv"
     },
     {
       "album": {
@@ -1018,6 +1036,24 @@
       "duration_ms": 207573,
       "name": "Break The Silence",
       "url": "https://open.spotify.com/track/6abtzJMSDIosKqVe8KUToF"
+    },
+    {
+      "album": {
+        "name": "Breaking Teeth",
+        "url": "https://open.spotify.com/album/2KONHMjnO0RbxX997M2eEg"
+      },
+      "artists": [
+        {
+          "name": "Hollow Front",
+          "url": "https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153904,
+      "name": "Breaking Teeth",
+      "url": "https://open.spotify.com/track/3HWyHrobRg5FYzGS0oP5FV"
     },
     {
       "album": {
@@ -2186,7 +2222,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 321440,
       "name": "Do Or Die",
       "url": "https://open.spotify.com/track/4QCUR8rFIqwHO3qsDOmXhM"
@@ -2370,7 +2406,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 165557,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/1knxUcq12YCES1O1Q6ImCY"
@@ -2768,6 +2804,24 @@
       "duration_ms": 185542,
       "name": "Faded Out (feat. Within Temptation)",
       "url": "https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp"
+    },
+    {
+      "album": {
+        "name": "The Weight Of The Mask",
+        "url": "https://open.spotify.com/album/70UeEiNvvXyBNF9QMQnZre"
+      },
+      "artists": [
+        {
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328015,
+      "name": "Faking It",
+      "url": "https://open.spotify.com/track/4yRqoKU4KlQIYlVFP4MiuJ"
     },
     {
       "album": {
@@ -4821,6 +4875,24 @@
     },
     {
       "album": {
+        "name": "Meat & Greet",
+        "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210559,
+      "name": "Meat & Greet",
+      "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
+    },
+    {
+      "album": {
         "name": "Foregone",
         "url": "https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3"
       },
@@ -6140,7 +6212,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 211200,
       "name": "Red Fur",
       "url": "https://open.spotify.com/track/1jj922BgyJexH19yoHd23L"
@@ -8522,7 +8594,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 146079,
       "name": "Torn From Your Silhouette",
       "url": "https://open.spotify.com/track/1zLdk7jMOHh3QQkC9GrW5L"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-1,716 songs - 3 day 13 hr 37 min
+1,717 songs - 3 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1301,7 +1301,8 @@
 | [Runnin](https://open.spotify.com/track/1viUVY9PeeVu4kqwLjBOyB) | [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [Big Pat](https://open.spotify.com/artist/1ZpLpz4tFdvUocboq1KX3M), [Dead Dawg](https://open.spotify.com/artist/0vbfrsbTQsxmBTrvtZTFB4) | [Runnin](https://open.spotify.com/album/2BQvv9Z7z5GeqZu07GM4G6) | 4:17 | 2022-08-13 | 2022-08-15 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-30 | 2022-10-01 |
 | [Ryu](https://open.spotify.com/track/0t7XJbUWXL7Mow2ZLT50f8) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Ryu](https://open.spotify.com/album/4wh6lUZnjR6vy4v9Y3VpAC) | 2:26 | 2021-08-29 | 2021-09-05 |
-| [S u m m e r t i m e](https://open.spotify.com/track/1932nDF4nTvlJvcO405jiv) | [danicpeepner](https://open.spotify.com/artist/4ol7o2NC4NYIyJHj9RcGNz) | [S u m m e r t i m e](https://open.spotify.com/album/6pWclGc5gXRbQLb1GenZ1C) | 3:15 | 2023-10-12 |  |
+| [S u m m e r t i m e](https://open.spotify.com/track/7DKKm1y3KxR0UZIJj8bSHB) | [danicpeepner](https://open.spotify.com/artist/4ol7o2NC4NYIyJHj9RcGNz) | [S u m m e r t i m e](https://open.spotify.com/album/6voFMJlTk3CwJ4WHc7AWLm) | 3:15 | 2023-10-13 |  |
+| [S u m m e r t i m e](https://open.spotify.com/track/1932nDF4nTvlJvcO405jiv) | [danicpeepner](https://open.spotify.com/artist/4ol7o2NC4NYIyJHj9RcGNz) | [S u m m e r t i m e](https://open.spotify.com/album/6pWclGc5gXRbQLb1GenZ1C) | 3:15 | 2023-10-12 | 2023-10-14 |
 | [S&M](https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud \(Japan Version\)](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:03 | 2023-01-01 | 2023-01-03 |
 | [S.O.S.](https://open.spotify.com/track/7zATY9hK0qeqkE4Gu357M5) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG), [DJ ARCHITECT](https://open.spotify.com/artist/0vCnUvIEwxIYyiC7vmFDHo) | [S.O.S.](https://open.spotify.com/album/3T21dZJwPppDXUpSnY7TLX) | 2:45 | 2023-02-28 | 2023-03-05 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-01-23 |

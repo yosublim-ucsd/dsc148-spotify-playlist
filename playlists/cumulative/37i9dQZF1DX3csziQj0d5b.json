@@ -3503,6 +3503,24 @@
     },
     {
       "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "album": {
         "name": "The Good Times and The Bad Ones",
         "url": "https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2"
       },
@@ -4056,6 +4074,24 @@
       "duration_ms": 208728,
       "name": "Hurts So Good",
       "url": "https://open.spotify.com/track/46u5B2WN4wryYLZuMAOmI4"
+    },
+    {
+      "album": {
+        "name": "i am not who i was",
+        "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145438,
+      "name": "i am not who i was",
+      "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
     },
     {
       "album": {
@@ -6996,7 +7032,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 163733,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/3fGW43fnu3OHEw6ohTC2Bw"
@@ -8898,7 +8934,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 196679,
       "name": "Talk Too Much",
       "url": "https://open.spotify.com/track/1ekAgx1qOdnVoSlmkHghKq"
@@ -8974,7 +9010,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 170626,
       "name": "Talkin\u2019 About It (Feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/28mFFxAwJ9cx9j7z9yu64R"
@@ -9408,7 +9444,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 225266,
       "name": "There It Goes",
       "url": "https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc"
@@ -9800,6 +9836,24 @@
       "duration_ms": 261240,
       "name": "Versace on the Floor",
       "url": "https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
     },
     {
       "album": {
@@ -10654,7 +10708,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 138013,
       "name": "You Don't Even",
       "url": "https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3"

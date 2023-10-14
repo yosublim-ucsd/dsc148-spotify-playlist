@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Rangga Jones, Jolianne",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: Rexx Life Raj, thuy",
   "name": "mood.",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "BRB",
+        "url": "https://open.spotify.com/album/59gHk4tDlPnS9PUxdxYQ99"
+      },
+      "artists": [
+        {
+          "name": "kasper",
+          "url": "https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212045,
+      "name": "BRB",
+      "url": "https://open.spotify.com/track/1E1P4FFDWZQarIllFj7pCf"
+    },
+    {
+      "album": {
         "name": "Sunflower at Sundown",
         "url": "https://open.spotify.com/album/0ZlZoBp9Bs9EZ1YJ2zpk59"
       },
@@ -1760,7 +1778,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 225882,
       "name": "Curious (feat. Fabolous)",
       "url": "https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx"
@@ -1826,7 +1844,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 187500,
       "name": "Daylight (feat. GANGGA)",
       "url": "https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C"
@@ -1932,7 +1950,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 182938,
       "name": "DIVINE",
       "url": "https://open.spotify.com/track/4jgrU5aVVGSYwTaWZJyfo4"
@@ -2396,7 +2414,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 184016,
       "name": "Expat Living",
       "url": "https://open.spotify.com/track/2nRUk1Qbef1wGeX8tdCYCR"
@@ -2468,7 +2486,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 204920,
       "name": "Falling or flying",
       "url": "https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS"
@@ -3754,7 +3772,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 165120,
       "name": "Hold me Kiss me Love me",
       "url": "https://open.spotify.com/track/7eTrak4jRwWpUGJeahihH6"
@@ -4444,6 +4462,24 @@
       "duration_ms": 242866,
       "name": "In The Mood",
       "url": "https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB"
+    },
+    {
+      "album": {
+        "name": "IN the mood",
+        "url": "https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "In The Mood",
+      "url": "https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY"
     },
     {
       "album": {
@@ -5148,7 +5184,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 197930,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4oZfm9BPohSYNM3dMpV2KQ"
@@ -7519,6 +7555,24 @@
     },
     {
       "album": {
+        "name": "Sailing",
+        "url": "https://open.spotify.com/album/4JC0wgDAIou1Q0005eCXb4"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205673,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/5BhlE0di2Qeey289ECk9IF"
+    },
+    {
+      "album": {
         "name": "sanctuary",
         "url": "https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L"
       },
@@ -8399,6 +8453,24 @@
     },
     {
       "album": {
+        "name": "STAY WITH ME",
+        "url": "https://open.spotify.com/album/64rsgcGXEhiKWQOJ5Zl9de"
+      },
+      "artists": [
+        {
+          "name": "Dan$on",
+          "url": "https://open.spotify.com/artist/1H95nqLZEVhgVtON6hxg2T"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213272,
+      "name": "STAY WITH ME",
+      "url": "https://open.spotify.com/track/4frkW3V6yiL2RWP0Cf0aKY"
+    },
+    {
+      "album": {
         "name": "Step!",
         "url": "https://open.spotify.com/album/6m60vpr7y4UA8NmTow50GJ"
       },
@@ -8620,10 +8692,32 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 139200,
       "name": "Summer Vibes",
       "url": "https://open.spotify.com/track/7aKX262g7OMTuPm9XwoYNS"
+    },
+    {
+      "album": {
+        "name": "Summers Around The Corner",
+        "url": "https://open.spotify.com/album/3E4ICiqiWEXTncH5RxR1tB"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228390,
+      "name": "Summers Around The Corner",
+      "url": "https://open.spotify.com/track/6AY1IWGyVFkdkq8AA5F2zT"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 389470,
+  "num_followers": 389588,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTY0NzFmZDQzN2NkMjYxYWQyZjQ5NTc0ZDFlMTkzNDZhYjNjOGRj",
+  "snapshot_id": "MCw4NGNkNWYwZjY0NjA5ODAzYjQzYTlhZjBhNGQ3NTU5ZTA3YjJlMzM1",
   "tracks": [
     {
       "added_at": "2023-08-02 16:20:29",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
+        "name": "Wilderness of Mirrors",
+        "url": "https://open.spotify.com/album/0ggygybxG3Il8OWZoelu6B"
+      },
+      "artists": [
+        {
+          "name": "The Black Angels",
+          "url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+        }
+      ],
+      "duration_ms": 247306,
+      "name": "Without a Trace",
+      "url": "https://open.spotify.com/track/2TRsNuwI2hkWRgYcBoRkrb"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
         "name": "Fuckin Whatever",
         "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
       },
@@ -907,6 +923,22 @@
       "duration_ms": 213211,
       "name": "Trash",
       "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "The Gold & Silver Sessions",
+        "url": "https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl"
+      },
+      "artists": [
+        {
+          "name": "Elder",
+          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
+        }
+      ],
+      "duration_ms": 593386,
+      "name": "Illusory Motion",
+      "url": "https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -939,38 +971,6 @@
       "duration_ms": 263453,
       "name": "Paraphernalia",
       "url": "https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
-        "name": "Wilderness of Mirrors",
-        "url": "https://open.spotify.com/album/0ggygybxG3Il8OWZoelu6B"
-      },
-      "artists": [
-        {
-          "name": "The Black Angels",
-          "url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
-        }
-      ],
-      "duration_ms": 247306,
-      "name": "Without a Trace",
-      "url": "https://open.spotify.com/track/2TRsNuwI2hkWRgYcBoRkrb"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
-        "name": "The Gold & Silver Sessions",
-        "url": "https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl"
-      },
-      "artists": [
-        {
-          "name": "Elder",
-          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
-        }
-      ],
-      "duration_ms": 593386,
-      "name": "Illusory Motion",
-      "url": "https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "V.",
-        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
-      },
-      "artists": [
-        {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
-        }
-      ],
-      "duration_ms": 383100,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "humanus",
         "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
       },
@@ -1103,22 +1087,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Egypt",
-        "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
-      },
-      "artists": [
-        {
-          "name": "KYANOS",
-          "url": "https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD"
-        }
-      ],
-      "duration_ms": 261634,
-      "name": "Egypt",
-      "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS"
       },
@@ -1131,6 +1099,38 @@
       "duration_ms": 200382,
       "name": "Human Touch",
       "url": "https://open.spotify.com/track/4YlOq4SkgNgI3gbSsUTDRl"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "V.",
+        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
+      },
+      "artists": [
+        {
+          "name": "Wooden Shjips",
+          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+        }
+      ],
+      "duration_ms": 383100,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Egypt",
+        "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
+      },
+      "artists": [
+        {
+          "name": "KYANOS",
+          "url": "https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD"
+        }
+      ],
+      "duration_ms": 261634,
+      "name": "Egypt",
+      "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Guayabo de Agua Ardiente",
-        "url": "https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9"
+        "name": "Sacred Drugs",
+        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
       },
       "artists": [
         {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+          "name": "Al Lover",
+          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
         }
       ],
-      "duration_ms": 220287,
-      "name": "Marihuana",
-      "url": "https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5"
+      "duration_ms": 186858,
+      "name": "A Shaman's Hand is Infinite",
+      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Sacred Drugs",
-        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
+        "name": "Guayabo de Agua Ardiente",
+        "url": "https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9"
       },
       "artists": [
         {
-          "name": "Al Lover",
-          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
         }
       ],
-      "duration_ms": 186858,
-      "name": "A Shaman's Hand is Infinite",
-      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
+      "duration_ms": 220287,
+      "name": "Marihuana",
+      "url": "https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Another Quiet Sunday",
-        "url": "https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z"
-      },
-      "artists": [
-        {
-          "name": "Meltt",
-          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
-        }
-      ],
-      "duration_ms": 267640,
-      "name": "Another Quiet Sunday (Keep Moving On)",
-      "url": "https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Hippie Hourrah!",
         "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 306453,
       "name": "Fant\u00f4me",
       "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Another Quiet Sunday",
+        "url": "https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "Another Quiet Sunday (Keep Moving On)",
+      "url": "https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Fudge Sandwich",
-        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 240320,
-      "name": "Hit It and Quit It",
-      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Morgan Delt",
         "url": "https://open.spotify.com/album/54yjoRYk42Cq4XkyRHfYPe"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Pascuales",
-        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
+        "name": "Fudge Sandwich",
+        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
       },
       "artists": [
         {
-          "name": "Bobui",
-          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
         }
       ],
-      "duration_ms": 217103,
-      "name": "Pascuales",
-      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
+      "duration_ms": 240320,
+      "name": "Hit It and Quit It",
+      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1551,34 +1535,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "The Exorcist GBG",
-        "url": "https://open.spotify.com/album/7uYTlyslljMPzES3uuXjHu"
+        "name": "Pascuales",
+        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
       },
       "artists": [
         {
-          "name": "The Exorcist GBG",
-          "url": "https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV"
+          "name": "Bobui",
+          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
         }
       ],
-      "duration_ms": 174803,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
-        "name": "A New Day Dawning",
-        "url": "https://open.spotify.com/album/3efSeqmN9bPRMnGWbyYySh"
-      },
-      "artists": [
-        {
-          "name": "Siena Root",
-          "url": "https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l"
-        }
-      ],
-      "duration_ms": 540684,
-      "name": "Rasayana",
-      "url": "https://open.spotify.com/track/2WTKsltOhi7DtLPPvfSC8J"
+      "duration_ms": 217103,
+      "name": "Pascuales",
+      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1599,18 +1567,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "The Real Work",
-        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
+        "name": "A New Day Dawning",
+        "url": "https://open.spotify.com/album/3efSeqmN9bPRMnGWbyYySh"
       },
       "artists": [
         {
-          "name": "Party Dozen",
-          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+          "name": "Siena Root",
+          "url": "https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l"
         }
       ],
-      "duration_ms": 266737,
-      "name": "Risky Behaviour",
-      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
+      "duration_ms": 540684,
+      "name": "Rasayana",
+      "url": "https://open.spotify.com/track/2WTKsltOhi7DtLPPvfSC8J"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1627,6 +1595,38 @@
       "duration_ms": 208994,
       "name": "Sword In the Stone",
       "url": "https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "The Exorcist GBG",
+        "url": "https://open.spotify.com/album/7uYTlyslljMPzES3uuXjHu"
+      },
+      "artists": [
+        {
+          "name": "The Exorcist GBG",
+          "url": "https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV"
+        }
+      ],
+      "duration_ms": 174803,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "The Real Work",
+        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
+      },
+      "artists": [
+        {
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+        }
+      ],
+      "duration_ms": 266737,
+      "name": "Risky Behaviour",
+      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

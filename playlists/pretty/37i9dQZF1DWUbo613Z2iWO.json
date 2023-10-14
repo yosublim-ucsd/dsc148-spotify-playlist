@@ -1,13 +1,29 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Gemaine",
-  "num_followers": 44340,
+  "description": "R&B of the moment by the artists of the future. Cover: Destin Conrad",
+  "num_followers": 44361,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWFiYTMwYzAwZDc3N2ZlZWY1ZjZjMTQyN2NlYTlhNWJjYmNhODA2",
+  "snapshot_id": "MCxlYjQyZDUxZmM3ODlmMTEwNGZhZDdjN2UyOThlMWYwZmEwY2VjNDRl",
   "tracks": [
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "LUV N DEVOTION",
+        "url": "https://open.spotify.com/album/5R8TDNyNfrrh9PprKnl8Ig"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "LUV N DEVOTION",
+      "url": "https://open.spotify.com/track/2C2KmQyeGfMVULfrdMVs8i"
+    },
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
@@ -77,6 +93,26 @@
       "url": "https://open.spotify.com/track/5jsXDTkZnlbFT4aSTCOn1y"
     },
     {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "No Luv",
+        "url": "https://open.spotify.com/album/1ecGWyL8jy0bDroQtIDd6l"
+      },
+      "artists": [
+        {
+          "name": "Breez Kennedy",
+          "url": "https://open.spotify.com/artist/6ydm4dOCCkVb40LPqkhH3p"
+        },
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "duration_ms": 180506,
+      "name": "No Luv (with Chikoruss)",
+      "url": "https://open.spotify.com/track/1vvgv7dJ3bk9s0zgcBBZet"
+    },
+    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "wish you hell",
@@ -91,6 +127,22 @@
       "duration_ms": 174304,
       "name": "wish you hell",
       "url": "https://open.spotify.com/track/5QTpJCeiyOyBVaeThyMQUV"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "This Must Be A PawPaw Rod EP",
+        "url": "https://open.spotify.com/album/7kCZCWQ1F3MAEQYEvcqQQF"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 188421,
+      "name": "Bonafide",
+      "url": "https://open.spotify.com/track/1jIopA8Imz4gwR8bjBlEjJ"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -113,20 +165,36 @@
       "url": "https://open.spotify.com/track/4lUEgk2Da44ikFhF5TS863"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Don't Be Alarmed",
-        "url": "https://open.spotify.com/album/1uMNsWU8HxJjDFx0GoBnDs"
+        "name": "Regardless",
+        "url": "https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7"
       },
       "artists": [
         {
-          "name": "Felix Ames",
-          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
         }
       ],
-      "duration_ms": 230835,
-      "name": "Don't Be Alarmed",
-      "url": "https://open.spotify.com/track/0IvDIOxW3afsWsKH9ovWfy"
+      "duration_ms": 189257,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Caught Between 2 Worlds",
+        "url": "https://open.spotify.com/album/0fr2yHigw1YG1oAJ2V8whE"
+      },
+      "artists": [
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "duration_ms": 182037,
+      "name": "Caught Between 2 Worlds",
+      "url": "https://open.spotify.com/track/2Aef1eaUQAOu4tDEHL0E0u"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -145,6 +213,58 @@
       "url": "https://open.spotify.com/track/0X0bYJxGG2NBLH93PQvOi3"
     },
     {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Never Had This",
+        "url": "https://open.spotify.com/album/046O76yD1wXsucGcnhY2BT"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 173920,
+      "name": "Never Had This",
+      "url": "https://open.spotify.com/track/3rM4wmlPiJuEV1ElZec8NA"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Peppermint",
+        "url": "https://open.spotify.com/album/5RyFH5vqNg3W3YWCSTZU09"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 173617,
+      "name": "Peppermint",
+      "url": "https://open.spotify.com/track/3rp0lvWmmT8Z1mKk0K7lfW"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Don't Be Alarmed",
+        "url": "https://open.spotify.com/album/1uMNsWU8HxJjDFx0GoBnDs"
+      },
+      "artists": [
+        {
+          "name": "Felix Ames",
+          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
+        }
+      ],
+      "duration_ms": 230835,
+      "name": "Don't Be Alarmed",
+      "url": "https://open.spotify.com/track/0IvDIOxW3afsWsKH9ovWfy"
+    },
+    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "can u?",
@@ -159,22 +279,6 @@
       "duration_ms": 170762,
       "name": "can u?",
       "url": "https://open.spotify.com/track/4WkRn7DXBqE3FpIHM9tmLs"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Caught Between 2 Worlds",
-        "url": "https://open.spotify.com/album/0fr2yHigw1YG1oAJ2V8whE"
-      },
-      "artists": [
-        {
-          "name": "TA Thomas",
-          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
-        }
-      ],
-      "duration_ms": 182037,
-      "name": "Caught Between 2 Worlds",
-      "url": "https://open.spotify.com/track/2Aef1eaUQAOu4tDEHL0E0u"
     },
     {
       "added_at": "2023-09-16 04:00:00",
@@ -309,6 +413,22 @@
       "url": "https://open.spotify.com/track/7FVSpM0idOhw4etUpkPf8d"
     },
     {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Get Together",
+        "url": "https://open.spotify.com/album/2ZwskA00mDrM1aGi1VTCai"
+      },
+      "artists": [
+        {
+          "name": "Olivia Escuyos",
+          "url": "https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/4SNYTtR22PfL7UF0pouvFf"
+    },
+    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Better",
@@ -403,22 +523,6 @@
       "duration_ms": 159264,
       "name": "good cry",
       "url": "https://open.spotify.com/track/3tuuvlzu72PRKCb9IxFXst"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/6xs1AUORh5OoRfmTkm8W07"
-      },
-      "artists": [
-        {
-          "name": "Marzz",
-          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
-        }
-      ],
-      "duration_ms": 153547,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/1rcq9oWXJyXW9dYuIBWF3q"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -587,22 +691,6 @@
       "duration_ms": 173223,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/2Q2VlgK3KJcuZJUCyX5miq"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "OUTTA CONTROL",
-        "url": "https://open.spotify.com/album/3SOrMCFaErYHw8BDd1XxYi"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "OUTTA CONTROL",
-      "url": "https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -829,22 +917,6 @@
       "url": "https://open.spotify.com/track/5G39HqNTankm28Qo3JFWU8"
     },
     {
-      "added_at": "2023-08-25 16:25:44",
-      "album": {
-        "name": "When It Comes To You",
-        "url": "https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 168075,
-      "name": "When It Comes To You",
-      "url": "https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm"
-    },
-    {
       "added_at": "2023-05-05 05:18:45",
       "album": {
         "name": "lost a friend",
@@ -859,22 +931,6 @@
       "duration_ms": 174637,
       "name": "ego talkin'",
       "url": "https://open.spotify.com/track/0QcS4DBl3Dhfv0F0nARK3M"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Repercussions",
-        "url": "https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 180714,
-      "name": "Repercussions",
-      "url": "https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1025,22 +1081,6 @@
       "url": "https://open.spotify.com/track/1VYUd9fdOaOCL47pkGd57z"
     },
     {
-      "added_at": "2023-06-16 05:54:28",
-      "album": {
-        "name": "Too Good",
-        "url": "https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf"
-    },
-    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Summer Breeze",
@@ -1125,34 +1165,6 @@
       "url": "https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "RM. 143 (RM112 Remix)",
-        "url": "https://open.spotify.com/album/6rRZCZwQU02DKN6EfCrGi2"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        },
-        {
-          "name": "Slim",
-          "url": "https://open.spotify.com/artist/33nrND6ODgesoa1Qmr5DbD"
-        },
-        {
-          "name": "Ye Ali",
-          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
-        },
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 180220,
-      "name": "RM. 143 - RM112 Remix",
-      "url": "https://open.spotify.com/track/5nEXSU70UNltl8Q1PS7AWR"
-    },
-    {
       "added_at": "2023-05-05 05:18:45",
       "album": {
         "name": "Sadboy, Vol. 1",
@@ -1231,22 +1243,6 @@
       "duration_ms": 180731,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/3xeDr86GnwkxhHQIit7NL9"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "W.I.A (Where I\u2019m At)",
-        "url": "https://open.spotify.com/album/3kkHpK3tLoh18gFzDfALPu"
-      },
-      "artists": [
-        {
-          "name": "TA Thomas",
-          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
-        }
-      ],
-      "duration_ms": 187346,
-      "name": "W.I.A (Where I\u2019m At)",
-      "url": "https://open.spotify.com/track/2FSo1Jjt0MjdGMwgFxcrGs"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1623,26 +1619,6 @@
       "duration_ms": 193000,
       "name": "2MANYTHINGS",
       "url": "https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9"
-    },
-    {
-      "added_at": "2022-12-19 20:02:45",
-      "album": {
-        "name": "Build Me A House",
-        "url": "https://open.spotify.com/album/1NsNO9pDwGPVlOkqgzro17"
-      },
-      "artists": [
-        {
-          "name": "RIMON",
-          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
-        },
-        {
-          "name": "Tiggs Da Author",
-          "url": "https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "Build Me A House",
-      "url": "https://open.spotify.com/track/3Sb3Md9qVCRwu470IZ4XIp"
     },
     {
       "added_at": "2022-12-02 05:00:00",

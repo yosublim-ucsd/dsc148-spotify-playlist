@@ -4,7 +4,7 @@
 
 > Apasiónate con sus éxitos en español.
 
-68 songs - 4 hr 27 min
+70 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Dos ventanas](https://open.spotify.com/track/6IE0in7GMO8rxgWgLffRLg) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Hazte sentir](https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo) | 4:19 | 2021-09-23 |  |
 | [Durar](https://open.spotify.com/track/4z0YuBEZ29pCut5HtLeQ9Z) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Durar](https://open.spotify.com/album/5WGzrCnJgloOH4uau17Aug) | 3:19 | 2023-09-14 |  |
 | [El caso está perdido](https://open.spotify.com/track/3jvpC5iwT1NnaJRSEPAFDa) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Hazte sentir](https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo) | 3:29 | 2021-09-23 |  |
+| [El primer paso en la luna](https://open.spotify.com/track/4GcdtQaqyH6qpnv0jrPpcm) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [El primer paso en la luna](https://open.spotify.com/album/0UU1WRNq0lEBST4QqW7DS6) | 2:58 | 2023-10-13 |  |
 | [El valor de seguir adelante](https://open.spotify.com/track/7FXnDS0HulrvYjY3xFT0ru) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Hazte sentir](https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo) | 3:45 | 2021-09-23 |  |
 | [El valor de seguir adelante \(feat\. Biagio Antonacci\)](https://open.spotify.com/track/6q8glaVMtbJYxDmaoNFZUE) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [El valor de seguir adelante \(feat\. Biagio Antonacci\)](https://open.spotify.com/album/1UrsdIFKcCtSg34jJe6vX9) | 3:44 | 2021-09-23 |  |
 | [Emergencia de amor](https://open.spotify.com/track/3MmeWjpRcLjJvNil10034t) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:33 | 2021-09-23 |  |
@@ -39,6 +40,7 @@
 | [Está.allá](https://open.spotify.com/track/0j2wXq23Td4sMzte4yiEMb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Hazte sentir](https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo) | 3:35 | 2021-09-23 |  |
 | [Fantástico \(Haz lo que eres\)](https://open.spotify.com/track/0s5eXJYhskJYljJRfpNrHp) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Hazte sentir](https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo) | 3:34 | 2021-09-23 |  |
 | [Francesca](https://open.spotify.com/track/6S6oyPIG38fIdvvGEoxgPM) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Hazte sentir](https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo) | 3:31 | 2021-09-23 |  |
+| [Frente a nosotros](https://open.spotify.com/track/7ejgpCjT3L5JRJWKnqeSbV) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Frente a nosotros](https://open.spotify.com/album/2tlRHyJYMznfBLjYEY69zt) | 2:59 | 2023-10-13 |  |
 | [Gente \- New Version 2013](https://open.spotify.com/track/21iN6r50k8cWkcrpBHqdq9) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [20 The Greatest Hits](https://open.spotify.com/album/3CBMpoI2vZlKXs3wgnNWGn) | 3:48 | 2021-09-23 |  |
 | [He creído en mí](https://open.spotify.com/track/2oalJesy0oj61oxav56j0w) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Similares](https://open.spotify.com/album/3polx9obFEloI0s73vcvUv) | 3:14 | 2021-09-23 |  |
 | [Inolvidable](https://open.spotify.com/track/0mct3ztXaGdJW20o0mZt8c) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 3:46 | 2021-09-23 |  |

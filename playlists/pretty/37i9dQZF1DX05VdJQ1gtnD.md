@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 
 > Warming instrumental guitar for sitting by the fire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,527 likes - 135 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,560 likes - 135 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 5 | [Hummingbirds](https://open.spotify.com/track/2810NQ7JzSiWNnw4FR2wcG) | [Antonio y Lola](https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41) | [Hummingbirds](https://open.spotify.com/album/6Y8ZwQynXvimAfa6r1qZdp) | 2:16 |
 | 6 | [Coming home to someone](https://open.spotify.com/track/33jEJgoSbewTinFfmhsBLZ) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Coming home to someone](https://open.spotify.com/album/6GSi2ihzkIvHQggLoUxvzp) | 2:45 |
 | 7 | [In Daisies Lain](https://open.spotify.com/track/5cfyGiPqoeKsIGgnmj6Hvq) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [In Daisies Lain](https://open.spotify.com/album/48Ry8I2qQ5R6wyMfVQMjwf) | 2:21 |
-| 8 | [Innocent Face](https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:02 |
+| 8 | [Innocent Face](https://open.spotify.com/track/1LjYFVvhXmuP3RgErQBYkH) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Innocent Face](https://open.spotify.com/album/4GpBw9UUFaHkv12myq2POe) | 2:02 |
 | 9 | [At first dawn](https://open.spotify.com/track/7xWZgRtEfN2WYzomtNynes) | [Robert Blanke](https://open.spotify.com/artist/0nXlrKMk6YSm3vN04HaghF) | [At first dawn](https://open.spotify.com/album/2Cv6U6taQMno5m7KMZakLz) | 2:41 |
 | 10 | [Broader Perspective](https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Broader Perspective](https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ) | 2:24 |
 | 11 | [Dahlia](https://open.spotify.com/track/6ZUiOA4kUpxwHoqgTq502w) | [Raoul Raffino](https://open.spotify.com/artist/4OMeqxm2R62xPoMeoZ8EQB) | [Dahlia](https://open.spotify.com/album/1hez2OnBpf1Kxqr6QLthV5) | 2:20 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 134 | [New Leaf](https://open.spotify.com/track/0lgEKJERZvY8vGgbQMVYGS) | [Peter Lainson](https://open.spotify.com/artist/3wk9WtW2Txz1ssUoAZuE1a), [Will Moore](https://open.spotify.com/artist/6XnR821CI0nzD4XFQ2ZFDo) | [New Leaf](https://open.spotify.com/album/6xrjggEWZ8tiUtMi0jJJiw) | 2:42 |
 | 135 | [anticipation](https://open.spotify.com/track/0OhvlAMiXwy7i9dbnXbOWH) | [Sara Rice\-Clark](https://open.spotify.com/artist/1ChFJ60swiMaSUuw1mmHwd) | [leaving the city](https://open.spotify.com/album/6wQyphlrdifX6l2gS3tM6x) | 3:46 |
 
-Snapshot ID: `MCw3NjE3ZWQ2NGMyOTcxZDE4MzdkYjY0OGM4MzE2ZjQyZmNlN2RhNjY3`
+Snapshot ID: `MCwzZWM4OTNiZGFiN2E3ZDgyMmZjZWY0ZjFlOTlhYmMxNmYzNTQ2ZmZh`

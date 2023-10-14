@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Static-X.",
+  "description": "n\u00fc-metal revival is happening here and now with Limp Bizkit.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -302,7 +302,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 225267,
       "name": "DETOX",
       "url": "https://open.spotify.com/track/7a3dzgrNu32WXb1ymJmgm2"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 192186,
       "name": "EMPTY",
       "url": "https://open.spotify.com/track/1lU1D4ay1tarkjkyEhxiSN"
@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "Hard Knock",
+        "url": "https://open.spotify.com/album/4z0FAe3hOWNG5McJu8JCUw"
+      },
+      "artists": [
+        {
+          "name": "Tallah",
+          "url": "https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169314,
+      "name": "Hard Knock",
+      "url": "https://open.spotify.com/track/3zxoPM98k49H9cuxsXPWoL"
+    },
+    {
+      "album": {
         "name": "I Remember",
         "url": "https://open.spotify.com/album/6hP42dqjbIWOS8gdHXWueK"
       },
@@ -699,6 +717,24 @@
     },
     {
       "album": {
+        "name": "STILL SUCKS",
+        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202862,
+      "name": "Out Of Style",
+      "url": "https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1"
+    },
+    {
+      "album": {
         "name": "Untitled (Deluxe)",
         "url": "https://open.spotify.com/album/5gizwaBQyfZYTEb8zdL7Z6"
       },
@@ -840,7 +876,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 177116,
       "name": "Soaking Nerves",
       "url": "https://open.spotify.com/track/16obiBx0cUuFG2ib5QRTfX"
@@ -952,6 +988,24 @@
       "duration_ms": 186965,
       "name": "This Is Over",
       "url": "https://open.spotify.com/track/5aX9v4Y1q1iibwYmsPVchf"
+    },
+    {
+      "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/5xTfpkXcdVjW5RjiWl4PkF"
+      },
+      "artists": [
+        {
+          "name": "(Hed) P.E.",
+          "url": "https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249728,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/1n110MY4nS0rX59wbpNoPS"
     },
     {
       "album": {

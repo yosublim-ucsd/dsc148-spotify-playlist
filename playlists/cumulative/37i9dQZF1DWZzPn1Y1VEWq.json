@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Turfshow",
+        "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224293,
+      "name": "Cuatro Personalidades",
+      "url": "https://open.spotify.com/track/1kTLi5AdnjOWyJg7oJmi52"
+    },
+    {
+      "album": {
         "name": "Cumbia Callejera",
         "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
       },
@@ -1278,7 +1296,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 305400,
       "name": "Que No Me Pierda",
       "url": "https://open.spotify.com/track/1hddbV736FaAFxMho50n75"

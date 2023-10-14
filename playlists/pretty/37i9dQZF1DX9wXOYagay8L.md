@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM?si=eCV516INQ4eGFsexO1dB5g">Muneyi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,361 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,407 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 49 | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG) | 4:09 |
 | 50 | [Umntu](https://open.spotify.com/track/4HG5pEkuERhQ6Y9HWKiLkr) | [Bravo Le Roux](https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umntu](https://open.spotify.com/album/6gFP86yvqkNRvLAaw4ptnF) | 3:56 |
 
-Snapshot ID: `MCw3NTM4ODg0NGM0ZGQzMGUzODlmN2IyYzAwYTVmNjUxYzk4ZjE4MjY4`
+Snapshot ID: `MCw5NDBhN2YxMmE4ZTViNTVjNTY3ZWExZDJmZDUzZWY5NmZhYzJiYzg5`

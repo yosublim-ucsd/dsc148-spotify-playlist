@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Sobel, Oki",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Mata",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -550,6 +550,24 @@
       "duration_ms": 195463,
       "name": "Gelato",
       "url": "https://open.spotify.com/track/5J8YMg4sdC4aRHjhumCrdc"
+    },
+    {
+      "album": {
+        "name": "GiEwOnT",
+        "url": "https://open.spotify.com/album/064ETxMz9Qnq5vfa9jOxUm"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322113,
+      "name": "GiEwOnT",
+      "url": "https://open.spotify.com/track/1fEh4NSXSaVhVGArLtxEiG"
     },
     {
       "album": {

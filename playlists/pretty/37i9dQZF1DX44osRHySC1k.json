@@ -1,12 +1,12 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 52166,
+  "num_followers": 52167,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjdmMzIyYTljMWIyYjdlNGVlMjdjZGY2YjIwZDZlMTY5MDZjNmM5",
+  "snapshot_id": "MCxmNGRjOWUzYjU1OWQxYTczZWMyM2U4ZDlhZjdkMzY3N2VlMDZkZWVk",
   "tracks": [
     {
       "added_at": "2021-06-24 10:58:44",
@@ -43,22 +43,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Fragment",
-        "url": "https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE"
-      },
-      "artists": [
-        {
-          "name": "Ever So Blue",
-          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "At Dawn",
-      "url": "https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Koyasan: Reiki Sound Healing",
         "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 478520,
       "name": "Lovesong from the Mountains",
       "url": "https://open.spotify.com/track/3MJd5S8ZIUp19dVvKxgNoe"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Fragment",
+        "url": "https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE"
+      },
+      "artists": [
+        {
+          "name": "Ever So Blue",
+          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "At Dawn",
+      "url": "https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF"
-      },
-      "artists": [
-        {
-          "name": "Berlioz",
-          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
-        }
-      ],
-      "duration_ms": 106050,
-      "name": "Origami",
-      "url": "https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "You'll Be In My Heart",
         "url": "https://open.spotify.com/album/6ryxDYCLluZ4E9s8xlQGNU"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 272874,
       "name": "You'll Be In My Heart",
       "url": "https://open.spotify.com/track/48TkJSl7gj38DZ8AMoI9Fs"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF"
+      },
+      "artists": [
+        {
+          "name": "Berlioz",
+          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
+        }
+      ],
+      "duration_ms": 106050,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -595,22 +595,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Mantric Melody",
-        "url": "https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9"
-      },
-      "artists": [
-        {
-          "name": "Havanna Chandri",
-          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
-        }
-      ],
-      "duration_ms": 111277,
-      "name": "Mantric Melody",
-      "url": "https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Lovely Thunder",
         "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 138426,
       "name": "Olancha Farewell",
       "url": "https://open.spotify.com/track/4KyJQKAFvEH4F52qSMuwIF"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Mantric Melody",
+        "url": "https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9"
+      },
+      "artists": [
+        {
+          "name": "Havanna Chandri",
+          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
+        }
+      ],
+      "duration_ms": 111277,
+      "name": "Mantric Melody",
+      "url": "https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -803,18 +803,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Moments of Tomorrow",
-        "url": "https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a"
+        "name": "Devotion 1: Blessings of the Heart",
+        "url": "https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub"
       },
       "artists": [
         {
-          "name": "Jean Petri",
-          "url": "https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G"
+          "name": "Ben Leinbach",
+          "url": "https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX"
         }
       ],
-      "duration_ms": 110434,
-      "name": "Loveliness",
-      "url": "https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx"
+      "duration_ms": 513546,
+      "name": "Mother's Wingspan",
+      "url": "https://open.spotify.com/track/2InC8TNlBd9N5E0leI2l8G"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -835,18 +835,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Devotion 1: Blessings of the Heart",
-        "url": "https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub"
+        "name": "Moments of Tomorrow",
+        "url": "https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a"
       },
       "artists": [
         {
-          "name": "Ben Leinbach",
-          "url": "https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX"
+          "name": "Jean Petri",
+          "url": "https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G"
         }
       ],
-      "duration_ms": 513546,
-      "name": "Mother's Wingspan",
-      "url": "https://open.spotify.com/track/2InC8TNlBd9N5E0leI2l8G"
+      "duration_ms": 110434,
+      "name": "Loveliness",
+      "url": "https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -947,6 +947,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Light of The Moon",
+        "url": "https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV"
+      },
+      "artists": [
+        {
+          "name": "Naturally Recurring",
+          "url": "https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF"
+        }
+      ],
+      "duration_ms": 249818,
+      "name": "Sunrise Glory",
+      "url": "https://open.spotify.com/track/4BOCx4hnSq0xWO3lcEbibQ"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Calm Moments Piano Music",
         "url": "https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 130688,
       "name": "Symphony Of Heaven",
       "url": "https://open.spotify.com/track/4QObDKYxh0rquU3njQ7rGi"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Light of The Moon",
-        "url": "https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV"
-      },
-      "artists": [
-        {
-          "name": "Naturally Recurring",
-          "url": "https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF"
-        }
-      ],
-      "duration_ms": 249818,
-      "name": "Sunrise Glory",
-      "url": "https://open.spotify.com/track/4BOCx4hnSq0xWO3lcEbibQ"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
-      },
-      "artists": [
-        {
-          "name": "Sufi Ellman",
-          "url": "https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz"
-        }
-      ],
-      "duration_ms": 135903,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 163012,
       "name": "Linger",
       "url": "https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
+      },
+      "artists": [
+        {
+          "name": "Sufi Ellman",
+          "url": "https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz"
+        }
+      ],
+      "duration_ms": 135903,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7"
-      },
-      "artists": [
-        {
-          "name": "Borghild Wenn",
-          "url": "https://open.spotify.com/artist/1r8KaUu0MuGreHt8J0ZqT7"
-        }
-      ],
-      "duration_ms": 152581,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "New Romantic Classical Piano and Violin Duets",
         "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 311146,
       "name": "Canon in D",
       "url": "https://open.spotify.com/track/5b7rilZzZG7QbiaXiMyWqz"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7"
+      },
+      "artists": [
+        {
+          "name": "Borghild Wenn",
+          "url": "https://open.spotify.com/artist/1r8KaUu0MuGreHt8J0ZqT7"
+        }
+      ],
+      "duration_ms": 152581,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Monument",
-        "url": "https://open.spotify.com/album/05oo8Bv67GY4iClgCrG6jv"
-      },
-      "artists": [
-        {
-          "name": "Leerseite",
-          "url": "https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "As She Awakens",
-      "url": "https://open.spotify.com/track/1tZxzyEBPmsMTOpc6t005r"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Heavenly Walk",
         "url": "https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 284513,
       "name": "Heavenly Walk",
       "url": "https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Monument",
+        "url": "https://open.spotify.com/album/05oo8Bv67GY4iClgCrG6jv"
+      },
+      "artists": [
+        {
+          "name": "Leerseite",
+          "url": "https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "As She Awakens",
+      "url": "https://open.spotify.com/track/1tZxzyEBPmsMTOpc6t005r"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Bubble",
-          "url": "https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Lover Man",
         "url": "https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 160250,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/6Qur3sb3jen75OnKG2Omv6"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Bubble",
+          "url": "https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL"
     },
     {
       "added_at": "2021-06-24 10:58:44",

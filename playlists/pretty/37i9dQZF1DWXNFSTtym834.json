@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 1205085,
+  "num_followers": 1205871,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzUxMmEzMDJhNzk0ZWVlZDU5YjA2ZTNlMDU1N2RmMGY0YTAzZGVk",
+  "snapshot_id": "MCw1ZDBmOThjMTQwMjhkOTc4NjJhMTlmNTI3OGMxNjhlZWJmNDI2OWFm",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "ObZen",
-        "url": "https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa"
-      },
-      "artists": [
-        {
-          "name": "Meshuggah",
-          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
-        }
-      ],
-      "duration_ms": 442733,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "XIII",
         "url": "https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 193813,
       "name": "Sun Doesn't Rise",
       "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "ObZen",
+        "url": "https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa"
+      },
+      "artists": [
+        {
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+        }
+      ],
+      "duration_ms": 442733,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Liebe ist f\u00fcr alle da",
-        "url": "https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z"
+        "name": "Desensitized",
+        "url": "https://open.spotify.com/album/2rLw6qyXE3fx4abX8acmhy"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Drowning Pool",
+          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
         }
       ],
-      "duration_ms": 301853,
-      "name": "Ich tu dir weh",
-      "url": "https://open.spotify.com/track/47gjUao1XjSO4fvVRm9L55"
+      "duration_ms": 197293,
+      "name": "Step Up",
+      "url": "https://open.spotify.com/track/4Q1w4Ryyi8KNxxaFlOQClK"
     }
   ],
   "unique_name": "00s Metal Classics",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,145 likes - 66 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,198 likes - 66 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 65 | [Her](https://open.spotify.com/track/3GGC9T0BpAQVuFxhdKd58W) | [Too Tired](https://open.spotify.com/artist/72Io2PZQgqVbYdkzPByKCT) | [Her](https://open.spotify.com/album/2X7ThRYFzSoTvhYyImTEiP) | 4:48 |
 | 66 | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/track/7GJLTr8zeooanCE8RmZsie) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/album/4ZasC1470HVVPBN3GM2Z2f) | 3:59 |
 
-Snapshot ID: `MCxlMGU2NmFhOTYyOWI1YWRjOTM5NDcxZGU3ZGU0Y2RhZjk3Yjg2MjMx`
+Snapshot ID: `MCwyOGQwMDU4ZjZkMjNjYjNkZjk1OTJmMjU0ZjhmYWM5ZDgyNzAxN2Iz`

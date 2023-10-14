@@ -2,9 +2,9 @@
 
 ### [Burrh Rap](https://open.spotify.com/playlist/37i9dQZF1DX4pHb5aF7Ipw)
 
-> Fresh Punjabi Rap\. Cover:  Prem Dhillon & Straight Bank
+> Fresh Punjabi Rap\. Cover:  Channi Nattan, Inderpal Moga & AR Paisley
 
-72 songs - 3 hr 32 min
+73 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 | 2023-05-26 |  |
 | [Gucci](https://open.spotify.com/track/7wkAbTbO0iaLuoTvAkWMCV) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Grit 2 Glory](https://open.spotify.com/album/4FRL6MDkCyQdyHi6umE2af) | 2:58 | 2023-07-27 |  |
 | [Hail](https://open.spotify.com/track/1UG1pIgd5f1NU0byyGfm6w) | [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Nothing to Prove](https://open.spotify.com/album/2F4jmLN6kAFzWzlabRMm0J) | 2:10 | 2023-03-18 | 2023-04-27 |
-| [HELLCAT](https://open.spotify.com/track/6UhcId8Fy6YByPYziOja5W) | [SOHAL](https://open.spotify.com/artist/4btWEiFCBW3yM80dXqq3p8), [Joban Dhillon](https://open.spotify.com/artist/7CDkAERLEgW9vI1g6RV764) | [HELLCAT](https://open.spotify.com/album/4VacXInq7MmyeZUmgzlDYd) | 3:25 | 2023-03-18 |  |
+| [HELLCAT](https://open.spotify.com/track/6UhcId8Fy6YByPYziOja5W) | [SOHAL](https://open.spotify.com/artist/4btWEiFCBW3yM80dXqq3p8), [Joban Dhillon](https://open.spotify.com/artist/7CDkAERLEgW9vI1g6RV764) | [HELLCAT](https://open.spotify.com/album/4VacXInq7MmyeZUmgzlDYd) | 3:25 | 2023-03-18 | 2023-10-14 |
 | [HELLO](https://open.spotify.com/track/5HTVLbAStMB6MgfGOww6xW) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:54 | 2023-03-18 | 2023-04-27 |
 | [HOBBIES](https://open.spotify.com/track/18wzW9g7ydcXFlz3PRuQE6) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:48 | 2023-07-31 |  |
 | [Hustle Evuryday](https://open.spotify.com/track/3esqivaz1tFBLv2QeuEfiQ) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:46 | 2023-05-26 | 2023-07-28 |
@@ -80,5 +80,6 @@
 | [W](https://open.spotify.com/track/2c4J01PS0n3oGz0uTHBnK8) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [W](https://open.spotify.com/album/0lOS792KEOjaIjlAMW4dNP) | 3:09 | 2023-03-18 | 2023-05-27 |
 | [We Rollin](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 | 2023-03-18 |  |
 | [Westside](https://open.spotify.com/track/2dUX9zE4jvLbSoLME77qz1) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Grit 2 Glory](https://open.spotify.com/album/4FRL6MDkCyQdyHi6umE2af) | 3:08 | 2023-07-27 |  |
+| [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/track/08XzbojBXDW2GOGKQXt1ga) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/album/5yHCpPgd6ejBh3rHRZ5WSK) | 2:40 | 2023-10-13 |  |
 
 \*This playlist was first scraped on 2023-03-30. Prior content cannot be recovered.

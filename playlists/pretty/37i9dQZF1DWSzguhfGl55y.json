@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 618700,
+  "num_followers": 618662,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTlkOWVmMWUwZjE0OWIyMjg2OGQ3OTRkMWU5YjkxNjQ0NDkzYmJk",
+  "snapshot_id": "MCwxNTI5MzZlZjAzYWYwM2QwZGMyNDNjYmZlNjBlZjVkYzk0OGE0NmI2",
   "tracks": [
     {
       "added_at": "2023-10-11 12:51:15",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v"
+      },
+      "artists": [
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Du bist Boss",
+      "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
         "name": "New Dubby Conquerors",
         "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 284906,
       "name": "Dickes B (feat. Black Kappa)",
       "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v"
-      },
-      "artists": [
-        {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
-        }
-      ],
-      "duration_ms": 163506,
-      "name": "Du bist Boss",
-      "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
     },
     {
       "added_at": "2023-10-11 12:51:15",

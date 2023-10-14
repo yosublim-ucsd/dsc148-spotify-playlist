@@ -2052,7 +2052,7 @@
     {
       "album": {
         "name": "Carrie & Lowell & Cody (Pendent)",
-        "url": "https://open.spotify.com/album/7Gu5f03bP20s7holoeIO3E"
+        "url": "https://open.spotify.com/album/1dVLmx7MeskNv1bwe6MY8Y"
       },
       "artists": [
         {
@@ -2063,6 +2063,24 @@
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 236130,
+      "name": "Carrie & Lowell & Cody (Pendent)",
+      "url": "https://open.spotify.com/track/5AzFP6taTTCZp0SU18jxpc"
+    },
+    {
+      "album": {
+        "name": "Carrie & Lowell & Cody (Pendent)",
+        "url": "https://open.spotify.com/album/7Gu5f03bP20s7holoeIO3E"
+      },
+      "artists": [
+        {
+          "name": "Say Anything",
+          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
       "duration_ms": 236130,
       "name": "Carrie & Lowell & Cody (Pendent)",
       "url": "https://open.spotify.com/track/5zxw8pF2P97NMSzGsdCgzg"

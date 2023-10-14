@@ -4,7 +4,7 @@
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-126 songs - 6 hr 29 min
+128 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,13 +93,15 @@
 | [Oh Christmas Tree](https://open.spotify.com/track/4RWrGsl1Thdb3dMFxu69ZT) | [Tiny Stills Quartet](https://open.spotify.com/artist/5YxesetSDEooEMdNHKKDFk) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/05PvwbGSgcL5vwB7vOkYVd) | 1:49 | 2022-10-27 |  |
 | [Oh what a merry christmas day](https://open.spotify.com/track/4lIPBRlA44zsLXpGzg3mS1) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Oh what a merry christmas day](https://open.spotify.com/album/68NZ8wGUvONWBNzaYoosN3) | 1:36 | 2023-10-13 |  |
 | [Once in Royal David's City](https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Once in Royal David's City](https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp) | 2:45 | 2021-12-21 |  |
-| [Please Come Home for Christmas](https://open.spotify.com/track/528sRoUStf8eqZS1bLwVQP) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 2:33 | 2023-10-13 |  |
+| [Please come home for christmas](https://open.spotify.com/track/4CjsInvWGmHOxxVQ2sS9F4) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Please come home for christmas](https://open.spotify.com/album/5r2ZzaDZhyqzORtTWnbYPM) | 2:33 | 2023-10-13 |  |
+| [Please Come Home for Christmas](https://open.spotify.com/track/528sRoUStf8eqZS1bLwVQP) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 2:33 | 2023-10-13 | 2023-10-14 |
 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/19liWJnMu8RapUGKR6Y8fx) | [Kyle Mendes Jazz Trio](https://open.spotify.com/artist/0KZqPiOKt79SlPR6kzZUm2) | [I'll Be Home For Christmas](https://open.spotify.com/album/3JFeZMiH5g3cXfrxpNkXtS) | 3:21 | 2022-10-20 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/1QtANQCg5sUog4R0fBCToN) | [The Jazzagogs](https://open.spotify.com/artist/7pFWPdj7yTUGqLUCoIOHjF) | [Jazzy Christmas](https://open.spotify.com/album/6tb3VXCdGgjreH2uUrWoOU) | 2:27 | 2021-12-21 | 2022-09-17 |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/05WIbRwXFuQQKmPMf9KF0U) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [I'll Be Home for Christmas](https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh) | 4:23 | 2021-12-21 |  |
 | [Santa Baby](https://open.spotify.com/track/2SOy3BewGYpYy3zIJKREqw) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Santa Baby](https://open.spotify.com/album/3LZEEwdEdWvZW0EIWHFhcL) | 2:50 | 2021-12-21 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Trio 64](https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv) | 4:24 | 2021-12-21 |  |
-| [Santa Tell Me](https://open.spotify.com/track/44RdYUqTwUvlQlTBnRNUkq) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 2:18 | 2023-10-13 |  |
+| [Santa tell me](https://open.spotify.com/track/1g5N61jKCHgVpSYYBz9FDV) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Santa tell me](https://open.spotify.com/album/7Jtr3x70ZlCJ5Igqw1Zwhu) | 2:18 | 2023-10-13 |  |
+| [Santa Tell Me](https://open.spotify.com/track/44RdYUqTwUvlQlTBnRNUkq) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 2:18 | 2023-10-13 | 2023-10-14 |
 | [Silent Night](https://open.spotify.com/track/1ly2fVX5oa3mEYIIJmZy7y) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Silent Night](https://open.spotify.com/album/494ISYC4VJgaXehehLU6zI) | 3:03 | 2021-12-21 |  |
 | [Silver Bells](https://open.spotify.com/track/5cT9UuSKWfCYbDCDQwS2aY) | [Art Silver Trio](https://open.spotify.com/artist/1IdNwXpBJIXak2tdHmICgT) | [Home For Christmas](https://open.spotify.com/album/1K6iFbZbde2NZetHrW1Jj0) | 4:09 | 2022-10-07 |  |
 | [Sleigh Ride](https://open.spotify.com/track/0yp7zmlUcv3kbX5Hlp1BDd) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Merry Ole Soul](https://open.spotify.com/album/2Px6XKffVuuPx6zaTEDwlx) | 6:26 | 2021-12-21 | 2022-10-08 |

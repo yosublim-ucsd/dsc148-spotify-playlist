@@ -2,9 +2,9 @@
 
 ### [Rock Leve](https://open.spotify.com/playlist/37i9dQZF1DX4vCk1GJH7zl)
 
-> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Raphael Ota
+> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Jota Quest
 
-96 songs - 5 hr 51 min
+97 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Menina Linda](https://open.spotify.com/track/7HUiek8MyBiLGM33NzgUSm) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha](https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE) | 3:00 | 2023-07-21 |  |
 | [Mercado](https://open.spotify.com/track/18o5wKZ5M3onKU69OZD5Cs) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [B\-Sides Gêmeos](https://open.spotify.com/album/1ef3KBKANvCTkDauRecAa5) | 3:06 | 2023-07-21 | 2023-08-05 |
 | [Música de Botar o Papo no Lugar](https://open.spotify.com/track/38389u9gqu5jd9RiSy2jEH) | [Scatolove](https://open.spotify.com/artist/0icMce3ZQU1HdA8gGHo5Rg) | [Música de Botar o Papo no Lugar](https://open.spotify.com/album/2dU7Mwqk5B31axoHYs5LqY) | 2:53 | 2023-07-21 |  |
+| [N\-U\-M\-A\-B\-O\-A](https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [De Volta Ao Novo \- Volume 1](https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC) | 3:06 | 2023-10-13 |  |
 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/4GifjoggvmG2sYEGE2PsIu) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny) | 5:22 | 2023-07-21 |  |
 | [No Delta dos Rios](https://open.spotify.com/track/7ifgiwIrIWAlckZPXSL2m2) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Power Trio](https://open.spotify.com/album/4my2f5Jg1MTotcaknswcxR) | 4:03 | 2023-09-15 |  |
 | [No Small Thing](https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [No Small Thing](https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm) | 4:42 | 2023-07-21 |  |
@@ -102,7 +103,7 @@
 | [Vida Real](https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il) | [Esteban Tavares](https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o) | [Vida Real](https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE) | 3:50 | 2023-07-21 |  |
 | [Você Gosta Dela \(Versão Alternativa\)](https://open.spotify.com/track/7e4KJGvzSZqk2c83BarqDZ) | [Daparte](https://open.spotify.com/artist/6D5hUhZncLiNMeE3gq9BhL) | [Docefuga](https://open.spotify.com/album/1FdOa6QJz3jyhFDnfzOMfO) | 2:39 | 2023-07-21 |  |
 | [VOU ESTAR AQUI](https://open.spotify.com/track/68a7d2NiPRLsKaKZ5qPPSU) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Polaroid Sonora](https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb) | 4:16 | 2023-07-21 |  |
-| [Wishbone](https://open.spotify.com/track/5kmyEZWbvN68yERmQq3PM5) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Wishbone](https://open.spotify.com/album/3epsVwCw6BGWKBa3kplHRr) | 2:52 | 2023-09-08 |  |
+| [Wishbone](https://open.spotify.com/track/5kmyEZWbvN68yERmQq3PM5) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Wishbone](https://open.spotify.com/album/3epsVwCw6BGWKBa3kplHRr) | 2:52 | 2023-09-08 | 2023-10-14 |
 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Your Song Saved My Life \(From Sing 2\)](https://open.spotify.com/album/0lgSYiY3qT4Q9myulgxhAu) | 3:30 | 2023-07-21 |  |
 
 \*This playlist was first scraped on 2023-07-23. Prior content cannot be recovered.

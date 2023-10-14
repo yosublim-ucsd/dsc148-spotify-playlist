@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Kynnie
 
-156 songs - 7 hr 58 min
+157 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Corro Atrás](https://open.spotify.com/track/3VJUR4rLMi2THddhBG5oiU) | [Laura Padaratz](https://open.spotify.com/artist/1CX0AnKbxgsOWp2bqVydqk) | [Corro Atrás](https://open.spotify.com/album/50Rhfq6iyQcPjIJMiOXLgp) | 3:45 | 2023-08-25 |  |
 | [Daddy](https://open.spotify.com/track/5nuyy5eLGMCn10BW1yXQ5b) | [Shamilla](https://open.spotify.com/artist/5jZSvXknZbgk0gdObdTnh2), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Daddy](https://open.spotify.com/album/5hrJhU1uUGlw15hwCMqO5k) | 2:48 | 2022-12-01 | 2022-12-17 |
 | [Delírio](https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG) | [INAHUGO](https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR) | [Estou Aqui](https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr) | 3:47 | 2022-12-02 |  |
+| [Depois da Briga](https://open.spotify.com/track/3Oec1XgUMdF58bIRlK40Qt) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [Só Vem](https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC) | 2:57 | 2023-10-13 |  |
 | [Devi](https://open.spotify.com/track/5tXVcUSWxmyydJJ9IFLfHF) | [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Melissa Hartman](https://open.spotify.com/artist/7F4XNGirBB17gfXa1yov36), [Leo Ost](https://open.spotify.com/artist/1rQb8CUCS1rCyOCyAg1mJE) | [Devi](https://open.spotify.com/album/0aomgOztLFDXdWKyZJyO02) | 3:16 | 2023-02-24 | 2023-04-09 |
 | [Difícil Lembrar, né?](https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Difícil Lembrar, né?](https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM) | 2:35 | 2022-11-18 | 2023-08-12 |
 | [Distante](https://open.spotify.com/track/3r0zI5rvz8v2XHI40UG2LV) | [Milly](https://open.spotify.com/artist/6TvlW0KQY1sJ8LnJdqE9T8), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Distante](https://open.spotify.com/album/4P057UfmWhYcJJzdAvqTp8) | 2:09 | 2023-09-29 |  |
@@ -114,7 +115,7 @@
 | [PLAYLIST TRANSANTE 2.0](https://open.spotify.com/track/4V5GHvgM5B9ZSzactTSM0b) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [PLAYLIST TRANSANTE 2.0](https://open.spotify.com/album/30pit7bea2hbcBbVRTruUM) | 2:28 | 2023-08-25 | 2023-10-07 |
 | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG) | 4:30 | 2022-11-18 | 2023-04-09 |
 | [Pontas Soltas](https://open.spotify.com/track/7ESVKGM7Vql3SGqejbJ3DQ) | [Fresh Mind Co.](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Amxedx](https://open.spotify.com/artist/0rP1RgNU08Y99fjfdwH3h0), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Pontas Soltas](https://open.spotify.com/album/1WQgU6bnnSvV0KtkxHu2bQ) | 3:12 | 2022-11-18 | 2023-03-11 |
-| [Ponto de Equilíbrio](https://open.spotify.com/track/7c4JagpZuj0wWkJmYMubyV) | [Mutanx](https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM), [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624) | [Ponto de Equilíbrio](https://open.spotify.com/album/4qGNPs1xnmEbRXEF4DAQqH) | 3:13 | 2023-04-07 |  |
+| [Ponto de Equilíbrio](https://open.spotify.com/track/7c4JagpZuj0wWkJmYMubyV) | [Mutanx](https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM), [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624) | [Ponto de Equilíbrio](https://open.spotify.com/album/4qGNPs1xnmEbRXEF4DAQqH) | 3:13 | 2023-04-07 | 2023-10-14 |
 | [Por Isso Me Liga](https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Por Isso Me Liga](https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh) | 3:39 | 2022-11-18 |  |
 | [Por Mim Já Deu](https://open.spotify.com/track/1YLLdxzhlR4Fac5EL5XKJz) | [Duda Kropf](https://open.spotify.com/artist/5CoeMEElVJh6eFPtq2ahNJ) | [Por Mim Já Deu](https://open.spotify.com/album/3EBP1z3dhTcCpC5zFTGZjy) | 2:30 | 2023-07-14 | 2023-08-12 |
 | [Pra Mim Não Dá](https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu) | [Juliah](https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Pra Mim Não Dá](https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K) | 2:33 | 2022-11-18 |  |

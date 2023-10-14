@@ -4,7 +4,7 @@
 
 > Indian Indie songs we loved the most in 2022\. Cover \- Aditya A \#SpotifyWrapped
 
-51 songs - 2 hr 51 min
+52 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 | 2023-05-09 |  |
 | [Gangster](https://open.spotify.com/track/1j4Lb5IaAUfwvwbWhxX7D2) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Made You Proud](https://open.spotify.com/album/1fNqSeMllriqw6YYFnkYC6) | 2:41 | 2023-05-09 |  |
 | [GRIND](https://open.spotify.com/track/16xg7UwH9hbs96vCD8k6bC) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [GRIND](https://open.spotify.com/album/7DSQCxFH7gCzV8kiydlVDX) | 2:55 | 2023-05-09 |  |
-| [Gul](https://open.spotify.com/track/0NLkVxf0PyxsXBG3EuZcJf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Gul](https://open.spotify.com/album/0aD1s9SFgIIZG95AzVhLC7) | 3:37 | 2023-05-09 |  |
+| [Gul](https://open.spotify.com/track/0NLkVxf0PyxsXBG3EuZcJf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Gul](https://open.spotify.com/album/0aD1s9SFgIIZG95AzVhLC7) | 3:37 | 2023-05-09 | 2023-10-14 |
+| [Gul](https://open.spotify.com/track/6ivemTXTn27PwVjtd0oqDs) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Gul](https://open.spotify.com/album/7gxvq2TLEEThZzaOQEOI2r) | 3:37 | 2023-09-26 |  |
 | [Har Ek Pal](https://open.spotify.com/track/7rtaBPvxCSw2bKY8miNyLa) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Har Ek Pal](https://open.spotify.com/album/2RoUZGNPhfuXC83dNedyvU) | 3:16 | 2023-05-09 |  |
 | [Heer Ranjha](https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Heer Ranjha](https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63) | 3:43 | 2023-05-09 |  |
 | [Intezaar](https://open.spotify.com/track/6AlW2ZNQlzIKReQ1CS8J9r) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Intezaar](https://open.spotify.com/album/6Z4DXqYqQJc6XLzvPaSynt) | 3:55 | 2023-05-09 |  |

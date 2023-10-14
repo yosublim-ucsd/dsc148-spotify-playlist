@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:5lDtfHPqWN6MG9tFywnW8J">Kiefer</a> shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,487 likes - 31 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,495 likes - 31 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 30 | [Matrix](https://open.spotify.com/track/13VdXFe27FOq9CW2CJaxID) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Now He Sings, Now He Sobs](https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE) | 6:28 |
 | 31 | [Hackensack](https://open.spotify.com/track/0lAlm98HpGCy2Sc4G0UMNm) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Criss\-Cross \(Expanded Edition\)](https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI) | 4:12 |
 
-Snapshot ID: `MCwzYjY1ZDNjNGQxNjE5ZTBkMjE2MzRiYTUwYmQ4MDdkMGNhNTU1N2Fl`
+Snapshot ID: `MCw3NDEyMTEzNjY3MmI4ODYwOWFhY2UxYWM0ZDA5MTU3NTc3Mjc5NzRh`

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 
 > Icons only\. Cover: Duran Duran
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,304 likes - 52 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,320 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DANSE MACABRE](https://open.spotify.com/track/4yavYy5vhqkX8Sv8DRqVbJ) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [DANSE MACABRE](https://open.spotify.com/album/06HreThIz90gKClFT9sz0v) | 4:22 |
-| 2 | [Where Do We Go From Here?](https://open.spotify.com/track/3GIIWN4clCuforFuVsS768) | [Agnetha Fältskog](https://open.spotify.com/artist/7fUtt9kVZOyn9LWy0JbDRI) | [Where Do We Go From Here?](https://open.spotify.com/album/0kScLT4hNA8lPemoLxRz40) | 3:13 |
-| 3 | [Fake It 'Til You Make It](https://open.spotify.com/track/6hiURAxDXme5mWZUg6sBj9) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Automatic](https://open.spotify.com/album/3XEVD5T03YvAoojsCXlTgq) | 3:18 |
-| 4 | [Beautiful World](https://open.spotify.com/track/3jUvfhQkh89AHkl2f4nNAE) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Beautiful World](https://open.spotify.com/album/6t00567XAMyOx3B7Yj0cEG) | 3:19 |
-| 5 | [Dippin My Feet](https://open.spotify.com/track/0hb9885MfdqibhnFysxCon) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Dippin My Feet](https://open.spotify.com/album/2S2jgHkv3R3lmc92DPHSjy) | 3:13 |
+| 1 | [Forever and More](https://open.spotify.com/track/0B9xp10eoOa1XK5F30gY0l) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Are We There Yet?](https://open.spotify.com/album/0BuCV5EL2sM6iUvaxFtpPx) | 3:37 |
+| 2 | [DANSE MACABRE](https://open.spotify.com/track/4yavYy5vhqkX8Sv8DRqVbJ) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [DANSE MACABRE](https://open.spotify.com/album/06HreThIz90gKClFT9sz0v) | 4:22 |
+| 3 | [Where Do We Go From Here?](https://open.spotify.com/track/3GIIWN4clCuforFuVsS768) | [Agnetha Fältskog](https://open.spotify.com/artist/7fUtt9kVZOyn9LWy0JbDRI) | [Where Do We Go From Here?](https://open.spotify.com/album/0kScLT4hNA8lPemoLxRz40) | 3:13 |
+| 4 | [Fake It 'Til You Make It](https://open.spotify.com/track/6hiURAxDXme5mWZUg6sBj9) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Automatic](https://open.spotify.com/album/3XEVD5T03YvAoojsCXlTgq) | 3:18 |
+| 5 | [Beautiful World](https://open.spotify.com/track/3jUvfhQkh89AHkl2f4nNAE) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Beautiful World](https://open.spotify.com/album/6t00567XAMyOx3B7Yj0cEG) | 3:19 |
 | 6 | [What You Heard](https://open.spotify.com/track/4y4C6YlIAf9Wjx65uU7nOg) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [What You Heard](https://open.spotify.com/album/5egLTfkAIvzX8y5FWFerxV) | 3:44 |
 | 7 | [Love Again](https://open.spotify.com/track/7LYV8DzfYdArevWVyNNIZ0) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Love Again \(Soundtrack from the Motion Picture\)](https://open.spotify.com/album/1YV5gnob3qCnMQuVomwGwG) | 3:32 |
 | 8 | [Lost Inside Your Heart](https://open.spotify.com/track/6YTU4q4ti2tcqIUpbN63I1) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Lost Inside Your Heart](https://open.spotify.com/album/3KYaEaS8IySjbFUgjLIi74) | 4:04 |
@@ -50,15 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 | 40 | [Metal Water Wood](https://open.spotify.com/track/74xme6fG8qeC7BfwXiDa7j) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Ocean to Ocean](https://open.spotify.com/album/08dsnxebW6wZCu8NpmK3kn) | 4:00 |
 | 41 | [One More Cup Of Coffee](https://open.spotify.com/track/2I6UEY3f6CQ1rsbpn3Cg7H) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time](https://open.spotify.com/album/06iDUt5q4pxGHcide19i7X) | 3:45 |
 | 42 | [Superwoman](https://open.spotify.com/track/6moeh7teMhi1ykOZNFDzP7) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/0ltGYHMBZivXbYkjbxyeVV) | 3:41 |
-| 43 | [Finish Line](https://open.spotify.com/track/2mRK4OJ96kntvBe141m9AW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Finish Line](https://open.spotify.com/album/0AiRY02hMgv49bJlqCQNPG) | 4:24 |
-| 44 | [I Don't Mind](https://open.spotify.com/track/5qO1z8NyHcPCcjgxAnFMgj) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Lindsey Buckingham](https://open.spotify.com/album/0atVY7fmPpavJNvQjXxcPG) | 4:05 |
-| 45 | [We Gotta Find Love](https://open.spotify.com/track/0TyXBdGk2qGLrZLWcj8qJd) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [One World](https://open.spotify.com/album/54Z9zCRlk506q4mS2MXwIL) | 4:46 |
-| 46 | [Newspaper Pane](https://open.spotify.com/track/6IseHnFfBqw6k0ACVshrzP) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Hey Clockface](https://open.spotify.com/album/5HwgDLgmrGk6rXd2UPWIsE) | 4:10 |
-| 47 | [Walls](https://open.spotify.com/track/4Re3AZ3OmQWxQHX0NtOzid) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Walls](https://open.spotify.com/album/5QDnUqAeP7Zq51NASyfri1) | 3:32 |
-| 48 | [Knockabout World](https://open.spotify.com/track/5Ru1T8rme8tDQWjADHrMSQ) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [I Am Not a Dog on a Chain](https://open.spotify.com/album/40ujnXEoJYbg0AaI9iDaVN) | 3:25 |
-| 49 | [Dancin' in the Aisles](https://open.spotify.com/track/2rHdLK2ul2kZsf25gBdPVF) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Dancin' in the Aisles](https://open.spotify.com/album/3MaOmRCy1qfE5nSZvJMYpd) | 3:26 |
-| 50 | [The Buzz](https://open.spotify.com/track/3fMW1VEAcVw5UXfXYxyjoc) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Hate for Sale](https://open.spotify.com/album/1A88QI9i0LT4ClZgoQIl0t) | 3:50 |
-| 51 | [Find My Way](https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney III](https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884) | 3:54 |
-| 52 | [Bang A Gong \(Get It On\)](https://open.spotify.com/track/53D3QRrXV0vyy2PSXAhuxG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Bang A Gong \(Get It On\)](https://open.spotify.com/album/0aptgsGtrV5XvnopE7ZjSo) | 4:26 |
+| 43 | [We Gotta Find Love](https://open.spotify.com/track/0TyXBdGk2qGLrZLWcj8qJd) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [One World](https://open.spotify.com/album/54Z9zCRlk506q4mS2MXwIL) | 4:46 |
+| 44 | [Newspaper Pane](https://open.spotify.com/track/6IseHnFfBqw6k0ACVshrzP) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Hey Clockface](https://open.spotify.com/album/5HwgDLgmrGk6rXd2UPWIsE) | 4:10 |
+| 45 | [Walls](https://open.spotify.com/track/4Re3AZ3OmQWxQHX0NtOzid) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Walls](https://open.spotify.com/album/5QDnUqAeP7Zq51NASyfri1) | 3:32 |
+| 46 | [Knockabout World](https://open.spotify.com/track/5Ru1T8rme8tDQWjADHrMSQ) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [I Am Not a Dog on a Chain](https://open.spotify.com/album/40ujnXEoJYbg0AaI9iDaVN) | 3:25 |
+| 47 | [Dancin' in the Aisles](https://open.spotify.com/track/2rHdLK2ul2kZsf25gBdPVF) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Dancin' in the Aisles](https://open.spotify.com/album/3MaOmRCy1qfE5nSZvJMYpd) | 3:26 |
+| 48 | [The Buzz](https://open.spotify.com/track/3fMW1VEAcVw5UXfXYxyjoc) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Hate for Sale](https://open.spotify.com/album/1A88QI9i0LT4ClZgoQIl0t) | 3:50 |
+| 49 | [Find My Way](https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney III](https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884) | 3:54 |
+| 50 | [Bang A Gong \(Get It On\)](https://open.spotify.com/track/53D3QRrXV0vyy2PSXAhuxG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Bang A Gong \(Get It On\)](https://open.spotify.com/album/0aptgsGtrV5XvnopE7ZjSo) | 4:26 |
 
-Snapshot ID: `MCwwYTU1NmE5NjZiMDE4NjJiYjQwNzU0NDdkMDlmYTIxMWNkMjU0OTEw`
+Snapshot ID: `MCw5OWZiOWM3MTJjODc5ZThkNDZlNjVhOTg1YzZkMjQzN2Y0OWI5N2Q5`

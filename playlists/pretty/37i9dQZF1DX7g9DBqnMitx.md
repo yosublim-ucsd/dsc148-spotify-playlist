@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 
 > Le cinéma ça s'écoute aussi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,118 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,124 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 | 23 | [City Of Stars \- From "La La Land" Soundtrack](https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Emma Stone](https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 2:29 |
 | 24 | [No Time To Die](https://open.spotify.com/track/527BVezmvYjbc4JlVJW4Xj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1) | 4:04 |
 | 25 | [Streets of Philadelphia](https://open.spotify.com/track/5Nj8kBJdpJJ4I9wxQyp8JH) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [PHILADELPHIA \- Music From The Motion Picture](https://open.spotify.com/album/7EpzUNDXiDs0OJT4JERRYa) | 4:12 |
-| 26 | [Mission Impossible \- Main Theme](https://open.spotify.com/track/1lJOpbGH9gjjgcIumHIBrT) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Mission Impossible \(Music From The Original Motion Picture Score\)](https://open.spotify.com/album/1aCteG5YyqJJru3TSGTx79) | 1:02 |
+| 26 | [Mission Impossible \- Main Theme](https://open.spotify.com/track/1lJOpbGH9gjjgcIumHIBrT) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [Artie Kane](https://open.spotify.com/artist/6RwUkJwCo9vHoolEopAr3m) | [Mission Impossible \(Music From The Original Motion Picture Score\)](https://open.spotify.com/album/1aCteG5YyqJJru3TSGTx79) | 1:02 |
 | 27 | [L'histoire de la vie/Nants' Ingonyama](https://open.spotify.com/track/3nDpT4CRyVhnkGcJ0LdbqA) | [China Moses](https://open.spotify.com/artist/2KqBple0Yu8pssNGNvWNmV), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [Le Roi Lion \(Bande Originale Française du Film\)](https://open.spotify.com/album/40YiN3kE9hCzPh86FAMVVg) | 4:01 |
 | 28 | [\(I've Had\) The Time Of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/6W7ztLBiRzBN46ZaPAcQ0F) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 4:50 |
 | 29 | [Girl, You'll Be a Woman Soon](https://open.spotify.com/track/1mSzuXVjjKC0bPh6iG6xjy) | [Urge Overkill](https://open.spotify.com/artist/5LEUigTSXpwrtERRcSW1N4) | [Stull](https://open.spotify.com/album/07gzuMURkIJ7Iatsz3Uqw0) | 3:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 | 69 | [Society](https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Into The Wild \(Music For The Motion Picture\)](https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX) | 3:56 |
 | 70 | [Reality](https://open.spotify.com/track/1gci2QBGH5nzPWePv6ATom) | [Vladimir Cosma](https://open.spotify.com/artist/30YHp6jELIUSYUGssR9JRY), [Richard Sanderson](https://open.spotify.com/artist/2VYfYBKv8RPlY3MhwI7mSR) | [La boum \(Bande originale du film de Claude Pinoteau\)](https://open.spotify.com/album/57piLRISNJFwpMwXfWC5kL) | 4:49 |
 
-Snapshot ID: `MCw1NmJmNTBjNGY5MTkxNzgyN2Q2YzgwMmU4NzI5MjIxYjY2MTU0NzA1`
+Snapshot ID: `MCw2Y2NmZmJkOTdjOTM3OWNmZWE1NWQ4MjhmMjA0ODg5NWNmMDJkNzRk`

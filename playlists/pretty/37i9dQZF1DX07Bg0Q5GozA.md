@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: The Streets
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,927 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,591 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [How Music Makes You Feel Better \- Edit](https://open.spotify.com/track/2bBuxaPbzrUGK9rnLJ5fFN) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [How Music Makes You Feel Better](https://open.spotify.com/album/4mUY2PlUa8qducN1OyWu4w) | 3:21 |
 | 75 | [Take Time](https://open.spotify.com/track/4RZExYWr4eRIvVdQkh3jxF) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [Sunset Blue](https://open.spotify.com/album/6Hyx6HDRUTG8wKtxuqTcQa) | 3:38 |
 
-Snapshot ID: `MCxjMzM1YmVmMmE5OTljM2IxYTQ0NTlhYWQ0YjUwM2VkOGM5Y2Q4OTQw`
+Snapshot ID: `MCxkN2E3OWIxOGZjNzliMmM3ZDIxMGQwNDZjNDJjZWJlMjIyYWI1YWYx`

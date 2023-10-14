@@ -1,12 +1,12 @@
 {
-  "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side A",
-  "num_followers": 54256,
+  "description": "Check out the latest hits from Sandalwood!\nCover : Ghost",
+  "num_followers": 54301,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTgyZGJjNjdhOTcwOWIxNGIyMGEyYzU1MmUzNTNmZTU0YmIxOWYx",
+  "snapshot_id": "MCw1ZTFhY2RkZjg2MzE5MjkzZTliYmJkZDg2Mzg5MGI3NjRlODEzNzk1",
   "tracks": [
     {
       "added_at": "2023-10-12 03:38:35",
@@ -93,6 +93,34 @@
       "url": "https://open.spotify.com/track/1SRXTf3yNjZh1x0DTQv6MH"
     },
     {
+      "added_at": "2023-10-13 11:40:34",
+      "album": {
+        "name": "Naa Ready [From \"Leo (Kannada)\"]",
+        "url": "https://open.spotify.com/album/2Q3JxgvQbEWacIkcjVt3UT"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "L. V. Revanth",
+          "url": "https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB"
+        },
+        {
+          "name": "Roll Rida",
+          "url": "https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj"
+        },
+        {
+          "name": "Ritesh G Rao",
+          "url": "https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz"
+        }
+      ],
+      "duration_ms": 248181,
+      "name": "Naa Ready (From \"Leo (Kannada)\")",
+      "url": "https://open.spotify.com/track/3385GNbN3vSr53ePAIqo4M"
+    },
+    {
       "added_at": "2023-10-12 13:40:46",
       "album": {
         "name": "Sakhi (From \"Blink\")",
@@ -108,8 +136,8 @@
           "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
         },
         {
-          "name": "Siddartha Belmannu",
-          "url": "https://open.spotify.com/artist/5XfdsTcXpygFRC6dxjODBC"
+          "name": "Siddhartha Belmannu",
+          "url": "https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc"
         }
       ],
       "duration_ms": 273157,
@@ -135,6 +163,30 @@
       "duration_ms": 233413,
       "name": "Jaggade Kuggade (From \"Ronnie - The Hunter\")",
       "url": "https://open.spotify.com/track/3JPqLECC7amVkYrxUsMDpK"
+    },
+    {
+      "added_at": "2023-10-13 07:11:45",
+      "album": {
+        "name": "Ene Sikthu Malli Ninge (From \"Hejjaru\")",
+        "url": "https://open.spotify.com/album/2HkIz1WZgvs94wClpijeok"
+      },
+      "artists": [
+        {
+          "name": "Poornachandra Tejaswi S.V.",
+          "url": "https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX"
+        },
+        {
+          "name": "Harshapriya",
+          "url": "https://open.spotify.com/artist/124VVnT2v2M3Ucb5r099j2"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "duration_ms": 273230,
+      "name": "Ene Sikthu Malli Ninge (From \"Hejjaru\")",
+      "url": "https://open.spotify.com/track/6XaUnemvzyduP2zzFXifsV"
     },
     {
       "added_at": "2023-09-20 12:59:03",
@@ -227,17 +279,17 @@
     {
       "added_at": "2023-10-12 13:40:46",
       "album": {
-        "name": "Oppisikolteeni (From \"Tiger Nageswara Rao\") (Kannada)",
-        "url": "https://open.spotify.com/album/7knuC8FT3yxyrYk7juF7MO"
+        "name": "Oppisikolteeni (From \"Tiger Nageswara Rao\")",
+        "url": "https://open.spotify.com/album/1FCgiWpa7ic3elcMPdWKDz"
       },
       "artists": [
         {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
           "name": "Ramya Bhat Abhyankar",
           "url": "https://open.spotify.com/artist/0wqiIwWvYsOAcZdtJLMFO8"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
         },
         {
           "name": "Raghu Niduvalli",
@@ -245,8 +297,8 @@
         }
       ],
       "duration_ms": 276000,
-      "name": "Oppisikolteeni (From \"Tiger Nageswara Rao\") (Kannada)",
-      "url": "https://open.spotify.com/track/7jKwaKM2Po25SEXHMl54Rk"
+      "name": "Oppisikolteeni (From \"Tiger Nageswara Rao\")",
+      "url": "https://open.spotify.com/track/3XDiDgVmgQVQUxvQbE9pbO"
     },
     {
       "added_at": "2023-10-10 07:56:30",
@@ -1465,34 +1517,6 @@
       "url": "https://open.spotify.com/track/3bcpehIolpCAuf9JYJn6Ei"
     },
     {
-      "added_at": "2023-08-17 11:39:57",
-      "album": {
-        "name": "Tagaru Palya Title Track (From \"Tagaru Palya\")",
-        "url": "https://open.spotify.com/album/7oamUOyozFj5ekfGdArmWO"
-      },
-      "artists": [
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        },
-        {
-          "name": "Daali Dhananjaya",
-          "url": "https://open.spotify.com/artist/5mMIF7hi9U0WgMjhqHE0eQ"
-        },
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Jogila Siddaraju",
-          "url": "https://open.spotify.com/artist/4sQji195GLuaoJau57EHWG"
-        }
-      ],
-      "duration_ms": 203571,
-      "name": "Tagaru Palya Title Track (From \"Tagaru Palya\")",
-      "url": "https://open.spotify.com/track/6zOCGdS0NEAPtnGrh2ntFT"
-    },
-    {
       "added_at": "2023-08-08 13:36:47",
       "album": {
         "name": "Muddu Rakshasi (From \" Vaamana \")",
@@ -1543,30 +1567,6 @@
       "duration_ms": 210666,
       "name": "Kushi Title Song (From \"Kushi\") (Kannada)",
       "url": "https://open.spotify.com/track/6L4iCUZgIHf6OcxA32cMdz"
-    },
-    {
-      "added_at": "2023-08-04 09:58:42",
-      "album": {
-        "name": "Aa Mugilinalli (From \"Naalkane Aayama\")",
-        "url": "https://open.spotify.com/album/3jlolMS7adJNohdxFOhNrD"
-      },
-      "artists": [
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Kaviraj",
-          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Aa Mugilinalli - From \"Naalkane Aayama\"",
-      "url": "https://open.spotify.com/track/1lD1sZXVYKjjvnaTehESwb"
     },
     {
       "added_at": "2023-07-04 11:00:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Silvina Moreno
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,206 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,193 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 86 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 |
 | 87 | [De Musica Ligera](https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT) | [Sámdalo](https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7) | [De Musica Ligera](https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK) | 2:54 |
 | 88 | [fue mejor // acoustic](https://open.spotify.com/track/2RjrsjKraJjQUYdCYQ30ap) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [sin miedo // acoustic](https://open.spotify.com/album/1E7wN2lvLdZmoAmIXmPtRd) | 3:09 |
-| 89 | [Deja de Pedir Perdón \- MTV Unplugged](https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:10 |
-| 90 | [Soldado Raso \- Versión Acústica](https://open.spotify.com/track/2UVD0QU951KBWGaACek9e0) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Hecho a la Antigua](https://open.spotify.com/album/5HnvoKpp1JTDYP3SNWvl2V) | 3:37 |
-| 91 | [Tan Bien](https://open.spotify.com/track/6CpH8zZLNEXLP0hGEMdKnu) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:32 |
+| 89 | [Tan Bien](https://open.spotify.com/track/6CpH8zZLNEXLP0hGEMdKnu) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:32 |
+| 90 | [Deja de Pedir Perdón \- MTV Unplugged](https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:10 |
+| 91 | [Soldado Raso \- Versión Acústica](https://open.spotify.com/track/2UVD0QU951KBWGaACek9e0) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Hecho a la Antigua](https://open.spotify.com/album/5HnvoKpp1JTDYP3SNWvl2V) | 3:37 |
 | 92 | [Un Día Lo Encontré](https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:00 |
 | 93 | [Oma](https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Oma](https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX) | 3:18 |
 | 94 | [Flotando \(Acústico\)](https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Flotando \(Acústico\)](https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh) | 4:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 99 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
 | 100 | [Mágica](https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Mágica](https://open.spotify.com/album/1dLbHPD9bGcsTAj9dA2GHQ) | 2:16 |
 
-Snapshot ID: `MCwwZDc4MmRkNzQxMjdiNTk1MmVlNDEzZGIzZmRhY2Y0M2VjNzhjODQ4`
+Snapshot ID: `MCwyN2NjMmIxMTI2NWFjNDk2NjA0YTVjODQwYjg3NjNkMGZjMjVhZDJi`

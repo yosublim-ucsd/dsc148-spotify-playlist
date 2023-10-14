@@ -1,15 +1,31 @@
 {
   "description": "Todo lo que es cultura pop. Nadie sabe nada.",
-  "num_followers": 16371,
+  "num_followers": 16434,
   "original_name": "cultura.now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2Q3MmMxOTJhYTI3ZjMzYTg4ZmVjYjM2YjI4NzcwYThkM2QzZWJh",
+  "snapshot_id": "MCxmNzUxNWFlYzdhOTA1MTc0ZDk5MTFjOTAwYmMxNGQ5NGVlZTM1NTE1",
   "tracks": [
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
+    },
+    {
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "UN PREVIEW",
         "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "WHERE SHE GOES",
         "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -57,7 +73,27 @@
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 216327,
+      "name": "FINA",
+      "url": "https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS"
+    },
+    {
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "Diles",
         "url": "https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex"
@@ -97,7 +133,7 @@
       "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "Soy Peor",
         "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
@@ -113,7 +149,7 @@
       "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -133,7 +169,7 @@
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
@@ -149,7 +185,7 @@
       "url": "https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "X 100PRE",
         "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
@@ -169,7 +205,27 @@
       "url": "https://open.spotify.com/track/5jGUJXnELDaDTgiRjD9lsg"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "HIBIKI",
+      "url": "https://open.spotify.com/track/4qSEvFGCpde73gqIuq3sho"
+    },
+    {
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -185,7 +241,7 @@
       "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
@@ -201,7 +257,7 @@
       "url": "https://open.spotify.com/track/2n7ohqg1s68ToAHh4u9mcW"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "X 100PRE",
         "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
@@ -217,7 +273,7 @@
       "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -233,7 +289,27 @@
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 162767,
+      "name": "PERRO NEGRO",
+      "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
+    },
+    {
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
@@ -253,7 +329,7 @@
       "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
@@ -269,7 +345,23 @@
       "url": "https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 177450,
+      "name": "GRACIAS POR NADA",
+      "url": "https://open.spotify.com/track/1U3A66OHQyTu4N2QTMsP86"
+    },
+    {
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "C\u00d3MO SE SIENTE (Remix)",
         "url": "https://open.spotify.com/album/0VLl6NV05DjwNE2lZFdCEI"
@@ -289,7 +381,7 @@
       "url": "https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "Tu No Metes Cabra",
         "url": "https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w"
@@ -305,7 +397,7 @@
       "url": "https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
@@ -321,7 +413,7 @@
       "url": "https://open.spotify.com/track/5kqNIqFjijuzvVLhuY9B8j"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -341,7 +433,7 @@
       "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
@@ -357,7 +449,7 @@
       "url": "https://open.spotify.com/track/5RubKOuDoPn5Kj5TLVxSxY"
     },
     {
-      "added_at": "2023-10-12 22:09:47",
+      "added_at": "2023-10-13 16:53:58",
       "album": {
         "name": "Yonaguni",
         "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"

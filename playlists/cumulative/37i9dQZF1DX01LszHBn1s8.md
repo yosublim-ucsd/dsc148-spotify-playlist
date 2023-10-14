@@ -4,7 +4,7 @@
 
 > it's officially october and you know what that means......\. 🍁
 
-1,243 songs - 2 day 17 hr 9 min
+1,244 songs - 2 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Better Off Alone](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:34 | 2022-05-30 |  |
 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 | 2022-06-15 |  |
 | [Big And Chunky](https://open.spotify.com/track/5wA5mA9v9lPxAaSg1FagG6) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Madagascar: Escape 2 Africa \(Music From The Motion Picture\)](https://open.spotify.com/album/0a6NsOaOzlrubGl3htyVWG) | 3:21 | 2022-05-19 |  |
-| [Big Dreams](https://open.spotify.com/track/1Qag4tPpQhj3hCehreXUnR) | [Iz](https://open.spotify.com/artist/2buGN5SxRJ5oVUmPes6xa2), [CG](https://open.spotify.com/artist/4GQ0669VFe1ywUi64aNbIE) | [Big Dreams](https://open.spotify.com/album/6fvC9xjAr2m1WvB704uuH1) | 2:38 | 2023-09-21 |  |
+| [Big Dreams](https://open.spotify.com/track/3s9YesaGNDxJ4R6L6tldRv) | [Iz](https://open.spotify.com/artist/2buGN5SxRJ5oVUmPes6xa2) | [Big Dreams](https://open.spotify.com/album/3v4Fxgd1yFCqQsmFiib8u3) | 2:38 | 2023-09-28 |  |
+| [Big Dreams](https://open.spotify.com/track/1Qag4tPpQhj3hCehreXUnR) | [Iz](https://open.spotify.com/artist/2buGN5SxRJ5oVUmPes6xa2), [CG](https://open.spotify.com/artist/4GQ0669VFe1ywUi64aNbIE) | [Big Dreams](https://open.spotify.com/album/6fvC9xjAr2m1WvB704uuH1) | 2:38 | 2023-09-21 | 2023-10-14 |
 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 | 2022-05-19 |  |
 | [Big Energy \(feat\. DJ Khaled\) \- Remix](https://open.spotify.com/track/4nmD4awtUUCC4AGETpUiuP) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Big Energy \(feat\. DJ Khaled\) \[Remix\]](https://open.spotify.com/album/7yQ3QGLWN0YvBuImU7bVc3) | 3:01 | 2022-05-19 |  |
 | [Big Girls Don't Cry \(Personal\)](https://open.spotify.com/track/4AniPkv5vgdE1n6VKreiyI) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:28 | 2022-05-19 |  |

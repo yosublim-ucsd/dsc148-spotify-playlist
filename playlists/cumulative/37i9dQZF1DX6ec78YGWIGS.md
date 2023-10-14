@@ -2,9 +2,9 @@
 
 ### [POP FLOW](https://open.spotify.com/playlist/37i9dQZF1DX6ec78YGWIGS)
 
-> Lo nuevo y lo más escuchado del pop\. Feat\. Maria Becerra y Enrique Iglesias.
+> Lo nuevo y lo más escuchado del pop\. Feat\. Maria Becerra.
 
-188 songs - 9 hr 30 min
+189 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Cupido](https://open.spotify.com/track/3wqEOpbZkEM4qYV05fNtvj) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Cupido](https://open.spotify.com/album/0XPJm6qRVPemH8PEE40KYH) | 3:03 | 2023-05-12 | 2023-05-20 |
 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 | 2023-05-12 |  |
 | [Cura' de Espanto](https://open.spotify.com/track/1hzSaPNL2XsYUa3nGfIbjZ) | [Después de la fiesta](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Cura' de Espanto](https://open.spotify.com/album/5yrDNsjle7n0sRrZpdfIp9) | 1:58 | 2023-05-12 | 2023-09-01 |
-| [Cursi](https://open.spotify.com/track/2ePVy5fIcduj4U70PKlA8Z) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [Cursi](https://open.spotify.com/album/6MOLgG4WHVrY2iYFSY6KEZ) | 2:58 | 2023-08-25 |  |
+| [Cursi](https://open.spotify.com/track/2ePVy5fIcduj4U70PKlA8Z) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [Cursi](https://open.spotify.com/album/6MOLgG4WHVrY2iYFSY6KEZ) | 2:58 | 2023-08-25 | 2023-10-14 |
 | [Cuéntame](https://open.spotify.com/track/37GUXR9olqtMaujUjBVnPS) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Cuéntame](https://open.spotify.com/album/3dfx15tv6f6VzQMVuG9EJL) | 2:14 | 2023-05-12 | 2023-08-04 |
 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2023-05-12 |  |
 | [Cómo Estás BB?](https://open.spotify.com/track/6PvIUWGrOYsThHZMaTyBHc) | [Joaqo](https://open.spotify.com/artist/3pkc0OK2BmkQKZNgsa8lOc), [FEFE WAV](https://open.spotify.com/artist/6t4GgZDk0RVM2dTfMLMOUi) | [Cómo Estás BB?](https://open.spotify.com/album/4cJALLwUA2Ua8767udoJFL) | 2:54 | 2023-06-30 | 2023-07-22 |
@@ -104,6 +104,7 @@
 | [Los Locos](https://open.spotify.com/track/2UJM7omxwzXtAeOnHp2OBX) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Los Locos](https://open.spotify.com/album/1LZvwBNycdy9Mc3C4uMBI5) | 3:57 | 2023-05-12 | 2023-05-27 |
 | [LuXxX](https://open.spotify.com/track/1tgWvt78QUQrghdsbiteyZ) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [LuXxX](https://open.spotify.com/album/3GmPKpcpxysC0XQ9AJFeky) | 3:21 | 2023-09-22 |  |
 | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX) | 3:37 | 2023-08-28 |  |
+| [Lágrimas \| CROSSOVER \#4](https://open.spotify.com/track/5zDEMy7lLJ1W7vauTrH5mb) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Lágrimas \| CROSSOVER \#4](https://open.spotify.com/album/5J0QySoFlt8cXEQIH0jF64) | 2:47 | 2023-10-13 |  |
 | [Maldita Foto](https://open.spotify.com/track/4WkEH0PgystZUaN6QU6Z0B) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Maldita Foto](https://open.spotify.com/album/3Ka78dJC3Xm7UjN7IhCXG6) | 3:10 | 2023-05-12 | 2023-08-04 |
 | [Mami no llores](https://open.spotify.com/track/2KKIJwDbT4tbF9RdMg2aHC) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Del Infierno Al Cielo](https://open.spotify.com/album/30kEwSfr0p2jC2QCreyC9I) | 3:22 | 2023-06-30 | 2023-07-22 |
 | [Maquillada en la Cama](https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087) | 3:38 | 2023-10-09 |  |

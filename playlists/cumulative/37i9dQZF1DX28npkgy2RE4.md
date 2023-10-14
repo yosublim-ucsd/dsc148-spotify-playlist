@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Tré Burt
 
-427 songs - 1 day 2 hr 15 min
+428 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [Old Black Magic](https://open.spotify.com/track/2101msXT4EW6S1QWDMqFA5) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Old Black Magic](https://open.spotify.com/album/4fBlyjkl18CQinati1cdsv) | 4:46 | 2021-11-12 | 2022-04-21 |
 | [Old Black Magic](https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Fever Breaks](https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS) | 4:46 | 2022-07-11 |  |
 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 | 2021-11-12 |  |
-| [Old Peel](https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Old Peel](https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR) | 3:16 | 2021-11-12 |  |
+| [Old Peel](https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Old Peel](https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR) | 3:16 | 2021-11-12 | 2023-10-14 |
 | [Olympians \- Acoustic](https://open.spotify.com/track/0d79BhweRgxqySiFBYelDg) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [We Are Olympians](https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf) | 4:57 | 2021-11-12 | 2023-03-13 |
 | [On A Beach](https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y) | [Hayden](https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [On A Beach](https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6) | 4:05 | 2023-03-03 | 2023-05-07 |
 | [On the Outside](https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [On the Outside](https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt) | 3:09 | 2021-11-12 | 2022-07-29 |
@@ -360,6 +360,7 @@
 | [Still Life \(feat\. Joseph\)](https://open.spotify.com/track/1Lp6ewfK7ABZWemResfRyK) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Still Life \(feat\. Joseph\)](https://open.spotify.com/album/3Xk3lT15u68kn5kxyCdGGs) | 3:48 | 2021-11-12 |  |
 | [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 | 2021-11-12 |  |
 | [Strange Weather](https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Strange Weather](https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF) | 3:28 | 2023-06-16 |  |
+| [Subtitles](https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Subtitles](https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0) | 4:05 | 2023-10-13 |  |
 | [Suburbia](https://open.spotify.com/track/5e6F64qyjBbXiPmktOax3t) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc) | 3:35 | 2023-09-15 |  |
 | [Suburbia](https://open.spotify.com/track/5my2GN5y6i1KhOYfOByJEn) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Suburbia](https://open.spotify.com/album/3EKorAn8NIq138RN9W6XaC) | 3:35 | 2021-11-12 | 2023-09-21 |
 | [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 | 2022-10-14 |  |

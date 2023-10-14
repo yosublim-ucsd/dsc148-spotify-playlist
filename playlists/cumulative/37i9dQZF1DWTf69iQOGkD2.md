@@ -2,9 +2,9 @@
 
 ### [Rap Acústico](https://open.spotify.com/playlist/37i9dQZF1DWTf69iQOGkD2)
 
-> Sinta o flow do rap em estilo acústico ou romântico\. Foto:  Hungria Hip Hop
+> Sinta o flow do rap em estilo acústico ou romântico\. Foto:  L7NNON
 
-193 songs - 12 hr 5 min
+194 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Pede pra Ficar](https://open.spotify.com/track/1wkeJrOp8NiCrze5KrwgXM) | [Muzzike](https://open.spotify.com/artist/2XTtA7Pvl5vucL3oFXlMyT) | [Pede pra Ficar](https://open.spotify.com/album/2SproejOjeYG5lnBTlU6p8) | 2:55 | 2022-03-18 |  |
 | [Penelope](https://open.spotify.com/track/66qOxO7krWQpQWZPi1IzQo) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Penelope](https://open.spotify.com/album/71htdEQmQqPoSQwdTR0auD) | 2:51 | 2022-03-18 |  |
 | [Pensando Em Nós \- Acústico](https://open.spotify.com/track/2cJVsaXHt4eh6GCHv2KQz6) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Pensando Em Nós \(Acústico\)](https://open.spotify.com/album/42FpAJI76HwHIDJXbtaW7T) | 3:13 | 2022-09-30 | 2023-06-17 |
-| [Pensei em Você](https://open.spotify.com/track/1flfghdqmy0WnWsiLyKLRl) | [Sadness :c](https://open.spotify.com/artist/5pvKSKOm1QGAf5BZoD9WEr), [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Pensei em Você](https://open.spotify.com/album/1qcAtpYdj3k542lo5n0V9M) | 2:00 | 2022-03-18 |  |
+| [Pensei em Você](https://open.spotify.com/track/1flfghdqmy0WnWsiLyKLRl) | [Sadness :c](https://open.spotify.com/artist/5pvKSKOm1QGAf5BZoD9WEr), [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Pensei em Você](https://open.spotify.com/album/1qcAtpYdj3k542lo5n0V9M) | 2:00 | 2022-03-18 | 2023-10-14 |
 | [Perdição](https://open.spotify.com/track/7FikD4RFpmSZIvoP3rRwsS) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Perdição](https://open.spotify.com/album/6JJrn3h0bgZ886jTetGLfk) | 4:35 | 2022-03-18 |  |
 | [Perfume](https://open.spotify.com/track/4ZREaPhlA5mqZMFTSQBfzw) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Perfume](https://open.spotify.com/album/5WDimSewWqftfbYKtKcWiU) | 3:24 | 2022-03-18 |  |
 | [Perto De Mim](https://open.spotify.com/track/4yAhfuUZjHX1bjkZ6mA6H6) | [J a u m](https://open.spotify.com/artist/1IyuVaJ5TMJ9GYJBYVu5Di), [Dracko](https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Perto De Mim](https://open.spotify.com/album/0TragY5KibBZD7srtx8alA) | 2:27 | 2023-04-28 | 2023-08-26 |
@@ -162,6 +162,7 @@
 | [Problemático](https://open.spotify.com/track/75WrYPysR6c7VcLjE9yrlM) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Problemático](https://open.spotify.com/album/6AvS0b0wY54EFDpdh6mVYm) | 2:51 | 2022-07-15 |  |
 | [Pura Ilusão](https://open.spotify.com/track/79BnBZ90gDoxrORXGU1zOY) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Pura Ilusão](https://open.spotify.com/album/3X9sTASPhchWD2ThIvdyph) | 2:47 | 2022-03-18 |  |
 | [Pássaros](https://open.spotify.com/track/09a27piHzkROsmYoFqr15A) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [A Saída Está Dentro](https://open.spotify.com/album/6VfOqa6cm75t5RjmC62hC8) | 3:51 | 2022-03-18 | 2022-03-26 |
+| [Quando Você Chegou](https://open.spotify.com/track/457V49BhoC82JATzMaX7HJ) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Vida Cara \(Deluxe\)](https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT) | 2:31 | 2023-10-13 |  |
 | [Quantas Vezes?](https://open.spotify.com/track/12ejw7TyhQU6uODWEaDLFt) | [2STRANGE](https://open.spotify.com/artist/7mnsTGmApJRfHFs1ymmBIi), [Mozart Mz](https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne) | [Quantas Vezes?](https://open.spotify.com/album/4E6AOkU7UHU9jCROb27fuj) | 3:33 | 2022-03-18 | 2023-01-14 |
 | [Queimar Você](https://open.spotify.com/track/3YPHiXtl6PaNNJYKYhipSe) | [Saulo de Tarso](https://open.spotify.com/artist/5qHN4uYnGPKiZrIXpYoS7q), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Queimar Você](https://open.spotify.com/album/6EzN9TOp6miyvuuxY1Ep3S) | 2:51 | 2022-08-05 | 2022-09-24 |
 | [Quem Me Protege Não Dorme \(Papatracks\#8\)](https://open.spotify.com/track/0nW89XeE8gQfojNJn7PDhx) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Quem Me Protege Não Dorme \(Papatracks\#8\)](https://open.spotify.com/album/5eNParVm24GwzwslH1uUBv) | 3:31 | 2022-03-18 | 2022-05-07 |

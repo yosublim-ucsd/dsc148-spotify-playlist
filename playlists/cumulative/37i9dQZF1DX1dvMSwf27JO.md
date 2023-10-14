@@ -4,7 +4,7 @@
 
 > music to get fly to ft Erykah Badu and Usher front row at Marni.
 
-500 songs - 1 day 3 hr 15 min
+501 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep) | 4:04 | 2023-09-05 |  |
 | [Flaunt It/Cheap](https://open.spotify.com/track/7bxegQfGfIc9ybrQafVtf8) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 4:00 | 2023-04-21 |  |
 | [FLOOR](https://open.spotify.com/track/0YsiXEd69QrZK3AVfBAuV9) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv), [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC) | [FLOOR](https://open.spotify.com/album/7jgZRd9rDFS1FA6PuOj4Mc) | 2:05 | 2023-03-03 |  |
-| [Follow Me](https://open.spotify.com/track/3XVsJ2JMP3oBUqhXbFReQ3) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:41 | 2023-09-05 |  |
+| [Follow Me](https://open.spotify.com/track/3XVsJ2JMP3oBUqhXbFReQ3) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:41 | 2023-09-05 | 2023-10-14 |
 | [FOMF](https://open.spotify.com/track/1q9huadusReYqEjnENS3uw) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 2:40 | 2022-12-16 | 2023-03-07 |
 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 | 2023-01-26 |  |
 | [FORCE OF HABIT](https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 4:04 | 2021-08-05 | 2022-12-17 |
@@ -281,6 +281,7 @@
 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2023-02-16 |  |
 | [Lucinda](https://open.spotify.com/track/7mAyraTz5O6WH06Tt3mLmJ) | [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Lucinda](https://open.spotify.com/album/75Ak4Yl7XnwpbBfT6h0twi) | 2:52 | 2023-03-03 | 2023-05-31 |
 | [Lullaby](https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:06 | 2023-09-05 |  |
+| [M79](https://open.spotify.com/track/3PYTEgSf4opLzuUiPecUqS) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 4:15 | 2023-10-04 |  |
 | [MADELINE](https://open.spotify.com/track/6VfNPL93TsZpmwpe2BJxNc) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [MADELINE](https://open.spotify.com/album/6hW5N53gZtSPJQWExInjp6) | 3:24 | 2022-12-16 | 2023-01-13 |
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-12-16 | 2023-05-20 |
 | [Mamacita](https://open.spotify.com/track/1RmakRsIJE6qsP1OjiUboJ) | [Smooky MarGielaa](https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Mamacita](https://open.spotify.com/album/2yMNrSSdvvRptq7Zs3YDdl) | 3:05 | 2023-08-14 |  |

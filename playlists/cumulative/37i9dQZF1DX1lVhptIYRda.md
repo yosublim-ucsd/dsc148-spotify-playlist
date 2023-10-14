@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Darius Rucker
+> Today's top country hits\. Cover: Riley Green
 
-686 songs - 1 day 13 hr 0 min
+688 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Ain't Missin' You](https://open.spotify.com/track/3XCsnZP8tL6fAbYofj9O0M) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [Ain't Missin' You](https://open.spotify.com/album/79FH6zbP58c4ANd9udRiDc) | 2:56 | 2023-09-01 |  |
 | [Alcohol You Later](https://open.spotify.com/track/16HAr3eu7TCbeJ0IOJLQxY) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Mitchell Tenpenny \- EP](https://open.spotify.com/album/36Hros61c2dlrO3A5ZapaW) | 3:07 | 2019-05-26\* | 2019-09-08 |
 | [All American](https://open.spotify.com/track/3z610KBfuClGcA7ywI19w8) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [All American](https://open.spotify.com/album/6lhrfOe8aN6TVyl1cynFmV) | 3:02 | 2021-09-18 | 2022-01-22 |
-| [All I Need Is You](https://open.spotify.com/track/02FAxAwzApe6pAqfAL3dLr) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [All I Need Is You](https://open.spotify.com/album/1tc6XshhetHi2jagwM3UhS) | 2:42 | 2023-06-16 |  |
+| [All I Need Is You](https://open.spotify.com/track/02FAxAwzApe6pAqfAL3dLr) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [All I Need Is You](https://open.spotify.com/album/1tc6XshhetHi2jagwM3UhS) | 2:42 | 2023-06-16 | 2023-10-14 |
 | [All Night](https://open.spotify.com/track/0gv4JVcgmb8HihoucEXVxh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:48 | 2020-10-09 | 2020-10-18 |
 | [All On You](https://open.spotify.com/track/6wmX0tZ4Dkzg32z1k9x4Y5) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Telling All My Secrets](https://open.spotify.com/album/09eDO7D2wqhuy1bMzfIpm9) | 3:10 | 2019-05-26\* | 2019-06-22 |
 | [All The Good Ones Are](https://open.spotify.com/track/1IjgkEL1a0oBxSulmkQOUR) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 3:23 | 2020-10-09 | 2020-10-18 |
@@ -277,6 +277,7 @@
 | [homecoming queen?](https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:47 | 2020-04-10 | 2020-04-25 |
 | [Homemade](https://open.spotify.com/track/31JID2STTlLuFqXFWHyM8e) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:12 | 2019-11-02 | 2020-03-21 |
 | [Homesick](https://open.spotify.com/track/6D2Up6lpoFazlmFn0Zpkty) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment](https://open.spotify.com/album/3950MST9uRPKyh4Prv7lh1) | 3:25 | 2019-11-16 | 2020-03-21 |
+| [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/track/6DYtfjCJdFOXUlV3E9a9bI) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/album/0QikezpLsccyG7W7oNwQ8D) | 4:30 | 2023-10-13 |  |
 | [How Many Times](https://open.spotify.com/track/0x5aqRejnsR6kiMq0ficsp) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times](https://open.spotify.com/album/0KWgaxKtKrMDOrzUZguLTd) | 3:25 | 2020-12-12 | 2021-03-27 |
 | [How They Remember You](https://open.spotify.com/track/3qwPYg8xTWPafQD3YUNaTU) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [How They Remember You](https://open.spotify.com/album/1XwToQelPUXtUKSYUApT9G) | 3:31 | 2021-01-23 | 2021-02-20 |
 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2022-09-02 | 2023-05-20 |
@@ -433,7 +434,7 @@
 | [Nobody](https://open.spotify.com/track/2SHbF9xWleu30pAHfOZaEn) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nobody](https://open.spotify.com/album/7zbGssKdxVpFJJg2TQCntk) | 2:40 | 2019-05-26\* | 2020-01-18 |
 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:40 | 2021-03-27 | 2021-06-26 |
 | [Nobody But You \(Duet with Gwen Stefani\)](https://open.spotify.com/track/5M8goiFYynmNxhueYW6grR) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Fully Loaded: God's Country](https://open.spotify.com/album/4Kd33JPxTOcjTM29FrKoyT) | 3:14 | 2020-01-13 | 2020-06-21 |
-| [Nobody's Nobody](https://open.spotify.com/track/1Q7kOSZkgeCkVpWRmNBAcI) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Nobody's Nobody](https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg) | 3:09 | 2023-05-05 |  |
+| [Nobody's Nobody](https://open.spotify.com/track/1Q7kOSZkgeCkVpWRmNBAcI) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Nobody's Nobody](https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg) | 3:09 | 2023-05-05 | 2023-10-14 |
 | [Not Yet](https://open.spotify.com/track/0WVvn1HeAGVcnMnQcKPAQg) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Not Yet](https://open.spotify.com/album/5yhE9I7y2sfvB83vBkIRVJ) | 2:54 | 2021-04-30 | 2021-10-09 |
 | [Nothing Like You](https://open.spotify.com/track/38gbVnKWI8xEd7AnqS9aiZ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:16 | 2020-06-12 | 2020-06-21 |
 | [Nothing Like You](https://open.spotify.com/track/5ppDdMho96v8gdDm7HKEbK) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/1LVNYhjG7hkowdUwgwOdXj) | 3:16 | 2020-01-18 | 2020-06-12 |
@@ -441,6 +442,7 @@
 | [Nothing's Better](https://open.spotify.com/track/1LtiNpTzzSX8qcvlPFLmeR) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [State I'm In](https://open.spotify.com/album/0rpP7RK9FEdwTC8BDjDSLj) | 3:13 | 2020-09-25 | 2021-05-08 |
 | [Now You Know](https://open.spotify.com/track/0zvFpizoPkjXNuii0mYjb7) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Now You Know](https://open.spotify.com/album/6PgUqzVsJMcgSjHs9usz1R) | 2:55 | 2019-09-06 | 2019-11-09 |
 | [Off Road](https://open.spotify.com/track/5Flk5ig2Lt0FrdM8UQfVeu) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Off Road](https://open.spotify.com/album/1eIN0vpmHWQ2TEZspYu7mH) | 3:04 | 2021-03-27 | 2021-07-24 |
+| [Old Dirt Roads](https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Old Dirt Roads](https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU) | 3:47 | 2023-10-13 |  |
 | [Old School](https://open.spotify.com/track/0QlVTCl7DKwI4pxuHgJtLo) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Old School](https://open.spotify.com/album/04del8uubDhGl0xMyWUfQu) | 3:13 | 2021-10-16 | 2021-12-11 |
 | [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 | 2022-12-09 | 2023-03-04 |
 | [On Me \(feat\. Ava Max\)](https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 2:44 | 2020-05-24 | 2020-06-12 |

@@ -1470,7 +1470,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 165213,
       "name": "Drivel",
       "url": "https://open.spotify.com/track/3PthR3zLOVCqdnwJEJR03g"
@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 196071,
       "name": "Kyle (i found you)",
       "url": "https://open.spotify.com/track/6Ao5d7TMQ92h87jQqSHGyw"
@@ -3720,7 +3720,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 268038,
       "name": "Marking My Time",
       "url": "https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw"
@@ -4337,6 +4337,24 @@
     },
     {
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
+    },
+    {
+      "album": {
         "name": "One That Got Away",
         "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
       },
@@ -4370,6 +4388,24 @@
       "duration_ms": 170893,
       "name": "Only in My Dreams",
       "url": "https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz"
+    },
+    {
+      "album": {
+        "name": "Only In My Mind",
+        "url": "https://open.spotify.com/album/4JWnSrjQv0zOW594N76PMf"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161137,
+      "name": "Only In My Mind",
+      "url": "https://open.spotify.com/track/4PrGyX4YgCT6V3YqY7XEUw"
     },
     {
       "album": {
@@ -5614,7 +5650,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 153600,
       "name": "Spend My Days",
       "url": "https://open.spotify.com/track/03qshjNjaZJ9YmuyX9malT"
@@ -5971,6 +6007,28 @@
     },
     {
       "album": {
+        "name": "ten",
+        "url": "https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182013,
+      "name": "ten",
+      "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
+    },
+    {
+      "album": {
         "name": "Tension",
         "url": "https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA"
       },
@@ -6264,7 +6322,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 179037,
       "name": "Theatre",
       "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"

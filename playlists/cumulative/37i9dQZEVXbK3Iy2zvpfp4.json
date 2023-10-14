@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 101321,
       "name": "ALORS BRAZIL",
       "url": "https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"
@@ -3032,7 +3032,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
@@ -3304,6 +3304,24 @@
       "duration_ms": 290584,
       "name": "Body Paint",
       "url": "https://open.spotify.com/track/42GuKw49pPxNAkIhWGwgFs"
+    },
+    {
+      "album": {
+        "name": "boli sme krasni.",
+        "url": "https://open.spotify.com/album/0slHZZtqALPV7GMMKenSI1"
+      },
+      "artists": [
+        {
+          "name": "Kamaji04",
+          "url": "https://open.spotify.com/artist/1KcrcOgfcM1j3RM9D2LIgL"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159298,
+      "name": "boli sme krasni",
+      "url": "https://open.spotify.com/track/2yNCxVbmiHCIyUkpaEycfP"
     },
     {
       "album": {
@@ -4012,7 +4030,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "Can Can",
       "url": "https://open.spotify.com/track/6s7M8BCTzvLlEyYiSIIlPm"
@@ -11088,7 +11106,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 246652,
       "name": "I Really Want to Stay at Your House",
       "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm"
@@ -11306,6 +11324,24 @@
       "duration_ms": 215171,
       "name": "Ibalgin",
       "url": "https://open.spotify.com/track/4UZ91aYQisCeUTyaw0YxZ2"
+    },
+    {
+      "album": {
+        "name": "Ick",
+        "url": "https://open.spotify.com/album/3u1Xhy32TsbVeuVknYfrLE"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115725,
+      "name": "Ick",
+      "url": "https://open.spotify.com/track/3gZilge8NsINDKKlZD03Zg"
     },
     {
       "album": {
@@ -18432,7 +18468,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
@@ -26632,7 +26668,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 206000,
       "name": "Vill\u00e1m",
       "url": "https://open.spotify.com/track/7AZobwHObSuZQDCGXWYuop"

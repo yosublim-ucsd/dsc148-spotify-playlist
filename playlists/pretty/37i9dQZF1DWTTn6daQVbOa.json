@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 521904,
+  "num_followers": 522165,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWM5OGRjYTFhYjQ3MTBjNTMzYmYwM2RiYTE3NGU5NjlhZGQ0NzU5",
+  "snapshot_id": "MCwyMWYzYzg0YjAzMDdhZmM5ODcwYTM5OTY3MDAzYWQ0NWQyMDViMjZl",
   "tracks": [
     {
       "added_at": "2022-09-23 05:26:33",
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
       },
       "artists": [
         {
-          "name": "Bobby Caldwell",
-          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
         }
       ],
-      "duration_ms": 286493,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
+      "duration_ms": 146175,
+      "name": "Time in a Bottle",
+      "url": "https://open.spotify.com/track/561F1zqRwGPCTMRsLsXVtL"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -303,18 +303,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
       },
       "artists": [
         {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
         }
       ],
-      "duration_ms": 146175,
-      "name": "Time in a Bottle",
-      "url": "https://open.spotify.com/track/561F1zqRwGPCTMRsLsXVtL"
+      "duration_ms": 286493,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 326320,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/762B4bOcXF7I2Y8UlKTyTy"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Sweet Baby James (2019 Remaster)",
         "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 203613,
       "name": "Fire and Rain - 2019 Remaster",
       "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 326320,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/762B4bOcXF7I2Y8UlKTyTy"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Pleasure & Pain",
+        "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
+        }
+      ],
+      "duration_ms": 174533,
+      "name": "Sharing The Night Together",
+      "url": "https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Atlantic Crossing",
         "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 233506,
       "name": "It Never Rains in Southern California",
       "url": "https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Pleasure & Pain",
-        "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hook",
-          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
-        }
-      ],
-      "duration_ms": 174533,
-      "name": "Sharing The Night Together",
-      "url": "https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Ultimate Collection: Dobie Gray",
-        "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
-      },
-      "artists": [
-        {
-          "name": "Dobie Gray",
-          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Drift Away - Single Version",
-      "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 257786,
       "name": "Jealous Guy - Remastered 2010",
       "url": "https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Ultimate Collection: Dobie Gray",
+        "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
+      },
+      "artists": [
+        {
+          "name": "Dobie Gray",
+          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Drift Away - Single Version",
+      "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Rose",
-        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "The Rose",
-      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Third Album",
         "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 228933,
       "name": "Sorry Seems To Be The Hardest Word",
       "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Rose",
+        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Starland Vocal Band",
-        "url": "https://open.spotify.com/album/0SIkfBz37ZXzxXOZCi4JNk"
-      },
-      "artists": [
-        {
-          "name": "Starland Vocal Band",
-          "url": "https://open.spotify.com/artist/66QeIFuFJDNCImNHlFzrY1"
-        }
-      ],
-      "duration_ms": 193040,
-      "name": "Afternoon Delight",
-      "url": "https://open.spotify.com/track/1pBAsoHy7eN9aeVCTAiKua"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "The Three Degrees",
         "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 178746,
       "name": "When Will I See You Again",
       "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Starland Vocal Band",
+        "url": "https://open.spotify.com/album/0SIkfBz37ZXzxXOZCi4JNk"
+      },
+      "artists": [
+        {
+          "name": "Starland Vocal Band",
+          "url": "https://open.spotify.com/artist/66QeIFuFJDNCImNHlFzrY1"
+        }
+      ],
+      "duration_ms": 193040,
+      "name": "Afternoon Delight",
+      "url": "https://open.spotify.com/track/1pBAsoHy7eN9aeVCTAiKua"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Where There's Smoke...",
-        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 352920,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Life Beyond L.A.",
         "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 283400,
       "name": "How Much I Feel",
       "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Where There's Smoke...",
+        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Behind Closed Doors",
-        "url": "https://open.spotify.com/album/6waJgGNygMY0KJb3g06uA6"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "The Most Beautiful Girl",
-      "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Poems, Prayers and Promises",
         "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
       },
@@ -1831,18 +1815,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+        "name": "Behind Closed Doors",
+        "url": "https://open.spotify.com/album/6waJgGNygMY0KJb3g06uA6"
       },
       "artists": [
         {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
         }
       ],
-      "duration_ms": 133960,
-      "name": "Just a Song Before I Go",
-      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
+      "duration_ms": 161906,
+      "name": "The Most Beautiful Girl",
+      "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1859,6 +1843,22 @@
       "duration_ms": 327706,
       "name": "Inner City Blues (Make Me Wanna Holler)",
       "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 133960,
+      "name": "Just a Song Before I Go",
+      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Keeper Of The Castle",
-        "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 187773,
-      "name": "Ain't No Woman (Like The One I've Got)",
-      "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "2 Hot!",
         "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 256173,
       "name": "Dream Weaver",
       "url": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Keeper Of The Castle",
+        "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 187773,
+      "name": "Ain't No Woman (Like The One I've Got)",
+      "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Spiral Staircase (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4g0FobFyVjCK1evYB6A4jY"
-      },
-      "artists": [
-        {
-          "name": "Ralph McTell",
-          "url": "https://open.spotify.com/artist/6uQnHzEj8hj0UZCKjBvTaG"
-        }
-      ],
-      "duration_ms": 248586,
-      "name": "Streets of London",
-      "url": "https://open.spotify.com/track/0P49pJa288tm8gKbFcofn9"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Diana & Marvin",
         "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 190440,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Spiral Staircase (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4g0FobFyVjCK1evYB6A4jY"
+      },
+      "artists": [
+        {
+          "name": "Ralph McTell",
+          "url": "https://open.spotify.com/artist/6uQnHzEj8hj0UZCKjBvTaG"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "Streets of London",
+      "url": "https://open.spotify.com/track/0P49pJa288tm8gKbFcofn9"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2419,18 +2419,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Radio Hits Of the '70s",
-        "url": "https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG"
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
       "artists": [
         {
-          "name": "Terry Jacks",
-          "url": "https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl"
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
         }
       ],
-      "duration_ms": 209346,
-      "name": "Seasons in the Sun",
-      "url": "https://open.spotify.com/track/0X3d9gx7UDYgcwwkgTeNLR"
+      "duration_ms": 168106,
+      "name": "Oh My Love - Remastered 2010",
+      "url": "https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1"
     }
   ],
   "unique_name": "Soft 70s",

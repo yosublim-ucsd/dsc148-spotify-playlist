@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: J\u00e3o",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Vitor Kley",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -1121,6 +1121,28 @@
     },
     {
       "album": {
+        "name": "Canoa",
+        "url": "https://open.spotify.com/album/3yVv0gmK4EdJNQBWt6au3D"
+      },
+      "artists": [
+        {
+          "name": "kamaitachi",
+          "url": "https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm"
+        },
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177605,
+      "name": "Canoa",
+      "url": "https://open.spotify.com/track/2LneA7MOWuowIRaga0eO3t"
+    },
+    {
+      "album": {
         "name": "Capa de Revista",
         "url": "https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5"
       },
@@ -2238,7 +2260,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 177000,
       "name": "Desejos",
       "url": "https://open.spotify.com/track/6g3feIh4V5h3UMvuAifb4h"
@@ -2866,7 +2888,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 186428,
       "name": "Eu Pensei Muito na Gente",
       "url": "https://open.spotify.com/track/2rTrI2Ci5DlokeE7odH4SU"
@@ -3750,7 +3772,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 152346,
       "name": "Incompar\u00e1vel",
       "url": "https://open.spotify.com/track/3e0X9b18FDVcWJmXwU7fE4"
@@ -4208,6 +4230,24 @@
       "duration_ms": 177014,
       "name": "Mais Que Ontem",
       "url": "https://open.spotify.com/track/1KshLJaAFxRowOEKgdgk9D"
+    },
+    {
+      "album": {
+        "name": "A Bolha Ao Vivo em S\u00e3o Paulo, Pt. 2",
+        "url": "https://open.spotify.com/album/5U1XbsQaSTr84Tyy1R36GV"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Mal Te Conhe\u00e7o - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Jd7K1nYzdycz1DuY9RH1m"
     },
     {
       "album": {
@@ -4840,6 +4880,24 @@
       "duration_ms": 214464,
       "name": "N",
       "url": "https://open.spotify.com/track/7iNcOVH9n4EEY2rwWAQOsA"
+    },
+    {
+      "album": {
+        "name": "De Volta Ao Novo - Volume 1",
+        "url": "https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186280,
+      "name": "N-U-M-A-B-O-A",
+      "url": "https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd"
     },
     {
       "album": {

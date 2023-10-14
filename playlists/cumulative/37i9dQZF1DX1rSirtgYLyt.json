@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Fortune Teller",
+        "url": "https://open.spotify.com/album/0J4GJQ0Mgp63AEiHFYrQ1B"
+      },
+      "artists": [
+        {
+          "name": "Deltaphonic",
+          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288932,
+      "name": "Fortune Teller",
+      "url": "https://open.spotify.com/track/0aRHwNMbIxgVjrqPBEdbGZ"
+    },
+    {
+      "album": {
         "name": "B.B. King & Friends - 80",
         "url": "https://open.spotify.com/album/5xQz73Q2PPi3xeoLrg1uce"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "The best of Brazilian House. Photo: Cat Dealers",
+  "description": "The best of Brazilian House. Photo: Riro",
   "name": "House Brasil",
   "tracks": [
     {
@@ -126,6 +126,24 @@
       "duration_ms": 196369,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/1D2k8w6a7pGgm01Q3xLiae"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3g0z38jrU0AE7aJNYniLBq"
+      },
+      "artists": [
+        {
+          "name": "Riro",
+          "url": "https://open.spotify.com/artist/4NqnlCPDCBgLdVOY8lDark"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5AiGklmXZAAKUlfNs1su49"
     },
     {
       "album": {
@@ -434,7 +452,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 289000,
       "name": "Disco Lover",
       "url": "https://open.spotify.com/track/1V9rQA9gg0z1mImwUvXMKS"
@@ -1508,10 +1526,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 510967,
       "name": "The Invisibles",
       "url": "https://open.spotify.com/track/2SylThwYhtMPGr1OIFy976"
+    },
+    {
+      "album": {
+        "name": "The Valve",
+        "url": "https://open.spotify.com/album/4qIndp2du7jcYjd5Gd2GfK"
+      },
+      "artists": [
+        {
+          "name": "Almek",
+          "url": "https://open.spotify.com/artist/0OWFz4qVgVrnaPpvhOAZYa"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137540,
+      "name": "The Valve",
+      "url": "https://open.spotify.com/track/4q9aaBA5hxLr7VpOM61S0F"
     },
     {
       "album": {

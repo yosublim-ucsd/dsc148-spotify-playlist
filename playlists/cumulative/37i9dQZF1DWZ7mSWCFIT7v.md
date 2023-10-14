@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-335 songs - 1 day 3 hr 13 min
+336 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 | 2022-12-20 |  |
 | [14Mm](https://open.spotify.com/track/2bjumbwYUXyGmCoUgVORCC) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS) | [Long Exposure](https://open.spotify.com/album/1Z3AfcdNKfUDB6BZBT3QRY) | 7:54 | 2021-10-06 | 2022-07-29 |
 | [161,1](https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo) | [Ulises Conti](https://open.spotify.com/artist/2GbKQKL9D1dkfoSMeWM7vV) | [1234,8](https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G) | 5:58 | 2021-10-06 | 2023-05-05 |
-| [1977](https://open.spotify.com/track/5CPTy1vepzxa0zqcs7F4F1) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Meemo Comma](https://open.spotify.com/artist/46fSsw6Lx6s1kvYGnb4pnd) | [1977](https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM) | 5:36 | 2023-04-15 |  |
+| [1977](https://open.spotify.com/track/5CPTy1vepzxa0zqcs7F4F1) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Meemo Comma](https://open.spotify.com/artist/46fSsw6Lx6s1kvYGnb4pnd) | [1977](https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM) | 5:36 | 2023-04-15 | 2023-10-14 |
 | [3 Sided](https://open.spotify.com/track/0QMv6RWTMqR2OqiUBke2mV) | [FFT](https://open.spotify.com/artist/4a3VAtqVMgurek8wZP5Nm6) | [Clear](https://open.spotify.com/album/0Je5XzFdnFSVL31MN3TdHQ) | 5:12 | 2022-07-15 | 2022-08-11 |
 | [4 Ya Kiss](https://open.spotify.com/track/1qjd5CoUbzA7CNnB06flYN) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [4 Ya Kiss / 4 Ya Bliss](https://open.spotify.com/album/1m5Fdo7XNGZ8TunvSg948H) | 4:07 | 2022-09-07 | 2022-12-08 |
 | [5](https://open.spotify.com/track/1EZryQ41Rf8lFvdFLWErs1) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 4:04 | 2022-12-16 | 2023-10-02 |
@@ -38,7 +38,7 @@
 | [Arpeggi](https://open.spotify.com/track/5c30Lqd4zY3dpMK2usb9yU) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/3DzlkHEQtb0ABoxze4Zxi7) | 4:45 | 2021-10-06 | 2022-07-29 |
 | [Arpeggi](https://open.spotify.com/track/6OQTJ7llyUiejKFxR4MUuy) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz) | 4:45 | 2021-10-06 |  |
 | [Arthur](https://open.spotify.com/track/0FLNKkwmlA8IN2RN1KNIHt) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Square One](https://open.spotify.com/album/5IruA91DcFLqjsryE4CMuZ) | 7:05 | 2021-10-06 | 2022-07-29 |
-| [Arthur](https://open.spotify.com/track/7AFNqxLKcSL0LpNpOgmhKt) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Square One](https://open.spotify.com/album/2m4Et0BnKCV3SoJCeJVmSZ) | 7:05 | 2021-10-06 | 2023-10-12 |
+| [Arthur](https://open.spotify.com/track/7AFNqxLKcSL0LpNpOgmhKt) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Square One](https://open.spotify.com/album/2m4Et0BnKCV3SoJCeJVmSZ) | 7:05 | 2021-10-06 |  |
 | [Artificial Authentic](https://open.spotify.com/track/1Enw5MZBUVnrTzbzwBbpSF) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Artificial Authentic](https://open.spotify.com/album/1hNq0oYtTHuTotskwcBFq1) | 3:35 | 2021-10-06 | 2022-07-28 |
 | [Attende](https://open.spotify.com/track/3YGYDn8htVD9CtTW4AmlRm) | [Pjusk](https://open.spotify.com/artist/1iqn4OAlsj7UVYzIfNGctq), [Tortusa](https://open.spotify.com/artist/5V9GUZs0R81FpHxKoY1gfo) | [Sakne Verda](https://open.spotify.com/album/36ruLBsItthE59Qe6tptau) | 5:16 | 2021-10-06 | 2022-07-29 |
 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 | 2021-10-06 |  |
@@ -204,12 +204,13 @@
 | [Odyssey](https://open.spotify.com/track/38CvS1tbJBGBxV4TCJda4M) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [El Caso Figo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/75YNOhNpjEsAG4ktyJjqLy) | 4:41 | 2022-08-31 |  |
 | [Ola De Luz](https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [1994](https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE) | 10:45 | 2022-09-27 |  |
 | [Old Organs](https://open.spotify.com/track/2ZtCst2Z5UNpMmTvqGPfT0) | [Tangents](https://open.spotify.com/artist/76rNPeXwFcvii9vnKMDnn0) | [Old Organs](https://open.spotify.com/album/2eM78Bk4UTo4eNbSj3RArV) | 6:35 | 2021-10-06 | 2022-07-29 |
+| [Onyx](https://open.spotify.com/track/5FBtKWOHXlTbbrV8r86yDt) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm), [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Onyx](https://open.spotify.com/album/55xrsiUHPKRdZT4SMLqz0O) | 4:11 | 2023-10-13 |  |
 | [Opak](https://open.spotify.com/track/01XBVQvgUeUMSrznKTR1X7) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Opak](https://open.spotify.com/album/4vnp9u6zjv2U8pp40jpiBz) | 5:37 | 2023-03-31 | 2023-05-24 |
 | [Opalescent](https://open.spotify.com/track/5eKJw3rt8AteMAdixjvpjf) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Sub Surface](https://open.spotify.com/album/6SXiI193XZMG5LY7MoAmvQ) | 5:58 | 2021-10-06 | 2022-07-27 |
 | [Oquo Quooon](https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 3:51 | 2021-10-06 |  |
 | [Panspermia](https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Panspermia](https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D) | 3:08 | 2021-10-06 |  |
 | [Paravents](https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Wrecked Exotic](https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz) | 4:50 | 2022-02-18 | 2023-03-04 |
-| [Park Line](https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:11 | 2021-10-06 |  |
+| [Park Line](https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:11 | 2021-10-06 | 2023-10-14 |
 | [Parlama](https://open.spotify.com/track/3xIQr3xDTB1OayWyjyufec) | [Konduku](https://open.spotify.com/artist/64v9ctTSV0oUJeZTFBoosp) | [Parlama](https://open.spotify.com/album/0jPL6TkST7UH2Zu9hobEpp) | 8:35 | 2021-10-06 | 2022-07-29 |
 | [Part 3](https://open.spotify.com/track/5lr9zsPpnk6XRHpNZWIHyh) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Posle Vsego](https://open.spotify.com/album/5o1DyqLkD2xTi6txPdPBS5) | 4:44 | 2022-02-18 | 2022-07-29 |
 | [Phasma Gigas](https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm) | [Molero](https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ) | [Ficciones Del Trópico](https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV) | 4:29 | 2021-10-06 |  |

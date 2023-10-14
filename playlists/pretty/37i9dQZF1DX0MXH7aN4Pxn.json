@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 686753,
+  "num_followers": 685927,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzgwMDc0MGEyNGY1OTIxNjM5ZjFhNGZjNzk5ZjZmYzE3MmZlM2Qy",
+  "snapshot_id": "MCw2MDJkMmZmNzFlMDNhYzg2NjM1MTQ2MTMzMjlkZDI1ZTQ2MDYzNjg2",
   "tracks": [
     {
       "added_at": "2023-10-06 00:01:00",
@@ -307,6 +307,26 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
+        "name": "Drums (Feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "Drums (Feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 220360,
       "name": "Groove Thang",
       "url": "https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "Drums (Feat. Kim Petras)",
-        "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Drums (Feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -443,26 +443,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Stop This Flame (Celeste x MK)",
-        "url": "https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "Stop This Flame - Celeste x MK",
-      "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
       },
@@ -479,18 +459,22 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Tell Me Something Good",
-        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
+        "name": "Stop This Flame (Celeste x MK)",
+        "url": "https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK"
       },
       "artists": [
         {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         }
       ],
-      "duration_ms": 249678,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
+      "duration_ms": 203946,
+      "name": "Stop This Flame - Celeste x MK",
+      "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -583,38 +567,18 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "New Bottega",
-        "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
+        "name": "Tell Me Something Good",
+        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
       },
       "artists": [
         {
-          "name": "Torren Foot",
-          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
-        },
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
         }
       ],
-      "duration_ms": 188915,
-      "name": "New Bottega",
-      "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "Talamanca",
-        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
-      },
-      "artists": [
-        {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        }
-      ],
-      "duration_ms": 186727,
-      "name": "Talamanca",
-      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
+      "duration_ms": 249678,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -635,6 +599,42 @@
       "duration_ms": 160000,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Talamanca",
+        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
+      },
+      "artists": [
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        }
+      ],
+      "duration_ms": 186727,
+      "name": "Talamanca",
+      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "New Bottega",
+        "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        },
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "duration_ms": 188915,
+      "name": "New Bottega",
+      "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        }
+      ],
+      "duration_ms": 150991,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv"
       },
@@ -799,18 +815,18 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
+        "name": "Just Feels Tight",
+        "url": "https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS"
       },
       "artists": [
         {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         }
       ],
-      "duration_ms": 150991,
-      "name": "I Will Survive",
-      "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
+      "duration_ms": 197977,
+      "name": "Just Feels Tight",
+      "url": "https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -831,22 +847,6 @@
       "duration_ms": 200826,
       "name": "Pleasure Peak",
       "url": "https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "Just Feels Tight",
-        "url": "https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 197977,
-      "name": "Just Feels Tight",
-      "url": "https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 186541,
-      "name": "Don't Stop Just Yet",
-      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "We Come 1",
         "url": "https://open.spotify.com/album/6Tc47Ct756wIjmDPpRfrKW"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 178285,
       "name": "We Come 1",
       "url": "https://open.spotify.com/track/0drzO94bmrMrel3GodCweJ"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "God Made Me Phunky (Jess Bays Remix)",
+        "url": "https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl"
+      },
+      "artists": [
+        {
+          "name": "MD X-Spress",
+          "url": "https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS"
+        },
+        {
+          "name": "Jess Bays",
+          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+        }
+      ],
+      "duration_ms": 220270,
+      "name": "God Made Me Phunky - Jess Bays Remix",
+      "url": "https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -947,22 +947,22 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "God Made Me Phunky (Jess Bays Remix)",
-        "url": "https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl"
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
       },
       "artists": [
         {
-          "name": "MD X-Spress",
-          "url": "https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS"
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
         },
         {
-          "name": "Jess Bays",
-          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 220270,
-      "name": "God Made Me Phunky - Jess Bays Remix",
-      "url": "https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n"
+      "duration_ms": 186541,
+      "name": "Don't Stop Just Yet",
+      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Au Seve",
-        "url": "https://open.spotify.com/album/2khQnnhKRdljReqsaYuk3N"
-      },
-      "artists": [
-        {
-          "name": "Julio Bashmore",
-          "url": "https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG"
-        }
-      ],
-      "duration_ms": 393387,
-      "name": "Au Seve",
-      "url": "https://open.spotify.com/track/7w0W6W9dz5lVH3M3IWgwIT"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "Every Single Time (with Silky)",
         "url": "https://open.spotify.com/album/7t7ONZWC56jEHLGBTKPZSX"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 167102,
       "name": "Every Single Time (with Silky)",
       "url": "https://open.spotify.com/track/61drLfij7yoXMTYIY8088V"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Au Seve",
+        "url": "https://open.spotify.com/album/2khQnnhKRdljReqsaYuk3N"
+      },
+      "artists": [
+        {
+          "name": "Julio Bashmore",
+          "url": "https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG"
+        }
+      ],
+      "duration_ms": 393387,
+      "name": "Au Seve",
+      "url": "https://open.spotify.com/track/7w0W6W9dz5lVH3M3IWgwIT"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -1915,22 +1915,22 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Chucks",
-        "url": "https://open.spotify.com/album/1NtBG3u5z3xHdvl3fYFaZW"
+        "name": "Only Honest On The Weekend",
+        "url": "https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q"
       },
       "artists": [
         {
-          "name": "Mi Casa",
-          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
         }
       ],
-      "duration_ms": 169538,
-      "name": "Chucks",
-      "url": "https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6"
+      "duration_ms": 168960,
+      "name": "Through The Night (feat. 220 KID)",
+      "url": "https://open.spotify.com/track/6WJaPzHfbfomchPuCNSjli"
     }
   ],
   "unique_name": "PARTY MODE",

@@ -4,7 +4,7 @@
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-407 songs - 1 day 0 hr 6 min
+408 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Benzin](https://open.spotify.com/track/5JYSlt9iKSWrGWt16trfMZ) | [Boogarins](https://open.spotify.com/artist/0ohvsn0lgt51qZUbu9ct4s) | [Manual](https://open.spotify.com/album/3THs8EgoGs9oSKahSlN4yP) | 4:10 | 2022-03-25 | 2022-04-18 |
 | [Better Part of Me](https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Better Part of Me](https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw) | 3:46 | 2022-11-25 | 2023-03-10 |
 | [Big Jet Plane \- Radio Edit](https://open.spotify.com/track/7xCkZq0aRtFoTFROPM63l8) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Big Jet Plane](https://open.spotify.com/album/6nhLs4qiFClX5ef3YaCfFm) | 3:44 | 2022-03-25 | 2022-04-14 |
-| [Birch](https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:30 | 2022-04-06 | 2023-10-10 |
+| [Birch](https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:30 | 2022-04-06 |  |
 | [Blindside](https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Blindside](https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ) | 3:31 | 2023-08-04 |  |
 | [Bloodstream](https://open.spotify.com/track/5v4sZRuvWDcisoOk1PFv6T) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 5:00 | 2022-04-06 | 2023-01-14 |
 | [Blue Moon](https://open.spotify.com/track/2uWwCU5X1TjJiiN6BbUaB8) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/3BBFUxPg8KFmAv96SmY4ok) | 4:02 | 2022-03-25 | 2022-04-15 |
@@ -374,7 +374,7 @@
 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 | 2022-07-04 |  |
 | [Tiger Striped Sky](https://open.spotify.com/track/7t2tScsMgo0PavnxPpGg9i) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Tiger Striped Sky](https://open.spotify.com/album/0D4pfCDwAAZ5c4ZB0lTObT) | 4:01 | 2022-03-25 | 2022-04-20 |
 | [Todas As Cores \- Versão Acústica](https://open.spotify.com/track/4xiAj5nbQAcQhcqXiqNAg3) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0) | [Todas As Cores](https://open.spotify.com/album/3ASmfjCtnCsvv0PrYoSevq) | 3:43 | 2021-12-24 | 2022-07-29 |
-| [Todo Azul](https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Todo Azul](https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S) | 2:32 | 2023-09-22 |  |
+| [Todo Azul](https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Todo Azul](https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S) | 2:32 | 2023-09-22 | 2023-10-14 |
 | [Tolo](https://open.spotify.com/track/3tSCASsxRHEzUsePqBqNx0) | [De Maria](https://open.spotify.com/artist/0svtu3vOORPQEMmxV37rJn), [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Tolo](https://open.spotify.com/album/2PrBFoMEpcBsLgI3ATa76s) | 3:55 | 2021-12-24 | 2022-07-29 |
 | [Travessia](https://open.spotify.com/track/1CgWBmCV49s52zhkmlmDix) | [Emanazul](https://open.spotify.com/artist/5vMsEGLBQ3E8CXVrifPm47) | [Travessia](https://open.spotify.com/album/53OUMdrEJiX543Cx5PF8U7) | 3:05 | 2021-12-24 | 2022-07-25 |
 | [Traços Simples \- Acústica](https://open.spotify.com/track/0spR7ssxNPf03W0t3zoR8A) | [Zéis](https://open.spotify.com/artist/57JtvsAwbdXuYyRXOht6Gj) | [Sessões Acústicas](https://open.spotify.com/album/6kLwNt91Nyx0y8mbKjGRSa) | 3:38 | 2022-03-25 | 2022-04-16 |
@@ -386,6 +386,7 @@
 | [Um Fim](https://open.spotify.com/track/6NWstKFMrsQIsRX6Os7gxX) | [Jay Horsth](https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B) | [Um Fim](https://open.spotify.com/album/1xBh6y6msgEGUeZMypL83N) | 3:18 | 2022-03-25 | 2022-06-01 |
 | [Um Novo Amor \- Acústica](https://open.spotify.com/track/1s0hTZv5DvzspinUEgZ6Xd) | [Gabriel Piccolo](https://open.spotify.com/artist/1nBuS4ihAezxamZfDFSOfz) | [Um Novo Amor](https://open.spotify.com/album/55s6HcXhR2bagsTzNGVWJQ) | 2:31 | 2022-01-21 | 2022-06-20 |
 | [Um Par Ímpar](https://open.spotify.com/track/1LqK404kKMMN7jJAo8pJ7v) | [Paulinho Moska](https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Um Par Ímpar](https://open.spotify.com/album/0n4JzgfSlW2fXR7STLm2SW) | 3:48 | 2022-06-03 | 2022-06-17 |
+| [Um Pescador](https://open.spotify.com/track/5DBVaJ9xCQ5cyRV02s0IF9) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [Um Pescador](https://open.spotify.com/album/0wWTuO6mnmsc1vhol4Gugn) | 3:49 | 2023-10-13 |  |
 | [Um Pouco Mais](https://open.spotify.com/track/0E1ZqVJQeRembqvvniCS7E) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Bruna Magalhães](https://open.spotify.com/album/4EgPhNp6NjZ7Q7Wt8tvvPf) | 3:01 | 2021-12-24 | 2022-06-08 |
 | [Um Tanto](https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Sol\-Te](https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6) | 3:37 | 2021-12-24 | 2022-07-29 |
 | [Unconditional](https://open.spotify.com/track/6s4zenGcbyP5D9v9YATbmX) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4) | 3:44 | 2022-03-25 | 2022-04-14 |
@@ -398,7 +399,7 @@
 | [Verão](https://open.spotify.com/track/5rNcfma0PgkCMgJCbsdJEW) | [Ixã](https://open.spotify.com/artist/44fxF9nKWZaTM2IKcJbdaf) | [Verão](https://open.spotify.com/album/3POD3iBXKuBTdaEDncqj4q) | 3:35 | 2023-01-13 | 2023-04-16 |
 | [vi você passando hoje](https://open.spotify.com/track/2DO4o2qvvFIXPw3rQ6H4Iv) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [vi você passando hoje](https://open.spotify.com/album/7DDwCMi1FmhoQPYepZy2Hs) | 3:01 | 2022-03-25 | 2022-04-21 |
 | [Viagem Perdida](https://open.spotify.com/track/6XAaA5z3y7C9gHoWW8g4id) | [Plutão Já Foi Planeta](https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV) | [Slap Sessions](https://open.spotify.com/album/4OUVJBnYrmvaLLUImtSgAT) | 5:00 | 2022-04-06 | 2022-04-21 |
-| [Vida Lá Fora](https://open.spotify.com/track/2K0j2vGd9FRdY3yPIm3QQW) | [Janeiro](https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6) | [Vida Lá Fora](https://open.spotify.com/album/0SJaoMf2HVlCpWCYRLNZYI) | 3:10 | 2023-09-22 |  |
+| [Vida Lá Fora](https://open.spotify.com/track/2K0j2vGd9FRdY3yPIm3QQW) | [Janeiro](https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6) | [Vida Lá Fora](https://open.spotify.com/album/0SJaoMf2HVlCpWCYRLNZYI) | 3:10 | 2023-09-22 | 2023-10-14 |
 | [Você Chegou](https://open.spotify.com/track/6tyWzVdRd6loW3mkfhh4xV) | [CORA](https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp), [Arthur Favero](https://open.spotify.com/artist/6ro3Jx7xVl5MVF4HzZ2puK) | [Você Chegou](https://open.spotify.com/album/2H0srRA21uGJ4UMleEPvWK) | 2:20 | 2021-12-24 | 2022-07-29 |
 | [Você Me Faz Tão Bem \- Acústico](https://open.spotify.com/track/1Yrwc1kcip7IGd39X4tCeQ) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Flavio Ferrari \(Acústico\)](https://open.spotify.com/album/0sTEHiMWMfaYByU24aLOJj) | 3:14 | 2022-01-21 | 2022-04-12 |
 | [Vírgula](https://open.spotify.com/track/3hfSi8c18dgL3lO0u1HRDw) | [Cris Romagna](https://open.spotify.com/artist/4ITd00e5r2QhotcIdfNMRW) | [Vírgula](https://open.spotify.com/album/3MhS3Bu4OAU9tPQzoTg4pP) | 3:13 | 2021-12-24 | 2022-07-29 |

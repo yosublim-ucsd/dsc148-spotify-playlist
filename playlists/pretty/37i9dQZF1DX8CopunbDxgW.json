@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: Polo & Pan",
-  "num_followers": 862976,
+  "num_followers": 863074,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDMwNDM1MDYyMGRhMWJkZTFhMmE3OWFhMWFkMDdiMWFkZDI1MmQ3",
+  "snapshot_id": "MCxhZDU3OTJmYTdhNzRkMjA5Y2M3ZTI2YWE3ZjQxNmFlZTg3NzliMjQz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/6oaWJD1A4bgpiqNWvp0mwk"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3dyI5XL7jMz905RsJiGDjf"
+    },
+    {
       "added_at": "2023-10-02 15:19:18",
       "album": {
         "name": "Deadbeat Gospel",
@@ -59,6 +75,94 @@
       "duration_ms": 254791,
       "name": "Deadbeat Gospel",
       "url": "https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT"
+    },
+    {
+      "added_at": "2023-10-02 15:19:18",
+      "album": {
+        "name": "Mosquito",
+        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Moth Love",
+        "url": "https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 202391,
+      "name": "Moth Love",
+      "url": "https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA"
+    },
+    {
+      "added_at": "2023-10-02 15:19:18",
+      "album": {
+        "name": "JOY (I Did You Wrong)",
+        "url": "https://open.spotify.com/album/5a929ZHQr9ctGnhlnfWjra"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "JOY (I Did You Wrong)",
+      "url": "https://open.spotify.com/track/31ZBEAVjrABh1eSSDYPnRc"
+    },
+    {
+      "added_at": "2023-10-02 15:19:18",
+      "album": {
+        "name": "UNDER THE ILLUSION",
+        "url": "https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 236370,
+      "name": "UNDER THE ILLUSION",
+      "url": "https://open.spotify.com/track/6c0dPWNb18BL7RLwwlZ717"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2zS0XSliGnWyRc3mqBmZdq"
+      },
+      "artists": [
+        {
+          "name": "Love Language",
+          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
+        },
+        {
+          "name": "James Patterson",
+          "url": "https://open.spotify.com/artist/154uf79BQbw6Q4C5dPzWdW"
+        },
+        {
+          "name": "Apollo Xo",
+          "url": "https://open.spotify.com/artist/42Xhy0DeyUkNP8iQGnSG3T"
+        }
+      ],
+      "duration_ms": 167639,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/5SfOiw8SfnZhCRRARbMiRa"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -81,100 +185,20 @@
       "url": "https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh"
     },
     {
-      "added_at": "2023-10-02 15:19:18",
+      "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Mosquito",
-        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         }
       ],
-      "duration_ms": 146240,
-      "name": "Mosquito",
-      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "JOY (I Did You Wrong)",
-        "url": "https://open.spotify.com/album/5a929ZHQr9ctGnhlnfWjra"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "JOY (I Did You Wrong)",
-      "url": "https://open.spotify.com/track/31ZBEAVjrABh1eSSDYPnRc"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Hotel Surrender (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6OlbbKp6Xdbj35dVieredT"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 221997,
-      "name": "I Wanna Try Something New",
-      "url": "https://open.spotify.com/track/2zwm83YNwgh9VfLG6gYoUg"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "let me go*",
-        "url": "https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "let me go*",
-      "url": "https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "UNDER THE ILLUSION",
-        "url": "https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 236370,
-      "name": "UNDER THE ILLUSION",
-      "url": "https://open.spotify.com/track/6c0dPWNb18BL7RLwwlZ717"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Personal Effects",
-        "url": "https://open.spotify.com/album/7KqU1iCysBTl3Q8DH3oma9"
-      },
-      "artists": [
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 239946,
-      "name": "Personal Effects",
-      "url": "https://open.spotify.com/track/03BQfMy5WubpVtroojnaxA"
+      "duration_ms": 249012,
+      "name": "I Can Make It",
+      "url": "https://open.spotify.com/track/4ruM7ZgntoMNIj5pm0tARQ"
     },
     {
       "added_at": "2023-10-02 15:19:18",
@@ -195,6 +219,94 @@
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N"
+    },
+    {
+      "added_at": "2023-10-02 15:19:18",
+      "album": {
+        "name": "let me go*",
+        "url": "https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "let me go*",
+      "url": "https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Now U Do (Carlita Remix)",
+        "url": "https://open.spotify.com/album/7t88wDCAJBUW98FDo1imXi"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 213847,
+      "name": "Now U Do (Carlita Remix) - Edit",
+      "url": "https://open.spotify.com/track/4npDRstA1cZPDshgtC3mvv"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Hotel Surrender (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6OlbbKp6Xdbj35dVieredT"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 221997,
+      "name": "I Wanna Try Something New",
+      "url": "https://open.spotify.com/track/2zwm83YNwgh9VfLG6gYoUg"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Popsicle Obstacle",
+        "url": "https://open.spotify.com/album/3oQkuW371JRV2E917TSXIL"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Hem\u015fin",
+      "url": "https://open.spotify.com/track/0vyqDKbqhQUUmIeEtiwHiR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Personal Effects",
+        "url": "https://open.spotify.com/album/7KqU1iCysBTl3Q8DH3oma9"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 239946,
+      "name": "Personal Effects",
+      "url": "https://open.spotify.com/track/03BQfMy5WubpVtroojnaxA"
     },
     {
       "added_at": "2023-10-02 15:19:18",
@@ -227,22 +339,6 @@
       "duration_ms": 199782,
       "name": "Poet",
       "url": "https://open.spotify.com/track/6A4H6S0Or4XQ9Q2pPOIYGM"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 269249,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
     },
     {
       "added_at": "2023-10-02 15:19:18",
@@ -1667,26 +1763,6 @@
     {
       "added_at": "2023-10-02 15:19:18",
       "album": {
-        "name": "Oj & prosecco",
-        "url": "https://open.spotify.com/album/5rbOEMhXgje1L0VRvVSTgh"
-      },
-      "artists": [
-        {
-          "name": "Emilia Ali",
-          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
-        },
-        {
-          "name": "Arlo",
-          "url": "https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Oj & prosecco",
-      "url": "https://open.spotify.com/track/10gQM8CRmJoGpID7nEa0yi"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
         "name": "WASTED ON ME",
         "url": "https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g"
       },
@@ -2239,26 +2315,6 @@
     {
       "added_at": "2023-10-02 15:19:18",
       "album": {
-        "name": "Through My Teeth",
-        "url": "https://open.spotify.com/album/1nN0SJGvy1QB3R6vmJP9A5"
-      },
-      "artists": [
-        {
-          "name": "Ukiyo",
-          "url": "https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x"
-        },
-        {
-          "name": "Emilia Ali",
-          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
-        }
-      ],
-      "duration_ms": 228091,
-      "name": "Through My Teeth",
-      "url": "https://open.spotify.com/track/5yPQydEFlztCWLs9vzf0lA"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
         "name": "Avoiding Pain",
         "url": "https://open.spotify.com/album/4H57gAzcBcaUAb4ua9H3zD"
       },
@@ -2311,22 +2367,6 @@
     {
       "added_at": "2023-10-02 15:19:18",
       "album": {
-        "name": "LOSER",
-        "url": "https://open.spotify.com/album/15FzltfVg1eFjGvSVNLUOA"
-      },
-      "artists": [
-        {
-          "name": "KUOKO",
-          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
-        }
-      ],
-      "duration_ms": 224270,
-      "name": "LOSER",
-      "url": "https://open.spotify.com/track/1l0SWEZS3M7MaVf0765yah"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
         "name": "Myriad",
         "url": "https://open.spotify.com/album/4cQy7icF8mFCjxUU3br4wy"
       },
@@ -2347,22 +2387,6 @@
       "duration_ms": 287720,
       "name": "Peaks & Valleys",
       "url": "https://open.spotify.com/track/6uXIdYG3WQm6tPGACvZMDE"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "Empty Feeling",
-        "url": "https://open.spotify.com/album/2fXhGl2LxpMN6akDmA2BG9"
-      },
-      "artists": [
-        {
-          "name": "Origami Human",
-          "url": "https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t"
-        }
-      ],
-      "duration_ms": 215593,
-      "name": "Empty Feeling",
-      "url": "https://open.spotify.com/track/2tSj6yeWccdNqMB634vLaZ"
     },
     {
       "added_at": "2023-10-02 15:19:18",
@@ -2579,22 +2603,6 @@
       "duration_ms": 259120,
       "name": "Do Nothing",
       "url": "https://open.spotify.com/track/6CgsQGQXleG4nxzr4rRp1A"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "Para Casa",
-        "url": "https://open.spotify.com/album/2UpgAYwfRTPiR8ClzOzksb"
-      },
-      "artists": [
-        {
-          "name": "Effemar",
-          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
-        }
-      ],
-      "duration_ms": 248976,
-      "name": "Para Casa",
-      "url": "https://open.spotify.com/track/19I8hpaVjfA47n4RAMuRQi"
     },
     {
       "added_at": "2023-10-02 15:19:18",

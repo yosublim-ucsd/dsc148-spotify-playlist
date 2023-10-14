@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Jonah Kagen
 
-216 songs - 11 hr 57 min
+217 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Better Days \- Stripped](https://open.spotify.com/track/4eYAj2IhOBJwL9s6sFsCwi) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days \(Stripped\)](https://open.spotify.com/album/5hSfMn1K0oSbf5mYpuNzXK) | 3:30 | 2022-01-28 | 2022-07-29 |
 | [Better Days \- Stripped](https://open.spotify.com/track/5278MGuTLVxZ4NWrpMjajs) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:30 | 2022-07-15 | 2023-07-01 |
 | [Bite Me \- Acoustic](https://open.spotify.com/track/71BPElgdb5MtfIJYGuTWqB) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me \(Acoustic\)](https://open.spotify.com/album/65HfGumTbHNFANxNu07PlC) | 3:09 | 2022-01-28 | 2023-03-11 |
-| [bitter bitches](https://open.spotify.com/track/6Pv3ySXkwWN5C8yUUy2L9e) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [bitter bitches](https://open.spotify.com/album/3ROZH4gXF4nurpSAmJsU5b) | 1:29 | 2023-09-22 |  |
+| [bitter bitches](https://open.spotify.com/track/6Pv3ySXkwWN5C8yUUy2L9e) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [bitter bitches](https://open.spotify.com/album/3ROZH4gXF4nurpSAmJsU5b) | 1:29 | 2023-09-22 | 2023-10-14 |
 | [Black And White \- Stripped](https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Black And White \(Stripped\)](https://open.spotify.com/album/21AixqCPZuSQLa7Tw9dNm4) | 3:52 | 2022-01-28 | 2023-06-17 |
 | [Black Sheep](https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Black Sheep](https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w) | 3:30 | 2023-09-01 |  |
 | [Body Better \- Acoustic](https://open.spotify.com/track/4e3QW9GKxYi3fx7RjjZh58) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Body Better \(Acoustic\)](https://open.spotify.com/album/510JGc0LpOJbhiB0uOM9m9) | 3:15 | 2023-02-24 | 2023-06-10 |
@@ -160,6 +160,7 @@
 | [Nobody Loves Me](https://open.spotify.com/track/1SYqnlqZyI7dVYDEvdkBau) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Nobody Loves Me](https://open.spotify.com/album/1ahGUWtnA8tqb4zaKGzCTi) | 3:35 | 2023-06-30 | 2023-09-30 |
 | [Nobody's You](https://open.spotify.com/track/2ZIyBv5RsM12HZkCGEzFKh) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Nobody's You](https://open.spotify.com/album/09dtrFg01EKpw6oVMw6MI1) | 2:36 | 2023-06-30 |  |
 | [Numb Little Bug \- Piano Version](https://open.spotify.com/track/7zQs5RxMWQBVDTW9zl9CHu) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug \(Piano Version\)](https://open.spotify.com/album/4JJlvfntPA9YC3jWVgTTQv) | 2:45 | 2022-03-18 |  |
+| [On My Love \- Live Acoustic](https://open.spotify.com/track/0CZ0NcS4jXLR4I2zM3FKGq) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love \(Live Acoustic\)](https://open.spotify.com/album/4dBBsaKdTO58KorP8Z9qc3) | 3:44 | 2023-10-13 |  |
 | [One Night \- Stripped Version](https://open.spotify.com/track/46PZbNbQ37DDhMbuVkL8V0) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night \(Stripped Version\)](https://open.spotify.com/album/0IOkSCsKp7rixM8Q1Vzmxn) | 2:34 | 2022-01-28 |  |
 | [Paradise \- Acoustic](https://open.spotify.com/track/2t2ZWNGHKBD0egqxtCLloy) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/23yHB7E61DTKC1cWORnuhS) | 3:05 | 2022-01-28 | 2022-07-29 |
 | [Paradise \- Guitar Acoustic](https://open.spotify.com/track/6GlMK7hhbyC0mlC3x5r3IY) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise \(The Acoustics\)](https://open.spotify.com/album/7Jhw4zniJdzFWMt7iPmtZK) | 3:05 | 2022-10-14 | 2022-11-13 |

@@ -1527,6 +1527,28 @@
     },
     {
       "album": {
+        "name": "MEDUZA",
+        "url": "https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139047,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/7gT3poPl89krqi8qcBinyU"
+    },
+    {
+      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
       },
@@ -4969,6 +4991,28 @@
     },
     {
       "album": {
+        "name": "Salvation",
+        "url": "https://open.spotify.com/album/32qLU1MffxZU1biGO3dciZ"
+      },
+      "artists": [
+        {
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
+        },
+        {
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230322,
+      "name": "Salvation - Radio Edit",
+      "url": "https://open.spotify.com/track/7H6smF45tHjEuaNcN1lyrO"
+    },
+    {
+      "album": {
         "name": "Samum (8Kays Remix)",
         "url": "https://open.spotify.com/album/52VrTYzvEmiccQ8vMacUvM"
       },
@@ -4984,7 +5028,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 387427,
       "name": "Samum - 8Kays Remix",
       "url": "https://open.spotify.com/track/1h7E73gjm0VELmrT4TcLHo"
@@ -5170,6 +5214,28 @@
       "duration_ms": 213562,
       "name": "Sidewindah (feat. Flirta D)",
       "url": "https://open.spotify.com/track/3NGC2t1KnSOFcDQv8EI2Pl"
+    },
+    {
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/0bukLAr1ttYfDlBJ81qKYp"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "Maurice Kaar",
+          "url": "https://open.spotify.com/artist/4Tj0xN2fUJ8nxZEq5ikSRa"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230564,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/2QKv1gdooWYYvFo3YZaMcE"
     },
     {
       "album": {
@@ -6342,7 +6408,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 279543,
       "name": "Traces",
       "url": "https://open.spotify.com/track/13wSFbVCKZEWteQbaGq6Se"
@@ -6728,7 +6794,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 290322,
       "name": "Variant",
       "url": "https://open.spotify.com/track/1pyU3Kumkerbf4lGOsQdtG"

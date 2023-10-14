@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV?si=TGkHVFemQw2YpAZHXpnAjQ">Felo Le Tee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,260 likes - 55 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,019 likes - 55 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 54 | [Khekheleza \(Dlala Dlala\)](https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Thama Tee](https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR) | [Khekheleza \(Dlala Dlala\)](https://open.spotify.com/album/0xzQmemSpxC1d1XmNAQY80) | 5:29 |
 | 55 | [Basha \(feat\. Young Stunna, TOSS & Prvis3\)](https://open.spotify.com/track/3fYJsaw7TO4ZCqyhNeNs5l) | [Visca](https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO), [Ntwana R](https://open.spotify.com/artist/5JDQiJloYbt3F1A4kdxGA3), [Jnr Richi](https://open.spotify.com/artist/346XBuvmYlhQ9Nbg1M0hS6), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [Prvis3](https://open.spotify.com/artist/6lUvF9yVTjWlkHmLda4YZg) | [Basha \(feat\. Young Stunna, TOSS & Prvis3\)](https://open.spotify.com/album/55d4Y56ICYzqSaQ0uNbtEZ) | 6:17 |
 
-Snapshot ID: `MCxkNzQ4ZjdjZmYwMDIxYzc0NzdiNDg4Y2Q2OTFlOGYyYzE2NDZmM2Ez`
+Snapshot ID: `MCw5OGYyYTU1ZTU5Y2IyZDMxNzkwNGI4NWFjYTlhNzFmZjIxMWM2ZDJl`

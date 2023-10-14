@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 
 > I'll do yours if you do mine...The official playlist for Do Revenge, out now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,837 likes - 28 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,842 likes - 28 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 | 27 | [Bitch](https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM) | [Meredith Brooks](https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN) | [Blurring The Edges](https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1) | 4:12 |
 | 28 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
 
-Snapshot ID: `MCxmY2QwZWUwYzgzMTliZTZlOTQzYzNkNGJkYzgyNjc3NzgyMmFhMzNh`
+Snapshot ID: `MCw4YWY5ZjBiZGJmZjg1OTQ0MmEzOGU4YzYxNWMxMGVlOWQ3NGJkODQx`

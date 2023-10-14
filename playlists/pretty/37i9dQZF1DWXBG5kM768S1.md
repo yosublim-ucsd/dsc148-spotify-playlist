@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,096 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,122 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 42 | [Hva kjærlighet er](https://open.spotify.com/track/5V6QuMxE9efXTyUQYZWy38) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Duell](https://open.spotify.com/album/14wYWC5D0e7HuJI9oDjsuF) | 4:14 |
 | 43 | [Sommerfuggel I Vinterland](https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 4:18 |
 | 44 | [Ka e du redd for](https://open.spotify.com/track/2MAqhN1nrRbg1JnCLYfELW) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Ka e du redd for](https://open.spotify.com/album/5rmJQdmrA9PL6w6JHwiAfB) | 4:04 |
-| 45 | [Trøstevise \(Tröstevisa\)](https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an), [Cajsa Stina Åkerström](https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7) | [Imellom to Evigheter](https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya) | 4:14 |
-| 46 | [Falle til ro \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Falle til ro \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP) | 4:26 |
+| 45 | [Falle til ro \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Falle til ro \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP) | 4:26 |
+| 46 | [Trøstevise \(Tröstevisa\)](https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an), [Cajsa Stina Åkerström](https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7) | [Imellom to Evigheter](https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya) | 4:14 |
 | 47 | [Sangen om Gleden](https://open.spotify.com/track/1WSX7bzVuGMbHnDwAKAWHx) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx) | [Sangen om Gleden](https://open.spotify.com/album/3paMl15llkBy8nme7nOd7C) | 5:23 |
 | 48 | [Taxi](https://open.spotify.com/track/6ASAAhsCVhPnkqMhQEOBDj) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Langt heimafrå](https://open.spotify.com/album/5o51rxUIsacezjv3q6ahxO) | 4:33 |
-| 49 | [Ved Sida Av Deg](https://open.spotify.com/track/5kebMyBE7ZTMnHZh6RaoSm) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Flyge Fra](https://open.spotify.com/album/3MB6vxKquCpTWS0qd3aEX9) | 4:36 |
-| 50 | [Rosa](https://open.spotify.com/track/6sxLAqdDH7bzWX59dbenzB) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Brev](https://open.spotify.com/album/7dHWUhM8sCYDe6OGiYFwiM) | 3:21 |
+| 49 | [Rosa](https://open.spotify.com/track/6sxLAqdDH7bzWX59dbenzB) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Brev](https://open.spotify.com/album/7dHWUhM8sCYDe6OGiYFwiM) | 3:21 |
+| 50 | [Bror](https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bror](https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI) | 3:14 |
 
-Snapshot ID: `MCxlZDlhNDY2MzI2YzllYzBkNjliY2IwMjY5ZjlmNTk4MDc1MmI3YTFh`
+Snapshot ID: `MCw3NTliODcxNzNmMTdkZTUwMjFkNzNkYTNhMGU2MzNlNDY1MGEyNTMz`

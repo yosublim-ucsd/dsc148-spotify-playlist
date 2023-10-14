@@ -2,9 +2,9 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> Nothing but the best in modern country music\. Cover: Thomas Rhett & Morgan Wallen
+> Nothing but the best in modern country music\. Cover: Dustin Lynch
 
-570 songs - 1 day 6 hr 49 min
+571 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Feel Good](https://open.spotify.com/track/4uYDlFubKq2MFdosNK0Q04) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Feel Good](https://open.spotify.com/album/6EbuNiak8igHrZhvm8dmzA) | 2:49 | 2022-04-29 | 2022-07-23 |
 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 | 2022-12-30 | 2023-05-13 |
 | [Fillin' My Cup \(feat\. Little Big Town\)](https://open.spotify.com/track/1zj8nUbc4cSs9Fc733MFDy) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:11 | 2022-02-18 | 2022-12-10 |
+| [Fires Don't Start Themselves](https://open.spotify.com/track/07NRJ7TdZHv6x6oN5ag3HV) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Carolyn's Boy](https://open.spotify.com/album/475EaXHvy2e2QvNXkt6twf) | 3:46 | 2023-10-13 |  |
 | [First Taste of Gone](https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg) | 2:52 | 2022-06-17 | 2022-12-03 |
 | [Fish In The Sea](https://open.spotify.com/track/7do6jSnRFiYyjsMWsWd09D) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 2:49 | 2022-07-01 | 2022-09-10 |
 | [Fix'n To Break](https://open.spotify.com/track/47ckAjwHu73FP7DKZHyyRX) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fix'n To Break](https://open.spotify.com/album/4fCLfVVsxyY9TYvGIT9h6H) | 3:52 | 2023-02-10 | 2023-03-18 |
@@ -264,7 +265,7 @@
 | [Let Me Down Easy](https://open.spotify.com/track/0fKCbvMc6bcOW5lL7GN2qI) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Sky Full Of Stars](https://open.spotify.com/album/61YQphetN76rhyTm9hxPsR) | 3:13 | 2022-07-01 | 2023-06-24 |
 | [Let You](https://open.spotify.com/track/5geQViuoginSRR5juPCyLL) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs), [Raquel Cole](https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF) | [Nothing Is Meaningless](https://open.spotify.com/album/6mbfe0uLpLTiqc8chVvqIW) | 3:24 | 2022-04-06 | 2022-07-29 |
 | [Let You](https://open.spotify.com/track/7oreuhg7xeRxMcVQqQbqQb) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs), [Raquel Cole](https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF) | [Nothing Is Meaningless](https://open.spotify.com/album/4SSYeLg90pGj8YiRL9Fqti) | 3:24 | 2022-07-22 | 2022-11-12 |
-| [Let Your Boys Be Country](https://open.spotify.com/track/1v1bVyUOVYDpXRIcAJ24iQ) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Let Your Boys Be Country](https://open.spotify.com/album/7wA7u0gOJcHNl3EITL4674) | 3:16 | 2023-08-25 |  |
+| [Let Your Boys Be Country](https://open.spotify.com/track/1v1bVyUOVYDpXRIcAJ24iQ) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Let Your Boys Be Country](https://open.spotify.com/album/7wA7u0gOJcHNl3EITL4674) | 3:16 | 2023-08-25 | 2023-10-14 |
 | [Life](https://open.spotify.com/track/5ta8NyQiixodcCinI6jjS6) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life](https://open.spotify.com/album/4zRPTUJpjsQ9j4wEA4z9wB) | 3:52 | 2022-10-14 | 2022-11-12 |
 | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN) | 3:30 | 2023-05-12 |  |
 | [Like A Lady](https://open.spotify.com/track/2GVkgzOPqJSUVcfORntFAu) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do](https://open.spotify.com/album/6WFBqvXyejttGfBbyJllyd) | 3:01 | 2021-12-31 | 2022-03-03 |

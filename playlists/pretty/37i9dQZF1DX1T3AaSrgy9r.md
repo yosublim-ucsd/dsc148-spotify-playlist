@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 
 > Underground dance and alternative that went on to define a new millennium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,453 likes - 88 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,574 likes - 88 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 87 | [Weapon Of Choice](https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Halfway Between The Gutter And The Stars](https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst) | 5:45 |
 | 88 | [Snapshot](https://open.spotify.com/track/4iUEAUm9GfwOH1RHMHZEBA) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Puppy](https://open.spotify.com/album/3jMDKHg32dmMYGaDtlWu4C) | 4:09 |
 
-Snapshot ID: `MCw0MmQ5OGY5OTMyNDU1YmRhN2E3ZTZlNGI1YWQwMTk3NGQ5NmJmY2M4`
+Snapshot ID: `MCwxODdmOWZkZWFlY2Y4YzFkZmQwZTRjNzFhY2FjMGMyMWU4YjY1ZDli`

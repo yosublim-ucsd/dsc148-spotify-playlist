@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Shallipopi
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,760 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,064 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 51 | [ZaZoo Zehh](https://open.spotify.com/track/5CfdJYNGyd9ri674WxZIMt) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [ZaZoo Zehh](https://open.spotify.com/album/7JktjrthMuYVUBB5DU0SwO) | 3:34 |
 | 52 | [Bolanle](https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd) | [IVD](https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Bolanle](https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL) | 2:53 |
 | 53 | [Jaboti](https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jaboti](https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i) | 2:33 |
-| 54 | [Realize](https://open.spotify.com/track/1GfaxJMFAolWogWr2MNkZ3) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Realize](https://open.spotify.com/album/6CsuuMym36rdojCUMsiOud) | 2:55 |
-| 55 | [Caution \(Remix\)](https://open.spotify.com/track/0SO4p98PikYlEcZKa6YXv9) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Caution \(Remix\)](https://open.spotify.com/album/7nbqUtDbv8SvVWmwN2Pqig) | 2:26 |
+| 54 | [Caution \(Remix\)](https://open.spotify.com/track/0SO4p98PikYlEcZKa6YXv9) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Caution \(Remix\)](https://open.spotify.com/album/7nbqUtDbv8SvVWmwN2Pqig) | 2:26 |
+| 55 | [Realize](https://open.spotify.com/track/1GfaxJMFAolWogWr2MNkZ3) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Realize](https://open.spotify.com/album/6CsuuMym36rdojCUMsiOud) | 2:55 |
 | 56 | [Oga Mi Sir](https://open.spotify.com/track/7aAvNhf385lLD9WABzMqST) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Oga Mi Sir](https://open.spotify.com/album/0zxuEYK7xzifxOwf2KVltM) | 2:40 |
 | 57 | [Fun for Love](https://open.spotify.com/track/3doWW3a8etr8hhVSJXYhFv) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Fun for Love](https://open.spotify.com/album/3SHD5LOEnhMsJqwEoozkbQ) | 2:38 |
 | 58 | [New Born Fela](https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [New Born Fela](https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB) | 2:09 |
 | 59 | [Shaka](https://open.spotify.com/track/1HN2Q4IyIoJWqEQKeZSWNA) | [Small Doctor](https://open.spotify.com/artist/6QwPmy9hs9alo36XJ5pwsW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Shaka](https://open.spotify.com/album/29shi6mo00EIzN9kejVSI4) | 2:44 |
 | 60 | [My Life](https://open.spotify.com/track/0SJYLFDUX2F1IMTdXS23zI) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [My Life](https://open.spotify.com/album/7mkucWU2lfNiqr20iNL5lV) | 2:12 |
 
-Snapshot ID: `MCw2MThhZDczY2M0YjMwZDIxYWNkODUyZWUxYWU0MDllYTQxNGE1ZDRm`
+Snapshot ID: `MCw5M2VmZTdiYzY4MjVmYTMxMWVjZjhjMDQ1Zjg5ZjNhODU3NWZkMWI0`

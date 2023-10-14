@@ -191,6 +191,28 @@
     },
     {
       "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/01azvZem9t3qoJdn8rui6J"
+      },
+      "artists": [
+        {
+          "name": "Vianna",
+          "url": "https://open.spotify.com/artist/6ioDFcw3cEjfi2IRMde4vA"
+        },
+        {
+          "name": "Dj Serpinha",
+          "url": "https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176014,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/6WqMkT7h5GJ4vm3JOEfCeQ"
+    },
+    {
+      "album": {
         "name": "Souffran",
         "url": "https://open.spotify.com/album/4OsL2fUxqBL95nEguqqPCQ"
       },
@@ -304,7 +326,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 287000,
       "name": "7CostaKent",
       "url": "https://open.spotify.com/track/4du1RlRnKlACvHxqyN8ytL"
@@ -1300,7 +1322,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 158571,
       "name": "Bandida M\u00e1",
       "url": "https://open.spotify.com/track/0G9Tc84bVW5m6nOUJ3sCVw"
@@ -1384,7 +1406,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 138259,
       "name": "Bastidores",
       "url": "https://open.spotify.com/track/4ptOv0UKkWD7r2bb0tDdt6"
@@ -2007,6 +2029,32 @@
     },
     {
       "album": {
+        "name": "Celebridade",
+        "url": "https://open.spotify.com/album/4MvD98rcElGXYHZV2Q0dja"
+      },
+      "artists": [
+        {
+          "name": "Du Ralfe",
+          "url": "https://open.spotify.com/artist/7JqtxDaE0HschFrCCRKLR0"
+        },
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+        },
+        {
+          "name": "Fesant",
+          "url": "https://open.spotify.com/artist/2Sr6dQ2cygxOuZkQSwi1hl"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Celebridade",
+      "url": "https://open.spotify.com/track/53VgXb9PPPa3VgMBtakuXx"
+    },
+    {
+      "album": {
         "name": "0800",
         "url": "https://open.spotify.com/album/2eEkhalGRVyJ6mkGWwfuCf"
       },
@@ -2302,6 +2350,32 @@
       "duration_ms": 128888,
       "name": "Chucro e Fechado",
       "url": "https://open.spotify.com/track/6PcaG53oajoKzr9CR4UDNZ"
+    },
+    {
+      "album": {
+        "name": "Chuva de Ben\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2RQ5gGFs0EvyAvhL4i9VHw"
+      },
+      "artists": [
+        {
+          "name": "Rosa",
+          "url": "https://open.spotify.com/artist/6jw8SiJGInnFJ76Je7NtsV"
+        },
+        {
+          "name": "Dj Vitinho Beat",
+          "url": "https://open.spotify.com/artist/3J9aTItEsTv0bdV4W7oVrt"
+        },
+        {
+          "name": "991Didi",
+          "url": "https://open.spotify.com/artist/4Gi0bQFqrTkn6d6xAH0AIr"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171702,
+      "name": "Chuva de Ben\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/30vr0rox6VBWsmAcbuf5yW"
     },
     {
       "album": {
@@ -2952,7 +3026,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 204437,
       "name": "Deus Muito Obrigado",
       "url": "https://open.spotify.com/track/1zZpWz3lg55DoO9DZ3vziy"
@@ -2996,7 +3070,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 129776,
       "name": "Deux.",
       "url": "https://open.spotify.com/track/04xUuPS4eE49iVC0vy5Eds"
@@ -3236,6 +3310,24 @@
       "duration_ms": 132654,
       "name": "DONO DE FARM\u00c1CIA",
       "url": "https://open.spotify.com/track/2r3NkBc03Ucm4gVJytRvJW"
+    },
+    {
+      "album": {
+        "name": "Dono do Tempo",
+        "url": "https://open.spotify.com/album/2zNoE8iyrTaXSiBbl1PZFV"
+      },
+      "artists": [
+        {
+          "name": "Jovem Sam",
+          "url": "https://open.spotify.com/artist/7hfaFlTC5hnlL2F2lto6Aq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136744,
+      "name": "Dono do Tempo",
+      "url": "https://open.spotify.com/track/6pHT6i4sfrZTE5Y9Omwgzb"
     },
     {
       "album": {
@@ -4429,6 +4521,28 @@
     },
     {
       "album": {
+        "name": "Frag\u00e2ncia",
+        "url": "https://open.spotify.com/album/7cJleJxgIm19B2hQVjbtSG"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Luan LDS",
+          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129032,
+      "name": "Fragr\u00e2ncia",
+      "url": "https://open.spotify.com/track/0BN3skmXfNjhFaRQHLzh5p"
+    },
+    {
+      "album": {
         "name": "Frio & Calculista",
         "url": "https://open.spotify.com/album/3uAl8UgCy8Qgzff4RKl0rP"
       },
@@ -4558,7 +4672,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 143221,
       "name": "F\u00e9 nas Maluca",
       "url": "https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1"
@@ -4992,7 +5106,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 178500,
       "name": "Hotwheels",
       "url": "https://open.spotify.com/track/69AqySpuWkazInvg0UN1Ii"
@@ -5114,7 +5228,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 131402,
       "name": "Indefesa",
       "url": "https://open.spotify.com/track/5PmOX2XieBfivisAAQ4SRo"
@@ -7285,6 +7399,24 @@
     },
     {
       "album": {
+        "name": "Ninja da Quebrada",
+        "url": "https://open.spotify.com/album/3NKLlSU2gX7mEm8R31ONYB"
+      },
+      "artists": [
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167770,
+      "name": "Ninja da Quebrada",
+      "url": "https://open.spotify.com/track/2DJoc2HiiRJmZtDRoRzMOG"
+    },
+    {
+      "album": {
         "name": "AGL",
         "url": "https://open.spotify.com/album/2W5bmF4OOyHXQSp1M1bAgG"
       },
@@ -7819,6 +7951,32 @@
     },
     {
       "album": {
+        "name": "Olha o Caminhar Dessa Baby",
+        "url": "https://open.spotify.com/album/5LA0iekyOlbDIpgQsF9m0N"
+      },
+      "artists": [
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "DAN",
+          "url": "https://open.spotify.com/artist/5YDuFVeeXVIODmTP8XYddY"
+        },
+        {
+          "name": "TR3VAS",
+          "url": "https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "Olha o Caminhar Dessa Baby",
+      "url": "https://open.spotify.com/track/28F7tvLqclumwCquFkfkJY"
+    },
+    {
+      "album": {
         "name": "Olho Grande",
         "url": "https://open.spotify.com/album/1IUS9azx7lvwKKTl0CrBmh"
       },
@@ -8062,7 +8220,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 153000,
       "name": "Pede Tapa",
       "url": "https://open.spotify.com/track/0uni2JaTR39BMmTRcJ6JiV"
@@ -8444,6 +8602,36 @@
       "duration_ms": 197924,
       "name": "Plug Mais Triste do Mundo",
       "url": "https://open.spotify.com/track/0rzcH8Io9TpUiSuMJhRzJT"
+    },
+    {
+      "album": {
+        "name": "PLUGPARK",
+        "url": "https://open.spotify.com/album/1I4Bq9cqtUG1dMinNT8WrS"
+      },
+      "artists": [
+        {
+          "name": "Xavier2bit",
+          "url": "https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV"
+        },
+        {
+          "name": "Cout1nho",
+          "url": "https://open.spotify.com/artist/2AVRzXrir2Gfb7QUNxijTv"
+        },
+        {
+          "name": "guto!",
+          "url": "https://open.spotify.com/artist/741LMJSj3qtdJlDxhjmQep"
+        },
+        {
+          "name": "hoffmxn",
+          "url": "https://open.spotify.com/artist/08KidVhnaklBA9aN0IoaPp"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166928,
+      "name": "PLUGPARK",
+      "url": "https://open.spotify.com/track/2dr8YKZVBUmbt5F31HDFP8"
     },
     {
       "album": {
@@ -10604,7 +10792,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 135218,
       "name": "Tralha",
       "url": "https://open.spotify.com/track/3vGu6lSFE4WV73WhNQKf8s"
@@ -11033,6 +11221,24 @@
     },
     {
       "album": {
+        "name": "Vampira",
+        "url": "https://open.spotify.com/album/40SS0MUKLioNECxcobDHMP"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173638,
+      "name": "Vampira",
+      "url": "https://open.spotify.com/track/4iNR5V0mwW80fcfHHLRAfp"
+    },
+    {
+      "album": {
         "name": "Vdg",
         "url": "https://open.spotify.com/album/5X8IoUQaOwv57jNNxFwzG4"
       },
@@ -11402,6 +11608,44 @@
       "duration_ms": 144000,
       "name": "Vivendo",
       "url": "https://open.spotify.com/track/3ZPjKXcNmCrA3oxQFfXDCk"
+    },
+    {
+      "album": {
+        "name": "Vida Cara (Deluxe)",
+        "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Shenlong",
+          "url": "https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        },
+        {
+          "name": "Feek",
+          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Viv\u00eancia de Trap",
+      "url": "https://open.spotify.com/track/7n2jDh2CY0QKs70hw6Dvyu"
     },
     {
       "album": {

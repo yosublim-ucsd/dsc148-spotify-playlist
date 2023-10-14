@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-1,910 songs - 4 day 9 hr 38 min
+1,911 songs - 4 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1134,7 +1134,8 @@
 | [payback](https://open.spotify.com/track/480dIocvR0iEcoMWi92MWY) | [kuudere](https://open.spotify.com/artist/1OhN2StoiEjQmsLCbjpgpa), [levi](https://open.spotify.com/artist/2i8z6rKtx4CoaQmajp10fP) | [seasons](https://open.spotify.com/album/6MNU6TXfVnKbfHXyQ8Mxlp) | 2:15 | 2023-08-06 | 2023-08-14 |
 | [Peach Blossom \(feat\. sokodomo\)](https://open.spotify.com/track/3hENv4ExwoYHQjoWJSBmyA) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [O](https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus) | 2:39 | 2023-03-12 | 2023-03-21 |
 | [Peanut Butter & Tears](https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Peanut Butter & Tears](https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I) | 3:45 | 2023-08-14 | 2023-08-21 |
-| [peanut phenomenon \- six impala remix](https://open.spotify.com/track/1mFdnNncviy9Xlx4VmEPH0) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW), [Peanuts\-kun](https://open.spotify.com/artist/60ozr90VmyvHkoiLXDGafV) | [peanut phenomenon \(six impala remix\)](https://open.spotify.com/album/5LsE0YZr2XCXl8y40AIePJ) | 4:21 | 2023-10-09 |  |
+| [peanut phenomenon \- six impala remix](https://open.spotify.com/track/1mFdnNncviy9Xlx4VmEPH0) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW), [Peanuts\-kun](https://open.spotify.com/artist/60ozr90VmyvHkoiLXDGafV) | [peanut phenomenon \(six impala remix\)](https://open.spotify.com/album/5LsE0YZr2XCXl8y40AIePJ) | 4:21 | 2023-10-09 | 2023-10-14 |
+| [peanut phenomenon \- six impala remix](https://open.spotify.com/track/7DbvW1SH8AGJM3SOZmi2zp) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW), [Peanuts\-kun](https://open.spotify.com/artist/60ozr90VmyvHkoiLXDGafV) | [GOOD POP REMIXES](https://open.spotify.com/album/1CxF69zNhAqSkVbzh2Y8pR) | 4:21 | 2023-10-09 |  |
 | [PEGASUS](https://open.spotify.com/track/4jw5Peb2XRx0cTYUZAPIkv) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PEGASUS](https://open.spotify.com/album/1yCRkc8QiR6z5ekv0oCO1F) | 2:52 | 2023-07-10 | 2023-07-17 |
 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 | 2023-05-15 | 2023-05-23 |
 | [People Dancing Future](https://open.spotify.com/track/5I9HLHWqrTyvHF3Tg8slew) | [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [People Dancing Future](https://open.spotify.com/album/06NiVW22th1UuPr9xVlIgH) | 2:31 | 2023-07-31 | 2023-08-07 |

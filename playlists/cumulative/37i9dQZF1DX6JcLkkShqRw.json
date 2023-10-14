@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "ACTITUD",
+        "url": "https://open.spotify.com/album/2dkwZc8hKL1W5HkRMPscUL"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "ACTITUD",
+      "url": "https://open.spotify.com/track/2ZHN30E4lGPIyRfzy6HPGe"
+    },
+    {
+      "album": {
         "name": "ACTiVO",
         "url": "https://open.spotify.com/album/0RmN5d0FNhPuisN9oWOdnc"
       },
@@ -2672,6 +2690,24 @@
       "duration_ms": 207324,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/4kyFstiUoFy5I3elBxgMxw"
+    },
+    {
+      "album": {
+        "name": "Bonito",
+        "url": "https://open.spotify.com/album/3qvm0HHzq0Br4YabiFpkYr"
+      },
+      "artists": [
+        {
+          "name": "mhtresuno",
+          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147666,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/2pAwXswCcaUtMzC5lpskME"
     },
     {
       "album": {
@@ -6243,6 +6279,24 @@
     },
     {
       "album": {
+        "name": "En Perso",
+        "url": "https://open.spotify.com/album/4MwIfZG7SZHGgp8PTv6v0G"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129813,
+      "name": "En Perso",
+      "url": "https://open.spotify.com/track/6fR7jewLNbI89yUC9cio6v"
+    },
+    {
+      "album": {
         "name": "Enfiestao",
         "url": "https://open.spotify.com/album/3LWktVgkAhmUJq5gBieXjt"
       },
@@ -6588,7 +6642,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 141180,
       "name": "Expl\u00edcito",
       "url": "https://open.spotify.com/track/1aLqdpllVnLqLwhthp8xUg"
@@ -8378,7 +8432,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 192941,
       "name": "HULK",
       "url": "https://open.spotify.com/track/37YZ0f70v8Rvh3XP6r9lye"
@@ -12278,7 +12332,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 164326,
       "name": "MIRADAS",
       "url": "https://open.spotify.com/track/6HEabHjw16crOLDEPYsZgR"
@@ -13734,7 +13788,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 150326,
       "name": "No Soy Cualquier Ex",
       "url": "https://open.spotify.com/track/25vSSr6p4EMxgmcjQhP2rh"
@@ -18256,7 +18310,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 193496,
       "name": "Sin Preguntar",
       "url": "https://open.spotify.com/track/0tog9uUBCsPYP6zEg24wOB"
@@ -19045,6 +19099,32 @@
     },
     {
       "album": {
+        "name": "C\u00e1psula",
+        "url": "https://open.spotify.com/album/6cvF4lgfLW7pI0XmwvLrab"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214801,
+      "name": "Te Gust\u00f3",
+      "url": "https://open.spotify.com/track/0Ec5NO9g6ImmDzC0BksSPR"
+    },
+    {
+      "album": {
         "name": "Te Mentiria",
         "url": "https://open.spotify.com/album/5ZhZaBJaiJPoPre9hzZ75K"
       },
@@ -19378,7 +19458,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 222000,
       "name": "The World Is Yours",
       "url": "https://open.spotify.com/track/77vayMNpKnWNtE5nuiKn77"
@@ -20507,6 +20587,24 @@
     },
     {
       "album": {
+        "name": "t\u00fa no",
+        "url": "https://open.spotify.com/album/3QnYvMHXIl3CM7u9f6IX5d"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177854,
+      "name": "t\u00fa no",
+      "url": "https://open.spotify.com/track/1yo6ROQQqWAHNb6alahCoY"
+    },
+    {
+      "album": {
         "name": "T\u00fanel",
         "url": "https://open.spotify.com/album/1F1agzWdqeKxLwEuqyvki7"
       },
@@ -21382,6 +21480,24 @@
       "duration_ms": 168000,
       "name": "Visionario",
       "url": "https://open.spotify.com/track/2Ck6y0xnIbRfM3gbkJOa59"
+    },
+    {
+      "album": {
+        "name": "Vitamina D",
+        "url": "https://open.spotify.com/album/4psggAblmOxpE19d4XoDsw"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191370,
+      "name": "Vitamina D",
+      "url": "https://open.spotify.com/track/3fyTzHQ46mylLRmHL1kphx"
     },
     {
       "album": {

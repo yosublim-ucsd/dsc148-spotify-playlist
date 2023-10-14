@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "Um pouco de reggae pra acompanhar a brisa do mar. Foto: Melim",
+  "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
   "name": "Praiana",
   "tracks": [
     {
@@ -122,10 +122,32 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 194609,
       "name": "Be Where Your Feet Are",
       "url": "https://open.spotify.com/track/7awndyySQdYEo3qffxtdUD"
+    },
+    {
+      "album": {
+        "name": "Bom Dia",
+        "url": "https://open.spotify.com/album/41LhaCTtInZIK55bmcT5Im"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        },
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Bom Dia",
+      "url": "https://open.spotify.com/track/5Xk4ibO0C5HsDfyPFZDBHm"
     },
     {
       "album": {
@@ -682,7 +704,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 223157,
       "name": "Minha Ilha",
       "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
@@ -1290,7 +1312,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 180266,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"

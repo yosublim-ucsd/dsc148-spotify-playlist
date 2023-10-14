@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,301 songs - 2 day 19 hr 40 min
+1,302 songs - 2 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [Himmel På Jord](https://open.spotify.com/track/0WFyQgDzbQCfJuxcHW4Zrt) | [Kurt Nilsen](https://open.spotify.com/artist/49HPMFWsosCuRf810Ay1Vv), [The Norwegian Radio Orchestra](https://open.spotify.com/artist/17ggmeNujCFMkr3zgyXv02) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/1YbbdbiUKFY5RqIlNrh1Bc) | 3:34 | 2021-11-27 | 2022-12-31 |
 | [Himmelen Og Helvete](https://open.spotify.com/track/2xV8E6JUiSTAgrFra3b762) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Enten Går Det Bra...](https://open.spotify.com/album/3hWNz4z3mOcjj3JMbNFNRx) | 2:52 | 2022-02-26 | 2022-03-13 |
 | [History](https://open.spotify.com/track/4xX4zOMh1krABkrzuOyF2u) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [History](https://open.spotify.com/album/2XOLERtBwcmk76QKo44ojz) | 2:44 | 2021-05-09 | 2021-05-10 |
+| [Hjerteknuser](https://open.spotify.com/track/3RAHhTC61TZLoQ7I6FfgdN) | [Kaizers Orchestra](https://open.spotify.com/artist/1s1DnVoBDfp3jxjjew8cBR) | [Violeta Violeta Volume I](https://open.spotify.com/album/32wGzwMnSvQjp5PmjGEPtz) | 3:20 | 2023-10-13 |  |
 | [Hjerteknuser](https://open.spotify.com/track/77F3wu9VD3TgxXjHCq8A7W) | [Kaizers Orchestra](https://open.spotify.com/artist/1s1DnVoBDfp3jxjjew8cBR) | [Violeta Violeta Volume 1](https://open.spotify.com/album/7kxHh6YvSb0kaW3Mj1Csaw) | 3:20 | 2022-08-29 | 2022-11-29 |
 | [Hjerteknuser](https://open.spotify.com/track/6D2Hxj0e7gZojlFBV1fKBx) | [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [Geasseijat](https://open.spotify.com/album/3shwdZY9LBfiRuAHpt3TNT) | 4:23 | 2022-08-29 | 2022-10-02 |
 | [Hjerteløs](https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Hjerteløs](https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV) | 2:17 | 2022-09-17 | 2023-01-16 |
@@ -1070,7 +1071,7 @@
 | [Skyene](https://open.spotify.com/track/58M1sRcgw5Q1dp8t1qGjuQ) | [Adrian Sellevoll](https://open.spotify.com/artist/7A3fefmffBi6jDv2MxMcz3), [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Skyene](https://open.spotify.com/album/4T7NxnBRcIGVJWCSXbgoZt) | 2:26 | 2021-09-19 | 2021-09-20 |
 | [Skyfri himmel](https://open.spotify.com/track/4Envvj6OILfnlVUFGifGcT) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Stefaren](https://open.spotify.com/artist/6eefs3JldV7g10OCRNicxO) | [Skyfri himmel](https://open.spotify.com/album/3NpHStPztvvb1t7Rjl2PXM) | 2:52 | 2023-03-11 | 2023-03-19 |
 | [SKÅL](https://open.spotify.com/track/7qhNaWtYZoJz1bH0aOqssy) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [SKÅL](https://open.spotify.com/album/5l6rviSjbfWaR8sKoSHoqe) | 2:10 | 2022-05-18 | 2022-05-20 |
-| [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:10 | 2023-10-08 |  |
+| [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:10 | 2023-10-08 | 2023-10-14 |
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-17 | 2023-10-09 |
 | [SloMo](https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo](https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d) | 2:56 | 2022-05-16 | 2022-05-27 |
 | [Slå hjerte, slå](https://open.spotify.com/track/6qMf3eqbmToDXj7LixyK1w) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Bak en fasade](https://open.spotify.com/album/3d0h7wXfZmHtOpX6YlNXGg) | 3:17 | 2022-03-20 | 2022-08-21 |

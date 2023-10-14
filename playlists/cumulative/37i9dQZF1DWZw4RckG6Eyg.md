@@ -4,7 +4,7 @@
 
 > 75 ways to cope with your Indie fomo\. Pixey on cover.
 
-89 songs - 5 hr 0 min
+90 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Mirror Dance](https://open.spotify.com/track/6SXfklnxW14O5gKqkBNaMm) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [Dame Dearest \(Pilot\)](https://open.spotify.com/album/4XbrkI4jqtyaUr7cBnwz4L) | 3:03 | 2022-11-30 |  |
 | [Mirror Dance](https://open.spotify.com/track/6wkEVMI1r7p1GbWWVts8kv) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [Mirror Dance](https://open.spotify.com/album/6nALYgw7hvos7748RSFf7V) | 3:03 | 2022-11-30 | 2023-07-19 |
 | [More Pressure](https://open.spotify.com/track/0sMWdvSFBg1bVkzyszM819) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [The Line Is A Curve](https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD) | 3:14 | 2022-11-30 |  |
-| [Mott St](https://open.spotify.com/track/05v8laWO5qGrmLxwDBoowM) | [Celia](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Mott St](https://open.spotify.com/album/4bh3QrfPzT6TshaW2AqdSE) | 2:55 | 2022-11-30 |  |
+| [Mott St](https://open.spotify.com/track/05v8laWO5qGrmLxwDBoowM) | [Celia](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Mott St](https://open.spotify.com/album/4bh3QrfPzT6TshaW2AqdSE) | 2:55 | 2022-11-30 | 2023-10-14 |
+| [Mott St](https://open.spotify.com/track/1JYFkTqtRNHYejAHPUF0ZJ) | [Celia](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Complete In Box](https://open.spotify.com/album/6jVRKAWfgTf7M1toxTi1VU) | 2:55 | 2022-11-30 |  |
 | [Mott St](https://open.spotify.com/track/4bi4qAirJz1NPjw9nKYvsq) | [Celia](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Complete In Box](https://open.spotify.com/album/1K1bKLpQoWvqtyojY4hxHO) | 2:55 | 2022-11-30 | 2023-07-30 |
 | [Mute](https://open.spotify.com/track/1k4BN3YPqVYhkYSugUH0mK) | [Sameen Qasim](https://open.spotify.com/artist/1TuZ9m2yr7qMmiovlOVS9O), [Shorbanoor](https://open.spotify.com/artist/7DXkuP7zCFpe1beSL1LjjD) | [Mute](https://open.spotify.com/album/6EwgLUXMEaxzRDiqwHKn82) | 3:25 | 2022-11-30 |  |
 | [Nada de Mí Vale Dinero](https://open.spotify.com/track/5imr697dT1gPajZWd376fL) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Nada de Mí Vale Dinero](https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047) | 4:17 | 2022-11-30 |  |

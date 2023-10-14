@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx?si=tJ435HYvThO27\-Ph66\_iVQ"> Tim Lyre </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,932 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,960 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [The Bad Ones](https://open.spotify.com/track/0iOaXKUTATIIOqdfIvC8cz) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Pan African Rockstar](https://open.spotify.com/album/2kA7NTDqESZM0B7COf3cfh) | 2:05 |
 | 80 | [Shayo Galore \(feat\. Le Mav\)](https://open.spotify.com/track/4vxJVCRV3CZR7Wy2NCsMBf) | [Wavy The Creator](https://open.spotify.com/artist/5kr136hLeeKJznp60ieWdC), [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l), [Arieenati](https://open.spotify.com/artist/4ylIqJiqWnd05U4Ng8f616), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL) | [Shayo Galore \(feat\. Le Mav\)](https://open.spotify.com/album/3CFoj1BZZ61ZKTWWTuKDmj) | 2:18 |
 
-Snapshot ID: `MCwyZjA4MWQ4NzRlZWZhNWMyYmRjOTQzMThjMTI0NzIzNmU4YmI2MTE5`
+Snapshot ID: `MCwwZDQyYzcwMmQ3ZTc1ZjYzYzExMjllMzMxOThiYWRmOWQ3MDZiOWVh`

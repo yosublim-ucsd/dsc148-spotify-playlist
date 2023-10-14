@@ -1,12 +1,12 @@
 {
   "description": "1-2-3, 5-6-7, now you're dancing salsa!",
-  "num_followers": 60248,
+  "num_followers": 60297,
   "original_name": "Salsa Lessons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjZjMmJmYzFlZTc5ZGViMDFkNmE2NmQ1ODc3OGRmNDZmYTVjOGVk",
+  "snapshot_id": "MCxjM2ZmNGNhYjU4ZjI1ZjgyY2ZlMjBmNzUxNzdmNzA1YmNiZTVlMmNj",
   "tracks": [
     {
       "added_at": "2021-11-25 14:50:11",
@@ -755,18 +755,18 @@
     {
       "added_at": "2021-11-25 14:50:11",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/02IhbBURLOQ1PiaDODuHfW"
+        "name": "Feliz Navidad Con Salsa",
+        "url": "https://open.spotify.com/album/5RktkOfRU1eqXvh0qSK2uP"
       },
       "artists": [
         {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 292973,
-      "name": "Mi Media Mitad",
-      "url": "https://open.spotify.com/track/0vffx55ffXHq2bz0yKlZiM"
+      "duration_ms": 289880,
+      "name": "Desn\u00fadate Mujer",
+      "url": "https://open.spotify.com/track/7fuKGQRFnSZu4k1LSJnuex"
     },
     {
       "added_at": "2021-11-25 14:50:11",
@@ -803,18 +803,18 @@
     {
       "added_at": "2021-11-25 14:50:11",
       "album": {
-        "name": "Feliz Navidad Con Salsa",
-        "url": "https://open.spotify.com/album/5RktkOfRU1eqXvh0qSK2uP"
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/02IhbBURLOQ1PiaDODuHfW"
       },
       "artists": [
         {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
         }
       ],
-      "duration_ms": 289880,
-      "name": "Desn\u00fadate Mujer",
-      "url": "https://open.spotify.com/track/7fuKGQRFnSZu4k1LSJnuex"
+      "duration_ms": 292973,
+      "name": "Mi Media Mitad",
+      "url": "https://open.spotify.com/track/0vffx55ffXHq2bz0yKlZiM"
     },
     {
       "added_at": "2021-11-25 14:50:11",

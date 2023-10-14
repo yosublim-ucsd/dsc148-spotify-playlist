@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,824 likes - 129 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,928 likes - 129 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 5 | [Free at last](https://open.spotify.com/track/6NUq5Cj7Vu4LHjst1Oj1Yu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [From Dusk til Dawn](https://open.spotify.com/album/17eESm3rrSYQUO1EklmVQ4) | 2:35 |
 | 6 | [Hart Road](https://open.spotify.com/track/03RnXHco9ZFWCcN1lCIqNl) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Hart Road](https://open.spotify.com/album/7koG6f9dFfziqMRR7eNgIY) | 2:45 |
 | 7 | [View of the Park](https://open.spotify.com/track/61RiC53XYBjZmyW6u081HC) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Letting the Light In](https://open.spotify.com/album/1eGxXdtkKb0os4MUacj89J) | 3:14 |
-| 8 | [Innocent Face](https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:02 |
+| 8 | [Innocent Face](https://open.spotify.com/track/1LjYFVvhXmuP3RgErQBYkH) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Innocent Face](https://open.spotify.com/album/4GpBw9UUFaHkv12myq2POe) | 2:02 |
 | 9 | [Ciudad nueva](https://open.spotify.com/track/2tOy5Z4ECTD5AaEDqR4Khb) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Ciudad nueva](https://open.spotify.com/album/5hEsUfEEb8BtmGvo0iJgFp) | 2:36 |
 | 10 | [Until Eternity](https://open.spotify.com/track/0Ln2XQp3zJpRsAqDvTJhgA) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Until Eternity](https://open.spotify.com/album/1N1czqs5ixWciPe4b6f8VO) | 2:01 |
 | 11 | [Tramandaí](https://open.spotify.com/track/7acWi08JPuc1BlSuVM9tAk) | [Hans Peschl](https://open.spotify.com/artist/6grQvgae1JYJJgtBxUxfr9) | [Tramandaí](https://open.spotify.com/album/1xRNgEeUnrTAGFkV7chEVa) | 2:53 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 128 | [When Sarah Returned](https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:36 |
 | 129 | [Road to Aberdeen](https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq) | [Michalina Francis](https://open.spotify.com/artist/4tt13ZKdlzc6s98cdZGf81) | [Golden Opportunity](https://open.spotify.com/album/2fFwjpeF46udY3BXN0qiAn) | 3:47 |
 
-Snapshot ID: `MCxmZDdmMTM5MGY2MWQwNmM0Y2E3YmZhYjYzYjQ1MTI2ZWU5YTJlMDgx`
+Snapshot ID: `MCw2MWNiNDU4ODBkZTBiZGQzZGRiYjQzMzdiYzg1OTIyYjUyYTBiNzBj`

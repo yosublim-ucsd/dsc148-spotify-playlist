@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-13",
-  "description": "d\u00e1 play que a bagun\u00e7a organizada t\u00e1 liberada / Foto: The Chainsmokers",
+  "description": "d\u00e1 play que a bagun\u00e7a organizada t\u00e1 liberada ",
   "name": "Sextou",
   "tracks": [
     {
@@ -749,6 +749,24 @@
     },
     {
       "album": {
+        "name": "Glad U Came",
+        "url": "https://open.spotify.com/album/2H37NHuufU0kkwLhMwhdLj"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178080,
+      "name": "Glad U Came",
+      "url": "https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX"
+    },
+    {
+      "album": {
         "name": "Goosebumps (Remix)",
         "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
       },
@@ -1020,7 +1038,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 145414,
       "name": "Idolize",
       "url": "https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ"
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 116401,
       "name": "It Takes 3",
       "url": "https://open.spotify.com/track/15ggd6ccKQ1UJ4mzltHsh1"
@@ -1306,6 +1324,28 @@
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Miss You - Bonus Track",
+      "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
     },
     {
       "album": {

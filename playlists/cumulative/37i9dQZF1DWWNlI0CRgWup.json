@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Au bord de la mer",
+        "url": "https://open.spotify.com/album/3xXbebkT7vbwrGeJ6Ovv8c"
+      },
+      "artists": [
+        {
+          "name": "Nikola",
+          "url": "https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Au bord de la mer",
+      "url": "https://open.spotify.com/track/1bXAnc9CO7JcMlSLuiBN4U"
+    },
+    {
+      "album": {
         "name": "Au bout de ma rue",
         "url": "https://open.spotify.com/album/4kK37mGx9LtXd6vsTAmO6W"
       },
@@ -74,6 +92,24 @@
       "duration_ms": 234763,
       "name": "Au bout de ma rue",
       "url": "https://open.spotify.com/track/1ZpXOfL9NpKMjitFteTZlk"
+    },
+    {
+      "album": {
+        "name": "ELOWI",
+        "url": "https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2"
+      },
+      "artists": [
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165906,
+      "name": "Bahwai",
+      "url": "https://open.spotify.com/track/0hfSOgINLNsRHkASA31vY7"
     },
     {
       "album": {
@@ -178,7 +214,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 186446,
       "name": "B\u00e9cane",
       "url": "https://open.spotify.com/track/5Ed32bcBySpGCF7g6EG8eh"
@@ -218,6 +254,24 @@
       "duration_ms": 201541,
       "name": "C'est comme le Soleil",
       "url": "https://open.spotify.com/track/6FLq3GelXxESTfa85EXgix"
+    },
+    {
+      "album": {
+        "name": "C'est toi",
+        "url": "https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131480,
+      "name": "C'est toi",
+      "url": "https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT"
     },
     {
       "album": {
@@ -330,6 +384,24 @@
       "duration_ms": 161240,
       "name": "Coucou",
       "url": "https://open.spotify.com/track/3kiTnvHHKipoAwa40GTGGy"
+    },
+    {
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/6UqCMBGylvsiza6n6F5e6U"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192387,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/5xAZbiKC3j8IVU3XQUybZ4"
     },
     {
       "album": {
@@ -524,7 +596,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 172394,
       "name": "D\u00e9pass\u00e9",
       "url": "https://open.spotify.com/track/5bOWPM362XpMa8zn6UR9te"
@@ -542,7 +614,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 208493,
       "name": "Elle laisse - Radio Edit",
       "url": "https://open.spotify.com/track/01gFlEXnkRNkgtN7jPjByI"
@@ -762,7 +834,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 198688,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/0IhP65g9X82qPRb2bYGunO"
@@ -780,7 +852,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 159560,
       "name": "Hors Piste",
       "url": "https://open.spotify.com/track/7LrVEMD3Qtva05qoBivomr"
@@ -928,6 +1000,24 @@
       "duration_ms": 187233,
       "name": "La Macarena",
       "url": "https://open.spotify.com/track/6N8ja8D3Ay52DnGDLKdrHX"
+    },
+    {
+      "album": {
+        "name": "La symphonie des \u00e9clairs",
+        "url": "https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198789,
+      "name": "La symphonie des \u00e9clairs",
+      "url": "https://open.spotify.com/track/1E9HERI5XdI9ZZIgCw51QS"
     },
     {
       "album": {
@@ -1162,7 +1252,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 162630,
       "name": "madame",
       "url": "https://open.spotify.com/track/11mG8zAlXntqPSo3um9kZX"
@@ -1288,7 +1378,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 140253,
       "name": "M\u00e9lodie (Tatami)",
       "url": "https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7"
@@ -1948,7 +2038,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 211327,
       "name": "Tristesse",
       "url": "https://open.spotify.com/track/0gv9l2E8gtjImlE0PDtIJs"
@@ -2092,7 +2182,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 154400,
       "name": "Vue sur la mer",
       "url": "https://open.spotify.com/track/6YkaP9iPyhk4tqZ6GcnTuU"

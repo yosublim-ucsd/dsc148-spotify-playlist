@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Duran Duran
 
-92 songs - 5 hr 58 min
+93 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,21 +28,22 @@
 | [Dancin' in the Aisles](https://open.spotify.com/track/2rHdLK2ul2kZsf25gBdPVF) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Dancin' in the Aisles](https://open.spotify.com/album/3MaOmRCy1qfE5nSZvJMYpd) | 3:26 | 2021-10-22 |  |
 | [DANSE MACABRE](https://open.spotify.com/track/4yavYy5vhqkX8Sv8DRqVbJ) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [DANSE MACABRE](https://open.spotify.com/album/06HreThIz90gKClFT9sz0v) | 4:22 | 2023-09-01 |  |
 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 | 2022-01-21 |  |
-| [Dippin My Feet](https://open.spotify.com/track/0hb9885MfdqibhnFysxCon) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Dippin My Feet](https://open.spotify.com/album/2S2jgHkv3R3lmc92DPHSjy) | 3:13 | 2023-06-23 |  |
+| [Dippin My Feet](https://open.spotify.com/track/0hb9885MfdqibhnFysxCon) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Dippin My Feet](https://open.spotify.com/album/2S2jgHkv3R3lmc92DPHSjy) | 3:13 | 2023-06-23 | 2023-10-14 |
 | [Disconnected](https://open.spotify.com/track/1Lu7PmT0qjWn7oRPC08gMp) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Disconnected](https://open.spotify.com/album/4T93DNv8Icl7KKPh6CDn1h) | 4:54 | 2023-02-03 | 2023-03-18 |
 | [End Of Night](https://open.spotify.com/track/2mOzVvURATXmEU64DANxDr) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 3:23 | 2022-02-25 |  |
 | [Every One of Us](https://open.spotify.com/track/6SkgB0rRsGB0ZkSGkPWaOW) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt), [The Unsung Heroes](https://open.spotify.com/artist/0Hj4TOkvfWyweKo7lIipSg) | [Every One of Us](https://open.spotify.com/album/3Z08OEw7y50bZNAbapjP8B) | 3:25 | 2021-10-22 | 2022-06-11 |
 | [Exit Wound](https://open.spotify.com/track/0V1cNtY74UmCVJn44yBZ5i) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Exit Wound](https://open.spotify.com/album/2vLZvJJPD9eJQ8GY4BlDap) | 2:41 | 2023-07-21 | 2023-08-05 |
 | [Fake It 'Til You Make It](https://open.spotify.com/track/6hiURAxDXme5mWZUg6sBj9) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Automatic](https://open.spotify.com/album/3XEVD5T03YvAoojsCXlTgq) | 3:18 | 2023-08-04 |  |
 | [Find My Way](https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney III](https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884) | 3:54 | 2021-10-22 |  |
-| [Finish Line](https://open.spotify.com/track/2mRK4OJ96kntvBe141m9AW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Finish Line](https://open.spotify.com/album/0AiRY02hMgv49bJlqCQNPG) | 4:24 | 2021-10-22 |  |
+| [Finish Line](https://open.spotify.com/track/2mRK4OJ96kntvBe141m9AW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Finish Line](https://open.spotify.com/album/0AiRY02hMgv49bJlqCQNPG) | 4:24 | 2021-10-22 | 2023-10-14 |
 | [Firecracker](https://open.spotify.com/track/2FpEAJWDxKW2FCyyLC9Tg2) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Firecracker](https://open.spotify.com/album/3KETmuy3XHOCpqJSyBoYXD) | 3:50 | 2022-06-10 |  |
 | [Five Years](https://open.spotify.com/track/7rmGBiCtvTv2Fh50FWZKHs) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Five Years](https://open.spotify.com/album/2LfOEABtSzqIDAFUSUm2m3) | 4:45 | 2021-10-22 | 2023-04-15 |
 | [For Her Love](https://open.spotify.com/track/0OKn63DGQ2kBRTo9BRfiEP) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:45 | 2021-11-19 |  |
+| [Forever and More](https://open.spotify.com/track/0B9xp10eoOa1XK5F30gY0l) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Are We There Yet?](https://open.spotify.com/album/0BuCV5EL2sM6iUvaxFtpPx) | 3:37 | 2023-10-13 |  |
 | [Get Together](https://open.spotify.com/track/0VOUTJdbl1xUPSp92MtohU) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Get Together](https://open.spotify.com/album/4MlWINtVUMSiJziqDpyvvx) | 4:12 | 2021-10-22 | 2023-03-18 |
 | [Hold On](https://open.spotify.com/track/2T83rBdQeCbzyf7HMHPyGY) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Hold On](https://open.spotify.com/album/19TEv9LRkVcl95r0YGSecG) | 4:19 | 2021-10-22 | 2022-04-09 |
 | [I Don't Mind](https://open.spotify.com/track/5DA2AKGBLh6F37BEo217r0) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [I Don't Mind](https://open.spotify.com/album/1Ny3qiqGxrdJujXB1nviYa) | 4:05 | 2021-10-22 | 2023-07-29 |
-| [I Don't Mind](https://open.spotify.com/track/5qO1z8NyHcPCcjgxAnFMgj) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Lindsey Buckingham](https://open.spotify.com/album/0atVY7fmPpavJNvQjXxcPG) | 4:05 | 2021-10-22 |  |
+| [I Don't Mind](https://open.spotify.com/track/5qO1z8NyHcPCcjgxAnFMgj) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Lindsey Buckingham](https://open.spotify.com/album/0atVY7fmPpavJNvQjXxcPG) | 4:05 | 2021-10-22 | 2023-10-14 |
 | [I Still Believe](https://open.spotify.com/track/2gnWpyn0nHoT11V7awaP5g) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [I Still Believe](https://open.spotify.com/album/3Jj21Z3ec4p5SwZU3lXshM) | 3:38 | 2021-11-05 |  |
 | [I'm In](https://open.spotify.com/track/0uVt1UqcssBjFCQogJCkoz) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [I'm In](https://open.spotify.com/album/306o3fqhgQdpZQiyqFu2Eb) | 5:05 | 2022-07-08 |  |
 | [i/o \- Bright\-Side Mix](https://open.spotify.com/track/7onf6RIP2d08FOHos3U324) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [i/o \(Bright\-Side Mix\)](https://open.spotify.com/album/6TmXl8JQXo6XJvQShFn6Ru) | 3:52 | 2023-04-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 43551,
+  "num_followers": 43584,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWUxMzY3MmY4M2I0Y2RmNDk3MjMwMDhmNGI3MjA0YjZjNjFiYjFh",
+  "snapshot_id": "MCxlYjllYmM1Mzc0YjgzNDNkNzNhNzMyMzY0NTFkNDE2ZDg3YTcyNTRi",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Soulful Serenade",
-        "url": "https://open.spotify.com/album/04M2iGk6Rwm8qLa2OMQSVZ"
-      },
-      "artists": [
-        {
-          "name": "KTZ Players",
-          "url": "https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "Soulful Serenade",
-      "url": "https://open.spotify.com/track/45FLYbhZeKWABexWqBo5Un"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Hodges: Front and Center, Vol. 1",
         "url": "https://open.spotify.com/album/28dVtoSWcKtalEahjQqnxv"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 253106,
       "name": "Ballade for the Very Sad and Very Tired Lotus Eaters",
       "url": "https://open.spotify.com/track/4JZPaFrRUNSYjvLfvQNaGQ"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Soulful Serenade",
+        "url": "https://open.spotify.com/album/04M2iGk6Rwm8qLa2OMQSVZ"
+      },
+      "artists": [
+        {
+          "name": "KTZ Players",
+          "url": "https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "Soulful Serenade",
+      "url": "https://open.spotify.com/track/45FLYbhZeKWABexWqBo5Un"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Breakup Blues",
-        "url": "https://open.spotify.com/album/2HdHsBiLbSjvx9GlS7cK3P"
-      },
-      "artists": [
-        {
-          "name": "Isac Solo Trio",
-          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
-        }
-      ],
-      "duration_ms": 207313,
-      "name": "Breakup Blues",
-      "url": "https://open.spotify.com/track/3UAfrwiIszzcAlCIfpVF96"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Weary Whispers",
         "url": "https://open.spotify.com/album/7pUujzA6emE3Th9X9Dbcv6"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 178640,
       "name": "Weary Whispers",
       "url": "https://open.spotify.com/track/3OiYzoixJ1b73KWVxgR6M2"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Breakup Blues",
+        "url": "https://open.spotify.com/album/2HdHsBiLbSjvx9GlS7cK3P"
+      },
+      "artists": [
+        {
+          "name": "Isac Solo Trio",
+          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
+        }
+      ],
+      "duration_ms": 207313,
+      "name": "Breakup Blues",
+      "url": "https://open.spotify.com/track/3UAfrwiIszzcAlCIfpVF96"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Whiplashed",
-        "url": "https://open.spotify.com/album/48K8veuVqjwlO3SMUguVHw"
-      },
-      "artists": [
-        {
-          "name": "Garry Cooper Trio",
-          "url": "https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q"
-        }
-      ],
-      "duration_ms": 197902,
-      "name": "Whiplashed",
-      "url": "https://open.spotify.com/track/6qJ26rva0vDec7YDB2olDD"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Gloomy Sunday",
         "url": "https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 193256,
       "name": "Gloomy Sunday",
       "url": "https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Whiplashed",
+        "url": "https://open.spotify.com/album/48K8veuVqjwlO3SMUguVHw"
+      },
+      "artists": [
+        {
+          "name": "Garry Cooper Trio",
+          "url": "https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q"
+        }
+      ],
+      "duration_ms": 197902,
+      "name": "Whiplashed",
+      "url": "https://open.spotify.com/track/6qJ26rva0vDec7YDB2olDD"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Madrigal",
-        "url": "https://open.spotify.com/album/3g7XP0N3nxkDmmKfvRYEo7"
-      },
-      "artists": [
-        {
-          "name": "Dave Oakley trio",
-          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
-        }
-      ],
-      "duration_ms": 195124,
-      "name": "Madrigal",
-      "url": "https://open.spotify.com/track/3u4BpjWcxvAJNcW4AgRPFj"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Blueberry Street",
         "url": "https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 255734,
       "name": "Blueberry Street",
       "url": "https://open.spotify.com/track/6YeUTstb4pY8jUE3xWhX0d"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Madrigal",
+        "url": "https://open.spotify.com/album/3g7XP0N3nxkDmmKfvRYEo7"
+      },
+      "artists": [
+        {
+          "name": "Dave Oakley trio",
+          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
+        }
+      ],
+      "duration_ms": 195124,
+      "name": "Madrigal",
+      "url": "https://open.spotify.com/track/3u4BpjWcxvAJNcW4AgRPFj"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Opening",
+        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 155786,
+      "name": "The Longing",
+      "url": "https://open.spotify.com/track/50pznqqke3fvXOLW7MqL99"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Steps from the Nightingale",
         "url": "https://open.spotify.com/album/1ItL7EmWFogCnKiXFZQbmA"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 204696,
       "name": "Daydreams",
       "url": "https://open.spotify.com/track/3DZ0VT9Cnl9P2kj5rEGske"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Opening",
-        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 155786,
-      "name": "The Longing",
-      "url": "https://open.spotify.com/track/50pznqqke3fvXOLW7MqL99"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -955,38 +955,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Lazy Steps",
-        "url": "https://open.spotify.com/album/2nyieRloloSNbpfwfAoHAj"
-      },
-      "artists": [
-        {
-          "name": "Tadd Norman",
-          "url": "https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo"
-        }
-      ],
-      "duration_ms": 228740,
-      "name": "Lazy Steps",
-      "url": "https://open.spotify.com/track/5fhQ6woeIt71IEPs9q0Zd5"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Hidden Beauty",
-        "url": "https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF"
-      },
-      "artists": [
-        {
-          "name": "Triosence",
-          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
-        }
-      ],
-      "duration_ms": 243013,
-      "name": "Leave Me Here",
-      "url": "https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Think about that",
         "url": "https://open.spotify.com/album/7qWpFNdlfnhWujIcby7yB9"
       },
@@ -1003,6 +971,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Lazy Steps",
+        "url": "https://open.spotify.com/album/2nyieRloloSNbpfwfAoHAj"
+      },
+      "artists": [
+        {
+          "name": "Tadd Norman",
+          "url": "https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo"
+        }
+      ],
+      "duration_ms": 228740,
+      "name": "Lazy Steps",
+      "url": "https://open.spotify.com/track/5fhQ6woeIt71IEPs9q0Zd5"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Searching",
         "url": "https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 208606,
       "name": "Searching",
       "url": "https://open.spotify.com/track/6psYARJ0RS8CNreEbKsCnD"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Hidden Beauty",
+        "url": "https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF"
+      },
+      "artists": [
+        {
+          "name": "Triosence",
+          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
+        }
+      ],
+      "duration_ms": 243013,
+      "name": "Leave Me Here",
+      "url": "https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Payton's Place",
-        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
+        "name": "Abisko",
+        "url": "https://open.spotify.com/album/0Lkn1OWDVLcaxHR9hOmyBp"
       },
       "artists": [
         {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+          "name": "Norberg",
+          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
         }
       ],
-      "duration_ms": 325400,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/5AuLuhe6LXvVod82HxJtXO"
+      "duration_ms": 168190,
+      "name": "Abisko",
+      "url": "https://open.spotify.com/track/65zFbHuyUdai6WFwtPAkix"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Abisko",
-        "url": "https://open.spotify.com/album/0Lkn1OWDVLcaxHR9hOmyBp"
+        "name": "Payton's Place",
+        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
       },
       "artists": [
         {
-          "name": "Norberg",
-          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
         }
       ],
-      "duration_ms": 168190,
-      "name": "Abisko",
-      "url": "https://open.spotify.com/track/65zFbHuyUdai6WFwtPAkix"
+      "duration_ms": 325400,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/5AuLuhe6LXvVod82HxJtXO"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/51LEUb1ZFtzAhyS4nFkKbC"
+      },
+      "artists": [
+        {
+          "name": "6th Street Jazz",
+          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
+        }
+      ],
+      "duration_ms": 197700,
+      "name": "It Rained All Night",
+      "url": "https://open.spotify.com/track/4I1VoLbdbu3YKrjoXeQONf"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "A Hero Lives Another Day",
         "url": "https://open.spotify.com/album/15BIymmR9Y0raWZcbcFs6n"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 192394,
       "name": "Winter in Munich",
       "url": "https://open.spotify.com/track/3b9UgzMQmT1DZGgoHNtLTq"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Summer Love",
-        "url": "https://open.spotify.com/album/51LEUb1ZFtzAhyS4nFkKbC"
-      },
-      "artists": [
-        {
-          "name": "6th Street Jazz",
-          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
-        }
-      ],
-      "duration_ms": 197700,
-      "name": "It Rained All Night",
-      "url": "https://open.spotify.com/track/4I1VoLbdbu3YKrjoXeQONf"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Colour Yes (Special Edition)",
-        "url": "https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46"
-      },
-      "artists": [
-        {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
-        }
-      ],
-      "duration_ms": 790920,
-      "name": "I've Been Here Before - Special Edition",
-      "url": "https://open.spotify.com/track/2Guj4HKiwv4P9F2N1rpeWL"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Changing Places",
         "url": "https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g"
       },
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/0ZUXab6Il693uIWXQLx8O5"
+        "name": "Colour Yes (Special Edition)",
+        "url": "https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46"
       },
       "artists": [
         {
-          "name": "Mandevilla",
-          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
         }
       ],
-      "duration_ms": 239687,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/5s2sEbhxWaiYJF1ko6iMXs"
+      "duration_ms": 790920,
+      "name": "I've Been Here Before - Special Edition",
+      "url": "https://open.spotify.com/track/2Guj4HKiwv4P9F2N1rpeWL"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1439,6 +1423,22 @@
       "duration_ms": 473680,
       "name": "Spartacus Love Theme",
       "url": "https://open.spotify.com/track/69VOuX3N2H0zFRbtoLWFKA"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/0ZUXab6Il693uIWXQLx8O5"
+      },
+      "artists": [
+        {
+          "name": "Mandevilla",
+          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+        }
+      ],
+      "duration_ms": 239687,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/5s2sEbhxWaiYJF1ko6iMXs"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
+        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 374906,
+      "name": "Melancholee - Remastered 2000/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7evUA1KCKUv2cAxRU0hVDI"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Benign Strangers",
         "url": "https://open.spotify.com/album/7AhaDHqyVLlmSxc5iAG5Nx"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 365880,
       "name": "Dim",
       "url": "https://open.spotify.com/track/7M2CYOlGuAC73LnWPPbNGA"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
-        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 374906,
-      "name": "Melancholee - Remastered 2000/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7evUA1KCKUv2cAxRU0hVDI"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Stan Getz Plays (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Moon Beams [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 300706,
       "name": "In Love, In Vain",
       "url": "https://open.spotify.com/track/24HJ0wbvFZflLOlr9SzM6h"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Stan Getz Plays (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f"
     },
     {
       "added_at": "2023-10-13 00:01:00",

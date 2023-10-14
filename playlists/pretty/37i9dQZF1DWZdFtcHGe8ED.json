@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 521879,
+  "num_followers": 521641,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWQ0YjIxZTQ3MmQ0NjM2YTIwYWY2MzU3OGQ5MmM5YTZjN2Y0NzNj",
+  "snapshot_id": "MCw5ZTAyYTM1M2MwMDY3ODkwMjE5ZDJkZTJiMjEzMjBkNDhhODBjM2Mz",
   "tracks": [
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/22i0SAC2wv9bbgNQdublCr"
     },
     {
-      "added_at": "2023-07-31 21:34:14",
-      "album": {
-        "name": "A Sign of Things to Come",
-        "url": "https://open.spotify.com/album/0yAh1jpL4MX218VAVSPJIF"
-      },
-      "artists": [
-        {
-          "name": "Sylosis",
-          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
-        }
-      ],
-      "duration_ms": 275306,
-      "name": "A Sign of Things to Come",
-      "url": "https://open.spotify.com/track/6RK8YZleqg0LUezZ9zh2rL"
-    },
-    {
       "added_at": "2023-06-27 13:33:22",
       "album": {
         "name": "The Ultra-Violence",
@@ -1259,6 +1243,22 @@
       "duration_ms": 633600,
       "name": "The Ultra-Violence",
       "url": "https://open.spotify.com/track/20bJTQOaoHqeCHBhqIgcTl"
+    },
+    {
+      "added_at": "2023-07-31 21:34:14",
+      "album": {
+        "name": "A Sign of Things to Come",
+        "url": "https://open.spotify.com/album/0yAh1jpL4MX218VAVSPJIF"
+      },
+      "artists": [
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+        }
+      ],
+      "duration_ms": 275306,
+      "name": "A Sign of Things to Come",
+      "url": "https://open.spotify.com/track/6RK8YZleqg0LUezZ9zh2rL"
     },
     {
       "added_at": "2023-07-31 21:34:14",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Ignorance & Surf Nicaragua",
-        "url": "https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0"
-      },
-      "artists": [
-        {
-          "name": "Sacred Reich",
-          "url": "https://open.spotify.com/artist/0UeVJTdCWGEFSSO9Tg9tiH"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "Surf Nicaragua",
-      "url": "https://open.spotify.com/track/0cjd7hXm53E1xAJsIYcSJN"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "The Legacy",
         "url": "https://open.spotify.com/album/6BLP5fnS4lIPQeneG4uyeW"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 246066,
       "name": "Over the Wall",
       "url": "https://open.spotify.com/track/1YJ5bavLWoAdax3CECYHRu"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Ignorance & Surf Nicaragua",
+        "url": "https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0"
+      },
+      "artists": [
+        {
+          "name": "Sacred Reich",
+          "url": "https://open.spotify.com/artist/0UeVJTdCWGEFSSO9Tg9tiH"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "Surf Nicaragua",
+      "url": "https://open.spotify.com/track/0cjd7hXm53E1xAJsIYcSJN"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Worlds Torn Asunder",
-        "url": "https://open.spotify.com/album/6v6I6MFsUq4ioOt4EHRheA"
-      },
-      "artists": [
-        {
-          "name": "Warbringer",
-          "url": "https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "Living Weapon",
-      "url": "https://open.spotify.com/track/24I20Jlh6Tv1WatCnusj8H"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "Enter The Grave",
         "url": "https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Darkness Descends",
-        "url": "https://open.spotify.com/album/1IRzwwevpNSdxERoRIKQrw"
+        "name": "Worlds Torn Asunder",
+        "url": "https://open.spotify.com/album/6v6I6MFsUq4ioOt4EHRheA"
       },
       "artists": [
         {
-          "name": "Dark Angel",
-          "url": "https://open.spotify.com/artist/0RFQyVQGVcECxnuSLvEKxV"
+          "name": "Warbringer",
+          "url": "https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1"
         }
       ],
-      "duration_ms": 347093,
-      "name": "Darkness Descends",
-      "url": "https://open.spotify.com/track/1zI8yKFcmjtgdFbEoTHn94"
+      "duration_ms": 261560,
+      "name": "Living Weapon",
+      "url": "https://open.spotify.com/track/24I20Jlh6Tv1WatCnusj8H"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "The New Order",
-        "url": "https://open.spotify.com/album/3aZG385ojagRAjAvscAv37"
+        "name": "Darkness Descends",
+        "url": "https://open.spotify.com/album/1IRzwwevpNSdxERoRIKQrw"
       },
       "artists": [
         {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+          "name": "Dark Angel",
+          "url": "https://open.spotify.com/artist/0RFQyVQGVcECxnuSLvEKxV"
         }
       ],
-      "duration_ms": 166240,
-      "name": "Into the Pit",
-      "url": "https://open.spotify.com/track/3r9jQQKWDHyhYlCG2YPE1N"
+      "duration_ms": 347093,
+      "name": "Darkness Descends",
+      "url": "https://open.spotify.com/track/1zI8yKFcmjtgdFbEoTHn94"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1483,6 +1467,22 @@
       "duration_ms": 375400,
       "name": "Hammerhead",
       "url": "https://open.spotify.com/track/0FCvb6CiwfxdRqZOtgj5yt"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "The New Order",
+        "url": "https://open.spotify.com/album/3aZG385ojagRAjAvscAv37"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 166240,
+      "name": "Into the Pit",
+      "url": "https://open.spotify.com/track/3r9jQQKWDHyhYlCG2YPE1N"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "State of Insurgency",
-        "url": "https://open.spotify.com/album/72l4WhRIOstE9jzWVzpQDY"
-      },
-      "artists": [
-        {
-          "name": "HeXeN",
-          "url": "https://open.spotify.com/artist/4nLzJeIvsP58MnoN7e9KT3"
-        }
-      ],
-      "duration_ms": 241133,
-      "name": "Knee Deep in the Dead",
-      "url": "https://open.spotify.com/track/2IQS1gH2hzp6WAmjdWZtr1"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/0isrNd8l4UqHhtPDhCKsId"
       },
@@ -1775,6 +1759,22 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
+        "name": "State of Insurgency",
+        "url": "https://open.spotify.com/album/72l4WhRIOstE9jzWVzpQDY"
+      },
+      "artists": [
+        {
+          "name": "HeXeN",
+          "url": "https://open.spotify.com/artist/4nLzJeIvsP58MnoN7e9KT3"
+        }
+      ],
+      "duration_ms": 241133,
+      "name": "Knee Deep in the Dead",
+      "url": "https://open.spotify.com/track/2IQS1gH2hzp6WAmjdWZtr1"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
         "name": "Forbidden Evil",
         "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
       },
@@ -1787,22 +1787,6 @@
       "duration_ms": 272853,
       "name": "Chalice of Blood",
       "url": "https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0"
-    },
-    {
-      "added_at": "2023-07-31 21:34:14",
-      "album": {
-        "name": "Mochado",
-        "url": "https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ"
-      },
-      "artists": [
-        {
-          "name": "Brujeria",
-          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Mochado",
-      "url": "https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1855,6 +1839,22 @@
       "duration_ms": 276106,
       "name": "Bestial Invasion",
       "url": "https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo"
+    },
+    {
+      "added_at": "2023-07-31 21:34:14",
+      "album": {
+        "name": "Mochado",
+        "url": "https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ"
+      },
+      "artists": [
+        {
+          "name": "Brujeria",
+          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Mochado",
+      "url": "https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA"
     },
     {
       "added_at": "2023-06-27 13:33:22",

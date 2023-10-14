@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics.",
-  "num_followers": 17382,
+  "num_followers": 17469,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzMzNGZhZTgyNGJiZjNhNDRkZWQ4NWUwN2U3NTkyNzVkOGU0YTMw",
+  "snapshot_id": "MCwzOTliZGI4NWU1NzQzMTlhNDk3MzY1ODFmYjkyOTg1MmM3ZjkyMDc3",
   "tracks": [
     {
       "added_at": "2023-10-12 11:27:50",
@@ -63,6 +63,22 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
+        "name": "JuJu",
+        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 399466,
+      "name": "Yes Or No - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR"
+    },
+    {
+      "added_at": "2023-10-12 11:27:50",
+      "album": {
         "name": "Bird And Diz (Expanded Edition)",
         "url": "https://open.spotify.com/album/28R4xxdsuM5J9k8LekSnrK"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 157306,
       "name": "Leap Frog - Take 11 / Take 6 / Master Take",
       "url": "https://open.spotify.com/track/7xZLIErdMaUV0GmtsRclS5"
-    },
-    {
-      "added_at": "2023-10-12 11:27:50",
-      "album": {
-        "name": "JuJu",
-        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 399466,
-      "name": "Yes Or No - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
-      "url": "https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR"
     },
     {
       "added_at": "2023-10-12 11:27:50",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
-        "name": "An Electrifying Evening With The Dizzy Gillespie Quintet",
-        "url": "https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie Quintet",
-          "url": "https://open.spotify.com/artist/4pOjIcQ4PGk52L8aGsrO5A"
-        }
-      ],
-      "duration_ms": 428373,
-      "name": "Salt Peanuts",
-      "url": "https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h"
-    },
-    {
-      "added_at": "2023-10-12 11:27:50",
-      "album": {
         "name": "Art Blakey & The Jazz Messengers",
         "url": "https://open.spotify.com/album/7n3N9COR04FrWRyl8eftZU"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 410866,
       "name": "Alamode",
       "url": "https://open.spotify.com/track/3Wglt4wIgeXIBp8nDTh7mQ"
+    },
+    {
+      "added_at": "2023-10-12 11:27:50",
+      "album": {
+        "name": "An Electrifying Evening With The Dizzy Gillespie Quintet",
+        "url": "https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie Quintet",
+          "url": "https://open.spotify.com/artist/4pOjIcQ4PGk52L8aGsrO5A"
+        }
+      ],
+      "duration_ms": 428373,
+      "name": "Salt Peanuts",
+      "url": "https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h"
     },
     {
       "added_at": "2023-10-12 11:27:50",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
-        "name": "Stitt Plays Bird (Remastered Version)",
-        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Now's the Time - Remastered Version",
-      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
-    },
-    {
-      "added_at": "2023-10-12 11:27:50",
-      "album": {
         "name": "Ultimate Stan Getz",
         "url": "https://open.spotify.com/album/1TTbszowRjHjuvKsv2JVjm"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 507133,
       "name": "Wee (Allen's Alley)",
       "url": "https://open.spotify.com/track/66D8kuQSFshLhI6aVaef2D"
+    },
+    {
+      "added_at": "2023-10-12 11:27:50",
+      "album": {
+        "name": "Stitt Plays Bird (Remastered Version)",
+        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Now's the Time - Remastered Version",
+      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
     },
     {
       "added_at": "2023-10-12 11:27:50",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
-        "name": "Mingus Mingus Mingus Mingus Mingus",
-        "url": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH"
-      },
-      "artists": [
-        {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
-        }
-      ],
-      "duration_ms": 283160,
-      "name": "Hora Decubitus",
-      "url": "https://open.spotify.com/track/6evehXa14Rvbt355gFnMdH"
-    },
-    {
-      "added_at": "2023-10-12 11:27:50",
-      "album": {
         "name": "Genius Of Modern Music (Vol.1, Expanded Edition)",
         "url": "https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 175040,
       "name": "Humph - Rudy Van Gelder 24-Bit Mastering / 1998 Digital Remaster",
       "url": "https://open.spotify.com/track/4oGruUJSJ1r10pOxGNlGd5"
+    },
+    {
+      "added_at": "2023-10-12 11:27:50",
+      "album": {
+        "name": "Mingus Mingus Mingus Mingus Mingus",
+        "url": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 283160,
+      "name": "Hora Decubitus",
+      "url": "https://open.spotify.com/track/6evehXa14Rvbt355gFnMdH"
     },
     {
       "added_at": "2023-10-12 11:27:50",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
+        "name": "Open Sesame (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 431733,
+      "name": "Open Sesame - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3zkUZvGHBtphTSHQIychm1"
+    },
+    {
+      "added_at": "2023-10-12 11:27:50",
+      "album": {
         "name": "Kenny Burrell & John Coltrane",
         "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 439013,
       "name": "Freight Trane",
       "url": "https://open.spotify.com/track/67lao4uXu1p8rdpn9ActTg"
-    },
-    {
-      "added_at": "2023-10-12 11:27:50",
-      "album": {
-        "name": "Open Sesame (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 431733,
-      "name": "Open Sesame - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3zkUZvGHBtphTSHQIychm1"
     },
     {
       "added_at": "2023-10-12 11:27:50",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
-        "name": "A Modern Symposium of Music and Poetry (Remastered 2013)",
-        "url": "https://open.spotify.com/album/122JFn10LK4Mpzp8yqIdhO"
+        "name": "Here To Stay",
+        "url": "https://open.spotify.com/album/7mtewQM5RycRtEtGYAlLH5"
       },
       "artists": [
         {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 208030,
-      "name": "Slippers",
-      "url": "https://open.spotify.com/track/2l9HtErDh1gZfnyjeBk9NT"
+      "duration_ms": 328186,
+      "name": "Philly Mignon - Rudy Van Gelder 24-Bit Remastering/2006",
+      "url": "https://open.spotify.com/track/7hebpNg0ujU0zFZhNvgCJz"
     }
   ],
   "unique_name": "Upbeat Jazz",

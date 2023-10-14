@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 
 > Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,439 likes - 85 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,452 likes - 85 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 44 | [Sweet Love of Mine \(Acoustic\)](https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 2:55 |
 | 45 | [Fighter](https://open.spotify.com/track/6xcaBP6eJajda8AgSNsYun) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:21 |
 | 46 | [Fearless](https://open.spotify.com/track/23rnAadbz4rxHZNEZoW1Ao) | [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [Fearless](https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY) | 3:03 |
-| 47 | [Watch You Be a Mother](https://open.spotify.com/track/3rnXcaQ10ZQ4e0aVbsufmV) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Watch You Be a Mother](https://open.spotify.com/album/2lyjklRTRuWMeRiL16XOf9) | 3:15 |
+| 47 | [More Beautiful You](https://open.spotify.com/track/0BD6kjnLp2CGYAY3Vb6bUY) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [More Beautiful You](https://open.spotify.com/album/27qh9LZsrPEPAdxKvbUPBp) | 3:51 |
 | 48 | [Whole Heart \(Hold Me Now\) \- Acoustic](https://open.spotify.com/track/2ZUlzVNFZz359SJ3tfHhL7) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 5:40 |
 | 49 | [A Mother Like You](https://open.spotify.com/track/4Vnbh54MMkRf2uZXcON3Av) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [A Mother Like You](https://open.spotify.com/album/7DrWjwgmmTZPGdQxfP8qi6) | 3:54 |
 | 50 | [Spend a Life](https://open.spotify.com/track/0YrLt5LEmJ8SqGnEmXzll7) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Perspectives](https://open.spotify.com/album/7JacApKikA6YgXD2zq785n) | 3:28 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 52 | [Slow Down](https://open.spotify.com/track/5ih42me52UDonDOMv1gl7o) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh) | [The Unmaking](https://open.spotify.com/album/5Hbn1AQBK8wzLX5OBe0v0x) | 3:58 |
 | 53 | [Footprints in the Sand \- Single Mix](https://open.spotify.com/track/0mrqlJrZRPEaH6RXkztRT2) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 3:56 |
 | 54 | [What I Never Knew I Always Wanted](https://open.spotify.com/track/5b0QOGqikWl9VZ3H3uHrUb) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:35 |
-| 55 | [More Beautiful You](https://open.spotify.com/track/0BD6kjnLp2CGYAY3Vb6bUY) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [More Beautiful You](https://open.spotify.com/album/27qh9LZsrPEPAdxKvbUPBp) | 3:51 |
+| 55 | [Watch You Be a Mother](https://open.spotify.com/track/3rnXcaQ10ZQ4e0aVbsufmV) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Watch You Be a Mother](https://open.spotify.com/album/2lyjklRTRuWMeRiL16XOf9) | 3:15 |
 | 56 | [Love God Love People \- Radio Version](https://open.spotify.com/track/4AzZt81qe4U17x6LFBj10S) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Love God Love People \(Radio Version\)](https://open.spotify.com/album/1vopwBYonLDhkmOfDcJGNG) | 3:12 |
 | 57 | [Help Us To Love](https://open.spotify.com/track/6LPnHQr7o95lezO5Y6qJVE) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [The HamilTones](https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs) | [Hiding Place](https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw) | 3:45 |
 | 58 | [I Remember Mama](https://open.spotify.com/track/1tqxg3dZ16BSRvm0xbkuYG) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 6:22 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 70 | [Pave](https://open.spotify.com/track/1495RSGXl41AGVT4dMwzgQ) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Britt Nicole \(Deluxe Edition\)](https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM) | 3:30 |
 | 71 | [A Letter To My Mama](https://open.spotify.com/track/1LOqoF97FLdAPWVu9IRYy1) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Okie](https://open.spotify.com/album/74K88Q3Yroy6hTgpj1tXsw) | 3:36 |
 | 72 | [I Am Loved](https://open.spotify.com/track/2ypIhH4TaZQ1Pux0to1ceP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Christian Music 2020](https://open.spotify.com/album/7i58toAI9y2adGP64UJ2Xc) | 7:12 |
-| 73 | [Me](https://open.spotify.com/track/3eQ85lzNu0ZmzSIqbOIMTl) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Blink](https://open.spotify.com/album/3r9SKtHFReLzHXaswU4S49) | 4:33 |
+| 73 | [A Mother's Prayer](https://open.spotify.com/track/1F5PuzqMF7joAGLoO86Hcf) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv) | [Hymns For The Christian Life \(Deluxe\)](https://open.spotify.com/album/0ErgJiXJ7wucA4jmacB3wB) | 5:19 |
 | 74 | [Paving the Runway \(You're Gonna Fly\)](https://open.spotify.com/track/118yj2gBlUuImGrZeMuTUj) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Paving the Runway \(You're Gonna Fly\)](https://open.spotify.com/album/0qqN2oera2BjXRoZzMO3ma) | 3:23 |
-| 75 | [A Mother's Prayer](https://open.spotify.com/track/1F5PuzqMF7joAGLoO86Hcf) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv) | [Hymns For The Christian Life \(Deluxe\)](https://open.spotify.com/album/0ErgJiXJ7wucA4jmacB3wB) | 5:19 |
+| 75 | [Me](https://open.spotify.com/track/3eQ85lzNu0ZmzSIqbOIMTl) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Blink](https://open.spotify.com/album/3r9SKtHFReLzHXaswU4S49) | 4:33 |
 | 76 | [Mamma's Kitchen](https://open.spotify.com/track/17toD0xlCUdWdn4B47uvr5) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Purified](https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8) | 3:05 |
 | 77 | [Infinite Love](https://open.spotify.com/track/7nSi8zg7M36sQ8X65CG1q4) | [Orlando Vick](https://open.spotify.com/artist/3MZY2J55U6iYpPB5A7BCyE) | [Infinite Love](https://open.spotify.com/album/5xY3XsSsbDpF5UBQzgGTWu) | 3:43 |
 | 78 | [Mama](https://open.spotify.com/track/4TsPRvWfCbbaGq3nDMfaux) | [Lamboginny](https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF) | [Mama](https://open.spotify.com/album/4UIzTVq2CaK61HXnoccPj5) | 2:38 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 84 | [After The Fire](https://open.spotify.com/track/4Gqx9729vziD22mSmqAewG) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Simple Things](https://open.spotify.com/album/0hx7o90RXZZtJ6MS5nvxjF) | 3:21 |
 | 85 | [O God Our Mother](https://open.spotify.com/track/1CFsZ1rppH7wb9tJ6BW3Wm) | [Samantha McCabe](https://open.spotify.com/artist/7jEdW0KbQk4baXIdRNHArL) | [O God Our Mother](https://open.spotify.com/album/0QRDfO8uH9FiyoETaU4Vda) | 3:41 |
 
-Snapshot ID: `MCw4MzVjNDUwOTE3ZjlkZmE1MTA1MDFhMTkwMTI3ZmYwNzMwMzdhZTE4`
+Snapshot ID: `MCwzNmJkMTYyZDRmZmJkMDBiMTJjMWNhMDE2ZmEwOWE3YTY1MTMzNTgx`

@@ -204,7 +204,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 264179,
-      "name": "All My Life (Burna Boy Remix) - Burna Explicit Stereo",
+      "name": "All My Life (Burna Boy Remix)",
       "url": "https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq"
     },
     {
@@ -1875,6 +1875,28 @@
     },
     {
       "album": {
+        "name": "EZIOKWU",
+        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "FIREGUN (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk"
+    },
+    {
+      "album": {
         "name": "Flimsy Excusees/ Bad Character",
         "url": "https://open.spotify.com/album/6OFSAmfK3cCLQpP0XSEo5p"
       },
@@ -2938,7 +2960,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 107412,
       "name": "MC OLUOMO",
       "url": "https://open.spotify.com/track/7d0wP4hqtVIQ23H5uEnqBm"
@@ -4076,6 +4098,28 @@
       "duration_ms": 169756,
       "name": "prayers",
       "url": "https://open.spotify.com/track/24nu4KX3BBhBV8vAXtIUnT"
+    },
+    {
+      "album": {
+        "name": "Pretty Girl (with Rema)",
+        "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137907,
+      "name": "Pretty Girl (with Rema)",
+      "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
     },
     {
       "album": {

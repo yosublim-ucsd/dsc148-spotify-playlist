@@ -2,9 +2,9 @@
 
 ### [Vanguard](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> Leaders of the new school...Alternative R&B\. Cover: Majid Jordan
+> Leaders of the new school...Alternative R&B\. Cover: Che Ecru
 
-984 songs - 2 day 4 hr 45 min
+985 songs - 2 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,6 +646,7 @@
 | [Pasadena](https://open.spotify.com/track/0LFKnn56aITNeS2PRyGBFp) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Pasadena](https://open.spotify.com/album/6yrsnGQwaT2YlWNAOntPz8) | 2:57 | 2021-06-04 | 2022-07-10 |
 | [Passport \- シングル版](https://open.spotify.com/track/4DkSghl14yN70T0RX5pe9x) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Passport \(シングル版\)](https://open.spotify.com/album/3YyA7QcOAdQaWne8E4SF6k) | 3:02 | 2021-03-19 | 2022-01-02 |
 | [Patient](https://open.spotify.com/track/730CcAUVjw3qLxvaBfB7qf) | [Isaac Lewis](https://open.spotify.com/artist/0zMOuBo9Jxo4JvgH2IHdHO) | [Patient](https://open.spotify.com/album/0bj3ttjgVGDYOEtJLA4Bar) | 4:04 | 2022-04-01 | 2022-06-08 |
+| [Peppermint](https://open.spotify.com/track/3rp0lvWmmT8Z1mKk0K7lfW) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Peppermint](https://open.spotify.com/album/5RyFH5vqNg3W3YWCSTZU09) | 2:53 | 2023-10-13 |  |
 | [Perfect](https://open.spotify.com/track/4dGRpl0xZg9C9aesFhlsoe) | [Bowtye](https://open.spotify.com/artist/0wms98WJkHZ4bT7Cmo7FVe), [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z) | [Clearly Confused](https://open.spotify.com/album/15DzB3KZMXfo7cpoWXxjJh) | 2:25 | 2021-08-13 | 2022-01-07 |
 | [PERFECT PACE](https://open.spotify.com/track/5sr3Cp0w8kIefyKKU3YnnV) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [PERFECT PACE](https://open.spotify.com/album/7L3Xv0EUHVTefGIbeNPHqM) | 2:38 | 2022-09-23 |  |
 | [phases \(feat\. Kojey Radical\)](https://open.spotify.com/track/2kLMWqTsPb3i5QfLmnOAhM) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [phases \(feat\. Kojey Radical\)](https://open.spotify.com/album/34RPWvF1iX9XdtHWXLVH5T) | 4:03 | 2023-02-24 | 2023-10-07 |
@@ -773,7 +774,7 @@
 | [Slow Jam](https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Sweet Heat](https://open.spotify.com/album/63Csm69FYFtiXnzwagzsmd) | 3:28 | 2022-08-19 | 2022-11-12 |
 | [Slowly](https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Slowly](https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum) | 2:53 | 2023-08-25 |  |
 | [Slumber](https://open.spotify.com/track/0oF0OIjGA5DGl7WkyHjSXz) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [April + VISTA](https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj) | [Slipping Into Color](https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO) | 3:45 | 2023-09-22 |  |
-| [Smear Campaign](https://open.spotify.com/track/02f4QgR69r033tjAy6hyit) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Smear Campaign](https://open.spotify.com/album/7hLmfpbp7Ep5yXpDWG0TjW) | 3:28 | 2023-05-05 |  |
+| [Smear Campaign](https://open.spotify.com/track/02f4QgR69r033tjAy6hyit) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Smear Campaign](https://open.spotify.com/album/7hLmfpbp7Ep5yXpDWG0TjW) | 3:28 | 2023-05-05 | 2023-10-14 |
 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 | 2022-10-21 | 2023-04-01 |
 | [So Bad](https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [So Bad](https://open.spotify.com/album/5Wpa2iEON1wIPox3tQauTq) | 3:33 | 2022-08-19 | 2023-04-09 |
 | [So Bad](https://open.spotify.com/track/3KLGkGZU4wU5zLudW0a0em) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [So Bad](https://open.spotify.com/album/6aRAFBI8tnHWCUAlTaaZGN) | 3:33 | 2022-08-19 | 2023-07-22 |

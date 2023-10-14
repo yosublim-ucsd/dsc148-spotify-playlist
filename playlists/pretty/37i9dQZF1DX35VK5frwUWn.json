@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/rjbarrett/\">RJ Barrett</a>",
-  "num_followers": 1470,
+  "num_followers": 1472,
   "original_name": "RJ Barrett's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjQ2ZmJhOGYxZDE0Yjg2ZWRkMzM2YWQ3NDE4YjlmODQ4ZDlmNTE3",
+  "snapshot_id": "MCxiNWM5NGEyNGI0YWEyMzExZDc5YjNhNzZjZWJkNjY2NDBmYTE2ZGNm",
   "tracks": [
     {
       "added_at": "2022-11-01 04:00:00",
@@ -559,26 +559,18 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Sharing Locations (feat. Lil Baby & Lil Durk)",
-        "url": "https://open.spotify.com/album/0q6qOUfC4ikWtv62KCnoip"
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
       "artists": [
         {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 161052,
-      "name": "Sharing Locations (feat. Lil Baby & Lil Durk)",
-      "url": "https://open.spotify.com/track/3J4VKkUpLvomXJbn9ZAypO"
+      "duration_ms": 196946,
+      "name": "9 5 . s o u t h",
+      "url": "https://open.spotify.com/track/5R691ipUYRDYW6ehapjoj6"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -603,18 +595,26 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+        "name": "Sharing Locations (feat. Lil Baby & Lil Durk)",
+        "url": "https://open.spotify.com/album/0q6qOUfC4ikWtv62KCnoip"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 196946,
-      "name": "9 5 . s o u t h",
-      "url": "https://open.spotify.com/track/5R691ipUYRDYW6ehapjoj6"
+      "duration_ms": 161052,
+      "name": "Sharing Locations (feat. Lil Baby & Lil Durk)",
+      "url": "https://open.spotify.com/track/3J4VKkUpLvomXJbn9ZAypO"
     },
     {
       "added_at": "2022-11-01 04:00:00",

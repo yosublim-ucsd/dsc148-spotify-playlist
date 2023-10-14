@@ -4,7 +4,7 @@
 
 > A llorar a la llorería.
 
-255 songs - 14 hr 33 min
+256 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [As the World Caves In](https://open.spotify.com/track/7LAmsNJpBaNvNg7VZPXxSv) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [As the World Caves In](https://open.spotify.com/album/7fy6bIIBMLjfdvyPpmv8Ci) | 2:41 | 2022-03-25 | 2022-04-21 |
 | [Att: Amor](https://open.spotify.com/track/6xihliy8JGYJXd6uYF0Ncu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Att: Amor](https://open.spotify.com/album/3uZJ2nD5tSXK8h7XkpRKkX) | 2:12 | 2022-02-18 | 2022-05-18 |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-12 | 2022-11-05 |
+| [Autosabotear](https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Autosabotear](https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a) | 3:12 | 2023-10-13 |  |
 | [Bajo El Agua](https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:45 | 2022-01-07 |  |
 | [Bemaste](https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Bemaste](https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO) | 2:24 | 2023-01-20 | 2023-09-30 |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-29 |  |
@@ -36,7 +37,7 @@
 | [Brillas](https://open.spotify.com/track/0wVU74Grfynyrl7vlaCM0E) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Baladas Románticas Latinas](https://open.spotify.com/album/07EhDhHjge4hEJcXzUUq0j) | 3:44 | 2022-11-10 | 2022-11-13 |
 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 | 2022-11-10 | 2023-02-16 |
 | [Brillo Mio](https://open.spotify.com/track/7eCDfoEl8UGeWqcpRO5lgz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bálsamo](https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ) | 3:16 | 2022-01-07 | 2022-04-20 |
-| [Brindo](https://open.spotify.com/track/3CjxGKDPbeRaO8BLnCddyK) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Brindo](https://open.spotify.com/album/12nEDX9e0eG6qu6056EPU5) | 4:44 | 2023-10-06 |  |
+| [Brindo](https://open.spotify.com/track/3CjxGKDPbeRaO8BLnCddyK) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Brindo](https://open.spotify.com/album/12nEDX9e0eG6qu6056EPU5) | 4:44 | 2023-10-06 | 2023-10-14 |
 | [Café De Las Ocho](https://open.spotify.com/track/6XpmMP3AzxZjI81e9apesl) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [Café De Las Ocho](https://open.spotify.com/album/77KVG02WxFMY9I3KI10dag) | 3:55 | 2022-01-07 | 2022-07-28 |
 | [Canción de Amor](https://open.spotify.com/track/08cKYcUskKnbKC6nwJXNaW) | [Viniloversus](https://open.spotify.com/artist/2zwh4WnVBGZcfnllC7DUxt), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Canción de Amor](https://open.spotify.com/album/3omIfUhlINyPpaCHXW1qLV) | 3:57 | 2022-01-26 | 2022-05-20 |
 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2022-04-06 | 2022-11-05 |
@@ -46,7 +47,7 @@
 | [champagne problems](https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:04 | 2022-03-25 | 2022-04-13 |
 | [Chocolatito](https://open.spotify.com/track/1fgq1t5rkiJhR0LTDzzehu) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tengo Que Calmarme](https://open.spotify.com/album/4dmb8dXKTk6GSh7zsBnF0r) | 2:59 | 2022-01-07 | 2022-07-22 |
 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 | 2022-01-07 |  |
-| [Confieso](https://open.spotify.com/track/6EgQ0qOpwA83iRDSFBNtUc) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Confieso](https://open.spotify.com/album/3py5UQNoZMecvronNEQp41) | 2:58 | 2022-01-07 | 2023-10-07 |
+| [Confieso](https://open.spotify.com/track/6EgQ0qOpwA83iRDSFBNtUc) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Confieso](https://open.spotify.com/album/3py5UQNoZMecvronNEQp41) | 2:58 | 2022-01-07 |  |
 | [contenta,](https://open.spotify.com/track/1YlXMOHqJVWzFaaQLeekPt) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [eduardo](https://open.spotify.com/album/6ylPT54V3iwJY2trdxTzTX) | 3:46 | 2022-11-10 | 2023-10-07 |
 | [Coping](https://open.spotify.com/track/0RjKWagIjeOoxpsiCT4gls) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Coping](https://open.spotify.com/album/5Uzut3AAcwTy72vusYP7lk) | 3:10 | 2022-06-02 | 2022-07-29 |
 | [Coping](https://open.spotify.com/track/4RX020eHQpZbZFP5jpbwOP) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Coping](https://open.spotify.com/album/52dIh2e2qt0uiDQySjlrHN) | 3:10 | 2022-06-02 | 2022-08-13 |
@@ -110,7 +111,7 @@
 | [La Culpa](https://open.spotify.com/track/5VUhMAjIfD0NHRckqsE4e3) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [La Culpa](https://open.spotify.com/album/5VriqoVJikkeVk9mfZfeQT) | 3:20 | 2022-11-04 | 2023-01-21 |
 | [La Peor Droga de Todas](https://open.spotify.com/track/4aiSfuDZpo3C3WvdPQVTLs) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [La Peor Droga de Todas](https://open.spotify.com/album/2fg4MULim5S47UcouQRINF) | 3:40 | 2022-01-26 | 2022-07-21 |
 | [La Perra Soledad](https://open.spotify.com/track/1s7y3gBwzBpucREn0Pgwxr) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [La Perra Soledad](https://open.spotify.com/album/4KxzEIFakAHj2O5jClpLbX) | 3:08 | 2022-01-26 | 2022-02-07 |
-| [La Terminal](https://open.spotify.com/track/5ozNzOJeYpzIZaQc9C6jr3) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Terminal](https://open.spotify.com/album/1SrCPTPht9ws7CP1GVCt7o) | 2:58 | 2023-10-06 |  |
+| [La Terminal](https://open.spotify.com/track/5ozNzOJeYpzIZaQc9C6jr3) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Terminal](https://open.spotify.com/album/1SrCPTPht9ws7CP1GVCt7o) | 2:58 | 2023-10-06 | 2023-10-14 |
 | [la vida viene y va](https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [la vida viene y va](https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW) | 3:35 | 2022-01-07 | 2022-07-29 |
 | [Lado Izquierdo](https://open.spotify.com/track/3XHVo0PeNU8T2dL5wcS9zb) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Lado Izquierdo](https://open.spotify.com/album/18HiYPJvhYhizBfEhedPoP) | 3:04 | 2022-01-26 | 2022-05-28 |
 | [las consecuencias](https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [las consecuencias](https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9) | 3:11 | 2022-08-26 | 2022-11-05 |

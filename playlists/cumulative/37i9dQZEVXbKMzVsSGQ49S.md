@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-1,535 songs - 3 day 12 hr 11 min
+1,536 songs - 3 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,7 @@
 | [Everything Hit](https://open.spotify.com/track/3unMLNT5wyJaQL8v8jktQb) | [BillboardBilly](https://open.spotify.com/artist/3oKs2CL2DOrq5ZuzjnyzQu) | [Everything Hit](https://open.spotify.com/album/5W7kfvO1ly9k6KBpvkGs1a) | 2:21 | 2023-06-10 | 2023-08-30 |
 | [Eyjan Mín](https://open.spotify.com/track/4wr551XnIiNHExbXllNPdv) | [SZK](https://open.spotify.com/artist/6sSuXem86IOpEGNsDqJSSg) | [Eyjan Mín](https://open.spotify.com/album/2v5ZOBQf2fLFtEsyoq3coe) | 3:02 | 2021-07-24 | 2021-08-02 |
 | [Eyjanótt](https://open.spotify.com/track/5wShXzt653EggNX7kTzMvb) | [Klara Elias](https://open.spotify.com/artist/19XMKPAxNlkw7aASyD3XCa) | [Eyjanótt](https://open.spotify.com/album/1aoMuHB8s0bTWTpuZ4KyfD) | 3:30 | 2022-06-08 | 2023-08-09 |
-| [Eða?](https://open.spotify.com/track/1shnvybhQIlWY5A2VcPBcE) | [GusGus](https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Growling / Eða?](https://open.spotify.com/album/3u5Ex27IPFfRvJor3zyIga) | 7:12 | 2023-07-14 |  |
+| [Eða?](https://open.spotify.com/track/1shnvybhQIlWY5A2VcPBcE) | [GusGus](https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Growling / Eða?](https://open.spotify.com/album/3u5Ex27IPFfRvJor3zyIga) | 7:12 | 2023-07-14 | 2023-10-14 |
 | [Eða?](https://open.spotify.com/track/4eJfLhC4v8psN3X8w2vXg2) | [GusGus](https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Eða?](https://open.spotify.com/album/4BlVwHVCwKyy4JALdkV35M) | 7:12 | 2023-07-08 | 2023-07-15 |
 | [F\*\*\*\*\*g Fans](https://open.spotify.com/track/3RkNXZvOSMMElmmXztDc94) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:05 | 2021-09-05 | 2021-09-06 |
 | [F.C.K \(feat\. Aron Can\)](https://open.spotify.com/track/0OVEdO7VucIEjuTgPhGeT2) | [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z), [Aron Can](https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW) | [Bushido](https://open.spotify.com/album/2IB1JhcHO9T94RYr0aO2fv) | 3:02 | 2021-10-17 | 2022-01-29 |
@@ -813,6 +813,7 @@
 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 | 2022-05-04 | 2022-05-08 |
 | [Lovesick](https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:45 | 2023-09-12 | 2023-09-19 |
 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-29 | 2023-02-01 |
+| [Low Life \(feat\. The Weeknd\)](https://open.spotify.com/track/7EiZI6JVHllARrX9PUvAdX) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [EVOL](https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly) | 5:13 | 2023-10-13 |  |
 | [LUMBERJACK](https://open.spotify.com/track/0BiK5BbYNFLb88CCOxBFJe) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:18 | 2021-06-27 | 2021-06-28 |
 | [Lundinn Í Dalnum](https://open.spotify.com/track/5EhEOBsdGOdUplavTQrKc3) | [SZK](https://open.spotify.com/artist/6sSuXem86IOpEGNsDqJSSg) | [Lundinn Í Dalnum](https://open.spotify.com/album/7boxXzjJTrSWVVJb7iiFaD) | 3:01 | 2022-07-30 | 2022-08-01 |
 | [luvsong for the streets](https://open.spotify.com/track/2n7J13ZmuRtKFBFprYb3mZ) | [Lil Binni](https://open.spotify.com/artist/5A08BH6Y4ogPpBz71JO0e3) | [þjóðþekktur einstaklingur í valdastöðu](https://open.spotify.com/album/1gv02EfUkvWstrxyDpUM6P) | 3:01 | 2022-04-21 | 2022-04-24 |

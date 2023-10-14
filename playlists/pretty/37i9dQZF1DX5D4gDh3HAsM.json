@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 508849,
+  "num_followers": 508670,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDc3NGI2YTM1ZmNjZDBlMTY3ZjM1MWEzOTE2YTQ3YjU3MGRmODY4",
+  "snapshot_id": "MCxjNTZkNzA0YWEzMmFiZjgwZDFhMjdmN2I4MmMyOGVlYTI0MDcxMmE5",
   "tracks": [
     {
       "added_at": "2023-09-29 04:01:00",
@@ -23,6 +23,22 @@
       "duration_ms": 225640,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/1jNPo7xE3lf5kEamRmQemB"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Christmas Wish",
+        "url": "https://open.spotify.com/album/1HfHKTJRTvwjvSRi865iNv"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 234341,
+      "name": "Christmas Wish",
+      "url": "https://open.spotify.com/track/6WARQvk8lSlBv7HTWpFpFv"
     },
     {
       "added_at": "2021-12-10 05:01:00",
@@ -43,22 +59,6 @@
       "duration_ms": 158133,
       "name": "Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Everything\u2019s Not Lost",
-        "url": "https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 248689,
-      "name": "Everything\u2019s Not Lost",
-      "url": "https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3"
     },
     {
       "added_at": "2022-11-18 16:07:05",
@@ -283,6 +283,22 @@
       "duration_ms": 245333,
       "name": "O Come, O Come, Emmanuel",
       "url": "https://open.spotify.com/track/6NbGDUxwR2WtUSJdYOGcTP"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Everything\u2019s Not Lost",
+        "url": "https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 248689,
+      "name": "Everything\u2019s Not Lost",
+      "url": "https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3"
     },
     {
       "added_at": "2022-11-14 14:34:45",

@@ -4,7 +4,7 @@
 
 > Real rap music from the golden era.
 
-215 songs - 15 hr 18 min
+216 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Full Clip](https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Full Clip: A Decade Of Gang Starr](https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh) | 3:37 | 2022-07-13 |  |
 | [Gangsta Nation](https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf) | [Westside Connection](https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt) | [Terrorist Threats](https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB) | 4:53 | 2022-02-10 |  |
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-07-13 |  |
-| [Get Me Home](https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:49 | 2022-02-10 |  |
+| [Get Me Home](https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:49 | 2022-02-10 | 2023-10-14 |
 | [Get Money](https://open.spotify.com/track/3W6UZZEiAIywZYpNpfBplK) | [Junior M.A.F.I.A.](https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39) | [More Music From 8 Mile](https://open.spotify.com/album/2fSgmryqGicQMugI4XsVyX) | 4:30 | 2021-12-16 | 2022-07-29 |
 | [Get Money](https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO) | [Junior M.A.F.I.A.](https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39) | [Conspiracy \(PA\)](https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG) | 4:34 | 2022-07-13 |  |
 | [Gettin' It \(feat\. Parliament Funkadelic\)](https://open.spotify.com/track/5K5dQsYdSdo2LKdepxbYAd) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [Parliament Funkadelic](https://open.spotify.com/artist/6XswoC68grx55in1WQnJ7E) | [Gettin' It \(Album Number Ten\)](https://open.spotify.com/album/27q3JlNTwpv5Zvf7yDReHH) | 5:41 | 2021-12-16 | 2023-08-09 |
@@ -162,6 +162,7 @@
 | [Quiet Storm](https://open.spotify.com/track/6nwAubYnLGl7F7cDuOoVLp) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Murda Muzik](https://open.spotify.com/album/25NNQGZBd9oLAO1xTeq5oQ) | 4:25 | 2022-01-13 | 2022-11-13 |
 | [Ready or Not](https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Pras](https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 3:46 | 2022-07-13 |  |
 | [Real Muthaphuckkin G's](https://open.spotify.com/track/4G19iP1Ltd4GLknCiS2k7y) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [It's On \(Dr\. Dre\) 187um Killa](https://open.spotify.com/album/71eBk8GA96rDQYOhIparqH) | 5:32 | 2021-12-16 | 2022-07-29 |
+| [Real Muthaphuckkin G's](https://open.spotify.com/track/7q6lr1W6cmGWijl5kCv5RG) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [It's On \(Dr\. Dre\) 187um Killa](https://open.spotify.com/album/1SZNTl621XOcjFwOKtVy56) | 5:32 | 2023-10-11 |  |
 | [Real Muthaphuckkin' G's](https://open.spotify.com/track/53BZ6XygAoubR5DU5w38Vq) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [Gangsta Memorial](https://open.spotify.com/album/63e4jpPrJzjGsTxM4QOOFb) | 5:32 | 2022-07-13 | 2023-09-15 |
 | [Rebirth Of Slick \(Cool Like Dat\)](https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Reachin' \(A New Refutation Of Time And Space\)](https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP) | 4:21 | 2022-10-13 | 2023-10-05 |
 | [Regulate](https://open.spotify.com/track/68pWLkspLFIfIPPtzyTkQy) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Regulate… G Funk Era \(Special Edition\)](https://open.spotify.com/album/5qkK1yRfXz2JBpVZdKQHEv) | 4:08 | 2021-12-16 | 2022-07-29 |

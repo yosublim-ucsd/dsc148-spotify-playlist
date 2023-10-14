@@ -4,7 +4,7 @@
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-104 songs - 6 hr 1 min
+105 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Dança Da Solidão](https://open.spotify.com/track/6FK317bMkj5Zd1Yl3GRYPw) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bis \- Paulinho Da Viola](https://open.spotify.com/album/6acEK03JM3ebF4QNJKS7wo) | 2:29 | 2023-04-28 |  |
 | [Deixa pra Lá](https://open.spotify.com/track/4iH8g2F3ygsoRoGpnMOsI3) | [Bossacucanova](https://open.spotify.com/artist/2nB77EV6Al8aHXfxa6YfrW), [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Nossa Onda É Essa!](https://open.spotify.com/album/1sRJ6meQzUDBK0vDRMsk74) | 3:46 | 2023-04-28 |  |
 | [Desde Que O Samba E Samba](https://open.spotify.com/track/6juNy6ewMDMU38YRpgcWR3) | [Caetano Veloso e Gilberto Gil](https://open.spotify.com/artist/0de6Qb2zkptulmWKNMlaSl) | [Tropicalia 2](https://open.spotify.com/album/2ybYLHauxa3H7MdxQmCDIg) | 5:11 | 2023-04-28 |  |
+| [Dia De Glória](https://open.spotify.com/track/33zWdhvtorBDf3voIMVZe6) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Dia De Glória](https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH) | 4:02 | 2023-10-13 |  |
 | [Disritmia](https://open.spotify.com/track/7fs6csqE3EltCrESv6cn0J) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Martinho da Vila](https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB) | 2:24 | 2023-04-28 |  |
 | [Disseram Que Eu Voltei Americanizada \- Live 1992](https://open.spotify.com/track/7wxDeUTfCqoZf0ZaKFhcdN) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Circulado Vivo](https://open.spotify.com/album/0OLjXOG6wYYWfvFj049bGm) | 1:39 | 2023-07-28 |  |
 | [E Luxo Só](https://open.spotify.com/track/2gmmc95lX2fuZA3gVzBOjc) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 1:59 | 2023-04-28 |  |
@@ -48,7 +49,7 @@
 | [Expressão do Teu Olhar](https://open.spotify.com/track/1wnTbrv4oZNYAIEg1KXToa) | [Candeia](https://open.spotify.com/artist/3pXm8H2lDUNFkmQMiJbx6F) | [Quatro Grandes Do Samba](https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2) | 3:34 | 2023-04-28 |  |
 | [Figa De Guiné](https://open.spotify.com/track/1oekqvXHit1f8Rirv9uSH7) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Sol de Verão 2021](https://open.spotify.com/album/19nZbz3qRHOvixEPSMR3WH) | 2:19 | 2023-04-28 |  |
 | [Flor de Lis](https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [A Voz e o Violão](https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf) | 3:45 | 2023-04-28 |  |
-| [Folhas Secas](https://open.spotify.com/track/2m7hny9dJ4hnwMPpabhyD8) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Para Sempre](https://open.spotify.com/album/3aSgmsxNCqjIgwMClyEeJm) | 2:13 | 2023-04-28 |  |
+| [Folhas Secas](https://open.spotify.com/track/2m7hny9dJ4hnwMPpabhyD8) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Para Sempre](https://open.spotify.com/album/3aSgmsxNCqjIgwMClyEeJm) | 2:13 | 2023-04-28 | 2023-10-14 |
 | [Gema \(342 Amazônia ao Vivo no Circo Voador\)](https://open.spotify.com/track/0QEZd6kBAGnVjpfL0T165H) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gema \(342 Amazônia ao Vivo no Circo Voador\)](https://open.spotify.com/album/0sbkCMPCxWHQlPjXRlLy2D) | 2:25 | 2023-04-28 |  |
 | [Histórias Pra Ninar Gente Grande](https://open.spotify.com/track/5thOB6WCgzFvmLzxz4sd5G) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Mangueira \- a Menina Dos Meus Olhos](https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC) | 2:37 | 2023-04-28 |  |
 | [Indício de Amor](https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL) | [Telê](https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1) | [Indício de Amor](https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn) | 3:28 | 2023-07-28 |  |

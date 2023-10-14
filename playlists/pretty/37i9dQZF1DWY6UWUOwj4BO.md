@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,310 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,346 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 11 | [In the Stars \- \(French Version\) \[Acoustique\]](https://open.spotify.com/track/3ZHKBOIFBtFM0HFpAwQRbe) | [Philippine Lavrey](https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY) | [In the Stars \[\(French Version\) \[Acoustique\]\]](https://open.spotify.com/album/3LNJA1b8J3s59MELa8u5BV) | 3:45 |
 | 12 | [SNAP \- Acoustic](https://open.spotify.com/track/6OQ84LoCVGxLkH95LOjIC1) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 3:28 |
 | 13 | [Eyes Closed \- Piano Version](https://open.spotify.com/track/1C0Uqh9cRMLPw9WpZzL4Z1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 |
-| 14 | [Save Your Tears](https://open.spotify.com/track/1X6Kmaa2Yq70vF0cIQ6V0f) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 3:03 |
+| 14 | [Save Your Tears \(Acoustic\)](https://open.spotify.com/track/1X6Kmaa2Yq70vF0cIQ6V0f) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 3:03 |
 | 15 | [Hold Me Closer \- Acoustic](https://open.spotify.com/track/5kXZv2JwuZ0qgqNalgwvJt) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer \(Acoustic\)](https://open.spotify.com/album/1vN546nWNaesS0pAAL017l) | 3:22 |
 | 16 | [Desire \(with Sam Smith\) \- Acoustic](https://open.spotify.com/track/5EUZq2pJJi1X2yRHzAeDWJ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\) \[Acoustic\]](https://open.spotify.com/album/15fFDWyVcxknsTGmJ2q354) | 3:05 |
 | 17 | [RUNAWAY \- Acoustic](https://open.spotify.com/track/4Z3jnL8wjTptUo0OgxKa47) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY \(Acoustic\)](https://open.spotify.com/album/6O4FUArVCjvgfvWMIwwPf3) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 49 | [Breaking Me \- Acoustic Version](https://open.spotify.com/track/0mFWr2JK53ff1rIjle2PWm) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me \(Remixes\)](https://open.spotify.com/album/48PG4pmiNVsiWrn87l7XbT) | 2:47 |
 | 50 | [Lonely \(with benny blanco\) \- Acoustic](https://open.spotify.com/track/4fKiuIavbsoTRZ6R7xuAyT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\) \[Main + Acoustic\]](https://open.spotify.com/album/7HWrpFGNHEaylb0DK0xrkH) | 2:35 |
 
-Snapshot ID: `MCxkNmFkNGU3YjNjZmY5MDg5MmRiODI2OGE3Yzc3MDI5OGQ0ZmZiMjc2`
+Snapshot ID: `MCxmNTQ1Njg1MWEzODY2OWFhMDE5ZDc2MTA0NDg2NGYzYWEyMWI3OTJm`

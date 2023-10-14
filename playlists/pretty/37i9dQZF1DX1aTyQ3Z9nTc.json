@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 129475,
+  "num_followers": 129511,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzc2MDY5NWE1Njc1YWE1MDI3ZjZiZTJiMjg4OTBjNjZlZTU4MDNk",
+  "snapshot_id": "MCw0MzMwMTZjOTJlNTA2ZmNlOTQxMjFhYWQyNGU4YTMwNjhlMzlkNDFl",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -709,6 +709,26 @@
       "url": "https://open.spotify.com/track/4hvWEdTLJxrZsDDjUEcHvy"
     },
     {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Chrome Bull",
+        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "duration_ms": 187938,
+      "name": "Sneaky",
+      "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
+    },
+    {
       "added_at": "2023-08-04 15:55:51",
       "album": {
         "name": "Room",
@@ -731,26 +751,6 @@
       "duration_ms": 219181,
       "name": "Room (with Adekunle Gold & 2 Chainz)",
       "url": "https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Chrome Bull",
-        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        }
-      ],
-      "duration_ms": 187938,
-      "name": "Sneaky",
-      "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -809,10 +809,10 @@
       "url": "https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Breathless (with Alina Baraz)",
-        "url": "https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ"
+        "name": "Nobody Khan (Ain't Nobody)",
+        "url": "https://open.spotify.com/album/7gxUTuaxmc484W0mfNyMk1"
       },
       "artists": [
         {
@@ -820,13 +820,13 @@
           "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
         },
         {
-          "name": "Alina Baraz",
-          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Breathless (with Alina Baraz)",
-      "url": "https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX"
+      "duration_ms": 181052,
+      "name": "Nobody Khan (Ain't Nobody)",
+      "url": "https://open.spotify.com/track/0KynSPlg3g8OdZq6irgMH2"
     },
     {
       "added_at": "2023-08-04 15:55:51",
@@ -901,10 +901,10 @@
       "url": "https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Nobody Khan (Ain't Nobody)",
-        "url": "https://open.spotify.com/album/7gxUTuaxmc484W0mfNyMk1"
+        "name": "Breathless (with Alina Baraz)",
+        "url": "https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ"
       },
       "artists": [
         {
@@ -912,13 +912,13 @@
           "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
         },
         {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
         }
       ],
-      "duration_ms": 181052,
-      "name": "Nobody Khan (Ain't Nobody)",
-      "url": "https://open.spotify.com/track/0KynSPlg3g8OdZq6irgMH2"
+      "duration_ms": 168000,
+      "name": "Breathless (with Alina Baraz)",
+      "url": "https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1257,36 +1257,20 @@
       "url": "https://open.spotify.com/track/2PUsRFtW68RSwpNr4XjjKa"
     },
     {
-      "added_at": "2023-08-25 17:07:43",
+      "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "UPSIDE DOWN",
-        "url": "https://open.spotify.com/album/435sa84NSMTcIzBeSN178q"
+        "name": "damnshestamil",
+        "url": "https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm"
       },
       "artists": [
         {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
         }
       ],
-      "duration_ms": 190200,
-      "name": "UPSIDE DOWN",
-      "url": "https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11"
-    },
-    {
-      "added_at": "2022-09-09 04:08:54",
-      "album": {
-        "name": "Running In Waves",
-        "url": "https://open.spotify.com/album/0z6Jnk6r2knEl2wvRjOZsN"
-      },
-      "artists": [
-        {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
-        }
-      ],
-      "duration_ms": 108645,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/7k765bfiLdo2d3NIUxu4KQ"
+      "duration_ms": 174062,
+      "name": "Good Love 2.0",
+      "url": "https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W"
     },
     {
       "added_at": "2022-07-29 04:11:59",
@@ -1305,20 +1289,36 @@
       "url": "https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
+      "added_at": "2022-09-09 04:08:54",
       "album": {
-        "name": "damnshestamil",
-        "url": "https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm"
+        "name": "Running In Waves",
+        "url": "https://open.spotify.com/album/0z6Jnk6r2knEl2wvRjOZsN"
       },
       "artists": [
         {
-          "name": "Priya Ragu",
-          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
         }
       ],
-      "duration_ms": 174062,
-      "name": "Good Love 2.0",
-      "url": "https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W"
+      "duration_ms": 108645,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/7k765bfiLdo2d3NIUxu4KQ"
+    },
+    {
+      "added_at": "2023-08-25 17:07:43",
+      "album": {
+        "name": "UPSIDE DOWN",
+        "url": "https://open.spotify.com/album/435sa84NSMTcIzBeSN178q"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "UPSIDE DOWN",
+      "url": "https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1377,26 +1377,6 @@
       "url": "https://open.spotify.com/track/0jqJNqmrdryU1nnctIzu9n"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "Interstellar.",
-        "url": "https://open.spotify.com/album/09q6uMoetRAZ4ESnPaEM1F"
-      },
-      "artists": [
-        {
-          "name": "chromonicci",
-          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 235339,
-      "name": "Interstellar.",
-      "url": "https://open.spotify.com/track/4k9BF0WyAx8l8GaB9oJzyV"
-    },
-    {
       "added_at": "2022-08-26 04:23:37",
       "album": {
         "name": "Comfy",
@@ -1419,6 +1399,26 @@
       "duration_ms": 163655,
       "name": "Comfy",
       "url": "https://open.spotify.com/track/3wdHjg6olS8kdwepTW4jJm"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "Interstellar.",
+        "url": "https://open.spotify.com/album/09q6uMoetRAZ4ESnPaEM1F"
+      },
+      "artists": [
+        {
+          "name": "chromonicci",
+          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 235339,
+      "name": "Interstellar.",
+      "url": "https://open.spotify.com/track/4k9BF0WyAx8l8GaB9oJzyV"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1557,24 +1557,20 @@
       "url": "https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje"
     },
     {
-      "added_at": "2023-06-16 06:53:32",
+      "added_at": "2022-05-02 22:05:00",
       "album": {
-        "name": "Aint Mine (feat. Lay Bankz)",
-        "url": "https://open.spotify.com/album/78U18GMv2NiqgMTHeu0QcH"
+        "name": "Sis. He Wasn't the One",
+        "url": "https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1"
       },
       "artists": [
         {
-          "name": "Journey Montana",
-          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
-        },
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
         }
       ],
-      "duration_ms": 156014,
-      "name": "Aint Mine (feat. Lay Bankz)",
-      "url": "https://open.spotify.com/track/6BPmObReZ1rymdDoVD9QTw"
+      "duration_ms": 121731,
+      "name": "Coconut Oil",
+      "url": "https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1613,36 +1609,24 @@
       "url": "https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6"
     },
     {
-      "added_at": "2022-05-02 22:05:00",
+      "added_at": "2023-06-16 06:53:32",
       "album": {
-        "name": "Sis. He Wasn't the One",
-        "url": "https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1"
+        "name": "Aint Mine (feat. Lay Bankz)",
+        "url": "https://open.spotify.com/album/78U18GMv2NiqgMTHeu0QcH"
       },
       "artists": [
         {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 121731,
-      "name": "Coconut Oil",
-      "url": "https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc"
-    },
-    {
-      "added_at": "2023-04-21 04:00:15",
-      "album": {
-        "name": "Cascade",
-        "url": "https://open.spotify.com/album/3NhcazJqCvUZ4UZxB1eUnJ"
-      },
-      "artists": [
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
+        },
         {
-          "name": "Kyle Lux",
-          "url": "https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR"
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
         }
       ],
-      "duration_ms": 154838,
-      "name": "Lover Loaded Fantasy",
-      "url": "https://open.spotify.com/track/1I0TJSqkMgFHaS9foB6OJ1"
+      "duration_ms": 156014,
+      "name": "Aint Mine (feat. Lay Bankz)",
+      "url": "https://open.spotify.com/track/6BPmObReZ1rymdDoVD9QTw"
     },
     {
       "added_at": "2023-08-25 17:07:43",
@@ -1659,6 +1643,22 @@
       "duration_ms": 185893,
       "name": "Unfamiliar",
       "url": "https://open.spotify.com/track/4qIWpGpSRXtK5hJOR8MF5k"
+    },
+    {
+      "added_at": "2023-04-21 04:00:15",
+      "album": {
+        "name": "Cascade",
+        "url": "https://open.spotify.com/album/3NhcazJqCvUZ4UZxB1eUnJ"
+      },
+      "artists": [
+        {
+          "name": "Kyle Lux",
+          "url": "https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Lover Loaded Fantasy",
+      "url": "https://open.spotify.com/track/1I0TJSqkMgFHaS9foB6OJ1"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1693,22 +1693,6 @@
       "url": "https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "Hot Flavor",
-        "url": "https://open.spotify.com/album/1GqmYS5dHoMGLUp3jByxAO"
-      },
-      "artists": [
-        {
-          "name": "Hadiya George",
-          "url": "https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9"
-        }
-      ],
-      "duration_ms": 218875,
-      "name": "Hot Flavor",
-      "url": "https://open.spotify.com/track/1TjdChJkvO0puE4YugH6ne"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "So Badly",
@@ -1725,6 +1709,22 @@
       "url": "https://open.spotify.com/track/1kQf4Q7IdIAJYK80DAj6eR"
     },
     {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "Hot Flavor",
+        "url": "https://open.spotify.com/album/1GqmYS5dHoMGLUp3jByxAO"
+      },
+      "artists": [
+        {
+          "name": "Hadiya George",
+          "url": "https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9"
+        }
+      ],
+      "duration_ms": 218875,
+      "name": "Hot Flavor",
+      "url": "https://open.spotify.com/track/1TjdChJkvO0puE4YugH6ne"
+    },
+    {
       "added_at": "2023-08-04 15:55:51",
       "album": {
         "name": "MY FAVORITE DRUG",
@@ -1739,22 +1739,6 @@
       "duration_ms": 183453,
       "name": "MY FAVORITE DRUG",
       "url": "https://open.spotify.com/track/52DsauCIVMK9a9lB2qXslC"
-    },
-    {
-      "added_at": "2023-10-06 05:19:16",
-      "album": {
-        "name": "BCN (HOME TO YOU)",
-        "url": "https://open.spotify.com/album/0c7xTfjQPNn9QwSr8I7Byd"
-      },
-      "artists": [
-        {
-          "name": "Jaylon Ashaun",
-          "url": "https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md"
-        }
-      ],
-      "duration_ms": 124588,
-      "name": "BCN (HOME TO YOU)",
-      "url": "https://open.spotify.com/track/0PVuDWvSOp0WFu2yfl7vjR"
     },
     {
       "added_at": "2022-10-28 04:39:09",
@@ -1791,6 +1775,22 @@
       "duration_ms": 225937,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK"
+    },
+    {
+      "added_at": "2023-10-06 05:19:16",
+      "album": {
+        "name": "BCN (HOME TO YOU)",
+        "url": "https://open.spotify.com/album/0c7xTfjQPNn9QwSr8I7Byd"
+      },
+      "artists": [
+        {
+          "name": "Jaylon Ashaun",
+          "url": "https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md"
+        }
+      ],
+      "duration_ms": 124588,
+      "name": "BCN (HOME TO YOU)",
+      "url": "https://open.spotify.com/track/0PVuDWvSOp0WFu2yfl7vjR"
     },
     {
       "added_at": "2023-10-06 05:19:16",

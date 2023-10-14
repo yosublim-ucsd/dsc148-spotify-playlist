@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-609 songs - 1 day 10 hr 25 min
+611 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2021-06-04 | 2022-09-27 |
 | [Do You Wanna Talk](https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Do You Wanna Talk](https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX) | 2:26 | 2022-09-23 | 2022-12-31 |
 | [Don't Cry](https://open.spotify.com/track/6qXbp2zTI2WJSR0OV4AlJ8) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Don't Cry](https://open.spotify.com/album/1513Yt291Vh9Di4lCEzKjS) | 3:22 | 2021-05-01 | 2022-04-13 |
-| [Don't Fade Away](https://open.spotify.com/track/21lFRFkdf5sgITNZCDMeDq) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Don't Fade Away](https://open.spotify.com/album/0YqMt0AKeSCOfXIPuE3lJO) | 3:22 | 2023-03-10 |  |
+| [Don't Fade Away](https://open.spotify.com/track/21lFRFkdf5sgITNZCDMeDq) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Don't Fade Away](https://open.spotify.com/album/0YqMt0AKeSCOfXIPuE3lJO) | 3:22 | 2023-03-10 | 2023-10-14 |
 | [Don't Keep Me Around](https://open.spotify.com/track/35jSR5mRjigfhzlcKX2XX1) | [Maybird](https://open.spotify.com/artist/0Aev3tJ4D1LLfG6q9f7fkP) | [Don't Keep Me Around](https://open.spotify.com/album/2PFROf9YKGMZm95FHkbeAW) | 3:17 | 2021-05-01 | 2022-04-13 |
 | [Don't Wanna](https://open.spotify.com/track/5hMffqN6nHPltws5nhjTpR) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:21 | 2021-07-19 |  |
 | [Dope on a Rope](https://open.spotify.com/track/76c1AuZodByXM3X2k48wju) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 4:10 | 2022-04-13 |  |
@@ -241,6 +241,7 @@
 | [Heat Wave](https://open.spotify.com/track/3GrQGjwZj2K3nQMBamhRC1) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Heat Wave / Husha](https://open.spotify.com/album/6C3uqoxRpkEmfhwEAePod2) | 4:32 | 2021-05-01 | 2022-04-12 |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2022-04-13 |  |
 | [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 | 2023-03-23 |  |
+| [Helmet](https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:21 | 2023-10-13 |  |
 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 | 2022-05-11 |  |
 | [Here Comes The Comeback](https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Here Comes The Comeback](https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7) | 2:42 | 2023-09-29 |  |
 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 | 2022-08-29 |  |
@@ -398,7 +399,7 @@
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2022-07-22 | 2023-02-03 |
 | [Now & Then](https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Now & Then](https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc) | 3:25 | 2021-05-01 | 2022-03-23 |
 | [nrvs again](https://open.spotify.com/track/4WugVoKEajXnwN3JjqmUdC) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [nrvs again](https://open.spotify.com/album/4vaILOzSe7nAFfwzMho1Wq) | 3:38 | 2021-05-01 | 2022-04-13 |
-| [Obvious](https://open.spotify.com/track/0ieKIqWeTx3EA9v6I3eBHb) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Obvious](https://open.spotify.com/album/3deYGp5829d2XJgXkOpcVP) | 3:54 | 2023-09-29 |  |
+| [Obvious](https://open.spotify.com/track/0ieKIqWeTx3EA9v6I3eBHb) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Obvious](https://open.spotify.com/album/3deYGp5829d2XJgXkOpcVP) | 3:54 | 2023-09-29 | 2023-10-14 |
 | [Octopus](https://open.spotify.com/track/5YOOWsO48mJ1yQEaPrMyAl) | [ISLAND](https://open.spotify.com/artist/1UqvcbBmsHw8rjIZe1WiZl) | [Octopus](https://open.spotify.com/album/5WkOnwih11HOBcxljyvng7) | 2:28 | 2021-05-01 | 2022-04-13 |
 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/3vJPG94q3WlwK16IkMYDIL) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/album/38XraG52zhCti9X5Tpjvsl) | 3:18 | 2021-05-01 | 2022-07-29 |
 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/6JwkAGwClwUzcOi0ZBbSLe) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/album/5e8S6KvNbnZBbNzaL2YcLJ) | 3:18 | 2023-04-21 | 2023-05-21 |
@@ -590,6 +591,7 @@
 | [Wavy Haze](https://open.spotify.com/track/2F9H5xuNoefIfv3IsmGU7r) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Wavy Haze](https://open.spotify.com/album/4bwp4Jx6yvzSVnoRqpHCTj) | 4:05 | 2021-05-01 | 2022-04-14 |
 | [We Bros](https://open.spotify.com/track/29BXSWZZ0rHJp0jCRUVcjO) | [WU LYF](https://open.spotify.com/artist/5mGTnJvTkLDN76DgXka5f0) | [Go Tell Fire To The Mountain](https://open.spotify.com/album/5ac0HnZc0pazs0t7lFUEm6) | 6:26 | 2022-04-13 | 2022-04-15 |
 | [Weekend Friend](https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Weekend Friend](https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc) | 3:29 | 2021-05-01 | 2023-09-30 |
+| [Weird](https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Weird](https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk) | 3:36 | 2023-10-13 |  |
 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 | 2022-05-24 |  |
 | [What Have You Got To Lose](https://open.spotify.com/track/4bkv6P3v8ZvyfdPLvtTo7H) | [The Magic Gang](https://open.spotify.com/artist/52pNByiBWx6SVMMqqcCA74) | [What Have You Got To Lose](https://open.spotify.com/album/6LuY1MUFzrhwcrriXL8RYw) | 3:51 | 2021-05-01 | 2022-02-22 |
 | [What You Know](https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 3:11 | 2022-11-07 |  |

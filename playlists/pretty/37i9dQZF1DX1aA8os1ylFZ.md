@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,730 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,642 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 56 | [Diversion](https://open.spotify.com/track/4dA7Ha7ojACVDMtPVsm5nO) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Diversion](https://open.spotify.com/album/1qmpNeGmGgnBYgCRttwEB5) | 2:42 |
 | 57 | [Softly](https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 |
 | 58 | [Celebrate](https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Mood Swings](https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1) | 3:13 |
-| 59 | [Seasons](https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Seasons](https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a) | 3:41 |
-| 60 | [MUSE FREESTYLE](https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [who's loving you?](https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR) | 3:58 |
+| 59 | [MUSE FREESTYLE](https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [who's loving you?](https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR) | 3:58 |
+| 60 | [Seasons](https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Seasons](https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a) | 3:41 |
 | 61 | [white rice déjà vu](https://open.spotify.com/track/4knVIbR3KouTZI1R26W3yy) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Victims & Villains](https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia) | 3:50 |
 | 62 | [Simp](https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Simp](https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr) | 2:31 |
 | 63 | [Still Work \(feat\. Ty Dolla $ign & Muni Long\)](https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Still Work \(feat\. Ty Dolla $ign & Muni Long\)](https://open.spotify.com/album/0t2ykalFeWerglEzAC9tBS) | 2:34 |
@@ -94,11 +94,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 84 | [Ride](https://open.spotify.com/track/5pziO6WDRV9TY71Bj7Oq7C) | [Kim Petite](https://open.spotify.com/artist/6A1hTvjGU0EkHlsNu6Vnq6), [Eurosoundz](https://open.spotify.com/artist/09EhOOo1mFG5MNORvPQtzn) | [Ride](https://open.spotify.com/album/2MZHL3LurNRCqORyOMypja) | 2:59 |
 | 85 | [Headlights](https://open.spotify.com/track/1eiPx1hsXwBUnrSqmaygUx) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Headlights](https://open.spotify.com/album/2OqSKDW0ZotjVuZPrg15N8) | 2:53 |
 | 86 | [Patience](https://open.spotify.com/track/50YvgSEJQpNlvOaTNJzwnk) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O) | [Patience](https://open.spotify.com/album/5NeVFESnfQbNb14PTKn3y4) | 2:32 |
-| 87 | [Loveloca](https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Loveloca](https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e) | 2:54 |
-| 88 | [Home](https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT) | 3:03 |
-| 89 | [Darkness](https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Darkness](https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ) | 3:01 |
+| 87 | [Home](https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT) | 3:03 |
+| 88 | [Loveloca](https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Loveloca](https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e) | 2:54 |
+| 89 | [Mood](https://open.spotify.com/track/1YoaC97vl8UBcXM9J0V3ro) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Mood](https://open.spotify.com/album/1bxGp98YJlaWr6nLaBIvHp) | 3:06 |
 | 90 | [It Ain't Easy](https://open.spotify.com/track/70NUQKxZwOxjp03dJOlRGH) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Lost](https://open.spotify.com/album/2pQtPvWVGYTIOuRdtcv7iw) | 2:49 |
-| 91 | [Mood](https://open.spotify.com/track/1YoaC97vl8UBcXM9J0V3ro) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Mood](https://open.spotify.com/album/1bxGp98YJlaWr6nLaBIvHp) | 3:06 |
+| 91 | [Darkness](https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Darkness](https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ) | 3:01 |
 | 92 | [Emotionally Unavailable](https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4) | [Emotionally Unavailable](https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws) | 2:22 |
 | 93 | [You All Day](https://open.spotify.com/track/6k3ybhZHeFtZsuyidDFriA) | [JOS](https://open.spotify.com/artist/07IupuXv6tNTjb5xBo3P9a), [Ashdown](https://open.spotify.com/artist/0l6pyDkdaojMjTu5lAuJzE) | [You All Day](https://open.spotify.com/album/7tfllHucm1Wdwo6xyclI0u) | 2:20 |
 | 94 | [1+1](https://open.spotify.com/track/2TtiDn0UNM0x5O6wvcd7Kt) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [1+1](https://open.spotify.com/album/6PGhknbHltteEYewVcwXx4) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [WASTEMAN](https://open.spotify.com/track/6RqUIRQuupESKh8DvgTuRV) | [Ezra James](https://open.spotify.com/artist/1a204anh3vzbv9K6oHhJL8), [Malek Lasike](https://open.spotify.com/artist/5nDVx1nImDgnXayZDWm69e) | [WASTEMAN](https://open.spotify.com/album/5hkDbZCyoA0kD0vdCbyNBA) | 3:02 |
 | 100 | [City Girl](https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO) | [Quessswho](https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ) | [City Girl](https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn) | 2:01 |
 
-Snapshot ID: `MCw0ZjJlOGMxNmEyODAxYjI4ODIwMGUzNThkOGFiODJiMjg4NDFmMGM5`
+Snapshot ID: `MCwzYmJkZjg0OWRlNTFlNTFjZDcwYzBlYTAyNWRmZmY1N2UyZmVjN2Fi`

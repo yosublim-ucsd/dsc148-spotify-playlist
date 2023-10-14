@@ -2029,6 +2029,28 @@
     },
     {
       "album": {
+        "name": "Ya Mizol\u00e9",
+        "url": "https://open.spotify.com/album/3gqaVBqC2sX4ENOv7y6gNg"
+      },
+      "artists": [
+        {
+          "name": "Les Mamans du Congo",
+          "url": "https://open.spotify.com/artist/7i6SYXEQQzBMOlb4M9hE1I"
+        },
+        {
+          "name": "RROBIN",
+          "url": "https://open.spotify.com/artist/2xPaqV5LOTeUjSsMGaLVmY"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210025,
+      "name": "Futa Nfuka",
+      "url": "https://open.spotify.com/track/7IWRqJJIdSR9uUkEoZD6Ge"
+    },
+    {
+      "album": {
         "name": "Garde du coeur (feat. Charlotte Dipanda)",
         "url": "https://open.spotify.com/album/0qLNkh0AwO8ospd87D4jxe"
       },
@@ -2488,7 +2510,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 216080,
       "name": "Kin-Brazza",
       "url": "https://open.spotify.com/track/58v78PuisC6mzn7SUnEAjw"
@@ -3968,6 +3990,28 @@
       "duration_ms": 150921,
       "name": "Oulala",
       "url": "https://open.spotify.com/track/2IWhvuzDDeTSbX5K3Ex7zB"
+    },
+    {
+      "album": {
+        "name": "OURAGAN (feat. MALANGE LUNGENDO)",
+        "url": "https://open.spotify.com/album/7qj7Qm2gHYtZI8gkCmgKyF"
+      },
+      "artists": [
+        {
+          "name": "Ferre Gola",
+          "url": "https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI"
+        },
+        {
+          "name": "MALANGE LUNGENDO",
+          "url": "https://open.spotify.com/artist/1O7y9GQ7Mu7Jk0YBmX6Uop"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400082,
+      "name": "OURAGAN (feat. MALANGE LUNGENDO)",
+      "url": "https://open.spotify.com/track/5INyzFjjOxCedxAERQfA7Y"
     },
     {
       "album": {
@@ -5630,7 +5674,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 171853,
       "name": "\u00c7a va",
       "url": "https://open.spotify.com/track/1mgXlxlV9mHNzVlfJiHBE0"

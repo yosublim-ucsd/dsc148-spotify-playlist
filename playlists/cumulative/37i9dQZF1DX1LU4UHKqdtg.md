@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: \(G\)I\-DLE
 
-776 songs - 1 day 18 hr 29 min
+778 songs - 1 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [ALIVE](https://open.spotify.com/track/2G7qOmZGufZXTrDziq5QIs) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Into The Light](https://open.spotify.com/album/6EgsISsasLUQcy0e8CbAXQ) | 3:06 | 2022-05-24 | 2022-07-21 |
 | [All About You](https://open.spotify.com/track/5MCARv92OMtNgUufLR3W4r) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[All About You\]](https://open.spotify.com/album/16VQsGjUDQ11VCfAJjFKYs) | 3:38 | 2022-12-06 | 2023-02-22 |
 | [All For You](https://open.spotify.com/track/42Ay3l6BZVrViTWKjkrDHm) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [Pinky Swear](https://open.spotify.com/album/7ke9Y6LfDUL4T2dZDtrtyX) | 3:29 | 2022-03-29 | 2022-06-01 |
-| [All My Life \(Stray Kids Remix\) \- Stray Kids Explicit Stereo](https://open.spotify.com/track/5OHNBi6tsE0acRA9Kt4ybC) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [All My Life \(Remixes\)](https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7) | 3:37 | 2023-10-12 |  |
+| [All My Life \(Stray Kids Remix\)](https://open.spotify.com/track/5OHNBi6tsE0acRA9Kt4ybC) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [All My Life \(Remixes\)](https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7) | 3:37 | 2023-10-12 |  |
 | [Always](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Always](https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh) | 3:06 | 2022-02-22 | 2022-05-18 |
 | [AMAZON](https://open.spotify.com/track/52duVlQdX7yyZ98WygiPrH) | [TFN](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [BEFORE SUNRISE Part\. 4](https://open.spotify.com/album/21QlwJM8El7dXWi16woW0G) | 3:22 | 2023-04-25 | 2023-04-27 |
 | [AMAZON \- Japanese ver.](https://open.spotify.com/track/1IGILagGIHTdb2lh62Bhol) | [TFN](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [OUR TEEN:YELLOW SIDE](https://open.spotify.com/album/6gsIP7jOiuPiCT2bqPlJCd) | 3:21 | 2023-04-25 | 2023-06-07 |
@@ -61,6 +61,7 @@
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-05 | 2022-11-30 |
 | [BAD HOBBY](https://open.spotify.com/track/4XGOlD2OFGPHXLA0DBPr5M) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [HATE XX](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) | 2:11 | 2023-06-29 | 2023-08-11 |
 | [Bad News](https://open.spotify.com/track/0sa8KndeZfGWmcGEpVfMwh) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [It’s ME, It's WE](https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB) | 3:32 | 2022-03-03 | 2022-05-18 |
+| [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 | 2023-10-12 |  |
 | [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 | 2023-08-28 |  |
 | [Bambi](https://open.spotify.com/track/6eIUezhD3M6EAtxhQlbQ5i) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Bambi](https://open.spotify.com/album/0zi3jrMTba0MvtIc99yjZq) | 3:23 | 2022-10-13 | 2022-12-24 |
 | [Bambi \- Instrumental](https://open.spotify.com/track/5Lzg5f2RPLqoQ1G78WVKFe) | [DAZBEE](https://open.spotify.com/artist/3kqdhGersPikNf9yOsjB6O) | [밤비](https://open.spotify.com/album/0zi3jrMTba0MvtIc99yjZq) | 3:23 | 2022-10-11 | 2022-10-15 |
@@ -147,6 +148,7 @@
 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 | 2022-07-15 | 2023-07-12 |
 | [CEREMONY](https://open.spotify.com/track/3hAQ3NalXLWjn0OAJtAnIl) | [SUPER JUNIOR\-L.S.S.](https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8) | [CEREMONY](https://open.spotify.com/album/1BeyevFvnDDh7Zor3AZLf4) | 3:13 | 2023-09-12 | 2023-10-07 |
 | [Chase](https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [CHASE \- The 1st Mini Album](https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S) | 3:26 | 2022-12-06 | 2023-02-03 |
+| [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 | 2023-10-12 |  |
 | [Cheese](https://open.spotify.com/track/4pJONzTRaCfshJdrN051lr) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Cheese](https://open.spotify.com/album/3yshBMkBoK9HZ5KbKz2lHj) | 3:26 | 2023-09-01 | 2023-09-21 |
 | [Cherish](https://open.spotify.com/track/0GABq6cuB9kugOVuCREeN8) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) | [Cherish](https://open.spotify.com/album/2ZsdFGDJlvsEFOEY1GkMht) | 3:24 | 2022-06-19 | 2022-08-10 |
 | [CHERRY \-Japanese ver.\-](https://open.spotify.com/track/4L7CEFGWkFlifYNk1gY2MI) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [CHERRY \-Japanese ver.\-](https://open.spotify.com/album/3NSuUNKnOXfOkA5FpMCmRQ) | 3:33 | 2021-12-23 | 2022-01-17 |

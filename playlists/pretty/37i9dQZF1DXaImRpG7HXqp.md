@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,104 likes - 279 songs - 12 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,975 likes - 279 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dahlia](https://open.spotify.com/track/6ZUiOA4kUpxwHoqgTq502w) | [Raoul Raffino](https://open.spotify.com/artist/4OMeqxm2R62xPoMeoZ8EQB) | [Dahlia](https://open.spotify.com/album/1hez2OnBpf1Kxqr6QLthV5) | 2:20 |
 | 2 | [Maine](https://open.spotify.com/track/6HcSIn5EsFz20aillG9Itv) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Maine](https://open.spotify.com/album/3vbEzZqSsm4K9cxkBpw0wa) | 2:44 |
-| 3 | [Innocent Face](https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:02 |
+| 3 | [Innocent Face](https://open.spotify.com/track/1LjYFVvhXmuP3RgErQBYkH) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Innocent Face](https://open.spotify.com/album/4GpBw9UUFaHkv12myq2POe) | 2:02 |
 | 4 | [Les Étoiles](https://open.spotify.com/track/0ScIojb6Imo343SGP7yEQa) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Les Étoiles](https://open.spotify.com/album/5NWKDyiupZHkpMzwHO2wwp) | 2:34 |
 | 5 | [Peaberry](https://open.spotify.com/track/22BqJ4x6hb0oRhtyvToTon) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [Peaberry](https://open.spotify.com/album/5eOtON3CwbqLE9lgeuROqA) | 2:49 |
 | 6 | [Montes Claros](https://open.spotify.com/track/2DwZFuh7xnuEDvNwz4mAMi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Montes Claros](https://open.spotify.com/album/4xouEO0NJWhJswiV2Qofy8) | 2:45 |
@@ -288,4 +288,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 278 | [Dark Blue Ocean](https://open.spotify.com/track/6p4f2BeZ6m6jn5AMAFvhYO) | [Flavio Bottura](https://open.spotify.com/artist/24sxWrsqEwi0W7PPad6NeH) | [Dark Blue Ocean](https://open.spotify.com/album/5n7BwdAj4dmNmMZWb9E0Fm) | 3:11 |
 | 279 | [Everything Works](https://open.spotify.com/track/11jKvrtLFbV0xALgUCTZLe) | [Colton Rhodes](https://open.spotify.com/artist/2s0UVTXzeFVuHYKKYcJNbk) | [Everything Works](https://open.spotify.com/album/5CC9fWU5JHy9usLNe9ZusV) | 3:31 |
 
-Snapshot ID: `MCw2ZTc3NmQ5NTdjM2M1N2U0MGZhMGU3ODAxOTllYTZkZDE4YmI3OGEy`
+Snapshot ID: `MCw0ODNhNDg3MDcwNjhkNzhmNWViNDVkMmE2YjAyZDY0Y2E2MTE1Y2Jm`

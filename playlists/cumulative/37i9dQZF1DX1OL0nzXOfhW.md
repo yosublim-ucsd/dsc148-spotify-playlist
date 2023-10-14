@@ -4,7 +4,7 @@
 
 > 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover： LilithQueenB
 
-147 songs - 8 hr 27 min
+148 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [七姊妹星團](https://open.spotify.com/track/46ijStQoqmP8sHxF4oC10x) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [七姊妹星團](https://open.spotify.com/album/0KUeT2hHz8GFbLXT4Yfd5F) | 3:20 | 2023-04-13 |  |
 | [三分甜](https://open.spotify.com/track/2KAUjZ3n3UmaRveXMvzgUu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [三分甜](https://open.spotify.com/album/68v7jR4cAvUiyzK7oL7HnI) | 3:53 | 2023-04-13 |  |
 | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/track/5LG7dFSp3X7WhaabnJLfXT) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/album/1zWBngiKyE91gjT0MR0IaV) | 4:00 | 2022-08-04 | 2023-04-14 |
+| [二人限定故事](https://open.spotify.com/track/2LfrOjRAXQz4wdTbUXpsEu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [二人限定故事](https://open.spotify.com/album/6paffDqSD3W1HIQMjA7xmu) | 3:14 | 2023-10-13 |  |
 | [五種愛的密語](https://open.spotify.com/track/3bUjOhILvle7j4yBLfxoYx) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [五種愛的密語](https://open.spotify.com/album/2jwrFQsFUNjLYwBeNKgMAG) | 3:06 | 2023-04-13 |  |
 | [係咁先啦](https://open.spotify.com/track/6BZaPX5NnjIIasH6EO0P63) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [係咁先啦](https://open.spotify.com/album/0dIldrE3LEHIaSzPHUb1bm) | 3:29 | 2022-07-28 | 2023-04-14 |
 | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/track/4I2nZnEp1JZoHO4RB27VTR) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/album/2D3q1OIBnzdntbEsYvF8Of) | 3:29 | 2022-05-26 | 2022-07-29 |

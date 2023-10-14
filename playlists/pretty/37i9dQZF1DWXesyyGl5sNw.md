@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXesyyGl5sNw.md) - [plain]
 
 > Find mindfulness in nature for your Pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,924 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,958 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXesyyGl5sNw.md) - [plain]
 | 59 | [Frihet Natur](https://open.spotify.com/track/2bobfsUclg5AgoTDIGn5DD) | [Moderato Aredo](https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj) | [Frihet Natur](https://open.spotify.com/album/36Ur6FxNtvITUMwNvwlqkV) | 2:58 |
 | 60 | [Restore](https://open.spotify.com/track/0hqSBm1sipCxHVl3qj1pNX) | [Misha Burton](https://open.spotify.com/artist/4jjbyStVj5wtgQpHtxL3ue) | [Restore](https://open.spotify.com/album/27FSIb0jOgNAiRthYgCWZ0) | 3:02 |
 
-Snapshot ID: `MCw2M2I3ZWM0OWViMzYzOGRiZmQ0MTQ4MjU1M2YxOTk1OTEzMThhOGVi`
+Snapshot ID: `MCw1MTZjYTQyN2ZlOTYyMDVjYTAzNTdmYTAwMDEwNzM1YmE5ODczN2Fj`

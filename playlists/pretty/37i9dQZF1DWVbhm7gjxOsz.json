@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 40671,
+  "num_followers": 40840,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDM1YTMxYWY1NWMwNjE0M2I2ODA1MWZkN2I1MGFiZDg2ZTUwM2I4",
+  "snapshot_id": "MCwwNjQ3ZDgzMGIzODFjNjcyYjYyNWJhZWJlMjIwMjVlYWEyNTBjYzNk",
   "tracks": [
     {
       "added_at": "2023-08-29 23:44:25",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+        "name": "I'm Still in Love with You",
+        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
       },
       "artists": [
         {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 161373,
-      "name": "Mr. Lonely",
-      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
+      "duration_ms": 191636,
+      "name": "I'm Still in Love with You",
+      "url": "https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "I'm Still in Love with You",
-        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
         }
       ],
-      "duration_ms": 191636,
-      "name": "I'm Still in Love with You",
-      "url": "https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj"
+      "duration_ms": 161373,
+      "name": "Mr. Lonely",
+      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
-      },
-      "artists": [
-        {
-          "name": "The Floaters",
-          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
-        }
-      ],
-      "duration_ms": 255173,
-      "name": "Float On - Single Version",
-      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Baby, I'm For Real",
         "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 201866,
       "name": "Baby, I'm For Real",
       "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+      },
+      "artists": [
+        {
+          "name": "The Floaters",
+          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "Float On - Single Version",
+      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Don't Tell Me",
         "url": "https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 233430,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Meet The Temptations",
-        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
+        "name": "Tangled Up in You",
+        "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
       },
       "artists": [
         {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+          "name": "The Altons",
+          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
         }
       ],
-      "duration_ms": 152933,
-      "name": "I Want A Love I Can See",
-      "url": "https://open.spotify.com/track/5XOGZdDM17WzrXRQz96Fu1"
+      "duration_ms": 240842,
+      "name": "Soon Enough",
+      "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Tangled Up in You",
-        "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
+        "name": "Meet The Temptations",
+        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
       },
       "artists": [
         {
-          "name": "The Altons",
-          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
         }
       ],
-      "duration_ms": 240842,
-      "name": "Soon Enough",
-      "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
+      "duration_ms": 152933,
+      "name": "I Want A Love I Can See",
+      "url": "https://open.spotify.com/track/5XOGZdDM17WzrXRQz96Fu1"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "SalSoul",
-        "url": "https://open.spotify.com/album/6ehe5lPsXzxcNU69NSCi0W"
-      },
-      "artists": [
-        {
-          "name": "Joe Bataan",
-          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
-        }
-      ],
-      "duration_ms": 270826,
-      "name": "Mujer Mia",
-      "url": "https://open.spotify.com/track/6uiqzXiQCvAvoeDcjbRbRC"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "The Best Of Deniece Williams: Gonna Take A Miracle",
         "url": "https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 357360,
       "name": "Silly",
       "url": "https://open.spotify.com/track/3XrzApq8R10O6WwNwMw8t4"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "SalSoul",
+        "url": "https://open.spotify.com/album/6ehe5lPsXzxcNU69NSCi0W"
+      },
+      "artists": [
+        {
+          "name": "Joe Bataan",
+          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
+        }
+      ],
+      "duration_ms": 270826,
+      "name": "Mujer Mia",
+      "url": "https://open.spotify.com/track/6uiqzXiQCvAvoeDcjbRbRC"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Dreams Of Contentment (Special Deluxe Collection)",
-        "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
-      },
-      "artists": [
-        {
-          "name": "The Dells",
-          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
-        }
-      ],
-      "duration_ms": 176493,
-      "name": "Oh What A Nite",
-      "url": "https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "The Essential Deniece Williams (The Columbia Years)",
         "url": "https://open.spotify.com/album/25qqog5H79rZqzrAn93OJv"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 250813,
       "name": "It's Gonna Take a Miracle",
       "url": "https://open.spotify.com/track/498ExGFcwgi7zF7qHOUD2x"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Dreams Of Contentment (Special Deluxe Collection)",
+        "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
+      },
+      "artists": [
+        {
+          "name": "The Dells",
+          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
+        }
+      ],
+      "duration_ms": 176493,
+      "name": "Oh What A Nite",
+      "url": "https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn"
     },
     {
       "added_at": "2023-08-29 23:44:25",

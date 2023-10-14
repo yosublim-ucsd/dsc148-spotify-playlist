@@ -1,12 +1,12 @@
 {
-  "description": "A collection of the biggest soul tracks from the 1970s. Cover: Roberta Flack",
-  "num_followers": 1492126,
+  "description": "A collection of the biggest soul tracks from the 1970s. Cover: The Isley Brothers",
+  "num_followers": 1492057,
   "original_name": "70s Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTQ0YjBkMWU1Nzg5MjFmNjVjZWYwMDA1MDhkNTc1ODRmYzMzOTFi",
+  "snapshot_id": "MCw1NmUzNTFkZjFjNGMxNzE0YTA4YmZlZmFiOTE4Mzc3ODllYzVlZDcw",
   "tracks": [
     {
       "added_at": "2023-07-20 15:18:42",
@@ -39,6 +39,22 @@
       "duration_ms": 254560,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 337333,
+      "name": "For the Love of You, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
     },
     {
       "added_at": "2023-07-20 15:18:42",
@@ -199,22 +215,6 @@
       "duration_ms": 201400,
       "name": "Rock Your Baby",
       "url": "https://open.spotify.com/track/39ZwPBjIPjXl1SlO8NKsWF"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "The Essential Isley Brothers",
-        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 337333,
-      "name": "For the Love of You, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
     },
     {
       "added_at": "2023-07-20 15:18:42",
@@ -671,6 +671,22 @@
       "duration_ms": 296880,
       "name": "When Somebody Loves You Back",
       "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Gets Next to You",
+        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tired of Being Alone",
+      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
     },
     {
       "added_at": "2023-07-20 15:18:42",

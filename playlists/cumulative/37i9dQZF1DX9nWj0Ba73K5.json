@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Featuring the 'Noteable' songwriters who create your favorite songs. Cover: Lori McKenna\n",
+  "description": "Featuring the 'Noteable' songwriters who create your favorite songs. Cover: Nicolle Galyon\n",
   "name": "Country Songwriters",
   "tracks": [
     {
@@ -3041,6 +3041,24 @@
     },
     {
       "album": {
+        "name": "Second Wife",
+        "url": "https://open.spotify.com/album/6ozGfS9Cyd684kJhm3PRLI"
+      },
+      "artists": [
+        {
+          "name": "Nicolle Galyon",
+          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153744,
+      "name": "rooms.",
+      "url": "https://open.spotify.com/track/1LFxcgibKQBrTGlYzjdGhL"
+    },
+    {
+      "album": {
         "name": "Same Team",
         "url": "https://open.spotify.com/album/1tyfPdNSvHpE8jgxlCfENs"
       },
@@ -3650,6 +3668,24 @@
       "duration_ms": 188733,
       "name": "Tell Your Mother I\u2019m Fine",
       "url": "https://open.spotify.com/track/5PM67sXQVdZIJfX86JgwcM"
+    },
+    {
+      "album": {
+        "name": "Second Wife",
+        "url": "https://open.spotify.com/album/6ozGfS9Cyd684kJhm3PRLI"
+      },
+      "artists": [
+        {
+          "name": "Nicolle Galyon",
+          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163154,
+      "name": "texas hold 'em.",
+      "url": "https://open.spotify.com/track/4LgLudzcFPzho9RQh5iYve"
     },
     {
       "album": {

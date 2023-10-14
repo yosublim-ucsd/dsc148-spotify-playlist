@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Susannah Joffe
+> Underground indie rock gems\. Cover: Squirrel Flower
 
-1,070 songs - 2 day 12 hr 58 min
+1,072 songs - 2 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,7 +538,7 @@
 | [Indiesong](https://open.spotify.com/track/4EM4LPdfjwZ3WPpEjVeCx9) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Indiesong](https://open.spotify.com/album/4pKzAxlXMySMRtrgqIOGnn) | 2:33 | 2022-04-01 | 2022-05-19 |
 | [Insomnia](https://open.spotify.com/track/7mk6mEioOkqfoCC8xUw720) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Insomnia](https://open.spotify.com/album/61OCdmC6ntHNsoSckGbAkF) | 4:52 | 2022-05-20 | 2022-10-01 |
 | [insomniac](https://open.spotify.com/track/7ErCpZ3lV1Hb4VulM0yc6R) | [Pasteldrip](https://open.spotify.com/artist/5CSVtQpFZevcKVOGjRMhed) | [insomniac](https://open.spotify.com/album/46B1KESuQU3KveXeKzMCPE) | 3:04 | 2022-08-05 | 2023-01-18 |
-| [Intheskatepark](https://open.spotify.com/track/4zkAoqG7TwRxbCQpL0AZa0) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Intheskatepark](https://open.spotify.com/album/5ysjL1aGDCf3ODiF3le9Wh) | 2:25 | 2023-09-22 |  |
+| [Intheskatepark](https://open.spotify.com/track/4zkAoqG7TwRxbCQpL0AZa0) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Intheskatepark](https://open.spotify.com/album/5ysjL1aGDCf3ODiF3le9Wh) | 2:25 | 2023-09-22 | 2023-10-14 |
 | [invisible string](https://open.spotify.com/track/1BuayMZGxH5A0NasB4bESi) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [invisible string](https://open.spotify.com/album/03SgefcTQpH6gDeTWiPawR) | 3:07 | 2022-05-20 | 2022-07-23 |
 | [It Hurts](https://open.spotify.com/track/4EYkBReSCqoFZAvHRShmMA) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [It Hurts](https://open.spotify.com/album/3gshl9FwDG8P91p8iG5ccH) | 3:23 | 2022-08-26 | 2022-09-24 |
 | [It's Only Sex](https://open.spotify.com/track/6dtPJwNdLuyVGPWyHOI6GP) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Living While Starving](https://open.spotify.com/album/3egPQUSqrInRvbXxPqXQYm) | 4:43 | 2022-04-29 | 2022-08-20 |
@@ -726,7 +726,7 @@
 | [Parking Lots](https://open.spotify.com/track/5PSplhA4PEZHqw0bOfelEp) | [Plums](https://open.spotify.com/artist/0sPK0NZQ44Z8KhGxCOvEG9) | [Jen](https://open.spotify.com/album/07Xmfb4wnWsXnUJLAkyk7t) | 3:26 | 2022-04-29 | 2022-07-02 |
 | [party](https://open.spotify.com/track/0Xk5I0Zmycf3qSec2WkIi9) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [party](https://open.spotify.com/album/5s6gT2apiu0qN8S0yKRwpT) | 4:30 | 2022-04-29 | 2022-10-01 |
 | [paul blart mall cop](https://open.spotify.com/track/24EqBj3PZlN71flFEzXa9B) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [paul blart mall cop](https://open.spotify.com/album/60sJD11vvUlDibnk1vBAdU) | 2:51 | 2022-03-26 | 2022-06-19 |
-| [pawnshop](https://open.spotify.com/track/5YTBLQ5C8cG38Ch41jiJNl) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 2:38 | 2023-06-15 |  |
+| [pawnshop](https://open.spotify.com/track/5YTBLQ5C8cG38Ch41jiJNl) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 2:38 | 2023-06-15 | 2023-10-14 |
 | [Peach](https://open.spotify.com/track/3HHcTqXCKDuUYTCH7ue9K8) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Peach](https://open.spotify.com/album/6A6oDzTGOLntd7edj7Cwv0) | 3:29 | 2022-08-22 | 2022-12-15 |
 | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/album/78t1sCwSRYxl6Zc5H4E1Gf) | 2:33 | 2022-10-28 | 2023-01-18 |
 | [Pen Pal](https://open.spotify.com/track/6qPBfBsWoiHOclo2JmWh9q) | [Winona Forever](https://open.spotify.com/artist/3ZwhWiGw3XTJThOjEmuFAT) | [Pen Pal](https://open.spotify.com/album/00x78QGmfNFIqwkq7BGSnd) | 2:25 | 2023-02-17 | 2023-03-25 |
@@ -886,6 +886,7 @@
 | [Stay in the Car](https://open.spotify.com/track/4RDUdLtOyGcxSIJ2MsR9oF) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Stay in the Car](https://open.spotify.com/album/67wUtTP9XdkhzlpF2px95V) | 2:44 | 2021-04-02 | 2022-04-29 |
 | [Steamroller](https://open.spotify.com/track/3y2WGxpoUCvEzuSfbsDA5q) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Steamroller](https://open.spotify.com/album/68nQzRa9NE4R2mFPPgPwWk) | 3:25 | 2023-04-07 | 2023-06-16 |
 | [Stephen Hawking's Goldfish Analogy \(Demo\)](https://open.spotify.com/track/5G1GJu18mEN8c2GlyREUKz) | [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [You Haven't Missed Much](https://open.spotify.com/album/7MZw0rg127xSEM1CXDkIIh) | 2:22 | 2022-12-16 | 2023-01-29 |
+| [Stick](https://open.spotify.com/track/6MVDqPlrnS0vfH8BI0DY4p) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Tomorrow's Fire](https://open.spotify.com/album/5GYQtBhrKfobrD0RkFF43Z) | 3:02 | 2023-10-13 |  |
 | [Stoned](https://open.spotify.com/track/5vQuFhG3mSU8mdXV8W8iWE) | [Ben Chandler](https://open.spotify.com/artist/5spCYJNfwMEdTpMrir8dJF) | [Stoned](https://open.spotify.com/album/4w2fTrQ1OgaKChbPHYERFw) | 3:19 | 2021-03-05 | 2022-04-21 |
 | [Storm in Summer](https://open.spotify.com/track/01wiNf866foVe76Q6LFqU7) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Storm in Summer](https://open.spotify.com/album/7loAmhY1aqyfhLyUqm629W) | 4:20 | 2021-06-02 | 2022-04-29 |
 | [Strange Overtones](https://open.spotify.com/track/2YtMGbb7bAEPbxgQ6au4EP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Strange Overtones](https://open.spotify.com/album/1QcsAQ69J8rw1UuvSMW2pj) | 3:26 | 2021-03-05 | 2022-04-29 |
@@ -1072,6 +1073,7 @@
 | [You Know](https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Suburbia](https://open.spotify.com/album/6tgqWECqtuTsbMXoEHCkwI) | 3:17 | 2022-10-28 | 2023-03-04 |
 | [You Said](https://open.spotify.com/track/1CGqxRs1rF8iwNj8H7CIUP) | [Sad Park](https://open.spotify.com/artist/7jHnNNWDLa2ztggSp5Dsxf) | [You Said / Chest Pains](https://open.spotify.com/album/4zoT2MdaZDT3IWOOQPckIE) | 2:44 | 2022-04-29 | 2022-05-10 |
 | [you were right](https://open.spotify.com/track/1z3y0dcgWonv5eZJmkN05r) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY), [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [you were right](https://open.spotify.com/album/5caVRn6usqYh4h54eDSONn) | 2:49 | 2022-04-29 | 2022-07-09 |
+| [Your Beautiful Self](https://open.spotify.com/track/0R2V3TO0hv1QQmLICsxBHJ) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Your Beautiful Self](https://open.spotify.com/album/2lCbzs1hrhbnh1Ra7HafE3) | 4:12 | 2023-10-13 |  |
 | [Your Best Friend](https://open.spotify.com/track/4MQLMRjKFmNsz646FyAZ2k) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Your Best Friend](https://open.spotify.com/album/1dXDp9G7LPACrw2H3tOtxA) | 3:02 | 2021-06-02 | 2022-04-20 |
 | [Your Love](https://open.spotify.com/track/1d9NEfD71ZmPWEVy2AwmHD) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Your Love](https://open.spotify.com/album/42R0x8BUI7OPVA7iN3az1r) | 4:15 | 2023-01-20 | 2023-06-16 |
 | [your love is a disaster](https://open.spotify.com/track/5JTTV0DgmgNgtbl3y3q6g1) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet EP](https://open.spotify.com/album/44cz2epLj8bFlDHPxU16rY) | 3:33 | 2022-01-28 | 2022-04-29 |

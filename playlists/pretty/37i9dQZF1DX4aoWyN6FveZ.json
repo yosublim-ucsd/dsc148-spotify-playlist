@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 15010,
+  "num_followers": 15034,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWI3MGMyN2QwZTZlZDg1NmRhYWU0ZjFiNjhjZjVjMmMwODU4Mzkw",
+  "snapshot_id": "MCxiYTg0M2ZlNGQ2MWM3Y2VhNDI2MDI1MzliODA2MDNiYWQ1OTI2ODE3",
   "tracks": [
     {
       "added_at": "2022-10-01 20:09:45",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
+        "name": "When I Get Home",
+        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 236120,
+      "name": "Almeda",
+      "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
         "name": "Press Play",
         "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 388226,
       "name": "Last Night (feat. Keyshia Cole)",
       "url": "https://open.spotify.com/track/5gfPJ45gpn3ThswDyeW0Qc"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
-        "name": "When I Get Home",
-        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 236120,
-      "name": "Almeda",
-      "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
     },
     {
       "added_at": "2022-10-01 20:09:45",

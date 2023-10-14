@@ -1,18 +1,18 @@
 {
   "description": "Still yachting. Cover: Young Gun Silver Fox",
-  "num_followers": 11138,
+  "num_followers": 11150,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDc2ODgzZTRhZmE1MTZhOGYwOTNhYWNlODEwODhiOGI3MWVmNDA2",
+  "snapshot_id": "MCxlZDI1NTdmYTFmZDVjZmIwOWNhMjBmZWUxNjAwZWE4OGEwODFlNmEw",
   "tracks": [
     {
-      "added_at": "2023-09-01 04:00:00",
+      "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/5j17Q40WrMCERsIFa9WCQh"
+        "name": "CHIVALRY IS DEAD",
+        "url": "https://open.spotify.com/album/7L4qkkUL8dr979LA7hzV9W"
       },
       "artists": [
         {
@@ -20,13 +20,29 @@
           "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
         },
         {
-          "name": "Gabe Bondoc",
-          "url": "https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr"
+          "name": "Albert Posis",
+          "url": "https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn"
         }
       ],
-      "duration_ms": 160128,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/0URET1QRXICvNhwgNn5OWD"
+      "duration_ms": 183977,
+      "name": "CHIVALRY IS DEAD",
+      "url": "https://open.spotify.com/track/48KAjFkydsuZHkG7ftt8GW"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Sailing",
+        "url": "https://open.spotify.com/album/4JC0wgDAIou1Q0005eCXb4"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 205673,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/5BhlE0di2Qeey289ECk9IF"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -63,22 +79,6 @@
       "duration_ms": 210353,
       "name": "Shiny and New",
       "url": "https://open.spotify.com/track/71VnmWirWkHf6XAloWH5TO"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Simple Love Songs - Extended Version",
-        "url": "https://open.spotify.com/album/2APkE3JslirvBHQxbz5Iop"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 171839,
-      "name": "Simple Love Songs - Extended Version",
-      "url": "https://open.spotify.com/track/202Ebn3Kj18Ukkr9LQXwol"
     },
     {
       "added_at": "2023-09-22 04:01:00",

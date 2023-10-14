@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 219186,
       "name": "Ah bah d\u2019accord",
       "url": "https://open.spotify.com/track/56Cf0t6EUIu7bYNIvVvEpE"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 277921,
       "name": "Audi rtt",
       "url": "https://open.spotify.com/track/7lBcwHvUVvJ53EqlqyzoNG"
@@ -290,6 +290,24 @@
       "duration_ms": 217721,
       "name": "Dream",
       "url": "https://open.spotify.com/track/1gg7VrHQD09dTZd8MzCsRA"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270066,
+      "name": "Francesca",
+      "url": "https://open.spotify.com/track/6QnfsyzifAJJrNHYTO6j9J"
     },
     {
       "album": {
@@ -542,7 +560,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 238253,
       "name": "Need A Little Time",
       "url": "https://open.spotify.com/track/38O0SN9P3sC0UFLsgLqLju"
@@ -626,10 +644,28 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 195430,
       "name": "Only Good Things",
       "url": "https://open.spotify.com/track/1xn7DfWI2NeNlcS463ku3F"
+    },
+    {
+      "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
     },
     {
       "album": {
@@ -688,6 +724,24 @@
       "duration_ms": 250266,
       "name": "Power (feat. Carpenter Brut)",
       "url": "https://open.spotify.com/track/1chn0UfLmTjpW6GHVeluqp"
+    },
+    {
+      "album": {
+        "name": "Council Skies",
+        "url": "https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f"
+      },
+      "artists": [
+        {
+          "name": "Noel Gallagher's High Flying Birds",
+          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295054,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/41IubysSeDtIbadKQ1Sphr"
     },
     {
       "album": {
@@ -894,6 +948,24 @@
       "duration_ms": 140080,
       "name": "Wet Dream",
       "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
+    },
+    {
+      "album": {
+        "name": "Wings Of Time (From the Motion Picture Dungeons & Dragons: Honor Among Thieves)",
+        "url": "https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168786,
+      "name": "Wings Of Time - From the Motion Picture Dungeons & Dragons: Honor Among Thieves",
+      "url": "https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS"
     },
     {
       "album": {

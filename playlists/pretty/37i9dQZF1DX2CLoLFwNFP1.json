@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30061,
+  "num_followers": 30099,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGM1NTM1MDdjZGVmMjM0OWNkNDc5ZmI0YzdiNDhkM2NiMzI3M2Vl",
+  "snapshot_id": "MCw3YjgxOGVlMzI5ZDc2Njk2M2QwNmI0ZDE0MTYwYjY5OGMyZjEzNzhl",
   "tracks": [
     {
       "added_at": "2023-07-31 16:03:37",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
+        "name": "All The Way Up",
+        "url": "https://open.spotify.com/album/1RB92dqVzPpvvOQ3zLVPqr"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 223059,
+      "name": "All The Way Up",
+      "url": "https://open.spotify.com/track/0LPIfrP6dURnrG5qXweTDZ"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
         "name": "ALL IN",
         "url": "https://open.spotify.com/album/4Pe85vc4NSIC9Y9adjmNA5"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 225026,
       "name": "ALL IN (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/586VUZmfGAEjeHkIPHwy3p"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "All The Way Up",
-        "url": "https://open.spotify.com/album/1RB92dqVzPpvvOQ3zLVPqr"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 223059,
-      "name": "All The Way Up",
-      "url": "https://open.spotify.com/track/0LPIfrP6dURnrG5qXweTDZ"
     },
     {
       "added_at": "2023-07-31 16:03:37",

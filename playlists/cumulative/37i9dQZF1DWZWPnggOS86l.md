@@ -2,7 +2,7 @@
 
 ### [Coleção Emo](https://open.spotify.com/playlist/37i9dQZF1DWZWPnggOS86l)
 
-> Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Di Ferrero \(NXZero\)
+> Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Emoponto
 
 63 songs - 3 hr 39 min
 

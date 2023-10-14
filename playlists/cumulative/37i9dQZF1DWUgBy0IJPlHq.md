@@ -2,7 +2,7 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Flatland Cavalry
+> A new shade of Country\. Cover: Zach Bryan & Kacey Musgraves
 
 501 songs - 1 day 6 hr 55 min
 

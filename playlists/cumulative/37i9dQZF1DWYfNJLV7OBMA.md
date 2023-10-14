@@ -4,7 +4,7 @@
 
 > Trending Sinhalese pop hits\. Cover \- La Signore
 
-326 songs - 19 hr 20 min
+327 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,8 @@
 | [Shob Lokey Koy](https://open.spotify.com/track/4XQKICLxCikXtVZhK7nhY8) | [Kaniz Khandaker Mitu](https://open.spotify.com/artist/6vwOuQUfKY6YfVpKHDZimi), [Murshidabadi Project](https://open.spotify.com/artist/7HikYIX00z6eJdUn0lz1iR) | [Shob Lokey Koy](https://open.spotify.com/album/0KCW4bKM9YQ18bHvTsvNEH) | 6:38 | 2022-07-15 | 2022-09-09 |
 | [Shrungarini](https://open.spotify.com/track/19iPicKXpvehGuhhpuZuiD) | [Mihindu Ariyaratne](https://open.spotify.com/artist/6KH2PkV4KrlWNvANBGnZRO), [Keshan Perera](https://open.spotify.com/artist/4BiCq4QYhVyqH92UHZzG87) | [Shrungarini](https://open.spotify.com/album/0yCVclqosOV69dPaw6xldn) | 3:36 | 2022-10-07 | 2022-12-01 |
 | [Shrungariye](https://open.spotify.com/track/5MoGLbPAKb3UJzP6kJo5Yi) | [Nisal Sathsara](https://open.spotify.com/artist/0V6xlFB9xE1w7oRy59kZJg) | [Shrungariye](https://open.spotify.com/album/38y3z2Xxr9Tf7bvBlCqy8K) | 3:33 | 2022-06-16 | 2022-07-30 |
-| [Sidangana](https://open.spotify.com/track/1Hsj1FzBYIrwh2ZebxD4Nd) | [D Mass](https://open.spotify.com/artist/2PPDhgCub45ZoTyJ4dsPB8) | [Sidangana](https://open.spotify.com/album/4wCWmKNM1drx6K34J7p6dg) | 2:36 | 2023-10-03 |  |
+| [Sidangana](https://open.spotify.com/track/1Hsj1FzBYIrwh2ZebxD4Nd) | [D Mass](https://open.spotify.com/artist/2PPDhgCub45ZoTyJ4dsPB8) | [Sidangana](https://open.spotify.com/album/4wCWmKNM1drx6K34J7p6dg) | 2:36 | 2023-10-03 | 2023-10-14 |
+| [Sidangana](https://open.spotify.com/track/2i0rmqAaFzM7URhq0dZsqu) | [D Mass](https://open.spotify.com/artist/2PPDhgCub45ZoTyJ4dsPB8) | [Sidangana](https://open.spotify.com/album/6Po3z9GCNNNplTR68TGEJk) | 2:36 | 2023-10-03 |  |
 | [Single Daruwo](https://open.spotify.com/track/5NYRy2KD9K5G9HPem7Jocj) | [Anjali Rajkumar](https://open.spotify.com/artist/03zbPMYelJtW5sPlhc2k41), [Mura](https://open.spotify.com/artist/6NI4lKzddyN8A85zXzKKQS) | [Single Daruwo](https://open.spotify.com/album/4OHgpKUH4hmS9FA2wiscad) | 2:38 | 2022-06-16 | 2022-09-24 |
 | [Sipa Gannam](https://open.spotify.com/track/3WKSzzH85tf92kkFE5Layh) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Sipa Gannam](https://open.spotify.com/album/4x7K5tw2R6Op92HQ9aqVYN) | 3:19 | 2022-11-04 | 2022-12-01 |
 | [Siri](https://open.spotify.com/track/1zq6YYl7MxrMj4yqtOxwuB) | [DJ Mass](https://open.spotify.com/artist/7DDdKIvTMJoVym9n4UOKYA), [KillerB](https://open.spotify.com/artist/40V9FiVXsO9bAxg9XIKGks), [Sandaru Sathsara](https://open.spotify.com/artist/473SusuHKpeUibUcV0W7az) | [Siri](https://open.spotify.com/album/7bKj8axmc8pa1j95a2zV3t) | 2:15 | 2022-06-16 | 2022-12-01 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
-  "num_followers": 76716,
+  "num_followers": 76754,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDEzNDU4ZWNmYThhNGNmZTcyYTVhN2RjN2NlNTY1M2VmYWNlZDY0",
+  "snapshot_id": "MCw0YjViY2QxMzRmMzM1NDc3YzVmZGRjNDU3NmNkOWQ0ODFhYTI3OTE3",
   "tracks": [
     {
       "added_at": "2020-04-17 21:51:59",
@@ -779,22 +779,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Hooligans",
-        "url": "https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH"
-      },
-      "artists": [
-        {
-          "name": "Los Hooligans",
-          "url": "https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka"
-        }
-      ],
-      "duration_ms": 187840,
-      "name": "Al Final",
-      "url": "https://open.spotify.com/track/0KxTwdcV3cdi7KKpkHCPqp"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Lucha Va Voom - Se\u00f1or Amor's Mexican R&R Faves",
         "url": "https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 116146,
       "name": "Los locos adams",
       "url": "https://open.spotify.com/track/6fPwTYL4B8hTx4VL3DFCnQ"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Hooligans",
+        "url": "https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH"
+      },
+      "artists": [
+        {
+          "name": "Los Hooligans",
+          "url": "https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka"
+        }
+      ],
+      "duration_ms": 187840,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/0KxTwdcV3cdi7KKpkHCPqp"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -859,18 +859,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Dieciseis Toneladas",
-        "url": "https://open.spotify.com/album/65N5QOAYP8ZEZOMDoUnDh8"
+        "name": "\u00c9xitos Del Rock",
+        "url": "https://open.spotify.com/album/6lwsXeafhu5LPPnvyeVt9D"
       },
       "artists": [
         {
-          "name": "Alberto Vazquez",
-          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+          "name": "Los Gliders",
+          "url": "https://open.spotify.com/artist/3hzte6Ma86NBrxRt1c8kGI"
         }
       ],
-      "duration_ms": 170657,
-      "name": "Olvida",
-      "url": "https://open.spotify.com/track/4oGoAbeCYFxQ6oXsNFnLEn"
+      "duration_ms": 138000,
+      "name": "La Llorona Loca",
+      "url": "https://open.spotify.com/track/2dIUXClkwYgcYL2m7BInXB"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -939,18 +939,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "\u00c9xitos Del Rock",
-        "url": "https://open.spotify.com/album/6lwsXeafhu5LPPnvyeVt9D"
+        "name": "Dieciseis Toneladas",
+        "url": "https://open.spotify.com/album/65N5QOAYP8ZEZOMDoUnDh8"
       },
       "artists": [
         {
-          "name": "Los Gliders",
-          "url": "https://open.spotify.com/artist/3hzte6Ma86NBrxRt1c8kGI"
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
         }
       ],
-      "duration_ms": 138000,
-      "name": "La Llorona Loca",
-      "url": "https://open.spotify.com/track/2dIUXClkwYgcYL2m7BInXB"
+      "duration_ms": 170657,
+      "name": "Olvida",
+      "url": "https://open.spotify.com/track/4oGoAbeCYFxQ6oXsNFnLEn"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Atras de la Raya",
-        "url": "https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5"
-      },
-      "artists": [
-        {
-          "name": "Los Apson Boys",
-          "url": "https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ"
-        }
-      ],
-      "duration_ms": 142628,
-      "name": "Atras de la Raya",
-      "url": "https://open.spotify.com/track/2RFdF7zbWTPPSJYnEVVoLZ"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Grandes \u00c9xitos Vol.2",
         "url": "https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 186749,
       "name": "Siempre Sola",
       "url": "https://open.spotify.com/track/6bWDWlFoeqADIHVC5X3KFE"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Atras de la Raya",
+        "url": "https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5"
+      },
+      "artists": [
+        {
+          "name": "Los Apson Boys",
+          "url": "https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ"
+        }
+      ],
+      "duration_ms": 142628,
+      "name": "Atras de la Raya",
+      "url": "https://open.spotify.com/track/2RFdF7zbWTPPSJYnEVVoLZ"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Loco - Vintage Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
-      },
-      "artists": [
-        {
-          "name": "Los Juniors",
-          "url": "https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf"
-        }
-      ],
-      "duration_ms": 162546,
-      "name": "A Trav\u00e9s De Los A\u00f1os",
-      "url": "https://open.spotify.com/track/6rqgDSZ4by55WFR7WrC8Xi"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Los Exitos de Oro de Los Crazy Boy's",
         "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 162011,
       "name": "El Primer Beso",
       "url": "https://open.spotify.com/track/7dpZ4d47HlWfLUCyidiDKD"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors",
+          "url": "https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf"
+        }
+      ],
+      "duration_ms": 162546,
+      "name": "A Trav\u00e9s De Los A\u00f1os",
+      "url": "https://open.spotify.com/track/6rqgDSZ4by55WFR7WrC8Xi"
     },
     {
       "added_at": "2020-04-17 21:51:59",

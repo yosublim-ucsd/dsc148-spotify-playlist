@@ -1001,6 +1001,28 @@
     },
     {
       "album": {
+        "name": "Trap The Fato Deluxe",
+        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "G4 Boyz",
+          "url": "https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162684,
+      "name": "BRAZIL BOYS",
+      "url": "https://open.spotify.com/track/7KTeincxdoQhp2sw8hlsRY"
+    },
+    {
+      "album": {
         "name": "OFF MODE",
         "url": "https://open.spotify.com/album/1FL0l7ijOWtgCFGOIC9sev"
       },
@@ -1934,7 +1956,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 157241,
       "name": "Encomenda",
       "url": "https://open.spotify.com/track/3XadSINduX4zXzhLUURFXa"
@@ -2030,7 +2052,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 188229,
       "name": "Eu Ainda",
       "url": "https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o"
@@ -2923,6 +2945,24 @@
     },
     {
       "album": {
+        "name": "Londres",
+        "url": "https://open.spotify.com/album/1AfrCjRLlvXEhmlgRqfzci"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221518,
+      "name": "Londres",
+      "url": "https://open.spotify.com/track/43c6R4BgiuNgR58D8yY0L1"
+    },
+    {
+      "album": {
         "name": "PELE",
         "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
       },
@@ -2980,6 +3020,24 @@
       "duration_ms": 90075,
       "name": "Mal\u00edcia (feat. Pedro Bala)",
       "url": "https://open.spotify.com/track/19Ecxsvg2fTAaJnp05jz4n"
+    },
+    {
+      "album": {
+        "name": "Mambo",
+        "url": "https://open.spotify.com/album/0I4gVqSyz877vvYtfOPv41"
+      },
+      "artists": [
+        {
+          "name": "Bob do Contra",
+          "url": "https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Mambo",
+      "url": "https://open.spotify.com/track/6pEUOh2nY8FtgNqY7snNpE"
     },
     {
       "album": {
@@ -3294,7 +3352,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 208695,
       "name": "Moda S\u00edria Anti-Adidas",
       "url": "https://open.spotify.com/track/489WqSvCOYoNvXdAzVzB8h"
@@ -3612,7 +3670,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 158625,
       "name": "ntj",
       "url": "https://open.spotify.com/track/5S4alOdBpAxLKn5GPMyj6R"
@@ -4064,7 +4122,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 203333,
       "name": "Programado pra Morrer",
       "url": "https://open.spotify.com/track/0Zo1u04qDDlH2qhWqXGCN8"
@@ -4406,7 +4464,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 196986,
       "name": "Revolta",
       "url": "https://open.spotify.com/track/1338yPBS9EvfuPW5wgKwrs"

@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Chris Stapelton
 
-473 songs - 1 day 2 hr 0 min
+474 songs - 1 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,8 @@
 | [Next Thing You Know](https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know](https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp) | 2:55 | 2023-03-09 | 2023-09-15 |
 | [Night Needs You](https://open.spotify.com/track/7z56QYtQNduD3QJY9QEcSn) | [The Viper Creek Band](https://open.spotify.com/artist/0V0iGpPvQ1BdTHvGBaxn9Y) | [Night Needs You](https://open.spotify.com/album/0b0b4BY7NwWDG2XxOA5BkL) | 3:22 | 2022-06-23 | 2022-09-30 |
 | [Nightfalls](https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Nightfalls](https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC) | 3:40 | 2022-03-31 | 2022-08-12 |
-| [NIGHTS LIKE THIS](https://open.spotify.com/track/2SMpPuLG1PDPz5tP2RhjWT) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/0iPEHKxVGBBka65r0AwUWz) | 3:03 | 2023-06-22 |  |
+| [NIGHTS LIKE THIS](https://open.spotify.com/track/2SMpPuLG1PDPz5tP2RhjWT) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/0iPEHKxVGBBka65r0AwUWz) | 3:03 | 2023-06-22 | 2023-10-14 |
+| [NIGHTS LIKE THIS](https://open.spotify.com/track/2hOKrPOGFsWinOWguSvjSR) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/3gKp0v7cx8VBr0C3dzgizg) | 3:03 | 2023-10-12 |  |
 | [Nobody's More Country](https://open.spotify.com/track/3e9GzPcnquUu3vLZU3man4) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Nobody's More Country](https://open.spotify.com/album/6Ty3A6KMug1QL8CAXmdcz5) | 2:52 | 2021-12-30 | 2022-04-01 |
 | [Not In These Boots](https://open.spotify.com/track/7jImDCJbhVXW77Q43aY4je) | [Natalie Pearson](https://open.spotify.com/artist/5kDX9AsxeSUnU71dLYNesa) | [Not In These Boots](https://open.spotify.com/album/5POXSgpuVDdo7opEBFKISc) | 3:30 | 2023-04-13 | 2023-06-09 |
 | [Not Yet](https://open.spotify.com/track/0WVvn1HeAGVcnMnQcKPAQg) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Not Yet](https://open.spotify.com/album/5yhE9I7y2sfvB83vBkIRVJ) | 2:54 | 2021-12-30 | 2022-04-01 |

@@ -1,12 +1,12 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 16510,
+  "num_followers": 16585,
   "original_name": "Soft Nature Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjU5MWY3OTFlZGRjMDg3YmM0NDM1ODRkMzk0M2E2OTE1ZmRmZmFm",
+  "snapshot_id": "MCw2NDFjYzA2NzNmMDRjOTIwN2IwODdiNjk3MzljOGE4Y2Y4N2ZmOTFj",
   "tracks": [
     {
       "added_at": "2023-10-06 14:18:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-10-06 14:18:00",
       "album": {
-        "name": "Take a Breath",
-        "url": "https://open.spotify.com/album/3PmFkrswUTdy2PzigC9CZu"
-      },
-      "artists": [
-        {
-          "name": "Moon Garden",
-          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Take a Breath",
-      "url": "https://open.spotify.com/track/2TSeGxfPeHQEZbmL19I6ob"
-    },
-    {
-      "added_at": "2023-10-06 14:18:00",
-      "album": {
         "name": "Little Rabbit",
         "url": "https://open.spotify.com/album/5bU0ZA8rrJumX16meqGpSV"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 187200,
       "name": "Little Rabbit",
       "url": "https://open.spotify.com/track/4ANwAzJKUZv8n3DmUkOv6b"
+    },
+    {
+      "added_at": "2023-10-06 14:18:00",
+      "album": {
+        "name": "Take a Breath",
+        "url": "https://open.spotify.com/album/3PmFkrswUTdy2PzigC9CZu"
+      },
+      "artists": [
+        {
+          "name": "Moon Garden",
+          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Take a Breath",
+      "url": "https://open.spotify.com/track/2TSeGxfPeHQEZbmL19I6ob"
     },
     {
       "added_at": "2023-10-06 14:18:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-10-06 14:18:00",
       "album": {
-        "name": "Above The Sea",
-        "url": "https://open.spotify.com/album/0uTCVqSAdqeGodq6ATzxHh"
-      },
-      "artists": [
-        {
-          "name": "Hans Westerstr\u00f6m",
-          "url": "https://open.spotify.com/artist/1WOVNBPjCOR40fEBWjNUNe"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Above The Sea",
-      "url": "https://open.spotify.com/track/6GjFNvPjQCSC7rPABT72lY"
-    },
-    {
-      "added_at": "2023-10-06 14:18:00",
-      "album": {
         "name": "Welcome Home",
         "url": "https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2023-10-06 14:18:00",
       "album": {
-        "name": "October 21st",
-        "url": "https://open.spotify.com/album/5olmbwDm6khNLIvNyWSBpC"
+        "name": "Above The Sea",
+        "url": "https://open.spotify.com/album/0uTCVqSAdqeGodq6ATzxHh"
       },
       "artists": [
         {
-          "name": "Las Tinieblas",
-          "url": "https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU"
+          "name": "Hans Westerstr\u00f6m",
+          "url": "https://open.spotify.com/artist/1WOVNBPjCOR40fEBWjNUNe"
         }
       ],
-      "duration_ms": 144500,
-      "name": "October 21st",
-      "url": "https://open.spotify.com/track/76cFbynsPU5uVPXifbsmfZ"
+      "duration_ms": 134000,
+      "name": "Above The Sea",
+      "url": "https://open.spotify.com/track/6GjFNvPjQCSC7rPABT72lY"
     },
     {
       "added_at": "2023-10-06 14:18:00",
@@ -695,6 +679,22 @@
       "duration_ms": 135000,
       "name": "Rainy Day Alone",
       "url": "https://open.spotify.com/track/7sLGSLFtNwNKCCiv2QlvTc"
+    },
+    {
+      "added_at": "2023-10-06 14:18:00",
+      "album": {
+        "name": "October 21st",
+        "url": "https://open.spotify.com/album/5olmbwDm6khNLIvNyWSBpC"
+      },
+      "artists": [
+        {
+          "name": "Las Tinieblas",
+          "url": "https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "October 21st",
+      "url": "https://open.spotify.com/track/76cFbynsPU5uVPXifbsmfZ"
     },
     {
       "added_at": "2023-10-06 14:18:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-10-06 14:18:00",
       "album": {
-        "name": "Returning Home",
-        "url": "https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L"
-      },
-      "artists": [
-        {
-          "name": "A Long Story",
-          "url": "https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Returning Home",
-      "url": "https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw"
-    },
-    {
-      "added_at": "2023-10-06 14:18:00",
-      "album": {
         "name": "At Dawn",
         "url": "https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 152272,
       "name": "Rays of Sunshine",
       "url": "https://open.spotify.com/track/44mxjw5BP9Oj9pJBOZmLUV"
+    },
+    {
+      "added_at": "2023-10-06 14:18:00",
+      "album": {
+        "name": "Pitter Patter",
+        "url": "https://open.spotify.com/album/6vroyHfRe7dytL34m4yatE"
+      },
+      "artists": [
+        {
+          "name": "A Long Story",
+          "url": "https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Pitter Patter",
+      "url": "https://open.spotify.com/track/7JHGHOEQA2xhiraQESNSyu"
     },
     {
       "added_at": "2023-10-06 14:18:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-10-06 14:18:00",
       "album": {
-        "name": "Beautiful Walk",
-        "url": "https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr"
-      },
-      "artists": [
-        {
-          "name": "Loftet",
-          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
-        }
-      ],
-      "duration_ms": 140181,
-      "name": "Mellow Spring",
-      "url": "https://open.spotify.com/track/6GO7Ql2NFglUqb9Qc9TeWL"
-    },
-    {
-      "added_at": "2023-10-06 14:18:00",
-      "album": {
         "name": "Eosphoros T.Merula",
         "url": "https://open.spotify.com/album/5gpgkGsWmiKDrBl6m5WVwC"
       },
@@ -971,6 +955,38 @@
     {
       "added_at": "2023-10-06 14:18:00",
       "album": {
+        "name": "Beautiful Walk",
+        "url": "https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr"
+      },
+      "artists": [
+        {
+          "name": "Loftet",
+          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
+        }
+      ],
+      "duration_ms": 140181,
+      "name": "Mellow Spring",
+      "url": "https://open.spotify.com/track/6GO7Ql2NFglUqb9Qc9TeWL"
+    },
+    {
+      "added_at": "2023-10-06 14:18:00",
+      "album": {
+        "name": "Returning Home",
+        "url": "https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L"
+      },
+      "artists": [
+        {
+          "name": "A Long Story",
+          "url": "https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Returning Home",
+      "url": "https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw"
+    },
+    {
+      "added_at": "2023-10-06 14:18:00",
+      "album": {
         "name": "From the meadow",
         "url": "https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 135144,
       "name": "Song from the meadow",
       "url": "https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg"
-    },
-    {
-      "added_at": "2023-10-06 14:18:00",
-      "album": {
-        "name": "Pitter Patter",
-        "url": "https://open.spotify.com/album/6vroyHfRe7dytL34m4yatE"
-      },
-      "artists": [
-        {
-          "name": "A Long Story",
-          "url": "https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Pitter Patter",
-      "url": "https://open.spotify.com/track/7JHGHOEQA2xhiraQESNSyu"
     },
     {
       "added_at": "2023-10-06 14:18:00",
@@ -1163,8 +1163,8 @@
     {
       "added_at": "2023-10-06 14:18:00",
       "album": {
-        "name": "Noruega",
-        "url": "https://open.spotify.com/album/1iLUSWxkVJs2AXQ4xCq8cx"
+        "name": "Noche De Oto\u00f1o",
+        "url": "https://open.spotify.com/album/7HymvpDTrtr4XV6KHKArRO"
       },
       "artists": [
         {
@@ -1172,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
         }
       ],
-      "duration_ms": 225019,
-      "name": "Noruega",
-      "url": "https://open.spotify.com/track/2gmJtW3bjoCRZ0EBxVSTKN"
+      "duration_ms": 205714,
+      "name": "Noche De Oto\u00f1o",
+      "url": "https://open.spotify.com/track/4BiQv316kzweNWOmAxGFor"
     },
     {
       "added_at": "2023-10-06 14:18:00",
@@ -1259,8 +1259,8 @@
     {
       "added_at": "2023-10-06 14:18:00",
       "album": {
-        "name": "Noche De Oto\u00f1o",
-        "url": "https://open.spotify.com/album/7HymvpDTrtr4XV6KHKArRO"
+        "name": "Noruega",
+        "url": "https://open.spotify.com/album/1iLUSWxkVJs2AXQ4xCq8cx"
       },
       "artists": [
         {
@@ -1268,25 +1268,9 @@
           "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Noche De Oto\u00f1o",
-      "url": "https://open.spotify.com/track/4BiQv316kzweNWOmAxGFor"
-    },
-    {
-      "added_at": "2023-10-06 14:18:00",
-      "album": {
-        "name": "Honeydew",
-        "url": "https://open.spotify.com/album/4dFnIRQQqdG81wvwef4P8y"
-      },
-      "artists": [
-        {
-          "name": "Elois Jacq",
-          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
-        }
-      ],
-      "duration_ms": 120374,
-      "name": "Honeydew",
-      "url": "https://open.spotify.com/track/2upoDYeQM5S91SBC2yAO5K"
+      "duration_ms": 225019,
+      "name": "Noruega",
+      "url": "https://open.spotify.com/track/2gmJtW3bjoCRZ0EBxVSTKN"
     },
     {
       "added_at": "2023-10-06 14:18:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 187000,
       "name": "...comes sunshine",
       "url": "https://open.spotify.com/track/4HfWzLFR1tHW1rQuzKW3Be"
+    },
+    {
+      "added_at": "2023-10-06 14:18:00",
+      "album": {
+        "name": "Honeydew",
+        "url": "https://open.spotify.com/album/4dFnIRQQqdG81wvwef4P8y"
+      },
+      "artists": [
+        {
+          "name": "Elois Jacq",
+          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
+        }
+      ],
+      "duration_ms": 120374,
+      "name": "Honeydew",
+      "url": "https://open.spotify.com/track/2upoDYeQM5S91SBC2yAO5K"
     },
     {
       "added_at": "2023-10-06 14:18:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-10-06 14:18:00",
       "album": {
-        "name": "Hygrometer",
-        "url": "https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C"
-      },
-      "artists": [
-        {
-          "name": "Vastos Trofeos",
-          "url": "https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "Hygrometer",
-      "url": "https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz"
-    },
-    {
-      "added_at": "2023-10-06 14:18:00",
-      "album": {
         "name": "Juncture",
         "url": "https://open.spotify.com/album/7sRgPqeByeoKnByrxzz5l8"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 142660,
       "name": "Juncture",
       "url": "https://open.spotify.com/track/5kBWSTxxpQHjh2p49YM4xq"
+    },
+    {
+      "added_at": "2023-10-06 14:18:00",
+      "album": {
+        "name": "Hygrometer",
+        "url": "https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C"
+      },
+      "artists": [
+        {
+          "name": "Vastos Trofeos",
+          "url": "https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "Hygrometer",
+      "url": "https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz"
     },
     {
       "added_at": "2023-10-06 14:18:00",

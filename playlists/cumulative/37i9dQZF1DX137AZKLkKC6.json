@@ -2501,6 +2501,24 @@
     },
     {
       "album": {
+        "name": "No Te Guardo Rencor",
+        "url": "https://open.spotify.com/album/4IcpUKHSzOd050HvhuRbM7"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "No Te Guardo Rencor",
+      "url": "https://open.spotify.com/track/1HtnC5ryoojHGlbMrEAGcY"
+    },
+    {
+      "album": {
         "name": "Nuestro Juramento",
         "url": "https://open.spotify.com/album/59P55KVxpocTwKRlpahlDR"
       },

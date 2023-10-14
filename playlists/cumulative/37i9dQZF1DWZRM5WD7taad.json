@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "ACTITUD",
+        "url": "https://open.spotify.com/album/2dkwZc8hKL1W5HkRMPscUL"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "ACTITUD",
+      "url": "https://open.spotify.com/track/2ZHN30E4lGPIyRfzy6HPGe"
+    },
+    {
+      "album": {
         "name": "Agua Salada",
         "url": "https://open.spotify.com/album/4XuniTXMjxP6MKAV5sbbQB"
       },
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 171690,
       "name": "Despiertas",
       "url": "https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb"
@@ -3908,7 +3926,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 172235,
       "name": "Simulaci\u00f3n",
       "url": "https://open.spotify.com/track/0TQq1pjlkRQqesydJ5xbof"
@@ -4330,6 +4348,24 @@
       "duration_ms": 118878,
       "name": "Traka Tra",
       "url": "https://open.spotify.com/track/2VENs7vBhbZqWYJiIzbr0y"
+    },
+    {
+      "album": {
+        "name": "Trendi",
+        "url": "https://open.spotify.com/album/5vyt8C2B0j6yUFniEHJRc6"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Trendi",
+      "url": "https://open.spotify.com/track/0RdBFw9TfRCXJsqQNimbM3"
     },
     {
       "album": {

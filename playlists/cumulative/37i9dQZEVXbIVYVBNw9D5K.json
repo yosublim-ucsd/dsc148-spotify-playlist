@@ -13493,6 +13493,32 @@
     },
     {
       "album": {
+        "name": "130 Bpm Forte",
+        "url": "https://open.spotify.com/album/2YS3khuycfVxtVjn43sta2"
+      },
+      "artists": [
+        {
+          "name": "Ozan Do\u011fulu",
+          "url": "https://open.spotify.com/artist/6xLv41SHPrVVfvyGd1M7ut"
+        },
+        {
+          "name": "G\u00fclden Mutlu",
+          "url": "https://open.spotify.com/artist/3ScdCahXjzw08np6FULdmA"
+        },
+        {
+          "name": "Bahad\u0131r Tatl\u0131\u00f6z",
+          "url": "https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219594,
+      "name": "Uzun Laf\u0131n K\u0131sas\u0131",
+      "url": "https://open.spotify.com/track/2v14AB4uUoWMjnNnlQJRJC"
+    },
+    {
+      "album": {
         "name": "Uzunlar",
         "url": "https://open.spotify.com/album/39fSB986BtwaS4x5vXbiuo"
       },
@@ -14514,7 +14540,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 278133,
       "name": "Zalim",
       "url": "https://open.spotify.com/track/3HrH0tLPJHsweeAlw3leQO"

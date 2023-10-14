@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Joy Denalane",
-  "num_followers": 29406,
+  "num_followers": 29413,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjU1MTIxOWQ4Y2YzMTMwNTdhZmZmOWNlYWI0ZjVjYTM5ZmUwOTA5",
+  "snapshot_id": "MCxlZmU3NjFiNzcxYjZlZmM2MDJmZTg2ZjRmZWU4MTY2MTRiOTc4NTFj",
   "tracks": [
     {
       "added_at": "2023-10-03 22:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
-        "name": "Schwarzes Herz",
-        "url": "https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws"
-      },
-      "artists": [
-        {
-          "name": "AYLIVA",
-          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
-        }
-      ],
-      "duration_ms": 142946,
-      "name": "Schwarzes Herz",
-      "url": "https://open.spotify.com/track/7pxyUIf4168eTcdry0kFue"
-    },
-    {
-      "added_at": "2023-10-03 22:00:00",
-      "album": {
         "name": "Komm in meine Arme",
         "url": "https://open.spotify.com/album/4bYod5KtRSsv2UJ1kfYJfR"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 194002,
       "name": "Komm in meine Arme",
       "url": "https://open.spotify.com/track/2cJsBA3fbleMmnlveGVBlo"
+    },
+    {
+      "added_at": "2023-10-03 22:00:00",
+      "album": {
+        "name": "Schwarzes Herz",
+        "url": "https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws"
+      },
+      "artists": [
+        {
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+        }
+      ],
+      "duration_ms": 142946,
+      "name": "Schwarzes Herz",
+      "url": "https://open.spotify.com/track/7pxyUIf4168eTcdry0kFue"
     },
     {
       "added_at": "2023-10-03 22:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
-        "name": "Benzer",
-        "url": "https://open.spotify.com/album/6Ue6149UREqLkpHVuPrrDB"
-      },
-      "artists": [
-        {
-          "name": "ZAVET",
-          "url": "https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG"
-        }
-      ],
-      "duration_ms": 144935,
-      "name": "Benzer",
-      "url": "https://open.spotify.com/track/718y9QjCoHlSLtiPsl9TRd"
-    },
-    {
-      "added_at": "2023-10-03 22:00:00",
-      "album": {
         "name": "Offiziell Gl\u00fccklich",
         "url": "https://open.spotify.com/album/5nI1xih2hIWj0zf056x31C"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 168026,
       "name": "Offiziell Gl\u00fccklich",
       "url": "https://open.spotify.com/track/4zD9KFD8awuhpSuzygS4Pf"
+    },
+    {
+      "added_at": "2023-10-03 22:00:00",
+      "album": {
+        "name": "Benzer",
+        "url": "https://open.spotify.com/album/6Ue6149UREqLkpHVuPrrDB"
+      },
+      "artists": [
+        {
+          "name": "ZAVET",
+          "url": "https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG"
+        }
+      ],
+      "duration_ms": 144935,
+      "name": "Benzer",
+      "url": "https://open.spotify.com/track/718y9QjCoHlSLtiPsl9TRd"
     },
     {
       "added_at": "2023-10-03 22:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
-        "name": "Toxic Baggage",
-        "url": "https://open.spotify.com/album/17Q5R0UNJuXQCQxRN6lgHH"
-      },
-      "artists": [
-        {
-          "name": "Anna Grey",
-          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
-        }
-      ],
-      "duration_ms": 146626,
-      "name": "Toxic Baggage",
-      "url": "https://open.spotify.com/track/3HGcCi6OUatVgbGwD16ktQ"
-    },
-    {
-      "added_at": "2023-10-03 22:00:00",
-      "album": {
         "name": "Black Goose",
         "url": "https://open.spotify.com/album/4QaBlPW42jSyeOv5dLg6pv"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 153950,
       "name": "Black Goose",
       "url": "https://open.spotify.com/track/42twCm34xVG0EQexL1BuPm"
+    },
+    {
+      "added_at": "2023-10-03 22:00:00",
+      "album": {
+        "name": "Toxic Baggage",
+        "url": "https://open.spotify.com/album/17Q5R0UNJuXQCQxRN6lgHH"
+      },
+      "artists": [
+        {
+          "name": "Anna Grey",
+          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
+        }
+      ],
+      "duration_ms": 146626,
+      "name": "Toxic Baggage",
+      "url": "https://open.spotify.com/track/3HGcCi6OUatVgbGwD16ktQ"
     },
     {
       "added_at": "2023-10-03 22:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
-        "name": "Summer of Love",
-        "url": "https://open.spotify.com/album/2ALp3KE42NdXMNi2jXPyjd"
-      },
-      "artists": [
-        {
-          "name": "Velvet Two Stripes",
-          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
-        }
-      ],
-      "duration_ms": 334973,
-      "name": "Summer of Love",
-      "url": "https://open.spotify.com/track/2HhAic2lb5CNK2wow3fbDm"
-    },
-    {
-      "added_at": "2023-10-03 22:00:00",
-      "album": {
         "name": "Referee",
         "url": "https://open.spotify.com/album/4jilCP2w2LpwgBFhCjWGjT"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 188911,
       "name": "Referee",
       "url": "https://open.spotify.com/track/3gHCOrb1EasRxmmCy7apKD"
+    },
+    {
+      "added_at": "2023-10-03 22:00:00",
+      "album": {
+        "name": "Summer of Love",
+        "url": "https://open.spotify.com/album/2ALp3KE42NdXMNi2jXPyjd"
+      },
+      "artists": [
+        {
+          "name": "Velvet Two Stripes",
+          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
+        }
+      ],
+      "duration_ms": 334973,
+      "name": "Summer of Love",
+      "url": "https://open.spotify.com/track/2HhAic2lb5CNK2wow3fbDm"
     },
     {
       "added_at": "2023-10-03 22:00:00",

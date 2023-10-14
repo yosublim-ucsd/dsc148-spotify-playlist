@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,747,054 likes - 214 songs - 12 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,744,147 likes - 214 songs - 12 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 42 | [Alaska](https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Alaska](https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe) | 3:00 |
 | 43 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 |
 | 44 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 |
-| 45 | [Save Your Tears](https://open.spotify.com/track/1X6Kmaa2Yq70vF0cIQ6V0f) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 3:03 |
+| 45 | [Save Your Tears \(Acoustic\)](https://open.spotify.com/track/1X6Kmaa2Yq70vF0cIQ6V0f) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 3:03 |
 | 46 | [Dire Wolf \- Bonus Track](https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [Crooked Tree \(Deluxe Edition\)](https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6) | 3:32 |
 | 47 | [Jumper \- Acoustic](https://open.spotify.com/track/2gW33mccmLxLqLGiQfDCuL) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Jumper \(Acoustic\)](https://open.spotify.com/album/7nfeJTpHYrgmgHIzoAaRhr) | 3:04 |
 | 48 | [drivers license](https://open.spotify.com/track/4GtkO065k7XSNJ9OQcnBHW) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Covers from Home](https://open.spotify.com/album/6BAh6hwMexhCLh3myahu5A) | 3:48 |
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 213 | [As Long as You Love Me](https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [As Long as You Love Me](https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1) | 2:31 |
 | 214 | [Chasing Cars](https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Chasing Cars](https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj) | 4:28 |
 
-Snapshot ID: `MCxlNjEyMjNiYjk2MzE1YzAzZGVjOWFjNjdiZGYwMDEwNzI3MjdiYTQy`
+Snapshot ID: `MCxmZDQwMmYzZGE2ZGM2YjZjYzQwZWZiMjQwNzNkYmU4Yzg3MjM5Mzdh`

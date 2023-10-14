@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,320 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,357 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 62 | [Black & Gold](https://open.spotify.com/track/6aMTBaxY2A1GbvO4tFanxF) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Sam Sparro](https://open.spotify.com/album/1gYtav3PWh8I8bXZLs6SgR) | 4:34 |
 | 63 | [Time To Realize](https://open.spotify.com/track/7mjNEIhe8lRG9sbwM5su3M) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Chapter One](https://open.spotify.com/album/5F00Gf428CfhyD0TGxAZFi) | 3:30 |
 | 64 | [One Out Of Two \- Oliver Remix](https://open.spotify.com/track/4KoSPXHZJX6XHwpQTwYZaW) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX), [Olivier](https://open.spotify.com/artist/1OHSjggNzVef5cSnSN0H4R) | [One Out Of Two](https://open.spotify.com/album/2272o56pJTeBGVqXvMdoJw) | 4:17 |
-| 65 | [Love Sweet Sound](https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Soundboy Rock](https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9) | 4:35 |
-| 66 | [To Protect and Entertain \- Crookers Remix](https://open.spotify.com/track/7qoS2OjXf3mE2q23Y1D9EC) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [Pedrophilia](https://open.spotify.com/album/0J5P7uBgt2rh6HZD3lZG4b) | 5:06 |
+| 65 | [To Protect and Entertain \- Crookers Remix](https://open.spotify.com/track/7qoS2OjXf3mE2q23Y1D9EC) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [Pedrophilia](https://open.spotify.com/album/0J5P7uBgt2rh6HZD3lZG4b) | 5:06 |
+| 66 | [Love Sweet Sound](https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Soundboy Rock](https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9) | 4:35 |
 | 67 | [Roman](https://open.spotify.com/track/1YVXSfWLzPtOaMyZhbDRN9) | [Housse de Racket](https://open.spotify.com/artist/3YklpiasaBYuNuVfKdJ9Mj) | [Alésia](https://open.spotify.com/album/3IMcoVivtk0v83rK4j72km) | 3:07 |
 | 68 | [Tonight](https://open.spotify.com/track/6NF6fUchK9oEpxkT8AVDgz) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Tonight \(12' Inch\)](https://open.spotify.com/album/1Nm5T8kyFqYTd2k49RHd1y) | 4:15 |
 | 69 | [La musique \(JBAG's Boomboxed Re\-Edit\) \- Mixed](https://open.spotify.com/track/6jwcG2bkn6adlKtlkSrEmf) | [Riot In Belgium](https://open.spotify.com/artist/5TqQmM5hvTvm1nIbiSRw7G), [JBAG](https://open.spotify.com/artist/3bkVz70Wb5WN0PKbT70o7R) | [Kitsuné Boombox Mixed by Jerry Bouthier](https://open.spotify.com/album/7mdUhfsfAXgtxS0x5jAnh7) | 4:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 74 | [I Get Around \- Midnight Juggernauts Remix](https://open.spotify.com/track/5JMD9oFmIh4PsVbTygcMB6) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Midnight Juggernauts](https://open.spotify.com/artist/2tGIh9kwbXuko0z3BTldBx) | [Kitsuné Maison Compilation 4](https://open.spotify.com/album/3cp2LC6H6viFxFsoZw9CBQ) | 5:55 |
 | 75 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
 
-Snapshot ID: `MCwzODM1YzMxM2E0YmQ2ZjQ1ZmZkMzdjZTFlZWU1ODFkYjE1NmJiZGRm`
+Snapshot ID: `MCw1MWE2MmUzOTZkOTQ2ZGQ0ZDBhODU2MTZiZDRhMDFkOGRkMGZmMGFh`

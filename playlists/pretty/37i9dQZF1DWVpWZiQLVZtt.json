@@ -1,12 +1,12 @@
 {
   "description": "Pop Latino de los 80 y 90. Canciones que quedar\u00e1n para siempre. Foto: Luis Miguel",
-  "num_followers": 684239,
+  "num_followers": 684723,
   "original_name": "Cl\u00e1sicos del Pop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjEyY2JiYjBhNDZhZWI1NzE5NDE1MjZiNzY1YWEwZTZlYzk0YTVm",
+  "snapshot_id": "MCw3YTM1ZDg4MGM1MGFiMmNhY2NkOGQxOWQwZDFkYWNhNTBkMGE0ODc3",
   "tracks": [
     {
       "added_at": "2022-03-15 03:49:22",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Donde Estas Corazon",
-      "url": "https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
         "name": "\u00bfQu\u00e9 pides t\u00fa? (Argentina)",
         "url": "https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 310866,
       "name": "Sin miedo a nada (feat. Amaia Montero)",
       "url": "https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Donde Estas Corazon",
+      "url": "https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 291493,
+      "name": "Vivir Sin Aire",
+      "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
         "name": "Hijas del Tomate",
         "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 259440,
       "name": "Azul",
       "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 291493,
-      "name": "Vivir Sin Aire",
-      "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -787,6 +787,26 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
+        "name": "Rayando El Sol (feat. Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 258937,
+      "name": "Rayando el Sol (feat. Pablo Albor\u00e1n)",
+      "url": "https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
         "name": "Tierna La Noche",
         "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
       },
@@ -835,26 +855,6 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "Rayando El Sol (feat. Pablo Albor\u00e1n)",
-        "url": "https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 258937,
-      "name": "Rayando el Sol (feat. Pablo Albor\u00e1n)",
-      "url": "https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "TZN -The Best Of Tiziano Ferro (Spanish Edition)",
-        "url": "https://open.spotify.com/album/0Kk7kX25RVvNzkYfyGt8kv"
-      },
-      "artists": [
-        {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "Tardes Negras",
-      "url": "https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
         "name": "Qui\u00e9n Dijo Ayer",
         "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 264786,
       "name": "Dime Que No",
       "url": "https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "TZN -The Best Of Tiziano Ferro (Spanish Edition)",
+        "url": "https://open.spotify.com/album/0Kk7kX25RVvNzkYfyGt8kv"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "Tardes Negras",
+      "url": "https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "Qui\u00e9n Dijo Ayer",
-        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 304200,
-      "name": "Se\u00f1ora de las Cuatro D\u00e9cadas",
-      "url": "https://open.spotify.com/track/2neWsabATpEgR8XBv4Hqwo"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
         "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
         "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 258626,
       "name": "Completamente Enamorados",
       "url": "https://open.spotify.com/track/3pz19CAY4yX7FSnTWDu3La"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "Qui\u00e9n Dijo Ayer",
+        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 304200,
+      "name": "Se\u00f1ora de las Cuatro D\u00e9cadas",
+      "url": "https://open.spotify.com/track/2neWsabATpEgR8XBv4Hqwo"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "Al Norte del Sur",
-        "url": "https://open.spotify.com/album/3VARJQOdbDt0dOlLAPMkjv"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2rdwDtrmhjgXgS2cSzXhe2"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
         "name": "Vivir",
         "url": "https://open.spotify.com/album/3jSHDDkwNvjOeui59fI6PQ"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 215640,
       "name": "Miente",
       "url": "https://open.spotify.com/track/5tupUt9ExblNzWxHkQZkBQ"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "Al Norte del Sur",
+        "url": "https://open.spotify.com/album/3VARJQOdbDt0dOlLAPMkjv"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2rdwDtrmhjgXgS2cSzXhe2"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "Un Toque De Misterio",
-        "url": "https://open.spotify.com/album/0PMcCZRXynocHn2Sw9fhXh"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 256399,
-      "name": "Me Va A Extranar",
-      "url": "https://open.spotify.com/track/5Ml0IYpDy6UEedeRjNrUKC"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
         "name": "2En1",
         "url": "https://open.spotify.com/album/6RshuQDgpUFzXUPyUMD9RZ"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 240600,
       "name": "Llorar\u00e9 Las Penas",
       "url": "https://open.spotify.com/track/0nub3NxxIMUJ56bBtM1sJ4"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "Un Toque De Misterio",
+        "url": "https://open.spotify.com/album/0PMcCZRXynocHn2Sw9fhXh"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 256399,
+      "name": "Me Va A Extranar",
+      "url": "https://open.spotify.com/track/5Ml0IYpDy6UEedeRjNrUKC"
     },
     {
       "added_at": "2022-03-15 03:49:22",

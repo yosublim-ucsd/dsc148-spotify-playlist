@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 135500,
       "name": "Case",
       "url": "https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID"
@@ -15682,17 +15682,13 @@
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
           "name": "Mohit Chauhan",
           "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
         }
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 321225,
       "name": "Tum Se Hi",
       "url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE"
@@ -16606,6 +16602,32 @@
     {
       "album": {
         "name": "Yadav Brand 2",
+        "url": "https://open.spotify.com/album/7ee5PlfgmGyU70CdxftTV2"
+      },
+      "artists": [
+        {
+          "name": "Sunny Yaduvanshi",
+          "url": "https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU"
+        },
+        {
+          "name": "AK Rok",
+          "url": "https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY"
+        },
+        {
+          "name": "Nitesh Ujoli",
+          "url": "https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174252,
+      "name": "Yadav Brand 2",
+      "url": "https://open.spotify.com/track/1AMD2AkfGrKoKhwkvYLbza"
+    },
+    {
+      "album": {
+        "name": "Yadav Brand 2",
         "url": "https://open.spotify.com/album/3pRiXGIvpgNrMQmK6AgJ3c"
       },
       "artists": [
@@ -16624,7 +16646,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 174252,
       "name": "Yadav Brand 2",
       "url": "https://open.spotify.com/track/4JvziZ2kQsbzfvRQtpYfmJ"

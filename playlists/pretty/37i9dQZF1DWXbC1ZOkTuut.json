@@ -1,12 +1,12 @@
 {
   "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: Junior H",
-  "num_followers": 6390,
+  "num_followers": 6486,
   "original_name": "New M\u00fasica Mexicana Albums",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGRlOTU5MzU2MDQ4YzBlYjZjYjMyMGE2Nzg3NDUwNTE0NTNkOTg5",
+  "snapshot_id": "MCxjMWViZTNkNzkwMjUwNWUzN2U3MjI4NWE5Y2I5MDg2ODI2MWU2YjI3",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -814,6 +814,10 @@
         {
           "name": "Omar Ruiz",
           "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+        },
+        {
+          "name": "Grupo Todo Terreno",
+          "url": "https://open.spotify.com/artist/5Iy2NYH4xPkGDOkAcd2Re2"
         }
       ],
       "duration_ms": 180640,
@@ -846,6 +850,10 @@
         {
           "name": "Omar Ruiz",
           "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+        },
+        {
+          "name": "Grupo Todo Terreno",
+          "url": "https://open.spotify.com/artist/5Iy2NYH4xPkGDOkAcd2Re2"
         }
       ],
       "duration_ms": 221106,

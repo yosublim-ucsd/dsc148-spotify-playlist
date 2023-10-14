@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world\. Cover: Mareux
 
-225 songs - 14 hr 8 min
+227 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Dust + Stars](https://open.spotify.com/track/3wtiqIopwLEsyE7i33ZhEg) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5), [Tima](https://open.spotify.com/artist/1rDy96MTvvmWDAbIg6B6o4) | [Dust + Stars](https://open.spotify.com/album/7fNP4uvFMfSz9jfRTbmRYo) | 4:17 | 2020-12-21 | 2023-09-01 |
 | [Ecstasy](https://open.spotify.com/track/4Sorp7a7ps9faLrKAzcwvX) | [Soviet Soviet](https://open.spotify.com/artist/5BC3lvcEEOqVrqMaPjYrgu) | [Fate](https://open.spotify.com/album/03ti9fj1guEvPZdYTAQ05D) | 3:03 | 2023-02-09 | 2023-09-01 |
 | [Eighties Goth Suicide Note](https://open.spotify.com/track/3qfzF9GbDPPOigPr19Vzo5) | [This Cold Night](https://open.spotify.com/artist/3pIO4LI39vyMYT9cou1B7j) | [We of Like Minds](https://open.spotify.com/album/0joWq7TAk9Lx4L953MZ810) | 2:50 | 2023-08-31 |  |
+| [Ekpyrosis](https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB) | [Lathe of Heaven](https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr) | [Bound By Naked Skies](https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1) | 2:52 | 2023-10-13 |  |
 | [Electric Groove](https://open.spotify.com/track/7Jh9J7M0yPVzn5DtNiVpVt) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Redline](https://open.spotify.com/album/0A9H0uAwdTCWNofsksO2fX) | 4:50 | 2020-12-21 | 2023-09-01 |
 | [Elements](https://open.spotify.com/track/38PAyLYynfJ8Mk4lEjSHSd) | [Jasper De Ceuster](https://open.spotify.com/artist/4E653XDFNhfX7sIlJWCiwb) | [Elements](https://open.spotify.com/album/4w2s1OoJMVJ6Ute1V4sue9) | 4:52 | 2020-12-21 | 2023-09-01 |
 | [Esta Noche Que Salí](https://open.spotify.com/track/3SN1eGZpzGJlFbnde0B6Sy) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [Esta Noche Que Salí](https://open.spotify.com/album/6mdB3Romt9Cx8ROwOaDs2Z) | 3:19 | 2023-08-31 |  |
@@ -94,6 +95,7 @@
 | [How to Slow a Dream](https://open.spotify.com/track/5IQ1lVitMg6YCNAH3EgOtL) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [How to Slow a Dream](https://open.spotify.com/album/0LCWCiU903ZdIXXwaE2iTh) | 2:57 | 2023-09-14 |  |
 | [Hoy Solo Quiero Odiar](https://open.spotify.com/track/6d4TnEhdm5ohWkhhV6D7zy) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Hoy Solo Quiero Odiar](https://open.spotify.com/album/026JhDvcnQ7E77tQZQFCbw) | 4:21 | 2023-04-28 |  |
 | [HUNNY](https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [BLEU](https://open.spotify.com/album/6woJYYYScksahP4fTIMhus) | 2:23 | 2023-08-31 |  |
+| [I THINK IM LOSING MY MIND](https://open.spotify.com/track/7GSRHm7qfwy4PH5KjBr9jM) | [DustBowlChampion](https://open.spotify.com/artist/151Si9irFNyY0kzsGNFuRc) | [I THINK IM LOSING MY MIND](https://open.spotify.com/album/3o68MTMJCZCmiiDzLxzVI7) | 3:36 | 2023-10-13 |  |
 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2023-08-31 |  |
 | [I Wish I Was You \- Twin Tribes Remix](https://open.spotify.com/track/62ZO1zdoApFON2JrBNi0Js) | [Creux Lies](https://open.spotify.com/artist/4njFqWD04BTvOrYBXuzv6i), [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [I Wish I Was You \(Twin Tribes Remix\)](https://open.spotify.com/album/0MBCszjF6PH5hbB3pnl7Vm) | 3:59 | 2023-08-31 |  |
 | [If Love Is Just a Word](https://open.spotify.com/track/3QVLxtGbyrzWDPdqlDNIo0) | [Bleib Modern](https://open.spotify.com/artist/2FCVB3cfCC0e3O8G7Gs8t6) | [All Is Fair in Love and War](https://open.spotify.com/album/7B13N33UUfGmh0s6pr5dBL) | 2:49 | 2023-02-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 30163,
+  "num_followers": 30171,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmRmYzU5Mzg0NDk3MTI0MDE0YWMyZDc0YTkyODIyZDRiNTJlN2Y0",
+  "snapshot_id": "MCw4MDllODNkYTYzYTM1ZjJiMWViNmE4OTk2Y2M5OWFlNTUwODM0Zjkz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Lei do Baile",
-        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        }
-      ],
-      "duration_ms": 212015,
-      "name": "Lei do Baile",
-      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Bulldozer",
         "url": "https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 301950,
       "name": "Bulldozer",
       "url": "https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Lei do Baile",
+        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
+      },
+      "artists": [
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        }
+      ],
+      "duration_ms": 212015,
+      "name": "Lei do Baile",
+      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -975,30 +975,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Jaiye (Aluna and Sigag Lauren Remix)",
-        "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "Sigag Lauren",
-          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
-        }
-      ],
-      "duration_ms": 221032,
-      "name": "Jaiye (Aluna and Sigag Lauren Remix)",
-      "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Billion Dollar Bitch (feat. Yung Baby Tate) [Swizzymack Remix]",
         "url": "https://open.spotify.com/album/5sBmlgY9QI82CYKHIFu3ww"
       },
@@ -1023,18 +999,50 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Jimmy Crooks",
-        "url": "https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG"
+        "name": "Jaiye (Aluna and Sigag Lauren Remix)",
+        "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
       },
       "artists": [
         {
-          "name": "Tricks",
-          "url": "https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Sigag Lauren",
+          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
         }
       ],
-      "duration_ms": 145711,
-      "name": "Jimmy Crooks",
-      "url": "https://open.spotify.com/track/5gRf48AnnCzltY9iYhE5p3"
+      "duration_ms": 221032,
+      "name": "Jaiye (Aluna and Sigag Lauren Remix)",
+      "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Snack Time",
+        "url": "https://open.spotify.com/album/3Z4pnbIrUyyOCDcQuHtzLG"
+      },
+      "artists": [
+        {
+          "name": "Byrell The Great",
+          "url": "https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO"
+        },
+        {
+          "name": "Princess Precious",
+          "url": "https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5"
+        },
+        {
+          "name": "Warren B",
+          "url": "https://open.spotify.com/artist/5ueGiF7STUbSpatHOgv2Rq"
+        }
+      ],
+      "duration_ms": 192694,
+      "name": "Da Function",
+      "url": "https://open.spotify.com/track/6r9QXipO2r5JbGQvFH0NU0"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1063,30 +1071,6 @@
       "duration_ms": 120333,
       "name": "Give It 2 Em - Remix",
       "url": "https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Snack Time",
-        "url": "https://open.spotify.com/album/3Z4pnbIrUyyOCDcQuHtzLG"
-      },
-      "artists": [
-        {
-          "name": "Byrell The Great",
-          "url": "https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO"
-        },
-        {
-          "name": "Princess Precious",
-          "url": "https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5"
-        },
-        {
-          "name": "Warren B",
-          "url": "https://open.spotify.com/artist/5ueGiF7STUbSpatHOgv2Rq"
-        }
-      ],
-      "duration_ms": 192694,
-      "name": "Da Function",
-      "url": "https://open.spotify.com/track/6r9QXipO2r5JbGQvFH0NU0"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1235,6 +1219,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "We from Baltimore",
+        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
+      },
+      "artists": [
+        {
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "Charles",
+          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
+        }
+      ],
+      "duration_ms": 131391,
+      "name": "Bitch We from Baltimore",
+      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Jersey",
         "url": "https://open.spotify.com/album/5EnJvSStUdPIIARqHW0LAG"
       },
@@ -1271,26 +1275,6 @@
       "duration_ms": 176640,
       "name": "I Miss The Club",
       "url": "https://open.spotify.com/track/1kGXL1YKRNgmTM1niMUsyO"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "We from Baltimore",
-        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
-      },
-      "artists": [
-        {
-          "name": "CalvoMusic",
-          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
-        },
-        {
-          "name": "Charles",
-          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
-        }
-      ],
-      "duration_ms": 131391,
-      "name": "Bitch We from Baltimore",
-      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1595,22 +1579,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Pepper Dem",
-        "url": "https://open.spotify.com/album/1gsMY3akSiEcBidWJm4tVi"
-      },
-      "artists": [
-        {
-          "name": "Magugu",
-          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Pepper Dem",
-      "url": "https://open.spotify.com/track/1KiXz5SBg7cAdzWSCwc90h"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Nights Into Mornings EP",
         "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
       },
@@ -1627,6 +1595,22 @@
       "duration_ms": 202439,
       "name": "Ga$ton Rasta",
       "url": "https://open.spotify.com/track/6YBiXXECi9ePcN6hToOpU1"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Pepper Dem",
+        "url": "https://open.spotify.com/album/1gsMY3akSiEcBidWJm4tVi"
+      },
+      "artists": [
+        {
+          "name": "Magugu",
+          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Pepper Dem",
+      "url": "https://open.spotify.com/track/1KiXz5SBg7cAdzWSCwc90h"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1655,42 +1639,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Get Freaky",
-        "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
-      },
-      "artists": [
-        {
-          "name": "TateKo",
-          "url": "https://open.spotify.com/artist/0mvV3dQKJObqwGdWszYW3K"
-        },
-        {
-          "name": "Da Yo Boyz",
-          "url": "https://open.spotify.com/artist/5hfqwT02GtAzIfY2Ea5lAp"
-        }
-      ],
-      "duration_ms": 178872,
-      "name": "Get Freaky",
-      "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
-        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
-      },
-      "artists": [
-        {
-          "name": "Traxman",
-          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
-        }
-      ],
-      "duration_ms": 290813,
-      "name": "Get Down Lil Bit - Street Bangers Factory 16",
-      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Blessed More Blessed (Dance Remixes)",
         "url": "https://open.spotify.com/album/1hGXMvwkZUCtD74eVowCMk"
       },
@@ -1711,6 +1659,42 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
+        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
+      },
+      "artists": [
+        {
+          "name": "Traxman",
+          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
+        }
+      ],
+      "duration_ms": 290813,
+      "name": "Get Down Lil Bit - Street Bangers Factory 16",
+      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Get Freaky",
+        "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
+      },
+      "artists": [
+        {
+          "name": "TateKo",
+          "url": "https://open.spotify.com/artist/0mvV3dQKJObqwGdWszYW3K"
+        },
+        {
+          "name": "Da Yo Boyz",
+          "url": "https://open.spotify.com/artist/5hfqwT02GtAzIfY2Ea5lAp"
+        }
+      ],
+      "duration_ms": 178872,
+      "name": "Get Freaky",
+      "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Bubbly",
         "url": "https://open.spotify.com/album/4tgYqNxOWopZY3jZNf42OI"
       },
@@ -1723,22 +1707,6 @@
       "duration_ms": 169146,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/21WEswbNVT85ni62l9WFqw"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Baukey Beats, Vol.1",
-        "url": "https://open.spotify.com/album/4Vf7cWF42OHvF3Y1FMIBq4"
-      },
-      "artists": [
-        {
-          "name": "Ben Hauke",
-          "url": "https://open.spotify.com/artist/1aBDI4nH6OfAkNyUX08O2V"
-        }
-      ],
-      "duration_ms": 556363,
-      "name": "Dep First Draft - Extended Mix",
-      "url": "https://open.spotify.com/track/2fLFMlD56yMvkbo3cV4EfX"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1767,6 +1735,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Baukey Beats, Vol.1",
+        "url": "https://open.spotify.com/album/4Vf7cWF42OHvF3Y1FMIBq4"
+      },
+      "artists": [
+        {
+          "name": "Ben Hauke",
+          "url": "https://open.spotify.com/artist/1aBDI4nH6OfAkNyUX08O2V"
+        }
+      ],
+      "duration_ms": 556363,
+      "name": "Dep First Draft - Extended Mix",
+      "url": "https://open.spotify.com/track/2fLFMlD56yMvkbo3cV4EfX"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Bedroom DJ Remixes",
         "url": "https://open.spotify.com/album/4dlycoHbcrvJS5nLvUf2fS"
       },
@@ -1787,26 +1771,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "FIJI WATER",
-        "url": "https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk"
-      },
-      "artists": [
-        {
-          "name": "MONEYONYOURMIND",
-          "url": "https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo"
-        },
-        {
-          "name": "40k",
-          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "FIJI WATER",
-      "url": "https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "BADBOI",
         "url": "https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN"
       },
@@ -1823,6 +1787,26 @@
       "duration_ms": 196535,
       "name": "BADBOI",
       "url": "https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "FIJI WATER",
+        "url": "https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk"
+      },
+      "artists": [
+        {
+          "name": "MONEYONYOURMIND",
+          "url": "https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo"
+        },
+        {
+          "name": "40k",
+          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "FIJI WATER",
+      "url": "https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1863,26 +1847,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "COME THRU",
-        "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "Dapper Dan Midas",
-          "url": "https://open.spotify.com/artist/1W4jo080Cbx8DJNRAz4TFP"
-        }
-      ],
-      "duration_ms": 189518,
-      "name": "COME THRU",
-      "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/7umROuCtAPm20KzC8PW6m5"
       },
@@ -1903,22 +1867,42 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "De Todo Se Aprende (Remix)",
-        "url": "https://open.spotify.com/album/2vOPkeXVZOiIXhr0HG7ceQ"
+        "name": "COME THRU",
+        "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
       },
       "artists": [
         {
-          "name": "G.Zamora",
-          "url": "https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F"
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
         },
         {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+          "name": "Dapper Dan Midas",
+          "url": "https://open.spotify.com/artist/1W4jo080Cbx8DJNRAz4TFP"
         }
       ],
-      "duration_ms": 361500,
-      "name": "De Todo Se Aprende - Yamil Remix",
-      "url": "https://open.spotify.com/track/1DFnhOVN66vUuCW0uKwLsO"
+      "duration_ms": 189518,
+      "name": "COME THRU",
+      "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/7giCBxYXyImrT0kjO9AI9u"
+      },
+      "artists": [
+        {
+          "name": "Patrick",
+          "url": "https://open.spotify.com/artist/5AsSAnDll3y5sw1XCAOFQv"
+        },
+        {
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/7Ccqeybj3TfDrc99XSmGk6"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1955,22 +1939,42 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/7giCBxYXyImrT0kjO9AI9u"
+        "name": "De Todo Se Aprende (Remix)",
+        "url": "https://open.spotify.com/album/2vOPkeXVZOiIXhr0HG7ceQ"
       },
       "artists": [
         {
-          "name": "Patrick",
-          "url": "https://open.spotify.com/artist/5AsSAnDll3y5sw1XCAOFQv"
+          "name": "G.Zamora",
+          "url": "https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F"
         },
         {
-          "name": "Nailah Blackman",
-          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
         }
       ],
-      "duration_ms": 203636,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/7Ccqeybj3TfDrc99XSmGk6"
+      "duration_ms": 361500,
+      "name": "De Todo Se Aprende - Yamil Remix",
+      "url": "https://open.spotify.com/track/1DFnhOVN66vUuCW0uKwLsO"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Eyes On Me (Solardo Remix)",
+        "url": "https://open.spotify.com/album/3t7TCJ10JcLJR6ZYqbRONr"
+      },
+      "artists": [
+        {
+          "name": "Chelley",
+          "url": "https://open.spotify.com/artist/67MzQRkLBlxU7fTlGjLRW8"
+        },
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "duration_ms": 150929,
+      "name": "Eyes On Me - Solardo Remix",
+      "url": "https://open.spotify.com/track/6h39dC39snLZDESOv5MV5U"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2003,26 +2007,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Eyes On Me (Solardo Remix)",
-        "url": "https://open.spotify.com/album/3t7TCJ10JcLJR6ZYqbRONr"
-      },
-      "artists": [
-        {
-          "name": "Chelley",
-          "url": "https://open.spotify.com/artist/67MzQRkLBlxU7fTlGjLRW8"
-        },
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        }
-      ],
-      "duration_ms": 150929,
-      "name": "Eyes On Me - Solardo Remix",
-      "url": "https://open.spotify.com/track/6h39dC39snLZDESOv5MV5U"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Alone Again",
         "url": "https://open.spotify.com/album/14RQ2XILeCYCowPJgwdvfh"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 195692,
       "name": "Alone Again",
       "url": "https://open.spotify.com/track/6dyYYx3awmMWPYvscFZkEU"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "DELETE",
+        "url": "https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6"
+      },
+      "artists": [
+        {
+          "name": "Jubilee",
+          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+        }
+      ],
+      "duration_ms": 376888,
+      "name": "DELETE",
+      "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
     }
   ],
   "unique_name": "Global Club Music",

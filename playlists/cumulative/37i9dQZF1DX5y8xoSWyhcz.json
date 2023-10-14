@@ -2653,7 +2653,7 @@
       "artists": [
         {
           "name": "Kinnaird",
-          "url": "https://open.spotify.com/artist/0csD4vo1AqbNJkm7b80BGg"
+          "url": "https://open.spotify.com/artist/5Ww1XCe2TLSKON08g6xboA"
         }
       ],
       "date_added": "2023-01-06",
@@ -3514,7 +3514,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 183878,
       "name": "Count on Me",
       "url": "https://open.spotify.com/track/0PJXUpD6Og6jy5gMv14knO"
@@ -7480,6 +7480,24 @@
       "duration_ms": 167036,
       "name": "Haunt You (feat. chloe moriondo)",
       "url": "https://open.spotify.com/track/3vgf7gtRKDFNqFRJm7nA0m"
+    },
+    {
+      "album": {
+        "name": "Haunt You Forever",
+        "url": "https://open.spotify.com/album/0UXp6gUppekbrL4zN2uvoW"
+      },
+      "artists": [
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139774,
+      "name": "Haunt You Forever",
+      "url": "https://open.spotify.com/track/0MNQOjeUl39sqTsARbOODk"
     },
     {
       "album": {
@@ -13418,7 +13436,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 162310,
       "name": "out of place",
       "url": "https://open.spotify.com/track/25bLY2lcGRFDlwLVImTdL4"
@@ -17289,6 +17307,24 @@
     },
     {
       "album": {
+        "name": "styrofoam",
+        "url": "https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML"
+      },
+      "artists": [
+        {
+          "name": "harper",
+          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184221,
+      "name": "styrofoam",
+      "url": "https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9"
+    },
+    {
+      "album": {
         "name": "Sucker",
         "url": "https://open.spotify.com/album/5FfRcwOd5DwsvSZlyAFfFp"
       },
@@ -19215,6 +19251,24 @@
     },
     {
       "album": {
+        "name": "Jardin",
+        "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210306,
+      "name": "Un Deux Trois",
+      "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
+    },
+    {
+      "album": {
         "name": "Hello Hi / Un Deux Trois",
         "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
       },
@@ -19226,7 +19280,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 210306,
       "name": "Un Deux Trois",
       "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
@@ -19778,7 +19832,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 177168,
       "name": "Waves Break",
       "url": "https://open.spotify.com/track/6mUS9fWrw2KZ1xbHSemUVi"

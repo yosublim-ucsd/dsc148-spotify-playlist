@@ -4,7 +4,7 @@
 
 > Only the hottest Hip Hop from Offset \(pictured\), Drake, Medikal, Doja Cat, and more...
 
-239 songs - 13 hr 2 min
+241 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 | 2023-02-23 | 2023-03-07 |
 | [In My Head](https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [In My Head](https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK) | 3:12 | 2022-11-10 | 2023-03-11 |
 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 | 2023-09-22 |  |
+| [Jennifer’s Body](https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:38 | 2023-10-12 |  |
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2023-05-05 |  |
 | [June 22nd](https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [June 22nd](https://open.spotify.com/album/3T94lLozmbIFa4BiHNtkjC) | 3:10 | 2023-06-23 |  |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-11-10 |  |
@@ -188,6 +189,7 @@
 | [ronda](https://open.spotify.com/track/4KWaXaEz7aWWfjUuz2fSAR) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [THE4MULA](https://open.spotify.com/album/2BkyteWXQ5grWLtwoE7ezX) | 3:03 | 2022-11-03 | 2022-11-11 |
 | [Sailor On The Moon \(feat\. IDK & KayCyy\)](https://open.spotify.com/track/0O4wHincVaptKiV2Rv7LhC) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Sailor On The Moon \(feat\. IDK & KayCyy\)](https://open.spotify.com/album/35lqamVUzvMaT91dR2q36f) | 3:13 | 2022-09-15 | 2022-11-04 |
 | [SAUCE \(feat\. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK\)](https://open.spotify.com/track/3jEWgcZ0K3mg9T2Iwp7jVR) | [Immaculate Taste](https://open.spotify.com/artist/7EqcUzt8S9Gh3nKcCZDXlE), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT), [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [SAUCE \(feat\. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK\)](https://open.spotify.com/album/12ErBakQQDRspBJCN3NulR) | 3:29 | 2023-05-05 | 2023-09-23 |
+| [SAY MY GRACE \(feat\. Travis Scott\)](https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:53 | 2023-10-12 |  |
 | [Search & Rescue](https://open.spotify.com/track/7INo35yvWnVY5PcEUlg1d4) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/2lFkZFJ1ibZfwqembA7Nof) | 4:32 | 2023-04-07 |  |
 | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG) | 4:09 | 2022-08-18 | 2023-09-30 |
 | [SHAQ & KOBE](https://open.spotify.com/track/02K2VtGdUG5fUlAQATEgE6) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [SHAQ & KOBE](https://open.spotify.com/album/4oekX6V7nkvYhjnbNSO7uA) | 3:39 | 2023-09-29 |  |

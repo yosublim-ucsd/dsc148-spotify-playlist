@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-426 songs - 1 day 2 hr 2 min
+427 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [28](https://open.spotify.com/track/4x83cYbV42NT0z1QkTj4TN) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [28](https://open.spotify.com/album/3rogb53wBCNjq4oHV7Dy5p) | 2:44 | 2023-02-21 | 2023-03-01 |
 | [A Beautiful Game](https://open.spotify.com/track/3j2KSKjenkrIsnoANPxV7V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Beautiful Game](https://open.spotify.com/album/2yFLu758P5VjG5ZyyHGSrp) | 3:35 | 2023-05-30 | 2023-09-20 |
 | [a little more time](https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [a little more time](https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi) | 3:30 | 2023-02-16 | 2023-05-01 |
+| [A Running Start](https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:21 | 2023-10-13 |  |
 | [A Running Start](https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [A Running Start](https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG) | 4:21 | 2023-10-05 |  |
 | [A Strange Kind Of Beautiful](https://open.spotify.com/track/6hm9OpcIiVgEWwEZuNuXDM) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Strange Kind Of Beautiful](https://open.spotify.com/album/3JJA08FKmwkI2tW7NQ1Hzx) | 3:32 | 2023-07-06 | 2023-08-16 |
 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 | 2022-12-15 |  |
@@ -249,7 +250,7 @@
 | [NAVY](https://open.spotify.com/track/5JAgoN0ZK8uIZXtFj1pxrR) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [NAVY](https://open.spotify.com/album/0lHJa75DcFWZSb0UAdRrDc) | 2:24 | 2023-01-13 | 2023-03-01 |
 | [Nervous \- Piano Version](https://open.spotify.com/track/1tkqPebWBh7xUbZmnI3W1e) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND \(Solo Piano Version\)](https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo) | 3:14 | 2023-02-07 | 2023-10-04 |
 | [Never Change](https://open.spotify.com/track/4DBYy2nBww42YBH13NRquK) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [4 \(The Pink Album\)](https://open.spotify.com/album/22r4tcO40GeOVicXUS2D9s) | 3:20 | 2023-01-19 | 2023-01-25 |
-| [Never Not \- Edit](https://open.spotify.com/track/3puLrG1rPAjC9SmTaJyaA2) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Never Not \(Edit\)](https://open.spotify.com/album/6smxm51Ys22ULtICU8Oth8) | 3:01 | 2023-05-25 |  |
+| [Never Not \- Edit](https://open.spotify.com/track/3puLrG1rPAjC9SmTaJyaA2) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Never Not \(Edit\)](https://open.spotify.com/album/6smxm51Ys22ULtICU8Oth8) | 3:01 | 2023-05-25 | 2023-10-14 |
 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 | 2022-12-22 |  |
 | [new day](https://open.spotify.com/track/7uVtYRoo4ZQX8LNBETpMkY) | [Cape of good hope](https://open.spotify.com/artist/71qVt23XtBAsadtjkBwjAZ) | [new day](https://open.spotify.com/album/1UwzyiMeZwNh3oGITGHm8u) | 3:44 | 2023-01-10 | 2023-01-18 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-10-20 | 2023-01-06 |

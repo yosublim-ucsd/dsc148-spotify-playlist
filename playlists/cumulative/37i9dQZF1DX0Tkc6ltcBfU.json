@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 151272,
       "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
       "url": "https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e"
@@ -2284,7 +2284,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 166578,
       "name": "Boyz Don't Cry",
       "url": "https://open.spotify.com/track/5VXGNoY8O9qRJUYMciPTfc"
@@ -3248,7 +3248,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 251698,
       "name": "College Girls",
       "url": "https://open.spotify.com/track/5997LrlUOfmL0WmiP2lti4"
@@ -3825,6 +3825,24 @@
     },
     {
       "album": {
+        "name": "DIAMONDS",
+        "url": "https://open.spotify.com/album/3m5SYU9sc2UavROz7QKU27"
+      },
+      "artists": [
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207945,
+      "name": "DIAMONDS",
+      "url": "https://open.spotify.com/track/0riALVv5w4g49cSDpvVLEo"
+    },
+    {
+      "album": {
         "name": "Diapers",
         "url": "https://open.spotify.com/album/6sNwECVSTPQloh3A4ZKnss"
       },
@@ -4120,6 +4138,28 @@
       "duration_ms": 179389,
       "name": "Do No Wrong (feat. Trippie Redd & PnB Rock)",
       "url": "https://open.spotify.com/track/7CxH1tODk6zn4VrqXmJ0MF"
+    },
+    {
+      "album": {
+        "name": "DO NOT DISTURB",
+        "url": "https://open.spotify.com/album/7u08JA7JYQNi7rgYve3w0V"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        },
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "DO NOT DISTURB",
+      "url": "https://open.spotify.com/track/06pDFA1R4GHG9DbzshvbA3"
     },
     {
       "album": {
@@ -5130,7 +5170,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 274558,
       "name": "Flavors of Karma",
       "url": "https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7"
@@ -5540,6 +5580,24 @@
       "duration_ms": 131909,
       "name": "Freedom of Speech (with J. Cole)",
       "url": "https://open.spotify.com/track/5pQZullzXsixizZmBcmXhy"
+    },
+    {
+      "album": {
+        "name": "From A Man",
+        "url": "https://open.spotify.com/album/3Ut8zKJlqFVRMqwcAww9bP"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207133,
+      "name": "From A Man",
+      "url": "https://open.spotify.com/track/3CUMd8XMv3LBSLrDrKoXQE"
     },
     {
       "album": {
@@ -5969,6 +6027,28 @@
     },
     {
       "album": {
+        "name": "Glizock & Wizop (feat. Key Glock)",
+        "url": "https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192508,
+      "name": "Glizock & Wizop (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0"
+    },
+    {
+      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/7glPCixt19lrdyGMIVxQJd"
       },
@@ -6140,7 +6220,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 153653,
       "name": "Got Da Sack (feat. G Herbo)",
       "url": "https://open.spotify.com/track/45hTjcwYQu4y6weOizcRAf"
@@ -6910,6 +6990,24 @@
       "duration_ms": 134666,
       "name": "Honey Bun",
       "url": "https://open.spotify.com/track/0oWL7FTlaA1YtsRRuiF4Xs"
+    },
+    {
+      "album": {
+        "name": "Hope You Know",
+        "url": "https://open.spotify.com/album/1Od4A4Vif26G3twKbIGJp2"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227184,
+      "name": "Hope You Know",
+      "url": "https://open.spotify.com/track/2Ge2ZhznMuO22wIQ9Z5Wql"
     },
     {
       "album": {
@@ -7946,6 +8044,24 @@
       "duration_ms": 174466,
       "name": "JEALOUSY (feat. Cardi B)",
       "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
+    },
+    {
+      "album": {
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158515,
+      "name": "Jennifer\u2019s Body",
+      "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
     },
     {
       "album": {
@@ -10793,6 +10909,24 @@
     },
     {
       "album": {
+        "name": "LET'S DO IT",
+        "url": "https://open.spotify.com/album/4I49kBApc9FV9oeAcIj9tK"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118356,
+      "name": "NO FINSTA",
+      "url": "https://open.spotify.com/track/59GEWDzQgCXM55aGZDWSrQ"
+    },
+    {
+      "album": {
         "name": "No Gun No Knife",
         "url": "https://open.spotify.com/album/2rwNRhPDhw6jwjRTAcd8wu"
       },
@@ -10808,6 +10942,24 @@
       "duration_ms": 212088,
       "name": "No Gun No Knife",
       "url": "https://open.spotify.com/track/6aR5ufkC3OlM66lJ43wcJU"
+    },
+    {
+      "album": {
+        "name": "No Hook 2",
+        "url": "https://open.spotify.com/album/4VnhVzYgluzloFMMY5cCf5"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "No Hook 2",
+      "url": "https://open.spotify.com/track/2eLrDMQnosvAOTzoZ8bRZZ"
     },
     {
       "album": {
@@ -13496,7 +13648,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 156734,
       "name": "RUMORS",
       "url": "https://open.spotify.com/track/1HSx1QVs1OypNtveGDa3fd"
@@ -13632,6 +13784,50 @@
       "duration_ms": 189310,
       "name": "Save Yours",
       "url": "https://open.spotify.com/track/20ONgMrt1QKEo1xRvyv8Jx"
+    },
+    {
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173253,
+      "name": "SAY MY GRACE (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
+    },
+    {
+      "album": {
+        "name": "FCK GIRL SZN",
+        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193426,
+      "name": "Say Too Much",
+      "url": "https://open.spotify.com/track/3ivlOgTCKS7zk1lXlZsebF"
     },
     {
       "album": {
@@ -14166,7 +14362,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 158585,
       "name": "SKED [Feat. Kenny Mason]",
       "url": "https://open.spotify.com/track/57WwGbbzcKCG4tF4LdJjU5"
@@ -14686,7 +14882,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 153769,
       "name": "Starstruck",
       "url": "https://open.spotify.com/track/7vlvtegZco6Jr9oKTLkVt2"
@@ -15356,7 +15552,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 158731,
       "name": "Swing My Doe (feat. BiC Fizzle)",
       "url": "https://open.spotify.com/track/4ZTbRGeqWhzv4T5gjcyoJE"
@@ -15440,7 +15636,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 175006,
       "name": "Talk To Em (feat. Veeze)",
       "url": "https://open.spotify.com/track/74oeFXv2DcW9VEAAVmNNhv"
@@ -16448,7 +16644,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 105600,
       "name": "TRICKIN'",
       "url": "https://open.spotify.com/track/1jBMZDuirIUrnXyhS2ExfB"
@@ -17272,7 +17468,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 222912,
       "name": "We Did It",
       "url": "https://open.spotify.com/track/5oPGSnMmza9IFsalYmY7dA"
@@ -17400,6 +17596,28 @@
       "duration_ms": 129269,
       "name": "What It Is",
       "url": "https://open.spotify.com/track/7D4HOXBTsFfC8IJc6UfjsY"
+    },
+    {
+      "album": {
+        "name": "What It Is?!",
+        "url": "https://open.spotify.com/album/2hpdfZUyxtuLLi5PHGC6nJ"
+      },
+      "artists": [
+        {
+          "name": "Pi\u2019erre Bourne",
+          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
+        },
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "What It Is?!",
+      "url": "https://open.spotify.com/track/4NgMDPV2mIh6MUkqkyNmP3"
     },
     {
       "album": {

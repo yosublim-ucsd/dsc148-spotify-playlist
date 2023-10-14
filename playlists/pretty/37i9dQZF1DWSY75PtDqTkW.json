@@ -1,12 +1,12 @@
 {
   "description": "Extra van je vrije tijd genieten voor jong en oud.",
-  "num_followers": 84089,
+  "num_followers": 84139,
   "original_name": "Quality Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGZhMmQ1ODU0ZWVlMWM3MWNjZmE1MjcwN2UwZTMyYjdjN2JmOWUw",
+  "snapshot_id": "MCw4MGQ0NTQ1MzExMTA1MGU5MmM4ZGUxZTljMjRjOTMyNzllNTdkODBh",
   "tracks": [
     {
       "added_at": "2023-07-20 15:40:53",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 256000,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "I Do Not Want What I Haven't Got",
-        "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 280040,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 179693,
       "name": "At Last",
       "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "I Do Not Want What I Haven't Got",
+        "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "For Once In My Life",
-        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 169800,
-      "name": "For Once In My Life",
-      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Tell Mama",
         "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 156653,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "For Once In My Life",
+        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Still Crazy After All These Years",
         "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 217346,
       "name": "50 Ways to Leave Your Lover",
       "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "All the Lost Souls",
-        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 280026,
-      "name": "1973",
-      "url": "https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Wheels Of Fire",
         "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 298333,
       "name": "White Room",
       "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "All the Lost Souls",
+        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 280026,
+      "name": "1973",
+      "url": "https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 256653,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 165333,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 256653,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Little Black Submarines",
-      "url": "https://open.spotify.com/track/1PXsUXSM3LF2XNSkmIldPb"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Atlantic Crossing",
         "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 277960,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Little Black Submarines",
+      "url": "https://open.spotify.com/track/1PXsUXSM3LF2XNSkmIldPb"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -2587,22 +2587,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223733,
-      "name": "Big Love - 2017 Remaster",
-      "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6LoXZrgX1DhvUN6hFhs0AW"
       },
@@ -2631,6 +2615,22 @@
       "duration_ms": 168666,
       "name": "You've Got The Love",
       "url": "https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223733,
+      "name": "Big Love - 2017 Remaster",
+      "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -2699,6 +2699,22 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
         "name": "Baggariddim",
         "url": "https://open.spotify.com/album/6UjYrQhvKY0dq6nos8TVc8"
       },
@@ -2719,22 +2735,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Make Way for Dionne Warwick",
         "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
       },
@@ -2751,18 +2751,18 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "The Rose",
-        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
       },
       "artists": [
         {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 221373,
-      "name": "The Rose",
-      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
+      "duration_ms": 178760,
+      "name": "Can't Stand Losing You",
+      "url": "https://open.spotify.com/track/6DjKJgwe9c90Bd2iya0fre"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -2783,18 +2783,18 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Outlandos D'Amour (Remastered 2003)",
-        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+        "name": "The Rose",
+        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
         }
       ],
-      "duration_ms": 178760,
-      "name": "Can't Stand Losing You",
-      "url": "https://open.spotify.com/track/6DjKJgwe9c90Bd2iya0fre"
+      "duration_ms": 221373,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -3007,22 +3007,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "The First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Ultimate Santana",
         "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
       },
@@ -3039,6 +3023,22 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "The First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
         "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
         "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
       },
@@ -3051,22 +3051,6 @@
       "duration_ms": 216266,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 291200,
-      "name": "Graceland",
-      "url": "https://open.spotify.com/track/51KKQAgYFoJHgVIuJWHdHb"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -3103,6 +3087,22 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 291200,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/51KKQAgYFoJHgVIuJWHdHb"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
         "name": "The Collection (Standard Edition)",
         "url": "https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg"
       },
@@ -3135,22 +3135,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Cold Fact",
-        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
-      },
-      "artists": [
-        {
-          "name": "Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "Sugar Man",
-      "url": "https://open.spotify.com/track/17nOJOcPbcl4sKzM2yyYDp"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Bat Out Of Hell II: Back Into Hell",
         "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
       },
@@ -3163,6 +3147,22 @@
       "duration_ms": 316466,
       "name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
       "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Cold Fact",
+        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Sugar Man",
+      "url": "https://open.spotify.com/track/17nOJOcPbcl4sKzM2yyYDp"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -3267,22 +3267,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Smooth Sailin'",
-      "url": "https://open.spotify.com/track/3jpeI1goQHPIwwCMxrLrwx"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Sweet Soul Music",
         "url": "https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC"
       },
@@ -3295,6 +3279,22 @@
       "duration_ms": 141066,
       "name": "Sweet Soul Music",
       "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Smooth Sailin'",
+      "url": "https://open.spotify.com/track/3jpeI1goQHPIwwCMxrLrwx"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -3351,22 +3351,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Half Mile Harvest",
-        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 240912,
-      "name": "Pain and Misery",
-      "url": "https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "So (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3"
       },
@@ -3379,6 +3363,22 @@
       "duration_ms": 311986,
       "name": "Sledgehammer - 2012 Remaster",
       "url": "https://open.spotify.com/track/4AUS8KNz7zX8XFu9L38GT0"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Half Mile Harvest",
+        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 240912,
+      "name": "Pain and Misery",
+      "url": "https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -3495,22 +3495,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Chicago 16 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1I5t0om003Ikyhs8Ks3t8C"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "Hard to Say I'm Sorry - 2009 Remaster",
-      "url": "https://open.spotify.com/track/5nDSJO4909uNzMcZH3CggS"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Silk Degrees (2023 Remaster)",
         "url": "https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI"
       },
@@ -3523,6 +3507,22 @@
       "duration_ms": 317788,
       "name": "Lowdown (2023 Remaster)",
       "url": "https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Chicago 16 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1I5t0om003Ikyhs8Ks3t8C"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "Hard to Say I'm Sorry - 2009 Remaster",
+      "url": "https://open.spotify.com/track/5nDSJO4909uNzMcZH3CggS"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -3767,22 +3767,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "A Best Of",
-        "url": "https://open.spotify.com/album/0XXuKabaVBTfsWOyudjzCK"
-      },
-      "artists": [
-        {
-          "name": "Sniff 'n' The Tears",
-          "url": "https://open.spotify.com/artist/3EPScT793Qw5hkf8tvVpRV"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "Driver's Seat",
-      "url": "https://open.spotify.com/track/0NJ2bXPlMzP7MIz2Bmr7g3"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "The Best Of Sonny & Cher",
         "url": "https://open.spotify.com/album/1Fq9UXS6HpZ1734bDrZBtP"
       },
@@ -3795,6 +3779,22 @@
       "duration_ms": 190080,
       "name": "I Got You Babe",
       "url": "https://open.spotify.com/track/6tMjtHEBwMkxslhOe9SHE8"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "A Best Of",
+        "url": "https://open.spotify.com/album/0XXuKabaVBTfsWOyudjzCK"
+      },
+      "artists": [
+        {
+          "name": "Sniff 'n' The Tears",
+          "url": "https://open.spotify.com/artist/3EPScT793Qw5hkf8tvVpRV"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Driver's Seat",
+      "url": "https://open.spotify.com/track/0NJ2bXPlMzP7MIz2Bmr7g3"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -3907,18 +3907,18 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Chuck E's In Love / On Saturday Afternoons In 1963 [Digital 45]",
-        "url": "https://open.spotify.com/album/3eeJPgqbLWERXFQyDh4SUC"
+        "name": "Rainy Nights",
+        "url": "https://open.spotify.com/album/0riotj9YpCNgBnszHMZuaC"
       },
       "artists": [
         {
-          "name": "Rickie Lee Jones",
-          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 209573,
-      "name": "Chuck E's in Love - 45 Version",
-      "url": "https://open.spotify.com/track/3F1MiFu5a1Y3Z9dQZhLTAo"
+      "duration_ms": 188146,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/0m8a2XvFa7KGSiywQq4fMX"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -3939,18 +3939,18 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Rainy Nights",
-        "url": "https://open.spotify.com/album/0riotj9YpCNgBnszHMZuaC"
+        "name": "Chuck E's In Love / On Saturday Afternoons In 1963 [Digital 45]",
+        "url": "https://open.spotify.com/album/3eeJPgqbLWERXFQyDh4SUC"
       },
       "artists": [
         {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
         }
       ],
-      "duration_ms": 188146,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/0m8a2XvFa7KGSiywQq4fMX"
+      "duration_ms": 209573,
+      "name": "Chuck E's in Love - 45 Version",
+      "url": "https://open.spotify.com/track/3F1MiFu5a1Y3Z9dQZhLTAo"
     },
     {
       "added_at": "2023-07-20 15:40:53",

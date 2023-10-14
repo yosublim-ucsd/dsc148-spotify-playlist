@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Holly Humberstone
 
-924 songs - 2 day 4 hr 17 min
+925 songs - 2 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,8 @@
 | [ILY2](https://open.spotify.com/track/6TFNpbspD3whCDW98LvMSY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [ILY2](https://open.spotify.com/album/3nBehmaH78kXLIQhImNnOH) | 3:45 | 2022-10-05 | 2022-10-13 |
 | [ILY2](https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [ILY2](https://open.spotify.com/album/5Z465xB0bAwR9qyhWEtE7k) | 3:45 | 2022-10-05 | 2022-11-02 |
 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 | 2022-09-06 | 2022-10-06 |
-| [Imposter Syndrome](https://open.spotify.com/track/2rM2dih5BTtMvVRLrcpLIW) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4fuT39LI3YOcS3dQXNA1IS) | 3:36 | 2023-10-04 |  |
+| [Imposter Syndrome](https://open.spotify.com/track/2rM2dih5BTtMvVRLrcpLIW) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4fuT39LI3YOcS3dQXNA1IS) | 3:36 | 2023-10-04 | 2023-10-14 |
+| [Imposter Syndrome](https://open.spotify.com/track/3wjEFPAe4ofrzlrbPy0WrC) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4yHhW0tJ06QGsIBSpFRchc) | 3:36 | 2023-10-04 |  |
 | [In Electric Blue](https://open.spotify.com/track/59nfNz6nsEt1ZizfZCouyG) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [The Love Invention](https://open.spotify.com/album/042rZgYJ5J3oTscBwQ8PPD) | 3:19 | 2023-08-02 | 2023-09-06 |
 | [In My Head](https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [In My Head](https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj) | 3:32 | 2023-04-04 | 2023-05-03 |
 | [In or Out](https://open.spotify.com/track/5lJ3su3EgMHDlXHRupe8B3) | [UNQ](https://open.spotify.com/artist/7Hc6MSUUX0xmLt3bn3hFDT) | [In or Out](https://open.spotify.com/album/4f6gkH2y97EARkrwCOeFBQ) | 2:11 | 2022-04-06 | 2022-05-05 |

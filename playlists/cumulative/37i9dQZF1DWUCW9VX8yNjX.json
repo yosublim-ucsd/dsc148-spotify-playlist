@@ -146,7 +146,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 232853,
       "name": "Agridulce",
       "url": "https://open.spotify.com/track/3du0NJZHBkvb2XVjnI2U4Q"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 200960,
       "name": "Agua Salada",
       "url": "https://open.spotify.com/track/0zpwifNScjNcCxcpwjQs5N"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 236666,
       "name": "Al Mayor de Los Fern\u00e1ndez (with Alejandro Fern\u00e1ndez & Vicente Fern\u00e1ndez Hijo)",
       "url": "https://open.spotify.com/track/0P1JUSl6Avzm2MESR86FAd"
@@ -208,7 +208,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 291106,
       "name": "Amor de Mi Alma",
       "url": "https://open.spotify.com/track/5EqCOJ1eCdTXU7S2ouz0dg"
@@ -270,7 +270,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 205320,
       "name": "Arrullo De Estrellas",
       "url": "https://open.spotify.com/track/4yalDD5kuqKZKI3z1rfWqD"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212720,
       "name": "Aunque Mal Paguen Ellas (with Roberto Carlos) - Remasterizado 2005",
       "url": "https://open.spotify.com/track/0k5Dw1ZT0rS8qw9e4laIlY"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 152487,
       "name": "Buscando el Olvido",
       "url": "https://open.spotify.com/track/56aRaS11MbGV9Co9mOKjdP"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192506,
       "name": "Como Queriendo y No",
       "url": "https://open.spotify.com/track/2wYa8fKaw4oBkBtjdFEvRE"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-03",
+      "date_removed": null,
       "duration_ms": 180529,
       "name": "Cuando Me Digas",
       "url": "https://open.spotify.com/track/2Ry1ma0GI7iRVe2je575HS"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 207533,
       "name": "Cuando M\u00e1s Te Amaba",
       "url": "https://open.spotify.com/track/0znMUux7ItGZNjOwEVzXYu"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182893,
       "name": "C\u00f3mo Agradecer",
       "url": "https://open.spotify.com/track/6IvVhryOV4LBXGNnoq8dID"
@@ -729,6 +729,28 @@
     },
     {
       "album": {
+        "name": "Deb\u00ed Suponerlo (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160367,
+      "name": "Deb\u00ed Suponerlo - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT"
+    },
+    {
+      "album": {
         "name": "Hecho En M\u00e9xico",
         "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
       },
@@ -744,6 +766,42 @@
       "duration_ms": 224120,
       "name": "Decepciones",
       "url": "https://open.spotify.com/track/6Ecm8kb3fP58vsFs252AUR"
+    },
+    {
+      "album": {
+        "name": "Dif\u00edcil Tu Caso",
+        "url": "https://open.spotify.com/album/4toyhAt9fgtGec8ZacJerj"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160386,
+      "name": "Dif\u00edcil Tu Caso",
+      "url": "https://open.spotify.com/track/6QAQyyDoacQPvSm1BfJtv2"
+    },
+    {
+      "album": {
+        "name": "Dime Qu\u00e9 Se Siente",
+        "url": "https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161373,
+      "name": "Dime Qu\u00e9 Se Siente",
+      "url": "https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS"
     },
     {
       "album": {
@@ -780,7 +838,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 201317,
       "name": "El Caballo de Mi Padre",
       "url": "https://open.spotify.com/track/7geALLlb83RRB8FX4BEBIw"
@@ -870,7 +928,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 237133,
       "name": "El Ni\u00f1o M\u00e1s Grande",
       "url": "https://open.spotify.com/track/1MmATLgKp0Q8aNbph1FV37"
@@ -888,7 +946,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 215080,
       "name": "El Privilegio de Amar",
       "url": "https://open.spotify.com/track/05lhZ4XA7TVvRvgK7MSQKp"
@@ -1018,7 +1076,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 247080,
       "name": "En la C\u00e1rcel de Tu Adi\u00f3s",
       "url": "https://open.spotify.com/track/1UuRO7NvUcB2bGYsukgebQ"
@@ -1036,7 +1094,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-27",
+      "date_removed": null,
       "duration_ms": 138346,
       "name": "En Lo Correcto",
       "url": "https://open.spotify.com/track/2ntKQlw7u1UrldD4Y3A9VD"
@@ -1137,6 +1195,28 @@
     },
     {
       "album": {
+        "name": "Felicidades",
+        "url": "https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189696,
+      "name": "Felicidades",
+      "url": "https://open.spotify.com/track/3RxqFMGljx897MC9yApidW"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Rom\u00e1ntico Que Nunca",
         "url": "https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud"
       },
@@ -1148,10 +1228,46 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210306,
       "name": "Flores Negras",
       "url": "https://open.spotify.com/track/5w4lrTtCsUDxYGmLkrXtDo"
+    },
+    {
+      "album": {
+        "name": "Fue Tan Poco Tu Cari\u00f1o",
+        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195466,
+      "name": "Fue Tan Poco Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
+    },
+    {
+      "album": {
+        "name": "Fue Un Placer Conocerte",
+        "url": "https://open.spotify.com/album/21iQWXoUvuh0fBhl5SSNW8"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181440,
+      "name": "Fue Un Placer Conocerte",
+      "url": "https://open.spotify.com/track/1ENcvYjUWvmljTILD5ewyi"
     },
     {
       "album": {
@@ -1184,7 +1300,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 244880,
       "name": "Hasta En Mis Huesos",
       "url": "https://open.spotify.com/track/1Mg9TGZPjLc9CCV2PonaO8"
@@ -1350,7 +1466,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 161982,
       "name": "Juro Que Nunca Volver\u00e9",
       "url": "https://open.spotify.com/track/1rfeGMVF5HvcsTdXVZGHwo"
@@ -1394,7 +1510,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 211319,
       "name": "La Dinast\u00eda Fern\u00e1ndez - La Derrota / Volver, Volver",
       "url": "https://open.spotify.com/track/25iwxsxU8XN3bX14JQWiKr"
@@ -1452,6 +1568,24 @@
       "duration_ms": 174360,
       "name": "La Ley del Monte",
       "url": "https://open.spotify.com/track/2qWPIc4TfXwTzw8cTNxgoI"
+    },
+    {
+      "album": {
+        "name": "Vicente Fern\u00e1ndez Le Canta a los Grandes Compositores de M\u00e9xico",
+        "url": "https://open.spotify.com/album/56sdl31mYCqHyb9lUwRvNM"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145732,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/66h0377lmeIXWMvisrAO90"
     },
     {
       "album": {
@@ -1574,7 +1708,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 174306,
       "name": "Las Llaves de Mi Alma",
       "url": "https://open.spotify.com/track/4MJsKXrA6U3NDR81Icvqzn"
@@ -1610,7 +1744,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198973,
       "name": "Lo Primero Que Har\u00eda",
       "url": "https://open.spotify.com/track/1zJUUvR9eoqyrVGxhtu6uF"
@@ -1700,7 +1834,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185360,
       "name": "Mata El Recuerdo",
       "url": "https://open.spotify.com/track/4gDTjvWcEVIJNrmutfpFTu"
@@ -1812,7 +1946,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 159840,
       "name": "Mezcal",
       "url": "https://open.spotify.com/track/2OB2qE2nRI9WGRkLtYrGwd"
@@ -1866,10 +2000,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192093,
       "name": "Mi \u00daltimo Fracaso",
       "url": "https://open.spotify.com/track/3hD65xSEGpWsGHs9XRmsB3"
+    },
+    {
+      "album": {
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/1mHnKPJaeo49qWrVILI3FO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161546,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/24QbEJdsRXdweLO7WHql3h"
     },
     {
       "album": {
@@ -1902,7 +2054,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 197600,
       "name": "Moreno",
       "url": "https://open.spotify.com/track/1vGRbBT2at9I46ok0RHMRh"
@@ -2129,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "No Es Que Me Quiera Ir",
+        "url": "https://open.spotify.com/album/0cIyRV5u303lYQM2QWUsIl"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244720,
+      "name": "No Es Que Me Quiera Ir",
+      "url": "https://open.spotify.com/track/6D0BBt7Rr25q0iAAafdCq3"
+    },
+    {
+      "album": {
         "name": "Dos Mundos - Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
       },
@@ -2158,7 +2328,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-19",
+      "date_removed": null,
       "duration_ms": 203346,
       "name": "No Lo Beses - Mariachi",
       "url": "https://open.spotify.com/track/5qMyOiRIQ9wXjiSYbBzm1Y"
@@ -2180,6 +2350,24 @@
       "duration_ms": 178626,
       "name": "No Me Platiques M\u00e1s",
       "url": "https://open.spotify.com/track/7IOufzEeB4dQ65pWrueGPu"
+    },
+    {
+      "album": {
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200200,
+      "name": "No Pude",
+      "url": "https://open.spotify.com/track/6QDzpxH89oCFzb5IgFmaJf"
     },
     {
       "album": {
@@ -2230,7 +2418,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182573,
       "name": "No Vuelvas por Favor",
       "url": "https://open.spotify.com/track/7eSM6EAwQO66cuE82Jd8s1"
@@ -2302,7 +2490,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209546,
       "name": "Para Nada",
       "url": "https://open.spotify.com/track/3HqDtfyluJxxNR9oWshJGp"
@@ -2346,7 +2534,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 236786,
       "name": "Para Sacarte De Mi Vida - Versi\u00f3n Norte\u00f1a",
       "url": "https://open.spotify.com/track/4itGUqG0j7mOHfAzTZSkAO"
@@ -2364,10 +2552,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Para Siempre - En Vivo",
       "url": "https://open.spotify.com/track/271KWDMsmn3f0JoFB1ol6w"
+    },
+    {
+      "album": {
+        "name": "Peca de Bonita",
+        "url": "https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147093,
+      "name": "Peca de Bonita",
+      "url": "https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9"
     },
     {
       "album": {
@@ -2548,7 +2754,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 181346,
       "name": "Pude - Live",
       "url": "https://open.spotify.com/track/3Yp7Rqe2sSNAjlWzRNNSMi"
@@ -2566,7 +2772,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175400,
       "name": "Puras Mentiras",
       "url": "https://open.spotify.com/track/529nofAnYNOdE4EYazFT3x"
@@ -2732,7 +2938,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 159160,
       "name": "Quiero Que Vuelvas - Live",
       "url": "https://open.spotify.com/track/3ksT9LcgbVR0QrEIguNDT1"
@@ -2858,7 +3064,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 173280,
       "name": "Reg\u00e1lame Esta Noche",
       "url": "https://open.spotify.com/track/0V0eGJNLJQXPkAp6RTVNmJ"
@@ -2938,7 +3144,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 169110,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/35j6SeFDo9Zyp3DT1euI9W"
@@ -2974,10 +3180,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 185653,
       "name": "Se Vende Un Caballo (Remasterizado)",
       "url": "https://open.spotify.com/track/4cgVJry6RX8rkxjR56Rkw2"
+    },
+    {
+      "album": {
+        "name": "Si Quieres",
+        "url": "https://open.spotify.com/album/1HXI2wijuioMYdbJ6G5cvR"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259186,
+      "name": "Si Quieres",
+      "url": "https://open.spotify.com/track/01tyWRSqMtwY3uSfYgMIjY"
     },
     {
       "album": {
@@ -3046,7 +3270,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 193493,
       "name": "Sombras - Sombras Nada M\u00e1s",
       "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
@@ -3148,7 +3372,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 157093,
       "name": "Te Acostumbraste",
       "url": "https://open.spotify.com/track/0KduQ09oGlWG27Y0W2wMD4"
@@ -3256,10 +3480,68 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 217986,
       "name": "Tienes Que Entender - Live",
       "url": "https://open.spotify.com/track/5AB3Q224aReRDYLIYVJss1"
+    },
+    {
+      "album": {
+        "name": "Todo Todo",
+        "url": "https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194066,
+      "name": "Todo Todo",
+      "url": "https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg"
+    },
+    {
+      "album": {
+        "name": "Tu Maniqu\u00ed",
+        "url": "https://open.spotify.com/album/7HkqbCqtwAFIbtgFyeIpRi"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154834,
+      "name": "Tu Maniqu\u00ed",
+      "url": "https://open.spotify.com/track/5XpvqqKEI3xWS4heKkXjb5"
+    },
+    {
+      "album": {
+        "name": "Vicente Fern\u00e1ndez Le Canta a los Grandes Compositores de M\u00e9xico",
+        "url": "https://open.spotify.com/album/56sdl31mYCqHyb9lUwRvNM"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197322,
+      "name": "T\u00fa Solo T\u00fa",
+      "url": "https://open.spotify.com/track/6rPMLKgRvCFKc5o1nYCtvu"
     },
     {
       "album": {
@@ -3274,7 +3556,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 235480,
       "name": "Un Beso A Medias",
       "url": "https://open.spotify.com/track/4VAoK0jOH7uLShGgJhZ5RR"
@@ -3322,6 +3604,24 @@
       "duration_ms": 173080,
       "name": "Un Mill\u00f3n de Primaveras",
       "url": "https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ"
+    },
+    {
+      "album": {
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
     },
     {
       "album": {
@@ -3408,7 +3708,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-06",
+      "date_removed": null,
       "duration_ms": 143760,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/6UDlA3NYx8BbDmrTcDozLy"

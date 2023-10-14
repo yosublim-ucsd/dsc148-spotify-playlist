@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal\. Cover: Within Temptation
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,600 likes - 80 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,533 likes - 80 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 23 | [Natural Born Killer](https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Natural Born Killer](https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb) | 3:25 |
 | 24 | [Pure Life Unfolds](https://open.spotify.com/track/0UGIbrYl917NPgAazPIOJ2) | [Temperance](https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J) | [Diamanti](https://open.spotify.com/album/0YFCj6Qvb78Ogj1NPZz1Cy) | 5:05 |
 | 25 | [Frozen](https://open.spotify.com/track/0s9S861lgoFOi4vXG3wsab) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Federica Lanna](https://open.spotify.com/artist/2l6anpRMp6T9iPMOlzkZUx) | [Frozen](https://open.spotify.com/album/5MWTGZcBF5bGoKZHI9p9xz) | 5:00 |
-| 26 | [On the Sea](https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [On the Sea](https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR) | 3:53 |
-| 27 | [Reincarnation](https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Reincarnation](https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ) | 4:09 |
-| 28 | [A Desert Throne](https://open.spotify.com/track/3m3xlb2rdYGX5CZj0A8DBX) | [Septicflesh](https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b) | [Modern Primitive](https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88) | 4:18 |
+| 26 | [A Desert Throne](https://open.spotify.com/track/3m3xlb2rdYGX5CZj0A8DBX) | [Septicflesh](https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b) | [Modern Primitive](https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88) | 4:18 |
+| 27 | [On the Sea](https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [On the Sea](https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR) | 3:53 |
+| 28 | [Reincarnation](https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Reincarnation](https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ) | 4:09 |
 | 29 | [Opus of the Night \(Ghost Requiem\) \(feat\. Tina Guo\)](https://open.spotify.com/track/08yNiukGEc21at2TakEvQT) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [The Awakening](https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE) | 5:47 |
 | 30 | [Son of Vengeance](https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [Glory for Salvation](https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i) | 5:46 |
 | 31 | [Interrogativa Cantilena](https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy), [Kevin Ridley](https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3) | [Interrogativa Cantilena](https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl) | 3:48 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 42 | [The Hanging Tree](https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Hanging Tree](https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG) | 3:46 |
 | 43 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 |
 | 44 | [Winter Is Coming](https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Winter Is Coming](https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN) | 4:37 |
-| 45 | [Love Reign O'er Me](https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Love Reign O'er Me](https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce) | 4:00 |
-| 46 | [Childhood](https://open.spotify.com/track/1CznPeF4zp76HqUmZk26dp) | [Dawn of Destiny](https://open.spotify.com/artist/6AOHVA5mVwHahUw5H4Fa45), [Chris Harms](https://open.spotify.com/artist/4iBB0ZxqxKEsGo6xbMuYVD) | [Of Silence](https://open.spotify.com/album/1dR6oYAK5YRVstm9q6AtA1) | 3:50 |
+| 45 | [Childhood](https://open.spotify.com/track/1CznPeF4zp76HqUmZk26dp) | [Dawn of Destiny](https://open.spotify.com/artist/6AOHVA5mVwHahUw5H4Fa45), [Chris Harms](https://open.spotify.com/artist/4iBB0ZxqxKEsGo6xbMuYVD) | [Of Silence](https://open.spotify.com/album/1dR6oYAK5YRVstm9q6AtA1) | 3:50 |
+| 46 | [Love Reign O'er Me](https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Love Reign O'er Me](https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce) | 4:00 |
 | 47 | [Fire](https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Fire](https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX) | 3:28 |
 | 48 | [Take My Hand \- Bonus Track](https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Take My Hand \(Bonus Track\)](https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq) | 3:09 |
 | 49 | [My Soul's Demise](https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [My Soul's Demise](https://open.spotify.com/album/4HaSyezw05cF8ujn3CS2Nz) | 4:24 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 60 | [My Shadow Self](https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [Phoenix](https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1) | 3:02 |
 | 61 | [The Bell](https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71) | [Eye of Melian](https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G), [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [The Bell](https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu) | 4:31 |
 | 62 | [Not All Those Who Wander Are Lost](https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH), [Melissa Bonny](https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb) | [Not All Those Who Wander Are Lost](https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65) | 4:46 |
-| 63 | [Experience](https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Experience](https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM) | 5:14 |
-| 64 | [We Are Legion](https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Are Legion](https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq) | 3:41 |
+| 63 | [We Are Legion](https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Are Legion](https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq) | 3:41 |
+| 64 | [Experience](https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Experience](https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM) | 5:14 |
 | 65 | [Holy Flaming Hammer of Unholy Cosmic Frost](https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Keeper of the Celestial Flame of Abernethy](https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh) | 4:35 |
 | 66 | [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 |
 | 67 | [The Hanging Tree](https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [The Hanging Tree](https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM) | 4:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [Queen of Shadow \(feat\. Paolo Ribaldini\)](https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Queen of Shadow](https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku) | 4:02 |
 | 80 | [Call of the North](https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t) | 6:24 |
 
-Snapshot ID: `MCwwNjE5NjRkNjlkZTAxNTFmZDQ4ODBlMjcwNTlhOTc0NDMzYzg0OWVl`
+Snapshot ID: `MCxmYzA0ZWE1MWRkN2ZjNmU0ZDk2MDAyNjMwZTdmMzc1M2MwNzU3ZjAz`

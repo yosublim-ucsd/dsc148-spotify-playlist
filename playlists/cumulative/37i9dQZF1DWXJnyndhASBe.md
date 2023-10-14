@@ -2,9 +2,9 @@
 
 ### [RAP GENERACJA](https://open.spotify.com/playlist/37i9dQZF1DWXJnyndhASBe)
 
-> Największe rapowe kawałki w tej chwili\. Cover: Sobel, Oki
+> Największe rapowe kawałki w tej chwili\. Cover: Mata
 
-71 songs - 3 hr 24 min
+72 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Felga](https://open.spotify.com/track/5WejXxDkYAb86sLa5QOg8m) | [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS) | [STYXXX](https://open.spotify.com/album/0jK4Jnbd1PylwYTh8SJkS7) | 3:26 | 2023-09-21 |  |
 | [Fluid](https://open.spotify.com/track/5E6Nv8QZblXpiFDQ8iSfE2) | [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS) | [Fluid](https://open.spotify.com/album/5Pj4GxjmJvDvzhrCSJXZsT) | 2:22 | 2023-10-05 |  |
 | [Gelato](https://open.spotify.com/track/5J8YMg4sdC4aRHjhumCrdc) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ) | [Gelato \| Makarena Freestyle](https://open.spotify.com/album/3DbluwO43NnzLLbVf2rj6M) | 3:15 | 2023-09-21 | 2023-09-26 |
+| [GiEwOnT](https://open.spotify.com/track/1fEh4NSXSaVhVGArLtxEiG) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [GiEwOnT](https://open.spotify.com/album/064ETxMz9Qnq5vfa9jOxUm) | 5:22 | 2023-10-13 |  |
 | [Grand Prix](https://open.spotify.com/track/3xnJpiD7nR1xonj3QxQvgE) | [Avi](https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [Grand Prix](https://open.spotify.com/album/35HvNMzdTNLKGDwUurvy3u) | 2:19 | 2023-09-28 |  |
 | [HAJ](https://open.spotify.com/track/5ur2O53q1gbXSUVCQAdXuJ) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [Huby](https://open.spotify.com/artist/4BB9sHpEah8e1QAn9ymgm7), [XVRY](https://open.spotify.com/artist/5w530387lfNHuVeuoGH5lt) | [HAJ](https://open.spotify.com/album/0Pr4UncSm2DdqGtSi1aS0f) | 3:16 | 2023-09-21 | 2023-10-13 |
 | [Hotel Maffija 3](https://open.spotify.com/track/4pjhE3Avv9UuZAfhF9JXgw) | [SB Maffija](https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG), [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Solar](https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb), [Tomb](https://open.spotify.com/artist/1Fr0Md8mOOg75V07Awv1G5), [Janusz Walczuk](https://open.spotify.com/artist/44FnIf8PhG6EQRIoENsXu3), [Lanek](https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG), [Jacuś](https://open.spotify.com/artist/1efYxTvCNTpqYqfiEsxawq), [po prostu Kajtek](https://open.spotify.com/artist/2kk3YwIOrWbZHk9O3HKNY3), [Bryan](https://open.spotify.com/artist/1JW9Q2DToFLptGpxXNKHWp), [Nypel](https://open.spotify.com/artist/4RkS90Z6Q6eZLmEIYbBtWX), [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [Szaran](https://open.spotify.com/artist/46O01Gw9HMk3vQtS9VvyGG), [Beteo](https://open.spotify.com/artist/0kh9Gvy9lGZsq84x7I37DC), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt), [TONY2000](https://open.spotify.com/artist/50DZAA9breZ3OYHSgXd5Yp), [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X), [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [Hotel Maffija 3](https://open.spotify.com/album/6R7fjHTZnokGgV7OPIUnU5) | 4:56 | 2023-09-21 |  |

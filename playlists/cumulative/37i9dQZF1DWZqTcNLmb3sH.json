@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side A",
+  "description": "Check out the latest hits from Sandalwood!\nCover : Ghost",
   "name": "Latest Kannada",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 207360,
       "name": "Aa Mugilinalli - From \"Naalkane Aayama\"",
       "url": "https://open.spotify.com/track/1lD1sZXVYKjjvnaTehESwb"
@@ -5778,6 +5778,32 @@
       "duration_ms": 238461,
       "name": "Endu Endendu (From \"Melody Drama\")",
       "url": "https://open.spotify.com/track/4jgZ5UlWaXv0MQHOKNzH9o"
+    },
+    {
+      "album": {
+        "name": "Ene Sikthu Malli Ninge (From \"Hejjaru\")",
+        "url": "https://open.spotify.com/album/2HkIz1WZgvs94wClpijeok"
+      },
+      "artists": [
+        {
+          "name": "Poornachandra Tejaswi S.V.",
+          "url": "https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX"
+        },
+        {
+          "name": "Harshapriya",
+          "url": "https://open.spotify.com/artist/124VVnT2v2M3Ucb5r099j2"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273230,
+      "name": "Ene Sikthu Malli Ninge (From \"Hejjaru\")",
+      "url": "https://open.spotify.com/track/6XaUnemvzyduP2zzFXifsV"
     },
     {
       "album": {
@@ -12919,6 +12945,36 @@
     },
     {
       "album": {
+        "name": "Naa Ready [From \"Leo (Kannada)\"]",
+        "url": "https://open.spotify.com/album/2Q3JxgvQbEWacIkcjVt3UT"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "L. V. Revanth",
+          "url": "https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB"
+        },
+        {
+          "name": "Roll Rida",
+          "url": "https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj"
+        },
+        {
+          "name": "Ritesh G Rao",
+          "url": "https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248181,
+      "name": "Naa Ready (From \"Leo (Kannada)\")",
+      "url": "https://open.spotify.com/track/3385GNbN3vSr53ePAIqo4M"
+    },
+    {
+      "album": {
         "name": "Daredevil Musthafa (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6RED4wqTEbC9xTcEs9NGs2"
       },
@@ -16365,6 +16421,32 @@
     },
     {
       "album": {
+        "name": "Oppisikolteeni (From \"Tiger Nageswara Rao\")",
+        "url": "https://open.spotify.com/album/1FCgiWpa7ic3elcMPdWKDz"
+      },
+      "artists": [
+        {
+          "name": "Ramya Bhat Abhyankar",
+          "url": "https://open.spotify.com/artist/0wqiIwWvYsOAcZdtJLMFO8"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Raghu Niduvalli",
+          "url": "https://open.spotify.com/artist/3XgLt0qMKO1yeg2MaEqx06"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Oppisikolteeni (From \"Tiger Nageswara Rao\")",
+      "url": "https://open.spotify.com/track/3XDiDgVmgQVQUxvQbE9pbO"
+    },
+    {
+      "album": {
         "name": "Oppisikolteeni (From \"Tiger Nageswara Rao\") (Kannada)",
         "url": "https://open.spotify.com/album/7knuC8FT3yxyrYk7juF7MO"
       },
@@ -16384,7 +16466,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 276000,
       "name": "Oppisikolteeni (From \"Tiger Nageswara Rao\") (Kannada)",
       "url": "https://open.spotify.com/track/7jKwaKM2Po25SEXHMl54Rk"
@@ -17938,8 +18020,8 @@
           "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
         },
         {
-          "name": "Siddartha Belmannu",
-          "url": "https://open.spotify.com/artist/5XfdsTcXpygFRC6dxjODBC"
+          "name": "Siddhartha Belmannu",
+          "url": "https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc"
         }
       ],
       "date_added": "2023-10-12",
@@ -19220,7 +19302,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 203571,
       "name": "Tagaru Palya Title Track (From \"Tagaru Palya\")",
       "url": "https://open.spotify.com/track/6zOCGdS0NEAPtnGrh2ntFT"

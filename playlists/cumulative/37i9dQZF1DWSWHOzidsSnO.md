@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen! En portada Briella.
 
-234 songs - 13 hr 2 min
+235 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [La Golondrina](https://open.spotify.com/track/3Cl33QcFC9RYKaCSgofRLR) | [Sara Acero](https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3) | [La Golondrina](https://open.spotify.com/album/5Z5sMwjSx1sWjfDF3k4vdu) | 3:09 | 2022-10-21 |  |
 | [La Golondrina](https://open.spotify.com/track/6C844QxMDqREFU36dK2JOd) | [Sara Acero](https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3) | [La Golondrina](https://open.spotify.com/album/4JduN8steJ6xSfzLPHFIHr) | 3:09 | 2022-01-05 | 2022-10-28 |
 | [La Golondrina](https://open.spotify.com/track/77jpUw61GGfLvV2leJ71re) | [Sara Acero](https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3) | [SOY](https://open.spotify.com/album/1MT2fFeo1P43UdB7eOBn0H) | 3:09 | 2022-11-02 | 2022-11-13 |
+| [La Loca](https://open.spotify.com/track/2sAelBo4scm2sS1HD6I1AB) | [Natalia Curvelo](https://open.spotify.com/artist/6RB9VgLciQKqdvLt2ZiMYX) | [1er Round](https://open.spotify.com/album/3oHg8DBYXPpjB3nMxUDWSP) | 3:25 | 2023-10-13 |  |
 | [La Macorina](https://open.spotify.com/track/3pske1T4sIKMsow2JqnNLK) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [La Macorina](https://open.spotify.com/album/1J1cxfagMyYDRt1eddsqic) | 3:10 | 2022-01-05 | 2022-10-06 |
 | [La Mitad](https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [La Mitad](https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r) | 2:36 | 2023-08-11 |  |
 | [La Parcera](https://open.spotify.com/track/5JWpcxLcC41EaKGOimEUlV) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [La Parcera](https://open.spotify.com/album/05kaSB2HeYy1t4aCmOeNWb) | 2:58 | 2022-01-05 | 2023-01-05 |
@@ -224,7 +225,7 @@
 | [Un Reflejo Breve](https://open.spotify.com/track/7yIGfIHePWeHCDGA97Qorp) | [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl) | [Un Reflejo Breve](https://open.spotify.com/album/3NrGokjjouRQlWe0g1BxVT) | 3:00 | 2022-05-31 |  |
 | [Una Noche Mas](https://open.spotify.com/track/0YvNCaMdtxglEGFNiT9qye) | [Paula Van Hissenhoven](https://open.spotify.com/artist/2SKYxZDXoclUKA70rGtha7) | [Una Noche Mas](https://open.spotify.com/album/3sdQd8UJGKdZZY0RrvUroK) | 3:55 | 2022-01-05 | 2023-01-05 |
 | [Unidas](https://open.spotify.com/track/6GHaBE6agqqTithZth0rkk) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2), [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT), [Naysha](https://open.spotify.com/artist/3twpCez0hiCslbriudLrxQ) | [Unidas](https://open.spotify.com/album/2UuopgokCMe4KDooWHzFeh) | 4:36 | 2023-08-02 | 2023-10-05 |
-| [Usted Ya Perdió](https://open.spotify.com/track/4QSapki0YhY3b1Wc1E49Ic) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t) | [Usted Ya Perdió](https://open.spotify.com/album/2sNQVKaUadzfu2fm6AI3HQ) | 3:00 | 2023-08-02 |  |
+| [Usted Ya Perdió](https://open.spotify.com/track/4QSapki0YhY3b1Wc1E49Ic) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t) | [Usted Ya Perdió](https://open.spotify.com/album/2sNQVKaUadzfu2fm6AI3HQ) | 3:00 | 2023-08-02 | 2023-10-14 |
 | [Vamos por el Magdalena](https://open.spotify.com/track/0doKRvScUdK3sByhEqUasG) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Vamos por el Magdalena](https://open.spotify.com/album/32h1Oyjs5teGmctWjhjRsc) | 3:50 | 2022-01-05 |  |
 | [Vente pa' cá](https://open.spotify.com/track/0OxasKT5YFWggCIeepem9L) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm), [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Vente pa' cá](https://open.spotify.com/album/6xXPuXBOAlGtbA2jJMfQvo) | 3:28 | 2023-02-01 | 2023-04-06 |
 | [Ver](https://open.spotify.com/track/6kGlYDjxxfJLKr7dfjAYQ5) | [REDNBLUE](https://open.spotify.com/artist/2fFmT5WlZr5EsPKyU1qGzG), [Luisa Quiroga](https://open.spotify.com/artist/41BvCh2pTbtXbK80QyZmcq) | [Ver](https://open.spotify.com/album/1SHTzLSuTJsOlZ2DYE5t6B) | 3:38 | 2022-05-04 | 2023-01-05 |

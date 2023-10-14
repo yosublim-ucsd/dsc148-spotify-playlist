@@ -576,7 +576,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 129795,
       "name": "agoraphobic",
       "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 140487,
       "name": "Belly of the Beast",
       "url": "https://open.spotify.com/track/3nx1LABlssQw0JCmHTWMn3"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 155673,
       "name": "BETTER OFF DEAD",
       "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
@@ -2448,7 +2448,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 158117,
       "name": "Cold (feat. CADE)",
       "url": "https://open.spotify.com/track/6vW6R25Gp5dbXKShm40gfg"
@@ -2996,7 +2996,7 @@
       ],
       "date_added": "2021-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 187093,
       "name": "Decompose",
       "url": "https://open.spotify.com/track/27CEjr4pHfwwC7Nk0YE1Vl"
@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 197902,
       "name": "Demons and Monsters",
       "url": "https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs"
@@ -3668,7 +3668,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 87408,
       "name": "dream girl",
       "url": "https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c"
@@ -4428,7 +4428,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 139633,
       "name": "falling apart (die young VIP)",
       "url": "https://open.spotify.com/track/4MSmRBs920YvYh4eYdE8lD"
@@ -5254,7 +5254,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 105257,
       "name": "get me high",
       "url": "https://open.spotify.com/track/3Ae3B51HUn4dRiJCFhNJFk"
@@ -5446,7 +5446,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 160090,
       "name": "Go Wild",
       "url": "https://open.spotify.com/track/3p2f3cjwWArheRaM1F231N"
@@ -5862,6 +5862,24 @@
       "duration_ms": 142329,
       "name": "Hate U",
       "url": "https://open.spotify.com/track/10qg46eZ0krwzwPDPYXK3a"
+    },
+    {
+      "album": {
+        "name": "Haunt You Forever",
+        "url": "https://open.spotify.com/album/0UXp6gUppekbrL4zN2uvoW"
+      },
+      "artists": [
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139774,
+      "name": "Haunt You Forever",
+      "url": "https://open.spotify.com/track/0MNQOjeUl39sqTsARbOODk"
     },
     {
       "album": {
@@ -7544,7 +7562,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 154640,
       "name": "it only gets worse, i promise",
       "url": "https://open.spotify.com/track/3Y1iVG5c7me95XqqFZY97x"
@@ -7826,7 +7844,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 249475,
       "name": "KILL CUPID",
       "url": "https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO"
@@ -8568,7 +8586,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 172307,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA"
@@ -9271,6 +9289,28 @@
     },
     {
       "album": {
+        "name": "mistake maker",
+        "url": "https://open.spotify.com/album/78I08Hokb2nM3HfVnEYraa"
+      },
+      "artists": [
+        {
+          "name": "sadeyes",
+          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
+        },
+        {
+          "name": "dempsey hope",
+          "url": "https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145937,
+      "name": "mistake maker",
+      "url": "https://open.spotify.com/track/2T368SCcj3uUeP4U7ZZcNl"
+    },
+    {
+      "album": {
         "name": "mistakes",
         "url": "https://open.spotify.com/album/069zTIsdWb6aEsBb5Hmxp0"
       },
@@ -9552,7 +9592,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 92160,
       "name": "MY HEAD :(",
       "url": "https://open.spotify.com/track/13Qe9Ad3zLm58cIb9n4YtG"
@@ -9606,7 +9646,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 141529,
       "name": "my world",
       "url": "https://open.spotify.com/track/4YC4jW8DAxwANQXJDMiDqh"
@@ -10376,6 +10416,28 @@
       "duration_ms": 85360,
       "name": "nuts (feat. rainy bear)",
       "url": "https://open.spotify.com/track/2SabxRgV7VMc1LRHgw0HIo"
+    },
+    {
+      "album": {
+        "name": "OBSESSION",
+        "url": "https://open.spotify.com/album/5iDnpF9CEPailzVcEpJT3G"
+      },
+      "artists": [
+        {
+          "name": "Parker Jack",
+          "url": "https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF"
+        },
+        {
+          "name": "Chyde",
+          "url": "https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171992,
+      "name": "OBSESSION",
+      "url": "https://open.spotify.com/track/5zUA4yEYCmpimdZhXS3L8p"
     },
     {
       "album": {
@@ -11422,7 +11484,7 @@
       ],
       "date_added": "2020-12-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 114200,
       "name": "PRIMADONA",
       "url": "https://open.spotify.com/track/2mM2XCzLaXtiKbqfFqtZOh"
@@ -11726,7 +11788,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 206270,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/1CIxzzS0nVJNfk5wuN2MjM"
@@ -12697,6 +12759,24 @@
     },
     {
       "album": {
+        "name": "UnderDog Tale",
+        "url": "https://open.spotify.com/album/5SL27P9vVdAYEniywJVRzE"
+      },
+      "artists": [
+        {
+          "name": "cr1tter",
+          "url": "https://open.spotify.com/artist/0A5sCOcNtMRg1oaU7XpsPR"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174630,
+      "name": "Shaun White",
+      "url": "https://open.spotify.com/track/7bcuO1wFvhjYErw3YHgJjI"
+    },
+    {
+      "album": {
         "name": "Goblin",
         "url": "https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO"
       },
@@ -13486,7 +13566,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 123445,
       "name": "Squash",
       "url": "https://open.spotify.com/track/4XCcz4Rdswrhg09Wk9D6QX"
@@ -13576,7 +13656,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 124556,
       "name": "Starfire (Teen Titans)",
       "url": "https://open.spotify.com/track/3sVxmnZEQO3L589itv1uik"
@@ -15406,7 +15486,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 177835,
       "name": "V12 (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy"
@@ -16678,6 +16758,24 @@
       "duration_ms": 182706,
       "name": "XO Tour Llif3",
       "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
+    },
+    {
+      "album": {
+        "name": "NOISE T.V",
+        "url": "https://open.spotify.com/album/3TxlPPVEkL4vlOcmpEJWLS"
+      },
+      "artists": [
+        {
+          "name": "LIL DUSTY G",
+          "url": "https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166971,
+      "name": "YELLOW NOISE",
+      "url": "https://open.spotify.com/track/41oClmFa1qJUCON9DD4SBg"
     },
     {
       "album": {

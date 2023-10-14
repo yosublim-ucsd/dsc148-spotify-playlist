@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-256 songs - 13 hr 57 min
+257 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Growing Old With You \- First Dance Version](https://open.spotify.com/track/1qVLRuFLEzl2hcC6lqLMuf) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You \(First Dance Version\)](https://open.spotify.com/album/5QANlPt4pDrn3MFfaQKyZD) | 3:12 | 2022-04-15 |  |
 | [Growing Up \(Are You Happy\) \- Acoustic](https://open.spotify.com/track/0Lt8VWHBGhXj0DlqjDwvVC) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Growing Up \(Acoustic\)](https://open.spotify.com/album/1WYMSj0rZC9flgjqreuf7M) | 2:31 | 2022-07-29 | 2022-09-12 |
 | [Half Of Me \- Acoustic](https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Half Of Me \(Acoustic\)](https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7) | 2:55 | 2023-01-06 |  |
-| [Handful \- Acoustic](https://open.spotify.com/track/7pAFcp3k95JFqAYNGQQMC4) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Handful / Already Broke Up](https://open.spotify.com/album/3ef62M5CFUa1tZ9rpKZuDS) | 2:42 | 2023-02-17 | 2023-05-24 |
+| [Handful \- Acoustic](https://open.spotify.com/track/7pAFcp3k95JFqAYNGQQMC4) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Handful / Already Broke Up](https://open.spotify.com/album/3ef62M5CFUa1tZ9rpKZuDS) | 2:42 | 2023-02-17 |  |
 | [Hard \- Live on the Grand](https://open.spotify.com/track/3R3IrdzoSYyI8cq9c4pcRg) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Hard \(Live on the Grand\)](https://open.spotify.com/album/3bMcMleKkLMqj7ZuRXnhxO) | 3:24 | 2022-06-17 | 2022-07-19 |
 | [Hard Things](https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Hard Things](https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH) | 4:23 | 2021-12-17 | 2023-02-19 |
 | [Hate Me More \(Stripped\)](https://open.spotify.com/track/1hDpmZBKX9zB9nNbTYYuR8) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Hate Me More \(Stripped\)](https://open.spotify.com/album/67woBHx9USLA5slgZq6y7C) | 2:40 | 2023-08-04 | 2023-09-24 |
@@ -228,7 +228,7 @@
 | [Under My Skin \- Stripped](https://open.spotify.com/track/5Reu0JKQYq7DiOnBAqrWhg) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Under My Skin \(Stripped\)](https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD) | 3:05 | 2022-07-15 |  |
 | [Under My Skin \- Stripped](https://open.spotify.com/track/5jZgXhm2cSQmOTDJQENojy) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Under My Skin \(Stripped\)](https://open.spotify.com/album/7216gXKQDpH8s38HJasmhS) | 3:05 | 2021-12-17 | 2022-07-29 |
 | [Us \(Acoustic\)](https://open.spotify.com/track/335YyFuHhO42xeENv3QT1a) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Us \(Acoustic\)](https://open.spotify.com/album/2JpnvFRNhalClaoZ4AbPuK) | 2:59 | 2022-04-01 |  |
-| [Waiting For You \- Acoustic](https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Studio 900 Sessions](https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK) | 3:05 | 2021-12-17 |  |
+| [Waiting For You \- Acoustic](https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Studio 900 Sessions](https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK) | 3:05 | 2021-12-17 | 2023-10-14 |
 | [Want It Again](https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 2:52 | 2022-07-15 |  |
 | [Want It Again](https://open.spotify.com/track/7KRcMPOGQA0WOw0T8qeXD7) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/54gUAvhpOHFDhHGAINyogO) | 2:52 | 2021-12-17 | 2022-07-29 |
 | [Watch Me Quit](https://open.spotify.com/track/6b9j8qFKyRDMF7BBcx4YLG) | [O'Shea](https://open.spotify.com/artist/194o33PqUyeBl8BCOImebX) | [Watch Me Quit](https://open.spotify.com/album/4DvaYpQR2MuYv8l7LsXROq) | 5:48 | 2021-12-17 | 2022-01-15 |
@@ -260,7 +260,8 @@
 | [You \- Acoustic](https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [You \(Acoustic\)](https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6) | 3:23 | 2022-08-12 |  |
 | [You and Jesus \- Acoustic](https://open.spotify.com/track/2dphPYc5468yOxlGZnf2VC) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg), [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [You and Jesus \(Acoustic\)](https://open.spotify.com/album/7LpFZjTCMspClEBy3J5vWO) | 2:46 | 2022-05-27 | 2022-07-15 |
 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 | 2021-12-17 | 2023-10-04 |
-| [You Don’t Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 | 2023-05-12 |  |
+| [You Don’t Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 | 2023-05-12 | 2023-10-14 |
+| [You Don’t Want That Smoke\. \- The Acoustic Version.](https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [You Don’t Want That Smoke\. \(The Acoustic Version.\)](https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D) | 3:20 | 2023-10-13 |  |
 | [You Shouldn't Have \- Acoustic](https://open.spotify.com/track/5yeccia0PoUhrNwbL6s4uO) | [Cale Dodds](https://open.spotify.com/artist/4PRfc0tn0HR0GhzWHHckLt) | [You Shouldn't Have \(Acoustic\)](https://open.spotify.com/album/53R4FtEIlu4fGpVI9GtI0r) | 2:46 | 2021-12-17 | 2022-07-10 |
 | [You, Me, And Whiskey \- Acoustic](https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [You, Me, And Whiskey \(Acoustic\)](https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5) | 3:07 | 2023-07-28 |  |
 | [Your Love \- Acoustic](https://open.spotify.com/track/1kFyV5C1VgCGvjLLQ33JXE) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Your Love \(Acoustic\)](https://open.spotify.com/album/4Y639kZECasYbeBqskDsKt) | 3:09 | 2023-08-18 | 2023-09-10 |

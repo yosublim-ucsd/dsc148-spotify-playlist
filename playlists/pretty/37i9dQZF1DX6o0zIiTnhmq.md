@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,545 likes - 50 songs - 13 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,651 likes - 50 songs - 13 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 22 | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/track/3cplraVhxGkrXNROQD62ko) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr) | 49:36 |
 | 23 | [Om Shanti: Mantra for Peace](https://open.spotify.com/track/0uRzptpVnUqMLvz7ZrhMgP) | [Ananda Vdovic](https://open.spotify.com/artist/0pyLDBws2r1CNSkLJol5tN), [Davor Vdovic](https://open.spotify.com/artist/19dzgXUMohaOgGPT3OzpAJ) | [Mantras for a Happy Life](https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k) | 3:00 |
 | 24 | [Om Sahana Vavatu \(Shanti Mantra\)](https://open.spotify.com/track/0qMsQ5dt3QUgA0iJiNCT5r) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF), [Miten](https://open.spotify.com/artist/4jrXM6oLQfV9L458Luwc3P), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Mantras for Life](https://open.spotify.com/album/74COwDRGbAiTH04LbYsYUP) | 2:03 |
-| 25 | [Green Tara Mantra](https://open.spotify.com/track/7yivO15nGU6ddIA93aQnUR) | [Dalai Lama](https://open.spotify.com/artist/6RXfTUnrji43vpU1AdK4up) | [Songs Of Tara](https://open.spotify.com/album/5hdeJwvfNrUPqm1BYRBVqv) | 7:24 |
+| 25 | [Green Tara Mantra](https://open.spotify.com/track/7yivO15nGU6ddIA93aQnUR) | [His Holiness The Dalai Lama](https://open.spotify.com/artist/7pXijXYl63Nj4YW1UlGEOB) | [Songs Of Tara](https://open.spotify.com/album/5hdeJwvfNrUPqm1BYRBVqv) | 7:24 |
 | 26 | [Om Gum Ganapatayei Namaha \(Removing of Obstacles\)](https://open.spotify.com/track/6GihlKiR0Q01NCG6UHa1y9) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF) | [Mantras for Precarious Times](https://open.spotify.com/album/1bSEZ4sgMJNKeP2sYyuwnX) | 8:12 |
 | 27 | [Hari Om Tat Sat](https://open.spotify.com/track/0xGwFiCoeGKds8btsxwWXs) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras & Chants](https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN) | 14:19 |
 | 28 | [OM \- 108 Times](https://open.spotify.com/track/1t5yedcqt2kacFRM8uXMwP) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [9 Golden Mantras](https://open.spotify.com/album/13IRm41CPRStJifiLLyIw1) | 31:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 49 | [Om Kali Mahakali Mantra](https://open.spotify.com/track/6guojIvZXradvsPLjc4zxZ) | [Chant Central](https://open.spotify.com/artist/1UmWJ4SpY4ZKxCtxJURHNI) | [Om Kali Mahakali Mantra](https://open.spotify.com/album/1uk8VuxxlSzBIKsPVpm2Qx) | 47:06 |
 | 50 | [Hari Om \- Edit](https://open.spotify.com/track/2f15VD8uiJDDEHbM17OmIv) | [Nisha Narsai](https://open.spotify.com/artist/1Ux83LKN1wlXdbKJhcpGEC) | [Om Sound Healing Music: Tibetan & Crystal Bowls with Deep Mantras for Yoga](https://open.spotify.com/album/5HDRlVQWc8iTXqRDlmQ37M) | 8:04 |
 
-Snapshot ID: `MCw1NTk3NGE5YTA2NDYzZjcwNmFiOGNhZjQ3YzI5NDZmNTQ4MDk1YmJm`
+Snapshot ID: `MCwyNGIyYjczZTI1YTIyY2VjOTlhOGQ3YmRkOTQwYmZkNTNkY2RiOGY3`

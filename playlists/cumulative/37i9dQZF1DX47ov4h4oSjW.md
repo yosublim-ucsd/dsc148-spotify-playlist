@@ -4,7 +4,7 @@
 
 > Music to help you concentrate during your homework.
 
-131 songs - 5 hr 57 min
+132 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Amalfi Moon](https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Amalfi Moon](https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz) | 2:31 | 2023-01-26 | 2023-03-13 |
 | [Ambre](https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Wintermusik](https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK) | 3:47 | 2023-01-26 |  |
 | [Amore](https://open.spotify.com/track/5IeHIsegjkCOEHUrbs8hrF) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [/05](https://open.spotify.com/album/1s8Esd8UoFFMGV6e8DCDix) | 5:09 | 2023-03-12 | 2023-09-03 |
+| [Amorzinho \- Piano Version](https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp) | [Tip Ferreira](https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw) | [Amorzinho \(Piano Version\)](https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ) | 3:36 | 2023-03-12 |  |
 | [Apology](https://open.spotify.com/track/4WuRXkwTMiOy0OuGPqOpD7) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Gloria](https://open.spotify.com/album/1xrFFEPBJp6zGo7WYCBIV1) | 2:55 | 2023-01-26 |  |
 | [As The Crow Flies](https://open.spotify.com/track/3Tny1IsUZeQyXJEwrzSYSp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Ripples on a Pond](https://open.spotify.com/album/2VNrWdvo3fG7HcQPOk5ZmX) | 1:36 | 2023-03-12 |  |
 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 | 2023-01-26 |  |
@@ -115,7 +116,7 @@
 | [Spheroidal](https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 3:04 | 2023-01-26 |  |
 | [Starry Sky](https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Starry Sky](https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe) | 2:20 | 2023-01-26 |  |
 | [Stay](https://open.spotify.com/track/39HXQGuVvKb1xk37coVqgb) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Stay](https://open.spotify.com/album/59jBPp7XmMmJqTLVmB1oxK) | 2:37 | 2023-03-12 |  |
-| [Story of You](https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:36 | 2023-01-26 |  |
+| [Story of You](https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:36 | 2023-01-26 | 2023-10-14 |
 | [Sunday Morning](https://open.spotify.com/track/0rlR7gBOx5jfIvVsPfGQsC) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Sunday Morning](https://open.spotify.com/album/0BNnVpYY4xnQkmUNEMUhuO) | 2:14 | 2023-01-26 |  |
 | [Sunlight](https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU) | [Alec Windt](https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW) | [In Love](https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm) | 2:15 | 2023-03-12 |  |
 | [Synchronicity](https://open.spotify.com/track/5wFGu1dl3Lw08doFu0gVmA) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Synchronicity](https://open.spotify.com/album/5W3dGpqFKJCRZxH0uCaXck) | 3:09 | 2023-01-26 | 2023-03-04 |

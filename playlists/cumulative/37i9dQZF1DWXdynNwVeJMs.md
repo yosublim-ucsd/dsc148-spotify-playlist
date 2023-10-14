@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: KAU
 
-187 songs - 16 hr 1 min
+188 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [Terra](https://open.spotify.com/track/49p4R37uHMMifLvIfAwb8X) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Terra](https://open.spotify.com/album/3KRzvDuX1dnsXmzyxF25lJ) | 11:19 | 2023-02-17 | 2023-03-26 |
 | [Terra](https://open.spotify.com/track/6z4iG45MiRRTnnXutPvi6A) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Dishwasher\_](https://open.spotify.com/album/5EQLnoq5Z8Qjr4FHF4VjxM) | 11:19 | 2023-04-13 |  |
 | [The Call of the Quagga Quagga](https://open.spotify.com/track/3mKokrtZqNAPfiAg0Jo30P) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Call Of The Quagga Quagga](https://open.spotify.com/album/2EvdjR9ghHhHNtypwGB8S8) | 6:50 | 2023-05-04 |  |
-| [The Dimmed](https://open.spotify.com/track/1ElYStai1Ik9NchUuuqR6s) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [The Dimmed](https://open.spotify.com/album/1CXm1pO5gXumW2K1x9wDhC) | 8:56 | 2023-06-23 |  |
+| [The Dimmed](https://open.spotify.com/track/1ElYStai1Ik9NchUuuqR6s) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [The Dimmed](https://open.spotify.com/album/1CXm1pO5gXumW2K1x9wDhC) | 8:56 | 2023-06-23 | 2023-10-14 |
+| [The Dimmed](https://open.spotify.com/track/6d1InEmfCNHQoK1ZCC1pjK) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [Thin Air \. Mirror Land](https://open.spotify.com/album/7sTfLYoudXX4vjSXn2lwYo) | 8:56 | 2023-10-06 |  |
 | [The Hordes](https://open.spotify.com/track/4Klyb5vlUOcwFy1NUfKFh4) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [Thin Air \. Mirror Land](https://open.spotify.com/album/7sTfLYoudXX4vjSXn2lwYo) | 8:16 | 2023-10-06 |  |
 | [The Lower 9th](https://open.spotify.com/track/4sjsivlGuXcRzZfkAnezAu) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc) | [Buy The Dip](https://open.spotify.com/album/0EWz9DeLZ0jF7b3kzrzA3j) | 3:59 | 2022-09-08 |  |
 | [The Quantities](https://open.spotify.com/track/41NMjKhLiukWNoNF2csOsk) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [The Quantities](https://open.spotify.com/album/6tBW03xdXTl5juo3u9RwB4) | 7:14 | 2023-09-07 | 2023-10-07 |

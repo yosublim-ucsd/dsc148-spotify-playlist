@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Population II
 
-137 songs - 8 hr 2 min
+138 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,13 +114,14 @@
 | [sadguitar\_V777.wav](https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [sadguitar\_V777.wav](https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq) | 3:57 | 2023-02-10 |  |
 | [Salaire Minimum](https://open.spotify.com/track/5FyydM82oQSSp2OBidKZBW) | [Sèxe Illégal](https://open.spotify.com/artist/5rWz0pTrCLoCPfQ68KFcH8) | [Spätkapitalismusik](https://open.spotify.com/album/41sPlypAmlnRQJOi4aisrH) | 2:50 | 2023-02-10 | 2023-02-19 |
 | [See You Soon](https://open.spotify.com/track/02QiB7pfuiK2ifgG9n0bjR) | [Sasha Cay](https://open.spotify.com/artist/70PKezrSmt6UkxyZU6ueHc) | [See You Soon](https://open.spotify.com/album/0a3FIHk0VYBaRU7VcwBotl) | 5:28 | 2023-06-16 | 2023-08-14 |
+| [Sentiments nouveaux](https://open.spotify.com/track/02eRQsM71rcXNZfbfvZoQO) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Comme dans un penthouse](https://open.spotify.com/album/12rLRy19o75nJG4cXKn2tR) | 3:33 | 2023-10-13 |  |
 | [Sentiments nouveaux](https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Sentiments nouveaux](https://open.spotify.com/album/3mgWiKYNpcaaESQCp8SKqH) | 3:33 | 2023-03-03 | 2023-08-06 |
 | [Sentiments nouveaux](https://open.spotify.com/track/6LM0rvYTRtleOizjQEmkQH) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Sentiments nouveaux](https://open.spotify.com/album/5gBFPLneuXdVVGTV6usDgb) | 3:33 | 2023-09-08 | 2023-09-26 |
 | [Shine](https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [Shine](https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra) | 2:11 | 2023-02-10 |  |
 | [Shoegaze](https://open.spotify.com/track/6t5COdf65qd8igj588vkET) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 3:22 | 2023-02-10 |  |
 | [Si oui ou non](https://open.spotify.com/track/0OPEi21gk2S0fg8yMRcews) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Si oui ou non](https://open.spotify.com/album/1BBSrtHVh6HuAmaOVgahGm) | 2:20 | 2023-06-02 | 2023-06-17 |
 | [Still Stained](https://open.spotify.com/track/5l6cpf17q2eIOzYQvbhtwa) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Still Stained](https://open.spotify.com/album/7yam2gXzNOxkeHDPZQOOPv) | 3:01 | 2023-06-30 | 2023-08-23 |
-| [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 | 2023-02-10 |  |
+| [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 | 2023-02-10 | 2023-10-14 |
 | [Sweet Montérégie](https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/62dJ6IUek4cuNPKhgYRaIr) | 3:49 | 2023-02-10 | 2023-08-03 |
 | [Ta yeule, toute va ben](https://open.spotify.com/track/2WSaDhLKwesu1YFWdFoB5u) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [Ta yeule, toute va ben](https://open.spotify.com/album/7czM4O7ElmQ8WOCrav1Vxf) | 2:24 | 2023-02-10 | 2023-03-25 |
 | [Tarantula](https://open.spotify.com/track/5Q69nHzNXnU4jpmwUsB4DK) | [Gus Englehorn](https://open.spotify.com/artist/5DL9yEXrWKddfCe8SxM08Z) | [Dungeon Master](https://open.spotify.com/album/2WA0YbN1rdESR8aRLcl5hM) | 3:26 | 2023-02-10 | 2023-03-27 |

@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 190059,
+  "num_followers": 190089,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjFiNmFmMWI4MmU4MTYxZTFiMTdlMTk4OWIzNWViMTI3ZWUxOWFl",
+  "snapshot_id": "MCw3M2IxYWE3N2E1YTc1OWJhOWI3YmI4YTg2MTBhOGRhZWQ2YTExOTlh",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/3HJQEeP94g2GypjB0YFUAq"
-      },
-      "artists": [
-        {
-          "name": "Days of August",
-          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
-        }
-      ],
-      "duration_ms": 267711,
-      "name": "1989",
-      "url": "https://open.spotify.com/track/2qOkpf7HmkRMwAkDDzDwcV"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Norwegian Black Metal",
         "url": "https://open.spotify.com/album/0hA4KCp77KhfgtQImMp9Rb"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 185545,
       "name": "Norwegian Black Metal",
       "url": "https://open.spotify.com/track/4i7iWfR241IqLTpoHPDtLE"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/3HJQEeP94g2GypjB0YFUAq"
+      },
+      "artists": [
+        {
+          "name": "Days of August",
+          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
+        }
+      ],
+      "duration_ms": 267711,
+      "name": "1989",
+      "url": "https://open.spotify.com/track/2qOkpf7HmkRMwAkDDzDwcV"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Postcards",
+        "url": "https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH"
+      },
+      "artists": [
+        {
+          "name": "Days of August",
+          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
+        }
+      ],
+      "duration_ms": 174553,
+      "name": "Van Gogh",
+      "url": "https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Joni Was Right",
         "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Postcards",
-        "url": "https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH"
-      },
-      "artists": [
-        {
-          "name": "Days of August",
-          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
-        }
-      ],
-      "duration_ms": 174553,
-      "name": "Van Gogh",
-      "url": "https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Dad Told Me",
         "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Palomino Deluxe (Child of Summer Edition)",
-        "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Angel - Acoustic String Version",
-      "url": "https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 299840,
       "name": "bl\u00f3mi",
       "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Palomino Deluxe (Child of Summer Edition)",
+        "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Angel - Acoustic String Version",
+      "url": "https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV"
     },
     {
       "added_at": "2023-10-12 22:00:00",

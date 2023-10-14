@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Edu Falaschi
 
-82 songs - 6 hr 8 min
+83 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Faster](https://open.spotify.com/track/3Q8fUwTH6tRIUfwLcZq3U8) | [Soulspell](https://open.spotify.com/artist/4YmdAxENgEABrxFj8zRSsA), [Talita Quintano](https://open.spotify.com/artist/6GaYWEd64lYBWbemxq0sP7), [Fábio Caldeira](https://open.spotify.com/artist/6p28jKesBQisadiTLVwCiS), [Victor Emeka](https://open.spotify.com/artist/7DICtuyHfL4tNDtM9AneG7) | [Faster](https://open.spotify.com/album/6iFeDARJar04FmDL4fz1aB) | 4:10 | 2023-07-14 |  |
 | [Fighting Gravity](https://open.spotify.com/track/0bLslvYS3YLWjzNarlieUn) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 4:56 | 2023-07-14 |  |
 | [Flanger Halen](https://open.spotify.com/track/6RF75LPULQRDy0jDq3TLIH) | [Vns Vinicius the Guitar Ripping](https://open.spotify.com/artist/6QAFhpCpL85jFpLSBeAJLj) | [Flanger Halen](https://open.spotify.com/album/7Mb5i8A5V3jdUDJIv9f2Ux) | 4:02 | 2023-07-14 |  |
+| [Gods Of The World](https://open.spotify.com/track/2iYBWJgNMqyezqWGUsPK6l) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Gods Of The World](https://open.spotify.com/album/2wignG8fzELVtVgMOOnifA) | 4:43 | 2023-10-13 |  |
 | [Hard Skool](https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Hard Skool](https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0) | 3:41 | 2023-07-14 |  |
 | [Hate](https://open.spotify.com/track/0ltqN1L7AMMXtGjVKgCDkM) | [antiSOCIAL](https://open.spotify.com/artist/07yUOyXATUrsJWEWQU7xBb) | [Hate](https://open.spotify.com/album/6qLPDR80q4SKtSUH3o6UWR) | 3:36 | 2023-07-14 |  |
 | [Hellbound](https://open.spotify.com/track/1qd22CNn9ik9JOM8EgCpaa) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Hellbound](https://open.spotify.com/album/43YguZtzaTAF4J7iiuVZtU) | 4:02 | 2023-07-14 |  |
@@ -66,7 +67,7 @@
 | [Shotgun Blues](https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:27 | 2023-07-14 |  |
 | [Skydiver of the Light](https://open.spotify.com/track/0cVaRVmnr2flEtuRK0wxba) | [Armored Dawn](https://open.spotify.com/artist/1oueQWyrcULGbpk0DyiqGf) | [Viking Zombie \(Deluxe Edition\)](https://open.spotify.com/album/4egyrkRkejuCzKoyOEpqYi) | 3:35 | 2023-07-14 |  |
 | [Slave New World](https://open.spotify.com/track/1rriJU19bJPPSZTkfnOEsH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Sepulquarta](https://open.spotify.com/album/3p9xh35Qupdic1CREgJUIz) | 2:55 | 2023-07-14 |  |
-| [Symptoms](https://open.spotify.com/track/6VMWyTf2jw2DmaquunqTuW) | [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [I JUST DON'T LOVE YOU ANYMORE](https://open.spotify.com/album/2QgLpBT2EWrF39esY0iIsy) | 3:28 | 2023-07-14 |  |
+| [Symptoms](https://open.spotify.com/track/6VMWyTf2jw2DmaquunqTuW) | [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [I JUST DON'T LOVE YOU ANYMORE](https://open.spotify.com/album/2QgLpBT2EWrF39esY0iIsy) | 3:28 | 2023-07-14 | 2023-10-14 |
 | [Tainted Love](https://open.spotify.com/track/0i8Tfa791mCIJAXVwc9NEf) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Tainted Love](https://open.spotify.com/album/3AQfYezv6vSxiWrnMyWere) | 3:02 | 2023-07-14 |  |
 | [Ted Jack](https://open.spotify.com/track/4CyvFtF2H7O7AXJm3boacu) | [King in the Belly](https://open.spotify.com/artist/1W9gBSPeYWtOy4Kbgud1R1) | [Ted Jack](https://open.spotify.com/album/0pZVvJd1Du4VocLZ1qbttu) | 3:31 | 2023-07-14 |  |
 | [Tenochtitlán](https://open.spotify.com/track/44tzuEVC6p9ldFBNC497vX) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz) | [Tenochtitlán](https://open.spotify.com/album/2uTIg4jj9u7EQslGtvHhqw) | 7:12 | 2023-08-18 |  |

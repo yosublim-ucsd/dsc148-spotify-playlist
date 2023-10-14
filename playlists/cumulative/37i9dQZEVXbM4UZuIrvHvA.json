@@ -444,7 +444,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 266847,
       "name": "8am in Charlotte",
       "url": "https://open.spotify.com/track/0w3Mfe4PIVjuFjJbe3OlYv"
@@ -4726,7 +4726,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 164142,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/4ZT0wGKwlJRjpMUuwZVy3p"
@@ -6552,7 +6552,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 155154,
       "name": "Fear Of Heights",
       "url": "https://open.spotify.com/track/53KaP77tkliz36LPxWGlWK"
@@ -7304,7 +7304,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -21812,7 +21812,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 213611,
       "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF"
@@ -22822,6 +22822,24 @@
       "duration_ms": 178359,
       "name": "\u0628\u0631\u0627\u06a4\u0648 \u0639\u0644\u064a\u0643",
       "url": "https://open.spotify.com/track/4QtFRUFS7BVi3OHUfmt2dP"
+    },
+    {
+      "album": {
+        "name": "\u0646\u0633\u0627\u0649",
+        "url": "https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235833,
+      "name": "\u0643\u0644\u0627\u0645 \u0639\u064a\u0646\u064a\u0647",
+      "url": "https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5"
     },
     {
       "album": {

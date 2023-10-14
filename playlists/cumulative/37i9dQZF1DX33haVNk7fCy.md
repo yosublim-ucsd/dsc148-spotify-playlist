@@ -4,7 +4,7 @@
 
 > When everything around you is falling apart.
 
-83 songs - 5 hr 31 min
+85 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 | 2023-05-15 |  |
 | [Asal Mein](https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein](https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK) | 3:44 | 2023-05-15 |  |
 | [Aziyat](https://open.spotify.com/track/5DEp8hauuZ45oG38YOkkQq) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Aziyat](https://open.spotify.com/album/45ClrZZAaxYdWMG5FqsjfB) | 3:41 | 2023-05-15 |  |
-| [Baarishein](https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/4ysOhipyMXKstywus51VXS) | 3:27 | 2023-05-15 |  |
+| [Baarishein](https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/4ysOhipyMXKstywus51VXS) | 3:27 | 2023-05-15 | 2023-10-14 |
+| [Baarishein](https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/2LeZ6oWQed5ewVUpyGJKDh) | 3:27 | 2023-10-09 |  |
 | [Banjaara](https://open.spotify.com/track/4eFnk661RcdOuH9ajiTO3j) | [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY) | [Ek Villain](https://open.spotify.com/album/3EkmvTqyKrnMw1WiVpsSwF) | 5:36 | 2023-05-15 |  |
 | [Beete Lamhein](https://open.spotify.com/track/0zQa7QXLpUZfrrsWbgDZll) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [The Train](https://open.spotify.com/album/1GFvChouNq6BNSjhSi6XKP) | 4:58 | 2023-05-15 |  |
 | [Beqadra](https://open.spotify.com/track/4LIQacKPUjto8rVlVuY09O) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Beqadra](https://open.spotify.com/album/5SGHD9oHkRZ2zkYDcfGqq5) | 3:03 | 2023-05-15 |  |
@@ -74,7 +75,8 @@
 | [O Bedardeya \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/track/0czcoKJbJt08NqKrvSbbz7) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [O Bedardeya \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/album/7kXEDaT5yy8IUT7Fmqs1i2) | 5:13 | 2023-05-15 |  |
 | [Phir Aur Kya Chahiye \(From "Zara Hatke Zara Bachke"\)](https://open.spotify.com/track/7Ky9U9iHjGBiRax3joCRDS) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabha Bhattacharya](https://open.spotify.com/artist/7uw9rkZ9mxuSBuURy86ERR) | [Phir Aur Kya Chahiye \(From "Zara Hatke Zara Bachke"\) \- Single](https://open.spotify.com/album/1skD49xUwXnHLMrlEKTo6j) | 4:26 | 2023-06-05 |  |
 | [Raaz Tera Mera](https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Raaz Tera Mera](https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK) | 3:28 | 2023-08-02 |  |
-| [Riha](https://open.spotify.com/track/6Ln89sczgIcAJXGAIdS94R) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Riha](https://open.spotify.com/album/6jL8rcC7NYpkHEBAjI4Zw6) | 4:47 | 2023-05-15 |  |
+| [Riha](https://open.spotify.com/track/54XrOdhUS2311wIt9m0OlD) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Riha](https://open.spotify.com/album/57CUE1rhe5wit99tVR2GzZ) | 4:47 | 2023-10-09 |  |
+| [Riha](https://open.spotify.com/track/6Ln89sczgIcAJXGAIdS94R) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Riha](https://open.spotify.com/album/6jL8rcC7NYpkHEBAjI4Zw6) | 4:47 | 2023-05-15 | 2023-10-14 |
 | [Rihaee](https://open.spotify.com/track/08CBQI14mZrISwe6MZwncj) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Rihaee](https://open.spotify.com/album/4E6LXR3qfiqiXZox6slosO) | 3:02 | 2023-08-17 |  |
 | [Rihaee](https://open.spotify.com/track/4y2QEmnp3DRgXjdbZfUs3X) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Rihaee](https://open.spotify.com/album/3T5JCm38jn7s7ZtpULyPP9) | 3:02 | 2023-05-15 | 2023-08-19 |
 | [Roke Na Ruke Naina \(From "Badrinath Ki Dulhania"\)](https://open.spotify.com/track/6jzUvO5F2fnOvYqCTMd5U1) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Heart Touching Songs](https://open.spotify.com/album/17tjOnr6MqgosUNRmThObQ) | 4:38 | 2023-05-15 |  |

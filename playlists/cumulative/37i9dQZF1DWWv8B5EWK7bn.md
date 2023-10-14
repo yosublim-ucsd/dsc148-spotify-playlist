@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-336 songs - 1 day 0 hr 4 min
+337 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Adkrog](https://open.spotify.com/track/7wpp45hkCqB7Atc4ZHCcg8) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Adkrog](https://open.spotify.com/album/5RhEQC5P2yUwkSboIgMYrC) | 4:16 | 2021-12-01 | 2022-07-29 |
 | [Adkrog \(feat\. Gareth Jones\)](https://open.spotify.com/track/3lUlEzMGJxmv0ByKeMiHKR) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Netra ken](https://open.spotify.com/album/1NFqI4bBcsvFY4XhZevTx2) | 4:16 | 2021-12-01 | 2022-11-13 |
 | [Adkrog \(feat\. Gareth Jones\)](https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [SEIM](https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8) | 4:16 | 2021-12-01 | 2023-03-04 |
+| [Afternoon X](https://open.spotify.com/track/3DdKYu9en4HzWUdg98bB9Z) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Afternoon X](https://open.spotify.com/album/6yUptnHXA1lRp48hWzXsUl) | 4:06 | 2023-10-13 |  |
 | [Ain't No Grave](https://open.spotify.com/track/5EioJrDfnqs6OiCTRxSGn1) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo) | [Ain't No Grave](https://open.spotify.com/album/3T3przz4Szk0vu6RSsncmk) | 4:00 | 2022-04-07 | 2022-07-20 |
 | [Al Revés \- feat\. Petite Amie](https://open.spotify.com/track/7MdUqzrHXeTk2zf55YXqM4) | [Charles Spearin](https://open.spotify.com/artist/3PEieAx7awxOPIdseRJuFb), [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Al Revés \(feat\. Petite Amie\)](https://open.spotify.com/album/4VP9sto7vsed9Qi6wjmklj) | 3:15 | 2022-04-09 | 2022-08-13 |
 | [Al Sur](https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Al Sur](https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy) | 3:18 | 2021-10-06 |  |
@@ -188,7 +189,7 @@
 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 | 2023-01-04 | 2023-05-23 |
 | [Milk](https://open.spotify.com/track/62ocXa3rr5qUWI3GAhWnaH) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 4:25 | 2022-09-21 | 2022-11-18 |
 | [MOONSTRUCK \(Nico's Song\)](https://open.spotify.com/track/34IYD8wQPrKsOcZgUS39Td) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [MERCY](https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0) | 5:31 | 2023-01-20 | 2023-03-18 |
-| [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 | 2023-03-30 |  |
+| [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 | 2023-03-30 | 2023-10-14 |
 | [Mouth](https://open.spotify.com/track/05cL1sVT4MNyBqBw3ef5vb) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Mouth](https://open.spotify.com/album/6pgLIoWlqTwulgAFoZhjve) | 4:01 | 2021-10-06 | 2022-10-06 |
 | [Máscara de Niña](https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Máscara de Niña](https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw) | 3:14 | 2023-03-23 | 2023-06-02 |
 | [Nada Es Real](https://open.spotify.com/track/4R1okSTH8zqxtfZMgyx7cr) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Nada Es Real](https://open.spotify.com/album/2Qi9MlTtbvoaoSxn5EvZmd) | 3:29 | 2022-07-29 | 2022-09-01 |

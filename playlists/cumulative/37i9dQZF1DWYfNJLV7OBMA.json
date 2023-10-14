@@ -5936,10 +5936,28 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 156014,
       "name": "Sidangana",
       "url": "https://open.spotify.com/track/1Hsj1FzBYIrwh2ZebxD4Nd"
+    },
+    {
+      "album": {
+        "name": "Sidangana",
+        "url": "https://open.spotify.com/album/6Po3z9GCNNNplTR68TGEJk"
+      },
+      "artists": [
+        {
+          "name": "D Mass",
+          "url": "https://open.spotify.com/artist/2PPDhgCub45ZoTyJ4dsPB8"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156014,
+      "name": "Sidangana",
+      "url": "https://open.spotify.com/track/2i0rmqAaFzM7URhq0dZsqu"
     },
     {
       "album": {

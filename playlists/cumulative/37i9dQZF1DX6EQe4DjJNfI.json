@@ -793,6 +793,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Vem",
+        "url": "https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC"
+      },
+      "artists": [
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177715,
+      "name": "Depois da Briga",
+      "url": "https://open.spotify.com/track/3Oec1XgUMdF58bIRlK40Qt"
+    },
+    {
+      "album": {
         "name": "Devi",
         "url": "https://open.spotify.com/album/0aomgOztLFDXdWKyZJyO02"
       },
@@ -2328,7 +2346,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 193014,
       "name": "Ponto de Equil\u00edbrio",
       "url": "https://open.spotify.com/track/7c4JagpZuj0wWkJmYMubyV"

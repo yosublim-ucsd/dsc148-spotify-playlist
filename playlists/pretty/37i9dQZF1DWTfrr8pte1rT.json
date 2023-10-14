@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Pendulum \\m/",
-  "num_followers": 318517,
+  "num_followers": 318490,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWQyZGM5YWJiYTEwOTdkNDVkZDQwMTA4MGRlOWJmZTJmNmY1NzAx",
+  "snapshot_id": "MCw0MzllY2NlYTcwZGQyMzZiNjgxMTY0N2RmNGU0ZDIxZmRkMTMyZGMy",
   "tracks": [
     {
       "added_at": "2023-09-29 13:15:03",
@@ -875,26 +875,6 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "Thrones of Blood",
-        "url": "https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        }
-      ],
-      "duration_ms": 165857,
-      "name": "Riot",
-      "url": "https://open.spotify.com/track/2npMfTDQAwY1Jga13HS01O"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
         "name": "Miss Anthropocene (Rave Edition)",
         "url": "https://open.spotify.com/album/2FQYkZIuXLy222CVzgPbQ0"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 195300,
       "name": "Violence - REZZ Remix",
       "url": "https://open.spotify.com/track/2khrbeiEg5R6jZwbJzR5OL"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
+        "name": "Thrones of Blood",
+        "url": "https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "duration_ms": 165857,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/2npMfTDQAwY1Jga13HS01O"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/6oh5zFZzFawNVHyo4lzhhX"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 197935,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/0jX4nQqJS7m1fHodsWKpp1"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
         "name": "Werewolf: Synthwave Edition",
         "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 211387,
       "name": "Werewolf: Synthwave Edition",
       "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/6oh5zFZzFawNVHyo4lzhhX"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 197935,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/0jX4nQqJS7m1fHodsWKpp1"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
-      },
-      "artists": [
-        {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
         "name": "LOVE ME",
         "url": "https://open.spotify.com/album/6xLWkNCe4smqDmI5XkK3Qb"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 139925,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+      },
+      "artists": [
+        {
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "Loving You Kills Me",
-        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 174657,
-      "name": "Loving You Kills Me",
-      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 230344,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
+        "name": "Loving You Kills Me",
+        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 174657,
+      "name": "Loving You Kills Me",
+      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "Let Them Only See Butterflies",
-        "url": "https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "SURRENDER PEACE!",
-      "url": "https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
         "name": "Baptize (Sullivan King Remix)",
         "url": "https://open.spotify.com/album/5uQbdtWsZJNZwD7MUFYwYj"
       },
@@ -1799,6 +1783,42 @@
       "duration_ms": 250241,
       "name": "Baptize - Sullivan King Remix",
       "url": "https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
+        "name": "Let Them Only See Butterflies",
+        "url": "https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "SURRENDER PEACE!",
+      "url": "https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
+        "name": "DANCEFLOOR",
+        "url": "https://open.spotify.com/album/1POG70eBb9W3K3BHhGKNMO"
+      },
+      "artists": [
+        {
+          "name": "NOISY",
+          "url": "https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "DANCEFLOOR",
+      "url": "https://open.spotify.com/track/1Pvq76uvP8iMC7K0BXNE1c"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -1843,26 +1863,6 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "DANCEFLOOR",
-        "url": "https://open.spotify.com/album/1POG70eBb9W3K3BHhGKNMO"
-      },
-      "artists": [
-        {
-          "name": "NOISY",
-          "url": "https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "DANCEFLOOR",
-      "url": "https://open.spotify.com/track/1Pvq76uvP8iMC7K0BXNE1c"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
         "name": "Hearteater",
         "url": "https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa"
       },
@@ -1879,30 +1879,6 @@
       "duration_ms": 217394,
       "name": "Hearteater",
       "url": "https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
-        "name": "demolition (Ruined by Glass Petals)",
-        "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
-      },
-      "artists": [
-        {
-          "name": "L\u016aN",
-          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        },
-        {
-          "name": "Glass Petals",
-          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "demolition (Ruined by Glass Petals)",
-      "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -1939,6 +1915,30 @@
       "duration_ms": 143180,
       "name": "Tear You Apart (feat. Aaron Gillespie)",
       "url": "https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
+        "name": "demolition (Ruined by Glass Petals)",
+        "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
+      },
+      "artists": [
+        {
+          "name": "L\u016aN",
+          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        {
+          "name": "Glass Petals",
+          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "demolition (Ruined by Glass Petals)",
+      "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -2059,6 +2059,26 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 209411,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
         "name": "Eyes Wide Shut",
         "url": "https://open.spotify.com/album/7pzzpWlSKjUoJm4cFCNynm"
       },
@@ -2079,22 +2099,22 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU"
+        "name": "Bad Luck",
+        "url": "https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q"
       },
       "artists": [
         {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
         },
         {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+          "name": "Kiz Keyz",
+          "url": "https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS"
         }
       ],
-      "duration_ms": 209411,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v"
+      "duration_ms": 171243,
+      "name": "Bad Luck",
+      "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -2119,26 +2139,6 @@
       "duration_ms": 169285,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/4d8cOyzUS9pOwLr259T0WW"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
-        "name": "Bad Luck",
-        "url": "https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q"
-      },
-      "artists": [
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        },
-        {
-          "name": "Kiz Keyz",
-          "url": "https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS"
-        }
-      ],
-      "duration_ms": 171243,
-      "name": "Bad Luck",
-      "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -2199,26 +2199,6 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "Don't Miss (The Bloody Beetroots Remix)",
-        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        },
-        {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
-      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
         "name": "Superhuman (with K.Flay)",
         "url": "https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs"
       },
@@ -2235,6 +2215,26 @@
       "duration_ms": 240044,
       "name": "Superhuman (with K.Flay)",
       "url": "https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
+        "name": "Don't Miss (The Bloody Beetroots Remix)",
+        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        },
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
+      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -2339,26 +2339,6 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "Favour",
-        "url": "https://open.spotify.com/album/2IyRXg2vo1lGbAEHvPo4H8"
-      },
-      "artists": [
-        {
-          "name": "LILO",
-          "url": "https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA"
-        },
-        {
-          "name": "Yung Honi",
-          "url": "https://open.spotify.com/artist/3YAIpWMMHRspIoz6yVJOeq"
-        }
-      ],
-      "duration_ms": 185250,
-      "name": "Favour",
-      "url": "https://open.spotify.com/track/3VmmsSRAhOr3MIWdMUdKjE"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/2bGQnP0JUPy0tL3MZq67kD"
       },
@@ -2375,6 +2355,26 @@
       "duration_ms": 283026,
       "name": "Crash",
       "url": "https://open.spotify.com/track/25SwJzzyuKCAHSIIcgYEjo"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/2IyRXg2vo1lGbAEHvPo4H8"
+      },
+      "artists": [
+        {
+          "name": "LILO",
+          "url": "https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA"
+        },
+        {
+          "name": "Yung Honi",
+          "url": "https://open.spotify.com/artist/3YAIpWMMHRspIoz6yVJOeq"
+        }
+      ],
+      "duration_ms": 185250,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/3VmmsSRAhOr3MIWdMUdKjE"
     },
     {
       "added_at": "2023-09-29 13:15:03",

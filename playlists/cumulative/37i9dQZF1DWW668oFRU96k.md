@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Robin Schulz x Rita Ora x Tiago PZK
 
-588 songs - 1 day 5 hr 20 min
+589 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Partly Cloudy](https://open.spotify.com/track/5hhVwJPPEB0gUvcohcx90K) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Partly Cloudy](https://open.spotify.com/album/2n7CxkctRVMmIQKB9hhDNi) | 2:48 | 2023-02-02 | 2023-02-17 |
 | [Party Jumpin'](https://open.spotify.com/track/2S5e00424Wsh4bVcvV8AKc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jamie Brown](https://open.spotify.com/artist/1itVP3ysVe9MMrYCeOKMsO) | [Party Jumpin'](https://open.spotify.com/album/2OCsxR71jK4ONRHTMacXRg) | 2:35 | 2023-02-02 | 2023-02-10 |
 | [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 | 2023-09-21 |  |
+| [Pepper](https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq) | [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Pepper](https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y) | 2:28 | 2023-10-12 |  |
 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 | 2023-07-06 | 2023-08-25 |
 | [Picture](https://open.spotify.com/track/6sa8gVh0m5qFMeqk9liyXD) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [Picture](https://open.spotify.com/album/0Vh5Eq6XcrKL9McjUIyyqd) | 3:18 | 2023-08-24 | 2023-09-29 |
 | [Pilot \(Feel Tonight\)](https://open.spotify.com/track/7qjFLz0faqGferF0I7u5PT) | [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8) | [Pilot \(Feel Tonight\)](https://open.spotify.com/album/43CcDN8KgjXdBtaHHLAN30) | 3:29 | 2023-08-17 | 2023-09-22 |
@@ -593,7 +594,7 @@
 | [You Are My Home](https://open.spotify.com/track/3KXLcrnmME6CvUlegIoCkC) | [WINARTA](https://open.spotify.com/artist/4pmANSOlqm7SAJ3Vfwfj8s), [Arcanix](https://open.spotify.com/artist/1e9ew3o3jyBLN3Rk9VjGIx), [Gabe Tarlton](https://open.spotify.com/artist/7s3T21uzMf3Z1Ft38znq44) | [Your Are My Home](https://open.spotify.com/album/5tGpUatdiNYsfFVxUhPYSj) | 3:31 | 2023-02-02 | 2023-02-10 |
 | [You Came Along \(feat\. Laura White\)](https://open.spotify.com/track/4ro1RwjSZmhm2b0asqjxQd) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Life Begins After Dark](https://open.spotify.com/album/1IA3CdlBxrnTdJUDoP1Sfb) | 2:27 | 2023-02-23 | 2023-03-31 |
 | [You feel like home](https://open.spotify.com/track/0ZPZalswtCCkA0h2EpiyR2) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [You feel like home](https://open.spotify.com/album/4cGlubuV6TsFImYORCOqhs) | 3:24 | 2023-08-31 | 2023-09-29 |
-| [You're So Cold](https://open.spotify.com/track/0k4Ntfwh6jqxnyenlsuy6d) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA) | [You're So Cold](https://open.spotify.com/album/1VirA73LPzNcJLgLWS4rqZ) | 2:33 | 2023-10-12 |  |
+| [You're So Cold](https://open.spotify.com/track/0k4Ntfwh6jqxnyenlsuy6d) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [You're So Cold](https://open.spotify.com/album/1VirA73LPzNcJLgLWS4rqZ) | 2:33 | 2023-10-12 |  |
 | [Your Love](https://open.spotify.com/track/5jNbxkv1A74xQgsFgl46Nl) | [Edmondsski](https://open.spotify.com/artist/20IbhrhIDkUiCP3GfT61FZ), [A17N](https://open.spotify.com/artist/0NBnxtO7THIQ1yZKiO4y3j) | [Your Love](https://open.spotify.com/album/7JSL5BGUc0Lf9I8MogUpwg) | 2:17 | 2023-09-21 |  |
 | [Zoochi](https://open.spotify.com/track/2espjuhoZe71BgCQxfOn0J) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Roc'Well](https://open.spotify.com/artist/24ymM2hmciAJvXw8mrXqY1), [Slayrizz](https://open.spotify.com/artist/2g9SWtMYaTDIqWxaOBe495) | [Zoochi](https://open.spotify.com/album/21U979qpumNTHc2J0nW1ZY) | 2:24 | 2023-05-18 | 2023-06-23 |
 

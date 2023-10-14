@@ -1,15 +1,111 @@
 {
   "description": "Let's DIVE into IVE.",
-  "num_followers": 74915,
+  "num_followers": 75296,
   "original_name": "This Is IVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmNhN2QxODBkZGY5OGU4MDQ4NTg5OGExZjY3NjY3OGVkYjU2Mjgx",
+  "snapshot_id": "MCxjMjhiOGY0OTRmMWUzZDAwZWVkOWI0OThkOTFlZjJjZjVjMWU4MDIw",
   "tracks": [
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
+      "album": {
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 154360,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
+    },
+    {
+      "added_at": "2023-10-13 07:52:05",
+      "album": {
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 188733,
+      "name": "Off The Record",
+      "url": "https://open.spotify.com/track/6TNx6kHZeVDByUNMVxkAfa"
+    },
+    {
+      "added_at": "2023-10-13 07:52:05",
+      "album": {
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 166946,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/5c1EubDxHdulbausF5CpX5"
+    },
+    {
+      "added_at": "2023-10-13 07:52:05",
+      "album": {
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Holy Moly",
+      "url": "https://open.spotify.com/track/5q288Nbf39kqh2HtI2H2op"
+    },
+    {
+      "added_at": "2023-10-13 07:52:05",
+      "album": {
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 157186,
+      "name": "OTT",
+      "url": "https://open.spotify.com/track/0ANTnEM0En14CMHPxs0MZj"
+    },
+    {
+      "added_at": "2023-10-13 07:52:05",
+      "album": {
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 188213,
+      "name": "Payback",
+      "url": "https://open.spotify.com/track/1RYK0mKtwjWaNLe7Mi6jYN"
+    },
+    {
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "Off The Record",
         "url": "https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW"
@@ -25,7 +121,7 @@
       "url": "https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "Either Way",
         "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
@@ -41,7 +137,7 @@
       "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "I WANT",
         "url": "https://open.spotify.com/album/1BxRutqDtvMJfiovw76gxe"
@@ -57,7 +153,7 @@
       "url": "https://open.spotify.com/track/1Xnha5ko8j7yY8O3ATe0Vs"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "WAVE",
         "url": "https://open.spotify.com/album/0ygvUJDV0PK3Sz3f7njaaA"
@@ -73,7 +169,7 @@
       "url": "https://open.spotify.com/track/2FNgoGLkE4AAOtYkQfiVL4"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
@@ -89,7 +185,7 @@
       "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
@@ -105,7 +201,7 @@
       "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
@@ -121,7 +217,7 @@
       "url": "https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
@@ -137,7 +233,7 @@
       "url": "https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
@@ -153,7 +249,7 @@
       "url": "https://open.spotify.com/track/171vXOYrexGMVNEMA5rs00"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
@@ -169,7 +265,7 @@
       "url": "https://open.spotify.com/track/2wsRZURBbDbaQUuVT9piu1"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
@@ -185,7 +281,7 @@
       "url": "https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
@@ -201,7 +297,7 @@
       "url": "https://open.spotify.com/track/05aq7OhxdoLiUKOigmiqcj"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
@@ -217,7 +313,7 @@
       "url": "https://open.spotify.com/track/5vYsQareJoW2jRJjiTFo6K"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
@@ -233,7 +329,7 @@
       "url": "https://open.spotify.com/track/3cw6T3OEgqLiqEDLDQPSnE"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
@@ -249,7 +345,7 @@
       "url": "https://open.spotify.com/track/3L7pilDxJhZz1fP6t4D9P9"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
@@ -265,7 +361,7 @@
       "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk"
@@ -281,7 +377,7 @@
       "url": "https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "LOVE DIVE -Japanese version-",
         "url": "https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX"
@@ -297,7 +393,7 @@
       "url": "https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "ELEVEN -Japanese version-",
         "url": "https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN"
@@ -313,7 +409,7 @@
       "url": "https://open.spotify.com/track/3bXYYgpCaYZBud2fB3I4ex"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "ELEVEN -Japanese version-",
         "url": "https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN"
@@ -329,7 +425,7 @@
       "url": "https://open.spotify.com/track/4tG2c8LP7J0EsfQ8gKLm7q"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "After LIKE",
         "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
@@ -345,7 +441,7 @@
       "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "After LIKE",
         "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
@@ -361,7 +457,7 @@
       "url": "https://open.spotify.com/track/3Owz3vrIE44Hvt0sLsfwHI"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "LOVE DIVE",
         "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
@@ -377,7 +473,7 @@
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "LOVE DIVE",
         "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
@@ -393,7 +489,7 @@
       "url": "https://open.spotify.com/track/0LMdtBOxbVgrYoA4n0Vwvv"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
@@ -409,7 +505,7 @@
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
@@ -425,7 +521,7 @@
       "url": "https://open.spotify.com/track/70EfheCNy3zOrcT2meMQ1g"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "Blue & Black",
         "url": "https://open.spotify.com/album/5n3Ny3eqXdOY4NzQCXsykh"
@@ -461,7 +557,7 @@
       "url": "https://open.spotify.com/track/43BSk6dOW6THSGe4PyxNSn"
     },
     {
-      "added_at": "2023-10-06 07:28:01",
+      "added_at": "2023-10-13 07:52:05",
       "album": {
         "name": "Move Like This (Feat. YUNA KIM)",
         "url": "https://open.spotify.com/album/18zHgBBbSGZ90hu1mJmvFQ"

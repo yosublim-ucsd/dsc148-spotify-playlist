@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Lori McKenna",
-  "num_followers": 194734,
+  "num_followers": 194577,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2ZkNTVmYTY4MzE0Y2FiZmMxYzlhZmRhYjQxM2U2NWU0ZGIzZjgx",
+  "snapshot_id": "MCxmNzQ2MGMzOGMyMDA1NGQxYzFjYWI0ZWI4ZWY3YjY0MWFmMmY1OTA3",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Tarpaper Sky",
-        "url": "https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "Frankie Please",
-      "url": "https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Crossing Muddy Waters / Be My Husband",
         "url": "https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 228320,
       "name": "Crossing Muddy Waters",
       "url": "https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Tarpaper Sky",
+        "url": "https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 163306,
+      "name": "Frankie Please",
+      "url": "https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Mortal City",
         "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 287933,
       "name": "Iowa (Traveling, Pt. 3)",
       "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Calling Me Home (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Shine a Light: Field Recordings from the Great American Railroad",
         "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
       },
@@ -1635,6 +1615,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Calling Me Home (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Night Surfer",
         "url": "https://open.spotify.com/album/1E3Cb8Xor2dqNBnAGU1idb"
       },
@@ -1647,6 +1647,22 @@
       "duration_ms": 221413,
       "name": "Ford Econoline",
       "url": "https://open.spotify.com/track/1FuurW58UyXdpxFJaY3dYW"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "I'm A Song",
+        "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
+      },
+      "artists": [
+        {
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+        }
+      ],
+      "duration_ms": 129077,
+      "name": "Let's Have A Good Thing Together",
+      "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1667,22 +1683,6 @@
       "duration_ms": 173453,
       "name": "Django and Jimmie",
       "url": "https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "I'm A Song",
-        "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
-      },
-      "artists": [
-        {
-          "name": "Jim Lauderdale",
-          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
-        }
-      ],
-      "duration_ms": 129077,
-      "name": "Let's Have A Good Thing Together",
-      "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "High Life",
-        "url": "https://open.spotify.com/album/0p61CSjJ023JK2s1xmp3QJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Robison",
-          "url": "https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt"
-        }
-      ],
-      "duration_ms": 255490,
-      "name": "Brand New Me",
-      "url": "https://open.spotify.com/track/5NVHI2Q8PCg2ksjcP1vZp1"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Shine a Light: Field Recordings from the Great American Railroad",
         "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 175783,
       "name": "Rock Island Line",
       "url": "https://open.spotify.com/track/4ngwge7Of6xRIdmqMHZoxb"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "High Life",
+        "url": "https://open.spotify.com/album/0p61CSjJ023JK2s1xmp3QJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Robison",
+          "url": "https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt"
+        }
+      ],
+      "duration_ms": 255490,
+      "name": "Brand New Me",
+      "url": "https://open.spotify.com/track/5NVHI2Q8PCg2ksjcP1vZp1"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2259,6 +2259,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "I Contain Multitudes",
+        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "I Contain Multitudes",
+      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Night Surfer",
         "url": "https://open.spotify.com/album/1E3Cb8Xor2dqNBnAGU1idb"
       },
@@ -2291,22 +2307,6 @@
       "duration_ms": 172813,
       "name": "Hanging up My Heart",
       "url": "https://open.spotify.com/track/1odrnCw1RmUcevfJz25NJS"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "I Contain Multitudes",
-        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "I Contain Multitudes",
-      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/7nMRzda3BneKBWE0bDLu1s"
-      },
-      "artists": [
-        {
-          "name": "Martin Sexton",
-          "url": "https://open.spotify.com/artist/16HLVuiCN8iGYhBca7lsqE"
-        }
-      ],
-      "duration_ms": 221183,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/7KvUES0KA4PClnqof2nHMG"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Dumplin' Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO"
       },
@@ -2571,6 +2555,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/7nMRzda3BneKBWE0bDLu1s"
+      },
+      "artists": [
+        {
+          "name": "Martin Sexton",
+          "url": "https://open.spotify.com/artist/16HLVuiCN8iGYhBca7lsqE"
+        }
+      ],
+      "duration_ms": 221183,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7KvUES0KA4PClnqof2nHMG"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Just To Watch Maria Dance",
         "url": "https://open.spotify.com/album/7065TFrbGtfx5TCIBXpmtY"
       },
@@ -2583,22 +2583,6 @@
       "duration_ms": 136489,
       "name": "Just To Watch Maria Dance",
       "url": "https://open.spotify.com/track/71JN9WNpdHwbr22XSAbwRP"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Stitch of the World",
-        "url": "https://open.spotify.com/album/3COhbKE23L3W24wLnLQToD"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 227226,
-      "name": "Dusty Old Man",
-      "url": "https://open.spotify.com/track/73TqDe29PdDaqW0ftPLFvA"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2619,6 +2603,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Stitch of the World",
+        "url": "https://open.spotify.com/album/3COhbKE23L3W24wLnLQToD"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 227226,
+      "name": "Dusty Old Man",
+      "url": "https://open.spotify.com/track/73TqDe29PdDaqW0ftPLFvA"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Easy Gone",
         "url": "https://open.spotify.com/album/2RbzfkQVmXTeWF4L3GdqGl"
       },
@@ -2631,22 +2631,6 @@
       "duration_ms": 236800,
       "name": "Who Do Call the Shots",
       "url": "https://open.spotify.com/track/3bSeVNB5IgXBo0KyjsQ88O"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Tambourine",
-        "url": "https://open.spotify.com/album/6xq8Crqk8thOvopt7wj7fn"
-      },
-      "artists": [
-        {
-          "name": "Fred Eaglesmith",
-          "url": "https://open.spotify.com/artist/0yv1W9HeASlBRyWrzRMhWh"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "What It Takes",
-      "url": "https://open.spotify.com/track/7uIsJASIKv1yxShjCdNFre"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2667,18 +2651,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Killin' Uncle Buzzy",
-        "url": "https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l"
+        "name": "Tambourine",
+        "url": "https://open.spotify.com/album/6xq8Crqk8thOvopt7wj7fn"
       },
       "artists": [
         {
-          "name": "Travis Meadows",
-          "url": "https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA"
+          "name": "Fred Eaglesmith",
+          "url": "https://open.spotify.com/artist/0yv1W9HeASlBRyWrzRMhWh"
         }
       ],
-      "duration_ms": 246373,
-      "name": "Learning How to Live Alone",
-      "url": "https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK"
+      "duration_ms": 237720,
+      "name": "What It Takes",
+      "url": "https://open.spotify.com/track/7uIsJASIKv1yxShjCdNFre"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2695,6 +2679,22 @@
       "duration_ms": 163040,
       "name": "Pure and Simple",
       "url": "https://open.spotify.com/track/7szyzZ3J9ortisMHATOXCp"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Killin' Uncle Buzzy",
+        "url": "https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l"
+      },
+      "artists": [
+        {
+          "name": "Travis Meadows",
+          "url": "https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA"
+        }
+      ],
+      "duration_ms": 246373,
+      "name": "Learning How to Live Alone",
+      "url": "https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK"
     }
   ],
   "unique_name": "Americana Icons",

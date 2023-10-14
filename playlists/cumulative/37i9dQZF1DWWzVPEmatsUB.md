@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-374 songs - 22 hr 34 min
+375 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Face in the Scene](https://open.spotify.com/track/1oSxWP7C3ChpUzAGicKX0N) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [The Difference Between Me & You](https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G) | 4:05 | 2020-10-17 | 2022-04-20 |
 | [Faith You Might](https://open.spotify.com/track/6UUL6mVus7dn7sw5O6Zd7p) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Faith You Might / In Case I Don't Feel](https://open.spotify.com/album/1xroovsaQjS7u5DmTvd0VT) | 4:12 | 2020-10-17 | 2022-07-29 |
 | [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 | 2023-02-17 | 2023-07-22 |
-| [Feel This Way Too](https://open.spotify.com/track/3RO7i5x4x7iPsm0o1AKzBU) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Feel This Way Too](https://open.spotify.com/album/21gSKSi1yQ1dSXDembzlpe) | 4:32 | 2023-08-25 |  |
+| [Feel This Way Too](https://open.spotify.com/track/3RO7i5x4x7iPsm0o1AKzBU) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Feel This Way Too](https://open.spotify.com/album/21gSKSi1yQ1dSXDembzlpe) | 4:32 | 2023-08-25 | 2023-10-14 |
+| [Feel This Way Too](https://open.spotify.com/track/4pjo6uHUuP2FgoBfphagOd) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Reasons Why](https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh) | 4:32 | 2023-09-01 |  |
 | [Fire Away](https://open.spotify.com/track/3zaTwp8DrM5a3Ap9PZXNHD) | [Ian Santillano](https://open.spotify.com/artist/2dXwRDSHl1AmQuX73h8omy) | [1856](https://open.spotify.com/album/5DVvuVOVMErY1OEitbiitn) | 4:43 | 2020-10-17 | 2022-04-21 |
 | [Fly \(For Mike\) feat\. Brittany Howard](https://open.spotify.com/track/0qKdmI20wCPmmjSWY6wO6K) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Fly \(For Mike\) Feat\. Brittany Howard](https://open.spotify.com/album/41YY1uiKkpKySBWEpqzWpj) | 4:01 | 2021-07-21 | 2022-07-29 |
 | [for life](https://open.spotify.com/track/3wD5R5grD04FKW0zsBuiKy) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [magnolia](https://open.spotify.com/album/4lUystyYlQEstc79Eic2Q6) | 3:31 | 2020-10-17 | 2022-07-31 |

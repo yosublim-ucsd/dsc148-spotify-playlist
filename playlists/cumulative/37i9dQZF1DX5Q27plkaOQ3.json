@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 202400,
       "name": "Cheatcode - Jessica Audiffred Remix",
       "url": "https://open.spotify.com/track/4fbOSSjocOB5PpAk1sHbmg"
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 160000,
       "name": "Check",
       "url": "https://open.spotify.com/track/6YZg6R747lU5gYZhUB4OQg"
@@ -1722,7 +1722,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 128000,
       "name": "Cold Case - VIP",
       "url": "https://open.spotify.com/track/0l5fWjOl1LaY8LdGpMVAaa"
@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 218142,
       "name": "Die A God",
       "url": "https://open.spotify.com/track/3FBwxitVZMIu6cOJHujOwR"
@@ -2232,7 +2232,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 260592,
       "name": "Discovery",
       "url": "https://open.spotify.com/track/1hL68mCCsLmtSJNr1W8HmR"
@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 172137,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/0l2DanUokW2ZR69z2nGILg"
@@ -2874,6 +2874,28 @@
       "duration_ms": 178758,
       "name": "Feedback",
       "url": "https://open.spotify.com/track/7ejEHmuauEs9xcqSGlcwXL"
+    },
+    {
+      "album": {
+        "name": "Feel Nothing",
+        "url": "https://open.spotify.com/album/5W2pW7RDyS1ioKpjG27rS2"
+      },
+      "artists": [
+        {
+          "name": "Kozmoz",
+          "url": "https://open.spotify.com/artist/4jwHh8156lpD0ifm9bUCz4"
+        },
+        {
+          "name": "CELO",
+          "url": "https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147310,
+      "name": "Feel Nothing",
+      "url": "https://open.spotify.com/track/2KUlPVz7UTeOh11er0lYRI"
     },
     {
       "album": {
@@ -3584,7 +3606,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 253935,
       "name": "HARD HEADZ",
       "url": "https://open.spotify.com/track/79DeXXSTNCKwo1Ii6LuGpI"
@@ -3988,7 +4010,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 339200,
       "name": "I'm Delighted",
       "url": "https://open.spotify.com/track/3N6B80cmfOnaQGG7KWppyb"
@@ -4166,7 +4188,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 163200,
       "name": "Is This Even Dubstep!?",
       "url": "https://open.spotify.com/track/1zy6e2RNnMcWZSgAf5gOBq"
@@ -4450,7 +4472,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "Kooks Of Hazard",
       "url": "https://open.spotify.com/track/2bIYzDC6FTTmKq8sqPh7q9"
@@ -4486,7 +4508,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 221600,
       "name": "Laserbeam",
       "url": "https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At"
@@ -4556,10 +4578,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 233379,
       "name": "Last One Standing - Ace Aura Remix",
       "url": "https://open.spotify.com/track/0I0ZJ1IBED5wOAlm7RvRjP"
+    },
+    {
+      "album": {
+        "name": "Legalize Nuclear Bombs",
+        "url": "https://open.spotify.com/album/0tDknUXGhQ2i5dOZUU7VPz"
+      },
+      "artists": [
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Legalize Nuclear Bombs",
+      "url": "https://open.spotify.com/track/5Tp9Ojtfm0VX7vR3u8oHwv"
     },
     {
       "album": {
@@ -4968,7 +5008,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 150620,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/5xWvRtgAxkWUZPGXqICbpx"
@@ -5264,7 +5304,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 228413,
       "name": "NECROMANCER",
       "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
@@ -5730,7 +5770,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 195897,
       "name": "Open Up This Pit",
       "url": "https://open.spotify.com/track/6vKOUJvLj02q7zdGrS2vp1"
@@ -6216,7 +6256,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 170897,
       "name": "Purgatory - Dion Timmer Remix",
       "url": "https://open.spotify.com/track/4dUlSREV9ZfoogtHIcgy2e"
@@ -6352,6 +6392,32 @@
       "duration_ms": 234000,
       "name": "Rabbit",
       "url": "https://open.spotify.com/track/0AXSb1gRlRsm9MT6O9fu91"
+    },
+    {
+      "album": {
+        "name": "RAD",
+        "url": "https://open.spotify.com/album/2K9g3b8ghtQSnYWzfg5sj3"
+      },
+      "artists": [
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        },
+        {
+          "name": "Xotix",
+          "url": "https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245536,
+      "name": "RAD",
+      "url": "https://open.spotify.com/track/06bf6XZYNj4mtDODZRDruu"
     },
     {
       "album": {
@@ -6845,6 +6911,24 @@
     },
     {
       "album": {
+        "name": "Disturbing Data EP",
+        "url": "https://open.spotify.com/album/2v50fj4SuHEzNXcC3qy0I4"
+      },
+      "artists": [
+        {
+          "name": "JEANIE",
+          "url": "https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "S.U.B",
+      "url": "https://open.spotify.com/track/2uqdVy4nRZpLfwqEwzJpa9"
+    },
+    {
+      "album": {
         "name": "Sapphire Channel",
         "url": "https://open.spotify.com/album/4BbfnEztMS9SeTffYj4baj"
       },
@@ -7002,7 +7086,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "Senses",
       "url": "https://open.spotify.com/track/5GhdLDTh0BslJx45SmXtWx"
@@ -7204,7 +7288,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 132413,
       "name": "SHEEESH",
       "url": "https://open.spotify.com/track/1LhdHHyfSr8LR8dFqz3NTg"
@@ -7798,7 +7882,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 227586,
       "name": "Streets",
       "url": "https://open.spotify.com/track/73SLjEpuUqy13FS7HyewkM"
@@ -7856,7 +7940,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 161600,
       "name": "SURGE",
       "url": "https://open.spotify.com/track/20HSKZ4jG733BYqSDFTPgW"
@@ -8174,7 +8258,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 202666,
       "name": "The Machines",
       "url": "https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ"
@@ -8348,7 +8432,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 197735,
       "name": "The Uprising",
       "url": "https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li"

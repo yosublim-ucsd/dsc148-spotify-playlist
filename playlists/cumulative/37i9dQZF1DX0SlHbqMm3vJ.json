@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Nissi",
+  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Boj & Ajebutter22",
   "name": "Ginger Me",
   "tracks": [
     {
@@ -5357,6 +5357,24 @@
     },
     {
       "album": {
+        "name": "Ngozi",
+        "url": "https://open.spotify.com/album/45Wb2RLhEF2CvubX8G89qX"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223596,
+      "name": "Ngozi",
+      "url": "https://open.spotify.com/track/6YHRw6MptcrYWv7JYROGTk"
+    },
+    {
+      "album": {
         "name": "No Doubt",
         "url": "https://open.spotify.com/album/2ucq3VkxPJbUsAJ1rP6QDD"
       },
@@ -6458,6 +6476,28 @@
       "duration_ms": 212307,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/1pNiF9HF0G6IvvieIVplAF"
+    },
+    {
+      "album": {
+        "name": "Rora",
+        "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143762,
+      "name": "Rora",
+      "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
     },
     {
       "album": {
@@ -8788,7 +8828,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 212341,
       "name": "Wonderful",
       "url": "https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Susannah Joffe",
+  "description": "Underground indie rock gems. Cover: Squirrel Flower",
   "name": "undercurrents",
   "tracks": [
     {
@@ -9768,7 +9768,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 145266,
       "name": "Intheskatepark",
       "url": "https://open.spotify.com/track/4zkAoqG7TwRxbCQpL0AZa0"
@@ -13192,7 +13192,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 158998,
       "name": "pawnshop",
       "url": "https://open.spotify.com/track/5YTBLQ5C8cG38Ch41jiJNl"
@@ -16126,6 +16126,24 @@
       "duration_ms": 142733,
       "name": "Stephen Hawking's Goldfish Analogy (Demo)",
       "url": "https://open.spotify.com/track/5G1GJu18mEN8c2GlyREUKz"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Fire",
+        "url": "https://open.spotify.com/album/5GYQtBhrKfobrD0RkFF43Z"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182533,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/6MVDqPlrnS0vfH8BI0DY4p"
     },
     {
       "album": {
@@ -19526,6 +19544,24 @@
       "duration_ms": 169549,
       "name": "you were right",
       "url": "https://open.spotify.com/track/1z3y0dcgWonv5eZJmkN05r"
+    },
+    {
+      "album": {
+        "name": "Your Beautiful Self",
+        "url": "https://open.spotify.com/album/2lCbzs1hrhbnh1Ra7HafE3"
+      },
+      "artists": [
+        {
+          "name": "Land of Talk",
+          "url": "https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252166,
+      "name": "Your Beautiful Self",
+      "url": "https://open.spotify.com/track/0R2V3TO0hv1QQmLICsxBHJ"
     },
     {
       "album": {

@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "Afternoon X",
+        "url": "https://open.spotify.com/album/6yUptnHXA1lRp48hWzXsUl"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246466,
+      "name": "Afternoon X",
+      "url": "https://open.spotify.com/track/3DdKYu9en4HzWUdg98bB9Z"
+    },
+    {
+      "album": {
         "name": "Agujas en el pecho",
         "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
       },
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 384000,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"

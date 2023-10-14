@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 276918,
+  "num_followers": 276787,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGFmOTE5YzkxNTgxOTVjOTllNzVmYmRjYmE1YzM5YzY1OGQ3ODg1",
+  "snapshot_id": "MCwzMjE5Yjc3Y2MxN2Q5ZDNjMWZkZWY4OTU0M2RjM2Y0YjgzZDVhZmU4",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Rude (Acoustic)",
-        "url": "https://open.spotify.com/album/6mSh4sedBU4vvHLYPd2Seb"
-      },
-      "artists": [
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 223854,
-      "name": "Rude (Acoustic)",
-      "url": "https://open.spotify.com/track/7IQ7Tk8D6fFAgl6aL7u5ia"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 223429,
       "name": "Latch - Acoustic",
       "url": "https://open.spotify.com/track/1dOQwrGmaSWotCvZwD9CK3"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Rude (Acoustic)",
+        "url": "https://open.spotify.com/album/6mSh4sedBU4vvHLYPd2Seb"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 223854,
+      "name": "Rude (Acoustic)",
+      "url": "https://open.spotify.com/track/7IQ7Tk8D6fFAgl6aL7u5ia"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -327,26 +327,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "I Miss You (feat. Julia Michaels) [Acoustic]",
-        "url": "https://open.spotify.com/album/4oVuagXHRZZZIvhocptEaU"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 216294,
-      "name": "I Miss You (feat. Julia Michaels) - Acoustic",
-      "url": "https://open.spotify.com/track/2HfKpWYPx4Os46z1K7yE4k"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Change The World (Strings) (feat. Nicole Dash Jones)",
         "url": "https://open.spotify.com/album/3NisgTcMSNtM3aaf484arV"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 266413,
       "name": "Change the World (feat. Nicole Dash Jones) - Strings In Motion Mix",
       "url": "https://open.spotify.com/track/1C3arE9PgTbFPLp5n1c8PE"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "I Miss You (feat. Julia Michaels) [Acoustic]",
+        "url": "https://open.spotify.com/album/4oVuagXHRZZZIvhocptEaU"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 216294,
+      "name": "I Miss You (feat. Julia Michaels) - Acoustic",
+      "url": "https://open.spotify.com/track/2HfKpWYPx4Os46z1K7yE4k"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -491,26 +491,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Symphony (feat. Zara Larsson) [Acoustic]",
-        "url": "https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 216413,
-      "name": "Symphony (feat. Zara Larsson) - Acoustic Version",
-      "url": "https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Hurricane (Acoustic Version)",
         "url": "https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 255582,
       "name": "Sun Comes Up - Acoustic",
       "url": "https://open.spotify.com/track/2YO0VBWKaIdtUqfOKelqF1"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Symphony (feat. Zara Larsson) [Acoustic]",
+        "url": "https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "Symphony (feat. Zara Larsson) - Acoustic Version",
+      "url": "https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -807,22 +807,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "The Acoustics",
-        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
+        "name": "You for Me (Acoustic)",
+        "url": "https://open.spotify.com/album/3TpZw4gbS2sRuFKNg8DyOt"
       },
       "artists": [
         {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "BullySongs",
-          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 161724,
-      "name": "Walking With Shadows - Acoustic Version",
-      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
+      "duration_ms": 185381,
+      "name": "You for Me - Acoustic",
+      "url": "https://open.spotify.com/track/2STdeJ27mvJ8wBrnvc2ZwS"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -843,22 +843,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "You for Me (Acoustic)",
-        "url": "https://open.spotify.com/album/3TpZw4gbS2sRuFKNg8DyOt"
+        "name": "The Acoustics",
+        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
       },
       "artists": [
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
         },
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "BullySongs",
+          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
         }
       ],
-      "duration_ms": 185381,
-      "name": "You for Me - Acoustic",
-      "url": "https://open.spotify.com/track/2STdeJ27mvJ8wBrnvc2ZwS"
+      "duration_ms": 161724,
+      "name": "Walking With Shadows - Acoustic Version",
+      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Better Half Of Me",
-        "url": "https://open.spotify.com/album/79kh6SAXvgQk0GCtpTRSGG"
-      },
-      "artists": [
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Jonathan Mendelsohn",
-          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
-        }
-      ],
-      "duration_ms": 212846,
-      "name": "Better Half Of Me - Acoustic Mix",
-      "url": "https://open.spotify.com/track/1m5ZEyOd6b6RU6wJbdh6u1"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Paradise (The Acoustics)",
         "url": "https://open.spotify.com/album/7Jhw4zniJdzFWMt7iPmtZK"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 158830,
       "name": "Paradise - Piano Version",
       "url": "https://open.spotify.com/track/550aWNppgjke6wF5lepBbG"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Better Half Of Me",
+        "url": "https://open.spotify.com/album/79kh6SAXvgQk0GCtpTRSGG"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "duration_ms": 212846,
+      "name": "Better Half Of Me - Acoustic Mix",
+      "url": "https://open.spotify.com/track/1m5ZEyOd6b6RU6wJbdh6u1"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Old Friend / Capricorn (Live Acoustic)",
+        "url": "https://open.spotify.com/album/7tylMldS4qydgtd5PTJQsN"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 172756,
+      "name": "Old Friend - Live Acoustic",
+      "url": "https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Better Days (NEIKED x Mae Muller) [Acoustic]",
         "url": "https://open.spotify.com/album/0gxFT2phYifzYo74xqx5q0"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 175990,
       "name": "Better Days (NEIKED x Mae Muller) - Acoustic",
       "url": "https://open.spotify.com/track/4cO0l1PwQKdgWRimyb0jaf"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Old Friend / Capricorn (Live Acoustic)",
-        "url": "https://open.spotify.com/album/7tylMldS4qydgtd5PTJQsN"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 172756,
-      "name": "Old Friend - Live Acoustic",
-      "url": "https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Say Nothing (MAY-A\u2019s Version)",
-        "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
-      },
-      "artists": [
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 217894,
-      "name": "Say Nothing - MAY-A\u2019s Version",
-      "url": "https://open.spotify.com/track/4pIuWMo1pUkVGId6w2Ib3T"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Real Life (Acoustic)",
         "url": "https://open.spotify.com/album/31IHRCGs5lvEvDkaDjr3eZ"
       },
@@ -1603,26 +1587,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Mad World (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4Eq4A8AIi4PvXOEqrK2Iaq"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Jake Reese",
-          "url": "https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Mad World - Acoustic Version",
-      "url": "https://open.spotify.com/track/3uXVW7yEmJvVeslQae2dc3"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Here Tonight (Acoustic Version)",
         "url": "https://open.spotify.com/album/3riI0LyX9QUpboMEgjGgju"
       },
@@ -1643,6 +1607,42 @@
       "duration_ms": 167619,
       "name": "Here Tonight - Acoustic Version",
       "url": "https://open.spotify.com/track/6EJAP09tSNsp7kBhtC8Fcg"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Mad World (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4Eq4A8AIi4PvXOEqrK2Iaq"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Jake Reese",
+          "url": "https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Mad World - Acoustic Version",
+      "url": "https://open.spotify.com/track/3uXVW7yEmJvVeslQae2dc3"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Say Nothing (MAY-A\u2019s Version)",
+        "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 217894,
+      "name": "Say Nothing - MAY-A\u2019s Version",
+      "url": "https://open.spotify.com/track/4pIuWMo1pUkVGId6w2Ib3T"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Roxanne Emery",
+          "url": "https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Grabbitz - Friends EP",
         "url": "https://open.spotify.com/album/7eu4Uyj5s88ge7bE56gFbw"
       },
@@ -1799,6 +1819,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Violin Covers Pt. II",
+        "url": "https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g"
+      },
+      "artists": [
+        {
+          "name": "Daniel Jang",
+          "url": "https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN"
+        }
+      ],
+      "duration_ms": 186754,
+      "name": "Zedd Medley - Find You/Spectrum/Clarity/Stay the Night",
+      "url": "https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "End Of The World (Acoustic Mix)",
         "url": "https://open.spotify.com/album/3VqFvPSRWDlD6UqtxvL2cU"
       },
@@ -1819,38 +1855,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
+        "name": "Hear Me Say (Acoustic)",
+        "url": "https://open.spotify.com/album/3mZ3lgRGgKJ1osqqH39vH0"
       },
       "artists": [
         {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Roxanne Emery",
-          "url": "https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM"
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         }
       ],
-      "duration_ms": 169846,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Violin Covers Pt. II",
-        "url": "https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g"
-      },
-      "artists": [
-        {
-          "name": "Daniel Jang",
-          "url": "https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN"
-        }
-      ],
-      "duration_ms": 186754,
-      "name": "Zedd Medley - Find You/Spectrum/Clarity/Stay the Night",
-      "url": "https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R"
+      "duration_ms": 149525,
+      "name": "Hear Me Say - Acoustic",
+      "url": "https://open.spotify.com/track/2lUB3DmQbrQrYeGWc3PfcY"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1875,26 +1895,6 @@
       "duration_ms": 187333,
       "name": "Living Without You - Acoustic",
       "url": "https://open.spotify.com/track/6jgDBaX7ZxirvxpvCRpiaN"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Hear Me Say (Acoustic)",
-        "url": "https://open.spotify.com/album/3mZ3lgRGgKJ1osqqH39vH0"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 149525,
-      "name": "Hear Me Say - Acoustic",
-      "url": "https://open.spotify.com/track/2lUB3DmQbrQrYeGWc3PfcY"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1963,22 +1963,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Radio (Acoustic)",
-        "url": "https://open.spotify.com/album/10Hl762MrDumKQuu8zyN9T"
+        "name": "Acoustic Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
       },
       "artists": [
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
         },
         {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "ABIR",
+          "url": "https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd"
         }
       ],
-      "duration_ms": 138048,
-      "name": "Radio - Acoustic",
-      "url": "https://open.spotify.com/track/2uKhQnXkSC1Twp0sdFKty3"
+      "duration_ms": 181240,
+      "name": "Finest Hour (feat. Abir) - Acoustic Version",
+      "url": "https://open.spotify.com/track/6ZMTQIeV5IZMTOFmVhDziW"
     }
   ],
   "unique_name": "mint Acoustic",

@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 205286,
       "name": "A Concert Six Months From Now",
       "url": "https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x"
@@ -668,6 +668,24 @@
       "duration_ms": 237426,
       "name": "Conversations in the Dark",
       "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
+    },
+    {
+      "album": {
+        "name": "Counting My Blessings",
+        "url": "https://open.spotify.com/album/5GJhEpZBXUSYQLgok38ZEK"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210464,
+      "name": "Counting My Blessings",
+      "url": "https://open.spotify.com/track/73VCobZbLNTAwCxKKBtztO"
     },
     {
       "album": {
@@ -1729,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "Irreal",
+        "url": "https://open.spotify.com/album/6SyPsQZccd9QiB4nbnbZZI"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218303,
+      "name": "Irreal",
+      "url": "https://open.spotify.com/track/3XsCsD76Ume0kuPnJ9xwX1"
+    },
+    {
+      "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
@@ -2206,7 +2242,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 239076,
       "name": "Lover - Recorded at Air Studios, London",
       "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
@@ -2419,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "album": {
         "name": "My Only One (No Hay Nadie M\u00e1s)",
         "url": "https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe"
       },
@@ -2578,7 +2632,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 182813,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/3LUai3qN5tzG0HpM72IHCy"

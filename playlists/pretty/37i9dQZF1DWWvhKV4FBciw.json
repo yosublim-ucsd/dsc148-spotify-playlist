@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1623639,
+  "num_followers": 1624228,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmYxY2EyYmM1MzdhZjQ4ZmFjMjdjNGZlMTQ1ZWY2MjMwMDMwOGMz",
+  "snapshot_id": "MCxlYjdlMzMyMDg2MzBiYzYyZmRkZjdmM2Q3NmNlMTE3M2QyNmE2M2Zm",
   "tracks": [
     {
       "added_at": "2022-09-23 17:06:51",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Dusty In Memphis [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 121080,
       "name": "Grandma's Hands",
       "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Dusty In Memphis [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "This Old Heart Of Mine",
-        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 228326,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "This Old Heart Of Mine",
+        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Chaka",
-        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Please Mr. Postman",
         "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 148040,
       "name": "Please Mr. Postman - Single Version / Mono",
       "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Chaka",
+        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Maggot Brain",
-        "url": "https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm"
-      },
-      "artists": [
-        {
-          "name": "Funkadelic",
-          "url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
-        }
-      ],
-      "duration_ms": 169856,
-      "name": "Can You Get To That",
-      "url": "https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Black Caesar",
         "url": "https://open.spotify.com/album/3Eiwyp3EB66AuXjBI2MYZI"
       },
@@ -959,6 +943,22 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
+        "name": "Maggot Brain",
+        "url": "https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm"
+      },
+      "artists": [
+        {
+          "name": "Funkadelic",
+          "url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
+        }
+      ],
+      "duration_ms": 169856,
+      "name": "Can You Get To That",
+      "url": "https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
         "name": "Back To Front",
         "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
       },
@@ -971,22 +971,6 @@
       "duration_ms": 260493,
       "name": "All Night Long - Single Version",
       "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
-        "name": "Al Green Explores Your Mind",
-        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1007,6 +991,22 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
+        "name": "Al Green Explores Your Mind",
+        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
         "name": "The Very Best Of Kool & The Gang (Reissue)",
         "url": "https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 142186,
-      "name": "Respect - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "The 35th Anniversary Collection",
         "url": "https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 161226,
       "name": "I Second That Emotion",
       "url": "https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 142186,
+      "name": "Respect - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Midnight Mover: The Bobby Womack Story",
-        "url": "https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG"
-      },
-      "artists": [
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Across 110th Street",
-      "url": "https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 164933,
       "name": "Spooky (Single Version)",
       "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Midnight Mover: The Bobby Womack Story",
+        "url": "https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Across 110th Street",
+      "url": "https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn"
     },
     {
       "added_at": "2022-09-23 17:06:51",

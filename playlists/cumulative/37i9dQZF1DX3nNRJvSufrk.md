@@ -4,7 +4,7 @@
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-152 songs - 9 hr 13 min
+153 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Juke It Up](https://open.spotify.com/track/25cEeyviQOhlYjp4GJOIhI) | [EQ Why](https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf) | [Juke Pack Vol.1](https://open.spotify.com/album/57aIkTNeK5ygccVD4oLf2C) | 2:48 | 2020-12-03 | 2022-11-14 |
 | [Juke It Up](https://open.spotify.com/track/31z2au3mgJYzC6SK5rgPh8) | [EQ Why](https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf) | [Juke Pack Vol.1](https://open.spotify.com/album/57aIkTNeK5ygccVD4oLf2C) | 2:48 | 2020-12-03 |  |
 | [Juke It Up](https://open.spotify.com/track/7FY0rPkPYlRlSmczXl9iQh) | [EQ Why](https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf) | [Juke Pack Vol.1](https://open.spotify.com/album/0gMUmMf0xpZjctgUUmhj0p) | 2:48 | 2020-12-03 | 2022-07-29 |
-| [Juking For Live \(I.C.T.W\)](https://open.spotify.com/track/0x8GxrGOhZLJJWve0qMryZ) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT) | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/album/6nUlE97QCne6C6AYAdFY3F) | 3:56 | 2020-12-03 |  |
+| [Juking For Live \(I.C.T.W\)](https://open.spotify.com/track/0x8GxrGOhZLJJWve0qMryZ) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT) | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/album/6nUlE97QCne6C6AYAdFY3F) | 3:56 | 2020-12-03 | 2023-10-14 |
+| [Juking For Live \(I.C.T.W\)](https://open.spotify.com/track/65CmlkO3DCwB0ZQvU9vaZY) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT) | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/album/3k2t4ylBBWNH7ovwqceYHq) | 3:56 | 2023-06-30 |  |
 | [Keep the Drug$](https://open.spotify.com/track/7tzfOnSTtrr8Gzl00240Ik) | [Stayhigh](https://open.spotify.com/artist/2d51ltzSq7hB3viB1DTBEn) | [Kush, Rhodes & 808's](https://open.spotify.com/album/4xW3MYeu3Gwc224UHhNAfV) | 3:30 | 2020-12-03 |  |
 | [L](https://open.spotify.com/track/5NhmNspdkZwdMYeebLY1Hi) | [CRZKNY](https://open.spotify.com/artist/1FGPwtHOMV3xV8qtoci5po) | [T3 TRAXX, Vol\. 2](https://open.spotify.com/album/0VXeDXXyazcUW5kbzSOWSH) | 3:06 | 2020-12-03 |  |
 | [Miau](https://open.spotify.com/track/6kEIRclfzZfraQY9Cn3F01) | [Aylu](https://open.spotify.com/artist/1MDwlFKprZOcAzi83BF1VG) | [Transgenre](https://open.spotify.com/album/6VdPebiwMhQqLmCAG7f1tO) | 2:18 | 2020-12-03 |  |

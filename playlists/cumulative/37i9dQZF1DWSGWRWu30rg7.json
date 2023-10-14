@@ -5419,6 +5419,24 @@
     },
     {
       "album": {
+        "name": "Between Worlds",
+        "url": "https://open.spotify.com/album/0I0G8adcn9WfUYY5ZgSjls"
+      },
+      "artists": [
+        {
+          "name": "Trulavish",
+          "url": "https://open.spotify.com/artist/0Y7vwk2jIb7t8gZj4AKC07"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256363,
+      "name": "Between Worlds",
+      "url": "https://open.spotify.com/track/3dK72LZeFZfpYrR9UvbAx3"
+    },
+    {
+      "album": {
         "name": "Bhinneka",
         "url": "https://open.spotify.com/album/33QhO1Szab4JJKAQpkDSp3"
       },
@@ -8806,7 +8824,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 225145,
       "name": "Coklat Hangat",
       "url": "https://open.spotify.com/track/4YmePdfCbxPM5aHr6moQcF"
@@ -11566,10 +11584,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 179047,
       "name": "Drama Queen",
       "url": "https://open.spotify.com/track/0AuWDQx1YsmhVqub4XoC83"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/69TZquEfpcoUj8R0nGxOOi"
+      },
+      "artists": [
+        {
+          "name": "Rain In July",
+          "url": "https://open.spotify.com/artist/4b7cwR0XgCU34Q74heCzlP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Drama,drama",
+      "url": "https://open.spotify.com/track/1gAY38bSqx6iA2BzZSXJQT"
     },
     {
       "album": {
@@ -12855,6 +12891,28 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/6PEEuKRr3E8T1w0fGrW2ns"
+      },
+      "artists": [
+        {
+          "name": "Faizal Lubis",
+          "url": "https://open.spotify.com/artist/2DwNPKRYrL6qX78gAKBI5s"
+        },
+        {
+          "name": "Klara Jelinkova",
+          "url": "https://open.spotify.com/artist/1VqthdBrGjnIKotxXzsXE6"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252521,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/54PiAlqQ7zZXY3uY0mwen7"
+    },
+    {
+      "album": {
         "name": "Fall In Love Again",
         "url": "https://open.spotify.com/album/7IHuUJmeJmpAWFtfvoOM93"
       },
@@ -13708,7 +13766,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 214678,
       "name": "Fly",
       "url": "https://open.spotify.com/track/7m161tCvEPJ5ppXbJNrg0e"
@@ -14988,7 +15046,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 259363,
       "name": "go home without me",
       "url": "https://open.spotify.com/track/3TPtcOqd5uc7zKUDImjuCv"
@@ -15864,7 +15922,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 230698,
       "name": "Hang Fire",
       "url": "https://open.spotify.com/track/0R41wxIs7oIueZbVrfEPsP"
@@ -17396,7 +17454,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 273068,
       "name": "Hujan",
       "url": "https://open.spotify.com/track/5IVM8mHNwVaivn6NiXrAj1"
@@ -17808,7 +17866,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 227338,
       "name": "I Just Wanna Dance With You",
       "url": "https://open.spotify.com/track/3rVvzQrxOnoJdGJ87WLDrr"
@@ -23558,7 +23616,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 265384,
       "name": "Laju",
       "url": "https://open.spotify.com/track/1ybba5exzUad37vIKHjsKr"
@@ -25184,7 +25242,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 237321,
       "name": "Lilin Kecil",
       "url": "https://open.spotify.com/track/6gCQHTogHYwOfVazsFUyOk"
@@ -31133,6 +31191,24 @@
     },
     {
       "album": {
+        "name": "On Your Birthday",
+        "url": "https://open.spotify.com/album/0zSbuXTB0CzulSCtZEeojH"
+      },
+      "artists": [
+        {
+          "name": "The Rentenir",
+          "url": "https://open.spotify.com/artist/2jclX5VpnewFBmChNZT3RY"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296727,
+      "name": "On Your Birthday",
+      "url": "https://open.spotify.com/track/1Ek8GzqxosGMUEogvIywQC"
+    },
+    {
+      "album": {
         "name": "Once Again",
         "url": "https://open.spotify.com/album/3rfPWBqYRsvQjlnNKaR9MS"
       },
@@ -33164,7 +33240,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 238500,
       "name": "Pestarayakan!",
       "url": "https://open.spotify.com/track/3TWuyPaNyjdUZxsn6YkyRp"
@@ -34646,7 +34722,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 215562,
       "name": "Read My Mind",
       "url": "https://open.spotify.com/track/1xXsZcBVNJcMNnXEB4l7na"
@@ -36503,6 +36579,24 @@
     },
     {
       "album": {
+        "name": "Sampai Kapan?-wa001",
+        "url": "https://open.spotify.com/album/08qwfNyFhKyAPlkTbIHUE9"
+      },
+      "artists": [
+        {
+          "name": "You Ask We Play",
+          "url": "https://open.spotify.com/artist/2gg1dIzfc5fAfStEVzmEUT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208443,
+      "name": "Sampai Kapan?-wa001",
+      "url": "https://open.spotify.com/track/31WMeOVrJcpdNLro7ieMue"
+    },
+    {
+      "album": {
         "name": "Sampai Kita Menua Bersama",
         "url": "https://open.spotify.com/album/7fXuF9sBouQmIFwy5rd33P"
       },
@@ -37504,7 +37598,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 273019,
       "name": "Semenjak Ada Kamu",
       "url": "https://open.spotify.com/track/1IZIF2DfiOdvzJp5sgXhdJ"
@@ -40516,7 +40610,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 230122,
       "name": "Stalking Love",
       "url": "https://open.spotify.com/track/033b8Gr0hg7aaO913KM0f5"
@@ -42578,7 +42672,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 134957,
       "name": "take a ride on me",
       "url": "https://open.spotify.com/track/2iYfQWLxov8ymkcaYZ88co"
@@ -44060,7 +44154,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 212629,
       "name": "The Chorus Superstar",
       "url": "https://open.spotify.com/track/66pXN7akoC2e9RrPOSjBWc"
@@ -48662,7 +48756,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 202537,
       "name": "You",
       "url": "https://open.spotify.com/track/0idV3knEoAatH6yO8Eerwf"

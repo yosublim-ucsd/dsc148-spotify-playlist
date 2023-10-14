@@ -4,7 +4,7 @@
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn?si=tYz\_NBKETlaQCAgwz6XWEw"> WurlD </a>
 
-291 songs - 15 hr 33 min
+292 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-29 | 2022-11-12 |
 | [Let Me Love You Now](https://open.spotify.com/track/1RDtcptsGUwhOgL58GYtTC) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Let Me Love You Now](https://open.spotify.com/album/5puHhqrH1Bgnhj86KpdhOW) | 3:47 | 2022-12-02 | 2023-09-02 |
 | [Let Them Know](https://open.spotify.com/track/6FLxB7ot3KZwjr0Zew8L7p) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Let Them Know](https://open.spotify.com/album/5FCaxpcmBFkumiu6MpkD73) | 3:24 | 2023-04-20 | 2023-05-05 |
-| [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4) | 3:18 | 2022-08-12 |  |
+| [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4) | 3:18 | 2022-08-12 | 2023-10-14 |
+| [Lie To Me \(Tell Me A Fairytale\)](https://open.spotify.com/track/6hEp6gb7N9SxsTpwyhdf1r) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Lie To Me \(Tell Me A Fairytale\)](https://open.spotify.com/album/4RpTFhEZJocmBuVPr9uCU6) | 3:18 | 2023-10-13 |  |
 | [Lifeline](https://open.spotify.com/track/7cE3h9KJvSM1GUBAdms8Hy) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r), [3kene](https://open.spotify.com/artist/17OB2zVYkeBD5fX4PG1eZv), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Lifeline](https://open.spotify.com/album/4fMsahuiYmcQrooQMouiY3) | 2:53 | 2023-06-30 |  |
 | [Lil Mama](https://open.spotify.com/track/0TdQ54hT5S5racTQAwdW3U) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Lil Mama](https://open.spotify.com/album/1uW6l7lFd88GtgYglei0ZR) | 3:44 | 2022-11-25 | 2023-10-13 |
 | [Line Of Fire](https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Line Of Fire](https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I) | 4:15 | 2023-04-27 |  |

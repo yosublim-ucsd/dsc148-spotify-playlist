@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 女王蜂 \*👉 <a href="https://spice.eplus.jp/articles/322854?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,587 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,626 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 72 | [Dance](https://open.spotify.com/track/4FjT4hjuZMHUWBcOLxuJXa) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [from pier](https://open.spotify.com/album/2is30Qo2XpWOZZwfLwAVWU) | 6:06 |
 | 73 | [いききる](https://open.spotify.com/track/0ISEcR7uZw3reFvbcZXNyw) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [いききる](https://open.spotify.com/album/0ra09WNoqYPsTUSHu21qCC) | 2:49 |
 | 74 | [惑星](https://open.spotify.com/track/2uA4yw2tDNXdfKLSQ6F0GL) | [矢舟テツロー](https://open.spotify.com/artist/552OyEDbpgWBiFB9vE0SDV) | [惑星](https://open.spotify.com/album/698Joy6TODu5G4d8bCaHCE) | 2:47 |
-| 75 | [バイオリズム](https://open.spotify.com/track/085LjIAB3rVZOaX6yIcVNa) | [WANCE](https://open.spotify.com/artist/3F3BoiAnUVzsgIKso1xsby), [Gakushi](https://open.spotify.com/artist/4aC2s1KWbRuKKrHMJBnkhY) | [For me](https://open.spotify.com/album/0KpioD93ztWzdUtg2FABEO) | 2:28 |
+| 75 | [バイオリズム](https://open.spotify.com/track/085LjIAB3rVZOaX6yIcVNa) | [WANCE](https://open.spotify.com/artist/3F3BoiAnUVzsgIKso1xsby), [Gakushi](https://open.spotify.com/artist/4aC2s1KWbRuKKrHMJBnkhY) | [FOR ME](https://open.spotify.com/album/0KpioD93ztWzdUtg2FABEO) | 2:28 |
 | 76 | [道端にネギ](https://open.spotify.com/track/1GT7OUZA9c7iW3Ng7pGc8t) | [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [道端にネギ](https://open.spotify.com/album/5k6uRLEaYdlNxxbPBbJ4dm) | 3:57 |
 | 77 | [WATERFALL](https://open.spotify.com/track/7fxAgia1Wqq0WDd2sYEnpb) | [CANDYGIRL](https://open.spotify.com/artist/6ljA8ttKB0d9eBUySPaSOZ) | [WATERFALL](https://open.spotify.com/album/7do7UXsvxBuZqoNUwZFaXg) | 3:04 |
 | 78 | [TOP UP](https://open.spotify.com/track/2rYUTNwsKg50rF9o5WoaLe) | [CCS records.](https://open.spotify.com/artist/0MWK4acsELDgCc9djMvT3d) | [TOP UP](https://open.spotify.com/album/5fvGsrnGhIAoUbjZbVm7Jt) | 2:25 |
 | 79 | [Yakoh](https://open.spotify.com/track/6dUcef2suTSNVXSW78gBh8) | [Till Yawuh](https://open.spotify.com/artist/3kueCRD80jIeLrmDxjnL8b) | [To\-ri](https://open.spotify.com/album/6V8HY5qoG3ArNaF6pYMif4) | 5:00 |
 | 80 | [マジメチャン](https://open.spotify.com/track/0DLOPQUNF327B0tYFZkLgK) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [マジメチャン](https://open.spotify.com/album/2XdfuLghQ3NHvAtn4s4eMb) | 2:51 |
 
-Snapshot ID: `MCwyMzE3Zjg3OGY1YjlkZTgwMDg0YjM4YmFkZGMwZDQzZmQ5NDRhODdm`
+Snapshot ID: `MCxkMWMzYzJlOGE1YjI3N2NiNjhjZTFiOWI0YTVjOTljNmYyNjg0YWM0`

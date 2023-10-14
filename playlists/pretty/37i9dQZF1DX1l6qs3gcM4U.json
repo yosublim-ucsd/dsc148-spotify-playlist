@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Dj Black Spygo, Djodje and Chelsea Dinorath.  ",
-  "num_followers": 186437,
+  "num_followers": 186469,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzQ2MjBkNzhjOGQ1YzhlYjE3OTVjMTA0Y2FlM2QyMzkzNTUxYmFl",
+  "snapshot_id": "MCw0NTkxNzNkNWFhYTMxNzEwYjg4Yjc4NzYxODQzODJkMjY0ZjA2ZjI3",
   "tracks": [
     {
       "added_at": "2023-09-28 23:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
+        "name": "Sem Limite",
+        "url": "https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "Magico",
+      "url": "https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
         "name": "RED",
         "url": "https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Sem Limite",
-        "url": "https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        }
-      ],
-      "duration_ms": 237400,
-      "name": "Magico",
-      "url": "https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
         "name": "Te Amo Tanto",
         "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
       },
@@ -683,26 +683,6 @@
       "duration_ms": 182608,
       "name": "Te Amo Tanto",
       "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
-        "name": "Dando Love",
-        "url": "https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz"
-      },
-      "artists": [
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 182173,
-      "name": "Dando Love",
-      "url": "https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -723,6 +703,26 @@
       "duration_ms": 243750,
       "name": "Clima",
       "url": "https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "Dando Love",
+        "url": "https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 182173,
+      "name": "Dando Love",
+      "url": "https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
+        "name": "Homem Que \u00c9 Homem",
+        "url": "https://open.spotify.com/album/3da7ZdV8PajvULvHWlVCYU"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 216868,
+      "name": "Homem Que \u00c9 Homem",
+      "url": "https://open.spotify.com/track/7KeFg6QHNBmANqLu3N0kYh"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
         "name": "Ref\u00fagio",
         "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 237570,
       "name": "Ref\u00fagio",
       "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
-        "name": "Homem Que \u00c9 Homem",
-        "url": "https://open.spotify.com/album/3da7ZdV8PajvULvHWlVCYU"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        }
-      ],
-      "duration_ms": 216868,
-      "name": "Homem Que \u00c9 Homem",
-      "url": "https://open.spotify.com/track/7KeFg6QHNBmANqLu3N0kYh"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -975,6 +975,26 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
+        "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) [Remix]",
+        "url": "https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        },
+        {
+          "name": "Bruna Tatiana",
+          "url": "https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H"
+        }
+      ],
+      "duration_ms": 237717,
+      "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) - Remix",
+      "url": "https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
         "name": "Benka Benka",
         "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 237341,
       "name": "Viagem",
       "url": "https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
-        "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) [Remix]",
-        "url": "https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        },
-        {
-          "name": "Bruna Tatiana",
-          "url": "https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H"
-        }
-      ],
-      "duration_ms": 237717,
-      "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) - Remix",
-      "url": "https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "PAPI",
-        "url": "https://open.spotify.com/album/1pN6zDDiw0bGLgm4xGkbnD"
-      },
-      "artists": [
-        {
-          "name": "Mr. Carly",
-          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
-        },
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 217301,
-      "name": "PAPI",
-      "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
         "name": "J\u00e1 Deu",
         "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 227685,
       "name": "J\u00e1 Deu",
       "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/1pN6zDDiw0bGLgm4xGkbnD"
+      },
+      "artists": [
+        {
+          "name": "Mr. Carly",
+          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 217301,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
+        "name": "Do Teu Jeito",
+        "url": "https://open.spotify.com/album/2vBdOoAaFXejJio7jSoZdW"
+      },
+      "artists": [
+        {
+          "name": "Josslyn",
+          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
+        }
+      ],
+      "duration_ms": 193045,
+      "name": "Do Teu Jeito",
+      "url": "https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
         "name": "Ser Feliz",
         "url": "https://open.spotify.com/album/7uTQAEBWfbze3iYIfOqmdR"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 205785,
       "name": "Ser Feliz",
       "url": "https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
-        "name": "Do Teu Jeito",
-        "url": "https://open.spotify.com/album/2vBdOoAaFXejJio7jSoZdW"
-      },
-      "artists": [
-        {
-          "name": "Josslyn",
-          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
-        }
-      ],
-      "duration_ms": 193045,
-      "name": "Do Teu Jeito",
-      "url": "https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea"
     },
     {
       "added_at": "2023-09-28 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Feid & Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,319 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,243 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Prende](https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [Flavors 2](https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2) | 3:14 |
 | 70 | [Next To You Part II \(feat\. Rvssian & Davido\)](https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Next To You Part II \(feat\. Rvssian & Davido\)](https://open.spotify.com/album/67hfw7M0E3Rty5HntU1eC2) | 2:59 |
 
-Snapshot ID: `MCwzODJkMzVlOTQ1OGQzYzdjNmEyOWVhYTE0OWUwODgyNDhiZGQxNmQ1`
+Snapshot ID: `MCxmMzYwYjA3M2ZlYTEzZDA1NGQ2ODJkYTlhNmMxN2VkZTUxMWRjYmJi`

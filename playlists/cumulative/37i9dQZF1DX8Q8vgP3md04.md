@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-97 songs - 7 hr 36 min
+98 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Mulatu](https://open.spotify.com/track/5dkCbFyJIZmaRst8E2eggt) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [To Know Without Knowing](https://open.spotify.com/album/1475ygGcXf7C3oQ4XMYkMX) | 6:20 | 2020-07-03 |  |
 | [Nigerewa](https://open.spotify.com/track/3DvQz7jA79KweYLM4yRQJ8) | [Amanuel Yemane](https://open.spotify.com/artist/34vR4pOtaY9230Nmc1BKP8) | [Habesha](https://open.spotify.com/album/7xeGTsVCULFt42tcgv85zK) | 4:57 | 2020-07-21 | 2022-11-18 |
 | [One Life](https://open.spotify.com/track/5I6ohxdSpuR6oxR15nvDqP) | [BiniZion](https://open.spotify.com/artist/0gP8OJt9A0EdaSAyuUhSEU) | [One Life](https://open.spotify.com/album/1PkZwghjdN9FKrrCPWR8gb) | 3:02 | 2023-09-14 |  |
+| [Pon Mi](https://open.spotify.com/track/460VtlJtrs4j8kiBPcQlyJ) | [Noori Belai](https://open.spotify.com/artist/1OF4TSXATKUqj0G6tCCRTp) | [Pon Mi](https://open.spotify.com/album/19Oyvrg5EIJr8GeXVxkD1z) | 2:23 | 2023-10-13 |  |
 | [Qal](https://open.spotify.com/track/0ZM9wgVnliFhDKdNdND349) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [Sidist \(VI\)](https://open.spotify.com/album/25lSM4Kr3XmfZPALspAiNH) | 4:51 | 2022-11-17 |  |
 | [Rega](https://open.spotify.com/track/5srRfLAfga930OVMWupdB7) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm), [Ahadu](https://open.spotify.com/artist/656D6SvS3ESkvQdroZMC6W), [Ezra](https://open.spotify.com/artist/2WrgUQR8a2v9yu8ViT1aIH) | [Rega](https://open.spotify.com/album/6V0xmnyjX86ZfvuUTVKaLB) | 4:15 | 2019-11-25 |  |
 | [Setaleksh Des Alishign, Abinet Agonafir](https://open.spotify.com/track/3x1IPNc49eHFIRYPqrge1h) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [The Ethiopian Millennium Collection \- Dance](https://open.spotify.com/album/7JIzV5YLIR8GidhHgQ4LJa) | 5:04 | 2018-10-04 | 2022-11-14 |
@@ -93,7 +94,7 @@
 | [Tilobign](https://open.spotify.com/track/57eim2kUA5BYD7m6fdLeDM) | [Rahel Getu](https://open.spotify.com/artist/6KbkfWzDjN1R46Dt3usSwZ) | [Tilobign](https://open.spotify.com/album/0r806TJjYUw4g4d5LEoSh9) | 4:55 | 2020-06-05 |  |
 | [Tiritaye](https://open.spotify.com/track/6yczkZAYHZ1phW2eUd1IDR) | [Esubalew Yetayew](https://open.spotify.com/artist/0GYW8GPX3VKpRxJ8ZYUE4O) | [Tiritaye](https://open.spotify.com/album/1yh4cLMTXqSRqz5G5cGb4v) | 3:47 | 2023-06-23 |  |
 | [Tizita](https://open.spotify.com/track/784q54gDzR98Mfd56z56OF) | [Buzuayew Demissie](https://open.spotify.com/artist/2Wm17zcM0MLD7TQBS1lgPq) | [Nahiom Favorites, Vol\. 19](https://open.spotify.com/album/4DfZwvE1S6ZimCJ7dEYwXg) | 5:56 | 2018-10-04 |  |
-| [Twek](https://open.spotify.com/track/3OADWQ0NN2leWsq7nWOcdi) | [Nhatty Man](https://open.spotify.com/artist/12jbtksvQlpVBIFAoLVUQ1) | [Vol\. ፪](https://open.spotify.com/album/40lDyamtxaIJiruFsgBKqf) | 5:10 | 2018-10-04 |  |
+| [Twek](https://open.spotify.com/track/3OADWQ0NN2leWsq7nWOcdi) | [Nhatty Man](https://open.spotify.com/artist/12jbtksvQlpVBIFAoLVUQ1) | [Vol\. ፪](https://open.spotify.com/album/40lDyamtxaIJiruFsgBKqf) | 5:10 | 2018-10-04 | 2023-10-14 |
 | [Welday Weni](https://open.spotify.com/track/7hFZoxd3fHB6kn3M2fZbgz) | [Liham Melody](https://open.spotify.com/artist/4mgP2hXsnULBqWou6ld9rQ) | [Welday Weni](https://open.spotify.com/album/2KbxKjKmOB2IPUsDdGBb8z) | 4:25 | 2020-06-05 | 2023-07-27 |
 | [Weni](https://open.spotify.com/track/6p6EtFi1gebyBR0gkXYEbS) | [Timnit Welday](https://open.spotify.com/artist/5zLVjV7HLXnaNAmR4ilnRm) | [Weni](https://open.spotify.com/album/7vdf2o4j9g5Yq6U1yxTJ5c) | 4:21 | 2020-06-05 | 2022-09-04 |
 | [Weni](https://open.spotify.com/track/7C4rnmQ8aLURc4FLz14Tfe) | [Timnit Welday](https://open.spotify.com/artist/1EJTyBtShYv9uyv6BmPSdl) | [Weni](https://open.spotify.com/album/2nogpd8iqZOtNICZO0KOpq) | 4:23 | 2023-06-23 |  |

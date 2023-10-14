@@ -4,7 +4,7 @@
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-81 songs - 5 hr 45 min
+82 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [comigo](https://open.spotify.com/track/7eAm1mBCgg8iC9UIrxCe1U) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ), [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [comigo](https://open.spotify.com/album/3fx98vrazoPSCNfiDtjQUn) | 4:53 | 2022-09-02 |  |
 | [Coragem](https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K) | [Netto](https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP) | [Coragem](https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G) | 4:25 | 2022-09-02 |  |
 | [Coração de Aprendiz](https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Coração de Aprendiz](https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz) | 5:03 | 2023-02-24 |  |
-| [Corpo I](https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD) | [O Banquete](https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l) | 4:40 | 2022-09-02 |  |
+| [Corpo I](https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD) | [O Banquete](https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l) | 4:40 | 2022-09-02 | 2023-10-14 |
 | [Cuide](https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Cuide](https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt) | 3:05 | 2022-09-02 |  |
 | [Dear God \- Acoustic](https://open.spotify.com/track/4qCv9ASsTJ4kg8gsUWUaAD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Anna Asbury](https://open.spotify.com/artist/7p0xoVWYGEFjgCsAaD0eHB) | [Dear God \(Acoustic\)](https://open.spotify.com/album/3gxqjuUVhBQ0Gb3tRZyD2m) | 3:37 | 2022-09-02 |  |
 | [Descansar em Ti](https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Descansar em Ti](https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef) | 3:45 | 2022-09-02 |  |
@@ -67,6 +67,7 @@
 | [Qual É O Pensamento](https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Qual É O Pensamento](https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2) | 2:21 | 2022-09-02 |  |
 | [Quando A Gente Voltar](https://open.spotify.com/track/03wotmqx2qpMxH1NrQH6fi) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Quando A Gente Voltar](https://open.spotify.com/album/5hCZlmnl8xki4ZeN8re4Y9) | 2:00 | 2022-09-02 | 2023-04-29 |
 | [Quando Ninguém Me Vê](https://open.spotify.com/track/30pihAQ6IGOKJlIX9kUdZj) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Three Voices](https://open.spotify.com/artist/7mMXVPgjGcXDIizoH1KYLm) | [Quando Ninguém Me Vê](https://open.spotify.com/album/6ImaEJL8fL6CqEeEhvfpLM) | 4:11 | 2022-11-04 | 2023-02-11 |
+| [Raridade \(Releitura\)](https://open.spotify.com/track/7ChILVLENXtNdAGyavc9th) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Raridade \(Releitura\)](https://open.spotify.com/album/2iVGtuWpmNtP5Az2SUXAcj) | 4:16 | 2023-10-06 |  |
 | [Recomeçar](https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Recomeçar](https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv) | 3:50 | 2022-09-02 |  |
 | [Reina](https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c) | [Jeferson Pillar](https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ) | [Confissões](https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK) | 4:08 | 2022-09-02 |  |
 | [Se Eu Cair](https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Se Eu Cair](https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv) | 5:35 | 2022-09-02 |  |

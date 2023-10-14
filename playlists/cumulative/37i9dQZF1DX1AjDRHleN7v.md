@@ -2,9 +2,9 @@
 
 ### [Praiana](https://open.spotify.com/playlist/37i9dQZF1DX1AjDRHleN7v)
 
-> Um pouco de reggae pra acompanhar a brisa do mar\. Foto: Melim
+> Um pouco de reggae pra acompanhar a brisa do mar.
 
-76 songs - 4 hr 24 min
+77 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Acordei Bem Cedo](https://open.spotify.com/track/0kXMyDlaPHsMJPLug6LZpI) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Mc Kanhoto](https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA), [MC Murilo MT](https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP) | [Acordei Bem Cedo](https://open.spotify.com/album/67TrPKnENDevc0cq8FEfm5) | 6:17 | 2023-09-15 |  |
 | [Amor Bandido](https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Arcano 19](https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP) | 4:04 | 2023-07-03 |  |
 | [Avenida da Paixão](https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX) | [Pagui](https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y) | [Avenida da Paixão](https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ) | 2:32 | 2023-08-04 | 2023-10-09 |
-| [Be Where Your Feet Are](https://open.spotify.com/track/7awndyySQdYEo3qffxtdUD) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Look For The Good \(Deluxe Edition\)](https://open.spotify.com/album/2KRilDRNGoK60NM5gXfF63) | 3:14 | 2023-07-03 |  |
+| [Be Where Your Feet Are](https://open.spotify.com/track/7awndyySQdYEo3qffxtdUD) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Look For The Good \(Deluxe Edition\)](https://open.spotify.com/album/2KRilDRNGoK60NM5gXfF63) | 3:14 | 2023-07-03 | 2023-10-14 |
+| [Bom Dia](https://open.spotify.com/track/5Xk4ibO0C5HsDfyPFZDBHm) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Bom Dia](https://open.spotify.com/album/41LhaCTtInZIK55bmcT5Im) | 3:15 | 2023-10-13 |  |
 | [Brisa Positiva](https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Brisa Positiva](https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT) | 3:24 | 2023-07-03 |  |
 | [Caiçara](https://open.spotify.com/track/348fxaFJRVpt775GjR31aM) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Caiçara](https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK) | 2:54 | 2023-07-03 |  |
 | [Clama Floresta](https://open.spotify.com/track/0UfczdZ7Se11TOmKLt61cV) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH), [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Lucas Nunes](https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [SIM SIM SIM](https://open.spotify.com/album/3dTQyJxSCkwJ4PFcURFd3f) | 5:49 | 2023-07-03 | 2023-07-29 |
@@ -41,7 +42,7 @@
 | [Lua Crescente](https://open.spotify.com/track/3pxlJ6ekcf3e5AIwbU9Wzt) | [Calbertini](https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH) | [Lua Crescente](https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu) | 3:21 | 2023-07-03 |  |
 | [Me Beija](https://open.spotify.com/track/5iZ9HUP9pMc9su3wX5OqRM) | [Mateus Menezes](https://open.spotify.com/artist/2OmkPZFRWq9lBwUEtTF5Wz) | [Me Beija](https://open.spotify.com/album/5H4GpgPTKEXQTifFxo9vlk) | 2:59 | 2023-07-03 |  |
 | [Melhor Assunto \- Bus Live Session](https://open.spotify.com/track/7xva0maR5No7LbH70UEj5M) | [Nossa Toca](https://open.spotify.com/artist/5o00VSNNjsdSmZ0YJwUSxi), [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Melhor Assunto \(Bus Live Session\)](https://open.spotify.com/album/5kNBIykzFFamaBRteogvJG) | 2:43 | 2023-07-03 | 2023-08-05 |
-| [Minha Ilha](https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v) | [Gabriel Oliveira](https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr) | [Minha Ilha](https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj) | 3:43 | 2023-07-03 | 2023-10-07 |
+| [Minha Ilha](https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v) | [Gabriel Oliveira](https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr) | [Minha Ilha](https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj) | 3:43 | 2023-07-03 |  |
 | [Na Jornada \- Remasterizado](https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s) | [Amaro Lima](https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag) | [Coletivo \(Remasterizado\)](https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G) | 4:14 | 2023-07-03 |  |
 | [Na Positiva](https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Na Positiva](https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR) | 2:33 | 2023-07-03 |  |
 | [Nada É em Vão](https://open.spotify.com/track/3n7MHHJ8KjZ5dX7FMjyVks) | [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Cardeal](https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3) | 3:50 | 2023-07-03 | 2023-08-15 |
@@ -71,7 +72,7 @@
 | [Sonhei Com Você](https://open.spotify.com/track/287VCse3MOuvKUyyC3xhSh) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [Sonhei Com Você](https://open.spotify.com/album/0Ihx0FWz6rTdqqAwn4fGNb) | 3:28 | 2023-07-03 |  |
 | [Tchau Querido](https://open.spotify.com/track/5YRYqGDj8I2QVq9hihSZA8) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Ascenda](https://open.spotify.com/album/17vkIbWTbSp2oy4ZlXn0y8) | 3:37 | 2023-07-03 |  |
 | [Terra do Sol](https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf) | [Calmô](https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy), [Tupi Machine](https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l) | [Terra do Sol](https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8) | 2:33 | 2023-07-03 |  |
-| [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2023-07-03 |  |
+| [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2023-07-03 | 2023-10-14 |
 | [Toda Molhada \(Casa do Sol\) \- Ao Vivo 25 Anos](https://open.spotify.com/track/1g6Ng6XKGC8ns0aWFS5Zun) | [Comunidade Nin\-jitsu](https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg) | [Toda Molhada \(Casa do Sol\) \- Ao Vivo 25 Anos](https://open.spotify.com/album/3qDRvHE5ZYck86T7SrGdS1) | 4:35 | 2023-07-03 |  |
 | [True To Myself](https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:45 | 2023-07-03 |  |
 | [Tô Em Casa](https://open.spotify.com/track/71GwNOolQgbTqG4YQM8TNO) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Tô Em Casa](https://open.spotify.com/album/1tHXr2JpbZAyn4cS6eObs7) | 2:46 | 2023-07-03 |  |

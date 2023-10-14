@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Dusk to Dawn",
+        "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
+      },
+      "artists": [
+        {
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281481,
+      "name": "Alone in My Room",
+      "url": "https://open.spotify.com/track/1nPXBgflWZSAomAon6i7qw"
+    },
+    {
+      "album": {
         "name": "Alphamale",
         "url": "https://open.spotify.com/album/6xAxbY22ClrcbdF4H6fMhJ"
       },
@@ -801,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283636,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx"
+    },
+    {
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/4SQJqQE51LU9pTWX0zC7s6"
       },
@@ -1048,6 +1084,24 @@
       "duration_ms": 185510,
       "name": "Bicycle (Rework)",
       "url": "https://open.spotify.com/track/0IrnXvUh1uDvsNIWajE8Su"
+    },
+    {
+      "album": {
+        "name": "Proof Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171700,
+      "name": "Black Car",
+      "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
     },
     {
       "album": {
@@ -2021,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/6ubBnaA12qbh5WbxoNXsn2"
+      },
+      "artists": [
+        {
+          "name": "After Ours",
+          "url": "https://open.spotify.com/artist/48mkLSnW17hfCg0rDjMzs7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242265,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/61aJAWoZAj4ymQOkkfUSnk"
+    },
+    {
+      "album": {
         "name": "Dancing in the Moonlight (Beach)",
         "url": "https://open.spotify.com/album/2X9C6daog3060N1C99C49C"
       },
@@ -2230,7 +2302,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 146086,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/70pZfY21iBNQZwSrNgIrKQ"
@@ -3152,7 +3224,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 184451,
       "name": "For The Breakdowns",
       "url": "https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10"
@@ -3636,6 +3708,24 @@
       "duration_ms": 396624,
       "name": "Half Moon Glow",
       "url": "https://open.spotify.com/track/6IFjS91zi3L02UZe5PsRCE"
+    },
+    {
+      "album": {
+        "name": "Hang Up the Lights",
+        "url": "https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160437,
+      "name": "Hang Up The Lights",
+      "url": "https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k"
     },
     {
       "album": {
@@ -6000,7 +6090,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 231750,
       "name": "Meteor Shower",
       "url": "https://open.spotify.com/track/2xWnX3wmodlJgoEgLnyeMG"
@@ -7508,7 +7598,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 176089,
       "name": "Running",
       "url": "https://open.spotify.com/track/32ehY1sbKp8U3wGkV6SkOq"
@@ -7548,6 +7638,24 @@
       "duration_ms": 183600,
       "name": "safety",
       "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
+    },
+    {
+      "album": {
+        "name": "Sailing",
+        "url": "https://open.spotify.com/album/4JC0wgDAIou1Q0005eCXb4"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205673,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/5BhlE0di2Qeey289ECk9IF"
     },
     {
       "album": {
@@ -8362,7 +8470,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 251840,
       "name": "Spring",
       "url": "https://open.spotify.com/track/6rpBt33GFsDKHLKjHfl5Dk"
@@ -10324,7 +10432,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 230967,
       "name": "When the World is Ending",
       "url": "https://open.spotify.com/track/6atRhZ7LJMJ7yVkqBP2xW3"

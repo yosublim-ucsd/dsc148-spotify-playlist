@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,414 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,444 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [愛の囚人たち](https://open.spotify.com/track/4E8aWkJkqZjph3XM6p5ooS) | [ルイ](https://open.spotify.com/artist/11YYwcMwOT9LS7GA4CO4R8) | [愛の囚人たち](https://open.spotify.com/album/2sGCP5Zmup2JnMOBCnUKrZ) | 4:41 |
 | 100 | [DISCONNECT](https://open.spotify.com/track/5xm3g16LLPV5kKtMa6u2kM) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [DISCONNECT](https://open.spotify.com/album/4IMSWtZdzt4PoUoi3Y4avI) | 2:49 |
 
-Snapshot ID: `MCxkMzIzZGZhNGZlMDBiZTY5NDIzYTNhNDgzYmNmZDZmNzM2NGViNjFh`
+Snapshot ID: `MCwyN2Y3OTM1ZjBhYjQ4NmQ4M2RhMGRkMzgyMDA4ZmE2MmJhZDM3ZDhi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,305 likes - 92 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,492 likes - 92 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 91 | [Les rues de Paris](https://open.spotify.com/track/2Z706066GiPx7nVpQrVLqU) | [Stefano Corradi](https://open.spotify.com/artist/4KnatJMl9LPIdRUSQsYION), [Gian Pietro Marazza](https://open.spotify.com/artist/2tgYUszDncWLQhwJzSSfVX), [Luca Garlaschell](https://open.spotify.com/artist/4uHfosVwJmQAuFyXngLoPo) | [Love Routes \(Romantic Accordion Ballads in Rome\)](https://open.spotify.com/album/3lEXZx6W90Y1WjkWILQwaB) | 2:08 |
 | 92 | [Valse Des Niglos](https://open.spotify.com/track/0lHWKbBlhz3uzdFN5GGOT8) | [Jo Privat](https://open.spotify.com/artist/7wWbbQYVV7AVROYT3sMVoA) | [Minor Swing](https://open.spotify.com/album/5hdK38PRwYdBhdBuyGyZDF) | 2:22 |
 
-Snapshot ID: `MCxhYzM2YzBlNTkwZTQ1YTk2ODY2YzE1MzU2NWQ4YWVlODM5NzRiNDY1`
+Snapshot ID: `MCxmZjRjMjE4NjM4MzEyOTRjMjc1NDJlMjAxMjc3MjRmODc3OTYzNDU0`

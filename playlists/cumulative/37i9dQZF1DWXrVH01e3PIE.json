@@ -375,6 +375,28 @@
     },
     {
       "album": {
+        "name": "Alto Voltaje",
+        "url": "https://open.spotify.com/album/7CEVp0O8OPR5dtJCdbopyX"
+      },
+      "artists": [
+        {
+          "name": "Nissa",
+          "url": "https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy"
+        },
+        {
+          "name": "Phontana",
+          "url": "https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173391,
+      "name": "Alto Voltaje",
+      "url": "https://open.spotify.com/track/7x5QrpNYXlOayjApxxR6Lu"
+    },
+    {
+      "album": {
         "name": "Amor de Rola",
         "url": "https://open.spotify.com/album/75PRnhJgB0T97jgUp5gn4I"
       },
@@ -2816,7 +2838,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 109830,
       "name": "Michael Jackson",
       "url": "https://open.spotify.com/track/45I9Ev1Hn6sy41DXcQ86AF"
@@ -3294,7 +3316,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 168000,
       "name": "ORO Y PLATINO",
       "url": "https://open.spotify.com/track/1ND2wzmMW3t9HHaHPMIaNo"
@@ -3324,7 +3346,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 169313,
       "name": "OTRA NOCHE",
       "url": "https://open.spotify.com/track/1JszOi9nTXFR5gxFyczhEw"
@@ -4074,6 +4096,24 @@
       "duration_ms": 209531,
       "name": "She Don't Give a Fo",
       "url": "https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS"
+    },
+    {
+      "album": {
+        "name": "Si lo ve Mam\u00e1",
+        "url": "https://open.spotify.com/album/5r1OzQUcHzgjkHeDFr4pwb"
+      },
+      "artists": [
+        {
+          "name": "Frozouda",
+          "url": "https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133272,
+      "name": "Si lo ve Mam\u00e1",
+      "url": "https://open.spotify.com/track/6ysA09ikVJH2DmnYy3IGSt"
     },
     {
       "album": {

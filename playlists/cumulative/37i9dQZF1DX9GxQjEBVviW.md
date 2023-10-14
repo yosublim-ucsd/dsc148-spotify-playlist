@@ -4,7 +4,7 @@
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-93 songs - 3 hr 59 min
+94 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Could This Be Magic](https://open.spotify.com/track/4OkVQKZpYeuZaCJ7pjNGMc) | [The Dubs](https://open.spotify.com/artist/33rjua7RFjy9GwqKWnbnGJ) | [Deep Purple \(Original Recordings\)](https://open.spotify.com/album/6jul8eX6ZcgkvwVSsfbki1) | 2:18 | 2021-02-12 | 2022-11-13 |
 | [Crying In The Chapel](https://open.spotify.com/track/35vjuw2ttf6OL5vFXY9w5v) | [The Orioles](https://open.spotify.com/artist/4Am5deuAhDuKUJgXmoCQzj) | [The Orioles 1947\-1955](https://open.spotify.com/album/65RsqV8nJL5rPzAkzKjjWa) | 3:08 | 2021-02-12 | 2022-11-13 |
 | [Crying in the Chapel](https://open.spotify.com/track/1MdtXzJLuRoC1qZe1OxyPq) | [The Orioles](https://open.spotify.com/artist/4Am5deuAhDuKUJgXmoCQzj) | [Presenting the Orioles](https://open.spotify.com/album/3ilxDZ0GVsoDyHcHgYTBJv) | 3:08 | 2021-02-12 | 2023-07-21 |
-| [Crying in the Chapel \- Remastered](https://open.spotify.com/track/53AD8JznNIb0jUZvwFY6MB) | [Sonny Til & The Orioles](https://open.spotify.com/artist/0xu2ZjoR7pUPjMIDcJ67dW) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/5GuwHCtGYe062YWhAyc0jF) | 3:01 | 2021-02-12 |  |
+| [Crying in the Chapel \- Remastered](https://open.spotify.com/track/53AD8JznNIb0jUZvwFY6MB) | [Sonny Til & The Orioles](https://open.spotify.com/artist/0xu2ZjoR7pUPjMIDcJ67dW) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/5GuwHCtGYe062YWhAyc0jF) | 3:01 | 2021-02-12 | 2023-10-14 |
 | [Daddy's Home](https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW) | [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV), [The Limelites](https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:54 | 2021-02-12 |  |
 | [Devil or Angel \- 2007 Remaster](https://open.spotify.com/track/1YKj6Yx5bHj15lThWYkKCz) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [Down In The Alley: The Best Of The Clovers](https://open.spotify.com/album/39FLNjOqur5u3WbvsoFg6S) | 2:26 | 2021-02-12 | 2022-11-13 |
 | [Don't Ask Me to Be Lonely](https://open.spotify.com/track/0AFnv5nhaov4aiWyl81Yb6) | [The Dubs](https://open.spotify.com/artist/33rjua7RFjy9GwqKWnbnGJ) | [The Dubs Meet The Shells](https://open.spotify.com/album/66OAMu3Uhm62dda1U22OZQ) | 2:19 | 2021-02-12 | 2023-02-10 |
@@ -92,6 +92,7 @@
 | [Under the Boardwalk](https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 2:41 | 2021-02-12 |  |
 | [Up on the Roof](https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Up on the Roof: The Best of the Drifters](https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3) | 2:35 | 2021-02-12 |  |
 | [When You Dance](https://open.spotify.com/track/4rXndJbjTYZ4ISX3pBGxfL) | [The Turbans](https://open.spotify.com/artist/5wn4Uafieiu8AEo360i2z7) | [The Best of The Turbans](https://open.spotify.com/album/0zVLh6WHk53AWbfRxAf6RH) | 2:57 | 2021-02-12 | 2022-11-13 |
+| [Whispering Bells](https://open.spotify.com/track/146DRoVAxV5jNjv04Pw6XJ) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [The Pennsylvania Vikings](https://open.spotify.com/album/3AEbuPJtClS1zNd8oTJLSD) | 2:23 | 2021-02-12 |  |
 | [Whispering Bells](https://open.spotify.com/track/0VRJtAPuTBrYTfAjVp7HD9) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Stand By Me \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0Yk5DkDnqOtzPuBzTs6fti) | 2:26 | 2021-02-12 | 2022-07-29 |
 | [Whispering Bells](https://open.spotify.com/track/3HYOGLROB66y1gFYxZyWhs) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5), [Krips Johnson](https://open.spotify.com/artist/1HaB4OY2BLW2ve9FHAwMRZ) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:24 | 2021-02-12 | 2023-09-15 |
 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 | 2021-02-12 |  |

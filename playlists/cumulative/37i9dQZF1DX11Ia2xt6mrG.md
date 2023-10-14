@@ -4,7 +4,7 @@
 
 > Descubre lo más fresco de la electrónica mexicana\. Dannylux en portada.
 
-220 songs - 12 hr 31 min
+222 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Sexy Velocity](https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Sexy Velocity](https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr) | 3:32 | 2023-02-21 |  |
 | [Shadows](https://open.spotify.com/track/4FmMrvogUG8GxzyJSuRbGv) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [Atmën](https://open.spotify.com/artist/1Yhyrgpjks2m1yI2c7aIZf), [MaQui](https://open.spotify.com/artist/0LiSEfi7u1vXziSuYH6l2q) | [Shadows](https://open.spotify.com/album/1fRYEitkWXzm7eahpzX0ll) | 3:10 | 2022-05-06 |  |
 | [Shake It Off](https://open.spotify.com/track/4NeEPhcQgCEBF514Tql4DC) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Shake It Off](https://open.spotify.com/album/6OO1SWTyPTQPmn8cHRLnP2) | 3:01 | 2022-05-06 | 2023-03-25 |
+| [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A) | 2:40 | 2023-10-13 |  |
 | [Sin Mí No Te Vayas](https://open.spotify.com/track/4GJheqbW6QK9JTtgeVkhCw) | [Pllws](https://open.spotify.com/artist/1MFhgehbIObqmgnONpXeFq) | [Sin Mí No Te Vayas](https://open.spotify.com/album/08Srh3AYNZlJMLWeTX4nnD) | 3:33 | 2022-05-06 | 2022-07-24 |
 | [Sink Or Swim](https://open.spotify.com/track/0Xnj524QeZdv6TL1lgSUie) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Sink Or Swim](https://open.spotify.com/album/5H4VTWlTP69pgYHergGye6) | 3:47 | 2022-05-06 | 2022-07-09 |
 | [Sink Or Swim](https://open.spotify.com/track/54hlq4fexO9qKO85nnlbCD) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [\#aparttogether](https://open.spotify.com/album/0QNvH5B30qLksTcfsqbRXI) | 3:47 | 2022-07-28 | 2023-03-25 |
@@ -189,6 +190,7 @@
 | [Stereo Love](https://open.spotify.com/track/6X9hD9medguWs5mMGy6S0X) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [Donovan's Playground](https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ), [Lujavo](https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Stereo Love](https://open.spotify.com/album/3G5JR3RJrRSVJTQv2QfcGH) | 3:07 | 2022-05-06 | 2023-03-25 |
 | [Sunrise](https://open.spotify.com/track/63qjpIJeOAK2EW5IEFBv6M) | [VINIIUM](https://open.spotify.com/artist/01wEzy3mqT1ofEGTAz0Li8), [Cuish](https://open.spotify.com/artist/61RmCUTCpJE6fDpVAerv0e), [J R](https://open.spotify.com/artist/5MYXFUnXVLXnZQakGP9yQn) | [Sunrise](https://open.spotify.com/album/30vmI1DiwumAQksOw5OqMm) | 2:48 | 2022-07-28 | 2022-09-02 |
 | [Superhero](https://open.spotify.com/track/2Qs5tIbboAR14vYDIbuCRp) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [Superhero](https://open.spotify.com/album/4cUZ6cXbaWqVbe3xJJmdWu) | 2:58 | 2022-05-06 | 2023-03-25 |
+| [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK) | 3:16 | 2023-10-13 |  |
 | [SWAP](https://open.spotify.com/track/2xfHRGswktlqJTfgccrZW4) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [S & L](https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL) | [SWAP](https://open.spotify.com/album/79zRxuTTkqE9NexZ9ds3LH) | 2:33 | 2022-05-06 |  |
 | [Sweet Potato](https://open.spotify.com/track/37Irxjh40DtOug3lCHIwIa) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Sweet Potato](https://open.spotify.com/album/5CAbEja62qpe4nzETlwQhg) | 2:46 | 2022-08-02 | 2023-03-25 |
 | [Sweet Potato](https://open.spotify.com/track/6E09140FnSWgjdUJJosGfx) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Sweet Potato](https://open.spotify.com/album/3jMgo1MoBGBoAHfy3cgEeV) | 2:46 | 2022-06-17 | 2022-10-13 |

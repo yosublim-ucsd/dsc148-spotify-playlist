@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,138 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,150 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sway](https://open.spotify.com/track/0URET1QRXICvNhwgNn5OWD) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [Sway](https://open.spotify.com/album/5j17Q40WrMCERsIFa9WCQh) | 2:40 |
-| 2 | [In Love Again](https://open.spotify.com/track/19wX7jFn6EsJmvbOhQpnaj) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [In Love Again](https://open.spotify.com/album/7g0rtDedv83hrOX65g9dtX) | 4:07 |
-| 3 | [Shiny and New](https://open.spotify.com/track/71VnmWirWkHf6XAloWH5TO) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Shiny and New](https://open.spotify.com/album/00rDINWPKuv6v4uPEmReYG) | 3:30 |
-| 4 | [Simple Love Songs \- Extended Version](https://open.spotify.com/track/202Ebn3Kj18Ukkr9LQXwol) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Simple Love Songs \- Extended Version](https://open.spotify.com/album/2APkE3JslirvBHQxbz5Iop) | 2:51 |
+| 1 | [CHIVALRY IS DEAD](https://open.spotify.com/track/48KAjFkydsuZHkG7ftt8GW) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [CHIVALRY IS DEAD](https://open.spotify.com/album/7L4qkkUL8dr979LA7hzV9W) | 3:03 |
+| 2 | [Sailing](https://open.spotify.com/track/5BhlE0di2Qeey289ECk9IF) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Sailing](https://open.spotify.com/album/4JC0wgDAIou1Q0005eCXb4) | 3:25 |
+| 3 | [In Love Again](https://open.spotify.com/track/19wX7jFn6EsJmvbOhQpnaj) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [In Love Again](https://open.spotify.com/album/7g0rtDedv83hrOX65g9dtX) | 4:07 |
+| 4 | [Shiny and New](https://open.spotify.com/track/71VnmWirWkHf6XAloWH5TO) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Shiny and New](https://open.spotify.com/album/00rDINWPKuv6v4uPEmReYG) | 3:30 |
 | 5 | [A Matter Of Fact](https://open.spotify.com/track/5OrTeeOw67AK6iBmpAuHaw) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Sunbursting EP](https://open.spotify.com/album/5klM7eDsW550jwU1DXTxpV) | 3:00 |
 | 6 | [Better Than Ever](https://open.spotify.com/track/5PXPE3omLz44P8p6o0HNI1) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Better Than Ever](https://open.spotify.com/album/6IXkIsTAzELAO5mwzJQ6yh) | 3:56 |
 | 7 | [Without You](https://open.spotify.com/track/28SHB4LMHD9ExTETbQIZfY) | [Brady Watt](https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Without You](https://open.spotify.com/album/3gAlDfcCFS4LEYtNTndsCx) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 49 | [I Wonder](https://open.spotify.com/track/6QsnUuIH1eWCmZ3Du1hzFJ) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [I Wonder](https://open.spotify.com/album/07vvTjXpmDxTVulZkXrK6p) | 4:11 |
 | 50 | [Day & Night](https://open.spotify.com/track/09iktHjNiTzCX6YT5XKScx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:36 |
 
-Snapshot ID: `MCxlMDc2ODgzZTRhZmE1MTZhOGYwOTNhYWNlODEwODhiOGI3MWVmNDA2`
+Snapshot ID: `MCxlZDI1NTdmYTFmZDVjZmIwOWNhMjBmZWUxNjAwZWE4OGEwODFlNmEw`

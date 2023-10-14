@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,902 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,903 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OLE](https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OLE](https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy) | 2:31 |
-| 2 | [Manhattan](https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Manhattan](https://open.spotify.com/album/1ofHkWWW4k9wj8PUCPnD3K) | 2:41 |
-| 3 | [Too Late To Party](https://open.spotify.com/track/3yrdfryHbFnwQuGrNAZQIr) | [KwesiSoul](https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr), [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Too Late To Party](https://open.spotify.com/album/5DMDU4qd94FEgJlpKr7rZs) | 3:04 |
-| 4 | [Find You There](https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Find You There](https://open.spotify.com/album/4rn5EMuUivnnQmxccYkRe3) | 3:05 |
-| 5 | [Ondine's Curse](https://open.spotify.com/track/4qxteXCD4RAGbJQH95eRRw) | [SEI SIREN](https://open.spotify.com/artist/70Z1TUPHxHkADZaWyJVlAl) | [Orca](https://open.spotify.com/album/7JSAAgAho49VU5dDRjCQxE) | 2:44 |
-| 6 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 |
-| 7 | [I Like](https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [I Like](https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p) | 3:19 |
-| 8 | [Special](https://open.spotify.com/track/7I6XUPmFLP99J5LxTJDmcQ) | [Gabriela Diamond](https://open.spotify.com/artist/0L7Ck6i3Zr1UBztHOYQRoo) | [Special](https://open.spotify.com/album/56DtRfqO1chs9KwEJHuWSm) | 2:43 |
-| 9 | [We Should've Talked About Saturday](https://open.spotify.com/track/1SI38tpcZbWCtxeqqEB8AM) | [Ndung'u Mbithi](https://open.spotify.com/artist/1Xae29olA5X6qpDX6MOvHO), [Ashley Kitonga](https://open.spotify.com/artist/0gpPjpebiHO5IkBBro2CyI) | [We Should've Talked About Saturday](https://open.spotify.com/album/1MxPoF95ecdKumtef1QGGJ) | 3:58 |
-| 10 | [Galatea](https://open.spotify.com/track/6DpzJLvpEoQ8JHYBT7UFqO) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/5knaY5eUPXeY51TN6lyUIG) | 3:46 |
-| 11 | [GO WITH GUT](https://open.spotify.com/track/7mRFGJZ5TUuNbOALh3tDwV) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [GO WITH GUT](https://open.spotify.com/album/01Xj382BlVU0Jlcd46b4ra) | 3:20 |
-| 12 | [Try](https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Try](https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8) | 3:44 |
-| 13 | [Le Nna](https://open.spotify.com/track/0iITdLlvevSpWBiURJirKN) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [The First Kind](https://open.spotify.com/album/2mg5e4VrqplBIt4COvJngx) | 2:35 |
-| 14 | [All My Days](https://open.spotify.com/track/052blcya1EJNErdYq2HHbA) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [All My Days](https://open.spotify.com/album/45px3I5ighDQfdY7seZnwP) | 3:06 |
-| 15 | [falling\~](https://open.spotify.com/track/7dgMFMUHS85HV610Z4uCRk) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [leave me i'm drowning](https://open.spotify.com/album/7vDRqpXgAFCzG1gi4UaWAy) | 3:26 |
-| 16 | [Care For You](https://open.spotify.com/track/7tcp0h2ypx4PKJaw1Sn1je) | [BuDu](https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB) | [Care For You](https://open.spotify.com/album/3hYqlV8cBdFnwy4dSR3elT) | 3:52 |
-| 17 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
-| 18 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
-| 19 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 |
+| 2 | [Find You There](https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Find You There](https://open.spotify.com/album/4rn5EMuUivnnQmxccYkRe3) | 3:05 |
+| 3 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
+| 4 | [Ondine's Curse](https://open.spotify.com/track/4qxteXCD4RAGbJQH95eRRw) | [SEI SIREN](https://open.spotify.com/artist/70Z1TUPHxHkADZaWyJVlAl) | [Orca](https://open.spotify.com/album/7JSAAgAho49VU5dDRjCQxE) | 2:44 |
+| 5 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 |
+| 6 | [I Like](https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [I Like](https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p) | 3:19 |
+| 7 | [Special](https://open.spotify.com/track/7I6XUPmFLP99J5LxTJDmcQ) | [Gabriela Diamond](https://open.spotify.com/artist/0L7Ck6i3Zr1UBztHOYQRoo) | [Special](https://open.spotify.com/album/56DtRfqO1chs9KwEJHuWSm) | 2:43 |
+| 8 | [We Should've Talked About Saturday](https://open.spotify.com/track/1SI38tpcZbWCtxeqqEB8AM) | [Ndung'u Mbithi](https://open.spotify.com/artist/1Xae29olA5X6qpDX6MOvHO), [Ashley Kitonga](https://open.spotify.com/artist/0gpPjpebiHO5IkBBro2CyI) | [We Should've Talked About Saturday](https://open.spotify.com/album/1MxPoF95ecdKumtef1QGGJ) | 3:58 |
+| 9 | [Galatea](https://open.spotify.com/track/6DpzJLvpEoQ8JHYBT7UFqO) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/5knaY5eUPXeY51TN6lyUIG) | 3:46 |
+| 10 | [GO WITH GUT](https://open.spotify.com/track/7mRFGJZ5TUuNbOALh3tDwV) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [GO WITH GUT](https://open.spotify.com/album/01Xj382BlVU0Jlcd46b4ra) | 3:20 |
+| 11 | [Try](https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Try](https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8) | 3:44 |
+| 12 | [Le Nna](https://open.spotify.com/track/0iITdLlvevSpWBiURJirKN) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [The First Kind](https://open.spotify.com/album/2mg5e4VrqplBIt4COvJngx) | 2:35 |
+| 13 | [All My Days](https://open.spotify.com/track/052blcya1EJNErdYq2HHbA) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [All My Days](https://open.spotify.com/album/45px3I5ighDQfdY7seZnwP) | 3:06 |
+| 14 | [falling\~](https://open.spotify.com/track/7dgMFMUHS85HV610Z4uCRk) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [leave me i'm drowning](https://open.spotify.com/album/7vDRqpXgAFCzG1gi4UaWAy) | 3:26 |
+| 15 | [Care For You](https://open.spotify.com/track/7tcp0h2ypx4PKJaw1Sn1je) | [BuDu](https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB) | [Care For You](https://open.spotify.com/album/3hYqlV8cBdFnwy4dSR3elT) | 3:52 |
+| 16 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
+| 17 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
+| 18 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 |
+| 19 | [TELL ME WHAT THE COST IS](https://open.spotify.com/track/6i9XoASSA4yR8GuRR3FPzB) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [TELL ME WHAT THE COST IS](https://open.spotify.com/album/0hVpAd1caXNVeDfVPOiPrf) | 3:01 |
 | 20 | [radio silence.](https://open.spotify.com/track/71v4C5FtIcJqs2soLAJ6dO) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [what's different\. // radio silence.](https://open.spotify.com/album/56qcks4i9fQqwdrga7QCDR) | 2:10 |
 | 21 | [Sapio\-Medula](https://open.spotify.com/track/4O5EL0Ih7QTWDfU51XUGvB) | [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ) | [Sapio\-Medula](https://open.spotify.com/album/5UqlwxwUB2lyCuFWBRqryI) | 2:52 |
 | 22 | [Not My Own](https://open.spotify.com/track/4LJCnfBCGR7k1cWMbZ6OxQ) | [ro](https://open.spotify.com/artist/1m4s5VPSqT6GcF5fm9qKXB), [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [Not My Own](https://open.spotify.com/album/2MnS88RNdCYeYP12wnxp2D) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 49 | [ALL MINE](https://open.spotify.com/track/3NZtzTfqjbTaNt15451Vs8) | [Micah Acosta](https://open.spotify.com/artist/30rb4ntsbRjqjlPquWtskg) | [ALL MINE](https://open.spotify.com/album/19xxFr7lY0iCr3DpzRc5zN) | 2:47 |
 | 50 | [acting wild.](https://open.spotify.com/track/1pSJpxkh8wLL9fsWMBgq1q) | [tswai](https://open.spotify.com/artist/3xw3vchdbFdB7q7yeCfkVS), [Evida](https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN) | [acting wild.](https://open.spotify.com/album/1hWSN9ZiBIYZCeuKwVPpRb) | 2:21 |
 
-Snapshot ID: `MCxkNGE0ZjlhZGY1YjIwMGJmZjI3YzU2Yjk3NGM1MTg2OWYyYzYyMzA1`
+Snapshot ID: `MCxjMTcyMzAyMjJmY2ZiNzcyYjgwMzQ4M2Y5ZTI4MTQ3MTI2ZmEyZTMz`

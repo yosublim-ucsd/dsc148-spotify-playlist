@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 235584,
+  "num_followers": 235756,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjMwNDY1OGVlMWE4OGI1Zjg1MDhhMzgzMDI2MDg4MzU5MzJkMzJm",
+  "snapshot_id": "MCwzMTM3YjVkZmM0OTRhOTcyNjZjZjMxOGYwMGY1NDdlYjc0MjA5ZDNk",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Meadow",
-        "url": "https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf"
-      },
-      "artists": [
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Meadow",
-      "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
         "url": "https://open.spotify.com/album/7lD371T7NrKgCnOHQq42gk"
       },
@@ -751,6 +735,38 @@
       "duration_ms": 211251,
       "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
       "url": "https://open.spotify.com/track/5Vmj0vCnP9Kf6PuxzERwic"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Meadow",
+        "url": "https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Meadow",
+      "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Wide Place",
+        "url": "https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp"
+      },
+      "artists": [
+        {
+          "name": "Laity",
+          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
+        }
+      ],
+      "duration_ms": 262889,
+      "name": "Wide Place",
+      "url": "https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -775,18 +791,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Wide Place",
-        "url": "https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp"
+        "name": "Secret Place",
+        "url": "https://open.spotify.com/album/29pydTpePrgdD4rHOMohlz"
       },
       "artists": [
         {
-          "name": "Laity",
-          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        },
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
         }
       ],
-      "duration_ms": 262889,
-      "name": "Wide Place",
-      "url": "https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM"
+      "duration_ms": 181011,
+      "name": "Secret Place",
+      "url": "https://open.spotify.com/track/1ALad9pAC3JSK7SvqGAwKa"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -807,26 +827,6 @@
       "duration_ms": 247173,
       "name": "Holy Love",
       "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Secret Place",
-        "url": "https://open.spotify.com/album/29pydTpePrgdD4rHOMohlz"
-      },
-      "artists": [
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        },
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 181011,
-      "name": "Secret Place",
-      "url": "https://open.spotify.com/track/1ALad9pAC3JSK7SvqGAwKa"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Soul's on Fire",
+        "url": "https://open.spotify.com/album/6DcpeOj7clMeg7hD4ZPt33"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "duration_ms": 209545,
+      "name": "Soul's on Fire",
+      "url": "https://open.spotify.com/track/3Lj0mxiDfTDxr5ADKKlxJQ"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Morning Sun, Rising Tide",
         "url": "https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 335299,
       "name": "Goodness",
       "url": "https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Soul's on Fire",
-        "url": "https://open.spotify.com/album/6DcpeOj7clMeg7hD4ZPt33"
-      },
-      "artists": [
-        {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
-        }
-      ],
-      "duration_ms": 209545,
-      "name": "Soul's on Fire",
-      "url": "https://open.spotify.com/track/3Lj0mxiDfTDxr5ADKKlxJQ"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Resting Place (To the Cross)",
+        "url": "https://open.spotify.com/album/0Dvdd8C1sQ7g9wDsNJ0bWM"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 243346,
+      "name": "Resting Place (To the Cross)",
+      "url": "https://open.spotify.com/track/016DP00vwMNLR10fT8jQka"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Tremble",
         "url": "https://open.spotify.com/album/27z3KNGIVFS5vLQfK7zdsL"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 204590,
       "name": "Tremble",
       "url": "https://open.spotify.com/track/6GPU6ddPncezJZyMimnG0Q"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Resting Place (To the Cross)",
-        "url": "https://open.spotify.com/album/0Dvdd8C1sQ7g9wDsNJ0bWM"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 243346,
-      "name": "Resting Place (To the Cross)",
-      "url": "https://open.spotify.com/track/016DP00vwMNLR10fT8jQka"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "I can always find You",
-        "url": "https://open.spotify.com/album/3xuqtlVGECSJnRvvo94pge"
-      },
-      "artists": [
-        {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
-        }
-      ],
-      "duration_ms": 226063,
-      "name": "I can always find You",
-      "url": "https://open.spotify.com/track/4V2rRHpWP0cH2GwsSe3aqg"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Worth The Wait",
         "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 235056,
       "name": "All For You",
       "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "I can always find You",
+        "url": "https://open.spotify.com/album/3xuqtlVGECSJnRvvo94pge"
+      },
+      "artists": [
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "duration_ms": 226063,
+      "name": "I can always find You",
+      "url": "https://open.spotify.com/track/4V2rRHpWP0cH2GwsSe3aqg"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "& Side A",
+        "url": "https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i"
+      },
+      "artists": [
+        {
+          "name": "For All Seasons",
+          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
+        }
+      ],
+      "duration_ms": 268970,
+      "name": "Light & Momentary",
+      "url": "https://open.spotify.com/track/08DEpqd2B46uUj5MeagoC6"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Still I Will Praise [Live at Burgess Barn] [Radio Edit]",
         "url": "https://open.spotify.com/album/5jTcdgdYuicOViLgJMqOUh"
       },
@@ -1371,18 +1387,34 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "& Side A",
-        "url": "https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i"
+        "name": "Suddenly (Or the Nuclear Sunburst of the Truth Revealed)",
+        "url": "https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp"
       },
       "artists": [
         {
-          "name": "For All Seasons",
-          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
         }
       ],
-      "duration_ms": 268970,
-      "name": "Light & Momentary",
-      "url": "https://open.spotify.com/track/08DEpqd2B46uUj5MeagoC6"
+      "duration_ms": 240946,
+      "name": "This Wild Earth",
+      "url": "https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Praise You In This Storm (New York Sessions)",
+        "url": "https://open.spotify.com/album/754X3YgVLT8TIZULobXMIV"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 354407,
+      "name": "Praise You In This Storm - New York Sessions",
+      "url": "https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1419,22 +1451,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Praise You In This Storm (New York Sessions)",
-        "url": "https://open.spotify.com/album/754X3YgVLT8TIZULobXMIV"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 354407,
-      "name": "Praise You In This Storm - New York Sessions",
-      "url": "https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "The War Is Over",
         "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
       },
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Suddenly (Or the Nuclear Sunburst of the Truth Revealed)",
-        "url": "https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 240946,
-      "name": "This Wild Earth",
-      "url": "https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Home (GCM Sinai Sessions) [feat. Jonathan Ogden]",
         "url": "https://open.spotify.com/album/4iwQhf1wykHLNxnTJ9aQfi"
       },
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "New York Sessions",
-        "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 272625,
-      "name": "Who Am I - New York Sessions",
-      "url": "https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Don't Give Up",
         "url": "https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 317000,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "New York Sessions",
+        "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 272625,
+      "name": "Who Am I - New York Sessions",
+      "url": "https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A"
     },
     {
       "added_at": "2023-07-28 04:01:00",

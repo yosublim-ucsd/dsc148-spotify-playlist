@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
-  "num_followers": 266827,
+  "num_followers": 267083,
   "original_name": "Puras Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2U5NGVlZmNlYzBjMjMwM2RmMzg0NTMwNzYwNzNiZmZkMzhjMzM0",
+  "snapshot_id": "MCw1NGZlYTliNjdkODVkZDNlYTZiOWFjN2EyNTk5NDhiMTllNzBmMzI3",
   "tracks": [
     {
       "added_at": "2023-10-06 02:08:04",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
+    },
+    {
+      "added_at": "2023-10-06 02:08:04",
+      "album": {
         "name": "Dile a Tu Orgullo (En Vivo)",
         "url": "https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf"
       },
@@ -1423,18 +1439,18 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 194946,
-      "name": "No Llega el Olvido",
-      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
+      "duration_ms": 133261,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -1451,22 +1467,6 @@
       "duration_ms": 231760,
       "name": "Culpable T\u00fa",
       "url": "https://open.spotify.com/track/2KGzDt4jfP39i8INV4rpdO"
-    },
-    {
-      "added_at": "2023-10-06 02:08:04",
-      "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 133261,
-      "name": "GPI",
-      "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "De Hoy En Adelante, Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 176280,
-      "name": "La Hice Sufrir",
-      "url": "https://open.spotify.com/track/4fi5t10Lh945PobS1uwKwK"
-    },
-    {
-      "added_at": "2023-10-06 02:08:04",
-      "album": {
         "name": "La Chapiza",
         "url": "https://open.spotify.com/album/7ieAksoGopSGThjXsE6Djr"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 152750,
       "name": "La Chapiza",
       "url": "https://open.spotify.com/track/4cbrG70rLLAnWy0Q86FRgL"
+    },
+    {
+      "added_at": "2023-10-06 02:08:04",
+      "album": {
+        "name": "De Hoy En Adelante, Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 176280,
+      "name": "La Hice Sufrir",
+      "url": "https://open.spotify.com/track/4fi5t10Lh945PobS1uwKwK"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "Se Me Solt\u00f3 El Hocico",
-        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Se Me Solt\u00f3 El Hocico",
-      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
-    },
-    {
-      "added_at": "2023-10-06 02:08:04",
-      "album": {
         "name": "Entre Dios y El Diablo (Deluxe Version)",
         "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 158918,
       "name": "Punto Y Aparte",
       "url": "https://open.spotify.com/track/0pXE345pmmhZfG5zDCtSTr"
+    },
+    {
+      "added_at": "2023-10-06 02:08:04",
+      "album": {
+        "name": "Se Me Solt\u00f3 El Hocico",
+        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Se Me Solt\u00f3 El Hocico",
+      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
+        "name": "Tirando Party",
+        "url": "https://open.spotify.com/album/4Abo4Oityt7ycbQwoRmXvC"
+      },
+      "artists": [
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "Se Va Muriendo Mi Alma",
+      "url": "https://open.spotify.com/track/089JwgBFzPhW92N7RmUdNq"
+    },
+    {
+      "added_at": "2023-10-06 02:08:04",
+      "album": {
         "name": "Coquio Castro (En Vivo)",
         "url": "https://open.spotify.com/album/4RCrIPTYt1YCI96WEunbuH"
       },
@@ -2199,22 +2215,6 @@
       "duration_ms": 191829,
       "name": "Coquio Castro - En Vivo",
       "url": "https://open.spotify.com/track/1EGcw5OrBiqQUYHW51IMYT"
-    },
-    {
-      "added_at": "2023-10-06 02:08:04",
-      "album": {
-        "name": "Tirando Party",
-        "url": "https://open.spotify.com/album/4Abo4Oityt7ycbQwoRmXvC"
-      },
-      "artists": [
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "Se Va Muriendo Mi Alma",
-      "url": "https://open.spotify.com/track/089JwgBFzPhW92N7RmUdNq"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Sabor de Enga\u00f1o",
-      "url": "https://open.spotify.com/track/5PSxDnjrpBZUPL8WmFLKVx"
-    },
-    {
-      "added_at": "2023-10-06 02:08:04",
-      "album": {
         "name": "6 Tragos",
         "url": "https://open.spotify.com/album/7C4RdZNSEk3fnfjh5vD1jt"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 153000,
       "name": "El Doble R",
       "url": "https://open.spotify.com/track/5r1heGQVU9GLgwS4iiRInO"
+    },
+    {
+      "added_at": "2023-10-06 02:08:04",
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "Sabor de Enga\u00f1o",
+      "url": "https://open.spotify.com/track/5PSxDnjrpBZUPL8WmFLKVx"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -2499,18 +2499,18 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/4Txi7EuXuO1w8AnxRi6eZU"
+        "name": "Pistiando y Cantando",
+        "url": "https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371"
       },
       "artists": [
         {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         }
       ],
-      "duration_ms": 176360,
-      "name": "Arboles De La Barranca",
-      "url": "https://open.spotify.com/track/0zBXoD73b7ysX3nz9HbNAU"
+      "duration_ms": 270000,
+      "name": "El Ahuate",
+      "url": "https://open.spotify.com/track/2hTWTQ3kXZVl2KTzBxqYBr"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -2531,18 +2531,18 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "Pistiando y Cantando",
-        "url": "https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371"
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/4Txi7EuXuO1w8AnxRi6eZU"
       },
       "artists": [
         {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 270000,
-      "name": "El Ahuate",
-      "url": "https://open.spotify.com/track/2hTWTQ3kXZVl2KTzBxqYBr"
+      "duration_ms": 176360,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/0zBXoD73b7ysX3nz9HbNAU"
     },
     {
       "added_at": "2023-10-06 02:08:04",

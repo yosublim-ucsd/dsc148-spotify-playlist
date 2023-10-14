@@ -501,6 +501,32 @@
     },
     {
       "album": {
+        "name": "Jogiya",
+        "url": "https://open.spotify.com/album/3HDp3VjwowVEIkWkVpP15W"
+      },
+      "artists": [
+        {
+          "name": "Santanu Ghatak",
+          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
+        },
+        {
+          "name": "Chandreyee Bhattacharya",
+          "url": "https://open.spotify.com/artist/3mH3uFlFhSCBJ9iJRrTtxy"
+        },
+        {
+          "name": "Nilanjan Samadder",
+          "url": "https://open.spotify.com/artist/534gzAUm9B9d5jFkWR0y4A"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196901,
+      "name": "Jogiya",
+      "url": "https://open.spotify.com/track/7MU4WVkk08iWn61vLxGU9C"
+    },
+    {
+      "album": {
         "name": "Justaju: The Essence of Love",
         "url": "https://open.spotify.com/album/5hDfb1r3Xm1hdmEX49WE45"
       },
@@ -556,7 +582,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 243750,
       "name": "Kahaani",
       "url": "https://open.spotify.com/track/144TS04R5kwzBqaM805g9E"

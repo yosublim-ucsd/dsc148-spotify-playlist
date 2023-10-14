@@ -5070,7 +5070,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 128738,
       "name": "HYPNOTIC DATA",
       "url": "https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc"
@@ -16611,6 +16611,24 @@
     },
     {
       "album": {
+        "name": "\u0411\u0435\u0440\u0435\u0436\u0438 \u043c\u0435\u043d\u0435",
+        "url": "https://open.spotify.com/album/7re2czLU735n5zlY6uGRBb"
+      },
+      "artists": [
+        {
+          "name": "Klavdia Petrivna",
+          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150723,
+      "name": "\u0417\u043d\u0430\u0439\u0434\u0438 \u043c\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/2xmQMKTjiOdkdGVgqDzezo"
+    },
+    {
+      "album": {
         "name": "\u0417\u043e\u043e\u043f\u0430\u0440\u043a",
         "url": "https://open.spotify.com/album/7boVn0Y3wxQDfmxQFO6FXG"
       },
@@ -17448,7 +17466,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 225929,
       "name": "\u041a\u0440\u043e\u0432 \u0456 \u0412\u0438\u043d\u043e",
       "url": "https://open.spotify.com/track/7Ce3VLSpVuwhWukkrumFA0"
@@ -24218,6 +24236,24 @@
       "duration_ms": 144705,
       "name": "\u042f \u0445\u043e\u0447\u0443 \u0442\u0435\u0431\u044f \u0442\u0440\u0430\u0445\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/72aOn2zEIaEOOyOVGdpl8Z"
+    },
+    {
+      "album": {
+        "name": "\u0411\u0435\u0440\u0435\u0436\u0438 \u043c\u0435\u043d\u0435",
+        "url": "https://open.spotify.com/album/7re2czLU735n5zlY6uGRBb"
+      },
+      "artists": [
+        {
+          "name": "Klavdia Petrivna",
+          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121666,
+      "name": "\u042f \u0449\u0430\u0441\u043b\u0438\u0432\u0430 - \u041b\u0456\u043a\u0430\u0440\u0456 \u043a\u0430\u0436\u0443\u0442\u044c",
+      "url": "https://open.spotify.com/track/7LxpaPwRVTYEG2Gf5T5iLO"
     },
     {
       "album": {

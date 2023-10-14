@@ -1081,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "Me Traes de un Ala",
+        "url": "https://open.spotify.com/album/01jUgz4sKHuQlIEI8kzBDv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151133,
+      "name": "El Panam\u00e1 West",
+      "url": "https://open.spotify.com/track/25W0oz32wgnoE2SSbRx0Ta"
+    },
+    {
+      "album": {
         "name": "Los Amos Del Corrido",
         "url": "https://open.spotify.com/album/1B2DVd1xN1wC5QGmnBvla5"
       },
@@ -2102,7 +2120,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 249774,
       "name": "Los Tres Amarradores",
       "url": "https://open.spotify.com/track/2YOZV4dEKxK9s54VcpDBkD"
@@ -2138,7 +2156,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 146213,
       "name": "Luis Pulido",
       "url": "https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e"
@@ -2820,6 +2838,24 @@
       "duration_ms": 287080,
       "name": "Valente Quintero",
       "url": "https://open.spotify.com/track/4de4ivYcmGbVwkyi8nPdZ8"
+    },
+    {
+      "album": {
+        "name": "Corridos De Oro",
+        "url": "https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14"
+      },
+      "artists": [
+        {
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182613,
+      "name": "Veinte Mujeres",
+      "url": "https://open.spotify.com/track/0fwA0r7bGtfi9QGEStLkZM"
     },
     {
       "album": {

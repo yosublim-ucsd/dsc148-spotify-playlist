@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,245 songs - 2 day 9 hr 33 min
+1,247 songs - 2 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [HUBLOT](https://open.spotify.com/track/6qbIECewSOpuBhWaU98Sp8) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:03 | 2021-05-29 | 2021-06-26 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-13 |
 | [HYAENA](https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:42 | 2023-07-29 | 2023-08-01 |
-| [HYPNOTIC DATA](https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS](https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB) | 2:08 | 2023-10-09 |  |
+| [HYPNOTIC DATA](https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS](https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB) | 2:08 | 2023-10-09 | 2023-10-14 |
 | [i dont wna cry \(haste\)](https://open.spotify.com/track/6RKeESxpM58GCfR5eRdfzY) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i dont wna cry](https://open.spotify.com/album/5AIZKUZZW9RE3xhTf64h39) | 2:01 | 2023-05-25 | 2023-07-02 |
 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 | 2023-08-17 | 2023-09-02 |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-09-23 | 2022-10-14 |
@@ -857,6 +857,7 @@
 | [Зеркало](https://open.spotify.com/track/2PpAAi4RMQKof0Ya3JEJfU) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Зеркало](https://open.spotify.com/album/7p849Qjq6hhIAh1XyYgTXf) | 2:32 | 2023-05-13 | 2023-08-13 |
 | [зима](https://open.spotify.com/track/0cOftxEWGyu4XAqEsqmdWS) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:28 | 2021-06-27 | 2021-08-31 |
 | [зима](https://open.spotify.com/track/3y1fkvCTbBhNXQpR56KXYC) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [зима](https://open.spotify.com/album/0uf1pLGBYv0IG1tFusaueA) | 2:28 | 2021-05-11 | 2021-06-27 |
+| [Знайди мене](https://open.spotify.com/track/2xmQMKTjiOdkdGVgqDzezo) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Бережи мене](https://open.spotify.com/album/7re2czLU735n5zlY6uGRBb) | 2:30 | 2023-10-13 |  |
 | [Зоопарк](https://open.spotify.com/track/777TceiGuC1kjvAiVAHvTo) | [10AGE](https://open.spotify.com/artist/0iWCupAJreesWuLo9wkpXt) | [Зоопарк](https://open.spotify.com/album/7boVn0Y3wxQDfmxQFO6FXG) | 3:00 | 2021-09-19 | 2021-10-23 |
 | [Зорi](https://open.spotify.com/track/7mXxcF1nFQvcvANuYwdrv2) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842) | [HOTIN](https://open.spotify.com/album/6onAeeUeEiXf2sReUGAThp) | 3:20 | 2022-03-27 | 2022-08-05 |
 | [Зраджуй](https://open.spotify.com/track/3JtqmQTqsJBt6bd6iVtlaI) | [Epolets](https://open.spotify.com/artist/09QRMWYyLUALbOUjP5rhUP) | [Dogma](https://open.spotify.com/album/15LyBCx9gojYocTPcuGgvH) | 3:34 | 2022-06-23 | 2022-07-26 |
@@ -900,7 +901,7 @@
 | [Кохаю, але не зовсім](https://open.spotify.com/track/7erP3ICSBISAa9ZH4vyo42) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Кохаю, але не зовсім](https://open.spotify.com/album/5cnpwmYQBU8JgK8AYYUsFS) | 3:19 | 2023-06-22 |  |
 | [Красота и Уродство](https://open.spotify.com/track/4XeBNnnoABfqa6x8dK27b8) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:39 | 2021-12-03 | 2021-12-16 |
 | [Крепче](https://open.spotify.com/track/6bCLkzoE3agC7Ws9NxVxIn) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Крепче](https://open.spotify.com/album/1e82MHQz8mczZXotjeR0ky) | 2:00 | 2023-02-06 |  |
-| [Кров і Вино](https://open.spotify.com/track/7Ce3VLSpVuwhWukkrumFA0) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [Твій Віль del.1](https://open.spotify.com/album/3soTcarrYAVbcF9ANqUwuC) | 3:45 | 2023-08-26 |  |
+| [Кров і Вино](https://open.spotify.com/track/7Ce3VLSpVuwhWukkrumFA0) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [Твій Віль del.1](https://open.spotify.com/album/3soTcarrYAVbcF9ANqUwuC) | 3:45 | 2023-08-26 | 2023-10-14 |
 | [Кроме тебя](https://open.spotify.com/track/6UHEOqTUJw3CaWLALXQdTh) | [Ivan Dorn](https://open.spotify.com/artist/1VZ1TofaV3kj90QJSdg6NG) | [Кроме тебя](https://open.spotify.com/album/60m6HBbNu77UW9zEO23I4t) | 3:18 | 2021-04-18 | 2021-04-26 |
 | [Крузак 200](https://open.spotify.com/track/3JtOCVKrs786JHQ02tdP9m) | [BODIEV](https://open.spotify.com/artist/55VoFcN80nM1cY5ymAO7B0) | [Крузак 200](https://open.spotify.com/album/21DIoKAMxax4gVPdDqDK0r) | 2:04 | 2021-03-27\* | 2021-04-16 |
 | [Крышу сносит](https://open.spotify.com/track/67Me2LmeUSJZGGSvVQUqbB) | [LXNER](https://open.spotify.com/artist/0u32PEQJMO9ufiSInHtKXt), [quiizzzmeow](https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW) | [Крышу сносит](https://open.spotify.com/album/3URDUiopN6UnnaOc6SYcAZ) | 2:54 | 2022-01-29 | 2022-02-02 |
@@ -1246,6 +1247,7 @@
 | [Я хочу тебя трахать](https://open.spotify.com/track/12GNcuMwxsLQQG4A9flx9r) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Пропаганда денег](https://open.spotify.com/album/5LfOhXW4R8BAtuE1rGkK54) | 2:24 | 2022-04-16 | 2022-05-06 |
 | [Я хочу тебя трахать](https://open.spotify.com/track/5TK74MJYRmwU5NIAjGRvRq) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Пропаганда денег](https://open.spotify.com/album/73saqAR9QSfyGtdbZCUkMX) | 2:24 | 2022-05-07 | 2022-09-18 |
 | [Я хочу тебя трахать](https://open.spotify.com/track/72aOn2zEIaEOOyOVGdpl8Z) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Я хочу тебя трахать](https://open.spotify.com/album/64Be0Wqlm8zfDe6mL2dI7R) | 2:24 | 2022-04-02 | 2022-05-08 |
+| [Я щаслива \- Лікарі кажуть](https://open.spotify.com/track/7LxpaPwRVTYEG2Gf5T5iLO) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Бережи мене](https://open.spotify.com/album/7re2czLU735n5zlY6uGRBb) | 2:01 | 2023-10-13 |  |
 | [ЯЛРС](https://open.spotify.com/track/5TJmu6WB8JNMNTt8XumcP1) | [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR) | [НИЧЕГО ЛИЧНОГО 2](https://open.spotify.com/album/5fG4nijljQXhVSaDs87xzP) | 2:10 | 2023-02-09 | 2023-02-12 |
 | [ярче звёзд](https://open.spotify.com/track/4CK9NEdPWB6rJ8N6BU20pN) | [ПОЛМАТЕРИ](https://open.spotify.com/artist/3NDasZQ8ZbOssdAPNkZgW1) | [иван марголдин президент россии](https://open.spotify.com/album/74u73t51gTk7vhWVXNhZnO) | 2:47 | 2022-03-22 | 2022-05-25 |
 | [Ящик](https://open.spotify.com/track/3YJXD2kpM8XzLmot9a2VLZ) | [ATL](https://open.spotify.com/artist/2n6CVwo43YvjiTgcPxYWrf) | [Радио Апокалипсис](https://open.spotify.com/album/0h468WIkH7IZEJN8RsD8Sy) | 3:27 | 2021-11-28 | 2021-11-28 |

@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 18133,
+  "num_followers": 18143,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmJiNWM1ODlhZDJhMWIzYzhkYjhmODUzMDJjMjVmYmNkOWY3NDQ2",
+  "snapshot_id": "MCwzYWFkOGEzZjZjMGM0ZDc0YTdlZGI5NTNkY2MxYjVmNWYyMjZlMjZk",
   "tracks": [
     {
       "added_at": "2023-09-29 03:03:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Passa",
-        "url": "https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq"
-      },
-      "artists": [
-        {
-          "name": "Martins",
-          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
-        }
-      ],
-      "duration_ms": 176804,
-      "name": "Passa",
-      "url": "https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "A Vida \u00e9 Uma Granada",
         "url": "https://open.spotify.com/album/2mM0SEjQaE4PnR9zpPeIrO"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 206484,
       "name": "A Vida \u00e9 Uma Granada",
       "url": "https://open.spotify.com/track/6MCrJunzD53N8RzvbuzkXm"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "Passa",
+        "url": "https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq"
+      },
+      "artists": [
+        {
+          "name": "Martins",
+          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
+        }
+      ],
+      "duration_ms": 176804,
+      "name": "Passa",
+      "url": "https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "\u00d3leo de Coco",
-        "url": "https://open.spotify.com/album/33oj13c8oLa1KVFK2f5jpr"
-      },
-      "artists": [
-        {
-          "name": "Guil\u00e9",
-          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "\u00d3leo de Coco",
-      "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Embalo",
         "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 201231,
       "name": "Embalo",
       "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "\u00d3leo de Coco",
+        "url": "https://open.spotify.com/album/33oj13c8oLa1KVFK2f5jpr"
+      },
+      "artists": [
+        {
+          "name": "Guil\u00e9",
+          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "\u00d3leo de Coco",
+      "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -579,18 +579,22 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Casal Desgra\u00e7a",
-        "url": "https://open.spotify.com/album/1UzRdg06UQxO1Bh6KUJ7SL"
+        "name": "Boemia, de Fato",
+        "url": "https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd"
       },
       "artists": [
         {
-          "name": "Lucas Andrade",
-          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
+          "name": "NUNEZ",
+          "url": "https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ"
+        },
+        {
+          "name": "LOX",
+          "url": "https://open.spotify.com/artist/7ziafkiqJhhvv6CExUeOcS"
         }
       ],
-      "duration_ms": 163809,
-      "name": "Casal Desgra\u00e7a",
-      "url": "https://open.spotify.com/track/6dr9rvtgoWH4umKNNhC1Ug"
+      "duration_ms": 176000,
+      "name": "Amor de Mar",
+      "url": "https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -611,6 +615,22 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
+        "name": "Casal Desgra\u00e7a",
+        "url": "https://open.spotify.com/album/1UzRdg06UQxO1Bh6KUJ7SL"
+      },
+      "artists": [
+        {
+          "name": "Lucas Andrade",
+          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Casal Desgra\u00e7a",
+      "url": "https://open.spotify.com/track/6dr9rvtgoWH4umKNNhC1Ug"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
         "name": "Beija e Arranha",
         "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 172874,
       "name": "Beija e Arranha",
       "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
-        "name": "Boemia, de Fato",
-        "url": "https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd"
-      },
-      "artists": [
-        {
-          "name": "NUNEZ",
-          "url": "https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ"
-        },
-        {
-          "name": "LOX",
-          "url": "https://open.spotify.com/artist/7ziafkiqJhhvv6CExUeOcS"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Amor de Mar",
-      "url": "https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Amor de Sonhos",
-        "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Amor de Sonhos",
-      "url": "https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "4 Da Tarde",
         "url": "https://open.spotify.com/album/3f8B8HAmQquLVXVkKuMms0"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 168293,
       "name": "4 Da Tarde",
       "url": "https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "Amor de Sonhos",
+        "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Amor de Sonhos",
+      "url": "https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
+        "name": "Fica Comigo",
+        "url": "https://open.spotify.com/album/6rLTqTd9CpYuWxbVZRGPwS"
+      },
+      "artists": [
+        {
+          "name": "Ana L\u00e9lia",
+          "url": "https://open.spotify.com/artist/450LxlI65tn8OqyNr3XmOm"
+        }
+      ],
+      "duration_ms": 218117,
+      "name": "Fica Comigo",
+      "url": "https://open.spotify.com/track/0ydIAs5h5yOkavyEf9Ewk0"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
         "name": "Devaneios",
         "url": "https://open.spotify.com/album/0phS3hYLWXplAnJ6iEqTJh"
       },
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Fica Comigo",
-        "url": "https://open.spotify.com/album/6rLTqTd9CpYuWxbVZRGPwS"
+        "name": "Deixa Pra L\u00e1",
+        "url": "https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt"
       },
       "artists": [
         {
-          "name": "Ana L\u00e9lia",
-          "url": "https://open.spotify.com/artist/450LxlI65tn8OqyNr3XmOm"
+          "name": "Verdan",
+          "url": "https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y"
         }
       ],
-      "duration_ms": 218117,
-      "name": "Fica Comigo",
-      "url": "https://open.spotify.com/track/0ydIAs5h5yOkavyEf9Ewk0"
+      "duration_ms": 152137,
+      "name": "Deixa Pra L\u00e1",
+      "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -1063,22 +1079,6 @@
       "duration_ms": 275882,
       "name": "Se Eu Te Ver de Novo",
       "url": "https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
-        "name": "Deixa Pra L\u00e1",
-        "url": "https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt"
-      },
-      "artists": [
-        {
-          "name": "Verdan",
-          "url": "https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "Deixa Pra L\u00e1",
-      "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Esse Jogo",
-        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
-      },
-      "artists": [
-        {
-          "name": "Thifany Kauany",
-          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
-        }
-      ],
-      "duration_ms": 144742,
-      "name": "Esse Jogo",
-      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "PSEUDODRAMA",
         "url": "https://open.spotify.com/album/6M2btYgSEXpV6a8YbqI6zJ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 146605,
       "name": "T\u00e1 Subindo",
       "url": "https://open.spotify.com/track/4UUpgJ1TP5IvcYU6YYzJBF"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "Esse Jogo",
+        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
+      },
+      "artists": [
+        {
+          "name": "Thifany Kauany",
+          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
+        }
+      ],
+      "duration_ms": 144742,
+      "name": "Esse Jogo",
+      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
     },
     {
       "added_at": "2023-09-29 03:03:00",

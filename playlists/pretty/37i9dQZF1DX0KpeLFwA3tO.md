@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Free Throw
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,550 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,496 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 5 | [lullaby](https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [suraksha](https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb) | 4:39 |
 | 6 | [Wasting All These Tears \- Cassadee's Version](https://open.spotify.com/track/6ggAqp1zV8uSxZdItKRuWO) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Wasting All These Tears \(Cassadee's Version\)](https://open.spotify.com/album/3wgBdX4AFFHNBrYi5JNiq0) | 3:30 |
 | 7 | [Sacred Blasphemy](https://open.spotify.com/track/35ftdglCpTUAjY5KEJ0vQI) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Sanguivore](https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2) | 2:53 |
-| 8 | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/track/5zxw8pF2P97NMSzGsdCgzg) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/album/7Gu5f03bP20s7holoeIO3E) | 3:56 |
+| 8 | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/track/5AzFP6taTTCZp0SU18jxpc) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/album/1dVLmx7MeskNv1bwe6MY8Y) | 3:56 |
 | 9 | [Identical Days](https://open.spotify.com/track/4hrptHq1WUVnUIsZpyt3YE) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Identical Days](https://open.spotify.com/album/519UtOzExBjOwddalv1eJL) | 3:04 |
 | 10 | [Try](https://open.spotify.com/track/3mXiKyXnHvjeLHg87CKoP2) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Try](https://open.spotify.com/album/1zZORYYv4dATo41BNEAuG2) | 3:57 |
 | 11 | [Second Solution \- triple j Live at the Wireless 1998](https://open.spotify.com/track/71Ab6vKzlT8XYxR0HkSh0s) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [The Living End \(triple j Live at the Wireless 1998\)](https://open.spotify.com/album/5rHQ788x9MMwfTFYTbcI2T) | 4:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Predator](https://open.spotify.com/track/5LT88wAiBchqnuM9ax4Jyf) | [Chelsea Manor](https://open.spotify.com/artist/6lcIRoW3WY9h7z0iqfghFc) | [Predator](https://open.spotify.com/album/2lCEjOo99WLMsxoGy4WeOv) | 3:13 |
 | 100 | [Enemy](https://open.spotify.com/track/6CgWLkFhymq6o4nvOuJrKC) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Enemy](https://open.spotify.com/album/0O9aKBmu7LlWmlknQgI1Pz) | 3:22 |
 
-Snapshot ID: `MCw5ODUzNzliMzc2MTcxMzdiOGMzYTZmZjY2MjIzYjk1YzZlNGY5NDA4`
+Snapshot ID: `MCw0NTc4MzNhMGM0NTUzZjBiZGI0NDMyMjgyY2E5NWNkMzRlYjNiYjEy`

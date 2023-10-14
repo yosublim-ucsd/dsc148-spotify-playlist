@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Shakira & Fuerza Regida
 
-182 songs - 9 hr 19 min
+183 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [No Quería Engañarte](https://open.spotify.com/track/1IGd9cS67gcK1SGVyWqEtz) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [No Quería Engañarte](https://open.spotify.com/album/7iOHpFiXyBtlIvkCMInHpN) | 4:01 | 2022-12-02 | 2023-01-28 |
 | [No Sufriré por Nadie \- Remix](https://open.spotify.com/track/4wxik78a6zidW8pshbCviV) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c), [Maycol Rosero](https://open.spotify.com/artist/6rl1lk6U6dB8FT0neMV8Iu), [Beren](https://open.spotify.com/artist/2eVjwcrAdghDt14w3e7nDu) | [No Sufriré por Nadie \(Remix\)](https://open.spotify.com/album/0NQHVRev3BGZXBjWayS9hI) | 3:31 | 2023-03-03 | 2023-09-09 |
 | [No Te Contaron Mal](https://open.spotify.com/track/1LO951RWD10l9Vys0NrFty) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [No Te Contaron Mal](https://open.spotify.com/album/2IVO6VBGIEP4EA7qB2EAQi) | 2:36 | 2022-08-12 |  |
+| [No Te Guardo Rencor](https://open.spotify.com/track/1HtnC5ryoojHGlbMrEAGcY) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [No Te Guardo Rencor](https://open.spotify.com/album/4IcpUKHSzOd050HvhuRbM7) | 3:00 | 2023-10-13 |  |
 | [Nuestro Juramento](https://open.spotify.com/track/0uzR8Ehgl6BGsU2ZvLPe3A) | [Juan Fernando Velasco](https://open.spotify.com/artist/3vA0UcLmHZEoVavifm65mc), [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Nuestro Juramento](https://open.spotify.com/album/59P55KVxpocTwKRlpahlDR) | 3:22 | 2022-09-16 | 2022-12-17 |
 | [OK](https://open.spotify.com/track/6ZpPLJ3wck4X1eOhUGCWPx) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [OK](https://open.spotify.com/album/7jKr5d7pxSFzxo8bkM0Y3G) | 2:21 | 2023-02-24 |  |
 | [OK](https://open.spotify.com/track/6g13x2XNa9kAmRxJgac6T0) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Éxitos Mano de Obra](https://open.spotify.com/album/46OnImUL8cGg0srjXJxj2l) | 2:21 | 2022-11-04 | 2022-11-13 |

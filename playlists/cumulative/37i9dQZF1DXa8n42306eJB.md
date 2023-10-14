@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-128 songs - 7 hr 46 min
+129 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Take It Away](https://open.spotify.com/track/28LwcC8Qjw6fzjTpUDEgXF) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [One](https://open.spotify.com/album/27wSk2zFJ5MKA2ow1hvrLG) | 3:34 | 2021-08-24 | 2022-07-29 |
 | [Take It Away](https://open.spotify.com/track/3hB5r7k7NmmCOQAWmorLYD) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [One](https://open.spotify.com/album/6xM5fnDCzx1E8jGHMf2mQI) | 3:34 | 2022-06-09 | 2022-08-09 |
 | [Take It Away](https://open.spotify.com/track/5BghMRrK03bJDO3oUB96J9) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:34 | 2022-08-07 |  |
-| [Tellme](https://open.spotify.com/track/67WqnBV34inBIzVoEX8UV1) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Tellme](https://open.spotify.com/album/7m75esfC7Hb4Uxn6d70ZSJ) | 3:18 | 2021-08-24 |  |
+| [Tellme](https://open.spotify.com/track/1Ikfq4KKthCovOcJRpb8Pq) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Tellme](https://open.spotify.com/album/4gFHgPStOpLYaOnPcZGqk0) | 3:18 | 2023-06-08 |  |
+| [Tellme](https://open.spotify.com/track/67WqnBV34inBIzVoEX8UV1) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Tellme](https://open.spotify.com/album/7m75esfC7Hb4Uxn6d70ZSJ) | 3:18 | 2021-08-24 | 2023-10-14 |
 | [The Road](https://open.spotify.com/track/6VvCnZsQtRWf32g5kLgtqt) | [SUB\-TRIBE](https://open.spotify.com/artist/4NRBNfnAtQXxVxevBvlXe2) | [The Road](https://open.spotify.com/album/701laqNcQfUCDvGB9ayy30) | 3:35 | 2021-08-24 | 2023-07-27 |
 | [The Road](https://open.spotify.com/track/7FjDqh7l9067MGkQOzJXul) | [SUB\-TRIBE](https://open.spotify.com/artist/4NRBNfnAtQXxVxevBvlXe2) | [The Road](https://open.spotify.com/album/2Qms1V12aKLwfC3Nb6ffHm) | 3:35 | 2023-06-08 |  |
 | [There I Go](https://open.spotify.com/track/3CuCZo5XcwYTmoGio7GvD1) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2020](https://open.spotify.com/album/6x5l8Cjzh0GaKQLVsLBOk7) | 3:22 | 2021-08-24 |  |

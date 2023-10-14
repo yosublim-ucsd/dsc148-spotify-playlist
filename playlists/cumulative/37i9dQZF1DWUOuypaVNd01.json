@@ -280,7 +280,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 154909,
       "name": "Aonde Eu Sou Cria",
       "url": "https://open.spotify.com/track/5ZSCMCmUNxnRTDuYZxK3ah"
@@ -2569,6 +2569,24 @@
     },
     {
       "album": {
+        "name": "No Close",
+        "url": "https://open.spotify.com/album/11tkpJZE3aPXfiH39qdq7p"
+      },
+      "artists": [
+        {
+          "name": "Preto Puma",
+          "url": "https://open.spotify.com/artist/0UvO8jJHXpIdeyi9NQA581"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137011,
+      "name": "No Close",
+      "url": "https://open.spotify.com/track/5vSnWLoASC5mQg2NOOZvUI"
+    },
+    {
+      "album": {
         "name": "Nordeste Drill",
         "url": "https://open.spotify.com/album/72Grmd129hadPAOJllbvk8"
       },
@@ -2644,6 +2662,32 @@
       "duration_ms": 152557,
       "name": "N\u00e3o Grita",
       "url": "https://open.spotify.com/track/4nX4FiXWfTclsHcNpyianf"
+    },
+    {
+      "album": {
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209013,
+      "name": "N\u00e3o Me Para",
+      "url": "https://open.spotify.com/track/6yFMentQMLOkh24pjQJgsQ"
     },
     {
       "album": {
@@ -3356,7 +3400,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 169859,
       "name": "Rumo ao Estrelato",
       "url": "https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF"

@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 212052,
       "name": "A Strange Kind Of Beautiful",
       "url": "https://open.spotify.com/track/0ttVAF5zheWZoLI3pURxWS"
@@ -330,6 +330,24 @@
       "duration_ms": 174453,
       "name": "Ahead Of Myself",
       "url": "https://open.spotify.com/track/037JwzyNWFVwRXch4dQZe8"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240277,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
     },
     {
       "album": {
@@ -560,7 +578,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 131793,
       "name": "Amelia",
       "url": "https://open.spotify.com/track/2Di10SMcYqTKahN7lJazFe"
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 214768,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 228798,
       "name": "Call Me A Dreamer",
       "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
@@ -1516,7 +1534,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 155841,
       "name": "Called You Out",
       "url": "https://open.spotify.com/track/2I0hkWJEy3BhVBvkWsnW5S"
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 189306,
       "name": "Courtyard Theatre",
       "url": "https://open.spotify.com/track/3sKMUyp6Z2Ex9aFPv03xZd"
@@ -2642,7 +2660,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 204503,
       "name": "Face in the Crowd",
       "url": "https://open.spotify.com/track/0V9QY6NnXtAMwjltgMP0pl"
@@ -3453,6 +3471,28 @@
     },
     {
       "album": {
+        "name": "Half of Mine",
+        "url": "https://open.spotify.com/album/5vn826N8Fxt4E0DKvEnwX6"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        },
+        {
+          "name": "Tarian",
+          "url": "https://open.spotify.com/artist/7h5vyR4LxVT0UZLBMcT59P"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Half of Mine",
+      "url": "https://open.spotify.com/track/0jk9fGjCcebNf4TfrJBMl0"
+    },
+    {
+      "album": {
         "name": "Sunshine on a Cloudy Day",
         "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
       },
@@ -3536,7 +3576,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 167812,
       "name": "Happiest Girl",
       "url": "https://open.spotify.com/track/47oqstCW9u5SARWggwVQqE"
@@ -3868,7 +3908,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 225068,
       "name": "homies",
       "url": "https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv"
@@ -5054,7 +5094,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
@@ -6176,7 +6216,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 221875,
       "name": "Mountaineer",
       "url": "https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3"
@@ -6374,7 +6414,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 172514,
       "name": "NIGHTS LIKE THESE",
       "url": "https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0"
@@ -6666,7 +6706,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 231546,
       "name": "One Life",
       "url": "https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S"
@@ -8124,7 +8164,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 245704,
       "name": "Something About Stars",
       "url": "https://open.spotify.com/track/0ika7ap14WDoDuwtfsW4aw"
@@ -8582,7 +8622,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 176048,
       "name": "The Hardest Part (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/5Me4zF8CC68wmkZyI5rFDR"

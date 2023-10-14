@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest new pop with all the drops. Cover: R\u00eave",
+  "description": "The hottest new pop with all the drops. Cover: Rita Ora",
   "name": "Fresh Dance Pop",
   "tracks": [
     {
@@ -1931,6 +1931,28 @@
     },
     {
       "album": {
+        "name": "Can't Play Myself (A Tribute To Amy)",
+        "url": "https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174330,
+      "name": "Can't Play Myself (A Tribute To Amy)",
+      "url": "https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp"
+    },
+    {
+      "album": {
         "name": "CAN'T TOUCH THIS (R3HAB Remix)",
         "url": "https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC"
       },
@@ -1950,6 +1972,24 @@
       "duration_ms": 123214,
       "name": "CAN'T TOUCH THIS - R3HAB Remix",
       "url": "https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm"
+    },
+    {
+      "album": {
+        "name": "Capable of love",
+        "url": "https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223680,
+      "name": "Capable of love",
+      "url": "https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN"
     },
     {
       "album": {
@@ -4274,7 +4314,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 171265,
       "name": "FEMININE ENERGY",
       "url": "https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x"
@@ -5028,7 +5068,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 188205,
       "name": "Hands",
       "url": "https://open.spotify.com/track/0Zy0tCZZESUFUxCvKXv95j"
@@ -5656,6 +5696,24 @@
       "duration_ms": 178689,
       "name": "Honest (feat. Slayyyter)",
       "url": "https://open.spotify.com/track/7p15pjKeiHuxFg7cu776sl"
+    },
+    {
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206878,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0GMZYC6lcrpnwjDiEtDO8i"
     },
     {
       "album": {
@@ -6307,6 +6365,32 @@
     },
     {
       "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166632,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6"
+    },
+    {
+      "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
       },
@@ -6326,6 +6410,28 @@
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "album": {
+        "name": "I'm My Only Friend",
+        "url": "https://open.spotify.com/album/00Z6vze8Xtk9rGTRTBrpXz"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192016,
+      "name": "I'm My Only Friend (feat. Arden Jones)",
+      "url": "https://open.spotify.com/track/7gOxYYw4HKBa89vAAagh9q"
     },
     {
       "album": {
@@ -7599,6 +7705,28 @@
     },
     {
       "album": {
+        "name": "Base Camp Ep",
+        "url": "https://open.spotify.com/album/5OHe12YdhU3OWFjLqTrDXk"
+      },
+      "artists": [
+        {
+          "name": "FRENSHIP",
+          "url": "https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH"
+        },
+        {
+          "name": "Drew Sycamore",
+          "url": "https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209672,
+      "name": "Love Like It's Religion with Drew Sycamore",
+      "url": "https://open.spotify.com/track/51D4XQWTAAShdFCH5zYTOs"
+    },
+    {
+      "album": {
         "name": "Love Me Anyway",
         "url": "https://open.spotify.com/album/3BSvHCjqrDDEpRxXQT6XF6"
       },
@@ -8018,7 +8146,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 181935,
       "name": "Maybe It's You",
       "url": "https://open.spotify.com/track/0dXUMuhHDJ0rPgv3qpQ1DM"
@@ -8146,6 +8274,28 @@
       "duration_ms": 166453,
       "name": "Microdose",
       "url": "https://open.spotify.com/track/6iNRJ4TuoDqkI0o6wFRR2w"
+    },
+    {
+      "album": {
+        "name": "MIDNIGHT OIL",
+        "url": "https://open.spotify.com/album/6Jb0lh95dtrWjRcfgVLY17"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179693,
+      "name": "MIDNIGHT OIL",
+      "url": "https://open.spotify.com/track/65qzuuS7pR1Q5nOfgvg93a"
     },
     {
       "album": {
@@ -9436,7 +9586,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 180213,
       "name": "One with the Wolves",
       "url": "https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv"
@@ -9966,7 +10116,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 200267,
       "name": "Planet of the Bass (feat. DJ Crazy Times & Ms. Biljana Electronica)",
       "url": "https://open.spotify.com/track/7xOjJ5v3SGlYl5Rb2c31dI"
@@ -12711,6 +12861,28 @@
     },
     {
       "album": {
+        "name": "Telephone Line",
+        "url": "https://open.spotify.com/album/1WF5kYD5BIbBKHYIyeekeG"
+      },
+      "artists": [
+        {
+          "name": "Touch Sensitive",
+          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
+        },
+        {
+          "name": "Your Smith",
+          "url": "https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211797,
+      "name": "Telephone Line",
+      "url": "https://open.spotify.com/track/602hMiOBUq8jmSnZxEyNdP"
+    },
+    {
+      "album": {
         "name": "Tell It To My Heart",
         "url": "https://open.spotify.com/album/1KxlM9HIGOgM7SOMko1W9m"
       },
@@ -12810,6 +12982,24 @@
       "duration_ms": 216453,
       "name": "Tension",
       "url": "https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p"
+    },
+    {
+      "album": {
+        "name": "SUCCUBUS",
+        "url": "https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183879,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/2h3Pf8SrVoNpy3no4WQlEn"
     },
     {
       "album": {
@@ -13096,6 +13286,24 @@
       "duration_ms": 132417,
       "name": "These Nights",
       "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
+    },
+    {
+      "album": {
+        "name": "This Moment",
+        "url": "https://open.spotify.com/album/4Yohw2SkANTgUSmCruXeKX"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136825,
+      "name": "This Moment",
+      "url": "https://open.spotify.com/track/2kM9z0qXLXvUjb4MqIn1U8"
     },
     {
       "album": {

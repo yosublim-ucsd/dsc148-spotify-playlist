@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur...
 
-96 songs - 5 hr 6 min
+97 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Bloom \(nowifi Remix\)](https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Bloom \(nowifi Remix\)](https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk) | 2:01 | 2022-12-20 | 2023-07-04 |
 | [Chasing Cars](https://open.spotify.com/track/1ByxuN2e68C9mAx85Vcumt) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Chasing Cars](https://open.spotify.com/album/5XWrAQqR08TOq4dl2Q4uOZ) | 4:38 | 2022-12-20 |  |
 | [City of Love](https://open.spotify.com/track/3Cg22mWYpcDrCLWsgTaUwk) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Nounours](https://open.spotify.com/artist/6FrEkw1iC6ljhne96c7a46) | [City of Love](https://open.spotify.com/album/6VBal2Bi7nsqo6RnXsdqBt) | 2:59 | 2022-12-20 |  |
-| [Coming Over \- filous Remix](https://open.spotify.com/track/0dnPhZsmQTLH4vkLF3mInE) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Coming Over \(filous Remix\)](https://open.spotify.com/album/43w7TPv4JtNTLfiEXBGsbF) | 3:18 | 2023-05-12 |  |
+| [Coming Over \- filous Remix](https://open.spotify.com/track/0dnPhZsmQTLH4vkLF3mInE) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Coming Over \(filous Remix\)](https://open.spotify.com/album/43w7TPv4JtNTLfiEXBGsbF) | 3:18 | 2023-05-12 | 2023-10-14 |
+| [Coming Over \- filous Remix](https://open.spotify.com/track/2kpziA4mHuM7Na6La4upg1) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Coming Over \(filous Remix\)](https://open.spotify.com/album/24zMrWtj8r3QmczFyWhrPM) | 3:18 | 2023-10-05 |  |
 | [Cool Kids](https://open.spotify.com/track/1nOrmN6H9MmEzSTU024eAX) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Cool Kids](https://open.spotify.com/album/7BeNCwqOUFyfWN4392UWEK) | 2:33 | 2022-12-20 | 2023-05-13 |
 | [Don't Hold Me Down](https://open.spotify.com/track/6ip3MZyHMvVJT5VUGmddVX) | [Arinity](https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [Don't Hold Me Down](https://open.spotify.com/album/0gC58oCJxmvZUaoGfuBiA2) | 3:07 | 2022-12-20 | 2023-09-01 |
 | [Everyday](https://open.spotify.com/track/1Sqj67OzLpwDRX7nzV9kS1) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [Everyday](https://open.spotify.com/album/6zDYygsjWArQUi2FNDgzOS) | 3:29 | 2023-08-31 |  |

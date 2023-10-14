@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover- Prateek Kuhad",
+  "description": "Naye Indie gaano ka khazana! Cover- Prateeksha Srivastava",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 191020,
       "name": "Aankhon Mein Aansu",
       "url": "https://open.spotify.com/track/6S9wFxOlnz42LpCKIhlpJR"
@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 208103,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/0yYPEw8XGbRhIczNuGzw5H"
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 151659,
       "name": "Gumshuda",
       "url": "https://open.spotify.com/track/7pZclisnT35LbbtY8w9EqC"
@@ -1630,10 +1630,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 192413,
       "name": "Harjaiyaa",
       "url": "https://open.spotify.com/track/4rtlS8gwyvU22xQfbnPC8v"
+    },
+    {
+      "album": {
+        "name": "Heaven Made Ishq",
+        "url": "https://open.spotify.com/album/7kCEhdHENF145d0HDSPiUU"
+      },
+      "artists": [
+        {
+          "name": "Vinay Katoch",
+          "url": "https://open.spotify.com/artist/0X7ulxroScmdiJuVS2nAce"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224096,
+      "name": "Heaven Made Ishq",
+      "url": "https://open.spotify.com/track/1Hdb1FkpQG4gv4Y2lMGqqR"
     },
     {
       "album": {
@@ -1822,6 +1840,24 @@
       "duration_ms": 139699,
       "name": "Jaane Kyun",
       "url": "https://open.spotify.com/track/2XecqQiPVkouS73OYRzDC6"
+    },
+    {
+      "album": {
+        "name": "jaanu na",
+        "url": "https://open.spotify.com/album/7rnZFaD0VEQZ5CcbjiNm4h"
+      },
+      "artists": [
+        {
+          "name": "KASYAP",
+          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160854,
+      "name": "jaanu na",
+      "url": "https://open.spotify.com/track/7C0IvBW7ZTk0cyyQQid44w"
     },
     {
       "album": {
@@ -2479,6 +2515,28 @@
     },
     {
       "album": {
+        "name": "Koi Matlab Nahi",
+        "url": "https://open.spotify.com/album/2VDW1QYt24MvQL92aqP6hM"
+      },
+      "artists": [
+        {
+          "name": "Neyhal",
+          "url": "https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31"
+        },
+        {
+          "name": "Doie",
+          "url": "https://open.spotify.com/artist/61WxZKiXbPoi7rMp1beJf6"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177999,
+      "name": "Koi Matlab Nahi",
+      "url": "https://open.spotify.com/track/44UJTphbSUJX2K7Ba6KBtm"
+    },
+    {
+      "album": {
         "name": "Koi Tumsa Nahi",
         "url": "https://open.spotify.com/album/4h2uK5D43Q68jiwaQb4Tz0"
       },
@@ -2508,7 +2566,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 113076,
       "name": "Kuch Toh Hai Baat",
       "url": "https://open.spotify.com/track/1yWVEpoyEvr32KAQbkWJXG"
@@ -2754,6 +2812,24 @@
       "duration_ms": 190200,
       "name": "Maahi Dekhle",
       "url": "https://open.spotify.com/track/1nWJtWMjH82MLk3iduAi7N"
+    },
+    {
+      "album": {
+        "name": "Main Awara",
+        "url": "https://open.spotify.com/album/3qs0pQxmXbReMklmyunn00"
+      },
+      "artists": [
+        {
+          "name": "Nikhil And Rishabh",
+          "url": "https://open.spotify.com/artist/6l4yQwWwvtc0CnN5UXMD1l"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203389,
+      "name": "Main Awara",
+      "url": "https://open.spotify.com/track/73n0BOjhAwenbyx0gwDuSE"
     },
     {
       "album": {
@@ -4103,6 +4179,28 @@
     },
     {
       "album": {
+        "name": "SAVERA",
+        "url": "https://open.spotify.com/album/0cDDEZJfDjRXZJLkrbFKsZ"
+      },
+      "artists": [
+        {
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226105,
+      "name": "SAVERA",
+      "url": "https://open.spotify.com/track/3sLVQHa6ivHL6eXO2N5NTw"
+    },
+    {
+      "album": {
         "name": "sayy\u0101h",
         "url": "https://open.spotify.com/album/2yxGzz9jhpWvMX8aietu2J"
       },
@@ -4318,7 +4416,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 178594,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/2ydZssU4KmqfnJrSrXfSMi"
@@ -4468,7 +4566,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 163106,
       "name": "Teri Meri",
       "url": "https://open.spotify.com/track/6LwTIK5AzysBN1n5AyD35I"
@@ -4672,6 +4770,28 @@
       "duration_ms": 166000,
       "name": "Touch",
       "url": "https://open.spotify.com/track/7rc0OXwSZGp2H4cSKpc6FM"
+    },
+    {
+      "album": {
+        "name": "TU",
+        "url": "https://open.spotify.com/album/13k0feaIl1Zh8tn0FlzEY5"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "A$AD",
+          "url": "https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164967,
+      "name": "TU",
+      "url": "https://open.spotify.com/track/3IllbSE7M594LaBmxdAbPj"
     },
     {
       "album": {
@@ -5017,6 +5137,24 @@
     },
     {
       "album": {
+        "name": "Ud Ke Chali",
+        "url": "https://open.spotify.com/album/2hkVPBR8j7cZWNmCdWer5f"
+      },
+      "artists": [
+        {
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235172,
+      "name": "Ud Ke Chali",
+      "url": "https://open.spotify.com/track/0zVhqtuCf3QCozl1NewYyT"
+    },
+    {
+      "album": {
         "name": "Umeed",
         "url": "https://open.spotify.com/album/21OQ7LcUgwPWGOjGUmlpwJ"
       },
@@ -5039,6 +5177,24 @@
     },
     {
       "album": {
+        "name": "Until the Sun",
+        "url": "https://open.spotify.com/album/0ZFAqfOn9pmSorPseluRiS"
+      },
+      "artists": [
+        {
+          "name": "Black Letters",
+          "url": "https://open.spotify.com/artist/0glNGCIZztkKr1cmnsYdS6"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292753,
+      "name": "Until the Sun",
+      "url": "https://open.spotify.com/track/6f8Oa07VVEiCuir7bIEtl7"
+    },
+    {
+      "album": {
         "name": "Uth Jaa",
         "url": "https://open.spotify.com/album/3P5R96Wjjm1A0Y78AljuKU"
       },
@@ -5050,7 +5206,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 181000,
       "name": "Uth Jaa",
       "url": "https://open.spotify.com/track/51tkOMnFVVfegHd2VXXlOf"

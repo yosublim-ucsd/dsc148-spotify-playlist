@@ -140,7 +140,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 282097,
       "name": "Alma Sola - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/2jVb4wnqiooprgsu1TUb09"
@@ -1198,6 +1198,24 @@
       "duration_ms": 172725,
       "name": "El Plan Mayor",
       "url": "https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM"
+    },
+    {
+      "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz"
+      },
+      "artists": [
+        {
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150177,
+      "name": "Ella se burl\u00f3 de m\u00ed",
+      "url": "https://open.spotify.com/track/4A7e3xbhvbktOXCgVYBCDZ"
     },
     {
       "album": {

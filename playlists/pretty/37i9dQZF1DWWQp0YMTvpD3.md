@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 
 > Uplifting, slow House music to work or relax to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,034 likes - 138 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,010 likes - 138 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 137 | [Hot Sand](https://open.spotify.com/track/3QwAIXZNTwWCGQCB1Mq25D) | [Neon Zebra](https://open.spotify.com/artist/6wql856Fi2nCHEqpdCGiUq), [Johannes Jungleson](https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS) | [Summer Thoughts](https://open.spotify.com/album/6aeUpiVY8eoW8L4OA7lFBg) | 2:56 |
 | 138 | [Your Type](https://open.spotify.com/track/2opemWX71oebOvol9at15T) | [Chullo](https://open.spotify.com/artist/2qmnnOcCrlxJjgZOQcFbjH) | [Your Type](https://open.spotify.com/album/3CpL725jrZokuSmI7KMtLH) | 2:09 |
 
-Snapshot ID: `MCw1ODI3M2U2NzNkYmRkYzE2NzQ3MDE4OGM0ZTk0ZmNmYmQ2M2U3NjJm`
+Snapshot ID: `MCxhZDU1MzI2M2IwZGM3OTdiZmNlZjM2ODBiZGVmNDE3ZDg3ODFlY2Y5`

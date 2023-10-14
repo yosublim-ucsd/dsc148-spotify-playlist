@@ -1,12 +1,12 @@
 {
   "description": "De costa a costa, de frontera a frontera...  un banquete de sonidos de M\u00e9xico.",
-  "num_followers": 18462,
+  "num_followers": 18478,
   "original_name": "Sones & Fusiones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGVmM2YxZGViYjA1ZDU5MDJmZmVhNjNmMmYwNjc2Mjc1NTRlMDJi",
+  "snapshot_id": "MCxjNTUzZmQyZDJhZWM3MmExYTMyMTI4Y2M5MzE3N2NiOWUxOTc0YmI5",
   "tracks": [
     {
       "added_at": "2021-06-22 15:56:01",
@@ -629,20 +629,20 @@
       "url": "https://open.spotify.com/track/4v4c3klbaULU3wpDMNCw0w"
     },
     {
-      "added_at": "2022-01-14 17:35:28",
+      "added_at": "2021-06-22 15:56:01",
       "album": {
-        "name": "Sones",
-        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
+        "name": "Zapateando",
+        "url": "https://open.spotify.com/album/0bSCG0HIrG4N78QnVHq7M5"
       },
       "artists": [
         {
-          "name": "Mariachi Nuevo Tecalitlan",
-          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+          "name": "Los Cojolites",
+          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
         }
       ],
-      "duration_ms": 222537,
-      "name": "Ay Mi Jalisco",
-      "url": "https://open.spotify.com/track/7zci0JLmmXSr19dcfGLtjg"
+      "duration_ms": 162573,
+      "name": "La Guacamaya",
+      "url": "https://open.spotify.com/track/5ZHhYkKDt8OV4GFvrjFH9O"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -661,20 +661,20 @@
       "url": "https://open.spotify.com/track/1OmFEeFNFN5Q6o2til9D4T"
     },
     {
-      "added_at": "2021-06-22 15:56:01",
+      "added_at": "2022-01-14 17:35:28",
       "album": {
-        "name": "Zapateando",
-        "url": "https://open.spotify.com/album/0bSCG0HIrG4N78QnVHq7M5"
+        "name": "Sones",
+        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
       },
       "artists": [
         {
-          "name": "Los Cojolites",
-          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
         }
       ],
-      "duration_ms": 162573,
-      "name": "La Guacamaya",
-      "url": "https://open.spotify.com/track/5ZHhYkKDt8OV4GFvrjFH9O"
+      "duration_ms": 222537,
+      "name": "Ay Mi Jalisco",
+      "url": "https://open.spotify.com/track/7zci0JLmmXSr19dcfGLtjg"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/3HWQJhwYGZ8CWZefWSDxII"
     },
     {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "Sones",
-        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Nuevo Tecalitlan",
-          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
-        }
-      ],
-      "duration_ms": 238027,
-      "name": "Jalisco / Gavil\u00e1n Gavilancillo",
-      "url": "https://open.spotify.com/track/32FRz61j2oNJNHkyjJJXRI"
-    },
-    {
       "added_at": "2021-06-22 15:56:01",
       "album": {
         "name": "Rema, Rema",
@@ -803,6 +787,22 @@
       "duration_ms": 242534,
       "name": "Madre Tierra",
       "url": "https://open.spotify.com/track/6wrpistjQ2jYedRwKhu07D"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "Sones",
+        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+        }
+      ],
+      "duration_ms": 238027,
+      "name": "Jalisco / Gavil\u00e1n Gavilancillo",
+      "url": "https://open.spotify.com/track/32FRz61j2oNJNHkyjJJXRI"
     },
     {
       "added_at": "2021-06-22 15:56:01",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
-        "name": "Esta Criminaaal, Vol. 6 (En Vivo)",
-        "url": "https://open.spotify.com/album/0xXDRW2iXMydFJw1vFFWUA"
-      },
-      "artists": [
-        {
-          "name": "Super Calenda Show",
-          "url": "https://open.spotify.com/artist/2qUEig9rQzoa4Ri5MWaDyx"
-        }
-      ],
-      "duration_ms": 267026,
-      "name": "Virginia Que Si - En Vivo",
-      "url": "https://open.spotify.com/track/6TVTaugec2ljpFh49YiLlP"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
         "name": "Sones",
         "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 329795,
       "name": "Los Arrieros",
       "url": "https://open.spotify.com/track/1ssjjs8NrGWc8hZdV1zQaL"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "Esta Criminaaal, Vol. 6 (En Vivo)",
+        "url": "https://open.spotify.com/album/0xXDRW2iXMydFJw1vFFWUA"
+      },
+      "artists": [
+        {
+          "name": "Super Calenda Show",
+          "url": "https://open.spotify.com/artist/2qUEig9rQzoa4Ri5MWaDyx"
+        }
+      ],
+      "duration_ms": 267026,
+      "name": "Virginia Que Si - En Vivo",
+      "url": "https://open.spotify.com/track/6TVTaugec2ljpFh49YiLlP"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -967,6 +967,54 @@
       "duration_ms": 209226,
       "name": "La Petenera",
       "url": "https://open.spotify.com/track/4WeazL7v9t7yHAUF7TgGnG"
+    },
+    {
+      "added_at": "2021-06-22 15:56:01",
+      "album": {
+        "name": "Orquesta Jarocha",
+        "url": "https://open.spotify.com/album/5vdFxffrWuLCnlrWIfzjLu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mono Blanco",
+          "url": "https://open.spotify.com/artist/7mLec6Qfgix9zhO7vQHDQP"
+        }
+      ],
+      "duration_ms": 345589,
+      "name": "El Butaquito",
+      "url": "https://open.spotify.com/track/0nbFaZNPKPRpppEiwz4VqJ"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "Sones",
+        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+        }
+      ],
+      "duration_ms": 203049,
+      "name": "El Son Del Cuatro",
+      "url": "https://open.spotify.com/track/5BpjKRLu7k2aRCkN7Viq8r"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
+        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
+      },
+      "artists": [
+        {
+          "name": "Banda Laser",
+          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
+        }
+      ],
+      "duration_ms": 165906,
+      "name": "Popurr\u00ed de Sones / Huapango de Moncayo / Tavo Rivera / Guadalajara / Juan Colorado",
+      "url": "https://open.spotify.com/track/3JQ7VHzXjdr99GP0bQ47s5"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1003,50 +1051,18 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
-        "name": "Sones",
-        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
+        "name": "Toro Pinto: M\u00fasica Pur\u00e9pecha (Abaje\u00f1os / Pir\u00e9kuas / Sones)",
+        "url": "https://open.spotify.com/album/1k66pcKIunyfB7Zm0sHECs"
       },
       "artists": [
         {
-          "name": "Mariachi Nuevo Tecalitlan",
-          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+          "name": "Banda Revelaci\u00f3n de San Andr\u00e9s Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/475iX46VDB5Nit0lf1hPZk"
         }
       ],
-      "duration_ms": 203049,
-      "name": "El Son Del Cuatro",
-      "url": "https://open.spotify.com/track/5BpjKRLu7k2aRCkN7Viq8r"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
-        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
-      },
-      "artists": [
-        {
-          "name": "Banda Laser",
-          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
-        }
-      ],
-      "duration_ms": 165906,
-      "name": "Popurr\u00ed de Sones / Huapango de Moncayo / Tavo Rivera / Guadalajara / Juan Colorado",
-      "url": "https://open.spotify.com/track/3JQ7VHzXjdr99GP0bQ47s5"
-    },
-    {
-      "added_at": "2021-06-22 15:56:01",
-      "album": {
-        "name": "Orquesta Jarocha",
-        "url": "https://open.spotify.com/album/5vdFxffrWuLCnlrWIfzjLu"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mono Blanco",
-          "url": "https://open.spotify.com/artist/7mLec6Qfgix9zhO7vQHDQP"
-        }
-      ],
-      "duration_ms": 345589,
-      "name": "El Butaquito",
-      "url": "https://open.spotify.com/track/0nbFaZNPKPRpppEiwz4VqJ"
+      "duration_ms": 214466,
+      "name": "California Nipaia Nipaia - Adi\u00f3s California",
+      "url": "https://open.spotify.com/track/4BEgsilbLDzmUHTdagzjpv"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1063,22 +1079,6 @@
       "duration_ms": 196040,
       "name": "El Querreque",
       "url": "https://open.spotify.com/track/7yXEHkJdeQWgmhoN8CqSAd"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "Toro Pinto: M\u00fasica Pur\u00e9pecha (Abaje\u00f1os / Pir\u00e9kuas / Sones)",
-        "url": "https://open.spotify.com/album/1k66pcKIunyfB7Zm0sHECs"
-      },
-      "artists": [
-        {
-          "name": "Banda Revelaci\u00f3n de San Andr\u00e9s Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/475iX46VDB5Nit0lf1hPZk"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "California Nipaia Nipaia - Adi\u00f3s California",
-      "url": "https://open.spotify.com/track/4BEgsilbLDzmUHTdagzjpv"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2021-06-22 15:56:01",
       "album": {
+        "name": "Orquesta Jarocha",
+        "url": "https://open.spotify.com/album/5vdFxffrWuLCnlrWIfzjLu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mono Blanco",
+          "url": "https://open.spotify.com/artist/7mLec6Qfgix9zhO7vQHDQP"
+        }
+      ],
+      "duration_ms": 252517,
+      "name": "La Guacamaya",
+      "url": "https://open.spotify.com/track/1kUOLBCTVfIeim8wHR0wks"
+    },
+    {
+      "added_at": "2021-06-22 15:56:01",
+      "album": {
         "name": "En Tonos Muy Diferentes",
         "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
       },
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
-        "name": "La Tortuga, Sones Istme\u00f1os",
-        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos R\u00edos",
-          "url": "https://open.spotify.com/artist/4T0GBgActseXoBYsSNouZV"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Son Huini",
-      "url": "https://open.spotify.com/track/5oM89v8sVhJ7h8i37DXZPj"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
         "name": "Homenaje A Michoac\u00e1n 20 \u00c9xitos",
         "url": "https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT"
       },
@@ -1209,10 +1209,26 @@
       "url": "https://open.spotify.com/track/4tkIF5BkBVvihpojMHyh2c"
     },
     {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "La Tortuga, Sones Istme\u00f1os",
+        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos R\u00edos",
+          "url": "https://open.spotify.com/artist/4T0GBgActseXoBYsSNouZV"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Son Huini",
+      "url": "https://open.spotify.com/track/5oM89v8sVhJ7h8i37DXZPj"
+    },
+    {
       "added_at": "2021-06-22 15:56:01",
       "album": {
-        "name": "Orquesta Jarocha",
-        "url": "https://open.spotify.com/album/5vdFxffrWuLCnlrWIfzjLu"
+        "name": "Sones Jarochos",
+        "url": "https://open.spotify.com/album/5vOkhOTm4keyxTgSZBGLVR"
       },
       "artists": [
         {
@@ -1220,25 +1236,9 @@
           "url": "https://open.spotify.com/artist/7mLec6Qfgix9zhO7vQHDQP"
         }
       ],
-      "duration_ms": 252517,
-      "name": "La Guacamaya",
-      "url": "https://open.spotify.com/track/1kUOLBCTVfIeim8wHR0wks"
-    },
-    {
-      "added_at": "2021-06-22 15:56:01",
-      "album": {
-        "name": "Vientos del Mar",
-        "url": "https://open.spotify.com/album/2yMlZsJcuqXA7WGgr6t2r7"
-      },
-      "artists": [
-        {
-          "name": "Los Vega",
-          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
-        }
-      ],
-      "duration_ms": 291273,
-      "name": "La Guacamaya",
-      "url": "https://open.spotify.com/track/5flKJUDQifLITSlZnpRgzs"
+      "duration_ms": 457000,
+      "name": "La Candela",
+      "url": "https://open.spotify.com/track/72VuR1Owa3ONw1VQk1z1mS"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1255,6 +1255,22 @@
       "duration_ms": 126480,
       "name": "Los Once Pueblos",
       "url": "https://open.spotify.com/track/2N8wA0N7dCJ7acA9PRshnD"
+    },
+    {
+      "added_at": "2021-06-22 15:56:01",
+      "album": {
+        "name": "Vientos del Mar",
+        "url": "https://open.spotify.com/album/2yMlZsJcuqXA7WGgr6t2r7"
+      },
+      "artists": [
+        {
+          "name": "Los Vega",
+          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
+        }
+      ],
+      "duration_ms": 291273,
+      "name": "La Guacamaya",
+      "url": "https://open.spotify.com/track/5flKJUDQifLITSlZnpRgzs"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1287,22 +1303,6 @@
       "duration_ms": 183560,
       "name": "La Petrona",
       "url": "https://open.spotify.com/track/4VvzZJHForqSUN7BRHcqFM"
-    },
-    {
-      "added_at": "2021-06-22 15:56:01",
-      "album": {
-        "name": "Sones Jarochos",
-        "url": "https://open.spotify.com/album/5vOkhOTm4keyxTgSZBGLVR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mono Blanco",
-          "url": "https://open.spotify.com/artist/7mLec6Qfgix9zhO7vQHDQP"
-        }
-      ],
-      "duration_ms": 457000,
-      "name": "La Candela",
-      "url": "https://open.spotify.com/track/72VuR1Owa3ONw1VQk1z1mS"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
-        "name": "Homenaje A Michoac\u00e1n 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT"
-      },
-      "artists": [
-        {
-          "name": "Banda De Zirahuen",
-          "url": "https://open.spotify.com/artist/2o92J4aTVsadXG0BjjjZMt"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Janitzio",
-      "url": "https://open.spotify.com/track/0k4Ygc4kQsuu0RmNe5bD0C"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
         "name": "Antolog\u00eda del Son de M\u00e9xico, Huasteca",
         "url": "https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 283600,
       "name": "La Huasanga",
       "url": "https://open.spotify.com/track/79Kd8uSsEh5kY4lU10yMMt"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "Homenaje A Michoac\u00e1n 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT"
+      },
+      "artists": [
+        {
+          "name": "Banda De Zirahuen",
+          "url": "https://open.spotify.com/artist/2o92J4aTVsadXG0BjjjZMt"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Janitzio",
+      "url": "https://open.spotify.com/track/0k4Ygc4kQsuu0RmNe5bD0C"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
-        "name": "La Ruta del Son Mexicano",
-        "url": "https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz"
-      },
-      "artists": [
-        {
-          "name": "Son de Oaxaca",
-          "url": "https://open.spotify.com/artist/3RLhsPUWDb9btV70Cb8BXI"
-        }
-      ],
-      "duration_ms": 153080,
-      "name": "La Tortuga del Arenal",
-      "url": "https://open.spotify.com/track/3eYL69jDDTg45N5yBhGGZj"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
         "name": "Antolog\u00eda del Son de M\u00e9xico, Tixtla",
         "url": "https://open.spotify.com/album/06Yjy7xvGE2Zy9MlYqADuJ"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 320933,
       "name": "La Petenera",
       "url": "https://open.spotify.com/track/3Lendq3ccgsGBjFmA12l7v"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "La Ruta del Son Mexicano",
+        "url": "https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz"
+      },
+      "artists": [
+        {
+          "name": "Son de Oaxaca",
+          "url": "https://open.spotify.com/artist/3RLhsPUWDb9btV70Cb8BXI"
+        }
+      ],
+      "duration_ms": 153080,
+      "name": "La Tortuga del Arenal",
+      "url": "https://open.spotify.com/track/3eYL69jDDTg45N5yBhGGZj"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1565,20 +1565,20 @@
       "url": "https://open.spotify.com/track/0Ag0KuCf7jPhtAhSchzMbm"
     },
     {
-      "added_at": "2021-06-22 15:56:01",
+      "added_at": "2022-01-14 17:35:28",
       "album": {
-        "name": "De la mera mata",
-        "url": "https://open.spotify.com/album/7vTwydvxuCNG1nSdnm6c26"
+        "name": "Antolog\u00eda del Son de M\u00e9xico, Huasteca",
+        "url": "https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Vega Delf\u00edn",
-          "url": "https://open.spotify.com/artist/4kmqxgznDGuLhVXdfcSLX6"
+          "name": "Tr\u00edo Cantores del P\u00e1nuco",
+          "url": "https://open.spotify.com/artist/2KCYG92xE8JSetBij1lECl"
         }
       ],
-      "duration_ms": 389840,
-      "name": "El P\u00e1jaro Cu",
-      "url": "https://open.spotify.com/track/3yeRYUKLmckkoJbaxiVayS"
+      "duration_ms": 135773,
+      "name": "El Sentimiento",
+      "url": "https://open.spotify.com/track/4onyKMzSbeBDQD2WBpqa3n"
     },
     {
       "added_at": "2021-06-22 15:56:01",
@@ -1597,20 +1597,20 @@
       "url": "https://open.spotify.com/track/0iIMByBdzVzhyFDWc27QpD"
     },
     {
-      "added_at": "2022-01-14 17:35:28",
+      "added_at": "2021-06-22 15:56:01",
       "album": {
-        "name": "Antolog\u00eda del Son de M\u00e9xico, Huasteca",
-        "url": "https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8"
+        "name": "Orquesta Jarocha",
+        "url": "https://open.spotify.com/album/5vdFxffrWuLCnlrWIfzjLu"
       },
       "artists": [
         {
-          "name": "Tr\u00edo Cantores del P\u00e1nuco",
-          "url": "https://open.spotify.com/artist/2KCYG92xE8JSetBij1lECl"
+          "name": "Grupo Mono Blanco",
+          "url": "https://open.spotify.com/artist/7mLec6Qfgix9zhO7vQHDQP"
         }
       ],
-      "duration_ms": 135773,
-      "name": "El Sentimiento",
-      "url": "https://open.spotify.com/track/4onyKMzSbeBDQD2WBpqa3n"
+      "duration_ms": 416341,
+      "name": "El Coco",
+      "url": "https://open.spotify.com/track/0jAqk2ih38yO0oEvX6dIiW"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2021-06-22 15:56:01",
       "album": {
-        "name": "Orquesta Jarocha",
-        "url": "https://open.spotify.com/album/5vdFxffrWuLCnlrWIfzjLu"
+        "name": "De la mera mata",
+        "url": "https://open.spotify.com/album/7vTwydvxuCNG1nSdnm6c26"
       },
       "artists": [
         {
-          "name": "Grupo Mono Blanco",
-          "url": "https://open.spotify.com/artist/7mLec6Qfgix9zhO7vQHDQP"
+          "name": "Andr\u00e9s Vega Delf\u00edn",
+          "url": "https://open.spotify.com/artist/4kmqxgznDGuLhVXdfcSLX6"
         }
       ],
-      "duration_ms": 416341,
-      "name": "El Coco",
-      "url": "https://open.spotify.com/track/0jAqk2ih38yO0oEvX6dIiW"
+      "duration_ms": 389840,
+      "name": "El P\u00e1jaro Cu",
+      "url": "https://open.spotify.com/track/3yeRYUKLmckkoJbaxiVayS"
     },
     {
       "added_at": "2021-06-22 15:56:01",
@@ -1821,26 +1821,6 @@
       "url": "https://open.spotify.com/track/2kVdZtZgyveNKU7FRfwQjT"
     },
     {
-      "added_at": "2021-06-22 15:56:01",
-      "album": {
-        "name": "Sones Jarochos",
-        "url": "https://open.spotify.com/album/5aCKRg1bo9hwcto3aNkThA"
-      },
-      "artists": [
-        {
-          "name": "ARCADIO HIDALGO",
-          "url": "https://open.spotify.com/artist/7fSFQSGDK4qVzcUb6lxpvQ"
-        },
-        {
-          "name": "Grupo Mono Blanco",
-          "url": "https://open.spotify.com/artist/7mLec6Qfgix9zhO7vQHDQP"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/72FuLOI8lu55H2DMbUhV53"
-    },
-    {
       "added_at": "2022-01-14 17:35:28",
       "album": {
         "name": "La Ruta del Son Mexicano",
@@ -1855,38 +1835,6 @@
       "duration_ms": 208026,
       "name": "El Siquisir\u00ed",
       "url": "https://open.spotify.com/track/2Fds32x9BCvxHBILPeahlk"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "La Tortuga, Sones Istme\u00f1os",
-        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
-      },
-      "artists": [
-        {
-          "name": "Binni Gula'za",
-          "url": "https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/6t0HP22IT4zsv2W5HLWgrT"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "La Tortuga, Sones Istme\u00f1os",
-        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
-      },
-      "artists": [
-        {
-          "name": "Luis Sanchez",
-          "url": "https://open.spotify.com/artist/16YqsWO8xZTwmqO2ipQmWG"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "La Tortuga",
-      "url": "https://open.spotify.com/track/0RJkKFl92RWvSA6q6qrUMx"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1912,6 +1860,58 @@
       },
       "artists": [
         {
+          "name": "Binni Gula'za",
+          "url": "https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq"
+        }
+      ],
+      "duration_ms": 230773,
+      "name": "Simuna",
+      "url": "https://open.spotify.com/track/0EhkVPCBYSWlu1GutS5QQ3"
+    },
+    {
+      "added_at": "2021-06-22 15:56:01",
+      "album": {
+        "name": "Sones Jarochos",
+        "url": "https://open.spotify.com/album/5aCKRg1bo9hwcto3aNkThA"
+      },
+      "artists": [
+        {
+          "name": "ARCADIO HIDALGO",
+          "url": "https://open.spotify.com/artist/7fSFQSGDK4qVzcUb6lxpvQ"
+        },
+        {
+          "name": "Grupo Mono Blanco",
+          "url": "https://open.spotify.com/artist/7mLec6Qfgix9zhO7vQHDQP"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/72FuLOI8lu55H2DMbUhV53"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "La Tortuga, Sones Istme\u00f1os",
+        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
+      },
+      "artists": [
+        {
+          "name": "Luis Sanchez",
+          "url": "https://open.spotify.com/artist/16YqsWO8xZTwmqO2ipQmWG"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "La Tortuga",
+      "url": "https://open.spotify.com/track/0RJkKFl92RWvSA6q6qrUMx"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "La Tortuga, Sones Istme\u00f1os",
+        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
+      },
+      "artists": [
+        {
           "name": "Los Andariegos",
           "url": "https://open.spotify.com/artist/2VhvpyL5hj1YE4SYvIsUks"
         }
@@ -1919,22 +1919,6 @@
       "duration_ms": 190933,
       "name": "Sollozando",
       "url": "https://open.spotify.com/track/4RriRBwXoJgdx0VkyBdKtU"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "Homenaje A Michoac\u00e1n 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT"
-      },
-      "artists": [
-        {
-          "name": "Banda De Zirahuen",
-          "url": "https://open.spotify.com/artist/2o92J4aTVsadXG0BjjjZMt"
-        }
-      ],
-      "duration_ms": 114640,
-      "name": "Tzitzik Canela (Flor De Canela)",
-      "url": "https://open.spotify.com/track/3fcp0vGkNvc6chTPAg35Oh"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -1955,6 +1939,22 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
+        "name": "Homenaje A Michoac\u00e1n 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT"
+      },
+      "artists": [
+        {
+          "name": "Banda De Zirahuen",
+          "url": "https://open.spotify.com/artist/2o92J4aTVsadXG0BjjjZMt"
+        }
+      ],
+      "duration_ms": 114640,
+      "name": "Tzitzik Canela (Flor De Canela)",
+      "url": "https://open.spotify.com/track/3fcp0vGkNvc6chTPAg35Oh"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
         "name": "La Tortuga, Sones Istme\u00f1os",
         "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
       },
@@ -1964,9 +1964,25 @@
           "url": "https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq"
         }
       ],
-      "duration_ms": 230773,
-      "name": "Simuna",
-      "url": "https://open.spotify.com/track/0EhkVPCBYSWlu1GutS5QQ3"
+      "duration_ms": 227666,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/6t0HP22IT4zsv2W5HLWgrT"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "Antolog\u00eda del Son de M\u00e9xico, Tixtla",
+        "url": "https://open.spotify.com/album/06Yjy7xvGE2Zy9MlYqADuJ"
+      },
+      "artists": [
+        {
+          "name": "Trio de San Andr\u00e9s",
+          "url": "https://open.spotify.com/artist/0XNoovOGrWga1ecfvJeQ9d"
+        }
+      ],
+      "duration_ms": 146506,
+      "name": "La Mar\u00eda Chuchena",
+      "url": "https://open.spotify.com/track/42yMG55cxTIVCr4Ff7ZB7c"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -2001,54 +2017,6 @@
       "url": "https://open.spotify.com/track/7AvyNkfIIJ2r41fPkF0i15"
     },
     {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "Homenaje A Michoac\u00e1n 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT"
-      },
-      "artists": [
-        {
-          "name": "Banda De Zirahuen",
-          "url": "https://open.spotify.com/artist/2o92J4aTVsadXG0BjjjZMt"
-        }
-      ],
-      "duration_ms": 118973,
-      "name": "Tor Temben Mari (Toro de Once)",
-      "url": "https://open.spotify.com/track/62emEW3js9cZu1owJKR3Rd"
-    },
-    {
-      "added_at": "2021-06-22 15:56:01",
-      "album": {
-        "name": "De la mera mata",
-        "url": "https://open.spotify.com/album/7vTwydvxuCNG1nSdnm6c26"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Vega Delf\u00edn",
-          "url": "https://open.spotify.com/artist/4kmqxgznDGuLhVXdfcSLX6"
-        }
-      ],
-      "duration_ms": 388586,
-      "name": "El Siquisir\u00ed",
-      "url": "https://open.spotify.com/track/34TgA01qdOsWmXQ1eBh4ao"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "Antolog\u00eda del Son de M\u00e9xico, Tixtla",
-        "url": "https://open.spotify.com/album/06Yjy7xvGE2Zy9MlYqADuJ"
-      },
-      "artists": [
-        {
-          "name": "Trio de San Andr\u00e9s",
-          "url": "https://open.spotify.com/artist/0XNoovOGrWga1ecfvJeQ9d"
-        }
-      ],
-      "duration_ms": 146506,
-      "name": "La Mar\u00eda Chuchena",
-      "url": "https://open.spotify.com/track/42yMG55cxTIVCr4Ff7ZB7c"
-    },
-    {
       "added_at": "2021-06-22 15:56:01",
       "album": {
         "name": "Sones Jarochos",
@@ -2067,6 +2035,22 @@
       "duration_ms": 104080,
       "name": "El Aguanieve",
       "url": "https://open.spotify.com/track/5UROQBAMVLIdzaBCpIPhib"
+    },
+    {
+      "added_at": "2021-06-22 15:56:01",
+      "album": {
+        "name": "De la mera mata",
+        "url": "https://open.spotify.com/album/7vTwydvxuCNG1nSdnm6c26"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Vega Delf\u00edn",
+          "url": "https://open.spotify.com/artist/4kmqxgznDGuLhVXdfcSLX6"
+        }
+      ],
+      "duration_ms": 388586,
+      "name": "El Siquisir\u00ed",
+      "url": "https://open.spotify.com/track/34TgA01qdOsWmXQ1eBh4ao"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -2099,6 +2083,22 @@
       "duration_ms": 311706,
       "name": "La Petrona",
       "url": "https://open.spotify.com/track/1LzJIQn3GT7bGgzEktfk76"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
+        "name": "Homenaje A Michoac\u00e1n 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT"
+      },
+      "artists": [
+        {
+          "name": "Banda De Zirahuen",
+          "url": "https://open.spotify.com/artist/2o92J4aTVsadXG0BjjjZMt"
+        }
+      ],
+      "duration_ms": 118973,
+      "name": "Tor Temben Mari (Toro de Once)",
+      "url": "https://open.spotify.com/track/62emEW3js9cZu1owJKR3Rd"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -2149,6 +2149,26 @@
       "url": "https://open.spotify.com/track/1oNR9SbLESfv3oyh9CHNfQ"
     },
     {
+      "added_at": "2021-06-22 15:56:01",
+      "album": {
+        "name": "Sones Jarochos",
+        "url": "https://open.spotify.com/album/5aCKRg1bo9hwcto3aNkThA"
+      },
+      "artists": [
+        {
+          "name": "ARCADIO HIDALGO",
+          "url": "https://open.spotify.com/artist/7fSFQSGDK4qVzcUb6lxpvQ"
+        },
+        {
+          "name": "Grupo Mono Blanco",
+          "url": "https://open.spotify.com/artist/7mLec6Qfgix9zhO7vQHDQP"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "La Guacamaya",
+      "url": "https://open.spotify.com/track/2kxINZEmxxOviY2EnSmmya"
+    },
+    {
       "added_at": "2022-01-14 17:35:28",
       "album": {
         "name": "Antolog\u00eda del Son de M\u00e9xico, Huasteca",
@@ -2197,40 +2217,20 @@
       "url": "https://open.spotify.com/track/54u2C0vQJqIT4YBJ91FTCA"
     },
     {
-      "added_at": "2021-06-22 15:56:01",
-      "album": {
-        "name": "Sones Jarochos",
-        "url": "https://open.spotify.com/album/5aCKRg1bo9hwcto3aNkThA"
-      },
-      "artists": [
-        {
-          "name": "ARCADIO HIDALGO",
-          "url": "https://open.spotify.com/artist/7fSFQSGDK4qVzcUb6lxpvQ"
-        },
-        {
-          "name": "Grupo Mono Blanco",
-          "url": "https://open.spotify.com/artist/7mLec6Qfgix9zhO7vQHDQP"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "La Guacamaya",
-      "url": "https://open.spotify.com/track/2kxINZEmxxOviY2EnSmmya"
-    },
-    {
       "added_at": "2022-01-14 17:35:28",
       "album": {
-        "name": "Antolog\u00eda del Son de M\u00e9xico, Huasteca",
-        "url": "https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8"
+        "name": "La Ruta del Son Mexicano",
+        "url": "https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz"
       },
       "artists": [
         {
-          "name": "Tr\u00edo Regional Huasteco",
-          "url": "https://open.spotify.com/artist/20QOi6O5IYxlw5Yv0ojerB"
+          "name": "Son Chiapaneco",
+          "url": "https://open.spotify.com/artist/4ZuOAnCXyktHTcTLUq7Agt"
         }
       ],
-      "duration_ms": 154293,
-      "name": "El Tepetzintleco",
-      "url": "https://open.spotify.com/track/0E2dASunov3Ow75l78paap"
+      "duration_ms": 177000,
+      "name": "El Sapo",
+      "url": "https://open.spotify.com/track/1QqUyjBpCHtDlJ3xzRuS6O"
     },
     {
       "added_at": "2022-01-14 17:35:28",
@@ -2251,6 +2251,22 @@
     {
       "added_at": "2022-01-14 17:35:28",
       "album": {
+        "name": "Antolog\u00eda del Son de M\u00e9xico, Huasteca",
+        "url": "https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00edo Regional Huasteco",
+          "url": "https://open.spotify.com/artist/20QOi6O5IYxlw5Yv0ojerB"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "El Tepetzintleco",
+      "url": "https://open.spotify.com/track/0E2dASunov3Ow75l78paap"
+    },
+    {
+      "added_at": "2022-01-14 17:35:28",
+      "album": {
         "name": "La Ruta del Son Mexicano",
         "url": "https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz"
       },
@@ -2263,22 +2279,6 @@
       "duration_ms": 180053,
       "name": "De Puro Costa Chica",
       "url": "https://open.spotify.com/track/2y4bAUKRPPcK2neVusHt7h"
-    },
-    {
-      "added_at": "2022-01-14 17:35:28",
-      "album": {
-        "name": "La Ruta del Son Mexicano",
-        "url": "https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz"
-      },
-      "artists": [
-        {
-          "name": "Son Chiapaneco",
-          "url": "https://open.spotify.com/artist/4ZuOAnCXyktHTcTLUq7Agt"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "El Sapo",
-      "url": "https://open.spotify.com/track/1QqUyjBpCHtDlJ3xzRuS6O"
     },
     {
       "added_at": "2022-01-14 17:35:28",

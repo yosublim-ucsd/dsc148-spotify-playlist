@@ -2,7 +2,7 @@
 
 ### [Amor I Love You](https://open.spotify.com/playlist/37i9dQZF1DX3J5toT8HI72)
 
-> Grandes músicas pra você curtir com seu amorzinho \(ou pensando nele\) Foto: Flora Matos
+> Grandes músicas pra você curtir com seu amorzinho \(ou pensando nele\)
 
 114 songs - 7 hr 0 min
 

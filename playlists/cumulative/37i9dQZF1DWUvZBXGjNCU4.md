@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-287 songs - 13 hr 1 min
+288 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [In Quiet Admiration](https://open.spotify.com/track/7gIbaF08zajeFH0JwjTflZ) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [In Quiet Admiration](https://open.spotify.com/album/4bnRFPUL7Gbu5a17uY0FgR) | 2:19 | 2023-10-13 |  |
 | [In Search of Miracles](https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [In Search of Miracles](https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm) | 2:27 | 2023-02-24 |  |
 | [In the Makeup of the Sun \- Instrumental Version](https://open.spotify.com/track/2yyUytDg93W9yK40uENJg6) | [Christian Wannerwall](https://open.spotify.com/artist/4Z3m4U4Qm1b8EFpcws68kh) | [In the Makeup of the Sun \(Instrumental Version\)](https://open.spotify.com/album/1h90KBYEpVefz7oqZbpYFx) | 1:39 | 2022-05-13 | 2022-06-10 |
-| [Innocent Face](https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:02 | 2023-10-13 |  |
+| [Innocent Face](https://open.spotify.com/track/1LjYFVvhXmuP3RgErQBYkH) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Innocent Face](https://open.spotify.com/album/4GpBw9UUFaHkv12myq2POe) | 2:02 | 2023-10-13 |  |
+| [Innocent Face](https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:02 | 2023-10-13 | 2023-10-14 |
 | [Isaar im Mondschein](https://open.spotify.com/track/0wyxPRiJzaNkJ3KmiqXaQq) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Frühlings Erwachen](https://open.spotify.com/album/2qUMNFnnZUzoyQbYo3jvWc) | 3:41 | 2022-05-13 |  |
 | [Je Te Manque?](https://open.spotify.com/track/3OH8rKFY3rNV6Y7HMIate7) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Je Te Manque?](https://open.spotify.com/album/5VepAU0NTh96kQZmkFIvEb) | 2:56 | 2022-05-27 |  |
 | [Journey Home](https://open.spotify.com/track/1n8JIhb5wq50ZNvuas4ceq) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Journey Home](https://open.spotify.com/album/2KGpAwyPvctqPpcpzLpRwh) | 3:08 | 2022-05-13 | 2023-09-01 |

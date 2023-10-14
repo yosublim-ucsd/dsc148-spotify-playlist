@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Baerd
 
-408 songs - 1 day 1 hr 23 min
+409 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Circles In The Firing Line \- Edit](https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Fever Dreams](https://open.spotify.com/album/5HA5MRg8gQI4KvUfV05lhr) | 3:27 | 2022-04-13 | 2023-03-11 |
 | [Circuit Rider](https://open.spotify.com/track/3C2pIO8aAdndrzUE72mii3) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Circuit Rider](https://open.spotify.com/album/47jJa0W0FJNDYfQanDbnxa) | 3:44 | 2022-04-13 | 2022-07-29 |
 | [Closing the Door on Us](https://open.spotify.com/track/0QiNYxQRmZgkkBf023sPAz) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Closing the Door on Us](https://open.spotify.com/album/5lrXpvZW4qzI9Ua9aqY7U3) | 2:15 | 2023-02-17 | 2023-08-08 |
+| [Clovers](https://open.spotify.com/track/5k8oU9p71fIhYiTCPudwdh) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 4:51 | 2023-10-13 |  |
 | [Come June](https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg) | 3:36 | 2023-07-21 |  |
 | [Come Onn](https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Come Onn](https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl) | 3:24 | 2023-06-09 | 2023-09-16 |
 | [Convention](https://open.spotify.com/track/0cT41FjcuUS4HFhq4IwnNY) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 3:16 | 2022-04-13 | 2022-11-26 |
@@ -161,7 +162,7 @@
 | [Heavy Head \(Keep It Near\)](https://open.spotify.com/track/6GDUqLI7Wh88WNyZqCsYuQ) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Heavy Head \(Keep It Near\)](https://open.spotify.com/album/2wlsCaggRIScvrkaSJm9WI) | 4:17 | 2022-04-13 | 2022-07-29 |
 | [Held Down](https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Held Down](https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K) | 4:07 | 2022-01-21 | 2023-06-04 |
 | [Helena](https://open.spotify.com/track/2BsSqz6lCeJl8tErM2ZlL4) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [The Monster Who Hated Pennsylvania](https://open.spotify.com/album/13qO35v1fPlEsvctgnCMrs) | 2:47 | 2022-01-21 | 2023-01-17 |
-| [Hold My Hand](https://open.spotify.com/track/1X5Skx2pTRXmaPblH3sKwW) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Hold My Hand](https://open.spotify.com/album/1tMTEwX99b27pqjQj5XwDN) | 3:59 | 2023-10-06 |  |
+| [Hold My Hand](https://open.spotify.com/track/1X5Skx2pTRXmaPblH3sKwW) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Hold My Hand](https://open.spotify.com/album/1tMTEwX99b27pqjQj5XwDN) | 3:59 | 2023-10-06 | 2023-10-14 |
 | [Holding You There](https://open.spotify.com/track/2XkMwuRLWYaGfpNd9jpdDU) | [Georgia Duncan](https://open.spotify.com/artist/76QuBzf0cdwd8G8IMrbllG) | [The Light](https://open.spotify.com/album/6JsxLyhFwGTNFiM8ld8RJU) | 2:47 | 2022-04-13 | 2022-07-22 |
 | [Holdup](https://open.spotify.com/track/698FjMKtAofPXufwpCbsxo) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Holdup](https://open.spotify.com/album/0xwKLtHe9vEa7a4w88guxk) | 2:35 | 2023-05-05 |  |
 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 | 2022-04-29 | 2023-06-26 |

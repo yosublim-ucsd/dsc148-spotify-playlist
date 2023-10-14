@@ -2,9 +2,9 @@
 
 ### [Ginger Me](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Nissi
+> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Boj & Ajebutter22
 
-441 songs - 22 hr 17 min
+443 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Never Love Again](https://open.spotify.com/track/0NLRTMtyvgX4HC9Yyf7fO9) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Never Love Again](https://open.spotify.com/album/0DyQM70GwzJIhxLDHeaULt) | 3:05 | 2021-11-25 | 2022-02-10 |
 | [Never Strong](https://open.spotify.com/track/0LCz6RWJVHZistEi1JQ3S1) | [Jiire Smith](https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc) | [19](https://open.spotify.com/album/7Dp8pXGvjCbBIfzwhoo8sE) | 3:39 | 2023-01-12 | 2023-02-04 |
 | [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 | 2023-07-20 |  |
+| [Ngozi](https://open.spotify.com/track/6YHRw6MptcrYWv7JYROGTk) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Ngozi](https://open.spotify.com/album/45Wb2RLhEF2CvubX8G89qX) | 3:43 | 2023-10-13 |  |
 | [No Doubt](https://open.spotify.com/track/5KAxBZ8TY2YYHhiOd0XcVZ) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [No Doubt](https://open.spotify.com/album/2ucq3VkxPJbUsAJ1rP6QDD) | 2:09 | 2023-03-25 | 2023-03-31 |
 | [No Love \(18 Plus\)](https://open.spotify.com/track/79OOvZE5uMhVJE6m2l0mPa) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [No Love \(18 Plus\)](https://open.spotify.com/album/0oyBl0Gt0gQGIjyUGssjX1) | 3:47 | 2022-11-25 | 2022-12-19 |
 | [No Stress](https://open.spotify.com/track/1rXzcrYcx3NKABg3WeCJ6R) | [BemiSoul](https://open.spotify.com/artist/3plhRccR9ys3hl9ctCPRn8) | [No Stress](https://open.spotify.com/album/7BxNfBhoI2rlXYJeoAjlyx) | 3:06 | 2022-02-10 | 2022-02-17 |
@@ -326,6 +327,7 @@
 | [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 | 2023-05-11 | 2023-09-07 |
 | [Rice & Peas](https://open.spotify.com/track/05M4QRmytVTEO58puxL6Tp) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [At The End of The Night](https://open.spotify.com/album/4lPZ6lK0i2QVdSCXlPpoBu) | 3:23 | 2022-05-12 | 2022-06-10 |
 | [Right Here](https://open.spotify.com/track/1pNiF9HF0G6IvvieIVplAF) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Right Here](https://open.spotify.com/album/1DQOERqHos96P7hL1a2sCx) | 3:32 | 2021-11-11 | 2023-05-21 |
+| [Rora](https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Rora](https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC) | 2:23 | 2023-10-13 |  |
 | [Rora](https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rora](https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05) | 2:29 | 2023-01-27 | 2023-02-17 |
 | [Rosalia](https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [Ladies First](https://open.spotify.com/album/5OXAbuAjAWGqE6sBQyRDJU) | 3:01 | 2022-06-03 | 2022-08-06 |
 | [Roses](https://open.spotify.com/track/144kUjJ5kE1lKjDniO7uuX) | [J.E.N.N.Y](https://open.spotify.com/artist/4CXFDVOCfxAsJJwvxUR4Vc) | [The Śingerman](https://open.spotify.com/album/3EpkLDcM9UG3FCikMfyn4A) | 2:36 | 2022-02-10 | 2022-07-28 |
@@ -438,7 +440,7 @@
 | [Woman](https://open.spotify.com/track/5PjVhymNaWsU57S7zhOjgo) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Woman](https://open.spotify.com/album/0ZpRrn5pcVaxmmlPnC8X5J) | 2:48 | 2022-05-19 | 2022-07-29 |
 | [woman](https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:48 | 2022-05-19 | 2023-09-15 |
 | [Woman](https://open.spotify.com/track/1ODftV7ocihBwY9CJcCvD1) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Woman](https://open.spotify.com/album/6bqDVBfkBUuMy56zc91rR6) | 2:48 | 2021-10-14 | 2022-02-24 |
-| [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2023-06-09 |  |
+| [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2023-06-09 | 2023-10-14 |
 | [WYD](https://open.spotify.com/track/13ulmsrmNsMMuqX61yJIU5) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [WYD](https://open.spotify.com/album/50u9TSex0yCf6OEcysr9eN) | 2:55 | 2022-04-21 | 2022-07-29 |
 | [Yes I Do](https://open.spotify.com/track/1ggByUxl4VQJFOaDYWEMf7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Arabi](https://open.spotify.com/artist/6VrXIP3nJGtGwRL8jcdTyu) | [Made For Love](https://open.spotify.com/album/5QERzxJ3zro4qe4zQ3zbqp) | 3:23 | 2021-10-14 | 2022-07-25 |
 | [Yoga](https://open.spotify.com/track/79xHOEYZKZEj6fPkmhQboa) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Yoga](https://open.spotify.com/album/63GoanBcE6J4MDIuSQi7jc) | 2:48 | 2023-02-03 | 2023-02-24 |

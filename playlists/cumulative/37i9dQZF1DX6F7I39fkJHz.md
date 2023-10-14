@@ -2,9 +2,9 @@
 
 ### [EQUAL Urbano](https://open.spotify.com/playlist/37i9dQZF1DX6F7I39fkJHz)
 
-> Las más bichotas de la escena featuring TAICHU.
+> Las más bichotas de la escena featuring Aura BAE.
 
-118 songs - 5 hr 41 min
+119 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 | 2023-03-17 | 2023-04-23 |
 | [Hey Pa'](https://open.spotify.com/track/4TXGqY6364608w12mhtRxy) | [Jossi](https://open.spotify.com/artist/51ZHU1EKuVtXdVO561U7zJ) | [Hey Pa'](https://open.spotify.com/album/2fKpgsiWV6v768LFwhBoxa) | 2:17 | 2023-08-04 | 2023-08-25 |
 | [Hey Siri](https://open.spotify.com/track/5ohqJK8ieHOGIUsbw2oZqQ) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Hey Siri](https://open.spotify.com/album/26PSRzfCh69uiTBWg2eIZO) | 2:27 | 2023-03-17 | 2023-05-09 |
+| [Ice](https://open.spotify.com/track/1jUKmgWQflhSh0zNGkkioo) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Ice](https://open.spotify.com/album/2Eji6BbhvSy9gcjjfaHEVR) | 4:15 | 2023-10-13 |  |
 | [intoxicao](https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:48 | 2023-03-17 |  |
 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 | 2023-03-17 |  |
 | [Kitty](https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Kitty](https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi) | 2:09 | 2023-03-17 |  |
@@ -80,7 +81,7 @@
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2023-03-17 |  |
 | [MONA XINA](https://open.spotify.com/track/75XPqkFdaR5zFCJNbnj7DA) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [MONA XINA](https://open.spotify.com/album/5RHQ2fzewCE9TeJNG0pQMx) | 2:32 | 2023-03-17 | 2023-04-09 |
 | [Mujerón](https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Mujerón](https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX) | 2:50 | 2023-03-17 |  |
-| [n la disco](https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:02 | 2023-03-17 |  |
+| [n la disco](https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:02 | 2023-03-17 | 2023-10-14 |
 | [narcisa](https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [besitos, cuídate](https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu) | 2:53 | 2023-03-17 |  |
 | [Nena](https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [EKKI](https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5) | [Nena](https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva) | 3:21 | 2023-04-14 | 2023-07-05 |
 | [Nena Trampa](https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 2:27 | 2023-03-17 |  |

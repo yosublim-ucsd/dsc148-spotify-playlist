@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,943 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,942 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 37 | [Greater Things](https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/4ji5IXQ0QqzxO4uCwB8kke) | 4:40 |
 | 38 | [How Great Is Your Love \- Live](https://open.spotify.com/track/4707B6flOJWZSBXqqVsvPI) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 6:06 |
 | 39 | [The Wonderful Cross](https://open.spotify.com/track/784qUrovUUH4jYQ811D6hF) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 7:07 |
-| 40 | [O, the Blood \- Live](https://open.spotify.com/track/3ERd26mAJIOgdCGzKe1Q7U) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [God Be Praised \(Live\)](https://open.spotify.com/album/4ZU3Ago2HLOzRPTmg8TX2C) | 5:28 |
-| 41 | [Mighty Cross](https://open.spotify.com/track/2qFxitJohZtPd3QIPumFH0) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:16 |
+| 40 | [Mighty Cross](https://open.spotify.com/track/2qFxitJohZtPd3QIPumFH0) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:16 |
+| 41 | [O, the Blood \- Live](https://open.spotify.com/track/3ERd26mAJIOgdCGzKe1Q7U) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [God Be Praised \(Live\)](https://open.spotify.com/album/4ZU3Ago2HLOzRPTmg8TX2C) | 5:28 |
 | 42 | [Death Was Arrested](https://open.spotify.com/track/29ZlluQsIFaYL79bBYey28) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/4bJORPO5CXGYDQ4VTKDMq9) | 5:14 |
 | 43 | [He Lives](https://open.spotify.com/track/4nt2QalH8b0qqzDFiVMFLD) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62), [Adam Agee](https://open.spotify.com/artist/52GnWZuN0H3khY23bcyVcl) | [He Lives](https://open.spotify.com/album/2BYeHrl5Uk56Js2O6wc1Oi) | 4:46 |
 | 44 | [Death Where is Your Sting](https://open.spotify.com/track/0U1FxC0ANweT6KSqLorM6e) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 74 | [Glorious](https://open.spotify.com/track/1jOzjWWNdIEKfX8g48FDEu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning](https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi) | 4:01 |
 | 75 | [Three](https://open.spotify.com/track/7wAR6VZvelnHbNKsrpTAs0) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN), [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [Three](https://open.spotify.com/album/4CieJO00mA5U3Qy8WhPYjU) | 3:33 |
 
-Snapshot ID: `MCxkZmMyN2RiZjAwZDU1MjNlNWIxN2ZlYmI4ZTdkMjA2NDM0ZjljMjdj`
+Snapshot ID: `MCw2MDQxNTgwY2M2M2VmZDg1MTRjZThjMWQ1OGNkMjc0NWE3M2IxMGUw`

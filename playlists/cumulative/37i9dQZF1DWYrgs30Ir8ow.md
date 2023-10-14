@@ -4,7 +4,7 @@
 
 > Altijd fris in Fresh Hits\. Cover: Tems
 
-327 songs - 15 hr 43 min
+328 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-01 | 2023-06-30 |
 | [Pornstar Martini](https://open.spotify.com/track/7aJe1fs6N7hrWFCpukMAUC) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Pornstar Martini](https://open.spotify.com/album/5hgm1McG0p0ugIJapzdcGf) | 2:42 | 2023-05-25 | 2023-06-23 |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-08-17 | 2023-09-26 |
+| [Pretty Girl \(with Rema\)](https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Pretty Girl \(with Rema\)](https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH) | 2:17 | 2023-10-12 |  |
 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 | 2023-04-27 | 2023-05-19 |
 | [Probleem](https://open.spotify.com/track/1L8sanepRgDJlQTsPQ4mU1) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Probleem](https://open.spotify.com/album/4GZrlw0RFM9gHQP5EYOCnX) | 2:15 | 2023-02-23 | 2023-03-08 |
 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2023-05-13 | 2023-06-23 |

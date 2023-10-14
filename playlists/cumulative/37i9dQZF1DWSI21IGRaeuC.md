@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-227 songs - 18 hr 41 min
+229 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Fuck The Regs](https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Fuck The Regs EP](https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy) | 3:24 | 2022-07-29 |  |
 | [Fuego](https://open.spotify.com/track/4r2xLZbF6dz6Sq3DkEQF7Z) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fuego](https://open.spotify.com/album/1DI8trL5leqaA8twkT4H0h) | 3:10 | 2023-07-14 |  |
 | [Fuego](https://open.spotify.com/track/7HVwI8txOUrRdIGV5Z9lhP) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fuego](https://open.spotify.com/album/4iHXJluidkU10vc0FmRqdc) | 3:10 | 2023-06-09 | 2023-07-20 |
-| [FUTURA](https://open.spotify.com/track/6R5Rb4u8PmIe1D7JtSCC96) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [FUTURA](https://open.spotify.com/album/5GXkaEk1CFgQbzvrvt3XUd) | 7:29 | 2023-08-25 |  |
+| [FUTURA](https://open.spotify.com/track/6R5Rb4u8PmIe1D7JtSCC96) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [FUTURA](https://open.spotify.com/album/5GXkaEk1CFgQbzvrvt3XUd) | 7:29 | 2023-08-25 | 2023-10-14 |
 | [Galactica](https://open.spotify.com/track/6mMSSMNcl1WXtSP5A5tG0u) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Galactica](https://open.spotify.com/album/4qQywGdWd8QiCiND1bwTk3) | 5:10 | 2023-07-21 |  |
 | [Gehörschadengenerator](https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 01](https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk) | 8:38 | 2022-07-22 |  |
 | [Get On The Floor](https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Get On The Floor EP](https://open.spotify.com/album/78DyUWTOfsZW2VHnuTvIB4) | 6:28 | 2023-07-21 |  |
@@ -120,6 +120,7 @@
 | [Miss B](https://open.spotify.com/track/25Gn1kR7JZRYYDY9VNFPxL) | [Lauren Lo Sung](https://open.spotify.com/artist/2skgOXx0JaoCoR7gqJYH05) | [Miss B](https://open.spotify.com/album/0v8hyn2w4hBJ3nAy7zDQ5w) | 6:44 | 2022-06-03 | 2022-07-19 |
 | [Mistakes](https://open.spotify.com/track/63IGK3U44KfteaWjAdMm8Y) | [Santé](https://open.spotify.com/artist/2MMQGv11auKaxIgY947hjE) | [Mistakes EP](https://open.spotify.com/album/2J8IaTOHYwiXB1ItJwSLYG) | 2:39 | 2022-06-24 | 2022-07-28 |
 | [Moody Fuse](https://open.spotify.com/track/6MDaMEgEVbKk5POEdY3TN5) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd) | [Moody Fuse](https://open.spotify.com/album/7KCjICJnDLfwOvGOLZZRlh) | 6:51 | 2022-07-15 | 2022-10-30 |
+| [Moon](https://open.spotify.com/track/181XnwgJTJpeKkpS2zQOAF) | [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Moon](https://open.spotify.com/album/1Qy0K3GpyxtAyG2u4s53VH) | 2:58 | 2023-10-13 |  |
 | [Music4TheMasses \- Andrea Oliva Remix](https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Music4TheMasses \(Andrea Oliva Remix\)](https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9) | 3:07 | 2022-07-01 |  |
 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 | 2022-06-03 |  |
 | [Nana](https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Nana](https://open.spotify.com/album/75QMJvIqtyhVSYD3EdnBmt) | 2:47 | 2022-09-09 | 2023-09-02 |
@@ -186,6 +187,7 @@
 | [Superlicious](https://open.spotify.com/track/31D6WOQYjLdcKMXoNGWKSV) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Superlicious](https://open.spotify.com/album/1blY0k0w4peV2SB8sVjB6y) | 3:01 | 2023-09-22 |  |
 | [Superlicious](https://open.spotify.com/track/6YtsfLBQpR23z1GN3IC6Tm) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Superlicious](https://open.spotify.com/album/6JH3t6xNDVN7DY5t15KOAs) | 3:01 | 2023-03-17 | 2023-08-26 |
 | [Supermodel Thick](https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv) | [Jho Roscioli](https://open.spotify.com/artist/1YyeTuJ8IrPSpPiZMq0rhH) | [Supermodel Thick](https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo) | 5:26 | 2023-07-28 |  |
+| [Take](https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx) | [Lucas Bahr](https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v) | [Take](https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5) | 2:28 | 2023-10-13 |  |
 | [Take Me Back](https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Take Me Back](https://open.spotify.com/album/50cYbqeQKDmSXTBxpq6ofq) | 3:17 | 2022-06-17 | 2022-11-28 |
 | [Take Me Back](https://open.spotify.com/track/6rMDUHBXp1yYr3qftxfXG5) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Take Me Back](https://open.spotify.com/album/4ZAMiJSXpoZeXZkRGxrJt4) | 3:17 | 2023-05-12 | 2023-05-27 |
 | [TAKE ME HIGH](https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TAKE ME HIGH](https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT) | 3:40 | 2023-03-17 |  |
@@ -217,7 +219,7 @@
 | [TRiPPPY](https://open.spotify.com/track/7prJ30LIy445yr1uzsy9Lr) | [Cour T.](https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o) | [TRiPPPY](https://open.spotify.com/album/5iRqBscsuyaj50XKN6xAvQ) | 5:30 | 2023-08-18 |  |
 | [Troll](https://open.spotify.com/track/2QLlGPzBYeixEyqJKqzqj9) | [Dimmish](https://open.spotify.com/artist/3BPvVhOECwv7HSHVZaq3BG) | [Lunar EP](https://open.spotify.com/album/3u0oUHmJjfBn9pmbsulv3L) | 7:42 | 2022-06-03 | 2022-07-27 |
 | [Tunnel](https://open.spotify.com/track/0zi1coACnVRJskyFHyLQje) | [DJOKO](https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv) | [Ride On EP & Mancini Remix](https://open.spotify.com/album/4wZKnCELfrXj676lyK8GAl) | 5:53 | 2022-06-03 | 2022-07-27 |
-| [Unique](https://open.spotify.com/track/7chDllCV1g3mIf27gjOJnl) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Unique EP](https://open.spotify.com/album/1p5cdny6T3dcuF0vFlkpjF) | 4:03 | 2023-09-22 |  |
+| [Unique](https://open.spotify.com/track/7chDllCV1g3mIf27gjOJnl) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Unique EP](https://open.spotify.com/album/1p5cdny6T3dcuF0vFlkpjF) | 4:03 | 2023-09-22 | 2023-10-14 |
 | [Untitled A](https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [DJ Cosworth](https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm) | [Untitled](https://open.spotify.com/album/1KemAxEMdpdvlJQNLXIRIy) | 5:48 | 2022-10-12 |  |
 | [Walk The Line \- Radio Edit](https://open.spotify.com/track/4xt43vcfXajgYbcDdOjOgI) | [Jesse Jonez](https://open.spotify.com/artist/4uRQ0KBoYFYkziR9SIZW3i) | [Walk The Line \(Radio Edit\)](https://open.spotify.com/album/16VndWG1tn0N7Qpp7sz51Z) | 3:21 | 2023-03-24 | 2023-04-29 |
 | [Warning](https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Warning](https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp) | 5:36 | 2022-11-11 |  |

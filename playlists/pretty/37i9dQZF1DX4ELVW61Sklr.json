@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.",
-  "num_followers": 167674,
+  "num_followers": 167587,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjZlOTgyYzM2OWQ5ZTQwZTdkYWVhMWI0MGQxZTQ1YTAxZjE1NjY3",
+  "snapshot_id": "MCw1YTViNjM3YThlODM1YmI3NDdhOThjNDE4NzIzMTQ5YzQwYTA5NDlk",
   "tracks": [
     {
       "added_at": "2022-11-25 20:23:30",
@@ -517,22 +517,6 @@
       "url": "https://open.spotify.com/track/6fjsIxSPXnOjQleb11AYNU"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Another Kind Of Christmas",
-        "url": "https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 220103,
-      "name": "I Want To Come Home For Christmas",
-      "url": "https://open.spotify.com/track/4QnmL9qudlFqNHJWGbFdXP"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "The Classic Christmas Album",
@@ -547,6 +531,22 @@
       "duration_ms": 305226,
       "name": "Every Year, Every Christmas",
       "url": "https://open.spotify.com/track/1NPGiRG86PFwXzwrYZRa2a"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Another Kind Of Christmas",
+        "url": "https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 220103,
+      "name": "I Want To Come Home For Christmas",
+      "url": "https://open.spotify.com/track/4QnmL9qudlFqNHJWGbFdXP"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Another Kind Of Christmas",
-        "url": "https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 202007,
-      "name": "Just Ain't Christmas",
-      "url": "https://open.spotify.com/track/44P22s5S0ss1ln73uLQBa2"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "One Wish / The Holiday Album",
@@ -631,6 +615,22 @@
       "duration_ms": 269866,
       "name": "Deck the Halls / Silent Night",
       "url": "https://open.spotify.com/track/73NEyO0Hx5WumrR7TYQWxu"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Another Kind Of Christmas",
+        "url": "https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 202007,
+      "name": "Just Ain't Christmas",
+      "url": "https://open.spotify.com/track/44P22s5S0ss1ln73uLQBa2"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -655,18 +655,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Someday At Christmas",
-        "url": "https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq"
+        "name": "First Christmas",
+        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
       },
       "artists": [
         {
-          "name": "Jac Ross",
-          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
         }
       ],
-      "duration_ms": 203434,
-      "name": "Someday At Christmas",
-      "url": "https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ"
+      "duration_ms": 263866,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "First Christmas",
-        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
-      },
-      "artists": [
-        {
-          "name": "Bebe & Cece Winans",
-          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Christmas With Babyface",
         "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 193400,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Someday At Christmas",
+        "url": "https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq"
+      },
+      "artists": [
+        {
+          "name": "Jac Ross",
+          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
+        }
+      ],
+      "duration_ms": 203434,
+      "name": "Someday At Christmas",
+      "url": "https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1001,6 +1001,26 @@
       "url": "https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2"
     },
     {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "What Christmas Means",
+        "url": "https://open.spotify.com/album/0Es1EWw1XWC51nCZdva50g"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        },
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 257399,
+      "name": "Be Mine For Christmas",
+      "url": "https://open.spotify.com/track/62wRKfwOB7pyoFgX4ohQBB"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "A Mary Mary Christmas",
@@ -1031,26 +1051,6 @@
       "duration_ms": 216933,
       "name": "Favorite Time of Year",
       "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "What Christmas Means",
-        "url": "https://open.spotify.com/album/0Es1EWw1XWC51nCZdva50g"
-      },
-      "artists": [
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        },
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 257399,
-      "name": "Be Mine For Christmas",
-      "url": "https://open.spotify.com/track/62wRKfwOB7pyoFgX4ohQBB"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "Merry Like This",
-        "url": "https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c"
+        "name": "Christmas With Babyface",
+        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
       },
       "artists": [
         {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 180588,
-      "name": "Merry Like This",
-      "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
+      "duration_ms": 276960,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1123,38 +1123,6 @@
       "duration_ms": 249760,
       "name": "Give Love On Christmas Day",
       "url": "https://open.spotify.com/track/485CbXZXurl2Saj3zqrbpE"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "His Gift",
-        "url": "https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "Glory To The King - His Gift Version",
-      "url": "https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Christmas With Babyface",
-        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 276960,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1179,18 +1147,34 @@
     {
       "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "Def The Halls",
-        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
+        "name": "Merry Like This",
+        "url": "https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c"
       },
       "artists": [
         {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
         }
       ],
-      "duration_ms": 176461,
-      "name": "Silver Bells",
-      "url": "https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W"
+      "duration_ms": 180588,
+      "name": "Merry Like This",
+      "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "His Gift",
+        "url": "https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "Glory To The King - His Gift Version",
+      "url": "https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1211,6 +1195,22 @@
       "duration_ms": 214373,
       "name": "The Christmas Song (feat. Chaka Khan)",
       "url": "https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Def The Halls",
+        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 176461,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W"
     },
     {
       "added_at": "2022-11-25 20:23:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,161 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,106 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 47 | [D'improvviso](https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [Zero Gravity](https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P) | 3:29 |
 | 48 | [Sere nere](https://open.spotify.com/track/4Ovy5UkvkweOluGd9hoKsR) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [111 Centoundici](https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7) | 4:24 |
 | 49 | [Gli Ostacoli Del Cuore](https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Soundtrack '96 \- 06 \(Deluxe Version\)](https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW) | 4:26 |
-| 50 | [Giudizi universali](https://open.spotify.com/track/5RvCpd2obakLvY1HFJOOYJ) | [Samuele Bersani](https://open.spotify.com/artist/5Nydhpz1rcPbgM0fYvLxhz) | [Samuele Bersani](https://open.spotify.com/album/1lilnguoSNmu9aIoz9VKgR) | 3:55 |
+| 50 | [L'universo tranne noi](https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5) | [Max Pezzali](https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9) | [MAX 20](https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4) | 4:13 |
 
-Snapshot ID: `MCw2ZjkxNmNlMDllYTRiZDRmMTc0ZTQ5YjEwZWM4Y2Q3NjU1NDU3NTBm`
+Snapshot ID: `MCxlODA4Mzc1ZWViMGVmMDYwZGU2ODdjNGVlNjBmZjY0NmQ2NTkwY2Ey`

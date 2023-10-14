@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 70s.",
-  "num_followers": 1733765,
+  "num_followers": 1733827,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTEwMDI4ZmE4MGFjOGYwODhjZDE4NWQwZDQwYzU2NTM1MzVkMGYz",
+  "snapshot_id": "MCw2ZDk0ZTJhYjc3ZTUyZGU0MDMzZTNjY2M5NmU3NDA1N2RjZTAzZjgz",
   "tracks": [
     {
       "added_at": "2023-01-18 21:01:33",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "Don't Stop - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Talking Heads '77 (Deluxe Version)",
         "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 300400,
       "name": "Baba O'Riley",
       "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Jazz (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
         "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 134466,
       "name": "Blitzkrieg Bop - 2016 Remaster",
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Jazz (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Diamond Dogs (2016 Remaster)",
-        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 274746,
-      "name": "Rebel Rebel - 2016 Remaster",
-      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "The Captain and Me",
         "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 207266,
       "name": "Long Train Runnin'",
       "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Diamond Dogs (2016 Remaster)",
+        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 274746,
+      "name": "Rebel Rebel - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "The Very Best Of Ram Jam",
-        "url": "https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr"
-      },
-      "artists": [
-        {
-          "name": "Ram Jam",
-          "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Black Betty",
-      "url": "https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Red Rose Speedway (Archive Collection)",
         "url": "https://open.spotify.com/album/1RzrSgWinUzgsnw3oQDXOy"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 192773,
       "name": "Live And Let Die - 2018 Remaster",
       "url": "https://open.spotify.com/track/0VV8wkOM4w78A2OHZOTzNP"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "The Very Best Of Ram Jam",
+        "url": "https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr"
+      },
+      "artists": [
+        {
+          "name": "Ram Jam",
+          "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
+        }
+      ],
+      "duration_ms": 237893,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM"
-      },
-      "artists": [
-        {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 536226,
       "name": "Life's Been Good",
       "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM"
+      },
+      "artists": [
+        {
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 192145,
+      "name": "Another Brick in the Wall, Pt. 1",
+      "url": "https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
         "name": "Brothers And Sisters (Super Deluxe)",
         "url": "https://open.spotify.com/album/3ScnBmNrSaz9YHNNwceSXw"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 336093,
       "name": "Piano Man",
       "url": "https://open.spotify.com/track/3FCto7hnn1shUyZL42YgfO"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 192145,
-      "name": "Another Brick in the Wall, Pt. 1",
-      "url": "https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "The Essential Kansas",
-        "url": "https://open.spotify.com/album/5LNcEWLS2ysZU9Eid63qRJ"
-      },
-      "artists": [
-        {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
-        }
-      ],
-      "duration_ms": 322093,
-      "name": "Carry on Wayward Son",
-      "url": "https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "The Next Voice You Hear - The Best Of Jackson Browne",
         "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 199706,
       "name": "Doctor My Eyes - 1997 Remaster",
       "url": "https://open.spotify.com/track/5OuaAMBmGjjJMK7yXpaFAK"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "The Essential Kansas",
+        "url": "https://open.spotify.com/album/5LNcEWLS2ysZU9Eid63qRJ"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "duration_ms": 322093,
+      "name": "Carry on Wayward Son",
+      "url": "https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N"
     }
   ],
   "unique_name": "70s Rock Anthems",

@@ -4623,6 +4623,24 @@
     },
     {
       "album": {
+        "name": "Innocent Face",
+        "url": "https://open.spotify.com/album/4GpBw9UUFaHkv12myq2POe"
+      },
+      "artists": [
+        {
+          "name": "Celia Cloten",
+          "url": "https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122646,
+      "name": "Innocent Face",
+      "url": "https://open.spotify.com/track/1LjYFVvhXmuP3RgErQBYkH"
+    },
+    {
+      "album": {
         "name": "Easy Guitar",
         "url": "https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ"
       },
@@ -4634,7 +4652,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 122646,
       "name": "Innocent Face",
       "url": "https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb"

@@ -169,6 +169,24 @@
     },
     {
       "album": {
+        "name": "Proof Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171700,
+      "name": "Black Car",
+      "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
+    },
+    {
+      "album": {
         "name": "BLOODY TEXTS",
         "url": "https://open.spotify.com/album/41FMllrWhJfvOG70np84SX"
       },
@@ -1102,7 +1120,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 161379,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy"
@@ -1719,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "TELL ME WHAT THE COST IS",
+        "url": "https://open.spotify.com/album/0hVpAd1caXNVeDfVPOiPrf"
+      },
+      "artists": [
+        {
+          "name": "Yb.",
+          "url": "https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181773,
+      "name": "TELL ME WHAT THE COST IS",
+      "url": "https://open.spotify.com/track/6i9XoASSA4yR8GuRR3FPzB"
+    },
+    {
+      "album": {
         "name": "echo: dawn",
         "url": "https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF"
       },
@@ -1978,7 +2014,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 184679,
       "name": "Too Late To Party",
       "url": "https://open.spotify.com/track/3yrdfryHbFnwQuGrNAZQIr"

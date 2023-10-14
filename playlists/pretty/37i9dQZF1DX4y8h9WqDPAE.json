@@ -1,13 +1,37 @@
 {
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover:   Janelle Mon\u00e1e",
-  "num_followers": 1786895,
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Drake",
+  "num_followers": 1785075,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDk2MmJhZDVkYzljNjMwZjllOTA5ZDBkNGY1ZGYyNjM3N2MzMzBm",
+  "snapshot_id": "MCwyNDI4ZjUxYTE1YWE1OTgzMjlmMDgxYzEwOGNlYWUzMjMwNTkyYmMx",
   "tracks": [
+    {
+      "added_at": "2023-10-06 15:59:52",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 319191,
+      "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+      "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
+    },
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
@@ -141,6 +165,22 @@
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "WY@",
+        "url": "https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 208038,
+      "name": "WY@",
+      "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
+    },
+    {
       "added_at": "2023-10-06 15:59:52",
       "album": {
         "name": "For All The Dogs",
@@ -161,20 +201,24 @@
       "url": "https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "WY@",
-        "url": "https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd"
+        "name": "Crash & Burn (feat. Blxst)",
+        "url": "https://open.spotify.com/album/3jAriMle4Wj0L0CKXHQRF7"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
         }
       ],
-      "duration_ms": 208038,
-      "name": "WY@",
-      "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
+      "duration_ms": 147096,
+      "name": "Crash & Burn (feat. Blxst)",
+      "url": "https://open.spotify.com/track/1swquvjyuVbDP4QYMFhZ8d"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -301,6 +345,30 @@
       "url": "https://open.spotify.com/track/0GEX3Viy33NfvCax4GUREd"
     },
     {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "PAMELA",
+        "url": "https://open.spotify.com/album/3sgshiWcl1YVV4ywA1GEp2"
+      },
+      "artists": [
+        {
+          "name": "Gwamz",
+          "url": "https://open.spotify.com/artist/5asNjXXCZBu2NfJDarWlRR"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
+        }
+      ],
+      "duration_ms": 213976,
+      "name": "PAMELA",
+      "url": "https://open.spotify.com/track/4G3axOEaeRZ95EIbubQbQu"
+    },
+    {
       "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Motion (feat. Chris Brown)",
@@ -369,6 +437,22 @@
       "url": "https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1"
     },
     {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "jersey luv (turn me on)",
+        "url": "https://open.spotify.com/album/18VQoqu4E1cej9M1CsrxUq"
+      },
+      "artists": [
+        {
+          "name": "GROOVY",
+          "url": "https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc"
+        }
+      ],
+      "duration_ms": 183224,
+      "name": "jersey luv (turn me on)",
+      "url": "https://open.spotify.com/track/0824LHgyDYQeWrLsQ7BWOn"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
@@ -391,30 +475,6 @@
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
-    },
-    {
-      "added_at": "2023-10-06 15:59:52",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 319191,
-      "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
-      "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -499,6 +559,46 @@
       "duration_ms": 188504,
       "name": "Summer Too Hot",
       "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "7 SEAS",
+        "url": "https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Messi",
+      "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Rora",
+        "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        }
+      ],
+      "duration_ms": 143762,
+      "name": "Rora",
+      "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -645,6 +745,26 @@
       "url": "https://open.spotify.com/track/2588441h1sHx0FPPXBFoLd"
     },
     {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Summers Around The Corner",
+        "url": "https://open.spotify.com/album/3E4ICiqiWEXTncH5RxR1tB"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 228390,
+      "name": "Summers Around The Corner",
+      "url": "https://open.spotify.com/track/6AY1IWGyVFkdkq8AA5F2zT"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "Layover",
@@ -739,26 +859,6 @@
       "duration_ms": 144786,
       "name": "30 Floors Up",
       "url": "https://open.spotify.com/track/5KpBWd0OVnBaJ4Dc8TtzdZ"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Electric Dusk",
-        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 183589,
-      "name": "Love Jones (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/0vbFrb1U7sRV2UhEPCmE3t"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1113,30 +1213,6 @@
       "url": "https://open.spotify.com/track/3fpISrtcsVBNJZ3K0JhRwG"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Dealer (feat. Blaqbonez & TAR1Q)",
-        "url": "https://open.spotify.com/album/1NOa7qFj3brcv9WNvUw9tM"
-      },
-      "artists": [
-        {
-          "name": "10Ten",
-          "url": "https://open.spotify.com/artist/7urO0i2T8Ta9E9xAuOD1d6"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "TAR1Q",
-          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
-        }
-      ],
-      "duration_ms": 134398,
-      "name": "Dealer (feat. Blaqbonez & TAR1Q)",
-      "url": "https://open.spotify.com/track/7dHai2diN3uYd5SHZ8LsAO"
-    },
-    {
       "added_at": "2023-06-16 05:14:18",
       "album": {
         "name": "Grudges",
@@ -1203,22 +1279,6 @@
       "duration_ms": 175642,
       "name": "Whatchu Want",
       "url": "https://open.spotify.com/track/5YU1xqvXsXDnhbhu6bRprY"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "GRL GVNG",
-        "url": "https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "GRL GVNG",
-      "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -2509,22 +2569,6 @@
       "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
     },
     {
-      "added_at": "2023-05-19 06:33:06",
-      "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3"
-      },
-      "artists": [
-        {
-          "name": "Chikoruss",
-          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
-        }
-      ],
-      "duration_ms": 203637,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU"
-    },
-    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "5th Dimension",
@@ -2547,26 +2591,6 @@
       "duration_ms": 200000,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r"
-    },
-    {
-      "added_at": "2023-05-19 06:33:06",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
-      },
-      "artists": [
-        {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        },
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
     },
     {
       "added_at": "2023-05-26 15:49:43",
@@ -2847,30 +2871,6 @@
       "duration_ms": 139586,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf"
-    },
-    {
-      "added_at": "2022-09-30 04:06:29",
-      "album": {
-        "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
-        "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        },
-        {
-          "name": "Loud Urban Choir",
-          "url": "https://open.spotify.com/artist/517Fqr6JP4GjULEtTW8TOC"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
-      "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
     }
   ],
   "unique_name": "Channel-X",

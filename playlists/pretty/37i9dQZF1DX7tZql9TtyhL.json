@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica de ayer, el party de hoy.",
-  "num_followers": 432377,
+  "num_followers": 432333,
   "original_name": "TBT Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzBjODg0NzY1YjIwMWJlZmFiNDgxZjQ0ODRiNTlmMGI2NjVjMTVm",
+  "snapshot_id": "MCwxNzM4YWFmN2RlOGVhZTkzOGJmNjdhY2FjNGFmZGYzNWU5Y2FlMmQx",
   "tracks": [
     {
       "added_at": "2022-08-05 16:22:41",
@@ -515,8 +515,8 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
+        "name": "Pretty Boy, Dirty Boy",
+        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Felices los 4",
-      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
+      "duration_ms": 206693,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -647,8 +647,8 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Pretty Boy, Dirty Boy",
-        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 206693,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O"
+      "duration_ms": 230000,
+      "name": "Felices los 4",
+      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -691,6 +691,26 @@
       "duration_ms": 207626,
       "name": "Candy",
       "url": "https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "Me Llamas (feat. Maluma) [Remix]",
+        "url": "https://open.spotify.com/album/2mqj8lMnZRYR5hapcNVpRq"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 210322,
+      "name": "Me Llamas (feat. Maluma) - Remix",
+      "url": "https://open.spotify.com/track/5hEM0JchdVzQ5PwvSfITeX"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -731,26 +751,6 @@
       "duration_ms": 193456,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
-        "name": "Me Llamas (feat. Maluma) [Remix]",
-        "url": "https://open.spotify.com/album/2mqj8lMnZRYR5hapcNVpRq"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 210322,
-      "name": "Me Llamas (feat. Maluma) - Remix",
-      "url": "https://open.spotify.com/track/5hEM0JchdVzQ5PwvSfITeX"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Mala Fama",
-      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
         "name": "Ya No Tiene Novio",
         "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 198933,
       "name": "Ya No Tiene Novio",
       "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Dura",
-        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Dura",
-      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
         "name": "Visionary",
         "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 197840,
       "name": "Chillax (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "Dura",
+        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Dura",
+      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
+        "name": "Chambea",
+        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 192001,
+      "name": "Chambea",
+      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 201526,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
-        "name": "Chambea",
-        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 192001,
-      "name": "Chambea",
-      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1351,6 +1351,42 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
+        "name": "El Pr\u00edncipe [Ghost Edition]",
+        "url": "https://open.spotify.com/album/6A6eSLDcS2r7qT9ZFYSJlL"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 238564,
+      "name": "Prrrum",
+      "url": "https://open.spotify.com/track/774Vy9sPhpePjj0B7WHaG2"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "Mi Gente",
+        "url": "https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
         "name": "Bum Bum Tam Tam",
         "url": "https://open.spotify.com/album/1E6aIrYOcysBusmGfm2Pcm"
       },
@@ -1379,42 +1415,6 @@
       "duration_ms": 213988,
       "name": "Bum Bum Tam Tam",
       "url": "https://open.spotify.com/track/6k2900NjJeVqZM55G3Danu"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
-        "name": "Mi Gente",
-        "url": "https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
-        "name": "El Pr\u00edncipe [Ghost Edition]",
-        "url": "https://open.spotify.com/album/6A6eSLDcS2r7qT9ZFYSJlL"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 238564,
-      "name": "Prrrum",
-      "url": "https://open.spotify.com/track/774Vy9sPhpePjj0B7WHaG2"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1575,6 +1575,30 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
+        "name": "TrapXficante",
+        "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 230520,
+      "name": "Krippy Kush",
+      "url": "https://open.spotify.com/track/7FfpP3YZ6fOWMdxkIAtud9"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
         "name": "Hoje Eu Vou Parar Na Gaiola",
         "url": "https://open.spotify.com/album/1OZEMraAZsiMYQGNZjOw8F"
       },
@@ -1619,30 +1643,6 @@
       "duration_ms": 193440,
       "name": "Bola Rebola",
       "url": "https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
-        "name": "TrapXficante",
-        "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 230520,
-      "name": "Krippy Kush",
-      "url": "https://open.spotify.com/track/7FfpP3YZ6fOWMdxkIAtud9"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "De Fiesta",
-        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 131004,
-      "name": "Locuras contigo",
-      "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
         "name": "Visionary",
         "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 211813,
       "name": "Obsesionado",
       "url": "https://open.spotify.com/track/5Jt4zdXTd9y1zxihiNYQI1"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "De Fiesta",
+        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 131004,
+      "name": "Locuras contigo",
+      "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
+        "name": "Na Balada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uQbJXZlyt1wJkRsfwETLc"
+      },
+      "artists": [
+        {
+          "name": "Michel Tel\u00f3",
+          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
+        }
+      ],
+      "duration_ms": 170493,
+      "name": "Ai Se Eu Te Pego - Ao Vivo",
+      "url": "https://open.spotify.com/track/29vem0DsWK4224LQyxcmA5"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
         "name": "Vai Embrazando",
         "url": "https://open.spotify.com/album/2VwdSlB0N5SyiGREdLyo2Q"
       },
@@ -1871,18 +1887,22 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Na Balada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uQbJXZlyt1wJkRsfwETLc"
+        "name": "Vamos pra Gaiola",
+        "url": "https://open.spotify.com/album/0hJtsPSnS9gsqawibZGR5E"
       },
       "artists": [
         {
-          "name": "Michel Tel\u00f3",
-          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "FP do Trem Bala",
+          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
         }
       ],
-      "duration_ms": 170493,
-      "name": "Ai Se Eu Te Pego - Ao Vivo",
-      "url": "https://open.spotify.com/track/29vem0DsWK4224LQyxcmA5"
+      "duration_ms": 161600,
+      "name": "Vamos pra Gaiola",
+      "url": "https://open.spotify.com/track/7FiIQXpIeLo3ITfGGpb8PB"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1907,26 +1927,6 @@
       "duration_ms": 152783,
       "name": "Surtada - Remix Brega Funk",
       "url": "https://open.spotify.com/track/5F8ffc8KWKNawllr5WsW0r"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
-        "name": "Vamos pra Gaiola",
-        "url": "https://open.spotify.com/album/0hJtsPSnS9gsqawibZGR5E"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "FP do Trem Bala",
-          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
-        }
-      ],
-      "duration_ms": 161600,
-      "name": "Vamos pra Gaiola",
-      "url": "https://open.spotify.com/track/7FiIQXpIeLo3ITfGGpb8PB"
     },
     {
       "added_at": "2022-08-05 16:22:41",

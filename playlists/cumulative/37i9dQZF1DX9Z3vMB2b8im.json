@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240277,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
+    },
+    {
+      "album": {
         "name": "all in good Time,",
         "url": "https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh"
       },
@@ -843,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Fair Weather Lover",
+        "url": "https://open.spotify.com/album/3CbKO4e8b3iMwAUH1SJVZM"
+      },
+      "artists": [
+        {
+          "name": "Ella Hunt",
+          "url": "https://open.spotify.com/artist/2UfYkwgDo1abQS1U4pO2bT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244516,
+      "name": "Fair Weather Lover",
+      "url": "https://open.spotify.com/track/4KjvtegojYGdeVqCy8rk0Z"
+    },
+    {
+      "album": {
         "name": "Fake Moon",
         "url": "https://open.spotify.com/album/0kfLXfbPt4wGJ8BmBXcPjx"
       },
@@ -1360,7 +1396,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 180000,
       "name": "Helios",
       "url": "https://open.spotify.com/track/5ZhqfB6GDAi5g5bQmPacli"
@@ -1696,7 +1732,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 134506,
       "name": "If I Met Your Shadow",
       "url": "https://open.spotify.com/track/4O5utxzrwef2IxmUzp5JaN"
@@ -1740,7 +1776,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 356449,
       "name": "In Spite of the Weather - Bill Ryder-Jones Re-Imagining",
       "url": "https://open.spotify.com/track/1LyI8GoZSzCR9BcBAHcAAX"
@@ -2306,7 +2342,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 252820,
       "name": "New York Time",
       "url": "https://open.spotify.com/track/3UekVNBa1Loh1r7feLHKqa"
@@ -2974,7 +3010,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 228922,
       "name": "So My Darling - Acoustic",
       "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
@@ -3000,6 +3036,24 @@
       "duration_ms": 185000,
       "name": "Someone Like You 2",
       "url": "https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP"
+    },
+    {
+      "album": {
+        "name": "Sometimes (I Can Be An Island)",
+        "url": "https://open.spotify.com/album/1wK7OS6xYjNf7ctNBtOfMw"
+      },
+      "artists": [
+        {
+          "name": "James Holt",
+          "url": "https://open.spotify.com/artist/5RU4BAi19LHkaPFcE1USkb"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221225,
+      "name": "Sometimes (I Can Be An Island)",
+      "url": "https://open.spotify.com/track/2wZqjKaqUmiWcledmQKT31"
     },
     {
       "album": {
@@ -3126,7 +3180,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 208000,
       "name": "Tatewari",
       "url": "https://open.spotify.com/track/3havI9aJ0bYgBt9ZX7uxBe"
@@ -3295,6 +3349,24 @@
     },
     {
       "album": {
+        "name": "The Old Parade",
+        "url": "https://open.spotify.com/album/1hgxMPc8eLOaXCYsQ9vRvq"
+      },
+      "artists": [
+        {
+          "name": "Tomo",
+          "url": "https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200833,
+      "name": "The Old Parade",
+      "url": "https://open.spotify.com/track/43oqobywDZTvS53P9VNFl3"
+    },
+    {
+      "album": {
         "name": "The World Seen Through Your Eyes",
         "url": "https://open.spotify.com/album/2dpFmlFSx2XbdNBDRPYciW"
       },
@@ -3403,6 +3475,24 @@
     },
     {
       "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189053,
+      "name": "Tourniquet",
+      "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
+    },
+    {
+      "album": {
         "name": "Twin",
         "url": "https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq"
       },
@@ -3490,6 +3580,24 @@
       "duration_ms": 132000,
       "name": "ur so pretty",
       "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
+    },
+    {
+      "album": {
+        "name": "Wake Up, Breathe In",
+        "url": "https://open.spotify.com/album/2mDY65lxLj6WNRb5OQHCBH"
+      },
+      "artists": [
+        {
+          "name": "Laura Lucas",
+          "url": "https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194095,
+      "name": "Wake Up, Breathe In",
+      "url": "https://open.spotify.com/track/6tVyaJrOGWOeshwaKPM7zM"
     },
     {
       "album": {

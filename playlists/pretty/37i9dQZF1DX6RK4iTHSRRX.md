@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,771 likes - 76 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,756 likes - 76 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 55 | [Good Christian Men, Rejoice](https://open.spotify.com/track/2LRzuinretZqxhD3wkvOp9) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [O Little Town of Bethlehem: Christmas Miniatures for Classical Guitar](https://open.spotify.com/album/6qiHGxAMfUzMkqaA9OAvtK) | 1:33 |
 | 56 | [I Wonder as I Wander](https://open.spotify.com/track/4TYBwJ5fGKnPqin8qozC8A) | [Chris Richter](https://open.spotify.com/artist/2Salm1AJWZ4jsIX2SLLZDi) | [Acoustic Christmas Songs: 40 Holiday Favorites Arranged for Instrumental Classical Guitar](https://open.spotify.com/album/32ba7omgonaVctekBdymyH) | 1:04 |
 | 57 | [Infant Holy, Infant Lowly](https://open.spotify.com/track/4e37raAOz628uYyP41jW77) | [Unplugged](https://open.spotify.com/artist/2zWN3tPCwG3g59tOvIZPXY) | [Acoustic Christmas](https://open.spotify.com/album/7z4ULIFjxpGEBwePyr9Aki) | 2:42 |
-| 58 | [Do You Want to Build a Snowman](https://open.spotify.com/track/25RqCzdrL6O6OFahC1sFqk) | [Taylor Bernette](https://open.spotify.com/artist/7vHCdssDmnIs4w9Q3osvKV) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 1:46 |
+| 58 | [Do You Want To Build A Snowman](https://open.spotify.com/track/2EtcEa7S0RO3Kxp5L3CnWJ) | [Taylor Bernette](https://open.spotify.com/artist/7vHCdssDmnIs4w9Q3osvKV) | [Do You Want To Build A Snowman](https://open.spotify.com/album/2IpgZTkBoc4vHXZ48BZlC2) | 1:46 |
 | 59 | [Rudolph, the Red Nosed Reindeer](https://open.spotify.com/track/0keP3g5YayJKSCpvWBFq8L) | [Rainer Mafra](https://open.spotify.com/artist/3dQhfgaI14vW8Jc5mzmO5C) | [Silent Night \(Christmas Carols on Acoustic Guitar\)](https://open.spotify.com/album/5a8rDCGZi82Uo1mcAF9Oq7) | 2:22 |
 | 60 | [As With Gladness, Men of Old](https://open.spotify.com/track/4yNTeRykWyZ1hWMdOe4Bte) | [William Chatterton Dix](https://open.spotify.com/artist/2IwHgG8anIJ3bbgGAii8ip), [Conrad Kocher](https://open.spotify.com/artist/1asseq1Wwf4J4wrXW9rhmw), [Don Latarski](https://open.spotify.com/artist/18XXuKLx7w4kSDD1w2AFct) | [Guitars on Holiday](https://open.spotify.com/album/7Muq0oRBrXjCwc2CUlSket) | 3:23 |
 | 61 | [Fairytale of New York](https://open.spotify.com/track/08YmAqEDTXRBoxYfkxqMYE) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Fairytale of New York](https://open.spotify.com/album/58CgzG5yqqtNrdcbp3TmaA) | 3:07 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 75 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/05nDWMKbb0Kr39EazJlCbw) | [Max Laugland](https://open.spotify.com/artist/7ASrnmDyLPEBiO97unM9AC) | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/album/6XTqe4kwzC01JL9xxEa74L) | 2:01 |
 | 76 | [Auld Lang Syne](https://open.spotify.com/track/4QXYi1FykH0IS7EzSMiZjP) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Auld Lang Syne](https://open.spotify.com/album/0117x9jVfJF94hR3QPTfkc) | 2:20 |
 
-Snapshot ID: `MCw2ZjFhZDBkMDJjNTNjNmQxMzY0MWJkNzI5ZDc0NjFjYWMzNTRkZmI1`
+Snapshot ID: `MCw3ZmFkNzFhMGU3MTljN2Y5NjdjNTYwNWYzNTc1ZDFlMDg5OTA1ZjMz`

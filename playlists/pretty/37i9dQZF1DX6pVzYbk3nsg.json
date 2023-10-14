@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 3092,
+  "num_followers": 3111,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTQ1NmE3NDVkNDEzYmMxNzYzZTg3ODA2NTg0MWRiNzljOWYyOWVl",
+  "snapshot_id": "MCwwMTcxOTE2MDNiNGJmYTAyNjE0YzMyNDE0YTRmMTAzYWRjZWZmODQx",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Los Pleneros del Quinto Olivo",
-        "url": "https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs"
-      },
-      "artists": [
-        {
-          "name": "Los Pleneros del Quinto Olivo",
-          "url": "https://open.spotify.com/artist/0z9lpQaueAr4klPeko7UJG"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Una Noche En Borinquen",
-      "url": "https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Tamb\u00f3",
         "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Los Pleneros del Quinto Olivo",
+        "url": "https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros del Quinto Olivo",
+          "url": "https://open.spotify.com/artist/0z9lpQaueAr4klPeko7UJG"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Una Noche En Borinquen",
+      "url": "https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Candela!",
         "url": "https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1"
       },
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "\u00a1Ya est\u00e1! \u00a1Se form\u00f3!",
-        "url": "https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR"
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
       "artists": [
         {
-          "name": "Yuba Ire",
-          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
         }
       ],
-      "duration_ms": 189080,
-      "name": "Inyere",
-      "url": "https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe"
+      "duration_ms": 176773,
+      "name": "Bombero Eh",
+      "url": "https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Bomba De Loiza",
-        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+        "name": "\u00a1Ya est\u00e1! \u00a1Se form\u00f3!",
+        "url": "https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR"
       },
       "artists": [
         {
-          "name": "Hermanos Ayala",
-          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+          "name": "Yuba Ire",
+          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
         }
       ],
-      "duration_ms": 176773,
-      "name": "Bombero Eh",
-      "url": "https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj"
+      "duration_ms": 189080,
+      "name": "Inyere",
+      "url": "https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -619,38 +619,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Org\u00e1nico y Medicinal",
-        "url": "https://open.spotify.com/album/76iolqxBkeTjzGlC7gw1lE"
-      },
-      "artists": [
-        {
-          "name": "Totin Agosto Arar\u00e1 y la Liga Rumbera",
-          "url": "https://open.spotify.com/artist/2dJK73cxBsmcCYh3t089J7"
-        }
-      ],
-      "duration_ms": 300674,
-      "name": "La Revoluci\u00f3n (A la Calle Plenero)",
-      "url": "https://open.spotify.com/track/2cgM9f7eupk28w9skPjEKA"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Bomba De Loiza",
-        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Ayala",
-          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
-        }
-      ],
-      "duration_ms": 157720,
-      "name": "Meli Ton Ton Be",
-      "url": "https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Tamb\u00f3",
         "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
@@ -667,6 +635,38 @@
       "duration_ms": 225760,
       "name": "Si te preguntaran",
       "url": "https://open.spotify.com/track/4NbNwSJakq5ArlNsQwdqZQ"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Tambuy\u00e9",
+        "url": "https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl"
+      },
+      "artists": [
+        {
+          "name": "Tambuy\u00e9",
+          "url": "https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8"
+        }
+      ],
+      "duration_ms": 365600,
+      "name": "La Llevo en Mis Venas / Bambul\u00e9 a Par\u00e9 / Dios M\u00edo Si Yo Pudiera / Consu\u00e9lala",
+      "url": "https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+        }
+      ],
+      "duration_ms": 157720,
+      "name": "Meli Ton Ton Be",
+      "url": "https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -703,50 +703,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Tambuy\u00e9",
-        "url": "https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl"
+        "name": "Org\u00e1nico y Medicinal",
+        "url": "https://open.spotify.com/album/76iolqxBkeTjzGlC7gw1lE"
       },
       "artists": [
         {
-          "name": "Tambuy\u00e9",
-          "url": "https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8"
+          "name": "Totin Agosto Arar\u00e1 y la Liga Rumbera",
+          "url": "https://open.spotify.com/artist/2dJK73cxBsmcCYh3t089J7"
         }
       ],
-      "duration_ms": 365600,
-      "name": "La Llevo en Mis Venas / Bambul\u00e9 a Par\u00e9 / Dios M\u00edo Si Yo Pudiera / Consu\u00e9lala",
-      "url": "https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "\u00edEst\u00e1 es mi rumba!",
-        "url": "https://open.spotify.com/album/0oMPQ5BDsAcBTGkdo3nVkU"
-      },
-      "artists": [
-        {
-          "name": "Yuba Ire",
-          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
-        }
-      ],
-      "duration_ms": 236785,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/4THak1xPF11ZaOjglcy44M"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Rompecabezas",
-        "url": "https://open.spotify.com/album/5WOxmuWOvEtqfdovqzngsp"
-      },
-      "artists": [
-        {
-          "name": "Plena Adentro",
-          "url": "https://open.spotify.com/artist/1Plz2KFX2pg7ctp6OWjQIg"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "Timba Timbo",
-      "url": "https://open.spotify.com/track/6zTWnfEH3I7LZaMZTqSUYA"
+      "duration_ms": 300674,
+      "name": "La Revoluci\u00f3n (A la Calle Plenero)",
+      "url": "https://open.spotify.com/track/2cgM9f7eupk28w9skPjEKA"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -771,6 +739,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "\u00edEst\u00e1 es mi rumba!",
+        "url": "https://open.spotify.com/album/0oMPQ5BDsAcBTGkdo3nVkU"
+      },
+      "artists": [
+        {
+          "name": "Yuba Ire",
+          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
+        }
+      ],
+      "duration_ms": 236785,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/4THak1xPF11ZaOjglcy44M"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Bomba De Loiza",
         "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 243586,
       "name": "La Negra Pancha",
       "url": "https://open.spotify.com/track/1IncQD0Q84IO6Hjun80mbZ"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Rompecabezas",
+        "url": "https://open.spotify.com/album/5WOxmuWOvEtqfdovqzngsp"
+      },
+      "artists": [
+        {
+          "name": "Plena Adentro",
+          "url": "https://open.spotify.com/artist/1Plz2KFX2pg7ctp6OWjQIg"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "Timba Timbo",
+      "url": "https://open.spotify.com/track/6zTWnfEH3I7LZaMZTqSUYA"
     },
     {
       "added_at": "2023-06-13 22:15:19",

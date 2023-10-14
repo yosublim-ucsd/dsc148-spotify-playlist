@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 122549,
+  "num_followers": 122647,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Nzk5YzI4M2FiNDA3OWU5N2U0M2MwOTVmNGZiMGU2ZmViYjU1NTA3",
+  "snapshot_id": "MCxjNDcxYWQxMDJkMTMxZmE4MjQ0MjkzZDkyMTM1ZTBiNjZlOTZlOGVl",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -491,22 +491,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "The Power Of Touch",
-        "url": "https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9"
-      },
-      "artists": [
-        {
-          "name": "Bobby Lyle",
-          "url": "https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On"
-        }
-      ],
-      "duration_ms": 310893,
-      "name": "Aruban Nights",
-      "url": "https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Dave Koz",
         "url": "https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 370040,
       "name": "So Far From Home",
       "url": "https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "The Power Of Touch",
+        "url": "https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9"
+      },
+      "artists": [
+        {
+          "name": "Bobby Lyle",
+          "url": "https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On"
+        }
+      ],
+      "duration_ms": 310893,
+      "name": "Aruban Nights",
+      "url": "https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Blue Touch",
-        "url": "https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Fly Away (Thinking Of You)",
-      "url": "https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Classical Soul",
         "url": "https://open.spotify.com/album/3Bw8zMOa49iNKrh5DMhY72"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 308400,
       "name": "Follow Your Bliss",
       "url": "https://open.spotify.com/track/6vem3VzPJAcOKvblO5dIwY"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Blue Touch",
+        "url": "https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Fly Away (Thinking Of You)",
+      "url": "https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -635,22 +635,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "I Came To Play",
-        "url": "https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO"
-      },
-      "artists": [
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        }
-      ],
-      "duration_ms": 317800,
-      "name": "Let's Wait Awhile",
-      "url": "https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 221640,
       "name": "Charisma",
       "url": "https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "I Came To Play",
+        "url": "https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO"
+      },
+      "artists": [
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        }
+      ],
+      "duration_ms": 317800,
+      "name": "Let's Wait Awhile",
+      "url": "https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -683,22 +683,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "East",
-        "url": "https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT"
-      },
-      "artists": [
-        {
-          "name": "Hiroshima",
-          "url": "https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc"
-        }
-      ],
-      "duration_ms": 327733,
-      "name": "Daydreamer",
-      "url": "https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/02jDT0AUMqKosTjyqwHMx5"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 320973,
       "name": "I Just Can't Stop Thinking About You",
       "url": "https://open.spotify.com/track/1rAgECH4JpRZbYQkCQTCzm"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "East",
+        "url": "https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT"
+      },
+      "artists": [
+        {
+          "name": "Hiroshima",
+          "url": "https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc"
+        }
+      ],
+      "duration_ms": 327733,
+      "name": "Daydreamer",
+      "url": "https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -731,6 +731,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "A River In The Desert",
+        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
+      },
+      "artists": [
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        }
+      ],
+      "duration_ms": 338933,
+      "name": "The East from the West",
+      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "First View",
         "url": "https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8"
       },
@@ -743,6 +759,22 @@
       "duration_ms": 326933,
       "name": "West End",
       "url": "https://open.spotify.com/track/5KVlCe3igMGYLOY8PlIFCg"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Intimacy",
+        "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 256933,
+      "name": "Just Hold Me",
+      "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -763,22 +795,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "A River In The Desert",
-        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
-      },
-      "artists": [
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        }
-      ],
-      "duration_ms": 338933,
-      "name": "The East from the West",
-      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 291533,
       "name": "The Way To You",
       "url": "https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Intimacy",
-        "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 256933,
-      "name": "Just Hold Me",
-      "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -859,22 +859,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/2pqZnilWdNRtwv5Se30hA4"
-      },
-      "artists": [
-        {
-          "name": "George Howard",
-          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
-        }
-      ],
-      "duration_ms": 329826,
-      "name": "I Want You For Myself",
-      "url": "https://open.spotify.com/track/5rkVq7MwaVJHS9ZFt3uOjo"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "I Came To Play",
         "url": "https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 355533,
       "name": "Personal Touch",
       "url": "https://open.spotify.com/track/0NA50DOtbAqH4LDngxH3Xw"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/2pqZnilWdNRtwv5Se30hA4"
+      },
+      "artists": [
+        {
+          "name": "George Howard",
+          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
+        }
+      ],
+      "duration_ms": 329826,
+      "name": "I Want You For Myself",
+      "url": "https://open.spotify.com/track/5rkVq7MwaVJHS9ZFt3uOjo"
     },
     {
       "added_at": "2020-08-19 00:00:21",

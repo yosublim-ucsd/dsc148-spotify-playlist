@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 46100,
+  "num_followers": 46136,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2NiNjU1MDM4YmVjN2M1NmI1ZDQyN2FhOGRiYWU2MWY4ZGM3NWQ0",
+  "snapshot_id": "MCxmNTRlODdkN2JiMzQxMzIwZGNlOGYxZDkzMGE5Zjg4ZmRhODg3Nzdl",
   "tracks": [
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS - Pedro Fernandez",
-        "url": "https://open.spotify.com/album/352knvMHml1CF221Etuqnw"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk"
-        }
-      ],
-      "duration_ms": 167893,
-      "name": "La de la Mochila Azul - Tema Remasterizado",
-      "url": "https://open.spotify.com/track/7mAJhTUR86m8za71QGYIMK"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Serie de Autores - Vol. II, Manuel Alejandro",
         "url": "https://open.spotify.com/album/4pRW2FxKY2Ir5sNqSPwh5g"
       },
@@ -1207,22 +1191,34 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "La Discoteca del Siglo - Historia de la Cumbia en el Siglo Xx, Vol. 3",
-        "url": "https://open.spotify.com/album/0QIW02TgQwYnJtQ4JW0J6Z"
+        "name": "La Gran Coleccion Del 60 Aniversario CBS - Pedro Fernandez",
+        "url": "https://open.spotify.com/album/352knvMHml1CF221Etuqnw"
       },
       "artists": [
         {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Lucho Argain",
-          "url": "https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b"
+          "name": "Pedrito Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk"
         }
       ],
-      "duration_ms": 157666,
-      "name": "Se Me Perdi\u00f3 la Cadenita",
-      "url": "https://open.spotify.com/track/4lNIfnscCanglCCUuVVUan"
+      "duration_ms": 167893,
+      "name": "La de la Mochila Azul - Tema Remasterizado",
+      "url": "https://open.spotify.com/track/7mAJhTUR86m8za71QGYIMK"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/12SudP5pnMsY8b7f2ypAd6"
+      },
+      "artists": [
+        {
+          "name": "Ralfi Pagan",
+          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
+        }
+      ],
+      "duration_ms": 236240,
+      "name": "Stay Out Of My Life",
+      "url": "https://open.spotify.com/track/0wsGHiAoOQwOOtBWauLiVN"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1243,18 +1239,22 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "I Can See",
-        "url": "https://open.spotify.com/album/12SudP5pnMsY8b7f2ypAd6"
+        "name": "La Discoteca del Siglo - Historia de la Cumbia en el Siglo Xx, Vol. 3",
+        "url": "https://open.spotify.com/album/0QIW02TgQwYnJtQ4JW0J6Z"
       },
       "artists": [
         {
-          "name": "Ralfi Pagan",
-          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Lucho Argain",
+          "url": "https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b"
         }
       ],
-      "duration_ms": 236240,
-      "name": "Stay Out Of My Life",
-      "url": "https://open.spotify.com/track/0wsGHiAoOQwOOtBWauLiVN"
+      "duration_ms": 157666,
+      "name": "Se Me Perdi\u00f3 la Cadenita",
+      "url": "https://open.spotify.com/track/4lNIfnscCanglCCUuVVUan"
     },
     {
       "added_at": "2023-02-17 20:59:31",

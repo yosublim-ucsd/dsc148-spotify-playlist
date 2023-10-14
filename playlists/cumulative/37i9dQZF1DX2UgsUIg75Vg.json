@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Cleo Sol",
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Naomi Sharon",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -228,6 +228,36 @@
       "duration_ms": 151266,
       "name": "311 (with Gwen Bunn)",
       "url": "https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7"
+    },
+    {
+      "album": {
+        "name": "311!",
+        "url": "https://open.spotify.com/album/0FW36xz6JNy9uIFx9TOWs3"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        },
+        {
+          "name": "sneek",
+          "url": "https://open.spotify.com/artist/6O4EoU7wO1VU8yAEhbIii5"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper & Keyon Harrold",
+          "url": "https://open.spotify.com/artist/0PWMzZR4AE7UW9ypDiXVbJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206856,
+      "name": "311!",
+      "url": "https://open.spotify.com/track/4tQPhI1lvsqsyqT7AOwwdG"
     },
     {
       "album": {
@@ -716,7 +746,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 208941,
       "name": "ANGEL",
       "url": "https://open.spotify.com/track/30s0R1Kz4E3yIDaZFxvTwc"
@@ -4144,10 +4174,32 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 198425,
       "name": "Eve Gene",
       "url": "https://open.spotify.com/track/0B5RsEt6AbLQJhgJxWfN9O"
+    },
+    {
+      "album": {
+        "name": "Eve Gene",
+        "url": "https://open.spotify.com/album/6ZiVCsS6PHMDOIAHZ0JXUl"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "Eve Gene",
+      "url": "https://open.spotify.com/track/6eKpk5wa0sP4YgjoI1psFX"
     },
     {
       "album": {
@@ -5116,6 +5168,24 @@
       "duration_ms": 243107,
       "name": "Forgive Them - Live",
       "url": "https://open.spotify.com/track/52sbd2ZlFF3PLm0wO3EFL6"
+    },
+    {
+      "album": {
+        "name": "From A Woman",
+        "url": "https://open.spotify.com/album/41EnEbv52wuUZLFOdXH1d8"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182072,
+      "name": "From A Woman",
+      "url": "https://open.spotify.com/track/6x4z51Q0PBhSs8NoGbJ5wk"
     },
     {
       "album": {
@@ -6568,7 +6638,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 187370,
       "name": "I've Been Waiting",
       "url": "https://open.spotify.com/track/2oRGtL4mO7TyYmVt2davbf"
@@ -6896,7 +6966,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 194235,
       "name": "Intentional",
       "url": "https://open.spotify.com/track/38jhsyeLF4zr4P5I6dMeSq"
@@ -9788,7 +9858,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 208706,
       "name": "ODEE",
       "url": "https://open.spotify.com/track/1DJLf5CTIbjI8gPqfZZ6Wj"
@@ -11110,6 +11180,24 @@
       "duration_ms": 165706,
       "name": "Red Light",
       "url": "https://open.spotify.com/track/4WjVfh6dSZs7bF3AazJMIM"
+    },
+    {
+      "album": {
+        "name": "Regardless",
+        "url": "https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189257,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
     },
     {
       "album": {
@@ -13056,6 +13144,28 @@
       "duration_ms": 205479,
       "name": "Such A Thing",
       "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
+    },
+    {
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/3xrqOcvw6PfsXkJEgfz1Cu"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Rosie Lowe",
+          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222518,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/1fdIUHd0XFHyuwp0Uhgquw"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Becky G en portada. ",
-  "num_followers": 739438,
+  "num_followers": 738556,
   "original_name": "Sierre\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjRlMWUxNDQ0OTdlODBiNjBlZjJjNzUxYmNhZWQ5M2NiZTI2M2Q3",
+  "snapshot_id": "MCw1ZmRlMzhjNjExNGQyNjA4ZjdkZjE3NDkzMzQ3MzI5NDQxMDlmMmUw",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 182073,
+      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Pal Amor Soy Malo",
         "url": "https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC"
       },
@@ -927,18 +943,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
+        "name": "Ahora Estoy Mejor",
+        "url": "https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF"
       },
       "artists": [
         {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 182073,
-      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
+      "duration_ms": 274172,
+      "name": "Ahora Estoy Mejor",
+      "url": "https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -987,22 +1007,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Ahora Estoy Mejor",
-        "url": "https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF"
+        "name": "Las 745",
+        "url": "https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg"
       },
       "artists": [
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
         },
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 274172,
-      "name": "Ahora Estoy Mejor",
-      "url": "https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp"
+      "duration_ms": 163073,
+      "name": "Las 745",
+      "url": "https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1023,26 +1043,6 @@
       "duration_ms": 209358,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Las 745",
-        "url": "https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg"
-      },
-      "artists": [
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 163073,
-      "name": "Las 745",
-      "url": "https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Seguimos Dejando Marca (En Vivo)",
+        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "duration_ms": 147781,
+      "name": "Gente Corriente - En Vivo",
+      "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Y Soporta",
         "url": "https://open.spotify.com/album/1w3ucNPARcDVkYz715EXwg"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 164186,
       "name": "Y Soporta",
       "url": "https://open.spotify.com/track/6oRTMQZSanMe68UL3WCIDu"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Seguimos Dejando Marca (En Vivo)",
-        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        }
-      ],
-      "duration_ms": 147781,
-      "name": "Gente Corriente - En Vivo",
-      "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Mi Despedida",
-        "url": "https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv"
-      },
-      "artists": [
-        {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
-        }
-      ],
-      "duration_ms": 196064,
-      "name": "Mi Despedida",
-      "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Hoy la Vi Con \u00c9l (En Vivo)",
         "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 223200,
       "name": "Hoy la Vi Con \u00c9l - En Vivo",
       "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Mi Despedida",
+        "url": "https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv"
+      },
+      "artists": [
+        {
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+        }
+      ],
+      "duration_ms": 196064,
+      "name": "Mi Despedida",
+      "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "No Tengo Rival",
-        "url": "https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn"
+        "name": "Marcando La Diferencia",
+        "url": "https://open.spotify.com/album/2AFLpxDXYur6ODyh5eSGHa"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Victor Eme",
+          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
         }
       ],
-      "duration_ms": 135127,
-      "name": "El Convoy de los Hermanos",
-      "url": "https://open.spotify.com/track/4BwiQHmZt92xZpQsLaRbw7"
+      "duration_ms": 179948,
+      "name": "Marcando La Diferencia",
+      "url": "https://open.spotify.com/track/1EUPd55xAcY49hU59aJD5N"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Marcando La Diferencia",
-        "url": "https://open.spotify.com/album/2AFLpxDXYur6ODyh5eSGHa"
-      },
-      "artists": [
-        {
-          "name": "Victor Eme",
-          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
-        }
-      ],
-      "duration_ms": 179948,
-      "name": "Marcando La Diferencia",
-      "url": "https://open.spotify.com/track/1EUPd55xAcY49hU59aJD5N"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Dinero F\u00e1cil",
         "url": "https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 224442,
       "name": "Quiero Llorar y No Puedo",
       "url": "https://open.spotify.com/track/3ezRmGfcXnuEA4ryylr6Jk"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "No Tengo Rival",
+        "url": "https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 135127,
+      "name": "El Convoy de los Hermanos",
+      "url": "https://open.spotify.com/track/4BwiQHmZt92xZpQsLaRbw7"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Las Preferidas, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/08nFf278FBOyxTEssZx2LR"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 182909,
-      "name": "El Rapido",
-      "url": "https://open.spotify.com/track/3IDvZQYop4XSaTZHw4H5hK"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Piensa En Mi",
         "url": "https://open.spotify.com/album/3QvltqphdmNGv93YoM310C"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 204039,
       "name": "Piensa En Mi",
       "url": "https://open.spotify.com/track/2JSmFHR2FpruHXgF5udA1l"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Las Preferidas, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/08nFf278FBOyxTEssZx2LR"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 182909,
+      "name": "El Rapido",
+      "url": "https://open.spotify.com/track/3IDvZQYop4XSaTZHw4H5hK"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 177420,
-      "name": "Dejalo Ir",
-      "url": "https://open.spotify.com/track/0IWbhl9q9HISium2adh6h2"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Puro Pa' Delante",
         "url": "https://open.spotify.com/album/7LD7kDSXZVmUCEfLwoRh4B"
       },
@@ -1739,18 +1723,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 187440,
-      "name": "Si Tu Te Fueras De Mi",
-      "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
+      "duration_ms": 177420,
+      "name": "Dejalo Ir",
+      "url": "https://open.spotify.com/track/0IWbhl9q9HISium2adh6h2"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1803,6 +1787,22 @@
       "duration_ms": 142422,
       "name": "Voy a Amarte - Remix",
       "url": "https://open.spotify.com/track/3pXRqwDbucGoBjQtt3AR4R"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "Si Tu Te Fueras De Mi",
+      "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
     },
     {
       "added_at": "2023-09-15 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25958,
+  "num_followers": 25947,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzYxMDQ2MzllNDZlM2M1MTNmNGRiNmZhNDIzOTgwODQ0ODdiYWU4",
+  "snapshot_id": "MCwwNGIyYzFmZWY3ZTg5Njg2MThhZWFlMmE2ZWUxOTkwM2ZkMGFiMjgw",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -375,18 +375,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Champion (Studio Version)",
-        "url": "https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS"
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
       },
       "artists": [
         {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
         }
       ],
-      "duration_ms": 237013,
-      "name": "Champion - Studio Version",
-      "url": "https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW"
+      "duration_ms": 199078,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
+        "name": "Champion (Studio Version)",
+        "url": "https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS"
       },
       "artists": [
         {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
         }
       ],
-      "duration_ms": 199078,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
+      "duration_ms": 237013,
+      "name": "Champion - Studio Version",
+      "url": "https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
-        "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 222878,
-      "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
-      "url": "https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "The Second City",
         "url": "https://open.spotify.com/album/5PQtB12QQQmkTOTxBcaVtR"
       },
@@ -1099,6 +1079,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/0u67ZdhmmnjZ0Jxze8ca3b"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 179413,
+      "name": "Count That High",
+      "url": "https://open.spotify.com/track/3yejM42cofDkyazZoQn8f0"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Love (Remix)",
         "url": "https://open.spotify.com/album/3irVs3SlBLgZnrotRIkd6W"
       },
@@ -1119,18 +1115,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/0u67ZdhmmnjZ0Jxze8ca3b"
+        "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
+        "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
       },
       "artists": [
         {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 179413,
-      "name": "Count That High",
-      "url": "https://open.spotify.com/track/3yejM42cofDkyazZoQn8f0"
+      "duration_ms": 222878,
+      "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
+      "url": "https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw"
     },
     {
       "added_at": "2020-08-13 14:39:00",

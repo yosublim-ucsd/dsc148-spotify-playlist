@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:0fdWtNx0iazarVEaQ30VEE">dezydery</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,278 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,279 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [No i Ja](https://open.spotify.com/track/02wkHQTxa1xe9Tr2ZLvzNC) | [Martin Englerd](https://open.spotify.com/artist/6fXcT3c6gHOhnS9Omzueb3), [Alia Fay](https://open.spotify.com/artist/592n9jWsXiAHOOQ7OvGrpS) | [No i Ja](https://open.spotify.com/album/3Nh1lJyAsqXKxl3aUBqmOU) | 3:42 |
 | 100 | [fallevermore](https://open.spotify.com/track/60rum6M4swl9BMeuWOTcLR) | [michal](https://open.spotify.com/artist/0MIRE2Gqju2lzgCTYfzm9y) | [fallevermore](https://open.spotify.com/album/4hSRgGyrRIxM4f7YRT6Jtt) | 3:56 |
 
-Snapshot ID: `MCw0MGU4YTA1ZDljNjY1M2RhNmFjZDgzM2Q3MzdhMzkwMTNlODEzYzE3`
+Snapshot ID: `MCw5ODcyNTZlYTM2NmFlMmZlMTk2OTNlOTVkMTY5ODY4Njk4MGIwYmRm`

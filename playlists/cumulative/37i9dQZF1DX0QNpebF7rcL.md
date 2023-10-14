@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Shemekia Copeland
 
-322 songs - 21 hr 39 min
+324 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,10 @@
 | [Ball of Fire](https://open.spotify.com/track/3mtfFRcdAeHrrVnxbWpmI2) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [No More Worlds to Conquer](https://open.spotify.com/album/5RCGjONsYrTcNJpRjd27eL) | 3:51 | 2022-04-29 | 2023-08-19 |
 | [Beat The Devil](https://open.spotify.com/track/3XYMYGSPtFvczwyKpYmtXk) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Beat The Devil](https://open.spotify.com/album/6ahYjYXiTuofCvgdATnrMv) | 3:49 | 2021-12-10 | 2022-04-23 |
 | [Best Of Me](https://open.spotify.com/track/0VbJ3cy7fxcHgNiAA29jXl) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743) | [Best Of Me](https://open.spotify.com/album/5yUt1cDO7CNBnEtyJS1aP9) | 3:54 | 2023-05-05 | 2023-05-20 |
+| [Big Grey Sky](https://open.spotify.com/track/58oEh6arIVp6WWUDiTnBun) | [Chris Thomas King](https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN) | [Big Grey Sky](https://open.spotify.com/album/19Unzw1ncj6JqxPGPBkXbP) | 4:28 | 2023-10-13 |  |
 | [Big Legged Man](https://open.spotify.com/track/7JDEtVgmR53Yi9S0C1Vktj) | [Boneshakers](https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m) | [One Foot In The Groove](https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD) | 4:25 | 2022-09-30 |  |
 | [Black Horizon](https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 4:49 | 2021-11-12 | 2022-04-23 |
+| [Black Magic](https://open.spotify.com/track/4GuQf92xMVo9FYRYnj37OL) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Black Magic](https://open.spotify.com/album/2AfgpZdbs8CI1MvjFaus2A) | 4:25 | 2023-10-13 |  |
 | [Black Mountain Blues](https://open.spotify.com/track/1D2tVcQFbPmJP9FAjGkvJV) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [Black Mountain Blues](https://open.spotify.com/album/2gKdg1viykgX8jVJrvR71l) | 5:08 | 2021-04-23 | 2022-04-23 |
 | [Blacksnake Blues](https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Blacksnake Blues](https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz) | 11:14 | 2022-01-28 | 2023-10-07 |
 | [Blue Blue Water](https://open.spotify.com/track/6YqNOEJY1xQw1Zbgxa10Bu) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Oscar Wilson](https://open.spotify.com/artist/3Dlel3io4wOjaKcj6YL7rV) | [Bob Corritore & Friends: You Shocked Me](https://open.spotify.com/album/18rXZSxt8oRqSMZChCNEPE) | 3:17 | 2022-09-09 | 2023-04-29 |
@@ -117,7 +119,7 @@
 | [Holy Water](https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Things Happen That Way](https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2) | 3:24 | 2022-09-23 |  |
 | [Homemade Disaster](https://open.spotify.com/track/4k4JY0DFEustCvGDCs0Ur7) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Homemade Disaster](https://open.spotify.com/album/4JoSX9ytrWjExenqs4yWrp) | 3:14 | 2020-12-14 | 2022-02-26 |
 | [Hooray Hooray](https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Hooray Hooray](https://open.spotify.com/album/49WXct9dVEokilWT2A7muj) | 4:19 | 2022-01-28 | 2022-02-26 |
-| [Hope You Realize It \(Goodbye Again\)](https://open.spotify.com/track/2cMKzAbQbKwHqYQgvRvGSw) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Hope You Realize It \(Goodbye Again\)](https://open.spotify.com/album/2fHbu3R5or4jVtzvHdc9OZ) | 3:58 | 2023-09-08 |  |
+| [Hope You Realize It \(Goodbye Again\)](https://open.spotify.com/track/2cMKzAbQbKwHqYQgvRvGSw) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Hope You Realize It \(Goodbye Again\)](https://open.spotify.com/album/2fHbu3R5or4jVtzvHdc9OZ) | 3:58 | 2023-09-08 | 2023-10-14 |
 | [How Long](https://open.spotify.com/track/0uCmTNcj7GeDa1APYV4j3o) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [How Long](https://open.spotify.com/album/3fdrd58psynyIu5px6Cw1I) | 3:31 | 2021-03-26 | 2022-04-23 |
 | [Hungry and Ready \(feat\. Melvin Taylor\)](https://open.spotify.com/track/1gbujLyUUFGmgxjJ8EGuZt) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Melvin Taylor](https://open.spotify.com/artist/2JBKZGnF8j5nadn67i5B10) | [The Sun is Shining Down](https://open.spotify.com/album/5xuD9DAR2jAPxlYw4XnaXt) | 5:00 | 2022-01-28 | 2023-10-07 |
 | [Hush Money](https://open.spotify.com/track/3GyqRIWdigKoHOpkPXXEra) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Raisin' Cain](https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY) | 4:14 | 2021-04-09 | 2022-04-23 |
@@ -256,7 +258,7 @@
 | [Strong as Steel](https://open.spotify.com/track/2zurVB1sxDSgt2EdGjaICS) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Strong as Steel](https://open.spotify.com/album/0BCEBQ4oMiqVuVqhP9QrbA) | 4:09 | 2022-05-20 |  |
 | [Struggle for Grace](https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [My Blues Pathway](https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz) | 5:13 | 2020-12-14 | 2022-02-26 |
 | [Sunshine City](https://open.spotify.com/track/4PpF9xvXBP5kH7IOBPkwBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Sunshine City](https://open.spotify.com/album/1MxTTpJSDtNjni0SF5zIMt) | 4:17 | 2021-10-15 | 2022-02-26 |
-| [Sweet 'Lil Lies](https://open.spotify.com/track/6ibzlLNs7baLXzz4RjMLd9) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Sweet 'Lil Lies](https://open.spotify.com/album/6UCqBQAXge2aQLiZa6HrLu) | 5:17 | 2023-09-15 |  |
+| [Sweet 'Lil Lies](https://open.spotify.com/track/6ibzlLNs7baLXzz4RjMLd9) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Sweet 'Lil Lies](https://open.spotify.com/album/6UCqBQAXge2aQLiZa6HrLu) | 5:17 | 2023-09-15 | 2023-10-14 |
 | [Sweet Feeling](https://open.spotify.com/track/4pPi8qmEYGCtWZdSWZ79vW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Sweet Feeling](https://open.spotify.com/album/1rSf0wxKtdVx1e2dy66CMr) | 5:34 | 2023-10-06 |  |
 | [Take Me Back](https://open.spotify.com/track/5Ft33jkZFk4vtCURt4BaHX) | [Scott McKeon](https://open.spotify.com/artist/1sfTHUBg3CWHk2cU3Mle9S) | [New Morning](https://open.spotify.com/album/2TTXWDSbuk0LDVDEUNnsCh) | 5:36 | 2021-04-23 | 2022-04-23 |
 | [Talkin' Company Man Blues](https://open.spotify.com/track/49X6s0pSjdjOxy2eMFA7BI) | [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Talkin' Company Man Blues](https://open.spotify.com/album/0ij4E9nKXJQaxJ8OcOb4D2) | 4:10 | 2023-09-15 |  |

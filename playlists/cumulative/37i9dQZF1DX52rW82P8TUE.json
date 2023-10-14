@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores. Foto: Leonardo Gon\u00e7alves",
+  "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
   "name": "Gospel Kids",
   "tracks": [
     {
@@ -111,6 +111,46 @@
     },
     {
       "album": {
+        "name": "A,E,I,O,U",
+        "url": "https://open.spotify.com/album/5xWQKN7mnHZ9b2WxW5JrF9"
+      },
+      "artists": [
+        {
+          "name": "Bunek\u00e3o de Jesus",
+          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "A, E, I, O, U",
+      "url": "https://open.spotify.com/track/3ECu0Ipd7bspFhrJTuYwoA"
+    },
+    {
+      "album": {
+        "name": "Alegria do Senhor (feat. Smiling\u00fcido)",
+        "url": "https://open.spotify.com/album/2DvpowMnSsDrZYdBaNivPI"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Smiling\u00fcido",
+          "url": "https://open.spotify.com/artist/3gXyPd0CCJNIlkRptryM5U"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171758,
+      "name": "Alegria do Senhor (feat. Smiling\u00fcido)",
+      "url": "https://open.spotify.com/track/1QZvzIat3ivKf9hDE5R2uk"
+    },
+    {
+      "album": {
         "name": "Amor Diferente",
         "url": "https://open.spotify.com/album/45R0EnUDMoQs4PYaTYsuMD"
       },
@@ -140,7 +180,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 189386,
       "name": "Ao Orarmos",
       "url": "https://open.spotify.com/track/0OCSLWbLai3RpfM4kjo5Ne"
@@ -448,7 +488,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 232873,
       "name": "Daniel, o Profeta",
       "url": "https://open.spotify.com/track/5C0j4okqm1pd9CBVXmJBZ5"
@@ -729,6 +769,44 @@
     },
     {
       "album": {
+        "name": "Medley Crian\u00e7as Diante do Trono (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2F0dpBrgay5e2ikGnyBbpj"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Isaque Valad\u00e3o Bessa",
+          "url": "https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9"
+        },
+        {
+          "name": "Gabriel Barreto",
+          "url": "https://open.spotify.com/artist/06ii0QUGCLVALU7jqPB1K1"
+        },
+        {
+          "name": "Lu Alone",
+          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
+        },
+        {
+          "name": "Nena Lacerda",
+          "url": "https://open.spotify.com/artist/6UHyiSKriWWiIldzzXmnBW"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338635,
+      "name": "Medley Crian\u00e7as DT Toin Toin - Ao Vivo",
+      "url": "https://open.spotify.com/track/26XndRd8wqjXghY0rTIWd1"
+    },
+    {
+      "album": {
         "name": "Medley das Crian\u00e7as",
         "url": "https://open.spotify.com/album/6kA8eLY4fy4LqYmQVWD3tH"
       },
@@ -870,7 +948,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 187586,
       "name": "Obra do Criador - Ao Vivo",
       "url": "https://open.spotify.com/track/6H4h2cnyfeTnqAHfdqi5dw"

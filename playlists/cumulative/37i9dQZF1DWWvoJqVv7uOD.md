@@ -4,7 +4,7 @@
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Teddy Swims
 
-582 songs - 1 day 7 hr 46 min
+584 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2022-02-04 | 2022-05-07 |
 | [Eat Your Young](https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 4:02 | 2023-03-18 | 2023-06-24 |
 | [Electric Life](https://open.spotify.com/track/0iLqpm5c4dGlwth5LYq2tj) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Electric Life](https://open.spotify.com/album/0rgJvUPcgTDdiirvy7wHs6) | 3:14 | 2022-08-05 | 2022-09-10 |
-| [Empty Room](https://open.spotify.com/track/4ZIfi9sghAcESLhBFvbxHc) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Empty Room](https://open.spotify.com/album/11p55BSOZRJ6NvNuycreEl) | 3:04 | 2023-09-15 |  |
+| [Empty Room](https://open.spotify.com/track/3rhWu9LLv0LleWbO9LuQrO) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [The Things I Left Unsaid](https://open.spotify.com/album/2MbohPX2P1ms4RjAo9X0iW) | 3:04 | 2023-09-29 |  |
+| [Empty Room](https://open.spotify.com/track/4ZIfi9sghAcESLhBFvbxHc) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Empty Room](https://open.spotify.com/album/11p55BSOZRJ6NvNuycreEl) | 3:04 | 2023-09-15 | 2023-10-14 |
 | [End Of Youth](https://open.spotify.com/track/0vber253Le8WWt7gKorVe9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:51 | 2023-05-05 |  |
 | [End Up Alone](https://open.spotify.com/track/27EKJEpPaDzDm80bpjhF4s) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [End Up Alone](https://open.spotify.com/album/76IoHVOSEWjxcbB9BMQUkm) | 2:39 | 2022-07-29 | 2022-09-10 |
 | [Endless Nights](https://open.spotify.com/track/4V50U0qH1s72n2J8Kxavdu) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 3:11 | 2023-08-04 | 2023-08-16 |
@@ -400,7 +401,8 @@
 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2022-11-04 | 2023-04-22 |
 | [Never Look Back](https://open.spotify.com/track/3K3bZDkHev8R7Clcqs2u8M) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Look Back](https://open.spotify.com/album/4GVxVTIaQg7zEEQ2Fqsu0q) | 2:42 | 2023-04-21 | 2023-07-01 |
 | [NO BAD DAYS \(feat\. Collett\)](https://open.spotify.com/track/5C8ySsx3AT121g24uYR823) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Collett](https://open.spotify.com/artist/6u079TgFSFrxtv8iqq0Zn9) | [BEN](https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS) | 2:53 | 2023-03-03 | 2023-05-27 |
-| [No Matter What](https://open.spotify.com/track/3LUai3qN5tzG0HpM72IHCy) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [No Matter What](https://open.spotify.com/album/456nxcaYCzETLiEnfwvMID) | 3:02 | 2023-08-11 |  |
+| [No Matter What](https://open.spotify.com/track/3LUai3qN5tzG0HpM72IHCy) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [No Matter What](https://open.spotify.com/album/456nxcaYCzETLiEnfwvMID) | 3:02 | 2023-08-11 | 2023-10-14 |
+| [No Matter What](https://open.spotify.com/track/5pYsEdfprWa7B2RbsbUIDC) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [The Things I Left Unsaid](https://open.spotify.com/album/2MbohPX2P1ms4RjAo9X0iW) | 3:02 | 2023-09-29 |  |
 | [No Wonder](https://open.spotify.com/track/26E7c125wkzIcTSBdC8th3) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [No Wonder](https://open.spotify.com/album/6RJuDAODnxAKIkXTxNhKHx) | 3:21 | 2022-11-25 | 2022-12-03 |
 | [Normal](https://open.spotify.com/track/0HVcO5RvFcXCqQDWrh1zL2) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Normal](https://open.spotify.com/album/4sAJ0GqWDbEVemJSjE1PZc) | 3:51 | 2023-02-10 | 2023-02-25 |
 | [Not Alone](https://open.spotify.com/track/2vV4jkfEqASruPUHV4Ieir) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Not Alone](https://open.spotify.com/album/4PF5oUcIgSK6A6wfHYFwSx) | 2:13 | 2023-03-18 | 2023-05-06 |

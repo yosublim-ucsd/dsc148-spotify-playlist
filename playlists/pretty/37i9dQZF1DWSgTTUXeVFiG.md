@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,240 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,304 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 40 | [Tengo Ganas \- Live Carnegie Version](https://open.spotify.com/track/0dfKQSS9o3pfSducqHXaCy) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Victor Manuelle Desde El Carnegie Hall](https://open.spotify.com/album/4Cod19wOYqojpBfb6G8pdE) | 6:46 |
 | 41 | [Hazme Olvidarla \- En Vivo](https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 6:32 |
 | 42 | [Sobredosis](https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR) | [Alberto Barros Y Los Titanez De La Salsa](https://open.spotify.com/artist/0ui6KKqjRG1xXFmthT7Jjx) | [En Vivo](https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819) | 4:40 |
-| 43 | [Medias Negras \- Live Version](https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:52 |
-| 44 | [Nuestro Sueño \- En Vivo](https://open.spotify.com/track/0nrOLAiz0CCyqr3PZaT0Zw) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Grupo Niche \(En Vivo\)](https://open.spotify.com/album/4lrQEwqs459PbxfQGp11H3) | 5:35 |
+| 43 | [Nuestro Sueño \- En Vivo](https://open.spotify.com/track/0nrOLAiz0CCyqr3PZaT0Zw) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Grupo Niche \(En Vivo\)](https://open.spotify.com/album/4lrQEwqs459PbxfQGp11H3) | 5:35 |
+| 44 | [Medias Negras \- Live Version](https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:52 |
 | 45 | [La Vida Es Un Carnaval \- En Vivo Desde Hartford, Connecticut/1999](https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Night Of Salsa](https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h) | 6:41 |
 | 46 | [Estrellas de Fania \- Live At The Cheetah Club / New York, NY / August 26, 1971](https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Live At The Cheetah, Vol\. 2](https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ) | 7:24 |
 | 47 | [El Cantante \- Live](https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 49 | [Tengo Ganas \- Live at MSG Version](https://open.spotify.com/track/2oPozWeqp6qGl3mWK2I62C) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Live At Madison Square Garden](https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ) | 4:35 |
 | 50 | [No Es Casualidad \- En Vivo](https://open.spotify.com/track/0enkJVDmJcro5LDyC82p5X) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 7:54 |
 
-Snapshot ID: `MCxkMGExNGJkMzAxNWFhODc4MGE5ZmQ4ZWMyMTkzNWZiYzVlMzRlMjBl`
+Snapshot ID: `MCwwYTU3NTI5NTRlYmY5YjM2ZmVjNDc2NGU1MjA5OTMzZTI2MjlhNGY1`

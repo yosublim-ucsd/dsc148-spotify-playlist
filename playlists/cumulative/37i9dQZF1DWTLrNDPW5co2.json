@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the centre of electronic music culture. Cover: Shygirl",
+  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the centre of electronic music culture. Cover: COBRAH",
   "name": "Club Resistance",
   "tracks": [
     {
@@ -466,7 +466,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 277600,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/0jnfcPhR4K98OgIwih63Wk"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 359981,
       "name": "Day After A Night With U",
       "url": "https://open.spotify.com/track/3K2fuhmE5ZS7gL717nJGlN"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 223548,
       "name": "Ecstatica",
       "url": "https://open.spotify.com/track/10kgnaSAqXAU0zYhcZcarP"
@@ -1615,6 +1615,28 @@
     },
     {
       "album": {
+        "name": "Looking For Loving",
+        "url": "https://open.spotify.com/album/0bX0zgIdh5HIosOanFy4gH"
+      },
+      "artists": [
+        {
+          "name": "NIMMO",
+          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
+        },
+        {
+          "name": "Satellite",
+          "url": "https://open.spotify.com/artist/0fAqPZw0Cd4XjcDwunU3bq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206616,
+      "name": "Looking For Loving",
+      "url": "https://open.spotify.com/track/4C7iQhNkgLRKGngGen5g23"
+    },
+    {
+      "album": {
         "name": "Love If You Need It (feat. Fi McCluskey)",
         "url": "https://open.spotify.com/album/7af5vVzmDMwfSGXjTZBZkE"
       },
@@ -1910,7 +1932,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 201230,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/3NwKONlygiXJU6G2u6b7iq"
@@ -2091,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "POKERFACE",
+        "url": "https://open.spotify.com/album/0U0bG9yKEEnNXnUrY8ET3Q"
+      },
+      "artists": [
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148097,
+      "name": "POKERFACE",
+      "url": "https://open.spotify.com/track/3DtB4gv4pIHphhPAqg5rjG"
+    },
+    {
+      "album": {
         "name": "KICK ii",
         "url": "https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy"
       },
@@ -2186,7 +2226,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 203267,
       "name": "Reclaim Me (feat. Nimmo) - Maya Jane Coles Remix [Edit]",
       "url": "https://open.spotify.com/track/7DLxRocVGAXVaq63ZuuIby"
@@ -2229,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
+    },
+    {
+      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/4hGpmPcRrysSUbbBnM4F0T"
       },
@@ -2262,6 +2320,24 @@
       "duration_ms": 300000,
       "name": "SHAKE DAT",
       "url": "https://open.spotify.com/track/2uZNd8oxhctekoIoDfUoBP"
+    },
+    {
+      "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181240,
+      "name": "She's On My Mind",
+      "url": "https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9"
     },
     {
       "album": {
@@ -2498,6 +2574,24 @@
       "duration_ms": 200318,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
+    },
+    {
+      "album": {
+        "name": "SUCCUBUS",
+        "url": "https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183879,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/2h3Pf8SrVoNpy3no4WQlEn"
     },
     {
       "album": {

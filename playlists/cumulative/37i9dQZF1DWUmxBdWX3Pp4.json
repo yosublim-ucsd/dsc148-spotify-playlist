@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos del Trap Latino. Foto: Bizarrap & Milo J.",
+  "description": "\u00c9xitos del Trap Latino. Foto: Bad Bunny.",
   "name": "TRAPPERZ",
   "tracks": [
     {
@@ -433,6 +433,36 @@
     },
     {
       "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359647,
+      "name": "ACHO PR",
+      "url": "https://open.spotify.com/track/1C7lXfx4Y5maVl4AgUVlHA"
+    },
+    {
+      "album": {
         "name": "Adem\u00e1s de M\u00ed (Remix)",
         "url": "https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78"
       },
@@ -628,7 +658,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 133533,
       "name": "AL LIMITE",
       "url": "https://open.spotify.com/track/5jNJoyl5zRnPSnFhYELJwN"
@@ -680,7 +710,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 136320,
       "name": "Amiri Jeans",
       "url": "https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o"
@@ -1282,7 +1312,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 123066,
       "name": "Bugatti",
       "url": "https://open.spotify.com/track/5FrbeoopwtCCEcOh3qp0V8"
@@ -2781,6 +2811,28 @@
     },
     {
       "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216327,
+      "name": "FINA",
+      "url": "https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS"
+    },
+    {
+      "album": {
         "name": "SMILE BIX :)",
         "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
       },
@@ -3072,7 +3124,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 177240,
       "name": "GO GO GO",
       "url": "https://open.spotify.com/track/0BJCI9tfhMrpELzRiDzdiR"
@@ -4985,6 +5037,28 @@
     },
     {
       "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202635,
+      "name": "MERCEDES CAROTA",
+      "url": "https://open.spotify.com/track/3TYOH7ta0101NYssoH5GlU"
+    },
+    {
+      "album": {
         "name": "Metflix",
         "url": "https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj"
       },
@@ -5048,7 +5122,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 157793,
       "name": "Mi Bruja",
       "url": "https://open.spotify.com/track/6jU9HGQhLCUuA3jmwmxQCo"
@@ -5268,6 +5342,24 @@
       "duration_ms": 190496,
       "name": "MODELITO",
       "url": "https://open.spotify.com/track/559YUIWxUc8Mx4lsla13Ff"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
     },
     {
       "album": {
@@ -5657,6 +5749,24 @@
     },
     {
       "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225654,
+      "name": "NO ME QUIERO CASAR",
+      "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"
+    },
+    {
+      "album": {
         "name": "No me retracto",
         "url": "https://open.spotify.com/album/3gRQFlAerNzf009idHlF92"
       },
@@ -5698,7 +5808,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 159306,
       "name": "NO PARA",
       "url": "https://open.spotify.com/track/1d5YgbhNxmvqdzf1aqcYDO"
@@ -6252,7 +6362,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 261600,
       "name": "Padres",
       "url": "https://open.spotify.com/track/0Tr5TQo7sJ36Y8VZ5yi4t3"
@@ -7178,7 +7288,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 133300,
       "name": "Samuleto",
       "url": "https://open.spotify.com/track/0T0VYY4LsTHNPqs5BtPdD7"
@@ -7218,6 +7328,28 @@
       "duration_ms": 153211,
       "name": "Se Que No",
       "url": "https://open.spotify.com/track/5f9nATgIwnc5YVVeTo8H3m"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "SEDA",
+      "url": "https://open.spotify.com/track/1YnChEM51BVZ5dRhbVFEMl"
     },
     {
       "album": {
@@ -7917,6 +8049,28 @@
     },
     {
       "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354784,
+      "name": "TELEFONO NUEVO",
+      "url": "https://open.spotify.com/track/01ppKlDRCmPpusO3yNrSRY"
+    },
+    {
+      "album": {
         "name": "Tengo de To",
         "url": "https://open.spotify.com/album/2NQTlNmfZwZdxCQh7IjfdW"
       },
@@ -7936,6 +8090,28 @@
       "duration_ms": 189629,
       "name": "Tengo de To",
       "url": "https://open.spotify.com/track/5SE2xdJtTyQW756NVcGtXf"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "THUNDER Y LIGHTNING",
+      "url": "https://open.spotify.com/track/4pcafPzLDSqQktqSpxHL3E"
     },
     {
       "album": {

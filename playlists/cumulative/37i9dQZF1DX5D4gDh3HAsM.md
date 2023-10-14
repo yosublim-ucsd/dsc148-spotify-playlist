@@ -4,7 +4,7 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-128 songs - 7 hr 41 min
+129 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Christmas Time Is Here](https://open.spotify.com/track/5GDMoDTI2iqYlykNq5hw6l) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Christmas in the Rockies](https://open.spotify.com/album/0YXb7Wfn8T0HOvc0ZQblc8) | 3:46 | 2021-11-12 |  |
 | [Christmas Time is Here](https://open.spotify.com/track/5zgSvriujXdqbP0kyEhZvS) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Christmas in the Rockies](https://open.spotify.com/album/4jfBNIB9fPR9tZLalMMIxu) | 3:46 | 2021-11-12 | 2022-09-03 |
 | [Christmas Time is Here](https://open.spotify.com/track/6L33ji3tovMzS8zUoXV2GB) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Christmas in the Rockies](https://open.spotify.com/album/0NWplaqdsAibLPSPYV6AdV) | 3:46 | 2021-11-12 | 2022-07-29 |
+| [Christmas Wish](https://open.spotify.com/track/6WARQvk8lSlBv7HTWpFpFv) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Christmas Wish](https://open.spotify.com/album/1HfHKTJRTvwjvSRi865iNv) | 3:54 | 2023-10-13 |  |
 | [Cool Yule](https://open.spotify.com/track/0KIbWpeVKKl2XVLzTWVIA9) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Blue Christmas](https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM) | 3:30 | 2021-11-12 |  |
 | [Dech The Hall Boughs Of Holly](https://open.spotify.com/track/1FGO7AYk1tg2jEgfptla6O) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/1qnpNMKpPzIC0eXrzVSh6K) | 3:42 | 2021-11-12 | 2022-07-29 |
 | [Dech The Hall Boughs Of Holly](https://open.spotify.com/track/1ckWK9gPj5z6Ikb5gi6Xhh) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/0t0LMIRhBLD6xWPc6MEKxX) | 3:42 | 2021-11-12 |  |

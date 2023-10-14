@@ -1,12 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 935977,
+  "num_followers": 934397,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWUxMjAwNGIyZWNmMjY3YjdhNjVjNzY1NGEwZjY5ZTA0MjA2MmIy",
+  "snapshot_id": "MCxmZGZmZDNkYzk1YmZmYzBkYjNiMjc4ZWU3Y2MwOGIwYTYyYmYyZjEy",
   "tracks": [
     {
       "added_at": "2023-04-14 04:07:54",
@@ -357,22 +357,6 @@
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Jericho",
-        "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
-      },
-      "artists": [
-        {
-          "name": "Iniko",
-          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
-    },
-    {
       "added_at": "2023-04-14 04:07:54",
       "album": {
         "name": "Future Nostalgia",
@@ -387,6 +371,22 @@
       "duration_ms": 221820,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
+      },
+      "artists": [
+        {
+          "name": "Iniko",
+          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 152317,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "This Is What It Feels Like",
-        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 152317,
-      "name": "Feels Like",
-      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Hold My Hand (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Put Your Records On",
-        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
-      },
-      "artists": [
-        {
-          "name": "Ritt Momney",
-          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
-        }
-      ],
-      "duration_ms": 210463,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Numb Little Bug",
         "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 169237,
       "name": "Numb Little Bug",
       "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Put Your Records On",
+        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
+      },
+      "artists": [
+        {
+          "name": "Ritt Momney",
+          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+        }
+      ],
+      "duration_ms": 210463,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
     },
     {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1btu3XEwHsImFreF8dVV6J"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1"
-    },
-    {
       "added_at": "2023-08-18 04:01:00",
       "album": {
         "name": "At Your Worst",
@@ -847,6 +831,22 @@
       "duration_ms": 167201,
       "name": "At Your Worst",
       "url": "https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1btu3XEwHsImFreF8dVV6J"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1089,34 +1089,6 @@
       "url": "https://open.spotify.com/track/7JSSJf4TcJDv8KL6UO8FGH"
     },
     {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Be Who You Are (Real Magic)",
-        "url": "https://open.spotify.com/album/1Pk1W5xbmAqG6wBNL4sjq5"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 189713,
-      "name": "Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)",
-      "url": "https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf"
-    },
-    {
       "added_at": "2023-04-14 04:07:54",
       "album": {
         "name": "chemistry",
@@ -1151,6 +1123,34 @@
       "duration_ms": 174380,
       "name": "The Rose Song - From \"High School Musical: The Musical: The Series (Season 2)\"",
       "url": "https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Be Who You Are (Real Magic)",
+        "url": "https://open.spotify.com/album/1Pk1W5xbmAqG6wBNL4sjq5"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 189713,
+      "name": "Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)",
+      "url": "https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1293,6 +1293,26 @@
       "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
     },
     {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Our Song",
+        "url": "https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn"
+    },
+    {
       "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "chemistry",
@@ -1323,26 +1343,6 @@
       "duration_ms": 194275,
       "name": "Dance All Over Me",
       "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
-        "name": "Our Song",
-        "url": "https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 163733,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1455,30 +1455,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Peru (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/4aJ4phZnjQ1LQC8erkLOi4"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 149752,
-      "name": "Peru - R3HAB Remix",
-      "url": "https://open.spotify.com/track/3kv0lHXKrW8oltTe7fYbBq"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Chasing Stars (feat. James Bay)",
         "url": "https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6"
       },
@@ -1499,6 +1475,30 @@
       "duration_ms": 170457,
       "name": "Chasing Stars (feat. James Bay)",
       "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Peru (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/4aJ4phZnjQ1LQC8erkLOi4"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 149752,
+      "name": "Peru - R3HAB Remix",
+      "url": "https://open.spotify.com/track/3kv0lHXKrW8oltTe7fYbBq"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1649,6 +1649,22 @@
       "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
     },
     {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "The Dumb Song",
+        "url": "https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "The Dumb Song",
+      "url": "https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv"
+    },
+    {
       "added_at": "2023-04-14 04:07:54",
       "album": {
         "name": "Bad For Me (feat. Teddy Swims)",
@@ -1667,22 +1683,6 @@
       "duration_ms": 213283,
       "name": "Bad For Me (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "The Dumb Song",
-        "url": "https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "The Dumb Song",
-      "url": "https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -2143,18 +2143,18 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "I Don't Miss You",
-        "url": "https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp"
+        "name": "Simple Things (Piano Version)",
+        "url": "https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz"
       },
       "artists": [
         {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 217133,
-      "name": "I Don't Miss You",
-      "url": "https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs"
+      "duration_ms": 179043,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/3qTnncgYlMT0k0Z0prgUgD"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -2179,18 +2179,18 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Simple Things (Piano Version)",
-        "url": "https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz"
+        "name": "I Don't Miss You",
+        "url": "https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
         }
       ],
-      "duration_ms": 179043,
-      "name": "Simple Things",
-      "url": "https://open.spotify.com/track/3qTnncgYlMT0k0Z0prgUgD"
+      "duration_ms": 217133,
+      "name": "I Don't Miss You",
+      "url": "https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Like A Saviour",
-        "url": "https://open.spotify.com/album/0bAL4OMaZIgjmUH3j7q6kb"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 220403,
-      "name": "Like A Saviour",
-      "url": "https://open.spotify.com/track/5aNjxmDikP3zGMHfO9dop5"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "YESSIE",
         "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 183895,
       "name": "ONLY ONE",
       "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Like A Saviour",
+        "url": "https://open.spotify.com/album/0bAL4OMaZIgjmUH3j7q6kb"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 220403,
+      "name": "Like A Saviour",
+      "url": "https://open.spotify.com/track/5aNjxmDikP3zGMHfO9dop5"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -2563,22 +2563,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "golden years",
-        "url": "https://open.spotify.com/album/09knoNCuy7aCw2Ze6g5lBt"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 169744,
-      "name": "golden years",
-      "url": "https://open.spotify.com/track/4xP5bdGofMzMQyH1TDFPp8"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Green Eyes",
         "url": "https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz"
       },
@@ -2591,6 +2575,22 @@
       "duration_ms": 150180,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "golden years",
+        "url": "https://open.spotify.com/album/09knoNCuy7aCw2Ze6g5lBt"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 169744,
+      "name": "golden years",
+      "url": "https://open.spotify.com/track/4xP5bdGofMzMQyH1TDFPp8"
     },
     {
       "added_at": "2023-04-14 04:07:54",

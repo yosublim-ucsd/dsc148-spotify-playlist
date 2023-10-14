@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-90 songs - 5 hr 33 min
+91 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Close To You](https://open.spotify.com/track/5NFCZQEma4ll0SD00lS6FQ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Close To You](https://open.spotify.com/album/5IQSHIPD6Z8EBTTjHI8uUM) | 3:23 | 2023-08-11 | 2023-10-11 |
 | [Damage](https://open.spotify.com/track/3uYo9KXhl2N2RAAKA9XN9h) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Damage](https://open.spotify.com/album/5N1qmRfrSS7gCfZLcps7tI) | 2:57 | 2023-09-15 |  |
 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY) | 2:27 | 2023-10-06 |  |
-| [Dark Water](https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [JESSCA](https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9) | [Dark Water](https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK) | 3:26 | 2023-09-01 |  |
+| [Dark Water](https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [JESSCA](https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9) | [Dark Water](https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK) | 3:26 | 2023-09-01 | 2023-10-14 |
 | [Desire \(with Sam Smith\) \- Hannah Laing Remix](https://open.spotify.com/track/5fMCZVkIvrx6sF0oZhfFYG) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Desire \(with Sam Smith\) \[Hannah Laing Remix\]](https://open.spotify.com/album/2Vg83qJEzQy2iaRF5kF4fb) | 3:08 | 2023-09-15 |  |
 | [Devotion \- Show Me Love 2023 Techno Mix \- Radio Edit](https://open.spotify.com/track/5CgfZ4a0Ja2m8BoHfLqvJ0) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Devotion](https://open.spotify.com/album/5eYUa4zesuZMPPTK25IRdb) | 3:50 | 2023-08-25 |  |
 | [Diamonds On My Mind](https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Diamonds On My Mind](https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs) | 2:48 | 2023-08-25 |  |
@@ -63,6 +63,7 @@
 | [No Guestlist \(feat\. Angelala\)](https://open.spotify.com/track/4RFrq3f4QrVORVgo8V633v) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Angelala](https://open.spotify.com/artist/5CJ01auuddLMVSm1dKCOys) | [No Guestlist \(feat\. Angelala\)](https://open.spotify.com/album/207i0ymIRSh6PCZY9UrDm7) | 4:51 | 2023-08-11 | 2023-09-20 |
 | [Novaacation \(Solomun Remix\)](https://open.spotify.com/track/69V3ab9N7fahkgWc4vLddT) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Novaacation \(Solomun Remix\)](https://open.spotify.com/album/6aVjBTKbhhhjAN4OlEUzvd) | 3:41 | 2023-08-11 | 2023-09-02 |
 | [On Off](https://open.spotify.com/track/4scUsV40AYlpiXCb4s7UnN) | [Cirez D](https://open.spotify.com/artist/31f4Ougr0lpsDrxigwV3TB) | [On Off / Fast Forward](https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9) | 9:07 | 2023-08-11 | 2023-08-19 |
+| [One Pill](https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [One Pill](https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio) | 3:37 | 2023-10-13 |  |
 | [One Time](https://open.spotify.com/track/5Sq0xF5p4Wf8Cma4u8RLkp) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [One Time](https://open.spotify.com/album/4fd1UTfFav8SWtQyIcuUIu) | 3:36 | 2023-08-11 | 2023-08-26 |
 | [OPEN YOUR MIND](https://open.spotify.com/track/6zQ2emOrf68vYJiaQxwJNV) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [CRESCENDO](https://open.spotify.com/album/2WAxjTUkv403ujorGiYcOE) | 3:25 | 2023-08-11 | 2023-08-30 |
 | [Otherside](https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Otherside](https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG) | 3:30 | 2023-08-18 | 2023-09-04 |

@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-537 songs - 1 day 5 hr 29 min
+538 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [D4U \- Spotify Singles](https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \- Spotify Singles](https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj) | 2:40 | 2022-10-19 | 2023-07-15 |
 | [Dance With Me](https://open.spotify.com/track/5TdzPzC6hlBT5cofaaqybi) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 3:20 | 2023-04-28 | 2023-06-03 |
 | [Dancing](https://open.spotify.com/track/6x1jUK7H6qZVS265OCnlVw) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Endless Summer](https://open.spotify.com/album/1i1hnI5ABCJE0CbbLsuIL1) | 4:05 | 2021-12-15 | 2022-04-08 |
-| [Dancing in My Room](https://open.spotify.com/track/3kRNoUvagaaJF1xCgdNRgH) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [KALENA](https://open.spotify.com/artist/2HMhMpGsN9POmGXvvN1WZB) | [Dancing in My Room](https://open.spotify.com/album/022Ax0SL7UAnIRSvyF220j) | 3:38 | 2023-07-14 |  |
+| [Dancing in My Room](https://open.spotify.com/track/3kRNoUvagaaJF1xCgdNRgH) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [KALENA](https://open.spotify.com/artist/2HMhMpGsN9POmGXvvN1WZB) | [Dancing in My Room](https://open.spotify.com/album/022Ax0SL7UAnIRSvyF220j) | 3:38 | 2023-07-14 | 2023-10-14 |
 | [Dawn Rise](https://open.spotify.com/track/6TOqU9kVOg0Z16EEN3FKOm) | [Colton Bryan](https://open.spotify.com/artist/1x9dy0YY8U7OAbT3opvFjO) | [Dawn Rise](https://open.spotify.com/album/4fRgWwUzS0uadgSBXdRJMH) | 3:30 | 2021-12-15 | 2022-10-19 |
 | [Day by Day \- A COLORS SHOW](https://open.spotify.com/track/0Da3eqAgSgLp4UiVdCjJJ1) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Day by Day \- A COLORS SHOW](https://open.spotify.com/album/7vggzM9Ag5clwyHjXuZU8F) | 3:50 | 2023-09-29 |  |
 | [Daydream](https://open.spotify.com/track/57OukQCxwo81b1v9B7iuhg) | [Cariss Auburn](https://open.spotify.com/artist/2ufvSyz0aDtPdSTzB6a3b1) | [Daydream](https://open.spotify.com/album/5zUC2dAZOqF34yXVNI6g91) | 3:16 | 2021-12-15 | 2022-06-11 |
@@ -459,6 +459,7 @@
 | [Such A Thing](https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Marigold](https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz) | 3:25 | 2023-02-12 |  |
 | [SULA \(Paperback\)](https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s) | 4:15 | 2022-06-30 | 2023-05-03 |
 | [SULA \(Paperback\)](https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/01JhAnnK43SleFCNaVeJXK) | 4:15 | 2021-12-15 | 2022-07-29 |
+| [Summer Breeze](https://open.spotify.com/track/1fdIUHd0XFHyuwp0Uhgquw) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Summer Breeze](https://open.spotify.com/album/3xrqOcvw6PfsXkJEgfz1Cu) | 3:42 | 2023-10-13 |  |
 | [Summertime \- A COLORS SHOW](https://open.spotify.com/track/6Gd9Zzs5d7uALsKynGPwPn) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Summertime \- A COLORS SHOW](https://open.spotify.com/album/3E9rsZe9HelvPAH66q6U6L) | 3:35 | 2023-09-22 |  |
 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 | 2022-06-30 | 2023-08-26 |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2022-09-02 | 2022-09-17 |

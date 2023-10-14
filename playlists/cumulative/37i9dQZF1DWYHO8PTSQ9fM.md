@@ -2,7 +2,7 @@
 
 ### [Hot Hits Maghreb](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment sont ici\. Cover : Morad, Jul
+> Les hits du moment sont ici\. Cover : Lartiste
 
 216 songs - 11 hr 51 min
 

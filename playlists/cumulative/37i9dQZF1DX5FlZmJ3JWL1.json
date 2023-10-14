@@ -388,7 +388,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 152812,
       "name": "Energy (feat. Bay-C)",
       "url": "https://open.spotify.com/track/3gEeuIgoPgU592HYvgn0wn"
@@ -472,6 +472,32 @@
       "duration_ms": 113149,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/07QCSa14E5bfOOkTXR7oLD"
+    },
+    {
+      "album": {
+        "name": "I Can Feel",
+        "url": "https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        },
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173360,
+      "name": "I Can Feel",
+      "url": "https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR"
     },
     {
       "album": {
@@ -706,7 +732,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 234285,
       "name": "Make U SWEAT!",
       "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
@@ -1038,6 +1064,24 @@
       "duration_ms": 137459,
       "name": "Superlike",
       "url": "https://open.spotify.com/track/1TOyDhSmtMZGZ66QUo74P0"
+    },
+    {
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132700,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"
     },
     {
       "album": {

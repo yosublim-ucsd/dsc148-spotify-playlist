@@ -4868,7 +4868,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 215593,
       "name": "Empty Feeling",
       "url": "https://open.spotify.com/track/2tSj6yeWccdNqMB634vLaZ"
@@ -6460,7 +6460,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 269249,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
@@ -7289,6 +7289,24 @@
     },
     {
       "album": {
+        "name": "Popsicle Obstacle",
+        "url": "https://open.spotify.com/album/3oQkuW371JRV2E917TSXIL"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Hem\u015fin",
+      "url": "https://open.spotify.com/track/0vyqDKbqhQUUmIeEtiwHiR"
+    },
+    {
+      "album": {
         "name": "Her Eyes Were Red",
         "url": "https://open.spotify.com/album/3xOXVCRs89rvxO1YPgPUj2"
       },
@@ -7673,6 +7691,32 @@
     },
     {
       "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2zS0XSliGnWyRc3mqBmZdq"
+      },
+      "artists": [
+        {
+          "name": "Love Language",
+          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
+        },
+        {
+          "name": "James Patterson",
+          "url": "https://open.spotify.com/artist/154uf79BQbw6Q4C5dPzWdW"
+        },
+        {
+          "name": "Apollo Xo",
+          "url": "https://open.spotify.com/artist/42Xhy0DeyUkNP8iQGnSG3T"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167639,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/5SfOiw8SfnZhCRRARbMiRa"
+    },
+    {
+      "album": {
         "name": "Hot Air Balloon",
         "url": "https://open.spotify.com/album/6EJ1P7VMwVUDyexKyA2X1W"
       },
@@ -7950,6 +7994,24 @@
       "duration_ms": 299687,
       "name": "I Been Young",
       "url": "https://open.spotify.com/track/54rNIPcl3M51J42P1C7NNX"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249012,
+      "name": "I Can Make It",
+      "url": "https://open.spotify.com/track/4ruM7ZgntoMNIj5pm0tARQ"
     },
     {
       "album": {
@@ -10368,7 +10430,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 224270,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/1l0SWEZS3M7MaVf0765yah"
@@ -11673,6 +11735,24 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/6oaWJD1A4bgpiqNWvp0mwk"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205026,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3dyI5XL7jMz905RsJiGDjf"
+    },
+    {
+      "album": {
         "name": "MORE LOVE",
         "url": "https://open.spotify.com/album/1gK6Yfs4kPhbHn1JvAGMfT"
       },
@@ -11728,6 +11808,24 @@
       "duration_ms": 146240,
       "name": "Mosquito",
       "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
+    },
+    {
+      "album": {
+        "name": "Moth Love",
+        "url": "https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202391,
+      "name": "Moth Love",
+      "url": "https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA"
     },
     {
       "album": {
@@ -12535,6 +12633,32 @@
     },
     {
       "album": {
+        "name": "Now U Do (Carlita Remix)",
+        "url": "https://open.spotify.com/album/7t88wDCAJBUW98FDo1imXi"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213847,
+      "name": "Now U Do (Carlita Remix) - Edit",
+      "url": "https://open.spotify.com/track/4npDRstA1cZPDshgtC3mvv"
+    },
+    {
+      "album": {
         "name": "Now U Do",
         "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
       },
@@ -12696,7 +12820,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 219200,
       "name": "Oj & prosecco",
       "url": "https://open.spotify.com/track/10gQM8CRmJoGpID7nEa0yi"
@@ -13262,7 +13386,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 248976,
       "name": "Para Casa",
       "url": "https://open.spotify.com/track/19I8hpaVjfA47n4RAMuRQi"
@@ -17526,7 +17650,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 228091,
       "name": "Through My Teeth",
       "url": "https://open.spotify.com/track/5yPQydEFlztCWLs9vzf0lA"

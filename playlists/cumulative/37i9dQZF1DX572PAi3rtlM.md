@@ -2,9 +2,9 @@
 
 ### [Italian Sunset](https://open.spotify.com/playlist/37i9dQZF1DX572PAi3rtlM)
 
-> Italian funk, disco and jazz, recent and old—to listen to while you have aperitivo on a rooftop, ideally 🌅
+> Italian funk, disco and jazz, recent and old\. Hand\-picked by actual Italians\. 🌙
 
-284 songs - 22 hr 23 min
+285 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Morning Shift](https://open.spotify.com/track/0DtvmA9qyTtrcCW4CcobHl) | [Project Pablo](https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko) | [Scented Trip](https://open.spotify.com/album/1c9o8AiaQTSCCmJw81GRxO) | 6:20 | 2021-09-01 | 2022-10-05 |
 | [Most Precious Love](https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s) | [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [RE//CHOIRED](https://open.spotify.com/album/5JMcyXM7mWafx7jpT7XQka) | 3:54 | 2021-09-01 | 2023-09-08 |
 | [Motion](https://open.spotify.com/track/4jeQnCp9IL3pbLPn0UjLmh) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Motion](https://open.spotify.com/album/2R9a1Kl1u7OT9WlUjVyvVd) | 2:28 | 2023-06-30 | 2023-09-08 |
+| [Motivo di Giorgia](https://open.spotify.com/track/6v77gXfHDNgbVqFbVN5MD7) | [Fred Bongusto](https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly) | [Gli ordini sono ordini \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3kBJUgj279LsOfO13mrhOe) | 1:20 | 2023-10-13 |  |
 | [Music Trance](https://open.spotify.com/track/3iLXg9PLuHxFNGQrNv2vlZ) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Music Trance](https://open.spotify.com/album/7gr9gLflbW5DrgGQB9kcen) | 5:56 | 2021-09-01 | 2022-07-29 |
 | [Musica leggerissima \- Ceri Remix](https://open.spotify.com/track/7Lgy02MHyCl4iOMkpv9iJJ) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g), [Ceri](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Musica leggerissima \(Remixes\)](https://open.spotify.com/album/6DZeYzqD1i6EmBwKOG6fvh) | 5:10 | 2023-10-01 |  |
 | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo) | 4:30 | 2021-09-01 | 2023-03-07 |

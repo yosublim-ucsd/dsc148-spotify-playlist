@@ -1797,6 +1797,32 @@
     },
     {
       "album": {
+        "name": "ANASAINO KAI ZALIZOMAI",
+        "url": "https://open.spotify.com/album/2UgIdLydL04XUygE4rqF6j"
+      },
+      "artists": [
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158085,
+      "name": "ANASAINO KAI ZALIZOMAI",
+      "url": "https://open.spotify.com/track/0Wl2xRQZH2c5GdYLJIGCaN"
+    },
+    {
+      "album": {
         "name": "ANETOI",
         "url": "https://open.spotify.com/album/1qmfkG5HrpJEzV437Elx1V"
       },
@@ -2450,7 +2476,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 166200,
       "name": "AXARISTI",
       "url": "https://open.spotify.com/track/6NddoCdcG3lrzL4q30Wo5F"
@@ -2754,6 +2780,28 @@
       "duration_ms": 180000,
       "name": "Bar",
       "url": "https://open.spotify.com/track/0vDBi13nyH5IA0bE6j8oV1"
+    },
+    {
+      "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/5ljOcnoiccIAFXtAsorfAc"
+      },
+      "artists": [
+        {
+          "name": "ROPEX LATERIO",
+          "url": "https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126681,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/1Mo0mUoAJ15QaYRYjlcI2Y"
     },
     {
       "album": {
@@ -9128,7 +9176,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -9268,6 +9316,28 @@
       "duration_ms": 174705,
       "name": "G Walk",
       "url": "https://open.spotify.com/track/73K6ImdHp46q6BfNXBi2MQ"
+    },
+    {
+      "album": {
+        "name": "G63",
+        "url": "https://open.spotify.com/album/3KGGiWYENInpJNNaTdSqPT"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204950,
+      "name": "G63",
+      "url": "https://open.spotify.com/track/0WvuEJoLBHWUiDg2lsvYH8"
     },
     {
       "album": {
@@ -15776,7 +15846,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 161612,
       "name": "MAYA",
       "url": "https://open.spotify.com/track/0TsD4iSubzoyfG0RcfWIHR"

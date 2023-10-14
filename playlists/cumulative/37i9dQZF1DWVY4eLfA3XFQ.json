@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring John Summit & VLTRA ",
+  "description": "Tech house technicians, featuring Idris Elba & Sasha GiGi",
   "name": "Operator",
   "tracks": [
     {
@@ -2942,7 +2942,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 200314,
       "name": "Buenas Noches",
       "url": "https://open.spotify.com/track/1BlPQs0VPOI926x7ighmjr"
@@ -5670,6 +5670,24 @@
       "duration_ms": 158000,
       "name": "Domino (feat. Oxia)",
       "url": "https://open.spotify.com/track/1TepyN2GXukyc6wo3kTFMO"
+    },
+    {
+      "album": {
+        "name": "Don Julio",
+        "url": "https://open.spotify.com/album/7hb7VPTh4LMlTIBAy3x32Y"
+      },
+      "artists": [
+        {
+          "name": "Shaded",
+          "url": "https://open.spotify.com/artist/2xKTuI2Nl32OaYyDndSB3S"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188457,
+      "name": "Don Julio",
+      "url": "https://open.spotify.com/track/64b44rQbKFCG6zVwJ2qDAk"
     },
     {
       "album": {
@@ -9910,7 +9928,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 168280,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/1vUZJ35SGzEtmlgb0ts81v"
@@ -12085,6 +12103,24 @@
     },
     {
       "album": {
+        "name": "La Gente",
+        "url": "https://open.spotify.com/album/1yMQ7a4fay6bmaCKDS6Q7a"
+      },
+      "artists": [
+        {
+          "name": "ESSED",
+          "url": "https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192230,
+      "name": "La Gente",
+      "url": "https://open.spotify.com/track/0lZmmbkXLmfzGzk4eQOWkq"
+    },
+    {
+      "album": {
         "name": "La La La",
         "url": "https://open.spotify.com/album/39uV0vJiStSIuebZ1nDma8"
       },
@@ -12790,7 +12826,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 168960,
       "name": "Like That (feat. Tyler Graves)",
       "url": "https://open.spotify.com/track/0TTMHvVELhQrH1Hit65Yc6"
@@ -16519,6 +16555,28 @@
     },
     {
       "album": {
+        "name": "Ooh LALA",
+        "url": "https://open.spotify.com/album/6YNwQIGlbGbHdgGH0aucVs"
+      },
+      "artists": [
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Sasha GiGi",
+          "url": "https://open.spotify.com/artist/49Gce8amMAHaw4B0Jfb8i5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163048,
+      "name": "Ohh LALA",
+      "url": "https://open.spotify.com/track/41LNU3imoWigrWUGkHKzLH"
+    },
+    {
+      "album": {
         "name": "Oiga Morena",
         "url": "https://open.spotify.com/album/6LjF97ZQem85Iq4iavJt7q"
       },
@@ -18166,6 +18224,28 @@
       "duration_ms": 191612,
       "name": "Pouring Rain",
       "url": "https://open.spotify.com/track/5Dr69idwPV2vBivHWuK0bO"
+    },
+    {
+      "album": {
+        "name": "TWO TIMES / POW POW",
+        "url": "https://open.spotify.com/album/62vHTzbctOjgewvYG4T0Ht"
+      },
+      "artists": [
+        {
+          "name": "Hank K",
+          "url": "https://open.spotify.com/artist/7e6V4iJruHMPbTniZOeITW"
+        },
+        {
+          "name": "Stoley",
+          "url": "https://open.spotify.com/artist/3zhrErhSD05oqdDKVs8UVR"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173858,
+      "name": "POW POW",
+      "url": "https://open.spotify.com/track/4QJ2ASFKKd8lb3YJpSvzXm"
     },
     {
       "album": {
@@ -23194,7 +23274,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 156923,
       "name": "The Master",
       "url": "https://open.spotify.com/track/7lFrPi52k2FgW2C5DbmTvk"

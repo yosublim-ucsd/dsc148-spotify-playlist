@@ -1,33 +1,13 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 907480,
+  "num_followers": 907387,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjFjODgxYzZiYzVlMzM0MDg3ODQ3YmRmMThiM2Q3NGQ5NTFhZTUx",
+  "snapshot_id": "MCw3YTc1ODFlZDVkN2UwNTIxYWMxNTQwNTkxZTViMDJiNThlZjE3ODVi",
   "tracks": [
-    {
-      "added_at": "2023-09-19 17:00:00",
-      "album": {
-        "name": "Inner Light",
-        "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 257984,
-      "name": "Inner Light",
-      "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
-    },
     {
       "added_at": "2023-09-19 17:00:00",
       "album": {
@@ -51,6 +31,26 @@
       "duration_ms": 134400,
       "name": "Echo",
       "url": "https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj"
+    },
+    {
+      "added_at": "2023-09-19 17:00:00",
+      "album": {
+        "name": "Inner Light",
+        "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 257984,
+      "name": "Inner Light",
+      "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
     },
     {
       "added_at": "2023-09-19 17:00:00",

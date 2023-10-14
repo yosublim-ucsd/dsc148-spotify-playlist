@@ -1,13 +1,29 @@
 {
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Cleo Sol",
-  "num_followers": 2356699,
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Naomi Sharon",
+  "num_followers": 2354456,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzExMjk1MzYyYTc0OTZmYzMwYWY2MTQ0ZThkNTMwZDc4MDY1YmQ1",
+  "snapshot_id": "MCxmODgxYWNkMDE0NmU5ZWM5ODI2YTNiMjY3NzkyYmUzZTZhMTMxNWYz",
   "tracks": [
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Regardless",
+        "url": "https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 189257,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
+    },
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
@@ -151,6 +167,22 @@
       "duration_ms": 184089,
       "name": "Bahamas Promises",
       "url": "https://open.spotify.com/track/3JZjcKImHcmOI9ylL4zrSc"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "From A Woman",
+        "url": "https://open.spotify.com/album/41EnEbv52wuUZLFOdXH1d8"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 182072,
+      "name": "From A Woman",
+      "url": "https://open.spotify.com/track/6x4z51Q0PBhSs8NoGbJ5wk"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -307,6 +339,26 @@
       "duration_ms": 236236,
       "name": "Go Baby",
       "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/3xrqOcvw6PfsXkJEgfz1Cu"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Rosie Lowe",
+          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+        }
+      ],
+      "duration_ms": 222518,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/1fdIUHd0XFHyuwp0Uhgquw"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -487,6 +539,34 @@
       "duration_ms": 218794,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "311!",
+        "url": "https://open.spotify.com/album/0FW36xz6JNy9uIFx9TOWs3"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        },
+        {
+          "name": "sneek",
+          "url": "https://open.spotify.com/artist/6O4EoU7wO1VU8yAEhbIii5"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper & Keyon Harrold",
+          "url": "https://open.spotify.com/artist/0PWMzZR4AE7UW9ypDiXVbJ"
+        }
+      ],
+      "duration_ms": 206856,
+      "name": "311!",
+      "url": "https://open.spotify.com/track/4tQPhI1lvsqsyqT7AOwwdG"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1267,22 +1347,6 @@
       "duration_ms": 151266,
       "name": "311 (with Gwen Bunn)",
       "url": "https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Intentional",
-        "url": "https://open.spotify.com/album/1Q9sstiNguU45sRy8I8iXa"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 194235,
-      "name": "Intentional",
-      "url": "https://open.spotify.com/track/38jhsyeLF4zr4P5I6dMeSq"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2111,22 +2175,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "ODEE",
-        "url": "https://open.spotify.com/album/2kELEjzqyXH1dZbeSC8bBx"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "ODEE",
-      "url": "https://open.spotify.com/track/1DJLf5CTIbjI8gPqfZZ6Wj"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Caught Me Running",
         "url": "https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP"
       },
@@ -2268,7 +2316,7 @@
       "added_at": "2023-09-15 04:00:00",
       "album": {
         "name": "Eve Gene",
-        "url": "https://open.spotify.com/album/2hb1EQDUBqVOaKwJCwW44X"
+        "url": "https://open.spotify.com/album/6ZiVCsS6PHMDOIAHZ0JXUl"
       },
       "artists": [
         {
@@ -2282,7 +2330,7 @@
       ],
       "duration_ms": 198425,
       "name": "Eve Gene",
-      "url": "https://open.spotify.com/track/0B5RsEt6AbLQJhgJxWfN9O"
+      "url": "https://open.spotify.com/track/6eKpk5wa0sP4YgjoI1psFX"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2299,22 +2347,6 @@
       "duration_ms": 284266,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/2JydmjbQ7nGdVI6HbumkLA"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "THE SOUTHWESTERN LOVE SONGS",
-        "url": "https://open.spotify.com/album/5bEzUVfVCPMcVI1WQ4iMyM"
-      },
-      "artists": [
-        {
-          "name": "C.S. Armstrong",
-          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "ANGEL",
-      "url": "https://open.spotify.com/track/30s0R1Kz4E3yIDaZFxvTwc"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2583,26 +2615,6 @@
       "duration_ms": 211283,
       "name": "TMF",
       "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "I've Been Waiting",
-        "url": "https://open.spotify.com/album/6cREBSkIEgQ8fxi2NbpfF0"
-      },
-      "artists": [
-        {
-          "name": "Iman Omari",
-          "url": "https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4"
-        },
-        {
-          "name": "Tarriona 'Tank' Ball",
-          "url": "https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN"
-        }
-      ],
-      "duration_ms": 187370,
-      "name": "I've Been Waiting",
-      "url": "https://open.spotify.com/track/2oRGtL4mO7TyYmVt2davbf"
     },
     {
       "added_at": "2023-09-15 04:00:00",

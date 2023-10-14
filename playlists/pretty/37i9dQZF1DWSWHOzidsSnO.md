@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! En portada Briella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,859 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,848 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 13 | [Y Volviste a Decir Te Amo](https://open.spotify.com/track/4FcNsNaqbJ9SC1lZyojqRw) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Y Volviste a Decir Te Amo](https://open.spotify.com/album/1zuAyb93adWHd6mp1Vy3HG) | 3:46 |
 | 14 | [Lento](https://open.spotify.com/track/1UT81mWIvNdng0hb2qvHlL) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Lento](https://open.spotify.com/album/6kxkdZth2jAn69eCMbjpL2) | 2:55 |
 | 15 | [Imágenes](https://open.spotify.com/track/53JvAzn6rIzHFkAE4MnMQO) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Imágenes](https://open.spotify.com/album/6EMkMek4awK6MwOeazX9Z7) | 5:00 |
-| 16 | [Cherokee](https://open.spotify.com/track/3TTdOAcCkDVru1F7QBK5xX) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cherokee](https://open.spotify.com/album/1AEQlsM7i3sn1evI9WKEJh) | 4:07 |
+| 16 | [La Loca](https://open.spotify.com/track/2sAelBo4scm2sS1HD6I1AB) | [Natalia Curvelo](https://open.spotify.com/artist/6RB9VgLciQKqdvLt2ZiMYX) | [1er Round](https://open.spotify.com/album/3oHg8DBYXPpjB3nMxUDWSP) | 3:25 |
 | 17 | [Estrella Fugaz](https://open.spotify.com/track/4ono3Yv2pkKMHOyhGR3XLW) | [Isabel Garcés](https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY) | [Estrella Fugaz](https://open.spotify.com/album/0U4CGswPa88DuTdtQojlBs) | 2:53 |
-| 18 | [Todo Está Mejor](https://open.spotify.com/track/5ZmrL31FPhN19ZkrmeP0pX) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [29:56](https://open.spotify.com/album/537tRWbun6NLMqSrvLb9Rl) | 3:23 |
-| 19 | [Fuego](https://open.spotify.com/track/1Vyn9k1jYzQj9CJAwY3wWl) | [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv) | [Fuego](https://open.spotify.com/album/7Ib1ipLvdkWJPPbKBXdryk) | 2:51 |
-| 20 | [Lo Que Me Harías En Otra Parte](https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [A Contraluz](https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN) | 2:40 |
-| 21 | [DE LOS 90](https://open.spotify.com/track/5fcFq7JS7C68rbikZceuJd) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [DE LOS 90](https://open.spotify.com/album/1hWPmZie5B0qOC5JZD48Ox) | 1:58 |
-| 22 | [Usted Ya Perdió](https://open.spotify.com/track/4QSapki0YhY3b1Wc1E49Ic) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t) | [Usted Ya Perdió](https://open.spotify.com/album/2sNQVKaUadzfu2fm6AI3HQ) | 3:00 |
+| 18 | [Cherokee](https://open.spotify.com/track/3TTdOAcCkDVru1F7QBK5xX) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cherokee](https://open.spotify.com/album/1AEQlsM7i3sn1evI9WKEJh) | 4:07 |
+| 19 | [Todo Está Mejor](https://open.spotify.com/track/5ZmrL31FPhN19ZkrmeP0pX) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [29:56](https://open.spotify.com/album/537tRWbun6NLMqSrvLb9Rl) | 3:23 |
+| 20 | [Fuego](https://open.spotify.com/track/1Vyn9k1jYzQj9CJAwY3wWl) | [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv) | [Fuego](https://open.spotify.com/album/7Ib1ipLvdkWJPPbKBXdryk) | 2:51 |
+| 21 | [Lo Que Me Harías En Otra Parte](https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [A Contraluz](https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN) | 2:40 |
+| 22 | [DE LOS 90](https://open.spotify.com/track/5fcFq7JS7C68rbikZceuJd) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [DE LOS 90](https://open.spotify.com/album/1hWPmZie5B0qOC5JZD48Ox) | 1:58 |
 | 23 | [Así De Simple](https://open.spotify.com/track/0uwFYmzl08pS4XOmNRnTWo) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Así De Simple](https://open.spotify.com/album/0SOdrZudNfMThST5GBTzGT) | 3:09 |
 | 24 | [Échale Fuego](https://open.spotify.com/track/0GGFWgHZe4v1dXfHMypHwd) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv), [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [Échale Fuego](https://open.spotify.com/album/2UGtJRRI2WWkxibKaGqMAO) | 3:00 |
 | 25 | [La América Que Se Olvida](https://open.spotify.com/track/0AGZs1EHZGQWsgECcEXPyr) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [La América Que Se Olvida](https://open.spotify.com/album/6ORkGUSMv5j55oFy90JxzV) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 74 | [El Favorcito](https://open.spotify.com/track/4nHJp4ynAQQZgSlurkpBen) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Canciones Crudas](https://open.spotify.com/album/047ARD5KCqUWxg11bIll8Q) | 3:28 |
 | 75 | [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 |
 
-Snapshot ID: `MCxmOThkYzI2Zjc5OTE3ZjJjOWE3OWNkODliMWJkNWJhYTVjYmRmZGQ0`
+Snapshot ID: `MCw4YmFkMTRjYTcxMGUxMTQwYWRhOTNlYjRmYjQ2YzRjMTA5Yzk0NDZh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,588 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,742 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 49 | [Ginger](https://open.spotify.com/track/6GrdwAWFl91NXRxOZCgeRE) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:22 |
 | 50 | [あい？あい？あい？あい？愛してる？](https://open.spotify.com/track/4sv3z32nLuL8eS7fOyG35C) | [Usotsuki](https://open.spotify.com/artist/4HijwY5cSVJWGk3LxPka6q) | [あい？あい？あい？あい？愛してる？](https://open.spotify.com/album/0LX5DFlBOvLZ0o6gQltRVD) | 3:29 |
 
-Snapshot ID: `MCxjODgyZjEzZWFjNDlhNTJiYjI2N2U4ODYwZGJlNmM1Y2IyNTBjOGYy`
+Snapshot ID: `MCxhZmY5NjVhMzMyYTRlMDMyZmI5MjhhYjNmMzAxZDZjZmUwY2I4NGYw`

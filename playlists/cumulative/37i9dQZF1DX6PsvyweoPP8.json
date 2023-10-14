@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 172439,
       "name": "10Min",
       "url": "https://open.spotify.com/track/4o7Eankd4tED31C2Bkw3U3"
@@ -102,7 +102,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 215520,
       "name": "2 Minutos",
       "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
@@ -1231,6 +1231,32 @@
     },
     {
       "album": {
+        "name": "DOMINICANA",
+        "url": "https://open.spotify.com/album/7mdplTcZJQnNK2KzR2sVco"
+      },
+      "artists": [
+        {
+          "name": "Kloe",
+          "url": "https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5"
+        },
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136258,
+      "name": "DOMINICANA",
+      "url": "https://open.spotify.com/track/5tOoWYZ0G9YFqiteziCtzI"
+    },
+    {
+      "album": {
         "name": "Donna",
         "url": "https://open.spotify.com/album/4DrdUrDSHBVUIYPQdfI69r"
       },
@@ -1250,7 +1276,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 175714,
       "name": "Donna",
       "url": "https://open.spotify.com/track/067KY7gyzPgB2dEOhqlqhT"
@@ -2174,7 +2200,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 177706,
       "name": "Me Instiga",
       "url": "https://open.spotify.com/track/3H5qb1CmqO3vkPUkXqsQ94"
@@ -2436,6 +2462,32 @@
       "duration_ms": 134357,
       "name": "Mundo da Lua",
       "url": "https://open.spotify.com/track/19LPmQKg4LKTla6L9PJQZ4"
+    },
+    {
+      "album": {
+        "name": "Trap The Fato Deluxe",
+        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251428,
+      "name": "NA ONDA",
+      "url": "https://open.spotify.com/track/3lv3FZwHzcHvVIUaqujVey"
     },
     {
       "album": {
@@ -2746,7 +2798,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 140000,
       "name": "Para de Ligar",
       "url": "https://open.spotify.com/track/0sagsQum16aTT2BF0DAE5z"
@@ -2780,6 +2832,28 @@
       "duration_ms": 168298,
       "name": "Paris 6",
       "url": "https://open.spotify.com/track/6YNF9sgteqvAVzglcs0p9k"
+    },
+    {
+      "album": {
+        "name": "Perfumes e Bal\u00e3o",
+        "url": "https://open.spotify.com/album/2bSZIwIoaRPtMoLk7RUKG0"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "L30",
+          "url": "https://open.spotify.com/artist/1BxVqY0zR8ymT4bLg6abA3"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Perfumes e Bal\u00e3o",
+      "url": "https://open.spotify.com/track/79xUCr1UTOigTmCtRCvAea"
     },
     {
       "album": {
@@ -3335,6 +3409,32 @@
     },
     {
       "album": {
+        "name": "NTGM",
+        "url": "https://open.spotify.com/album/5Sq44QGKjP8ogir826OnBb"
+      },
+      "artists": [
+        {
+          "name": "Carlos do Complexo",
+          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177977,
+      "name": "SXO",
+      "url": "https://open.spotify.com/track/4ifS9DM2X27qQE3MDqy7Y2"
+    },
+    {
+      "album": {
         "name": "S\u00f3 por Essa Noite",
         "url": "https://open.spotify.com/album/6TbQKxOD27HGaPDd0PXClr"
       },
@@ -3510,6 +3610,28 @@
       "duration_ms": 169411,
       "name": "Topless",
       "url": "https://open.spotify.com/track/5wJcBm3R1DgaU42b7EpcJd"
+    },
+    {
+      "album": {
+        "name": "T\u00e9 Clarear",
+        "url": "https://open.spotify.com/album/244Z3LNnSTRJJEKMy2mdB9"
+      },
+      "artists": [
+        {
+          "name": "Manocchio",
+          "url": "https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2"
+        },
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185932,
+      "name": "T\u00e9 Clarear",
+      "url": "https://open.spotify.com/track/4LIh2oTtktLnm00tl2yv5y"
     },
     {
       "album": {

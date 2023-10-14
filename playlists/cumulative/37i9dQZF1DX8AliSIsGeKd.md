@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Ben Böhmer, Felix Raphael
 
-2,593 songs - 9 day 14 hr 57 min
+2,594 songs - 9 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1537,6 +1537,7 @@
 | [My Body](https://open.spotify.com/track/1NISyNrwwO4ysIDadFQI1c) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Skreamizm 8](https://open.spotify.com/album/6shH7NYCoBoWks3ddtW848) | 5:29 | 2023-09-15 | 2023-09-29 |
 | [My City's On Fire \- Anyma & Cassian Remix](https://open.spotify.com/track/5ncvfF5zykGdBMsfOKGkhi) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [My City's On Fire \(Anyma & Cassian Remix\)](https://open.spotify.com/album/2YL3vvVlPJlUNG1RaAzYzQ) | 3:19 | 2023-03-09 | 2023-03-31 |
 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 | 2023-08-17 | 2023-09-08 |
+| [My Love for You \(Yebba's Heartbreak\) \- Edit](https://open.spotify.com/track/4IC4M64imsv7BGowdrFEzH) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [My Love for You \(Yebba's Heartbreak\)](https://open.spotify.com/album/2du5nqdaDnYOu3k1yCXbBc) | 3:25 | 2023-10-13 |  |
 | [My Mind](https://open.spotify.com/track/6dKA9TVqMQRlBYdR5rcSpR) | [Kadosh \(IL\)](https://open.spotify.com/artist/3e1Dyl2ZhXliPe3Mls724W), [Floyd Lavine](https://open.spotify.com/artist/5VjxZ6Ik0cmnVlXZ3in6nw), [Erika Krall](https://open.spotify.com/artist/1mFosR8GfDea3Vvdfcz48W) | [My Mind](https://open.spotify.com/album/5KfHfNi0qULYg2NBNlfgOx) | 6:28 | 2022-07-28 | 2022-08-19 |
 | [My Side](https://open.spotify.com/track/0divsMxVl6IIeQKED37E2P) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [My Side](https://open.spotify.com/album/5t3hJ7qxALqDlNltqY54la) | 6:52 | 2023-01-19 | 2023-02-03 |
 | [My Voice](https://open.spotify.com/track/5XpOAMaMpOkyXjCIy9Z04w) | [HOVR](https://open.spotify.com/artist/3OKJ15Et50JhoX1zbf0Cdz) | [Schneeweiss 14: Presented by Oliver Koletzki](https://open.spotify.com/album/58ROoz6HWISF9VQFO0qX15) | 4:42 | 2022-11-25 | 2022-12-09 |

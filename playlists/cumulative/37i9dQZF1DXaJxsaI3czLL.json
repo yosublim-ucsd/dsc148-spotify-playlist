@@ -732,7 +732,7 @@
     {
       "album": {
         "name": "Drawl",
-        "url": "https://open.spotify.com/album/5DTs7RlPryssenWO0ClL0O"
+        "url": "https://open.spotify.com/album/7bM3wfZAD5PRrrTC9IRMDe"
       },
       "artists": [
         {
@@ -743,6 +743,24 @@
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198333,
+      "name": "Drawl",
+      "url": "https://open.spotify.com/track/5E7f6xYsxhDdUzwDWLrs6T"
+    },
+    {
+      "album": {
+        "name": "Drawl",
+        "url": "https://open.spotify.com/album/5DTs7RlPryssenWO0ClL0O"
+      },
+      "artists": [
+        {
+          "name": "tatyn",
+          "url": "https://open.spotify.com/artist/2bGZL8hoNpceJ6rRbflybA"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
       "duration_ms": 198333,
       "name": "Drawl",
       "url": "https://open.spotify.com/track/7un82BeP1sOVI4R8NhQq6p"

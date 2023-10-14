@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,374 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,221 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 59 | [They Came Along](https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [They Came Along](https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5) | 5:57 |
 | 60 | [Think Like I Do](https://open.spotify.com/track/2qjwe0mMqOne5HVFrpvdM8) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH), [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Think Like I Do](https://open.spotify.com/album/43DsyHKkzPdDohddCvOqaX) | 2:54 |
 
-Snapshot ID: `MCwxNWQwODlhYzlhM2E2NjJjZGUxN2Q4MmY3M2Q3MmIzODAzZmRiMDMw`
+Snapshot ID: `MCxkZTkzY2JkYTQ5ZmYzYzRkZjYzNjZmM2RlNDM1MDQyMWY1MWQ1YTNj`

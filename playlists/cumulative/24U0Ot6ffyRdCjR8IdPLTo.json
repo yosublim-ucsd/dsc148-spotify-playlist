@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "the rest",
+        "url": "https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141390,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ"
+    },
+    {
+      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
       },
@@ -707,6 +725,24 @@
     },
     {
       "album": {
+        "name": "I Get Into Trouble",
+        "url": "https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248759,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/2tO1RrlOXyZAMqB0wDybXf"
+    },
+    {
+      "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/1PdRtUkny2sF2Hf1BbHsDU"
       },
@@ -1102,7 +1138,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 257160,
       "name": "Friend",
       "url": "https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe"
@@ -1352,7 +1388,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 172190,
       "name": "Heart of Gold (with Bon Iver)",
       "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
@@ -1962,7 +1998,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 152141,
       "name": "Maybe I\u2019m Lonely",
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
@@ -2361,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229713,
+      "name": "Paint My Bedroom Black",
+      "url": "https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe"
+    },
+    {
+      "album": {
         "name": "Palm Trees",
         "url": "https://open.spotify.com/album/1H4wFGIQ32WkUspkzS9TIp"
       },
@@ -2588,7 +2642,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 196226,
       "name": "Scarlett",
       "url": "https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU"
@@ -2610,6 +2664,24 @@
       "duration_ms": 345133,
       "name": "Self Care",
       "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx"
+    },
+    {
+      "album": {
+        "name": "FRUITLAND",
+        "url": "https://open.spotify.com/album/3VFAIzibNDPKEHs5YIe7mF"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173213,
+      "name": "SEROTONIN",
+      "url": "https://open.spotify.com/track/0e8FYXGHNcmvPwYioFsQOf"
     },
     {
       "album": {
@@ -2972,7 +3044,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
@@ -3248,6 +3320,24 @@
       "duration_ms": 166839,
       "name": "the dog",
       "url": "https://open.spotify.com/track/5HUW7EfyjG6sy6AnYUDGiA"
+    },
+    {
+      "album": {
+        "name": "The New Kid",
+        "url": "https://open.spotify.com/album/0Hs5sLHBaGsh9Bn5AjZN0O"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168235,
+      "name": "The New Kid",
+      "url": "https://open.spotify.com/track/1Ahda2CRcgMBAfKAp9Z7GO"
     },
     {
       "album": {

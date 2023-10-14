@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Classic tunes for the open road. Special selections by Blue Rodeo in time for the long weekend.",
+  "description": "Classic tunes for the open road. ",
   "name": "Canadian Road Trip",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 434053,
       "name": "5 Days in May - 2012 Remaster",
       "url": "https://open.spotify.com/track/5AIcpQ7JFM3DZju7bPqb8t"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 222133,
       "name": "Carefree Highway",
       "url": "https://open.spotify.com/track/59EupkPF0AA5nu0qDo5FlK"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 275573,
       "name": "Countrywide Soul",
       "url": "https://open.spotify.com/track/17eMD63Va1CEI98Bxp0ivP"
@@ -1272,7 +1272,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 248200,
       "name": "Don't Forget Me (When I'm Gone)",
       "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 166583,
       "name": "drive",
       "url": "https://open.spotify.com/track/1POBIDmX5L8lDEQSkO1DBi"
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 297573,
       "name": "Flesh and Blood",
       "url": "https://open.spotify.com/track/5JNQ5leQ1NEZFHQxlojjBt"
@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 293970,
       "name": "Fly At Night (In The Morning We Land)",
       "url": "https://open.spotify.com/track/65P1kWWq2FOig9q2POBD4K"
@@ -1798,7 +1798,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 330226,
       "name": "Further on up the Road (feat. Eric Clapton) - Concert Version",
       "url": "https://open.spotify.com/track/5BqDxx1udS4QhUriDrSJzt"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 241293,
       "name": "Heaven Coming Down",
       "url": "https://open.spotify.com/track/6lOvhkSYAU6xde5BvtWNbB"
@@ -3206,7 +3206,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 233916,
       "name": "Money City Maniacs",
       "url": "https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH"
@@ -3422,7 +3422,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 214133,
       "name": "No Man's Land",
       "url": "https://open.spotify.com/track/3bGmPRMOBQLIOUYfhEeWle"
@@ -3546,7 +3546,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 183853,
       "name": "Not Ready to Go",
       "url": "https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW"
@@ -3690,7 +3690,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 296946,
       "name": "On the Hood",
       "url": "https://open.spotify.com/track/1g82MrdFflRqyHExNxQG0Y"
@@ -4548,7 +4548,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 231333,
       "name": "Skin",
       "url": "https://open.spotify.com/track/2wvW8xOZAD9n0vMuVxUrTl"
@@ -4674,7 +4674,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 223961,
       "name": "So Far Gone",
       "url": "https://open.spotify.com/track/0A3pqTKOrKsJwZe6mlYhK7"
@@ -5146,7 +5146,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 200251,
       "name": "Sweet Sublime",
       "url": "https://open.spotify.com/track/5S4R8KlTV0yWk25RgYIivV"
@@ -5164,7 +5164,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 240613,
       "name": "Sweet Surrender",
       "url": "https://open.spotify.com/track/46ShsS3tyqJAJdxUjPezdI"
@@ -5798,7 +5798,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 171293,
       "name": "Up We Go",
       "url": "https://open.spotify.com/track/2u6CBCGo8outw3ThHk4c4l"
@@ -5964,7 +5964,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 173919,
       "name": "What Do You See?",
       "url": "https://open.spotify.com/track/1subTAioNMipssKxYXXqpv"
@@ -6054,7 +6054,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 259026,
       "name": "Wheat Kings",
       "url": "https://open.spotify.com/track/6s7xf54h0BGyohJHlgMj2J"

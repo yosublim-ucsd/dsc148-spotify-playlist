@@ -1763,6 +1763,28 @@
     },
     {
       "album": {
+        "name": "Chilcott: The Sleeping Child",
+        "url": "https://open.spotify.com/album/2Ul5o881ZwkFPll6XkNMYc"
+      },
+      "artists": [
+        {
+          "name": "Bob Chilcott",
+          "url": "https://open.spotify.com/artist/5Q2lvqropyKbugryLHx8e7"
+        },
+        {
+          "name": "VOCES8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202293,
+      "name": "The Sleeping Child",
+      "url": "https://open.spotify.com/track/5Yy7htu9WwJbB3yfRXNt1q"
+    },
+    {
+      "album": {
         "name": "A Winter's Light: A Christmas Collection",
         "url": "https://open.spotify.com/album/5Mdv6Guj9j0nOqDGPV4KN4"
       },

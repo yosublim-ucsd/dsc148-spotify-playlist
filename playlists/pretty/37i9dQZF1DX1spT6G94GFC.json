@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 2714629,
+  "num_followers": 2714745,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmFiYjg5NTNjYTljNTFhOGUxOTcxZmMzZDg2NzkxYTRjZWE5YzRj",
+  "snapshot_id": "MCw0MDViMDQxOTM1NjExYjY0NDNmNjg3NjRkMWYwNDE4MjM4MzY1NTg3",
   "tracks": [
     {
       "added_at": "2023-01-18 20:58:29",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-01-18 20:58:29",
       "album": {
-        "name": "Moving Pictures (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "Tom Sawyer",
-      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
-    },
-    {
-      "added_at": "2023-01-18 20:58:29",
-      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 212226,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
+    },
+    {
+      "added_at": "2023-01-18 20:58:29",
+      "album": {
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "Tom Sawyer",
+      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
     },
     {
       "added_at": "2023-01-18 20:58:29",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-01-18 20:58:29",
       "album": {
-        "name": "Brothers in Arms",
-        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 506400,
-      "name": "Money for Nothing",
-      "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
-    },
-    {
-      "added_at": "2023-01-18 20:58:29",
-      "album": {
         "name": "Frontiers",
         "url": "https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 323666,
       "name": "Separate Ways (Worlds Apart)",
       "url": "https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2"
+    },
+    {
+      "added_at": "2023-01-18 20:58:29",
+      "album": {
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 506400,
+      "name": "Money for Nothing",
+      "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
     }
   ],
   "unique_name": "80s Rock Anthems",

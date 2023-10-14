@@ -1217,6 +1217,28 @@
     },
     {
       "album": {
+        "name": "Bolero Apocal\u00edptico (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241023,
+      "name": "Cumbia Valiente",
+      "url": "https://open.spotify.com/track/1zVN5qe5Jnqwy4Mb7Nu1Vm"
+    },
+    {
+      "album": {
         "name": "Darlo Todo",
         "url": "https://open.spotify.com/album/5aIMKL9KlsGquyHHBfY5uq"
       },
@@ -1958,7 +1980,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 284413,
       "name": "Ellas",
       "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
@@ -3010,6 +3032,44 @@
       "duration_ms": 386120,
       "name": "Manifiesto (En Vivo)",
       "url": "https://open.spotify.com/track/61sqpcforxRRE1dfiXX3tE"
+    },
+    {
+      "album": {
+        "name": "Marcha de la Bronca",
+        "url": "https://open.spotify.com/album/1lTayCj4BwUzbW0n1PCgge"
+      },
+      "artists": [
+        {
+          "name": "Alambre Gonzalez",
+          "url": "https://open.spotify.com/artist/3oLANiNTf5qyrciZmnPyYU"
+        },
+        {
+          "name": "Sirso Iseas",
+          "url": "https://open.spotify.com/artist/2UlfTzz5PJeBwzvd1G8LHl"
+        },
+        {
+          "name": "Franco Murua",
+          "url": "https://open.spotify.com/artist/0wSVknn6HMgoMa75pnxWfU"
+        },
+        {
+          "name": "Sergio Villar",
+          "url": "https://open.spotify.com/artist/2SXScHCHeC3dciUTXDJ9xT"
+        },
+        {
+          "name": "Daniel Schweizer",
+          "url": "https://open.spotify.com/artist/1pfPha48ritCpwouANtrkc"
+        },
+        {
+          "name": "Zurdo Lucas",
+          "url": "https://open.spotify.com/artist/5WtZW7EdOE2XsU9dqMswH3"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270896,
+      "name": "Marcha de la Bronca",
+      "url": "https://open.spotify.com/track/5KNAiMrpryy2QEKDVooFiv"
     },
     {
       "album": {
@@ -4982,7 +5042,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 230877,
       "name": "Somos Hermanas",
       "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"

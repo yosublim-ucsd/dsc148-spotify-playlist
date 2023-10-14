@@ -1,12 +1,12 @@
 {
   "description": "Happy and uplifting Jazz to get you in a good mood.",
-  "num_followers": 157936,
+  "num_followers": 158056,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjk2MzIxNjNiMzBkZGVlZDllZWFiNjY3M2U3MmQwOTlhYTRlZjVk",
+  "snapshot_id": "MCxlMTU3MWJiZmY3YzE2Mzk1NDBjYzA4MTM1MmM5NTU1MjYxZTZmYTBi",
   "tracks": [
     {
       "added_at": "2023-10-11 11:20:42",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-10-11 11:20:42",
       "album": {
+        "name": "Sun of June",
+        "url": "https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "duration_ms": 306086,
+      "name": "Let Me Take You for a Walk",
+      "url": "https://open.spotify.com/track/1zcCvJeGmcLQFfYHlcDnf1"
+    },
+    {
+      "added_at": "2023-10-11 11:20:42",
+      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 149080,
       "name": "O Pato",
       "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
-    },
-    {
-      "added_at": "2023-10-11 11:20:42",
-      "album": {
-        "name": "Sun of June",
-        "url": "https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4"
-      },
-      "artists": [
-        {
-          "name": "Rikard From",
-          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
-        }
-      ],
-      "duration_ms": 306086,
-      "name": "Let Me Take You for a Walk",
-      "url": "https://open.spotify.com/track/1zcCvJeGmcLQFfYHlcDnf1"
     },
     {
       "added_at": "2023-10-11 11:20:42",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-10-11 11:20:42",
       "album": {
+        "name": "42nd Street Shuffle",
+        "url": "https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "duration_ms": 259786,
+      "name": "42nd Street Shuffle",
+      "url": "https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai"
+    },
+    {
+      "added_at": "2023-10-11 11:20:42",
+      "album": {
         "name": "Cafe Society (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 185666,
       "name": "Let's Do It",
       "url": "https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc"
-    },
-    {
-      "added_at": "2023-10-11 11:20:42",
-      "album": {
-        "name": "42nd Street Shuffle",
-        "url": "https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC"
-      },
-      "artists": [
-        {
-          "name": "Rikard From",
-          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
-        }
-      ],
-      "duration_ms": 259786,
-      "name": "42nd Street Shuffle",
-      "url": "https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai"
     },
     {
       "added_at": "2023-10-11 11:20:42",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-10-11 11:20:42",
       "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 250280,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
-    },
-    {
-      "added_at": "2023-10-11 11:20:42",
-      "album": {
         "name": "A Boy Named Charlie Brown",
         "url": "https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 142680,
       "name": "Oh, Good Grief",
       "url": "https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE"
+    },
+    {
+      "added_at": "2023-10-11 11:20:42",
+      "album": {
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 250280,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
     },
     {
       "added_at": "2023-10-11 11:20:42",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-10-11 11:20:42",
       "album": {
-        "name": "You Can't Lose with the Blues",
-        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
-      },
-      "artists": [
-        {
-          "name": "Lafayette Harris, Jr.",
-          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
-        }
-      ],
-      "duration_ms": 315586,
-      "name": "Wonder Why",
-      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
-    },
-    {
-      "added_at": "2023-10-11 11:20:42",
-      "album": {
         "name": "Witchcraft",
         "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 156546,
       "name": "(How Little It Matters) How Little We Know",
       "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
+    },
+    {
+      "added_at": "2023-10-11 11:20:42",
+      "album": {
+        "name": "You Can't Lose with the Blues",
+        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
+      },
+      "artists": [
+        {
+          "name": "Lafayette Harris, Jr.",
+          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
+        }
+      ],
+      "duration_ms": 315586,
+      "name": "Wonder Why",
+      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
     },
     {
       "added_at": "2023-10-11 11:20:42",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-10-11 11:20:42",
       "album": {
+        "name": "Dinah! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/28EUtXFCY6AuKxFDyLt1Ol"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr"
+    },
+    {
+      "added_at": "2023-10-11 11:20:42",
+      "album": {
         "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
         "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 220373,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/0AoklugadsjYsNpOdidHpF"
-    },
-    {
-      "added_at": "2023-10-11 11:20:42",
-      "album": {
-        "name": "Dinah! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/28EUtXFCY6AuKxFDyLt1Ol"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr"
     },
     {
       "added_at": "2023-10-11 11:20:42",
@@ -1071,6 +1071,22 @@
       "duration_ms": 249480,
       "name": "Stompin' At The Savoy - 1956 Version",
       "url": "https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar"
+    },
+    {
+      "added_at": "2023-10-11 11:20:42",
+      "album": {
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 268173,
+      "name": "I Could Write A Book",
+      "url": "https://open.spotify.com/track/7M3mkGFmV8YMJXcxJ14OJ3"
     },
     {
       "added_at": "2023-10-11 11:20:42",
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2023-10-11 11:20:42",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 268173,
-      "name": "I Could Write A Book",
-      "url": "https://open.spotify.com/track/7M3mkGFmV8YMJXcxJ14OJ3"
-    },
-    {
-      "added_at": "2023-10-11 11:20:42",
-      "album": {
         "name": "Buen Sabor",
         "url": "https://open.spotify.com/album/0d3GbYL99XBllNDr93R4T0"
       },
@@ -1199,6 +1199,22 @@
       "duration_ms": 482592,
       "name": "Dakar",
       "url": "https://open.spotify.com/track/3bQEe78SKsthvH116E12YJ"
+    },
+    {
+      "added_at": "2023-10-11 11:20:42",
+      "album": {
+        "name": "It's Time For Ernestine",
+        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 134973,
+      "name": "Love for Sale",
+      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
     },
     {
       "added_at": "2023-10-11 11:20:42",
@@ -1235,22 +1251,6 @@
       "duration_ms": 152160,
       "name": "I Hear Music - Remastered",
       "url": "https://open.spotify.com/track/65Yy88Liyj4JzcU2gbklgR"
-    },
-    {
-      "added_at": "2023-10-11 11:20:42",
-      "album": {
-        "name": "It's Time For Ernestine",
-        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 134973,
-      "name": "Love for Sale",
-      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
     },
     {
       "added_at": "2023-10-11 11:20:42",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-10-11 11:20:42",
       "album": {
-        "name": "Happy Moods",
-        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
-        }
-      ],
-      "duration_ms": 347453,
-      "name": "Pavanne",
-      "url": "https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB"
-    },
-    {
-      "added_at": "2023-10-11 11:20:42",
-      "album": {
         "name": "September in the Rain",
         "url": "https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 248862,
       "name": "September In The Rain",
       "url": "https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS"
+    },
+    {
+      "added_at": "2023-10-11 11:20:42",
+      "album": {
+        "name": "Happy Moods",
+        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "duration_ms": 347453,
+      "name": "Pavanne",
+      "url": "https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB"
     },
     {
       "added_at": "2023-10-11 11:20:42",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-10-11 11:20:42",
       "album": {
-        "name": "Additions To Further Definitions",
-        "url": "https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb"
-      },
-      "artists": [
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 331386,
-      "name": "Doozy - 1966 Album Version",
-      "url": "https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF"
-    },
-    {
-      "added_at": "2023-10-11 11:20:42",
-      "album": {
         "name": "Way Out West (OJC Remaster)",
         "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 343120,
       "name": "I'm an Old Cowhand",
       "url": "https://open.spotify.com/track/6VRSZGxuhPGOCgUUAnAaUw"
+    },
+    {
+      "added_at": "2023-10-11 11:20:42",
+      "album": {
+        "name": "Additions To Further Definitions",
+        "url": "https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 331386,
+      "name": "Doozy - 1966 Album Version",
+      "url": "https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF"
     },
     {
       "added_at": "2023-10-11 11:20:42",

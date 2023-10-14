@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 
 > Desde México hasta Argentina, el hogar de los beats latinoamericanos\. Foto: MIEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,007 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,013 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 | 18 | [Amiga Mía](https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [MORVN](https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f) | [Amiga Mía](https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE) | 3:40 |
 | 19 | [Teleport \- Future Mix](https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Soundexile](https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg) | [Future Memories](https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u) | 6:23 |
 | 20 | [Lambada](https://open.spotify.com/track/0YmaxzdUQGUJLmQ6disVJp) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Guzz](https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8) | [Lambada](https://open.spotify.com/album/2rIngPYeX9tmQYUEGXXOxV) | 3:31 |
-| 21 | [Playa Grande](https://open.spotify.com/track/5TJ6emvXEa0KxL7We4QyJT) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Playa Grande](https://open.spotify.com/album/1CNYk7pMA94naeh4XyTrlf) | 3:21 |
+| 21 | [Playa Grande](https://open.spotify.com/track/6IsMnhtDLKG0h4H8pmQVRw) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Playa Grande](https://open.spotify.com/album/0P90stLNlBJtamGSsokK4g) | 3:21 |
 | 22 | [Drop It \(feat\. LUISAH\)](https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Drop It \(feat\. LUISAH\)](https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM) | 2:05 |
 | 23 | [Stone Heart](https://open.spotify.com/track/5YOJz5JRAew8Y9lVweh99D) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Lucas Ariel](https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T) | [Stone Heart](https://open.spotify.com/album/2DHsZvpEUaRM5S67xt5Lif) | 3:12 |
 | 24 | [Honey](https://open.spotify.com/track/2bOalEb2NVugngrIPAx4Vg) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Honey](https://open.spotify.com/album/0dxP5UGRoYHs2n7IODw7ql) | 2:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 | 59 | [Brisas Del Mar](https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Brisas Del Mar](https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY) | 3:16 |
 | 60 | [Cantalo](https://open.spotify.com/track/7zuNdvQ8KDEEu9wTGFKqyR) | [Les Castizos](https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Cantalo](https://open.spotify.com/album/5uw2wsLG5KiH22BbduOtmH) | 4:02 |
 
-Snapshot ID: `MCw5ZGY3NmY2NzdhNTIzMDNiNzZkYzRkNGJhNTAzYTZmZjNkMGNiZjZh`
+Snapshot ID: `MCxiYWIzN2JhZDQ0ZDQ3YTIyOThiM2Y0MDZmYjMzNjE5YmI3ZmJjYTg3`

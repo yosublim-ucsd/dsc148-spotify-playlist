@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Junior H
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,390 likes - 159 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,486 likes - 159 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 46 | [Muchacha \- Con Grupo Firme](https://open.spotify.com/track/3DOu0f6GA30IurY1cAE4zz) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [CHSM El Higado!](https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB) | 3:13 |
 | 47 | [Vacante Disponible](https://open.spotify.com/track/1wsLf25NrhVoKYXbITt1m2) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [CHSM El Higado!](https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB) | 3:40 |
 | 48 | [Que Agusto Ando](https://open.spotify.com/track/7dgEPPHYXeuxrs44NIEjrL) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [CHSM El Higado!](https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB) | 2:09 |
-| 49 | [El Aprendiz \- En Vivo](https://open.spotify.com/track/7y5wuABdwn34R6OZDvxmeo) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Corridos Anonymous \(En Vivo\)](https://open.spotify.com/album/3bE2KswwaGAL328nxQd1Nz) | 3:00 |
+| 49 | [El Aprendiz \- En Vivo](https://open.spotify.com/track/7y5wuABdwn34R6OZDvxmeo) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC), [Grupo Todo Terreno](https://open.spotify.com/artist/5Iy2NYH4xPkGDOkAcd2Re2) | [Corridos Anonymous \(En Vivo\)](https://open.spotify.com/album/3bE2KswwaGAL328nxQd1Nz) | 3:00 |
 | 50 | [El Intocable \- En Vivo](https://open.spotify.com/track/64XDolsGllLQL1ZKNREfRK) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Corridos Anonymous \(En Vivo\)](https://open.spotify.com/album/3bE2KswwaGAL328nxQd1Nz) | 2:58 |
-| 51 | [El Capataz \- En Vivo](https://open.spotify.com/track/3OlVBCcVZ0T46DAJ16P0tM) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Corridos Anonymous \(En Vivo\)](https://open.spotify.com/album/3bE2KswwaGAL328nxQd1Nz) | 3:41 |
+| 51 | [El Capataz \- En Vivo](https://open.spotify.com/track/3OlVBCcVZ0T46DAJ16P0tM) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC), [Grupo Todo Terreno](https://open.spotify.com/artist/5Iy2NYH4xPkGDOkAcd2Re2) | [Corridos Anonymous \(En Vivo\)](https://open.spotify.com/album/3bE2KswwaGAL328nxQd1Nz) | 3:41 |
 | 52 | [Que Bonito!](https://open.spotify.com/track/19iICG6VLZIk42wFfmAIO8) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Paso Fino](https://open.spotify.com/album/02CC6Z2uIGm248DgXALu5b) | 3:32 |
 | 53 | [Estoy A Punto](https://open.spotify.com/track/2GOUo9145jxWT8hhe7yVuL) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Paso Fino](https://open.spotify.com/album/02CC6Z2uIGm248DgXALu5b) | 3:18 |
 | 54 | [Cuando Hacemos El Amor](https://open.spotify.com/track/0Avb2Bw8X21301JitpEhaq) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Paso Fino](https://open.spotify.com/album/02CC6Z2uIGm248DgXALu5b) | 3:12 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 158 | [La Gripa Del Perico](https://open.spotify.com/track/4VTRF8XNXWoO2tAffbaSpi) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [Mas Me Rinde La Hielera](https://open.spotify.com/album/4AqWWqIvVnQYWRD5bmLl8R) | 3:02 |
 | 159 | [El Arbol De Mi Familia](https://open.spotify.com/track/5ABXU27kjthunVsP9gwfZp) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [Mas Me Rinde La Hielera](https://open.spotify.com/album/4AqWWqIvVnQYWRD5bmLl8R) | 3:06 |
 
-Snapshot ID: `MCw1ZGRlOTU5MzU2MDQ4YzBlYjZjYjMyMGE2Nzg3NDUwNTE0NTNkOTg5`
+Snapshot ID: `MCxjMWViZTNkNzkwMjUwNWUzN2U3MjI4NWE5Y2I5MDg2ODI2MWU2YjI3`

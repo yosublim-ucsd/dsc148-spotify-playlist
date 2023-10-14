@@ -1933,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "1er Round",
+        "url": "https://open.spotify.com/album/3oHg8DBYXPpjB3nMxUDWSP"
+      },
+      "artists": [
+        {
+          "name": "Natalia Curvelo",
+          "url": "https://open.spotify.com/artist/6RB9VgLciQKqdvLt2ZiMYX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205149,
+      "name": "La Loca",
+      "url": "https://open.spotify.com/track/2sAelBo4scm2sS1HD6I1AB"
+    },
+    {
+      "album": {
         "name": "La Macorina",
         "url": "https://open.spotify.com/album/1J1cxfagMyYDRt1eddsqic"
       },
@@ -4060,7 +4078,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 180103,
       "name": "Usted Ya Perdi\u00f3",
       "url": "https://open.spotify.com/track/4QSapki0YhY3b1Wc1E49Ic"

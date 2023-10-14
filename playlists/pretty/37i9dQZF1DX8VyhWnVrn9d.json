@@ -1,12 +1,12 @@
 {
   "description": "Bailando de caballito, aunque se enoje tu mam\u00e1. Mi Banda El Mexicano en portada.",
-  "num_followers": 211996,
+  "num_followers": 212064,
   "original_name": "Quebradita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTY0ZDY3NGRkYWYwNzYzOTMxNWQzMDU1ZWRiZmQ4MWZmNTE4YWQ1",
+  "snapshot_id": "MCw1OWNjOGQzNjMxYjhiZDc1NzMxNjU4NzM1YTkxZGIzMTk2ODgyNWMw",
   "tracks": [
     {
       "added_at": "2023-06-19 22:57:24",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "Super Exitos",
-        "url": "https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0"
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj"
       },
       "artists": [
         {
-          "name": "Vaquero's Musical",
-          "url": "https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1"
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 163693,
-      "name": "El Ranchero Chido",
-      "url": "https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI"
+      "duration_ms": 176889,
+      "name": "El Teterete",
+      "url": "https://open.spotify.com/track/5BJMTujpYBXfbzFnV5ptqL"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
+        "name": "Super Exitos",
+        "url": "https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0"
+      },
+      "artists": [
+        {
+          "name": "Vaquero's Musical",
+          "url": "https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "El Ranchero Chido",
+      "url": "https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
         "name": "Lo Mejor De... (18 Exitos)",
         "url": "https://open.spotify.com/album/6nAtdGbuJzkgMTsz1ZYsHj"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 219893,
       "name": "El Llanero Solitario - Guillermo Tell",
       "url": "https://open.spotify.com/track/3NUYbovgQcsNGE3O3IYHtz"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
-        "name": "La Estrella De Los Bailes",
-        "url": "https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 176889,
-      "name": "El Teterete",
-      "url": "https://open.spotify.com/track/5BJMTujpYBXfbzFnV5ptqL"
     },
     {
       "added_at": "2023-06-19 22:57:24",

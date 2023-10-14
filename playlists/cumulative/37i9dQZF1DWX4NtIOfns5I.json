@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202047,
+      "name": "anything",
+      "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
+    },
+    {
+      "album": {
         "name": "Bindi in the Dirt",
         "url": "https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm"
       },
@@ -92,6 +110,60 @@
       "duration_ms": 231573,
       "name": "Bindi in the Dirt",
       "url": "https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH"
+    },
+    {
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
+      "album": {
+        "name": "Blame The Moon",
+        "url": "https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223723,
+      "name": "Blame The Moon",
+      "url": "https://open.spotify.com/track/3p1kSUxsCux5Zf1CeKxpqh"
+    },
+    {
+      "album": {
+        "name": "2022",
+        "url": "https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168065,
+      "name": "Blood Moon",
+      "url": "https://open.spotify.com/track/37J6sYIBny0g0YJi88FPnc"
     },
     {
       "album": {
@@ -302,6 +374,24 @@
       "duration_ms": 243826,
       "name": "Didn't You",
       "url": "https://open.spotify.com/track/79yJPBXQYjLIcU7lxrDkC6"
+    },
+    {
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158568,
+      "name": "dopamine",
+      "url": "https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv"
     },
     {
       "album": {
@@ -522,6 +612,24 @@
       "duration_ms": 159423,
       "name": "Good Morning, Al",
       "url": "https://open.spotify.com/track/0rNWtiBcJh8T6gXtIAIJIJ"
+    },
+    {
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2SLgmMY9hC8pM6qPwNRBWK"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200666,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/2LF1EjI7vMM37yRUzEWk8s"
     },
     {
       "album": {
@@ -1088,6 +1196,24 @@
       "duration_ms": 168461,
       "name": "resentme2",
       "url": "https://open.spotify.com/track/6ubGK2bazBd5iOCvRAmudE"
+    },
+    {
+      "album": {
+        "name": "Stranger in the Alps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr"
     },
     {
       "album": {

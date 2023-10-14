@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover:  <a href=\u201cspotify:artist:5GGJosGMs08YEmKTZJe1fL\u201d>Suki Waterhouse</a> ",
-  "num_followers": 43585,
+  "num_followers": 43615,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjdjYjQzZmUyNTEwM2E3MWI4M2Q1MzFmZDJmODNiZDhmMmExNzZm",
+  "snapshot_id": "MCxjOTJlOWU2MDA4YjQ4ZmI2ZGFkNmUzY2FkNmE1MTlmNmM3YjM2MGVi",
   "tracks": [
     {
       "added_at": "2023-10-06 19:53:24",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-10-06 19:53:24",
       "album": {
-        "name": "Lemon",
-        "url": "https://open.spotify.com/album/1kG83ZnIwWZmoAkAvQYWFA"
-      },
-      "artists": [
-        {
-          "name": "SMITH",
-          "url": "https://open.spotify.com/artist/4XOIQF9cT5At4H0qcjhVL7"
-        }
-      ],
-      "duration_ms": 161508,
-      "name": "Lemon",
-      "url": "https://open.spotify.com/track/0pMmIEwZpl31qkiUqSAYBo"
-    },
-    {
-      "added_at": "2023-10-06 19:53:24",
-      "album": {
         "name": "QUEEN DEGENERATE",
         "url": "https://open.spotify.com/album/4ZDAY6ZwhHKpy3W7e6Yo4g"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 176104,
       "name": "ALL NIGHT",
       "url": "https://open.spotify.com/track/7JUNheFeoB0wTzBcq9BvF8"
+    },
+    {
+      "added_at": "2023-10-06 19:53:24",
+      "album": {
+        "name": "Lemon",
+        "url": "https://open.spotify.com/album/1kG83ZnIwWZmoAkAvQYWFA"
+      },
+      "artists": [
+        {
+          "name": "SMITH",
+          "url": "https://open.spotify.com/artist/4XOIQF9cT5At4H0qcjhVL7"
+        }
+      ],
+      "duration_ms": 161508,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/0pMmIEwZpl31qkiUqSAYBo"
     },
     {
       "added_at": "2023-10-06 19:53:24",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-10-06 19:53:24",
       "album": {
+        "name": "One Pill",
+        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "One Pill",
+      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
+    },
+    {
+      "added_at": "2023-10-06 19:53:24",
+      "album": {
         "name": "Linda Natural",
         "url": "https://open.spotify.com/album/6CQRznzuAM7gKDTlfcrNQx"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 167490,
       "name": "Body",
       "url": "https://open.spotify.com/track/5t8FBhJKbpBCskmOaMRxQW"
-    },
-    {
-      "added_at": "2023-10-06 19:53:24",
-      "album": {
-        "name": "One Pill",
-        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "One Pill",
-      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
       "added_at": "2023-10-06 19:53:24",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-10-06 19:53:24",
       "album": {
-        "name": "Falto",
-        "url": "https://open.spotify.com/album/5Zg6mTfVdWz6UQcdEwRaHk"
-      },
-      "artists": [
-        {
-          "name": "Natalie L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
-        }
-      ],
-      "duration_ms": 156352,
-      "name": "Falt\u00f3",
-      "url": "https://open.spotify.com/track/3YMbT29QAQNiuC6VWP1uic"
-    },
-    {
-      "added_at": "2023-10-06 19:53:24",
-      "album": {
         "name": "GIRLS GIRLS GIRLS",
         "url": "https://open.spotify.com/album/1ZHkFJ13emPD3qYZVOGMqx"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 177810,
       "name": "GIRLS GIRLS GIRLS",
       "url": "https://open.spotify.com/track/0LMry7J6N4fouJrOkpDjXy"
+    },
+    {
+      "added_at": "2023-10-06 19:53:24",
+      "album": {
+        "name": "Falto",
+        "url": "https://open.spotify.com/album/5Zg6mTfVdWz6UQcdEwRaHk"
+      },
+      "artists": [
+        {
+          "name": "Natalie L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
+        }
+      ],
+      "duration_ms": 156352,
+      "name": "Falt\u00f3",
+      "url": "https://open.spotify.com/track/3YMbT29QAQNiuC6VWP1uic"
     },
     {
       "added_at": "2023-10-06 19:53:24",

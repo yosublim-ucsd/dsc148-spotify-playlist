@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 47206,
+  "num_followers": 47243,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDAzZjg4MmViYzVkYmUwYjE2ZDZjNzljOGZmYzk4ZDFlNjc5MmY4",
+  "snapshot_id": "MCw4MWFlZGViZDM5ZGYyMzczMWNjOGVkNmM4ZDVlNTJmYjQwZGE3ZTQw",
   "tracks": [
     {
       "added_at": "2023-10-02 12:57:01",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 339466,
-      "name": "Sweet Little Angel",
-      "url": "https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
       "artists": [
         {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 350520,
-      "name": "Waiting For The Dawn",
-      "url": "https://open.spotify.com/track/5zi2iVnuW5PEpALVgCypi3"
+      "duration_ms": 339466,
+      "name": "Sweet Little Angel",
+      "url": "https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -687,6 +671,22 @@
       "duration_ms": 275226,
       "name": "Juice Head Baby",
       "url": "https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "duration_ms": 350520,
+      "name": "Waiting For The Dawn",
+      "url": "https://open.spotify.com/track/5zi2iVnuW5PEpALVgCypi3"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
-        "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "You'll Never Find Anyone To Be A Slave Like Me - Remastered 2022",
-      "url": "https://open.spotify.com/track/2CUoa5qyfnFMnViDYrSsWw"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Soul for the Heart",
         "url": "https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 275973,
       "name": "Drown in My Own Tears",
       "url": "https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
+        "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "You'll Never Find Anyone To Be A Slave Like Me - Remastered 2022",
+      "url": "https://open.spotify.com/track/2CUoa5qyfnFMnViDYrSsWw"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Motel Mississippi",
-        "url": "https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx"
-      },
-      "artists": [
-        {
-          "name": "Tony Holiday",
-          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
-        }
-      ],
-      "duration_ms": 251853,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Wrong Kind of Lovin",
         "url": "https://open.spotify.com/album/5tdreJCS1nWRB72dF43IcX"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 320133,
       "name": "Wrong Kind of Lovin",
       "url": "https://open.spotify.com/track/1X7Dw4CtOV3nJcmPvrX2af"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Motel Mississippi",
+        "url": "https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx"
+      },
+      "artists": [
+        {
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
+        }
+      ],
+      "duration_ms": 251853,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34"
     }
   ],
   "unique_name": "Just Me and the Blues",

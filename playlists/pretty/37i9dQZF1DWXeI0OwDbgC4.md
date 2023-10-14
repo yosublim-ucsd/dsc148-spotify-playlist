@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,887 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,909 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 49 | [Giving You All Of Me](https://open.spotify.com/track/53ZV7HHQu29ic08xwvQB3O) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi) | [Giving You All Of Me](https://open.spotify.com/album/2UVi0PUYG7ggVrhoaXuF59) | 2:29 |
 | 50 | [Memories \- Remastered](https://open.spotify.com/track/4zHq7tEb1aU14yBI3h48Dn) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Illuminate](https://open.spotify.com/album/3gv6D5I0UO9vDypT3H9UbX) | 4:07 |
 
-Snapshot ID: `MCxmNWE0OGZjY2RiZTRmZGExMWE2ZWYwYzU0OGVjZTE0NmI5MDdlZTc0`
+Snapshot ID: `MCw2YmEzMWYxY2E2ZGEzMjcxNjg1MzY0NmIzYjg1M2Q2Y2Q0NGZiYzg1`

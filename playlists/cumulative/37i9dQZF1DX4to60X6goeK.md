@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Tsuki
 
-145 songs - 9 hr 56 min
+146 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Lift Off The Roof](https://open.spotify.com/track/3WP7uvv1HkbVny5fHdgH3Z) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [Lift Off The Roof](https://open.spotify.com/album/31BWS50pcum5FqJyTfqcYu) | 3:05 | 2022-08-12 | 2023-05-24 |
 | [Lift Off The Roof](https://open.spotify.com/track/7HcnRj6vM3fQ5xmn3AbJcq) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [Lift Off The Roof](https://open.spotify.com/album/2eKZy0pAKmXxlNxyBXND7v) | 3:05 | 2022-05-06 | 2022-07-24 |
 | [Lightspeed](https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Back To Normal](https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9) | 4:28 | 2022-05-06 |  |
+| [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC) | 3:09 | 2023-10-13 |  |
 | [Lively \(feat\. Jaykae & Blair Muir\) \- Alcemist Remix](https://open.spotify.com/track/3bDmXTnza1kblLGQrN5jvX) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Lively \(feat\. Jaykae & Blair Muir\) \[Alcemist Remix\]](https://open.spotify.com/album/6dn1fXm9vecpP4wc0Qmawi) | 3:54 | 2022-06-20 |  |
 | [Lock off the Rave](https://open.spotify.com/track/6FPETQc9CdCmRME7HRwlgk) | [ORAM](https://open.spotify.com/artist/0KZlJiMx0Lyn8hl8d9gCBJ) | [Lock off the Rave](https://open.spotify.com/album/4QyCaxCa2RbF8sMCzkYz9R) | 4:30 | 2022-05-06 | 2022-07-25 |
 | [looking 4 me](https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [looking 4 me](https://open.spotify.com/album/0KQfZKiNtU7gMdX9txha8j) | 2:27 | 2023-09-22 |  |
@@ -141,7 +142,7 @@
 | [Twist & Screw](https://open.spotify.com/track/4nMaX8YWn8bChjLvW3pw1R) | [Oli Lewis](https://open.spotify.com/artist/4qWDgaSzAe3YTz5ruQ9soD) | [Twist & Screw EP](https://open.spotify.com/album/0VEZhFD5ZAcAcuKbBXG09D) | 4:31 | 2022-05-06 | 2022-07-07 |
 | [Ultralight](https://open.spotify.com/track/04LnHmJRweO8XIM0Uo5314) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ultralight](https://open.spotify.com/album/4gXeehzyi205HkjcXKp9Oc) | 3:43 | 2022-05-06 | 2023-05-19 |
 | [Ultralight](https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ultralight](https://open.spotify.com/album/4Trb8G5jJdMYJurZrsORHI) | 3:43 | 2022-08-12 |  |
-| [Us](https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh) | [Tesen](https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP) | [Us / When the Lights Go](https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE) | 4:31 | 2022-05-06 |  |
+| [Us](https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh) | [Tesen](https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP) | [Us / When the Lights Go](https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE) | 4:31 | 2022-05-06 | 2023-10-14 |
 | [Void](https://open.spotify.com/track/0p1PEZDgUxUy8P3e6sLwxe) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/7CGITZOY5pra6F0w3JAgTi) | 5:27 | 2022-05-06 | 2022-07-28 |
 | [Void](https://open.spotify.com/track/5bRZR2TRxH4xoZAb9O126q) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv) | 5:27 | 2022-06-20 | 2023-09-22 |
 | [Waiting For You](https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Waiting For You](https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte) | 3:46 | 2022-05-06 |  |

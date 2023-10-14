@@ -2,9 +2,9 @@
 
 ### [Indie Andinos](https://open.spotify.com/playlist/37i9dQZF1DX9xyAZr9s5Pd)
 
-> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Paola Navarrete
+> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Loyal Lobos
 
-63 songs - 3 hr 34 min
+64 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,13 +14,14 @@
 | [Algo Discreto](https://open.spotify.com/track/7y660DIuwEb44cC86hNjAf) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Algo Discreto](https://open.spotify.com/album/10RilTBrHWcQeLOmgbptgp) | 3:20 | 2023-09-22 |  |
 | [Amor Barato](https://open.spotify.com/track/3UAZphSh6pog2QYXvEJsQg) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Amor Barato](https://open.spotify.com/album/3VhIk6vzARVy2CUhtViy94) | 3:17 | 2023-09-22 |  |
 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 | 2023-09-22 |  |
+| [Autosabotear](https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Autosabotear](https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a) | 3:12 | 2023-10-13 |  |
 | [Brújula](https://open.spotify.com/track/3NcZFZYHwtvabsALQW5RWv) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Brújula](https://open.spotify.com/album/7rIIkQ0FySrrsXpDGW7DVr) | 3:10 | 2023-09-22 | 2023-09-30 |
 | [Ciudad Espanto](https://open.spotify.com/track/1LaVxGRKECxCucel5Gs8tt) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki) | [Muchachito Roto](https://open.spotify.com/album/59EbB1Kyy8ThhlY9QJFPev) | 3:13 | 2023-09-22 |  |
 | [Claroscuro](https://open.spotify.com/track/5p5AhrRFj9HUaxqDXDL5rh) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD) | [Claroscuro](https://open.spotify.com/album/7yfdxsGFK68Q5P2kGaqK3Y) | 3:04 | 2023-09-22 |  |
 | [coral](https://open.spotify.com/track/3UOo8zf78epJdsoFo50AOF) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [coral](https://open.spotify.com/album/78K4xSAjShKybDLVkkWH6J) | 3:47 | 2023-09-22 |  |
 | [Corolla 94](https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Corolla 94](https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp) | 3:21 | 2023-09-22 |  |
 | [Corriendo](https://open.spotify.com/track/19B8jai2irsTUVsJxGhRTR) | [Canales Nacionales](https://open.spotify.com/artist/6IKWIwAANTdlk5fSh2PBDJ) | [Corriendo](https://open.spotify.com/album/1oF3W8fNMxBs4u7sbKLZJe) | 3:47 | 2023-09-22 |  |
-| [De Maravilla](https://open.spotify.com/track/7osWLKq6j6KxoMT03EdvHv) | [The Vue](https://open.spotify.com/artist/1bCVI2X0v8Ext3IXFNd0oY) | [Las Cosas Que No Dije \(LCQND\)](https://open.spotify.com/album/2uC2X3vkFU4hLmRUPKWZ98) | 3:22 | 2023-09-22 |  |
+| [De Maravilla](https://open.spotify.com/track/7osWLKq6j6KxoMT03EdvHv) | [The Vue](https://open.spotify.com/artist/1bCVI2X0v8Ext3IXFNd0oY) | [Las Cosas Que No Dije \(LCQND\)](https://open.spotify.com/album/2uC2X3vkFU4hLmRUPKWZ98) | 3:22 | 2023-09-22 | 2023-10-14 |
 | [Desprevenido](https://open.spotify.com/track/2iJwRkYxLQ5qK3yCPOHYYK) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Desprevenido](https://open.spotify.com/album/5b7GmiY0WfSAAPDdfI4Hoh) | 3:17 | 2023-09-22 |  |
 | [Destino](https://open.spotify.com/track/0ELDsNFntqHq5bEokxAIMP) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Destino](https://open.spotify.com/album/7hVQeF8N8SkIHLUEEGgW5p) | 3:56 | 2023-09-22 |  |
 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 | 2023-09-22 |  |

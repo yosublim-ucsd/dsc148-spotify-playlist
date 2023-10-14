@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,531 songs - 4 day 9 hr 24 min
+1,532 songs - 4 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -979,7 +979,7 @@
 | [Ocean](https://open.spotify.com/track/7qMBNOhPfbouXl3JL3k1H4) | [Anton Ishutin](https://open.spotify.com/artist/0RhuWNLtoucVMRmsSkCgWl) | [Ocean](https://open.spotify.com/album/4edIfnHvv2lFzRnUoLnPci) | 7:10 | 2021-12-24 | 2022-06-21 |
 | [Ocean](https://open.spotify.com/track/0m9VQCSZ7S9wlKpD4nRO27) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz), [Carolina Bubbico](https://open.spotify.com/artist/0HWrWCAD8nN3DnbR02wVxW) | [HOPE \(Inspired by 'The Outlaw Ocean' a book by Ian Urbina\)](https://open.spotify.com/album/2kbqvv4io9uEQIgka6Zd45) | 2:58 | 2020-10-13 | 2021-03-06 |
 | [Ocean Liners](https://open.spotify.com/track/4tnMh8E6WvK81ZhJ6IcFSR) | [Zoe Reijue](https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF), [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ) | [Ocean Liners](https://open.spotify.com/album/6fGJtRRuKmr8UwvwQp6Vzj) | 6:06 | 2022-01-21 | 2022-07-27 |
-| [Ocean Quiet \(Refeci Remix\)](https://open.spotify.com/track/14EcgkY4YICkFrujD1NdDp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO), [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp) | [Ocean Quiet \(Refeci Remix\)](https://open.spotify.com/album/6UafXpT0Y3cnR7jDmM5ft2) | 2:44 | 2023-03-10 |  |
+| [Ocean Quiet \(Refeci Remix\)](https://open.spotify.com/track/14EcgkY4YICkFrujD1NdDp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO), [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp) | [Ocean Quiet \(Refeci Remix\)](https://open.spotify.com/album/6UafXpT0Y3cnR7jDmM5ft2) | 2:44 | 2023-03-10 | 2023-10-14 |
 | [October](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [October](https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8) | 5:54 | 2020-05-18 | 2020-07-03 |
 | [Odd One Out](https://open.spotify.com/track/18bDohH2zLgO3oKkyOELgU) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Hyperfall](https://open.spotify.com/album/5C1WWowUnx2d4yIOp1hnIy) | 3:24 | 2020-02-29\* | 2020-07-18 |
 | [Of Sea](https://open.spotify.com/track/3cGYeXxZTPqmxaZ27JUJsD) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Our Language](https://open.spotify.com/album/26s1tsgYX1rsNvsjjYmxuc) | 6:04 | 2021-04-03 | 2022-08-26 |
@@ -997,6 +997,7 @@
 | [One Day](https://open.spotify.com/track/2wwlAcqUIcvHNi3w2YWkZv) | [Falden](https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo) | [One Day EP](https://open.spotify.com/album/0dTsIEabndHsNr65E5HPFC) | 2:47 | 2022-01-21 | 2023-04-22 |
 | [One False Step](https://open.spotify.com/track/6lvah3w62NBUe47bBwxKQk) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 5:12 | 2020-05-18 | 2020-07-03 |
 | [One House](https://open.spotify.com/track/4ysvkVgbuSFCmRfFUTO06h) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y) | [One House](https://open.spotify.com/album/0ojowZGAaJ71fFcHDF8rJw) | 3:37 | 2021-09-17 | 2022-07-28 |
+| [One Last Call](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [One Last Call](https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy) | 4:16 | 2023-10-13 |  |
 | [One Last Dance](https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [One Last Dance](https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H) | 3:04 | 2022-02-18 | 2023-07-08 |
 | [Only Now](https://open.spotify.com/track/2uYVZv2juOm5MOEObqzLK7) | [Nikonn](https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Only Now](https://open.spotify.com/album/6vqSGhBOjbSnNeIZyHxtRb) | 3:44 | 2020-05-18 | 2022-04-21 |
 | [Only You](https://open.spotify.com/track/54iMHNHJpXhx0AHXNoAwPz) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Only You](https://open.spotify.com/album/2tUAhqGKehsZThAq0PBI4E) | 3:15 | 2022-10-24 | 2022-12-29 |

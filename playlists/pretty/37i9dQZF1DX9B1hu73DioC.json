@@ -1,12 +1,12 @@
 {
   "description": "Vibey indie tracks for just hanging out.",
-  "num_followers": 800347,
+  "num_followers": 800235,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWY3MzA4NGQ5NTY3Zjg2NDM0Mjg2NzQ1NzcwZDY5Nzk4NTQzOGQ2",
+  "snapshot_id": "MCwyMTk4ZDdhM2ExNTM3ODlkOGE2YWQ4NjU4ZGFmYTcwMjRhNjljNjY1",
   "tracks": [
     {
       "added_at": "2023-09-29 19:50:59",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-09-29 19:50:59",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb"
-      },
-      "artists": [
-        {
-          "name": "okaywill",
-          "url": "https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L"
-        }
-      ],
-      "duration_ms": 119016,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
-    },
-    {
-      "added_at": "2023-09-29 19:50:59",
-      "album": {
         "name": "So Long Forever",
         "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 233360,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
+    },
+    {
+      "added_at": "2023-09-29 19:50:59",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb"
+      },
+      "artists": [
+        {
+          "name": "okaywill",
+          "url": "https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L"
+        }
+      ],
+      "duration_ms": 119016,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
     },
     {
       "added_at": "2023-09-29 19:50:59",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-09-29 19:50:59",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 173661,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
-    },
-    {
-      "added_at": "2023-09-29 19:50:59",
-      "album": {
         "name": "In the End It Always Does",
         "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 219813,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO"
+    },
+    {
+      "added_at": "2023-09-29 19:50:59",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "duration_ms": 173661,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
     },
     {
       "added_at": "2023-09-29 19:50:59",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-09-29 19:50:59",
       "album": {
-        "name": "Is It Magic?",
-        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 188727,
-      "name": "Is It Magic?",
-      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
-    },
-    {
-      "added_at": "2023-09-29 19:50:59",
-      "album": {
         "name": "El Bueno Y El Malo",
         "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 201413,
       "name": "Tres Hermanos",
       "url": "https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap"
+    },
+    {
+      "added_at": "2023-09-29 19:50:59",
+      "album": {
+        "name": "Is It Magic?",
+        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 188727,
+      "name": "Is It Magic?",
+      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
     },
     {
       "added_at": "2023-09-29 19:50:59",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-09-29 19:50:59",
       "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 223413,
+      "name": "Eugene",
+      "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
+    },
+    {
+      "added_at": "2023-09-29 19:50:59",
+      "album": {
         "name": "Tonight (feat. Ezra Koenig)",
         "url": "https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 246706,
       "name": "Tonight (feat. Ezra Koenig)",
       "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
-    },
-    {
-      "added_at": "2023-09-29 19:50:59",
-      "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 223413,
-      "name": "Eugene",
-      "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
     },
     {
       "added_at": "2023-09-29 19:50:59",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-09-29 19:50:59",
       "album": {
-        "name": "Miami Baby",
-        "url": "https://open.spotify.com/album/7xCHhK4CCxyT70MaKqIMsF"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 293339,
-      "name": "Miami Baby",
-      "url": "https://open.spotify.com/track/0BhMGTZ32kho286pz0mJxq"
-    },
-    {
-      "added_at": "2023-09-29 19:50:59",
-      "album": {
         "name": "Cosmos",
         "url": "https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2023-09-29 19:50:59",
       "album": {
-        "name": "99 Nights",
-        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
+        "name": "Miami Baby",
+        "url": "https://open.spotify.com/album/7xCHhK4CCxyT70MaKqIMsF"
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
         }
       ],
-      "duration_ms": 185245,
-      "name": "Someone I Could Love",
-      "url": "https://open.spotify.com/track/7J5wBntCsBRCFdLXYuYlDq"
+      "duration_ms": 293339,
+      "name": "Miami Baby",
+      "url": "https://open.spotify.com/track/0BhMGTZ32kho286pz0mJxq"
     },
     {
       "added_at": "2023-09-29 19:50:59",
@@ -1171,22 +1155,18 @@
     {
       "added_at": "2023-09-29 19:50:59",
       "album": {
-        "name": "Pyjamas (feat. Remi Wolf)",
-        "url": "https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK"
+        "name": "99 Nights",
+        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
       },
       "artists": [
         {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
         }
       ],
-      "duration_ms": 168240,
-      "name": "Pyjamas (feat. Remi Wolf)",
-      "url": "https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN"
+      "duration_ms": 185245,
+      "name": "Someone I Could Love",
+      "url": "https://open.spotify.com/track/7J5wBntCsBRCFdLXYuYlDq"
     },
     {
       "added_at": "2023-10-02 23:06:35",
@@ -1203,6 +1183,26 @@
       "duration_ms": 141500,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/6rZjqLz4k7psYLWDgDTw8l"
+    },
+    {
+      "added_at": "2023-09-29 19:50:59",
+      "album": {
+        "name": "Pyjamas (feat. Remi Wolf)",
+        "url": "https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 168240,
+      "name": "Pyjamas (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN"
     },
     {
       "added_at": "2023-09-29 19:50:59",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-09-29 19:50:59",
       "album": {
-        "name": "Hello Hi / Un Deux Trois",
-        "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
-      },
-      "artists": [
-        {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "Un Deux Trois",
-      "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
-    },
-    {
-      "added_at": "2023-09-29 19:50:59",
-      "album": {
         "name": "Sing Spaceship, Sing!",
         "url": "https://open.spotify.com/album/2e1hdKbDX95Fr1phOYt8Vv"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 208407,
       "name": "SummerBrain",
       "url": "https://open.spotify.com/track/5W3ut9fKvknIV1TCzUl2Lo"
+    },
+    {
+      "added_at": "2023-09-29 19:50:59",
+      "album": {
+        "name": "Hello Hi / Un Deux Trois",
+        "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Un Deux Trois",
+      "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
     },
     {
       "added_at": "2023-09-29 19:50:59",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-09-29 19:50:59",
       "album": {
-        "name": "Terms & Conditions",
-        "url": "https://open.spotify.com/album/2M2POTrivOaYTX8TGwTE5B"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 244909,
-      "name": "Terms & Conditions",
-      "url": "https://open.spotify.com/track/7AyjVbkONi9ENQOyorxsIT"
-    },
-    {
-      "added_at": "2023-09-29 19:50:59",
-      "album": {
         "name": "coogie",
         "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 189514,
       "name": "coogie",
       "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
+    },
+    {
+      "added_at": "2023-09-29 19:50:59",
+      "album": {
+        "name": "Terms & Conditions",
+        "url": "https://open.spotify.com/album/2M2POTrivOaYTX8TGwTE5B"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 244909,
+      "name": "Terms & Conditions",
+      "url": "https://open.spotify.com/track/7AyjVbkONi9ENQOyorxsIT"
     },
     {
       "added_at": "2023-09-29 19:50:59",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-09-29 19:50:59",
       "album": {
-        "name": "All The Things I Couldn't Say To You",
-        "url": "https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK"
-      },
-      "artists": [
-        {
-          "name": "Busty and the Bass",
-          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
-        }
-      ],
-      "duration_ms": 264285,
-      "name": "All The Things I Couldn't Say To You",
-      "url": "https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf"
-    },
-    {
-      "added_at": "2023-09-29 19:50:59",
-      "album": {
         "name": "Run To The Moon",
         "url": "https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 225901,
       "name": "Run To The Moon",
       "url": "https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK"
+    },
+    {
+      "added_at": "2023-09-29 19:50:59",
+      "album": {
+        "name": "All The Things I Couldn't Say To You",
+        "url": "https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK"
+      },
+      "artists": [
+        {
+          "name": "Busty and the Bass",
+          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+        }
+      ],
+      "duration_ms": 264285,
+      "name": "All The Things I Couldn't Say To You",
+      "url": "https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf"
     },
     {
       "added_at": "2023-09-29 19:50:59",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-09-29 19:50:59",
       "album": {
-        "name": "Sweet Bonita",
-        "url": "https://open.spotify.com/album/3NWL1BcgIHGMj6oWozBLt0"
-      },
-      "artists": [
-        {
-          "name": "Walter The Producer",
-          "url": "https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ"
-        }
-      ],
-      "duration_ms": 189882,
-      "name": "Sweet Bonita",
-      "url": "https://open.spotify.com/track/6HeCWexSUG87Uok9hsrE83"
-    },
-    {
-      "added_at": "2023-09-29 19:50:59",
-      "album": {
         "name": "Borderline Insane",
         "url": "https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 139664,
       "name": "Borderline Insane",
       "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
+    },
+    {
+      "added_at": "2023-09-29 19:50:59",
+      "album": {
+        "name": "Sweet Bonita",
+        "url": "https://open.spotify.com/album/3NWL1BcgIHGMj6oWozBLt0"
+      },
+      "artists": [
+        {
+          "name": "Walter The Producer",
+          "url": "https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ"
+        }
+      ],
+      "duration_ms": 189882,
+      "name": "Sweet Bonita",
+      "url": "https://open.spotify.com/track/6HeCWexSUG87Uok9hsrE83"
     }
   ],
   "unique_name": "Indie Chillout",

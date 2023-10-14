@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-113 songs - 7 hr 46 min
+114 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [El Diablo Y El Ñau Ñau \(feat\. Chico Mann\)](https://open.spotify.com/track/6mYsi0PrM4EdDBV5cfsNyp) | [Ocote Soul Sounds](https://open.spotify.com/artist/4khzV3qBWcUKdc50QOv8Tc), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Coconut Rock](https://open.spotify.com/album/7gW7B0IdXwmNaMBAZ0XryK) | 3:57 | 2021-10-20 | 2023-09-10 |
 | [Fire By The River](https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj) | [Harumi](https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO) | [Harumi](https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi) | 3:34 | 2021-10-20 |  |
 | [Flor do Real](https://open.spotify.com/track/2Xnn9KSLIeECnBfACC4LKj) | [Sessa](https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ) | [Grandeza](https://open.spotify.com/album/0xMUBvCjRGQqWps0tKcnBn) | 3:34 | 2021-10-20 |  |
+| [Geeta duniki](https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484) | [Ammar 808](https://open.spotify.com/artist/0TAPEEcG2NQAfSKkreQWAM), [Susha](https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC) | [Global Control / Invisible Invasion](https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI) | 3:32 | 2021-10-20 |  |
 | [Ghibli](https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU) | [Savana Funk](https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG) | [Ghibli](https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As) | 3:55 | 2022-08-31 |  |
 | [Goca Dünya](https://open.spotify.com/track/5QO3UJc1gF1ummP75n2b3R) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [On](https://open.spotify.com/album/6AmmrlB9qABCgBdr8SCLZt) | 4:00 | 2021-10-20 |  |
 | [Gone Away Again](https://open.spotify.com/track/2LHfvXx92f9HAYV146h6TE) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R) | 2:45 | 2021-10-20 |  |
@@ -86,7 +87,7 @@
 | [Run To Your Mama](https://open.spotify.com/track/6iKRB4SGZp57HsrMLVovL8) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:22 | 2021-10-20 |  |
 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 | 2022-07-01 |  |
 | [Savanne](https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:16 | 2022-08-03 |  |
-| [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Danger](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 | 2021-10-20 |  |
+| [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Danger](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 | 2021-10-20 | 2023-10-14 |
 | [Silky](https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Mentallogenic](https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym) | 4:19 | 2023-04-14 |  |
 | [Solstício](https://open.spotify.com/track/1OvgFEAdvQp7va0C68UaiW) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Carlos Núñez](https://open.spotify.com/artist/3e09WanUMwtc9XfZRLvZ30) | [Solstício](https://open.spotify.com/album/7I3I6jxYh64keGLmZFGP4R) | 4:25 | 2022-02-18 |  |
 | [Soma](https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP) | 5:11 | 2021-10-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 
 > Everything in Texas is best! Lo que suena in the Lone Star state\. Cover: Grupo Frontera & Grupo Firme
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,648 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,720 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 | 49 | [Perfección](https://open.spotify.com/track/70PhHGQlEU2C5pcAR7rVnY) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Perfección](https://open.spotify.com/album/6JmjHJcvGcNv6JEjZb7Hwv) | 2:00 |
 | 50 | [Mi Tesoro \(En Vivo\)](https://open.spotify.com/track/5upZqOtEEFH9TwdYorE7Af) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Mi Tesoro \(En Vivo\)](https://open.spotify.com/album/3izA85ST6c3tnSLoYg8v6W) | 3:02 |
 
-Snapshot ID: `MCxlMjQyNzI1ZThkZTljNzBlMjI5MTk3M2M0NWUyOThjYjBhMjk5MGI0`
+Snapshot ID: `MCxkNTA5M2EzMGY3ZDJiMzFjZWU0ZDFjODJhYmYwOGYzODM0MWQ2MjBi`

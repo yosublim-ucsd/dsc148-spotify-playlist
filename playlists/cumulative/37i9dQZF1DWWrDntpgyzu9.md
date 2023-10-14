@@ -2,7 +2,7 @@
 
 ### [Cantando no Chuveiro](https://open.spotify.com/playlist/37i9dQZF1DWWrDntpgyzu9)
 
-> Solte a voz no chuveiro e liberte o cantor dentro de você! Foto: Luan Santana
+> Solte a voz no chuveiro e liberte o cantor dentro de você!
 
 168 songs - 10 hr 17 min
 

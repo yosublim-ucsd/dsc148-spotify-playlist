@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Zaeden, Lisa Mishra",
+  "description": "New music from popular Hindi artists. Cover- Vishal Mishra",
   "name": "New Music Friday Hindi ",
   "tracks": [
     {
@@ -266,6 +266,24 @@
       "duration_ms": 199200,
       "name": "Aakhir",
       "url": "https://open.spotify.com/track/6H3sAWLZRET9SblfxEvwRh"
+    },
+    {
+      "album": {
+        "name": "Aakhir",
+        "url": "https://open.spotify.com/album/4tGaaql1MPpZCATBrSEHhg"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198057,
+      "name": "Aakhir",
+      "url": "https://open.spotify.com/track/6xcubsZWAawdCM6o9hQ1WL"
     },
     {
       "album": {
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 174500,
       "name": "Baarishen",
       "url": "https://open.spotify.com/track/3ivS8GDUHyAcXJmvPdXgQO"
@@ -4783,6 +4801,24 @@
     },
     {
       "album": {
+        "name": "Gudiya Re",
+        "url": "https://open.spotify.com/album/6uQskuLtkuEhlPgp5AMmVd"
+      },
+      "artists": [
+        {
+          "name": "Aabhas - Shreyas",
+          "url": "https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268810,
+      "name": "Gudiya Re",
+      "url": "https://open.spotify.com/track/4LOMOwVnDozgJTRvUVFLcT"
+    },
+    {
+      "album": {
         "name": "Gulaab",
         "url": "https://open.spotify.com/album/06emcAOErjaBVkKqChRTF2"
       },
@@ -6197,6 +6233,24 @@
     },
     {
       "album": {
+        "name": "jaanu na",
+        "url": "https://open.spotify.com/album/7rnZFaD0VEQZ5CcbjiNm4h"
+      },
+      "artists": [
+        {
+          "name": "KASYAP",
+          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160854,
+      "name": "jaanu na",
+      "url": "https://open.spotify.com/track/7C0IvBW7ZTk0cyyQQid44w"
+    },
+    {
+      "album": {
         "name": "Jaanu Na",
         "url": "https://open.spotify.com/album/0l5S1lFvUscrIKUCvzUqAU"
       },
@@ -6571,6 +6625,28 @@
     },
     {
       "album": {
+        "name": "Jo Haal Dil Ka",
+        "url": "https://open.spotify.com/album/0DzqKy7zDaNJDVWOirShMg"
+      },
+      "artists": [
+        {
+          "name": "Dev Negi",
+          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254633,
+      "name": "Jo Haal Dil Ka",
+      "url": "https://open.spotify.com/track/2OXdawrYpIY30maazelSwf"
+    },
+    {
+      "album": {
         "name": "Jo Hoga Accha Hoga, Episode 1",
         "url": "https://open.spotify.com/album/1xrMiiGBb2tuROMmdkgI0E"
       },
@@ -6666,7 +6742,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 216699,
       "name": "Judaiyaan",
       "url": "https://open.spotify.com/track/6TWsUKihAAyBJ7fO5Sddwk"
@@ -10322,7 +10398,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 215121,
       "name": "Naina Milayke",
       "url": "https://open.spotify.com/track/3ylrAcRTfhiiTDLKInsWr1"
@@ -11500,7 +11576,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 86666,
       "name": "Pyaar Karta Hoon",
       "url": "https://open.spotify.com/track/2coRb5t7JVUqJWeTI41xf1"
@@ -11628,7 +11704,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 215295,
       "name": "Raabta",
       "url": "https://open.spotify.com/track/2h4VzcX14yfQBfbP9UmeF4"
@@ -12048,7 +12124,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 373888,
       "name": "Rooh Jaga Doon",
       "url": "https://open.spotify.com/track/12rAqb1q7oamKb9dQQ7rn7"
@@ -12186,7 +12262,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 234713,
       "name": "Saanware Aijaiyo",
       "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
@@ -12460,7 +12536,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 236620,
       "name": "Sahibaa (From \"The Great Indian Family\")",
       "url": "https://open.spotify.com/track/2YYvNDKfjDsWNaEwhsGcZk"
@@ -12588,6 +12664,28 @@
       "duration_ms": 215958,
       "name": "Sajna",
       "url": "https://open.spotify.com/track/5etJgqQYRJiV998MCn9zzt"
+    },
+    {
+      "album": {
+        "name": "Samandar Sharaab",
+        "url": "https://open.spotify.com/album/6hm8fOoph7eQPtaSjrz4Sr"
+      },
+      "artists": [
+        {
+          "name": "Madhur Sharma",
+          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
+        },
+        {
+          "name": "Harshit Shrivastava",
+          "url": "https://open.spotify.com/artist/5eYHTsRSjK7Kqo7KDxEtSA"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183454,
+      "name": "Samandar Sharaab",
+      "url": "https://open.spotify.com/track/74eb04WDqeE9WdvN1cyNCz"
     },
     {
       "album": {
@@ -13845,6 +13943,28 @@
     },
     {
       "album": {
+        "name": "Tere Dil Tak Aana Hai",
+        "url": "https://open.spotify.com/album/5qM3GaykY2A1cN50athDn8"
+      },
+      "artists": [
+        {
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
+        },
+        {
+          "name": "Sanjeev Chaturvedi",
+          "url": "https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181739,
+      "name": "Tere Dil Tak Aana Hai",
+      "url": "https://open.spotify.com/track/4iAZPXSghLU4VK02gIVgV2"
+    },
+    {
+      "album": {
         "name": "Tere Hone Se",
         "url": "https://open.spotify.com/album/3VBhUpmVVwGtSZd2TGd8FK"
       },
@@ -13864,6 +13984,24 @@
       "duration_ms": 301092,
       "name": "Tere Hone Se",
       "url": "https://open.spotify.com/track/0WOQ0NIjQEAFHXS9haQDOZ"
+    },
+    {
+      "album": {
+        "name": "Tere Liye Pyaar Mera Kam Nahi Hoga",
+        "url": "https://open.spotify.com/album/0TYXSyfpmZS6CQnt6HCnNU"
+      },
+      "artists": [
+        {
+          "name": "Ankit Tiwari",
+          "url": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Tere Liye Pyaar Mera Kam Nahi Hoga",
+      "url": "https://open.spotify.com/track/7sxkjuWq2pAEKxbNHQfHSU"
     },
     {
       "album": {
@@ -14233,6 +14371,28 @@
     },
     {
       "album": {
+        "name": "TU",
+        "url": "https://open.spotify.com/album/13k0feaIl1Zh8tn0FlzEY5"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "A$AD",
+          "url": "https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164967,
+      "name": "TU",
+      "url": "https://open.spotify.com/track/3IllbSE7M594LaBmxdAbPj"
+    },
+    {
+      "album": {
         "name": "Tu / You",
         "url": "https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn"
       },
@@ -14318,7 +14478,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 198688,
       "name": "Tu Aazma",
       "url": "https://open.spotify.com/track/38CMq8hlI8zIzGbENBBG1P"
@@ -14394,7 +14554,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 274865,
       "name": "Tu Hai Meri Zindagi",
       "url": "https://open.spotify.com/track/4xyxwqyy0fXK2EfoDeGECI"
@@ -15031,6 +15191,24 @@
     },
     {
       "album": {
+        "name": "Tum Jhoothe Ho",
+        "url": "https://open.spotify.com/album/505z6VnU0g4lAYN3RJYt92"
+      },
+      "artists": [
+        {
+          "name": "Rahul Jain",
+          "url": "https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247105,
+      "name": "Tum Jhoothe Ho",
+      "url": "https://open.spotify.com/track/27nbC9v2543Gn2AZ397h9e"
+    },
+    {
+      "album": {
         "name": "Tum Jo Haan Kehh Do 2.0",
         "url": "https://open.spotify.com/album/6jqYXl3m5t3hHAtjjjNkZ9"
       },
@@ -15050,6 +15228,28 @@
       "duration_ms": 191052,
       "name": "Tum Jo Haan Kehh Do 2.0",
       "url": "https://open.spotify.com/track/0ffmCzAbNYDMjruj1VLeUr"
+    },
+    {
+      "album": {
+        "name": "Tum Kab Aaoge",
+        "url": "https://open.spotify.com/album/5oVn2hzlPrdV9nDhWFp3Na"
+      },
+      "artists": [
+        {
+          "name": "Rahul Vaidya",
+          "url": "https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd"
+        },
+        {
+          "name": "Sanjeev Chaturvedi",
+          "url": "https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252110,
+      "name": "Tum Kab Aaoge",
+      "url": "https://open.spotify.com/track/2u4OBNW9IFrxW8Outa1TnQ"
     },
     {
       "album": {

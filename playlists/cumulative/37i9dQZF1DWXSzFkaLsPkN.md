@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Anubha Bajaj
 
-128 songs - 7 hr 7 min
+129 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Feel You Now](https://open.spotify.com/track/1qvG2HriblOKz5d6lMT81E) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Feel You Now](https://open.spotify.com/album/1QjVRLJLQ3wM1RY9AznBlC) | 2:14 | 2023-05-02 | 2023-07-13 |
 | [Fida](https://open.spotify.com/track/1RnGyOqCbgpfmSh423M4t1) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Fida](https://open.spotify.com/album/0JQ7xpuT2g8TlnT8r7hamD) | 2:52 | 2023-07-20 |  |
 | [Ghoome](https://open.spotify.com/track/2S8g6nlwCih4u4GAn14GqE) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Ghoome](https://open.spotify.com/album/4u73oMykwBdkhBuJ9ufJjT) | 2:49 | 2023-07-21 |  |
-| [Gul](https://open.spotify.com/track/0NLkVxf0PyxsXBG3EuZcJf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Gul](https://open.spotify.com/album/0aD1s9SFgIIZG95AzVhLC7) | 3:37 | 2023-05-02 |  |
+| [Gul](https://open.spotify.com/track/0NLkVxf0PyxsXBG3EuZcJf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Gul](https://open.spotify.com/album/0aD1s9SFgIIZG95AzVhLC7) | 3:37 | 2023-05-02 | 2023-10-14 |
+| [Gul](https://open.spotify.com/track/6ivemTXTn27PwVjtd0oqDs) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Gul](https://open.spotify.com/album/7gxvq2TLEEThZzaOQEOI2r) | 3:37 | 2023-10-11 |  |
 | [Gumshuda](https://open.spotify.com/track/1qChnX5WTdkE2oCCTyFrTu) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Gumshuda](https://open.spotify.com/album/6J4Cv47ly1iUAheQy6yrEW) | 3:48 | 2023-08-08 |  |
 | [Haiya Ho](https://open.spotify.com/track/5Y87eHJLQbrB6I3evGJrl3) | [The Tapi Project](https://open.spotify.com/artist/1PaDBY2ifUow90EJUJWC9T) | [Haiya Ho](https://open.spotify.com/album/5QhByckZuGJSwpJ1IPP9EB) | 4:27 | 2023-09-14 |  |
 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 | 2023-05-02 |  |

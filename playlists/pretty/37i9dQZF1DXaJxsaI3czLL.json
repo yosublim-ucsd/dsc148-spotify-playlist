@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 127652,
+  "num_followers": 127594,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzJmNTAyOWE4OWEyM2I3NmRhNDY0ZGJiNzEzYzgzMWRiMWUxYjYz",
+  "snapshot_id": "MCwxZjMyZGZmNDM2OTQzNjkwOTJiMWEzNmY3ZGUyZWU4OGVhMWZmMTgz",
   "tracks": [
     {
       "added_at": "2023-10-12 15:00:00",
@@ -223,22 +223,18 @@
     {
       "added_at": "2023-10-12 15:00:00",
       "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u8857",
-        "url": "https://open.spotify.com/album/3hN8H85mT5RFr2IyXrpCfJ"
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
       },
       "artists": [
         {
-          "name": "Kyrie",
-          "url": "https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu"
-        },
-        {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
         }
       ],
-      "duration_ms": 251826,
-      "name": "\u540d\u524d\u306e\u306a\u3044\u8857",
-      "url": "https://open.spotify.com/track/6eJetNdi0WMj1BAoqIsX7t"
+      "duration_ms": 303812,
+      "name": "\u5fc3\u306e\u305d\u3070\u306b",
+      "url": "https://open.spotify.com/track/3VXkaNgYFHOxbuOmKejypT"
     },
     {
       "added_at": "2023-10-12 15:00:00",
@@ -259,18 +255,22 @@
     {
       "added_at": "2023-10-12 15:00:00",
       "album": {
-        "name": "Belle (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+        "name": "\u540d\u524d\u306e\u306a\u3044\u8857",
+        "url": "https://open.spotify.com/album/3hN8H85mT5RFr2IyXrpCfJ"
       },
       "artists": [
         {
-          "name": "Belle",
-          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+          "name": "Kyrie",
+          "url": "https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu"
+        },
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
         }
       ],
-      "duration_ms": 303812,
-      "name": "\u5fc3\u306e\u305d\u3070\u306b",
-      "url": "https://open.spotify.com/track/3VXkaNgYFHOxbuOmKejypT"
+      "duration_ms": 251826,
+      "name": "\u540d\u524d\u306e\u306a\u3044\u8857",
+      "url": "https://open.spotify.com/track/6eJetNdi0WMj1BAoqIsX7t"
     },
     {
       "added_at": "2023-10-12 15:00:00",
@@ -772,7 +772,7 @@
       "added_at": "2023-10-12 15:00:00",
       "album": {
         "name": "Drawl",
-        "url": "https://open.spotify.com/album/5DTs7RlPryssenWO0ClL0O"
+        "url": "https://open.spotify.com/album/7bM3wfZAD5PRrrTC9IRMDe"
       },
       "artists": [
         {
@@ -782,23 +782,7 @@
       ],
       "duration_ms": 198333,
       "name": "Drawl",
-      "url": "https://open.spotify.com/track/7un82BeP1sOVI4R8NhQq6p"
-    },
-    {
-      "added_at": "2023-10-12 15:00:00",
-      "album": {
-        "name": "last wave",
-        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "last wave",
-      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
+      "url": "https://open.spotify.com/track/5E7f6xYsxhDdUzwDWLrs6T"
     },
     {
       "added_at": "2023-10-12 15:00:00",
@@ -819,6 +803,22 @@
     {
       "added_at": "2023-10-12 15:00:00",
       "album": {
+        "name": "last wave",
+        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "last wave",
+      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
+    },
+    {
+      "added_at": "2023-10-12 15:00:00",
+      "album": {
         "name": "A Rainy Night in NY",
         "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-10-12 15:00:00",
       "album": {
-        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
-      },
-      "artists": [
-        {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
-    },
-    {
-      "added_at": "2023-10-12 15:00:00",
-      "album": {
         "name": "POLY LIFE MULTI SOUL",
         "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 128028,
       "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
       "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
+    },
+    {
+      "added_at": "2023-10-12 15:00:00",
+      "album": {
+        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+      },
+      "artists": [
+        {
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
       "added_at": "2023-10-12 15:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-10-12 15:00:00",
       "album": {
-        "name": "Sleeping in Waking",
-        "url": "https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 233887,
-      "name": "Sleeping in Waking",
-      "url": "https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe"
-    },
-    {
-      "added_at": "2023-10-12 15:00:00",
-      "album": {
         "name": "Karakai",
         "url": "https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w"
       },
@@ -1087,6 +1071,38 @@
       "duration_ms": 242000,
       "name": "Karakai",
       "url": "https://open.spotify.com/track/1DFQpMVMM4esSg02Zj0Gx6"
+    },
+    {
+      "added_at": "2023-10-12 15:00:00",
+      "album": {
+        "name": "Sleeping in Waking",
+        "url": "https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 233887,
+      "name": "Sleeping in Waking",
+      "url": "https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe"
+    },
+    {
+      "added_at": "2023-10-12 15:00:00",
+      "album": {
+        "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
+        "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
+      },
+      "artists": [
+        {
+          "name": "Fuyumi Abe",
+          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
+        }
+      ],
+      "duration_ms": 245746,
+      "name": "\u5e0c\u671b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
     },
     {
       "added_at": "2023-10-12 15:00:00",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2023-10-12 15:00:00",
       "album": {
-        "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
-        "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
-      },
-      "artists": [
-        {
-          "name": "Fuyumi Abe",
-          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
-        }
-      ],
-      "duration_ms": 245746,
-      "name": "\u5e0c\u671b\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
-    },
-    {
-      "added_at": "2023-10-12 15:00:00",
-      "album": {
         "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
         "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-10-12 15:00:00",
       "album": {
-        "name": "ohashiTrio best Too",
-        "url": "https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 337898,
-      "name": "\u8679\u3068\u30ab\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey"
-    },
-    {
-      "added_at": "2023-10-12 15:00:00",
-      "album": {
         "name": "Letters",
         "url": "https://open.spotify.com/album/4U7dNrhS6ITV4wb7A464nK"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 274426,
       "name": "Letters",
       "url": "https://open.spotify.com/track/1tekdibfeOlht2yBU11s4Y"
+    },
+    {
+      "added_at": "2023-10-12 15:00:00",
+      "album": {
+        "name": "ohashiTrio best Too",
+        "url": "https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 337898,
+      "name": "\u8679\u3068\u30ab\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey"
     },
     {
       "added_at": "2023-10-12 15:00:00",
@@ -1211,38 +1211,6 @@
     {
       "added_at": "2023-10-12 15:00:00",
       "album": {
-        "name": "Ninh Binh Brother's Homestay",
-        "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
-      },
-      "artists": [
-        {
-          "name": "MIZ",
-          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
-        }
-      ],
-      "duration_ms": 228038,
-      "name": "\u30d1\u30ec\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
-    },
-    {
-      "added_at": "2023-10-12 15:00:00",
-      "album": {
-        "name": "This is music too",
-        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 264680,
-      "name": "\u9752\u6708\u6d6e\u304f\u6d77",
-      "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
-    },
-    {
-      "added_at": "2023-10-12 15:00:00",
-      "album": {
         "name": "Prescribing The...",
         "url": "https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat"
       },
@@ -1255,6 +1223,22 @@
       "duration_ms": 287169,
       "name": "\u82fa",
       "url": "https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH"
+    },
+    {
+      "added_at": "2023-10-12 15:00:00",
+      "album": {
+        "name": "Ninh Binh Brother's Homestay",
+        "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
+      },
+      "artists": [
+        {
+          "name": "MIZ",
+          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
+        }
+      ],
+      "duration_ms": 228038,
+      "name": "\u30d1\u30ec\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
     },
     {
       "added_at": "2023-10-12 15:00:00",
@@ -1343,6 +1327,22 @@
       "duration_ms": 176542,
       "name": "\u77e5\u3089\u306a\u3044\u4e16\u754c\u3082\u898b\u98fd\u304d\u305f",
       "url": "https://open.spotify.com/track/1lY1S9iNCw3zj9mBO7lYkt"
+    },
+    {
+      "added_at": "2023-10-12 15:00:00",
+      "album": {
+        "name": "This is music too",
+        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 264680,
+      "name": "\u9752\u6708\u6d6e\u304f\u6d77",
+      "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

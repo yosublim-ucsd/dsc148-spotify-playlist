@@ -1,12 +1,12 @@
 {
   "description": "Being alone (again) can be tough, but these songs will keep you company.",
-  "num_followers": 3347368,
+  "num_followers": 3346137,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzY0YmQ3MjVmNDdkY2U1MmNlNzUzN2ViNTNkNzljMTM5YzQ5MDcw",
+  "snapshot_id": "MCxhMTY0MzJmYmY1MTYwNjhhZDM5YjIyYmViNTE1ZWI1M2E1MDkxOWUz",
   "tracks": [
     {
       "added_at": "2023-04-07 20:03:50",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Shawn Mendes",
-        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "In My Blood",
-      "url": "https://open.spotify.com/track/2QZ7WLBE8h2y1Y5Fb8RYbH"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "lovestrong.",
         "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 246587,
       "name": "Jar of Hearts",
       "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Shawn Mendes",
+        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "In My Blood",
+      "url": "https://open.spotify.com/track/2QZ7WLBE8h2y1Y5Fb8RYbH"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 256236,
-      "name": "People Help the People",
-      "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Electronic Earth (Expanded Edition)",
         "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 271813,
       "name": "Beneath Your Beautiful (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 256236,
+      "name": "People Help the People",
+      "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 191307,
-      "name": "Stone Cold",
-      "url": "https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Music Box",
         "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 215110,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0pkIJFV6mviH9dmBYsFwTM"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 191307,
+      "name": "Stone Cold",
+      "url": "https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz"
     },
     {
       "added_at": "2023-06-16 07:56:00",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Unbroken",
-        "url": "https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY"
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 221293,
-      "name": "Skyscraper",
-      "url": "https://open.spotify.com/track/4B3RmT3cGvh8By3WY9pbIx"
+      "duration_ms": 238746,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
     },
     {
       "added_at": "2023-06-09 05:27:00",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+        "name": "Unbroken",
+        "url": "https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 238746,
-      "name": "Hold Back The River",
-      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
+      "duration_ms": 221293,
+      "name": "Skyscraper",
+      "url": "https://open.spotify.com/track/4B3RmT3cGvh8By3WY9pbIx"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 196421,
-      "name": "I Could Use a Love Song",
-      "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 262693,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 196421,
+      "name": "I Could Use a Love Song",
+      "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1851,18 +1851,18 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Foreword",
-        "url": "https://open.spotify.com/album/44D28vK3JSIQ7oQNAfoeBD"
+        "name": "lovestrong.",
+        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
       },
       "artists": [
         {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
         }
       ],
-      "duration_ms": 197846,
-      "name": "Dear No One",
-      "url": "https://open.spotify.com/track/2wWboDFZJPWXVNlHUbdSVQ"
+      "duration_ms": 261213,
+      "name": "arms",
+      "url": "https://open.spotify.com/track/5u0YB9bpmgEPS2bPhwfRFV"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1883,18 +1883,34 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "lovestrong.",
-        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg"
       },
       "artists": [
         {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 261213,
-      "name": "arms",
-      "url": "https://open.spotify.com/track/5u0YB9bpmgEPS2bPhwfRFV"
+      "duration_ms": 162732,
+      "name": "Make It To Me",
+      "url": "https://open.spotify.com/track/13CHIxzN5Z4mbjjADGplNT"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Foreword",
+        "url": "https://open.spotify.com/album/44D28vK3JSIQ7oQNAfoeBD"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 197846,
+      "name": "Dear No One",
+      "url": "https://open.spotify.com/track/2wWboDFZJPWXVNlHUbdSVQ"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1927,22 +1943,6 @@
       "duration_ms": 223213,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 162732,
-      "name": "Make It To Me",
-      "url": "https://open.spotify.com/track/13CHIxzN5Z4mbjjADGplNT"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1995,6 +1995,26 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 283294,
+      "name": "No Peace",
+      "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
         "name": "Talia",
         "url": "https://open.spotify.com/album/5Z9ThGv7MrUjdZJREO9GOF"
       },
@@ -2023,26 +2043,6 @@
       "duration_ms": 219840,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
-        "name": "The Thrill Of It All (Special Edition)",
-        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 283294,
-      "name": "No Peace",
-      "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -2129,6 +2129,22 @@
       "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
     },
     {
+      "added_at": "2023-10-10 12:21:15",
+      "album": {
+        "name": "I Don't Wanna Leave Just Yet",
+        "url": "https://open.spotify.com/album/5CA5LlVVLzW1XCF6ESiCGq"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 185283,
+      "name": "I Don't Wanna Leave Just Yet",
+      "url": "https://open.spotify.com/track/5hM0JAqF7VzzD8JxU5RbYL"
+    },
+    {
       "added_at": "2023-04-07 20:03:50",
       "album": {
         "name": "Bridges",
@@ -2175,22 +2191,6 @@
       "duration_ms": 205773,
       "name": "Hate Everything",
       "url": "https://open.spotify.com/track/52UDFFwUueOBfJ2vB5BqRr"
-    },
-    {
-      "added_at": "2023-10-10 12:21:15",
-      "album": {
-        "name": "I Don't Wanna Leave Just Yet",
-        "url": "https://open.spotify.com/album/5CA5LlVVLzW1XCF6ESiCGq"
-      },
-      "artists": [
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
-        }
-      ],
-      "duration_ms": 185283,
-      "name": "I Don't Wanna Leave Just Yet",
-      "url": "https://open.spotify.com/track/5hM0JAqF7VzzD8JxU5RbYL"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Camila",
-        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 214386,
-      "name": "Real Friends",
-      "url": "https://open.spotify.com/track/3iq9nhbI8fcnNamxMft1uv"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 203289,
       "name": "Burning",
       "url": "https://open.spotify.com/track/2mb6YdoavL6db22p7XKJQZ"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 214386,
+      "name": "Real Friends",
+      "url": "https://open.spotify.com/track/3iq9nhbI8fcnNamxMft1uv"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "English Rain",
-        "url": "https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Please Don't Say You Love Me",
-      "url": "https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Songs to Break Up To (Acoustic)",
         "url": "https://open.spotify.com/album/0sXJ4r2XZwc0hzDXJsjsuw"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 184064,
       "name": "Thinking 'Bout Love - Acoustic",
       "url": "https://open.spotify.com/track/1nHPM4cx7QvCaFakEPMsho"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "English Rain",
+        "url": "https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Please Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o"
     },
     {
       "added_at": "2023-04-07 20:03:50",

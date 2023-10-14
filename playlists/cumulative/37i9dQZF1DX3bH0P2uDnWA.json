@@ -1019,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "Dancing with the Devil",
+        "url": "https://open.spotify.com/album/23015bEcBD0AGhSVINfp1e"
+      },
+      "artists": [
+        {
+          "name": "Elle & The Pocket Belles",
+          "url": "https://open.spotify.com/artist/0MbDNDhsDB35CyvApzybJt"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226906,
+      "name": "Dancing with the Devil",
+      "url": "https://open.spotify.com/track/5v6M7RkUUoqoqhSg47WDzN"
+    },
+    {
+      "album": {
         "name": "Day & Night",
         "url": "https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE"
       },
@@ -1950,6 +1968,24 @@
       "duration_ms": 311250,
       "name": "Halloween Party",
       "url": "https://open.spotify.com/track/5DAoCXLfuoVEtSVEQWW8I4"
+    },
+    {
+      "album": {
+        "name": "Halloween Swing Phenomena",
+        "url": "https://open.spotify.com/album/3LWiJb2okxxmdEwWLb6Bdv"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126829,
+      "name": "Halloween Swing Phenomena",
+      "url": "https://open.spotify.com/track/39oE8Pt9LnzEJsKQZznRMY"
     },
     {
       "album": {
@@ -3292,7 +3328,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 213427,
       "name": "Midnight Sway - Electro Swing VIP",
       "url": "https://open.spotify.com/track/4GK1ig82TFO1a3AHBi7EBY"
@@ -4673,6 +4709,24 @@
     },
     {
       "album": {
+        "name": "Somebodys Watching Me (Electro Swing Mix)",
+        "url": "https://open.spotify.com/album/28jxO28LLz3IVS0JQZUxkH"
+      },
+      "artists": [
+        {
+          "name": "Glenn Gatsby",
+          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160975,
+      "name": "Somebodys Watching Me - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/2yNfs7f9Vwi56hIXtwajPl"
+    },
+    {
+      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/2F3q5N3VhVL3tOYT8uLVzy"
       },
@@ -5664,7 +5718,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 128364,
       "name": "The Munsters - Electro Swing Mix",
       "url": "https://open.spotify.com/track/6KSx750dE2LN3iRgKsbnkO"
@@ -5934,7 +5988,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 242542,
       "name": "Twitch - Original Mix",
       "url": "https://open.spotify.com/track/5ITcJAeOZZusqXHBeKuLcm"

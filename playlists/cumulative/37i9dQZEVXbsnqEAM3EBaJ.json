@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Evolution Of Mike Shinoda",
+        "url": "https://open.spotify.com/album/0CPTcgnt3VIejOtwDPhaQ0"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160640,
+      "name": "Already Over",
+      "url": "https://open.spotify.com/track/27dTjaV7r5s5tdHeDuxIdG"
+    },
+    {
+      "album": {
         "name": "Already Over",
         "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
       },
@@ -802,7 +820,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 160640,
       "name": "Already Over",
       "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 265240,
       "name": "Are You Ever Coming Back? - 7\" Edit",
       "url": "https://open.spotify.com/track/5S98uEvaXaslDlvT8VtBXe"
@@ -2216,7 +2234,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 232333,
       "name": "Bring Me To Life - Demo / Remastered 2023",
       "url": "https://open.spotify.com/track/7FEjJLwvoedqAG5j1loQQu"
@@ -3488,7 +3506,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 188155,
       "name": "DANCE WITH ME",
       "url": "https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr"
@@ -3564,6 +3582,24 @@
       "duration_ms": 232258,
       "name": "Dark Void",
       "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
+    },
+    {
+      "album": {
+        "name": "DArkSide",
+        "url": "https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164790,
+      "name": "DArkSide",
+      "url": "https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE"
     },
     {
       "album": {
@@ -3850,6 +3886,24 @@
       "duration_ms": 187804,
       "name": "Diabla - En Vivo",
       "url": "https://open.spotify.com/track/2BpBai63B5TzLRsGXjNpWy"
+    },
+    {
+      "album": {
+        "name": "Live At Glam Slam",
+        "url": "https://open.spotify.com/album/3vrx9weTIyEQLaPvyB6mqw"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331629,
+      "name": "Diamonds and Pearls - Live at Glam Slam, Minneapolis, MN, 1/11/1992",
+      "url": "https://open.spotify.com/track/2WcnUyVio7x2DO2Sj0TSP6"
     },
     {
       "album": {
@@ -4537,6 +4591,24 @@
     },
     {
       "album": {
+        "name": "Mantras de la Quinta Dimensi\u00f3n",
+        "url": "https://open.spotify.com/album/1l0xSKpCPvvtTCA5UzXvhO"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Donalson",
+          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 560040,
+      "name": "Elyusu Ermatsu (Discernimiento)",
+      "url": "https://open.spotify.com/track/0f3DNJlYhZv3yAODkbMBQv"
+    },
+    {
+      "album": {
         "name": "Doom Protectors",
         "url": "https://open.spotify.com/album/40tr1n8XT3EX4Vj4r13Yi4"
       },
@@ -5015,6 +5087,42 @@
     },
     {
       "album": {
+        "name": "Rewind Forward",
+        "url": "https://open.spotify.com/album/2ETwP4mpMMUgx9BYYuzdmm"
+      },
+      "artists": [
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186453,
+      "name": "Feeling The Sunlight",
+      "url": "https://open.spotify.com/track/1YpeUoLUxtvVV09t1ltR3d"
+    },
+    {
+      "album": {
+        "name": "FELL IN LOVE",
+        "url": "https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138460,
+      "name": "FELL IN LOVE",
+      "url": "https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND"
+    },
+    {
+      "album": {
         "name": "Fighting Myself",
         "url": "https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF"
       },
@@ -5110,6 +5218,24 @@
       "duration_ms": 206384,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/2Pb1ekr2pXVYEMER3rNcIa"
+    },
+    {
+      "album": {
+        "name": "First In Line",
+        "url": "https://open.spotify.com/album/6XN4rXWgar54VuGsPQLkHm"
+      },
+      "artists": [
+        {
+          "name": "Sonata Arctica",
+          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322045,
+      "name": "First In Line",
+      "url": "https://open.spotify.com/track/7vdv5e5atEgBlW9oGjtPIG"
     },
     {
       "album": {
@@ -5374,10 +5500,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 283026,
       "name": "Get Blue",
       "url": "https://open.spotify.com/track/055F7clCQecaI2j0ZBQP8E"
+    },
+    {
+      "album": {
+        "name": "Catch A Fire (50th Anniversary)",
+        "url": "https://open.spotify.com/album/1KQFJswSSy7hTfxSgy3ql4"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384706,
+      "name": "Get Up, Stand Up - Live At The Sundown Theatre, Edmonton, UK / May 1973",
+      "url": "https://open.spotify.com/track/1T9ixkQTfQ8H00O6Na0KxL"
     },
     {
       "album": {
@@ -5552,6 +5696,24 @@
       "duration_ms": 271706,
       "name": "Goin' Home",
       "url": "https://open.spotify.com/track/0eir7payQFT0HAdGK88yBd"
+    },
+    {
+      "album": {
+        "name": "Going Under (Live Acoustic / 2003 / Remastered)",
+        "url": "https://open.spotify.com/album/4E6iVwvo6lRXnatQLk1HiG"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195720,
+      "name": "Going Under - Live Acoustic / 2003 / Remastered",
+      "url": "https://open.spotify.com/track/1B3TQY6g9aLQ5ckUzT37k0"
     },
     {
       "album": {
@@ -6368,6 +6530,24 @@
       "duration_ms": 199111,
       "name": "Hoes In The Sheets",
       "url": "https://open.spotify.com/track/4ekpS5id3Pue6s7oaIQV4R"
+    },
+    {
+      "album": {
+        "name": "Hojas de t\u00e9 (2023)",
+        "url": "https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209610,
+      "name": "Hojas de t\u00e9 - 2023",
+      "url": "https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0"
     },
     {
       "album": {
@@ -7218,6 +7398,28 @@
       "duration_ms": 232247,
       "name": "i/o - Bright-Side Mix",
       "url": "https://open.spotify.com/track/2mLV96M3Ee4oQzShI2CwAK"
+    },
+    {
+      "album": {
+        "name": "Iconic (feat. Jax)",
+        "url": "https://open.spotify.com/album/4GgLfWDhquj9jKv7Fiwt8d"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        },
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186258,
+      "name": "Iconic (feat. Jax)",
+      "url": "https://open.spotify.com/track/4r0AbYYtiklnWyNRgEHPM8"
     },
     {
       "album": {
@@ -8348,7 +8550,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 223616,
       "name": "Killing Floor - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
       "url": "https://open.spotify.com/track/7JAjSAKtzRgfiYnnOyAaWH"
@@ -8717,6 +8919,32 @@
     },
     {
       "album": {
+        "name": "Great Piano Transcriptions from the Golden Age, Vol. 5",
+        "url": "https://open.spotify.com/album/27nFbgBGgM7gnb1xzt6cvr"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Lecocq",
+          "url": "https://open.spotify.com/artist/56k2mJK9IeFWxIEAjyKDmW"
+        },
+        {
+          "name": "P. Gayraud",
+          "url": "https://open.spotify.com/artist/65UM2PBxuBuBkbe7D7gRf8"
+        },
+        {
+          "name": "Peter Phillips",
+          "url": "https://open.spotify.com/artist/2aWlsaSemY3u7rGARqX1xp"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 668260,
+      "name": "Le Fille De Madame Angot (Arr. Solo Piano by Gayraud): Fantasia and Selection of Themes - Welte-Mignon 2810",
+      "url": "https://open.spotify.com/track/00i4CBjCpxqiQpkEeT033t"
+    },
+    {
+      "album": {
         "name": "The Collection II",
         "url": "https://open.spotify.com/album/67KYu6Smel916pR6QBeIsQ"
       },
@@ -8896,7 +9124,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 298514,
       "name": "Let It Roll - Live",
       "url": "https://open.spotify.com/track/2x0IR15vdwWuvsU9GCrobI"
@@ -10033,6 +10261,24 @@
     },
     {
       "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179091,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv"
+    },
+    {
+      "album": {
         "name": "Misery (feat. Atreyu)",
         "url": "https://open.spotify.com/album/0oIW9gCsZ1g3IXZcEZEPCm"
       },
@@ -10552,6 +10798,28 @@
       "duration_ms": 213111,
       "name": "Natural Thing - Live",
       "url": "https://open.spotify.com/track/051nhFAF8tpcb7DduLxtTn"
+    },
+    {
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176529,
+      "name": "Naughty Girl",
+      "url": "https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD"
     },
     {
       "album": {
@@ -11227,6 +11495,24 @@
     },
     {
       "album": {
+        "name": "One Track Mind (Live at Hull City Hall, 22/6/1983)",
+        "url": "https://open.spotify.com/album/4aQFtLSp3Uux25rRtFrejZ"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245266,
+      "name": "One Track Mind - Live at Hull City Hall, 22/6/1983",
+      "url": "https://open.spotify.com/track/4vRcgWjmYHGToSJyJvEEIu"
+    },
+    {
+      "album": {
         "name": "Hot N' Ready In Texas - Live 1979",
         "url": "https://open.spotify.com/album/1Q9I57V80yF9uxIr5xeTIy"
       },
@@ -11523,6 +11809,24 @@
     },
     {
       "album": {
+        "name": "Panic Attack",
+        "url": "https://open.spotify.com/album/02DtysqFzSbWAfptGA7mec"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325987,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35"
+    },
+    {
+      "album": {
         "name": "Paradise Is Here (Sunrise Mix) [2023 Remaster]",
         "url": "https://open.spotify.com/album/4oO9eUlOWPRHujtc7JcHMY"
       },
@@ -11694,7 +11998,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 238365,
       "name": "Pennyroyal Tea - Live In Los Angeles, Great Western Forum - December 30, 1993",
       "url": "https://open.spotify.com/track/7g8wYvj1XPFu7CRNFH7zsa"
@@ -13407,6 +13711,24 @@
     },
     {
       "album": {
+        "name": "Reunion (25th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/0LKOlxflzwKoZerUQLtSmJ"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209774,
+      "name": "Selling My Soul - Danny Saber Remix",
+      "url": "https://open.spotify.com/track/5soAf86M7IS91HacoojI9H"
+    },
+    {
+      "album": {
         "name": "Outland (Live 1986)",
         "url": "https://open.spotify.com/album/0xkSGkBIBRETnFWsp2VOGR"
       },
@@ -13598,6 +13920,24 @@
       "duration_ms": 411013,
       "name": "Sextet in D Minor, Op. 70, TH 118 \"Souvenir de Florence\": III. Allegretto moderato",
       "url": "https://open.spotify.com/track/3CDssDItL5SjaUnCugnfbi"
+    },
+    {
+      "album": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967)",
+        "url": "https://open.spotify.com/album/6XW3aKGGCReIq2NIhTJRq8"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100618,
+      "name": "Sgt. Pepper's Lonely Hearts Club Band - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+      "url": "https://open.spotify.com/track/2kwUETBvq1zr0HpUsM2B3n"
     },
     {
       "album": {
@@ -14034,10 +14374,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 316540,
       "name": "Something Beautiful - 2023 Version",
       "url": "https://open.spotify.com/track/2p2BsulfyMgpXDwlz9RfpO"
+    },
+    {
+      "album": {
+        "name": "Whole Lotta Love",
+        "url": "https://open.spotify.com/album/1Fdt85Ya0ea3D4jFOilHla"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316540,
+      "name": "Something Beautiful - 2023 Version",
+      "url": "https://open.spotify.com/track/3jR1bap4OIX37tUt8tcrvI"
     },
     {
       "album": {
@@ -14158,6 +14516,24 @@
       "duration_ms": 363661,
       "name": "Sosteniendo la Visi\u00f3n",
       "url": "https://open.spotify.com/track/6LQtGlPkwPJc5wAz5TTvFK"
+    },
+    {
+      "album": {
+        "name": "Soundtrack To A Generation",
+        "url": "https://open.spotify.com/album/4spqtH92efZEnmrkrGCKXW"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357386,
+      "name": "Soundtrack To A Generation - Pan Belgian Dub",
+      "url": "https://open.spotify.com/track/6l7JIPpUSbdXXDCc7Q7vEO"
     },
     {
       "album": {
@@ -14714,7 +15090,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 187236,
       "name": "Swan Lake Op. 20 Intermezzo (Piano arrangement by K. Kornienko)",
       "url": "https://open.spotify.com/track/7t41HqDyE7ZugAQZBy9aVw"
@@ -16213,6 +16589,24 @@
     },
     {
       "album": {
+        "name": "One Night - Lights Out 77",
+        "url": "https://open.spotify.com/album/6dIZJgSYYQhf2G6CrqAF27"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232659,
+      "name": "Too Hot To Handle - Live",
+      "url": "https://open.spotify.com/track/6oWLyJUheP4wzEmsRXzqeK"
+    },
+    {
+      "album": {
         "name": "Outland (Live 1986)",
         "url": "https://open.spotify.com/album/0xkSGkBIBRETnFWsp2VOGR"
       },
@@ -17630,6 +18024,24 @@
     {
       "album": {
         "name": "To The Faithful Departed (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44VTFJKruvFCS3solylzrP"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309400,
+      "name": "When You're Gone - Paris Demo",
+      "url": "https://open.spotify.com/track/1TCm2tVpawmLoTCAuEXmV7"
+    },
+    {
+      "album": {
+        "name": "To The Faithful Departed (Deluxe Edition)",
         "url": "https://open.spotify.com/album/07lKVrnG3PmC9mndjDiJsb"
       },
       "artists": [
@@ -17640,7 +18052,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 309400,
       "name": "When You're Gone - Paris Demo",
       "url": "https://open.spotify.com/track/1ZTMDYbT0BG43f07S5yrRR"

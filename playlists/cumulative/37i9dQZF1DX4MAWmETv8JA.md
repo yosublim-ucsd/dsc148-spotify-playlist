@@ -4,7 +4,7 @@
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Henrique Camacho
 
-84 songs - 8 hr 9 min
+85 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Rise Up](https://open.spotify.com/track/3gYk1Jo71RLQFjZxfSqfYL) | [Reverence](https://open.spotify.com/artist/5iXp3W5x3XiBU55AGhfEYl), [Iron Lady](https://open.spotify.com/artist/1kJnL5tpzjdrS30XGcH3B5) | [Rise Up](https://open.spotify.com/album/0Sq1udLOCXREmmomo4X9Ls) | 3:39 | 2022-03-04 |  |
 | [Rock This Way](https://open.spotify.com/track/0P22HCmkkIbSIRSWTwlkEs) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [Rock This Way](https://open.spotify.com/album/7911Hd0ysqIiXC4ZrxrNVk) | 5:23 | 2022-03-04 |  |
 | [Saudades](https://open.spotify.com/track/3bR1zkhKF85T0mVrrIjLaT) | [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Saudades](https://open.spotify.com/album/0c2b9B5Cgmtwvm832NgUDR) | 3:34 | 2022-03-04 |  |
+| [Secrets](https://open.spotify.com/track/1qsvF68rYkMoWF40sBqGqw) | [Synthatic](https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P) | [Secrets](https://open.spotify.com/album/4FqftkavIOdKZyAJ0rPhiI) | 5:27 | 2023-10-13 |  |
 | [Sem Chão](https://open.spotify.com/track/5irKKFoCUyKFq8rvtSBIYM) | [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Sem Chão](https://open.spotify.com/album/3mCC0lCqstMOgi43doEefH) | 4:07 | 2022-03-04 |  |
 | [Shanti](https://open.spotify.com/track/1q6UdQJkg7ULE6qX0YVZSf) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH), [Dudiish](https://open.spotify.com/artist/4w1x0xqhvGO85K7JrW30Cd) | [Shanti](https://open.spotify.com/album/6B2G8y3W2SXYWLgo45mDEk) | 3:50 | 2023-08-18 |  |
 | [Sonho de um Passaro \- Special M Remix](https://open.spotify.com/track/2WlMKcobKZMKvoFcnlQbdS) | [Pedra Branca](https://open.spotify.com/artist/7ClRSpXsFCWnmUrSXGa8Gn), [Special M](https://open.spotify.com/artist/0rzSdpejrKjBJ9FK5kqvgX) | [Dance Floor Remixes](https://open.spotify.com/album/2wWwyGQFNvA2zERWQgOpsJ) | 5:10 | 2022-03-04 |  |

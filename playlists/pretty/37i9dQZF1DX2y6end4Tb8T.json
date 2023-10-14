@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 55544,
+  "num_followers": 55559,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWU4YmY5NmNjNmQwZTE4MmY1NDg5OThkOTJlOTk0NDhjZmExNDc4",
+  "snapshot_id": "MCw5MGQ3ZGIwMGVlY2I3ZmZlNDc2NWJlY2QzMDVkOGQ5MDkyZWIwNzI0",
   "tracks": [
     {
       "added_at": "2023-09-01 14:43:51",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Tu No Metes Cabra",
+        "url": "https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 170762,
+      "name": "Tu No Metes Cabra",
+      "url": "https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Real Hasta la Muerte",
         "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 216857,
       "name": "Brindemos",
       "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Tu No Metes Cabra",
-        "url": "https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 170762,
-      "name": "Tu No Metes Cabra",
-      "url": "https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Thang For You (feat. No Cap)",
-        "url": "https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2"
-      },
-      "artists": [
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        },
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 259545,
-      "name": "Thang For You (feat. No Cap)",
-      "url": "https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqe\u00e9in Montana, Marcianos Crew & Duki) [Remix]",
         "url": "https://open.spotify.com/album/36ehOw44KSj8riww8Eamd8"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 456939,
       "name": "Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqe\u00e9in Montana, Marcianos Crew & Duki) - Remix",
       "url": "https://open.spotify.com/track/0OWcpVA83HI8Pb5DybDuoX"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Thang For You (feat. No Cap)",
+        "url": "https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 259545,
+      "name": "Thang For You (feat. No Cap)",
+      "url": "https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Sold Out Dates",
+        "url": "https://open.spotify.com/album/7MUGqiTtFGF2THKw5BjuoG"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 141578,
+      "name": "Sold Out Dates",
+      "url": "https://open.spotify.com/track/25rJp2UNyZWmBSoVDzjRss"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "TattleTales",
         "url": "https://open.spotify.com/album/6q8AAimjVfKuv9PrI5xto9"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 202666,
       "name": "TROLLZ (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/3JwxpSpGaXmGqLwWN6D6eC"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Sold Out Dates",
-        "url": "https://open.spotify.com/album/7MUGqiTtFGF2THKw5BjuoG"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 141578,
-      "name": "Sold Out Dates",
-      "url": "https://open.spotify.com/track/25rJp2UNyZWmBSoVDzjRss"
     },
     {
       "added_at": "2023-09-01 14:43:51",

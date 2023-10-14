@@ -2,9 +2,9 @@
 
 ### [Louvores Pentecostais](https://open.spotify.com/playlist/37i9dQZF1DWTvrPFPIwgwG)
 
-> Ouça as novidades e grandes louvores Pentecostais\. Foto: Gislaine e Mylena
+> Ouça as novidades e grandes louvores Pentecostais\. Foto: Eurice Diniz
 
-186 songs - 15 hr 42 min
+188 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,9 +30,11 @@
 | [Calma Meu Filho](https://open.spotify.com/track/5TcHJfpBbJn4aqWnN9ijg8) | [Alisson Santos](https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ) | [Calma Meu Filho](https://open.spotify.com/album/4soMftZMeHhqIZxqTnf6yG) | 4:10 | 2023-05-05 | 2023-06-03 |
 | [Canta](https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Canta](https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi) | 4:58 | 2022-12-23 |  |
 | [Casa Cheia](https://open.spotify.com/track/1i3DVRWjZuiVwA4bOeKENl) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O), [Felipe Farkas](https://open.spotify.com/artist/34jtUB0kEXX3VZCMoPPemU) | [Casa Cheia](https://open.spotify.com/album/00EWWHeeej4SKqcPx0pgLJ) | 4:28 | 2022-09-09 | 2022-10-15 |
+| [Cheiro de Guerra](https://open.spotify.com/track/1a8F9EWgr8k4sINiqpstr0) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [Cheiro de Guerra](https://open.spotify.com/album/02jpKdZsl0VvdbwIrBUcVK) | 5:27 | 2023-10-13 |  |
 | [Chora que a Vitória Vem \(Ao Vivo\)](https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97) | [Chora que a Vitória Vem \(Ao Vivo\)](https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg) | 4:53 | 2023-09-25 |  |
 | [Chore pra Deus](https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Chore pra Deus](https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb) | 4:42 | 2022-09-09 | 2023-04-16 |
 | [Cicatrizes](https://open.spotify.com/track/1FEZd9RaMwXO5kTQSFzUcX) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Cicatrizes](https://open.spotify.com/album/6NkLzttzpEDC0VbT02UdPW) | 5:24 | 2022-09-09 | 2022-10-29 |
+| [Como Não Te Adorar \- Ao Vivo](https://open.spotify.com/track/0Wd7GcT9YDAKddGR2nz72n) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Como Não Te Adorar \(Ao Vivo\)](https://open.spotify.com/album/4uYjlQQM5rZiobFQS8tXM3) | 6:20 | 2023-10-13 |  |
 | [Crente Fingindo Ser Cristão \(Ao Vivo\)](https://open.spotify.com/track/2lETl9YmICkJOOYCMJxhH2) | [Karolzinha](https://open.spotify.com/artist/1EX52ykglCCY8a51tsU2jQ), [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc) | [Crente Fingindo Ser Cristão \(Ao Vivo\)](https://open.spotify.com/album/0JYm6ZrHlLWJsGaBg8Hv6H) | 3:19 | 2023-04-28 |  |
 | [De Repente](https://open.spotify.com/track/1bltH7HeykQVo3moYUzPbb) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Amanda Wanessa](https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm) | [De Repente](https://open.spotify.com/album/2wPvQ8BV6wt0SZZqYii17K) | 4:06 | 2022-09-09 | 2022-10-29 |
 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK) | 4:00 | 2022-12-23 |  |
@@ -123,7 +125,7 @@
 | [O Noivo Virá](https://open.spotify.com/track/4H5tuVx6j0UqcWVAaJt9qu) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Noivo Virá](https://open.spotify.com/album/6W6VSlerbFI3dvGgiOX7pE) | 6:29 | 2022-09-09 | 2023-07-04 |
 | [O Noivo Virá](https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 6:29 | 2023-06-23 |  |
 | [O Preço Mais Caro](https://open.spotify.com/track/09Ycc4int063ZpChD3OMCE) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Preço Mais Caro](https://open.spotify.com/album/1IevqavLNiL8L03MbiziDx) | 3:57 | 2023-08-18 | 2023-09-26 |
-| [O Processo](https://open.spotify.com/track/44BsTP3MwFY22X1YijTcHM) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [O Processo](https://open.spotify.com/album/07f2j4GJrhf2vDPCSQpt4O) | 4:50 | 2022-09-09 |  |
+| [O Processo](https://open.spotify.com/track/44BsTP3MwFY22X1YijTcHM) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [O Processo](https://open.spotify.com/album/07f2j4GJrhf2vDPCSQpt4O) | 4:50 | 2022-09-09 | 2023-10-14 |
 | [O Rei e o Jumentinho](https://open.spotify.com/track/0CKGdI0qlp29gMmUjhs8Iv) | [Marcelo Dias e Fabiana](https://open.spotify.com/artist/3IdQCstsn4ORocq6UDfaRu) | [O Rei e o Jumentinho](https://open.spotify.com/album/1nvpCyC4YTywNaGYdnV3lK) | 4:40 | 2022-10-15 | 2022-12-24 |
 | [O Segredo \(Ao Vivo\)](https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Segredo \(Ao Vivo\)](https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd) | 5:06 | 2023-05-05 |  |
 | [Olha Você Aí](https://open.spotify.com/track/3lmKyXR7M4bTrzUWrM90eM) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Olha Você Aí](https://open.spotify.com/album/0hSIqNjbnDJdWlwUpzwKd4) | 5:02 | 2022-09-09 | 2022-10-29 |
@@ -181,7 +183,7 @@
 | [Vai Passar \(Ao Vivo\)](https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Vai Passar \(Ao Vivo\)](https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj) | 5:15 | 2023-03-11 |  |
 | [Vai Se Cumprir](https://open.spotify.com/track/550RtH8cLuEu2IIL6pJXG9) | [Camilly Vitória](https://open.spotify.com/artist/4rUGVlkSvIQX76x3P54ObH), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Vai Se Cumprir](https://open.spotify.com/album/5x3DpJwDkKrcfnp6SV6cEg) | 4:08 | 2022-09-09 |  |
 | [Vai Ter Festa](https://open.spotify.com/track/7vKRhq3hoqNyzn6KGcVEF3) | [Jana de Paula](https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K) | [Vai Ter Festa](https://open.spotify.com/album/7qIy0gZAG6rClu3mi6dPXX) | 5:29 | 2023-03-17 | 2023-09-02 |
-| [Vai Ter Resposta](https://open.spotify.com/track/7bol88BQ1ZpxWgpBiZXk9M) | [Flávia Domingues](https://open.spotify.com/artist/5l5c5OEGDESv4wKwLBWDzE), [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Vai Ter Resposta](https://open.spotify.com/album/5QDCJezujUI5QHPOHTxNcE) | 4:24 | 2023-07-28 |  |
+| [Vai Ter Resposta](https://open.spotify.com/track/7bol88BQ1ZpxWgpBiZXk9M) | [Flávia Domingues](https://open.spotify.com/artist/5l5c5OEGDESv4wKwLBWDzE), [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Vai Ter Resposta](https://open.spotify.com/album/5QDCJezujUI5QHPOHTxNcE) | 4:24 | 2023-07-28 | 2023-10-14 |
 | [Vai Ter Surpresa \(Ao Vivo\)](https://open.spotify.com/track/3JBriN1tBkNyni3c7hsxj2) | [Polyana Martins](https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x) | [Vai Ter Surpresa \(Ao Vivo\)](https://open.spotify.com/album/35ldhu30Vn4LecR1FrUqLR) | 4:25 | 2023-07-07 | 2023-09-02 |
 | [Vem Senhor](https://open.spotify.com/track/5mh0WKzHIKBtU3Pl24wdFT) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Vem Senhor](https://open.spotify.com/album/3RivMqWy4p3erM2Ydgcv2u) | 5:12 | 2022-09-09 | 2023-10-07 |
 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 | 2022-09-09 |  |

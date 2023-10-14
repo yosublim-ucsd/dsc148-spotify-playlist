@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,187 likes - 75 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,330 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 42 | [Trumpet](https://open.spotify.com/track/7m8eozR3eg3MFxWomFcA8L) | [Dang3r](https://open.spotify.com/artist/1w3bZrV4XveeRTaCJAtkGr) | [Trumpet](https://open.spotify.com/album/31OFHrOtxs6uuf1mu3GNiR) | 7:23 |
 | 43 | [Bansuri](https://open.spotify.com/track/5PTwd54TX8VWHOD2UgR32f) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD) | [Bansuri](https://open.spotify.com/album/0rf8VJA0Omu4xXgwwUslir) | 7:30 |
 | 44 | [Psychosis](https://open.spotify.com/track/5jiqaaUn7jcCxw2jdvlFWE) | [Kore\-G](https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7) | [Psychosis](https://open.spotify.com/album/7cjcBj7AU1oySLuCN4XJgH) | 3:26 |
-| 45 | [Rage](https://open.spotify.com/track/0hKbJzy0TZY1MzQK2OUfrF) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [CR3WFX](https://open.spotify.com/artist/6twYjkIFnzVKNJgEEpfnvI) | [Rage](https://open.spotify.com/album/11S1mmbY9chR8xF1Jstdya) | 4:43 |
-| 46 | [The Oasis \(Zyrus 7 Remix\) \- Original Mix](https://open.spotify.com/track/4b7linw8vhDRiIvxML8k8W) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Zyrus 7](https://open.spotify.com/artist/7EMbA1QfJKIfeDOErntNqu) | [The Oasis \(Zyrus 7 Remix\)](https://open.spotify.com/album/7qIv7wlUoG6JKjD60hYK0U) | 3:29 |
+| 45 | [The Oasis \(Zyrus 7 Remix\) \- Original Mix](https://open.spotify.com/track/4b7linw8vhDRiIvxML8k8W) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Zyrus 7](https://open.spotify.com/artist/7EMbA1QfJKIfeDOErntNqu) | [The Oasis \(Zyrus 7 Remix\)](https://open.spotify.com/album/7qIv7wlUoG6JKjD60hYK0U) | 3:29 |
+| 46 | [Rage](https://open.spotify.com/track/0hKbJzy0TZY1MzQK2OUfrF) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [CR3WFX](https://open.spotify.com/artist/6twYjkIFnzVKNJgEEpfnvI) | [Rage](https://open.spotify.com/album/11S1mmbY9chR8xF1Jstdya) | 4:43 |
 | 47 | [War of the Gods](https://open.spotify.com/track/2fSuULcE8VMeOHxBsXIy0d) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [War of the Gods](https://open.spotify.com/album/44U5n7gc66s9kEoooqKd15) | 2:58 |
 | 48 | [Save Me](https://open.spotify.com/track/39hp7lSe0QPktFxKkWBI2B) | [Fabio Fusco](https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7), [Joicey](https://open.spotify.com/artist/1WIFMGTZTCJGz8rrENkqcK), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D) | [Save Me](https://open.spotify.com/album/3DhPzL19TNQPuwdDeodmbB) | 4:35 |
 | 49 | [STAY \- HEDEGAARD Remix](https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [STAY \(HEDEGAARD Remix\)](https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9) | 2:27 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 51 | [Ancient Aum](https://open.spotify.com/track/6n2OgfyvY0MuwFphEywfgz) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD), [Ace Ventura](https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4) | [Ancient Aum](https://open.spotify.com/album/7mXrF1il8uoZBOPpbbfvJ5) | 8:00 |
 | 52 | [STFD \(Remix\)](https://open.spotify.com/track/3cr4nLS3rbzII8fqvsDO5N) | [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [WHITENO1SE](https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2), [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [STFD \(Remix\)](https://open.spotify.com/album/7I7kTiZ5UcBnkIHbgzoJ4A) | 2:58 |
 | 53 | [Poison \- Darma Remix](https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Darma](https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:08 |
-| 54 | [Lose My Cool](https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D), [Djapatox](https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS) | [Lose My Cool](https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv) | 3:56 |
-| 55 | [Feel It](https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5) | [DNA](https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs), [Weaver](https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW) | [Feel It](https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g) | 3:31 |
+| 54 | [Feel It](https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5) | [DNA](https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs), [Weaver](https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW) | [Feel It](https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g) | 3:31 |
+| 55 | [Lose My Cool](https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D), [Djapatox](https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS) | [Lose My Cool](https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv) | 3:56 |
 | 56 | [I'm A Mess](https://open.spotify.com/track/6eibj2ctKHTZfQX9H1ILYn) | [Jilax](https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B), [3Form](https://open.spotify.com/artist/6z14QEpwhH5l5jpNypfTNs) | [I'm A Mess](https://open.spotify.com/album/6aZtBNIWLZJ2JI8FvKUwaK) | 3:12 |
 | 57 | [You & I](https://open.spotify.com/track/6evCF4QQGUt2C3pbefE3jH) | [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF), [Eden Shalev](https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe) | [You & I](https://open.spotify.com/album/2lhRmzTITHYR9xcAdRho0R) | 5:28 |
 | 58 | [Extra\-Terra](https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX) | [GRAViiTY](https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY) | [Extra\-Terra](https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4) | 3:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 74 | [Crossroads \(Remix\)](https://open.spotify.com/track/5pBEiBE1cCShb5fDt8973h) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs), [Major7](https://open.spotify.com/artist/7t6kb9BaKLBDnii5rDGm4V), [Rexalted](https://open.spotify.com/artist/6QXNQ8OQ9hbHzg88culdya) | [Crossroads](https://open.spotify.com/album/6KslRrpR7Bao2FZskC5MWI) | 5:43 |
 | 75 | [You Wanna Stay](https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Shroomeez](https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ) | 6:30 |
 
-Snapshot ID: `MCxmYjQyYzFjMWY0ZjMzZDZjNWY0OTg0ZWIzOGQ3MDc0MGZlOWRkMTNm`
+Snapshot ID: `MCxkYThhNjMyYmZjMTJlNmEwOWZjMWVlYTE5ZDRkZDI3ODNhNThlZmRm`

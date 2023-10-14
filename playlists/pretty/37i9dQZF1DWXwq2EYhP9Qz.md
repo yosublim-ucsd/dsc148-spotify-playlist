@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwq2EYhP9Qz.md) - [plain]
 
 > Our editors' favorites of the moment\. Save them to your collection before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,332 likes - 25 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,348 likes - 25 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwq2EYhP9Qz.md) - [plain]
 | 8 | [ME TENGO QUE IR](https://open.spotify.com/track/1Uvl2i3MlsoqGConBaKi7G) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 4:36 |
 | 9 | [HOY ME PORTO MAL](https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [HOY ME PORTO MAL](https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ) | 2:13 |
 | 10 | [ESENCIA](https://open.spotify.com/track/3r0eidnhTQ0a33kdfjzFoJ) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 5:05 |
-| 11 | [Bebé](https://open.spotify.com/track/6S7MMCxzavFIbqXEleji7X) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Bebé](https://open.spotify.com/album/31K2ZG9GMEVrUrVqyO94KP) | 2:55 |
-| 12 | [Alguien Más](https://open.spotify.com/track/0Z2vb8bWllb0UCgnWV2YLV) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Alguien Más](https://open.spotify.com/album/6V0njdk0lZt3ea8AVdFTe5) | 2:12 |
-| 13 | [PRIVILEGIOS](https://open.spotify.com/track/2HFJ2nXf7Komq9a4Z0Bbrm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 3:05 |
+| 11 | [PRIVILEGIOS](https://open.spotify.com/track/2HFJ2nXf7Komq9a4Z0Bbrm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 3:05 |
+| 12 | [Bebé](https://open.spotify.com/track/6S7MMCxzavFIbqXEleji7X) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Bebé](https://open.spotify.com/album/31K2ZG9GMEVrUrVqyO94KP) | 2:55 |
+| 13 | [Alguien Más](https://open.spotify.com/track/0Z2vb8bWllb0UCgnWV2YLV) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Alguien Más](https://open.spotify.com/album/6V0njdk0lZt3ea8AVdFTe5) | 2:12 |
 | 14 | [Estrella](https://open.spotify.com/track/4RshAnDX9hgShBo4wKwKu3) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Estrella](https://open.spotify.com/album/2ODmW3LBiS3zX8Plhodpoz) | 2:14 |
 | 15 | [Imprudencia](https://open.spotify.com/track/3Cd4tTkxEGTnxWddyxWgDK) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [Imprudencia](https://open.spotify.com/album/5X5UnBgIVpuoSeOrs0Xd09) | 3:19 |
-| 16 | [Brindo](https://open.spotify.com/track/3CjxGKDPbeRaO8BLnCddyK) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Brindo](https://open.spotify.com/album/12nEDX9e0eG6qu6056EPU5) | 4:44 |
-| 17 | [AUNQUE ME DUELA](https://open.spotify.com/track/2TGslH3xek402zoafuiabh) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [DESAHOGO](https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak) | 3:15 |
+| 16 | [AUNQUE ME DUELA](https://open.spotify.com/track/2TGslH3xek402zoafuiabh) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [DESAHOGO](https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak) | 3:15 |
+| 17 | [Brindo](https://open.spotify.com/track/3CjxGKDPbeRaO8BLnCddyK) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Brindo](https://open.spotify.com/album/12nEDX9e0eG6qu6056EPU5) | 4:44 |
 | 18 | [REVOLUCION AZUL](https://open.spotify.com/track/2ebfsQkDYWCq8d0otA1zbu) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [REVOLUCION AZUL](https://open.spotify.com/album/4qmFz9qSSzSMkqgmszlXBm) | 4:14 |
 | 19 | [Nada Que Me Guste Más](https://open.spotify.com/track/24ZdWvvNirs87VDxSMDU9u) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Nada Que Me Guste Más](https://open.spotify.com/album/1TvWgVEEt5UMrodGdtZ7O7) | 3:28 |
 | 20 | [Mi Norte](https://open.spotify.com/track/31JOUMmKcOd1g8GJFJazdW) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI) | [PO2054AZ \(Vol.I\)](https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT) | 3:40 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwq2EYhP9Qz.md) - [plain]
 | 24 | [Moonlight](https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Tetra Collective](https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k) | [Moonlight](https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9) | 4:13 |
 | 25 | [Pienso en Ti](https://open.spotify.com/track/2Oy1ZKm1QWYsLThU4rhduF) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [volumen dos](https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz) | 3:07 |
 
-Snapshot ID: `MCxhOTM2MzlmMjBiMjIyNTI1N2NmNTVmOTU2OTQzMWU3NWIzYjlkNmRh`
+Snapshot ID: `MCwyOTJlN2RiZjJkMTdjZDkwYTJhNzJiZmQ5MDAxMGUyOTYxNzA4ZjU4`

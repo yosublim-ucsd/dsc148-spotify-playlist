@@ -4,7 +4,7 @@
 
 > Hated is out! Foto: YUNGBLUD
 
-65 songs - 3 hr 20 min
+66 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [cold cold cold](https://open.spotify.com/track/0Fg6mZHrPM31PXBnHblOjX) | [EZI](https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC) | [isolation demos](https://open.spotify.com/album/1PJHCDU1CibYqQGeDN8Bvu) | 2:34 | 2023-07-21 |  |
 | [Confident \- Rock Version](https://open.spotify.com/track/1bQl53TZeNOWKuRdihOHx0) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Rock Version\)](https://open.spotify.com/album/3kGLuBEi0kaIgJI9AtmiP1) | 3:25 | 2023-08-18 |  |
 | [Damage Gets Done \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:28 | 2023-08-18 |  |
+| [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 | 2023-10-13 |  |
 | [Death Of An Executioner](https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:27 | 2023-07-21 |  |
 | [DON'T WANNA SLEEP](https://open.spotify.com/track/6ab8aFARxn63vq6KiTGnSz) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:36 | 2023-07-21 | 2023-08-19 |
 | [don’t call me pretty](https://open.spotify.com/track/6XV4GwRq92E9N3MmXxuxLy) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [don’t call me pretty](https://open.spotify.com/album/02EVktWJJ2yuJs2Q1eqiSB) | 3:01 | 2023-07-21 | 2023-08-12 |
@@ -58,7 +59,7 @@
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-08-11 |  |
 | [SANCTUARY](https://open.spotify.com/track/0af0p0VLe82vqCVC8YFCMk) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [SANCTUARY](https://open.spotify.com/album/2puYP5GNAu26hWrgPXLfIl) | 2:54 | 2023-07-21 |  |
 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 | 2023-07-21 | 2023-08-19 |
-| [Shy Away](https://open.spotify.com/track/7v4ziK63yNqkfHh8S3ZSR3) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy \(Livestream Version\)](https://open.spotify.com/album/1B61NzknoGqafMfKLY7QtZ) | 2:55 | 2023-07-21 |  |
+| [Shy Away](https://open.spotify.com/track/7v4ziK63yNqkfHh8S3ZSR3) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy \(Livestream Version\)](https://open.spotify.com/album/1B61NzknoGqafMfKLY7QtZ) | 2:55 | 2023-07-21 | 2023-10-14 |
 | [So Called Life](https://open.spotify.com/track/1QTQ3VNzabl4yF5GJE6hhK) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:26 | 2023-07-21 |  |
 | [Sorry Not Sorry \(with Slash\) \- Rock Version](https://open.spotify.com/track/3sxeoitzj07ONdF2akJ62y) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [Sorry Not Sorry \(with Slash\) \[Rock Version\]](https://open.spotify.com/album/17YnG9TORmVa3NWHwQKQHA) | 3:34 | 2023-07-21 | 2023-08-19 |
 | [Stitches](https://open.spotify.com/track/5rQQaAUU86ulQ4uZIyS1hp) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 3:03 | 2023-07-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 
 > Enjoy the electric, amplified sound that is Chicago Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,525 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,538 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 23 | [Lonesome Bedroom Blues](https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [Blowin' Like Hell](https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp) | 5:45 |
 | 24 | [Ice Cream Man](https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:44 |
 | 25 | [Dark Road](https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo) | [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O) | 3:37 |
-| 26 | [Work With Me Annie](https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Shake My Hand](https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm) | 4:18 |
-| 27 | [Drown In My Own Tears](https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG) | [Lacy Gibson](https://open.spotify.com/artist/54sySc5ynnkqxkG2dEMLQe) | [Living Chicago Blues, Vol\. 3](https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4) | 4:40 |
+| 26 | [Drown In My Own Tears](https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG) | [Lacy Gibson](https://open.spotify.com/artist/54sySc5ynnkqxkG2dEMLQe) | [Living Chicago Blues, Vol\. 3](https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4) | 4:40 |
+| 27 | [Work With Me Annie](https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Shake My Hand](https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm) | 4:18 |
 | 28 | [Rock Me Baby](https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC) | [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL) | [The Sonet Blues Story](https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY) | 3:58 |
 | 29 | [Kold Actions](https://open.spotify.com/track/0VQqkF65MjElD99dsky0hi) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Hot Wire 81 \(feat\. Richard Kirch, Sylvester Boines, Jimmy Schutte\) \[Blues Power\]](https://open.spotify.com/album/3yuhq2f5yW9DiYCweCFNGS) | 7:17 |
 | 30 | [Everything's Gonna Be All Right](https://open.spotify.com/track/2f47wE92JeVnJ8EM0IGsNQ) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Heartaches And Pain](https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 49 | [Big Town Playboy](https://open.spotify.com/track/6OjxAve4uIJjsxTBn90HlQ) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [Chess Blues](https://open.spotify.com/album/2r6RT78O1ZcUW6RQorUJFi) | 2:57 |
 | 50 | [Dark Road](https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo) | [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O) | 3:37 |
 
-Snapshot ID: `MCxkNTdmNjc1ZmVlNTYyZjc0Nzk2ODk0M2E5MTM2OWE1OTA1NjZkYjQ2`
+Snapshot ID: `MTY4NjgzMzg2MCwwMDAwMDAwMGJkMDU3ZmY5MjFlOTU4NDg5MzhmYTU3ZDZkMmZlOTdh`

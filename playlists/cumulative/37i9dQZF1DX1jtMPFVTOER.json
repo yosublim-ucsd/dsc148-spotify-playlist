@@ -3688,7 +3688,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 320230,
       "name": "Freedom Ain't Easy",
       "url": "https://open.spotify.com/track/6QhcPuRKNVEVijKdiDGpA4"
@@ -4358,6 +4358,40 @@
       "duration_ms": 228251,
       "name": "Hometown Hero",
       "url": "https://open.spotify.com/track/4poofyrRe5Dh8p175GU0hz"
+    },
+    {
+      "album": {
+        "name": "How it is",
+        "url": "https://open.spotify.com/album/22UxtvbRqaJx2SbjbzF7CB"
+      },
+      "artists": [
+        {
+          "name": "Nicole Brady",
+          "url": "https://open.spotify.com/artist/57clVZKVIdtfcIn5MTMF0o"
+        },
+        {
+          "name": "Lydia Ainsworth",
+          "url": "https://open.spotify.com/artist/7niNF3K2RlyrucFH7iZjWk"
+        },
+        {
+          "name": "Miles Mosley",
+          "url": "https://open.spotify.com/artist/61s1uLqt9FobVIJirJo2gA"
+        },
+        {
+          "name": "Royal Scottish National Orchestra",
+          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+        },
+        {
+          "name": "Mark Guiliana",
+          "url": "https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161474,
+      "name": "How it is",
+      "url": "https://open.spotify.com/track/6WBKYXKT4elChnyfrBStOM"
     },
     {
       "album": {
@@ -5650,7 +5684,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 194657,
       "name": "Like A Trap",
       "url": "https://open.spotify.com/track/2hfkuNjCb2taJLSPYAWC3s"
@@ -6330,6 +6364,32 @@
       "duration_ms": 149333,
       "name": "Most Days",
       "url": "https://open.spotify.com/track/2dZGh2ErH1lUytxHO7xX1J"
+    },
+    {
+      "album": {
+        "name": "MOTHERLESS [Feat. Eryn Allen Kane] (Robert Glasper Rendition)",
+        "url": "https://open.spotify.com/album/2QGrs0tVKYw8uEkgr9tsSu"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209716,
+      "name": "MOTHERLESS - Robert Glasper Rendition",
+      "url": "https://open.spotify.com/track/1wefL4EqXv2WsHtjuAc1W7"
     },
     {
       "album": {
@@ -7934,7 +7994,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 150672,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1QZ0trnp5lBt5rEvGX1kNk"

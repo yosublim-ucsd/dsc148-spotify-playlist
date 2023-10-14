@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Free Throw
 
-1,381 songs - 2 day 20 hr 57 min
+1,382 songs - 2 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,8 @@
 | [Car Crash](https://open.spotify.com/track/5dXIrAUNLOcN2mYkCSeO3k) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Car Crash](https://open.spotify.com/album/2F4bQLWNLz55akGbkwu7BB) | 3:53 | 2021-12-17 | 2022-01-21 |
 | [Careful What You Wish For](https://open.spotify.com/track/24GmNDtSfBxsgZIRDw1dEF) | [GARZI](https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv) | [Careful What You Wish For](https://open.spotify.com/album/47vIr5tIpN1x7cTguVIr2v) | 1:10 | 2022-12-02 | 2023-03-10 |
 | [CAROUSEL](https://open.spotify.com/track/7jcEftpTL9nElgSVy8SJdM) | [Sad Park](https://open.spotify.com/artist/7jHnNNWDLa2ztggSp5Dsxf) | [CAROUSEL](https://open.spotify.com/album/6rb8awNGFfUEBynRiNUm5X) | 3:15 | 2023-06-15 | 2023-08-04 |
-| [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/track/5zxw8pF2P97NMSzGsdCgzg) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/album/7Gu5f03bP20s7holoeIO3E) | 3:56 | 2023-10-13 |  |
+| [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/track/5AzFP6taTTCZp0SU18jxpc) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/album/1dVLmx7MeskNv1bwe6MY8Y) | 3:56 | 2023-10-13 |  |
+| [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/track/5zxw8pF2P97NMSzGsdCgzg) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/album/7Gu5f03bP20s7holoeIO3E) | 3:56 | 2023-10-13 | 2023-10-14 |
 | [catastrophe](https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [catastrophe](https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven) | 2:36 | 2022-12-02 | 2023-03-18 |
 | [Cautious Optimistic](https://open.spotify.com/track/4muT5sxG4pshsfgh94mWv1) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Find A Way Home](https://open.spotify.com/album/58iPMpEF2hFTr5rBqFZOBP) | 2:45 | 2023-08-24 | 2023-10-13 |
 | [Cavalier](https://open.spotify.com/track/4N9LPYE07fGLDK2EfCpVpn) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Cavalier](https://open.spotify.com/album/4MAxgehGTojMbNagyFBIpL) | 2:55 | 2022-10-13 | 2023-01-20 |

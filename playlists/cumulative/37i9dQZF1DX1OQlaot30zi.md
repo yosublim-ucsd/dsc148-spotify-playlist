@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Baby Gang, Capo Plaza, Shiva, Geolier, ANNA e tanti altri.
 
-2,405 songs - 4 day 13 hr 19 min
+2,406 songs - 4 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1182,7 +1182,7 @@
 | [LIBERA FOLLIA.](https://open.spotify.com/track/53JcW0LS92vAl8Z65OBOkF) | [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Cripo](https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0) | [LIBERA FOLLIA.](https://open.spotify.com/album/75tSh21oVbDuc3Hq1hpZGQ) | 2:45 | 2023-07-06 | 2023-07-14 |
 | [Liberi e schiavi](https://open.spotify.com/track/3LDkh7mW3sGkWY8hn2mdNZ) | [Cali](https://open.spotify.com/artist/3FH0DBflIZm5CdZhTXhhB2), [Aleaka](https://open.spotify.com/artist/63sB40l1dT9CV5vXu1E7q1), [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Paura e liberazione](https://open.spotify.com/album/7lbtRIJAvg89LaQwlegJdS) | 4:22 | 2022-08-12 | 2022-09-09 |
 | [Libero](https://open.spotify.com/track/1rZvI1UQ2X20a7cHB5wEFW) | [F00RTISSIMO](https://open.spotify.com/artist/5fhnAfaveHOu6oprccVXGs) | [Libero](https://open.spotify.com/album/2ipgNPoKexaMw70bRD8uVM) | 2:51 | 2022-12-01 | 2022-12-16 |
-| [Libertad \(feat\. Morad\)](https://open.spotify.com/track/72pkk2rd9ncTTS6Czd32Yy) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:52 | 2023-10-12 |  |
+| [Libertad \(feat\. Morad\)](https://open.spotify.com/track/72pkk2rd9ncTTS6Czd32Yy) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:52 | 2023-10-12 |  |
 | [LIBERTÀ](https://open.spotify.com/track/4fuGglruUIbpjDlDLRCP7I) | [Ronny 167](https://open.spotify.com/artist/6W4RbYcnJGkxxmoNBLxlb8), [Double G 167](https://open.spotify.com/artist/50Q2TtsOv7O0SF4FCJggai) | [LIBERTÀ](https://open.spotify.com/album/3bruQBGuufSEvIPzG2bvMT) | 1:49 | 2022-07-29 | 2022-08-05 |
 | [Libertà](https://open.spotify.com/track/4LGH4aHf7cnlyDym7hgX47) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Libertà](https://open.spotify.com/album/62L40Yc2xo7tqqSviIjXWW) | 2:21 | 2023-04-20 | 2023-05-12 |
 | [Libertè \#2](https://open.spotify.com/track/6bPeYiUhn1CFBve8fnin48) | [4m](https://open.spotify.com/artist/2e87DWvLyzKFgyHYxpF7G3), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Libertè \#2](https://open.spotify.com/album/3e9SXCvZpn7KhYKs1FFvj3) | 2:50 | 2022-06-17 | 2022-06-24 |
@@ -1645,6 +1645,7 @@
 | [Penzier](https://open.spotify.com/track/4CFL4pIRkUkO8hkUQsP6xz) | [Priore](https://open.spotify.com/artist/7zWFzmh5NZhmBzwWjHjnro) | [Penzier](https://open.spotify.com/album/4o6BO1Zqqk9lnSXLBPk3bG) | 2:44 | 2022-05-12 | 2022-05-20 |
 | [Per i Roiz 2](https://open.spotify.com/track/0wqh8UaAV1rqMyFOtFRWMT) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Nevia](https://open.spotify.com/artist/2CcJATfFG50akqpHUVp1be) | [Per i Roiz 2](https://open.spotify.com/album/55RAY16Dyy9bMIfyKRKatF) | 2:33 | 2022-10-13 | 2022-11-09 |
 | [Per il mio bene](https://open.spotify.com/track/1j4rTqIygJuZsmfO04UqFT) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Per il mio bene](https://open.spotify.com/album/1Z8F4vFqjLEYOBqpgHBqto) | 2:35 | 2022-06-02 | 2022-06-21 |
+| [Per me no](https://open.spotify.com/track/7IYh5OOeLuVrSO3oaPWROu) | [Pikasso](https://open.spotify.com/artist/3jgdWFCeO22HYQ0DiFK8xD) | [Per me no](https://open.spotify.com/album/2h7nKs3v8gprNVaARJCYkd) | 2:46 | 2023-10-12 |  |
 | [Per Sempre](https://open.spotify.com/track/13qcR6G5uRaRbzgfTdeCHr) | [Skinny Pit](https://open.spotify.com/artist/7djT3FpXHcKiLwpLwl9Ari) | [Per Sempre](https://open.spotify.com/album/2SX3pGN1Y9IQx6jY2rtkQK) | 3:00 | 2023-07-27 | 2023-08-11 |
 | [PER SEMPRE \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/33sarHmNDOaUADg68Bybh6) | [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [PIAZZA NOIA](https://open.spotify.com/album/1R5ZIS1zYkFptbn69V9vaa) | 3:17 | 2023-01-26 | 2023-03-03 |
 | [Per soldi](https://open.spotify.com/track/2ezyl8ctce4ub3NBfNlc5w) | [Ramzes](https://open.spotify.com/artist/3lSnvqZegxgUxopOE6MUmR) | [Per soldi](https://open.spotify.com/album/7hHG5z1BdinLWrLW0QIYKP) | 2:42 | 2023-03-16 | 2023-03-25 |

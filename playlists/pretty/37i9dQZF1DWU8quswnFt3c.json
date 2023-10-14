@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Moderna de Pueblo",
-  "num_followers": 915403,
+  "num_followers": 914312,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDQ4YjhhODk1OGJlOWY3NTdjM2YwZWM1NjY1OGE1MmQwMTlhYWFk",
+  "snapshot_id": "MCw1YjhhOTdjNTdlOGZhMmRlM2NkNzM3ZTJkMmFjYzM0NWMzN2JjMTlm",
   "tracks": [
     {
       "added_at": "2023-10-11 04:40:46",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-10-11 04:40:46",
       "album": {
-        "name": "Hay aliya",
-        "url": "https://open.spotify.com/album/0kke5oKlPdP0oSqlKaXsjR"
-      },
-      "artists": [
-        {
-          "name": "Numidia Lezoul",
-          "url": "https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Hay aliya",
-      "url": "https://open.spotify.com/track/3uXfxzrlhW9KwIM8aF5Zq3"
-    },
-    {
-      "added_at": "2023-10-11 04:40:46",
-      "album": {
         "name": "Nieba nie ma",
         "url": "https://open.spotify.com/album/7tE91JMUMPk4AHAX0IGNXn"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 178600,
       "name": "Nieba nie ma",
       "url": "https://open.spotify.com/track/4WCr0otDWYCVYHsbtvxqZU"
+    },
+    {
+      "added_at": "2023-10-11 04:40:46",
+      "album": {
+        "name": "Hay aliya",
+        "url": "https://open.spotify.com/album/0kke5oKlPdP0oSqlKaXsjR"
+      },
+      "artists": [
+        {
+          "name": "Numidia Lezoul",
+          "url": "https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Hay aliya",
+      "url": "https://open.spotify.com/track/3uXfxzrlhW9KwIM8aF5Zq3"
     },
     {
       "added_at": "2023-10-11 04:40:46",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-10-11 04:40:46",
       "album": {
+        "name": "Maquillada en la Cama",
+        "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 218663,
+      "name": "Maquillada en la Cama",
+      "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
+    },
+    {
+      "added_at": "2023-10-11 04:40:46",
+      "album": {
         "name": "Miami (From Miami Bici 2 The Movie)",
         "url": "https://open.spotify.com/album/0r81zGM7H4gVVz2YpvLbzT"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 140347,
       "name": "Miami - From Miami Bici 2 The Movie",
       "url": "https://open.spotify.com/track/6zssQJs1w0wOFuyVBU8VB2"
-    },
-    {
-      "added_at": "2023-10-11 04:40:46",
-      "album": {
-        "name": "Maquillada en la Cama",
-        "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 218663,
-      "name": "Maquillada en la Cama",
-      "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
     },
     {
       "added_at": "2023-10-11 04:40:46",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-10-11 04:40:46",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf"
+        "name": "Pao Sto Nisi",
+        "url": "https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD"
       },
       "artists": [
         {
-          "name": "Mystic Marley",
-          "url": "https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h"
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
         }
       ],
-      "duration_ms": 157974,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L"
+      "duration_ms": 178705,
+      "name": "Pao Sto Nisi",
+      "url": "https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0"
     }
   ],
   "unique_name": "EQUAL Global",

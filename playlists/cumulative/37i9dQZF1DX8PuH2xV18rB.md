@@ -4,7 +4,7 @@
 
 > Enjoy M.Net's dance battle show Street Dance Girls Fighter's original & inserted songs\. \(댄스 배틀 프로그램 스트릿댄스 걸스 파이터의 발매곡과 삽입곡들을 만나보세요.\)
 
-44 songs - 2 hr 10 min
+45 songs - 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2022-01-14 |  |
 | [NO BREAK \(Prod\. GooseBumps & Simon Dominic\)](https://open.spotify.com/track/7p5iFapJ56W9Swmu9NT00L) | [HolyBang](https://open.spotify.com/artist/55hCEdYVgnzW3ymnsIPd7T), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:19 | 2022-01-14 |  |
 | [Purple Hat](https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Purple Hat](https://open.spotify.com/album/4L9MrIcjiPN4luIoWP8XgG) | 2:58 | 2022-01-14 | 2022-12-14 |
-| [Purple Hat](https://open.spotify.com/track/4QVWoXs0dGVqZAZT6MPNVl) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [DANCING ON THE PEOPLE](https://open.spotify.com/album/2tkR7vg5l9QJRmHVXZ76sK) | 2:58 | 2022-01-14 |  |
+| [Purple Hat](https://open.spotify.com/track/4QVWoXs0dGVqZAZT6MPNVl) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [DANCING ON THE PEOPLE](https://open.spotify.com/album/2tkR7vg5l9QJRmHVXZ76sK) | 2:58 | 2022-01-14 | 2023-10-14 |
+| [Purple Hat](https://open.spotify.com/track/6WiGRFQfx2qw49MA7OeDYK) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Purple Hat](https://open.spotify.com/album/25mGhdGeV6FHAfqLCANz2J) | 2:58 | 2022-01-14 |  |
 | [Rave de Favela \(feat\. BEAM\)](https://open.spotify.com/track/1K7WzjKDcDdVbKNGrB0gej) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Rave de Favela \(feat\. BEAM\)](https://open.spotify.com/album/6A0SAv8tSkXHGzIlgFIhSy) | 2:34 | 2022-01-14 |  |
 | [Red Eye \(feat\. TroyBoi\)](https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:07 | 2022-01-14 |  |
 | [ROCKET](https://open.spotify.com/track/0xhBYNgmGLJEyvfObiwAhq) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [XX](https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34) | 3:11 | 2022-01-14 |  |

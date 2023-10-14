@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-304 songs - 13 hr 1 min
+305 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [In Quiet Admiration](https://open.spotify.com/track/7gIbaF08zajeFH0JwjTflZ) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [In Quiet Admiration](https://open.spotify.com/album/4bnRFPUL7Gbu5a17uY0FgR) | 2:19 | 2023-10-13 |  |
 | [In Search of Miracles](https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [In Search of Miracles](https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm) | 2:27 | 2023-02-24 |  |
 | [In the Makeup of the Sun \- Instrumental Version](https://open.spotify.com/track/2yyUytDg93W9yK40uENJg6) | [Christian Wannerwall](https://open.spotify.com/artist/4Z3m4U4Qm1b8EFpcws68kh) | [In the Makeup of the Sun \(Instrumental Version\)](https://open.spotify.com/album/1h90KBYEpVefz7oqZbpYFx) | 1:39 | 2022-03-04 | 2022-07-01 |
-| [Innocent Face](https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:02 | 2023-10-13 |  |
+| [Innocent Face](https://open.spotify.com/track/1LjYFVvhXmuP3RgErQBYkH) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Innocent Face](https://open.spotify.com/album/4GpBw9UUFaHkv12myq2POe) | 2:02 | 2023-10-13 |  |
+| [Innocent Face](https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:02 | 2023-10-13 | 2023-10-14 |
 | [Inside the stone](https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Inside the stone](https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi) | 2:04 | 2023-03-24 |  |
 | [Intention](https://open.spotify.com/track/5Qsc3ubq1pdHIdhnuITXf9) | [Harper Adams](https://open.spotify.com/artist/4vq84CaNbP8QBiKp5xEK7e) | [Intention](https://open.spotify.com/album/20kiTmsqXc6Dhipmt1YDNL) | 2:16 | 2022-03-04 | 2022-04-22 |
 | [Into the Well](https://open.spotify.com/track/0cSbVRsr50elwoPcp6m2XA) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Limitless](https://open.spotify.com/album/3Fj1XxYEFoqgXMP2JalxB8) | 2:35 | 2022-07-08 | 2022-10-29 |

@@ -4,7 +4,7 @@
 
 > You better duck, when I show you up, the goo goo muck! The Cramps on the cover.
 
-273 songs - 20 hr 40 min
+275 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Asimilasyon](https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Narin Yalnızlık](https://open.spotify.com/album/2tuiAgjwrn1rKciu8dqNmB) | 4:12 | 2021-10-15 | 2022-07-29 |
 | [Asimilasyon](https://open.spotify.com/track/513Btbko3502Gth1g7Seyj) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Narin Yalnizlik](https://open.spotify.com/album/5X9YAncsCpzA5XaHCjads4) | 4:14 | 2021-10-15 | 2022-11-14 |
 | [Astrónomo Insumiso](https://open.spotify.com/track/4jAvNrbowuSgqta1xr3Crc) | [Equinoxious](https://open.spotify.com/artist/7lCXpzIudWHsKQ6PMGECaZ) | [Cosmódromo](https://open.spotify.com/album/2oxzZvPi4tKqFj6rh3FfTC) | 4:45 | 2021-10-15 | 2022-11-13 |
+| [At Moment's Edge](https://open.spotify.com/track/0Rj53bVPLOT1uToDVxuClY) | [Lathe of Heaven](https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr) | [Bound By Naked Skies](https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1) | 5:10 | 2023-10-13 |  |
 | [Atmosphere](https://open.spotify.com/track/0NBgmP6Yg5xZYsnIZ0pGdo) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 4:10 | 2021-10-15 | 2022-07-13 |
 | [Atmosphere \- 2020 Digital Remaster](https://open.spotify.com/track/7k42ztYdHyKWrKrENxwjkV) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Atmosphere](https://open.spotify.com/album/5bXAysvuhQbyWllgYuahwt) | 4:12 | 2021-10-15 |  |
 | [Atomic Bongos](https://open.spotify.com/track/3WnBwOHWafZOeA5BtouHo9) | [Lydia Lunch](https://open.spotify.com/artist/3aSkzI3DQrdPtYXizXnwda) | [Queen Of Siam](https://open.spotify.com/album/2rDp5iFby86SSjNtpm3TjN) | 2:16 | 2021-10-15 | 2022-07-29 |
@@ -45,7 +46,7 @@
 | [Blasphemous Rumours](https://open.spotify.com/track/7oQX82XgUBDhSbpMSksG12) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(Deluxe\)](https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A) | 6:21 | 2021-10-15 | 2022-07-29 |
 | [Blasphemous Rumours \- 2006 Remaster](https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(2006 Remaster\)](https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ) | 6:21 | 2021-10-15 |  |
 | [Blood Be Fluid](https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [Blood Be Fluid](https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID) | 3:47 | 2022-09-29 | 2022-11-29 |
-| [Break the Chain](https://open.spotify.com/track/6kKRKC9D910aeIwvvsQ4us) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Heavenly Bodies](https://open.spotify.com/album/2PH0lFIOpfK13q72nnP5Fn) | 4:46 | 2021-10-15 |  |
+| [Break the Chain](https://open.spotify.com/track/6kKRKC9D910aeIwvvsQ4us) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Heavenly Bodies](https://open.spotify.com/album/2PH0lFIOpfK13q72nnP5Fn) | 4:46 | 2021-10-15 | 2023-10-14 |
 | [Break the Chain](https://open.spotify.com/track/4pzso9h6xrYcthbQHdaeOq) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [The Best Of Gene Loves Jezebel \- Voodoo Dollies](https://open.spotify.com/album/0dyidFH3g6JfRNNfhjilf4) | 4:46 | 2021-10-15 | 2023-02-06 |
 | [Break the Chain](https://open.spotify.com/track/77YOzvmOdCpB7PH0Uji5od) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [The Best Of Gene Loves Jezebel \- Voodoo Dollies](https://open.spotify.com/album/68sEF2g8cRMtrhcbR0Pf6d) | 4:46 | 2021-10-15 | 2022-04-21 |
 | [Break The Chain](https://open.spotify.com/track/19ZQ1EOicYOZn5eamUrWFQ) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Heavenly Bodies](https://open.spotify.com/album/0xJ8E1zEm9QBkzfEXP3agI) | 4:48 | 2021-10-15 | 2022-12-02 |
@@ -79,6 +80,7 @@
 | [Dulcinea](https://open.spotify.com/track/7rEwtTHRyIab2G7vzGXWg5) | [Black Tape For A Blue Girl](https://open.spotify.com/artist/2LM56NUYjaQzmYyQkZjBlZ) | [As One Aflame Laid Bare By Desire \(Deluxe Edition\)](https://open.spotify.com/album/28RYjaEUybwEqOwmK8VPi5) | 6:15 | 2021-10-15 | 2022-07-27 |
 | [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f) | 3:59 | 2021-10-15 |  |
 | [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 3:59 | 2021-10-15 | 2023-09-02 |
+| [Ekpyrosis](https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB) | [Lathe of Heaven](https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr) | [Bound By Naked Skies](https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1) | 2:52 | 2023-10-13 |  |
 | [Evermore](https://open.spotify.com/track/6DHIEgsV6r6GQ0djl6mL6k) | [hackedepicciotto](https://open.spotify.com/artist/1cPVrDY88XGHjD55pKOQ3s) | [Evermore](https://open.spotify.com/album/7KYGSaSbEZww6PMU8DCVgQ) | 2:55 | 2021-10-15 | 2022-04-20 |
 | [Experience](https://open.spotify.com/track/6cOqgPD2Og0qGg0FfMzuUS) | [Minny Pops](https://open.spotify.com/artist/64hGo0XLWbLrhPwAbW1VAR) | [Sparks in a Dark Room](https://open.spotify.com/album/6t9tz0hjv4zrxP5kBsEweG) | 3:32 | 2021-10-15 | 2022-04-20 |
 | [Face Meets Glass](https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT) | [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [It Will Come to You](https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ) | 3:36 | 2021-10-15 |  |
@@ -90,7 +92,7 @@
 | [Flowers](https://open.spotify.com/track/64M5ClXAgxTxmujhWN75XY) | [Rozz Williams and Gitane D...](https://open.spotify.com/artist/2yZHZ21tq76N2oc3G4zScF) | [Dream Home Heartache](https://open.spotify.com/album/3gJiXAaXhHgInF3spF1d3m) | 6:07 | 2021-10-15 | 2022-07-08 |
 | [Flowers In Our Hair](https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S) | [All About Eve](https://open.spotify.com/artist/2KIezwdswV0DunSBLSe4pR) | [All About Eve](https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki) | 4:25 | 2021-10-15 | 2022-07-28 |
 | [For Her Light](https://open.spotify.com/track/2bdlaYYLaXJIguKSSS63Lz) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [Elizium](https://open.spotify.com/album/08udU6yfPDCUmNXfByjwtE) | 3:01 | 2021-10-15 | 2022-07-29 |
-| [For Her Light](https://open.spotify.com/track/72mNXIGJyhuC4NQS4AvvBQ) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [Elizium](https://open.spotify.com/album/5hFGua73w06tkEYkvA03kB) | 3:01 | 2021-10-15 |  |
+| [For Her Light](https://open.spotify.com/track/72mNXIGJyhuC4NQS4AvvBQ) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [Elizium](https://open.spotify.com/album/5hFGua73w06tkEYkvA03kB) | 3:01 | 2021-10-15 | 2023-10-14 |
 | [From Her to Eternity \- 2009 Remastered Version](https://open.spotify.com/track/7nAx6FMrysqM88U48kc6i9) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Lovely Creatures \- The Best of Nick Cave and The Bad Seeds \(1984\-2014\) \[Deluxe Edition\]](https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf) | 5:35 | 2021-10-15 | 2022-07-20 |
 | [Frontier \(Remastered\)](https://open.spotify.com/track/5JJbbLAQurvpGW55lRt39v) | [Dead Can Dance](https://open.spotify.com/artist/6sq7prp0tj9Abn89khmfja) | [Dead Can Dance \(Remastered\)](https://open.spotify.com/album/0S4BTkNeo3XTqRjLF5MNFm) | 3:13 | 2021-10-15 | 2022-07-15 |
 | [Gaze](https://open.spotify.com/track/2cdGYqbL77EBhNuRCGDTzN) | [Play Dead](https://open.spotify.com/artist/1eNErxU1Dh5YPvxjgMuiSA) | [The First Flower](https://open.spotify.com/album/42rrIGV4us6I2ygie6KKou) | 4:30 | 2021-10-15 | 2022-05-15 |

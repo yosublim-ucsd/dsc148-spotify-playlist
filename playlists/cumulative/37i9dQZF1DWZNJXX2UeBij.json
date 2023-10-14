@@ -260,10 +260,6 @@
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
           "name": "Shaan",
           "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
         },
@@ -274,7 +270,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 325933,
       "name": "Aao Milo Chalo",
       "url": "https://open.spotify.com/track/6ocOeSjnWPcSTaSsi0zIdY"
@@ -1710,7 +1706,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 323053,
       "name": "Dil Dil Nazar",
       "url": "https://open.spotify.com/track/1ZpsPt7Ayxhd35QXHdLGEY"
@@ -2534,7 +2530,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 397026,
       "name": "In Dino",
       "url": "https://open.spotify.com/track/6YycppSAeGtSvwmu8qCcr2"
@@ -3666,7 +3662,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 244412,
       "name": "Love Me Love Me",
       "url": "https://open.spotify.com/track/0btSn1i81ONWKeMxUhWSij"
@@ -5274,7 +5270,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 345453,
       "name": "Sau Dard",
       "url": "https://open.spotify.com/track/4fSMSedkuqHoWD20H4Wog1"
@@ -6206,17 +6202,13 @@
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
           "name": "Shreya Ghoshal",
           "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
         }
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 280974,
       "name": "Ye Ishq Hai",
       "url": "https://open.spotify.com/track/4BiPsAV070dg3eLSVf727A"

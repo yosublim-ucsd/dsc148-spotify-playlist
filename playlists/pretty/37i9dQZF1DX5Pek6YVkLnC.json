@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Omar Courtz",
-  "num_followers": 229517,
+  "num_followers": 229545,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjBlMjFiNjRhNTU5MGFhYTUwNzc3OTY3ZTI1ZjE4MmUxOGY5ZTQx",
+  "snapshot_id": "MCwxMmNmOTk4NDE5ZWM1MDk3ZjQxN2U2NmFlNzU3MDAwNWU3MGMwZGI4",
   "tracks": [
     {
       "added_at": "2023-06-09 20:20:12",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "Bonnie and Clyde",
+        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 209192,
+      "name": "Bonnie and Clyde",
+      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "512",
         "url": "https://open.spotify.com/album/17JfLaj2zx8k9whBHN8wiI"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 188965,
       "name": "512",
       "url": "https://open.spotify.com/track/4zANwdkLMw3vQ2Xijg4WY8"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "Bonnie and Clyde",
-        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 209192,
-      "name": "Bonnie and Clyde",
-      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "M\u00e1s Grande",
-        "url": "https://open.spotify.com/album/6yqqKz2qpRV5jFLwkvVDmX"
-      },
-      "artists": [
-        {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "M\u00e1s Grande",
-      "url": "https://open.spotify.com/track/4TLEFzZg6L6iYBCIi0T2tU"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Palestina",
         "url": "https://open.spotify.com/album/13bCDRubXQLlDLmZGIzPH4"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 234240,
       "name": "Palestina",
       "url": "https://open.spotify.com/track/6yJx4eaItMhSP8SWK8lit3"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "M\u00e1s Grande",
+        "url": "https://open.spotify.com/album/6yqqKz2qpRV5jFLwkvVDmX"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "M\u00e1s Grande",
+      "url": "https://open.spotify.com/track/4TLEFzZg6L6iYBCIi0T2tU"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Tengo Un Draco",
-        "url": "https://open.spotify.com/album/13V0uce9WplVFQDnTts0Gj"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Tengo Un Draco",
-      "url": "https://open.spotify.com/track/5jALUQUWa52HXvDmA5NFOE"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Uno X Ciento",
         "url": "https://open.spotify.com/album/2eIR3IdzD32qKQQuLeQOXM"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 189000,
       "name": "Los Costos",
       "url": "https://open.spotify.com/track/0ZAYDTMC8NhYlKehcG9uZC"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Tengo Un Draco",
+        "url": "https://open.spotify.com/album/13V0uce9WplVFQDnTts0Gj"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Tengo Un Draco",
+      "url": "https://open.spotify.com/track/5jALUQUWa52HXvDmA5NFOE"
     },
     {
       "added_at": "2023-06-09 20:20:12",

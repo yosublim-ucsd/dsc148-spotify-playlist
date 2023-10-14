@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: Avenged Sevenfold",
+  "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: Judas Priest",
   "name": "Heavy Metal",
   "tracks": [
     {
@@ -712,7 +712,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 237115,
       "name": "Atonement",
       "url": "https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj"
@@ -5538,7 +5538,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 396293,
       "name": "If Darkness Had a Son",
       "url": "https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM"
@@ -8212,6 +8212,24 @@
       "duration_ms": 266053,
       "name": "Paint the Sky with Blood",
       "url": "https://open.spotify.com/track/7j0DSyekwDBBkAesbD5bzH"
+    },
+    {
+      "album": {
+        "name": "Panic Attack",
+        "url": "https://open.spotify.com/album/02DtysqFzSbWAfptGA7mec"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325987,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35"
     },
     {
       "album": {
@@ -12002,6 +12020,24 @@
       "duration_ms": 199586,
       "name": "Tomorrow's No Concern",
       "url": "https://open.spotify.com/track/1PFKsXase0JFt1KVH6qm5P"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273693,
+      "name": "Too Far Gone?",
+      "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
     },
     {
       "album": {

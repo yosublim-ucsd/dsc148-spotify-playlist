@@ -4,7 +4,7 @@
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-109 songs - 9 hr 59 min
+110 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Al Que Está Sentado En el Trono \(feat\. Lucas Conslie\)](https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Uniendo Cielo Y Tierra](https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W) | 10:01 | 2020-09-18 |  |
 | [Alabaré Al Señor \(Anástasis\)](https://open.spotify.com/track/17tQn0PVAVheKCGg24RFMQ) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 5:27 | 2023-04-09 |  |
 | [Aleluya](https://open.spotify.com/track/0NckqVt6yKJ783QiWWCDTb) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 10:23 | 2023-04-09 |  |
-| [Amor Imparable](https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 3:45 | 2023-04-09 |  |
+| [Amor Imparable](https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 3:45 | 2023-04-09 | 2023-10-14 |
 | [Amor Sin Comparación](https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 4:59 | 2020-09-18 |  |
 | [Aquella Cruz \- Live](https://open.spotify.com/track/2frJRTzJyf8wid4vV2T8Vp) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Live\)](https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg) | 5:27 | 2023-04-09 | 2023-04-12 |
 | [Atrae Mi Corazón](https://open.spotify.com/track/7bt8WjPT8Yyy4ovkKkhP9D) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h) | [Toma Tu Lugar](https://open.spotify.com/album/6OhBPWPiBpYb1oro29GLNo) | 7:05 | 2020-09-18 |  |
@@ -81,6 +81,7 @@
 | [Mi Shalom](https://open.spotify.com/track/58japnj5Xn49Wpi5WpMiUT) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Graciela Galmes](https://open.spotify.com/artist/7EnYA3MomsUMPg4hbWmy5r) | [Mi Shalom](https://open.spotify.com/album/5tcaH26vOYM9mluQUwROcz) | 7:00 | 2023-04-09 |  |
 | [Misericordia](https://open.spotify.com/track/45kBRk3OOKJNKJJFO0h1OJ) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Misericordia](https://open.spotify.com/album/0Y29ylAB8U61Jfb1O719IS) | 3:38 | 2023-04-09 |  |
 | [Muerte Por Vida](https://open.spotify.com/track/68rCrBWih9O3ctD7NbXUUH) | [Belen Losa](https://open.spotify.com/artist/6ykUpAJTNpbCpuyApOAxHw) | [Muerte Por Vida](https://open.spotify.com/album/0gTUTqQo7JdXl9yaj5wUcg) | 6:08 | 2023-04-09 |  |
+| [Más De Ti](https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Más De Ti](https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v) | 3:09 | 2023-10-13 |  |
 | [Nada Guardaste](https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV) | [Nada Guardaste](https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd) | 3:39 | 2023-04-09 | 2023-10-11 |
 | [No hay Nadie Como tú](https://open.spotify.com/track/2L6tC6T3EMhgtARt8Rgt6Q) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Marco Barrientos Auditorio Nacional](https://open.spotify.com/album/02jz93WiEGLDvMhDb2xCPC) | 5:38 | 2020-09-18 |  |
 | [No Hay Otro Dios](https://open.spotify.com/track/2kmRF1rM0ZQfZZ4RmkVIs4) | [Banda Horizonte](https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ) | [No Hay Otro Dios](https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm) | 6:31 | 2023-04-09 |  |

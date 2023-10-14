@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Celebrating ten years of Burna Boys's Debut Album; Leaving an Impact for Eternity (LIFE). Cover: Burna boy",
+  "description": "Celebrating the godfather of Afrobeat.\n Cover: Fela Kuti",
   "name": "Timeless Afro ",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 237669,
       "name": "#Yawadey",
       "url": "https://open.spotify.com/track/0rDedYRMG0a9cXkdZMeutG"
@@ -942,7 +942,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 197558,
       "name": "Collateral Damage",
       "url": "https://open.spotify.com/track/5srIkb35ees5dhgjK3zdfz"
@@ -996,7 +996,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 250257,
       "name": "Dami Duro",
       "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 793200,
       "name": "Expensive Shit",
       "url": "https://open.spotify.com/track/2yBjFF19OmukrC7deP7LfZ"
@@ -1448,6 +1448,24 @@
       "duration_ms": 881240,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/1HC6o3lTQvNmtH3ejYG4hs"
+    },
+    {
+      "album": {
+        "name": "Gentleman",
+        "url": "https://open.spotify.com/album/532y6THMUtDYbRQAvzP1bL"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 881240,
+      "name": "Gentleman",
+      "url": "https://open.spotify.com/track/6D8455OOJF0eCFmFq8E4Qi"
     },
     {
       "album": {
@@ -1909,6 +1927,24 @@
     },
     {
       "album": {
+        "name": "Fela With Ginger Baker Live!",
+        "url": "https://open.spotify.com/album/7fkwNiJJggsA4bFyDMzmSr"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465280,
+      "name": "Let's Start",
+      "url": "https://open.spotify.com/track/5iBPlU3XOy6ooug4rD9Cft"
+    },
+    {
+      "album": {
         "name": "Like Dat",
         "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
       },
@@ -1956,7 +1992,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 249509,
       "name": "Like to Party",
       "url": "https://open.spotify.com/track/0yMdEAX2hP8diPDTaufeR9"
@@ -1974,7 +2010,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 253933,
       "name": "Limpopo",
       "url": "https://open.spotify.com/track/6DX3c5LFsm0sJE8eZezUWu"
@@ -2584,7 +2620,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 185898,
       "name": "On the Low",
       "url": "https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd"
@@ -2838,7 +2874,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 289044,
       "name": "Reggae Blues",
       "url": "https://open.spotify.com/track/0S3zWefFu9O7zIq8EarIbl"
@@ -2856,7 +2892,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 218186,
       "name": "Repete",
       "url": "https://open.spotify.com/track/2IgwxE5qvqb6LoP36mHa8G"
@@ -2896,7 +2932,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 254400,
       "name": "Run My Race",
       "url": "https://open.spotify.com/track/24oH58vtxgSF2W5a4i6al0"
@@ -2914,7 +2950,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 276024,
       "name": "Say So",
       "url": "https://open.spotify.com/track/2ympTJan7fHe3brZ2ZUXEo"
@@ -3209,6 +3245,24 @@
     },
     {
       "album": {
+        "name": "Stalemate",
+        "url": "https://open.spotify.com/album/6bDTCgbQhyK8PBSiZktnKb"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 774973,
+      "name": "Stalemate",
+      "url": "https://open.spotify.com/track/5xyToYNFTJ4PrGHBQiKZYZ"
+    },
+    {
+      "album": {
         "name": "Siduction (Deluxe Edition)",
         "url": "https://open.spotify.com/album/27wGHWT4Js0Y2hyjdQns0f"
       },
@@ -3376,7 +3430,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-14",
       "duration_ms": 250000,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/7mBq0ZB8bjoMviXOGaGDZz"
@@ -3470,7 +3524,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 200413,
       "name": "Way Too Big",
       "url": "https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP"
@@ -3596,7 +3650,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 231618,
       "name": "Ye",
       "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
@@ -3730,6 +3784,24 @@
       "duration_ms": 204081,
       "name": "Your Number",
       "url": "https://open.spotify.com/track/5J4FiKDJIdJ8AKx2gaWMt4"
+    },
+    {
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/51kRDjKcrYrQfFmOktFh32"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 745653,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/3RZoPvPHZsPTTc94DfWSCL"
     },
     {
       "album": {

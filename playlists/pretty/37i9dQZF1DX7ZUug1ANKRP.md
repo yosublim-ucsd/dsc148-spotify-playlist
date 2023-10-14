@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: LUNAX
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,790,991 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,789,599 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 12 | [Rock My Body \(with SASH!\) \[W&W x R3HAB VIP Remix\]](https://open.spotify.com/track/65Iiyhh7rD0vq0bmCPz2YK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with SASH!\) \[W&W x R3HAB VIP Remix\]](https://open.spotify.com/album/435wMn4soTVne8q2Ayjpj0) | 2:48 |
 | 13 | [Cynical](https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical](https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv) | 3:11 |
 | 14 | [I Can Feel](https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [I Can Feel](https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7) | 2:53 |
-| 15 | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/track/33DJk4ArxAjIqQkoVlV5Rn) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/4mMuanA4TZa3LfymxBFe0f) | 2:27 |
+| 15 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/33DJk4ArxAjIqQkoVlV5Rn) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/4mMuanA4TZa3LfymxBFe0f) | 2:27 |
 | 16 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 |
 | 17 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 |
 | 18 | [Better Me](https://open.spotify.com/track/7JStcVqmZ7NbI76tRerzaB) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Better Me](https://open.spotify.com/album/5IYf8D3VoKSaFcDJm6o9qL) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 |
 | 50 | [On The Move](https://open.spotify.com/track/7lEBtmu2qRLupeSOupBa1j) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [PRISKA](https://open.spotify.com/artist/2VnNxgnvg9H85vWtZuBo6w) | [On The Move](https://open.spotify.com/album/2aFtLWVpsrONFCNJZgEo9R) | 2:19 |
 
-Snapshot ID: `MCxjMjg1OTQ5OTM0ZTFhNzc1YTcwOTY2MmZjYjExNDQxNWZlZDFiNTUx`
+Snapshot ID: `MCw5MTA5ZDA5ZWNiNDc0YzkxYzEwZjI3MGJhMmRjNjJlMDhlODQ3ZmEw`
