@@ -798,6 +798,28 @@
     {
       "album": {
         "name": "How You Been",
+        "url": "https://open.spotify.com/album/4YTl2R43JpQcrsmkXJNFjz"
+      },
+      "artists": [
+        {
+          "name": "Milky Day",
+          "url": "https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu"
+        },
+        {
+          "name": "Elijah Lee",
+          "url": "https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "How You Been",
+      "url": "https://open.spotify.com/track/0tSusFmbtXwd8VbrYq4CnG"
+    },
+    {
+      "album": {
+        "name": "How You Been",
         "url": "https://open.spotify.com/album/5DQzrFmc37ugVviEb4CX9C"
       },
       "artists": [
@@ -812,7 +834,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 157440,
       "name": "How You Been",
       "url": "https://open.spotify.com/track/6dSa2i9AIEVT7JgFFAGCWi"
@@ -1544,6 +1566,28 @@
     {
       "album": {
         "name": "Paradise",
+        "url": "https://open.spotify.com/album/1HtWTbPU3YXQU7xxYqHIqK"
+      },
+      "artists": [
+        {
+          "name": "Milky Day",
+          "url": "https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu"
+        },
+        {
+          "name": "Elijah Lee",
+          "url": "https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4jNJlY21mAa7OBSvQ9iE89"
+    },
+    {
+      "album": {
+        "name": "Paradise",
         "url": "https://open.spotify.com/album/4P7ZLYY4dnkwO98cNv426b"
       },
       "artists": [
@@ -1558,7 +1602,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 189000,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5waRnWPjrrRfUF2j0J0WLq"

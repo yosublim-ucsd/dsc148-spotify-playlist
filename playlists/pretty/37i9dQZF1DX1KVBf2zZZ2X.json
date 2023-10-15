@@ -1,12 +1,12 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 16585,
+  "num_followers": 16670,
   "original_name": "Soft Nature Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDFjYzA2NzNmMDRjOTIwN2IwODdiNjk3MzljOGE4Y2Y4N2ZmOTFj",
+  "snapshot_id": "MCw5MjU5MWY3OTFlZGRjMDg3YmM0NDM1ODRkMzk0M2E2OTE1ZmRmZmFm",
   "tracks": [
     {
       "added_at": "2023-10-06 14:18:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-10-06 14:18:00",
       "album": {
-        "name": "nature",
-        "url": "https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe"
-      },
-      "artists": [
-        {
-          "name": "cloudcrush",
-          "url": "https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "drifting (with morning birds)",
-      "url": "https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8"
-    },
-    {
-      "added_at": "2023-10-06 14:18:00",
-      "album": {
         "name": "Little Rabbit",
         "url": "https://open.spotify.com/album/5bU0ZA8rrJumX16meqGpSV"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 187200,
       "name": "Little Rabbit",
       "url": "https://open.spotify.com/track/4ANwAzJKUZv8n3DmUkOv6b"
+    },
+    {
+      "added_at": "2023-10-06 14:18:00",
+      "album": {
+        "name": "nature",
+        "url": "https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe"
+      },
+      "artists": [
+        {
+          "name": "cloudcrush",
+          "url": "https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "drifting (with morning birds)",
+      "url": "https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8"
     },
     {
       "added_at": "2023-10-06 14:18:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-10-06 14:18:00",
       "album": {
-        "name": "The Darker Hours",
-        "url": "https://open.spotify.com/album/2tgnfOPTnXWqRgwiTxwgtT"
-      },
-      "artists": [
-        {
-          "name": "Anon Berg",
-          "url": "https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "The Darker Hours",
-      "url": "https://open.spotify.com/track/0OF3sk5xugBzmJnE20Pm3U"
-    },
-    {
-      "added_at": "2023-10-06 14:18:00",
-      "album": {
         "name": "Back to life",
         "url": "https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 130807,
       "name": "New Roads",
       "url": "https://open.spotify.com/track/35TmvWc9fwb2NwPZsHQOq5"
+    },
+    {
+      "added_at": "2023-10-06 14:18:00",
+      "album": {
+        "name": "The Darker Hours",
+        "url": "https://open.spotify.com/album/2tgnfOPTnXWqRgwiTxwgtT"
+      },
+      "artists": [
+        {
+          "name": "Anon Berg",
+          "url": "https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "The Darker Hours",
+      "url": "https://open.spotify.com/track/0OF3sk5xugBzmJnE20Pm3U"
     },
     {
       "added_at": "2023-10-06 14:18:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-06 14:18:00",
       "album": {
-        "name": "Morning on a STHLM Island",
-        "url": "https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU"
-      },
-      "artists": [
-        {
-          "name": "The Gustaf",
-          "url": "https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2"
-        }
-      ],
-      "duration_ms": 168374,
-      "name": "Morning on a STHLM Island",
-      "url": "https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr"
-    },
-    {
-      "added_at": "2023-10-06 14:18:00",
-      "album": {
         "name": "The Blue Dragon",
         "url": "https://open.spotify.com/album/69idyZhdF1As3JRdfZhXBz"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 219643,
       "name": "The Blue Dragon",
       "url": "https://open.spotify.com/track/6oNdphvzPO37XFCLtZMKVC"
+    },
+    {
+      "added_at": "2023-10-06 14:18:00",
+      "album": {
+        "name": "Morning on a STHLM Island",
+        "url": "https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU"
+      },
+      "artists": [
+        {
+          "name": "The Gustaf",
+          "url": "https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2"
+        }
+      ],
+      "duration_ms": 168374,
+      "name": "Morning on a STHLM Island",
+      "url": "https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr"
     },
     {
       "added_at": "2023-10-06 14:18:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-10-06 14:18:00",
       "album": {
-        "name": "the piano next door",
-        "url": "https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2"
-      },
-      "artists": [
-        {
-          "name": "our distant worlds",
-          "url": "https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "quiet plateau - ambient room mix",
-      "url": "https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB"
-    },
-    {
-      "added_at": "2023-10-06 14:18:00",
-      "album": {
         "name": "Sara's Dream",
         "url": "https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 198017,
       "name": "Safety Blanket",
       "url": "https://open.spotify.com/track/3MRIF4BQ3Oq6T84mGZxkLe"
+    },
+    {
+      "added_at": "2023-10-06 14:18:00",
+      "album": {
+        "name": "the piano next door",
+        "url": "https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2"
+      },
+      "artists": [
+        {
+          "name": "our distant worlds",
+          "url": "https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "quiet plateau - ambient room mix",
+      "url": "https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB"
     },
     {
       "added_at": "2023-10-06 14:18:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-10-06 14:18:00",
       "album": {
-        "name": "From the meadow",
-        "url": "https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG"
-      },
-      "artists": [
-        {
-          "name": "Alana Westwood",
-          "url": "https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb"
-        }
-      ],
-      "duration_ms": 135144,
-      "name": "Song from the meadow",
-      "url": "https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg"
-    },
-    {
-      "added_at": "2023-10-06 14:18:00",
-      "album": {
         "name": "By The Window",
         "url": "https://open.spotify.com/album/5XJaP9U70XQYC5TNghbDGJ"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 150250,
       "name": "By The Window",
       "url": "https://open.spotify.com/track/37mi5rHsbv0dd6rTTbjiqr"
+    },
+    {
+      "added_at": "2023-10-06 14:18:00",
+      "album": {
+        "name": "From the meadow",
+        "url": "https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG"
+      },
+      "artists": [
+        {
+          "name": "Alana Westwood",
+          "url": "https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb"
+        }
+      ],
+      "duration_ms": 135144,
+      "name": "Song from the meadow",
+      "url": "https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg"
     },
     {
       "added_at": "2023-10-06 14:18:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-10-06 14:18:00",
       "album": {
-        "name": "Absence",
-        "url": "https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq"
-      },
-      "artists": [
-        {
-          "name": "Nel Brim",
-          "url": "https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Absence",
-      "url": "https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm"
-    },
-    {
-      "added_at": "2023-10-06 14:18:00",
-      "album": {
         "name": "Juncture",
         "url": "https://open.spotify.com/album/7sRgPqeByeoKnByrxzz5l8"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2023-10-06 14:18:00",
       "album": {
-        "name": "Hygrometer",
-        "url": "https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C"
+        "name": "Absence",
+        "url": "https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq"
       },
       "artists": [
         {
-          "name": "Vastos Trofeos",
-          "url": "https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq"
+          "name": "Nel Brim",
+          "url": "https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC"
         }
       ],
-      "duration_ms": 146500,
-      "name": "Hygrometer",
-      "url": "https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz"
+      "duration_ms": 162000,
+      "name": "Absence",
+      "url": "https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm"
     },
     {
       "added_at": "2023-10-06 14:18:00",
@@ -1447,6 +1431,22 @@
       "duration_ms": 192000,
       "name": "The Sparrow",
       "url": "https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1"
+    },
+    {
+      "added_at": "2023-10-06 14:18:00",
+      "album": {
+        "name": "Hygrometer",
+        "url": "https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C"
+      },
+      "artists": [
+        {
+          "name": "Vastos Trofeos",
+          "url": "https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "Hygrometer",
+      "url": "https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz"
     }
   ],
   "unique_name": "Soft Nature Music",

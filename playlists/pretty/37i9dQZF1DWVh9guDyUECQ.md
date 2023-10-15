@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,957 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,998 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,13 +81,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 71 | [Mi Cielo](https://open.spotify.com/track/5HMbjD7f08PqxfxErIwmrx) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Mi Cielo](https://open.spotify.com/album/42aQGgd4gZBjcr41Tacpqs) | 3:18 |
 | 72 | [Para Amarte](https://open.spotify.com/track/5R1xv6pkvMCRVu7de9B1pj) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Para Amarte](https://open.spotify.com/album/2AkQCQd9z3gSs8krOGWi8C) | 3:48 |
 | 73 | [Apocalipsis \- Remix](https://open.spotify.com/track/3LlofqmjZxsorZ27t3qiHd) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Apocalipsis \(Remix\)](https://open.spotify.com/album/1CFULVLikyzs7MLrRtuwmY) | 4:10 |
-| 74 | [Llegaste Tú](https://open.spotify.com/track/5luYTHjsdvio9nY3zwgUWp) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Llegaste Tú](https://open.spotify.com/album/6GBHEIWKGd5YNz3z3wkDKi) | 4:01 |
-| 75 | [Dios, Familia & Rap](https://open.spotify.com/track/2ngZ7gQyyo2im1EUatTNnz) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa) | 4:17 |
+| 74 | [Dios, Familia & Rap](https://open.spotify.com/track/2ngZ7gQyyo2im1EUatTNnz) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa) | 4:17 |
+| 75 | [Llegaste Tú](https://open.spotify.com/track/5luYTHjsdvio9nY3zwgUWp) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Llegaste Tú](https://open.spotify.com/album/6GBHEIWKGd5YNz3z3wkDKi) | 4:01 |
 | 76 | [Amor Cósmico](https://open.spotify.com/track/3028sySnVGjf0iD5UYf4nv) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Amor Cósmico](https://open.spotify.com/album/1006qTPEsgtf7pgjdH9U0U) | 2:59 |
 | 77 | [Alguien Como Tú](https://open.spotify.com/track/1dirdNUEjZtt5Ruc06p41L) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0), [Ada Betsabe](https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT) | [Cielo](https://open.spotify.com/album/0ZqAUP4OtAbiz8chIj9aet) | 3:08 |
 | 78 | [TBT](https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y) | [Artury Pepper](https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57), [Coron3l](https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg) | [TBT](https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs) | 3:30 |
-| 79 | [Los Bendigo](https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA) | [Rudy Torres](https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD) | [La Evolución](https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q) | 2:37 |
-| 80 | [Hay Algo](https://open.spotify.com/track/7wQcynQeliPgO2HGAGZz7r) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa) | 4:05 |
+| 79 | [Hay Algo](https://open.spotify.com/track/7wQcynQeliPgO2HGAGZz7r) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa) | 4:05 |
+| 80 | [Los Bendigo](https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA) | [Rudy Torres](https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD) | [La Evolución](https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q) | 2:37 |
 | 81 | [NO ME MOVERÉ](https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Isaac Rojas](https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5) | [NO ME MOVERÉ](https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT) | 3:06 |
 | 82 | [Gozo Yo Quería](https://open.spotify.com/track/1fzA0uEca3T0aXla9LrEeF) | [Jinys](https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir), [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [Gozo Yo Quería](https://open.spotify.com/album/3LDNOqzk1HF7xYhVyUFezN) | 3:08 |
 | 83 | [Vine a Salvarte](https://open.spotify.com/track/5Kfw2HfUHc0amjBI7aM4uC) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Vine a Salvarte](https://open.spotify.com/album/2gO95dqmltMXpDEGTZdvNu) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 99 | [El Fuego](https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW) | [Sarah La Profeta](https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [El Fuego](https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh) | 3:10 |
 | 100 | [No Te Creo](https://open.spotify.com/track/0u7BTENONWNSjCYvfilAcB) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be) | [No Te Creo](https://open.spotify.com/album/1EWtFaTW5ytd8X9Q8TtbQb) | 3:16 |
 
-Snapshot ID: `MCwyODMzNzQ4YTg1MmQ4NjFkMmRhZmE4OGJkNTM1YWMwYTI0NzRhODIy`
+Snapshot ID: `MCxiNzIwOWE1NWRhNjMwNjk4MmM3ZTVmZDVjOGE1Y2E5MDdiYzE5YzQz`

@@ -4606,7 +4606,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 161378,
       "name": "CINTO ARMANI CON LOS TENIS TOMMY - SOY BELICON",
       "url": "https://open.spotify.com/track/1PnWmxB0G5TRQOkbUFQfSY"
@@ -9998,7 +9998,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 198646,
       "name": "GATSBY",
       "url": "https://open.spotify.com/track/789ugNJzd4Jdv3LJJIqLf3"
@@ -10382,6 +10382,24 @@
     {
       "album": {
         "name": "greedy",
+        "url": "https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p"
+    },
+    {
+      "album": {
+        "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
       },
       "artists": [
@@ -10392,7 +10410,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -15860,7 +15878,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 191558,
       "name": "Mood Malandro",
       "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
@@ -20476,7 +20494,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 240047,
       "name": "Querer Querernos",
       "url": "https://open.spotify.com/track/6d3q0F9VNtdxQUTVlRcet6"
@@ -22868,7 +22886,7 @@
       ],
       "date_added": "2023-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 310490,
       "name": "Slime You Out (feat. SZA)",
       "url": "https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH"
@@ -26640,7 +26658,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-23",
+      "date_removed": null,
       "duration_ms": 181066,
       "name": "Viernes 13",
       "url": "https://open.spotify.com/track/3oZ1k0maDv6kIcFMy03OdW"

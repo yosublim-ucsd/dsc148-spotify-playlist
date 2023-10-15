@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: T Breezy x Walker Boy\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,664 likes - 115 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,683 likes - 115 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 114 | [Horror Movie](https://open.spotify.com/track/0N7DrFdls2ZCXInaviVLdL) | [Gia Darcy](https://open.spotify.com/artist/5asUNjuXqcxAs2PmpQxGK1) | [Horror Movie](https://open.spotify.com/album/4YMvlIOgp4JbOzrOmyBhL1) | 3:10 |
 | 115 | [Adam](https://open.spotify.com/track/40RVEzCRBmQpMQFL6KxNnV) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [Adam](https://open.spotify.com/album/75zWtv9nKbJ4EgEh0yCpHZ) | 3:16 |
 
-Snapshot ID: `MCxmZWQwMTk5ODk2NWY4OGE5ZTZmZmZmYmQ5NGIzODFjNmE5NmRiYjgy`
+Snapshot ID: `MCw2NTRjZjM4YjRkNTg0MWEzMjA0MWM4N2VkN2JjZTI2OTVhNmQ5MjVh`

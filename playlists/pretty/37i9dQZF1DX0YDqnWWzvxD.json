@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 79779,
+  "num_followers": 79947,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWNiOWE0Njk3NzNmYmRlY2MwZTFjMTc5MjU3ZDA0ZTY2NjNhMDVm",
+  "snapshot_id": "MCxmZGUzZDJmZWMxYjhhYmExYmNlMGE3YTVjZTY0MGRhOTk0ZDk3NTMy",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -171,18 +171,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Live In Love, Vol. 2",
-        "url": "https://open.spotify.com/album/7so4tfVsFKa0MCim0SQUna"
+        "name": "Jupiter Grains",
+        "url": "https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt"
       },
       "artists": [
         {
-          "name": "Shantala",
-          "url": "https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi"
+          "name": "Jupiter Grains",
+          "url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85"
         }
       ],
-      "duration_ms": 360480,
-      "name": "Closing Meditation",
-      "url": "https://open.spotify.com/track/3iBMeAItDx4NNyg0keZ7Fm"
+      "duration_ms": 165253,
+      "name": "Meditation: Soft Mindfulness",
+      "url": "https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -219,6 +219,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Live In Love, Vol. 2",
+        "url": "https://open.spotify.com/album/7so4tfVsFKa0MCim0SQUna"
+      },
+      "artists": [
+        {
+          "name": "Shantala",
+          "url": "https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi"
+        }
+      ],
+      "duration_ms": 360480,
+      "name": "Closing Meditation",
+      "url": "https://open.spotify.com/track/3iBMeAItDx4NNyg0keZ7Fm"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Echoes of Silence",
         "url": "https://open.spotify.com/album/4i5kqpHHr4fjDNzusQeDuH"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 262400,
       "name": "Voice of Eternity",
       "url": "https://open.spotify.com/track/75PdHrz9uyj9hIYT9xadZ3"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Jupiter Grains",
-        "url": "https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt"
-      },
-      "artists": [
-        {
-          "name": "Jupiter Grains",
-          "url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85"
-        }
-      ],
-      "duration_ms": 165253,
-      "name": "Meditation: Soft Mindfulness",
-      "url": "https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Birds Sounds",
-      "url": "https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9"
+      "duration_ms": 193333,
+      "name": "Sea Waves",
+      "url": "https://open.spotify.com/track/6lY4tHBKd7aVQW7X4TXtxt"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Sea Waves",
-      "url": "https://open.spotify.com/track/6lY4tHBKd7aVQW7X4TXtxt"
+      "duration_ms": 165000,
+      "name": "Birds Sounds",
+      "url": "https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Ragas Relax",
-        "url": "https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj"
-      },
-      "artists": [
-        {
-          "name": "Chinmaya Dunster",
-          "url": "https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY"
-        }
-      ],
-      "duration_ms": 399666,
-      "name": "Goddess Evocation",
-      "url": "https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Incomplete",
         "url": "https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 139752,
       "name": "A Whisper In The Dark",
       "url": "https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Ragas Relax",
+        "url": "https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj"
+      },
+      "artists": [
+        {
+          "name": "Chinmaya Dunster",
+          "url": "https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY"
+        }
+      ],
+      "duration_ms": 399666,
+      "name": "Goddess Evocation",
+      "url": "https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -899,38 +899,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Sacred Woods",
-        "url": "https://open.spotify.com/album/0RkS12vW4jGmSlfVhYMWpm"
-      },
-      "artists": [
-        {
-          "name": "Figaro Castello",
-          "url": "https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n"
-        }
-      ],
-      "duration_ms": 247283,
-      "name": "Mindful and Free",
-      "url": "https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Leviathan",
-        "url": "https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz"
-      },
-      "artists": [
-        {
-          "name": "Dean Delaux",
-          "url": "https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0"
-        }
-      ],
-      "duration_ms": 144845,
-      "name": "Leviathan",
-      "url": "https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Spirit of Yoga",
         "url": "https://open.spotify.com/album/0uWowf3r9cp0nBhNZX9IsZ"
       },
@@ -951,6 +919,38 @@
       "duration_ms": 913626,
       "name": "The Hierophant",
       "url": "https://open.spotify.com/track/4Vw5cNbZiNABO9Dh7dem5o"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Leviathan",
+        "url": "https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz"
+      },
+      "artists": [
+        {
+          "name": "Dean Delaux",
+          "url": "https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0"
+        }
+      ],
+      "duration_ms": 144845,
+      "name": "Leviathan",
+      "url": "https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Sacred Woods",
+        "url": "https://open.spotify.com/album/0RkS12vW4jGmSlfVhYMWpm"
+      },
+      "artists": [
+        {
+          "name": "Figaro Castello",
+          "url": "https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n"
+        }
+      ],
+      "duration_ms": 247283,
+      "name": "Mindful and Free",
+      "url": "https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "OM Yoga Mix",
-        "url": "https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P"
-      },
-      "artists": [
-        {
-          "name": "Steve Gorn",
-          "url": "https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC"
-        }
-      ],
-      "duration_ms": 686333,
-      "name": "Indian Nights",
-      "url": "https://open.spotify.com/track/0tqngYytTrZi44CRIWnVz7"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Minimalia",
         "url": "https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 188731,
       "name": "Two",
       "url": "https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "OM Yoga Mix",
+        "url": "https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P"
+      },
+      "artists": [
+        {
+          "name": "Steve Gorn",
+          "url": "https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC"
+        }
+      ],
+      "duration_ms": 686333,
+      "name": "Indian Nights",
+      "url": "https://open.spotify.com/track/0tqngYytTrZi44CRIWnVz7"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Hyper Focus",
+        "url": "https://open.spotify.com/album/5QwYT0LWcrJEIKwgPro8am"
+      },
+      "artists": [
+        {
+          "name": "Binary One",
+          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
+        }
+      ],
+      "duration_ms": 203555,
+      "name": "Attention Caller",
+      "url": "https://open.spotify.com/track/5mgbGh47Sm1s8swwlGsSbW"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Asudha Yoga Dub Grooves",
         "url": "https://open.spotify.com/album/4RYvyhP0UExyak9l2mUcmy"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 231428,
       "name": "Life of Birds",
       "url": "https://open.spotify.com/track/2HQaSnot7REe09dDN15fmB"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Hyper Focus",
-        "url": "https://open.spotify.com/album/5QwYT0LWcrJEIKwgPro8am"
-      },
-      "artists": [
-        {
-          "name": "Binary One",
-          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
-        }
-      ],
-      "duration_ms": 203555,
-      "name": "Attention Caller",
-      "url": "https://open.spotify.com/track/5mgbGh47Sm1s8swwlGsSbW"
     },
     {
       "added_at": "2021-06-15 08:38:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Nej
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,338 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,465 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Plus fort](https://open.spotify.com/track/7e1meVSbvi7Khq18QL0Wbn) | [Minissia](https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl), [Joé Dwèt Filé](https://open.spotify.com/artist/5ndUyzzVSnOtUYoBsI1m5v) | [Plus fort](https://open.spotify.com/album/3uObZqyRFN3G78ywP9xVpk) | 2:56 |
 | 40 | [Karma](https://open.spotify.com/track/5cdWpC6rPjP1hroxlKYLKb) | [Reÿn](https://open.spotify.com/artist/4xqnWGU6MssJcPvMaVuZQF) | [Karma](https://open.spotify.com/album/0HjyI7O830iye5BHTdRkQz) | 2:30 |
 
-Snapshot ID: `MCxmOTFhNmMxNWRiZDYzNDZlZDhmNDRiMmNmYWRhZDRiMTM1NGE4NDU5`
+Snapshot ID: `MCxjMjA1MjJhMDJlMzNlZjM0NzBkMzViNzdhZjY4NjcyNDZhZjUxMjFh`

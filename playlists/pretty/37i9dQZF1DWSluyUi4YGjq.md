@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Cover: Duster
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,876 likes - 104 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,114 likes - 104 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 103 | [In Your Way](https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Here at All](https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU) | 3:54 |
 | 104 | [Sour Punch](https://open.spotify.com/track/13pNdu3UOvwz0NxU2EEgVD) | [Blushing](https://open.spotify.com/artist/27rWdoCAtvpwChpCDz9PK0) | [Possessions](https://open.spotify.com/album/1sZkGikz7VbeytHdaBgWhr) | 2:32 |
 
-Snapshot ID: `MCw3MGMxZTZlYTgzMWYzMWIyZTVhZWY0ZDFiZjVkZGEwNWNlZGJlZWY4`
+Snapshot ID: `MCxlZWZiZjFlNjY1OGFmMDc4ZTg3M2E0YWU1MzYyYTYwMTkyZDUwZjQx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Office Dog \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,685 likes - 125 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,715 likes - 125 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 102 | [Mattress](https://open.spotify.com/track/6V9RcZmTpDpK7y55xWXPtz) | [Palace Watson](https://open.spotify.com/artist/5Ll9u8Eu8NINJcN9mtRvz7) | [The Living Room EP](https://open.spotify.com/album/7cJQwMGWDeErogfTszDA0t) | 2:43 |
 | 103 | [Hate It Now](https://open.spotify.com/track/3GX2UEqkoaj4AqY3Fw14OO) | [Beach Novels](https://open.spotify.com/artist/1BBVLkxg9y5UPhKfzydUdS) | [Hate It Now](https://open.spotify.com/album/0QyzgzIHb5bI78gwDi73RH) | 4:09 |
 | 104 | [Abundance](https://open.spotify.com/track/5HBGZB9UjizILlj9XnnIrd) | [Sister.](https://open.spotify.com/artist/3QooTofa3QjkPWjB7sMHCY) | [Abundance](https://open.spotify.com/album/6PwRPR1kv0WpZnXkHq96ss) | 5:49 |
-| 105 | [Heavyweight](https://open.spotify.com/track/04bKfN1DmIwHAhvjaWmPgv) | [No Longer Kids](https://open.spotify.com/artist/63vvvrUenfLGfpKh9IdZ28) | [Heavyweight](https://open.spotify.com/album/1cbUAh7LGxNsLpql5guTfB) | 3:11 |
+| 105 | [Heavyweight](https://open.spotify.com/track/04bKfN1DmIwHAhvjaWmPgv) | [We Are No Longer Kids](https://open.spotify.com/artist/0QiM5GVfmCLtueuVVJwAXO) | [Heavyweight](https://open.spotify.com/album/1cbUAh7LGxNsLpql5guTfB) | 3:11 |
 | 106 | [Tongues ii](https://open.spotify.com/track/5hsiKHlyGKPgJgxKRzU01O) | [Slomo Sapiens](https://open.spotify.com/artist/1TDdS4QH1Z5hNQNe4YeM3Q) | [Tongues ii](https://open.spotify.com/album/39eb7GTOFKzbixXcKZBA3p) | 5:36 |
 | 107 | [Not Even Sadness](https://open.spotify.com/track/6Ax0KLAJ2ifwbgNPZlUBCH) | [Gay Meat](https://open.spotify.com/artist/2YeKLbyQXeNPNNXmp9Irol) | [Lychee Ice // Not Even Sadness](https://open.spotify.com/album/39mP1B0gThJJrkEmQrtePs) | 4:06 |
 | 108 | [Crush](https://open.spotify.com/track/2fGrNRKLkWJqGuzEST3pYX) | [Blush](https://open.spotify.com/artist/0uqUzyDhs3Ujb5DWDvwiOW) | [Crush](https://open.spotify.com/album/0QkcgSGcNz3p0DocnmvCUR) | 4:46 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 124 | [ifshitfuq](https://open.spotify.com/track/73YDopbDooUCO4WUKwI4zL) | [meg elsier](https://open.spotify.com/artist/4rkAMhebcdsLwZKBriNerT) | [ifshitfuq](https://open.spotify.com/album/4rpHu4Ca3tl9ju3UYzodja) | 3:50 |
 | 125 | [Racecar](https://open.spotify.com/track/4FPGFaICcvodRf0Fj9xx9L) | [hey i'm outside](https://open.spotify.com/artist/1KuUcuQRlE7H8XvHzF7r9r) | [Racecar](https://open.spotify.com/album/1PqN2J350tWLhSjRx8J8px) | 3:49 |
 
-Snapshot ID: `MCwyYTNmYjI1NDUyZWIxNDRmODMyNjI0YzkxNWRiYWJhNmI5ZTJmMGZh`
+Snapshot ID: `MCw1N2VkNzQ4ZDk0NmE0YzRlMjFmZjgwMjkyMDA4ZWI3YzM2NWYyMzQy`

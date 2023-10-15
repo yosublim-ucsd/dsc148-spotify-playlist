@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Angelina Mango
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,844 likes - 55 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,832 likes - 55 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 30 | [TANGO](https://open.spotify.com/track/7CufDALaisOBzcT0nfeaZF) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [TANGO](https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs) | 3:29 |
 | 31 | [Parlami](https://open.spotify.com/track/00QN58Gx571pB1MEuBAcmL) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Parlami](https://open.spotify.com/album/1XWrPc7GoTh1vQ5WAd575N) | 2:49 |
 | 32 | [Lacrime Di Piombo](https://open.spotify.com/track/5fh7anHZAkkaTzM3tUGkAg) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 3:16 |
-| 33 | [La parte più bella di me RMX](https://open.spotify.com/track/3fqElKBSWrAvObrMqx5oP8) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [La parte più bella di me RMX](https://open.spotify.com/album/2Knm3BBycBMixIas269Ik2) | 2:15 |
+| 33 | [La parte più bella di me RMX \- Remix](https://open.spotify.com/track/3fqElKBSWrAvObrMqx5oP8) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [La parte più bella di me RMX \(Remix\)](https://open.spotify.com/album/2Knm3BBycBMixIas269Ik2) | 2:15 |
 | 34 | [Anni 70](https://open.spotify.com/track/4gExrhPC8TKtMqbO6MrjAP) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Anni 70](https://open.spotify.com/album/3CH6Le8XzQhnzWMQBELzmE) | 2:27 |
 | 35 | [ti sei scordata del mio compleanno](https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN) | [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [cattive abitudini](https://open.spotify.com/album/7CVTvlGG8yvKuMu8kU1LTr) | 2:05 |
 | 36 | [Balla \(come la domenica\)](https://open.spotify.com/track/5c5i976D2vDemkPHOMcyDT) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR), [Paps'n'Skar](https://open.spotify.com/artist/7pbBSvkFKdTKLCJl5G1jSV) | [Balla \(come la domenica\)](https://open.spotify.com/album/5hun2luD1TdLOyNPm33U5Z) | 2:46 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 54 | [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 |
 | 55 | [Mi Pensi Ancora](https://open.spotify.com/track/7GqoXNz3AIKj48FbUcCABR) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH) | [Mi Pensi Ancora](https://open.spotify.com/album/3WVYb9E0xwiAK6ouuXEw9g) | 2:44 |
 
-Snapshot ID: `MCw4ODM0MzYzYzcwMThjNzA0NzI1NTZhZmVkZDI0YTczZjllN2FhNjE2`
+Snapshot ID: `MCw1ZjBkZjA0NzM5M2MyNDcyMzNhN2ZhMGZiZWUyOGE4Yzg4NWYzYjVm`

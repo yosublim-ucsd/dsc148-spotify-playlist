@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 9,421 likes - 39 songs - 2 hr 23 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 9,428 likes - 39 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [the CIA](https://open.spotify.com/track/71VFHN459tdGGWOLpMdYMi) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the CIA](https://open.spotify.com/album/1zGMd5eXQY9rPrXL0tVeEe) | 4:42 |
 | 2 | [For the Home](https://open.spotify.com/track/1MwaAmEycU3vOWQfSPFreS) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [For the Home](https://open.spotify.com/album/7t9WhhfipEpnk6L9Es10ft) | 4:38 |
-| 3 | [powers](https://open.spotify.com/track/4GgkYUOZareQyCK6ohJj7v) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 4:14 |
+| 3 | [Powers](https://open.spotify.com/track/4GgkYUOZareQyCK6ohJj7v) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 4:14 |
 | 4 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 |
 | 5 | [Brand New Colony](https://open.spotify.com/track/3bqIxUEy0AJjmn5VqeoMI4) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin), [Pickle Darling](https://open.spotify.com/artist/1CkgDItGS5PnRLXcEaforp) | [Brand New Colony / We Looked Like Giants](https://open.spotify.com/album/35K1POG2fNm3ar7YiqB9L4) | 4:28 |
 | 6 | [Practice](https://open.spotify.com/track/6J2ECbAbX4L4WgIkeXyeq6) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Practice](https://open.spotify.com/album/06y4wpVgWExGgvoUECSgMj) | 3:14 |

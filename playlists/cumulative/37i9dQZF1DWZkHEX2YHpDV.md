@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Games We Play
 
-1,036 songs - 2 day 6 hr 45 min
+1,037 songs - 2 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [G R O W \(WILLOW & Avril Lavigne feat\. Travis Barker\)](https://open.spotify.com/track/7yYDTV3VQ322o8r4wcYlqZ) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [lately I feel EVERYTHING](https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m) | 2:09 | 2021-12-10 | 2022-05-19 |
 | [Garamond](https://open.spotify.com/track/5FqwQC3C7VEO62zpVR6RHt) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Garamond](https://open.spotify.com/album/7FV2SMlamWIJ9q0cSGZ1lj) | 2:59 | 2021-12-10 | 2023-04-11 |
 | [Gaslight!](https://open.spotify.com/track/1rCdmjQUxxdvcCY92D7UiR) | [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f) | [I Can't Sleep](https://open.spotify.com/album/4CtZxt0ZarugeixV9FfR2g) | 2:45 | 2021-12-10 | 2022-08-06 |
+| [Gaunt](https://open.spotify.com/track/07WXShmsAvKUVK3QYUubJ9) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Gaunt](https://open.spotify.com/album/3hj2N8CIJ67hejzX5XcMRs) | 3:29 | 2023-10-10 |  |
 | [Get A Job](https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Get A Job](https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG) | 3:06 | 2022-08-26 | 2022-12-03 |
 | [Get Better](https://open.spotify.com/track/21ShcAgvO2NpKXQUrZwzfx) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [Get Better](https://open.spotify.com/album/6fJejXxMM9qP67LEzziPgc) | 2:45 | 2022-03-25 | 2022-04-16 |
 | [GET MINE](https://open.spotify.com/track/4aHuSlTXr5f0cd4sFPMFv9) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [EAT IT UP SPIT IT OUT](https://open.spotify.com/album/0dAQn8Qq1L1olB4QqQvARM) | 2:51 | 2023-04-10 | 2023-04-12 |
@@ -913,7 +914,7 @@
 | [This Place for You](https://open.spotify.com/track/0dmWLKYjDsvOm4qTXUl8mi) | [JUST LIKE US.](https://open.spotify.com/artist/585io4lwuWHLk0MEZCROqc) | [This Place for You](https://open.spotify.com/album/55S5UujiVJZV2exDfTHl0F) | 4:21 | 2022-03-25 | 2022-04-09 |
 | [this song wasn't good enough for the album](https://open.spotify.com/track/7dtA0P7PCmk5PTKdjwM0UZ) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [this song wasn't good enough for the album](https://open.spotify.com/album/2sRrWxFSpi25cno0LwmHYo) | 2:52 | 2021-12-10 | 2022-07-19 |
 | [This Time Last Week](https://open.spotify.com/track/3HPw07nh0KYvJFdkbrMnkW) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [I Hope Hell Isn't Real](https://open.spotify.com/album/3DMrlbRSB4rYDwsL1yNw8H) | 2:14 | 2023-04-23 |  |
-| [This Won't Go Over Well](https://open.spotify.com/track/4WNJmm4Xv8d0ELJgowypjT) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [This Won't Go Over Well](https://open.spotify.com/album/4Nxlb1mo54gPu2bXibj259) | 3:24 | 2023-07-14 |  |
+| [This Won't Go Over Well](https://open.spotify.com/track/4WNJmm4Xv8d0ELJgowypjT) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [This Won't Go Over Well](https://open.spotify.com/album/4Nxlb1mo54gPu2bXibj259) | 3:24 | 2023-07-14 | 2023-10-15 |
 | [Three Years, Still Counting](https://open.spotify.com/track/1jIkH7ks6XNlK46vfCfG02) | [Dusty Miller](https://open.spotify.com/artist/43iKuF1Cf7G4jp0N9mOnTP) | [Three Years, Still Counting](https://open.spotify.com/album/7ubtt5TsH3phFvK9dqxdKu) | 3:33 | 2022-03-25 | 2022-04-15 |
 | [Throat](https://open.spotify.com/track/39AM4AnMoqolKZab3kgUiu) | [Salem](https://open.spotify.com/artist/71seHBxiwcD6QOoSZ9P8Tf) | [Salem](https://open.spotify.com/album/7oiCbdoGYOiO9KSOplsCej) | 3:27 | 2021-12-10 | 2022-07-26 |
 | [Thunder](https://open.spotify.com/track/3Ox1FeECWvX8BmwXLLEJKY) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Thunder](https://open.spotify.com/album/5jSQOUFKYWTsnAKpLsesib) | 4:23 | 2022-07-08 | 2023-04-12 |

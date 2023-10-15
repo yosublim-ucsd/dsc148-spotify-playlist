@@ -1,12 +1,12 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Ala Vaikunthapurramuloo",
-  "num_followers": 298170,
+  "num_followers": 298511,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDAzMjg3NzMwNGJiYWU1ZjA2MDgxOGJhOWE1ZTE1MjJmYTA2ZWQy",
+  "snapshot_id": "MCxhMzlhNjEyYjNlNmYwNDQxNmFkNTQ5MmE5YzVjZGJmMDE2MzE2OWY3",
   "tracks": [
     {
       "added_at": "2022-07-24 04:40:57",
@@ -285,6 +285,22 @@
       "url": "https://open.spotify.com/track/7ILXon2PBU1bGYemfNg91q"
     },
     {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Son Of Satyamurthy",
+        "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
+      },
+      "artists": [
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        }
+      ],
+      "duration_ms": 262488,
+      "name": "Seethakaalam",
+      "url": "https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk"
+    },
+    {
       "added_at": "2023-03-16 06:15:29",
       "album": {
         "name": "Amigos",
@@ -303,22 +319,6 @@
       "duration_ms": 281723,
       "name": "Enno Ratrulosthayi Remix Song",
       "url": "https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Son Of Satyamurthy",
-        "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
-      },
-      "artists": [
-        {
-          "name": "Yazin Nizar",
-          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
-        }
-      ],
-      "duration_ms": 262488,
-      "name": "Seethakaalam",
-      "url": "https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk"
     },
     {
       "added_at": "2021-12-16 12:46:43",
@@ -597,24 +597,24 @@
       "url": "https://open.spotify.com/track/36ylvIx1fVaM4i5pux7Ea1"
     },
     {
-      "added_at": "2022-08-16 07:40:21",
+      "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Inthandham [From \"Sita Ramam (Telugu)\"]",
-        "url": "https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX"
+        "name": "Idharammayilatho",
+        "url": "https://open.spotify.com/album/6o9ysd0MFQXd6g4eWtcvNq"
       },
       "artists": [
         {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
         },
         {
-          "name": "S.P. Charan",
-          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+          "name": "Geetha Madhuri",
+          "url": "https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai"
         }
       ],
-      "duration_ms": 218808,
-      "name": "Inthandham (From \"Sita Ramam (Telugu)\")",
-      "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
+      "duration_ms": 257925,
+      "name": "Top Lesi Poddi",
+      "url": "https://open.spotify.com/track/0FSrCEox8bEpO3RD6ZfEr5"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -649,24 +649,24 @@
       "url": "https://open.spotify.com/track/14M1StehpwsydSGGy8z9eq"
     },
     {
-      "added_at": "2023-08-07 09:11:28",
+      "added_at": "2022-08-16 07:40:21",
       "album": {
-        "name": "Idharammayilatho",
-        "url": "https://open.spotify.com/album/6o9ysd0MFQXd6g4eWtcvNq"
+        "name": "Inthandham [From \"Sita Ramam (Telugu)\"]",
+        "url": "https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX"
       },
       "artists": [
         {
-          "name": "Sagar",
-          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
         },
         {
-          "name": "Geetha Madhuri",
-          "url": "https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai"
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
         }
       ],
-      "duration_ms": 257925,
-      "name": "Top Lesi Poddi",
-      "url": "https://open.spotify.com/track/0FSrCEox8bEpO3RD6ZfEr5"
+      "duration_ms": 218808,
+      "name": "Inthandham (From \"Sita Ramam (Telugu)\")",
+      "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/0iIvZ25h16B9DhjptYp8hK"
     },
     {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Pushpa - The Rise",
-        "url": "https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu"
-      },
-      "artists": [
-        {
-          "name": "Mounika Yadav",
-          "url": "https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG"
-        }
-      ],
-      "duration_ms": 223961,
-      "name": "Saami Saami",
-      "url": "https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC"
-    },
-    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Arjun Reddy",
@@ -907,6 +891,22 @@
       "duration_ms": 252286,
       "name": "Telisiney Na Nuvvey",
       "url": "https://open.spotify.com/track/6f7qFjos0WWqvtEnwFDS0a"
+    },
+    {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
+        "name": "Pushpa - The Rise",
+        "url": "https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu"
+      },
+      "artists": [
+        {
+          "name": "Mounika Yadav",
+          "url": "https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG"
+        }
+      ],
+      "duration_ms": 223961,
+      "name": "Saami Saami",
+      "url": "https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -987,22 +987,18 @@
     {
       "added_at": "2022-07-24 04:40:57",
       "album": {
-        "name": "Ala Vaikunthapurramuloo",
-        "url": "https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa"
+        "name": "Care Of Kancharapalem",
+        "url": "https://open.spotify.com/album/6oD7OKpTjFwqh7RsgUE38p"
       },
       "artists": [
         {
           "name": "Anurag Kulkarni",
           "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Mangli",
-          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
         }
       ],
-      "duration_ms": 245760,
-      "name": "Ramuloo Ramulaa",
-      "url": "https://open.spotify.com/track/3qWfqpB8KJFxwvbpqbuLCh"
+      "duration_ms": 260000,
+      "name": "Asha Pasham",
+      "url": "https://open.spotify.com/track/1lrgvbZzsjatMee0Uk8o0P"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -1103,18 +1099,22 @@
     {
       "added_at": "2022-07-24 04:40:57",
       "album": {
-        "name": "Care Of Kancharapalem",
-        "url": "https://open.spotify.com/album/6oD7OKpTjFwqh7RsgUE38p"
+        "name": "Ala Vaikunthapurramuloo",
+        "url": "https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa"
       },
       "artists": [
         {
           "name": "Anurag Kulkarni",
           "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Asha Pasham",
-      "url": "https://open.spotify.com/track/1lrgvbZzsjatMee0Uk8o0P"
+      "duration_ms": 245760,
+      "name": "Ramuloo Ramulaa",
+      "url": "https://open.spotify.com/track/3qWfqpB8KJFxwvbpqbuLCh"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -1331,6 +1331,30 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
+        "name": "Son Of Satyamurthy",
+        "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
+      },
+      "artists": [
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        },
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        },
+        {
+          "name": "Rita Thyagarajan",
+          "url": "https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF"
+        }
+      ],
+      "duration_ms": 308601,
+      "name": "Chal Chalo Chalo",
+      "url": "https://open.spotify.com/track/0BFQi3erN3X4tT6ZrthC5d"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
         "name": "Baahubali - The Beginning",
         "url": "https://open.spotify.com/album/62FLwY6ofjIoyfTB4aY8Qo"
       },
@@ -1363,30 +1387,6 @@
       "duration_ms": 217875,
       "name": "Prema Vennela",
       "url": "https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Son Of Satyamurthy",
-        "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
-      },
-      "artists": [
-        {
-          "name": "Raghu Dixit",
-          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
-        },
-        {
-          "name": "Sooraj Santhosh",
-          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
-        },
-        {
-          "name": "Rita Thyagarajan",
-          "url": "https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF"
-        }
-      ],
-      "duration_ms": 308601,
-      "name": "Chal Chalo Chalo",
-      "url": "https://open.spotify.com/track/0BFQi3erN3X4tT6ZrthC5d"
     }
   ],
   "unique_name": "Tollywood Pearls",

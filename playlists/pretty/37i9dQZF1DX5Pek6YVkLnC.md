@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,545 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,592 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 20 | [obstáculo](https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [obstáculo](https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori) | 2:15 |
 | 21 | [CC](https://open.spotify.com/track/5GX0pPQ3ci4DyzItOpaJo7) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [CC](https://open.spotify.com/album/7DlQeN6nryMuBbkyept0z3) | 3:11 |
 | 22 | [inestable](https://open.spotify.com/track/4xlcblBvKp7c62NWOFZ1Sq) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [triste pero siempre mami](https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq) | 3:02 |
-| 23 | [Bonnie and Clyde](https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Bonnie and Clyde](https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7) | 3:29 |
-| 24 | [512](https://open.spotify.com/track/4zANwdkLMw3vQ2Xijg4WY8) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [512](https://open.spotify.com/album/17JfLaj2zx8k9whBHN8wiI) | 3:08 |
+| 23 | [512](https://open.spotify.com/track/4zANwdkLMw3vQ2Xijg4WY8) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [512](https://open.spotify.com/album/17JfLaj2zx8k9whBHN8wiI) | 3:08 |
+| 24 | [Bonnie and Clyde](https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Bonnie and Clyde](https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7) | 3:29 |
 | 25 | [Baby Girl](https://open.spotify.com/track/3GHHqeqPmU7Aggw8yT9O3P) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Baby Girl](https://open.spotify.com/album/5H67cNp6Qd44ozdgupssXB) | 3:17 |
 | 26 | [Respeto X Respeto](https://open.spotify.com/track/1vrxkVgaOSQb02tyLtQnXD) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Respeto X Respeto](https://open.spotify.com/album/24UJw0M1giFfL1APlORrar) | 3:02 |
 | 27 | [Freelance](https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Private Suite \(Vol\. 1\)](https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex) | 3:17 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 36 | [East Side](https://open.spotify.com/track/1RXZHzvwmNKwrnwAVLOxZU) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [East Side](https://open.spotify.com/album/3VFdfeQep8243UdqkJFEWC) | 2:30 |
 | 37 | [TRIPLE H \- REMIX](https://open.spotify.com/track/308zx3494Sp10C1eBTK3Y6) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [TRIPLE H \(REMIX\)](https://open.spotify.com/album/6DJhpdquLwZrRQKLAXzOmI) | 4:45 |
 | 38 | [Palestina](https://open.spotify.com/track/6yJx4eaItMhSP8SWK8lit3) | [Oken](https://open.spotify.com/artist/6paE2t0If1wcufBS2OE0b3), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Castiel](https://open.spotify.com/artist/6qi0AljxDOa1MnO8rv4dK2) | [Palestina](https://open.spotify.com/album/13bCDRubXQLlDLmZGIzPH4) | 3:54 |
-| 39 | [Más Grande](https://open.spotify.com/track/4TLEFzZg6L6iYBCIi0T2tU) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Más Grande](https://open.spotify.com/album/6yqqKz2qpRV5jFLwkvVDmX) | 3:39 |
-| 40 | [Movie](https://open.spotify.com/track/2eQIaeYSCb6hwoVJtZvETm) | [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [Movie](https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r) | 3:36 |
+| 39 | [Movie](https://open.spotify.com/track/2eQIaeYSCb6hwoVJtZvETm) | [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [Movie](https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r) | 3:36 |
+| 40 | [Más Grande](https://open.spotify.com/track/4TLEFzZg6L6iYBCIi0T2tU) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Más Grande](https://open.spotify.com/album/6yqqKz2qpRV5jFLwkvVDmX) | 3:39 |
 | 41 | [Juicy](https://open.spotify.com/track/7AG2CdeWrcdkhQpQuXS9nv) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Juicy](https://open.spotify.com/album/57bcr49I6EUlgp1UKzUFdg) | 2:03 |
 | 42 | [IDGAF](https://open.spotify.com/track/076GBcif3AM1IHfBJs545o) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [IDGAF](https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA) | 2:14 |
 | 43 | [11:11](https://open.spotify.com/track/7G38Wgac1qF3ekqWyUMPCz) | [Rokero](https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir) | [11:11](https://open.spotify.com/album/3uCyplEfFNaUw9gbb7CCgf) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 49 | [Tengo Un Draco](https://open.spotify.com/track/5jALUQUWa52HXvDmA5NFOE) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [Tengo Un Draco](https://open.spotify.com/album/13V0uce9WplVFQDnTts0Gj) | 2:52 |
 | 50 | [Quiero](https://open.spotify.com/track/4Lxsnyn9yJnkkHZKTAQynR) | [Mhane](https://open.spotify.com/artist/7iZYxykcEg1PSVTW7cWdqK), [Robert Taylor](https://open.spotify.com/artist/1PbZZhQGxXdxgrcR1W8Ete) | [Quiero](https://open.spotify.com/album/20gGKogH9MsM0IegKgrX5f) | 2:58 |
 
-Snapshot ID: `MCwxMmNmOTk4NDE5ZWM1MDk3ZjQxN2U2NmFlNzU3MDAwNWU3MGMwZGI4`
+Snapshot ID: `MCw4NjBlMjFiNjRhNTU5MGFhYTUwNzc3OTY3ZTI1ZjE4MmUxOGY5ZTQx`

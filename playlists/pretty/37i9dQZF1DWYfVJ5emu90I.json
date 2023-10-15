@@ -1,12 +1,12 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 14595,
+  "num_followers": 14630,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjY1NTdkYWFmMzg5OTQ2YmYxOTIzNzRlNjM1OWRjOGFmNjdiMWM3",
+  "snapshot_id": "MCw4OGJmMjE1MTRkMGM3M2YwMTNmMTNjYzg0OTJlZjlmY2UyY2I1ZmM0",
   "tracks": [
     {
       "added_at": "2023-08-21 09:09:06",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-08-21 09:09:06",
       "album": {
-        "name": "ARIGATO",
-        "url": "https://open.spotify.com/album/4WQkEorxDBgURiS5LlZXV2"
-      },
-      "artists": [
-        {
-          "name": "Kazuo",
-          "url": "https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "ARIGATO",
-      "url": "https://open.spotify.com/track/6vCmFt6aTwiJxEqZ2GRohr"
-    },
-    {
-      "added_at": "2023-08-21 09:09:06",
-      "album": {
         "name": "MONIBUM",
         "url": "https://open.spotify.com/album/6AAt2CGe0l0eH4Z3cwZyc8"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 198477,
       "name": "SUSUME",
       "url": "https://open.spotify.com/track/5IMqWUA7WsgPpDkx7g21pZ"
+    },
+    {
+      "added_at": "2023-08-21 09:09:06",
+      "album": {
+        "name": "ARIGATO",
+        "url": "https://open.spotify.com/album/4WQkEorxDBgURiS5LlZXV2"
+      },
+      "artists": [
+        {
+          "name": "Kazuo",
+          "url": "https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "ARIGATO",
+      "url": "https://open.spotify.com/track/6vCmFt6aTwiJxEqZ2GRohr"
     },
     {
       "added_at": "2023-08-21 09:09:06",

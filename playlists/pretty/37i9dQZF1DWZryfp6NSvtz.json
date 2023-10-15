@@ -1,12 +1,12 @@
 {
   "description": "The best new rock tracks every week. Cover: blink-182",
-  "num_followers": 426377,
+  "num_followers": 426601,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGFhYjJiZDQwMTQ3YTViYTIzODFkNzQ2Zjg0NDhhODFiNmZkZTU2",
+  "snapshot_id": "MCw1MmEzZDY5ZDY0NWI1OWQyOGNhNjlmNGQ0Njg5N2M0MDU4NGZlNjI4",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -203,238 +203,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/6xX5k5pieb7GtDHdNv1lRv"
-      },
-      "artists": [
-        {
-          "name": "MONOWHALES",
-          "url": "https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ"
-        }
-      ],
-      "duration_ms": 193049,
-      "name": "Backbone",
-      "url": "https://open.spotify.com/track/7cl08gllA42WPESPRGUlqQ"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Dilemma Us from Evil",
-        "url": "https://open.spotify.com/album/6DTlM5mdnp1IUnhdb4gnV5"
-      },
-      "artists": [
-        {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
-        }
-      ],
-      "duration_ms": 182914,
-      "name": "Dilemma Us from Evil",
-      "url": "https://open.spotify.com/track/7oI2AurJePKUTuTJn74jYZ"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Half Nelson",
-        "url": "https://open.spotify.com/album/4oCXc06Df2rCYru2NGYxYb"
-      },
-      "artists": [
-        {
-          "name": "Wayside",
-          "url": "https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x"
-        }
-      ],
-      "duration_ms": 191410,
-      "name": "Half Nelson",
-      "url": "https://open.spotify.com/track/4DzKsnD6cZyI9Pc53cbBD6"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Powdered Sugar",
-        "url": "https://open.spotify.com/album/5L2ATZe0pF0wlqqas1zSiC"
-      },
-      "artists": [
-        {
-          "name": "The Boxer Rebellion",
-          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
-        }
-      ],
-      "duration_ms": 186965,
-      "name": "Powdered Sugar",
-      "url": "https://open.spotify.com/track/22rrs9BcY7m89Dc33C98zc"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Playing With Fire / ELF",
-        "url": "https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF"
-      },
-      "artists": [
-        {
-          "name": "Feeder",
-          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
-        }
-      ],
-      "duration_ms": 238847,
-      "name": "ELF",
-      "url": "https://open.spotify.com/track/1gQjg72dJ4hMDQkRHLNxgH"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/5nJOWWjpN8WTkAInFSDaO6"
-      },
-      "artists": [
-        {
-          "name": "The Moving Stills",
-          "url": "https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w"
-        }
-      ],
-      "duration_ms": 177176,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/6ZNlHegzWxt8Sm8meMRuu5"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Your Blood Awaits You",
-        "url": "https://open.spotify.com/album/4wdhzesIo56No0S10XbWep"
-      },
-      "artists": [
-        {
-          "name": "Takida",
-          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
-        }
-      ],
-      "duration_ms": 202966,
-      "name": "Your Blood Awaits You - Trigger Edit",
-      "url": "https://open.spotify.com/track/1rRs77zgzZxjw5v55V10Vx"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "You're On Your Own, Kid",
-        "url": "https://open.spotify.com/album/0xWds6GVsTmZUpyxZy3f3U"
-      },
-      "artists": [
-        {
-          "name": "The Frst",
-          "url": "https://open.spotify.com/artist/51pujOHRXZEQWnqgyUviVe"
-        },
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
-        }
-      ],
-      "duration_ms": 185929,
-      "name": "You're On Your Own, Kid",
-      "url": "https://open.spotify.com/track/7o2iCC6ZAJYVMuXrv39NbL"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "The Rot That Grows Inside My Chest",
-        "url": "https://open.spotify.com/album/6Y0Gh7nGWrVw1CfA4fDWIV"
-      },
-      "artists": [
-        {
-          "name": "Teenage Joans",
-          "url": "https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE"
-        }
-      ],
-      "duration_ms": 154142,
-      "name": "Yoke",
-      "url": "https://open.spotify.com/track/6AUifRe9r44yBbsF2SeuqK"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Torched",
-        "url": "https://open.spotify.com/album/1hRNwx5co2OS2a2XEVDxky"
-      },
-      "artists": [
-        {
-          "name": "Colourblind",
-          "url": "https://open.spotify.com/artist/2Tzh2zHsSIBYCkytK2L82k"
-        }
-      ],
-      "duration_ms": 148399,
-      "name": "Torched",
-      "url": "https://open.spotify.com/track/7inaTyQTHJq8G18vFU2J6X"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Uh Oh!",
-        "url": "https://open.spotify.com/album/7p6TOJB8A5aOdWKl5zcNJC"
-      },
-      "artists": [
-        {
-          "name": "Another Sky",
-          "url": "https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr"
-        }
-      ],
-      "duration_ms": 121884,
-      "name": "Uh Oh!",
-      "url": "https://open.spotify.com/track/5hShE6SwGkefw3TP7J5AxB"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "READY TO EAT",
-        "url": "https://open.spotify.com/album/75irRZ0tbSbDQS4IkCBKHy"
-      },
-      "artists": [
-        {
-          "name": "Beauty School Dropout",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "one night stand you",
-      "url": "https://open.spotify.com/track/1j9Wa022kOAXLFDpPx4vdx"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Glass House",
-        "url": "https://open.spotify.com/album/7AqhmBuuMY0Usb4l2NaMB7"
-      },
-      "artists": [
-        {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 223225,
-      "name": "Glass House",
-      "url": "https://open.spotify.com/track/6SIKqz0nWVP5OoYDHb7Jwx"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Modern Love",
-        "url": "https://open.spotify.com/album/2EuA14LzLXFRWWFkSvBnU6"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 208773,
-      "name": "Modern Love",
-      "url": "https://open.spotify.com/track/0c1TvU8YThmexkEfFUt9wV"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Goodnight, God Bless, I Love U, Delete.",
         "url": "https://open.spotify.com/album/3omXFuNbc0B6MlCm5Nf5Xn"
       },
@@ -455,6 +223,90 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Glass House",
+        "url": "https://open.spotify.com/album/7AqhmBuuMY0Usb4l2NaMB7"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "duration_ms": 223225,
+      "name": "Glass House",
+      "url": "https://open.spotify.com/track/6SIKqz0nWVP5OoYDHb7Jwx"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "READY TO EAT",
+        "url": "https://open.spotify.com/album/75irRZ0tbSbDQS4IkCBKHy"
+      },
+      "artists": [
+        {
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "one night stand you",
+      "url": "https://open.spotify.com/track/1j9Wa022kOAXLFDpPx4vdx"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Dilemma Us from Evil",
+        "url": "https://open.spotify.com/album/6DTlM5mdnp1IUnhdb4gnV5"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "duration_ms": 182914,
+      "name": "Dilemma Us from Evil",
+      "url": "https://open.spotify.com/track/7oI2AurJePKUTuTJn74jYZ"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "You're On Your Own, Kid",
+        "url": "https://open.spotify.com/album/0xWds6GVsTmZUpyxZy3f3U"
+      },
+      "artists": [
+        {
+          "name": "The Frst",
+          "url": "https://open.spotify.com/artist/51pujOHRXZEQWnqgyUviVe"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "duration_ms": 185929,
+      "name": "You're On Your Own, Kid",
+      "url": "https://open.spotify.com/track/7o2iCC6ZAJYVMuXrv39NbL"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Modern Love",
+        "url": "https://open.spotify.com/album/2EuA14LzLXFRWWFkSvBnU6"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 208773,
+      "name": "Modern Love",
+      "url": "https://open.spotify.com/track/0c1TvU8YThmexkEfFUt9wV"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "i should call my friends",
         "url": "https://open.spotify.com/album/7qYCSuZ6kdIid6QrhuLAYe"
       },
@@ -471,162 +323,34 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Scared To Lose You",
-        "url": "https://open.spotify.com/album/111he3jpTYkiZEgAZ9XiJS"
+        "name": "Powdered Sugar",
+        "url": "https://open.spotify.com/album/5L2ATZe0pF0wlqqas1zSiC"
       },
       "artists": [
         {
-          "name": "PLAIINS",
-          "url": "https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR"
+          "name": "The Boxer Rebellion",
+          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
         }
       ],
-      "duration_ms": 166500,
-      "name": "Scared To Lose You",
-      "url": "https://open.spotify.com/track/0UO5p0lbj3SfBG0HNKZjUl"
+      "duration_ms": 186965,
+      "name": "Powdered Sugar",
+      "url": "https://open.spotify.com/track/22rrs9BcY7m89Dc33C98zc"
     },
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Accidental Doom",
-        "url": "https://open.spotify.com/album/3kZXb8vcfhNLKw58FyjbOr"
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/6xX5k5pieb7GtDHdNv1lRv"
       },
       "artists": [
         {
-          "name": "Pit Pony",
-          "url": "https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j"
+          "name": "MONOWHALES",
+          "url": "https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ"
         }
       ],
-      "duration_ms": 253200,
-      "name": "Accidental Doom",
-      "url": "https://open.spotify.com/track/4RWRV4KKmBJevD1jSupSry"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Never Grow Up",
-        "url": "https://open.spotify.com/album/2Sltvvb2yH3gWqJp8lNGVG"
-      },
-      "artists": [
-        {
-          "name": "Said The Whale",
-          "url": "https://open.spotify.com/artist/0QTnH6UEP2jbZEVO6g6Vfe"
-        }
-      ],
-      "duration_ms": 183974,
-      "name": "Never Grow Up",
-      "url": "https://open.spotify.com/track/4XNRSMu212fobcMZePUE9z"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Hypnotized",
-        "url": "https://open.spotify.com/album/1X7RILlUXKDyOD1NZBEhwO"
-      },
-      "artists": [
-        {
-          "name": "Onlap",
-          "url": "https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc"
-        }
-      ],
-      "duration_ms": 226111,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/17Ig0GeL1BPTh2K9SwwIKZ"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Carried Away",
-        "url": "https://open.spotify.com/album/45lOeUjaAToIYNmVzkcofh"
-      },
-      "artists": [
-        {
-          "name": "blacktoothed",
-          "url": "https://open.spotify.com/artist/0guYG99gfJe7LYCF4WR3c6"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Carried Away",
-      "url": "https://open.spotify.com/track/4GEBSPiyXa9vu56cJtbn0j"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Born to Win",
-        "url": "https://open.spotify.com/album/5DVy8NKNSeRGYIjH7rCftk"
-      },
-      "artists": [
-        {
-          "name": "La Rosa",
-          "url": "https://open.spotify.com/artist/3XX6YLm7pQFZZA8qo0MtmB"
-        }
-      ],
-      "duration_ms": 151100,
-      "name": "Born to Win",
-      "url": "https://open.spotify.com/track/4fsVCgzknleqGFmV7WihCF"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Spinning The Truth Around (Part II)",
-        "url": "https://open.spotify.com/album/5suVMUpLfzWyoM1LHe5fjV"
-      },
-      "artists": [
-        {
-          "name": "Blue October",
-          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/7f3ixCy5wuPxRJZVMMqmon"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "suraksha",
-        "url": "https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 279284,
-      "name": "lullaby",
-      "url": "https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Blisters",
-        "url": "https://open.spotify.com/album/4I0yBD10SKcuAgxTVXw6m6"
-      },
-      "artists": [
-        {
-          "name": "Vinyl Theatre",
-          "url": "https://open.spotify.com/artist/7xSEWLsywYbocdtt3xsQsU"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Blisters",
-      "url": "https://open.spotify.com/track/7Hog36913nHaVnHJFZ64Nk"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "GEL pt.1",
-        "url": "https://open.spotify.com/album/2c2xyAW5qfLi6EjtHH4jWm"
-      },
-      "artists": [
-        {
-          "name": "IRONTOM",
-          "url": "https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q"
-        }
-      ],
-      "duration_ms": 220280,
-      "name": "Narcissist",
-      "url": "https://open.spotify.com/track/0EALuHhSfqB6rQWjBPhQOm"
+      "duration_ms": 193049,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/7cl08gllA42WPESPRGUlqQ"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -647,18 +371,258 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Now That's What I Call Mom Rock",
-        "url": "https://open.spotify.com/album/6EuB2BYbjfybh0bQ1IGUAC"
+        "name": "Half Nelson",
+        "url": "https://open.spotify.com/album/4oCXc06Df2rCYru2NGYxYb"
       },
       "artists": [
         {
-          "name": "Mom Rock",
-          "url": "https://open.spotify.com/artist/6xwv9O4HYAqPMp1bbSqufi"
+          "name": "Wayside",
+          "url": "https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Scumbag/Wetrag",
-      "url": "https://open.spotify.com/track/4aN748ELJCyVQKZD2wsa6L"
+      "duration_ms": 191410,
+      "name": "Half Nelson",
+      "url": "https://open.spotify.com/track/4DzKsnD6cZyI9Pc53cbBD6"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Spinning The Truth Around (Part II)",
+        "url": "https://open.spotify.com/album/5suVMUpLfzWyoM1LHe5fjV"
+      },
+      "artists": [
+        {
+          "name": "Blue October",
+          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
+        }
+      ],
+      "duration_ms": 281920,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/7f3ixCy5wuPxRJZVMMqmon"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/1X7RILlUXKDyOD1NZBEhwO"
+      },
+      "artists": [
+        {
+          "name": "Onlap",
+          "url": "https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc"
+        }
+      ],
+      "duration_ms": 226111,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/17Ig0GeL1BPTh2K9SwwIKZ"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "suraksha",
+        "url": "https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 279284,
+      "name": "lullaby",
+      "url": "https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Playing With Fire / ELF",
+        "url": "https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "duration_ms": 238847,
+      "name": "ELF",
+      "url": "https://open.spotify.com/track/1gQjg72dJ4hMDQkRHLNxgH"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Your Blood Awaits You",
+        "url": "https://open.spotify.com/album/4wdhzesIo56No0S10XbWep"
+      },
+      "artists": [
+        {
+          "name": "Takida",
+          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+        }
+      ],
+      "duration_ms": 202966,
+      "name": "Your Blood Awaits You - Trigger Edit",
+      "url": "https://open.spotify.com/track/1rRs77zgzZxjw5v55V10Vx"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/5nJOWWjpN8WTkAInFSDaO6"
+      },
+      "artists": [
+        {
+          "name": "The Moving Stills",
+          "url": "https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w"
+        }
+      ],
+      "duration_ms": 177176,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/6ZNlHegzWxt8Sm8meMRuu5"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "The Rot That Grows Inside My Chest",
+        "url": "https://open.spotify.com/album/6Y0Gh7nGWrVw1CfA4fDWIV"
+      },
+      "artists": [
+        {
+          "name": "Teenage Joans",
+          "url": "https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE"
+        }
+      ],
+      "duration_ms": 154142,
+      "name": "Yoke",
+      "url": "https://open.spotify.com/track/6AUifRe9r44yBbsF2SeuqK"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Uh Oh!",
+        "url": "https://open.spotify.com/album/7p6TOJB8A5aOdWKl5zcNJC"
+      },
+      "artists": [
+        {
+          "name": "Another Sky",
+          "url": "https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr"
+        }
+      ],
+      "duration_ms": 121884,
+      "name": "Uh Oh!",
+      "url": "https://open.spotify.com/track/5hShE6SwGkefw3TP7J5AxB"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Blisters",
+        "url": "https://open.spotify.com/album/4I0yBD10SKcuAgxTVXw6m6"
+      },
+      "artists": [
+        {
+          "name": "Vinyl Theatre",
+          "url": "https://open.spotify.com/artist/7xSEWLsywYbocdtt3xsQsU"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Blisters",
+      "url": "https://open.spotify.com/track/7Hog36913nHaVnHJFZ64Nk"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Scared To Lose You",
+        "url": "https://open.spotify.com/album/111he3jpTYkiZEgAZ9XiJS"
+      },
+      "artists": [
+        {
+          "name": "PLAIINS",
+          "url": "https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Scared To Lose You",
+      "url": "https://open.spotify.com/track/0UO5p0lbj3SfBG0HNKZjUl"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Carried Away",
+        "url": "https://open.spotify.com/album/45lOeUjaAToIYNmVzkcofh"
+      },
+      "artists": [
+        {
+          "name": "blacktoothed",
+          "url": "https://open.spotify.com/artist/0guYG99gfJe7LYCF4WR3c6"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Carried Away",
+      "url": "https://open.spotify.com/track/4GEBSPiyXa9vu56cJtbn0j"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "GEL pt.1",
+        "url": "https://open.spotify.com/album/2c2xyAW5qfLi6EjtHH4jWm"
+      },
+      "artists": [
+        {
+          "name": "IRONTOM",
+          "url": "https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q"
+        }
+      ],
+      "duration_ms": 220280,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/0EALuHhSfqB6rQWjBPhQOm"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Torched",
+        "url": "https://open.spotify.com/album/1hRNwx5co2OS2a2XEVDxky"
+      },
+      "artists": [
+        {
+          "name": "Colourblind",
+          "url": "https://open.spotify.com/artist/2Tzh2zHsSIBYCkytK2L82k"
+        }
+      ],
+      "duration_ms": 148399,
+      "name": "Torched",
+      "url": "https://open.spotify.com/track/7inaTyQTHJq8G18vFU2J6X"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Never Grow Up",
+        "url": "https://open.spotify.com/album/2Sltvvb2yH3gWqJp8lNGVG"
+      },
+      "artists": [
+        {
+          "name": "Said The Whale",
+          "url": "https://open.spotify.com/artist/0QTnH6UEP2jbZEVO6g6Vfe"
+        }
+      ],
+      "duration_ms": 183974,
+      "name": "Never Grow Up",
+      "url": "https://open.spotify.com/track/4XNRSMu212fobcMZePUE9z"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Accidental Doom",
+        "url": "https://open.spotify.com/album/3kZXb8vcfhNLKw58FyjbOr"
+      },
+      "artists": [
+        {
+          "name": "Pit Pony",
+          "url": "https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j"
+        }
+      ],
+      "duration_ms": 253200,
+      "name": "Accidental Doom",
+      "url": "https://open.spotify.com/track/4RWRV4KKmBJevD1jSupSry"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -679,66 +643,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Gelled Water",
-        "url": "https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW"
+        "name": "Born to Win",
+        "url": "https://open.spotify.com/album/5DVy8NKNSeRGYIjH7rCftk"
       },
       "artists": [
         {
-          "name": "Dro\u00efd Fant\u00f4m",
-          "url": "https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz"
+          "name": "La Rosa",
+          "url": "https://open.spotify.com/artist/3XX6YLm7pQFZZA8qo0MtmB"
         }
       ],
-      "duration_ms": 226906,
-      "name": "Gelled Water",
-      "url": "https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Meridians",
-        "url": "https://open.spotify.com/album/1SPGs4aTflXEvO5jSVIWuH"
-      },
-      "artists": [
-        {
-          "name": "Rews",
-          "url": "https://open.spotify.com/artist/4B06m6NJ8e5AnzIZNtZtta"
-        }
-      ],
-      "duration_ms": 176868,
-      "name": "Addicted To You",
-      "url": "https://open.spotify.com/track/4y6JShn2SQb88B5rvRTcXA"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "DIVE",
-        "url": "https://open.spotify.com/album/2wF8mhAC08Ea2K08GXVlh6"
-      },
-      "artists": [
-        {
-          "name": "Sunborn",
-          "url": "https://open.spotify.com/artist/39bLxLnMXWV7LMinf717gS"
-        }
-      ],
-      "duration_ms": 191566,
-      "name": "did u want this?",
-      "url": "https://open.spotify.com/track/4N3WIxNYDVZH3AIzd8yzL4"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "The Internet EP",
-        "url": "https://open.spotify.com/album/3M3qvNydbk37mnyEUOYkml"
-      },
-      "artists": [
-        {
-          "name": "Lemondrop",
-          "url": "https://open.spotify.com/artist/7sbagdU2jg3fyzcIUGTyYd"
-        }
-      ],
-      "duration_ms": 266600,
-      "name": "Sick Joke",
-      "url": "https://open.spotify.com/track/1yNzYf1SCbICYLkTpuScwG"
+      "duration_ms": 151100,
+      "name": "Born to Win",
+      "url": "https://open.spotify.com/track/4fsVCgzknleqGFmV7WihCF"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -759,6 +675,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Now That's What I Call Mom Rock",
+        "url": "https://open.spotify.com/album/6EuB2BYbjfybh0bQ1IGUAC"
+      },
+      "artists": [
+        {
+          "name": "Mom Rock",
+          "url": "https://open.spotify.com/artist/6xwv9O4HYAqPMp1bbSqufi"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Scumbag/Wetrag",
+      "url": "https://open.spotify.com/track/4aN748ELJCyVQKZD2wsa6L"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Mouche",
         "url": "https://open.spotify.com/album/01Rjzhj8Ye1VgqdaV24hgw"
       },
@@ -775,6 +707,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Meridians",
+        "url": "https://open.spotify.com/album/1SPGs4aTflXEvO5jSVIWuH"
+      },
+      "artists": [
+        {
+          "name": "Rews",
+          "url": "https://open.spotify.com/artist/4B06m6NJ8e5AnzIZNtZtta"
+        }
+      ],
+      "duration_ms": 176868,
+      "name": "Addicted To You",
+      "url": "https://open.spotify.com/track/4y6JShn2SQb88B5rvRTcXA"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "My Own Hell",
         "url": "https://open.spotify.com/album/3MHaxJDs6Z9Z9iwVtZt8ip"
       },
@@ -787,6 +735,54 @@
       "duration_ms": 205609,
       "name": "My Own Hell",
       "url": "https://open.spotify.com/track/3FiRWP4QJ1Di59fGDOYQAR"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Gelled Water",
+        "url": "https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW"
+      },
+      "artists": [
+        {
+          "name": "Dro\u00efd Fant\u00f4m",
+          "url": "https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "Gelled Water",
+      "url": "https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "The Internet EP",
+        "url": "https://open.spotify.com/album/3M3qvNydbk37mnyEUOYkml"
+      },
+      "artists": [
+        {
+          "name": "Lemondrop",
+          "url": "https://open.spotify.com/artist/7sbagdU2jg3fyzcIUGTyYd"
+        }
+      ],
+      "duration_ms": 266600,
+      "name": "Sick Joke",
+      "url": "https://open.spotify.com/track/1yNzYf1SCbICYLkTpuScwG"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "DIVE",
+        "url": "https://open.spotify.com/album/2wF8mhAC08Ea2K08GXVlh6"
+      },
+      "artists": [
+        {
+          "name": "Sunborn",
+          "url": "https://open.spotify.com/artist/39bLxLnMXWV7LMinf717gS"
+        }
+      ],
+      "duration_ms": 191566,
+      "name": "did u want this?",
+      "url": "https://open.spotify.com/track/4N3WIxNYDVZH3AIzd8yzL4"
     },
     {
       "added_at": "2023-10-13 04:01:00",

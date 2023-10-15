@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Polim\u00e1 Westcoast",
-  "num_followers": 9796,
+  "num_followers": 9803,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGY2OWE0YmYzYWU5MTIwZGI3OGNhYWU0ZWIxNjVmOTJhMmI5MGYz",
+  "snapshot_id": "MCwxZGRlMTViMTA0NzI0MDYzNzJjOWY5NWMxNjZjMDgxNThkOGNkMjE2",
   "tracks": [
     {
       "added_at": "2023-07-24 18:55:43",
@@ -207,22 +207,18 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Adentro de la Disco (feat. Myke Towers)",
-        "url": "https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr"
+        "name": "Mi Regalo Mas Bonito",
+        "url": "https://open.spotify.com/album/6DPhumayXNmnw4woMnSNk9"
       },
       "artists": [
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
         }
       ],
-      "duration_ms": 192720,
-      "name": "Adentro de la Disco (feat. Myke Towers)",
-      "url": "https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7"
+      "duration_ms": 151467,
+      "name": "Mi Regalo Mas Bonito",
+      "url": "https://open.spotify.com/track/3JgGutjAwNXGAxcXaqVgWe"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -267,18 +263,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Mi Regalo Mas Bonito",
-        "url": "https://open.spotify.com/album/6DPhumayXNmnw4woMnSNk9"
+        "name": "Adentro de la Disco (feat. Myke Towers)",
+        "url": "https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr"
       },
       "artists": [
         {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 151467,
-      "name": "Mi Regalo Mas Bonito",
-      "url": "https://open.spotify.com/track/3JgGutjAwNXGAxcXaqVgWe"
+      "duration_ms": 192720,
+      "name": "Adentro de la Disco (feat. Myke Towers)",
+      "url": "https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -463,26 +463,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Miss Colombia",
-        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
-      },
-      "artists": [
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        },
-        {
-          "name": "Li Saumet",
-          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
-        }
-      ],
-      "duration_ms": 298809,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Culo Chapa (feat. La Perversa, Quimico Ultra Mega & Haraca Kiko)",
         "url": "https://open.spotify.com/album/7yp999HIsMUanMsvLUq6Ni"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 150545,
       "name": "Culo Chapa (feat. La Perversa, Quimico Ultra Mega & Haraca Kiko)",
       "url": "https://open.spotify.com/track/045pZE1F4PGpwHygQLbLXb"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Miss Colombia",
+        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        },
+        {
+          "name": "Li Saumet",
+          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
+        }
+      ],
+      "duration_ms": 298809,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/26OPZGfHxJqhRd2cHrsjMB"
+      },
+      "artists": [
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 145576,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/1A9PL1Y2cc8aBs6uLSdMHW"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "Luces",
         "url": "https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 225470,
       "name": "Luces",
       "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/26OPZGfHxJqhRd2cHrsjMB"
-      },
-      "artists": [
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 145576,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/1A9PL1Y2cc8aBs6uLSdMHW"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Holy Ghost $$$",
-        "url": "https://open.spotify.com/album/4pWMN5lBEFrwZde1kdCqrh"
-      },
-      "artists": [
-        {
-          "name": "Esty",
-          "url": "https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq"
-        }
-      ],
-      "duration_ms": 157297,
-      "name": "Holy Ghost $$$",
-      "url": "https://open.spotify.com/track/4JNxvjgaJyYdRAc1yhUPKj"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Para Mi",
         "url": "https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 217411,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Holy Ghost $$$",
+        "url": "https://open.spotify.com/album/4pWMN5lBEFrwZde1kdCqrh"
+      },
+      "artists": [
+        {
+          "name": "Esty",
+          "url": "https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq"
+        }
+      ],
+      "duration_ms": 157297,
+      "name": "Holy Ghost $$$",
+      "url": "https://open.spotify.com/track/4JNxvjgaJyYdRAc1yhUPKj"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Pa' El Alma",
-        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
-      },
-      "artists": [
-        {
-          "name": "Anmily Brown",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Rojo Rub\u00ed",
         "url": "https://open.spotify.com/album/6S1KXwY7uaibxhjMmKGCbk"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 205000,
       "name": "Rojo Rub\u00ed - Rompiendo La Cadera",
       "url": "https://open.spotify.com/track/54vDLytP2uR0XvSPFNJ45q"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Pa' El Alma",
+        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
+      },
+      "artists": [
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -1039,18 +1039,26 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "KLK TE PASA A TI",
-        "url": "https://open.spotify.com/album/6BLCH4XUfASbKUCIZ5Zko3"
+        "name": "Trucki",
+        "url": "https://open.spotify.com/album/5jO83YZz3ujLMMM61Fwkzv"
       },
       "artists": [
         {
-          "name": "Rosaly Rubio",
-          "url": "https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8"
+          "name": "Atomic Otro Way",
+          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Real Sofoke Hiigh",
+          "url": "https://open.spotify.com/artist/5sX6UbJx4vxLzHXIMsVXZh"
         }
       ],
-      "duration_ms": 166533,
-      "name": "KLK TE PASA A TI",
-      "url": "https://open.spotify.com/track/4XSO2ESu4JENljsN2irGWz"
+      "duration_ms": 236910,
+      "name": "Trucki",
+      "url": "https://open.spotify.com/track/1xyMEik4SsayMAEV4rwYYW"
     }
   ],
   "unique_name": "Latin Frequency",

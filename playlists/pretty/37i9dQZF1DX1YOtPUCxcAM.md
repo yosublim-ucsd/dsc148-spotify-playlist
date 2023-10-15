@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YOtPUCxcAM.md) - [plain]
 
 > The best and finest 90s Funk\. Cover: The Brand New Heavies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,354 likes - 102 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,413 likes - 102 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YOtPUCxcAM.md) - [plain]
 | 39 | [Soul on Ice](https://open.spotify.com/track/10n9hqByYqddMgpDBmd7Pu) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Plantation Lullabies](https://open.spotify.com/album/3K1ZZP9cAwUGxZHYrUv7Qe) | 5:08 |
 | 40 | [Grand Black Citizen](https://open.spotify.com/track/0ramzj4Qkg6nv2swBC9fmw) | [Urban Dance Squad](https://open.spotify.com/artist/0Vo614yFlepUdpdbkggrmC) | [Life and Perspectives of a Genuine Crossover \(Tokyo Live 1992\)](https://open.spotify.com/album/6uqSlJVolKpMzJUrVDphql) | 3:51 |
 | 41 | [Theme from the New Avengers](https://open.spotify.com/track/3ACAU9XlUBxBhBWlpliOIs) | [Snowboy](https://open.spotify.com/artist/6e6FiOOuM4VotvYcIdAtXn) | [M.F.O.S.](https://open.spotify.com/album/1OSktYALvvnNbjSgwcc62c) | 4:41 |
-| 42 | [Ain't No Use](https://open.spotify.com/track/3JkHwikjVBXWEbDnT6oh87) | [Pure Wildness](https://open.spotify.com/artist/4gzjgciUHJsBCahtz9oQEU) | [The Acid Jazz Collection: Soul](https://open.spotify.com/album/3XmAdfqBf0E6S9fLNOLfkZ) | 5:57 |
+| 42 | [Ain't No Use](https://open.spotify.com/track/0BQS1mANpW6ttdjKzlz4kg) | [Pure Wildness](https://open.spotify.com/artist/4gzjgciUHJsBCahtz9oQEU) | [A1! The Best Of Acid Jazz](https://open.spotify.com/album/6UybS8kD23K40skKiSpBaq) | 5:57 |
 | 43 | [The Plan](https://open.spotify.com/track/40qWtvulNUdysSLp4gdQxr) | [Outside](https://open.spotify.com/artist/13rMjdgTaPy9gl8CgfQ4w5) | [The Rough And The Smooth](https://open.spotify.com/album/0VWMG0GhA7pokyfEXPmbre) | 3:52 |
 | 44 | [Too Young to Die](https://open.spotify.com/track/3toXFhdNpH0Cs5vQkTrHQ3) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 6:05 |
 | 45 | [Love Will Keep Us Together](https://open.spotify.com/track/4rod2JetYqtehtIeTNh2td) | [James Taylor Quartet](https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [In the Hand of the Inevitable](https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992) | 6:08 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YOtPUCxcAM.md) - [plain]
 | 101 | [Throw Your Hands Up \- Treach Version](https://open.spotify.com/track/7kOxq4oyCZuJeIAhUr21tk) | [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [I Am L.V.](https://open.spotify.com/album/2TbeM4a7g36U11EDZve5D8) | 3:50 |
 | 102 | [Short but Funky](https://open.spotify.com/track/6wgHXUrJziEmONrs4kioJe) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Short Dog's In The House](https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt) | 4:13 |
 
-Snapshot ID: `MCxhZGM4MTczMDZmZmI4YzJiMTg4NGJkNmRkMzQwMTk3MTRhM2U0OGEy`
+Snapshot ID: `MCxlNGExNzRkMmFmNjllMGFiZTBjMTRjMzljNjcwZjQzMmY2OTZiZTAy`

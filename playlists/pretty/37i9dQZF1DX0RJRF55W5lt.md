@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,568 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,758 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 71 | [Destiny \- Dem 2 Radio Mix](https://open.spotify.com/track/793c172sg8q7S4yIVdolYy) | [Dem 2](https://open.spotify.com/artist/32bkV540WQJ4K9tVfLdNYQ) | [Destiny](https://open.spotify.com/album/33edSIlo2PL5bY1hNvlCgA) | 4:05 |
 | 72 | [Love Bug \- Original Bump Mix](https://open.spotify.com/track/1cIT3qEj3gNy0NDP5YgNc1) | [Ramsey & Fen](https://open.spotify.com/artist/5rBBAjkUV1bF89nr9AGpEu), [Lynsey Moore](https://open.spotify.com/artist/31RLNDGi0or2K3mJDBlfjV) | [Love Bug \(Original Bump Mix\)](https://open.spotify.com/album/5GOGt6fpFc39ZhEdq3rdU0) | 5:57 |
 | 73 | [Cheque One\-Two](https://open.spotify.com/track/2P3UUkbX6dR9DFNLFnuP8a) | [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Is This Real](https://open.spotify.com/album/3ae504ho747nwloxNn2CH8) | 5:03 |
-| 74 | [Kung\-Fu](https://open.spotify.com/track/5y7mEkaEL1fivzcwNhYtrU) | [187 Lockdown](https://open.spotify.com/artist/1tlAuGE8fWLJOWyqdBrR2p) | [187](https://open.spotify.com/album/7v4aQVzT2vh3S4kinfpnV4) | 6:31 |
-| 75 | [Masquerade \- MJ Cole Vocal](https://open.spotify.com/track/6Y0rukXFNvg7b0EqlxEpSZ) | [Gerideau](https://open.spotify.com/artist/3R2svMuMZlY9RBETwlkuEJ), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Masquerade](https://open.spotify.com/album/69AdLMny9By0erdS3ZJBbI) | 6:29 |
+| 74 | [Masquerade \- MJ Cole Vocal](https://open.spotify.com/track/6Y0rukXFNvg7b0EqlxEpSZ) | [Gerideau](https://open.spotify.com/artist/3R2svMuMZlY9RBETwlkuEJ), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Masquerade](https://open.spotify.com/album/69AdLMny9By0erdS3ZJBbI) | 6:29 |
+| 75 | [Kung\-Fu](https://open.spotify.com/track/5y7mEkaEL1fivzcwNhYtrU) | [187 Lockdown](https://open.spotify.com/artist/1tlAuGE8fWLJOWyqdBrR2p) | [187](https://open.spotify.com/album/7v4aQVzT2vh3S4kinfpnV4) | 6:31 |
 
-Snapshot ID: `MCw4MDY4MjJkY2JiMTkzNDdkNjRjZTBhNzcyZGYyNWQ5MDk4ODMyY2Uy`
+Snapshot ID: `MCwyOGYxNTMxYjdjZjAxZjkxZTVmYWNmZTg0MmRmMDIyNzA4ODRlMzFm`

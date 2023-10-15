@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 100105,
+  "num_followers": 100109,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzFiNzNhMmM4N2I5NDgzZjdlMjJlZDJjOWZhM2JmMDJiNjM4YWMy",
+  "snapshot_id": "MCwzMjczNDY0NDM5MDQ5M2ExYjNkZTUwNzBjNGViYTgxNzQwOGU5ODA5",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Breaking It Up!",
-        "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
-      },
-      "artists": [
-        {
-          "name": "Louis Prima",
-          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
-        }
-      ],
-      "duration_ms": 145333,
-      "name": "Shake Hands with Santa Claus - Mono Recording",
-      "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "The Classic Christmas Album",
         "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 195173,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Breaking It Up!",
+        "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
+      },
+      "artists": [
+        {
+          "name": "Louis Prima",
+          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
+        }
+      ],
+      "duration_ms": 145333,
+      "name": "Shake Hands with Santa Claus - Mono Recording",
+      "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Mr. Christmas",
-        "url": "https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 216042,
-      "name": "Mr. Christmas",
-      "url": "https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Their Complete Recordings Together",
         "url": "https://open.spotify.com/album/59FWajrRYfw3QEoR3VSNc7"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 193240,
       "name": "Poppa Santa Claus",
       "url": "https://open.spotify.com/track/6xF6R6029v5XsSL0yFFW2X"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Mr. Christmas",
+        "url": "https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 216042,
+      "name": "Mr. Christmas",
+      "url": "https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/2T00SUWXZJoRl5nyvNGeST"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 162746,
       "name": "Boogie Woogie Santa Claus",
       "url": "https://open.spotify.com/track/03MYXczT3SF2QYCdZYVUpJ"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "What A Night! A Christmas Album",
-        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/2T00SUWXZJoRl5nyvNGeST"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -763,6 +763,26 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
+      },
+      "artists": [
+        {
+          "name": "Ralph Marterie",
+          "url": "https://open.spotify.com/artist/6RMVDGTwRURNgXI8gjgi38"
+        },
+        {
+          "name": "Ralph Marterie and His Orchestra",
+          "url": "https://open.spotify.com/artist/44LkEyiTIZeDfX8ZPbtZfg"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Dig That Crazy Santa Claus",
+      "url": "https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Hot Jazz for a Cool Night: a Jazz Christmas",
         "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 180240,
       "name": "We Three Kings",
       "url": "https://open.spotify.com/track/6Z2g3GpvZOGBzWIJw4gVNz"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
-      },
-      "artists": [
-        {
-          "name": "Ralph Marterie",
-          "url": "https://open.spotify.com/artist/6RMVDGTwRURNgXI8gjgi38"
-        },
-        {
-          "name": "Ralph Marterie and His Orchestra",
-          "url": "https://open.spotify.com/artist/44LkEyiTIZeDfX8ZPbtZfg"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Dig That Crazy Santa Claus",
-      "url": "https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Crescent City Christmas Card",
-        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Hark! The Herald Angels Sing",
-      "url": "https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "What A Night! A Christmas Album",
         "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 203573,
       "name": "What a Night!",
       "url": "https://open.spotify.com/track/3379BhHoOyWDkewjzpgZAv"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Crescent City Christmas Card",
+        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1035,6 +1035,38 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "O Tannenbaum",
+        "url": "https://open.spotify.com/album/5gvEyLq9MnZJBsWLDly7TG"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        },
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        },
+        {
+          "name": "Clas Lassbo",
+          "url": "https://open.spotify.com/artist/23eGVdEKiBmGYKEvFVlyzP"
+        },
+        {
+          "name": "Johan Norberg",
+          "url": "https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr"
+        },
+        {
+          "name": "Jonas Knutsson",
+          "url": "https://open.spotify.com/artist/4epZWwhakogZTfyKbGpvQa"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/2mvo1rm7jcZdcKRWEGD917"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "The Christmas Feeling",
         "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
       },
@@ -1067,26 +1099,6 @@
       "duration_ms": 251026,
       "name": "Christmas Blues",
       "url": "https://open.spotify.com/track/55EWToZszoZA6QDRPSNjqq"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "The Pianoman at Christmas (The Complete Edition)",
-        "url": "https://open.spotify.com/album/0LuEO5CPU8DqYEA31cfaGV"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        },
-        {
-          "name": "Kansas Smitty's",
-          "url": "https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C"
-        }
-      ],
-      "duration_ms": 174090,
-      "name": "Man With The Bag",
-      "url": "https://open.spotify.com/track/0BCVQHXk8HY6Uip5gK2lrv"
     }
   ],
   "unique_name": "Feel Good Christmas",

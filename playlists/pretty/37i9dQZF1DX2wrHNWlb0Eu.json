@@ -1,12 +1,12 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
-  "num_followers": 98611,
+  "num_followers": 98638,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjZkZTM4Mzk3NTI1MDhlZjZkY2Q5ZjdiZmFhZmNlNDcwN2MxOTA5",
+  "snapshot_id": "MCwwODE5OWM0MjU2NTk5MDk3NDgwZDA1YmQxYjhkYjVkMjczMjY4YmRm",
   "tracks": [
     {
       "added_at": "2023-10-06 07:11:21",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "FIRE BOY",
-        "url": "https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux"
-      },
-      "artists": [
-        {
-          "name": "PP Krit",
-          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "FIRE BOY",
-      "url": "https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
         "url": "https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 247398,
       "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
       "url": "https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "FIRE BOY",
+        "url": "https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux"
+      },
+      "artists": [
+        {
+          "name": "PP Krit",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "FIRE BOY",
+      "url": "https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32",
-        "url": "https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV"
-      },
-      "artists": [
-        {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
-        }
-      ],
-      "duration_ms": 242727,
-      "name": "\u0e1e\u0e34\u0e07 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32)",
-      "url": "https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
         "url": "https://open.spotify.com/album/4FYcFwKKQhx95m6lUaDXfd"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 231936,
       "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/6PM9OBzgQbY7wAkPWBTl2V"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32",
+        "url": "https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "duration_ms": 242727,
+      "name": "\u0e1e\u0e34\u0e07 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32)",
+      "url": "https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1"
+      },
+      "artists": [
+        {
+          "name": "Whatcharawale",
+          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
+        }
+      ],
+      "duration_ms": 247360,
+      "name": "\u0e25\u0e39\u0e01\u0e2d\u0e21",
+      "url": "https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
         "name": "\u0e2d\u0e32\u0e2b\u0e21\u0e27\u0e22\u0e2b\u0e32\u0e22 (\u963f\u59b9\u8d70 / Chinese Girl)",
         "url": "https://open.spotify.com/album/5HoeLBMTFqR6M7IJgCfvnC"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1"
+        "name": "Luxury",
+        "url": "https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk"
       },
       "artists": [
         {
-          "name": "Whatcharawale",
-          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
+          "name": "D Gerrard",
+          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
         }
       ],
-      "duration_ms": 247360,
-      "name": "\u0e25\u0e39\u0e01\u0e2d\u0e21",
-      "url": "https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn"
+      "duration_ms": 246923,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -487,38 +503,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e40\u0e21\u0e30",
-        "url": "https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw"
-      },
-      "artists": [
-        {
-          "name": "THE TOYS",
-          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "\u0e40\u0e21\u0e30",
-      "url": "https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
-        "name": "Luxury",
-        "url": "https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk"
-      },
-      "artists": [
-        {
-          "name": "D Gerrard",
-          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
-        }
-      ],
-      "duration_ms": 246923,
-      "name": "Luxury",
-      "url": "https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "Left Right And Something",
         "url": "https://open.spotify.com/album/3GPJ0Z4IvhB948RrCGIoPj"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 322706,
       "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d",
       "url": "https://open.spotify.com/track/5hXcptJwH8dr3s9ibOZUvp"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e40\u0e21\u0e30",
+        "url": "https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw"
+      },
+      "artists": [
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "\u0e40\u0e21\u0e30",
+      "url": "https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
+        "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
+        "url": "https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy"
+      },
+      "artists": [
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        }
+      ],
+      "duration_ms": 191392,
+      "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
+      "url": "https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
         "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d",
         "url": "https://open.spotify.com/album/5ZyBwGsykmsxmxk8qNu7pD"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 199500,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d feat. Violette Wautier",
       "url": "https://open.spotify.com/track/2bGK8OZkr2IH4XHFMWS3CZ"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
-        "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
-        "url": "https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy"
-      },
-      "artists": [
-        {
-          "name": "URBOYTJ",
-          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
-        }
-      ],
-      "duration_ms": 191392,
-      "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
-      "url": "https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e40\u0e04\u0e49\u0e32\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14 (ily)",
-        "url": "https://open.spotify.com/album/2zzPZglny0oSYZzi7PzCDG"
-      },
-      "artists": [
-        {
-          "name": "MEYOU",
-          "url": "https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG"
-        }
-      ],
-      "duration_ms": 176808,
-      "name": "\u0e40\u0e04\u0e49\u0e32\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14 (ily)",
-      "url": "https://open.spotify.com/track/6WssVwDznRk2o5Qvg4JfaN"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "The First Album",
         "url": "https://open.spotify.com/album/1QSQt7RmnYE2s0IMWxKG5q"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 220793,
       "name": "\u0e27\u0e31\u0e14\u0e1b\u0e30\u0e2b\u0e25\u0e48\u0e30? (TEST ME)",
       "url": "https://open.spotify.com/track/4m72K740TLVYovBWJmTTt3"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e40\u0e04\u0e49\u0e32\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14 (ily)",
+        "url": "https://open.spotify.com/album/2zzPZglny0oSYZzi7PzCDG"
+      },
+      "artists": [
+        {
+          "name": "MEYOU",
+          "url": "https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG"
+        }
+      ],
+      "duration_ms": 176808,
+      "name": "\u0e40\u0e04\u0e49\u0e32\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14 (ily)",
+      "url": "https://open.spotify.com/track/6WssVwDznRk2o5Qvg4JfaN"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "It's Gonna Be OK",
-        "url": "https://open.spotify.com/album/37wolAPWNOJfdRRwW1N6gL"
-      },
-      "artists": [
-        {
-          "name": "Tilly Birds",
-          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
-        },
-        {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/15D6XEjr6LVGGc6dNmS2yz"
-        }
-      ],
-      "duration_ms": 217787,
-      "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e25\u0e48\u0e19 \u0e44\u0e21\u0e48\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19 (Just Being Friendly)",
-      "url": "https://open.spotify.com/track/3YN1Qgpgt5xVurl2mUFA4y"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d (The Original Soundtrack)",
         "url": "https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 199333,
       "name": "\u0e23\u0e39\u0e49\u0e07\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 (Safe Zone) - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2",
       "url": "https://open.spotify.com/track/3r7Wk2nT2Vwlnb7xDI4pnE"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "It's Gonna Be OK",
+        "url": "https://open.spotify.com/album/37wolAPWNOJfdRRwW1N6gL"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        },
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/15D6XEjr6LVGGc6dNmS2yz"
+        }
+      ],
+      "duration_ms": 217787,
+      "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e25\u0e48\u0e19 \u0e44\u0e21\u0e48\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19 (Just Being Friendly)",
+      "url": "https://open.spotify.com/track/3YN1Qgpgt5xVurl2mUFA4y"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -775,6 +775,22 @@
       "duration_ms": 224261,
       "name": "\u0e08\u0e35\u0e1a",
       "url": "https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "duration_ms": 237772,
+      "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/4oQTocMZdjXkVz6GaPw7Gz"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -831,22 +847,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh"
-      },
-      "artists": [
-        {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        }
-      ],
-      "duration_ms": 237772,
-      "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/4oQTocMZdjXkVz6GaPw7Gz"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30\u0e08\u0e30\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/5hjS0mLBF0f59Cq71mgjDe"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "1001 (You're Lovely)",
-        "url": "https://open.spotify.com/album/1wFsK9shNnndg6oDUoOLqt"
-      },
-      "artists": [
-        {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
-        }
-      ],
-      "duration_ms": 194842,
-      "name": "1001 (You're Lovely)",
-      "url": "https://open.spotify.com/track/4X6pR4sgSGXG1lSX7nxWEM"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "Melbourne",
         "url": "https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 182125,
       "name": "Melbourne",
       "url": "https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "1001 (You're Lovely)",
+        "url": "https://open.spotify.com/album/1wFsK9shNnndg6oDUoOLqt"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        }
+      ],
+      "duration_ms": 194842,
+      "name": "1001 (You're Lovely)",
+      "url": "https://open.spotify.com/track/4X6pR4sgSGXG1lSX7nxWEM"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -963,38 +963,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e1c\u0e39\u0e49\u0e40\u0e14\u0e35\u0e22\u0e27",
-        "url": "https://open.spotify.com/album/2TiiQ167oW1svJVLppgOsv"
-      },
-      "artists": [
-        {
-          "name": "Tilly Birds",
-          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
-        }
-      ],
-      "duration_ms": 205875,
-      "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e40\u0e02\u0e49\u0e32\u0e21\u0e32 (Worth The Wait)",
-      "url": "https://open.spotify.com/track/6a5f2v5IlyeEXQRn65MFdS"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
-        "name": "Are You Serious?",
-        "url": "https://open.spotify.com/album/7G2HL8Yihb7XPEXrm3TzDR"
-      },
-      "artists": [
-        {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
-        }
-      ],
-      "duration_ms": 219740,
-      "name": "\u0e1e\u0e35\u0e48\u0e46 \u0e15\u0e31\u0e14\u0e41\u0e27\u0e48\u0e19\u0e43\u0e2b\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22",
-      "url": "https://open.spotify.com/track/7J2AM0bPIKlaBotMTzl5zx"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "TWO OF A KIND",
         "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
       },
@@ -1007,6 +975,22 @@
       "duration_ms": 254000,
       "name": "\u0e15\u0e48\u0e2d\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19",
       "url": "https://open.spotify.com/track/2qKJrcfRkh7ZgvyhsrPkZL"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e1c\u0e39\u0e49\u0e40\u0e14\u0e35\u0e22\u0e27",
+        "url": "https://open.spotify.com/album/2TiiQ167oW1svJVLppgOsv"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        }
+      ],
+      "duration_ms": 205875,
+      "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e40\u0e02\u0e49\u0e32\u0e21\u0e32 (Worth The Wait)",
+      "url": "https://open.spotify.com/track/6a5f2v5IlyeEXQRn65MFdS"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
+        "name": "Are You Serious?",
+        "url": "https://open.spotify.com/album/7G2HL8Yihb7XPEXrm3TzDR"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        }
+      ],
+      "duration_ms": 219740,
+      "name": "\u0e1e\u0e35\u0e48\u0e46 \u0e15\u0e31\u0e14\u0e41\u0e27\u0e48\u0e19\u0e43\u0e2b\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22",
+      "url": "https://open.spotify.com/track/7J2AM0bPIKlaBotMTzl5zx"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
         "name": "INK",
         "url": "https://open.spotify.com/album/42UUZAtYzoWxysrGIPmF4Z"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 188000,
       "name": "\u0e2a\u0e32\u0e22\u0e15\u0e32\u0e2b\u0e25\u0e2d\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49 (Eyes Don\u2019t Lie)",
       "url": "https://open.spotify.com/track/3Rkt2LzmQkW2yzSM0NAZgT"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
-        "name": "\u0e42\u0e21\u0e17\u0e22\u0e4c :\u0e23\u0e49\u0e2d\u0e07\u0e19\u0e33",
-        "url": "https://open.spotify.com/album/0zDHoE9lv0a9BNP9F2YtRf"
-      },
-      "artists": [
-        {
-          "name": "Pramote Vilepana",
-          "url": "https://open.spotify.com/artist/5ymrPYlQszvpBHwIVHGPcQ"
-        }
-      ],
-      "duration_ms": 225200,
-      "name": "\u0e04\u0e37\u0e19\u0e17\u0e35\u0e48\u0e14\u0e32\u0e27\u0e40\u0e15\u0e47\u0e21\u0e1f\u0e49\u0e32",
-      "url": "https://open.spotify.com/track/5JoSLllHkOdE56kpHU4fi6"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1079,6 +1063,22 @@
       "duration_ms": 184421,
       "name": "\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e42\u0e2d\u0e19\u0e34",
       "url": "https://open.spotify.com/track/3seGmbdxubyOV7rAnUYAWh"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e42\u0e21\u0e17\u0e22\u0e4c :\u0e23\u0e49\u0e2d\u0e07\u0e19\u0e33",
+        "url": "https://open.spotify.com/album/0zDHoE9lv0a9BNP9F2YtRf"
+      },
+      "artists": [
+        {
+          "name": "Pramote Vilepana",
+          "url": "https://open.spotify.com/artist/5ymrPYlQszvpBHwIVHGPcQ"
+        }
+      ],
+      "duration_ms": 225200,
+      "name": "\u0e04\u0e37\u0e19\u0e17\u0e35\u0e48\u0e14\u0e32\u0e27\u0e40\u0e15\u0e47\u0e21\u0e1f\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/5JoSLllHkOdE56kpHU4fi6"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e23\u0e39\u0e49",
-        "url": "https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
-        }
-      ],
-      "duration_ms": 245853,
-      "name": "\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e23\u0e39\u0e49",
-      "url": "https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e17\u0e32\u0e07 (Good Time) - Single",
         "url": "https://open.spotify.com/album/19zRl5NJ2IH7wvNdRegoHY"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 244000,
       "name": "\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e17\u0e32\u0e07 (Good Time) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c Good Old Days \u0e23\u0e49\u0e32\u0e19\u0e0b\u0e37\u0e49\u0e2d\u0e02\u0e32\u0e22\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33]",
       "url": "https://open.spotify.com/track/4FreerZPFJkNpQqhL2cSCA"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e23\u0e39\u0e49",
+        "url": "https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+        }
+      ],
+      "duration_ms": 245853,
+      "name": "\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e23\u0e39\u0e49",
+      "url": "https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e09\u0e25\u0e32\u0e21\u0e0a\u0e2d\u0e1a\u0e07\u0e31\u0e1a\u0e04\u0e38\u0e13 Feat.IIVY B",
-        "url": "https://open.spotify.com/album/7nzdc88JydSq90v212jrfU"
-      },
-      "artists": [
-        {
-          "name": "bonnadol",
-          "url": "https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc"
-        }
-      ],
-      "duration_ms": 235790,
-      "name": "\u0e09\u0e25\u0e32\u0e21\u0e0a\u0e2d\u0e1a\u0e07\u0e31\u0e1a\u0e04\u0e38\u0e13 Feat.IIVY B",
-      "url": "https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "TWO OF A KIND",
         "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 230000,
       "name": "\u0e1b\u0e35\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e2b\u0e07\u0e32\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e41\u0e25\u0e49\u0e27\u0e42\u0e27\u0e49\u0e22",
       "url": "https://open.spotify.com/track/2L98ftReSp3kqlzxGSTLtY"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e09\u0e25\u0e32\u0e21\u0e0a\u0e2d\u0e1a\u0e07\u0e31\u0e1a\u0e04\u0e38\u0e13 Feat.IIVY B",
+        "url": "https://open.spotify.com/album/7nzdc88JydSq90v212jrfU"
+      },
+      "artists": [
+        {
+          "name": "bonnadol",
+          "url": "https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc"
+        }
+      ],
+      "duration_ms": 235790,
+      "name": "\u0e09\u0e25\u0e32\u0e21\u0e0a\u0e2d\u0e1a\u0e07\u0e31\u0e1a\u0e04\u0e38\u0e13 Feat.IIVY B",
+      "url": "https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1303,22 +1303,18 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d",
-        "url": "https://open.spotify.com/album/0YtFmuQfVCp9nOkIcLEvls"
+        "name": "TWO OF A KIND",
+        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
       },
       "artists": [
         {
-          "name": "Earn Piyada",
-          "url": "https://open.spotify.com/artist/4ztgw56xBHUOm0yb7ubz7K"
-        },
-        {
-          "name": "The Gang",
-          "url": "https://open.spotify.com/artist/1U2Se7sKuBWItaZypVElX9"
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
         }
       ],
-      "duration_ms": 230120,
-      "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e41\u0e17\u0e49",
-      "url": "https://open.spotify.com/track/5IWMAHpNDXeKH0aZ0YHY70"
+      "duration_ms": 233000,
+      "name": "\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e44\u0e1b\u0e40\u0e14\u0e34\u0e19\u0e40\u0e15\u0e30\u0e04\u0e25\u0e37\u0e48\u0e19\u0e17\u0e30\u0e40\u0e25\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/5EC7jXrP9yNTEIRSlPHuiF"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1339,18 +1335,22 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "TWO OF A KIND",
-        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/0YtFmuQfVCp9nOkIcLEvls"
       },
       "artists": [
         {
-          "name": "No One Else",
-          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+          "name": "Earn Piyada",
+          "url": "https://open.spotify.com/artist/4ztgw56xBHUOm0yb7ubz7K"
+        },
+        {
+          "name": "The Gang",
+          "url": "https://open.spotify.com/artist/1U2Se7sKuBWItaZypVElX9"
         }
       ],
-      "duration_ms": 233000,
-      "name": "\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e44\u0e1b\u0e40\u0e14\u0e34\u0e19\u0e40\u0e15\u0e30\u0e04\u0e25\u0e37\u0e48\u0e19\u0e17\u0e30\u0e40\u0e25\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19",
-      "url": "https://open.spotify.com/track/5EC7jXrP9yNTEIRSlPHuiF"
+      "duration_ms": 230120,
+      "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e41\u0e17\u0e49",
+      "url": "https://open.spotify.com/track/5IWMAHpNDXeKH0aZ0YHY70"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1467,18 +1467,22 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
-        "url": "https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF"
+        "name": "Hey Mom,Did You See Me In The Newspaper?",
+        "url": "https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx"
       },
       "artists": [
         {
-          "name": "PRETZELLE",
-          "url": "https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7"
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+        },
+        {
+          "name": "RUZZY TATTOO COLOUR",
+          "url": "https://open.spotify.com/artist/5umzj4PGA5pKpgr40TMbsz"
         }
       ],
-      "duration_ms": 246935,
-      "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
-      "url": "https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8"
+      "duration_ms": 209621,
+      "name": "I Feel Something Like That",
+      "url": "https://open.spotify.com/track/0JbrWWQiqT0L45zUNM6GYQ"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1499,6 +1503,22 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
+        "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
+        "url": "https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF"
+      },
+      "artists": [
+        {
+          "name": "PRETZELLE",
+          "url": "https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7"
+        }
+      ],
+      "duration_ms": 246935,
+      "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
+      "url": "https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
         "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
         "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 326326,
       "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
       "url": "https://open.spotify.com/track/5kEW70VzIYbKL7mUMV4fvH"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
-        "name": "Hey Mom,Did You See Me In The Newspaper?",
-        "url": "https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
-        },
-        {
-          "name": "RUZZY TATTOO COLOUR",
-          "url": "https://open.spotify.com/artist/5umzj4PGA5pKpgr40TMbsz"
-        }
-      ],
-      "duration_ms": 209621,
-      "name": "I Feel Something Like That",
-      "url": "https://open.spotify.com/track/0JbrWWQiqT0L45zUNM6GYQ"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e44\u0e14\u0e49\u0e19\u0e30",
+        "url": "https://open.spotify.com/album/62ZE1G620BMjMxBoI3jBRw"
+      },
+      "artists": [
+        {
+          "name": "ROOFTOP",
+          "url": "https://open.spotify.com/artist/3wzGjN26jzqLY2Gc836sjC"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e44\u0e14\u0e49\u0e19\u0e30",
+      "url": "https://open.spotify.com/track/0WF0gPr8uLyWwPhmOiNYm4"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
         "name": "\u0e40\u0e2d\u0e34\u0e4a\u0e15 \u0e20\u0e31\u0e17\u0e23\u0e27\u0e35 (New Single 2014)",
         "url": "https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx"
       },
@@ -1623,38 +1639,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e44\u0e14\u0e49\u0e19\u0e30",
-        "url": "https://open.spotify.com/album/62ZE1G620BMjMxBoI3jBRw"
-      },
-      "artists": [
-        {
-          "name": "ROOFTOP",
-          "url": "https://open.spotify.com/artist/3wzGjN26jzqLY2Gc836sjC"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e44\u0e14\u0e49\u0e19\u0e30",
-      "url": "https://open.spotify.com/track/0WF0gPr8uLyWwPhmOiNYm4"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
-        "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08",
-        "url": "https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX"
-      },
-      "artists": [
-        {
-          "name": "FLUKIE",
-          "url": "https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t"
-        }
-      ],
-      "duration_ms": 183300,
-      "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (UNEXPECTED)",
         "url": "https://open.spotify.com/album/1rXb5s1tafG6YOlii5cGKS"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 193894,
       "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (UNEXPECTED)",
       "url": "https://open.spotify.com/track/0qMQZhDD8hjV7KvZ19Jm4n"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX"
+      },
+      "artists": [
+        {
+          "name": "FLUKIE",
+          "url": "https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t"
+        }
+      ],
+      "duration_ms": 183300,
+      "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor"
     },
     {
       "added_at": "2023-10-06 07:11:21",

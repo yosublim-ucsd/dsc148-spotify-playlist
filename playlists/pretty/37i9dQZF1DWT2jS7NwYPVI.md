@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Beauty School Dropout
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,753 likes - 125 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,342 likes - 125 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [BATSHIT](https://open.spotify.com/track/0xA47Wk9UfpBcqSvLkfHuI) | [LOLA](https://open.spotify.com/artist/0cD96GFyKaDX2LdpHpyT7d) | [BATSHIT](https://open.spotify.com/album/6wM6nmqkAArmrS1U5pkELi) | 4:11 |
 | 125 | [My Own Hell](https://open.spotify.com/track/3FiRWP4QJ1Di59fGDOYQAR) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [My Own Hell](https://open.spotify.com/album/3MHaxJDs6Z9Z9iwVtZt8ip) | 3:25 |
 
-Snapshot ID: `MCw1YzIyMWEyNjkyZmZkZGQyOGI5ZTg5YTk0MGUzN2U1NjgwNWExNmVh`
+Snapshot ID: `MCxkOWY3YTY5NTU5NjEzODFiZjQzMWZkOTIyMTNjODk2ODRjYjkzM2U2`

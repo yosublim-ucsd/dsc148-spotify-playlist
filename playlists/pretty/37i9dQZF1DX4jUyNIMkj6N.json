@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 190089,
+  "num_followers": 190160,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2IxYWE3N2E1YTc1OWJhOWI3YmI4YTg2MTBhOGRhZWQ2YTExOTlh",
+  "snapshot_id": "MCw2NjFiNmFmMWI4MmU4MTYxZTFiMTdlMTk4OWIzNWViMTI3ZWUxOWFl",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -867,6 +867,26 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Rolling Thunder",
+        "url": "https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc"
+      },
+      "artists": [
+        {
+          "name": "Alberta Cross",
+          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
+        },
+        {
+          "name": "L'aupaire",
+          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
+        }
+      ],
+      "duration_ms": 241785,
+      "name": "Rolling Thunder",
+      "url": "https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Dad Told Me",
         "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 227760,
       "name": "The Ghost in Your Smile",
       "url": "https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "In The Silence",
-        "url": "https://open.spotify.com/album/2EnpffXCERRVc6ZkJgddmL"
-      },
-      "artists": [
-        {
-          "name": "Everything We're Not",
-          "url": "https://open.spotify.com/artist/55aF2K7WSCptXLM1vmObKz"
-        },
-        {
-          "name": "Sofia Dragt",
-          "url": "https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "In The Silence",
-      "url": "https://open.spotify.com/track/4Pyg2i2ZSUriQh5QuuBs0y"
     },
     {
       "added_at": "2023-10-12 22:00:00",

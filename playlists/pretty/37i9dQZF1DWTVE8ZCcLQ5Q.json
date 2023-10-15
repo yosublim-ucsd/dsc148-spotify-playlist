@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 419921,
+  "num_followers": 419536,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2QwYWViNjAwZmQ1MGRhMTk1ZmFhNzk1MmQzODk3MWFhMjM0N2Vj",
+  "snapshot_id": "MCwwZTE5YWU1MzU5NjBlNGFmZDQwMWQ3ODFlNzZkYzhkNjY3YjU3ZmQz",
   "tracks": [
     {
       "added_at": "2023-10-05 08:00:00",
@@ -347,6 +347,26 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "Joga na Cara",
+        "url": "https://open.spotify.com/album/6wAmvT3thzRT1weMOvVABC"
+      },
+      "artists": [
+        {
+          "name": "MC Braz",
+          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
+        },
+        {
+          "name": "MC Gabluca",
+          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
+        }
+      ],
+      "duration_ms": 109846,
+      "name": "Joga na Cara",
+      "url": "https://open.spotify.com/track/1gKXrwKn5ub6wyefqMsnZp"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "Uber",
         "url": "https://open.spotify.com/album/1Uf5qg0DF4xGCl2JYKz2Ae"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 157741,
       "name": "Uber",
       "url": "https://open.spotify.com/track/3e9jL8tQI1JyBQgaXYFwUb"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Joga na Cara",
-        "url": "https://open.spotify.com/album/6wAmvT3thzRT1weMOvVABC"
-      },
-      "artists": [
-        {
-          "name": "MC Braz",
-          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
-        },
-        {
-          "name": "MC Gabluca",
-          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
-        }
-      ],
-      "duration_ms": 109846,
-      "name": "Joga na Cara",
-      "url": "https://open.spotify.com/track/1gKXrwKn5ub6wyefqMsnZp"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -427,30 +427,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "3AM (PXT4 RASA) [Remix]",
-        "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
-      },
-      "artists": [
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Matheus Muniz",
-          "url": "https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI"
-        }
-      ],
-      "duration_ms": 122192,
-      "name": "3AM (PXT4 RASA) - Remix",
-      "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Malvatrem",
         "url": "https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL"
       },
@@ -471,6 +447,30 @@
       "duration_ms": 191961,
       "name": "Oompa Loompa",
       "url": "https://open.spotify.com/track/17YRNfsbyA7wTOEhANAyK7"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "3AM (PXT4 RASA) [Remix]",
+        "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Matheus Muniz",
+          "url": "https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI"
+        }
+      ],
+      "duration_ms": 122192,
+      "name": "3AM (PXT4 RASA) - Remix",
+      "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Eu Te Dei, Amor",
-        "url": "https://open.spotify.com/album/3YYgYJsqWixI7kvzG0xVjY"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 131071,
-      "name": "Eu Te Dei, Amor",
-      "url": "https://open.spotify.com/track/295aNQC63tnXBPFfohPcqO"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Baby Hair",
         "url": "https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 153393,
       "name": "Baby Hair",
       "url": "https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Eu Te Dei, Amor",
+        "url": "https://open.spotify.com/album/3YYgYJsqWixI7kvzG0xVjY"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 131071,
+      "name": "Eu Te Dei, Amor",
+      "url": "https://open.spotify.com/track/295aNQC63tnXBPFfohPcqO"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "alice (s\u00f3 que sem as maravilhas)",
+        "url": "https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg"
+      },
+      "artists": [
+        {
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+        }
+      ],
+      "duration_ms": 151111,
+      "name": "alice (s\u00f3 que sem as maravilhas)",
+      "url": "https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "VideoChamada (Facetime)",
         "url": "https://open.spotify.com/album/0PYK1zmn56XIeDi99TJmBN"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 226666,
       "name": "VideoChamada (Facetime)",
       "url": "https://open.spotify.com/track/50u790FARiXbpXlDMpf0W0"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "alice (s\u00f3 que sem as maravilhas)",
-        "url": "https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg"
-      },
-      "artists": [
-        {
-          "name": "lalalaura",
-          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
-        }
-      ],
-      "duration_ms": 151111,
-      "name": "alice (s\u00f3 que sem as maravilhas)",
-      "url": "https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY"
     },
     {
       "added_at": "2023-10-05 08:00:00",

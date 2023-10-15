@@ -414,7 +414,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 259846,
       "name": "7969 Santa",
       "url": "https://open.spotify.com/track/1GpWY5RiInhezB8wGWs6oN"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 141212,
       "name": "Amen (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/0Mrnt1YqVuW2bqmwu4VxDt"
@@ -2978,7 +2978,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 184089,
       "name": "Bahamas Promises",
       "url": "https://open.spotify.com/track/3JZjcKImHcmOI9ylL4zrSc"
@@ -4282,6 +4282,28 @@
       "duration_ms": 170911,
       "name": "Brambleton",
       "url": "https://open.spotify.com/track/7qQMtg44hxQ0ga7NhyyNxR"
+    },
+    {
+      "album": {
+        "name": "iMALI YE NTWANA",
+        "url": "https://open.spotify.com/album/1YZIU86GRlTUYwnnBTV3Iz"
+      },
+      "artists": [
+        {
+          "name": "Sam Deep",
+          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382361,
+      "name": "BraMfana",
+      "url": "https://open.spotify.com/track/1DcuhwKb2XCZFjLpjYiUiT"
     },
     {
       "album": {
@@ -6672,7 +6694,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 164142,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/4ZT0wGKwlJRjpMUuwZVy3p"
@@ -7784,7 +7806,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 262768,
       "name": "Drew A Picasso",
       "url": "https://open.spotify.com/track/03rwnftfgpYVO6QDWOZcG6"
@@ -9180,7 +9202,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 155154,
       "name": "Fear Of Heights",
       "url": "https://open.spotify.com/track/53KaP77tkliz36LPxWGlWK"
@@ -10936,6 +10958,24 @@
     {
       "album": {
         "name": "greedy",
+        "url": "https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p"
+    },
+    {
+      "album": {
+        "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
       },
       "artists": [
@@ -10946,7 +10986,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -11132,7 +11172,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 480016,
       "name": "Hamba Juba",
       "url": "https://open.spotify.com/track/4k5FlWz3dfhyQzmRpVPZsW"
@@ -11894,6 +11934,40 @@
       "duration_ms": 264473,
       "name": "HOPE",
       "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
+    },
+    {
+      "album": {
+        "name": "Weekent Sun Sets (Horns In The Sun Remix EP)",
+        "url": "https://open.spotify.com/album/4rdsbF5ddnRC2WVwCX5VWn"
+      },
+      "artists": [
+        {
+          "name": "DJ Kent",
+          "url": "https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN"
+        },
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Mo-T",
+          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
+        },
+        {
+          "name": "M\u00d6RDA",
+          "url": "https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp"
+        },
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336657,
+      "name": "Horns In The Sun - Thakzin Remix",
+      "url": "https://open.spotify.com/track/2V2K1hzCtgj9xAnga9WUTy"
     },
     {
       "album": {
@@ -13069,6 +13143,32 @@
     },
     {
       "album": {
+        "name": "iMALI YE NTWANA",
+        "url": "https://open.spotify.com/album/1YZIU86GRlTUYwnnBTV3Iz"
+      },
+      "artists": [
+        {
+          "name": "Sam Deep",
+          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
+        },
+        {
+          "name": "Eemoh",
+          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
+        },
+        {
+          "name": "Da Muziqal Chef",
+          "url": "https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378264,
+      "name": "iMpumelelo",
+      "url": "https://open.spotify.com/track/1djewwWkOaJGFtPaQc2MU6"
+    },
+    {
+      "album": {
         "name": "iMpumelelo",
         "url": "https://open.spotify.com/album/600f0AtpknH8u1xPwPs7JE"
       },
@@ -13088,7 +13188,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 378264,
       "name": "iMpumelelo",
       "url": "https://open.spotify.com/track/5SjrCoaMIUauMrOZG2CUnq"
@@ -13657,6 +13757,32 @@
     },
     {
       "album": {
+        "name": "iMALI YE NTWANA",
+        "url": "https://open.spotify.com/album/1YZIU86GRlTUYwnnBTV3Iz"
+      },
+      "artists": [
+        {
+          "name": "Sam Deep",
+          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
+        },
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Aymos",
+          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413838,
+      "name": "Isgubhu",
+      "url": "https://open.spotify.com/track/1ng4byy7mejezJ08hs4P7R"
+    },
+    {
+      "album": {
         "name": "Isgubhu",
         "url": "https://open.spotify.com/album/6knBCE7dRT9DJochGox4f7"
       },
@@ -13676,7 +13802,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 414386,
       "name": "Isgubhu",
       "url": "https://open.spotify.com/track/34tsYM5Z3g9dvrwLjQKDtr"
@@ -15880,7 +16006,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 411450,
       "name": "Kwelinye (feat. Keynote)",
       "url": "https://open.spotify.com/track/3HCs7v1ac2ReqcUlTs7YVm"
@@ -18440,7 +18566,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 277720,
       "name": "Members Only (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn"
@@ -18706,7 +18832,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 351640,
       "name": "Mina Nawe",
       "url": "https://open.spotify.com/track/1y5eHXBYiLgNv00KoHXm4o"
@@ -20384,7 +20510,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 372976,
       "name": "Ngilimele",
       "url": "https://open.spotify.com/track/1cuL0U39TgY6KLZ8yHgexM"
@@ -20421,6 +20547,28 @@
     },
     {
       "album": {
+        "name": "Ngimtholile",
+        "url": "https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP"
+      },
+      "artists": [
+        {
+          "name": "Maverick Muji",
+          "url": "https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o"
+        },
+        {
+          "name": "Nonny",
+          "url": "https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244062,
+      "name": "Ngimtholile",
+      "url": "https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt"
+    },
+    {
+      "album": {
         "name": "Umsebenzi Wethu, Vol. 2",
         "url": "https://open.spotify.com/album/3pA1oYHkNliSJVD7JxIIoV"
       },
@@ -20454,7 +20602,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 281240,
       "name": "Ngiyeza",
       "url": "https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu"
@@ -20916,7 +21064,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -23954,7 +24102,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 319191,
       "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
       "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
@@ -25036,6 +25184,28 @@
       "duration_ms": 345802,
       "name": "Sax Dance",
       "url": "https://open.spotify.com/track/30340WPuDKqY1g9WSpYAHY"
+    },
+    {
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173253,
+      "name": "SAY MY GRACE (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
     },
     {
       "album": {
@@ -30106,7 +30276,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 209990,
       "name": "Tried Our Best",
       "url": "https://open.spotify.com/track/3IHt4j5uAEl7iBu8Utn985"
@@ -30774,6 +30944,28 @@
       "duration_ms": 222000,
       "name": "Umbrella (with 21 Savage & Young Nudy)",
       "url": "https://open.spotify.com/track/31De8hk4QgDsbS26w06h21"
+    },
+    {
+      "album": {
+        "name": "Umjolo Lowo",
+        "url": "https://open.spotify.com/album/6KV7h9dmu6Cijf8399HbwB"
+      },
+      "artists": [
+        {
+          "name": "Khuzani",
+          "url": "https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs"
+        },
+        {
+          "name": "Luve Dubazane",
+          "url": "https://open.spotify.com/artist/2qn1ZfGigw6BNbf2MNuEJc"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244648,
+      "name": "Umjolo Lowo",
+      "url": "https://open.spotify.com/track/4zkTyuLiE6mH4DoCi6C8fB"
     },
     {
       "album": {
@@ -32818,7 +33010,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 368620,
       "name": "Wena Dali",
       "url": "https://open.spotify.com/track/4hDjmMljGvNZuYUXw1HWw3"
@@ -33056,7 +33248,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
@@ -33074,7 +33266,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 182998,
       "name": "What Would Pluto Do",
       "url": "https://open.spotify.com/track/1DAibqbopEYULPEtE8WHTE"
@@ -33693,6 +33885,28 @@
     },
     {
       "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "WORTH IT (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
+    },
+    {
+      "album": {
         "name": "Party With The English",
         "url": "https://open.spotify.com/album/5IWQ1qQbZyzWIVtUTEi61o"
       },
@@ -34078,6 +34292,32 @@
       "duration_ms": 381941,
       "name": "yey",
       "url": "https://open.spotify.com/track/37ISMEYWqhRHcPEitHn8Er"
+    },
+    {
+      "album": {
+        "name": "Yini Ngathi",
+        "url": "https://open.spotify.com/album/3JiFfwtbTsNzQO2Of6xk5W"
+      },
+      "artists": [
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Keynote",
+          "url": "https://open.spotify.com/artist/5it8lnSTlpMfnKnrMrfZzE"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347148,
+      "name": "Yini Ngathi (Insane)",
+      "url": "https://open.spotify.com/track/7Gc7tNSocAypLct0MYYzmk"
     },
     {
       "album": {

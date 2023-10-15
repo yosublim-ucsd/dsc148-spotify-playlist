@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 11765,
+  "num_followers": 11811,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2Y3MThmNDExNzM3NjRjOTMzNzgxZmMyZDZhNjA4N2U3MTU2ZGFk",
+  "snapshot_id": "MCxkMTIyNjE2NjFjY2QwZTBkNDUwY2IyODlmYTAxYWUxNDJlZGQyY2Uw",
   "tracks": [
     {
       "added_at": "2023-10-13 13:31:57",
@@ -939,6 +939,26 @@
     {
       "added_at": "2023-10-13 13:31:57",
       "album": {
+        "name": "Anel da Pandora",
+        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
+      },
+      "artists": [
+        {
+          "name": "GR\u20acG MC",
+          "url": "https://open.spotify.com/artist/3rcpxbWqJ2yXAiWwwBOj0u"
+        },
+        {
+          "name": "ESCOB4R",
+          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
+        }
+      ],
+      "duration_ms": 199012,
+      "name": "Anel da Pandora",
+      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
+    },
+    {
+      "added_at": "2023-10-13 13:31:57",
+      "album": {
         "name": "Arrepios",
         "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 198070,
       "name": "Yo Quiero Te Namorar",
       "url": "https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf"
-    },
-    {
-      "added_at": "2023-10-13 13:31:57",
-      "album": {
-        "name": "Anel da Pandora",
-        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
-      },
-      "artists": [
-        {
-          "name": "GR\u20acG MC",
-          "url": "https://open.spotify.com/artist/3rcpxbWqJ2yXAiWwwBOj0u"
-        },
-        {
-          "name": "ESCOB4R",
-          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
-        }
-      ],
-      "duration_ms": 199012,
-      "name": "Anel da Pandora",
-      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
     },
     {
       "added_at": "2023-10-13 13:31:57",
@@ -1039,26 +1039,26 @@
     {
       "added_at": "2023-10-13 13:31:57",
       "album": {
-        "name": "5 Sentidos",
-        "url": "https://open.spotify.com/album/1s28pGCRDJ4u6D7OCStD3z"
+        "name": "Te Vejo Mais Tarde",
+        "url": "https://open.spotify.com/album/5nqd1TC3Dyn6v5HE5FLwbv"
       },
       "artists": [
         {
-          "name": "Morgado",
-          "url": "https://open.spotify.com/artist/18PzCN6SSqd7FcS21URnnN"
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
         },
         {
-          "name": "Pedro Toro",
-          "url": "https://open.spotify.com/artist/2FHYFId438DDYQT3crCjvf"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         },
         {
-          "name": "Xavier2bit",
-          "url": "https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV"
+          "name": "\u00c9ffe",
+          "url": "https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW"
         }
       ],
-      "duration_ms": 164406,
-      "name": "5 Sentidos",
-      "url": "https://open.spotify.com/track/05mGzXNuvGKByWkzDp2ID1"
+      "duration_ms": 114117,
+      "name": "Te Vejo Mais Tarde",
+      "url": "https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw"
     }
   ],
   "unique_name": "pique afrobeats",

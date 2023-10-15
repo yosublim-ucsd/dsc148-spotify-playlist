@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-376 songs - 23 hr 54 min
+377 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Greyhound](https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:50 | 2021-09-01 |  |
 | [Guantanamera](https://open.spotify.com/track/5QAya5bSSiKlh1h4qeeq38) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Guantanamera](https://open.spotify.com/album/1yA5EcTrAtZqJPDrmNbEhm) | 3:10 | 2021-09-01 |  |
 | [Hacia el Fondo](https://open.spotify.com/track/1TmhcMiKugkz7bfryEJGR3) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Pez](https://open.spotify.com/album/4NXP3aNRLfVxa76RN6iHqb) | 3:17 | 2021-09-01 |  |
-| [HADES](https://open.spotify.com/track/2Ntrial8l1h53OQKVuqqmn) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [HADES](https://open.spotify.com/album/2fsAnho0Jxj4Bdo6HKr4HZ) | 5:03 | 2022-04-08 |  |
+| [HADES](https://open.spotify.com/track/2Ntrial8l1h53OQKVuqqmn) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [HADES](https://open.spotify.com/album/2fsAnho0Jxj4Bdo6HKr4HZ) | 5:03 | 2022-04-08 | 2023-10-15 |
+| [HADES](https://open.spotify.com/track/5XJw85WkjmgvyjkjbdBScJ) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Hades Check](https://open.spotify.com/album/27DeXaQ74fIpfeJKJJbeAB) | 5:03 | 2022-04-08 |  |
 | [Half Alive](https://open.spotify.com/track/6PZep0AyFbiX2K3u44evKM) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [The Start \(Act II\)](https://open.spotify.com/album/2tWoCtDjl93XcMKzgN3nb7) | 3:35 | 2022-11-24 |  |
 | [Happy Man](https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:11 | 2021-09-01 |  |
 | [Hard Billy](https://open.spotify.com/track/7DWnLKwS5ozOnCAhGbREjM) | [Leonie Pernet](https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC) | [Le Cirque de Consolation](https://open.spotify.com/album/5rg6sPzPkEB0YAuZiCUG61) | 3:41 | 2022-11-24 |  |

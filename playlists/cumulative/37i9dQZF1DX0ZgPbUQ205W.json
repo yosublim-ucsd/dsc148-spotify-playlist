@@ -2474,7 +2474,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 258161,
       "name": "Jeg gik mig ud en Sommerdag",
       "url": "https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy"
@@ -3746,6 +3746,32 @@
       "duration_ms": 208293,
       "name": "Osmosis Part I",
       "url": "https://open.spotify.com/track/3LVDBYPP9jFUg2daGEZ3ZB"
+    },
+    {
+      "album": {
+        "name": "Owl Song 1 (feat. Bill Frisell & Herlin Riley)",
+        "url": "https://open.spotify.com/album/6NUxtWDXrctrTv06UTWx9L"
+      },
+      "artists": [
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Herlin Riley",
+          "url": "https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352493,
+      "name": "Owl Song 1 (feat. Bill Frisell & Herlin Riley)",
+      "url": "https://open.spotify.com/track/6ICJd5vAZPHxLB3zIt2u2u"
     },
     {
       "album": {

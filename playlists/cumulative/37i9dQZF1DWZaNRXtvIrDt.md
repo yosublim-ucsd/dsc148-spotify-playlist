@@ -4,7 +4,7 @@
 
 > a new world of alternative electronic music\. Cover: Logic1000
 
-487 songs - 1 day 12 hr 13 min
+488 songs - 1 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 | 2023-01-19 | 2023-04-07 |
 | [Forever](https://open.spotify.com/track/3XPCIPycCKEjQVG087GkLk) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [Forever](https://open.spotify.com/album/342hxZWpKqeP2gHMrZ4zMM) | 3:45 | 2023-06-08 | 2023-08-25 |
 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 | 2023-03-02 | 2023-03-25 |
-| [Foxes](https://open.spotify.com/track/0PwglH43kbPyHIrrhNtN3R) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Foxes](https://open.spotify.com/album/06KpNKpi3MlQwkwSgqdWGD) | 4:15 | 2023-09-14 |  |
+| [Foxes](https://open.spotify.com/track/0PwglH43kbPyHIrrhNtN3R) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Foxes](https://open.spotify.com/album/06KpNKpi3MlQwkwSgqdWGD) | 4:15 | 2023-09-14 | 2023-10-15 |
+| [Foxes](https://open.spotify.com/track/5rGtpIBaTXQKcFVDlrAerI) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y) | 4:15 | 2023-10-12 |  |
 | [Frauds \(DJ Plead Remix\)](https://open.spotify.com/track/5YgBTwMX7M1w6DZ7Ak4JOD) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg) | [Frauds \(Reworked\)](https://open.spotify.com/album/6QnPjjXrL8PBfwJHxtqSdm) | 3:28 | 2023-09-21 |  |
 | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/album/1JsPxT71G12JueIEVP0UR1) | 3:36 | 2023-03-16 | 2023-05-26 |
 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 | 2023-08-17 |  |
@@ -423,7 +424,7 @@
 | [Tell Me](https://open.spotify.com/track/7uAa5O6x6wDF79xHLloBHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Tell Me](https://open.spotify.com/album/6vyF5kNaivtBwzZWCIlMXq) | 5:00 | 2023-09-07 | 2023-09-09 |
 | [Tell Me](https://open.spotify.com/track/4gc5FbQJ6yuBg1eBkT46t7) | [Race Banyon](https://open.spotify.com/artist/5btOKBbjh04dkX7iqFERLL) | [Tell Me / AM](https://open.spotify.com/album/7CSYqjNd0E8C007HUrzDaH) | 4:16 | 2023-04-27 | 2023-07-14 |
 | [Temple Ball](https://open.spotify.com/track/7Ah1d6NCuGZu9cBUUgKF1H) | [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Artefacts](https://open.spotify.com/album/3Z8SR7Wc9EETlyQoPRZnx3) | 5:34 | 2022-12-22 | 2023-03-03 |
-| [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:02 | 2023-10-12 |  |
+| [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 | 2023-10-12 |  |
 | [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 | 2023-06-08 | 2023-07-31 |
 | [Territory Day](https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 5:26 | 2023-07-27 | 2023-08-18 |
 | [The Rite Time \- Radio Edit](https://open.spotify.com/track/1FD1QJDanGbIvlzISHezws) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Rite Time \(Radio Edit\)](https://open.spotify.com/album/0ieNOineZMrDVzWV9iLPYC) | 3:49 | 2023-01-26 | 2023-03-10 |

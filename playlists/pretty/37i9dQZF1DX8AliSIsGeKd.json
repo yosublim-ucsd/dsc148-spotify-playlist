@@ -1,12 +1,12 @@
 {
   "description": "The best new electronic music. Cover: Ben B\u00f6hmer, Felix Raphael",
-  "num_followers": 616361,
+  "num_followers": 616427,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjdhY2E5OTk4MWUxNDlmODE3NjY2ZGU3NDBiZGEyMzYzZjc2MjAx",
+  "snapshot_id": "MCwwMjBhOWI3MWU0NjZhZDY4Zjc3MDkwMzU1ZjVlMTM4ZDE2MGM5MzQ3",
   "tracks": [
     {
       "added_at": "2023-10-13 10:15:00",
@@ -158,6 +158,10 @@
         {
           "name": "Mura Masa",
           "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "NADIAH",
+          "url": "https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele"
         }
       ],
       "duration_ms": 241243,

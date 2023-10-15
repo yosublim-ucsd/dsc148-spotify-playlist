@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 
 > The Most Popular Ambient Tracks in 2022\. Kaitlyn Aurelia Smith on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,260 likes - 100 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,270 likes - 100 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 | 99 | [ever, after](https://open.spotify.com/track/1bIZWsVJatlo8hBzn0IEdI) | [Project AER](https://open.spotify.com/artist/0iMWUBpWAGKAenBVePrZFP) | [after.](https://open.spotify.com/album/0lySn87GZkkmgPOInrnuC2) | 3:03 |
 | 100 | [All The Light They Cannot See](https://open.spotify.com/track/5yx4wEiqwftOWWArUes897) | [Nili Fossae](https://open.spotify.com/artist/2OK2TRERh4tmACxlgjIvp0) | [Into The Blue](https://open.spotify.com/album/3Myx0XEGPjTmfWBTGKZ4F4) | 5:32 |
 
-Snapshot ID: `MCxmZGY5MWU3YTMxMGRiOGQ1ZGI3MDRkZDAwZDgzMDNlM2YwYjFhN2Y4`
+Snapshot ID: `MCw0ZjYwMTY2ZGQxYmI2ODIwOTE0MDJmNDI1ZDk1OGEzMzQ4YjY3ZWJh`

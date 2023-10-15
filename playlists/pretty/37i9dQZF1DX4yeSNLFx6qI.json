@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1743049,
+  "num_followers": 1742246,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjRkYzZiOGZjNjliNGVkNTQyNTg1ZDJjZDBjYTNlOGMxNDI4Mjkw",
+  "snapshot_id": "MCxkYThhNjU4MjllM2RlYTkzNjM3MzczMzIxNmI4NjY5Mjk4Y2FhMDk1",
   "tracks": [
     {
       "added_at": "2023-10-12 20:36:16",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-10-12 20:36:16",
       "album": {
-        "name": "B\u00e9same Bonito",
-        "url": "https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi"
-      },
-      "artists": [
-        {
-          "name": "Carmen DeLeon",
-          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "B\u00e9same Bonito",
-      "url": "https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n"
-    },
-    {
-      "added_at": "2023-10-12 20:36:16",
-      "album": {
         "name": "Siempre",
         "url": "https://open.spotify.com/album/1FmLq6L6oiD1zAq0UxF341"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 92539,
       "name": "Siempre",
       "url": "https://open.spotify.com/track/2BOfgAlexUSef23fFwkd1k"
+    },
+    {
+      "added_at": "2023-10-12 20:36:16",
+      "album": {
+        "name": "B\u00e9same Bonito",
+        "url": "https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi"
+      },
+      "artists": [
+        {
+          "name": "Carmen DeLeon",
+          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "B\u00e9same Bonito",
+      "url": "https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n"
     },
     {
       "added_at": "2023-10-12 20:36:16",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-10-12 20:36:16",
       "album": {
+        "name": "Vidas Pasadas",
+        "url": "https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 138937,
+      "name": "Vidas Pasadas",
+      "url": "https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr"
+    },
+    {
+      "added_at": "2023-10-12 20:36:16",
+      "album": {
         "name": "Si Fuera M\u00eda - EP",
         "url": "https://open.spotify.com/album/0Blo1xKwN9GKOUgCBBWvmx"
       },
@@ -911,22 +927,6 @@
     {
       "added_at": "2023-10-12 20:36:16",
       "album": {
-        "name": "De Pel\u00edcula",
-        "url": "https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "No Quer\u00edas Lastimarme",
-      "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
-    },
-    {
-      "added_at": "2023-10-12 20:36:16",
-      "album": {
         "name": "Cristina",
         "url": "https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-10-12 20:36:16",
       "album": {
-        "name": "Vidas Pasadas",
-        "url": "https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 138937,
-      "name": "Vidas Pasadas",
-      "url": "https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr"
-    },
-    {
-      "added_at": "2023-10-12 20:36:16",
-      "album": {
         "name": "Por Tu Bien",
         "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 237173,
       "name": "Acu\u00e9rdate de M\u00ed",
       "url": "https://open.spotify.com/track/3sjxyR6C8OjKPnGYpsthzH"
+    },
+    {
+      "added_at": "2023-10-12 20:36:16",
+      "album": {
+        "name": "De Pel\u00edcula",
+        "url": "https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "No Quer\u00edas Lastimarme",
+      "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
     },
     {
       "added_at": "2023-10-12 20:36:16",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-10-12 20:36:16",
       "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/4iCm5y1XREMD9eIq0rIbct"
-      },
-      "artists": [
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 236485,
-      "name": "Suficiente",
-      "url": "https://open.spotify.com/track/3FVnwugdti1mSy5xjpXCaz"
-    },
-    {
-      "added_at": "2023-10-12 20:36:16",
-      "album": {
         "name": "Coraz\u00f3n descalzo",
         "url": "https://open.spotify.com/album/6rPDQxBOhdM6PMJhicMIWj"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 254927,
       "name": "Coraz\u00f3n descalzo",
       "url": "https://open.spotify.com/track/54ApOH9ZT6Sk86t8Ayuey9"
+    },
+    {
+      "added_at": "2023-10-12 20:36:16",
+      "album": {
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/4iCm5y1XREMD9eIq0rIbct"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 236485,
+      "name": "Suficiente",
+      "url": "https://open.spotify.com/track/3FVnwugdti1mSy5xjpXCaz"
     },
     {
       "added_at": "2023-10-12 20:36:16",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-10-12 20:36:16",
       "album": {
+        "name": "De la Ilusi\u00f3n Al Miedo",
+        "url": "https://open.spotify.com/album/05NWvM3z8QlJCUqhQATFjx"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "De la Ilusi\u00f3n Al Miedo",
+      "url": "https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN"
+    },
+    {
+      "added_at": "2023-10-12 20:36:16",
+      "album": {
         "name": "Con Las Ganas",
         "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 241306,
       "name": "Con Las Ganas",
       "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
-    },
-    {
-      "added_at": "2023-10-12 20:36:16",
-      "album": {
-        "name": "De la Ilusi\u00f3n Al Miedo",
-        "url": "https://open.spotify.com/album/05NWvM3z8QlJCUqhQATFjx"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "De la Ilusi\u00f3n Al Miedo",
-      "url": "https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN"
     },
     {
       "added_at": "2023-10-12 20:36:16",
@@ -1675,6 +1675,38 @@
     {
       "added_at": "2023-10-12 20:36:16",
       "album": {
+        "name": "Amarte y Perderte",
+        "url": "https://open.spotify.com/album/61m0MH9BQYHXRV4wbL6RbL"
+      },
+      "artists": [
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "duration_ms": 208947,
+      "name": "Amarte y Perderte",
+      "url": "https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d"
+    },
+    {
+      "added_at": "2023-10-12 20:36:16",
+      "album": {
+        "name": "Estemos Donde Estemos",
+        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 107320,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
+    },
+    {
+      "added_at": "2023-10-12 20:36:16",
+      "album": {
         "name": "Atado Entre Tus Manos",
         "url": "https://open.spotify.com/album/4ynLSCZ4KGaB3mIbYHb2dw"
       },
@@ -1695,22 +1727,6 @@
     {
       "added_at": "2023-10-12 20:36:16",
       "album": {
-        "name": "Amarte y Perderte",
-        "url": "https://open.spotify.com/album/61m0MH9BQYHXRV4wbL6RbL"
-      },
-      "artists": [
-        {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
-        }
-      ],
-      "duration_ms": 208947,
-      "name": "Amarte y Perderte",
-      "url": "https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d"
-    },
-    {
-      "added_at": "2023-10-12 20:36:16",
-      "album": {
         "name": "Nada de Nada",
         "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 217500,
       "name": "Nada de Nada",
       "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
-    },
-    {
-      "added_at": "2023-10-12 20:36:16",
-      "album": {
-        "name": "Estemos Donde Estemos",
-        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 107320,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
     }
   ],
   "unique_name": "Sin Ti",

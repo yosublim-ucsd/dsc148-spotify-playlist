@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,301 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,371 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 18 | [Magalalla \(From "Hi Nanna"\)](https://open.spotify.com/track/7z58mpa9Tx6SdwHmn6olYB) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Magalalla \(From "Hi Nanna"\)](https://open.spotify.com/album/63fGaUgWVnzRlrmQkvYp64) | 4:26 |
 | 19 | [Samayave Saaladu](https://open.spotify.com/track/3XRMSg7cT5tgrzkRFYDDpE) | [Asha Bhat](https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96), [Kalyan Manjunath](https://open.spotify.com/artist/35Wzhm2uv7DeqM1xRQwcU6) | [Samayave Saaladu](https://open.spotify.com/album/6MlNNbgEbayMwkaLyZygar) | 4:55 |
 | 20 | [Yenidhu Hosa](https://open.spotify.com/track/3lgCFLGxttkoHVcMn0greF) | [Greeshma Tharavath](https://open.spotify.com/artist/38S7LZ9z3t1xYe8DLomnRY) | [Preetisabeda](https://open.spotify.com/album/5VrpAmC4Gz3hRShKLhmtxm) | 3:13 |
-| 21 | [Luv You Shankar \- Title Track \(From "Luv You Shankar"\)](https://open.spotify.com/track/6oZ2ZNtjf0tkcO876VwFny) | [Shridevi Kalladka](https://open.spotify.com/artist/0aPeKQSd30fMdO5Nf4dqBh), [Vardan Singh](https://open.spotify.com/artist/4yeoysFmRgrJrMYtLlA7mF), [Dheeraj Poojary](https://open.spotify.com/artist/1kRr1pm0z2AXlC8WjsHiPX) | [Luv You Shankar \- Title Track \(From "Luv You Shankar"\)](https://open.spotify.com/album/6fISjXCFYk8qOPZ9i19NZD) | 3:57 |
+| 21 | [Luv You Shankar \- Title Track \(Kannada\) \(From "Luv You Shankar"\)](https://open.spotify.com/track/5USiyt3zwXbm600onq3ijN) | [Vardan Singh](https://open.spotify.com/artist/4yeoysFmRgrJrMYtLlA7mF), [Shridevi Kalladka](https://open.spotify.com/artist/0aPeKQSd30fMdO5Nf4dqBh) | [Luv You Shankar \- Title Track \(Kannada\) \(From "Luv You Shankar"\)](https://open.spotify.com/album/2yVaS7goQ1uIxlLEkz9vWQ) | 3:57 |
 | 22 | [Hosa Vibe](https://open.spotify.com/track/4hLszBKKfmlSofhMcV4kZs) | [Nihal Tauro](https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF), [Ritvik Muralidhar](https://open.spotify.com/artist/6WCsxUetmUxK3BinjpKIDH) | [Baang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1lrjXieYG5pNO0ubgiCJDp) | 3:08 |
 | 23 | [Kanna Baana \- From "Chikku"](https://open.spotify.com/track/46giPH7ozi1yQhqFoMbQ0u) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [Kanna Baana \(From "Chikku"\)](https://open.spotify.com/album/7CUojzbqOxiSCmtLEvs1FS) | 4:03 |
 | 24 | [OGM \(From "Ghost"\)](https://open.spotify.com/track/25T3o2LN7IV1mIXCt1FPbQ) | [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [MC Chetan](https://open.spotify.com/artist/6xVCfFjIqeehPyqll3aVNb), [Jithin Raj](https://open.spotify.com/artist/2GkBjSH85M2uKGVtFL5eua) | [OGM \(From "Ghost"\)](https://open.spotify.com/album/1DejFzQ3uRdlJtWvqiIRD6) | 2:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Preethisuve](https://open.spotify.com/track/1IsoqavrtE8wf6lf2EPCIF) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Prithwi Bhat](https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21), [Jayanth Kaikini](https://open.spotify.com/artist/5sLLcCwFCniAJxzLMthF57) | [Kousalya Supraja Rama \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Ekn7qdUqn18EP7APdBLgZ) | 3:58 |
 | 75 | [Snehada Kadalali \(From "Paramvah"\)](https://open.spotify.com/track/4KJvTL4XjJoKUb5CZIgEtz) | [Naveen Sajju](https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx), [Aparajith](https://open.spotify.com/artist/3FxEjVe2C0MQXdfU46vCb7), [Jos Jossey](https://open.spotify.com/artist/4cUt2kLK0SggEXpMpFLjOx), [Arjun Lewis](https://open.spotify.com/artist/21v78VY5iBrav8FSP4B9EY), [Nagesh Kundapura](https://open.spotify.com/artist/19FEhamBap1MSFCB34qt0s) | [Snehada Kadalali \(From "Paramvah"\)](https://open.spotify.com/album/3wWlz3OBsOFpaFpZ9xiEVg) | 4:42 |
 
-Snapshot ID: `MCw1ZTFhY2RkZjg2MzE5MjkzZTliYmJkZDg2Mzg5MGI3NjRlODEzNzk1`
+Snapshot ID: `MCxjZTU2Y2IzNmZhNDVkZTI3MzNiYTk5MjQ1NjY2Y2Y3M2ExMmM0YzE4`

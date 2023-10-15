@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Roberto Fonseca
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,583 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,637 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 15 | [Why Am I Treated So Bad \(with Questlove, Christian McBride\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/22OeSoWelZKWr5On4XIaKP) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Why Am I Treated So Bad \(with Questlove, Christian McBride\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/4JdmT4JJgQFP3dUgvpjx3H) | 5:23 |
 | 16 | [Everything’s Not Lost](https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Everything’s Not Lost](https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO) | 4:08 |
 | 17 | [Stings](https://open.spotify.com/track/7zdBfReMVQKgxO5Pa5O3Hf) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [Stings](https://open.spotify.com/album/09easBrTbXjhnsqORAvkiK) | 4:50 |
-| 18 | [Drive My Car](https://open.spotify.com/track/2UqjB852n1IxWh2GDbyD9u) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Greg Hutchinson](https://open.spotify.com/artist/7Fq1ZR135foUaxCHN1Ex8o), [Matt Penmann](https://open.spotify.com/artist/11XVTuKY8lRxcrbbysWYLr) | [Brexit Music](https://open.spotify.com/album/4Syh9y7tKbCtkHRsSOjxNB) | 3:08 |
+| 18 | [Drive My Car](https://open.spotify.com/track/2UqjB852n1IxWh2GDbyD9u) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Gregory Hutchinson](https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y), [Matt Penman](https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k) | [Brexit Music](https://open.spotify.com/album/4Syh9y7tKbCtkHRsSOjxNB) | 3:08 |
 | 19 | [Call Off The Search \- Demo](https://open.spotify.com/track/7KdUI2n3d32uGGso0rD7wc) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Call Off The Search](https://open.spotify.com/album/2c6GalSbICqbbg7CW9U5KX) | 2:16 |
 | 20 | [Hope](https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Timba a la Americana](https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C) | 3:01 |
 | 21 | [Give Me A Reason](https://open.spotify.com/track/3dvGUfs6L9q6AwuAGEaswW) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Give Me A Reason](https://open.spotify.com/album/78pQHAt8HWRK8WVAUdmR2h) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [California and Me](https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:36 |
 | 50 | [Apache Woman](https://open.spotify.com/track/6gH3Nrt0v6AZzCfaMAjyO2) | [Henri Texier](https://open.spotify.com/artist/7nFb95Ufz3MkdXP4bnlSES), [Manu Codjia](https://open.spotify.com/artist/5pgPy5GD36vX0EM48DrvE4), [Gautier Garrigue](https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO), [Carlo Nardozza](https://open.spotify.com/artist/1eYCiyEsYPHpLci3OUborg), [Sylvain Rifflet](https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni), [Sébastien Texier](https://open.spotify.com/artist/6zwjF5PQCREmT9hfRnSEeu), [Himiko Paganotti](https://open.spotify.com/artist/7nOiX0kJl9GXiBt8GmFhYC) | [Apache Woman](https://open.spotify.com/album/2drFeRDhAXuzdccDxj40uw) | 7:20 |
 
-Snapshot ID: `MCxmMWRiNDA4M2E3NjdhNmYwYjNjODQ5MDdjMDM0OTk3NjNiODlkNDU1`
+Snapshot ID: `MCw2MWU4ZDQ1NzYzYWYzNGZkODhiNDQ2YTE1MTYxNDU4ZGQwMWQwYzA1`

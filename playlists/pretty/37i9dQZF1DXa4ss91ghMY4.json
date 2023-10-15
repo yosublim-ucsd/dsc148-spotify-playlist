@@ -1,12 +1,12 @@
 {
   "description": "Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA",
-  "num_followers": 585752,
+  "num_followers": 585643,
   "original_name": "Pulando da Cama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGU3NjhjMDBmYzhmYmJjMTI4NWQxNzYzMThjNzkwNWZmOGM3MmZh",
+  "snapshot_id": "MCwyYjMxNGZkNGRiYTRiOTBlNGY5NjU5NjQ3MDQ1NDU1Mjk0N2E4Nzgz",
   "tracks": [
     {
       "added_at": "2023-08-11 03:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "this is what ____ feels like (Vol. 1-4)",
-        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 157636,
-      "name": "this is what heartbreak feels like",
-      "url": "https://open.spotify.com/track/4RxdAzEmkPXTiIU6ULLoXh"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
         "url": "https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 152214,
       "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
       "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 157636,
+      "name": "this is what heartbreak feels like",
+      "url": "https://open.spotify.com/track/4RxdAzEmkPXTiIU6ULLoXh"
     },
     {
       "added_at": "2023-08-11 03:00:00",

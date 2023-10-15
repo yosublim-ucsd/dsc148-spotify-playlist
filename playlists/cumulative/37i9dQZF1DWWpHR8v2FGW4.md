@@ -4,7 +4,7 @@
 
 > Always come in 1st place.
 
-108 songs - 6 hr 25 min
+109 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Chasing Stars \(feat\. James Bay\) \[VIP Mix\]](https://open.spotify.com/track/46MmaCvze8GcEcwU1fTfWe) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(VIP Mix\)](https://open.spotify.com/album/3oHuvxDC09wCLoIEowpreG) | 2:49 | 2022-08-01 | 2022-08-18 |
 | [Children](https://open.spotify.com/track/1K6gyNdEjiap8P5IBELG6t) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Children](https://open.spotify.com/album/3VHyFwqhGMqx4BlQ3fmchL) | 3:24 | 2022-04-01 |  |
 | [Climax](https://open.spotify.com/track/4kAKNNDn9SJu97NQ9vuMik) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU) | [Climax](https://open.spotify.com/album/5HuiKWU9kTp3H4hE4m4UVQ) | 4:29 | 2022-04-01 | 2023-09-08 |
+| [Climax](https://open.spotify.com/track/7q5wmC4tPHeRGr2RpxEVN3) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU) | [Climax](https://open.spotify.com/album/0mQAB2WOlyQnj7U1PbZPZe) | 4:29 | 2023-09-05 |  |
 | [Close To Hell](https://open.spotify.com/track/6tSa72Ivd9ltEV9qJsQTfw) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Goja](https://open.spotify.com/artist/2Gy4HwdmVmRPWDBQO3lw3d) | [Close To Hell](https://open.spotify.com/album/5L0lzeDFIl1qMSO4T0sZBC) | 3:18 | 2022-04-01 |  |
 | [COLLIDER](https://open.spotify.com/track/3HjAGpLe0Sf7lG9MU2NNmU) | [BASSFACE](https://open.spotify.com/artist/5VoJXa3ZCoX6Pz8K5FsI2u) | [COLLIDER](https://open.spotify.com/album/2ouCWyOzfXjqZsuHvBKurU) | 3:23 | 2022-06-28 | 2022-08-04 |
 | [Darkest Hour](https://open.spotify.com/track/3GG6X47vnwgtMxejiMjOFK) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Darkest Hour \[UKF10\]](https://open.spotify.com/album/6zlEIFhF4ymQntQOA4i70q) | 4:45 | 2022-04-01 | 2022-04-25 |
@@ -79,7 +80,7 @@
 | [MAKE A MOVE](https://open.spotify.com/track/4rV50yTt1Me3sFhExrScR1) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [DISRUPTOR LP](https://open.spotify.com/album/1UXLEXcUYHLNouwidskiMa) | 3:46 | 2022-12-09 |  |
 | [Make Up My Mind](https://open.spotify.com/track/2FXwX8wv2nmDy1U8NRiHo2) | [Snackbox](https://open.spotify.com/artist/03NvCV8Gy0VLvUcIA8T0cJ), [Husky](https://open.spotify.com/artist/74AV853eXs56Dqe8TSahzk) | [Make Up My Mind](https://open.spotify.com/album/4i55bHABEF6I4AKC47xHAw) | 2:25 | 2023-06-01 |  |
 | [Misdemeanor](https://open.spotify.com/track/1Bg8eYRESsgf64VK9GvbsO) | [ØDAL](https://open.spotify.com/artist/45vLqgwpe4xKX3dJFwII0L) | [Misdemeanor](https://open.spotify.com/album/4kizoNp9DrivpjkoQO2CO6) | 3:42 | 2022-04-01 | 2022-07-27 |
-| [Move To The Beat Like](https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX) | [401 WST](https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X) | [Move To The Beat Like](https://open.spotify.com/album/4zOJRnSALdyW2xpQAshRip) | 1:46 | 2022-04-01 |  |
+| [Move To The Beat Like](https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX) | [401 WST](https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X) | [Move To The Beat Like](https://open.spotify.com/album/4zOJRnSALdyW2xpQAshRip) | 1:46 | 2022-04-01 | 2023-10-15 |
 | [Not Enough](https://open.spotify.com/track/1dEud4LT7T7Yd7KMpo8Qz2) | [Near x Far](https://open.spotify.com/artist/3jHNFPilH4sebvSIGwdSmG) | [Not Enough](https://open.spotify.com/album/7Gy36oXepehl2yyRmhBsSb) | 3:40 | 2022-09-03 |  |
 | [Not Over Yet \(feat\. Tom Grennan\)](https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Not Over Yet \(feat\. Tom Grennan\)](https://open.spotify.com/album/2JwhadQOv6ZEnpuWkZNNFh) | 2:35 | 2022-08-04 | 2022-11-08 |
 | [Open Spaces](https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Open Spaces](https://open.spotify.com/album/7mBvMl2VpFS77P9nfY3gUt) | 3:26 | 2022-04-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,199 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,212 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,7 +173,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 163 | [Coast](https://open.spotify.com/track/2Qu6r7pe1AtiF3odoVqeSM) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Coast / Sourire](https://open.spotify.com/album/2SnmC5gl0h5jjP1TzzVp09) | 3:43 |
 | 164 | [Te Quiero](https://open.spotify.com/track/2dArQmvREm53P3X4MzJGiT) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Brujería](https://open.spotify.com/album/7lsIBGwmYtUkZStvVHrmOo) | 3:55 |
 | 165 | [En El Aire](https://open.spotify.com/track/65wSHx7bVjeqWfRz6gHSVO) | [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI) | [En El Aire](https://open.spotify.com/album/4J5cklG87bOfyeMtjxWWVo) | 2:48 |
-| 166 | [HADES](https://open.spotify.com/track/2Ntrial8l1h53OQKVuqqmn) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [HADES](https://open.spotify.com/album/2fsAnho0Jxj4Bdo6HKr4HZ) | 5:03 |
+| 166 | [HADES](https://open.spotify.com/track/5XJw85WkjmgvyjkjbdBScJ) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Hades Check](https://open.spotify.com/album/27DeXaQ74fIpfeJKJJbeAB) | 5:03 |
 | 167 | [Baza Ba Skivere](https://open.spotify.com/track/7dQ27JNR15yJITJaj8deG7) | [Bala Bala Boyz](https://open.spotify.com/artist/6VEV31FFx8Fh0cO37Twj11) | [Bana Zamba](https://open.spotify.com/album/6fsvoJxNacQJtGVjCOjzRG) | 3:26 |
 | 168 | [Autoestima \(Feat\. Lola Indigo, Alizzz\) \- Remix](https://open.spotify.com/track/7cmRd1iwDaANckyPHSOv5V) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Autoestima \(Feat\. Lola Indigo, Alizzz\) \[Remix\]](https://open.spotify.com/album/1rQveAvG3YlWrgnySx9QUu) | 3:27 |
 | 169 | [Run to You](https://open.spotify.com/track/5yX0C0jvaybCkcrkxqmXoZ) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [We Fall In](https://open.spotify.com/album/6RrqOFuUJkq9CyPZn803Yu) | 3:51 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MCxmNzAzMjcyMjMzZDAxZGJhODJjNDBjYjhhNTJkYWIyZTFkYzQ1NmQ4`
+Snapshot ID: `MCxlZDI4ZjY0YjMzMjIzODk4YjRlYmUyYmJlYWVmNjNmZDAwY2U2Mzk0`

@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 30069,
+  "num_followers": 30096,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWJlY2MyOTA3Yjk1M2U2MDc5NWRiOTYxZjc3NmU4ZDY0ZDY4M2Ri",
+  "snapshot_id": "MCwwYTE4YjVmYzE3MjQyMDc3OGQ3MjNmMzc1ZTA2NGEzMTgzZWViMzFk",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -611,18 +611,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Indonesia",
-        "url": "https://open.spotify.com/album/4Uucb977IOqbwV2aNURxll"
+        "name": "Strictly Hardrive",
+        "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
       },
       "artists": [
         {
-          "name": "Circle Children",
-          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        },
+        {
+          "name": "L.G.",
+          "url": "https://open.spotify.com/artist/1C9jCVewiz4TYKbGD2A6EA"
         }
       ],
-      "duration_ms": 362666,
-      "name": "Indonesia - Sambal Badjak Mix",
-      "url": "https://open.spotify.com/track/5hux2aFTJbGZHuN0LtGQeN"
+      "duration_ms": 350066,
+      "name": "Sindae (feat. L.G.) - Masters At Work Club Mix",
+      "url": "https://open.spotify.com/track/7HoUdaD3icSlL6A0xr5zgf"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -647,22 +651,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Hardrive",
-        "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
+        "name": "Indonesia",
+        "url": "https://open.spotify.com/album/4Uucb977IOqbwV2aNURxll"
       },
       "artists": [
         {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        },
-        {
-          "name": "L.G.",
-          "url": "https://open.spotify.com/artist/1C9jCVewiz4TYKbGD2A6EA"
+          "name": "Circle Children",
+          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
         }
       ],
-      "duration_ms": 350066,
-      "name": "Sindae (feat. L.G.) - Masters At Work Club Mix",
-      "url": "https://open.spotify.com/track/7HoUdaD3icSlL6A0xr5zgf"
+      "duration_ms": 362666,
+      "name": "Indonesia - Sambal Badjak Mix",
+      "url": "https://open.spotify.com/track/5hux2aFTJbGZHuN0LtGQeN"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
-        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
-      },
-      "artists": [
-        {
-          "name": "Androgeny",
-          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
-        }
-      ],
-      "duration_ms": 494374,
-      "name": "I Could Be This\u00a6 (The Remix) - Morel's That Mix",
-      "url": "https://open.spotify.com/track/5dAvqHRyT21IYqZxy7tx2m"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "This Way / Boy",
         "url": "https://open.spotify.com/album/2O0Of8TEl3Ja05ULJYEuW2"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 428760,
       "name": "Boy - MK Deep Dub",
       "url": "https://open.spotify.com/track/0LKLD3Ha9NmM3lPoF2yPj0"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
+        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
+      },
+      "artists": [
+        {
+          "name": "Androgeny",
+          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
+        }
+      ],
+      "duration_ms": 494374,
+      "name": "I Could Be This\u00a6 (The Remix) - Morel's That Mix",
+      "url": "https://open.spotify.com/track/5dAvqHRyT21IYqZxy7tx2m"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A"
-      },
-      "artists": [
-        {
-          "name": "Sun, Sun, Sun",
-          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
-        }
-      ],
-      "duration_ms": 440320,
-      "name": "Curious - Vocal Mix",
-      "url": "https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
         "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 364347,
       "name": "Carnival '95 - Pride Vocal Mix",
       "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A"
+      },
+      "artists": [
+        {
+          "name": "Sun, Sun, Sun",
+          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+        }
+      ],
+      "duration_ms": 440320,
+      "name": "Curious - Vocal Mix",
+      "url": "https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Dancin' EP",
+        "url": "https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS"
+      },
+      "artists": [
+        {
+          "name": "DJ Sneak",
+          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
+        }
+      ],
+      "duration_ms": 731746,
+      "name": "Dancin",
+      "url": "https://open.spotify.com/track/5U1FlG1YtpjFtM2AHp9u3d"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Just Us",
         "url": "https://open.spotify.com/album/5hdwOlTkUYKkPaaiZ7d47r"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 227173,
       "name": "Just Us - B.O.P. Radio Joint",
       "url": "https://open.spotify.com/track/1hfX4Y0u3MqizJdjnnjHdZ"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Dancin' EP",
-        "url": "https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS"
-      },
-      "artists": [
-        {
-          "name": "DJ Sneak",
-          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
-        }
-      ],
-      "duration_ms": 731746,
-      "name": "Dancin",
-      "url": "https://open.spotify.com/track/5U1FlG1YtpjFtM2AHp9u3d"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "In Da Clouds",
-        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
-      },
-      "artists": [
-        {
-          "name": "Sneak Essentials",
-          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
-        }
-      ],
-      "duration_ms": 518960,
-      "name": "In Da Clouds - Da Dub",
-      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Straight from the Bario EP",
         "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "In Da Clouds",
+        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
+      },
+      "artists": [
+        {
+          "name": "Sneak Essentials",
+          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
+        }
+      ],
+      "duration_ms": 518960,
+      "name": "In Da Clouds - Da Dub",
+      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Move Your Body (feat. LaVette) [Mixes]",
         "url": "https://open.spotify.com/album/7pwWTloEJg93j4bw8obPfH"
       },
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega Strictly Rhythm Mix",
+        "url": "https://open.spotify.com/album/5styrn4ZNjvGasDd6Y4sam"
+      },
+      "artists": [
+        {
+          "name": "Motion Lotion",
+          "url": "https://open.spotify.com/artist/6zNLfnKYj3cf2dw6S0aJxn"
+        }
+      ],
+      "duration_ms": 554971,
+      "name": "The Sound - The Studio 54 Mix",
+      "url": "https://open.spotify.com/track/3NYlKhLDWNe99VXWspYFIO"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Beat That Makes U Move",
         "url": "https://open.spotify.com/album/0NgAVAE4LTJlyI0FoMxFCw"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 459080,
       "name": "The Beat That Makes U Move - The Rhythm Hype Mix",
       "url": "https://open.spotify.com/track/6KLnL6hVI2W1dXtZzT0Xkb"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega Strictly Rhythm Mix",
-        "url": "https://open.spotify.com/album/5styrn4ZNjvGasDd6Y4sam"
-      },
-      "artists": [
-        {
-          "name": "Motion Lotion",
-          "url": "https://open.spotify.com/artist/6zNLfnKYj3cf2dw6S0aJxn"
-        }
-      ],
-      "duration_ms": 554971,
-      "name": "The Sound - The Studio 54 Mix",
-      "url": "https://open.spotify.com/track/3NYlKhLDWNe99VXWspYFIO"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

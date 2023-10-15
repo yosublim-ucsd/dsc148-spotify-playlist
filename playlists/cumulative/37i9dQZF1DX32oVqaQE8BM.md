@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-551 songs - 23 hr 28 min
+552 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Escape](https://open.spotify.com/track/3FEMzs5uAomMdS2i24VCD9) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Escape](https://open.spotify.com/album/5AoBGsllGk1254c2UqTS2E) | 2:13 | 2022-11-25 |  |
 | [Estrellas Viejas](https://open.spotify.com/track/6vGxiIvhKlcrzOWwHM71Cl) | [Antiguos Hop](https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ) | [Cielo Infinito](https://open.spotify.com/album/3xgVtYCFkw8c97AFCXqzqH) | 4:01 | 2021-11-10 | 2022-01-22 |
 | [Estuary](https://open.spotify.com/track/0uvXmStLwVQFAnhP6YD9TR) | [Post Op](https://open.spotify.com/artist/2QLZFqNC0yRXuhZi3VvOqS) | [Estuary](https://open.spotify.com/album/4RHtv2ncUKuH3TVzbLFtB8) | 3:13 | 2021-11-10 | 2022-06-10 |
+| [ethereal](https://open.spotify.com/track/4fC9s3NtmRHeK1B3xJC45M) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [ethereal](https://open.spotify.com/album/0UZKU872aVTdCf71eDHLkH) | 2:26 | 2023-10-15 |  |
 | [ethereal beach](https://open.spotify.com/track/2P2FipjGsqrXWGjY2H3UAh) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [ethereal beach](https://open.spotify.com/album/0pzqrXKMFCgsZg3cWsbf2F) | 2:45 | 2022-07-15 | 2023-06-20 |
 | [Etoile](https://open.spotify.com/track/3NhKzgs0nq8YNsxFcydt3m) | [Boyakaza](https://open.spotify.com/artist/7CwH4lMBbUZGz10FTJodF5) | [Etoile](https://open.spotify.com/album/3MQsERyDqkYLQztXDBofaV) | 2:29 | 2021-11-10 | 2022-07-22 |
 | [Everything Is Beautiful](https://open.spotify.com/track/2v98cEcIZAaif5qUFG4u09) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Dead Sweet](https://open.spotify.com/album/6o4DMskkLt10hGU8UBfxlK) | 4:38 | 2022-05-10 | 2022-10-29 |
@@ -536,7 +537,7 @@
 | [Views from Yamashita Park](https://open.spotify.com/track/1A6cccEj6qKdj4O0qbYSL9) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/7KoIdddL9V7auQaffvseFl) | 1:40 | 2022-10-28 | 2022-11-13 |
 | [Views from Yamashita Park](https://open.spotify.com/track/55F8bO2fpwlUyFa4AFPJQa) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 1:40 | 2022-07-29 | 2023-07-29 |
 | [Vital](https://open.spotify.com/track/2m9QssdUKhoQPWcrq9Zcck) | [Drawing With Numbers](https://open.spotify.com/artist/3BB6ImhQEX91DbeiIMyVYZ) | [Vital](https://open.spotify.com/album/2jM4lWQ1CI7F9XGqmc0zDK) | 3:28 | 2021-11-10 | 2022-07-22 |
-| [volcano view](https://open.spotify.com/track/4yNCMQjKFCYLhLolCByf9r) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [volcano view](https://open.spotify.com/album/2G2miDSSOobbl2LuiUDE1a) | 2:12 | 2022-07-15 |  |
+| [volcano view](https://open.spotify.com/track/4yNCMQjKFCYLhLolCByf9r) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [volcano view](https://open.spotify.com/album/2G2miDSSOobbl2LuiUDE1a) | 2:12 | 2022-07-15 | 2023-10-15 |
 | [Waking Waves](https://open.spotify.com/track/2CCvwL3lgXH94oajKSOblm) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Waking Waves](https://open.spotify.com/album/0GTAbLRocrPLSAu3y1MQT6) | 3:07 | 2021-11-10 | 2022-07-01 |
 | [Wandering](https://open.spotify.com/track/3nhSeef5tejPVeQgQyVAko) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Wandering](https://open.spotify.com/album/0jXhPMLWccW7lhXHHsMuK8) | 2:38 | 2022-05-13 | 2023-01-13 |
 | [War of Jenkins](https://open.spotify.com/track/5nOs1XotO7WDv10F9CjiH0) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL), [Soulful Playground](https://open.spotify.com/artist/0jA7y63ujwFWqTc2E6Sjyt), [Lofi Sax](https://open.spotify.com/artist/6CnIDZGUocwG0NIyYkoJ7w) | [Treasure](https://open.spotify.com/album/1PvcQ7jqRYmurma1jSfjfj) | 2:01 | 2023-01-13 |  |

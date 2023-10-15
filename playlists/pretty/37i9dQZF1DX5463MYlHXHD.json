@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa. Foto: BM & La Champions Liga.",
-  "num_followers": 558917,
+  "num_followers": 558973,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGNiODBmZGZhN2E0NzIyMjJiMGNlMTVkNTQ5NGU3ZDFmZTM2Mzdh",
+  "snapshot_id": "MCxlOGNlY2Q0OGUyZDEyZTBkNDg5OWI1YTAxZDMzNjJmZGY0MTZlMDk4",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "CALLEJERO FINO | Mission 10",
-        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 168994,
-      "name": "CALLEJERO FINO | Mission 10",
-      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
         "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 140109,
       "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
       "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "CALLEJERO FINO | Mission 10",
+        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 168994,
+      "name": "CALLEJERO FINO | Mission 10",
+      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey"
+      },
+      "artists": [
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+        }
+      ],
+      "duration_ms": 178464,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "EL NOBA | DJ TAO Turreo Sessions #7",
         "url": "https://open.spotify.com/album/38OxiO1MGBXfK8cicptGZH"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 129069,
       "name": "EL NOBA | DJ TAO Turreo Sessions #7",
       "url": "https://open.spotify.com/track/2y1ia2Dlf7MeZoOviVWH3n"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Linda",
-        "url": "https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey"
-      },
-      "artists": [
-        {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
-        }
-      ],
-      "duration_ms": 178464,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Chocolate",
-        "url": "https://open.spotify.com/album/57pKlw31D8Y0bAQAmcZDy8"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "Four Plack",
-          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
-        }
-      ],
-      "duration_ms": 157591,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/7IcdA7TnEtxAUvby7MukZY"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "FUMAN TWO",
         "url": "https://open.spotify.com/album/6qwax9ljt11tiPcoHo4IGy"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 114860,
       "name": "FUMAN TWO",
       "url": "https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Chocolate",
+        "url": "https://open.spotify.com/album/57pKlw31D8Y0bAQAmcZDy8"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Four Plack",
+          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
+        }
+      ],
+      "duration_ms": 157591,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/7IcdA7TnEtxAUvby7MukZY"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Orgullosa",
+      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Cual Fue? (Remix)",
         "url": "https://open.spotify.com/album/2mROokrsjxuPcDemjcqvJ6"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 204022,
       "name": "Cual Fue? - Remix",
       "url": "https://open.spotify.com/track/7ESW1EAnlel9tDIeR0BJE7"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Orgullosa",
-      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Volver\u00e1s",
+        "url": "https://open.spotify.com/album/46c1Anl2GJq3unG1KVDpWV"
+      },
+      "artists": [
+        {
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+        }
+      ],
+      "duration_ms": 176169,
+      "name": "Si Me Vez Fumando una Seca por Vos",
+      "url": "https://open.spotify.com/track/0YK6zUsPZyMIf5lhzu9dzV"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "ROMPE",
         "url": "https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 193989,
       "name": "ROMPE",
       "url": "https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Volver\u00e1s",
-        "url": "https://open.spotify.com/album/46c1Anl2GJq3unG1KVDpWV"
-      },
-      "artists": [
-        {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
-        }
-      ],
-      "duration_ms": 176169,
-      "name": "Si Me Vez Fumando una Seca por Vos",
-      "url": "https://open.spotify.com/track/0YK6zUsPZyMIf5lhzu9dzV"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -2371,18 +2371,26 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Ritmo Sustancia",
-        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
+        "name": "Sabado Picado",
+        "url": "https://open.spotify.com/album/3jE8jm4PpLL3diaIqngVyl"
       },
       "artists": [
         {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Markito Navaja",
+          "url": "https://open.spotify.com/artist/5cpU1d4hNVlVL3zNcguTS0"
+        },
+        {
+          "name": "Joaco Lopez",
+          "url": "https://open.spotify.com/artist/72TU86QoReKLAjNKWvBiOR"
         }
       ],
-      "duration_ms": 268720,
-      "name": "Pocos Quedan",
-      "url": "https://open.spotify.com/track/1u2IbfH3dDRURiowHVul46"
+      "duration_ms": 137608,
+      "name": "Sabado Picado",
+      "url": "https://open.spotify.com/track/0F0hZ3ztek0ldfjqNHFYmW"
     }
   ],
   "unique_name": "Cumbia de Barrio",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Zach Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,493 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,550 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 9 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 |
 | 10 | [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 |
 | 11 | [Loved By You](https://open.spotify.com/track/5MFUxQJGj5KrcCX6Gnphgh) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stellaria](https://open.spotify.com/album/5UHVVt48bKChmsZNguXZIu) | 2:58 |
-| 12 | [Long Goodbye](https://open.spotify.com/track/16DVu0Kqj2RpmiCuLpqRQp) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/7JXHOJzHPh43y5gxDHoV97) | 4:23 |
+| 12 | [Long Goodbye](https://open.spotify.com/track/5HFouuI6G4RNFoQFnr0cOU) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/1FY6Ov9aGkNEhXa7GbeRwM) | 4:23 |
 | 13 | [as good a reason](https://open.spotify.com/track/3wPm5GutqeJtOgsjwbtvnh) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [as good a reason](https://open.spotify.com/album/2Npo80FlYSQtGbbd2wChH9) | 2:49 |
 | 14 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 |
 | 15 | [Diamond](https://open.spotify.com/track/172M4kIkFD7k0B3Q8DH35U) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Diamond](https://open.spotify.com/album/3o28lmmD2GQZDR2hPECUD5) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [What About Hiding](https://open.spotify.com/track/4ZeyxFIpDLHBBxxPjQY4YU) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [What About Hiding](https://open.spotify.com/album/5fWyG8LpMszwr1wqMiO0wC) | 2:50 |
 | 100 | [Dance With Myself](https://open.spotify.com/track/3Ozg0uLdo0xQGb2w0kWUad) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [Dance With Myself](https://open.spotify.com/album/42L2UX912IQEKg84KcO2SY) | 2:51 |
 
-Snapshot ID: `MCxhZDA3ZDUyYWVlMzRkZmNiY2Q1M2UzNjY1NWIzZjRkOGY0NDlkNTBm`
+Snapshot ID: `MCw4ZWI4OWRmNTVkYTQwNTNmMmYwMDdjOWVmODI5NmNjYzQwZDllYzMy`

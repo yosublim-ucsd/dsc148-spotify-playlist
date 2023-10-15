@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-769 songs - 1 day 14 hr 37 min
+771 songs - 1 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Bahçemin En Zor Gülü](https://open.spotify.com/track/6rRwSZRESAriAagC5CmWMS) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 4:30 | 2023-09-26 | 2023-09-30 |
 | [BAKSANA BİLADER \- Saz Mi Caz Mi](https://open.spotify.com/track/2BepN9ElbmjHlE2loXT72r) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [BAKSANA BİLADER \(Saz Mi Caz Mi\)](https://open.spotify.com/album/5xS8dSZF7pVnJ7LfTsA4og) | 2:56 | 2023-07-15 | 2023-07-17 |
 | [BANA GAYRET](https://open.spotify.com/track/0y07MvJpFBuMEtsa0bIeJj) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 2:25 | 2022-01-22 | 2022-01-29 |
+| [BANA GÖNDER!](https://open.spotify.com/track/4L34uXdYfwRA7zTFFfajFI) | [Lvbel C5](https://open.spotify.com/artist/09ic2uid6mCDyUdFBb4N1B), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [BANA GÖNDER!](https://open.spotify.com/album/0pQazycqkeWHnSTBnW3Ich) | 2:16 | 2023-10-14 |  |
 | [Bana Sorma](https://open.spotify.com/track/2QxaqKlNW0XZIjppSQJahw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Bana Sorma](https://open.spotify.com/album/5qmPZh2dhkvsXrVRZCXwV7) | 2:45 | 2021-04-04 | 2021-04-15 |
 | [Bana Unutmayı Anlat](https://open.spotify.com/track/46zrFCqcWpg4FgPXx5ou3K) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj), [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bana Unutmayı Anlat](https://open.spotify.com/album/6OEGG28GEyi3krxa4SXFlc) | 3:12 | 2022-04-30 | 2022-05-22 |
 | [Barbar](https://open.spotify.com/track/0UN0qSJUnWWvIOgv3nYY2A) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Barbar](https://open.spotify.com/album/6fBLCCARvyL2WNTR1QFJQB) | 3:00 | 2021-04-08 | 2021-10-23 |
@@ -237,7 +238,7 @@
 | [El Patron](https://open.spotify.com/track/5h7jMTFPuqd5Equ7jUSFDT) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [EL PATRON](https://open.spotify.com/album/6aKRuXIgsdwIVonTP7PguK) | 2:33 | 2021-04-11 | 2021-04-18 |
 | [Elimde Fotoğrafın](https://open.spotify.com/track/4VC8fmwVLEqppUhyTx7pJa) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Sevgimin Bedeli](https://open.spotify.com/album/5CL86tQ9NiYSd6Bkzrp4Fv) | 6:55 | 2022-03-08 | 2022-03-16 |
 | [Ellerin Hani?](https://open.spotify.com/track/6Mv4D3yBHN5lN7jowqJmm9) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B), [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e) | [Ellerin Hani?](https://open.spotify.com/album/0PK542P19KxsrC0erdCNHy) | 3:05 | 2023-01-15 | 2023-01-22 |
-| [ELLERİM BOŞ](https://open.spotify.com/track/0Y4mwQ4z0Voplgh7o2OZYm) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ELLERİM BOŞ](https://open.spotify.com/album/04u0fa9U9cdkNdNCoYyqoj) | 2:04 | 2023-10-02 |  |
+| [ELLERİM BOŞ](https://open.spotify.com/track/0Y4mwQ4z0Voplgh7o2OZYm) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ELLERİM BOŞ](https://open.spotify.com/album/04u0fa9U9cdkNdNCoYyqoj) | 2:04 | 2023-10-02 | 2023-10-15 |
 | [ELMAS](https://open.spotify.com/track/37yAd2kwEI9axbB6UznrOQ) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [ELMAS](https://open.spotify.com/album/3I9p3UhZEHa6jmZyHhveco) | 3:04 | 2021-05-09 | 2021-06-12 |
 | [ELON MUSK](https://open.spotify.com/track/6w9w2tEw3EiZmy8f7BRUzL) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [ELON MUSK](https://open.spotify.com/album/4hOdvd5JCpWSZiqWB7WFOD) | 2:59 | 2022-02-12 | 2022-02-14 |
 | [End Of Time](https://open.spotify.com/track/4ZfVkX9C4WCIOkS9oyGmbN) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Kelvyn Colt](https://open.spotify.com/artist/3VV2TXkXYDYSUvtRRER3Wo) | [End Of Time](https://open.spotify.com/album/5DXmqr0nXw2Gle8A6GYC8c) | 2:55 | 2021-08-15 | 2021-08-16 |
@@ -545,7 +546,7 @@
 | [Pablo](https://open.spotify.com/track/4HWiQoV1HUI9o6FM1JbACh) | [Alper Eğri](https://open.spotify.com/artist/6Vm1tmhfZEa9INOt0sr4WX) | [Pablo](https://open.spotify.com/album/2UyNjwz3DvM2GhxsCdZcbM) | 3:42 | 2021-05-09 | 2021-05-13 |
 | [Padişah](https://open.spotify.com/track/7859Rvo6wXeImidBRL2dUZ) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG) | [Bu Devirde](https://open.spotify.com/album/0cPDRCMFqgs0CFVaUyxCGt) | 3:52 | 2023-05-14 | 2023-05-31 |
 | [Padişahım](https://open.spotify.com/track/3X7Iy2X4NRbb8gbDYb2xVq) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Padişahım](https://open.spotify.com/album/1ZWb1817n5EoBpgjTkCi4S) | 2:33 | 2023-05-11 | 2023-06-03 |
-| [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 | 2023-09-23 |  |
+| [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 | 2023-09-23 | 2023-10-15 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-31 | 2023-09-24 |
 | [Papa Rose](https://open.spotify.com/track/38CwybVk0CqbTovp3aWtEZ) | [Clower](https://open.spotify.com/artist/0AnmijrLwTOeEp0DqafMr6) | [Papa Rose](https://open.spotify.com/album/1lHssSEP0HCgDZ4lYED9Wg) | 2:28 | 2022-01-30 | 2022-03-05 |
 | [PAPARAZZI](https://open.spotify.com/track/6gxLEbRJlorva6uVRW4gof) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [PAPARAZZI](https://open.spotify.com/album/24SMyN5zmpqjgtlnfbErTP) | 2:44 | 2021-11-21 | 2022-12-12 |
@@ -589,6 +590,7 @@
 | [RARI](https://open.spotify.com/track/0sHrwnldYfygnxdvu0OsvH) | [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [RARI](https://open.spotify.com/album/3vMhlXmxgGIOrbJ96F4GnD) | 2:44 | 2021-06-16 | 2021-06-27 |
 | [RARRii](https://open.spotify.com/track/0RPEhK1UCgtLb9Nc97lA4R) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [RARRii](https://open.spotify.com/album/280clOshxkGrR1Litdyu7u) | 2:47 | 2022-07-30 | 2022-10-04 |
 | [Rastgele](https://open.spotify.com/track/0RAhUWTiBlDeSSRMmL35Aq) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Rastgele](https://open.spotify.com/album/45Ti9P9oHIllZ96q94v8s3) | 2:17 | 2022-06-18 | 2022-09-23 |
+| [RESTORAN](https://open.spotify.com/track/12XZhrRvfr7FiGN2Tv6mdU) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:34 | 2023-10-14 |  |
 | [Riv Riv Riv](https://open.spotify.com/track/3HEv9gY3n9Fj2H5E2IoOKF) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Riv Riv Riv](https://open.spotify.com/album/1JCR01kf4AWSyxUXfDU2n7) | 2:01 | 2022-01-04 | 2022-06-08 |
 | [Riv Riv Riv](https://open.spotify.com/track/6sKueU5CYJZ0xXqLyCpQB4) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Riv Riv Riv](https://open.spotify.com/album/1e4961lFYN6lPIcXtyFQT2) | 2:01 | 2021-08-29 | 2022-01-05 |
 | [ROMANTİK](https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:17 | 2023-06-17 | 2023-08-30 |

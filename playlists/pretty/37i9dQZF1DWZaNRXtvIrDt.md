@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Logic1000
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,976 likes - 85 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,989 likes - 85 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 2 | [Dreaming Of You](https://open.spotify.com/track/5MMCASojxp6pTNlXzb6mmG) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Dreaming Of You](https://open.spotify.com/album/2hrzs0FBo5l2KH6WSoOpWM) | 4:19 |
 | 3 | [Bop](https://open.spotify.com/track/3YHweGUJ3Qds95EScnZewK) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Bop](https://open.spotify.com/album/4rJKZBpvy22QPs3S5h7cUj) | 5:08 |
 | 4 | [ZiGGY \(DJ\-Kicks\)](https://open.spotify.com/track/1ustsXRV9SzZMuFnozNE6e) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [ZiGGY \(DJ\-Kicks\)](https://open.spotify.com/album/3sWZKvKbMl5eJcTHzD045K) | 5:41 |
-| 5 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:02 |
+| 5 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 |
 | 6 | [Dive](https://open.spotify.com/track/7oZHQbGCwosUHL1vDE5qdI) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y) | 4:18 |
 | 7 | [Body Beat](https://open.spotify.com/track/1Kqyo7VZavF0XxNxwIKtfu) | [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [Body Beat](https://open.spotify.com/album/7JGTe36pDv9qlUAKrII5O6) | 3:01 |
 | 8 | [Blow Out](https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Blow Out](https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1) | 3:36 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 25 | [Love Island](https://open.spotify.com/track/7JOtmPOhjllLFmexlAZIZK) | [3NDLES5](https://open.spotify.com/artist/1UHjR5NxoDxWX9feUfS6jL), [Crazymike](https://open.spotify.com/artist/0pqnRTJ9eQrOo7cpJzdAcF), [Lust For Youth](https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u), [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig) | [Love Island](https://open.spotify.com/album/0j1EiCRrXBSxjJftf3f3zC) | 5:22 |
 | 26 | [Chez Moi \(Waiting For You\) \- Edit](https://open.spotify.com/track/1VwmC2Sw9b9EztWkRvC07M) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Chez Moi \(Waiting For You\)](https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84) | 4:27 |
 | 27 | [Confide](https://open.spotify.com/track/5BgDMTu8Mv7QGvekUoJTBH) | [Mirasia](https://open.spotify.com/artist/38BpiXYo0GESioPqkG5xyl), [Kuya Neil](https://open.spotify.com/artist/2VOung9TCgKNkNNnRklTAY) | [Confide](https://open.spotify.com/album/2fqyvFf3br0uH0VpPcpdir) | 4:12 |
-| 28 | [Foxes](https://open.spotify.com/track/0PwglH43kbPyHIrrhNtN3R) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Foxes](https://open.spotify.com/album/06KpNKpi3MlQwkwSgqdWGD) | 4:15 |
+| 28 | [Foxes](https://open.spotify.com/track/5rGtpIBaTXQKcFVDlrAerI) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y) | 4:15 |
 | 29 | [Fire Of Mercy \- yunè pinku remix](https://open.spotify.com/track/6ITWROA9slWos6GjdlryE5) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Fire Of Mercy \(yunè pinku remix\)](https://open.spotify.com/album/5ZmBR9NMbuBycE92C5b0Wy) | 4:14 |
 | 30 | [on my own](https://open.spotify.com/track/7Lm6wV3xhU1ZRhXjejARRG) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [focus](https://open.spotify.com/album/5ZMmKV7bXG909IMbp2ezWJ) | 3:30 |
 | 31 | [Wildfire](https://open.spotify.com/track/4jGVld5PpMBfIUqc5eOWPw) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Wildfire](https://open.spotify.com/album/0fboWMJea94CfwHwDLMrh8) | 3:20 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 84 | [Long Ago](https://open.spotify.com/track/3Sv8Txb3DxbalXwe5TlLAq) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Set The Roof](https://open.spotify.com/album/5QXXTODvdjHMUUTrMvS8lD) | 4:54 |
 | 85 | [You Need Somebody](https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8) | [Puppy Mountain](https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH) | [You Need Somebody](https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi) | 3:20 |
 
-Snapshot ID: `MCwxNWE0ZGQxM2Q1ZWYyYzc5YWU2MGYyZGEyMGMzODUyMTQ3NmQyYTFk`
+Snapshot ID: `MCw5ZDlhNzI4MmI2YzEwYzVlNDlmYTQ2NTk5MzIxN2JmYmU3ZDBmMTE2`

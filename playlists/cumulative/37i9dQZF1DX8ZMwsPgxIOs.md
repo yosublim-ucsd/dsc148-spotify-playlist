@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Rebūke
 
-230 songs - 18 hr 41 min
+231 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Eternity Of Echoes](https://open.spotify.com/track/0NXejdY0rXJfMkocRP1osb) | [Shiken Hanzo](https://open.spotify.com/artist/3lttA5nBNjUeWtLqvOnncr) | [Eternity Of Echoes](https://open.spotify.com/album/4b41tw2qshMUH0F5H6m485) | 5:18 | 2022-08-05 |  |
 | [Eternity Of Echoes](https://open.spotify.com/track/2mOjpdh47Q42fQYAYMWGTN) | [Shiken Hanzo](https://open.spotify.com/artist/3lttA5nBNjUeWtLqvOnncr) | [Eternity Of Echoes](https://open.spotify.com/album/4a66UodRVtLVGEiP4Vfa4U) | 5:18 | 2022-08-05 | 2022-09-15 |
 | [Eva's Stoned](https://open.spotify.com/track/4gPzO5yFrDxHe6obIAIOq3) | [Jay Carder](https://open.spotify.com/artist/2VVF5cjuSx97r3ND28ndlK) | [Eva's Stoned](https://open.spotify.com/album/3nrzfqIiLa33hA8B71Fkw0) | 6:25 | 2022-10-13 | 2023-08-11 |
-| [Everything](https://open.spotify.com/track/5qK203gDYDkCqRf80DE3f6) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Everything](https://open.spotify.com/album/0L1fZgjQTboP65QTburanO) | 5:32 | 2023-08-24 |  |
+| [Everything](https://open.spotify.com/track/06AbpLxu17SbYQ6R3ZFAoL) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y) | 5:32 | 2023-10-13 |  |
+| [Everything](https://open.spotify.com/track/5qK203gDYDkCqRf80DE3f6) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Everything](https://open.spotify.com/album/0L1fZgjQTboP65QTburanO) | 5:32 | 2023-08-24 | 2023-10-15 |
 | [Exhale](https://open.spotify.com/track/4woCaPYcENLOfoK6o82MgS) | [Peverelist](https://open.spotify.com/artist/0UrA452V5vJpCW5ezx0YMP), [Kowton](https://open.spotify.com/artist/5mKLTrvI8gTtNjVewBL7Bj) | [Exhale](https://open.spotify.com/album/2OtmBruepl9cL0kIon06Co) | 5:38 | 2022-04-15 | 2022-07-30 |
 | [Expression](https://open.spotify.com/track/2dBU0wkNaVUoy9kJnxDhSi) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Expression](https://open.spotify.com/album/2U83gvD8EyynX78yqdQOaE) | 4:51 | 2023-03-14 |  |
 | [Fade Out \(with MKLA\)](https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Fade Out \(with MKLA\)](https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE) | 3:50 | 2023-08-24 |  |

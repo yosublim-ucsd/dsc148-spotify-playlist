@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Earl Sweatshirt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,618,707 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617,510 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Life & Times](https://open.spotify.com/track/72yDZnVtbbtfWLYWvonF9f) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Round Trip](https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9) | 3:14 |
 | 50 | [Turkey Wings \- Bonus Track](https://open.spotify.com/track/3MjtBnv45fIRRo9Qp9ul3C) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Elephant Man's Bones The ALC Edition](https://open.spotify.com/album/1G0ESeSyFudOH7k6xzfreh) | 2:31 |
 
-Snapshot ID: `MCxmOTIyMDJmNWQ3Nzc2Yjc5NzYxMzNhZDgwMzdiMDRjODdlNWI5NjU1`
+Snapshot ID: `MCxhZDI1ZTliYzhiYmVjNmM4NjgzZGE5ZjIxNmMyNzU1ZWU2MGRkY2I2`

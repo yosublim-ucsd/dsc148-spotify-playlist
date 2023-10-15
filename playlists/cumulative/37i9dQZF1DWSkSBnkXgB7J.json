@@ -1524,10 +1524,28 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 272514,
       "name": "\u0627\u0644\u0633\u0631",
       "url": "https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0633\u0631",
+        "url": "https://open.spotify.com/album/7wRiNxQ79LbyMLlnGLi9g8"
+      },
+      "artists": [
+        {
+          "name": "Retrib",
+          "url": "https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272509,
+      "name": "\u0627\u0644\u0633\u0631",
+      "url": "https://open.spotify.com/track/3giMs4f7ApoNwHa5C2RSDQ"
     },
     {
       "album": {

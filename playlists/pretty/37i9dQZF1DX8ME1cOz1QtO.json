@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 77952,
+  "num_followers": 78033,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTY2NDk0MjVjMmExMDljOGUxOTU0ZmIxNWQ2YjE5ZGEyYjk4MDY1",
+  "snapshot_id": "MCwxYjQ5NDQ5M2Y4MDc1M2I4NzUzZjgyODBmN2UzZjU5ODU2OTVhZjk4",
   "tracks": [
     {
       "added_at": "2023-08-18 14:02:54",
@@ -111,26 +111,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Natural States",
-        "url": "https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K"
-      },
-      "artists": [
-        {
-          "name": "Paul Speer",
-          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
-        },
-        {
-          "name": "David Lanz",
-          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Behind The Waterfall",
-      "url": "https://open.spotify.com/track/0RjITt1ROaVZvjJlfp9mTD"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Down to the Moon",
         "url": "https://open.spotify.com/album/2DM9WPZiokvkAm4Y7xqXjF"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 147240,
       "name": "Down to the Moon",
       "url": "https://open.spotify.com/track/6dsBkD1XP9EswRcUN0pOqN"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Natural States",
+        "url": "https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K"
+      },
+      "artists": [
+        {
+          "name": "Paul Speer",
+          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
+        },
+        {
+          "name": "David Lanz",
+          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Behind The Waterfall",
+      "url": "https://open.spotify.com/track/0RjITt1ROaVZvjJlfp9mTD"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -247,22 +247,26 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Natural States",
-        "url": "https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K"
+        "name": "White Winds (Seeker's Journey)",
+        "url": "https://open.spotify.com/album/3wrWgRYqBkpE5gE6Csl5FN"
       },
       "artists": [
         {
-          "name": "Paul Speer",
-          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
+          "name": "Andreas Vollenweider",
+          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
         },
         {
-          "name": "David Lanz",
-          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
+          "name": "Walter Keiser",
+          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
+        },
+        {
+          "name": "Pedro Haldemann",
+          "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
         }
       ],
-      "duration_ms": 258000,
-      "name": "Rain Forest",
-      "url": "https://open.spotify.com/track/6FZfxmeVhsdqkD8WJfP83n"
+      "duration_ms": 217933,
+      "name": "Flight Feet and Root Hands",
+      "url": "https://open.spotify.com/track/64iGkQy5fe5gKVTpIvPtOX"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -287,26 +291,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "White Winds (Seeker's Journey)",
-        "url": "https://open.spotify.com/album/3wrWgRYqBkpE5gE6Csl5FN"
+        "name": "Natural States",
+        "url": "https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K"
       },
       "artists": [
         {
-          "name": "Andreas Vollenweider",
-          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
+          "name": "Paul Speer",
+          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
         },
         {
-          "name": "Walter Keiser",
-          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
-        },
-        {
-          "name": "Pedro Haldemann",
-          "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
+          "name": "David Lanz",
+          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
         }
       ],
-      "duration_ms": 217933,
-      "name": "Flight Feet and Root Hands",
-      "url": "https://open.spotify.com/track/64iGkQy5fe5gKVTpIvPtOX"
+      "duration_ms": 258000,
+      "name": "Rain Forest",
+      "url": "https://open.spotify.com/track/6FZfxmeVhsdqkD8WJfP83n"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -399,22 +399,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Spectrum Suite (Bonus Version) [Remastered]",
-        "url": "https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc"
+        "name": "The Essential Yanni",
+        "url": "https://open.spotify.com/album/79CkQrncB01Wc41FhBSALx"
       },
       "artists": [
         {
-          "name": "Steven Halpern",
-          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
-        },
-        {
-          "name": "Iasos",
-          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
         }
       ],
-      "duration_ms": 171106,
-      "name": "First Chakra Keynote C (Red) - (Bonus Version) (Remastered)",
-      "url": "https://open.spotify.com/track/6CoQyyWTIjzaVoBnZMH8kw"
+      "duration_ms": 225786,
+      "name": "The Mermaid",
+      "url": "https://open.spotify.com/track/2THAycwJ47OsWLMhC04yEr"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -459,18 +455,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "The Essential Yanni",
-        "url": "https://open.spotify.com/album/79CkQrncB01Wc41FhBSALx"
+        "name": "Spectrum Suite (Bonus Version) [Remastered]",
+        "url": "https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc"
       },
       "artists": [
         {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        },
+        {
+          "name": "Iasos",
+          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
         }
       ],
-      "duration_ms": 225786,
-      "name": "The Mermaid",
-      "url": "https://open.spotify.com/track/2THAycwJ47OsWLMhC04yEr"
+      "duration_ms": 171106,
+      "name": "First Chakra Keynote C (Red) - (Bonus Version) (Remastered)",
+      "url": "https://open.spotify.com/track/6CoQyyWTIjzaVoBnZMH8kw"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "The Celts",
+        "url": "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/60hzUuOVktVPzrfBlhSk5A"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Ambient 3: Day Of Radiance",
         "url": "https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 1127173,
       "name": "Meditation No. 1",
       "url": "https://open.spotify.com/track/3Z9PWaE8d55XcOxEHwx6U8"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "The Celts",
-        "url": "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv"
-      },
-      "artists": [
-        {
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Aldebaran",
-      "url": "https://open.spotify.com/track/60hzUuOVktVPzrfBlhSk5A"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Spectrum Suite (Bonus Version) [Remastered]",
-        "url": "https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R"
-      },
-      "artists": [
-        {
-          "name": "Steven Halpern",
-          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "Crystal Cathedral - (Bonus Version) (Remastered)",
-      "url": "https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Planet Voyage",
         "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Spectrum Suite (Bonus Version) [Remastered]",
+        "url": "https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R"
+      },
+      "artists": [
+        {
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "Crystal Cathedral - (Bonus Version) (Remastered)",
+      "url": "https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Keys To Imagination",
         "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "A Rainbow Path",
-        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
-      },
-      "artists": [
-        {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
-        }
-      ],
-      "duration_ms": 377200,
-      "name": "See My Wings Shining: Brow / 3rd Eye Chakra",
-      "url": "https://open.spotify.com/track/55QGndKaKmUFSLGejUj6k1"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Oasis [Remastered]",
         "url": "https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 489093,
       "name": "Cosmic Energy",
       "url": "https://open.spotify.com/track/4x27wFCcAxSDHQBvRp5o5p"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "A Rainbow Path",
+        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
+      },
+      "artists": [
+        {
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+        }
+      ],
+      "duration_ms": 377200,
+      "name": "See My Wings Shining: Brow / 3rd Eye Chakra",
+      "url": "https://open.spotify.com/track/55QGndKaKmUFSLGejUj6k1"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Mooncircles",
-        "url": "https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk"
-      },
-      "artists": [
-        {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
-        }
-      ],
-      "duration_ms": 90253,
-      "name": "Inner Mood I",
-      "url": "https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Best Of Tim Weisberg: Smile!",
         "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 209973,
       "name": "Dion Blue",
       "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Valley In The Clouds",
+        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
+      },
+      "artists": [
+        {
+          "name": "David Arkenstone",
+          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Valley In The Clouds",
+      "url": "https://open.spotify.com/track/7HWWIxRF76VDkYE6gltmCs"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Valley In The Clouds",
-        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
+        "name": "Mooncircles",
+        "url": "https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk"
       },
       "artists": [
         {
-          "name": "David Arkenstone",
-          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
         }
       ],
-      "duration_ms": 215666,
-      "name": "Valley In The Clouds",
-      "url": "https://open.spotify.com/track/7HWWIxRF76VDkYE6gltmCs"
+      "duration_ms": 90253,
+      "name": "Inner Mood I",
+      "url": "https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -927,6 +927,22 @@
       "duration_ms": 114893,
       "name": "Stained-Glass Morning",
       "url": "https://open.spotify.com/track/2FLfPTjk346lxtEkXoJSFK"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Valley In The Clouds",
+        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
+      },
+      "artists": [
+        {
+          "name": "David Arkenstone",
+          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Stepping Stars",
+      "url": "https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -967,22 +983,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Hergest Ridge (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1VvB8ygrV7cREvzpkqQWFG"
-      },
-      "artists": [
-        {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
-        }
-      ],
-      "duration_ms": 1161586,
-      "name": "Hergest Ridge Part One - 2010 Mix / Previously Unreleased",
-      "url": "https://open.spotify.com/track/5v0CptwAhZ5HoNplFTk4CB"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "New Age Of Earth",
         "url": "https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 762666,
       "name": "Ocean Of Tenderness",
       "url": "https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Hergest Ridge (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1VvB8ygrV7cREvzpkqQWFG"
+      },
+      "artists": [
+        {
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+        }
+      ],
+      "duration_ms": 1161586,
+      "name": "Hergest Ridge Part One - 2010 Mix / Previously Unreleased",
+      "url": "https://open.spotify.com/track/5v0CptwAhZ5HoNplFTk4CB"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Valley In The Clouds",
-        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
-      },
-      "artists": [
-        {
-          "name": "David Arkenstone",
-          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Stepping Stars",
-      "url": "https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Heaven on Earth",
         "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Seven Waves",
-        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 347626,
-      "name": "The Fifth Wave - Water Lullaby",
-      "url": "https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Collected Ambient & Textural Works 1977-1987",
         "url": "https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 275560,
       "name": "Ancient Leaves",
       "url": "https://open.spotify.com/track/1XWKSNngAvp3hs6w3cFWAs"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Seven Waves",
+        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 347626,
+      "name": "The Fifth Wave - Water Lullaby",
+      "url": "https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Glide/Star Gazer",
-        "url": "https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K"
-      },
-      "artists": [
-        {
-          "name": "Peter Davison",
-          "url": "https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy"
-        }
-      ],
-      "duration_ms": 505733,
-      "name": "Glide III",
-      "url": "https://open.spotify.com/track/6bmHCvu6qgO6roOubB3Ga5"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Hear and Be Yonder",
         "url": "https://open.spotify.com/album/1ZWMulajDJxasDcb3iNnS0"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 465986,
       "name": "Carmel Valley Sunset",
       "url": "https://open.spotify.com/track/3ByxuWhBseyN2kkhImsJjr"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Glide/Star Gazer",
+        "url": "https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K"
+      },
+      "artists": [
+        {
+          "name": "Peter Davison",
+          "url": "https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy"
+        }
+      ],
+      "duration_ms": 505733,
+      "name": "Glide III",
+      "url": "https://open.spotify.com/track/6bmHCvu6qgO6roOubB3Ga5"
     },
     {
       "added_at": "2023-08-18 14:02:54",

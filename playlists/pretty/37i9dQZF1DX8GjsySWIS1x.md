@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 
 > The latest in gamer music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,538 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,637 likes - 55 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 54 | [Pomegranate Lips](https://open.spotify.com/track/1mKuKTxekhyhbW1axz6lb2) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C) | [Pomegranate Lips](https://open.spotify.com/album/1CuRyhhGUWNEZCUHlQRyUi) | 2:39 |
 | 55 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 |
 
-Snapshot ID: `MCwxZjc3ODc4OTQ4NWQwOGQ5YmY0MjY4YThiNDJiYzZiMmIzMGY0Nzg1`
+Snapshot ID: `MCw3MjNlYzlhMjFjMWE1M2NhY2FkZGRiM2QyMGQ5YWJmZTgyMDc1YTIw`

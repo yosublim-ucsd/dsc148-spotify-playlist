@@ -5288,10 +5288,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 255882,
       "name": "Foxes",
       "url": "https://open.spotify.com/track/0PwglH43kbPyHIrrhNtN3R"
+    },
+    {
+      "album": {
+        "name": "Rascal",
+        "url": "https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255882,
+      "name": "Foxes",
+      "url": "https://open.spotify.com/track/5rGtpIBaTXQKcFVDlrAerI"
     },
     {
       "album": {
@@ -13607,7 +13625,7 @@
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 182013,
+      "duration_ms": 181545,
       "name": "ten",
       "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
     },

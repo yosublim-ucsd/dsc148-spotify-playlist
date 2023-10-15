@@ -4,7 +4,7 @@
 
 > Disclosure's got the juice
 
-137 songs - 8 hr 47 min
+138 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [die young \- 33 Below Remix](https://open.spotify.com/track/7v7eF1koFUNnRFMvky3RDM) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [die young \(33 Below Remix\)](https://open.spotify.com/album/4CuHqQsLcaHoiveB3Evl6v) | 3:43 | 2023-08-17 |  |
 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:23 | 2023-06-08 |  |
 | [DREAMER](https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [TALK2MUCH](https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3) | 2:13 | 2023-06-08 |  |
-| [Everything](https://open.spotify.com/track/5qK203gDYDkCqRf80DE3f6) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Everything](https://open.spotify.com/album/0L1fZgjQTboP65QTburanO) | 5:32 | 2023-08-24 |  |
+| [Everything](https://open.spotify.com/track/06AbpLxu17SbYQ6R3ZFAoL) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y) | 5:32 | 2023-10-12 |  |
+| [Everything](https://open.spotify.com/track/5qK203gDYDkCqRf80DE3f6) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Everything](https://open.spotify.com/album/0L1fZgjQTboP65QTburanO) | 5:32 | 2023-08-24 | 2023-10-15 |
 | [Everything I Do](https://open.spotify.com/track/6xIavZrzwKrMN8glvjCj1O) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Everything I Do](https://open.spotify.com/album/7DWDzLGhYO99yvQzk5kSJc) | 3:14 | 2023-08-10 |  |
 | [Fading](https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I) | 4:27 | 2023-06-08 |  |
 | [Fallen Angel](https://open.spotify.com/track/0PEM0eVuUJxhUA03Cjl0zC) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Fallen Angel](https://open.spotify.com/album/2Wl0oj1KwfXL9WFJ5VdhPw) | 3:36 | 2023-08-03 |  |

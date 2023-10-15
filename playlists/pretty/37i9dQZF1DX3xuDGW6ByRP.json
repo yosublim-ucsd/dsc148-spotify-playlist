@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: Lou Garcia",
-  "num_followers": 41595,
+  "num_followers": 41600,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGMyMTE5YWUzNTAyNTViMWEzYzRjNTI4ZDhiNjA5YTFiMGRmYWMz",
+  "snapshot_id": "MCxjYWVhY2E0N2JkZDU3YzUxNDJiYTc3NDYzOTc0N2RlZDM1MzM1ZDFj",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -839,26 +839,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Fim do Mundo",
-        "url": "https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw"
+        "name": "INTENSAMENTE",
+        "url": "https://open.spotify.com/album/1S03QGdOVgnsPM2JmoJkte"
       },
       "artists": [
         {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
         },
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Ruxell",
-          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 175063,
-      "name": "Teu Pesco\u00e7o",
-      "url": "https://open.spotify.com/track/4NZJGR8aUHBcUn9dOKGVJC"
+      "duration_ms": 178531,
+      "name": "INTENSAMENTE",
+      "url": "https://open.spotify.com/track/5XNHFSi9krUa5Ikw1fJK4K"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -895,22 +891,26 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "INTENSAMENTE",
-        "url": "https://open.spotify.com/album/1S03QGdOVgnsPM2JmoJkte"
+        "name": "Fim do Mundo",
+        "url": "https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw"
       },
       "artists": [
         {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
         },
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Ruxell",
+          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
         }
       ],
-      "duration_ms": 178531,
-      "name": "INTENSAMENTE",
-      "url": "https://open.spotify.com/track/5XNHFSi9krUa5Ikw1fJK4K"
+      "duration_ms": 175063,
+      "name": "Teu Pesco\u00e7o",
+      "url": "https://open.spotify.com/track/4NZJGR8aUHBcUn9dOKGVJC"
     },
     {
       "added_at": "2023-10-13 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Kylie Morgan, Chris Stapleton, Riley Green and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,176 likes - 79 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,313 likes - 79 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 9 | [You Don't Have to Love Me](https://open.spotify.com/track/1YXUqWnicTaLwM2n6Yr68w) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [You Don't Have to Love Me](https://open.spotify.com/album/2x3uzM4qCME1ZWHEREW1zr) | 3:32 |
 | 10 | [Whiskey Go 'Round \(feat\. RaeLynn\)](https://open.spotify.com/track/1JoAOcInQod6aGNHhwSom6) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Whiskey Go 'Round \(feat\. RaeLynn\)](https://open.spotify.com/album/3OKNJnlfd20wxlKExEca34) | 3:11 |
 | 11 | [Cowboy Kid](https://open.spotify.com/track/6HQDLJ0hcek1X70QOP6e3x) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Cowboy Kid](https://open.spotify.com/album/6aNpBKhFEU5CBJ8vY1TLk0) | 3:31 |
-| 12 | [texas hold 'em.](https://open.spotify.com/track/4LgLudzcFPzho9RQh5iYve) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [Second Wife](https://open.spotify.com/album/6ozGfS9Cyd684kJhm3PRLI) | 2:43 |
+| 12 | [texas hold 'em.](https://open.spotify.com/track/4LgLudzcFPzho9RQh5iYve) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [second wife](https://open.spotify.com/album/6ozGfS9Cyd684kJhm3PRLI) | 2:43 |
 | 13 | [WHAT DOESN'T KILL YA](https://open.spotify.com/track/09Lz0whqJWRlOuCxkbP0uh) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [WHAT DOESN'T KILL YA](https://open.spotify.com/album/0NME117HERTtVgmKpEnPQh) | 3:07 |
 | 14 | [Found With The Lost](https://open.spotify.com/track/60hGIshB9ZwGHebqjGChro) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Found With The Lost](https://open.spotify.com/album/58KFbd1JQmEMOFVYSkFs3R) | 3:16 |
 | 15 | [middle of nowhere 8.1.22](https://open.spotify.com/track/7tWsXoXxcYiNEgAN6ukFbb) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [middle of nowhere 8.1.22](https://open.spotify.com/album/4L9sMazZd3CzEnpy8rJmQp) | 2:50 |
-| 16 | [Karma On The Rocks](https://open.spotify.com/track/0595jMHSKb5tUDqm2UDT14) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Karma On The Rocks](https://open.spotify.com/album/1aMBGVdB90h5TjJetswHic) | 3:03 |
+| 16 | [Karma On The Rocks](https://open.spotify.com/track/0595jMHSKb5tUDqm2UDT14) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Karma On The Rocks](https://open.spotify.com/album/1aMBGVdB90h5TjJetswHic) | 3:04 |
 | 17 | [First Time Feels \(Green Eyes\)](https://open.spotify.com/track/43iTKyizkwuPqFv4WjE2g1) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [First Time Feels \(Green Eyes\)](https://open.spotify.com/album/4LBprqd0KW5GUdWGbR7A3x) | 3:16 |
 | 18 | [You Don’t Want That Smoke\. \- The Acoustic Version.](https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [You Don’t Want That Smoke\. \(The Acoustic Version.\)](https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D) | 3:20 |
 | 19 | [Slow Dancing In A Burning Room \(Studio Version\)](https://open.spotify.com/track/5d2bhtiyylGcaPf70SWA3e) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [ERNEST & The Fellas Unplugged](https://open.spotify.com/album/25Kg2AqcqSY4FtrUtXc1s7) | 4:14 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 25 | [The Real You](https://open.spotify.com/track/3WnQuvSFCXP9J8yEg6JFkB) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [The Real You](https://open.spotify.com/album/6YhPJrp3u0Q9fWOCFi52SL) | 3:39 |
 | 26 | [Missouri On My Mind](https://open.spotify.com/track/4pMAGxsFM14xb09oNVxLiB) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Missouri On My Mind](https://open.spotify.com/album/7A3UNLBL4Fk4iJEfVhTt0w) | 2:46 |
 | 27 | [Wanderin' arounders](https://open.spotify.com/track/6LjH5UOVlRV79JBH68Oqtj) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Dear Me](https://open.spotify.com/album/06tODvTM3ow58i4pVy71M7) | 3:33 |
-| 28 | [Dirt Bike](https://open.spotify.com/track/60rT7xqMegRkR2Sq4JIfHw) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [Dirt Bike](https://open.spotify.com/album/1nSFYhxHnBvrwrUHwANAXW) | 3:32 |
+| 28 | [Dirt Bike \(feat\. Andrea Kukuly Uriarte\)](https://open.spotify.com/track/60rT7xqMegRkR2Sq4JIfHw) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj), [Andrea Kukuly Uriarte](https://open.spotify.com/artist/5RBnd1QU744YvLMRf458SS) | [Dirt Bike \(feat\. Andrea Kukuly Uriarte\)](https://open.spotify.com/album/1nSFYhxHnBvrwrUHwANAXW) | 3:32 |
 | 29 | [Half a Broken Heart](https://open.spotify.com/track/2BLYKhh857YdPCeTeQUJBc) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo) | [Half a Broken Heart](https://open.spotify.com/album/2FOHohzexXiktXG1KOW0T0) | 3:11 |
 | 30 | [Where I Wanna Be](https://open.spotify.com/track/6mUUQr215s23jThLTzuLm7) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Where I Wanna Be](https://open.spotify.com/album/0nsgPm8ByoomqRM1uxTC6q) | 2:50 |
 | 31 | [Just a House](https://open.spotify.com/track/3Vsqu3V4sVt2tuVR0hDmLI) | [Ashley Ryan](https://open.spotify.com/artist/7ocagKTuL7owEFIvssbzVq) | [Just a House](https://open.spotify.com/album/0hJsuOtsE8AihPZh55s3du) | 3:12 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 78 | [I'm On the Whiskey](https://open.spotify.com/track/1NTGMWWIHteuQudgJXluU6) | [Chancey Williams](https://open.spotify.com/artist/6kaBU6Hz3GSkpRh6tfuA98) | [I'm On the Whiskey](https://open.spotify.com/album/0uUIJDaLtNuTSpuaAVGtUW) | 3:01 |
 | 79 | [Waiting on You](https://open.spotify.com/track/5iq3befM8pUkRt5CKrdM3F) | [Blake Henderson](https://open.spotify.com/artist/5ILg0WBOzkaN5ePByRuMw4) | [Waiting on You](https://open.spotify.com/album/41Ah3MmuW7QDVOQBogHnsC) | 3:43 |
 
-Snapshot ID: `MCxkODA3MGI0ZTEzZGFiNDY5YjBkZTdjN2NhZGRkZmYyYTU1YTc0MTU4`
+Snapshot ID: `MCwwYjk0ZGI0YTAwZjg2NzMyOTkyOWIwOTU4YWI4OWM4YjFhZGY0NDBj`

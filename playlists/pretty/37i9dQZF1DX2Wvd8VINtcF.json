@@ -1,12 +1,12 @@
 {
   "description": "the pearls of an oyster.",
-  "num_followers": 126431,
+  "num_followers": 126522,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODc4NmJiMmY4OWYzOTQyMDNiZWQxM2E1NmFmZjk3MGRmZTRhNDY3",
+  "snapshot_id": "MCwwNjE0MzQ0YTc1YWNjMWY0OTVkMjRmMzhmMDRlM2E0OWYwZWIxOWY0",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -76,7 +76,7 @@
           "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
         }
       ],
-      "duration_ms": 182013,
+      "duration_ms": 181545,
       "name": "ten",
       "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
     },
@@ -454,6 +454,10 @@
         {
           "name": "Mura Masa",
           "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "NADIAH",
+          "url": "https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele"
         }
       ],
       "duration_ms": 241243,

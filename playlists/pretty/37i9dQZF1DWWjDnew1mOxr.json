@@ -1,12 +1,12 @@
 {
   "description": "Boss music for boss people. Cover: JAMIE WEBSTER",
-  "num_followers": 115141,
+  "num_followers": 115185,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWZhYTUyZDQ5NjYwNGJkNDI0YzQxNTU3MTQ4YTU2Y2UwNmM3MmUw",
+  "snapshot_id": "MCxhMjBhOTFkYTBhZjgzNjAwOTQzMTY0YjYyNjc4NWZmYWI5NjhmNjIx",
   "tracks": [
     {
       "added_at": "2023-09-19 10:08:42",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-09-19 10:08:42",
       "album": {
-        "name": "Bullet Farm",
-        "url": "https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee"
-      },
-      "artists": [
-        {
-          "name": "Dead Pony",
-          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
-        }
-      ],
-      "duration_ms": 190614,
-      "name": "Bullet Farm",
-      "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
-    },
-    {
-      "added_at": "2023-09-19 10:08:42",
-      "album": {
         "name": "What a Shame",
         "url": "https://open.spotify.com/album/6B45cam0D4Uw3NfleBOPrb"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 178533,
       "name": "What a Shame",
       "url": "https://open.spotify.com/track/1qTV9vY7G87NEC8waJtT0B"
+    },
+    {
+      "added_at": "2023-09-19 10:08:42",
+      "album": {
+        "name": "Bullet Farm",
+        "url": "https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "duration_ms": 190614,
+      "name": "Bullet Farm",
+      "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
     },
     {
       "added_at": "2023-09-19 10:08:42",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-09-19 10:08:42",
       "album": {
-        "name": "Cavalryman",
-        "url": "https://open.spotify.com/album/1DtKTmCjirkrY5hvcObsGt"
+        "name": "Never Good Enough",
+        "url": "https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap"
       },
       "artists": [
         {
-          "name": "Seb Lowe",
-          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
+          "name": "Tom A. Smith",
+          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
         }
       ],
-      "duration_ms": 193426,
-      "name": "Cavalryman",
-      "url": "https://open.spotify.com/track/2KUqbwVAwyiajA6wyMdxWH"
+      "duration_ms": 227115,
+      "name": "Never Good Enough",
+      "url": "https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg"
     },
     {
       "added_at": "2023-09-19 10:08:42",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-09-19 10:08:42",
       "album": {
-        "name": "Never Good Enough",
-        "url": "https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap"
+        "name": "Cavalryman",
+        "url": "https://open.spotify.com/album/1DtKTmCjirkrY5hvcObsGt"
       },
       "artists": [
         {
-          "name": "Tom A. Smith",
-          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
+          "name": "Seb Lowe",
+          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
         }
       ],
-      "duration_ms": 227115,
-      "name": "Never Good Enough",
-      "url": "https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg"
+      "duration_ms": 193426,
+      "name": "Cavalryman",
+      "url": "https://open.spotify.com/track/2KUqbwVAwyiajA6wyMdxWH"
     },
     {
       "added_at": "2023-09-19 10:08:42",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-09-19 10:08:42",
       "album": {
+        "name": "An Ocean Full of Islands",
+        "url": "https://open.spotify.com/album/01FjLg54vBily703i6K8bT"
+      },
+      "artists": [
+        {
+          "name": "Tide Lines",
+          "url": "https://open.spotify.com/artist/47WvBuryaMeInhqbcoi0uN"
+        }
+      ],
+      "duration_ms": 198647,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/5omsPZVDwJS3Jt2Ivlv7J2"
+    },
+    {
+      "added_at": "2023-09-19 10:08:42",
+      "album": {
         "name": "One More Night With No One",
         "url": "https://open.spotify.com/album/0drCqmAvoy8VdEvzAZoPI7"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 252035,
       "name": "The Back Seat",
       "url": "https://open.spotify.com/track/1ComyGLPB1zuJKeHlP9OrQ"
-    },
-    {
-      "added_at": "2023-09-19 10:08:42",
-      "album": {
-        "name": "An Ocean Full of Islands",
-        "url": "https://open.spotify.com/album/01FjLg54vBily703i6K8bT"
-      },
-      "artists": [
-        {
-          "name": "Tide Lines",
-          "url": "https://open.spotify.com/artist/47WvBuryaMeInhqbcoi0uN"
-        }
-      ],
-      "duration_ms": 198647,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/5omsPZVDwJS3Jt2Ivlv7J2"
     },
     {
       "added_at": "2023-09-19 10:08:42",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-09-19 10:08:42",
       "album": {
-        "name": "Deepest Blue",
-        "url": "https://open.spotify.com/album/2l6T54veKjGFPc4MHVPrjl"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Esau",
-          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
-        }
-      ],
-      "duration_ms": 218751,
-      "name": "Lazy Brain",
-      "url": "https://open.spotify.com/track/3lIVyH8SN5yPVExgWuyiYh"
-    },
-    {
-      "added_at": "2023-09-19 10:08:42",
-      "album": {
         "name": "Remember All The Girls",
         "url": "https://open.spotify.com/album/6fb4iHgNQBpYtLjcFD3W82"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2023-09-19 10:08:42",
       "album": {
+        "name": "Deepest Blue",
+        "url": "https://open.spotify.com/album/2l6T54veKjGFPc4MHVPrjl"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+        }
+      ],
+      "duration_ms": 218751,
+      "name": "Lazy Brain",
+      "url": "https://open.spotify.com/track/3lIVyH8SN5yPVExgWuyiYh"
+    },
+    {
+      "added_at": "2023-09-19 10:08:42",
+      "album": {
         "name": "Hummus and Pitta",
         "url": "https://open.spotify.com/album/7G2IyVdw8K2clKwdNvAF7v"
       },
@@ -1371,22 +1371,6 @@
       "duration_ms": 137319,
       "name": "Hummus and Pitta",
       "url": "https://open.spotify.com/track/7n6biK1HTuLfsNZv7LVFZa"
-    },
-    {
-      "added_at": "2023-09-19 10:08:42",
-      "album": {
-        "name": "In Separation",
-        "url": "https://open.spotify.com/album/5ts1C0PznmiGWsKZAr5Kgo"
-      },
-      "artists": [
-        {
-          "name": "Blondes",
-          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
-        }
-      ],
-      "duration_ms": 182291,
-      "name": "Does It Rain on You?",
-      "url": "https://open.spotify.com/track/6bL29v2gkVXgFbAUEp6NYY"
     },
     {
       "added_at": "2023-09-19 10:08:42",
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2023-09-19 10:08:42",
       "album": {
-        "name": "The Enemy",
-        "url": "https://open.spotify.com/album/4t250HKL2vikczwZILscU5"
+        "name": "In Separation",
+        "url": "https://open.spotify.com/album/5ts1C0PznmiGWsKZAr5Kgo"
       },
       "artists": [
         {
-          "name": "Lizzie Esau",
-          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+          "name": "Blondes",
+          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
         }
       ],
-      "duration_ms": 188336,
-      "name": "The Enemy",
-      "url": "https://open.spotify.com/track/6dNfjKaqLLMUxXOcycbOFr"
+      "duration_ms": 182291,
+      "name": "Does It Rain on You?",
+      "url": "https://open.spotify.com/track/6bL29v2gkVXgFbAUEp6NYY"
     },
     {
       "added_at": "2023-09-19 10:08:42",
@@ -1451,6 +1435,22 @@
       "duration_ms": 177866,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG"
+    },
+    {
+      "added_at": "2023-09-19 10:08:42",
+      "album": {
+        "name": "The Enemy",
+        "url": "https://open.spotify.com/album/4t250HKL2vikczwZILscU5"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+        }
+      ],
+      "duration_ms": 188336,
+      "name": "The Enemy",
+      "url": "https://open.spotify.com/track/6dNfjKaqLLMUxXOcycbOFr"
     },
     {
       "added_at": "2023-09-19 10:08:42",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-09-19 10:08:42",
       "album": {
-        "name": "Out of My Mind",
-        "url": "https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33"
-      },
-      "artists": [
-        {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
-        }
-      ],
-      "duration_ms": 212964,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1"
-    },
-    {
-      "added_at": "2023-09-19 10:08:42",
-      "album": {
         "name": "Slowly Break My Heart",
         "url": "https://open.spotify.com/album/6GPCijZTBrxaiEB2v7sVyF"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 194560,
       "name": "Slowly Break My Heart",
       "url": "https://open.spotify.com/track/7aTbJIgfkh5Hhq3C1309sD"
+    },
+    {
+      "added_at": "2023-09-19 10:08:42",
+      "album": {
+        "name": "Out of My Mind",
+        "url": "https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33"
+      },
+      "artists": [
+        {
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+        }
+      ],
+      "duration_ms": 212964,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1"
     },
     {
       "added_at": "2023-09-19 10:08:42",
@@ -1599,18 +1599,22 @@
     {
       "added_at": "2023-09-19 10:08:42",
       "album": {
-        "name": "Nothing Lasts Forever",
-        "url": "https://open.spotify.com/album/6WCrKVgt2MEKgiW0mvURF8"
+        "name": "I'm Feeling It Now",
+        "url": "https://open.spotify.com/album/3ax5xlVUZA8d67OIjx31px"
       },
       "artists": [
         {
-          "name": "Teenage Fanclub",
-          "url": "https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW"
+          "name": "The Skinner Brothers",
+          "url": "https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN"
+        },
+        {
+          "name": "Jess Newby",
+          "url": "https://open.spotify.com/artist/4nfz2i8X2cCmxBW6IuLh84"
         }
       ],
-      "duration_ms": 186280,
-      "name": "Back to the Light",
-      "url": "https://open.spotify.com/track/0zUqYUBMGJyaOs5PN5XDeB"
+      "duration_ms": 183797,
+      "name": "I'm Feeling it now",
+      "url": "https://open.spotify.com/track/2cKCMoQu3dQ6y5QfT8rKRn"
     }
   ],
   "unique_name": "Proper Belters",

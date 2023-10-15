@@ -4,7 +4,7 @@
 
 > Spiritbox on top of the biggest Metal playlist.
 
-524 songs - 1 day 11 hr 18 min
+525 songs - 1 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Don't Pray For Me](https://open.spotify.com/track/5HmNls885b2Egmu60z4fo3) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Don't Pray For Me](https://open.spotify.com/album/4xVMkU8AP5ihwCv0ra9uaf) | 3:41 | 2022-07-08 | 2022-10-29 |
 | [Doomswitch](https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4) | 4:35 | 2023-01-20 | 2023-07-01 |
 | [Doomswitch](https://open.spotify.com/track/7v9HNMlAe2UBaEhvaCk5wX) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/2WJV5AVoALNLtr2ZqOlf2n) | 4:35 | 2022-10-28 | 2023-01-21 |
-| [Doubt Me](https://open.spotify.com/track/6dxTJRZFB3mU9MvuX7OqJ0) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Doubt Me](https://open.spotify.com/album/4BzqS85ljr08WHx0Qiy5rl) | 3:10 | 2023-09-01 |  |
+| [Doubt Me](https://open.spotify.com/track/2eagADnpxQacZXpQxlZ8n3) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:10 | 2023-10-13 |  |
+| [Doubt Me](https://open.spotify.com/track/6dxTJRZFB3mU9MvuX7OqJ0) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Doubt Me](https://open.spotify.com/album/4BzqS85ljr08WHx0Qiy5rl) | 3:10 | 2023-09-01 | 2023-10-15 |
 | [Dreamlike](https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Dreamlike](https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW) | 3:28 | 2023-04-14 |  |
 | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE) | 3:11 | 2023-09-29 |  |
 | [Drowning](https://open.spotify.com/track/1knxUcq12YCES1O1Q6ImCY) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Moment You Find Your Flame](https://open.spotify.com/album/6a0E3gyDDH42IzGWATL83v) | 2:45 | 2023-08-18 | 2023-10-14 |

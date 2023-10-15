@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-422 songs - 1 day 6 hr 30 min
+423 songs - 1 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Out Of My Mind](https://open.spotify.com/track/3seZ0Y5gGrUzb2blg5L7Sd) | [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8) | [Out Of My Mind](https://open.spotify.com/album/5KCN7V6r76Cux45ozatVYW) | 3:00 | 2021-05-07 | 2022-07-19 |
 | [Out of My Mind](https://open.spotify.com/track/2hMto0hWs4hULLbySN6E9o) | [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Out of My Mind](https://open.spotify.com/album/0YNPKMJVUSf7zj353BakRn) | 2:57 | 2022-03-11 | 2022-07-25 |
 | [Out Of Reach](https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Out Of Reach](https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF) | 4:15 | 2021-06-04 |  |
+| [Out Of The Dark](https://open.spotify.com/track/7hdSpU6G5jyA7lmBVqHMwr) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Out Of The Dark](https://open.spotify.com/album/5MkfidCcFwwTDaZ0qVqsf8) | 3:19 | 2023-10-13 |  |
 | [Over](https://open.spotify.com/track/1Ef6SrzW4vM7uJT11jAJvO) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cami Bear](https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG) | [Over](https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ) | 3:10 | 2023-06-30 |  |
 | [Over Again](https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Over Again](https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br) | 2:39 | 2023-05-05 |  |
 | [Paradise \(feat\. Lucas Ariel\)](https://open.spotify.com/track/299lnrCInmGfXBeSu8A6lw) | [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW), [Lucas Ariel](https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T) | [Paradise \(feat\. Lucas Ariel\)](https://open.spotify.com/album/11AxCghy6UurshHIAKNaRe) | 3:52 | 2021-05-07 | 2022-11-13 |
@@ -307,7 +308,7 @@
 | [Should Have Seen It Coming](https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AETHO](https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG) | [Should Have Seen It Coming](https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa) | 3:58 | 2021-05-07 |  |
 | [Show Me A Sign \(with MKLA\)](https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Show Me A Sign](https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL) | 3:43 | 2022-02-18 | 2023-06-01 |
 | [Signals](https://open.spotify.com/track/7F8LoNeDRgItTcpTpYTmY3) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Signals](https://open.spotify.com/album/1jfZBmZUZeJsZZNluJL6zY) | 6:17 | 2022-06-17 | 2022-08-17 |
-| [Silence](https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Silence](https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF) | 4:05 | 2021-05-07 |  |
+| [Silence](https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Silence](https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF) | 4:05 | 2021-05-07 | 2023-10-15 |
 | [Silenced](https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Dark Matter](https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr) | 3:52 | 2022-02-25 |  |
 | [Sinner \- Edit](https://open.spotify.com/track/3rM7KGUECeqVtYPoELk7ct) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Sinner](https://open.spotify.com/album/3rWqxcWVHk2wmB26tfXOWc) | 4:15 | 2021-05-07 | 2022-04-20 |
 | [Sky](https://open.spotify.com/track/1IxF42puAtZnjhAB6opO83) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Sky EP](https://open.spotify.com/album/6BMSb7BvMYmjj7iX2aEi1J) | 4:02 | 2021-10-15 | 2022-07-28 |

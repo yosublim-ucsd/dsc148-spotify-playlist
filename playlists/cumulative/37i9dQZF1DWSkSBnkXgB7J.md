@@ -4,7 +4,7 @@
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Mohammed Saeed.
 
-101 songs - 5 hr 26 min
+102 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [أرض](https://open.spotify.com/track/0TacWOrPp2rDZjnvBjDFvO) | [Mohammed Alfares](https://open.spotify.com/artist/1cnYGiDgJh4fLXgRlSmtlr) | [أرض](https://open.spotify.com/album/3RmJE3F51o3nCgN8xfirkz) | 3:21 | 2023-08-03 |  |
 | [ارض](https://open.spotify.com/track/4Il19jl68qzjWIlpoSg14U) | [Mohammed Alfares](https://open.spotify.com/artist/1cnYGiDgJh4fLXgRlSmtlr) | [ارض](https://open.spotify.com/album/4RsztYv6UCO12BQ8Vo5Zde) | 3:25 | 2023-03-01 | 2023-05-13 |
 | [اشمعنى انا](https://open.spotify.com/track/4WKQOHnoexpv5eqJb2kGLR) | [Wael Amer](https://open.spotify.com/artist/5ZZI6hmqMxslXH7KR44cHW) | [اشمعنى انا](https://open.spotify.com/album/5dcH8fd9HOyQtT4xMDIvdA) | 2:48 | 2022-10-13 |  |
-| [السر](https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [Seifmusic](https://open.spotify.com/artist/1mkpvSTvT1cbbhv14fuNIV) | [السر](https://open.spotify.com/album/7rPpGIJZZl3RsPeWEksCoW) | 4:32 | 2022-10-10 |  |
+| [السر](https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [Seifmusic](https://open.spotify.com/artist/1mkpvSTvT1cbbhv14fuNIV) | [السر](https://open.spotify.com/album/7rPpGIJZZl3RsPeWEksCoW) | 4:32 | 2022-10-10 | 2023-10-15 |
+| [السر](https://open.spotify.com/track/3giMs4f7ApoNwHa5C2RSDQ) | [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I) | [السر](https://open.spotify.com/album/7wRiNxQ79LbyMLlnGLi9g8) | 4:32 | 2023-10-05 |  |
 | [انقذيني مني](https://open.spotify.com/track/1zAuToKatU8CEw01ZCcjQ5) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [انقذيني مني](https://open.spotify.com/album/2OfTZgFt2qN1Rlf52Ec45s) | 3:01 | 2022-12-17 | 2023-01-17 |
 | [بالمختصر](https://open.spotify.com/track/6ScIVedrkp6Rc1WFwzQxSU) | [اية خفاجة](https://open.spotify.com/artist/5dp1VYIECbMmrUo13BnbDV) | [بالمختصر \- Single](https://open.spotify.com/album/4fEQSmOjq9oU6gtl8iMB26) | 2:57 | 2022-06-24 | 2022-11-09 |
 | [بخاف](https://open.spotify.com/track/2zU9EApSRrWQuCOGTsPBFj) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بخاف](https://open.spotify.com/album/6HVGI0FKmqVz8RmOO7p39l) | 3:39 | 2022-11-23 |  |

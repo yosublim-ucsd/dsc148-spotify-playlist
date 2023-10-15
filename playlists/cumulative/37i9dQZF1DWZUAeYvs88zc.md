@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-483 songs - 1 day 3 hr 11 min
+484 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [hate to be you](https://open.spotify.com/track/4B8xshUQgezhJ8i8HWhHR1) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:02 | 2023-08-04 |  |
 | [hate to be you](https://open.spotify.com/track/7wDIcTm9EQiKxH60Z28jRU) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [hate to be you](https://open.spotify.com/album/6EFy6eC5CF3XUUMx2cwwAG) | 3:02 | 2022-03-18 | 2022-07-29 |
 | [Have Fun at Your Party](https://open.spotify.com/track/65q2ChWzUOjkgQNIg8jNhW) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Have Fun at Your Party](https://open.spotify.com/album/1AL9EFQOxqCnng4VrPcMJK) | 3:40 | 2019-05-27 | 2021-10-02 |
-| [Healing](https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Healing](https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s) | 3:07 | 2021-06-26 |  |
+| [Healing](https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Healing](https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s) | 3:07 | 2021-06-26 | 2023-10-15 |
 | [Heart Crush](https://open.spotify.com/track/3zWrVnMKBIDYeuZwxkY7Kg) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [In My Mind](https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu) | 4:38 | 2019-07-30 | 2020-08-07 |
 | [Heartbeats](https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ) | 3:51 | 2019-07-27 | 2019-08-09 |
 | [Heartbreak](https://open.spotify.com/track/1ERMgnNgM2oWcmG2ZVuLx5) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Heartbreak](https://open.spotify.com/album/1I6INBRN8GU7VecaGJeaLk) | 3:06 | 2021-11-24 | 2022-04-21 |
@@ -329,6 +329,7 @@
 | [Only Love Can Hurt Like This \- MS MR Remix](https://open.spotify.com/track/3oUcnbg11DkeA7XqfFXqUd) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [Only Love Can Hurt Like This \(Remixes\)](https://open.spotify.com/album/1ubNqU41WN6yjrr7pRmted) | 3:34 | 2019-07-29 | 2019-08-09 |
 | [Only You \(with Little Mix\)](https://open.spotify.com/track/54l9GJGQ1UCFKe2tzt1Vxt) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Only You \(with Little Mix\)](https://open.spotify.com/album/4DmPCrBlJGedbs6GW7EQ1m) | 3:09 | 2019-05-26\* | 2021-05-27 |
 | [Over You \(feat\. Frida Sundemo\)](https://open.spotify.com/track/2HNTf5dk2MLXr8cGrSYjcK) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [Over You \(feat\. Frida Sundemo\)](https://open.spotify.com/album/2pMnN3aAdZ2w2f8IfFRyo9) | 3:53 | 2019-05-26\* | 2021-10-16 |
+| [Paint My Bedroom Black](https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE) | 3:49 | 2023-10-13 |  |
 | [Paranoia](https://open.spotify.com/track/6LfzViiIqsweZi9V8A2BvG) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [Paranoia](https://open.spotify.com/album/4XYMh5TmkDTKJcTkIqX2TE) | 2:48 | 2021-10-30 | 2022-04-18 |
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2021-10-02 | 2021-10-16 |
 | [Party](https://open.spotify.com/track/2ULKb6v7hUfFUsQFdwdVCW) | [Kat Kennedy](https://open.spotify.com/artist/08xYUuniSTJtOwpC1lATSX) | [Party](https://open.spotify.com/album/56CBxcn77KXT18r7zALCcj) | 2:31 | 2021-09-07 | 2021-10-23 |

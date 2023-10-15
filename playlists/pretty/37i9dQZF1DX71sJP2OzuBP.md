@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,444 likes - 101 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,424 likes - 101 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 100 | [全世界我只想保護你](https://open.spotify.com/track/2vBVm6KI77nG25Rj1ulVZy) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [全世界我只想保護你](https://open.spotify.com/album/6f0Le98a7kmccH2vRsVWEf) | 2:33 |
 | 101 | [唯一](https://open.spotify.com/track/6ENf77i5DmXDimXle5Ux3C) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [唯一](https://open.spotify.com/album/4o9Q4RFqR6deYGWOgUQ3nC) | 4:13 |
 
-Snapshot ID: `MCw0N2MxYjk0YWM2OWQ1M2MxZWRhN2RmYjJkZTkzMmY4MTZlMzAxOGI3`
+Snapshot ID: `MCxjMjg3NGQ3N2Q2ZDEyZjJhNDg1YzMyNTJkNDAwMTMxNDI2ZGNiM2E1`

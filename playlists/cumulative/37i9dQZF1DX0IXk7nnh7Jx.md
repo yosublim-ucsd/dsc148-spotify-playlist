@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A?si=4c149014dd4c4245">King Kaleidoscope</a>
 
-390 songs - 23 hr 26 min
+391 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,8 @@
 | [You Are My Love](https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [You Are My Love](https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx) | 3:23 | 2023-04-21 |  |
 | [You Kept Me](https://open.spotify.com/track/0AZYXACuV2paDlQ0umLDZM) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX), [Oliver Trinidad](https://open.spotify.com/artist/365hr0ByB1a4rNYCCleBg4) | [You Kept Me](https://open.spotify.com/album/0HmFxGQtPH3qIGmmihRL9q) | 2:21 | 2023-02-19 | 2023-04-09 |
 | [You're Not Wrong](https://open.spotify.com/track/0umR8YSyp7CzW4QlLlMcH1) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [Bryan Joy](https://open.spotify.com/artist/1z5D53u4OQEPLSqFdi1O2c) | [Prison Doors](https://open.spotify.com/album/4AmO2PaalrAWwEyFker98w) | 4:55 | 2023-08-04 | 2023-08-20 |
-| [You're Not Wrong](https://open.spotify.com/track/1Q1hqbcLkRJK5OZiT63WV6) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [Bryan Joy](https://open.spotify.com/artist/1z5D53u4OQEPLSqFdi1O2c) | [My Oasis](https://open.spotify.com/album/0Ykgrf8LPx5D6VRiR29kaU) | 4:55 | 2023-08-11 |  |
+| [You're Not Wrong](https://open.spotify.com/track/1Q1hqbcLkRJK5OZiT63WV6) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [Bryan Joy](https://open.spotify.com/artist/1z5D53u4OQEPLSqFdi1O2c) | [My Oasis](https://open.spotify.com/album/0Ykgrf8LPx5D6VRiR29kaU) | 4:55 | 2023-08-11 | 2023-10-15 |
+| [You're Not Wrong](https://open.spotify.com/track/3PtlSUSAopJgJ3grOGC9Us) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [Bryan Joy](https://open.spotify.com/artist/1z5D53u4OQEPLSqFdi1O2c) | [Waiting](https://open.spotify.com/album/6bNt3czIOXWg6htbdnQ5pd) | 4:55 | 2023-08-11 |  |
 | [You're Not Wrong](https://open.spotify.com/track/5GCwPUgd6FrFf8gMjoxc4r) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [Bryan Joy](https://open.spotify.com/artist/1z5D53u4OQEPLSqFdi1O2c) | [I Wonder](https://open.spotify.com/album/3yJL2ybKvMhxkQwq6YSc8M) | 4:55 | 2023-08-11 | 2023-09-18 |
 | [YOUR WILL](https://open.spotify.com/track/07sXGtDBXjna1aAc2Fq4QX) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4) | [The Family Album](https://open.spotify.com/album/7DAtrt1tuQAeM5KBEXtuDo) | 4:43 | 2023-02-19 |  |
 | [YOUTH \(spring\)](https://open.spotify.com/track/6sBTvNmPpHMKWYyjCdNwKj) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [YOUTH \(spring\)](https://open.spotify.com/album/2h54XJmowWRNrjGWIF2lo3) | 3:16 | 2023-02-24 | 2023-10-04 |

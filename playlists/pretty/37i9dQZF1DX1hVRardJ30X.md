@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Ivan Cornejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,159 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,124 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 28 | [EL CONTROL](https://open.spotify.com/track/6I1Kiyeiy6IcNsN8chQwKc) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO) | [STORM](https://open.spotify.com/album/2VUckgtfYcasl2SoiuT77x) | 2:49 |
 | 29 | [Bella \- Koso](https://open.spotify.com/track/1BtxrI8KXtyH61pdQAsv9U) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [Bella \- Koso](https://open.spotify.com/album/6nbyFnHbOCVeDekmWthCMv) | 2:29 |
 | 30 | [Vámonos](https://open.spotify.com/track/008S9w7s1NF1O3GmtUR6PX) | [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Vámonos](https://open.spotify.com/album/0lIZplY0HUvE3jbBu8ZOQj) | 2:40 |
-| 31 | [Los Chicos Tristes \- El Michels Affair Remix](https://open.spotify.com/track/0ZLuy99MEaGRkpfzlyfQ8i) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX) | [Los Chicos Tristes \(El Michels Affair Remix\)](https://open.spotify.com/album/3S7HTJw7AgnqpP5b9TeLkW) | 2:41 |
+| 31 | [Los Chicos Tristes \[Feat\. Jensine Benitez\] \- El Michels Affair Remix](https://open.spotify.com/track/0rn2hYyqGKK7wwpwsrXcc8) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX) | [Los Chicos Tristes \[Feat\. Jensine Benitez\] \(El Michels Affair Remix\)](https://open.spotify.com/album/0UQ4Se7ofqNnYlemid3D4b) | 2:41 |
 | 32 | [Numb The Pain](https://open.spotify.com/track/79Chy1FyRUT1GXvPS22OPe) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Numb The Pain](https://open.spotify.com/album/2K5CPa1TIUwi9EE8KYwdCv) | 3:26 |
 | 33 | [Tu Cepillo](https://open.spotify.com/track/1dLTxHGSlLtB5OEjVHCWWo) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Tu Cepillo](https://open.spotify.com/album/0e1Iu9QVXL9mgOimmGEDXr) | 3:04 |
 | 34 | [Naughty Girl](https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Supernova](https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1) | 2:56 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 36 | [CNTRTE](https://open.spotify.com/track/6T1BqggkRJsqYDzdQs7boL) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [CNTRTE](https://open.spotify.com/album/2DbXHug7av6nbs0PQf7bwU) | 2:46 |
 | 37 | [Antisocial](https://open.spotify.com/track/1amyIqY3elpcAnL5cAmGxx) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Nekxum](https://open.spotify.com/artist/4gZwJrNP5NG3KGS2dRcS5c) | [Antisocial](https://open.spotify.com/album/6obUqXLtvZvbteEiCUYyq0) | 2:46 |
 | 38 | [Me Gusta Ese Lokito](https://open.spotify.com/track/0nArt1Dx0sI8WnBmXuh8FR) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [Me Gusta Ese Lokito](https://open.spotify.com/album/7lmbsT7oWscPE7qr4fwOXU) | 2:47 |
-| 39 | [Joseador](https://open.spotify.com/track/2MkPpEEpiRNjssScVDZEqK) | [Wolf MIA](https://open.spotify.com/artist/3004nWNr1vK7anBcB3lFkb), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [Joseador](https://open.spotify.com/album/7hFazOzVmHkvZyJLAI7rUB) | 2:11 |
+| 39 | [Joseador](https://open.spotify.com/track/2MkPpEEpiRNjssScVDZEqK) | [Wolf MIA](https://open.spotify.com/artist/3004nWNr1vK7anBcB3lFkb), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [daymebeats](https://open.spotify.com/artist/6Xv0YI3kclBBx9bFsticPd) | [Joseador](https://open.spotify.com/album/7hFazOzVmHkvZyJLAI7rUB) | 2:11 |
 | 40 | [X MÁS QUE TE QUERÍA](https://open.spotify.com/track/2nUo1RZRh32O3R27UZpA2d) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [X MÁS QUE TE QUERÍA](https://open.spotify.com/album/2bMFKkz5qP10PsgLWkFeUT) | 2:30 |
 | 41 | [Me Enamoré Del Dinero](https://open.spotify.com/track/6HQlBVYUdkHJ5p425w5BYu) | [Rokero](https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir) | [Me Enamoré Del Dinero](https://open.spotify.com/album/7dCriCYIgsezgxc5cCW3nZ) | 2:44 |
 | 42 | [La Vibra](https://open.spotify.com/track/3rHfzFjnpq32jbOBVZrccO) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB), [Lenin Jr](https://open.spotify.com/artist/1aNKTI3XHHSU5gWavmse4m) | [La Vibra](https://open.spotify.com/album/1zxx5cy9wpdnuMaSg7XEk4) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Una Vez Más](https://open.spotify.com/track/3mr30QQsPp1GrHKMVouolW) | [Astro Andy](https://open.spotify.com/artist/7Mx1mmKAtCnSUsemQwussI) | [Una Vez Más](https://open.spotify.com/album/50cY1PxotBkhDw3cOob6Me) | 3:00 |
 | 50 | [LADILLA](https://open.spotify.com/track/4M3koMnj680ydN4egdg1e8) | [Joa & Jalys](https://open.spotify.com/artist/4Qypd98pOg4Lp2kCxXBic9) | [LADILLA](https://open.spotify.com/album/1OeMWfABUKJbBe1WAhSela) | 2:31 |
 
-Snapshot ID: `MCxmODBmOGVmMWEyZTFiZDYzNWIxYjcyM2EwYTAwYmExYjk5NWY1YjBh`
+Snapshot ID: `MCxjMDU4ZGE4NzZhNzFhZWRkYjA2NjFmM2NlNDczZTUwOWI5OGZiZGRm`

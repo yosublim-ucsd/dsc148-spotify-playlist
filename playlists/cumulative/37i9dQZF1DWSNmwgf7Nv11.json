@@ -4287,6 +4287,28 @@
     },
     {
       "album": {
+        "name": "sleepwalkers",
+        "url": "https://open.spotify.com/album/2CkKmJultfHDz2MJVs4EPx"
+      },
+      "artists": [
+        {
+          "name": "Zack Oke",
+          "url": "https://open.spotify.com/artist/3M3KbaQtjT2PgdDLM85oqG"
+        },
+        {
+          "name": "Aby Coulibaly",
+          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162533,
+      "name": "Slumbr",
+      "url": "https://open.spotify.com/track/3UWkcEi0I7ZM5pwiIQshVU"
+    },
+    {
+      "album": {
         "name": "Sleepwalkers",
         "url": "https://open.spotify.com/album/16b9hC4l55WPqi5K3frIUI"
       },
@@ -4302,7 +4324,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 162533,
       "name": "Slumbr",
       "url": "https://open.spotify.com/track/5PQ1a1zxILh9ncbj2gwxEe"

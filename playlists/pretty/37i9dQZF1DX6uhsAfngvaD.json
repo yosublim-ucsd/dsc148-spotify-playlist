@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 294562,
+  "num_followers": 294664,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTFmMzJmZTM0OTM4ZmI5ZTk0ZDg2NzczNDA3N2Q5ZDc3NTRiYjhh",
+  "snapshot_id": "MCxmNTg3M2UzZmZhMjNlMDFmZDFjMmI3OTlkZjY4Y2IyNTExMzgxMTUy",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "The Clouds Cleared the Way",
+        "url": "https://open.spotify.com/album/2GajVRWAWcqYuEcYZTLIn8"
+      },
+      "artists": [
+        {
+          "name": "Shane Tyler",
+          "url": "https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "The Clouds Cleared the Way",
+      "url": "https://open.spotify.com/track/5Pdsyk2NuTJ56mE97DmxmN"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Ways To Get Out",
         "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 225848,
       "name": "Our Past Lives",
       "url": "https://open.spotify.com/track/25WP1r39qdLD9RQjlxgwDr"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "The Clouds Cleared the Way",
-        "url": "https://open.spotify.com/album/2GajVRWAWcqYuEcYZTLIn8"
-      },
-      "artists": [
-        {
-          "name": "Shane Tyler",
-          "url": "https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "The Clouds Cleared the Way",
-      "url": "https://open.spotify.com/track/5Pdsyk2NuTJ56mE97DmxmN"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -847,18 +847,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Cellar",
-        "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
+        "name": "Only One Man (with Melody's Echo Chamber)",
+        "url": "https://open.spotify.com/album/33zR8Z3dApeJSWwxRZAjj8"
       },
       "artists": [
         {
-          "name": "Sea Lemon",
-          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
+          "name": "Moodo\u00efd",
+          "url": "https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC"
+        },
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
         }
       ],
-      "duration_ms": 245998,
-      "name": "Cellar",
-      "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
+      "duration_ms": 190840,
+      "name": "Only One Man (with Melody's Echo Chamber)",
+      "url": "https://open.spotify.com/track/2bBrRe20ZB7pJMQaNJ4nwk"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -879,22 +883,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Only One Man (with Melody's Echo Chamber)",
-        "url": "https://open.spotify.com/album/33zR8Z3dApeJSWwxRZAjj8"
+        "name": "Cellar",
+        "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
       },
       "artists": [
         {
-          "name": "Moodo\u00efd",
-          "url": "https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC"
-        },
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+          "name": "Sea Lemon",
+          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
         }
       ],
-      "duration_ms": 190840,
-      "name": "Only One Man (with Melody's Echo Chamber)",
-      "url": "https://open.spotify.com/track/2bBrRe20ZB7pJMQaNJ4nwk"
+      "duration_ms": 245998,
+      "name": "Cellar",
+      "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-09-29 10:51:04",
       "album": {
-        "name": "Snowman",
-        "url": "https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh"
-      },
-      "artists": [
-        {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
-        }
-      ],
-      "duration_ms": 315005,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8"
-    },
-    {
-      "added_at": "2023-09-29 10:51:04",
-      "album": {
         "name": "Flying Wig",
         "url": "https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 268659,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o"
+    },
+    {
+      "added_at": "2023-09-29 10:51:04",
+      "album": {
+        "name": "Snowman",
+        "url": "https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 315005,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1011,6 +1011,42 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
+      },
+      "artists": [
+        {
+          "name": "trentem\u00f8ller",
+          "url": "https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS"
+        },
+        {
+          "name": "Lisbet Fritze",
+          "url": "https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod"
+        }
+      ],
+      "duration_ms": 259642,
+      "name": "No More Kissing In The Rain",
+      "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "French Movie",
+        "url": "https://open.spotify.com/album/3hw3rAKNU6a22R3qxxMQip"
+      },
+      "artists": [
+        {
+          "name": "Bubble Tea and Cigarettes",
+          "url": "https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "French Movie",
+      "url": "https://open.spotify.com/track/0C2CSeNBBss4JSFG0xHy7z"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "number own",
         "url": "https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c"
       },
@@ -1039,42 +1075,6 @@
       "duration_ms": 214137,
       "name": "27 Club",
       "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "French Movie",
-        "url": "https://open.spotify.com/album/3hw3rAKNU6a22R3qxxMQip"
-      },
-      "artists": [
-        {
-          "name": "Bubble Tea and Cigarettes",
-          "url": "https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "French Movie",
-      "url": "https://open.spotify.com/track/0C2CSeNBBss4JSFG0xHy7z"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Memoria",
-        "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
-      },
-      "artists": [
-        {
-          "name": "trentem\u00f8ller",
-          "url": "https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS"
-        },
-        {
-          "name": "Lisbet Fritze",
-          "url": "https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod"
-        }
-      ],
-      "duration_ms": 259642,
-      "name": "No More Kissing In The Rain",
-      "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Blister",
-        "url": "https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        },
-        {
-          "name": "Kaeve",
-          "url": "https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Blister",
-      "url": "https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Future Falling",
         "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 340000,
       "name": "Near",
       "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Blister",
+        "url": "https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        },
+        {
+          "name": "Kaeve",
+          "url": "https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Blister",
+      "url": "https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Giving The World Away",
-        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
-      },
-      "artists": [
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 236575,
-      "name": "Lights On",
-      "url": "https://open.spotify.com/track/5pT185xOuSJkpUCsEQFi3n"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Make Me Wanna",
         "url": "https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 202761,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Giving The World Away",
+        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 236575,
+      "name": "Lights On",
+      "url": "https://open.spotify.com/track/5pT185xOuSJkpUCsEQFi3n"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Twin Heavy",
-        "url": "https://open.spotify.com/album/6LFY3DlCGt04t3LY9NjNIC"
-      },
-      "artists": [
-        {
-          "name": "Willie J Healey",
-          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
-        }
-      ],
-      "duration_ms": 227681,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/2vmMoVSY98yTOpMZSDxMUf"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Detox",
         "url": "https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 273455,
       "name": "Detox",
       "url": "https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Twin Heavy",
+        "url": "https://open.spotify.com/album/6LFY3DlCGt04t3LY9NjNIC"
+      },
+      "artists": [
+        {
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+        }
+      ],
+      "duration_ms": 227681,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/2vmMoVSY98yTOpMZSDxMUf"
     },
     {
       "added_at": "2023-07-21 10:37:28",

@@ -2764,6 +2764,24 @@
     {
       "album": {
         "name": "Love Lines",
+        "url": "https://open.spotify.com/album/1FY6Ov9aGkNEhXa7GbeRwM"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160081,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0p2RzDuT4BbboYCsW8LT7C"
+    },
+    {
+      "album": {
+        "name": "Love Lines",
         "url": "https://open.spotify.com/album/1ej1wD4Xw3T47czXKeFixm"
       },
       "artists": [
@@ -2774,7 +2792,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 160081,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/6AoAAW6AJBdZ9Ket9nUhSG"

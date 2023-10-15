@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: The Plot In You
 
-755 songs - 1 day 23 hr 25 min
+756 songs - 1 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,8 @@
 | [Don't Go](https://open.spotify.com/track/5su7QP5m3Mt5yaAM5rrriE) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Don't Go](https://open.spotify.com/album/2notng3VruouqChEzm2IJl) | 3:21 | 2022-05-06 | 2022-06-11 |
 | [Doomswitch](https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4) | 4:35 | 2023-01-20 | 2023-05-23 |
 | [Doomswitch](https://open.spotify.com/track/7v9HNMlAe2UBaEhvaCk5wX) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/2WJV5AVoALNLtr2ZqOlf2n) | 4:35 | 2022-11-11 | 2023-01-21 |
-| [Doubt Me](https://open.spotify.com/track/6dxTJRZFB3mU9MvuX7OqJ0) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Doubt Me](https://open.spotify.com/album/4BzqS85ljr08WHx0Qiy5rl) | 3:10 | 2023-09-22 |  |
+| [Doubt Me](https://open.spotify.com/track/2eagADnpxQacZXpQxlZ8n3) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:10 | 2023-09-29 |  |
+| [Doubt Me](https://open.spotify.com/track/6dxTJRZFB3mU9MvuX7OqJ0) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Doubt Me](https://open.spotify.com/album/4BzqS85ljr08WHx0Qiy5rl) | 3:10 | 2023-09-22 | 2023-10-15 |
 | [Down](https://open.spotify.com/track/08BIaNWJMOQLrK5mSje5kY) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9) | [Down](https://open.spotify.com/album/0151780uryrl7Mj83Tc6G8) | 3:21 | 2021-12-17 | 2022-01-08 |
 | [Downpour](https://open.spotify.com/track/2AQyiYOl2fVe7ZYHOKkEbj) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl) | [Downpour](https://open.spotify.com/album/3zcbr2SwtMAry4XicwbKdV) | 3:34 | 2023-07-21 |  |
 | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/track/35onQjC0Rb2BISF0xkJCMW) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Jamie Hails](https://open.spotify.com/artist/2cRrZw0UD5vsnwoPVkV8Ip) | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/album/1or1Y8UCe75sabzYynWIn0) | 4:03 | 2022-07-13 | 2022-07-15 |

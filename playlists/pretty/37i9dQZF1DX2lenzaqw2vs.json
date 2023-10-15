@@ -1,12 +1,12 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: YADAM",
-  "num_followers": 133740,
+  "num_followers": 133737,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjRmNDI5NDI2MGRhYjYwNGNhMzM4ZDNiMDFlOGI0MGUwZGVlZGUw",
+  "snapshot_id": "MCw1MTc5M2M1YTIwN2NmMTMyODVmMGQwZGMxNWNkMTNhYjk0NzYzMmIw",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -155,22 +155,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Tiki Tiki",
-        "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
+        "name": "La cuarta hoja",
+        "url": "https://open.spotify.com/album/2Iqhzdnwa1SlsTtqfQXWfn"
       },
       "artists": [
         {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 131437,
-      "name": "Tiki Tiki",
-      "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"
+      "duration_ms": 163244,
+      "name": "Carretera y manta",
+      "url": "https://open.spotify.com/track/1tV4AlwNv9qM4snHDLUXbY"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -207,18 +203,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "La cuarta hoja",
-        "url": "https://open.spotify.com/album/2Iqhzdnwa1SlsTtqfQXWfn"
+        "name": "Tiki Tiki",
+        "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 163244,
-      "name": "Carretera y manta",
-      "url": "https://open.spotify.com/track/1tV4AlwNv9qM4snHDLUXbY"
+      "duration_ms": 131437,
+      "name": "Tiki Tiki",
+      "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "R\u00e1pido",
-        "url": "https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW"
-      },
-      "artists": [
-        {
-          "name": "MJ Nebreda",
-          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
-        },
-        {
-          "name": "Ana Macho",
-          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
-        }
-      ],
-      "duration_ms": 178252,
-      "name": "R\u00e1pido",
-      "url": "https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "La Noche",
         "url": "https://open.spotify.com/album/3mcb8IqvIWkCpvp3XNFIiU"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 171857,
       "name": "Fue",
       "url": "https://open.spotify.com/track/4NmkoTBB02LmKn8GdvOLUN"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "R\u00e1pido",
+        "url": "https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW"
+      },
+      "artists": [
+        {
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+        },
+        {
+          "name": "Ana Macho",
+          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+        }
+      ],
+      "duration_ms": 178252,
+      "name": "R\u00e1pido",
+      "url": "https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1243,18 +1243,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Universo",
-        "url": "https://open.spotify.com/album/3cW83FmkNbfV2vUBF0teDH"
+        "name": "Que S\u00ed Que No",
+        "url": "https://open.spotify.com/album/0MDs2fahUHeddRisz4l0dF"
       },
       "artists": [
         {
-          "name": "Ana Macho",
-          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Universo",
-      "url": "https://open.spotify.com/track/3jEB4jnVr3ExApgjlPI21c"
+      "duration_ms": 163648,
+      "name": "Que S\u00ed Que No",
+      "url": "https://open.spotify.com/track/4kQkOwwaJWWbLB83doQdlg"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1275,22 +1279,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Que S\u00ed Que No",
-        "url": "https://open.spotify.com/album/0MDs2fahUHeddRisz4l0dF"
+        "name": "Universo",
+        "url": "https://open.spotify.com/album/3cW83FmkNbfV2vUBF0teDH"
       },
       "artists": [
         {
-          "name": "Christian Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
-        },
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+          "name": "Ana Macho",
+          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
         }
       ],
-      "duration_ms": 163648,
-      "name": "Que S\u00ed Que No",
-      "url": "https://open.spotify.com/track/4kQkOwwaJWWbLB83doQdlg"
+      "duration_ms": 195000,
+      "name": "Universo",
+      "url": "https://open.spotify.com/track/3jEB4jnVr3ExApgjlPI21c"
     }
   ],
   "unique_name": "BRILLO",

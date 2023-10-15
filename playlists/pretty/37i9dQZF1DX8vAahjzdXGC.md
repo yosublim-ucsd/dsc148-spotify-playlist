@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Nadin Amizah
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,758 likes - 112 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,720 likes - 112 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 33 | [Mungkin Ragu](https://open.spotify.com/track/4WpzvM9eUOiCLSeD5wYNxs) | [Alycia Helena](https://open.spotify.com/artist/3x5op1StCZDbv3QDj306xc) | [Mungkin Ragu](https://open.spotify.com/album/27n1NSVQjcsiO8nQkWq5fX) | 3:49 |
 | 34 | [Bahagiaku](https://open.spotify.com/track/71wR2AMmCrIWjW8iTv8GsQ) | [Asya](https://open.spotify.com/artist/1SQcLGz6rb5OzKosxCV2mQ) | [Bahagiaku](https://open.spotify.com/album/0C3Ym36nbiS27ivZv4GNMu) | 3:22 |
 | 35 | [Mengharap Dirimu](https://open.spotify.com/track/1nSnoIdhCgmVhXrhchGIQ5) | [Sherryl Rayendra](https://open.spotify.com/artist/5cmttBOI8F4TR0gPm22Ss6) | [Mengharap Dirimu](https://open.spotify.com/album/2Q4GRvC51g6Qu7elq8C46X) | 3:27 |
-| 36 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:02 |
+| 36 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 |
 | 37 | [Paint My Bedroom Black](https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE) | 3:49 |
 | 38 | [Pedestal](https://open.spotify.com/track/3C8Z6rLzMjQiDSkZxpRHxV) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Pedestal](https://open.spotify.com/album/5KRQkpYEeyfXX4gF9kWV7I) | 3:11 |
 | 39 | [What Now](https://open.spotify.com/track/1g8becOwXRFEkYukY94L99) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/34hq1FBvredIMga6KyZnF2) | 3:46 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 111 | [hold you close](https://open.spotify.com/track/0mK9h53uygjAiHVps0wu45) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [hold you close](https://open.spotify.com/album/25j8iJERUiIYXW71OevJmC) | 3:39 |
 | 112 | [Sent on Wednesday](https://open.spotify.com/track/6cIxoAKwaxZOr8FJb6MimD) | [Tsoiwaijenjen](https://open.spotify.com/artist/3wTDAuG2SWbTjvxLe3kgnj) | [Sent on Wednesday](https://open.spotify.com/album/232i6EAZ5mZKXtpc2VekJi) | 3:32 |
 
-Snapshot ID: `MCxjMWUxODA3N2FhMWM0NWUwYmQ2YmZhYjlhNDNmNzg3NWQzOWFmMDEx`
+Snapshot ID: `MCw3NzhiMWFiZTQ3N2RhODZlNDIxMWViY2EyYTQxYmY1ZTljYjU3ODIx`

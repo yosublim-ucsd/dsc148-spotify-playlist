@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: THE F LIBRA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,375 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,383 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [Pick Up The Phone](https://open.spotify.com/track/528QE0jkWkdZTzFmGg42LJ) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Pick Up The Phone](https://open.spotify.com/album/5imcIGu9iivXdWfpSGvlPr) | 3:35 |
 | 100 | [Real](https://open.spotify.com/track/6yjVXxc9lzoE9e0B9aSJQY) | [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [Real](https://open.spotify.com/album/3n5j3rQkV8q1i6dx6FWqZu) | 2:41 |
 
-Snapshot ID: `MCw0Yjk2Y2QzMDA2MWE3NDcyNzcwNWMxZTdkMzZlYmVlZjk5MjBiZTEw`
+Snapshot ID: `MCwzZmIyYmU3MGExY2E0ZGNhMGFiMzljMDRiZTQ3YjNiYjJlYjI5ODcw`

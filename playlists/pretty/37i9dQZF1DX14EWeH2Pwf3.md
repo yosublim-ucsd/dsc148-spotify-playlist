@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Boro, Artie 5ive
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,942 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,345 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Malamente](https://open.spotify.com/track/3myPe2jZvDbPoNXY7v2TU0) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 3:01 |
 | 50 | [Maltempo](https://open.spotify.com/track/7FZicMWhkxtQxIsV6Y9SZk) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Maltempo](https://open.spotify.com/album/1Jopcn1DSXFQzDvj53uDpw) | 2:44 |
 
-Snapshot ID: `MCwwNzVhYjZhYWQ3MWUwMGJkNDRhMTg2NzdkZjIwNWVkYTg5YjNmYjk2`
+Snapshot ID: `MCw5YTRlNDUxZDE4ZjUzZTcwMmZmNWYxNTY4NTI3M2FmMzY0NzQxYjkz`

@@ -1,12 +1,12 @@
 {
   "description": "Music by our 2023 Artists To Watch. Cover: Ivan Cornejo",
-  "num_followers": 3465,
+  "num_followers": 3481,
   "original_name": "Viva Latino Artists To Watch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDFiOTkwODJmM2E3OTUwOGU5ZGVkNmRiZjQ3N2M1ZmIwOGY5NTcz",
+  "snapshot_id": "MCxlOThjMGUwMTAwNjVjZmFjN2U5OTE0M2ZiMGUzMjk2NzIyY2NhMmM1",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Donde Est\u00e1s",
+        "url": "https://open.spotify.com/album/3P1vHJYr9mrJYvIEWNm8yb"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 249040,
+      "name": "Donde Est\u00e1s",
+      "url": "https://open.spotify.com/track/69qvqJ61NqTtr1eO29tapa"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Versos de un Card\u00edaco",
         "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 144767,
       "name": "La Jaula Perfecta",
       "url": "https://open.spotify.com/track/5ADCYUNt9HmuAXdYjN4nnD"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Da\u00f1ado (Deluxe)",
-        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "La Curiosidad - Deluxe",
-      "url": "https://open.spotify.com/track/7EesJDJFoBjFoWeA3CeLVo"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -375,22 +375,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI"
+        "name": "Da\u00f1ado (Deluxe)",
+        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
       },
       "artists": [
         {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 213279,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl"
+      "duration_ms": 216000,
+      "name": "La Curiosidad - Deluxe",
+      "url": "https://open.spotify.com/track/7EesJDJFoBjFoWeA3CeLVo"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -455,6 +451,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 213279,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "LQTQH",
         "url": "https://open.spotify.com/album/5HPXDjAoNY2sLab8HotJ59"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 161889,
       "name": "LQTQH",
       "url": "https://open.spotify.com/track/2rEtrKowZlSwB3YJU9KJhL"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Donde Est\u00e1s",
-        "url": "https://open.spotify.com/album/3P1vHJYr9mrJYvIEWNm8yb"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 249040,
-      "name": "Donde Est\u00e1s",
-      "url": "https://open.spotify.com/track/69qvqJ61NqTtr1eO29tapa"
     },
     {
       "added_at": "2023-10-13 04:00:00",

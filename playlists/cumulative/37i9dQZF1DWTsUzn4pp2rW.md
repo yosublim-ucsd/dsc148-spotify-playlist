@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-288 songs - 18 hr 37 min
+289 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 | 2021-11-19 | 2022-10-27 |
 | [Begin Again](https://open.spotify.com/track/6YSCWDYNtZ6mZ8d71Tj0HR) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 3:49 | 2021-11-19 | 2023-09-02 |
 | [Benevolent Man](https://open.spotify.com/track/4APZ4IrqGZMMNjVrkIJJxM) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 3:42 | 2022-02-08 | 2023-05-06 |
-| [Best Time Of The Year](https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW) | [Budbud](https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF) | [Best Time Of The Year](https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq) | 3:09 | 2021-11-19 |  |
+| [Best Time Of The Year](https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW) | [Budbud](https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF) | [Best Time Of The Year](https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq) | 3:09 | 2021-11-19 | 2023-10-15 |
 | [Birthday](https://open.spotify.com/track/4dumLEql3QNZfwVK4sTojD) | [The Scalicis](https://open.spotify.com/artist/1aXYGkJ7p5IUE8BbPFmkWV) | [Birthday](https://open.spotify.com/album/14KfV7dED8JuA3C6NYnoTR) | 3:00 | 2022-07-14 |  |
 | [Birthday](https://open.spotify.com/track/6tMUp2XBPBUtIVL5iue9In) | [The Scalicis](https://open.spotify.com/artist/1aXYGkJ7p5IUE8BbPFmkWV) | [Birthday](https://open.spotify.com/album/1WTsPT91gUr0tWNYPSWfjD) | 3:00 | 2021-11-19 | 2022-07-29 |
 | [bitterlove](https://open.spotify.com/track/2q5ug5CRRG0nBCLBTprsl6) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [a letter to my 17 year old](https://open.spotify.com/album/48SUVfdwm8K3U67cS5QC2h) | 3:30 | 2021-11-19 | 2023-05-19 |
@@ -118,6 +118,7 @@
 | [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 | 2023-02-09 | 2023-05-06 |
 | [Humphrey and me](https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712) | [Humphrey and Me](https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL) | 4:27 | 2021-11-19 |  |
 | [I Can't Make You Love Me](https://open.spotify.com/track/678zWynlu5RcyEnGUe0EQZ) | [Sam Parker](https://open.spotify.com/artist/4FYQFlxTwb3mnj5YJmnZfE), [Priya Marie Chantale](https://open.spotify.com/artist/23Foj0ZZhR6iwQu9mdOCvQ) | [I Can't Make You Love Me](https://open.spotify.com/album/6S7MfLDElqYq7SvyTIXRYq) | 4:16 | 2021-11-19 | 2023-10-13 |
+| [I Can’t Make You Love Me](https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [I Can’t Make You Love Me](https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz) | 5:03 | 2023-10-13 |  |
 | [I Fall to Pieces](https://open.spotify.com/track/34QBDcwnUMlQCGpjUhXN8u) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [I Fall to Pieces](https://open.spotify.com/album/0AgqUaoymiX2pAQlHlwZKr) | 2:51 | 2021-11-19 |  |
 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/1YVmpBp53G1trEySVwJJPP) | [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/album/2DWRIlo1R10apEYqCk2fK7) | 3:12 | 2022-11-29 | 2023-05-06 |
 | [I Have Nothing Left for You](https://open.spotify.com/track/30XnkHIARv4lRe4tIbi4AY) | [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c), [Stockholm Underground](https://open.spotify.com/artist/4cBZdr2PjNdXrbkK9xhLJA), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [My Soul Kitchen](https://open.spotify.com/album/1lRtenyGy9wvyxwrRNjtWD) | 4:34 | 2022-07-14 |  |

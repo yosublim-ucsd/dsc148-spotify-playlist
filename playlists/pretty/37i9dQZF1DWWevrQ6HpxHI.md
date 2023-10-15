@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 
 > Over 5 hours of classic heaters 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,239 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,315 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 | 54 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 |
 | 55 | [Blame \(feat\. John Newman\)](https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:32 |
 | 56 | [Jubel \- Radio Edit](https://open.spotify.com/track/7715F9Eg9SlfYb1qdMb9en) | [Shawkie](https://open.spotify.com/artist/3ZvGfQARM0fy65J41kZqOy), [3ario](https://open.spotify.com/artist/0nOwCPOHcanMZndiBiFzil) | [Jubel \- Radio Edit](https://open.spotify.com/album/5FGTcarbUXSplzZDmsAwkQ) | 2:28 |
-| 57 | [Make Me Feel Better \- Radio Edit](https://open.spotify.com/track/6bH162bE1m4KN3XHsvRwJD) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Make Me Feel Better \(Radio Edit\)](https://open.spotify.com/album/4s0KnoWsmuW49TuZOyN40s) | 3:18 |
+| 57 | [Make Me Feel Better \- Radio Edit](https://open.spotify.com/track/3LUcl7mJdrNlqKOZZ3bOY2) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Make Me Feel Better](https://open.spotify.com/album/2cOr1vC28kXUpS9CPwlNgZ) | 3:18 |
 | 58 | [Lonely](https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Lonely](https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet) | 3:10 |
 | 59 | [Make Your Move](https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF) | [Make Your Move](https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq) | 2:48 |
 | 60 | [Wish You Well](https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Wish You Well](https://open.spotify.com/album/1yZZdubJ2rovC4QIBP8riQ) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 | 99 | [Nobody Does It Better](https://open.spotify.com/track/71qJKN5aGOnAHHuui6344H) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [Nobody Does It Better](https://open.spotify.com/album/3vgpPO8Z1AhRDdQAsUJUKQ) | 2:28 |
 | 100 | [Bullit](https://open.spotify.com/track/0HFmNBn8c5oHCkg8oEjEEA) | [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Bullit](https://open.spotify.com/album/5yIGnF3aTgLLVVtnG9b8Qw) | 3:15 |
 
-Snapshot ID: `MCwyYzNhNjkyOTdlMzRjMTkzNjMzMzBhNzc3MjhkZDg1YWZkZWNlMTgw`
+Snapshot ID: `MCw4ZGU4NzY0Njc5MzRkNjY0ZTM0MjQ1NTFkZmE0ZDkxZThiYWIzYjdk`

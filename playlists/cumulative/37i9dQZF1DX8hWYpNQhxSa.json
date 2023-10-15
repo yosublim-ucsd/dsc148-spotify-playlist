@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Little steps\uff08TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300fSeason 2 \u633f\u5165\u6b4c\uff09",
+        "url": "https://open.spotify.com/album/6qohjfb1eC5gveRdxYd5kH"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267500,
+      "name": "Little steps",
+      "url": "https://open.spotify.com/track/5x3zRaTo5gHTsEvNvbt5C8"
+    },
+    {
+      "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Remembering Charlie Robison.",
-  "num_followers": 242395,
+  "num_followers": 242485,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTZmZWE2NTY0MDFiZDEzMjRhM2I0NWZlNTM4NTVkNzkyMDQ0ODM2",
+  "snapshot_id": "MCwzMzg5YmRiNjY4NzQyNjU0Y2Q0OThkN2U2ZDEyNTRkYmRmNDkxMWRj",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 204352,
+      "name": "Something to Talk About",
+      "url": "https://open.spotify.com/track/19Xbs8nrPaB4XGK5nVBbFC"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Firewater",
         "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 242325,
       "name": "Broke Ass Kid",
       "url": "https://open.spotify.com/track/22NJ4gaxcMI4j5Fg8dbnug"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 204352,
-      "name": "Something to Talk About",
-      "url": "https://open.spotify.com/track/19Xbs8nrPaB4XGK5nVBbFC"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "The Limestone Kid",
-        "url": "https://open.spotify.com/album/7jba5tL6K9s6hT0NLsf5P7"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Meet You in the Middle",
-      "url": "https://open.spotify.com/track/5fgeba92zIjtr49JupqI9O"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Harold Saul High",
         "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 177866,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "The Limestone Kid",
+        "url": "https://open.spotify.com/album/7jba5tL6K9s6hT0NLsf5P7"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Meet You in the Middle",
+      "url": "https://open.spotify.com/track/5fgeba92zIjtr49JupqI9O"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 233685,
+      "name": "February 28, 2016",
+      "url": "https://open.spotify.com/track/2WZTzjYMHYmadyQjSZ6Vj4"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Resurrection EP",
         "url": "https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 206643,
       "name": "Fall",
       "url": "https://open.spotify.com/track/4tmGCHso6k8srKMSBHmtlt"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 233685,
-      "name": "February 28, 2016",
-      "url": "https://open.spotify.com/track/2WZTzjYMHYmadyQjSZ6Vj4"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 223062,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "The Last Resort: Greetings From",
         "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
       },
@@ -1187,26 +1207,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Front Row Seat",
-        "url": "https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX"
-      },
-      "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        },
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 223451,
-      "name": "Wasn't That Drunk (feat. Carly Pearce)",
-      "url": "https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Ringling Road",
         "url": "https://open.spotify.com/album/3h5aXIK4YtJ0cRn6aWzN2V"
       },
@@ -1223,22 +1223,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
+        "name": "Front Row Seat",
+        "url": "https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
         },
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
         }
       ],
-      "duration_ms": 223062,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
+      "duration_ms": 223451,
+      "name": "Wasn't That Drunk (feat. Carly Pearce)",
+      "url": "https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Austin",
+        "url": "https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 274716,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "The Highway Kind",
         "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 220649,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/2YdMVlfOdhVmewv1VQBVSl"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Austin",
-        "url": "https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 274716,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Fast Lane",
-        "url": "https://open.spotify.com/album/3Wbvu7BTO6PjTEEHGUmdxg"
+        "name": "The Essential Kris Kristofferson",
+        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 246803,
-      "name": "Fast Lane",
-      "url": "https://open.spotify.com/track/2lqC75TB8cuEP8ZQ6L9zi5"
+      "duration_ms": 270800,
+      "name": "Sunday Mornin' Comin' Down",
+      "url": "https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "The Essential Kris Kristofferson",
-        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
+        "name": "Fast Lane",
+        "url": "https://open.spotify.com/album/3Wbvu7BTO6PjTEEHGUmdxg"
       },
       "artists": [
         {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
         }
       ],
-      "duration_ms": 270800,
-      "name": "Sunday Mornin' Comin' Down",
-      "url": "https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK"
+      "duration_ms": 246803,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/2lqC75TB8cuEP8ZQ6L9zi5"
     },
     {
       "added_at": "2023-10-13 04:01:00",

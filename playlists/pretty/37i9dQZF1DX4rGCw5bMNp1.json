@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 132538,
+  "num_followers": 132571,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4NjgzMzg2MCwwMDAwMDAwMGJkMDU3ZmY5MjFlOTU4NDg5MzhmYTU3ZDZkMmZlOTdh",
+  "snapshot_id": "MCxkNTdmNjc1ZmVlNTYyZjc0Nzk2ODk0M2E5MTM2OWE1OTA1NjZkYjQ2",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -675,6 +675,22 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
+        "name": "American Blues Legends 79",
+        "url": "https://open.spotify.com/album/08wMsEomV865Vdabc98gPw"
+      },
+      "artists": [
+        {
+          "name": "Good Rockin' Charles",
+          "url": "https://open.spotify.com/artist/0RVvc29Nt39V4pjvMab6Y8"
+        }
+      ],
+      "duration_ms": 286271,
+      "name": "I Wish I Had Somebody",
+      "url": "https://open.spotify.com/track/1jmUDgvrdOKpz1JxlEH7Qz"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
         "name": "Change My Blues",
         "url": "https://open.spotify.com/album/6U3s4tNpNDKygphGvQnmye"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "American Blues Legends 79",
-        "url": "https://open.spotify.com/album/08wMsEomV865Vdabc98gPw"
+        "name": "When The Blues Hit You",
+        "url": "https://open.spotify.com/album/6rxjk3V22DyOH6nTNcd331"
       },
       "artists": [
         {
-          "name": "Good Rockin' Charles",
-          "url": "https://open.spotify.com/artist/0RVvc29Nt39V4pjvMab6Y8"
+          "name": "Lester Davenport",
+          "url": "https://open.spotify.com/artist/5HAs3PXvcSdFY57ey4glmF"
         }
       ],
-      "duration_ms": 286271,
-      "name": "I Wish I Had Somebody",
-      "url": "https://open.spotify.com/track/1jmUDgvrdOKpz1JxlEH7Qz"
+      "duration_ms": 358200,
+      "name": "Slow Down Baby",
+      "url": "https://open.spotify.com/track/3hEqk9Uh4SBj0TZLcwxixB"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -723,22 +739,6 @@
       "duration_ms": 515160,
       "name": "Bad Avenue",
       "url": "https://open.spotify.com/track/6QVQ98K8JrqHfImepOeQ6L"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "When The Blues Hit You",
-        "url": "https://open.spotify.com/album/6rxjk3V22DyOH6nTNcd331"
-      },
-      "artists": [
-        {
-          "name": "Lester Davenport",
-          "url": "https://open.spotify.com/artist/5HAs3PXvcSdFY57ey4glmF"
-        }
-      ],
-      "duration_ms": 358200,
-      "name": "Slow Down Baby",
-      "url": "https://open.spotify.com/track/3hEqk9Uh4SBj0TZLcwxixB"
     },
     {
       "added_at": "2016-03-21 20:31:35",

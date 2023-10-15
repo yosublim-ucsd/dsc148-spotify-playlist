@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,765 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,811 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 41 | [Deixa Falar](https://open.spotify.com/track/0FiYoFSKLu3UgbmfR6i0Ph) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO) | [Deixa Falar](https://open.spotify.com/album/3dHxbFlLTseVIyhHyusGqu) | 2:16 |
 | 42 | [Só Minha](https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Só Minha](https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn) | 2:29 |
 | 43 | [Me Deixa](https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Me Deixa](https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk) | 2:29 |
-| 44 | [Arrepios](https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj) | [Arrepios](https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg) | 3:25 |
-| 45 | [Yo Quiero Te Namorar](https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf) | [NegrãoDoCéu](https://open.spotify.com/artist/7IRAMOb7oQMFe3vYolwQcx), [DJFILLSP](https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7) | [Yo Quiero Te Namorar](https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq) | 3:18 |
-| 46 | [Anel da Pandora](https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU) | [GR€G MC](https://open.spotify.com/artist/3rcpxbWqJ2yXAiWwwBOj0u), [ESCOB4R](https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy) | [Anel da Pandora](https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH) | 3:19 |
+| 44 | [Anel da Pandora](https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU) | [GR€G MC](https://open.spotify.com/artist/3rcpxbWqJ2yXAiWwwBOj0u), [ESCOB4R](https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy) | [Anel da Pandora](https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH) | 3:19 |
+| 45 | [Arrepios](https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj) | [Arrepios](https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg) | 3:25 |
+| 46 | [Yo Quiero Te Namorar](https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf) | [NegrãoDoCéu](https://open.spotify.com/artist/7IRAMOb7oQMFe3vYolwQcx), [DJFILLSP](https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7) | [Yo Quiero Te Namorar](https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq) | 3:18 |
 | 47 | [Medusa](https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Medusa](https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT) | 2:24 |
 | 48 | [Só Me Usa](https://open.spotify.com/track/09Cf8HaJnxYlJgKESVv5HL) | [Mc Robs](https://open.spotify.com/artist/5jysNZ8I6vAiNTsFbrIj1K), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Só Me Usa](https://open.spotify.com/album/0xmojnhZydiC9P120Le1Ol) | 2:34 |
-| 49 | [5 Sentidos](https://open.spotify.com/track/05mGzXNuvGKByWkzDp2ID1) | [Morgado](https://open.spotify.com/artist/18PzCN6SSqd7FcS21URnnN), [Pedro Toro](https://open.spotify.com/artist/2FHYFId438DDYQT3crCjvf), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [5 Sentidos](https://open.spotify.com/album/1s28pGCRDJ4u6D7OCStD3z) | 2:44 |
+| 49 | [Te Vejo Mais Tarde](https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Éffe](https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW) | [Te Vejo Mais Tarde](https://open.spotify.com/album/5nqd1TC3Dyn6v5HE5FLwbv) | 1:54 |
 
-Snapshot ID: `MCxhM2Y3MThmNDExNzM3NjRjOTMzNzgxZmMyZDZhNjA4N2U3MTU2ZGFk`
+Snapshot ID: `MCxkMTIyNjE2NjFjY2QwZTBkNDUwY2IyODlmYTAxYWUxNDJlZGQyY2Uw`

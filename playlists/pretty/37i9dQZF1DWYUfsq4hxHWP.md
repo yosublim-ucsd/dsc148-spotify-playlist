@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Grant Gilbert, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,427 likes - 182 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,481 likes - 182 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 181 | [All I Need](https://open.spotify.com/track/0ALoQRB70pKZ7uQJn73ayj) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [All I Need](https://open.spotify.com/album/4gZKOtJnkoalUg98BQONK8) | 2:51 |
 | 182 | [Heart Ain't Gonna Break Itself](https://open.spotify.com/track/7eEgQXDglOtRow46n0bcbh) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0) | [Heart Ain't Gonna Break Itself](https://open.spotify.com/album/2ermdyMMGsZEvXe4tmMZBq) | 2:38 |
 
-Snapshot ID: `MCw0Yjk1ZmY1YjAyOWYwZWMxZTMwN2ViYTk0M2NkMTVhNjJjMjBkOTAx`
+Snapshot ID: `MCw4YzcxM2IwOGUwMDE4YmZiODBiOTBkNjY0MGJlOGE4N2M3NDc3ODI1`

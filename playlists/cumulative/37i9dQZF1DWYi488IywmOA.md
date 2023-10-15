@@ -4,7 +4,7 @@
 
 > Blues favorites from 2022\. Cover: Eric Gales \#SpotifyWrapped
 
-148 songs - 9 hr 45 min
+149 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Barnyard Blues](https://open.spotify.com/track/3lyfFHxjdqYc5V5JvdyYbr) | [Dylan Triplett](https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN) | [Who Is He?](https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e) | 3:38 | 2022-11-30 |  |
 | [Barnyard Blues](https://open.spotify.com/track/6uHLEJBCQU5IQmjcWJcZcf) | [Dylan Triplett](https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN) | [Who Is He?](https://open.spotify.com/album/7aLKd7sUTw84sDLTTPpNs6) | 3:38 | 2022-11-30 | 2023-04-30 |
 | [Big Legged Man](https://open.spotify.com/track/7JDEtVgmR53Yi9S0C1Vktj) | [Boneshakers](https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m) | [One Foot In The Groove](https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD) | 4:25 | 2022-11-30 |  |
-| [Black Leaves](https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2) | 1:44 | 2022-11-30 |  |
+| [Black Leaves](https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2) | 1:44 | 2022-11-30 | 2023-10-15 |
+| [Black Leaves](https://open.spotify.com/track/7wTXoVGiDC9jS0oxdfwLKv) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/1TNajOxU7C8rl6ciy5r1Im) | 1:44 | 2022-11-30 |  |
 | [Black Myself](https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:21 | 2021-12-01 | 2022-12-01 |
 | [Blacksnake Blues](https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Blacksnake Blues](https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz) | 11:14 | 2022-11-30 |  |
 | [Bonnie](https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 4:37 | 2022-11-30 |  |

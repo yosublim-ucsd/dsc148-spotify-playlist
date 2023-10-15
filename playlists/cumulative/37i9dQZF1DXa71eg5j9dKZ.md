@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Fred again..
 
-815 songs - 2 day 10 hr 2 min
+816 songs - 2 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,8 @@
 | [Forever](https://open.spotify.com/track/0z7mJ4dACjuoBqH7RC3mbm) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Forever](https://open.spotify.com/album/4rubgFY3CcvXg0dqQd18LH) | 4:28 | 2022-06-23 | 2022-09-23 |
 | [Forms Of Love](https://open.spotify.com/track/5YUyOSNj5gmRjZQ7yZ3JTA) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Forms Of Love](https://open.spotify.com/album/59xZYca7c3Rn0IhAzEqHUg) | 6:03 | 2022-05-27 | 2022-08-27 |
 | [Four Thirty](https://open.spotify.com/track/3GRzGFVipiF8cDS3heRdoP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Focus](https://open.spotify.com/album/6ZfkXGIGWjgk7SUn0rOB3S) | 2:43 | 2023-06-08 |  |
-| [Foxes](https://open.spotify.com/track/0PwglH43kbPyHIrrhNtN3R) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Foxes](https://open.spotify.com/album/06KpNKpi3MlQwkwSgqdWGD) | 4:15 | 2023-09-15 |  |
+| [Foxes](https://open.spotify.com/track/0PwglH43kbPyHIrrhNtN3R) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Foxes](https://open.spotify.com/album/06KpNKpi3MlQwkwSgqdWGD) | 4:15 | 2023-09-15 | 2023-10-15 |
+| [Foxes](https://open.spotify.com/track/5rGtpIBaTXQKcFVDlrAerI) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y) | 4:15 | 2023-10-13 |  |
 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 | 2023-07-27 |  |
 | [Freefall \(feat\. Moxie Knox\) \- Edit](https://open.spotify.com/track/5imVAY20zvISpCoBuoeqZ2) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Moxie Knox](https://open.spotify.com/artist/74CYFM6ycgObPCetlhgcbj) | [Freefall \(feat\. Moxie Knox\)](https://open.spotify.com/album/1yiyLSoz0FdiTDCUCwhd69) | 3:07 | 2022-11-11 | 2023-05-12 |
 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 | 2022-01-07 | 2022-05-13 |
@@ -699,7 +700,7 @@
 | [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 | 2023-09-08 |  |
 | [Tell Me](https://open.spotify.com/track/7uAa5O6x6wDF79xHLloBHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Tell Me](https://open.spotify.com/album/6vyF5kNaivtBwzZWCIlMXq) | 5:00 | 2023-09-08 | 2023-09-09 |
 | [Tell You What It Is](https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Tell You What It Is](https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu) | 3:07 | 2022-05-13 | 2022-07-15 |
-| [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:02 | 2023-10-13 |  |
+| [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 | 2023-10-13 |  |
 | [That's Too Slow](https://open.spotify.com/track/7AtNHY2plqqo6WrY239YUd) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Eyes Open EP](https://open.spotify.com/album/13Ua4Sd4A8WhG3CgaNOKT0) | 4:21 | 2021-11-24\* | 2022-01-14 |
 | [The Attention Deficit Track \- Edit](https://open.spotify.com/track/4Quui2la1NwpqLDXUgi5tm) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB) | [The Attention Deficit Track](https://open.spotify.com/album/20PFDRbltmy3mHCn7vPl2Y) | 3:48 | 2022-06-23 | 2022-09-16 |
 | [The Beast](https://open.spotify.com/track/5nE5gmDADdXZ3LwES22kYt) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [The Beast](https://open.spotify.com/album/3U9XwEP5Ia637qr6yX3578) | 4:35 | 2021-11-24\* | 2021-12-10 |

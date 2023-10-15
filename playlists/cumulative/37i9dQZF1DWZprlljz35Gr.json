@@ -656,10 +656,32 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 152843,
       "name": "John The Revelator",
       "url": "https://open.spotify.com/track/343lHi9sB146HH6sGmjsL1"
+    },
+    {
+      "album": {
+        "name": "John The Revelator",
+        "url": "https://open.spotify.com/album/6y02mgEYFdBIlR2w3OjWm2"
+      },
+      "artists": [
+        {
+          "name": "Mortal Prophets",
+          "url": "https://open.spotify.com/artist/3Y2UzZ6Uelgt7zmIuWlZ6R"
+        },
+        {
+          "name": "Gary Lucas",
+          "url": "https://open.spotify.com/artist/7pfGmIs49lIUBtoqAtyUEH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152843,
+      "name": "John The Revelator",
+      "url": "https://open.spotify.com/track/7dMvX09kC2aTr1xlSEdWdC"
     },
     {
       "album": {

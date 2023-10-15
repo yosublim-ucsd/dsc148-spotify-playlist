@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 453587,
+  "num_followers": 452731,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWE4ZWMwNzY3MjczNWZmODNjZjJhMzBkMWUzOGQ0MDM1ZWIzZWYy",
+  "snapshot_id": "MCw4NzE4ZjAzNmM0ZjkzZDE4Zjc0MWVkNWJmNDJjYzUxZmZmMmQwZWJh",
   "tracks": [
     {
       "added_at": "2023-10-11 04:28:43",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-10-11 04:28:43",
       "album": {
-        "name": "P.S. I LOVE YOU",
-        "url": "https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq"
-      },
-      "artists": [
-        {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
-        }
-      ],
-      "duration_ms": 240903,
-      "name": "P.S. I LOVE YOU",
-      "url": "https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy"
-    },
-    {
-      "added_at": "2023-10-11 04:28:43",
-      "album": {
         "name": "YURA",
         "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 262060,
       "name": "Cinta Dan Rahasia",
       "url": "https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib"
+    },
+    {
+      "added_at": "2023-10-11 04:28:43",
+      "album": {
+        "name": "P.S. I LOVE YOU",
+        "url": "https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 240903,
+      "name": "P.S. I LOVE YOU",
+      "url": "https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy"
     },
     {
       "added_at": "2023-10-11 04:28:43",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-10-11 04:28:43",
       "album": {
-        "name": "Mesin Waktu",
-        "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
+        "name": "f\u00e1bula",
+        "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
       },
       "artists": [
         {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
         }
       ],
-      "duration_ms": 262734,
-      "name": "Mesin Waktu",
-      "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
+      "duration_ms": 220000,
+      "name": "Melawan Restu",
+      "url": "https://open.spotify.com/track/6H7lvP0NgAF39Rn3qve4Og"
     },
     {
       "added_at": "2023-10-11 04:28:43",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-10-11 04:28:43",
       "album": {
-        "name": "f\u00e1bula",
-        "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
+        "name": "Mesin Waktu",
+        "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
       },
       "artists": [
         {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Melawan Restu",
-      "url": "https://open.spotify.com/track/6H7lvP0NgAF39Rn3qve4Og"
+      "duration_ms": 262734,
+      "name": "Mesin Waktu",
+      "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
     },
     {
       "added_at": "2023-10-11 04:28:43",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-10-11 04:28:43",
       "album": {
+        "name": "Belum Siap Kehilangan - Single",
+        "url": "https://open.spotify.com/album/6WwKxL6zDhU9ENkD0VnzPW"
+      },
+      "artists": [
+        {
+          "name": "Stevan Pasaribu",
+          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
+        }
+      ],
+      "duration_ms": 288333,
+      "name": "Belum Siap Kehilangan",
+      "url": "https://open.spotify.com/track/3TSie4NZOh12yHhDwulBBV"
+    },
+    {
+      "added_at": "2023-10-11 04:28:43",
+      "album": {
         "name": "Kesempurnaan Cinta",
         "url": "https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 199138,
       "name": "Yang Terdalam",
       "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
-    },
-    {
-      "added_at": "2023-10-11 04:28:43",
-      "album": {
-        "name": "Belum Siap Kehilangan - Single",
-        "url": "https://open.spotify.com/album/6WwKxL6zDhU9ENkD0VnzPW"
-      },
-      "artists": [
-        {
-          "name": "Stevan Pasaribu",
-          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
-        }
-      ],
-      "duration_ms": 288333,
-      "name": "Belum Siap Kehilangan",
-      "url": "https://open.spotify.com/track/3TSie4NZOh12yHhDwulBBV"
     },
     {
       "added_at": "2023-10-11 04:28:43",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-10-11 04:28:43",
       "album": {
-        "name": "My Happy Life",
-        "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
-      },
-      "artists": [
-        {
-          "name": "Tompi",
-          "url": "https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Menghujam Jantungku",
-      "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
-    },
-    {
-      "added_at": "2023-10-11 04:28:43",
-      "album": {
         "name": "Musim Yang Baik",
         "url": "https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG"
       },
@@ -1211,18 +1195,34 @@
     {
       "added_at": "2023-10-11 04:28:43",
       "album": {
-        "name": "Penantian Berharga",
-        "url": "https://open.spotify.com/album/4qsujxuNSgTvt6xd8oMvt1"
+        "name": "My Happy Life",
+        "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
       },
       "artists": [
         {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+          "name": "Tompi",
+          "url": "https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G"
         }
       ],
-      "duration_ms": 218910,
-      "name": "Penantian Berharga",
-      "url": "https://open.spotify.com/track/16kiuKjacDC4bFX9flnLA6"
+      "duration_ms": 213213,
+      "name": "Menghujam Jantungku",
+      "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
+    },
+    {
+      "added_at": "2023-10-11 04:28:43",
+      "album": {
+        "name": "Kedua",
+        "url": "https://open.spotify.com/album/4pvGf4ImdWsNYSLIci5SP7"
+      },
+      "artists": [
+        {
+          "name": "Virzha",
+          "url": "https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy"
+        }
+      ],
+      "duration_ms": 241631,
+      "name": "Tentang Rindu",
+      "url": "https://open.spotify.com/track/0Xu6oMOzyXykITJNfC2dsq"
     },
     {
       "added_at": "2023-10-11 04:28:43",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-10-11 04:28:43",
       "album": {
-        "name": "Kedua",
-        "url": "https://open.spotify.com/album/4pvGf4ImdWsNYSLIci5SP7"
-      },
-      "artists": [
-        {
-          "name": "Virzha",
-          "url": "https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy"
-        }
-      ],
-      "duration_ms": 241631,
-      "name": "Tentang Rindu",
-      "url": "https://open.spotify.com/track/0Xu6oMOzyXykITJNfC2dsq"
-    },
-    {
-      "added_at": "2023-10-11 04:28:43",
-      "album": {
         "name": "Peace, Love And Respect",
         "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
       },
@@ -1279,18 +1263,34 @@
     {
       "added_at": "2023-10-11 04:28:43",
       "album": {
-        "name": "Dari Mata",
-        "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
+        "name": "Penantian Berharga",
+        "url": "https://open.spotify.com/album/4qsujxuNSgTvt6xd8oMvt1"
       },
       "artists": [
         {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
         }
       ],
-      "duration_ms": 223462,
-      "name": "Dari Mata",
-      "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
+      "duration_ms": 218910,
+      "name": "Penantian Berharga",
+      "url": "https://open.spotify.com/track/16kiuKjacDC4bFX9flnLA6"
+    },
+    {
+      "added_at": "2023-10-11 04:28:43",
+      "album": {
+        "name": "Aku Yang Salah",
+        "url": "https://open.spotify.com/album/7swcI60yTRtgNUncVzGyRx"
+      },
+      "artists": [
+        {
+          "name": "Mahalini, Nuca",
+          "url": "https://open.spotify.com/artist/489513yKU2UDov1q0w5BRL"
+        }
+      ],
+      "duration_ms": 251553,
+      "name": "Aku Yang Salah",
+      "url": "https://open.spotify.com/track/4D41thx2lQiCY2r0QsfVYc"
     },
     {
       "added_at": "2023-10-11 04:28:43",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-10-11 04:28:43",
       "album": {
+        "name": "Dari Mata",
+        "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "duration_ms": 223462,
+      "name": "Dari Mata",
+      "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
+    },
+    {
+      "added_at": "2023-10-11 04:28:43",
+      "album": {
         "name": "Handmade",
         "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 257252,
       "name": "Kali Kedua",
       "url": "https://open.spotify.com/track/4CvYHgcpBFbefsz6Q55ID1"
-    },
-    {
-      "added_at": "2023-10-11 04:28:43",
-      "album": {
-        "name": "Aku Yang Salah",
-        "url": "https://open.spotify.com/album/7swcI60yTRtgNUncVzGyRx"
-      },
-      "artists": [
-        {
-          "name": "Mahalini, Nuca",
-          "url": "https://open.spotify.com/artist/489513yKU2UDov1q0w5BRL"
-        }
-      ],
-      "duration_ms": 251553,
-      "name": "Aku Yang Salah",
-      "url": "https://open.spotify.com/track/4D41thx2lQiCY2r0QsfVYc"
     }
   ],
   "unique_name": "Santai Sejenak",

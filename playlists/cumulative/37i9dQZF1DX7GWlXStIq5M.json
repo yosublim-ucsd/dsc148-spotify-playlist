@@ -10280,7 +10280,7 @@
     {
       "album": {
         "name": "DARK POP",
-        "url": "https://open.spotify.com/album/444h5b7o8GPlRWvO7gMjTV"
+        "url": "https://open.spotify.com/album/3gAv7X3dUDv2k1wqDf68qQ"
       },
       "artists": [
         {
@@ -10295,6 +10295,28 @@
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 150965,
+      "name": "Seu Fim",
+      "url": "https://open.spotify.com/track/4UVSNgaHHZzV756hOpIcXP"
+    },
+    {
+      "album": {
+        "name": "DARK POP",
+        "url": "https://open.spotify.com/album/444h5b7o8GPlRWvO7gMjTV"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
+        },
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-15",
       "duration_ms": 150965,
       "name": "Seu Fim",
       "url": "https://open.spotify.com/track/61GqCDHvztHQKJzPdmHIml"

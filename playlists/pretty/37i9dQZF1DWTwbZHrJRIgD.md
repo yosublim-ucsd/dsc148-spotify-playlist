@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,927 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,535 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 34 | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS) | 4:28 |
 | 35 | [Ek Zindagi \(From "Angrezi Medium"\)](https://open.spotify.com/track/6shPaz0rzOAGatiY6X6zLQ) | [Taniskaa Sanghvi](https://open.spotify.com/artist/17slvN7PVFyVcRtWJchRqU), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Ek Zindagi \(From "Angrezi Medium"\)](https://open.spotify.com/album/6542lxPaayNLGe9DbKBU8I) | 2:50 |
 | 36 | [Bom Diggy](https://open.spotify.com/track/7Dhy1R9NmD96wfr7VJEN37) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Jasmin Walia](https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8) | [Bom Diggy \- Single](https://open.spotify.com/album/1v41NSZw0M9A9GxHRvPpn2) | 3:27 |
-| 37 | [Liggi](https://open.spotify.com/track/66Nmp3ztIMqX1j8yYtWl1X) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Liggi](https://open.spotify.com/album/5r9bLIpSpE5ddweubUjw0t) | 3:01 |
+| 37 | [Liggi](https://open.spotify.com/track/7tbzfR8ZvZzJEzy6v0d6el) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Dev](https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE) | 3:01 |
 | 38 | [Tum Mile \- Lofi Flip](https://open.spotify.com/track/1CsRoIeHaHRysPMoEaKRoQ) | [KSW](https://open.spotify.com/artist/2GhRzK7XzixKuZYEEfUkBR), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Tum Mile \(Lofi Flip\)](https://open.spotify.com/album/3HLuAGbNIeDhx1MlR9auER) | 4:02 |
 | 39 | [Ghungroo \(From "War"\)](https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Ghungroo \(From "War"\)](https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ) | 5:02 |
 | 40 | [Matargashti](https://open.spotify.com/track/5GeBgck1MU2tlIkMpsn8uT) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Tamasha](https://open.spotify.com/album/2CUXo26JAWIbQx0EVMnjpA) | 5:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 49 | [Jaane Kyun](https://open.spotify.com/track/6M2UnI1LnXuXlWU54CKmKx) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Dostana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MzefJUmigFTnjful2wuum) | 4:37 |
 | 50 | [Offo](https://open.spotify.com/track/3f26GAn3yOXfoclLyN8AdD) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 3:33 |
 
-Snapshot ID: `MCxjYjBjZDk3OTcyMjg2MGFlMjg2NTY4OTA2ODI5ODczNzE2YzdmZjg0`
+Snapshot ID: `MCxjMGM5NDc0Y2IyYmQ3NGI0MjRlZDFhN2Q2Nzk0YmVjNWIyZGY0ZGQ0`

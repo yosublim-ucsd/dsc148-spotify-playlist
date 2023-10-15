@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Brittany Howard along with the best alternative songs of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,281 likes - 65 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,289 likes - 65 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 64 | [life goes by](https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [life goes by](https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY) | 2:33 |
 | 65 | [To My Heart](https://open.spotify.com/track/523UtGlHOQ4SM3hrMZEP4n) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [To My Heart \(Sped Up\)](https://open.spotify.com/album/6exQ9viowwEEULRXs2jAMq) | 3:05 |
 
-Snapshot ID: `MCxkYTc0MTAwOTI4MWYwNDk0YmQ0M2M4MDY1Nzg1MDU5NjMzNzBjYjJj`
+Snapshot ID: `MCw3MmI3NGMyZDhhZTBiYjJiN2VhNmYzMWFmMGUyYTc1YTQ4N2MzZmI1`

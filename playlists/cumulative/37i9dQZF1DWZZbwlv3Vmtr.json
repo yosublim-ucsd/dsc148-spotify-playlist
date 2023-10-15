@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/5v2UDMEhWTqNnwdTYdQXyI"
+      },
+      "artists": [
+        {
+          "name": "Gooee",
+          "url": "https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123385,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/54Q1fME5hhgFWipi1SkTtU"
+    },
+    {
+      "album": {
         "name": "Coffee Stand",
         "url": "https://open.spotify.com/album/4T8kEchzLMpyPlHzrqMRbZ"
       },
@@ -752,7 +770,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 95999,
       "name": "autumn nights",
       "url": "https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot"
@@ -4086,7 +4104,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 132857,
       "name": "Friday Dazed",
       "url": "https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9"
@@ -9186,7 +9204,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 124411,
       "name": "Paris",
       "url": "https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB"

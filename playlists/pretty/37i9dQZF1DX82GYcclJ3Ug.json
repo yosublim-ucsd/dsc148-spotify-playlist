@@ -1,12 +1,12 @@
 {
   "description": "No rules or boundaries. The very best new alternative tracks. Cover: The Last Dinner Party",
-  "num_followers": 1118917,
+  "num_followers": 1118674,
   "original_name": "The New Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTc4NTM5YzA1NTMzODEwYTM3Yzg5OTFlZWQwZDI3NGZjYTk0MWI2",
+  "snapshot_id": "MCw5Zjc3ZTk5NjUzZDBlOTRlY2I0ZjgzZTc5NTZmYTE4ZmUyNTc1Nzc5",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -540,7 +540,7 @@
       "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Love Lines",
-        "url": "https://open.spotify.com/album/1ej1wD4Xw3T47czXKeFixm"
+        "url": "https://open.spotify.com/album/1FY6Ov9aGkNEhXa7GbeRwM"
       },
       "artists": [
         {
@@ -550,7 +550,7 @@
       ],
       "duration_ms": 160081,
       "name": "Love Song",
-      "url": "https://open.spotify.com/track/6AoAAW6AJBdZ9Ket9nUhSG"
+      "url": "https://open.spotify.com/track/0p2RzDuT4BbboYCsW8LT7C"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "The One I Used To Love",
+        "url": "https://open.spotify.com/album/0nhyrpUhulzCMO5KowcFvm"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 221802,
+      "name": "The One I Used To Love",
+      "url": "https://open.spotify.com/track/752icFa2OOLztKyoacg4n9"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Feel Like Me",
         "url": "https://open.spotify.com/album/79y7ORz2Q77AnlJnNaS46K"
       },
@@ -947,18 +963,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "The One I Used To Love",
-        "url": "https://open.spotify.com/album/0nhyrpUhulzCMO5KowcFvm"
+        "name": "Blanket",
+        "url": "https://open.spotify.com/album/1yUYTi45DvH4lTZnrX9hib"
       },
       "artists": [
         {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
         }
       ],
-      "duration_ms": 221802,
-      "name": "The One I Used To Love",
-      "url": "https://open.spotify.com/track/752icFa2OOLztKyoacg4n9"
+      "duration_ms": 117840,
+      "name": "Blanket",
+      "url": "https://open.spotify.com/track/34mIasINn8fmO54la1cDaM"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Blanket",
-        "url": "https://open.spotify.com/album/1yUYTi45DvH4lTZnrX9hib"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        }
-      ],
-      "duration_ms": 117840,
-      "name": "Blanket",
-      "url": "https://open.spotify.com/track/34mIasINn8fmO54la1cDaM"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "I Got Heaven",
         "url": "https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l"
       },
@@ -1455,6 +1455,22 @@
       "duration_ms": 178169,
       "name": "TV",
       "url": "https://open.spotify.com/track/7t1Q5yppvM7mwkV5jihZMf"
+    },
+    {
+      "added_at": "2023-10-14 03:21:17",
+      "album": {
+        "name": "CURSED",
+        "url": "https://open.spotify.com/album/6qtO9eprkwbZatg1u6qmiO"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "duration_ms": 139764,
+      "name": "CURSED",
+      "url": "https://open.spotify.com/track/5kobhRGVKZeSvklVCr8zR6"
     },
     {
       "added_at": "2023-10-13 04:00:00",

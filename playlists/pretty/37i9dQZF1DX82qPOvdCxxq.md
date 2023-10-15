@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > Go deep in discovery for great new songs of faith and inspiration\. Cover:  Abby Robertson
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,219 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,238 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 49 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3O6HQpzeISpCmZ476CbEz5) | [Natalie Forteza](https://open.spotify.com/artist/79TkkUwYexkd0sUjSpfV2l) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/3RBcORvG8ZbTDOGCpaG2G4) | 3:51 |
 | 50 | [Let Me Find Thee](https://open.spotify.com/track/0UodTBf4fjeCEnbTlxLomd) | [Matthew Smith](https://open.spotify.com/artist/5KIdsYHVdOsekNYNValNzK) | [Let Me Find Thee](https://open.spotify.com/album/1GbrKGOpocbsdvzckBqHDe) | 4:01 |
 
-Snapshot ID: `MCw1M2VlMmNlOWQxMmE2ODhkNmM2MzI5NTVhNTJjM2FjMzg2NzFiY2Zi`
+Snapshot ID: `MCxkNDQ2ODA0OTdhMjk0MTdlN2FiYjE5YWM4NDRkZjM5NDExZjdjY2Zl`

@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-188 songs - 10 hr 11 min
+189 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [in heat.](https://open.spotify.com/track/6T3sH1EuBMijU1MHe2WFJt) | [Hentai Xander](https://open.spotify.com/artist/7J67YP5oiObsKJkC7mrRWW) | [in heat.](https://open.spotify.com/album/0K4n11MU36fn5LewWZSOQ7) | 1:56 | 2021-12-03 | 2022-07-29 |
 | [In My Mind \(feat\. Crystal Waters\)](https://open.spotify.com/track/5oE4XVIk2BM2M6f2KBFiNQ) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [In My Mind \(feat\. Crystal Waters\)](https://open.spotify.com/album/4fUxC04ujnMOcB6q6gJD48) | 2:32 | 2022-04-22 | 2022-05-12 |
 | [In This Darkness](https://open.spotify.com/track/6qrcJkIpuWpxH0ruS8WVAy) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [In This Darkness](https://open.spotify.com/album/1oWMwzvnFWUv9NsSkQPKRT) | 3:17 | 2023-03-14 | 2023-04-26 |
-| [Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 9:38 | 2021-12-03 |  |
+| [Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 9:38 | 2021-12-03 | 2023-10-15 |
 | [It's Okay To Cry](https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:50 | 2021-12-03 | 2022-04-17 |
 | [It's That Time](https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [It's That Time](https://open.spotify.com/album/0kUIijubTS9zx7cBu6HiVv) | 4:00 | 2023-08-24 | 2023-08-27 |
 | [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 | 2023-08-25 |  |
@@ -193,6 +193,7 @@
 | [Who's That Chick? \(feat\. Rihanna\)](https://open.spotify.com/track/75d6e3GrR6aTeMLMF7fxgK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One More Love](https://open.spotify.com/album/6PXqQOVeSTmA90oXv1iw32) | 3:21 | 2022-03-02 | 2022-07-21 |
 | [Winona](https://open.spotify.com/track/3ilkEyg6OCtd9qCnOJkPzU) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Winona](https://open.spotify.com/album/3IxfZFzG7NM4rRovxBhguw) | 8:31 | 2021-12-03 | 2022-04-21 |
 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 | 2021-12-03 | 2022-04-21 |
+| [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 | 2023-10-11 |  |
 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2021-12-03 | 2022-04-19 |
 | [You're in My System \- Dennis Quin Vocal Mix](https://open.spotify.com/track/7uRqCJHRsrkBU5W3RG0cnL) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B), [Troy Denari](https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [You're in My System \(Dennis Quin Remixes\)](https://open.spotify.com/album/11hmXIEpilxzxlCKjdaK6U) | 6:05 | 2023-07-06 | 2023-08-19 |
 | [Я буду ебать](https://open.spotify.com/track/3lFrFQcZWPLa8WEG7xoc4b) | [Moreart](https://open.spotify.com/artist/3IuK4FcT3hsjH1GbqHEb9j), [IHI](https://open.spotify.com/artist/0bcKHsji3iZ7gIayl43Xan) | [Я буду ебать](https://open.spotify.com/album/7KmkBV5L8rYExv79lF7Pxp) | 2:21 | 2021-12-23 | 2022-05-26 |

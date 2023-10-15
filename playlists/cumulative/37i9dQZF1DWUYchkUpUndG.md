@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI?si=V96XUk50TDKy0dXWZ5ntgw">Joyce Blessing</a>
 
-985 songs - 3 day 5 hr 56 min
+986 songs - 3 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Appreciation \(Momore\)](https://open.spotify.com/track/4yofuzvPXXz7bhBaToYhKP) | [Tkellz](https://open.spotify.com/artist/6w7eO85veDbb6SE1rAA8uO), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Appreciation \(Momore\)](https://open.spotify.com/album/04TuJ4oJkUri8y7vfLDTc5) | 3:09 | 2023-08-04 | 2023-08-18 |
 | [ARA](https://open.spotify.com/track/4jeY6UAMrKgBUUjLB7PDg5) | [Yinka Osho](https://open.spotify.com/artist/3DekM6bxLS8BtjQgSx8EyA) | [ARA](https://open.spotify.com/album/0qrnhGGtJeyoTl2KfVkz6g) | 4:01 | 2023-06-23 | 2023-07-07 |
 | [Are You Ready?](https://open.spotify.com/track/5LFe8WeORerOU7QWa0UrvA) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY), [OluwaShalom](https://open.spotify.com/artist/4cAwYOeyghW391YpCK7hhM) | [Are You Ready?](https://open.spotify.com/album/6EIV2qv80qDhR7Y2556x75) | 6:39 | 2023-07-28 | 2023-08-04 |
-| [Arise \(Take Over\)](https://open.spotify.com/track/1WvWX4EATuTElhpcgsygYr) | [Preye Orok](https://open.spotify.com/artist/5nikYjyK1nrDinw2xwc3eh), [Prosper Whyte](https://open.spotify.com/artist/7E3KiCBeuZKkJPnxe7U2Xo) | [Arise \(Take Over\)](https://open.spotify.com/album/03WCJj7J66iKoK0NAn2Pj5) | 6:10 | 2023-10-13 |  |
+| [Arise \(Take Over\)](https://open.spotify.com/track/1WvWX4EATuTElhpcgsygYr) | [Preye Orok](https://open.spotify.com/artist/5nikYjyK1nrDinw2xwc3eh), [Prosper King](https://open.spotify.com/artist/677IMyYdfEJkb09sUl4ORp) | [Arise \(Take Over\)](https://open.spotify.com/album/03WCJj7J66iKoK0NAn2Pj5) | 6:10 | 2023-10-13 |  |
 | [As Hy Weer Kom](https://open.spotify.com/track/5XRiNFuNKfDBUlAIUqmNSm) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [As Hy Weer Kom](https://open.spotify.com/album/7lkDfSy0MUwIp6N8JQCZQF) | 3:07 | 2023-08-11 | 2023-08-25 |
 | [As we pray \- Prayer charge](https://open.spotify.com/track/4svNtsUGDRGLRCfQq8LSMg) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [As we pray \(Prayer charge\)](https://open.spotify.com/album/2AkXQqXDLSrntsnWaLlhgM) | 5:45 | 2023-06-30 | 2023-07-14 |
 | [Aseda 3 Music \- Live](https://open.spotify.com/track/0WlZUtnSjrhcxCxAM4ZWC6) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [Aseda 3 Music \(Live\)](https://open.spotify.com/album/4ooUFS9MpoDPmblApehAqw) | 4:17 | 2023-08-04 | 2023-08-18 |
@@ -876,6 +876,7 @@
 | [Think Am](https://open.spotify.com/track/6AuBdPzW3KEFMK0HWLKKYI) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv) | [Think Am](https://open.spotify.com/album/3fEhFgxFdEu24Zhkcl1Osd) | 2:32 | 2023-08-18 | 2023-09-01 |
 | [This Is Our God](https://open.spotify.com/track/6StHK5sgz9rjxVZv7CApW2) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [This Is Our God](https://open.spotify.com/album/1AOGcBpy6CxShBK8Pu3wB5) | 4:25 | 2023-07-14 | 2023-07-28 |
 | [This is The Day](https://open.spotify.com/track/7JAz5nfI0jvnI0wwfIHgEJ) | [Day Three Music](https://open.spotify.com/artist/7iQCW7VpjTEPRFmCEKsLwD), [Femi Sax](https://open.spotify.com/artist/0j0xrYyXTbNsd9wfsLD5Ur) | [This is The Day](https://open.spotify.com/album/5eCpZ7uhC4cKPEqko2abyc) | 5:38 | 2023-06-02 | 2023-06-16 |
+| [THIS YEAR \(Blessings\) \(feat\. Ehis 'D' Greatest\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \(feat\. Ehis 'D' Greatest\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 | 2023-10-14 |  |
 | [Through These Eyes](https://open.spotify.com/track/0hbaSZe0zAILE4fn5lReND) | [The Matsiko World Orphan Choir](https://open.spotify.com/artist/4yRxWaKfnOplibd6dzOJLE) | [Through These Eyes](https://open.spotify.com/album/6OZzN3vwYtVxE1weZFHkEp) | 4:09 | 2023-06-23 | 2023-07-07 |
 | [To The One](https://open.spotify.com/track/63jFXcyV4O9hxNvguAhXfr) | [Nqubeko Mbatha](https://open.spotify.com/artist/3WGpAjwdlhofFBmbpaWpKP), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [To The One](https://open.spotify.com/album/5qziBnjmCl8ZhpQNEGvLkG) | 9:54 | 2023-06-02 | 2023-06-16 |
 | [Today](https://open.spotify.com/track/2lYo77nYrYHxK1dfbXOUWr) | [OGmusic](https://open.spotify.com/artist/7bkAd1Exm8lAv2ZoiIhxZl) | [Today](https://open.spotify.com/album/42hBSYo8UAZgOvBTdl0Sol) | 3:02 | 2023-05-26 | 2023-06-09 |

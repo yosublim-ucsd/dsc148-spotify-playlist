@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,462 likes - 56 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,535 likes - 56 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 9 | [Liz On Top Of The World \- From "Pride & Prejudice" Soundtrack](https://open.spotify.com/track/6QuCKdMsTW8ppnUiFmxJLF) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Pride and Prejudice OST](https://open.spotify.com/album/31qEnY1MFmGwOdgjLLClPd) | 1:22 |
 | 10 | [Gabriel's Oboe](https://open.spotify.com/track/6opPrJUpq4Pl5c84eCwLmo) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [The Mission: Music From The Motion Picture](https://open.spotify.com/album/2fOlcWrSR032MxwMCQe9LA) | 2:14 |
 | 11 | [Hollow in the Ferns](https://open.spotify.com/track/7ChcR1Vdev6qnpcELoU5tI) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 3:38 |
-| 12 | [Toss A Coin To Your Witcher \- Solo Piano Version](https://open.spotify.com/track/2ITcTvOeKgwLGjmmZrpdCW) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6), [Sonya Belousova & Giona Ostinelli](https://open.spotify.com/artist/6UgYjZpbEWBZL491Qzxw2E) | [Toss A Coin To Your Witcher \(Solo Piano Version\)](https://open.spotify.com/album/1mxxBPAxd3l5XVUtLEB4BM) | 3:19 |
+| 12 | [Toss A Coin To Your Witcher \- Solo Piano Version](https://open.spotify.com/track/2ITcTvOeKgwLGjmmZrpdCW) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [Toss A Coin To Your Witcher \(Solo Piano Version\)](https://open.spotify.com/album/1mxxBPAxd3l5XVUtLEB4BM) | 3:19 |
 | 13 | [The Flight To Neverland \- From "Hook"](https://open.spotify.com/track/5lRilqjJwiywcHntGRWbpx) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [John Williams: A Life In Music](https://open.spotify.com/album/6qhYCCFVOQKNFq5QbYpje8) | 4:56 |
 | 14 | [Beauty and the Beast \- From "Beauty and the Beast"](https://open.spotify.com/track/4D8lQriIxEzw7JKboShO2X) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [The Disney Book](https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z) | 4:09 |
 | 15 | [The Theory of Everything](https://open.spotify.com/track/5fJD7wh9yoSTpl9d5rgl7l) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 1:08 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 55 | [Nuovo Cinema Paradiso](https://open.spotify.com/track/4xx3UI7cLCk1awQPAPLeHj) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Nuovo Cinema Paradiso \(Original Motion Picture Soundtrack\) \[Remastered Edition\]](https://open.spotify.com/album/0O1LCjDQ6gFjaLG05xj0xH) | 2:58 |
 | 56 | [Under the Stars \- From "The Lion King"/Score](https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:45 |
 
-Snapshot ID: `MCxiMzE5ZTFkMTFhYjUwYTk0ZThlMmI3MGM3MDBkOGNhYTg0MjBjYzYz`
+Snapshot ID: `MCxkYmIwMTI2NmUwZTZjMWJhNjg5Y2I2MDY1ZWY1NzhjNzViMzdhNmZi`

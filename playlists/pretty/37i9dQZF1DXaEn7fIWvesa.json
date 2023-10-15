@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con Jacob Forever en portada.",
-  "num_followers": 3066,
+  "num_followers": 3101,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWZlODQ3ZDZhM2UwZmY1OGFiYzU0ZjBiYzA2OThhMDYzZjVmOWU3",
+  "snapshot_id": "MCwxYTNjMDA1ZWJiZjVjMzg4MDYzNjBlMzNiYjA2NWJjMjEzYjQzZTI1",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -931,22 +931,26 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Un Beso",
-        "url": "https://open.spotify.com/album/68d6YuPRSd9DkddCRQBl2R"
+        "name": "Dicelo",
+        "url": "https://open.spotify.com/album/65akUfK8vk8Nc4i6IM4igH"
       },
       "artists": [
         {
-          "name": "El Kamel",
-          "url": "https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34"
+          "name": "Lianet Rivero",
+          "url": "https://open.spotify.com/artist/3j8PyngjyNhnbOUlWX7Naf"
         },
         {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+          "name": "Lia",
+          "url": "https://open.spotify.com/artist/3AWuifXTvl9lTa9lyjB94Z"
+        },
+        {
+          "name": "Gatillo",
+          "url": "https://open.spotify.com/artist/299LR5yQ0wDij37IEsG1LT"
         }
       ],
-      "duration_ms": 193526,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/74CNQ4u45e0XNWrdqBhG3w"
+      "duration_ms": 153563,
+      "name": "Dicelo",
+      "url": "https://open.spotify.com/track/5asyOj4gG21a2pKzqBIMOk"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -967,6 +971,26 @@
       "duration_ms": 178213,
       "name": "Pobre Coraz\u00f3n - with Lenier",
       "url": "https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Un Beso",
+        "url": "https://open.spotify.com/album/68d6YuPRSd9DkddCRQBl2R"
+      },
+      "artists": [
+        {
+          "name": "El Kamel",
+          "url": "https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 193526,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/74CNQ4u45e0XNWrdqBhG3w"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1055,30 +1079,6 @@
       "duration_ms": 258298,
       "name": "Descaradita",
       "url": "https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "El Campe\u00f3n",
-        "url": "https://open.spotify.com/album/2wVjbn3TSUBnPOfvsiEbwV"
-      },
-      "artists": [
-        {
-          "name": "El Kimiko y Yordy",
-          "url": "https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn"
-        },
-        {
-          "name": "Michel Boutic",
-          "url": "https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9"
-        },
-        {
-          "name": "EL YORDY DK",
-          "url": "https://open.spotify.com/artist/4Sjaa8KPxSPX7VqcixAGn8"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "El Campe\u00f3n",
-      "url": "https://open.spotify.com/track/4vUcoqQTwNQkkzb73UYh3L"
     }
   ],
   "unique_name": "Cubat\u00f3n Miami",

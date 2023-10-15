@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 46912,
+  "num_followers": 47049,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2E2NjQwZjMwYWEyZTI0ZTAzMjk1YTI4ODg1NmFkOTc4MTExNzk0",
+  "snapshot_id": "MCxkYzZmYzRlMjMxODhjNDBkODg0Mzg5OTI5YzM2NTE1NWE4ZmI4YzBl",
   "tracks": [
     {
       "added_at": "2023-10-06 13:03:51",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "Triptych 1 for Piano",
-        "url": "https://open.spotify.com/album/7lqhbSElKknWLrKgU5G4G6"
-      },
-      "artists": [
-        {
-          "name": "P\u00eatr Aleks\u00e4nder",
-          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Triptych 1 for Piano",
-      "url": "https://open.spotify.com/track/4hz99c39SOIMCng7b7j4Wd"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
         "name": "Pastoral",
         "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 220630,
       "name": "Pastoral",
       "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
+        "name": "Triptych 1 for Piano",
+        "url": "https://open.spotify.com/album/7lqhbSElKknWLrKgU5G4G6"
+      },
+      "artists": [
+        {
+          "name": "P\u00eatr Aleks\u00e4nder",
+          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Triptych 1 for Piano",
+      "url": "https://open.spotify.com/track/4hz99c39SOIMCng7b7j4Wd"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "Le Jardin de Monsieur Monet",
-        "url": "https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 313973,
-      "name": "Le Jardin de Monsieur Monet",
-      "url": "https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
         "name": "Stars Light Up The Water",
         "url": "https://open.spotify.com/album/3rsPuZNT9JJUVwCfjBY8eJ"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 136625,
       "name": "Stars Light Up The Water",
       "url": "https://open.spotify.com/track/3Jff69kvbsXnRwHnJTOL2A"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
+        "name": "Le Jardin de Monsieur Monet",
+        "url": "https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 313973,
+      "name": "Le Jardin de Monsieur Monet",
+      "url": "https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -579,26 +579,6 @@
       "duration_ms": 146651,
       "name": "Coalescence",
       "url": "https://open.spotify.com/track/2VILtFKQp13gGUSHGM0INt"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
-        "name": "Under the Stars",
-        "url": "https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI"
-      },
-      "artists": [
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Francois Mathian",
-          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
-        }
-      ],
-      "duration_ms": 151402,
-      "name": "Under the Stars",
-      "url": "https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -635,6 +615,26 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
+        "name": "Under the Stars",
+        "url": "https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Francois Mathian",
+          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
+        }
+      ],
+      "duration_ms": 151402,
+      "name": "Under the Stars",
+      "url": "https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
         "name": "Wandering II",
         "url": "https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "Flow State Vestida 4",
-        "url": "https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE"
-      },
-      "artists": [
-        {
-          "name": "Danny Mulhern",
-          "url": "https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Flow State Vestida 4",
-      "url": "https://open.spotify.com/track/5hJrBqOLUnMXNjDlAX67aP"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
         "name": "Riverscape",
         "url": "https://open.spotify.com/album/5TS8osFEMF2oHUwKWnS0Qw"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 154041,
       "name": "Riverscape",
       "url": "https://open.spotify.com/track/5GwVkYN0uWaS9rwNezJAZg"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
+        "name": "Flow State Vestida 4",
+        "url": "https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE"
+      },
+      "artists": [
+        {
+          "name": "Danny Mulhern",
+          "url": "https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Flow State Vestida 4",
+      "url": "https://open.spotify.com/track/5hJrBqOLUnMXNjDlAX67aP"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
+        "name": "Escape (Hania Rani Remix)",
+        "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
+      },
+      "artists": [
+        {
+          "name": "Skalpel",
+          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
+        },
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 267330,
+      "name": "Escape - Hania Rani Remix",
+      "url": "https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
         "name": "The Swimmer",
         "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
       },
@@ -1231,22 +1251,6 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "A Tiny Ripple That Becomes A Giant Wave",
-        "url": "https://open.spotify.com/album/2Bek2tLtyxT0wxwVxi4BU2"
-      },
-      "artists": [
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 210440,
-      "name": "A Tiny Ripple That Becomes A Giant Wave",
-      "url": "https://open.spotify.com/track/7iyHlkSodnReI1yq3U858h"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
       },
@@ -1259,6 +1263,22 @@
       "duration_ms": 286986,
       "name": "No Step on Wing",
       "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
+        "name": "A Tiny Ripple That Becomes A Giant Wave",
+        "url": "https://open.spotify.com/album/2Bek2tLtyxT0wxwVxi4BU2"
+      },
+      "artists": [
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "A Tiny Ripple That Becomes A Giant Wave",
+      "url": "https://open.spotify.com/track/7iyHlkSodnReI1yq3U858h"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1283,26 +1303,6 @@
       "duration_ms": 265872,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
-        "name": "Escape (Hania Rani Remix)",
-        "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
-      },
-      "artists": [
-        {
-          "name": "Skalpel",
-          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
-        },
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 267330,
-      "name": "Escape - Hania Rani Remix",
-      "url": "https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
+        "name": "All I Hear Is Birds (Focus Rework)",
+        "url": "https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        },
+        {
+          "name": "Matt Robertson",
+          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
+        }
+      ],
+      "duration_ms": 248506,
+      "name": "All I Hear Is Birds - Focus Rework",
+      "url": "https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
         "name": "The Time It Takes",
         "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
       },
@@ -1443,38 +1463,18 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "Be in the moment",
-        "url": "https://open.spotify.com/album/4nbi49mVkoZMEVETySmBjO"
+        "name": "Tripping with Nils Frahm",
+        "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
       },
       "artists": [
         {
-          "name": "Fabrizio Paterlini",
-          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
         }
       ],
-      "duration_ms": 189125,
-      "name": "Be in the moment",
-      "url": "https://open.spotify.com/track/6XBEK00TaLQhjLk2IoFgDr"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
-        "name": "All I Hear Is Birds (Focus Rework)",
-        "url": "https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ"
-      },
-      "artists": [
-        {
-          "name": "Elliott Jack Sansom",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
-        },
-        {
-          "name": "Matt Robertson",
-          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
-        }
-      ],
-      "duration_ms": 248506,
-      "name": "All I Hear Is Birds - Focus Rework",
-      "url": "https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm"
+      "duration_ms": 368668,
+      "name": "My Friend the Forest",
+      "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "Tripping with Nils Frahm",
-        "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
+        "name": "Be in the moment",
+        "url": "https://open.spotify.com/album/4nbi49mVkoZMEVETySmBjO"
       },
       "artists": [
         {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+          "name": "Fabrizio Paterlini",
+          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
         }
       ],
-      "duration_ms": 368668,
-      "name": "My Friend the Forest",
-      "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
+      "duration_ms": 189125,
+      "name": "Be in the moment",
+      "url": "https://open.spotify.com/track/6XBEK00TaLQhjLk2IoFgDr"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
+      },
+      "artists": [
+        {
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        }
+      ],
+      "duration_ms": 376956,
+      "name": "Starwood Choker",
+      "url": "https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
         "name": "Collage",
         "url": "https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW"
       },
@@ -1655,22 +1671,6 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
-      },
-      "artists": [
-        {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        }
-      ],
-      "duration_ms": 376956,
-      "name": "Starwood Choker",
-      "url": "https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
         "name": "Circle 26 (Tom Ashbrook Rework)",
         "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
       },
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "Black Dog",
-        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
+        "name": "Peaceful Music (Three)",
+        "url": "https://open.spotify.com/album/3toMJlJjsS6eV768AdGXtk"
       },
       "artists": [
         {
-          "name": "Autonomy",
-          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
         }
       ],
-      "duration_ms": 127995,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
+      "duration_ms": 166958,
+      "name": "Peaceful Music (Three)",
+      "url": "https://open.spotify.com/track/2hQQSxIxbJyiLSsDvrLJmp"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1723,6 +1723,22 @@
       "duration_ms": 244919,
       "name": "Corn",
       "url": "https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
+        "name": "Black Dog",
+        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
+      },
+      "artists": [
+        {
+          "name": "Autonomy",
+          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
+        }
+      ],
+      "duration_ms": 127995,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1775,22 +1791,6 @@
       "duration_ms": 305691,
       "name": "As I Was - Slow Meadow Rework",
       "url": "https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
-        "name": "Peaceful Music (Three)",
-        "url": "https://open.spotify.com/album/3toMJlJjsS6eV768AdGXtk"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 166958,
-      "name": "Peaceful Music (Three)",
-      "url": "https://open.spotify.com/track/2hQQSxIxbJyiLSsDvrLJmp"
     },
     {
       "added_at": "2023-10-06 13:03:51",

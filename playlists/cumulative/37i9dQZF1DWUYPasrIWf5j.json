@@ -1993,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "Ukulele Covers of Pop Hits",
+        "url": "https://open.spotify.com/album/2LrJLsqxDuRtfLtTHYtfoi"
+      },
+      "artists": [
+        {
+          "name": "Matt Carlson",
+          "url": "https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Sweet Caroline (Instrumental Version)",
+      "url": "https://open.spotify.com/track/3ZmVHKgJ9YJLua0rnsVaWi"
+    },
+    {
+      "album": {
         "name": "Popular Instrumental Songs on Ukulele",
         "url": "https://open.spotify.com/album/6rNPhHvHlRuIKJSYeJYo0V"
       },
@@ -2008,7 +2026,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 199000,
       "name": "Sweet Caroline (Instrumental Version)",
       "url": "https://open.spotify.com/track/1QUPoigzuwFjZf4NEbDoMe"

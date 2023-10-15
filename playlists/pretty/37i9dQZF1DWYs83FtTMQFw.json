@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks of today ft. Doja Cat, Drake, Burna Boy and more.",
-  "num_followers": 2256532,
+  "num_followers": 2256371,
   "original_name": "Hot Rhythmic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTQ5NjgyYzVlYmE3ZDJhMzNmYzhhYWVlOWQ5MzY1OWQ1M2YxNjNi",
+  "snapshot_id": "MCwyMjU0ZGFlZjcwZjFjODVhNDVkZGJjZGVhMmQ3OTZlYzgzMWZmMmI2",
   "tracks": [
     {
       "added_at": "2023-09-29 13:44:04",
@@ -83,26 +83,6 @@
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
-    },
-    {
-      "added_at": "2023-09-29 13:44:04",
-      "album": {
-        "name": "HVN ON EARTH",
-        "url": "https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 188870,
-      "name": "HVN ON EARTH (with Kodak Black)",
-      "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
     },
     {
       "added_at": "2023-09-29 13:44:04",

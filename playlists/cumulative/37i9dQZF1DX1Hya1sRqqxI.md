@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-333 songs - 21 hr 57 min
+334 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Ms\. Grace](https://open.spotify.com/track/1LPCESFhMbgMaQjRG5dm9P) | [The Tymes](https://open.spotify.com/artist/0a1BmEq1mZ5ufKMC2fsziR) | [Trustmaker](https://open.spotify.com/album/063A4uu6dGL4cGspFnklJv) | 3:26 | 2021-09-08 | 2022-07-29 |
 | [My Mistake \(Was To Love You\)](https://open.spotify.com/track/0Uk4vrQwR4mlEoHBoTp6Q8) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 3:00 | 2021-09-08 | 2022-05-02 |
 | [Native New Yorker](https://open.spotify.com/track/0PVgef4kvggErf7OS2oktc) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [Odyssey \(Expanded Edition\)](https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6) | 4:19 | 2021-09-08 | 2022-07-29 |
-| [Never Can Say Goodbye \- Single Version](https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Never Can Say Goodbye \(Deluxe Edition\)](https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u) | 2:59 | 2021-03-22 |  |
+| [Never Can Say Goodbye \- Single Version](https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Never Can Say Goodbye \(Deluxe Edition\)](https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u) | 2:59 | 2021-03-22 | 2023-10-15 |
 | [Night Fever \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/33ALuUDfftTs2NEszyvJRm) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Saturday Night Fever \(The Original Movie Soundtrack\)](https://open.spotify.com/album/6kFmH2VMMFaUrK4QhY4hLi) | 3:31 | 2021-03-22 |  |
 | [No More Tears \(Enough Is Enough\)](https://open.spotify.com/track/2WOxDSMVbPy8rsK9oMtWuj) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Summer: The Original Hits](https://open.spotify.com/album/2TNGyJVlzMUsD5mry6qsw2) | 4:48 | 2021-09-08 | 2022-07-29 |
 | [Nothing From Nothing](https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ) | [Billy Preston](https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5) | [The Kids & Me](https://open.spotify.com/album/7LukcPnAOnV7MuJ6uIUe1s) | 2:36 | 2021-09-08 |  |
@@ -221,6 +221,7 @@
 | [One Way Ticket](https://open.spotify.com/track/68MSCSP7Y6PnzXcW1IlN7G) | [Eruption](https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY) | [4 Hits: Eruption](https://open.spotify.com/album/26BHqKni1MTqwIcdSUFLRm) | 3:33 | 2021-09-08 |  |
 | [Ooh what a life](https://open.spotify.com/track/26LXuBlHw2DZWcVcfMVlmi) | [The Gibson Brothers](https://open.spotify.com/artist/0pRXhFeDRaYQgCp0lj2X9r) | [The Complete Of Gibson Brothers](https://open.spotify.com/album/5RccpTmcphuiXB6XM7jljn) | 5:43 | 2021-09-08 | 2022-07-28 |
 | [Outa\-Space](https://open.spotify.com/track/17KFO56mkVEKR0v8qOPlkU) | [Billy Preston](https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5) | [I Wrote A Simple Song](https://open.spotify.com/album/02xgi7oFRl22FFr9GU8t1c) | 4:10 | 2021-09-08 | 2022-06-17 |
+| [Peg](https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw) | 3:57 | 2021-03-22 |  |
 | [Peg](https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 4:00 | 2021-03-22 | 2023-10-04 |
 | [Pick up the Pieces](https://open.spotify.com/track/2H5nsVLjDwWsxfyajm0lVS) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [Average White Band](https://open.spotify.com/album/5SlfIp60F93VaOJjd88BXC) | 3:54 | 2021-09-08 | 2022-07-24 |
 | [Pick Up the Pieces](https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [AWB](https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6) | 3:59 | 2021-09-08 |  |

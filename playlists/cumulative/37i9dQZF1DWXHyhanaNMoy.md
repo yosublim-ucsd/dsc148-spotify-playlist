@@ -4,7 +4,7 @@
 
 > Motion en good vibes! Cover: Alessio & Sluwe Ollie
 
-746 songs - 1 day 9 hr 36 min
+747 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,7 +589,8 @@
 | [SI MI CLEAN \(feat\. Busy Signal\)](https://open.spotify.com/track/7f8KD3X3jajKS8lOvvY5Cl) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [SI MI CLEAN \(feat\. Busy Signal\)](https://open.spotify.com/album/2ZHTu0yaFOAH5G4MiYQ6Ia) | 3:09 | 2022-10-27 | 2022-11-05 |
 | [Siddung](https://open.spotify.com/track/7x8Zxy8hxhNhclwoLYEkNW) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [ReniGAD](https://open.spotify.com/artist/57sumTgxSpKI0Su0ggOtl3), [Luigi Society](https://open.spotify.com/artist/1Kk7AJK8pdfjn1SKCxtuXo) | [Siddung](https://open.spotify.com/album/6UQ67xY1VdSiuQTJFR3Hf1) | 1:57 | 2023-06-29 | 2023-07-21 |
 | [Sigegige](https://open.spotify.com/track/2Mo1KazJhbMLcF0CNCecCQ) | [L CIANO](https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd) | [Sigegige](https://open.spotify.com/album/5vXwgFWrrItrmcaEYRyLku) | 2:20 | 2022-07-14 | 2022-08-12 |
-| [SKEU SKEU](https://open.spotify.com/track/2tfcnJtKsz0jMrACO943Cz) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU](https://open.spotify.com/album/51cae7KfubO0hMKlI5RYXK) | 3:01 | 2023-10-05 |  |
+| [SKEU SKEU](https://open.spotify.com/track/2tfcnJtKsz0jMrACO943Cz) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU](https://open.spotify.com/album/51cae7KfubO0hMKlI5RYXK) | 3:01 | 2023-10-05 | 2023-10-15 |
+| [SKEU SKEU \(feat\. wilsko & 7ia\)](https://open.spotify.com/track/0sZEwII5Qe3r7izOgdOvLT) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU \(feat\. wilsko & 7ia\)](https://open.spotify.com/album/5RA05MgWTevAIscvEmiiww) | 3:01 | 2023-10-12 |  |
 | [Slapen Jij](https://open.spotify.com/track/3qOeRiVgIAMQMI8QU1JOfk) | [TAVV](https://open.spotify.com/artist/4YddQ3n18iC5QPZQBJMmAM), [Jerr](https://open.spotify.com/artist/4TKrOgaFOGULapDoQPBRpW) | [Slapen Jij](https://open.spotify.com/album/0Otq6CCBRFx675fOim2Cjp) | 1:37 | 2023-07-27 | 2023-08-16 |
 | [Sliden](https://open.spotify.com/track/2444a4pBCXlAX5dSxXR0t9) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sliden EP](https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY) | 2:11 | 2023-06-01 | 2023-07-14 |
 | [Slowmotion](https://open.spotify.com/track/5Mc3NjVEzIf4LBmZTPHVER) | [Kalibiboy D](https://open.spotify.com/artist/3WVqcOKgdST367tFuk2lzm), [Fous](https://open.spotify.com/artist/56TuyDjYJfwFFxxnnjZYAF) | [Slowmotion](https://open.spotify.com/album/1TbWff5Oe18aizHAeTacL8) | 2:54 | 2022-10-20 | 2022-11-18 |

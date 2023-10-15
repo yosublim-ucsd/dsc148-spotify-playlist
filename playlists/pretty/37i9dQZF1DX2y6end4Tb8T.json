@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 55559,
+  "num_followers": 55580,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGQ3ZGIwMGVlY2I3ZmZlNDc2NWJlY2QzMDVkOGQ5MDkyZWIwNzI0",
+  "snapshot_id": "MCwzOWU4YmY5NmNjNmQwZTE4MmY1NDg5OThkOTJlOTk0NDhjZmExNDc4",
   "tracks": [
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Lion Eyes",
+        "url": "https://open.spotify.com/album/6LP3eNouezRT5SsEviDcr3"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 112941,
+      "name": "Lion Eyes",
+      "url": "https://open.spotify.com/track/6MZoicv1j68tNiSJyKwNrB"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Quedate Sola",
         "url": "https://open.spotify.com/album/5ovRJUVUBRZmOcyzUbJFNl"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 270608,
       "name": "Quedate Sola",
       "url": "https://open.spotify.com/track/0UT1rpFwDw5GLM7jDVs9pN"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Lion Eyes",
-        "url": "https://open.spotify.com/album/6LP3eNouezRT5SsEviDcr3"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 112941,
-      "name": "Lion Eyes",
-      "url": "https://open.spotify.com/track/6MZoicv1j68tNiSJyKwNrB"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "The Voice (Deluxe)",
-        "url": "https://open.spotify.com/album/6lb9q7QZwjMj9EE7M664sK"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Sydny August",
-          "url": "https://open.spotify.com/artist/6r67a5jAm4bKhtLydqn9YE"
-        }
-      ],
-      "duration_ms": 178604,
-      "name": "Love You (feat. Sydny August)",
-      "url": "https://open.spotify.com/track/65awQLLy8qAiBCzvKNOlo6"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "SHUT UP",
         "url": "https://open.spotify.com/album/1lZ9uQpFOvFcm5SoLhwZSO"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 270241,
       "name": "Louis Vuitton",
       "url": "https://open.spotify.com/track/6NZRVXbBeNgfTkoohYtxFK"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "The Voice (Deluxe)",
+        "url": "https://open.spotify.com/album/6lb9q7QZwjMj9EE7M664sK"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Sydny August",
+          "url": "https://open.spotify.com/artist/6r67a5jAm4bKhtLydqn9YE"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "Love You (feat. Sydny August)",
+      "url": "https://open.spotify.com/track/65awQLLy8qAiBCzvKNOlo6"
     },
     {
       "added_at": "2023-09-01 14:43:51",

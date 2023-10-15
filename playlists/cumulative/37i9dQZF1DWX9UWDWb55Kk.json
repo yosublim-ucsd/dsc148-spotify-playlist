@@ -2904,10 +2904,36 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 303621,
       "name": "HADES",
       "url": "https://open.spotify.com/track/2Ntrial8l1h53OQKVuqqmn"
+    },
+    {
+      "album": {
+        "name": "Hades Check",
+        "url": "https://open.spotify.com/album/27DeXaQ74fIpfeJKJJbeAB"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303621,
+      "name": "HADES",
+      "url": "https://open.spotify.com/track/5XJw85WkjmgvyjkjbdBScJ"
     },
     {
       "album": {

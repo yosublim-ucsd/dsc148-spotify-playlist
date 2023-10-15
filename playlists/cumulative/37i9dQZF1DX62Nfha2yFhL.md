@@ -4,7 +4,7 @@
 
 > every day soul with a funky groove for a laid back day.
 
-154 songs - 9 hr 0 min
+155 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [P.B.J.](https://open.spotify.com/track/1KEXxYtfNyK08g2Pc4gcSh) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [P.B.J.](https://open.spotify.com/album/1dysgGdZKKCvtqyk9k455I) | 4:08 | 2022-11-18 | 2023-09-24 |
 | [P.B.J.](https://open.spotify.com/track/47h0eLXSjZlhI8htgdhnre) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [P.B.J.](https://open.spotify.com/album/5uSiLxgkpViFzUYu5cu7hz) | 4:08 | 2022-11-18 |  |
 | [Phone Dies \(feat\. Refi Sings\)](https://open.spotify.com/track/1I00qI4bQZyKSQ5G5AnKcv) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Refi Sings](https://open.spotify.com/artist/15X73vdLvKcEwXjB37sOIU) | [Phone Dies \(feat\. Refi Sings\)](https://open.spotify.com/album/6GMRzxqK9FZGpUzXwY24Vg) | 3:55 | 2021-10-22 |  |
-| [Pineapple Cognac](https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Pineapple Cognac](https://open.spotify.com/album/29R9YV27YP2ZZI7P8x58mM) | 2:14 | 2022-07-22 |  |
+| [Pineapple Cognac](https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Pineapple Cognac](https://open.spotify.com/album/29R9YV27YP2ZZI7P8x58mM) | 2:14 | 2022-07-22 | 2023-10-15 |
+| [Pineapple Cognac](https://open.spotify.com/track/74mprhwOJDamrTZ69Pz0cE) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Pineapple Cognac](https://open.spotify.com/album/1b4agvuR4YOtlqSP5whuJC) | 2:14 | 2022-07-22 |  |
 | [Pink Youth](https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Pink Youth](https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9) | 4:00 | 2021-10-22 |  |
 | [Play Too Much](https://open.spotify.com/track/11xILcyUmIjr2XpM6mpEvA) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Play Too Much](https://open.spotify.com/album/4POCpTZfG4JAiLDisEjfZv) | 3:17 | 2021-10-22 | 2022-10-13 |
 | [Play Too Much](https://open.spotify.com/track/6kojoNSvYr4WFUx7CYMJWb) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [SUGA \(Deluxe\)](https://open.spotify.com/album/7uJlMQQqUJ8s17FRoMuPrq) | 3:17 | 2022-02-18 |  |

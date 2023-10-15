@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James.",
-  "num_followers": 269966,
+  "num_followers": 270103,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmFkNTNkNTZlMTQ0NjFlMDlmOGNlZjY3M2E1ODdlZDllOWFhNDZi",
+  "snapshot_id": "MCwzNGUwYWIzM2MxN2IzM2E4YjI4ZTViMGI4ZTZjNjBhZTAxNjI3YmI4",
   "tracks": [
     {
       "added_at": "2022-05-30 13:00:37",
@@ -319,8 +319,8 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Rubber Soul (Remastered)",
-        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 146333,
-      "name": "In My Life - Remastered 2009",
-      "url": "https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo"
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -415,8 +415,8 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 138386,
-      "name": "Blackbird - Remastered 2009",
-      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
+      "duration_ms": 146333,
+      "name": "In My Life - Remastered 2009",
+      "url": "https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Ooo Baby Baby",
-      "url": "https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "If You Can Believe Your Eyes & Ears",
         "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 208293,
       "name": "Monday, Monday - Single Version",
       "url": "https://open.spotify.com/track/3EFb1qDgIqf9MegIryKtDj"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Ooo Baby Baby",
+      "url": "https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "La La Means I Love You",
-        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 200906,
-      "name": "La-La Means I Love You",
-      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Diana Ross Presents The Jackson 5",
         "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 235640,
       "name": "Who's Lovin' You",
       "url": "https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "La La Means I Love You",
+        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "La-La Means I Love You",
+      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Kitty Kallen's Coloring Book",
-        "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
-      },
-      "artists": [
-        {
-          "name": "Kitty Kallen",
-          "url": "https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Its Been a Long, Long Time",
-      "url": "https://open.spotify.com/track/35IRrhDF5x53hRCcc1okcZ"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Hits and Rarities",
         "url": "https://open.spotify.com/album/2bV0PFcxYOfBKqwWczSL5c"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 149680,
       "name": "This Magic Moment - Single Version; Remastered",
       "url": "https://open.spotify.com/track/6wccwN37R7tRotVrK8Htni"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Kitty Kallen's Coloring Book",
+        "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
+      },
+      "artists": [
+        {
+          "name": "Kitty Kallen",
+          "url": "https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "Its Been a Long, Long Time",
+      "url": "https://open.spotify.com/track/35IRrhDF5x53hRCcc1okcZ"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "A Date with The Everly Brothers",
-        "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 142306,
-      "name": "Love Hurts - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Bobby Vee",
         "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 149973,
       "name": "More Than I Can Say",
       "url": "https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "A Date with The Everly Brothers",
+        "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 142306,
+      "name": "Love Hurts - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Ketty Lester Presenting Love Letters",
-        "url": "https://open.spotify.com/album/3u5x4ufBilwbvdf6qt61yF"
-      },
-      "artists": [
-        {
-          "name": "Ketty Lester",
-          "url": "https://open.spotify.com/artist/36pJnWrcvAsoWm6fUqGaHi"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Love Letters",
-      "url": "https://open.spotify.com/track/7uqrG7OormbZVoLhFY9bLx"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Let It Bleed (50th Anniversary Edition / Remastered 2019)",
         "url": "https://open.spotify.com/album/47hOpZQfXVIRzTiv0Ef8pO"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 259079,
       "name": "Love In Vain - Remastered 2019",
       "url": "https://open.spotify.com/track/0mobySzkSudnm0PdUcOSWq"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Ketty Lester Presenting Love Letters",
+        "url": "https://open.spotify.com/album/3u5x4ufBilwbvdf6qt61yF"
+      },
+      "artists": [
+        {
+          "name": "Ketty Lester",
+          "url": "https://open.spotify.com/artist/36pJnWrcvAsoWm6fUqGaHi"
+        }
+      ],
+      "duration_ms": 156733,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/7uqrG7OormbZVoLhFY9bLx"
     },
     {
       "added_at": "2022-05-30 13:00:37",

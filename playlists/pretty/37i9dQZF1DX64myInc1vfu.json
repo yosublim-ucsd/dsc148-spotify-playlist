@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Noreh",
-  "num_followers": 75274,
+  "num_followers": 75312,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzM3N2YwNTJhNjUxOTc0NTRkMDkyMzI1OWM3YWUxYWFkZDJmNzA4",
+  "snapshot_id": "MCwxYzk5ZTM4YjA1ZjI5MDQyMDA2MDRjZWNkZGE0ZTU0N2IwODRlYTJi",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1031,30 +1031,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Porrito y a Dormir",
-        "url": "https://open.spotify.com/album/2tNuQBtqlz5HKMikowZ6dG"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        },
-        {
-          "name": "Xico",
-          "url": "https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9"
-        },
-        {
-          "name": "GOE",
-          "url": "https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Porrito y a Dormir",
-      "url": "https://open.spotify.com/track/1WzX44DmzXQytMNksHn3Ez"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Para No Olvidar",
         "url": "https://open.spotify.com/album/2oXUAq2lYbpdCVkJjDdZQy"
       },
@@ -1075,6 +1051,30 @@
       "duration_ms": 244482,
       "name": "Para No Olvidar",
       "url": "https://open.spotify.com/track/5V2PAJnOJn7H4e8FwSbRdr"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Porrito y a Dormir",
+        "url": "https://open.spotify.com/album/2tNuQBtqlz5HKMikowZ6dG"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Xico",
+          "url": "https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9"
+        },
+        {
+          "name": "GOE",
+          "url": "https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Porrito y a Dormir",
+      "url": "https://open.spotify.com/track/1WzX44DmzXQytMNksHn3Ez"
     },
     {
       "added_at": "2023-10-13 04:00:00",

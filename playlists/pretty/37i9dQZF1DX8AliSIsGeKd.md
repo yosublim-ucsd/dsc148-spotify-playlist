@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Ben Böhmer, Felix Raphael
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,361 likes - 90 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,427 likes - 90 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 5 | [Cycle of Life](https://open.spotify.com/track/3HA1tvMrOoOnZl3GOb3rEB) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Cycle of Life](https://open.spotify.com/album/5mnmAkEBByR4mXyA8ybYsc) | 5:55 |
 | 6 | [ACID TRAXXX](https://open.spotify.com/track/1quQPqteq8pTCnfe9prReR) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70), [D.J\. Pierre](https://open.spotify.com/artist/6kfuLLbtWi4hOnZh7gMxt0) | [ACID TRAXXX](https://open.spotify.com/album/72AfCG4U8IPo4hyIJF5UqP) | 8:45 |
 | 7 | [I'll Be There](https://open.spotify.com/track/5LM4F3M39z32C0X7RkjxpF) | [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf), [Alican](https://open.spotify.com/artist/20JcfncPyV3x2XjAKLWL98), [Nick Maurer](https://open.spotify.com/artist/6z70ncdIFVoybnZoh3O5F1) | [The Weather Report, Vol\. 1](https://open.spotify.com/album/6kBgCI4jSzD7zRDbz97dIF) | 4:42 |
-| 8 | [rise](https://open.spotify.com/track/6lPupLVOuRd3w31xqN8YxQ) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [rise / gimme](https://open.spotify.com/album/5Pft1X1BQUYtldphJ1QDNx) | 4:01 |
+| 8 | [rise](https://open.spotify.com/track/6lPupLVOuRd3w31xqN8YxQ) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [NADIAH](https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele) | [rise / gimme](https://open.spotify.com/album/5Pft1X1BQUYtldphJ1QDNx) | 4:01 |
 | 9 | [Now U Do \(Carlita Remix\) \- Edit](https://open.spotify.com/track/4npDRstA1cZPDshgtC3mvv) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Now U Do \(Carlita Remix\)](https://open.spotify.com/album/7t88wDCAJBUW98FDo1imXi) | 3:33 |
 | 10 | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW) | 8:23 |
 | 11 | [Falling](https://open.spotify.com/track/0K6vzSQFh3aBwwm241oqiE) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Falling](https://open.spotify.com/album/0qnX8aubq2jjTHnmS4q7Pz) | 3:44 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Deep Into The Vibe](https://open.spotify.com/track/4DxcbLpXAtNHUrocZv7HWg) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Deep Into The Vibe](https://open.spotify.com/album/3hDUuNQPeDgtPuVgNe7C8Y) | 4:17 |
 | 90 | [Silver Moon Dial](https://open.spotify.com/track/6tRFihAZXh56lxvhZv7SXM) | [Fantastic Twins](https://open.spotify.com/artist/6da8OOYjq640zH3b4e4wci) | [Two Is Not a Number](https://open.spotify.com/album/2ztx954HDf9gVZ4VpVQFYj) | 5:40 |
 
-Snapshot ID: `MCw1MjdhY2E5OTk4MWUxNDlmODE3NjY2ZGU3NDBiZGEyMzYzZjc2MjAx`
+Snapshot ID: `MCwwMjBhOWI3MWU0NjZhZDY4Zjc3MDkwMzU1ZjVlMTM4ZDE2MGM5MzQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Alcione e mais mulheres icônicas para serem ouvidas no volume máximo! Foto: Alcione
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,399 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,504 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 33 | [Habilidades Extraordinárias](https://open.spotify.com/track/4ORL3b19kkul61f5Qem2r5) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Habilidades Extraordinárias](https://open.spotify.com/album/7CsBswgYYISQdoy5DqSywx) | 4:33 |
 | 34 | [Terezinha](https://open.spotify.com/track/6jZq2kwbo4pLsoREwTveq3) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Serour](https://open.spotify.com/artist/4L8osYNuWu9ggZONwYGGC8) | [Terezinha](https://open.spotify.com/album/6tk8iJGsL0xKCJ8zXbm20Z) | 2:22 |
 | 35 | [Reacender a Chama](https://open.spotify.com/track/3kH39Eb5UCv8Wl81U9sJK9) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:43 |
-| 36 | [Menino Bonito](https://open.spotify.com/track/4bc6uLpspNXiL7aFCYAIdo) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ARREPIADA](https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0) | 3:49 |
-| 37 | [Fluorescente](https://open.spotify.com/track/07peghrFo7KCcAgRGqIs6v) | [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8) | [Lusco\-Fusco](https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW) | 4:05 |
+| 36 | [Fluorescente](https://open.spotify.com/track/07peghrFo7KCcAgRGqIs6v) | [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8) | [Lusco\-Fusco](https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW) | 4:05 |
+| 37 | [Menino Bonito](https://open.spotify.com/track/4bc6uLpspNXiL7aFCYAIdo) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ARREPIADA](https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0) | 3:49 |
 | 38 | [Fogo](https://open.spotify.com/track/2XKh7iXzONaETF9RogLOeo) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Fogo](https://open.spotify.com/album/5o08PAK8oEAIx05WDKkmsZ) | 3:14 |
 | 39 | [Pimenta De Cheiro](https://open.spotify.com/track/2cxDLP3uI9ovuHbrNqY3fr) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:27 |
 | 40 | [Ai de Mim](https://open.spotify.com/track/1y30J7NwRpNnbxhdllmhKr) | [Anastácia](https://open.spotify.com/artist/2T4nRuk5KkTVgh1v4hW9ju) | [Ai de Mim](https://open.spotify.com/album/2o2mDTQIHMjF56bGERodb4) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Liberô Geral](https://open.spotify.com/track/656KfnvxwBqdvv4xk6y7ty) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Liberô Geral](https://open.spotify.com/album/0fhuotgqtda2nHGli4kfAX) | 3:30 |
 | 50 | [Deságua](https://open.spotify.com/track/2GMPFXQWfYKjKXRlxBsRlc) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 3:34 |
 
-Snapshot ID: `MCwyZjgxYjI5OTQyMDZiYjdmYTk5NTEwNWM0NDFmOTE3OTY2ZWEzYjgz`
+Snapshot ID: `MCw2NzIzNjkwNWU2MmNiYTUzZjc3NGJkMDlkZWRmYzczMzEyYmI4MDBl`

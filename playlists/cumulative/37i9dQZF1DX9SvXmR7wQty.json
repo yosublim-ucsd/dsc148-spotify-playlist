@@ -13979,6 +13979,24 @@
     },
     {
       "album": {
+        "name": "IL LE FALLAIT",
+        "url": "https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S"
+      },
+      "artists": [
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179973,
+      "name": "GMAIL",
+      "url": "https://open.spotify.com/track/6cETuNTKBm0k4NiCJwU2bT"
+    },
+    {
+      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/7rO6wNrH5Q2tfGtaUdT4Ef"
       },
@@ -27285,6 +27303,24 @@
     },
     {
       "album": {
+        "name": "Rester en voyage",
+        "url": "https://open.spotify.com/album/6yahz9eY7znTgFvcfkDz1o"
+      },
+      "artists": [
+        {
+          "name": "Olivier B\u00e9lisle",
+          "url": "https://open.spotify.com/artist/79QE8luVEKueEZS4dgZ0gq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219231,
+      "name": "Oph\u00e9lie",
+      "url": "https://open.spotify.com/track/6JXobHSIftFuXLENPR36KL"
+    },
+    {
+      "album": {
         "name": "Opium",
         "url": "https://open.spotify.com/album/4gqjFmBaXS2eThOUsUZfbD"
       },
@@ -29374,7 +29410,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 201250,
       "name": "Plus jamais",
       "url": "https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD"
@@ -31116,7 +31152,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 89146,
       "name": "R+V",
       "url": "https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT"

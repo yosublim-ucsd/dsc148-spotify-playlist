@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 478726,
+  "num_followers": 478802,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTNmMTUzNTg4MDVmZGI5M2M4YWQwZjQ2YTMxYmNiOTc2YzJlZDBk",
+  "snapshot_id": "MCwyZGY5YTlkZjFlMzNmMjljZmU5OWYxMmZlNGVhODQzMGNmZDFhYTVl",
   "tracks": [
     {
       "added_at": "2023-09-19 10:07:09",
@@ -427,26 +427,6 @@
     {
       "added_at": "2023-09-19 10:07:09",
       "album": {
-        "name": "Don't Forget",
-        "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "Don\u2019t Forget",
-      "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
-    },
-    {
-      "added_at": "2023-09-19 10:07:09",
-      "album": {
         "name": "ZZZ",
         "url": "https://open.spotify.com/album/3jXVfwnqhI1wBwC2U416Ya"
       },
@@ -467,18 +447,22 @@
     {
       "added_at": "2023-09-19 10:07:09",
       "album": {
-        "name": "I`m In Love",
-        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
+        "name": "Don't Forget",
+        "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 197000,
-      "name": "I`m In Love",
-      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
+      "duration_ms": 219106,
+      "name": "Don\u2019t Forget",
+      "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
     },
     {
       "added_at": "2023-09-19 10:07:09",
@@ -495,6 +479,22 @@
       "duration_ms": 214326,
       "name": "It's Raining",
       "url": "https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj"
+    },
+    {
+      "added_at": "2023-09-19 10:07:09",
+      "album": {
+        "name": "I`m In Love",
+        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "I`m In Love",
+      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
     },
     {
       "added_at": "2023-09-19 10:07:09",

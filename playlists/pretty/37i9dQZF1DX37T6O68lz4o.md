@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover: <a href="https://open.spotify.com/artist/5and6mMu319HtYPWAacsju?si=h1ZEBxcITVGdqGQT6p6Fxg">Nay $peaks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,862 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,894 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 49 | [After Life](https://open.spotify.com/track/36UCQkdr0UO7YtF3jRAUAv) | [Gogo.](https://open.spotify.com/artist/2ZjHsrsF4aC1SpaVf9ZEhp) | [After Life](https://open.spotify.com/album/2pmN9CUGtz2ws2xzB95ofU) | 3:37 |
 | 50 | [WK](https://open.spotify.com/track/27tAN7i2rDioRsKIi0U8ze) | [Uche Malik](https://open.spotify.com/artist/2X4iiazskAL90U3e1QHVsG), [Jaey London](https://open.spotify.com/artist/4pOIfGaOomMfhsdni39IpL) | [WK](https://open.spotify.com/album/6u62QnlXBHRDrEQvnQS46l) | 2:43 |
 
-Snapshot ID: `MCxhNzYzZGYyYjU2OWRmNjU5ZGY5MmMyZGZlMzlmOGRmMjEyMTc1ZjY5`
+Snapshot ID: `MCw5ODc5OTM1OTc2Y2IwYTk0ZWE3YWE2YmFiNWJmOTNkMDc1YWY3Njk1`

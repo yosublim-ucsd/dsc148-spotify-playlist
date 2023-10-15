@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa william.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,142 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,219 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 69 | [Sori](https://open.spotify.com/track/7tSbasJQ6SYeDwEhyeUYUa) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Sori](https://open.spotify.com/album/59JKgG2HfalOrIOYYLyXdH) | 2:16 |
 | 70 | [Oisko tää täs](https://open.spotify.com/track/0uHbsPVRr12ERCABBWVbe0) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Oisko tää täs / Popinpelko](https://open.spotify.com/album/67o8azfNdjm3DER0vezrN3) | 3:04 |
 
-Snapshot ID: `MCw2NjhlOTI1OWM0YWUzN2U3MTFlMzMzMmJlZTRkYTEyYzdhZjlhM2Q2`
+Snapshot ID: `MCxiNjY2YTRmYjhlMjc5NDQxZDU0YTlhZTE1MmVhNzlmOTk2ZTA3MGFi`

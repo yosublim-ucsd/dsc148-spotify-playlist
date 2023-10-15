@@ -4,7 +4,7 @@
 
 > A blend of new songs and artists in the soul space\. Cover: vAn
 
-361 songs - 21 hr 34 min
+362 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,8 @@
 | [Superstar](https://open.spotify.com/track/3c46fXVjVArsPheex1R7AI) | [Zola Courtney](https://open.spotify.com/artist/11lgCVODZLjSSBl1oSke9J), [Caleborate](https://open.spotify.com/artist/7bpDJUH5hnffIYHID6h3Et) | [Superstar](https://open.spotify.com/album/7EWhJMY64EezShQPMD2zf4) | 2:57 | 2021-12-16 | 2022-10-29 |
 | [Sweet Distraction](https://open.spotify.com/track/6oYDza5APcRR4c8w1WEAml) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Sweet Distraction](https://open.spotify.com/album/6dEK6JiVB7DoalHiMayTsb) | 2:51 | 2022-12-02 |  |
 | [Switch Off](https://open.spotify.com/track/2xOo8c47vtBnAVI2ojjxHk) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Switch Off](https://open.spotify.com/album/7aO0owLH0M8r6gkSzIEus3) | 3:12 | 2022-12-02 | 2023-07-08 |
-| [Take Care](https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Take Care](https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7) | 3:49 | 2022-10-28 |  |
+| [Take Care](https://open.spotify.com/track/6EUeUiY3YcbQFPhl4wG2KU) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Take Care](https://open.spotify.com/album/6y5t03dCqOJ2O2HzLj4VLC) | 3:49 | 2023-10-06 |  |
+| [Take Care](https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Take Care](https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7) | 3:49 | 2022-10-28 | 2023-10-15 |
 | [Take Care of You \(feat\. King Princess, Amaarae & Meshell Ndegeocello\) \- Remix](https://open.spotify.com/track/4lQX77YOzLJKXJu0CNRz3T) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [ALPHA \(Deluxe\)](https://open.spotify.com/album/06xkAXs3CjdSofoAQbRVhL) | 3:34 | 2021-12-16 | 2022-10-15 |
 | [Take Flight](https://open.spotify.com/track/6G0N1IkBWHsO8WQHxqpz44) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Take Flight](https://open.spotify.com/album/1XWQCrHuszOJyjdcnbTUdH) | 3:05 | 2022-12-02 | 2023-09-15 |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/62kHSw6wBh4c6UemJCb5p6) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Take Me Where Your Heart Is](https://open.spotify.com/album/6XkgiL7F2lC1pnZgioUyYd) | 3:12 | 2021-12-16 | 2022-04-29 |

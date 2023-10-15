@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: The Streets
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,591 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,470 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bright Sunny Day](https://open.spotify.com/track/4SNVYQCW5yopk5uUluli3c) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [The Darker The Shadow The Brighter The Light](https://open.spotify.com/album/1RH7DhJJ0kUDm5zjv7KOzd) | 3:20 |
 | 2 | [Moonlight](https://open.spotify.com/track/3dyI5XL7jMz905RsJiGDjf) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Moonlight](https://open.spotify.com/album/6oaWJD1A4bgpiqNWvp0mwk) | 3:25 |
 | 3 | [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 |
-| 4 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:02 |
+| 4 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 |
 | 5 | [Wherever You Are](https://open.spotify.com/track/6RMpihqnNQ9JcO37ErNi9f) | [Kev Koko](https://open.spotify.com/artist/2WZCpsGLdNU1xENRwETylI) | [Wherever You Are](https://open.spotify.com/album/7MrDVMV7fqIwDqJdYySpBy) | 4:45 |
 | 6 | [The Morning](https://open.spotify.com/track/4H8LXYMF0OABJpjL4wD4mb) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [The Morning](https://open.spotify.com/album/2mkAIECa1rpTjtX5ZqgTPS) | 4:09 |
 | 7 | [People](https://open.spotify.com/track/0xi7qZJw7b1colPIEGG8bB) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [People](https://open.spotify.com/album/3FFC8lDz8RhvpHtO89NLix) | 3:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [How Music Makes You Feel Better \- Edit](https://open.spotify.com/track/2bBuxaPbzrUGK9rnLJ5fFN) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [How Music Makes You Feel Better](https://open.spotify.com/album/4mUY2PlUa8qducN1OyWu4w) | 3:21 |
 | 75 | [Take Time](https://open.spotify.com/track/4RZExYWr4eRIvVdQkh3jxF) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [Sunset Blue](https://open.spotify.com/album/6Hyx6HDRUTG8wKtxuqTcQa) | 3:38 |
 
-Snapshot ID: `MCxkN2E3OWIxOGZjNzliMmM3ZDIxMGQwNDZjNDJjZWJlMjIyYWI1YWYx`
+Snapshot ID: `MCxjMzM1YmVmMmE5OTljM2IxYTQ0NTlhYWQ0YjUwM2VkOGM5Y2Q4OTQw`

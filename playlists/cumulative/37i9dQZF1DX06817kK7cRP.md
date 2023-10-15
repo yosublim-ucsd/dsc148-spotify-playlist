@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-144 songs - 6 hr 36 min
+145 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Kruisin'](https://open.spotify.com/track/6ghuMTXlPGarm2SaPxrxcY) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Kruisin'](https://open.spotify.com/album/5jRxlX5baGFYSlK4XJ9K2a) | 2:51 | 2023-09-29 |  |
 | [L'Autofilteur](https://open.spotify.com/track/0eDMWlp5OKqwujmaYU52uW) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [L'Autofilteur](https://open.spotify.com/album/4tWicAtKzwy8kQcbc7C3Ay) | 3:31 | 2023-01-12 | 2023-04-02 |
 | [L'Autofilteur](https://open.spotify.com/track/4woeoi4CZ8tcsWDImypP5n) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [On s'amuse](https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE) | 3:31 | 2023-04-13 | 2023-04-28 |
-| [Lavanta](https://open.spotify.com/track/7izOc7Oi4jU4VqLmDMqARt) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4) | [When Every Leaf Is A Flower](https://open.spotify.com/album/4kLccp6jRkfsZh9Wrky3MQ) | 2:03 | 2023-01-12 |  |
+| [Lavanta](https://open.spotify.com/track/7izOc7Oi4jU4VqLmDMqARt) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4) | [When Every Leaf Is A Flower](https://open.spotify.com/album/4kLccp6jRkfsZh9Wrky3MQ) | 2:03 | 2023-01-12 | 2023-10-15 |
 | [Leafy Greens](https://open.spotify.com/track/4v2QdeTrznnSrGhPPc5szG) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Leafy Greens](https://open.spotify.com/album/5vaCBfz8K866fJH9GUAfZt) | 2:40 | 2023-06-20 |  |
 | [little lies](https://open.spotify.com/track/3x8mCjdAaPtXtAPUkFX5wn) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Good feeling](https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s) | 2:16 | 2023-09-22 |  |
 | [Lofi Sauce](https://open.spotify.com/track/3bAUmGi6G9MNWIkTmap9WD) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Lofi Sauce](https://open.spotify.com/album/5Ea0SCW5c3zEukb5nKMp6p) | 3:23 | 2023-01-12 | 2023-03-15 |
@@ -125,6 +125,7 @@
 | [Smooth Sunday Barbeque](https://open.spotify.com/track/3SxZEMqUuXMEY97bjjjGQM) | [Pat Kujala](https://open.spotify.com/artist/4myCjaaRFXSNYDhXsOOfUK) | [Smooth Sunday Barbeque](https://open.spotify.com/album/3248TWghWQaI4iwhukipLS) | 3:17 | 2023-06-20 |  |
 | [smooveoperator](https://open.spotify.com/track/02uMZoFw264keGVYbNzOMa) | [Bloomsbury Boys](https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c) | [smooveoperator](https://open.spotify.com/album/1d4mBlFhdQUB3W5cj2awJA) | 3:12 | 2023-09-29 |  |
 | [Soul Mates](https://open.spotify.com/track/5MnT6uiAJXOo58xdDVmbD2) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Soul Mates](https://open.spotify.com/album/22j1HNgICS8f7kN7wLB54T) | 3:21 | 2023-06-01 |  |
+| [Sthlm Night](https://open.spotify.com/track/7eMXZGWOAL7clS5ki24HDO) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Sthlm Night](https://open.spotify.com/album/1GgvBY2L1UVmlysJu45aWS) | 2:50 | 2023-10-13 |  |
 | [Stills](https://open.spotify.com/track/6AoJ6JUXWEm9NIU7HZqqzJ) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h), [Moose Dawa](https://open.spotify.com/artist/4iLyC66mfowfMoMtmbsDUb) | [Stills](https://open.spotify.com/album/08NfamTiYO1DVxNLX6tq6X) | 2:24 | 2023-01-12 |  |
 | [Stuck Inside](https://open.spotify.com/track/40WnxbuSovGpDcJrZqO0lP) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [SPRING](https://open.spotify.com/album/4KEaYd9DK7qom7TIHvdM3Z) | 3:33 | 2023-01-13 |  |
 | [sunday morning stroll](https://open.spotify.com/track/4DNoCeluuyNlWt9FrEQYyi) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [sunday morning stroll](https://open.spotify.com/album/6betGZCqz1FSDDVjylmDtW) | 3:06 | 2023-08-31 |  |

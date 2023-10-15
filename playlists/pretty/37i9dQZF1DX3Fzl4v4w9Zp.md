@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,208 likes - 150 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,049 likes - 150 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 4 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 |
 | 5 | [Homesick \[Feat\. Jonathan Wilson\]](https://open.spotify.com/track/3hUgiY4yuQhiLbVytTCmS7) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jonathan Wilson](https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw) | [Strays II](https://open.spotify.com/album/6O4somF5cgA58eOK1wWdmJ) | 4:28 |
 | 6 | [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 |
-| 7 | [Dirt Bike](https://open.spotify.com/track/60rT7xqMegRkR2Sq4JIfHw) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [Dirt Bike](https://open.spotify.com/album/1nSFYhxHnBvrwrUHwANAXW) | 3:32 |
+| 7 | [Dirt Bike \(feat\. Andrea Kukuly Uriarte\)](https://open.spotify.com/track/60rT7xqMegRkR2Sq4JIfHw) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj), [Andrea Kukuly Uriarte](https://open.spotify.com/artist/5RBnd1QU744YvLMRf458SS) | [Dirt Bike \(feat\. Andrea Kukuly Uriarte\)](https://open.spotify.com/album/1nSFYhxHnBvrwrUHwANAXW) | 3:32 |
 | 8 | [Angel](https://open.spotify.com/track/3D4XjhkvYU3F89G9Elok5T) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Angel](https://open.spotify.com/album/3iGBGOKL0eH0MjBZHHN4qU) | 5:05 |
 | 9 | [Jersey Giant](https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Jersey Giant](https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO) | 4:26 |
 | 10 | [Press On](https://open.spotify.com/track/0pfcSDN5SE7WBG5DNaSBLs) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Heat Comes Down](https://open.spotify.com/album/6VcQbbneWsPFS89mH5QWqN) | 3:37 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [The Downward Road](https://open.spotify.com/track/5C9y3R4oWlShFgvNqr6egt) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1), [Demeanor](https://open.spotify.com/artist/4HlLzCWkEJQvvWRkjt5J0r) | [The Downward Road](https://open.spotify.com/album/0v9Fn7MgEKL8tfprlJX5Ld) | 3:36 |
 | 150 | [Tumble and Fall](https://open.spotify.com/track/2Uh4NCdcI7sWNbWfhxw73Q) | [Daniel Tashian](https://open.spotify.com/artist/4RldQHPp4l6UV78DAvf5qz) | [Tumble and Fall](https://open.spotify.com/album/6PNfy7JIdJWbw8XXIETapU) | 3:26 |
 
-Snapshot ID: `MCxjOTM2ZTUxMmUyNDczOGQ5N2Y0NTRmMTkzOTI4MWVmYTJlMGNjYWE1`
+Snapshot ID: `MCwzYjRlMjA3ZmQ2NWMwMWUzZTA3YjNkYzU4OWRmNGQ2NzRjMzUwNThj`

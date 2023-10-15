@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena",
-  "num_followers": 986991,
+  "num_followers": 986673,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTg2OWQ4MzNkYzE0MGJkNTg5ZTQxZGRhNjZlODc4ZjUyNWZlNGQ0",
+  "snapshot_id": "MCwwOWFkZTQwNTA3M2EwMzJhNDljZjIyOTA5MThlMjg2ZDIyMThlZDk2",
   "tracks": [
     {
       "added_at": "2023-10-09 15:39:18",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
-        "name": "Nunca Volvieron",
-        "url": "https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Nunca Volvieron",
-      "url": "https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex"
-    },
-    {
-      "added_at": "2023-10-09 15:39:18",
-      "album": {
         "name": "ESQUINAS",
         "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 232795,
       "name": "2NDO CHANCE",
       "url": "https://open.spotify.com/track/4JyfG2WBcDjlc8TODyBIbx"
+    },
+    {
+      "added_at": "2023-10-09 15:39:18",
+      "album": {
+        "name": "Nunca Volvieron",
+        "url": "https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Nunca Volvieron",
+      "url": "https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex"
     },
     {
       "added_at": "2023-10-09 15:39:18",
@@ -403,6 +403,26 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
+        "name": "Hoy Festejo",
+        "url": "https://open.spotify.com/album/2EchHhx889NsqylPaAzboM"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        },
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 164119,
+      "name": "Hoy Festejo",
+      "url": "https://open.spotify.com/track/5VzeBUPnyf9rWSPkEFeL6X"
+    },
+    {
+      "added_at": "2023-10-09 15:39:18",
+      "album": {
         "name": "LUCES DE CIUDAD (feat. \u00c1lvaro De Luna, Dani Fern\u00e1ndez)",
         "url": "https://open.spotify.com/album/3EBBkRkTqYd59GNwxUH3ar"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 163401,
       "name": "LUCES DE CIUDAD (feat. \u00c1lvaro De Luna, Dani Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/4GrbQq8TcYoUd4s5YmzydE"
-    },
-    {
-      "added_at": "2023-10-09 15:39:18",
-      "album": {
-        "name": "Hoy Festejo",
-        "url": "https://open.spotify.com/album/2EchHhx889NsqylPaAzboM"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        },
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 164119,
-      "name": "Hoy Festejo",
-      "url": "https://open.spotify.com/track/5VzeBUPnyf9rWSPkEFeL6X"
     },
     {
       "added_at": "2023-10-09 15:39:18",
@@ -487,6 +487,26 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
+        "name": "Hablando En Plata",
+        "url": "https://open.spotify.com/album/0fqseXlgVCLiM6B2vkr1eW"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        },
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "duration_ms": 188345,
+      "name": "Hablando En Plata",
+      "url": "https://open.spotify.com/track/0XFNQRApcucLu0RZdbDB9F"
+    },
+    {
+      "added_at": "2023-10-09 15:39:18",
+      "album": {
         "name": "Puerta del Sol",
         "url": "https://open.spotify.com/album/0Feep6LUA5614f0kBIgLtU"
       },
@@ -511,22 +531,6 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
-        "name": "Derecho a No Declarar",
-        "url": "https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B"
-      },
-      "artists": [
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 146763,
-      "name": "Derecho a No Declarar",
-      "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
-    },
-    {
-      "added_at": "2023-10-09 15:39:18",
-      "album": {
         "name": "Me Sabe a Sal",
         "url": "https://open.spotify.com/album/4vdFPV2L2c8yUm9HSiwjeQ"
       },
@@ -543,22 +547,18 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
-        "name": "Hablando En Plata",
-        "url": "https://open.spotify.com/album/0fqseXlgVCLiM6B2vkr1eW"
+        "name": "Derecho a No Declarar",
+        "url": "https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B"
       },
       "artists": [
         {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        },
-        {
-          "name": "Hens",
-          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
         }
       ],
-      "duration_ms": 188345,
-      "name": "Hablando En Plata",
-      "url": "https://open.spotify.com/track/0XFNQRApcucLu0RZdbDB9F"
+      "duration_ms": 146763,
+      "name": "Derecho a No Declarar",
+      "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
     },
     {
       "added_at": "2023-10-09 15:39:18",
@@ -579,38 +579,6 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
-        "name": "PORTARSE MAL",
-        "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 192126,
-      "name": "PORTARSE MAL",
-      "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
-    },
-    {
-      "added_at": "2023-10-09 15:39:18",
-      "album": {
-        "name": "El Olor De Tu Pelo",
-        "url": "https://open.spotify.com/album/72hkK8DcshHwWV8gJREaF1"
-      },
-      "artists": [
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 163448,
-      "name": "El Olor De Tu Pelo",
-      "url": "https://open.spotify.com/track/0XKYeF1y231Lr16dcZDYlK"
-    },
-    {
-      "added_at": "2023-10-09 15:39:18",
-      "album": {
         "name": "Copita Champagne",
         "url": "https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU"
       },
@@ -627,6 +595,22 @@
       "duration_ms": 163000,
       "name": "Copita Champagne",
       "url": "https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW"
+    },
+    {
+      "added_at": "2023-10-09 15:39:18",
+      "album": {
+        "name": "PORTARSE MAL",
+        "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 192126,
+      "name": "PORTARSE MAL",
+      "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
     },
     {
       "added_at": "2023-10-09 15:39:18",
@@ -695,6 +679,22 @@
       "duration_ms": 151214,
       "name": "La Tortura - Spotify Singles",
       "url": "https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02"
+    },
+    {
+      "added_at": "2023-10-09 15:39:18",
+      "album": {
+        "name": "El Olor De Tu Pelo",
+        "url": "https://open.spotify.com/album/72hkK8DcshHwWV8gJREaF1"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "duration_ms": 163448,
+      "name": "El Olor De Tu Pelo",
+      "url": "https://open.spotify.com/track/0XKYeF1y231Lr16dcZDYlK"
     },
     {
       "added_at": "2023-10-09 15:39:18",

@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Holly Humberstone (pictured), Ice Spice, Fred Again.. and more!",
-  "num_followers": 839659,
+  "num_followers": 839618,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTM3ZDhlMzk5YjM0ZWIxNDQwODNjYWY5YmU0ZTFhZDc3ZmJmNTc3",
+  "snapshot_id": "MCwxN2JiNjllZTIwNjAyYzIyZmY0YjEzMjY1NmU1MTdmMzc3MjJhYzRk",
   "tracks": [
     {
       "added_at": "2023-10-13 10:44:18",
@@ -40,7 +40,7 @@
           "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
         }
       ],
-      "duration_ms": 182013,
+      "duration_ms": 181545,
       "name": "ten",
       "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
     },
@@ -1066,6 +1066,10 @@
         {
           "name": "Mura Masa",
           "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "NADIAH",
+          "url": "https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele"
         }
       ],
       "duration_ms": 241243,

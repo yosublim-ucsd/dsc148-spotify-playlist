@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-595 songs - 22 hr 53 min
+596 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Arumanakku Mk Iii](https://open.spotify.com/track/1eXjYLn5POhiBLZuxFbZA6) | [SMKY LPRD](https://open.spotify.com/artist/2yDqXxG97zwpFIy9o1ZEQr) | [ARUMANAKKU MK III](https://open.spotify.com/album/5rTkqyJBPAFENcGeGlqCm6) | 5:18 | 2022-01-14 | 2022-02-05 |
 | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/track/1nJOtOQJqzHaxh8kzuudxR) | [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9) | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/album/2Co4pvEvpsBHIGXufGc3p3) | 2:16 | 2023-02-10 | 2023-06-17 |
 | [Attack of the Killer Beast \(Phonk\) \[ORIGINAL\]](https://open.spotify.com/track/2OSLwTp1bAkEbgJ3ZUfUHP) | [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9) | [Attack of the Killer Beast \(Phonk\) \[ORIGINAL\]](https://open.spotify.com/album/13aySmqSF2rLBdAmXBlvqT) | 2:16 | 2023-02-10 | 2023-02-12 |
-| [AUTOMOTIVO ANGELICAL V4](https://open.spotify.com/track/7rjV9XlydtwZZS64lSr5TR) | [DJ ZK3](https://open.spotify.com/artist/0Z3ZL2hmP2xyr3AyEx7kg2) | [AUTOMOTIVO ANGELICAL V4](https://open.spotify.com/album/31w8qyYbnvFnaQCJaVY6M9) | 2:33 | 2023-09-22 |  |
+| [AUTOMOTIVO ANGELICAL V4](https://open.spotify.com/track/7rjV9XlydtwZZS64lSr5TR) | [DJ ZK3](https://open.spotify.com/artist/0Z3ZL2hmP2xyr3AyEx7kg2) | [AUTOMOTIVO ANGELICAL V4](https://open.spotify.com/album/31w8qyYbnvFnaQCJaVY6M9) | 2:33 | 2023-09-22 | 2023-10-15 |
+| [AUTOMOTIVO ANGELICAL V4](https://open.spotify.com/track/1vyg1TIfJK409mLL6LaxeG) | [DJ ZK3](https://open.spotify.com/artist/0Z3ZL2hmP2xyr3AyEx7kg2) | [AUTOMOTIVO ANGELICAL V4](https://open.spotify.com/album/3eGmRNMoxVKxkDqyrRbnMP) | 2:33 | 2023-09-22 |  |
 | [AUTOMOTIVO ASSOMBRA LUARA](https://open.spotify.com/track/5WSw7TTalV0Tb7w7yojFjg) | [Prod.Dsr](https://open.spotify.com/artist/06Mv6ITy2MhM1SQ8OFSreF) | [AUTOMOTIVO ASSOMBRA LUARA](https://open.spotify.com/album/6HKiMsilWfHR257IVT8tQX) | 1:21 | 2023-09-08 | 2023-09-23 |
 | [Automotivo Bibi Fogosa](https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2) | 2:09 | 2023-07-21 |  |
 | [Automotivo Blindado](https://open.spotify.com/track/1wynWAVM1KqUQMhytk89rO) | [DJ Rossini ZS](https://open.spotify.com/artist/2ue3CASrJMbnfFcE6Pp13G), [DJ MENOR DA Z.O](https://open.spotify.com/artist/7mONoAwA8mRwvz2JYLhABI), [MC Zudo Boladão](https://open.spotify.com/artist/4kEtpjbEnSh4WNeLF1IeG7), [MC LUIS DO GRAU](https://open.spotify.com/artist/7z92LBe9MQGzZs5VpO8dwX) | [Automotivo Blindado](https://open.spotify.com/album/0coJQdhxjlgLWAsJcC9Dg8) | 3:46 | 2023-06-16 | 2023-10-07 |

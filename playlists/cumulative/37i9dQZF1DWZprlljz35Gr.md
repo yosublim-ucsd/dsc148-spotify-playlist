@@ -4,7 +4,7 @@
 
 > Bluesy blips and blops
 
-74 songs - 5 hr 1 min
+75 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Illa Mind](https://open.spotify.com/track/0Ar5CznZQoRoST0WGIE2wK) | [Manic Focus](https://open.spotify.com/artist/2xx0ChFyXa0a4S48GAXFUz), [Marvel Years](https://open.spotify.com/artist/6X2cD6Y4zRNwn8ZkYPHKe6) | [Never Not Blue](https://open.spotify.com/album/4tjfLoQBrwN7JoUOkqEpyH) | 3:10 | 2023-03-17 |  |
 | [It's Bad You Know](https://open.spotify.com/track/1AcvqJhm4CXOFJ7INbR5rR) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 4:58 | 2020-12-01 |  |
 | [John the Revelator](https://open.spotify.com/track/4OKEETxdou0lR7LEVvEpaG) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Steve Fitzmaurice](https://open.spotify.com/artist/5jeYVkZ5F8orMysIIFNtOY) | [Playing the Angel](https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz) | 3:41 | 2020-12-01 |  |
-| [John The Revelator](https://open.spotify.com/track/343lHi9sB146HH6sGmjsL1) | [Mortal Prophets](https://open.spotify.com/artist/3Y2UzZ6Uelgt7zmIuWlZ6R), [Gary Lucas](https://open.spotify.com/artist/7pfGmIs49lIUBtoqAtyUEH) | [John The Revelator](https://open.spotify.com/album/1RiftRxnvWj7gPhOW6gzb3) | 2:32 | 2022-07-08 |  |
+| [John The Revelator](https://open.spotify.com/track/343lHi9sB146HH6sGmjsL1) | [Mortal Prophets](https://open.spotify.com/artist/3Y2UzZ6Uelgt7zmIuWlZ6R), [Gary Lucas](https://open.spotify.com/artist/7pfGmIs49lIUBtoqAtyUEH) | [John The Revelator](https://open.spotify.com/album/1RiftRxnvWj7gPhOW6gzb3) | 2:32 | 2022-07-08 | 2023-10-15 |
+| [John The Revelator](https://open.spotify.com/track/7dMvX09kC2aTr1xlSEdWdC) | [Mortal Prophets](https://open.spotify.com/artist/3Y2UzZ6Uelgt7zmIuWlZ6R), [Gary Lucas](https://open.spotify.com/artist/7pfGmIs49lIUBtoqAtyUEH) | [John The Revelator](https://open.spotify.com/album/6y02mgEYFdBIlR2w3OjWm2) | 2:32 | 2022-07-29 |  |
 | [Joshua Tree](https://open.spotify.com/track/3I0CQt2MQx6jKygLKTdmde) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Joshua Tree](https://open.spotify.com/album/1YnzjJJCICcYqynOL6GiCJ) | 3:57 | 2022-09-30 |  |
 | [K.I.S.S\. \- Remix](https://open.spotify.com/track/4l5bwvNLoDgCVrlD4nMzsZ) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [Citizens of Boomtown \(Deluxe\)](https://open.spotify.com/album/5twg48xOlAZwZsoPUxbyGm) | 6:01 | 2022-04-29 |  |
 | [Keisha Complexion](https://open.spotify.com/track/0gm0OruZdJlu8jamJe5OCh) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Keisha Complexion](https://open.spotify.com/album/2F8Fdmv6gXkewLOgTWD57R) | 3:18 | 2020-12-01 |  |

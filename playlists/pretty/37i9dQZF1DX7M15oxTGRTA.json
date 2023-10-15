@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 84227,
+  "num_followers": 84343,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTI2ZjhkYmIwZDJjNjBlMGZjZWI5YzI0ZTU3NTk1YzFiNzY0MGFi",
+  "snapshot_id": "MCwzMWU4NjgxM2JkOGQyYWQ3YmJkZjcyMDgyZGU3MzFhYmI5NWE4NDdk",
   "tracks": [
     {
       "added_at": "2023-09-14 19:15:58",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 299120,
-      "name": "Love T.K.O.",
-      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Spellbound",
         "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 292933,
       "name": "Rush Rush",
       "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 299120,
+      "name": "Love T.K.O.",
+      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Ben",
-        "url": "https://open.spotify.com/album/3xo2soey9XEBI5DlmT4KlQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "Ben - Single Version",
-      "url": "https://open.spotify.com/track/0ZFqB9g2FujbmMSrjqsL3j"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Shadow Dancing",
         "url": "https://open.spotify.com/album/3Ru1PEQBFI88kBIWcPGGS8"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 250200,
       "name": "(Our Love) Don't Throw It All Away",
       "url": "https://open.spotify.com/track/1RsxUuB1Q5OdseLpHMBkEN"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Ben",
+        "url": "https://open.spotify.com/album/3xo2soey9XEBI5DlmT4KlQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "Ben - Single Version",
+      "url": "https://open.spotify.com/track/0ZFqB9g2FujbmMSrjqsL3j"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Betty Wright Live",
-        "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
-      },
-      "artists": [
-        {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
-        }
-      ],
-      "duration_ms": 498866,
-      "name": "Tonight Is the Night - Live",
-      "url": "https://open.spotify.com/track/4vzcQG9LnS00DR6s2fSS3j"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Patti LaBelle's Greatest Hits",
         "url": "https://open.spotify.com/album/12ENRe4Pw9qXVXz10nng3R"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 283440,
       "name": "On My Own - Single Version",
       "url": "https://open.spotify.com/track/29UXndgjLVTUZ8b1Mhz9CR"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Betty Wright Live",
+        "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
+      },
+      "artists": [
+        {
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+        }
+      ],
+      "duration_ms": 498866,
+      "name": "Tonight Is the Night - Live",
+      "url": "https://open.spotify.com/track/4vzcQG9LnS00DR6s2fSS3j"
     },
     {
       "added_at": "2023-09-14 19:15:58",

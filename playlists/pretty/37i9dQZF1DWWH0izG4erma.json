@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS! Cover: The Cadillac Three",
-  "num_followers": 565328,
+  "num_followers": 565443,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2FkNjg4MmY0YWU0ZDIxZmI3NDlhODVmMTc4N2JkMmFjNDhmNmQ3",
+  "snapshot_id": "MCwyNTMzZTY2YTVkMDZkZmI1ZGQ2OGVmMmNlZjIxNTg1Y2I4N2VlMTRl",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Looking Back Now",
-        "url": "https://open.spotify.com/album/47MPMs9cQemgI2ek85Rbqd"
+        "name": "Tough Crowd",
+        "url": "https://open.spotify.com/album/3BC1GZqDkYOdF0Icf2iebE"
       },
       "artists": [
         {
-          "name": "Cody Hibbard",
-          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 209836,
-      "name": "Looking Back Now",
-      "url": "https://open.spotify.com/track/37imLguIvWwDJNT6RGO2Qi"
+      "duration_ms": 200200,
+      "name": "Tough Crowd",
+      "url": "https://open.spotify.com/track/3CK7htQR2ighxCjU2vra9z"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Tough Crowd",
-        "url": "https://open.spotify.com/album/3BC1GZqDkYOdF0Icf2iebE"
+        "name": "Looking Back Now",
+        "url": "https://open.spotify.com/album/47MPMs9cQemgI2ek85Rbqd"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
         }
       ],
-      "duration_ms": 200200,
-      "name": "Tough Crowd",
-      "url": "https://open.spotify.com/track/3CK7htQR2ighxCjU2vra9z"
+      "duration_ms": 209836,
+      "name": "Looking Back Now",
+      "url": "https://open.spotify.com/track/37imLguIvWwDJNT6RGO2Qi"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 240265,
+      "name": "Fuss and Fight",
+      "url": "https://open.spotify.com/track/663iLprLvjr0JatL4IVqUH"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Manchester",
         "url": "https://open.spotify.com/album/4u7tys2Fn3FDS5gVUJEJWB"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 161973,
       "name": "Over Me By Now",
       "url": "https://open.spotify.com/track/2KLAl3FGKwh0jxbxR7jYWI"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Gold Chain Cowboy",
-        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Wait Outside",
-      "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Call It Country",
-        "url": "https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h"
+        "name": "Gold Chain Cowboy",
+        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
       },
       "artists": [
         {
-          "name": "Travis Denning",
-          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 151148,
-      "name": "Call It Country",
-      "url": "https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT"
+      "duration_ms": 201173,
+      "name": "Wait Outside",
+      "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
     }
   ],
   "unique_name": "Country Rocks",

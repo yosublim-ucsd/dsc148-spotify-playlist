@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: Low Disco
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,492 likes - 65 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,490 likes - 65 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 64 | [Siento Siento](https://open.spotify.com/track/6gBzC3Aldrj78W0dLWgqC3) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Siento Siento](https://open.spotify.com/album/1pGfEaQriYYtZhvP1GBc8p) | 2:57 |
 | 65 | [Believe Me](https://open.spotify.com/track/6Z3fxMhJqzXHvD6aPqevWQ) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Believe Me](https://open.spotify.com/album/6QgMlohOjyqxqnM8yoX3dV) | 3:13 |
 
-Snapshot ID: `MCw3NWUyZWE5NDBjMzI5OWI2OTg2ODA3YTE0OWZiZDYwM2QxMWIxMGRm`
+Snapshot ID: `MCw1NzZlYzUyMTcyYjAzZGJhNGMyMDQ4OGI5YjMzNTcyNTUwMjIwODE0`

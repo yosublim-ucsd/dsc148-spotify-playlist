@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl?si=BG7B9bJ\-TwWccNonxJ5DhA"> أصالة </a>
 
-678 songs - 1 day 14 hr 23 min
+679 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Bada'ay Kol Yoom Ala'eeh](https://open.spotify.com/track/0vGbKViJA6J79xBuMU4bGQ) | [Mohamed Mohsen](https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv) | [Bada'ay Kol Yoom Ala'eeh](https://open.spotify.com/album/7HiynIymuo0REPL1Udiarg) | 2:57 | 2023-06-29 | 2023-08-02 |
 | [baet wahdak](https://open.spotify.com/track/15DNX2g87vP8AgvNxF5yDa) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [baet wahdak](https://open.spotify.com/album/2KJYV0GfkiCEIHQMtkukUL) | 3:44 | 2023-01-19 | 2023-02-24 |
 | [Bagheeb Bmzagy](https://open.spotify.com/track/6pC4o086d8fwArcIVdlyJT) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Bagheeb Bmzagy](https://open.spotify.com/album/4WL5gL4OulnpsFDXzba3ZT) | 3:20 | 2023-07-24 | 2023-08-18 |
-| [Bahebak](https://open.spotify.com/track/3H4aKXzXM8UrgcueXfGSLV) | [Azeem](https://open.spotify.com/artist/1C7GlEj3ifjU7NbXTgV2sN) | [Bahebak](https://open.spotify.com/album/6lGfM6xAHxoqCCthpYMsk0) | 3:02 | 2023-10-12 |  |
+| [Bahebak](https://open.spotify.com/track/3H4aKXzXM8UrgcueXfGSLV) | [Azeem](https://open.spotify.com/artist/1C7GlEj3ifjU7NbXTgV2sN) | [Bahebak](https://open.spotify.com/album/6lGfM6xAHxoqCCthpYMsk0) | 3:02 | 2023-10-12 | 2023-10-15 |
+| [Bahebak](https://open.spotify.com/track/4NCbUpDhOeCLjyBXNpSAcW) | [Azeem](https://open.spotify.com/artist/1C7GlEj3ifjU7NbXTgV2sN) | [Fiha Eh](https://open.spotify.com/album/2UdD6ElFXoz4VmVg5SLgrk) | 3:02 | 2023-10-12 |  |
 | [BALALEEN](https://open.spotify.com/track/1K6ekZzDLpket1RXwLb7t4) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [shendy](https://open.spotify.com/artist/7ANuJkzC0NE6lAK5itx0Dx) | [Balaleen](https://open.spotify.com/album/37UynY0uK4f0M9tRKcfubi) | 2:48 | 2022-06-02 | 2022-08-24 |
 | [Balbata](https://open.spotify.com/track/5NHOHEmOIGysPGy895thVt) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Balbata](https://open.spotify.com/album/6peahsqt5fShCKRvSqm6U7) | 2:46 | 2023-06-29 | 2023-08-02 |
 | [Banady 3alek](https://open.spotify.com/track/61sfLiMRUTWLCpsKfbf0Jy) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Banady 3alek](https://open.spotify.com/album/5fwF3SwuQicnvFxYGBPbNt) | 4:09 | 2022-03-03 | 2022-06-29 |

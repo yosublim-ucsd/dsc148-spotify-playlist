@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 
 > Blues favorites from 2022\. Cover: Eric Gales \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,336 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,335 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 | 8 | [Please Take My Hand](https://open.spotify.com/track/4b5MhQ12ztQKOIPoyESfR3) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [In Too Deep](https://open.spotify.com/album/4UsUWtLQqW0QyGFBKgddue) | 3:03 |
 | 9 | [Ain’t Killed Me Yet](https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Ain’t Killed Me Yet](https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu) | 3:01 |
 | 10 | [Feel Like Going Home](https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S) | 4:35 |
-| 11 | [Black Leaves](https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2) | 1:44 |
+| 11 | [Black Leaves](https://open.spotify.com/track/7wTXoVGiDC9jS0oxdfwLKv) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/1TNajOxU7C8rl6ciy5r1Im) | 1:44 |
 | 12 | [Another Life Goes By \- Mississippi Mix](https://open.spotify.com/track/3RjffU019GOzRzDsTmazDA) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Another Life Goes By \(Mississippi Mix\)](https://open.spotify.com/album/50ULdmZdXqCCMtxAQ2cnBH) | 3:48 |
 | 13 | [’62 Chevy](https://open.spotify.com/track/4M9P0IpYx9kZmo07CcwVNT) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be...](https://open.spotify.com/album/0wcbmTdkb0bUmKvRQkG25S) | 3:28 |
 | 14 | [Don't Bury Our Love](https://open.spotify.com/track/7Ja98hUS6HfvQN5UOIQCMh) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 5:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 | 74 | [Here I'm Is](https://open.spotify.com/track/6qXE9eEx24VsgKf0sCQouH) | [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [They Called It Rhythm & Blues](https://open.spotify.com/album/2Iv8pnhLaHJUf4KBNjaxU6) | 2:27 |
 | 75 | [Mirror Blues](https://open.spotify.com/track/4mFBpN5jyZCcYLQCw1aoRX) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/4zb5t7MpwxLujrl50tSPQN) | 3:39 |
 
-Snapshot ID: `MCw1Yjc5NTExNzI0ZjllOGEzOTg1ZWJlNDY0ZmQ4YzhkZjZjZTI0MmVl`
+Snapshot ID: `MCwyNTE3ODViODYzNDljMTgyNTM2MGMzZDA2OTZlYjg5ODYwZDQ2MGRi`

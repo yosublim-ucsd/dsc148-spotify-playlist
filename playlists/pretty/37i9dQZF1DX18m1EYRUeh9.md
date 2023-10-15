@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: Dana and Alden
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,309 likes - 87 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,461 likes - 87 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 86 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 87 | [Been and Gone](https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Wallace](https://open.spotify.com/artist/0MyoWugdPYngWgagHhIbWa) | [Been and Gone](https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89) | 4:40 |
 
-Snapshot ID: `MCwzMjRhNDAzYmExMTJhZDk5MTVhOWIxMGEwNWJjODU0NzlkZjY0YzY2`
+Snapshot ID: `MCxiNTczNDZlNTU1NjBlMWU3Mjg3N2MwNzU2NWZlY2RhMGU2NzA0NzQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,959 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,968 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 76 | [MARTINI](https://open.spotify.com/track/6gsAVrXRQvry6mzcobdULV) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [MARTINI](https://open.spotify.com/album/7m5EsYbaRK4g6DQvmidbd5) | 3:05 |
 | 77 | [Palestina](https://open.spotify.com/track/4MFjw5MqTZTiX3iOAk4mAA) | [Oken](https://open.spotify.com/artist/6paE2t0If1wcufBS2OE0b3), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Castiel](https://open.spotify.com/artist/6qi0AljxDOa1MnO8rv4dK2) | [UNBROKEN](https://open.spotify.com/album/1rncm29FDkVNHn4je7YEln) | 3:54 |
 | 78 | [Tesoro Mío](https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK) | [Yan Collazo](https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tesoro Mío](https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD) | 4:02 |
-| 79 | [Por Amor](https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn) | [TIVGO Cruz](https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW) | [Por Amor](https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2) | 3:04 |
-| 80 | [Amiga](https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:45 |
+| 79 | [Amiga](https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:45 |
+| 80 | [Por Amor](https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn) | [TIVGO Cruz](https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW) | [Por Amor](https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2) | 3:04 |
 | 81 | [TAYYA](https://open.spotify.com/track/0PmACpKJ9LCTSC9jWnMqen) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [TAYYA](https://open.spotify.com/album/2LuYJPF8X45qRlUJb5vfGv) | 2:40 |
 | 82 | [Problema](https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Problema](https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR) | 3:45 |
 | 83 | [Arte](https://open.spotify.com/track/4rAqN1N4r2tn6ixEgJP7Q7) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Arte](https://open.spotify.com/album/531LZb17gcTf6iu8wIc7kt) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 99 | [Si Si](https://open.spotify.com/track/58C7oLoWmbVgBIR7r7A3Ao) | [Osquel](https://open.spotify.com/artist/2pG0eQLB8CbmmWWmjJi4yd), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [Si Si](https://open.spotify.com/album/7fJRgKViojIrwZFyrAl76b) | 3:20 |
 | 100 | [En Mis Sueños](https://open.spotify.com/track/0CyBQFxnc2OQIZ2AVxDxLy) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Códigos](https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd) | 3:36 |
 
-Snapshot ID: `MCwxMjhkYzJhZjI3NTMyMjllOWZiYTcxZTUxMmQxZmZmMDExYWNmY2E3`
+Snapshot ID: `MCwxYjk4OTdhOTE5ZTAxM2EwYTYwNWI0NjczNmI5NmQxOWRmYjBhMGU5`

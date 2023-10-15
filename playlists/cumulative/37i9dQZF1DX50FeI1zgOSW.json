@@ -2879,7 +2879,7 @@
     },
     {
       "album": {
-        "name": "The Gym (Feat. Hyde Karty, J Mic)",
+        "name": "The Gym",
         "url": "https://open.spotify.com/album/2ie6Opxa86GV3gXjONECb6"
       },
       "artists": [
@@ -2892,6 +2892,10 @@
           "url": "https://open.spotify.com/artist/5diOq1Qfzspw7pN99vd8bH"
         },
         {
+          "name": "Azim Ousman",
+          "url": "https://open.spotify.com/artist/6Yu7WrUqltHbkBXZekd58r"
+        },
+        {
           "name": "J Mic",
           "url": "https://open.spotify.com/artist/5uCiefzBc4ZLTVr0x1J1nj"
         }
@@ -2900,7 +2904,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 376354,
-      "name": "The Gym (Feat. Hyde Karty, J Mic)",
+      "name": "The Gym",
       "url": "https://open.spotify.com/track/4JqF7JsvHJsYp9YpxiJnhe"
     },
     {

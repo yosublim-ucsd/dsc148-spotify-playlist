@@ -4,7 +4,7 @@
 
 > Enjoy music & episodes of "SPY×FAMILY"! /「SPY×FAMILY」の楽曲とエピソードを１つのプレイリストに。©TE/S, SFP
 
-133 songs - 11 hr 21 min
+134 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Liar](https://open.spotify.com/track/4KvgnEJsg3qcRcjUEUBYNo) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 1:40 | 2022-06-25 | 2022-07-29 |
 | [little by little](https://open.spotify.com/track/3F9ERq4EWsnTxlw2FbB1lx) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 1:47 | 2022-06-25 | 2022-07-29 |
 | [little by little](https://open.spotify.com/track/6Cq4LlXZkuSw8B8BUVJYFA) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 1:47 | 2022-06-25 |  |
+| [Little steps](https://open.spotify.com/track/5x3zRaTo5gHTsEvNvbt5C8) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [Little steps（TVアニメ『SPY×FAMILY』Season 2 挿入歌）](https://open.spotify.com/album/6qohjfb1eC5gveRdxYd5kH) | 4:27 | 2023-10-14 |  |
 | [Looks like a nice family](https://open.spotify.com/track/6AuKc1uIooF5Yv6SbXAHuI) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 1:45 | 2022-06-25 |  |
 | [Looks like a nice family](https://open.spotify.com/track/6wOohqUNOnnG2bPakvSsl6) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 1:45 | 2022-06-25 | 2022-07-29 |
 | [Mixed Nuts](https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Mixed Nuts](https://open.spotify.com/album/2PN9UPqCKmZgXNtZPJtsc4) | 3:33 | 2022-06-25 |  |

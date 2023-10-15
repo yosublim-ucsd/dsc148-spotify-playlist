@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-487 songs - 1 day 7 hr 18 min
+488 songs - 1 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Flower is a Lonesome Thing](https://open.spotify.com/track/75M8G3DXdEqW3jJI4OyI5r) | [Lauren Richardson](https://open.spotify.com/artist/22cERTGpksi71aIOeGVYf6) | [A Flower is a Lonesome Thing](https://open.spotify.com/album/1lyGazJswD2YoFvtE2hSCV) | 5:26 | 2020-10-20\* | 2020-11-11 |
 | [A Foggy Day](https://open.spotify.com/track/3FA7CJVBbXBCR6G9W3j6DH) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [A Foggy Day](https://open.spotify.com/album/3MPhQbsiYueZQ89XBRCgL1) | 4:19 | 2020-10-20\* | 2020-11-18 |
 | [A Life Remembered](https://open.spotify.com/track/1Z2syyXirlJMUq8NRh6r3t) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [A Life Remembered](https://open.spotify.com/album/787bxoPDOcR9LASFyyWlHA) | 2:56 | 2022-05-10 | 2023-02-24 |
+| [A Long Day](https://open.spotify.com/track/0G9w3EodK2pcqKhzB7KpN8) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [A Long Day](https://open.spotify.com/album/1NNC5s9uAgPIHxwi7VlvBs) | 2:48 | 2023-10-13 |  |
 | [A Lucky Break](https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Lucky Break](https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d) | 3:09 | 2023-04-20 |  |
 | [A Nightingale Sang in Berkeley Square](https://open.spotify.com/track/0qgA48HiqZZiCsfZxKuqRj) | [Cedar Walton](https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT) | [Seasoned Wood](https://open.spotify.com/album/6AMDV3hgEs0WIWlrEHaRE2) | 5:39 | 2021-01-28 | 2022-08-12 |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 | 2020-10-20\* | 2021-01-21 |
@@ -253,7 +254,7 @@
 | [Little Bell](https://open.spotify.com/track/1AQHHWxWaCZrMsqrdDTNng) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Little Bell](https://open.spotify.com/album/3Co6xU6tpBJqppc2TNis78) | 3:30 | 2022-10-07 |  |
 | [Little waltz](https://open.spotify.com/track/4QuXQLNCd3wruAmAKQG3rf) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [The Vanguard Date](https://open.spotify.com/album/73BDyNKwdzDNnA9fQ0WLUH) | 6:40 | 2021-01-31 | 2022-07-29 |
 | [Live Off The Juice](https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Live Off The Juice](https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA) | 3:22 | 2023-03-16 |  |
-| [Living Wage](https://open.spotify.com/track/5sJdvym5Byu7ae2Uf83A0U) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Living Wage](https://open.spotify.com/album/3RblofRHuUzCRipvjB0geC) | 3:41 | 2023-09-22 |  |
+| [Living Wage](https://open.spotify.com/track/5sJdvym5Byu7ae2Uf83A0U) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Living Wage](https://open.spotify.com/album/3RblofRHuUzCRipvjB0geC) | 3:41 | 2023-09-22 | 2023-10-15 |
 | [Lonely Woman \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/23VGdNEZzKVCpIazC3ZHK6) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Song For My Father](https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE) | 7:02 | 2021-01-21 | 2021-12-21 |
 | [Look around](https://open.spotify.com/track/2CiiP4HO5dwyFrvzqlvoVs) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Look around](https://open.spotify.com/album/5SLWLxPZeZepTlHGKrsm0r) | 3:45 | 2023-09-22 |  |
 | [Lost and Found](https://open.spotify.com/track/09YX8Z46RPayTuUF2Gmtiw) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Lost and Found](https://open.spotify.com/album/76v5tyzy1FuPR6XvYzXi3F) | 3:26 | 2020-10-20\* | 2021-01-07 |

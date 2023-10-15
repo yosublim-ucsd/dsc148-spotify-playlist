@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 45863,
+  "num_followers": 45924,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmIxNmJmMjJhNzU3NWJhZmQ5ZTAxM2EyMGRmYzhjYzhmYmE1NGNh",
+  "snapshot_id": "MCwwMWZjM2NhYWY1NjNjYTNlZWQxYzZjNjI4OWVlYmNiMTMzZjkxMzU3",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Reflections 06",
-        "url": "https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX"
-      },
-      "artists": [
-        {
-          "name": "Otto Taimela",
-          "url": "https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "The Prettiest Pearl",
-      "url": "https://open.spotify.com/track/6JYiDDcfTwNH9lWfXK0LV7"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Feorm Falorx",
         "url": "https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 186624,
       "name": "C.A.",
       "url": "https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Reflections 06",
+        "url": "https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX"
+      },
+      "artists": [
+        {
+          "name": "Otto Taimela",
+          "url": "https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "The Prettiest Pearl",
+      "url": "https://open.spotify.com/track/6JYiDDcfTwNH9lWfXK0LV7"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -571,26 +571,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Atlas der Gedanken",
-        "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
-      },
-      "artists": [
-        {
-          "name": "Mareena",
-          "url": "https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s"
-        },
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 322857,
-      "name": "Tagtraum",
-      "url": "https://open.spotify.com/track/2wY21rTqBmiqenCLLGDQG6"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Contain (In Key)",
         "url": "https://open.spotify.com/album/3juMh8Hi5Mo0t9MlkacYAo"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 488706,
       "name": "Contain (In Key)",
       "url": "https://open.spotify.com/track/7741k8FIhIzCt1gTA0F42J"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Atlas der Gedanken",
+        "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
+      },
+      "artists": [
+        {
+          "name": "Mareena",
+          "url": "https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s"
+        },
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 322857,
+      "name": "Tagtraum",
+      "url": "https://open.spotify.com/track/2wY21rTqBmiqenCLLGDQG6"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Weltenwandler",
+        "url": "https://open.spotify.com/album/3XyVUgsWgSN4TRzovG9dVb"
+      },
+      "artists": [
+        {
+          "name": "Klartraum",
+          "url": "https://open.spotify.com/artist/1euztWfCX0SHe8U5XZT6dF"
+        }
+      ],
+      "duration_ms": 316433,
+      "name": "Weltenwandler - Radio Edit",
+      "url": "https://open.spotify.com/track/6pKvjYAe7hTN17bemswHyl"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Penelope Trappes Death Revisited",
         "url": "https://open.spotify.com/album/3TBjkgkSa19gNdMBS7TTWy"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 315562,
       "name": "Penelope Trappes meets Silent Rumble",
       "url": "https://open.spotify.com/track/79YtxABJiZyLTsv7ac9JPh"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Weltenwandler",
-        "url": "https://open.spotify.com/album/3XyVUgsWgSN4TRzovG9dVb"
-      },
-      "artists": [
-        {
-          "name": "Klartraum",
-          "url": "https://open.spotify.com/artist/1euztWfCX0SHe8U5XZT6dF"
-        }
-      ],
-      "duration_ms": 316433,
-      "name": "Weltenwandler - Radio Edit",
-      "url": "https://open.spotify.com/track/6pKvjYAe7hTN17bemswHyl"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Dogtooth",
-        "url": "https://open.spotify.com/album/1VqyDNavZFGg51K7hgpQHf"
-      },
-      "artists": [
-        {
-          "name": "o k h o",
-          "url": "https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Dogtooth",
-      "url": "https://open.spotify.com/track/0uTTMTQdkZjmacsiSMQ71s"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Melting Hazard",
         "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Dogtooth",
+        "url": "https://open.spotify.com/album/1VqyDNavZFGg51K7hgpQHf"
+      },
+      "artists": [
+        {
+          "name": "o k h o",
+          "url": "https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Dogtooth",
+      "url": "https://open.spotify.com/track/0uTTMTQdkZjmacsiSMQ71s"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Radio Mnemosyne",
         "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
       },
@@ -843,26 +843,6 @@
       "duration_ms": 382000,
       "name": "L\u00e5ngt under noll",
       "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "R Abacus Lndr",
-        "url": "https://open.spotify.com/album/543Orm1f55ALN6N8QAgwkf"
-      },
-      "artists": [
-        {
-          "name": "Pulse Mandala",
-          "url": "https://open.spotify.com/artist/2aD4tPvrEtBG5CUwddFGLX"
-        },
-        {
-          "name": "Distant Fires Burning",
-          "url": "https://open.spotify.com/artist/1E7PNU01XheUuvLAlCZP5z"
-        }
-      ],
-      "duration_ms": 432439,
-      "name": "Antikythera Rddl",
-      "url": "https://open.spotify.com/track/2wyilqh7Q8GK0ws10oF1qk"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -899,38 +879,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Golden Apples of the Sun",
-        "url": "https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy"
+        "name": "R Abacus Lndr",
+        "url": "https://open.spotify.com/album/543Orm1f55ALN6N8QAgwkf"
       },
       "artists": [
         {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+          "name": "Pulse Mandala",
+          "url": "https://open.spotify.com/artist/2aD4tPvrEtBG5CUwddFGLX"
         },
         {
-          "name": "Jonathan Fitoussi",
-          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+          "name": "Distant Fires Burning",
+          "url": "https://open.spotify.com/artist/1E7PNU01XheUuvLAlCZP5z"
         }
       ],
-      "duration_ms": 273053,
-      "name": "Golden Apples Of The Sun",
-      "url": "https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Fate (B-Sides)",
-        "url": "https://open.spotify.com/album/6Ny5wg4YYEqZJvjkhNtHYJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/7KB4CfwXx6fdzGvLo4JKsW"
+      "duration_ms": 432439,
+      "name": "Antikythera Rddl",
+      "url": "https://open.spotify.com/track/2wyilqh7Q8GK0ws10oF1qk"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -955,6 +919,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Fate (B-Sides)",
+        "url": "https://open.spotify.com/album/6Ny5wg4YYEqZJvjkhNtHYJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/7KB4CfwXx6fdzGvLo4JKsW"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Night Journeys II",
         "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
       },
@@ -971,6 +951,26 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "duration_ms": 273053,
+      "name": "Golden Apples Of The Sun",
+      "url": "https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Remembranza",
         "url": "https://open.spotify.com/album/4wFHTdeCa6rLGmm0ExoxlB"
       },
@@ -983,6 +983,26 @@
       "duration_ms": 546986,
       "name": "Reflejo",
       "url": "https://open.spotify.com/track/1pNEw1owBotEBbQa6FZ042"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "M\u00f6bius (Aerial Ballet Created by Cie Xy)",
+        "url": "https://open.spotify.com/album/3JltziBX9Nyfj86n7BWyz0"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        },
+        {
+          "name": "Clemens Hourriere",
+          "url": "https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6"
+        }
+      ],
+      "duration_ms": 296626,
+      "name": "Poissons volants",
+      "url": "https://open.spotify.com/track/0wDzW0OiFhSRnaBITaXOPD"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1035,22 +1055,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "M\u00f6bius (Aerial Ballet Created by Cie Xy)",
-        "url": "https://open.spotify.com/album/3JltziBX9Nyfj86n7BWyz0"
+        "name": "HYbr:ID II",
+        "url": "https://open.spotify.com/album/3Q1ZzsQgj7RFkQ461bx023"
       },
       "artists": [
         {
-          "name": "Jonathan Fitoussi",
-          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
-        },
-        {
-          "name": "Clemens Hourriere",
-          "url": "https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6"
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
         }
       ],
-      "duration_ms": 296626,
-      "name": "Poissons volants",
-      "url": "https://open.spotify.com/track/0wDzW0OiFhSRnaBITaXOPD"
+      "duration_ms": 474155,
+      "name": "HYbr:ID Ectopia Elastic 2",
+      "url": "https://open.spotify.com/track/1nxXXmFSOruCTHumHkwayb"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1711,6 +1727,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "a journey...",
+        "url": "https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M"
+      },
+      "artists": [
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "duration_ms": 256146,
+      "name": "A Journey",
+      "url": "https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Yellowstone Ambient",
         "url": "https://open.spotify.com/album/4hUZot6kLlzNs6K2xewkO4"
       },
@@ -1739,42 +1771,6 @@
       "duration_ms": 283760,
       "name": "Momento",
       "url": "https://open.spotify.com/track/0EtJr0s6hot51xSgQ2ZBxI"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "a journey...",
-        "url": "https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M"
-      },
-      "artists": [
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
-        }
-      ],
-      "duration_ms": 256146,
-      "name": "A Journey",
-      "url": "https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Orphangene (Soundtrack from the motion picture \"Mondocane\")",
-        "url": "https://open.spotify.com/album/0ogiNUNzmcxlq0u335WOpe"
-      },
-      "artists": [
-        {
-          "name": "Federico Bisozzi",
-          "url": "https://open.spotify.com/artist/16a53ClNidSSeOXww0IQcU"
-        },
-        {
-          "name": "Tomat",
-          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
-        }
-      ],
-      "duration_ms": 191405,
-      "name": "Orphangene - Soundtrack from the motion picture \"Mondocane\"",
-      "url": "https://open.spotify.com/track/1pR5fyuTqpNrBbt4brVr3P"
     }
   ],
   "unique_name": "Electronic X",

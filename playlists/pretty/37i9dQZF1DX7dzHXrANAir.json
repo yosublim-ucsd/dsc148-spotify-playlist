@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 100943,
+  "num_followers": 100966,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODZjZmMxOGExMDQ0NGUwMjEyYzczNjQxZTM4MjMyMjhlNDRlNGQ2",
+  "snapshot_id": "MCw2Njc1ZWYwNDRkNjI1MjgwZmExNTc0YTNmNWNlOWY2NWM3M2FlMjA1",
   "tracks": [
     {
       "added_at": "2023-09-29 04:01:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Solitudes",
-        "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
+        "name": "Falling Colour",
+        "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
       },
       "artists": [
         {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
         }
       ],
-      "duration_ms": 277021,
-      "name": "We Begin",
-      "url": "https://open.spotify.com/track/48lkDJzIk3UKd3Eeclay4k"
+      "duration_ms": 215293,
+      "name": "Falling Colour",
+      "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Falling Colour",
-        "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
       },
       "artists": [
         {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 215293,
-      "name": "Falling Colour",
-      "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
+      "duration_ms": 277021,
+      "name": "We Begin",
+      "url": "https://open.spotify.com/track/48lkDJzIk3UKd3Eeclay4k"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Traveller (Lambert rework)",
-        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
-      },
-      "artists": [
-        {
-          "name": "Josin",
-          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
-        },
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 200259,
-      "name": "Traveller - Lambert rework",
-      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
         "name": "Circle 23 (Slow Meadow Rework)",
         "url": "https://open.spotify.com/album/66rfRw6aDTgOeSTT8xfN6J"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 323855,
       "name": "Circle 23 - Slow Meadow Rework",
       "url": "https://open.spotify.com/track/6Rk40KBJsfnmmQbg3R35VY"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Traveller (Lambert rework)",
+        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
+      },
+      "artists": [
+        {
+          "name": "Josin",
+          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
+        },
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 200259,
+      "name": "Traveller - Lambert rework",
+      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
+        "name": "Riva",
+        "url": "https://open.spotify.com/album/0awMKpZrc5zbUh4xJyct1w"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Frank Wiedemann",
+          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
+        }
+      ],
+      "duration_ms": 238602,
+      "name": "Riva",
+      "url": "https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
         "name": "Thaw",
         "url": "https://open.spotify.com/album/1iM5rggZglIiV4ISx0HBG7"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 280818,
       "name": "The Cheek of Daniel",
       "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Riva",
-        "url": "https://open.spotify.com/album/0awMKpZrc5zbUh4xJyct1w"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Frank Wiedemann",
-          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
-        }
-      ],
-      "duration_ms": 238602,
-      "name": "Riva",
-      "url": "https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
+        "name": "Mia",
+        "url": "https://open.spotify.com/album/7pXHsOc65eOPLumjSchoCU"
+      },
+      "artists": [
+        {
+          "name": "Wide Eyed",
+          "url": "https://open.spotify.com/artist/6MZ8FA8ZuJRh7TsksXAWQP"
+        }
+      ],
+      "duration_ms": 208307,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/5MdHNfHC2dH0872v9IF12c"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
         "name": "We All Have Places That We Miss",
         "url": "https://open.spotify.com/album/6fkKyjBBqmc7gmEGqshSAa"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 310000,
       "name": "Remembered Words",
       "url": "https://open.spotify.com/track/2EYXp9N9xFOejfAmj5skO8"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Mia",
-        "url": "https://open.spotify.com/album/7pXHsOc65eOPLumjSchoCU"
-      },
-      "artists": [
-        {
-          "name": "Wide Eyed",
-          "url": "https://open.spotify.com/artist/6MZ8FA8ZuJRh7TsksXAWQP"
-        }
-      ],
-      "duration_ms": 208307,
-      "name": "Mia",
-      "url": "https://open.spotify.com/track/5MdHNfHC2dH0872v9IF12c"
     },
     {
       "added_at": "2023-09-29 04:01:00",

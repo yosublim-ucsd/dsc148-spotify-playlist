@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-214 songs - 14 hr 50 min
+215 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Bring It On Home To Me](https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 3:10 | 2022-05-25 | 2023-08-25 |
 | [Bring It On Home To Me](https://open.spotify.com/track/68ixAqZIHxaLsyehgzknzz) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Deuces Wild](https://open.spotify.com/album/3qenNNOnGfbu4aZBQOy8hT) | 3:10 | 2022-05-25 | 2022-07-29 |
 | [Chained To The Rhythm](https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Pensive Pop](https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR) | 4:22 | 2022-08-18 |  |
+| [cigarettes & black lipstick](https://open.spotify.com/track/3YazpJjTDOs1pCZEhx4uRk) | [brake](https://open.spotify.com/artist/7abxh8jKgffWgxI12BESvb) | [cigarettes & black lipstick](https://open.spotify.com/album/6bB3twG3x8Y2f2w8u06KAu) | 3:00 | 2023-10-13 |  |
 | [Come Home Soon](https://open.spotify.com/track/7eRtuwFqQMdzpNM6arbA5s) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Get Behind the Wheel](https://open.spotify.com/album/38uG2SenaORYitq26CJnh9) | 2:43 | 2023-05-05 |  |
 | [Come on Sunshine](https://open.spotify.com/track/3E4fhNu7TbJLrKpbV3yWUp) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Come on Sunshine](https://open.spotify.com/album/7fHZJ4op3XqxSlmuUYoJ4f) | 4:16 | 2022-10-10 | 2023-09-22 |
 | [Come Rain or Come Shine](https://open.spotify.com/track/2Z7U506Agti2s9uxP564LE) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 4:11 | 2023-05-26 |  |
@@ -216,7 +217,7 @@
 | [Underground Railroad](https://open.spotify.com/track/6LtBXwNr2MJboOD3w5Zt4R) | [Shaneeka Simon](https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN), [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Underground Railroad](https://open.spotify.com/album/6ubhqCcDBYw0DabUMhxnIO) | 4:14 | 2023-04-21 |  |
 | [West Coast Eyes](https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [West Coast Eyes](https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC) | 4:05 | 2023-06-09 |  |
 | [What Am I To You?](https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:30 | 2022-05-25 |  |
-| [What Can I Do](https://open.spotify.com/track/1LVazB4PgKRwcQSHM9ZMvd) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG), [Dexter Allen](https://open.spotify.com/artist/6UBESW5c8QXYUJ4AcFo0XE) | [I'm Just Getting Started!](https://open.spotify.com/album/3PdVX86oO0mDnceN43LKPr) | 2:52 | 2023-10-02 |  |
+| [What Can I Do](https://open.spotify.com/track/1LVazB4PgKRwcQSHM9ZMvd) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG), [Dexter Allen](https://open.spotify.com/artist/6UBESW5c8QXYUJ4AcFo0XE) | [I'm Just Getting Started!](https://open.spotify.com/album/3PdVX86oO0mDnceN43LKPr) | 2:52 | 2023-10-02 | 2023-10-15 |
 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 | 2022-06-14 |  |
 | [Will o' the Wisp](https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Love, Death & In Between](https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2) | 3:23 | 2023-02-03 |  |
 | [Without You](https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Without You](https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp) | 3:20 | 2023-03-16 |  |

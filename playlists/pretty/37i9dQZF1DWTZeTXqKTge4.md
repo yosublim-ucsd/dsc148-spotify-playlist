@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Fredz
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,788 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,731 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 27 | [MOTOMAMI](https://open.spotify.com/track/7mdMJNBm9Ufi2yybr49DNT) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [30º](https://open.spotify.com/album/5cQjwwloSCbzEEFh9fLAuw) | 2:03 |
 | 28 | [DOUBLE BLOODY TEQUILA SPICY](https://open.spotify.com/track/35CT6vQO2llkhyUcDOMADH) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [DOUBLE BLOODY TEQUILA SPICY](https://open.spotify.com/album/18qmdGFOtmkFrw9eJeY1MV) | 2:51 |
 | 29 | [RING RING](https://open.spotify.com/track/6Ya5EWkJfiCdwzEnl2K1kk) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [NRNTB\_ROSE](https://open.spotify.com/album/58fzZ8IZk3JZbxKcVeUZbk) | 2:08 |
-| 30 | [Emballer](https://open.spotify.com/track/5Rp7AIHzkQP9nLty6EwHuK) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Sang pour Sang 66%](https://open.spotify.com/album/1QH9NmcW4ZKxZ5QfFeFqls) | 2:12 |
+| 30 | [Emballer](https://open.spotify.com/track/0eOFvt23wFrXi7j6QH9lgz) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Sang pour Sang 66%](https://open.spotify.com/album/5vShKF0bNg1VzgeN62B8N9) | 2:12 |
 | 31 | [Né pour briller](https://open.spotify.com/track/0baAzE9vvmyskTXLLJZwBF) | [Ô\-lit](https://open.spotify.com/artist/5lo3DSr7YufiuRYqbazv0O), [Sammas](https://open.spotify.com/artist/66FI9N92GnfwesvrkYSsH0) | [Né pour briller](https://open.spotify.com/album/41QLCXAfO2q2gXssjBljpl) | 2:56 |
 | 32 | [DIGNITÉ](https://open.spotify.com/track/4QKKKbdXAofomXFIcq9iCc) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE) | [DIGNITÉ](https://open.spotify.com/album/44AMN1iAYSq5xAlR2FgUR8) | 2:50 |
 | 33 | [EGK](https://open.spotify.com/track/5EDdPjs1fNdxmHGUCiV7MQ) | [Gutta192](https://open.spotify.com/artist/6xkNjwIRwqWMSw8ARQcppe), [VT](https://open.spotify.com/artist/6sAxiQQZfNZPbwnpFW9C1m) | [EGK](https://open.spotify.com/album/2yO4mSOgBVH41omCGeIi5J) | 2:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Drinking](https://open.spotify.com/track/4Sif8gDOINGLQ6gDP8yZjP) | [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0), [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa) | [Tiamat, Mon Amour](https://open.spotify.com/album/0Rh29AQkiNEw3wJNHC4Bzq) | 4:08 |
 | 75 | [CC](https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [CC](https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc) | 3:47 |
 
-Snapshot ID: `MCw0Zjk0NTY0Y2U3ZDg0NGRlNGY3NDg5MmUzNDA5Mjg2Y2ZlODU0ZDI0`
+Snapshot ID: `MCxlNmMyMjNkYjc0MGY1OTcyOGFlOTRlY2EyNzNkMzhkMjBiMTFjMzhi`

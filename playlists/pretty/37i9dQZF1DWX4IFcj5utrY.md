@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq?si=ioGpAv4HRSGt0DW1r3kQrg">FKA Mash</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,557 likes - 59 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,618 likes - 59 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 6 | [Don't Wake Up \(feat\. Sir Trill\)](https://open.spotify.com/track/4QgIdB09qSTOKERPzs9cGU) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY) | [Don't Wake Up \(feat\. Sir Trill\)](https://open.spotify.com/album/1dH3eSlqKD3VW5b4Drrdfi) | 5:46 |
 | 7 | [Let Me Go](https://open.spotify.com/track/2LcurVaMknHvPepjdLnz6r) | [Jullian Gomes](https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi), [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Let Me Go](https://open.spotify.com/album/4Y4Y3cyycPTRDawz6U8irG) | 6:55 |
 | 8 | [Yes God \- Mörda, Thakzin, Mhaw Keys Remix](https://open.spotify.com/track/0WPY91ucbS7OnJpo1x4smF) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [KG Smallz](https://open.spotify.com/artist/0AiHL2WtZP5LOxzr28uZjK), [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Mhaw Keys](https://open.spotify.com/artist/653Y1k21jYNqD7XY4lszrK), [Dearson](https://open.spotify.com/artist/1Xainl2EtdL0XRLDO0tUSD) | [Yes God \(Mörda, Thakzin, Mhaw Keys Remix\)](https://open.spotify.com/album/1lKbAHZVjunVFeZMEuwFLS) | 7:00 |
-| 9 | [Xola](https://open.spotify.com/track/570Syf2dv71r5dVvviXkro) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r), [Cnethemba Gonelo](https://open.spotify.com/artist/7sLmMT6etbYy4ypf5pVxwg), [George Lesley](https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL) | [Xola](https://open.spotify.com/album/1IAxsjPIP3XXPhTiVkuzzL) | 7:23 |
+| 9 | [Xola](https://open.spotify.com/track/570Syf2dv71r5dVvviXkro) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r), [George Lesley](https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL), [Cnethemba Gonelo](https://open.spotify.com/artist/7sLmMT6etbYy4ypf5pVxwg) | [Xola](https://open.spotify.com/album/1IAxsjPIP3XXPhTiVkuzzL) | 7:23 |
 | 10 | [Ungayithi Vu](https://open.spotify.com/track/6CFIi8rQ7MQ2dOmSC9bh3n) | [DJ Stax](https://open.spotify.com/artist/2KG86SSYFku57AL1maBD1o), [Thabie Ngethe](https://open.spotify.com/artist/28dVu3HWq12VgWurfooKye) | [Samuel & Chressie EP](https://open.spotify.com/album/0FfoGUMj2GotGp3p6Z6X9Z) | 7:11 |
 | 11 | [About The Weekend](https://open.spotify.com/track/3lEoFMhMMRYuRUkU24HiOM) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Sakhile Moleshe](https://open.spotify.com/artist/6pldHWtyWbWZUi5lBqrZpB) | [If Summer Was A Sound](https://open.spotify.com/album/3XfgIeHgOAfAeQz5qBXIzh) | 3:00 |
 | 12 | [Jeteme](https://open.spotify.com/track/4fD4Kag49mp8dm6bM8nRmx) | [Kekelingo](https://open.spotify.com/artist/4tNXPWxHHch1TCCXilE1q2), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Jeteme](https://open.spotify.com/album/2bnvhdPD6Z8BLgLGX3G0y1) | 6:22 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 58 | [Indlela](https://open.spotify.com/track/20biXVfOt8Fm1Mxo123d5c) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [Indlela](https://open.spotify.com/album/4SHct7kn98G7DW5KanqFO2) | 6:08 |
 | 59 | [Inkumbulo](https://open.spotify.com/track/1LmBIpU2a28oc3KKkW1RAA) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Inkumbulo](https://open.spotify.com/album/2edkP9y6Fy7PbkQiXGlbWt) | 5:22 |
 
-Snapshot ID: `MCw3MTA1NjBjNzRlYmQ4NWVhZjY3NmJlZjllMzc2NDA4YjNmZjcwNGVk`
+Snapshot ID: `MCwxZjkwOTY1MzgyMGNjM2QxOGE1MTQ4YWEwODZlNGIyZWE4NWQ1MWE1`

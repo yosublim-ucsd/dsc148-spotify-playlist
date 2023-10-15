@@ -1,12 +1,12 @@
 {
   "description": "It's the witching hours. ",
-  "num_followers": 122200,
+  "num_followers": 122683,
   "original_name": "Protect Your Energy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDQ3MmMwMmZhODBkMDMxMjYzMGYyMjlkYzBlZjk4OTg4OTBhNTM3",
+  "snapshot_id": "MCw5MGNiN2QwMTFhM2NmYWRmY2UxOGQ0YjlkZjEyYjZkYTQwMDFkMmJi",
   "tracks": [
     {
       "added_at": "2023-07-11 23:25:54",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
+        "name": "ZABA",
+        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Toes",
+      "url": "https://open.spotify.com/track/754wVXWrtf1X3ZHQOFFsnR"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
         "name": "Rainbow Mixtape",
         "url": "https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "ZABA",
-        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Toes",
-      "url": "https://open.spotify.com/track/754wVXWrtf1X3ZHQOFFsnR"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
         "name": "notre dame",
         "url": "https://open.spotify.com/album/6FG85HWGBfk6AbHszOjuSN"
       },
@@ -1139,22 +1139,6 @@
       "duration_ms": 258430,
       "name": "notre dame",
       "url": "https://open.spotify.com/track/4ni2PRjuIORNFXvWB74SqX"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
-        "name": "Wolfcat",
-        "url": "https://open.spotify.com/album/5mlgzPatuoMGqqHsPIofKr"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 174221,
-      "name": "Wolfcat",
-      "url": "https://open.spotify.com/track/1Hu2OypX8tMPwBcCUaAeO4"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Z",
-        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
+        "name": "Wolfcat",
+        "url": "https://open.spotify.com/album/5mlgzPatuoMGqqHsPIofKr"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         }
       ],
-      "duration_ms": 243744,
-      "name": "Sweet November",
-      "url": "https://open.spotify.com/track/7swGurTfZlwx7mTOE8PpIc"
+      "duration_ms": 174221,
+      "name": "Wolfcat",
+      "url": "https://open.spotify.com/track/1Hu2OypX8tMPwBcCUaAeO4"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -1203,6 +1187,22 @@
       "duration_ms": 176733,
       "name": "to Perth, before the border closes",
       "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
+        "name": "Z",
+        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 243744,
+      "name": "Sweet November",
+      "url": "https://open.spotify.com/track/7swGurTfZlwx7mTOE8PpIc"
     },
     {
       "added_at": "2023-07-11 23:25:54",

@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-175 songs - 13 hr 42 min
+176 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Car Wash](https://open.spotify.com/track/6esuuSi7EMHUUpAwiE2su4) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Live at the Village Vanguard](https://open.spotify.com/album/3UJbQf5jRzsa1B6mad1gVB) | 7:12 | 2022-09-13 |  |
 | [Cecilia](https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E) | 2:11 | 2023-05-03 |  |
 | [Chelsea Morning](https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1) | [Sara Colman](https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa) | [Ink on a Pin \- A Celebration of Joni Mitchell](https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk) | 3:52 | 2022-09-13 |  |
-| [Circle Game](https://open.spotify.com/track/1nznIr3ZHzQFYoQZ6s98ri) | [Lauren Bush](https://open.spotify.com/artist/0voLSXF4pGAKwcDXctLdLD) | [Circle Game](https://open.spotify.com/album/1zI5sP4mAW9p0eQsEMQSNi) | 5:49 | 2023-09-15 |  |
+| [Circle Game](https://open.spotify.com/track/1nznIr3ZHzQFYoQZ6s98ri) | [Lauren Bush](https://open.spotify.com/artist/0voLSXF4pGAKwcDXctLdLD) | [Circle Game](https://open.spotify.com/album/1zI5sP4mAW9p0eQsEMQSNi) | 5:49 | 2023-09-15 | 2023-10-15 |
 | [Comfortably Numb](https://open.spotify.com/track/0aQZxKrtx2JhXQfT4TD23E) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [For All I Care](https://open.spotify.com/album/3CGYqqKu94N6TBohkL35OV) | 6:41 | 2022-09-13 | 2022-10-08 |
 | [Conversation](https://open.spotify.com/track/2OsL9OwffBpmb4YlrEpxxB) | [Aubrey Johnson](https://open.spotify.com/artist/6WRb9e3LohpJwr0aA13eRi), [Randy Ingram](https://open.spotify.com/artist/1I1RsZSV9pEW8Zpz7feqpG) | [Play Favorites](https://open.spotify.com/album/18PqcQgK9HM9N3NaLnPc9H) | 4:23 | 2022-11-24 |  |
 | [Creep](https://open.spotify.com/track/32SkNdTcuxvUGjtv0ObOgu) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 3:31 | 2022-09-13 |  |
@@ -125,6 +125,7 @@
 | [Mrs\. Robinson](https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E) | 2:40 | 2022-10-05 |  |
 | [Mrs\. Robinson](https://open.spotify.com/track/5Eh00DCKRf5t8HAl84oNAl) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1SdiMRASc3tRVgoLPXOHba) | 2:40 | 2022-09-13 | 2022-10-05 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/3R3qPpiWfYbSqwgS7A8Ypy) | [Jimmy Scott](https://open.spotify.com/artist/5T7u5bYO62WTYOk5RBZwjo) | [Pedro Almodóvar \- Viva La Tristeza!](https://open.spotify.com/album/0BCoKgFUJxca69dLVXsRpH) | 6:18 | 2022-09-13 |  |
+| [Old Man](https://open.spotify.com/track/3YKQziKG4G6hAqkm9yvj1L) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Uncle John's Band](https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY) | 7:02 | 2023-10-13 |  |
 | [One Flight Down](https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Start Again EP](https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK) | 3:07 | 2023-02-28 |  |
 | [Only Love Can Break Your Heart \- Live](https://open.spotify.com/track/60LJcZ4RS3IDkp8KB3z6p9) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Only Love Can Break Your Heart](https://open.spotify.com/album/1E0PKpMCxtVth7DecWQfYk) | 6:04 | 2022-09-13 |  |
 | [Optimistic](https://open.spotify.com/track/3OmhKVNesWJ2BGF7UaLx7C) | [Max Haymer](https://open.spotify.com/artist/3Of3GFdC138OHGTMfC7JPP) | [Optimistic](https://open.spotify.com/album/1QCP0GWc0wl0UPs2KI8Nrf) | 6:09 | 2022-09-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Dylan Marlowe and Avery Anna
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,165,239 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,165,520 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Fool's Gold](https://open.spotify.com/track/4Pqc5qu1C7SZVuWz0d1Zut) | [Kimberly Perry](https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2) | [Fool's Gold](https://open.spotify.com/album/5U1Svg6Q5QPxBWBavA3hKB) | 3:20 |
 | 100 | [Boyfriend](https://open.spotify.com/track/5F8MMujEHaI2qqmj4EcwBP) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Boyfriend](https://open.spotify.com/album/56xSwVIp6AcuRrQjbbUeGz) | 2:18 |
 
-Snapshot ID: `MCxmNjc2MzZiMmIyNWFmMGMyMzBmODU3OGM0N2JhNzVkMDNmOWZmYWFm`
+Snapshot ID: `MCw4MDViYTllNjA3M2NhOTNlNjA2MGVlOTk0M2M2ZWJkZTQwYjkzZjVm`

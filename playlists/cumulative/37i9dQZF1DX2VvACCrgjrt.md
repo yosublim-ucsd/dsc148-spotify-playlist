@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Ookay & JSTJR
 
-553 songs - 1 day 5 hr 14 min
+554 songs - 1 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Light Show](https://open.spotify.com/track/5vCQx3NZg5e54gMgprzYqG) | [Halogen](https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e) | [Light Show](https://open.spotify.com/album/5AejAkCVG5O9NpfMLKA1SH) | 2:40 | 2021-10-29 | 2022-01-05 |
 | [Like Before](https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Like Before](https://open.spotify.com/album/2yVM47Pm3THWtF7L81Vz88) | 3:29 | 2022-06-24 | 2023-04-01 |
 | [Like I Do](https://open.spotify.com/track/7JBD5qv7cyDNKK9NuZoOrN) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [Like I Do](https://open.spotify.com/album/0vXwZFAWGvb87C0HfztBLd) | 3:25 | 2022-07-08 | 2022-11-15 |
-| [Like That](https://open.spotify.com/track/4enqcEaN9zRqZXlKltzyNC) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Like That](https://open.spotify.com/album/5HyWO2J3EnJsWS9RHIJtM9) | 3:27 | 2022-11-18 |  |
+| [Like That](https://open.spotify.com/track/4enqcEaN9zRqZXlKltzyNC) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Like That](https://open.spotify.com/album/5HyWO2J3EnJsWS9RHIJtM9) | 3:27 | 2022-11-18 | 2023-10-15 |
 | [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 | 2022-09-16 |  |
 | [LIMIT](https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [LIMIT](https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU) | 3:37 | 2023-06-30 |  |
 | [Lit](https://open.spotify.com/track/5iRHH6jgRk0JLTX0lmMRwk) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [JC Stormz](https://open.spotify.com/artist/5cBZZuan5Jn4TcIQoh58QV) | [Weird Times](https://open.spotify.com/album/4totTVKPMuKn4akaWB64jt) | 3:52 | 2021-10-29 | 2022-01-19 |
@@ -487,6 +487,7 @@
 | [Teen Scene \(ft Buddy\) \- Wax Motif Remix](https://open.spotify.com/track/79IJUGY4ELv8iMeAGYk83S) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Teen Scene \(Remixes\)](https://open.spotify.com/album/7Bv9aPTB8Fm0bEA6FLCz4I) | 4:31 | 2021-10-29 | 2022-05-28 |
 | [TELL ME](https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TELL ME](https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0) | 2:48 | 2022-05-13 | 2023-04-01 |
 | [Tell Me What](https://open.spotify.com/track/56AydkG6w9Mux2SGGUYGrF) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Tell Me What](https://open.spotify.com/album/4BjDdvhvjqcOljiVZ2U7KN) | 3:17 | 2022-02-04 | 2022-05-02 |
+| [TEQUILA](https://open.spotify.com/track/2h3Pf8SrVoNpy3no4WQlEn) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCCUBUS](https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ) | 3:03 | 2023-10-13 |  |
 | [That's Right](https://open.spotify.com/track/3z8PEIdsoccN24sC7h9tB5) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [That's Right](https://open.spotify.com/album/4XNPpkFl4X6DRFKo42oRHf) | 3:35 | 2023-09-08 |  |
 | [The Afterhour Waltz](https://open.spotify.com/track/1bpt1M45P9CntixjQ0apti) | [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [The Afterhour Waltz](https://open.spotify.com/album/7AyEpqNZeUzzwIluqR3PKC) | 3:00 | 2022-03-25 | 2022-09-10 |
 | [The Answer](https://open.spotify.com/track/29AIZjKOLwFkP2bgy9RS2j) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [The Answer](https://open.spotify.com/album/34gfhO5DSUVvqAPlaPskOn) | 3:10 | 2021-10-29 | 2022-05-28 |

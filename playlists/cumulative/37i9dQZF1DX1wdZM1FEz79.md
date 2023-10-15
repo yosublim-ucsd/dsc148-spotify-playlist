@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Lee Seol Ah\(이설아\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.\)
 
-469 songs - 1 day 3 hr 54 min
+470 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Bygones at night](https://open.spotify.com/track/6WvGNtdslqyHl8rYTxCyPk) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Bygones at night](https://open.spotify.com/album/4sFVw84S0iMunYWJrcMUQA) | 3:55 | 2022-03-31 | 2022-04-06 |
 | [Calling Your Name \(Feat\. Jeong hae il\)](https://open.spotify.com/track/30koQ2yWTshLUqx0d4xGLG) | [1014](https://open.spotify.com/artist/6DrNvtiDIKjnRsb7S67iKx), [Jeong Haeil](https://open.spotify.com/artist/63AlyeATteOmFWtJPgWlH6) | [Calling Your Name](https://open.spotify.com/album/4HcnHcyHWCqbdXlSuKHDfm) | 3:03 | 2022-12-21 | 2023-01-11 |
 | [Camping Episode: Let's Go Camping \(Music From "Sound Garden"\)](https://open.spotify.com/track/7KlXPh6RPpuNea6wvJY6WY) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Camping Episode: Let's Go Camping \(Music From "Sound Garden"\)](https://open.spotify.com/album/4Vi3kP5TmbgJq1y7K5kIIm) | 2:31 | 2021-12-10 | 2022-06-04 |
+| [Can I Be Me](https://open.spotify.com/track/6EUtGHQUEvqH1LzaitgSXw) | [훈정양](https://open.spotify.com/artist/4dv6MuOGWS4Y6tt7IbTnfp) | [Destined with You \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/14gtejc7d8d85MVpb8mL2E) | 3:26 | 2023-10-09 |  |
 | [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 | 2022-10-07 | 2023-05-10 |
 | [Cat 고양이](https://open.spotify.com/track/5MPYoxKteBooWtMDcL97ix) | [TAEG.E](https://open.spotify.com/artist/6gVunSTeWBpsD4pc78szcv) | [Cat 고양이](https://open.spotify.com/album/3WdXtwhYtSGrRuNPShw3L5) | 3:15 | 2022-04-12 | 2022-04-20 |
 | [Celebrity \- Acoustic](https://open.spotify.com/track/6sYwUFG8bG02yRtwDMuc8H) | [Dragon Stone](https://open.spotify.com/artist/0psw89QmbwHJemhN1kqPLh) | [Celebrity \(Acoustic\)](https://open.spotify.com/album/0zDLUzfQQCPFLJiROj5AAG) | 3:24 | 2022-02-10 | 2022-04-14 |
@@ -250,7 +251,7 @@
 | [My Love](https://open.spotify.com/track/5nNT4r7Uf5BC2q1YGBAHKS) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[01\]](https://open.spotify.com/album/1GVFJfl3LTpXNR1kwbEONJ) | 3:53 | 2023-04-27 | 2023-10-10 |
 | [My Night My Star](https://open.spotify.com/track/1SXVfhKdeOm5zEVtB5KLWG) | [GUNHO](https://open.spotify.com/artist/2eR3EeRLLHMoluqhYh0IGb) | [My Night My Star](https://open.spotify.com/album/6XPt8zxnyX6fww9hiTxIcd) | 3:41 | 2022-03-31 | 2022-04-13 |
 | [My secret, My everything](https://open.spotify.com/track/6VNyKGgsdiRCh7943735wV) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Sh\*\*ting Stars \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/3CtH176Djh4qoKAaV2NHdL) | 4:11 | 2022-05-13 | 2023-06-04 |
-| [My Ultimate First Love](https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.4 \[My Ultimate First Love\]](https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT) | 4:26 | 2023-05-15 |  |
+| [My Ultimate First Love](https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.4 \[My Ultimate First Love\]](https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT) | 4:26 | 2023-05-15 | 2023-10-15 |
 | [My World Is](https://open.spotify.com/track/2Daki1bJOM9Hc2fggCGwTR) | [Han Hee Jung](https://open.spotify.com/artist/0NT4MXp9wF0x8dRglwueHi) | [NOTATE](https://open.spotify.com/album/3wr995VlVU9qqONc0k0pZ2) | 3:14 | 2022-03-31 | 2022-04-14 |
 | [My Yellow](https://open.spotify.com/track/2QZ67tcgnbqziznZl6tC2k) | [YELO](https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD) | [My Yellow](https://open.spotify.com/album/30xUoTIuMQTUyFLreOiiDL) | 3:03 | 2021-12-10 | 2022-07-29 |
 | [Nap Fairy](https://open.spotify.com/track/3HlV3eW5V1nmql7xFIkYn8) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nap Fairy \- SM STATION](https://open.spotify.com/album/3G8R9rd7ILJwQ20iFc1ocQ) | 3:36 | 2022-08-26 | 2022-12-14 |

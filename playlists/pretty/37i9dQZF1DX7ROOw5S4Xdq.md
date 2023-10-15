@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Ton Carfi
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,186 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,214 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [Jesus Me Ajudou](https://open.spotify.com/track/5exZFiTyhQb26GpVGDWi41) | [Banda Gratidão](https://open.spotify.com/artist/4ri0muoRAKGbHu6JU86SdV), [Messias Santos](https://open.spotify.com/artist/6JfxRWqFwIAoWOMKZdJ6MY) | [Jesus Me Ajudou](https://open.spotify.com/album/25i3XaPgwB0b1DtY456W9U) | 3:33 |
 | 50 | [Coragem](https://open.spotify.com/track/283sfNgc1WnakpHwISkwNc) | [Célia Bueno](https://open.spotify.com/artist/7GWzRK6e1esN02UDMZLhpz) | [Coragem](https://open.spotify.com/album/6wi7jVvX2AjSJKadYczWN8) | 3:58 |
 
-Snapshot ID: `MCxlNDE5ZTA0YTY0ODk3ZTBkNjgxMzkzYjY1YWJmMzRjYjZhYjhjNWVi`
+Snapshot ID: `MCw2YjJiNDk1NWQ2YTM2NzJhYzVlNDA1ZTBjZmY0YTE1ODE2NTMyYTA4`

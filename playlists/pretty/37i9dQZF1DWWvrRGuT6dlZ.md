@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: ICEBOX\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,510 likes - 159 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,517 likes - 159 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 158 | [simon says](https://open.spotify.com/track/5PrAyJlzvbVszSDtHjDvXT) | [isaacprease](https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN), [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [simon says](https://open.spotify.com/album/0HmHQlwuTWzL9VPMk7AC1U) | 2:34 |
 | 159 | [Stay Here Tonight](https://open.spotify.com/track/39dbWw38KuNL77wf0GlelT) | [Andre Ang](https://open.spotify.com/artist/4OvRMrLoSSnK1HfbFlpq2G), [chocoloe](https://open.spotify.com/artist/17JnpB5VHM95aO5Ae6bInm) | [Stay Here Tonight](https://open.spotify.com/album/3rTG7H3DuRctsGrIpAaGhU) | 3:07 |
 
-Snapshot ID: `MCw3MDk5ZWE1ZGJhZjMzYzQ2ODNjMWVmZGFkZmE2MGI1YjAyYzM4ZTY3`
+Snapshot ID: `MCxhMWZmMjg5OWI5YzMzNWNmOGZiYTJmMzJjMDZhZTg0ZjExY2U0OGFm`

@@ -2,7 +2,7 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: DEBBY FRIDAY
+> La scène musicale montréalaise au premier plan\. Photo: Lou Phelps
 
 385 songs - 22 hr 14 min
 

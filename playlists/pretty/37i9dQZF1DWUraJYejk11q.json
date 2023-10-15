@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 457847,
+  "num_followers": 457792,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDczZjJmNzRiNDc2ZDliZGJmOWExMmZlOTg1ODY4Mjk5MTg1YjYy",
+  "snapshot_id": "MCxmNTRmYTZjMTU5MWJlZTBlNDNiYzFhZGMwMWUyYWY4YzBmNzYyYmIx",
   "tracks": [
     {
       "added_at": "2023-10-10 02:44:22",
@@ -273,6 +273,22 @@
       "url": "https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd"
     },
     {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+      },
+      "artists": [
+        {
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+        }
+      ],
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+    },
+    {
       "added_at": "2022-08-03 03:12:05",
       "album": {
         "name": "Sons Of",
@@ -291,22 +307,6 @@
       "duration_ms": 471786,
       "name": "A Ghost At Noon",
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
-    },
-    {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
-      },
-      "artists": [
-        {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
-        }
-      ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
       "added_at": "2022-03-18 05:02:00",
@@ -481,20 +481,20 @@
       "url": "https://open.spotify.com/track/7j15pOGVt7aHde9PWsrdCl"
     },
     {
-      "added_at": "2022-03-30 05:37:06",
+      "added_at": "2023-01-07 02:50:03",
       "album": {
-        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
-        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
+        "name": "ITSAME",
+        "url": "https://open.spotify.com/album/7Ffx32PXyHvhskEtCtN3xx"
       },
       "artists": [
         {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
+      "duration_ms": 461613,
+      "name": "ITSAME [group hugg]",
+      "url": "https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82"
     },
     {
       "added_at": "2022-07-15 18:13:54",
@@ -513,36 +513,20 @@
       "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
     },
     {
-      "added_at": "2023-01-07 02:50:03",
+      "added_at": "2022-03-30 05:37:06",
       "album": {
-        "name": "ITSAME",
-        "url": "https://open.spotify.com/album/7Ffx32PXyHvhskEtCtN3xx"
+        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
+        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
       },
       "artists": [
         {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
         }
       ],
-      "duration_ms": 461613,
-      "name": "ITSAME [group hugg]",
-      "url": "https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82"
-    },
-    {
-      "added_at": "2022-12-07 01:09:17",
-      "album": {
-        "name": "Jump & Shuffle (Live at the Hardware Store)",
-        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
-      },
-      "artists": [
-        {
-          "name": "Kid Koala",
-          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "Jump & Shuffle - Live at the Hardware Store",
-      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
     },
     {
       "added_at": "2022-07-15 05:34:07",
@@ -559,6 +543,22 @@
       "duration_ms": 331032,
       "name": "Surrounded By Neighbours",
       "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
+    },
+    {
+      "added_at": "2022-12-07 01:09:17",
+      "album": {
+        "name": "Jump & Shuffle (Live at the Hardware Store)",
+        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
+      },
+      "artists": [
+        {
+          "name": "Kid Koala",
+          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "Jump & Shuffle - Live at the Hardware Store",
+      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
     },
     {
       "added_at": "2022-02-25 05:12:51",
@@ -599,6 +599,22 @@
       "duration_ms": 246696,
       "name": "Closer - Daniel Avery Edit",
       "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
+    },
+    {
+      "added_at": "2022-03-30 05:10:26",
+      "album": {
+        "name": "tracing Rays [reality glo]",
+        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "tracing Rays [reality glo]",
+      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
     },
     {
       "added_at": "2023-01-07 03:51:32",
@@ -657,20 +673,20 @@
       "url": "https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t"
     },
     {
-      "added_at": "2022-03-30 05:10:26",
+      "added_at": "2022-04-12 02:09:40",
       "album": {
-        "name": "tracing Rays [reality glo]",
-        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
+        "name": "Minena",
+        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
       },
       "artists": [
         {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+          "name": "Ranma Entero",
+          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
         }
       ],
-      "duration_ms": 262240,
-      "name": "tracing Rays [reality glo]",
-      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
+      "duration_ms": 275574,
+      "name": "Minena",
+      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
       "added_at": "2023-03-03 04:19:45",
@@ -689,20 +705,20 @@
       "url": "https://open.spotify.com/track/1MmksCcZL31uJu8J4swpsC"
     },
     {
-      "added_at": "2022-04-12 02:09:40",
+      "added_at": "2022-04-29 18:24:26",
       "album": {
-        "name": "Minena",
-        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
       },
       "artists": [
         {
-          "name": "Ranma Entero",
-          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
         }
       ],
-      "duration_ms": 275574,
-      "name": "Minena",
-      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2023-01-04 00:21:35",
@@ -721,20 +737,20 @@
       "url": "https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ"
     },
     {
-      "added_at": "2022-04-29 18:24:26",
+      "added_at": "2023-06-01 23:13:49",
       "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+        "name": "Circuitous",
+        "url": "https://open.spotify.com/album/2zjSQpLovbXE8bUemBiOby"
       },
       "artists": [
         {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+          "name": "Afrikan Sciences",
+          "url": "https://open.spotify.com/artist/4Ewz395zbkN9YjaRc10t0U"
         }
       ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
+      "duration_ms": 334798,
+      "name": "Circuitous",
+      "url": "https://open.spotify.com/track/6vu6oVaFUJkHt49OeoaO3k"
     },
     {
       "added_at": "2022-01-19 22:44:25",
@@ -751,22 +767,6 @@
       "duration_ms": 361386,
       "name": "Fwd: Re: late (Ref.: karoshi)",
       "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
-    },
-    {
-      "added_at": "2023-06-01 23:13:49",
-      "album": {
-        "name": "Circuitous",
-        "url": "https://open.spotify.com/album/2zjSQpLovbXE8bUemBiOby"
-      },
-      "artists": [
-        {
-          "name": "Afrikan Sciences",
-          "url": "https://open.spotify.com/artist/4Ewz395zbkN9YjaRc10t0U"
-        }
-      ],
-      "duration_ms": 334798,
-      "name": "Circuitous",
-      "url": "https://open.spotify.com/track/6vu6oVaFUJkHt49OeoaO3k"
     },
     {
       "added_at": "2022-12-20 19:12:56",

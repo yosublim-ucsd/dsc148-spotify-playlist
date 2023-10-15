@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Nicolle Galyon
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,317 likes - 221 songs - 12 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,331 likes - 221 songs - 12 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [rooms.](https://open.spotify.com/track/1LFxcgibKQBrTGlYzjdGhL) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [Second Wife](https://open.spotify.com/album/6ozGfS9Cyd684kJhm3PRLI) | 2:33 |
+| 1 | [rooms.](https://open.spotify.com/track/1LFxcgibKQBrTGlYzjdGhL) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [second wife](https://open.spotify.com/album/6ozGfS9Cyd684kJhm3PRLI) | 2:33 |
 | 2 | [Fire Away](https://open.spotify.com/track/7s1s7ekwK0CJwhcXNZc76h) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Danny Green](https://open.spotify.com/artist/1vjMe9GuNXHGMe4oBMqSmK) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:39 |
 | 3 | [When You're My Age \(feat\. Hillary Lindsey & Liz Rose\)](https://open.spotify.com/track/5pet1oAtPaMCmrx3uDxkzv) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [When You're My Age \(feat\. Hillary Lindsey & Liz Rose\)](https://open.spotify.com/album/64Kt98Z8gUihw85TgI5gHd) | 5:11 |
 | 4 | [When It's My Time](https://open.spotify.com/track/2HKTn21q37EC4EibvaoEzg) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [When It's My Time](https://open.spotify.com/album/3QRherbInt8fExzq41yyoZ) | 4:33 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 16 | [El Cerrito Place](https://open.spotify.com/track/22RZDqi5xPHTPqk2Whwozf) | [Keith Gattis](https://open.spotify.com/artist/3JvvMZuSDpReAGChQX7p7k) | [Big City Blues](https://open.spotify.com/album/5erpYYkqMHqj4pQGRTDCdg) | 5:58 |
 | 17 | [The Driver](https://open.spotify.com/track/1LDeuD3jbSpHucsd0nOt6t) | [Charles Kelley](https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [The Driver](https://open.spotify.com/album/6YXkbmsVABrzPBO6Vknj2P) | 4:34 |
 | 18 | [Radio Silence](https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Radio Silence](https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe) | 3:42 |
-| 19 | [texas hold 'em.](https://open.spotify.com/track/4LgLudzcFPzho9RQh5iYve) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [Second Wife](https://open.spotify.com/album/6ozGfS9Cyd684kJhm3PRLI) | 2:43 |
+| 19 | [texas hold 'em.](https://open.spotify.com/track/4LgLudzcFPzho9RQh5iYve) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [second wife](https://open.spotify.com/album/6ozGfS9Cyd684kJhm3PRLI) | 2:43 |
 | 20 | [House That Built Me \(feat\. Miranda Lambert\)](https://open.spotify.com/track/2iVgOMl0q0IvEEZ1E1ALlI) | [Tom Douglas](https://open.spotify.com/artist/4gw3hsOJ9ruPCU8EVQhxEp), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Love, Tom \(Inspired By The Motion Picture\)](https://open.spotify.com/album/1bw3KyuU37Gj46m7qKH8eK) | 4:37 |
 | 21 | [When Something’s Gotta Give](https://open.spotify.com/track/2W7uaqP73dJAEdqKTFNBMH) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [When Something’s Gotta Give](https://open.spotify.com/album/4FLOgD3dGXPv8uCTZ5YEQY) | 3:23 |
 | 22 | [Fire Away](https://open.spotify.com/track/5j4hSQH0KaAc8f6cimnXIT) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:04 |
@@ -230,4 +230,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 220 | [Wild Thing](https://open.spotify.com/track/0DS8J8nibBxG6Ky2VhMhH1) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Wild Thing](https://open.spotify.com/album/33RnkjYAI2ltETjA3EIAZI) | 2:42 |
 | 221 | [Play Ball](https://open.spotify.com/track/5CTDvtk1JHrGEygDfx5Dml) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:27 |
 
-Snapshot ID: `MCw2MjAwZDQ0YjQ5M2U2OGM2ZjMzYmVjODEzZDc2MDc3NTQzZmRmZWIy`
+Snapshot ID: `MCxjMTJjNGZlNWEyMjIzZGM5NmI1NDUwOGQ4NTJmY2M3NjJiZTU4MzRl`

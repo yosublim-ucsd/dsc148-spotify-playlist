@@ -1349,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia - EP",
+        "url": "https://open.spotify.com/album/08UrXWqpnupcAipNIRzoVW"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230010,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/7LILABogx8SHeMPJbLBvBH"
+    },
+    {
+      "album": {
         "name": "Harry Styles",
         "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
       },
@@ -3624,7 +3642,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 216610,
       "name": "Writer In The Dark",
       "url": "https://open.spotify.com/track/193Dm5SqYy3hTSbuzxbwKc"

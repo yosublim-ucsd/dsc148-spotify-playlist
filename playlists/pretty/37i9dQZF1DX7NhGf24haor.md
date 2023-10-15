@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Hard Driver
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,080 likes - 93 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,194 likes - 93 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 92 | [Constellation Sky](https://open.spotify.com/track/49wI9eSpLdCForl4uJwSwY) | [XCEPTION](https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm) | [Constellation Sky](https://open.spotify.com/album/234D41xhuXVKPvQOlJoJRe) | 3:41 |
 | 93 | [Disruption](https://open.spotify.com/track/7llaEU5vkPVjkHE3DaRVb4) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Disruption](https://open.spotify.com/album/1GYyPR5JjoWHuJtCpHC6Kq) | 4:01 |
 
-Snapshot ID: `MCw5NjU4M2U0ZWYzODdhYjA4Mjg0ZmI4ZTU0ZDljMTJkMGU0MTZhZTQ5`
+Snapshot ID: `MCw3ZDA0NWVmMzJiOWJlYjkzZTY1NjdkYTZlMjRlY2Y3MGNkOWFiZjQ5`

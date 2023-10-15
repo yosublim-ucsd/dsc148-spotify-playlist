@@ -12014,7 +12014,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 376035,
       "name": "Eu Sou Teu Pai - Ao Vivo",
       "url": "https://open.spotify.com/track/34eKejr8wd69fFpL38IIfv"
@@ -14706,10 +14706,28 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 198448,
       "name": "Got Me Started",
       "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
+    },
+    {
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
     },
     {
       "album": {
@@ -14732,6 +14750,24 @@
     {
       "album": {
         "name": "greedy",
+        "url": "https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p"
+    },
+    {
+      "album": {
+        "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
       },
       "artists": [
@@ -14742,7 +14778,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -18670,16 +18706,16 @@
           "url": "https://open.spotify.com/artist/5zKrn256dtGXDCpOVlr22G"
         },
         {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+        },
+        {
           "name": "Mc Gw",
           "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         },
         {
           "name": "Mc Magrinho",
           "url": "https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI"
-        },
-        {
-          "name": "Mc Delux",
-          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
         },
         {
           "name": "Mc Pikachu",
@@ -23943,6 +23979,24 @@
     },
     {
       "album": {
+        "name": "O S\u00e9timo",
+        "url": "https://open.spotify.com/album/49RLL3qVVoGqDq3xp80fcB"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Lopes",
+          "url": "https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241110,
+      "name": "O Lamento de Israel",
+      "url": "https://open.spotify.com/track/1YW4luCadUUgjXmTWAO3OM"
+    },
+    {
+      "album": {
         "name": "O Lula ta vindo ai, faz o L ai",
         "url": "https://open.spotify.com/album/5eANuCKCdALqk8WBV9DJ8T"
       },
@@ -25600,6 +25654,10 @@
         {
           "name": "Kailane Frauches",
           "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
       "date_added": "2023-10-03",
@@ -32534,12 +32592,12 @@
           "url": "https://open.spotify.com/artist/0GdMuH0u9HyAz8cLvmg7gD"
         },
         {
-          "name": "MC Jacar\u00e9",
-          "url": "https://open.spotify.com/artist/3pfMg9hiGHJt0x9zDhiL7I"
-        },
-        {
           "name": "DJ Sammer",
           "url": "https://open.spotify.com/artist/6PZAe0r2oRjcMwriylvnWw"
+        },
+        {
+          "name": "MC Jacar\u00e9",
+          "url": "https://open.spotify.com/artist/3pfMg9hiGHJt0x9zDhiL7I"
         }
       ],
       "date_added": "2023-10-10",

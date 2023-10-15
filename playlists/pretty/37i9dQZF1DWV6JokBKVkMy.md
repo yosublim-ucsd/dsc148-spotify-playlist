@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 
 > The sound and soul that keeps Mauritius jamming
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,760 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,779 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 32 | [Mario](https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ) | [IVANN](https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm), [Bomboclak](https://open.spotify.com/artist/3XttXqwftYJosFdH5pNcVf), [Frank J](https://open.spotify.com/artist/7vf2a26PIY6jHSkriioJrT) | [Mario](https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv) | 3:50 |
 | 33 | [Atrap Mo lame](https://open.spotify.com/track/1s2wYId2KCCnytXzgDMVWS) | [MR LOVE](https://open.spotify.com/artist/2vQzCnVISITDwQgyIsg6RL), [Désiré François](https://open.spotify.com/artist/5mIOt0E1ya9g3Veq3VU0S8) | [Love Ambassador](https://open.spotify.com/album/6n5gNprPy0D1rHWbWWeq0b) | 4:43 |
 | 34 | [Fiesta Ravanna](https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn) | [Alain Ramanisum](https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1) | [Fiesta Ravanna](https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ) | 4:25 |
-| 35 | [Sega Champagne](https://open.spotify.com/track/1e2rj3iOYXGEJ6Ybftt5Uc) | [Dj sebak](https://open.spotify.com/artist/2UuZrG6o0LIr6DHfRmaCaW), [Allkind](https://open.spotify.com/artist/4wwdxuQPc2GPHX7floaX97) | [Sega Champagne](https://open.spotify.com/album/3Cml3TVka9BZIw3Rz6st5Q) | 3:51 |
-| 36 | [Ma demand aou pardon](https://open.spotify.com/track/0QYy1rBXI2qq0iosKzy66W) | [Morgan](https://open.spotify.com/artist/6YS1MAWIyEw8lWZb2hfN3d) | [Sort' dovan \(La compil\)](https://open.spotify.com/album/6h0C2gJIpSvBRiJUHxCBP0) | 4:45 |
+| 35 | [Ma demand aou pardon](https://open.spotify.com/track/0QYy1rBXI2qq0iosKzy66W) | [Morgan](https://open.spotify.com/artist/6YS1MAWIyEw8lWZb2hfN3d) | [Sort' dovan \(La compil\)](https://open.spotify.com/album/6h0C2gJIpSvBRiJUHxCBP0) | 4:45 |
+| 36 | [Sega Champagne](https://open.spotify.com/track/1e2rj3iOYXGEJ6Ybftt5Uc) | [Dj sebak](https://open.spotify.com/artist/2UuZrG6o0LIr6DHfRmaCaW), [Allkind](https://open.spotify.com/artist/4wwdxuQPc2GPHX7floaX97) | [Sega Champagne](https://open.spotify.com/album/3Cml3TVka9BZIw3Rz6st5Q) | 3:51 |
 | 37 | [Séga Li Lao](https://open.spotify.com/track/4d24yIdgzXxr9MrV4sCoBo) | [Valo](https://open.spotify.com/artist/6jCKvZ3AkM4jHLlSbS2s3o) | [Séga Li Lao](https://open.spotify.com/album/12pEc0RP8s9BTtYW7mY1WX) | 4:39 |
 | 38 | [Kitole](https://open.spotify.com/track/7iWQimkoqXZcrpINhfvjuZ) | [Clarel Armelle](https://open.spotify.com/artist/41OTWU0wQbtHwPDYCChtq2) | [A nou santt Cassya](https://open.spotify.com/album/241lyCwOGhmRLROixQD046) | 4:46 |
 | 39 | [Madame ohh](https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf) | [JSB Morning Game](https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7) | [Zalouzi](https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 49 | [Anita\-Papa / Creole\-Barè](https://open.spotify.com/track/5j5DHnAYh4qN7r7wkocP7a) | [Denis Azor](https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf) | [Music from Mauritius](https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3) | 6:10 |
 | 50 | [Medley: créole comme l'espagnol / Séga charlot](https://open.spotify.com/track/2DwjoEPD7o6fibRYnd4Zyd) | [Narmine Ducap](https://open.spotify.com/artist/5Y9cLaiuHNHVI6cXDcBpbC) | [Crazé salle verte](https://open.spotify.com/album/3u7u5R4RCYrLbQSmUuoFKK) | 3:35 |
 
-Snapshot ID: `MCwxZjAwZWUwOGVjYTBjYWNhZThkNDlhM2U0NGRiMmY2NjE0M2NhYzFk`
+Snapshot ID: `MCxiZmJjMzM1NDUzNzZjZTZhZDk4NDk2NmM3ZWVjNTU5NzU4ZjI2N2U0`

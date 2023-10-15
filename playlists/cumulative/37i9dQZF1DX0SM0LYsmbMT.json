@@ -9646,7 +9646,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 132133,
       "name": "Camelot",
       "url": "https://open.spotify.com/track/6bIGbpZ4EOfkhDcTP526Va"
@@ -47709,6 +47709,24 @@
     },
     {
       "album": {
+        "name": "Papa's Bravas",
+        "url": "https://open.spotify.com/album/6TXU2TlfX2dMos77CZHfjE"
+      },
+      "artists": [
+        {
+          "name": "Burrito Eats",
+          "url": "https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126915,
+      "name": "Papa's Bravas",
+      "url": "https://open.spotify.com/track/0beRAYfAfKtE6sDKDF7wn2"
+    },
+    {
+      "album": {
         "name": "papaya",
         "url": "https://open.spotify.com/album/0zrqz82mfGhh3SH35CkR0l"
       },
@@ -50096,7 +50114,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 106987,
       "name": "Primitivo",
       "url": "https://open.spotify.com/track/0oOoEhtArmpUgZKFCUaHAB"
@@ -50270,6 +50288,24 @@
       "duration_ms": 138823,
       "name": "Promises - Instrumental",
       "url": "https://open.spotify.com/track/0aB6XBZY6mkuGVtqkN0zCX"
+    },
+    {
+      "album": {
+        "name": "Promises Of Utopia",
+        "url": "https://open.spotify.com/album/2CrjzZRmta3JQNu1yXQAOS"
+      },
+      "artists": [
+        {
+          "name": "L E F",
+          "url": "https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135786,
+      "name": "Promises Of Utopia",
+      "url": "https://open.spotify.com/track/3Asjor2j7g68v2QmJC5W6V"
     },
     {
       "album": {

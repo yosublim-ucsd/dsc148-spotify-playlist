@@ -2000,10 +2000,28 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 191750,
       "name": "surrealismo.",
       "url": "https://open.spotify.com/track/6MtkCUkLfo9lxnbofkQbjC"
+    },
+    {
+      "album": {
+        "name": "Estamos Perdidas",
+        "url": "https://open.spotify.com/album/1r0MINXxS9jZqLGGWv6fvJ"
+      },
+      "artists": [
+        {
+          "name": "Ola Magenta",
+          "url": "https://open.spotify.com/artist/19m31uyfQ0ewdhrMqpuRxo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155204,
+      "name": "Te Recuerdo",
+      "url": "https://open.spotify.com/track/4GX6vpLfgIjC7l8OslTm3A"
     },
     {
       "album": {

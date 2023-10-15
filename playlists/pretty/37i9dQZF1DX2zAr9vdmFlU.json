@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena!",
-  "num_followers": 396095,
+  "num_followers": 396045,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTMxZDNiNTk4YTc3OGE5YTIyMDJhZDA4MzE4YWEyMWVjMjEwOTAx",
+  "snapshot_id": "MCw5ODFjZGIzODAwMWQ4NDRhNzE3OWEzZTAxZTA1ODVmODJjNzNlZTAx",
   "tracks": [
     {
       "added_at": "2023-09-01 16:55:14",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
-        "name": "iLevitable",
-        "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 249853,
-      "name": "Te Quiero Con Bugal\u00fa",
-      "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
         "name": "Obras Maestras",
         "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 201941,
       "name": "Voy",
       "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
+        "name": "iLevitable",
+        "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 249853,
+      "name": "Te Quiero Con Bugal\u00fa",
+      "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -519,26 +519,6 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
-        "name": "T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/5ZiEQlND2otG2zdBVzuQO9"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Vanesa Mart\u00edn",
-          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/71vzHHi7B66IZWfJfjVN7W"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
         "name": "Curita",
         "url": "https://open.spotify.com/album/1JgFkTn2qpYY8bPIduQMmF"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 206065,
       "name": "Curita",
       "url": "https://open.spotify.com/track/0Ryshb3D6BVfHvfqcRnGVa"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
+        "name": "T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/5ZiEQlND2otG2zdBVzuQO9"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Vanesa Mart\u00edn",
+          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/71vzHHi7B66IZWfJfjVN7W"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
+      },
+      "artists": [
+        {
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "El Chuchumb\u00e9",
+      "url": "https://open.spotify.com/track/7lm82SH3x1PJGDeaNgpFc8"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
         "name": "Para Llevar",
         "url": "https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 172411,
       "name": "Para Llevar",
       "url": "https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
-      },
-      "artists": [
-        {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
-        }
-      ],
-      "duration_ms": 208320,
-      "name": "El Chuchumb\u00e9",
-      "url": "https://open.spotify.com/track/7lm82SH3x1PJGDeaNgpFc8"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
-        "name": "Pelear",
-        "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
-      },
-      "artists": [
-        {
-          "name": "Blanco Palamera",
-          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
-        }
-      ],
-      "duration_ms": 252397,
-      "name": "Pelear",
-      "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
         "name": "Cookin' Gumbo",
         "url": "https://open.spotify.com/album/4pJ5dsbsazELJyHyMBS5Qe"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 209672,
       "name": "Speakin' Nuyorican",
       "url": "https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
+        "name": "Pelear",
+        "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
+      },
+      "artists": [
+        {
+          "name": "Blanco Palamera",
+          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
+        }
+      ],
+      "duration_ms": 252397,
+      "name": "Pelear",
+      "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 224261,
-      "name": "Price of Life",
-      "url": "https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
         "name": "Atacama!",
         "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 251830,
       "name": "El hombre que quiso ser canci\u00f3n",
       "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 224261,
+      "name": "Price of Life",
+      "url": "https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
-        "name": "Jogando Capoiera / Cookin'",
-        "url": "https://open.spotify.com/album/6jJ6faWit8XnOIdQ0WiCAi"
-      },
-      "artists": [
-        {
-          "name": "Beatfanatic",
-          "url": "https://open.spotify.com/artist/1FIkyRKs1x2ByTLq6BD6KA"
-        }
-      ],
-      "duration_ms": 410004,
-      "name": "Jogando Capoiera",
-      "url": "https://open.spotify.com/track/7x3s31ac8xceWrYDpmFAUi"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
         "name": "The Now Sound of Ursula 1000 (Deluxe Version)",
         "url": "https://open.spotify.com/album/7pyqMk8bzqQDIAFT2MdRKK"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 340946,
       "name": "Mambo 1000",
       "url": "https://open.spotify.com/track/1NuSZFERO5CMr0dSrWO3Lu"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
+        "name": "Jogando Capoiera / Cookin'",
+        "url": "https://open.spotify.com/album/6jJ6faWit8XnOIdQ0WiCAi"
+      },
+      "artists": [
+        {
+          "name": "Beatfanatic",
+          "url": "https://open.spotify.com/artist/1FIkyRKs1x2ByTLq6BD6KA"
+        }
+      ],
+      "duration_ms": 410004,
+      "name": "Jogando Capoiera",
+      "url": "https://open.spotify.com/track/7x3s31ac8xceWrYDpmFAUi"
     },
     {
       "added_at": "2023-09-01 16:55:14",

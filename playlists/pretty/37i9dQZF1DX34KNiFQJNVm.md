@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ana Castela, Djonga, Mc Davi, Di Propósito, Avine Vinny e João Gomes e muito mais
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,917,303 likes - 98 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,918,155 likes - 98 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 12 | [Escolhas \- Ao Vivo](https://open.spotify.com/track/3Nl0rYLIOCbAFXJi3Bitjn) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Além \- Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/2CNMWzDgeaGkEv9bMMxZnN) | 2:47 |
 | 13 | [Fica do Meu Lado](https://open.spotify.com/track/07s5sEJxDX9IZq5T6ox6BT) | [Caju Pra Baixo](https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Fica do Meu Lado](https://open.spotify.com/album/3l4DYm57I1ZUPyoA3HItMY) | 2:42 |
 | 14 | [Assume](https://open.spotify.com/track/1Pbfj8p5E54sqiKb8hHLnp) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy), [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs) | [Assume](https://open.spotify.com/album/3Rr9SrIZvXGp1BxyrzdNRR) | 2:33 |
-| 15 | [Encontro das Vozes: Favela Canta](https://open.spotify.com/track/2gaPah5WD38Llyf7k9jCa4) | [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB), [Vinny Santa Fé](https://open.spotify.com/artist/19A5pgqDMOLR3hHZ1Piv8d) | [Encontro das Vozes: Favela Canta](https://open.spotify.com/album/5BO7ZG3qAxr6y7O7ft7SC8) | 2:54 |
+| 15 | [Encontro das Vozes: Favela Canta](https://open.spotify.com/track/2gaPah5WD38Llyf7k9jCa4) | [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB), [Vinny Santa Fé](https://open.spotify.com/artist/19A5pgqDMOLR3hHZ1Piv8d), [Gold Records](https://open.spotify.com/artist/2JQXH0oAnBPhRbgfCU6Up5) | [Encontro das Vozes: Favela Canta](https://open.spotify.com/album/5BO7ZG3qAxr6y7O7ft7SC8) | 2:54 |
 | 16 | [Mal Te Conheço \- Ao Vivo](https://open.spotify.com/track/7Jd7K1nYzdycz1DuY9RH1m) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha Ao Vivo em São Paulo, Pt\. 2](https://open.spotify.com/album/5U1XbsQaSTr84Tyy1R36GV) | 2:37 |
 | 17 | [Atual Idiota](https://open.spotify.com/track/3pznozsS5fGuoFOMMcNQLE) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Paula Guilherme](https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS) | [Atual Idiota](https://open.spotify.com/album/6o8u8FyOx9CWqWg25XxTwx) | 3:51 |
 | 18 | [Vinho Branco](https://open.spotify.com/track/0UlXvVl6NufrExINO2yVlh) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Daqui pra Sempre, Vol\. 01](https://open.spotify.com/album/4d8sIBmiBYG1tM0h1rauKN) | 3:28 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 69 | [Vai Baby](https://open.spotify.com/track/3gO5dActvtB9ZWkeWFnWN7) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Vai Baby](https://open.spotify.com/album/5mbfo47NJ1RAhdjuTuBizX) | 2:50 |
 | 70 | [I'll Be There](https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [I'll Be There](https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ) | 2:46 |
 | 71 | [Saudade](https://open.spotify.com/track/4kLACPjEM0LONaeV4EPukM) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Saudade](https://open.spotify.com/album/6HcNjElqykWI4IYQk7OEE1) | 4:07 |
-| 72 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:02 |
+| 72 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 |
 | 73 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 |
 | 74 | [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 |
 | 75 | [CASALZÃO DA PORRA](https://open.spotify.com/track/0TwYstDiRvaqGEQA7jNhUj) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX) | [CASALZÃO DA PORRA](https://open.spotify.com/album/2q6EXTOaMRoozRJAE19e76) | 2:10 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 97 | [1,2 Joga de Ladinho](https://open.spotify.com/track/0sDYgMAbERBwwPFWVLWHej) | [Mc Arizinho](https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [Doug Hits](https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9) | [1,2 Joga de Ladinho](https://open.spotify.com/album/1HnwLLEn4H7N8CRddjNpck) | 2:42 |
 | 98 | [Tamanho G Grandão](https://open.spotify.com/track/3Br8QpyeJxVbSPZHbGkqvq) | [MC Durrony](https://open.spotify.com/artist/2s1GtomGAJ3fnqQBkUXbIL) | [Tamanho G Grandão](https://open.spotify.com/album/2KrIHAFNcBO4ZLWsuGMHJD) | 3:08 |
 
-Snapshot ID: `MCw2ZjQzMWVkMGQ3ZmEyZTNhOWEwYjA0NGI4OWI3ZmRlZjYxYjllZGMy`
+Snapshot ID: `MCwzNWMzZTg5YWY0YTZlZmEyYjQxNzZiNzRkOTlkMjlhMzk0Yjk3Y2Yw`

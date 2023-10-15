@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Takagi & Ketra, Shiva, ANNA, Geolier
 
-9,084 songs - 19 day 0 hr 39 min
+9,085 songs - 19 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3117,7 +3117,8 @@
 | [Ghosts & Monsters](https://open.spotify.com/track/6wiuGrjFcMug40fFI8ubqW) | [Saint Chaos](https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg) | [Ghosts & Monsters](https://open.spotify.com/album/0clz5BcSIR2cZOzMhMEsMa) | 2:43 | 2022-09-29 | 2022-10-07 |
 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 | 2023-02-09 | 2023-02-17 |
 | [Giant Feelings](https://open.spotify.com/track/2pSGUdDRQl6k0liOCbUza2) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Giant Feelings](https://open.spotify.com/album/19ICuGAKIU66VOA6MLc1WZ) | 2:19 | 2023-02-16 | 2023-02-24 |
-| [Giants](https://open.spotify.com/track/7ndDfDcxR4G53gR6DPHPE4) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Giants](https://open.spotify.com/album/0tA47zBZLHbTFTpmED2Cdf) | 2:50 | 2023-10-12 |  |
+| [Giants](https://open.spotify.com/track/4HKePZqfdN6yEYCmRguce2) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Giants](https://open.spotify.com/album/6JZ4h6RhoFqoRAWw3O2MkS) | 2:50 | 2023-10-12 |  |
+| [Giants](https://open.spotify.com/track/7ndDfDcxR4G53gR6DPHPE4) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Giants](https://open.spotify.com/album/0tA47zBZLHbTFTpmED2Cdf) | 2:50 | 2023-10-12 | 2023-10-15 |
 | [Gib Gib](https://open.spotify.com/track/1RUZl4jYcStuNxkwib8wBk) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Gib Gib](https://open.spotify.com/album/557EOriY4Y0nOixN726p9C) | 2:59 | 2022-05-12 | 2022-05-20 |
 | [Gib mir deine Luv](https://open.spotify.com/track/2lxkMOd1RwRKwEzSphOR7I) | [Smoothie 215](https://open.spotify.com/artist/3LdkCyOQTESOUSU9l0G90g) | [Gib mir deine Luv](https://open.spotify.com/album/0otUprgfxnadIT04zVXsFd) | 2:02 | 2023-06-01 | 2023-06-09 |
 | [Gib mir kein' Grund](https://open.spotify.com/track/2YDzzBkVJqV8tKS0G5PslR) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Gib mir kein' Grund](https://open.spotify.com/album/5ydb0ZcxSx5AvUlT7IWIwc) | 3:08 | 2022-04-28 | 2022-05-06 |
@@ -3180,7 +3181,7 @@
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-16 | 2023-02-24 |
 | [GLÜCK](https://open.spotify.com/track/5afR2N1zNLBABCVN27bI83) | [SIMONA](https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5) | [GLÜCK](https://open.spotify.com/album/5k8wweoEvfuUE8SIlkqEdB) | 2:29 | 2023-10-05 | 2023-10-13 |
 | [Glücklich](https://open.spotify.com/track/0PoorhuDSZ7hgvFT7C6fgf) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Altbau](https://open.spotify.com/album/2auKjXyzl5jD6heDu160dA) | 2:23 | 2022-03-24 | 2022-04-01 |
-| [Glücklich](https://open.spotify.com/track/3mHj8g9Dp0anu2ZofvrmvQ) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Glücklich](https://open.spotify.com/album/4YtSLkxMmm3smlrqVenbMV) | 2:20 | 2023-10-12 |  |
+| [Glücklich](https://open.spotify.com/track/3mHj8g9Dp0anu2ZofvrmvQ) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Glücklich](https://open.spotify.com/album/4YtSLkxMmm3smlrqVenbMV) | 2:17 | 2023-10-12 |  |
 | [GLÜHHEISSE WÜSTE](https://open.spotify.com/track/3uh7L7fuFckbpvHHVCsWid) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [GLÜHHEISSE WÜSTE](https://open.spotify.com/album/5Dtw4rxb33OoCvvDVK2x1O) | 2:32 | 2022-02-24 | 2022-03-04 |
 | [GMAIL](https://open.spotify.com/track/6cETuNTKBm0k4NiCJwU2bT) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [IL LE FALLAIT](https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S) | 2:59 | 2023-10-12 |  |
 | [Go](https://open.spotify.com/track/5AtFjz8lwWRKdMePvihCsT) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Go](https://open.spotify.com/album/7rO6wNrH5Q2tfGtaUdT4Ef) | 2:59 | 2023-05-18 | 2023-05-26 |
@@ -7724,7 +7725,7 @@
 | [Tempo](https://open.spotify.com/track/2YGQWut3lqKCp0DdBSpXNi) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x), [DISSY](https://open.spotify.com/artist/6CfRq9NZZaosSc1hEAXuwH), [MOAT](https://open.spotify.com/artist/5TpOHlMJq0MeICLiePUXHz) | [Tempo](https://open.spotify.com/album/0lmYDtp9eUKwiLq3pMM2zH) | 2:51 | 2022-02-24 | 2022-03-04 |
 | [Tempo sprecato](https://open.spotify.com/track/25pgZHg8tCEJWTgCSgrjBJ) | [Crucchi Gang](https://open.spotify.com/artist/3ArPx3d8MOwCmBx9UDkQig), [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Fellini](https://open.spotify.com/album/6HZYWvLgahrl9ZtbAvllRI) | 4:15 | 2023-05-25 | 2023-06-02 |
 | [Temporary \(feat\. Don Toliver\)](https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Since I Have A Lover](https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC) | 2:58 | 2023-03-24 | 2023-03-31 |
-| [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:02 | 2023-10-12 |  |
+| [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 | 2023-10-12 |  |
 | [Tennis auf der Wii](https://open.spotify.com/track/3jabAt6rMX0DOE4uAtoLIq) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Endlich Wieder Sommer](https://open.spotify.com/album/6J7ed0Og9sVNB9V3TAuCmS) | 2:49 | 2023-02-23 | 2023-03-03 |
 | [Tension](https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension](https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA) | 3:36 | 2023-08-31 | 2023-09-08 |
 | [Tension \(feat\. Mila Falls\) \- Radio Edit](https://open.spotify.com/track/08WD0OtiU1jQ2nBQQSymZ5) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Tension \(feat\. Mila Falls\) \[Radio Edit\]](https://open.spotify.com/album/0poG2NDAeUqWZsH74oT7zJ) | 2:36 | 2022-05-26 | 2022-06-03 |

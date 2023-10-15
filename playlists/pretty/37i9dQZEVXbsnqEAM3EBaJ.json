@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyODYxMDAsMDAwMDAwMDA3NDM0NmZmMzk1MzU5MTIxYjMwMDIzYTY1MzUyZTZhZA==",
+  "snapshot_id": "MjgyODYxMDAsMDAwMDAwMDA0ZjlkZjZiYmI0NmU5MDE3MzIyMWEyNDgxZjk2YjFhZA==",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -155,26 +155,38 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Great Piano Transcriptions from the Golden Age, Vol. 5",
-        "url": "https://open.spotify.com/album/27nFbgBGgM7gnb1xzt6cvr"
+        "name": "One Track Mind (Live at Hull City Hall, 22/6/1983)",
+        "url": "https://open.spotify.com/album/4aQFtLSp3Uux25rRtFrejZ"
       },
       "artists": [
         {
-          "name": "Alexandre Lecocq",
-          "url": "https://open.spotify.com/artist/56k2mJK9IeFWxIEAjyKDmW"
-        },
-        {
-          "name": "P. Gayraud",
-          "url": "https://open.spotify.com/artist/65UM2PBxuBuBkbe7D7gRf8"
-        },
-        {
-          "name": "Peter Phillips",
-          "url": "https://open.spotify.com/artist/2aWlsaSemY3u7rGARqX1xp"
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 668260,
-      "name": "Le Fille De Madame Angot (Arr. Solo Piano by Gayraud): Fantasia and Selection of Themes - Welte-Mignon 2810",
-      "url": "https://open.spotify.com/track/00i4CBjCpxqiQpkEeT033t"
+      "duration_ms": 245266,
+      "name": "One Track Mind - Live at Hull City Hall, 22/6/1983",
+      "url": "https://open.spotify.com/track/4vRcgWjmYHGToSJyJvEEIu"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Aria: Piano pieces by Bach & other great composers",
+        "url": "https://open.spotify.com/album/7jLzCDIHh1C4IDqiSFUS0B"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 56059,
+      "name": "Goldberg Variations, BWV 988: Var. 4",
+      "url": "https://open.spotify.com/track/0iAHhP9V1pX1x3Gf06iRhj"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -211,22 +223,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "To The Faithful Departed (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44VTFJKruvFCS3solylzrP"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "When You're Gone - Paris Demo",
-      "url": "https://open.spotify.com/track/1TCm2tVpawmLoTCAuEXmV7"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Rewind Forward",
         "url": "https://open.spotify.com/album/2ETwP4mpMMUgx9BYYuzdmm"
       },
@@ -239,42 +235,6 @@
       "duration_ms": 186453,
       "name": "Feeling The Sunlight",
       "url": "https://open.spotify.com/track/1YpeUoLUxtvVV09t1ltR3d"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        },
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 176529,
-      "name": "Naughty Girl",
-      "url": "https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Live At Glam Slam",
-        "url": "https://open.spotify.com/album/3vrx9weTIyEQLaPvyB6mqw"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 331629,
-      "name": "Diamonds and Pearls - Live at Glam Slam, Minneapolis, MN, 1/11/1992",
-      "url": "https://open.spotify.com/track/2WcnUyVio7x2DO2Sj0TSP6"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -299,22 +259,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "One Track Mind (Live at Hull City Hall, 22/6/1983)",
-        "url": "https://open.spotify.com/album/4aQFtLSp3Uux25rRtFrejZ"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 245266,
-      "name": "One Track Mind - Live at Hull City Hall, 22/6/1983",
-      "url": "https://open.spotify.com/track/4vRcgWjmYHGToSJyJvEEIu"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK"
       },
@@ -327,6 +271,30 @@
       "duration_ms": 179091,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Warenkorb",
+        "url": "https://open.spotify.com/album/6LpRZvVjg5fCsM27KwAJCe"
+      },
+      "artists": [
+        {
+          "name": "Perfektomat",
+          "url": "https://open.spotify.com/artist/48qveLDPBlvMKdgdJG8sJt"
+        },
+        {
+          "name": "Retrogott",
+          "url": "https://open.spotify.com/artist/5tVBk9HCvx9dELxzEgQ2ll"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        }
+      ],
+      "duration_ms": 256444,
+      "name": "Warenkorb",
+      "url": "https://open.spotify.com/track/69HzNcNqVpx53fQM9PXIxO"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -363,6 +331,42 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Live At Glam Slam",
+        "url": "https://open.spotify.com/album/3vrx9weTIyEQLaPvyB6mqw"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 331629,
+      "name": "Diamonds and Pearls - Live at Glam Slam, Minneapolis, MN, 1/11/1992",
+      "url": "https://open.spotify.com/track/2WcnUyVio7x2DO2Sj0TSP6"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "duration_ms": 176529,
+      "name": "Naughty Girl",
+      "url": "https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "40 y MM",
         "url": "https://open.spotify.com/album/3kwh1wumBMqfivrWVKEGNO"
       },
@@ -391,22 +395,6 @@
       "duration_ms": 230256,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Live (Josh's Picks 2023)",
-        "url": "https://open.spotify.com/album/11C7tdezWMJH7kNKPwnEXI"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 508693,
-      "name": "Black (Live in St Paul, 8/31/2023)",
-      "url": "https://open.spotify.com/track/6cHKAsShpZTBbb81ipbOee"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -527,6 +515,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "To The Faithful Departed (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/07lKVrnG3PmC9mndjDiJsb"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "When You're Gone - Paris Demo",
+      "url": "https://open.spotify.com/track/1ZTMDYbT0BG43f07S5yrRR"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "I'm On The Lamb But I Ain't No Sheep (Live)",
         "url": "https://open.spotify.com/album/4GrEbPIoWJVmKb8BBjHNH3"
       },
@@ -559,6 +563,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "(i)",
+        "url": "https://open.spotify.com/album/3raVH1dBBNAguI8WqQE0vn"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 183404,
+      "name": "(i)",
+      "url": "https://open.spotify.com/track/3Ve1TJKgbzNBBk3cTZN0Hv"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Yo Ya Lo Dejo",
         "url": "https://open.spotify.com/album/4QbuO5zOiA2SH0m8POyv78"
       },
@@ -579,18 +599,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "(i)",
-        "url": "https://open.spotify.com/album/3raVH1dBBNAguI8WqQE0vn"
+        "name": "Live 1978 - 1992",
+        "url": "https://open.spotify.com/album/0HzNGuEaCuKDmYsZACO83h"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
         }
       ],
-      "duration_ms": 183404,
-      "name": "(i)",
-      "url": "https://open.spotify.com/track/3Ve1TJKgbzNBBk3cTZN0Hv"
+      "duration_ms": 442360,
+      "name": "Portobello Belle - Extended Intro / Live At Hammersmith Odeon, London / 1983 / Mixed And Remastered 2023",
+      "url": "https://open.spotify.com/track/0UwtpEJKrbCgrONqPjvcMu"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -611,18 +631,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Live 1978 - 1992",
-        "url": "https://open.spotify.com/album/0HzNGuEaCuKDmYsZACO83h"
+        "name": "I've Seen All Good People: Your Move / All Good People (Early Take) [2023 Remaster]",
+        "url": "https://open.spotify.com/album/0cnJiazhNlQWgP9fuUITwP"
       },
       "artists": [
         {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
         }
       ],
-      "duration_ms": 442360,
-      "name": "Portobello Belle - Extended Intro / Live At Hammersmith Odeon, London / 1983 / Mixed And Remastered 2023",
-      "url": "https://open.spotify.com/track/0UwtpEJKrbCgrONqPjvcMu"
+      "duration_ms": 231093,
+      "name": "I've Seen All Good People: Your Move / All Good People (Early Take) - 2023 Remaster",
+      "url": "https://open.spotify.com/track/2VXqRP3kCtw3yGentTz16W"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -643,38 +663,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "I've Seen All Good People: Your Move / All Good People (Early Take) [2023 Remaster]",
-        "url": "https://open.spotify.com/album/0cnJiazhNlQWgP9fuUITwP"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "I've Seen All Good People: Your Move / All Good People (Early Take) - 2023 Remaster",
-      "url": "https://open.spotify.com/track/2VXqRP3kCtw3yGentTz16W"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/7INtd4oNndspcldngUkOSN"
-      },
-      "artists": [
-        {
-          "name": "The Corrs",
-          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/01aD8yamjTucFoioAMzrFU"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Delta Machine | The 12\" Singles",
         "url": "https://open.spotify.com/album/2fjQkaOCx5vQSkNCEhundG"
       },
@@ -691,6 +679,22 @@
       "duration_ms": 432020,
       "name": "Heaven - Blawan Dub",
       "url": "https://open.spotify.com/track/2Uy70uR153d5ZtAQkYegoT"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/7INtd4oNndspcldngUkOSN"
+      },
+      "artists": [
+        {
+          "name": "The Corrs",
+          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/01aD8yamjTucFoioAMzrFU"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1027,22 +1031,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Vida Cotidiana (Deluxe Version)",
-        "url": "https://open.spotify.com/album/157buz5Int6IECXF2hKYak"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "La Versi\u00f3n En Mi Cabeza",
-      "url": "https://open.spotify.com/track/70iA1uzud3bwrJzQQZ5D6i"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Addicted to Romance (from the film 'She Came to Me')",
         "url": "https://open.spotify.com/album/1uV57fy7S2AH4DxfgmJDRd"
       },
@@ -1063,126 +1051,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Una notte",
-        "url": "https://open.spotify.com/album/1a7quaBHWknG4DVff4ecs4"
+        "name": "Vida Cotidiana (Deluxe Version)",
+        "url": "https://open.spotify.com/album/157buz5Int6IECXF2hKYak"
       },
       "artists": [
         {
-          "name": "Piero",
-          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
-        },
-        {
-          "name": "cialquadrato",
-          "url": "https://open.spotify.com/artist/6rhdRzCuTMgc6dODkP25l5"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 174549,
-      "name": "Una notte",
-      "url": "https://open.spotify.com/track/1VqZl4klK4Sv9rJGRuZ8Ag"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Twilight of the Gods",
-        "url": "https://open.spotify.com/album/4DW0Odeun8nM4fIPVgr5U7"
-      },
-      "artists": [
-        {
-          "name": "Therion",
-          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
-        }
-      ],
-      "duration_ms": 383133,
-      "name": "Twilight of the Gods",
-      "url": "https://open.spotify.com/track/3xAEM7GlIs5qz9F5vtoYHd"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "DROP (feat. Randy Blythe)",
-        "url": "https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        },
-        {
-          "name": "Randy Blythe",
-          "url": "https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB"
-        }
-      ],
-      "duration_ms": 191208,
-      "name": "DROP (feat. Randy Blythe)",
-      "url": "https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "BLACK MOONLIGHT",
-        "url": "https://open.spotify.com/album/7LVCjmDfqcVAWg74kQ0Qwr"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 186724,
-      "name": "BLACK MOONLIGHT",
-      "url": "https://open.spotify.com/track/6Puhv2Iw9K8A3rkpxr4Dsz"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Death Smiles",
-        "url": "https://open.spotify.com/album/1n707PSUo802nfoorSP0j5"
-      },
-      "artists": [
-        {
-          "name": "Nik Nocturnal",
-          "url": "https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q"
-        },
-        {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Death Smiles",
-      "url": "https://open.spotify.com/track/3RqoNA5WD78DPHLNHolEve"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Amanecer frente a tu casa",
-        "url": "https://open.spotify.com/album/4GDQAefrY2m6Uu7pAvGTrT"
-      },
-      "artists": [
-        {
-          "name": "Victor Heredia",
-          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
-        }
-      ],
-      "duration_ms": 245478,
-      "name": "Amanecer frente a tu casa",
-      "url": "https://open.spotify.com/track/4EqQFaHihl0NdXgVMp0Aox"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Into The Fire (Live At The Royal Albert Hall)",
-        "url": "https://open.spotify.com/album/5GtokXLjajgbqIwjM4jK3z"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 259173,
-      "name": "Into The Fire - Live At The Royal Albert Hall",
-      "url": "https://open.spotify.com/track/0ZVcVOKsMn7sxnmRLGYmsr"
+      "duration_ms": 193213,
+      "name": "La Versi\u00f3n En Mi Cabeza",
+      "url": "https://open.spotify.com/track/70iA1uzud3bwrJzQQZ5D6i"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1203,178 +1083,6 @@
       "duration_ms": 163000,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Peace & Abundance",
-        "url": "https://open.spotify.com/album/6e1AxhsPcfPYhAkYeOpb24"
-      },
-      "artists": [
-        {
-          "name": "Nico.X3",
-          "url": "https://open.spotify.com/artist/6DN74L20gxGSBONvIWuMD2"
-        }
-      ],
-      "duration_ms": 142812,
-      "name": "Peace & Abundance",
-      "url": "https://open.spotify.com/track/7o4CCMMBngZ6e6EvPrR2HV"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Aunque Los Pasos Toquen",
-        "url": "https://open.spotify.com/album/4Qj6NrjTVzBkzQimsL8oxz"
-      },
-      "artists": [
-        {
-          "name": "Illapu",
-          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
-        }
-      ],
-      "duration_ms": 350893,
-      "name": "Aunque Los Pasos Toquen",
-      "url": "https://open.spotify.com/track/2pOAHrx64N8CX44f3bcdrd"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "americana, but lofi",
-        "url": "https://open.spotify.com/album/5p4J2BquvG7uey5A8Xt7mS"
-      },
-      "artists": [
-        {
-          "name": "lonelyboy",
-          "url": "https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc"
-        },
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "the kids aren't alright - lofi",
-      "url": "https://open.spotify.com/track/4DXF9s5JioJFXxNFvbGovK"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Who\u2019s Next : Life House (Super Deluxe)",
-        "url": "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Behind Blue Eyes - Lifehouse Chronicles / Demo / Remastered 2022",
-      "url": "https://open.spotify.com/track/6uzcfwr0YPe6hsL3rAY3uA"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Fake As Hell (with Avril Lavigne)",
-        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 179166,
-      "name": "Fake As Hell (with Avril Lavigne)",
-      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Always On My Mind",
-        "url": "https://open.spotify.com/album/5tDR5P1fGfzgPhaY7lvBPd"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Bradley Walker",
-          "url": "https://open.spotify.com/artist/3WDUptC9KS6ZFNwkZipSlQ"
-        }
-      ],
-      "duration_ms": 218669,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/5YSoTfjiCDMynt1cocGIsS"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Outlanders",
-        "url": "https://open.spotify.com/album/3vf7BWKL00NB02I1AhIUFb"
-      },
-      "artists": [
-        {
-          "name": "Outlanders",
-          "url": "https://open.spotify.com/artist/07BLxS6oBpkKubipZvuDTP"
-        },
-        {
-          "name": "Tarja",
-          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
-        },
-        {
-          "name": "Walter Giardino",
-          "url": "https://open.spotify.com/artist/13sN20Fe1isPXTYSsL7AX5"
-        },
-        {
-          "name": "Torsten Stenzel",
-          "url": "https://open.spotify.com/artist/0wxa02PwiKJW3ZpzYHlCN2"
-        }
-      ],
-      "duration_ms": 379000,
-      "name": "Outlanders (Versione Italiana)",
-      "url": "https://open.spotify.com/track/6YKI3WDSsjvqlyZdQKIzcZ"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Relentless",
-        "url": "https://open.spotify.com/album/7cSjOM6t4Sg5a8WJ4qW2hi"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 253419,
-      "name": "Losing My Sense Of Taste",
-      "url": "https://open.spotify.com/track/4jx6y4zo67WjSDhCHTxAuz"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Listen To Your Heart (Alle Farben Remix)",
-        "url": "https://open.spotify.com/album/2Jg1Ff9HdTkLaz9vjRClo4"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        },
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 146268,
-      "name": "Listen To Your Heart (Alle Farben Remix)",
-      "url": "https://open.spotify.com/track/58XoPq7Ae5SL2TRMF63uD8"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

@@ -4839,6 +4839,24 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/34uN9whtj0faUPaF9jrbDV"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181223,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/1qpMpd6otkEvU1X8o4rN54"
+    },
+    {
+      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv"
       },
@@ -8734,6 +8752,24 @@
       "duration_ms": 209600,
       "name": "HEART ATTACK (feat. lau.ra)",
       "url": "https://open.spotify.com/track/3xrSAFB6cXBHwLylbCP4sr"
+    },
+    {
+      "album": {
+        "name": "Heart For Tonight",
+        "url": "https://open.spotify.com/album/1900d6yBhXOtMJfliiWBt2"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132187,
+      "name": "Heart For Tonight",
+      "url": "https://open.spotify.com/track/5BO9lHGZ1ve4GaznPVkPhM"
     },
     {
       "album": {
@@ -18392,7 +18428,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 208800,
       "name": "Safe & Sound",
       "url": "https://open.spotify.com/track/7yfnNGWg10OgBjpGx1G2M7"
@@ -21609,7 +21645,7 @@
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 182013,
+      "duration_ms": 181545,
       "name": "ten",
       "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
     },
@@ -23512,7 +23548,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 223542,
       "name": "WAIT (feat. Bipolar Sunshine)",
       "url": "https://open.spotify.com/track/06ZFfsiywuaqGnYQiUfbyn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap só dá o play e aumenta! Foto: Derek
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,478 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,714 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [INEFÁVEL \(feat\. Leviano\)](https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ) | [INEFÁVEL](https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X) | 4:05 |
 | 50 | [Ritmo Do Crime](https://open.spotify.com/track/5yjd0lAp6zahxFdqWeI8qM) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Ritmo Do Crime](https://open.spotify.com/album/3eGzFoARBUyPBPe5rOP9La) | 2:49 |
 
-Snapshot ID: `MCw2ZTMwYWJhNWJjNTZmNDFkN2Y2MjU2MDM2N2MxZTgxMTM4ZmU1MDYz`
+Snapshot ID: `MCw3NmU2ODk0YWM2YTNjYjNmMDNkMWY3NzE4YTlmMzRjNjMyNzNkYThm`

@@ -8350,10 +8350,36 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 181786,
       "name": "SKEU SKEU",
       "url": "https://open.spotify.com/track/2tfcnJtKsz0jMrACO943Cz"
+    },
+    {
+      "album": {
+        "name": "SKEU SKEU (feat. wilsko & 7ia)",
+        "url": "https://open.spotify.com/album/5RA05MgWTevAIscvEmiiww"
+      },
+      "artists": [
+        {
+          "name": "Jogga",
+          "url": "https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav"
+        },
+        {
+          "name": "wilsko",
+          "url": "https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha"
+        },
+        {
+          "name": "7ia",
+          "url": "https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181786,
+      "name": "SKEU SKEU (feat. wilsko & 7ia)",
+      "url": "https://open.spotify.com/track/0sZEwII5Qe3r7izOgdOvLT"
     },
     {
       "album": {

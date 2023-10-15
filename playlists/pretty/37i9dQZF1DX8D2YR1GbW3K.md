@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,068 likes - 125 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,170 likes - 125 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,15 +123,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 113 | [No Beef \- Original Mix](https://open.spotify.com/track/52Y9VvRfnKjdM0MvAM21cR) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Miss Palmer](https://open.spotify.com/artist/2Vd2ZmSFVZ9LEwHeJ8vf7U) | [No Beef](https://open.spotify.com/album/7oQGR9TBbk3m9Nuc2CPR08) | 6:01 |
 | 114 | [Years](https://open.spotify.com/track/5pVk15sR3OgIeKBKqG9jWw) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Years](https://open.spotify.com/album/1lxz4qsMenWD4SR1e5uX6x) | 3:15 |
 | 115 | [Take Me Home \(feat\. Bebe Rexha\)](https://open.spotify.com/track/7iT98FhZ7BAE8xdCxBlw55) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Take Me Home \(feat\. Bebe Rexha\)](https://open.spotify.com/album/0JtlJvtmyOR0z5uuFjeHm9) | 3:26 |
-| 116 | [Higher](https://open.spotify.com/track/7lrTieknx0Rp6xcUXVjRQE) | [Just Blaze](https://open.spotify.com/artist/2gpPCu8rjzdobGqDZJpHiR), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Higher](https://open.spotify.com/album/3zDrL6uXT0UIkIiAPqNpcy) | 3:49 |
-| 117 | [Go Bang](https://open.spotify.com/track/15Xt2CmLqrLJ0uBlDEEimX) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Go Bang](https://open.spotify.com/album/2Lo0bnJPGE0rS3vuq6PjSD) | 3:09 |
+| 116 | [Deep Down Low](https://open.spotify.com/track/48zgbsLhb3MirBgXt44nlH) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low](https://open.spotify.com/album/1md43OqpB2SKqTmKR1q1YQ) | 3:10 |
+| 117 | [Higher](https://open.spotify.com/track/7lrTieknx0Rp6xcUXVjRQE) | [Just Blaze](https://open.spotify.com/artist/2gpPCu8rjzdobGqDZJpHiR), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Higher](https://open.spotify.com/album/3zDrL6uXT0UIkIiAPqNpcy) | 3:49 |
 | 118 | [Teenage Crime \- Radio Edit](https://open.spotify.com/track/3WeOzaQI5ukIzBOiHv3TWh) | [Adrian Lux](https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh) | [Adrian Lux](https://open.spotify.com/album/1BrunRBB6h877zDUxep7eh) | 2:48 |
 | 119 | [Wasted](https://open.spotify.com/track/1EavLSmwRWtmkKEmlCfFzT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Wasted](https://open.spotify.com/album/584m4QL0kmpG69zSpMKvv8) | 3:08 |
-| 120 | [Ready For Your Love](https://open.spotify.com/track/5wGLQvq6JoxYZX7V3ymPS5) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens](https://open.spotify.com/album/7MQaCAAj19jwc9WKNZTcJG) | 3:18 |
-| 121 | [Like Home \- Radio Edit](https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW) | 3:20 |
-| 122 | [Deep Down Low](https://open.spotify.com/track/48zgbsLhb3MirBgXt44nlH) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low](https://open.spotify.com/album/1md43OqpB2SKqTmKR1q1YQ) | 3:10 |
+| 120 | [Go Bang](https://open.spotify.com/track/15Xt2CmLqrLJ0uBlDEEimX) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Go Bang](https://open.spotify.com/album/2Lo0bnJPGE0rS3vuq6PjSD) | 3:09 |
+| 121 | [Ready For Your Love](https://open.spotify.com/track/5wGLQvq6JoxYZX7V3ymPS5) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens](https://open.spotify.com/album/7MQaCAAj19jwc9WKNZTcJG) | 3:18 |
+| 122 | [Like Home \- Radio Edit](https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW) | 3:20 |
 | 123 | [Last Chance](https://open.spotify.com/track/1ags60Iq9M0vFlvSLAOZE4) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Atmosphere](https://open.spotify.com/album/6poiDDI8corGzWMXUechzZ) | 4:18 |
 | 124 | [Tell Me](https://open.spotify.com/track/3M4BopyY1lODi4uBpSoDSQ) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Tell Me](https://open.spotify.com/album/05E9e8OeLQJ5QCjGOyLvZL) | 4:41 |
 | 125 | [Million Voices \- Extended Original Mix](https://open.spotify.com/track/70R53Oq9IegG1kwhxo2Lxm) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 5:57 |
 
-Snapshot ID: `MCxjNjZlNjdjMDgyMmVmMjQyZjczZGM2YzA3NjcyYTRlNDFjYjMwOWI2`
+Snapshot ID: `MCw0NjY5NjI3ZThjMTg4OTViY2VjMzBhZjk3NzIxNTA5NDk0Y2E0ODk2`

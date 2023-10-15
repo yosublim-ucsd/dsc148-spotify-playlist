@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > Essential kids songs to add to your family's collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,536 likes - 127 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,559 likes - 127 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 18 | [Burpin' Bob the Surfin' Frog](https://open.spotify.com/track/3Sjc0K3ehe7lXPzDKKelWM) | [Wonderpop](https://open.spotify.com/artist/7iwQIhCOCbBS67PPd6UI9f) | [Volume 1](https://open.spotify.com/album/6bHKc2iHJjQ2KKDtxNlJcC) | 1:22 |
 | 19 | [Seize the Day](https://open.spotify.com/track/1Z50yf31NWbFy1WYChOTTf) | [Jazzy Ash](https://open.spotify.com/artist/5zToXUC9I6HoncynKnRMhJ), [Mil's Trills](https://open.spotify.com/artist/2FEJYbtk6YLtBXrTRUpIAj) | [Good Foot](https://open.spotify.com/album/5MW5jSzYtbdDxAdjbYmOin) | 2:39 |
 | 20 | [The Loud Mouse Song](https://open.spotify.com/track/5WZJikNC4n12C5iQ11hn7X) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [The Loud Mouse Song](https://open.spotify.com/album/0s8Cx1aQq0AGYX2XTwYG1T) | 3:13 |
-| 21 | [MONEY TREE](https://open.spotify.com/track/40CFtr9fZCox5EkWrXBZTE) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW) | [MONEY TREE](https://open.spotify.com/album/60FbRUMst0DOBMHfqv1Dap) | 2:40 |
+| 21 | [MONEY TREE](https://open.spotify.com/track/7z5A9hoqy581NIkBXVg1QX) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW) | [MONEY TREE](https://open.spotify.com/album/7wFywtiGVgaywAiIhBNaRe) | 2:40 |
 | 22 | [Neighbor](https://open.spotify.com/track/1t0zKQvPW6iQPHGnUikbgC) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Neighbor](https://open.spotify.com/album/3QG5NYtfW5HsUNRHoLVirX) | 3:56 |
 | 23 | [Outside](https://open.spotify.com/track/4dNJKjh9wMCEQ9lA2NiJ8W) | [Dad Jokes Duo](https://open.spotify.com/artist/4alPoOoReavkZAMBR5E4y0) | [Outside](https://open.spotify.com/album/0DMdkUii6hbvBUPIVEP6XO) | 2:52 |
 | 24 | [Goin' To A Birthday](https://open.spotify.com/track/3opu1yJrMHIsYAPiezGQoT) | [The Tallest Kid in the Room](https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5) | [Birthday Party](https://open.spotify.com/album/00PLx13YEu97ZoCxV1MOxU) | 2:47 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 126 | [Aster & Goldenrod](https://open.spotify.com/track/0tfWVCen9NARGqo6KSkmW5) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Plants Rock](https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg) | 3:29 |
 | 127 | [It's You I Like](https://open.spotify.com/track/3fwCUXBe36JmB8AP89KFd0) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: SLEEP](https://open.spotify.com/album/0nEw5zT6pJke7ivN6qnoXn) | 1:37 |
 
-Snapshot ID: `MCxhNzZjYTI2YzNjM2Y0OGMzOWYzMGU2NjExMGUzMzQ4Mjk2ODk4ZWJj`
+Snapshot ID: `MCxiNTkwNzE3ODEwM2NiM2NlNGNjZTU0OGNjNGI2NTRlYzI4NTdkMjFj`

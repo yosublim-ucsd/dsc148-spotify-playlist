@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-699 songs - 1 day 16 hr 52 min
+700 songs - 1 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Carry Me Out](https://open.spotify.com/track/2bTDJaOn3kEBse2wCKugBP) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Carry Me Out](https://open.spotify.com/album/78BtIMQEsMAc7sxhFeKnRB) | 2:20 | 2023-07-28 | 2023-08-28 |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-03-27\* | 2021-03-27 |
 | [Celebrity](https://open.spotify.com/track/5nCwjUUsmBuNZKn9Xu10Os) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:15 | 2021-03-27 | 2021-03-30 |
+| [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 | 2023-10-14 |  |
 | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/track/2y6Ty2NPAsP84XJAtzLxuk) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/album/2wwGHSWLwrlXDmi3DEaZ4A) | 3:55 | 2022-09-27 | 2022-09-29 |
 | [Child](https://open.spotify.com/track/5HaYRuf3zAfCb8RSO9LLea) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Child \- SM STATION : NCT LAB](https://open.spotify.com/album/4XGMXl3AMjb11YIKdeujj1) | 3:31 | 2022-02-05 | 2022-03-08 |
 | [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2021-12-25 | 2023-08-10 |
@@ -586,7 +587,7 @@
 | [ยิ่งใกล้ยิ่งเก็บ](https://open.spotify.com/track/1GcLstNhtKD1c60tPGxYcH) | [I HATE MONDAY](https://open.spotify.com/artist/4bZFk69BTd1y2IsxIjO35M), [feat\. AUTTA](https://open.spotify.com/artist/4rVLBFI2QUVzXq4h4jzUFj) | [ยิ่งใกล้ยิ่งเก็บ \(feat\. AUTTA\)](https://open.spotify.com/album/3yeiECYxzfsMV77YsDVDnY) | 3:39 | 2021-05-03 | 2021-07-22 |
 | [ยิ้มทั้งน้ำตา](https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ้มทั้งน้ำตา](https://open.spotify.com/album/0gGRJrAvSjPI4U2mf0D0Hd) | 4:45 | 2023-03-10 | 2023-08-13 |
 | [รบกวน](https://open.spotify.com/track/7BAS21NdSsGX3LTjzpy9sy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [รบกวน](https://open.spotify.com/album/3WMbcDqNUZXATunOGkMfPb) | 3:41 | 2023-06-25 | 2023-07-12 |
-| [รสหวาน](https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ท้องฟ้าจำลอง](https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr) | 4:53 | 2023-02-11 |  |
+| [รสหวาน](https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ท้องฟ้าจำลอง](https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr) | 4:53 | 2023-02-11 | 2023-10-15 |
 | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3) | 3:35 | 2022-10-01 | 2023-06-10 |
 | [รักแรก \(First Love\) \[เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious\]](https://open.spotify.com/track/5Zlwu2g4rzTNfyu28L1bWv) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [รักแรก \(First Love\) \- Single](https://open.spotify.com/album/0ekYRFwm00v69rJfTS0W3s) | 4:26 | 2023-05-19 |  |
 | [รู้กันแค่นี้ \- mint](https://open.spotify.com/track/6ck9dK5Wh0lZvvBsX49HZD) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [รู้กันแค่นี้ \(mint\)](https://open.spotify.com/album/3qyFShIWhPpf4lgxZ1EaWE) | 3:36 | 2023-02-16 | 2023-05-06 |
@@ -598,7 +599,7 @@
 | [ลั่นทม \(เพลงประกอบละคร "หอมกลิ่นความรัก"\)](https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [ลั่นทม](https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs) | 4:37 | 2023-08-27 |  |
 | [ลา ลา ลา](https://open.spotify.com/track/27OEf7iSIOJ14txp16xweP) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ลา ลา ลา](https://open.spotify.com/album/2fwk9nkcCTL3mrmJkcj60q) | 4:13 | 2022-04-26 | 2023-08-22 |
 | [ลาก่อน](https://open.spotify.com/track/3vfwUrq22haMmIJyyyI7Hq) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [ลาก่อน](https://open.spotify.com/album/2MM6NjLf7zzQxVNfD93wU1) | 3:08 | 2022-06-09 |  |
-| [ลืมไปแล้วว่าลืมยังไง \(Fade\)](https://open.spotify.com/track/4gNkIyfaf2iwPgeLSVIj8O) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ลืมไปแล้วว่าลืมยังไง \(Fade\)](https://open.spotify.com/album/3HMAApilEcTJ4HZ8xMvlh6) | 4:22 | 2022-09-27 |  |
+| [ลืมไปแล้วว่าลืมยังไง \(Fade\)](https://open.spotify.com/track/4gNkIyfaf2iwPgeLSVIj8O) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ลืมไปแล้วว่าลืมยังไง \(Fade\)](https://open.spotify.com/album/3HMAApilEcTJ4HZ8xMvlh6) | 4:22 | 2022-09-27 | 2023-10-15 |
 | [ลู่วิ่ง \(Can't Keep Up\)](https://open.spotify.com/track/0Q9OvtY0g8yah9Db7BTYVj) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [It's Gonna Be OK](https://open.spotify.com/album/37wolAPWNOJfdRRwW1N6gL) | 4:13 | 2021-11-27 | 2022-01-06 |
 | [ลู่วิ่ง \(Can't Keep Up\)](https://open.spotify.com/track/6Xe4ZTF2mKa6GSwdS5bsPG) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [ลู่วิ่ง \(Can't Keep Up\)](https://open.spotify.com/album/6FMfie4zESoegVYWgVOn6w) | 4:14 | 2021-08-06 | 2021-11-27 |
 | [วงกลม \(O\)](https://open.spotify.com/track/5o0DldgK63kE56lr4QARcb) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [วงกลม \(O\)](https://open.spotify.com/album/2a0kqqZs3kBxNDrLYKVdDY) | 3:00 | 2022-02-14 | 2022-03-04 |
@@ -659,7 +660,7 @@
 | [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\)](https://open.spotify.com/track/19KNYtZF0xP7VCIItvGSJZ) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [MILLI](https://open.spotify.com/artist/15D6XEjr6LVGGc6dNmS2yz) | [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\) \[feat\. MILLI\]](https://open.spotify.com/album/1aO65qDUbY2vJWXYzHP2vj) | 3:39 | 2021-04-30 | 2021-11-27 |
 | [เมะ](https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เมะ](https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw) | 3:06 | 2021-08-21 | 2022-08-07 |
 | [เลือกคนที่เขารักเรา](https://open.spotify.com/track/62cOB2rHLifRe73H85MhNz) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:46 | 2021-03-27\* | 2021-03-27 |
-| [เลือดกรุ๊ปบี](https://open.spotify.com/track/4CdW5KKyIjrpx6Hz981dUt) | [CHRRISSA](https://open.spotify.com/artist/3eK3fsbCi7wc4hThk9wSZO) | [เลือดกรุ๊ปบี](https://open.spotify.com/album/3yxeQVMGenKeriJbIjZyD7) | 4:49 | 2023-01-08 | 2023-10-11 |
+| [เลือดกรุ๊ปบี](https://open.spotify.com/track/4CdW5KKyIjrpx6Hz981dUt) | [CHRRISSA](https://open.spotify.com/artist/3eK3fsbCi7wc4hThk9wSZO) | [เลือดกรุ๊ปบี](https://open.spotify.com/album/3yxeQVMGenKeriJbIjZyD7) | 4:49 | 2023-01-08 |  |
 | [เวลาเธอยิ้ม](https://open.spotify.com/track/06DPpk0hUJEgpzl5cuWNI6) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [80 Kisses](https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95) | 3:47 | 2022-08-29 | 2022-11-16 |
 | [เสแสร้ง \(Pretend\)](https://open.spotify.com/track/3imt8APLtyXVGsLZM362nA) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW), [Moon](https://open.spotify.com/artist/0AEFDYdJjix0o8cZ1lnrNb) | [เสแสร้ง \(Pretend\) \[Feat\. MOON\]](https://open.spotify.com/album/6X0fYVQVcGJmu7SaKJMzYR) | 3:43 | 2022-03-20 | 2022-09-06 |
 | [เส้นบางๆ](https://open.spotify.com/track/2qZQa0feL1j3hxFB3vJ15d) | [Indigo](https://open.spotify.com/artist/5505l53fTUi5P0uWQbRT0w) | [INDIGO](https://open.spotify.com/album/21ITnrYudAvIs9cfnPBdLs) | 4:30 | 2023-04-03 | 2023-06-04 |

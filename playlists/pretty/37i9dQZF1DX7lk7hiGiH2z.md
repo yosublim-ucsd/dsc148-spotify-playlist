@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,725 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,833 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 34 | [Die Biene maja](https://open.spotify.com/track/37Ya452sNHfucQVaKPM522) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Karel](https://open.spotify.com/album/4W2UDtKNsB7iGwKVFIDERR) | 2:39 |
 | 35 | [Kommt, wir wollen Laterne laufen](https://open.spotify.com/track/0KrkBKVLjtqfDaL1uD10W0) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 3:40 |
 | 36 | [Was zieh' ich an?](https://open.spotify.com/track/2mB1Bd0hw1b5cJr3AfvmRH) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs neue Schulweg\-Hitparade](https://open.spotify.com/album/09au3ViAkjIjJA4dEjIJTp) | 3:00 |
-| 37 | [Matschepfütze](https://open.spotify.com/track/184q1mPkvExhFXLB02g9dM) | [Fug und Janina](https://open.spotify.com/artist/28yWTWoXoLABVhSicSOspR) | [Unfug für alle](https://open.spotify.com/album/3Ead8yYrf4E0S77jQedAsY) | 2:10 |
-| 38 | [Gummistiefeltango](https://open.spotify.com/track/6HZZXIxkFr6n8Ma0tMJNLq) | [Tom der Trommler](https://open.spotify.com/artist/6pyjBaoOmmBG41Zbj2emTK) | [02/Tom der Trommler entdeckt Klangschätze zu Hause](https://open.spotify.com/album/33heYhkG3yNTUFQWnxD2SQ) | 2:09 |
+| 37 | [Gummistiefeltango](https://open.spotify.com/track/6HZZXIxkFr6n8Ma0tMJNLq) | [Tom der Trommler](https://open.spotify.com/artist/6pyjBaoOmmBG41Zbj2emTK) | [02/Tom der Trommler entdeckt Klangschätze zu Hause](https://open.spotify.com/album/33heYhkG3yNTUFQWnxD2SQ) | 2:09 |
+| 38 | [Matschepfütze](https://open.spotify.com/track/184q1mPkvExhFXLB02g9dM) | [Fug und Janina](https://open.spotify.com/artist/28yWTWoXoLABVhSicSOspR) | [Unfug für alle](https://open.spotify.com/album/3Ead8yYrf4E0S77jQedAsY) | 2:10 |
 | 39 | [Wunderbar, der Herbst ist da](https://open.spotify.com/track/4jLyTZ2sNyG3VTGE3CUBor) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Der Herbst ist cool!](https://open.spotify.com/album/5Z1pFR01dBUYVzHUymzF2Q) | 3:26 |
 | 40 | [Bunte Blätter \(Herbstlied\)](https://open.spotify.com/track/2Xd0iej84kqqS4W0IcNHjk) | [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Die Herbstzeit ist da: 20 schönste Kinderlieder im Herbst](https://open.spotify.com/album/7erUTJEt8ji25M5bqF0shi) | 1:45 |
 | 41 | [Mit Kastanien und Eicheln](https://open.spotify.com/track/4X2FW4z1gGi1HmAJrtCcps) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Volker Rosin \- Liederbox Vol\. 1](https://open.spotify.com/album/6nud5wQAgOSW1dNAWWiNpK) | 1:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 49 | [Alle Vögel sind schon da](https://open.spotify.com/track/6ShcsLKki4wuy1LIfilCvz) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Liederbüchermaus](https://open.spotify.com/album/34fvEGFsxX9vl6phTn23XS) | 1:48 |
 | 50 | [Ei, Ei, Ei, Ei, Eichhörnchen](https://open.spotify.com/track/2tVwU4CYWkqZ1jdkhzLEhS) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 2:02 |
 
-Snapshot ID: `MCwxOWJjYzA0YjY0OTU2MThhMTZkNzM2N2I3NmYwYjc1NTJkNjYxOTRj`
+Snapshot ID: `MCxlZTUzNTUwYjdmMWI1NWU4ZWVjMDlhY2FlMjZjZGNlY2Q2OGIwZDM2`

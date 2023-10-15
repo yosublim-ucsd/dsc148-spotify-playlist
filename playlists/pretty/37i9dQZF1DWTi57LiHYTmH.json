@@ -1,12 +1,12 @@
 {
   "description": "A calm and cosy classical soundtrack to all activities. ",
-  "num_followers": 9234,
+  "num_followers": 9421,
   "original_name": "Classical in the Background",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzZhNjEyNzE2NGYxYTI3M2Y1Y2QyYTYxOTVlNWYzZWU0MDFmOTQ2",
+  "snapshot_id": "MCxlZjMzYWViOTk2ZmFhYTg3MWU0YTMyMThlMmM2MWRmMjUyNzAwZDkz",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -615,6 +615,30 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Pfitzner: Symphony in C major - Schumann: Koncertst\u00fcck for Four Horns",
+        "url": "https://open.spotify.com/album/3CG6jLjg64BZswmFZSkF96"
+      },
+      "artists": [
+        {
+          "name": "Seattle Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb"
+        },
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Gerard Schwarz",
+          "url": "https://open.spotify.com/artist/2m3QTMNI89DEFSlvmnayPE"
+        }
+      ],
+      "duration_ms": 111093,
+      "name": "Etudes symphoniques (Symphonic Etudes), Op. 13, Adagio and Allegro brillante: Variation 11 [arr. P.I. Tchaikovsky for orchestra]",
+      "url": "https://open.spotify.com/track/4aVQZ6pyDgfxMBVBiJlOtC"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Scriabin: 24 Preludes - Sonatas Nos. 4 & 10",
         "url": "https://open.spotify.com/album/2frAyNz56dJ9dgkEme3xba"
       },
@@ -655,30 +679,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Pfitzner: Symphony in C major - Schumann: Koncertst\u00fcck for Four Horns",
-        "url": "https://open.spotify.com/album/3CG6jLjg64BZswmFZSkF96"
-      },
-      "artists": [
-        {
-          "name": "Seattle Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb"
-        },
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Gerard Schwarz",
-          "url": "https://open.spotify.com/artist/2m3QTMNI89DEFSlvmnayPE"
-        }
-      ],
-      "duration_ms": 111093,
-      "name": "Etudes symphoniques (Symphonic Etudes), Op. 13, Adagio and Allegro brillante: Variation 11 [arr. P.I. Tchaikovsky for orchestra]",
-      "url": "https://open.spotify.com/track/4aVQZ6pyDgfxMBVBiJlOtC"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Satie: Avant-derni\u00e8res pens\u00e9es (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1W96dST1KFsd1tZTO3eEGS"
       },
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Chopin: Pr\u00e9ludes",
-        "url": "https://open.spotify.com/album/49NR4iAFLGGtOpmGKEMtpK"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Preludes, Op. 28: No. 4, Largo",
-      "url": "https://open.spotify.com/track/5XfmcJMAaifjRrIdLaXVLm"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Schumann: Kinderszenen; Kreisleriana",
         "url": "https://open.spotify.com/album/6sxH5yHob34qbhbYjYWjsX"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 113240,
       "name": "Kinderszenen, Op. 15: 1. Von fremden L\u00e4ndern und Menschen",
       "url": "https://open.spotify.com/track/4pfkZUqRCYG5If39QHFpbQ"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Chopin: Pr\u00e9ludes",
+        "url": "https://open.spotify.com/album/49NR4iAFLGGtOpmGKEMtpK"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Preludes, Op. 28: No. 4, Largo",
+      "url": "https://open.spotify.com/track/5XfmcJMAaifjRrIdLaXVLm"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Nokt\u00farna Variations",
+        "url": "https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Nokt\u00farna - Upright Piano",
+      "url": "https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Oswald: Works for Piano",
         "url": "https://open.spotify.com/album/3L6dCD5Zjnu99BUFunWjvd"
       },
@@ -1003,26 +1019,6 @@
       "duration_ms": 165693,
       "name": "En nacelle",
       "url": "https://open.spotify.com/track/35otBCRXC8HdmRqndFStL0"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Tchaikovsky: Piano Concerto No. 1",
-        "url": "https://open.spotify.com/album/3XOHLGlVerK61CyOIt4pEF"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Daniil Trifonov",
-          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
-        }
-      ],
-      "duration_ms": 216284,
-      "name": "Fr\u00fchlingsglaube (Arr. Franz Liszt)",
-      "url": "https://open.spotify.com/track/6HW6aTAss1lPalzuq9go5u"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1115,18 +1111,26 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Nokt\u00farna Variations",
-        "url": "https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D"
+        "name": "Schumann & Schubert - Transcriptions for Clarinet & Harp",
+        "url": "https://open.spotify.com/album/2O1MCD0Yt1sh79kNyq3Gxk"
       },
       "artists": [
         {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Anneleen Lenaerts",
+          "url": "https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I"
+        },
+        {
+          "name": "Dionysis Grammenos",
+          "url": "https://open.spotify.com/artist/1gyehD73iVuIYqL6Rltepc"
         }
       ],
-      "duration_ms": 122000,
-      "name": "Nokt\u00farna - Upright Piano",
-      "url": "https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY"
+      "duration_ms": 129919,
+      "name": "Schumann: 12 Gedichte aus Liebesfr\u00fchling, Op. 37: No. 11: Warum willst du andre fragen",
+      "url": "https://open.spotify.com/track/1NechTDnTtSaciAT6gmvJQ"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1151,6 +1155,26 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "MozartReworked",
+        "url": "https://open.spotify.com/album/0iscfEvEjrQFkNTV7Hitgb"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Ave verum corpus, K.618 (Arr. for Piano by Franz Liszt)",
+      "url": "https://open.spotify.com/track/3DYxUyNeBa9MbT867F9gMO"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/5wXv0fuobRh6ZzrJvuHveh"
       },
@@ -1163,30 +1187,6 @@
       "duration_ms": 188906,
       "name": "Winter",
       "url": "https://open.spotify.com/track/6k5iJy3uIEhaqZu9MCGCiq"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Schumann & Schubert - Transcriptions for Clarinet & Harp",
-        "url": "https://open.spotify.com/album/2O1MCD0Yt1sh79kNyq3Gxk"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Anneleen Lenaerts",
-          "url": "https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I"
-        },
-        {
-          "name": "Dionysis Grammenos",
-          "url": "https://open.spotify.com/artist/1gyehD73iVuIYqL6Rltepc"
-        }
-      ],
-      "duration_ms": 129919,
-      "name": "Schumann: 12 Gedichte aus Liebesfr\u00fchling, Op. 37: No. 11: Warum willst du andre fragen",
-      "url": "https://open.spotify.com/track/1NechTDnTtSaciAT6gmvJQ"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "MozartReworked",
-        "url": "https://open.spotify.com/album/0iscfEvEjrQFkNTV7Hitgb"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Mao Fujita",
-          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Ave verum corpus, K.618 (Arr. for Piano by Franz Liszt)",
-      "url": "https://open.spotify.com/track/3DYxUyNeBa9MbT867F9gMO"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Memories from Home",
         "url": "https://open.spotify.com/album/38ZYEkGiDnTszDhMYDUUix"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 72813,
       "name": "33 Miniatures for Piano (Excerpts): No. 22, Grazioso",
       "url": "https://open.spotify.com/track/1m7xhfthPyNBdIJcGREuh1"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Tchaikovsky: Piano Concerto No. 1",
+        "url": "https://open.spotify.com/album/3XOHLGlVerK61CyOIt4pEF"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "duration_ms": 216284,
+      "name": "Fr\u00fchlingsglaube (Arr. Franz Liszt)",
+      "url": "https://open.spotify.com/track/6HW6aTAss1lPalzuq9go5u"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1380,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/1mlJpazSMM0qkokoS6SNRN"
         }
       ],
-      "duration_ms": 62506,
-      "name": "24 Preludes, Op. 11: No. 1 in C Major",
-      "url": "https://open.spotify.com/track/5VUqbQ8Z5NXEITbmFhAhbk"
+      "duration_ms": 61933,
+      "name": "5 Preludes, Op. 16: IV. Prelude No. 4 in E-Flat Minor: Lento",
+      "url": "https://open.spotify.com/track/6Xan47ZLZr9P8YEcOt3JaX"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1528,9 +1528,9 @@
           "url": "https://open.spotify.com/artist/1mlJpazSMM0qkokoS6SNRN"
         }
       ],
-      "duration_ms": 61933,
-      "name": "5 Preludes, Op. 16: IV. Prelude No. 4 in E-Flat Minor: Lento",
-      "url": "https://open.spotify.com/track/6Xan47ZLZr9P8YEcOt3JaX"
+      "duration_ms": 62506,
+      "name": "24 Preludes, Op. 11: No. 1 in C Major",
+      "url": "https://open.spotify.com/track/5VUqbQ8Z5NXEITbmFhAhbk"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Inedito (Unpublished)",
+        "url": "https://open.spotify.com/album/74Q0uOTdCZMZ07P5Im7582"
+      },
+      "artists": [
+        {
+          "name": "Lazar Berman",
+          "url": "https://open.spotify.com/artist/2XKXuLdjmigGQx286z07ZZ"
+        }
+      ],
+      "duration_ms": 63840,
+      "name": "Chaconne in sol maggiore : Variazione 9",
+      "url": "https://open.spotify.com/track/4NSH5KlrNzdH9OBtgsBFpL"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/2y9DN1TNj4qMf1H5epuupR"
       },
@@ -2091,22 +2107,6 @@
       "duration_ms": 119426,
       "name": "Zdes' khorosho ('How Fair This Spot'), Op. 21, No. 7",
       "url": "https://open.spotify.com/track/0wZMPhztIsuwSjCo6OalWe"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Inedito (Unpublished)",
-        "url": "https://open.spotify.com/album/74Q0uOTdCZMZ07P5Im7582"
-      },
-      "artists": [
-        {
-          "name": "Lazar Berman",
-          "url": "https://open.spotify.com/artist/2XKXuLdjmigGQx286z07ZZ"
-        }
-      ],
-      "duration_ms": 63840,
-      "name": "Chaconne in sol maggiore : Variazione 9",
-      "url": "https://open.spotify.com/track/4NSH5KlrNzdH9OBtgsBFpL"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -2239,26 +2239,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Mendelssohn, Felix: Songs Without Words, Vol. 1",
-        "url": "https://open.spotify.com/album/4oPL5qL3uEurG2nu1MsVwT"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "P\u00e9ter Nagy",
-          "url": "https://open.spotify.com/artist/4Hv8naKkLxWrfxkRMPz5bM"
-        }
-      ],
-      "duration_ms": 282813,
-      "name": "Lieder ohne Worte (Songs without Words), Book 2, Op. 30: No. 7 in E-Flat Major, Op. 30, No. 1",
-      "url": "https://open.spotify.com/track/00CXUMREit80f2McJsjcIz"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Field: Complete Nocturnes",
         "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
       },
@@ -2295,6 +2275,26 @@
       "duration_ms": 182720,
       "name": "3 Romances, Op. 11: No. 1, Andante",
       "url": "https://open.spotify.com/track/6VLzm03YUeXVl3GdGyib6J"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Mendelssohn, Felix: Songs Without Words, Vol. 1",
+        "url": "https://open.spotify.com/album/4oPL5qL3uEurG2nu1MsVwT"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "P\u00e9ter Nagy",
+          "url": "https://open.spotify.com/artist/4Hv8naKkLxWrfxkRMPz5bM"
+        }
+      ],
+      "duration_ms": 282813,
+      "name": "Lieder ohne Worte (Songs without Words), Book 2, Op. 30: No. 7 in E-Flat Major, Op. 30, No. 1",
+      "url": "https://open.spotify.com/track/00CXUMREit80f2McJsjcIz"
     },
     {
       "added_at": "2023-10-13 04:01:00",

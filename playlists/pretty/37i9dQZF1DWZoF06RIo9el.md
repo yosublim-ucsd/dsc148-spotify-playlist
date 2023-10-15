@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de octubre 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,534,564 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,534,206 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 34 | [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 |
 | 35 | [Calor](https://open.spotify.com/track/2bmAfAeeEEDT3p8UqFu9iA) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Manolo Ramos](https://open.spotify.com/artist/2Y4HyZqAPMu0R6nvl5rWgW), [Ghetto](https://open.spotify.com/artist/4yxglAiH5h8Db7TmN0MUr5) | [Calor](https://open.spotify.com/album/0G8qT6fC0rJBzUpGL2qp5m) | 3:32 |
 | 36 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 |
-| 37 | [cielo violeta](https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [cielo violeta](https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK) | 2:40 |
-| 38 | [INSTALÁRTELO \(feat\. Sleezy O & Young Gallo\)](https://open.spotify.com/track/4iiLT6wrLtcoW3vOUjjlbS) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n), [Young Gallo](https://open.spotify.com/artist/1AfxlMLCP8GSIoyA5htFUd) | [INSTALÁRTELO \(feat\. Sleezy O & Young Gallo\)](https://open.spotify.com/album/1WEHAfCuVdBCKUU0cUMZjp) | 4:00 |
+| 37 | [INSTALÁRTELO \(feat\. Sleezy O & Young Gallo\)](https://open.spotify.com/track/4iiLT6wrLtcoW3vOUjjlbS) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n), [Young Gallo](https://open.spotify.com/artist/1AfxlMLCP8GSIoyA5htFUd) | [INSTALÁRTELO \(feat\. Sleezy O & Young Gallo\)](https://open.spotify.com/album/1WEHAfCuVdBCKUU0cUMZjp) | 4:00 |
+| 38 | [cielo violeta](https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [cielo violeta](https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK) | 2:40 |
 | 39 | [ORGULLO](https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [DESAHOGO](https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak) | 3:22 |
-| 40 | [Imprudencia](https://open.spotify.com/track/3Cd4tTkxEGTnxWddyxWgDK) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [Imprudencia](https://open.spotify.com/album/5X5UnBgIVpuoSeOrs0Xd09) | 3:19 |
-| 41 | [La Que Yo Amo](https://open.spotify.com/track/57G0Wqaly1Sdm4S5QL3i0w) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 2:12 |
+| 40 | [La Que Yo Amo](https://open.spotify.com/track/57G0Wqaly1Sdm4S5QL3i0w) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 2:12 |
+| 41 | [Imprudencia](https://open.spotify.com/track/3Cd4tTkxEGTnxWddyxWgDK) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [Imprudencia](https://open.spotify.com/album/5X5UnBgIVpuoSeOrs0Xd09) | 3:19 |
 | 42 | [Nada Que Me Guste Más](https://open.spotify.com/track/24ZdWvvNirs87VDxSMDU9u) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Nada Que Me Guste Más](https://open.spotify.com/album/1TvWgVEEt5UMrodGdtZ7O7) | 3:28 |
 | 43 | [Trasplante de Corazón](https://open.spotify.com/track/3VqKXI13KCXegeHhcSX0DS) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Trasplante de Corazón](https://open.spotify.com/album/0Se6CCfIxUEK55p3v4vTC7) | 3:25 |
 | 44 | [Ya Me Han Fallado](https://open.spotify.com/track/0cXzcDn8QRWgugkQn2Fl3F) | [Milo Mae](https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP) | [Ya Me Han Fallado](https://open.spotify.com/album/68xJmSqQas7rRiTaUjOgiW) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [ALI](https://open.spotify.com/track/0CgKpM15mWm8az3ypb4Q1N) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [MILLAS](https://open.spotify.com/album/71ANhRl5U4jM8vBUTvQTsZ) | 1:35 |
 | 50 | [Me Gustas Tu](https://open.spotify.com/track/5NF8FAe3INIXOnTJuo3ngL) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [Me Gustas Tu](https://open.spotify.com/album/1WWkPIDdO1PWxIl36eymzE) | 3:25 |
 
-Snapshot ID: `MCwyMzc2YzgyYzc2NTlhMDZhNGFmMmIxZDkxYmE1YTUyODU3NDBmZDkx`
+Snapshot ID: `MCxjM2NlMjg3NTEwYTFhMWU4YTRhYjc0NjRhZjU4Yjg4YWFjNjk2ODlj`

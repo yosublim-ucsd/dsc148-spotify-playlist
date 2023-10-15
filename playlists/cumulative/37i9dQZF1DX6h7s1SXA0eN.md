@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5tYqFEuFELxnJZgGmmsfSh">Catz 'n Dogz</a>' favorite tracks\. Updated regularly\. Curated by Catz 'n Dogz\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-132 songs - 12 hr 33 min
+133 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Fly Away](https://open.spotify.com/track/6Ri7neSWe49NFzgxE0YBEj) | [Cromby](https://open.spotify.com/artist/1qxDhjTatsIGuMVF3LMAOX) | [Freaks On Speed](https://open.spotify.com/album/51cwK67Grlro2UjztY34Sl) | 5:47 | 2022-07-23 |  |
 | [Forever](https://open.spotify.com/track/0z7mJ4dACjuoBqH7RC3mbm) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Forever](https://open.spotify.com/album/4rubgFY3CcvXg0dqQd18LH) | 4:28 | 2022-07-23 |  |
 | [Freedom \(Never Let You Go\)](https://open.spotify.com/track/0AobTeawzXgsGlVnmFtIR7) | [Karma Kid](https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2) | [Freedom \(Never Let You Go\)](https://open.spotify.com/album/0ds4tb0fPCO9cCR58qpuEQ) | 3:37 | 2022-07-23 |  |
-| [Get Familiar \- Acid Mix](https://open.spotify.com/track/1hBAQj8aQL8fJATQ3VrUem) | [E.R.N.E.S.T.O](https://open.spotify.com/artist/4qztljP89fI8SLn3GTJgqX), [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Get Familiar](https://open.spotify.com/album/0aJbbIFZGntiHELBrsohJN) | 4:51 | 2022-07-23 |  |
+| [Get Familiar \- Acid Mix](https://open.spotify.com/track/1hBAQj8aQL8fJATQ3VrUem) | [E.R.N.E.S.T.O](https://open.spotify.com/artist/4qztljP89fI8SLn3GTJgqX), [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Get Familiar](https://open.spotify.com/album/0aJbbIFZGntiHELBrsohJN) | 4:51 | 2022-07-23 | 2023-10-15 |
+| [Get Familiar \- Acid Mix](https://open.spotify.com/track/3Oje87eoleAI8KjcpZWgb4) | [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf), [E.R.N.E.S.T.O](https://open.spotify.com/artist/4qztljP89fI8SLn3GTJgqX) | [Get Familiar](https://open.spotify.com/album/4nQqi2VIJ2cPBVYeYC5cz4) | 4:51 | 2023-09-25 |  |
 | [Get Ya Dub On](https://open.spotify.com/track/0Hg6yLVev5CZtu8hw4AJVA) | [Switch](https://open.spotify.com/artist/602MOqXiySUsSi7y6jFpvI) | [Get Ya Dub On](https://open.spotify.com/album/3q17EbgO1AIxTfdvYdfLcB) | 7:51 | 2022-11-21 |  |
 | [Give it to Me](https://open.spotify.com/track/6H2pxSiSTzSheYZydk7VZw) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [Big Saldo's Chunker 002](https://open.spotify.com/album/6RquqCIzJ6Ay9A4HzoHRMX) | 7:09 | 2022-07-23 |  |
 | [Hamstring](https://open.spotify.com/track/6kDnAA7kbQb4qp5oQUNNyB) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI) | [Synchronicity III](https://open.spotify.com/album/69RR1Zvz668vNrJ0hr9umD) | 6:29 | 2022-07-23 |  |

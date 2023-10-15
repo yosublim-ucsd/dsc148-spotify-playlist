@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Shadaloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,528 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,532 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 59 | [PARLAME 'E TE \(con Federico Di Napoli & O'Tsunami\)](https://open.spotify.com/track/5hdEy03sDt2rk2hDMGUIUg) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [PARLAME 'E TE \(con Federico Di Napoli & O'Tsunami\)](https://open.spotify.com/album/4ruBCav6dbun5BYOPQq2hd) | 2:53 |
 | 60 | [Una Litigata a Cas@](https://open.spotify.com/track/34wkdFH9hHRK5t1q1aU1IC) | [Asiabel](https://open.spotify.com/artist/491HAKV720PSqmM2Cii1F7) | [Una Litigata a Cas@](https://open.spotify.com/album/49lcE2GrqBYyyyQck1IR3p) | 4:06 |
 
-Snapshot ID: `MCw0MGNhNWFlOTFhODJmOTgxNmFmOGY5ZmM4YjUzNTFlMjc5NDc1YWU3`
+Snapshot ID: `MCw2MDEwMjI5MGE0YjViY2Y5Y2FjYmEyODgzZjYyMDE3ZDUwNWUyNDQ1`

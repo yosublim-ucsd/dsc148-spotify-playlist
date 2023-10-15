@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Rebūke
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,454 likes - 80 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,493 likes - 80 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 24 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 |
 | 25 | [Loam](https://open.spotify.com/track/5cAcVaabqTC3n3TS3eaxkG) | [SCALER](https://open.spotify.com/artist/3pMZZzAKwSIftJmwtEx56W), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Loam](https://open.spotify.com/album/3FH7tPm5VdQTb49nceSBRP) | 4:59 |
 | 26 | [Inside My Head](https://open.spotify.com/track/3MFwdV9DU2hnMqnFupb7yl) | [ANU](https://open.spotify.com/artist/1sWiTvDqck2OJDffcKK7Vy) | [Inside My Head](https://open.spotify.com/album/3TOiMFIAIKraCdeFXmSUHW) | 6:55 |
-| 27 | [Everything](https://open.spotify.com/track/5qK203gDYDkCqRf80DE3f6) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Everything](https://open.spotify.com/album/0L1fZgjQTboP65QTburanO) | 5:32 |
+| 27 | [Everything](https://open.spotify.com/track/06AbpLxu17SbYQ6R3ZFAoL) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y) | 5:32 |
 | 28 | [Missing Channel \- Original Mix](https://open.spotify.com/track/1Hs5l7PHbZ0LZAZfAUw1bZ) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 6:32 |
 | 29 | [0151](https://open.spotify.com/track/6ysPzVWbgTncomdLMQlo0Y) | [Cosmic Chaos](https://open.spotify.com/artist/3L2iV4IOzjCbD1Usy0XVBx) | [0151](https://open.spotify.com/album/1B3ScxjLsGhKV5DxzWt28r) | 3:37 |
 | 30 | [Ecstasy](https://open.spotify.com/track/7gT3poPl89krqi8qcBinyU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [MEDUZA](https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc) | 2:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 79 | [Cruising In My Herse](https://open.spotify.com/track/5NoVq4jZJkdVMvRlWFCEMk) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Cruising In My Herse](https://open.spotify.com/album/7pzQwVl5jIciRHLLg9hmeQ) | 5:35 |
 | 80 | [Eternity Of Echoes](https://open.spotify.com/track/0NXejdY0rXJfMkocRP1osb) | [Shiken Hanzo](https://open.spotify.com/artist/3lttA5nBNjUeWtLqvOnncr) | [Eternity Of Echoes](https://open.spotify.com/album/4b41tw2qshMUH0F5H6m485) | 5:18 |
 
-Snapshot ID: `MCwxMDI3ZDc1YWIxYWI5YWUyOGZhYmE3ZWQwMDQ0YjVjY2UyMDdkNDJm`
+Snapshot ID: `MCxhZWZiOTg4YjM5ZjIzNDdiYWE3NTY1NzZkYWUyMzYxZWU0NTFlYTM5`

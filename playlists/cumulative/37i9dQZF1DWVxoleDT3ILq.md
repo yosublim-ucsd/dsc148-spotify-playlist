@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Francisco Victoria
 
-419 songs - 1 day 1 hr 14 min
+420 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [es caprichoso el azar](https://open.spotify.com/track/2Uunn684ajXS2E7Q9efp6e) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [tío pepe](https://open.spotify.com/artist/2RZ0SqMMzsDKZBwUW4ygWA) | [es caprichoso el azar](https://open.spotify.com/album/7FwXaotHIpUepMYI2SzqPr) | 2:57 | 2022-12-23 | 2023-07-16 |
 | [Es Suficiente](https://open.spotify.com/track/2PToyUgUHW6iCPUKCvIhzw) | [Vero Soffia](https://open.spotify.com/artist/3CYRq2jA4EHkNmPssIpUPx) | [Es Suficiente](https://open.spotify.com/album/4h6A3AMTn8FC0Li0D6dkk6) | 3:40 | 2022-04-15 | 2022-07-29 |
 | [Esperancita](https://open.spotify.com/track/0hCsSxKmlBFfcoiAEGta0H) | [Soy Irracional](https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna) | [Esperancita](https://open.spotify.com/album/5uEnrbRANWypwVyHXibnfV) | 3:53 | 2022-04-15 | 2022-07-20 |
+| [Esta casa hace rato dejó de ser un hogar](https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Esta casa hace rato dejó de ser un hogar](https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY) | 3:29 | 2023-10-12 |  |
 | [Esta vislumbra](https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 3:21 | 2022-10-28 |  |
 | [Estado Vegetal](https://open.spotify.com/track/5V2XCJbps0OnxrVhRifnoN) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Estado Vegetal](https://open.spotify.com/album/677hsNZFSH3CJgXANUH30n) | 3:16 | 2022-04-15 |  |
 | [Estalló la Revuelta](https://open.spotify.com/track/17xn80al7euSF9rqRhrvTn) | [La Lira Libertaria](https://open.spotify.com/artist/61Ewa0d7We1xxubqaqKBUW) | [Estalló la Revuelta](https://open.spotify.com/album/3xKbStQSnYjsnkcYA6jNHl) | 3:35 | 2022-04-15 | 2022-07-28 |
@@ -200,7 +201,7 @@
 | [La Resistencia](https://open.spotify.com/track/1M9rrn3d94oMrwuJRgVZ5W) | [Camilo Eque](https://open.spotify.com/artist/1NBoDdFZArcr9I68YHFA5T), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La Resistencia](https://open.spotify.com/album/6wJYD7J46pVGUNZ3PA6YkJ) | 4:13 | 2023-05-26 |  |
 | [La Sombra del Olvido](https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [La Sombra del Olvido](https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F) | 2:51 | 2022-12-16 | 2023-09-26 |
 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 | 2022-04-15 |  |
-| [Labios de Miel](https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks) | [Adri Stuven](https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn) | [Labios de Miel](https://open.spotify.com/album/2ou4x9ejrRNpjlSnCowbK0) | 2:20 | 2023-08-18 |  |
+| [Labios de Miel](https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks) | [Adri Stuven](https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn) | [Labios de Miel](https://open.spotify.com/album/2ou4x9ejrRNpjlSnCowbK0) | 2:20 | 2023-08-18 | 2023-10-15 |
 | [Las Piedras](https://open.spotify.com/track/5FMyNDgr11zcBsxfilA005) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Las Piedras](https://open.spotify.com/album/0f502VlRJBXXIcu3q780yK) | 4:01 | 2022-11-11 |  |
 | [Las Vueltas](https://open.spotify.com/track/3aHRr27wUblng7kDc8CQGk) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Las Vueltas](https://open.spotify.com/album/3Uc11awXVTbtwD2PDM0mLW) | 3:50 | 2022-08-19 | 2023-04-09 |
 | [Latina](https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Sukubito](https://open.spotify.com/artist/0JzKb7hoduFrEG3poYHHqy) | [Latina](https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR) | 3:07 | 2023-08-04 | 2023-08-25 |

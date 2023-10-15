@@ -1,12 +1,12 @@
 {
   "description": "Classic Latin tunes to get you in the Christmas spirit. Cover: Jos\u00e9 Feliciano",
-  "num_followers": 194534,
+  "num_followers": 194511,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2VkZjVjZTU2NmMyZjhhMWRjNmFiNTE1YWM0ZTA0ZmRhMzVjMjMy",
+  "snapshot_id": "MCw4ZGYyMjJkYmVmNjU5YWVkZDI2ZDZiM2IzOGJjMzE5ZmIxMmQxZjBm",
   "tracks": [
     {
       "added_at": "2022-12-19 23:50:20",
@@ -691,6 +691,26 @@
     {
       "added_at": "2022-12-19 23:50:20",
       "album": {
+        "name": "Selecci\u00f3n Operaci\u00f3n Triunfo",
+        "url": "https://open.spotify.com/album/7HuT7DcexUsrAC93qDZctx"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Gisela",
+          "url": "https://open.spotify.com/artist/6SxnKPhYvkTKp2FtBzh6CI"
+        }
+      ],
+      "duration_ms": 265560,
+      "name": "Mi Estrella",
+      "url": "https://open.spotify.com/track/4c8OEUMc9R5wn4xmx6ujwa"
+    },
+    {
+      "added_at": "2022-12-19 23:50:20",
+      "album": {
         "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG"
       },
@@ -815,22 +835,6 @@
       "duration_ms": 478333,
       "name": "Navidad en Am\u00e9rica",
       "url": "https://open.spotify.com/track/2ccmP0Y9mO8VAsJ1tA8HUX"
-    },
-    {
-      "added_at": "2022-12-19 23:50:20",
-      "album": {
-        "name": "Navidad Mexicana",
-        "url": "https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7"
-      },
-      "artists": [
-        {
-          "name": "Pablo Montero",
-          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
-        }
-      ],
-      "duration_ms": 178720,
-      "name": "Llorar\u00e1s en Navidad",
-      "url": "https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE"
     },
     {
       "added_at": "2022-12-19 23:50:20",

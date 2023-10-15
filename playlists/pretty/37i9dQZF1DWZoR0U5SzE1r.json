@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 273312,
+  "num_followers": 273474,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDU0ZGU4NzljMjExMDJmMWEyNzFhNGFmY2UxZDc0Y2U5Njk4MzJm",
+  "snapshot_id": "MCwyNDg0ZDE2MzkxNDIxODQ4NWZkOTc0ZjY1NTBmYWZjYzA2MjYxYzA2",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 272426,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/78pKjOa4gToyRxn3cVc7Sa"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Hallelujah For The Cross (Live)",
         "url": "https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 266620,
       "name": "Insatiable",
       "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 272426,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/78pKjOa4gToyRxn3cVc7Sa"
     },
     {
       "added_at": "2020-06-26 04:02:00",

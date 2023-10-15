@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-538 songs - 1 day 5 hr 33 min
+539 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Love and Hate in a Different Time \- Original](https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 4:42 | 2021-12-15 | 2023-03-25 |
 | [Love Frequency \- Stripped](https://open.spotify.com/track/0M1SoHpp1zyZdnVjUEjw3V) | [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Love Frequency \(Stripped\)](https://open.spotify.com/album/77rhrA74OSgHndy27dGO50) | 3:12 | 2023-06-02 | 2023-06-10 |
 | [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 | 2023-03-03 |  |
-| [Love On You](https://open.spotify.com/track/0mBX1jSxAQbOlfSWgZlL0I) | [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [The Found Album](https://open.spotify.com/album/4pRSg1bpkomA4aSn9EIxfx) | 4:10 | 2023-06-09 |  |
+| [Love On You](https://open.spotify.com/track/0mBX1jSxAQbOlfSWgZlL0I) | [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [The Found Album](https://open.spotify.com/album/4pRSg1bpkomA4aSn9EIxfx) | 4:10 | 2023-06-09 | 2023-10-15 |
 | [Love Outloud](https://open.spotify.com/track/0jj4TBUdZK5IekIzzYnqyU) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [ARTchives](https://open.spotify.com/album/0gb4DvjQAURA9LEu7RQr9A) | 2:57 | 2023-08-25 |  |
 | [Loverboy](https://open.spotify.com/track/1x9UiIdgnqRr9weFqFD8Pb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Loverboy](https://open.spotify.com/album/6b4zVp76pVqlDU7WQrho22) | 3:58 | 2022-10-19 | 2023-02-14 |
 | [Loverboy](https://open.spotify.com/track/7DHrin6fl2RV6ND1k3MF9y) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Loverboy](https://open.spotify.com/album/7w3ggwVB0OqAGFkboiozRS) | 3:58 | 2021-12-15 | 2022-10-13 |
@@ -371,7 +371,7 @@
 | [Palace](https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Palace](https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO) | 2:32 | 2023-03-24 | 2023-06-22 |
 | [Paradise](https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Paradise](https://open.spotify.com/album/5ckMdSLnCP1HEGe8clgU9B) | 3:38 | 2023-09-15 |  |
 | [Party On Mars](https://open.spotify.com/track/71Z9IsCkGbbMmVMatELPXa) | [Shanté](https://open.spotify.com/artist/01LFHYk6xpMMbpzH8Gzoju) | [Protection](https://open.spotify.com/album/5c1ExU1WZbSUBRRaF9vF1F) | 2:58 | 2021-12-15 | 2022-11-13 |
-| [PATIENCE](https://open.spotify.com/track/1s4nf70ewlVgOgULKYkvoR) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [COME AS YOU ARE](https://open.spotify.com/album/4P5fBzAOk6fcsyzUHs8ce2) | 2:36 | 2023-08-18 |  |
+| [PATIENCE](https://open.spotify.com/track/1s4nf70ewlVgOgULKYkvoR) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [COME AS YOU ARE](https://open.spotify.com/album/4P5fBzAOk6fcsyzUHs8ce2) | 2:36 | 2023-08-18 | 2023-10-15 |
 | [PATTERNS](https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [PATTERNS](https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4) | 3:44 | 2021-12-15 | 2023-08-19 |
 | [Payday](https://open.spotify.com/track/1TEHeYuZGKXIcZxONEsJ3K) | [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Payday](https://open.spotify.com/album/0lofROR75lRgE1OZzPl1Pw) | 3:10 | 2021-12-15 | 2022-04-07 |
 | [Pink Skies](https://open.spotify.com/track/5xrz5t1gDx4Fft0tDAo8Fs) | [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Pink Skies](https://open.spotify.com/album/1fkWEJ7SjJ3LzJJ0mDCun2) | 3:10 | 2023-03-24 | 2023-10-07 |
@@ -384,6 +384,7 @@
 | [Poster Girl](https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 2:54 | 2022-09-29 | 2023-01-28 |
 | [Potential](https://open.spotify.com/track/1Wl7Rh9lUbQjA9RvHEiCbc) | [Amber\-Simone](https://open.spotify.com/artist/4KqKrtbthkLIucOXM3fGdV) | [Potential](https://open.spotify.com/album/5U7pW6Www9PZzXB1JFrBtF) | 2:54 | 2021-12-15 | 2022-07-29 |
 | [Potential](https://open.spotify.com/track/3Xa5VCKmneuaoTe7VYsupa) | [Amber\-Simone](https://open.spotify.com/artist/4KqKrtbthkLIucOXM3fGdV) | [Potential](https://open.spotify.com/album/1dHQlMxstJvM0UZRiuPaea) | 2:54 | 2023-01-12 | 2023-02-07 |
+| [Practice](https://open.spotify.com/track/6J2ECbAbX4L4WgIkeXyeq6) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Practice](https://open.spotify.com/album/06y4wpVgWExGgvoUECSgMj) | 3:14 | 2023-10-13 |  |
 | [Pretty](https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Pretty](https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp) | 3:25 | 2023-04-21 | 2023-08-26 |
 | [PRETTY.](https://open.spotify.com/track/0xUTuscCV7C6l7VHoqJIxo) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [PRETTY.](https://open.spotify.com/album/2Ikb79E7Qi4yqzNxqovztu) | 2:56 | 2021-12-15 | 2022-07-29 |
 | [Pricey](https://open.spotify.com/track/0vkT3Lz1Ojv1pTmyfdaHlE) | [Runway the Catwalker](https://open.spotify.com/artist/0v7OXAWuYuTZJGeHKwGhkQ) | [Pricey](https://open.spotify.com/album/0RvPoh7PrhYs5HcYRPlpRG) | 2:37 | 2021-12-15 | 2022-07-29 |
@@ -500,7 +501,7 @@
 | [Two Worlds Apart](https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 2:58 | 2021-12-15 | 2022-11-02 |
 | [Two Worlds Apart](https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 2:58 | 2022-10-19 | 2023-01-28 |
 | [U](https://open.spotify.com/track/75w90hoCMVISvw80Kqbznq) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Brayla](https://open.spotify.com/artist/42HxYNtPFMRHRqF9Ts1AHx) | [Forward](https://open.spotify.com/album/1Mp96vHPfKb0uDsDglRB2m) | 2:49 | 2023-06-16 |  |
-| [U Got Me](https://open.spotify.com/track/4bvNJ5So34WwPSGXaERnGh) | [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [U Got Me](https://open.spotify.com/album/7vNWrBgdkb8ne93HUDnjxQ) | 3:26 | 2023-06-30 | 2023-10-13 |
+| [U Got Me](https://open.spotify.com/track/4bvNJ5So34WwPSGXaERnGh) | [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [U Got Me](https://open.spotify.com/album/7vNWrBgdkb8ne93HUDnjxQ) | 3:26 | 2023-06-30 |  |
 | [U Should Be Mine](https://open.spotify.com/track/6babFcorQ58c4wRURJARaE) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [U Should Be Mine](https://open.spotify.com/album/1SAL8acM2LnCU1GmQpks37) | 3:25 | 2023-08-18 | 2023-10-07 |
 | [UNDERSTAND \(feat\. Baby Rose\)](https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [UNDERSTAND](https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX) | 4:03 | 2023-04-21 | 2023-09-08 |
 | [Undone](https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Undone](https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In) | 3:20 | 2023-09-22 |  |

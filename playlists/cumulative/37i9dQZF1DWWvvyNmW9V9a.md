@@ -2,7 +2,7 @@
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> if this\* was a movie \(\*this = eras tour\)
+> if this was a movie..\. it is now!
 
 1,051 songs - 2 day 7 hr 9 min
 

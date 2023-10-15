@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 159258,
+  "num_followers": 159381,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmI2YWVmZmY1YTgwOWE2MjMxZDkxZDNmZTQ1ODY3OWQ1ZmQwYWY5",
+  "snapshot_id": "MCw1OGJkYThmNjQxNDI0MTg4MmIyZTlhMDkwMGFkNzdlMDBkNDQzMTk2",
   "tracks": [
     {
       "added_at": "2021-10-20 20:05:06",
@@ -101,6 +101,22 @@
       "url": "https://open.spotify.com/track/1hY1xVHfG9wHrkF26mIYoT"
     },
     {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "On",
+        "url": "https://open.spotify.com/album/6AmmrlB9qABCgBdr8SCLZt"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "duration_ms": 240093,
+      "name": "Goca D\u00fcnya",
+      "url": "https://open.spotify.com/track/5QO3UJc1gF1ummP75n2b3R"
+    },
+    {
       "added_at": "2022-08-31 04:14:59",
       "album": {
         "name": "Ali",
@@ -119,22 +135,6 @@
       "duration_ms": 333150,
       "name": "Tongo Barra",
       "url": "https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "On",
-        "url": "https://open.spotify.com/album/6AmmrlB9qABCgBdr8SCLZt"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 240093,
-      "name": "Goca D\u00fcnya",
-      "url": "https://open.spotify.com/track/5QO3UJc1gF1ummP75n2b3R"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -205,24 +205,20 @@
       "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
     },
     {
-      "added_at": "2022-08-03 03:33:55",
+      "added_at": "2022-07-01 02:44:20",
       "album": {
-        "name": "Ali",
-        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
+        "name": "Sacatela",
+        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
       },
       "artists": [
         {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        },
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
         }
       ],
-      "duration_ms": 316093,
-      "name": "Savanne",
-      "url": "https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm"
+      "duration_ms": 172026,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
     },
     {
       "added_at": "2023-03-31 19:02:24",
@@ -243,22 +239,6 @@
       "duration_ms": 239400,
       "name": "Mamita Santa",
       "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
-    },
-    {
-      "added_at": "2022-07-01 02:44:20",
-      "album": {
-        "name": "Sacatela",
-        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
     },
     {
       "added_at": "2022-07-01 02:44:20",
@@ -315,6 +295,26 @@
       "duration_ms": 248127,
       "name": "Mon Cheri",
       "url": "https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn"
+    },
+    {
+      "added_at": "2022-08-03 03:33:55",
+      "album": {
+        "name": "Ali",
+        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
+      },
+      "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 316093,
+      "name": "Savanne",
+      "url": "https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -499,18 +499,22 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "K.G.",
-        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+        "name": "Yeti Season (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Piya Malik",
+          "url": "https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU"
         }
       ],
-      "duration_ms": 252630,
-      "name": "Intrasport",
-      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
+      "duration_ms": 213749,
+      "name": "Unathi",
+      "url": "https://open.spotify.com/track/1dxYM3qSzXe2O2RJ3rK3KI"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -535,22 +539,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Yeti Season (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK"
+        "name": "K.G.",
+        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
       },
       "artists": [
         {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        },
-        {
-          "name": "Piya Malik",
-          "url": "https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU"
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 213749,
-      "name": "Unathi",
-      "url": "https://open.spotify.com/track/1dxYM3qSzXe2O2RJ3rK3KI"
+      "duration_ms": 252630,
+      "name": "Intrasport",
+      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -591,18 +591,22 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "K.G.",
-        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+        "name": "Yeti Season (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Piya Malik",
+          "url": "https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU"
         }
       ],
-      "duration_ms": 209803,
-      "name": "Automation",
-      "url": "https://open.spotify.com/track/03CS8ifzdYuzNCyzshYl7Z"
+      "duration_ms": 192404,
+      "name": "Murkit Gem",
+      "url": "https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl"
     },
     {
       "added_at": "2022-04-17 20:09:31",
@@ -679,22 +683,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Yeti Season (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK"
+        "name": "K.G.",
+        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
       },
       "artists": [
         {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        },
-        {
-          "name": "Piya Malik",
-          "url": "https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU"
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 192404,
-      "name": "Murkit Gem",
-      "url": "https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl"
+      "duration_ms": 209803,
+      "name": "Automation",
+      "url": "https://open.spotify.com/track/03CS8ifzdYuzNCyzshYl7Z"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
     },
     {
-      "added_at": "2023-06-07 04:01:30",
-      "album": {
-        "name": "Taivshral",
-        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
-    },
-    {
       "added_at": "2022-02-18 02:21:25",
       "album": {
         "name": "Elegancia Tropical",
@@ -859,6 +843,22 @@
       "duration_ms": 174882,
       "name": "PERLA",
       "url": "https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj"
+    },
+    {
+      "added_at": "2023-06-07 04:01:30",
+      "album": {
+        "name": "Taivshral",
+        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
     },
     {
       "added_at": "2022-02-03 23:38:31",
@@ -963,22 +963,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Bayti Fi Rasi",
-        "url": "https://open.spotify.com/album/46reac1ZzkmCPcHpRMgniL"
-      },
-      "artists": [
-        {
-          "name": "A-WA",
-          "url": "https://open.spotify.com/artist/1EK3SHXyGFZsuj4vrOLhAX"
-        }
-      ],
-      "duration_ms": 251319,
-      "name": "Hana Mash Hu Al Yaman",
-      "url": "https://open.spotify.com/track/31SocnpUpBkeybeT5UsY65"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Ash",
         "url": "https://open.spotify.com/album/06z5kktv4TUsmlQk2vj0Wn"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 187400,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/4Qolq4voNJaxnQNYzFsMLu"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Bayti Fi Rasi",
+        "url": "https://open.spotify.com/album/46reac1ZzkmCPcHpRMgniL"
+      },
+      "artists": [
+        {
+          "name": "A-WA",
+          "url": "https://open.spotify.com/artist/1EK3SHXyGFZsuj4vrOLhAX"
+        }
+      ],
+      "duration_ms": 251319,
+      "name": "Hana Mash Hu Al Yaman",
+      "url": "https://open.spotify.com/track/31SocnpUpBkeybeT5UsY65"
     },
     {
       "added_at": "2022-07-28 06:00:43",
@@ -1361,26 +1361,6 @@
       "url": "https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm"
     },
     {
-      "added_at": "2023-07-17 18:55:09",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ"
-      },
-      "artists": [
-        {
-          "name": "Kalush Orchestra",
-          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
-        },
-        {
-          "name": "JONA XX",
-          "url": "https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP"
-        }
-      ],
-      "duration_ms": 158853,
-      "name": "Human (feat. JONA XX) - Spotify Singles",
-      "url": "https://open.spotify.com/track/48UIC5kKvE8ftxKyXvlvg7"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Sancocho Stereo",
@@ -1395,6 +1375,22 @@
       "duration_ms": 273000,
       "name": "Todo Bien",
       "url": "https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD"
+    },
+    {
+      "added_at": "2022-01-12 17:26:22",
+      "album": {
+        "name": "Pista (Fresh Start)",
+        "url": "https://open.spotify.com/album/06Gwyoe9n82YHriBKmAcjs"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "Pista (Fresh Start)",
+      "url": "https://open.spotify.com/track/5CW8Sionqq9jxe1uZxN5h7"
     },
     {
       "added_at": "2022-02-23 18:02:26",
@@ -1413,20 +1409,24 @@
       "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
     },
     {
-      "added_at": "2022-01-12 17:26:22",
+      "added_at": "2023-07-17 18:55:09",
       "album": {
-        "name": "Pista (Fresh Start)",
-        "url": "https://open.spotify.com/album/06Gwyoe9n82YHriBKmAcjs"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ"
       },
       "artists": [
         {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+          "name": "Kalush Orchestra",
+          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
+        },
+        {
+          "name": "JONA XX",
+          "url": "https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP"
         }
       ],
-      "duration_ms": 202133,
-      "name": "Pista (Fresh Start)",
-      "url": "https://open.spotify.com/track/5CW8Sionqq9jxe1uZxN5h7"
+      "duration_ms": 158853,
+      "name": "Human (feat. JONA XX) - Spotify Singles",
+      "url": "https://open.spotify.com/track/48UIC5kKvE8ftxKyXvlvg7"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1489,20 +1489,20 @@
       "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
     },
     {
-      "added_at": "2023-07-17 18:55:09",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ"
+        "name": "Calling England Home",
+        "url": "https://open.spotify.com/album/4qO6OhmdEda5cfBjDOTduz"
       },
       "artists": [
         {
-          "name": "Kalush Orchestra",
-          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
+          "name": "Anthony Joseph",
+          "url": "https://open.spotify.com/artist/622cbugSJevUkEanSBCab9"
         }
       ],
-      "duration_ms": 132305,
-      "name": "Chase - Spotify Singles",
-      "url": "https://open.spotify.com/track/3Q4TZNei1kkNAZl6ab9hgs"
+      "duration_ms": 373893,
+      "name": "Calling England Home",
+      "url": "https://open.spotify.com/track/6jd5uWEpV3zdgnR0obsXZ2"
     },
     {
       "added_at": "2023-07-19 02:50:55",
@@ -1521,20 +1521,36 @@
       "url": "https://open.spotify.com/track/7eMFZDDVezqN2tOEBOU29v"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2022-03-04 21:17:03",
       "album": {
-        "name": "Calling England Home",
-        "url": "https://open.spotify.com/album/4qO6OhmdEda5cfBjDOTduz"
+        "name": "The Age of Aquarius",
+        "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
       },
       "artists": [
         {
-          "name": "Anthony Joseph",
-          "url": "https://open.spotify.com/artist/622cbugSJevUkEanSBCab9"
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
         }
       ],
-      "duration_ms": 373893,
-      "name": "Calling England Home",
-      "url": "https://open.spotify.com/track/6jd5uWEpV3zdgnR0obsXZ2"
+      "duration_ms": 241157,
+      "name": "Nautilus",
+      "url": "https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA"
+    },
+    {
+      "added_at": "2023-07-17 18:55:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ"
+      },
+      "artists": [
+        {
+          "name": "Kalush Orchestra",
+          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
+        }
+      ],
+      "duration_ms": 132305,
+      "name": "Chase - Spotify Singles",
+      "url": "https://open.spotify.com/track/3Q4TZNei1kkNAZl6ab9hgs"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1551,22 +1567,6 @@
       "duration_ms": 185160,
       "name": "Worry",
       "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
-    },
-    {
-      "added_at": "2022-03-04 21:17:03",
-      "album": {
-        "name": "The Age of Aquarius",
-        "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
-      },
-      "artists": [
-        {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
-        }
-      ],
-      "duration_ms": 241157,
-      "name": "Nautilus",
-      "url": "https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Carry Me Home",
-        "url": "https://open.spotify.com/album/3BVadsttoBuo4nmzPoax9g"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 327560,
-      "name": "Carry Me Home",
-      "url": "https://open.spotify.com/track/0lfCoE7BfCZaaLiKSxSYXL"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Global Control / Invisible Invasion",
         "url": "https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI"
       },
@@ -1669,20 +1653,20 @@
       "url": "https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484"
     },
     {
-      "added_at": "2022-08-31 05:20:13",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Ghibli",
-        "url": "https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As"
+        "name": "Carry Me Home",
+        "url": "https://open.spotify.com/album/3BVadsttoBuo4nmzPoax9g"
       },
       "artists": [
         {
-          "name": "Savana Funk",
-          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
         }
       ],
-      "duration_ms": 235519,
-      "name": "Ghibli",
-      "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
+      "duration_ms": 327560,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/0lfCoE7BfCZaaLiKSxSYXL"
     },
     {
       "added_at": "2022-04-01 06:00:00",
@@ -1699,6 +1683,22 @@
       "duration_ms": 319169,
       "name": "Mu\u00ed\u00f1o",
       "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
+    },
+    {
+      "added_at": "2022-08-31 05:20:13",
+      "album": {
+        "name": "Ghibli",
+        "url": "https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As"
+      },
+      "artists": [
+        {
+          "name": "Savana Funk",
+          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
+        }
+      ],
+      "duration_ms": 235519,
+      "name": "Ghibli",
+      "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
     },
     {
       "added_at": "2023-03-29 18:06:57",

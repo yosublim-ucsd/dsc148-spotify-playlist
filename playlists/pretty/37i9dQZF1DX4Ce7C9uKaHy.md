@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,369 likes - 80 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,423 likes - 80 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sorry](https://open.spotify.com/track/0TQNEKRbFh6EYQYiKQie4T) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Sorry](https://open.spotify.com/album/3z38q3lhXlar2XE9vUsxok) | 1:45 |
+| 1 | [Sorry](https://open.spotify.com/track/5gZfn1HnYbWr1QyP030wEa) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [Sorry](https://open.spotify.com/album/7sGfL6pR9dZmp0gVQlgxzD) | 1:45 |
 | 2 | [Little People](https://open.spotify.com/track/1GJf1WBBmDLbGphcw0mlkN) | [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD), [Formal Chicken](https://open.spotify.com/artist/5k3Cw8TfLQt40L5dbqxJKD), [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM) | [Little People](https://open.spotify.com/album/7sYlZaPWr5Ud6QsCgaOyOi) | 2:02 |
 | 3 | [Stay the Same](https://open.spotify.com/track/6qZyY7d1C0Z1NByYxkUn3g) | [mell\-ø](https://open.spotify.com/artist/6bA2OonnJsG1tN9yClu2aC), [Ambulo](https://open.spotify.com/artist/6sPQwc6lix6K1Gv64v91Ml) | [Afloat Again](https://open.spotify.com/album/6RYdXIfGEb4ZWhrnsZDVWV) | 2:04 |
 | 4 | [a lifetime](https://open.spotify.com/track/5mcZF1kLzh4i182pDvp2RJ) | [anybodyy](https://open.spotify.com/artist/1aub8GgJikwSG4wUMWZrzl) | [a lifetime / in my head](https://open.spotify.com/album/63wBnahx47YdNGVY39pjDX) | 2:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 79 | [Take Five](https://open.spotify.com/track/11ppb9MvpzxbmChaakrKKK) | [Channel Blue](https://open.spotify.com/artist/7KJsrz0B4NjLsJMcyW3HZ8) | [Take Five](https://open.spotify.com/album/1lIfPSq2TmUxaGOiUKmUP0) | 2:18 |
 | 80 | [Moonlight](https://open.spotify.com/track/0fgWMwqn3me97RFl2CTOKP) | [A L E X](https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ) | [Growing Up, Vol\. 3](https://open.spotify.com/album/2AldFXJiuHfti8YgkUNQTG) | 3:38 |
 
-Snapshot ID: `MCwyOGVjMjg1ZGRiMjFkMWFlOTk3OTQ2Zjg3ZTU2MTg4NGQwNGEwNDA0`
+Snapshot ID: `MCw2ZjFlOTEyNGQyMTc0ZWI2ODk0MjQ0OTk1NzU2ZjQ5MTU1OTBkNDBm`

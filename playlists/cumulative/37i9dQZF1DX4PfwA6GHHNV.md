@@ -4,11 +4,11 @@
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-59 songs - 2 hr 49 min
+60 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [5 Sentidos](https://open.spotify.com/track/05mGzXNuvGKByWkzDp2ID1) | [Morgado](https://open.spotify.com/artist/18PzCN6SSqd7FcS21URnnN), [Pedro Toro](https://open.spotify.com/artist/2FHYFId438DDYQT3crCjvf), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [5 Sentidos](https://open.spotify.com/album/1s28pGCRDJ4u6D7OCStD3z) | 2:44 | 2023-10-13 |  |
+| [5 Sentidos](https://open.spotify.com/track/05mGzXNuvGKByWkzDp2ID1) | [Morgado](https://open.spotify.com/artist/18PzCN6SSqd7FcS21URnnN), [Pedro Toro](https://open.spotify.com/artist/2FHYFId438DDYQT3crCjvf), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [5 Sentidos](https://open.spotify.com/album/1s28pGCRDJ4u6D7OCStD3z) | 2:44 | 2023-10-13 | 2023-10-15 |
 | [A Volta Do Astro\-Rei](https://open.spotify.com/track/0PHdvnqGjOah4swvDO5qFm) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [A Volta Do Astro\-Rei](https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p) | 2:32 | 2023-09-15 |  |
 | [Abelha](https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Abelha](https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu) | 2:18 | 2023-09-29 |  |
 | [AluSina](https://open.spotify.com/track/1C7fLnGDAGlJZhCwSNbeKS) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [AluSina](https://open.spotify.com/album/3dNOgfJ2zEpqt2ablgMG4C) | 3:14 | 2023-09-15 |  |
@@ -63,6 +63,7 @@
 | [Suite 45](https://open.spotify.com/track/1cJWeIZR2dFwCMibjx7zWc) | [Enzo Bala](https://open.spotify.com/artist/3Cv1SqJgZTgIcM5Q7fzpq3), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY) | [Suite 45](https://open.spotify.com/album/2Ggkip4YzkulFaN224drEx) | 2:56 | 2023-09-15 |  |
 | [Só Me Usa](https://open.spotify.com/track/09Cf8HaJnxYlJgKESVv5HL) | [Mc Robs](https://open.spotify.com/artist/5jysNZ8I6vAiNTsFbrIj1K), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Só Me Usa](https://open.spotify.com/album/0xmojnhZydiC9P120Le1Ol) | 2:34 | 2023-09-15 |  |
 | [Só Minha](https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Só Minha](https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn) | 2:29 | 2023-09-15 |  |
+| [Te Vejo Mais Tarde](https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Éffe](https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW) | [Te Vejo Mais Tarde](https://open.spotify.com/album/5nqd1TC3Dyn6v5HE5FLwbv) | 1:54 | 2023-10-13 |  |
 | [Tipo a Barbie](https://open.spotify.com/track/2LZpNKfRN6mlC22NlqYJpw) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Chai](https://open.spotify.com/artist/0qmpXpjY0ofSr1J7H2G6a8), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Tipo a Barbie](https://open.spotify.com/album/3q5SsHGYSBjOSlIaw5vGWX) | 3:15 | 2023-09-15 |  |
 | [Xona](https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Xona](https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p) | 3:25 | 2023-09-15 |  |
 | [Yo Quiero Te Namorar](https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf) | [NegrãoDoCéu](https://open.spotify.com/artist/7IRAMOb7oQMFe3vYolwQcx), [DJFILLSP](https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7) | [Yo Quiero Te Namorar](https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq) | 3:18 | 2023-09-15 |  |

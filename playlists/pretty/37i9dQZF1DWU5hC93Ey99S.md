@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,178 likes - 254 songs - 13 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,281 likes - 254 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:02 |
+| 1 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 |
 | 2 | [On My Mind](https://open.spotify.com/track/3Z8pXlydvG00cjalDZgiUq) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [JIM](https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr) | [On My Mind](https://open.spotify.com/album/3Tc4RzAWum7OKbNkTGgkAX) | 2:20 |
 | 3 | [Human](https://open.spotify.com/track/6Kl0BmROA5CAwtQOEFd99y) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Human](https://open.spotify.com/album/2Lp9nUToblWF8nbzeMVzjA) | 2:13 |
 | 4 | [Make It Better \[ZAC & BAKKA \(BR\) Remix\]](https://open.spotify.com/track/2SbAoNQVqVkIuFTFV94Bdm) | [Dashdot](https://open.spotify.com/artist/0dDnvI6TCQslhEBYCA4DPU), [Maxximal](https://open.spotify.com/artist/5qPkBljA5md7aECwFxSabY), [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP), [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Make It Better \(Remixes Vol.1\)](https://open.spotify.com/album/0Vgs0dllM7oSR7U1oZPgs3) | 4:56 |
@@ -263,4 +263,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 253 | [<3](https://open.spotify.com/track/7lcsNdPK8zKK7gOqfd0eAf) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [<3](https://open.spotify.com/album/2sSD6gODuaYlseme5w2dWf) | 2:26 |
 | 254 | [Sun Showers](https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:34 |
 
-Snapshot ID: `MCw2YWVmYmRmMzU5ZmFkM2JlNDJlZGEyZWUzMTZiNjI3ZWMyZjFhZGU4`
+Snapshot ID: `MCwzNTk0ZDY4YWJkY2MyMzFmNTgyMTU3ZDljOGNkZTk2NWMzNzU2YmUy`

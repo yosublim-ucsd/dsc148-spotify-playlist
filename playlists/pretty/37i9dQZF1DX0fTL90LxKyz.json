@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home!",
-  "num_followers": 54947,
+  "num_followers": 54971,
   "original_name": "Drill Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzNjZWUwNDVkMDBiZmJiMjcxN2Y3OWQxNWRkOWY2ODY0ODE3OTkw",
+  "snapshot_id": "MCw5NzRjMTk0MDNmMzdiYWI3Y2M2YThhMDVmN2UxODE0MjJhZWVlNDU4",
   "tracks": [
     {
       "added_at": "2022-10-23 18:38:51",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Double Tap Diaries",
-        "url": "https://open.spotify.com/album/4On8nxuf68aMTWz8ohnbWQ"
-      },
-      "artists": [
-        {
-          "name": "Digga D",
-          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "No Diet",
-      "url": "https://open.spotify.com/track/3HUb7feX3gdnzZVEHy5yFj"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
         "name": "Fizzler x Fumez The Engineer - Plugged In Freestyle",
         "url": "https://open.spotify.com/album/4shsbqOhs4QcFDNj1EM8aW"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 159724,
       "name": "Fizzler x Fumez The Engineer - Plugged In Freestyle",
       "url": "https://open.spotify.com/track/0Nc02dTQgwGy1cRVHE2OnH"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "Double Tap Diaries",
+        "url": "https://open.spotify.com/album/4On8nxuf68aMTWz8ohnbWQ"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "No Diet",
+      "url": "https://open.spotify.com/track/3HUb7feX3gdnzZVEHy5yFj"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -603,26 +603,6 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Bringing It Back",
-        "url": "https://open.spotify.com/album/51NcaYxQV6atdnmrCtQoc7"
-      },
-      "artists": [
-        {
-          "name": "Digga D",
-          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
-        },
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
-        }
-      ],
-      "duration_ms": 190937,
-      "name": "Bringing It Back",
-      "url": "https://open.spotify.com/track/3inbZcvbbcwJFgEzZgANwE"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
         "name": "Block 6 x Fumez The Engineer - Plugged In Freestyle",
         "url": "https://open.spotify.com/album/5nyybgL9emIvbudSnVbyAm"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 205714,
       "name": "Block 6 x Fumez The Engineer - Plugged In Freestyle",
       "url": "https://open.spotify.com/track/7esgTfwtLhISeKP7GgTsSP"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "Bringing It Back",
+        "url": "https://open.spotify.com/album/51NcaYxQV6atdnmrCtQoc7"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 190937,
+      "name": "Bringing It Back",
+      "url": "https://open.spotify.com/track/3inbZcvbbcwJFgEzZgANwE"
     },
     {
       "added_at": "2022-10-23 18:38:51",

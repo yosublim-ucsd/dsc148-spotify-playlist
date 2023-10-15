@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3670355,
+  "num_followers": 3670262,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWE3MjA0OWYzMjFiMWI3NTI1YTM5MjUwMDViNzQzYWZlY2JlMTA3",
+  "snapshot_id": "MCxhZDBiZDQyYWZiYzBiMDIxZTY0ZWQ2NjQxYzkzNDFjMjM1MmY3NmQz",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "All Night Long (Y.V.E. 48 Remix)",
-        "url": "https://open.spotify.com/album/7BN9NaiHbxoUuLpEFuI7LB"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        },
-        {
-          "name": "Y.V.E. 48",
-          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
-        }
-      ],
-      "duration_ms": 157812,
-      "name": "All Night Long - Y.V.E. 48 Remix",
-      "url": "https://open.spotify.com/track/1QOVSkrcX34pDPPxa1Xv5y"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "When The Light Breaks",
         "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 240009,
       "name": "Matter of Time",
       "url": "https://open.spotify.com/track/5z49EsoURUXq88RSLBmYPG"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "All Night Long (Y.V.E. 48 Remix)",
+        "url": "https://open.spotify.com/album/7BN9NaiHbxoUuLpEFuI7LB"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        },
+        {
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+        }
+      ],
+      "duration_ms": 157812,
+      "name": "All Night Long - Y.V.E. 48 Remix",
+      "url": "https://open.spotify.com/track/1QOVSkrcX34pDPPxa1Xv5y"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -683,26 +683,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "In Another Lifetime",
-        "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Hero Baldwin",
-          "url": "https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6"
-        }
-      ],
-      "duration_ms": 284563,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/0iFKjKFTY1kD7SSVmNZDin"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 152298,
       "name": "Rain",
       "url": "https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "In Another Lifetime",
+        "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Hero Baldwin",
+          "url": "https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6"
+        }
+      ],
+      "duration_ms": 284563,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Summer Love (Jan Blomqvist Remix)",
-        "url": "https://open.spotify.com/album/68scr1Ev9AoX1Czp74KJ6i"
-      },
-      "artists": [
-        {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        },
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        }
-      ],
-      "duration_ms": 349400,
-      "name": "Summer Love - Jan Blomqvist Remix",
-      "url": "https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "High On You",
         "url": "https://open.spotify.com/album/0bIGlLKPLcgmEt2YBsL0nt"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 186472,
       "name": "High On You",
       "url": "https://open.spotify.com/track/3pT7FxFWaHYbxUIAmZbY5V"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Summer Love (Jan Blomqvist Remix)",
+        "url": "https://open.spotify.com/album/68scr1Ev9AoX1Czp74KJ6i"
+      },
+      "artists": [
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        },
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        }
+      ],
+      "duration_ms": 349400,
+      "name": "Summer Love - Jan Blomqvist Remix",
+      "url": "https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a"
+        "name": "Just",
+        "url": "https://open.spotify.com/album/0vYOAJM94XCdETxlSwFi7Y"
       },
       "artists": [
         {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
         }
       ],
-      "duration_ms": 194730,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB"
+      "duration_ms": 372000,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/2u9o4jlbtzqdy2bsBX9FYK"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a"
+      },
+      "artists": [
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Hiding",
         "url": "https://open.spotify.com/album/6s2VNewtJumECtFLbf3iC3"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 220625,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Just",
-        "url": "https://open.spotify.com/album/0vYOAJM94XCdETxlSwFi7Y"
-      },
-      "artists": [
-        {
-          "name": "Amtrac",
-          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/2u9o4jlbtzqdy2bsBX9FYK"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "I Can Make It",
-        "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
+        "name": "Starchaser",
+        "url": "https://open.spotify.com/album/5hWKdvx2iIO3qOeQiWiehL"
       },
       "artists": [
         {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         }
       ],
-      "duration_ms": 249012,
-      "name": "I Can Make It",
-      "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
+      "duration_ms": 254274,
+      "name": "Starchaser",
+      "url": "https://open.spotify.com/track/6irg87ZXAFnNfSSyAN5RQM"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Starchaser",
-        "url": "https://open.spotify.com/album/5hWKdvx2iIO3qOeQiWiehL"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 254274,
-      "name": "Starchaser",
-      "url": "https://open.spotify.com/track/6irg87ZXAFnNfSSyAN5RQM"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Unfurl",
         "url": "https://open.spotify.com/album/3f91d3qVwL2zX9k4PKoXK2"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 298213,
       "name": "Bound",
       "url": "https://open.spotify.com/track/1iOPoPTFROlTeYpJik7VMs"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "I Can Make It",
+        "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 249012,
+      "name": "I Can Make It",
+      "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+        "name": "Manzanita",
+        "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
       },
       "artists": [
         {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
         }
       ],
-      "duration_ms": 269249,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
+      "duration_ms": 164433,
+      "name": "Manzanita",
+      "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Manzanita",
-        "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        }
-      ],
-      "duration_ms": 164433,
-      "name": "Manzanita",
-      "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Back to You (Amtrac Remix)",
         "url": "https://open.spotify.com/album/7Eczcaoa9Snixo72qACVB9"
       },
@@ -1615,6 +1599,38 @@
       "duration_ms": 277523,
       "name": "Back to You (Amtrac Remix)",
       "url": "https://open.spotify.com/track/2gzWtnslb715DPDTlJ5NSi"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 269249,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Just Like That",
+        "url": "https://open.spotify.com/album/6zrrB3fJ8DJsPfRUalHHlt"
+      },
+      "artists": [
+        {
+          "name": "NORRA",
+          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
+        }
+      ],
+      "duration_ms": 136271,
+      "name": "Just Like That",
+      "url": "https://open.spotify.com/track/6WKBGB00x5X08PwFNBJR6O"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1643,42 +1659,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Just Like That",
-        "url": "https://open.spotify.com/album/6zrrB3fJ8DJsPfRUalHHlt"
-      },
-      "artists": [
-        {
-          "name": "NORRA",
-          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
-        }
-      ],
-      "duration_ms": 136271,
-      "name": "Just Like That",
-      "url": "https://open.spotify.com/track/6WKBGB00x5X08PwFNBJR6O"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Carry On (EarthLife Remix)",
-        "url": "https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4"
-      },
-      "artists": [
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "EarthLife",
-          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
-        }
-      ],
-      "duration_ms": 218789,
-      "name": "Carry On - EarthLife Remix",
-      "url": "https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/1BBT9e9UssKGz49zmGAFRH"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 168398,
       "name": "With You",
       "url": "https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Carry On (EarthLife Remix)",
+        "url": "https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "EarthLife",
+          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
+        }
+      ],
+      "duration_ms": 218789,
+      "name": "Carry On - EarthLife Remix",
+      "url": "https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF"
     },
     {
       "added_at": "2023-10-13 04:00:00",

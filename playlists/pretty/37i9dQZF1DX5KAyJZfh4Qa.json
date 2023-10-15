@@ -1,12 +1,12 @@
 {
   "description": "it's just one of those days w/ <a href=\"https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa?si=9cd8ab93c60b4919\"> Sweet Pill</a>.",
-  "num_followers": 35414,
+  "num_followers": 35485,
   "original_name": "emo right now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzg0NWU2ODQ0ODJkNDg2MGY2OGY0OTU5MTBlMmQ4NWE5ZTgwYjdi",
+  "snapshot_id": "MCwxOTFjNjU0NWFjNjMxM2I4MjE2OTNhYWVmMzc4NGRkNjZlNGIxNzRh",
   "tracks": [
     {
       "added_at": "2023-09-29 19:33:09",
@@ -23,6 +23,30 @@
       "duration_ms": 229555,
       "name": "Starchild",
       "url": "https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH"
+    },
+    {
+      "added_at": "2023-10-14 14:31:57",
+      "album": {
+        "name": "Lessons That We Swear to Keep",
+        "url": "https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        },
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        },
+        {
+          "name": "Tades Sanville",
+          "url": "https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0"
+        }
+      ],
+      "duration_ms": 171160,
+      "name": "A Part Is Better Than Zero",
+      "url": "https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH"
     },
     {
       "added_at": "2023-09-29 19:33:09",
@@ -139,6 +163,22 @@
     {
       "added_at": "2023-09-29 19:33:09",
       "album": {
+        "name": "i heard they found you face down inside your living room",
+        "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "duration_ms": 191548,
+      "name": "i heard they found you face down inside your living room",
+      "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
+    },
+    {
+      "added_at": "2023-09-29 19:33:09",
+      "album": {
         "name": "Anthem",
         "url": "https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q"
       },
@@ -151,22 +191,6 @@
       "duration_ms": 102258,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI"
-    },
-    {
-      "added_at": "2023-09-29 19:33:09",
-      "album": {
-        "name": "Nowhere, Ohio",
-        "url": "https://open.spotify.com/album/4FCAlxabfOFH49RbFNrGWE"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 184120,
-      "name": "Nowhere, Ohio",
-      "url": "https://open.spotify.com/track/1jxrEckdckgBi6Ooymx5j1"
     },
     {
       "added_at": "2023-09-29 19:33:09",
@@ -203,22 +227,6 @@
     {
       "added_at": "2023-09-29 19:33:09",
       "album": {
-        "name": "Those Days Are Gone",
-        "url": "https://open.spotify.com/album/0yhwDk0EqhcbTE5k0cqs1K"
-      },
-      "artists": [
-        {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        }
-      ],
-      "duration_ms": 135625,
-      "name": "Two Beers In",
-      "url": "https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx"
-    },
-    {
-      "added_at": "2023-09-29 19:33:09",
-      "album": {
         "name": "Too Quick to Forgive",
         "url": "https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY"
       },
@@ -231,22 +239,6 @@
       "duration_ms": 261345,
       "name": "Savior Mode",
       "url": "https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK"
-    },
-    {
-      "added_at": "2023-09-29 19:33:09",
-      "album": {
-        "name": "You're Gonna Miss It All",
-        "url": "https://open.spotify.com/album/4QElAwQufg6wCeyvpafqwA"
-      },
-      "artists": [
-        {
-          "name": "Modern Baseball",
-          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
-        }
-      ],
-      "duration_ms": 163760,
-      "name": "Your Graduation",
-      "url": "https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD"
     },
     {
       "added_at": "2023-09-29 19:33:09",
@@ -295,22 +287,6 @@
       "duration_ms": 214869,
       "name": "Lifers",
       "url": "https://open.spotify.com/track/3Ooa1FETAj6ShTc2bHXd1M"
-    },
-    {
-      "added_at": "2023-09-29 19:33:09",
-      "album": {
-        "name": "Old Clothes",
-        "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 159151,
-      "name": "Swear",
-      "url": "https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J"
     },
     {
       "added_at": "2023-09-29 19:33:09",
@@ -377,6 +353,22 @@
       "url": "https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb"
     },
     {
+      "added_at": "2023-10-14 14:31:57",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/55CW0zjiBKPWGDlosPzrL9"
+      },
+      "artists": [
+        {
+          "name": "Have Mercy",
+          "url": "https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM"
+        }
+      ],
+      "duration_ms": 208503,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2FSS75moVpVpLi7uqhix6H"
+    },
+    {
       "added_at": "2023-09-29 19:33:09",
       "album": {
         "name": "Don't Lick The Swingset",
@@ -423,6 +415,38 @@
       "duration_ms": 188596,
       "name": "Speaking in Tongues",
       "url": "https://open.spotify.com/track/16sWPx7xLq8iyVTHATLULA"
+    },
+    {
+      "added_at": "2023-10-14 14:31:57",
+      "album": {
+        "name": "The Highway Signs Will Lead to Nothing",
+        "url": "https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C"
+      },
+      "artists": [
+        {
+          "name": "Predisposed.",
+          "url": "https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X"
+        }
+      ],
+      "duration_ms": 279150,
+      "name": "The Highway Signs Will Lead to Nothing",
+      "url": "https://open.spotify.com/track/6SpavaUktNu788dew49p9U"
+    },
+    {
+      "added_at": "2023-10-14 14:31:57",
+      "album": {
+        "name": "the CIA",
+        "url": "https://open.spotify.com/album/1zGMd5eXQY9rPrXL0tVeEe"
+      },
+      "artists": [
+        {
+          "name": "glass beach",
+          "url": "https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH"
+        }
+      ],
+      "duration_ms": 282203,
+      "name": "the CIA",
+      "url": "https://open.spotify.com/track/71VFHN459tdGGWOLpMdYMi"
     },
     {
       "added_at": "2023-09-29 19:33:09",
@@ -537,6 +561,30 @@
       "url": "https://open.spotify.com/track/337bOFFRgT6HyF2V4fLCYf"
     },
     {
+      "added_at": "2023-10-14 14:31:57",
+      "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/3iih8XrFxJMaDEjW6DEvON"
+      },
+      "artists": [
+        {
+          "name": "Common Sage",
+          "url": "https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn"
+        },
+        {
+          "name": "Further Seems Forever",
+          "url": "https://open.spotify.com/artist/1Enp9WKfk0aI9CFi2YGBq7"
+        },
+        {
+          "name": "Jason Gleason",
+          "url": "https://open.spotify.com/artist/1CW0lVVHTQXygXWLJJgYU9"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Hiraeth",
+      "url": "https://open.spotify.com/track/7J1rx8Kkbuagoi3EYuyEl1"
+    },
+    {
       "added_at": "2023-09-29 19:33:09",
       "album": {
         "name": "is this what i look like?",
@@ -583,6 +631,22 @@
       "duration_ms": 208078,
       "name": "IKEA Strikes Back",
       "url": "https://open.spotify.com/track/6jKcGYVgVrXrYoQFHShbwa"
+    },
+    {
+      "added_at": "2023-10-14 14:31:57",
+      "album": {
+        "name": "clearview",
+        "url": "https://open.spotify.com/album/3L2YzcUsgL2ih8fUld03tz"
+      },
+      "artists": [
+        {
+          "name": "awakebutstillinbed",
+          "url": "https://open.spotify.com/artist/0NvYpRJfbFyOI4QdsLJ1Jw"
+        }
+      ],
+      "duration_ms": 238373,
+      "name": "clearview",
+      "url": "https://open.spotify.com/track/1cbG0tcZYcUsyBXfTGRdyf"
     },
     {
       "added_at": "2023-09-29 19:33:09",
@@ -695,22 +759,6 @@
       "duration_ms": 218738,
       "name": "I Can Feel Every Cut",
       "url": "https://open.spotify.com/track/7o7asYZdFBfprsWVdw9LOz"
-    },
-    {
-      "added_at": "2023-09-29 19:33:09",
-      "album": {
-        "name": "i heard they found you face down inside your living room",
-        "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 191548,
-      "name": "i heard they found you face down inside your living room",
-      "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
     },
     {
       "added_at": "2023-09-29 19:33:09",
@@ -1003,22 +1051,6 @@
     {
       "added_at": "2023-09-29 19:33:09",
       "album": {
-        "name": "Pursuit",
-        "url": "https://open.spotify.com/album/0SpkDAB9r9amnfcWaY9RSd"
-      },
-      "artists": [
-        {
-          "name": "Camp Trash",
-          "url": "https://open.spotify.com/artist/217Q1QeePZbm3dMpwPgXK9"
-        }
-      ],
-      "duration_ms": 168485,
-      "name": "Pursuit",
-      "url": "https://open.spotify.com/track/0fvw7sVHFeK4KJ2sVtnhkM"
-    },
-    {
-      "added_at": "2023-09-29 19:33:09",
-      "album": {
         "name": "You're On",
         "url": "https://open.spotify.com/album/3bY4mpoCmJbZ8y9qW4Tywg"
       },
@@ -1191,30 +1223,6 @@
       "duration_ms": 220330,
       "name": "Pomegranate",
       "url": "https://open.spotify.com/track/2WGNtRebR51HiBhW2fNIni"
-    },
-    {
-      "added_at": "2023-09-29 19:33:09",
-      "album": {
-        "name": "Then the Lightness Leaves and I Become Heavy Again",
-        "url": "https://open.spotify.com/album/7s5pO2fLBtRuSqY1SSm6lK"
-      },
-      "artists": [
-        {
-          "name": "Mt. Oriander",
-          "url": "https://open.spotify.com/artist/2Kq6yQuA3lw7tMfUvPQYXo"
-        },
-        {
-          "name": "Joie De Vivre",
-          "url": "https://open.spotify.com/artist/1sUOIv1YrZ2WRmTg0GRi0V"
-        },
-        {
-          "name": "Warren Franklin",
-          "url": "https://open.spotify.com/artist/5ub2IP1YottOMHKb6ECb8b"
-        }
-      ],
-      "duration_ms": 204051,
-      "name": "If This is Sadness, I Don't Like It One Bit",
-      "url": "https://open.spotify.com/track/3ttOAHJLXSoWRpN5oYLlRd"
     },
     {
       "added_at": "2023-09-29 19:33:09",

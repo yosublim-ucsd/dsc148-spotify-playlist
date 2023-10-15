@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-180 songs - 10 hr 23 min
+181 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Bankman](https://open.spotify.com/track/2Pnmd8q9aMbByETxKPHQHq) | [Andrea and Mud](https://open.spotify.com/artist/2IW4MLR7TBzqVSl8LBrmws) | [Bankman](https://open.spotify.com/album/5EsF28LYzzvj7babiQ9ewP) | 4:15 | 2023-08-18 | 2023-09-07 |
 | [Bayou Blues \- Demo Version](https://open.spotify.com/track/021PQTMq7rwoMDci9piPVm) | [Lily Belle](https://open.spotify.com/artist/52JMyJYhF7HqCb0Ric9Zqd) | [Bayou Blues \(Demo Version\)](https://open.spotify.com/album/4HpxmLgbT4eK3zMA4wVsQM) | 3:37 | 2023-02-03 |  |
 | [Big Chief \- Remastered](https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 3:14 | 2021-12-20 |  |
+| [Black Magic](https://open.spotify.com/track/4GuQf92xMVo9FYRYnj37OL) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Black Magic](https://open.spotify.com/album/2AfgpZdbs8CI1MvjFaus2A) | 4:25 | 2023-10-13 |  |
 | [Black Sky Blues](https://open.spotify.com/track/7LMnIq7uTvwq6jW5dB49kp) | [Jim Byrne](https://open.spotify.com/artist/03KcaOeaZcf494ziGkK4QS) | [Every Day Is Sunshine](https://open.spotify.com/album/0eH3QJ17XrwxARxoJ5ELbo) | 3:15 | 2022-06-14 |  |
 | [Bo Diddley](https://open.spotify.com/track/2R7uUQ0Dehu80gsOcydQC9) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:29 | 2021-12-20 |  |
 | [Boom Boom](https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 2:32 | 2021-12-20 |  |
@@ -159,7 +160,7 @@
 | [Stop Messin' Round](https://open.spotify.com/track/1sHmkDWe8U8SDqMZKfgTLO) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 3:37 | 2022-05-27 |  |
 | [Stormy Monday Blues \- Remastered 2022](https://open.spotify.com/track/0E5L3ZvZD3cGCesbYuAtnY) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 2:51 | 2023-08-18 |  |
 | [Sweet Like Sugar](https://open.spotify.com/track/44LsPNyywQt1ztLNiSXC5H) | [Jesse Ray and the Carolina Catfish](https://open.spotify.com/artist/4Qafc3GarByfVBFGCi81zy) | [Sweet Like Sugar](https://open.spotify.com/album/0IP5xdy2rkJ7wZE5mNw51y) | 2:53 | 2023-08-18 | 2023-08-28 |
-| [Syracuse Boots](https://open.spotify.com/track/60wLkHNSDcXE3iCtNxmWmr) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [T Bird and the Breaks](https://open.spotify.com/artist/7BfKzWvOnw7aAUU4NLLRD0) | [Greybird](https://open.spotify.com/album/25NxKFjwbaZclwi4WizmrD) | 3:46 | 2023-08-25 |  |
+| [Syracuse Boots](https://open.spotify.com/track/60wLkHNSDcXE3iCtNxmWmr) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [T Bird and the Breaks](https://open.spotify.com/artist/7BfKzWvOnw7aAUU4NLLRD0) | [Greybird](https://open.spotify.com/album/25NxKFjwbaZclwi4WizmrD) | 3:46 | 2023-08-25 | 2023-10-15 |
 | [Take It Back](https://open.spotify.com/track/0EBCSoTMmj0Gf0aOkZ6Hx1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Take It Back](https://open.spotify.com/album/0gM5G6j0lWaxk1GOv0nfbL) | 5:35 | 2021-12-20 |  |
 | [Texas Louisiana \(feat\. Buddy Guy\)](https://open.spotify.com/track/3Wed8ynhMSTPj9ErweJIVl) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Real Gone](https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe) | 2:55 | 2023-08-18 |  |
 | [That's What Love Will Make You Do](https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [That's What Love Will Make You Do](https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp) | 4:05 | 2023-01-13 |  |

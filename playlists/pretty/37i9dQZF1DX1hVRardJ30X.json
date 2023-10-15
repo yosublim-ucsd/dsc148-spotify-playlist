@@ -1,12 +1,12 @@
 {
   "description": "All-new releases by Latin artists! Cover: Ivan Cornejo ",
-  "num_followers": 581159,
+  "num_followers": 581124,
   "original_name": "New Music Friday Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODBmOGVmMWEyZTFiZDYzNWIxYjcyM2EwYTAwYmExYjk5NWY1YjBh",
+  "snapshot_id": "MCxjMDU4ZGE4NzZhNzFhZWRkYjA2NjFmM2NlNDczZTUwOWI5OGZiZGRm",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -635,8 +635,8 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Los Chicos Tristes (El Michels Affair Remix)",
-        "url": "https://open.spotify.com/album/3S7HTJw7AgnqpP5b9TeLkW"
+        "name": "Los Chicos Tristes [Feat. Jensine Benitez] (El Michels Affair Remix)",
+        "url": "https://open.spotify.com/album/0UQ4Se7ofqNnYlemid3D4b"
       },
       "artists": [
         {
@@ -653,8 +653,8 @@
         }
       ],
       "duration_ms": 161255,
-      "name": "Los Chicos Tristes - El Michels Affair Remix",
-      "url": "https://open.spotify.com/track/0ZLuy99MEaGRkpfzlyfQ8i"
+      "name": "Los Chicos Tristes [Feat. Jensine Benitez] - El Michels Affair Remix",
+      "url": "https://open.spotify.com/track/0rn2hYyqGKK7wwpwsrXcc8"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -794,6 +794,10 @@
         {
           "name": "Midnvght",
           "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        },
+        {
+          "name": "daymebeats",
+          "url": "https://open.spotify.com/artist/6Xv0YI3kclBBx9bFsticPd"
         }
       ],
       "duration_ms": 131792,

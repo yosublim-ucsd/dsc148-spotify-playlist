@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 328705,
+  "num_followers": 328663,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTViYTJmNDMxOTg0M2NkZGMzN2M4OWVkNmJkOTZiZjY3MTI2ZTVm",
+  "snapshot_id": "MCwyMTYyOWU4YWVmMzg2NzdkOGNjYWI4YjJiZDRiYjYyMjNhNjMxNjY4",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sandra de S\u00e1 - 1982",
-        "url": "https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol"
-      },
-      "artists": [
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Olhos Coloridos",
-      "url": "https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Diaba",
         "url": "https://open.spotify.com/album/01o2odeolV6Ke76Q2QTVyS"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 165890,
       "name": "Diaba",
       "url": "https://open.spotify.com/track/4Zhxtm6x56wEiRtSMAl28n"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Sandra de S\u00e1 - 1982",
+        "url": "https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol"
+      },
+      "artists": [
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Olhos Coloridos",
+      "url": "https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Vem",
-        "url": "https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e"
-      },
-      "artists": [
-        {
-          "name": "Mallu Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
-        }
-      ],
-      "duration_ms": 235128,
-      "name": "Voc\u00ea N\u00e3o Presta",
-      "url": "https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
         "url": "https://open.spotify.com/album/4Lh4g0DvwP1yT2d0ThGj9r"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 137608,
       "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
       "url": "https://open.spotify.com/track/1vXMChJ2MGtI0vq9t6kjDB"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Vem",
+        "url": "https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e"
+      },
+      "artists": [
+        {
+          "name": "Mallu Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
+        }
+      ],
+      "duration_ms": 235128,
+      "name": "Voc\u00ea N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Jaguatirica Print",
+        "url": "https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa e os Alquimistas",
+          "url": "https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC"
+        },
+        {
+          "name": "Lu\u00ea",
+          "url": "https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj"
+        }
+      ],
+      "duration_ms": 178304,
+      "name": "Garota Ligeira",
+      "url": "https://open.spotify.com/track/1ceOQ6Xoy2Pt08CF88G4ef"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Ora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1w6qsdlglZBK5wYxTH6Ndb"
       },
@@ -1471,22 +1491,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Jaguatirica Print",
-        "url": "https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl"
+        "name": "Nara (1964)",
+        "url": "https://open.spotify.com/album/0DrdA7FNioWPk1wRaRuHn7"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa e os Alquimistas",
-          "url": "https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC"
-        },
-        {
-          "name": "Lu\u00ea",
-          "url": "https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj"
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
         }
       ],
-      "duration_ms": 178304,
-      "name": "Garota Ligeira",
-      "url": "https://open.spotify.com/track/1ceOQ6Xoy2Pt08CF88G4ef"
+      "duration_ms": 129666,
+      "name": "Diz Que Fui Por Ai",
+      "url": "https://open.spotify.com/track/28BSCtSAR6HQmdrt823rg4"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Nara (1964)",
-        "url": "https://open.spotify.com/album/0DrdA7FNioWPk1wRaRuHn7"
+        "name": "\u00c9 o Que Temos",
+        "url": "https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ"
       },
       "artists": [
         {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
+          "name": "B\u00e1rbara Eug\u00eania",
+          "url": "https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l"
         }
       ],
-      "duration_ms": 129666,
-      "name": "Diz Que Fui Por Ai",
-      "url": "https://open.spotify.com/track/28BSCtSAR6HQmdrt823rg4"
+      "duration_ms": 248946,
+      "name": "Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4l9yenHEy1NXpRl4xEYnhu"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1535,22 +1551,6 @@
       "duration_ms": 167341,
       "name": "Baldin de Gelo",
       "url": "https://open.spotify.com/track/2sv7wfMG7h8EJl3j2KxTGZ"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "\u00c9 o Que Temos",
-        "url": "https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Eug\u00eania",
-          "url": "https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4l9yenHEy1NXpRl4xEYnhu"
     },
     {
       "added_at": "2022-10-07 03:01:33",

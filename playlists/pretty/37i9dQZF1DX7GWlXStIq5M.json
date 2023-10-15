@@ -1,18 +1,18 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes da cena pop dividindo o mesmo palco!  / Foto: Cleo",
-  "num_followers": 365344,
+  "num_followers": 365264,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODg0OWJjMTczNTU3NzIzNDU5YzZmOWRmMTEyODRjN2NlMGIxMWMz",
+  "snapshot_id": "MCw5YzAyNzU5NWQ3OTA2NjBmZTI0NjlhYmRkZDI1OWJhNTU5OWI4N2M2",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
         "name": "DARK POP",
-        "url": "https://open.spotify.com/album/444h5b7o8GPlRWvO7gMjTV"
+        "url": "https://open.spotify.com/album/3gAv7X3dUDv2k1wqDf68qQ"
       },
       "artists": [
         {
@@ -26,7 +26,7 @@
       ],
       "duration_ms": 150965,
       "name": "Seu Fim",
-      "url": "https://open.spotify.com/track/61GqCDHvztHQKJzPdmHIml"
+      "url": "https://open.spotify.com/track/4UVSNgaHHZzV756hOpIcXP"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Lua Cheia",
+        "url": "https://open.spotify.com/album/6aRPIPyZQKpSQi3W2p7o4Y"
+      },
+      "artists": [
+        {
+          "name": "Wanessa Camargo",
+          "url": "https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P"
+        }
+      ],
+      "duration_ms": 181436,
+      "name": "Lua Cheia",
+      "url": "https://open.spotify.com/track/0MpBrNgNg9ihjLNHW7O6pU"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Tenemos que hablar (Real Magic)",
         "url": "https://open.spotify.com/album/3vZUh3inLziRn9Zpa1cMAC"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 195066,
       "name": "Tenemos que hablar - Real Magic",
       "url": "https://open.spotify.com/track/4wjURqSdOtZKt4qlQeioFJ"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Lua Cheia",
-        "url": "https://open.spotify.com/album/6aRPIPyZQKpSQi3W2p7o4Y"
-      },
-      "artists": [
-        {
-          "name": "Wanessa Camargo",
-          "url": "https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P"
-        }
-      ],
-      "duration_ms": 181436,
-      "name": "Lua Cheia",
-      "url": "https://open.spotify.com/track/0MpBrNgNg9ihjLNHW7O6pU"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -903,6 +903,26 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "700 Por Minuto",
+        "url": "https://open.spotify.com/album/1AiC9mfD2CthG6UFSHsh0O"
+      },
+      "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        },
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        }
+      ],
+      "duration_ms": 105553,
+      "name": "700 Por Minuto",
+      "url": "https://open.spotify.com/track/1wqpmI5TSI18ywTOCYe7PE"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Controla O Tempo",
         "url": "https://open.spotify.com/album/516Yh6vOtJL96EGeQXaq5r"
       },
@@ -923,22 +943,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "700 Por Minuto",
-        "url": "https://open.spotify.com/album/1AiC9mfD2CthG6UFSHsh0O"
+        "name": "Vil\u00e3",
+        "url": "https://open.spotify.com/album/2W6EWkkAkkmMxQyeePtMTE"
       },
       "artists": [
         {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
-        },
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+          "name": "Isa Buzzi",
+          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
         }
       ],
-      "duration_ms": 105553,
-      "name": "700 Por Minuto",
-      "url": "https://open.spotify.com/track/1wqpmI5TSI18ywTOCYe7PE"
+      "duration_ms": 148295,
+      "name": "Vil\u00e3",
+      "url": "https://open.spotify.com/track/6gHv2hEqyAgBvgnBr2DWs8"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -975,22 +991,6 @@
       "duration_ms": 164664,
       "name": "Orishas",
       "url": "https://open.spotify.com/track/5eZMv9ZkQ8ySMccOWAbHBq"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Vil\u00e3",
-        "url": "https://open.spotify.com/album/2W6EWkkAkkmMxQyeePtMTE"
-      },
-      "artists": [
-        {
-          "name": "Isa Buzzi",
-          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
-        }
-      ],
-      "duration_ms": 148295,
-      "name": "Vil\u00e3",
-      "url": "https://open.spotify.com/track/6gHv2hEqyAgBvgnBr2DWs8"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Prioridade",
+        "url": "https://open.spotify.com/album/2RhFlihoWqgcvGEO3ZSb4v"
+      },
+      "artists": [
+        {
+          "name": "GIOLI",
+          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
+        }
+      ],
+      "duration_ms": 150044,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/0yFsqGPEdoMM9UjdzNpnJY"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Brigas Demais - Live",
         "url": "https://open.spotify.com/album/0vCLrwZTtam4AFmvbNN0fC"
       },
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Prioridade",
-        "url": "https://open.spotify.com/album/2RhFlihoWqgcvGEO3ZSb4v"
+        "name": "Quero te ver gozar",
+        "url": "https://open.spotify.com/album/58y3yjaCfF8Z3lCoAxqcog"
       },
       "artists": [
         {
-          "name": "GIOLI",
-          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
         }
       ],
-      "duration_ms": 150044,
-      "name": "Prioridade",
-      "url": "https://open.spotify.com/track/0yFsqGPEdoMM9UjdzNpnJY"
+      "duration_ms": 181951,
+      "name": "Quero te ver gozar",
+      "url": "https://open.spotify.com/track/25AI0OE0Dl2le4omEsIwyW"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1131,22 +1147,6 @@
       "duration_ms": 136806,
       "name": "Bomba",
       "url": "https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Quero te ver gozar",
-        "url": "https://open.spotify.com/album/58y3yjaCfF8Z3lCoAxqcog"
-      },
-      "artists": [
-        {
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
-        }
-      ],
-      "duration_ms": 181951,
-      "name": "Quero te ver gozar",
-      "url": "https://open.spotify.com/track/25AI0OE0Dl2le4omEsIwyW"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1283,6 +1283,30 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Caliente",
+        "url": "https://open.spotify.com/album/7fzqKhbzHBuOnbo2yeTWr2"
+      },
+      "artists": [
+        {
+          "name": "Lily Nobre",
+          "url": "https://open.spotify.com/artist/38SMTPnAWS5j9wALRSV7mD"
+        },
+        {
+          "name": "MC RUAN RZAN",
+          "url": "https://open.spotify.com/artist/6H8R7o8nKuXWxG19X2XoVE"
+        },
+        {
+          "name": "Skorps",
+          "url": "https://open.spotify.com/artist/4WolQpakht16d6Cs9Uh0xy"
+        }
+      ],
+      "duration_ms": 133636,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/2TrAxb7dg65ZFHoMzrGhcN"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Cachoeira",
         "url": "https://open.spotify.com/album/4mAithietzaFqqKXXniP44"
       },
@@ -1355,26 +1379,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Caliente",
-        "url": "https://open.spotify.com/album/7fzqKhbzHBuOnbo2yeTWr2"
+        "name": "S\u00f3 Minha",
+        "url": "https://open.spotify.com/album/6Ra6EkKXpxMzlj9LDzAb4H"
       },
       "artists": [
         {
-          "name": "Lily Nobre",
-          "url": "https://open.spotify.com/artist/38SMTPnAWS5j9wALRSV7mD"
-        },
-        {
-          "name": "MC RUAN RZAN",
-          "url": "https://open.spotify.com/artist/6H8R7o8nKuXWxG19X2XoVE"
-        },
-        {
-          "name": "Skorps",
-          "url": "https://open.spotify.com/artist/4WolQpakht16d6Cs9Uh0xy"
+          "name": "Sofia Gayoso",
+          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
         }
       ],
-      "duration_ms": 133636,
-      "name": "Caliente",
-      "url": "https://open.spotify.com/track/2TrAxb7dg65ZFHoMzrGhcN"
+      "duration_ms": 171536,
+      "name": "S\u00f3 Minha",
+      "url": "https://open.spotify.com/track/5MWedCrdHFDo0LA9CA6Giz"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1395,22 +1411,6 @@
       "duration_ms": 146224,
       "name": "Voc\u00ea N\u00e3o Sabe Amar",
       "url": "https://open.spotify.com/track/1oUksabtI48IdGhcBkzjHn"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "S\u00f3 Minha",
-        "url": "https://open.spotify.com/album/6Ra6EkKXpxMzlj9LDzAb4H"
-      },
-      "artists": [
-        {
-          "name": "Sofia Gayoso",
-          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
-        }
-      ],
-      "duration_ms": 171536,
-      "name": "S\u00f3 Minha",
-      "url": "https://open.spotify.com/track/5MWedCrdHFDo0LA9CA6Giz"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Venturana",
-        "url": "https://open.spotify.com/album/5S5jCik9vydVacGnKfrp1S"
-      },
-      "artists": [
-        {
-          "name": "Camaleoa",
-          "url": "https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Venturana",
-      "url": "https://open.spotify.com/track/3ngZu880Lq0euIIfYyh7LZ"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Carta Aberta",
         "url": "https://open.spotify.com/album/19xqgrFltFQOFvEJi8yHVo"
       },
@@ -1511,26 +1495,34 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "terminou comigo na Bahia",
-        "url": "https://open.spotify.com/album/1kmS6bdjx31b9NLHIweTqD"
+        "name": "Venturana",
+        "url": "https://open.spotify.com/album/5S5jCik9vydVacGnKfrp1S"
       },
       "artists": [
         {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        },
-        {
-          "name": "KING Saints",
-          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
-        },
-        {
-          "name": "Afrocidade",
-          "url": "https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL"
+          "name": "Camaleoa",
+          "url": "https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk"
         }
       ],
-      "duration_ms": 182497,
-      "name": "terminou comigo na Bahia",
-      "url": "https://open.spotify.com/track/5LmnWlRFgfvwZPBYTs2nYZ"
+      "duration_ms": 180000,
+      "name": "Venturana",
+      "url": "https://open.spotify.com/track/3ngZu880Lq0euIIfYyh7LZ"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Todo Mundo Que Amei J\u00e1 Me Fez Chorar",
+        "url": "https://open.spotify.com/album/78PwIdZ0l97RtXpcj1WMDw"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
+        }
+      ],
+      "duration_ms": 178654,
+      "name": "Todo Mundo Que Amei J\u00e1 Me Fez Chorar",
+      "url": "https://open.spotify.com/track/1ba9HdaWfIYmIytRcI90eU"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1571,18 +1563,26 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Todo Mundo Que Amei J\u00e1 Me Fez Chorar",
-        "url": "https://open.spotify.com/album/78PwIdZ0l97RtXpcj1WMDw"
+        "name": "terminou comigo na Bahia",
+        "url": "https://open.spotify.com/album/1kmS6bdjx31b9NLHIweTqD"
       },
       "artists": [
         {
-          "name": "Cleo",
-          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        },
+        {
+          "name": "KING Saints",
+          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
+        },
+        {
+          "name": "Afrocidade",
+          "url": "https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL"
         }
       ],
-      "duration_ms": 178654,
-      "name": "Todo Mundo Que Amei J\u00e1 Me Fez Chorar",
-      "url": "https://open.spotify.com/track/1ba9HdaWfIYmIytRcI90eU"
+      "duration_ms": 182497,
+      "name": "terminou comigo na Bahia",
+      "url": "https://open.spotify.com/track/5LmnWlRFgfvwZPBYTs2nYZ"
     }
   ],
   "unique_name": "Palco POP",

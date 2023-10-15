@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZm3R48QXZjZ.md) - [plain]
 
 > Rival Consoles' Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,086 likes - 35 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,116 likes - 35 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZm3R48QXZjZ.md) - [plain]
 | 22 | [Crow \(DJ\-Kicks\) \- Mixed](https://open.spotify.com/track/4s5zfEwFuufmA9KLDHF8ft) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [DJ\-Kicks \(Forest Swords\) \[DJ Mix\]](https://open.spotify.com/album/3YCh0CPUNvjvnuaJ459MZv) | 3:34 |
 | 23 | [Recovery](https://open.spotify.com/track/0vp09QgBhShrQOL2w7P8k4) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Odyssey / Sonne](https://open.spotify.com/album/474YduzMbDFNBzYBJNXdQp) | 4:50 |
 | 24 | [Lagoon](https://open.spotify.com/track/7oYOdF7lpYvwYNLk3BWNpD) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Lagoon](https://open.spotify.com/album/6WJxRoJgFPTxi9odNrGKKp) | 3:10 |
-| 25 | [Weightless \- Rival Consoles Remix](https://open.spotify.com/track/45b5fAvIFHBWmEcBGytul1) | [Neil Cowley Trio](https://open.spotify.com/artist/1aHiF3ESIMQtH7PGzhi6fl), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB), [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Weightless \(Rival Consoles Remix\)](https://open.spotify.com/album/6WeQazuU3BCzt5TyzwhgNE) | 6:12 |
+| 25 | [Weightless \- Rival Consoles Remix](https://open.spotify.com/track/45b5fAvIFHBWmEcBGytul1) | [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB), [Neil Cowley Trio](https://open.spotify.com/artist/1aHiF3ESIMQtH7PGzhi6fl), [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Weightless \(Rival Consoles Remix\)](https://open.spotify.com/album/6WeQazuU3BCzt5TyzwhgNE) | 6:12 |
 | 26 | [Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 3:48 |
 | 27 | [Manifold](https://open.spotify.com/track/7FQSfVFsTIeSUyab9lIumg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Age Of](https://open.spotify.com/album/5mE5Zrd833tgobmFLbGmtJ) | 1:49 |
 | 28 | [Trust \- Christian Löffler Revision](https://open.spotify.com/track/51jSirAIeWBDxfkL85RMlD) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Tom Hodge](https://open.spotify.com/artist/3cHyQs5f4NsAP4LI61G4TO), [Kathrin deBoer](https://open.spotify.com/artist/70s4WJVviwkQ1SnqPFEppX), [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Emergence Remixed](https://open.spotify.com/album/1XQPQWSLuAUxsNcNSro1su) | 7:24 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZm3R48QXZjZ.md) - [plain]
 | 34 | [For](https://open.spotify.com/track/0IDI8ZcmxV1HRaYmWKB85F) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Juno Reworked](https://open.spotify.com/album/7xD39MzGNWnNllzUKEwr8o) | 5:55 |
 | 35 | [Waves Crashing on Distant Shores of Time](https://open.spotify.com/track/2lpkRgBi1D7juwRLXs5xhR) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Black Mirror: San Junipero \(Original Score\)](https://open.spotify.com/album/7HDVDHR93EkfLnt2nZ4bjy) | 5:11 |
 
-Snapshot ID: `MCwwOWQwODcwZTRhYTQ3NmIzMWY2NzNlYmUxMzkzYTlhOTljM2ZjZWU4`
+Snapshot ID: `MCxkMjExYjVmY2Y5NTE1YjQxMTU5OTVmZTI3ODczMjZmNjEyMDY2YmI5`

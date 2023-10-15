@@ -2,7 +2,7 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Aquí vive el hip\-hop mexicano\. La DHA y todo El Clan en la casa.
+> Aquí vive el hip\-hop mexicano\. El DHA y todo El Clan en la casa.
 
 432 songs - 1 day 1 hr 32 min
 

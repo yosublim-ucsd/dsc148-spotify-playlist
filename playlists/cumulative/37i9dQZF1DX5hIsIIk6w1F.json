@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Jere Klein.",
+  "description": "Este Flow tiene otro Flow. Foto: Pailita.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -438,7 +438,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 132942,
       "name": "Aki Voy a Estar :)",
       "url": "https://open.spotify.com/track/4rQsIXQcv99uTxjxSVpGoh"
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 160875,
       "name": "Bbsita",
       "url": "https://open.spotify.com/track/6vzVzatgmgrgPvMEsC5YrO"
@@ -1701,6 +1701,28 @@
     },
     {
       "album": {
+        "name": "Chimbita",
+        "url": "https://open.spotify.com/album/3vcoTPVfVArtQeeB2Ag2tv"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "El High",
+          "url": "https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160085,
+      "name": "Chimbita",
+      "url": "https://open.spotify.com/track/1hGln0qqQg3em0ia32UXf2"
+    },
+    {
+      "album": {
         "name": "Querian Perreo?",
         "url": "https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU"
       },
@@ -1790,7 +1812,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 276927,
       "name": "Como Antes (feat. Carlitos Rossy, Agus Padilla & Best)",
       "url": "https://open.spotify.com/track/2l3bporWnhbXY7O7pLcBUf"
@@ -2648,6 +2670,24 @@
       "duration_ms": 156631,
       "name": "Dispara",
       "url": "https://open.spotify.com/track/5M3EP1CzO1Fm8fJdrGWYCL"
+    },
+    {
+      "album": {
+        "name": "Distinta",
+        "url": "https://open.spotify.com/album/7oDOM0g4tUE0MUNK8u7y84"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200969,
+      "name": "Distinta",
+      "url": "https://open.spotify.com/track/3EcAFLtP7inJoo7l5YGxwG"
     },
     {
       "album": {
@@ -6452,7 +6492,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 173265,
       "name": "Miles",
       "url": "https://open.spotify.com/track/7tk7tCxZP6pxIh0500jtyD"
@@ -6648,6 +6688,32 @@
       "duration_ms": 173789,
       "name": "Mirador",
       "url": "https://open.spotify.com/track/5qCMJTlteDY9BBpmoQnP0l"
+    },
+    {
+      "album": {
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/6JxWCUQs773w7HF3rUmk2t"
+      },
+      "artists": [
+        {
+          "name": "Bryciell",
+          "url": "https://open.spotify.com/artist/6pn3gskO5RhVViYRW1i3bj"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Daimi",
+          "url": "https://open.spotify.com/artist/0oSYgbeZYjJ66WxzSMfFUv"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165431,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/47LyCTTBSAAIjGOU4OmqM2"
     },
     {
       "album": {
@@ -8124,7 +8190,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 201586,
       "name": "Pa\u2019 Ser Infiel",
       "url": "https://open.spotify.com/track/0UTOlXzfLM9rs20BrXIFCJ"
@@ -8448,6 +8514,28 @@
       "duration_ms": 220245,
       "name": "PISTOLONES",
       "url": "https://open.spotify.com/track/5oPjTmrIXMADIPpVMIEIqv"
+    },
+    {
+      "album": {
+        "name": "Placer",
+        "url": "https://open.spotify.com/album/1gsoB2gWI9bvC6qy7hZRdz"
+      },
+      "artists": [
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Yabel",
+          "url": "https://open.spotify.com/artist/3Zan5Poez2lZsuz9xXJfvn"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180112,
+      "name": "Placer",
+      "url": "https://open.spotify.com/track/5Uxw51GW6G8MtzUmmV1b6P"
     },
     {
       "album": {
@@ -10423,6 +10511,28 @@
     },
     {
       "album": {
+        "name": "Tas Texteandome",
+        "url": "https://open.spotify.com/album/4lcpQOkpFBp3qGV0jR8N6v"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176700,
+      "name": "Tas Texteandome",
+      "url": "https://open.spotify.com/track/7spAR93xvPOfkxIeTGbpPf"
+    },
+    {
+      "album": {
         "name": "TAY PAPO",
         "url": "https://open.spotify.com/album/7a9RHd4sO9X1nFoSBaZzvR"
       },
@@ -10486,7 +10596,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 224081,
       "name": "Te Encanta",
       "url": "https://open.spotify.com/track/3WUFTFFz8hVOKLiXd6notP"
@@ -11122,6 +11232,36 @@
       "duration_ms": 165000,
       "name": "TU ME QUIERES?",
       "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
+    },
+    {
+      "album": {
+        "name": "TU ME QUIERES? REMIXXX (feat. Lucky Brown)",
+        "url": "https://open.spotify.com/album/705CyZCCFXeFcybba6kvmv"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308252,
+      "name": "TU ME QUIERES? REMIXXX (feat. Lucky Brown)",
+      "url": "https://open.spotify.com/track/2EudY7VpHg91v5PDkinD37"
     },
     {
       "album": {

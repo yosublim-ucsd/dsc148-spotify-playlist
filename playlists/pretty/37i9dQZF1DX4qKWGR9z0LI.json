@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Adolescent's Orquestra",
-  "num_followers": 1833405,
+  "num_followers": 1833016,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzA2ZTAyYzVmNzFiYzZiYmQ3YmU2MzRlMDliZjA4NjBlOGYzZTAw",
+  "snapshot_id": "MCwwNmJlYmU0NWUzMWVkMTgwZmJkOWIzY2E1NGFhOWNmZjYzNWI3ZDM3",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "De Qu\u00e9 Manera",
-        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "De Qu\u00e9 Manera",
-      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Bueno y M\u00e1s",
         "url": "https://open.spotify.com/album/2L8Z97iqrz7OMo4OpbCFEg"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 270863,
       "name": "Carro de Fuego",
       "url": "https://open.spotify.com/track/6vXGxfr6aYO3Nq2jKXkdC5"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "De Qu\u00e9 Manera",
+        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Te Quise Olvidar",
-        "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 209743,
-      "name": "Te Quise Olvidar",
-      "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Suma y Resta",
         "url": "https://open.spotify.com/album/2TLHgTwpVZbKZXt4WmcCKK"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 188364,
       "name": "Suma y Resta",
       "url": "https://open.spotify.com/track/1j6HyQf4y1IiHFewyXnxK1"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Te Quise Olvidar",
+        "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 209743,
+      "name": "Te Quise Olvidar",
+      "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1179,22 +1179,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Enam\u00f3rate Bailando",
-        "url": "https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV"
+        "name": "Baila Salsa",
+        "url": "https://open.spotify.com/album/7H6mPRCBIMuKn7FirF8Alk"
       },
       "artists": [
         {
-          "name": "Septeto Acarey",
-          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Mauro Castillo",
+          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
         }
       ],
-      "duration_ms": 267332,
-      "name": "Enam\u00f3rate Bailando",
-      "url": "https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y"
+      "duration_ms": 249160,
+      "name": "Viene Y Se Va",
+      "url": "https://open.spotify.com/track/4aVRKf9Dp3e6VQEcAx7euZ"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1219,18 +1215,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Baila Salsa",
-        "url": "https://open.spotify.com/album/7H6mPRCBIMuKn7FirF8Alk"
+        "name": "Enam\u00f3rate Bailando",
+        "url": "https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV"
       },
       "artists": [
         {
-          "name": "Mauro Castillo",
-          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 249160,
-      "name": "Viene Y Se Va",
-      "url": "https://open.spotify.com/track/4aVRKf9Dp3e6VQEcAx7euZ"
+      "duration_ms": 267332,
+      "name": "Enam\u00f3rate Bailando",
+      "url": "https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "From Miami a La Habana",
+        "url": "https://open.spotify.com/album/1tNsdZEoSb3YrilndEMSmn"
+      },
+      "artists": [
+        {
+          "name": "TIMBALIVE",
+          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
+        }
+      ],
+      "duration_ms": 263680,
+      "name": "El Dinero",
+      "url": "https://open.spotify.com/track/0CEcTqeL5BC0V7gzmwytn3"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Nuestra Esquina",
         "url": "https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 213000,
       "name": "Pa'lante y Pa'tras - Remix",
       "url": "https://open.spotify.com/track/0j1Fh9m0wZbvTIl8xIlSKH"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "From Miami a La Habana",
-        "url": "https://open.spotify.com/album/1tNsdZEoSb3YrilndEMSmn"
-      },
-      "artists": [
-        {
-          "name": "TIMBALIVE",
-          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
-        }
-      ],
-      "duration_ms": 263680,
-      "name": "El Dinero",
-      "url": "https://open.spotify.com/track/0CEcTqeL5BC0V7gzmwytn3"
     },
     {
       "added_at": "2023-08-18 04:00:00",

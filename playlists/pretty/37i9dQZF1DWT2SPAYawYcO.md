@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,930 likes - 91 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,796 likes - 91 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 5 | [SOUTHSIDE DILLA](https://open.spotify.com/track/4ypmJ7f8TGY4cZzYn3YVyP) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [SOUTHSIDE DILLA](https://open.spotify.com/album/0GfTdUYEfSFuJ3Stc3LZQl) | 2:09 |
 | 6 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 |
 | 7 | [SAY MY GRACE \(feat\. Travis Scott\)](https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:53 |
-| 8 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:02 |
+| 8 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 |
 | 9 | [F.U.](https://open.spotify.com/track/7LSMkz6hAlMqt1qNqlA5V6) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [F.U.](https://open.spotify.com/album/59Vusax4IuNkWBWkNfLx8d) | 2:55 |
 | 10 | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35) | 2:54 |
 | 11 | [Ruby](https://open.spotify.com/track/7MljuHS2zehnQXikZ2R1J1) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Ruby](https://open.spotify.com/album/1blmgrdzwfAKML3bek7xfg) | 2:29 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 90 | [HEART](https://open.spotify.com/track/0qcWNLOp0T8IS3ZccEqNgi) | [Zion Garcia](https://open.spotify.com/artist/3CAMrIAp5DB3k5HS8lXowX) | [ZION GARCIA: \(THEATRICAL VERSION\)](https://open.spotify.com/album/6twUb228BnCcVwEgSnRFhF) | 2:51 |
 | 91 | [Eternally Hateful](https://open.spotify.com/track/0P1Is8b7cnz8vvEudg9mek) | [Kirin J Callinan](https://open.spotify.com/artist/16y7sGO0GJMVHDFgj9MNcd) | [Eternally Hateful](https://open.spotify.com/album/4HZb1gi6dnVtCzQvd0ZjZD) | 3:45 |
 
-Snapshot ID: `MCxlZDRjNWU3ZTdiYjIwNjUwYzI3Y2YyMzNjMGVkOGNjMGZiMDZiMmI5`
+Snapshot ID: `MCxmMWFlNzVkZGZmMmE1Yzg3MjQyOWZhMzY1NDRkZWRlMmQ3NDhiZjRl`

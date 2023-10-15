@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-807 songs - 1 day 7 hr 23 min
+808 songs - 1 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Adrift](https://open.spotify.com/track/5LtSbDktkoCBD4tO1rEwoq) | [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb), [Luke Tidbury](https://open.spotify.com/artist/4g1NSdBab7fmTNzr8UKVJP), [Pevanni](https://open.spotify.com/artist/3YG6GacnNybthfkmJbsaVE) | [Eudaemonia](https://open.spotify.com/album/0PkkyOxcvloLmgvm8GmnQt) | 1:45 | 2022-11-25 |  |
 | [Aesthetics](https://open.spotify.com/track/2msdkpUBE5J9k4zbGeng6n) | [elephvnt](https://open.spotify.com/artist/5q1SBpeVA2vh8h9gfxjY36) | [Aesthetics](https://open.spotify.com/album/2xD6hfBIn6muHL7MwNuXQ4) | 1:49 | 2022-04-15 | 2022-04-22 |
 | [Affirmations](https://open.spotify.com/track/0k8Z6E4Jbx11Y9pwPo7BEA) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Affirmations](https://open.spotify.com/album/4rPQSr2OlsePkDkfNKesm9) | 1:52 | 2022-05-20 |  |
+| [After Hours](https://open.spotify.com/track/54Q1fME5hhgFWipi1SkTtU) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [After Hours](https://open.spotify.com/album/5v2UDMEhWTqNnwdTYdQXyI) | 2:03 | 2023-10-13 |  |
 | [After meal](https://open.spotify.com/track/2YM708xoJMb7ZV3cGl9dMx) | [UZK](https://open.spotify.com/artist/4nB4wMQin7UtH9VzkpW1Ti) | [Coffee Stand](https://open.spotify.com/album/4T8kEchzLMpyPlHzrqMRbZ) | 1:54 | 2022-04-15 | 2022-05-14 |
 | [After Surf Sandwich](https://open.spotify.com/track/0PMlGvzeLrQ27h8oGyfGMV) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:32 | 2022-04-15 |  |
 | [Aix](https://open.spotify.com/track/34mXkxjLfdL4LseDpQYps0) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Aix](https://open.spotify.com/album/5I7cP45DUe2N8gjKM2X6vB) | 2:19 | 2023-10-06 |  |
@@ -46,7 +47,7 @@
 | [Authentic](https://open.spotify.com/track/6ibi48DPWz04U2lTWp3G8o) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Soul City](https://open.spotify.com/album/0d5CHBsRYdHel2EiaFkk5p) | 1:23 | 2022-04-15 | 2022-05-27 |
 | [Autumn Colours](https://open.spotify.com/track/2M5xnklRUnCnLJD00UUfJG) | [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd), [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E) | [Autumn Colours](https://open.spotify.com/album/1MqZmJJ8PXsSc76DRVRotP) | 2:27 | 2023-02-21 | 2023-09-29 |
 | [Autumn Colours](https://open.spotify.com/track/4jxUiUn3Ho8aN4u2NQpmia) | [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd), [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E) | [Autumn Colours](https://open.spotify.com/album/25slxRdPIXB4ytpeMEKEge) | 2:27 | 2022-10-28 | 2023-05-08 |
-| [autumn nights](https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [autumn nights](https://open.spotify.com/album/5EcvO8QOBEhimWNWDq6rao) | 1:35 | 2023-10-13 |  |
+| [autumn nights](https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [autumn nights](https://open.spotify.com/album/5EcvO8QOBEhimWNWDq6rao) | 1:35 | 2023-10-13 | 2023-10-15 |
 | [Autumn Stroll](https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Autumn Stroll](https://open.spotify.com/album/4n6WWpN0P3MsBU4OTFXFIM) | 1:58 | 2023-10-13 |  |
 | [Back in time](https://open.spotify.com/track/6qLsaWSO04sgwX6N8xid7E) | [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Back in time](https://open.spotify.com/album/34XEHZITd5aslpA8xYzxV2) | 2:20 | 2023-01-20 |  |
 | [Baia Del Sole](https://open.spotify.com/track/08ZuawhWrtqcOiwTctQA6S) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Baia Del Sole](https://open.spotify.com/album/1eBsecVp130mrzeKJ257oG) | 2:24 | 2022-07-29 | 2022-09-30 |
@@ -219,7 +220,7 @@
 | [Forgiveness](https://open.spotify.com/track/72MhlqX4Eb1IyMJq486XRN) | [Pabzzz](https://open.spotify.com/artist/1cqhGlKnyF5Fhl5juBFduj) | [Forgiveness](https://open.spotify.com/album/41pBXLIfbweKQn6S9KSywT) | 3:43 | 2022-06-03 | 2022-08-19 |
 | [Fresher Scents](https://open.spotify.com/track/2AyGe2TYtgvJ7xyM3db0jH) | [Nokawa](https://open.spotify.com/artist/2oEffj6YkFOVSxj6uiK8g7) | [Fresher Scents](https://open.spotify.com/album/2MRysprtYZtG0PxCRS2gVj) | 1:51 | 2022-04-15 |  |
 | [Friday](https://open.spotify.com/track/0VMPNNbZcV6aP0O9ZCLNhe) | [Little Lazy Lights](https://open.spotify.com/artist/2YEOM2LGal4G2Z2GkbbAlA) | [Friday](https://open.spotify.com/album/5yDhrdMgbYA3EdMkKBYads) | 3:36 | 2022-04-15 |  |
-| [Friday Dazed](https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Friday Dazed](https://open.spotify.com/album/3r7qEzzlkQNFSQOuggOQm4) | 2:12 | 2023-10-13 | 2023-10-14 |
+| [Friday Dazed](https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Friday Dazed](https://open.spotify.com/album/3r7qEzzlkQNFSQOuggOQm4) | 2:12 | 2023-10-13 |  |
 | [Fried Beans](https://open.spotify.com/track/2rG2JAPKFQxDZXcf6pUO5S) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Fried Beans](https://open.spotify.com/album/6whOtrxJvVArWYlyii3TnO) | 2:04 | 2022-04-15 |  |
 | [Frolic](https://open.spotify.com/track/2KNFOqcjVlBX4Gq4ieiysa) | [fallover](https://open.spotify.com/artist/7IcaEh6tPfZwI4FHtbPMD6) | [Frolic](https://open.spotify.com/album/16veguDPc6MecMoXfcYOUt) | 1:57 | 2022-04-15 | 2023-10-13 |
 | [fromain](https://open.spotify.com/track/5LhVAZrBWUrqIcCLX90uPa) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [fromain](https://open.spotify.com/album/7C3avsrbBhR7CiACWLX1SK) | 2:02 | 2023-09-22 |  |
@@ -487,7 +488,7 @@
 | [Pacifica](https://open.spotify.com/track/1Rapts1uOPuU1vqwmbWIKR) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Pacifica](https://open.spotify.com/album/5s7hqTgpaYuNqiG4klTBYw) | 2:38 | 2022-04-15 | 2022-06-17 |
 | [Palme](https://open.spotify.com/track/1yJR8z4s4lASBJ4wfMG8zc) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Palme](https://open.spotify.com/album/4bSIoqXG6MbAxWCCvpVcGW) | 1:50 | 2023-04-03 | 2023-10-06 |
 | [Paper Bag](https://open.spotify.com/track/0feI2qZLlaapheeJeznYwZ) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [O F F](https://open.spotify.com/artist/5IjGvQKE2nsaL2RkqnqYfG) | [Paper Bag](https://open.spotify.com/album/05czxzdMeLHHvWUfar0Fbz) | 2:34 | 2022-12-16 | 2023-09-08 |
-| [Paris](https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Paris](https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41) | 2:04 | 2023-10-13 |  |
+| [Paris](https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Paris](https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41) | 2:04 | 2023-10-13 | 2023-10-15 |
 | [Part of a Major Thing](https://open.spotify.com/track/0TKb90PdBwdfm2zef0dWcT) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Part of a Major Thing](https://open.spotify.com/album/2qyXoY0yDcre1E03jg7AYF) | 2:46 | 2022-04-15 | 2022-10-14 |
 | [Passing Through](https://open.spotify.com/track/7ttge778TfRLBn7Rk7WlJr) | [dreams of saola](https://open.spotify.com/artist/1GT8FB8O4CQEgEKKZ4TUvA) | [Passing Through](https://open.spotify.com/album/0ZaC7BkXJC8bQ5rUgcZctj) | 2:58 | 2022-04-15 | 2022-06-03 |
 | [Past Bedtime](https://open.spotify.com/track/4kCS9oguhIvt2d50M0Gj3Q) | [HollyDave](https://open.spotify.com/artist/0fwfq3m3px40mSeOdDPVnJ) | [Past Bedtime](https://open.spotify.com/album/3qZ3lO3W6gWE1004dR6zky) | 2:05 | 2023-09-29 |  |

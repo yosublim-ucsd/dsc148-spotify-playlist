@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-513 songs - 2 day 2 hr 4 min
+514 songs - 2 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Drago \- Anja Schneider Remix](https://open.spotify.com/track/1Y0pKRDpyETJzoNEcl2i0v) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Drago \(Anja Schneider Remix\)](https://open.spotify.com/album/5ILrQRKvoVwGvuLxLVWIE0) | 6:22 | 2022-04-22 | 2022-07-29 |
 | [Drive](https://open.spotify.com/track/67aiZtmB5ZBCGxBN3pOL6C) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Drive](https://open.spotify.com/album/0VMZ7bBIr5PxYsgYBBEEdE) | 4:43 | 2022-11-23 | 2023-04-01 |
 | [Drone Me Up, Flashy \- &ME Remix](https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Knock Knock Remixes](https://open.spotify.com/album/2juRFnVLI1Zo3BlVXIa7T4) | 9:06 | 2022-04-08 |  |
-| [Duel](https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Duel](https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f) | 9:34 | 2022-05-20 |  |
+| [Duel](https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Duel](https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f) | 9:34 | 2022-05-20 | 2023-10-15 |
 | [Dvaraka](https://open.spotify.com/track/655xQvb0DNxJ8PUHjDnDYy) | [Morttagua](https://open.spotify.com/artist/1XVL802tNy6tucST8spKOv) | [Dvaraka](https://open.spotify.com/album/0G47sYDbrRXUDahMALCsBH) | 8:26 | 2021-05-07 | 2022-04-21 |
 | [Ederlezi](https://open.spotify.com/track/2ZQK68ctm8rFny71kyvnUc) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Ederlezi](https://open.spotify.com/album/7HMEPFeIAiSXriShJwUzb9) | 3:03 | 2023-07-28 | 2023-09-23 |
 | [Egyptian Sun](https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Egyptian Sun](https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa) | 4:17 | 2023-05-26 |  |
@@ -395,6 +395,7 @@
 | [Safe \- Joris Voorn Remix](https://open.spotify.com/track/2cVGCUx6xnmcdIz2Ns9OLw) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Safe \(Joris Voorn Remix\)](https://open.spotify.com/album/4E3pSvdTWyLs6K9saNu97L) | 4:54 | 2022-04-19 | 2022-06-18 |
 | [Sahara](https://open.spotify.com/track/7q3e8G09hBubfDjD1B5A9a) | [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9) | [Sahara](https://open.spotify.com/album/2XjYjAgjoaBrbRh7xzj3WT) | 6:18 | 2022-08-19 | 2023-02-01 |
 | [Samum](https://open.spotify.com/track/4Jmid2ZZKHAyLhibaC3UvR) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p) | [Samum](https://open.spotify.com/album/0GLLdUvIwBuauWU6i1MWUp) | 3:14 | 2023-05-05 | 2023-10-09 |
+| [Save Me](https://open.spotify.com/track/6ihglXSp2FFA9RjhiExxJR) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Save Me](https://open.spotify.com/album/1QqhWCY0SdPjJiB6szbXPt) | 3:36 | 2023-10-13 |  |
 | [Save Us](https://open.spotify.com/track/2gGs5GIOPRiQawcGVAEye3) | [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0), [Finnstagram](https://open.spotify.com/artist/3kc83ki33FJgDhU49UcVNI) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 3:30 | 2021-04-21 | 2022-07-22 |
 | [Seda](https://open.spotify.com/track/31QqKRikjh4mtLFPle9ub9) | [Alex Lur](https://open.spotify.com/artist/4rwz2V4y8Uiz6QR9qSbIrf), [GROJ](https://open.spotify.com/artist/0bJiWg2SC47WIfFe96Ke6E) | [Seda](https://open.spotify.com/album/3xO9kVbXYO9SmP5eNvkwq4) | 3:47 | 2021-06-25 | 2022-07-25 |
 | [See You](https://open.spotify.com/track/3l0VTha5dPLyvzeZgZ0c8c) | [Indid](https://open.spotify.com/artist/7LjyU4u3cRmKVQA7Xwm0q6) | [See You](https://open.spotify.com/album/3MiRaqtx00ttSttAsy4de7) | 4:04 | 2021-04-21 | 2022-07-17 |

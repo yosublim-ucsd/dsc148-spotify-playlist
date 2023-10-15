@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-809 songs - 1 day 18 hr 48 min
+811 songs - 1 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Hollow Woods](https://open.spotify.com/track/2ate2zkgChme3nCh6AhtNS) | [Nomi](https://open.spotify.com/artist/2kHbs6arBtyzIgY5l86m3K) | [Hollow Woods](https://open.spotify.com/album/2L3CYGyZmGjCg6DKSrusQP) | 3:41 | 2022-05-05 | 2022-06-07 |
 | [Hon har dig](https://open.spotify.com/track/02twVAfoDG1podz5ns885c) | [bby](https://open.spotify.com/artist/229RQG4IQ1BFiS1FJvww5N) | [Bara bby](https://open.spotify.com/album/3plhQIEFllsYNv708OaENV) | 2:35 | 2022-05-05 | 2023-04-01 |
 | [Hon sa](https://open.spotify.com/track/3LHWa0MK1AlEI9hukUSxn1) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [En liten låtidé](https://open.spotify.com/album/6Efrrr4boSN6DWpSFbDTSN) | 3:04 | 2023-03-23 | 2023-10-06 |
+| [Hoppas att jag gjorde allt jag kan](https://open.spotify.com/track/6msOfq0hbXa5pbqlVFhgj0) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Superlativ 97](https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu) | 3:54 | 2023-10-13 |  |
 | [HORNY](https://open.spotify.com/track/7b2ErSyq557q0S5GqeOZry) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [HORNY](https://open.spotify.com/album/1jcKD4lL5GUfSZTCNoqv4g) | 2:22 | 2022-07-21 | 2022-07-27 |
 | [Hotel Amigo \(feat\. First Aid Kit\)](https://open.spotify.com/track/3m9GqZMWHtZPbGhamFjrN9) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Hotel Amigo \(feat\. First Aid Kit\)](https://open.spotify.com/album/1MrXU3B1fECuJ8QmRFyBNs) | 3:14 | 2021-12-16 | 2022-03-11 |
 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-03-10 | 2022-09-16 |
@@ -334,7 +335,7 @@
 | [I ett case](https://open.spotify.com/track/69NpPwkjb1hPTCMvh03R2j) | [Zacke](https://open.spotify.com/artist/3jKd96grbdWoh56whvFnX2) | [I ett case](https://open.spotify.com/album/7C5xM9Vo6c3FHaIGLnL5xo) | 3:38 | 2022-06-30 | 2022-07-23 |
 | [I Feel It](https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 3:36 | 2021-12-16 | 2022-03-06 |
 | [I Feel It In The Wind](https://open.spotify.com/track/4bc5uke0uDwT78j0pIKlDg) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [I Feel It In The Wind](https://open.spotify.com/album/1OedsPZaNzUJILkvivIYF7) | 3:33 | 2022-09-15 | 2023-10-06 |
-| [I Got It All](https://open.spotify.com/track/1JHlUpeFlfNvlmHrQXL3bC) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [I Got It All](https://open.spotify.com/album/7eIkDteTCxxbkjDahZkneg) | 4:05 | 2023-10-05 |  |
+| [I Got It All](https://open.spotify.com/track/1JHlUpeFlfNvlmHrQXL3bC) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [I Got It All](https://open.spotify.com/album/7eIkDteTCxxbkjDahZkneg) | 4:05 | 2023-10-05 | 2023-10-15 |
 | [I Got You](https://open.spotify.com/track/0HAEfZVIMenQUqCiATalMF) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Moodygee](https://open.spotify.com/artist/324vg036DC5fiqiVK4eeto), [Adrian Fyrla](https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij), [Zach Alwin](https://open.spotify.com/artist/3IhZL4dHVP35Hve25QBxU8) | [I Got You](https://open.spotify.com/album/2TGMynyNRUyr0SkFRTMEug) | 3:24 | 2022-03-10 | 2022-04-19 |
 | [I like u](https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme \(Extended Cut\)](https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3) | 3:10 | 2023-08-10 |  |
 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 | 2023-06-01 | 2023-08-14 |
@@ -361,6 +362,7 @@
 | [Innocent Love](https://open.spotify.com/track/71vojPlEiXkv0ZGWyfWqFj) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Innocent Love](https://open.spotify.com/album/5p61tjKE3bf96LDICjSBa5) | 3:02 | 2022-02-26 | 2022-09-16 |
 | [Inte en gång till](https://open.spotify.com/track/6JD183FLGA6R4B0sYm2xiz) | [Jessica Bohlin](https://open.spotify.com/artist/6xMt0bWYPTHNcCj1zL80VB) | [Inte en gång till](https://open.spotify.com/album/0L8uwgD2s0AoXG4iJp1Xu7) | 3:08 | 2022-09-15 | 2022-09-22 |
 | [Irreplaceable](https://open.spotify.com/track/1gK79XAWFSYyl8FpphEQiH) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Irreplaceable](https://open.spotify.com/album/2dIihXdiXigVetfKI2QDqs) | 3:35 | 2021-12-16 | 2022-03-11 |
+| [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2023-10-13 |  |
 | [Isabelle](https://open.spotify.com/track/6RIWWLyss6LfdqJXANlhFv) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Isabelle](https://open.spotify.com/album/170jl8RUaJsCe2snINmw7P) | 3:35 | 2022-05-20 | 2023-03-20 |
 | [Island of the Sun](https://open.spotify.com/track/6TD7O7KdrL3kzU2plhZqm0) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/3lhEn9XlYq4Naa0YPBFQd4) | 2:56 | 2022-03-10 | 2022-04-20 |
 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 | 2023-04-27 |  |
@@ -793,7 +795,7 @@
 | [wish I didn't know you](https://open.spotify.com/track/5eqawn12Jr65SvCFHvL3Jh) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [wish I didn't know you](https://open.spotify.com/album/1vjdyS508kWh3k8KbUK4nU) | 2:53 | 2022-10-15 | 2023-06-01 |
 | [Wishful Thinking](https://open.spotify.com/track/2JtbYlm4BF5rLFrhkyHXU1) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Wishful Thinking](https://open.spotify.com/album/6X2z7A7ecxou7Hz7haotFO) | 4:03 | 2022-02-05 | 2022-05-13 |
 | [Wishing well](https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Foam](https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m) | 2:24 | 2023-06-22 |  |
-| [Wolf Cries](https://open.spotify.com/track/1UENNNlQETDaFv7Yvyoc5v) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Wolf Cries](https://open.spotify.com/album/2UbWIKOOJj6Zgg8LrVCAY3) | 3:10 | 2023-08-25 |  |
+| [Wolf Cries](https://open.spotify.com/track/1UENNNlQETDaFv7Yvyoc5v) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Wolf Cries](https://open.spotify.com/album/2UbWIKOOJj6Zgg8LrVCAY3) | 3:10 | 2023-08-25 | 2023-10-15 |
 | [Woman](https://open.spotify.com/track/2aZghG8jayn0ZjvUN3EiL5) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Woman](https://open.spotify.com/album/54LgsqW9nfE6BjspyJz7K8) | 3:41 | 2023-09-28 |  |
 | [Wonderchild \- Spotify Singles](https://open.spotify.com/track/3Dp49tho4cUwwrogE2SQaG) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Wonderchild \- Spotify Singles](https://open.spotify.com/album/53UPgh5ZFAmsuZtmQqiyO9) | 3:41 | 2022-05-12 | 2023-10-06 |
 | [Worst Mom](https://open.spotify.com/track/4EqDdwHM4tgzTZebfqBEXd) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Worst Mom](https://open.spotify.com/album/2yJGak5X0vnrCtydSe1xau) | 3:01 | 2023-09-21 |  |

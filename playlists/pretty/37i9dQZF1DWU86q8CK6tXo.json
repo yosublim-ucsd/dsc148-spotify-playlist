@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover:  <a href=\u201cspotify:artist:5GGJosGMs08YEmKTZJe1fL\u201d>Suki Waterhouse</a> ",
-  "num_followers": 43615,
+  "num_followers": 43650,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTJlOWU2MDA4YjQ4ZmI2ZGFkNmUzY2FkNmE1MTlmNmM3YjM2MGVi",
+  "snapshot_id": "MCw1ZjdjYjQzZmUyNTEwM2E3MWI4M2Q1MzFmZDJmODNiZDhmMmExNzZm",
   "tracks": [
     {
       "added_at": "2023-10-06 19:53:24",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-10-06 19:53:24",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
-        }
-      ],
-      "duration_ms": 274475,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM"
-    },
-    {
-      "added_at": "2023-10-06 19:53:24",
-      "album": {
         "name": "REBEL (The Beginning)",
         "url": "https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 181533,
       "name": "Rain In The Rearview",
       "url": "https://open.spotify.com/track/10kDUCSM3OZ99MfMcRboZB"
+    },
+    {
+      "added_at": "2023-10-06 19:53:24",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 274475,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM"
     },
     {
       "added_at": "2023-10-06 19:53:24",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-10-06 19:53:24",
       "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
-    },
-    {
-      "added_at": "2023-10-06 19:53:24",
-      "album": {
         "name": "Bigger Than The Song",
         "url": "https://open.spotify.com/album/7i0OwcTKu2NSs6CNnuP653"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 189156,
       "name": "Bigger Than The Song",
       "url": "https://open.spotify.com/track/5v3r5BBXflOj5vedGJb1v8"
+    },
+    {
+      "added_at": "2023-10-06 19:53:24",
+      "album": {
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "added_at": "2023-10-06 19:53:24",

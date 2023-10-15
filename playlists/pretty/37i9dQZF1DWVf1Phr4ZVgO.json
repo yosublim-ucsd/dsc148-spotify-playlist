@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1028781,
+  "num_followers": 1028995,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDFiZDM2OTc0NzZhZjhiNTg1ZWFkMjg4NDMyOTlkNTljYzg5NjA4",
+  "snapshot_id": "MCxhMmI0MTJkZDY2NjE0ZDk5NDc0YzEwNTFmNTdiNWM4NzAzODgxN2Fj",
   "tracks": [
     {
       "added_at": "2023-10-11 13:42:47",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-10-11 13:42:47",
       "album": {
-        "name": "The Legendary Bobby Darin",
-        "url": "https://open.spotify.com/album/1j4n3aUX5f8LTf7ijPnzi7"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 145933,
-      "name": "More - Remastered 2004",
-      "url": "https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei"
-    },
-    {
-      "added_at": "2023-10-11 13:42:47",
-      "album": {
         "name": "September In The Rain",
         "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 129333,
       "name": "September In The Rain",
       "url": "https://open.spotify.com/track/2csA2nDUNR5TfQEn1I7nt4"
+    },
+    {
+      "added_at": "2023-10-11 13:42:47",
+      "album": {
+        "name": "The Legendary Bobby Darin",
+        "url": "https://open.spotify.com/album/1j4n3aUX5f8LTf7ijPnzi7"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 145933,
+      "name": "More - Remastered 2004",
+      "url": "https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei"
     },
     {
       "added_at": "2023-10-11 13:42:47",
@@ -343,8 +343,8 @@
     {
       "added_at": "2023-10-11 13:42:47",
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 5 (1954)",
+        "url": "https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 221413,
-      "name": "On The Street Where You Live - Remastered 1998",
-      "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
+      "duration_ms": 165133,
+      "name": "Sway (Quien Sera)",
+      "url": "https://open.spotify.com/track/3QyPsavxL681NX7SPVGd5T"
     },
     {
       "added_at": "2023-10-11 13:42:47",
@@ -503,8 +503,8 @@
     {
       "added_at": "2023-10-11 13:42:47",
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 5 (1954)",
-        "url": "https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM"
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 165133,
-      "name": "Sway (Quien Sera)",
-      "url": "https://open.spotify.com/track/3QyPsavxL681NX7SPVGd5T"
+      "duration_ms": 221413,
+      "name": "On The Street Where You Live - Remastered 1998",
+      "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
     },
     {
       "added_at": "2023-10-11 13:42:47",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-10-11 13:42:47",
       "album": {
-        "name": "My One And Only Thrill",
-        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 210693,
-      "name": "Baby I'm A Fool",
-      "url": "https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr"
-    },
-    {
-      "added_at": "2023-10-11 13:42:47",
-      "album": {
         "name": "Swing When You're Winning",
         "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 154133,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK"
+    },
+    {
+      "added_at": "2023-10-11 13:42:47",
+      "album": {
+        "name": "My One And Only Thrill",
+        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 210693,
+      "name": "Baby I'm A Fool",
+      "url": "https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr"
     },
     {
       "added_at": "2023-10-11 13:42:47",

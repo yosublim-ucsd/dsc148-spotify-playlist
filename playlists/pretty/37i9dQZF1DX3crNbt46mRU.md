@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Takagi & Ketra, Shiva, ANNA, Geolier
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,220 likes - 107 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,221 likes - 107 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 20 | [MIDNIGHT OIL](https://open.spotify.com/track/65qzuuS7pR1Q5nOfgvg93a) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MIDNIGHT OIL](https://open.spotify.com/album/6Jb0lh95dtrWjRcfgVLY17) | 2:59 |
 | 21 | [Adee](https://open.spotify.com/track/1jjcz4zewGmxqa7oRp7sDK) | [Kunz](https://open.spotify.com/artist/30RSfdFlYhqrXr6c4c2xJJ) | [Adee](https://open.spotify.com/album/4WAM0oA0J2vPp2vJcDSy9n) | 3:29 |
 | 22 | [Noch einmal](https://open.spotify.com/track/2DynufiRAu0Nyn5TM1Cdpx) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Noch einmal](https://open.spotify.com/album/6aZQMijJZ50b7rxUNINjd6) | 2:26 |
-| 23 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:02 |
+| 23 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 |
 | 24 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 |
 | 25 | [Faut pas flipper \(feat\. Vegedream\)](https://open.spotify.com/track/2gInYqDUknSlU5CBgPKEiv) | [Junior Bvndo](https://open.spotify.com/artist/58lWi9l7zeTHdUz6Glzm9p), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Faut pas flipper \(feat\. Vegedream\)](https://open.spotify.com/album/5TvUdciYK3xUuJHmrscFbg) | 2:56 |
 | 26 | [Sad Forever](https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror \(Deluxe\)](https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq) | 2:55 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 32 | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up) | 3:03 |
 | 33 | [Autoreflet](https://open.spotify.com/track/2j3sASiYw3Vp9Hc3rgoUaO) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [Autoreflet](https://open.spotify.com/album/1E08TcOZkPhY0YotbjXdd3) | 4:49 |
 | 34 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 |
-| 35 | [Glücklich](https://open.spotify.com/track/3mHj8g9Dp0anu2ZofvrmvQ) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Glücklich](https://open.spotify.com/album/4YtSLkxMmm3smlrqVenbMV) | 2:20 |
+| 35 | [Glücklich](https://open.spotify.com/track/3mHj8g9Dp0anu2ZofvrmvQ) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Glücklich](https://open.spotify.com/album/4YtSLkxMmm3smlrqVenbMV) | 2:17 |
 | 36 | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35) | 2:54 |
 | 37 | [Paint My Bedroom Black](https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE) | 3:49 |
 | 38 | [In The Business](https://open.spotify.com/track/5wBeqF4IpiPFyUZf347KfG) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [SUPER NOVAA](https://open.spotify.com/album/3eKmwCRUPW3KapM3iIlQsJ) | 3:34 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 78 | [Someone I Used to Know](https://open.spotify.com/track/6JZD3cr8CTNOmZg205emdw) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Someone I Used To Know](https://open.spotify.com/album/0jHmLiL2rX5R8KLQ5lNiBf) | 2:55 |
 | 79 | [Loved By You](https://open.spotify.com/track/5MFUxQJGj5KrcCX6Gnphgh) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stellaria](https://open.spotify.com/album/5UHVVt48bKChmsZNguXZIu) | 2:58 |
 | 80 | [Easy Go](https://open.spotify.com/track/0NXi2nJX9VbvQJWDeNEqZx) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Easy Go](https://open.spotify.com/album/0BEQQRwdZ7gh9HHTtLbUO5) | 2:42 |
-| 81 | [Giants](https://open.spotify.com/track/7ndDfDcxR4G53gR6DPHPE4) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Giants](https://open.spotify.com/album/0tA47zBZLHbTFTpmED2Cdf) | 2:50 |
+| 81 | [Giants](https://open.spotify.com/track/4HKePZqfdN6yEYCmRguce2) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Giants](https://open.spotify.com/album/6JZ4h6RhoFqoRAWw3O2MkS) | 2:50 |
 | 82 | [House On Fire](https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [House On Fire](https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O) | 2:59 |
 | 83 | [Run Run Run](https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Run Run Run](https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K) | 2:53 |
 | 84 | [BANA GÖNDER!](https://open.spotify.com/track/4L34uXdYfwRA7zTFFfajFI) | [Lvbel C5](https://open.spotify.com/artist/09ic2uid6mCDyUdFBb4N1B), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [BANA GÖNDER!](https://open.spotify.com/album/0pQazycqkeWHnSTBnW3Ich) | 2:16 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 106 | [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 |
 | 107 | [TK421](https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [TK421](https://open.spotify.com/album/7IncAEknANwQthqiwWySBP) | 3:15 |
 
-Snapshot ID: `MCxiYzg5ZWVkZTk3OTNhODM3NTgxMTlhMjNlZGI2Y2E5MjM4ZDcxNzQ1`
+Snapshot ID: `MCxhY2ZmZTY2OTk5ZmQ0ZGMyMzRmNmFkYjIyYzZjNTA0NGVjMzkwYTVj`

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 54451,
+  "num_followers": 54505,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmY2MmE3MjE5NmViM2I4NWZlNmYyZmJlMWRiYWVlZmRlZTZhMzgy",
+  "snapshot_id": "MCwwZWI5ZWVlZDk3MWMxMDFmZDNhNzk4MGZjYjk0ZmYzNTY5Mzg2YzEz",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
+        "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
+      },
+      "artists": [
+        {
+          "name": "Rivers & Robots",
+          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
+        }
+      ],
+      "duration_ms": 242120,
+      "name": "The Lion And The Lamb - Instrumental",
+      "url": "https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "What You Paid For",
         "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 249608,
       "name": "What You Paid For",
       "url": "https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
-        "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
-      },
-      "artists": [
-        {
-          "name": "Rivers & Robots",
-          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
-        }
-      ],
-      "duration_ms": 242120,
-      "name": "The Lion And The Lamb - Instrumental",
-      "url": "https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Spirit Stretch (For Christian Yoga, Relaxation and Massage)",
-        "url": "https://open.spotify.com/album/1MmYwTLBBXB1tScSdPUucb"
-      },
-      "artists": [
-        {
-          "name": "SpiritFit Music",
-          "url": "https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew"
-        }
-      ],
-      "duration_ms": 346773,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/1oh3kBFeCK4HGCHQwM5JKH"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Promise",
         "url": "https://open.spotify.com/album/0fahYrdNLIq2AZ0YRFRkcF"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 352318,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/0GX2XQoebthirwpAxC6gx5"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Spirit Stretch (For Christian Yoga, Relaxation and Massage)",
+        "url": "https://open.spotify.com/album/1MmYwTLBBXB1tScSdPUucb"
+      },
+      "artists": [
+        {
+          "name": "SpiritFit Music",
+          "url": "https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew"
+        }
+      ],
+      "duration_ms": 346773,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/1oh3kBFeCK4HGCHQwM5JKH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "playing pretend",
+        "url": "https://open.spotify.com/album/4x9YHiyWw5bbdJEeMZSSGJ"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        }
+      ],
+      "duration_ms": 236546,
+      "name": "playing pretend",
+      "url": "https://open.spotify.com/track/7fDRcqnAQvWPJ7X1Ycnkgf"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Freedom Fighter (Jimmy James Remix)",
         "url": "https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb"
       },
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "playing pretend",
-        "url": "https://open.spotify.com/album/4x9YHiyWw5bbdJEeMZSSGJ"
-      },
-      "artists": [
-        {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
-        }
-      ],
-      "duration_ms": 236546,
-      "name": "playing pretend",
-      "url": "https://open.spotify.com/track/7fDRcqnAQvWPJ7X1Ycnkgf"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Glorious Ruins",
         "url": "https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7"
       },
@@ -1355,6 +1355,22 @@
       "duration_ms": 245077,
       "name": "Glorious Ruins",
       "url": "https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "A Search for Somewhere Else",
+        "url": "https://open.spotify.com/album/0yqsLV1ezlAjFwXmvZ5tHs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Jorgensen",
+          "url": "https://open.spotify.com/artist/7ICe7sy78x2x8RhIfjj6kJ"
+        }
+      ],
+      "duration_ms": 152444,
+      "name": "A Dream Familiar",
+      "url": "https://open.spotify.com/track/0yFZ87wdLgoe0EtIh0BlgD"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1375,18 +1391,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "A Search for Somewhere Else",
-        "url": "https://open.spotify.com/album/0yqsLV1ezlAjFwXmvZ5tHs"
+        "name": "Psalm 68",
+        "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
       },
       "artists": [
         {
-          "name": "Daniel Jorgensen",
-          "url": "https://open.spotify.com/artist/7ICe7sy78x2x8RhIfjj6kJ"
+          "name": "Poor Bishop Hooper",
+          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
         }
       ],
-      "duration_ms": 152444,
-      "name": "A Dream Familiar",
-      "url": "https://open.spotify.com/track/0yFZ87wdLgoe0EtIh0BlgD"
+      "duration_ms": 252000,
+      "name": "Psalm 68",
+      "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1419,22 +1435,6 @@
       "duration_ms": 394520,
       "name": "Beckon",
       "url": "https://open.spotify.com/track/4do1jPPpGVUbOCEgMH2sB3"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Psalm 68",
-        "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
-      },
-      "artists": [
-        {
-          "name": "Poor Bishop Hooper",
-          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Psalm 68",
-      "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
     },
     {
       "added_at": "2023-07-28 04:02:00",

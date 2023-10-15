@@ -1317,7 +1317,7 @@
     },
     {
       "album": {
-        "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
+        "name": "Eleg\u00ed",
         "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
       },
       "artists": [
@@ -1340,9 +1340,9 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 197721,
-      "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
+      "name": "Eleg\u00ed",
       "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
     },
     {
@@ -3520,7 +3520,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 190654,
       "name": "PUNTO 40",
       "url": "https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1"

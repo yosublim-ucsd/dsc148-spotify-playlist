@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Offset, Ice Spice, and more\. Cover: DaBaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,665 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,762 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 44 | [Drug Bender](https://open.spotify.com/track/3ku1bgMdYThntVQJvGLM0T) | [BIGBABYGUCCI](https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs) | [When You Wake Up](https://open.spotify.com/album/4xvjo0pggImnAoGAAOUoP6) | 2:09 |
 | 45 | [Let's Do It](https://open.spotify.com/track/4Lotg7gvp8ZOL8SKReduU0) | [Lil Nuu](https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE) | [Wicked Inna RaQ](https://open.spotify.com/album/1OqZQFRbZY8La2xqUsuEeS) | 2:18 |
 | 46 | [TROOPS PT\. 2](https://open.spotify.com/track/1aYqr6NqDIsQE2P2hmn71t) | [Warhol.SS](https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62) | [TROOPS PT\. 2](https://open.spotify.com/album/3RTMGDoZP8Bv8XjTbFpXI0) | 2:45 |
-| 47 | [Nothin'](https://open.spotify.com/track/2Sagak3kpRat8crSfzv4Wx) | [Major Nine](https://open.spotify.com/artist/2Hkr2U742ustoFcSW378ZE) | [Nothin'](https://open.spotify.com/album/5Ws5MnCuzRjtmvOjsaAY3k) | 2:46 |
+| 47 | [Nothin'](https://open.spotify.com/track/2Sagak3kpRat8crSfzv4Wx) | [Major Nine](https://open.spotify.com/artist/2Hkr2U742ustoFcSW378ZE) | [Nothin'](https://open.spotify.com/album/5Ws5MnCuzRjtmvOjsaAY3k) | 2:40 |
 | 48 | [Freak Like Me](https://open.spotify.com/track/55BTqAWXmsq6K3b3JxzEVT) | [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq) | [Freak Like Me](https://open.spotify.com/album/78Mn2uFKnU5geMZzj5Yb59) | 2:01 |
 | 49 | [Faded Away](https://open.spotify.com/track/1fF9AiOcLSLV2aOklLOlaD) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Sweet Poison](https://open.spotify.com/album/0437tLp3MOu3UCpV1KKwTh) | 3:40 |
 
-Snapshot ID: `MCw3NjgxYzAzNzE2MjllZjg3NjU1YTdmNDI4MzA4NzVlMWIwZjM5Mjg5`
+Snapshot ID: `MCxhMWRjMDM1ODU4MGE5ZGNkZWM0NDk3ZGFlZDFiNzQ3NzlkNjZjNzBi`

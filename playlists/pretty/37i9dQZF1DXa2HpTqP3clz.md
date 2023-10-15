@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,298 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,348 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 37 | [Shamrock](https://open.spotify.com/track/2TgtHzz2v3jnNGZCVUXc4V) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 4:40 |
 | 38 | [Freedom](https://open.spotify.com/track/4lOjyWEkIRRuD3mdiR0yka) | [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Freedom](https://open.spotify.com/album/6FEPSiSEAwxe9FOpomdoOt) | 3:02 |
 | 39 | [Will the Circle Be Unbroken](https://open.spotify.com/track/6dpOwvczXipOQ0daK57JKW) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Easy Listening for Jerks, Pt\. 1](https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW) | 3:55 |
-| 40 | [Starting Over](https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Alpenglow](https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc) | 3:45 |
-| 41 | [Still Is Still Moving To Me](https://open.spotify.com/track/6wMnZNnO4oWJwivp0WvW2W) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Bluegrass](https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO) | 4:00 |
+| 40 | [Still Is Still Moving To Me](https://open.spotify.com/track/6wMnZNnO4oWJwivp0WvW2W) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Bluegrass](https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO) | 4:00 |
+| 41 | [Starting Over](https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Alpenglow](https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc) | 3:45 |
 | 42 | [Wake Me When It's Over](https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Wake Me When It's Over](https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz) | 4:18 |
 | 43 | [Buck Creek Girls](https://open.spotify.com/track/4k21BxdAMVfOnX3IS7yv8J) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Cinnamon Tree](https://open.spotify.com/album/0arXqCi4zIfsH1wrQeVvux) | 2:04 |
 | 44 | [21st of May](https://open.spotify.com/track/0hyhmEE6fFefO00bGN1yxD) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [A Dotted Line](https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2) | 2:47 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 96 | [Rosa Lee McFall \- Live](https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK) | [Black Mountain Boys](https://open.spotify.com/artist/1sz2PAcIPFpZR6Hpb2JMRR), [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN) | [Rosa Lee McFall \(Live\)](https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk) | 2:30 |
 | 97 | [The Trappings](https://open.spotify.com/track/0gzzJTHTrLcPl6dUwROF7Z) | [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Not Our First Goat Rodeo](https://open.spotify.com/album/4NDXeXypRq8YdFCKqg4sAn) | 3:39 |
 | 98 | [Fall Like Rain](https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX) | [Justin Moses](https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola) | [Fall Like Rain](https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY) | 4:22 |
-| 99 | [The Whole of the Moon](https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs) | [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I) | [The Whole of the Moon](https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC) | 4:42 |
-| 100 | [Alive With You](https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Open The Road](https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx) | 2:58 |
+| 99 | [Alive With You](https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Open The Road](https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx) | 2:58 |
+| 100 | [The Whole of the Moon](https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs) | [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I) | [The Whole of the Moon](https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC) | 4:42 |
 
-Snapshot ID: `MCw0MGMzY2IxOGM4YTQ3NTg1MWZjMDExMDc1NDI1N2YwYzdlMjdjZGM5`
+Snapshot ID: `MCw5ZjQ2YzU4MGVlZDFjOWQ4NDc1ZWNmMDkxZWI4Mzc0MDY5MmVjNWQw`

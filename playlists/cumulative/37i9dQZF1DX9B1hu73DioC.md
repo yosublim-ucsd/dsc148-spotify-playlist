@@ -4,7 +4,7 @@
 
 > Vibey indie tracks for just hanging out.
 
-704 songs - 1 day 18 hr 15 min
+705 songs - 1 day 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Concorde](https://open.spotify.com/track/0y5akbuW5mCnnUe71xATpe) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 6:03 | 2023-04-06 | 2023-05-24 |
 | [concrete](https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [concrete](https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT) | 3:32 | 2021-10-15 | 2023-09-16 |
 | [Confirmation](https://open.spotify.com/track/4zdxEDc8QbBjFjcvTVeu6r) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Confirmation](https://open.spotify.com/album/7IUUJtvJZxYtIscQQXdQta) | 3:29 | 2020-10-20 | 2022-04-23 |
+| [Confirmation](https://open.spotify.com/track/6erM0iK1QJH7Qaw29Vzqow) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Confirmation / I Turned Away](https://open.spotify.com/album/7nC3k0PpLQ1MVsmcB7xTl4) | 3:29 | 2023-09-29 |  |
 | [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 | 2023-03-06 |  |
 | [Cool Blue](https://open.spotify.com/track/0Lbe98RKWwBbu1sipPSa4n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Clean](https://open.spotify.com/album/4T1o6BUMpITeK7DfE5qZqp) | 3:51 | 2020-12-08 | 2022-04-20 |
 | [Copilot](https://open.spotify.com/track/1sK4hNmwCZNW4w4Z2NAnHh) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [Copilot](https://open.spotify.com/album/1U3WRjASyoLl8j8ccTnzFZ) | 4:03 | 2020-10-05\* | 2022-04-21 |
@@ -593,7 +594,7 @@
 | [Sunshine Baby](https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sunshine Baby](https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI) | 3:39 | 2023-05-19 | 2023-05-24 |
 | [Sunshine Baby](https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:39 | 2023-09-15 |  |
 | [Sweet](https://open.spotify.com/track/3VSYkAf6f46i5ZkXOHORq1) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:51 | 2021-03-14 | 2022-11-09 |
-| [Sweet Bonita](https://open.spotify.com/track/6HeCWexSUG87Uok9hsrE83) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [Sweet Bonita](https://open.spotify.com/album/3NWL1BcgIHGMj6oWozBLt0) | 3:09 | 2023-07-12 |  |
+| [Sweet Bonita](https://open.spotify.com/track/6HeCWexSUG87Uok9hsrE83) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [Sweet Bonita](https://open.spotify.com/album/3NWL1BcgIHGMj6oWozBLt0) | 3:09 | 2023-07-12 | 2023-10-15 |
 | [T Love \- Extended](https://open.spotify.com/track/1qmBJijlYA148svgU0herL) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift \(Deluxe\)](https://open.spotify.com/album/19ozV4Q1V0zC1KYBlnwbHU) | 5:59 | 2023-09-15 | 2023-10-04 |
 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 | 2020-10-16 |  |
 | [Take Me Down](https://open.spotify.com/track/0bMYQjhqOV3CoqE7OcRIBv) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [A Little Disaster](https://open.spotify.com/album/2qioFepYwtRRzdP91fGsj5) | 4:03 | 2023-04-14 | 2023-04-22 |

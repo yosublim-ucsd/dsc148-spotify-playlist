@@ -1,12 +1,12 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 314131,
+  "num_followers": 314328,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTQzYWZhNWY5YTQyNzk5MDczNmMzMzc0NjdiNmI2ZTM3Y2FiZTQ5",
+  "snapshot_id": "MCwyOTU3ZGYwM2Y1Mjk2NDJjYWM0ZDZjYTJiYjBjYTNiMGIxM2FkNzZi",
   "tracks": [
     {
       "added_at": "2023-10-13 15:17:44",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-10-13 15:17:44",
       "album": {
+        "name": "O Tamanho da Tua Dor",
+        "url": "https://open.spotify.com/album/2mhTrOtvd1RBNPKamuICTg"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "O Tamanho da Tua Dor",
+      "url": "https://open.spotify.com/track/2mDecxwnK1KzuDonVfYL90"
+    },
+    {
+      "added_at": "2023-10-13 15:17:44",
+      "album": {
         "name": "Momentos (Vol.1)",
         "url": "https://open.spotify.com/album/5OBBURED8xXfMnTSeraLrY"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2023-10-13 15:17:44",
       "album": {
-        "name": "O Tamanho da Tua Dor",
-        "url": "https://open.spotify.com/album/2mhTrOtvd1RBNPKamuICTg"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "O Tamanho da Tua Dor",
-      "url": "https://open.spotify.com/track/2mDecxwnK1KzuDonVfYL90"
-    },
-    {
-      "added_at": "2023-10-13 15:17:44",
-      "album": {
         "name": "Nada Al\u00e9m da Gra\u00e7a",
         "url": "https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-10-13 15:17:44",
       "album": {
-        "name": "Extraordin\u00e1rio Amor de Deus",
-        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 343051,
-      "name": "Ressuscita-me",
-      "url": "https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB"
-    },
-    {
-      "added_at": "2023-10-13 15:17:44",
-      "album": {
         "name": "Ele N\u00e3o Desiste de Voc\u00ea",
         "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 290763,
       "name": "Ele N\u00e3o Desiste de Voc\u00ea",
       "url": "https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X"
+    },
+    {
+      "added_at": "2023-10-13 15:17:44",
+      "album": {
+        "name": "Extraordin\u00e1rio Amor de Deus",
+        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 343051,
+      "name": "Ressuscita-me",
+      "url": "https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB"
     },
     {
       "added_at": "2023-10-13 15:17:44",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-10-13 15:17:44",
       "album": {
+        "name": "Todavia Me Alegrarei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6grrI3Rm6L9SqRbGDqJ7xP"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 291386,
+      "name": "Todavia Me Alegrarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/0BUKz3V1yW6HPVzYuXlUIU"
+    },
+    {
+      "added_at": "2023-10-13 15:17:44",
+      "album": {
         "name": "Entre Amigos",
         "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 197800,
       "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
       "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
-    },
-    {
-      "added_at": "2023-10-13 15:17:44",
-      "album": {
-        "name": "Todavia Me Alegrarei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6grrI3Rm6L9SqRbGDqJ7xP"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 291386,
-      "name": "Todavia Me Alegrarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/0BUKz3V1yW6HPVzYuXlUIU"
     },
     {
       "added_at": "2023-10-13 15:17:44",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2023-10-13 15:17:44",
       "album": {
+        "name": "Port\u00f5es Celestiais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/574eXP5AevEROvGHuUdGSv"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        },
+        {
+          "name": "Matheus Trindade",
+          "url": "https://open.spotify.com/artist/0Ymz1ExCtpFOHsNDa5JeyL"
+        }
+      ],
+      "duration_ms": 350226,
+      "name": "Port\u00f5es Celestiais - Ao Vivo",
+      "url": "https://open.spotify.com/track/5b3OazQ41nLo3CNeuLyMPA"
+    },
+    {
+      "added_at": "2023-10-13 15:17:44",
+      "album": {
         "name": "Fornalha Laura Souguellis",
         "url": "https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW"
       },
@@ -1139,6 +1159,26 @@
     {
       "added_at": "2023-10-13 15:17:44",
       "album": {
+        "name": "Al\u00e9m do Imposs\u00edvel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3DKovkIoXI4UXbJnp8i3pu"
+      },
+      "artists": [
+        {
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 266086,
+      "name": "Al\u00e9m do Imposs\u00edvel - Ao Vivo",
+      "url": "https://open.spotify.com/track/1nuW79gsHvrnt281HVKQBO"
+    },
+    {
+      "added_at": "2023-10-13 15:17:44",
+      "album": {
         "name": "Quebrantado Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
       },
@@ -1151,22 +1191,6 @@
       "duration_ms": 259691,
       "name": "Esp\u00edrito Santo",
       "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
-    },
-    {
-      "added_at": "2023-10-13 15:17:44",
-      "album": {
-        "name": "Esconderijo",
-        "url": "https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh"
-      },
-      "artists": [
-        {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
-        }
-      ],
-      "duration_ms": 296147,
-      "name": "Deus de Detalhes",
-      "url": "https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq"
     },
     {
       "added_at": "2023-10-13 15:17:44",
@@ -1187,42 +1211,18 @@
     {
       "added_at": "2023-10-13 15:17:44",
       "album": {
-        "name": "Port\u00f5es Celestiais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/574eXP5AevEROvGHuUdGSv"
+        "name": "Esconderijo",
+        "url": "https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh"
       },
       "artists": [
         {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        },
-        {
-          "name": "Matheus Trindade",
-          "url": "https://open.spotify.com/artist/0Ymz1ExCtpFOHsNDa5JeyL"
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
         }
       ],
-      "duration_ms": 350226,
-      "name": "Port\u00f5es Celestiais - Ao Vivo",
-      "url": "https://open.spotify.com/track/5b3OazQ41nLo3CNeuLyMPA"
-    },
-    {
-      "added_at": "2023-10-13 15:17:44",
-      "album": {
-        "name": "Al\u00e9m do Imposs\u00edvel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3DKovkIoXI4UXbJnp8i3pu"
-      },
-      "artists": [
-        {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 266086,
-      "name": "Al\u00e9m do Imposs\u00edvel - Ao Vivo",
-      "url": "https://open.spotify.com/track/1nuW79gsHvrnt281HVKQBO"
+      "duration_ms": 296147,
+      "name": "Deus de Detalhes",
+      "url": "https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq"
     },
     {
       "added_at": "2023-10-13 15:17:44",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-10-13 15:17:44",
       "album": {
-        "name": "Deus e Eu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5J8hASVOsKFLqaQin10oab"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Deus e Eu - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Uan5GD1uZ1b6ivgt7ODsp"
-    },
-    {
-      "added_at": "2023-10-13 15:17:44",
-      "album": {
         "name": "H\u00e1 Um Vinho Novo",
         "url": "https://open.spotify.com/album/0W1v4pLLRqIU5SOMrcqK80"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 314640,
       "name": "No Sil\u00eancio",
       "url": "https://open.spotify.com/track/5uWsP8qTYiCLycyFxf9pYE"
+    },
+    {
+      "added_at": "2023-10-13 15:17:44",
+      "album": {
+        "name": "Deus e Eu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5J8hASVOsKFLqaQin10oab"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Deus e Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Uan5GD1uZ1b6ivgt7ODsp"
     },
     {
       "added_at": "2023-10-13 15:17:44",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2023-10-13 15:17:44",
       "album": {
-        "name": "Entre Amigos",
-        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3o L\u00e1zaro",
-          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
-        },
-        {
-          "name": "Damaris Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Deus Vai Fazer (feat. Damaris Brand\u00e3o)",
-      "url": "https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp"
-    },
-    {
-      "added_at": "2023-10-13 15:17:44",
-      "album": {
         "name": "Conquistando O Imposs\u00edvel",
         "url": "https://open.spotify.com/album/1oqWPqtbHvtiP4o8EmxQ9y"
       },
@@ -1439,22 +1419,6 @@
       "duration_ms": 268426,
       "name": "Conquistando o Imposs\u00edvel",
       "url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO"
-    },
-    {
-      "added_at": "2023-10-13 15:17:44",
-      "album": {
-        "name": "O Nome de Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 528693,
-      "name": "O Nome de Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX"
     },
     {
       "added_at": "2023-10-13 15:17:44",
@@ -1479,18 +1443,42 @@
     {
       "added_at": "2023-10-13 15:17:44",
       "album": {
-        "name": "Tudo a Ver Com Ele",
-        "url": "https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn"
+        "name": "Entre Amigos",
+        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
       },
       "artists": [
         {
-          "name": "Central 3",
-          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
+          "name": "Irm\u00e3o L\u00e1zaro",
+          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
+        },
+        {
+          "name": "Damaris Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo"
         }
       ],
-      "duration_ms": 385063,
-      "name": "Tudo a Ver Com Ele",
-      "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
+      "duration_ms": 215666,
+      "name": "Deus Vai Fazer (feat. Damaris Brand\u00e3o)",
+      "url": "https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp"
+    },
+    {
+      "added_at": "2023-10-13 15:17:44",
+      "album": {
+        "name": "Inexplic\u00e1vel Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 337896,
+      "name": "Inexplic\u00e1vel Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm"
     },
     {
       "added_at": "2023-10-13 15:17:44",
@@ -1507,6 +1495,22 @@
       "duration_ms": 398562,
       "name": "Para Que Entre o Rei - Ao Vivo",
       "url": "https://open.spotify.com/track/2c8UiaOBa5eWB5eVIMpAna"
+    },
+    {
+      "added_at": "2023-10-13 15:17:44",
+      "album": {
+        "name": "Tudo a Ver Com Ele",
+        "url": "https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn"
+      },
+      "artists": [
+        {
+          "name": "Central 3",
+          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
+        }
+      ],
+      "duration_ms": 385063,
+      "name": "Tudo a Ver Com Ele",
+      "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
     },
     {
       "added_at": "2023-10-13 15:17:44",
@@ -1607,26 +1611,6 @@
     {
       "added_at": "2023-10-13 15:17:44",
       "album": {
-        "name": "ASSIM SEJA",
-        "url": "https://open.spotify.com/album/7Bel1Ka4jSYFXlckOLJFsu"
-      },
-      "artists": [
-        {
-          "name": "AM\u00c9M",
-          "url": "https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP"
-        },
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        }
-      ],
-      "duration_ms": 362666,
-      "name": "Estremece a Terra",
-      "url": "https://open.spotify.com/track/4dAXUOXLtF5Tj5BQZ65zug"
-    },
-    {
-      "added_at": "2023-10-13 15:17:44",
-      "album": {
         "name": "Alfa e \u00d4mega",
         "url": "https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo"
       },
@@ -1655,6 +1639,26 @@
       "duration_ms": 325533,
       "name": "Qu\u00e3o Grande \u00e9 o Meu Deus",
       "url": "https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd"
+    },
+    {
+      "added_at": "2023-10-13 15:17:44",
+      "album": {
+        "name": "ASSIM SEJA",
+        "url": "https://open.spotify.com/album/7Bel1Ka4jSYFXlckOLJFsu"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M",
+          "url": "https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP"
+        },
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        }
+      ],
+      "duration_ms": 362666,
+      "name": "Estremece a Terra",
+      "url": "https://open.spotify.com/track/4dAXUOXLtF5Tj5BQZ65zug"
     },
     {
       "added_at": "2023-10-13 15:17:44",
@@ -1995,22 +1999,6 @@
     {
       "added_at": "2023-10-13 15:17:44",
       "album": {
-        "name": "In Concert (Ao Vivo)",
-        "url": "https://open.spotify.com/album/27qwBuiWJptuALWu9zCFt5"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 487277,
-      "name": "Santo pra Sempre - Ao Vivo",
-      "url": "https://open.spotify.com/track/2jCAyhO8rDrechp8ekD9TT"
-    },
-    {
-      "added_at": "2023-10-13 15:17:44",
-      "album": {
         "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
         "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
       },
@@ -2023,6 +2011,22 @@
       "duration_ms": 258146,
       "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
       "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
+    },
+    {
+      "added_at": "2023-10-13 15:17:44",
+      "album": {
+        "name": "In Concert (Ao Vivo)",
+        "url": "https://open.spotify.com/album/27qwBuiWJptuALWu9zCFt5"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 487277,
+      "name": "Santo pra Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/2jCAyhO8rDrechp8ekD9TT"
     },
     {
       "added_at": "2023-10-13 15:17:44",
@@ -2083,18 +2087,22 @@
     {
       "added_at": "2023-10-13 15:17:44",
       "album": {
-        "name": "Tua Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
+        "name": "Te Esperamos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6NmhKn0mgP7UGM64S3LcsU"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+          "name": "Salvaon",
+          "url": "https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG"
+        },
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
         }
       ],
-      "duration_ms": 320186,
-      "name": "Tua Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
+      "duration_ms": 404218,
+      "name": "Jo\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/280qovSfG0KrkUt45pfnkV"
     }
   ],
   "unique_name": "Louvando no Tr\u00e2nsito",

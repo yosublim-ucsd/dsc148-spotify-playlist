@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 137953,
+  "num_followers": 137985,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Nzg4MTQ0ZWY1MDA3YTgxMzdkYmQxYzU5MzRjODNkMjY3MzM2NWEy",
+  "snapshot_id": "MCw3ZDkzYTU2MjJmMjU2OWZhOTQ0NjJmYjA1OTgxYWM4YmUyMjA3YjZj",
   "tracks": [
     {
       "added_at": "2023-08-15 12:19:30",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
       },
       "artists": [
         {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 178560,
-      "name": "I Feel the Earth Move",
-      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Collected",
         "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 238000,
       "name": "Cherish - Single Version",
       "url": "https://open.spotify.com/track/2yCAGizViD7HZXwNYxJToQ"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "I Feel the Earth Move",
+      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Feel Like Makin' Love",
-        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "Feel Like Makin' Love",
-      "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 194427,
       "name": "Who Is He (And What Is He to You)?",
       "url": "https://open.spotify.com/track/1KywyxekfDEp3Ym7YP7S25"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Feel Like Makin' Love",
+        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "Feel Like Makin' Love",
+      "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "The Baby Huey Story: The Living Legend",
+        "url": "https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T"
+      },
+      "artists": [
+        {
+          "name": "Baby Huey",
+          "url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Take from Me",
         "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
       },
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Baby Huey Story: The Living Legend",
-        "url": "https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T"
-      },
-      "artists": [
-        {
-          "name": "Baby Huey",
-          "url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -1343,22 +1343,6 @@
       "duration_ms": 197346,
       "name": "Right As Rain",
       "url": "https://open.spotify.com/track/6oW04c2E7lebl09WHsBAWO"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 316160,
-      "name": "On Broadway",
-      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1391,6 +1375,22 @@
       "duration_ms": 250866,
       "name": "Baby, This Love I Have",
       "url": "https://open.spotify.com/track/397fxHew7NyjryGWGr1Imy"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 316160,
+      "name": "On Broadway",
+      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Ride Your Pony",
-        "url": "https://open.spotify.com/album/7AmWUlNaYvQlK8UqmD4tvF"
-      },
-      "artists": [
-        {
-          "name": "Lee Dorsey",
-          "url": "https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js"
-        }
-      ],
-      "duration_ms": 146266,
-      "name": "Get out of My Life Woman",
-      "url": "https://open.spotify.com/track/6DNgKv1sWH2505Z5SAqAXr"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Best Of Bobby Womack - The Soul Years",
         "url": "https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 224546,
       "name": "Across 110th Street",
       "url": "https://open.spotify.com/track/3E0dHzJ1WIkm58RhJAe13n"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Ride Your Pony",
+        "url": "https://open.spotify.com/album/7AmWUlNaYvQlK8UqmD4tvF"
+      },
+      "artists": [
+        {
+          "name": "Lee Dorsey",
+          "url": "https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js"
+        }
+      ],
+      "duration_ms": 146266,
+      "name": "Get out of My Life Woman",
+      "url": "https://open.spotify.com/track/6DNgKv1sWH2505Z5SAqAXr"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2451,6 +2451,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "The Essential Bill Withers",
+        "url": "https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/1k2ybm1oz7rVPchTKCgMMz"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Wake Up!",
         "url": "https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP"
       },
@@ -2471,18 +2487,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Essential Bill Withers",
-        "url": "https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ"
+        "name": "Hey, Love",
+        "url": "https://open.spotify.com/album/3XW1kRGE11W8COttJYbCk9"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "Rotary Connection",
+          "url": "https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va"
         }
       ],
-      "duration_ms": 222533,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/1k2ybm1oz7rVPchTKCgMMz"
+      "duration_ms": 344560,
+      "name": "I Am The Black Gold Of The Sun - Remastered",
+      "url": "https://open.spotify.com/track/520qcJGrYM0HORZ5LsYg2K"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2499,22 +2515,6 @@
       "duration_ms": 270200,
       "name": "You're Gonna Need Me",
       "url": "https://open.spotify.com/track/5ezYm2LkW25YhkkTp7bC9u"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Hey, Love",
-        "url": "https://open.spotify.com/album/3XW1kRGE11W8COttJYbCk9"
-      },
-      "artists": [
-        {
-          "name": "Rotary Connection",
-          "url": "https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va"
-        }
-      ],
-      "duration_ms": 344560,
-      "name": "I Am The Black Gold Of The Sun - Remastered",
-      "url": "https://open.spotify.com/track/520qcJGrYM0HORZ5LsYg2K"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2699,22 +2699,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Stax Chartbusters, Vol. 1",
-        "url": "https://open.spotify.com/album/4oEYZnyz2yqpWjjBcq7xLk"
-      },
-      "artists": [
-        {
-          "name": "Mel & Tim",
-          "url": "https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "Starting All Over Again",
-      "url": "https://open.spotify.com/track/7kFRgT3KKxU1y7USF8ZzIX"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Spirit in the Dark",
         "url": "https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO"
       },
@@ -2727,6 +2711,22 @@
       "duration_ms": 243826,
       "name": "Spirit in the Dark",
       "url": "https://open.spotify.com/track/1wGvueGYFPUmQUtVglgcPt"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Stax Chartbusters, Vol. 1",
+        "url": "https://open.spotify.com/album/4oEYZnyz2yqpWjjBcq7xLk"
+      },
+      "artists": [
+        {
+          "name": "Mel & Tim",
+          "url": "https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "Starting All Over Again",
+      "url": "https://open.spotify.com/track/7kFRgT3KKxU1y7USF8ZzIX"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2827,22 +2827,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Best Of William Bell",
-        "url": "https://open.spotify.com/album/3qOZr2tczUvMFciKLk6lzb"
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
       },
       "artists": [
         {
-          "name": "William Bell",
-          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
-        },
-        {
-          "name": "Judy Clay",
-          "url": "https://open.spotify.com/artist/6Bez6xFXAhRw4XTYVhUekp"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 160933,
-      "name": "Private Number",
-      "url": "https://open.spotify.com/track/0j0NJyTIMkozPchYkvGoOS"
+      "duration_ms": 141626,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/7mvKpoeI6sq6osDtSb9xcF"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2867,6 +2863,26 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "The Best Of William Bell",
+        "url": "https://open.spotify.com/album/3qOZr2tczUvMFciKLk6lzb"
+      },
+      "artists": [
+        {
+          "name": "William Bell",
+          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
+        },
+        {
+          "name": "Judy Clay",
+          "url": "https://open.spotify.com/artist/6Bez6xFXAhRw4XTYVhUekp"
+        }
+      ],
+      "duration_ms": 160933,
+      "name": "Private Number",
+      "url": "https://open.spotify.com/track/0j0NJyTIMkozPchYkvGoOS"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "The Best Of Joss Stone 2003 - 2009",
         "url": "https://open.spotify.com/album/6Z8HL0drVRDIGrqIrSM1Ad"
       },
@@ -2879,22 +2895,6 @@
       "duration_ms": 219506,
       "name": "Fell In Love With A Boy",
       "url": "https://open.spotify.com/track/4FEAmHZ3UXRAzP5354CErS"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 141626,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/7mvKpoeI6sq6osDtSb9xcF"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2915,22 +2915,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Second to None",
-        "url": "https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH"
-      },
-      "artists": [
-        {
-          "name": "Sam Dees",
-          "url": "https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Win Or Lose",
-      "url": "https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Essential Patti LaBelle",
         "url": "https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3"
       },
@@ -2943,6 +2927,22 @@
       "duration_ms": 300120,
       "name": "Love, Need And Want You",
       "url": "https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Second to None",
+        "url": "https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH"
+      },
+      "artists": [
+        {
+          "name": "Sam Dees",
+          "url": "https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Win Or Lose",
+      "url": "https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3011,22 +3011,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Body Heat",
-        "url": "https://open.spotify.com/album/3lvSxvMmdUz694tDBXkPmv"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 238866,
-      "name": "Body Heat",
-      "url": "https://open.spotify.com/track/0OLOcKHN4uXRo5ISx2TAqk"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "How Do You Do",
         "url": "https://open.spotify.com/album/5pFEKvjZm4W8NSAS5VzmiR"
       },
@@ -3043,18 +3027,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Lovestreet 55",
-        "url": "https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH"
+        "name": "Body Heat",
+        "url": "https://open.spotify.com/album/3lvSxvMmdUz694tDBXkPmv"
       },
       "artists": [
         {
-          "name": "Boaz",
-          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
         }
       ],
-      "duration_ms": 238013,
-      "name": "Lovestreet 55",
-      "url": "https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1"
+      "duration_ms": 238866,
+      "name": "Body Heat",
+      "url": "https://open.spotify.com/track/0OLOcKHN4uXRo5ISx2TAqk"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3071,6 +3055,22 @@
       "duration_ms": 192226,
       "name": "Crystal Ball (In the Cupboard)",
       "url": "https://open.spotify.com/track/3um8vOZ8XxTeSvxHneXvgG"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Lovestreet 55",
+        "url": "https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH"
+      },
+      "artists": [
+        {
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "Lovestreet 55",
+      "url": "https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3159,22 +3159,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Loose Fit",
-        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "Traffic Jam",
-      "url": "https://open.spotify.com/track/3cKMxZt3WTp0tIiF3j2rX3"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
         "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
       },
@@ -3187,6 +3171,22 @@
       "duration_ms": 170066,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Loose Fit",
+        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Traffic Jam",
+      "url": "https://open.spotify.com/track/3cKMxZt3WTp0tIiF3j2rX3"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3243,22 +3243,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Say That To Say This",
-        "url": "https://open.spotify.com/album/2cyzBFOHQep4sOuKHpTaBq"
-      },
-      "artists": [
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        }
-      ],
-      "duration_ms": 247533,
-      "name": "Long Weekend",
-      "url": "https://open.spotify.com/track/0BLyr2LI3CJACYcP6xbFMY"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Boss Man",
         "url": "https://open.spotify.com/album/3TJXaEUG0E8Tvex7tAzlCK"
       },
@@ -3271,6 +3255,22 @@
       "duration_ms": 190680,
       "name": "Have A Heart",
       "url": "https://open.spotify.com/track/3krDSP5K5hAKEIOXuxXXH2"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Say That To Say This",
+        "url": "https://open.spotify.com/album/2cyzBFOHQep4sOuKHpTaBq"
+      },
+      "artists": [
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "Long Weekend",
+      "url": "https://open.spotify.com/track/0BLyr2LI3CJACYcP6xbFMY"
     },
     {
       "added_at": "2023-08-15 12:19:30",

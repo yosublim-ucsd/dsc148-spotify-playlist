@@ -1,12 +1,12 @@
 {
   "description": "Hated is out! Foto: YUNGBLUD",
-  "num_followers": 62906,
+  "num_followers": 62978,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmU3YTc4NjAwYmM5YTljMTcxYWY3NmU5YTg3YmQ2OTJhNWZhZjI4",
+  "snapshot_id": "MCw5ZjFkMjlmOWZiZGY1Mzc5M2VkNThkN2IxMDEzZDdhMDc4NWQzMmM0",
   "tracks": [
     {
       "added_at": "2023-10-13 14:48:57",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-10-13 14:48:57",
       "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 211197,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
+    },
+    {
+      "added_at": "2023-10-13 14:48:57",
+      "album": {
         "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
         "url": "https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 182706,
       "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
       "url": "https://open.spotify.com/track/2BtFhZlm9Sz5FAiYIjChUl"
-    },
-    {
-      "added_at": "2023-10-13 14:48:57",
-      "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 211197,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
     },
     {
       "added_at": "2023-10-13 14:48:57",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-10-13 14:48:57",
       "album": {
-        "name": "MONO",
-        "url": "https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Punisher",
-      "url": "https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY"
-    },
-    {
-      "added_at": "2023-10-13 14:48:57",
-      "album": {
         "name": "Kiss Ur Face Forever",
         "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
       },
@@ -547,22 +531,6 @@
     {
       "added_at": "2023-10-13 14:48:57",
       "album": {
-        "name": "Normalize",
-        "url": "https://open.spotify.com/album/2OcYtSpeR9ZbYp2hKklfEc"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 259868,
-      "name": "Normalize",
-      "url": "https://open.spotify.com/track/6JPSFBLbPDHijTwrUtMhwA"
-    },
-    {
-      "added_at": "2023-10-13 14:48:57",
-      "album": {
         "name": "Three Minutes More",
         "url": "https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX"
       },
@@ -579,6 +547,38 @@
       "duration_ms": 203536,
       "name": "Three Minutes More",
       "url": "https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3"
+    },
+    {
+      "added_at": "2023-10-13 14:48:57",
+      "album": {
+        "name": "MONO",
+        "url": "https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Punisher",
+      "url": "https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY"
+    },
+    {
+      "added_at": "2023-10-13 14:48:57",
+      "album": {
+        "name": "Normalize",
+        "url": "https://open.spotify.com/album/2OcYtSpeR9ZbYp2hKklfEc"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 259868,
+      "name": "Normalize",
+      "url": "https://open.spotify.com/track/6JPSFBLbPDHijTwrUtMhwA"
     },
     {
       "added_at": "2023-10-13 14:48:57",

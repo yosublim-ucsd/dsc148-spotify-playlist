@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: John Morgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,894 likes - 200 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,978 likes - 200 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 9 | [Melt](https://open.spotify.com/track/1clurKfZZ1ScMCJIb6RUck) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Melt](https://open.spotify.com/album/2y0nOvxDP9sQ4fwUvUKM45) | 3:27 |
 | 10 | [Things I Can’t Control \(feat\. Dierks Bentley\)](https://open.spotify.com/track/02OytpNFGDvgNbSBsEA1i5) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Compadres](https://open.spotify.com/album/30Hv87h6YnguGftgOLE6qh) | 5:09 |
 | 11 | [Slow Lane Life](https://open.spotify.com/track/2xaA80MZOD4DE7YUSTwA8u) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Slow Lane Life](https://open.spotify.com/album/2dcsK0TmJnmaLECn2iGZw7) | 2:46 |
-| 12 | [Karma On The Rocks](https://open.spotify.com/track/0595jMHSKb5tUDqm2UDT14) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Karma On The Rocks](https://open.spotify.com/album/1aMBGVdB90h5TjJetswHic) | 3:03 |
+| 12 | [Karma On The Rocks](https://open.spotify.com/track/0595jMHSKb5tUDqm2UDT14) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Karma On The Rocks](https://open.spotify.com/album/1aMBGVdB90h5TjJetswHic) | 3:04 |
 | 13 | [Out of State Plates](https://open.spotify.com/track/5KHYZM4xEQUweHkQkiyb8S) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Out of State Plates](https://open.spotify.com/album/53fAugy2IwwzSlqmw21GVx) | 2:43 |
 | 14 | [Down In My Hometown](https://open.spotify.com/track/0uM9mkhR2pie5DQIfGBVjt) | [Harper Grace](https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5) | [Down In My Hometown](https://open.spotify.com/album/0hviKwh8tbRjMTTAruxBVL) | 3:10 |
 | 15 | [Wanderin' arounders](https://open.spotify.com/track/6LjH5UOVlRV79JBH68Oqtj) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Dear Me](https://open.spotify.com/album/06tODvTM3ow58i4pVy71M7) | 3:33 |
 | 16 | [Life Without You](https://open.spotify.com/track/1YbJ36vb1NI1wKPrylkrRu) | [The Tuten Brothers](https://open.spotify.com/artist/1SKdnfGF5KypZsRJCb7M7h) | [Life Without You](https://open.spotify.com/album/1XTExLYIaQv489gT98KCfP) | 2:51 |
-| 17 | [texas hold 'em.](https://open.spotify.com/track/4LgLudzcFPzho9RQh5iYve) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [Second Wife](https://open.spotify.com/album/6ozGfS9Cyd684kJhm3PRLI) | 2:43 |
+| 17 | [texas hold 'em.](https://open.spotify.com/track/4LgLudzcFPzho9RQh5iYve) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [second wife](https://open.spotify.com/album/6ozGfS9Cyd684kJhm3PRLI) | 2:43 |
 | 18 | [Fight](https://open.spotify.com/track/5E1sCWlVUA6nNqvCwN7Hij) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [Fight](https://open.spotify.com/album/6X0qAlTzZymQvem40fB0fo) | 3:36 |
 | 19 | [Highway Cry](https://open.spotify.com/track/54tuUXHqSQT7edmo7XaVfh) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [First To Hit The Road \(sampler\)](https://open.spotify.com/album/52cmCGJB586XD6sm0rpv8r) | 3:06 |
 | 20 | [Bar Like This](https://open.spotify.com/track/6ozNMO8sQsNbfVCo9WX8Of) | [Brooks Hoffman](https://open.spotify.com/artist/211ei7mBKVPTmpm023Em6Q) | [Bar Like This](https://open.spotify.com/album/5SMrfN5muNqqo3yVtLheEL) | 2:53 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 199 | [Just Like Us](https://open.spotify.com/track/3al1r7yWb8KoaX7IOCmwbX) | [Jordan James](https://open.spotify.com/artist/0qyWIv7Hdewfhqc1ozedrh) | [Just Like Us](https://open.spotify.com/album/1GTIsu7qhVmm2j07hpaCnH) | 2:43 |
 | 200 | [Back to My Place](https://open.spotify.com/track/2dZPgMNCaguLPt3braiGj0) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Back to My Place](https://open.spotify.com/album/4DSt9zVyd8eLeQGLyOBz4s) | 4:22 |
 
-Snapshot ID: `MCwyYmMzMTliZWVjZTkwZjk1MzZhNWQ1YzljZDY4NzEzZmEyOGM2MjNh`
+Snapshot ID: `MCw2NDNmN2Y5ODBiN2Y0MThhYzE4NzJiYTU0YjY0ZThhN2NiODY1ZjAx`

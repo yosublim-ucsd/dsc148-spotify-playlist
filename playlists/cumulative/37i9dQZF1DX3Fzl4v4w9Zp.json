@@ -2043,20 +2043,24 @@
     },
     {
       "album": {
-        "name": "Dirt Bike",
+        "name": "Dirt Bike (feat. Andrea Kukuly Uriarte)",
         "url": "https://open.spotify.com/album/1nSFYhxHnBvrwrUHwANAXW"
       },
       "artists": [
         {
           "name": "Adeem the Artist",
           "url": "https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj"
+        },
+        {
+          "name": "Andrea Kukuly Uriarte",
+          "url": "https://open.spotify.com/artist/5RBnd1QU744YvLMRf458SS"
         }
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212211,
-      "name": "Dirt Bike",
+      "name": "Dirt Bike (feat. Andrea Kukuly Uriarte)",
       "url": "https://open.spotify.com/track/60rT7xqMegRkR2Sq4JIfHw"
     },
     {

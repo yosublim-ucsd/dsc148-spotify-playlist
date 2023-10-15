@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: Zach Bryan
 
-880 songs - 2 day 0 hr 45 min
+881 songs - 2 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,7 +491,8 @@
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-21 | 2022-03-26 |
 | [Lonely](https://open.spotify.com/track/0NMS0WFFMlNhEkJKuXfddr) | [Desiree Dawson](https://open.spotify.com/artist/1BeMe0yy4Sqo29rnqkZ1tc) | [Lonely](https://open.spotify.com/album/2UPii1T7OEUaBHwINMykwN) | 3:14 | 2023-02-10 | 2023-03-18 |
 | [Lonely Weather](https://open.spotify.com/track/2yPQWQes9YBC3p6iYzKLjy) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Tíu](https://open.spotify.com/album/0yNVKAPulUVLcWDdvyazvN) | 5:07 | 2022-06-10 | 2022-07-16 |
-| [Long Goodbye](https://open.spotify.com/track/16DVu0Kqj2RpmiCuLpqRQp) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/7JXHOJzHPh43y5gxDHoV97) | 4:23 | 2023-09-08 |  |
+| [Long Goodbye](https://open.spotify.com/track/16DVu0Kqj2RpmiCuLpqRQp) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/7JXHOJzHPh43y5gxDHoV97) | 4:23 | 2023-09-08 | 2023-10-15 |
+| [Long Goodbye](https://open.spotify.com/track/5HFouuI6G4RNFoQFnr0cOU) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/1FY6Ov9aGkNEhXa7GbeRwM) | 4:23 | 2023-10-13 |  |
 | [Long Time](https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:16 | 2022-07-22 | 2022-08-20 |
 | [Long Time](https://open.spotify.com/track/3seGRR8Uusj0vClRSbVCjI) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Better When We're Falling Apart](https://open.spotify.com/album/0f2Ym8hI7QskvmmkJLSLTy) | 3:16 | 2021-12-17 | 2022-07-29 |
 | [Long Way 'Round](https://open.spotify.com/track/0mmhjGwRqZ5tTVYxF2ewpb) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Long Way 'Round](https://open.spotify.com/album/4uUuLVYP7mwMRvovExURYk) | 4:05 | 2022-03-18 | 2022-04-02 |

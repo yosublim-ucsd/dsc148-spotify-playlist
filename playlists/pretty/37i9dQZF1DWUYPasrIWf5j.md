@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 
 > Instrumental covers of favourites played on ukulele.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,603 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,647 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 67 | [Señorita](https://open.spotify.com/track/6UtasvGN57nLSQURZzSMYh) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Señorita](https://open.spotify.com/album/2gZNANSVZxiDwPxI1AdAfK) | 2:41 |
 | 68 | [Chandelier \- Ukulele Version](https://open.spotify.com/track/4zYScIQJOR961vVGVb4XTt) | [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Chandelier \(Ukulele Version\)](https://open.spotify.com/album/1Oeat3PspWRfN6pzIt9jTM) | 3:29 |
 | 69 | [The Bones](https://open.spotify.com/track/2iscuzrTQy4BNduk41rwC8) | [Dev Lin](https://open.spotify.com/artist/5Qz8NfhvVepyU3JXyLQq88) | [Riptide](https://open.spotify.com/album/7AWubZyMIE5eGvfG9UiOhV) | 3:24 |
-| 70 | [Sweet Caroline \(Instrumental Version\)](https://open.spotify.com/track/1QUPoigzuwFjZf4NEbDoMe) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW), [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Popular Instrumental Songs on Ukulele](https://open.spotify.com/album/6rNPhHvHlRuIKJSYeJYo0V) | 3:19 |
+| 70 | [Sweet Caroline \(Instrumental Version\)](https://open.spotify.com/track/3ZmVHKgJ9YJLua0rnsVaWi) | [Matt Carlson](https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8) | [Ukulele Covers of Pop Hits](https://open.spotify.com/album/2LrJLsqxDuRtfLtTHYtfoi) | 3:19 |
 | 71 | [Hallelujah](https://open.spotify.com/track/3nSQdZM55hMuvGYtfHfOK6) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:34 |
 | 72 | [Here Comes the Sun](https://open.spotify.com/track/17DaSKTxBcuciWvywF2Vbg) | [Carsten Knudsen](https://open.spotify.com/artist/5f3DTzC7s625Pb9kLFicSj) | [Ukulele](https://open.spotify.com/album/3P36Jk9aUHfDfExcgdQeSg) | 2:08 |
 | 73 | [Let It Go \(Instrumental Version\)](https://open.spotify.com/track/4HYmwCqOEFg25G6xmiv86U) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW), [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Popular Disney Favorites on Ukulele](https://open.spotify.com/album/0FQDjL8QbeMZ7GsnEmEcRK) | 3:52 |
 | 74 | [La Vie En Rose](https://open.spotify.com/track/6aSdUhdyZuLqwjYnwu0hdo) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:12 |
 | 75 | [Adore You \- Ukulele Version](https://open.spotify.com/track/2zO27QsWDlFWJuquK2I7T5) | [Acoustic Guitar Revival](https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV) | [Ukulele 2020 Hits! \(Ukulele Version\)](https://open.spotify.com/album/5SO7tllIFBT4ZqFbRgdEkk) | 3:18 |
 
-Snapshot ID: `MCwzNTMzOWM3YzNmZGVmOTdiYzViMDFlZDhiMDJjZDZiYWNkMmI2MDNm`
+Snapshot ID: `MCxlYzJjNzNkNGUyMmUzYTI4YjU3MmQ3Mzg3OGNiOWY2OTI0MDE0ZjM0`

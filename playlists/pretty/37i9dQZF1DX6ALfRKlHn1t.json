@@ -1,12 +1,12 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1054438,
+  "num_followers": 1054378,
   "original_name": "Soak Up The Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDdmNDQ4YzNmYzAyYjA0NGJjMzgyMTYwZDAwYzFhNWQ2ZmE0ZmFi",
+  "snapshot_id": "MCwyZmMzNGQ0NWJmMzc0ZThjMWViYTNhY2E1MTRmODRjYzdmODRlNGU4",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "The Click (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/51iPchT1rPmDNT5FYGoPn5"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Burn The House Down",
+      "url": "https://open.spotify.com/track/0TkJIyL69RAUIbNwGub6uR"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "No More Lies",
         "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "The Click (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/51iPchT1rPmDNT5FYGoPn5"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Burn The House Down",
-      "url": "https://open.spotify.com/track/0TkJIyL69RAUIbNwGub6uR"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -623,22 +623,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+        "name": "Chris Black Changed My Life",
+        "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
       },
       "artists": [
         {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 238810,
-      "name": "World on Fire (feat. Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n"
+      "duration_ms": 145093,
+      "name": "Dummy",
+      "url": "https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -659,22 +655,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Chris Black Changed My Life",
-        "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 145093,
-      "name": "Dummy",
-      "url": "https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "The Click",
         "url": "https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 218763,
       "name": "Sober Up (feat. Rivers Cuomo)",
       "url": "https://open.spotify.com/track/5jiYx70OBzEI99jx1Gn3FN"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 238810,
+      "name": "World on Fire (feat. Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Walking On A Dream",
         "url": "https://open.spotify.com/album/04gYcIojJt78nYnN5oOrKt"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 172280,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 134946,
-      "name": "Solamente",
-      "url": "https://open.spotify.com/track/4BMBpU3AbNPjsHk41S0uSl"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Pacific Daydream",
         "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 195893,
       "name": "Feels Like Summer",
       "url": "https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 134946,
+      "name": "Solamente",
+      "url": "https://open.spotify.com/track/4BMBpU3AbNPjsHk41S0uSl"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "James Dean",
-        "url": "https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP"
+        "name": "The Tarantino Connection",
+        "url": "https://open.spotify.com/album/1pP3xpjOLQILI99rwfSi9q"
       },
       "artists": [
         {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+          "name": "George Baker Selection",
+          "url": "https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn"
         }
       ],
-      "duration_ms": 266400,
-      "name": "James Dean",
-      "url": "https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz"
+      "duration_ms": 195333,
+      "name": "Little Green Bag",
+      "url": "https://open.spotify.com/track/4DR5MStkWtDYf17jBUOo0V"
     }
   ],
   "unique_name": "Soak Up The Sun",

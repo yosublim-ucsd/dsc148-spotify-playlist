@@ -4,7 +4,7 @@
 
 > n3xt l3v3l gaming beats.
 
-192 songs - 7 hr 51 min
+193 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Peck](https://open.spotify.com/track/3xgFr4QwSRmIVqllKr6xkX) | [Le Pug](https://open.spotify.com/artist/6yZmHLd4W5wktJ1J690SSL) | [Peck](https://open.spotify.com/album/3DhrVEfaXbnnScAh2FIVRO) | 1:50 | 2022-04-22 |  |
 | [Peep](https://open.spotify.com/track/79S0qKFlhMvRgV2gTgyrUi) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Peep](https://open.spotify.com/album/1H1BSktT6OnfBx8Alr3CKR) | 1:37 | 2023-01-20 |  |
 | [Peoples Plan](https://open.spotify.com/track/7GtYYBupIPtnzdmviZyLfR) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [Peoples Plan](https://open.spotify.com/album/2idlBBN2mSxgUS5GWJEl4t) | 2:22 | 2023-09-29 |  |
-| [petite java sip](https://open.spotify.com/track/2CilDammNAvbTU1SJISPje) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [aloe vera chill](https://open.spotify.com/album/53roAMrIhrSM8A5mbTTcGw) | 2:08 | 2022-04-22 |  |
+| [petite java sip](https://open.spotify.com/track/2CilDammNAvbTU1SJISPje) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [aloe vera chill](https://open.spotify.com/album/53roAMrIhrSM8A5mbTTcGw) | 2:08 | 2022-04-22 | 2023-10-15 |
 | [Progression](https://open.spotify.com/track/5FGgQIo3AeeyqNVe7324Ey) | [Iddy P](https://open.spotify.com/artist/0JZwamLi5bDuUwYybNnFoF) | [Progression](https://open.spotify.com/album/7p6gW7y7B59rX4FKNgasGg) | 2:19 | 2022-04-22 | 2023-09-09 |
 | [Punch Tropical](https://open.spotify.com/track/2oS6CVKvmSq7W3w1csy6jn) | [Mellowdrastic](https://open.spotify.com/artist/5iM6lzU1v2k5FbuTUG2FnV) | [The Cotton Candy Creamery](https://open.spotify.com/album/7469geWNpqJN2D3sOYZCsH) | 2:56 | 2022-04-22 |  |
 | [Purple Hue](https://open.spotify.com/track/0LiN7h1mBp9kCbbCpZs3Ii) | [Dreams On Vinyl](https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw) | [Purple Hue](https://open.spotify.com/album/69448mTpDDiJT3ix1zziay) | 2:31 | 2023-09-08 |  |
@@ -189,6 +189,7 @@
 | [Uhmbiguity](https://open.spotify.com/track/7LOeVEchwpe7YrHSh462GT) | [shrub.beats](https://open.spotify.com/artist/0dt71cdGRvCiEqq9tlpEXj) | [Uhmbiguity](https://open.spotify.com/album/0fBQnVnp16u9GimMs5ZHc9) | 1:54 | 2022-04-22 |  |
 | [Uptown Train](https://open.spotify.com/track/5LOf0bNrydlqUgro73awjW) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Uptown Train](https://open.spotify.com/album/3IMePNMlrZRLcjRj6D9bvz) | 2:52 | 2022-04-22 |  |
 | [Vaguely Familiar](https://open.spotify.com/track/6idquPxSFRAxjL8YZIuudz) | [Gloomi](https://open.spotify.com/artist/3M6KDspoVN5BoZYYURrvkt) | [Vaguely Familiar](https://open.spotify.com/album/4qSkBz77XobKTbhPfktVNs) | 2:33 | 2022-04-22 |  |
+| [Vitae](https://open.spotify.com/track/1Qm8jGs8iEgrvfbPCAawqR) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Vitae](https://open.spotify.com/album/4GgfRSypBrqRIevwH3kriJ) | 2:12 | 2023-10-13 |  |
 | [Voluptus](https://open.spotify.com/track/5qK78cZFZkgLhJLs8sEnO9) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Week Line](https://open.spotify.com/album/5SFXZFbi6A8VIFgd6wZror) | 1:49 | 2022-04-22 |  |
 | [Waking Waves](https://open.spotify.com/track/2CCvwL3lgXH94oajKSOblm) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Waking Waves](https://open.spotify.com/album/0GTAbLRocrPLSAu3y1MQT6) | 3:07 | 2022-04-22 |  |
 | [Walk in the Park](https://open.spotify.com/track/3DVl3BS24V9w8jqlgE8GYG) | [NogEgg](https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT) | [Walk in the Park](https://open.spotify.com/album/55xqaEt9F5qKnlXPMLOWmT) | 2:08 | 2023-09-29 |  |

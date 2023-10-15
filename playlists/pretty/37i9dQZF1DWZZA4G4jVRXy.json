@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 126149,
+  "num_followers": 126156,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDgxMGI5MzlmOGExNDU1MDQ4MmIzZjgyNmEwZTBmNmZhZTc0OWI2",
+  "snapshot_id": "MCwxODdkNmZjZGY4YmNmMDBkM2Y2MDEwNzcxMjZmMTJlYjVmNmVlMzEx",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -303,22 +303,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Dear Mama",
-        "url": "https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn"
-      },
-      "artists": [
-        {
-          "name": "Benitez, Darren",
-          "url": "https://open.spotify.com/artist/1ZmCUwq9iEoBTFE9unlWTI"
-        }
-      ],
-      "duration_ms": 307213,
-      "name": "Nani Wale Ka Lau Oliva",
-      "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Ultra-Lounge: Bossa Novaville",
         "url": "https://open.spotify.com/album/5utRkK1KmqAY9H5UiRT2WM"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 137706,
       "name": "So Nice (Samba De Verao) - Remastered",
       "url": "https://open.spotify.com/track/3xkNsybtI1tNUNhVyI99yO"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Dear Mama",
+        "url": "https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn"
+      },
+      "artists": [
+        {
+          "name": "Benitez, Darren",
+          "url": "https://open.spotify.com/artist/1ZmCUwq9iEoBTFE9unlWTI"
+        }
+      ],
+      "duration_ms": 307213,
+      "name": "Nani Wale Ka Lau Oliva",
+      "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Don Ho Show! (Live)",
-        "url": "https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4"
-      },
-      "artists": [
-        {
-          "name": "Don Ho",
-          "url": "https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Shells - Live from Hawaii",
-      "url": "https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Savage And The Sensuous Bongos",
         "url": "https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 183573,
       "name": "Head Hunter",
       "url": "https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Don Ho Show! (Live)",
+        "url": "https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4"
+      },
+      "artists": [
+        {
+          "name": "Don Ho",
+          "url": "https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Shells - Live from Hawaii",
+      "url": "https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr"
     },
     {
       "added_at": "2021-01-20 03:50:53",

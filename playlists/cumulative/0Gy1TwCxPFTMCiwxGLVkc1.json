@@ -501,6 +501,28 @@
     },
     {
       "album": {
+        "name": "Nick Jr. Mix It Up Vol. 4 \u2013 Bailar Bailar (The Remixes)",
+        "url": "https://open.spotify.com/album/4z60LQRo7jJyACR30k3ccD"
+      },
+      "artists": [
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        },
+        {
+          "name": "Quinn B. Quokka",
+          "url": "https://open.spotify.com/artist/0VWilTXq0IUCzbHtq0wCVD"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144227,
+      "name": "Can't Stop Smiling - RPJ Latin Remix",
+      "url": "https://open.spotify.com/track/5GiRs6RQC7zkvc4LUTmtsH"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: SuperKitties Su-purr Edition",
         "url": "https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33"
       },
@@ -1542,7 +1564,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 29930,
       "name": "Kamp Koral Theme Song",
       "url": "https://open.spotify.com/track/3El6eET5uDrQ3ZjzntQ1ZI"
@@ -2338,7 +2360,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 49789,
       "name": "Pupstruction Main Title",
       "url": "https://open.spotify.com/track/1CbTnS6qEpTzq9azHlvyNG"
@@ -2360,6 +2382,24 @@
       "duration_ms": 133826,
       "name": "Rock On Mom & Dad",
       "url": "https://open.spotify.com/track/510ozdgI905xuxTAPvTYXG"
+    },
+    {
+      "album": {
+        "name": "Rock This Halloween",
+        "url": "https://open.spotify.com/album/2lHXNnieXloYVc632CpVPl"
+      },
+      "artists": [
+        {
+          "name": "Rock and Roll Playhouse",
+          "url": "https://open.spotify.com/artist/22gB5FsgmeZI79hG1E5wal"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180047,
+      "name": "Rock This Halloween",
+      "url": "https://open.spotify.com/track/1DQlPXYgSTDUGGb6Qup1JY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,818 likes - 1,190 songs - 3 day 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,855 likes - 1,190 songs - 3 day 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -901,7 +901,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 891 | [Remolino de Oro](https://open.spotify.com/track/17XQCMg0CdT9FSFSKiOXXg) | [Abel Antonio Villa y su Conjunto](https://open.spotify.com/artist/3e3EmcHJyzbnLdKpbZiAkX) | [Me Importa Que Te Vayas](https://open.spotify.com/album/0IlIItQjqG3QNL25FwG3ct) | 2:49 |
 | 892 | [Magica Nueva](https://open.spotify.com/track/2kVerE4zN9Q7BRAS7fpfuR) | [Junglelyd](https://open.spotify.com/artist/4iZlSQSRIZ5HYEwwcfbR0c) | [Paracaídas](https://open.spotify.com/album/7bFsZpUPhcAnGKLbmxxpwz) | 3:19 |
 | 893 | [Si I Bon Di I Bon](https://open.spotify.com/track/6n6KQhXIBs4MkhI6JGwsmC) | [Le Ry\-co Jazz](https://open.spotify.com/artist/1IRR3JBFXllNbzAkidW1Bo) | [Disques Debs International Vol\. 1](https://open.spotify.com/album/6o719MUZj3nUFQb4s1JeRm) | 5:05 |
-| 894 | [Samba Maneiro](https://open.spotify.com/track/6QFy8lfzC8qP0sMG14daTZ) | [Rosa Maria](https://open.spotify.com/artist/2y6NMHOK3fgS7DN9bNpRk6) | [Mr Bongo Record Club, Vol\. 2](https://open.spotify.com/album/6FUoMNfQiCUMmwvfZC8lRI) | 2:53 |
+| 894 | [Samba Maneiro](https://open.spotify.com/track/6QFy8lfzC8qP0sMG14daTZ) | [Rosa Maria](https://open.spotify.com/artist/5v34y4rqz9gKfqCE337Zn9) | [Mr Bongo Record Club, Vol\. 2](https://open.spotify.com/album/6FUoMNfQiCUMmwvfZC8lRI) | 2:53 |
 | 895 | [Zum\-Zum](https://open.spotify.com/track/0K8xwzpW6hYmfDTMlsZOhp) | [Edu Lobo](https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO) | [Morning Jazz](https://open.spotify.com/album/0JBpOJHie2i2KubS49lWme) | 2:50 |
 | 896 | [Pistachio](https://open.spotify.com/track/2o8WAUrsxzk0BotxCvMnA3) | [Alberto Bof](https://open.spotify.com/artist/1Co2g2ed1VfT3MFeaAEZDI) | [The Electric Acid Surfboard Test](https://open.spotify.com/album/6OFIksGfrRBDH8aD4T3PbG) | 3:17 |
 | 897 | [Gurbet](https://open.spotify.com/track/2cJhhpxflevAtPFku1kxID) | [Özdemir Erdoğan](https://open.spotify.com/artist/691svprNZf0oJTi1L0eYy6) | [Yorumcu](https://open.spotify.com/album/6LnGhVLzQPFRJtRKvlNKg8) | 3:26 |
@@ -1199,4 +1199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1189 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1190 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw4OTA2MmY5NjgzYzczMWQxNzYyZTRkZDcwZThiNzI0NDA2NDNhZDY0`
+Snapshot ID: `MCw4YjQzNjBjODU5ZTYzODVkM2EzODUxYjQxODY0OThjZmQ2MDUxZTc1`

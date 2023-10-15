@@ -1,12 +1,12 @@
 {
   "description": "All your Disco favorites. Cover: Earth Wind & Fire",
-  "num_followers": 1526430,
+  "num_followers": 1526590,
   "original_name": "Disco Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjRlYmZiMGNjOTIxODdmNjU5MDU5ZTdjNThjOGY3NGFhMjdlMDZi",
+  "snapshot_id": "MCxlYmJmZDIyNDA2MjU0ZGY2YjcxYjM5NDhiZjA5NWFkZTBhNmYyYjFj",
   "tracks": [
     {
       "added_at": "2023-09-20 21:46:22",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-09-20 21:46:22",
       "album": {
-        "name": "Cruisin'",
-        "url": "https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG"
-      },
-      "artists": [
-        {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
-        }
-      ],
-      "duration_ms": 286666,
-      "name": "Y.M.C.A.",
-      "url": "https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV"
-    },
-    {
-      "added_at": "2023-09-20 21:46:22",
-      "album": {
         "name": "Bad Girls",
         "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
       },
@@ -543,22 +527,6 @@
     {
       "added_at": "2023-09-20 21:46:22",
       "album": {
-        "name": "The Ultimate Bee Gees",
-        "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "You Should Be Dancing",
-      "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
-    },
-    {
-      "added_at": "2023-09-20 21:46:22",
-      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR"
       },
@@ -571,6 +539,22 @@
       "duration_ms": 290160,
       "name": "Love Rollercoaster",
       "url": "https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75"
+    },
+    {
+      "added_at": "2023-09-20 21:46:22",
+      "album": {
+        "name": "The Ultimate Bee Gees",
+        "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "You Should Be Dancing",
+      "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
     },
     {
       "added_at": "2023-09-20 21:46:22",
@@ -655,22 +639,6 @@
     {
       "added_at": "2023-09-20 21:46:22",
       "album": {
-        "name": "Casablanca Records Greatest Hits",
-        "url": "https://open.spotify.com/album/2a9NqNKkXva9vZanCUmOjc"
-      },
-      "artists": [
-        {
-          "name": "Lipps Inc.",
-          "url": "https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Funkytown",
-      "url": "https://open.spotify.com/track/0KQh7AuuZvpTKWhcJa8Pbr"
-    },
-    {
-      "added_at": "2023-09-20 21:46:22",
-      "album": {
         "name": "I Remember Yesterday",
         "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
       },
@@ -683,6 +651,22 @@
       "duration_ms": 355173,
       "name": "I Feel Love",
       "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
+    },
+    {
+      "added_at": "2023-09-20 21:46:22",
+      "album": {
+        "name": "Casablanca Records Greatest Hits",
+        "url": "https://open.spotify.com/album/2a9NqNKkXva9vZanCUmOjc"
+      },
+      "artists": [
+        {
+          "name": "Lipps Inc.",
+          "url": "https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Funkytown",
+      "url": "https://open.spotify.com/track/0KQh7AuuZvpTKWhcJa8Pbr"
     },
     {
       "added_at": "2023-09-20 21:46:22",
@@ -783,6 +767,22 @@
     {
       "added_at": "2023-09-20 21:46:22",
       "album": {
+        "name": "Big Fun",
+        "url": "https://open.spotify.com/album/0wPapw2OnSgmpg8G1DpZtI"
+      },
+      "artists": [
+        {
+          "name": "Shalamar",
+          "url": "https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A"
+        }
+      ],
+      "duration_ms": 223293,
+      "name": "The Second Time Around",
+      "url": "https://open.spotify.com/track/6yh8yf1jpPrTMA5cezYpbi"
+    },
+    {
+      "added_at": "2023-09-20 21:46:22",
+      "album": {
         "name": "The Whispers: Greatest Hits",
         "url": "https://open.spotify.com/album/5tBvVqK2M7wiBwOQEcnRkp"
       },
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-09-20 21:46:22",
       "album": {
-        "name": "Big Fun",
-        "url": "https://open.spotify.com/album/0wPapw2OnSgmpg8G1DpZtI"
+        "name": "Love To Love You Baby",
+        "url": "https://open.spotify.com/album/210folYgKMSZAz4IiqDnmy"
       },
       "artists": [
         {
-          "name": "Shalamar",
-          "url": "https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A"
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
         }
       ],
-      "duration_ms": 223293,
-      "name": "The Second Time Around",
-      "url": "https://open.spotify.com/track/6yh8yf1jpPrTMA5cezYpbi"
+      "duration_ms": 1008533,
+      "name": "Love To Love You Baby",
+      "url": "https://open.spotify.com/track/6Szw3sQC5Zssr15AJsUY9J"
     }
   ],
   "unique_name": "Disco Forever",

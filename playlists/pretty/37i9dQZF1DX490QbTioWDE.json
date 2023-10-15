@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno, Big One & Rusherking.",
-  "num_followers": 638881,
+  "num_followers": 639300,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2RkMTNjNzVmYTAxNjk2YTI0NGNhM2I5NjBkODQ3NjMwMjNlZDk0",
+  "snapshot_id": "MCxhNjlhMGE0NzhiOTI5NjJmYjc4ZTZlMmU5YjNhNzY2MGMwZTVkM2U3",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Loca de Amor - Vestido Azul",
-        "url": "https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk"
-      },
-      "artists": [
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
-        }
-      ],
-      "duration_ms": 366368,
-      "name": "Loca de Amor - Vestido Azul",
-      "url": "https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Esto Se Acab\u00f3",
         "url": "https://open.spotify.com/album/1usW30QraosvadgKpteABF"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 199651,
       "name": "Esto se Acab\u00f3",
       "url": "https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Loca de Amor - Vestido Azul",
+        "url": "https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+        }
+      ],
+      "duration_ms": 366368,
+      "name": "Loca de Amor - Vestido Azul",
+      "url": "https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Triste Canci\u00f3n de Amor / Lo Que Me Duele",
-        "url": "https://open.spotify.com/album/5eKO50JWT0nlxZnCjU6yF6"
+        "name": "Libre al Fin",
+        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
       },
       "artists": [
         {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+          "name": "Walter Romero",
+          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
         }
       ],
-      "duration_ms": 113700,
-      "name": "Triste Canci\u00f3n de Amor",
-      "url": "https://open.spotify.com/track/1VB9mgCv8xb4KvtBjLp994"
+      "duration_ms": 246600,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Libre al Fin",
-        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
+        "name": "Triste Canci\u00f3n de Amor / Lo Que Me Duele",
+        "url": "https://open.spotify.com/album/5eKO50JWT0nlxZnCjU6yF6"
       },
       "artists": [
         {
-          "name": "Walter Romero",
-          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
         }
       ],
-      "duration_ms": 246600,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
+      "duration_ms": 113700,
+      "name": "Triste Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/1VB9mgCv8xb4KvtBjLp994"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1395,26 +1395,6 @@
       "duration_ms": 136318,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Aguardiente",
-        "url": "https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR"
-      },
-      "artists": [
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        },
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
-        }
-      ],
-      "duration_ms": 199445,
-      "name": "Aguardiente",
-      "url": "https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1439,18 +1419,38 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Con Toda la Fuerza",
-        "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
+        "name": "Aguardiente",
+        "url": "https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR"
       },
       "artists": [
         {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
         }
       ],
-      "duration_ms": 187220,
-      "name": "Ma\u00f1ana sin vos",
-      "url": "https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi"
+      "duration_ms": 199445,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Sigan Bailando",
+        "url": "https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 387552,
+      "name": "De Quien Es la Culpa / Como Lo Hacias Con El",
+      "url": "https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Sigan Bailando",
-        "url": "https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe"
+        "name": "Con Toda la Fuerza",
+        "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
       },
       "artists": [
         {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
         }
       ],
-      "duration_ms": 387552,
-      "name": "De Quien Es la Culpa / Como Lo Hacias Con El",
-      "url": "https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi"
+      "duration_ms": 187220,
+      "name": "Ma\u00f1ana sin vos",
+      "url": "https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1519,22 +1519,6 @@
       "duration_ms": 169496,
       "name": "Eran dos locos de amor",
       "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Espectacular Monada",
-        "url": "https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Dame un Poco Mas",
-      "url": "https://open.spotify.com/track/7DClQMEhTG6atticp11xbw"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1647,22 +1631,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Con Piel de Cuarteto",
-        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
-      },
-      "artists": [
-        {
-          "name": "El Turco Oliva",
-          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Maldito Coche Negro",
-      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Me Duele Tu Nombre",
         "url": "https://open.spotify.com/album/3JPCEgj42U1a2DrCUkywMY"
       },
@@ -1683,6 +1651,38 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Con Piel de Cuarteto",
+        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
+      },
+      "artists": [
+        {
+          "name": "El Turco Oliva",
+          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Maldito Coche Negro",
+      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Espectacular Monada",
+        "url": "https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Dame un Poco Mas",
+      "url": "https://open.spotify.com/track/7DClQMEhTG6atticp11xbw"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Ferxxo 100",
         "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
       },
@@ -1695,22 +1695,6 @@
       "duration_ms": 169589,
       "name": "Ferxxo 100",
       "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Chachach\u00e1",
-        "url": "https://open.spotify.com/album/2V0O7HPYdlxCdEr4m7AZ3e"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 232269,
-      "name": "Chachach\u00e1",
-      "url": "https://open.spotify.com/track/5eO1kn8BVM6YFiXdMHDxsE"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1763,38 +1747,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "No Seas Cruel",
-        "url": "https://open.spotify.com/album/3gWJonwG7QvCtRR7hjD2Fg"
+        "name": "Chachach\u00e1",
+        "url": "https://open.spotify.com/album/2V0O7HPYdlxCdEr4m7AZ3e"
       },
       "artists": [
         {
-          "name": "Alberto Plaza",
-          "url": "https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
         }
       ],
-      "duration_ms": 236165,
-      "name": "No Seas Cruel",
-      "url": "https://open.spotify.com/track/3lZivt5mGd2zxX1nXanxIU"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Tacones Rojos",
-        "url": "https://open.spotify.com/album/2vipfyylc4YxP4J2tgf23r"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 184661,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/5rZQYQVNMw1yz3zs3VTTBD"
+      "duration_ms": 232269,
+      "name": "Chachach\u00e1",
+      "url": "https://open.spotify.com/track/5eO1kn8BVM6YFiXdMHDxsE"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1815,38 +1779,70 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Mi Ex Tenia Razon",
-        "url": "https://open.spotify.com/album/4qWGNyciPnijpcnfbW44wc"
+        "name": "Tacones Rojos",
+        "url": "https://open.spotify.com/album/2vipfyylc4YxP4J2tgf23r"
       },
       "artists": [
-        {
-          "name": "Banda Mix",
-          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
-        }
-      ],
-      "duration_ms": 191850,
-      "name": "Mi Ex Tenia Razon",
-      "url": "https://open.spotify.com/track/04G51FtYTnXq1FPYTDnYjL"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "El Pa\u00f1uelo",
-        "url": "https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO"
-      },
-      "artists": [
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
-        },
         {
           "name": "Simon Aguirre",
           "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
         }
       ],
-      "duration_ms": 174292,
-      "name": "El Pa\u00f1uelo",
-      "url": "https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA"
+      "duration_ms": 184661,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/5rZQYQVNMw1yz3zs3VTTBD"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "No Seas Cruel",
+        "url": "https://open.spotify.com/album/3gWJonwG7QvCtRR7hjD2Fg"
+      },
+      "artists": [
+        {
+          "name": "Alberto Plaza",
+          "url": "https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 236165,
+      "name": "No Seas Cruel",
+      "url": "https://open.spotify.com/track/3lZivt5mGd2zxX1nXanxIU"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "La Bachata (En Vivo)",
+        "url": "https://open.spotify.com/album/2QJIJQriH01UyYkD21Fuds"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 134058,
+      "name": "La Bachata - En Vivo",
+      "url": "https://open.spotify.com/track/2BTlIPUB2qpfkR8UIulnaa"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Aguardiente",
+        "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "duration_ms": 152432,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
     }
   ],
   "unique_name": "100% Cuarteto",

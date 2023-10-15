@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Junior H en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,491 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,865 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Corazón](https://open.spotify.com/track/3rVlDhGNxSQApSOFM4XHYd) | [Los Luna](https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC) | [Corazón](https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe) | 3:03 |
 | 50 | [CUANDO LLUEVE](https://open.spotify.com/track/1zGm84bD3EQLq7Iot79U3T) | [Una Canción Bonita](https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7) | [CUANDO LLUEVE](https://open.spotify.com/album/0Me1LJTvDr06VOYB9jfWjq) | 4:18 |
 
-Snapshot ID: `MCxkMDA0YTBmMDQwMTBlMmMyNDg5MWIyYmRkYzM1YmYwNjAwMjMwMjBi`
+Snapshot ID: `MCxkY2Y1YzgyMTIwOWIxYzMxNTdkNjNhNmVlMzA4MTQ4ODE1ZGVlOTI1`

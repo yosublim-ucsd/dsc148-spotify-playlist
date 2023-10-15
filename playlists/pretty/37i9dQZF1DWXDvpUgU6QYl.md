@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 
 > A groovy and soulful house collection\. Cover: Prok & Fitch
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,294 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,365 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 | 15 | [How It Feels](https://open.spotify.com/track/4KZPt9W4RTAIGiEUbiFJTV) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [How It Feels](https://open.spotify.com/album/0RUZEsQQWmWhsuKKo6sk8J) | 3:19 |
 | 16 | [Krayzee](https://open.spotify.com/track/3TvbT40I2mQUn6jliOM82r) | [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [Astro\-Cat](https://open.spotify.com/artist/7AqFHR0xmbUjgrIuQvj8zW) | [Krayzee](https://open.spotify.com/album/0mh0kqpTJViSsWPCaW8mgY) | 5:37 |
 | 17 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
-| 18 | [Moonlight \- Girls of the Internet Midnight Mix](https://open.spotify.com/track/3Ga7tub8PNUaBhcHziVZ1o) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Moonlight \(Remixes\)](https://open.spotify.com/album/4HjlsuPUE8lQY5Z1kDWKWL) | 4:35 |
+| 18 | [Moonlight \- Girls of the Internet Midnight Mix](https://open.spotify.com/track/3Ga7tub8PNUaBhcHziVZ1o) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Moonlight \(Midnight & Sunset Mix\)](https://open.spotify.com/album/4HjlsuPUE8lQY5Z1kDWKWL) | 4:35 |
 | 19 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 |
 | 20 | [Aperol Spiritz](https://open.spotify.com/track/7LHJGgiSJEsa1uaYqubGde) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Aperol Spiritz](https://open.spotify.com/album/2U4jv3hgtuYc95dCjjsTs2) | 5:15 |
 | 21 | [Better Times](https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Better Times](https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T) | 3:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 | 59 | [A Part Of \- Riva Starr Saturn Mix](https://open.spotify.com/track/6T0cqi5DxO1sf5B3EnKD9b) | [Larse](https://open.spotify.com/artist/44VYaq2KjuU7hFvtD4Darm), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [A Part Of \(Riva Starr Saturn Mix\)](https://open.spotify.com/album/0keRdPavYT0cY7sY6Lfry6) | 3:25 |
 | 60 | [Circles \(feat\. Mariah Carey\)](https://open.spotify.com/track/1KTNJSTPYBLByQ14cJRGlO) | [e\-lie](https://open.spotify.com/artist/0GtpciMDV8Z7j30Tg0Ew7x), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Circles \(feat\. Mariah Carey\)](https://open.spotify.com/album/6whfBjD94WUB3kHIhDFPYG) | 3:02 |
 
-Snapshot ID: `MCw3MjU3ZTkyMTNkYTgyMjg0NGRhNTYyNGMwOGVjOThiYjEzMjZiM2Uw`
+Snapshot ID: `MCw4ZjMxMTQ2OGNiMGY1N2ExNDcwZjk2MjE0OGY4MWNlNjE3OGRiNzlj`

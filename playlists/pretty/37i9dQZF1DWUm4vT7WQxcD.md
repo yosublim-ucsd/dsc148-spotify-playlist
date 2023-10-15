@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUm4vT7WQxcD.md) - [plain]
 
 > Relax and unwind to the soothing hum of the electric fan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,205 likes - 158 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,232 likes - 158 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUm4vT7WQxcD.md) - [plain]
 | 157 | [Workspace Amp Fan](https://open.spotify.com/track/2Bn7Bju9DwkC9UIA6rPyWf) | [Noise Recorder](https://open.spotify.com/artist/4dP7FaHEym6UneIfaZhlSf) | [Workplace Fans](https://open.spotify.com/album/4DHcdRMpDZvWhHWE03Iicq) | 2:36 |
 | 158 | [Broken Bedroom Fan](https://open.spotify.com/track/1YyJRtFjLbxDKSwkT4oZTN) | [No Placebo](https://open.spotify.com/artist/6PfMowhcQPSNiPw4Fag26i) | [Broken Bedroom Fan](https://open.spotify.com/album/7zPFLeFTAZ8J3tV1wIf51J) | 2:36 |
 
-Snapshot ID: `MCwzOTI3MzU0ZmYyZDRlMmQ4NWVjYTZkMWQ4NGU1YjRhMDk3YTFlYWNj`
+Snapshot ID: `MCxmZGIxZWFmMzdlNDhjZDVlZmUxN2NmMGFmMjE3ZDQ4NWQ2OTE2OTY3`

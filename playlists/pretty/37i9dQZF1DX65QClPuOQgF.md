@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65QClPuOQgF.md) - [plain]
 
 > Find your study focus with high pitched azure noise \- perfect for masking disruptive noises.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,334 likes - 72 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,389 likes - 72 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65QClPuOQgF.md) - [plain]
 | 71 | [Blue Noise Enigma](https://open.spotify.com/track/6yUw1IL1dHCIMPbmFqyQU7) | [Snoozatronica](https://open.spotify.com/artist/6Ik1AwpZwK66FCXtsdPaLt) | [Blue Noise Enigma](https://open.spotify.com/album/1cXgOKvESifAx8dONqG2a3) | 2:20 |
 | 72 | [Essential Blue Noise](https://open.spotify.com/track/3CsvoveJalzAwMfT2um36p) | [Contented](https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP) | [Concentrate Blue Noise](https://open.spotify.com/album/1OzpgtmsSNysYIxuTrnJ0Q) | 2:23 |
 
-Snapshot ID: `MCxiNGZjYjdlZjZmODAxOTVmY2NhNjNlZmNkYTliMzJjNzk1NGQzMmMw`
+Snapshot ID: `MCw0NzdhNWZhMjEyMDY0OTg1OWYzNmFlNzBiN2E0ZmM1NjU3NDllNjIw`

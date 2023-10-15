@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,695 songs - 5 day 21 hr 33 min
+3,697 songs - 5 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,7 +491,7 @@
 | [Camberwell](https://open.spotify.com/track/0rhsSLzNfB91innrvTBdx3) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Camberwell](https://open.spotify.com/album/7ALBhgIL3vvB2c5PVUSJ4Y) | 2:13 | 2020-09-04 | 2021-04-30 |
 | [Cambrai](https://open.spotify.com/track/22nmtSEfoLluVVHDmAaH98) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Cambrai](https://open.spotify.com/album/2ZcK96UqUPEiJDXrgDwZ4q) | 1:52 | 2021-12-06 |  |
 | [Camel Ride](https://open.spotify.com/track/7lRDkaeIXwgm78lCFR3zvt) | [Lvnt](https://open.spotify.com/artist/0lJBgFBswR7nf4TrKtwZQt) | [Camel Ride](https://open.spotify.com/album/2WkIMFzrUv3VtDscB9lf7k) | 2:18 | 2023-06-01 | 2023-08-25 |
-| [Camelot](https://open.spotify.com/track/6bIGbpZ4EOfkhDcTP526Va) | [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV) | [Smooth Transition](https://open.spotify.com/album/0vUMaBuPhr9EYc8I6NnmCX) | 2:12 | 2023-10-12 |  |
+| [Camelot](https://open.spotify.com/track/6bIGbpZ4EOfkhDcTP526Va) | [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV) | [Smooth Transition](https://open.spotify.com/album/0vUMaBuPhr9EYc8I6NnmCX) | 2:12 | 2023-10-12 | 2023-10-15 |
 | [Can Do](https://open.spotify.com/track/17cUrQgR2mErga1fo4fxP7) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Can Do](https://open.spotify.com/album/0pUwnqkCbHQoVdc7TrlsCt) | 1:44 | 2023-03-30 | 2023-05-12 |
 | [can't sleep](https://open.spotify.com/track/2LdQlq1FVnDtfNkg6zumUE) | [pettersson](https://open.spotify.com/artist/72Q5cOChL72xjupeqzKlWd) | [can't sleep](https://open.spotify.com/album/0UzU5o70AJ8OYZJNeQKagE) | 2:25 | 2019-05-26\* | 2019-08-13 |
 | [Canal Stairs](https://open.spotify.com/track/7b1kvI107ZeTxJ0cIQiPAD) | [En Rie](https://open.spotify.com/artist/3P18mn1T53JU82867PDYbM), [Lobi9](https://open.spotify.com/artist/3QO5tWYbDbzZ4jer6EDqUq), [WOX](https://open.spotify.com/artist/7EyXYGmovTZWucKC0WahJ9) | [Canal Stairs](https://open.spotify.com/album/08qbJ6hTH8UxdzgQC3jJac) | 2:14 | 2021-04-23 | 2022-07-08 |
@@ -2374,6 +2374,7 @@
 | [Palos Verdes Sunsets](https://open.spotify.com/track/7kMyUZDiAFKzs54cCvXUkT) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD), [Nils](https://open.spotify.com/artist/3LIDXKf2DqV6RiJ4UtiRww) | [Palos Verdes Sunsets](https://open.spotify.com/album/5S4iDgn9XN93qgNDTrorQX) | 2:18 | 2021-05-29 | 2021-10-22 |
 | [Palosanto](https://open.spotify.com/track/1Z1dmnUPAyd0sRO4hgIPFj) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Palosanto](https://open.spotify.com/album/0euTDqFpNR92IJTKNCneCH) | 2:55 | 2023-02-09 | 2023-03-18 |
 | [Pangea](https://open.spotify.com/track/3WBYqPLJjBxGYMDHjpGS6C) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Pangea](https://open.spotify.com/album/0yTryh9Co9Zdrw1z1lxRCm) | 1:42 | 2022-05-12 | 2022-12-26 |
+| [Papa's Bravas](https://open.spotify.com/track/0beRAYfAfKtE6sDKDF7wn2) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Papa's Bravas](https://open.spotify.com/album/6TXU2TlfX2dMos77CZHfjE) | 2:06 | 2023-10-12 |  |
 | [papaya](https://open.spotify.com/track/68PTwG29nRche3xj2gMDlL) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [papaya](https://open.spotify.com/album/0zrqz82mfGhh3SH35CkR0l) | 2:58 | 2021-08-27 | 2021-10-08 |
 | [Papaya Creek](https://open.spotify.com/track/70fervkMWWH6rQ89nNauM2) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Papaya Creek](https://open.spotify.com/album/3a9g4YpDhxkpn0D9sXc1I5) | 2:32 | 2022-06-16 | 2022-09-02 |
 | [Paper](https://open.spotify.com/track/7MmlDhyroURJOtnEjYnPeQ) | [Amuseity](https://open.spotify.com/artist/6eNL8EiCnr1E8xQI3WECDf) | [Beat Chow Vol\. 1](https://open.spotify.com/album/2LNj69VHihIkvsI5NU9TJx) | 2:03 | 2019-06-08 | 2019-11-29 |
@@ -2494,7 +2495,7 @@
 | [Pretend](https://open.spotify.com/track/2mBHh6qmMbI3E4UkpcChjh) | [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE), [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Pretend](https://open.spotify.com/album/7N1BcwHeBapwoPaiNwwCE7) | 2:09 | 2021-09-03 | 2022-07-22 |
 | [Pretty and the Beast](https://open.spotify.com/track/4NBIMXqhYshVmoxHHvsmPi) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Pretty and the Beast](https://open.spotify.com/album/3JvNlmuavGeNMY2WimBXAu) | 2:10 | 2023-03-16 | 2023-06-02 |
 | [Pretty Cushy](https://open.spotify.com/track/6UIWePGDVpRBlhdVixcqPe) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Pretty Cushy](https://open.spotify.com/album/3b4OuwnkCc4Se7kxIyRsr9) | 2:11 | 2021-02-26 | 2021-06-25 |
-| [Primitivo](https://open.spotify.com/track/0oOoEhtArmpUgZKFCUaHAB) | [Kasimir](https://open.spotify.com/artist/0LCKyVSAzqhNLP4yTpnE5Z) | [Primitivo](https://open.spotify.com/album/3ADSgPDO0YFbCPmxXyJRmS) | 1:46 | 2023-10-12 |  |
+| [Primitivo](https://open.spotify.com/track/0oOoEhtArmpUgZKFCUaHAB) | [Kasimir](https://open.spotify.com/artist/0LCKyVSAzqhNLP4yTpnE5Z) | [Primitivo](https://open.spotify.com/album/3ADSgPDO0YFbCPmxXyJRmS) | 1:46 | 2023-10-12 | 2023-10-15 |
 | [Private Letters](https://open.spotify.com/track/6G32q2ZZIeCraLQweRMa9d) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Private Letters](https://open.spotify.com/album/43HxDkKdq0unBdLE2dGTOl) | 2:30 | 2023-05-25 | 2023-08-04 |
 | [Private Papaya](https://open.spotify.com/track/0QffTN71Eo8NH4fsVCekPj) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Private Papaya](https://open.spotify.com/album/6YEc6jHL7nrqHW4H2U94Kn) | 1:55 | 2022-07-07 | 2022-07-22 |
 | [Probably Broccoli](https://open.spotify.com/track/5EJBlppQi8fmilN1fLhkc9) | [Suff Daddy](https://open.spotify.com/artist/7BYXrz5LhCrix6A3EwPvU0), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW) | [Probably Broccoli / Club Bob Needed More Drugs](https://open.spotify.com/album/2s5x2UyyIapzYTkzfQKZCj) | 3:40 | 2020-02-25 | 2020-05-15 |
@@ -2504,6 +2505,7 @@
 | [Promenade Walk](https://open.spotify.com/track/07yGA4qy5p5g9Linlhg5Bf) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Promenade Walk](https://open.spotify.com/album/69Acx9fVN3B82xWTUHM2EN) | 2:05 | 2023-06-22 | 2023-07-28 |
 | [Promises](https://open.spotify.com/track/672hkrNA8Nj70nmXh94Ry3) | [TRIBEZ.](https://open.spotify.com/artist/5xokgYo3SoZ7alvWyTrWJ8) | [Promises](https://open.spotify.com/album/2s52BSLCpV1xEGiJ0KayOn) | 2:32 | 2022-03-24 | 2022-04-01 |
 | [Promises \- Instrumental](https://open.spotify.com/track/0aB6XBZY6mkuGVtqkN0zCX) | [DUHAN](https://open.spotify.com/artist/5oRsYGo1n7poJ4NH4K7t16) | [Promises \(Instrumental\)](https://open.spotify.com/album/6wLz57HjjpVaApSqxAKGHC) | 2:18 | 2019-08-02 | 2019-10-26 |
+| [Promises Of Utopia](https://open.spotify.com/track/3Asjor2j7g68v2QmJC5W6V) | [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV) | [Promises Of Utopia](https://open.spotify.com/album/2CrjzZRmta3JQNu1yXQAOS) | 2:15 | 2023-10-12 |  |
 | [providence](https://open.spotify.com/track/7KhnhH3l6Dvc4m92et1NTu) | [b l o o p r](https://open.spotify.com/artist/3AtwKVMbgWCFvDsJRcN04A) | [providence](https://open.spotify.com/album/5na8f86Gi6qMnvxcYYURIT) | 1:55 | 2019-08-02 | 2020-02-01 |
 | [Psalm](https://open.spotify.com/track/2thLLdEIlLbo1h2RAsThVv) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY) | [Psalm](https://open.spotify.com/album/5hmv1JUjvoTCqxLp4XYemy) | 2:02 | 2020-11-20 | 2021-05-28 |
 | [Pueblo](https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ) | 1:43 | 2022-06-02 | 2022-06-17 |

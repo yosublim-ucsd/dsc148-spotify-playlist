@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Ice Nine Kills
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,016 likes - 56 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,035 likes - 56 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 28 | [Ewige Wacht](https://open.spotify.com/track/0ciGaI02eyLYhI8YzMIn4e) | [Varg](https://open.spotify.com/artist/4QjcHVaUB35395GeUoRIfZ) | [Ewige Wacht](https://open.spotify.com/album/4qcMoiaFe2BXILSWFGgg66) | 4:57 |
 | 29 | [I'm Your Last Hope \(The Rope Around Your Neck\)](https://open.spotify.com/track/4xOCMX6HxUAUMswequPxLS) | [Ektomorf](https://open.spotify.com/artist/7lyUcNJUvtC0K7ufpLMvpg) | [I'm Your Last Hope \(The Rope Around Your Neck\)](https://open.spotify.com/album/2liUnppRsoGFhhEo2dVA1J) | 3:31 |
 | 30 | [Control \(feat\. A Broken Silence\)](https://open.spotify.com/track/73vNJotthGC2YGSTUkJD5N) | [Nitroverts](https://open.spotify.com/artist/6JLBk7LNzBbzx9tfZny5qC), [A Broken Silence](https://open.spotify.com/artist/5YfUUf50L38Gz0PI0Yab7f) | [Endogenous](https://open.spotify.com/album/3oWBMYWyZ4h7vidjPKrUZt) | 4:03 |
-| 31 | [Burn Victim](https://open.spotify.com/track/0LEIeKESU1wpKUhrdZCsEa) | [VCTMS](https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT), [Jondoe\_87](https://open.spotify.com/artist/3fnP7aGLA0wPDXJ8dO5UXw), [Orphan](https://open.spotify.com/artist/3TEMwD8JXu7K4CjhVrw7tc) | [Vol.V The Hurt Collection](https://open.spotify.com/album/1TYU178ZDCCknvYcwvlnPb) | 3:29 |
+| 31 | [Burn Victim](https://open.spotify.com/track/0LEIeKESU1wpKUhrdZCsEa) | [VCTMS](https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT), [Jondoe\_87](https://open.spotify.com/artist/3fnP7aGLA0wPDXJ8dO5UXw), [Jack Bergin](https://open.spotify.com/artist/3sUfFSAsORpvq5wXq6X9La) | [Vol.V The Hurt Collection](https://open.spotify.com/album/1TYU178ZDCCknvYcwvlnPb) | 3:29 |
 | 32 | [Body Building](https://open.spotify.com/track/2PuzCWNCges6EVi1NPRVwW) | [HORSKH](https://open.spotify.com/artist/64HwzpdqXwxwkAWV5VEXIw) | [Body Building](https://open.spotify.com/album/31dIEYaUe2XjvQKQESrxjA) | 3:40 |
 | 33 | [Barbie](https://open.spotify.com/track/6nFfvgTiXthk1XRqTt0jQZ) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004) | [Barbie](https://open.spotify.com/album/4FYhpEhdXRIuk3mLvKqMDP) | 3:25 |
 | 34 | [Disconnected](https://open.spotify.com/track/7nUlMVdvz1NpneKwXM2r52) | [Prospective](https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS) | [Disconnected](https://open.spotify.com/album/4LqLqiBkvPyYGPV8qdroo1) | 2:54 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 55 | [Howl At The Sun](https://open.spotify.com/track/58KseCL7D09AQJ0AvqlDtC) | [Of Origins](https://open.spotify.com/artist/1B0ZXSOxKjtoddcG8DabpZ) | [Everything, Suddenly](https://open.spotify.com/album/3iWj9KmVcFbI4qcWQATsDQ) | 5:43 |
 | 56 | [Death·chaos·void](https://open.spotify.com/track/3frwYpO72nBBkn2TCTUBsz) | [Akouphenom](https://open.spotify.com/artist/1Sds5s7jYPS5iOfQebawN3) | [Death·chaos·void](https://open.spotify.com/album/4IxAlYMNOR9rsfot26RBk6) | 8:07 |
 
-Snapshot ID: `MCwxNDE1ZGMyYWNkNzdlYzA0ZGJiMDdmMWNiZWJkOWU0YzdhNTdjNGM2`
+Snapshot ID: `MCw4NDMwMWNiYWEyMTMwMTUyYzdkZjc5OGE4ZjEwNjgxNGZkYmM4ZjZk`

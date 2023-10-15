@@ -5365,6 +5365,28 @@
     },
     {
       "album": {
+        "name": "Out Of The Dark",
+        "url": "https://open.spotify.com/album/5MkfidCcFwwTDaZ0qVqsf8"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199107,
+      "name": "Out Of The Dark",
+      "url": "https://open.spotify.com/track/7hdSpU6G5jyA7lmBVqHMwr"
+    },
+    {
+      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ"
       },
@@ -6278,7 +6300,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 245881,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"

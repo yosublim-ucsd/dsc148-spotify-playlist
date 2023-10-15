@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: SNOW WIFE",
-  "num_followers": 82274,
+  "num_followers": 82288,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODgyMzYzYTA1NDYzZjFiZjMwNDYxN2YxMDc4M2M1MmRmYTUyNDIz",
+  "snapshot_id": "MCw1ZjU3NDY3YzNkZmExZWExMGQzMmI0NDNiMWFkMjA1ZGZhYjBiZDEw",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd"
-      },
-      "artists": [
-        {
-          "name": "Lucy Park",
-          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
-        }
-      ],
-      "duration_ms": 151150,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "damn Right Pt. 2",
         "url": "https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 186666,
       "name": "damn Right Pt. 2",
       "url": "https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "duration_ms": 151150,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Good Love 2.0",
+        "url": "https://open.spotify.com/album/5sDQY6ndqcHq15PD1WZgSl"
+      },
+      "artists": [
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        }
+      ],
+      "duration_ms": 174062,
+      "name": "Good Love 2.0",
+      "url": "https://open.spotify.com/track/0xErrzRegFIsekcvQ5wsS0"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "trust (feat. RINI)",
         "url": "https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 197557,
       "name": "trust (feat. RINI)",
       "url": "https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Good Love 2.0",
-        "url": "https://open.spotify.com/album/5sDQY6ndqcHq15PD1WZgSl"
-      },
-      "artists": [
-        {
-          "name": "Priya Ragu",
-          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
-        }
-      ],
-      "duration_ms": 174062,
-      "name": "Good Love 2.0",
-      "url": "https://open.spotify.com/track/0xErrzRegFIsekcvQ5wsS0"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Stomachache",
-        "url": "https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3EpDQMIbcSrvkU9g2drqz3"
       },
       "artists": [
         {
-          "name": "TRACE",
-          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
         }
       ],
-      "duration_ms": 184500,
-      "name": "Stomachache",
-      "url": "https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL"
+      "duration_ms": 197223,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/39LmkwLmeETbr80Uy7HIVU"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Stomachache",
+        "url": "https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP"
+      },
+      "artists": [
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Stomachache",
+      "url": "https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "GORGEOUS",
         "url": "https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 149973,
       "name": "GORGEOUS",
       "url": "https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3EpDQMIbcSrvkU9g2drqz3"
-      },
-      "artists": [
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        }
-      ],
-      "duration_ms": 197223,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/39LmkwLmeETbr80Uy7HIVU"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/34V8K95l5c3Idr3TwDpclN"
+      },
+      "artists": [
+        {
+          "name": "Zom Marie",
+          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/1SFtNl1fToY45Siz65CnSa"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Phenomenon",
         "url": "https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 218400,
       "name": "Phenomenon",
       "url": "https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/34V8K95l5c3Idr3TwDpclN"
-      },
-      "artists": [
-        {
-          "name": "Zom Marie",
-          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Blush",
-      "url": "https://open.spotify.com/track/1SFtNl1fToY45Siz65CnSa"
     }
   ],
   "unique_name": "Dope AF",

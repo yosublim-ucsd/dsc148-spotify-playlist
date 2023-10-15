@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,902 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,908 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 16 | [Goodbye Blurry Days](https://open.spotify.com/track/7GGo7J2kWtuBqJ8AyuRCop) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [So Long So Blue](https://open.spotify.com/album/1FfNRADiycPsvyQ1CoYcfZ) | 3:45 |
 | 17 | [Let You Know](https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [The Color and the Light](https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8) | 4:55 |
 | 18 | [Flowers](https://open.spotify.com/track/6pYLdl855Ul8ckKKWzCrig) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Flowers](https://open.spotify.com/album/3OJMNgLFpxJLgTPw3YmNTx) | 3:02 |
-| 19 | [Paradise](https://open.spotify.com/track/5waRnWPjrrRfUF2j0J0WLq) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [Paradise](https://open.spotify.com/album/4P7ZLYY4dnkwO98cNv426b) | 3:09 |
+| 19 | [Paradise](https://open.spotify.com/track/4jNJlY21mAa7OBSvQ9iE89) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [Paradise](https://open.spotify.com/album/1HtWTbPU3YXQU7xxYqHIqK) | 3:09 |
 | 20 | [Season](https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Silently Beats](https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX) | 2:24 |
 | 21 | [idk2](https://open.spotify.com/track/65i5oP0YKXtWDj7Fqtvdak) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK) | [seasons](https://open.spotify.com/album/0FrLx9txKT7cBIwVkbtri2) | 2:06 |
 | 22 | [when i think of you](https://open.spotify.com/track/68hcUgRL0STb26FmTyRSP9) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu), [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb) | [when i think of you](https://open.spotify.com/album/7L2pJQGdQH14JCACTRaf0x) | 2:49 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 28 | [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 |
 | 29 | [Maru](https://open.spotify.com/track/14rLUUlDJTGPO0IOvAviss) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Maru](https://open.spotify.com/album/6ViM3Un8Bka8ToQXC92QFr) | 2:47 |
 | 30 | [Pink scent](https://open.spotify.com/track/7hkGFEsJ7ww0CV75tZ17dJ) | [Mingeon Jang](https://open.spotify.com/artist/4zZbIYdekxz1BjRKp45OCt), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Pink scent](https://open.spotify.com/album/2iK96snS6AtTO2qfzm7127) | 2:45 |
-| 31 | [How You Been](https://open.spotify.com/track/6dSa2i9AIEVT7JgFFAGCWi) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [How You Been](https://open.spotify.com/album/5DQzrFmc37ugVviEb4CX9C) | 2:37 |
+| 31 | [How You Been](https://open.spotify.com/track/0tSusFmbtXwd8VbrYq4CnG) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [How You Been](https://open.spotify.com/album/4YTl2R43JpQcrsmkXJNFjz) | 2:37 |
 | 32 | [Day Trip](https://open.spotify.com/track/3hrqbiVTLD6L0Q7MhPOmBr) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Sentimental Days](https://open.spotify.com/album/0b1GNpqsnogyIWlpXB2Zi1) | 2:17 |
 | 33 | [Night Owl Dream](https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Owl Dream](https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV) | 2:36 |
 | 34 | [BEAU PAYSAGE](https://open.spotify.com/track/1gsx2y5VHuGiVtHswvmZms) | [orbe](https://open.spotify.com/artist/3saLukWUrUkKxIDmKlqc1J), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [Gen Tanabe](https://open.spotify.com/artist/5fwSjQceWBh8gO7PfG3FX7) | [Orbe / Orbe Feat\. Luca](https://open.spotify.com/album/4Cshw3Vv7DxoAkbVMs84jK) | 5:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [Yura Yura](https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yura Yura](https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd) | 2:18 |
 | 100 | [Holding On](https://open.spotify.com/track/5WhLz63p2yzbpTROq87AT0) | [LAKEY INSPIRED](https://open.spotify.com/artist/3zDGjdtoxUiH7YcTWOdtMd) | [Holding On](https://open.spotify.com/album/1hVENLbXnEHqjREdfjurS7) | 2:26 |
 
-Snapshot ID: `MCw5MjM2ZTU3NDM5M2M5YjA2MjI2Yzk3MzYxYzBlMTg3OTRjZWI4NjQw`
+Snapshot ID: `MCxmODJlMDM3NTU5NjgwNGJiZGY0MjY4ZmZiZGM3MzFjODEyZjU4YjNl`

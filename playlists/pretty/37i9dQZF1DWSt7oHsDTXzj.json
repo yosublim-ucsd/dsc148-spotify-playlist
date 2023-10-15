@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 160223,
+  "num_followers": 160183,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWZlMDdmODU4NTM1MjA3NzkwYmI0NTE2Zjg2M2Y3NTAzNTgzYTk1",
+  "snapshot_id": "MCwxNjYyYTU4N2MzZTAzN2ZjZDEwMGYwNzM4MDJiMmI0ZmFjYzU4ZTdk",
   "tracks": [
     {
       "added_at": "2023-08-18 18:00:09",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-08-18 18:00:09",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/6GmQc3dPo8YcwbC9zOrWv9"
-      },
-      "artists": [
-        {
-          "name": "Pedro The Lion",
-          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
-        }
-      ],
-      "duration_ms": 233717,
-      "name": "Yellow Bike",
-      "url": "https://open.spotify.com/track/1vztTdgyyARufM8lnCFEzE"
-    },
-    {
-      "added_at": "2023-08-18 18:00:09",
-      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 128737,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
+    },
+    {
+      "added_at": "2023-08-18 18:00:09",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/6GmQc3dPo8YcwbC9zOrWv9"
+      },
+      "artists": [
+        {
+          "name": "Pedro The Lion",
+          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
+        }
+      ],
+      "duration_ms": 233717,
+      "name": "Yellow Bike",
+      "url": "https://open.spotify.com/track/1vztTdgyyARufM8lnCFEzE"
     },
     {
       "added_at": "2023-08-18 18:00:09",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-08-18 18:00:09",
       "album": {
-        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
-        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 182062,
-      "name": "Boxing Day Blues",
-      "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
-    },
-    {
-      "added_at": "2023-08-18 18:00:09",
-      "album": {
         "name": "Useless Trinkets-B Sides, Soundtracks, Rarieties and Unreleased 1996-2006",
         "url": "https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2023-08-18 18:00:09",
       "album": {
+        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
+        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 182062,
+      "name": "Boxing Day Blues",
+      "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
+    },
+    {
+      "added_at": "2023-08-18 18:00:09",
+      "album": {
         "name": "I Dream Of Christmas (Extended)",
         "url": "https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj"
       },
@@ -1199,6 +1199,22 @@
       "duration_ms": 202903,
       "name": "I Dream Of Christmas",
       "url": "https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV"
+    },
+    {
+      "added_at": "2023-08-18 18:00:09",
+      "album": {
+        "name": "Christmas, Hopefully",
+        "url": "https://open.spotify.com/album/7AiajSCAGYAg6Xqev65K9J"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 241177,
+      "name": "Christmas, Hopefully",
+      "url": "https://open.spotify.com/track/6d6BgnJ28MtFLtx0N0hR3y"
     },
     {
       "added_at": "2023-08-18 18:00:09",
@@ -1231,22 +1247,6 @@
       "duration_ms": 161324,
       "name": "christmas day",
       "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
-    },
-    {
-      "added_at": "2023-08-18 18:00:09",
-      "album": {
-        "name": "Christmas, Hopefully",
-        "url": "https://open.spotify.com/album/7AiajSCAGYAg6Xqev65K9J"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 241177,
-      "name": "Christmas, Hopefully",
-      "url": "https://open.spotify.com/track/6d6BgnJ28MtFLtx0N0hR3y"
     }
   ],
   "unique_name": "Indie Christmas",

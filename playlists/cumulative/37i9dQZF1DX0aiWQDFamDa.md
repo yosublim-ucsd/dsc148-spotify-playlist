@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-289 songs - 23 hr 38 min
+290 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [My Ship](https://open.spotify.com/track/7gapLLf7TnXBg6NnT3kH8e) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Last Dance](https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa) | 9:36 | 2022-09-13 | 2022-09-17 |
 | [Mysterious Stranger](https://open.spotify.com/track/5NBmnHqnUz4fOn3e1hHIaI) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Mysterious Stranger](https://open.spotify.com/album/6R7K535bnjXQy4DYE9VYnI) | 4:00 | 2023-01-26 | 2023-06-16 |
 | [Naima](https://open.spotify.com/track/0D5PNTs1HSYe2nHlHulJQw) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d) | [Giant Steps](https://open.spotify.com/album/1mws5azyWvnyPkaNZEDGa4) | 5:02 | 2022-05-18 |  |
+| [Never Let Me Go](https://open.spotify.com/track/6VC6di6QOdHb4D9nxrufra) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Never Let Me Go](https://open.spotify.com/album/5VrAw3xklXBNIGVelKK2pG) | 5:23 | 2023-10-13 |  |
 | [Never Let Me Go](https://open.spotify.com/track/4axqDLBDLz7pmZ3gZXaNmQ) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Standards, Vol\. 2](https://open.spotify.com/album/6fvZds34e7H5ICQ5HOWNbd) | 7:49 | 2022-05-18 | 2022-09-23 |
 | [Never Let Me Go](https://open.spotify.com/track/6Izsb5iitILqdW45DTzmbu) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Tokyo '96](https://open.spotify.com/album/24G8gNiqf1u8epifICuR9h) | 7:02 | 2022-09-08 | 2023-09-23 |
 | [Nightfall](https://open.spotify.com/track/0n04M7GwiuMd58kTQW6WDG) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 6:36 | 2022-09-08 | 2022-11-25 |
@@ -241,7 +242,7 @@
 | [Sweet Sorrow](https://open.spotify.com/track/0zkZ2DiZf6RAjDLdE0n6Os) | [Joshua Redman Quartet](https://open.spotify.com/artist/53HPdlKWDIGFF4GvVrCtEV) | [MoodSwing](https://open.spotify.com/album/2pGsmKvSJPyv8sjJ7fzdGp) | 8:43 | 2022-05-18 |  |
 | [Tammy's Song](https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Tammy's Song](https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2) | 4:20 | 2022-10-13 |  |
 | [Tangorrus Field](https://open.spotify.com/track/0tJ5RazKORwxkHbJRDQ8nj) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [The Sound the Rhythm](https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC) | 7:24 | 2022-05-18 |  |
-| [The Art of Losing Isn't Hard to Master](https://open.spotify.com/track/5VHKQiMstyF28VfcN18whs) | [Yuri Honing Acoustic Quartet](https://open.spotify.com/artist/3VW60tUry7TYVC2BibfgIN) | [Bluebeard](https://open.spotify.com/album/7bcJhX13orgLxahPE038Gi) | 5:01 | 2022-05-18 |  |
+| [The Art of Losing Isn't Hard to Master](https://open.spotify.com/track/5VHKQiMstyF28VfcN18whs) | [Yuri Honing Acoustic Quartet](https://open.spotify.com/artist/3VW60tUry7TYVC2BibfgIN) | [Bluebeard](https://open.spotify.com/album/7bcJhX13orgLxahPE038Gi) | 5:01 | 2022-05-18 | 2023-10-15 |
 | [The ballad of sad young men](https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 5:10 | 2022-11-10 |  |
 | [The End Of A Love Affair](https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 3:11 | 2022-05-18 |  |
 | [The End of the World](https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [The Essential Skeeter Davis](https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N) | 2:37 | 2022-05-18 | 2022-08-12 |

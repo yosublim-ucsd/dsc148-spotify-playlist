@@ -4,7 +4,7 @@
 
 > Os hits já consagrados e os novos nomes da cena pop dividindo o mesmo palco!  / Foto: Cleo
 
-580 songs - 1 day 5 hr 41 min
+581 songs - 1 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,7 +471,8 @@
 | [Sentada de Milhões](https://open.spotify.com/track/6THLDEkPoMdlgVNqxccJmq) | [Pri Pach](https://open.spotify.com/artist/0HjP0FywphjmwI2T2Pcy2H) | [Sentada de Milhões](https://open.spotify.com/album/3FTIGVXppGBczjFkLomdHk) | 2:14 | 2023-02-14 | 2023-05-27 |
 | [SEREIA](https://open.spotify.com/track/4vgbaXFJ3TjznS4erd48zp) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [SEREIA](https://open.spotify.com/album/2klhmIzCu9KrwHJbsuS2lb) | 2:35 | 2023-07-07 | 2023-09-16 |
 | [Sessão do Descarrego](https://open.spotify.com/track/6eK68flOp1XqQtbWohsdNE) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Sessão do Descarrego](https://open.spotify.com/album/42gDhvs8gmBfr0NUZoqq3v) | 3:55 | 2020-10-20 | 2022-07-29 |
-| [Seu Fim](https://open.spotify.com/track/61GqCDHvztHQKJzPdmHIml) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx), [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [DARK POP](https://open.spotify.com/album/444h5b7o8GPlRWvO7gMjTV) | 2:30 | 2023-10-13 |  |
+| [Seu Fim](https://open.spotify.com/track/4UVSNgaHHZzV756hOpIcXP) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx), [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [DARK POP](https://open.spotify.com/album/3gAv7X3dUDv2k1wqDf68qQ) | 2:30 | 2023-10-13 |  |
+| [Seu Fim](https://open.spotify.com/track/61GqCDHvztHQKJzPdmHIml) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx), [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [DARK POP](https://open.spotify.com/album/444h5b7o8GPlRWvO7gMjTV) | 2:30 | 2023-10-13 | 2023-10-15 |
 | [seu lugar](https://open.spotify.com/track/1jxrqBqYCtnutz4Ug0i8kf) | [Milla](https://open.spotify.com/artist/1IATW2PPpsnKIEIaDY5CvT) | [seu lugar](https://open.spotify.com/album/4BCqyrF00Xo2VJc7R50qiw) | 3:21 | 2023-02-14 | 2023-03-25 |
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2020-10-20 | 2023-02-15 |
 | [Sikatrizes](https://open.spotify.com/track/637kGZJZhh7MQ37lXkgJgi) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Sikatrizes](https://open.spotify.com/album/4Aul6VilD9IqNuM93mc8ZR) | 3:15 | 2020-10-20 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Farruko, La Factoria & Eddy Lover. ",
-  "num_followers": 691976,
+  "num_followers": 690621,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmVlMGZmOTQyNjk5MGFmODMxOTRmNDE3NTE2Nzc1NzYwZmI3Mjkz",
+  "snapshot_id": "MCxkMTM2MzMyOWM2ZGY4MWUwZDhkY2MyNDVjNDUyNWMxYmYxMGYzZjUz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Calor",
-        "url": "https://open.spotify.com/album/0G8qT6fC0rJBzUpGL2qp5m"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Manolo Ramos",
-          "url": "https://open.spotify.com/artist/2Y4HyZqAPMu0R6nvl5rWgW"
-        },
-        {
-          "name": "Ghetto",
-          "url": "https://open.spotify.com/artist/4yxglAiH5h8Db7TmN0MUr5"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "Calor",
-      "url": "https://open.spotify.com/track/2bmAfAeeEEDT3p8UqFu9iA"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "DEKKOLETERA 333",
         "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
       },
@@ -1151,6 +1127,30 @@
       "duration_ms": 191561,
       "name": "No Te Creas Tanto",
       "url": "https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/0G8qT6fC0rJBzUpGL2qp5m"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Manolo Ramos",
+          "url": "https://open.spotify.com/artist/2Y4HyZqAPMu0R6nvl5rWgW"
+        },
+        {
+          "name": "Ghetto",
+          "url": "https://open.spotify.com/artist/4yxglAiH5h8Db7TmN0MUr5"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/2bmAfAeeEEDT3p8UqFu9iA"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 169526,
+      "name": "P\u00cdDELO",
+      "url": "https://open.spotify.com/track/4evX4mo8KG2bJ3p6iJNfyK"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "1% (Remix)",
         "url": "https://open.spotify.com/album/7vnBMKz5X3ZopYiwP1EgcW"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 290053,
       "name": "1% - Remix",
       "url": "https://open.spotify.com/track/1F4Vm45mboD6k5VAx83pJu"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 169526,
-      "name": "P\u00cdDELO",
-      "url": "https://open.spotify.com/track/4evX4mo8KG2bJ3p6iJNfyK"
     },
     {
       "added_at": "2023-10-06 04:00:00",

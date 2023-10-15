@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 654652,
+  "num_followers": 654998,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTBiYWE1ODFlYjU1NDk2MzM4MWM2ZmZmMWVmOTIwMDNhMTkxYzI4",
+  "snapshot_id": "MCw5MDk2NWQ4M2MyODc4OGJmMzdhYTI2MDRiYzdmOGMyM2VjNjI4YzA3",
   "tracks": [
     {
       "added_at": "2023-10-04 13:49:02",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Can I Believe You",
-      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "she goes",
         "url": "https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 189706,
       "name": "she goes",
       "url": "https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Can I Believe You",
+      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Brave New Woman",
-        "url": "https://open.spotify.com/album/0gqRfHjhEfRlj8vKXJdvr1"
-      },
-      "artists": [
-        {
-          "name": "Leslie Clio",
-          "url": "https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Comment Allez-Vous?",
-      "url": "https://open.spotify.com/track/6IAP7FxeaJrTqM3ZU354wH"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "Ocean Wide",
         "url": "https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 184515,
       "name": "Ocean Wide",
       "url": "https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Brave New Woman",
+        "url": "https://open.spotify.com/album/0gqRfHjhEfRlj8vKXJdvr1"
+      },
+      "artists": [
+        {
+          "name": "Leslie Clio",
+          "url": "https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Comment Allez-Vous?",
+      "url": "https://open.spotify.com/track/6IAP7FxeaJrTqM3ZU354wH"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "The Day My Father Died",
-        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 200693,
-      "name": "Chariot",
-      "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "Oceanic",
         "url": "https://open.spotify.com/album/4mhvs37yJYqOKs0c6Bunvk"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 264045,
       "name": "Spark",
       "url": "https://open.spotify.com/track/6ccpBKLyviHQyhK4o4pbX0"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 200693,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
     },
     {
       "added_at": "2023-10-04 13:49:02",

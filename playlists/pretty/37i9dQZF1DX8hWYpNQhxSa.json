@@ -1,15 +1,15 @@
 {
   "description": "Enjoy music & episodes of \"SPY\u00d7FAMILY\"! /\u300cSPY\u00d7FAMILY\u300d\u306e\u697d\u66f2\u3068\u30a8\u30d4\u30bd\u30fc\u30c9\u3092\uff11\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002\u00a9TE/S, SFP",
-  "num_followers": 79482,
+  "num_followers": 79715,
   "original_name": "SPY\u00d7FAMILY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTk0NmU0NDUyOGVmZDgxYjgyZTc3NzFjYzE4OGUyYWU0Nzk5NDFl",
+  "snapshot_id": "MCwzNzFhOWEzZThmYmYzMTNmZGE1ZGI5NTZkYWZjZmFlOTJhMmI5N2Zk",
   "tracks": [
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "Kura Kura",
         "url": "https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "Todome no ichigeki (feat. Cory Wong)",
         "url": "https://open.spotify.com/album/6BOkaOo3G5lmEsWYOqNdLK"
@@ -45,7 +45,23 @@
       "url": "https://open.spotify.com/track/7AObB1OaxymMYQ2pTmFV0f"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
+      "album": {
+        "name": "Little steps\uff08TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300fSeason 2 \u633f\u5165\u6b4c\uff09",
+        "url": "https://open.spotify.com/album/6qohjfb1eC5gveRdxYd5kH"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Little steps",
+      "url": "https://open.spotify.com/track/5x3zRaTo5gHTsEvNvbt5C8"
+    },
+    {
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SOUVENIR",
         "url": "https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "\u8272\u5f69",
         "url": "https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "Breeze - insert song from SPY x FAMILY (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3HoxvfHDsMRrRNMcx8rljY"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/5FTyvoW0szvB83VY5lQPgP"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/4eW3SwTKhAP85wIaopALTy"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "Comedy",
         "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "Mixed Nuts",
         "url": "https://open.spotify.com/album/2PN9UPqCKmZgXNtZPJtsc4"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/4G0wGof3uWHhX0s6kcqRiz"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/1nEaayEdWvl8YtQwjUjaJW"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/3wf5Sdu75ioCuDubkBOtNv"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/2nzLXdAAzjqJnbT8RKcova"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/1Vo6Bz6ekS0Yn64LwTgaMY"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/0wDOlPfdq0XHuCjqDEHQy8"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/4pQRZ0Pt9VPWtqpYsMvomM"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/2nfgyprnJBIBNPhbieJgl1"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/2MSnxMYehw5oZWlcgHMay6"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/6WHNjcCEkVSujv7xkoIE8w"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/1Swn3D2OQWxk33fPMVTYyM"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -333,7 +349,7 @@
       "url": "https://open.spotify.com/track/2lOhR6hK9Qmdd3fqxVEDRu"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -349,7 +365,7 @@
       "url": "https://open.spotify.com/track/4hsxjXCzkUpj867iMQw5QC"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/17AAEk14kARZqTVti9uqvq"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/5GqYOXvd96QW1WvmEsEQHT"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/0YbS45CyIX5oCvMMtvoDQh"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/35OddnJHOVABnzMPlBCExW"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/0FqBlrQG8uNWYLvwJQo64G"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/785ETWXTJSfLQGLSmtDlAv"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/2GTfetNw3IuHrRvSyV7QeI"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/5UTvCCeRR5BlJcDM4jn66Q"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -493,7 +509,7 @@
       "url": "https://open.spotify.com/track/70IAu6qwc3N3H90qXrH8Sn"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/6AECqCV3b5Czh9qVEsGI2j"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/6AuKc1uIooF5Yv6SbXAHuI"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -541,7 +557,7 @@
       "url": "https://open.spotify.com/track/46HTpiHb4wy0pjbEH945If"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/6Cq4LlXZkuSw8B8BUVJYFA"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/0UG9nhDKZiW8FyoNAOVqVG"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/6fNKFeZUwRbCEhBAJCscv9"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/7Esg5AZ67nqCWfjpM9I3eO"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/5eTNSg4xXJdtVweGK9Cjp0"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/3NKzmUyHdysp0X8926AwTA"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/07lMp0FAmLW4lBks9XFfJW"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/1e6bYEeqBW0XP9SXWNncGo"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/5mpFXqtrkBAvi49Kth24SH"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/5QPa7jsgJUnxw405SLh4iW"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/1ojgvLhNUYZaxAfOOEJ3Bg"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/3EbPtRAUuUp9jYOQbXleMm"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -749,7 +765,7 @@
       "url": "https://open.spotify.com/track/22YX9W1GYFDFdF5WLSjeh7"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/6oiQkae6pMuDjbpAolYIWk"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -781,7 +797,7 @@
       "url": "https://open.spotify.com/track/5xxShFmIT75e3hmkXTJDnb"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -797,7 +813,7 @@
       "url": "https://open.spotify.com/track/6rV1a0PhjCCsYu7tjOB4eB"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/3I21oJlMTEMTkNldjIOWiB"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/1PXozEaoPMr6H4mG79BGBP"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/3byEuIFkJboGhU6wBvSg0B"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -861,7 +877,7 @@
       "url": "https://open.spotify.com/track/75oYpYVq6NJBKMxE5LoX8p"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
@@ -877,7 +893,7 @@
       "url": "https://open.spotify.com/track/6rV1a0PhjCCsYu7tjOB4eB"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
@@ -893,7 +909,7 @@
       "url": "https://open.spotify.com/track/0511DtUwr7DgzxMu0CLHmL"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
@@ -909,7 +925,7 @@
       "url": "https://open.spotify.com/track/1ebdCI1I00SlA4cMa4yCcv"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
@@ -925,7 +941,7 @@
       "url": "https://open.spotify.com/track/6XwRjB6E8g4Q4tyHMemmUC"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
@@ -941,7 +957,7 @@
       "url": "https://open.spotify.com/track/30R0wNanmQcGO6i8iw65g2"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
@@ -957,7 +973,7 @@
       "url": "https://open.spotify.com/track/7nIZDvlQudGJP3cVl94WNv"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
@@ -973,7 +989,7 @@
       "url": "https://open.spotify.com/track/3tEkcswnJhrLdbJLqrS9Tf"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
@@ -989,7 +1005,7 @@
       "url": "https://open.spotify.com/track/0TsmKNo4DbEWDtOVtVCmbD"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
@@ -1005,7 +1021,7 @@
       "url": "https://open.spotify.com/track/2Z4zAG3c7hvPJ5eiOwBY3E"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
@@ -1021,7 +1037,7 @@
       "url": "https://open.spotify.com/track/7mIubKZQfgDwRyPoHNR0Vv"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
@@ -1037,7 +1053,7 @@
       "url": "https://open.spotify.com/track/42iKxyU09JRGFkOMAjIeV9"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
@@ -1053,7 +1069,7 @@
       "url": "https://open.spotify.com/track/2Fl0EuplSz1Q8EqxlGKtWR"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
@@ -1073,7 +1089,7 @@
       "url": "https://open.spotify.com/track/1CBuiVza0sSA5B7dsaKGsa"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
@@ -1089,7 +1105,7 @@
       "url": "https://open.spotify.com/track/5WTd3D7WyUdL4ZDhIgGYD5"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
@@ -1105,7 +1121,7 @@
       "url": "https://open.spotify.com/track/0vxuqvOjQYWWoTcWWhbZKO"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
@@ -1121,7 +1137,7 @@
       "url": "https://open.spotify.com/track/1AW3CTC4LJi2ZmV7SwCURD"
     },
     {
-      "added_at": "2023-10-07 15:00:00",
+      "added_at": "2023-10-14 15:00:00",
       "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"

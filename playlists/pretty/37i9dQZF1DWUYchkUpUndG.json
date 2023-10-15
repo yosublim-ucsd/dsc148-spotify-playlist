@@ -1,13 +1,37 @@
 {
   "description": "For all the new African Gospel Releases this week. Cover:   <a href=\"https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI?si=V96XUk50TDKy0dXWZ5ntgw\">Joyce Blessing</a> ",
-  "num_followers": 12550,
+  "num_followers": 12588,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDllZTNjYTJjMWJjZTAxMmQzNDVkNzc1YzQ4MDcwM2U2NTk1ZGYx",
+  "snapshot_id": "MCw2Yzk2NTg4ZjM5ZDkyZjFlMzRlMjU5MWZhNjBmNTc2ZDdhYWRmYzVm",
   "tracks": [
+    {
+      "added_at": "2023-10-14 05:05:59",
+      "album": {
+        "name": "THIS YEAR (Blessings) (feat. Ehis 'D' Greatest) [Remix]",
+        "url": "https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "duration_ms": 160239,
+      "name": "THIS YEAR (Blessings) (feat. Ehis 'D' Greatest) - Remix",
+      "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
+    },
     {
       "added_at": "2023-10-13 09:31:24",
       "album": {
@@ -1116,8 +1140,8 @@
           "url": "https://open.spotify.com/artist/5nikYjyK1nrDinw2xwc3eh"
         },
         {
-          "name": "Prosper Whyte",
-          "url": "https://open.spotify.com/artist/7E3KiCBeuZKkJPnxe7U2Xo"
+          "name": "Prosper King",
+          "url": "https://open.spotify.com/artist/677IMyYdfEJkb09sUl4ORp"
         }
       ],
       "duration_ms": 370143,

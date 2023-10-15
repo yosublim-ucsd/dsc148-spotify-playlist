@@ -1,12 +1,12 @@
 {
   "description": "Endlich wieder Strickpullover & Gem\u00fctlichkeit.",
-  "num_followers": 1280349,
+  "num_followers": 1280571,
   "original_name": "Herbstgef\u00fchle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjQwNDUxMWI4ZDUxNWNhMDMwMWM2NmZiYzY4ZjlhZWU5M2Q0ZDVk",
+  "snapshot_id": "MCwzODZmNTVhYmMyZWJhZWUyYWY1Nzk1ZmQ2YjA0ZjA1MTViYzk2MGY1",
   "tracks": [
     {
       "added_at": "2023-10-13 09:02:14",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-10-13 09:02:14",
       "album": {
-        "name": "ITALODISCO",
-        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
-      },
-      "artists": [
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        }
-      ],
-      "duration_ms": 199512,
-      "name": "ITALODISCO",
-      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
-    },
-    {
-      "added_at": "2023-10-13 09:02:14",
-      "album": {
         "name": "emails i can\u2019t send fwd:",
         "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+    },
+    {
+      "added_at": "2023-10-13 09:02:14",
+      "album": {
+        "name": "ITALODISCO",
+        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "duration_ms": 199512,
+      "name": "ITALODISCO",
+      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
     },
     {
       "added_at": "2023-10-13 09:02:14",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-10-13 09:02:14",
       "album": {
+        "name": "people pleaser / sleep at night",
+        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 146654,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
+    },
+    {
+      "added_at": "2023-10-13 09:02:14",
+      "album": {
         "name": "nie wieder normal",
         "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 197618,
       "name": "nie wieder normal",
       "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
-    },
-    {
-      "added_at": "2023-10-13 09:02:14",
-      "album": {
-        "name": "people pleaser / sleep at night",
-        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 146654,
-      "name": "people pleaser",
-      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
       "added_at": "2023-10-13 09:02:14",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-10-13 09:02:14",
       "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/6XUpmmF38NqTp1Nf6QcUfq"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "duration_ms": 216338,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/0OW2r3EJzCg7K5Ml0AUVEo"
+    },
+    {
+      "added_at": "2023-10-13 09:02:14",
+      "album": {
         "name": "I Won't Be Your Foe",
         "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 209787,
       "name": "Into Your Room",
       "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
-    },
-    {
-      "added_at": "2023-10-13 09:02:14",
-      "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/6XUpmmF38NqTp1Nf6QcUfq"
-      },
-      "artists": [
-        {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
-        }
-      ],
-      "duration_ms": 216338,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/0OW2r3EJzCg7K5Ml0AUVEo"
     },
     {
       "added_at": "2023-10-13 09:02:14",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-10-13 09:02:14",
       "album": {
+        "name": "Canaries in a Coal Mine",
+        "url": "https://open.spotify.com/album/6w8FlpM4WCoQNK94V0xruX"
+      },
+      "artists": [
+        {
+          "name": "Bukahara",
+          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
+        }
+      ],
+      "duration_ms": 207573,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/3gNGs3jVDgvbJUD8nNCZD0"
+    },
+    {
+      "added_at": "2023-10-13 09:02:14",
+      "album": {
         "name": "Head on Fire",
         "url": "https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2023-10-13 09:02:14",
       "album": {
-        "name": "Canaries in a Coal Mine",
-        "url": "https://open.spotify.com/album/6w8FlpM4WCoQNK94V0xruX"
-      },
-      "artists": [
-        {
-          "name": "Bukahara",
-          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
-        }
-      ],
-      "duration_ms": 207573,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/3gNGs3jVDgvbJUD8nNCZD0"
-    },
-    {
-      "added_at": "2023-10-13 09:02:14",
-      "album": {
         "name": "20s",
         "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-10-13 09:02:14",
       "album": {
-        "name": "Wet Dream",
-        "url": "https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 140083,
-      "name": "Wet Dream",
-      "url": "https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u"
-    },
-    {
-      "added_at": "2023-10-13 09:02:14",
-      "album": {
         "name": "Von Wind und Anonymit\u00e4t",
         "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 198448,
       "name": "Egoist",
       "url": "https://open.spotify.com/track/1SBsBiDUROntxMXINn8Cak"
+    },
+    {
+      "added_at": "2023-10-13 09:02:14",
+      "album": {
+        "name": "Wet Dream",
+        "url": "https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 140083,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u"
     },
     {
       "added_at": "2023-10-13 09:02:14",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-10-13 09:02:14",
       "album": {
+        "name": "Von Wind und Anonymit\u00e4t",
+        "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 213851,
+      "name": "Wir haben den Winter \u00fcberlebt",
+      "url": "https://open.spotify.com/track/0pNWfgjldlMtuyp28kspFY"
+    },
+    {
+      "added_at": "2023-10-13 09:02:14",
+      "album": {
         "name": "Running in Circles",
         "url": "https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 176524,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/2XoRnEuxmv6EMApi6fagyE"
-    },
-    {
-      "added_at": "2023-10-13 09:02:14",
-      "album": {
-        "name": "Von Wind und Anonymit\u00e4t",
-        "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 213851,
-      "name": "Wir haben den Winter \u00fcberlebt",
-      "url": "https://open.spotify.com/track/0pNWfgjldlMtuyp28kspFY"
     },
     {
       "added_at": "2023-10-13 09:02:14",

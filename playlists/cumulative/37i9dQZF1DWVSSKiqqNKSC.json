@@ -467,6 +467,32 @@
     },
     {
       "album": {
+        "name": "Latino 59 presenta: Bailando (Salsa Bachata Merengue Urbano Reggaeton Dembow Fitness)",
+        "url": "https://open.spotify.com/album/3lHRgY0YptnHbpFjysFb7S"
+      },
+      "artists": [
+        {
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273853,
+      "name": "Bailando - Official Salsa Version",
+      "url": "https://open.spotify.com/track/60rfRiqSdX2allhe9Qs4Qy"
+    },
+    {
+      "album": {
         "name": "Party Full Nasty (Deluxe Edition)",
         "url": "https://open.spotify.com/album/01MOvDJDnOLpU47OT2zkFw"
       },
@@ -2898,7 +2924,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 378013,
       "name": "Qu\u00e9 Pasa Loco",
       "url": "https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut"

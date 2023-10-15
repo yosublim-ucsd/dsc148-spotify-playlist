@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,419 likes - 55 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,436 likes - 55 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 50 | [Bam Bam Bam](https://open.spotify.com/track/0CocMPzPz9t5bEQZI6sTH8) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Bam Bam Bam](https://open.spotify.com/album/4jHm21WJUVm9ti6jVCc8dc) | 5:25 |
 | 51 | [Riches & Sins](https://open.spotify.com/track/7AfsFC5zcsv5yXt5Te4RAn) | [Matador](https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1), [Liz Cass](https://open.spotify.com/artist/0erHD7VN4kx2WwPg8w53kp) | [Riches & Sins](https://open.spotify.com/album/2Eyncv9jxoyXALC7491aIf) | 7:22 |
 | 52 | [The Power Plant \- Bardeeya Remix](https://open.spotify.com/track/5KKSzFYseqKgygFpMcVrGD) | [High On Mars](https://open.spotify.com/artist/2l18FuG93ODbT7h1njr1dp), [Bardeeya](https://open.spotify.com/artist/2NzfOTW0EbtlSuGyqwKrGL) | [The Power Plant](https://open.spotify.com/album/40YknsGoimQsFLB74TyAC9) | 6:44 |
-| 53 | [Astral](https://open.spotify.com/track/4cqw90LqN30dRXG9R7ZvUD) | [Far Distance](https://open.spotify.com/artist/2YWhjb3uXjX0wWO4WwczYz) | [Change the World](https://open.spotify.com/album/0GfOb5po7WmOd13QNcpZ3S) | 6:46 |
+| 53 | [Astral](https://open.spotify.com/track/0q1pqbC1RDYWmYIXRdcOAx) | [Far Distance](https://open.spotify.com/artist/2YWhjb3uXjX0wWO4WwczYz) | [Change the World](https://open.spotify.com/album/3Kt1EVddPrTOOaqJcPwce1) | 6:46 |
 | 54 | [The Feeling](https://open.spotify.com/track/2ex7NzlDpZ7uIqVd6sQIX4) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [The Feeling](https://open.spotify.com/album/6pEhtURKta65mrPTSKBn7e) | 8:32 |
 | 55 | [Shiva Manas Puja](https://open.spotify.com/track/7spGN3NecAk8fm5CARxL0X) | [Singers of the Art of Living](https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi) | [Sacred Chants of Shiva](https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3) | 5:58 |
 
-Snapshot ID: `MCwxZWFkMzA0ZjU1NjkyMjljNTgzYjBkOWVjMWQ2OWI5NjRiMzhjZTAw`
+Snapshot ID: `MCw0OWNlYmIyYmRkYWFlNTAzYjM1ZjVhZTAzM2FkZTg5N2QyN2ZiOTIy`

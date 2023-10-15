@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl?si=BG7B9bJ\-TwWccNonxJ5DhA"> أصالة </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,799 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,899 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 6 | [Sha2lebty Routiny](https://open.spotify.com/track/0vTX33ZSAyGOrIcmp3Fa9x) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Sha2lebty Routiny](https://open.spotify.com/album/705AMg1ZwX2b3XENnfqKh6) | 2:41 |
 | 7 | [صباحك فل](https://open.spotify.com/track/30hyzpcZJhX0EumCQl2mW5) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [صباحك فل](https://open.spotify.com/album/63bYgOsTB5xPlTMfQhXv3V) | 3:00 |
 | 8 | [عامل عظمة](https://open.spotify.com/track/7APmQBBjDye9j17JBYmpWx) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [عامل عظمة](https://open.spotify.com/album/67Pgzgoe0jTb96oflA0kRm) | 3:25 |
-| 9 | [Bahebak](https://open.spotify.com/track/3H4aKXzXM8UrgcueXfGSLV) | [Azeem](https://open.spotify.com/artist/1C7GlEj3ifjU7NbXTgV2sN) | [Bahebak](https://open.spotify.com/album/6lGfM6xAHxoqCCthpYMsk0) | 3:02 |
+| 9 | [Bahebak](https://open.spotify.com/track/4NCbUpDhOeCLjyBXNpSAcW) | [Azeem](https://open.spotify.com/artist/1C7GlEj3ifjU7NbXTgV2sN) | [Fiha Eh](https://open.spotify.com/album/2UdD6ElFXoz4VmVg5SLgrk) | 3:02 |
 | 10 | [لسه هعيش](https://open.spotify.com/track/1K22aN6CGHiFAxqImwSQTD) | [عبدالله ناصر](https://open.spotify.com/artist/34cgeyBX5QJGZ5aYXEmqwo) | [لسه هعيش](https://open.spotify.com/album/1sQs3SuVGHgjNTuqs85vEF) | 3:15 |
 | 11 | [حضن ابويا](https://open.spotify.com/track/6loQ5gX9N4Mq6VigXfxws7) | [Mai Kassab](https://open.spotify.com/artist/6E3IdT2vK3rC3WuRJwTQBI) | [حضن ابويا](https://open.spotify.com/album/2J4VzJh8mndeeVhWBjfKS8) | 3:15 |
 | 12 | [Negm Aali](https://open.spotify.com/track/5sT15kgCYMNdKuRHpPBsOt) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Negm Aali](https://open.spotify.com/album/3n1aXJ1k2muIVLei41iKOy) | 3:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [GALEK EIN](https://open.spotify.com/track/6qmxkmnQbq0lerMrj07NS0) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [GALEK EIN](https://open.spotify.com/album/5ihTnM8oVZm29OOYTWAWfL) | 3:46 |
 | 75 | [Ktab Maftoh](https://open.spotify.com/track/2HznblRR4j5w8QkSH1e8El) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Ktab Maftoh](https://open.spotify.com/album/4Zk52gbAM5A88NjkghWQpR) | 4:30 |
 
-Snapshot ID: `MCxkNWU5OTY2ZTM2YzE0YmZhMThiNzAyMDc0NGJlODk3ZDliZWU3OThi`
+Snapshot ID: `MCw3MjhhZGM5MGE4NjE3NjFlY2YyMTc4ZTdmOWFmMmRmNjFkMzhiNTI0`

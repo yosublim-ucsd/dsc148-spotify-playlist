@@ -4,7 +4,7 @@
 
 > Over 5 hours of classic heaters 🔥
 
-105 songs - 5 hr 37 min
+106 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Love Generation \- Radio Edit](https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Gary Pine](https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd) | [Love Generation \(Radio Edit\)](https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt) | 3:24 | 2023-05-16 | 2023-05-31 |
 | [Love Tonight \(David Guetta Remix Edit\)](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Love Tonight \(David Guetta Remix\)](https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w) | 2:38 | 2023-05-16 |  |
 | [Mad Love \- Blinkie Remix](https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j) | [Mad Love \(Remixes\)](https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW) | 3:20 | 2023-05-16 |  |
-| [Make Me Feel Better \- Radio Edit](https://open.spotify.com/track/6bH162bE1m4KN3XHsvRwJD) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Make Me Feel Better \(Radio Edit\)](https://open.spotify.com/album/4s0KnoWsmuW49TuZOyN40s) | 3:18 | 2023-05-16 |  |
+| [Make Me Feel Better \- Radio Edit](https://open.spotify.com/track/3LUcl7mJdrNlqKOZZ3bOY2) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Make Me Feel Better](https://open.spotify.com/album/2cOr1vC28kXUpS9CPwlNgZ) | 3:18 | 2023-09-05 |  |
+| [Make Me Feel Better \- Radio Edit](https://open.spotify.com/track/6bH162bE1m4KN3XHsvRwJD) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Make Me Feel Better \(Radio Edit\)](https://open.spotify.com/album/4s0KnoWsmuW49TuZOyN40s) | 3:18 | 2023-05-16 | 2023-10-15 |
 | [Make Me Feel Good](https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Me Feel Good](https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi) | 3:17 | 2023-05-16 |  |
 | [Make Your Move](https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF) | [Make Your Move](https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq) | 2:48 | 2023-05-16 |  |
 | [Me & U \(feat\. Kelsey\)](https://open.spotify.com/track/45iBqrcycpuwrqxbTEyLGa) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Kelsey](https://open.spotify.com/artist/1hr92eQ2ZzoZHa6aUeIye5) | [Me & U \(feat\. Kelsey\)](https://open.spotify.com/album/28LlrkMOdET1kQfi6RP7HO) | 3:30 | 2023-05-16 |  |

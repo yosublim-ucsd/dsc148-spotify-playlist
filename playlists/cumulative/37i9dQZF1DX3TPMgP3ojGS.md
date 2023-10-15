@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,753 songs - 3 day 6 hr 32 min
+1,754 songs - 3 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Autumn](https://open.spotify.com/track/7hId0QEICMXeRPy6VBorLT) | [Maria Holloway](https://open.spotify.com/artist/2XtdZEExbugVrGVxyXwMmM) | [Autumn](https://open.spotify.com/album/7dmvNUcVYlDY2djzYwkuNC) | 2:01 | 2021-03-06\* | 2021-05-03 |
 | [autumn breeze](https://open.spotify.com/track/04SMi5SXZhiEg18r4q8sHN) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [autumn breeze](https://open.spotify.com/album/3OvcMcdJnqPdQqjSrKszgN) | 2:31 | 2021-12-13 | 2022-04-17 |
 | [Autumn Coming](https://open.spotify.com/track/5MlWVm7Zz923Qj1MuDVVG6) | [Carol Antoine](https://open.spotify.com/artist/6rmbj0DX5LpsEtDzGgmFGp) | [Recital](https://open.spotify.com/album/71ZwJjF1CBrcKhe9KGJnF9) | 3:20 | 2021-03-14 | 2022-07-29 |
+| [Autumn Sky](https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Autumn Sky](https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT) | 2:38 | 2023-10-10 |  |
 | [Ava](https://open.spotify.com/track/2ZOcIBtmGkwQeL1ZQxhCEy) | [Kasper Schill](https://open.spotify.com/artist/2P2QGjpDk60svsWQGidU0J) | [Ava](https://open.spotify.com/album/7v48jyII9Nshy8uhsFSiMX) | 2:48 | 2021-03-21 | 2022-04-15 |
 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 | 2021-05-05 | 2022-05-21 |
 | [Awake](https://open.spotify.com/track/4IMXgViQWKGQku8DPaF9Bm) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Awake](https://open.spotify.com/album/6sf1sDNB9paGfjOzavrIXj) | 2:22 | 2021-03-24 | 2022-07-27 |
@@ -945,7 +946,7 @@
 | [Metronome](https://open.spotify.com/track/5uGY5VV9lZonCaRKm1wwmO) | [Massimo Natali \[IT\]](https://open.spotify.com/artist/5ygNFOnjyFdEe46rdTeB8b) | [Nobody's Home](https://open.spotify.com/album/2JwnW6S4ErnUQG8xT7cB6i) | 2:58 | 2021-03-08 | 2021-05-05 |
 | [MHope](https://open.spotify.com/track/5SGA3FVYvE3uJ2vcGtz357) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Stories From Far Away On Piano](https://open.spotify.com/album/2lsaczmzeH0JzES2smG9hU) | 4:57 | 2021-03-07 | 2022-04-17 |
 | [Mi troverai](https://open.spotify.com/track/2RLDeu364jySRZEMjhzdru) | [Oddo Fava](https://open.spotify.com/artist/3DbqhQZ1BfpxozIDPMjZDd) | [Mi troverai](https://open.spotify.com/album/2hJrL2lBaZetdGYmOKjGsY) | 2:38 | 2021-07-10 | 2021-08-11 |
-| [Mid Air](https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Mid Air](https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK) | 2:27 | 2021-03-27 |  |
+| [Mid Air](https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Mid Air](https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK) | 2:27 | 2021-03-27 | 2023-10-15 |
 | [Midgard](https://open.spotify.com/track/14JKtGSkaRBguVTcisOOiK) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Yggdrasil](https://open.spotify.com/album/5psFJLRfDBxZSL9hHTAyZF) | 2:15 | 2021-05-05 | 2022-07-14 |
 | [Midsummer Night](https://open.spotify.com/track/4Swy453ANWqyliwobmQQAA) | [Josie O'Connor](https://open.spotify.com/artist/1INwxO8hvbz31PY6iYxH5y) | [Sleepy Baby Piano](https://open.spotify.com/album/4F64kqOUZucHOwcfftBJ5u) | 2:35 | 2021-03-10 | 2022-04-21 |
 | [Midwayer](https://open.spotify.com/track/1TbpsHM1Cd4Lh7oWNox4AX) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Solipsism](https://open.spotify.com/album/2Q31SUhxKncUHKEZIPjJVn) | 5:45 | 2021-04-23 | 2021-05-17 |

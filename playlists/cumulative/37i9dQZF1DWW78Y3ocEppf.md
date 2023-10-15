@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: VEDO
 
-572 songs - 1 day 5 hr 56 min
+573 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [BILL$](https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 2:23 | 2022-08-05 | 2023-03-18 |
 | [Birthday Girl](https://open.spotify.com/track/4AmxBBozDJDeNcsPMcLrTq) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [Birthday Girl](https://open.spotify.com/album/1KfH7Htcq4ck6JNVZrozUa) | 2:23 | 2022-11-11 | 2022-12-03 |
 | [Bitch Don't Be Mad](https://open.spotify.com/track/24WhLBcWByvFMrt8NNQ0ax) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Habits](https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq) | 3:05 | 2021-12-15 | 2023-02-10 |
+| [Bitter](https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Bitter](https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp) | 2:18 | 2022-11-04 |  |
 | [Bitter](https://open.spotify.com/track/4POE6bABqxHcXeUeJDebhn) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Bitter](https://open.spotify.com/album/75Web3RXKzSyN8zP82idur) | 3:05 | 2022-04-08 | 2022-07-22 |
 | [Bitter](https://open.spotify.com/track/6RLK5Lu1uAQHk20UIKgdpj) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:03 | 2022-05-06 | 2022-10-15 |
 | [Bittersweet \- Radio Edit](https://open.spotify.com/track/77nSU6xoiBDJZAMqBSxLav) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy) | 3:56 | 2022-03-25 | 2022-04-21 |
@@ -494,7 +495,7 @@
 | [Swerve](https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | [Swerve](https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u) | 3:19 | 2023-03-03 |  |
 | [T.B.D.](https://open.spotify.com/track/21PVx9jD4ylrKTXgdntOz0) | [Solomon Headen](https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv) | [T.B.D.](https://open.spotify.com/album/18Xm1iSbMb5srLntraenBP) | 3:03 | 2023-10-06 |  |
 | [Take It Back](https://open.spotify.com/track/3UJ8XNSmK5MKkIVsZPMMh7) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Take It Back](https://open.spotify.com/album/41lbIMunApS8mpyLtUW81W) | 3:18 | 2022-03-25 | 2022-07-15 |
-| [Talk To Me](https://open.spotify.com/track/0Yb6xqb1lqVJKc71pzqjic) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Talk To Me](https://open.spotify.com/album/4kg6StXbKPakx9iOoguXov) | 3:14 | 2023-08-18 |  |
+| [Talk To Me](https://open.spotify.com/track/0Yb6xqb1lqVJKc71pzqjic) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Talk To Me](https://open.spotify.com/album/4kg6StXbKPakx9iOoguXov) | 3:14 | 2023-08-18 | 2023-10-15 |
 | [Talkback](https://open.spotify.com/track/616rALOBxvc3bbp38iiud5) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:04 | 2023-03-10 | 2023-10-07 |
 | [Talkback](https://open.spotify.com/track/7o3fWwXCehCmRya4TBvqpe) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Talkback](https://open.spotify.com/album/5MNz65f0S30Ev8AGVdFI5I) | 3:04 | 2023-03-10 | 2023-04-27 |
 | [Talkin](https://open.spotify.com/track/0u1VMv2aVqY1AC9qkCdZUH) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Talkin](https://open.spotify.com/album/3nHJDlDfY5j2jTbfyzAmQs) | 1:55 | 2022-09-16 | 2022-10-15 |

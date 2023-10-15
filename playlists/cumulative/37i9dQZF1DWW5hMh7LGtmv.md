@@ -4,7 +4,7 @@
 
 > The ultimate line\-up of Summer anthems, strap in !!!
 
-83 songs - 4 hr 57 min
+84 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Heatwave](https://open.spotify.com/track/3tTTXMayU66XxxXqMV88jQ) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [MSD](https://open.spotify.com/artist/6SoJMemX8iYocIPrGioXYv) | [All 10s](https://open.spotify.com/album/5U2jiBbJQB9jjExo4iwRKe) | 3:15 | 2023-02-28 |  |
 | [Hips Don't Lie \(feat\. Wyclef Jean\)](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Oral Fixation, Vol\. 2 \(Expanded Edition\)](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) | 3:38 | 2023-02-28 |  |
 | [Holiday](https://open.spotify.com/track/7rQEsMAmRB4KaXhx3xJM13) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [Tongue N' Cheek](https://open.spotify.com/album/5nIyypNxytKxKZ0jOm6CEp) | 3:40 | 2023-02-28 |  |
-| [House Every Weekend \- Radio Edit](https://open.spotify.com/track/25SaEmU5GHzcP1kTaTS8FZ) | [David Zowie](https://open.spotify.com/artist/2yEkeJoFOvm6qHuECSDHFg) | [House Every Weekend \(Radio Edit\)](https://open.spotify.com/album/5FSxkcp05SDo2W1iXMyyWN) | 3:02 | 2023-02-28 |  |
+| [House Every Weekend \- Radio Edit](https://open.spotify.com/track/25SaEmU5GHzcP1kTaTS8FZ) | [David Zowie](https://open.spotify.com/artist/2yEkeJoFOvm6qHuECSDHFg) | [House Every Weekend \(Radio Edit\)](https://open.spotify.com/album/5FSxkcp05SDo2W1iXMyyWN) | 3:02 | 2023-02-28 | 2023-10-15 |
+| [House Every Weekend \- Radio Edit](https://open.spotify.com/track/7u9zFAWUAZy2vdVwAIAv5s) | [David Zowie](https://open.spotify.com/artist/2yEkeJoFOvm6qHuECSDHFg) | [House Every Weekend \(Radio Edit\)](https://open.spotify.com/album/19hIjxvx2QBJoyJ0DVJgHJ) | 3:02 | 2023-02-28 |  |
 | [How We Do \(Party\)](https://open.spotify.com/track/05j9ehtmZsj8BL07s9rZ75) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA](https://open.spotify.com/album/1aDnLoXL8rl3WFJWLTxZmx) | 4:07 | 2023-02-28 |  |
 | [I Kissed A Girl](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 2:59 | 2023-02-28 |  |
 | [I Wanna Feel](https://open.spotify.com/track/5nrdOK0i7daIsDAt4zRbHM) | [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [I Wanna Feel](https://open.spotify.com/album/18hwLKK9KK28ceLoxjPCG3) | 3:06 | 2023-02-28 |  |

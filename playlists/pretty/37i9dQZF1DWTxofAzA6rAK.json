@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 53657,
+  "num_followers": 53716,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDNmYzk1YWE2MzRjN2M3NjNjMjc5NTA4MDUwZmQ5MjE4ZWFiZGMw",
+  "snapshot_id": "MCw0ZjgzMjY5YWM4YzdkYmQwODg5NTJiNmQ0ZGMzNzUyNmE0MWFhMDg3",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Moca",
-        "url": "https://open.spotify.com/album/2BbdZLSx9ZxqRK8NlCrmmw"
-      },
-      "artists": [
-        {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
-        }
-      ],
-      "duration_ms": 183092,
-      "name": "Moca",
-      "url": "https://open.spotify.com/track/25gAArCPkbQRxgb7HXYqrP"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Street Cred",
         "url": "https://open.spotify.com/album/2yEZn1kPkRUTW3F48OEFeB"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 150000,
       "name": "Street Cred",
       "url": "https://open.spotify.com/track/7uCd9RMJGcbZY9zpv0dPw7"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Moca",
+        "url": "https://open.spotify.com/album/2BbdZLSx9ZxqRK8NlCrmmw"
+      },
+      "artists": [
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "duration_ms": 183092,
+      "name": "Moca",
+      "url": "https://open.spotify.com/track/25gAArCPkbQRxgb7HXYqrP"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Dickmatized",
-        "url": "https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ"
-      },
-      "artists": [
-        {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
-        }
-      ],
-      "duration_ms": 140336,
-      "name": "Dickmatized",
-      "url": "https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Brrrp",
         "url": "https://open.spotify.com/album/4lZXa3MY9tsZxsrnpx54fm"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 161182,
       "name": "Brrrp",
       "url": "https://open.spotify.com/track/383ptF3PbNr3Z1NvwO2Je5"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Dickmatized",
+        "url": "https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "duration_ms": 140336,
+      "name": "Dickmatized",
+      "url": "https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -791,42 +791,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Great Is He",
-        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 221583,
-      "name": "Skeleton Cartier",
-      "url": "https://open.spotify.com/track/7vRm8Bzniw9mtHoFtnoxB0"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "GPP",
-        "url": "https://open.spotify.com/album/05JFI9UgHFBD6gvanViaTW"
-      },
-      "artists": [
-        {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
-        },
-        {
-          "name": "Di Genius",
-          "url": "https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ"
-        }
-      ],
-      "duration_ms": 193958,
-      "name": "GPP",
-      "url": "https://open.spotify.com/track/3rnMusaZSGqhvWJG63Li55"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "BOUNCE",
         "url": "https://open.spotify.com/album/1EIWqkCUf5ZR6FBaP0J8LV"
       },
@@ -843,6 +807,38 @@
       "duration_ms": 153652,
       "name": "BOUNCE",
       "url": "https://open.spotify.com/track/744IMVuf8wEVECCOLThDHJ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Likkle Miss",
+        "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 134452,
+      "name": "Likkle Miss",
+      "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 221583,
+      "name": "Skeleton Cartier",
+      "url": "https://open.spotify.com/track/7vRm8Bzniw9mtHoFtnoxB0"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -895,18 +891,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Likkle Miss",
-        "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
+        "name": "GPP",
+        "url": "https://open.spotify.com/album/05JFI9UgHFBD6gvanViaTW"
       },
       "artists": [
         {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        },
+        {
+          "name": "Di Genius",
+          "url": "https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ"
         }
       ],
-      "duration_ms": 134452,
-      "name": "Likkle Miss",
-      "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
+      "duration_ms": 193958,
+      "name": "GPP",
+      "url": "https://open.spotify.com/track/3rnMusaZSGqhvWJG63Li55"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/6I4pA1YFu1ujWabNzhRVUi"
-      },
-      "artists": [
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
-        }
-      ],
-      "duration_ms": 206393,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/2TlWUtnJz1SdlWi5B0tORD"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Mona Lisa",
         "url": "https://open.spotify.com/album/4Pf654V1D7cwZaQ5Hqwvv4"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 149333,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/4FOLsEGYFzPy1CyO0vkLwH"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/6I4pA1YFu1ujWabNzhRVUi"
+      },
+      "artists": [
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "duration_ms": 206393,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/2TlWUtnJz1SdlWi5B0tORD"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Solemn Request",
-        "url": "https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM"
-      },
-      "artists": [
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
-        }
-      ],
-      "duration_ms": 186958,
-      "name": "Solemn Request",
-      "url": "https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Imperfections",
         "url": "https://open.spotify.com/album/4Y6O56WU1RCfEXPmBnMhFf"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 188041,
       "name": "Guzu Bunx (Fada Rock)",
       "url": "https://open.spotify.com/track/0aypZqcK5pDscPH5SyOTbw"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Solemn Request",
+        "url": "https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM"
+      },
+      "artists": [
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "duration_ms": 186958,
+      "name": "Solemn Request",
+      "url": "https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Still a Bleed",
-        "url": "https://open.spotify.com/album/7yXsnGPX5pmfHxvoEDMyuG"
-      },
-      "artists": [
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
-        }
-      ],
-      "duration_ms": 216528,
-      "name": "Still a Bleed",
-      "url": "https://open.spotify.com/track/34uBKj0bzsVkI70I8Xvpab"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Stay Clean",
         "url": "https://open.spotify.com/album/7o6IYuy24165gpEsv12hUQ"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 159022,
       "name": "Stay Clean",
       "url": "https://open.spotify.com/track/0uHxgbtjFtgFnvZddrENzf"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Still a Bleed",
+        "url": "https://open.spotify.com/album/7yXsnGPX5pmfHxvoEDMyuG"
+      },
+      "artists": [
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "duration_ms": 216528,
+      "name": "Still a Bleed",
+      "url": "https://open.spotify.com/track/34uBKj0bzsVkI70I8Xvpab"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Another Dolla",
-        "url": "https://open.spotify.com/album/47WukhbbObtRY8dJJNtLpl"
+        "name": "Crook",
+        "url": "https://open.spotify.com/album/42swaElolib5BwSAtaZYQl"
       },
       "artists": [
         {
-          "name": "RajahWild",
-          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
+          "name": "Malie Donn",
+          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
         }
       ],
-      "duration_ms": 163526,
-      "name": "Another Dolla",
-      "url": "https://open.spotify.com/track/7deQrS3BUiDdPJgAl2e3MP"
+      "duration_ms": 245995,
+      "name": "Crook",
+      "url": "https://open.spotify.com/track/5mXpQWrAZoPVgp4cV0Avh0"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Crook",
-        "url": "https://open.spotify.com/album/42swaElolib5BwSAtaZYQl"
+        "name": "Another Dolla",
+        "url": "https://open.spotify.com/album/47WukhbbObtRY8dJJNtLpl"
       },
       "artists": [
         {
-          "name": "Malie Donn",
-          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
+          "name": "RajahWild",
+          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
         }
       ],
-      "duration_ms": 245995,
-      "name": "Crook",
-      "url": "https://open.spotify.com/track/5mXpQWrAZoPVgp4cV0Avh0"
+      "duration_ms": 163526,
+      "name": "Another Dolla",
+      "url": "https://open.spotify.com/track/7deQrS3BUiDdPJgAl2e3MP"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1375,22 +1375,6 @@
       "duration_ms": 196115,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/3tP5YkONgQz9eMu5P97RA9"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Powder",
-        "url": "https://open.spotify.com/album/4tMjcwSNXqUsPhLwsFA1GP"
-      },
-      "artists": [
-        {
-          "name": "RajahWild",
-          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
-        }
-      ],
-      "duration_ms": 149818,
-      "name": "Powder",
-      "url": "https://open.spotify.com/track/7sSVFr6ENsP1D6jWFUNZ3X"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Corrupt, Pt. 2",
-        "url": "https://open.spotify.com/album/6xqICcPQrRijWbnfWNTc3r"
+        "name": "Powder",
+        "url": "https://open.spotify.com/album/4tMjcwSNXqUsPhLwsFA1GP"
       },
       "artists": [
         {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/6eUNLMBYdLEO6OgYqhzQCL"
+          "name": "RajahWild",
+          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
         }
       ],
-      "duration_ms": 156631,
-      "name": "Corrupt, Pt. 2",
-      "url": "https://open.spotify.com/track/7zTa7Ba7lV0DOya0xTj5Uf"
+      "duration_ms": 149818,
+      "name": "Powder",
+      "url": "https://open.spotify.com/track/7sSVFr6ENsP1D6jWFUNZ3X"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1499,6 +1483,22 @@
       "duration_ms": 158434,
       "name": "TOKYO",
       "url": "https://open.spotify.com/track/7dfs1SOSa7WzEeTC5HNS7P"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Corrupt, Pt. 2",
+        "url": "https://open.spotify.com/album/6xqICcPQrRijWbnfWNTc3r"
+      },
+      "artists": [
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/6eUNLMBYdLEO6OgYqhzQCL"
+        }
+      ],
+      "duration_ms": 156631,
+      "name": "Corrupt, Pt. 2",
+      "url": "https://open.spotify.com/track/7zTa7Ba7lV0DOya0xTj5Uf"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "1Matik",
-        "url": "https://open.spotify.com/album/59gIceHJs6XstV3vX2jooB"
-      },
-      "artists": [
-        {
-          "name": "Govana",
-          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "1Matik",
-      "url": "https://open.spotify.com/track/1PZplUw7AKK4p6ch8aoK1d"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Statistic",
         "url": "https://open.spotify.com/album/2o96kaWezr20piyF7LRqne"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 182909,
       "name": "Statistic",
       "url": "https://open.spotify.com/track/19NSqvgwMXkRc1g0FCvaR9"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "1Matik",
+        "url": "https://open.spotify.com/album/59gIceHJs6XstV3vX2jooB"
+      },
+      "artists": [
+        {
+          "name": "Govana",
+          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "1Matik",
+      "url": "https://open.spotify.com/track/1PZplUw7AKK4p6ch8aoK1d"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Pro-Gress",
+        "url": "https://open.spotify.com/album/2XGhRJbTjrxFH1EWaNl7CH"
+      },
+      "artists": [
+        {
+          "name": "Jahvillani",
+          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
+        }
+      ],
+      "duration_ms": 162240,
+      "name": "Pro-Gress",
+      "url": "https://open.spotify.com/track/6uZsoeimrQQH86DVe5DwIn"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Geet Weh",
         "url": "https://open.spotify.com/album/2uRMF6ahQkrTDiVDabe635"
       },
@@ -2395,22 +2411,6 @@
       "duration_ms": 171935,
       "name": "Geet Weh",
       "url": "https://open.spotify.com/track/3UeNRslRMrBxd6fDytLvWL"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Pro-Gress",
-        "url": "https://open.spotify.com/album/2XGhRJbTjrxFH1EWaNl7CH"
-      },
-      "artists": [
-        {
-          "name": "Jahvillani",
-          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
-        }
-      ],
-      "duration_ms": 162240,
-      "name": "Pro-Gress",
-      "url": "https://open.spotify.com/track/6uZsoeimrQQH86DVe5DwIn"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2491,26 +2491,6 @@
       "duration_ms": 174915,
       "name": "DOGGY STYLE",
       "url": "https://open.spotify.com/track/7sGPyceH2EdIzW5vDqtGYU"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Life Story",
-        "url": "https://open.spotify.com/album/2XwxdxqI2MfrPsaSIfXUo0"
-      },
-      "artists": [
-        {
-          "name": "Silk Boss",
-          "url": "https://open.spotify.com/artist/5eDVLjuN0hk3ZhjJdCvHLF"
-        },
-        {
-          "name": "Terro Don",
-          "url": "https://open.spotify.com/artist/7oXpzQEwUnq5cFEGPK8wk7"
-        }
-      ],
-      "duration_ms": 208065,
-      "name": "Life Story",
-      "url": "https://open.spotify.com/track/54RD18DacMustMg17xzEC0"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2607,6 +2587,26 @@
       "duration_ms": 160313,
       "name": "Skeng Live Large",
       "url": "https://open.spotify.com/track/0Kf9LnXqUasemdFJyB8iFV"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Life Story",
+        "url": "https://open.spotify.com/album/2XwxdxqI2MfrPsaSIfXUo0"
+      },
+      "artists": [
+        {
+          "name": "Silk Boss",
+          "url": "https://open.spotify.com/artist/5eDVLjuN0hk3ZhjJdCvHLF"
+        },
+        {
+          "name": "Terro Don",
+          "url": "https://open.spotify.com/artist/7oXpzQEwUnq5cFEGPK8wk7"
+        }
+      ],
+      "duration_ms": 208065,
+      "name": "Life Story",
+      "url": "https://open.spotify.com/track/54RD18DacMustMg17xzEC0"
     },
     {
       "added_at": "2023-05-24 08:21:37",

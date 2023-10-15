@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 618662,
+  "num_followers": 618631,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTI5MzZlZjAzYWYwM2QwZGMyNDNjYmZlNjBlZjVkYzk0OGE0NmI2",
+  "snapshot_id": "MCwyZTlkOWVmMWUwZjE0OWIyMjg2OGQ3OTRkMWU5YjkxNjQ0NDkzYmJk",
   "tracks": [
     {
       "added_at": "2023-10-11 12:51:15",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
+        "name": "Die John Bello Story, Vol. 3",
+        "url": "https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB"
+      },
+      "artists": [
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Rhythmus meines Lebens",
+      "url": "https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
         "name": "Am Wasser gebaut",
         "url": "https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 241666,
       "name": "An Tagen wie diesen",
       "url": "https://open.spotify.com/track/1rbnDRx6VuKAGS36CmiyQD"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
-        "name": "Die John Bello Story, Vol. 3",
-        "url": "https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB"
-      },
-      "artists": [
-        {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "Rhythmus meines Lebens",
-      "url": "https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -347,22 +347,18 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "New Dubby Conquerors",
-        "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
+        "name": "Au\u00dfen Top Hits, innen Geschmack",
+        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
       },
       "artists": [
         {
-          "name": "Seeed",
-          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
-        },
-        {
-          "name": "Black Kappa",
-          "url": "https://open.spotify.com/artist/3FkwhBl3e9ktuTbKnWOcm6"
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
         }
       ],
-      "duration_ms": 284906,
-      "name": "Dickes B (feat. Black Kappa)",
-      "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
+      "duration_ms": 354133,
+      "name": "Jein",
+      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -383,18 +379,22 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Au\u00dfen Top Hits, innen Geschmack",
-        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
+        "name": "New Dubby Conquerors",
+        "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
       },
       "artists": [
         {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+          "name": "Seeed",
+          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
+        },
+        {
+          "name": "Black Kappa",
+          "url": "https://open.spotify.com/artist/3FkwhBl3e9ktuTbKnWOcm6"
         }
       ],
-      "duration_ms": 354133,
-      "name": "Jein",
-      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
+      "duration_ms": 284906,
+      "name": "Dickes B (feat. Black Kappa)",
+      "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -451,30 +451,6 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Party 2020",
-        "url": "https://open.spotify.com/album/5nf3tQHGdH6J3iINNfOL6T"
-      },
-      "artists": [
-        {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC"
-        }
-      ],
-      "duration_ms": 188503,
-      "name": "Ohne mein Team",
-      "url": "https://open.spotify.com/track/6hOqWob9hUfgJr68J1vEhJ"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
         "name": "Demotape",
         "url": "https://open.spotify.com/album/2It5lgo0UhWhaxsZfwI905"
       },
@@ -487,6 +463,22 @@
       "duration_ms": 205293,
       "name": "Schwule M\u00e4dchen",
       "url": "https://open.spotify.com/track/2MEm4ydaYLfXcS0RwocAu4"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
+        "name": "Kompass ohne Norden (Premium Edition)",
+        "url": "https://open.spotify.com/album/1SWh0DfTaWQPopinkTPIMY"
+      },
+      "artists": [
+        {
+          "name": "Prinz Pi",
+          "url": "https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk"
+        }
+      ],
+      "duration_ms": 252786,
+      "name": "Kompass ohne Norden",
+      "url": "https://open.spotify.com/track/4wEDActEN5ZyJi0DK8bCtf"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -523,18 +515,26 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Kompass ohne Norden (Premium Edition)",
-        "url": "https://open.spotify.com/album/1SWh0DfTaWQPopinkTPIMY"
+        "name": "Party 2020",
+        "url": "https://open.spotify.com/album/5nf3tQHGdH6J3iINNfOL6T"
       },
       "artists": [
         {
-          "name": "Prinz Pi",
-          "url": "https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk"
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC"
         }
       ],
-      "duration_ms": 252786,
-      "name": "Kompass ohne Norden",
-      "url": "https://open.spotify.com/track/4wEDActEN5ZyJi0DK8bCtf"
+      "duration_ms": 188503,
+      "name": "Ohne mein Team",
+      "url": "https://open.spotify.com/track/6hOqWob9hUfgJr68J1vEhJ"
     },
     {
       "added_at": "2023-10-11 12:51:15",

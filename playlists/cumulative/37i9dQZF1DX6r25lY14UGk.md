@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-145 songs - 6 hr 48 min
+146 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Make New Friends](https://open.spotify.com/track/023TXy52tzrzfR1JRXx4PL) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [Carlitta Durand](https://open.spotify.com/artist/16VW2tIJ6vyhe06xfI3T7t) | [D.A.D](https://open.spotify.com/album/0XwbOQniQkH18ZPTa8em0N) | 4:43 | 2022-04-15 |  |
 | [March Together](https://open.spotify.com/track/4xvXnmxM594ZJIlBZjSVAn) | [Aaron Nigel Smith](https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4), [Shine & The Moonbeams](https://open.spotify.com/artist/3113UIzVXpx1FROG4LCgDo) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 2:39 | 2022-04-15 |  |
 | [Matter of Fact](https://open.spotify.com/track/24QRXHKVA6rWIxHZqU8rX9) | [Elliott Park](https://open.spotify.com/artist/6iz85IUQbVWxKzemxy4u16) | [The Mouth](https://open.spotify.com/album/4KZHTM0tObhCZPckxqb4hA) | 2:24 | 2022-04-15 |  |
-| [MONEY TREE](https://open.spotify.com/track/40CFtr9fZCox5EkWrXBZTE) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW) | [MONEY TREE](https://open.spotify.com/album/60FbRUMst0DOBMHfqv1Dap) | 2:40 | 2022-10-07 |  |
+| [MONEY TREE](https://open.spotify.com/track/40CFtr9fZCox5EkWrXBZTE) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW) | [MONEY TREE](https://open.spotify.com/album/60FbRUMst0DOBMHfqv1Dap) | 2:40 | 2022-10-07 | 2023-10-15 |
+| [MONEY TREE](https://open.spotify.com/track/7z5A9hoqy581NIkBXVg1QX) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW) | [MONEY TREE](https://open.spotify.com/album/7wFywtiGVgaywAiIhBNaRe) | 2:40 | 2023-09-22 |  |
 | [My Own Drum \(Remix\) \[with Missy Elliott\]](https://open.spotify.com/track/3btsAwBdn0ndjBiVrOlvfH) | [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [My Own Drum \(Remix\) \[with Missy Elliott\] \[From the Motion Picture "Vivo"\]](https://open.spotify.com/album/0cE3AvMiwhxzxzITp1AkZv) | 2:57 | 2022-04-15 |  |
 | [My Voice Is A Trumpet](https://open.spotify.com/track/3l4aDXm2sm3A7YvUwP9UbV) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [My Voice Is A Trumpet](https://open.spotify.com/album/0UPyebDii2nRtZkZFl6G1u) | 2:24 | 2022-04-15 |  |
 | [Neighbor](https://open.spotify.com/track/1t0zKQvPW6iQPHGnUikbgC) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Neighbor](https://open.spotify.com/album/3QG5NYtfW5HsUNRHoLVirX) | 3:56 | 2022-10-07 |  |

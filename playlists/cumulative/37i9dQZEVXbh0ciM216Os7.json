@@ -247,6 +247,36 @@
     },
     {
       "album": {
+        "name": "311!",
+        "url": "https://open.spotify.com/album/0FW36xz6JNy9uIFx9TOWs3"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        },
+        {
+          "name": "sneek",
+          "url": "https://open.spotify.com/artist/6O4EoU7wO1VU8yAEhbIii5"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper & Keyon Harrold",
+          "url": "https://open.spotify.com/artist/0PWMzZR4AE7UW9ypDiXVbJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206856,
+      "name": "311!",
+      "url": "https://open.spotify.com/track/4tQPhI1lvsqsyqT7AOwwdG"
+    },
+    {
+      "album": {
         "name": "3D",
         "url": "https://open.spotify.com/album/5sxOh8Gqo4XDRpEeD7yPj7"
       },
@@ -596,7 +626,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 445933,
       "name": "All Mountains",
       "url": "https://open.spotify.com/track/1u7JDkPMV47l42Ajimwnzw"
@@ -5454,7 +5484,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 155003,
       "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
       "url": "https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY"
@@ -5914,6 +5944,24 @@
       "duration_ms": 177307,
       "name": "Halo",
       "url": "https://open.spotify.com/track/7dJIaWsywNj3CsaccpBH0f"
+    },
+    {
+      "album": {
+        "name": "Hang 10",
+        "url": "https://open.spotify.com/album/6G6hcg5M7Gty9Z7kA5vAYO"
+      },
+      "artists": [
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105665,
+      "name": "Hang 10",
+      "url": "https://open.spotify.com/track/1ESMgtcm682joX2Twf6Dce"
     },
     {
       "album": {
@@ -10192,7 +10240,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 218794,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk"
@@ -10964,7 +11012,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 118436,
       "name": "Rebuke - Instrumental",
       "url": "https://open.spotify.com/track/01S67rhdOvdqdvQHBuLJpO"
@@ -13167,6 +13215,24 @@
     },
     {
       "album": {
+        "name": "That's Texas",
+        "url": "https://open.spotify.com/album/4Mk6vJ6RJF1qy0F3Rcnyj8"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163133,
+      "name": "That's Texas",
+      "url": "https://open.spotify.com/track/1sjHM1Gw4lAxmoCSK9M3l8"
+    },
+    {
+      "album": {
         "name": "That\u2019s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) [Sabrina\u2019s Version]",
         "url": "https://open.spotify.com/album/0TN8dXBkeIqDjVfUV3gPpc"
       },
@@ -14150,7 +14216,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-15",
       "duration_ms": 288230,
       "name": "Too Far Gone? (Live at MetLife Stadium, East Rutherford, NJ \u2013 August 6, 2023)",
       "url": "https://open.spotify.com/track/4P5M6lFGdjz58JJK6hYW8w"

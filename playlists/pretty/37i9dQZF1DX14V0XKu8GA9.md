@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: King Lil G & Young Drummer Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,554 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,625 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 41 | [Vivid Dreams](https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Vivid Dreams](https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK) | 2:56 |
 | 42 | [Bienvenidos](https://open.spotify.com/track/01KeHXxbmd5GuFOkgzDBSL) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Bienvenidos](https://open.spotify.com/album/0flYjj312P4iOOuriLc37g) | 2:34 |
 | 43 | [Jugglin \(feat\. Mustard & Baby Stone Gorillas\)](https://open.spotify.com/track/7bDwxr2hinZkqWtAQeDGXS) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Joe Peshi](https://open.spotify.com/artist/6s010JcJfq8q4AI4XEeWWh), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [Jugglin \(feat\. Mustard & Baby Stone Gorillas\)](https://open.spotify.com/album/5ujrZVzynlbHdfyOxkLux1) | 3:07 |
-| 44 | [What It Takes](https://open.spotify.com/track/0Kp6qc08PPUKw9VLWuknAT) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Paul Wall](https://open.spotify.com/artist/1ANtdpqM2CM6NRoiD5ffS9) | [What It Takes](https://open.spotify.com/album/05IhGWbXt3O7Ny3GZxKqX0) | 2:29 |
-| 45 | [Are We Really Free](https://open.spotify.com/track/3XDJen8F9IIGdBNJp5SheH) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Are We Really Free](https://open.spotify.com/album/0bHzwbqG82wGGuxqSq9JRO) | 4:47 |
+| 44 | [Are We Really Free](https://open.spotify.com/track/3XDJen8F9IIGdBNJp5SheH) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Are We Really Free](https://open.spotify.com/album/0bHzwbqG82wGGuxqSq9JRO) | 4:47 |
+| 45 | [What It Takes](https://open.spotify.com/track/0Kp6qc08PPUKw9VLWuknAT) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Paul Wall](https://open.spotify.com/artist/1ANtdpqM2CM6NRoiD5ffS9) | [What It Takes](https://open.spotify.com/album/05IhGWbXt3O7Ny3GZxKqX0) | 2:29 |
 | 46 | [Rich Remedy](https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Tweak on the Beat](https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B) | [Rich Remedy](https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv) | 1:55 |
 | 47 | [Hometown \- Remix](https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [TEDIOUS](https://open.spotify.com/artist/1SVFYOra8X1PkHxidibFAV) | [Hometown \(Remix\)](https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j) | 2:36 |
 | 48 | [She gon choose](https://open.spotify.com/track/3PPAAIrkrrmBPuXf54xsqd) | [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw), [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [She gon choose](https://open.spotify.com/album/54oZoaoaXspC5YzHqtH6Jk) | 2:26 |
 | 49 | [Props](https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/2LNkVTLJFYRz9sxzSVZ7rP) | 2:54 |
 | 50 | [Toxic](https://open.spotify.com/track/0aS10pGB1AyvV8YKlModuD) | [BELLA](https://open.spotify.com/artist/7DmOVfbnFeAOA3Fujc3Toe) | [Abandoned Love](https://open.spotify.com/album/4NB6CVW0MxLuMwKz9emUPK) | 3:20 |
 
-Snapshot ID: `MCxkOWFkYmQwNTJkZjNiMGNhYjRjYmE1MGYxNmY2YjcxZGY4YTU3MGYx`
+Snapshot ID: `MCwwZDYwNzBkMWJhNWE3NjY1NGE4ZDI1YWI3NGQwN2FiMTM1ZmY5YTE0`

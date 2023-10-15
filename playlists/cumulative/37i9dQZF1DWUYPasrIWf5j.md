@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-137 songs - 7 hr 53 min
+138 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Sunroof](https://open.spotify.com/track/25qansdY69RpqRXFJVVtN9) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Sunroof](https://open.spotify.com/album/3YBMeHUVpagQgXI8MBxo65) | 2:28 | 2022-12-01 | 2023-04-28 |
 | [Sunshine Superman](https://open.spotify.com/track/1EnLRToE3ecicHWleYow1d) | [Jack Adeline](https://open.spotify.com/artist/46IufC6lZGWAWbbLzy0COP) | [Sunshine Superman](https://open.spotify.com/album/4ynXAjJpx6QJTiJ6w1h3ey) | 3:47 | 2022-05-20 |  |
 | [Sweater Weather](https://open.spotify.com/track/2hOTGNkCUL9zpotqqPJNbX) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [So Good](https://open.spotify.com/album/7ombR15MxV8cC7ZSrdu83X) | 3:43 | 2022-12-22 | 2023-04-28 |
-| [Sweet Caroline \(Instrumental Version\)](https://open.spotify.com/track/1QUPoigzuwFjZf4NEbDoMe) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW), [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Popular Instrumental Songs on Ukulele](https://open.spotify.com/album/6rNPhHvHlRuIKJSYeJYo0V) | 3:19 | 2022-05-20 |  |
+| [Sweet Caroline \(Instrumental Version\)](https://open.spotify.com/track/3ZmVHKgJ9YJLua0rnsVaWi) | [Matt Carlson](https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8) | [Ukulele Covers of Pop Hits](https://open.spotify.com/album/2LrJLsqxDuRtfLtTHYtfoi) | 3:19 | 2023-10-06 |  |
+| [Sweet Caroline \(Instrumental Version\)](https://open.spotify.com/track/1QUPoigzuwFjZf4NEbDoMe) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW), [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Popular Instrumental Songs on Ukulele](https://open.spotify.com/album/6rNPhHvHlRuIKJSYeJYo0V) | 3:19 | 2022-05-20 | 2023-10-15 |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/6Fs6w8DpsvDWSBZ31YMQOO) | [Peter Shore](https://open.spotify.com/artist/7JNxtPv7RyoODXUVh45GW6) | [Uke Dreams](https://open.spotify.com/album/0xBCxd4ODDwEiaZHnztUA6) | 3:17 | 2022-05-20 |  |
 | [The A Team](https://open.spotify.com/track/0Y9lGmQeaMR3veXCgMqHH3) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Ukelele Love Songs](https://open.spotify.com/album/701SRvVz5WHzkBRqjnVGgW) | 4:29 | 2022-05-20 | 2023-04-28 |
 | [The Bones](https://open.spotify.com/track/2iscuzrTQy4BNduk41rwC8) | [Dev Lin](https://open.spotify.com/artist/5Qz8NfhvVepyU3JXyLQq88) | [Riptide](https://open.spotify.com/album/7AWubZyMIE5eGvfG9UiOhV) | 3:24 | 2022-05-20 |  |

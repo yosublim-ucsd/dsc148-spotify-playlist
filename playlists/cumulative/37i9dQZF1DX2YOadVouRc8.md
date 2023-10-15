@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-279 songs - 14 hr 5 min
+280 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Torn Tapestries](https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1) | 2:42 | 2022-08-18 | 2023-03-21 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-13 |  |
 | [History](https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [History](https://open.spotify.com/album/44zdr1Zpmdyh01GgGIONF0) | 2:57 | 2022-06-09 |  |
-| [Holy Pass \(feat\. 1da Banton\)](https://open.spotify.com/track/11XfkUA9RygQ7UFoZ5stfH) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [NO PRESSURE](https://open.spotify.com/album/1SuP7VA3qfRhwV5vRscb9q) | 3:00 | 2023-07-28 |  |
+| [Holy Pass \(feat\. 1da Banton\)](https://open.spotify.com/track/11XfkUA9RygQ7UFoZ5stfH) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [NO PRESSURE](https://open.spotify.com/album/1SuP7VA3qfRhwV5vRscb9q) | 3:00 | 2023-07-28 | 2023-10-15 |
 | [House Party](https://open.spotify.com/track/1Fi9F34fYmhJOwBqM1lUk8) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Patient Zero](https://open.spotify.com/album/7f1jBF06DtXBmFcPz1wIDo) | 2:32 | 2023-07-14 | 2023-09-29 |
 | [Hustler](https://open.spotify.com/track/7JPweWVt1wDEu7EFwvupCo) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Chequemate](https://open.spotify.com/album/2EPnjTlC52Hr4LPIHNjcjt) | 2:43 | 2023-07-28 | 2023-09-29 |
 | [Hypnotic](https://open.spotify.com/track/34JhQbb9lUXklugrGxG5d4) | [Lifesize Teddy](https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR) | [Lifesize Teddy](https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe) | 3:07 | 2023-08-10 | 2023-09-29 |
@@ -189,6 +189,7 @@
 | [Peace Of Mind](https://open.spotify.com/track/7MtCDjLbhZH0gHGN9N5nDb) | [Txby](https://open.spotify.com/artist/0gHlO5VwVKWZ1jG3QMSiRc) | [Peace Of Mind](https://open.spotify.com/album/3ZTeNM3gG8l7HmshN53KXy) | 2:56 | 2023-01-27 | 2023-03-04 |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2022-12-13 | 2023-03-04 |
 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 | 2023-08-17 | 2023-09-29 |
+| [Pretty Girl \(with Rema\)](https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Pretty Girl \(with Rema\)](https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH) | 2:17 | 2023-10-13 |  |
 | [Pulling Up](https://open.spotify.com/track/2GHj2JqqPPByrkduQEQBYw) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [OTR Vol.2](https://open.spotify.com/album/6YbuBOhChrDQBd8jeIvhjj) | 3:03 | 2022-06-09 | 2022-11-19 |
 | [Quick Question](https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Quick Question](https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5) | 2:41 | 2023-06-22 |  |
 | [reason](https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:27 | 2023-06-16 |  |

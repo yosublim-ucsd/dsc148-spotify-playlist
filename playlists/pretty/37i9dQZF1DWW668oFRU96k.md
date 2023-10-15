@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Robin Schulz x Rita Ora x Tiago PZK
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,338 likes - 78 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,332 likes - 78 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 10 | [Pepper](https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq) | [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Pepper](https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y) | 2:28 |
 | 11 | [can't get over it](https://open.spotify.com/track/3Y8fpZ2FAU2ghW3YXUxYd3) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [can't get over it](https://open.spotify.com/album/6xLPohqLN8vpblQedDyEi5) | 2:12 |
 | 12 | [I'm My Only Friend \(feat\. Arden Jones\)](https://open.spotify.com/track/7gOxYYw4HKBa89vAAagh9q) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [I'm My Only Friend](https://open.spotify.com/album/00Z6vze8Xtk9rGTRTBrpXz) | 3:12 |
-| 13 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:02 |
+| 13 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 |
 | 14 | [Pure](https://open.spotify.com/track/50WjxVuAxiWJztFFrsSpbr) | [Jay Ocean](https://open.spotify.com/artist/6WK3Qxj1lGo2lr8d7y2fZM) | [Pure](https://open.spotify.com/album/19nmV2vDXF4wm3KlN2ZpHC) | 2:30 |
 | 15 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 |
 | 16 | [Summertime Friends](https://open.spotify.com/track/7JLzv38qr5GxXYqQfuQJP9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Summertime Friends](https://open.spotify.com/album/4Fskvi7B1rmq52xIx9zTsV) | 2:16 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 77 | [All The Things She Said](https://open.spotify.com/track/3a5VAKV2lXI2x2jQEgrX3B) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [All The Things She Said](https://open.spotify.com/album/6RaqLOaAQCJhhhn9xvTT9T) | 2:49 |
 | 78 | [Location](https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Location](https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O) | 2:22 |
 
-Snapshot ID: `MCxmYjUzY2FmNjQ4NTQ2NjNkOThmNTk0NzM1MTVkY2IwYjQyZTI5MTM4`
+Snapshot ID: `MCxiMjk3ODNlZDZkY2Y0ZmQwZDVjMTBkOGZjZjNlOGRhMmU5ZjkxYjA5`

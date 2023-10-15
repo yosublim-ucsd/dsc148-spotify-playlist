@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 47243,
+  "num_followers": 47286,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWFlZGViZDM5ZGYyMzczMWNjOGVkNmM4ZDVlNTJmYjQwZGE3ZTQw",
+  "snapshot_id": "MCxjNDAzZjg4MmViYzVkYmUwYjE2ZDZjNzljOGZmYzk4ZDFlNjc5MmY4",
   "tracks": [
     {
       "added_at": "2023-10-02 12:57:01",
@@ -627,18 +627,18 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Man of the World: The Anthology 1968-1988",
-        "url": "https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o"
+        "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
+        "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
       },
       "artists": [
         {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
+          "name": "Eddie \"Cleanhead\" Vinson",
+          "url": "https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58"
         }
       ],
-      "duration_ms": 464666,
-      "name": "A Fool No More",
-      "url": "https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T"
+      "duration_ms": 275226,
+      "name": "Juice Head Baby",
+      "url": "https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
-        "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
-      },
-      "artists": [
-        {
-          "name": "Eddie \"Cleanhead\" Vinson",
-          "url": "https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58"
-        }
-      ],
-      "duration_ms": 275226,
-      "name": "Juice Head Baby",
-      "url": "https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 350520,
       "name": "Waiting For The Dawn",
       "url": "https://open.spotify.com/track/5zi2iVnuW5PEpALVgCypi3"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Man of the World: The Anthology 1968-1988",
+        "url": "https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o"
+      },
+      "artists": [
+        {
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
+        }
+      ],
+      "duration_ms": 464666,
+      "name": "A Fool No More",
+      "url": "https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 183120,
+      "name": "Lonesome Road Blues",
+      "url": "https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
         "name": "Right Kinda Wrong",
         "url": "https://open.spotify.com/album/4lWlaDuS0L3q2qw5TMm81J"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 191129,
       "name": "Slow Burning Love",
       "url": "https://open.spotify.com/track/7gHgR64ZEMcUSh5Nrg26dn"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 183120,
-      "name": "Lonesome Road Blues",
-      "url": "https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/6uco735wn69n3ODYvdrd21"
-      },
-      "artists": [
-        {
-          "name": "Dani Wilde",
-          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
-        }
-      ],
-      "duration_ms": 455967,
-      "name": "Abandoned Child",
-      "url": "https://open.spotify.com/track/6VWHKpqZE9Z14VReOqmy4C"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Get Your Lovin'",
         "url": "https://open.spotify.com/album/1M2avBOjei5BLNbHxsaElR"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 203395,
       "name": "Get Your Lovin'",
       "url": "https://open.spotify.com/track/6HVcEz5ecvZWLLrN8ZTwil"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/6uco735wn69n3ODYvdrd21"
+      },
+      "artists": [
+        {
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+        }
+      ],
+      "duration_ms": 455967,
+      "name": "Abandoned Child",
+      "url": "https://open.spotify.com/track/6VWHKpqZE9Z14VReOqmy4C"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Love & Gravity",
-        "url": "https://open.spotify.com/album/69yCg5lBESdddDIGkmovLB"
-      },
-      "artists": [
-        {
-          "name": "Matt Katsis",
-          "url": "https://open.spotify.com/artist/3uql1lp6c9CcJL2tjzKrkv"
-        }
-      ],
-      "duration_ms": 228746,
-      "name": "Love & Gravity",
-      "url": "https://open.spotify.com/track/5YU3qtXOLff4lm01iLplgR"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Portrait",
         "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 214194,
       "name": "You Can't Lose What You Ain't Never Had",
       "url": "https://open.spotify.com/track/6kQRxTpDpBnNIGsCKpDOQc"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Love & Gravity",
+        "url": "https://open.spotify.com/album/69yCg5lBESdddDIGkmovLB"
+      },
+      "artists": [
+        {
+          "name": "Matt Katsis",
+          "url": "https://open.spotify.com/artist/3uql1lp6c9CcJL2tjzKrkv"
+        }
+      ],
+      "duration_ms": 228746,
+      "name": "Love & Gravity",
+      "url": "https://open.spotify.com/track/5YU3qtXOLff4lm01iLplgR"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
+        "name": "Seattle to Greaseland",
+        "url": "https://open.spotify.com/album/4AEV6zOQHpeir1oa37YWRc"
+      },
+      "artists": [
+        {
+          "name": "Joel Astley",
+          "url": "https://open.spotify.com/artist/7IVBtfN5PK0ZVVQoU9zcGS"
+        }
+      ],
+      "duration_ms": 303370,
+      "name": "Karma Wheel",
+      "url": "https://open.spotify.com/track/1rWNmWtcbwpuZlx1b5ep9x"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
         "name": "Wrong Kind of Lovin",
         "url": "https://open.spotify.com/album/5tdreJCS1nWRB72dF43IcX"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 320133,
       "name": "Wrong Kind of Lovin",
       "url": "https://open.spotify.com/track/1X7Dw4CtOV3nJcmPvrX2af"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
-        "name": "Motel Mississippi",
-        "url": "https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx"
-      },
-      "artists": [
-        {
-          "name": "Tony Holiday",
-          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
-        }
-      ],
-      "duration_ms": 251853,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34"
     }
   ],
   "unique_name": "Just Me and the Blues",

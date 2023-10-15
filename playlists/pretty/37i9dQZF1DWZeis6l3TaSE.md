@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeis6l3TaSE.md) - [plain]
 
 > Seize the day...Maybe? Listen to the music from and inspired by Everything Now, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573 likes - 83 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 644 likes - 83 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeis6l3TaSE.md) - [plain]
 | 82 | [This Is Living](https://open.spotify.com/track/2TlK5vVReniSfMUFwIIqyA) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [Everything Now \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1fdsa2x1cRV7eGnpsfj7MD) | 1:52 |
 | 83 | [Best Day Of My Life](https://open.spotify.com/track/74oekHCIp8VXbp8Xmnef92) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [Everything Now \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1fdsa2x1cRV7eGnpsfj7MD) | 2:33 |
 
-Snapshot ID: `MCw2ZDljYjJkZWY0YWM3MjJlOTNkYTJjMDVkOTMxM2I4ODA1MTIwZDM0`
+Snapshot ID: `MCwzYzBkMmYxMTVmMDY0ZTUxZTM3NmZlOTU0MGM4OWRkNjZiNmEyZGM4`

@@ -2,7 +2,7 @@
 
 ### [Paixão Bandida](https://open.spotify.com/playlist/37i9dQZF1DXaWRgGXjiM40)
 
-> Uma seleção sertaneja para você curtir a sua paixão sem limites\. Foto: Murilo Huff
+> Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
 74 songs - 3 hr 49 min
 

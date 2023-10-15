@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop: Cover: Ariana Grande.
 
-714 songs - 1 day 18 hr 38 min
+715 songs - 1 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,7 +467,8 @@
 | [Nobody's Perfect](https://open.spotify.com/track/4w5lF5jrVRKvwihojuDzU4) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) | 4:19 | 2022-05-11 |  |
 | [Nobody's Perfect](https://open.spotify.com/track/56bIsSykcGGjIrM9jHjsbh) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/1Yz8PMcARpRDWG4fRNobUY) | 4:19 | 2022-05-11 | 2022-11-13 |
 | [Not Going Home](https://open.spotify.com/track/2PuHj0tUOKud6fVKTZUXRO) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Not Going Home](https://open.spotify.com/album/1A4MCgYYSnBSXnDDxWPB5s) | 3:14 | 2021-08-10 | 2022-07-29 |
-| [Not Going Home](https://open.spotify.com/track/5mqjkbTgyEzxTQOArWTOs6) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Beautiful Disaster](https://open.spotify.com/album/7AmtZQSQBxdFb23d6JtDD6) | 3:15 | 2022-05-11 |  |
+| [Not Going Home](https://open.spotify.com/track/5mqjkbTgyEzxTQOArWTOs6) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Beautiful Disaster](https://open.spotify.com/album/7AmtZQSQBxdFb23d6JtDD6) | 3:15 | 2022-05-11 | 2023-10-15 |
+| [Not Going Home \(feat\. Gia Koka\)](https://open.spotify.com/track/3JqjXikqS3jj8qWHs7OaLs) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Beautiful Disaster](https://open.spotify.com/album/4qmekuydjtcZerA8coLMNM) | 3:15 | 2022-11-29 |  |
 | [Nothing Without Love](https://open.spotify.com/track/0oPDrdHQwkjaT0aytZavUO) | [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [Grand Romantic](https://open.spotify.com/album/0vrIRUpI2gB2QqOUQEG05v) | 3:56 | 2022-05-11 |  |
 | [Nothing Without Love](https://open.spotify.com/track/1lAnSi0iSTbto9WnRcnyC1) | [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [Nothing Without Love](https://open.spotify.com/album/4027mifcN0JEinMsqZLV2J) | 3:56 | 2021-08-10 | 2022-07-29 |
 | [Nothing's Real but Love](https://open.spotify.com/track/0wDNCLHucgriGY8yKB7NR8) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [R&B \- 100 Hits \- The Greatest R n B album \- 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake](https://open.spotify.com/album/0QhwxYDUougJiVDtyN4Lhm) | 2:53 | 2022-05-11 | 2022-11-13 |
@@ -719,8 +720,8 @@
 | [You Said You'd Grow Old With Me](https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Wide Awake](https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn) | 3:44 | 2021-08-10 |  |
 | [Young Girls](https://open.spotify.com/track/3G5iN5QBqMeXx3uZPy8tgB) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:48 | 2021-11-10 |  |
 | [Your Shirt](https://open.spotify.com/track/4KEFstKrYLDMJ6HZB1dDhC) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Snow In October EP](https://open.spotify.com/album/1cKpcrL8XZwgMKbRiY9zLl) | 3:50 | 2022-05-11 | 2022-11-13 |
-| [Your Shirt](https://open.spotify.com/track/6zdg9ovHEPx9EblJcc7FGf) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Shirt](https://open.spotify.com/album/4uP2XlSUEX4VmW2nIcEgVb) | 3:50 | 2022-05-11 |  |
-| [Your Shirt](https://open.spotify.com/track/5vtyFzfLkCSJvXEZFjQAa1) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Shirt](https://open.spotify.com/album/7snbuY5lclMPDpvdNmixPs) | 3:52 | 2021-08-10 | 2022-07-29 |
+| [Your Shirt](https://open.spotify.com/track/6zdg9ovHEPx9EblJcc7FGf) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Shirt](https://open.spotify.com/album/4uP2XlSUEX4VmW2nIcEgVb) | 3:50 | 2022-05-11 | 2023-10-15 |
+| [Your Shirt](https://open.spotify.com/track/5vtyFzfLkCSJvXEZFjQAa1) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Shirt](https://open.spotify.com/album/7snbuY5lclMPDpvdNmixPs) | 3:52 | 2021-08-10 |  |
 | [Your Side Of The Bed](https://open.spotify.com/track/3PWKPX3YJAHBL8JozsWTMC) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [single.](https://open.spotify.com/album/6XeL8rkWXe5pUdg2uGqmak) | 3:17 | 2021-08-10 |  |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

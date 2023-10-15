@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,583 likes - 140 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,622 likes - 140 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 25 | [Missiles](https://open.spotify.com/track/3SuOjeljBRqvDEQecwm53o) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Missiles](https://open.spotify.com/album/7Dt51R1XaFzJiOYexjDLkN) | 2:44 |
 | 26 | [Visão de Futuro](https://open.spotify.com/track/2RjvQychgHPcxpghmP2p9s) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ) | [Visão de Futuro](https://open.spotify.com/album/2zypTrqxSAw5utNPtXuhS1) | 2:12 |
 | 27 | [we grew up together](https://open.spotify.com/track/343YezHfY7G8ZliqUHYQKS) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu), [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [we grew up together](https://open.spotify.com/album/0a8IV62EQe7cWglIFJXapM) | 4:04 |
-| 28 | [homebody \- feat\. YAØ](https://open.spotify.com/track/2Dc0zNIYfOhWs1D13pjQrJ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [homebody \(feat\. YAØ\)](https://open.spotify.com/album/5rt24b30Az06G6MYCfjwCJ) | 2:42 |
+| 28 | [homebody](https://open.spotify.com/track/2Dc0zNIYfOhWs1D13pjQrJ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [homebody](https://open.spotify.com/album/5rt24b30Az06G6MYCfjwCJ) | 2:42 |
 | 29 | [Hoa Cỏ Lau](https://open.spotify.com/track/4ZOCzRRThD32cGu8aeqOBb) | [Phong Max](https://open.spotify.com/artist/4NWh1VEbymD3S6774EbK2Z) | [Hoa Cỏ Lau](https://open.spotify.com/album/3jjbONfjvGpMwi7JPGXZIM) | 3:30 |
 | 30 | [Good Time \(feat\. Puri\) \- Spotify Singles](https://open.spotify.com/track/2Fz6msvT62cIQOgAJXOqNf) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Ignorant / Good Time](https://open.spotify.com/album/5lEr77mX7UpUDwZQpAl7No) | 3:00 |
 | 31 | [Naz](https://open.spotify.com/track/4BQN5kE1xzJoBSoG75Sedr) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [Naz](https://open.spotify.com/album/6uTzHHdZEfYVw26JY970QZ) | 2:17 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 139 | [Amore&casino](https://open.spotify.com/track/4cz1tnar27zWx8H56ASrd6) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Amore&casino](https://open.spotify.com/album/3sNEQxM6ZYqeEScouZ1733) | 2:41 |
 | 140 | [台北宵夜指南](https://open.spotify.com/track/0eLiTFv7m8O6ScxJVQZyCR) | [胡家誠](https://open.spotify.com/artist/200pQawht4r55tBNrWTVpx) | [台北宵夜指南](https://open.spotify.com/album/0g6Hzc1A6nAOAloMQtUDPn) | 3:44 |
 
-Snapshot ID: `MCwyYTYzNWI3NDJmOTBiOGU5NjJhZmIwZmRlNDNmMGMzZmQzNWEzMTY1`
+Snapshot ID: `MCxkN2NlMzcwZTU5NGM2YzBhMzQ1NmQ3ZTRlM2RmMWZjNWI5NmI4NTU1`

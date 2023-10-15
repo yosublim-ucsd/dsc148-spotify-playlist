@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 281192,
+  "num_followers": 281228,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjY5NzM4MTY5MWRiMDM1ZTNjZWM2OWUyNjE0M2E0NGE3OTQzZDll",
+  "snapshot_id": "MCxjZjk0MzRkNjhmOTQ3NmYyNWQ5NDA3ZjJkMGU5M2ZmMjY1MTBlZWI1",
   "tracks": [
     {
       "added_at": "2023-10-13 14:59:28",
@@ -479,6 +479,26 @@
     {
       "added_at": "2023-10-13 14:59:28",
       "album": {
+        "name": "Bom Dia",
+        "url": "https://open.spotify.com/album/41LhaCTtInZIK55bmcT5Im"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        },
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Bom Dia",
+      "url": "https://open.spotify.com/track/5Xk4ibO0C5HsDfyPFZDBHm"
+    },
+    {
+      "added_at": "2023-10-13 14:59:28",
+      "album": {
         "name": "Rouxin\u00f3is",
         "url": "https://open.spotify.com/album/6C7r5cHBd87KOXl8JMgN8W"
       },
@@ -579,6 +599,22 @@
     {
       "added_at": "2023-10-13 14:59:28",
       "album": {
+        "name": "Sess\u00e3o Aberta Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0WpWvWY5iKQTYuNnqum8qI"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 245312,
+      "name": "Sem Medo",
+      "url": "https://open.spotify.com/track/2zEdAMvFYrYjuWk6lExQfB"
+    },
+    {
+      "added_at": "2023-10-13 14:59:28",
+      "album": {
         "name": "Jah Bless",
         "url": "https://open.spotify.com/album/3DM0LwaeVcO4SrobtimYxB"
       },
@@ -595,38 +631,18 @@
     {
       "added_at": "2023-10-13 14:59:28",
       "album": {
-        "name": "Bom Dia",
-        "url": "https://open.spotify.com/album/41LhaCTtInZIK55bmcT5Im"
+        "name": "Se Joga",
+        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
       },
       "artists": [
         {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        },
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Bom Dia",
-      "url": "https://open.spotify.com/track/5Xk4ibO0C5HsDfyPFZDBHm"
-    },
-    {
-      "added_at": "2023-10-13 14:59:28",
-      "album": {
-        "name": "Sess\u00e3o Aberta Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0WpWvWY5iKQTYuNnqum8qI"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 245312,
-      "name": "Sem Medo",
-      "url": "https://open.spotify.com/track/2zEdAMvFYrYjuWk6lExQfB"
+      "duration_ms": 173269,
+      "name": "Se Joga",
+      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
     },
     {
       "added_at": "2023-10-13 14:59:28",
@@ -667,22 +683,6 @@
     {
       "added_at": "2023-10-13 14:59:28",
       "album": {
-        "name": "Se Joga",
-        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 173269,
-      "name": "Se Joga",
-      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
-    },
-    {
-      "added_at": "2023-10-13 14:59:28",
-      "album": {
         "name": "Vou Agradecer",
         "url": "https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 275253,
       "name": "Toda Molhada (Casa do Sol) - Ao Vivo 25 Anos",
       "url": "https://open.spotify.com/track/1g6Ng6XKGC8ns0aWFS5Zun"
+    },
+    {
+      "added_at": "2023-10-13 14:59:28",
+      "album": {
+        "name": "Na Positiva",
+        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Na Positiva",
+      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
     },
     {
       "added_at": "2023-10-13 14:59:28",
@@ -767,30 +783,6 @@
     {
       "added_at": "2023-10-13 14:59:28",
       "album": {
-        "name": "40 Graus",
-        "url": "https://open.spotify.com/album/423mOe8bfFnYPyoZjyIp56"
-      },
-      "artists": [
-        {
-          "name": "Igor Borborema",
-          "url": "https://open.spotify.com/artist/1y9uZNOkz8wDHfjCqi22D2"
-        },
-        {
-          "name": "Khouri",
-          "url": "https://open.spotify.com/artist/41gBrGxvxCloe8iijf1iDQ"
-        },
-        {
-          "name": "Menestrel Republicano",
-          "url": "https://open.spotify.com/artist/2chZH9QmVHdoiDyKQSNXZ8"
-        }
-      ],
-      "duration_ms": 186909,
-      "name": "40 Graus",
-      "url": "https://open.spotify.com/track/1XHJzC9TKXgbrMk3KFc9tj"
-    },
-    {
-      "added_at": "2023-10-13 14:59:28",
-      "album": {
         "name": "Deixa O Amor Fluir",
         "url": "https://open.spotify.com/album/7DLZbNQrrloT2jeEJJJJmo"
       },
@@ -831,22 +823,6 @@
     {
       "added_at": "2023-10-13 14:59:28",
       "album": {
-        "name": "Na Positiva",
-        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Na Positiva",
-      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
-    },
-    {
-      "added_at": "2023-10-13 14:59:28",
-      "album": {
         "name": "Cai\u00e7ara",
         "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 174622,
       "name": "Cai\u00e7ara",
       "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
+    },
+    {
+      "added_at": "2023-10-13 14:59:28",
+      "album": {
+        "name": "40 Graus",
+        "url": "https://open.spotify.com/album/423mOe8bfFnYPyoZjyIp56"
+      },
+      "artists": [
+        {
+          "name": "Igor Borborema",
+          "url": "https://open.spotify.com/artist/1y9uZNOkz8wDHfjCqi22D2"
+        },
+        {
+          "name": "Khouri",
+          "url": "https://open.spotify.com/artist/41gBrGxvxCloe8iijf1iDQ"
+        },
+        {
+          "name": "Menestrel Republicano",
+          "url": "https://open.spotify.com/artist/2chZH9QmVHdoiDyKQSNXZ8"
+        }
+      ],
+      "duration_ms": 186909,
+      "name": "40 Graus",
+      "url": "https://open.spotify.com/track/1XHJzC9TKXgbrMk3KFc9tj"
     },
     {
       "added_at": "2023-10-13 14:59:28",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-10-13 14:59:28",
       "album": {
+        "name": "P\u00f4r do Sol",
+        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 228844,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
+    },
+    {
+      "added_at": "2023-10-13 14:59:28",
+      "album": {
         "name": "Corri Demais",
         "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
       },
@@ -895,6 +911,22 @@
       "duration_ms": 178470,
       "name": "Corri Demais",
       "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
+    },
+    {
+      "added_at": "2023-10-13 14:59:28",
+      "album": {
+        "name": "Frequ\u00eancia do Amor",
+        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
+      },
+      "artists": [
+        {
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+        }
+      ],
+      "duration_ms": 161107,
+      "name": "Frequ\u00eancia do Amor",
+      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
     },
     {
       "added_at": "2023-10-13 14:59:28",
@@ -915,22 +947,6 @@
       "duration_ms": 153253,
       "name": "Terra do Sol",
       "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
-    },
-    {
-      "added_at": "2023-10-13 14:59:28",
-      "album": {
-        "name": "P\u00f4r do Sol",
-        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 228844,
-      "name": "P\u00f4r do Sol",
-      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
     },
     {
       "added_at": "2023-10-13 14:59:28",
@@ -971,22 +987,6 @@
       "duration_ms": 219980,
       "name": "Volta pra Casa.",
       "url": "https://open.spotify.com/track/57DFFCpq1UjzTdD0yEOq4I"
-    },
-    {
-      "added_at": "2023-10-13 14:59:28",
-      "album": {
-        "name": "Frequ\u00eancia do Amor",
-        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 161107,
-      "name": "Frequ\u00eancia do Amor",
-      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
     },
     {
       "added_at": "2023-10-13 14:59:28",

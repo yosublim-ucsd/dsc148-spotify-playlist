@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 232093,
+  "num_followers": 232221,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTJiMDRmYzk1NWYwOTViOTMwMjllMmEyZmNlZmRiMDYwMjBhMDQ1",
+  "snapshot_id": "MCw0ZjBhMDZiMjg1NTRiOTVjMzBiNWEyMGVkNDRlOWU2NDlhN2IyMWQ4",
   "tracks": [
     {
       "added_at": "2023-10-13 13:41:26",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
+        "name": "krypt. vol2",
+        "url": "https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq"
+      },
+      "artists": [
+        {
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+        }
+      ],
+      "duration_ms": 208570,
+      "name": "How Long Have You Been Away?",
+      "url": "https://open.spotify.com/track/5H7NVUGfw8fstj1LWJ0wXo"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
         "name": "Out The Fire (At The Hotel)",
         "url": "https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 214687,
       "name": "Out The Fire (At The Hotel) - Radio Edit",
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
-        "name": "krypt. vol2",
-        "url": "https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq"
-      },
-      "artists": [
-        {
-          "name": "kryptogram",
-          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
-        }
-      ],
-      "duration_ms": 208570,
-      "name": "How Long Have You Been Away?",
-      "url": "https://open.spotify.com/track/5H7NVUGfw8fstj1LWJ0wXo"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
         "name": "Bless Me (with Discrete)",
         "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 190384,
       "name": "Bless Me (with Discrete)",
       "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        }
-      ],
-      "duration_ms": 190948,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 186000,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        }
+      ],
+      "duration_ms": 190948,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
-        "name": "Little Miss Dynamite",
-        "url": "https://open.spotify.com/album/7MOLCkGoOF4ehlOVKmAuHO"
-      },
-      "artists": [
-        {
-          "name": "Anish Kumar",
-          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
-        }
-      ],
-      "duration_ms": 194645,
-      "name": "Little Miss Dynamite",
-      "url": "https://open.spotify.com/track/6o2xX07z0g72uGj8rPldW3"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
         "name": "Seventies",
         "url": "https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ"
       },
@@ -1147,38 +1131,18 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
-        "name": "Awesome Ways",
-        "url": "https://open.spotify.com/album/0REKjgSZr8BaRYMDBiVqXL"
+        "name": "Little Miss Dynamite",
+        "url": "https://open.spotify.com/album/7MOLCkGoOF4ehlOVKmAuHO"
       },
       "artists": [
         {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Awesome Ways",
-      "url": "https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
-        "name": "All The Things We Say / Move Me",
-        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 231105,
-      "name": "All The Things We Say",
-      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
+      "duration_ms": 194645,
+      "name": "Little Miss Dynamite",
+      "url": "https://open.spotify.com/track/6o2xX07z0g72uGj8rPldW3"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -1207,22 +1171,18 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
-        "name": "I'm A Woman",
-        "url": "https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL"
+        "name": "All The Things We Say / Move Me",
+        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
       },
       "artists": [
         {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        },
-        {
-          "name": "Alex Hepburn",
-          "url": "https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO"
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
         }
       ],
-      "duration_ms": 147086,
-      "name": "I'm A Woman",
-      "url": "https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW"
+      "duration_ms": 231105,
+      "name": "All The Things We Say",
+      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -1243,6 +1203,46 @@
       "duration_ms": 230854,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
+        "name": "Awesome Ways",
+        "url": "https://open.spotify.com/album/0REKjgSZr8BaRYMDBiVqXL"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Awesome Ways",
+      "url": "https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
+        "name": "I'm A Woman",
+        "url": "https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "Alex Hepburn",
+          "url": "https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO"
+        }
+      ],
+      "duration_ms": 147086,
+      "name": "I'm A Woman",
+      "url": "https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
+        "name": "Everyday People",
+        "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
+      },
+      "artists": [
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+        }
+      ],
+      "duration_ms": 165494,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
         "name": "Fool For Love",
         "url": "https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 239220,
       "name": "Fool For Love - Chris Lake Edit",
       "url": "https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
-        "name": "Everyday People",
-        "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
-      },
-      "artists": [
-        {
-          "name": "Prok & Fitch",
-          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
-        }
-      ],
-      "duration_ms": 165494,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
-        "name": "Colors (The Knocks Remix)",
-        "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
-      },
-      "artists": [
-        {
-          "name": "Thunder Jackson",
-          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Colors - The Knocks Remix",
-      "url": "https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
         "name": "To the Stars and Back",
         "url": "https://open.spotify.com/album/5aYIRYfTHseCyXvhGGQHF9"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 197297,
       "name": "To the Stars and Back",
       "url": "https://open.spotify.com/track/0CVOi16eMozeASjkhiRIqE"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
+        "name": "Colors (The Knocks Remix)",
+        "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
+      },
+      "artists": [
+        {
+          "name": "Thunder Jackson",
+          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Colors - The Knocks Remix",
+      "url": "https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
-        "name": "A Chance / Ask Yourself (Can You Dance)",
-        "url": "https://open.spotify.com/album/1eTSe304zMIBmpFQ1Vj9hc"
-      },
-      "artists": [
-        {
-          "name": "Angelo Ferreri",
-          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
-        }
-      ],
-      "duration_ms": 216794,
-      "name": "Ask Yourself (Can You Dance)",
-      "url": "https://open.spotify.com/track/1BB8a33pfYW3bw0k7kRlBg"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
         "name": "Maintain (Jafunk Remix)",
         "url": "https://open.spotify.com/album/4s3XM6cFpopwRnit42eBGq"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 193946,
       "name": "Maintain - Jafunk Remix",
       "url": "https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
+        "name": "A Chance / Ask Yourself (Can You Dance)",
+        "url": "https://open.spotify.com/album/1eTSe304zMIBmpFQ1Vj9hc"
+      },
+      "artists": [
+        {
+          "name": "Angelo Ferreri",
+          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
+        }
+      ],
+      "duration_ms": 216794,
+      "name": "Ask Yourself (Can You Dance)",
+      "url": "https://open.spotify.com/track/1BB8a33pfYW3bw0k7kRlBg"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
-        "name": "Good Night",
-        "url": "https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge"
-      },
-      "artists": [
-        {
-          "name": "Bamily",
-          "url": "https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy"
-        }
-      ],
-      "duration_ms": 277225,
-      "name": "Good Night",
-      "url": "https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
         "name": "Take It Back (feat. Davie)",
         "url": "https://open.spotify.com/album/5NN6jIlYaOhjirtYiGuPNr"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 216020,
       "name": "Take It Back (feat. Davie)",
       "url": "https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
+        "name": "Good Night",
+        "url": "https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge"
+      },
+      "artists": [
+        {
+          "name": "Bamily",
+          "url": "https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy"
+        }
+      ],
+      "duration_ms": 277225,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM"
     },
     {
       "added_at": "2023-10-13 13:41:26",

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: hemlocke springs
 
-1,691 songs - 3 day 17 hr 7 min
+1,692 songs - 3 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,7 +700,7 @@
 | [How It Will End](https://open.spotify.com/track/7gpjFpTdE2irqRj2Odc80C) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [How It Will End](https://open.spotify.com/album/3M9aLFlvhhr8nPONBrsaOh) | 3:08 | 2021-03-14 | 2021-10-23 |
 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-01-28 | 2022-04-21 |
 | [How to Lose a Friend in 10 Days](https://open.spotify.com/track/2knGz7PqFm3HGcdwLHyMEv) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [How to Lose a Friend in 10 Days](https://open.spotify.com/album/6srW3zBy4BPVa7gMDP8FnN) | 2:12 | 2022-04-29 | 2022-05-07 |
-| [how's it feel to be a boy](https://open.spotify.com/track/2kzfmR5NzxcJdp2yMAhZE2) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [how's it feel to be a boy](https://open.spotify.com/album/4sHzSRwp8ALK3b6itOJvrA) | 2:21 | 2023-08-04 |  |
+| [how's it feel to be a boy](https://open.spotify.com/track/2kzfmR5NzxcJdp2yMAhZE2) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [how's it feel to be a boy](https://open.spotify.com/album/4sHzSRwp8ALK3b6itOJvrA) | 2:21 | 2023-08-04 | 2023-10-15 |
 | [HUES](https://open.spotify.com/track/1CbjLm3Q4jFALQGFc3TVgC) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [HUES](https://open.spotify.com/album/4AD173y27znvHf5FYTlEWS) | 2:44 | 2022-07-01 | 2022-07-28 |
 | [Human Condition](https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Human Condition](https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC) | 2:11 | 2021-05-03 | 2022-04-11 |
 | [Hurt You](https://open.spotify.com/track/1pxLVdC8sjLDA2DF3uOEuW) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Hurt You](https://open.spotify.com/album/6dbhEjyUna0Ts040kPrM8t) | 3:55 | 2022-10-07 | 2022-10-22 |
@@ -1363,6 +1363,7 @@
 | [Somebody Like Me](https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO) | 3:56 | 2023-04-28 | 2023-10-07 |
 | [somebody to lose](https://open.spotify.com/track/4JAEU9F3KQyvGkgdIK6Vjs) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [somebody to lose](https://open.spotify.com/album/6tXEF52m2XHHI51Pv3qr7M) | 3:07 | 2022-06-24 | 2022-06-28 |
 | [Someday I'll Be Happy](https://open.spotify.com/track/36abeitRdTDdUxYahI6tMU) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Someday I'll Be Happy](https://open.spotify.com/album/06afLAH01L7XTw2VzK2uDS) | 2:45 | 2021-05-03 | 2021-09-11 |
+| [Someone Else](https://open.spotify.com/track/0vbqjI3TKufY0I33RtdXFD) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:32 | 2023-10-06 |  |
 | [Someone Else’s Dream](https://open.spotify.com/track/0N7uBJVtUegyKXKegKgjHX) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr) | [Someone Else’s Dream](https://open.spotify.com/album/3DnnsbnubMRwgTADhTGR6f) | 3:20 | 2020-10-13\* | 2021-06-03 |
 | [Someone Special](https://open.spotify.com/track/59JRqDcEQi6o3ZLZKvqo12) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Someone Special](https://open.spotify.com/album/6lOpF4HDDS2n4KnIMrVAbj) | 4:16 | 2020-10-13\* | 2021-06-05 |
 | [Someone, Someone Real](https://open.spotify.com/track/549YWZbztB4bAH3jeyAbN5) | [crêpe girl](https://open.spotify.com/artist/46dxD5cIrBqD171NQ84rVz), [Nick Wagen](https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ) | [Someone, Someone Real](https://open.spotify.com/album/6AmiPuXYmNnwiW7nLv42YX) | 3:59 | 2022-06-17 | 2022-06-20 |

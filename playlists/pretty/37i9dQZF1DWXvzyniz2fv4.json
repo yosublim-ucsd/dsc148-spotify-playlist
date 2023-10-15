@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 152521,
+  "num_followers": 152567,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzU1YWU2OWJhNzA4YTUyMjc1ZTAwOTBjNTZlODc1MjYxYmRjNmM1",
+  "snapshot_id": "MCwwZWI0MzQzYzRkMjYwYzdmOGY2YmM5ZTI3OTAxMTZmYzY1NDBlMWFj",
   "tracks": [
     {
       "added_at": "2023-10-13 13:30:42",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-10-13 13:30:42",
       "album": {
+        "name": "Mais Um Voo",
+        "url": "https://open.spotify.com/album/27ZKtXmfYS7OXGb1aKoI7U"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Mais Um Voo",
+      "url": "https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU"
+    },
+    {
+      "added_at": "2023-10-13 13:30:42",
+      "album": {
         "name": "Idas e Vindas",
         "url": "https://open.spotify.com/album/3zN35UYe30M8hMpeWWn4y6"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 164760,
       "name": "Tudo de bom",
       "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
-    },
-    {
-      "added_at": "2023-10-13 13:30:42",
-      "album": {
-        "name": "Mais Um Voo",
-        "url": "https://open.spotify.com/album/27ZKtXmfYS7OXGb1aKoI7U"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Mais Um Voo",
-      "url": "https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU"
     },
     {
       "added_at": "2023-10-13 13:30:42",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-10-13 13:30:42",
       "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
+    },
+    {
+      "added_at": "2023-10-13 13:30:42",
+      "album": {
         "name": "Mapa Astral",
         "url": "https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 193620,
       "name": "Mapa Astral",
       "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
-    },
-    {
-      "added_at": "2023-10-13 13:30:42",
-      "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
     },
     {
       "added_at": "2023-10-13 13:30:42",
@@ -1275,22 +1275,30 @@
     {
       "added_at": "2023-10-13 13:30:42",
       "album": {
-        "name": "Ir Embora",
-        "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
+        "name": "Interfone",
+        "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
       },
       "artists": [
         {
-          "name": "Taz Mureb",
-          "url": "https://open.spotify.com/artist/58Edhhh8yg8UogYP33f2hW"
+          "name": "Sergin",
+          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
         },
         {
-          "name": "Scarlet Ohana",
-          "url": "https://open.spotify.com/artist/1kjSl7qb7J7qQetAGS3Wn3"
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "Juan Branco",
+          "url": "https://open.spotify.com/artist/4IeVdoR6r3NmxRDZIeVhU3"
         }
       ],
-      "duration_ms": 125932,
-      "name": "Ir Embora",
-      "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
+      "duration_ms": 232000,
+      "name": "Interfone",
+      "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
     },
     {
       "added_at": "2023-10-13 13:30:42",
@@ -1323,30 +1331,22 @@
     {
       "added_at": "2023-10-13 13:30:42",
       "album": {
-        "name": "Interfone",
-        "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
+        "name": "Ir Embora",
+        "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
       },
       "artists": [
         {
-          "name": "Sergin",
-          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
+          "name": "Taz Mureb",
+          "url": "https://open.spotify.com/artist/58Edhhh8yg8UogYP33f2hW"
         },
         {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        },
-        {
-          "name": "Juan Branco",
-          "url": "https://open.spotify.com/artist/4IeVdoR6r3NmxRDZIeVhU3"
+          "name": "Scarlet Ohana",
+          "url": "https://open.spotify.com/artist/1kjSl7qb7J7qQetAGS3Wn3"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Interfone",
-      "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
+      "duration_ms": 125932,
+      "name": "Ir Embora",
+      "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
     },
     {
       "added_at": "2023-10-13 13:30:42",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-10-13 13:30:42",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 164713,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
-    },
-    {
-      "added_at": "2023-10-13 13:30:42",
-      "album": {
         "name": "Nossas M\u00eddias",
         "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 206769,
       "name": "Nossas M\u00eddias",
       "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
+    },
+    {
+      "added_at": "2023-10-13 13:30:42",
+      "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 164713,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
     },
     {
       "added_at": "2023-10-13 13:30:42",

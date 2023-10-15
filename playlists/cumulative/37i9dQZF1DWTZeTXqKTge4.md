@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: Fredz
 
-487 songs - 1 day 0 hr 46 min
+488 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [EDM \(Entre deux mondes\)](https://open.spotify.com/track/6jwPJaGBBM9CeSDqeLF0Iq) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD) | [EDM \(Entre deux mondes\)](https://open.spotify.com/album/4v9kxxVzv0G27JxTC1Aj3k) | 2:55 | 2023-07-28 | 2023-09-23 |
 | [Efforts](https://open.spotify.com/track/3ySHy6KrvjBZ6W5IHervID) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Jackboy](https://open.spotify.com/artist/5dERu9kdHEHydNM3cmSRS9) | [Efforts](https://open.spotify.com/album/2325ZxMTjn2qOJjbXmkXjn) | 3:57 | 2022-10-28 | 2023-01-28 |
 | [EGK](https://open.spotify.com/track/5EDdPjs1fNdxmHGUCiV7MQ) | [Gutta192](https://open.spotify.com/artist/6xkNjwIRwqWMSw8ARQcppe), [VT](https://open.spotify.com/artist/6sAxiQQZfNZPbwnpFW9C1m) | [EGK](https://open.spotify.com/album/2yO4mSOgBVH41omCGeIi5J) | 2:28 | 2023-08-11 |  |
-| [Emballer](https://open.spotify.com/track/5Rp7AIHzkQP9nLty6EwHuK) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Sang pour Sang 66%](https://open.spotify.com/album/1QH9NmcW4ZKxZ5QfFeFqls) | 2:12 | 2023-09-01 |  |
+| [Emballer](https://open.spotify.com/track/0eOFvt23wFrXi7j6QH9lgz) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Sang pour Sang 66%](https://open.spotify.com/album/5vShKF0bNg1VzgeN62B8N9) | 2:12 | 2023-10-13 |  |
+| [Emballer](https://open.spotify.com/track/5Rp7AIHzkQP9nLty6EwHuK) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Sang pour Sang 66%](https://open.spotify.com/album/1QH9NmcW4ZKxZ5QfFeFqls) | 2:12 | 2023-09-01 | 2023-10-15 |
 | [Ensemble](https://open.spotify.com/track/4HS91pybkuw7ulhC7xMvVv) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9), [ISMA](https://open.spotify.com/artist/7oeOvjTf8uB3MYhPSXTDIy) | [Ensemble](https://open.spotify.com/album/6Njbud4EL5e04yUVWzDjxt) | 4:37 | 2023-04-14 | 2023-05-13 |
 | [ensemble v.s\. tout le monde](https://open.spotify.com/track/4Tbe3vpdrpBrqXmLcPlFSa) | [White Migz](https://open.spotify.com/artist/2HLKLDXuuQlYM5YxZ21rN8) | [sauvons la planète!](https://open.spotify.com/album/0z3LKy6VCV6ebFE4CxRrbJ) | 1:44 | 2022-01-28 | 2022-02-12 |
 | [Esprit méfiant](https://open.spotify.com/track/1YJTQylI2qGPjd9sbC2Ki8) | [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Esprit méfiant](https://open.spotify.com/album/55ri3vgj9Oqw6XF8EHNDvo) | 2:39 | 2022-05-13 | 2022-10-29 |

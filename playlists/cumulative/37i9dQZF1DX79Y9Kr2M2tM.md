@@ -4,7 +4,7 @@
 
 > Float away on heady orchestrations and haunting harmonies...
 
-207 songs - 13 hr 20 min
+208 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Gold](https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [ÁTTA](https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v) | 5:13 | 2023-06-16 |  |
 | [Golden](https://open.spotify.com/track/5nL6QICzZuoVfxLBI9UTh5) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Golden](https://open.spotify.com/album/7GpRl4yQJU2xDgOHSy1R9z) | 3:19 | 2021-10-29 |  |
 | [Golden \(feat\. St\. South\)](https://open.spotify.com/track/3jpdfoWVvhMDVkVrJmiVOc) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Golden \(feat\. St\. South\)](https://open.spotify.com/album/2p6nHbYOcLaivkJFlPzjNY) | 3:19 | 2021-10-29 | 2022-07-29 |
+| [Hanging](https://open.spotify.com/track/6khrKsm3I0OJb4WB5Ogs2j) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Hanging](https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz) | 3:53 | 2023-10-13 |  |
 | [Haven Lea](https://open.spotify.com/track/1npKCqB7DQ8bAM1DlWp5a9) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Haven Lea](https://open.spotify.com/album/206TdjkA3eP2MVvI3VPe3z) | 3:07 | 2021-10-29 |  |
 | [Heavenbound](https://open.spotify.com/track/482OSODPNgnvIPRyByk0sm) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z) | [Aetherlight](https://open.spotify.com/album/4qaVL3I4xyHF9qq98dmPHc) | 4:12 | 2021-10-29 | 2023-09-07 |
 | [Heavenbound](https://open.spotify.com/track/6hXEp8HiIhOh3lMFyN7tKN) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z) | [Heavenbound](https://open.spotify.com/album/1g5USZiscLk3QGtqd49Q9y) | 4:12 | 2021-10-29 | 2022-07-29 |
@@ -142,7 +143,7 @@
 | [Picture of You \(feat\. Hayden Calnin\)](https://open.spotify.com/track/0rqZHv7LtB9swrz1rouNA0) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Picture of You \(feat\. Hayden Calnin\)](https://open.spotify.com/album/0Mz6NtZLK5oR3SZvK8kFk0) | 4:21 | 2021-10-29 | 2022-07-29 |
 | [Pictures](https://open.spotify.com/track/2rahZcwdQ3zQU6AEgXWV6G) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [A Book Of Flying](https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde) | 4:16 | 2021-10-29 |  |
 | [Pictures](https://open.spotify.com/track/5YWJYToSH7vZ98r5PS3y6j) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [A Book Of Flying](https://open.spotify.com/album/5QbW6Uu7YAmB2bNQr88pQs) | 4:16 | 2021-10-29 | 2022-07-29 |
-| [Pistol Shrimp](https://open.spotify.com/track/5M1hoIZLs9cSOihCgUTJjT) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Pistol Shrimp](https://open.spotify.com/album/5teivAr6a0JL0H36dIwRyf) | 3:58 | 2023-09-08 |  |
+| [Pistol Shrimp](https://open.spotify.com/track/5M1hoIZLs9cSOihCgUTJjT) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Pistol Shrimp](https://open.spotify.com/album/5teivAr6a0JL0H36dIwRyf) | 3:58 | 2023-09-08 | 2023-10-15 |
 | [Plans](https://open.spotify.com/track/1svJlQzq22Erm3P87wGYgk) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Home](https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe) | 3:49 | 2021-10-29 |  |
 | [Poison to You](https://open.spotify.com/track/2gespzBmNAR9mpbenZdPlH) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Grapefruit Season](https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z) | 3:53 | 2021-10-29 |  |
 | [River Women](https://open.spotify.com/track/2dr5wlv7bKYIcn1dx0NxEp) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/7wOI4ZyLe9oNEdfa5AHgsg) | 3:51 | 2021-10-29 | 2022-06-24 |

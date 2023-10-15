@@ -1,12 +1,12 @@
 {
   "description": "Music City must-hears. Cover: John Morgan",
-  "num_followers": 168894,
+  "num_followers": 168978,
   "original_name": "Next From Nashville",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmMzMTliZWVjZTkwZjk1MzZhNWQ1YzljZDY4NzEzZmEyOGM2MjNh",
+  "snapshot_id": "MCw2NDNmN2Y5ODBiN2Y0MThhYzE4NzJiYTU0YjY0ZThhN2NiODY1ZjAx",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -204,7 +204,7 @@
           "url": "https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq"
         }
       ],
-      "duration_ms": 183722,
+      "duration_ms": 184700,
       "name": "Karma On The Rocks",
       "url": "https://open.spotify.com/track/0595jMHSKb5tUDqm2UDT14"
     },
@@ -275,7 +275,7 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Second Wife",
+        "name": "second wife",
         "url": "https://open.spotify.com/album/6ozGfS9Cyd684kJhm3PRLI"
       },
       "artists": [

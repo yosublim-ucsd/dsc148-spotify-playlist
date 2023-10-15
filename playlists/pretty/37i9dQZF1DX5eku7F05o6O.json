@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3661,
+  "num_followers": 3663,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODY5YjM3N2Q0ODc2YzZhYmFjNDIwYTU3MmZlYWI3OWU5ZjY5Yzky",
+  "snapshot_id": "MCxlNTNmYTIwZjBmODc3NGFkNjg2NDhmNjU3Nzk1NWY4NTIzZDU2YzY2",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -747,6 +747,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Un Autre \u00c9t\u00e9",
+        "url": "https://open.spotify.com/album/1EPQK7vUSd8UQzVLToWnWf"
+      },
+      "artists": [
+        {
+          "name": "Sophie Chen",
+          "url": "https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Un Autre \u00c9t\u00e9",
+      "url": "https://open.spotify.com/track/22sQRY8rd7fIbIgMHRc3eO"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Silhouettes",
         "url": "https://open.spotify.com/album/17JhlO2Y0kvAIJwML6jkzJ"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 456688,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/6X9B7GfAc8Po0DyW3UA9m0"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Un Autre \u00c9t\u00e9",
-        "url": "https://open.spotify.com/album/1EPQK7vUSd8UQzVLToWnWf"
-      },
-      "artists": [
-        {
-          "name": "Sophie Chen",
-          "url": "https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Un Autre \u00c9t\u00e9",
-      "url": "https://open.spotify.com/track/22sQRY8rd7fIbIgMHRc3eO"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -931,22 +931,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Les amours parall\u00e8les",
-        "url": "https://open.spotify.com/album/6t5F9hgEjkanSW3opjKB82"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phanie Lapointe",
-          "url": "https://open.spotify.com/artist/0bEvfTJsHHsTxqpqzWGXDw"
-        }
-      ],
-      "duration_ms": 218935,
-      "name": "L\u2019oiseau m\u00e9canique",
-      "url": "https://open.spotify.com/track/1TCklgqTPFMMD8YV5G4wNB"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Hisser haut",
         "url": "https://open.spotify.com/album/19GytsXYQogaXM5Yxh9iu8"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 202333,
       "name": "L'atelier",
       "url": "https://open.spotify.com/track/1bfhchdMYgx3kbieRtemH2"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Les amours parall\u00e8les",
+        "url": "https://open.spotify.com/album/6t5F9hgEjkanSW3opjKB82"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Lapointe",
+          "url": "https://open.spotify.com/artist/0bEvfTJsHHsTxqpqzWGXDw"
+        }
+      ],
+      "duration_ms": 218935,
+      "name": "L\u2019oiseau m\u00e9canique",
+      "url": "https://open.spotify.com/track/1TCklgqTPFMMD8YV5G4wNB"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Himalaya mon amour",
-        "url": "https://open.spotify.com/album/6pr1J7ekJbaOIPELBTmGVb"
-      },
-      "artists": [
-        {
-          "name": "Alex Nevsky",
-          "url": "https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc"
-        }
-      ],
-      "duration_ms": 164226,
-      "name": "Si tu restes",
-      "url": "https://open.spotify.com/track/47RDT6K7pUYnO1NWWCw1z7"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "And The Boys",
         "url": "https://open.spotify.com/album/29j3QuJ0u2TAflB5oOzRCu"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 250240,
       "name": "And The Boys - French Version",
       "url": "https://open.spotify.com/track/4EYhacL135vKV7bujL7pRs"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Himalaya mon amour",
+        "url": "https://open.spotify.com/album/6pr1J7ekJbaOIPELBTmGVb"
+      },
+      "artists": [
+        {
+          "name": "Alex Nevsky",
+          "url": "https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc"
+        }
+      ],
+      "duration_ms": 164226,
+      "name": "Si tu restes",
+      "url": "https://open.spotify.com/track/47RDT6K7pUYnO1NWWCw1z7"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le plein de r\u00e9confort",
-        "url": "https://open.spotify.com/album/3vkPYDNAcj1AeHtkrau0bd"
-      },
-      "artists": [
-        {
-          "name": "Marie-Ange",
-          "url": "https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR"
-        }
-      ],
-      "duration_ms": 215295,
-      "name": "Le plein de r\u00e9confort",
-      "url": "https://open.spotify.com/track/5bK1QSJQr6bzmw14C38cB8"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Parades",
         "url": "https://open.spotify.com/album/68gezXq5hixi4zYIow8L22"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 213106,
       "name": "Je sais",
       "url": "https://open.spotify.com/track/3LDuDSAyLuICLyhieUy6v0"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Le plein de r\u00e9confort",
+        "url": "https://open.spotify.com/album/3vkPYDNAcj1AeHtkrau0bd"
+      },
+      "artists": [
+        {
+          "name": "Marie-Ange",
+          "url": "https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR"
+        }
+      ],
+      "duration_ms": 215295,
+      "name": "Le plein de r\u00e9confort",
+      "url": "https://open.spotify.com/track/5bK1QSJQr6bzmw14C38cB8"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Ta Chance",
-        "url": "https://open.spotify.com/album/6FOgtlRxXBvZBVesqVYH6T"
-      },
-      "artists": [
-        {
-          "name": "Nerina Pallot",
-          "url": "https://open.spotify.com/artist/4aFx7q4WkiTWPLJNW5mkKK"
-        }
-      ],
-      "duration_ms": 268276,
-      "name": "Ta Chance",
-      "url": "https://open.spotify.com/track/1aCEZAN4T0hp6OGGM73ziU"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le long chemin (version acoustique)",
         "url": "https://open.spotify.com/album/5yC3D6Lxyc5Fc4vqnirnGB"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 220146,
       "name": "Le long chemin - version acoustique",
       "url": "https://open.spotify.com/track/6WQ0syAVuov3xfTl20l5ne"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Ta Chance",
+        "url": "https://open.spotify.com/album/6FOgtlRxXBvZBVesqVYH6T"
+      },
+      "artists": [
+        {
+          "name": "Nerina Pallot",
+          "url": "https://open.spotify.com/artist/4aFx7q4WkiTWPLJNW5mkKK"
+        }
+      ],
+      "duration_ms": 268276,
+      "name": "Ta Chance",
+      "url": "https://open.spotify.com/track/1aCEZAN4T0hp6OGGM73ziU"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Alexe",
-        "url": "https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL"
-      },
-      "artists": [
-        {
-          "name": "Alexe",
-          "url": "https://open.spotify.com/artist/25OceRescHJwftJk284v8K"
-        }
-      ],
-      "duration_ms": 273473,
-      "name": "L'hiver",
-      "url": "https://open.spotify.com/track/4wK5JsT3ptA1cSX0Fvm5bh"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Politesses",
         "url": "https://open.spotify.com/album/3iCs4w50p4r4PY9ZKF9800"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Les filles sages vont au paradis les autres vont o\u00f9 elles veulent",
-        "url": "https://open.spotify.com/album/60gk5lYerWSscx4ec7iNnn"
+        "name": "Alexe",
+        "url": "https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL"
       },
       "artists": [
         {
-          "name": "Samuele",
-          "url": "https://open.spotify.com/artist/0p0KSaRWc5tzxkzbujbScQ"
+          "name": "Alexe",
+          "url": "https://open.spotify.com/artist/25OceRescHJwftJk284v8K"
         }
       ],
-      "duration_ms": 256361,
-      "name": "Dactylo",
-      "url": "https://open.spotify.com/track/4XX69muE4DKyvFKZ6I6K7m"
+      "duration_ms": 273473,
+      "name": "L'hiver",
+      "url": "https://open.spotify.com/track/4wK5JsT3ptA1cSX0Fvm5bh"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Les filles sages vont au paradis les autres vont o\u00f9 elles veulent",
+        "url": "https://open.spotify.com/album/60gk5lYerWSscx4ec7iNnn"
+      },
+      "artists": [
+        {
+          "name": "Samuele",
+          "url": "https://open.spotify.com/artist/0p0KSaRWc5tzxkzbujbScQ"
+        }
+      ],
+      "duration_ms": 256361,
+      "name": "Dactylo",
+      "url": "https://open.spotify.com/track/4XX69muE4DKyvFKZ6I6K7m"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Voix de No\u00ebl",
         "url": "https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc"
       },
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Vall\u00e9e d'argent",
-        "url": "https://open.spotify.com/album/09OUJmGawnX1zGiqZJFlLr"
-      },
-      "artists": [
-        {
-          "name": "Sarah Bourdon",
-          "url": "https://open.spotify.com/artist/4UaeNuHgR5vlCt35BhaKus"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Samara",
-      "url": "https://open.spotify.com/track/2vCQXuLry4rrlGUS3tp3z5"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Bleu Soleil",
         "url": "https://open.spotify.com/album/7d2wTwiTr53Nq0anXhjCMK"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 247733,
       "name": "Il m'en aura fallu du temps",
       "url": "https://open.spotify.com/track/6OcbIeE7F92k09twe8mpMq"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Vall\u00e9e d'argent",
+        "url": "https://open.spotify.com/album/09OUJmGawnX1zGiqZJFlLr"
+      },
+      "artists": [
+        {
+          "name": "Sarah Bourdon",
+          "url": "https://open.spotify.com/artist/4UaeNuHgR5vlCt35BhaKus"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Samara",
+      "url": "https://open.spotify.com/track/2vCQXuLry4rrlGUS3tp3z5"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Kirchner",
-        "url": "https://open.spotify.com/album/6XwqIP029mhVPAiNKTdX5p"
-      },
-      "artists": [
-        {
-          "name": "Julien Manaud",
-          "url": "https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f"
-        }
-      ],
-      "duration_ms": 180215,
-      "name": "Kirchner",
-      "url": "https://open.spotify.com/track/21amYb20XPokNPMsyQHHZq"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "T\u00e9lescope",
         "url": "https://open.spotify.com/album/5Ku7Xs7EaxBsm83Z9DZqCO"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 284826,
       "name": "Poisson d'abysse",
       "url": "https://open.spotify.com/track/0LR8ALW0z4Spd58XNvKuQe"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Kirchner",
+        "url": "https://open.spotify.com/album/6XwqIP029mhVPAiNKTdX5p"
+      },
+      "artists": [
+        {
+          "name": "Julien Manaud",
+          "url": "https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f"
+        }
+      ],
+      "duration_ms": 180215,
+      "name": "Kirchner",
+      "url": "https://open.spotify.com/track/21amYb20XPokNPMsyQHHZq"
     },
     {
       "added_at": "2021-02-06 03:12:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Free Throw
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,496 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,517 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Predator](https://open.spotify.com/track/5LT88wAiBchqnuM9ax4Jyf) | [Chelsea Manor](https://open.spotify.com/artist/6lcIRoW3WY9h7z0iqfghFc) | [Predator](https://open.spotify.com/album/2lCEjOo99WLMsxoGy4WeOv) | 3:13 |
 | 100 | [Enemy](https://open.spotify.com/track/6CgWLkFhymq6o4nvOuJrKC) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Enemy](https://open.spotify.com/album/0O9aKBmu7LlWmlknQgI1Pz) | 3:22 |
 
-Snapshot ID: `MCw0NTc4MzNhMGM0NTUzZjBiZGI0NDMyMjgyY2E5NWNkMzRlYjNiYjEy`
+Snapshot ID: `MCw5ODUzNzliMzc2MTcxMzdiOGMzYTZmZjY2MjIzYjk1YzZlNGY5NDA4`

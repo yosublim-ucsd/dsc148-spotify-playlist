@@ -1,12 +1,12 @@
 {
   "description": "d\u00e1 o play e fica suave ai \u00f4 bact\u00e9rio",
-  "num_followers": 625893,
+  "num_followers": 626551,
   "original_name": "funk challenge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDM4MjNjNTc1NGQ5YzM3MzU2MWJiNWI5ZjhlOTI1ZDMxNzlmMDVl",
+  "snapshot_id": "MCwyZTE0Y2Q4ZGU0MmMwYjMzMDU0MTE0NTc0YTkzZDQ4YzJkMWE2M2Ri",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -72,16 +72,16 @@
           "url": "https://open.spotify.com/artist/5zKrn256dtGXDCpOVlr22G"
         },
         {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+        },
+        {
           "name": "Mc Gw",
           "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         },
         {
           "name": "Mc Magrinho",
           "url": "https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI"
-        },
-        {
-          "name": "Mc Delux",
-          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
         },
         {
           "name": "Mc Pikachu",
@@ -272,12 +272,12 @@
           "url": "https://open.spotify.com/artist/0GdMuH0u9HyAz8cLvmg7gD"
         },
         {
-          "name": "MC Jacar\u00e9",
-          "url": "https://open.spotify.com/artist/3pfMg9hiGHJt0x9zDhiL7I"
-        },
-        {
           "name": "DJ Sammer",
           "url": "https://open.spotify.com/artist/6PZAe0r2oRjcMwriylvnWw"
+        },
+        {
+          "name": "MC Jacar\u00e9",
+          "url": "https://open.spotify.com/artist/3pfMg9hiGHJt0x9zDhiL7I"
         }
       ],
       "duration_ms": 105461,

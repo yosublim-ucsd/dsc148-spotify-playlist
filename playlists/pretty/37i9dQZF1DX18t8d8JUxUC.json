@@ -1,18 +1,18 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Hermanos Guti\u00e9rrez",
-  "num_followers": 17626,
+  "num_followers": 17658,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzExMTExMDJmNDM3YjI4MmY0NDRhZTdhMGVjY2IzNzliYjA3MDdk",
+  "snapshot_id": "MCxlODI1MWM5NDIwNDhkMWNkYmJjMWNjMmI2ODIwNWUxZmZmNjU1OTcy",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Los Chicos Tristes (El Michels Affair Remix)",
-        "url": "https://open.spotify.com/album/3S7HTJw7AgnqpP5b9TeLkW"
+        "name": "Los Chicos Tristes [Feat. Jensine Benitez] (El Michels Affair Remix)",
+        "url": "https://open.spotify.com/album/0UQ4Se7ofqNnYlemid3D4b"
       },
       "artists": [
         {
@@ -29,8 +29,8 @@
         }
       ],
       "duration_ms": 161255,
-      "name": "Los Chicos Tristes - El Michels Affair Remix",
-      "url": "https://open.spotify.com/track/0ZLuy99MEaGRkpfzlyfQ8i"
+      "name": "Los Chicos Tristes [Feat. Jensine Benitez] - El Michels Affair Remix",
+      "url": "https://open.spotify.com/track/0rn2hYyqGKK7wwpwsrXcc8"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Mujer El\u00e9ctrica",
-        "url": "https://open.spotify.com/album/3sgIcq7sXDaw1patJDSd59"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 113639,
-      "name": "Caf\u00e9 Con Leche",
-      "url": "https://open.spotify.com/track/6SfkPzqzG62lkvkyKJGUKY"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Conticinio",
         "url": "https://open.spotify.com/album/7iqnQQB4qkSdFGlO0F8MCn"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 212659,
       "name": "Conticinio",
       "url": "https://open.spotify.com/track/66V8fWmTWOTcZTo0niDctU"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Mujer El\u00e9ctrica",
+        "url": "https://open.spotify.com/album/3sgIcq7sXDaw1patJDSd59"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 113639,
+      "name": "Caf\u00e9 Con Leche",
+      "url": "https://open.spotify.com/track/6SfkPzqzG62lkvkyKJGUKY"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 201674,
-      "name": "Te Guardo",
-      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "El Bueno Y El Malo",
         "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 201413,
       "name": "Tres Hermanos",
       "url": "https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 201674,
+      "name": "Te Guardo",
+      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 199936,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Los D\u00edas en la Sala",
         "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 212698,
       "name": "Nuez",
       "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 199936,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "\u00bfY Si Te Invito?",
+        "url": "https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR"
+      },
+      "artists": [
+        {
+          "name": "Axel M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/0nY0rYPHRYTji024zspDCw"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "\u00bfY Si Te Invito?",
+      "url": "https://open.spotify.com/track/0foW7sax16CI8UizVAek32"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "El Invento",
         "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 187649,
       "name": "M\u00e1s",
       "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "\u00bfY Si Te Invito?",
-        "url": "https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR"
-      },
-      "artists": [
-        {
-          "name": "Axel M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/0nY0rYPHRYTji024zspDCw"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "\u00bfY Si Te Invito?",
-      "url": "https://open.spotify.com/track/0foW7sax16CI8UizVAek32"
     },
     {
       "added_at": "2023-10-13 04:00:00",

@@ -4,11 +4,12 @@
 
 > The best and finest 90s Funk\. Cover: The Brand New Heavies.
 
-102 songs - 8 hr 19 min
+103 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Ain't No Use](https://open.spotify.com/track/3JkHwikjVBXWEbDnT6oh87) | [Pure Wildness](https://open.spotify.com/artist/4gzjgciUHJsBCahtz9oQEU) | [The Acid Jazz Collection: Soul](https://open.spotify.com/album/3XmAdfqBf0E6S9fLNOLfkZ) | 5:57 | 2020-12-01 |  |
+| [Ain't No Use](https://open.spotify.com/track/0BQS1mANpW6ttdjKzlz4kg) | [Pure Wildness](https://open.spotify.com/artist/4gzjgciUHJsBCahtz9oQEU) | [A1! The Best Of Acid Jazz](https://open.spotify.com/album/6UybS8kD23K40skKiSpBaq) | 5:57 | 2020-12-01 |  |
+| [Ain't No Use](https://open.spotify.com/track/3JkHwikjVBXWEbDnT6oh87) | [Pure Wildness](https://open.spotify.com/artist/4gzjgciUHJsBCahtz9oQEU) | [The Acid Jazz Collection: Soul](https://open.spotify.com/album/3XmAdfqBf0E6S9fLNOLfkZ) | 5:57 | 2020-12-01 | 2023-10-15 |
 | [Ain’t No Fun \(If The Homies Can’t Have None\)](https://open.spotify.com/track/3g1mP8c79KbkWDhED5tyKZ) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 4:06 | 2020-12-01 |  |
 | [Akimbo](https://open.spotify.com/track/6Flg674cbFC7QvV4DQaYFG) | [Akimbo](https://open.spotify.com/artist/5mfsPYmobIPeqz7nAbmIo1) | [On Top](https://open.spotify.com/album/5siEzhoSVio39uXEqA7BcB) | 5:19 | 2020-12-01 |  |
 | [All I Ask \(feat\. Veba\)](https://open.spotify.com/track/5GvWjF2OEhudc0DDzgnTAm) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Veba](https://open.spotify.com/artist/6j2ae9lkLM3apxccKUu5dJ) | [Northern Sulphuric Soul](https://open.spotify.com/album/75yPpdG1AXCXQf2E2jFfj9) | 4:49 | 2020-12-01 |  |

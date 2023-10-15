@@ -1,12 +1,12 @@
 {
   "description": "De 50 populairste hits van Nederland. Cover: Tate McRae",
-  "num_followers": 894939,
+  "num_followers": 894674,
   "original_name": "Top Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWExYjNhY2RhMzYxNGQ4NmM2NGE0YTRkMzkwYTRiMjY0OTU2OGM4",
+  "snapshot_id": "MCxjMDM5ZDU2YTM5Yzc3NTAyMDU5YWRiMTg2ZmVjNmRiODJmMDU3NDgw",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -543,6 +543,26 @@
       "duration_ms": 152827,
       "name": "Hypnose",
       "url": "https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2023-10-12 22:00:00",

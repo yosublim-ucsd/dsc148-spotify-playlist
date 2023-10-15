@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 284518,
+  "num_followers": 284650,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzA1MGI5YjM2YjNmYzI4MjNiY2E0ZmI5MGM4ZmRlNjU0ZGVlMjQx",
+  "snapshot_id": "MCw3ZTQ4ZmZmMTFiMTk2NDMzMDI2YTc3ODZmZDlmZGEzODlhZjhmYWZj",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "CoronaWave: \u30b3\u30ed\u30ca\u30a6\u30a4\u30eb\u30b9",
-        "url": "https://open.spotify.com/album/36TxAJXg1qqM2ALaO9FJjz"
-      },
-      "artists": [
-        {
-          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
-          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
-        }
-      ],
-      "duration_ms": 112278,
-      "name": "W U H A N",
-      "url": "https://open.spotify.com/track/0Cqo3oUVrNVDOMTZFv83uY"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "143",
         "url": "https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 103214,
       "name": "143",
       "url": "https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "CoronaWave: \u30b3\u30ed\u30ca\u30a6\u30a4\u30eb\u30b9",
+        "url": "https://open.spotify.com/album/36TxAJXg1qqM2ALaO9FJjz"
+      },
+      "artists": [
+        {
+          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
+          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
+        }
+      ],
+      "duration_ms": 112278,
+      "name": "W U H A N",
+      "url": "https://open.spotify.com/track/0Cqo3oUVrNVDOMTZFv83uY"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -803,18 +803,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "get a job \u6797\u6a8e",
-        "url": "https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH"
+        "name": "Cosmic Palace",
+        "url": "https://open.spotify.com/album/0PlJciYp4lDHeB9IaAxYrt"
       },
       "artists": [
         {
-          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
-          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
+          "name": "DavZ",
+          "url": "https://open.spotify.com/artist/1AOsohWDEAkuaJElJnHfkx"
+        },
+        {
+          "name": "Decisive Koala",
+          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
         }
       ],
-      "duration_ms": 130693,
-      "name": "Fruit That Sounds Friendly",
-      "url": "https://open.spotify.com/track/5Znvef2ItjbmppaBJjnUjK"
+      "duration_ms": 254080,
+      "name": "Cosmic Palace",
+      "url": "https://open.spotify.com/track/6FZSt1tVtKtj20gmqgIfNt"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -835,22 +839,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Cosmic Palace",
-        "url": "https://open.spotify.com/album/0PlJciYp4lDHeB9IaAxYrt"
+        "name": "get a job \u6797\u6a8e",
+        "url": "https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH"
       },
       "artists": [
         {
-          "name": "DavZ",
-          "url": "https://open.spotify.com/artist/1AOsohWDEAkuaJElJnHfkx"
-        },
-        {
-          "name": "Decisive Koala",
-          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
+          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
+          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
         }
       ],
-      "duration_ms": 254080,
-      "name": "Cosmic Palace",
-      "url": "https://open.spotify.com/track/6FZSt1tVtKtj20gmqgIfNt"
+      "duration_ms": 130693,
+      "name": "Fruit That Sounds Friendly",
+      "url": "https://open.spotify.com/track/5Znvef2ItjbmppaBJjnUjK"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -988,8 +988,8 @@
       },
       "artists": [
         {
-          "name": "willi6m",
-          "url": "https://open.spotify.com/artist/2OUFKazBcRtkBSief5OYo8"
+          "name": "glhf",
+          "url": "https://open.spotify.com/artist/4vghXazcknhr7lSBb5w5te"
         }
       ],
       "duration_ms": 388732,
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Left to Our Own Devices",
+        "url": "https://open.spotify.com/album/1y8vLhvcsBHmFcNB57IZyy"
+      },
+      "artists": [
+        {
+          "name": "Le Cassette",
+          "url": "https://open.spotify.com/artist/10245Q9NZEdn6i5Rzs9zkJ"
+        }
+      ],
+      "duration_ms": 416000,
+      "name": "Arms of Mine",
+      "url": "https://open.spotify.com/track/53QNhk9jqnhowWjzb5cMmR"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "mirror gallery (Windows 96 Remix)",
         "url": "https://open.spotify.com/album/0MJk13mTHzhooFD8zhuJX2"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 163019,
       "name": "mirror gallery (Windows 96 Remix)",
       "url": "https://open.spotify.com/track/1qnb5BWjEyWNOw06UWpMNH"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Left to Our Own Devices",
-        "url": "https://open.spotify.com/album/1y8vLhvcsBHmFcNB57IZyy"
-      },
-      "artists": [
-        {
-          "name": "Le Cassette",
-          "url": "https://open.spotify.com/artist/10245Q9NZEdn6i5Rzs9zkJ"
-        }
-      ],
-      "duration_ms": 416000,
-      "name": "Arms of Mine",
-      "url": "https://open.spotify.com/track/53QNhk9jqnhowWjzb5cMmR"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Ocean Breeze",
-        "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
-      },
-      "artists": [
-        {
-          "name": "Trushinitas",
-          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
-        }
-      ],
-      "duration_ms": 146270,
-      "name": "By the River",
-      "url": "https://open.spotify.com/track/231J1yvJV2cFXOvtmhXQ7f"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Midnight Store",
         "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Sonic in the Holobeach",
-        "url": "https://open.spotify.com/album/39XqN8qQbnTPErbj4MPBau"
+        "name": "Ocean Breeze",
+        "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
       },
       "artists": [
         {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+          "name": "Trushinitas",
+          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
         }
       ],
-      "duration_ms": 256096,
-      "name": "Sonic in the Holobeach",
-      "url": "https://open.spotify.com/track/0D572l8DUok2WQpKMA5MEg"
+      "duration_ms": 146270,
+      "name": "By the River",
+      "url": "https://open.spotify.com/track/231J1yvJV2cFXOvtmhXQ7f"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1183,6 +1167,22 @@
       "duration_ms": 375876,
       "name": "Surfer Girl",
       "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Sonic in the Holobeach",
+        "url": "https://open.spotify.com/album/39XqN8qQbnTPErbj4MPBau"
+      },
+      "artists": [
+        {
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+        }
+      ],
+      "duration_ms": 256096,
+      "name": "Sonic in the Holobeach",
+      "url": "https://open.spotify.com/track/0D572l8DUok2WQpKMA5MEg"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "\u30b7\u30e7\u30c3\u30d7 @ \u30d8\u30eb\u30b7\u30f3\u30ad",
+        "url": "https://open.spotify.com/album/7upP20MlGsGVBis10Jmv7O"
+      },
+      "artists": [
+        {
+          "name": "\u732b \u30b7 Corp.",
+          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
+        }
+      ],
+      "duration_ms": 354000,
+      "name": "\u90fd\u5e02\u30d5\u30a9\u30fc\u30e9\u30e0 Consumer (kahvi)",
+      "url": "https://open.spotify.com/track/1V4E9a1EalEmIFkrJ7cZ1L"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "On the Promenade (George Clanton Remix)",
         "url": "https://open.spotify.com/album/4LcVbqtExdOpkYDDTZnqt0"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 196956,
       "name": "On the Promenade (George Clanton Remix)",
       "url": "https://open.spotify.com/track/2S7pNIePcW0RYrt3N3NxHx"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "\u30b7\u30e7\u30c3\u30d7 @ \u30d8\u30eb\u30b7\u30f3\u30ad",
-        "url": "https://open.spotify.com/album/7upP20MlGsGVBis10Jmv7O"
-      },
-      "artists": [
-        {
-          "name": "\u732b \u30b7 Corp.",
-          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
-        }
-      ],
-      "duration_ms": 354000,
-      "name": "\u90fd\u5e02\u30d5\u30a9\u30fc\u30e9\u30e0 Consumer (kahvi)",
-      "url": "https://open.spotify.com/track/1V4E9a1EalEmIFkrJ7cZ1L"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Iconic Bitch",
-        "url": "https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S"
-      },
-      "artists": [
-        {
-          "name": "3d Blast",
-          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
-        }
-      ],
-      "duration_ms": 233774,
-      "name": "Beyond Nostalgia",
-      "url": "https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Crystal",
         "url": "https://open.spotify.com/album/00xbLL56fmy3kNK2LKOGTU"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 181955,
       "name": "TELL ME HOW IT FEELS",
       "url": "https://open.spotify.com/track/3ED8yesBlmi7oJcw3jktA2"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Iconic Bitch",
+        "url": "https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S"
+      },
+      "artists": [
+        {
+          "name": "3d Blast",
+          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
+        }
+      ],
+      "duration_ms": 233774,
+      "name": "Beyond Nostalgia",
+      "url": "https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "made in taiwan",
+        "url": "https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo"
+      },
+      "artists": [
+        {
+          "name": "Lupus Nocte",
+          "url": "https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53"
+        }
+      ],
+      "duration_ms": 182190,
+      "name": "made in taiwan",
+      "url": "https://open.spotify.com/track/4MzBWdWkkj3cqSvH84hzbm"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Downpour",
         "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 484471,
       "name": "Downpour",
       "url": "https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "made in taiwan",
-        "url": "https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo"
-      },
-      "artists": [
-        {
-          "name": "Lupus Nocte",
-          "url": "https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53"
-        }
-      ],
-      "duration_ms": 182190,
-      "name": "made in taiwan",
-      "url": "https://open.spotify.com/track/4MzBWdWkkj3cqSvH84hzbm"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Aeris",
-        "url": "https://open.spotify.com/album/1ySeydSvvqtYI8HnHSU047"
-      },
-      "artists": [
-        {
-          "name": "Rhodes Rodosu",
-          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Oneirataxia",
-      "url": "https://open.spotify.com/track/6FDdDpVNYdROU8SAmzlfQ9"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Open Tournament 27XX",
         "url": "https://open.spotify.com/album/23G7wMaTOeBjuJ3UucHtqL"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Aeris",
+        "url": "https://open.spotify.com/album/1ySeydSvvqtYI8HnHSU047"
+      },
+      "artists": [
+        {
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Oneirataxia",
+      "url": "https://open.spotify.com/track/6FDdDpVNYdROU8SAmzlfQ9"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Miami Virtual",
         "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Marina Forever",
-        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
-      },
-      "artists": [
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
-        }
-      ],
-      "duration_ms": 162024,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/7eSz1nAZz1kngrS6zAGhvw"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 106802,
       "name": "I Used To Make Vaporwave",
       "url": "https://open.spotify.com/track/1Iq4I0gge8phZrPVZXGwnL"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Marina Forever",
+        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "duration_ms": 162024,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\u30aa\u30aa\u30cf\u30b7",
-        "url": "https://open.spotify.com/album/2FEiQRzyzeIPlQqixVNKHb"
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW"
       },
       "artists": [
         {
-          "name": "Frez Wave",
-          "url": "https://open.spotify.com/artist/6tytrNpNMZoasn1ox34sox"
+          "name": "oDDling",
+          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
         }
       ],
-      "duration_ms": 85090,
-      "name": "Golden Glass",
-      "url": "https://open.spotify.com/track/3jrb9jsE0ANHwa7mHGWzsP"
+      "duration_ms": 170379,
+      "name": "Vivid",
+      "url": "https://open.spotify.com/track/5MwMvbUX8LFEjdA78fB28u"
     }
   ],
   "unique_name": "vaporwave",

@@ -1,12 +1,12 @@
 {
   "description": "Everything in Texas is best! Lo que suena in the Lone Star state. Cover: Grupo Frontera & Grupo Firme",
-  "num_followers": 16720,
+  "num_followers": 16778,
   "original_name": "Rompiendo: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTA5M2EzMGY3ZDJiMzFjZWU0ZDFjODJhYmYwOGYzODM0MWQ2MjBi",
+  "snapshot_id": "MCxlMjQyNzI1ZThkZTljNzBlMjI5MTk3M2M0NWUyOThjYjBhMjk5MGI0",
   "tracks": [
     {
       "added_at": "2023-08-18 21:56:20",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-08-18 21:56:20",
       "album": {
+        "name": "Corridos y Sentimientos (Vol 2)",
+        "url": "https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 130250,
+      "name": "Y Es Que Contigo",
+      "url": "https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX"
+    },
+    {
+      "added_at": "2023-08-18 21:56:20",
+      "album": {
         "name": "V\u00e1monos a Marte",
         "url": "https://open.spotify.com/album/2bWa8CqwRv3XsPOrW1UGb9"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2023-08-18 21:56:20",
       "album": {
-        "name": "Corridos y Sentimientos (Vol 2)",
-        "url": "https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 130250,
-      "name": "Y Es Que Contigo",
-      "url": "https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX"
-    },
-    {
-      "added_at": "2023-08-18 21:56:20",
-      "album": {
         "name": "Haciendo Magia",
         "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
       },
@@ -751,8 +751,8 @@
     {
       "added_at": "2023-08-18 21:56:20",
       "album": {
-        "name": "Me Rehuso",
-        "url": "https://open.spotify.com/album/2PoPSX8a3Nw2CUe3rha7DY"
+        "name": "Pa Quererte",
+        "url": "https://open.spotify.com/album/0oBSqtS4zt2ZGSAiTZuHvF"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
         }
       ],
-      "duration_ms": 167131,
-      "name": "Me Rehuso",
-      "url": "https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya"
+      "duration_ms": 197355,
+      "name": "Pa Quererte",
+      "url": "https://open.spotify.com/track/2nRx0se0bGzdFBqAjEmKce"
     },
     {
       "added_at": "2023-08-18 21:56:20",
@@ -839,8 +839,8 @@
     {
       "added_at": "2023-08-18 21:56:20",
       "album": {
-        "name": "Pa Quererte",
-        "url": "https://open.spotify.com/album/0oBSqtS4zt2ZGSAiTZuHvF"
+        "name": "Me Rehuso",
+        "url": "https://open.spotify.com/album/2PoPSX8a3Nw2CUe3rha7DY"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
         }
       ],
-      "duration_ms": 197355,
-      "name": "Pa Quererte",
-      "url": "https://open.spotify.com/track/2nRx0se0bGzdFBqAjEmKce"
+      "duration_ms": 167131,
+      "name": "Me Rehuso",
+      "url": "https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya"
     },
     {
       "added_at": "2023-08-18 21:56:20",
