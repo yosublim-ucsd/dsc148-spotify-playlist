@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Tone Stith
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,182 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,223 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Stranger](https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Stranger](https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms) | 2:35 |
 | 50 | [Love Outloud](https://open.spotify.com/track/0jj4TBUdZK5IekIzzYnqyU) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [ARTchives](https://open.spotify.com/album/0gb4DvjQAURA9LEu7RQr9A) | 2:57 |
 
-Snapshot ID: `MCwyMzNlYjFiZTA5YjJkYWZlMTc4YTdmNmZiZDM3YWEwYzZkZTllMjFm`
+Snapshot ID: `MCwxMWRmMTczYzBlYzcyYzc5MDNlNWY3OTY4Y2Y4NzgwZjFhNDhlNjRm`

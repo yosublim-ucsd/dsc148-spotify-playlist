@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Agus Vivo & Sónico Vivo
 
-268 songs - 14 hr 39 min
+269 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Nunca Estuvo en Ti el Litoral](https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Nunca Estuvo en Ti el Litoral](https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN) | 2:58 | 2023-06-09 | 2023-06-24 |
 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 | 2022-05-20 | 2022-08-27 |
 | [Ojos de Camello](https://open.spotify.com/track/6fSsdyxsmvfQjH7tXY9SAa) | [Reno Rojas](https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l), [Alex Serhan](https://open.spotify.com/artist/4YlZJvPOBNvWa3oPQbvlxF) | [Ojos de Camello](https://open.spotify.com/album/5cWSxcGA9ZHpqApjZuqZgj) | 3:33 | 2022-05-20 | 2023-04-09 |
-| [OKAY](https://open.spotify.com/track/613mJsuG0asXiIzz2cFjQE) | [Nicolás De Sanctis](https://open.spotify.com/artist/24VZM0e1TVb0bJaZXYaPTh), [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [OKAY](https://open.spotify.com/album/0cT3OJcYwXfqQxiK7Qd11Q) | 3:46 | 2023-05-19 |  |
+| [OKAY](https://open.spotify.com/track/613mJsuG0asXiIzz2cFjQE) | [Nicolás De Sanctis](https://open.spotify.com/artist/24VZM0e1TVb0bJaZXYaPTh), [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [OKAY](https://open.spotify.com/album/0cT3OJcYwXfqQxiK7Qd11Q) | 3:46 | 2023-05-19 | 2023-10-16 |
 | [Otra Vez](https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc) | [Una Vez Más](https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0) | 4:04 | 2022-08-26 |  |
 | [otro lugar • despertar](https://open.spotify.com/track/1a6d2GjBWqzzmfeH6YEx1n) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [otro lugar • despertar](https://open.spotify.com/album/4jeRDEalab9KTcclcSRrBC) | 3:06 | 2022-05-20 | 2023-06-24 |
 | [Pa Poderte Ver](https://open.spotify.com/track/43hSlJcM3EZeocev7yCNKX) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [juliocesar](https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o) | [Pa Poderte Ver](https://open.spotify.com/album/3SAtWLXztoa1yCChDBa7sk) | 2:46 | 2022-05-20 | 2023-04-15 |
@@ -197,6 +197,7 @@
 | [Peliculón](https://open.spotify.com/track/2MbHcrOARNtKVb5upQb4Kg) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Peliculón](https://open.spotify.com/album/4H9uGHowS5U1eP8lV1u7CB) | 3:18 | 2023-07-21 | 2023-09-07 |
 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 | 2023-06-09 |  |
 | [Pequeñas Esperanzas](https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Pequeñas Esperanzas](https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K) | 3:20 | 2023-06-09 | 2023-06-24 |
+| [Perderse \- Acústico](https://open.spotify.com/track/5cIBKumn6Q2taeTNlJTKYe) | [José Soubirón](https://open.spotify.com/artist/4fr7eMVVZXNnqlYVchk8YP), [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf) | [Perderse \(Acústico\)](https://open.spotify.com/album/5AsFyNt74exZrhSxo1pAXn) | 3:13 | 2023-10-06 |  |
 | [perdido en la ciudad](https://open.spotify.com/track/3np1HLiIzBjFodBf13Irzu) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [perdido en la ciudad](https://open.spotify.com/album/2ImmCGnDWWuZX4EsD7hLp4) | 2:33 | 2023-05-19 | 2023-06-24 |
 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 | 2022-05-20 | 2023-04-15 |
 | [Pienso en Ti](https://open.spotify.com/track/2Oy1ZKm1QWYsLThU4rhduF) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [volumen dos](https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz) | 3:07 | 2023-08-18 | 2023-10-07 |

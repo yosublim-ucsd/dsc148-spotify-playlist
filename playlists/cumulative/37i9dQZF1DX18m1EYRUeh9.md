@@ -4,7 +4,7 @@
 
 > Smooth indie jazz joints from around the globe\. Cover: Dana and Alden
 
-165 songs - 10 hr 54 min
+166 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Let's Go to Trader Joe's](https://open.spotify.com/track/0z5l7DO1gTxysQagz2ze8M) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [Cinya Khan](https://open.spotify.com/artist/7nv9u1rH0xrKytpgKfDKfz) | [Quiet Music For Young People](https://open.spotify.com/album/7EnjFsVN3FXf3L1tknhyKm) | 2:36 | 2023-08-14 |  |
 | [Light Years](https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB) | 4:07 | 2023-10-12 | 2023-10-14 |
 | [Light Years](https://open.spotify.com/track/4M3TB3K2uietahnWZuzIZF) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc) | 4:07 | 2023-10-12 |  |
-| [Listen To The Sky](https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Listen To The Sky](https://open.spotify.com/album/3G9hrfPSpBsvBwcgLT4i7u) | 2:52 | 2023-09-14 |  |
+| [Listen To The Sky](https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Listen To The Sky](https://open.spotify.com/album/3G9hrfPSpBsvBwcgLT4i7u) | 2:52 | 2023-09-14 | 2023-10-16 |
+| [Listen To The Sky](https://open.spotify.com/track/5Hp5ffZ2NOFuJCGuJ04psW) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc) | 2:52 | 2023-10-12 |  |
 | [Lost in a Bed of Flowers](https://open.spotify.com/track/6jKRORjRyncMFPyMxsYyp1) | [Zen in Space](https://open.spotify.com/artist/3tCapIBvPdztdjuCnoout6) | [Between the Abstract](https://open.spotify.com/album/08RkTLcmCy8RvbLD4MacKZ) | 5:57 | 2023-08-17 | 2023-09-29 |
 | [Loverboy](https://open.spotify.com/track/4WhxZNWqt4rzXf6ctk73CY) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [The Height Of Love](https://open.spotify.com/album/5I5F5oznREIBNiyl1f4ZuO) | 5:23 | 2023-08-10 | 2023-09-15 |
 | [Marching Band \(feat\. Masego\)](https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Marching Band \(feat\. Masego\)](https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt) | 4:44 | 2023-08-10 |  |

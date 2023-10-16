@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-429 songs - 1 day 13 hr 16 min
+431 songs - 1 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [I Thought I Would Feel Different But I Feel The Same](https://open.spotify.com/track/7qF9ZcGHkP9IQINswrY0NF) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3) | [I Thought I Would Feel Different But I Feel The Same](https://open.spotify.com/album/4mIi7gfPx1zEvaMHtJ2Hvs) | 7:51 | 2022-05-03 | 2023-04-12 |
 | [I'll be](https://open.spotify.com/track/2QLjto27aFe8gt0AjJC3zp) | [Banba](https://open.spotify.com/artist/5Igs4byggiqZsQBWJUT1Ad) | [I'll be](https://open.spotify.com/album/3uyVqqDEqwM8vlUok3XX4j) | 5:41 | 2021-12-08 | 2022-07-29 |
 | [Ibiza Blue](https://open.spotify.com/track/3HnJq0iCE0bVO1yYFxNX1C) | [Sue Avenue](https://open.spotify.com/artist/2UohvWGrvyjG67c93W6aqv) | [Ibiza Blue](https://open.spotify.com/album/6x9IjCEY9ZAwKtAUopoXKm) | 8:54 | 2021-12-08 |  |
-| [Indigo](https://open.spotify.com/track/0riJCeCbLqBwoVSnG3FMXM) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Indigo EP](https://open.spotify.com/album/4J4yF6eBnLo7w9NXu0S0TM) | 6:12 | 2021-12-08 |  |
+| [Indigo](https://open.spotify.com/track/0riJCeCbLqBwoVSnG3FMXM) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Indigo EP](https://open.spotify.com/album/4J4yF6eBnLo7w9NXu0S0TM) | 6:12 | 2021-12-08 | 2023-10-16 |
 | [indulge](https://open.spotify.com/track/1xtAsTz9HdPJX20KUlQ3sB) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [indulge](https://open.spotify.com/album/1yOTjWiA4wQXKdZHiD07GA) | 4:27 | 2021-12-08 | 2023-08-05 |
 | [Indulgence](https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Indulgence](https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou) | 4:29 | 2023-04-04 |  |
 | [Inner Circle](https://open.spotify.com/track/6O6ifYgHe37Tjmamh74vy9) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Inner Circle](https://open.spotify.com/album/2M1BIG6uhYyndZdG7tEsNz) | 3:57 | 2023-02-03 |  |
@@ -248,6 +248,7 @@
 | [Nightwhisper](https://open.spotify.com/track/3SYO8wU4bEgIYt7AeGRIwG) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Nightwhisper](https://open.spotify.com/album/7kvbMYyWGN5mSO7zRLpDoU) | 3:37 | 2021-12-08 |  |
 | [Nillla \(La la La la La\)](https://open.spotify.com/track/3ZRb3HCjzWH2bQqlzk52xb) | [100 Keigh](https://open.spotify.com/artist/1FQzMTtbPIlbti4O3Z6MYm) | [Coookies 2](https://open.spotify.com/album/22GejLMhLmoRWaYvcuMkmw) | 4:02 | 2021-12-08 | 2022-09-04 |
 | [Nillla \(La la La la La\)](https://open.spotify.com/track/1Y5C8ioJGpEYzSdAbcJsqn) | [100 Keigh](https://open.spotify.com/artist/1FQzMTtbPIlbti4O3Z6MYm) | [Nillla \(La la La la La\)](https://open.spotify.com/album/6LOzTtWRvtuCHlsRZchMu4) | 4:02 | 2022-05-03 | 2023-05-06 |
+| [No Stress in Cres](https://open.spotify.com/track/0gRVYjk3IFVQBUtfdoLc5W) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [No Stress in Cres](https://open.spotify.com/album/4R3hOElsUNXGykwoXwdsef) | 4:51 | 2023-10-13 |  |
 | [Nobody But You](https://open.spotify.com/track/2CrlhJAUBfMc53CYt0v8ev) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Hudson Scott](https://open.spotify.com/artist/1ejaJ2V5Ea7O43Y32vAwEl) | [All That Must Be](https://open.spotify.com/album/52LJO0cNeBErBohaxNZ0t4) | 4:51 | 2022-05-03 |  |
 | [Nobody Knows](https://open.spotify.com/track/4hq1oUeJruAfgsEmfdtgLR) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18), [Dolly Rae](https://open.spotify.com/artist/0wB5diKi6MD5CqXoJ3h6lJ) | [Tarazed](https://open.spotify.com/album/03fHzOcSrqgaYKiKjs0Ldn) | 4:30 | 2023-02-14 |  |
 | [Nostalgic](https://open.spotify.com/track/10LSigkAHxT3yBe1rQJpBv) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Nostalgic](https://open.spotify.com/album/2ZErGALHzhUPyxR9nOiZU4) | 6:29 | 2022-05-03 |  |
@@ -394,7 +395,7 @@
 | [To Feel Happy](https://open.spotify.com/track/2ykGnGyPhwMw8ALjrAGvI9) | [Ronnie Pacitti](https://open.spotify.com/artist/2iBVVqkMHQEUvUkSr7HHoh) | [To Feel Happy](https://open.spotify.com/album/1dfi8YaoRYgsIqGJpvX1Ma) | 3:11 | 2022-02-21 | 2022-03-09 |
 | [Trace](https://open.spotify.com/track/6GiNEkzxsD0IQARCc6eHjE) | [Tommy Tickle](https://open.spotify.com/artist/6fdPipPgwuSQrqDkAFpqu9) | [Trace](https://open.spotify.com/album/5eyT1hs1NEOkcSk6uyBDxT) | 3:31 | 2021-12-08 | 2022-07-29 |
 | [Tranquility](https://open.spotify.com/track/1FTbeseqg1XrgTnPjhChjn) | [Tommy Vercetti](https://open.spotify.com/artist/2noNB4p7pYhP4XfNcdDfJc) | [Tranquility EP](https://open.spotify.com/album/3sb10HqXfC7j3JXdp1j9Up) | 5:56 | 2021-12-08 | 2022-07-29 |
-| [Transience](https://open.spotify.com/track/0rWfxCowxTVuh4gLNGDcme) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Transience EP](https://open.spotify.com/album/0LmBlbVu1Q7UBs0x4aROWz) | 5:40 | 2023-01-06 |  |
+| [Transience](https://open.spotify.com/track/0rWfxCowxTVuh4gLNGDcme) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Transience EP](https://open.spotify.com/album/0LmBlbVu1Q7UBs0x4aROWz) | 5:40 | 2023-01-06 | 2023-10-16 |
 | [Transit of Venus](https://open.spotify.com/track/3hq2vQXYuiF5FVoCQZJbac) | [Processing Vessel](https://open.spotify.com/artist/5Lyrb1o3Ep95k5A3nhtiqz) | [Spacefaring](https://open.spotify.com/album/4LcRkEnfpQm4akG6q0gr4F) | 6:48 | 2021-12-08 | 2023-08-21 |
 | [Trilobit](https://open.spotify.com/track/3G6h7nE6eciZDrNVs6Mlov) | [Dabeat](https://open.spotify.com/artist/6iaILU3ksJDKbut3sJfIWS) | [Sarcophyton / Trilobit](https://open.spotify.com/album/1nIHLbnTwGfJXGVHW1SW0E) | 7:40 | 2021-12-08 | 2023-07-03 |
 | [Trouble](https://open.spotify.com/track/6nhUxgNa071Y79ihXy8K1c) | [Friz07](https://open.spotify.com/artist/39HPoPdSDDc9nJO6d3mOZR) | [Save The Night \- House: Trouble](https://open.spotify.com/album/4WyBZhrBG7FJTKXFRBLRf6) | 7:13 | 2021-12-08 | 2022-07-22 |
@@ -429,6 +430,7 @@
 | [Why So Blue? \- Radio Edit](https://open.spotify.com/track/7f8POQ76x9ki1D48lCsXoq) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [Dance Now, Cry Later](https://open.spotify.com/album/0b6miPcQIohCUYRmRjUFia) | 2:58 | 2021-12-08 | 2022-07-29 |
 | [with you](https://open.spotify.com/track/5idD707HmiYqTU8TifpPc8) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [with you](https://open.spotify.com/album/4HNmTH7hARtWqGeqIMMLWL) | 2:46 | 2021-12-08 | 2023-08-12 |
 | [Yini \- Serge Devant Remix](https://open.spotify.com/track/6N9GDLobAFh4RpndxG5gcp) | [Fabio Aurea](https://open.spotify.com/artist/19yeJrAma98qEbDOmye8SQ), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63), [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP) | [Yini, the Remixes](https://open.spotify.com/album/4IbQbaFvHISYJonMdxwxAP) | 7:51 | 2021-12-08 | 2022-11-17 |
+| [You & I](https://open.spotify.com/track/0x2FCEwCQPBjy9DgyCNTAG) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [You & I](https://open.spotify.com/album/1pRGnxyrtGfMH4o0jihfyU) | 3:32 | 2023-10-13 |  |
 | [You & I](https://open.spotify.com/track/18FRKIMe5W7f3ah7xsYmwH) | [Sondrio](https://open.spotify.com/artist/6KJC1M9nvTzV2R2VmB7Bo5) | [Night Music VI](https://open.spotify.com/album/3hgGqJOaHGylGOtSHMJ0Fz) | 6:22 | 2022-05-03 | 2023-05-21 |
 | [You & I](https://open.spotify.com/track/4nv58e7q8KdkSafgTlQ7VB) | [Sondrio](https://open.spotify.com/artist/6KJC1M9nvTzV2R2VmB7Bo5) | [Night Music VI](https://open.spotify.com/album/5dFWnW9pGt4qOypBJwm9g3) | 6:22 | 2021-12-08 | 2022-07-29 |
 | [You're a Superstar](https://open.spotify.com/track/6i6Jj8hSVfpvqiXnVSvsTe) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [You're a Superstar](https://open.spotify.com/album/3MucnLVLWD41n03C7UQqnw) | 2:22 | 2022-02-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 466677,
+  "num_followers": 466782,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTUwOTYzYjE4Y2Y2NDdkODk1ODE0ZDAwMjhmNDU5NDZmNjhhODhk",
+  "snapshot_id": "MCw4OTFkNTM1ZWI0YWZhZTRhOGVjM2Q0YWU0NjFlNTdiNTliNjI2NTAx",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 173279,
-      "name": "BLACKOUT",
-      "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 174283,
       "name": "War",
       "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 173279,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 236050,
-      "name": "Lyrics Lie",
-      "url": "https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 237354,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 236050,
+      "name": "Lyrics Lie",
+      "url": "https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Barely Alive",
+        "url": "https://open.spotify.com/album/5v20HSKutO3pCMlPwFMI8W"
+      },
+      "artists": [
+        {
+          "name": "Savage Hands",
+          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+        }
+      ],
+      "duration_ms": 213934,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Holding Absence",
         "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
       },
@@ -947,18 +963,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Barely Alive",
-        "url": "https://open.spotify.com/album/5v20HSKutO3pCMlPwFMI8W"
+        "name": "11 Minutes",
+        "url": "https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO"
       },
       "artists": [
         {
-          "name": "Savage Hands",
-          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+          "name": "Picturesque",
+          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
         }
       ],
-      "duration_ms": 213934,
-      "name": "Red",
-      "url": "https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS"
+      "duration_ms": 184000,
+      "name": "11 Minutes",
+      "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -991,22 +1007,6 @@
       "duration_ms": 216693,
       "name": "Guillotine",
       "url": "https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "11 Minutes",
-        "url": "https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO"
-      },
-      "artists": [
-        {
-          "name": "Picturesque",
-          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "11 Minutes",
-      "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/5Icvhj9ZzhnOkgrkhb67a1"
-      },
-      "artists": [
-        {
-          "name": "Picturesque",
-          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
-        }
-      ],
-      "duration_ms": 224453,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/1DuYS5IWAl7fk4sottVMyZ"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Restless Heart, Keep Running",
         "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 207106,
       "name": "Stars Before The Sun",
       "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/5Icvhj9ZzhnOkgrkhb67a1"
+      },
+      "artists": [
+        {
+          "name": "Picturesque",
+          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
+        }
+      ],
+      "duration_ms": 224453,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/1DuYS5IWAl7fk4sottVMyZ"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "In Our Wake",
-        "url": "https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 193196,
-      "name": "In Our Wake",
-      "url": "https://open.spotify.com/track/5CSBjkNvlyaDcYlbTuHZHP"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "The Truth in Your Eyes",
         "url": "https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 227622,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "In Our Wake",
+        "url": "https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 193196,
+      "name": "In Our Wake",
+      "url": "https://open.spotify.com/track/5CSBjkNvlyaDcYlbTuHZHP"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Damned Soul",
-        "url": "https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe"
-      },
-      "artists": [
-        {
-          "name": "Rivals",
-          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
-        }
-      ],
-      "duration_ms": 217146,
-      "name": "Moonlit",
-      "url": "https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Were You Nervous?",
         "url": "https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 208258,
       "name": "Were You Nervous?",
       "url": "https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Damned Soul",
+        "url": "https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe"
+      },
+      "artists": [
+        {
+          "name": "Rivals",
+          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
+        }
+      ],
+      "duration_ms": 217146,
+      "name": "Moonlit",
+      "url": "https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Bob Vylan Presents The Price Of Life",
-        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 150143,
-      "name": "Wicked & Bad",
-      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "My Descend",
         "url": "https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 212000,
       "name": "Empty Thoughts",
       "url": "https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Bob Vylan Presents The Price Of Life",
+        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 150143,
+      "name": "Wicked & Bad",
+      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Brick Wall",
-        "url": "https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA"
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
       "artists": [
         {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Brick Wall",
-      "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
+      "duration_ms": 158824,
+      "name": "Shh!",
+      "url": "https://open.spotify.com/track/410Kdc2Io4pknK9gBRCe4z"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+        "name": "Brick Wall",
+        "url": "https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 158824,
-      "name": "Shh!",
-      "url": "https://open.spotify.com/track/410Kdc2Io4pknK9gBRCe4z"
+      "duration_ms": 210200,
+      "name": "Brick Wall",
+      "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
     },
     {
       "added_at": "2023-06-20 21:21:38",

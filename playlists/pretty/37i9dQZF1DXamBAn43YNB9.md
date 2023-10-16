@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,141 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,295 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 48 | [Always Gonna Love You](https://open.spotify.com/track/5wTt43UbS3HmDvzAJ7Yax3) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:57 |
 | 49 | [I've Lost My Best Friend](https://open.spotify.com/track/217ufaOS3H8Ax1HGX2z6MY) | [Amy Freeman](https://open.spotify.com/artist/0ntoXm5dmjLYIS9ClqVXdU) | [Catch Myself Talking To You](https://open.spotify.com/album/62U1WApDE6dnQYZ7LG8hGH) | 3:24 |
 | 50 | [Note To Self](https://open.spotify.com/track/5X9XUK9LZTAUO9wuqYLp4N) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Note To Self](https://open.spotify.com/album/6KDINvcBPKMM9irLEM1nV2) | 3:13 |
-| 51 | [Tunnel Vision](https://open.spotify.com/track/6ZISzizKHNE1Ic4YH280jw) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Slow Burn](https://open.spotify.com/album/7J6Zg9f19sUhiJsiIIQX1N) | 4:55 |
+| 51 | [Tunnel Vision](https://open.spotify.com/track/1pOW9zVXAptyyJJHOLoEbn) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Slow Burn](https://open.spotify.com/album/3KoOqOh5N5sPOWzK3z3J6y) | 4:55 |
 | 52 | [Breakups \- Acoustic](https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups \(Acoustic\)](https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i) | 3:47 |
 | 53 | [Changing Tunes](https://open.spotify.com/track/3YtsnLnLa42IZYXb2r1mCc) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Changing Tunes](https://open.spotify.com/album/7FxR6plvB489tqhcyRIS2a) | 3:10 |
 | 54 | [Sunday Best](https://open.spotify.com/track/6nnVrHv3oozFP5XeJZzedx) | [Bryce Sainty](https://open.spotify.com/artist/6FzcOBH2gzC2UyGt6cme0t), [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Sunday Best](https://open.spotify.com/album/6ICdRiXlIgUk87yd43eBsP) | 3:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 79 | [My Masterpiece](https://open.spotify.com/track/5SlOBlrnxsuhOGMQEVZeZ0) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [My Masterpiece](https://open.spotify.com/album/10QTTpkxjazlLxVPmDu400) | 3:30 |
 | 80 | [Never Wanted To Be That Girl](https://open.spotify.com/track/7yRJMLG9ja0fBVVEmV6vcT) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:34 |
 
-Snapshot ID: `MCw5YzNmZjViNjY0Y2ViYWJlYmQzMDM1Mzc5NThlY2M4Y2YxMzllYmEw`
+Snapshot ID: `MCwyNzA2ZWQ5ZDBkYThjNGRmNjk4OTdiYWEzY2U1OTkwMDlkNWUzMzVj`

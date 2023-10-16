@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,060 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,216 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 50 | [Die Young](https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Die Young](https://open.spotify.com/album/5a5kgDxJd3thpkFig5xpCy) | 2:30 |
 | 51 | [Epic Sax Song](https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Epic Sax Song](https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4) | 2:56 |
 | 52 | [What's Up?](https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [What's Up?](https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z) | 3:12 |
-| 53 | [She Knows \(with Akon\) \- 3 Are Legend x MANDY Remix](https://open.spotify.com/track/4nzwusPHj8TosWlr3J1EZ5) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [MANDY](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [She Knows \(with Akon\) \[3 Are Legend x MANDY Remix\]](https://open.spotify.com/album/5LZqYANVnxVQjjV1d9KE0W) | 3:02 |
-| 54 | [Country Roads](https://open.spotify.com/track/6wwAp1Cmkcwc7tlrP9U2X9) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Country Roads](https://open.spotify.com/album/5oZGGyO9tPtYKOkLi2rxkf) | 2:53 |
+| 53 | [Country Roads](https://open.spotify.com/track/6wwAp1Cmkcwc7tlrP9U2X9) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Country Roads](https://open.spotify.com/album/5oZGGyO9tPtYKOkLi2rxkf) | 2:53 |
+| 54 | [She Knows \(with Akon\) \- 3 Are Legend x MANDY Remix](https://open.spotify.com/track/4nzwusPHj8TosWlr3J1EZ5) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [MANDY](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [She Knows \(with Akon\) \[3 Are Legend x MANDY Remix\]](https://open.spotify.com/album/5LZqYANVnxVQjjV1d9KE0W) | 3:02 |
 | 55 | [Jackie Chan \- MANDY Remix](https://open.spotify.com/track/0NtJLfcKJcZpGrguDWCuga) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [MANDY](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [Jackie Chan \(Remixes, Vol\. 2\)](https://open.spotify.com/album/2LfHj3QvCGowIeeSYWXLuA) | 3:00 |
 | 56 | [Liberté \- Sefa & Outsiders Remix](https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI) | [Parla & Pardoux](https://open.spotify.com/artist/3qt7yUEE6loq4FEGM7aw3M), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Liberté \(Sefa & Outsiders Remix\)](https://open.spotify.com/album/3p7eNUcZSoiMT4XPYr4doO) | 3:00 |
 | 57 | [He's a Pirate](https://open.spotify.com/track/1rSENjsUV5v8OiRrjxTyhX) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [He's a Pirate](https://open.spotify.com/album/3GPUFw0s4ng41t0YRxiI36) | 3:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Rhythm Of The Night](https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Rhythm Of The Night](https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE) | 3:10 |
 | 70 | [Superstring \- Aftershock Remix](https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Superstring \(Aftershock Remix\)](https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y) | 2:24 |
 
-Snapshot ID: `MCwxMjMwNDQ4YWRjODFmYTA0MGEzNTg0NzdjYjUzZjM3OWRmYTY3NDU3`
+Snapshot ID: `MCwzOWU0OWZmZmRlMTJlM2MxOWM0ZGUyMDRhYjg2MWY3MGU2M2FlNDM3`

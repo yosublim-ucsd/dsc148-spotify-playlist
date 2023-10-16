@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Takagi & Ketra, Shiva, ANNA, Geolier
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,221 likes - 107 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,224 likes - 107 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 81 | [Giants](https://open.spotify.com/track/4HKePZqfdN6yEYCmRguce2) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Giants](https://open.spotify.com/album/6JZ4h6RhoFqoRAWw3O2MkS) | 2:50 |
 | 82 | [House On Fire](https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [House On Fire](https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O) | 2:59 |
 | 83 | [Run Run Run](https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Run Run Run](https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K) | 2:53 |
-| 84 | [BANA GÖNDER!](https://open.spotify.com/track/4L34uXdYfwRA7zTFFfajFI) | [Lvbel C5](https://open.spotify.com/artist/09ic2uid6mCDyUdFBb4N1B), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [BANA GÖNDER!](https://open.spotify.com/album/0pQazycqkeWHnSTBnW3Ich) | 2:16 |
+| 84 | [BANA GÖNDER!](https://open.spotify.com/track/4L34uXdYfwRA7zTFFfajFI) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [BANA GÖNDER!](https://open.spotify.com/album/0pQazycqkeWHnSTBnW3Ich) | 2:16 |
 | 85 | [Was Wäre Wenn \(feat\. LARYSSA\)](https://open.spotify.com/track/4pB5UBFsrPci4KOQjmrpBX) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw), [LARYSSA](https://open.spotify.com/artist/6PDF2Plzpbcd21czXbH6pa) | [Was Wäre Wenn \(feat\. LARYSSA\)](https://open.spotify.com/album/1bN3sZcsQHTGHtWYueAJmV) | 2:04 |
 | 86 | [Gehweg](https://open.spotify.com/track/3M5cLQdPRKuj2VT7ev2aN8) | [Boloboys](https://open.spotify.com/artist/3NPDXrX2UN8ROaIHaUPrvl), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [toobrokeforfiji](https://open.spotify.com/artist/7f9f5zKkxu7tvX5uj7lVwP), [Okfella](https://open.spotify.com/artist/1R958FoJzZOnKsO4PY5aAe) | [Gehweg](https://open.spotify.com/album/7lhSJaUV2gUXLwNONm6agS) | 2:50 |
 | 87 | [closure](https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [closure](https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy) | 3:03 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 106 | [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 |
 | 107 | [TK421](https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [TK421](https://open.spotify.com/album/7IncAEknANwQthqiwWySBP) | 3:15 |
 
-Snapshot ID: `MCxhY2ZmZTY2OTk5ZmQ0ZGMyMzRmNmFkYjIyYzZjNTA0NGVjMzkwYTVj`
+Snapshot ID: `MCxiYzg5ZWVkZTk3OTNhODM3NTgxMTlhMjNlZGI2Y2E5MjM4ZDcxNzQ1`

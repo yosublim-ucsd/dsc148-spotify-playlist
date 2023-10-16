@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Mata
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,451 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,592 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [nóż motylkowy](https://open.spotify.com/track/2xCSrx8a1gZllp0jSFzsP2) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [nóż motylkowy](https://open.spotify.com/album/2rAT9XqHZFhEWgLfQeN50j) | 2:54 |
 | 50 | [w aucie noc i 90bpm](https://open.spotify.com/track/4PG1vjjSiKQBdykSyqAHWG) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [Baltik Beatz](https://open.spotify.com/artist/5P2MqlvPHysck4DS90dBaW), [Phunk'ill](https://open.spotify.com/artist/6jSShb0II1n6RNMCmqBSSM) | [w aucie noc i 90bpm](https://open.spotify.com/album/2XptoJZXg4ep4gAn91OQET) | 2:26 |
 
-Snapshot ID: `MCxlMTNjYzRmODFmZWJjNzgwYjI5YTFmYjcyMzhjNWU5MmI3Mjc5NDhl`
+Snapshot ID: `MCxmMzVkOTc2MzBhMzk1ZTA3YjYxYjFmMTY4MzhlODcxOGM2YWRjYzA5`

@@ -4,7 +4,7 @@
 
 > Inizia la giornata con la tua dose di caffè e carica musicale!
 
-183 songs - 9 hr 41 min
+184 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Can't Get Over You \(feat\. Aloe Blacc\)](https://open.spotify.com/track/46BIpPudYCyNxUTz4f2E8k) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Can't Get Over You \(feat\. Aloe Blacc\)](https://open.spotify.com/album/1dlQZWMYBgvrP0azHKfah3) | 2:39 | 2022-05-06 | 2022-07-29 |
 | [Can't Stay Away](https://open.spotify.com/track/4hMGh59flGlHd4kAnYGH1N) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Can't Stay Away](https://open.spotify.com/album/15fhQZGplsZY8jotdyudaz) | 3:00 | 2022-05-06 | 2022-07-29 |
 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2022-07-14 |  |
+| [Che t'o dico a fa'](https://open.spotify.com/track/20qlAd6sHAYjc7TrrM5VeY) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t'o dico a fa'](https://open.spotify.com/album/7kILSxiEN9pJrFyr7Bs8OE) | 3:07 | 2023-10-12 |  |
 | [Ciao Ciao](https://open.spotify.com/track/0jLeyuu6mtsD384054xLah) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Ciao Ciao](https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj) | 3:04 | 2022-05-06 | 2022-05-20 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-05-06 |  |
 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 | 2023-07-19 |  |
@@ -172,7 +173,7 @@
 | [Un Briciolo Di Allegria \(con MINA\)](https://open.spotify.com/track/6ds6kgkB0qRSpSnxcBomCO) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 3:27 | 2023-04-13 |  |
 | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 | 2022-07-14 |  |
 | [Una cosa più grande](https://open.spotify.com/track/46V0yUR2slCRsWRylPCr5u) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd), [Giuliano Sangiorgi](https://open.spotify.com/artist/4nVlr3WO33XWrBFDwtUlW4) | [Una cosa più grande](https://open.spotify.com/album/0VlXEovJWRHc4gaKzAbB92) | 3:24 | 2022-05-06 | 2022-05-27 |
-| [Used To Be](https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:52 | 2023-08-24 |  |
+| [Used To Be](https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:52 | 2023-08-24 | 2023-10-16 |
 | [Vertigine](https://open.spotify.com/track/3fc6eZjU7Mv7gJUfxrbfMu) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Vertigine](https://open.spotify.com/album/2T0ctjp2zJKKfJ1QmmZTXi) | 3:37 | 2022-05-06 | 2022-07-29 |
 | [Vertigine \(feat\. Altarboy\) \[From Netflix Original Series Baby 3\]](https://open.spotify.com/track/6r6YWM1TXM2WXZDhcwpx2z) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G), [Altarboy](https://open.spotify.com/artist/71Wi9XbCLkad6KGyjgmuTp) | [Vertigine \(feat\. Altarboy\) \[From Netflix Original Series Baby 3\]](https://open.spotify.com/album/0kXIGgtcXQEGzLWRwsGfuW) | 3:51 | 2022-05-06 | 2022-07-28 |
 | [Vieni nel mio cuore](https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Vieni nel mio cuore](https://open.spotify.com/album/1p7JI6emkhorl489KhhiQV) | 2:52 | 2022-06-17 | 2023-03-18 |

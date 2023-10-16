@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Gabriella Fernaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,080 likes - 90 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,079 likes - 90 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 89 | [Pamit Undur Diri](https://open.spotify.com/track/2TiyaPaBC1L48JzqBQIxQW) | [Novi Aurellya](https://open.spotify.com/artist/0PaM2Tp7AmjySxXnk9Fe6e) | [Pamit Undur Diri](https://open.spotify.com/album/1Op62x9oHhFwRW5YNLhGUN) | 4:17 |
 | 90 | [Pain in My Soul](https://open.spotify.com/track/2CFZSY12bsk3EBdxemlzHl) | [Irzhal Efadh](https://open.spotify.com/artist/4cok0Kl5xGtjJxTLuRtFsv) | [Pain in My Soul](https://open.spotify.com/album/0Qetxwe1Y3DRY6PJMYVnlJ) | 5:12 |
 
-Snapshot ID: `MCwwZjYyOTllNDBkNjRiYjQ4NjJlM2MzNWM2Mzc4NGU0NTU0MmE4MTE0`
+Snapshot ID: `MCw0M2EwMDYyMzA2MjE1YTc1MTZiN2E1ZjY3MjQ3ZTE3OGJmMDBhYmE3`

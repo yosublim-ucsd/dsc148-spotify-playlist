@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Rosa Ree
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,715 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,722 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 37 | [Can't Get Enough](https://open.spotify.com/track/21Jy2EJECcC8FQSKiiWmAJ) | [Ronald Mkiza](https://open.spotify.com/artist/1mMBeutte2NZsxeqoNXaL1) | [Can't Get Enough](https://open.spotify.com/album/6bVAm6VNpL3EsTjagnHNdR) | 3:48 |
 | 38 | [Sio Kwa Ubaya](https://open.spotify.com/track/3iu6HFPMKLWJpJqmhLzzih) | [MwanaFA](https://open.spotify.com/artist/7hHFTNIoDdt8C2whsOn3d3), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Sio Kwa Ubaya](https://open.spotify.com/album/1iZQP1UhukZKFSHI0Mo2LY) | 3:33 |
 | 39 | [FOREVER](https://open.spotify.com/track/1MCRjYXjDAR0KN8M53wEZF) | [BROBYBROBY](https://open.spotify.com/artist/25hmf6xsH7GsnqIQQ88659), [T.D.E](https://open.spotify.com/artist/1LTFfykgqONFKCudCp0YIo) | [UGLYBEAST VOL III](https://open.spotify.com/album/5WsySNQ6Uy09QpdEcA63SS) | 3:17 |
-| 40 | [Hatuna Kesi](https://open.spotify.com/track/1eTNIIvyLFSuMB6kIlPhEE) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn), [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Belle 9](https://open.spotify.com/artist/0b7i9eSFo4LpOALg7LKExh) | [Hatuna Kesi](https://open.spotify.com/album/2BQXiotfASO146JznwXpYb) | 3:14 |
+| 40 | [Hatuna Kesi](https://open.spotify.com/track/7hhMqQaGTmiQgS5a8HIPvw) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn), [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [BELLE 9](https://open.spotify.com/artist/2QFZXITfzIsjCiKBLdzESZ) | [Hatuna Kesi](https://open.spotify.com/album/7wC7ZrdSNo34fSvgitb4o5) | 3:17 |
 | 41 | [O 2 the G Cypher](https://open.spotify.com/track/1ib32aj9wikMcH5paMNp9E) | [Sela Ninja](https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS), [JawnRaw](https://open.spotify.com/artist/4bNirV1zXi9h0JP1wew94Q), [Defi Ant](https://open.spotify.com/artist/3G2mWYGQY79nhOkiQH9oFf), [Subtex](https://open.spotify.com/artist/4DtFulxlK1vJEwMLtz1pp3), [Jonathon Karabekian](https://open.spotify.com/artist/5B6XbfiXyPPbXmV8Foy7Zn), [nem r](https://open.spotify.com/artist/4ctcls1emJuy0L5TGDJrM0), [P\-Tah](https://open.spotify.com/artist/7yk0XpTOwg0Dhxequ5EtlM), [Plate Mdaijasho](https://open.spotify.com/artist/6asRW7Z2SVFaj6SZw65xuW), [Cody Nash](https://open.spotify.com/artist/3CvzptNJ6jW1r2kZaGGIWl), [Shazzy B](https://open.spotify.com/artist/4hoMkkezRc78CVqSy8ESJX) | [O 2 the G Cypher](https://open.spotify.com/album/5UWkAkFSjlEDvMay2tBwUH) | 7:51 |
 | 42 | [Ball](https://open.spotify.com/track/2LowbYxM2uUKTkIplQdHaS) | [Chin Bees](https://open.spotify.com/artist/4gIhwhkt6pLAUC8OQRoI6q) | [Ball](https://open.spotify.com/album/5vpj7obLVDfrGZb5xPYFfy) | 3:08 |
 | 43 | [Like That](https://open.spotify.com/track/77e741vkrVhgXSbfZvQx3L) | [DJ Gibbzy](https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB) | [Like That](https://open.spotify.com/album/3usAd7tI0dYP7KUH9s6wsL) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 49 | [TAKE ONE\. \(EPISODE 1\) \- Radio Edit](https://open.spotify.com/track/164OfQPxYLyw6REpeCN8SF) | [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [TAKE ONE\. \(EPISODE 1\) \[Radio Edit\]](https://open.spotify.com/album/1W0W5eCgAXD2JtrLlS2bnz) | 2:27 |
 | 50 | [RONALDO](https://open.spotify.com/track/5ToRj9d8fINrXGGKZOT42q) | [Weusi](https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK) | [RONALDO](https://open.spotify.com/album/42Xy57VNRaKM9ycuz8ByCU) | 4:06 |
 
-Snapshot ID: `MCxhNWRkZjE5ZTE0NGIzNTU5NThkZDM1ODE0NDgyZmJjNGQ2ZmNkOGQx`
+Snapshot ID: `MCxkMDMyZjQwYWE3MWJjYTBiNThkNjk5ZDBjOTFlMTgyNjc1ZmQ2Mzk2`

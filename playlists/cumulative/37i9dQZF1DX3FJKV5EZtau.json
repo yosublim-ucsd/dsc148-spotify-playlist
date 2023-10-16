@@ -2504,7 +2504,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 186231,
       "name": "Flicker",
       "url": "https://open.spotify.com/track/147QfD9wJR5ztI6SpfBj1G"
@@ -3740,6 +3740,24 @@
       "duration_ms": 255483,
       "name": "IN YOUR EYES \u300c\u77b3\u306e\u4e2d\u3067\u300d",
       "url": "https://open.spotify.com/track/1VviocEvd6zv4xudscXgcj"
+    },
+    {
+      "album": {
+        "name": "Inhale",
+        "url": "https://open.spotify.com/album/1vgImNq5QJ7KhPip6YU9tV"
+      },
+      "artists": [
+        {
+          "name": "sumthin sumthin",
+          "url": "https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Inhale",
+      "url": "https://open.spotify.com/track/0KniWrLMhAwFRTh58IztFc"
     },
     {
       "album": {

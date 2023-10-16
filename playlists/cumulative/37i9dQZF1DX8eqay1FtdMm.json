@@ -1139,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "The sword of Aramun, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4FLn9vnAb0b5ILDZGtz3lI"
+      },
+      "artists": [
+        {
+          "name": "Forestella",
+          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
+        }
+      ],
+      "date_added": "2023-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Chosen One",
+      "url": "https://open.spotify.com/track/1wVR4uRKLxXCwZY8saaTMM"
+    },
+    {
+      "album": {
         "name": "Close my eyes",
         "url": "https://open.spotify.com/album/66A0tlUBVPsaVbiXIrwGqP"
       },
@@ -3732,7 +3750,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 208493,
       "name": "Long time no see",
       "url": "https://open.spotify.com/track/4PwrkFF5wNLBCJLxfEdtIW"

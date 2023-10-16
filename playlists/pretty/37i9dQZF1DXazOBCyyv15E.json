@@ -1,12 +1,12 @@
 {
   "description": "The home of the best new alternative music. Cover: boygenius",
-  "num_followers": 192098,
+  "num_followers": 192267,
   "original_name": "The Other List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGFjMmNmOTk4NjE2OGU2ZjY4OTJjZmNjMjZiYTUwMzRiMjg4Mzgx",
+  "snapshot_id": "MCwwNmFmMGJjZjJhOTVlYmQ5NzQ2YzU4MDhlYTZlMjFjNjJhZDY2Mjgz",
   "tracks": [
     {
       "added_at": "2023-10-13 00:00:00",
@@ -89,6 +89,26 @@
       "url": "https://open.spotify.com/track/4BdA7ZtP00Dda9UWiSAn2F"
     },
     {
+      "added_at": "2023-10-13 10:15:59",
+      "album": {
+        "name": "I Might be Fake",
+        "url": "https://open.spotify.com/album/6lg88hmM7QAFDWvaW47TZ6"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        },
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 168805,
+      "name": "I Might be Fake",
+      "url": "https://open.spotify.com/track/7DTpqH64fSXDA3CuFxMAKE"
+    },
+    {
       "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "Nearly Daffodils",
@@ -105,6 +125,22 @@
       "url": "https://open.spotify.com/track/27gZNSZFWAdADpJ4sEbhZM"
     },
     {
+      "added_at": "2023-10-13 10:15:59",
+      "album": {
+        "name": "My Lady Of Mercy",
+        "url": "https://open.spotify.com/album/2W3JTxVFYQ9m4xd5sYKCC0"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 175410,
+      "name": "My Lady of Mercy",
+      "url": "https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV"
+    },
+    {
       "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "BORING",
@@ -119,6 +155,26 @@
       "duration_ms": 149386,
       "name": "BORING",
       "url": "https://open.spotify.com/track/63RCUs24Zch5w1EE3W1WH3"
+    },
+    {
+      "added_at": "2023-10-13 10:15:59",
+      "album": {
+        "name": "My Simple Jeep (feat. Mac DeMarco)",
+        "url": "https://open.spotify.com/album/3RiKNDu7x3qjRM4mhyBQc0"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 179810,
+      "name": "My Simple Jeep (feat. Mac DeMarco)",
+      "url": "https://open.spotify.com/track/0ZpC3Exz0loDQahf1jPErB"
     },
     {
       "added_at": "2023-10-13 00:00:00",
@@ -139,26 +195,6 @@
     {
       "added_at": "2023-10-13 00:00:00",
       "album": {
-        "name": "Simply Paradise",
-        "url": "https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        },
-        {
-          "name": "Ryan Paris",
-          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
-        }
-      ],
-      "duration_ms": 155695,
-      "name": "Simply Paradise",
-      "url": "https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ"
-    },
-    {
-      "added_at": "2023-10-13 00:00:00",
-      "album": {
         "name": "Tekken 2 (feat. Chaka Khan)",
         "url": "https://open.spotify.com/album/4z2R1paeBuJJiIcYsGtvfX"
       },
@@ -175,6 +211,22 @@
       "duration_ms": 230400,
       "name": "Tekken 2 (feat. Chaka Khan)",
       "url": "https://open.spotify.com/track/5F2sBRf79hjdKdlzNZ0sX2"
+    },
+    {
+      "added_at": "2023-10-13 10:15:59",
+      "album": {
+        "name": "drywall",
+        "url": "https://open.spotify.com/album/2cbcM8spLBGvSIxsiOwIkz"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 222739,
+      "name": "drywall",
+      "url": "https://open.spotify.com/track/49XjLtTAwwhC8tupC8E8wp"
     },
     {
       "added_at": "2023-10-13 00:00:00",
@@ -211,6 +263,26 @@
     {
       "added_at": "2023-10-13 00:00:00",
       "album": {
+        "name": "Simply Paradise",
+        "url": "https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        {
+          "name": "Ryan Paris",
+          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
+        }
+      ],
+      "duration_ms": 155695,
+      "name": "Simply Paradise",
+      "url": "https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ"
+    },
+    {
+      "added_at": "2023-10-13 00:00:00",
+      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -239,6 +311,38 @@
       "duration_ms": 261165,
       "name": "A Running Start",
       "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
+    },
+    {
+      "added_at": "2023-10-13 10:15:59",
+      "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/6JjR6OdfIJO58djrmYya2K"
+      },
+      "artists": [
+        {
+          "name": "Korby",
+          "url": "https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH"
+        }
+      ],
+      "duration_ms": 152168,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6cMHlSJWkEClZS9kyhfzuz"
+    },
+    {
+      "added_at": "2023-10-13 10:15:59",
+      "album": {
+        "name": "I Get Into Trouble",
+        "url": "https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 248759,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/2tO1RrlOXyZAMqB0wDybXf"
     },
     {
       "added_at": "2023-10-13 00:00:00",
@@ -427,8 +531,8 @@
     {
       "added_at": "2023-10-13 00:00:00",
       "album": {
-        "name": "Listen To The Sky",
-        "url": "https://open.spotify.com/album/3G9hrfPSpBsvBwcgLT4i7u"
+        "name": "Sample The Sky",
+        "url": "https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc"
       },
       "artists": [
         {
@@ -438,7 +542,7 @@
       ],
       "duration_ms": 172042,
       "name": "Listen To The Sky",
-      "url": "https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT"
+      "url": "https://open.spotify.com/track/5Hp5ffZ2NOFuJCGuJ04psW"
     },
     {
       "added_at": "2023-10-13 00:00:00",
@@ -1247,102 +1351,6 @@
       "duration_ms": 206493,
       "name": "exit girl",
       "url": "https://open.spotify.com/track/6nbfnqVbTWYfgscVHlgTR3"
-    },
-    {
-      "added_at": "2023-10-13 00:00:00",
-      "album": {
-        "name": "Jai",
-        "url": "https://open.spotify.com/album/1HCi2zkvXMIxx5cSOZi0mt"
-      },
-      "artists": [
-        {
-          "name": "Uma",
-          "url": "https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs"
-        }
-      ],
-      "duration_ms": 221102,
-      "name": "Crocodile",
-      "url": "https://open.spotify.com/track/2NHroVYQ0DBKxhlZp9hcwS"
-    },
-    {
-      "added_at": "2023-10-13 00:00:00",
-      "album": {
-        "name": "100 to 1 (Saturday Night)",
-        "url": "https://open.spotify.com/album/7bsZQvR4SBPmOEcfm4ijYB"
-      },
-      "artists": [
-        {
-          "name": "Declan Welsh and The Decadent West",
-          "url": "https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5"
-        }
-      ],
-      "duration_ms": 268033,
-      "name": "100 to 1 (Saturday Night)",
-      "url": "https://open.spotify.com/track/35CPbZYoTZgapOKepBUrew"
-    },
-    {
-      "added_at": "2023-10-13 00:00:00",
-      "album": {
-        "name": "Blackoak",
-        "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        }
-      ],
-      "duration_ms": 288613,
-      "name": "Blackoak",
-      "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
-    },
-    {
-      "added_at": "2023-10-13 00:00:00",
-      "album": {
-        "name": "Ordinary Route",
-        "url": "https://open.spotify.com/album/5aiYT9NzuMmmzWq7S60hT8"
-      },
-      "artists": [
-        {
-          "name": "Jimi Somewhere",
-          "url": "https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB"
-        }
-      ],
-      "duration_ms": 224115,
-      "name": "Ordinary Route",
-      "url": "https://open.spotify.com/track/4nMLos7z1CHcJmpqODRyx8"
-    },
-    {
-      "added_at": "2023-10-13 00:00:00",
-      "album": {
-        "name": "MRI",
-        "url": "https://open.spotify.com/album/53aVxQ9unMu8McmLdqqkjU"
-      },
-      "artists": [
-        {
-          "name": "VC Pines",
-          "url": "https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC"
-        }
-      ],
-      "duration_ms": 200763,
-      "name": "Damn Different",
-      "url": "https://open.spotify.com/track/1EoLHDaJ5L4TWHpHloVqKq"
-    },
-    {
-      "added_at": "2023-10-13 00:00:00",
-      "album": {
-        "name": "Stoned & Supremely Confident",
-        "url": "https://open.spotify.com/album/5hC7UUpENCghmAkbwUdFHa"
-      },
-      "artists": [
-        {
-          "name": "Childe",
-          "url": "https://open.spotify.com/artist/4KCn6A86ivcp0kJcOOi2sq"
-        }
-      ],
-      "duration_ms": 202643,
-      "name": "Smoke & Mirrors",
-      "url": "https://open.spotify.com/track/0x9mnNWiisEuJjVX37tQJl"
     }
   ],
   "unique_name": "The Other List",

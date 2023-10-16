@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk?si=gnYOdOZxT_-mL-QVsbRxKQ\">Red</a> ",
-  "num_followers": 137719,
+  "num_followers": 137795,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjVhMWZlYTU0M2FkN2M2ZjU1YzIxOTg5NGNjZmIzZDdiZjQzZWUy",
+  "snapshot_id": "MCw0YmE1ZmI1ZWM0YmNmMTUxYWEzYzRhM2E2YzdjYjZkODI5NDc5ZTg5",
   "tracks": [
     {
       "added_at": "2023-08-04 12:11:34",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/0oCKybhWiSlHxy9V2YQlvk"
-      },
-      "artists": [
-        {
-          "name": "The Protest",
-          "url": "https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "What Else You Got?",
-      "url": "https://open.spotify.com/track/2d1feQVlJUOJBMhbxltBRO"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "A Mirror Dimly",
         "url": "https://open.spotify.com/album/7sjiHBjRbYS3z4K9EuqKAH"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 338333,
       "name": "Day by Day",
       "url": "https://open.spotify.com/track/7sYruoMImFwS3nvDVK0XGb"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/0oCKybhWiSlHxy9V2YQlvk"
+      },
+      "artists": [
+        {
+          "name": "The Protest",
+          "url": "https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "What Else You Got?",
+      "url": "https://open.spotify.com/track/2d1feQVlJUOJBMhbxltBRO"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "No Fear In Love",
+        "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
+      },
+      "artists": [
+        {
+          "name": "WorshipMob",
+          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
+        },
+        {
+          "name": "White Flag",
+          "url": "https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg"
+        }
+      ],
+      "duration_ms": 515318,
+      "name": "No Fear In Love",
+      "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "Acoustic - EP",
         "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
       },
@@ -1219,22 +1239,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "No Fear In Love",
-        "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
+        "name": "Real Emotion",
+        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
       },
       "artists": [
         {
-          "name": "WorshipMob",
-          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
-        },
-        {
-          "name": "White Flag",
-          "url": "https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg"
+          "name": "Paper Route",
+          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
         }
       ],
-      "duration_ms": 515318,
-      "name": "No Fear In Love",
-      "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
+      "duration_ms": 254866,
+      "name": "Balconies",
+      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Real Emotion",
-        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
-      },
-      "artists": [
-        {
-          "name": "Paper Route",
-          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
-        }
-      ],
-      "duration_ms": 254866,
-      "name": "Balconies",
-      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Honor & Glory",
         "url": "https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Songs for the Late Night Drive Home",
-        "url": "https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl"
-      },
-      "artists": [
-        {
-          "name": "Anchor & Braille",
-          "url": "https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Lower East Side",
-      "url": "https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "The Final Battle",
         "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 233686,
       "name": "Ashes to Ashes",
       "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Songs for the Late Night Drive Home",
+        "url": "https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl"
+      },
+      "artists": [
+        {
+          "name": "Anchor & Braille",
+          "url": "https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Lower East Side",
+      "url": "https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "Blood of the Son",
+        "url": "https://open.spotify.com/album/4Frfc6QdL7kZtfTh19WJHt"
+      },
+      "artists": [
+        {
+          "name": "Brother Hamm",
+          "url": "https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "Blood of the Son",
+      "url": "https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "Strong Enough to Live",
         "url": "https://open.spotify.com/album/5iaVtM0KucT2XDISJjmRTP"
       },
@@ -1599,34 +1615,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Blood of the Son",
-        "url": "https://open.spotify.com/album/4Frfc6QdL7kZtfTh19WJHt"
+        "name": "The Antihero",
+        "url": "https://open.spotify.com/album/0EANG8Al2ITe4WUKdA76aW"
       },
       "artists": [
         {
-          "name": "Brother Hamm",
-          "url": "https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd"
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
         }
       ],
-      "duration_ms": 340000,
-      "name": "Blood of the Son",
-      "url": "https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Blood On Me",
-        "url": "https://open.spotify.com/album/7rSuzamwwlO5KhyV7ceI3V"
-      },
-      "artists": [
-        {
-          "name": "Kid Created Playa",
-          "url": "https://open.spotify.com/artist/2CpAiDocx8gIbL9MQG2XIv"
-        }
-      ],
-      "duration_ms": 203702,
-      "name": "Blood On Me",
-      "url": "https://open.spotify.com/track/5qXDPLvzc5SQeOlZDqMyS1"
+      "duration_ms": 248392,
+      "name": "The Antihero",
+      "url": "https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "The Antihero",
-        "url": "https://open.spotify.com/album/0EANG8Al2ITe4WUKdA76aW"
+        "name": "Blood On Me",
+        "url": "https://open.spotify.com/album/7rSuzamwwlO5KhyV7ceI3V"
       },
       "artists": [
         {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+          "name": "Kid Created Playa",
+          "url": "https://open.spotify.com/artist/2CpAiDocx8gIbL9MQG2XIv"
         }
       ],
-      "duration_ms": 248392,
-      "name": "The Antihero",
-      "url": "https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw"
+      "duration_ms": 203702,
+      "name": "Blood On Me",
+      "url": "https://open.spotify.com/track/5qXDPLvzc5SQeOlZDqMyS1"
     }
   ],
   "unique_name": "Top Christian Rock",

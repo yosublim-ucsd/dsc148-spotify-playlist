@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 31053,
+  "num_followers": 31121,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmM1M2U3YTNjZWZjMGVkNjI5NjA3ZTlkZGFhYzg3YmI2ZWM1MmQ2",
+  "snapshot_id": "MCxmZTVkNTJiZWRiMGQyYzcyYmUxMDk2YThjZDY2ZTMzYzg5MjRmZWRm",
   "tracks": [
     {
       "added_at": "2023-10-05 23:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "Dafrotone",
-        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
-      },
-      "artists": [
-        {
-          "name": "Dafro",
-          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
-        }
-      ],
-      "duration_ms": 453453,
-      "name": "Four Lessons",
-      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
         "name": "See the Light",
         "url": "https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
+        "name": "Dafrotone",
+        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
+      },
+      "artists": [
+        {
+          "name": "Dafro",
+          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
+        }
+      ],
+      "duration_ms": 453453,
+      "name": "Four Lessons",
+      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
         "name": "Artform",
         "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
       },
@@ -655,58 +655,6 @@
       "duration_ms": 459731,
       "name": "Flute Activation - Original Mix",
       "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
-        "name": "We Gonna Fight For Music",
-        "url": "https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb"
-      },
-      "artists": [
-        {
-          "name": "Echo Deep",
-          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
-        }
-      ],
-      "duration_ms": 521744,
-      "name": "We Gonna Fight For Music",
-      "url": "https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
-        "name": "I Rise Again",
-        "url": "https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg"
-      },
-      "artists": [
-        {
-          "name": "Zico SA",
-          "url": "https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc"
-        }
-      ],
-      "duration_ms": 556673,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
-        "name": "Seeking",
-        "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
-      },
-      "artists": [
-        {
-          "name": "Buder Prince",
-          "url": "https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a"
-        },
-        {
-          "name": "Ruthes Ma",
-          "url": "https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c"
-        }
-      ],
-      "duration_ms": 397355,
-      "name": "Seeking",
-      "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
     },
     {
       "added_at": "2023-10-05 23:00:00",
@@ -727,6 +675,58 @@
       "duration_ms": 463348,
       "name": "Confident (feat. Kali Mija)",
       "url": "https://open.spotify.com/track/18TurB98aOL6s0bhPlI2uH"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "I Rise Again",
+        "url": "https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg"
+      },
+      "artists": [
+        {
+          "name": "Zico SA",
+          "url": "https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc"
+        }
+      ],
+      "duration_ms": 556673,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "We Gonna Fight For Music",
+        "url": "https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb"
+      },
+      "artists": [
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "duration_ms": 521744,
+      "name": "We Gonna Fight For Music",
+      "url": "https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "Seeking",
+        "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
+      },
+      "artists": [
+        {
+          "name": "Buder Prince",
+          "url": "https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a"
+        },
+        {
+          "name": "Ruthes Ma",
+          "url": "https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c"
+        }
+      ],
+      "duration_ms": 397355,
+      "name": "Seeking",
+      "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
     },
     {
       "added_at": "2023-10-05 23:00:00",

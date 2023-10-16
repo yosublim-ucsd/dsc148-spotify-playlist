@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/raycondones/">BruceDropEmOff</a>
 
-47 songs - 2 hr 11 min
+48 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Kids](https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg) | 4:29 | 2023-10-06 |  |
 | [Location](https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:48 | 2023-10-06 |  |
 | [Lost Hope](https://open.spotify.com/track/6ySRI3aCPLKlUbqciKoTRO) | [Lil Candy Paint](https://open.spotify.com/artist/7eKI9e9Oa1muxmRwoY40kv) | [Kage](https://open.spotify.com/album/6iPAFDN66hqKZSnpanBXZL) | 2:33 | 2023-10-06 |  |
-| [Lost My Top Agian](https://open.spotify.com/track/3ZZaOADhQPhrEohJzJyM2e) | [220LilBirdie](https://open.spotify.com/artist/1A2VPGGdQNvudPnKA2TE5n), [220trill](https://open.spotify.com/artist/5DxsW940AUW3pdO4qcZjNm) | [Da Biggest Bird](https://open.spotify.com/album/5AvfvAXwV5wIKXlDI2zBot) | 2:28 | 2023-10-06 |  |
+| [Lost My Top Agian](https://open.spotify.com/track/3ZZaOADhQPhrEohJzJyM2e) | [220LilBirdie](https://open.spotify.com/artist/1A2VPGGdQNvudPnKA2TE5n), [220trill](https://open.spotify.com/artist/5DxsW940AUW3pdO4qcZjNm) | [Da Biggest Bird](https://open.spotify.com/album/5AvfvAXwV5wIKXlDI2zBot) | 2:28 | 2023-10-06 | 2023-10-16 |
+| [Lost My Top Agian](https://open.spotify.com/track/7uUrzPeIG46jwl2PtC3TN1) | [220LilBirdie](https://open.spotify.com/artist/1A2VPGGdQNvudPnKA2TE5n), [220trill](https://open.spotify.com/artist/0mifaXYzuK8Tn2xQpfV2B0) | [Da Biggest Bird](https://open.spotify.com/album/0E65DwrfHQkYdeVTSx0WWH) | 2:28 | 2023-10-06 |  |
 | [Love, of Money](https://open.spotify.com/track/2XILilAwcXHdGwZLNHteue) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Let the Sun Talk](https://open.spotify.com/album/1RU8i9ISNQ52Vs8msq30C1) | 1:04 | 2023-10-06 |  |
 | [LVL](https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:40 | 2023-10-06 |  |
 | [Man Of The Year](https://open.spotify.com/track/7bcZQ224Zefg9tpUGhcsam) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Promise I Will Never Stop Going In \(Deluxe Edition\)](https://open.spotify.com/album/0HyIWjrQZkUbvqLiV6PIDz) | 3:58 | 2023-10-06 |  |

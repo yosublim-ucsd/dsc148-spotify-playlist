@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 448500,
+  "num_followers": 448620,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmMyYjE3YmFlMzg4ZDBlOWQyYzkxNTk2NDU5Zjc0NjZiZGIzNTFl",
+  "snapshot_id": "MCw5Mjk4YjI2MDRiOWNjYzk3OTg5ZWVkNDg0M2Q1NTAxMGRiOGJhMDYw",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Arrow",
+        "url": "https://open.spotify.com/album/1mupITVP9mYqKBHjWWDN1W"
+      },
+      "artists": [
+        {
+          "name": "Heartless Bastards",
+          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
+        }
+      ],
+      "duration_ms": 308066,
+      "name": "Only for You",
+      "url": "https://open.spotify.com/track/4KwvTXx3yR0FA4LGfxD4xP"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "It Won't Always Be Like This",
         "url": "https://open.spotify.com/album/5TCW5XPhG21i4XXfcYJVDg"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 313800,
       "name": "Bloodstream",
       "url": "https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Arrow",
-        "url": "https://open.spotify.com/album/1mupITVP9mYqKBHjWWDN1W"
-      },
-      "artists": [
-        {
-          "name": "Heartless Bastards",
-          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
-        }
-      ],
-      "duration_ms": 308066,
-      "name": "Only for You",
-      "url": "https://open.spotify.com/track/4KwvTXx3yR0FA4LGfxD4xP"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Indigo Puff",
-        "url": "https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w"
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
       "artists": [
         {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 231721,
-      "name": "Indigo Puff",
-      "url": "https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf"
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+        "name": "Indigo Puff",
+        "url": "https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
         }
       ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+      "duration_ms": 231721,
+      "name": "Indigo Puff",
+      "url": "https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Show Me How",
-        "url": "https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 293960,
-      "name": "Show Me How",
-      "url": "https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 354360,
       "name": "Lazy Eye",
       "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 293960,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Hello Sunshine",
-        "url": "https://open.spotify.com/album/5R3R5lGNcVmNXdDFljZzud"
-      },
-      "artists": [
-        {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
-        }
-      ],
-      "duration_ms": 225038,
-      "name": "Your Touch",
-      "url": "https://open.spotify.com/track/5dS9u36myZ35YBrhgqAIle"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 270053,
       "name": "The World Ender",
       "url": "https://open.spotify.com/track/3NNimGud58iHka1LHkda6D"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Hello Sunshine",
+        "url": "https://open.spotify.com/album/5R3R5lGNcVmNXdDFljZzud"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "duration_ms": 225038,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/5dS9u36myZ35YBrhgqAIle"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "West Coast",
-        "url": "https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 251872,
-      "name": "West Coast",
-      "url": "https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "The Days We Had",
         "url": "https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 245386,
       "name": "Something Here",
       "url": "https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "West Coast",
+        "url": "https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 251872,
+      "name": "West Coast",
+      "url": "https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1581,22 +1581,6 @@
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc"
-      },
-      "artists": [
-        {
-          "name": "The Brinks",
-          "url": "https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz"
-        }
-      ],
-      "duration_ms": 205129,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"
-    },
-    {
       "added_at": "2023-06-29 18:09:48",
       "album": {
         "name": "Set Yourself Free",
@@ -1611,6 +1595,22 @@
       "duration_ms": 185740,
       "name": "Set Yourself Free",
       "url": "https://open.spotify.com/track/4w7XRsCWPzXiC7HZUEVLFl"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc"
+      },
+      "artists": [
+        {
+          "name": "The Brinks",
+          "url": "https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz"
+        }
+      ],
+      "duration_ms": 205129,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Stay Out Of It",
-        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 185317,
-      "name": "Stay Out Of It",
-      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Back In My Head Again",
         "url": "https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 174539,
       "name": "Back In My Head Again",
       "url": "https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Stay Out Of It",
+        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 185317,
+      "name": "Stay Out Of It",
+      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Talking in Circles",
-        "url": "https://open.spotify.com/album/78JA1aRMAnFMj6AyBnp7Kx"
-      },
-      "artists": [
-        {
-          "name": "Mosa Wild",
-          "url": "https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc"
-        }
-      ],
-      "duration_ms": 227121,
-      "name": "Smoke",
-      "url": "https://open.spotify.com/track/6rTZiRHLPidlAirSd4yNd8"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Can You Feel The Sun",
         "url": "https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 286342,
       "name": "Can You Feel The Sun",
       "url": "https://open.spotify.com/track/2DZqu0ju4GPs4nJXm1XrQ1"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Talking in Circles",
+        "url": "https://open.spotify.com/album/78JA1aRMAnFMj6AyBnp7Kx"
+      },
+      "artists": [
+        {
+          "name": "Mosa Wild",
+          "url": "https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc"
+        }
+      ],
+      "duration_ms": 227121,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/6rTZiRHLPidlAirSd4yNd8"
     },
     {
       "added_at": "2023-05-26 04:00:00",

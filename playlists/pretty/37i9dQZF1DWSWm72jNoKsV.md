@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWm72jNoKsV.md) - [plain]
 
 > Defy the odds\. Listen to music from and inspired by Heart of Stone, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,823 likes - 30 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,836 likes - 30 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWm72jNoKsV.md) - [plain]
 | 29 | [Its Good To Hear From You](https://open.spotify.com/track/4pLhgJk6us8IZOZ1RChPuK) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Heart of Stone \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5) | 3:49 |
 | 30 | [The Heart and The Charter](https://open.spotify.com/track/4Zt7PN3eIa1xS9JMyPRQEf) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Heart of Stone \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5) | 4:34 |
 
-Snapshot ID: `MCw0ZmY2YzQ3MGEyOTA5MzViMmMyZGVhZmNkY2Y0MzAyMWY2MTEwY2E2`
+Snapshot ID: `MCxmNGM1MzM5ODA3YmI4ZjM5YWM1NDNjMGI2MzFkZTZiMTQ3ZTQxMjYz`

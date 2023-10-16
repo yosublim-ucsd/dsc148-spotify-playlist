@@ -646,10 +646,36 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 194506,
       "name": "Hatuna Kesi",
       "url": "https://open.spotify.com/track/1eTNIIvyLFSuMB6kIlPhEE"
+    },
+    {
+      "album": {
+        "name": "Hatuna Kesi",
+        "url": "https://open.spotify.com/album/7wC7ZrdSNo34fSvgitb4o5"
+      },
+      "artists": [
+        {
+          "name": "Msodoki Young Killer",
+          "url": "https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn"
+        },
+        {
+          "name": "Fid Q",
+          "url": "https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK"
+        },
+        {
+          "name": "BELLE 9",
+          "url": "https://open.spotify.com/artist/2QFZXITfzIsjCiKBLdzESZ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197406,
+      "name": "Hatuna Kesi",
+      "url": "https://open.spotify.com/track/7hhMqQaGTmiQgS5a8HIPvw"
     },
     {
       "album": {

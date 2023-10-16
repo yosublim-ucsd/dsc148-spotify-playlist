@@ -4,7 +4,7 @@
 
 > The biggest festival songs of 2023\. emotional festival music \- mainstage music \- edm 2023 \- edm hits \- progressive house \- bigroom \- future rave \- techno \- festival music
 
-228 songs - 11 hr 47 min
+229 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Right Here](https://open.spotify.com/track/5ic27VIYvnEnHgBuXWLa9a) | [Fablers](https://open.spotify.com/artist/54XePvvWvcqPr7Jj95qOWX), [Joysic](https://open.spotify.com/artist/3FW1fcyuFVakqhaKw1HC5h), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Baiden Holland](https://open.spotify.com/artist/0nTCgWKkvxKVqpldaLIolY) | [Right Here](https://open.spotify.com/album/7rFA256wJK0iwTumwqj8fB) | 3:08 | 2022-07-29 | 2023-05-13 |
 | [Rising Tides](https://open.spotify.com/track/5YNEMf0CmbpC2019m5QEWT) | [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ), [G.U.O.L.](https://open.spotify.com/artist/2wZaQyJOZ7y68O1cayCN16), [Protocol Lab](https://open.spotify.com/artist/06JAfjaLQglgC2iiRBSkKr) | [Rising Tides](https://open.spotify.com/album/0da1kIqfftXGGKmkZ47eUA) | 3:16 | 2023-06-13 | 2023-09-23 |
 | [River](https://open.spotify.com/track/7xLEInPjy6oUic0jKhf8ZZ) | [ATSY x Taner](https://open.spotify.com/artist/5AaJLPsvIhcIx2ZlgGTlvB), [Burnhaze](https://open.spotify.com/artist/4KDjEzDZjkIOcXre0EQo9J), [Amin Salmee](https://open.spotify.com/artist/4cddDQHcyoPKIqJhJCVETy) | [River](https://open.spotify.com/album/2FWb2rv6WfzJZAQdqshbqK) | 3:35 | 2023-04-13 |  |
+| [Roll Back](https://open.spotify.com/track/2GFiXviurRB2qugGsD3bkE) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [MICK](https://open.spotify.com/album/39yBBtZhxsANTHRZtFpMUe) | 2:37 | 2023-10-15 |  |
 | [ROOTS](https://open.spotify.com/track/3zPDsxPKmSGPh5OrdDHVuX) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [ROOTS](https://open.spotify.com/album/0tJtaoY8U81yyKCbXDean8) | 2:58 | 2023-07-27 |  |
 | [Rule The World](https://open.spotify.com/track/4jxnUzqf0ZhUtPwOEbOid5) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Mbush](https://open.spotify.com/artist/6oi7xPIPaIqg9yChAS52Bf), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Rule The World](https://open.spotify.com/album/5uCnzjU8tNml4kqucjJk59) | 2:26 | 2023-07-13 |  |
 | [Run \- Robin Aristo Remix](https://open.spotify.com/track/0pWHRz5OB9SpW2A0PZJbq8) | [Futuristic Polar Bears](https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7), [DANÊL](https://open.spotify.com/artist/26MIVWfxQSZ80SjQBbwJ6o), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t), [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Run \(Robin Aristo Remix\)](https://open.spotify.com/album/55Ov61Tv5oMcQ3EhLUIsR4) | 3:11 | 2023-08-25 | 2023-10-14 |

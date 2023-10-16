@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 268033,
       "name": "100 to 1 (Saturday Night)",
       "url": "https://open.spotify.com/track/35CPbZYoTZgapOKepBUrew"
@@ -3648,7 +3648,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 288613,
       "name": "Blackoak",
       "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
@@ -6342,7 +6342,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 221102,
       "name": "Crocodile",
       "url": "https://open.spotify.com/track/2NHroVYQ0DBKxhlZp9hcwS"
@@ -6796,7 +6796,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 200763,
       "name": "Damn Different",
       "url": "https://open.spotify.com/track/1EoLHDaJ5L4TWHpHloVqKq"
@@ -7847,6 +7847,24 @@
     },
     {
       "album": {
+        "name": "I Get Into Trouble",
+        "url": "https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248759,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/2tO1RrlOXyZAMqB0wDybXf"
+    },
+    {
+      "album": {
         "name": "Do You Want It All?",
         "url": "https://open.spotify.com/album/7FO5BmKZbsB0T25JudO5UC"
       },
@@ -8584,6 +8602,24 @@
       "duration_ms": 114964,
       "name": "Drunk & Loud",
       "url": "https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ"
+    },
+    {
+      "album": {
+        "name": "drywall",
+        "url": "https://open.spotify.com/album/2cbcM8spLBGvSIxsiOwIkz"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222739,
+      "name": "drywall",
+      "url": "https://open.spotify.com/track/49XjLtTAwwhC8tupC8E8wp"
     },
     {
       "album": {
@@ -14057,6 +14093,28 @@
     },
     {
       "album": {
+        "name": "I Might be Fake",
+        "url": "https://open.spotify.com/album/6lg88hmM7QAFDWvaW47TZ6"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        },
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168805,
+      "name": "I Might be Fake",
+      "url": "https://open.spotify.com/track/7DTpqH64fSXDA3CuFxMAKE"
+    },
+    {
+      "album": {
         "name": "I Miss That",
         "url": "https://open.spotify.com/album/4MuCtbcpIOpHNGiD8Vd23o"
       },
@@ -16898,10 +16956,28 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 172042,
       "name": "Listen To The Sky",
       "url": "https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT"
+    },
+    {
+      "album": {
+        "name": "Sample The Sky",
+        "url": "https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172042,
+      "name": "Listen To The Sky",
+      "url": "https://open.spotify.com/track/5Hp5ffZ2NOFuJCGuJ04psW"
     },
     {
       "album": {
@@ -19425,6 +19501,24 @@
     },
     {
       "album": {
+        "name": "My Lady Of Mercy",
+        "url": "https://open.spotify.com/album/2W3JTxVFYQ9m4xd5sYKCC0"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175410,
+      "name": "My Lady of Mercy",
+      "url": "https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV"
+    },
+    {
+      "album": {
         "name": "my little tony",
         "url": "https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX"
       },
@@ -19476,6 +19570,28 @@
       "duration_ms": 226505,
       "name": "My Lover Is Sleeping",
       "url": "https://open.spotify.com/track/0Y6DKikmdIIpDBUhUuxa8R"
+    },
+    {
+      "album": {
+        "name": "My Simple Jeep (feat. Mac DeMarco)",
+        "url": "https://open.spotify.com/album/3RiKNDu7x3qjRM4mhyBQc0"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179810,
+      "name": "My Simple Jeep (feat. Mac DeMarco)",
+      "url": "https://open.spotify.com/track/0ZpC3Exz0loDQahf1jPErB"
     },
     {
       "album": {
@@ -21256,7 +21372,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 224115,
       "name": "Ordinary Route",
       "url": "https://open.spotify.com/track/4nMLos7z1CHcJmpqODRyx8"
@@ -25964,7 +26080,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 202643,
       "name": "Smoke & Mirrors",
       "url": "https://open.spotify.com/track/0x9mnNWiisEuJjVX37tQJl"
@@ -31852,6 +31968,24 @@
       "duration_ms": 278232,
       "name": "Vista",
       "url": "https://open.spotify.com/track/1RerULp9QIsCQbusc4Bl4U"
+    },
+    {
+      "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/6JjR6OdfIJO58djrmYya2K"
+      },
+      "artists": [
+        {
+          "name": "Korby",
+          "url": "https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152168,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6cMHlSJWkEClZS9kyhfzuz"
     },
     {
       "album": {

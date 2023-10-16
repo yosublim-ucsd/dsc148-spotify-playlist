@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional tem boom bap na área\. Foto: Rapadura
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,104 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,130 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Sobre mim](https://open.spotify.com/track/4qaOtwB4LjQv2U3UAJN5a1) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Sobre mim](https://open.spotify.com/album/6JTFaHvi9gXwJchaSRP9BK) | 3:28 |
 | 75 | [Carta pra Lucas](https://open.spotify.com/track/0FiYM9wfGccAJn8z4S5hxB) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 3:01 |
 
-Snapshot ID: `MCxhMzg3YjVhM2UzM2E4MzU0NGUwYTRiNGM3YTg1OGNlZWQ3MzU0M2Q4`
+Snapshot ID: `MCxmNzNlNmE1NzY1ZjNmYWJlNTRlNThjNGJmMTdjY2UxNDEwYzk1N2Y0`

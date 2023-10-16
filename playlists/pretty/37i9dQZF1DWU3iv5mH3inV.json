@@ -1,12 +1,12 @@
 {
   "description": "Dembow dominicano to el d\u00eda. Foto: Tokischa",
-  "num_followers": 95390,
+  "num_followers": 95455,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODRmM2Q0YmJiYzMzMjg2ZjcyMWY0NzI4ZmFiZGY0MTgxNzk0MmNj",
+  "snapshot_id": "MCwwMzc5NzY4MjkxMjVhZTE5NWIxN2JkZTQ0OTU0M2I1MDA1ODA1NmZj",
   "tracks": [
     {
       "added_at": "2023-08-24 22:54:26",
@@ -939,6 +939,30 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
+        "name": "Sesi",
+        "url": "https://open.spotify.com/album/07vEYx7A3N8V8glLUqdbmM"
+      },
+      "artists": [
+        {
+          "name": "El Futuro Fuera De Orbita",
+          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
+        },
+        {
+          "name": "Jey Brown",
+          "url": "https://open.spotify.com/artist/7JHNWvS2I2vlj7wVbDRR1N"
+        },
+        {
+          "name": "La Kikada",
+          "url": "https://open.spotify.com/artist/7Fpb4yEAPfiQfY0Bx0uLm5"
+        }
+      ],
+      "duration_ms": 174802,
+      "name": "Sesi",
+      "url": "https://open.spotify.com/track/2mMAt6028RFl2ujQUPZXon"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
         "name": "Limonada Coco (Remix)",
         "url": "https://open.spotify.com/album/3liRtVXbGcDBNHoCwAS7i5"
       },
@@ -979,30 +1003,6 @@
       "duration_ms": 196746,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/1CFICGHfnZH6tXVKIYtYJp"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "Sesi",
-        "url": "https://open.spotify.com/album/07vEYx7A3N8V8glLUqdbmM"
-      },
-      "artists": [
-        {
-          "name": "El Futuro Fuera De Orbita",
-          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
-        },
-        {
-          "name": "Jey Brown",
-          "url": "https://open.spotify.com/artist/7JHNWvS2I2vlj7wVbDRR1N"
-        },
-        {
-          "name": "La Kikada",
-          "url": "https://open.spotify.com/artist/7Fpb4yEAPfiQfY0Bx0uLm5"
-        }
-      ],
-      "duration_ms": 174802,
-      "name": "Sesi",
-      "url": "https://open.spotify.com/track/2mMAt6028RFl2ujQUPZXon"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -1115,6 +1115,30 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
+        "name": "Bum Bam Ven (Remix)",
+        "url": "https://open.spotify.com/album/4LTrtFWbK563S7QVD9Zxz9"
+      },
+      "artists": [
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        },
+        {
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
+        },
+        {
+          "name": "Secreto \"El Famoso Biberon\"",
+          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Bum Bam Ven - Remix",
+      "url": "https://open.spotify.com/track/7u3QrlRfJChzwic9Hoimiq"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
         "name": "Rulay",
         "url": "https://open.spotify.com/album/2JXJ6OFAbYksVKJo5kTkpc"
       },
@@ -1155,30 +1179,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Bum Bam Ven (Remix)",
-        "url": "https://open.spotify.com/album/4LTrtFWbK563S7QVD9Zxz9"
-      },
-      "artists": [
-        {
-          "name": "Musicologo The Libro",
-          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
-        },
-        {
-          "name": "Lapiz Conciente",
-          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
-        },
-        {
-          "name": "Secreto \"El Famoso Biberon\"",
-          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Bum Bam Ven - Remix",
-      "url": "https://open.spotify.com/track/7u3QrlRfJChzwic9Hoimiq"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "Dembow 2014 - 14 Original Urban Hits!",
         "url": "https://open.spotify.com/album/2wQgEZf2kLZFjLOqI9EV64"
       },
@@ -1191,30 +1191,6 @@
       "duration_ms": 205080,
       "name": "Siente El Ki",
       "url": "https://open.spotify.com/track/4Y4TzQhODQmsTRA3NTuFlV"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "El Kun Kun",
-        "url": "https://open.spotify.com/album/20w0Oi13axY5skXpwhtuVZ"
-      },
-      "artists": [
-        {
-          "name": "Mr Black El Presidente",
-          "url": "https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "Darmiko",
-          "url": "https://open.spotify.com/artist/6AeznZajNbXUulT7W4tK5l"
-        }
-      ],
-      "duration_ms": 181117,
-      "name": "El Kun Kun",
-      "url": "https://open.spotify.com/track/6qVgUhyZcP3SqEC44DpMB8"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -1259,6 +1235,30 @@
       "duration_ms": 172878,
       "name": "Brum Brum",
       "url": "https://open.spotify.com/track/62utJ0vVOX6X7EFJ8XsmA1"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "El Kun Kun",
+        "url": "https://open.spotify.com/album/20w0Oi13axY5skXpwhtuVZ"
+      },
+      "artists": [
+        {
+          "name": "Mr Black El Presidente",
+          "url": "https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Darmiko",
+          "url": "https://open.spotify.com/artist/6AeznZajNbXUulT7W4tK5l"
+        }
+      ],
+      "duration_ms": 181117,
+      "name": "El Kun Kun",
+      "url": "https://open.spotify.com/track/6qVgUhyZcP3SqEC44DpMB8"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -1645,20 +1645,20 @@
       "url": "https://open.spotify.com/track/1kzs05g4L7sADL1JCBVH1s"
     },
     {
-      "added_at": "2023-05-26 20:55:47",
+      "added_at": "2023-09-29 02:10:03",
       "album": {
-        "name": "Silicon",
-        "url": "https://open.spotify.com/album/7BANEK4CH67RhkmjmpZlAO"
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/4HBPblhebCHCAdy8RVtXdR"
       },
       "artists": [
         {
-          "name": "Kaly Ocho",
-          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
+          "name": "Papaa Tyga",
+          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
         }
       ],
-      "duration_ms": 161000,
-      "name": "Silicon",
-      "url": "https://open.spotify.com/track/77tueUB7hmKpszzIaxhyft"
+      "duration_ms": 150936,
+      "name": "Rumores",
+      "url": "https://open.spotify.com/track/6PwxrTI4T0xsrv7I2y5Ngg"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -1687,6 +1687,22 @@
       "duration_ms": 234075,
       "name": "MANDA LA UBI",
       "url": "https://open.spotify.com/track/2S87nHmmhCD3qsKLwcCU74"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Silicon",
+        "url": "https://open.spotify.com/album/7BANEK4CH67RhkmjmpZlAO"
+      },
+      "artists": [
+        {
+          "name": "Kaly Ocho",
+          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Silicon",
+      "url": "https://open.spotify.com/track/77tueUB7hmKpszzIaxhyft"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -1789,38 +1805,6 @@
       "url": "https://open.spotify.com/track/4eR7dkrKdylRUjofJxiknZ"
     },
     {
-      "added_at": "2023-09-29 02:10:03",
-      "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/4HBPblhebCHCAdy8RVtXdR"
-      },
-      "artists": [
-        {
-          "name": "Papaa Tyga",
-          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
-        }
-      ],
-      "duration_ms": 150936,
-      "name": "Rumores",
-      "url": "https://open.spotify.com/track/6PwxrTI4T0xsrv7I2y5Ngg"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "Me Subo Arriba",
-        "url": "https://open.spotify.com/album/2xUAOCkgUjzbLF98XTC2lT"
-      },
-      "artists": [
-        {
-          "name": "La Insuperable",
-          "url": "https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu"
-        }
-      ],
-      "duration_ms": 208147,
-      "name": "Me Subo Arriba",
-      "url": "https://open.spotify.com/track/0rmJCeOoTH673NPxw4CiqM"
-    },
-    {
       "added_at": "2023-05-26 20:55:47",
       "album": {
         "name": "Tu Cojea (Remix)",
@@ -1855,6 +1839,22 @@
       "duration_ms": 244916,
       "name": "Tu Cojea - Remix",
       "url": "https://open.spotify.com/track/7i5yhydTMHfFyU9UiEzDOX"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Me Subo Arriba",
+        "url": "https://open.spotify.com/album/2xUAOCkgUjzbLF98XTC2lT"
+      },
+      "artists": [
+        {
+          "name": "La Insuperable",
+          "url": "https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu"
+        }
+      ],
+      "duration_ms": 208147,
+      "name": "Me Subo Arriba",
+      "url": "https://open.spotify.com/track/0rmJCeOoTH673NPxw4CiqM"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2355,6 +2355,26 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
+        "name": "Como Lo Capo",
+        "url": "https://open.spotify.com/album/5IV31eVYSJvzwbqFryT05B"
+      },
+      "artists": [
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        },
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        }
+      ],
+      "duration_ms": 289201,
+      "name": "Como Lo Capo",
+      "url": "https://open.spotify.com/track/7f3QVHV8UEwbL2duHAcDGo"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
         "name": "Eso Es Mental",
         "url": "https://open.spotify.com/album/2UqAGEkeshUDADfxlDMApg"
       },
@@ -2379,26 +2399,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Como Lo Capo",
-        "url": "https://open.spotify.com/album/5IV31eVYSJvzwbqFryT05B"
-      },
-      "artists": [
-        {
-          "name": "Messiah",
-          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
-        },
-        {
-          "name": "El Mayor Clasico",
-          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
-        }
-      ],
-      "duration_ms": 289201,
-      "name": "Como Lo Capo",
-      "url": "https://open.spotify.com/track/7f3QVHV8UEwbL2duHAcDGo"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "Esa Malondra",
         "url": "https://open.spotify.com/album/2JKNjEpPqoN9MQE2S5mqsY"
       },
@@ -2411,6 +2411,26 @@
       "duration_ms": 157571,
       "name": "Esa Malondra",
       "url": "https://open.spotify.com/track/6uiMQLU94ZPLF7gKKXnOQ6"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "La Risa Mas Sicaria the Mix Tape",
+        "url": "https://open.spotify.com/album/4og3Hp2KDzeYdsthLQ0mM0"
+      },
+      "artists": [
+        {
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+        },
+        {
+          "name": "Los Pepe",
+          "url": "https://open.spotify.com/artist/02IeeHmp855833vM1eHQw8"
+        }
+      ],
+      "duration_ms": 159043,
+      "name": "Cla Cla Cla ( Feat. Los Pepe )",
+      "url": "https://open.spotify.com/track/3s9PhD12XsUszAHHIMNmGH"
     },
     {
       "added_at": "2023-06-12 15:52:11",
@@ -2435,26 +2455,6 @@
       "duration_ms": 145515,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/5B1dn6AfeohMuuHxyoMX72"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "La Risa Mas Sicaria the Mix Tape",
-        "url": "https://open.spotify.com/album/4og3Hp2KDzeYdsthLQ0mM0"
-      },
-      "artists": [
-        {
-          "name": "Dixson Waz",
-          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
-        },
-        {
-          "name": "Los Pepe",
-          "url": "https://open.spotify.com/artist/02IeeHmp855833vM1eHQw8"
-        }
-      ],
-      "duration_ms": 159043,
-      "name": "Cla Cla Cla ( Feat. Los Pepe )",
-      "url": "https://open.spotify.com/track/3s9PhD12XsUszAHHIMNmGH"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2595,6 +2595,22 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
+        "name": "Llevo la Vainita",
+        "url": "https://open.spotify.com/album/77uDtYXYbHgxQWvT7YCKAX"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "duration_ms": 162037,
+      "name": "Llevo la Vainita",
+      "url": "https://open.spotify.com/track/0PtuUiKPpQqEp2W4CasynB"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
         "name": "Kitipo",
         "url": "https://open.spotify.com/album/4UZSYzB1NWuXeSE0gqqv4c"
       },
@@ -2631,22 +2647,6 @@
       "duration_ms": 134237,
       "name": "Yo Quiero",
       "url": "https://open.spotify.com/track/1t4DLSdEpTDy5v8aUMK5jY"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "Llevo la Vainita",
-        "url": "https://open.spotify.com/album/77uDtYXYbHgxQWvT7YCKAX"
-      },
-      "artists": [
-        {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
-        }
-      ],
-      "duration_ms": 162037,
-      "name": "Llevo la Vainita",
-      "url": "https://open.spotify.com/track/0PtuUiKPpQqEp2W4CasynB"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2823,26 +2823,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Dembow Latino",
-        "url": "https://open.spotify.com/album/13pn00h8Ozr8jWvu6QSAl6"
-      },
-      "artists": [
-        {
-          "name": "El Mega",
-          "url": "https://open.spotify.com/artist/5CUH61JagyX1jRxaLHBpSs"
-        },
-        {
-          "name": "El Mayor Clasico",
-          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
-        }
-      ],
-      "duration_ms": 193192,
-      "name": "La Cueva de los Indios - Remix",
-      "url": "https://open.spotify.com/track/77uS85fmMaIjWSZlwFffB2"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "Yo Lo Cojo",
         "url": "https://open.spotify.com/album/5cghx4B50p7CpM3uO3AVF5"
       },
@@ -2859,6 +2839,26 @@
       "duration_ms": 188893,
       "name": "Yo Lo Cojo",
       "url": "https://open.spotify.com/track/15f7OgSGn8g36CHvQSToza"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Dembow Latino",
+        "url": "https://open.spotify.com/album/13pn00h8Ozr8jWvu6QSAl6"
+      },
+      "artists": [
+        {
+          "name": "El Mega",
+          "url": "https://open.spotify.com/artist/5CUH61JagyX1jRxaLHBpSs"
+        },
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        }
+      ],
+      "duration_ms": 193192,
+      "name": "La Cueva de los Indios - Remix",
+      "url": "https://open.spotify.com/track/77uS85fmMaIjWSZlwFffB2"
     },
     {
       "added_at": "2023-05-26 20:55:47",

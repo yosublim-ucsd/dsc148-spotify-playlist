@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-350 songs - 17 hr 3 min
+352 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Daddy \(feat\. Chillz\)](https://open.spotify.com/track/07mR89aGy6C9WzqShR3zfW) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Chillz](https://open.spotify.com/artist/1qtIAJW16IZzYa9qZKlBCw) | [Daddy \(feat\. Chillz\)](https://open.spotify.com/album/6vilHMILLgOYQ6akUYqLPo) | 3:06 | 2022-03-24 | 2022-11-05 |
 | [Danjuma](https://open.spotify.com/track/64X4sdsIErlSmK7PtbqA9u) | [Kwesi Taadi](https://open.spotify.com/artist/5cwOSWuUV5wpdx7FmxRuVw) | [Musah Abonko Ne Nana](https://open.spotify.com/album/1XqsjZN6wEsM9WjSqB7LMt) | 2:34 | 2023-09-09 | 2023-09-22 |
 | [Dawn](https://open.spotify.com/track/5VfOaSfpHD1jbS98dxr7cr) | [John Networq](https://open.spotify.com/artist/5SyIdSMJiUxOaA9HXlHH4E) | [Dawn](https://open.spotify.com/album/2yptlRK8B8OmAe9AnfuBa1) | 2:13 | 2022-09-01 | 2022-09-10 |
-| [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-03-24 |  |
+| [DECLAN RICE](https://open.spotify.com/track/0QdQh3umB7stVOExuHlWvl) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:04 | 2023-10-13 |  |
+| [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-03-24 | 2023-10-16 |
 | [Dejavu](https://open.spotify.com/track/3ZwqPR9wHrcH1yEmm3nBto) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/4yOuw6mqRk6nusJyfT3Kvk) | 2:40 | 2023-06-16 |  |
 | [Dem Deh Try](https://open.spotify.com/track/2DSFcgpJYAHUREdK5fgc9b) | [Paq](https://open.spotify.com/artist/0XYSXxykpPb4xmTjvc2yY4), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Dem Deh Try](https://open.spotify.com/album/16hOVq7kncTdjePoCYbB70) | 2:37 | 2023-05-19 | 2023-06-03 |
 | [Destiny](https://open.spotify.com/track/0p7qv8cZ5g44hPJMcjGOuV) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Destiny](https://open.spotify.com/album/4Iz82Kum1brRGUy8HSbXGp) | 2:40 | 2022-11-25 | 2023-04-15 |
@@ -267,7 +268,8 @@
 | [Penny](https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Penny](https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR) | 3:03 | 2023-05-04 | 2023-06-03 |
 | [Personal](https://open.spotify.com/track/2hRazi6Y5U8NuYK1x1ECk0) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Personal](https://open.spotify.com/album/0K0z0pnqfYiY8jy5FOW4lo) | 2:59 | 2021-12-09 | 2023-04-15 |
 | [Personal](https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Personal](https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx) | 2:23 | 2022-12-18 |  |
-| [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 | 2022-11-25 |  |
+| [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 | 2022-11-25 | 2023-10-16 |
+| [PICANTO \(feat\. Zlatan and ECko Miles\)](https://open.spotify.com/track/08tSNwcNYM9yjuYF9jFvOu) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:04 | 2023-10-13 |  |
 | [Pleasure](https://open.spotify.com/track/6INtRY5ec8tZ0DWkjHurfw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Pleasure](https://open.spotify.com/album/3muAl354ZsR01jO4Gsi22W) | 3:03 | 2022-08-26 | 2022-09-20 |
 | [Poppin'](https://open.spotify.com/track/582GTwikEv86oVKjYvfwcM) | [Django23](https://open.spotify.com/artist/6idAEKryH3ywILH6WYFWZ9), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [Poppin'](https://open.spotify.com/album/16HLb3NFsQ4lZj405mBHyG) | 3:01 | 2022-05-26 | 2022-08-13 |
 | [Pounds & Dollars](https://open.spotify.com/track/43o9i6vgfaTD5LDKlcIpav) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [African Baddie](https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413) | 3:24 | 2022-12-02 | 2023-01-20 |

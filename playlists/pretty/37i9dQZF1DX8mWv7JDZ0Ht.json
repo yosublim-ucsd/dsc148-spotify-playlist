@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Vitor Kley",
-  "num_followers": 432963,
+  "num_followers": 433043,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTBhNjZlZWFmZGQ2ZDA4MDAzYjVjMzNhMTlmYTNkOTJmMzA1YTQ5",
+  "snapshot_id": "MCxlNDA2ZTJmZjNiMzFmZjgxN2ZiMTljYjZjNmVlNjQwN2JkM2M0ZDE0",
   "tracks": [
     {
       "added_at": "2023-10-13 13:37:12",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-13 13:37:12",
       "album": {
-        "name": "Em Voc\u00ea",
-        "url": "https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pond\u00e9",
-          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
-        }
-      ],
-      "duration_ms": 142750,
-      "name": "Em Voc\u00ea",
-      "url": "https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR"
-    },
-    {
-      "added_at": "2023-10-13 13:37:12",
-      "album": {
         "name": "n\u00f3sdois",
         "url": "https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 163815,
       "name": "Juntin",
       "url": "https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ"
+    },
+    {
+      "added_at": "2023-10-13 13:37:12",
+      "album": {
+        "name": "Em Voc\u00ea",
+        "url": "https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pond\u00e9",
+          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
+        }
+      ],
+      "duration_ms": 142750,
+      "name": "Em Voc\u00ea",
+      "url": "https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR"
     },
     {
       "added_at": "2023-10-13 13:37:12",
@@ -1015,6 +1015,42 @@
     {
       "added_at": "2023-10-13 13:37:12",
       "album": {
+        "name": "Voc\u00ea",
+        "url": "https://open.spotify.com/album/1f079JPEkai7mwMyeOUSQg"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Won",
+          "url": "https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r"
+        }
+      ],
+      "duration_ms": 140212,
+      "name": "Voc\u00ea",
+      "url": "https://open.spotify.com/track/5lZCyNdCwLZJYH9myKor7W"
+    },
+    {
+      "added_at": "2023-10-13 13:37:12",
+      "album": {
+        "name": "N\u00e3o Me Chame Mais De Ex",
+        "url": "https://open.spotify.com/album/4DtJfSrX5mpAgr8pvH9VtV"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        },
+        {
+          "name": "Kamilla Maria",
+          "url": "https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c"
+        }
+      ],
+      "duration_ms": 148330,
+      "name": "N\u00e3o Me Chame Mais De Ex",
+      "url": "https://open.spotify.com/track/4z1PRlsNS6oO3EPefmKFzl"
+    },
+    {
+      "added_at": "2023-10-13 13:37:12",
+      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
       },
@@ -1051,18 +1087,18 @@
     {
       "added_at": "2023-10-13 13:37:12",
       "album": {
-        "name": "Voc\u00ea",
-        "url": "https://open.spotify.com/album/1f079JPEkai7mwMyeOUSQg"
+        "name": "Vou Fugir",
+        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
       },
       "artists": [
         {
-          "name": "Gabriel Won",
-          "url": "https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r"
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
         }
       ],
-      "duration_ms": 140212,
-      "name": "Voc\u00ea",
-      "url": "https://open.spotify.com/track/5lZCyNdCwLZJYH9myKor7W"
+      "duration_ms": 166153,
+      "name": "Vou Fugir",
+      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
     },
     {
       "added_at": "2023-10-13 13:37:12",
@@ -1087,54 +1123,18 @@
     {
       "added_at": "2023-10-13 13:37:12",
       "album": {
-        "name": "Vou Fugir",
-        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
+        "name": "Se Me Ver",
+        "url": "https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Vou Fugir",
-      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
-    },
-    {
-      "added_at": "2023-10-13 13:37:12",
-      "album": {
-        "name": "N\u00e3o Me Chame Mais De Ex",
-        "url": "https://open.spotify.com/album/4DtJfSrX5mpAgr8pvH9VtV"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        },
-        {
-          "name": "Kamilla Maria",
-          "url": "https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c"
-        }
-      ],
-      "duration_ms": 148330,
-      "name": "N\u00e3o Me Chame Mais De Ex",
-      "url": "https://open.spotify.com/track/4z1PRlsNS6oO3EPefmKFzl"
-    },
-    {
-      "added_at": "2023-10-13 13:37:12",
-      "album": {
-        "name": "Melodram\u00e1tico",
-        "url": "https://open.spotify.com/album/0uu6hlbdqlBp6dqTQ7TBRw"
-      },
-      "artists": [
-        {
-          "name": "Dody",
-          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Melodram\u00e1tico",
-      "url": "https://open.spotify.com/track/1fn9Ca7f5FdrZ5E6JUVh9s"
+      "duration_ms": 175018,
+      "name": "Se Me Ver",
+      "url": "https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz"
     },
     {
       "added_at": "2023-10-13 13:37:12",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-10-13 13:37:12",
       "album": {
-        "name": "Se Me Ver",
-        "url": "https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T"
+        "name": "Melodram\u00e1tico",
+        "url": "https://open.spotify.com/album/0uu6hlbdqlBp6dqTQ7TBRw"
       },
       "artists": [
         {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+          "name": "Dody",
+          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
         }
       ],
-      "duration_ms": 175018,
-      "name": "Se Me Ver",
-      "url": "https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz"
+      "duration_ms": 146000,
+      "name": "Melodram\u00e1tico",
+      "url": "https://open.spotify.com/track/1fn9Ca7f5FdrZ5E6JUVh9s"
     },
     {
       "added_at": "2023-10-13 13:37:12",

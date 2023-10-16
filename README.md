@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6875\)
+## Playlists \(6876\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2960,6 +2960,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Latin Hits 2004](/playlists/pretty/37i9dQZF1DWYYq2xQ4k84l.md)
 - [Latin Hits 2014](/playlists/pretty/37i9dQZF1DX0fj7irQDPtH.md)
 - [Latin Hits 2015](/playlists/pretty/37i9dQZF1DX1sRMIzOmlb4.md)
+- [Latin Hits 2017](/playlists/pretty/37i9dQZF1DXaslEeaHwWLL.md)
 - [Latin Hits 2018](/playlists/pretty/37i9dQZF1DWX47rExFRJv8.md)
 - [Latin Hits 2019](/playlists/pretty/37i9dQZF1DX2lmWmLAvsb1.md)
 - [Latin Indie Classics](/playlists/pretty/37i9dQZF1DX8RvHJklfhit.md)

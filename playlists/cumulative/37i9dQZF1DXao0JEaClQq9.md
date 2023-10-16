@@ -2,9 +2,9 @@
 
 ### [Ethereal](https://open.spotify.com/playlist/37i9dQZF1DXao0JEaClQq9)
 
-> Modern heavenly sounds\. Cover: Mitski
+> Modern heavenly sounds\. Cover: L'Rain
 
-540 songs - 1 day 9 hr 52 min
+543 songs - 1 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(to me\) your face is love](https://open.spotify.com/track/0rMmfE1Cblk78IC48wxT5i) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [\(to me\) your face is love](https://open.spotify.com/album/3pkXtqn98A5ANVrJSMQunk) | 3:36 | 2021-11-12 | 2022-07-29 |
 | [1st Soundscape](https://open.spotify.com/track/2YMY061QrP62VEA6thqCqm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Wind Down](https://open.spotify.com/album/0SNkVpjU9S4zVxBoytcfON) | 3:44 | 2022-06-03 | 2022-07-24 |
 | [2021](https://open.spotify.com/track/7sy4upvDMtpz0jDCech44W) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [7G](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) | 1:56 | 2021-06-03 | 2022-06-04 |
+| [5 to 8 Hours a Day \(WWwaG\)](https://open.spotify.com/track/0SoEbU9NN28HxNAhkLDuEe) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 4:30 | 2023-10-13 |  |
 | [5.17](https://open.spotify.com/track/7i8wAKUOcb9BWK50mFOOHU) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [5.17](https://open.spotify.com/album/7CxtQw1cz4fQW4A0w81eeC) | 4:01 | 2022-04-08 | 2022-07-20 |
 | [500 ascended](https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:32 | 2023-07-03 | 2023-07-08 |
 | [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 | 2022-05-20 | 2022-07-26 |
@@ -91,7 +92,7 @@
 | [Butterfly](https://open.spotify.com/track/01dQHUYz6EerSF6JQDolCC) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 4:12 | 2021-10-08 | 2022-05-14 |
 | [Butterfly Net](https://open.spotify.com/track/3JYayrgDyMYVrpMdcn5HxF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:36 | 2023-02-17 | 2023-05-02 |
 | [Bystanders \(in space\)](https://open.spotify.com/track/0OUCDV4CjuCULrXar3KbAf) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Bystanders \(in space\)](https://open.spotify.com/album/1fB3W1t6xcfojQHzUF42uu) | 4:30 | 2021-11-12 | 2022-04-22 |
-| [Call For Help](https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 3:18 | 2022-11-11 |  |
+| [Call For Help](https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 3:18 | 2022-11-11 | 2023-10-16 |
 | [CALL ME \(Freestyle\)](https://open.spotify.com/track/1awc3w3LUJOK8TwD17bQLZ) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [CALL ME \(Freestyle\)](https://open.spotify.com/album/1uveV0oi9gareah57tZdoL) | 3:05 | 2021-06-03 | 2022-06-04 |
 | [Call U Tomorrow](https://open.spotify.com/track/0i5w6z3hhpfVMkRUdv9jQ4) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/4rvVYGqXj3IPKI98aQV6Rf) | 3:06 | 2021-11-15 | 2022-06-23 |
 | [Call U Tomorrow](https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc) | 3:06 | 2021-11-15 |  |
@@ -159,6 +160,7 @@
 | [Due West](https://open.spotify.com/track/1EvFahLuLZ0vSVZo8YR3G9) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 4:11 | 2022-01-14 | 2022-04-23 |
 | [Dunk on Me](https://open.spotify.com/track/57JiCzlUi4DiQqTs2fJA6c) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Oh Uncertainty! A Universe Despairs](https://open.spotify.com/album/0cafqSXPiqB0jf1hiTAOI0) | 2:54 | 2021-06-03 | 2022-07-27 |
 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 | 2023-09-22 |  |
+| [Dying](https://open.spotify.com/track/60kl9blMLz8yl3akeh6sXe) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Jonny](https://open.spotify.com/album/2yyDNz8lkP0igqZfZzEgv0) | 3:39 | 2023-10-13 |  |
 | [Empire Ants \(feat\. Little Dragon\)](https://open.spotify.com/track/3a6PN6BRB8PP3ms48s7kU1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 4:43 | 2021-10-08 | 2022-04-19 |
 | [Energy](https://open.spotify.com/track/11i3GDVb1hGPWrPSoZ5xGf) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Ydegirl](https://open.spotify.com/album/0tDt3NI9DX0ivOd15RljWg) | 4:32 | 2021-10-22 | 2022-01-23 |
 | [Entertnmnt](https://open.spotify.com/track/5aavkoG5D3zRmeLQdHn8cb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Entertnmnt](https://open.spotify.com/album/02fYzuPRdFf1ur1A4ORWgU) | 3:14 | 2021-06-03 | 2022-07-28 |
@@ -239,6 +241,7 @@
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-16 | 2023-07-22 |
 | [How to Disappear Completely](https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:56 | 2023-09-01 |  |
 | [Hysterical Us](https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Hysterical Us](https://open.spotify.com/album/13A6KzgqTLdutNm7yn0OMX) | 3:55 | 2021-10-08 | 2022-07-29 |
+| [I Been Young](https://open.spotify.com/track/1gRDj5L77TVphFS2AT0nh3) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Ooh Rap I Ya](https://open.spotify.com/album/2kvz9frUn3LUK83imD2BQS) | 4:59 | 2023-10-11 |  |
 | [I DONT KNOW ABOUT HIM](https://open.spotify.com/track/3CQ5CKzEaC7eCOlUyU7Bdm) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/4NrZlvs23TXuM09g7x3v7x) | 3:58 | 2021-06-03 | 2022-05-12 |
 | [I Just Wanna Feel Your Love Again](https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [I Just Wanna Feel Your Love Again](https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7) | 4:01 | 2023-09-22 |  |
 | [I Met God Online](https://open.spotify.com/track/3shB8ksTOqgJ6fj0L09FT9) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [I Met God Online](https://open.spotify.com/album/34Xg4eUnFTwsZZ6vIsrwxd) | 2:56 | 2022-06-03 | 2022-07-14 |
@@ -253,7 +256,7 @@
 | [I'm Not Like Alice](https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [I'm Not Like Alice](https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL) | 2:16 | 2022-12-16 | 2023-05-05 |
 | [I'm On](https://open.spotify.com/track/0Jvo56KxP4t9dCxCpa9qRj) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I'm On](https://open.spotify.com/album/3kptKZRdNf94sV6gFveVYc) | 4:10 | 2021-06-03 | 2022-07-29 |
 | [If You Only Knew](https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I](https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx) | 4:12 | 2022-09-30 | 2022-10-31 |
-| [iii\. Are We Awake \(ft\. Eartheater\)](https://open.spotify.com/track/3YAby3mTbhuaVfUXOv57rj) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [A GLINT IN THE HOLOCENE!](https://open.spotify.com/album/2QKQellnXw8Eg4lfysCto3) | 3:43 | 2023-10-06 |  |
+| [iii\. Are We Awake \(ft\. Eartheater\)](https://open.spotify.com/track/3YAby3mTbhuaVfUXOv57rj) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [A GLINT IN THE HOLOCENE!](https://open.spotify.com/album/2QKQellnXw8Eg4lfysCto3) | 3:43 | 2023-10-06 | 2023-10-16 |
 | [ilomilo](https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:36 | 2021-06-03 | 2023-04-01 |
 | [In A Good Way](https://open.spotify.com/track/2KTIvRAAihIGm8FyhEKdxp) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [In A Good Way](https://open.spotify.com/album/3oRqV2J2IuvZYm51BTKnb5) | 3:43 | 2021-06-03 | 2022-07-26 |
 | [In A Good Way](https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:44 | 2021-06-03 |  |
@@ -296,7 +299,7 @@
 | [Lookin' 4 Pleasure](https://open.spotify.com/track/2zpFidqnzXMpzQCLTBHTtA) | [Dominic Sen](https://open.spotify.com/artist/152t0HrYcs72GHrhM6x5gF) | [Lookin' 4 Pleasure](https://open.spotify.com/album/40iGpxXRNe5Hx9K9ac26WF) | 3:39 | 2022-05-20 | 2022-06-01 |
 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 | 2021-06-03 | 2022-09-10 |
 | [Loser](https://open.spotify.com/track/32j6e9Wh6dk0jG9KZn9HBe) | [Causeway](https://open.spotify.com/artist/3V6PIgndeEbvQu6ThnLQ5i) | [We Were Never Lost](https://open.spotify.com/album/7edH6cPIKeJcS50pQ5DS45) | 4:05 | 2022-06-03 | 2022-07-29 |
-| [Love Is Complicated \(The Angels Sing\)](https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 3:19 | 2022-04-22 |  |
+| [Love Is Complicated \(The Angels Sing\)](https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 3:19 | 2022-04-22 | 2023-10-16 |
 | [LOVE IS VIOLENCE](https://open.spotify.com/track/5Bii5cjilhQ9v3BSeSEhnM) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LOVE IS VIOLENCE](https://open.spotify.com/album/3wrX9MJvRVrCEJGHGwNvH9) | 2:37 | 2022-01-31 | 2022-04-01 |
 | [Love333](https://open.spotify.com/track/0wAQl7JsYX4PgX3YCBf8RN) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Forgiveness](https://open.spotify.com/album/1rkbaI9xnf7yi70SyGNKi2) | 3:09 | 2022-05-20 | 2022-07-19 |
 | [Lucky](https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Forever & A Few](https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF) | 4:11 | 2022-06-03 | 2022-06-12 |

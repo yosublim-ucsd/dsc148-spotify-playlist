@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-501 songs - 1 day 5 hr 48 min
+502 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,8 @@
 | [Like A Trap](https://open.spotify.com/track/02MZHCU9oBqxtqEB369fD9) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Like A Trap / Runway \[Ticket\] / Crystal Ball Room](https://open.spotify.com/album/1U5yo9uoLUJsw62K9lUqFq) | 3:14 | 2023-04-28 | 2023-10-05 |
 | [Like A Trap](https://open.spotify.com/track/2hfkuNjCb2taJLSPYAWC3s) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Tell The Ghost Welcome Home](https://open.spotify.com/album/6nLjP3dReDXaVeBj86WJFp) | 3:14 | 2023-04-28 | 2023-10-14 |
 | [Lila's Theme](https://open.spotify.com/track/3YQRELjxAeVd4SPxVo7AoN) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Lila's Theme](https://open.spotify.com/album/1BnNxLd5vbkaxvEU8x5a3N) | 3:28 | 2022-10-14 | 2023-04-01 |
-| [Listen To The Sky](https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Listen To The Sky](https://open.spotify.com/album/3G9hrfPSpBsvBwcgLT4i7u) | 2:52 | 2023-09-15 |  |
+| [Listen To The Sky](https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Listen To The Sky](https://open.spotify.com/album/3G9hrfPSpBsvBwcgLT4i7u) | 2:52 | 2023-09-15 | 2023-10-16 |
+| [Listen To The Sky](https://open.spotify.com/track/5Hp5ffZ2NOFuJCGuJ04psW) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc) | 2:52 | 2023-09-15 |  |
 | [Lookin' at the World](https://open.spotify.com/track/248XESwp5QmNsE0YsMVOGN) | [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV), [So So Topic](https://open.spotify.com/artist/01c1PKupQuh194xNZWMCV9) | [Swagism](https://open.spotify.com/album/1nbt7NWLOOyx5uLo2j6Pwu) | 4:04 | 2021-11-12 | 2022-02-19 |
 | [Losing You \(feat\. Leona Berlin\)](https://open.spotify.com/track/4LfECSZuYTUTx4V4khGxeQ) | [Gregory Hutchinson](https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y), [Leona Berlin](https://open.spotify.com/artist/0E8W46zqpbupCQg9MJwsTJ) | [Losing You \(feat\. Leona Berlin\)](https://open.spotify.com/album/7sbFa47PRfw754EoTxQl1O) | 3:47 | 2023-09-15 |  |
 | [Lost](https://open.spotify.com/track/0dKqpfmN02qTZaErAeW0q6) | [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu) | [Lost](https://open.spotify.com/album/7mn40LrC9Yl8myX7PsxfUd) | 3:08 | 2023-09-15 |  |

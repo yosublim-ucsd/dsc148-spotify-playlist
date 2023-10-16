@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,427 likes - 49 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,466 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Christmas Time Is Here \(arr\. piano\)](https://open.spotify.com/track/4IGPENN8Ou2Q4MFbXKwt8l) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Carol of the Bells \(arr\. piano\) / Christmas Time Is Here \(arr\. piano\)](https://open.spotify.com/album/5vYP61VuwDOFaqRfUtrhf7) | 6:54 |
-| 2 | [O Holy Night](https://open.spotify.com/track/4wps5wZL1C1ye4lzxgGA5P) | [Adolphe Adam](https://open.spotify.com/artist/71VUVLmoTKKYfIugkavMeS), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Home](https://open.spotify.com/album/0KEtzskgOyI7JeQGUkq5t1) | 3:09 |
+| 2 | [O Holy Night](https://open.spotify.com/track/71Gm9SQksFzIYDM1p5RpOt) | [Adolphe Adam](https://open.spotify.com/artist/71VUVLmoTKKYfIugkavMeS), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 3:11 |
 | 3 | [Have Yourself A Merry Little Christmas \(Arr\. Mackay\)](https://open.spotify.com/track/6oDXX38npeVEQhDMIkdXcM) | [Hugh Martin](https://open.spotify.com/artist/4n5HR9kS4Dhl1t685XlDhW), [Ralph Blane](https://open.spotify.com/artist/1iIajqbWEB7WRQUjzrz4qL), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Oscar Holch](https://open.spotify.com/artist/0yAcZP2jxBzykyUu92Wm2Z), [Matthew Sharp](https://open.spotify.com/artist/0IivBy8bFH9oN4N5wWmGz7), [Sam Becker](https://open.spotify.com/artist/73hqztzJdaRVSQVgifV7MT), [Ming Liu](https://open.spotify.com/artist/1y6zFseZunoGSLcUk161Le) | [Have Yourself A Merry Little Christmas \(Arr\. Mackay\)](https://open.spotify.com/album/2VU6vUsCJNXjuVKpvJlgJP) | 3:05 |
 | 4 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/4nC5Ap034pzhNT7vfqGRpE) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Songs of Joy & Peace](https://open.spotify.com/album/02kLBmx8yfEhWw8NJcwg10) | 4:45 |
 | 5 | [All I Want For Christmas Is You \- Instrumental](https://open.spotify.com/track/7mqyjMcNw4nifDnyhmSAxQ) | [Piano Man Sam](https://open.spotify.com/artist/7JJqk0ASV8zGJiBnrQUSbI) | [The Christmas Collection](https://open.spotify.com/album/4PuFVka05TTduMjo0tQWMC) | 2:52 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 48 | [Mary Did You Know](https://open.spotify.com/track/2HcxvRjvlLljVM3OeBf38i) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [Mary Did You Know](https://open.spotify.com/album/6M3lgoMX2Bv7BbFWZD95PE) | 3:49 |
 | 49 | [White Christmas](https://open.spotify.com/track/6zrXZLbL6gPCVLeodyN0bd) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [David Davidson](https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI) | [Christmas Elegance: Elegant Holiday Instrumentals Featuring Piano And Violin](https://open.spotify.com/album/59iScT5hI7Gi59PE79QnHC) | 4:09 |
 
-Snapshot ID: `MCw3MDE2NWRiNDJmN2RlZTUzYWEwM2ZlMWU1NjY1NTQ3ZDkxZjgwOGE3`
+Snapshot ID: `MCwwMGMyNDNjNjRmNGIxNmNlOTE1MjI2ZjAwMDAxOWNiMGE2MTAzMjVh`

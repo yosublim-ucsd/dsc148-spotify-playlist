@@ -554,7 +554,7 @@
       ],
       "date_added": "2020-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 192065,
       "name": "La Pequena Arana-Bonus",
       "url": "https://open.spotify.com/track/5x7lPrav33GIfgBv2lVpQg"
@@ -738,6 +738,32 @@
       "duration_ms": 109500,
       "name": "Patitos Cuacuacua",
       "url": "https://open.spotify.com/track/35FQXso1fGAtmpJA0skQZt"
+    },
+    {
+      "album": {
+        "name": "Pez Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/02qZvX116VfuLdtIjwS49x"
+      },
+      "artists": [
+        {
+          "name": "Pez al Rev\u00e9s",
+          "url": "https://open.spotify.com/artist/027ItQs3vdLG019LNccXr2"
+        },
+        {
+          "name": "Cascacuerda",
+          "url": "https://open.spotify.com/artist/42JQQWzk1ZzwSbj9JqBUF3"
+        },
+        {
+          "name": "Juan Pablo Ezquerra",
+          "url": "https://open.spotify.com/artist/7jVd7dSHaEDxcZMyiZsQ23"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128511,
+      "name": "Pato Con Tres Patas",
+      "url": "https://open.spotify.com/track/79eWa4cjirSHSmKg8f3WTN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Gardna
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,176 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,198 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 35 | [It's Your Time](https://open.spotify.com/track/3Q6T8sRZWec7A4U48jL9Wa) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd), [Jamie Boy Bassline](https://open.spotify.com/artist/0PQWIA1vcMBaOSBXnFgpLj) | [It's Your Time](https://open.spotify.com/album/4ZRW6aNvq4ec59GX7U5jTt) | 3:06 |
 | 36 | [Behind the Scenes \(feat\. Jess Spink\)](https://open.spotify.com/track/4T1J5mZ2doy1HJ8373eI0A) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Jess Spink](https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz) | [Behind the Scenes / Reeces Pieces](https://open.spotify.com/album/0azeR1xCVvGFxRXSvnQHwY) | 4:42 |
 | 37 | [Icon](https://open.spotify.com/track/6lHkU1xFBcjMVXeqDscSh7) | [Digital Koala](https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU), [SK](https://open.spotify.com/artist/2NrLFUM3oJeTAs8ZX6gFoc) | [Icon](https://open.spotify.com/album/7bwEAWHPjQrk6Qr3fdg2En) | 2:37 |
-| 38 | [EGODEATH](https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo) | [GHENGHIS OTT](https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO), [GRM Daily](https://open.spotify.com/artist/73WrjE9NzxHTBTD8tkREDW), [6HRS](https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0) | [EGODEATH](https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4) | 3:12 |
-| 39 | [Get Mad](https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Get Mad](https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98) | 3:37 |
+| 38 | [Get Mad](https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Get Mad](https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98) | 3:37 |
+| 39 | [EGODEATH](https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo) | [GHENGHIS OTT](https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO), [GRM Daily](https://open.spotify.com/artist/73WrjE9NzxHTBTD8tkREDW), [6HRS](https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0) | [EGODEATH](https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4) | 3:12 |
 | 40 | [Gimme More](https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN) | [Distinkt](https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug) | [Gimme More](https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN) | 3:54 |
 | 41 | [<3<3<3](https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [<3<3<3](https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE) | 3:05 |
 | 42 | [Party Right](https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Party Right / Snake Charmer](https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx) | 3:36 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 66 | [Emergency](https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Emergency](https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE) | 2:49 |
 | 67 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 |
 | 68 | [Don't Let Me Down \(feat\. Prima\)](https://open.spotify.com/track/3kSxlCHp8Fsw9qYR0fI0lh) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY), [Prima](https://open.spotify.com/artist/48mKSP3Udy0jlAXG7uv3lX) | [Don't Let Me Down \(feat\. Prima\)](https://open.spotify.com/album/5dHxGwSxntnWNRQlDXMARR) | 3:28 |
-| 69 | [Solid Ground](https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Solid Ground](https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be) | 4:01 |
-| 70 | [Take Me as I Am \- Holy Goof Remix](https://open.spotify.com/track/7bPkaPxJFBqyieS9HtDx4Q) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [Take Me as I Am](https://open.spotify.com/album/0ENUjXIwpXUtga0c4P1BHc) | 3:11 |
+| 69 | [Take Me as I Am \- Holy Goof Remix](https://open.spotify.com/track/7bPkaPxJFBqyieS9HtDx4Q) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [Take Me as I Am](https://open.spotify.com/album/0ENUjXIwpXUtga0c4P1BHc) | 3:11 |
+| 70 | [Solid Ground](https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Solid Ground](https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be) | 4:01 |
 
-Snapshot ID: `MCxhOTMyM2Q5OTZiYmRiZjY4NTBkMzljMTIzNTU4MDQ0MmRmZjNkNmQ4`
+Snapshot ID: `MCxkMjk1Mzg1ZmU2OTgxNThiYjJiMGRlYzFjOTc0ZDNhYzA2MjMzOGRh`

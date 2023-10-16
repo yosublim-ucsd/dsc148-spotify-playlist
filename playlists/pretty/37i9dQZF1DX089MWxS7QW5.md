@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Whee In\(휘인\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,951 likes - 54 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,038 likes - 54 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 53 | [Seed](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 4:15 |
 | 54 | [Why](https://open.spotify.com/track/0tbDP39a9Z8XPhAD8WfsBp) | [DOHU](https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh) | [WHY](https://open.spotify.com/album/5kV8W1zJiIWOvaYIECzY3M) | 4:04 |
 
-Snapshot ID: `MCxkMjg4OTUyMTE5N2I4MjY1MGU4NTA3Yzg3YTVmOGQzNjEwZmU3OTcx`
+Snapshot ID: `MCxlMmQwOGEwZDE5MDBmMGUxYThiMDNiNjI5MmQ3NWJiMjRmYTFiNjk2`

@@ -1902,6 +1902,10 @@
         {
           "name": "Levity",
           "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "Dem Jointz",
+          "url": "https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd"
         }
       ],
       "date_added": "2023-10-13",
@@ -3358,7 +3362,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 178285,
       "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
       "url": "https://open.spotify.com/track/0CLaGp0DMEjocSrAtvhcJl"
@@ -6650,7 +6654,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 168960,
       "name": "Wall Of Death",
       "url": "https://open.spotify.com/track/0adOv7C57abcznr40leSHx"

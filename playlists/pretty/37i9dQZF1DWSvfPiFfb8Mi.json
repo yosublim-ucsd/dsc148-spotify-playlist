@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 232221,
+  "num_followers": 232318,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjBhMDZiMjg1NTRiOTVjMzBiNWEyMGVkNDRlOWU2NDlhN2IyMWQ4",
+  "snapshot_id": "MCwzYTJiMDRmYzk1NWYwOTViOTMwMjllMmEyZmNlZmRiMDYwMjBhMDQ1",
   "tracks": [
     {
       "added_at": "2023-10-13 13:41:26",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
         "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
         "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 172884,
       "name": "Tighten It Up - Barney Bones - DRAMA Edit",
       "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -551,38 +551,6 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
-        "name": "Giodisco",
-        "url": "https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Giodisco",
-      "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
-      },
-      "artists": [
-        {
-          "name": "Class Fools",
-          "url": "https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt"
-        }
-      ],
-      "duration_ms": 168188,
-      "name": "Some Nights",
-      "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
         "name": "Skipping Like A Stone (feat. Beck) [Gerd Janson Remix]",
         "url": "https://open.spotify.com/album/1sTGjuVWoBksS49T9pOp4b"
       },
@@ -603,6 +571,38 @@
       "duration_ms": 185821,
       "name": "Skipping Like A Stone (feat. Beck) - Gerd Janson Remix",
       "url": "https://open.spotify.com/track/3qDaCdP9xU4wMoLYJCipyo"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
+      },
+      "artists": [
+        {
+          "name": "Class Fools",
+          "url": "https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt"
+        }
+      ],
+      "duration_ms": 168188,
+      "name": "Some Nights",
+      "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
+        "name": "Giodisco",
+        "url": "https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Giodisco",
+      "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        }
-      ],
-      "duration_ms": 190948,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
         "name": "Club Future Nostalgia (DJ Mix)",
         "url": "https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 180040,
       "name": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
       "url": "https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        }
+      ],
+      "duration_ms": 190948,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
-        "name": "KILO",
-        "url": "https://open.spotify.com/album/52AvyYxCRm3RbgeIPebr0y"
-      },
-      "artists": [
-        {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 310153,
-      "name": "KILO",
-      "url": "https://open.spotify.com/track/5OTSZ0D28LQQ7eyQBVykFM"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
         "name": "Open Market",
         "url": "https://open.spotify.com/album/6NPhPV2DCnxiLlhzKqX011"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 190012,
       "name": "Flawless",
       "url": "https://open.spotify.com/track/5nPPgxXTXhVdxJbe5jZLYQ"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
+        "name": "KILO",
+        "url": "https://open.spotify.com/album/52AvyYxCRm3RbgeIPebr0y"
+      },
+      "artists": [
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 310153,
+      "name": "KILO",
+      "url": "https://open.spotify.com/track/5OTSZ0D28LQQ7eyQBVykFM"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
-        "name": "We Could Be Falling In Love",
-        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 179487,
-      "name": "We Could Be Falling In Love - Edit",
-      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
         "name": "King Of My Castle (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/4KvYiPXNUASfXFCXPXyZ8M"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 199191,
       "name": "King of My Castle - (Purple Disco Machine Remix) [Edit]",
       "url": "https://open.spotify.com/track/03Hu4c9THPQJDIml8xRYgn"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
+        "name": "We Could Be Falling In Love",
+        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 179487,
+      "name": "We Could Be Falling In Love - Edit",
+      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
-        "name": "Awesome Ways",
-        "url": "https://open.spotify.com/album/0REKjgSZr8BaRYMDBiVqXL"
-      },
-      "artists": [
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Awesome Ways",
-      "url": "https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
         "name": "I'm A Woman",
         "url": "https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 147086,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
+        "name": "Awesome Ways",
+        "url": "https://open.spotify.com/album/0REKjgSZr8BaRYMDBiVqXL"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Awesome Ways",
+      "url": "https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
+        "name": "Everyday People",
+        "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
+      },
+      "artists": [
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+        }
+      ],
+      "duration_ms": 165494,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
         "name": "Cosmic Fonk",
         "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 213815,
       "name": "Glitter Fonk",
       "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
-        "name": "Everyday People",
-        "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
-      },
-      "artists": [
-        {
-          "name": "Prok & Fitch",
-          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
-        }
-      ],
-      "duration_ms": 165494,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -1383,30 +1383,6 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
-        "name": "Studio 54",
-        "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Leyla Blue",
-          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
-        },
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        }
-      ],
-      "duration_ms": 166289,
-      "name": "Studio 54",
-      "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
         "name": "Weekend Love",
         "url": "https://open.spotify.com/album/1JkJernn4xd0y6AeJM9N07"
       },
@@ -1427,6 +1403,30 @@
       "duration_ms": 219280,
       "name": "Weekend Love",
       "url": "https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
+        "name": "Studio 54",
+        "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Leyla Blue",
+          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "duration_ms": 166289,
+      "name": "Studio 54",
+      "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
-        "name": "Hot Summer Love",
-        "url": "https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb"
-      },
-      "artists": [
-        {
-          "name": "Jordan Astra",
-          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
-        }
-      ],
-      "duration_ms": 254072,
-      "name": "Hot Summer Love",
-      "url": "https://open.spotify.com/track/4TQqoGyB4nYr79d6pYXNi9"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
         "name": "Freeway (with Estelle)",
         "url": "https://open.spotify.com/album/2o1dIZfifqYphPXxxsprwZ"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 202000,
       "name": "Freeway (with Estelle)",
       "url": "https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
+        "name": "Hot Summer Love",
+        "url": "https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb"
+      },
+      "artists": [
+        {
+          "name": "Jordan Astra",
+          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+        }
+      ],
+      "duration_ms": 254072,
+      "name": "Hot Summer Love",
+      "url": "https://open.spotify.com/track/4TQqoGyB4nYr79d6pYXNi9"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
-        "name": "Kiss of Life",
-        "url": "https://open.spotify.com/album/2gm5Yftyy6HCSpLlUpWtFn"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/0JbDY6lEgRxtb7f5v6xv8Y"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
         "name": "You Got Me",
         "url": "https://open.spotify.com/album/6OQvq7hzK2BCj89A4wBAxh"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 180000,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/76CcHmpRJjb1y6RFnTh4nK"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
+        "name": "Kiss of Life",
+        "url": "https://open.spotify.com/album/2gm5Yftyy6HCSpLlUpWtFn"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/0JbDY6lEgRxtb7f5v6xv8Y"
     },
     {
       "added_at": "2023-10-13 13:41:26",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2023-10-13 13:41:26",
       "album": {
-        "name": "Be with You Tonight",
-        "url": "https://open.spotify.com/album/5ekFu16M8ZCHl1zsLFqd6o"
-      },
-      "artists": [
-        {
-          "name": "Val\u00e8re",
-          "url": "https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs"
-        },
-        {
-          "name": "La Felix",
-          "url": "https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj"
-        }
-      ],
-      "duration_ms": 219858,
-      "name": "Be with You Tonight",
-      "url": "https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt"
-    },
-    {
-      "added_at": "2023-10-13 13:41:26",
-      "album": {
         "name": "Dunston (Bellaire Remix)",
         "url": "https://open.spotify.com/album/6ZyTc9CIeuHsPSgg0ypxAI"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 213243,
       "name": "Dunston (Bellaire Remix)",
       "url": "https://open.spotify.com/track/1un3tgix0qXdcAAT7VYiDx"
+    },
+    {
+      "added_at": "2023-10-13 13:41:26",
+      "album": {
+        "name": "Be with You Tonight",
+        "url": "https://open.spotify.com/album/5ekFu16M8ZCHl1zsLFqd6o"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e8re",
+          "url": "https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs"
+        },
+        {
+          "name": "La Felix",
+          "url": "https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj"
+        }
+      ],
+      "duration_ms": 219858,
+      "name": "Be with You Tonight",
+      "url": "https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt"
     },
     {
       "added_at": "2023-10-13 13:41:26",

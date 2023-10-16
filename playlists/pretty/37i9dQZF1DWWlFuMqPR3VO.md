@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 
 > From the jazzy, up\-beat New Orleans blues to the slower, zydeco and Cajun\-influenced Swamp blues\. Cover: Kenny Neal
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,954 likes - 40 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,959 likes - 40 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 39 | [The Party's Still Going On](https://open.spotify.com/track/69vUnyBpWRNHf0MrlgqsQL) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Roadside Attractions](https://open.spotify.com/album/6FfHCnE5eMvEa3e1TnHnTj) | 3:25 |
 | 40 | [Gather by the River](https://open.spotify.com/track/5bxFlzZ2fdlt740q1YikpQ) | [Davell Crawford](https://open.spotify.com/artist/0o1oZuI02bsjkjwE07Me8D) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 3:40 |
 
-Snapshot ID: `MCxiZGZkMDM2MjFmMWE0ZjA4MGRjN2I3NjE4ZGEzNDVmMDJkY2E4MTA1`
+Snapshot ID: `MCw1NjBiZTZjNGEzOTdmOGQwNWVjZTYzNmUyZWQ1YzIzMzY5MzBhMjU1`

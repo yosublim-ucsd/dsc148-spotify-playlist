@@ -4,7 +4,7 @@
 
 > Listen to the women of Au & NZ at full volume! Cover: Cat & Calmell
 
-492 songs - 1 day 2 hr 32 min
+493 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Dance Again](https://open.spotify.com/track/3qTvzLD55cCR6p3sn5KsIz) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Only One](https://open.spotify.com/album/4g8qdFZN6YUdrQJnSWRJhC) | 3:11 | 2022-10-31 | 2023-05-01 |
 | [Dance Again](https://open.spotify.com/track/4c1GcUV5AYT9P7ZZd4OP7W) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Dance Again](https://open.spotify.com/album/0fY82ybrmIwMJ2Eb49cpt4) | 3:11 | 2022-09-05 | 2022-11-24 |
 | [Dance With You](https://open.spotify.com/track/0Q5SGz9fuoiLSF4oDKHZRh) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Dance With You](https://open.spotify.com/album/0nRdaI0gknu4q5hkSFREa5) | 3:06 | 2023-06-30 | 2023-08-17 |
-| [Dance With You](https://open.spotify.com/track/2kdILR0tcZ1xQDniGHd0dD) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Dance With You](https://open.spotify.com/album/5V9OBxZdEW8gnQbdCP9q73) | 3:06 | 2023-08-15 |  |
+| [Dance With You](https://open.spotify.com/track/1W31EFF8SpZX8sY1JIkUxw) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [King Clown](https://open.spotify.com/album/5ruCuWl2zADdyMIHE7wAYn) | 3:06 | 2023-09-30 |  |
+| [Dance With You](https://open.spotify.com/track/2kdILR0tcZ1xQDniGHd0dD) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Dance With You](https://open.spotify.com/album/5V9OBxZdEW8gnQbdCP9q73) | 3:06 | 2023-08-15 | 2023-10-16 |
 | [DANGEROUS](https://open.spotify.com/track/0k80yAzBKXrKvqGC3Gyndy) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [DANGEROUS](https://open.spotify.com/album/4qZllZG4IyMW08PJihIyrt) | 3:32 | 2022-12-31 | 2023-05-01 |
 | [Darts in the Dark](https://open.spotify.com/track/01U7Hj60HEBOI9jCY9Wfh7) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [Darts in the Dark](https://open.spotify.com/album/72qFlRjiGC6RJey0c4yHHD) | 3:13 | 2022-02-03 | 2022-05-03 |
 | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN) | 2:51 | 2023-08-31 |  |

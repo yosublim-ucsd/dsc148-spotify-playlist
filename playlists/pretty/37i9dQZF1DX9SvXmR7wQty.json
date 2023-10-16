@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Clodelle",
-  "num_followers": 38377,
+  "num_followers": 38394,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDk0M2IxODQ2YzdjYTYyNjAyNDFlMjg3MjdkYjUzMjQ1YTdjYzI1",
+  "snapshot_id": "MCw1ZDdlNDRiNjZiYWQxYTI2MjhlNDJjYmFjMzM1NjEwZTFiYjUyZTMy",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -88,12 +88,12 @@
       },
       "artists": [
         {
-          "name": "Eli Rose",
-          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
-        },
-        {
           "name": "Domeno",
           "url": "https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y"
+        },
+        {
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
         }
       ],
       "duration_ms": 190022,
@@ -447,22 +447,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Il faudrait",
-        "url": "https://open.spotify.com/album/2ODYDrN5YG9HVVBiBlg796"
+        "name": "Commando",
+        "url": "https://open.spotify.com/album/0UrZIIXENkXrBBvhwqyMJx"
       },
       "artists": [
         {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "Bigflo & Oli",
-          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+          "name": "Shay",
+          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
         }
       ],
-      "duration_ms": 222111,
-      "name": "Il faudrait",
-      "url": "https://open.spotify.com/track/62raj97K1yOi8mk54SLohm"
+      "duration_ms": 171649,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/36aSwnrZXd0k334PSXT7w2"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -487,18 +483,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Commando",
-        "url": "https://open.spotify.com/album/0UrZIIXENkXrBBvhwqyMJx"
+        "name": "Il faudrait",
+        "url": "https://open.spotify.com/album/2ODYDrN5YG9HVVBiBlg796"
       },
       "artists": [
         {
-          "name": "Shay",
-          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "Bigflo & Oli",
+          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
         }
       ],
-      "duration_ms": 171649,
-      "name": "Commando",
-      "url": "https://open.spotify.com/track/36aSwnrZXd0k334PSXT7w2"
+      "duration_ms": 222111,
+      "name": "Il faudrait",
+      "url": "https://open.spotify.com/track/62raj97K1yOi8mk54SLohm"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "IL LE FALLAIT",
+        "url": "https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S"
+      },
+      "artists": [
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        }
+      ],
+      "duration_ms": 179973,
+      "name": "GMAIL",
+      "url": "https://open.spotify.com/track/6cETuNTKBm0k4NiCJwU2bT"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "C\u0153ur parapluie",
         "url": "https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG"
       },
@@ -727,6 +743,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 188093,
+      "name": "Promets-moi",
+      "url": "https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "La Peuf 6",
         "url": "https://open.spotify.com/album/5eSgbHVzgcToLHcAIwqDfp"
       },
@@ -759,18 +791,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Charlotte",
-        "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
+        "name": "OH MADELEINE",
+        "url": "https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx"
       },
       "artists": [
         {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+          "name": "Disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
         }
       ],
-      "duration_ms": 188093,
-      "name": "Promets-moi",
-      "url": "https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit"
+      "duration_ms": 159603,
+      "name": "OH MADELEINE",
+      "url": "https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -791,22 +823,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "OH MADELEINE",
-        "url": "https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx"
-      },
-      "artists": [
-        {
-          "name": "Disiz",
-          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
-        }
-      ],
-      "duration_ms": 159603,
-      "name": "OH MADELEINE",
-      "url": "https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "\u00c0 l'inverse",
         "url": "https://open.spotify.com/album/7uGFdMiWN1Mdk4tmwKSrnX"
       },
@@ -819,6 +835,22 @@
       "duration_ms": 175706,
       "name": "\u00c0 l'inverse",
       "url": "https://open.spotify.com/track/4ljLseBCdBixUTd56quaVZ"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Encore plus",
+        "url": "https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr"
+      },
+      "artists": [
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "Encore plus",
+      "url": "https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -839,42 +871,6 @@
       "duration_ms": 173036,
       "name": "Je remplace mes exs",
       "url": "https://open.spotify.com/track/3QSTzAm336llccLmSrdqzI"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "IL LE FALLAIT",
-        "url": "https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S"
-      },
-      "artists": [
-        {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "GMAIL",
-      "url": "https://open.spotify.com/track/6cETuNTKBm0k4NiCJwU2bT"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Je te promets",
-        "url": "https://open.spotify.com/album/6e3k8dGR9n0i8ILS37puwR"
-      },
-      "artists": [
-        {
-          "name": "Florent Pagny",
-          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
-        },
-        {
-          "name": "Jenifer",
-          "url": "https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Je te promets",
-      "url": "https://open.spotify.com/track/2WQSqRICLiUVaQHT7QQ0We"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

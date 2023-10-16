@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 618631,
+  "num_followers": 618694,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTlkOWVmMWUwZjE0OWIyMjg2OGQ3OTRkMWU5YjkxNjQ0NDkzYmJk",
+  "snapshot_id": "MCwxNTI5MzZlZjAzYWYwM2QwZGMyNDNjYmZlNjBlZjVkYzk0OGE0NmI2",
   "tracks": [
     {
       "added_at": "2023-10-11 12:51:15",
@@ -467,18 +467,26 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Kompass ohne Norden (Premium Edition)",
-        "url": "https://open.spotify.com/album/1SWh0DfTaWQPopinkTPIMY"
+        "name": "Party 2020",
+        "url": "https://open.spotify.com/album/5nf3tQHGdH6J3iINNfOL6T"
       },
       "artists": [
         {
-          "name": "Prinz Pi",
-          "url": "https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk"
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC"
         }
       ],
-      "duration_ms": 252786,
-      "name": "Kompass ohne Norden",
-      "url": "https://open.spotify.com/track/4wEDActEN5ZyJi0DK8bCtf"
+      "duration_ms": 188503,
+      "name": "Ohne mein Team",
+      "url": "https://open.spotify.com/track/6hOqWob9hUfgJr68J1vEhJ"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -515,26 +523,18 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Party 2020",
-        "url": "https://open.spotify.com/album/5nf3tQHGdH6J3iINNfOL6T"
+        "name": "Kompass ohne Norden (Premium Edition)",
+        "url": "https://open.spotify.com/album/1SWh0DfTaWQPopinkTPIMY"
       },
       "artists": [
         {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC"
+          "name": "Prinz Pi",
+          "url": "https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk"
         }
       ],
-      "duration_ms": 188503,
-      "name": "Ohne mein Team",
-      "url": "https://open.spotify.com/track/6hOqWob9hUfgJr68J1vEhJ"
+      "duration_ms": 252786,
+      "name": "Kompass ohne Norden",
+      "url": "https://open.spotify.com/track/4wEDActEN5ZyJi0DK8bCtf"
     },
     {
       "added_at": "2023-10-11 12:51:15",

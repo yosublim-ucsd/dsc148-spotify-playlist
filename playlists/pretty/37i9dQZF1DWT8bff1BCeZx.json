@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 7046,
+  "num_followers": 7115,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzBiMDViM2E2NjVjOWZkZGY0N2ZmYWI2NjA2ZjAwMmQ1YzA1MzQw",
+  "snapshot_id": "MCw1ZTRhNzUyNzgzNDg4NDk5OTEyMDc3NWI4NGJjZjY1NjY1YWZkM2Qw",
   "tracks": [
     {
       "added_at": "2023-09-29 00:01:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Igwe",
-        "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
-      },
-      "artists": [
-        {
-          "name": "Midnight Crew",
-          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
-        }
-      ],
-      "duration_ms": 312556,
-      "name": "Igwe",
-      "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Miracle Worker (Live)",
         "url": "https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 507400,
       "name": "Excess Love - Live",
       "url": "https://open.spotify.com/track/3eqODi0QYCr5nqMtzpYMoL"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Igwe",
+        "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
+      },
+      "artists": [
+        {
+          "name": "Midnight Crew",
+          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
+        }
+      ],
+      "duration_ms": 312556,
+      "name": "Igwe",
+      "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -475,22 +475,18 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Confam",
-        "url": "https://open.spotify.com/album/7r0C7rE7lg3GjQX8Wuwzln"
+        "name": "My Dey",
+        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
       },
       "artists": [
         {
-          "name": "Okey Sokay",
-          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
-        },
-        {
-          "name": "Hugo David",
-          "url": "https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo"
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
         }
       ],
-      "duration_ms": 157826,
-      "name": "Confam",
-      "url": "https://open.spotify.com/track/1AgHIQMl64yK84dbCuddpz"
+      "duration_ms": 131065,
+      "name": "My Dey",
+      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -535,18 +531,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "My Dey",
-        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
+        "name": "Confam",
+        "url": "https://open.spotify.com/album/7r0C7rE7lg3GjQX8Wuwzln"
       },
       "artists": [
         {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        },
+        {
+          "name": "Hugo David",
+          "url": "https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo"
         }
       ],
-      "duration_ms": 131065,
-      "name": "My Dey",
-      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
+      "duration_ms": 157826,
+      "name": "Confam",
+      "url": "https://open.spotify.com/track/1AgHIQMl64yK84dbCuddpz"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -715,26 +715,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "S. W. A. G (Saved with Amazing Grace)",
-        "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
-      },
-      "artists": [
-        {
-          "name": "Sammie Okposo",
-          "url": "https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ"
-        },
-        {
-          "name": "Kike Mudiaga",
-          "url": "https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF"
-        }
-      ],
-      "duration_ms": 242704,
-      "name": "Oluwa E Tobi",
-      "url": "https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Mo",
         "url": "https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK"
       },
@@ -751,22 +731,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "WINNING",
-        "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
+        "name": "S. W. A. G (Saved with Amazing Grace)",
+        "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
       },
       "artists": [
         {
-          "name": "Harmini",
-          "url": "https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9"
+          "name": "Sammie Okposo",
+          "url": "https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ"
         },
         {
-          "name": "Chud'e",
-          "url": "https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej"
+          "name": "Kike Mudiaga",
+          "url": "https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF"
         }
       ],
-      "duration_ms": 152622,
-      "name": "WINNING",
-      "url": "https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW"
+      "duration_ms": 242704,
+      "name": "Oluwa E Tobi",
+      "url": "https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -791,6 +771,26 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "WINNING",
+        "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
+      },
+      "artists": [
+        {
+          "name": "Harmini",
+          "url": "https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9"
+        },
+        {
+          "name": "Chud'e",
+          "url": "https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej"
+        }
+      ],
+      "duration_ms": 152622,
+      "name": "WINNING",
+      "url": "https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "Joyous Celebration 13: Live At The Mosaeik Theatre JHB",
         "url": "https://open.spotify.com/album/5dfZbEUBENJSFgzb6krR1F"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Hosanna",
-        "url": "https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV"
-      },
-      "artists": [
-        {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        }
-      ],
-      "duration_ms": 321684,
-      "name": "Hosanna",
-      "url": "https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Na God I Dey Praise (Craze)",
         "url": "https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 218644,
       "name": "Na God I Dey Praise (Craze)",
       "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Hosanna",
+        "url": "https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV"
+      },
+      "artists": [
+        {
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        }
+      ],
+      "duration_ms": 321684,
+      "name": "Hosanna",
+      "url": "https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "Na You Dey Reign",
+        "url": "https://open.spotify.com/album/7EUG7ICDtR5G6FLseXjADm"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/2cf0ayENplwaFuiG0aphAS"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "This Far by Grace",
         "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 245333,
       "name": "Ope Mi",
       "url": "https://open.spotify.com/track/5Tf3Pu5PUTzdKysGXnijAQ"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Na You Dey Reign",
-        "url": "https://open.spotify.com/album/7EUG7ICDtR5G6FLseXjADm"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/2cf0ayENplwaFuiG0aphAS"
     },
     {
       "added_at": "2023-09-29 00:01:00",

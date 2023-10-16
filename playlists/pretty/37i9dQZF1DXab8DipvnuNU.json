@@ -1,12 +1,12 @@
 {
   "description": "Curated by Bun B.",
-  "num_followers": 18105,
+  "num_followers": 18163,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmE0MDk3NmIwMTM3YzI5OTUwMjczYTdhOGQ5MGQ5ZDMzMWQwOGRh",
+  "snapshot_id": "MCw5MjRlMjgwNzE5ZWRjMGIzMTU5NTIxMWY4NWFmN2ExNGQ0MmYxODRk",
   "tracks": [
     {
       "added_at": "2023-08-30 19:30:34",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
+        "name": "Naughty By Nature",
+        "url": "https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO"
+      },
+      "artists": [
+        {
+          "name": "Naughty By Nature",
+          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
+        }
+      ],
+      "duration_ms": 271066,
+      "name": "O.P.P",
+      "url": "https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
         "name": "Eazy-Duz-It",
         "url": "https://open.spotify.com/album/2glPhGd3WXbnNttSdOOr2e"
       },
@@ -431,22 +447,6 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
-        "name": "Naughty By Nature",
-        "url": "https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO"
-      },
-      "artists": [
-        {
-          "name": "Naughty By Nature",
-          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
-        }
-      ],
-      "duration_ms": 271066,
-      "name": "O.P.P",
-      "url": "https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
       },
@@ -463,6 +463,26 @@
       "duration_ms": 260333,
       "name": "Let Me Ride",
       "url": "https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
+        "name": "The Real Testament",
+        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
+      },
+      "artists": [
+        {
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 255413,
+      "name": "Shawty (feat. T Pain)",
+      "url": "https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg"
     },
     {
       "added_at": "2023-08-30 19:30:34",
@@ -499,26 +519,6 @@
       "duration_ms": 205120,
       "name": "Knuck If You Buck (feat. Lil' Scrappy)",
       "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
-        "name": "The Real Testament",
-        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
-      },
-      "artists": [
-        {
-          "name": "Plies",
-          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 255413,
-      "name": "Shawty (feat. T Pain)",
-      "url": "https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg"
     },
     {
       "added_at": "2023-08-30 19:30:34",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
-        "name": "A Wolf In Sheep's Clothing",
-        "url": "https://open.spotify.com/album/4tIQR0m3PPwybQ32P256IO"
-      },
-      "artists": [
-        {
-          "name": "Black Sheep",
-          "url": "https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf"
-        }
-      ],
-      "duration_ms": 203173,
-      "name": "The Choice Is Yours",
-      "url": "https://open.spotify.com/track/1I1ycyokEiLqNHeRR3c63i"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
         "name": "Don't Mess Wit Texas",
         "url": "https://open.spotify.com/album/7zys39FMYPFyJkob8RYzJN"
       },
@@ -1383,22 +1367,18 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
-        "name": "The Coming",
-        "url": "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
+        "name": "A Wolf In Sheep's Clothing",
+        "url": "https://open.spotify.com/album/4tIQR0m3PPwybQ32P256IO"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Zhan\u00e9",
-          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+          "name": "Black Sheep",
+          "url": "https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf"
         }
       ],
-      "duration_ms": 277666,
-      "name": "It's a Party (feat. Zhane)",
-      "url": "https://open.spotify.com/track/0Ml8PkxnlGUrrMPpJWPBc3"
+      "duration_ms": 203173,
+      "name": "The Choice Is Yours",
+      "url": "https://open.spotify.com/track/1I1ycyokEiLqNHeRR3c63i"
     },
     {
       "added_at": "2023-08-30 19:30:34",
@@ -1419,6 +1399,26 @@
       "duration_ms": 308973,
       "name": "Bout It, Bout It II",
       "url": "https://open.spotify.com/track/2ohf5urBpT8bieYr8kq3kt"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
+        "name": "The Coming",
+        "url": "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Zhan\u00e9",
+          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+        }
+      ],
+      "duration_ms": 277666,
+      "name": "It's a Party (feat. Zhane)",
+      "url": "https://open.spotify.com/track/0Ml8PkxnlGUrrMPpJWPBc3"
     },
     {
       "added_at": "2023-08-30 19:30:34",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
+        "name": "The Greatest Hits: Lifelines Volume 1",
+        "url": "https://open.spotify.com/album/7Gh4T19qT1cT1ypL5J16X6"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        },
+        {
+          "name": "Frankie Beverly",
+          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+        }
+      ],
+      "duration_ms": 432826,
+      "name": "Happy Feelin's",
+      "url": "https://open.spotify.com/track/2YQ4R8eICy851TjCdFYUSd"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
         "name": "From Coast To Coast",
         "url": "https://open.spotify.com/album/4hy6cljF4XEK7uhbckH3Dx"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 287813,
       "name": "25 Lighters",
       "url": "https://open.spotify.com/track/4c6rZlc8J4P2zK4mvYrTFG"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
-        "name": "The Greatest Hits: Lifelines Volume 1",
-        "url": "https://open.spotify.com/album/7Gh4T19qT1cT1ypL5J16X6"
-      },
-      "artists": [
-        {
-          "name": "Maze",
-          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
-        },
-        {
-          "name": "Frankie Beverly",
-          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
-        }
-      ],
-      "duration_ms": 432826,
-      "name": "Happy Feelin's",
-      "url": "https://open.spotify.com/track/2YQ4R8eICy851TjCdFYUSd"
     },
     {
       "added_at": "2023-08-30 19:30:34",

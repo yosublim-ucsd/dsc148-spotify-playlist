@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-463 songs - 1 day 2 hr 22 min
+464 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Curriculum Completo](https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Curriculum Completo](https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC) | 2:25 | 2022-10-14 | 2022-11-09 |
 | [Cursi](https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Cursi](https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M) | 3:13 | 2023-10-05 |  |
 | [Cuántas Veces Más](https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Cuántas Veces Más](https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF) | 3:23 | 2022-01-07 | 2022-07-28 |
+| [Cómo olvidar](https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [3D](https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz) | 2:15 | 2023-10-05 |  |
 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Cómo Te Extraño Mi Amor](https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9) | 3:07 | 2023-03-03 |  |
 | [Cómo y Cuándo](https://open.spotify.com/track/5p3ewseYcitkJUdhYpaSkY) | [El Féral](https://open.spotify.com/artist/34Iany0uooiPsZ0pIWUy1G), [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Cómo y Cuándo](https://open.spotify.com/album/3F8JTJRlLwqan1umbVh1ku) | 3:24 | 2022-01-28 | 2022-06-24 |
 | [Cósmica](https://open.spotify.com/track/0cdk7aW3T86BCMyvACbbEu) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [Cósmica](https://open.spotify.com/album/0gvYgxTHHuLxo79sOjrU82) | 3:36 | 2022-01-07 | 2022-07-05 |
@@ -415,7 +416,7 @@
 | [Te Pienso Todo el Tiempo](https://open.spotify.com/track/0NoBvPqHXHjlH0QOGp0vUu) | [Todo El Verano](https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9), [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [Te Pienso Todo el Tiempo](https://open.spotify.com/album/1RCjfjr0AuKRNfmzPT3ZxB) | 3:33 | 2022-01-07 | 2022-07-29 |
 | [Te Pienso Todo el Tiempo](https://open.spotify.com/track/14CtkTc8EgxHM1fjfkiGXx) | [Todo El Verano](https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9), [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [Te Pienso Todo el Tiempo](https://open.spotify.com/album/1z3DJNUHiZ47dMH0rNjEwz) | 3:33 | 2022-07-15 | 2023-03-03 |
 | [Telarañas](https://open.spotify.com/track/6T5kyODSlNmy1Y5dxY2O9J) | [Mitokiota](https://open.spotify.com/artist/1TibukCppwnz6ALvkIhpFy), [Pako Galvan](https://open.spotify.com/artist/6ulD1PL8KDmWRI73SHdwL1), [WONKO](https://open.spotify.com/artist/127KKgqAoF3VOd0cRVkql9) | [Telarañas](https://open.spotify.com/album/4pZu7kxfje0NYWsrkMUqEo) | 2:41 | 2022-04-01 | 2022-05-14 |
-| [Tequila](https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [La Nueva Imperial](https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5) | [Tequila](https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV) | 3:22 | 2023-07-28 |  |
+| [Tequila](https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [La Nueva Imperial](https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5) | [Tequila](https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV) | 3:22 | 2023-07-28 | 2023-10-16 |
 | [Tiempo](https://open.spotify.com/track/2J9VUqB5ctErOgUHxNopIr) | [Julian Esion Kaplan](https://open.spotify.com/artist/6hIgj3eWhgPTbd86rFhOZD), [Jo Delapé](https://open.spotify.com/artist/6oVxclsRmo2TcjNB1adYP7), [patin mac](https://open.spotify.com/artist/1bi8m1Co2Nq0PnKhcm6WM8), [Luqo](https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN) | [Tiempo](https://open.spotify.com/album/6RLPYVkrJcksEXWRFz6uqI) | 3:27 | 2022-01-28 | 2022-06-22 |
 | [Tinder uwu](https://open.spotify.com/track/6NCbo0bYHyUWJ4cPeyqGss) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [Tinder uwu](https://open.spotify.com/album/5TaV1ZaU7baZVhr6jYAqAm) | 3:03 | 2022-01-28 | 2022-07-29 |
 | [TKM](https://open.spotify.com/track/6OU9VH0luFi6oSZ5arLiOy) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [TKM](https://open.spotify.com/album/3nygqNGAb9LEbK4yV20sqt) | 3:50 | 2022-01-07 | 2023-10-06 |

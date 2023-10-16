@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DANSAR DOM I HIMMELEN??
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,626 likes - 99 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,667 likes - 99 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 98 | [EN STARKÖL I STOCKHOLM ÄR BARA EN LÄTTÖL I GRUMS](https://open.spotify.com/track/3Fo5cGlX70o5YPQTaCI8Rr) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [EN STARKÖL I STOCKHOLM ÄR BARA EN LÄTTÖL I GRUMS](https://open.spotify.com/album/1fYJzFP32gYYuXoxF8SkUL) | 2:09 |
 | 99 | [TONÅRSNATT](https://open.spotify.com/track/6qRDmw7G2r7iOa2kVKlqOZ) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [DJ Roine](https://open.spotify.com/artist/6qFz7RbRuwQE0UlouqD6aV) | [TONÅRSNATT](https://open.spotify.com/album/3B2TMZck1AoMWUOOCbd6jT) | 1:55 |
 
-Snapshot ID: `MCw0YzUzNjU0ZThhNTA5YTQ5MjVhOGY1ODIwNTVjYThkMjM3MjlhNWEx`
+Snapshot ID: `MCw2YTQ5MjMyY2NjZjM3YzA4MjY1ODFhZWI2NWYzNTJjOTI4MDkzZDUw`

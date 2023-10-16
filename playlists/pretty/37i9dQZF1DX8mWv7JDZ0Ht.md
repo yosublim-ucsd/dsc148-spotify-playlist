@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Vitor Kley
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,963 likes - 85 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,043 likes - 85 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 35 | [Nem Eu Me Entendo](https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Múltipla](https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2) | 2:41 |
 | 36 | [Todo Azul](https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Todo Azul](https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S) | 2:32 |
 | 37 | [Pausa](https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Pausa](https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H) | 3:39 |
-| 38 | [Em Você](https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [Em Você](https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz) | 2:22 |
-| 39 | [Juntin](https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ) | [Nós Dois](https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g) | [nósdois](https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe) | 2:43 |
+| 38 | [Juntin](https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ) | [Nós Dois](https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g) | [nósdois](https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe) | 2:43 |
+| 39 | [Em Você](https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [Em Você](https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz) | 2:22 |
 | 40 | [desculpa, qualquer coisa](https://open.spotify.com/track/2S71g46OHOnyqmTmXns42D) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [tudo, eu, enfim.](https://open.spotify.com/album/61c5R2RNKApj9EuAVFQIQq) | 3:54 |
 | 41 | [Coisas De Você](https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE) | 3:17 |
 | 42 | [Eu, Você e Essa Canção](https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC) | [Pedro Pascual](https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [Eu, Você e Essa Canção](https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg) | 2:47 |
@@ -64,15 +64,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 54 | [sempre com você](https://open.spotify.com/track/5VHdxkb3y2gq8kzxKAGdOZ) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [sempre com você](https://open.spotify.com/album/23fIykV7AR3cqsBOzcW6rf) | 3:11 |
 | 55 | [Primeiro Bom Dia](https://open.spotify.com/track/0pAfPb9PMGcLoWpsPh1wB0) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Primeiro Bom Dia](https://open.spotify.com/album/05x9tfi2dUqNtsOuFOToWF) | 2:13 |
 | 56 | [Lindo Dom](https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Lindo Dom](https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf) | 3:13 |
-| 57 | [O Que Eu Devia Ter Vivido](https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1) | [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Frágil](https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U) | 2:25 |
-| 58 | [No Passo da Saudades](https://open.spotify.com/track/6rPw4RPfrsMlmXeZb5QUII) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx), [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu) | [No Passo da Saudades](https://open.spotify.com/album/0729bsCZ4g6R5JeuVpoUsj) | 2:56 |
-| 59 | [Você](https://open.spotify.com/track/5lZCyNdCwLZJYH9myKor7W) | [Gabriel Won](https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r) | [Você](https://open.spotify.com/album/1f079JPEkai7mwMyeOUSQg) | 2:20 |
-| 60 | [Ana Rosa](https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2) | [NIZZ](https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Lugares](https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2) | 2:55 |
+| 57 | [Você](https://open.spotify.com/track/5lZCyNdCwLZJYH9myKor7W) | [Gabriel Won](https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r) | [Você](https://open.spotify.com/album/1f079JPEkai7mwMyeOUSQg) | 2:20 |
+| 58 | [Não Me Chame Mais De Ex](https://open.spotify.com/track/4z1PRlsNS6oO3EPefmKFzl) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op), [Kamilla Maria](https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c) | [Não Me Chame Mais De Ex](https://open.spotify.com/album/4DtJfSrX5mpAgr8pvH9VtV) | 2:28 |
+| 59 | [O Que Eu Devia Ter Vivido](https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1) | [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Frágil](https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U) | 2:25 |
+| 60 | [No Passo da Saudades](https://open.spotify.com/track/6rPw4RPfrsMlmXeZb5QUII) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx), [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu) | [No Passo da Saudades](https://open.spotify.com/album/0729bsCZ4g6R5JeuVpoUsj) | 2:56 |
 | 61 | [Vou Fugir](https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Vou Fugir](https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR) | 2:46 |
-| 62 | [Não Me Chame Mais De Ex](https://open.spotify.com/track/4z1PRlsNS6oO3EPefmKFzl) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op), [Kamilla Maria](https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c) | [Não Me Chame Mais De Ex](https://open.spotify.com/album/4DtJfSrX5mpAgr8pvH9VtV) | 2:28 |
-| 63 | [Melodramático](https://open.spotify.com/track/1fn9Ca7f5FdrZ5E6JUVh9s) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Melodramático](https://open.spotify.com/album/0uu6hlbdqlBp6dqTQ7TBRw) | 2:26 |
+| 62 | [Ana Rosa](https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2) | [NIZZ](https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Lugares](https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2) | 2:55 |
+| 63 | [Se Me Ver](https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Se Me Ver](https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T) | 2:55 |
 | 64 | [Casa Comigo?](https://open.spotify.com/track/4NggJkhK4jIbTlcey5S7nR) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Casa Comigo?](https://open.spotify.com/album/3wjR90Q98DFO8exvuwuYLr) | 2:39 |
-| 65 | [Se Me Ver](https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Se Me Ver](https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T) | 2:55 |
+| 65 | [Melodramático](https://open.spotify.com/track/1fn9Ca7f5FdrZ5E6JUVh9s) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Melodramático](https://open.spotify.com/album/0uu6hlbdqlBp6dqTQ7TBRw) | 2:26 |
 | 66 | [Ser Eu](https://open.spotify.com/track/2ExyuObg4f2r7wTiM03rST) | [Tori](https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch) | [Ser Eu](https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M) | 2:41 |
 | 67 | [Sanidade Mental](https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Sanidade Mental](https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY) | 1:59 |
 | 68 | [que se fosse](https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [que se fosse](https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z) | 2:19 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 84 | [Teu Calor](https://open.spotify.com/track/0Cz8QlQ80iGaBW9i2Rizp8) | [Megic Eric](https://open.spotify.com/artist/3rFzMogFPAHD5EV57Trym9) | [Teu Calor](https://open.spotify.com/album/4bRwD7jIFJsYeG0qstycLh) | 5:02 |
 | 85 | [O Tempo](https://open.spotify.com/track/7BVjbg62Tc0AVTGzzO3t36) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [O Tempo](https://open.spotify.com/album/6YzWKAyU0OqSDVTb6OBJw3) | 2:29 |
 
-Snapshot ID: `MCw1OTBhNjZlZWFmZGQ2ZDA4MDAzYjVjMzNhMTlmYTNkOTJmMzA1YTQ5`
+Snapshot ID: `MCxlNDA2ZTJmZjNiMzFmZjgxN2ZiMTljYjZjNmVlNjQwN2JkM2M0ZDE0`

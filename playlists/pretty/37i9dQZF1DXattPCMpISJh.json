@@ -1,13 +1,33 @@
 {
   "description": "A new take on a classic sound. Cover: Idina Menzel",
-  "num_followers": 99767,
+  "num_followers": 99949,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjY3MGJiM2U3ZWU3Yzg3MGMzMjhjMmRlMDBhNjczZTk0NzY4Yjc3",
+  "snapshot_id": "MCxhYjVlYjczYTE3NGIwNTRmNTFkNzk3YTUwZDI0NTFiNWViYzIyNjJl",
   "tracks": [
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Children (What Time It Is)",
+        "url": "https://open.spotify.com/album/5OOn9cixybs44lmmeFx4GI"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        },
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        }
+      ],
+      "duration_ms": 221744,
+      "name": "Children (What Time It Is)",
+      "url": "https://open.spotify.com/track/62mKCfQX5J2nnEq8lSwuOX"
+    },
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {

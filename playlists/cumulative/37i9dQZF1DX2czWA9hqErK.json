@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 212052,
       "name": "A Strange Kind Of Beautiful",
       "url": "https://open.spotify.com/track/0ttVAF5zheWZoLI3pURxWS"
@@ -1762,6 +1762,24 @@
       "duration_ms": 193835,
       "name": "closed doors",
       "url": "https://open.spotify.com/track/6SzZkHnTey3zSPZwSxP2wK"
+    },
+    {
+      "album": {
+        "name": "closure",
+        "url": "https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183566,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,398 likes - 69 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,436 likes - 69 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 43 | [Like Forever \- Monika Kruse Remix](https://open.spotify.com/track/2Ya3VU6jVjLaPF51OXcrCU) | [Patrik Berg](https://open.spotify.com/artist/13SB6LyYpsdN2QPEqpYS9l), [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Like Forever](https://open.spotify.com/album/6G4e1s4wLAJj6cSxBkFAP1) | 8:16 |
 | 44 | [Everything Collapses](https://open.spotify.com/track/7mjjSmrYqxucbk6W98tcE0) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up), [Ash Code](https://open.spotify.com/artist/5RgEBlZV41hfY0KgUDiQvy) | [Everything Collapses](https://open.spotify.com/album/564l8RYKO06QPnjdfYplq0) | 5:05 |
 | 45 | [The Unseen Path](https://open.spotify.com/track/2DcrucFg2LOT03osZQ2rkX) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Bring Me Fire EP](https://open.spotify.com/album/6NKHZlMaaSlR8ToHZSGS4K) | 3:41 |
-| 46 | [Distorted Reality](https://open.spotify.com/track/4FJTgL8CuntIAJbcclrQ5c) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Distorted Reality](https://open.spotify.com/album/4O4jPcQKhOyTRnprLbPjo0) | 2:57 |
+| 46 | [Distorted Reality](https://open.spotify.com/track/4fu8Dan6GErY95uSUKa4n7) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Distorted Reality](https://open.spotify.com/album/4saVRHVbHKyK2kWOt2e6Ix) | 2:57 |
 | 47 | [Like An Old Dog \- Enrico Sangiuliano Remix](https://open.spotify.com/track/02juAgzBtqbe2r0OJOTLLD) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Pixx](https://open.spotify.com/artist/6QDPfX2YaZAGJnhpClg8Jo), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Like An Old Dog \(Enrico Sangiuliano Remix\)](https://open.spotify.com/album/0urbEfySrOpOBUz2rrSZc0) | 8:03 |
 | 48 | [Back To Earth \- Rave Mix](https://open.spotify.com/track/13wGULWSLE2VjE1VXAOny8) | [Yves Deruyter](https://open.spotify.com/artist/0jKR1DdWGSZB2hYgJq82qt) | [2001](https://open.spotify.com/album/1Wuffc9B0PQ3THntefTq6y) | 6:30 |
 | 49 | [My Cosmos Is Mine \- ANNA Remix](https://open.spotify.com/track/3K86NkImdmjzBYZamJvx4T) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [My Cosmos Is Mine \(ANNA Remix\)](https://open.spotify.com/album/4uRqaAA83DA9CumodHfGW7) | 8:01 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 68 | [Hick \- Pan\-Pot Remix](https://open.spotify.com/track/5sGtHaUKoaGlp68uEp7oz6) | [Namito](https://open.spotify.com/artist/6E8wYeE1CsvOUO031l9QGJ), [Rainer Weichhold](https://open.spotify.com/artist/5ZZEDlsQsxJqj2svh4GqZD), [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [Hick \(Pan\-Pot Remix\)](https://open.spotify.com/album/6fthnKNuVFdWZOhFFlRJEK) | 6:40 |
 | 69 | [The Beat Just Goes Straight on and On](https://open.spotify.com/track/0UOdOG9XKi7gpAD72fZo1q) | [Perry & Rhodan](https://open.spotify.com/artist/7eyhmCn1XGDpFbrWkQMXhK) | [The Beat Just Goes Straight on and On](https://open.spotify.com/album/43e0TVbRqCaVKIBnA6xqPE) | 9:53 |
 
-Snapshot ID: `MCxmNzllYjM4YTlmNGIxOGVkYTkxZDI5ZGJiYzkwODI2YmFmYWZmNzBi`
+Snapshot ID: `MCxjZjI2Yzg0YWVhYTNiNDIxYjkzYmVlN2Y0ZTU3NTc0MGM0NTM4OTJi`

@@ -5222,7 +5222,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 234795,
       "name": "Kill Scene",
       "url": "https://open.spotify.com/track/43OTFEQhNQTs2twZdn8jjt"
@@ -5714,7 +5714,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 228320,
       "name": "Lost Map / The Hawk",
       "url": "https://open.spotify.com/track/6NdyROBkv44qzVCOjhci0s"
@@ -8074,7 +8074,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 274800,
       "name": "Shadows (The Light of Light)",
       "url": "https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv"
@@ -11012,6 +11012,28 @@
       "duration_ms": 322948,
       "name": "Walking Through Still Air",
       "url": "https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl"
+    },
+    {
+      "album": {
+        "name": "Water Clouds",
+        "url": "https://open.spotify.com/album/5vKRTEFZDOcVu9S6ajbITr"
+      },
+      "artists": [
+        {
+          "name": "Ambientalism",
+          "url": "https://open.spotify.com/artist/4rwMxvmELuGbLePAk8mQTo"
+        },
+        {
+          "name": "Stefan Mothander",
+          "url": "https://open.spotify.com/artist/72160CrjhDfjsUBloT0qD6"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174757,
+      "name": "Water Clouds",
+      "url": "https://open.spotify.com/track/2NGeFmnL7drQUfgOdCkQMf"
     },
     {
       "album": {

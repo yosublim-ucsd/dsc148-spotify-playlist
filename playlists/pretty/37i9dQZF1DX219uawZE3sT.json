@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 131763,
+  "num_followers": 131878,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGVhYTAyNDk2MTRhMDk1YjNmMTg3N2MzODk4MmNmN2FjZTEzYjU2",
+  "snapshot_id": "MCwxNGI4NGY2YjE5YTIyZDkwOTE2YjJjYzkxNzgyMmU2NTg1NDM0OWQy",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "La vida es... Amor sincero",
-        "url": "https://open.spotify.com/album/3LiUITjrr8pxbeejKsgF5u"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        }
-      ],
-      "duration_ms": 226433,
-      "name": "Amor sincero",
-      "url": "https://open.spotify.com/track/4OPLeqfkiSm5tLz9A6Rst4"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Original Masters",
         "url": "https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 210333,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/16xce8lPlKNdhbPbJFxMne"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 229194,
+      "name": "Por Amarte (Destilando Amor)",
+      "url": "https://open.spotify.com/track/3EVVkNVaZoEwS2C4xntDJX"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Enamorado",
-        "url": "https://open.spotify.com/album/16xce8lPlKNdhbPbJFxMne"
+        "name": "La vida es... Amor sincero",
+        "url": "https://open.spotify.com/album/3LiUITjrr8pxbeejKsgF5u"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
         }
       ],
-      "duration_ms": 229194,
-      "name": "Por Amarte (Destilando Amor)",
-      "url": "https://open.spotify.com/track/3EVVkNVaZoEwS2C4xntDJX"
+      "duration_ms": 226433,
+      "name": "Amor sincero",
+      "url": "https://open.spotify.com/track/4OPLeqfkiSm5tLz9A6Rst4"
     },
     {
       "added_at": "2022-05-06 18:32:26",

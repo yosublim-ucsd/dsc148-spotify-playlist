@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,499 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,650 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 28 | [Never Love You Again](https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Never Love You Again](https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ) | 3:11 |
 | 29 | [New Rules \- KREAM Remix](https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [New Rules \(Remixes\)](https://open.spotify.com/album/2BbQVcYZkoFpz2A60NAa9v) | 4:40 |
 | 30 | [Ruin My Life \- Steve James Remix](https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Steve James](https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY) | [Ruin My Life \(Remixes\)](https://open.spotify.com/album/6rWRg6yLGcLdG0IRaCB9LN) | 2:57 |
-| 31 | [Your Side Of The Bed \- Steve Reece Remix](https://open.spotify.com/track/5yX3kZyw1nM14mRiZO1Irb) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [Steve Reece](https://open.spotify.com/artist/1DQB6eOgTQ8NogvA5C3xYM) | [Your Side Of The Bed \(Remixes\)](https://open.spotify.com/album/52N7HDRAFmmcRlZWHbJXKO) | 2:42 |
-| 32 | [Anti\-Hero \- Jayda G Remix](https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Anti\-Hero \(Remixes\)](https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA) | 3:35 |
+| 31 | [Anti\-Hero \- Jayda G Remix](https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Anti\-Hero \(Remixes\)](https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA) | 3:35 |
+| 32 | [Your Side Of The Bed \- Steve Reece Remix](https://open.spotify.com/track/5yX3kZyw1nM14mRiZO1Irb) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [Steve Reece](https://open.spotify.com/artist/1DQB6eOgTQ8NogvA5C3xYM) | [Your Side Of The Bed \(Remixes\)](https://open.spotify.com/album/52N7HDRAFmmcRlZWHbJXKO) | 2:42 |
 | 33 | [Castles \- Sam Feldt Remix](https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Castles \(Sam Feldt Remix\)](https://open.spotify.com/album/6ruvuVGAWDMD94djRnP7Mh) | 3:24 |
 | 34 | [Made You Look \- Joel Corry Remix](https://open.spotify.com/track/5ZU8mWLqPz8KqBe6bXqrPe) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Made You Look \(Joel Corry Remix\)](https://open.spotify.com/album/3LsHvwXaJGjAyAwWawRPZ2) | 3:03 |
 | 35 | [10:35 \(feat\. Tate McRae\) \- Joel Corry Remix](https://open.spotify.com/track/6HJTudh3Zd7WfxJHOHsvDB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35 \(feat\. Tate McRae\) \[The Remixes\]](https://open.spotify.com/album/3das2a1AZx2zx9HfBwIwWo) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [This Is Me \- Dave Audé Remix; from "The Greatest Showman"](https://open.spotify.com/track/1NNhZKNrg8WVmU6Ok8TDtO) | [Keala Settle](https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS), [The Greatest Showman Ensemble](https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [This Is Me \(Dave Audé Remix; from "The Greatest Showman"\)](https://open.spotify.com/album/1bbOecKvywdyRfSBxKbbCO) | 3:36 |
 | 50 | [Thursday \- Nicky Romero Remix](https://open.spotify.com/track/7r4nPsLToVIPdsiEeZKF6Y) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Thursday \(Nicky Romero Remix\)](https://open.spotify.com/album/0PMD7JbA1zLWuiC4ikRYxR) | 3:37 |
 
-Snapshot ID: `MCwxMzg1ZTgxNTBkOGY5M2YyNTIxMTYwNmQ3NTcwZWM5ZTljN2RjYTFm`
+Snapshot ID: `MCwzN2I4MmU4N2U1NWFjZGQ5NDI2ODJkMTA1OTY1ZmZlZjc2ZjYwZjVl`

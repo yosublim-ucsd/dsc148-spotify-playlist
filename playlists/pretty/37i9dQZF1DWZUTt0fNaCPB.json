@@ -1,12 +1,12 @@
 {
   "description": "No need for a gadget, just play these rock songs to set your pace!",
-  "num_followers": 1044522,
+  "num_followers": 1044851,
   "original_name": "Running to Rock 170-190 BPM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzhmYjFjOTIwZTg3OWQxYmYxMzdlOTkxZjg3ODdjNzVmZmVkMWUw",
+  "snapshot_id": "MCxlYWRmYWJmZDNjNzc5MjRjZTM5MDAxOTk4NThiZTRjZjA5MDhiODVj",
   "tracks": [
     {
       "added_at": "2023-10-05 07:52:34",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-10-05 07:52:34",
       "album": {
-        "name": "Vulgar Display of Power",
-        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 315120,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
-    },
-    {
-      "added_at": "2023-10-05 07:52:34",
-      "album": {
         "name": "Metallica (Remastered)",
         "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 331560,
       "name": "Enter Sandman (Remastered)",
       "url": "https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"
+    },
+    {
+      "added_at": "2023-10-05 07:52:34",
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 315120,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
     },
     {
       "added_at": "2023-10-05 07:52:34",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-10-05 07:52:34",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 233079,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq"
-    },
-    {
-      "added_at": "2023-10-05 07:52:34",
-      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 247373,
       "name": "Black Wedding (feat. Rob Halford)",
       "url": "https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY"
+    },
+    {
+      "added_at": "2023-10-05 07:52:34",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 233079,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq"
     },
     {
       "added_at": "2023-10-05 07:52:34",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-10-05 07:52:34",
       "album": {
-        "name": "Vengeance Falls (Special Edition)",
-        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 269266,
-      "name": "Strife",
-      "url": "https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0"
-    },
-    {
-      "added_at": "2023-10-05 07:52:34",
-      "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
         "url": "https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 246209,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/0kojHHbvGRsukpU78OBfQY"
+    },
+    {
+      "added_at": "2023-10-05 07:52:34",
+      "album": {
+        "name": "Vengeance Falls (Special Edition)",
+        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 269266,
+      "name": "Strife",
+      "url": "https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0"
     },
     {
       "added_at": "2023-10-05 07:52:34",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-10-05 07:52:34",
       "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/7BXbyT2VJgiD6eYLPJrsJp"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 209703,
+      "name": "Sham Pain",
+      "url": "https://open.spotify.com/track/3MnYJuv8ogYrBkBb3XWdTQ"
+    },
+    {
+      "added_at": "2023-10-05 07:52:34",
+      "album": {
         "name": "Blue Collar Revolver",
         "url": "https://open.spotify.com/album/39zrUrsdRQdUlGx3Y9CUaV"
       },
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2023-10-05 07:52:34",
       "album": {
-        "name": "And Justice for None (Deluxe)",
-        "url": "https://open.spotify.com/album/7BXbyT2VJgiD6eYLPJrsJp"
+        "name": "Feel The Steel",
+        "url": "https://open.spotify.com/album/4SICJohKsdlQS3AW3Spg84"
       },
       "artists": [
         {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+          "name": "Steel Panther",
+          "url": "https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv"
         }
       ],
-      "duration_ms": 209703,
-      "name": "Sham Pain",
-      "url": "https://open.spotify.com/track/3MnYJuv8ogYrBkBb3XWdTQ"
+      "duration_ms": 216973,
+      "name": "Eyes Of A Panther",
+      "url": "https://open.spotify.com/track/1iWLoUrmSLht6keK0436jK"
     },
     {
       "added_at": "2023-10-05 07:52:34",
@@ -1163,22 +1179,6 @@
       "duration_ms": 253445,
       "name": "Cross Off",
       "url": "https://open.spotify.com/track/3EAeH1G0BoxQIX8SmgjqAy"
-    },
-    {
-      "added_at": "2023-10-05 07:52:34",
-      "album": {
-        "name": "Feel The Steel",
-        "url": "https://open.spotify.com/album/4SICJohKsdlQS3AW3Spg84"
-      },
-      "artists": [
-        {
-          "name": "Steel Panther",
-          "url": "https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Eyes Of A Panther",
-      "url": "https://open.spotify.com/track/1iWLoUrmSLht6keK0436jK"
     },
     {
       "added_at": "2023-10-05 07:52:34",

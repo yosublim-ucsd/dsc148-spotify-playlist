@@ -1508,10 +1508,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 280974,
       "name": "Ye Ishq Hai",
       "url": "https://open.spotify.com/track/4BiPsAV070dg3eLSVf727A"
+    },
+    {
+      "album": {
+        "name": "Best Of Shreya Ghoshal",
+        "url": "https://open.spotify.com/album/4WELDMV021TUCe87ryn25t"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280974,
+      "name": "Ye Ishq Hai (From \"Jab We Met\")",
+      "url": "https://open.spotify.com/track/1UHVj0W8BRn08AXvWcv8i6"
     },
     {
       "album": {

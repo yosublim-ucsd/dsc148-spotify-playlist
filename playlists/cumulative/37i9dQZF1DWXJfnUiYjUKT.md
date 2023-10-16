@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Bad Bunny
 
-9,147 songs - 20 day 2 hr 24 min
+9,148 songs - 20 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2098,7 +2098,8 @@
 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:23 | 2023-04-14 | 2023-04-22 |
 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 | 2022-02-04 | 2022-02-11 |
 | [Do What I Want](https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Do What I Want](https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO) | 2:51 | 2022-06-09 | 2022-06-18 |
-| [Do You](https://open.spotify.com/track/0eHLd2rwOakcEiFwG0SztP) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Do You](https://open.spotify.com/album/3TA7Hh96OwARzUgw71ZcaO) | 4:08 | 2023-10-13 |  |
+| [Do You](https://open.spotify.com/track/0eHLd2rwOakcEiFwG0SztP) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Do You](https://open.spotify.com/album/3TA7Hh96OwARzUgw71ZcaO) | 4:08 | 2023-10-13 | 2023-10-16 |
+| [Do You](https://open.spotify.com/track/2tO1RrlOXyZAMqB0wDybXf) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd) | 4:08 | 2023-10-13 |  |
 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-01-27 | 2023-02-04 |
 | [Do You Like That?](https://open.spotify.com/track/4iPDeH7j5ukp65ru6Vf7OQ) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Do You Like That?](https://open.spotify.com/album/1godwceDz9lC2nR3euqNmz) | 2:17 | 2023-08-18 | 2023-08-26 |
 | [Do You Love Me? \(feat\. Lil Tjay\)](https://open.spotify.com/track/50IvZsOmgJvxjpELTWFaMa) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Do You Love Me? \(feat\. Lil Tjay\)](https://open.spotify.com/album/4zfoWbjbK5uWArDGCbElnp) | 3:10 | 2023-02-24 | 2023-03-04 |

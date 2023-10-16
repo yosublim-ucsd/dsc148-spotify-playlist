@@ -314,7 +314,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 160353,
       "name": "1000 lat",
       "url": "https://open.spotify.com/track/0utuBTWxhsv4abdCVOt76u"
@@ -8250,7 +8250,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 119120,
       "name": "ecstacy (slowed)",
       "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
@@ -11948,7 +11948,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 168351,
       "name": "Jakbym zjad\u0142 mentosy i popi\u0142 je col\u0105",
       "url": "https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa"
@@ -13460,7 +13460,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 166611,
       "name": "Kinderki",
       "url": "https://open.spotify.com/track/1yZlFDQm7JGFxyZQjZpCyo"
@@ -14090,7 +14090,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 183503,
       "name": "Krakowski Spleen",
       "url": "https://open.spotify.com/track/63NqA1azM8ogGsJa7tFCRg"
@@ -17146,7 +17146,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 188080,
       "name": "Mo\u017ce To Co\u015b Zmieni?",
       "url": "https://open.spotify.com/track/13G5bpGzFMaqx2mYPvbjHC"
@@ -19036,7 +19036,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 153939,
       "name": "N\u00d3\u017b",
       "url": "https://open.spotify.com/track/08rZCN2J2ELhooLqm9wB6i"
@@ -20800,6 +20800,32 @@
       "duration_ms": 178862,
       "name": "Parostatek",
       "url": "https://open.spotify.com/track/1X60z5rwi3IkF5wVtmyjZY"
+    },
+    {
+      "album": {
+        "name": "Pasek Gucci - La La La (Majki Remix)",
+        "url": "https://open.spotify.com/album/0QoeTCHq29K7kQ2fSYhRiX"
+      },
+      "artists": [
+        {
+          "name": "Majki",
+          "url": "https://open.spotify.com/artist/3e8V8NqZf6jsUjDEI6rwst"
+        },
+        {
+          "name": "Lar\u00ed",
+          "url": "https://open.spotify.com/artist/48f7CfN9EfY94drMaTmRJa"
+        },
+        {
+          "name": "Mario Dracula",
+          "url": "https://open.spotify.com/artist/5mYn4D8tDzqfuxbJbtCC9y"
+        }
+      ],
+      "date_added": "2023-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157104,
+      "name": "Pasek Gucci - La La La - Majki Remix",
+      "url": "https://open.spotify.com/track/4qKEuYY93wCOWaqHky7dM7"
     },
     {
       "album": {

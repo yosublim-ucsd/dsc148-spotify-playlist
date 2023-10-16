@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-488 songs - 1 day 7 hr 21 min
+489 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [A Smile on Your Face](https://open.spotify.com/track/3Eq2oTBtcGjEBgMCpO9QWx) | [Sophie Lemon Jazz](https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON) | [A Smile on Your Face](https://open.spotify.com/album/7EA2XJpF3Jy2LmqmRf6DNc) | 4:45 | 2022-02-15 |  |
 | [A Time For Love](https://open.spotify.com/track/1lj6MFAyOG9mlwmp0EkBAF) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 5:08 | 2020-10-20\* |  |
 | [A Time for Love](https://open.spotify.com/track/2PxYJDohsBXaBLByHBITp5) | [Peter Rostov Trio](https://open.spotify.com/artist/6fbkQAxn9Df2sZWwuYQ820) | [A Portrait of Jennie](https://open.spotify.com/album/1UahARgInHkxb4fqm8455I) | 3:48 | 2020-10-20\* | 2020-11-18 |
+| [Adagio](https://open.spotify.com/track/52wEWSEvL2a08E7wRXSrbY) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [Adagio](https://open.spotify.com/album/2pY74KxhJHuvFtI3QXlrtE) | 2:56 | 2023-10-13 |  |
 | [After You've Gone](https://open.spotify.com/track/1nCak4c8NFMJosxYkDZY2t) | [Bleecker Jazz Duo](https://open.spotify.com/artist/1fjtfjgiQ6dp0HhJdULJbQ) | [Here's That Rainy Day](https://open.spotify.com/album/5v5UCmE3YVNgLbQs8WFNfs) | 3:19 | 2020-10-20\* | 2022-09-16 |
 | [After You've Gone](https://open.spotify.com/track/7If1cSPSy5zpDFxNTYzHRs) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [After You've Gone](https://open.spotify.com/album/2xWwdUCyFng2oWhP6MeuUy) | 2:42 | 2023-04-20 |  |
 | [After You've Gone](https://open.spotify.com/track/1dtR7BTT8888rsckbuzwod) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [After You've Gone](https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i) | 3:04 | 2020-10-20\* | 2021-01-21 |
@@ -343,7 +344,7 @@
 | [Search For Peace](https://open.spotify.com/track/41pWty3Q37WlXCcXW4KfOA) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Search For Peace](https://open.spotify.com/album/0mUxdj9cQf9wZMOr5Ordnc) | 5:06 | 2023-01-05 |  |
 | [Search For Peace](https://open.spotify.com/track/7J5rDtw1PoPvSdOMk4Pegu) | [Smokey's Jazz Trio](https://open.spotify.com/artist/3GeyvENO5rRkyhTImJ1H3C) | [Sonnymoon For Two](https://open.spotify.com/album/0CUYaMvduM11muV7KmZEj8) | 5:42 | 2020-10-20\* | 2021-02-04 |
 | [Secret Love](https://open.spotify.com/track/3Po01JZTAgyiiFN6YW6Ehe) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Secret Love](https://open.spotify.com/album/58Eoe9FBSmruSNd9NfFk89) | 3:24 | 2020-10-20\* | 2020-11-25 |
-| [Secret Love](https://open.spotify.com/track/5IzJev1UfE4EKR0hnAhJJB) | [Sunshine Williams](https://open.spotify.com/artist/3HnqHjANigMf83FnZzXYbV) | [Secret Love](https://open.spotify.com/album/5lTOhWxMKBWP6jtSICnnAi) | 4:11 | 2020-10-20\* |  |
+| [Secret Love](https://open.spotify.com/track/5IzJev1UfE4EKR0hnAhJJB) | [Sunshine Williams](https://open.spotify.com/artist/3HnqHjANigMf83FnZzXYbV) | [Secret Love](https://open.spotify.com/album/5lTOhWxMKBWP6jtSICnnAi) | 4:11 | 2020-10-20\* | 2023-10-16 |
 | [See my point?](https://open.spotify.com/track/54Uz34WkQEC6peSFGj6inG) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [See my point?](https://open.spotify.com/album/6P5DXnehRkPNxSDgQetOvo) | 2:33 | 2023-09-22 |  |
 | [Send In the Clowns](https://open.spotify.com/track/6GiLNoFv4qkFEuqKpRWPgI) | [Michael Soriano Trio](https://open.spotify.com/artist/5vKwY2dJOzJUHjAZnL1D9F) | [Ain't Misbehavin'](https://open.spotify.com/album/5HcHDFMug9VdhA1bYXQiXe) | 3:26 | 2020-11-18 | 2020-12-09 |
 | [September in the Rain](https://open.spotify.com/track/7u21y9GiZwaBvqtOeNqh3t) | [Francesca Marr](https://open.spotify.com/artist/1eq350rdehuYyP5bQCAoEd) | [Peace](https://open.spotify.com/album/6KUjUDDb3AEXXFPeXyzy6b) | 3:22 | 2020-10-20\* | 2021-01-21 |

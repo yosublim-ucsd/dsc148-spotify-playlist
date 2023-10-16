@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,622 likes - 140 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,660 likes - 140 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 79 | [Ironicamente](https://open.spotify.com/track/2OYviBda4XbDw8VaFMCv1T) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [No Cutty](https://open.spotify.com/artist/1Z3YNZcUqXypOajb1Y7naJ) | [Ironicamente](https://open.spotify.com/album/0q0t9DKcVtn2UGIGQMaA3I) | 2:44 |
 | 80 | [Naakay](https://open.spotify.com/track/2mB3SEFZ883snaGO1lVGmA) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Naakay](https://open.spotify.com/album/2Ql9w0m7BgXs69T6yZrIDb) | 2:38 |
 | 81 | [I Don't Like You](https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [I Don’t Like You](https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t) | 2:31 |
-| 82 | [Titli](https://open.spotify.com/track/1B7gF6U1VqiZ1K3sK9YhdI) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Pranay Parti](https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy) | [Titli](https://open.spotify.com/album/5U88eg0vPC1N9GbdQ9MsUG) | 2:35 |
+| 82 | [Titli](https://open.spotify.com/track/5E7uvya2x1TC3C06GrOdNz) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Pranay Parti](https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy) | [Titli](https://open.spotify.com/album/2JjeKPxWPhbecFf1xqVHWc) | 2:35 |
 | 83 | [Per sentirsi meno soli](https://open.spotify.com/track/23C3f0TckAwl0PFWXqDDKz) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [FIAT131](https://open.spotify.com/artist/517LowCOyXMoAyEYVK3nuA), [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Per sentirsi meno soli](https://open.spotify.com/album/3wy8IYXn4kEco6DoCn0imf) | 2:10 |
 | 84 | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9) | 3:04 |
 | 85 | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/track/22Nd3GuO7sHopPjdKccRcq) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/album/0FRaoawfqep3bJcCqcQZpD) | 2:38 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 139 | [Amore&casino](https://open.spotify.com/track/4cz1tnar27zWx8H56ASrd6) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Amore&casino](https://open.spotify.com/album/3sNEQxM6ZYqeEScouZ1733) | 2:41 |
 | 140 | [台北宵夜指南](https://open.spotify.com/track/0eLiTFv7m8O6ScxJVQZyCR) | [胡家誠](https://open.spotify.com/artist/200pQawht4r55tBNrWTVpx) | [台北宵夜指南](https://open.spotify.com/album/0g6Hzc1A6nAOAloMQtUDPn) | 3:44 |
 
-Snapshot ID: `MCxkN2NlMzcwZTU5NGM2YzBhMzQ1NmQ3ZTRlM2RmMWZjNWI5NmI4NTU1`
+Snapshot ID: `MCwyYTYzNWI3NDJmOTBiOGU5NjJhZmIwZmRlNDNmMGMzZmQzNWEzMTY1`

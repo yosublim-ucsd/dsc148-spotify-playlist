@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: JAMIE WEBSTER
 
-169 songs - 9 hr 47 min
+170 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Come Over](https://open.spotify.com/track/18ZevcdeL1RTvZ17JXJpO3) | [Dirty Blonde](https://open.spotify.com/artist/2DgztFhlbYMAJ5JNxTjuhc) | [Come Over](https://open.spotify.com/album/19Q2mYMVQ6hRZRBcmb27jw) | 3:26 | 2023-02-24 | 2023-06-10 |
 | [Come Over](https://open.spotify.com/track/3fyIwr5p1pZ4uPpUrGETLN) | [Dirty Blonde](https://open.spotify.com/artist/2DgztFhlbYMAJ5JNxTjuhc) | [Come Over](https://open.spotify.com/album/6UzUGO9oaMhbekhTHgsw2Q) | 3:26 | 2023-07-28 | 2023-09-20 |
 | [Day Glow](https://open.spotify.com/track/6re1o3rJ5vUZ97HqArXQLa) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Sick Moon](https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd) | 4:31 | 2023-01-10 | 2023-06-08 |
+| [Dead Poets Society](https://open.spotify.com/track/5pEkbTefFUglGrPafVSfID) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Dead Poet's Society](https://open.spotify.com/album/4Q8Pw2jPx10y7QvWPAMPbm) | 3:43 | 2023-09-19 |  |
 | [Diamond In The Dark](https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [C’MON YOU KNOW \(Deluxe Edition\)](https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY) | 3:24 | 2023-01-10 |  |
 | [Diet Punk](https://open.spotify.com/track/1rg7OEOIihiD8Z9axh67lc) | [Voodoo Bandits](https://open.spotify.com/artist/5jaClKmRitBOsYw3iOIo1T) | [Diet Punk](https://open.spotify.com/album/5rqeXp9HmqVftmLLjqrWBR) | 3:04 | 2023-02-24 | 2023-09-22 |
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2023-06-13 | 2023-07-29 |
@@ -83,7 +84,7 @@
 | [I Need Ya](https://open.spotify.com/track/5BYoZQEbn9MO3RrMUSV4DD) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [I Need Ya](https://open.spotify.com/album/3DIpkDJyTlnQWH9ToRjjtm) | 3:05 | 2023-01-10 | 2023-02-24 |
 | [I Never Wanted to Be Alone \(F\*\*king Feelings\)](https://open.spotify.com/track/749rpRQcFBB6PNwJ2dPOFJ) | [EEVAH](https://open.spotify.com/artist/3yJNIN3Ih9pFuG4cgfzCRL) | [I Never Wanted to Be Alone \(F\*\*king Feelings\)](https://open.spotify.com/album/0qHNSAOgpd7YC7pxl34L8t) | 3:29 | 2023-03-31 | 2023-06-08 |
 | [I'm a Liar](https://open.spotify.com/track/3NIphGz3IOMMasC5H3pary) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Shaking Hips and Crashing Cars](https://open.spotify.com/album/2njNFU26P0YiMlqzO77SH5) | 3:39 | 2023-07-11 |  |
-| [I'm Feeling it now](https://open.spotify.com/track/2cKCMoQu3dQ6y5QfT8rKRn) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN), [Jess Newby](https://open.spotify.com/artist/4nfz2i8X2cCmxBW6IuLh84) | [I'm Feeling It Now](https://open.spotify.com/album/3ax5xlVUZA8d67OIjx31px) | 3:03 | 2023-07-11 |  |
+| [I'm Feeling it now](https://open.spotify.com/track/2cKCMoQu3dQ6y5QfT8rKRn) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN), [Jess Newby](https://open.spotify.com/artist/4nfz2i8X2cCmxBW6IuLh84) | [I'm Feeling It Now](https://open.spotify.com/album/3ax5xlVUZA8d67OIjx31px) | 3:03 | 2023-07-11 | 2023-10-16 |
 | [If You Wanna](https://open.spotify.com/track/600a14WIlxMRKPn5DlSC6m) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [If You Wanna](https://open.spotify.com/album/3qq71MqRsuDFptNY9VeEAB) | 2:48 | 2023-09-19 |  |
 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/4rd7dRScIJePZmZsHpDHRP) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [If You’re Gonna Break My Heart](https://open.spotify.com/album/0HINCw0Pfo7xmGaMTXS51l) | 4:26 | 2023-02-03 |  |
 | [IN & OUT](https://open.spotify.com/track/5DOnhg0ICVjTw8kWiPPzew) | [Cortney Dixon](https://open.spotify.com/artist/1KyaMEHOakwjwLlLYorYYp) | [IN & OUT](https://open.spotify.com/album/1kEw4BEDtEcpqcIX7bb0ul) | 2:56 | 2023-07-28 | 2023-09-24 |

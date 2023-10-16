@@ -4,7 +4,7 @@
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-124 songs - 8 hr 37 min
+125 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Kiss the Sun](https://open.spotify.com/track/5tCIFJpunFfqaO0ePThVAB) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Shadow Effect](https://open.spotify.com/album/2YAcYDJt8KOSKbU4JoHBFJ) | 4:21 | 2022-10-04 | 2023-03-08 |
 | [Koakuma LOVE](https://open.spotify.com/track/1dkFzcQjaw7YkPT83raO3j) | [Shizuku Osaka \(CV: Kaori Maeda\)](https://open.spotify.com/artist/0wr7BgwyUkizi1cVYkzxk7) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 4:02 | 2023-10-03 |  |
 | [Kofukuron](https://open.spotify.com/track/05DZPBOfAqqdywyCX33yh1) | [Shioriko Mifune \(CV: Moeka Koizumi\)](https://open.spotify.com/artist/3hVNHMjYAkdcgYgqxXy1G3) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 4:20 | 2023-10-03 |  |
+| [Koi suru Sunflower](https://open.spotify.com/track/6EZh8cPpNHziHLXLYDkTop) | [Emma Verde \(CV: Maria Sashide\)](https://open.spotify.com/artist/2cRVn1Af4mx2CetuF8MPRR) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 4:27 | 2023-10-03 |  |
 | [L!L!L! \(Love the Life We Live\)](https://open.spotify.com/track/7H91X8TmZl9weVsHu15ya1) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [L!L!L! \(Love the Life We Live\)](https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i) | 4:09 | 2022-06-25 | 2022-07-28 |
 | [La Bella Patria](https://open.spotify.com/track/69atMEFeZrTfe8WNSyLFFG) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [サイコーハート / La Bella Patria / ツナガルコネクト \(宮下 愛盤\)](https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn) | 4:46 | 2022-06-25 | 2022-07-27 |
 | [La Bella Patria](https://open.spotify.com/track/7v9ASjKZTsEnwZ6408scOv) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [サイコーハート / La Bella Patria / ツナガルコネクト \(天王寺璃奈盤\)](https://open.spotify.com/album/7KjQ0RvxpgVELdpiIOkCSv) | 4:46 | 2022-06-25 | 2022-07-26 |
@@ -54,7 +55,7 @@
 | [Love U my friends](https://open.spotify.com/track/3obgNWJjhn2P4X1jf69HoK) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 3:59 | 2022-06-25 | 2022-07-29 |
 | [Margaret](https://open.spotify.com/track/2dIwAYBeMTnszZIQzDQrXM) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:18 | 2022-06-25 | 2022-07-25 |
 | [Maze Town](https://open.spotify.com/track/1O0qkxcLuuYAaJSVt6PGub) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Maze Town](https://open.spotify.com/album/3i9uf3RVCqzIvj0Msc7zIv) | 4:23 | 2022-06-25 | 2022-07-28 |
-| [Maze Town](https://open.spotify.com/track/1aLfZSKp44prkEYIGpWM63) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Maze Town](https://open.spotify.com/album/1xhku0K709SOBcrqqz3LmB) | 4:23 | 2022-07-26 |  |
+| [Maze Town](https://open.spotify.com/track/1aLfZSKp44prkEYIGpWM63) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Maze Town](https://open.spotify.com/album/1xhku0K709SOBcrqqz3LmB) | 4:23 | 2022-07-26 | 2023-10-16 |
 | [MELODY](https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC) | [優木せつ菜 \(CV.楠木ともり\)](https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 4:29 | 2022-06-25 |  |
 | [MONSTER GIRLS](https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs) | [R3BIRTH](https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG) | [MONSTER GIRLS](https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi) | 3:56 | 2022-06-25 | 2022-07-29 |
 | [MONSTER GIRLS](https://open.spotify.com/track/6ZGnmaySGGk2pcprMoBX73) | [R3BIRTH](https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 3:56 | 2022-07-26 |  |

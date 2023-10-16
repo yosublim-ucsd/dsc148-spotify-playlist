@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,842 likes - 64 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,893 likes - 64 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 | 52 | [20 Hz](https://open.spotify.com/track/1ndmrtMTVTFLRYb0RPo36k) | [Capricorn](https://open.spotify.com/artist/27kBITGF0FaikAGzLhGS3l) | [20 Hz](https://open.spotify.com/album/5ncryb8nwQ3mxE84Jha93X) | 6:48 |
 | 53 | [The Siren](https://open.spotify.com/track/0Oa28vZJYTvMCzVTxX7bdY) | [Filterheadz](https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit) | [Waveriders EP](https://open.spotify.com/album/38r01VO4vB927FYxYjXtTz) | 6:41 |
 | 54 | [Light of the Universe \(lofi version\)](https://open.spotify.com/track/2XClqZFy6LV51fDf5b7NC2) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Light of the Universe](https://open.spotify.com/album/5yTwUr6JPFUkAbZeJF1k37) | 3:44 |
-| 55 | [My Head Is On Fire](https://open.spotify.com/track/22YNTCWbJaMbTw6SrnQuDp) | [Coyu](https://open.spotify.com/artist/5cKSSXjPNJJ6Fkm9sCMplh), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [La CouCou](https://open.spotify.com/artist/2nVcZDji102fL8qWzEuvvq) | [My Head Is On Fire](https://open.spotify.com/album/3JLozfpS3Ke2ty7QqrKAg3) | 6:34 |
+| 55 | [My Head Is On Fire](https://open.spotify.com/track/2Sjco3nua6ICpVbMdYJaDL) | [Coyu](https://open.spotify.com/artist/5cKSSXjPNJJ6Fkm9sCMplh), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [La CouCou](https://open.spotify.com/artist/2nVcZDji102fL8qWzEuvvq) | [My Head Is On Fire](https://open.spotify.com/album/5jHpFB3xo4oDo3BsQP9rK3) | 6:34 |
 | 56 | [Tomahawk](https://open.spotify.com/track/5sV5pp8JDNkh7CGgkRuztg) | [Aitor Ronda](https://open.spotify.com/artist/4Q6FHEKif7t06z6NGujL2D), [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Tomahawk](https://open.spotify.com/album/0CbheLrUB8byLWdFey98ju) | 5:41 |
 | 57 | [Malbiten](https://open.spotify.com/track/4hQN5kvT1djcKlvz9lgSnu) | [Charlie Thorstenson](https://open.spotify.com/artist/4z8CviapCGt8PluR1ORwbH) | [Malbiten EP](https://open.spotify.com/album/1D5WxILmPRYQyottQFjbDO) | 6:48 |
 | 58 | [Emerge \- Radio Edit](https://open.spotify.com/track/1pgjUzLh6CBpepDAB2N5f0) | [Uncertain](https://open.spotify.com/artist/0u1M59PvHe4xP7dhzi2ccm) | [Punish \(Radio Edit\)](https://open.spotify.com/album/56jQtWPz60nhgqMMqU8ZQc) | 4:06 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 | 63 | [Intentionally \- Carl Cox Remix](https://open.spotify.com/track/2CnbcGoBNtbSjgF8pYJ71Y) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Intentionally](https://open.spotify.com/album/6BZvZr6rHBJEOFABiAjqxz) | 6:10 |
 | 64 | [Cluster](https://open.spotify.com/track/2Bjbr5y63hEVubSpfPFbik) | [Cox and Coe](https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Mindset \- EP](https://open.spotify.com/album/13n18iOU6x7D1gmEupfDF4) | 7:37 |
 
-Snapshot ID: `MCw5ZWMxNzBiNzQ4NzkwZDBkYzY0NDM3NTcwM2Q0NTJmMzJiYWNmZjE0`
+Snapshot ID: `MCw5ZWRjZjZlNWQyY2M5NDk4NWFkNGIyNjI3NzNiZjhkZmQxOTIwMzVi`

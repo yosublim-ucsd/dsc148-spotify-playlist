@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 69365,
+  "num_followers": 69446,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjgzNjEzNDRjYzM0YzlhMTljYjI0ZDE0MzRjMjBkZGU3OWFjMTg3",
+  "snapshot_id": "MCw3MGFlNWJiMDNhOGRjNmJiNmNmZjVkYWVkZmU1N2E3ZDNlN2QyNDI1",
   "tracks": [
     {
       "added_at": "2023-09-26 16:36:45",
@@ -835,6 +835,26 @@
     {
       "added_at": "2023-09-26 16:36:45",
       "album": {
+        "name": "Virgulado",
+        "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
+      },
+      "artists": [
+        {
+          "name": "Nino Leone",
+          "url": "https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx"
+        },
+        {
+          "name": "Goodboysut",
+          "url": "https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW"
+        }
+      ],
+      "duration_ms": 127011,
+      "name": "Virgulado - Speed",
+      "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
+    },
+    {
+      "added_at": "2023-09-26 16:36:45",
+      "album": {
         "name": "Luxo & Crime Speed",
         "url": "https://open.spotify.com/album/5gE4qRAOr2KTTqKI3OBOGc"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 140628,
       "name": "Luxo & Crime Speed",
       "url": "https://open.spotify.com/track/5ePLQDDDMDk2iJgJuciFq6"
-    },
-    {
-      "added_at": "2023-09-26 16:36:45",
-      "album": {
-        "name": "Virgulado",
-        "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
-      },
-      "artists": [
-        {
-          "name": "Nino Leone",
-          "url": "https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx"
-        },
-        {
-          "name": "Goodboysut",
-          "url": "https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW"
-        }
-      ],
-      "duration_ms": 127011,
-      "name": "Virgulado - Speed",
-      "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
     },
     {
       "added_at": "2023-09-26 16:36:45",

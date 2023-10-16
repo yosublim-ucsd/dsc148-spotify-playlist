@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 11013,
+  "num_followers": 11019,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTIzN2I4M2QwMTBhYTVhYWM1NDY5M2Q2ZTZkZjg0OGUxZTZiOTM1",
+  "snapshot_id": "MCxkZmRlNzMzNGQzMzc4MWM3NzkyMTYwYTlmMTNiYTg4ZmQ1YjQzZWRk",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -901,7 +901,7 @@
       "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
     },
     {
-      "added_at": "2023-01-12 03:40:17",
+      "added_at": "2023-03-23 21:21:38",
       "album": {
         "name": "Ghost Power",
         "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
         }
       ],
-      "duration_ms": 221893,
-      "name": "Panic In The Isles Of Splendor",
-      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
+      "duration_ms": 221701,
+      "name": "Asteroid Witch",
+      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -967,22 +967,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Stars Are the Light",
-        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
-      },
-      "artists": [
-        {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
-        }
-      ],
-      "duration_ms": 288031,
-      "name": "The World and the Sun",
-      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Boxed In",
         "url": "https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ"
       },
@@ -997,7 +981,23 @@
       "url": "https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT"
     },
     {
-      "added_at": "2023-03-23 21:21:38",
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Stars Are the Light",
+        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
+      },
+      "artists": [
+        {
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+        }
+      ],
+      "duration_ms": 288031,
+      "name": "The World and the Sun",
+      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
+    },
+    {
+      "added_at": "2023-01-12 03:40:17",
       "album": {
         "name": "Ghost Power",
         "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
         }
       ],
-      "duration_ms": 221701,
-      "name": "Asteroid Witch",
-      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
+      "duration_ms": 221893,
+      "name": "Panic In The Isles Of Splendor",
+      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
     },
     {
       "added_at": "2022-03-29 02:06:14",
@@ -1145,6 +1145,22 @@
       "url": "https://open.spotify.com/track/3Lr8LULx6VXGqf3FeiVjC0"
     },
     {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "No Shouts, No Calls",
+        "url": "https://open.spotify.com/album/0l9mVAWNzHKX0B7o9IEIeB"
+      },
+      "artists": [
+        {
+          "name": "Electrelane",
+          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+        }
+      ],
+      "duration_ms": 295026,
+      "name": "To the East",
+      "url": "https://open.spotify.com/track/1OfR8T0YBBwKXxt7nbAJaT"
+    },
+    {
       "added_at": "2023-03-23 21:21:38",
       "album": {
         "name": "L'\u00e9t\u00e9 suivant...",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "No Shouts, No Calls",
-        "url": "https://open.spotify.com/album/0l9mVAWNzHKX0B7o9IEIeB"
-      },
-      "artists": [
-        {
-          "name": "Electrelane",
-          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
-        }
-      ],
-      "duration_ms": 295026,
-      "name": "To the East",
-      "url": "https://open.spotify.com/track/1OfR8T0YBBwKXxt7nbAJaT"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/4bTWH5P6CykNnANLOAzKCR"
       },
@@ -1191,22 +1191,6 @@
       "duration_ms": 311600,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/0McxNzcP8DB1VKDLqZ0T3h"
-    },
-    {
-      "added_at": "2023-04-07 06:00:00",
-      "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z"
-      },
-      "artists": [
-        {
-          "name": "Mirror Revelations",
-          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1227,6 +1211,22 @@
       "duration_ms": 309200,
       "name": "Don't Blow Experiment",
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z"
+      },
+      "artists": [
+        {
+          "name": "Mirror Revelations",
+          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1309,6 +1309,22 @@
       "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
     },
     {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": ">>>",
+        "url": "https://open.spotify.com/album/7FAIwJVREPlHAmqesdOwmn"
+      },
+      "artists": [
+        {
+          "name": "Beak>",
+          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
+        }
+      ],
+      "duration_ms": 231377,
+      "name": "Brean Down",
+      "url": "https://open.spotify.com/track/0LvgkU2tHpdzYUjJ94xYcn"
+    },
+    {
       "added_at": "2022-03-18 05:36:55",
       "album": {
         "name": "Osa Polar",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": ">>>",
-        "url": "https://open.spotify.com/album/7FAIwJVREPlHAmqesdOwmn"
-      },
-      "artists": [
-        {
-          "name": "Beak>",
-          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
-        }
-      ],
-      "duration_ms": 231377,
-      "name": "Brean Down",
-      "url": "https://open.spotify.com/track/0LvgkU2tHpdzYUjJ94xYcn"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Faust IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2yFbw2SIBZ7ExIBRVoFkJJ"
       },
@@ -1355,6 +1355,22 @@
       "duration_ms": 708813,
       "name": "Krautrock - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/0FCeHhtD9n3SFMALs3YXhH"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Ohms",
+        "url": "https://open.spotify.com/album/1uubGVQSGD0SR09BT0unJO"
+      },
+      "artists": [
+        {
+          "name": "Trees Speak",
+          "url": "https://open.spotify.com/artist/7Bw4KOeFdVW8DGMn8OBQB3"
+        }
+      ],
+      "duration_ms": 136426,
+      "name": "State of Clear",
+      "url": "https://open.spotify.com/track/1RpcIabGrqPQQe1jSHwpna"
     },
     {
       "added_at": "2022-11-19 05:33:06",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Ohms",
-        "url": "https://open.spotify.com/album/1uubGVQSGD0SR09BT0unJO"
-      },
-      "artists": [
-        {
-          "name": "Trees Speak",
-          "url": "https://open.spotify.com/artist/7Bw4KOeFdVW8DGMn8OBQB3"
-        }
-      ],
-      "duration_ms": 136426,
-      "name": "State of Clear",
-      "url": "https://open.spotify.com/track/1RpcIabGrqPQQe1jSHwpna"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "F\u00fcr mich",
         "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 566520,
       "name": "F\u00fcr Dich",
       "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Transparent Things",
-        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 250029,
-      "name": "Conductor 71",
-      "url": "https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1455,6 +1439,22 @@
       "duration_ms": 247465,
       "name": "Submarine",
       "url": "https://open.spotify.com/track/7r7xmYxgBhwCDvgKzNwj4p"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Transparent Things",
+        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 250029,
+      "name": "Conductor 71",
+      "url": "https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1569,6 +1569,22 @@
       "url": "https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8"
     },
     {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
+        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
+      },
+      "artists": [
+        {
+          "name": "Kosmischer L\u00e4ufer",
+          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
+        }
+      ],
+      "duration_ms": 386173,
+      "name": "Sandtrommel",
+      "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
+    },
+    {
       "added_at": "2022-01-20 20:59:43",
       "album": {
         "name": "Ecdysis!",
@@ -1587,34 +1603,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
-        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
+        "name": ">>",
+        "url": "https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7"
       },
       "artists": [
         {
-          "name": "Kosmischer L\u00e4ufer",
-          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
+          "name": "Beak>",
+          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
         }
       ],
-      "duration_ms": 386173,
-      "name": "Sandtrommel",
-      "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Interloper",
-        "url": "https://open.spotify.com/album/0xUuUfioatY8J7dbskVOfs"
-      },
-      "artists": [
-        {
-          "name": "Holy Wave",
-          "url": "https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b"
-        }
-      ],
-      "duration_ms": 247900,
-      "name": "I'm Not Living in the Past Anymore",
-      "url": "https://open.spotify.com/track/5yRejM7DqstYjNCtmGsiK1"
+      "duration_ms": 319853,
+      "name": "Yatton",
+      "url": "https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": ">>",
-        "url": "https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7"
+        "name": "Interloper",
+        "url": "https://open.spotify.com/album/0xUuUfioatY8J7dbskVOfs"
       },
       "artists": [
         {
-          "name": "Beak>",
-          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
+          "name": "Holy Wave",
+          "url": "https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b"
         }
       ],
-      "duration_ms": 319853,
-      "name": "Yatton",
-      "url": "https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh"
+      "duration_ms": 247900,
+      "name": "I'm Not Living in the Past Anymore",
+      "url": "https://open.spotify.com/track/5yRejM7DqstYjNCtmGsiK1"
     }
   ],
   "unique_name": "Krautrock Highway",

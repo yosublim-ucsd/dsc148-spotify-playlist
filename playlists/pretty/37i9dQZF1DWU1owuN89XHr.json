@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 267677,
+  "num_followers": 267729,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjk4ZTdhYWU5YTY3YTVlYTQxMmUwZjU2YThkYzU3ODU4ZDk1Y2Yy",
+  "snapshot_id": "MCxhZjIzZWVkZTcwMzI4NzVkY2Q5YTA5ODFhZGE1NmI3ZmViYjcwOGM2",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -407,18 +407,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/34d1lw7j4LCD3scXgUN8kN"
+        "name": "De Carne y Hueso",
+        "url": "https://open.spotify.com/album/5vhobYClzYYgOR8FCd9Uj8"
       },
       "artists": [
         {
-          "name": "Carlos Carreira",
-          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
         }
       ],
-      "duration_ms": 216520,
-      "name": "Jur\u00e9",
-      "url": "https://open.spotify.com/track/2k3UGlRomFp8jl5dZUmqMX"
+      "duration_ms": 261493,
+      "name": "Kil\u00f3metros de Cielo",
+      "url": "https://open.spotify.com/track/6UrLQTasnzlYYKo0U5IICp"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -455,18 +455,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "De Carne y Hueso",
-        "url": "https://open.spotify.com/album/5vhobYClzYYgOR8FCd9Uj8"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/34d1lw7j4LCD3scXgUN8kN"
       },
       "artists": [
         {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+          "name": "Carlos Carreira",
+          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
         }
       ],
-      "duration_ms": 261493,
-      "name": "Kil\u00f3metros de Cielo",
-      "url": "https://open.spotify.com/track/6UrLQTasnzlYYKo0U5IICp"
+      "duration_ms": 216520,
+      "name": "Jur\u00e9",
+      "url": "https://open.spotify.com/track/2k3UGlRomFp8jl5dZUmqMX"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -955,18 +955,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Escucha a Gerardo Pablo",
-        "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
+        "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
+        "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
       },
       "artists": [
         {
-          "name": "Gerardo Pablo",
-          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        },
+        {
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
         }
       ],
-      "duration_ms": 170813,
-      "name": "Los Grillos",
-      "url": "https://open.spotify.com/track/4gey1hMb9gioAyqeCgzSxh"
+      "duration_ms": 219818,
+      "name": "El primer amor (feat. Francisco Cespedes)",
+      "url": "https://open.spotify.com/track/4OfrXrHiVrINm1aAX0RxA3"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -987,22 +991,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
-        "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
+        "name": "Escucha a Gerardo Pablo",
+        "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
       },
       "artists": [
         {
-          "name": "Hayd\u00e9e Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
-        },
-        {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
+          "name": "Gerardo Pablo",
+          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
         }
       ],
-      "duration_ms": 219818,
-      "name": "El primer amor (feat. Francisco Cespedes)",
-      "url": "https://open.spotify.com/track/4OfrXrHiVrINm1aAX0RxA3"
+      "duration_ms": 170813,
+      "name": "Los Grillos",
+      "url": "https://open.spotify.com/track/4gey1hMb9gioAyqeCgzSxh"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1043,22 +1043,6 @@
       "duration_ms": 254773,
       "name": "Loco por Ti",
       "url": "https://open.spotify.com/track/4c2ZX1OHkLS0XEaxTShO8S"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Escucha a Gerardo Pablo",
-        "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Pablo",
-          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "Buscando un \u00c1ngel",
-      "url": "https://open.spotify.com/track/6WCMCQxjtgkSKgRBNxaO2h"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1169,22 +1153,6 @@
       "url": "https://open.spotify.com/track/2f1q9NPLts5gFxzjxQryRW"
     },
     {
-      "added_at": "2022-03-01 04:08:22",
-      "album": {
-        "name": "Destino",
-        "url": "https://open.spotify.com/album/1ryt69ZHjBPDS9ytMxxh3g"
-      },
-      "artists": [
-        {
-          "name": "Leiden",
-          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Destino",
-      "url": "https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y"
-    },
-    {
       "added_at": "2021-07-29 16:46:05",
       "album": {
         "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
@@ -1199,6 +1167,38 @@
       "duration_ms": 194680,
       "name": "Quiero Abrazarte Tanto",
       "url": "https://open.spotify.com/track/6GmdNYTVg5B38w4kAAcj0n"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Escucha a Gerardo Pablo",
+        "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Pablo",
+          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
+        }
+      ],
+      "duration_ms": 165160,
+      "name": "Buscando un \u00c1ngel",
+      "url": "https://open.spotify.com/track/6WCMCQxjtgkSKgRBNxaO2h"
+    },
+    {
+      "added_at": "2022-03-01 04:08:22",
+      "album": {
+        "name": "Destino",
+        "url": "https://open.spotify.com/album/1ryt69ZHjBPDS9ytMxxh3g"
+      },
+      "artists": [
+        {
+          "name": "Leiden",
+          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Alfonsina Y El Mar",
-        "url": "https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Alfonsina Y El Mar",
-      "url": "https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Coincidir",
         "url": "https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 246200,
       "name": "Coincidir",
       "url": "https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Alfonsina Y El Mar",
+        "url": "https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Alfonsina Y El Mar",
+      "url": "https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Vicente Feli\u00fa",
-        "url": "https://open.spotify.com/album/4RxfaSazhSz83FbGHVvDaX"
-      },
-      "artists": [
-        {
-          "name": "Vicente Feli\u00fa",
-          "url": "https://open.spotify.com/artist/0Z8Ef59XkEf7jnRvRIpshT"
-        }
-      ],
-      "duration_ms": 201338,
-      "name": "Esther homenaje",
-      "url": "https://open.spotify.com/track/2PAG1xqCniDbKzXhO0f2yO"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Encanto",
         "url": "https://open.spotify.com/album/0smFumIxHdTArp6Tsm0rhi"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 252380,
       "name": "Encanto",
       "url": "https://open.spotify.com/track/0hJcXk3AyYjXzT88BsgNlP"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Vicente Feli\u00fa",
+        "url": "https://open.spotify.com/album/4RxfaSazhSz83FbGHVvDaX"
+      },
+      "artists": [
+        {
+          "name": "Vicente Feli\u00fa",
+          "url": "https://open.spotify.com/artist/0Z8Ef59XkEf7jnRvRIpshT"
+        }
+      ],
+      "duration_ms": 201338,
+      "name": "Esther homenaje",
+      "url": "https://open.spotify.com/track/2PAG1xqCniDbKzXhO0f2yO"
     },
     {
       "added_at": "2021-07-29 16:46:05",

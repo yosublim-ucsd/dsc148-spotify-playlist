@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: 310babii
 
-580 songs - 1 day 3 hr 21 min
+582 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [Drop Down \(feat\. KenTheMan\)](https://open.spotify.com/track/2ZzhfMgeBjOkjFv5SXdFjz) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Mike Free](https://open.spotify.com/artist/6iEOdI9RcimOiNzbfhhuTO), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Drop Down \(feat\. KenTheMan\)](https://open.spotify.com/album/4YuzBjUDKo4f1KGJuxnYCE) | 2:52 | 2022-08-26 | 2022-10-08 |
 | [EAST POINT PRAYER](https://open.spotify.com/track/0mTWyEt0taYEFpUfAyjqmf) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 3:37 | 2022-04-08 | 2022-07-16 |
 | [Eastside \(with Kal Banx\)](https://open.spotify.com/track/6v5zJME9hOIkxQgd3v18Yj) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [Eastside \(with Kal Banx\)](https://open.spotify.com/album/0yk03fA2es65VDIcd5NSXe) | 2:12 | 2023-06-30 | 2023-09-16 |
-| [Eat It Up](https://open.spotify.com/track/1PRLHyaN0XmTiXhBI6Tol2) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB), [DonnySolo](https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0) | [Eat It Up](https://open.spotify.com/album/6crFEKkp5bYJNEjDrqoG1w) | 2:09 | 2023-06-02 |  |
+| [Eat It Up](https://open.spotify.com/track/1LYJJ6e8Zj8B2Wx5WmAohe) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB), [DonnySolo](https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0) | [Eat It Up](https://open.spotify.com/album/5ByZm1j56WZQzHNGY9Duaa) | 2:09 | 2023-10-13 |  |
+| [Eat It Up](https://open.spotify.com/track/1PRLHyaN0XmTiXhBI6Tol2) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB), [DonnySolo](https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0) | [Eat It Up](https://open.spotify.com/album/6crFEKkp5bYJNEjDrqoG1w) | 2:09 | 2023-06-02 | 2023-10-16 |
 | [Eazy](https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Eazy](https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT) | 3:54 | 2022-01-14 | 2022-04-16 |
 | [Elon](https://open.spotify.com/track/49gRLFjmdkS6Cip8V3MrMN) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI) | [Elon](https://open.spotify.com/album/44Hk4tGww4UmX2BSEC6W39) | 2:57 | 2022-08-26 | 2022-09-24 |
 | [Endzone](https://open.spotify.com/track/0hKRl06sY5KK9juJCG2RCz) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q) | [Endzone](https://open.spotify.com/album/3jD7Qob2hsGhgTqaMzuNpb) | 2:39 | 2023-02-17 | 2023-02-25 |
@@ -579,7 +580,8 @@
 | [Where's Remble?](https://open.spotify.com/track/5SLRlF7N8a5hH2Vl15imTV) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [Where's Remble?](https://open.spotify.com/album/03vYAvDNFVS1atHZuzRs4c) | 2:49 | 2023-07-28 |  |
 | [With The Villains](https://open.spotify.com/track/0zkOra5e9BZHIdK91pgKXP) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [With The Villains / Lucky](https://open.spotify.com/album/50KiZ0amgdlobUzEnriTTl) | 2:23 | 2022-03-11 | 2022-06-11 |
 | [Woah](https://open.spotify.com/track/5E8MF5ELxfCxRWifMTWRsw) | [aroomfullofmirrors](https://open.spotify.com/artist/4CxaPxktjqoN6F9nyftKYW) | [Money Bags](https://open.spotify.com/album/1L8HxyYlmretDqwSWzuZCS) | 3:20 | 2021-12-10 | 2022-01-22 |
-| [Wop It](https://open.spotify.com/track/6qiN1G9Q5CLzuWJUKnkLxo) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB) | [Wop It](https://open.spotify.com/album/4H47Q3WFmOhGDAuPmciMZi) | 1:52 | 2023-02-10 |  |
+| [Wop It](https://open.spotify.com/track/6qiN1G9Q5CLzuWJUKnkLxo) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB) | [Wop It](https://open.spotify.com/album/4H47Q3WFmOhGDAuPmciMZi) | 1:52 | 2023-02-10 | 2023-10-16 |
+| [Wop It](https://open.spotify.com/track/73KXFBOZXWVbK6XBgvohZK) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB) | [Wop It](https://open.spotify.com/album/6yktmgt5KT7bvcWMQLZJMI) | 1:52 | 2023-10-13 |  |
 | [Work Hard Play Hard](https://open.spotify.com/track/0MWlasabRTIdgdgiL6X0kL) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Work Hard Play Hard](https://open.spotify.com/album/7K5QF7IKkpiwp3dxncldp1) | 3:31 | 2023-06-23 | 2023-10-14 |
 | [Wrist Cold](https://open.spotify.com/track/4y2LMDSuLaSpuyvNti2XtK) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Wrist Cold](https://open.spotify.com/album/4461MJpUXZJAxldXTcD5CY) | 2:38 | 2023-08-04 |  |
 | [WTF](https://open.spotify.com/track/2ejZLWVTTr39e67FWxfWig) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [WTF](https://open.spotify.com/album/5OaohkvXwsVZXcBy7uhAdW) | 2:07 | 2022-02-18 | 2022-04-23 |

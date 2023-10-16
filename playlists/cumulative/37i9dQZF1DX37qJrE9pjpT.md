@@ -4,7 +4,7 @@
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Rosa Ree
 
-97 songs - 5 hr 33 min
+98 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Future Wife](https://open.spotify.com/track/1Yq6tM4AzDJKcUC1ziv9O8) | [Stamina Shorwebwenzi](https://open.spotify.com/artist/7vGp5tmuvQ5ku1Fh6d1UsV), [Mkwawa](https://open.spotify.com/artist/4RIy8pk0S2X84NZGn3Kgcc) | [Love Bite](https://open.spotify.com/album/2LFuHTgXhM3IQrX7BbN9uj) | 3:47 | 2022-07-08 |  |
 | [G E N E R A T I O N A L C U R S E S](https://open.spotify.com/track/023cszAO7MmPwBU5u3uNfJ) | [Leone](https://open.spotify.com/artist/4Y2tMbo5x9mEaRYSHyiuwP) | [G E N E R A T I O N A L C U R S E S](https://open.spotify.com/album/3dILSTrmz8JZDMXltQGYqS) | 4:14 | 2022-05-27 | 2023-09-16 |
 | [Good Vibes Only](https://open.spotify.com/track/767sgj41tpoJkOjfbCer1W) | [Wednesdaytie](https://open.spotify.com/artist/46OoU9zEjI0CbVpQYozPYK) | [Good Vibes Only](https://open.spotify.com/album/0sCoGzxZQ9UgxPj2r0f0IO) | 3:24 | 2022-05-27 | 2023-04-21 |
-| [Hatuna Kesi](https://open.spotify.com/track/1eTNIIvyLFSuMB6kIlPhEE) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn), [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Belle 9](https://open.spotify.com/artist/0b7i9eSFo4LpOALg7LKExh) | [Hatuna Kesi](https://open.spotify.com/album/2BQXiotfASO146JznwXpYb) | 3:14 | 2022-03-28 |  |
+| [Hatuna Kesi](https://open.spotify.com/track/1eTNIIvyLFSuMB6kIlPhEE) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn), [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Belle 9](https://open.spotify.com/artist/0b7i9eSFo4LpOALg7LKExh) | [Hatuna Kesi](https://open.spotify.com/album/2BQXiotfASO146JznwXpYb) | 3:14 | 2022-03-28 | 2023-10-16 |
+| [Hatuna Kesi](https://open.spotify.com/track/7hhMqQaGTmiQgS5a8HIPvw) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn), [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [BELLE 9](https://open.spotify.com/artist/2QFZXITfzIsjCiKBLdzESZ) | [Hatuna Kesi](https://open.spotify.com/album/7wC7ZrdSNo34fSvgitb4o5) | 3:17 | 2023-09-21 |  |
 | [Hatuna Kesi](https://open.spotify.com/track/19dPNBIshTozSYco9XvOc6) | [Young Killer](https://open.spotify.com/artist/33087Y6d4XZj4ZKaXlB6TW) | [Hatuna Kesi](https://open.spotify.com/album/4PcFiqKFwpzhAaTFI5OWRI) | 3:14 | 2022-03-28 | 2023-02-24 |
 | [Hobbies](https://open.spotify.com/track/0UwT5g5Y9i0CSS70QLAZaU) | [SAN AWARD](https://open.spotify.com/artist/2XSFwx92IDcFxGBcKghxKe) | [Hobbies](https://open.spotify.com/album/4iHVXzab9cNuWRPvyhiEVE) | 3:54 | 2022-09-02 | 2023-01-14 |
 | [HUJA BALEHE](https://open.spotify.com/track/0bhy8dg5uvuN3UpBqLfgpA) | [Weusi](https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK) | [HUJA BALEHE](https://open.spotify.com/album/0viy408sbHRu92XTCfDquZ) | 3:26 | 2022-09-08 |  |

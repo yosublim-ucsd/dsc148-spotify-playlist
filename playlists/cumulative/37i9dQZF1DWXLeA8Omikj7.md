@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-863 songs - 2 day 13 hr 47 min
+864 songs - 2 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,6 +443,7 @@
 | [Little Guy](https://open.spotify.com/track/3Ca3zAKGzcrd9ToMleCcdX) | [Bob Juburi](https://open.spotify.com/artist/4LOhQlFTKM4iFTNlpueiqM) | [Little Guy](https://open.spotify.com/album/5D0r2UquUzoaVC2HQcD1h0) | 2:26 | 2019-07-25 | 2020-10-22 |
 | [Live Ambient 8](https://open.spotify.com/track/1dUZgreAdnfoLyUStKQ2lN) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Live Ambient Improvised Recordings, Vol\. 1](https://open.spotify.com/album/38Vwhxf7JAO7ErH2h4j9q0) | 6:55 | 2021-02-27 | 2022-05-25 |
 | [Live Ambient 8](https://open.spotify.com/track/6sIDaDtNWydboSKd3rnOWV) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Live Ambient Improvised Recordings, Vol\. 1](https://open.spotify.com/album/6X32uxtJkOAe5RI0yOhM67) | 6:55 | 2023-09-29 |  |
+| [Log In Your Fire](https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:51 | 2023-10-13 |  |
 | [Log In Your Fire](https://open.spotify.com/track/6yliSAfFs2LzlfHAMLX7ds) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Log In Your Fire](https://open.spotify.com/album/5U5jYij147XIbaDyRMU0gq) | 2:51 | 2021-08-13 | 2022-04-21 |
 | [London Island](https://open.spotify.com/track/6Z0xV1FASyxZ76L15nMSs2) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Love + Light](https://open.spotify.com/album/1z6IaOUkRc2bcZvpQ9vN31) | 5:49 | 2020-08-26 | 2022-04-20 |
 | [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 | 2022-07-15 |  |
@@ -743,7 +744,7 @@
 | [Tangerine Sour](https://open.spotify.com/track/7BCiBYWbnclXSMRHRFrLYK) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [9 Theory](https://open.spotify.com/artist/06tYi7DxoKe8PfYCeHGGFK) | [Tangerine Sour](https://open.spotify.com/album/6SwIONFKhdCi7Pl62z9KSJ) | 4:13 | 2022-07-01 | 2023-01-05 |
 | [Tastes Like Freedom \- Chaos In The CBD Remix](https://open.spotify.com/track/6syv9meXafns0UbFE1KRdg) | [30/70](https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM), [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Tastes Like Freedom \(Chaos In The CBD Remix\)](https://open.spotify.com/album/5jtpLVuJqcqSDrjvbPqgsy) | 5:50 | 2021-07-23 | 2022-04-17 |
 | [TB2](https://open.spotify.com/track/1C4qTH0erk8mTW1nyOtzSD) | [Piezo](https://open.spotify.com/artist/4vr49Ycb253qEyUuXnlYaM), [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [LSD Superhero](https://open.spotify.com/album/08WladyLG1RjExJrBnribx) | 3:59 | 2023-02-17 |  |
-| [Terrace Rain](https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Terrace Rain/Grid Search](https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI) | 2:56 | 2021-07-23 |  |
+| [Terrace Rain](https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Terrace Rain/Grid Search](https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI) | 2:56 | 2021-07-23 | 2023-10-16 |
 | [Thank You for This Upload](https://open.spotify.com/track/7LOXCFnzu1R0iJK0ktPWAZ) | [Gacha Bakradze](https://open.spotify.com/artist/6dZmlzI1H5SGdkQ8dWRY76) | [Obscure Languages](https://open.spotify.com/album/0pABXfkOVhy2VBfupniDdI) | 4:31 | 2021-02-09 | 2022-05-10 |
 | [The Accident](https://open.spotify.com/track/1Gaw7kFhAkjBL4eUu9JPxE) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [The Accident](https://open.spotify.com/album/2x7GtZYuo1KP72dPeg3ImB) | 4:36 | 2021-05-24 | 2022-04-19 |
 | [The Anatomy of Clouds \- Yann Tiersen Remix](https://open.spotify.com/track/1oEKtplYnjwb3tAlfm1NPF) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg), [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [The Anatomy of Clouds \(Yann Tiersen Remix\)](https://open.spotify.com/album/1iJb6WUg493eEUHHCdNKw7) | 11:45 | 2021-07-23 | 2022-07-28 |

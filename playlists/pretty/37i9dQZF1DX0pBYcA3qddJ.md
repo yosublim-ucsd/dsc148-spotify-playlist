@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,095 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,113 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 75 | [Vega](https://open.spotify.com/track/2qJggGKzjnU43FVserdo3G) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Vega](https://open.spotify.com/album/76BMPNgKggRkhwoDbPAJbf) | 2:34 |
 | 76 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 |
 | 77 | [チェロ・ソナタ ト短調 作品65: Ⅰ\. Allegro moderato](https://open.spotify.com/track/54UqbT95EJOwRyyXG8tIc2) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [水野優也](https://open.spotify.com/artist/0G50Xtrs142AylaMwCrkoc), [Kyohei Sorita](https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc) | [コダーイ／無伴奏チェロ・ソナタ＆ショパン／チェロ・ソナタ](https://open.spotify.com/album/6QICFqLDufbtk4176FNKld) | 16:22 |
-| 78 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
+| 78 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 |
 | 79 | [energy flow](https://open.spotify.com/track/6rXnP6n3myylS9PV4N53ID) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J) | 4:32 |
-| 80 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 |
+| 80 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
 | 81 | [Amber](https://open.spotify.com/track/579XAaexqrmGzkiI5tVh7x) | [Umitaro Abe](https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b), [Kaori Takeda](https://open.spotify.com/artist/7eXYitpmnte1BBdZZsmuHk) | [HOUSE](https://open.spotify.com/album/1Gth2C4bhFy2MW15y2yg0V) | 2:54 |
 | 82 | [Falling Down](https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Falling Down](https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P) | 3:35 |
 | 83 | [Autumn](https://open.spotify.com/track/2XoMlZvgC04htxdJKUsZbL) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Autumn](https://open.spotify.com/album/48i19LUxu0E7NsVv2sgqNu) | 1:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 99 | [ドビュッシー:夢](https://open.spotify.com/track/3x7A5efAHawOPeh3MML8Ge) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Nobuyuki Tsujii](https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j) | [月の光 〜 辻井伸行 plays ドビュッシー](https://open.spotify.com/album/1HoEFHhXkso8pWbFQvyPG7) | 3:47 |
 | 100 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/0rTWmhqlac0DNHc5xXk1SW) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Kyohei Sorita](https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc), [Keigo Mukawa](https://open.spotify.com/artist/31YgzVQJU0rrWzZGfzVVUF) | [Two Pianos 2](https://open.spotify.com/album/0QVZQD5ymGpz0klj9pzs7N) | 2:38 |
 
-Snapshot ID: `MCwyOTgyNzk0MmY0NGI0NmM5Y2E5ZTk2ZmVjZjFmYjQ2NzQ1ZTA5NmQw`
+Snapshot ID: `MCwzNTI2MTcxZGYxZDdhZjc4ZTAzYTMyOGQ3ODZmNjJhZjE1MTAzOWRj`

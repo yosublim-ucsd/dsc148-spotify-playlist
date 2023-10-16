@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,372 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,430 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 2 | [Get Up, Stand Up](https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:17 |
 | 3 | [No No No](https://open.spotify.com/track/6CWghtCtJOgJgP58GyFx2m) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [Feel Like Jumping: The Best of Studio One Women](https://open.spotify.com/album/3RTeh1T46KVNuoSyTYE2Ns) | 4:29 |
 | 4 | [Rudie Bam Bam](https://open.spotify.com/track/19MYWyeATrI33acF9xSgBk) | [The Clarendonians](https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5) | [Winner Of My Heart \- Reggae](https://open.spotify.com/album/0xUN4o8p2BixUKpUvOejJ5) | 2:21 |
-| 5 | [Addis Ababa](https://open.spotify.com/track/7BpfGzM57fK5fIw7Pt0yBO) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/6OuYm1xpB29dhuVXOXT58v) | 2:24 |
-| 6 | [Bobby Bobylon](https://open.spotify.com/track/3t0VvMqwrXM4RgrBYlB235) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Bobby Bobylon: Deluxe Edition](https://open.spotify.com/album/1NhP0Jn5grdBKwsRWx8L4x) | 2:26 |
+| 5 | [Bobby Bobylon](https://open.spotify.com/track/3t0VvMqwrXM4RgrBYlB235) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Bobby Bobylon: Deluxe Edition](https://open.spotify.com/album/1NhP0Jn5grdBKwsRWx8L4x) | 2:26 |
+| 6 | [Addis Ababa](https://open.spotify.com/track/7BpfGzM57fK5fIw7Pt0yBO) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/6OuYm1xpB29dhuVXOXT58v) | 2:24 |
 | 7 | [Never Give Your Heart Away](https://open.spotify.com/track/00NZUSWCUszqs2MFEfReTj) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/29SbydyD69yI0qs7Ma3xMs) | 3:05 |
 | 8 | [People Make the World Go Round](https://open.spotify.com/track/1XMBtQ6S7DJoj1FDLpFBgq) | [Hortense Ellis](https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2) | [Alton & Hortense Ellis](https://open.spotify.com/album/2Q8BPKtSNcI3YHc0gHtW0q) | 3:18 |
 | 9 | [Mad World](https://open.spotify.com/track/6oZymvG8LsXxMzDFPwBqRf) | [Hugh Godfrey](https://open.spotify.com/artist/1z66MA7rp4Rm0tvBIjaM0r) | [This Girl Loves Reggae](https://open.spotify.com/album/1TuWq3VmQSEC18DBlED4BD) | 1:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Black Wax](https://open.spotify.com/track/1yZp4EH1pnKnytB1psEb7y) | [Pablove Black](https://open.spotify.com/artist/42FwZoRg0zhZgg2LUqglEz) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 3:24 |
 | 60 | [Happy Feelings](https://open.spotify.com/track/5cERnwvQmaeAFNaJavhw1X) | [Dub Specialist](https://open.spotify.com/artist/2Z6eWhLfvDVcgULunQskjk) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 2:42 |
 
-Snapshot ID: `MCxiZmZlZjBlN2I2OGJlNmVkN2I5ZWQ4ODViZDFiZWQzNGY2YWQ5ZWZm`
+Snapshot ID: `MCxmMmFjODg4YzAyZmU2MjE3Y2MxMTNmYWI0ZTAyYjIyMWY0YmUyZjY4`

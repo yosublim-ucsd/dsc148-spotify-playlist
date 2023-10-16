@@ -3991,6 +3991,28 @@
     },
     {
       "album": {
+        "name": "DO NOT DISTURB",
+        "url": "https://open.spotify.com/album/7u08JA7JYQNi7rgYve3w0V"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        },
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "DO NOT DISTURB",
+      "url": "https://open.spotify.com/track/06pDFA1R4GHG9DbzshvbA3"
+    },
+    {
+      "album": {
         "name": "Do The Most",
         "url": "https://open.spotify.com/album/1l0LngTiAHc8RvL3nqZ9Z4"
       },
@@ -5026,7 +5048,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 158549,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/7bPY7SRKFhkQwsjfJUyH5m"
@@ -5788,6 +5810,24 @@
       "duration_ms": 167058,
       "name": "Get Fly (feat. DaBaby)",
       "url": "https://open.spotify.com/track/2hqkcvTKlWJOczatljDKHz"
+    },
+    {
+      "album": {
+        "name": "Ganger (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179612,
+      "name": "Get Lucki",
+      "url": "https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6"
     },
     {
       "album": {
@@ -16890,7 +16930,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 176361,
       "name": "WISH I COULD TELL YOU",
       "url": "https://open.spotify.com/track/4VkyknxFWgVYBeoEoUJ3k6"

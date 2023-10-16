@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1AHswQqsDNmu1xaE8KpBne">COBRAH</a>'s favorite tracks\. Updated regularly\. Curated by COBRAH\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-80 songs - 4 hr 9 min
+81 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [In Da Getto](https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:10 | 2022-08-31 |  |
 | [Kitty Klap](https://open.spotify.com/track/0YWcTkh6DO2yhRZ3BhN2na) | [davOmakesbeats](https://open.spotify.com/artist/0GVhd3aIFJzTSgnBpIO5aj), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Sir JoQ](https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs), [Molly House](https://open.spotify.com/artist/3IjuX1WF89fX31ogEmmaCD) | [Molly House Volume 1 \(Deluxe Edition\)](https://open.spotify.com/album/5c1MdWmjLXJ4zDs8CrraBH) | 3:18 | 2022-08-31 |  |
 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 | 2022-08-31 |  |
-| [Loca People \- Radio Edit](https://open.spotify.com/track/6lZs6TqQVWx98cdjkOkG9i) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Loca People](https://open.spotify.com/album/3VVn2hMgvryDngC1B4dZsj) | 3:35 | 2022-08-31 |  |
+| [Loca People \(What the F\*\*k!"\) \- Radio Edit](https://open.spotify.com/track/0MJ7MlBHBVQxzwHz5bfCZk) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Loca People](https://open.spotify.com/album/4YAtGMxXppxc1tSOX3huZ9) | 3:35 | 2023-06-16 |  |
+| [Loca People \- Radio Edit](https://open.spotify.com/track/6lZs6TqQVWx98cdjkOkG9i) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Loca People](https://open.spotify.com/album/3VVn2hMgvryDngC1B4dZsj) | 3:35 | 2022-08-31 | 2023-10-16 |
 | [Loca People \- Radio Edit \[Clean Version\]](https://open.spotify.com/track/76IYpZOyiSikk1nD0IbVkz) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Loca People](https://open.spotify.com/album/3VVn2hMgvryDngC1B4dZsj) | 3:35 | 2022-08-31 | 2022-11-13 |
 | [Look](https://open.spotify.com/track/2UnYp6QyIXKJiDF0tB8Smy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/47QcF8U1SLWFGCqU2pmRxJ) | 2:48 | 2022-08-31 |  |
 | [Look](https://open.spotify.com/track/42y1R39jgfNb8tNtNNoYMZ) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/1I35zlzXcHo0RNRYAsH9eF) | 2:48 | 2022-08-31 | 2023-02-02 |

@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 78814,
+  "num_followers": 79187,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGQyMTY3YzA4ZjI5NzRjNTkxYTU1NmI0ZDRkMDQ3Nzc3MTA2ODlh",
+  "snapshot_id": "MCwwMjJlNDQ2ZDcyZDRmOWJmYzI0YjEwOWFiZDhhYjM3ZDY3ZTMwNGYx",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Sky Blue Sky",
-        "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 357160,
-      "name": "Impossible Germany",
-      "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Advisory Committee",
         "url": "https://open.spotify.com/album/0gQWuaPBjGRe4S4lV7gtlC"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 181186,
       "name": "Baltimore Blues No. 1",
       "url": "https://open.spotify.com/track/14irPxTJLePlTfUd9U5hWL"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Sky Blue Sky",
+        "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 357160,
+      "name": "Impossible Germany",
+      "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "And Then Nothing Turned Itself Inside-Out",
-        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 258426,
-      "name": "Our Way to Fall",
-      "url": "https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "About A Boy Soundtrack",
         "url": "https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 220866,
       "name": "Something To Talk About",
       "url": "https://open.spotify.com/track/4rwOvI1E7CAlOX0XZ5EMyG"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "And Then Nothing Turned Itself Inside-Out",
+        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "Our Way to Fall",
+      "url": "https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Cassadaga",
-        "url": "https://open.spotify.com/album/12g6dnsHEdhzS3BGB4CefB"
+        "name": "In Our Nature",
+        "url": "https://open.spotify.com/album/4zhb7QX3fvyamvbcYGnKMv"
       },
       "artists": [
         {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 256262,
-      "name": "Four Winds",
-      "url": "https://open.spotify.com/track/7iV2w73aB3oL7UWgEAWuiN"
+      "duration_ms": 200853,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/02C433ZVoi5cPFOSEKKzUX"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "In Our Nature",
-        "url": "https://open.spotify.com/album/4zhb7QX3fvyamvbcYGnKMv"
+        "name": "Cassadaga",
+        "url": "https://open.spotify.com/album/12g6dnsHEdhzS3BGB4CefB"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
         }
       ],
-      "duration_ms": 200853,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/02C433ZVoi5cPFOSEKKzUX"
+      "duration_ms": 256262,
+      "name": "Four Winds",
+      "url": "https://open.spotify.com/track/7iV2w73aB3oL7UWgEAWuiN"
     },
     {
       "added_at": "2022-02-04 22:01:34",

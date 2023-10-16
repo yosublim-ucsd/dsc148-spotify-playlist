@@ -1,12 +1,12 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 94619,
+  "num_followers": 94668,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2E2MTkzZGVjNWU2NGYxNDcxOWZhMjY3N2VhYmRlMzRlN2M1OWYy",
+  "snapshot_id": "MCw1ZTMwOGIxMjM1YzgzYTFkODAxZDc4NmRjY2NiZTlhMWFkN2EyZTc2",
   "tracks": [
     {
       "added_at": "2023-05-09 01:25:54",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "that day, on the beach",
-        "url": "https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1"
-      },
-      "artists": [
-        {
-          "name": "Matt Kivel",
-          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
-        }
-      ],
-      "duration_ms": 151302,
-      "name": "memorial park",
-      "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
-    },
-    {
       "added_at": "2022-09-27 23:17:09",
       "album": {
         "name": "1994",
@@ -475,6 +459,22 @@
       "duration_ms": 645372,
       "name": "Ola De Luz",
       "url": "https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "that day, on the beach",
+        "url": "https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1"
+      },
+      "artists": [
+        {
+          "name": "Matt Kivel",
+          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
+        }
+      ],
+      "duration_ms": 151302,
+      "name": "memorial park",
+      "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
     },
     {
       "added_at": "2021-11-25 22:12:36",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
-      },
-      "artists": [
-        {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
-        }
-      ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
-    },
-    {
       "added_at": "2022-08-03 03:12:27",
       "album": {
         "name": "Sons Of",
@@ -827,6 +811,22 @@
       "duration_ms": 471786,
       "name": "A Ghost At Noon",
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+      },
+      "artists": [
+        {
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+        }
+      ],
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "These Days Don't Exist",
-        "url": "https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr"
-      },
-      "artists": [
-        {
-          "name": "Nutrition",
-          "url": "https://open.spotify.com/artist/7lAeHqMt2kZ5A81tT9767x"
-        }
-      ],
-      "duration_ms": 225136,
-      "name": "Dream Walk",
-      "url": "https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy"
-    },
-    {
       "added_at": "2022-07-06 16:48:39",
       "album": {
         "name": "Echoes",
@@ -895,6 +879,22 @@
       "duration_ms": 331514,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "These Days Don't Exist",
+        "url": "https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr"
+      },
+      "artists": [
+        {
+          "name": "Nutrition",
+          "url": "https://open.spotify.com/artist/7lAeHqMt2kZ5A81tT9767x"
+        }
+      ],
+      "duration_ms": 225136,
+      "name": "Dream Walk",
+      "url": "https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy"
     },
     {
       "added_at": "2022-01-13 02:57:00",
@@ -977,6 +977,22 @@
       "url": "https://open.spotify.com/track/3oBIxCgN5rcjO3WaIiFu0r"
     },
     {
+      "added_at": "2023-03-03 04:14:50",
+      "album": {
+        "name": "Vegetal Passivity",
+        "url": "https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW"
+      },
+      "artists": [
+        {
+          "name": "Rzekomo",
+          "url": "https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku"
+        }
+      ],
+      "duration_ms": 238153,
+      "name": "Vegetal Passivity",
+      "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
+    },
+    {
       "added_at": "2022-02-16 00:42:21",
       "album": {
         "name": "drames rurals",
@@ -1007,22 +1023,6 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
-    },
-    {
-      "added_at": "2023-03-03 04:14:50",
-      "album": {
-        "name": "Vegetal Passivity",
-        "url": "https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW"
-      },
-      "artists": [
-        {
-          "name": "Rzekomo",
-          "url": "https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku"
-        }
-      ],
-      "duration_ms": 238153,
-      "name": "Vegetal Passivity",
-      "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
     },
     {
       "added_at": "2022-03-30 04:41:43",
@@ -1257,6 +1257,22 @@
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Glass Bird Movement",
+        "url": "https://open.spotify.com/album/2jTiDIgPrDgSmND8PcuKGm"
+      },
+      "artists": [
+        {
+          "name": "Isan",
+          "url": "https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC"
+        }
+      ],
+      "duration_ms": 338734,
+      "name": "Every Since And Then",
+      "url": "https://open.spotify.com/track/1RNe4viqCD97PgAChQers4"
+    },
+    {
       "added_at": "2023-05-24 01:46:16",
       "album": {
         "name": "Uncanny Otion",
@@ -1279,22 +1295,6 @@
       "duration_ms": 248000,
       "name": "Uncanny Otion",
       "url": "https://open.spotify.com/track/1J7R9RD1DdEbDGYhuukEFc"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Glass Bird Movement",
-        "url": "https://open.spotify.com/album/2jTiDIgPrDgSmND8PcuKGm"
-      },
-      "artists": [
-        {
-          "name": "Isan",
-          "url": "https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC"
-        }
-      ],
-      "duration_ms": 338734,
-      "name": "Every Since And Then",
-      "url": "https://open.spotify.com/track/1RNe4viqCD97PgAChQers4"
     },
     {
       "added_at": "2022-04-09 04:34:06",
@@ -1573,6 +1573,26 @@
       "url": "https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm"
     },
     {
+      "added_at": "2023-04-15 02:42:19",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        },
+        {
+          "name": "Meemo Comma",
+          "url": "https://open.spotify.com/artist/46fSsw6Lx6s1kvYGnb4pnd"
+        }
+      ],
+      "duration_ms": 336132,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/5CPTy1vepzxa0zqcs7F4F1"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "SIGN",
@@ -1605,22 +1625,6 @@
       "url": "https://open.spotify.com/track/6kRLQTgIr9LSudbn03qIMN"
     },
     {
-      "added_at": "2022-09-21 02:21:07",
-      "album": {
-        "name": "Waypoints",
-        "url": "https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR"
-      },
-      "artists": [
-        {
-          "name": "Hans Berg",
-          "url": "https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk"
-        }
-      ],
-      "duration_ms": 354645,
-      "name": "The Clearing Pt. 2",
-      "url": "https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Radio Amor",
@@ -1635,6 +1639,22 @@
       "duration_ms": 289320,
       "name": "The Star Compass",
       "url": "https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh"
+    },
+    {
+      "added_at": "2022-09-21 02:21:07",
+      "album": {
+        "name": "Waypoints",
+        "url": "https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR"
+      },
+      "artists": [
+        {
+          "name": "Hans Berg",
+          "url": "https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk"
+        }
+      ],
+      "duration_ms": 354645,
+      "name": "The Clearing Pt. 2",
+      "url": "https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1657,40 +1677,20 @@
       "url": "https://open.spotify.com/track/7AFNqxLKcSL0LpNpOgmhKt"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2022-03-11 06:16:07",
       "album": {
-        "name": "Fir Wave",
-        "url": "https://open.spotify.com/album/6mfZkiUX4cK5rTVfKCJFqW"
+        "name": "The Vaulting Sky",
+        "url": "https://open.spotify.com/album/7cIG9K4xeMOyVvERgvXp7p"
       },
       "artists": [
         {
-          "name": "Hannah Peel",
-          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
+          "name": "Eli Keszler",
+          "url": "https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Ecovocative",
-      "url": "https://open.spotify.com/track/0CFgpPfYd1KJRNMLEpatzL"
-    },
-    {
-      "added_at": "2023-04-15 02:42:19",
-      "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
-      },
-      "artists": [
-        {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
-        },
-        {
-          "name": "Meemo Comma",
-          "url": "https://open.spotify.com/artist/46fSsw6Lx6s1kvYGnb4pnd"
-        }
-      ],
-      "duration_ms": 336132,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/5CPTy1vepzxa0zqcs7F4F1"
+      "duration_ms": 229293,
+      "name": "The Vaulting Sky",
+      "url": "https://open.spotify.com/track/6BJ4F52G2o5TgmIJAAYuQD"
     }
   ],
   "unique_name": "bleeps ^ glitches",

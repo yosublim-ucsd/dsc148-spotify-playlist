@@ -4,7 +4,7 @@
 
 > Crackling and popping sounds of fireplaces.
 
-168 songs - 8 hr 39 min
+169 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Cabin Warmth](https://open.spotify.com/track/1YzaBLhCBYO9SAUoM3i7CK) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Calming Fireplace](https://open.spotify.com/album/6dBub7W143X09uYmZThqNK) | 4:02 | 2022-09-05 |  |
 | [Calming Fireplace](https://open.spotify.com/track/2enlGP6mWmEzouGT39UVSI) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Calming Fireplace](https://open.spotify.com/album/6dBub7W143X09uYmZThqNK) | 4:02 | 2022-09-05 |  |
 | [Campfire](https://open.spotify.com/track/1Cwt5oNp3OsS1N0YZCAZUA) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Fireplace Cure](https://open.spotify.com/album/6tIumEOHRIHBGdR8B3LgFX) | 4:02 | 2022-09-05 |  |
-| [Campfire Cuddle](https://open.spotify.com/track/2W81OkCbrmPjxnFfo6KUrd) | [Fire Scientist](https://open.spotify.com/artist/1lWVALbH9pIS8Lttts3Bwz) | [Peaceful Flame](https://open.spotify.com/album/5z0FwCGD0bljHVZaj2p3A9) | 2:29 | 2022-11-15 |  |
+| [Campfire Cuddle](https://open.spotify.com/track/2W81OkCbrmPjxnFfo6KUrd) | [Fire Scientist](https://open.spotify.com/artist/1lWVALbH9pIS8Lttts3Bwz) | [Peaceful Flame](https://open.spotify.com/album/5z0FwCGD0bljHVZaj2p3A9) | 2:29 | 2022-11-15 | 2023-10-16 |
 | [Campfire FX 2](https://open.spotify.com/track/71bJHyvTOhKRdft9ggF7Mo) | [Campfire FX](https://open.spotify.com/artist/4hcapURHDeQ5BjkOWH8L7Z) | [Campfire FX](https://open.spotify.com/album/7CzUi3rd2NN8Xf9gGFaSjL) | 2:40 | 2022-09-05 |  |
 | [Campfire in the Wilderness](https://open.spotify.com/track/0NDUFjfnFLDe7EkbVkRBre) | [Inside the Mountains](https://open.spotify.com/artist/7skn0pRrIm20tOzceEkZTT) | [Campfire in the Wilderness](https://open.spotify.com/album/1YAdST8f10qrvTahHfrjvh) | 2:06 | 2022-09-05 | 2023-06-20 |
 | [Campfire Lights Up the Forest Skies](https://open.spotify.com/track/2CEcpa9XRIkz5VwFxcIHYv) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Crackling Campfire](https://open.spotify.com/album/1NMHie9uAZU8yy40EKfUic) | 3:07 | 2022-09-05 | 2023-09-09 |
@@ -85,6 +85,7 @@
 | [Flaming Dreams](https://open.spotify.com/track/1VNv0WUc6QQHJGLs32CvUG) | [Kali Sounds](https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c) | [Flaming Dreams](https://open.spotify.com/album/4r9Bvmvfx5MMqVd63KqoYq) | 2:26 | 2022-09-05 |  |
 | [Flammable](https://open.spotify.com/track/5RTGtVtHpICtFrB0Jy8HHa) | [lumen](https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu) | [Ochre Light](https://open.spotify.com/album/49mpp39JixBUtzFnHUy6Rg) | 4:02 | 2022-09-05 |  |
 | [Forest Fireplace](https://open.spotify.com/track/3Rwg4IRbHo5axXdo2e3vxj) | [Forest FX Smith](https://open.spotify.com/artist/2Ws74uPhxJrBWn95kKDqhq) | [Relaxing Fire Sounds](https://open.spotify.com/album/0VrYfRMHgVQekDurSPGbEq) | 2:05 | 2022-09-05 |  |
+| [Furnace Warmth](https://open.spotify.com/track/1WfjkcMD91QD93kNvja6uU) | [Krispy Fireplace](https://open.spotify.com/artist/3620DZj56oKYWgLzbljbNk) | [Furnace Warmth](https://open.spotify.com/album/3DFkThdtiv8dezNk615wr8) | 2:24 | 2023-10-13 |  |
 | [Glowing Spark](https://open.spotify.com/track/0de2lrDai09wpJXUrbCytb) | [Lumière](https://open.spotify.com/artist/7pWH6NDnA9OtjCt3KbfCno) | [Spread the Flame](https://open.spotify.com/album/02rf29XdLpfXfhoO6yxwgg) | 4:02 | 2022-09-05 | 2023-05-05 |
 | [Glowing Warmth](https://open.spotify.com/track/3BHnVRS4ec8CP2qiQHVGff) | [ELD](https://open.spotify.com/artist/2XSMkayT3NVFyY9O5fOP2K) | [Fire by the Lakehouse](https://open.spotify.com/album/5dwOWIHPGIjtYSpfkKVZ4b) | 4:02 | 2022-09-05 | 2023-08-16 |
 | [Golden Flame](https://open.spotify.com/track/6VE17Sv52Md2evGbIA8pTk) | [ELD](https://open.spotify.com/artist/2XSMkayT3NVFyY9O5fOP2K) | [Light up the Room](https://open.spotify.com/album/1sy7DklfTUV964uTTY4yrb) | 3:20 | 2022-09-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 4317,
+  "num_followers": 4323,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTQ0MTgwMWM1ZDgyODViNzViNTkzZGIxMzJlYWQ2NGI1YjY2YzM4",
+  "snapshot_id": "MCwzNjllZDUyY2E1YzUwN2YwMzBiNzc4NDEyYTQ2YWJjMzM0MjA5NGI0",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -199,22 +199,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime",
-        "url": "https://open.spotify.com/album/0UNeYC6icoR0UbvUZD7JYs"
-      },
-      "artists": [
-        {
-          "name": "William Ogmundson",
-          "url": "https://open.spotify.com/artist/5uDWJuVykK2j91dsIItMhG"
-        }
-      ],
-      "duration_ms": 215133,
-      "name": "Ragtime Nightingale",
-      "url": "https://open.spotify.com/track/6JwN8CvXOJXFMm4pHdx4qX"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Whippin' the Keys",
         "url": "https://open.spotify.com/album/4QoewAeBhDUQSaplJwPHix"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 167626,
       "name": "New Era Rag",
       "url": "https://open.spotify.com/track/6mBC9LUBJmWkJjiFUk82Se"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Ragtime",
+        "url": "https://open.spotify.com/album/0UNeYC6icoR0UbvUZD7JYs"
+      },
+      "artists": [
+        {
+          "name": "William Ogmundson",
+          "url": "https://open.spotify.com/artist/5uDWJuVykK2j91dsIItMhG"
+        }
+      ],
+      "duration_ms": 215133,
+      "name": "Ragtime Nightingale",
+      "url": "https://open.spotify.com/track/6JwN8CvXOJXFMm4pHdx4qX"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -479,6 +479,22 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
+        "name": "Takes Two",
+        "url": "https://open.spotify.com/album/4z0K2p0J1DV7cLsOP3Bk6O"
+      },
+      "artists": [
+        {
+          "name": "Jack & Chris Bradshaw",
+          "url": "https://open.spotify.com/artist/5XlcJcvLov5rq4hXjxy3py"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "Possum and Taters",
+      "url": "https://open.spotify.com/track/2TfcBFuqV3vOfaCJKVifAB"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
         "name": "Christmas Eve 1915",
         "url": "https://open.spotify.com/album/1YMw838UtJYBBzhCLDMT4C"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 198173,
       "name": "Reindeer Rag",
       "url": "https://open.spotify.com/track/3fyYH2qSoxabCNsFLRF1Rz"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "Classic Rags Piano Solos, Vol. 4",
-        "url": "https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul"
-      },
-      "artists": [
-        {
-          "name": "Leslie Bridges",
-          "url": "https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw"
-        }
-      ],
-      "duration_ms": 165382,
-      "name": "Paramount Rag",
-      "url": "https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -531,18 +531,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Takes Two",
-        "url": "https://open.spotify.com/album/4z0K2p0J1DV7cLsOP3Bk6O"
+        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
+        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
       },
       "artists": [
         {
-          "name": "Jack & Chris Bradshaw",
-          "url": "https://open.spotify.com/artist/5XlcJcvLov5rq4hXjxy3py"
+          "name": "Guido Nielsen",
+          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
         }
       ],
-      "duration_ms": 165040,
-      "name": "Possum and Taters",
-      "url": "https://open.spotify.com/track/2TfcBFuqV3vOfaCJKVifAB"
+      "duration_ms": 177000,
+      "name": "Great Scott Rag",
+      "url": "https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -579,18 +579,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
-        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
+        "name": "Classic Rags Piano Solos, Vol. 4",
+        "url": "https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul"
       },
       "artists": [
         {
-          "name": "Guido Nielsen",
-          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
+          "name": "Leslie Bridges",
+          "url": "https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Great Scott Rag",
-      "url": "https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6"
+      "duration_ms": 165382,
+      "name": "Paramount Rag",
+      "url": "https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -623,6 +623,22 @@
       "duration_ms": 203360,
       "name": "Patricia Rag",
       "url": "https://open.spotify.com/track/6A431z6iC8Lk8880VEEEG6"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Joseph F. Lamb: The Complete Stark Rags (1908-1919)",
+        "url": "https://open.spotify.com/album/0b5ts7qqK1ovw09OJFOUiv"
+      },
+      "artists": [
+        {
+          "name": "Guido Nielsen",
+          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
+        }
+      ],
+      "duration_ms": 251906,
+      "name": "Ethiopia",
+      "url": "https://open.spotify.com/track/6vKrEa3NCMxkGstSrBI71I"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -663,22 +679,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Charleston Rag",
-        "url": "https://open.spotify.com/album/47f969oRBPbmRfS6jdVXQE"
-      },
-      "artists": [
-        {
-          "name": "Morten Gunnar Larsen",
-          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
-        }
-      ],
-      "duration_ms": 186671,
-      "name": "Peace and Plenty Rag",
-      "url": "https://open.spotify.com/track/7G3GHUoDuOBoTrHP04VMDj"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "50 Ragtime Classics: The Best of Scott Joplin",
         "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 148577,
       "name": "Sensation Rag",
       "url": "https://open.spotify.com/track/2PtZyMXdMvbimCmx9v6j8O"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Charleston Rag",
+        "url": "https://open.spotify.com/album/47f969oRBPbmRfS6jdVXQE"
+      },
+      "artists": [
+        {
+          "name": "Morten Gunnar Larsen",
+          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
+        }
+      ],
+      "duration_ms": 186671,
+      "name": "Peace and Plenty Rag",
+      "url": "https://open.spotify.com/track/7G3GHUoDuOBoTrHP04VMDj"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -723,22 +739,6 @@
       "duration_ms": 159960,
       "name": "Harlem Rag",
       "url": "https://open.spotify.com/track/3NcbV4lOWtvMZuyiWk4pt9"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "Joseph F. Lamb: The Complete Stark Rags (1908-1919)",
-        "url": "https://open.spotify.com/album/0b5ts7qqK1ovw09OJFOUiv"
-      },
-      "artists": [
-        {
-          "name": "Guido Nielsen",
-          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
-        }
-      ],
-      "duration_ms": 251906,
-      "name": "Ethiopia",
-      "url": "https://open.spotify.com/track/6vKrEa3NCMxkGstSrBI71I"
     },
     {
       "added_at": "2020-08-19 17:18:36",

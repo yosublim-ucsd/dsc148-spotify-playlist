@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Maple Glider
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,976 likes - 150 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,003 likes - 150 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Columbus & 89th](https://open.spotify.com/track/0sPG1vCeyLzUmWTwbu46X3) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Columbus & 89th](https://open.spotify.com/album/35aTodKr8A3bp4k0LJBV51) | 4:15 |
 | 2 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 |
-| 3 | [Do You](https://open.spotify.com/track/0eHLd2rwOakcEiFwG0SztP) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Do You](https://open.spotify.com/album/3TA7Hh96OwARzUgw71ZcaO) | 4:08 |
+| 3 | [Do You](https://open.spotify.com/track/2tO1RrlOXyZAMqB0wDybXf) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd) | 4:08 |
 | 4 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
 | 5 | [dopamine](https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [dopamine](https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx) | 2:38 |
 | 6 | [Same Risk](https://open.spotify.com/track/126NE8fqzYK9CA9tFpy5NK) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Same Risk](https://open.spotify.com/album/5pGZ0MJ3oEyr8S3AfwXmmT) | 3:28 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Free](https://open.spotify.com/track/6I3Ns61Hy5xBwlakoVodA8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Free](https://open.spotify.com/album/2DK8qUZem6LDFCcr7vrJLk) | 3:13 |
 | 150 | [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 |
 
-Snapshot ID: `MCw3MTQwMzk0NGUzZTYwOGVmN2IwNWY5MTRmOTliZTE3MGQyMjc0YjNh`
+Snapshot ID: `MCw0ZGY0MjY3NGIzMDdmZmIzZThhN2M4MWFkNzE4ZGZjNDEzZThlMGY4`

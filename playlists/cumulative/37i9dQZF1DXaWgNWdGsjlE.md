@@ -4,7 +4,7 @@
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-195 songs - 10 hr 39 min
+196 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Dead](https://open.spotify.com/track/6O2QJqa6hgF0uzj9mcDq4p) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Dead](https://open.spotify.com/album/3hKxNaxs2oVPewk04LDuBI) | 2:37 | 2022-09-30 |  |
 | [DEAD FLOWERS](https://open.spotify.com/track/54i9YWj8AnEvj1FhJgVZC4) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [DEAD FLOWERS](https://open.spotify.com/album/1RKvRWHyVw3UIfQVuIjcuJ) | 5:01 | 2022-04-08 | 2022-07-29 |
 | [DEAD FLOWERS](https://open.spotify.com/track/3w7z4dBOVFXwNbS0xfD3ow) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:01 | 2022-07-01 | 2023-04-29 |
+| [deprecating](https://open.spotify.com/track/0S3hKgCbYTWPOesdVM4bg7) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [deprecating](https://open.spotify.com/album/0zV1xLH1fwzi1ESG8tf6qt) | 2:06 | 2023-10-13 |  |
 | [Destructible](https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Destructible](https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH) | 2:51 | 2022-04-08 | 2022-07-02 |
 | [Diana](https://open.spotify.com/track/6mJ1xzqTOpUfIKVc4d5HDl) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Diana](https://open.spotify.com/album/3KQGVYjzN1c5QhhdeGwIMF) | 4:16 | 2022-04-08 |  |
 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 | 2022-04-08 | 2022-11-09 |
@@ -64,7 +65,7 @@
 | [ELVIRA](https://open.spotify.com/track/5Zzylb0t4kLOGzYw1LDHOg) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [ELVIRA](https://open.spotify.com/album/1TaTRenPe1g6acHgv4gX3q) | 1:51 | 2023-04-28 |  |
 | [ENCAGED](https://open.spotify.com/track/6V82ZlDkgcbRJiydWXxa5U) | [Kent Osborne](https://open.spotify.com/artist/7A15q1iSA5BitDh0WeK7ta), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [ENCAGED](https://open.spotify.com/album/4nrJVeDxCTT84aZi6JSYq7) | 2:43 | 2023-03-13 | 2023-08-19 |
 | [Face is Gone](https://open.spotify.com/track/3nyRCnIVyv3LyGCESLMnrp) | [The Soft Moon](https://open.spotify.com/artist/40HeNm05FEAxGx8gUOV4my) | [Exister](https://open.spotify.com/album/1pQnMQ2XSnSYmBKYKxGc57) | 3:07 | 2022-09-23 | 2023-03-25 |
-| [Falling](https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Falling](https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU) | 3:29 | 2022-09-30 |  |
+| [Falling](https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Falling](https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU) | 3:29 | 2022-09-30 | 2023-10-16 |
 | [Falling](https://open.spotify.com/track/6DaNlUMdwiidZbFSebVcIy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Falling](https://open.spotify.com/album/1wzpIeYxCGjZ7yze3IHCJE) | 3:29 | 2022-04-08 | 2022-10-14 |
 | [Falling](https://open.spotify.com/track/76wQ671soYkMWo9dOWcH2e) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Beyond the Senses](https://open.spotify.com/album/1vR6M9v7mA6vwm47LgBbWP) | 3:29 | 2022-11-08 | 2022-11-13 |
 | [Falling](https://open.spotify.com/track/1660w15xd64WxBUirN9e4E) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Beyond the Senses](https://open.spotify.com/album/3pYfGgnd7jxga8VzEMOniD) | 3:29 | 2022-11-08 | 2023-09-15 |

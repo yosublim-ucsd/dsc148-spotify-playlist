@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 47049,
+  "num_followers": 47194,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzZmYzRlMjMxODhjNDBkODg0Mzg5OTI5YzM2NTE1NWE4ZmI4YzBl",
+  "snapshot_id": "MCxkM2E2NjQwZjMwYWEyZTI0ZTAzMjk1YTI4ODg1NmFkOTc4MTExNzk0",
   "tracks": [
     {
       "added_at": "2023-10-06 13:03:51",
@@ -103,22 +103,6 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "The Wind",
-        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        }
-      ],
-      "duration_ms": 81641,
-      "name": "Nos",
-      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
         "name": "Eyes Closed And Traveling",
         "url": "https://open.spotify.com/album/5Lc2PFEqSXXRAL3swmftRb"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 219549,
       "name": "Eyes Closed And Traveling",
       "url": "https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
+        "name": "The Wind",
+        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        }
+      ],
+      "duration_ms": 81641,
+      "name": "Nos",
+      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 220630,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
         "name": "Triptych 1 for Piano",
         "url": "https://open.spotify.com/album/7lqhbSElKknWLrKgU5G4G6"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 159000,
       "name": "Triptych 1 for Piano",
       "url": "https://open.spotify.com/track/4hz99c39SOIMCng7b7j4Wd"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 220630,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "Suite in D IV (Dreamland)",
-        "url": "https://open.spotify.com/album/58GxfMDdj40e0aqBKEXrQP"
-      },
-      "artists": [
-        {
-          "name": "Martin Bloch",
-          "url": "https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z"
-        }
-      ],
-      "duration_ms": 174107,
-      "name": "Suite in D IV (Dreamland)",
-      "url": "https://open.spotify.com/track/28sw29g4kMAqnsWHQkqRhZ"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
         "name": "Somnia",
         "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 198323,
       "name": "Somnia",
       "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
+        "name": "Suite in D IV (Dreamland)",
+        "url": "https://open.spotify.com/album/58GxfMDdj40e0aqBKEXrQP"
+      },
+      "artists": [
+        {
+          "name": "Martin Bloch",
+          "url": "https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z"
+        }
+      ],
+      "duration_ms": 174107,
+      "name": "Suite in D IV (Dreamland)",
+      "url": "https://open.spotify.com/track/28sw29g4kMAqnsWHQkqRhZ"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "Vitamin String Quartet Performs Bjork",
-        "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
         "name": "A Collective Destiny",
         "url": "https://open.spotify.com/album/2KnVai28Pj93yuL7W2huaL"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 262000,
       "name": "A Collective Destiny",
       "url": "https://open.spotify.com/track/171fKTIvL8wDal3N6Uv0Bk"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
+        "name": "Vitamin String Quartet Performs Bjork",
+        "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/29s2OVJdWTn7eWIBPC7ikz"
-      },
-      "artists": [
-        {
-          "name": "Simon Folwar",
-          "url": "https://open.spotify.com/artist/45yzAR4CenLlWxGsoWRbaQ"
-        }
-      ],
-      "duration_ms": 159594,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/0sys3zb0Gssvi2mQNky4tB"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 232040,
       "name": "In Cold Light",
       "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/29s2OVJdWTn7eWIBPC7ikz"
+      },
+      "artists": [
+        {
+          "name": "Simon Folwar",
+          "url": "https://open.spotify.com/artist/45yzAR4CenLlWxGsoWRbaQ"
+        }
+      ],
+      "duration_ms": 159594,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/0sys3zb0Gssvi2mQNky4tB"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "Okno",
-        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
-      },
-      "artists": [
-        {
-          "name": "Julia Gjertsen",
-          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Okno",
-      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
         "name": "\u00c9closion",
         "url": "https://open.spotify.com/album/1OKNFl8PygWSvMfIWwI7D9"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 295200,
       "name": "\u00c9closion",
       "url": "https://open.spotify.com/track/5OySktqTcVI9raXKmrdGNr"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
+        "name": "Okno",
+        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
+      },
+      "artists": [
+        {
+          "name": "Julia Gjertsen",
+          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Okno",
+      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1187,30 +1187,6 @@
       "duration_ms": 289829,
       "name": "Heart Failure",
       "url": "https://open.spotify.com/track/7biIzSlBe8dWzEwHG7dS5k"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
-        "name": "Esja",
-        "url": "https://open.spotify.com/album/3aBD10mWdF7VfHpMRl9u1t"
-      },
-      "artists": [
-        {
-          "name": "Luke Faulkner",
-          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
-        },
-        {
-          "name": "Alix Vaillot-Szwarc",
-          "url": "https://open.spotify.com/artist/6aML5wmfX9G35f0SefMvn0"
-        },
-        {
-          "name": "\u00d6zg\u00fcr Kaya",
-          "url": "https://open.spotify.com/artist/2NIJXCrR8rog7GWW2njcV7"
-        }
-      ],
-      "duration_ms": 138529,
-      "name": "Esja",
-      "url": "https://open.spotify.com/track/3c3i9icjd5mMi8z9NJhRHv"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1267,18 +1243,46 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "A Tiny Ripple That Becomes A Giant Wave",
-        "url": "https://open.spotify.com/album/2Bek2tLtyxT0wxwVxi4BU2"
+        "name": "Esja",
+        "url": "https://open.spotify.com/album/3aBD10mWdF7VfHpMRl9u1t"
       },
       "artists": [
         {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+        },
+        {
+          "name": "Alix Vaillot-Szwarc",
+          "url": "https://open.spotify.com/artist/6aML5wmfX9G35f0SefMvn0"
+        },
+        {
+          "name": "\u00d6zg\u00fcr Kaya",
+          "url": "https://open.spotify.com/artist/2NIJXCrR8rog7GWW2njcV7"
         }
       ],
-      "duration_ms": 210440,
-      "name": "A Tiny Ripple That Becomes A Giant Wave",
-      "url": "https://open.spotify.com/track/7iyHlkSodnReI1yq3U858h"
+      "duration_ms": 138529,
+      "name": "Esja",
+      "url": "https://open.spotify.com/track/3c3i9icjd5mMi8z9NJhRHv"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
+        "name": "All I Hear Is Birds (Focus Rework)",
+        "url": "https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        },
+        {
+          "name": "Matt Robertson",
+          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
+        }
+      ],
+      "duration_ms": 248506,
+      "name": "All I Hear Is Birds - Focus Rework",
+      "url": "https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1303,6 +1307,22 @@
       "duration_ms": 265872,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
+        "name": "A Tiny Ripple That Becomes A Giant Wave",
+        "url": "https://open.spotify.com/album/2Bek2tLtyxT0wxwVxi4BU2"
+      },
+      "artists": [
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "A Tiny Ripple That Becomes A Giant Wave",
+      "url": "https://open.spotify.com/track/7iyHlkSodnReI1yq3U858h"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1339,6 +1359,22 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        }
+      ],
+      "duration_ms": 247600,
+      "name": "Ave",
+      "url": "https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
         "name": "Haar over Hamnavoe (Bill Ryder-Jones Rework)",
         "url": "https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb"
       },
@@ -1359,22 +1395,6 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 247600,
-      "name": "Ave",
-      "url": "https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
         "name": "Svalbard",
         "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 175090,
       "name": "Little Orc",
       "url": "https://open.spotify.com/track/43SR37OKj3Dgc82aHXr6ql"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
-        "name": "All I Hear Is Birds (Focus Rework)",
-        "url": "https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ"
-      },
-      "artists": [
-        {
-          "name": "Elliott Jack Sansom",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
-        },
-        {
-          "name": "Matt Robertson",
-          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
-        }
-      ],
-      "duration_ms": 248506,
-      "name": "All I Hear Is Birds - Focus Rework",
-      "url": "https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "Whispers",
-        "url": "https://open.spotify.com/album/3vYwHAdCXFOSPB0QlpiCaS"
-      },
-      "artists": [
-        {
-          "name": "Muri\u00ebl Bostdorp",
-          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
-        },
-        {
-          "name": "Jake Lowe",
-          "url": "https://open.spotify.com/artist/6Z7c9MaP9Jt63gLeoYKA7n"
-        }
-      ],
-      "duration_ms": 170539,
-      "name": "Whispers",
-      "url": "https://open.spotify.com/track/7LMhZBVJYRUNsD9GyIiH9A"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
         "name": "The Myth",
         "url": "https://open.spotify.com/album/6sFyvR2lfdQqJwv0CIrfVt"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 221796,
       "name": "The Myth",
       "url": "https://open.spotify.com/track/3PFlF0czIchods0CEDOAr5"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
+        "name": "Whispers",
+        "url": "https://open.spotify.com/album/3vYwHAdCXFOSPB0QlpiCaS"
+      },
+      "artists": [
+        {
+          "name": "Muri\u00ebl Bostdorp",
+          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
+        },
+        {
+          "name": "Jake Lowe",
+          "url": "https://open.spotify.com/artist/6Z7c9MaP9Jt63gLeoYKA7n"
+        }
+      ],
+      "duration_ms": 170539,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/7LMhZBVJYRUNsD9GyIiH9A"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
+        "name": "Peaceful Music (Three)",
+        "url": "https://open.spotify.com/album/3toMJlJjsS6eV768AdGXtk"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 166958,
+      "name": "Peaceful Music (Three)",
+      "url": "https://open.spotify.com/track/2hQQSxIxbJyiLSsDvrLJmp"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
         "name": "Circle 26 (Tom Ashbrook Rework)",
         "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
       },
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "Peaceful Music (Three)",
-        "url": "https://open.spotify.com/album/3toMJlJjsS6eV768AdGXtk"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 166958,
-      "name": "Peaceful Music (Three)",
-      "url": "https://open.spotify.com/track/2hQQSxIxbJyiLSsDvrLJmp"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
         "name": "Old Friends New Friends",
         "url": "https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj"
       },
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "Black Dog",
-        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
-      },
-      "artists": [
-        {
-          "name": "Autonomy",
-          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
-        }
-      ],
-      "duration_ms": 127995,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
         "name": "For Mark",
         "url": "https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 309600,
       "name": "For Mark",
       "url": "https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
+        "name": "Black Dog",
+        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
+      },
+      "artists": [
+        {
+          "name": "Autonomy",
+          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
+        }
+      ],
+      "duration_ms": 127995,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
     },
     {
       "added_at": "2023-10-06 13:03:51",

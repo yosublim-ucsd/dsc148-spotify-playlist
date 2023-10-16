@@ -1,12 +1,12 @@
 {
   "description": "make the whole place shimmer \u2728",
-  "num_followers": 178101,
+  "num_followers": 178399,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmI1N2UyM2I4Yjg3NzNlMDBiMGZhMmRlYzI4MDU1YTRkMzMyMTYz",
+  "snapshot_id": "MCxkNDQ4OWNlYTI1NmJhYmUwNmJiZmIzMTlkZTMwMmUyNGI0OTE2ZDcy",
   "tracks": [
     {
       "added_at": "2023-07-24 19:45:41",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "JoDee Messina",
-        "url": "https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn"
+        "name": "Tuesday Night Music Club",
+        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
       },
       "artists": [
         {
-          "name": "Jo Dee Messina",
-          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
         }
       ],
-      "duration_ms": 209760,
-      "name": "Heads Carolina, Tails California",
-      "url": "https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa"
+      "duration_ms": 272106,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -279,18 +279,18 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Tuesday Night Music Club",
-        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
+        "name": "JoDee Messina",
+        "url": "https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn"
       },
       "artists": [
         {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+          "name": "Jo Dee Messina",
+          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
         }
       ],
-      "duration_ms": 272106,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
+      "duration_ms": 209760,
+      "name": "Heads Carolina, Tails California",
+      "url": "https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Pioneer",
-        "url": "https://open.spotify.com/album/6SWKUE4kbjbsNjaY112Chp"
-      },
-      "artists": [
-        {
-          "name": "The Band Perry",
-          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
-        }
-      ],
-      "duration_ms": 194680,
-      "name": "Better Dig Two",
-      "url": "https://open.spotify.com/track/3q6RsLhyoWzB7w5EYbo746"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Joanne (Deluxe)",
         "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
       },
@@ -1223,22 +1207,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Blown Away",
-        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
       },
@@ -1251,6 +1219,22 @@
       "duration_ms": 186066,
       "name": "The Way You Love Me",
       "url": "https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Blown Away",
+        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1271,22 +1255,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/2jv2pSKJiOhmmol92202Vy"
-      },
-      "artists": [
-        {
-          "name": "Jessica Andrews",
-          "url": "https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck"
-        }
-      ],
-      "duration_ms": 255233,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/0rK4HCKzv2r1IXqKX3DKpq"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Start Here",
         "url": "https://open.spotify.com/album/3MpmJPwKgMQ6hkGVlRwOpj"
       },
@@ -1299,6 +1267,22 @@
       "duration_ms": 217840,
       "name": "Girl In A Country Song",
       "url": "https://open.spotify.com/track/1GRiBe0kNCNYpjwCHIyynI"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/2jv2pSKJiOhmmol92202Vy"
+      },
+      "artists": [
+        {
+          "name": "Jessica Andrews",
+          "url": "https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck"
+        }
+      ],
+      "duration_ms": 255233,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/0rK4HCKzv2r1IXqKX3DKpq"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1351,22 +1335,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Dirty Laundry",
-      "url": "https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Pioneer",
         "url": "https://open.spotify.com/album/6SWKUE4kbjbsNjaY112Chp"
       },
@@ -1379,6 +1347,22 @@
       "duration_ms": 205266,
       "name": "DONE.",
       "url": "https://open.spotify.com/track/3CClN6lWM5m2dfpaFug3VP"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1435,22 +1419,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "Southbound",
-      "url": "https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Annie Up",
         "url": "https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG"
       },
@@ -1475,6 +1443,22 @@
       "duration_ms": 198640,
       "name": "I Feel A Sin Comin' On",
       "url": "https://open.spotify.com/track/2UJCeZzKOzrH6utaz7NoFr"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Southbound",
+      "url": "https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1675,6 +1659,22 @@
       "duration_ms": 201966,
       "name": "I CAN'T HELP MYSELF",
       "url": "https://open.spotify.com/track/5NZviEn3DnOa2ZYqP5gIl2"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "The Whole Shebang",
+        "url": "https://open.spotify.com/album/5BHdYUWdjWEF0Ns2eh6QhQ"
+      },
+      "artists": [
+        {
+          "name": "SHeDAISY",
+          "url": "https://open.spotify.com/artist/2qFe0FyUMK8XXoyOsfYJr2"
+        }
+      ],
+      "duration_ms": 200693,
+      "name": "Little Good-Byes",
+      "url": "https://open.spotify.com/track/5ZX3IrB9tPxOoBZdXILNpy"
     }
   ],
   "unique_name": "neon cowgirl",

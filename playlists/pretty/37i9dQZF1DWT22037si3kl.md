@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do trap\. Foto: Derxan
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,411 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,498 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 25 | [Mimo Caro](https://open.spotify.com/track/3ps209XATTFuOMkokgGywM) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Mc Dena](https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615) | [Mimo Caro](https://open.spotify.com/album/48rbpMh7icB1q0eDGPXzcB) | 4:09 |
 | 26 | [Posturadão](https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp) | [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Posturadão](https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO) | 2:42 |
 | 27 | [Peças De Griffe](https://open.spotify.com/track/2hu1nbvST1AFS7BNqjLK0W) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [Trap Funk Star](https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg) | 3:26 |
-| 28 | [No Bank's](https://open.spotify.com/track/4Wwm8sCBEBuVYie9jiFvx9) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [No Bank's](https://open.spotify.com/album/07QrmBl9FqFiDYUd1jY4C8) | 3:08 |
-| 29 | [Lista De Contato](https://open.spotify.com/track/6HQG4Qek65p5TwbMalqN1M) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Lista De Contato](https://open.spotify.com/album/03uQr7q1MyOiW7qOQ1atNG) | 2:02 |
+| 28 | [Lista De Contato](https://open.spotify.com/track/6HQG4Qek65p5TwbMalqN1M) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Lista De Contato](https://open.spotify.com/album/03uQr7q1MyOiW7qOQ1atNG) | 2:02 |
+| 29 | [No Bank's](https://open.spotify.com/track/4Wwm8sCBEBuVYie9jiFvx9) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [No Bank's](https://open.spotify.com/album/07QrmBl9FqFiDYUd1jY4C8) | 3:08 |
 | 30 | [Não Me Para](https://open.spotify.com/track/6yFMentQMLOkh24pjQJgsQ) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:29 |
 | 31 | [Atlanta](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
 | 32 | [Yeezy Slide "FREESTYLE 01"](https://open.spotify.com/track/6bBnV1J4thy0w6v8b5qXP4) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Yeezy Slide "FREESTYLE 01"](https://open.spotify.com/album/4bJbDWMhQ5vmWhISmnsKQe) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Loyalty](https://open.spotify.com/track/1tVENMDCXyu32b8xFTZT5z) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Jojo Baby](https://open.spotify.com/artist/6PZt0GDf28Kg2smT0qq1nM) | [Loyalty](https://open.spotify.com/album/6Mb93xMq97OqX2SmKU29xw) | 3:24 |
 | 50 | [Minha História \(As Respostas\)](https://open.spotify.com/track/3KCozDZaYfEAved8Uofo1Y) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Apesar De Você \(Mixtape\)](https://open.spotify.com/album/4hEwNsdQMT8r1ue2X4KMDX) | 2:12 |
 
-Snapshot ID: `MCw0NmRmOTU2MDAxNGQ4NTMzZmIyMDM1MWQ3ZjA3YjliYmJiYzAzNzU0`
+Snapshot ID: `MCw1ZDBhNDc0YjNkMTg5YTE4NjZmNzdmOWRiZGEzZWNlYzU1NGY0NTg4`

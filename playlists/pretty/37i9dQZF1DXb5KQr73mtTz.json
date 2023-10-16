@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 15742,
+  "num_followers": 15840,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzllMjQxZjAzOTc5YWE4ZTE3MmE3YzM0ZDcwYjg4MmNhNWMyOGEx",
+  "snapshot_id": "MCw1MjNmNWE1Y2VkZmNhZDZjMjEwMDNkNzA0OTgxOTI1YWFjYmNjMmVm",
   "tracks": [
     {
       "added_at": "2023-09-20 06:38:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-09-20 06:38:00",
       "album": {
-        "name": "Why break up? (My love X Jeon Sang Keun)",
-        "url": "https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K"
-      },
-      "artists": [
-        {
-          "name": "Jeon Sang Keun",
-          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
-        }
-      ],
-      "duration_ms": 271280,
-      "name": "Why break up? (My love X Jeon Sang Keun)",
-      "url": "https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF"
-    },
-    {
-      "added_at": "2023-09-20 06:38:00",
-      "album": {
         "name": "Still Here",
         "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 219746,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
+    },
+    {
+      "added_at": "2023-09-20 06:38:00",
+      "album": {
+        "name": "Why break up? (My love X Jeon Sang Keun)",
+        "url": "https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K"
+      },
+      "artists": [
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        }
+      ],
+      "duration_ms": 271280,
+      "name": "Why break up? (My love X Jeon Sang Keun)",
+      "url": "https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF"
     },
     {
       "added_at": "2023-09-20 06:38:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-09-20 06:38:00",
       "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz"
+      },
+      "artists": [
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "duration_ms": 261850,
+      "name": "How about you",
+      "url": "https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G"
+    },
+    {
+      "added_at": "2023-09-20 06:38:00",
+      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 262394,
       "name": "Sad ending (Feat. george)",
       "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
-    },
-    {
-      "added_at": "2023-09-20 06:38:00",
-      "album": {
-        "name": "STAR",
-        "url": "https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz"
-      },
-      "artists": [
-        {
-          "name": "Noel",
-          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
-        }
-      ],
-      "duration_ms": 261850,
-      "name": "How about you",
-      "url": "https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G"
     },
     {
       "added_at": "2023-09-20 06:38:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-09-20 06:38:00",
       "album": {
-        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
-        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
       "artists": [
         {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
         }
       ],
-      "duration_ms": 297173,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
+      "duration_ms": 227360,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",

@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Che Ecru
 
-987 songs - 2 day 4 hr 53 min
+989 songs - 2 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Body](https://open.spotify.com/track/45jFhmLaKBWOT0lvFsezaC) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Body](https://open.spotify.com/album/0MKbgbnqz8YcDCl4uvSSWk) | 3:30 | 2022-05-20 | 2022-07-16 |
 | [Body Move](https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU) | 2:57 | 2022-04-01 | 2022-04-14 |
 | [Bolero](https://open.spotify.com/track/74i9MJfZdRhcv6XnAfwjBA) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bolero](https://open.spotify.com/album/4HOdt0FN0eALgbFNhpACU7) | 3:25 | 2021-09-17 | 2022-07-23 |
+| [Bonafide](https://open.spotify.com/track/1jIopA8Imz4gwR8bjBlEjJ) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [This Must Be A PawPaw Rod EP](https://open.spotify.com/album/7kCZCWQ1F3MAEQYEvcqQQF) | 3:08 | 2023-10-13 |  |
 | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd) | 2:57 | 2021-03-19 | 2022-04-16 |
 | [Boohoo \(feat\. Jeremih\)](https://open.spotify.com/track/67ocmrpyR62EahGpuWqidR) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:10 | 2023-09-15 | 2023-10-07 |
 | [Boomerang](https://open.spotify.com/track/6yEANV0C15jXJg2lsHf6F5) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Boomerang](https://open.spotify.com/album/5dRqkoDZOtMANCUqYyhswt) | 3:02 | 2023-08-18 |  |
@@ -284,6 +285,7 @@
 | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/track/0yU8ftsMI0LDMtee8TDsDR) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/album/0CttfgSuHvMSFKshmwa8vb) | 4:05 | 2021-03-19 | 2022-04-16 |
 | [Feel Good](https://open.spotify.com/track/6clYpUEhSJs0jYt7n7lIZP) | [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Feel Good](https://open.spotify.com/album/7fr81qCX4j03vrknwMxYvI) | 4:16 | 2022-06-10 | 2022-06-16 |
 | [FEEL LIKE](https://open.spotify.com/track/7DqNkxrMcdYmOZKU8sLU3s) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [FEEL LIKE](https://open.spotify.com/album/4LBg7GX0YaVbqRDBrWiR0B) | 2:43 | 2022-04-01 | 2022-04-10 |
+| [Feel Like a Woman](https://open.spotify.com/track/1VySVhLm3ozkzop6dpn18L) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Soft Spot](https://open.spotify.com/album/5YxR0EDEfl0o1gyhCrvY3R) | 5:00 | 2023-10-13 |  |
 | [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 | 2022-10-21 | 2022-11-13 |
 | [Feeling Myself](https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:34 | 2022-10-21 | 2023-06-06 |
 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-03-21 | 2022-07-23 |
@@ -652,7 +654,7 @@
 | [phases \(feat\. Kojey Radical\)](https://open.spotify.com/track/2kLMWqTsPb3i5QfLmnOAhM) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [phases \(feat\. Kojey Radical\)](https://open.spotify.com/album/34RPWvF1iX9XdtHWXLVH5T) | 4:03 | 2023-02-24 | 2023-10-07 |
 | [Pick Up Your Feelings](https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Pick Up Your Feelings](https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7) | 3:52 | 2021-03-19 | 2022-07-15 |
 | [Pick Up Your Phone](https://open.spotify.com/track/5jDpJZ4AV0YVV8o9Ez2U9s) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Pick Up Your Phone](https://open.spotify.com/album/2ZrT2t1qTMcRD9Q1Uy9sx3) | 2:49 | 2022-04-01 | 2022-04-14 |
-| [pieces](https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:44 | 2022-07-15 |  |
+| [pieces](https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:44 | 2022-07-15 | 2023-10-16 |
 | [Pieces](https://open.spotify.com/track/3uxvPA68MMOEdkxS4QdlPg) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Pieces](https://open.spotify.com/album/3BsWqi1hnJEpOthdL1wMtk) | 2:44 | 2021-11-19 | 2022-01-27 |
 | [pieces](https://open.spotify.com/track/5tnpSQClW40rHRfMvCqijS) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:44 | 2022-07-15 | 2022-10-14 |
 | [Pine](https://open.spotify.com/track/1xTrwHzhHuNb5URVfuBp0f) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Pine](https://open.spotify.com/album/0zIwjAV2L0o6pGpgMD7XWt) | 3:30 | 2021-03-19 | 2022-04-25 |
@@ -860,7 +862,7 @@
 | [the catch up](https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [alone / the catch up](https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I) | 3:08 | 2021-03-19 | 2022-07-30 |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2021-11-05 |  |
 | [THE GLADE](https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [THE GLADE](https://open.spotify.com/album/4S7Tec2MGsAVBRvJGDLJQa) | 3:42 | 2023-06-23 |  |
-| [The Greatest Smile](https://open.spotify.com/track/2IpRdVSZln1OqYEyajRccA) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Today & Tomorrow](https://open.spotify.com/album/7A6aNtppf2VKZE9xTnvm7z) | 4:40 | 2022-11-11 |  |
+| [The Greatest Smile](https://open.spotify.com/track/2IpRdVSZln1OqYEyajRccA) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Today & Tomorrow](https://open.spotify.com/album/7A6aNtppf2VKZE9xTnvm7z) | 4:40 | 2022-11-11 | 2023-10-16 |
 | [THE PEACH](https://open.spotify.com/track/6KCL9FON6UWWymafgIwECG) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [THE PEACH](https://open.spotify.com/album/6KUysdIaL4wtPiRXFAIYUI) | 2:26 | 2023-03-17 | 2023-07-22 |
 | [THE SEASON \(feat\. PawPaw Rod\)](https://open.spotify.com/track/3rPn6mXyAwe1VKDp6Odz0K) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [MAKER'S DESIGN](https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl) | 3:06 | 2022-10-28 | 2023-04-01 |
 | [The Sign Reads](https://open.spotify.com/track/6H7o3P7ipm1dDakdX9Dul2) | [Supa Bwe](https://open.spotify.com/artist/05kWC05qQmocVoC5Udgl6D), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [The Sign Reads](https://open.spotify.com/album/4kMr7YVY5xZ8ELUCPnXd8c) | 3:34 | 2022-04-01 | 2022-04-21 |

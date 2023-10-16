@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/2pY74KxhJHuvFtI3QXlrtE"
+      },
+      "artists": [
+        {
+          "name": "Kristian Hart Trio",
+          "url": "https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176150,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/52wEWSEvL2a08E7wRXSrbY"
+    },
+    {
+      "album": {
         "name": "Here's That Rainy Day",
         "url": "https://open.spotify.com/album/5v5UCmE3YVNgLbQs8WFNfs"
       },
@@ -6098,7 +6116,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 251297,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/5IzJev1UfE4EKR0hnAhJJB"

@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 111865,
+  "num_followers": 111942,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGMxMGVmMjcyNmNjNTRlYmM3OTVjMjFjZTEwZWJiNDFlNGRkNzgw",
+  "snapshot_id": "MCwzMzQwMWVhNTJlMmNkMzBhM2QyMmU3MGIyNGI2NTA3OTg0NTczN2Fk",
   "tracks": [
     {
       "added_at": "2023-09-04 16:45:54",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 216110,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 228853,
       "name": "Cupid - Deluxe Edition Version",
       "url": "https://open.spotify.com/track/5kG1ARHk8dli0bKiMN2oE6"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 216110,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 241776,
-      "name": "You'll Be In My Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 168266,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 241776,
+      "name": "You'll Be In My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "One More Try",
-        "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 356000,
-      "name": "One More Try",
-      "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 254834,
       "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
       "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "One More Try",
+        "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "One More Try",
+      "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -852,22 +852,6 @@
       "added_at": "2023-09-04 16:45:54",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 168798,
-      "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
       },
       "artists": [
@@ -879,6 +863,22 @@
       "duration_ms": 199883,
       "name": "American Boy - Spotify Singles",
       "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 168798,
+      "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Leave (Get Out) - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "dancing in the moonlight",
         "url": "https://open.spotify.com/album/7Bh1i9QqJTdmtwi8DtXheN"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 147457,
       "name": "dancing in the moonlight",
       "url": "https://open.spotify.com/track/0pSLfXI0tYQU2Gvycaw4B6"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Leave (Get Out) - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "True Colors (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q"
-      },
-      "artists": [
-        {
-          "name": "Madison Rose",
-          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "True Colors (Spotify Singles)",
-      "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 230306,
       "name": "Better Now - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "True Colors (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q"
+      },
+      "artists": [
+        {
+          "name": "Madison Rose",
+          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "True Colors (Spotify Singles)",
+      "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Take On Me",
-        "url": "https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw"
-      },
-      "artists": [
-        {
-          "name": "Thunder Jackson",
-          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
-        }
-      ],
-      "duration_ms": 146533,
-      "name": "Take On Me",
-      "url": "https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/0yLJMIgyF3luW7T884EOGR"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 206138,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/4yyHCYD1ZmeIXEEbvLjCqh"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Take On Me",
+        "url": "https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw"
+      },
+      "artists": [
+        {
+          "name": "Thunder Jackson",
+          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
+        }
+      ],
+      "duration_ms": 146533,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2115,6 +2115,22 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/0c73WqIwETE5Jdu388kgvO"
+      },
+      "artists": [
+        {
+          "name": "Loren Allred",
+          "url": "https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA"
+        }
+      ],
+      "duration_ms": 191128,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/7AFlWfyhbBKQ93Y4wuNsqP"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
         "name": "Where My Girls At",
         "url": "https://open.spotify.com/album/0R9XTwNzP51tPzw5tRlagB"
       },
@@ -2143,22 +2159,6 @@
       "duration_ms": 156625,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/0c73WqIwETE5Jdu388kgvO"
-      },
-      "artists": [
-        {
-          "name": "Loren Allred",
-          "url": "https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA"
-        }
-      ],
-      "duration_ms": 191128,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/7AFlWfyhbBKQ93Y4wuNsqP"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Before You Go",
-        "url": "https://open.spotify.com/album/3SewgCi6w47DDbwSZvZnyq"
-      },
-      "artists": [
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 233865,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/2TNAiE0HUKBVR4jckoN5YE"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Both Sides Now",
         "url": "https://open.spotify.com/album/05Ye3Or5i0I36wM13lEzyt"
       },
@@ -2387,18 +2371,18 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Nothing Compares 2 U",
-        "url": "https://open.spotify.com/album/237lAdghHVsaFBpkOa7uoP"
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/3SewgCi6w47DDbwSZvZnyq"
       },
       "artists": [
         {
-          "name": "COSIMA",
-          "url": "https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH"
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
         }
       ],
-      "duration_ms": 259866,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/0m0Tv8qRoePqoWmU2Py5Gk"
+      "duration_ms": 233865,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/2TNAiE0HUKBVR4jckoN5YE"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2415,6 +2399,22 @@
       "duration_ms": 268437,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/5IqCc31SeFJd5C7v2JGq0I"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Nothing Compares 2 U",
+        "url": "https://open.spotify.com/album/237lAdghHVsaFBpkOa7uoP"
+      },
+      "artists": [
+        {
+          "name": "COSIMA",
+          "url": "https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH"
+        }
+      ],
+      "duration_ms": 259866,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/0m0Tv8qRoePqoWmU2Py5Gk"
     },
     {
       "added_at": "2023-09-04 16:45:54",

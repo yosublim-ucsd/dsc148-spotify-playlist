@@ -1,12 +1,12 @@
 {
   "description": "Majestic and bold, these new and known worship songs are great for every day.  Cover artist: <a href=\"https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw\">Kim Walker-Smith</a>",
-  "num_followers": 536227,
+  "num_followers": 536464,
   "original_name": "Songs of Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmVmZDM5ZTk2OWRjYzMyNWE4NjE4YzYzZGFmMjhjZTgzMDAzMTkw",
+  "snapshot_id": "MCwwZGI1MDc4OTc1YWM1YjIxYWQ4MWM1MjY2ZDVjM2U3MjlhMjBlZTBk",
   "tracks": [
     {
       "added_at": "2023-02-18 03:38:32",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
+        "name": "Great Are You Lord EP",
+        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
+      },
+      "artists": [
+        {
+          "name": "one sonic society",
+          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
+        }
+      ],
+      "duration_ms": 232379,
+      "name": "Great Are You Lord",
+      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
         "name": "Worthy Of Your Name (Live)",
         "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 298520,
       "name": "Glorious Day - Live",
       "url": "https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
-        "name": "Great Are You Lord EP",
-        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
-      },
-      "artists": [
-        {
-          "name": "one sonic society",
-          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
-        }
-      ],
-      "duration_ms": 232379,
-      "name": "Great Are You Lord",
-      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
     },
     {
       "added_at": "2023-02-18 03:38:32",

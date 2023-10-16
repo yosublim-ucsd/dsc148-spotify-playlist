@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not NOT pop\. Cover: ericdoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,067 likes - 98 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,078 likes - 98 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 97 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 |
 | 98 | [love that 4 u](https://open.spotify.com/track/7ulWHAI8brxFTmunoAqRCz) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE), [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [frenemy](https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU) | 4:19 |
 
-Snapshot ID: `MCw2N2IwNDU2YmNkMWVmNmY1NDJjMTQyMjlmMzIzMzQyYmQyZDc2MDA0`
+Snapshot ID: `MCw4OWJiN2JhMmNmZjg2YzllNGQ0YWQ1YzUwOGU2MTk4YWEzNTRjZGE1`

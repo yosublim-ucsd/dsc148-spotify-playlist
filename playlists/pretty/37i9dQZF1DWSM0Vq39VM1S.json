@@ -1,12 +1,12 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 152013,
+  "num_followers": 152065,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmFjNTFmNDhiZDg3N2M5MGJiODA0NzM1NmM2MzZhOTQ5NzAxMTFm",
+  "snapshot_id": "MCw2NDFkNjY2YTM1ZjBjYTNlZjNlZDAwMzQ4NDRhMWRiYmY3MWE2Mzk0",
   "tracks": [
     {
       "added_at": "2023-10-12 14:53:53",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-10-12 14:53:53",
       "album": {
-        "name": "All We've Known",
-        "url": "https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox"
-      },
-      "artists": [
-        {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/6LGoGD6GV9BadApTSaUqcv"
-    },
-    {
-      "added_at": "2023-10-12 14:53:53",
-      "album": {
         "name": "Like A Million Dreams (Live)",
         "url": "https://open.spotify.com/album/5QRgGWs8fZvzqvcHbIQqey"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 229464,
       "name": "Talk to Me - Live",
       "url": "https://open.spotify.com/track/07XDzVJcwPqKoDqUjUNJ6V"
+    },
+    {
+      "added_at": "2023-10-12 14:53:53",
+      "album": {
+        "name": "Double Shifts",
+        "url": "https://open.spotify.com/album/1UT0X66HAow7RWwlx7Jlwb"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 208448,
+      "name": "Double Shifts",
+      "url": "https://open.spotify.com/track/34JhrCXAX7JXmc3gjVaspA"
     },
     {
       "added_at": "2023-10-12 14:53:53",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-10-12 14:53:53",
       "album": {
-        "name": "Double Shifts",
-        "url": "https://open.spotify.com/album/1UT0X66HAow7RWwlx7Jlwb"
+        "name": "Best Of & Variations",
+        "url": "https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh"
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
         }
       ],
-      "duration_ms": 208448,
-      "name": "Double Shifts",
-      "url": "https://open.spotify.com/track/34JhrCXAX7JXmc3gjVaspA"
+      "duration_ms": 159706,
+      "name": "Il y a",
+      "url": "https://open.spotify.com/track/7oV4q09SIlX3YUiiTEh6Ko"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

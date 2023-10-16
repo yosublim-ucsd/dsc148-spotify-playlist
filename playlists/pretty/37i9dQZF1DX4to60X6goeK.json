@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 48980,
+  "num_followers": 49005,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmU1ODgwZjcxMDU3YzNjNDRkOGNlODdhMzlhZjdmZGNkNmJmMDVm",
+  "snapshot_id": "MCwyZWY3N2NlZTY2ZTlhMDQxNmYwZWE5MTUzOTJjNjk4ODAyM2MwOGUx",
   "tracks": [
     {
       "added_at": "2023-10-13 14:10:27",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2023-10-13 14:10:27",
       "album": {
+        "name": "Forever Changes",
+        "url": "https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6"
+      },
+      "artists": [
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Zara Kershaw",
+          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
+        }
+      ],
+      "duration_ms": 184065,
+      "name": "Forever Changes",
+      "url": "https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs"
+    },
+    {
+      "added_at": "2023-10-13 14:10:27",
+      "album": {
         "name": "Shaolin Fist",
         "url": "https://open.spotify.com/album/2qmrtp1vQ4AFI0rms52Bip"
       },
@@ -1083,22 +1103,6 @@
       "duration_ms": 180000,
       "name": "Free",
       "url": "https://open.spotify.com/track/3UIVHHvzMmAYjH7VIiburn"
-    },
-    {
-      "added_at": "2023-10-13 14:10:27",
-      "album": {
-        "name": "VOID LP",
-        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 267586,
-      "name": "Operator",
-      "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
     }
   ],
   "unique_name": "Jump Up!",

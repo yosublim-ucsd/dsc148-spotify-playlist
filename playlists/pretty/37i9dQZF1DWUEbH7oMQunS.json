@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 54505,
+  "num_followers": 54639,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWI5ZWVlZDk3MWMxMDFmZDNhNzk4MGZjYjk0ZmYzNTY5Mzg2YzEz",
+  "snapshot_id": "MCxmZmY2MmE3MjE5NmViM2I4NWZlNmYyZmJlMWRiYWVlZmRlZTZhMzgy",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Burning Edge of Dawn",
-        "url": "https://open.spotify.com/album/23a5fqEE5DSe4NOqS6wqSW"
-      },
-      "artists": [
-        {
-          "name": "Andrew Peterson",
-          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
-        }
-      ],
-      "duration_ms": 164960,
-      "name": "Be Kind to Yourself",
-      "url": "https://open.spotify.com/track/6kg7KswPKQVqJkgNaQl2MH"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Songs from Home",
         "url": "https://open.spotify.com/album/6jdZFEEGZA6KcSUiETNOUP"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 307062,
       "name": "Jesus My Beloved",
       "url": "https://open.spotify.com/track/4EsYYFhkGUz9kxjQzMx1D3"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Burning Edge of Dawn",
+        "url": "https://open.spotify.com/album/23a5fqEE5DSe4NOqS6wqSW"
+      },
+      "artists": [
+        {
+          "name": "Andrew Peterson",
+          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
+        }
+      ],
+      "duration_ms": 164960,
+      "name": "Be Kind to Yourself",
+      "url": "https://open.spotify.com/track/6kg7KswPKQVqJkgNaQl2MH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Always Will Be",
-        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Always Will Be",
-      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Holy, Holy, Holy",
         "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 207440,
       "name": "Keep On Hoping - Piano Choir Version",
       "url": "https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Always Will Be",
+        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Always Will Be",
+      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
-      },
-      "artists": [
-        {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
-        }
-      ],
-      "duration_ms": 230284,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Safe Place",
         "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 208000,
       "name": "The Invitation",
       "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "duration_ms": 230284,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "High Level Praise",
-        "url": "https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t"
-      },
-      "artists": [
-        {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
-        }
-      ],
-      "duration_ms": 198504,
-      "name": "Whirlwind",
-      "url": "https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Eternal Jetlag",
         "url": "https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 236172,
       "name": "I Go",
       "url": "https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "High Level Praise",
+        "url": "https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t"
+      },
+      "artists": [
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "duration_ms": 198504,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "an ep of some songs u can read ur bible + journal to",
-        "url": "https://open.spotify.com/album/0FjqdsNhcipVrps8W4qBra"
-      },
-      "artists": [
-        {
-          "name": "River Valley AGES",
-          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
-        }
-      ],
-      "duration_ms": 241442,
-      "name": "kindling.mp3",
-      "url": "https://open.spotify.com/track/3ajOQsKvV2LeVZhqYMLnaK"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Worship Initiative, Vol. 28 (Live)",
         "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 391413,
       "name": "Abba - Live",
       "url": "https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "an ep of some songs u can read ur bible + journal to",
+        "url": "https://open.spotify.com/album/0FjqdsNhcipVrps8W4qBra"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        }
+      ],
+      "duration_ms": 241442,
+      "name": "kindling.mp3",
+      "url": "https://open.spotify.com/track/3ajOQsKvV2LeVZhqYMLnaK"
     },
     {
       "added_at": "2023-07-28 04:02:00",

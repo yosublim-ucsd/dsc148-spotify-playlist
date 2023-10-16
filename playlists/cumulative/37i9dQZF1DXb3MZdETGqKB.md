@@ -2,9 +2,9 @@
 
 ### [Nu\-Blue](https://open.spotify.com/playlist/37i9dQZF1DXb3MZdETGqKB)
 
-> All new, all blues\. Cover: Buffalo Nichols
+> All new, all blues\. Cover: ZZ Ward
 
-244 songs - 14 hr 14 min
+245 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Don't Tell Me No Lies](https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Don't Tell Me No Lies](https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5) | 2:27 | 2021-05-14 | 2022-05-07 |
 | [Dreaming Out Loud \[Feat\. Ivan Neville, Ruthie Foster\]](https://open.spotify.com/track/0t4WzuwZWExGugFY2WM4dK) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708), [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv), [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Dreaming Out Loud](https://open.spotify.com/album/3kjYjBpTV0C2gPHpUgAm35) | 4:38 | 2023-04-07 |  |
 | [Everything You Need](https://open.spotify.com/track/2IJ7JF3Sva50EgrbCVcWW1) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Everything You Need](https://open.spotify.com/album/3yM6APa7fwLuGC4RLDmnGB) | 3:38 | 2021-06-11 | 2022-05-07 |
+| [Evil on the Inside](https://open.spotify.com/track/7wo0vrDt5C7xS0J4UHyHIP) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Evil on the Inside](https://open.spotify.com/album/7wMcL7V8JOdOeMQFTDg9yX) | 3:31 | 2023-10-13 |  |
 | [Fading Away](https://open.spotify.com/track/7FpFxqvwMMR4j1Yi1vndpK) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo) | [Fading Away](https://open.spotify.com/album/4rbAfXhaS3CKaDGSfaK9Jb) | 3:44 | 2021-02-05 | 2022-03-26 |
 | [Family](https://open.spotify.com/track/38ZY2zFUaeaaKEK4rKSClj) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Family](https://open.spotify.com/album/1jBr51Tp79sXhh6vGl7o7I) | 4:46 | 2022-12-09 | 2023-03-18 |
 | [Family](https://open.spotify.com/track/6R7Lxgc6rZoN5dslqxSZGj) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Family](https://open.spotify.com/album/2e1cQINViMkPrLdKL0U9bQ) | 4:47 | 2022-12-09 | 2022-12-16 |
@@ -150,7 +151,7 @@
 | [One Day Closer To Home](https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [One Day Closer To Home](https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc) | 3:48 | 2022-08-26 |  |
 | [Only Woman](https://open.spotify.com/track/1iOAaTWVHSTnRTTyNOAIVg) | [Ed Staal](https://open.spotify.com/artist/34t2yk9P5vrHBWLXlZlGrC) | [Only Woman](https://open.spotify.com/album/5WDdEO0SxvJnhhq68N0wUw) | 2:58 | 2023-05-19 |  |
 | [Outrun](https://open.spotify.com/track/42Xl2G8iLEOaoBU6A3ezI3) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Lynnea](https://open.spotify.com/artist/7f06QWoFAvtpEuho7NEDLN) | [Scores & Melodies Vol\. 1](https://open.spotify.com/album/6gwvqyqV3SLMlfNLU5bymG) | 3:15 | 2023-06-30 |  |
-| [OverdoZZe](https://open.spotify.com/track/4DG8UGktFzHUM72KUID52A) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Dirty Shine](https://open.spotify.com/album/5R5LNbzSStAde5KSAh053m) | 3:16 | 2023-09-08 |  |
+| [OverdoZZe](https://open.spotify.com/track/4DG8UGktFzHUM72KUID52A) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Dirty Shine](https://open.spotify.com/album/5R5LNbzSStAde5KSAh053m) | 3:16 | 2023-09-08 | 2023-10-16 |
 | [OZARK](https://open.spotify.com/track/7nAcaH62CEDb4naXyoomJU) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [OZARK](https://open.spotify.com/album/5GYl6wdaiA22kKtt2Y7aY6) | 3:44 | 2021-05-14 | 2022-05-07 |
 | [Parade](https://open.spotify.com/track/4ohUVFem8xKnnnvGz1cpIG) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Parade](https://open.spotify.com/album/7oufinnYn55dYyMTss0KmB) | 2:16 | 2021-03-09 | 2022-03-26 |
 | [Please Take My Hand](https://open.spotify.com/track/4yqt7CCaY6L4G8f0BSjibi) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Please Take My Hand](https://open.spotify.com/album/5Jc0eVKVekTtHt5rvZhVxv) | 3:03 | 2022-01-14 | 2023-09-09 |

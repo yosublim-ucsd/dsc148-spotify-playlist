@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Jamila Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,790 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,784 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 10 | [Frisco Blues](https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Frisco Blues](https://open.spotify.com/album/0KteuByNpfG6DnPfNPytbF) | 4:07 |
 | 11 | [Phoenix](https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Phoenix](https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j) | 3:33 |
 | 12 | [Jungle](https://open.spotify.com/track/2awBXPPzbOhux8MwSLozg9) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh), [Ladji Mouflet](https://open.spotify.com/artist/2NNTIDSDRlsf4lzYW9fpKm) | [Jungle](https://open.spotify.com/album/4bZ6u5RDYajHIfSenUNdwe) | 2:45 |
-| 13 | [Parker Solar Probe](https://open.spotify.com/track/0JGOPrUmv15poKwctx9Cd5) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Parker Solar Probe / Deep Green](https://open.spotify.com/album/28OoJ2mEiBD84JQriup0tk) | 2:24 |
+| 13 | [Parker Solar Probe \(feat\. Jeff Parker\)](https://open.spotify.com/track/0JGOPrUmv15poKwctx9Cd5) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Parker Solar Probe / Deep Green](https://open.spotify.com/album/28OoJ2mEiBD84JQriup0tk) | 2:24 |
 | 14 | [Let Go](https://open.spotify.com/track/7cLnbmx7ZUWAwyocrKz3wL) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa) | 2:56 |
 | 15 | [TEQUILA](https://open.spotify.com/track/2h3Pf8SrVoNpy3no4WQlEn) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCCUBUS](https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ) | 3:03 |
 | 16 | [Vin Skully](https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 1:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [All the Good Times Never Die](https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [All the Good Times Never Die](https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL) | 3:08 |
 | 100 | [Charge It](https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:05 |
 
-Snapshot ID: `MCwyNGNmYzJkMzM2MjI5YmY1ZWExNDBiZjBjNTRhZmFiYWQzZDVjM2Vj`
+Snapshot ID: `MCxjODcyZTY5Njc0Mzc4NWY5MTZmMGUyZDI2YTBkMTMyYzc5MmIxYzFh`

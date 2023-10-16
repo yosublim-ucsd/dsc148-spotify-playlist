@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics.",
-  "num_followers": 17546,
+  "num_followers": 17636,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzMzNGZhZTgyNGJiZjNhNDRkZWQ4NWUwN2U3NTkyNzVkOGU0YTMw",
+  "snapshot_id": "MCwzOTliZGI4NWU1NzQzMTlhNDk3MzY1ODFmYjkyOTg1MmM3ZjkyMDc3",
   "tracks": [
     {
       "added_at": "2023-10-12 11:27:50",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
-        "name": "JuJu",
-        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 399466,
-      "name": "Yes Or No - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
-      "url": "https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR"
-    },
-    {
-      "added_at": "2023-10-12 11:27:50",
-      "album": {
         "name": "Bird And Diz (Expanded Edition)",
         "url": "https://open.spotify.com/album/28R4xxdsuM5J9k8LekSnrK"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 157306,
       "name": "Leap Frog - Take 11 / Take 6 / Master Take",
       "url": "https://open.spotify.com/track/7xZLIErdMaUV0GmtsRclS5"
+    },
+    {
+      "added_at": "2023-10-12 11:27:50",
+      "album": {
+        "name": "JuJu",
+        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 399466,
+      "name": "Yes Or No - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR"
     },
     {
       "added_at": "2023-10-12 11:27:50",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
-        "name": "Here Comes Louis Smith (Remastered)",
-        "url": "https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf"
+        "name": "The Amazing Bud Powell: Vol. 1 (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS"
       },
       "artists": [
         {
-          "name": "Louis Smith",
-          "url": "https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX"
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
         }
       ],
-      "duration_ms": 402546,
-      "name": "Ande - Remastered 2007 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK"
+      "duration_ms": 169880,
+      "name": "52nd Street Theme - Remastered 1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0oDgc718NJn7CyiClFRExR"
     },
     {
       "added_at": "2023-10-12 11:27:50",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
-        "name": "The Amazing Bud Powell: Vol. 1 (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS"
+        "name": "Here Comes Louis Smith (Remastered)",
+        "url": "https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf"
       },
       "artists": [
         {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+          "name": "Louis Smith",
+          "url": "https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX"
         }
       ],
-      "duration_ms": 169880,
-      "name": "52nd Street Theme - Remastered 1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0oDgc718NJn7CyiClFRExR"
+      "duration_ms": 402546,
+      "name": "Ande - Remastered 2007 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK"
     },
     {
       "added_at": "2023-10-12 11:27:50",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
-        "name": "Smokin' At The Half Note (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "Impressions - Live At The Half Note /1965",
-      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
-    },
-    {
-      "added_at": "2023-10-12 11:27:50",
-      "album": {
         "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
         "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 401560,
       "name": "Arietis - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh"
+    },
+    {
+      "added_at": "2023-10-12 11:27:50",
+      "album": {
+        "name": "Smokin' At The Half Note (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "Impressions - Live At The Half Note /1965",
+      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
     },
     {
       "added_at": "2023-10-12 11:27:50",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
-        "name": "Lee Konitz with Warne Marsh",
-        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        },
-        {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
-        }
-      ],
-      "duration_ms": 377039,
-      "name": "Donna Lee",
-      "url": "https://open.spotify.com/track/2N7LJO1uufnSeXIwxooTzg"
-    },
-    {
-      "added_at": "2023-10-12 11:27:50",
-      "album": {
         "name": "Know What I Mean?",
         "url": "https://open.spotify.com/album/439SsuO2Esw1G67Xuw1HPS"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 306626,
       "name": "Toy",
       "url": "https://open.spotify.com/track/67oiijmAnyuUHAyM1k9vYW"
+    },
+    {
+      "added_at": "2023-10-12 11:27:50",
+      "album": {
+        "name": "Lee Konitz with Warne Marsh",
+        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        },
+        {
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+        }
+      ],
+      "duration_ms": 377039,
+      "name": "Donna Lee",
+      "url": "https://open.spotify.com/track/2N7LJO1uufnSeXIwxooTzg"
     },
     {
       "added_at": "2023-10-12 11:27:50",

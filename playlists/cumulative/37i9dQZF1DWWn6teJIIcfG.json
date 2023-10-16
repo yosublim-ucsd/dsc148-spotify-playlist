@@ -1947,32 +1947,6 @@
     },
     {
       "album": {
-        "name": "The Lark Ascending collection",
-        "url": "https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy"
-      },
-      "artists": [
-        {
-          "name": "William Walton",
-          "url": "https://open.spotify.com/artist/6RsX7qYw5KVKiOjS8BxjL5"
-        },
-        {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
-        },
-        {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        }
-      ],
-      "date_added": "2020-06-12",
-      "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
-      "duration_ms": 106800,
-      "name": "Henry V - Two pieces for strings: 2. Touch her soft lips and Pt. - 1988 Remaster",
-      "url": "https://open.spotify.com/track/1XdFVaI2UjsZ46bBpIeG6e"
-    },
-    {
-      "album": {
         "name": "Mozart at Midnight - A Soothing Little Night Music",
         "url": "https://open.spotify.com/album/6UIQLfGh9A42f6WiZGlknz"
       },
@@ -4372,7 +4346,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 152906,
       "name": "Soli",
       "url": "https://open.spotify.com/track/54UyP0Ap9OYjlFrkgmStVH"
@@ -5564,6 +5538,32 @@
       "duration_ms": 90600,
       "name": "Von fremden L\u00e4ndern und Menschen (From \"Kinderszenen\", Op. 15)",
       "url": "https://open.spotify.com/track/6aA88vbDLLQeid1AA8VOSp"
+    },
+    {
+      "album": {
+        "name": "The Lark Ascending collection",
+        "url": "https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy"
+      },
+      "artists": [
+        {
+          "name": "William Walton",
+          "url": "https://open.spotify.com/artist/6RsX7qYw5KVKiOjS8BxjL5"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106800,
+      "name": "Walton: Henry V: Touch Her Soft Lips and Part",
+      "url": "https://open.spotify.com/track/1XdFVaI2UjsZ46bBpIeG6e"
     },
     {
       "album": {

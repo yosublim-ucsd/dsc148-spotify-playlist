@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Neoma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,968 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,981 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 49 | [PRIVILEGIOS](https://open.spotify.com/track/2HFJ2nXf7Komq9a4Z0Bbrm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 3:05 |
 | 50 | [El corazón no engaña a su dueño \(ECNEASD\)](https://open.spotify.com/track/68xkXOW4aA6oFOsXGsg0Gj) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Iluso](https://open.spotify.com/artist/0i51gGztiY5rG4qdmkQeCP) | [El corazón no engaña a su dueño \(ECNEASD\)](https://open.spotify.com/album/3zvfgER0YAVkUu64r72r8P) | 2:53 |
 
-Snapshot ID: `MCwzYWIxNmQ2Njk5NDcxYzY0YWU4MTFkNGVjYTJmZjFmYmE4ZWE3YmFm`
+Snapshot ID: `MCxkZTg0MWQzZWVkZDQ0ZWZkNWM3OTExMDRkNDZjZTJlZDAwNjIwNGQx`

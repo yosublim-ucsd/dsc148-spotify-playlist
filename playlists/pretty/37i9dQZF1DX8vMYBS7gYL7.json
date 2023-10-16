@@ -1,12 +1,12 @@
 {
   "description": "Un poco de sabrosura y color para esos d\u00edas lluviosos.",
-  "num_followers": 32830,
+  "num_followers": 32887,
   "original_name": "Lluvia Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGY1MWI1MTRiYmVlNmQ0MDk1NWVmMmYyY2QxZDNlYWEzNWZiZjdl",
+  "snapshot_id": "MCxkNGExYTg0Yzg3MmU2YjlmYWZhZjFiNzdmYmI0Nzc1ZmI5MGI1OWQ0",
   "tracks": [
     {
       "added_at": "2021-11-23 20:12:50",
@@ -587,18 +587,22 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        },
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
         }
       ],
-      "duration_ms": 218373,
-      "name": "El Papel Part 1 (Versi\u00f3n Amante)",
-      "url": "https://open.spotify.com/track/4uUxCpAWzNxpMXoUYCoERX"
+      "duration_ms": 228373,
+      "name": "El Rat\u00f3n",
+      "url": "https://open.spotify.com/track/4nB0lLsweZhCQQYIMnFjSB"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -619,22 +623,18 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
       },
       "artists": [
         {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        },
-        {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 228373,
-      "name": "El Rat\u00f3n",
-      "url": "https://open.spotify.com/track/4nB0lLsweZhCQQYIMnFjSB"
+      "duration_ms": 218373,
+      "name": "El Papel Part 1 (Versi\u00f3n Amante)",
+      "url": "https://open.spotify.com/track/4uUxCpAWzNxpMXoUYCoERX"
     },
     {
       "added_at": "2021-11-23 20:12:50",

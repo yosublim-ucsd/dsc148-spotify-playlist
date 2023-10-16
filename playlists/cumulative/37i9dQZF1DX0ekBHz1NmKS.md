@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-811 songs - 1 day 18 hr 54 min
+812 songs - 1 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Cold Shoulder](https://open.spotify.com/track/34snSDVVV1KB4bbTZjIB05) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Cold Shoulder](https://open.spotify.com/album/5gO8l10JAF0ONPQILQNJ0Z) | 3:04 | 2022-05-05 | 2022-07-17 |
 | [Cold Turkey](https://open.spotify.com/track/3f17XRSpPLhtdt3ofn56qG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Cold Turkey](https://open.spotify.com/album/6cMalQrIbI5ycQijYAjHMc) | 2:33 | 2023-08-25 |  |
 | [Coldtrain](https://open.spotify.com/track/4vSno0DWQgIWvpaSHa4SXX) | [Caspar Camitz](https://open.spotify.com/artist/7Mymyw9vEuRvJKD9Fy919Q), [Katmanlo](https://open.spotify.com/artist/1jXMfZgRIg0JlqF5MMst97) | [By The End Of Coldtrain](https://open.spotify.com/album/4wFhlNN5WJ9hs33mFgTZaT) | 3:31 | 2021-12-16 | 2022-04-02 |
+| [Come Get Me Out](https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [don't look at the moon...](https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6) | 3:22 | 2023-10-13 |  |
 | [Cool Kids](https://open.spotify.com/track/48w0n6R4pVu0gamM91ZQcE) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Cool Kids](https://open.spotify.com/album/5VctleKkq3DNVXv6zjcVzt) | 2:31 | 2022-03-10 | 2022-07-13 |
 | [Cool Me Down](https://open.spotify.com/track/3DCvfTFHAaCuTNlGED83Tp) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3pXwhMt1lC8J3km8kzDbkA) | 2:38 | 2022-06-21 | 2022-08-17 |
 | [Crash](https://open.spotify.com/track/0CoKakshKgdDSDhb1pzWdZ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Crash](https://open.spotify.com/album/3jUPJ9cVv8woNRpqwn3JwN) | 3:10 | 2021-12-16 | 2022-03-10 |
@@ -656,7 +657,7 @@
 | [Stoppa tiden](https://open.spotify.com/track/7AmSDYMfUdmhlAmimBkfVu) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Stoppa tiden](https://open.spotify.com/album/0alS5ksB0B87GyJJCtIjXV) | 2:57 | 2021-12-16 | 2022-03-11 |
 | [Stor på jorden](https://open.spotify.com/track/4EHdsE2k1WiTJ4z7eCEUjB) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [Stor på jorden/Snäll med John](https://open.spotify.com/album/6HHh3OPNMzr7EwuA46fpm6) | 5:43 | 2022-09-29 | 2022-11-13 |
 | [Stora blå](https://open.spotify.com/track/4iOofOqrmdCTLopFFbUw6D) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk) | [Över Broarna](https://open.spotify.com/album/3v9SCu8MMIpxu3lVYF9Xvv) | 2:59 | 2023-05-25 |  |
-| [Stupid Little Party Girl](https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Stupid Little Party Girl](https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw) | 2:59 | 2023-10-05 |  |
+| [Stupid Little Party Girl](https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Stupid Little Party Girl](https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw) | 2:59 | 2023-10-05 | 2023-10-16 |
 | [Stökigt Hjärta](https://open.spotify.com/track/20zZK5S3jiQ5OjRlIVxcS9) | [MIA](https://open.spotify.com/artist/364nwDA1paIChosKjuNMV3) | [Maria](https://open.spotify.com/album/1CyBd1aY5oBzJLe8w9AijU) | 3:54 | 2021-12-16 | 2022-04-02 |
 | [Större](https://open.spotify.com/track/00FlGPGBmC8kjtzBE0Yb1M) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Större](https://open.spotify.com/album/1t9Y1lXxIG52p0x0oPeKcb) | 3:03 | 2022-09-15 | 2022-10-14 |
 | [Sucker for You](https://open.spotify.com/track/15AhbX3z27BVNYMdW0VCnm) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Sucker for You](https://open.spotify.com/album/4G8vvpRiV5k99TGg5gD4Pz) | 3:20 | 2021-12-16 | 2022-03-08 |
@@ -708,7 +709,7 @@
 | [The Closer I Get to You](https://open.spotify.com/track/6W6jIB4PuRCzDXUp8jqsFH) | [Ariel T](https://open.spotify.com/artist/1jV6ZVJ5WPoWiYZfOolQV6), [Jessica Curran](https://open.spotify.com/artist/35rx7faGtSDlHnEeUO1ROV) | [The Closer I Get to You](https://open.spotify.com/album/5bfes7y0TpA4doKDUnfK5G) | 3:39 | 2022-03-24 | 2022-04-01 |
 | [The Days](https://open.spotify.com/track/6PEk3WWhhxbQQwQVVbGB0f) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [The Days](https://open.spotify.com/album/4dLgdo7d2lTiVnK4Fzk3Zu) | 2:36 | 2022-03-04 | 2022-09-16 |
 | [The End](https://open.spotify.com/track/7jsFdCtwoNACqBXBmcYglm) | [Angelino](https://open.spotify.com/artist/3PI9Zv8cDF0Fh0UlqohJir) | [The End](https://open.spotify.com/album/3NjjdMOVHXBu7IEG3jZ3AA) | 3:00 | 2022-03-03 | 2022-05-13 |
-| [The Ick](https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [The Ick](https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN) | 2:38 | 2023-07-13 |  |
+| [The Ick](https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [The Ick](https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN) | 2:38 | 2023-07-13 | 2023-10-16 |
 | [The One That Got Away](https://open.spotify.com/track/3N8oEZaFxE2DbASc7Wpw8t) | [Brandt](https://open.spotify.com/artist/6FShVH7NfiowNaNumqeBhZ) | [The One That Got Away](https://open.spotify.com/album/61rig1QszCo1eXuuej4aGD) | 2:40 | 2022-03-10 | 2022-05-08 |
 | [The River](https://open.spotify.com/track/2wBy3s54lq5HmJgUIp9SBA) | [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj) | [The River](https://open.spotify.com/album/2BfuSNlZYVmszJzluzFTkb) | 3:20 | 2022-03-17 | 2022-07-29 |
 | [The Terrace](https://open.spotify.com/track/7IbQF9e3Lz1LBPsCxTnBF3) | [Jolina Elísh](https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK) | [The Terrace](https://open.spotify.com/album/7I3sbs1SUZU7VGKIQEOxSz) | 2:55 | 2021-12-16 | 2021-12-23 |
@@ -795,7 +796,7 @@
 | [wish I didn't know you](https://open.spotify.com/track/5eqawn12Jr65SvCFHvL3Jh) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [wish I didn't know you](https://open.spotify.com/album/1vjdyS508kWh3k8KbUK4nU) | 2:53 | 2022-10-15 | 2023-06-01 |
 | [Wishful Thinking](https://open.spotify.com/track/2JtbYlm4BF5rLFrhkyHXU1) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Wishful Thinking](https://open.spotify.com/album/6X2z7A7ecxou7Hz7haotFO) | 4:03 | 2022-02-05 | 2022-05-13 |
 | [Wishing well](https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Foam](https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m) | 2:24 | 2023-06-22 |  |
-| [Wolf Cries](https://open.spotify.com/track/1UENNNlQETDaFv7Yvyoc5v) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Wolf Cries](https://open.spotify.com/album/2UbWIKOOJj6Zgg8LrVCAY3) | 3:10 | 2023-08-25 | 2023-10-15 |
+| [Wolf Cries](https://open.spotify.com/track/1UENNNlQETDaFv7Yvyoc5v) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Wolf Cries](https://open.spotify.com/album/2UbWIKOOJj6Zgg8LrVCAY3) | 3:10 | 2023-08-25 |  |
 | [Woman](https://open.spotify.com/track/2aZghG8jayn0ZjvUN3EiL5) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Woman](https://open.spotify.com/album/54LgsqW9nfE6BjspyJz7K8) | 3:41 | 2023-09-28 |  |
 | [Wonderchild \- Spotify Singles](https://open.spotify.com/track/3Dp49tho4cUwwrogE2SQaG) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Wonderchild \- Spotify Singles](https://open.spotify.com/album/53UPgh5ZFAmsuZtmQqiyO9) | 3:41 | 2022-05-12 | 2023-10-06 |
 | [Worst Mom](https://open.spotify.com/track/4EqDdwHM4tgzTZebfqBEXd) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Worst Mom](https://open.spotify.com/album/2yJGak5X0vnrCtydSe1xau) | 3:01 | 2023-09-21 |  |

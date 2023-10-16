@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Derxan",
-  "num_followers": 128411,
+  "num_followers": 128498,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmRmOTU2MDAxNGQ4NTMzZmIyMDM1MWQ3ZjA3YjliYmJiYzAzNzU0",
+  "snapshot_id": "MCw1ZDBhNDc0YjNkMTg5YTE4NjZmNzdmOWRiZGEzZWNlYzU1NGY0NTg4",
   "tracks": [
     {
       "added_at": "2023-10-13 16:16:09",
@@ -747,30 +747,6 @@
     {
       "added_at": "2023-10-13 16:16:09",
       "album": {
-        "name": "No Bank's",
-        "url": "https://open.spotify.com/album/07QrmBl9FqFiDYUd1jY4C8"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        }
-      ],
-      "duration_ms": 188437,
-      "name": "No Bank's",
-      "url": "https://open.spotify.com/track/4Wwm8sCBEBuVYie9jiFvx9"
-    },
-    {
-      "added_at": "2023-10-13 16:16:09",
-      "album": {
         "name": "Lista De Contato",
         "url": "https://open.spotify.com/album/03uQr7q1MyOiW7qOQ1atNG"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 122826,
       "name": "Lista De Contato",
       "url": "https://open.spotify.com/track/6HQG4Qek65p5TwbMalqN1M"
+    },
+    {
+      "added_at": "2023-10-13 16:16:09",
+      "album": {
+        "name": "No Bank's",
+        "url": "https://open.spotify.com/album/07QrmBl9FqFiDYUd1jY4C8"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        }
+      ],
+      "duration_ms": 188437,
+      "name": "No Bank's",
+      "url": "https://open.spotify.com/track/4Wwm8sCBEBuVYie9jiFvx9"
     },
     {
       "added_at": "2023-10-13 16:16:09",

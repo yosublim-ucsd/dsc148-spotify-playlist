@@ -4,7 +4,7 @@
 
 > Celebrating the godfather of Afrobeat.<br/> Cover: Fela Kuti
 
-199 songs - 14 hr 40 min
+200 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [Soke](https://open.spotify.com/track/4bzS0aUqNJIKiXk86k4tol) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [On A Spaceship](https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev) | 3:38 | 2020-11-06 | 2023-03-22 |
 | [Soke](https://open.spotify.com/track/5odE6ttDuVxOebSaXsjTVz) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [On A Spaceship](https://open.spotify.com/album/3U376DqaKiHspytrUEDKjd) | 3:38 | 2020-11-06 | 2022-07-29 |
 | [Sorkode](https://open.spotify.com/track/4jPxPF4jj0liUxoDI2bIBy) | [Keche](https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E) | [Sorkode \- Single](https://open.spotify.com/album/111KYIWPCaBCdwN711Xy3g) | 3:40 | 2020-11-06 | 2023-03-22 |
-| [Stalemate](https://open.spotify.com/track/5xyToYNFTJ4PrGHBQiKZYZ) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Stalemate](https://open.spotify.com/album/6bDTCgbQhyK8PBSiZktnKb) | 12:54 | 2023-10-13 |  |
+| [Stalemate](https://open.spotify.com/track/5xyToYNFTJ4PrGHBQiKZYZ) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Stalemate](https://open.spotify.com/album/6bDTCgbQhyK8PBSiZktnKb) | 12:54 | 2023-10-13 | 2023-10-16 |
+| [Stalemate \(Edit\)](https://open.spotify.com/track/6Nc3VlsiqEZNvF42ziCCAl) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Stalemate \(Edit\)](https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd) | 6:43 | 2023-10-15 |  |
 | [Surulere \(feat\. Don Jazzy\)](https://open.spotify.com/track/2WR6NyRgg3Sm5gOOsA1uVb) | [Dr SID](https://open.spotify.com/artist/1A1IEvjX2MyuMXDDsSW8sD), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Siduction \(Deluxe Edition\)](https://open.spotify.com/album/27wGHWT4Js0Y2hyjdQns0f) | 3:52 | 2023-03-21 | 2023-06-22 |
 | [Swagger](https://open.spotify.com/track/1rVyxy6CRo3dB5z5oNKZfc) | [Ruff\-N\-Smooth](https://open.spotify.com/artist/4KSIIR6dY7MPuq5WRWfS56), [Stay Jay](https://open.spotify.com/artist/5y43lOR941Xj5lwV2JQwGW) | [Life Is Rough & Smooth](https://open.spotify.com/album/5p9tj9UKG6DSzGg36pVWjl) | 4:43 | 2020-11-06 | 2023-03-22 |
 | [Takeover](https://open.spotify.com/track/0dq8cqrAO0cLUuPKkAN6LC) | [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [Takeover](https://open.spotify.com/album/34PvCMMrpwVwS3dNWvQCNM) | 2:58 | 2020-11-06 | 2023-03-22 |

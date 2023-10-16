@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1354,
+  "num_followers": 1355,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2JjNTA2MDgzMzdiMDU4N2U0OWQ1MGY3NmNiNWZmZjQzN2ZiNDEy",
+  "snapshot_id": "MCw4YmI3ZTU4MTM4ODZiZDY5OWQxZjAwYjc4ZGUzOGY2ZDkyZjNlZjI3",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Transportes en mis vacaciones",
-        "url": "https://open.spotify.com/album/0fRPfcwOayugABKgIPtJIE"
-      },
-      "artists": [
-        {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
-        }
-      ],
-      "duration_ms": 70739,
-      "name": "Al agua patos",
-      "url": "https://open.spotify.com/track/2FLv7uVCeSonmiYPUDFt2S"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Let The Sun Shine",
         "url": "https://open.spotify.com/album/5abWJo4J0NxR4pVgkkjHCx"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 109373,
       "name": "Clean Up Your Toys",
       "url": "https://open.spotify.com/track/55mGuJIzV9aTW85NXs4FQ8"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Transportes en mis vacaciones",
+        "url": "https://open.spotify.com/album/0fRPfcwOayugABKgIPtJIE"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "duration_ms": 70739,
+      "name": "Al agua patos",
+      "url": "https://open.spotify.com/track/2FLv7uVCeSonmiYPUDFt2S"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
-      },
-      "artists": [
-        {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
-        }
-      ],
-      "duration_ms": 43626,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Please Come To My Party",
         "url": "https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 144666,
       "name": "The Potty Song",
       "url": "https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+      },
+      "artists": [
+        {
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+        }
+      ],
+      "duration_ms": 43626,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -595,6 +595,38 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "20 Canciones Infantiles",
+        "url": "https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3"
+      },
+      "artists": [
+        {
+          "name": "Osito Panda Band",
+          "url": "https://open.spotify.com/artist/7inibjUUHj4r6jxRyBsJq0"
+        }
+      ],
+      "duration_ms": 112400,
+      "name": "Ba\u00f1o de Burbujas",
+      "url": "https://open.spotify.com/track/6vbNjLS9g232wXDnjb7akW"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+      },
+      "artists": [
+        {
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+        }
+      ],
+      "duration_ms": 66613,
+      "name": "The Potty Dance Song",
+      "url": "https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Sesame Street: Splish Splash - Bath Time Fun",
         "url": "https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw"
       },
@@ -611,22 +643,6 @@
       "duration_ms": 171800,
       "name": "Kids Just Love to Brush",
       "url": "https://open.spotify.com/track/6mb6WxUM7Fxh7GeCQalkW9"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "20 Canciones Infantiles",
-        "url": "https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3"
-      },
-      "artists": [
-        {
-          "name": "Osito Panda Band",
-          "url": "https://open.spotify.com/artist/7inibjUUHj4r6jxRyBsJq0"
-        }
-      ],
-      "duration_ms": 112400,
-      "name": "Ba\u00f1o de Burbujas",
-      "url": "https://open.spotify.com/track/6vbNjLS9g232wXDnjb7akW"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -663,38 +679,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
-      },
-      "artists": [
-        {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
-        }
-      ],
-      "duration_ms": 66613,
-      "name": "The Potty Dance Song",
-      "url": "https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Mojo A Go Go - Real Rock For Kids",
-        "url": "https://open.spotify.com/album/17unav8C6QE4UmvLGxMPVu"
-      },
-      "artists": [
-        {
-          "name": "Daddy A Go Go",
-          "url": "https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Do The Chores",
-      "url": "https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "CD8: Lleg\u00f3 Panam",
         "url": "https://open.spotify.com/album/5UYrctjSWKpA7IkP2DTSuW"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 150906,
       "name": "A Comer Que la Mesa Est\u00e1 Servida",
       "url": "https://open.spotify.com/track/6zjcZbjisG5c3pCuxhpp2s"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Mojo A Go Go - Real Rock For Kids",
+        "url": "https://open.spotify.com/album/17unav8C6QE4UmvLGxMPVu"
+      },
+      "artists": [
+        {
+          "name": "Daddy A Go Go",
+          "url": "https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Do The Chores",
+      "url": "https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -776,13 +776,13 @@
           "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
         },
         {
-          "name": "Sesame Street's Gordon",
-          "url": "https://open.spotify.com/artist/3gC3iIFCSULaG9w18MsSJe"
+          "name": "Sesame Street's Olivia",
+          "url": "https://open.spotify.com/artist/5rYht0MbgC4BBWy5sMxeGr"
         }
       ],
-      "duration_ms": 103147,
-      "name": "Exercise Time",
-      "url": "https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q"
+      "duration_ms": 93812,
+      "name": "Snack Time (Juice and Cookies)",
+      "url": "https://open.spotify.com/track/0he5JaHRZGio2iZOwwxe0N"
     },
     {
       "added_at": "2023-03-17 09:43:03",

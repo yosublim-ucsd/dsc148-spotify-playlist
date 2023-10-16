@@ -4,7 +4,7 @@
 
 > it was never just a phase
 
-174 songs - 8 hr 55 min
+175 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alone](https://open.spotify.com/track/5lnKrYXmiDqVcHbhrLqSYx) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Unwanted](https://open.spotify.com/album/2j1AQqwSWqsMaJ5WCS1LlY) | 3:13 | 2022-08-16 | 2022-09-12 |
 | [Angel](https://open.spotify.com/track/74Fdji9Eqzbyg6WCAxT0VB) | [stayMellow](https://open.spotify.com/artist/6RhEqjb8lmpdjfU0oqCilk) | [Angel](https://open.spotify.com/album/7l2L7VOyM6rudAFqDb46Gy) | 2:29 | 2021-11-19 | 2022-07-29 |
 | [Another Kill For The Highlight Reel](https://open.spotify.com/track/42Zrm6dR3rios7W7I1NizE) | [Save Face](https://open.spotify.com/artist/5DpkPhxrNNiGAJPY5seREe) | [Another Kill For The Highlight Reel](https://open.spotify.com/album/39YX5r0mg91HGw2scZLm3x) | 3:07 | 2021-11-19 | 2022-07-28 |
+| [Backtrack](https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy) | 2:38 | 2022-12-08 |  |
 | [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 | 2022-12-08 | 2023-05-20 |
 | [Battery Acid](https://open.spotify.com/track/0zpHZpndsCilIDv73NbA1r) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/7vxAadu513Cj4xqDEsApDo) | 5:19 | 2022-08-16 | 2022-10-15 |
 | [Battery Acid](https://open.spotify.com/track/1Z61fnfYnLiE9hvbKgqbxp) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/3P9qDVbj3woeznS2EgkU2x) | 5:19 | 2022-08-16 | 2023-09-11 |
@@ -81,7 +82,7 @@
 | [Hate Me](https://open.spotify.com/track/1Lk13k8L1NPszPjKoNio3G) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [Hate Me](https://open.spotify.com/album/1XTGnMBP75w3lVdfWYIi4c) | 2:48 | 2021-11-19 | 2022-12-08 |
 | [Hate Me \(Sometimes\)](https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 3:53 | 2021-11-19 |  |
 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 | 2021-11-19 | 2022-12-09 |
-| [Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Heaven Without You](https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6) | 2:55 | 2023-05-19 |  |
+| [Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Heaven Without You](https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6) | 2:55 | 2023-05-19 | 2023-10-16 |
 | [Heavy](https://open.spotify.com/track/0vl7pdzy0g0mHpgK9LDbVA) | [Blonder](https://open.spotify.com/artist/0AhjcWvgOYE0lPpuTMh1i9) | [Heavy](https://open.spotify.com/album/7uXrBLU63hlBn4LS13mMf8) | 3:05 | 2021-11-19 | 2022-07-18 |
 | [Her](https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 2:08 | 2022-08-16 |  |
 | [Her](https://open.spotify.com/track/7AKWV3l6tVrhLj9nstvdHg) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Her](https://open.spotify.com/album/5M8n87fIB9ystGFr2q1teu) | 2:08 | 2021-11-19 | 2022-07-28 |

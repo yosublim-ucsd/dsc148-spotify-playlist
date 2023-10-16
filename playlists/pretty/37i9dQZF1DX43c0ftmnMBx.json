@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 227842,
+  "num_followers": 227914,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGEyOTRjMjQ3MjFjZjAwYjQ2ODgxMTBhMGVhYjk4MjE4YTA4OWQ5",
+  "snapshot_id": "MCxlYTlkZWM1MGY4OTdhMDM0NDU4ODEwY2Y1M2Y0ZTQ2YzVkNWVmMWY0",
   "tracks": [
     {
       "added_at": "2023-04-27 23:54:49",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
+        "name": "El Amor",
+        "url": "https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 172440,
+      "name": "El Intruso",
+      "url": "https://open.spotify.com/track/0gSBSVrek88L0xnSUQwlst"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
         "name": "A la Mar",
         "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 197076,
       "name": "Mi Pecadito",
       "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
-        "name": "El Amor",
-        "url": "https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 172440,
-      "name": "El Intruso",
-      "url": "https://open.spotify.com/track/0gSBSVrek88L0xnSUQwlst"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Tres Palabras",
-        "url": "https://open.spotify.com/album/15V8Q5wvYKMVm1tagU4ms5"
-      },
-      "artists": [
-        {
-          "name": "Elvis Martinez El Camar\u00f3n",
-          "url": "https://open.spotify.com/artist/0lk9ZWji6LAxpqlfcXMspP"
-        }
-      ],
-      "duration_ms": 231191,
-      "name": "Maestra",
-      "url": "https://open.spotify.com/track/6NOgTDhJDbsxGzyseTXe0c"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "Carta De Verano",
         "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 245253,
       "name": "Intentalo Tu",
       "url": "https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Tres Palabras",
+        "url": "https://open.spotify.com/album/15V8Q5wvYKMVm1tagU4ms5"
+      },
+      "artists": [
+        {
+          "name": "Elvis Martinez El Camar\u00f3n",
+          "url": "https://open.spotify.com/artist/0lk9ZWji6LAxpqlfcXMspP"
+        }
+      ],
+      "duration_ms": 231191,
+      "name": "Maestra",
+      "url": "https://open.spotify.com/track/6NOgTDhJDbsxGzyseTXe0c"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Todo Tiene Su Hora",
-        "url": "https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "Muchachita Linda",
-      "url": "https://open.spotify.com/track/77KKwTZ8IH6Iz2gxyQCUlQ"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "Creiste",
         "url": "https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 257488,
       "name": "Creiste",
       "url": "https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Todo Tiene Su Hora",
+        "url": "https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "Muchachita Linda",
+      "url": "https://open.spotify.com/track/77KKwTZ8IH6Iz2gxyQCUlQ"
     },
     {
       "added_at": "2023-04-27 23:54:49",

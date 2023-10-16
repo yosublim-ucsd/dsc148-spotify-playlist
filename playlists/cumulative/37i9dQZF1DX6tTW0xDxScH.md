@@ -4,7 +4,7 @@
 
 > Where everything is lovely and snuggly <3
 
-263 songs - 16 hr 35 min
+264 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,9 +31,10 @@
 | [Big Jet Plane](https://open.spotify.com/track/5Z1U0knfYnsfvZycgDeOiC) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down The Way](https://open.spotify.com/album/1Ib6a1XRZ0vOzFSr2BPiWe) | 3:59 | 2022-04-27 | 2022-07-28 |
 | [Birds Dont Sing](https://open.spotify.com/track/0V34LU5aBA3hYgq178hFFY) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/6WrxgVbi9Q96gV8tZMq3FH) | 3:29 | 2021-10-18 | 2022-02-08 |
 | [Black Leaves](https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2) | 1:44 | 2023-01-06 | 2023-10-14 |
+| [Black Leaves](https://open.spotify.com/track/7wTXoVGiDC9jS0oxdfwLKv) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/1TNajOxU7C8rl6ciy5r1Im) | 1:44 | 2023-04-04 |  |
 | [Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 1:40 | 2023-01-06 |  |
 | [Bodies Lie](https://open.spotify.com/track/3EmPt5Hsx40X5xKsZF0sOP) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Bodies Lie](https://open.spotify.com/album/3tTPYeDCoc0Z3sc1EALUGx) | 3:38 | 2021-10-18 | 2022-07-29 |
-| [Boy With The Blues](https://open.spotify.com/track/60r07P2OrlvVAUR8p3RRHE) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Boy With The Blues](https://open.spotify.com/album/3tKn8nZYwdJdocwmQhxT2T) | 2:55 | 2021-10-18 |  |
+| [Boy With The Blues](https://open.spotify.com/track/60r07P2OrlvVAUR8p3RRHE) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Boy With The Blues](https://open.spotify.com/album/3tKn8nZYwdJdocwmQhxT2T) | 2:55 | 2021-10-18 | 2023-10-16 |
 | [Call On Me](https://open.spotify.com/track/4HljoGSCvaFsesUZWpb2mK) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Big Brother & The Holding Company](https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu) | 2:32 | 2022-04-27 | 2023-01-07 |
 | [Campfire](https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk) | 5:19 | 2022-04-27 | 2023-01-07 |
 | [Campfire](https://open.spotify.com/track/41ME5dAx2Qe1pfZ0ypuCBu) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Campfire](https://open.spotify.com/album/6kXIKI0RpjMBNKT80mc4Ni) | 5:19 | 2021-10-18 | 2022-07-29 |

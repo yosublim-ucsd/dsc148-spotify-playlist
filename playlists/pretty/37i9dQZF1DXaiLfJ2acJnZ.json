@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 42292,
+  "num_followers": 42391,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2I0NWY4NjdhZWExMzQwMzlmYzMwMWViMjQ0MTMxNDY0Y2QzOTU2",
+  "snapshot_id": "MCxiM2QyN2NhZTM5N2EzYjI1NWI2MjRmN2JiMThjZDQwMGQwNGFhYzFm",
   "tracks": [
     {
       "added_at": "2023-10-03 18:58:47",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "the way things go",
-        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "the way things go",
-      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
-    },
-    {
-      "added_at": "2023-10-03 18:58:47",
-      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 234266,
       "name": "Promise",
       "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
+    },
+    {
+      "added_at": "2023-10-03 18:58:47",
+      "album": {
+        "name": "the way things go",
+        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "the way things go",
+      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
     },
     {
       "added_at": "2023-10-03 18:58:47",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "live more & love more",
-        "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
+        "name": "At Your Worst",
+        "url": "https://open.spotify.com/album/0dhaQArDYjNo5woJGbXaYU"
       },
       "artists": [
         {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 158259,
-      "name": "live more & love more",
-      "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
+      "duration_ms": 167201,
+      "name": "At Your Worst",
+      "url": "https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw"
     },
     {
       "added_at": "2023-10-03 18:58:47",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "At Your Worst",
-        "url": "https://open.spotify.com/album/0dhaQArDYjNo5woJGbXaYU"
+        "name": "live more & love more",
+        "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 167201,
-      "name": "At Your Worst",
-      "url": "https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw"
+      "duration_ms": 158259,
+      "name": "live more & love more",
+      "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
     },
     {
       "added_at": "2023-10-03 18:58:47",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "people pleaser / sleep at night",
-        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 146654,
-      "name": "people pleaser",
-      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
-    },
-    {
-      "added_at": "2023-10-03 18:58:47",
-      "album": {
         "name": "Born To Be Alive",
         "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 157068,
       "name": "Born To Be Alive",
       "url": "https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq"
+    },
+    {
+      "added_at": "2023-10-03 18:58:47",
+      "album": {
+        "name": "House Song",
+        "url": "https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 294189,
+      "name": "House Song",
+      "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
     },
     {
       "added_at": "2023-10-03 18:58:47",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "House Song",
-        "url": "https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2"
+        "name": "people pleaser / sleep at night",
+        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
       },
       "artists": [
         {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 294189,
-      "name": "House Song",
-      "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
+      "duration_ms": 146654,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
       "added_at": "2023-10-03 18:58:47",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "On Purpose (For My Future Daughter)",
-        "url": "https://open.spotify.com/album/3k0VX6EgPWqqOxqdBvpxtI"
+        "name": "That's Just The Way It Is, Babe",
+        "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
       },
       "artists": [
         {
-          "name": "Bellah Mae",
-          "url": "https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT"
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
         }
       ],
-      "duration_ms": 186885,
-      "name": "On Purpose (For My Future Daughter)",
-      "url": "https://open.spotify.com/track/2iEGf6cKhUrzbtRaltEtLn"
+      "duration_ms": 208253,
+      "name": "That\u2019s Just The Way It Is, Babe",
+      "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
     },
     {
       "added_at": "2023-10-03 18:58:47",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "That's Just The Way It Is, Babe",
-        "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
+        "name": "On Purpose (For My Future Daughter)",
+        "url": "https://open.spotify.com/album/3k0VX6EgPWqqOxqdBvpxtI"
       },
       "artists": [
         {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+          "name": "Bellah Mae",
+          "url": "https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT"
         }
       ],
-      "duration_ms": 208253,
-      "name": "That\u2019s Just The Way It Is, Babe",
-      "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
+      "duration_ms": 186885,
+      "name": "On Purpose (For My Future Daughter)",
+      "url": "https://open.spotify.com/track/2iEGf6cKhUrzbtRaltEtLn"
     },
     {
       "added_at": "2023-10-03 18:58:47",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 190348,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
-    },
-    {
-      "added_at": "2023-10-03 18:58:47",
-      "album": {
         "name": "Better Man",
         "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 192130,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
+    },
+    {
+      "added_at": "2023-10-03 18:58:47",
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 190348,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
     },
     {
       "added_at": "2023-10-03 18:58:47",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL"
-      },
-      "artists": [
-        {
-          "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 159490,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR"
-    },
-    {
-      "added_at": "2023-10-03 18:58:47",
-      "album": {
         "name": "1,000,000 X Better",
         "url": "https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 191739,
       "name": "1,000,000 X Better",
       "url": "https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU"
+    },
+    {
+      "added_at": "2023-10-03 18:58:47",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 159490,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR"
     },
     {
       "added_at": "2023-10-03 18:58:47",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "I Just Came To Dance",
-        "url": "https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3"
+        "name": "Kiss You",
+        "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
       },
       "artists": [
         {
-          "name": "Mae Muller",
-          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
         }
       ],
-      "duration_ms": 144950,
-      "name": "I Just Came To Dance",
-      "url": "https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg"
+      "duration_ms": 152506,
+      "name": "Kiss You",
+      "url": "https://open.spotify.com/track/61vlpInisekQjqqipr7HkP"
     },
     {
       "added_at": "2023-10-03 18:58:47",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "Kiss You",
-        "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
-      },
-      "artists": [
-        {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
-        }
-      ],
-      "duration_ms": 152506,
-      "name": "Kiss You",
-      "url": "https://open.spotify.com/track/61vlpInisekQjqqipr7HkP"
-    },
-    {
-      "added_at": "2023-10-03 18:58:47",
-      "album": {
         "name": "Self-Portrait",
         "url": "https://open.spotify.com/album/6knL6sodlU2l6vZKbD33e0"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 141648,
       "name": "Self-Portrait",
       "url": "https://open.spotify.com/track/0vcCSUW0GskE8uN2xdj60f"
+    },
+    {
+      "added_at": "2023-10-03 18:58:47",
+      "album": {
+        "name": "I Just Came To Dance",
+        "url": "https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3"
+      },
+      "artists": [
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        }
+      ],
+      "duration_ms": 144950,
+      "name": "I Just Came To Dance",
+      "url": "https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg"
     },
     {
       "added_at": "2023-10-03 18:58:47",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/2GKhkvJTatWhOmgpCCJ8Hn"
-      },
-      "artists": [
-        {
-          "name": "Lucy Spraggan",
-          "url": "https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N"
-        }
-      ],
-      "duration_ms": 214517,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/7BgNOCMi4rACAAFwy7o9mu"
-    },
-    {
-      "added_at": "2023-10-03 18:58:47",
-      "album": {
         "name": "Amelia",
         "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 131793,
       "name": "Amelia",
       "url": "https://open.spotify.com/track/2Di10SMcYqTKahN7lJazFe"
+    },
+    {
+      "added_at": "2023-10-03 18:58:47",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/2GKhkvJTatWhOmgpCCJ8Hn"
+      },
+      "artists": [
+        {
+          "name": "Lucy Spraggan",
+          "url": "https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N"
+        }
+      ],
+      "duration_ms": 214517,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/7BgNOCMi4rACAAFwy7o9mu"
     },
     {
       "added_at": "2023-10-03 18:58:47",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "One Foot in Front of the Other",
-        "url": "https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 192075,
-      "name": "One Foot in Front of the Other",
-      "url": "https://open.spotify.com/track/032DRv0baStN644jRO2lMV"
-    },
-    {
-      "added_at": "2023-10-03 18:58:47",
-      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 171913,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ"
+    },
+    {
+      "added_at": "2023-10-03 18:58:47",
+      "album": {
+        "name": "One Foot in Front of the Other",
+        "url": "https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 192075,
+      "name": "One Foot in Front of the Other",
+      "url": "https://open.spotify.com/track/032DRv0baStN644jRO2lMV"
     },
     {
       "added_at": "2023-10-03 18:58:47",

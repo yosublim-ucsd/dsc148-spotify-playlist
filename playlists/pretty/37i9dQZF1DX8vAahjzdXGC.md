@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Nadin Amizah
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,720 likes - 112 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,757 likes - 112 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Berpayung Tuhan](https://open.spotify.com/track/5n7JlSbYBsUSncCwm5OAOh) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Untuk Dunia, Cinta, dan Kotornya](https://open.spotify.com/album/5hpq1LSLCuC7cifjXAM5bf) | 4:57 |
 | 2 | [Kedua Kalinya](https://open.spotify.com/track/0CD18spunh2xDmVT3dxWn6) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Kedua Kalinya](https://open.spotify.com/album/2mgWzcDpTtiu64WIKdvK8E) | 3:59 |
 | 3 | [Biarku Merindu](https://open.spotify.com/track/6CxAzRJjOUr3LL1qXbQCry) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Biarku Merindu](https://open.spotify.com/album/3ZGwkNHkhqkw3J9id6LVgG) | 2:57 |
-| 4 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
+| 4 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 |
 | 5 | [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 |
 | 6 | [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 |
 | 7 | [WORLD STOP TURNING \(feat\. Warren Hue\)](https://open.spotify.com/track/4nrTZBPIBCmU4RDsXfNwp0) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [WORLD STOP TURNING \(feat\. Warren Hue\)](https://open.spotify.com/album/73uv8IgpT6e22cr6ZRzH2x) | 4:08 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 111 | [hold you close](https://open.spotify.com/track/0mK9h53uygjAiHVps0wu45) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [hold you close](https://open.spotify.com/album/25j8iJERUiIYXW71OevJmC) | 3:39 |
 | 112 | [Sent on Wednesday](https://open.spotify.com/track/6cIxoAKwaxZOr8FJb6MimD) | [Tsoiwaijenjen](https://open.spotify.com/artist/3wTDAuG2SWbTjvxLe3kgnj) | [Sent on Wednesday](https://open.spotify.com/album/232i6EAZ5mZKXtpc2VekJi) | 3:32 |
 
-Snapshot ID: `MCw3NzhiMWFiZTQ3N2RhODZlNDIxMWViY2EyYTQxYmY1ZTljYjU3ODIx`
+Snapshot ID: `MCxjMWUxODA3N2FhMWM0NWUwYmQ2YmZhYjlhNDNmNzg3NWQzOWFmMDEx`

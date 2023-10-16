@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 159381,
+  "num_followers": 159498,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGJkYThmNjQxNDI0MTg4MmIyZTlhMDkwMGFkNzdlMDBkNDQzMTk2",
+  "snapshot_id": "MCw3YmI2YWVmZmY1YTgwOWE2MjMxZDkxZDNmZTQ1ODY3OWQ1ZmQwYWY5",
   "tracks": [
     {
       "added_at": "2021-10-20 20:05:06",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Fine Anyway (Habibi Funk 016)",
-        "url": "https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R"
-      },
-      "artists": [
-        {
-          "name": "Rog\u00e9r Fakhr",
-          "url": "https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd"
-        }
-      ],
-      "duration_ms": 165604,
-      "name": "Gone Away Again",
-      "url": "https://open.spotify.com/track/2LHfvXx92f9HAYV146h6TE"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "EGOLI",
         "url": "https://open.spotify.com/album/6XOtavVWhCDQTn6o10QeUB"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 193533,
       "name": "Morals",
       "url": "https://open.spotify.com/track/3O4Sat36FCmPW0KmbuPx5G"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Fine Anyway (Habibi Funk 016)",
+        "url": "https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00e9r Fakhr",
+          "url": "https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd"
+        }
+      ],
+      "duration_ms": 165604,
+      "name": "Gone Away Again",
+      "url": "https://open.spotify.com/track/2LHfvXx92f9HAYV146h6TE"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -431,22 +431,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Mosaic of the Orient",
-        "url": "https://open.spotify.com/album/35V308120K0txY7JUMoN6M"
-      },
-      "artists": [
-        {
-          "name": "Elias Rahbani",
-          "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS"
-        }
-      ],
-      "duration_ms": 167293,
-      "name": "Dance of Maria",
-      "url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Dos Uvas",
         "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 209280,
       "name": "Dos Uvas",
       "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Mosaic of the Orient",
+        "url": "https://open.spotify.com/album/35V308120K0txY7JUMoN6M"
+      },
+      "artists": [
+        {
+          "name": "Elias Rahbani",
+          "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS"
+        }
+      ],
+      "duration_ms": 167293,
+      "name": "Dance of Maria",
+      "url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa"
     },
     {
-      "added_at": "2023-07-19 02:43:48",
-      "album": {
-        "name": "Uummati Attanarsimat (Heart of Glass)",
-        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 238288,
-      "name": "Uummati Attanarsimat (Heart of Glass)",
-      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Cera Perdida",
@@ -1059,6 +1043,22 @@
       "duration_ms": 189892,
       "name": "Jaley Jaley",
       "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
+    },
+    {
+      "added_at": "2023-07-19 02:43:48",
+      "album": {
+        "name": "Uummati Attanarsimat (Heart of Glass)",
+        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1281,22 +1281,6 @@
       "url": "https://open.spotify.com/track/0yV9em29PuD1roFpthc0aQ"
     },
     {
-      "added_at": "2022-03-04 03:59:12",
-      "album": {
-        "name": "Binbo\u011fa",
-        "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
-      },
-      "artists": [
-        {
-          "name": "Yalnayak",
-          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Binbo\u011fa",
-      "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "The Trip",
@@ -1311,6 +1295,22 @@
       "duration_ms": 257972,
       "name": "The Trip",
       "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
+    },
+    {
+      "added_at": "2022-03-04 03:59:12",
+      "album": {
+        "name": "Binbo\u011fa",
+        "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
+      },
+      "artists": [
+        {
+          "name": "Yalnayak",
+          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Binbo\u011fa",
+      "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1393,42 +1393,6 @@
       "url": "https://open.spotify.com/track/5CW8Sionqq9jxe1uZxN5h7"
     },
     {
-      "added_at": "2022-02-23 18:02:26",
-      "album": {
-        "name": "No. 1",
-        "url": "https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC"
-      },
-      "artists": [
-        {
-          "name": "Etran de L'A\u00cfr",
-          "url": "https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg"
-        }
-      ],
-      "duration_ms": 351374,
-      "name": "Agrim Agadez",
-      "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
-    },
-    {
-      "added_at": "2023-07-17 18:55:09",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ"
-      },
-      "artists": [
-        {
-          "name": "Kalush Orchestra",
-          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
-        },
-        {
-          "name": "JONA XX",
-          "url": "https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP"
-        }
-      ],
-      "duration_ms": 158853,
-      "name": "Human (feat. JONA XX) - Spotify Singles",
-      "url": "https://open.spotify.com/track/48UIC5kKvE8ftxKyXvlvg7"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Black To The Future",
@@ -1449,6 +1413,22 @@
       "url": "https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV"
     },
     {
+      "added_at": "2022-02-23 18:02:26",
+      "album": {
+        "name": "No. 1",
+        "url": "https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC"
+      },
+      "artists": [
+        {
+          "name": "Etran de L'A\u00cfr",
+          "url": "https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg"
+        }
+      ],
+      "duration_ms": 351374,
+      "name": "Agrim Agadez",
+      "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
+    },
+    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Freedom Fables",
@@ -1467,6 +1447,26 @@
       "duration_ms": 319653,
       "name": "Tittle Tattle",
       "url": "https://open.spotify.com/track/250EZZGyjYplBum6Simk1B"
+    },
+    {
+      "added_at": "2023-07-17 18:55:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ"
+      },
+      "artists": [
+        {
+          "name": "Kalush Orchestra",
+          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
+        },
+        {
+          "name": "JONA XX",
+          "url": "https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP"
+        }
+      ],
+      "duration_ms": 158853,
+      "name": "Human (feat. JONA XX) - Spotify Singles",
+      "url": "https://open.spotify.com/track/48UIC5kKvE8ftxKyXvlvg7"
     },
     {
       "added_at": "2022-02-18 06:00:35",
@@ -1505,22 +1505,6 @@
       "url": "https://open.spotify.com/track/6jd5uWEpV3zdgnR0obsXZ2"
     },
     {
-      "added_at": "2023-07-19 02:50:55",
-      "album": {
-        "name": "The Ballad of the Runaway Girl",
-        "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 205636,
-      "name": "Arnaq",
-      "url": "https://open.spotify.com/track/7eMFZDDVezqN2tOEBOU29v"
-    },
-    {
       "added_at": "2022-03-04 21:17:03",
       "album": {
         "name": "The Age of Aquarius",
@@ -1537,20 +1521,20 @@
       "url": "https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA"
     },
     {
-      "added_at": "2023-07-17 18:55:09",
+      "added_at": "2023-07-19 02:50:55",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ"
+        "name": "The Ballad of the Runaway Girl",
+        "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
       },
       "artists": [
         {
-          "name": "Kalush Orchestra",
-          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
         }
       ],
-      "duration_ms": 132305,
-      "name": "Chase - Spotify Singles",
-      "url": "https://open.spotify.com/track/3Q4TZNei1kkNAZl6ab9hgs"
+      "duration_ms": 205636,
+      "name": "Arnaq",
+      "url": "https://open.spotify.com/track/7eMFZDDVezqN2tOEBOU29v"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1571,22 +1555,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Kuru Kuru",
-        "url": "https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP"
-      },
-      "artists": [
-        {
-          "name": "Maajo",
-          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
-        }
-      ],
-      "duration_ms": 311141,
-      "name": "Soma",
-      "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Yol",
         "url": "https://open.spotify.com/album/6IjH8qpZNlh4L5yJ2vzS6k"
       },
@@ -1603,18 +1571,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Safe Passage",
-        "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
+        "name": "Kuru Kuru",
+        "url": "https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP"
       },
       "artists": [
         {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
         }
       ],
-      "duration_ms": 207829,
-      "name": "Cat Nip",
-      "url": "https://open.spotify.com/track/2nfHZUbJiAGkvNGWBoSoN6"
+      "duration_ms": 311141,
+      "name": "Soma",
+      "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1631,6 +1599,38 @@
       "duration_ms": 191963,
       "name": "Impasto",
       "url": "https://open.spotify.com/track/1z7SGD6F6OYGinYGyym9uC"
+    },
+    {
+      "added_at": "2023-07-17 18:55:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ"
+      },
+      "artists": [
+        {
+          "name": "Kalush Orchestra",
+          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
+        }
+      ],
+      "duration_ms": 132305,
+      "name": "Chase - Spotify Singles",
+      "url": "https://open.spotify.com/track/3Q4TZNei1kkNAZl6ab9hgs"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Safe Passage",
+        "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 207829,
+      "name": "Cat Nip",
+      "url": "https://open.spotify.com/track/2nfHZUbJiAGkvNGWBoSoN6"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1669,22 +1669,6 @@
       "url": "https://open.spotify.com/track/0lfCoE7BfCZaaLiKSxSYXL"
     },
     {
-      "added_at": "2022-04-01 06:00:00",
-      "album": {
-        "name": "Solpor",
-        "url": "https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs"
-      },
-      "artists": [
-        {
-          "name": "Baiuca",
-          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
-        }
-      ],
-      "duration_ms": 319169,
-      "name": "Mu\u00ed\u00f1o",
-      "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
-    },
-    {
       "added_at": "2022-08-31 05:20:13",
       "album": {
         "name": "Ghibli",
@@ -1699,6 +1683,22 @@
       "duration_ms": 235519,
       "name": "Ghibli",
       "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
+    },
+    {
+      "added_at": "2022-04-01 06:00:00",
+      "album": {
+        "name": "Solpor",
+        "url": "https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs"
+      },
+      "artists": [
+        {
+          "name": "Baiuca",
+          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
+        }
+      ],
+      "duration_ms": 319169,
+      "name": "Mu\u00ed\u00f1o",
+      "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
     },
     {
       "added_at": "2023-03-29 18:06:57",
@@ -1717,20 +1717,24 @@
       "url": "https://open.spotify.com/track/5Yw2orljyPxOQe9s1JfPqU"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2022-02-15 02:08:08",
       "album": {
-        "name": "Remain in Light",
-        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+        "name": "La Tercera Vision",
+        "url": "https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X"
       },
       "artists": [
         {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+        },
+        {
+          "name": "Khalil Mounji",
+          "url": "https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK"
         }
       ],
-      "duration_ms": 348813,
-      "name": "Once in a Lifetime",
-      "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
+      "duration_ms": 235418,
+      "name": "Mano de Fatima",
+      "url": "https://open.spotify.com/track/1823wxCop81BdNRMKcfygg"
     }
   ],
   "unique_name": "Folk Fabrique",

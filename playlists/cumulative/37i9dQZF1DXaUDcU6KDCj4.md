@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Maple Glider
 
-1,570 songs - 4 day 0 hr 9 min
+1,571 songs - 4 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,8 @@
 | [Disappearing Light](https://open.spotify.com/track/4vdgPnF1A6Wjs7N8BTxYO7) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Disappearing Light](https://open.spotify.com/album/4WwECMe4z8x94OUED4EsIg) | 3:42 | 2021-11-12 | 2022-02-19 |
 | [Distance](https://open.spotify.com/track/50k0YgJ9ei40YL0QEFXwsR) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Distance](https://open.spotify.com/album/4Y2AzjLpE1WN7pMbTakjVE) | 4:24 | 2022-03-04 | 2022-04-29 |
 | [Do It All Again](https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Do It All Again](https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1) | 3:19 | 2021-11-12 | 2022-01-29 |
-| [Do You](https://open.spotify.com/track/0eHLd2rwOakcEiFwG0SztP) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Do You](https://open.spotify.com/album/3TA7Hh96OwARzUgw71ZcaO) | 4:08 | 2023-10-13 |  |
+| [Do You](https://open.spotify.com/track/0eHLd2rwOakcEiFwG0SztP) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Do You](https://open.spotify.com/album/3TA7Hh96OwARzUgw71ZcaO) | 4:08 | 2023-10-13 | 2023-10-16 |
+| [Do You](https://open.spotify.com/track/2tO1RrlOXyZAMqB0wDybXf) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd) | 4:08 | 2023-10-13 |  |
 | [Do You See The Light Around Me?](https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Do You See The Light Around Me?](https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK) | 3:24 | 2022-01-21 | 2022-04-23 |
 | [Do You Wanna Go](https://open.spotify.com/track/4VCY4JrrXCjiu9X3e7uHsf) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Do You Wanna Go](https://open.spotify.com/album/0GibUh6ReB5uddkVotcjk8) | 3:32 | 2022-03-25 | 2022-06-18 |
 | [Dodinin](https://open.spotify.com/track/6qMqaEW3xqpSF53EAVPEt3) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [Dodinin](https://open.spotify.com/album/39z3m4zBGJrUz177zlbImU) | 3:28 | 2022-04-15 | 2022-05-07 |

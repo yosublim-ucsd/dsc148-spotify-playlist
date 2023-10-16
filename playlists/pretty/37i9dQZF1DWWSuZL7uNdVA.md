@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 
 > Sum 41 au top des meilleurs morceaux rock du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,028 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,069 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 | 49 | [Nowhere To Go But Everywhere](https://open.spotify.com/track/0XT3u4dsfUh4A9EhH2FzoO) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Nowhere To Go But Everywhere](https://open.spotify.com/album/2Ptp2BvVc7YsdSL3YXBWNu) | 4:03 |
 | 50 | [Taste The Sun](https://open.spotify.com/track/2DSMg1St3kwmv7uvrRBJZv) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Taste The Sun](https://open.spotify.com/album/4GWmCsQY6CQnw5Xf3sbxl7) | 4:03 |
 
-Snapshot ID: `MCxlNzIyYTA2NmVkNWUxMDk1NzgzMjQxNDVjZDk4YTlmNTAxMjYwMmIy`
+Snapshot ID: `MCw2MjE2NThhNTFlZDE1M2EwZDI5NDI4OWY2NjlkYmUxYTdlNWIxZDA0`

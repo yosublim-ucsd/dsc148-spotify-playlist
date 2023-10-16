@@ -2468,7 +2468,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 258206,
       "name": "CRY - Borgore Remix",
       "url": "https://open.spotify.com/track/6ekIi6kltHC195Y4z6vMb0"
@@ -4456,6 +4456,10 @@
         {
           "name": "Levity",
           "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "Dem Jointz",
+          "url": "https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd"
         }
       ],
       "date_added": "2023-10-13",
@@ -11438,6 +11442,28 @@
       "duration_ms": 208421,
       "name": "Sweetest Thing",
       "url": "https://open.spotify.com/track/4BCda1bJa57fTMB2laaOeX"
+    },
+    {
+      "album": {
+        "name": "Sylky",
+        "url": "https://open.spotify.com/album/0om04yGw0cfWgvyrAxsd5S"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        {
+          "name": "Mylky",
+          "url": "https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Sylky",
+      "url": "https://open.spotify.com/track/5gfIjW3jXyvLAcRV8Fr2lj"
     },
     {
       "album": {

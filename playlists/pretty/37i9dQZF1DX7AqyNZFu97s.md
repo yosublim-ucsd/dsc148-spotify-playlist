@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Raheem Bakare
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,685 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,706 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Grown](https://open.spotify.com/track/0LWmCsSPmbD9MYEBBIrugo) | [Calper](https://open.spotify.com/artist/7AWqSYIArMX7XVqDIKW7Nw), [Flownn](https://open.spotify.com/artist/2cCuAsfwl1oYhN6yovKdv8) | [Grown](https://open.spotify.com/album/2TC57tNnZiHrh9s0rXMPta) | 3:32 |
 | 80 | [Glow Up](https://open.spotify.com/track/54pBJtl72q0YWAR31LtxS2) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Glow Up](https://open.spotify.com/album/6n13YZBvWybdWkphVsGeJ2) | 3:58 |
 
-Snapshot ID: `MCxlZDY0NGNlYTY2NGVkZTIyZmMyYTllOGM5OGVkYWU1NzU5NmY0YmZk`
+Snapshot ID: `MCw4Y2E2NWMyYTZjZTUxMDkxYzMyY2U2YTlkNGE0NzQ0ZjRlYzk5YmVh`

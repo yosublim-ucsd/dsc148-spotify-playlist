@@ -1,12 +1,12 @@
 {
   "description": "Motion en good vibes! Cover: Alessio & Sluwe Ollie",
-  "num_followers": 319023,
+  "num_followers": 319039,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWMyZjQ1MTAwNzQyNjM1N2U4ZTEwMWZmNjM2MjM5ZmM5MjQyMGQ1",
+  "snapshot_id": "MCwwNzc1NjQ2YjBjN2ZhOTQ0ZGU5YjE2YjM4ODRjM2FmOGVmY2ZlNTVi",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -31,6 +31,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Bijstand (Freestyle)",
+        "url": "https://open.spotify.com/album/2CUgGnd0GCo9seKsd1jtUh"
+      },
+      "artists": [
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Bijstand - Freestyle",
+      "url": "https://open.spotify.com/track/5FfenWRho5n688RiwmZLFS"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "7K op je feestje",
         "url": "https://open.spotify.com/album/3ElOBNDYJI00N3IDimQ4ex"
       },
@@ -51,22 +67,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Bijstand (Freestyle)",
-        "url": "https://open.spotify.com/album/2CUgGnd0GCo9seKsd1jtUh"
-      },
-      "artists": [
-        {
-          "name": "Yssi SB",
-          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Bijstand - Freestyle",
-      "url": "https://open.spotify.com/track/5FfenWRho5n688RiwmZLFS"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Flip Flops",
         "url": "https://open.spotify.com/album/357TcCWG8M77WVXX1xXWmY"
       },
@@ -79,38 +79,6 @@
       "duration_ms": 209625,
       "name": "Flip Flops",
       "url": "https://open.spotify.com/track/6uVTOJ519YPiVjQqV52nse"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Pum Pum Power",
-        "url": "https://open.spotify.com/album/3qSa5rF02TVsGzSqql9tyt"
-      },
-      "artists": [
-        {
-          "name": "Rotjoch",
-          "url": "https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw"
-        },
-        {
-          "name": "Chivv",
-          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
-        },
-        {
-          "name": "Bokoesam",
-          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
-        },
-        {
-          "name": "Architrackz",
-          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
-        },
-        {
-          "name": "Tribal Kush",
-          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
-        }
-      ],
-      "duration_ms": 160879,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/02LoJOfuwCA35gjSrevhMX"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -179,18 +147,34 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Paraplu",
-        "url": "https://open.spotify.com/album/50zre2ufBsXDk5Cg2wiUdK"
+        "name": "Pum Pum Power",
+        "url": "https://open.spotify.com/album/3qSa5rF02TVsGzSqql9tyt"
       },
       "artists": [
         {
-          "name": "Zefanio",
-          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
+          "name": "Rotjoch",
+          "url": "https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        },
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
         }
       ],
-      "duration_ms": 159344,
-      "name": "Paraplu",
-      "url": "https://open.spotify.com/track/526q99QA2uPvdwj9V4oBnK"
+      "duration_ms": 160879,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/02LoJOfuwCA35gjSrevhMX"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -219,6 +203,86 @@
       "duration_ms": 147403,
       "name": "Domino",
       "url": "https://open.spotify.com/track/1BymSDOQY7CZY5BUekA8yH"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Sweety Darling",
+        "url": "https://open.spotify.com/album/2NtImoM1XD9dQefEpeQx9S"
+      },
+      "artists": [
+        {
+          "name": "Young Ellens",
+          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
+        },
+        {
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+        },
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "Sweety Darling",
+      "url": "https://open.spotify.com/track/1pT2D94nmsih5N9gqoV5bJ"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Paraplu",
+        "url": "https://open.spotify.com/album/50zre2ufBsXDk5Cg2wiUdK"
+      },
+      "artists": [
+        {
+          "name": "Zefanio",
+          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
+        }
+      ],
+      "duration_ms": 159344,
+      "name": "Paraplu",
+      "url": "https://open.spotify.com/track/526q99QA2uPvdwj9V4oBnK"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Trap & Dance 1 (Fidel Castro)",
+        "url": "https://open.spotify.com/album/32hji7JHvtA5Qzscz4hL9m"
+      },
+      "artists": [
+        {
+          "name": "AG BLAXX",
+          "url": "https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo"
+        },
+        {
+          "name": "PJ Scoolio",
+          "url": "https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Trap & Dance 1 (Fidel Castro)",
+      "url": "https://open.spotify.com/track/3dnK1TRtxZQiAtlUELGIdU"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Blijf Je Bij Mij",
+        "url": "https://open.spotify.com/album/1xV3JLN1ZONOW0nGaoEzl6"
+      },
+      "artists": [
+        {
+          "name": "Remy",
+          "url": "https://open.spotify.com/artist/4VXbDR0X90gFcT245RQJIn"
+        },
+        {
+          "name": "Mas",
+          "url": "https://open.spotify.com/artist/2TG4b3Bk9yZaBHRrpYvWcT"
+        }
+      ],
+      "duration_ms": 157607,
+      "name": "Blijf Je Bij Mij",
+      "url": "https://open.spotify.com/track/7tqXxVp9ZnxOhOxM3wZTWN"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -399,30 +463,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Sweety Darling",
-        "url": "https://open.spotify.com/album/2NtImoM1XD9dQefEpeQx9S"
-      },
-      "artists": [
-        {
-          "name": "Young Ellens",
-          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
-        },
-        {
-          "name": "Gio",
-          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
-        },
-        {
-          "name": "Fmg",
-          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "Sweety Darling",
-      "url": "https://open.spotify.com/track/1pT2D94nmsih5N9gqoV5bJ"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Trending",
         "url": "https://open.spotify.com/album/2AXU24ckAzEVkWUL8c7D25"
       },
@@ -471,26 +511,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Trap & Dance 1 (Fidel Castro)",
-        "url": "https://open.spotify.com/album/32hji7JHvtA5Qzscz4hL9m"
-      },
-      "artists": [
-        {
-          "name": "AG BLAXX",
-          "url": "https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo"
-        },
-        {
-          "name": "PJ Scoolio",
-          "url": "https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Trap & Dance 1 (Fidel Castro)",
-      "url": "https://open.spotify.com/track/3dnK1TRtxZQiAtlUELGIdU"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 153346,
       "name": "City Boys",
       "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Blijf Je Bij Mij",
-        "url": "https://open.spotify.com/album/1xV3JLN1ZONOW0nGaoEzl6"
-      },
-      "artists": [
-        {
-          "name": "Remy",
-          "url": "https://open.spotify.com/artist/4VXbDR0X90gFcT245RQJIn"
-        },
-        {
-          "name": "Mas",
-          "url": "https://open.spotify.com/artist/2TG4b3Bk9yZaBHRrpYvWcT"
-        }
-      ],
-      "duration_ms": 157607,
-      "name": "Blijf Je Bij Mij",
-      "url": "https://open.spotify.com/track/7tqXxVp9ZnxOhOxM3wZTWN"
     },
     {
       "added_at": "2023-10-12 22:00:00",

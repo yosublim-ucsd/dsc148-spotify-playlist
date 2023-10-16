@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,285 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,321 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Ilusão](https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Ilusão](https://open.spotify.com/album/06ZRaFS4lY8dQQXTYrAlOZ) | 3:37 |
 | 75 | [Cê tá bem \(Remix\)](https://open.spotify.com/track/5WZ5MJyJTUgPC0oSVRzxHX) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Felipe Rosa](https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N) | [Cê tá bem \(Remix\)](https://open.spotify.com/album/59XmINGEHdizIVZLyz5NVD) | 3:11 |
 
-Snapshot ID: `MCxjNWI3MTQ5OWYyY2JlZDM4YTc4ZTcwZTM5OGQ5MjFlOTk1MDkwNmUy`
+Snapshot ID: `MCw4YjNiNDVmOTZkNmZkMjQ4ZDc5ZTc5YWFhNjYwZWQ2MzY5NTMwOWQy`

@@ -1,12 +1,12 @@
 {
   "description": "Alcione e mais mulheres ic\u00f4nicas para serem ouvidas no volume m\u00e1ximo! Foto: Alcione",
-  "num_followers": 152504,
+  "num_followers": 152516,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzIzNjkwNWU2MmNiYTUzZjc3NGJkMDlkZWRmYzczMzEyYmI4MDBl",
+  "snapshot_id": "MCwyZjgxYjI5OTQyMDZiYjdmYTk5NTEwNWM0NDFmOTE3OTY2ZWEzYjgz",
   "tracks": [
     {
       "added_at": "2023-10-13 13:38:48",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-10-13 13:38:48",
       "album": {
-        "name": "AFRODHIT",
-        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 168035,
-      "name": "Batucada",
-      "url": "https://open.spotify.com/track/6a19PoJb9vLXcpuJdG6fMZ"
-    },
-    {
-      "added_at": "2023-10-13 13:38:48",
-      "album": {
         "name": "Codinome Beija-Flor",
         "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 149000,
       "name": "Codinome Beija-Flor",
       "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
+    },
+    {
+      "added_at": "2023-10-13 13:38:48",
+      "album": {
+        "name": "AFRODHIT",
+        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 168035,
+      "name": "Batucada",
+      "url": "https://open.spotify.com/track/6a19PoJb9vLXcpuJdG6fMZ"
     },
     {
       "added_at": "2023-10-13 13:38:48",
@@ -547,18 +547,22 @@
     {
       "added_at": "2023-10-13 13:38:48",
       "album": {
-        "name": "Of\u00edcio de Cantante",
-        "url": "https://open.spotify.com/album/28FxczQCIQtBEn0FGqWtxE"
+        "name": "Numanice #2 (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv"
       },
       "artists": [
         {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Gabby Moura",
+          "url": "https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK"
         }
       ],
-      "duration_ms": 278837,
-      "name": "Of\u00edcio de Cantante",
-      "url": "https://open.spotify.com/track/0NNeK4HYMAGjWwX0SJMv4v"
+      "duration_ms": 140703,
+      "name": "Me Arrepender - Ao Vivo",
+      "url": "https://open.spotify.com/track/3Jo7IezM4VzhoheB1WwTJ4"
     },
     {
       "added_at": "2023-10-13 13:38:48",
@@ -579,22 +583,18 @@
     {
       "added_at": "2023-10-13 13:38:48",
       "album": {
-        "name": "Numanice #2 (Ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv"
+        "name": "Of\u00edcio de Cantante",
+        "url": "https://open.spotify.com/album/28FxczQCIQtBEn0FGqWtxE"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Gabby Moura",
-          "url": "https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK"
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 140703,
-      "name": "Me Arrepender - Ao Vivo",
-      "url": "https://open.spotify.com/track/3Jo7IezM4VzhoheB1WwTJ4"
+      "duration_ms": 278837,
+      "name": "Of\u00edcio de Cantante",
+      "url": "https://open.spotify.com/track/0NNeK4HYMAGjWwX0SJMv4v"
     },
     {
       "added_at": "2023-10-13 13:38:48",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-10-13 13:38:48",
       "album": {
-        "name": "NEKTAR",
-        "url": "https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg"
-      },
-      "artists": [
-        {
-          "name": "Ava Rocha",
-          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
-        }
-      ],
-      "duration_ms": 195836,
-      "name": "BEIJANDO TODOS VOC\u00caS",
-      "url": "https://open.spotify.com/track/7zXQVWgzxWZoTg3wzqP1ee"
-    },
-    {
-      "added_at": "2023-10-13 13:38:48",
-      "album": {
         "name": "Quadrado Vivo",
         "url": "https://open.spotify.com/album/6iWiBNwuDyk5k4qA3xHhJj"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 195539,
       "name": "Quadrado Vivo",
       "url": "https://open.spotify.com/track/7pcqYaiUOaFvyKSY4L9eb9"
+    },
+    {
+      "added_at": "2023-10-13 13:38:48",
+      "album": {
+        "name": "NEKTAR",
+        "url": "https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg"
+      },
+      "artists": [
+        {
+          "name": "Ava Rocha",
+          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
+        }
+      ],
+      "duration_ms": 195836,
+      "name": "BEIJANDO TODOS VOC\u00caS",
+      "url": "https://open.spotify.com/track/7zXQVWgzxWZoTg3wzqP1ee"
     },
     {
       "added_at": "2023-10-13 13:38:48",

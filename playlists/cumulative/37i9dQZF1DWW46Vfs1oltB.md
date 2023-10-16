@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:BOBBY\)
 
-1,004 songs - 2 day 7 hr 8 min
+1,005 songs - 2 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [It Was Love](https://open.spotify.com/track/6zePxnugk8oUcp398yUiGl) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [9Cut](https://open.spotify.com/album/0AOmBu8KgdVqxgMNKatbWF) | 3:19 | 2021-12-18 | 2022-07-04 |
 | [It's a SUPRA](https://open.spotify.com/track/08CFqtctiLaIrsTHNomj6F) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [It's a SUPRA](https://open.spotify.com/album/7yXGKq7i04xALo5RGzulUm) | 2:55 | 2023-03-28 | 2023-06-14 |
 | [It's Your Turn \(Feat\. Futuristic Swaver\)](https://open.spotify.com/track/37gsND37Afaqykeo0forwU) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [Futuristic Swaver](https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF) | [It's Your Turn \(Feat\. Futuristic Swaver\)](https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt) | 3:13 | 2023-03-27 | 2023-09-15 |
+| [It’s okay \(Feat\. Dbo, lil asian\*＋, Slaylonie\)](https://open.spotify.com/track/0TnpWxe6y0ywzppivwTYzW) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst), [lil asian\*+](https://open.spotify.com/artist/67dyar2EzlJj1fteiANKs4), [SLAYLONIE](https://open.spotify.com/artist/6iGsfOk5mQ2Wza2yOzZmQY) | [It’s okay \(Feat\. Dbo, lil asian\*＋, Slaylonie\)](https://open.spotify.com/album/4aS1BKivabMABDHb5gJOCV) | 3:31 | 2023-10-15 |  |
 | [I’m having a hard time \(Prod\. wtfjusty\)](https://open.spotify.com/track/4QccGqeEQizCcmgTBpvzY7) | [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ) | [I'm having a hard time \(Prod\. wtfjusty\)](https://open.spotify.com/album/1C4RYkUXDfQwXaiIuk3ZTl) | 2:34 | 2022-09-06 | 2022-09-23 |
 | [I’m tired \(Song By Boi Brown\)](https://open.spotify.com/track/1NtuEWJyH6Zvkh23rnI6E7) | [SOUND PALETTE](https://open.spotify.com/artist/0vReM81CSMXlENdSzVSHQF) | [PALETTE C\#506.](https://open.spotify.com/album/3yShU5WOP1i5khD3avt8Vp) | 2:35 | 2022-03-03 | 2022-06-15 |
 | [Jacob's Ladder](https://open.spotify.com/track/5FEj81U8qvxe7bjKYcu7XS) | [Skinny Chase](https://open.spotify.com/artist/2Znqw7iH4StHRSCtU1uAKi) | [To J](https://open.spotify.com/album/3yTN3tpiBz1S0XXG4HGMEa) | 3:15 | 2022-03-29 | 2022-06-17 |

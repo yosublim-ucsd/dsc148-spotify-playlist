@@ -4,7 +4,7 @@
 
 > n3xt l3v3l gaming beats.
 
-193 songs - 7 hr 53 min
+194 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [60’s Adventure](https://open.spotify.com/track/0oeHdQcJibTp99ulHe40un) | [LzmD](https://open.spotify.com/artist/6yUTk9DYrsGPhR8s181E53) | [True Colors](https://open.spotify.com/album/3Js7aNPgKMbdLoc60Up6pY) | 3:01 | 2022-04-22 | 2023-01-11 |
 | [a higher power!](https://open.spotify.com/track/6AIc2FJCa0HxADaRLrYOK9) | [Eluzai](https://open.spotify.com/artist/2N0c1H0QXGAfZQHASg7ir4) | [u need a light?](https://open.spotify.com/album/6LROFFR1pIhCt2DLcGzw8P) | 2:56 | 2022-12-23 |  |
 | [A Trip for You](https://open.spotify.com/track/67ZzZ5axS4vv3HKb4052Ju) | [Roboflex](https://open.spotify.com/artist/4EoR3Th3E98nSMzwPPeZZg) | [A Trip for You](https://open.spotify.com/album/0QKQialdrr80S3EMFupxHR) | 2:14 | 2022-04-22 |  |
-| [Abba](https://open.spotify.com/track/3rrcWNb8zdObzj3W7Mz2Ws) | [Suz Tain](https://open.spotify.com/artist/5B57n0v18MD9SHsENLABP8) | [Abba](https://open.spotify.com/album/0kx4sIkgz3fSLtWmUXMLKX) | 2:10 | 2022-04-22 | 2023-10-07 |
+| [Abba](https://open.spotify.com/track/3rrcWNb8zdObzj3W7Mz2Ws) | [Suz Tain](https://open.spotify.com/artist/5B57n0v18MD9SHsENLABP8) | [Abba](https://open.spotify.com/album/0kx4sIkgz3fSLtWmUXMLKX) | 2:10 | 2022-04-22 |  |
 | [Abime](https://open.spotify.com/track/00NUTfTiUGLhHwann5WK8E) | [Redrum](https://open.spotify.com/artist/4gDzEX3EAlLlDOxNl52DTK) | [Abime](https://open.spotify.com/album/373erwHmbPn2YvaVUmaHxV) | 4:39 | 2022-04-22 |  |
 | [Aesthetics](https://open.spotify.com/track/2msdkpUBE5J9k4zbGeng6n) | [elephvnt](https://open.spotify.com/artist/5q1SBpeVA2vh8h9gfxjY36) | [Aesthetics](https://open.spotify.com/album/2xD6hfBIn6muHL7MwNuXQ4) | 1:49 | 2022-04-22 |  |
 | [After Surf Sandwich](https://open.spotify.com/track/0PMlGvzeLrQ27h8oGyfGMV) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:32 | 2022-04-22 |  |
@@ -84,7 +84,7 @@
 | [JEXX](https://open.spotify.com/track/6YpDv0MdrR39AQBy8qwn9g) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [JEXX](https://open.spotify.com/album/4DW0MR2Cas3wyZ7gXfzb5Y) | 2:12 | 2022-04-22 | 2023-09-09 |
 | [Juicy](https://open.spotify.com/track/5XotBMNRTExEMs4MalMTu0) | [Kings Chair](https://open.spotify.com/artist/0P9hXeh3wwCn1B0Etj03ac) | [Hot Rain](https://open.spotify.com/album/4RUeIpvBctPsm87nIsftwp) | 3:13 | 2022-04-22 | 2023-09-09 |
 | [julep](https://open.spotify.com/track/0ETX9i6qiLxEvuFV7QcjPS) | [Valhallz](https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh) | [Uno Dos Tres](https://open.spotify.com/album/64bGvDTlBn0tnDpNdCUYvy) | 2:19 | 2023-01-20 |  |
-| [Kids](https://open.spotify.com/track/50b0kt9UF5zu9WDiaIjAxL) | [Quality Blues](https://open.spotify.com/artist/3kU1BwnXjcIGhJxeZfqPy9) | [Kids](https://open.spotify.com/album/640L11zarEqJbXHV0gVLbG) | 3:56 | 2022-04-22 |  |
+| [Kids](https://open.spotify.com/track/50b0kt9UF5zu9WDiaIjAxL) | [Quality Blues](https://open.spotify.com/artist/3kU1BwnXjcIGhJxeZfqPy9) | [Kids](https://open.spotify.com/album/640L11zarEqJbXHV0gVLbG) | 3:56 | 2022-04-22 | 2023-10-16 |
 | [Kinderphon](https://open.spotify.com/track/07KyFTUzEDpASj03Ss2xSO) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Kinderphon](https://open.spotify.com/album/7l47GkIEz6lggwP0eHrcyP) | 2:41 | 2022-04-22 |  |
 | [la donna e la chitarra](https://open.spotify.com/track/06F8Fnl3zIJ8Fy4IlKJSz3) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/7nYLq5Mq6zbO4Zuzdxy7Ka) | 1:45 | 2022-09-16 | 2022-12-14 |
 | [la donna e la chitarra](https://open.spotify.com/track/2e94pHYImdJE6wgMLHaA9l) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/3stfQyN1Aq78m0W42lG2xS) | 1:45 | 2022-12-09 |  |
@@ -101,6 +101,7 @@
 | [Love Snip](https://open.spotify.com/track/5TfqA1PGQJRZyng0480Zre) | [Gibun](https://open.spotify.com/artist/2UjKSDLr7jx5VWshKXQ0bT) | [Love Snip](https://open.spotify.com/album/1VL10DhdUCPKdNjbIkQwsY) | 1:32 | 2022-04-22 | 2023-09-09 |
 | [Marathon](https://open.spotify.com/track/5ZhlX046B47UxpliilbqA4) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Marathon](https://open.spotify.com/album/23wibxrF7lAmBOCf5T6SOe) | 3:43 | 2023-09-29 |  |
 | [maskros](https://open.spotify.com/track/6UFRV34euOz5X7sCfJgGyV) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [maskros](https://open.spotify.com/album/6Zhxs4RLuvK3kZ5iNOwKaM) | 3:03 | 2023-09-08 |  |
+| [Maybe](https://open.spotify.com/track/2oU3SCdUA35sudMw5DyqMX) | [Carlile G.](https://open.spotify.com/artist/1sFHTftk8Uv66yflP78Wi7) | [Maybe](https://open.spotify.com/album/0ADb25xnbJyUYcc8DrauGS) | 2:36 | 2023-10-13 |  |
 | [Mellow Out](https://open.spotify.com/track/3L5lVeJ7jOounMQFa4Q1dO) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Mellow Out](https://open.spotify.com/album/7gZ6sGJpzHS4yQHJ9uBabA) | 2:50 | 2023-09-29 |  |
 | [Mi Haffi](https://open.spotify.com/track/0KtE4ePS3z9JmRYlCRJqsj) | [Call Lane](https://open.spotify.com/artist/0AJ4Z8Q5D5OM3llGtJXnXy) | [Mi Haffi](https://open.spotify.com/album/75usQJaD6HzTEBCjWujBPY) | 3:26 | 2022-04-22 | 2023-09-09 |
 | [millions](https://open.spotify.com/track/5I20Xa98Zm3YQlSfRQgwxt) | [heading\_\_](https://open.spotify.com/artist/3aE2ahDVUX4Pd0KKkWOfmS) | [outwards](https://open.spotify.com/album/00mqlceXIbKhc7ukOv5VOk) | 1:48 | 2022-04-22 |  |
@@ -180,7 +181,7 @@
 | [The Obsidian](https://open.spotify.com/track/6txq59sHEmYV0AQ44WMz5X) | [Bored Mango](https://open.spotify.com/artist/5eo18c4KyYfalNC4LuCX7g) | [Take Me Anywhere](https://open.spotify.com/album/07NkbnWE7rwiykelukepYY) | 1:50 | 2022-04-22 | 2023-10-11 |
 | [The Pappas](https://open.spotify.com/track/0n7UVP6hEStbS96Uugnyzs) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Abracadabra](https://open.spotify.com/album/46HcVEDXqFXCD0uIbiqL0I) | 3:44 | 2022-04-22 |  |
 | [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 | 2023-09-29 |  |
-| [times two](https://open.spotify.com/track/7w3cLPdim2RnadPnIpvhMZ) | [bripp](https://open.spotify.com/artist/0d3thvBL4aAaPp5bFuHfrt) | [times two](https://open.spotify.com/album/3wTbVXU1Rqe9f2YXzUVs2v) | 2:42 | 2022-04-22 |  |
+| [times two](https://open.spotify.com/track/7w3cLPdim2RnadPnIpvhMZ) | [bripp](https://open.spotify.com/artist/0d3thvBL4aAaPp5bFuHfrt) | [times two](https://open.spotify.com/album/3wTbVXU1Rqe9f2YXzUVs2v) | 2:42 | 2022-04-22 | 2023-10-16 |
 | [town life](https://open.spotify.com/track/7o6Tpfymsh47oT5VeSSIPL) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [town life](https://open.spotify.com/album/6MorDTaeyPwDA16tn5d3VF) | 1:57 | 2023-09-29 |  |
 | [traffic](https://open.spotify.com/track/7rfwtpxQF4UBT7cQMslOb6) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [traffic](https://open.spotify.com/album/5ako2aURhgoMoVeh9XZSn3) | 1:39 | 2023-09-29 |  |
 | [Trippy](https://open.spotify.com/track/5ptaiocEr3tO4jk4HGEm7E) | [Sadglow](https://open.spotify.com/artist/03yrAJkdVcb5kNlS90YDvu) | [Trippy](https://open.spotify.com/album/7LDh5wRNAFQK8UkE61z0fn) | 2:54 | 2022-04-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 137679,
+  "num_followers": 137758,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTZhYWJiZTkwZmI0ZGQwYjEyZGNmYTY5MjQ5YzE3NzBjMWVhZGE2",
+  "snapshot_id": "MCxiOThjZjU2YjRmMTgyNTAzNjQ5ODVkYmEzYzdkYzdmZDEyMDNhYmZm",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -699,38 +699,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "God Gave Me A Girl (Acoustic)",
-        "url": "https://open.spotify.com/album/3aZs3E4bwlZYr826YmenSI"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 201020,
-      "name": "God Gave Me A Girl - Acoustic",
-      "url": "https://open.spotify.com/track/4xevwQd0gyWc2Z1BIY2uW2"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Small Town Hypocrite",
-        "url": "https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ"
-      },
-      "artists": [
-        {
-          "name": "Caylee Hammack",
-          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
-        }
-      ],
-      "duration_ms": 242005,
-      "name": "Small Town Hypocrite",
-      "url": "https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -751,6 +719,38 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Small Town Hypocrite",
+        "url": "https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        }
+      ],
+      "duration_ms": 242005,
+      "name": "Small Town Hypocrite",
+      "url": "https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "God Gave Me A Girl (Acoustic)",
+        "url": "https://open.spotify.com/album/3aZs3E4bwlZYr826YmenSI"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 201020,
+      "name": "God Gave Me A Girl - Acoustic",
+      "url": "https://open.spotify.com/track/4xevwQd0gyWc2Z1BIY2uW2"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "I'm Not Prettier",
-        "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
+        "name": "Come Back To Bed (Acoustic)",
+        "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Sean Stemaly",
+          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
         }
       ],
-      "duration_ms": 178191,
-      "name": "I'm Not Pretty - Acoustic",
-      "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
+      "duration_ms": 205375,
+      "name": "Come Back To Bed (Acoustic)",
+      "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Come Back To Bed (Acoustic)",
-        "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
+        "name": "I'm Not Prettier",
+        "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
       },
       "artists": [
         {
-          "name": "Sean Stemaly",
-          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 205375,
-      "name": "Come Back To Bed (Acoustic)",
-      "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
+      "duration_ms": 178191,
+      "name": "I'm Not Pretty - Acoustic",
+      "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "You, Me, And Whiskey (Acoustic)",
-        "url": "https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5"
-      },
-      "artists": [
-        {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
-        },
-        {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
-        }
-      ],
-      "duration_ms": 187361,
-      "name": "You, Me, And Whiskey - Acoustic",
-      "url": "https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "I Hate Cowboys & All Dogs Go To Hell",
         "url": "https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i"
       },
@@ -903,6 +883,22 @@
       "duration_ms": 168000,
       "name": "For A Day",
       "url": "https://open.spotify.com/track/3ImUotYT19T3vXDVOWAXAm"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "We Got History (Acoustic)",
+        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 216551,
+      "name": "We Got History - Acoustic",
+      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -927,18 +923,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "We Got History (Acoustic)",
-        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
+        "name": "You, Me, And Whiskey (Acoustic)",
+        "url": "https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5"
       },
       "artists": [
         {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        },
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
         }
       ],
-      "duration_ms": 216551,
-      "name": "We Got History - Acoustic",
-      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
+      "duration_ms": 187361,
+      "name": "You, Me, And Whiskey - Acoustic",
+      "url": "https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Slow Dance In A Parking Lot (Acoustic)",
-        "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Slow Dance In A Parking Lot - Acoustic",
-      "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Half Of Me (Acoustic)",
         "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 175639,
       "name": "Half Of Me - Acoustic",
       "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Slow Dance In A Parking Lot (Acoustic)",
+        "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Slow Dance In A Parking Lot - Acoustic",
+      "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Standing Room Only (Acoustic)",
-        "url": "https://open.spotify.com/album/3rFLlJ2vRuigTDlrA8DmN4"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Standing Room Only - Acoustic",
-      "url": "https://open.spotify.com/track/0B8Z2MvMXc52D06L3SkXwE"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Bluebird (Acoustic)",
         "url": "https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 220637,
       "name": "Bluebird - Acoustic",
       "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Standing Room Only (Acoustic)",
+        "url": "https://open.spotify.com/album/3rFLlJ2vRuigTDlrA8DmN4"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Standing Room Only - Acoustic",
+      "url": "https://open.spotify.com/track/0B8Z2MvMXc52D06L3SkXwE"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Little More Be Alright",
         "url": "https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 215721,
       "name": "Little More Be Alright",
       "url": "https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Last Rodeo (Acoustic)",
-        "url": "https://open.spotify.com/album/0wdZKVdK14qUxN4ajYlWPV"
-      },
-      "artists": [
-        {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
-        }
-      ],
-      "duration_ms": 190031,
-      "name": "Last Rodeo - Acoustic",
-      "url": "https://open.spotify.com/track/2f6rldk2P7ckpFkYi3TdKE"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Another (Wedding Version)",
         "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 171188,
       "name": "Another - Wedding Version",
       "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Hope It's Hot Out (Acoustic)",
+        "url": "https://open.spotify.com/album/5f2fMbivqn3423xYIenThU"
+      },
+      "artists": [
+        {
+          "name": "Kyle Clark",
+          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+        }
+      ],
+      "duration_ms": 167833,
+      "name": "Hope It's Hot Out (Acoustic)",
+      "url": "https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Hope It's Hot Out (Acoustic)",
-        "url": "https://open.spotify.com/album/5f2fMbivqn3423xYIenThU"
+        "name": "Last Rodeo (Acoustic)",
+        "url": "https://open.spotify.com/album/0wdZKVdK14qUxN4ajYlWPV"
       },
       "artists": [
         {
-          "name": "Kyle Clark",
-          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
         }
       ],
-      "duration_ms": 167833,
-      "name": "Hope It's Hot Out (Acoustic)",
-      "url": "https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC"
+      "duration_ms": 190031,
+      "name": "Last Rodeo - Acoustic",
+      "url": "https://open.spotify.com/track/2f6rldk2P7ckpFkYi3TdKE"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "BUCKLE BUNNY STRIPPED",
-        "url": "https://open.spotify.com/album/6NhhLm0vF7Wc4CLMBXpov7"
-      },
-      "artists": [
-        {
-          "name": "Tanner Adell",
-          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
-        }
-      ],
-      "duration_ms": 214089,
-      "name": "Love You a Little Bit - Acoustic",
-      "url": "https://open.spotify.com/track/3US6yXTKKSH0NDTnfNCK13"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "See You Next Summer (Acoustic)",
         "url": "https://open.spotify.com/album/1MaVV8K1KYUOEDK7uJCszn"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 157546,
       "name": "See You Next Summer - Acoustic",
       "url": "https://open.spotify.com/track/3IFhvMzycy0tFNbxEf1IjJ"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "BUCKLE BUNNY STRIPPED",
+        "url": "https://open.spotify.com/album/6NhhLm0vF7Wc4CLMBXpov7"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "duration_ms": 214089,
+      "name": "Love You a Little Bit - Acoustic",
+      "url": "https://open.spotify.com/track/3US6yXTKKSH0NDTnfNCK13"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
-      },
-      "artists": [
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 211662,
-      "name": "All On Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "End of the Rain",
         "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 195701,
       "name": "End of the Rain",
       "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+      },
+      "artists": [
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "duration_ms": 211662,
+      "name": "All On Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
     },
     {
       "added_at": "2023-10-13 04:00:00",

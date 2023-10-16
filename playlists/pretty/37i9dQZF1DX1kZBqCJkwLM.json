@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: SNOW WIFE",
-  "num_followers": 82288,
+  "num_followers": 82296,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjU3NDY3YzNkZmExZWExMGQzMmI0NDNiMWFkMjA1ZGZhYjBiZDEw",
+  "snapshot_id": "MCw0ODgyMzYzYTA1NDYzZjFiZjMwNDYxN2YxMDc4M2M1MmRmYTUyNDIz",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Stars In The Sky (feat. Jhen\u00e9 Aiko)",
-        "url": "https://open.spotify.com/album/1RdBxItI4IlFJkHuoaT16y"
-      },
-      "artists": [
-        {
-          "name": "Phora",
-          "url": "https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 253202,
-      "name": "Stars In The Sky (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 201869,
       "name": "Silver Into Rain",
       "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Stars In The Sky (feat. Jhen\u00e9 Aiko)",
+        "url": "https://open.spotify.com/album/1RdBxItI4IlFJkHuoaT16y"
+      },
+      "artists": [
+        {
+          "name": "Phora",
+          "url": "https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 253202,
+      "name": "Stars In The Sky (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "THE GRATITUDE PROJECT",
-        "url": "https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 217258,
-      "name": "SHOULD I BE OK?",
-      "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 157752,
       "name": "LEGEND",
       "url": "https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "THE GRATITUDE PROJECT",
+        "url": "https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 217258,
+      "name": "SHOULD I BE OK?",
+      "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Seoul",
-        "url": "https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kay",
-          "url": "https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q"
-        }
-      ],
-      "duration_ms": 213076,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "inhibitions (feat. P-Lo)",
         "url": "https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 169411,
       "name": "inhibitions (feat. P-Lo)",
       "url": "https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kay",
+          "url": "https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q"
+        }
+      ],
+      "duration_ms": 213076,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Stomachache",
-        "url": "https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP"
-      },
-      "artists": [
-        {
-          "name": "TRACE",
-          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Stomachache",
-      "url": "https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "GORGEOUS",
         "url": "https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 149973,
       "name": "GORGEOUS",
       "url": "https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Stomachache",
+        "url": "https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP"
+      },
+      "artists": [
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Stomachache",
+      "url": "https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL"
     },
     {
       "added_at": "2023-08-25 04:00:00",

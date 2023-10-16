@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 40868,
+  "num_followers": 41002,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjM3Zjc3MDIxZTY1YTE5M2VkMjA3ZDM3MmUwYWE3ZjAxZGU0M2Fl",
+  "snapshot_id": "MCxkYTEwMTFjOWMzZjA3YTZiM2IzMjkyZGM0MDMyNzRkYWZiYWYyMzg3",
   "tracks": [
     {
       "added_at": "2023-10-02 12:14:32",
@@ -103,30 +103,6 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Tell Me How",
-        "url": "https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv"
-      },
-      "artists": [
-        {
-          "name": "Anthony Keyrouz",
-          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
-        },
-        {
-          "name": "offrami",
-          "url": "https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1"
-        },
-        {
-          "name": "Jeannette",
-          "url": "https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw"
-        }
-      ],
-      "duration_ms": 132742,
-      "name": "Tell Me How",
-      "url": "https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
         "name": "Careless Whisper",
         "url": "https://open.spotify.com/album/1XjxeJw2RkvKoyj9ZQKqjI"
       },
@@ -147,6 +123,30 @@
       "duration_ms": 172800,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/4wyIAKiAc8Twh1jgzylZWo"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
+        "name": "Tell Me How",
+        "url": "https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv"
+      },
+      "artists": [
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        },
+        {
+          "name": "offrami",
+          "url": "https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1"
+        },
+        {
+          "name": "Jeannette",
+          "url": "https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw"
+        }
+      ],
+      "duration_ms": 132742,
+      "name": "Tell Me How",
+      "url": "https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
+        "name": "Lost In The Sky",
+        "url": "https://open.spotify.com/album/1Buz836gF1ikJN43NgQiNn"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "Lost In The Sky",
+      "url": "https://open.spotify.com/track/5ZeGvfbXQC7WqEqnNoZMTQ"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 183460,
       "name": "Lights Go Down (with SIDEPIECE)",
       "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
-        "name": "Lost In The Sky",
-        "url": "https://open.spotify.com/album/1Buz836gF1ikJN43NgQiNn"
-      },
-      "artists": [
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "Lost In The Sky",
-      "url": "https://open.spotify.com/track/5ZeGvfbXQC7WqEqnNoZMTQ"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "The Beach",
-        "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Koss",
-          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
-        }
-      ],
-      "duration_ms": 217377,
-      "name": "The Beach",
-      "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
         "name": "Dancing With Your Ghost",
         "url": "https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 162833,
       "name": "Dancing With Your Ghost",
       "url": "https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
+        "name": "The Beach",
+        "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Koss",
+          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+        }
+      ],
+      "duration_ms": 217377,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -779,6 +779,26 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
+        "name": "Forever, Now",
+        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 274795,
+      "name": "Elenore",
+      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 169048,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
-        "name": "Forever, Now",
-        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 274795,
-      "name": "Elenore",
-      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Apologize",
-        "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        }
-      ],
-      "duration_ms": 159845,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
         "name": "Bloom (nowifi Remix)",
         "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
       },
@@ -971,6 +951,26 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
+        "name": "Apologize",
+        "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "duration_ms": 159845,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
         "name": "Dollar For A Dime",
         "url": "https://open.spotify.com/album/1mU5hNit7ZSklzvUjEkZko"
       },
@@ -987,6 +987,30 @@
       "duration_ms": 148965,
       "name": "Dollar For A Dime",
       "url": "https://open.spotify.com/track/11O5rC66Yk7sszOrQ7tB4r"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 127021,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -1047,30 +1071,6 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 127021,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Feeling Lost Tonight",
-        "url": "https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6"
-      },
-      "artists": [
-        {
-          "name": "Krister & Dalbani",
-          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
-        }
-      ],
-      "duration_ms": 106315,
-      "name": "Feeling Lost Tonight",
-      "url": "https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
         "name": "Drift",
         "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 164516,
       "name": "Drift",
       "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
+        "name": "Feeling Lost Tonight",
+        "url": "https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6"
+      },
+      "artists": [
+        {
+          "name": "Krister & Dalbani",
+          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
+        }
+      ],
+      "duration_ms": 106315,
+      "name": "Feeling Lost Tonight",
+      "url": "https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
+        "name": "What You Do to Me",
+        "url": "https://open.spotify.com/album/33dz95maLS3wwFgdmdBOFO"
+      },
+      "artists": [
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "duration_ms": 164388,
+      "name": "What You Do to Me",
+      "url": "https://open.spotify.com/track/44fvlfBmomFkyO0jC7vuWF"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 220644,
       "name": "Gold",
       "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
-        "name": "What You Do to Me",
-        "url": "https://open.spotify.com/album/33dz95maLS3wwFgdmdBOFO"
-      },
-      "artists": [
-        {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
-        }
-      ],
-      "duration_ms": 164388,
-      "name": "What You Do to Me",
-      "url": "https://open.spotify.com/track/44fvlfBmomFkyO0jC7vuWF"
     },
     {
       "added_at": "2023-10-02 12:14:32",

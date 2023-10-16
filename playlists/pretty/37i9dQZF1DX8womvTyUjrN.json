@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Marc Segu\u00ed",
-  "num_followers": 284515,
+  "num_followers": 284551,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmJiODYyZTAzZGNkNjRiMDc5NTEzZDVlYjRkMmZjNjlkMmZhMjli",
+  "snapshot_id": "MCwyYmI0MjgyYzg3YWUxMmFkNmM3NzZhOTUwYzBkOWI5Zjg5ODAwNTQ5",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "LOTO",
+        "url": "https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "LOTO",
+      "url": "https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "MUCHO TXT",
         "url": "https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 149777,
       "name": "Multiverso (feat. Jay Wheeler)",
       "url": "https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "LOTO",
-        "url": "https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 166493,
-      "name": "LOTO",
-      "url": "https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv"
     },
     {
       "added_at": "2023-10-13 04:00:00",

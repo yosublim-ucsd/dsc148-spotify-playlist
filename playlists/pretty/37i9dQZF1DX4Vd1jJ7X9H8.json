@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 286649,
+  "num_followers": 286866,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOThmYzhkMGMzMDUwZjU3ZGY3MWQzOWMwNTA5MGUzMDBkNmVlYzEz",
+  "snapshot_id": "MCw0ZTMyZDg4NjQ5NTM4ODI5YTYwNDRhN2RhZWFlZWM4NzM3YTMyZjQ4",
   "tracks": [
     {
       "added_at": "2023-09-29 19:53:20",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
+        "name": "Elliot - EP",
+        "url": "https://open.spotify.com/album/4AFujnAenTwa4R07Fwyysp"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 236335,
+      "name": "Montreal",
+      "url": "https://open.spotify.com/track/5maosvba9QkQP14u6vtxog"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
         "name": "Loretta",
         "url": "https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM"
       },
@@ -679,18 +695,18 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "Elliot - EP",
-        "url": "https://open.spotify.com/album/4AFujnAenTwa4R07Fwyysp"
+        "name": "If This Is House I Want My Money Back 3",
+        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
         }
       ],
-      "duration_ms": 236335,
-      "name": "Montreal",
-      "url": "https://open.spotify.com/track/5maosvba9QkQP14u6vtxog"
+      "duration_ms": 285440,
+      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
+      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -715,22 +731,6 @@
       "duration_ms": 176773,
       "name": "Experience",
       "url": "https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
-        "name": "If This Is House I Want My Money Back 3",
-        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 285440,
-      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
-      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
     },
     {
       "added_at": "2023-09-29 19:53:20",

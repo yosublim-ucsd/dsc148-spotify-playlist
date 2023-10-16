@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Troye Sivan
 
-7,920 songs - 18 day 2 hr 24 min
+7,921 songs - 18 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4887,8 +4887,9 @@
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2023-06-23 | 2023-06-30 |
 | [One of the Guys](https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [One of the Guys](https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb) | 1:58 | 2022-09-01 | 2022-09-09 |
 | [One Of Us](https://open.spotify.com/track/07IKYVGXYta34nMlu6OWit) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [One Of Us](https://open.spotify.com/album/0u59JNRwvPl2rfN5OIY8Zn) | 2:58 | 2023-01-12 | 2023-01-20 |
-| [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 | 2023-10-12 |  |
+| [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 | 2023-10-12 | 2023-10-16 |
 | [One Of Your Girls](https://open.spotify.com/track/3QlaRJPhMAdtSebkshXA2E) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/0J8bLeayafqiMPoIZXOqtO) | 3:01 | 2023-10-12 | 2023-10-14 |
+| [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2023-10-12 |  |
 | [one of your seasons](https://open.spotify.com/track/5EeMgLk6wSkxCpbHC2Uovk) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x) | [one of your seasons](https://open.spotify.com/album/6w8nPbCLHSRa1GgDeXJy2R) | 3:56 | 2022-10-20 | 2022-10-28 |
 | [One Punch Tommy](https://open.spotify.com/track/4SoqwzilzxC6nm5Ag8kG49) | [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [One Punch Tommy](https://open.spotify.com/album/6OcaHnyEDl6sLVvbak8q48) | 3:16 | 2022-11-24 | 2022-12-02 |
 | [One Two Three](https://open.spotify.com/track/2X3mOHH1uGUV7XHl68ii0l) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [One Two Three](https://open.spotify.com/album/1cMv6L495aMx4wNrtDQ7qZ) | 3:04 | 2023-04-06 | 2023-04-14 |

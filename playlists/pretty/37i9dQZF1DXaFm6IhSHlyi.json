@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 142311,
+  "num_followers": 142320,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2E2OGExOWRkNTE0ZGU5ZjI0MWI3MTJhNTRiZGY4MmM4ZTE3NWM0",
+  "snapshot_id": "MCwyZWFmOWE1YThhNDdlYWEyNWVjODdlNzZlZjlmZGFhZDk2MDQ4OWVh",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 176586,
-      "name": "Use Somebody - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Binalewala",
         "url": "https://open.spotify.com/album/1793zMKn7sOceKYWdN7yQX"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 268486,
       "name": "Binalewala - Original Version",
       "url": "https://open.spotify.com/track/2tR5liucorXRwduxr0qEx6"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 176586,
+      "name": "Use Somebody - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Lucid",
-        "url": "https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 261238,
-      "name": "Still Dreaming",
-      "url": "https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "tere bina (Acoustic)",
         "url": "https://open.spotify.com/album/0DiiqwlK2RmAOq7MTlqEqW"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 132000,
       "name": "tere bina - Acoustic",
       "url": "https://open.spotify.com/track/0wr1v0WSbEnmOm0B22yYHz"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Lucid",
+        "url": "https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 261238,
+      "name": "Still Dreaming",
+      "url": "https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Accetto Miracoli",
-        "url": "https://open.spotify.com/album/2OFCijOtzwFMkFNLRdShHw"
-      },
-      "artists": [
-        {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
-        }
-      ],
-      "duration_ms": 225386,
-      "name": "In Mezzo A Questo Inverno",
-      "url": "https://open.spotify.com/track/6bMfEx9nIYsmFjiJl6P9NY"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Tum Na Ho",
         "url": "https://open.spotify.com/album/6472XqZVt7gHSO4K40Pqk7"
       },
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Accetto Miracoli",
+        "url": "https://open.spotify.com/album/2OFCijOtzwFMkFNLRdShHw"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 225386,
+      "name": "In Mezzo A Questo Inverno",
+      "url": "https://open.spotify.com/track/6bMfEx9nIYsmFjiJl6P9NY"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Sa Paghimig Mo",
         "url": "https://open.spotify.com/album/0JzWTRJ2fBl3Egldr14llU"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 236516,
       "name": "Sa Paghimig Mo",
       "url": "https://open.spotify.com/track/0dhN59CptPl9jJx4cxVOXO"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Maula",
+        "url": "https://open.spotify.com/album/1OIWkzjWFJuClJVm7DEry4"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Maula",
+      "url": "https://open.spotify.com/track/7pncFFzijtxIQtLpNwiAyO"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1551,22 +1567,6 @@
       "duration_ms": 150011,
       "name": "Jet Lag",
       "url": "https://open.spotify.com/track/4nDNTISVKzP3YjW4vvW1B1"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Maula",
-        "url": "https://open.spotify.com/album/1OIWkzjWFJuClJVm7DEry4"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Maula",
-      "url": "https://open.spotify.com/track/7pncFFzijtxIQtLpNwiAyO"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Media Tinta",
-        "url": "https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2"
-      },
-      "artists": [
-        {
-          "name": "Sofia Ellar",
-          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
-        }
-      ],
-      "duration_ms": 234340,
-      "name": "Media Tinta",
-      "url": "https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Sajni",
         "url": "https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 298000,
       "name": "Sajni",
       "url": "https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Media Tinta",
+        "url": "https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2"
+      },
+      "artists": [
+        {
+          "name": "Sofia Ellar",
+          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
+        }
+      ],
+      "duration_ms": 234340,
+      "name": "Media Tinta",
+      "url": "https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Sushi Season (The First)",
+        "url": "https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst"
+      },
+      "artists": [
+        {
+          "name": "Garry Mapanzure",
+          "url": "https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm"
+        }
+      ],
+      "duration_ms": 243504,
+      "name": "Pindirai",
+      "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Te quiero (Versi\u00f3n 2019)",
         "url": "https://open.spotify.com/album/1xg3IvcDs8TmF05ZdKyNQJ"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 212476,
       "name": "Ll Abad",
       "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Sushi Season (The First)",
-        "url": "https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst"
-      },
-      "artists": [
-        {
-          "name": "Garry Mapanzure",
-          "url": "https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm"
-        }
-      ],
-      "duration_ms": 243504,
-      "name": "Pindirai",
-      "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/3yEQXRLQ8SGkgwhGm9r7m5"
-      },
-      "artists": [
-        {
-          "name": "\u6df1\u6839",
-          "url": "https://open.spotify.com/artist/5wCs789dq9VkEJAdTxlFlt"
-        }
-      ],
-      "duration_ms": 225082,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/4RDy6zlwAFeMGGKeeJTwUA"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Madhaniyan (Live)",
         "url": "https://open.spotify.com/album/1JQBJ5I4LF77Q6XHSvuPN1"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 261592,
       "name": "Madhaniyan (Live)",
       "url": "https://open.spotify.com/track/6xuGNFWVVz2VKn56MSkT3D"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/3yEQXRLQ8SGkgwhGm9r7m5"
+      },
+      "artists": [
+        {
+          "name": "\u6df1\u6839",
+          "url": "https://open.spotify.com/artist/5wCs789dq9VkEJAdTxlFlt"
+        }
+      ],
+      "duration_ms": 225082,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/4RDy6zlwAFeMGGKeeJTwUA"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2455,26 +2455,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Kyle",
-        "url": "https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY"
-      },
-      "artists": [
-        {
-          "name": "Qaayel",
-          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
-        },
-        {
-          "name": "Nada",
-          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438 (Ice Lyrical Version)",
         "url": "https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y"
       },
@@ -2507,6 +2487,26 @@
       "duration_ms": 187535,
       "name": "The Everyday Bit",
       "url": "https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Kyle",
+        "url": "https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY"
+      },
+      "artists": [
+        {
+          "name": "Qaayel",
+          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
+        },
+        {
+          "name": "Nada",
+          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17"
     },
     {
       "added_at": "2022-10-17 15:00:00",

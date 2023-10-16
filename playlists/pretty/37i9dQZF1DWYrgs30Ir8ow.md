@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,736 likes - 35 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,750 likes - 35 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 34 | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg) | 2:25 |
 | 35 | [Cuff It](https://open.spotify.com/track/4aklcHyOrgB2t4iXNgpvk9) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Cuff It](https://open.spotify.com/album/3ujSj1tKnkjg9V3d7WREoD) | 3:31 |
 
-Snapshot ID: `MCxkNDI4ODBiMjBiMzAxYzM3MmZhZTExZDQ5ZGEyM2VlOWU0NWVhYWM5`
+Snapshot ID: `MCw2NmQwZDM4ZGMyNTVlMzgzODExMDlhZmQ0NTYzNjU2NTVjMjFlMGZm`

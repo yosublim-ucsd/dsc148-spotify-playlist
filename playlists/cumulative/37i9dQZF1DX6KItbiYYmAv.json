@@ -707,6 +707,28 @@
     },
     {
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/44ArZIOrM8j3MzGjs3MUSg"
+      },
+      "artists": [
+        {
+          "name": "Jarryd James",
+          "url": "https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s"
+        },
+        {
+          "name": "Raury",
+          "url": "https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235293,
+      "name": "Do You Remember",
+      "url": "https://open.spotify.com/track/1F2VIrr9oh7MwkI3NyLtHJ"
+    },
+    {
+      "album": {
         "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
       },
@@ -3712,7 +3734,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 152960,
       "name": "Waiting Around - Acoustic",
       "url": "https://open.spotify.com/track/6fWBQnyz8GrH0neN1IsBRc"

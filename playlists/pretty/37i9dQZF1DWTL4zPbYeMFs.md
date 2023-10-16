@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > A perfect mix for your Mehendi ceremony.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,420 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,493 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 26 | [Din Shagna Da](https://open.spotify.com/track/20rwogC6aE369YsxFb5aRp) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Phillauri](https://open.spotify.com/album/0VcufnK1aFnUCIQR2j9cFE) | 3:35 |
 | 27 | [Mehndi Rach Gayi](https://open.spotify.com/track/4r2fV0KNndCU7txcDtozPp) | [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw), [Raghav](https://open.spotify.com/artist/3eU2hgCTO4RdLni6qYMEtr) | [Mehndi Rach Gayi](https://open.spotify.com/album/1QWCGnoYkQ1nHH31CMIxbs) | 3:48 |
 | 28 | [Banno \(From "Tannu Weds Manu Returns"\)](https://open.spotify.com/track/78LZUVqzZzsuNfT6G782pP) | [Brijesh Shandilya](https://open.spotify.com/artist/3gdKEsvYBUHdtLMmECIN4q), [Swati Sharma](https://open.spotify.com/artist/6nvNh0jV10gc2aYFALNahg) | [Tanu Weds Manu Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66GxOwfWVlbVRPwoi5dbhd) | 3:16 |
-| 29 | [Liggi](https://open.spotify.com/track/4vwPirpSJCOiIsgxMV4Xcv) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Liggi](https://open.spotify.com/album/1zITUizbdnwegHf2BM7faa) | 3:01 |
+| 29 | [Liggi](https://open.spotify.com/track/7tbzfR8ZvZzJEzy6v0d6el) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Dev](https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE) | 3:01 |
 | 30 | [Rola Pe Gaya](https://open.spotify.com/track/2CYjOJhjqxU3IzYWnDmz8A) | [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Hard Kaur](https://open.spotify.com/artist/1Xoow41U5fn5DwlMlYt7Gw), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Earl](https://open.spotify.com/artist/0pnNFaArjbh5wsCVJwUlld), [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y) | [Patiala House](https://open.spotify.com/album/1DgIFH0yAPRPGBeCiJBvDv) | 4:28 |
 | 31 | [Shagun](https://open.spotify.com/track/1V3nPW84P7vDffxUAHtjJl) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4), [Mousam Mehta](https://open.spotify.com/artist/6TwlAFUoLtnJwumsxYhhex), [Malka Mehta](https://open.spotify.com/artist/2rrqD52eAe6byv62wB6RYq) | [Lagan](https://open.spotify.com/album/7EQqho3zZa8WyzHo3H0LLD) | 4:47 |
 | 32 | [Chhalka Chhalka Re](https://open.spotify.com/track/1xf8CRmSxglu1ikMhmdAiq) | [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Vaishali](https://open.spotify.com/artist/0w8tFRpIwIcsX9HXUIaoAF), [Shoma](https://open.spotify.com/artist/7CRk1A0vdDJmyvoA3I4SkN) | [Mardaani's Picks Vol\-3 \(Original\)](https://open.spotify.com/album/1jovWFh0n5lhPO6lMXe71T) | 5:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 49 | [Charda Siyaal](https://open.spotify.com/track/1olfUQXZoaqITRxmBq1Y1F) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Charda Siyaal \- Single](https://open.spotify.com/album/1pSrIo84dlxz8U2fyLEolg) | 3:20 |
 | 50 | [Mehndi Ki Raat](https://open.spotify.com/track/6yyC676TchwgOyhVfOykxA) | [Models](https://open.spotify.com/artist/7rH3S7xMKRVSr0JrpqTUIZ) | [Jaana Hai Bollywood](https://open.spotify.com/album/1ZhKxioBc0HF6CDGYHXMpx) | 4:23 |
 
-Snapshot ID: `MCxjOWYyYzQxZmRhNzVlOWIzMjllZjM0NzVhZTNmYTI0ZmM5N2E5Zjdk`
+Snapshot ID: `MCwyZGI0NWU2ZDIxMGU5MzVhOTEzZDRmZGRmMzkwMGIzMWUzMTVhZDhj`

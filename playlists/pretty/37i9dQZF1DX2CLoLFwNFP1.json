@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30135,
+  "num_followers": 30181,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGM1NTM1MDdjZGVmMjM0OWNkNDc5ZmI0YzdiNDhkM2NiMzI3M2Vl",
+  "snapshot_id": "MCw3YjgxOGVlMzI5ZDc2Njk2M2QwNmI0ZDE0MTYwYjY5OGMyZjEzNzhl",
   "tracks": [
     {
       "added_at": "2023-07-31 16:03:37",
@@ -275,6 +275,30 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
+        "name": "Point Of View: U",
+        "url": "https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Love The Way (Feat. Jay Park & punchnello)",
+      "url": "https://open.spotify.com/track/6gLJoEyuuHk1IwrZXWjotF"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
         "name": "H1GHR : BLUE TAPE",
         "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
       },
@@ -299,30 +323,6 @@
       "duration_ms": 188106,
       "name": "Oscar",
       "url": "https://open.spotify.com/track/2Wqnhu5dRQDAQi8Ej6HnVQ"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "Point Of View: U",
-        "url": "https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM"
-      },
-      "artists": [
-        {
-          "name": "YUGYEOM",
-          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Love The Way (Feat. Jay Park & punchnello)",
-      "url": "https://open.spotify.com/track/6gLJoEyuuHk1IwrZXWjotF"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -395,46 +395,6 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
-        "name": "H1GHR : RED TAPE",
-        "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "Woodie Gochild",
-          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 245786,
-      "name": "Tel\u00e9fono Remix",
-      "url": "https://open.spotify.com/track/0vZi38VepxZWh0ACqYaXio"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
       },
@@ -455,26 +415,6 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 218375,
-      "name": "DEJAVU (Feat. Jay Park) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/3SB8fH05CZEkPTWJAgkAB2"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD"
       },
@@ -491,6 +431,26 @@
       "duration_ms": 166813,
       "name": "Dedication (feat. Jay Park)",
       "url": "https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 218375,
+      "name": "DEJAVU (Feat. Jay Park) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/3SB8fH05CZEkPTWJAgkAB2"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -551,6 +511,46 @@
       "duration_ms": 191141,
       "name": "Butterflies (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/2I7OULYLv1IVo3Q4KOt88D"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
+        "name": "H1GHR : RED TAPE",
+        "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "Woodie Gochild",
+          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "Tel\u00e9fono Remix",
+      "url": "https://open.spotify.com/track/0vZi38VepxZWh0ACqYaXio"
     },
     {
       "added_at": "2023-07-31 16:03:37",

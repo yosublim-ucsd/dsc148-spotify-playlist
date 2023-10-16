@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 
 > From India to MENA, these hits will make you dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,865 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,885 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 35 | [Habibi](https://open.spotify.com/track/1oqb2byqglKfTr4TEvLtGZ) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Back 2 Love](https://open.spotify.com/album/2XpYarn4l8zxeCh5Zzj3Mv) | 4:51 |
 | 36 | [Bollywood](https://open.spotify.com/track/75bnrRBe7WXrlM8vxBQMOI) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Bollywood](https://open.spotify.com/album/4a4Ilmyy4LticNI8wjxdEh) | 3:09 |
 | 37 | [Shukran Allah \(From "Kurbaan"\)](https://open.spotify.com/track/2NLV2sSMKbHYyqezZiqXj0) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Sonu Nigam: Best of Me](https://open.spotify.com/album/6t6xffp18j87wZRLXOwHa7) | 4:50 |
-| 38 | [Wallah Wallah](https://open.spotify.com/track/4N1szZrSScl8EbUg2t240H) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Proof](https://open.spotify.com/artist/5pk8AXDLwwybWfGXpqWkZ5) | [Wallah Wallah](https://open.spotify.com/album/0YvN3saYGkzZzvRcCdyYNr) | 3:51 |
-| 39 | [Wak Wak](https://open.spotify.com/track/4OxGLH7f7DZzkUGXFSMd8y) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp), [Omar Belmir](https://open.spotify.com/artist/17vRJZ5WQBC1CvEW7XVGlL) | [Wak Wak](https://open.spotify.com/album/49nPb7VBPJ83NWIkXUp3SM) | 3:07 |
+| 38 | [Wak Wak](https://open.spotify.com/track/4OxGLH7f7DZzkUGXFSMd8y) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp), [Omar Belmir](https://open.spotify.com/artist/17vRJZ5WQBC1CvEW7XVGlL) | [Wak Wak](https://open.spotify.com/album/49nPb7VBPJ83NWIkXUp3SM) | 3:07 |
+| 39 | [Wallah Wallah](https://open.spotify.com/track/4N1szZrSScl8EbUg2t240H) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Proof](https://open.spotify.com/artist/5pk8AXDLwwybWfGXpqWkZ5) | [Wallah Wallah](https://open.spotify.com/album/0YvN3saYGkzZzvRcCdyYNr) | 3:51 |
 | 40 | [Zariya](https://open.spotify.com/track/7kWMZ2LZIedqzCgPkGNX81) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Farah Siraj](https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY), [Ani Choying Drolma](https://open.spotify.com/artist/4WDdyyr7KmLpJ6Gf65VQwI) | [Coke Studio India Season 3: Episode 1](https://open.spotify.com/album/2CStgaiOhe1w4OXAoqP1gl) | 7:12 |
 | 41 | [Hermosa](https://open.spotify.com/track/1zgld0Oet9q8u2mjrGCBNr) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [D Soldierz](https://open.spotify.com/artist/2iMLFmSsfgkQjyIg8Y6QVj) | [Hermosa](https://open.spotify.com/album/60V8eeJcMracw5CfeQtuge) | 3:23 |
 | 42 | [Mann Tu Talbat](https://open.spotify.com/track/2E7YOOQjlK8bb0I7kM3JSG) | [Hamza](https://open.spotify.com/artist/7D162LQuIOp4vFQ1XMQcnd) | [Super Star](https://open.spotify.com/album/0wswgvh5SqzIbPPimeNuTu) | 5:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 49 | [3 Sneen](https://open.spotify.com/track/6ZddaoTZy0vqf4vTmqUbJs) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [3 Sneen](https://open.spotify.com/album/6IOqUxSF8Il0r0aXFTt4rt) | 3:01 |
 | 50 | [Mashallah \(feat\. Sukriti Kakar & Prakriti Kakar\)](https://open.spotify.com/track/7LasZEDby0I9uVNUjED1yS) | [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Mashallah \(feat\. Sukriti Kakar & Prakriti Kakar\)](https://open.spotify.com/album/4msvzEOis0kGxDHn2ZaQQx) | 3:32 |
 
-Snapshot ID: `MCwwMjRlZmNjMWI1ZTBjNjQyZGQ0NzFkMzBlYjZjOGViNmY0YjcyYWFl`
+Snapshot ID: `MCw0M2JhYTc5NjhkMjM5NGRhZDY1Yzc0NTg3NDU4YjA4ZTg3ZDk5YTg4`

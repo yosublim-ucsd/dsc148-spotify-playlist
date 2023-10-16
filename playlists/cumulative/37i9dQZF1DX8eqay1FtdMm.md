@@ -4,7 +4,7 @@
 
 > Meet the vocalists representing Korea! \(Cover:HYNN\(박혜원\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-429 songs - 1 day 4 hr 1 min
+430 songs - 1 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 | 2021-12-20 |  |
 | [Can Love Be Fair](https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL), [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Can Love Be Fair](https://open.spotify.com/album/6NRwI0v6TP5q8Pm8lCvTiK) | 4:15 | 2021-12-20 |  |
 | [Can′t Live Without You](https://open.spotify.com/track/1HGEtYmtaMDG4lTtITK5pA) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [YOU](https://open.spotify.com/album/30WYyl2dDYF5KWeEpJ3GF6) | 4:04 | 2022-02-10 | 2022-07-25 |
+| [Chosen One](https://open.spotify.com/track/1wVR4uRKLxXCwZY8saaTMM) | [Forestella](https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8) | [The sword of Aramun, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4FLn9vnAb0b5ILDZGtz3lI) | 4:10 | 2023-10-15 |  |
 | [Close my eyes](https://open.spotify.com/track/0jNqyuk278VsrMjcAUzAzZ) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Close my eyes](https://open.spotify.com/album/66A0tlUBVPsaVbiXIrwGqP) | 4:39 | 2022-05-03 | 2022-07-10 |
 | [Cold breeze is blowing](https://open.spotify.com/track/5JWnuJXxDUb5sgV4SiWdur) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Cold Day](https://open.spotify.com/album/5HXAwf8M9T6VSw0LlgeHhy) | 3:28 | 2022-11-30 | 2022-12-06 |
 | [Come & Talk](https://open.spotify.com/track/3uBqqwDtAq2ps9ctayHa3n) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Come & Talk](https://open.spotify.com/album/5mXhZgl7vv33urDUc7dujJ) | 3:31 | 2021-12-27 | 2022-07-25 |
@@ -206,7 +207,7 @@
 | [Lim Jae Beum \- v o K a l \(KR\)](https://open.spotify.com/track/1wjeOAasitMZuBLt2PE1YM) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [v o K a l audio liner](https://open.spotify.com/album/3Uc4lyksj1k3SBs2KVc0Sf) | 0:03 | 2022-10-26 |  |
 | [Link](https://open.spotify.com/track/6O3EdGPasHMi44JWmyi0nW) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/0ruypxhtFg28qk7uJDSozs) | 3:39 | 2022-08-01 | 2023-01-12 |
 | [LONER](https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [If You Wish Upon Me OST Part.1](https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A) | 3:39 | 2022-08-18 | 2023-01-11 |
-| [Long time no see](https://open.spotify.com/track/4PwrkFF5wNLBCJLxfEdtIW) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Long time no see \(Original Television Soundtrack From "The Witch Store Reopening"\)](https://open.spotify.com/album/52p2C1TriWORdN2fUGX4fc) | 3:28 | 2023-10-05 |  |
+| [Long time no see](https://open.spotify.com/track/4PwrkFF5wNLBCJLxfEdtIW) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Long time no see \(Original Television Soundtrack From "The Witch Store Reopening"\)](https://open.spotify.com/album/52p2C1TriWORdN2fUGX4fc) | 3:28 | 2023-10-05 | 2023-10-16 |
 | [Looking at the Photo](https://open.spotify.com/track/05vg8sTPGNYv7uKYbVU4e3) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Looking at the Photo \(REVIBE Vol.2\)](https://open.spotify.com/album/25JKB4F13k0KyACimQx081) | 4:39 | 2021-12-20 | 2022-07-24 |
 | [Looking For Love \(Man Ver.\)](https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Oh My Venus \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/2RZaKdOuXB0obaW21fy3Oo) | 4:01 | 2022-04-01 | 2022-04-21 |
 | [Lost](https://open.spotify.com/track/2pRmhfwgixiYF91SywOUFh) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Stranger 2 \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6ndtD6TsJ5d9gju1CIDf6Z) | 3:16 | 2021-12-20 | 2022-07-11 |

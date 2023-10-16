@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Bad Bunny, Ice Spice & Rema, Offset & Travis Scott, boygenius,  Troye Sivan and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,163,797 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,163,985 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 56 | [Practice](https://open.spotify.com/track/6J2ECbAbX4L4WgIkeXyeq6) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Practice](https://open.spotify.com/album/06y4wpVgWExGgvoUECSgMj) | 3:14 |
 | 57 | [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 |
 | 58 | [Cut Me Down \(feat\. Mallrat\)](https://open.spotify.com/track/5YcaoDErGAsdGwCmFvRicq) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Cut Me Down \(feat\. Mallrat\)](https://open.spotify.com/album/3H2sRRy1oPWojDvXPjMruV) | 2:58 |
-| 59 | [Do You](https://open.spotify.com/track/0eHLd2rwOakcEiFwG0SztP) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Do You](https://open.spotify.com/album/3TA7Hh96OwARzUgw71ZcaO) | 4:08 |
+| 59 | [Do You](https://open.spotify.com/track/2tO1RrlOXyZAMqB0wDybXf) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd) | 4:08 |
 | 60 | [I Will \(When You Do\)](https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [I Will \(When You Do\)](https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH) | 3:27 |
 | 61 | [BITTERSWEET](https://open.spotify.com/track/4Ap4XPfDknSxcqBTVbyEqp) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [BITTERSWEET](https://open.spotify.com/album/5aVRKxppPPFxvPYGXNerNX) | 2:38 |
 | 62 | [Pedestal](https://open.spotify.com/track/3C8Z6rLzMjQiDSkZxpRHxV) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Pedestal](https://open.spotify.com/album/5KRQkpYEeyfXX4gF9kWV7I) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Black Eye](https://open.spotify.com/track/28GReZcMRd0N2Ns1bJ3HzR) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Black Eye](https://open.spotify.com/album/5va7T2m57yj457ywVCRo93) | 4:32 |
 | 100 | [Infraliminal](https://open.spotify.com/track/7syNqxCLAQZzQlkRyJIfDr) | [REZZMAU5](https://open.spotify.com/artist/7m5U1YbhADGvZc2mIhfe1j), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Infraliminal](https://open.spotify.com/album/3RoWzELirpqIEBueczpnNF) | 4:26 |
 
-Snapshot ID: `MCw0NWNhNDM2ZTMzYmEyN2ZiNjVmY2JkMmNlNmUxZjE4NTZlYzE3NDc1`
+Snapshot ID: `MCwyNmM3NTdmZTQxMDhlMDRjOTFiMmNkNGQxZDMzYjE4YTYwNjk0OWJk`

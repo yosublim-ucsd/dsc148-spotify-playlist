@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,053 likes - 50 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,121 likes - 50 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 28 | [Before Everything](https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg) | [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Fictions](https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH) | 6:15 |
 | 29 | [With You](https://open.spotify.com/track/63haVmKN5Arr9MgN1z6Qdw) | [Dj Burger](https://open.spotify.com/artist/0oVArDDqG7UfqZqwGskQVH), [Ryu Ken](https://open.spotify.com/artist/1rp6OXNShKdYKMug01rPlq), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [With You](https://open.spotify.com/album/3uMa6fwSZyAlRZ6y9mffiE) | 6:06 |
 | 30 | [Octave](https://open.spotify.com/track/0VnmFajFeWDUE2FO9jPIAy) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [OVGSREPUBLIC](https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU) | 7:33 |
-| 31 | [Four Lessons](https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Dafrotone](https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N) | 7:33 |
-| 32 | [See the Light](https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu) | [Bless\_SA](https://open.spotify.com/artist/3RMfjBJXOjT0YkyCOgxIFP), [Kyika DeSoul](https://open.spotify.com/artist/0DHLdEGkjuhY0DPiOa3w5I) | [See the Light](https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA) | 6:45 |
+| 31 | [See the Light](https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu) | [Bless\_SA](https://open.spotify.com/artist/3RMfjBJXOjT0YkyCOgxIFP), [Kyika DeSoul](https://open.spotify.com/artist/0DHLdEGkjuhY0DPiOa3w5I) | [See the Light](https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA) | 6:45 |
+| 32 | [Four Lessons](https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Dafrotone](https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N) | 7:33 |
 | 33 | [Flute Activation \- Original Mix](https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Artform](https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5) | 7:39 |
-| 34 | [We Gonna Fight For Music](https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [We Gonna Fight For Music](https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb) | 8:41 |
+| 34 | [Confident \(feat\. Kali Mija\)](https://open.spotify.com/track/18TurB98aOL6s0bhPlI2uH) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Confident \(feat\. Kali Mija\)](https://open.spotify.com/album/0s5sUEzHMd8BGP46oCA2ck) | 7:43 |
 | 35 | [Never Give Up](https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP) | [Zico SA](https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc) | [I Rise Again](https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg) | 9:16 |
-| 36 | [Seeking](https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4) | [Buder Prince](https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a), [Ruthes Ma](https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c) | [Seeking](https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe) | 6:37 |
-| 37 | [Confident \(feat\. Kali Mija\)](https://open.spotify.com/track/18TurB98aOL6s0bhPlI2uH) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Confident \(feat\. Kali Mija\)](https://open.spotify.com/album/0s5sUEzHMd8BGP46oCA2ck) | 7:43 |
+| 36 | [We Gonna Fight For Music](https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [We Gonna Fight For Music](https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb) | 8:41 |
+| 37 | [Seeking](https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4) | [Buder Prince](https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a), [Ruthes Ma](https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c) | [Seeking](https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe) | 6:37 |
 | 38 | [Sunday Showers](https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Old but New Last Episode](https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4) | 6:52 |
 | 39 | [The Savior \- Original Mix](https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5) | [Zhane](https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p) | [The Savior](https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc) | 6:51 |
 | 40 | [BAUHAUS](https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2) | [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [BAUHAUS](https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07) | 8:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 49 | [Gambiando Caras](https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL) | [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [Gambiando Caras](https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG) | 7:15 |
 | 50 | [The Inglourious](https://open.spotify.com/track/0NysUzy6N98PijkZVNcgE8) | [Devine Maestro](https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg), [Synth\-O\-Ven](https://open.spotify.com/artist/2rKAtDYA8XKQYtZkkKD1Pn) | [The Inglourious](https://open.spotify.com/album/17LsNERMz4XHdUgpkvyV5X) | 6:39 |
 
-Snapshot ID: `MCxiNmM1M2U3YTNjZWZjMGVkNjI5NjA3ZTlkZGFhYzg3YmI2ZWM1MmQ2`
+Snapshot ID: `MCxmZTVkNTJiZWRiMGQyYzcyYmUxMDk2YThjZDY2ZTMzYzg5MjRmZWRm`

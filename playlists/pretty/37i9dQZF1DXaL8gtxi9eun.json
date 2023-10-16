@@ -1,12 +1,12 @@
 {
   "description": "Stay up to date with the freshest Arabic Pop Songs. Cover: Dalia",
-  "num_followers": 107919,
+  "num_followers": 107943,
   "original_name": "Fresh Arabic Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGE1ZDEwMTY5YTgzYmQ5OTAzYTQ3OWI2NGExY2RjZmYwOWFkNjdk",
+  "snapshot_id": "MCw2MTkzYjNhNDA3ODFiM2NmYTcyYWQyM2VmZjRiN2U2MWMwNWE3NTE1",
   "tracks": [
     {
       "added_at": "2023-10-06 09:02:04",
@@ -23,6 +23,22 @@
       "duration_ms": 219907,
       "name": "Galbi Sadek",
       "url": "https://open.spotify.com/track/07qDaERSyVHaMMRvUblR58"
+    },
+    {
+      "added_at": "2023-10-15 10:03:30",
+      "album": {
+        "name": "\u062f\u0627\u062f\u064a\u0646\u0627",
+        "url": "https://open.spotify.com/album/69fom2qf7DQkMcBdsMYdfw"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "duration_ms": 198461,
+      "name": "\u062f\u0627\u062f\u064a\u0646\u0627",
+      "url": "https://open.spotify.com/track/7AInJeOGXWBT9xnxhRTVZW"
     },
     {
       "added_at": "2023-10-06 09:02:04",

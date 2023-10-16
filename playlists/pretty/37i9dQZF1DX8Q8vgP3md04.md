@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 
 > Hit music from Ethiopia's finest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,541 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,551 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 59 | [Teywa](https://open.spotify.com/track/1wmNXWGVkLxaJNYWNV8oq5) | [Aman](https://open.spotify.com/artist/10H83AFY6wbiZCiOd8guQR) | [Studio 30 Volume 1](https://open.spotify.com/album/3BGMxmK1XEj84UosGYTk61) | 3:05 |
 | 60 | [Fiker](https://open.spotify.com/track/4UuPQugjrx9pQyEmfOeLrs) | [Dawit Cherent](https://open.spotify.com/artist/26MgB2XBEqAtyISkep3iC1) | [Sew, Pt\. 1 Mot](https://open.spotify.com/album/7bM7TdqRgpuDGl15zjFPet) | 5:16 |
 
-Snapshot ID: `MCwwM2FhZTg0MTY0MTBjMzdjOWMwMWZhYjg5YWNkYjkyMjU2N2U5NTNm`
+Snapshot ID: `MCw5ZWFhMmUwNTYwMzhmMTRhNDg1ZGMxZWYxNjlmOTM1OGU5OTk1NDgy`

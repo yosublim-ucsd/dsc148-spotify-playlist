@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xx858vMwUc.md) - [plain]
 
 > Featuring Rosalía, Yandel, KAROL G & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,356 likes - 25 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,367 likes - 25 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xx858vMwUc.md) - [plain]
 | 24 | [Dominicana](https://open.spotify.com/track/0xCRFfgIHOsmovVZzrFCoT) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Pablo Mas](https://open.spotify.com/artist/2f6TzIGIIxEuwp6o7kEbhy) | [Dominicana](https://open.spotify.com/album/0xBy8mlkeW6KOPuzt5xikF) | 3:36 |
 | 25 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 |
 
-Snapshot ID: `MCxiMzFlNzVhYTY5ODljOWEzYTI4MzE4ZGViMTVhNjU0YTA0YzYyNTUy`
+Snapshot ID: `MCwwMWFlODIzMzlmZDA2ZTI4MDVkNmUxMWVlMTQzMjM4OTI5OGQ5ODJm`

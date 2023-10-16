@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Ana Mena
 
-[Spotify](https://open.spotify.com/user/spotify) - 986,673 likes - 54 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 986,634 likes - 54 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 23 | [Hoy Festejo](https://open.spotify.com/track/5VzeBUPnyf9rWSPkEFeL6X) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Hoy Festejo](https://open.spotify.com/album/2EchHhx889NsqylPaAzboM) | 2:44 |
 | 24 | [LUCES DE CIUDAD \(feat\. Álvaro De Luna, Dani Fernández\)](https://open.spotify.com/track/4GrbQq8TcYoUd4s5YmzydE) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [LUCES DE CIUDAD \(feat\. Álvaro De Luna, Dani Fernández\)](https://open.spotify.com/album/3EBBkRkTqYd59GNwxUH3ar) | 2:43 |
 | 25 | [El Wey](https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [El Wey](https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr) | 3:17 |
-| 26 | [El Principio de algo](https://open.spotify.com/track/55oRR1s2W1xX2evrUCaOSb) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Principio de algo](https://open.spotify.com/album/0bpAz9oL8eRTGaOxS7PCkw) | 2:27 |
-| 27 | [Hablando En Plata](https://open.spotify.com/track/0XFNQRApcucLu0RZdbDB9F) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Hablando En Plata](https://open.spotify.com/album/0fqseXlgVCLiM6B2vkr1eW) | 3:08 |
+| 26 | [Hablando En Plata](https://open.spotify.com/track/0XFNQRApcucLu0RZdbDB9F) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Hablando En Plata](https://open.spotify.com/album/0fqseXlgVCLiM6B2vkr1eW) | 3:08 |
+| 27 | [El Principio de algo](https://open.spotify.com/track/55oRR1s2W1xX2evrUCaOSb) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Principio de algo](https://open.spotify.com/album/0bpAz9oL8eRTGaOxS7PCkw) | 2:27 |
 | 28 | [Puerta del Sol](https://open.spotify.com/track/13Cpy3Cl5f1K0VlNw0xPaT) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Puerta del Sol](https://open.spotify.com/album/0Feep6LUA5614f0kBIgLtU) | 3:13 |
 | 29 | [Me Sabe a Sal](https://open.spotify.com/track/5mYnrPNSzBZUpLtiaLbJ7s) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Me Sabe a Sal](https://open.spotify.com/album/4vdFPV2L2c8yUm9HSiwjeQ) | 2:32 |
 | 30 | [Derecho a No Declarar](https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Derecho a No Declarar](https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B) | 2:26 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 53 | [TE TRAJE FLORES](https://open.spotify.com/track/4SRojgjWd8Vqc40sicAEC8) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [TE TRAJE FLORES](https://open.spotify.com/album/4dzuTa3xJlpktfUcbp5i83) | 3:04 |
 | 54 | [Buffet](https://open.spotify.com/track/2B7QcLIE1VlnVwIeCGzR7V) | [Andrés Koi](https://open.spotify.com/artist/52nf6FtXCWlUMJP1GVhiN2) | [Buffet](https://open.spotify.com/album/0isPHpy36TvbD5vNeKKk5q) | 2:44 |
 
-Snapshot ID: `MCwwOWFkZTQwNTA3M2EwMzJhNDljZjIyOTA5MThlMjg2ZDIyMThlZDk2`
+Snapshot ID: `MCw3OTg2OWQ4MzNkYzE0MGJkNTg5ZTQxZGRhNjZlODc4ZjUyNWZlNGQ0`

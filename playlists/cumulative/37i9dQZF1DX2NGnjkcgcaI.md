@@ -4,7 +4,7 @@
 
 > Deep sounds of minimal dub techno to keep you on track.
 
-71 songs - 8 hr 16 min
+72 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Wave X \- Heavenchord Rmx](https://open.spotify.com/track/2sFMkX4rL0UmHgMG6s6ReI) | [Nae:Tek](https://open.spotify.com/artist/3Gwyr2ZQ0GexXr7V7w5dPP), [Heavenchord](https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X) | [Wave X](https://open.spotify.com/album/4aQlp6orHX2CwD2Z2BrY0H) | 7:09 | 2022-11-30 |  |
 | [We Out Here](https://open.spotify.com/track/1RCHyoaZY2dQ2LmHUobHvM) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Karma Baby EP](https://open.spotify.com/album/2EL95PlWudjVVnpnd9UOi1) | 7:12 | 2022-11-30 |  |
 | [Xo\-4 B](https://open.spotify.com/track/74UwRduwr7P8CehoFpIOZG) | [Ajnkana](https://open.spotify.com/artist/3U540CRMsMa7clpxltcJlj) | [Aphelion](https://open.spotify.com/album/0RdCkq515pvlbRb1RJ9AYe) | 8:32 | 2023-01-10 |  |
-| [Yume No Serei](https://open.spotify.com/track/4p4qSjT8ce6IPbtUV5obul) | [Deadbeat](https://open.spotify.com/artist/0rd7M5S6AdFkideaBtseOo), [Sa Pa](https://open.spotify.com/artist/3QvH7p6ECJrZdwFljWr5S0) | [The Mountain](https://open.spotify.com/album/0D06TW5YLar1SylbdM2Wna) | 7:22 | 2023-01-10 |  |
+| [Yume No Serei](https://open.spotify.com/track/4p4qSjT8ce6IPbtUV5obul) | [Deadbeat](https://open.spotify.com/artist/0rd7M5S6AdFkideaBtseOo), [Sa Pa](https://open.spotify.com/artist/3QvH7p6ECJrZdwFljWr5S0) | [The Mountain](https://open.spotify.com/album/0D06TW5YLar1SylbdM2Wna) | 7:22 | 2023-01-10 | 2023-10-16 |
+| [Yume No Serei](https://open.spotify.com/track/6W53gHSJ7kkq5AWZLufr4i) | [Deadbeat](https://open.spotify.com/artist/0rd7M5S6AdFkideaBtseOo), [Sa Pa](https://open.spotify.com/artist/3QvH7p6ECJrZdwFljWr5S0) | [The Mountain](https://open.spotify.com/album/5XsMiHWh73ZYtzPmDyWZ7k) | 7:22 | 2023-02-14 |  |
 
 \*This playlist was first scraped on 2023-02-08. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 331023,
+  "num_followers": 331325,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDIyZjUzNmQ3NmMzZmIxOGZlZTQyYWY4Y2M3NzY1MTZiOGQ0ODc1",
+  "snapshot_id": "MCwwMzJmYTBhMzE3NmVjNjA3OWJlMzdmNWE5MzgwZWM2MTZmYzJiZjBh",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Ecstasy Of Soul",
-        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Ecstasy Of Soul",
-      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Because The Night",
         "url": "https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 201330,
       "name": "Because The Night",
       "url": "https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Ecstasy Of Soul",
+        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Ecstasy Of Soul",
+      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Shotgun (It Ain't Over)",
+        "url": "https://open.spotify.com/album/6TZ7ruGd9mOmsw1IvShUm5"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Bright Lights",
+          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
+        }
+      ],
+      "duration_ms": 155909,
+      "name": "Shotgun (It Ain't Over)",
+      "url": "https://open.spotify.com/track/1VDALv89k5kHC0B3neBwru"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Shockwave (with Afrojack)",
         "url": "https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 122578,
       "name": "Shockwave (with Afrojack)",
       "url": "https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Judgement Day",
-        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Annihilate",
-        "url": "https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Annihilate",
-      "url": "https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Low (Macon's HYPERTECHNO Remix)",
         "url": "https://open.spotify.com/album/4Tpa491B6dAf3VnlXdts6V"
       },
@@ -1199,6 +1183,38 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Annihilate",
+        "url": "https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Annihilate",
+      "url": "https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "duration_ms": 132700,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Something",
         "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
       },
@@ -1215,6 +1231,26 @@
       "duration_ms": 163124,
       "name": "Something",
       "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Judgement Day",
+        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1239,26 +1275,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Shotgun (It Ain't Over)",
-        "url": "https://open.spotify.com/album/6TZ7ruGd9mOmsw1IvShUm5"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Bright Lights",
-          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
-        }
-      ],
-      "duration_ms": 155909,
-      "name": "Shotgun (It Ain't Over)",
-      "url": "https://open.spotify.com/track/1VDALv89k5kHC0B3neBwru"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Techno Sound",
         "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 189960,
       "name": "Techno Sound",
       "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        }
-      ],
-      "duration_ms": 132700,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Love Is Free",
+        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Love Is Free",
+      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Space Case",
         "url": "https://open.spotify.com/album/61OEWqooBSWvgvqPxRvc9L"
       },
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Love Is Free",
-        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 172563,
-      "name": "Love Is Free",
-      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
       },
@@ -1415,26 +1415,6 @@
       "duration_ms": 248471,
       "name": "Kids",
       "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Ready To Fly (Hardcore Mix)",
-        "url": "https://open.spotify.com/album/2xkbIq44wwXLSK727SDCM9"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "Ready To Fly - Hardcore Mix",
-      "url": "https://open.spotify.com/track/6qjgalreP33xyLiGuqKNdQ"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1459,6 +1439,26 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Ready To Fly (Hardcore Mix)",
+        "url": "https://open.spotify.com/album/2xkbIq44wwXLSK727SDCM9"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Ready To Fly - Hardcore Mix",
+      "url": "https://open.spotify.com/track/6qjgalreP33xyLiGuqKNdQ"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Sweet Dreams (Are Made Of This)",
         "url": "https://open.spotify.com/album/6TCJvwsIvDhoSlJQEhWWKI"
       },
@@ -1475,26 +1475,6 @@
       "duration_ms": 154285,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "No Fun",
-        "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        }
-      ],
-      "duration_ms": 130412,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1519,22 +1499,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Sensual, on Ecstasy (Sped Up Version)",
-        "url": "https://open.spotify.com/album/4JFYjBwuetlK5lUdXyJgV7"
-      },
-      "artists": [
-        {
-          "name": "Dominik Saltevski",
-          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
-        }
-      ],
-      "duration_ms": 324718,
-      "name": "Sensual, on Ecstasy - Sped Up Version",
-      "url": "https://open.spotify.com/track/22FZzabHSqgMY15Cnx1alE"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Hardcore Vibes",
         "url": "https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2"
       },
@@ -1547,6 +1511,42 @@
       "duration_ms": 161000,
       "name": "Hardcore Vibes - Radio Edit",
       "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "No Fun",
+        "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        }
+      ],
+      "duration_ms": 130412,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Sensual, on Ecstasy (Sped Up Version)",
+        "url": "https://open.spotify.com/album/4JFYjBwuetlK5lUdXyJgV7"
+      },
+      "artists": [
+        {
+          "name": "Dominik Saltevski",
+          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
+        }
+      ],
+      "duration_ms": 324718,
+      "name": "Sensual, on Ecstasy - Sped Up Version",
+      "url": "https://open.spotify.com/track/22FZzabHSqgMY15Cnx1alE"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1691,8 +1691,8 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Welcome to the Club",
-        "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
+        "name": "Weekend Party",
+        "url": "https://open.spotify.com/album/4iELrv5c4zQNNlzEZdLdo1"
       },
       "artists": [
         {
@@ -1700,17 +1700,13 @@
           "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
         },
         {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
-        },
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
         }
       ],
-      "duration_ms": 195537,
-      "name": "Welcome to the Club",
-      "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
+      "duration_ms": 143600,
+      "name": "Weekend Party",
+      "url": "https://open.spotify.com/track/6l6qbSwlEAWRGfbL5sf8y8"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1755,26 +1751,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Ray Of Solar (Anfisa Letyago Remix)",
-        "url": "https://open.spotify.com/album/42R9yItwNGM4B7dUnJQFW2"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Anfisa Letyago",
-          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
-        }
-      ],
-      "duration_ms": 207919,
-      "name": "Ray Of Solar - Anfisa Letyago Remix",
-      "url": "https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Down Low",
         "url": "https://open.spotify.com/album/6GDJIxBWbymdumQGeSZ6Dn"
       },
@@ -1791,6 +1767,26 @@
       "duration_ms": 132510,
       "name": "Down Low",
       "url": "https://open.spotify.com/track/7D7ovL2nk7JuSxT0K9jvkm"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Ray Of Solar (Anfisa Letyago Remix)",
+        "url": "https://open.spotify.com/album/42R9yItwNGM4B7dUnJQFW2"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        }
+      ],
+      "duration_ms": 207919,
+      "name": "Ray Of Solar - Anfisa Letyago Remix",
+      "url": "https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1835,8 +1831,8 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Weekend Party",
-        "url": "https://open.spotify.com/album/4iELrv5c4zQNNlzEZdLdo1"
+        "name": "Welcome to the Club",
+        "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
       },
       "artists": [
         {
@@ -1844,13 +1840,17 @@
           "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
         },
         {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        },
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
         }
       ],
-      "duration_ms": 143600,
-      "name": "Weekend Party",
-      "url": "https://open.spotify.com/track/6l6qbSwlEAWRGfbL5sf8y8"
+      "duration_ms": 195537,
+      "name": "Welcome to the Club",
+      "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Dark Water",
-        "url": "https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "JESSCA",
-          "url": "https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Dark Water",
-      "url": "https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Insomnia (Rework)",
         "url": "https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6"
       },
@@ -1931,6 +1911,26 @@
       "duration_ms": 180000,
       "name": "Insomnia - Rework",
       "url": "https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/1W4Ubpu9smoA6FK1AjM5Ui"
+      },
+      "artists": [
+        {
+          "name": "NWYR",
+          "url": "https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/2d5KjsVCU7ryRfvEtVdTIh"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1955,22 +1955,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/1W4Ubpu9smoA6FK1AjM5Ui"
+        "name": "Dark Water",
+        "url": "https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK"
       },
       "artists": [
         {
-          "name": "NWYR",
-          "url": "https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0"
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
         },
         {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+          "name": "JESSCA",
+          "url": "https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/2d5KjsVCU7ryRfvEtVdTIh"
+      "duration_ms": 206733,
+      "name": "Dark Water",
+      "url": "https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy"
     },
     {
       "added_at": "2023-10-12 22:00:00",

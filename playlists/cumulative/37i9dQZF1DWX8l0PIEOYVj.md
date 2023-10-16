@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Au5.
 
-448 songs - 1 day 2 hr 44 min
+449 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [far away \- Crankdat Remix](https://open.spotify.com/track/4fj1ITLZ06PioSOZK8rhUc) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [far away \(Crankdat Remix\)](https://open.spotify.com/album/44Drb1IMP5Ah4VXgndZojP) | 3:23 | 2022-12-02 | 2023-04-29 |
 | [Feel Nothing](https://open.spotify.com/track/2KUlPVz7UTeOh11er0lYRI) | [Kozmoz](https://open.spotify.com/artist/4jwHh8156lpD0ifm9bUCz4), [CELO](https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh) | [Feel Nothing](https://open.spotify.com/album/5W2pW7RDyS1ioKpjG27rS2) | 2:27 | 2023-09-29 |  |
 | [Fight It](https://open.spotify.com/track/1OI3U2W6ZoRU700lOP0lwt) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [Fight It](https://open.spotify.com/album/7Muw30FkYabhPMhpJtnrm4) | 3:05 | 2023-04-28 | 2023-08-10 |
-| [Fight Or Flight](https://open.spotify.com/track/7L7pW3lHKv5TMKnygYq3a2) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Fight Or Flight](https://open.spotify.com/album/6i4ZtLtwQZj3BW4DIRIabC) | 3:10 | 2022-07-08 |  |
+| [Fight Or Flight](https://open.spotify.com/track/7L7pW3lHKv5TMKnygYq3a2) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Fight Or Flight](https://open.spotify.com/album/6i4ZtLtwQZj3BW4DIRIabC) | 3:10 | 2022-07-08 | 2023-10-16 |
 | [find u.](https://open.spotify.com/track/2P6GOGbnrVkPBjbyFYyMIx) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [find u.](https://open.spotify.com/album/7oyVNWpF6kzHgmDrkoWZK8) | 3:21 | 2022-07-08 | 2022-08-13 |
 | [Find You There](https://open.spotify.com/track/2WxmjSYBgaswXqyWI0HPfE) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Find You There](https://open.spotify.com/album/2xpDatXqJ7n62gtGutnhOP) | 4:02 | 2022-07-08 | 2022-07-28 |
 | [Find You There](https://open.spotify.com/track/5bKYfg56uBj1elmyETcBXI) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Find You There](https://open.spotify.com/album/35cuRvDsmqI9DBA8V2U500) | 4:02 | 2022-07-08 | 2022-08-06 |
@@ -201,6 +201,7 @@
 | [Hologram Tears \(feat\. Monika Santucci\)](https://open.spotify.com/track/7gfSFkrGjKZL2XbSggjyxz) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [Hologram Tears \(feat\. Monika Santucci\)](https://open.spotify.com/album/2K0oDcNSg9KnyZL5jWrzr2) | 3:36 | 2022-07-08 | 2022-10-09 |
 | [Hurt](https://open.spotify.com/track/4hSmhoWceZfpoTopxcvaEr) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [Misdom](https://open.spotify.com/artist/1DbEQeF7ssOqCMwr6B9jPt) | [Hurt](https://open.spotify.com/album/7CUMWsuL3VBhlDaJXZGmX7) | 4:15 | 2022-09-30 | 2023-08-20 |
 | [Hurting Too](https://open.spotify.com/track/3CzT2BHL7mdohRzSvyeJuL) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Hurting Too](https://open.spotify.com/album/7KV3axglofQ6kQcyiwi6Au) | 3:38 | 2022-07-08 | 2022-08-06 |
+| [Hurts Sometimes \(with RUNN\)](https://open.spotify.com/track/4IWE1369xmE7gOhQGFshYZ) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Hurts Sometimes \(with RUNN\)](https://open.spotify.com/album/64HRawr4ExQg35luwZxlql) | 4:08 | 2023-10-13 |  |
 | [Hypnotize](https://open.spotify.com/track/1UWYmWcYtNeoVfI05gL05Z) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus) | [Hypnotize](https://open.spotify.com/album/3FTumF4XnugewlfCek5Rs8) | 3:07 | 2022-07-08 | 2023-02-16 |
 | [Hypnotize](https://open.spotify.com/track/67Sb5mCfhpMDiD2ZbIGh4S) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus) | [Hypnotize](https://open.spotify.com/album/4WvJjrZQhOLCTNnPUdZpQw) | 3:07 | 2023-01-13 |  |
 | [I Can Feel](https://open.spotify.com/track/6vAghAitNFHoGUEbhJPI6n) | [R3YAN](https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel) | [I Can Feel](https://open.spotify.com/album/57l0rDfB4jXEepSeuuE56H) | 2:31 | 2022-07-08 | 2022-09-03 |

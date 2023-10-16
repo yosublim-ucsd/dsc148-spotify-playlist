@@ -4,7 +4,7 @@
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-149 songs - 13 hr 57 min
+150 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Bass Real Low](https://open.spotify.com/track/0JWkITPFZLi1pawwXkSM9J) | [NightFunk](https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O) | [LALALAND Coast To Coast](https://open.spotify.com/album/5RFNOaFb6UTtLG6GV0DPj8) | 4:58 | 2023-08-11 |  |
 | [Bee Side](https://open.spotify.com/track/74LRQn88lbbkHdVJIJxg6Q) | [n808](https://open.spotify.com/artist/4pzJW4dAwRMnyDdJXQhOFf) | [LALALAND Coast To Coast](https://open.spotify.com/album/5RFNOaFb6UTtLG6GV0DPj8) | 5:08 | 2023-08-11 |  |
 | [Beggin'](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Beggin'](https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V) | 3:03 | 2023-07-21 |  |
-| [Benja](https://open.spotify.com/track/2cgmmdRAw4nLSA0fZEPA2s) | [Simas](https://open.spotify.com/artist/6oSvQR9kDo5qO1BNGQ4PeS) | [Benja](https://open.spotify.com/album/2zTBzwH7yMZTSzImj9jehk) | 7:00 | 2022-08-12 |  |
+| [Benja](https://open.spotify.com/track/2cgmmdRAw4nLSA0fZEPA2s) | [Simas](https://open.spotify.com/artist/6oSvQR9kDo5qO1BNGQ4PeS) | [Benja](https://open.spotify.com/album/2zTBzwH7yMZTSzImj9jehk) | 7:00 | 2022-08-12 | 2023-10-16 |
+| [Benja](https://open.spotify.com/track/3vKwST6gLEByvGRkcCMKbS) | [Simas](https://open.spotify.com/artist/6oSvQR9kDo5qO1BNGQ4PeS) | [Benja](https://open.spotify.com/album/4IMJLROIMST2OEgW9EfnHW) | 7:00 | 2023-08-11 |  |
 | [Bigger Than Prince \- Classmatic 2k23 Remix](https://open.spotify.com/track/6ESrIpipgBBSQ0KyOL4Mrc) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m) | [Bigger Than Prince \(10 Year Anniversary Remixes\)](https://open.spotify.com/album/6rWfLtu9NQDtUmvBZr8dRN) | 6:31 | 2023-06-20 | 2023-07-22 |
 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [The Chapters of Green Velvet](https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4) | 6:34 | 2022-08-12 | 2023-07-22 |
 | [Bigger Than Prince \- Marco Lys Remix](https://open.spotify.com/track/1JTGpoOr4o6eC7AiEjLdum) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Bigger Than Prince \(10 Year Anniversary Remixes\)](https://open.spotify.com/album/6rWfLtu9NQDtUmvBZr8dRN) | 3:15 | 2023-06-20 |  |

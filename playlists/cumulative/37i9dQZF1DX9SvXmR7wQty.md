@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Clodelle
 
-2,105 songs - 4 day 16 hr 24 min
+2,106 songs - 4 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,6 +574,7 @@
 | [Encore](https://open.spotify.com/track/409KxStjBn0Iz1hSnBKRB0) | [Papagroove](https://open.spotify.com/artist/1GqYLGpfT909cmQ3HK4zL2) | [Encore](https://open.spotify.com/album/5XDexeVBs0ez0PZVOP2wnn) | 3:35 | 2022-01-14 | 2022-01-29 |
 | [Encore ben amoureux](https://open.spotify.com/track/0iIigb9wBXhyi197evZtvc) | [La Braise](https://open.spotify.com/artist/2rTU2KGZ4wyFZ2L8zXwlz4) | [Encore ben amoureux](https://open.spotify.com/album/4Xw8JlSme5o3LYJIDx5JqC) | 2:34 | 2022-06-03 | 2022-06-11 |
 | [Encore là](https://open.spotify.com/track/0yajebaRJVcOQGdh4giqZy) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Encore là](https://open.spotify.com/album/1YEGYqvsrg8fEltkHGc4tx) | 2:59 | 2022-11-25 | 2022-12-10 |
+| [Encore plus](https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Encore plus](https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr) | 3:09 | 2023-10-13 |  |
 | [Encorps](https://open.spotify.com/track/1e9uba4Ei8fHrXDYrNTuTN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/1AV7yqXIK2IhVpLvd5KSfr) | 3:56 | 2023-02-17 | 2023-02-19 |
 | [Encorps](https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:56 | 2023-02-17 | 2023-03-04 |
 | [Encre rose](https://open.spotify.com/track/2ozGNfYebzpA8mEoQbtAP3) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Dashny Jules](https://open.spotify.com/artist/0qBG4ysV4DQXkZ1D5mcj5w) | [Encre rose](https://open.spotify.com/album/0Qsu1nA0ajaW7wbRCoywq2) | 2:51 | 2022-03-25 | 2022-04-09 |
@@ -904,7 +905,7 @@
 | [Je t'aime à l'algérienne](https://open.spotify.com/track/7JtzNuaglZuxafRNfoAiG8) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Je t'aime à l'algérienne](https://open.spotify.com/album/2SGmlK2zKgBTfTuZ9mRkny) | 3:32 | 2022-06-24 | 2022-07-09 |
 | [Je t'haine](https://open.spotify.com/track/4dKG0O0RaPGUMjNGBmLYh5) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 4:07 | 2021-12-31 | 2022-01-22 |
 | [Je t'haine](https://open.spotify.com/track/1Rn1zphLtXbGF436KG5Ft9) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Je t'haine](https://open.spotify.com/album/19rudC4R2eIZ1DGdE8yZAa) | 2:20 | 2023-03-31 | 2023-05-06 |
-| [Je te promets](https://open.spotify.com/track/2WQSqRICLiUVaQHT7QQ0We) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9), [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [Je te promets](https://open.spotify.com/album/6e3k8dGR9n0i8ILS37puwR) | 3:40 | 2023-09-08 |  |
+| [Je te promets](https://open.spotify.com/track/2WQSqRICLiUVaQHT7QQ0We) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9), [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [Je te promets](https://open.spotify.com/album/6e3k8dGR9n0i8ILS37puwR) | 3:40 | 2023-09-08 | 2023-10-16 |
 | [Je vais te faire danser](https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Je vais te faire danser](https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd) | 3:11 | 2022-09-09 | 2022-09-24 |
 | [JeanLeloup](https://open.spotify.com/track/5gflFNsfB3kTS2qjbsJBLg) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [JeanLeloup](https://open.spotify.com/album/30LlafjSzTHf3ofmTtOuOY) | 2:50 | 2022-04-29 | 2022-06-04 |
 | [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2021-12-31 | 2022-01-15 |
@@ -1038,7 +1039,7 @@
 | [Laisser Tomber \(feat\. Rymz\)](https://open.spotify.com/track/58qbhlwbORrJyWSFcLrdM3) | [Alexe](https://open.spotify.com/artist/25OceRescHJwftJk284v8K), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Laisser Tomber \(feat\. Rymz\)](https://open.spotify.com/album/4zBpCDhFbMPVX8RDj0nKF7) | 3:03 | 2022-02-11 | 2022-02-26 |
 | [Laisser tout](https://open.spotify.com/track/0HPQLdINNh702Kd7HTXpki) | [RSVP](https://open.spotify.com/artist/3J7DLBE8pKkr7nrT18PFCf) | [Laisser tout](https://open.spotify.com/album/3qF7fybaP7vQtMKxkztKeR) | 3:18 | 2022-01-21 | 2022-01-29 |
 | [Lajan](https://open.spotify.com/track/1xH4bzkXRMsLJ3OyYflr0w) | [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [Lajan](https://open.spotify.com/album/3LThUsrUigKPQuUsgdnCcl) | 2:39 | 2022-02-04 | 2022-02-19 |
-| [Lala](https://open.spotify.com/track/1FCva9S8VQYi6DWZxeDU7A) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h), [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y) | [Lala](https://open.spotify.com/album/6nkfWpygPTF1j2OgSBf9Ca) | 3:10 | 2023-10-13 |  |
+| [Lala](https://open.spotify.com/track/1FCva9S8VQYi6DWZxeDU7A) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Lala](https://open.spotify.com/album/6nkfWpygPTF1j2OgSBf9Ca) | 3:10 | 2023-10-13 |  |
 | [Lame Eyes \- Version française](https://open.spotify.com/track/1kcYYFFWSlx20kdXM7w3Qd) | [Lampion](https://open.spotify.com/artist/59UGzTU8yLmdOgB3TCRQak) | [Lame Eyes \(Version française\)](https://open.spotify.com/album/6mJuQIZVbnjBjXweyHrh74) | 3:08 | 2022-09-30 | 2022-10-08 |
 | [Lampadaire](https://open.spotify.com/track/7Fhd4Q0nYLhu7BGQCBXnZy) | [Menura](https://open.spotify.com/artist/2JjA9sCrPDgdweBVtimwzp) | [Le gris, le beige](https://open.spotify.com/album/5O2dAEL3lOaioQYpGrIt9y) | 3:21 | 2022-07-08 | 2022-07-30 |
 | [Lance\-Flamme Lance\-Glace](https://open.spotify.com/track/04mBqAXAqVpBSjMRlD2qrv) | [YOCTO](https://open.spotify.com/artist/6oL1PKTxXeIYiobQD30O3n) | [Lance\-Flamme Lance\-Glace](https://open.spotify.com/album/4fdaBFDsJ1y7vJFgVMKvCR) | 3:01 | 2023-03-24 | 2023-04-09 |

@@ -5531,6 +5531,24 @@
     },
     {
       "album": {
+        "name": "Domino (Acoustic)",
+        "url": "https://open.spotify.com/album/0r1cEHZp9EsImonU8X8Aik"
+      },
+      "artists": [
+        {
+          "name": "Sedona",
+          "url": "https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217779,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/2sljACn0yvJccfg4Ub4cME"
+    },
+    {
+      "album": {
         "name": "Domino",
         "url": "https://open.spotify.com/album/1smfUyWCkDAxgDRfJEXt3d"
       },
@@ -5542,7 +5560,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 217779,
       "name": "Domino",
       "url": "https://open.spotify.com/track/3v70cZTbmDtdada83OlRn4"

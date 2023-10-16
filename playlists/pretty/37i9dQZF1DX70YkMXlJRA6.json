@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 46869,
+  "num_followers": 46899,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTljOGQ2YzQ0NGE5NmU4Mjk0OTlkMjU3MWRiNjk2MmJjYWM2NTk0",
+  "snapshot_id": "MCw3OThiYjhkMGYzY2ZlNDdkNDJhMzFiYmMzMTZlNjg2MWRkMGVjNzUy",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Magnetica",
+        "url": "https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Sol Clap",
+      "url": "https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "M\u00fasica Para Pick Up",
         "url": "https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 245426,
       "name": "The Caribbean Raver",
       "url": "https://open.spotify.com/track/1CKL36QvlImNhsMAbwhGIQ"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Magnetica",
-        "url": "https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Sol Clap",
-      "url": "https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta"
     },
     {
       "added_at": "2023-03-24 19:41:45",
@@ -735,6 +735,26 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "La Tercera Vision",
+        "url": "https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X"
+      },
+      "artists": [
+        {
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+        },
+        {
+          "name": "Khalil Mounji",
+          "url": "https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK"
+        }
+      ],
+      "duration_ms": 235418,
+      "name": "Mano de Fatima",
+      "url": "https://open.spotify.com/track/1823wxCop81BdNRMKcfygg"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Sierra Madre (Remix)",
         "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "La Tercera Vision",
-        "url": "https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X"
-      },
-      "artists": [
-        {
-          "name": "Lagartijeando",
-          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
-        },
-        {
-          "name": "Khalil Mounji",
-          "url": "https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK"
-        }
-      ],
-      "duration_ms": 235418,
-      "name": "Mano de Fatima",
-      "url": "https://open.spotify.com/track/1823wxCop81BdNRMKcfygg"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -931,26 +931,26 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Venimos",
-        "url": "https://open.spotify.com/album/6LVxpWNwPBJBfZSIotbjJ1"
+        "name": "Calentura: Toque (Captain Planet Remixes)",
+        "url": "https://open.spotify.com/album/3mBNM16s2Nq2hfPNkhHSpz"
       },
       "artists": [
         {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+          "name": "Mon Rivera",
+          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
         },
         {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         },
         {
-          "name": "Carolina Camacho",
-          "url": "https://open.spotify.com/artist/0yIk2w5fMTibMpkEUKaaLA"
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
         }
       ],
-      "duration_ms": 211367,
-      "name": "Venimos",
-      "url": "https://open.spotify.com/track/4RZ6HrfPP5ML2L3D7bsPXW"
+      "duration_ms": 244043,
+      "name": "Ya Lleg\u00f3 - Captain Planet Remix",
+      "url": "https://open.spotify.com/track/0PIeefi6RLeFt2O0NUfRps"
     }
   ],
   "unique_name": "Club Electropical",

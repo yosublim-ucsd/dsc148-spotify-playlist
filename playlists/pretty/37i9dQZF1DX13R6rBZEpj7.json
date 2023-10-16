@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Gardna ",
-  "num_followers": 199176,
+  "num_followers": 199198,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTMyM2Q5OTZiYmRiZjY4NTBkMzljMTIzNTU4MDQ0MmRmZjNkNmQ4",
+  "snapshot_id": "MCxkMjk1Mzg1ZmU2OTgxNThiYjJiMGRlYzFjOTc0ZDNhYzA2MjMzOGRh",
   "tracks": [
     {
       "added_at": "2023-10-13 13:44:50",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-10-13 13:44:50",
       "album": {
+        "name": "Get Mad",
+        "url": "https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        }
+      ],
+      "duration_ms": 217344,
+      "name": "Get Mad",
+      "url": "https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3"
+    },
+    {
+      "added_at": "2023-10-13 13:44:50",
+      "album": {
         "name": "EGODEATH",
         "url": "https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 192000,
       "name": "EGODEATH",
       "url": "https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo"
-    },
-    {
-      "added_at": "2023-10-13 13:44:50",
-      "album": {
-        "name": "Get Mad",
-        "url": "https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        }
-      ],
-      "duration_ms": 217344,
-      "name": "Get Mad",
-      "url": "https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3"
     },
     {
       "added_at": "2023-10-13 13:44:50",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-10-13 13:44:50",
       "album": {
-        "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be"
-      },
-      "artists": [
-        {
-          "name": "KDYN",
-          "url": "https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N"
-        }
-      ],
-      "duration_ms": 241860,
-      "name": "Solid Ground",
-      "url": "https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY"
-    },
-    {
-      "added_at": "2023-10-13 13:44:50",
-      "album": {
         "name": "Take Me as I Am",
         "url": "https://open.spotify.com/album/0ENUjXIwpXUtga0c4P1BHc"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 191818,
       "name": "Take Me as I Am - Holy Goof Remix",
       "url": "https://open.spotify.com/track/7bPkaPxJFBqyieS9HtDx4Q"
+    },
+    {
+      "added_at": "2023-10-13 13:44:50",
+      "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be"
+      },
+      "artists": [
+        {
+          "name": "KDYN",
+          "url": "https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N"
+        }
+      ],
+      "duration_ms": 241860,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY"
     }
   ],
   "unique_name": "Bassline Bangers",

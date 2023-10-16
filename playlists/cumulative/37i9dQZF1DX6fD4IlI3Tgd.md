@@ -4,7 +4,7 @@
 
 > Desde México hasta Argentina, el hogar de los beats latinoamericanos\. Foto: MIEL
 
-61 songs - 3 hr 22 min
+62 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Tamos de Fiesta \- Remix](https://open.spotify.com/track/6OQHg2To0EDiaj4XyfJuBz) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Tamos de Fiesta \(Remix\)](https://open.spotify.com/album/2qQ3Xr5jANxRww4AFN1ga2) | 2:22 | 2023-08-18 |  |
 | [Teleport \- Future Mix](https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Soundexile](https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg) | [Future Memories](https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u) | 6:23 | 2023-08-18 |  |
 | [Tequila](https://open.spotify.com/track/08r8gksAHDMsrqnmLTmZgv) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Lazy Bear](https://open.spotify.com/artist/3DUHqp1EQvqsbodW3qKDH9) | [Tequila](https://open.spotify.com/album/35OTsIUefbbQqnWq6j8jMC) | 2:19 | 2023-08-18 |  |
-| [The Prey \- Gui Boratto & Vintage Culture Remix](https://open.spotify.com/track/7vXoveyI4GRF6VBRPayZpo) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [The Prey \(Gui Boratto & Vintage Culture Remix\)](https://open.spotify.com/album/10dJSNEtG0jPua0J2g1QPI) | 6:40 | 2023-08-18 |  |
+| [The Prey \- Gui Boratto & Vintage Culture Remix](https://open.spotify.com/track/7vXoveyI4GRF6VBRPayZpo) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [The Prey \(Gui Boratto & Vintage Culture Remix\)](https://open.spotify.com/album/10dJSNEtG0jPua0J2g1QPI) | 6:40 | 2023-08-18 | 2023-10-16 |
+| [The Prey \- Gui Boratto & Vintage Culture Remix](https://open.spotify.com/track/3u5RuCF9VP8jgyHJdqWIj5) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [The Prey \(Gui Boratto & Vintage Culture Remix\)](https://open.spotify.com/album/4lw5PrmpkCiFdGvIparL75) | 6:40 | 2023-08-18 |  |
 | [This Generation](https://open.spotify.com/track/7ALZfK8izr67IrJfqTOuIn) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS) | [This Generation](https://open.spotify.com/album/6OIubcGvfwcaYLrC9lnFrK) | 2:52 | 2023-08-18 |  |
 | [Tropicana \(La Noche\)](https://open.spotify.com/track/23dwwFPSWj3sH6IDAgeMh7) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Cucu Diamantes](https://open.spotify.com/artist/22GbdVx7qK79foK0sRWxTz) | [Tropicana \(La Noche\)](https://open.spotify.com/album/2NGYvRg59cNCPL8JfYZ1wX) | 3:20 | 2023-08-18 |  |
 | [Un poco todo](https://open.spotify.com/track/1PRQbBDsB6GwxGPoFpTcd9) | [Fangoria](https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4) | [Un poco todo](https://open.spotify.com/album/21vphzZquWSDewc3HRJqEq) | 3:20 | 2023-08-18 |  |

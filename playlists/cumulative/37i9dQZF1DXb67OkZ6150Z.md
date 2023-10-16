@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Soccer Mommy
 
-421 songs - 1 day 1 hr 51 min
+422 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [I Will Follow You Into The Dark](https://open.spotify.com/track/2uRDhUTXYoEYop4goR3lsa) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [I Will Follow You Into The Dark](https://open.spotify.com/album/1JItKcFYW0tNHqFHO4qqxo) | 3:53 | 2021-03-12 | 2022-08-10 |
 | [I Will Follow You Into the Dark](https://open.spotify.com/track/7e3SROp6VaekpMnbFKJjqt) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Looking for Alaska \(Music from the Original Series\)](https://open.spotify.com/album/4hRgz8S5EEyuVn2vUGwubS) | 3:53 | 2021-03-12 | 2022-07-29 |
 | [i will follow you into the dark \- Spotify Singles](https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Spotify Singles](https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl) | 2:33 | 2022-08-08 | 2023-01-14 |
-| [I Would Die 4 U](https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [I Would Die 4 U](https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA) | 3:19 | 2022-01-07 |  |
+| [I Would Die 4 U](https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [I Would Die 4 U](https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA) | 3:19 | 2022-01-07 | 2023-10-16 |
 | [I'm a Mess](https://open.spotify.com/track/1YGYnoIL8boFOsuq2bgah9) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [I'm a Mess](https://open.spotify.com/album/5P53hGjHbBBYcQEyEKzR5Z) | 2:59 | 2022-02-25 | 2022-07-21 |
 | [I'm Not In Love](https://open.spotify.com/track/79uTMlc8BJYCw8VGfosNO6) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [I'm Not In Love](https://open.spotify.com/album/3ZiNT1O7TFH3tj6gRPxeob) | 6:54 | 2021-03-12 | 2022-04-18 |
 | [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 | 2021-03-12 | 2022-08-10 |
@@ -300,6 +300,7 @@
 | [Safety Dance](https://open.spotify.com/track/41iyTkS7vxn5sOJTMjOrL8) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Safety Dance](https://open.spotify.com/album/7rvR8Bfm6DbVDThl64aVD9) | 3:51 | 2021-08-20 | 2022-07-05 |
 | [Save a Prayer \- Acoustic](https://open.spotify.com/track/2TMLHRfHlVvj4ukwVoWBVQ) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Unplugged](https://open.spotify.com/album/5w8054iUeNxpJ8uN05ugx2) | 3:50 | 2021-03-12 | 2022-06-23 |
 | [Savior Complex](https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Savior Complex](https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI) | 3:52 | 2021-07-21 | 2022-04-19 |
+| [Sea of Love \(with The National\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/2SUfpiTVAMqC4HEdTn1PPf) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sea of Love \(with The National\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/5iT2I6aOLxLTqpAmXl6hVN) | 4:09 | 2023-10-13 |  |
 | [See You Again](https://open.spotify.com/track/0ui5dB70Qkj815Lcm6K2sp) | [Okey Dokey](https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf) | [See You Again](https://open.spotify.com/album/0OrCA83wSnzoUFMFaYuMIg) | 3:51 | 2021-10-08 | 2022-06-30 |
 | [September](https://open.spotify.com/track/6n64BkrkLEgaQUliMeAMhD) | [Charming Liars](https://open.spotify.com/artist/478LE0Vmglapdba9xQQt0J) | [September](https://open.spotify.com/album/2iBqAGVB2PiQDgfi6g2Za6) | 3:02 | 2021-10-08 | 2022-04-16 |
 | [Shake That Devil](https://open.spotify.com/track/1mLdMXS86MxTuZHdRW5UqA) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Shake That Devil](https://open.spotify.com/album/5KmuniNQ2g7UKgImMLrnO3) | 3:05 | 2021-08-13 | 2022-04-03 |

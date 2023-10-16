@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 157179,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/6AGy2SKNYEzMSTkLsCAtUn"
@@ -2806,6 +2806,24 @@
       "duration_ms": 256117,
       "name": "Her Old Friends",
       "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
+    },
+    {
+      "album": {
+        "name": "Journey to Idan",
+        "url": "https://open.spotify.com/album/2U6DR87NV7jBoc2d5cHRxt"
+      },
+      "artists": [
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227217,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/31iNSE9TF3ehPE7cX8OSek"
     },
     {
       "album": {

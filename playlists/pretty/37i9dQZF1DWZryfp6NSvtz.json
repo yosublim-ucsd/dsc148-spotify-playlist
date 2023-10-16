@@ -1,12 +1,12 @@
 {
   "description": "The best new rock tracks every week. Cover: blink-182",
-  "num_followers": 426601,
+  "num_followers": 426760,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmEzZDY5ZDY0NWI1OWQyOGNhNjlmNGQ0Njg5N2M0MDU4NGZlNjI4",
+  "snapshot_id": "MCwxZGFhYjJiZDQwMTQ3YTViYTIzODFkNzQ2Zjg0NDhhODFiNmZkZTU2",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "i should call my friends",
+        "url": "https://open.spotify.com/album/7qYCSuZ6kdIid6QrhuLAYe"
+      },
+      "artists": [
+        {
+          "name": "Hey Violet",
+          "url": "https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am"
+        }
+      ],
+      "duration_ms": 159981,
+      "name": "i should call my friends",
+      "url": "https://open.spotify.com/track/7u0JipKqt3pIxbvgjOqd4R"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "You're On Your Own, Kid",
         "url": "https://open.spotify.com/album/0xWds6GVsTmZUpyxZy3f3U"
       },
@@ -307,22 +323,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "i should call my friends",
-        "url": "https://open.spotify.com/album/7qYCSuZ6kdIid6QrhuLAYe"
-      },
-      "artists": [
-        {
-          "name": "Hey Violet",
-          "url": "https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am"
-        }
-      ],
-      "duration_ms": 159981,
-      "name": "i should call my friends",
-      "url": "https://open.spotify.com/track/7u0JipKqt3pIxbvgjOqd4R"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Powdered Sugar",
         "url": "https://open.spotify.com/album/5L2ATZe0pF0wlqqas1zSiC"
       },
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/6xX5k5pieb7GtDHdNv1lRv"
+        "name": "Spinning The Truth Around (Part II)",
+        "url": "https://open.spotify.com/album/5suVMUpLfzWyoM1LHe5fjV"
       },
       "artists": [
         {
-          "name": "MONOWHALES",
-          "url": "https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ"
+          "name": "Blue October",
+          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
         }
       ],
-      "duration_ms": 193049,
-      "name": "Backbone",
-      "url": "https://open.spotify.com/track/7cl08gllA42WPESPRGUlqQ"
+      "duration_ms": 281920,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/7f3ixCy5wuPxRJZVMMqmon"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/6xX5k5pieb7GtDHdNv1lRv"
+      },
+      "artists": [
+        {
+          "name": "MONOWHALES",
+          "url": "https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ"
+        }
+      ],
+      "duration_ms": 193049,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/7cl08gllA42WPESPRGUlqQ"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Half Nelson",
         "url": "https://open.spotify.com/album/4oCXc06Df2rCYru2NGYxYb"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 191410,
       "name": "Half Nelson",
       "url": "https://open.spotify.com/track/4DzKsnD6cZyI9Pc53cbBD6"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Spinning The Truth Around (Part II)",
-        "url": "https://open.spotify.com/album/5suVMUpLfzWyoM1LHe5fjV"
-      },
-      "artists": [
-        {
-          "name": "Blue October",
-          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/7f3ixCy5wuPxRJZVMMqmon"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Playing With Fire / ELF",
-        "url": "https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF"
-      },
-      "artists": [
-        {
-          "name": "Feeder",
-          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
-        }
-      ],
-      "duration_ms": 238847,
-      "name": "ELF",
-      "url": "https://open.spotify.com/track/1gQjg72dJ4hMDQkRHLNxgH"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Your Blood Awaits You",
         "url": "https://open.spotify.com/album/4wdhzesIo56No0S10XbWep"
       },
@@ -463,22 +447,6 @@
       "duration_ms": 202966,
       "name": "Your Blood Awaits You - Trigger Edit",
       "url": "https://open.spotify.com/track/1rRs77zgzZxjw5v55V10Vx"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/5nJOWWjpN8WTkAInFSDaO6"
-      },
-      "artists": [
-        {
-          "name": "The Moving Stills",
-          "url": "https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w"
-        }
-      ],
-      "duration_ms": 177176,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/6ZNlHegzWxt8Sm8meMRuu5"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -499,18 +467,34 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Uh Oh!",
-        "url": "https://open.spotify.com/album/7p6TOJB8A5aOdWKl5zcNJC"
+        "name": "Playing With Fire / ELF",
+        "url": "https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF"
       },
       "artists": [
         {
-          "name": "Another Sky",
-          "url": "https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr"
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
         }
       ],
-      "duration_ms": 121884,
-      "name": "Uh Oh!",
-      "url": "https://open.spotify.com/track/5hShE6SwGkefw3TP7J5AxB"
+      "duration_ms": 238847,
+      "name": "ELF",
+      "url": "https://open.spotify.com/track/1gQjg72dJ4hMDQkRHLNxgH"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/5nJOWWjpN8WTkAInFSDaO6"
+      },
+      "artists": [
+        {
+          "name": "The Moving Stills",
+          "url": "https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w"
+        }
+      ],
+      "duration_ms": 177176,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/6ZNlHegzWxt8Sm8meMRuu5"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -563,6 +547,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Uh Oh!",
+        "url": "https://open.spotify.com/album/7p6TOJB8A5aOdWKl5zcNJC"
+      },
+      "artists": [
+        {
+          "name": "Another Sky",
+          "url": "https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr"
+        }
+      ],
+      "duration_ms": 121884,
+      "name": "Uh Oh!",
+      "url": "https://open.spotify.com/track/5hShE6SwGkefw3TP7J5AxB"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "GEL pt.1",
         "url": "https://open.spotify.com/album/2c2xyAW5qfLi6EjtHH4jWm"
       },
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Accidental Doom",
-        "url": "https://open.spotify.com/album/3kZXb8vcfhNLKw58FyjbOr"
+        "name": "Super Bon Bon",
+        "url": "https://open.spotify.com/album/0tkRK3oBZDifplfC3HvqBx"
       },
       "artists": [
         {
-          "name": "Pit Pony",
-          "url": "https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j"
+          "name": "Sunfish",
+          "url": "https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J"
         }
       ],
-      "duration_ms": 253200,
-      "name": "Accidental Doom",
-      "url": "https://open.spotify.com/track/4RWRV4KKmBJevD1jSupSry"
+      "duration_ms": 235979,
+      "name": "Super Bon Bon",
+      "url": "https://open.spotify.com/track/4ALTgkMyedQIg1E9APkVdw"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Super Bon Bon",
-        "url": "https://open.spotify.com/album/0tkRK3oBZDifplfC3HvqBx"
-      },
-      "artists": [
-        {
-          "name": "Sunfish",
-          "url": "https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J"
-        }
-      ],
-      "duration_ms": 235979,
-      "name": "Super Bon Bon",
-      "url": "https://open.spotify.com/track/4ALTgkMyedQIg1E9APkVdw"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Now That's What I Call Mom Rock",
         "url": "https://open.spotify.com/album/6EuB2BYbjfybh0bQ1IGUAC"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 204000,
       "name": "Scumbag/Wetrag",
       "url": "https://open.spotify.com/track/4aN748ELJCyVQKZD2wsa6L"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Accidental Doom",
+        "url": "https://open.spotify.com/album/3kZXb8vcfhNLKw58FyjbOr"
+      },
+      "artists": [
+        {
+          "name": "Pit Pony",
+          "url": "https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j"
+        }
+      ],
+      "duration_ms": 253200,
+      "name": "Accidental Doom",
+      "url": "https://open.spotify.com/track/4RWRV4KKmBJevD1jSupSry"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "My Own Hell",
-        "url": "https://open.spotify.com/album/3MHaxJDs6Z9Z9iwVtZt8ip"
-      },
-      "artists": [
-        {
-          "name": "JULES IS DEAD",
-          "url": "https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM"
-        }
-      ],
-      "duration_ms": 205609,
-      "name": "My Own Hell",
-      "url": "https://open.spotify.com/track/3FiRWP4QJ1Di59fGDOYQAR"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Gelled Water",
         "url": "https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 226906,
       "name": "Gelled Water",
       "url": "https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "My Own Hell",
+        "url": "https://open.spotify.com/album/3MHaxJDs6Z9Z9iwVtZt8ip"
+      },
+      "artists": [
+        {
+          "name": "JULES IS DEAD",
+          "url": "https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM"
+        }
+      ],
+      "duration_ms": 205609,
+      "name": "My Own Hell",
+      "url": "https://open.spotify.com/track/3FiRWP4QJ1Di59fGDOYQAR"
     },
     {
       "added_at": "2023-10-13 04:01:00",

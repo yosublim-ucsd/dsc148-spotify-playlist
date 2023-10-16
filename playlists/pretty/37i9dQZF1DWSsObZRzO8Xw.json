@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: Elephant Gym",
-  "num_followers": 149792,
+  "num_followers": 149917,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWU4MmUwNGI3ZTllMDA1NDIxNjUyNzU4N2EyZTFjZWY5YjU3ZWIx",
+  "snapshot_id": "MCw1NzVlNzk3NGQ5NGY3MzA2NWZjZTU2MzM2YjQ3ZTI1ZjE0Njc5NjQ4",
   "tracks": [
     {
       "added_at": "2023-08-29 04:07:33",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Morbid Curiosity",
-        "url": "https://open.spotify.com/album/4JlMkyYC15UyfYmTRSIw71"
-      },
-      "artists": [
-        {
-          "name": "Thingy",
-          "url": "https://open.spotify.com/artist/2yW7ALxCYqJMTBFLxGbs3g"
-        }
-      ],
-      "duration_ms": 126789,
-      "name": "Not To Follow",
-      "url": "https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "Fontana Bella",
         "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 284413,
       "name": "Voces iluminadas por sonrientes",
       "url": "https://open.spotify.com/track/1O1fDYgOOTKbMV1eeRCPk8"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "Morbid Curiosity",
+        "url": "https://open.spotify.com/album/4JlMkyYC15UyfYmTRSIw71"
+      },
+      "artists": [
+        {
+          "name": "Thingy",
+          "url": "https://open.spotify.com/artist/2yW7ALxCYqJMTBFLxGbs3g"
+        }
+      ],
+      "duration_ms": 126789,
+      "name": "Not To Follow",
+      "url": "https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "The View From This Tower",
-        "url": "https://open.spotify.com/album/4fNXymFLxgp2wfBWunVaeN"
-      },
-      "artists": [
-        {
-          "name": "Faraquet",
-          "url": "https://open.spotify.com/artist/5OBJZtgvHxSJZYyQ8T9AoS"
-        }
-      ],
-      "duration_ms": 250693,
-      "name": "Sea Song",
-      "url": "https://open.spotify.com/track/6Ld0jTImMWx6C5l7i1MlZI"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "Naufragio",
         "url": "https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Valerio Benustelli",
-        "url": "https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc"
+        "name": "The View From This Tower",
+        "url": "https://open.spotify.com/album/4fNXymFLxgp2wfBWunVaeN"
       },
       "artists": [
         {
-          "name": "Jean Loup",
-          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
+          "name": "Faraquet",
+          "url": "https://open.spotify.com/artist/5OBJZtgvHxSJZYyQ8T9AoS"
         }
       ],
-      "duration_ms": 206007,
-      "name": "Valerio Benustelli",
-      "url": "https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil"
+      "duration_ms": 250693,
+      "name": "Sea Song",
+      "url": "https://open.spotify.com/track/6Ld0jTImMWx6C5l7i1MlZI"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -1139,6 +1123,22 @@
       "duration_ms": 208892,
       "name": "Beow",
       "url": "https://open.spotify.com/track/69pFXap7G2AGMUXV0Njtab"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "Valerio Benustelli",
+        "url": "https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc"
+      },
+      "artists": [
+        {
+          "name": "Jean Loup",
+          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
+        }
+      ],
+      "duration_ms": 206007,
+      "name": "Valerio Benustelli",
+      "url": "https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil"
     },
     {
       "added_at": "2023-08-29 04:07:33",

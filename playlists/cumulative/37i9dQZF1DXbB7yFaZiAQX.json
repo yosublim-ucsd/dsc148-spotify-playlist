@@ -6280,7 +6280,7 @@
       ],
       "date_added": "2019-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 261687,
       "name": "Tears Run Rings",
       "url": "https://open.spotify.com/track/7jEQ43V8AA7UQ6NcG4x1ki"
@@ -7130,6 +7130,24 @@
       "duration_ms": 296160,
       "name": "Vienna - 2008 Remaster",
       "url": "https://open.spotify.com/track/0842N1NhR1Q1XS6XyyQ3Nl"
+    },
+    {
+      "album": {
+        "name": "Vienna (Remastered Definitive Edition)",
+        "url": "https://open.spotify.com/album/57UuXCYkx1wZW7gfl8hvjB"
+      },
+      "artists": [
+        {
+          "name": "Ultravox",
+          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296160,
+      "name": "Vienna - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7ioy6ppmN9Rn8Pm5axNzUP"
     },
     {
       "album": {

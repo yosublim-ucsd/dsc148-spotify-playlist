@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-249 songs - 13 hr 28 min
+250 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [All Rise](https://open.spotify.com/track/7jley98gCQFueQ5MCaFWIb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [All Rise](https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg) | 3:43 | 2023-02-13 |  |
 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All She Wanna Do](https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M) | 3:15 | 2022-08-08 | 2022-08-16 |
 | [All That](https://open.spotify.com/track/4gtOXb4PIqd2ojM8JLSmKX) | [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [All That](https://open.spotify.com/album/5dGFEC14f3mNCNZNnYLClk) | 3:18 | 2022-06-06 | 2022-07-28 |
-| [Always By My Side](https://open.spotify.com/track/3vQe560Jawf6WeHNG3x6XB) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [Wake Up, It's Morning](https://open.spotify.com/album/2jDVVWdGzt3sKd7HSemXzb) | 3:19 | 2023-10-09 |  |
+| [Always By My Side](https://open.spotify.com/track/3vQe560Jawf6WeHNG3x6XB) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [Wake Up, It's Morning](https://open.spotify.com/album/2jDVVWdGzt3sKd7HSemXzb) | 3:19 | 2023-10-09 | 2023-10-16 |
 | [Attention](https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:28 | 2022-07-25 |  |
 | [Bad Boy](https://open.spotify.com/track/1WCOna34eEMPgjfOOZkGQc) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Bad Boy](https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q) | 3:02 | 2022-06-06 | 2022-07-29 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-08 |  |
@@ -110,6 +110,7 @@
 | [In The Clouds](https://open.spotify.com/track/6Kg8KoSEacO0Y21pL0ZcDj) | [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd) | [The Great Regression](https://open.spotify.com/album/2QgFxiPrjg4KSh0NkicjEG) | 2:55 | 2023-09-25 | 2023-10-03 |
 | [is it cool?](https://open.spotify.com/track/6NmMyDDd74hWU8UlmxF47d) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [is it cool?](https://open.spotify.com/album/7x2IK86XxyIi1hw5lJqGbY) | 2:09 | 2022-06-06 | 2022-07-28 |
 | [Is This A Game](https://open.spotify.com/track/4spfk3QA3CL2RfWXVYgDRn) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1), [evanturetime](https://open.spotify.com/artist/07h1mcCInWa0LF0ZMzVQfa) | [Is This A Game](https://open.spotify.com/album/1G7X6Dmj2fTsa7UaJGckWd) | 3:08 | 2022-06-06 | 2022-07-27 |
+| [It Takes Two](https://open.spotify.com/track/21vLEEtCTBS6fxw1TuPJAy) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Eric Andre](https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [It Takes Two \(feat\. Eric Andre, Daveed Diggs, Kid Cudi & Trolls\)](https://open.spotify.com/album/7oGTxPAGX6htcQblSqWo0r) | 3:39 | 2023-10-16 |  |
 | [It Takes Two](https://open.spotify.com/track/5V7qLbZJNTwaEVbZADqofc) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [It Takes Two](https://open.spotify.com/album/3bTLu0LF1pBSZsZUDohta0) | 2:39 | 2022-11-07 | 2023-03-28 |
 | [It Takes Two](https://open.spotify.com/track/7lR4o63cpYr8zY3nBEPead) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [It Takes Two](https://open.spotify.com/album/314mIakb1sF5Lfl23kmibT) | 2:39 | 2022-06-06 | 2022-07-29 |
 | [IT’S COMPLICATED!](https://open.spotify.com/track/3hpvMehmJJTsEKfld0hi8X) | [Timmy Albert](https://open.spotify.com/artist/4acGozsQZscrP4YKMg2Xwn) | [IT’S COMPLICATED!](https://open.spotify.com/album/7r6vYoLLh9Ix4X6MjZQzyU) | 2:59 | 2023-06-05 | 2023-06-20 |

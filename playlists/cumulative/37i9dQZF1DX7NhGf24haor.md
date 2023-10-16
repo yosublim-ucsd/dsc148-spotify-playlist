@@ -4,7 +4,7 @@
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Hard Driver
 
-605 songs - 1 day 9 hr 16 min
+606 songs - 1 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Beg For You](https://open.spotify.com/track/1yVvD5Cx7CIY61DbS6SBma) | [JOKA](https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA) | [Beg For You](https://open.spotify.com/album/2D28gqCRaVqTsVHiMPQ6Ro) | 2:40 | 2023-05-18 | 2023-08-17 |
 | [Believer](https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Believer](https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv) | 3:33 | 2022-12-08 | 2023-02-10 |
 | [Belong](https://open.spotify.com/track/323d3O5e15GaC8so3eN1wo) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [It's All About The Music EP PT.1](https://open.spotify.com/album/3ncyZrQal4KAcIsModGp4s) | 3:40 | 2022-12-08 | 2022-12-16 |
+| [Berliner Luft](https://open.spotify.com/track/64lgs61f7TyLK6SynOZXjk) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Berliner Luft](https://open.spotify.com/album/1xFckVvFnZHPFKzfAD8C9y) | 2:46 | 2023-10-15 |  |
 | [Better](https://open.spotify.com/track/0tD9D9fWYvELiWwmQSFlRy) | [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Better](https://open.spotify.com/album/6RRHmdUHYC0dL6Z15WbXgg) | 3:29 | 2023-10-12 |  |
 | [Better As Friends \- Serzo & Zombic Remix / Open Beatz Anthem 2023](https://open.spotify.com/track/5J2r10Tdr53qJxyffBNSOQ) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [HOURS](https://open.spotify.com/artist/3mSK6i2fFglCG4ZspL0GnQ), [Gigo'n'Migo](https://open.spotify.com/artist/2JHMPs8tw6MXokIWec65LG), [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [Better As Friends \(Serzo & Zombic Remix / Open Beatz Anthem 2023\)](https://open.spotify.com/album/1kjlPT8ZivrbNKhKu2N5kQ) | 2:43 | 2023-08-17 | 2023-09-16 |
 | [Better Days](https://open.spotify.com/track/1SUnipJp9KrH96akpJJy39) | [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS) | [Better Days](https://open.spotify.com/album/4Bm0Ks7xotQtRymSCHM8SO) | 3:32 | 2023-06-18 | 2023-06-26 |

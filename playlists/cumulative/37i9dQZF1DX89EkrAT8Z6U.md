@@ -4,11 +4,11 @@
 
 > A mixtape for the perfect anime fight scene.
 
-284 songs - 12 hr 8 min
+285 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2077](https://open.spotify.com/track/6kRxT8sggyNJ6mYoSKTwCh) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [2077](https://open.spotify.com/album/4MWsQHhgiMXbH3KkffTd7i) | 2:15 | 2023-04-25 |  |
+| [2077](https://open.spotify.com/track/6kRxT8sggyNJ6mYoSKTwCh) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [2077](https://open.spotify.com/album/4MWsQHhgiMXbH3KkffTd7i) | 2:15 | 2023-04-25 | 2023-10-16 |
 | [2K FREESTYLE](https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF) | [Lazy3x](https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [2K FREESTYLE](https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm) | 3:33 | 2022-05-25 |  |
 | [5unna](https://open.spotify.com/track/2M1LHRfp0vsJKjKfKxOUx3) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [R5 Homixide](https://open.spotify.com/artist/0dhgemnyYGddxaOFhqJ2Kw) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:40 | 2023-09-15 | 2023-09-27 |
 | [7AM](https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV) | [Adrian](https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA) | [7AM](https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1) | 2:25 | 2023-09-29 | 2023-10-14 |
@@ -36,6 +36,7 @@
 | [Baby My Phone](https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [Baby My Phone](https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq) | 3:35 | 2022-05-25 | 2023-06-12 |
 | [Baby Steps](https://open.spotify.com/track/4sdG4lCBIhZIZnaVDORgNe) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [Wasteland.](https://open.spotify.com/album/7jccxpvCNHBlEUiUQ45sRi) | 2:04 | 2023-09-15 | 2023-09-27 |
 | [Bad Man](https://open.spotify.com/track/2IurP1tbU3cozJx5U849zp) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Glokk Files](https://open.spotify.com/album/4AWrZMeLeNpWJoOYTQXRUC) | 2:49 | 2023-09-15 | 2023-09-27 |
+| [BAIXO](https://open.spotify.com/track/3f1Jurx7wpabtVoxpLrtCE) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [BAIXO](https://open.spotify.com/album/4FZ9dWvoOMpOMzh914Jmhc) | 1:44 | 2023-09-29 |  |
 | [Bane](https://open.spotify.com/track/2TKwo7J4oyyiYZvck7ky3R) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Bane](https://open.spotify.com/album/1DIa6H1AjmAg9SMrByTbiI) | 2:20 | 2023-09-15 | 2023-09-27 |
 | [Bars No Jutsu](https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae) | [Louis Capone](https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu) | [Bars No Jutsu](https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT) | 2:28 | 2022-05-25 | 2023-09-30 |
 | [Berserk \(Guts\)](https://open.spotify.com/track/02TkW3n36h68GDwOnGPvYV) | [Daddyphatsnaps](https://open.spotify.com/artist/6xini6REf0CP8muuVvDa91) | [Berserk \(Guts\)](https://open.spotify.com/album/41Cw2k5xNcQ2j0Ho9GTdUI) | 3:34 | 2022-05-25 | 2022-07-29 |

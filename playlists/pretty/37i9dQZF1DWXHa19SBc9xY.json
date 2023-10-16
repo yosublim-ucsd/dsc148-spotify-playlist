@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 79023,
+  "num_followers": 79116,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDQ2ODIxNDJiMzFlNWNmOGZmYzE1ZmYyOWMzMDJiMzk2NGJhOWJi",
+  "snapshot_id": "MCxkMDFmNmNlYWVkNzY0ZGRiNzAzNzExNThkMTczNTAxODY3MDFiZjE0",
   "tracks": [
     {
       "added_at": "2023-10-06 06:50:30",
@@ -559,22 +559,22 @@
     {
       "added_at": "2023-10-06 06:50:30",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH"
+        "name": "Banho de Mar",
+        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
       },
       "artists": [
         {
-          "name": "Becca Perret",
-          "url": "https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior"
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
         },
         {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+          "name": "Re.Significa",
+          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
         }
       ],
-      "duration_ms": 188210,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09"
+      "duration_ms": 169531,
+      "name": "Banho de Mar",
+      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
     },
     {
       "added_at": "2023-10-06 06:50:30",
@@ -599,22 +599,22 @@
     {
       "added_at": "2023-10-06 06:50:30",
       "album": {
-        "name": "Banho de Mar",
-        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH"
       },
       "artists": [
         {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+          "name": "Becca Perret",
+          "url": "https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior"
         },
         {
-          "name": "Re.Significa",
-          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
         }
       ],
-      "duration_ms": 169531,
-      "name": "Banho de Mar",
-      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
+      "duration_ms": 188210,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09"
     },
     {
       "added_at": "2023-10-06 06:50:30",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-10-06 06:50:30",
       "album": {
-        "name": "No Mundo",
-        "url": "https://open.spotify.com/album/5xS2IPAnkQcq540z7HJh5N"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        },
-        {
-          "name": "Lucas Mayer",
-          "url": "https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw"
-        }
-      ],
-      "duration_ms": 188995,
-      "name": "No Mundo",
-      "url": "https://open.spotify.com/track/2mEALl4EcbiqffyP7fkNTH"
-    },
-    {
-      "added_at": "2023-10-06 06:50:30",
-      "album": {
         "name": "Sem Filtro (Ao Vivo em Noronha)",
         "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 184914,
       "name": "Louca - Ao Vivo",
       "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
+    },
+    {
+      "added_at": "2023-10-06 06:50:30",
+      "album": {
+        "name": "No Mundo",
+        "url": "https://open.spotify.com/album/5xS2IPAnkQcq540z7HJh5N"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        },
+        {
+          "name": "Lucas Mayer",
+          "url": "https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw"
+        }
+      ],
+      "duration_ms": 188995,
+      "name": "No Mundo",
+      "url": "https://open.spotify.com/track/2mEALl4EcbiqffyP7fkNTH"
     },
     {
       "added_at": "2023-10-06 06:50:30",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2023-10-06 06:50:30",
       "album": {
-        "name": "Rara",
-        "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
-      },
-      "artists": [
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Santino",
-          "url": "https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa"
-        }
-      ],
-      "duration_ms": 197883,
-      "name": "Rara",
-      "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
-    },
-    {
-      "added_at": "2023-10-06 06:50:30",
-      "album": {
         "name": "Larga Esse Boy (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4rGIalgoIm5aZSn1LvSW0l"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 215808,
       "name": "Larga Esse Boy - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5O28we3dgZfwtcIjU41SWY"
+    },
+    {
+      "added_at": "2023-10-06 06:50:30",
+      "album": {
+        "name": "Rara",
+        "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Santino",
+          "url": "https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa"
+        }
+      ],
+      "duration_ms": 197883,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
     },
     {
       "added_at": "2023-10-06 06:50:30",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2023-10-06 06:50:30",
       "album": {
-        "name": "Rainha da Minha Bateria",
-        "url": "https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu"
-      },
-      "artists": [
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Juliano Moreira",
-          "url": "https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL"
-        }
-      ],
-      "duration_ms": 243850,
-      "name": "Rainha da Minha Bateria",
-      "url": "https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7"
-    },
-    {
-      "added_at": "2023-10-06 06:50:30",
-      "album": {
         "name": "Com Certeza",
         "url": "https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 212750,
       "name": "Com Certeza",
       "url": "https://open.spotify.com/track/1HaLubyTPui15s30qxr6eI"
+    },
+    {
+      "added_at": "2023-10-06 06:50:30",
+      "album": {
+        "name": "Rainha da Minha Bateria",
+        "url": "https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Juliano Moreira",
+          "url": "https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL"
+        }
+      ],
+      "duration_ms": 243850,
+      "name": "Rainha da Minha Bateria",
+      "url": "https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7"
     },
     {
       "added_at": "2023-10-06 06:50:30",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-10-06 06:50:30",
       "album": {
+        "name": "Sou Daqui",
+        "url": "https://open.spotify.com/album/6dlqVfrdENu9wZsrj38w0O"
+      },
+      "artists": [
+        {
+          "name": "Lucas Felix",
+          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Sou Daqui",
+      "url": "https://open.spotify.com/track/3eUTsCeVdnA68g6PJ9kXQd"
+    },
+    {
+      "added_at": "2023-10-06 06:50:30",
+      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 233320,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP"
-    },
-    {
-      "added_at": "2023-10-06 06:50:30",
-      "album": {
-        "name": "Sou Daqui",
-        "url": "https://open.spotify.com/album/6dlqVfrdENu9wZsrj38w0O"
-      },
-      "artists": [
-        {
-          "name": "Lucas Felix",
-          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Sou Daqui",
-      "url": "https://open.spotify.com/track/3eUTsCeVdnA68g6PJ9kXQd"
     },
     {
       "added_at": "2023-10-06 06:50:30",

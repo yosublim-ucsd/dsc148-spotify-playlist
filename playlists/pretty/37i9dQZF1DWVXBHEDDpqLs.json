@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 30178,
+  "num_followers": 30187,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmRmYzU5Mzg0NDk3MTI0MDE0YWMyZDc0YTkyODIyZDRiNTJlN2Y0",
+  "snapshot_id": "MCw4MDllODNkYTYzYTM1ZjJiMWViNmE4OTk2Y2M5OWFlNTUwODM0Zjkz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -655,18 +655,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Lei do Baile",
-        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
+        "name": "Pree Me (Chris Lorenzo Remix)",
+        "url": "https://open.spotify.com/album/3kEURw2yWBiWtOfIWvKQYJ"
       },
       "artists": [
         {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+          "name": "Roska",
+          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
+        },
+        {
+          "name": "\u306a\u304b\u3080\u3089\u307f\u306a\u307f",
+          "url": "https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
         }
       ],
-      "duration_ms": 212015,
-      "name": "Lei do Baile",
-      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
+      "duration_ms": 280620,
+      "name": "Pree Me (Chris Lorenzo Remix)",
+      "url": "https://open.spotify.com/track/6X6LIhmk6XVblq7meVQ4Kn"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -691,26 +699,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Pree Me (Chris Lorenzo Remix)",
-        "url": "https://open.spotify.com/album/3kEURw2yWBiWtOfIWvKQYJ"
+        "name": "Lei do Baile",
+        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
       },
       "artists": [
         {
-          "name": "Roska",
-          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
-        },
-        {
-          "name": "\u306a\u304b\u3080\u3089\u307f\u306a\u307f",
-          "url": "https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq"
-        },
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
         }
       ],
-      "duration_ms": 280620,
-      "name": "Pree Me (Chris Lorenzo Remix)",
-      "url": "https://open.spotify.com/track/6X6LIhmk6XVblq7meVQ4Kn"
+      "duration_ms": 212015,
+      "name": "Lei do Baile",
+      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "HARIK\u0112N",
-        "url": "https://open.spotify.com/album/1b7O6M1X2z1ZGv3KbwKw2e"
-      },
-      "artists": [
-        {
-          "name": "shnd\u014d",
-          "url": "https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH"
-        }
-      ],
-      "duration_ms": 160140,
-      "name": "HARIK\u0112N",
-      "url": "https://open.spotify.com/track/3rC44MszjGBcK7gYRHWFDh"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Arriba",
         "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 139701,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "HARIK\u0112N",
+        "url": "https://open.spotify.com/album/1b7O6M1X2z1ZGv3KbwKw2e"
+      },
+      "artists": [
+        {
+          "name": "shnd\u014d",
+          "url": "https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH"
+        }
+      ],
+      "duration_ms": 160140,
+      "name": "HARIK\u0112N",
+      "url": "https://open.spotify.com/track/3rC44MszjGBcK7gYRHWFDh"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1023,30 +1023,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Snack Time",
-        "url": "https://open.spotify.com/album/3Z4pnbIrUyyOCDcQuHtzLG"
-      },
-      "artists": [
-        {
-          "name": "Byrell The Great",
-          "url": "https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO"
-        },
-        {
-          "name": "Princess Precious",
-          "url": "https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5"
-        },
-        {
-          "name": "Warren B",
-          "url": "https://open.spotify.com/artist/5ueGiF7STUbSpatHOgv2Rq"
-        }
-      ],
-      "duration_ms": 192694,
-      "name": "Da Function",
-      "url": "https://open.spotify.com/track/6r9QXipO2r5JbGQvFH0NU0"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Give It 2 Em (Remix)",
         "url": "https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK"
       },
@@ -1071,6 +1047,30 @@
       "duration_ms": 120333,
       "name": "Give It 2 Em - Remix",
       "url": "https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Snack Time",
+        "url": "https://open.spotify.com/album/3Z4pnbIrUyyOCDcQuHtzLG"
+      },
+      "artists": [
+        {
+          "name": "Byrell The Great",
+          "url": "https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO"
+        },
+        {
+          "name": "Princess Precious",
+          "url": "https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5"
+        },
+        {
+          "name": "Warren B",
+          "url": "https://open.spotify.com/artist/5ueGiF7STUbSpatHOgv2Rq"
+        }
+      ],
+      "duration_ms": 192694,
+      "name": "Da Function",
+      "url": "https://open.spotify.com/track/6r9QXipO2r5JbGQvFH0NU0"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Nzinga",
+        "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
+      },
+      "artists": [
+        {
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        },
+        {
+          "name": "Toya Delazy",
+          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
+        }
+      ],
+      "duration_ms": 157870,
+      "name": "Nzinga",
+      "url": "https://open.spotify.com/track/1RzyaDFK6Rz9iufIZISW5n"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Dark City Beneath The Beat (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3uzH6PmVioHRyKmBcJFELQ"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 162919,
       "name": "Roll Call (feat. TT The Artist & Mighty Mark)",
       "url": "https://open.spotify.com/track/0CqO3pjpupPRniIQIqfDDC"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Nzinga",
-        "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
-      },
-      "artists": [
-        {
-          "name": "Karen Nyame KG",
-          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
-        },
-        {
-          "name": "Toya Delazy",
-          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
-        }
-      ],
-      "duration_ms": 157870,
-      "name": "Nzinga",
-      "url": "https://open.spotify.com/track/1RzyaDFK6Rz9iufIZISW5n"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Pepper Dem",
+        "url": "https://open.spotify.com/album/1gsMY3akSiEcBidWJm4tVi"
+      },
+      "artists": [
+        {
+          "name": "Magugu",
+          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Pepper Dem",
+      "url": "https://open.spotify.com/track/1KiXz5SBg7cAdzWSCwc90h"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Impossible (Roska Remix)",
         "url": "https://open.spotify.com/album/11yIOT6Gaqn2T4c1Lusgi4"
       },
@@ -1623,38 +1639,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Pepper Dem",
-        "url": "https://open.spotify.com/album/1gsMY3akSiEcBidWJm4tVi"
-      },
-      "artists": [
-        {
-          "name": "Magugu",
-          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Pepper Dem",
-      "url": "https://open.spotify.com/track/1KiXz5SBg7cAdzWSCwc90h"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
-        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
-      },
-      "artists": [
-        {
-          "name": "Traxman",
-          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
-        }
-      ],
-      "duration_ms": 290813,
-      "name": "Get Down Lil Bit - Street Bangers Factory 16",
-      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Blessed More Blessed (Dance Remixes)",
         "url": "https://open.spotify.com/album/1hGXMvwkZUCtD74eVowCMk"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 170981,
       "name": "Blessed - DJ Sliink Remix",
       "url": "https://open.spotify.com/track/0K7U3HXP57djVDMYEha4m4"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
+        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
+      },
+      "artists": [
+        {
+          "name": "Traxman",
+          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
+        }
+      ],
+      "duration_ms": 290813,
+      "name": "Get Down Lil Bit - Street Bangers Factory 16",
+      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Baukey Beats, Vol.1",
+        "url": "https://open.spotify.com/album/4Vf7cWF42OHvF3Y1FMIBq4"
+      },
+      "artists": [
+        {
+          "name": "Ben Hauke",
+          "url": "https://open.spotify.com/artist/1aBDI4nH6OfAkNyUX08O2V"
+        }
+      ],
+      "duration_ms": 556363,
+      "name": "Dep First Draft - Extended Mix",
+      "url": "https://open.spotify.com/track/2fLFMlD56yMvkbo3cV4EfX"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Period",
         "url": "https://open.spotify.com/album/0X2Avh0JE6Fv6UsHLVtXA0"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 113493,
       "name": "Period",
       "url": "https://open.spotify.com/track/0QgY9Q8KMFgL8Z9BACWdsR"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Baukey Beats, Vol.1",
-        "url": "https://open.spotify.com/album/4Vf7cWF42OHvF3Y1FMIBq4"
-      },
-      "artists": [
-        {
-          "name": "Ben Hauke",
-          "url": "https://open.spotify.com/artist/1aBDI4nH6OfAkNyUX08O2V"
-        }
-      ],
-      "duration_ms": 556363,
-      "name": "Dep First Draft - Extended Mix",
-      "url": "https://open.spotify.com/track/2fLFMlD56yMvkbo3cV4EfX"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1919,6 +1919,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/7giCBxYXyImrT0kjO9AI9u"
+      },
+      "artists": [
+        {
+          "name": "Patrick",
+          "url": "https://open.spotify.com/artist/5AsSAnDll3y5sw1XCAOFQv"
+        },
+        {
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/7Ccqeybj3TfDrc99XSmGk6"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "De Todo Se Aprende (Remix)",
         "url": "https://open.spotify.com/album/2vOPkeXVZOiIXhr0HG7ceQ"
       },
@@ -1955,26 +1975,6 @@
       "duration_ms": 150929,
       "name": "Eyes On Me - Solardo Remix",
       "url": "https://open.spotify.com/track/6h39dC39snLZDESOv5MV5U"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/7giCBxYXyImrT0kjO9AI9u"
-      },
-      "artists": [
-        {
-          "name": "Patrick",
-          "url": "https://open.spotify.com/artist/5AsSAnDll3y5sw1XCAOFQv"
-        },
-        {
-          "name": "Nailah Blackman",
-          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/7Ccqeybj3TfDrc99XSmGk6"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2023,8 +2023,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "sunscreen",
-        "url": "https://open.spotify.com/album/5vTvEDpakO9KL0CGnRArew"
+        "name": "DELETE",
+        "url": "https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6"
       },
       "artists": [
         {
@@ -2032,9 +2032,9 @@
           "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
         }
       ],
-      "duration_ms": 247236,
-      "name": "sunscreen",
-      "url": "https://open.spotify.com/track/3UyVoeuY8Pr4ixF2jr3a48"
+      "duration_ms": 376888,
+      "name": "DELETE",
+      "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
     }
   ],
   "unique_name": "Global Club Music",

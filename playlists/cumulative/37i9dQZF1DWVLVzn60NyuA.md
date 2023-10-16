@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-434 songs - 22 hr 57 min
+435 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Hecha Pa' Mi](https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:06 | 2022-03-25 | 2023-03-25 |
 | [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 | 2021-12-16 | 2022-10-05 |
 | [Hello](https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm) | 3:18 | 2022-09-29 | 2022-12-15 |
+| [Hero](https://open.spotify.com/track/4RtUyJA9AXqBHG0QeqJfkl) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Hero](https://open.spotify.com/album/7fxSDn1vvLJc7dd7ZMgtVM) | 3:26 | 2023-10-15 |  |
 | [Hola Señorita](https://open.spotify.com/track/5vLEmh5EolySKTvXsyWSOg) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Ceinture noire \(Transcendance\)](https://open.spotify.com/album/4fGQ0Wluw5Bt8oN2UPqmFv) | 3:26 | 2022-03-25 | 2022-04-21 |
 | [Hold You \- Hold Yuh](https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Hold You](https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe) | 3:53 | 2021-12-16 |  |
 | [Hot Topicz](https://open.spotify.com/track/2pyLZLboSKOLKII3uacUsP) | [Shockman](https://open.spotify.com/artist/1yqwpsovt61So9S0YfoEss), [Limitless](https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz) | [Hot Topicz](https://open.spotify.com/album/2y9waElWWqJwciMg8gKMkF) | 2:29 | 2021-12-16 | 2022-07-25 |
@@ -315,7 +316,7 @@
 | [Punkie](https://open.spotify.com/track/71ITWhU3xw2c02acdPmxJE) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:47 | 2022-03-25 | 2022-04-21 |
 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr) | 3:10 | 2023-06-22 |  |
 | [Ram Pam](https://open.spotify.com/track/4bro6XcuTPaPM61tCCdto8) | [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Young F](https://open.spotify.com/artist/298Xp5GBq3SNngVmoSPQJM) | [Ram Pam](https://open.spotify.com/album/2XJXTSgrnZtTK8MoAuY05D) | 2:21 | 2021-12-16 | 2023-07-08 |
-| [Ravin'](https://open.spotify.com/track/0AT08pe7CNV34sDKmTyh5b) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Ravin'](https://open.spotify.com/album/1iB6cyFWWKUTC5c8Fb54kQ) | 3:18 | 2021-12-16 |  |
+| [Ravin'](https://open.spotify.com/track/0AT08pe7CNV34sDKmTyh5b) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Ravin'](https://open.spotify.com/album/1iB6cyFWWKUTC5c8Fb54kQ) | 3:18 | 2021-12-16 | 2023-10-16 |
 | [Real Life \(feat\. Stormzy\)](https://open.spotify.com/track/3qvZW1bLvAsJIUhYcuvf4F) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:17 | 2021-12-16 | 2022-07-29 |
 | [Real Man](https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Real Man](https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w) | 2:55 | 2022-02-10 |  |
 | [Rebound Chick](https://open.spotify.com/track/0mOrDo4IHjjKV0CSrtkFdw) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [She Loves Zouk, Vol\. 3](https://open.spotify.com/album/2z3QVNeXnWcQoqLxqQcOKb) | 4:37 | 2022-03-25 | 2022-04-21 |

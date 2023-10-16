@@ -2599,6 +2599,24 @@
     },
     {
       "album": {
+        "name": "ANGST>LIEBE",
+        "url": "https://open.spotify.com/album/6MXxm5A1n2rI3n0sGBrnF3"
+      },
+      "artists": [
+        {
+          "name": "Ellice",
+          "url": "https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl"
+        }
+      ],
+      "date_added": "2023-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179384,
+      "name": "ANGST>LIEBE",
+      "url": "https://open.spotify.com/track/6KiPf8zHwaBK7VMHZZ1ReL"
+    },
+    {
+      "album": {
         "name": "ANNA",
         "url": "https://open.spotify.com/album/2QG8jbLMq7vHYyiS2OCCeY"
       },
@@ -4136,7 +4154,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 136483,
       "name": "BANA G\u00d6NDER!",
       "url": "https://open.spotify.com/track/4L34uXdYfwRA7zTFFfajFI"
@@ -6340,7 +6358,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 170579,
       "name": "Breaking your heart",
       "url": "https://open.spotify.com/track/6fsbuVwtZHq8bCfUOfmkNL"
@@ -11154,7 +11172,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 119120,
       "name": "ecstacy (slowed)",
       "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
@@ -12660,7 +12678,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 145714,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/69meqvAcXTln8Ji6kgNton"
@@ -14054,7 +14072,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -24742,7 +24760,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 184826,
       "name": "Meine 1",
       "url": "https://open.spotify.com/track/6QZ7IptsMdWodN4uFuXNkv"
@@ -33460,7 +33478,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 173253,
       "name": "SAY MY GRACE (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"

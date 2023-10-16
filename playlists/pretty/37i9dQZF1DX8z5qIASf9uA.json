@@ -1,12 +1,12 @@
 {
   "description": "Honramos la memoria de las leyendas de nuestra M\u00fasica Mexicana. Ariel Camacho en portada. ",
-  "num_followers": 255086,
+  "num_followers": 255326,
   "original_name": "Inmortales de la M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTA2NTQ0YjgwZTVhYTMzMGVmZWI0MDEyMWU3YmZmNzUzN2YwNmFi",
+  "snapshot_id": "MCwyOTk2ZjY5NTczZWUzZmVhNTUxNWIzYmMzMzE1NzkzNGIxNTlhNDJk",
   "tracks": [
     {
       "added_at": "2023-07-11 21:38:55",
@@ -361,7 +361,7 @@
         }
       ],
       "duration_ms": 222760,
-      "name": "D\u00e9jame Vivir",
+      "name": "D\u00e9jame Vivir (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP"
     },
     {
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-07-11 21:38:55",
       "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
-        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
       },
       "artists": [
         {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 226324,
-      "name": "Fallaste Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
+      "duration_ms": 222866,
+      "name": "Millonario De Amor",
+      "url": "https://open.spotify.com/track/7LCymER3kimMSSMBnuyEub"
     },
     {
       "added_at": "2023-07-11 21:38:55",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-07-11 21:38:55",
       "album": {
-        "name": "Millonario De Amor",
-        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
+        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
       },
       "artists": [
         {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 222866,
-      "name": "Millonario De Amor",
-      "url": "https://open.spotify.com/track/7LCymER3kimMSSMBnuyEub"
+      "duration_ms": 226324,
+      "name": "Fallaste Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
     },
     {
       "added_at": "2023-07-11 21:38:55",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-07-11 21:38:55",
       "album": {
-        "name": "Cuando El Sol Salga Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "Cuando el Sol Salga Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj"
-    },
-    {
-      "added_at": "2023-07-11 21:38:55",
-      "album": {
         "name": "Conquistando Corazones",
         "url": "https://open.spotify.com/album/2sVo3Q8BIKVwRtgplt6YYP"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 224653,
       "name": "Y Aqu\u00ed Estoy",
       "url": "https://open.spotify.com/track/2fKimbKY2cu68b63kYODbB"
+    },
+    {
+      "added_at": "2023-07-11 21:38:55",
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 187760,
+      "name": "Cuando el Sol Salga Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj"
     },
     {
       "added_at": "2023-07-11 21:38:55",
@@ -1067,42 +1067,6 @@
     {
       "added_at": "2023-07-11 21:38:55",
       "album": {
-        "name": "Amor Y L\u00e1grimas",
-        "url": "https://open.spotify.com/album/5AINE3154WldReklifyueS"
-      },
-      "artists": [
-        {
-          "name": "Adan Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
-        }
-      ],
-      "duration_ms": 196487,
-      "name": "Nadie Es Eterno",
-      "url": "https://open.spotify.com/track/4nmYEaw0oVz3QKxUlrmFkh"
-    },
-    {
-      "added_at": "2023-07-11 21:38:55",
-      "album": {
-        "name": "Borracho de Primera",
-        "url": "https://open.spotify.com/album/1cjt1zBdNmoD4qi3s2meCy"
-      },
-      "artists": [
-        {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
-        },
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 231862,
-      "name": "Que Me Entierren Cantando",
-      "url": "https://open.spotify.com/track/5GaIwab0GIWICCSVzldmUY"
-    },
-    {
-      "added_at": "2023-07-11 21:38:55",
-      "album": {
         "name": "M\u00e1s Capaces Que Nunca",
         "url": "https://open.spotify.com/album/3nfwzm26fjNgYKHHUBcdAM"
       },
@@ -1115,6 +1079,22 @@
       "duration_ms": 182480,
       "name": "Mi Credo",
       "url": "https://open.spotify.com/track/6bAlfC82cMGBV42KaROje8"
+    },
+    {
+      "added_at": "2023-07-11 21:38:55",
+      "album": {
+        "name": "Amor Y L\u00e1grimas",
+        "url": "https://open.spotify.com/album/5AINE3154WldReklifyueS"
+      },
+      "artists": [
+        {
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+        }
+      ],
+      "duration_ms": 196487,
+      "name": "Nadie Es Eterno",
+      "url": "https://open.spotify.com/track/4nmYEaw0oVz3QKxUlrmFkh"
     },
     {
       "added_at": "2023-07-11 21:38:55",
@@ -1151,6 +1131,26 @@
       "duration_ms": 179211,
       "name": "Los Chismes",
       "url": "https://open.spotify.com/track/2PP65VcRvkiNZUq7Wd0yP8"
+    },
+    {
+      "added_at": "2023-07-11 21:38:55",
+      "album": {
+        "name": "Borracho de Primera",
+        "url": "https://open.spotify.com/album/1cjt1zBdNmoD4qi3s2meCy"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 231862,
+      "name": "Que Me Entierren Cantando",
+      "url": "https://open.spotify.com/track/5GaIwab0GIWICCSVzldmUY"
     },
     {
       "added_at": "2023-07-11 21:38:55",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-07-11 21:38:55",
       "album": {
-        "name": "Los Boleros Morunos Solis",
-        "url": "https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq"
+        "name": "Los S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/1zew7ZgJGk5PElzwUAsTgG"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
         }
       ],
-      "duration_ms": 167280,
-      "name": "Cuatro Cirios",
-      "url": "https://open.spotify.com/track/27fFEQ1xSjRaSPJ4JUPDg7"
+      "duration_ms": 204733,
+      "name": "Volver\u00e9 (Tornero)",
+      "url": "https://open.spotify.com/track/3OpUzRY4MNYo3RtmNIhb8s"
     },
     {
       "added_at": "2023-07-11 21:38:55",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-07-11 21:38:55",
       "album": {
-        "name": "Los S\u00faper \u00c9xitos",
-        "url": "https://open.spotify.com/album/1zew7ZgJGk5PElzwUAsTgG"
+        "name": "Los Boleros Morunos Solis",
+        "url": "https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq"
       },
       "artists": [
         {
-          "name": "K-Paz De La Sierra",
-          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 204733,
-      "name": "Volver\u00e9 (Tornero)",
-      "url": "https://open.spotify.com/track/3OpUzRY4MNYo3RtmNIhb8s"
+      "duration_ms": 167280,
+      "name": "Cuatro Cirios",
+      "url": "https://open.spotify.com/track/27fFEQ1xSjRaSPJ4JUPDg7"
     }
   ],
   "unique_name": "Inmortales de la M\u00fasica Mexicana",

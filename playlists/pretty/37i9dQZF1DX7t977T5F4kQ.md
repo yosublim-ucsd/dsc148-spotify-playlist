@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L?si=RGqtM734R7qRRPRkwQmnpQ"> Fameye </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,205 likes - 79 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,246 likes - 79 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 78 | [Your Love](https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [Your Love](https://open.spotify.com/album/2fPnNvgrjv72VfQcW5pTzc) | 3:14 |
 | 79 | [Party Of The Year \(feat\. Mr Drew\)](https://open.spotify.com/track/2l7g9za5ukNtQN4h1vSCbK) | [Keche](https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Party Of The Year \(feat\. Mr Drew\)](https://open.spotify.com/album/3P2LqB5XCENC53WdDEB8jV) | 3:27 |
 
-Snapshot ID: `MCw2YjdiMzllM2NkYzFiZDFmODQwOWUxNjFiNDNjZjkzNjA5YWI2ZjQx`
+Snapshot ID: `MCw4MWU2MTE5ZTJmMzQzNjUzZTU2MGU0YzQ0ZDM1MTU2OTc2YWQ5YTVi`

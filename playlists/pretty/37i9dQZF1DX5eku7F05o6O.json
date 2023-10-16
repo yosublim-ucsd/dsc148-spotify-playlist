@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3663,
+  "num_followers": 3664,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTNmYTIwZjBmODc3NGFkNjg2NDhmNjU3Nzk1NWY4NTIzZDU2YzY2",
+  "snapshot_id": "MCwzODY5YjM3N2Q0ODc2YzZhYmFjNDIwYTU3MmZlYWI3OWU5ZjY5Yzky",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "La lumineuse",
-        "url": "https://open.spotify.com/album/0mW7rqJgg8r3BfjOwwAavP"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "La lumineuse",
-      "url": "https://open.spotify.com/track/68tP0IQTdnvRM5MmcNbGq9"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le mouvement des mar\u00e9es",
         "url": "https://open.spotify.com/album/1V3hJGztX39ZYfoTQOvi0E"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 228266,
       "name": "Blanc cass\u00e9",
       "url": "https://open.spotify.com/track/26ar8SJWPlzN4NMD38dyxS"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "La lumineuse",
+        "url": "https://open.spotify.com/album/0mW7rqJgg8r3BfjOwwAavP"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "La lumineuse",
+      "url": "https://open.spotify.com/track/68tP0IQTdnvRM5MmcNbGq9"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Les Atomes",
-        "url": "https://open.spotify.com/album/70PjrmmSUclywQfx6DvaFv"
-      },
-      "artists": [
-        {
-          "name": "Martin L\u00e9on",
-          "url": "https://open.spotify.com/artist/51SMAYhZKYFb6aKxwxHuXY"
-        }
-      ],
-      "duration_ms": 234853,
-      "name": "Je redeviens le vent",
-      "url": "https://open.spotify.com/track/7pQriJcTGD2fsMCEF55CCs"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Tricot machine",
         "url": "https://open.spotify.com/album/2UydMBIw7r4DVeFLeFZPIe"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 203173,
       "name": "Super ordinaire",
       "url": "https://open.spotify.com/track/26FfcTUMhreHE2YSheGN1u"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Les Atomes",
+        "url": "https://open.spotify.com/album/70PjrmmSUclywQfx6DvaFv"
+      },
+      "artists": [
+        {
+          "name": "Martin L\u00e9on",
+          "url": "https://open.spotify.com/artist/51SMAYhZKYFb6aKxwxHuXY"
+        }
+      ],
+      "duration_ms": 234853,
+      "name": "Je redeviens le vent",
+      "url": "https://open.spotify.com/track/7pQriJcTGD2fsMCEF55CCs"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Des feux pour voir",
-        "url": "https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd"
-      },
-      "artists": [
-        {
-          "name": "Marie-Pierre Arthur",
-          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
-        }
-      ],
-      "duration_ms": 190718,
-      "name": "Puits de lumi\u00e8re",
-      "url": "https://open.spotify.com/track/3LENs8SNsDnxpMYgdHFcQY"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/47BeET8hEy09koztGMjD70"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 196613,
       "name": "Trop tard",
       "url": "https://open.spotify.com/track/0kGlndxcDA7drOZwgt4eOd"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Des feux pour voir",
+        "url": "https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd"
+      },
+      "artists": [
+        {
+          "name": "Marie-Pierre Arthur",
+          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
+        }
+      ],
+      "duration_ms": 190718,
+      "name": "Puits de lumi\u00e8re",
+      "url": "https://open.spotify.com/track/3LENs8SNsDnxpMYgdHFcQY"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Marie-Pierre Arthur",
+        "url": "https://open.spotify.com/album/24zKTvO9WBhCj9meQWEqnJ"
+      },
+      "artists": [
+        {
+          "name": "Marie-Pierre Arthur",
+          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
+        }
+      ],
+      "duration_ms": 253145,
+      "name": "Le vent m\u2019appelle par mon pr\u00e9nom",
+      "url": "https://open.spotify.com/track/68ImzFuf1GPwyhy4VrFi2k"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Dis-moi",
         "url": "https://open.spotify.com/album/2lCu0zzJtPiDSjQWMK3uBt"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 306813,
       "name": "Dis-moi",
       "url": "https://open.spotify.com/track/5nyQsFzJv3R7EcuWjwuDCi"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Parades",
-        "url": "https://open.spotify.com/album/68gezXq5hixi4zYIow8L22"
-      },
-      "artists": [
-        {
-          "name": "Mina Tindle",
-          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Je sais",
-      "url": "https://open.spotify.com/track/3LDuDSAyLuICLyhieUy6v0"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1303,34 +1303,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Marie-Pierre Arthur",
-        "url": "https://open.spotify.com/album/24zKTvO9WBhCj9meQWEqnJ"
+        "name": "Parades",
+        "url": "https://open.spotify.com/album/68gezXq5hixi4zYIow8L22"
       },
       "artists": [
         {
-          "name": "Marie-Pierre Arthur",
-          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
+          "name": "Mina Tindle",
+          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
         }
       ],
-      "duration_ms": 253145,
-      "name": "Le vent m\u2019appelle par mon pr\u00e9nom",
-      "url": "https://open.spotify.com/track/68ImzFuf1GPwyhy4VrFi2k"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Le long chemin (version acoustique)",
-        "url": "https://open.spotify.com/album/5yC3D6Lxyc5Fc4vqnirnGB"
-      },
-      "artists": [
-        {
-          "name": "Nicola Ciccone",
-          "url": "https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM"
-        }
-      ],
-      "duration_ms": 220146,
-      "name": "Le long chemin - version acoustique",
-      "url": "https://open.spotify.com/track/6WQ0syAVuov3xfTl20l5ne"
+      "duration_ms": 213106,
+      "name": "Je sais",
+      "url": "https://open.spotify.com/track/3LDuDSAyLuICLyhieUy6v0"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1347,6 +1331,22 @@
       "duration_ms": 268276,
       "name": "Ta Chance",
       "url": "https://open.spotify.com/track/1aCEZAN4T0hp6OGGM73ziU"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Le long chemin (version acoustique)",
+        "url": "https://open.spotify.com/album/5yC3D6Lxyc5Fc4vqnirnGB"
+      },
+      "artists": [
+        {
+          "name": "Nicola Ciccone",
+          "url": "https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM"
+        }
+      ],
+      "duration_ms": 220146,
+      "name": "Le long chemin - version acoustique",
+      "url": "https://open.spotify.com/track/6WQ0syAVuov3xfTl20l5ne"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "La pluie entre nous",
-        "url": "https://open.spotify.com/album/0Y10OKNgG1nCZgNYjD9ycN"
-      },
-      "artists": [
-        {
-          "name": "Catherine Durand",
-          "url": "https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD"
-        }
-      ],
-      "duration_ms": 220630,
-      "name": "La pluie entre nous",
-      "url": "https://open.spotify.com/track/4uXdnDGrnb5pCNyIl32UT7"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/73oXR17DzYPHanskHxY0Tj"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 285026,
       "name": "Pour Le Reste De Ma Vie",
       "url": "https://open.spotify.com/track/1PcEPxGGLAVS1kAmt548Zi"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "La pluie entre nous",
+        "url": "https://open.spotify.com/album/0Y10OKNgG1nCZgNYjD9ycN"
+      },
+      "artists": [
+        {
+          "name": "Catherine Durand",
+          "url": "https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD"
+        }
+      ],
+      "duration_ms": 220630,
+      "name": "La pluie entre nous",
+      "url": "https://open.spotify.com/track/4uXdnDGrnb5pCNyIl32UT7"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Alexe",
+        "url": "https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL"
+      },
+      "artists": [
+        {
+          "name": "Alexe",
+          "url": "https://open.spotify.com/artist/25OceRescHJwftJk284v8K"
+        }
+      ],
+      "duration_ms": 273473,
+      "name": "L'hiver",
+      "url": "https://open.spotify.com/track/4wK5JsT3ptA1cSX0Fvm5bh"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Politesses",
         "url": "https://open.spotify.com/album/3iCs4w50p4r4PY9ZKF9800"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 278653,
       "name": "Pour ce que valent tes larmes",
       "url": "https://open.spotify.com/track/3MWmd6jWckpNjW5PjJxHxA"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Alexe",
-        "url": "https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL"
-      },
-      "artists": [
-        {
-          "name": "Alexe",
-          "url": "https://open.spotify.com/artist/25OceRescHJwftJk284v8K"
-        }
-      ],
-      "duration_ms": 273473,
-      "name": "L'hiver",
-      "url": "https://open.spotify.com/track/4wK5JsT3ptA1cSX0Fvm5bh"
     },
     {
       "added_at": "2021-02-06 03:12:40",

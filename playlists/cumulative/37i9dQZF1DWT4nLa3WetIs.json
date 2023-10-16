@@ -3256,10 +3256,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 774973,
       "name": "Stalemate",
       "url": "https://open.spotify.com/track/5xyToYNFTJ4PrGHBQiKZYZ"
+    },
+    {
+      "album": {
+        "name": "Stalemate (Edit)",
+        "url": "https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2023-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403954,
+      "name": "Stalemate (Edit)",
+      "url": "https://open.spotify.com/track/6Nc3VlsiqEZNvF42ziCCAl"
     },
     {
       "album": {

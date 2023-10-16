@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 
 > Island vibes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,523 likes - 40 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,596 likes - 40 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 | 24 | [007 \(Shanty Town\)](https://open.spotify.com/track/7LOAChK8Lkj8ZdF1LuhNWP) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [007 Shanty Town](https://open.spotify.com/album/5lJvmBzHTq7POLabCLvzOm) | 2:32 |
 | 25 | [The Voices Of Sweet Jamaica \- All Star Remix](https://open.spotify.com/track/6ueDnmAamC2RcxY9izQQia) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Josey Wales](https://open.spotify.com/artist/2hqyZpGViBQDIaMCme0DKC), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u), [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [T.O.K](https://open.spotify.com/artist/06JH3wcXkJg7eoxZVMO1UX), [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R), [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM), [Singing Melody](https://open.spotify.com/artist/1I6w9pHnP2Wo6ygwgpKuHQ), [Tony Curtis](https://open.spotify.com/artist/67lbnNvIaK3h8L0sFxoXvJ), [Ce'Cile](https://open.spotify.com/artist/1RnGhd2JfN5nbVOvYmhDyO), [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj), [Leroy Sibbles](https://open.spotify.com/artist/0h9oPMP5nFi3mY0lK4cSuy), [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [The Voices Of Sweet Jamaica](https://open.spotify.com/album/7CZ9pJ8wS1qyal2hnMf2qj) | 4:06 |
 | 26 | [Funky Kingston](https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Funky Kingston](https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz) | 4:55 |
-| 27 | [Book Of Rules](https://open.spotify.com/track/4PKri4OX2AB2RXj95Y9ZgB) | [The Heptones](https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4) | [Night Food](https://open.spotify.com/album/4ZOQeByfXd1iAgmMk8xpYN) | 3:31 |
-| 28 | [Bam Bam](https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:04 |
+| 27 | [Bam Bam](https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:04 |
+| 28 | [Book Of Rules](https://open.spotify.com/track/4PKri4OX2AB2RXj95Y9ZgB) | [The Heptones](https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4) | [Night Food](https://open.spotify.com/album/4ZOQeByfXd1iAgmMk8xpYN) | 3:31 |
 | 29 | [Wonderful World, Beautiful People \- Single Version](https://open.spotify.com/track/7vCEPLGrLHqBHyRPPsweYY) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 3:15 |
 | 30 | [Tomorrow People](https://open.spotify.com/track/07QZEz7d4OS6vmS1iiwJCc) | [Ziggy Marley & The Melody Makers](https://open.spotify.com/artist/3Z2jmNAP2UaGa8lPpi54wD) | [Conscious Party](https://open.spotify.com/album/31dATgHjk7MwSkzrtNUurs) | 3:38 |
 | 31 | [Country Road](https://open.spotify.com/track/78idK1ANg6tbO8d67GD09B) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Funky Kingston](https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz) | 3:25 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 | 39 | [Pressure Drop \- Single Version](https://open.spotify.com/track/2GImcOxFZ0GP49rmPnPOjT) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM) | 2:53 |
 | 40 | [Put a Little Love](https://open.spotify.com/track/0yQLIH6DH7Hop9K1eHLzVL) | [Natural Vibrations](https://open.spotify.com/artist/2u0CzUCFU8OEoIFORUq6wJ) | [All Natural](https://open.spotify.com/album/3pwOfQqtWgH4duJxZm5pax) | 4:24 |
 
-Snapshot ID: `MCxmZWRjYzNmODIzODhlNTJiNTlkNWM2NjJlYjQwNTc4YzMzZTVlNTBl`
+Snapshot ID: `MCw2NTM1ZDAxYTc1NTk2ZGNlMWExZTRlNTI5MzU1NTExYWFhNDViYmUz`

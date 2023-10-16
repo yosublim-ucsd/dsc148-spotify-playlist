@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 41019,
+  "num_followers": 41222,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDM1YTMxYWY1NWMwNjE0M2I2ODA1MWZkN2I1MGFiZDg2ZTUwM2I4",
+  "snapshot_id": "MCwwNjQ3ZDgzMGIzODFjNjcyYjYyNWJhZWJlMjIwMjVlYWEyNTBjYzNk",
   "tracks": [
     {
       "added_at": "2023-08-29 23:44:25",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "I'm Still in Love with You",
-        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 191636,
-      "name": "I'm Still in Love with You",
-      "url": "https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Sings Just One Look And Other Memorable Selections",
         "url": "https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 151906,
       "name": "Just One Look",
       "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "I'm Still in Love with You",
+        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 191636,
+      "name": "I'm Still in Love with You",
+      "url": "https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "James & Bobby Purify",
-        "url": "https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK"
-      },
-      "artists": [
-        {
-          "name": "James & Bobby Purify",
-          "url": "https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7"
-        }
-      ],
-      "duration_ms": 178986,
-      "name": "I'm Your Puppet",
-      "url": "https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "The Skyliners",
         "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 158840,
       "name": "Since I Don't Have You (Alternative Take)",
       "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "James & Bobby Purify",
+        "url": "https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK"
+      },
+      "artists": [
+        {
+          "name": "James & Bobby Purify",
+          "url": "https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7"
+        }
+      ],
+      "duration_ms": 178986,
+      "name": "I'm Your Puppet",
+      "url": "https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Hello Stranger",
-        "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "Hello Stranger",
-      "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Natural High",
         "url": "https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 240466,
       "name": "Natural High",
       "url": "https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Hello Stranger",
+        "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "Hello Stranger",
+      "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Disco Nights (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum"
-      },
-      "artists": [
-        {
-          "name": "G.Q.",
-          "url": "https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n"
-        }
-      ],
-      "duration_ms": 288733,
-      "name": "I Do Love You",
-      "url": "https://open.spotify.com/track/75FAk9JQHHLecKEZ8OZxpK"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Baby, I'm For Real",
         "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 201866,
       "name": "Baby, I'm For Real",
       "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Disco Nights (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum"
+      },
+      "artists": [
+        {
+          "name": "G.Q.",
+          "url": "https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n"
+        }
+      ],
+      "duration_ms": 288733,
+      "name": "I Do Love You",
+      "url": "https://open.spotify.com/track/75FAk9JQHHLecKEZ8OZxpK"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Don't Tell Me",
-        "url": "https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl"
-      },
-      "artists": [
-        {
-          "name": "Joey Quinones",
-          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
-        }
-      ],
-      "duration_ms": 233430,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Warm & Tender Soul",
         "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 173893,
       "name": "You Really Got a Hold on Me",
       "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Don't Tell Me",
+        "url": "https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl"
+      },
+      "artists": [
+        {
+          "name": "Joey Quinones",
+          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
+        }
+      ],
+      "duration_ms": 233430,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 151626,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Swingsation: Sil Austin",
         "url": "https://open.spotify.com/album/1rObnFkeZhkF19kA5Z5tJa"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 159973,
       "name": "Slow Walk",
       "url": "https://open.spotify.com/track/6FwjZsd1WrdXH4Vy4yTNyg"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 151626,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Number Ones",
-        "url": "https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky"
-      },
-      "artists": [
-        {
-          "name": "Love Unlimited",
-          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "I Belong To You",
-      "url": "https://open.spotify.com/track/2hEEvYikDJKfwQVXGj8mTK"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Whatcha Know",
         "url": "https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 234593,
       "name": "Whatcha Know",
       "url": "https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Number Ones",
+        "url": "https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky"
+      },
+      "artists": [
+        {
+          "name": "Love Unlimited",
+          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/2hEEvYikDJKfwQVXGj8mTK"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -2315,6 +2315,26 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
+        "name": "Songs from La Mission (Original Motion Soundtrack)",
+        "url": "https://open.spotify.com/album/7ynAgX8j9lBMzF7oiVZnNJ"
+      },
+      "artists": [
+        {
+          "name": "La Mission",
+          "url": "https://open.spotify.com/artist/1TVxYSi4P15H2g58HDdWaG"
+        },
+        {
+          "name": "Orlando Torriente",
+          "url": "https://open.spotify.com/artist/378d3VKREhA9ih9n29qSno"
+        }
+      ],
+      "duration_ms": 251964,
+      "name": "Porque Te Quiero",
+      "url": "https://open.spotify.com/track/7FAA8FEuRTmHlIT3dP9zSo"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
         "name": "Wish I Said I Love You",
         "url": "https://open.spotify.com/album/1iWNb3YzSCVxIsOpHk2PQy"
       },
@@ -2335,26 +2355,6 @@
       "duration_ms": 154142,
       "name": "Wish I Said I Love You",
       "url": "https://open.spotify.com/track/0J9xmb04HpXvAFC7krKY9m"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
-        "name": "Songs from La Mission (Original Motion Soundtrack)",
-        "url": "https://open.spotify.com/album/7ynAgX8j9lBMzF7oiVZnNJ"
-      },
-      "artists": [
-        {
-          "name": "La Mission",
-          "url": "https://open.spotify.com/artist/1TVxYSi4P15H2g58HDdWaG"
-        },
-        {
-          "name": "Orlando Torriente",
-          "url": "https://open.spotify.com/artist/378d3VKREhA9ih9n29qSno"
-        }
-      ],
-      "duration_ms": 251964,
-      "name": "Porque Te Quiero",
-      "url": "https://open.spotify.com/track/7FAA8FEuRTmHlIT3dP9zSo"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The Essential Delfonics",
-        "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 125386,
-      "name": "Going Out of My Head - Remastered",
-      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Reaper of Love",
         "url": "https://open.spotify.com/album/6cYE3duwuvONqnxnKply8o"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 211369,
       "name": "Reaper of Love",
       "url": "https://open.spotify.com/track/7MhanQlUmy0p1vvn4JCEQX"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "The Essential Delfonics",
+        "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 125386,
+      "name": "Going Out of My Head - Remastered",
+      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
     },
     {
       "added_at": "2023-08-29 23:44:25",

@@ -3423,6 +3423,24 @@
     },
     {
       "album": {
+        "name": "Don't be mad",
+        "url": "https://open.spotify.com/album/0sIbn4BGuc7oG21Fkl5x46"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2023-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184093,
+      "name": "Don't be mad",
+      "url": "https://open.spotify.com/track/4lXl37xDrmVwoz4CuninfI"
+    },
+    {
+      "album": {
         "name": "Don't Cry",
         "url": "https://open.spotify.com/album/6SfLPPnrdzfhUrLpShNSxx"
       },
@@ -14694,6 +14712,24 @@
       "duration_ms": 262222,
       "name": "That's All For Love",
       "url": "https://open.spotify.com/track/6j3BvfzSSUguRSaEQq6DHy"
+    },
+    {
+      "album": {
+        "name": "Destined with You (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/37BzsG0I20mbX2CFipkt3A"
+      },
+      "artists": [
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "date_added": "2023-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231759,
+      "name": "That's You",
+      "url": "https://open.spotify.com/track/2UysjEVKnL55ywc6TuvcQI"
     },
     {
       "album": {

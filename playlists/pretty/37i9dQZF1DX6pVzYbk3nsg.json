@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 3125,
+  "num_followers": 3134,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTQ1NmE3NDVkNDEzYmMxNzYzZTg3ODA2NTg0MWRiNzljOWYyOWVl",
+  "snapshot_id": "MCwwMTcxOTE2MDNiNGJmYTAyNjE0YzMyNDE0YTRmMTAzYWRjZWZmODQx",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Los Pleneros del Quinto Olivo",
+        "url": "https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros del Quinto Olivo",
+          "url": "https://open.spotify.com/artist/0z9lpQaueAr4klPeko7UJG"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Una Noche En Borinquen",
+      "url": "https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Puerto Rico, Puerto Rico Mi Tierra Natal",
         "url": "https://open.spotify.com/album/28nERzqmaa2n4hve9UxlnQ"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 298226,
       "name": "Campo",
       "url": "https://open.spotify.com/track/15HmdlLczXj5jlqUlmUNS8"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Los Pleneros del Quinto Olivo",
-        "url": "https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs"
-      },
-      "artists": [
-        {
-          "name": "Los Pleneros del Quinto Olivo",
-          "url": "https://open.spotify.com/artist/0z9lpQaueAr4klPeko7UJG"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Una Noche En Borinquen",
-      "url": "https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Para Todos Ustedes",
+        "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la 21",
+          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
+        }
+      ],
+      "duration_ms": 454466,
+      "name": "Campo (Land) / Yo cantar\u00e9 esta bomba (I Will Sing this Bomba)",
+      "url": "https://open.spotify.com/track/3re4zafR80jdjih18UJYvF"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Buya (Live)",
         "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Para Todos Ustedes",
-        "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
-      },
-      "artists": [
-        {
-          "name": "Los Pleneros de la 21",
-          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
-        }
-      ],
-      "duration_ms": 454466,
-      "name": "Campo (Land) / Yo cantar\u00e9 esta bomba (I Will Sing this Bomba)",
-      "url": "https://open.spotify.com/track/3re4zafR80jdjih18UJYvF"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "A La Buena S\u00ed",
         "url": "https://open.spotify.com/album/3ZT00YYCEhmE1eTi5LVwqT"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 174345,
       "name": "A La Buena S\u00ed",
       "url": "https://open.spotify.com/track/1wbjlLVtfqlX6jyCpRbwdH"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Tambuy\u00e9",
+        "url": "https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl"
+      },
+      "artists": [
+        {
+          "name": "Tambuy\u00e9",
+          "url": "https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8"
+        }
+      ],
+      "duration_ms": 365600,
+      "name": "La Llevo en Mis Venas / Bambul\u00e9 a Par\u00e9 / Dios M\u00edo Si Yo Pudiera / Consu\u00e9lala",
+      "url": "https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -635,22 +651,6 @@
       "duration_ms": 225760,
       "name": "Si te preguntaran",
       "url": "https://open.spotify.com/track/4NbNwSJakq5ArlNsQwdqZQ"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Tambuy\u00e9",
-        "url": "https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl"
-      },
-      "artists": [
-        {
-          "name": "Tambuy\u00e9",
-          "url": "https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8"
-        }
-      ],
-      "duration_ms": 365600,
-      "name": "La Llevo en Mis Venas / Bambul\u00e9 a Par\u00e9 / Dios M\u00edo Si Yo Pudiera / Consu\u00e9lala",
-      "url": "https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Tamb\u00f3",
-        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
-      },
-      "artists": [
-        {
-          "name": "Paracumb\u00e9",
-          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
-        },
-        {
-          "name": "Nelie Lebron Robles",
-          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Gua\u00f1eco pi\u00e9",
-      "url": "https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Org\u00e1nico y Medicinal",
         "url": "https://open.spotify.com/album/76iolqxBkeTjzGlC7gw1lE"
       },
@@ -755,6 +735,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Rompecabezas",
+        "url": "https://open.spotify.com/album/5WOxmuWOvEtqfdovqzngsp"
+      },
+      "artists": [
+        {
+          "name": "Plena Adentro",
+          "url": "https://open.spotify.com/artist/1Plz2KFX2pg7ctp6OWjQIg"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "Timba Timbo",
+      "url": "https://open.spotify.com/track/6zTWnfEH3I7LZaMZTqSUYA"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Bomba De Loiza",
         "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
@@ -771,18 +767,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Rompecabezas",
-        "url": "https://open.spotify.com/album/5WOxmuWOvEtqfdovqzngsp"
+        "name": "Tamb\u00f3",
+        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
       "artists": [
         {
-          "name": "Plena Adentro",
-          "url": "https://open.spotify.com/artist/1Plz2KFX2pg7ctp6OWjQIg"
+          "name": "Paracumb\u00e9",
+          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
+        },
+        {
+          "name": "Nelie Lebron Robles",
+          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
         }
       ],
-      "duration_ms": 188200,
-      "name": "Timba Timbo",
-      "url": "https://open.spotify.com/track/6zTWnfEH3I7LZaMZTqSUYA"
+      "duration_ms": 213106,
+      "name": "Gua\u00f1eco pi\u00e9",
+      "url": "https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde"
     },
     {
       "added_at": "2023-06-13 22:15:19",

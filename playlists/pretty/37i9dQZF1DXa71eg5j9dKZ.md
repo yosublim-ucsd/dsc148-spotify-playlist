@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,788 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,813 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Perfect Life](https://open.spotify.com/track/1lCic9SNC6dEaYY0mokFsj) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Perfect Life](https://open.spotify.com/album/47TFvHtoVAsNYGUGl9Jv1G) | 3:57 |
 | 100 | [Four Thirty](https://open.spotify.com/track/3GRzGFVipiF8cDS3heRdoP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Focus](https://open.spotify.com/album/6ZfkXGIGWjgk7SUn0rOB3S) | 2:43 |
 
-Snapshot ID: `MCw4YjQ3MmVlOTE5Njc3ODRlMGFiNDAyZWQyZjNiZjFiNjRkYjlkMzkw`
+Snapshot ID: `MCxmNjMwZjMyZTgwM2M3YmMxMDE0MDI1YzgyODZlMTQ1ODhlMjcyZDhl`

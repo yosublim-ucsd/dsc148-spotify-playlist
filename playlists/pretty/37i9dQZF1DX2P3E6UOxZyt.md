@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: Juice Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,220 likes - 72 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,239 likes - 72 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [I Love U So](https://open.spotify.com/track/6vdEahxBwLid3eXOQXYGow) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [UU&U](https://open.spotify.com/album/78XT5si8Zp3XhRQEiPZ1pr) | 3:35 |
 | 72 | [我會很愛你](https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [我會很愛你](https://open.spotify.com/album/4gfaVHCGoM4sl3Lnzqaafx) | 3:35 |
 
-Snapshot ID: `MCxmMDlkNWVjNWZlZDA4NjQ2Y2M3NWU5MDYzMDQ1ZmE0MTBjNzFmZTA0`
+Snapshot ID: `MCxjNTdlNDczMDdiMTRjMTU5MjM1NjM2MGQwNDk3MGMzMjIzNzNiZTY0`

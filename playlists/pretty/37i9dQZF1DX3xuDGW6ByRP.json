@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: Lou Garcia",
-  "num_followers": 41600,
+  "num_followers": 41614,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWVhY2E0N2JkZDU3YzUxNDJiYTc3NDYzOTc0N2RlZDM1MzM1ZDFj",
+  "snapshot_id": "MCxmMGMyMTE5YWUzNTAyNTViMWEzYzRjNTI4ZDhiNjA5YTFiMGRmYWMz",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "FORA DE SI",
+        "url": "https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        }
+      ],
+      "duration_ms": 142825,
+      "name": "FORA DE SI",
+      "url": "https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Andar 14",
         "url": "https://open.spotify.com/album/2ZaCdkFUHGtBohD7o763cK"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 173949,
       "name": "Andar 14",
       "url": "https://open.spotify.com/track/4mric8489EFF7DxpQfonKw"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "FORA DE SI",
-        "url": "https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17"
-      },
-      "artists": [
-        {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
-        }
-      ],
-      "duration_ms": 142825,
-      "name": "FORA DE SI",
-      "url": "https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc"
     },
     {
       "added_at": "2023-10-13 03:00:00",

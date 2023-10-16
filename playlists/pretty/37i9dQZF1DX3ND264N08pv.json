@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 61177,
+  "num_followers": 61296,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWMwYzk5MjcwNDAyY2QyNmUyYzRhODU5ZTZiMDExNWUzYjhhZjIx",
+  "snapshot_id": "MCw1YWExN2Y3NDI4NzEyZTgwYmUzMTU5M2I5YjNiODAzNzRkMWNiOWQ0",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "F#ck The Haters",
+        "url": "https://open.spotify.com/album/3EgcPoSBiZCFK8QhKU6buM"
+      },
+      "artists": [
+        {
+          "name": "Mutilator",
+          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
+        }
+      ],
+      "duration_ms": 147003,
+      "name": "F#ck The Haters",
+      "url": "https://open.spotify.com/track/2MkEOJ1yZ1wBk1Sx022OTo"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Killing No More",
         "url": "https://open.spotify.com/album/1LhYCeq7pzu6QWlLVfk169"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 156979,
       "name": "Killing No More",
       "url": "https://open.spotify.com/track/7LSbuUA9AtvZqec21ajsfQ"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "F#ck The Haters",
-        "url": "https://open.spotify.com/album/3EgcPoSBiZCFK8QhKU6buM"
-      },
-      "artists": [
-        {
-          "name": "Mutilator",
-          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
-        }
-      ],
-      "duration_ms": 147003,
-      "name": "F#ck The Haters",
-      "url": "https://open.spotify.com/track/2MkEOJ1yZ1wBk1Sx022OTo"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "You Can't Stop Me",
-        "url": "https://open.spotify.com/album/2ebP1DLH7d1TDWicgcLAHQ"
+        "name": "Feed Your Soul",
+        "url": "https://open.spotify.com/album/5VjPS4lmtkEC5VY08cIloC"
       },
       "artists": [
         {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
         }
       ],
-      "duration_ms": 199200,
-      "name": "You Can't Stop Me",
-      "url": "https://open.spotify.com/track/1tuBppcw5aSqMNnGUmXcid"
+      "duration_ms": 193500,
+      "name": "Feed Your Soul",
+      "url": "https://open.spotify.com/track/7mTyKvhmh3SiW0uOuqzRPZ"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -487,18 +487,34 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Feed Your Soul",
-        "url": "https://open.spotify.com/album/5VjPS4lmtkEC5VY08cIloC"
+        "name": "You Can't Stop Me",
+        "url": "https://open.spotify.com/album/2ebP1DLH7d1TDWicgcLAHQ"
       },
       "artists": [
         {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
         }
       ],
-      "duration_ms": 193500,
-      "name": "Feed Your Soul",
-      "url": "https://open.spotify.com/track/7mTyKvhmh3SiW0uOuqzRPZ"
+      "duration_ms": 199200,
+      "name": "You Can't Stop Me",
+      "url": "https://open.spotify.com/track/1tuBppcw5aSqMNnGUmXcid"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "The Chop Game",
+        "url": "https://open.spotify.com/album/77fohbVi79RssB18lmWX1S"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "The Chop Game",
+      "url": "https://open.spotify.com/track/4jp0Z4REkbEeGmSgTlf18C"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -539,22 +555,6 @@
       "duration_ms": 251368,
       "name": "Hell Of A Ride - Official Dominator 2022 Anthem",
       "url": "https://open.spotify.com/track/4mmfmBwioCjlXjkklzXzHx"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "The Chop Game",
-        "url": "https://open.spotify.com/album/77fohbVi79RssB18lmWX1S"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "The Chop Game",
-      "url": "https://open.spotify.com/track/4jp0Z4REkbEeGmSgTlf18C"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Ignition",
-        "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
-      },
-      "artists": [
-        {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 237714,
-      "name": "Ignition",
-      "url": "https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "U Will Be Mine",
         "url": "https://open.spotify.com/album/1Z4SqaLqiOma9BMs8M8MQo"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 191999,
       "name": "U Will Be Mine",
       "url": "https://open.spotify.com/track/7qZhWZkh309jgVao0Jo8DO"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Ignition",
+        "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
+      },
+      "artists": [
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 237714,
+      "name": "Ignition",
+      "url": "https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Not Afraid to Fall",
+        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 185230,
+      "name": "Not Afraid to Fall",
+      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "The Roots (Official Harmony of Hardcore 2023 Anthem)",
         "url": "https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA"
       },
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Not Afraid to Fall",
-        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 185230,
-      "name": "Not Afraid to Fall",
-      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Fight Them All",
         "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
       },
@@ -1055,26 +1055,18 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "DON'T BE SCARED",
-        "url": "https://open.spotify.com/album/5beQxSHKyvH6FeYkRttFNn"
+        "name": "Beat My Drum",
+        "url": "https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq"
       },
       "artists": [
         {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        },
-        {
-          "name": "Frenchkillerz",
-          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
-        },
-        {
-          "name": "BLACK FREQUENCY",
-          "url": "https://open.spotify.com/artist/6npcGVRXFdD99Gcv9AKaaH"
+          "name": "Dither",
+          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
         }
       ],
-      "duration_ms": 186098,
-      "name": "DON'T BE SCARED",
-      "url": "https://open.spotify.com/track/7acXF1WBYmFqqbgExXLQ98"
+      "duration_ms": 202124,
+      "name": "Beat My Drum",
+      "url": "https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1099,18 +1091,26 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Beat My Drum",
-        "url": "https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq"
+        "name": "DON'T BE SCARED",
+        "url": "https://open.spotify.com/album/5beQxSHKyvH6FeYkRttFNn"
       },
       "artists": [
         {
-          "name": "Dither",
-          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "Frenchkillerz",
+          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
+        },
+        {
+          "name": "BLACK FREQUENCY",
+          "url": "https://open.spotify.com/artist/6npcGVRXFdD99Gcv9AKaaH"
         }
       ],
-      "duration_ms": 202124,
-      "name": "Beat My Drum",
-      "url": "https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ"
+      "duration_ms": 186098,
+      "name": "DON'T BE SCARED",
+      "url": "https://open.spotify.com/track/7acXF1WBYmFqqbgExXLQ98"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
-      },
-      "artists": [
-        {
-          "name": "Remzcore",
-          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
-        }
-      ],
-      "duration_ms": 178975,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Born To React",
         "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 145519,
       "name": "Born To React",
       "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
+      },
+      "artists": [
+        {
+          "name": "Remzcore",
+          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+        }
+      ],
+      "duration_ms": 178975,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/1GcwL1qhxuTpZP405t9s2g"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 213890,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/3ths0qezzeNfMDErMUDCwx"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/1dK50G7UOfUkgB6ysbyexf"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 208000,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/2I4sZzFKCPdTVlKrUka1mO"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/1GcwL1qhxuTpZP405t9s2g"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 213890,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/3ths0qezzeNfMDErMUDCwx"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Dominator 2022 (Hell Of A Ride)",
+        "url": "https://open.spotify.com/album/0BWZ28qb6KwR4wD8Ms7MCA"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Schrik Van De Stad",
+      "url": "https://open.spotify.com/track/02d1XpujNOPL5bqFLaCUbU"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Hide Me",
         "url": "https://open.spotify.com/album/3sqlQlmk1NPZaeo62ihESL"
       },
@@ -1823,26 +1839,6 @@
       "duration_ms": 183891,
       "name": "Hide Me",
       "url": "https://open.spotify.com/track/31i8Y19hlXk2MzraK6EX9B"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Wave Of Destruction",
-        "url": "https://open.spotify.com/album/7J4zZlQKZlAohMDKkGMwJ5"
-      },
-      "artists": [
-        {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
-        },
-        {
-          "name": "Runeforce",
-          "url": "https://open.spotify.com/artist/7fzicDRhTE3rhGdO4ssCcH"
-        }
-      ],
-      "duration_ms": 265200,
-      "name": "Wave of Destruction",
-      "url": "https://open.spotify.com/track/2mTSCJKqM5TaZXxPdWALaP"
     },
     {
       "added_at": "2023-10-12 22:00:00",

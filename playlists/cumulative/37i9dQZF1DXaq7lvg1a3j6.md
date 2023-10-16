@@ -4,7 +4,7 @@
 
 > Let these songs soundtrack your busy wedding season.
 
-62 songs - 3 hr 41 min
+63 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [The Punjaabban Song](https://open.spotify.com/track/4vjVTc6cqDwZJ40ILlEpEx) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Jugjugg Jeeyo](https://open.spotify.com/album/49wsmGDdtSoQiLt2lsVbaQ) | 3:19 | 2022-06-24 |  |
 | [Tooh](https://open.spotify.com/track/23Dpwemmuf6nYSzR9sUJ9M) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Mamta Sharma](https://open.spotify.com/artist/0RMsiUCTjsdGjoKyhEm8Y4) | [Tooh](https://open.spotify.com/album/7ivSWCu9WuArhLWHOUDLbQ) | 4:20 | 2021-10-29 |  |
 | [Yaad Piya Ki Aane Lagi](https://open.spotify.com/track/0TkquWzzuxcrwbCWlTrKYF) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Lalit Sen](https://open.spotify.com/artist/5fDnhohLUsWhN7MUXse3QS) | [Yaad Piya Ki Aane Lagi](https://open.spotify.com/album/4c3IszwqbBtplyBxZc61rS) | 4:16 | 2021-10-29 |  |
-| [Ye Ishq Hai](https://open.spotify.com/track/4BiPsAV070dg3eLSVf727A) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 4:40 | 2022-06-24 |  |
+| [Ye Ishq Hai](https://open.spotify.com/track/4BiPsAV070dg3eLSVf727A) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 4:40 | 2022-06-24 | 2023-10-16 |
+| [Ye Ishq Hai \(From "Jab We Met"\)](https://open.spotify.com/track/1UHVj0W8BRn08AXvWcv8i6) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Best Of Shreya Ghoshal](https://open.spotify.com/album/4WELDMV021TUCe87ryn25t) | 4:40 | 2023-09-25 |  |
 | [Ye Ishq Hai \(From "Jab We Met"\)](https://open.spotify.com/track/6ROdtruhxx6zK7jDpfP1Eh) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Shreya Ghoshal's Favorites](https://open.spotify.com/album/0VWAJ6sKV4PFiBx0oH3oNw) | 4:42 | 2021-10-29 | 2022-07-29 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

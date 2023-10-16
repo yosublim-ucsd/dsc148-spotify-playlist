@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 62034,
+  "num_followers": 62073,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDliOWFiYjEwZjRhNjFhODJjMzAyM2Y3ZWEzN2ZkYjBkY2RkNTJi",
+  "snapshot_id": "MCxmMGIzMWY2YjZjYzkxODIzODM4MDM4Nzk2YmRlZjFmYzY5NzQ3ZjA4",
   "tracks": [
     {
       "added_at": "2023-09-21 16:51:36",
@@ -459,8 +459,8 @@
     {
       "added_at": "2023-09-21 16:51:36",
       "album": {
-        "name": "Sacred World",
-        "url": "https://open.spotify.com/album/2GVUuRKJ4Xv5SBDOgaB3jJ"
+        "name": "ERA",
+        "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
         }
       ],
-      "duration_ms": 301266,
-      "name": "Sacred world",
-      "url": "https://open.spotify.com/track/6we8ssFEZQCPaCeiaA1F9s"
+      "duration_ms": 283735,
+      "name": "EXPOSE \u2018Burn out!!!\u2019",
+      "url": "https://open.spotify.com/track/37uJsqSgt2jRYWQO5z4A03"
     },
     {
       "added_at": "2023-09-21 16:51:36",
@@ -1119,8 +1119,8 @@
     {
       "added_at": "2023-09-21 16:51:36",
       "album": {
-        "name": "ERA",
-        "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
+        "name": "Sacred World",
+        "url": "https://open.spotify.com/album/2GVUuRKJ4Xv5SBDOgaB3jJ"
       },
       "artists": [
         {
@@ -1128,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
         }
       ],
-      "duration_ms": 283735,
-      "name": "EXPOSE \u2018Burn out!!!\u2019",
-      "url": "https://open.spotify.com/track/37uJsqSgt2jRYWQO5z4A03"
+      "duration_ms": 301266,
+      "name": "Sacred world",
+      "url": "https://open.spotify.com/track/6we8ssFEZQCPaCeiaA1F9s"
     },
     {
       "added_at": "2023-09-21 16:51:36",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2023-09-21 16:51:36",
       "album": {
+        "name": "\u5287\u5834\u7248\u300cBanG Dream! FILM LIVE 2nd Stage\u300dSpecial Songs",
+        "url": "https://open.spotify.com/album/2brdfEDkVMfb9UoC4rupxF"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        },
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 263466,
+      "name": "\u7af6\u5bb4Red\u00d7Violet",
+      "url": "https://open.spotify.com/track/2sfhkbecN4x8DkdydVZzOP"
+    },
+    {
+      "added_at": "2023-09-21 16:51:36",
+      "album": {
         "name": "ZEAL of proud",
         "url": "https://open.spotify.com/album/0UEMFucTRzadENAzk8wMgU"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 315400,
       "name": "Sing Alive",
       "url": "https://open.spotify.com/track/59TG3QLUt4mvnPKY07H5la"
-    },
-    {
-      "added_at": "2023-09-21 16:51:36",
-      "album": {
-        "name": "\u5287\u5834\u7248\u300cBanG Dream! FILM LIVE 2nd Stage\u300dSpecial Songs",
-        "url": "https://open.spotify.com/album/2brdfEDkVMfb9UoC4rupxF"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        },
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 263466,
-      "name": "\u7af6\u5bb4Red\u00d7Violet",
-      "url": "https://open.spotify.com/track/2sfhkbecN4x8DkdydVZzOP"
     },
     {
       "added_at": "2023-09-21 16:51:36",

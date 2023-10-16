@@ -767,6 +767,24 @@
     },
     {
       "album": {
+        "name": "Berliner Luft",
+        "url": "https://open.spotify.com/album/1xFckVvFnZHPFKzfAD8C9y"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "date_added": "2023-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "Berliner Luft",
+      "url": "https://open.spotify.com/track/64lgs61f7TyLK6SynOZXjk"
+    },
+    {
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/6RRHmdUHYC0dL6Z15WbXgg"
       },

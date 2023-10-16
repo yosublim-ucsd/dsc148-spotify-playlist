@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,282 likes - 52 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,291 likes - 52 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 20 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/3K2FgVaJdVXREA2Jqtklz4) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/5ZewnnB7qrA7r5eK4zQxMB) | 2:51 |
 | 21 | [What Child Is This](https://open.spotify.com/track/2ITVOYAPc3tUdqtqt4fIdk) | [Jill Pitz](https://open.spotify.com/artist/0q4Gc8YuoF6mB9RHIi9FDQ), [Marjorie Hanna](https://open.spotify.com/artist/2QYf4fFPNKLq2miKubXR0n) | [The First Noel](https://open.spotify.com/album/123hrI7QAnWUXiZHVgKHca) | 2:24 |
 | 22 | [Oh Come All Ye Faithful](https://open.spotify.com/track/2bFvadJJ8s0NKFnseW1L3R) | [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [Oh Come All Ye Faithful](https://open.spotify.com/album/0O1s5cB1Fg7gbpaZBaKF0k) | 2:32 |
-| 23 | [O Tannenbaum](https://open.spotify.com/track/6x3dy83g7vEmzd6z8wCVhK) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas](https://open.spotify.com/album/4dZqm3SWryHNPXOPJ39AyP) | 2:30 |
+| 23 | [O Tannenbaum](https://open.spotify.com/track/3giODUg7yq7Noolv09NY7Y) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 2:32 |
 | 24 | [Entre le bœuf et l'âne gris \(Arr\. R\. Hayward for Guitar\)](https://open.spotify.com/track/6xT8cqiLYkHJIy2HaHC9ef) | [Rossini Hayward](https://open.spotify.com/artist/5EvaMEwPzhyR6T3quNHR1K) | [Stille Nacht: Christmas Carols for Guitar](https://open.spotify.com/album/3d5QmcTIJsOuQh2mU50x8F) | 2:14 |
 | 25 | [Candlelight Carol](https://open.spotify.com/track/79iIraI9M4e0zWht6rE50N) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [Wayne Marshall](https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u) | [Candlelight Carol](https://open.spotify.com/album/1Dttw1GpfmxFcz48e46STq) | 2:47 |
 | 26 | [What Sweeter Music](https://open.spotify.com/track/0vm7QUQN5oSsgCpTaktYvm) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [Wayne Marshall](https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u) | [What Sweeter Music](https://open.spotify.com/album/5VYwzFtbdFy2k6RfpmWsM7) | 4:17 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 51 | [O Come, O Come Emmanuel 2018](https://open.spotify.com/track/0Xy3LwJFQfx7yQRRgdG5Wo) | [Louis Landon](https://open.spotify.com/artist/43Ybg5x9TrGovf70jSMzah) | [O Come, O Come Emmanuel 2018](https://open.spotify.com/album/2XSpLg6Gri2GupXZxP7K6j) | 3:05 |
 | 52 | [Veni, veni Emmanuel \(arr\. A\. Delmoni\)](https://open.spotify.com/track/2kMIPXDydaTNVdQFcWzYEF) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 2:22 |
 
-Snapshot ID: `MCwyNmMxZmE3YzFhMDRiOWQ1NTdlODM0YjA0YjVkZDcwZDk5ZDYxMzkw`
+Snapshot ID: `MCwyZjBjOGIwNjViMGI2ZmY4ZjE0NmZmMmQwNmYyYmIwZTQ3ODdkYmU0`

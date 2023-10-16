@@ -801,6 +801,28 @@
     },
     {
       "album": {
+        "name": "CAVES",
+        "url": "https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249466,
+      "name": "Dreams (feat. Judah & The Lion)",
+      "url": "https://open.spotify.com/track/6upqycHdFZkd1JzVeqjnGo"
+    },
+    {
+      "album": {
         "name": "Drive You Home",
         "url": "https://open.spotify.com/album/5N626BClwWdlR9Ks3vOgRX"
       },
@@ -1194,7 +1216,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 270120,
       "name": "Glenfern",
       "url": "https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D"
@@ -1868,7 +1890,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 266053,
       "name": "If I Was",
       "url": "https://open.spotify.com/track/5n6BdIWBSpkfjZ29JP7WzK"
@@ -3818,6 +3840,24 @@
       "duration_ms": 250480,
       "name": "The First Day",
       "url": "https://open.spotify.com/track/54ocv5qsX6eIjk8C5AyRpT"
+    },
+    {
+      "album": {
+        "name": "Slow Lightning",
+        "url": "https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238186,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr"
     },
     {
       "album": {

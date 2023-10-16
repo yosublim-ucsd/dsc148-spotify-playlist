@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 237696,
+  "num_followers": 237790,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjJlOGMxNmEyODAxYjI4ODIwMGUzNThkOGFiODJiMjg4NDFmMGM5",
+  "snapshot_id": "MCwzYmJkZjg0OWRlNTFlNTFjZDcwYzBlYTAyNWRmZmY1N2UyZmVjN2Fi",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Midnight Microdose, Vol. 2",
-        "url": "https://open.spotify.com/album/3nZfR3g2APtjLlOOE3h6jL"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        }
-      ],
-      "duration_ms": 92852,
-      "name": "Ain't Mine",
-      "url": "https://open.spotify.com/track/267UZx3gyAvNKiEVmpl915"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Diversion",
         "url": "https://open.spotify.com/album/1qmpNeGmGgnBYgCRttwEB5"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 162000,
       "name": "Diversion",
       "url": "https://open.spotify.com/track/4dA7Ha7ojACVDMtPVsm5nO"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Midnight Microdose, Vol. 2",
+        "url": "https://open.spotify.com/album/3nZfR3g2APtjLlOOE3h6jL"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "duration_ms": 92852,
+      "name": "Ain't Mine",
+      "url": "https://open.spotify.com/track/267UZx3gyAvNKiEVmpl915"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Save Me, Pt. 2",
-        "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        }
-      ],
-      "duration_ms": 151569,
-      "name": "Save Me, Pt. 2",
-      "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "On Mine",
         "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 143986,
       "name": "On Mine",
       "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Save Me, Pt. 2",
+        "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "duration_ms": 151569,
+      "name": "Save Me, Pt. 2",
+      "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A"
+      },
+      "artists": [
+        {
+          "name": "Miss Lafamilia",
+          "url": "https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9"
+        }
+      ],
+      "duration_ms": 173909,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Headlights",
         "url": "https://open.spotify.com/album/2OqSKDW0ZotjVuZPrg15N8"
       },
@@ -1511,38 +1527,6 @@
       "duration_ms": 173373,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/1eiPx1hsXwBUnrSqmaygUx"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/5NeVFESnfQbNb14PTKn3y4"
-      },
-      "artists": [
-        {
-          "name": "Sky Feliz",
-          "url": "https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O"
-        }
-      ],
-      "duration_ms": 152562,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/50YvgSEJQpNlvOaTNJzwnk"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT"
-      },
-      "artists": [
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        }
-      ],
-      "duration_ms": 183996,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1563,18 +1547,34 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/1bxGp98YJlaWr6nLaBIvHp"
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT"
       },
       "artists": [
         {
-          "name": "Natalie La Rose",
-          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
         }
       ],
-      "duration_ms": 186268,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/1YoaC97vl8UBcXM9J0V3ro"
+      "duration_ms": 183996,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/5NeVFESnfQbNb14PTKn3y4"
+      },
+      "artists": [
+        {
+          "name": "Sky Feliz",
+          "url": "https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O"
+        }
+      ],
+      "duration_ms": 152562,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/50YvgSEJQpNlvOaTNJzwnk"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/1bxGp98YJlaWr6nLaBIvHp"
+      },
+      "artists": [
+        {
+          "name": "Natalie La Rose",
+          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
+        }
+      ],
+      "duration_ms": 186268,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/1YoaC97vl8UBcXM9J0V3ro"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 181422,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A"
-      },
-      "artists": [
-        {
-          "name": "Miss Lafamilia",
-          "url": "https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9"
-        }
-      ],
-      "duration_ms": 173909,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1747,22 +1747,18 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "WASTEMAN",
-        "url": "https://open.spotify.com/album/5hkDbZCyoA0kD0vdCbyNBA"
+        "name": "City Girl",
+        "url": "https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn"
       },
       "artists": [
         {
-          "name": "Ezra James",
-          "url": "https://open.spotify.com/artist/1a204anh3vzbv9K6oHhJL8"
-        },
-        {
-          "name": "Malek Lasike",
-          "url": "https://open.spotify.com/artist/5nDVx1nImDgnXayZDWm69e"
+          "name": "Quessswho",
+          "url": "https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ"
         }
       ],
-      "duration_ms": 182222,
-      "name": "WASTEMAN",
-      "url": "https://open.spotify.com/track/6RqUIRQuupESKh8DvgTuRV"
+      "duration_ms": 121263,
+      "name": "City Girl",
+      "url": "https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO"
     }
   ],
   "unique_name": "R&B Magic",

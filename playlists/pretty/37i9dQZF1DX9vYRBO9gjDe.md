@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。10月13日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,376 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,482 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [遥か](https://open.spotify.com/track/5DjOVg4mTlMHWsLREAHe7S) | [Ryujin Kiyoshi](https://open.spotify.com/artist/15c6wAJcxNMHjSZVjgE8VW) | [遥か](https://open.spotify.com/album/3YDS1skzsx5PZk0HspoEm9) | 3:01 |
 | 50 | [Hanaarashi](https://open.spotify.com/track/7appEyBT2D7skgWyyb5klH) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Hanaarashi](https://open.spotify.com/album/1txQrmehD3TKMQ8a5SQrbv) | 3:43 |
 
-Snapshot ID: `MCwzZjE5OGMwNDkxMDI5YTI2OWJmMjZlNTVjMmQ4Zjg2YjVkYjNkYTM1`
+Snapshot ID: `MCw1ZWI5ZThmNjVjNzIwZjgxODU2Yzg0MDY5Y2JlMDljZWZjNjY0YzQ0`

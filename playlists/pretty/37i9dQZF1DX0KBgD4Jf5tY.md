@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:152NNCTZGUSRhS2geGSN4n">.ANAMIRTA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,490 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,493 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [il mio lato migliore](https://open.spotify.com/track/6lU5Q0dWDQ2GJjg8dUqA3s) | [d/rose](https://open.spotify.com/artist/6h0OZeWlXrzF2akE3yNBta), [ggiovanni](https://open.spotify.com/artist/1oT8K7RFmacAPafRlcdnw9), [Luke Lecomte](https://open.spotify.com/artist/0R9RQ7VasOltY6d8I5g2Mc), [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L) | [il mio lato migliore](https://open.spotify.com/album/4XRZozYeqW4hjVzh7p2nfN) | 2:21 |
 | 50 | [Colibrì](https://open.spotify.com/track/3fPBScT5S1Bryl2COxBTAv) | [Vesuviano](https://open.spotify.com/artist/3zWZiuJpuHeA18luNoAxgS), [Me3o](https://open.spotify.com/artist/1yB3wVPkajZGhOdRs8n3mJ) | [Colibrì](https://open.spotify.com/album/6QUKuQGSZrlzgYDmYeghmv) | 3:24 |
 
-Snapshot ID: `MCwxMzhkMjM5NmIwZDRhYzdkNTA4NDc4ODdlM2M4N2NlNzliMmJjNzFm`
+Snapshot ID: `MCxhYzRhY2NjZjNmY2M2ZTkwOTI3NGUxMzM1NmZiZDY4OTNmODk0NDBm`

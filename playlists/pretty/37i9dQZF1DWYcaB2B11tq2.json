@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 388743,
+  "num_followers": 388950,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWFhNGJjZDA0MGJkNzBkZjViNjBlZGE0MTAwNjM5YzVmMDE2Yjhh",
+  "snapshot_id": "MCwyNGM1ZGIwN2JjZDA0YjI5NWVhZWFkODU0MGEzNDI3NjA1MzRiOGY1",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -315,22 +315,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 499506,
-      "name": "Here as in Heaven",
-      "url": "https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Promesas",
         "url": "https://open.spotify.com/album/6AhZUgRb9ONblfzevQACl8"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 215925,
       "name": "Vida Encontr\u00e9",
       "url": "https://open.spotify.com/track/2WDjQMjOyMmgMPc3mNBJoz"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 499506,
+      "name": "Here as in Heaven",
+      "url": "https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -419,6 +419,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Me sostendr\u00e1",
+        "url": "https://open.spotify.com/album/5Tzxd9msntOlKgLeXMlwbS"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 325198,
+      "name": "Me sostendr\u00e1",
+      "url": "https://open.spotify.com/track/7zxuPZFuueFBEj8HkqQSSY"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Como En El Cielo (En Vivo)",
         "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
       },
@@ -431,26 +447,6 @@
       "duration_ms": 395320,
       "name": "Incre\u00edble (En Vivo)",
       "url": "https://open.spotify.com/track/4hcRAkZDzCTCH9qGQwls8e"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Incontenible Es Tu Amor",
-        "url": "https://open.spotify.com/album/3US7xplIUPp647q67nCMS0"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        },
-        {
-          "name": "Omar Rodriguez Music",
-          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
-        }
-      ],
-      "duration_ms": 333217,
-      "name": "El Gran Yo Soy",
-      "url": "https://open.spotify.com/track/7sS0PbgE6pUsaCXuaDpKIM"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -471,18 +467,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Kingdom Come",
-        "url": "https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH"
+        "name": "Incontenible Es Tu Amor",
+        "url": "https://open.spotify.com/album/3US7xplIUPp647q67nCMS0"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        },
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
         }
       ],
-      "duration_ms": 294800,
-      "name": "Give Me Faith",
-      "url": "https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8"
+      "duration_ms": 333217,
+      "name": "El Gran Yo Soy",
+      "url": "https://open.spotify.com/track/7sS0PbgE6pUsaCXuaDpKIM"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -523,18 +523,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Me sostendr\u00e1",
-        "url": "https://open.spotify.com/album/5Tzxd9msntOlKgLeXMlwbS"
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH"
       },
       "artists": [
         {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 325198,
-      "name": "Me sostendr\u00e1",
-      "url": "https://open.spotify.com/track/7zxuPZFuueFBEj8HkqQSSY"
+      "duration_ms": 294800,
+      "name": "Give Me Faith",
+      "url": "https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -795,18 +795,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "En Esto Creo (Live)",
-        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
+        "name": "GOZO",
+        "url": "https://open.spotify.com/album/59dQZ1gOKCaoWhYLx9SIwj"
       },
       "artists": [
         {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
         }
       ],
-      "duration_ms": 259613,
-      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
-      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
+      "duration_ms": 237367,
+      "name": "GOZO",
+      "url": "https://open.spotify.com/track/6kp2PJxAraS3t4nek5zqYO"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -827,22 +831,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "GOZO",
-        "url": "https://open.spotify.com/album/59dQZ1gOKCaoWhYLx9SIwj"
+        "name": "En Esto Creo (Live)",
+        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
       },
       "artists": [
         {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
         }
       ],
-      "duration_ms": 237367,
-      "name": "GOZO",
-      "url": "https://open.spotify.com/track/6kp2PJxAraS3t4nek5zqYO"
+      "duration_ms": 259613,
+      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
+      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -883,6 +883,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Jes\u00fas en el Centro (En Vivo)",
+        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 402626,
+      "name": "Jesus En El Centro - Live",
+      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Fierce (Studio Version)",
         "url": "https://open.spotify.com/album/5KLi1WXy0wZdtGYVkujZkW"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 222186,
       "name": "Fierce - Studio Version",
       "url": "https://open.spotify.com/track/35jVid0Qi789ypoem4KMrs"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Jes\u00fas en el Centro (En Vivo)",
-        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 402626,
-      "name": "Jesus En El Centro - Live",
-      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1143,26 +1143,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Ama A Dios Y A Tu Vecino",
-        "url": "https://open.spotify.com/album/7cIlbOk2EXPl3ZBkuYDSnG"
+        "name": "Jes\u00fas (feat. Marcos Witt)",
+        "url": "https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u"
       },
       "artists": [
         {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        },
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 206133,
-      "name": "Ama A Dios Y A Tu Vecino",
-      "url": "https://open.spotify.com/track/0ZIzGwc3j4lVacHR1c5DKb"
+      "duration_ms": 305981,
+      "name": "Jes\u00fas (feat. Marcos Witt)",
+      "url": "https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1219,18 +1211,26 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Jes\u00fas (feat. Marcos Witt)",
-        "url": "https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u"
+        "name": "Ama A Dios Y A Tu Vecino",
+        "url": "https://open.spotify.com/album/7cIlbOk2EXPl3ZBkuYDSnG"
       },
       "artists": [
         {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
         }
       ],
-      "duration_ms": 305981,
-      "name": "Jes\u00fas (feat. Marcos Witt)",
-      "url": "https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR"
+      "duration_ms": 206133,
+      "name": "Ama A Dios Y A Tu Vecino",
+      "url": "https://open.spotify.com/track/0ZIzGwc3j4lVacHR1c5DKb"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Jes\u00fas Salva",
+        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "duration_ms": 308253,
+      "name": "Abre hoy los cielos",
+      "url": "https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Alumbras Mi Vida",
         "url": "https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH"
       },
@@ -1283,22 +1303,6 @@
       "duration_ms": 182857,
       "name": "T\u00fa Eres Mi Gozo",
       "url": "https://open.spotify.com/track/2SVhGun9Yxilg54n0r6MVb"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Ha Vencido, Ha Triunfado",
-        "url": "https://open.spotify.com/album/1FRK1QimwIYurLiKbpngDl"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        }
-      ],
-      "duration_ms": 361253,
-      "name": "Digno Es El Se\u00f1or",
-      "url": "https://open.spotify.com/track/5TCqiDV3pfwqblGQTIHreC"
     }
   ],
   "unique_name": "Creo En Ti",

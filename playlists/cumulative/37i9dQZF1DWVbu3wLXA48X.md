@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: boygenius
 
-1,227 songs - 3 day 2 hr 2 min
+1,228 songs - 3 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,7 +838,8 @@
 | [Quiet Storm](https://open.spotify.com/track/4kxWObbqqWeazNTK5ESCxg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Sidharth](https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM) | 5:40 | 2023-08-25 | 2023-09-16 |
 | [Quilt of Steam](https://open.spotify.com/track/0ZVUxuPLkIswDAxiACZPxM) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Quilt of Steam](https://open.spotify.com/album/7JBq28iBb2RIh8TgULDo3N) | 3:31 | 2023-09-11 | 2023-10-14 |
 | [quite like u](https://open.spotify.com/track/0GQJkqfrcUCkLlFE6YBvt9) | [Darren & Cashwell](https://open.spotify.com/artist/047tIYfc2xQ4IlQvKwKeh6) | [quite like u](https://open.spotify.com/album/5TQ9dOAu9zJw2gg7kRCCs1) | 2:34 | 2023-06-09 | 2023-07-07 |
-| [r\(EMOTE\)](https://open.spotify.com/track/3iOMiZlt4gEeQsEgnW0MeQ) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [r\(EMOTE\)](https://open.spotify.com/album/4gYQKBqHDABqdmJuTnSjvS) | 3:41 | 2023-09-29 |  |
+| [r\(EMOTE\)](https://open.spotify.com/track/0j4oE7wt2ejFjqNKRcc2rW) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 3:41 | 2023-10-13 |  |
+| [r\(EMOTE\)](https://open.spotify.com/track/3iOMiZlt4gEeQsEgnW0MeQ) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [r\(EMOTE\)](https://open.spotify.com/album/4gYQKBqHDABqdmJuTnSjvS) | 3:41 | 2023-09-29 | 2023-10-16 |
 | [R.I.P.](https://open.spotify.com/track/1GyscxE7G8aAuR9FSFLkYI) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [I'M MORE SOBER WHEN I'M DRUNK](https://open.spotify.com/album/2Am9K7TWhCBvYPM8cSTUNO) | 3:04 | 2021-12-23 | 2021-12-31 |
 | [Rabbit](https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:36 | 2023-06-09 | 2023-07-22 |
 | [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 | 2022-07-01 | 2022-08-05 |

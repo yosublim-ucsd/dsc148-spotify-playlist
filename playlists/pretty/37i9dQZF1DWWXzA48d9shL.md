@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: City Morgue
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,969 likes - 106 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,372 likes - 106 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 90 | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/track/6DWdGTNqa7jeGcAP1yJ8hO) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/album/28BNfedhV05VUB2tVC79tt) | 3:10 |
 | 91 | [from up on silent hill](https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [from up on silent hill](https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ) | 2:30 |
 | 92 | [Bitch Again](https://open.spotify.com/track/0sm3gJGMnyY22jt0UokKTx) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Bitch Again](https://open.spotify.com/album/3a2nWZdcivOmcvfnp7HQ2Y) | 3:19 |
-| 93 | [Eye Spy](https://open.spotify.com/track/0JSZ9N0NVLTR6N16YpTyp3) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Eye Spy](https://open.spotify.com/album/4XQRSMdDwj2LfZS1SaQoXB) | 2:26 |
+| 93 | [EYE SPY](https://open.spotify.com/track/0JSZ9N0NVLTR6N16YpTyp3) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [EYE SPY](https://open.spotify.com/album/4XQRSMdDwj2LfZS1SaQoXB) | 2:26 |
 | 94 | [GRAVEWORLD.TV/LIVE](https://open.spotify.com/track/5MrQWiPCl5x6WFuni1hV2p) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL), [Istasha](https://open.spotify.com/artist/5D8TBtxnP5GZm9wUBQ8OTc), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [GRAVEWORLD.TV/LIVE](https://open.spotify.com/album/6sdW9d68koNLQXuchDsJLN) | 2:48 |
 | 95 | [I SAW HIM IN THE METAVERSE HE IS A BITCH THERE TOO.](https://open.spotify.com/track/5YlUuBa1ksvlWjqI9Uqmhu) | [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB), [All But 6](https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US) | [I SAW HIM IN THE METAVERSE HE IS A BITCH THERE TOO.](https://open.spotify.com/album/6JfAaVEfkuNVR4pOnGg3mB) | 2:03 |
 | 96 | [SCARING THE HOES](https://open.spotify.com/track/5L0QxWi5Jo4gjw4yHR0kP1) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/2W8QmJ48TFvnkjrrQOHDBR) | 2:22 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 105 | [MONEY POWER FAME](https://open.spotify.com/track/4EsaTQDXDnD9hsKUjqtSK1) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [MONEY POWER FAME](https://open.spotify.com/album/3X3p3ZZ7VnV5JYwtfHUVQy) | 3:04 |
 | 106 | [GOD MODE!](https://open.spotify.com/track/61ONKytCePkZCWzfipmPhy) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [GOD MODE!](https://open.spotify.com/album/5xqiMjCLUJBOtEM2hsCLaP) | 2:43 |
 
-Snapshot ID: `MCwzNTBkYjQyZDRhNWQ2OThhOWZjMzAyNWJiZGM4MDQ4YzQ5OWI4NmY5`
+Snapshot ID: `MCw0MWFiOTE0ZTdkNDAxYmI3NmVhYzk4YzQwMTYyNWQ2ODA5OWMwZWM1`

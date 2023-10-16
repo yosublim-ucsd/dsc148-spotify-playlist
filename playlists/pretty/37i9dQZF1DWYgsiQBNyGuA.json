@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 67684,
+  "num_followers": 67766,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzYxYzkyNGJmMDY5MzQ4YjYwZGUwZDU1YTk1ZDU4ZDUwMDZhZTY1",
+  "snapshot_id": "MCw1OTA2ZGQ2ODgzZjE1MGQ5NDZhMzVmMDFkZWJmYzFjYzcwYjM4MmIx",
   "tracks": [
     {
       "added_at": "2023-10-06 09:12:51",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "Soul Revolution",
-        "url": "https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8"
-      },
-      "artists": [
-        {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Positivity",
-      "url": "https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
         "name": "The Way I Feel",
         "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 301960,
       "name": "The Way I Feel",
       "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
+        "name": "Soul Revolution",
+        "url": "https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Positivity",
+      "url": "https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
         "name": "Emma Jean",
         "url": "https://open.spotify.com/album/3u38Zm1pGlCrGZSsUk2396"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
-      },
-      "artists": [
-        {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
-        }
-      ],
-      "duration_ms": 286960,
-      "name": "True",
-      "url": "https://open.spotify.com/track/12Coc139hXMlwp2CinTQ2N"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
         "name": "Lean On Me - The Songs Of Bill Withers (Bonustrack Edition)",
         "url": "https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh"
       },
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "Movin' On",
-        "url": "https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID"
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
       },
       "artists": [
         {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
         }
       ],
-      "duration_ms": 214666,
-      "name": "Movin' On",
-      "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
+      "duration_ms": 286960,
+      "name": "True",
+      "url": "https://open.spotify.com/track/12Coc139hXMlwp2CinTQ2N"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -1071,22 +1071,6 @@
       "duration_ms": 209524,
       "name": "Feels So Good Don\u2019t It",
       "url": "https://open.spotify.com/track/2zjgiDtc4dutzztejez29k"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
-        "name": "Special Night",
-        "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        }
-      ],
-      "duration_ms": 278160,
-      "name": "Precious Love",
-      "url": "https://open.spotify.com/track/4LpFfd70HLdNIoVXZplfxH"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -1171,6 +1155,22 @@
       "duration_ms": 226290,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/0DIcHQUp4f9j4Gym2Kn8nm"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
+        "name": "Special Night",
+        "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        }
+      ],
+      "duration_ms": 278160,
+      "name": "Precious Love",
+      "url": "https://open.spotify.com/track/4LpFfd70HLdNIoVXZplfxH"
     },
     {
       "added_at": "2023-10-06 09:12:51",

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 276773,
+  "num_followers": 276779,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGFmOTE5YzkxNTgxOTVjOTllNzVmYmRjYmE1YzM5YzY1OGQ3ODg1",
+  "snapshot_id": "MCwzMjE5Yjc3Y2MxN2Q5ZDNjMWZkZWY4OTU0M2RjM2Y0YjgzZDVhZmU4",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 223429,
+      "name": "Latch - Acoustic",
+      "url": "https://open.spotify.com/track/1dOQwrGmaSWotCvZwD9CK3"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) [Acoustic]",
         "url": "https://open.spotify.com/album/5Q41hlQpul1txWWurdTHtY"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 257357,
       "name": "Scared to Be Lonely - Acoustic Version",
       "url": "https://open.spotify.com/track/29CjkGjZnDVdJsfbRoNOGJ"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 223429,
-      "name": "Latch - Acoustic",
-      "url": "https://open.spotify.com/track/1dOQwrGmaSWotCvZwD9CK3"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Believe In The Kingdom",
-        "url": "https://open.spotify.com/album/4sE1bvg8n6rQ7kKk63zwIB"
-      },
-      "artists": [
-        {
-          "name": "King Topher",
-          "url": "https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2"
-        },
-        {
-          "name": "Meaco",
-          "url": "https://open.spotify.com/artist/5UwpTlMi49AhrEbQK71xNh"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Praise You (feat. Meaco) - Chill Mix",
-      "url": "https://open.spotify.com/track/36ILWiQk8S98bGF3waUpna"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Brand New Machine",
         "url": "https://open.spotify.com/album/5gWfcBhMIrPxudHnnMXSdX"
       },
@@ -887,22 +867,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "The Acoustics",
-        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
+        "name": "Believe In The Kingdom",
+        "url": "https://open.spotify.com/album/4sE1bvg8n6rQ7kKk63zwIB"
       },
       "artists": [
         {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+          "name": "King Topher",
+          "url": "https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2"
         },
         {
-          "name": "BullySongs",
-          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
+          "name": "Meaco",
+          "url": "https://open.spotify.com/artist/5UwpTlMi49AhrEbQK71xNh"
         }
       ],
-      "duration_ms": 161724,
-      "name": "Walking With Shadows - Acoustic Version",
-      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
+      "duration_ms": 201600,
+      "name": "Praise You (feat. Meaco) - Chill Mix",
+      "url": "https://open.spotify.com/track/36ILWiQk8S98bGF3waUpna"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -939,6 +919,26 @@
       "duration_ms": 282744,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "The Acoustics",
+        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        },
+        {
+          "name": "BullySongs",
+          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
+        }
+      ],
+      "duration_ms": 161724,
+      "name": "Walking With Shadows - Acoustic Version",
+      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Say Nothing (MAY-A\u2019s Version)",
-        "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
-      },
-      "artists": [
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 217894,
-      "name": "Say Nothing - MAY-A\u2019s Version",
-      "url": "https://open.spotify.com/track/4pIuWMo1pUkVGId6w2Ib3T"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Brighter Future",
         "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 139701,
       "name": "Long Time Coming",
       "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Say Nothing (MAY-A\u2019s Version)",
+        "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 217894,
+      "name": "Say Nothing - MAY-A\u2019s Version",
+      "url": "https://open.spotify.com/track/4pIuWMo1pUkVGId6w2Ib3T"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "End Of The World (Acoustic Mix)",
-        "url": "https://open.spotify.com/album/3VqFvPSRWDlD6UqtxvL2cU"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        },
-        {
-          "name": "Jonathan Mendelsohn",
-          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "End Of The World - Acoustic Mix",
-      "url": "https://open.spotify.com/track/1K2qPDIqk0DdvAsARjCmGt"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Watch the World",
         "url": "https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 187333,
       "name": "Living Without You - Acoustic",
       "url": "https://open.spotify.com/track/6jgDBaX7ZxirvxpvCRpiaN"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "End Of The World (Acoustic Mix)",
+        "url": "https://open.spotify.com/album/3VqFvPSRWDlD6UqtxvL2cU"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "End Of The World - Acoustic Mix",
+      "url": "https://open.spotify.com/track/1K2qPDIqk0DdvAsARjCmGt"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1967,22 +1967,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Where Did You Go? (Acoustic)",
-        "url": "https://open.spotify.com/album/41LZiXValPCTFoxZx6NqT2"
+        "name": "Radio (Acoustic)",
+        "url": "https://open.spotify.com/album/10Hl762MrDumKQuu8zyN9T"
       },
       "artists": [
         {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
           "name": "MNEK",
           "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
         }
       ],
-      "duration_ms": 202680,
-      "name": "Where Did You Go? - Acoustic",
-      "url": "https://open.spotify.com/track/5AHam2qo8G5SqYtmqVIAq6"
+      "duration_ms": 138048,
+      "name": "Radio - Acoustic",
+      "url": "https://open.spotify.com/track/2uKhQnXkSC1Twp0sdFKty3"
     }
   ],
   "unique_name": "mint Acoustic",

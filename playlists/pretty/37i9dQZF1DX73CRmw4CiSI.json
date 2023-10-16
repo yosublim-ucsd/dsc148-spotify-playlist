@@ -1,12 +1,12 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 79732,
+  "num_followers": 79804,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmMxMGEzYjlkZTE4NzdmMGFkZTMxODAxMDE5NDIxODg3ZTA4MTky",
+  "snapshot_id": "MCxjMTAzMTBjMjAxOTZjNmU2OTVhNmNkOGIwZjgzNDQ0YjQyOWZmMjlm",
   "tracks": [
     {
       "added_at": "2022-01-25 22:47:02",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "4 Canciones",
-        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
-      },
-      "artists": [
-        {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
-        }
-      ],
-      "duration_ms": 254840,
-      "name": "No Puedo Vivir Sin Ti",
-      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Buenos Muchachos",
         "url": "https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM"
       },
@@ -259,18 +243,18 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "El Sentimiento Garrapatero Que Nos Traen Las Flores",
-        "url": "https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt"
+        "name": "4 Canciones",
+        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
       },
       "artists": [
         {
-          "name": "Los Delinquentes",
-          "url": "https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd"
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
         }
       ],
-      "duration_ms": 186733,
-      "name": "El aire de la calle",
-      "url": "https://open.spotify.com/track/2PaETSKl3w3IdtLIbDnQXJ"
+      "duration_ms": 254840,
+      "name": "No Puedo Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -287,6 +271,22 @@
       "duration_ms": 220626,
       "name": "Quiero tener tu presencia",
       "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "El Sentimiento Garrapatero Que Nos Traen Las Flores",
+        "url": "https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt"
+      },
+      "artists": [
+        {
+          "name": "Los Delinquentes",
+          "url": "https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "El aire de la calle",
+      "url": "https://open.spotify.com/track/2PaETSKl3w3IdtLIbDnQXJ"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "El Sentimiento Garrapatero Que Nos Traen Las Flores",
-        "url": "https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt"
-      },
-      "artists": [
-        {
-          "name": "Los Delinquentes",
-          "url": "https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd"
-        }
-      ],
-      "duration_ms": 251720,
-      "name": "A la luz del Lorenzo",
-      "url": "https://open.spotify.com/track/6bMRELN9nclL87w9XEMMnw"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Al calor del amor en un bar",
         "url": "https://open.spotify.com/album/6trh5fT753w9Si8rdigFGm"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 170680,
       "name": "El calor del amor en un bar",
       "url": "https://open.spotify.com/track/0AFJOoRQFlo10Vm1p6BRjg"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "El Sentimiento Garrapatero Que Nos Traen Las Flores",
+        "url": "https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt"
+      },
+      "artists": [
+        {
+          "name": "Los Delinquentes",
+          "url": "https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd"
+        }
+      ],
+      "duration_ms": 251720,
+      "name": "A la luz del Lorenzo",
+      "url": "https://open.spotify.com/track/6bMRELN9nclL87w9XEMMnw"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/21s9od2SPFfgFjVxeySFoO"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 El Franc\u00e9s",
-          "url": "https://open.spotify.com/artist/1p2r4UTpZX8aIWktEuvpax"
-        }
-      ],
-      "duration_ms": 282293,
-      "name": "Fuera de Mi - Ya No Quiero Tu Querer - Version Remix",
-      "url": "https://open.spotify.com/track/4GW6K2liIcrKLkKgEMg368"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Cosas Mias",
         "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 217573,
       "name": "Isla de Palma",
       "url": "https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/21s9od2SPFfgFjVxeySFoO"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 El Franc\u00e9s",
+          "url": "https://open.spotify.com/artist/1p2r4UTpZX8aIWktEuvpax"
+        }
+      ],
+      "duration_ms": 282293,
+      "name": "Fuera de Mi - Ya No Quiero Tu Querer - Version Remix",
+      "url": "https://open.spotify.com/track/4GW6K2liIcrKLkKgEMg368"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1493,7 +1493,7 @@
         }
       ],
       "duration_ms": 277333,
-      "name": "No Estamos Lokos (Kalikeno)",
+      "name": "No Estamos Lokos - Kalike\u00f1o",
       "url": "https://open.spotify.com/track/6qD5Tep3hEoRDQUpyrrDLK"
     }
   ],

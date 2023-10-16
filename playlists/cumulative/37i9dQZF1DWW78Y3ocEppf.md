@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: VEDO
 
-573 songs - 1 day 5 hr 58 min
+574 songs - 1 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2 O'Clock](https://open.spotify.com/track/0atUrqW5RpvfSlHCYBl4Qz) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:50 | 2023-02-03 | 2023-02-18 |
 | [2 You](https://open.spotify.com/track/0OEKGHJFPl3qI3BMsyqhzc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [2 You](https://open.spotify.com/album/59QHpipNvxJcD0fSHUnHmo) | 3:04 | 2021-12-15 | 2022-07-28 |
 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-18 | 2023-09-25 |
+| [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 | 2023-08-18 |  |
 | [212](https://open.spotify.com/track/5dPXwjX9VgldfSkl5IFnYy) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [212](https://open.spotify.com/album/3zgMK2eV0XgSjoxfCk6vnk) | 2:26 | 2023-05-05 |  |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-02-24 | 2023-07-29 |
 | [2AM](https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 4:02 | 2022-06-10 | 2022-12-03 |
@@ -319,7 +320,7 @@
 | [Maddest Hoes](https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Maddest Hoes](https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU) | 2:34 | 2023-05-05 | 2023-08-17 |
 | [Make Me \- Remix](https://open.spotify.com/track/0K6ffjkgxKnkLlWV1XLLzP) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Make Me \(Remix\)](https://open.spotify.com/album/5mtHKQCQXayMQo3XzmsPaG) | 3:41 | 2022-02-18 | 2022-07-22 |
 | [Make Me Stay](https://open.spotify.com/track/3REQkt60mafExNVnJehMdL) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 2:52 | 2022-10-28 | 2023-10-07 |
-| [Man on Fire](https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Pretty Conversation](https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U) | 2:24 | 2023-06-16 |  |
+| [Man on Fire](https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Pretty Conversation](https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U) | 2:24 | 2023-06-16 | 2023-10-16 |
 | [Man on Fire](https://open.spotify.com/track/2sj3vQG3dgYgGVmr3J4HXH) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Man on Fire](https://open.spotify.com/album/0pTpY3EXd0aC1xCilBsG5v) | 2:24 | 2023-06-16 | 2023-09-08 |
 | [Man on Fire](https://open.spotify.com/track/51lVe8EdMDeH81kkoqlhD5) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Man on Fire](https://open.spotify.com/album/14f7KXWYCNHaOMVOdrMRAp) | 2:24 | 2023-06-16 | 2023-08-05 |
 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2022-03-25 | 2022-09-24 |

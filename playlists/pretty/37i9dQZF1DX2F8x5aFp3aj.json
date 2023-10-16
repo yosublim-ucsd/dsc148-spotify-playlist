@@ -1,12 +1,12 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. Foto: The Cure",
-  "num_followers": 172515,
+  "num_followers": 172715,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGIwMDkwYThkMzA0NTU3NzczMGM4NDQzMTNkMTUxZGE5ZGExOTIw",
+  "snapshot_id": "MCw1YTNhM2IxNTg1MzhiZWQ3YzY5Y2E4YzU2MzIyMGU0MmE5YWU2Zjlj",
   "tracks": [
     {
       "added_at": "2023-01-19 21:29:10",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "I Hate Myself for Loving You",
-      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Forever Young (Super Deluxe Edition; 2019 Remaster)",
         "url": "https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 284625,
       "name": "Big in Japan - 2019 Remaster",
       "url": "https://open.spotify.com/track/7wnagOAqma4Sg6JOGjWr5R"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "I Hate Myself for Loving You",
+      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 448466,
-      "name": "Pictures of You - 2010 Remaster",
-      "url": "https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Voices Carry (Expanded Edition)",
         "url": "https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 263573,
       "name": "Voices Carry",
       "url": "https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 448466,
+      "name": "Pictures of You - 2010 Remaster",
+      "url": "https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 176596,
+      "name": "In God's Country",
+      "url": "https://open.spotify.com/track/1AQYE6CcYKlzM8e9Df5i1g"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
         "name": "Asia",
         "url": "https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl"
       },
@@ -1183,34 +1199,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
+        "name": "Night Time",
+        "url": "https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
         }
       ],
-      "duration_ms": 249880,
-      "name": "Lullaby - 2010 Remaster",
-      "url": "https://open.spotify.com/track/4d4oXk7O2lEhZ83ivV93li"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 176596,
-      "name": "In God's Country",
-      "url": "https://open.spotify.com/track/1AQYE6CcYKlzM8e9Df5i1g"
+      "duration_ms": 239280,
+      "name": "Eighties - 2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M"
     }
   ],
   "unique_name": "Oscuros 80",

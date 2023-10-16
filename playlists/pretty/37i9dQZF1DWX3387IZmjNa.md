@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Fridayy
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,022,881 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,023,009 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 49 | [Favorite Song \(feat\. Future\) \[Toxic Version\]](https://open.spotify.com/track/6bdzSqnvBWrvq8HLmxZUCC) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Favorite Song \(feat\. Future\) \[Toxic Version\]](https://open.spotify.com/album/6PnM3rGkpZJ0Q9JoxnjnuH) | 3:28 |
 | 50 | [3AM in Oakland](https://open.spotify.com/track/104f3GOgOZkTfHkhK21oge) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [3AM in Oakland](https://open.spotify.com/album/6fypcxh577ibSA2kOKfyl2) | 3:26 |
 
-Snapshot ID: `MCw0MmRkODRjMGMxZmE5OGRkNzEwNmMyM2IzNWI4YmI5ZWNmNWNjNTE3`
+Snapshot ID: `MCwxMjliNjU2YjdhNzNmNWNjYjRkZmU2Yjk2MzFiYmU1OGE5YWY2MTVm`

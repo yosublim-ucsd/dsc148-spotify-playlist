@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: The HU",
-  "num_followers": 336832,
+  "num_followers": 336951,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTE0MTQ0MjQzMTMwOWVkYWI5ZmYzY2ZlODg1M2JmODdmMWE5OGM0",
+  "snapshot_id": "MCxkZWEwNWI3MzkzODRjZmVmMzFmZTkzODI3Y2YyY2JlMGFhMWQ1NTdm",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -835,18 +835,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/7nDKLEaD3NhoIWwlRblMuW"
+        "name": "Patient Number 9",
+        "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
       },
       "artists": [
         {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 177656,
-      "name": "Legends Never Die",
-      "url": "https://open.spotify.com/track/6jvrbttMyyBQuauXB6b7zy"
+      "duration_ms": 280206,
+      "name": "One of Those Days (feat. Eric Clapton)",
+      "url": "https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5"
     }
   ],
   "unique_name": "Hard Rock",

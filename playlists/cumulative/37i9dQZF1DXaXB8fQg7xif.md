@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,011 songs - 2 day 6 hr 48 min
+1,012 songs - 2 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Everybody Wants To Party](https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Everybody Wants To Party](https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj) | 3:04 | 2021-02-28 | 2022-12-15 |
 | [Everyone](https://open.spotify.com/track/1b27zUMtkjBkLpxtK77gR8) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Everyone](https://open.spotify.com/album/5r0RFbLJaZ1u7PLuL6Dk8C) | 3:06 | 2020-10-13 | 2021-10-11 |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-03-17 | 2023-07-21 |
-| [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 | 2023-09-01 |  |
+| [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 | 2023-09-01 | 2023-10-16 |
 | [Expressing What Matters](https://open.spotify.com/track/1cz5UfKK1ZCKYMylCHsUI6) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Etran](https://open.spotify.com/album/2X0qQbmpTzSmURWNSjxEUU) | 4:23 | 2020-07-01 | 2020-12-12 |
 | [Eyes On You](https://open.spotify.com/track/1evX3NUBE7QujnSmky2ox4) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Eyes On You](https://open.spotify.com/album/6UiYJyJVz6xIwlYOL6g4WI) | 3:22 | 2021-11-21 | 2022-07-29 |
 | [F.O.M.F\. \- Petty Penguin Remix](https://open.spotify.com/track/44qpw2NGXSLCbQsDc1UZKg) | [DJ Tazz Xx](https://open.spotify.com/artist/21mCpgs4IhPMGKOhotkra7), [Koolby Loach](https://open.spotify.com/artist/2zfv2f7qJNhGCVMPosuhj4), [Petty Penguin](https://open.spotify.com/artist/06Sz7X326yoBcrGtAEIiv0) | [F.O.M.F\. \(Petty Penguin Remix\)](https://open.spotify.com/album/48KNcThC969iwTkT4jp1DM) | 2:24 | 2021-02-28 | 2021-12-20 |
@@ -779,6 +779,7 @@
 | [Saturday Love](https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Dino DZ](https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si) | [Saturday Love](https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6) | 2:21 | 2023-05-26 |  |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-05-13 | 2022-08-15 |
 | [Save the Rave](https://open.spotify.com/track/0mxjKriHsdi8zKiBTWIOrT) | [Tommie Sunshine](https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo), [MureKian](https://open.spotify.com/artist/4UhhnJQyqAsw82qwRNCU7R), [Sabrina Signs](https://open.spotify.com/artist/30XgRdKEsS1c8RkOYYiTbu) | [Save the Rave](https://open.spotify.com/album/5M5Rx6ZeoZgX1jpJ62d6t6) | 3:37 | 2020-05-22\* | 2021-12-21 |
+| [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2023-10-13 |  |
 | [Sax In The City](https://open.spotify.com/track/7hBW4xLLxjcg6cEPFCznD8) | [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2), [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Sax In The City](https://open.spotify.com/album/7x5gVB98UKkoG2hceZL8a9) | 2:52 | 2020-11-03 | 2021-12-03 |
 | [Say A Little Prayer](https://open.spotify.com/track/5dYZ382ddDN8xBdJLx7d9e) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Amazonian Rockstar](https://open.spotify.com/artist/3xlmQmCJ52Ip0bktQWPUG4) | [Say A Little Prayer](https://open.spotify.com/album/24R2FgklbS0E9JTpNQiZrf) | 3:29 | 2022-04-01 | 2022-08-20 |
 | [Say Say Say \(feat\. Paul McCartney & Michael Jackson\)](https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Say Say Say \(feat\. Paul McCartney & Michael Jackson\)](https://open.spotify.com/album/1oIy8CYApH9VUB73DqUvPT) | 2:55 | 2023-04-06 |  |

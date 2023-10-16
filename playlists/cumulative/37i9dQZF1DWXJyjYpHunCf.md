@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: David Kushner
 
-312 songs - 18 hr 1 min
+313 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Don't Be a Stranger \(feat\. Cam\) \- Acoustic Version](https://open.spotify.com/track/7jXAuEBIcb3nqRewoSzdxo) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Don't Be a Stranger \(feat\. Cam\) \[Acoustic Version\]](https://open.spotify.com/album/2TYrhUq7pwAXq41k1wl2zU) | 3:21 | 2021-11-12 | 2022-07-29 |
 | [Don't Say](https://open.spotify.com/track/2kCQe2koRNHNdOtOxyKhaO) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Don't Say](https://open.spotify.com/album/5H8Bt6wNnU0DvxVybUQI5k) | 3:21 | 2021-11-12 | 2022-07-29 |
 | [Don't Say](https://open.spotify.com/track/41bZyIzMjq7wx5JxJbc0Dl) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Don't Say](https://open.spotify.com/album/5zjEdsCxqIh5e3q3yPSbl3) | 3:24 | 2022-08-19 | 2022-11-14 |
+| [dopamine](https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [dopamine](https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx) | 2:38 | 2023-10-13 |  |
 | [Doppelgänger](https://open.spotify.com/track/1q9jh0Ov1tk9aaxFVaYzkC) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Doppelgänger](https://open.spotify.com/album/4teZN2PzvrzgLyQ41rO3OH) | 2:52 | 2023-04-14 | 2023-09-23 |
 | [Dreamer](https://open.spotify.com/track/3Q8paSvq4CgMeIcIqu9Dlo) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [Dreamer](https://open.spotify.com/album/2ZoHkOe9n2Ix14B3jwo4KR) | 3:26 | 2022-02-21 | 2022-07-15 |
 | [Dried Up River](https://open.spotify.com/track/6saTpYJv62gbFeRgC7VF82) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Dried Up River](https://open.spotify.com/album/5QveyiS7sznogAxujItLjZ) | 3:51 | 2021-11-12 | 2022-07-29 |
@@ -174,7 +175,7 @@
 | [Keep Me Going](https://open.spotify.com/track/1Gn1Yzgdk0RFq3H0lePlMB) | [Jared & The Mill](https://open.spotify.com/artist/0GklSybv01PPje5GlXFq2i) | [Keep Me Going](https://open.spotify.com/album/6z5T17mfAG7wqGjF63DuPv) | 3:28 | 2021-11-12 | 2022-01-17 |
 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-08-19 | 2023-08-19 |
 | [Keeps Me Coming Back](https://open.spotify.com/track/2HmXg75yywpcLWh11fstsZ) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Keeps Me Coming Back](https://open.spotify.com/album/5e3cG72M66MSeLQ2QaWeHw) | 2:49 | 2021-11-12 | 2022-07-29 |
-| [Keeps Me Coming Back](https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Goin' Back](https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g) | 2:49 | 2022-08-19 |  |
+| [Keeps Me Coming Back](https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Goin' Back](https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g) | 2:49 | 2022-08-19 | 2023-10-16 |
 | [Kick Out the Windows \(Radio Edit\)](https://open.spotify.com/track/2DzlQMTRHBfilCCD6bUa1V) | [Parsonsfield](https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR) | [Kick Out the Windows \(Radio Edit\)](https://open.spotify.com/album/7FpRCotSyc7BppdLQDitpm) | 3:11 | 2022-03-12 | 2023-03-22 |
 | [Kick Out the Windows \- Radio Edit](https://open.spotify.com/track/6Q04NQKyB5x3Ge5TRyfZT1) | [Parsonsfield](https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR) | [Kick Out the Windows \(Radio Edit\)](https://open.spotify.com/album/7msqHdpzdvApMcWNrBG4iG) | 3:11 | 2021-11-12 | 2022-07-29 |
 | [Kinda Wild](https://open.spotify.com/track/1ehActP7W2zePSz3aAm8in) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Kinda Wild](https://open.spotify.com/album/0JgJBpHVvXiQNlFJP00iAy) | 4:57 | 2023-06-23 |  |

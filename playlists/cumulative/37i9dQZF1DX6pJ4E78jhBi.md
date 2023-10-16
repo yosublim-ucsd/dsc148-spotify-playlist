@@ -4,7 +4,7 @@
 
 > Relax to these chilled instrumental Christmas tunes.
 
-64 songs - 3 hr 34 min
+65 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [O Come All Ye Faithful](https://open.spotify.com/track/0wwQHm22k4V0eoqLXLdd8E) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [O Come All Ye Faithful](https://open.spotify.com/album/7EoYR3CpzVLDng5B6hbIbP) | 2:20 | 2022-10-14 |  |
 | [O Come All Ye Faithful](https://open.spotify.com/track/4WehDMVkpIxLPCltba3JFs) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [O Come All Ye Faithful](https://open.spotify.com/album/6pM5sjp8nekGKbMS6KDJ9i) | 2:20 | 2021-12-16 | 2022-10-17 |
 | [O Come All Ye Faithful](https://open.spotify.com/track/6lNQuXMNa4qdkny0gzgbeV) | [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [A Cello Christmas](https://open.spotify.com/album/0pciEObXXUDRudyHwJrgj7) | 2:32 | 2021-12-16 | 2022-12-14 |
-| [O Holy Night](https://open.spotify.com/track/4wps5wZL1C1ye4lzxgGA5P) | [Adolphe Adam](https://open.spotify.com/artist/71VUVLmoTKKYfIugkavMeS), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Home](https://open.spotify.com/album/0KEtzskgOyI7JeQGUkq5t1) | 3:09 | 2021-12-16 |  |
+| [O Holy Night](https://open.spotify.com/track/4wps5wZL1C1ye4lzxgGA5P) | [Adolphe Adam](https://open.spotify.com/artist/71VUVLmoTKKYfIugkavMeS), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Home](https://open.spotify.com/album/0KEtzskgOyI7JeQGUkq5t1) | 3:09 | 2021-12-16 | 2023-10-16 |
+| [O Holy Night](https://open.spotify.com/track/71Gm9SQksFzIYDM1p5RpOt) | [Adolphe Adam](https://open.spotify.com/artist/71VUVLmoTKKYfIugkavMeS), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 3:11 | 2023-10-13 |  |
 | [O Holy Night](https://open.spotify.com/track/3vHRNs120gcWRfv5Tcvqfi) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [O Holy Night](https://open.spotify.com/album/7ysRwKlllMX84dE2tSSXWQ) | 3:09 | 2021-12-16 | 2022-07-29 |
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/7ocAJ3CVIMc4AJJRdxGe7U) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Craig Ogden](https://open.spotify.com/artist/07pZelCNTBK93CD474588Q) | [Christmas Time \(3 New Carols For 2014\)](https://open.spotify.com/album/5FAWryvmzBlzJOwrte0xIN) | 2:19 | 2022-10-07 | 2022-11-10 |
 | [O Tannenbaum, du trägst ein’ grünen Zweig \(Arr\. Hoffmann & Grabe for Harp\)](https://open.spotify.com/track/74u9Z0LqZHsjIjLn8whyjx) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Magdalena Hoffmann](https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT) | [Traditional: O Tannenbaum, du trägst ein’ grünen Zweig \(Arr\. Hoffmann & Grabe for Harp\) \[Musical Moments\]](https://open.spotify.com/album/1Fpts6LEM50PmN9UV1Dc5S) | 3:51 | 2021-12-16 |  |

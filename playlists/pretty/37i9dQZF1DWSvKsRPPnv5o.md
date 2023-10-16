@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: 310babii
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,492 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,394 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 23 | [Up The Score \- 03\-Mix](https://open.spotify.com/track/0myrxzTZG4puMav4TnTULc) | [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Up The Score \(03\-Mix\)](https://open.spotify.com/album/5555dq1ktuTeyttp9RWAyU) | 3:24 |
 | 24 | [Doin Yo Stuff](https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Sixtape 3](https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX) | 2:36 |
 | 25 | [Brand New](https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0) | 3:02 |
-| 26 | [Eat It Up](https://open.spotify.com/track/1PRLHyaN0XmTiXhBI6Tol2) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB), [DonnySolo](https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0) | [Eat It Up](https://open.spotify.com/album/6crFEKkp5bYJNEjDrqoG1w) | 2:09 |
+| 26 | [Eat It Up](https://open.spotify.com/track/1LYJJ6e8Zj8B2Wx5WmAohe) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB), [DonnySolo](https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0) | [Eat It Up](https://open.spotify.com/album/5ByZm1j56WZQzHNGY9Duaa) | 2:09 |
 | 27 | [Top](https://open.spotify.com/track/3qINPOfejlN331MAmdz0XK) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Gotdamnitdupri](https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs), [Saviii 3rd](https://open.spotify.com/artist/2Xs5d841h62itOX9RuPjk2) | [GOTDAMNIT BABYSTONES 2](https://open.spotify.com/album/2KUliAiO3UiJtDspsSXexx) | 2:36 |
 | 28 | [1234](https://open.spotify.com/track/5Y7lki1OedcDX59E8r1VMt) | [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [1234](https://open.spotify.com/album/5CgqhzaC7UDj7jkvUD44xh) | 2:11 |
 | 29 | [Pressure](https://open.spotify.com/track/6CgABqVIcFh12r257y2jey) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [Pressure](https://open.spotify.com/album/4uQm94AZIS4PBeZ4Jm2Y94) | 2:48 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 70 | [Roll The Dice](https://open.spotify.com/track/25ZALTr1PymhpJyFwrVlBQ) | [DB.Boutabag](https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr), [Skilla Baby](https://open.spotify.com/artist/6rdws4waDnNJNI2H53ONsJ) | [Shit Talk > Rap](https://open.spotify.com/album/3o79eHmX5lfF1xqG4ulfcK) | 2:54 |
 | 71 | [Thru the Week](https://open.spotify.com/track/2sgoxBPUrgJHG7A31z9ZKn) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Thru The Week](https://open.spotify.com/album/4fp1pusswSJzkEBF43gBC9) | 2:50 |
 | 72 | [Bout That](https://open.spotify.com/track/4DnUESBaSNsZfChXEGgsUH) | [Frostydasnowmann](https://open.spotify.com/artist/2Bb57H1EnnHxtpSyOAJF8l), [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Bout That](https://open.spotify.com/album/1m40pB2LxXBiWmfVoJI5Hp) | 2:38 |
-| 73 | [Wop It](https://open.spotify.com/track/6qiN1G9Q5CLzuWJUKnkLxo) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB) | [Wop It](https://open.spotify.com/album/4H47Q3WFmOhGDAuPmciMZi) | 1:52 |
+| 73 | [Wop It](https://open.spotify.com/track/73KXFBOZXWVbK6XBgvohZK) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB) | [Wop It](https://open.spotify.com/album/6yktmgt5KT7bvcWMQLZJMI) | 1:52 |
 | 74 | [Hoedown \(with Zoe Osama\)](https://open.spotify.com/track/5y8AkgjrtsCspzzAjxqIJ3) | [Shady Blu](https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa), [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Hoedown \(with Zoe Osama\)](https://open.spotify.com/album/1SJWGIrKqoQMfALk7xtGWn) | 2:13 |
 | 75 | [4Life](https://open.spotify.com/track/6VB1KfpJzVAnFvyeiCPC4f) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [4Life](https://open.spotify.com/album/0raGZNP4IH0KrI6qdpToQP) | 2:36 |
 
-Snapshot ID: `MCw4NWRkZjE3YjA5OGFiYTAzYzM1MDk3ZTMwNDdhMzFhZmRjOTYzZmI3`
+Snapshot ID: `MCwzZTMwMjlmNzk0YzI5ODQ4ZThkNjA3MWQ4YmU1MGQzNmExYmZkZGI5`

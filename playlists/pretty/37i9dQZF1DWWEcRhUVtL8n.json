@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: hemlocke springs ",
-  "num_followers": 1698047,
+  "num_followers": 1698033,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDA4MWM2OWYxMTU1ZDU1MWI3OWY5ZDlhNjhjZmEwOTFiMTZiZmQz",
+  "snapshot_id": "MCw2M2ZmYzkyNjMxODkxNGIyMGY1ZTlhNzdkNzk5NjE0NTVhZDdmZDBh",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Boy Toy",
-        "url": "https://open.spotify.com/album/4Fu86wa5adwAw8xEcnUnT7"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 176474,
-      "name": "Boy Toy",
-      "url": "https://open.spotify.com/track/0bor8Slyl8zfU40Y2uJeaV"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "When We Were Younger",
@@ -831,6 +815,22 @@
       "duration_ms": 159477,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Boy Toy",
+        "url": "https://open.spotify.com/album/4Fu86wa5adwAw8xEcnUnT7"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 176474,
+      "name": "Boy Toy",
+      "url": "https://open.spotify.com/track/0bor8Slyl8zfU40Y2uJeaV"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1129,6 +1129,22 @@
       "url": "https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
+    },
+    {
       "added_at": "2023-04-21 04:19:11",
       "album": {
         "name": "Don't Let Me Down",
@@ -1149,20 +1165,20 @@
       "url": "https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
+        "name": "Next Best Exit",
+        "url": "https://open.spotify.com/album/5BaqyXWFe7128CZfNaMISB"
       },
       "artists": [
         {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
+      "duration_ms": 166500,
+      "name": "Next Best Exit",
+      "url": "https://open.spotify.com/track/5AK6xch0zSVSZe3HJhxy6Y"
     },
     {
       "added_at": "2023-08-04 13:13:27",
@@ -1179,22 +1195,6 @@
       "duration_ms": 137441,
       "name": "Ease",
       "url": "https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Next Best Exit",
-        "url": "https://open.spotify.com/album/5BaqyXWFe7128CZfNaMISB"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Next Best Exit",
-      "url": "https://open.spotify.com/track/5AK6xch0zSVSZe3HJhxy6Y"
     },
     {
       "added_at": "2023-06-30 04:21:00",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
     },
     {
-      "added_at": "2023-08-25 04:56:29",
-      "album": {
-        "name": "Don\u2019t Wanna Love U",
-        "url": "https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU"
-      },
-      "artists": [
-        {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 209418,
-      "name": "Don\u2019t Wanna Love U",
-      "url": "https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Think I'm In Love",
@@ -1265,6 +1249,22 @@
       "url": "https://open.spotify.com/track/237o9ApKazX3A8EtweI4CW"
     },
     {
+      "added_at": "2023-08-25 04:56:29",
+      "album": {
+        "name": "Don\u2019t Wanna Love U",
+        "url": "https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "duration_ms": 209418,
+      "name": "Don\u2019t Wanna Love U",
+      "url": "https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA"
+    },
+    {
       "added_at": "2023-07-07 18:51:45",
       "album": {
         "name": "Hello Hi / Un Deux Trois",
@@ -1279,22 +1279,6 @@
       "duration_ms": 210306,
       "name": "Un Deux Trois",
       "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
-    },
-    {
-      "added_at": "2023-08-14 19:08:31",
-      "album": {
-        "name": "All The Things",
-        "url": "https://open.spotify.com/album/5fEDgKojVggsini4nyUhX3"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 202389,
-      "name": "All The Things",
-      "url": "https://open.spotify.com/track/0I43APbAcxRZkxYo6yipQj"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1315,6 +1299,22 @@
       "duration_ms": 222899,
       "name": "You\u2019d Be Stars (feat. chloe moriondo)",
       "url": "https://open.spotify.com/track/6qsIkaOBHaQByY3jiNZSaA"
+    },
+    {
+      "added_at": "2023-08-14 19:08:31",
+      "album": {
+        "name": "All The Things",
+        "url": "https://open.spotify.com/album/5fEDgKojVggsini4nyUhX3"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 202389,
+      "name": "All The Things",
+      "url": "https://open.spotify.com/track/0I43APbAcxRZkxYo6yipQj"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1365,22 +1365,6 @@
       "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
     },
     {
-      "added_at": "2023-07-14 01:28:17",
-      "album": {
-        "name": "Screw Time",
-        "url": "https://open.spotify.com/album/3XuJ6wvVTZyiMslESPVRJ7"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 185724,
-      "name": "Screw Time",
-      "url": "https://open.spotify.com/track/041KVEd5BQnsyZKdqdmE0r"
-    },
-    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "All Night",
@@ -1395,6 +1379,22 @@
       "duration_ms": 195598,
       "name": "All Night",
       "url": "https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA"
+    },
+    {
+      "added_at": "2023-07-14 01:28:17",
+      "album": {
+        "name": "Screw Time",
+        "url": "https://open.spotify.com/album/3XuJ6wvVTZyiMslESPVRJ7"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 185724,
+      "name": "Screw Time",
+      "url": "https://open.spotify.com/track/041KVEd5BQnsyZKdqdmE0r"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1413,22 +1413,6 @@
       "url": "https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS"
     },
     {
-      "added_at": "2023-04-21 04:19:11",
-      "album": {
-        "name": "Rocket Ship",
-        "url": "https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m"
-      },
-      "artists": [
-        {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
-        }
-      ],
-      "duration_ms": 89189,
-      "name": "Rocket Ship",
-      "url": "https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Seasons",
@@ -1443,6 +1427,22 @@
       "duration_ms": 164196,
       "name": "Give A Little Kindness",
       "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
+    },
+    {
+      "added_at": "2023-04-21 04:19:11",
+      "album": {
+        "name": "Rocket Ship",
+        "url": "https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 89189,
+      "name": "Rocket Ship",
+      "url": "https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1629,22 +1629,6 @@
       "url": "https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts"
     },
     {
-      "added_at": "2023-06-30 04:21:00",
-      "album": {
-        "name": "Juliene",
-        "url": "https://open.spotify.com/album/3QReCnRfEfYbqnmsdnFxeU"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 202382,
-      "name": "Juliene",
-      "url": "https://open.spotify.com/track/7K3YUKGYPFeAb6TbDvHmM2"
-    },
-    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "From The Valley",
@@ -1659,6 +1643,22 @@
       "duration_ms": 212968,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/0vbqjI3TKufY0I33RtdXFD"
+    },
+    {
+      "added_at": "2023-06-30 04:21:00",
+      "album": {
+        "name": "Juliene",
+        "url": "https://open.spotify.com/album/3QReCnRfEfYbqnmsdnFxeU"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 202382,
+      "name": "Juliene",
+      "url": "https://open.spotify.com/track/7K3YUKGYPFeAb6TbDvHmM2"
     }
   ],
   "unique_name": "Indie Pop",

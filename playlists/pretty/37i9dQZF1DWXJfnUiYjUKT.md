@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,682 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,703 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 57 | [Chops on the Blade](https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Chops on the Blade](https://open.spotify.com/album/1W8rO7SBVNsjB2v197I0bk) | 3:32 |
 | 58 | [Practice](https://open.spotify.com/track/6J2ECbAbX4L4WgIkeXyeq6) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Practice](https://open.spotify.com/album/06y4wpVgWExGgvoUECSgMj) | 3:14 |
 | 59 | [Cut Me Down \(feat\. Mallrat\)](https://open.spotify.com/track/5YcaoDErGAsdGwCmFvRicq) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Cut Me Down \(feat\. Mallrat\)](https://open.spotify.com/album/3H2sRRy1oPWojDvXPjMruV) | 2:58 |
-| 60 | [Do You](https://open.spotify.com/track/0eHLd2rwOakcEiFwG0SztP) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Do You](https://open.spotify.com/album/3TA7Hh96OwARzUgw71ZcaO) | 4:08 |
+| 60 | [Do You](https://open.spotify.com/track/2tO1RrlOXyZAMqB0wDybXf) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd) | 4:08 |
 | 61 | [Shame](https://open.spotify.com/track/13swfFYhwoWSLEapqzKuOu) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Shame](https://open.spotify.com/album/3eRKQENql7BXinKBXp5HMU) | 2:34 |
 | 62 | [Pedestal](https://open.spotify.com/track/3C8Z6rLzMjQiDSkZxpRHxV) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Pedestal](https://open.spotify.com/album/5KRQkpYEeyfXX4gF9kWV7I) | 3:11 |
 | 63 | [Bonafide](https://open.spotify.com/track/1jIopA8Imz4gwR8bjBlEjJ) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [This Must Be A PawPaw Rod EP](https://open.spotify.com/album/7kCZCWQ1F3MAEQYEvcqQQF) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Something](https://open.spotify.com/track/5CsUqbdvslZWm1sk9gpu13) | [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h) | [Something](https://open.spotify.com/album/6klYqHjo5gUSBYu8f3GBvO) | 2:57 |
 | 100 | [Black Eye](https://open.spotify.com/track/28GReZcMRd0N2Ns1bJ3HzR) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Black Eye](https://open.spotify.com/album/5va7T2m57yj457ywVCRo93) | 4:32 |
 
-Snapshot ID: `MCxiMTgwY2NmMjBjZjJjMTM0MGM5ZTQ2N2Q0ZTkyNGJhOGZkOGNjNTc5`
+Snapshot ID: `MCwxOGVlMGQ4ZjEyNGI4OWNiODM3MDk4Zjg1ZTBiYTFmODVmNGZlNjVi`

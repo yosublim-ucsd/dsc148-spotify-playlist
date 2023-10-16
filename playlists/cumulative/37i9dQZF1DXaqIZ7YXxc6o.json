@@ -20921,6 +20921,32 @@
     },
     {
       "album": {
+        "name": "Pepper",
+        "url": "https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y"
+      },
+      "artists": [
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq"
+    },
+    {
+      "album": {
         "name": "Perfect Shelving Technique",
         "url": "https://open.spotify.com/album/6TiSwe8iKVfd6pQsTYotGL"
       },
@@ -24025,6 +24051,40 @@
     },
     {
       "album": {
+        "name": "She Knows (with Akon) [Piero Pirupa Remix]",
+        "url": "https://open.spotify.com/album/3TsXD6hLu1p545fF52XdXr"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152781,
+      "name": "She Knows (with Akon) - Piero Pirupa Remix",
+      "url": "https://open.spotify.com/track/43N35bPN9vDjO4GUIvuMkN"
+    },
+    {
+      "album": {
         "name": "She Knows (With Akon) [Piero Pirupa Remix]",
         "url": "https://open.spotify.com/album/39n6AVzrpsdbxtVtwfnUcH"
       },
@@ -24052,7 +24112,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 152781,
       "name": "She Knows (With Akon) - Piero Pirupa Remix",
       "url": "https://open.spotify.com/track/7oWvP7OaKJ9gfzQuedMN8r"
@@ -27351,7 +27411,7 @@
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 182013,
+      "duration_ms": 181545,
       "name": "ten",
       "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
     },

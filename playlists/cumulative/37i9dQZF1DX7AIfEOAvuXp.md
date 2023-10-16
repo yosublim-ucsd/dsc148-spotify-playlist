@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-194 songs - 9 hr 51 min
+195 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,9 +90,10 @@
 | [Loving You Is a Mountain](https://open.spotify.com/track/4tqZET1gHOGWY6UbHv6qWf) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Three](https://open.spotify.com/album/2lEk0vfHvGzrM9xbhUvxfu) | 3:28 | 2020-12-07 | 2022-07-29 |
 | [Lucky](https://open.spotify.com/track/6kGLWfGeZQ9RZHcGis9KN6) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/4LV7GkCFobpwaguOcbRRKI) | 3:12 | 2020-12-07 |  |
 | [Lucky](https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/5Vz1CD0A4VfUMELRUeysXM) | 3:12 | 2020-12-07 | 2023-05-05 |
+| [Mad at Disney](https://open.spotify.com/track/0PlzctO0nv2sSIFmqDSE6h) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye) | 2:16 | 2020-12-07 |  |
 | [Mad at Disney](https://open.spotify.com/track/3JGnevG7tLMY3UQFU8JinB) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Chill On The Beach](https://open.spotify.com/album/5MyS2ruaCIY0EHeuZkuici) | 2:16 | 2020-12-07 | 2022-11-13 |
 | [Mad at Disney](https://open.spotify.com/track/6JLLacP83oixoe33bWjuCC) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Mad at Disney](https://open.spotify.com/album/4000RUfplZt5LYKb3VuyUp) | 2:16 | 2020-12-07 | 2022-07-29 |
-| [Mad at Disney](https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Mad at Disney](https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P) | 2:16 | 2020-12-07 |  |
+| [Mad at Disney](https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Mad at Disney](https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P) | 2:16 | 2020-12-07 | 2023-10-16 |
 | [Maple Syrup Tears](https://open.spotify.com/track/11mZeNMQTR2It49wtB4gTv) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Maple Syrup Tears](https://open.spotify.com/album/2gLuQKqj2zWasAEiDEVV8X) | 3:13 | 2020-12-07 | 2022-07-29 |
 | [Maple Syrup Tears](https://open.spotify.com/track/2snyzlnvbLkQnigbqxgV78) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [aw / ct: Andy's Journey](https://open.spotify.com/album/0wlenQo8hjG24humXxrwYC) | 3:13 | 2020-12-07 | 2022-11-13 |
 | [Maple Syrup Tears](https://open.spotify.com/track/5t7VNXoXW1CYjSZNO1jziH) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Apocalypse Wow](https://open.spotify.com/album/2enxw36RLbDfhKytuzHbOJ) | 3:13 | 2020-12-07 | 2023-08-07 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 36602,
+  "num_followers": 36655,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjVlNTQ1MzZkNjVmNGY5ZDlkZDBlNmY4ZTQxODg1NTNhZDA2N2E0",
+  "snapshot_id": "MCw0NmFlMTM3YzRkNzRhN2M1NWE5N2JjYzVlNWMwNjgzYTBlMWQ3NmZl",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Conjunto Condemayta de Acomayo",
-        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Condemayta de Acomayo",
-          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Cuerpo Soltero",
-      "url": "https://open.spotify.com/track/1BcTZEHwY7sII7qRwsKEqg"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Puro Sentimiento",
         "url": "https://open.spotify.com/album/4OmbN40zd86thCciHF3PR9"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 266831,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/1FJMpwSVvvRAUs4e9J8cSr"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Conjunto Condemayta de Acomayo",
+        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Cuerpo Soltero",
+      "url": "https://open.spotify.com/track/1BcTZEHwY7sII7qRwsKEqg"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Huaylash Macho",
+        "url": "https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz"
+      },
+      "artists": [
+        {
+          "name": "Eusebio \"Chato\" Grados",
+          "url": "https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Huaylash Macho",
+      "url": "https://open.spotify.com/track/2wIRGGoFZ43qlGKd5c0gnE"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
         "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 160640,
       "name": "Vas a Llorar",
       "url": "https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Tusuyninchiq",
-        "url": "https://open.spotify.com/album/6t3uN5N7F3qT1b5f6LfRlU"
-      },
-      "artists": [
-        {
-          "name": "Porfirio Ayvar",
-          "url": "https://open.spotify.com/artist/1nu4Tbh3AzDwDMXIaEFRzx"
-        }
-      ],
-      "duration_ms": 259525,
-      "name": "Chapitas",
-      "url": "https://open.spotify.com/track/1KAZ9CCzFCwlfs2VoLe3p4"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -463,18 +463,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Huaylash Macho",
-        "url": "https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz"
+        "name": "Tusuyninchiq",
+        "url": "https://open.spotify.com/album/6t3uN5N7F3qT1b5f6LfRlU"
       },
       "artists": [
         {
-          "name": "Eusebio \"Chato\" Grados",
-          "url": "https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32"
+          "name": "Porfirio Ayvar",
+          "url": "https://open.spotify.com/artist/1nu4Tbh3AzDwDMXIaEFRzx"
         }
       ],
-      "duration_ms": 219653,
-      "name": "Huaylash Macho",
-      "url": "https://open.spotify.com/track/2wIRGGoFZ43qlGKd5c0gnE"
+      "duration_ms": 259525,
+      "name": "Chapitas",
+      "url": "https://open.spotify.com/track/1KAZ9CCzFCwlfs2VoLe3p4"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Cantares Huaracinos",
-        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
-      },
-      "artists": [
-        {
-          "name": "Jilguero Del Huascar\u00e1n",
-          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "Al Comp\u00e1s de Mi Guitarra",
-      "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Huaylash Pio Pio",
         "url": "https://open.spotify.com/album/2baljY40vl4lfiDbQ3e7OO"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 219653,
       "name": "El Pio, Pio",
       "url": "https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Cantares Huaracinos",
+        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
+      },
+      "artists": [
+        {
+          "name": "Jilguero Del Huascar\u00e1n",
+          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "Al Comp\u00e1s de Mi Guitarra",
+      "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
         }
       ],
-      "duration_ms": 222973,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
+      "duration_ms": 210560,
+      "name": "Adi\u00f3s Pueblo De Ayacucho",
+      "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
         }
       ],
-      "duration_ms": 210560,
-      "name": "Adi\u00f3s Pueblo De Ayacucho",
-      "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
+      "duration_ms": 222973,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

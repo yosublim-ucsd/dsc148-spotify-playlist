@@ -4,7 +4,7 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-201 songs - 19 hr 45 min
+202 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Move the Crowd](https://open.spotify.com/track/2V72mABFaq9paF2N4dOWR0) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 4:27 | 2023-02-13 | 2023-08-04 |
 | [Music Is Life \- Deep Mix](https://open.spotify.com/track/5nCFYGPlcrlpuPGMkEwjgm) | [Bushwacka!](https://open.spotify.com/artist/3qME1ocYrJ5U6gjWn2Lw6h), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu) | [Music Is Life](https://open.spotify.com/album/7ryXbYGT910BTiS6yLAiSn) | 6:54 | 2023-08-03 |  |
 | [Music Is Life \- Main Mix](https://open.spotify.com/track/1Wy9vsNoymAlUsr4NpV5C9) | [Bushwacka!](https://open.spotify.com/artist/3qME1ocYrJ5U6gjWn2Lw6h), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu) | [Music Is Life](https://open.spotify.com/album/7ryXbYGT910BTiS6yLAiSn) | 6:05 | 2023-08-03 |  |
-| [My Head Is On Fire](https://open.spotify.com/track/22YNTCWbJaMbTw6SrnQuDp) | [Coyu](https://open.spotify.com/artist/5cKSSXjPNJJ6Fkm9sCMplh), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [La CouCou](https://open.spotify.com/artist/2nVcZDji102fL8qWzEuvvq) | [My Head Is On Fire](https://open.spotify.com/album/3JLozfpS3Ke2ty7QqrKAg3) | 6:34 | 2023-04-18 |  |
+| [My Head Is On Fire](https://open.spotify.com/track/22YNTCWbJaMbTw6SrnQuDp) | [Coyu](https://open.spotify.com/artist/5cKSSXjPNJJ6Fkm9sCMplh), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [La CouCou](https://open.spotify.com/artist/2nVcZDji102fL8qWzEuvvq) | [My Head Is On Fire](https://open.spotify.com/album/3JLozfpS3Ke2ty7QqrKAg3) | 6:34 | 2023-04-18 | 2023-10-16 |
+| [My Head Is On Fire](https://open.spotify.com/track/2Sjco3nua6ICpVbMdYJaDL) | [Coyu](https://open.spotify.com/artist/5cKSSXjPNJJ6Fkm9sCMplh), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [La CouCou](https://open.spotify.com/artist/2nVcZDji102fL8qWzEuvvq) | [My Head Is On Fire](https://open.spotify.com/album/5jHpFB3xo4oDo3BsQP9rK3) | 6:34 | 2023-10-06 |  |
 | [N04](https://open.spotify.com/track/4eRRD7IAgepERtb9lg3RbH) | [Sato](https://open.spotify.com/artist/5OKlzH3DGCKLZoYwRiRTRD), [Satoshi Tomiie](https://open.spotify.com/artist/3TrAOZvW0MzZeKZRFnU7Ul) | [Blue, Black And Grey](https://open.spotify.com/album/08yr2guH6hVzoWT49bQ5d9) | 6:32 | 2023-02-13 | 2023-06-27 |
 | [Nocturnal](https://open.spotify.com/track/2joi4vCVTScGH1p0xCHlDC) | [Cox and Coe](https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Mindset \- EP](https://open.spotify.com/album/13n18iOU6x7D1gmEupfDF4) | 6:26 | 2023-02-13 |  |
 | [Nocturnal \- Rebuke Edit](https://open.spotify.com/track/6S6NVm1rjajtGhZpBv2L9i) | [Cox and Coe](https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Mindset \(The Rebuke Edits\)](https://open.spotify.com/album/2cdMahFloyLuCPKzRDpfCw) | 6:27 | 2023-10-06 |  |

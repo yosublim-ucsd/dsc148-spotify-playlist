@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Jeanne Bonjour
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,603 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,607 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [L'été](https://open.spotify.com/track/3BsWBBgjhc9Iaqh74ffpTf) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [L'été](https://open.spotify.com/album/7xTNZ0EmI8hmzZLFwQRUAB) | 3:20 |
 | 50 | [Le plus beau spectacle](https://open.spotify.com/track/6haDeFzU2VjvjR8XRLln1F) | [Claire days](https://open.spotify.com/artist/51Vw9YWwshaKc9xqtHnNES) | [Le plus beau spectacle](https://open.spotify.com/album/7kZbRxL3VXbGOLagL7LihD) | 3:44 |
 
-Snapshot ID: `MCxiMjc0ZjE1YThmMjI5NWE0NGY2OTYxYjZmYTkwZGE5ZDdmYzI4NjRi`
+Snapshot ID: `MCw5ZWM3Njg1MDk2MTA4OTk0YTdjY2FmMjRkYjU3MDFmYzc0M2I0NTEy`

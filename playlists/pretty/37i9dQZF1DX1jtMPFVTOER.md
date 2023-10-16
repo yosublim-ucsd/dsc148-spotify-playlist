@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,977 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,025 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 29 | [RagJazz](https://open.spotify.com/track/7DAuQoUWFq40NBVXwWs4xU) | [NEONE the Wonderer](https://open.spotify.com/artist/72RMKo8u5oIuTtyE8HAv5E) | [RagJazz](https://open.spotify.com/album/3zxutQ3DFl5sBX7sxI2nVZ) | 4:19 |
 | 30 | [Day By Day](https://open.spotify.com/track/0sAYA6oPiYYv3iG0DW5TEQ) | [Afroham](https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E), [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D), [Cae Jones](https://open.spotify.com/artist/1AzqM2IHhjqLG7NOXwA7fj) | [Day By Day](https://open.spotify.com/album/4HQzpXrx2TX1OFhjGdoFrw) | 2:58 |
 | 31 | [Reflection](https://open.spotify.com/track/2NcANOCQfwlHH69eNEqQ46) | [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [Reflection](https://open.spotify.com/album/6cP0vN86nUAoGcLbpAYiVG) | 3:22 |
-| 32 | [Listen To The Sky](https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Listen To The Sky](https://open.spotify.com/album/3G9hrfPSpBsvBwcgLT4i7u) | 2:52 |
+| 32 | [Listen To The Sky](https://open.spotify.com/track/5Hp5ffZ2NOFuJCGuJ04psW) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc) | 2:52 |
 | 33 | [PiLOT \(feat\. Snoop Dogg, Busta Rhymes, Anderson .Paak\)](https://open.spotify.com/track/6OquGsVTLqZHyxqG0PLwFz) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 3:22 |
 | 34 | [All The Things I Couldn't Say To You](https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [All The Things I Couldn't Say To You](https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK) | 4:24 |
 | 35 | [Quiet Culture \(feat\. Pos of De La Soul\)](https://open.spotify.com/track/2VKYTNg9r6bF9pBZouux68) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Pos of De La Soul](https://open.spotify.com/artist/0QJINgNjVXlG2aRED0jEx3) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 4:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Shine](https://open.spotify.com/track/4ZVNCrYStmGn546kpAS1I2) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Shine](https://open.spotify.com/album/6RefKEwQv3tidPWBr4mBQ0) | 3:38 |
 | 100 | [you said...](https://open.spotify.com/track/2T8gjOM7DTgu7YtwLC0ddf) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [you said...](https://open.spotify.com/album/77L359klVW9v2ODUWvNPF5) | 2:14 |
 
-Snapshot ID: `MCxjZjFjODQ2N2Y0MDZlNTdjZmYzOTg0ZGE1NTk3Mjk4ZjgxZGNjZmVj`
+Snapshot ID: `MCw3ZmRlYTU1NDkzNTI5NjRjNTg3MzMxNGQ5ZWVlNGNjZGZjNzY4YzZh`

@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 42323,
+  "num_followers": 42392,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjNmYjFkNTQwMzI4MWRlM2E4Njg5MTllMzRjNTk5NGFhYjg0OTEy",
+  "snapshot_id": "MCwzOWE1ZmMyMjU5NWQzYmQ2YTg0NzQ4YWE1NTg3YTJlYjQxN2FmNDlk",
   "tracks": [
     {
       "added_at": "2023-10-12 15:29:41",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-10-12 15:29:41",
       "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
+    },
+    {
+      "added_at": "2023-10-12 15:29:41",
+      "album": {
         "name": "When We Were Younger (feat. Cavetown)",
         "url": "https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh"
       },
@@ -291,22 +307,6 @@
     {
       "added_at": "2023-10-12 15:29:41",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
-    },
-    {
-      "added_at": "2023-10-12 15:29:41",
-      "album": {
         "name": "Bittersweet (Radio Edit)",
         "url": "https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST"
       },
@@ -319,6 +319,38 @@
       "duration_ms": 236640,
       "name": "Bittersweet - Radio Edit",
       "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
+    },
+    {
+      "added_at": "2023-10-12 15:29:41",
+      "album": {
+        "name": "Come Around EP",
+        "url": "https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+        }
+      ],
+      "duration_ms": 228473,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy"
+    },
+    {
+      "added_at": "2023-10-12 15:29:41",
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/1cqxkbddjrFe1vHQKbPtOT"
+      },
+      "artists": [
+        {
+          "name": "ELENA",
+          "url": "https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU"
+        }
+      ],
+      "duration_ms": 196326,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/1aT3C7hFnZjo5CBshVEw4R"
     },
     {
       "added_at": "2023-10-12 15:29:41",
@@ -347,38 +379,6 @@
     {
       "added_at": "2023-10-12 15:29:41",
       "album": {
-        "name": "Selfish",
-        "url": "https://open.spotify.com/album/1cqxkbddjrFe1vHQKbPtOT"
-      },
-      "artists": [
-        {
-          "name": "ELENA",
-          "url": "https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU"
-        }
-      ],
-      "duration_ms": 196326,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/1aT3C7hFnZjo5CBshVEw4R"
-    },
-    {
-      "added_at": "2023-10-12 15:29:41",
-      "album": {
-        "name": "Come Around EP",
-        "url": "https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
-        }
-      ],
-      "duration_ms": 228473,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy"
-    },
-    {
-      "added_at": "2023-10-12 15:29:41",
-      "album": {
         "name": "I Chose Good",
         "url": "https://open.spotify.com/album/2cHvZG9abdOj4fqv67jyWS"
       },
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-10-12 15:29:41",
       "album": {
-        "name": "Unconditionally",
-        "url": "https://open.spotify.com/album/1X4HVedRMhLlr8qMaEGtKO"
-      },
-      "artists": [
-        {
-          "name": "JKING",
-          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
-        }
-      ],
-      "duration_ms": 152673,
-      "name": "Unconditionally",
-      "url": "https://open.spotify.com/track/566cpgeAsU9eyAgedWbwyk"
-    },
-    {
-      "added_at": "2023-10-12 15:29:41",
-      "album": {
         "name": "It's A Long Road",
         "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 256560,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/6UuMxlYqfGzN0PhFO4PqCo"
+    },
+    {
+      "added_at": "2023-10-12 15:29:41",
+      "album": {
+        "name": "Unconditionally",
+        "url": "https://open.spotify.com/album/1X4HVedRMhLlr8qMaEGtKO"
+      },
+      "artists": [
+        {
+          "name": "JKING",
+          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
+        }
+      ],
+      "duration_ms": 152673,
+      "name": "Unconditionally",
+      "url": "https://open.spotify.com/track/566cpgeAsU9eyAgedWbwyk"
     },
     {
       "added_at": "2023-10-12 15:29:41",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-10-12 15:29:41",
       "album": {
-        "name": "Overthinking",
-        "url": "https://open.spotify.com/album/7juT5Xm5izAEVtHZiRIluA"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
       },
       "artists": [
         {
-          "name": "HALES",
-          "url": "https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K"
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
         }
       ],
-      "duration_ms": 181714,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/7I2jfv26obp38wvuJG9enL"
+      "duration_ms": 189426,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
     },
     {
       "added_at": "2023-10-12 15:29:41",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-10-12 15:29:41",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
+        "name": "Overthinking",
+        "url": "https://open.spotify.com/album/7juT5Xm5izAEVtHZiRIluA"
       },
       "artists": [
         {
-          "name": "shiv",
-          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+          "name": "HALES",
+          "url": "https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K"
         }
       ],
-      "duration_ms": 189426,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
+      "duration_ms": 181714,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/7I2jfv26obp38wvuJG9enL"
     },
     {
       "added_at": "2023-10-12 15:29:41",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-10-12 15:29:41",
       "album": {
-        "name": "Good Thing (Deluxe)",
-        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 230853,
-      "name": "Naomi",
-      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
-    },
-    {
-      "added_at": "2023-10-12 15:29:41",
-      "album": {
         "name": "Soul,PRESENT",
         "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 186053,
       "name": "SOW",
       "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
+    },
+    {
+      "added_at": "2023-10-12 15:29:41",
+      "album": {
+        "name": "Good Thing (Deluxe)",
+        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230853,
+      "name": "Naomi",
+      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
     },
     {
       "added_at": "2023-10-12 15:29:41",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-10-12 15:29:41",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
-      },
-      "artists": [
-        {
-          "name": "Dean Brady",
-          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
-        }
-      ],
-      "duration_ms": 210679,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ"
-    },
-    {
-      "added_at": "2023-10-12 15:29:41",
-      "album": {
         "name": "Make It Happen (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 269626,
       "name": "Raye",
       "url": "https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP"
+    },
+    {
+      "added_at": "2023-10-12 15:29:41",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
+      },
+      "artists": [
+        {
+          "name": "Dean Brady",
+          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
+        }
+      ],
+      "duration_ms": 210679,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ"
     },
     {
       "added_at": "2023-10-12 15:29:41",
@@ -1191,26 +1191,22 @@
     {
       "added_at": "2023-10-12 15:29:41",
       "album": {
-        "name": "Songs To Come Home To",
-        "url": "https://open.spotify.com/album/3RyNOK2vXaGdkRWoh8QmjN"
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
       },
       "artists": [
         {
-          "name": "Ta-ku",
-          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
         },
         {
-          "name": "Billy Davis",
-          "url": "https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB"
-        },
-        {
-          "name": "Jay Prince",
-          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
         }
       ],
-      "duration_ms": 165600,
-      "name": "BETTER (feat. Jay Prince & Billy Davis)",
-      "url": "https://open.spotify.com/track/2uwes91y2qqJrutmEZJtlB"
+      "duration_ms": 252616,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
     }
   ],
   "unique_name": "Soulful",

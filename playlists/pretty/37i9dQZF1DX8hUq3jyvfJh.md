@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Alcione e mais mulheres icônicas para serem ouvidas no volume máximo! Foto: Alcione
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,504 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,516 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 7 | [Andança](https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [No Pagode](https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV) | 3:43 |
 | 8 | [Feliz, Alegre e Forte](https://open.spotify.com/track/5wIytrxWis1yWdvAE5z890) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A) | 2:56 |
 | 9 | [No Escuro](https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [No Escuro](https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI) | 3:58 |
-| 10 | [Batucada](https://open.spotify.com/track/6a19PoJb9vLXcpuJdG6fMZ) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:48 |
-| 11 | [Codinome Beija\-Flor](https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Codinome Beija\-Flor](https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv) | 2:29 |
+| 10 | [Codinome Beija\-Flor](https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Codinome Beija\-Flor](https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv) | 2:29 |
+| 11 | [Batucada](https://open.spotify.com/track/6a19PoJb9vLXcpuJdG6fMZ) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:48 |
 | 12 | [Cuidando de Longe](https://open.spotify.com/track/2DgAknj9a6riqm4h7mZdGD) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [A Pele do Futuro](https://open.spotify.com/album/1K9kdxE8GhOHuOnFYxoBco) | 3:40 |
 | 13 | [que mal que tem?](https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [que mal que tem?](https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY) | 2:37 |
 | 14 | [Vou Festejar](https://open.spotify.com/track/54JLlb23AnzXErLRSNVIUn) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [De Pé No Chão](https://open.spotify.com/album/2QxzAhXKjoUuiVO2sqMjP6) | 3:09 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 27 | [Lindo Dom](https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Lindo Dom](https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf) | 3:13 |
 | 28 | [Pena Que Acabou](https://open.spotify.com/track/57DTGthLG6wQGuJV1QDJCA) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Pena Que Acabou](https://open.spotify.com/album/79R8Ivfbp5Gz1PpvKoBVjJ) | 2:25 |
 | 29 | [O amor te dá](https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [O amor te dá](https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW) | 4:07 |
-| 30 | [Ofício de Cantante](https://open.spotify.com/track/0NNeK4HYMAGjWwX0SJMv4v) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Ofício de Cantante](https://open.spotify.com/album/28FxczQCIQtBEn0FGqWtxE) | 4:38 |
+| 30 | [Me Arrepender \- Ao Vivo](https://open.spotify.com/track/3Jo7IezM4VzhoheB1WwTJ4) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 2:20 |
 | 31 | [Acreditar](https://open.spotify.com/track/3pmYp7wfaDfr5OwHoxAR9K) | [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Pirajá Esquina Carioca \- uma Noite com a Raíz do Samba](https://open.spotify.com/album/7HW7vlBfeUVauC7TwiJpvl) | 2:33 |
-| 32 | [Me Arrepender \- Ao Vivo](https://open.spotify.com/track/3Jo7IezM4VzhoheB1WwTJ4) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 2:20 |
+| 32 | [Ofício de Cantante](https://open.spotify.com/track/0NNeK4HYMAGjWwX0SJMv4v) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Ofício de Cantante](https://open.spotify.com/album/28FxczQCIQtBEn0FGqWtxE) | 4:38 |
 | 33 | [Habilidades Extraordinárias](https://open.spotify.com/track/4ORL3b19kkul61f5Qem2r5) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Habilidades Extraordinárias](https://open.spotify.com/album/7CsBswgYYISQdoy5DqSywx) | 4:33 |
 | 34 | [Terezinha](https://open.spotify.com/track/6jZq2kwbo4pLsoREwTveq3) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Serour](https://open.spotify.com/artist/4L8osYNuWu9ggZONwYGGC8) | [Terezinha](https://open.spotify.com/album/6tk8iJGsL0xKCJ8zXbm20Z) | 2:22 |
 | 35 | [Reacender a Chama](https://open.spotify.com/track/3kH39Eb5UCv8Wl81U9sJK9) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:43 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 40 | [Ai de Mim](https://open.spotify.com/track/1y30J7NwRpNnbxhdllmhKr) | [Anastácia](https://open.spotify.com/artist/2T4nRuk5KkTVgh1v4hW9ju) | [Ai de Mim](https://open.spotify.com/album/2o2mDTQIHMjF56bGERodb4) | 3:02 |
 | 41 | [Estrela](https://open.spotify.com/track/3kgDQofZbNVUOfYC79nrHy) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Estrela](https://open.spotify.com/album/56CY72YnPlnTJpF8WJCgAp) | 4:16 |
 | 42 | [Boca de Açaí](https://open.spotify.com/track/3800xr8sjPfuUY4RPmqURB) | [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM) | [Azul](https://open.spotify.com/album/1TT0fRBUzpGzl3guLwmsVC) | 3:28 |
-| 43 | [BEIJANDO TODOS VOCÊS](https://open.spotify.com/track/7zXQVWgzxWZoTg3wzqP1ee) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [NEKTAR](https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg) | 3:15 |
-| 44 | [Quadrado Vivo](https://open.spotify.com/track/7pcqYaiUOaFvyKSY4L9eb9) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A) | [Quadrado Vivo](https://open.spotify.com/album/6iWiBNwuDyk5k4qA3xHhJj) | 3:15 |
+| 43 | [Quadrado Vivo](https://open.spotify.com/track/7pcqYaiUOaFvyKSY4L9eb9) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A) | [Quadrado Vivo](https://open.spotify.com/album/6iWiBNwuDyk5k4qA3xHhJj) | 3:15 |
+| 44 | [BEIJANDO TODOS VOCÊS](https://open.spotify.com/track/7zXQVWgzxWZoTg3wzqP1ee) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [NEKTAR](https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg) | 3:15 |
 | 45 | [Banho de Flor](https://open.spotify.com/track/1iYIQxjCRDIQPSQ1JbZz4D) | [Natascha Falcão](https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh) | [Ave Mulher](https://open.spotify.com/album/3XXT3bAnNji2gCysf4rU5V) | 3:16 |
 | 46 | [Outras Pessoas](https://open.spotify.com/track/3GPmORdDL9q7V3lG3NTPY0) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [Outras Pessoas](https://open.spotify.com/album/6VkLmqMgWidTCTK73U1eqW) | 3:19 |
 | 47 | [Salcity](https://open.spotify.com/track/2pBwl6sv6nSQ9mg2HJCoK5) | [Tícia](https://open.spotify.com/artist/32sKApT6WxIehmBNyGLsXN) | [Sagrada e Profana](https://open.spotify.com/album/6L6ZkI7Rd5iiHCvTvDkRTv) | 2:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Liberô Geral](https://open.spotify.com/track/656KfnvxwBqdvv4xk6y7ty) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Liberô Geral](https://open.spotify.com/album/0fhuotgqtda2nHGli4kfAX) | 3:30 |
 | 50 | [Deságua](https://open.spotify.com/track/2GMPFXQWfYKjKXRlxBsRlc) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 3:34 |
 
-Snapshot ID: `MCw2NzIzNjkwNWU2MmNiYTUzZjc3NGJkMDlkZWRmYzczMzEyYmI4MDBl`
+Snapshot ID: `MCwyZjgxYjI5OTQyMDZiYjdmYTk5NTEwNWM0NDFmOTE3OTY2ZWEzYjgz`

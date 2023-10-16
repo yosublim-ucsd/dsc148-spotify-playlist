@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Ice Nine Kills
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,035 likes - 56 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,128 likes - 56 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 55 | [Howl At The Sun](https://open.spotify.com/track/58KseCL7D09AQJ0AvqlDtC) | [Of Origins](https://open.spotify.com/artist/1B0ZXSOxKjtoddcG8DabpZ) | [Everything, Suddenly](https://open.spotify.com/album/3iWj9KmVcFbI4qcWQATsDQ) | 5:43 |
 | 56 | [Death·chaos·void](https://open.spotify.com/track/3frwYpO72nBBkn2TCTUBsz) | [Akouphenom](https://open.spotify.com/artist/1Sds5s7jYPS5iOfQebawN3) | [Death·chaos·void](https://open.spotify.com/album/4IxAlYMNOR9rsfot26RBk6) | 8:07 |
 
-Snapshot ID: `MCw4NDMwMWNiYWEyMTMwMTUyYzdkZjc5OGE4ZjEwNjgxNGZkYmM4ZjZk`
+Snapshot ID: `MCwxNDE1ZGMyYWNkNzdlYzA0ZGJiMDdmMWNiZWJkOWU0YzdhNTdjNGM2`

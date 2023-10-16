@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10074,
+  "num_followers": 10077,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2Q0M2UwNThiMjExNGJmZTUwM2JmMGE5ZDY5ZDJjOWM0ZDNlNjQ4",
+  "snapshot_id": "MCxlZTQwNGM4NmMyNjVlZjQ1ZTA0ZTYwNWQ5NTM5ZDY2OWFkN2MyNTNh",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI"
-      },
-      "artists": [
-        {
-          "name": "Daddy1",
-          "url": "https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi"
-        }
-      ],
-      "duration_ms": 175216,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "The Wedding Album",
         "url": "https://open.spotify.com/album/2K8mWL2Bph4tETpm54zOUQ"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 219846,
       "name": "Play Harder",
       "url": "https://open.spotify.com/track/6Cn3zyojCFk7QsVoQrU0xe"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI"
+      },
+      "artists": [
+        {
+          "name": "Daddy1",
+          "url": "https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi"
+        }
+      ],
+      "duration_ms": 175216,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Rats Hole Riddim",
-        "url": "https://open.spotify.com/album/6iMD5L9a8b28BmBRRMvZcl"
-      },
-      "artists": [
-        {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Soca Virgin",
         "url": "https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Rats Hole Riddim",
+        "url": "https://open.spotify.com/album/6iMD5L9a8b28BmBRRMvZcl"
+      },
+      "artists": [
+        {
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Toco Loco Riddim",
         "url": "https://open.spotify.com/album/2ob3YAOPzGhkHbj9JjIq7R"
       },
@@ -1079,26 +1079,6 @@
       "duration_ms": 184800,
       "name": "Wine",
       "url": "https://open.spotify.com/track/2gWT6JsauOrGYR1jForaRQ"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol. 9",
-        "url": "https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Rough Wine",
-      "url": "https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1123,6 +1103,26 @@
       "duration_ms": 181805,
       "name": "Wuk",
       "url": "https://open.spotify.com/track/5e9KCW4doT8xvliiDO8urK"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol. 9",
+        "url": "https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Rough Wine",
+      "url": "https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1239,26 +1239,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Toatin Riddim",
-        "url": "https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv"
+        "name": "Feeling It",
+        "url": "https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu"
       },
       "artists": [
         {
-          "name": "Motto",
-          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
+          "name": "Swappi",
+          "url": "https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ"
         },
         {
-          "name": "Nessa Preppy",
-          "url": "https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT"
-        },
-        {
-          "name": "Team Foxx",
-          "url": "https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM"
+          "name": "Ultimate Rejects",
+          "url": "https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA"
         }
       ],
-      "duration_ms": 116375,
-      "name": "Toat No Feelings",
-      "url": "https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau"
+      "duration_ms": 247272,
+      "name": "Feeling It",
+      "url": "https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ"
     }
   ],
   "unique_name": "Soca Bashment",

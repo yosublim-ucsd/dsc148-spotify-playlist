@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Trazendo a Arca",
-  "num_followers": 130177,
+  "num_followers": 130239,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTQxMmYwYTRkYzg3Nzc3NjNlZGUzZDcyNjRkZWRhZGJmOGQ4ZWM2",
+  "snapshot_id": "MCxlMjJiY2IyOTI5YTU2MDllNzlmMWYyM2E1MTE1NzljMDc2ZWZiN2Zl",
   "tracks": [
     {
       "added_at": "2023-10-13 15:51:12",
@@ -395,26 +395,6 @@
     {
       "added_at": "2023-10-13 15:51:12",
       "album": {
-        "name": "O Que Me Espera",
-        "url": "https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        },
-        {
-          "name": "Malta",
-          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
-        }
-      ],
-      "duration_ms": 221805,
-      "name": "O Que Me Espera",
-      "url": "https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY"
-    },
-    {
-      "added_at": "2023-10-13 15:51:12",
-      "album": {
         "name": "Tudo Fica Bem",
         "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 304240,
       "name": "Tudo Fica Bem",
       "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
+    },
+    {
+      "added_at": "2023-10-13 15:51:12",
+      "album": {
+        "name": "O Que Me Espera",
+        "url": "https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Malta",
+          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
+        }
+      ],
+      "duration_ms": 221805,
+      "name": "O Que Me Espera",
+      "url": "https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY"
     },
     {
       "added_at": "2023-10-13 15:51:12",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-10-13 15:51:12",
       "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
+        "name": "ATEU",
+        "url": "https://open.spotify.com/album/2C9WkmNAfnnFciTun3JAsb"
       },
       "artists": [
         {
-          "name": "Os Bravos",
-          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
         }
       ],
-      "duration_ms": 346917,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau"
+      "duration_ms": 245462,
+      "name": "ATEU",
+      "url": "https://open.spotify.com/track/0hz6L1XvtmDUgb5Z0zP0ua"
     },
     {
       "added_at": "2023-10-13 15:51:12",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-10-13 15:51:12",
       "album": {
-        "name": "ATEU",
-        "url": "https://open.spotify.com/album/2C9WkmNAfnnFciTun3JAsb"
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
       },
       "artists": [
         {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+          "name": "Os Bravos",
+          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
         }
       ],
-      "duration_ms": 245462,
-      "name": "ATEU",
-      "url": "https://open.spotify.com/track/0hz6L1XvtmDUgb5Z0zP0ua"
+      "duration_ms": 346917,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau"
     },
     {
       "added_at": "2023-10-13 15:51:12",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-10-13 15:51:12",
       "album": {
-        "name": "Salazar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN"
-      },
-      "artists": [
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        }
-      ],
-      "duration_ms": 380250,
-      "name": "A Vit\u00f3ria Da Cruz / Mais Que Vencedor - Ao Vivo",
-      "url": "https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr"
-    },
-    {
-      "added_at": "2023-10-13 15:51:12",
-      "album": {
         "name": "O Meu Lugar",
         "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2023-10-13 15:51:12",
       "album": {
-        "name": "Mauro",
-        "url": "https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz"
+        "name": "Salazar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN"
       },
       "artists": [
         {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
         }
       ],
-      "duration_ms": 250475,
-      "name": "Escolho Ser Fiel",
-      "url": "https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my"
+      "duration_ms": 380250,
+      "name": "A Vit\u00f3ria Da Cruz / Mais Que Vencedor - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr"
     },
     {
       "added_at": "2023-10-13 15:51:12",
@@ -647,6 +631,22 @@
       "duration_ms": 231250,
       "name": "Bartimeu",
       "url": "https://open.spotify.com/track/3Ym8Lc7IGOB59LJg9pWRLG"
+    },
+    {
+      "added_at": "2023-10-13 15:51:12",
+      "album": {
+        "name": "Mauro",
+        "url": "https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 250475,
+      "name": "Escolho Ser Fiel",
+      "url": "https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my"
     },
     {
       "added_at": "2023-10-13 15:51:12",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-10-13 15:51:12",
       "album": {
-        "name": "A Carta",
-        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
-      },
-      "artists": [
-        {
-          "name": "Abel Junho",
-          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
-        }
-      ],
-      "duration_ms": 296500,
-      "name": "A Carta",
-      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
-    },
-    {
-      "added_at": "2023-10-13 15:51:12",
-      "album": {
         "name": "Descanso",
         "url": "https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 403932,
       "name": "Descanso",
       "url": "https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL"
+    },
+    {
+      "added_at": "2023-10-13 15:51:12",
+      "album": {
+        "name": "A Carta",
+        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
+      },
+      "artists": [
+        {
+          "name": "Abel Junho",
+          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
+        }
+      ],
+      "duration_ms": 296500,
+      "name": "A Carta",
+      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
     },
     {
       "added_at": "2023-10-13 15:51:12",

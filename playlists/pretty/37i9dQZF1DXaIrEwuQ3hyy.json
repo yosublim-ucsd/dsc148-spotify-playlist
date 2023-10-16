@@ -1,12 +1,12 @@
 {
   "description": "Die Tage werden k\u00fcrzer und die Luft frischer. Hier ist dein Soundtrack f\u00fcr den goldenen Herbst.",
-  "num_followers": 1025330,
+  "num_followers": 1025768,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWRhNjAzZjg2MGVlNDIwNmRjZTlhYWFhMTY5N2VkZDljMWM0YmMy",
+  "snapshot_id": "MCwyZmY1ZDEzYTA3MzdlNDA2ZTI4MDU3MzNhYjg4ODE3MDcwNWFkZmY1",
   "tracks": [
     {
       "added_at": "2023-10-13 09:03:44",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-10-13 09:03:44",
       "album": {
-        "name": "Jessie (i miss you)",
-        "url": "https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 197748,
-      "name": "Jessie (i miss you)",
-      "url": "https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ"
-    },
-    {
-      "added_at": "2023-10-13 09:03:44",
-      "album": {
         "name": "tonight",
         "url": "https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 164477,
       "name": "tonight",
       "url": "https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc"
+    },
+    {
+      "added_at": "2023-10-13 09:03:44",
+      "album": {
+        "name": "Jessie (i miss you)",
+        "url": "https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 197748,
+      "name": "Jessie (i miss you)",
+      "url": "https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ"
     },
     {
       "added_at": "2023-10-13 09:03:44",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-10-13 09:03:44",
       "album": {
-        "name": "New Normal",
-        "url": "https://open.spotify.com/album/3icfuNPdPHFm1FS8WdBvRk"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 198765,
-      "name": "New Normal",
-      "url": "https://open.spotify.com/track/2CIYemjFXdmCWpJnfbtrD6"
-    },
-    {
-      "added_at": "2023-10-13 09:03:44",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/6i9bj9UAehl2AQLDmz5SDH"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 186641,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/67MDtHFmozKIM6WlbXIhCl"
+    },
+    {
+      "added_at": "2023-10-13 09:03:44",
+      "album": {
+        "name": "New Normal",
+        "url": "https://open.spotify.com/album/3icfuNPdPHFm1FS8WdBvRk"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 198765,
+      "name": "New Normal",
+      "url": "https://open.spotify.com/track/2CIYemjFXdmCWpJnfbtrD6"
     },
     {
       "added_at": "2023-10-13 09:03:44",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-10-13 09:03:44",
       "album": {
-        "name": "Eugene",
-        "url": "https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 221804,
-      "name": "Eugene",
-      "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg"
-    },
-    {
-      "added_at": "2023-10-13 09:03:44",
-      "album": {
         "name": "Calico",
         "url": "https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 231000,
       "name": "Calico",
       "url": "https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU"
+    },
+    {
+      "added_at": "2023-10-13 09:03:44",
+      "album": {
+        "name": "Eugene",
+        "url": "https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221804,
+      "name": "Eugene",
+      "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg"
     },
     {
       "added_at": "2023-10-13 09:03:44",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-10-13 09:03:44",
       "album": {
-        "name": "a touch of the beat gets you up on your feet gets you out and then into the sun",
-        "url": "https://open.spotify.com/album/00NPJAyth7IDd3jgZDCMdT"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 267880,
-      "name": "Slow Dancing",
-      "url": "https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ"
-    },
-    {
-      "added_at": "2023-10-13 09:03:44",
-      "album": {
         "name": "Where the Heart Is",
         "url": "https://open.spotify.com/album/6R4T8gjO7lrbP0bALaRFjG"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 217611,
       "name": "Where the Heart Is - Single Version",
       "url": "https://open.spotify.com/track/6z7ilJUz6errwzC7cEoDgm"
+    },
+    {
+      "added_at": "2023-10-13 09:03:44",
+      "album": {
+        "name": "a touch of the beat gets you up on your feet gets you out and then into the sun",
+        "url": "https://open.spotify.com/album/00NPJAyth7IDd3jgZDCMdT"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 267880,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ"
     },
     {
       "added_at": "2023-10-13 09:03:44",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-10-13 09:03:44",
       "album": {
-        "name": "Hosoi",
-        "url": "https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 166344,
-      "name": "By",
-      "url": "https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs"
-    },
-    {
-      "added_at": "2023-10-13 09:03:44",
-      "album": {
         "name": "Amniotic (Deluxe Version)",
         "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 274138,
       "name": "Outgrown",
       "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
+    },
+    {
+      "added_at": "2023-10-13 09:03:44",
+      "album": {
+        "name": "Man Man",
+        "url": "https://open.spotify.com/album/3N4rKiNU9T3WAuv6Xg9TIR"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "duration_ms": 172720,
+      "name": "Man Man",
+      "url": "https://open.spotify.com/track/1Ibiuakl4eDRoOpA7jYyRM"
     }
   ],
   "unique_name": "Herbst Chillout",

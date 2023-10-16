@@ -163,6 +163,24 @@
     },
     {
       "album": {
+        "name": "Back To Back (B2B)",
+        "url": "https://open.spotify.com/album/6bSMeMnzgxWncuRlL80p3s"
+      },
+      "artists": [
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175546,
+      "name": "Back To Back (B2B)",
+      "url": "https://open.spotify.com/track/0Ax0rAJqWrwJ7Tyib3dvUb"
+    },
+    {
+      "album": {
         "name": "Bad Gyalz",
         "url": "https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb"
       },
@@ -322,7 +340,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 218830,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm"
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 314000,
       "name": "Journey Inwards",
       "url": "https://open.spotify.com/track/3iLyAY6mucjT2lxrtincYz"
@@ -2810,6 +2828,28 @@
       "duration_ms": 159161,
       "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
       "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
+    },
+    {
+      "album": {
+        "name": "Too Shy",
+        "url": "https://open.spotify.com/album/1DnTFNdYDFboAGqs9T9BEs"
+      },
+      "artists": [
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "IYAMAH",
+          "url": "https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "Too Shy",
+      "url": "https://open.spotify.com/track/0rA0pNjUoFrnVfrRdl6eQN"
     },
     {
       "album": {

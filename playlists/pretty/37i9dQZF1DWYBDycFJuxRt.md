@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 女王蜂 \*👉 <a href="https://spice.eplus.jp/articles/322854?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,709 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,768 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Yakoh](https://open.spotify.com/track/6dUcef2suTSNVXSW78gBh8) | [Till Yawuh](https://open.spotify.com/artist/3kueCRD80jIeLrmDxjnL8b) | [To\-ri](https://open.spotify.com/album/6V8HY5qoG3ArNaF6pYMif4) | 5:00 |
 | 80 | [マジメチャン](https://open.spotify.com/track/0DLOPQUNF327B0tYFZkLgK) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [マジメチャン](https://open.spotify.com/album/2XdfuLghQ3NHvAtn4s4eMb) | 2:51 |
 
-Snapshot ID: `MCwyMzE3Zjg3OGY1YjlkZTgwMDg0YjM4YmFkZGMwZDQzZmQ5NDRhODdm`
+Snapshot ID: `MCxkMWMzYzJlOGE1YjI3N2NiNjhjZTFiOWI0YTVjOTljNmYyNjg0YWM0`

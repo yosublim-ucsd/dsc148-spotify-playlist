@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: 8blevrai
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,648 likes - 51 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,665 likes - 51 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 50 | [Voglio](https://open.spotify.com/track/3wjmdYObZwfPZNBuEggAcK) | [Pablo](https://open.spotify.com/artist/2v6DnAG79LafwKNHmyEhsJ), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [Ragazzi Persi](https://open.spotify.com/album/7zvU2pt7mTW5FWcNFH7u8g) | 2:34 |
 | 51 | [Contatto Romano \(feat\. Manali & Mescal Dom\)](https://open.spotify.com/track/543ohXW976Ir5IdMpbTLil) | [Sosa Priority](https://open.spotify.com/artist/0gDbGOh9itthM6koQpDLoc), [Manali](https://open.spotify.com/artist/0aH4uMOQMV806IsaRf4nLh), [Mescal Dom](https://open.spotify.com/artist/0Ybyxgq4ypFiGcoLAStiPr) | [Contatto Romano \(feat\. Manali & Mescal Dom\)](https://open.spotify.com/album/3d10pi96nYto14V1DQR08x) | 3:19 |
 
-Snapshot ID: `MCxiMGUxZTBiYWNhZDA0NTYzNzIwN2I0ZmMzODRhNWMxZjc3NzJiZDU1`
+Snapshot ID: `MCxlZTVlYmYyM2MxZGQ4NzE0ODZjMDkyMWFmNDhiZTZkZDIxYmM3OTkx`

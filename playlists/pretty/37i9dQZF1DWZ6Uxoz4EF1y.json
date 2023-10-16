@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 156421,
+  "num_followers": 156600,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWRlYWFmZjFkMmM5OTI5OTVmNWNlYTAyMzI2MmFmNjgzMzc5N2Jj",
+  "snapshot_id": "MCw4MGMyYTBkYjYwMzIyZTVhZWZiZjFlNzEzNTI4Yzc3NmRmZWM3NDZm",
   "tracks": [
     {
       "added_at": "2023-10-13 04:59:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Vida Encontr\u00e9",
-        "url": "https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Ll\u00e9vame A La Cruz",
-      "url": "https://open.spotify.com/track/73NLZ4uZrEls4JqIEXdbBZ"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Me Has Hecho Libre",
         "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 380316,
       "name": "Precioso Jes\u00fas",
       "url": "https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Vida Encontr\u00e9",
+        "url": "https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Ll\u00e9vame A La Cruz",
+      "url": "https://open.spotify.com/track/73NLZ4uZrEls4JqIEXdbBZ"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "En Esto Creo (Live)",
-        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
-      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "El Mismo Cielo",
         "url": "https://open.spotify.com/album/4a1zDZ3LqsdOsCb43s6l4r"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 230893,
       "name": "Como R\u00edo En Primavera",
       "url": "https://open.spotify.com/track/1yWXAAeTbbjWEfzKvNBLQA"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "En Esto Creo (Live)",
+        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
+      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "Dios Cuida De M\u00ed",
+        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
+      },
+      "artists": [
+        {
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
+        }
+      ],
+      "duration_ms": 312084,
+      "name": "Mi Cristo Vive",
+      "url": "https://open.spotify.com/track/7rz2GHDXUBsrFrxe1LnwTJ"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "La Bondad de Dios",
         "url": "https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 263731,
       "name": "Rey de Reyes",
       "url": "https://open.spotify.com/track/3GzWdBxKgTxxdmnQ3Bk0u2"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Dios Cuida De M\u00ed",
-        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
-      },
-      "artists": [
-        {
-          "name": "Danny Berrios",
-          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
-        }
-      ],
-      "duration_ms": 312084,
-      "name": "Mi Cristo Vive",
-      "url": "https://open.spotify.com/track/7rz2GHDXUBsrFrxe1LnwTJ"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -839,6 +839,22 @@
       "duration_ms": 291986,
       "name": "Mi Esperanza Est\u00e1 en Jes\u00fas (Live)",
       "url": "https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Santo R\u00edo de Dios",
+        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 301958,
+      "name": "Santo R\u00edo de Dios",
+      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -887,22 +903,6 @@
       "duration_ms": 299773,
       "name": "Me Entrego a Ti (En Vivo)",
       "url": "https://open.spotify.com/track/08p6rede6WyjmjbPzzuDsw"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Santo R\u00edo de Dios",
-        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 301958,
-      "name": "Santo R\u00edo de Dios",
-      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "El Eco De Su Voz",
-        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 299013,
-      "name": "Amor Sin Comparaci\u00f3n",
-      "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Enciende una Luz",
         "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Mirar\u00e9 al Rey",
-        "url": "https://open.spotify.com/album/027pf1seCyz8BPhya74n2L"
+        "name": "El Eco De Su Voz",
+        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
       },
       "artists": [
         {
-          "name": "Adoraci\u00f3n La IBI",
-          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
         }
       ],
-      "duration_ms": 287970,
-      "name": "Solo en Cristo",
-      "url": "https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd"
+      "duration_ms": 299013,
+      "name": "Amor Sin Comparaci\u00f3n",
+      "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1023,6 +1007,22 @@
       "duration_ms": 248845,
       "name": "Getseman\u00ed",
       "url": "https://open.spotify.com/track/3uXq732CuFiCGPu5U2SY9N"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Mirar\u00e9 al Rey",
+        "url": "https://open.spotify.com/album/027pf1seCyz8BPhya74n2L"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+        }
+      ],
+      "duration_ms": 287970,
+      "name": "Solo en Cristo",
+      "url": "https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1091,22 +1091,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Grande y Fiel (Live)",
-        "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
+        "name": "M\u00e1s De Ti",
+        "url": "https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v"
       },
       "artists": [
         {
-          "name": "Gateway Worship Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
         },
         {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 387500,
-      "name": "Santo Es Tu Nombre - Live",
-      "url": "https://open.spotify.com/track/0hGBNTxVICQBA55B9uHXT2"
+      "duration_ms": 189075,
+      "name": "M\u00e1s De Ti",
+      "url": "https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1123,6 +1123,26 @@
       "duration_ms": 288266,
       "name": "Creemos",
       "url": "https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Grande y Fiel (Live)",
+        "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 387500,
+      "name": "Santo Es Tu Nombre - Live",
+      "url": "https://open.spotify.com/track/0hGBNTxVICQBA55B9uHXT2"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1227,22 +1247,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "M\u00e1s De Ti",
-        "url": "https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v"
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT"
       },
       "artists": [
         {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        },
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+          "name": "Alex Rodriguez",
+          "url": "https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa"
         }
       ],
-      "duration_ms": 189075,
-      "name": "M\u00e1s De Ti",
-      "url": "https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks"
+      "duration_ms": 327400,
+      "name": "Merecedor de Alabanza",
+      "url": "https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1259,22 +1275,6 @@
       "duration_ms": 372767,
       "name": "Eres Tu",
       "url": "https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT"
-      },
-      "artists": [
-        {
-          "name": "Alex Rodriguez",
-          "url": "https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa"
-        }
-      ],
-      "duration_ms": 327400,
-      "name": "Merecedor de Alabanza",
-      "url": "https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "La Esposa",
-        "url": "https://open.spotify.com/album/5x1wzLOJaZj8M9Q0EGO6zM"
-      },
-      "artists": [
-        {
-          "name": "Crystal Lewis",
-          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
-        }
-      ],
-      "duration_ms": 321226,
-      "name": "Mi Redentor Vive",
-      "url": "https://open.spotify.com/track/704QgEqQm5uIqv8BtOxjTc"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Mi Jes\u00fas",
         "url": "https://open.spotify.com/album/7ac4ykr2GHuMYc29l6QzHx"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 260649,
       "name": "Mi Jes\u00fas",
       "url": "https://open.spotify.com/track/2w84WTatORJJTPLFqeTIlO"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "La Esposa",
+        "url": "https://open.spotify.com/album/5x1wzLOJaZj8M9Q0EGO6zM"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lewis",
+          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
+        }
+      ],
+      "duration_ms": 321226,
+      "name": "Mi Redentor Vive",
+      "url": "https://open.spotify.com/track/704QgEqQm5uIqv8BtOxjTc"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/38LDYEEGCyqAGzdrw8oqBz"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 269645,
+      "name": "El Gran Nombre del Se\u00f1or",
+      "url": "https://open.spotify.com/track/0KkApnj1iYzDEzloLovVOX"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/7up0mQ3oTyRGHGwa9YXVES"
       },
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Hasta Poder Ver",
-        "url": "https://open.spotify.com/album/38LDYEEGCyqAGzdrw8oqBz"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 269645,
-      "name": "El Gran Nombre del Se\u00f1or",
-      "url": "https://open.spotify.com/track/0KkApnj1iYzDEzloLovVOX"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Unidos Permanecemos (Live)",
         "url": "https://open.spotify.com/album/6L9KwXjzjFaM1PhQMvYYmm"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 329000,
       "name": "Solo Cristo (None But Jesus) - Live",
       "url": "https://open.spotify.com/track/3YloTZWHLZ2PadUE4LBLMu"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "ORO",
-        "url": "https://open.spotify.com/album/7m7fDq7zg6DuHnGXSwJwSx"
-      },
-      "artists": [
-        {
-          "name": "Crystal Lewis",
-          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
-        }
-      ],
-      "duration_ms": 320533,
-      "name": "Cristo Yo Creo en Ti",
-      "url": "https://open.spotify.com/track/5Z2l6WlbgKLAdZBMDQTwNc"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1567,6 +1551,22 @@
       "duration_ms": 206875,
       "name": "Barra Libre",
       "url": "https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "ORO",
+        "url": "https://open.spotify.com/album/7m7fDq7zg6DuHnGXSwJwSx"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lewis",
+          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
+        }
+      ],
+      "duration_ms": 320533,
+      "name": "Cristo Yo Creo en Ti",
+      "url": "https://open.spotify.com/track/5Z2l6WlbgKLAdZBMDQTwNc"
     },
     {
       "added_at": "2023-10-13 04:59:00",

@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 47891,
+  "num_followers": 47921,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzIyNWMyMTExN2EzYTMyMWQxZTY1MThhMTZhNTcyOTU1NDM0NTJh",
+  "snapshot_id": "MCw5MTc0MjhjMTZjYTdiYWYxM2RiZWY3OTUzOWM5YmIyZDhjMmMzNGMw",
   "tracks": [
     {
       "added_at": "2023-10-02 13:18:34",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Languid Gongue",
-        "url": "https://open.spotify.com/album/3h6haEyUYaLtJeEKxLce2s"
-      },
-      "artists": [
-        {
-          "name": "Luke Sanger",
-          "url": "https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Efflorescence",
-      "url": "https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Elm",
         "url": "https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 158729,
       "name": "Sequoia Slumber",
       "url": "https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Languid Gongue",
+        "url": "https://open.spotify.com/album/3h6haEyUYaLtJeEKxLce2s"
+      },
+      "artists": [
+        {
+          "name": "Luke Sanger",
+          "url": "https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Efflorescence",
+      "url": "https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "The landscape has become a bed",
-        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
-      },
-      "artists": [
-        {
-          "name": "Low Flung",
-          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
-        }
-      ],
-      "duration_ms": 299870,
-      "name": "Open plain",
-      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Being There (Ambient)",
         "url": "https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 303157,
       "name": "Drive West On Sunset - Ambient",
       "url": "https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "The landscape has become a bed",
+        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
+      },
+      "artists": [
+        {
+          "name": "Low Flung",
+          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
+        }
+      ],
+      "duration_ms": 299870,
+      "name": "Open plain",
+      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Five Steps",
-        "url": "https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Fitoussi",
-          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
-        },
-        {
-          "name": "Clemens Hourriere",
-          "url": "https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6"
-        }
-      ],
-      "duration_ms": 280087,
-      "name": "La colline",
-      "url": "https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Plonk",
         "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
       },
@@ -1087,6 +1067,26 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "Five Steps",
+        "url": "https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        },
+        {
+          "name": "Clemens Hourriere",
+          "url": "https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6"
+        }
+      ],
+      "duration_ms": 280087,
+      "name": "La colline",
+      "url": "https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "Mirror Ensemble",
         "url": "https://open.spotify.com/album/23mBqaNaTe05zZM8oQXtag"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 235000,
       "name": "Rose Water",
       "url": "https://open.spotify.com/track/6AEXBSliph7nngKCqahlV5"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Geoglyph",
+        "url": "https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Isles",
+          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
+        }
+      ],
+      "duration_ms": 364460,
+      "name": "A1. J-Math",
+      "url": "https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Geoglyph",
-        "url": "https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl"
-      },
-      "artists": [
-        {
-          "name": "Lord Of The Isles",
-          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
-        }
-      ],
-      "duration_ms": 364460,
-      "name": "A1. J-Math",
-      "url": "https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Pax Aurora",
         "url": "https://open.spotify.com/album/5taSxE1CYEDgJhm6iYFzML"
       },
@@ -1171,38 +1171,6 @@
       "duration_ms": 418064,
       "name": "Organic",
       "url": "https://open.spotify.com/track/194j607XLGLXSFe8Higlac"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Wrecked Exotic",
-        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
-      },
-      "artists": [
-        {
-          "name": "John Roberts",
-          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
-        }
-      ],
-      "duration_ms": 290555,
-      "name": "Paravents",
-      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Wing Pinger",
-        "url": "https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha"
-      },
-      "artists": [
-        {
-          "name": "Scanner",
-          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
-        }
-      ],
-      "duration_ms": 511730,
-      "name": "Wing Pinger 01",
-      "url": "https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1223,6 +1191,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "Wrecked Exotic",
+        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
+      },
+      "artists": [
+        {
+          "name": "John Roberts",
+          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
+        }
+      ],
+      "duration_ms": 290555,
+      "name": "Paravents",
+      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "Interlude 03",
         "url": "https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 199680,
       "name": "Interlude 03",
       "url": "https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Wing Pinger",
+        "url": "https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha"
+      },
+      "artists": [
+        {
+          "name": "Scanner",
+          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
+        }
+      ],
+      "duration_ms": 511730,
+      "name": "Wing Pinger 01",
+      "url": "https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ"
     },
     {
       "added_at": "2023-10-02 13:18:34",

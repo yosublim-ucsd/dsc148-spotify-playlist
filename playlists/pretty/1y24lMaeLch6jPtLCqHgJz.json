@@ -6,8 +6,24 @@
     "name": "Revealed Recordings",
     "url": "https://open.spotify.com/user/revealedrec"
   },
-  "snapshot_id": "MjQ0NCxiZDJlY2QyMWNjOWZhNDkyYjk0YTIyZTU5YWI3YmI3MjVlYjNkNDJh",
+  "snapshot_id": "MjQ0Niw2NDA4MDBmYTgwNjdhNjRhZmU4Y2ZkNTZkMWVkY2U1NjQxYmU0YjFl",
   "tracks": [
+    {
+      "added_at": "2023-10-15 14:03:00",
+      "album": {
+        "name": "MICK",
+        "url": "https://open.spotify.com/album/39yBBtZhxsANTHRZtFpMUe"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Roll Back",
+      "url": "https://open.spotify.com/track/2GFiXviurRB2qugGsD3bkE"
+    },
     {
       "added_at": "2023-10-13 14:25:29",
       "album": {

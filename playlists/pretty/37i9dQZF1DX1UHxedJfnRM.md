@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Tito Nieves, Gilberto Santa Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,510 likes - 80 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,647 likes - 80 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 3 | [Probablemente](https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Probablemente](https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP) | 5:00 |
 | 4 | [La Historia Más Bonita](https://open.spotify.com/track/3RcjPBOTMKVupOhSsaiPh4) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Llegué](https://open.spotify.com/album/00GHOs9aUdKNUSzZJAoWMw) | 4:01 |
 | 5 | [Usted No Sabe](https://open.spotify.com/track/35CmU6oPcyuzqxUk1nD5FJ) | [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [De Cuba a Perú](https://open.spotify.com/album/3Xbra0UAgQW7JPl6BEpvep) | 4:55 |
-| 6 | [Ese Hombre](https://open.spotify.com/track/0j91VTv3PrBm4qtHSnzjqw) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [Ese Hombre](https://open.spotify.com/album/7sBMGYMGE2bJLQwjoc2o0c) | 4:36 |
+| 6 | [Ese Hombre](https://open.spotify.com/track/0j91VTv3PrBm4qtHSnzjqw) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [Batule DJ](https://open.spotify.com/artist/349Ox95zDqb4BMjFf9C2Uq), [Los Barraza](https://open.spotify.com/artist/778IZzzTn8QDvdW5gANLCZ) | [Ese Hombre](https://open.spotify.com/album/7sBMGYMGE2bJLQwjoc2o0c) | 4:36 |
 | 7 | [The Reason \- Latin Version](https://open.spotify.com/track/1ON345iq5mxx518u3U4pyn) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Metamorfosis](https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6) | 3:11 |
 | 8 | [Me Hace Daño Verte](https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Trovando El Son](https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu) | 5:00 |
 | 9 | [Otra Como Tu](https://open.spotify.com/track/3yTn1nVCVIUM0dIbb4TuOR) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU), [Norlam la Melodia](https://open.spotify.com/artist/6a2oi57pF0ujx7wJNpUfuk) | [Otra Como Tu](https://open.spotify.com/album/7AYlRhSi6jSX0Y0plRh5GM) | 4:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 79 | [Ya No Me Llames Mas](https://open.spotify.com/track/1P8jEZ9Nr4RNjkh4nsEEFM) | [Janco Janner](https://open.spotify.com/artist/35WCIgNwjL6uCOXb8MGWhn) | [Ya No Me Llames Mas](https://open.spotify.com/album/75cfkR9HaYCbWRUfDyJbNh) | 4:13 |
 | 80 | [Si No Es Contigo](https://open.spotify.com/track/50GLVAzqvKamz7pArlrHST) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [Si No Es Contigo](https://open.spotify.com/album/6oM1bBU97ZRAduzNcBCCqj) | 4:44 |
 
-Snapshot ID: `MCwzZTNjNTVmZDBlYzJkODEwNmNiMGVmNDYxN2NhNWNlZTk4ZmI0ZjMx`
+Snapshot ID: `MCxkNDQzOTQ0YjQ1ZThlZjJjYjM1M2E4NjljZjI5OTljYjdlMWIzNTJh`

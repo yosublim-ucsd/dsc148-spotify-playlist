@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Troye Sivan
 
-1,669 songs - 3 day 18 hr 13 min
+1,670 songs - 3 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,8 @@
 | [DO IT AGAIN \- Official Song of the FIFA Women’s World Cup 2023™](https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [DO IT AGAIN \(Official Song of the FIFA Women’s World Cup 2023™\)](https://open.spotify.com/album/0ukxOYC2R59uzfIh3cDnub) | 2:56 | 2023-06-29 | 2023-07-07 |
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-07 | 2023-07-14 |
 | [Do Nothing](https://open.spotify.com/track/0dN0XNMFJ1XuUMDhHwE5ig) | [Winterbourne](https://open.spotify.com/artist/6ADN6CbxZ0IdI5Btdem7ty) | [Do Nothing](https://open.spotify.com/album/6ypj6Z6zl3erdyaOUDFwkZ) | 2:55 | 2023-08-17 | 2023-08-25 |
-| [Do You](https://open.spotify.com/track/0eHLd2rwOakcEiFwG0SztP) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Do You](https://open.spotify.com/album/3TA7Hh96OwARzUgw71ZcaO) | 4:08 | 2023-10-12 |  |
+| [Do You](https://open.spotify.com/track/0eHLd2rwOakcEiFwG0SztP) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Do You](https://open.spotify.com/album/3TA7Hh96OwARzUgw71ZcaO) | 4:08 | 2023-10-12 | 2023-10-16 |
+| [Do You](https://open.spotify.com/track/2tO1RrlOXyZAMqB0wDybXf) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd) | 4:08 | 2023-10-13 |  |
 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 | 2023-07-07 | 2023-07-14 |
 | [Do You Want Me](https://open.spotify.com/track/47ZuuTb6dmzEMvj8hurPLI) | [JYLPO](https://open.spotify.com/artist/1KeT36km8BYQZD79atBWCe) | [Do You Want Me](https://open.spotify.com/album/0fnGrV3TnZwxnfa3mgyiZo) | 3:41 | 2023-06-29 | 2023-07-07 |
 | [does it get boring](https://open.spotify.com/track/50oiwP7U2m6xAPbeCgbmUf) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [does it get boring](https://open.spotify.com/album/2WCctmadIGnGxGjJcPN8d3) | 2:27 | 2023-07-07 | 2023-07-14 |

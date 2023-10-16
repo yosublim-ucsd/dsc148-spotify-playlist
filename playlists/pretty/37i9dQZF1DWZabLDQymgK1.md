@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 
 > Homoelectric is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,816 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,841 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 39 | [Days Like This \(Spinna & Ticklah Mix\)](https://open.spotify.com/track/5Sq75inr2e6CBcUwLEDbLo) | [Shaun Escoffery](https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz) | [Shaun Escoffery](https://open.spotify.com/album/00I8nPkKbU28TjPtArLJWI) | 5:29 |
 | 40 | [You Started Something](https://open.spotify.com/track/6ygStI97HyjufP4vRgtVrd) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [The Wicked Is Music](https://open.spotify.com/album/2UZ62DB1jQEeK7WhdxNff2) | 7:27 |
 | 41 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 |
-| 42 | [There But for the Grace of God Go I \- Remix](https://open.spotify.com/track/238ktHqrZJtfyoF1xcvfSR) | [Machine](https://open.spotify.com/artist/2de3Y8cx2Qt1Z1Uh1wb97O) | [There But for the Grace of God Go I](https://open.spotify.com/album/6aV2FkJ96pTbZUDvllQ5gJ) | 5:17 |
+| 42 | [There But for the Grace of God Go I \- Remix](https://open.spotify.com/track/238ktHqrZJtfyoF1xcvfSR) | [Machine](https://open.spotify.com/artist/2de3Y8cx2Qt1Z1Uh1wb97O), [Timmy Regisford](https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH) | [There But for the Grace of God Go I](https://open.spotify.com/album/6aV2FkJ96pTbZUDvllQ5gJ) | 5:17 |
 | 43 | [Ain't No Mountain High Enough \- The Garage Version](https://open.spotify.com/track/2YVymWthRJewHNHPVvPiHh) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [Salsoul Classics, Vol\. 2](https://open.spotify.com/album/7M9BRTQMTFdw9mVnG2QumD) | 10:29 |
 | 44 | [Fascinated \- Miami Mix](https://open.spotify.com/track/3q0Wbd9fujRXRKdzRwZOlp) | [Company B](https://open.spotify.com/artist/56qkRjq9qsAxK5fc7U5moa), [Ciro Llerena](https://open.spotify.com/artist/5CY333LrlnhMG93mQ5etNq), [Randy Miller](https://open.spotify.com/artist/20hNWAoYbQ1wKsQcAoQRjw) | [Techno House Anthems](https://open.spotify.com/album/3P0BdZG7iAhvlt2MHnliqn) | 4:54 |
 | 45 | [Native Love \(Step By Step\) \- Original Mix](https://open.spotify.com/track/4AY6chAqcKO4TUB7EYXjNI) | [Divine](https://open.spotify.com/artist/1wASklF2AQfIVhSBWnUHwz) | [Native Love \(Step by Step\)](https://open.spotify.com/album/5MqdDaVdkpqAN54T5wgiaA) | 5:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 49 | [Like a Prayer \(Churchapella\)](https://open.spotify.com/track/4UX7TUsMu6QVPoBdpBEEqB) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like A Prayer](https://open.spotify.com/album/2qmMKmWqpPbsd6dKrZXgSV) | 6:08 |
 | 50 | [Say Hello, Wave Goodbye \- 7" Single Version](https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 5:23 |
 
-Snapshot ID: `MCw0ZDM4NzM5MGRlN2E4MjQ0MjU3OTdmM2U0NWJjMjM4ODhkOTIwYmNk`
+Snapshot ID: `MCxiYjc0Mjg1NWQ2MTFkN2M2YzJjMWUwNWY0NmY4MGQxYTM3NWEwYTg1`

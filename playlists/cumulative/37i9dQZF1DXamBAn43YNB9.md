@@ -4,7 +4,7 @@
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-101 songs - 5 hr 53 min
+102 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [The Road](https://open.spotify.com/track/1aQaYbYZkkQzGOt8BAEMrx) | [Colin Lillie](https://open.spotify.com/artist/5a1yu0NIiNh52zaCjD4rEb), [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ) | [The Road](https://open.spotify.com/album/0H7naYz3qpnF4k9f4vRomm) | 3:45 | 2023-06-15 | 2023-09-08 |
 | [Touch of the Outback](https://open.spotify.com/track/2futotmCCo2tIHmPsybQcd) | [Josh Arnold](https://open.spotify.com/artist/3bNkSSl10ckpEpWGVV4V3G) | [Touch of the Outback](https://open.spotify.com/album/4J6wpJHpq1HX88TVbYFvbe) | 2:40 | 2023-06-15 |  |
 | [Tourniquet](https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:09 | 2023-09-21 |  |
-| [Tunnel Vision](https://open.spotify.com/track/6ZISzizKHNE1Ic4YH280jw) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Slow Burn](https://open.spotify.com/album/7J6Zg9f19sUhiJsiIIQX1N) | 4:55 | 2023-06-15 |  |
+| [Tunnel Vision](https://open.spotify.com/track/1pOW9zVXAptyyJJHOLoEbn) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Slow Burn](https://open.spotify.com/album/3KoOqOh5N5sPOWzK3z3J6y) | 4:55 | 2023-09-21 |  |
+| [Tunnel Vision](https://open.spotify.com/track/6ZISzizKHNE1Ic4YH280jw) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Slow Burn](https://open.spotify.com/album/7J6Zg9f19sUhiJsiIIQX1N) | 4:55 | 2023-06-15 | 2023-10-16 |
 | [Where Are You Now \- Td's Song](https://open.spotify.com/track/0lDozc3d0cJB2MZADfFvCV) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Jamie McDell](https://open.spotify.com/album/6cDTr6ROfRdPeSqT0T54se) | 3:35 | 2023-06-15 | 2023-08-08 |
 | [Where I Wanna Be](https://open.spotify.com/track/4aBX6LjEPOo7DVyxNJvREr) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Robby X](https://open.spotify.com/artist/3sITW1EBX02neQWVyDV1EA) | [Backroad Nation](https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F) | 3:05 | 2023-06-15 |  |
 | [Where Magnolias Grow](https://open.spotify.com/track/4hgEmlUkBuElYuSYJxwNyf) | [Raechel Whitchurch](https://open.spotify.com/artist/23Lanv91sAHkTGulIJDIwd) | [Where Magnolias Grow](https://open.spotify.com/album/4cJUHpGC4uTdiXvPzjQekc) | 3:11 | 2023-08-03 |  |

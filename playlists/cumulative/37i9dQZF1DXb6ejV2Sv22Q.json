@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "160 Gramos",
       "url": "https://open.spotify.com/track/5jWKGPiw2PaIvOVzsqYQvv"
@@ -170,10 +170,62 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
+    },
+    {
+      "album": {
+        "name": "BANDOLERA",
+        "url": "https://open.spotify.com/album/6nYpSO0tsTpBKU4cvVl4xy"
+      },
+      "artists": [
+        {
+          "name": "Kobe Mane",
+          "url": "https://open.spotify.com/artist/4BTssiFELKNdNf96QDT3hQ"
+        },
+        {
+          "name": "LxS Compas",
+          "url": "https://open.spotify.com/artist/64pOhpD18qha5N7HW2HyQr"
+        },
+        {
+          "name": "VeucroX",
+          "url": "https://open.spotify.com/artist/5KafVAd0EHiaK92pAIppyi"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90783,
+      "name": "BANDOLERA",
+      "url": "https://open.spotify.com/track/2XnaKNAz1AtXCpnNqXvEDX"
+    },
+    {
+      "album": {
+        "name": "Beat do Usher",
+        "url": "https://open.spotify.com/album/0ARiOGa7HXJNCTtMdLSKNe"
+      },
+      "artists": [
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "MC Pipokinha",
+          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+        },
+        {
+          "name": "DJ Fagner",
+          "url": "https://open.spotify.com/artist/4uRSsD8MIqWfkYEAUcV8Qu"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108153,
+      "name": "Beat do Usher",
+      "url": "https://open.spotify.com/track/5CLeX93Gb2bUAHrP00UdxA"
     },
     {
       "album": {
@@ -302,7 +354,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 289000,
       "name": "Chanel",
       "url": "https://open.spotify.com/track/0WDBMtJby7pn1MTDAzSTQD"
@@ -534,7 +586,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 109838,
       "name": "IEVAN PHONK! - Nightcore Remix Speed Up",
       "url": "https://open.spotify.com/track/7j2s8QOVV4c7gO8hIde2rf"
@@ -817,6 +869,32 @@
     },
     {
       "album": {
+        "name": "Pepper",
+        "url": "https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y"
+      },
+      "artists": [
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq"
+    },
+    {
+      "album": {
         "name": "POOR",
         "url": "https://open.spotify.com/album/2LGwRNb8cYUJ02huVGfhxY"
       },
@@ -866,7 +944,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 405000,
       "name": "Por Mi M\u00e9xico (Remix)",
       "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
@@ -960,7 +1038,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 179560,
       "name": "Rainy Days",
       "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
@@ -1018,7 +1096,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 184510,
       "name": "Ride Or Die",
       "url": "https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI"
@@ -1083,6 +1161,28 @@
     },
     {
       "album": {
+        "name": "Sin Dormir (Ya Se Arm\u00f3)",
+        "url": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160150,
+      "name": "Sin Dormir (Ya Se Arm\u00f3)",
+      "url": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
+    },
+    {
+      "album": {
         "name": "Skibidi Bop Yes Yes",
         "url": "https://open.spotify.com/album/1DfZkN4JZsBPJayfKTbsQg"
       },
@@ -1116,10 +1216,32 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 187534,
       "name": "STILL INTACT",
       "url": "https://open.spotify.com/track/32DrbFp2vhzY9ENDNLBoOP"
+    },
+    {
+      "album": {
+        "name": "SUSTANCIAS EN MI CORAZON",
+        "url": "https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK"
+      },
+      "artists": [
+        {
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196875,
+      "name": "SUSTANCIAS EN MI CORAZON",
+      "url": "https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak"
     },
     {
       "album": {
@@ -1152,7 +1274,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 202506,
       "name": "Tonto Perdedor",
       "url": "https://open.spotify.com/track/67WSWDDuEEmBIXTchwACs1"

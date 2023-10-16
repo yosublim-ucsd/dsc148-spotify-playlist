@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-372 songs - 1 day 6 hr 59 min
+373 songs - 1 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Icarus \(イカロス\)](https://open.spotify.com/track/1EnmVnazOzlX5m94jI8Cu3) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Jōhatsu \(蒸発\)](https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV) | 4:46 | 2023-06-30 | 2023-07-14 |
 | [Ikigai](https://open.spotify.com/track/3JTxj4orzPrDjQFKBM2QAN) | [Le Motel](https://open.spotify.com/artist/4LLrhUqUv2Mi1NhHz0pjXd) | [Ikigai](https://open.spotify.com/album/1O3jxw1VI6uYIT7BRrLpBi) | 4:55 | 2022-05-18 | 2023-07-22 |
 | [In a Silent Way \- New Mix](https://open.spotify.com/track/09JurmiqC3O3P7so8giscX) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete in a Silent Way Sessions](https://open.spotify.com/album/6vA7hc6ySrlmsiSRNcdsey) | 4:15 | 2023-06-30 | 2023-07-14 |
-| [in pieces](https://open.spotify.com/track/3uzOkkEKhM3RAgvopKAUGH) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [epoch](https://open.spotify.com/album/4ylWmjw0NWQJ0fA4mKQbz6) | 3:08 | 2022-11-11 |  |
+| [in pieces](https://open.spotify.com/track/3uzOkkEKhM3RAgvopKAUGH) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [epoch](https://open.spotify.com/album/4ylWmjw0NWQJ0fA4mKQbz6) | 3:08 | 2022-11-11 | 2023-10-16 |
 | [Incredible Beetroot](https://open.spotify.com/track/7gXQGGW4xsAwe8MDcXusxc) | [Loris S\. Sarid](https://open.spotify.com/artist/0gYheMncGk0zhnDEwpRidl) | [Seabed\-Sunbath](https://open.spotify.com/album/5dazs6Z7DynTPgZVRR4X4J) | 2:40 | 2022-11-11 | 2023-09-06 |
 | [Inevitable Ecstasy](https://open.spotify.com/track/5q4zwxaubyyDfRJGKr4AuT) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL), [Formless](https://open.spotify.com/artist/4N26OJFbqADO7gAZsIZ2bj), [Alan Watts](https://open.spotify.com/artist/2CCcoAwiAwpIs1hcsqkk3b) | [The Art of Meditation](https://open.spotify.com/album/2YxnnC5GW5BEWI5xPbGAeY) | 5:02 | 2023-05-19 | 2023-06-06 |
 | [Infinite Branches \(Rework I\)](https://open.spotify.com/track/3Po5MXwQHn4RfTGLrWrZOJ) | [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL), [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [Infinite Branches](https://open.spotify.com/album/6WDNNZf7ddS7EfhJaD3meF) | 3:25 | 2023-03-16 |  |
@@ -263,6 +263,7 @@
 | [Resolve](https://open.spotify.com/track/3uIVrCIl65nlhaFL80bt2N) | [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy) | [Resolve](https://open.spotify.com/album/3zg1VuUxrTaOtItzW5pzE9) | 3:09 | 2022-03-17 | 2022-07-28 |
 | [rest](https://open.spotify.com/track/1bu0i3ZkCVYTTQhBywwJWK) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Rift](https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8) | 2:53 | 2022-03-30 | 2023-03-18 |
 | [Returning After Leaving](https://open.spotify.com/track/3M8vFR2Dca5db4ZDGiYnY5) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [Soundtracks for Winter Departures](https://open.spotify.com/album/4ktjEssT9GeVlNhhliA269) | 5:11 | 2023-03-16 | 2023-08-06 |
+| [Reverie](https://open.spotify.com/track/7AqVwBUWE2ydOy9gvrv9bW) | [Sunshine Recorder](https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8), [Cascadilla](https://open.spotify.com/artist/6fa5P1SFsexpT4141tAn7F) | [Reverie](https://open.spotify.com/album/1Tz5EtxQQDKStb9bJgA7EB) | 2:50 | 2023-10-06 |  |
 | [Rhizome](https://open.spotify.com/track/6c6HXxiF3LTHhXbHmQK6X0) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Bendik Giske](https://open.spotify.com/album/3ikz1DrVuK3gp5vanMKHR1) | 6:08 | 2023-09-22 | 2023-10-07 |
 | [Rintocco](https://open.spotify.com/track/5su2UU0bULk5kcpZtaWeE3) | [Fools](https://open.spotify.com/artist/79nlYDq7D71uO2A3NU0YAl) | [Fools' Harp, Vol\. 1](https://open.spotify.com/album/1yDu2ypRHg38PJ3yxWPklf) | 4:14 | 2022-03-17 | 2023-01-28 |
 | [River](https://open.spotify.com/track/4qZ3qGSX3SdFMuAfKfaTrc) | [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [Land](https://open.spotify.com/album/5NxqGXcWdmOuNLyMQKCuEZ) | 6:24 | 2023-08-18 | 2023-09-01 |

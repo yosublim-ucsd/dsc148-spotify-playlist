@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Pendulum \\m/",
-  "num_followers": 318506,
+  "num_followers": 318588,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWQyZGM5YWJiYTEwOTdkNDVkZDQwMTA4MGRlOWJmZTJmNmY1NzAx",
+  "snapshot_id": "MCw0MzllY2NlYTcwZGQyMzZiNjgxMTY0N2RmNGU0ZDIxZmRkMTMyZGMy",
   "tracks": [
     {
       "added_at": "2023-09-29 13:15:03",
@@ -967,26 +967,6 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "Onyx",
-        "url": "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 259401,
-      "name": "Our Fire",
-      "url": "https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
         "name": "Embers",
         "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 189721,
       "name": "Embers",
       "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 259401,
+      "name": "Our Fire",
+      "url": "https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "A Change of Perspective (Deluxe)",
-        "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
-      },
-      "artists": [
-        {
-          "name": "Covex",
-          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Regret - Remix",
-      "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
         "name": "HELLRAISERS, Part 2",
         "url": "https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb"
       },
@@ -1411,22 +1391,22 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "Throne",
-        "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
+        "name": "A Change of Perspective (Deluxe)",
+        "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
       },
       "artists": [
         {
-          "name": "Mazare",
-          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
         },
         {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
+      "duration_ms": 209454,
+      "name": "Regret - Remix",
+      "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -1447,6 +1427,26 @@
       "duration_ms": 310607,
       "name": "Skins",
       "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
+        "name": "Throne",
+        "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
+      },
+      "artists": [
+        {
+          "name": "Mazare",
+          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
+        },
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "Ghost Story (with All Time Low)",
-        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 166971,
-      "name": "Ghost Story (with All Time Low)",
-      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
         "name": "11 Minutes (feat. Travis Barker) [Kayzo Remix]",
         "url": "https://open.spotify.com/album/77iOq0ll6f92j1Z0O8mW1u"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 257349,
       "name": "11 Minutes (feat. Travis Barker) - Kayzo Remix",
       "url": "https://open.spotify.com/track/0YbKNvAu6wHeM4bfRTZFT3"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
+        "name": "Ghost Story (with All Time Low)",
+        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 166971,
+      "name": "Ghost Story (with All Time Low)",
+      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "F\u00d8\u00d8L (INHUMAN Remix)",
-        "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
-      },
-      "artists": [
-        {
-          "name": "GH\u00d8STKID",
-          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
-        },
-        {
-          "name": "INHUMAN",
-          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
-        }
-      ],
-      "duration_ms": 188730,
-      "name": "F\u00d8\u00d8L - INHUMAN Remix",
-      "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 255448,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
+        "name": "F\u00d8\u00d8L (INHUMAN Remix)",
+        "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
+      },
+      "artists": [
+        {
+          "name": "GH\u00d8STKID",
+          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+        },
+        {
+          "name": "INHUMAN",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+        }
+      ],
+      "duration_ms": 188730,
+      "name": "F\u00d8\u00d8L - INHUMAN Remix",
+      "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -1991,6 +1991,26 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 209411,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
         "name": "Never Go Back",
         "url": "https://open.spotify.com/album/4Um0ybuMNGabnrlBv0tJSD"
       },
@@ -2031,26 +2051,6 @@
       "duration_ms": 222400,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 209411,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -2099,6 +2099,26 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
+        "name": "Bad Luck",
+        "url": "https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "Kiz Keyz",
+          "url": "https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS"
+        }
+      ],
+      "duration_ms": 171243,
+      "name": "Bad Luck",
+      "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/5oSJfTqlsA91P6bZoc6SPV"
       },
@@ -2119,26 +2139,6 @@
       "duration_ms": 169285,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/4d8cOyzUS9pOwLr259T0WW"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
-        "name": "Bad Luck",
-        "url": "https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q"
-      },
-      "artists": [
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        },
-        {
-          "name": "Kiz Keyz",
-          "url": "https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS"
-        }
-      ],
-      "duration_ms": 171243,
-      "name": "Bad Luck",
-      "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -2219,26 +2219,6 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "Don't Miss (The Bloody Beetroots Remix)",
-        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        },
-        {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
-      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
         "name": "you\u2019ve changed, i\u2019ve changed",
         "url": "https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu"
       },
@@ -2255,6 +2235,26 @@
       "duration_ms": 311625,
       "name": "you\u2019ve changed, i\u2019ve changed",
       "url": "https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
+        "name": "Don't Miss (The Bloody Beetroots Remix)",
+        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        },
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
+      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -2459,26 +2459,6 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "self:antiself",
-        "url": "https://open.spotify.com/album/3wEiboxD08w4LBBK9TKm1p"
-      },
-      "artists": [
-        {
-          "name": "AWAY",
-          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
-        },
-        {
-          "name": "Crywolf",
-          "url": "https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z"
-        }
-      ],
-      "duration_ms": 290454,
-      "name": "Ghostbox",
-      "url": "https://open.spotify.com/track/0pasNqXDQBVGUVf131BNsI"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
         "name": "Cute Without The E (Ziri)",
         "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
       },
@@ -2495,6 +2475,26 @@
       "duration_ms": 202105,
       "name": "Cute Without The E (Ziri)",
       "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
+        "name": "self:antiself",
+        "url": "https://open.spotify.com/album/3wEiboxD08w4LBBK9TKm1p"
+      },
+      "artists": [
+        {
+          "name": "AWAY",
+          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
+        },
+        {
+          "name": "Crywolf",
+          "url": "https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z"
+        }
+      ],
+      "duration_ms": 290454,
+      "name": "Ghostbox",
+      "url": "https://open.spotify.com/track/0pasNqXDQBVGUVf131BNsI"
     }
   ],
   "unique_name": "Rocktronic",

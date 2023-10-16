@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 92830,
+  "num_followers": 92946,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWQ5ZjIzNjRiMGJjMmUwYTQ2YjE1OGFkYWIxNTcxYWM3MTI4YTQ0",
+  "snapshot_id": "MCw2NDQ1ODQ4MDJiNzc3YzllNzYwY2U3ZWJlZDNlMTNjODA2ZDc2MDhm",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -451,22 +451,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Worship Journal (Live)",
-        "url": "https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 384013,
-      "name": "Father Jesus Spirit (Live)",
-      "url": "https://open.spotify.com/track/3HFDqVk2aoM1o7MKARrW5U"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "More Than Anything (Radio Edit)",
         "url": "https://open.spotify.com/album/1fdSuqqPJUPRgJqiQpvUtc"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 260120,
       "name": "More Than Anything (Radio Edit)",
       "url": "https://open.spotify.com/track/0mVB0IVgOK7P1G77ZHTMc5"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Worship Journal (Live)",
+        "url": "https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 384013,
+      "name": "Father Jesus Spirit (Live)",
+      "url": "https://open.spotify.com/track/3HFDqVk2aoM1o7MKARrW5U"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -959,18 +959,18 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "God Is My Refuge (Live)",
-        "url": "https://open.spotify.com/album/4eY1uNXXv3QsNr12FYZ0hX"
+        "name": "Kingdom...LIVE!",
+        "url": "https://open.spotify.com/album/6s3BIqDGjArQt2Pv26qB6a"
       },
       "artists": [
         {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+          "name": "Geoffrey Golden",
+          "url": "https://open.spotify.com/artist/6f6vvDOOCgPmArVZcmVS2p"
         }
       ],
-      "duration_ms": 585080,
-      "name": "God Is My Refuge (Live)",
-      "url": "https://open.spotify.com/track/0DTCdLczLgxt8EXrQFgnQV"
+      "duration_ms": 306426,
+      "name": "All of My Help",
+      "url": "https://open.spotify.com/track/29RRapHwQNANgAdwc6HuPE"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -991,18 +991,18 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Kingdom...LIVE!",
-        "url": "https://open.spotify.com/album/6s3BIqDGjArQt2Pv26qB6a"
+        "name": "God Is My Refuge (Live)",
+        "url": "https://open.spotify.com/album/4eY1uNXXv3QsNr12FYZ0hX"
       },
       "artists": [
         {
-          "name": "Geoffrey Golden",
-          "url": "https://open.spotify.com/artist/6f6vvDOOCgPmArVZcmVS2p"
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
         }
       ],
-      "duration_ms": 306426,
-      "name": "All of My Help",
-      "url": "https://open.spotify.com/track/29RRapHwQNANgAdwc6HuPE"
+      "duration_ms": 585080,
+      "name": "God Is My Refuge (Live)",
+      "url": "https://open.spotify.com/track/0DTCdLczLgxt8EXrQFgnQV"
     }
   ],
   "unique_name": "Sundays Best",

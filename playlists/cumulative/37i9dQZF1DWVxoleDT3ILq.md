@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Francisco Victoria
 
-420 songs - 1 day 1 hr 18 min
+421 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Los chicos están tristes](https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Los chicos están tristes](https://open.spotify.com/album/4q5k1NJ7LYj5efxUatjm7L) | 3:04 | 2022-05-06 | 2023-05-13 |
 | [Lunachena](https://open.spotify.com/track/3IrwrEJzH75G8Iitfkrzhw) | [Tu Temple](https://open.spotify.com/artist/5s3HMKPs4Jn0nWvkXXASuF) | [Lunachena](https://open.spotify.com/album/2qTJJyW8DpSmZAzCOzsv3d) | 4:17 | 2023-09-29 | 2023-10-13 |
 | [Madre Mía](https://open.spotify.com/track/1KfTE7KeZzP9re6Z5iVwTT) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [Madre Mía](https://open.spotify.com/album/71oVyBiwTfXKZJ4vd7Cg0W) | 3:15 | 2022-04-15 | 2022-12-10 |
-| [Magnetismo](https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I) | [Makoli](https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [CASI PÚRPURA](https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ) | 2:48 | 2023-03-10 |  |
+| [Magnetismo](https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I) | [Makoli](https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [CASI PÚRPURA](https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ) | 2:48 | 2023-03-10 | 2023-10-16 |
 | [mala](https://open.spotify.com/track/0NizLHiBid5U3tEdcfMD1b) | [carla martinez](https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg) | [mala](https://open.spotify.com/album/3fV24ioWRPE5jfTlwhZiLj) | 3:26 | 2023-07-07 | 2023-08-24 |
 | [mala idea](https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [mala idea](https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z) | 3:43 | 2023-05-12 |  |
 | [Maldita Canción de Amor](https://open.spotify.com/track/5Y88RAG3qCTgAZRQiJclRN) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Maldita Canción de Amor](https://open.spotify.com/album/30Nej0tlaXSbJrahd70YLm) | 3:54 | 2022-04-15 | 2022-12-10 |
@@ -230,6 +230,7 @@
 | [Me Porto Bonito \- \(Post\-Punk\)](https://open.spotify.com/track/2xu9l5l3fm8noWonuDf3Cn) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Me Porto Bonito \(Post\-Punk\)](https://open.spotify.com/album/6TFTyQvQ60ixcqoFM0VYqy) | 3:00 | 2022-08-26 |  |
 | [Me Puedo Morir](https://open.spotify.com/track/3nb9xSUUpEGdKuFtpgR91I) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Me Puedo Morir](https://open.spotify.com/album/3BYhGn7oJWC1ML1Yvzp39c) | 4:04 | 2022-04-15 | 2022-08-04 |
 | [Me Siento Que No](https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Valentina](https://open.spotify.com/artist/2U9GIgYg7Olybp6vI0otld) | [Me Siento Que No](https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG) | 3:56 | 2023-02-03 | 2023-08-12 |
+| [Metatrón](https://open.spotify.com/track/6qUsTRejNR8WuUVqClm8Li) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Metatrón](https://open.spotify.com/album/5ATddaIPfN60xIgidfZSEV) | 3:56 | 2023-10-12 |  |
 | [Mi Camino Es Apenas Una Huella](https://open.spotify.com/track/5wnn9v60XXqJIdP2e7yPHK) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Mi Camino Es Apenas Una Huella](https://open.spotify.com/album/5YqfkhcnCPjF7JF5eBY2U0) | 3:18 | 2022-04-15 | 2022-08-03 |
 | [Mi querida tempestad \(en un vaso de agua\)](https://open.spotify.com/track/3szaRx7HP75ENQTXfchzOC) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mi querida tempestad \(en un vaso de agua\)](https://open.spotify.com/album/0vdhJS8mJiBAocCggPFf7D) | 2:57 | 2022-08-26 |  |
 | [Mi Sol Menor](https://open.spotify.com/track/0HJfgUh8DE2FzNqKwjR1St) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Mi Sol Menor](https://open.spotify.com/album/47JB62v141rFEtfppIGVj7) | 4:30 | 2022-04-15 | 2022-07-28 |

@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock bands/artists in Japan right now! Cover: Sambomaster(\u30b5\u30f3\u30dc\u30de\u30b9\u30bf\u30fc)",
-  "num_followers": 270106,
+  "num_followers": 270215,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTgwMjRiMTliNmM2NGFhMTQ3YzRjOWY4MjAyYWNhYzQ3MzFmMWM1",
+  "snapshot_id": "MCw5ZWIyZjQzNThkNTM2YWUyNmJlNTAwYjBkMjhhYWM0ZTIyMDQ5OTU4",
   "tracks": [
     {
       "added_at": "2023-10-10 15:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "\u7f8e\u3057\u3044\u9c2d",
-        "url": "https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9"
-      },
-      "artists": [
-        {
-          "name": "SPITZ",
-          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
-        }
-      ],
-      "duration_ms": 209777,
-      "name": "\u7f8e\u3057\u3044\u9c2d",
-      "url": "https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP"
-    },
-    {
-      "added_at": "2023-10-10 15:00:00",
-      "album": {
         "name": "MESSAGE",
         "url": "https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 222640,
       "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35"
+    },
+    {
+      "added_at": "2023-10-10 15:00:00",
+      "album": {
+        "name": "\u7f8e\u3057\u3044\u9c2d",
+        "url": "https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9"
+      },
+      "artists": [
+        {
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+        }
+      ],
+      "duration_ms": 209777,
+      "name": "\u7f8e\u3057\u3044\u9c2d",
+      "url": "https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
         }
       ],
-      "duration_ms": 228760,
-      "name": "Re:Re:",
-      "url": "https://open.spotify.com/track/0WaaPFt4Qy8sVfxKz43bCD"
+      "duration_ms": 225493,
+      "name": "\u30ea\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "\u511a\u304f\u306a\u3044",
-        "url": "https://open.spotify.com/album/5EEjxpKogAFBEgzf8Kjlv2"
-      },
-      "artists": [
-        {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
-        }
-      ],
-      "duration_ms": 310560,
-      "name": "\u511a\u304f\u306a\u3044",
-      "url": "https://open.spotify.com/track/4oGe0AT9wDhwHfDTifSw0e"
-    },
-    {
-      "added_at": "2023-10-10 15:00:00",
-      "album": {
         "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] (TV edit)",
         "url": "https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 89563,
       "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit",
       "url": "https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k"
+    },
+    {
+      "added_at": "2023-10-10 15:00:00",
+      "album": {
+        "name": "\u511a\u304f\u306a\u3044",
+        "url": "https://open.spotify.com/album/5EEjxpKogAFBEgzf8Kjlv2"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "duration_ms": 310560,
+      "name": "\u511a\u304f\u306a\u3044",
+      "url": "https://open.spotify.com/track/4oGe0AT9wDhwHfDTifSw0e"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
         }
       ],
-      "duration_ms": 225493,
-      "name": "\u30ea\u30e9\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ"
+      "duration_ms": 228760,
+      "name": "Re:Re:",
+      "url": "https://open.spotify.com/track/0WaaPFt4Qy8sVfxKz43bCD"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "Dark Crow",
-        "url": "https://open.spotify.com/album/1Rny5KOdByNfkZ9ww76NfT"
-      },
-      "artists": [
-        {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
-        }
-      ],
-      "duration_ms": 278186,
-      "name": "Dark Crow",
-      "url": "https://open.spotify.com/track/5aJg39ukLHsiCtCwoIHcF3"
-    },
-    {
-      "added_at": "2023-10-10 15:00:00",
-      "album": {
         "name": "834.194",
         "url": "https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 238000,
       "name": "\u5fd8\u308c\u3089\u308c\u306a\u3044\u306e",
       "url": "https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN"
+    },
+    {
+      "added_at": "2023-10-10 15:00:00",
+      "album": {
+        "name": "Dark Crow",
+        "url": "https://open.spotify.com/album/1Rny5KOdByNfkZ9ww76NfT"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "duration_ms": 278186,
+      "name": "Dark Crow",
+      "url": "https://open.spotify.com/track/5aJg39ukLHsiCtCwoIHcF3"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "NEW DAWN",
-        "url": "https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8"
+        "name": "sakanaction",
+        "url": "https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr"
       },
       "artists": [
         {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
         }
       ],
-      "duration_ms": 212745,
-      "name": "NEW DAWN",
-      "url": "https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG"
+      "duration_ms": 322986,
+      "name": "\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+      "url": "https://open.spotify.com/track/21kn2sWOZANPZHGOpW7pG9"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "sakanaction",
-        "url": "https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr"
+        "name": "NEW DAWN",
+        "url": "https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8"
       },
       "artists": [
         {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
         }
       ],
-      "duration_ms": 322986,
-      "name": "\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-      "url": "https://open.spotify.com/track/21kn2sWOZANPZHGOpW7pG9"
+      "duration_ms": 212745,
+      "name": "NEW DAWN",
+      "url": "https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "FIXION",
-        "url": "https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0"
+        "name": "DocumentaLy",
+        "url": "https://open.spotify.com/album/27S5Z17E6ZJNNuPoKddhGb"
       },
       "artists": [
         {
-          "name": "THE ORAL CIGARETTES",
-          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
         }
       ],
-      "duration_ms": 253746,
-      "name": "Kizukeyo Baby",
-      "url": "https://open.spotify.com/track/3EEaEEltAaQAp0EhIwJEaK"
+      "duration_ms": 246759,
+      "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/3Fki7feUIjOBqclsgHsDhL"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "DocumentaLy",
-        "url": "https://open.spotify.com/album/27S5Z17E6ZJNNuPoKddhGb"
+        "name": "FIXION",
+        "url": "https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0"
       },
       "artists": [
         {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
         }
       ],
-      "duration_ms": 246759,
-      "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
-      "url": "https://open.spotify.com/track/3Fki7feUIjOBqclsgHsDhL"
+      "duration_ms": 253746,
+      "name": "Kizukeyo Baby",
+      "url": "https://open.spotify.com/track/3EEaEEltAaQAp0EhIwJEaK"
     },
     {
       "added_at": "2023-10-10 15:00:00",

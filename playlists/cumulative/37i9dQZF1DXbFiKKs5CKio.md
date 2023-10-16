@@ -2,24 +2,26 @@
 
 ### [suíte.](https://open.spotify.com/playlist/37i9dQZF1DXbFiKKs5CKio)
 
-> Muito romance, groove suave e R&B feitos no Brasil\. Foto: Luthuly
+> Muito romance, groove suave e R&B feitos no Brasil.
 
-52 songs - 2 hr 56 min
+55 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aeroporto](https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aeroporto](https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq) | 3:29 | 2023-09-15 |  |
 | [Afrodite](https://open.spotify.com/track/5WyATZ79ZuG8IS4Sfqf8K7) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn) | [Chama](https://open.spotify.com/album/7uKJgLIQpEnzBW0wL2qUgj) | 3:25 | 2023-09-15 |  |
-| [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 | 2023-09-15 |  |
+| [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 | 2023-09-15 | 2023-10-16 |
 | [Auge](https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY), [iceton](https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj) | [Auge](https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu) | 3:10 | 2023-09-15 |  |
 | [Aurora](https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aurora](https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL) | 2:31 | 2023-09-15 |  |
+| [Brincava de Amar](https://open.spotify.com/track/2l2FbvWn2uathty65JcJCD) | [Carol Olly](https://open.spotify.com/artist/1eOQwXqT0DJ1XbXMdOp1QR), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Brincava de Amar](https://open.spotify.com/album/3il965mOJh8Jk3KjcxX4fg) | 2:05 | 2023-10-13 |  |
 | [Canela e hortelã](https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW) | [Gray C.](https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl), [T\-Rex](https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS) | [Canela e hortelã](https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ) | 3:32 | 2023-09-15 |  |
 | [Carinho](https://open.spotify.com/track/18dRY86aWEyp7E2WzlhMLT) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Carinho](https://open.spotify.com/album/35LwHQVDtxMoYGM6tYEYLC) | 2:58 | 2023-09-15 |  |
 | [Coisas Simples](https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Coisas Simples](https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s) | 2:37 | 2023-09-15 |  |
 | [Cola Comigo](https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Cola Comigo](https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw) | 3:28 | 2023-09-15 |  |
 | [Conexão](https://open.spotify.com/track/2EWaBErOpttybo792PEzIB) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Conexão](https://open.spotify.com/album/3ZtPh7k9yk0F7f6KuiizWH) | 3:45 | 2023-09-22 |  |
-| [Correnteza \- A COLORS SHOW](https://open.spotify.com/track/3cDlYpaelgDahCMQlyJBgj) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY) | [Correnteza \- A COLORS SHOW](https://open.spotify.com/album/3JwynjyDmYuvrZOFXhiUfU) | 3:22 | 2023-09-15 |  |
+| [Correnteza \- A COLORS SHOW](https://open.spotify.com/track/3cDlYpaelgDahCMQlyJBgj) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY) | [Correnteza \- A COLORS SHOW](https://open.spotify.com/album/3JwynjyDmYuvrZOFXhiUfU) | 3:22 | 2023-09-15 | 2023-10-16 |
 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 | 2023-09-15 |  |
+| [Debochada](https://open.spotify.com/track/429MZRfRYM5RWR5Lie3beS) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [Só Vem](https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC) | 3:08 | 2023-10-13 |  |
 | [Dias Bons \(Alright\)](https://open.spotify.com/track/4TKJmXGlHLg1gBAoeYDMth) | [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Ill Camille](https://open.spotify.com/artist/4XPgViBvmCOxptCYxTvJo4) | [Universo Suspenso](https://open.spotify.com/album/7A6eBJTbdBIkLzD21yYskR) | 4:11 | 2023-09-15 |  |
 | [Doce](https://open.spotify.com/track/5EGSzOyGjuJYJn887AWGbS) | [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [Drama 808](https://open.spotify.com/artist/6fNCOhWNXgliXlRJvqYkGm) | [Doce](https://open.spotify.com/album/5VXcdZJ17qxGnbea65ZsHs) | 3:16 | 2023-09-15 |  |
 | [Doses](https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa) | [Kanda Ent](https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze), [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [Ouroboros](https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU) | 2:32 | 2023-09-15 |  |
@@ -46,7 +48,7 @@
 | [Ponte para Terapia](https://open.spotify.com/track/0QiPpYaOqbq8a5uY2TK7P4) | [Amanda Leite](https://open.spotify.com/artist/4Q49VqEExmuqtNK2QZAthq), [Track Room](https://open.spotify.com/artist/3z9m0AVnhY4i7HHL8wOMdc) | [Ponte para Terapia](https://open.spotify.com/album/5yTc6JsARqGCX6mjUnXRq6) | 3:19 | 2023-09-15 |  |
 | [Pouco a Pouco](https://open.spotify.com/track/2XpLF91lmKXTduqNIAhsqe) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Os Garotin Session](https://open.spotify.com/album/1TmShjmZqjOqvhCbma8B4s) | 2:51 | 2023-09-15 |  |
 | [Pulando](https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c) | [Pulando](https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN) | 2:44 | 2023-09-15 |  |
-| [Quer Saber](https://open.spotify.com/track/71ppt3UJSaN6vKK8QYvncu) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Quer Saber](https://open.spotify.com/album/0dYLcytZcb8EZqTVa0t0r4) | 2:56 | 2023-09-15 |  |
+| [Quer Saber](https://open.spotify.com/track/71ppt3UJSaN6vKK8QYvncu) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Quer Saber](https://open.spotify.com/album/0dYLcytZcb8EZqTVa0t0r4) | 2:56 | 2023-09-15 | 2023-10-16 |
 | [Química Perfeita](https://open.spotify.com/track/0oIqwGCNw2u7gmL0yF9svI) | [JE$$I](https://open.spotify.com/artist/5dNWhZSPl0VSzZgvChB11Q), [Kadow](https://open.spotify.com/artist/393VRrXwPo9GrGgJd6FeWx) | [Química Perfeita](https://open.spotify.com/album/4N9f3X6QVI2CPt9byDyzGw) | 2:57 | 2023-09-15 |  |
 | [Renascer](https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Renascer](https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45) | 4:54 | 2023-09-15 |  |
 | [Se Foi](https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Hip Hop Machine \#18](https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS) | 5:57 | 2023-09-15 |  |
@@ -59,6 +61,7 @@
 | [Um momento](https://open.spotify.com/track/3ZBvsS1lEFjKc6kUqsAcHY) | [Gray C.](https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl), [T\-Rex](https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS) | [Um momento](https://open.spotify.com/album/07S8GOxygxS3qpgcaU3npE) | 3:00 | 2023-09-15 |  |
 | [VAI DAR BOM](https://open.spotify.com/track/3WKoJ3XpkwOLyR1MROs59k) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr) | [Vai dar Bom](https://open.spotify.com/album/45VqPGiDgFuiqeiOKtaxk5) | 3:24 | 2023-09-15 |  |
 | [Vestido Vermelho](https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm) | [Vestido Vermelho](https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss) | 2:50 | 2023-09-15 |  |
+| [Zero a Cem](https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Zero a Cem](https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG) | 3:10 | 2023-10-13 |  |
 | [Índigo \(Te Venero\)](https://open.spotify.com/track/73Yn2f5eGn3iG4bzTB98tl) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Índigo \(Te Venero\)](https://open.spotify.com/album/0w0NCCZiMTaLmPYXZRtBqT) | 3:14 | 2023-09-15 |  |
 
 \*This playlist was first scraped on 2023-09-18. Prior content cannot be recovered.

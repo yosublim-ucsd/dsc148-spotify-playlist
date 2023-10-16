@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: T Breezy x Walker Boy\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,683 likes - 115 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,704 likes - 115 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 49 | [I Want You Dead](https://open.spotify.com/track/6G7oIm5oIcd8cJ0513hYV5) | [Drift](https://open.spotify.com/artist/5As4J0NBaerSYQNuKgVuXi) | [Candyland](https://open.spotify.com/album/20wqWjwhu1NhPqRipNSrON) | 3:20 |
 | 50 | [Neighbours Never Wave](https://open.spotify.com/track/19i30clFcw3oyljs0WSUhz) | [Sid's Balcony](https://open.spotify.com/artist/3xaYtryvMV4jdpx3h4Ydaq) | [Neighbours Never Wave](https://open.spotify.com/album/7wz51Itl7KzEu8M1brdNi4) | 3:26 |
 | 51 | [Silly Little Things](https://open.spotify.com/track/7dlMohYqLtRbhUCG4yECUV) | [Tex Crick](https://open.spotify.com/artist/6tZLFWPPLQRWjRaDAhVYu0) | [Silly Little Things](https://open.spotify.com/album/0c66VzEzfBuypF1LX6Cg2S) | 3:11 |
-| 52 | [Molly Sucks \(At Parties\)](https://open.spotify.com/track/3boVjk1GSKD4mnJJbmdXf9) | [GAZAL](https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU), [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Molly Sucks \(At Parties\)](https://open.spotify.com/album/7pETeC6zWXLdNGFGrdM6X8) | 3:13 |
+| 52 | [Molly Sucks \(At Parties\) \[feat\. Chanel Loren\]](https://open.spotify.com/track/3boVjk1GSKD4mnJJbmdXf9) | [GAZAL](https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU), [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Molly Sucks \(At Parties\) \[feat\. Chanel Loren\]](https://open.spotify.com/album/7pETeC6zWXLdNGFGrdM6X8) | 3:13 |
 | 53 | [Haiku Song](https://open.spotify.com/track/0pXlw4HLoeTZ86hxyWmiOi) | [Hannah Cameron](https://open.spotify.com/artist/5YONmUkKMhcZ425zGUfhqF) | [Holding Pattern](https://open.spotify.com/album/5QtjSD5s65FbCSkqSl7oMe) | 4:00 |
 | 54 | [Work With That](https://open.spotify.com/track/1vFjTDMs6UupIo9v52mokR) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Work With That](https://open.spotify.com/album/4wdqIrFeiYfitJJfcDjmQu) | 3:21 |
 | 55 | [WHAT IF](https://open.spotify.com/track/7qke4DL2gzazQqrrOzDMDR) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [WHAT IF](https://open.spotify.com/album/6GqmmKHEzloi6DA5WkqaRm) | 2:34 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 114 | [Horror Movie](https://open.spotify.com/track/0N7DrFdls2ZCXInaviVLdL) | [Gia Darcy](https://open.spotify.com/artist/5asUNjuXqcxAs2PmpQxGK1) | [Horror Movie](https://open.spotify.com/album/4YMvlIOgp4JbOzrOmyBhL1) | 3:10 |
 | 115 | [Adam](https://open.spotify.com/track/40RVEzCRBmQpMQFL6KxNnV) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [Adam](https://open.spotify.com/album/75zWtv9nKbJ4EgEh0yCpHZ) | 3:16 |
 
-Snapshot ID: `MCw2NTRjZjM4YjRkNTg0MWEzMjA0MWM4N2VkN2JjZTI2OTVhNmQ5MjVh`
+Snapshot ID: `MCxmZWQwMTk5ODk2NWY4OGE5ZTZmZmZmYmQ5NGIzODFjNmE5NmRiYjgy`

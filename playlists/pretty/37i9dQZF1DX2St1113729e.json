@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Rakky Ripper & Rizha",
-  "num_followers": 121848,
+  "num_followers": 121899,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTk2NzMyY2U2ZWJiNTM5YzBiYzQ2MTg0MzgyZGIyMjUyNzMwY2Uy",
+  "snapshot_id": "MCwyOTVlNmY3Mzc0YjgwNGU1YmUzMDRkMjViNzM1NTY0MDYxODdkZDY5",
   "tracks": [
     {
       "added_at": "2023-10-13 06:00:00",
@@ -699,42 +699,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/34rNPzXxoTSYuvwxpTVVgI"
-      },
-      "artists": [
-        {
-          "name": "Japogang",
-          "url": "https://open.spotify.com/artist/506Thef5DTWpeFlL88CdNX"
-        }
-      ],
-      "duration_ms": 131076,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/1iYITh2uynZrMuOP1PKa7a"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Palante",
-        "url": "https://open.spotify.com/album/0sBRsyQk7EbELxvb4nTcrr"
-      },
-      "artists": [
-        {
-          "name": "El Virtual",
-          "url": "https://open.spotify.com/artist/1M6Haz9vxliXQXeVO49CSY"
-        },
-        {
-          "name": "Valley Fresh On Sauce",
-          "url": "https://open.spotify.com/artist/1yij0rXHCHACWoIJVBjULZ"
-        }
-      ],
-      "duration_ms": 111552,
-      "name": "Palante",
-      "url": "https://open.spotify.com/track/2IsaQLwwY53fruOUKyhlw9"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "CHICA BONITA",
         "url": "https://open.spotify.com/album/1UuhV7VQzkEXU6o37DC1ZC"
       },
@@ -767,6 +731,42 @@
       "duration_ms": 153666,
       "name": "ESPINAS",
       "url": "https://open.spotify.com/track/3kcIQKnSLJP0KUWumNsDfb"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/34rNPzXxoTSYuvwxpTVVgI"
+      },
+      "artists": [
+        {
+          "name": "Japogang",
+          "url": "https://open.spotify.com/artist/506Thef5DTWpeFlL88CdNX"
+        }
+      ],
+      "duration_ms": 131076,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/1iYITh2uynZrMuOP1PKa7a"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Palante",
+        "url": "https://open.spotify.com/album/0sBRsyQk7EbELxvb4nTcrr"
+      },
+      "artists": [
+        {
+          "name": "El Virtual",
+          "url": "https://open.spotify.com/artist/1M6Haz9vxliXQXeVO49CSY"
+        },
+        {
+          "name": "Valley Fresh On Sauce",
+          "url": "https://open.spotify.com/artist/1yij0rXHCHACWoIJVBjULZ"
+        }
+      ],
+      "duration_ms": 111552,
+      "name": "Palante",
+      "url": "https://open.spotify.com/track/2IsaQLwwY53fruOUKyhlw9"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "shichi",
-        "url": "https://open.spotify.com/album/2AGyrvbV1YyP5Ju6sV8YTY"
-      },
-      "artists": [
-        {
-          "name": "Japogang",
-          "url": "https://open.spotify.com/artist/506Thef5DTWpeFlL88CdNX"
-        }
-      ],
-      "duration_ms": 124752,
-      "name": "shichi",
-      "url": "https://open.spotify.com/track/2zWcdtl80T8TWIwkpnyzVZ"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "gaZzZzZ",
         "url": "https://open.spotify.com/album/6S4A3uQtVBp6JCJ3Jqv0AI"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 157237,
       "name": "gaZzZzZ",
       "url": "https://open.spotify.com/track/0QqWd0ZVvK0H9hf02GI2I3"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "shichi",
+        "url": "https://open.spotify.com/album/2AGyrvbV1YyP5Ju6sV8YTY"
+      },
+      "artists": [
+        {
+          "name": "Japogang",
+          "url": "https://open.spotify.com/artist/506Thef5DTWpeFlL88CdNX"
+        }
+      ],
+      "duration_ms": 124752,
+      "name": "shichi",
+      "url": "https://open.spotify.com/track/2zWcdtl80T8TWIwkpnyzVZ"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "BRAGUETA ABIERTA",
-        "url": "https://open.spotify.com/album/4emlv8delY0w6iM75ikyNT"
+        "name": "EP1 \u00b7 (\u0482\u25e1_\u25e1)",
+        "url": "https://open.spotify.com/album/0FwBzeTyAxzcTT9ov81hjo"
       },
       "artists": [
         {
-          "name": "Sergi Prim",
-          "url": "https://open.spotify.com/artist/0QX72xwJCZnISwlruqyehy"
+          "name": "Guayaba",
+          "url": "https://open.spotify.com/artist/5MOE8DFWAHa51a5gKzz78m"
         }
       ],
-      "duration_ms": 179250,
-      "name": "BRAGUETA ABIERTA",
-      "url": "https://open.spotify.com/track/3aWGjHjRnXX6eGkPWebvoU"
+      "duration_ms": 160500,
+      "name": "dondestas tu? (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b",
+      "url": "https://open.spotify.com/track/5Wd5tZzpUOoIUcfxwLEKbi"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1603,6 +1603,22 @@
       "duration_ms": 160075,
       "name": "Es Un Placer Conocerte",
       "url": "https://open.spotify.com/track/2M1bRGK3o1VKEFXqQLHceM"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "BRAGUETA ABIERTA",
+        "url": "https://open.spotify.com/album/4emlv8delY0w6iM75ikyNT"
+      },
+      "artists": [
+        {
+          "name": "Sergi Prim",
+          "url": "https://open.spotify.com/artist/0QX72xwJCZnISwlruqyehy"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "BRAGUETA ABIERTA",
+      "url": "https://open.spotify.com/track/3aWGjHjRnXX6eGkPWebvoU"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1675,6 +1691,26 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "Anesthesia",
+        "url": "https://open.spotify.com/album/32Q7r3heHX8qo2DQIisRcN"
+      },
+      "artists": [
+        {
+          "name": "Eflexx",
+          "url": "https://open.spotify.com/artist/1Hn4pH541qMOF6J8F3jprI"
+        },
+        {
+          "name": "Paul Rox",
+          "url": "https://open.spotify.com/artist/69ewH3fCLlLLsA6RaqJPP4"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Anesthesia",
+      "url": "https://open.spotify.com/track/4bUJAlDGjmIuyJAJbXabPo"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "nuevesiNKO\u2661",
         "url": "https://open.spotify.com/album/7afoR1cm0EDelClNBHtyYT"
       },
@@ -1695,6 +1731,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "Tu capitto",
+        "url": "https://open.spotify.com/album/0wt1xhWFYu81yEb5ESKBX9"
+      },
+      "artists": [
+        {
+          "name": "Carlo Frio",
+          "url": "https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc"
+        }
+      ],
+      "duration_ms": 122128,
+      "name": "Tu capitto",
+      "url": "https://open.spotify.com/track/40fQIanIIxeAcFVlQKg2eT"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "TikTok",
         "url": "https://open.spotify.com/album/35hGzz3bFwNrnqfPuYTDWu"
       },
@@ -1711,22 +1763,6 @@
       "duration_ms": 128003,
       "name": "TikTok",
       "url": "https://open.spotify.com/track/6KkDeZ5espFoLmhKuaJkwh"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Tu capitto",
-        "url": "https://open.spotify.com/album/0wt1xhWFYu81yEb5ESKBX9"
-      },
-      "artists": [
-        {
-          "name": "Carlo Frio",
-          "url": "https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc"
-        }
-      ],
-      "duration_ms": 122128,
-      "name": "Tu capitto",
-      "url": "https://open.spotify.com/track/40fQIanIIxeAcFVlQKg2eT"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1783,22 +1819,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Beat Me (Remix Explosivo)",
-        "url": "https://open.spotify.com/album/7hcPupYHbFXVOpttQVxacH"
-      },
-      "artists": [
-        {
-          "name": "Hadren",
-          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
-        }
-      ],
-      "duration_ms": 118600,
-      "name": "Beat Me (Remix Explosivo)",
-      "url": "https://open.spotify.com/track/3pLEWYyaNw7Hp4WyevTjtY"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "Nunca Volver\u00e9",
         "url": "https://open.spotify.com/album/3vxvkDcg2URhGDXisMLlte"
       },
@@ -1839,6 +1859,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "Beat Me (Remix Explosivo)",
+        "url": "https://open.spotify.com/album/7hcPupYHbFXVOpttQVxacH"
+      },
+      "artists": [
+        {
+          "name": "Hadren",
+          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
+        }
+      ],
+      "duration_ms": 118600,
+      "name": "Beat Me (Remix Explosivo)",
+      "url": "https://open.spotify.com/track/3pLEWYyaNw7Hp4WyevTjtY"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "Entre Tanta Gente",
         "url": "https://open.spotify.com/album/45F6t9OxN6HekLxQtEbRXo"
       },
@@ -1851,42 +1887,6 @@
       "duration_ms": 129229,
       "name": "Entre Tanta Gente",
       "url": "https://open.spotify.com/track/20O2VCZGEykubAmvurLrwv"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "EP1 \u00b7 (\u0482\u25e1_\u25e1)",
-        "url": "https://open.spotify.com/album/0FwBzeTyAxzcTT9ov81hjo"
-      },
-      "artists": [
-        {
-          "name": "Guayaba",
-          "url": "https://open.spotify.com/artist/5MOE8DFWAHa51a5gKzz78m"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "dondestas tu? (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b",
-      "url": "https://open.spotify.com/track/5Wd5tZzpUOoIUcfxwLEKbi"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Anesthesia",
-        "url": "https://open.spotify.com/album/32Q7r3heHX8qo2DQIisRcN"
-      },
-      "artists": [
-        {
-          "name": "Eflexx",
-          "url": "https://open.spotify.com/artist/1Hn4pH541qMOF6J8F3jprI"
-        },
-        {
-          "name": "Paul Rox",
-          "url": "https://open.spotify.com/artist/69ewH3fCLlLLsA6RaqJPP4"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Anesthesia",
-      "url": "https://open.spotify.com/track/4bUJAlDGjmIuyJAJbXabPo"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1943,22 +1943,18 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "2035",
-        "url": "https://open.spotify.com/album/7xcHmGc4ctuRjSQn54hZst"
+        "name": "emoji de calavera",
+        "url": "https://open.spotify.com/album/4TWLxFnfI6sRzlAW9wSV26"
       },
       "artists": [
         {
-          "name": "Hadren",
-          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
-        },
-        {
-          "name": "Nina Emocional",
-          "url": "https://open.spotify.com/artist/6Dqvme3Uru6IJaryxBgknz"
+          "name": "nuevesinko",
+          "url": "https://open.spotify.com/artist/5d77smsqsQSbZ53VgWVPbQ"
         }
       ],
-      "duration_ms": 112428,
-      "name": "2035",
-      "url": "https://open.spotify.com/track/3nbCRULrZIFo4prDNzOZ75"
+      "duration_ms": 154899,
+      "name": "emoji de calavera2",
+      "url": "https://open.spotify.com/track/1DmYGPmyhjE14aOoEeLrQg"
     }
   ],
   "unique_name": "helium",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGJiMjQwOWY5ZmQ4NDc2NzNjOGY2ZDY4YmNhYzk3NjkyNGNjNjBh",
+  "snapshot_id": "MCxmZGU1N2U2OWZhN2Y0OTMxMWI0YTExZTEwN2Y5ZTljZjJkMzE3NGIw",
   "tracks": [
     {
       "added_at": "2023-10-04 03:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "CONSTITUCI\u00d3N",
-        "url": "https://open.spotify.com/album/0tUcd7rih15vA60HYbZ9LJ"
-      },
-      "artists": [
-        {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        }
-      ],
-      "duration_ms": 161977,
-      "name": "CONSTITUCI\u00d3N",
-      "url": "https://open.spotify.com/track/18835Ty8i86m9U7ki4Azoi"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
         "name": "Educaci\u00f3n Sentimental",
         "url": "https://open.spotify.com/album/2XqnaBT4dXBKSq5NBy4WDi"
       },
@@ -363,18 +347,18 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "Cronos",
-        "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
+        "name": "CONSTITUCI\u00d3N",
+        "url": "https://open.spotify.com/album/0tUcd7rih15vA60HYbZ9LJ"
       },
       "artists": [
         {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
         }
       ],
-      "duration_ms": 229750,
-      "name": "Cronos",
-      "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
+      "duration_ms": 161977,
+      "name": "CONSTITUCI\u00d3N",
+      "url": "https://open.spotify.com/track/18835Ty8i86m9U7ki4Azoi"
     },
     {
       "added_at": "2023-10-04 03:00:00",
@@ -391,6 +375,22 @@
       "duration_ms": 203125,
       "name": "Xtasis",
       "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
+        "name": "Cronos",
+        "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 229750,
+      "name": "Cronos",
+      "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
     },
     {
       "added_at": "2023-10-04 03:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
+        "name": "Odio despertar",
+        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 267941,
+      "name": "Odio despertar",
+      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
         "name": "EL MUNDO PEQUE\u00d1O",
         "url": "https://open.spotify.com/album/7wmhvmQJ2Ms31oXLF0mLzi"
       },
@@ -583,26 +599,6 @@
       "duration_ms": 214837,
       "name": "Escama de Vidrio",
       "url": "https://open.spotify.com/track/4SsymOuHEuMZFsqHsN2ASL"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
-        "name": "Distra\u00edda",
-        "url": "https://open.spotify.com/album/11AaRkvtuiD9NxBhCdoMwZ"
-      },
-      "artists": [
-        {
-          "name": "Faraonika",
-          "url": "https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk"
-        },
-        {
-          "name": "Coghlan",
-          "url": "https://open.spotify.com/artist/3w5H96UHynWkmtg1zm7HUg"
-        }
-      ],
-      "duration_ms": 162641,
-      "name": "Distra\u00edda",
-      "url": "https://open.spotify.com/track/3tbD5rcDj4wAl9gLg5z42E"
     },
     {
       "added_at": "2023-10-04 03:00:00",
@@ -623,18 +619,22 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "Odio despertar",
-        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
+        "name": "Distra\u00edda",
+        "url": "https://open.spotify.com/album/11AaRkvtuiD9NxBhCdoMwZ"
       },
       "artists": [
         {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+          "name": "Faraonika",
+          "url": "https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk"
+        },
+        {
+          "name": "Coghlan",
+          "url": "https://open.spotify.com/artist/3w5H96UHynWkmtg1zm7HUg"
         }
       ],
-      "duration_ms": 267941,
-      "name": "Odio despertar",
-      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
+      "duration_ms": 162641,
+      "name": "Distra\u00edda",
+      "url": "https://open.spotify.com/track/3tbD5rcDj4wAl9gLg5z42E"
     },
     {
       "added_at": "2023-10-04 03:00:00",

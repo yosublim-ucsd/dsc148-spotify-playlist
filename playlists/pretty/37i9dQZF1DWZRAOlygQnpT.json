@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
-  "num_followers": 76815,
+  "num_followers": 76868,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDEzNDU4ZWNmYThhNGNmZTcyYTVhN2RjN2NlNTY1M2VmYWNlZDY0",
+  "snapshot_id": "MCw0YjViY2QxMzRmMzM1NDc3YzVmZGRjNDU3NmNkOWQ0ODFhYTI3OTE3",
   "tracks": [
     {
       "added_at": "2020-04-17 21:51:59",
@@ -684,6 +684,22 @@
       },
       "artists": [
         {
+          "name": "Los Belmonts",
+          "url": "https://open.spotify.com/artist/4QQX6KlJqcfMUEyWWfWaDs"
+        }
+      ],
+      "duration_ms": 116146,
+      "name": "Los locos adams",
+      "url": "https://open.spotify.com/track/6fPwTYL4B8hTx4VL3DFCnQ"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Lucha Va Voom - Se\u00f1or Amor's Mexican R&R Faves",
+        "url": "https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B"
+      },
+      "artists": [
+        {
           "name": "Los Hitters",
           "url": "https://open.spotify.com/artist/3Cqn20hCMJisWINCRSOkZT"
         }
@@ -691,22 +707,6 @@
       "duration_ms": 149146,
       "name": "Un hombre respet",
       "url": "https://open.spotify.com/track/76NCs54B9hQLW3HZwUxppM"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Amores Incomparables, Vol. 3",
-        "url": "https://open.spotify.com/album/0wl64awQOtkdtCQuZDcY4n"
-      },
-      "artists": [
-        {
-          "name": "Los Reno",
-          "url": "https://open.spotify.com/artist/2gmmO8dk7iXgNYuB24FKQo"
-        }
-      ],
-      "duration_ms": 148546,
-      "name": "Siempre Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/3i4wiURtk5Sy6DRdVuL3pG"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -727,34 +727,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Lucha Va Voom - Se\u00f1or Amor's Mexican R&R Faves",
-        "url": "https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B"
+        "name": "Amores Incomparables, Vol. 3",
+        "url": "https://open.spotify.com/album/0wl64awQOtkdtCQuZDcY4n"
       },
       "artists": [
         {
-          "name": "Los Belmonts",
-          "url": "https://open.spotify.com/artist/4QQX6KlJqcfMUEyWWfWaDs"
+          "name": "Los Reno",
+          "url": "https://open.spotify.com/artist/2gmmO8dk7iXgNYuB24FKQo"
         }
       ],
-      "duration_ms": 116146,
-      "name": "Los locos adams",
-      "url": "https://open.spotify.com/track/6fPwTYL4B8hTx4VL3DFCnQ"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Los Exitos de Oro de Los Crazy Boy's",
-        "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
-      },
-      "artists": [
-        {
-          "name": "Los Crazy Boys",
-          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
-        }
-      ],
-      "duration_ms": 150204,
-      "name": "La Novia De Mi Mejor Amigo",
-      "url": "https://open.spotify.com/track/2Sy45DT2A5xkhWzAbAlVIK"
+      "duration_ms": 148546,
+      "name": "Siempre Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/3i4wiURtk5Sy6DRdVuL3pG"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -771,6 +755,22 @@
       "duration_ms": 178665,
       "name": "La Pera Madura",
       "url": "https://open.spotify.com/track/4owGahTFwLeXEwcngODVC4"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Los Exitos de Oro de Los Crazy Boy's",
+        "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
+      },
+      "artists": [
+        {
+          "name": "Los Crazy Boys",
+          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+        }
+      ],
+      "duration_ms": 150204,
+      "name": "La Novia De Mi Mejor Amigo",
+      "url": "https://open.spotify.com/track/2Sy45DT2A5xkhWzAbAlVIK"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -811,6 +811,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "\u00c9xitos Del Rock",
+        "url": "https://open.spotify.com/album/6lwsXeafhu5LPPnvyeVt9D"
+      },
+      "artists": [
+        {
+          "name": "Los Gliders",
+          "url": "https://open.spotify.com/artist/3hzte6Ma86NBrxRt1c8kGI"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "La Llorona Loca",
+      "url": "https://open.spotify.com/track/2dIUXClkwYgcYL2m7BInXB"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "Exitos del Rock & Roll",
         "url": "https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 173760,
       "name": "Vete Con Ella (Chappel of Love)",
       "url": "https://open.spotify.com/track/57Uadt78FPP6JmC19JufWZ"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "\u00c9xitos Del Rock",
-        "url": "https://open.spotify.com/album/6lwsXeafhu5LPPnvyeVt9D"
-      },
-      "artists": [
-        {
-          "name": "Los Gliders",
-          "url": "https://open.spotify.com/artist/3hzte6Ma86NBrxRt1c8kGI"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "La Llorona Loca",
-      "url": "https://open.spotify.com/track/2dIUXClkwYgcYL2m7BInXB"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1551,22 +1551,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Historia Musical de Mis Exitos",
-        "url": "https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP"
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
       "artists": [
         {
-          "name": "Johnny Laboriel",
-          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
-        },
-        {
-          "name": "Johnny Laboriel / Los Rebeldes Del Rock",
-          "url": "https://open.spotify.com/artist/1wzLx9DF6VtTfEo4sTotl9"
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
         }
       ],
-      "duration_ms": 142640,
-      "name": "Corre Sanson Corre",
-      "url": "https://open.spotify.com/track/66kD4Idn0Fva7IaavpoB5I"
+      "duration_ms": 135373,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/552AXR7LxxOeAqtsNWHVjs"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1587,18 +1583,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Loco - Vintage Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+        "name": "Historia Musical de Mis Exitos",
+        "url": "https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP"
       },
       "artists": [
         {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+          "name": "Johnny Laboriel",
+          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
+        },
+        {
+          "name": "Johnny Laboriel / Los Rebeldes Del Rock",
+          "url": "https://open.spotify.com/artist/1wzLx9DF6VtTfEo4sTotl9"
         }
       ],
-      "duration_ms": 135373,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/552AXR7LxxOeAqtsNWHVjs"
+      "duration_ms": 142640,
+      "name": "Corre Sanson Corre",
+      "url": "https://open.spotify.com/track/66kD4Idn0Fva7IaavpoB5I"
     },
     {
       "added_at": "2020-04-17 21:51:59",

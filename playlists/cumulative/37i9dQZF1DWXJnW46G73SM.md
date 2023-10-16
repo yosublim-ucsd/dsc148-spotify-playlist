@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl?si=BG7B9bJ\-TwWccNonxJ5DhA"> أصالة </a>
+> أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-679 songs - 1 day 14 hr 26 min
+680 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Dars Hayaty](https://open.spotify.com/track/7nDgc4FJD4EUyGJAVjbVHP) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Dars Hayaty](https://open.spotify.com/album/1ItG5aRvvmxKzEIpUnwbBB) | 2:42 | 2021-12-23 | 2022-02-02 |
 | [Dawaran](https://open.spotify.com/track/502J71DT2SOAVz6lj0sl7b) | [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK), [Hudz](https://open.spotify.com/artist/1ffKtN3dRJOQKTUm1pkDGM), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Dawaran](https://open.spotify.com/album/5a4sKU38KMZaclSzV5aPkf) | 3:29 | 2023-03-06 | 2023-05-05 |
 | [Dayy Al Qamar](https://open.spotify.com/track/7azDgfLs2U5eOOYb9OyPo8) | [Mohamed Mohsen](https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv) | [Dayy Al Qamar](https://open.spotify.com/album/1d2AMpEgkfhHYjVvBbusCn) | 4:06 | 2022-09-20 | 2022-09-22 |
-| [Deb Deb](https://open.spotify.com/track/2u1j3h1Oy9xOgvOV3kvU4X) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Deb Deb](https://open.spotify.com/album/3bPOumkC31Zv4pBa6udoZ7) | 3:00 | 2023-08-18 |  |
+| [Deb Deb](https://open.spotify.com/track/2u1j3h1Oy9xOgvOV3kvU4X) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Deb Deb](https://open.spotify.com/album/3bPOumkC31Zv4pBa6udoZ7) | 3:00 | 2023-08-18 | 2023-10-16 |
 | [Di Halawa](https://open.spotify.com/track/3BW4RcvJUYGtnPOzppeVW9) | [Ahmed Bahaa](https://open.spotify.com/artist/0YYLDpbsExW7PI14mRJPfx), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Di Halawa](https://open.spotify.com/album/7hy7jpcDzPXmIde1fICTvT) | 3:16 | 2022-10-06 | 2022-12-30 |
 | [Diva](https://open.spotify.com/track/0ECT1q8mtxBE7cCRIeCXO2) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Diva](https://open.spotify.com/album/0WRvr1ZggOBKzYMSpCUZ1r) | 2:52 | 2023-02-16 | 2023-04-21 |
 | [Dom Dom](https://open.spotify.com/track/09qJciYwmS2hlWlpjaIKZm) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Dom Dom](https://open.spotify.com/album/0b5kI7IIsYfVsAXawB2dak) | 3:02 | 2022-07-20 | 2022-10-11 |
@@ -578,6 +578,7 @@
 | [خطير يا أخوانا](https://open.spotify.com/track/1cfFsCfABOXS6QXEZ8oCHl) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0), [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi) | [خطير يا أخوانا](https://open.spotify.com/album/5Z3VmUZ2YRl1vwMUpJ3y9v) | 2:41 | 2023-09-19 | 2023-09-21 |
 | [خليني](https://open.spotify.com/track/6fO7U0lirfa5kcgJngHqA8) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [خليني](https://open.spotify.com/album/5fE5KlF2945Q1Vm2sQXOuU) | 3:12 | 2023-03-02 | 2023-05-05 |
 | [خليني شوية معاك](https://open.spotify.com/track/72MgKDXeRf7NRQ2kMUmags) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [خليني شوية معاك](https://open.spotify.com/album/7CltOkKejw4x6BoD3aWOZc) | 4:12 | 2023-02-14 | 2023-03-31 |
+| [دادينا](https://open.spotify.com/track/7AInJeOGXWBT9xnxhRTVZW) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [دادينا](https://open.spotify.com/album/69fom2qf7DQkMcBdsMYdfw) | 3:18 | 2023-10-15 |  |
 | [دلعنا كتير](https://open.spotify.com/track/6zNFUlt8E8NcT2ljRqK5GM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [دلعنا كتير](https://open.spotify.com/album/4fXbai8cyBy3BdHgVMTGu1) | 2:52 | 2023-08-24 |  |
 | [ده قلبي ده](https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [ده قلبي ده](https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl) | 2:58 | 2023-08-18 | 2023-09-01 |
 | [رايق اوي \- اورنچ و احمد سعد](https://open.spotify.com/track/6BlG5SOrK1H57svuWMKMba) | [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [رايق اوي \- اورنچ و احمد سعد](https://open.spotify.com/album/5m3TBcO1hB3MjV1l9xLu0p) | 1:51 | 2023-06-26 | 2023-07-28 |

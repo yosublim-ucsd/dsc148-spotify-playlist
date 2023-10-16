@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 
 > Desde México hasta Argentina, el hogar de los beats latinoamericanos\. Foto: MIEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,016 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,028 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 | 42 | [Hanging Tree](https://open.spotify.com/track/5cZvvqthQVJCRXccaTIi6K) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Erjona Sylejmani](https://open.spotify.com/artist/4hPIBZfAdFw7xbOJodijWv) | [Hanging Tree](https://open.spotify.com/album/1xBRANluuhfC5N5RsPUI3I) | 2:32 |
 | 43 | [Don't](https://open.spotify.com/track/0kgicICgleRJFUcUlF1uk8) | [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Ali Schwartz](https://open.spotify.com/artist/3CXu2xqQnt5Ey4vyWuiuFk) | [Don't](https://open.spotify.com/album/4ABrMCSWWbXuInDdNocuY8) | 2:05 |
 | 44 | [Feel This Way](https://open.spotify.com/track/4agUkSkSCmHLMmOfcAnZuN) | [Enkode](https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee) | [Feel This Way](https://open.spotify.com/album/43rxxp3huVJbLUMBhNM23y) | 2:54 |
-| 45 | [The Prey \- Gui Boratto & Vintage Culture Remix](https://open.spotify.com/track/7vXoveyI4GRF6VBRPayZpo) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [The Prey \(Gui Boratto & Vintage Culture Remix\)](https://open.spotify.com/album/10dJSNEtG0jPua0J2g1QPI) | 6:40 |
+| 45 | [The Prey \- Gui Boratto & Vintage Culture Remix](https://open.spotify.com/track/3u5RuCF9VP8jgyHJdqWIj5) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [The Prey \(Gui Boratto & Vintage Culture Remix\)](https://open.spotify.com/album/4lw5PrmpkCiFdGvIparL75) | 6:40 |
 | 46 | [Dale](https://open.spotify.com/track/4jMTSIsfNucOQmnake770S) | [DJ Goozo](https://open.spotify.com/artist/5tnFFb9eJcPTwYReZWR8Zj), [Massianello](https://open.spotify.com/artist/6oARZ0ckg0uN1GEs22MQw7), [Di Dross](https://open.spotify.com/artist/1T4m9H4LGqdpXISE3VVEZ7) | [Dale](https://open.spotify.com/album/2NYGDO7TsqBv1IeuVVD3Tb) | 3:33 |
 | 47 | [e\-mail](https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Red Fingers](https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo) | [e\-mail](https://open.spotify.com/album/7MRRiwXI5ao5uNDEinBIzn) | 2:31 |
 | 48 | [Neón](https://open.spotify.com/track/5n3BkGuvl4tBLtU0vRnk2p) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Neón](https://open.spotify.com/album/3vaTUE6iGfukYBuR5vzOa9) | 3:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 | 59 | [Brisas Del Mar](https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Brisas Del Mar](https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY) | 3:16 |
 | 60 | [Cantalo](https://open.spotify.com/track/7zuNdvQ8KDEEu9wTGFKqyR) | [Les Castizos](https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Cantalo](https://open.spotify.com/album/5uw2wsLG5KiH22BbduOtmH) | 4:02 |
 
-Snapshot ID: `MCw5ZGY3NmY2NzdhNTIzMDNiNzZkYzRkNGJhNTAzYTZmZjNkMGNiZjZh`
+Snapshot ID: `MCxiYWIzN2JhZDQ0ZDQ3YTIyOThiM2Y0MDZmYjMzNjE5YmI3ZmJjYTg3`

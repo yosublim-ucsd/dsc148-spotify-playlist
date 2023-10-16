@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-288 songs - 16 hr 0 min
+289 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Flow](https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd) | [Pool Blue](https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL) | [Flow](https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67) | 1:56 | 2021-12-09 |  |
 | [Flowers](https://open.spotify.com/track/67P8NxXLKkwdBx6LjzndgR) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Flowers](https://open.spotify.com/album/2I2VoGHrwQ8k8RpUzJSbyd) | 3:02 | 2023-09-13 |  |
 | [flux de vibrations](https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [flux de vibrations](https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9) | 2:56 | 2022-06-02 |  |
-| [Follow Me](https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Follow Me](https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq) | 3:03 | 2021-12-09 |  |
+| [Follow Me](https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Follow Me](https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq) | 3:03 | 2021-12-09 | 2023-10-16 |
 | [Follow Up](https://open.spotify.com/track/7sxfrgHZkrpl74e7UlJGNH) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Follow Up](https://open.spotify.com/album/7cjTvqHIXbcN0qmNmSfZmO) | 2:48 | 2021-12-09 | 2022-04-20 |
 | [Forever](https://open.spotify.com/track/0d3aVK5p4ULp4r2Nmd7f3C) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Forever](https://open.spotify.com/album/608b83QDjBMRWUyeKuPqHR) | 3:37 | 2023-02-17 |  |
 | [Forrest Glade](https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Forrest Glade](https://open.spotify.com/album/7hRyQtQhYkVC0QQV3D5F2r) | 7:17 | 2021-12-09 | 2023-09-06 |
@@ -190,6 +190,7 @@
 | [On The Rhode](https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn) | [Milton Keys](https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h) | [On The Rhode](https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6) | 3:47 | 2021-12-09 | 2023-09-10 |
 | [Ours \- Hermanez Remix](https://open.spotify.com/track/5dOn7fur446SKKcujG3zwM) | [LØC](https://open.spotify.com/artist/4BdGq2d0jIMo3egZnE61sD), [Hermanez](https://open.spotify.com/artist/4JPGyWMMmaxIRcS4zItdHJ) | [Ours \(Hermanez Remix\)](https://open.spotify.com/album/7DbXJlGgQVjnLduIEyUl5B) | 7:39 | 2022-06-02 |  |
 | [Ours \- Hermanez Remix](https://open.spotify.com/track/7e93cN9QsW1gJZWRXvkEsa) | [LØC](https://open.spotify.com/artist/4BdGq2d0jIMo3egZnE61sD), [Hermanez](https://open.spotify.com/artist/4JPGyWMMmaxIRcS4zItdHJ) | [Ours](https://open.spotify.com/album/7IrwbWvazSqPcLSnW3XoYC) | 7:39 | 2021-12-09 | 2022-07-29 |
+| [Over You](https://open.spotify.com/track/5ITjUucH19eHJvfh7iUIhw) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv), [wavecrvsh](https://open.spotify.com/artist/5egmvcmVXBPzk6y3A9Tqrm), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN) | [Over You](https://open.spotify.com/album/4LqGhps0CA546STC9A5Neq) | 2:38 | 2023-10-13 |  |
 | [Palm Beach](https://open.spotify.com/track/6nR1DVH1bd69bmDlrjDNvf) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Palm Beach](https://open.spotify.com/album/2E678lyyte3DaqRa14PkUD) | 3:37 | 2021-12-09 | 2022-07-26 |
 | [Peaceful Tides](https://open.spotify.com/track/77hpS2mcbPfsRddmnLjls2) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci), [Bye Ocean](https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x) | [Peaceful Tides](https://open.spotify.com/album/5O5mpaPfpj53GIG4pCD34O) | 3:00 | 2023-06-30 | 2023-10-08 |
 | [Portimao](https://open.spotify.com/track/5ABEwAmOIvGgTWQtBvmGHQ) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [Portimao](https://open.spotify.com/album/4xERM1hwtquFCNTuw4e1zE) | 3:26 | 2021-12-09 | 2022-05-18 |

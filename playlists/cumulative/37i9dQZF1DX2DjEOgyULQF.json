@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Aardvark",
+        "url": "https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV"
+      },
+      "artists": [
+        {
+          "name": "Gleework",
+          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Aardvark",
+      "url": "https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it"
+    },
+    {
+      "album": {
         "name": "Alternating Current",
         "url": "https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU"
       },

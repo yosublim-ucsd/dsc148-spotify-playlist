@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 ### [Nu\-Blue](https://open.spotify.com/playlist/37i9dQZF1DXb3MZdETGqKB)
 
-> All new, all blues\. Cover: Buffalo Nichols
+> All new, all blues\. Cover: ZZ Ward
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,542 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,623 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Alice](https://open.spotify.com/track/0ljIh0b1ubYroGj6ngyE9u) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O), [Lena Schaur](https://open.spotify.com/artist/5wcDwiaP6GfRuIlJUzMylh) | [Alice](https://open.spotify.com/album/49Wr6GxDzD0sLh3oedD84E) | 2:34 |
-| 2 | [Wilder Than the West](https://open.spotify.com/track/6R68v7QdeTDEkNuBLbMy37) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Wilder Than the West](https://open.spotify.com/album/03xTki4ce3xfSLnvvtcpnO) | 2:34 |
+| 1 | [Evil on the Inside](https://open.spotify.com/track/7wo0vrDt5C7xS0J4UHyHIP) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Evil on the Inside](https://open.spotify.com/album/7wMcL7V8JOdOeMQFTDg9yX) | 3:31 |
+| 2 | [Alice](https://open.spotify.com/track/0ljIh0b1ubYroGj6ngyE9u) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O), [Lena Schaur](https://open.spotify.com/artist/5wcDwiaP6GfRuIlJUzMylh) | [Alice](https://open.spotify.com/album/49Wr6GxDzD0sLh3oedD84E) | 2:34 |
 | 3 | [The Fatalist Blues](https://open.spotify.com/track/37kYCbuyOEbLMOIs59FWfe) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [The Fatalist](https://open.spotify.com/album/33ihKi0yijzptTHMNHXTNB) | 2:32 |
-| 4 | [OverdoZZe](https://open.spotify.com/track/4DG8UGktFzHUM72KUID52A) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Dirty Shine](https://open.spotify.com/album/5R5LNbzSStAde5KSAh053m) | 3:16 |
+| 4 | [Wilder Than the West](https://open.spotify.com/track/6R68v7QdeTDEkNuBLbMy37) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Wilder Than the West](https://open.spotify.com/album/03xTki4ce3xfSLnvvtcpnO) | 2:34 |
 | 5 | [BIG BOSS](https://open.spotify.com/track/49lBwbL8cwLErPMGUqrcgV) | [T.Howell](https://open.spotify.com/artist/4CzJiPo76fJ1a5Rm2bwxP3), [Jeter Jones](https://open.spotify.com/artist/66cHA84K27hhCReCYTgQVF) | [BIG BOSS](https://open.spotify.com/album/0OCfRsE8CwqK5p3btp1EBv) | 2:35 |
 | 6 | [Like A Dove](https://open.spotify.com/track/1br8OkIlBEJjhcAdZ44UUC) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Like A Dove](https://open.spotify.com/album/2iQ9N9PXfVaHF3t5xNIwVl) | 5:50 |
 | 7 | [The Louvre](https://open.spotify.com/track/68cELCHZ8sdfkAHoLtm3OO) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [The Louvre](https://open.spotify.com/album/1cZ17se5zLFdbZKhedKnio) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 99 | [Biggest Little Secret](https://open.spotify.com/track/2AJmb5Lqh95kJqIKbc1WCw) | [Amber Woodhouse](https://open.spotify.com/artist/1stAB5sEtU4AD3MQ0cYOtJ), [Wilderwater](https://open.spotify.com/artist/7Jy5gvSozRdq1JCBIIksf4) | [Biggest Little Secret](https://open.spotify.com/album/6qq8yb9Xy2me2hh3VgcaSN) | 3:59 |
 | 100 | [Practice What You Preach](https://open.spotify.com/track/4AvhtXaiaH2Z4x0BmBdvfA) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Traveling Man](https://open.spotify.com/album/64rMgCug1OdOp98lGu5klK) | 2:45 |
 
-Snapshot ID: `MCw2ODNkNTZiZDg0YmVmYjhiODA3YTcyM2EyNWMzOTA5MTY1ODkzNTFm`
+Snapshot ID: `MCw4YTkxMGRkOTU0ZjM4NGMxNzQ5MGU5ZDMwYmUwMWQ5ZjhhNjQ5Mjc5`

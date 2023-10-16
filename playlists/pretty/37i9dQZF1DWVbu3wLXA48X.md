@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,186 likes - 94 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,197 likes - 94 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 49 | [Walk Your Heart Home](https://open.spotify.com/track/1nbquISEGb21tsBdVlaP6V) | [Casté](https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5) | [Temptation](https://open.spotify.com/album/6AvHqghzOREIkOOOJoLhWw) | 3:41 |
 | 50 | [Sunny](https://open.spotify.com/track/5SmJPXHVK4G0oKOdn3D5LP) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Sunny](https://open.spotify.com/album/2i3jnMLFQZewasZEC3gVOB) | 3:31 |
 | 51 | [All Night](https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [All Night](https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk) | 3:28 |
-| 52 | [r\(EMOTE\)](https://open.spotify.com/track/3iOMiZlt4gEeQsEgnW0MeQ) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [r\(EMOTE\)](https://open.spotify.com/album/4gYQKBqHDABqdmJuTnSjvS) | 3:41 |
+| 52 | [r\(EMOTE\)](https://open.spotify.com/track/0j4oE7wt2ejFjqNKRcc2rW) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 3:41 |
 | 53 | [Lovesick](https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:45 |
 | 54 | [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 |
 | 55 | [alife](https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 4:33 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 93 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 |
 | 94 | [Blue Marbled Elm Trees](https://open.spotify.com/track/5DeuSsOtWl6vEnepxzrAJ6) | [King Creosote](https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp) | [Blue Marbled Elm Trees](https://open.spotify.com/album/6wF2Wg85euCwati0jG8Svm) | 5:03 |
 
-Snapshot ID: `MCwxM2UyZmE2ODJhNjk2ZDZhZTIzM2M0YzU1NDg4ZTNlZWYzYTY4NDg3`
+Snapshot ID: `MCw2NTliNzIwY2RmMzgxNDU3ZWU4ZGM1ZjQ1YzFkNDRmMDM1ZDljZTM0`

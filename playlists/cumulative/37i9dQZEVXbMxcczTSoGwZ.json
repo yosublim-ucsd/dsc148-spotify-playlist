@@ -6856,7 +6856,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 190808,
       "name": "FIRMAN KORTILLE (feat. Vesku Jokinen)",
       "url": "https://open.spotify.com/track/1ENkLBLoOYn1KyHjeyu2H9"
@@ -11012,7 +11012,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 194003,
       "name": "It's Crazy It's Party (feat. Tommy Cash)",
       "url": "https://open.spotify.com/track/1FtibWDIm2kxf7zOlUcXvx"
@@ -11240,6 +11240,24 @@
       "duration_ms": 215252,
       "name": "Joku jota oisin voinut rakastaa",
       "url": "https://open.spotify.com/track/0Gq3kMXV32MgtKGYp0xmFK"
+    },
+    {
+      "album": {
+        "name": "Jolene (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
+        "url": "https://open.spotify.com/album/5ECoVo35ip0qhFXD72sxPZ"
+      },
+      "artists": [
+        {
+          "name": "Ellinoora",
+          "url": "https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY"
+        }
+      ],
+      "date_added": "2023-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180129,
+      "name": "Jolene (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
+      "url": "https://open.spotify.com/track/4KEFAyyRyGuoHNUZGQiuZA"
     },
     {
       "album": {
@@ -11544,7 +11562,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 180938,
       "name": "Jumala maan p\u00e4\u00e4l",
       "url": "https://open.spotify.com/track/23oDF80qkSpeiWEqqQ2R7u"
@@ -14430,6 +14448,24 @@
       "duration_ms": 216200,
       "name": "K\u00e4mmenen kuva poskeen",
       "url": "https://open.spotify.com/track/78LbF7hMmdzakQhHsKu9vZ"
+    },
+    {
+      "album": {
+        "name": "k\u00e4py",
+        "url": "https://open.spotify.com/album/4dfL55wygzB20eJrboY838"
+      },
+      "artists": [
+        {
+          "name": "koira",
+          "url": "https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo"
+        }
+      ],
+      "date_added": "2023-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177839,
+      "name": "k\u00e4py",
+      "url": "https://open.spotify.com/track/62ta8BEEecanvSxeS3FldL"
     },
     {
       "album": {
@@ -17916,7 +17952,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 114350,
       "name": "Missaat Mut",
       "url": "https://open.spotify.com/track/4I7nd2tef4qV15OAczVuJb"

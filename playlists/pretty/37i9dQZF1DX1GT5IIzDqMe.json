@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 85600,
+  "num_followers": 85631,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWZlN2ZmNjE5ZWM3YjE4OTgxNWYwNjhlMjNhMzE5MzM1Nzc3Y2Ew",
+  "snapshot_id": "MCw1NjdmMjVmOTJjMmE0ZWQxZWYxZWM4ZWNmYWQzNmIxMmE5YzBmMGI5",
   "tracks": [
     {
       "added_at": "2023-09-15 13:08:19",
@@ -87,18 +87,22 @@
     {
       "added_at": "2023-09-15 13:08:19",
       "album": {
-        "name": "One Black Water (feat. Ann Saunderson) [Full Strings Vocal Mix]",
-        "url": "https://open.spotify.com/album/4Ju4z6OA25j2MuR94WgwgJ"
+        "name": "Good Life (Remastered)",
+        "url": "https://open.spotify.com/album/5O2HWH0ZfYJl6DAkzU50UK"
       },
       "artists": [
         {
-          "name": "Octave One",
-          "url": "https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH"
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
         }
       ],
-      "duration_ms": 518945,
-      "name": "Blackwater - 128 full strings vocal mix",
-      "url": "https://open.spotify.com/track/3829oHimRwuUHePcD2Jj7S"
+      "duration_ms": 196363,
+      "name": "Good Life (Remastered)",
+      "url": "https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1"
     },
     {
       "added_at": "2023-09-15 13:08:19",
@@ -119,22 +123,18 @@
     {
       "added_at": "2023-09-15 13:08:19",
       "album": {
-        "name": "Good Life (Remastered)",
-        "url": "https://open.spotify.com/album/5O2HWH0ZfYJl6DAkzU50UK"
+        "name": "One Black Water (feat. Ann Saunderson) [Full Strings Vocal Mix]",
+        "url": "https://open.spotify.com/album/4Ju4z6OA25j2MuR94WgwgJ"
       },
       "artists": [
         {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+          "name": "Octave One",
+          "url": "https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH"
         }
       ],
-      "duration_ms": 196363,
-      "name": "Good Life (Remastered)",
-      "url": "https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1"
+      "duration_ms": 518945,
+      "name": "Blackwater - 128 full strings vocal mix",
+      "url": "https://open.spotify.com/track/3829oHimRwuUHePcD2Jj7S"
     },
     {
       "added_at": "2023-09-15 13:08:19",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-09-15 13:08:19",
       "album": {
+        "name": "Galaxy 2 Galaxy: A High Tech Jazz Compilation",
+        "url": "https://open.spotify.com/album/5f4gnlLgeEAj7RRoo4gIYV"
+      },
+      "artists": [
+        {
+          "name": "Galaxy 2 Galaxy",
+          "url": "https://open.spotify.com/artist/2JW9UTb6ViFLYf7VQxBJqD"
+        }
+      ],
+      "duration_ms": 270746,
+      "name": "Jupiter Jazz",
+      "url": "https://open.spotify.com/track/2T6rMXWYc934IWMudx1H1X"
+    },
+    {
+      "added_at": "2023-09-15 13:08:19",
+      "album": {
         "name": "Big Fun (Remastered)",
         "url": "https://open.spotify.com/album/63Tyk1UCFndIYpHtZUKRWr"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 198688,
       "name": "Big Fun (Remastered)",
       "url": "https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1"
-    },
-    {
-      "added_at": "2023-09-15 13:08:19",
-      "album": {
-        "name": "Galaxy 2 Galaxy: A High Tech Jazz Compilation",
-        "url": "https://open.spotify.com/album/5f4gnlLgeEAj7RRoo4gIYV"
-      },
-      "artists": [
-        {
-          "name": "Galaxy 2 Galaxy",
-          "url": "https://open.spotify.com/artist/2JW9UTb6ViFLYf7VQxBJqD"
-        }
-      ],
-      "duration_ms": 270746,
-      "name": "Jupiter Jazz",
-      "url": "https://open.spotify.com/track/2T6rMXWYc934IWMudx1H1X"
     },
     {
       "added_at": "2023-09-15 13:08:19",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-09-15 13:08:19",
       "album": {
+        "name": "A Walk in the Park",
+        "url": "https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        }
+      ],
+      "duration_ms": 325880,
+      "name": "A Walk in the Park",
+      "url": "https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q"
+    },
+    {
+      "added_at": "2023-09-15 13:08:19",
+      "album": {
         "name": "Pennies From Heaven (Remastered)",
         "url": "https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 198159,
       "name": "Pennies From Heaven (Remastered)",
       "url": "https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9"
-    },
-    {
-      "added_at": "2023-09-15 13:08:19",
-      "album": {
-        "name": "A Walk in the Park",
-        "url": "https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI"
-      },
-      "artists": [
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        }
-      ],
-      "duration_ms": 325880,
-      "name": "A Walk in the Park",
-      "url": "https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q"
     },
     {
       "added_at": "2023-09-15 13:08:19",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-09-15 13:08:19",
       "album": {
+        "name": "Right There / Holy Ghost",
+        "url": "https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 177885,
+      "name": "Right There",
+      "url": "https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf"
+    },
+    {
+      "added_at": "2023-09-15 13:08:19",
+      "album": {
         "name": "Do It All Night (Honey Dijon Remix [Radio Edit])",
         "url": "https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 252720,
       "name": "Do It All Night - Honey Dijon Remix [Radio Edit]",
       "url": "https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR"
-    },
-    {
-      "added_at": "2023-09-15 13:08:19",
-      "album": {
-        "name": "Right There / Holy Ghost",
-        "url": "https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX"
-      },
-      "artists": [
-        {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 177885,
-      "name": "Right There",
-      "url": "https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf"
     },
     {
       "added_at": "2023-09-15 13:08:19",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-09-15 13:08:19",
       "album": {
+        "name": "The Blueprint EP",
+        "url": "https://open.spotify.com/album/7GOkHEn17hgpIdXVb1ugUt"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 337462,
+      "name": "Chroma Light",
+      "url": "https://open.spotify.com/track/3GnUL81K4TV9zEym72YykI"
+    },
+    {
+      "added_at": "2023-09-15 13:08:19",
+      "album": {
         "name": "Heavenly Revisited Album",
         "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 209529,
       "name": "Savage & Beyond",
       "url": "https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j"
-    },
-    {
-      "added_at": "2023-09-15 13:08:19",
-      "album": {
-        "name": "The Blueprint EP",
-        "url": "https://open.spotify.com/album/7GOkHEn17hgpIdXVb1ugUt"
-      },
-      "artists": [
-        {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
-        }
-      ],
-      "duration_ms": 337462,
-      "name": "Chroma Light",
-      "url": "https://open.spotify.com/track/3GnUL81K4TV9zEym72YykI"
     },
     {
       "added_at": "2023-09-15 13:08:19",
@@ -847,22 +847,18 @@
     {
       "added_at": "2023-09-15 13:08:19",
       "album": {
-        "name": "I Can't Believe",
-        "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
+        "name": "Protein Valve EP",
+        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
       },
       "artists": [
         {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
         }
       ],
-      "duration_ms": 369016,
-      "name": "I Can't Believe - Extended Mix",
-      "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
+      "duration_ms": 330462,
+      "name": "A.M. Track",
+      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
     },
     {
       "added_at": "2023-09-15 13:08:19",

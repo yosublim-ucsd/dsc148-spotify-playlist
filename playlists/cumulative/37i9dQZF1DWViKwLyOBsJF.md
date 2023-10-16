@@ -4,7 +4,7 @@
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-80 songs - 3 hr 40 min
+81 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [O Tannenbaum](https://open.spotify.com/track/0X7zX4vhaYLY0Li1zTpfnS) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Little Drummer Boy](https://open.spotify.com/album/50N8RLcnXHRulPucazKUfE) | 2:30 | 2022-12-05 | 2022-12-16 |
 | [O Tannenbaum](https://open.spotify.com/track/5mEuKXw8Sn0WMiSTbaCSZ3) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The First Noel](https://open.spotify.com/album/6U12R48Wp7jHFTX4odwrDr) | 2:30 | 2022-11-11 | 2022-12-09 |
 | [O Tannenbaum](https://open.spotify.com/track/6qIgnz0yHDeMzYVZnmMCen) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Silent Night](https://open.spotify.com/album/5NzYBUOkslN8o3SRDxj620) | 2:30 | 2022-11-11 | 2022-12-03 |
-| [O Tannenbaum](https://open.spotify.com/track/6x3dy83g7vEmzd6z8wCVhK) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas](https://open.spotify.com/album/4dZqm3SWryHNPXOPJ39AyP) | 2:30 | 2022-12-05 |  |
+| [O Tannenbaum](https://open.spotify.com/track/6x3dy83g7vEmzd6z8wCVhK) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas](https://open.spotify.com/album/4dZqm3SWryHNPXOPJ39AyP) | 2:30 | 2022-12-05 | 2023-10-16 |
+| [O Tannenbaum](https://open.spotify.com/track/3giODUg7yq7Noolv09NY7Y) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 2:32 | 2023-10-11 |  |
 | [Oh Come All Ye Faithful](https://open.spotify.com/track/2bFvadJJ8s0NKFnseW1L3R) | [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [Oh Come All Ye Faithful](https://open.spotify.com/album/0O1s5cB1Fg7gbpaZBaKF0k) | 2:32 | 2023-09-27 |  |
 | [Oh Come All Ye Faithful \(Strings\)](https://open.spotify.com/track/6WbnXKhylRQFICMaE7PtTA) | [Jennifer Saran](https://open.spotify.com/artist/6jVs08HTU1scgge7NaxAed) | [Merry Christmas, You Are Loved](https://open.spotify.com/album/1g2H5XhcLDVcUenGT2MOtw) | 0:55 | 2021-11-19 | 2023-09-28 |
 | [Once In Royal Davids City](https://open.spotify.com/track/4PzC5QA9SkhDMO7MCItZXx) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas](https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv) | 2:52 | 2021-11-19 |  |

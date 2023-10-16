@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,015 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,105 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 39 | [Bao Bao](https://open.spotify.com/track/1PzVGPTfbvlcFcHf8HDlGh) | [Tribal Stars](https://open.spotify.com/artist/2sYpzC6VrAQzY3AIXkDSVR), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [Bao Bao](https://open.spotify.com/album/1FuElQORi4fKKJdzRESi9n) | 3:23 |
 | 40 | [Shake It Off](https://open.spotify.com/track/7cO56Ywy5ddith2FRPTaM6) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Playlist](https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1) | 3:01 |
 | 41 | [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 |
-| 42 | [Enamorada de un Cantante](https://open.spotify.com/track/1dPO1BNdJSxtp2JTzCjbog) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw), [DJ Morphius Tribal Mix](https://open.spotify.com/artist/6znYrtwZJsdgOUJXbX0a9m) | [Los Reyes del Tribal](https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF) | 4:25 |
+| 42 | [Toa Pa' Mi](https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK) | [NEAS DON'T CRY](https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD) | 3:02 |
 | 43 | [Tierra Azteca \(Azteks In Berlín\)](https://open.spotify.com/track/4hb66oTKdC2KrJaRgthbCo) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 2:28 |
-| 44 | [Toa Pa' Mi](https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK) | [NEAS DON'T CRY](https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD) | 3:02 |
+| 44 | [Enamorada de un Cantante](https://open.spotify.com/track/1dPO1BNdJSxtp2JTzCjbog) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw), [DJ Morphius Tribal Mix](https://open.spotify.com/artist/6znYrtwZJsdgOUJXbX0a9m) | [Los Reyes del Tribal](https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF) | 4:25 |
 | 45 | [Vibora](https://open.spotify.com/track/5KICj0zW5ZvAarj52tcEIF) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd) | [Terror, Ep\. 2](https://open.spotify.com/album/4FX3UqkVgH0TW2DhXpOzH2) | 2:25 |
 | 46 | [Zapatear](https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Zapatear](https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s) | 2:42 |
 | 47 | [Baila Conmigo \(feat\. Kelly Ruiz\) \- Alan Rosales & TBX Remix](https://open.spotify.com/track/58sJHwuNOrGWfKtwwUmrOI) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [TBX](https://open.spotify.com/artist/2RFBrX0e7Zypt7D6BFF0W2), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\) \[Alan Rosales & TBX Remix\]](https://open.spotify.com/album/3My9JWVDGGD6UTPHlj8qLJ) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 49 | [Sheeqo, Get Loose](https://open.spotify.com/track/0kAQ4h2COEfGZCTu5KYOaK) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 3:04 |
 | 50 | [Afroguaracha](https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Afroguaracha](https://open.spotify.com/album/1OMT3htpBd2nNCHufrTLCi) | 3:09 |
 
-Snapshot ID: `MCw2NWQ4ZTI4MGVkM2I0ZjE4YzM3YmEzZTBiYjhhN2YyNjNkY2FjYjVl`
+Snapshot ID: `MCwxODUyYzkwNDU2NjUxNGFlNmE0NGZiNjE3ODJjYWNkM2U2ZWVmZDM0`

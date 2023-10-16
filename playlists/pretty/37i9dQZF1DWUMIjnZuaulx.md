@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:22JNV0JWTJkY1qzKJhxdRe">Travis Greene</a> and <a href="spotify:artist:58bqbgcmYuTyHDGGkHbrFH">Forward City</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,935 likes - 100 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,076 likes - 100 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [One Day](https://open.spotify.com/track/1aWEgCat4z6MwWZHQEdwPT) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [One Day](https://open.spotify.com/album/2X56R8P00VmhcRKhc8CMmF) | 3:41 |
 | 100 | [Waiting \(Reimagined\)](https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Waiting \(Reimagined\)](https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur) | 3:45 |
 
-Snapshot ID: `MCwyNGYxZWZmMGYwYTNkNTBkMDQ2NDAxMjM0ZmI3MWNkYzg4YmY1MWIz`
+Snapshot ID: `MCw2YTA4M2Q1YTFhM2Q3ODY5MTc1NTJmYzg1ZmI2Yjk1MjJiNDU5Mjlh`

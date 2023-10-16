@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 8832,
+  "num_followers": 8861,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWM0MTE1MGYxM2E4YWE1MjJjNDU4MTc1YjIxYzI3MzA3NTJlNmEz",
+  "snapshot_id": "MCxkNTIzMTE0MDliNjEwNzFjZWFhZDE0ZWQyMDY0YmRmYWJhOGNkY2Qx",
   "tracks": [
     {
       "added_at": "2023-09-20 06:37:37",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-09-20 06:37:37",
       "album": {
+        "name": "I Study You",
+        "url": "https://open.spotify.com/album/1GjqVAgkAdFotA8zkoRphT"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "duration_ms": 217728,
+      "name": "I Study You",
+      "url": "https://open.spotify.com/track/0KjzuciHomg603Pk1n64R9"
+    },
+    {
+      "added_at": "2023-09-20 06:37:37",
+      "album": {
         "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS"
       },
@@ -847,26 +863,6 @@
       "duration_ms": 178600,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2"
-    },
-    {
-      "added_at": "2023-09-20 06:37:37",
-      "album": {
-        "name": "Spring Song (feat. MIYEON ((G)I-DLE))",
-        "url": "https://open.spotify.com/album/3VWzNc9gziv2j5bKauli4q"
-      },
-      "artists": [
-        {
-          "name": "LAS",
-          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
-        },
-        {
-          "name": "MIYEON",
-          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "Spring Song (feat. MIYEON ((G)I-DLE))",
-      "url": "https://open.spotify.com/track/0gmBVi8J2Sk18uaNFBtOel"
     }
   ],
   "unique_name": "\uc378",

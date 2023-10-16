@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Maru2D",
-  "num_followers": 41898,
+  "num_followers": 41906,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjQ1NWY1ZjM4YzU3ODVlODUwOGJjZTI0ZjAzNTAzNTQxMWQxN2I0",
+  "snapshot_id": "MCwzYTE3OWJlM2Y2NTY5ZWY1MzFlZDE4NDdkYjgxZWM3YjlmZDk1YzM1",
   "tracks": [
     {
       "added_at": "2023-10-13 03:01:00",
@@ -827,6 +827,26 @@
     {
       "added_at": "2023-10-13 03:01:00",
       "album": {
+        "name": "SOU + EU",
+        "url": "https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV"
+      },
+      "artists": [
+        {
+          "name": "Afreekassia",
+          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
+        },
+        {
+          "name": "G.a.B.o",
+          "url": "https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Zero Buxixo",
+      "url": "https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9"
+    },
+    {
+      "added_at": "2023-10-13 03:01:00",
+      "album": {
         "name": "F.D.P",
         "url": "https://open.spotify.com/album/4tHvgPqTQ1lhpL2IxZe478"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 254756,
       "name": "Preta Patr\u00edcia",
       "url": "https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6"
-    },
-    {
-      "added_at": "2023-10-13 03:01:00",
-      "album": {
-        "name": "SOU + EU",
-        "url": "https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV"
-      },
-      "artists": [
-        {
-          "name": "Afreekassia",
-          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
-        },
-        {
-          "name": "G.a.B.o",
-          "url": "https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Zero Buxixo",
-      "url": "https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9"
     },
     {
       "added_at": "2023-10-13 03:01:00",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-10-13 03:01:00",
       "album": {
-        "name": "Loucona de Toddyn",
-        "url": "https://open.spotify.com/album/0OTEIZb8v2VfSKwLZ06MgD"
-      },
-      "artists": [
-        {
-          "name": "Mih",
-          "url": "https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj"
-        },
-        {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Loucona de Toddyn",
-      "url": "https://open.spotify.com/track/3ix7zsFUG6OAW7QMjZbgns"
-    },
-    {
-      "added_at": "2023-10-13 03:01:00",
-      "album": {
         "name": "Chica Mala",
         "url": "https://open.spotify.com/album/0QjPI0ICniI92V1VuXl40U"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 171210,
       "name": "Chica Mala",
       "url": "https://open.spotify.com/track/3vOCetJgzOxCDeGcrQ6YTI"
+    },
+    {
+      "added_at": "2023-10-13 03:01:00",
+      "album": {
+        "name": "Loucona de Toddyn",
+        "url": "https://open.spotify.com/album/0OTEIZb8v2VfSKwLZ06MgD"
+      },
+      "artists": [
+        {
+          "name": "Mih",
+          "url": "https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Loucona de Toddyn",
+      "url": "https://open.spotify.com/track/3ix7zsFUG6OAW7QMjZbgns"
     },
     {
       "added_at": "2023-10-13 03:01:00",

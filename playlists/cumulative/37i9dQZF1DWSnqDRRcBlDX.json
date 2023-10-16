@@ -1608,10 +1608,32 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 180821,
       "name": "Konje",
       "url": "https://open.spotify.com/track/0NcJtoYG0F9OuJwvcN0URG"
+    },
+    {
+      "album": {
+        "name": "Konje",
+        "url": "https://open.spotify.com/album/1JSQ4j6Z9znWSUw8eLp1V2"
+      },
+      "artists": [
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        },
+        {
+          "name": "B-Stylezz",
+          "url": "https://open.spotify.com/artist/5oF4p18MIAElmYvfCaXU5p"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180821,
+      "name": "Konje",
+      "url": "https://open.spotify.com/track/6k1S6jARx5BYb0uAH7Fn6m"
     },
     {
       "album": {

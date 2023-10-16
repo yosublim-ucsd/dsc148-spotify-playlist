@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: Dana and Alden
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,461 likes - 87 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,630 likes - 87 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 27 | [Stalemate \(Edit\)](https://open.spotify.com/track/6Nc3VlsiqEZNvF42ziCCAl) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Stalemate \(Edit\)](https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd) | 6:43 |
 | 28 | [Electric](https://open.spotify.com/track/1prB2IsyoUHw8bEjhprqFL) | [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM), [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [Electric](https://open.spotify.com/album/2q2XdDtowIYawqkKsPnokt) | 2:22 |
 | 29 | [IJ](https://open.spotify.com/track/4H0A9h9wDV3eB9JZ3xmxWl) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [IJ](https://open.spotify.com/album/3fmaGX2ZAvTzQY118RuOTa) | 2:30 |
-| 30 | [Listen To The Sky](https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Listen To The Sky](https://open.spotify.com/album/3G9hrfPSpBsvBwcgLT4i7u) | 2:52 |
+| 30 | [Listen To The Sky](https://open.spotify.com/track/5Hp5ffZ2NOFuJCGuJ04psW) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc) | 2:52 |
 | 31 | [What Do You Do](https://open.spotify.com/track/0iBSGgQlxkHAiUlvmenG1f) | [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH) | [What Do You Do](https://open.spotify.com/album/6YdUUHoGvNTMHeTcNYYHmq) | 3:13 |
 | 32 | [Greatest Gift \(feat\. Lila Iké\)](https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:12 |
 | 33 | [Please, Forever Keep Me Near](https://open.spotify.com/track/4ilO1SUKWXJJdQUgBpIkAb) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [The Color of Sound](https://open.spotify.com/album/6hVUBys8AtFvmKGVimFVPl) | 3:13 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 86 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 87 | [Been and Gone](https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Wallace](https://open.spotify.com/artist/0MyoWugdPYngWgagHhIbWa) | [Been and Gone](https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89) | 4:40 |
 
-Snapshot ID: `MCxiNTczNDZlNTU1NjBlMWU3Mjg3N2MwNzU2NWZlY2RhMGU2NzA0NzQ0`
+Snapshot ID: `MCwzMjRhNDAzYmExMTJhZDk5MTVhOWIxMGEwNWJjODU0NzlkZjY0YzY2`

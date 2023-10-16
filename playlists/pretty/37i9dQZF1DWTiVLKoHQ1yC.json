@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 166228,
+  "num_followers": 166327,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzlmNzc1NjAzMDg1Nzk2MGIzNWZhNmY1YWY2NmEzZDE5MTI0MTY0",
+  "snapshot_id": "MCxiMzBhOGFmNjRkMThiYTg4Nzg4ZWY3MWI1YmJkNGQ1MTNiZDRmMzk2",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Alkantara",
-        "url": "https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo"
-      },
-      "artists": [
-        {
-          "name": "Bottai",
-          "url": "https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk"
-        }
-      ],
-      "duration_ms": 216393,
-      "name": "Alkantara",
-      "url": "https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Lost Gravity EP",
         "url": "https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 305401,
       "name": "Lost Gravity",
       "url": "https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Alkantara",
+        "url": "https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo"
+      },
+      "artists": [
+        {
+          "name": "Bottai",
+          "url": "https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk"
+        }
+      ],
+      "duration_ms": 216393,
+      "name": "Alkantara",
+      "url": "https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Was It the Wind That Stirred The Trees",
+        "url": "https://open.spotify.com/album/0e9kIrv9PyjGWubMLQXJyY"
+      },
+      "artists": [
+        {
+          "name": "Boy North",
+          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
+        }
+      ],
+      "duration_ms": 228387,
+      "name": "Was It the Wind That Stirred The Trees",
+      "url": "https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Garden",
         "url": "https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 449149,
       "name": "L'ow\u00e8 L'ow\u00e8",
       "url": "https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Was It the Wind That Stirred The Trees",
-        "url": "https://open.spotify.com/album/0e9kIrv9PyjGWubMLQXJyY"
-      },
-      "artists": [
-        {
-          "name": "Boy North",
-          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
-        }
-      ],
-      "duration_ms": 228387,
-      "name": "Was It the Wind That Stirred The Trees",
-      "url": "https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "All We Have Is Now / Stay The Same",
+        "url": "https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny"
+      },
+      "artists": [
+        {
+          "name": "Just Her",
+          "url": "https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL"
+        }
+      ],
+      "duration_ms": 252125,
+      "name": "All We Have Is Now",
+      "url": "https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Whispers",
         "url": "https://open.spotify.com/album/2TG8n4sZ0loBauataq3rwg"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 271351,
       "name": "Sint Maarten",
       "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "All We Have Is Now / Stay The Same",
-        "url": "https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny"
-      },
-      "artists": [
-        {
-          "name": "Just Her",
-          "url": "https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL"
-        }
-      ],
-      "duration_ms": 252125,
-      "name": "All We Have Is Now",
-      "url": "https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "LNOE Introducing Vol. 1",
-        "url": "https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 322058,
-      "name": "Monolith",
-      "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Freedom Call",
         "url": "https://open.spotify.com/album/6MdOQa7i68HuppXqgBgkEo"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 239789,
       "name": "Freedom Call",
       "url": "https://open.spotify.com/track/68ctazgs0K7svqWLzsheDB"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "LNOE Introducing Vol. 1",
+        "url": "https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 322058,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Influence",
-        "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
+        "name": "Unite",
+        "url": "https://open.spotify.com/album/6Bpgmzi5nD2JMTFVCvdFBd"
       },
       "artists": [
         {
-          "name": "Joe Turner",
-          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
+          "name": "Yeadon",
+          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
         }
       ],
-      "duration_ms": 259364,
-      "name": "Influence - Edit",
-      "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
+      "duration_ms": 188157,
+      "name": "Unite",
+      "url": "https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Unite",
-        "url": "https://open.spotify.com/album/6Bpgmzi5nD2JMTFVCvdFBd"
+        "name": "Influence",
+        "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
       },
       "artists": [
         {
-          "name": "Yeadon",
-          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
+          "name": "Joe Turner",
+          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
         }
       ],
-      "duration_ms": 188157,
-      "name": "Unite",
-      "url": "https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H"
+      "duration_ms": 259364,
+      "name": "Influence - Edit",
+      "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
     },
     {
       "added_at": "2022-11-25 16:56:36",

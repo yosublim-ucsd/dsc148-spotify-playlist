@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-130 songs - 12 hr 27 min
+131 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Diamonds On My Mind](https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Diamonds On My Mind](https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs) | 2:48 | 2023-09-15 |  |
 | [Dimension](https://open.spotify.com/track/4LcWDwCxPWfM0aadSqLYis) | [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR) | [Dimension](https://open.spotify.com/album/4rOkZ0lcidjSec0fPJrGLr) | 6:21 | 2023-09-22 |  |
 | [Dish Ya Now](https://open.spotify.com/track/0cQpT7xJkFzMRJEMZdX9nJ) | [Roberto Capuano](https://open.spotify.com/artist/2XWr3TCJUE6XBKd6BQrAc1) | [When the Lights Go Down](https://open.spotify.com/album/2Q5CM06rAEYRqf0VeLIcFT) | 3:32 | 2023-07-14 | 2023-09-23 |
-| [Distorted Reality](https://open.spotify.com/track/4FJTgL8CuntIAJbcclrQ5c) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Distorted Reality](https://open.spotify.com/album/4O4jPcQKhOyTRnprLbPjo0) | 2:57 | 2023-08-25 |  |
+| [Distorted Reality](https://open.spotify.com/track/4FJTgL8CuntIAJbcclrQ5c) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Distorted Reality](https://open.spotify.com/album/4O4jPcQKhOyTRnprLbPjo0) | 2:57 | 2023-08-25 | 2023-10-16 |
+| [Distorted Reality](https://open.spotify.com/track/4fu8Dan6GErY95uSUKa4n7) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Distorted Reality](https://open.spotify.com/album/4saVRHVbHKyK2kWOt2e6Ix) | 2:57 | 2023-10-13 |  |
 | [Don't Laugh](https://open.spotify.com/track/21uqgBVyhkmQ6w3Wpjo60m) | [Josh Wink Aka Winx](https://open.spotify.com/artist/7qTQO5XvmJ13VGvxvjtMSr) | [20 Years Of Dancefloor by Smiley](https://open.spotify.com/album/40RglEFwehUJvPb8fzGNRz) | 3:26 | 2023-09-15 |  |
 | [Dopemine](https://open.spotify.com/track/1DHpTZqedmXOahLu8HFHxT) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Tunnel Vision](https://open.spotify.com/album/6lYFoDZ0TmSSSuwLDtmfI2) | 6:10 | 2023-10-13 |  |
 | [Everything Collapses](https://open.spotify.com/track/7mjjSmrYqxucbk6W98tcE0) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up), [Ash Code](https://open.spotify.com/artist/5RgEBlZV41hfY0KgUDiQvy) | [Everything Collapses](https://open.spotify.com/album/564l8RYKO06QPnjdfYplq0) | 5:05 | 2023-08-25 |  |

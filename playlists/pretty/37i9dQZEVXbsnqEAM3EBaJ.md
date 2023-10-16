@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 63 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 63 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 8 | [Something Beautiful \- 2023 Version](https://open.spotify.com/track/3jR1bap4OIX37tUt8tcrvI) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Whole Lotta Love](https://open.spotify.com/album/1Fdt85Ya0ea3D4jFOilHla) | 5:16 |
 | 9 | [Too Hot To Handle \- Live](https://open.spotify.com/track/6oWLyJUheP4wzEmsRXzqeK) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [One Night \- Lights Out 77](https://open.spotify.com/album/6dIZJgSYYQhf2G6CrqAF27) | 3:52 |
 | 10 | [One Track Mind \- Live at Hull City Hall, 22/6/1983](https://open.spotify.com/track/4vRcgWjmYHGToSJyJvEEIu) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [One Track Mind \(Live at Hull City Hall, 22/6/1983\)](https://open.spotify.com/album/4aQFtLSp3Uux25rRtFrejZ) | 4:05 |
-| 11 | [Goldberg Variations, BWV 988: Var\. 4](https://open.spotify.com/track/0iAHhP9V1pX1x3Gf06iRhj) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Aria: Piano pieces by Bach & other great composers](https://open.spotify.com/album/7jLzCDIHh1C4IDqiSFUS0B) | 0:56 |
-| 12 | [Panic Attack](https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Panic Attack](https://open.spotify.com/album/02DtysqFzSbWAfptGA7mec) | 5:25 |
-| 13 | [Get Up, Stand Up \- Live At The Sundown Theatre, Edmonton, UK / May 1973](https://open.spotify.com/track/1T9ixkQTfQ8H00O6Na0KxL) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire \(50th Anniversary\)](https://open.spotify.com/album/1KQFJswSSy7hTfxSgy3ql4) | 6:24 |
-| 14 | [Feeling The Sunlight](https://open.spotify.com/track/1YpeUoLUxtvVV09t1ltR3d) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Rewind Forward](https://open.spotify.com/album/2ETwP4mpMMUgx9BYYuzdmm) | 3:06 |
+| 11 | [Panic Attack](https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Panic Attack](https://open.spotify.com/album/02DtysqFzSbWAfptGA7mec) | 5:25 |
+| 12 | [Get Up, Stand Up \- Live At The Sundown Theatre, Edmonton, UK / May 1973](https://open.spotify.com/track/1T9ixkQTfQ8H00O6Na0KxL) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire \(50th Anniversary\)](https://open.spotify.com/album/1KQFJswSSy7hTfxSgy3ql4) | 6:24 |
+| 13 | [Feeling The Sunlight](https://open.spotify.com/track/1YpeUoLUxtvVV09t1ltR3d) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Rewind Forward](https://open.spotify.com/album/2ETwP4mpMMUgx9BYYuzdmm) | 3:06 |
+| 14 | [Leonore Overture No\. 3, Op\. 72a \(Arr\. Solo Piano by Ritter\) \- Welte\-Mignon 3130](https://open.spotify.com/track/2DxholBrFO9r4fChQefYwk) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Franz Ritter](https://open.spotify.com/artist/7kxFntsJP69WwEwczxR1Oo), [Peter Phillips](https://open.spotify.com/artist/2aWlsaSemY3u7rGARqX1xp) | [Great Piano Transcriptions from the Golden Age, Vol\. 5](https://open.spotify.com/album/27nFbgBGgM7gnb1xzt6cvr) | 10:52 |
 | 15 | [Iconic \(feat\. Jax\)](https://open.spotify.com/track/4r0AbYYtiklnWyNRgEHPM8) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Iconic \(feat\. Jax\)](https://open.spotify.com/album/4GgLfWDhquj9jKv7Fiwt8d) | 3:06 |
 | 16 | [Miracle](https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Miracle](https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK) | 2:59 |
 | 17 | [Warenkorb](https://open.spotify.com/track/69HzNcNqVpx53fQM9PXIxO) | [Perfektomat](https://open.spotify.com/artist/48qveLDPBlvMKdgdJG8sJt), [Retrogott](https://open.spotify.com/artist/5tVBk9HCvx9dELxzEgQ2ll), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F) | [Warenkorb](https://open.spotify.com/album/6LpRZvVjg5fCsM27KwAJCe) | 4:16 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 62 | [La Versión En Mi Cabeza](https://open.spotify.com/track/70iA1uzud3bwrJzQQZ5D6i) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Vida Cotidiana \(Deluxe Version\)](https://open.spotify.com/album/157buz5Int6IECXF2hKYak) | 3:13 |
 | 63 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 |
 
-Snapshot ID: `MjgyODYxMDAsMDAwMDAwMDA0ZjlkZjZiYmI0NmU5MDE3MzIyMWEyNDgxZjk2YjFhZA==`
+Snapshot ID: `MjgyODYxMDAsMDAwMDAwMDBjNTIxZWM1ZjFhMDZlZmEwNjE1NjQxMWFkMTdjYmZkYg==`

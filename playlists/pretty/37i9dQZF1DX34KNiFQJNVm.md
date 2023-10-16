@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ana Castela, Djonga, Mc Davi, Di Propósito, Avine Vinny e João Gomes e muito mais
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,918,155 likes - 98 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,918,604 likes - 98 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 2 | [5 da manhã](https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:53 |
 | 3 | [Mais Um Voo](https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mais Um Voo](https://open.spotify.com/album/27ZKtXmfYS7OXGb1aKoI7U) | 3:14 |
 | 4 | [Coração Grande \- Ao Vivo](https://open.spotify.com/track/6iBG12yzzuJUQ6uw0wi4Gk) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Singular, Vol\. 3 \(Ao Vivo Em Goiânia\)](https://open.spotify.com/album/6faKhHj1VAsiLCNqU5JoKo) | 2:37 |
-| 5 | [Cafézim de Vó \- Ao Vivo](https://open.spotify.com/track/1BCn0dTxjdd4IWDLBFIX6V) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Cafézim de Vó \(Ao Vivo\)](https://open.spotify.com/album/71WPmaIdErmdczERbxFDRp) | 2:43 |
+| 5 | [Cafézin de Vó \- Ao Vivo](https://open.spotify.com/track/1BCn0dTxjdd4IWDLBFIX6V) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Cafézin de Vó \(Ao Vivo\)](https://open.spotify.com/album/71WPmaIdErmdczERbxFDRp) | 2:43 |
 | 6 | [Bailarina](https://open.spotify.com/track/3yokUDNYWOI3EAvNrqM0bo) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Bailarina](https://open.spotify.com/album/5A13kC2xuiMhjIVoLHdDf8) | 2:32 |
 | 7 | [Bandida Selvagem](https://open.spotify.com/track/4dluR2lg82WQIfWHy6d3Pu) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Bandida Selvagem](https://open.spotify.com/album/7pYexrvkgBXne5uT0hQ2pY) | 4:59 |
 | 8 | [Poc, Poc, Poc \(Ao Vivo\)](https://open.spotify.com/track/0X8XyruUu5AryuAWiSx8yD) | [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [Versão Brasileira \- Bloco: "Não vale se apegar" \(Ao Vivo\)](https://open.spotify.com/album/2AVpTeN7G2MrcpU36LfXwZ) | 2:13 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 97 | [1,2 Joga de Ladinho](https://open.spotify.com/track/0sDYgMAbERBwwPFWVLWHej) | [Mc Arizinho](https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [Doug Hits](https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9) | [1,2 Joga de Ladinho](https://open.spotify.com/album/1HnwLLEn4H7N8CRddjNpck) | 2:42 |
 | 98 | [Tamanho G Grandão](https://open.spotify.com/track/3Br8QpyeJxVbSPZHbGkqvq) | [MC Durrony](https://open.spotify.com/artist/2s1GtomGAJ3fnqQBkUXbIL) | [Tamanho G Grandão](https://open.spotify.com/album/2KrIHAFNcBO4ZLWsuGMHJD) | 3:08 |
 
-Snapshot ID: `MCwzNWMzZTg5YWY0YTZlZmEyYjQxNzZiNzRkOTlkMjlhMzk0Yjk3Y2Yw`
+Snapshot ID: `MCw2ZjQzMWVkMGQ3ZmEyZTNhOWEwYjA0NGI4OWI3ZmRlZjYxYjllZGMy`

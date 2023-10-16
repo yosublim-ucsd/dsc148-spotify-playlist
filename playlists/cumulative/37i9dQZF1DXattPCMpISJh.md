@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-223 songs - 14 hr 3 min
+224 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Chain Reaction](https://open.spotify.com/track/0AKaQvBIQ2hyFWZ5OUHaii) | [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6) | [Chain Reaction](https://open.spotify.com/album/1RTA4XUMyit5gXC2Jkmd0f) | 4:09 | 2021-10-01 | 2022-11-05 |
 | [Change Your Mind](https://open.spotify.com/track/7DRoyQiz59HSM0egAeQnvC) | [Ken@Work](https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj) | [Change Your Mind](https://open.spotify.com/album/4InKmaH0ORYbiXCaHo8hSg) | 5:56 | 2023-01-27 |  |
 | [Children](https://open.spotify.com/track/2CUiWTVatM7iXmn63zP39c) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Children](https://open.spotify.com/album/0diCTKYJdp4IDN0KVs0N6t) | 3:41 | 2021-10-15 | 2023-02-18 |
+| [Children \(What Time It Is\)](https://open.spotify.com/track/62mKCfQX5J2nnEq8lSwuOX) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Children \(What Time It Is\)](https://open.spotify.com/album/5OOn9cixybs44lmmeFx4GI) | 3:41 | 2023-10-13 |  |
 | [Ciao](https://open.spotify.com/track/0X5LTG4ImUFlfNgOFXqzuN) | [Charles Fauna](https://open.spotify.com/artist/0arvBUGvO9CCgtWyQshByp) | [Renewal](https://open.spotify.com/album/2PeS6FuRkGmIwMY1AnMSMy) | 3:28 | 2022-02-25 | 2023-01-14 |
 | [Climbing Up](https://open.spotify.com/track/37cFA9RlQHyQ6r41LLzjCW) | [Colour Castle](https://open.spotify.com/artist/5PyXw8u0sJbvxMriq8qKBS), [Clicks](https://open.spotify.com/artist/3Bn9LAqhJqcTWngq8RWh7P), [Fleur De Mur](https://open.spotify.com/artist/1T8GyoQt9cAAsIFPEzRxzD) | [Climbing Up](https://open.spotify.com/album/2aToFPKZixcWBADYIsmBNU) | 3:53 | 2022-08-05 | 2022-10-29 |
 | [Climbing Up \(Colour Castle Dub Edit Mix I\)](https://open.spotify.com/track/7zOLHyza9544S7MqPDEdl0) | [Colour Castle](https://open.spotify.com/artist/5PyXw8u0sJbvxMriq8qKBS), [Clicks](https://open.spotify.com/artist/3Bn9LAqhJqcTWngq8RWh7P), [Fleur De Mur](https://open.spotify.com/artist/1T8GyoQt9cAAsIFPEzRxzD) | [Climbing Up \(Colour Castle Dub Mix I\)](https://open.spotify.com/album/0CGhXrgyw2MIQ4cOEVVfqb) | 3:31 | 2022-10-21 | 2023-06-03 |

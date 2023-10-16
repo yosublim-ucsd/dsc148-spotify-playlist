@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Jess Gillam
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,240 likes - 84 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,280 likes - 84 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 83 | [L’Assillo](https://open.spotify.com/track/4TedZmr82Z2j792Vs6sOi3) | [Fabian Otten](https://open.spotify.com/artist/0Z9OGnrIBcn17vrWs06Bjv) | [L’Assillo](https://open.spotify.com/album/3O9Qle26C88Ft2s4jQdCar) | 7:32 |
 | 84 | [Christmas Oratorio: IV\. Hymn: Thou whose almighty word](https://open.spotify.com/track/14alDzQfYEKxen1BVR9256) | [Bob Chilcott](https://open.spotify.com/artist/5Q2lvqropyKbugryLHx8e7), [Choir of Merton College, Oxford](https://open.spotify.com/artist/42bglDd9UgTO74tu8m90Hs), [Oxford Contemporary Sinfonia](https://open.spotify.com/artist/69NmDOjJ3ApudTKfPz2gyl), [Benjamin Nicholas](https://open.spotify.com/artist/1JGGawPzxXW8e6AM6agKNx) | [Chilcott: Christmas Oratorio: IV\. Hymn: Thou whose almighty word](https://open.spotify.com/album/2nzmX2ciuOIWzAyTbxPRMO) | 2:40 |
 
-Snapshot ID: `MCxmMzYxNTIyMTZhNzQ5NDA0YmY2NTJlMjUzMWJiODU0MmEzMGZiZTgw`
+Snapshot ID: `MCxhMDg3ZmRlYmM2Y2I3ZmU4OWM4YTJiNjkzMzkwOGE0YTY4YzViNjU4`

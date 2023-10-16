@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Clinton Kane
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,159 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,166 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 62 | [Op Shop Lover](https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Op Shop Lover](https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP) | 2:30 |
 | 63 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 |
 | 64 | [Eyes On You](https://open.spotify.com/track/35OlFESa4OUrPTbVb1sYSa) | [Sarah Hemi](https://open.spotify.com/artist/4BQlN5DBVwm72Q6foAEzly) | [Eyes On You](https://open.spotify.com/album/3rapAYXSUpYkQLN68J75iV) | 2:15 |
-| 65 | [Molly Sucks \(At Parties\)](https://open.spotify.com/track/3boVjk1GSKD4mnJJbmdXf9) | [GAZAL](https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU), [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Molly Sucks \(At Parties\)](https://open.spotify.com/album/7pETeC6zWXLdNGFGrdM6X8) | 3:13 |
+| 65 | [Molly Sucks \(At Parties\) \[feat\. Chanel Loren\]](https://open.spotify.com/track/3boVjk1GSKD4mnJJbmdXf9) | [GAZAL](https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU), [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Molly Sucks \(At Parties\) \[feat\. Chanel Loren\]](https://open.spotify.com/album/7pETeC6zWXLdNGFGrdM6X8) | 3:13 |
 | 66 | [Strangers Again](https://open.spotify.com/track/0GCqsWG1ZCWmoBxXjhqayy) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Strangers Again](https://open.spotify.com/album/1QpIGsHL35dpWA37Pn31SV) | 2:44 |
 | 67 | [Into Your Room](https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Into Your Room](https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws) | 3:29 |
 | 68 | [Nervous \(In A Good Way\)](https://open.spotify.com/track/0BLk6dGbBPhiHH0skowRJQ) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/3WZfVdlY9ft0aRSsbiYSsa) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [2009](https://open.spotify.com/track/0PAgdg0v7LSjinrubTDsjp) | [Livia O](https://open.spotify.com/artist/0DJDFfRvWrXgjbFn0Wl0CG) | [2009](https://open.spotify.com/album/5W8wvoLa3IJiAa4wvbFoYe) | 3:39 |
 | 100 | [Pretty Girl \(Teine Aulelei\)](https://open.spotify.com/track/6IEcLmbHyP3nPaKc2L7LZl) | [Vince Harder](https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M) | [Pretty Girl \(Teine Aulelei\)](https://open.spotify.com/album/5MU4ri3gJ6JK3YMiKmS0B7) | 4:11 |
 
-Snapshot ID: `MCw2NTJmOTgyOGQ2YTRjMDc0ZTcwMjMwMWQzZTM4MGU5M2Q5NGFjMjQw`
+Snapshot ID: `MCwyNzQ4NTc0NzFkOTYwYjRiZWRhYWIyNjAxY2Q2ZjNlYzhhMWNhMmQx`

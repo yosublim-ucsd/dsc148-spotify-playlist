@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Tsuki
 
-146 songs - 10 hr 0 min
+147 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [F\*ck Jump Up \(feat\. B Live\)](https://open.spotify.com/track/0XaKIs5sTAhmhUfwsqTKiB) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [F\*ck Jump Up \(feat\. B Live\)](https://open.spotify.com/album/1MPpDGXMybp6qXjA41frqh) | 3:44 | 2023-09-22 |  |
 | [Finesse Riddim](https://open.spotify.com/track/13Mgkz3Rk8t1XsMZ6JyIrG) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Devilman](https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK), [DJ ADZ](https://open.spotify.com/artist/0yWeK60Enkx19d6ONJibla), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Finesse Riddim](https://open.spotify.com/album/5tQmcRslhxZE5hAMZbKUT9) | 3:24 | 2022-05-06 |  |
 | [Fire Works 2 \- Remix](https://open.spotify.com/track/4mCN3gZqyH5AIHu9stRVov) | [Harry Shotta](https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7), [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Skibadee](https://open.spotify.com/artist/5gXXODq8Y20txFk5hJxBUa), [Dynamite MC](https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl), [JMulla](https://open.spotify.com/artist/2riMe46MPHt4X4cR6CMOnu), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK) | [Fire Works 2 \(Remix\)](https://open.spotify.com/album/1BfRvi4DKMg4KMBAMMVyeB) | 3:48 | 2022-05-06 | 2022-07-27 |
+| [Forever Changes](https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Forever Changes](https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6) | 3:04 | 2023-10-13 |  |
 | [Freak \- Used Remix](https://open.spotify.com/track/1fbHuU5L4ztC5JRwd2JIbV) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Freak \(Used Remix\)](https://open.spotify.com/album/1MCWIGoES5nxFBS2inrKRn) | 4:12 | 2022-05-06 | 2023-05-19 |
 | [Freak \- Used Remix](https://open.spotify.com/track/48261IylfaueSdk1XKX0nh) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Freak \(Used Remix\)](https://open.spotify.com/album/0y7mYfre8eBAUSpHVCRFXY) | 4:12 | 2022-08-12 |  |
 | [Free](https://open.spotify.com/track/3UIVHHvzMmAYjH7VIiburn) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl) | [Free](https://open.spotify.com/album/6GMcUsOe9eqEtlm1KAkFIR) | 3:00 | 2022-05-06 |  |
@@ -100,7 +101,7 @@
 | [No Excuses \- Hedex Remix](https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [No Excuses \(Hedex Remix\)](https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4) | 2:43 | 2022-08-12 |  |
 | [Now Wait](https://open.spotify.com/track/6lIl5VaoIh9NnG73KJtiAm) | [Gino](https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E) | [Now Wait](https://open.spotify.com/album/29zLqmECn4j5RLalG5Mu1g) | 4:31 | 2022-08-12 |  |
 | [Offender](https://open.spotify.com/track/39dkTH7uL26INRkJYxmPmz) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Offender](https://open.spotify.com/album/0HGC8S4h6lsfrPw2lWWbZh) | 3:43 | 2022-05-06 |  |
-| [Operator](https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv) | 4:27 | 2022-06-20 |  |
+| [Operator](https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv) | 4:27 | 2022-06-20 | 2023-10-16 |
 | [Operator](https://open.spotify.com/track/2ajRKo1dsleuWOj6ukRUqi) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [Operator](https://open.spotify.com/album/52YV9NRavLk76L9Pb3P3Wv) | 4:27 | 2022-05-06 | 2022-07-29 |
 | [Outta Control](https://open.spotify.com/track/77mNZlPZg1Dqpf19U9X2tc) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn) | [15 Years Of Low Down Deep](https://open.spotify.com/album/37OTn60AXNy6BuvxJik9hk) | 4:28 | 2022-05-06 | 2022-07-26 |
 | [Owe You](https://open.spotify.com/track/5f3LbqyGnYKRf3VTpN671Z) | [Toxinate](https://open.spotify.com/artist/5UI7tSO6UvXv4N0ju1Vbyk), [Marge](https://open.spotify.com/artist/0krpGGLRgOcvPtsNvlpEqN) | [Owe You / Drop It](https://open.spotify.com/album/78vdGMF1FgBgHwxJaiPgy6) | 4:42 | 2022-05-06 | 2022-07-29 |

@@ -2266,7 +2266,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 201500,
       "name": "Lake Green",
       "url": "https://open.spotify.com/track/5CGZFKWSIipVq4DfANWaBl"
@@ -4460,6 +4460,24 @@
       "duration_ms": 189458,
       "name": "We Belong To The Stars",
       "url": "https://open.spotify.com/track/2ud8DOtMIZABZJC0huKtFC"
+    },
+    {
+      "album": {
+        "name": "Weightless Dreams",
+        "url": "https://open.spotify.com/album/1a3IWoGFoLQ1leCfaT0h81"
+      },
+      "artists": [
+        {
+          "name": "Vayalada",
+          "url": "https://open.spotify.com/artist/2MMloDSBp4kDC7SflBJrZi"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173892,
+      "name": "Weightless Dreams",
+      "url": "https://open.spotify.com/track/5UfsYYVyxWRpJ5sBA32Rns"
     },
     {
       "album": {

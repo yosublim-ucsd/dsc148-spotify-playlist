@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover: <a href="spotify:artist:3LZZPxNDGDFVSIPqf4JuEf">Ice Spice</a> and <a href="spotify:artist:46pWGuE3dSwY3bMMXGBvVS">Rema</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,612 likes - 109 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,579 likes - 109 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 108 | [Rush](https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [RUSH](https://open.spotify.com/album/6qXJvv0V4AOJN3EHQS0YIl) | 3:40 |
 | 109 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 
-Snapshot ID: `MCxkYWFiZjZjMDIwNTlmM2Y4ZjY5MjZkNjExMGQ2ZTI1MmIxOTM3MDcy`
+Snapshot ID: `MCw1ZjA5ZjMzY2IwOWE4OTc4YTY1N2E5YWY3ODNmZGU5Yzk5MmY5YmY5`

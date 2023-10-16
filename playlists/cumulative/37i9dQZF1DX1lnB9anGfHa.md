@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-209 songs - 14 hr 2 min
+210 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [popular](https://open.spotify.com/track/7IpmgwR3K4wFzWTS1ESWZj) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [search result](https://open.spotify.com/album/1wmIqJmiY5i7frir68g8JP) | 3:33 | 2020-10-20 | 2023-08-11 |
 | [Pure Smile Snake Venom](https://open.spotify.com/track/2vP6Rn1x35ybWBctcdooEF) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Powders](https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U) | 3:41 | 2023-09-22 |  |
 | [quiet face](https://open.spotify.com/track/0x2GowE3BwQCG7ZAYwiTxC) | [Nyokabi Kariuki](https://open.spotify.com/artist/04vacT34stkfP2TFkNvDf2) | [FEELING BODY](https://open.spotify.com/album/3D2gBvOa2KhfW0qXjN0lHj) | 3:10 | 2023-03-03 | 2023-04-01 |
-| [r\(EMOTE\)](https://open.spotify.com/track/3iOMiZlt4gEeQsEgnW0MeQ) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [r\(EMOTE\)](https://open.spotify.com/album/4gYQKBqHDABqdmJuTnSjvS) | 3:41 | 2023-09-29 |  |
+| [r\(EMOTE\)](https://open.spotify.com/track/0j4oE7wt2ejFjqNKRcc2rW) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 3:41 | 2023-10-06 |  |
+| [r\(EMOTE\)](https://open.spotify.com/track/3iOMiZlt4gEeQsEgnW0MeQ) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [r\(EMOTE\)](https://open.spotify.com/album/4gYQKBqHDABqdmJuTnSjvS) | 3:41 | 2023-09-29 | 2023-10-16 |
 | [Rah \(feat\. Zoë Modiga\)](https://open.spotify.com/track/3CPcUIvlezozJDzmolebuT) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C), [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [Rah](https://open.spotify.com/album/4mycV2gcEOnp7q3LWYTMrw) | 8:55 | 2023-03-23 | 2023-04-01 |
 | [Raja Kirik \(Dog King\)](https://open.spotify.com/track/31F5fC1a6AGmzh7bZj7QwS) | [Yennu Ariendra](https://open.spotify.com/artist/4k01UHAnX9skbKaqYpD2nt), [J Mo'ong Santoso Pribadi](https://open.spotify.com/artist/3gjuapOhwP1QHYvIu3Xzjz) | [Raja Kirik](https://open.spotify.com/album/0fzYY8CqqgwFeeOm823Gfu) | 8:09 | 2020-10-20 | 2022-11-04 |
 | [Recover](https://open.spotify.com/track/6YzfsSLXsMefRCno6FJTd7) | [Trophie](https://open.spotify.com/artist/267gjhlmcoscSuzUHiKqX8) | [Recover](https://open.spotify.com/album/1lQntsXzOIiW4lXNe4Wkj2) | 3:26 | 2020-10-20 | 2022-11-04 |

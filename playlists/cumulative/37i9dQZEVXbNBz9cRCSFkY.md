@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-719 songs - 1 day 19 hr 9 min
+720 songs - 1 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 | 2022-06-13 |  |
 | [Mahika](https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Mahika](https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA) | 3:30 | 2023-03-18 | 2023-03-26 |
 | [Make It With You](https://open.spotify.com/track/2Mo4pOpCYXOu33856sMQLh) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Make It With You](https://open.spotify.com/album/3cHbJm4cKnGephP4UYxIEv) | 3:29 | 2021-07-04 | 2021-09-28 |
+| [Malaking P \- Rich N\*\*\*\* Shit Remix](https://open.spotify.com/track/3UsQ5xVmuxXhZkJOJbVDed) | [E.J](https://open.spotify.com/artist/4CUQubNxrznvOLWuWDxsuN) | [Malaking P \(Rich N\*\*\*\* Shit Remix\)](https://open.spotify.com/album/5tCHTJUJiydizlAspI60QC) | 2:32 | 2023-10-15 |  |
 | [Mana](https://open.spotify.com/track/0EtkP3TUHvTeDIgrpgMS8m) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Pagsibol](https://open.spotify.com/album/4bieHSYaRSMRAoDF47qfSf) | 4:03 | 2021-07-24 | 2021-07-25 |
 | [MAPA](https://open.spotify.com/track/6Fz2TpxUD0YvAPsuG8nDMJ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [MAPA](https://open.spotify.com/album/4Qhx57hNp0CUmUbO2igtAq) | 4:35 | 2021-05-18 | 2021-11-12 |
 | [MAPA \(Band Version\)](https://open.spotify.com/track/0QQoU68nnBRWJqr9ak3mnS) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [MAPA \(Band Version\)](https://open.spotify.com/album/63OIQhMqDpmCRZO0d8Phfu) | 4:30 | 2021-07-01 | 2021-08-11 |
@@ -476,7 +477,7 @@
 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 | 2021-12-11 | 2023-09-10 |
 | [Para Sa Streets](https://open.spotify.com/track/0szRYVD2MwFzQMs58PT1Ec) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Para Sa Streets](https://open.spotify.com/album/62G53UzsyGd1updwIfyXLq) | 3:14 | 2023-10-13 |  |
 | [Paradise](https://open.spotify.com/track/0KDCkxCsEBoSWj5fsyuvWq) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:37 | 2021-06-09 | 2021-06-13 |
-| [Paraluman](https://open.spotify.com/track/2jbf9EytR7fzpSrPWAYCf9) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Paraluman](https://open.spotify.com/album/0kQW4dCqjMfD2Vlrf6h8Cw) | 5:12 | 2022-03-09 |  |
+| [Paraluman](https://open.spotify.com/track/2jbf9EytR7fzpSrPWAYCf9) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Paraluman](https://open.spotify.com/album/0kQW4dCqjMfD2Vlrf6h8Cw) | 5:12 | 2022-03-09 | 2023-10-16 |
 | [Paraluman](https://open.spotify.com/track/5Hm2MJQ4ECvQmH5QWCMQrR) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Paraluman](https://open.spotify.com/album/1WPqdSZcLnQQFhCGK3kJk6) | 5:12 | 2021-05-21 | 2022-03-10 |
 | [Paris](https://open.spotify.com/track/6J834IBcZJMH38ksrgAqwF) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:16 | 2022-10-22 | 2022-10-30 |
 | [Party In The U.S.A.](https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:22 | 2023-01-01 | 2023-01-03 |

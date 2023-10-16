@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-435 songs - 23 hr 16 min
+436 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Motor](https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Motor](https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4) | 3:02 | 2023-07-18 |  |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2022-07-14 | 2023-07-19 |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-06-03 |  |
+| [My Own Advice](https://open.spotify.com/track/76K4ShMg2oDyw6VfKeabB8) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [My Own Advice](https://open.spotify.com/album/38RdF3YX7jMghQqhjAvXi4) | 3:12 | 2023-10-13 |  |
 | [My Toy](https://open.spotify.com/track/47C0kcP46CKw8DX69aXmRK) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [My Toy](https://open.spotify.com/album/6ai1YGBCS8Y83QWtJrRJz8) | 3:18 | 2022-08-12 | 2022-10-01 |
 | [My Wicked](https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [My Wicked](https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq) | 3:53 | 2022-05-06 | 2022-07-29 |
 | [Nevada](https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/35waq1Bkgy11OjZNGuk9Gj) | 3:28 | 2022-05-06 | 2023-08-19 |
@@ -403,7 +404,7 @@
 | [Unity](https://open.spotify.com/track/5ocEjEEmrT02QNIvSc5iub) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Unity](https://open.spotify.com/album/3u3JkMZvuXinPVaaU3PbV4) | 2:48 | 2023-02-14 | 2023-10-02 |
 | [Unity](https://open.spotify.com/track/66TdgLCf9Bic8nBsNv0YuD) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Unity](https://open.spotify.com/album/0p1vX5sQiE5S6Moj8r3MvL) | 3:24 | 2022-06-03 | 2023-08-02 |
 | [Unleashed](https://open.spotify.com/track/3EQFXygBuRViHpx64ZPsjy) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab) | [Unleashed](https://open.spotify.com/album/3AeIE3pK62Qiu4sO9g8Vzy) | 2:31 | 2022-06-24 | 2022-07-29 |
-| [Us](https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Us](https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM) | 3:04 | 2022-05-06 |  |
+| [Us](https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Us](https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM) | 3:04 | 2022-05-06 | 2023-10-16 |
 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2023-07-18 |  |
 | [Vibration \(One More Time\) \(feat\. AR/CO\)](https://open.spotify.com/track/2t3iFlsIkaoV7GmVC2ptuM) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Vibration \(One More Time\) \(feat\. AR/CO\)](https://open.spotify.com/album/7bGuN31tBDnZiKxpQsa58S) | 4:02 | 2023-05-15 | 2023-07-19 |
 | [Violence](https://open.spotify.com/track/2raUfi0wM6gDa3RDKNQySD) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g) | [Violence](https://open.spotify.com/album/4wBwT46IH2CMytFxJTZsME) | 3:33 | 2022-05-06 | 2022-07-29 |

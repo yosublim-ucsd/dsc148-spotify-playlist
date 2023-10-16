@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 891376,
+  "num_followers": 891396,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODIxZWI0M2E1NTVhM2MwMTA1M2Y5ZTcxNzlhOGRiNDdmMGUzNTU1",
+  "snapshot_id": "MCxjYWI5MThlODQ0YWJiMDhjMjQ4OGNiNzA2ZTU2NGE1M2JlNTM2N2Zm",
   "tracks": [
     {
       "added_at": "2023-10-13 19:22:57",
@@ -146,6 +146,10 @@
         {
           "name": "Levity",
           "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "Dem Jointz",
+          "url": "https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd"
         }
       ],
       "duration_ms": 135000,
@@ -575,6 +579,22 @@
     {
       "added_at": "2023-10-13 19:22:57",
       "album": {
+        "name": "Tanglewood",
+        "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        }
+      ],
+      "duration_ms": 158961,
+      "name": "Spanish Moss",
+      "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
+    },
+    {
+      "added_at": "2023-10-13 19:22:57",
+      "album": {
         "name": "WukiWorld",
         "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
       },
@@ -591,22 +611,6 @@
       "duration_ms": 162375,
       "name": "Birdz",
       "url": "https://open.spotify.com/track/3LEztKH305u3WRpqKdG9Ch"
-    },
-    {
-      "added_at": "2023-10-13 19:22:57",
-      "album": {
-        "name": "Tanglewood",
-        "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        }
-      ],
-      "duration_ms": 158961,
-      "name": "Spanish Moss",
-      "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
     },
     {
       "added_at": "2023-10-13 19:22:57",
@@ -1003,26 +1007,6 @@
     {
       "added_at": "2023-10-13 19:22:57",
       "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Lil Gnar",
-          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
-        }
-      ],
-      "duration_ms": 121849,
-      "name": "Spirits Pt. 2",
-      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
-    },
-    {
-      "added_at": "2023-10-13 19:22:57",
-      "album": {
         "name": "OCCULT CLASSIC",
         "url": "https://open.spotify.com/album/2xCNIURBZpbjPLoaxSRujw"
       },
@@ -1039,6 +1023,26 @@
       "duration_ms": 226973,
       "name": "I Do Coke",
       "url": "https://open.spotify.com/track/3PvhJcV5xv7E1ImIfbRYeM"
+    },
+    {
+      "added_at": "2023-10-13 19:22:57",
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Lil Gnar",
+          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
+        }
+      ],
+      "duration_ms": 121849,
+      "name": "Spirits Pt. 2",
+      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
     },
     {
       "added_at": "2023-10-13 19:22:57",
@@ -1211,6 +1215,26 @@
     {
       "added_at": "2023-10-13 19:22:57",
       "album": {
+        "name": "Angels Landing",
+        "url": "https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Angels Landing",
+      "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
+    },
+    {
+      "added_at": "2023-10-13 19:22:57",
+      "album": {
         "name": "Came Up",
         "url": "https://open.spotify.com/album/1UKFMf12OfFIpeRFLvgfqD"
       },
@@ -1239,26 +1263,6 @@
       "duration_ms": 214929,
       "name": "Came Up",
       "url": "https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo"
-    },
-    {
-      "added_at": "2023-10-13 19:22:57",
-      "album": {
-        "name": "Angels Landing",
-        "url": "https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "FrostTop",
-          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Angels Landing",
-      "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
     },
     {
       "added_at": "2023-10-13 19:22:57",
@@ -1731,26 +1735,6 @@
     {
       "added_at": "2023-10-13 19:22:57",
       "album": {
-        "name": "LOUD",
-        "url": "https://open.spotify.com/album/20YsYld8q3KoVj8uT7kHGK"
-      },
-      "artists": [
-        {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        },
-        {
-          "name": "Runnit",
-          "url": "https://open.spotify.com/artist/0kojSSqjZ9LAAHpNwYObKb"
-        }
-      ],
-      "duration_ms": 165675,
-      "name": "LOUD",
-      "url": "https://open.spotify.com/track/4gWvFjp9fFZ77mOW5FUaDh"
-    },
-    {
-      "added_at": "2023-10-13 19:22:57",
-      "album": {
         "name": "NO TOMORROW",
         "url": "https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr"
       },
@@ -1767,6 +1751,26 @@
       "duration_ms": 174334,
       "name": "NO TOMORROW",
       "url": "https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob"
+    },
+    {
+      "added_at": "2023-10-13 19:22:57",
+      "album": {
+        "name": "LOUD",
+        "url": "https://open.spotify.com/album/20YsYld8q3KoVj8uT7kHGK"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Runnit",
+          "url": "https://open.spotify.com/artist/0kojSSqjZ9LAAHpNwYObKb"
+        }
+      ],
+      "duration_ms": 165675,
+      "name": "LOUD",
+      "url": "https://open.spotify.com/track/4gWvFjp9fFZ77mOW5FUaDh"
     },
     {
       "added_at": "2023-10-13 19:22:57",

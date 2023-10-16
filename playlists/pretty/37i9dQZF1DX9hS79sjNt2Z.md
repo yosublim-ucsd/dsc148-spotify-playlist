@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hS79sjNt2Z.md) - [plain]
 
 > Easter songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,486 likes - 101 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488 likes - 101 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hS79sjNt2Z.md) - [plain]
 | 100 | [Lead Me To The Cross](https://open.spotify.com/track/6OJZWfDfxubWxWYWhHI0Og) | [Kids Praise! Company](https://open.spotify.com/artist/13EBQsdgR822icqaSKAGwT) | [Good Good Father](https://open.spotify.com/album/79hijgvISuI86XQD7Q9By2) | 4:21 |
 | 101 | [Christ Is Risen, He Is Risen Indeed](https://open.spotify.com/track/5Fcqe3AVjIf8OBeCZswCOZ) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Getty Kids Hymnal \- In Christ Alone](https://open.spotify.com/album/7yiENPxEnhGvOLisic94jw) | 4:10 |
 
-Snapshot ID: `MCxmODliYWYyODMwMTYzMTQ1YWMyMWViMDU5OTU0ZjBlOTgyOTc5MmU5`
+Snapshot ID: `MCw5YzU1OTI5N2VlNTFiODI5MWYyN2Y2Y2NlMmUxZTY4OWQ3NGY2NWQ1`

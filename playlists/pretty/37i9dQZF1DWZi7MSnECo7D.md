@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Personas
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,851 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,819 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 74 | [Eu Não Vou Embora](https://open.spotify.com/track/1Jf2ajAR9tdCCVoVWc0hQY) | [Thais Kiwi](https://open.spotify.com/artist/7JNDN2kOvYlpV1Mw5WCelE), [Renato Enoch](https://open.spotify.com/artist/6TV4EsauTqkvsZATrn2YBc) | [Eu Não Vou Embora](https://open.spotify.com/album/14RCRBM3i7efqqwxQrsgHj) | 3:47 |
 | 75 | [Vou Assombrar Você](https://open.spotify.com/track/1jEtRWtkSHMa2Mr0chd7ma) | [measyou](https://open.spotify.com/artist/4zDWNcpNltzn5srR9WBNqr) | [Vou Assombrar Você](https://open.spotify.com/album/42zLC6S0krAIx0Vdo2kfyK) | 2:35 |
 
-Snapshot ID: `MCxjZDkwNzVhZGM3ZjI3ZTE5OGE4MmU4MDY1ZTU5YmZhZmY2ZDcxNTQ5`
+Snapshot ID: `MCw4OGZlMjRmNzllZWExNzU2YmJhODg5MjkzNGI0YjRmMGUyZGNiNzk0`

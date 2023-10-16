@@ -3536,7 +3536,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 100508,
       "name": "Camping",
       "url": "https://open.spotify.com/track/6JJOCnGGphX1aSLMEDeY3m"
@@ -5684,7 +5684,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 134855,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/1PSQGXCHE2ilzbBBBapF5B"
@@ -6620,6 +6620,24 @@
       "duration_ms": 146193,
       "name": "fantasize",
       "url": "https://open.spotify.com/track/6YTpB8MmcAwNmet2FtfuTm"
+    },
+    {
+      "album": {
+        "name": "Far East",
+        "url": "https://open.spotify.com/album/0FTsRS7Jn5xpr3evrJpPsV"
+      },
+      "artists": [
+        {
+          "name": "Darren Spice",
+          "url": "https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "Far East",
+      "url": "https://open.spotify.com/track/6PQdebTH2xQn4mURkNP4IU"
     },
     {
       "album": {
@@ -9502,7 +9520,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 109090,
       "name": "In My Lifetime",
       "url": "https://open.spotify.com/track/4xnUnOJbzbWZEVY4Ktublu"
@@ -10558,6 +10576,24 @@
       "duration_ms": 123000,
       "name": "Lepricorn Ride",
       "url": "https://open.spotify.com/track/2YO5oyN7TcyRMlytlKxLmr"
+    },
+    {
+      "album": {
+        "name": "less-than-flattering",
+        "url": "https://open.spotify.com/album/1ETVGZXDwls6QNfhhil7aj"
+      },
+      "artists": [
+        {
+          "name": "Slow Bounce",
+          "url": "https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127788,
+      "name": "less-than-flattering",
+      "url": "https://open.spotify.com/track/7ay42oCBar4ZtjwlvqyKyt"
     },
     {
       "album": {
@@ -13907,6 +13943,24 @@
     },
     {
       "album": {
+        "name": "Oonga Boonga",
+        "url": "https://open.spotify.com/album/4cxVtYbW26RwdkQc8H00Pk"
+      },
+      "artists": [
+        {
+          "name": "cakofonik",
+          "url": "https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125853,
+      "name": "Oonga Boonga",
+      "url": "https://open.spotify.com/track/26QyP0HrEPW0EAggeRovc5"
+    },
+    {
+      "album": {
         "name": "Orb",
         "url": "https://open.spotify.com/album/0YfkN8XLus9Sj1PKnRvIq6"
       },
@@ -15608,7 +15662,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 160263,
       "name": "Reading Minds",
       "url": "https://open.spotify.com/track/4dc2zA87qHnlJn8QK7XOUr"
@@ -16512,6 +16566,24 @@
       "duration_ms": 149374,
       "name": "Saydee",
       "url": "https://open.spotify.com/track/4GJXwA1Ys8AcXDGmRkicRv"
+    },
+    {
+      "album": {
+        "name": "Sayuri",
+        "url": "https://open.spotify.com/album/04u4KqVs87eqD8smvP7Ril"
+      },
+      "artists": [
+        {
+          "name": "Fritz Pants",
+          "url": "https://open.spotify.com/artist/6gGcdv1surWW1Mh32Q3GF1"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Sayuri",
+      "url": "https://open.spotify.com/track/2RluOZNvc49Ddj3cqLUUSR"
     },
     {
       "album": {
@@ -18273,6 +18345,24 @@
     },
     {
       "album": {
+        "name": "Stones",
+        "url": "https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV"
+      },
+      "artists": [
+        {
+          "name": "W8lss",
+          "url": "https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137228,
+      "name": "Stones",
+      "url": "https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3"
+    },
+    {
+      "album": {
         "name": "Stoplight",
         "url": "https://open.spotify.com/album/1JjsVP9vK43eiZrpw70zoq"
       },
@@ -18604,6 +18694,24 @@
       "duration_ms": 131945,
       "name": "Summertalks",
       "url": "https://open.spotify.com/track/3XdldYJT0hXaHKzWlgekSW"
+    },
+    {
+      "album": {
+        "name": "Sun Course",
+        "url": "https://open.spotify.com/album/64KBolf3eGaOVnzA0tv4TJ"
+      },
+      "artists": [
+        {
+          "name": "Spitzgef\u00fchl",
+          "url": "https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "Sun Course",
+      "url": "https://open.spotify.com/track/5zd8kAM3NF6oPd4jJJzaJe"
     },
     {
       "album": {
@@ -20216,7 +20324,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 130000,
       "name": "Tram",
       "url": "https://open.spotify.com/track/2qrguu9bcFrNC40tpTu8ys"
@@ -20494,7 +20602,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 108582,
       "name": "TRUE LOVE",
       "url": "https://open.spotify.com/track/1A5alggm4SU9XsrmMYiMDa"

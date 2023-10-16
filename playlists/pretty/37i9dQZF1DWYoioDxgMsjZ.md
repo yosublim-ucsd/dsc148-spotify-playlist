@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoioDxgMsjZ.md) - [plain]
 
 > <a href="spotify:artist:1AHswQqsDNmu1xaE8KpBne">COBRAH</a>'s favorite tracks\. Updated regularly\. Curated by COBRAH\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,363 likes - 61 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,391 likes - 61 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoioDxgMsjZ.md) - [plain]
 | 13 | [Look](https://open.spotify.com/track/2UnYp6QyIXKJiDF0tB8Smy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/47QcF8U1SLWFGCqU2pmRxJ) | 2:48 |
 | 14 | [Tired and Sick](https://open.spotify.com/track/59rqs8yRLVyfw5CosESRQX) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Tired and Sick](https://open.spotify.com/album/5bx8drBY6ZIOlIy5wZtb6s) | 2:52 |
 | 15 | [6FINGERDEATHPUNCH](https://open.spotify.com/track/2M7V4v4DUaPIlMSrCbB2U3) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [All Nighter, Vol\. 6](https://open.spotify.com/album/1Thi7GCXPtyG7NfXBOYCTS) | 2:44 |
-| 16 | [Loca People \- Radio Edit](https://open.spotify.com/track/6lZs6TqQVWx98cdjkOkG9i) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Loca People](https://open.spotify.com/album/3VVn2hMgvryDngC1B4dZsj) | 3:35 |
+| 16 | [Loca People \(What the F\*\*k!"\) \- Radio Edit](https://open.spotify.com/track/0MJ7MlBHBVQxzwHz5bfCZk) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Loca People](https://open.spotify.com/album/4YAtGMxXppxc1tSOX3huZ9) | 3:35 |
 | 17 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
 | 18 | [NYC2MIA \- SOPHIE Remix](https://open.spotify.com/track/3bfZfblo5xLHXJgp8zxO2z) | [Basside](https://open.spotify.com/artist/1Oc8whczB0ya9jgVzx6djF), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [NYC2MIA \(SOPHIE Remix\)](https://open.spotify.com/album/1teM6b52vhiAbVONN3Lw3R) | 3:09 |
 | 19 | [SRS](https://open.spotify.com/track/2YqnLz7YNpDzX0nlYVnAmF) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [SRS](https://open.spotify.com/album/0EdZaveXeFBbqfq56kW7cH) | 2:41 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoioDxgMsjZ.md) - [plain]
 | 60 | [Pedi](https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 2:05 |
 | 61 | [Hi, I'm a Slut](https://open.spotify.com/track/2gFMgqvKcygf8CavNyR131) | [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx) | [Lil Mariko](https://open.spotify.com/album/4FA6S8h3E3bCiLApDDPZzb) | 2:50 |
 
-Snapshot ID: `MCxjNjE1NWI4YTVmMDQ4MmFhMzI3OGY0MGQ0YTdmMWUyM2QyOGJmODZm`
+Snapshot ID: `MCw4ZDgxOWZkOWE2ZWQ2N2YzNjBhNzI2YzM3NTk4ZjQ3NGI2YTZhNjFm`

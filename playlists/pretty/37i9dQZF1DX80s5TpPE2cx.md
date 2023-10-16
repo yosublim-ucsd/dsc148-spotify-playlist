@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,273 likes - 79 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,294 likes - 79 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 54 | [After Six](https://open.spotify.com/track/7F6qYyok4jAAabN9mDIVig) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd), [Santi](https://open.spotify.com/artist/4TksvAnPyPpUidSjaJQJL6) | [Leap of Faith](https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl) | 3:51 |
 | 55 | [The Atlas](https://open.spotify.com/track/2QtMHkOVl28e5QOUbeLfkB) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Me in Me](https://open.spotify.com/album/0ie5Z0uCEmLVQaDlmja49u) | 4:28 |
 | 56 | [In The Night](https://open.spotify.com/track/5G6qUca8Er653hnwIE7Bwe) | [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [In The Night](https://open.spotify.com/album/15MaGSCTIq6lnBoz8QIdt8) | 2:47 |
-| 57 | [Cash](https://open.spotify.com/track/4fSK7nMpI1QAHir02gYcYk) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Cash](https://open.spotify.com/album/2Ssol3lCn5se4yfnFCOSYf) | 3:07 |
+| 57 | [Cash](https://open.spotify.com/track/1vBfCnOdppaPUdYe22PFFX) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Enjoy Your Life](https://open.spotify.com/album/0w9eny2YNRw2bU9x1t4nM5) | 3:07 |
 | 58 | [Lust or Love](https://open.spotify.com/track/4FnIcF8E4dRhgkK3Olrtlp) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Passport](https://open.spotify.com/album/5pQXeCuA6l4kmhWzh4lsig) | 2:42 |
 | 59 | [China Designer](https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt) | [Lagos City Vice](https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5) | 2:52 |
 | 60 | [The Other Side \(feat\. Odunsi & King Zamir\)](https://open.spotify.com/track/3zIiwUQogxtTieEgGPKB7B) | [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [King Zamir](https://open.spotify.com/artist/76e2rJtSnKai5gTBg1xFae) | [The Other Side \(feat\. Odunsi & King Zamir\)](https://open.spotify.com/album/3siHuAYwyA4ql8j4BltiyV) | 3:54 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 78 | [Don't](https://open.spotify.com/track/3Nynva3Aa4iDyQmclJ6fxV) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [War EP](https://open.spotify.com/album/42R2uH3FUDSG7Akey6HdlU) | 2:57 |
 | 79 | [Godzilla](https://open.spotify.com/track/1SFIUpNbKHb6IxDv63OB75) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [La Meme Tape](https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT) | 3:21 |
 
-Snapshot ID: `MCw3NzNhYWJkODk1N2MxNWY0OGEzNjgzODRhYjg4ZjI2ZDhjNDUyODZi`
+Snapshot ID: `MCwxM2RkMWExYzk2Y2ZmYzRiYWViNjE0Y2ZhYjk3NDQ1NTY5MDkyNDA5`

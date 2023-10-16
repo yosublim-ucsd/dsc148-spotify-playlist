@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 23053,
+  "num_followers": 23117,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGU5MTVlZTA2MzBiYTExNDljMjkxNWQ2OGZmZjU0M2NlZDQ2MDM3",
+  "snapshot_id": "MCw5NDY4YjdjNGI4MzM4MjNjMjJhYTZkNDNjYjIyMWYzZTQyZDVkNTFk",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Italian Classics: Fred Bongusto, Vol. 1",
-        "url": "https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ"
-      },
-      "artists": [
-        {
-          "name": "Fred Bongusto",
-          "url": "https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly"
-        }
-      ],
-      "duration_ms": 168642,
-      "name": "Una rotonda sul mare",
-      "url": "https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "The Best Righeira",
         "url": "https://open.spotify.com/album/62KcZpsdRkth5bVIQfduNi"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 225440,
       "name": "L'estate sta finendo",
       "url": "https://open.spotify.com/track/1eEMDXRpkipdhKj9nZliol"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Italian Classics: Fred Bongusto, Vol. 1",
+        "url": "https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ"
+      },
+      "artists": [
+        {
+          "name": "Fred Bongusto",
+          "url": "https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly"
+        }
+      ],
+      "duration_ms": 168642,
+      "name": "Una rotonda sul mare",
+      "url": "https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "40 Grandi Successi",
-        "url": "https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Fontana",
-          "url": "https://open.spotify.com/artist/6YvCTF77M8f4Nq3IqoWvtz"
-        }
-      ],
-      "duration_ms": 165015,
-      "name": "Il Mondo",
-      "url": "https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "I Grandi Successi: Gianni Pettenati",
         "url": "https://open.spotify.com/album/2UtnH2Mcweg0S38n9JvMfW"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 148826,
       "name": "Bandiera gialla",
       "url": "https://open.spotify.com/track/6CYmFiGnVzzZmi8RgI7fpX"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "40 Grandi Successi",
+        "url": "https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Fontana",
+          "url": "https://open.spotify.com/artist/6YvCTF77M8f4Nq3IqoWvtz"
+        }
+      ],
+      "duration_ms": 165015,
+      "name": "Il Mondo",
+      "url": "https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Nell'aria",
+        "url": "https://open.spotify.com/album/1hj4hDj1BbuCEbSmwH3QqA"
+      },
+      "artists": [
+        {
+          "name": "Marcella Bella",
+          "url": "https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "Nell'aria",
+      "url": "https://open.spotify.com/track/6m00Mv5ElkFndzwrv0D8a0"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Legata a un granello di sabbia (Remastered)",
         "url": "https://open.spotify.com/album/18n1cji3OvtCKepHxLgV1c"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 197533,
       "name": "Balla",
       "url": "https://open.spotify.com/track/4cpTdeZIwK2F1qBHo2Gnq4"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Nell'aria",
-        "url": "https://open.spotify.com/album/1hj4hDj1BbuCEbSmwH3QqA"
-      },
-      "artists": [
-        {
-          "name": "Marcella Bella",
-          "url": "https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "Nell'aria",
-      "url": "https://open.spotify.com/track/6m00Mv5ElkFndzwrv0D8a0"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica - Segunda Parte - Lo Mejor De Italia",
-        "url": "https://open.spotify.com/album/4c3klMERkQR9RXro9ETDcH"
-      },
-      "artists": [
-        {
-          "name": "Nico Fidenco",
-          "url": "https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP"
-        }
-      ],
-      "duration_ms": 156920,
-      "name": "Con Te Sulla Spiaggia",
-      "url": "https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Profumo di sole...",
         "url": "https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 132093,
       "name": "Sei diventata nera",
       "url": "https://open.spotify.com/track/2nQzlb5i7JKIj1xMrf9yVu"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica - Segunda Parte - Lo Mejor De Italia",
+        "url": "https://open.spotify.com/album/4c3klMERkQR9RXro9ETDcH"
+      },
+      "artists": [
+        {
+          "name": "Nico Fidenco",
+          "url": "https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP"
+        }
+      ],
+      "duration_ms": 156920,
+      "name": "Con Te Sulla Spiaggia",
+      "url": "https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI"
     },
     {
       "added_at": "2023-06-05 07:42:38",

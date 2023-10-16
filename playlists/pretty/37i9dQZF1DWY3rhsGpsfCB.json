@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 15792,
+  "num_followers": 15829,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzYxZTQyZDZkZTkzYmZjNmQ2NjVhYjUxMjQzZjRhNjllYjBjNWJl",
+  "snapshot_id": "MCw0ZjA1NGNhNDYxNzRjZmU2NWRjZmY5ZGRmOTllYzUwYzIwYzU5MmQ2",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -295,26 +295,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "I Lay (feat. Xenia Manasseh)",
-        "url": "https://open.spotify.com/album/5ANLOAQ4aeLFY3XOsdJ48i"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        },
-        {
-          "name": "Kaien Cruz",
-          "url": "https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE"
-        }
-      ],
-      "duration_ms": 148601,
-      "name": "I Lay (feat. Xenia Manasseh)",
-      "url": "https://open.spotify.com/track/3OfnodXWoUyR7bgKckTe5p"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Bad Boy Etiquette 101",
         "url": "https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 200412,
       "name": "In Love",
       "url": "https://open.spotify.com/track/78LJK1nCgnYprkhLK0JriD"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "I Lay (feat. Xenia Manasseh)",
+        "url": "https://open.spotify.com/album/5ANLOAQ4aeLFY3XOsdJ48i"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        },
+        {
+          "name": "Kaien Cruz",
+          "url": "https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE"
+        }
+      ],
+      "duration_ms": 148601,
+      "name": "I Lay (feat. Xenia Manasseh)",
+      "url": "https://open.spotify.com/track/3OfnodXWoUyR7bgKckTe5p"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -531,26 +531,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Room",
-        "url": "https://open.spotify.com/album/0gx8ORhZE1FItFCz9qxtRD"
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp"
       },
       "artists": [
         {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
         }
       ],
-      "duration_ms": 219181,
-      "name": "Room (with Adekunle Gold & 2 Chainz)",
-      "url": "https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF"
+      "duration_ms": 185341,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -615,18 +607,26 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp"
+        "name": "Room",
+        "url": "https://open.spotify.com/album/0gx8ORhZE1FItFCz9qxtRD"
       },
       "artists": [
         {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 185341,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
+      "duration_ms": 219181,
+      "name": "Room (with Adekunle Gold & 2 Chainz)",
+      "url": "https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -935,22 +935,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Jane",
-        "url": "https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0"
+        "name": "PANIC",
+        "url": "https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ"
       },
       "artists": [
         {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
         }
       ],
-      "duration_ms": 202372,
-      "name": "Jane",
-      "url": "https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y"
+      "duration_ms": 221226,
+      "name": "Time Out",
+      "url": "https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -979,6 +975,26 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Jane",
+        "url": "https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 202372,
+      "name": "Jane",
+      "url": "https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT"
       },
@@ -991,6 +1007,22 @@
       "duration_ms": 139000,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "troublin - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        }
+      ],
+      "duration_ms": 145594,
+      "name": "troublin - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1035,22 +1067,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "troublin - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K"
-      },
-      "artists": [
-        {
-          "name": "Ragz Originale",
-          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
-        }
-      ],
-      "duration_ms": 145594,
-      "name": "troublin - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Lock Up",
         "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
       },
@@ -1087,6 +1103,30 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i"
+      },
+      "artists": [
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        },
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "NESTA",
+          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Beautiful Lies",
         "url": "https://open.spotify.com/album/6WlznjoXtwxdJvmTRabNxY"
       },
@@ -1103,18 +1143,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "PANIC",
-        "url": "https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ"
+        "name": "7 SEAS",
+        "url": "https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc"
       },
       "artists": [
         {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
         }
       ],
-      "duration_ms": 221226,
-      "name": "Time Out",
-      "url": "https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD"
+      "duration_ms": 186500,
+      "name": "Messi",
+      "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1151,26 +1195,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i"
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/2qjiZYwMeOeejMdtupyMXf"
       },
       "artists": [
         {
-          "name": "GuiltyBeatz",
-          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
-        },
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "NESTA",
-          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
         }
       ],
-      "duration_ms": 212307,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl"
+      "duration_ms": 184166,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1191,38 +1227,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/2qjiZYwMeOeejMdtupyMXf"
+        "name": "Fine Pass",
+        "url": "https://open.spotify.com/album/7fRa0SFSKPr2dX9Fnee44k"
       },
       "artists": [
         {
-          "name": "Mellissa",
-          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+          "name": "TOME",
+          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
         }
       ],
-      "duration_ms": 184166,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "L.I.T.A",
-        "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
-      },
-      "artists": [
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 228470,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj"
+      "duration_ms": 163154,
+      "name": "Fine Pass",
+      "url": "https://open.spotify.com/track/1L1ateHMb54rv0QsoD9YKy"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1259,6 +1275,26 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "L.I.T.A",
+        "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 228470,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "IN CASE I NEVER LOVE AGAIN ( ICINLA)",
         "url": "https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY"
       },
@@ -1271,6 +1307,26 @@
       "duration_ms": 182361,
       "name": "Break Up",
       "url": "https://open.spotify.com/track/2HC8oDukA9GvcWG5MuGYde"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "From Uganda With Love",
+        "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "duration_ms": 110124,
+      "name": "SUPAHAWT",
+      "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1299,22 +1355,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "From Uganda With Love",
-        "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
       "artists": [
         {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
         },
         {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
-      "duration_ms": 110124,
-      "name": "SUPAHAWT",
-      "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
+      "duration_ms": 204608,
+      "name": "Pieces (with Tay Iwar)",
+      "url": "https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1331,26 +1387,6 @@
       "duration_ms": 148695,
       "name": "Sail",
       "url": "https://open.spotify.com/track/26mrUHchbcgiCahub27gZY"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "7 SEAS",
-        "url": "https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc"
-      },
-      "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Messi",
-      "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1411,26 +1447,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 204608,
-      "name": "Pieces (with Tay Iwar)",
-      "url": "https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/29rDZXLQeZNoSpBqOY6ibI"
       },
@@ -1467,6 +1483,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Journey to Idan",
+        "url": "https://open.spotify.com/album/2U6DR87NV7jBoc2d5cHRxt"
+      },
+      "artists": [
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        }
+      ],
+      "duration_ms": 227217,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/31iNSE9TF3ehPE7cX8OSek"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "That's Alright",
         "url": "https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ"
       },
@@ -1499,38 +1531,6 @@
       "duration_ms": 197142,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/3wFPcby1G24MrJdfY18rqi"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Fine Pass",
-        "url": "https://open.spotify.com/album/7fRa0SFSKPr2dX9Fnee44k"
-      },
-      "artists": [
-        {
-          "name": "TOME",
-          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
-        }
-      ],
-      "duration_ms": 163154,
-      "name": "Fine Pass",
-      "url": "https://open.spotify.com/track/1L1ateHMb54rv0QsoD9YKy"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Don't Leave",
-        "url": "https://open.spotify.com/album/709IXOjBvnPvOtoQZmPrX4"
-      },
-      "artists": [
-        {
-          "name": "Winny",
-          "url": "https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz"
-        }
-      ],
-      "duration_ms": 157179,
-      "name": "Don't Leave",
-      "url": "https://open.spotify.com/track/6AGy2SKNYEzMSTkLsCAtUn"
     }
   ],
   "unique_name": "Cocoa Butter ",

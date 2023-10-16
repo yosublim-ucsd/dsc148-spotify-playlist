@@ -11117,6 +11117,24 @@
     },
     {
       "album": {
+        "name": "Encore plus",
+        "url": "https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr"
+      },
+      "artists": [
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Encore plus",
+      "url": "https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL"
+    },
+    {
+      "album": {
         "name": "ROOM 96",
         "url": "https://open.spotify.com/album/1AV7yqXIK2IhVpLvd5KSfr"
       },
@@ -17532,7 +17550,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 220000,
       "name": "Je te promets",
       "url": "https://open.spotify.com/track/2WQSqRICLiUVaQHT7QQ0We"
@@ -20098,12 +20116,12 @@
       },
       "artists": [
         {
-          "name": "Eli Rose",
-          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
-        },
-        {
           "name": "Domeno",
           "url": "https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y"
+        },
+        {
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
         }
       ],
       "date_added": "2023-10-13",

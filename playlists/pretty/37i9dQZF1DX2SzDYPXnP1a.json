@@ -1,12 +1,12 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 41276,
+  "num_followers": 41392,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDM2M2U1NDEzMTZhZDYzNjFiMTljMWU3ODE5NzY2NTNlZDgyZDhm",
+  "snapshot_id": "MCxlNjllZDg0YzM4ODFhZjEyM2YzZTZjYjdlYWYxYTY5MzlhYWM1MDQx",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -271,18 +271,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Home Team",
-        "url": "https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd"
+        "name": "High Heels",
+        "url": "https://open.spotify.com/album/0IJZvRUdoGgvuiXKEibSdz"
       },
       "artists": [
         {
-          "name": "Lakeview",
-          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
         }
       ],
-      "duration_ms": 196281,
-      "name": "Home Team",
-      "url": "https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc"
+      "duration_ms": 155032,
+      "name": "High Heels",
+      "url": "https://open.spotify.com/track/7HH2qGXywdgAn5b2WHnkQq"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -303,22 +307,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "High Heels",
-        "url": "https://open.spotify.com/album/0IJZvRUdoGgvuiXKEibSdz"
+        "name": "Home Team",
+        "url": "https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd"
       },
       "artists": [
         {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Walker Hayes",
-          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
         }
       ],
-      "duration_ms": 155032,
-      "name": "High Heels",
-      "url": "https://open.spotify.com/track/7HH2qGXywdgAn5b2WHnkQq"
+      "duration_ms": 196281,
+      "name": "Home Team",
+      "url": "https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc"
     },
     {
       "added_at": "2023-06-30 04:01:00",

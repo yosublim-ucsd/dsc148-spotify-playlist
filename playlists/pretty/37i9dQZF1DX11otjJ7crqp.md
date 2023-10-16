@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Chelsea Cutler
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,961 likes - 99 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,004 likes - 99 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 |
 | 99 | [you're just a guy](https://open.spotify.com/track/5few7Mi55PFf2E3o1lqiXI) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [you're just a guy](https://open.spotify.com/album/2vCgwGhSVhb2P0xna96RvN) | 3:50 |
 
-Snapshot ID: `MCw3MGUxNTM5MmQxYWNkNjlmMmNjNDA1ZjdhOTQxZDIzYmU3MzVkMWI3`
+Snapshot ID: `MCxlZmMwZDAzYjFiODA4MzhhMTcwYWFmZTRkZDI4YzQzNzI2ZTE4OTFk`

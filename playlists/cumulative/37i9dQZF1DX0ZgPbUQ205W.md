@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-322 songs - 23 hr 11 min
+323 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [From Birth](https://open.spotify.com/track/36UStFErscz4HacHTR6I04) | [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7) | [Cartography](https://open.spotify.com/album/5wuEblqsUnqUQQgTbcVpjP) | 2:44 | 2021-12-17 | 2022-11-11 |
 | [From My Perspective](https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [From My Perspective](https://open.spotify.com/album/6CY77pDMz6tioKGrK6aGaz) | 4:02 | 2023-04-14 |  |
 | [From Now On](https://open.spotify.com/track/53roJ5AgOGeWt7f0sjKpXW) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8), [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Entering the Woods](https://open.spotify.com/album/7HV0aIXTJHdYpJWLgyBynP) | 3:41 | 2022-05-25 | 2022-09-15 |
-| [Ghost Song \#6](https://open.spotify.com/track/72PmD0iDjTNM9seYDN87Av) | [Paul Jarret](https://open.spotify.com/artist/3UZbyz0QMCgygRaBh7dEEa), [Jim Black](https://open.spotify.com/artist/6kqqAVzvnHV9B3xHGkHxA4) | [Ghost Song \#6](https://open.spotify.com/album/69GnQv4bJpxL2yWfBQ93X2) | 2:25 | 2021-12-17 |  |
+| [Ghost Song \#6](https://open.spotify.com/track/72PmD0iDjTNM9seYDN87Av) | [Paul Jarret](https://open.spotify.com/artist/3UZbyz0QMCgygRaBh7dEEa), [Jim Black](https://open.spotify.com/artist/6kqqAVzvnHV9B3xHGkHxA4) | [Ghost Song \#6](https://open.spotify.com/album/69GnQv4bJpxL2yWfBQ93X2) | 2:25 | 2021-12-17 | 2023-10-16 |
 | [Glencoe Sketches](https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Glencoe Sketches](https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C) | 4:21 | 2023-09-22 |  |
 | [Glimmer Of Hope](https://open.spotify.com/track/5CLc13Ktc8gDsDihuAqFzM) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Arctic Riff](https://open.spotify.com/album/019T87LVzoR6yBR8pYahZr) | 8:33 | 2022-05-25 |  |
 | [Good Morning Heartache](https://open.spotify.com/track/3Lye44P9cPy94QWjvFRLq4) | [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Good Morning Heartache](https://open.spotify.com/album/5hViZsJbP1o4f4xAkv2Z5M) | 5:25 | 2021-12-17 |  |
@@ -312,6 +312,7 @@
 | [Walking talking fields](https://open.spotify.com/track/2sMyolj16yyMfF5TDs2Xs8) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Walking talking fields](https://open.spotify.com/album/1PWAJ2s1OLsjPBA8ZieZvr) | 3:54 | 2023-09-29 |  |
 | [Waltz No\. 6](https://open.spotify.com/track/2kux8wUJ2tchQumA0lqELV) | [Sollinger/Hermansson](https://open.spotify.com/artist/5Gbj8QFV1IwOmZXmXiLw14) | [My Friend with Takotsubo](https://open.spotify.com/album/4pziSOg9h6y3cReoq89Mai) | 4:04 | 2023-06-21 |  |
 | [We´ll Be Together Again](https://open.spotify.com/track/02albk71PUNANHHJ4HUZZE) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Songs](https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v) | 5:05 | 2021-12-17 | 2022-08-18 |
+| [What If It's Not](https://open.spotify.com/track/2hkVG0p8kgdbzJsPgofWxZ) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [What If It's Not](https://open.spotify.com/album/70WZeSLtkNe4CV7grB1Mna) | 4:09 | 2023-10-13 |  |
 | [What I’m doing wrong?](https://open.spotify.com/track/68HHUsKYMa5g3KSIHFfa3V) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [What I’m doing wrong?](https://open.spotify.com/album/71g2tsTFYn27gJM0T5HVVP) | 2:57 | 2023-08-10 |  |
 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 | 2022-11-11 |  |
 | [Where Can I Go Without You](https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Last Dance](https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa) | 9:32 | 2021-12-17 | 2022-03-12 |

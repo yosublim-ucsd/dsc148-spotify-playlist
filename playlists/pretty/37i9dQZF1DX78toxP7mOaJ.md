@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Office Dog \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,715 likes - 125 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,743 likes - 125 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 82 | [Restless](https://open.spotify.com/track/1QMH8fWSJiEnLQhNegTjxK) | [Late November](https://open.spotify.com/artist/5AgraKGOClXr2594sW7Am1) | [Restless](https://open.spotify.com/album/7Hxsh2UCcFuLIsBkKS6ty1) | 4:26 |
 | 83 | [Passing](https://open.spotify.com/track/6xWBnKAcKAM7HJ2hw6GGYM) | [Career Woman](https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y) | [Passing](https://open.spotify.com/album/7mhfR2VLl5BcrIVxbNuSV2) | 1:53 |
 | 84 | [This Shadow](https://open.spotify.com/track/4mWaL2Y7ZpoEsaJCVtJawK) | [Maggot Heart](https://open.spotify.com/artist/1fPlNcA88PnTHeLk7k57UJ) | [This Shadow](https://open.spotify.com/album/5Z2MKGswtMMQtvEN2qQX0G) | 5:35 |
-| 85 | [Domino](https://open.spotify.com/track/3v70cZTbmDtdada83OlRn4) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [Domino](https://open.spotify.com/album/1smfUyWCkDAxgDRfJEXt3d) | 3:37 |
+| 85 | [Domino](https://open.spotify.com/track/2sljACn0yvJccfg4Ub4cME) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [Domino \(Acoustic\)](https://open.spotify.com/album/0r1cEHZp9EsImonU8X8Aik) | 3:37 |
 | 86 | [Eutherians \(Ultramarine\)](https://open.spotify.com/track/28e2ijIPbnUzeU8b9xntzn) | [ME REX](https://open.spotify.com/artist/4i3bRgGFFhxCNJg4xURPJm) | [Eutherians \(Ultramarine\)](https://open.spotify.com/album/2F5jGyZ9z14KGjH4tdhPTA) | 4:13 |
 | 87 | [This One](https://open.spotify.com/track/5Qp6SIUrqZFSyYZHJkb6I0) | [Reggie Pearl](https://open.spotify.com/artist/0bqF0eDCWNkie7lHRS9fDe) | [This One](https://open.spotify.com/album/7xcV8IGE3Djn5vbk6ehdin) | 3:04 |
 | 88 | [Freaks Like Us](https://open.spotify.com/track/0chJDuzoUhpvfLJiSP4cEe) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/6aaFOSMUUxYBAJ3fcxZmBo) | 4:54 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 124 | [ifshitfuq](https://open.spotify.com/track/73YDopbDooUCO4WUKwI4zL) | [meg elsier](https://open.spotify.com/artist/4rkAMhebcdsLwZKBriNerT) | [ifshitfuq](https://open.spotify.com/album/4rpHu4Ca3tl9ju3UYzodja) | 3:50 |
 | 125 | [Racecar](https://open.spotify.com/track/4FPGFaICcvodRf0Fj9xx9L) | [hey i'm outside](https://open.spotify.com/artist/1KuUcuQRlE7H8XvHzF7r9r) | [Racecar](https://open.spotify.com/album/1PqN2J350tWLhSjRx8J8px) | 3:49 |
 
-Snapshot ID: `MCw1N2VkNzQ4ZDk0NmE0YzRlMjFmZjgwMjkyMDA4ZWI3YzM2NWYyMzQy`
+Snapshot ID: `MCwyYTNmYjI1NDUyZWIxNDRmODMyNjI0YzkxNWRiYWJhNmI5ZTJmMGZh`

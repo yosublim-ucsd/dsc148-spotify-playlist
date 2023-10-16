@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes da cena pop dividindo o mesmo palco!  / Foto: Cleo",
-  "num_followers": 365264,
+  "num_followers": 365387,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzAyNzU5NWQ3OTA2NjBmZTI0NjlhYmRkZDI1OWJhNTU5OWI4N2M2",
+  "snapshot_id": "MCwxODg0OWJjMTczNTU3NzIzNDU5YzZmOWRmMTEyODRjN2NlMGIxMWMz",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -691,6 +691,26 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "AFRODHIT",
+        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 204235,
+      "name": "Fiu Fiu",
+      "url": "https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Baile do Papato",
         "url": "https://open.spotify.com/album/2xReweSuwmZbdogHMILeek"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 181670,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/3Q0LWpLuhEcCCWjpfBRnzH"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "AFRODHIT",
-        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 204235,
-      "name": "Fiu Fiu",
-      "url": "https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Desculpa por Eu N\u00e3o Te Amar",
-        "url": "https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 186188,
-      "name": "Desculpa por Eu N\u00e3o Te Amar",
-      "url": "https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Prioridade",
         "url": "https://open.spotify.com/album/2RhFlihoWqgcvGEO3ZSb4v"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 150044,
       "name": "Prioridade",
       "url": "https://open.spotify.com/track/0yFsqGPEdoMM9UjdzNpnJY"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Desculpa por Eu N\u00e3o Te Amar",
+        "url": "https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 186188,
+      "name": "Desculpa por Eu N\u00e3o Te Amar",
+      "url": "https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1239,6 +1239,30 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Caliente",
+        "url": "https://open.spotify.com/album/7fzqKhbzHBuOnbo2yeTWr2"
+      },
+      "artists": [
+        {
+          "name": "Lily Nobre",
+          "url": "https://open.spotify.com/artist/38SMTPnAWS5j9wALRSV7mD"
+        },
+        {
+          "name": "MC RUAN RZAN",
+          "url": "https://open.spotify.com/artist/6H8R7o8nKuXWxG19X2XoVE"
+        },
+        {
+          "name": "Skorps",
+          "url": "https://open.spotify.com/artist/4WolQpakht16d6Cs9Uh0xy"
+        }
+      ],
+      "duration_ms": 133636,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/2TrAxb7dg65ZFHoMzrGhcN"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Abelha",
         "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
       },
@@ -1279,30 +1303,6 @@
       "duration_ms": 158829,
       "name": "Pegada de Vil\u00e3",
       "url": "https://open.spotify.com/track/0QNyFrnE4O6E4ZJDRvBuWm"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Caliente",
-        "url": "https://open.spotify.com/album/7fzqKhbzHBuOnbo2yeTWr2"
-      },
-      "artists": [
-        {
-          "name": "Lily Nobre",
-          "url": "https://open.spotify.com/artist/38SMTPnAWS5j9wALRSV7mD"
-        },
-        {
-          "name": "MC RUAN RZAN",
-          "url": "https://open.spotify.com/artist/6H8R7o8nKuXWxG19X2XoVE"
-        },
-        {
-          "name": "Skorps",
-          "url": "https://open.spotify.com/artist/4WolQpakht16d6Cs9Uh0xy"
-        }
-      ],
-      "duration_ms": 133636,
-      "name": "Caliente",
-      "url": "https://open.spotify.com/track/2TrAxb7dg65ZFHoMzrGhcN"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1415,26 +1415,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Vai Ser Melhor",
-        "url": "https://open.spotify.com/album/6LnuFNW9xGi6qq97WngcYf"
+        "name": "puro osso",
+        "url": "https://open.spotify.com/album/5fr6TVmir3T7hUCQWZWUw0"
       },
       "artists": [
         {
-          "name": "Patrick",
-          "url": "https://open.spotify.com/artist/710fgkV14KVymsc3sMILXE"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "GT",
-          "url": "https://open.spotify.com/artist/1XR3lAp7FDsp1bgnREtkOH"
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
         }
       ],
-      "duration_ms": 201428,
-      "name": "Vai Ser Melhor",
-      "url": "https://open.spotify.com/track/6xKj3ymHzFKbg734crnhv5"
+      "duration_ms": 217486,
+      "name": "puro osso",
+      "url": "https://open.spotify.com/track/7v7Nd6owrtzpCuSttYrrfp"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1463,18 +1455,26 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "puro osso",
-        "url": "https://open.spotify.com/album/5fr6TVmir3T7hUCQWZWUw0"
+        "name": "Vai Ser Melhor",
+        "url": "https://open.spotify.com/album/6LnuFNW9xGi6qq97WngcYf"
       },
       "artists": [
         {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+          "name": "Patrick",
+          "url": "https://open.spotify.com/artist/710fgkV14KVymsc3sMILXE"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "GT",
+          "url": "https://open.spotify.com/artist/1XR3lAp7FDsp1bgnREtkOH"
         }
       ],
-      "duration_ms": 217486,
-      "name": "puro osso",
-      "url": "https://open.spotify.com/track/7v7Nd6owrtzpCuSttYrrfp"
+      "duration_ms": 201428,
+      "name": "Vai Ser Melhor",
+      "url": "https://open.spotify.com/track/6xKj3ymHzFKbg734crnhv5"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1495,38 +1495,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Venturana",
-        "url": "https://open.spotify.com/album/5S5jCik9vydVacGnKfrp1S"
-      },
-      "artists": [
-        {
-          "name": "Camaleoa",
-          "url": "https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Venturana",
-      "url": "https://open.spotify.com/track/3ngZu880Lq0euIIfYyh7LZ"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Todo Mundo Que Amei J\u00e1 Me Fez Chorar",
-        "url": "https://open.spotify.com/album/78PwIdZ0l97RtXpcj1WMDw"
-      },
-      "artists": [
-        {
-          "name": "Cleo",
-          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
-        }
-      ],
-      "duration_ms": 178654,
-      "name": "Todo Mundo Que Amei J\u00e1 Me Fez Chorar",
-      "url": "https://open.spotify.com/track/1ba9HdaWfIYmIytRcI90eU"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "CASALZ\u00c3O DA PORRA",
         "url": "https://open.spotify.com/album/2q6EXTOaMRoozRJAE19e76"
       },
@@ -1543,22 +1511,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Promessas",
-        "url": "https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3"
+        "name": "Todo Mundo Que Amei J\u00e1 Me Fez Chorar",
+        "url": "https://open.spotify.com/album/78PwIdZ0l97RtXpcj1WMDw"
       },
       "artists": [
         {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
         }
       ],
-      "duration_ms": 130666,
-      "name": "Promessas",
-      "url": "https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB"
+      "duration_ms": 178654,
+      "name": "Todo Mundo Que Amei J\u00e1 Me Fez Chorar",
+      "url": "https://open.spotify.com/track/1ba9HdaWfIYmIytRcI90eU"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1583,6 +1547,42 @@
       "duration_ms": 182497,
       "name": "terminou comigo na Bahia",
       "url": "https://open.spotify.com/track/5LmnWlRFgfvwZPBYTs2nYZ"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Promessas",
+        "url": "https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Promessas",
+      "url": "https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Venturana",
+        "url": "https://open.spotify.com/album/5S5jCik9vydVacGnKfrp1S"
+      },
+      "artists": [
+        {
+          "name": "Camaleoa",
+          "url": "https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Venturana",
+      "url": "https://open.spotify.com/track/3ngZu880Lq0euIIfYyh7LZ"
     }
   ],
   "unique_name": "Palco POP",

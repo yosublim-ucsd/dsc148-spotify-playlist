@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover:BIG MAMA\(빅마마\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,018 songs - 2 day 18 hr 3 min
+1,020 songs - 2 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Do you want to hear](https://open.spotify.com/track/68QnW4ShMGTk9vvE3Tihng) | [M.O.M](https://open.spotify.com/artist/0JnspQOKIcEUcw8GWSIqtn) | [Do you want to hear](https://open.spotify.com/album/1tFJR4bNSvL6UpCNWEC8K5) | 2:47 | 2022-03-07 | 2022-03-10 |
 | [Doctor](https://open.spotify.com/track/4RbFKG6CxfKaITwfQS2AaK) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Doctor](https://open.spotify.com/album/7ebWo35Ic7FMJpnzcrnYt1) | 3:05 | 2022-08-18 | 2022-12-27 |
 | [Doll](https://open.spotify.com/track/5bIn60Sg8MkELjJzCPlR7I) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Rewind : Blossom Side A](https://open.spotify.com/album/4YZ9E6yT1aAJguVIi8KBN8) | 4:31 | 2021-12-23 | 2022-06-01 |
+| [Don't be mad](https://open.spotify.com/track/4lXl37xDrmVwoz4CuninfI) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Don't be mad](https://open.spotify.com/album/0sIbn4BGuc7oG21Fkl5x46) | 3:04 | 2023-10-15 |  |
 | [Don't Cry](https://open.spotify.com/track/4cGxjripxGYy1VrC9gzmlF) | [HOZIHO](https://open.spotify.com/artist/2gqOqOw4ubWLifktn8SVr7), [Choi Sung Ho](https://open.spotify.com/artist/78EyQiFtLfY1XWnD7UK7W2) | [Don't Cry](https://open.spotify.com/album/6SfLPPnrdzfhUrLpShNSxx) | 3:54 | 2022-07-07 | 2022-08-13 |
 | [Don't Deserve You](https://open.spotify.com/track/2WhULbJSJZcSjkiXEeoxKI) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [Don't Deserve You](https://open.spotify.com/album/1Sd1KMYNMv9Rajx1RljkE9) | 4:06 | 2023-09-11 |  |
 | [Don't Leave Me](https://open.spotify.com/track/5QYwAdtaDmTZIHUeIZasTu) | [PARK JI WON \(fromis\_9\)](https://open.spotify.com/artist/1j9Do4dv7NDwi8GrlTdzzr) | [Poong, the Joseon Psychiatrist2 \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1akpLLSpPGUNvcgNGrb1hZ) | 4:02 | 2023-01-20 | 2023-02-25 |
@@ -802,6 +803,7 @@
 | [That's all](https://open.spotify.com/track/2GA13uuobpA88h5zPXm0E3) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/6UsoiG7ypgjvgTMZsa5kCO) | 4:25 | 2022-03-07 | 2022-07-08 |
 | [That's all](https://open.spotify.com/track/7lpzOE9lzMVNQdX2Qz3pYK) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Dr\. Romantic 2 OST Part.4](https://open.spotify.com/album/0MzR0Ktgr2IvqgXKn8pZIq) | 3:09 | 2022-03-29 | 2022-04-15 |
 | [That's All For Love](https://open.spotify.com/track/6j3BvfzSSUguRSaEQq6DHy) | [Lim So Jeong](https://open.spotify.com/artist/1rKpO5H62bXp1wG1A7BUKx) | [That's All For Love](https://open.spotify.com/album/0QzHFwK9z6VOjYOjtqHPTs) | 4:22 | 2023-02-24 | 2023-06-23 |
+| [That's You](https://open.spotify.com/track/2UysjEVKnL55ywc6TuvcQI) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Destined with You \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/37BzsG0I20mbX2CFipkt3A) | 3:51 | 2023-10-15 |  |
 | [The 8th Spring](https://open.spotify.com/track/4EIKAOhDOZ1Go8JfsDkxws) | [HONG EUI JIN](https://open.spotify.com/artist/2pNw0mbkjLw3sqYDF2ltlW) | [The 8th Spring](https://open.spotify.com/album/5zJ8nbQg3P0ZLIfyKNJ8sK) | 3:50 | 2022-03-09 | 2022-04-12 |
 | [The chair](https://open.spotify.com/track/2MXwcdPjTG3CE4NcQIOQgt) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Object](https://open.spotify.com/album/5ax2uYwKJV6BG3JaHAt2kq) | 3:53 | 2023-02-06 | 2023-03-28 |
 | [The dawn light resembles you](https://open.spotify.com/track/7n6NrNYKpsl0xxgZPKl0ZA) | [Joori](https://open.spotify.com/artist/0A5FokBLN8HWzKhWxB0eZk) | [The dawn light resembles you](https://open.spotify.com/album/4ucUi8KbApK7Ov4HqP6rG7) | 3:12 | 2023-03-08 | 2023-06-23 |

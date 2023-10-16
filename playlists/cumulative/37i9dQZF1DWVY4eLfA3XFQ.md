@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Idris Elba & Sasha GiGi
 
-1,299 songs - 3 day 2 hr 36 min
+1,300 songs - 3 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 | 2022-09-09 | 2023-04-22 |
 | [Don't Wanna Let Go](https://open.spotify.com/track/5Uygp1KAwyj41KSjwPt1Nz) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Eloise Keeble](https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9) | [Don't Wanna Let Go](https://open.spotify.com/album/6JKmZ4IRmRrBXzP7h4VRlQ) | 3:06 | 2021-11-26 | 2022-01-06 |
 | [Don't Wanna Lie](https://open.spotify.com/track/5r5MjmaLklyNOzKXY6Fqm5) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Don't Wanna Lie](https://open.spotify.com/album/236XMgaxHRyqXMDHL8vSHU) | 3:28 | 2022-03-04 | 2022-06-04 |
-| [Dont Sleep](https://open.spotify.com/track/0bmT2MQ4FrBOgWhYr4S8Lj) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Dont Sleep](https://open.spotify.com/album/29C3mRpDY5Lqxh5X5mlnl9) | 2:36 | 2023-08-04 |  |
+| [Dont Sleep](https://open.spotify.com/track/0bmT2MQ4FrBOgWhYr4S8Lj) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Dont Sleep](https://open.spotify.com/album/29C3mRpDY5Lqxh5X5mlnl9) | 2:36 | 2023-08-04 | 2023-10-16 |
 | [Don’t Forget My Love \- John Summit Remix](https://open.spotify.com/track/4HcOBdrcaCmh29ogaEiE5n) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Don’t Forget My Love \(John Summit Remix\)](https://open.spotify.com/album/3RcvNQx32vL4sYrA04bj1S) | 3:30 | 2022-04-01 | 2022-05-14 |
 | [Don’t Forget To Breathe](https://open.spotify.com/track/0cSXY3uBw8wuEjJeQAwOGO) | [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U) | [Don’t Forget To Breathe](https://open.spotify.com/album/1Z3cPY7x3yBjhWlhyhbJX7) | 3:08 | 2022-06-17 | 2022-09-10 |
 | [Don’t Keep Me Waiting](https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Don’t Keep Me Waiting](https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF) | 3:29 | 2022-02-25 | 2022-06-04 |
@@ -1124,6 +1124,7 @@
 | [The Excuse \(LO’99 Remix\)](https://open.spotify.com/track/2JufZYa5YmzFIEvoGmEiYf) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [The Excuse \(LO’99 Remix\)](https://open.spotify.com/album/1J9yauC3bNyXzAwIqqj1Ut) | 3:21 | 2022-09-30 | 2022-10-22 |
 | [The Freaks](https://open.spotify.com/track/4NoJpQvvjVJ2m8S72eIDaF) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [The Freaks](https://open.spotify.com/album/2FvWOZzbKdAAJJ0fbac63a) | 4:15 | 2023-03-10 | 2023-07-15 |
 | [The Function](https://open.spotify.com/track/6LmyUEqf0CKS0cEsL5Hlvo) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Sage Armstrong](https://open.spotify.com/artist/1cfwUSXEE2axXJGQfnfVFH) | [The Function](https://open.spotify.com/album/4oWN5dvjdwaoCJj7JWkbqV) | 2:50 | 2023-05-12 | 2023-08-26 |
+| [The Function](https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [The Function](https://open.spotify.com/album/1dDEeKb8vS0R7AtNA0OAbx) | 3:12 | 2023-10-13 |  |
 | [The Funky Beat](https://open.spotify.com/track/51fTFfFagxRASIcULWFKqG) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [The Funky Beat](https://open.spotify.com/album/5Lf8Ll5FO250z2yfwL0M5U) | 2:20 | 2022-12-02 | 2023-02-25 |
 | [The Future](https://open.spotify.com/track/3MZHllv4rhpBnoOSoD1Mqe) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [The Future](https://open.spotify.com/album/0HycV4qIkxuf5THTCTjA7p) | 7:08 | 2021-11-26 | 2022-02-26 |
 | [The House of House](https://open.spotify.com/track/6cyctoQI5xU2ZI5MLslxPs) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [The House of House EP](https://open.spotify.com/album/7wkd8RasRwQYJ07htKGEIN) | 3:36 | 2023-05-12 | 2023-07-06 |

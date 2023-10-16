@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "Muito romance, groove suave e R&B feitos no Brasil. Foto: Luthuly",
+  "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
   "name": "su\u00edte.",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 142909,
       "name": "Always",
       "url": "https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH"
@@ -104,6 +104,28 @@
       "duration_ms": 151578,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
+    },
+    {
+      "album": {
+        "name": "Brincava de Amar",
+        "url": "https://open.spotify.com/album/3il965mOJh8Jk3KjcxX4fg"
+      },
+      "artists": [
+        {
+          "name": "Carol Olly",
+          "url": "https://open.spotify.com/artist/1eOQwXqT0DJ1XbXMdOp1QR"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "Brincava de Amar",
+      "url": "https://open.spotify.com/track/2l2FbvWn2uathty65JcJCD"
     },
     {
       "album": {
@@ -212,7 +234,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 202068,
       "name": "Correnteza - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3cDlYpaelgDahCMQlyJBgj"
@@ -238,6 +260,24 @@
       "duration_ms": 163240,
       "name": "Dava Praia",
       "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Vem",
+        "url": "https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC"
+      },
+      "artists": [
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188168,
+      "name": "Debochada",
+      "url": "https://open.spotify.com/track/429MZRfRYM5RWR5Lie3beS"
     },
     {
       "album": {
@@ -816,7 +856,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 176410,
       "name": "Quer Saber",
       "url": "https://open.spotify.com/track/71ppt3UJSaN6vKK8QYvncu"
@@ -1064,6 +1104,28 @@
       "duration_ms": 170588,
       "name": "Vestido Vermelho",
       "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
+    },
+    {
+      "album": {
+        "name": "Zero a Cem",
+        "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190652,
+      "name": "Zero a Cem",
+      "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-250 songs - 14 hr 57 min
+251 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Kepesh](https://open.spotify.com/track/0p8gq23UoCaw6mfndx470w) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [The Organ Hearts](https://open.spotify.com/album/4Fb3dmmuXqDzsa1BtaP9JR) | 5:28 | 2021-01-15 | 2021-05-27 |
 | [Kilika](https://open.spotify.com/track/2GvS6SG9VHxRgMbLLPFEVI) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Kilika](https://open.spotify.com/album/665D0qSJx36civibfzbJ3B) | 4:44 | 2020-12-08\* | 2021-03-18 |
 | [Know Where](https://open.spotify.com/track/0iT8tYZ3haeUUXWogdRJh0) | [Holy Other](https://open.spotify.com/artist/7txCfGfh46OwoUBDPj4HKL) | [With U](https://open.spotify.com/album/5eIrB1QIV8Yz2tbGaw2S9D) | 3:28 | 2020-12-08\* | 2021-03-06 |
-| [Lake Green](https://open.spotify.com/track/5CGZFKWSIipVq4DfANWaBl) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Colors](https://open.spotify.com/album/5YRZc34LMwheVAwDJX9u2x) | 3:21 | 2022-12-30 |  |
+| [Lake Green](https://open.spotify.com/track/5CGZFKWSIipVq4DfANWaBl) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Colors](https://open.spotify.com/album/5YRZc34LMwheVAwDJX9u2x) | 3:21 | 2022-12-30 | 2023-10-16 |
 | [Leaving the Tetons](https://open.spotify.com/track/0tehe7Y347aJvGjsDBjeIw) | [Mark Preston](https://open.spotify.com/artist/64mJPfKjDJqEcrc1fRJH9j) | [Nature & Design](https://open.spotify.com/album/6D6xz53TceI61ZebcMtmSo) | 5:34 | 2020-12-08\* | 2021-05-27 |
 | [Levitate](https://open.spotify.com/track/2EXBGX5M8y0bp8IUPagUpy) | [Rizik](https://open.spotify.com/artist/1RPAAHsStLojK33L7zhgzl) | [Levitate](https://open.spotify.com/album/0BtISmmdavrCmqfYAZyeKK) | 4:22 | 2020-12-08\* | 2021-03-06 |
 | [Liberation](https://open.spotify.com/track/2CbHrpzQRhQ1uG0J2dMrCP) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Liberation](https://open.spotify.com/album/5zbwTRBUIfwLsC9SkQUX9t) | 3:16 | 2022-12-30 |  |
@@ -255,6 +255,7 @@
 | [Waves of Serenity \- 174 Hz](https://open.spotify.com/track/6ytsuBO5hxj5lXqeEOEujs) | [Fikret Glep](https://open.spotify.com/artist/7Bsyycg7zsa7WcegU4WMde) | [Waves of Serenity](https://open.spotify.com/album/7H0jANfu8S7xlBh4kuk5pe) | 2:18 | 2022-11-22 |  |
 | [way of form](https://open.spotify.com/track/6GYmiaM2r76K3k0sdp6gFL) | [Astrama](https://open.spotify.com/artist/4afZNKvxr3g0kxXDx58At1) | [way of form](https://open.spotify.com/album/6uXIpxafwnsXtciS4v93Zl) | 3:12 | 2022-12-30 | 2023-04-16 |
 | [We Belong To The Stars](https://open.spotify.com/track/2ud8DOtMIZABZJC0huKtFC) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [We Belong To The Stars](https://open.spotify.com/album/2geyxNpK0n1rdkWJFAmajU) | 3:09 | 2022-12-30 |  |
+| [Weightless Dreams](https://open.spotify.com/track/5UfsYYVyxWRpJ5sBA32Rns) | [Vayalada](https://open.spotify.com/artist/2MMloDSBp4kDC7SflBJrZi) | [Weightless Dreams](https://open.spotify.com/album/1a3IWoGFoLQ1leCfaT0h81) | 2:53 | 2023-10-06 |  |
 | [Westerfall](https://open.spotify.com/track/2pbp5D1W6KHMTHjVCopP1t) | [Auricz](https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN) | [Westerfall](https://open.spotify.com/album/47VRzxnUBkgeF0wVc5wTLy) | 3:19 | 2022-05-19 | 2023-02-14 |
 | [Who Tends a Garden](https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Who Tends a Garden](https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS) | 4:40 | 2023-01-13 |  |
 | [You Want Dark Tunes?](https://open.spotify.com/track/5sIYyLglAXMRVkhi5IxAwP) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Twin Solar Sunrise](https://open.spotify.com/album/2bwyKZAU4AjrsS3YF5gFhE) | 4:57 | 2020-12-08\* | 2021-01-07 |

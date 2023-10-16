@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 129529,
+  "num_followers": 129556,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzc2MDY5NWE1Njc1YWE1MDI3ZjZiZTJiMjg4OTBjNjZlZTU4MDNk",
+  "snapshot_id": "MCw0MzMwMTZjOTJlNTA2ZmNlOTQxMjFhYWQyNGU4YTMwNjhlMzlkNDFl",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -205,22 +205,6 @@
       "url": "https://open.spotify.com/track/3TV0uB4XI6vBoN7MjOhiAC"
     },
     {
-      "added_at": "2023-08-04 15:55:51",
-      "album": {
-        "name": "Talk To Me Nice",
-        "url": "https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 229844,
-      "name": "Talk To Me Nice",
-      "url": "https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5"
-    },
-    {
       "added_at": "2023-06-09 05:15:38",
       "album": {
         "name": "When I Hear Your Name",
@@ -235,6 +219,22 @@
       "duration_ms": 193901,
       "name": "Questions",
       "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
+    },
+    {
+      "added_at": "2023-08-04 15:55:51",
+      "album": {
+        "name": "Talk To Me Nice",
+        "url": "https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 229844,
+      "name": "Talk To Me Nice",
+      "url": "https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5"
     },
     {
       "added_at": "2023-04-07 21:25:17",
@@ -257,20 +257,24 @@
       "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2023-04-21 04:00:15",
       "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+        "name": "DO 4 LOVE (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         }
       ],
-      "duration_ms": 173458,
-      "name": "ON 10",
-      "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
+      "duration_ms": 224281,
+      "name": "DO 4 LOVE - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
     },
     {
       "added_at": "2023-08-25 17:07:43",
@@ -321,26 +325,6 @@
       "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
     },
     {
-      "added_at": "2023-04-21 04:00:15",
-      "album": {
-        "name": "DO 4 LOVE (Black Coffee Remix)",
-        "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        },
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        }
-      ],
-      "duration_ms": 224281,
-      "name": "DO 4 LOVE - Black Coffee Remix",
-      "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
-    },
-    {
       "added_at": "2023-10-06 05:19:16",
       "album": {
         "name": "BB/ANG3L",
@@ -355,6 +339,22 @@
       "duration_ms": 182265,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/7Au4cKPo9CYhtP4fByzYeq"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 173458,
+      "name": "ON 10",
+      "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
     },
     {
       "added_at": "2023-10-06 05:19:16",
@@ -729,6 +729,26 @@
       "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
     },
     {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 183773,
+      "name": "$payforhaiti (feat. Mach-Hommy)",
+      "url": "https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M"
+    },
+    {
       "added_at": "2023-08-04 15:55:51",
       "album": {
         "name": "Room",
@@ -751,26 +771,6 @@
       "duration_ms": 219181,
       "name": "Room (with Adekunle Gold & 2 Chainz)",
       "url": "https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        }
-      ],
-      "duration_ms": 183773,
-      "name": "$payforhaiti (feat. Mach-Hommy)",
-      "url": "https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1169,24 +1169,20 @@
       "url": "https://open.spotify.com/track/7udNt8rbaYcuYKaAtkA8qn"
     },
     {
-      "added_at": "2023-03-31 06:27:27",
+      "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "Lock Up",
-        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
+        "name": "damnshestamil",
+        "url": "https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm"
       },
       "artists": [
         {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
         }
       ],
-      "duration_ms": 223005,
-      "name": "Lock Up",
-      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
+      "duration_ms": 174062,
+      "name": "Good Love 2.0",
+      "url": "https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1225,6 +1221,26 @@
       "url": "https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ"
     },
     {
+      "added_at": "2023-03-31 06:27:27",
+      "album": {
+        "name": "Lock Up",
+        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 223005,
+      "name": "Lock Up",
+      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
+    },
+    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "HYPNOS",
@@ -1239,22 +1255,6 @@
       "duration_ms": 207906,
       "name": "M.I.A.",
       "url": "https://open.spotify.com/track/4uVDdOZMZZunYYKHVvm6WZ"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "damnshestamil",
-        "url": "https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm"
-      },
-      "artists": [
-        {
-          "name": "Priya Ragu",
-          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
-        }
-      ],
-      "duration_ms": 174062,
-      "name": "Good Love 2.0",
-      "url": "https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1325,22 +1325,6 @@
       "url": "https://open.spotify.com/track/7olP7S3e0XDQ08eisCHVgp"
     },
     {
-      "added_at": "2023-08-25 17:07:43",
-      "album": {
-        "name": "UPSIDE DOWN",
-        "url": "https://open.spotify.com/album/435sa84NSMTcIzBeSN178q"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "UPSIDE DOWN",
-      "url": "https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "never worry",
@@ -1359,6 +1343,22 @@
       "duration_ms": 186123,
       "name": "Sumthin Crazy (with Rochelle Jordan)",
       "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
+    },
+    {
+      "added_at": "2023-08-25 17:07:43",
+      "album": {
+        "name": "UPSIDE DOWN",
+        "url": "https://open.spotify.com/album/435sa84NSMTcIzBeSN178q"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "UPSIDE DOWN",
+      "url": "https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1521,6 +1521,38 @@
       "url": "https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy"
     },
     {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "Sis. He Wasn't the One",
+        "url": "https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 121731,
+      "name": "Coconut Oil",
+      "url": "https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc"
+    },
+    {
+      "added_at": "2023-03-31 06:27:27",
+      "album": {
+        "name": "Cruisin'",
+        "url": "https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm"
+      },
+      "artists": [
+        {
+          "name": "AMAKA",
+          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
+        }
+      ],
+      "duration_ms": 207194,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Starseed",
@@ -1541,22 +1573,6 @@
       "url": "https://open.spotify.com/track/329H2EaUO3fnG27NLD6mqn"
     },
     {
-      "added_at": "2023-03-31 06:27:27",
-      "album": {
-        "name": "Cruisin'",
-        "url": "https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm"
-      },
-      "artists": [
-        {
-          "name": "AMAKA",
-          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
-        }
-      ],
-      "duration_ms": 207194,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje"
-    },
-    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Forbidden Feelingz",
@@ -1571,22 +1587,6 @@
       "duration_ms": 129220,
       "name": "Part Of Me",
       "url": "https://open.spotify.com/track/5Y8LjJ9Riiw8i5d6D06fYS"
-    },
-    {
-      "added_at": "2022-05-02 22:05:00",
-      "album": {
-        "name": "Sis. He Wasn't the One",
-        "url": "https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 121731,
-      "name": "Coconut Oil",
-      "url": "https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1765,6 +1765,22 @@
       "url": "https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu"
     },
     {
+      "added_at": "2023-03-31 06:27:27",
+      "album": {
+        "name": "Waiting For",
+        "url": "https://open.spotify.com/album/5FkiW9SwBjgWk2jtvhdr2U"
+      },
+      "artists": [
+        {
+          "name": "Matt Martians",
+          "url": "https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9"
+        }
+      ],
+      "duration_ms": 132317,
+      "name": "Waiting For",
+      "url": "https://open.spotify.com/track/0MxvzPB5tIfbbQVGrDl0NZ"
+    },
+    {
       "added_at": "2023-08-04 15:55:51",
       "album": {
         "name": "MY FAVORITE DRUG",
@@ -1795,22 +1811,6 @@
       "duration_ms": 225937,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK"
-    },
-    {
-      "added_at": "2023-03-31 06:27:27",
-      "album": {
-        "name": "Waiting For",
-        "url": "https://open.spotify.com/album/5FkiW9SwBjgWk2jtvhdr2U"
-      },
-      "artists": [
-        {
-          "name": "Matt Martians",
-          "url": "https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9"
-        }
-      ],
-      "duration_ms": 132317,
-      "name": "Waiting For",
-      "url": "https://open.spotify.com/track/0MxvzPB5tIfbbQVGrDl0NZ"
     },
     {
       "added_at": "2023-10-06 05:19:16",
@@ -1845,22 +1845,6 @@
       "url": "https://open.spotify.com/track/02uslYmKRGArhSEe3Z72qm"
     },
     {
-      "added_at": "2022-09-23 04:08:19",
-      "album": {
-        "name": "Self-Contained",
-        "url": "https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT"
-      },
-      "artists": [
-        {
-          "name": "DWY",
-          "url": "https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX"
-        }
-      ],
-      "duration_ms": 217485,
-      "name": "You",
-      "url": "https://open.spotify.com/track/1RXm1hOSW6ITZOejiqiNEK"
-    },
-    {
       "added_at": "2022-08-19 04:18:44",
       "album": {
         "name": "Take You Higher (Serebii & Arjuna Oakes Remix)",
@@ -1883,6 +1867,22 @@
       "duration_ms": 260545,
       "name": "Take You Higher - Serebii & Arjuna Oakes Remix",
       "url": "https://open.spotify.com/track/4fwlAd50vwI7q8KvzVPy6E"
+    },
+    {
+      "added_at": "2022-09-23 04:08:19",
+      "album": {
+        "name": "Self-Contained",
+        "url": "https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT"
+      },
+      "artists": [
+        {
+          "name": "DWY",
+          "url": "https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX"
+        }
+      ],
+      "duration_ms": 217485,
+      "name": "You",
+      "url": "https://open.spotify.com/track/1RXm1hOSW6ITZOejiqiNEK"
     }
   ],
   "unique_name": "Choice Edit",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,454 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,490 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 39 | [Almost Too Early For Christmas \(with Dolly Parton\)](https://open.spotify.com/track/68FoOz11KDYaK2MITDwHkG) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Almost Too Early For Christmas](https://open.spotify.com/album/6L73BGZiFb0G5bhAQGy9Mf) | 3:03 |
 | 40 | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL) | 3:09 |
 
-Snapshot ID: `MCw5YjVmM2E4ODQ3YWI3Y2FlNWM5Zjk1MjI0ODQ2YTdiMmEzOTM5YThi`
+Snapshot ID: `MCw5Yjc2NTU4NmMxYzhjYjVkZTQ0OWRlMzc2OTRlMmI4NTY4ZWNjMmNi`

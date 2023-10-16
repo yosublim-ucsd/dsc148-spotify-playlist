@@ -3601,6 +3601,24 @@
     },
     {
       "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/7fxSDn1vvLJc7dd7ZMgtVM"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        }
+      ],
+      "date_added": "2023-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206657,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4RtUyJA9AXqBHG0QeqJfkl"
+    },
+    {
+      "album": {
         "name": "Ceinture noire (Transcendance)",
         "url": "https://open.spotify.com/album/4fGQ0Wluw5Bt8oN2UPqmFv"
       },
@@ -6574,7 +6592,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-16",
       "duration_ms": 198120,
       "name": "Ravin'",
       "url": "https://open.spotify.com/track/0AT08pe7CNV34sDKmTyh5b"

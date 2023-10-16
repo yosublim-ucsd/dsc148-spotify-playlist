@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-63 songs - 7 hr 24 min
+64 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Astral](https://open.spotify.com/track/4cqw90LqN30dRXG9R7ZvUD) | [Far Distance](https://open.spotify.com/artist/2YWhjb3uXjX0wWO4WwczYz) | [Change the World](https://open.spotify.com/album/0GfOb5po7WmOd13QNcpZ3S) | 6:46 | 2023-08-10 | 2023-10-15 |
 | [Ayala](https://open.spotify.com/track/3OawekkjFR1Z3WFzJoAqI3) | [Mobitex](https://open.spotify.com/artist/31RFaRcMJF7Uv4BoeZBPEP) | [Deep Resonance \(Compiled by Kalifer\)](https://open.spotify.com/album/6vOSG9k9cIK3ldl5QCjwBB) | 10:47 | 2023-08-10 | 2023-09-07 |
 | [B2](https://open.spotify.com/track/5Qu22Kw7QfF6Q46mcEI2uI) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Rima](https://open.spotify.com/album/2iNpATlgsWqrd1BF7dTcAj) | 6:41 | 2023-08-10 |  |
-| [Bam Bam Bam](https://open.spotify.com/track/0CocMPzPz9t5bEQZI6sTH8) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Bam Bam Bam](https://open.spotify.com/album/4jHm21WJUVm9ti6jVCc8dc) | 5:25 | 2023-08-10 |  |
+| [Bam Bam Bam](https://open.spotify.com/track/0CocMPzPz9t5bEQZI6sTH8) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Bam Bam Bam](https://open.spotify.com/album/4jHm21WJUVm9ti6jVCc8dc) | 5:25 | 2023-08-10 | 2023-10-16 |
+| [Bam Bam Bam](https://open.spotify.com/track/6eqETh5hUY97kVWmX9LQuU) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Bam Bam Bam](https://open.spotify.com/album/309YqMFysiuxHcOJppcCme) | 5:25 | 2023-10-13 |  |
 | [Battles](https://open.spotify.com/track/2utNme0G9OtUVqq7wYUOf3) | [Emika](https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S) | [DREI](https://open.spotify.com/album/7jNBAhp5DxAPFhkkLkuxeG) | 3:33 | 2023-08-10 |  |
 | [Biosphère](https://open.spotify.com/track/4yxlVbgJ5OdE9ipFOSMNGP) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Biosphère](https://open.spotify.com/album/2Cu8QDxQTHq57dOO2GfkFO) | 3:44 | 2023-08-10 |  |
 | [Caladan \- Edit](https://open.spotify.com/track/3Rsv47Db2XpO3AvGL0yQmm) | [SQU4RE](https://open.spotify.com/artist/5eGYWCwLxA2ZZzWLcOhavb), [Entel](https://open.spotify.com/artist/7GGwx6zEvL8TPiU4lP7bwa) | [Caladan EP \(Edits\)](https://open.spotify.com/album/6uKMK7ogAWsf7Kjj7lLNtx) | 4:08 | 2023-08-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 
 > we hear you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,166,179 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,166,519 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 44 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 |
 | 45 | [Close to Me](https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Forever](https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up) | 3:31 |
 | 46 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 |
-| 47 | [what does he have that i don't?](https://open.spotify.com/track/15MDjoryOggmkMTdh13IGx) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [crush \(demos\)](https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP) | 1:31 |
-| 48 | [I Need U](https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Worn Out Heart](https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g) | 2:22 |
+| 47 | [I Need U](https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Worn Out Heart](https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g) | 2:22 |
+| 48 | [what does he have that i don't?](https://open.spotify.com/track/15MDjoryOggmkMTdh13IGx) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [crush \(demos\)](https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP) | 1:31 |
 | 49 | [Grey Lines](https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Grey Lines](https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj) | 2:48 |
 | 50 | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 |
 | 51 | [curse,](https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [curse,](https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO) | 3:58 |
 | 52 | [Idea of Her](https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Man’s Best Friend](https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt) | 2:48 |
-| 53 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 |
-| 54 | [Pictures of Us](https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 4:39 |
+| 53 | [Pictures of Us](https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 4:39 |
+| 54 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 |
 | 55 | [Sorry for Me](https://open.spotify.com/track/44olvKgVfAJMgRtxjup3xN) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:17 |
 | 56 | [I Know You so Well](https://open.spotify.com/track/17eeKDTWiREsr23gIYahtE) | [Sarah Meow](https://open.spotify.com/artist/3O7oOXK7KPniAPEUorctsi), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [Safe.](https://open.spotify.com/album/59kgTkOxM40wktDHGhDEuH) | 1:59 |
 | 57 | [Sick of Losing Soulmates](https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Sick of Losing Soulmates](https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2) | 4:27 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 72 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
 | 73 | [Black Fins](https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Black Fins](https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL) | 4:22 |
 | 74 | [If I Really Love You](https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [If I Really Love You](https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u) | 3:14 |
-| 75 | [Don't Leave, Don't Go](https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Don't Leave, Don't Go / Bleed](https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT) | 3:04 |
-| 76 | [Tired](https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Tired](https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c) | 2:58 |
+| 75 | [Tired](https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Tired](https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c) | 2:58 |
+| 76 | [Don't Leave, Don't Go](https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Don't Leave, Don't Go / Bleed](https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT) | 3:04 |
 | 77 | [Falling Down](https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Falling Down](https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P) | 3:35 |
 | 78 | [Second Place](https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz) | [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG), [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [Second Place](https://open.spotify.com/album/3kp3ueUC5QZIHYmjnxE9yK) | 2:08 |
 | 79 | [white lies](https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [songs written for piano](https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O) | 2:27 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 87 | [VERY ALONE](https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:11 |
 | 88 | [disappear](https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf) | [eli.](https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp) | [the way we used to love.](https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo) | 3:45 |
 | 89 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 |
-| 90 | [infinity](https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [infinity](https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW) | 2:54 |
-| 91 | [Baby](https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Coming Clean](https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv) | 1:51 |
+| 90 | [Baby](https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Coming Clean](https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv) | 1:51 |
+| 91 | [infinity](https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [infinity](https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW) | 2:54 |
 | 92 | [Slow Down](https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:22 |
 | 93 | [If I Showed You](https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz) | [Henry Verus](https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4) | [If I Showed You](https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku) | 3:15 |
 | 94 | [freckles,](https://open.spotify.com/track/0uroC8QaqmOF1qRrJvMFM6) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [freckles,](https://open.spotify.com/album/5TKz75cyEBwz3CDaBbqwlJ) | 3:50 |
 | 95 | [Meant to Be](https://open.spotify.com/track/40YMzcyGkpqFiSUNktyHCP) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Meant to Be](https://open.spotify.com/album/2htrQFSW4pVKkBtrTVbBbx) | 1:50 |
-| 96 | [2005 barbie doll](https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i care so much that i dont care at all](https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC) | 3:09 |
-| 97 | [Wavvy](https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0) | 3:07 |
+| 96 | [Wavvy](https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0) | 3:07 |
+| 97 | [2005 barbie doll](https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i care so much that i dont care at all](https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC) | 3:09 |
 | 98 | [Cruel](https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Cruel](https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F) | 3:06 |
 | 99 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
 | 100 | [afterthoughts](https://open.spotify.com/track/1ERCrZMVMSpqDW4zmr4sRc) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [CLOUDS \(Music From The Disney+ Original Movie\)](https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf) | 2:55 |
 
-Snapshot ID: `MCxiZTcyZDIxMjNhOGJiOTYxODU0NTAyNDkwM2RlMDNjNGMzMTY4N2Ix`
+Snapshot ID: `MCw0MDc4Y2NlZjlhNDE2ODU2Yzc4ODk5Y2JmNTE3N2Y5ZjBiZDkwNjUz`

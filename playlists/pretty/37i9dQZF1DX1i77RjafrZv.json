@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 315024,
+  "num_followers": 315090,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2ExYmJmNTRjNzM1Yjk4ZGY4YWI2NWNhNGVkMDZiOGIxOTA5MzU2",
+  "snapshot_id": "MCxkNTZhZGRlY2YwMWQwZTRiNjY4NzRkZDk1MjVmYjJhZjFmNmRmMDI5",
   "tracks": [
     {
       "added_at": "2023-10-11 08:48:19",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "40 succ\u00e8s en or",
-        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
-      },
-      "artists": [
-        {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "Il venait d'avoir 18 ans",
-      "url": "https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Message personnel (Remasteris\u00e9 2013)",
         "url": "https://open.spotify.com/album/5ZwlOcxszBn5GACtzs6sE6"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 256506,
       "name": "Message personnel - Remasteris\u00e9 en 2013",
       "url": "https://open.spotify.com/track/6lanWfRq2R0gxKRPI3CDRb"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "40 succ\u00e8s en or",
+        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Il venait d'avoir 18 ans",
+      "url": "https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Qu'en restera-t-il ?",
-        "url": "https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55"
-      },
-      "artists": [
-        {
-          "name": "Tim Dup",
-          "url": "https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Une autre histoire d'amour",
-      "url": "https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Notre Dame de Paris - Studio",
         "url": "https://open.spotify.com/album/07jQJEWYAPlISmakXFSmzs"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 277786,
       "name": "Belle (with Patrick Fiori & Garou)",
       "url": "https://open.spotify.com/track/0a8sR4JpMM4mcFNItKOjRg"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Qu'en restera-t-il ?",
+        "url": "https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55"
+      },
+      "artists": [
+        {
+          "name": "Tim Dup",
+          "url": "https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Une autre histoire d'amour",
+      "url": "https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Chante Prevert",
-        "url": "https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Les feuilles mortes",
-      "url": "https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Je Dis Aime",
         "url": "https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 236600,
       "name": "Je dis aime",
       "url": "https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Chante Prevert",
+        "url": "https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Les feuilles mortes",
+      "url": "https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk"
     },
     {
       "added_at": "2023-10-11 08:48:19",

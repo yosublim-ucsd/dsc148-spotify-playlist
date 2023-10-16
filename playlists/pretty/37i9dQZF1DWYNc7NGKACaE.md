@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,365 likes - 65 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,446 likes - 65 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 38 | [SUV \- Remix](https://open.spotify.com/track/3NC8cCoF495lDMjXDyNvhd) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [DJ Gui](https://open.spotify.com/artist/3ojbgoniv6UU4eR2HM22wK) | [Levante](https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS) | 1:55 |
 | 39 | [Conto do Pescador \(Speed Version\)](https://open.spotify.com/track/3uOvGgm0Jc0uX9Fhuxvqp7) | [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR), [Jorgin Dejhaay](https://open.spotify.com/artist/5NV7nZdAgm2k4JrF1zdXOV) | [Conto do Pescador \(Speed Version\)](https://open.spotify.com/album/3LICvuGYphRaseJNrNAO0N) | 2:54 |
 | 40 | [Portugal \(Speed\)](https://open.spotify.com/track/06tHtGtKQuYRKkrfa1yQEi) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Ananda \(Speed\)](https://open.spotify.com/album/1CIW6txeFisFO56w7sqX9e) | 2:43 |
-| 41 | [Luxo & Crime Speed](https://open.spotify.com/track/5ePLQDDDMDk2iJgJuciFq6) | [ogtreasure](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [Yauke](https://open.spotify.com/artist/175mTYHITiXXjSZAICQrPr) | [Luxo & Crime Speed](https://open.spotify.com/album/5gE4qRAOr2KTTqKI3OBOGc) | 2:20 |
-| 42 | [Virgulado \- Speed](https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns) | [Nino Leone](https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx), [Goodboysut](https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW) | [Virgulado](https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk) | 2:07 |
+| 41 | [Virgulado \- Speed](https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns) | [Nino Leone](https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx), [Goodboysut](https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW) | [Virgulado](https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk) | 2:07 |
+| 42 | [Luxo & Crime Speed](https://open.spotify.com/track/5ePLQDDDMDk2iJgJuciFq6) | [ogtreasure](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [Yauke](https://open.spotify.com/artist/175mTYHITiXXjSZAICQrPr) | [Luxo & Crime Speed](https://open.spotify.com/album/5gE4qRAOr2KTTqKI3OBOGc) | 2:20 |
 | 43 | [Ah Vai Ter Que Descer \- Remix](https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf) | [LC DE VV](https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p) | [Ah Vai Ter Que Descer \- Remix](https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv) | 1:42 |
 | 44 | [TRABALHANDO MUITO, Quem é Você Seu Comédia](https://open.spotify.com/track/7mSweyinAvjEFBy6sSTjkg) | [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb), [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n), [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [TRABALHANDO MUITO, Quem é Você Seu Comédia](https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA) | 2:48 |
 | 45 | [Joga na Cara \(Versão Speed\)](https://open.spotify.com/track/1pVFSyBX7zVzZtcI5a9y5z) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [MC Gabluca](https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8) | [Joga na Cara \(Versão Speed\)](https://open.spotify.com/album/2Lh5XIcVNQdd8Dq2lglDGo) | 1:37 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 64 | [Como Era Antes..\. \(Speed Up\)](https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ) | [rs9](https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9) | [Como Era Antes](https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98) | 1:04 |
 | 65 | [Tipo Naldo \- Speed Up](https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh) | [tiaresz](https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Tipo Naldo](https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ) | 2:18 |
 
-Snapshot ID: `MCw5ZjgzNjEzNDRjYzM0YzlhMTljYjI0ZDE0MzRjMjBkZGU3OWFjMTg3`
+Snapshot ID: `MCw3MGFlNWJiMDNhOGRjNmJiNmNmZjVkYWVkZmU1N2E3ZDNlN2QyNDI1`

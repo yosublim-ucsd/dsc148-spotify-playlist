@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 177438,
+  "num_followers": 177644,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTFjNjFhOWRhNjMyMTQ4NzdlMDIxYzdhNWZiZDdkNjBmZWU5ZmIz",
+  "snapshot_id": "MCw5MTg1OTg1MjMxMDc0YjUzZTIxNTYzNzhkZTI3N2VhZGE0ODY3MGE4",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -889,24 +889,28 @@
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
-      "added_at": "2022-11-17 23:06:29",
+      "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Pueblo",
-        "url": "https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ"
+        "name": "Caf\u00e9 Com Leite (Boog\u00e1t Remix)",
+        "url": "https://open.spotify.com/album/5PhxzPqJHvdJXYMQCRg9Pe"
       },
       "artists": [
         {
-          "name": "Hugo Santini",
-          "url": "https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos"
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
         },
         {
-          "name": "DAO",
-          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
+        },
+        {
+          "name": "Boog\u00e1t",
+          "url": "https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R"
         }
       ],
-      "duration_ms": 103220,
-      "name": "Pueblo",
-      "url": "https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV"
+      "duration_ms": 254033,
+      "name": "Caf\u00e9 Com Leite - Boog\u00e1t Remix",
+      "url": "https://open.spotify.com/track/5MuqsRxbN6bEgl7zYxKMw3"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -933,28 +937,24 @@
       "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2022-11-17 23:06:29",
       "album": {
-        "name": "Caf\u00e9 Com Leite (Boog\u00e1t Remix)",
-        "url": "https://open.spotify.com/album/5PhxzPqJHvdJXYMQCRg9Pe"
+        "name": "Pueblo",
+        "url": "https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ"
       },
       "artists": [
         {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+          "name": "Hugo Santini",
+          "url": "https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos"
         },
         {
-          "name": "Flavia Coelho",
-          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
-        },
-        {
-          "name": "Boog\u00e1t",
-          "url": "https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R"
+          "name": "DAO",
+          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
         }
       ],
-      "duration_ms": 254033,
-      "name": "Caf\u00e9 Com Leite - Boog\u00e1t Remix",
-      "url": "https://open.spotify.com/track/5MuqsRxbN6bEgl7zYxKMw3"
+      "duration_ms": 103220,
+      "name": "Pueblo",
+      "url": "https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Na Procura",
-        "url": "https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA"
-      },
-      "artists": [
-        {
-          "name": "Yemanjo",
-          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
-        }
-      ],
-      "duration_ms": 390505,
-      "name": "Na Procura",
-      "url": "https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Daora: Underground Sounds of Urban Brasil- Hip-Hop, Beats, Afro & Dub",
         "url": "https://open.spotify.com/album/56rh3ctrUlzggBkhccz2s2"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 457053,
       "name": "Malunguinho",
       "url": "https://open.spotify.com/track/6s15msjreg2553uO47iWz2"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Na Procura",
+        "url": "https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA"
+      },
+      "artists": [
+        {
+          "name": "Yemanjo",
+          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
+        }
+      ],
+      "duration_ms": 390505,
+      "name": "Na Procura",
+      "url": "https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1281,20 +1281,24 @@
       "url": "https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2023-03-31 18:14:20",
       "album": {
-        "name": "Heavenly Sweetness Sampler #3",
-        "url": "https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX"
+        "name": "Dubby Sunday",
+        "url": "https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt"
       },
       "artists": [
         {
-          "name": "Coopers",
-          "url": "https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph"
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
         }
       ],
-      "duration_ms": 184750,
-      "name": "Acapulco, dos de la tard",
-      "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
+      "duration_ms": 348662,
+      "name": "Dubby Sunday",
+      "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
     }
   ],
   "unique_name": "Tulum Vibes",

@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 781670,
+  "num_followers": 781733,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDk5NTE1ZTQ3MTgzMTM3MWJlNTYwY2M4YTVjOGQ0ZDU1NGRjYjQ3",
+  "snapshot_id": "MCw1MzQ2OGM5ZjI0ZGEyNjMzYzI1ZGI5OTRjMGIwN2QyNGRhNzhiZWZi",
   "tracks": [
     {
       "added_at": "2023-10-09 16:15:01",
@@ -279,18 +279,18 @@
     {
       "added_at": "2023-10-09 16:15:01",
       "album": {
-        "name": "Esmeraldas (\u00c1lbum Comentado)",
-        "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
       },
       "artists": [
         {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
         }
       ],
-      "duration_ms": 218040,
-      "name": "A noite",
-      "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
+      "duration_ms": 263106,
+      "name": "Andei S\u00f3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/7xMb0izMxYXFT0T7w0s9ir"
     },
     {
       "added_at": "2023-10-09 16:15:01",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-10-09 16:15:01",
       "album": {
-        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
+        "name": "Esmeraldas (\u00c1lbum Comentado)",
+        "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
       },
       "artists": [
         {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
         }
       ],
-      "duration_ms": 263106,
-      "name": "Andei S\u00f3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/7xMb0izMxYXFT0T7w0s9ir"
+      "duration_ms": 218040,
+      "name": "A noite",
+      "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
     },
     {
       "added_at": "2023-10-09 16:15:01",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-10-09 16:15:01",
       "album": {
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 160238,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
+    },
+    {
+      "added_at": "2023-10-09 16:15:01",
+      "album": {
         "name": "Mais Bonito N\u00e3o H\u00e1",
         "url": "https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 237479,
       "name": "Mais Bonito N\u00e3o H\u00e1",
       "url": "https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX"
-    },
-    {
-      "added_at": "2023-10-09 16:15:01",
-      "album": {
-        "name": "Samba",
-        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 160238,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
     },
     {
       "added_at": "2023-10-09 16:15:01",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-10-09 16:15:01",
       "album": {
-        "name": "Palavras No Corpo",
-        "url": "https://open.spotify.com/album/6J9hUU0JUAaRttmy2c0InM"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 242054,
-      "name": "Palavras No Corpo",
-      "url": "https://open.spotify.com/track/4xeP4rHORzLbJlaJVHWybQ"
-    },
-    {
-      "added_at": "2023-10-09 16:15:01",
-      "album": {
         "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
         "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 123386,
       "name": "Chega de Saudade",
       "url": "https://open.spotify.com/track/7jcLeqojncPZAFh2VUO7mD"
+    },
+    {
+      "added_at": "2023-10-09 16:15:01",
+      "album": {
+        "name": "Palavras No Corpo",
+        "url": "https://open.spotify.com/album/6J9hUU0JUAaRttmy2c0InM"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 242054,
+      "name": "Palavras No Corpo",
+      "url": "https://open.spotify.com/track/4xeP4rHORzLbJlaJVHWybQ"
     },
     {
       "added_at": "2023-10-09 16:15:01",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-10-09 16:15:01",
       "album": {
-        "name": "Saiba",
-        "url": "https://open.spotify.com/album/68Yj9neF1g9YG1Joo1noqM"
-      },
-      "artists": [
-        {
-          "name": "Arnaldo Antunes",
-          "url": "https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5"
-        }
-      ],
-      "duration_ms": 185213,
-      "name": "Gr\u00e3o de Amor",
-      "url": "https://open.spotify.com/track/6WuPQbkxEi5xyBtlvvFjQm"
-    },
-    {
-      "added_at": "2023-10-09 16:15:01",
-      "album": {
         "name": "12 Horas (Ao Vivo) (feat. Mar\u00edlia Mendon\u00e7a) [Ac\u00fastico]",
         "url": "https://open.spotify.com/album/2XJWP3wpipPyna8pFX68ZJ"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 202869,
       "name": "12 Horas (Ao Vivo) (feat. Mar\u00edlia Mendon\u00e7a) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1aYI1bfSzo2M1LjFwZrXLY"
+    },
+    {
+      "added_at": "2023-10-09 16:15:01",
+      "album": {
+        "name": "Saiba",
+        "url": "https://open.spotify.com/album/68Yj9neF1g9YG1Joo1noqM"
+      },
+      "artists": [
+        {
+          "name": "Arnaldo Antunes",
+          "url": "https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5"
+        }
+      ],
+      "duration_ms": 185213,
+      "name": "Gr\u00e3o de Amor",
+      "url": "https://open.spotify.com/track/6WuPQbkxEi5xyBtlvvFjQm"
     },
     {
       "added_at": "2023-10-09 16:15:01",

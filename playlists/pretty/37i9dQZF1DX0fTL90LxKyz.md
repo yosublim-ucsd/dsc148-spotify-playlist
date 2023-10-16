@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,971 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,988 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 49 | [Call Me A Spartan](https://open.spotify.com/track/3tvtBZEkBPhrusKwj0Bhft) | [Harlem Spartans](https://open.spotify.com/artist/2tdPAMw1puUwZNvRo3Rq4g) | [Call Me A Spartan](https://open.spotify.com/album/0L3E3Q7E8vGe64qn30FuUN) | 3:40 |
 | 50 | [Bella latina](https://open.spotify.com/track/1Win7IcNsGoZZBNtP85Lu4) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Bella latina](https://open.spotify.com/album/52rEOwEWDXZOkJC4Rfp31p) | 3:01 |
 
-Snapshot ID: `MCw5NzRjMTk0MDNmMzdiYWI3Y2M2YThhMDVmN2UxODE0MjJhZWVlNDU4`
+Snapshot ID: `MCxkYzNjZWUwNDVkMDBiZmJiMjcxN2Y3OWQxNWRkOWY2ODY0ODE3OTkw`
