@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,703 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,729 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Something](https://open.spotify.com/track/5CsUqbdvslZWm1sk9gpu13) | [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h) | [Something](https://open.spotify.com/album/6klYqHjo5gUSBYu8f3GBvO) | 2:57 |
 | 100 | [Black Eye](https://open.spotify.com/track/28GReZcMRd0N2Ns1bJ3HzR) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Black Eye](https://open.spotify.com/album/5va7T2m57yj457ywVCRo93) | 4:32 |
 
-Snapshot ID: `MCwxOGVlMGQ4ZjEyNGI4OWNiODM3MDk4Zjg1ZTBiYTFmODVmNGZlNjVi`
+Snapshot ID: `MCxiMTgwY2NmMjBjZjJjMTM0MGM5ZTQ2N2Q0ZTkyNGJhOGZkOGNjNTc5`

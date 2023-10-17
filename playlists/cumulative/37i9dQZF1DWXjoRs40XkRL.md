@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-202 songs - 18 hr 7 min
+203 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Ooch Apaar](https://open.spotify.com/track/0IAo2pRTsnIKeFqSBovtE6) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/6eiFWNVJ22uHrqHPqwHwkW) | 7:00 | 2022-07-12 | 2022-08-23 |
 | [Ooch Apaar](https://open.spotify.com/track/2WoPxsPKf6nnPSY1Gk5i6O) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/3pWzIncx5VZObkjD96UhMH) | 7:00 | 2022-05-17 | 2022-07-29 |
 | [Palkan](https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Palkan](https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd) | 6:01 | 2023-08-23 |  |
+| [Parcchain \(Counting Days\)](https://open.spotify.com/track/06VwLKV6JqJ0PxXdhKJb6g) | [Tarish Prakash](https://open.spotify.com/artist/7x2ombGZwIYN2Ye7sm3Lzi), [Tanu Srivastava](https://open.spotify.com/artist/59pI7RRCMOsPFhthUuv0k8), [Vastvik Roy](https://open.spotify.com/artist/2EZIUlymZWjLB8As3QBoET) | [Parcchain \(Counting Days\)](https://open.spotify.com/album/2grJHFAs9qGkg3ZDTOg9RD) | 2:46 | 2023-10-16 |  |
 | [Payaliya](https://open.spotify.com/track/2qTil4mK99qmmVhH7bIFW1) | [Vijay Ganesan](https://open.spotify.com/artist/5j0FEHM0QFwUTpLhFxFLbI), [Ramya MB](https://open.spotify.com/artist/6TxossJrr0qFTIhiPtaMcw) | [Payaliya](https://open.spotify.com/album/1zwPjsEUnYZTPzz7C5OOSs) | 4:10 | 2023-09-04 |  |
 | [Piya Ki Najariya](https://open.spotify.com/track/7ru5x9KkEvj2OJ6EQUzKbl) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Piya Ki Najariya](https://open.spotify.com/album/2JXX1LP63cd0b8Nkkkngz0) | 3:14 | 2023-06-21 |  |
 | [Piya Sawre](https://open.spotify.com/track/6NDzy3yUSghgEPm2fbPbkY) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Shilpa Aggarwal](https://open.spotify.com/artist/68Ei7hl4pXB8M4PxV7XYu9) | [Piya Sawre](https://open.spotify.com/album/1ZinsKlEsh9tvXfYm5Gqpz) | 5:03 | 2023-07-20 |  |
@@ -200,7 +201,7 @@
 | [The Search](https://open.spotify.com/track/6voH23DtEAO7RPtSm3JRTm) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Is That So?](https://open.spotify.com/album/3ylCRdrUcCGJo47CkPtCDm) | 10:49 | 2022-05-17 | 2023-08-31 |
 | [The Unposted Letter](https://open.spotify.com/track/1xuLfcXNcA3J2qLZGFQ3kB) | [Varun Nimbolkar](https://open.spotify.com/artist/3dmI9UkzIOZZeHcdLJfXZs), [Saee Tembhekar](https://open.spotify.com/artist/3TJyCCTVwoTQo1FQ5xxuKm) | [The Unposted Letter](https://open.spotify.com/album/48hMn9wMVg6fRDYXCH06hY) | 4:14 | 2022-05-17 | 2023-02-21 |
 | [Those Words \(feat\. Shilpa Rao & Ayanna Witter\-Johnson\)](https://open.spotify.com/track/3qfCV6QrjAW9jML7u7pCSZ) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Ayanna Witter\-Johnson](https://open.spotify.com/artist/2Zok9qpyyGvyE3jFvy54Y5) | [Those Words \(feat\. Shilpa Rao & Ayanna Witter\-Johnson\)](https://open.spotify.com/album/25zW4gE2PWO0P7rXTemGop) | 4:11 | 2022-05-17 | 2023-05-24 |
-| [Tilak](https://open.spotify.com/track/3snujKMl0rkHSdwOLxWrFv) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Tilak](https://open.spotify.com/album/2FKe9pZM0QQ2ynzPOHIwoj) | 5:59 | 2022-05-17 |  |
+| [Tilak](https://open.spotify.com/track/3snujKMl0rkHSdwOLxWrFv) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Tilak](https://open.spotify.com/album/2FKe9pZM0QQ2ynzPOHIwoj) | 5:59 | 2022-05-17 | 2023-10-17 |
 | [Tore Bina Mohe](https://open.spotify.com/track/4NgquIKp1yVgdUW7UsNPJw) | [In My Frame](https://open.spotify.com/artist/566JyppaFXpIzAnqy0hRpv), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh) | [Tore Bina Mohe](https://open.spotify.com/album/4mMdKgfx52JIoTQpWP5ZHt) | 3:36 | 2022-05-17 | 2023-05-24 |
 | [Traveller \- Leafcutter John Remix](https://open.spotify.com/track/28I5uwR9g7Hg4Hq4Uwuuo2) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [OK \(Expanded Edition\)](https://open.spotify.com/album/4lfEhaAgggD8a24bw5vOCq) | 5:50 | 2022-05-17 | 2022-07-29 |
 | [Traveller \- Leafcutter John Remix](https://open.spotify.com/track/68pnUjdZYEgYuHArZRxETk) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [OK \(Expanded Edition\)](https://open.spotify.com/album/78TxUdER5QfLxTBpXu1UZm) | 5:50 | 2022-07-12 | 2023-03-03 |

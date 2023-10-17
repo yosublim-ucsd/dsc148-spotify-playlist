@@ -4,7 +4,7 @@
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Anya Nami\. Artwork by Isu Kim.
 
-5,237 songs - 11 day 21 hr 30 min
+5,238 songs - 11 day 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Aral](https://open.spotify.com/track/1KSvw7Nbb93VfeTYv3PPEo) | [SK.EIN](https://open.spotify.com/artist/7lO3132d2IEaNxgeMabPXy) | [Aral](https://open.spotify.com/album/3JaoGku2I6BpJpsE70N0qN) | 3:36 | 2022-08-10 | 2022-08-25 |
 | [Archeological Longing](https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [The Distance Between Heart And Mouth](https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu) | 3:53 | 2022-08-24 | 2022-09-01 |
 | [Archivos Corruptos](https://open.spotify.com/track/5a2Yh9WhfFPq7ejq4WEMDl) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Sueuga](https://open.spotify.com/artist/2m5Jdjj6b1N9EhtqzHaVdw), [Tazar Yoot](https://open.spotify.com/artist/6tP2b3dQi9KlBkwEUyJtzY) | [Residual Self Image](https://open.spotify.com/album/6JBqu9sil9ozdsaCUmHGUr) | 3:35 | 2022-09-14 | 2022-10-13 |
+| [ARCO // ES TAN DIVINO](https://open.spotify.com/track/1KgKKPfMmwbBLmO9NxJ7cz) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [ARCO // ES TAN DIVINO](https://open.spotify.com/album/0zaUl1Y0qwTOSb77bIm8s4) | 4:06 | 2023-10-16 |  |
 | [Are We OK?](https://open.spotify.com/track/7EvR8W21LfjtKM4GTZEqbd) | [Vicky Farewell](https://open.spotify.com/artist/6LpKqwp5tMWhUS3Cosbwb4) | [Are We OK?](https://open.spotify.com/album/5ACwMaN5xjOaUfSWY0deG2) | 3:34 | 2022-01-26 | 2022-02-03 |
 | [Are You](https://open.spotify.com/track/0dAYVronZBJ5STMzI7uwVx) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Are You](https://open.spotify.com/album/740DSrwL4HoMD8mcvlyv0m) | 3:56 | 2022-04-13 | 2022-04-28 |
 | [Are You Diagnosed?](https://open.spotify.com/track/3BXTJdDGc6DnAUFrqHQCC1) | [Eaves Wilder](https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ) | [Are You Diagnosed?](https://open.spotify.com/album/2stzbaDdGD3NjWOxtyl2QT) | 3:34 | 2023-02-22 | 2023-03-02 |

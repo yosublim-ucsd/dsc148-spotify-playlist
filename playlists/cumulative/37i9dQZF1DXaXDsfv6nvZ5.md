@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-381 songs - 23 hr 6 min
+382 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Need You Now](https://open.spotify.com/track/5bOntAUmbpQHh1RTpERan6) | [Anthony David](https://open.spotify.com/artist/6ktPQsThz35JwdtDsvi51S), [Algebra Blessett](https://open.spotify.com/artist/0ffXbLm7KIcfu3M1ee0UkP) | [Need You Now](https://open.spotify.com/album/45wx6JHRlULmE8TVCCC39V) | 4:06 | 2023-08-25 | 2023-10-07 |
 | [Neva Gonna Break My Heart Again](https://open.spotify.com/track/7c9d8GYjOixUL7I3o2BJn0) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo) | [Neva Gonna Break My Heart Again](https://open.spotify.com/album/4GiaM3A5j9Yll69ESxGKyE) | 5:18 | 2021-12-03 | 2022-09-24 |
 | [never dreamed you'd leave in summer](https://open.spotify.com/track/6WPWR2dVkWCJjFmOxFnFoP) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana \(deluxe\)](https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS) | 3:06 | 2022-11-18 | 2023-02-25 |
+| [Never Knew](https://open.spotify.com/track/6cxVFEPXZO3ZamTANto61h) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr), [Divina Jasso](https://open.spotify.com/artist/6L8gOmISp00exQhnRGXHlx) | [Living High in the Brass Empire](https://open.spotify.com/album/7CN9Tvp3Wsi1ISL1D0brzB) | 3:14 | 2023-04-07 |  |
 | [Never Knew](https://open.spotify.com/track/6fAud0gWfZQVQ7UuC94UNG) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr), [Divina Jasso](https://open.spotify.com/artist/6L8gOmISp00exQhnRGXHlx) | [Never Knew](https://open.spotify.com/album/4JEwt51uUJfpUGJASLyt65) | 3:14 | 2023-04-07 | 2023-05-20 |
 | [Nice & Slow \- Ryan James Carr Remake](https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1) | [My Way \(25th Anniversary Edition\)](https://open.spotify.com/album/3ideAfrVvWpeZkKB9fOz81) | 3:12 | 2022-09-16 | 2023-04-29 |
 | [No Particulars](https://open.spotify.com/track/3wF0M5BsOWABoOV4vr3wCr) | [Shafiq Husayn](https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Didda Joe](https://open.spotify.com/artist/6RiH4it36bTUNBvUjPH2DP), [August Rose](https://open.spotify.com/artist/4cGbWF0MMhak6Ws9ROGC44) | [So Gold](https://open.spotify.com/album/2n8xGkaNui2V7g59g9EAjC) | 4:23 | 2023-06-09 | 2023-09-02 |
@@ -317,7 +318,7 @@
 | [Stay Where You Are](https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ) | 3:29 | 2022-03-11 | 2023-04-02 |
 | [STEREO DRIVER](https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [STEREO DRIVER](https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH) | 3:51 | 2022-09-23 | 2023-05-06 |
 | [STILL HAVE YOU](https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [STILL HAVE YOU](https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX) | 2:22 | 2023-02-24 | 2023-10-11 |
-| [Stolen Fruit](https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Stolen Fruit](https://open.spotify.com/album/7lz4nwWwfRplCq1ts5NmVv) | 3:37 | 2022-02-25 |  |
+| [Stolen Fruit](https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Stolen Fruit](https://open.spotify.com/album/7lz4nwWwfRplCq1ts5NmVv) | 3:37 | 2022-02-25 | 2023-10-17 |
 | [Strength, Courage, and Wisdom \- India Arie](https://open.spotify.com/track/5yTu3MMxAPOUQzfR13mxI3) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Muzik of the Mind and Spirit \- a Concept Compilation](https://open.spotify.com/album/7ermETX1IloxCO80fX1poy) | 5:01 | 2022-03-11 | 2022-10-15 |
 | [Summer Breeze](https://open.spotify.com/track/1fdIUHd0XFHyuwp0Uhgquw) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Summer Breeze](https://open.spotify.com/album/3xrqOcvw6PfsXkJEgfz1Cu) | 3:42 | 2022-10-14 | 2023-10-07 |
 | [summer night o8](https://open.spotify.com/track/2yrhCmYZKJHpOFk8OW2rjU) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [summer night o8](https://open.spotify.com/album/38xjiy0KkjzCzz7P9WJHAw) | 3:23 | 2021-12-03 | 2022-09-13 |

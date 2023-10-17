@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-184 songs - 10 hr 23 min
+185 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Confuse](https://open.spotify.com/track/3utUtdNPkBhuX3JIHSKC72) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Fade Away](https://open.spotify.com/album/6QKMkubaMBZsiSGaxYd1k1) | 2:37 | 2022-05-11 | 2022-07-27 |
 | [Courtship Song 구애가](https://open.spotify.com/track/306XHqoedXSzJWICCAi1ry) | [Sijm 시즘](https://open.spotify.com/artist/1sFAOMHlzpH19uht6wXdqL) | [Courtship Song 구애가](https://open.spotify.com/album/3uvyOUWH52Dni38OOT5XPE) | 3:14 | 2022-05-11 | 2022-07-24 |
 | [D\-day](https://open.spotify.com/track/21xL4v9Sx7SCChxtSj3Gby) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:22 | 2022-05-11 | 2022-07-26 |
+| [Daisy](https://open.spotify.com/track/1mnyie1f8GFwDBENXuvld9) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [CEO\-dol Mart \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0XLq1Dhnhjsm87XFahi6DO) | 3:01 | 2023-10-16 |  |
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-05-11 |  |
 | [Dear you](https://open.spotify.com/track/6wXol6WSwpggIhNvAnQ0bo) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw) | [Herz Catalog \- Dear you](https://open.spotify.com/album/4WWdD5bdBlHrFeSeXaTovt) | 3:15 | 2022-05-11 | 2022-07-29 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-22 |  |
@@ -56,7 +57,7 @@
 | [Fly to me](https://open.spotify.com/track/6KrDSC2vcLc2E6lajkGSw4) | [CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz) | [Fly to me](https://open.spotify.com/album/2Jo2mvplm5HgWP81gsXsSc) | 3:01 | 2022-05-11 | 2022-07-29 |
 | [Fool](https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [My First June](https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7) | 3:50 | 2022-05-11 |  |
 | [For Her \(feat\. Kim Dae Hyeok\)](https://open.spotify.com/track/1JeyvQnYfR7otuxrWKkhEC) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Kim Dae Hyeok 김대혁](https://open.spotify.com/artist/5Idmwqf7qWP3IBo3ayAgmG) | [For Her](https://open.spotify.com/album/1nSHlzM1eHfjBKzYn5jC3R) | 3:03 | 2022-05-11 | 2022-07-27 |
-| [Fresh](https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Fresh](https://open.spotify.com/album/5Yr1LYAYT20wcjiKNYttDs) | 2:58 | 2022-07-04 |  |
+| [Fresh](https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Fresh](https://open.spotify.com/album/5Yr1LYAYT20wcjiKNYttDs) | 2:58 | 2022-07-04 | 2023-10-17 |
 | [Friendzone \(feat\. BIG Naughty\)](https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:42 | 2022-11-03 | 2022-11-23 |
 | [From The Heart](https://open.spotify.com/track/0qdxUN4EevIeK1KuKT0JWa) | [UmYull](https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8) | [From The Heart](https://open.spotify.com/album/5lBFCPfdF95rRFLWMbrs3N) | 3:32 | 2022-06-20 | 2022-06-25 |
 | [Full of You](https://open.spotify.com/track/0VSh0IcBr84KLQiSqTwpDH) | [HAE YOON \(Cherry Bullet\)](https://open.spotify.com/artist/0ceAcBBCbrST7xKlPzcg6h) | [The King's Affection OST Part.6](https://open.spotify.com/album/1KVynTSbGiMYJCZFAsU80U) | 3:16 | 2022-05-11 | 2022-12-25 |

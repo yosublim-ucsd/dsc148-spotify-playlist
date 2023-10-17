@@ -1,12 +1,12 @@
 {
   "description": "Check out these Hip Hop classics that are great for the whole family.",
-  "num_followers": 69556,
+  "num_followers": 69609,
   "original_name": "Raised on Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2U4ZTY4YzQ2ODhlMmUzNjViYmY1M2MzNDdhN2EzNTc3ZmVkN2Rm",
+  "snapshot_id": "MCxlNGIzNTU5MGVmZjYyNmJkMzA0ODM1ZDY2MWFiMTBkN2M3NmYxODA1",
   "tracks": [
     {
       "added_at": "2020-09-29 17:19:21",
@@ -321,34 +321,6 @@
       "url": "https://open.spotify.com/track/0UREO3QWbXJW3gOUXpK1am"
     },
     {
-      "added_at": "2021-03-19 15:07:31",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/29pTiwvAAgbAjrl0g1twLy"
-      },
-      "artists": [
-        {
-          "name": "Fugees",
-          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        },
-        {
-          "name": "Pras",
-          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
-        }
-      ],
-      "duration_ms": 290293,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI"
-    },
-    {
       "added_at": "2021-04-08 15:31:12",
       "album": {
         "name": "The Showdown: The Sugarhill Gang vs. Grandmaster Flash & The Furious Five",
@@ -395,6 +367,34 @@
       "duration_ms": 260306,
       "name": "Mistadobalina",
       "url": "https://open.spotify.com/track/0KQd3QY1Y8zC2rfO4ZBQRC"
+    },
+    {
+      "added_at": "2021-03-19 15:07:31",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/29pTiwvAAgbAjrl0g1twLy"
+      },
+      "artists": [
+        {
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Pras",
+          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
+        }
+      ],
+      "duration_ms": 290293,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI"
     },
     {
       "added_at": "2021-03-19 15:07:31",
@@ -455,22 +455,6 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
         "name": "3 Years, 5 Months And 2 Days In The Life Of...",
         "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 272706,
       "name": "Tennessee",
       "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 226040,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 330573,
-      "name": "Rock Box",
-      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
         "name": "Kurtis Blow",
         "url": "https://open.spotify.com/album/1ZcUKK3nnmuYVGEUBxXSXt"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 463733,
       "name": "The Breaks",
       "url": "https://open.spotify.com/track/5TvcggVu3s2P1fMAS8BupX"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 330573,
+      "name": "Rock Box",
+      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -619,22 +619,6 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT"
-      },
-      "artists": [
-        {
-          "name": "Monie Love",
-          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Monie in the Middle",
-      "url": "https://open.spotify.com/track/6RiQpptxeHspavyW50JiEw"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
         "name": "2 Hype",
         "url": "https://open.spotify.com/album/1XN7cuhq8ZIvWsUUZ9xDzR"
       },
@@ -647,22 +631,6 @@
       "duration_ms": 284040,
       "name": "Gittin' Funky",
       "url": "https://open.spotify.com/track/1gnOtJnOZErFPsADj08XVr"
-    },
-    {
-      "added_at": "2020-12-07 15:05:30",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "It's Tricky",
-      "url": "https://open.spotify.com/track/3C5b21hX1FePgFAGdzk3Uc"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -691,6 +659,22 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT"
+      },
+      "artists": [
+        {
+          "name": "Monie Love",
+          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Monie in the Middle",
+      "url": "https://open.spotify.com/track/6RiQpptxeHspavyW50JiEw"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
         "name": "Ladies First",
         "url": "https://open.spotify.com/album/6FrpOdvtCpq4atd48hyLVq"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 229896,
       "name": "Ladies First - Radio Edit",
       "url": "https://open.spotify.com/track/2kdJAbzcLT7XEQ0QeZERIB"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Wipeout (Re-Recorded Versions)",
+        "url": "https://open.spotify.com/album/11r8tYGEUCtMwliUxFljCv"
+      },
+      "artists": [
+        {
+          "name": "Fat Boys",
+          "url": "https://open.spotify.com/artist/3537Phr9t8GWkY2GtxDpnt"
+        }
+      ],
+      "duration_ms": 241108,
+      "name": "Wipeout (Re-Recorded Version)",
+      "url": "https://open.spotify.com/track/07CpuTGODTEA9VOjhJuoZ8"
     }
   ],
   "unique_name": "Raised on Hip Hop",

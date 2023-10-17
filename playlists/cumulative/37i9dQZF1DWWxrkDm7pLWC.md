@@ -4,7 +4,7 @@
 
 > De la musique classique pour aider vos enfants à se concentrer
 
-234 songs - 8 hr 58 min
+235 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Guinevere](https://open.spotify.com/track/5r0C21LlNxCPJqGu2R6q5H) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Guinevere](https://open.spotify.com/album/6AeER6xWFSdk0W8CJWRla0) | 1:54 | 2021-04-22 |  |
 | [Hand in Hand](https://open.spotify.com/track/3nRbOaWAsIEIUFkFRlYVAM) | [Kozue Ojima](https://open.spotify.com/artist/4lEdNSWMfOOBZ9X8eO3AXf) | [Hand in Hand](https://open.spotify.com/album/2zNG7lLL2AVQ5mZCczi81E) | 1:46 | 2021-04-22 |  |
 | [Henningsvær](https://open.spotify.com/track/5OId8stbYHTAiDcHTfQVim) | [Olai Ruud](https://open.spotify.com/artist/7ccZXba0d4vnn8JTLHD8AR) | [Henningsvær](https://open.spotify.com/album/10nmVjaKbS4TgaViMqyr3w) | 2:19 | 2021-04-22 |  |
-| [Hidden Beauty](https://open.spotify.com/track/1NM9gkYVJ0sPaviZs6rXG0) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Magnus Eriksson](https://open.spotify.com/artist/5Y92W0Mxk53w1ozspH7zZb) | [Hidden Beauty](https://open.spotify.com/album/69WSbMMTX4xvYmmVg3d33s) | 2:56 | 2021-04-22 |  |
+| [Hidden Beauty](https://open.spotify.com/track/1NM9gkYVJ0sPaviZs6rXG0) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Magnus Eriksson](https://open.spotify.com/artist/5Y92W0Mxk53w1ozspH7zZb) | [Hidden Beauty](https://open.spotify.com/album/69WSbMMTX4xvYmmVg3d33s) | 2:56 | 2021-04-22 | 2023-10-17 |
+| [Hidden Beauty](https://open.spotify.com/track/2VTVX7GZ5xPUKKyAlhN095) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Magnus Eriksson](https://open.spotify.com/artist/5Y92W0Mxk53w1ozspH7zZb) | [Peaceful Piano Music: Relaxing Piano Ballads to Relax and Study](https://open.spotify.com/album/6Chvs2oekSZnvIFfpBmCD5) | 2:56 | 2021-04-22 |  |
 | [Hidden Road](https://open.spotify.com/track/6cmNRqs2s4gs7tVycR6Ung) | [Elba](https://open.spotify.com/artist/3vyBIFbCPSFdrzamx6G60r) | [Hidden Road](https://open.spotify.com/album/4nZ5juUENODbHpzejFfLp9) | 2:15 | 2021-04-22 |  |
 | [Hiányérzet](https://open.spotify.com/track/0TaFyNST7wUeJ8ymvt6sqR) | [Lôrinc Tzigane](https://open.spotify.com/artist/6vWNxay1gwQXx4uuB6pgms) | [Hiányérzet](https://open.spotify.com/album/3kSodbe541Sst0OYivwNmM) | 2:30 | 2021-04-22 |  |
 | [Home](https://open.spotify.com/track/2DNrA5s0WrklYU9R8NMuJS) | [Joanna Vicente](https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv) | [Home](https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk) | 1:47 | 2021-04-22 |  |

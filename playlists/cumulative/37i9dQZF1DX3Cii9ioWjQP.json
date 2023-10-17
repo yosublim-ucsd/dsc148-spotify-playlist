@@ -1267,6 +1267,28 @@
     },
     {
       "album": {
+        "name": "Light (Feat. Junguk)",
+        "url": "https://open.spotify.com/album/5QqP080KIO26a5XvDNX2F5"
+      },
+      "artists": [
+        {
+          "name": "minzunki",
+          "url": "https://open.spotify.com/artist/6gj5VZHLST9DF4D5LTek65"
+        },
+        {
+          "name": "Junguk",
+          "url": "https://open.spotify.com/artist/0r0UiX83K8j121ilLGAX8k"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229097,
+      "name": "Light (Feat. Junguk)",
+      "url": "https://open.spotify.com/track/77SWtlPS2Y4ijijx4Ucgbp"
+    },
+    {
+      "album": {
         "name": "Like It",
         "url": "https://open.spotify.com/album/1lIsEk6v9PK15vOosHHvXr"
       },

@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Earl Sweatshirt
 
-546 songs - 1 day 5 hr 4 min
+547 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [Peaks N Pitfalls](https://open.spotify.com/track/0tk5j9BcmGEzdRziv2U8aR) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [Peaks N Pitfalls](https://open.spotify.com/album/0ZyQCcrEs9zGWadDPdZCjE) | 3:11 | 2021-09-03 | 2022-07-29 |
 | [PENSION](https://open.spotify.com/track/4mFXc7wNAtbPtks8W266AT) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [PENSION](https://open.spotify.com/album/2u0ZgJFyAZ7jm4qxuoxiro) | 3:17 | 2023-06-16 | 2023-07-22 |
 | [pg baby \- Remix](https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [pg baby \(Remix\)](https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R) | 4:09 | 2022-10-28 | 2023-07-08 |
+| [Phoenix](https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Phoenix](https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j) | 3:33 | 2023-10-13 |  |
 | [Picking Cherries](https://open.spotify.com/track/49JrqaegBsfKpLYewW7XmU) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Picking Cherries](https://open.spotify.com/album/43LkvukwXeIUgs00l0kX8T) | 4:30 | 2022-04-15 | 2022-07-27 |
 | [Pillows](https://open.spotify.com/track/48WATUppB2Uj1OGkLY395s) | [Brodie Fresh](https://open.spotify.com/artist/0oe6j87VszO9HKS0nVscW1), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Pillows](https://open.spotify.com/album/33ncTHDF7TBRMUGOlFP3Te) | 3:20 | 2022-05-13 | 2022-07-28 |
 | [Pinot Noir](https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [F65](https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i) | 2:55 | 2023-05-05 | 2023-08-19 |
@@ -518,7 +519,7 @@
 | [Troubles \[Feat\. T\-Pain\]](https://open.spotify.com/track/2DyiZvzSxkf1N6fvcfEKEO) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Troubles \[Feat\. T\-Pain\]](https://open.spotify.com/album/446vvjZgKLxPAnR0zciABe) | 2:40 | 2022-03-25 | 2022-07-29 |
 | [True Indeed](https://open.spotify.com/track/60VgKrIVA9iyq27h7PQw8H) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Extinction Level Event 2: The Wrath of God](https://open.spotify.com/album/7IO9UObUD76ZCLVu3ND7tz) | 1:53 | 2022-03-25 | 2022-04-02 |
 | [Truffles](https://open.spotify.com/track/6YasuOZcSrwQvHNbsxuPPW) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Truffles](https://open.spotify.com/album/5UwoNjOPVBSOlAQU8AfvGE) | 3:15 | 2021-09-03 | 2022-07-28 |
-| [Turkey Wings \- Bonus Track](https://open.spotify.com/track/3MjtBnv45fIRRo9Qp9ul3C) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Elephant Man's Bones The ALC Edition](https://open.spotify.com/album/1G0ESeSyFudOH7k6xzfreh) | 2:31 | 2023-09-05 |  |
+| [Turkey Wings \- Bonus Track](https://open.spotify.com/track/3MjtBnv45fIRRo9Qp9ul3C) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Elephant Man's Bones The ALC Edition](https://open.spotify.com/album/1G0ESeSyFudOH7k6xzfreh) | 2:31 | 2023-09-05 | 2023-10-17 |
 | [TV Dinners \(feat\. Boldy James & Sideshow\)](https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Sideshow](https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC) | [This Thing Of Ours](https://open.spotify.com/album/44qqs0b21hn7gAsuTioQkT) | 2:57 | 2021-09-03 | 2023-04-22 |
 | [TWO SIDES](https://open.spotify.com/track/50bZ9l5bg1jgoglj6qgy8J) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [SUNDAY DINNER](https://open.spotify.com/album/43C9qcFuylC5QjGspwpqTl) | 2:30 | 2023-09-22 | 2023-10-14 |
 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 | 2023-02-17 | 2023-07-08 |

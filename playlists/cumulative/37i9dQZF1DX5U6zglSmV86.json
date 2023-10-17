@@ -162,10 +162,36 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 242823,
       "name": "Boombap",
       "url": "https://open.spotify.com/track/4rO6YPOCRk9jnEQYjMdsah"
+    },
+    {
+      "album": {
+        "name": "BOOMBAP",
+        "url": "https://open.spotify.com/album/0jNLK0SIfOlYA9A3bsicAJ"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Kintuper",
+          "url": "https://open.spotify.com/artist/6Y5TDy3rbWK6f7GpjVLBEQ"
+        },
+        {
+          "name": "POLLO 821",
+          "url": "https://open.spotify.com/artist/035y0yO89K3Ry2LDbUkOib"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242823,
+      "name": "BOOMBAP",
+      "url": "https://open.spotify.com/track/0SLdDk7e4cnp8MFmcf16pi"
     },
     {
       "album": {

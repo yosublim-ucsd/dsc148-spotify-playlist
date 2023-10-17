@@ -250,7 +250,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 206786,
       "name": "Damaged Goods",
       "url": "https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n"
@@ -704,6 +704,24 @@
       "duration_ms": 260519,
       "name": "Love Like Blood",
       "url": "https://open.spotify.com/track/1DE4i3wL2lne2pcgmbbvwC"
+    },
+    {
+      "album": {
+        "name": "Laugh? I Nearly Bought One!",
+        "url": "https://open.spotify.com/album/1NslVOXC1oGYPKfsgpdbqn"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "date_added": "2020-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265466,
+      "name": "Love Like Blood",
+      "url": "https://open.spotify.com/track/6VzXOkU7pVXaVMR6e4hRAg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: FINALLY
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,336 likes - 133 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,339 likes - 133 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 132 | [Last Summer](https://open.spotify.com/track/3X9pggRCXEN57mhhbQj0Tt) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj), [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T), [Cho Lewis](https://open.spotify.com/artist/5BaaV8FQjtT55m4zS2FdNa) | [Last Summer](https://open.spotify.com/album/1sRtwQC7tPZAmyRvVB0cFq) | 4:18 |
 | 133 | [唔開心即食麵](https://open.spotify.com/track/7jO1vj4cDMRWvU1A1Lk5ap) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [唔開心即食麵](https://open.spotify.com/album/364NeJ3OjhOuFiLCeFkR2R) | 3:06 |
 
-Snapshot ID: `MCwyMzU3Y2Y3ZjM0ODAyZTRiYjVlZTFmMzU1NDhhMDQzNTk1NDQxNjNh`
+Snapshot ID: `MCw1ZmJlMjVhZmQ0NTVjMTExZDE1Zjc4MjAzMGNkNDVjYzY1ZjJjNjhm`

@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 350753,
+  "num_followers": 350851,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGNjMTIxNDEwZWUxMDA2ODU4N2U1MDcyODVlZDFkMmYxNGQyZTc0",
+  "snapshot_id": "MCwzNzAwMWYxMDUxMmE1OTc5OTNiNGFiNTcwZDJhZmY4MzkxNWE0OGNk",
   "tracks": [
     {
       "added_at": "2023-03-31 04:11:02",
@@ -187,6 +187,22 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
+        "name": "Gumbo",
+        "url": "https://open.spotify.com/album/7wAWsia8smE3scMtlO0nOx"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 197081,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/0loJyuSFr6vVPBQSmLLrrQ"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
         "name": "What's The 411?",
         "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 271493,
       "name": "Million",
       "url": "https://open.spotify.com/track/1Ktsil4bC4hYRWlqMG4qK3"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Gumbo",
-        "url": "https://open.spotify.com/album/7wAWsia8smE3scMtlO0nOx"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 197081,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/0loJyuSFr6vVPBQSmLLrrQ"
     },
     {
       "added_at": "2021-01-15 05:01:00",

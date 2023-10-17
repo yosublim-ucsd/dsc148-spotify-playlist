@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Clinton Kane
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,166 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,180 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 29 | [Fried Rice](https://open.spotify.com/track/1mE0VuGu21W63oGEnJ7hq2) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Fried Rice](https://open.spotify.com/album/4i1Tx8xN9dlwNmMaa8KLPj) | 3:27 |
 | 30 | [the way you like it \(demo\)](https://open.spotify.com/track/3YtqKHOvIzi7dJ1gBwfxvJ) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [after midnight \(demo’s\)](https://open.spotify.com/album/5LdMd3CXmgupvU6aeNc3Li) | 3:00 |
 | 31 | [Don't Go Insane](https://open.spotify.com/track/5izX3yhDZHqQFi8p2m6RHi) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Don't Go Insane](https://open.spotify.com/album/4GLbvgylMSGQ87JZL0TER1) | 3:24 |
-| 32 | [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 |
+| 32 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 |
 | 33 | [Hopeless \(feat\. Indiana Massara\)](https://open.spotify.com/track/2QlZXJjIexAkiecVQY1ULQ) | [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt), [Indiana Massara](https://open.spotify.com/artist/381Ko5IHHzP7rePllyKCdl) | [Hopeless \(feat\. Indiana Massara\)](https://open.spotify.com/album/29DTUQRmKtv8cUSeOw78qG) | 3:21 |
 | 34 | [Someday](https://open.spotify.com/track/4fda3DHfuJXdrWOUuQpbzt) | [Lepani](https://open.spotify.com/artist/2BP4XXvv9754tQZ0Pumcml) | [Someday](https://open.spotify.com/album/7EOUlFpxWwFKISRGeqI7NN) | 3:19 |
 | 35 | [Sweet Sounds Of Heaven \(feat\. Lady Gaga & Stevie Wonder\)](https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Sweet Sounds Of Heaven](https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK) | 7:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [2009](https://open.spotify.com/track/0PAgdg0v7LSjinrubTDsjp) | [Livia O](https://open.spotify.com/artist/0DJDFfRvWrXgjbFn0Wl0CG) | [2009](https://open.spotify.com/album/5W8wvoLa3IJiAa4wvbFoYe) | 3:39 |
 | 100 | [Pretty Girl \(Teine Aulelei\)](https://open.spotify.com/track/6IEcLmbHyP3nPaKc2L7LZl) | [Vince Harder](https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M) | [Pretty Girl \(Teine Aulelei\)](https://open.spotify.com/album/5MU4ri3gJ6JK3YMiKmS0B7) | 4:11 |
 
-Snapshot ID: `MCwyNzQ4NTc0NzFkOTYwYjRiZWRhYWIyNjAxY2Q2ZjNlYzhhMWNhMmQx`
+Snapshot ID: `MCw2NTJmOTgyOGQ2YTRjMDc0ZTcwMjMwMWQzZTM4MGU5M2Q5NGFjMjQw`

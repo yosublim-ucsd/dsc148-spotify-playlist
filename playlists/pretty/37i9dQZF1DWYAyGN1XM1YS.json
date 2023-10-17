@@ -1,12 +1,12 @@
 {
   "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: The Get Up Kids",
-  "num_followers": 122468,
+  "num_followers": 122559,
   "original_name": "mEMOries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjg4Mzc4YThkYzc2MmY3ZTM2YjkyMjZlYzJiMGJkYWNiZmEwMzY5",
+  "snapshot_id": "MCwxYTQ3MzI1MjViMWQxNjYzYzgzOTUzNjc1NWRhZDMyMmQyMDdhMDlh",
   "tracks": [
     {
       "added_at": "2023-03-28 15:58:25",
@@ -283,54 +283,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "American Football",
-        "url": "https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp"
-      },
-      "artists": [
-        {
-          "name": "American Football",
-          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
-        }
-      ],
-      "duration_ms": 370506,
-      "name": "Honestly?",
-      "url": "https://open.spotify.com/track/0QNdEegC3Q9AVoAMmd8MEL"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
-        "name": "Your Favorite Weapon",
-        "url": "https://open.spotify.com/album/1kRnFF71UTGdHmSrRDllKj"
-      },
-      "artists": [
-        {
-          "name": "Brand New",
-          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "Jude Law And A Semester Abroad",
-      "url": "https://open.spotify.com/track/4w7hIjpuEfvMPiyEgdqlf6"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
-        "name": "Translating the Name",
-        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 158360,
-      "name": "3rd Measurement in C",
-      "url": "https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "Pleasant Living",
         "url": "https://open.spotify.com/album/6glHUYWR8paVp72N7xmBci"
       },
@@ -343,6 +295,22 @@
       "duration_ms": 160613,
       "name": "Always Focused",
       "url": "https://open.spotify.com/track/20zs5ECJ4on1YqXHiDZkTN"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "American Football",
+        "url": "https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp"
+      },
+      "artists": [
+        {
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+        }
+      ],
+      "duration_ms": 370506,
+      "name": "Honestly?",
+      "url": "https://open.spotify.com/track/0QNdEegC3Q9AVoAMmd8MEL"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -395,18 +363,34 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Dear You",
-        "url": "https://open.spotify.com/album/7KyQp50wm9lprjaW6UMAkI"
+        "name": "Your Favorite Weapon",
+        "url": "https://open.spotify.com/album/1kRnFF71UTGdHmSrRDllKj"
       },
       "artists": [
         {
-          "name": "Jawbreaker",
-          "url": "https://open.spotify.com/artist/4bcaz6nXnH8LTRiXALe8XV"
+          "name": "Brand New",
+          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
         }
       ],
-      "duration_ms": 373920,
-      "name": "Accident Prone",
-      "url": "https://open.spotify.com/track/2Dqgj2nE6RwZKocWsWqXcG"
+      "duration_ms": 222080,
+      "name": "Jude Law And A Semester Abroad",
+      "url": "https://open.spotify.com/track/4w7hIjpuEfvMPiyEgdqlf6"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Translating the Name",
+        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 158360,
+      "name": "3rd Measurement in C",
+      "url": "https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -423,6 +407,22 @@
       "duration_ms": 222040,
       "name": "Standing On The Edge Of Summer",
       "url": "https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Dear You",
+        "url": "https://open.spotify.com/album/7KyQp50wm9lprjaW6UMAkI"
+      },
+      "artists": [
+        {
+          "name": "Jawbreaker",
+          "url": "https://open.spotify.com/artist/4bcaz6nXnH8LTRiXALe8XV"
+        }
+      ],
+      "duration_ms": 373920,
+      "name": "Accident Prone",
+      "url": "https://open.spotify.com/track/2Dqgj2nE6RwZKocWsWqXcG"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -455,6 +455,22 @@
       "duration_ms": 335933,
       "name": "Chinatown",
       "url": "https://open.spotify.com/track/7iLR3XqK3d5WbHeurAB1d8"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 246560,
+      "name": "For Me This Is Heaven",
+      "url": "https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -507,22 +523,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Clarity (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 246560,
-      "name": "For Me This Is Heaven",
-      "url": "https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "Relationship Of Command",
         "url": "https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Cursive's Domestica",
-        "url": "https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs"
-      },
-      "artists": [
-        {
-          "name": "Cursive",
-          "url": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "The Casualty",
-      "url": "https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "Whenever, If Ever",
         "url": "https://open.spotify.com/album/40C7bBDW77dS5BBbNzcdmm"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 341906,
       "name": "Heartbeat in the Brain",
       "url": "https://open.spotify.com/track/6rCQnAXP0UKEGKPZF8u5iL"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Cursive's Domestica",
+        "url": "https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs"
+      },
+      "artists": [
+        {
+          "name": "Cursive",
+          "url": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "The Casualty",
+      "url": "https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "In / Casino / Out",
-        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
-      },
-      "artists": [
-        {
-          "name": "At the Drive-In",
-          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
-        }
-      ],
-      "duration_ms": 288066,
-      "name": "Napoleon Solo",
-      "url": "https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "Porcelain",
         "url": "https://open.spotify.com/album/17Mq1v9fKGSmCabI7DaV4S"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 175106,
       "name": "Red & Blue Jeans",
       "url": "https://open.spotify.com/track/0j3m9AfsZfanscT1uLrVk1"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "In / Casino / Out",
+        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
+      },
+      "artists": [
+        {
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+        }
+      ],
+      "duration_ms": 288066,
+      "name": "Napoleon Solo",
+      "url": "https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Everything You Ever Wanted To Know About Silence Remaster",
-        "url": "https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8"
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
       },
       "artists": [
         {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 229826,
-      "name": "Siberian Kiss - 2009 Remaster",
-      "url": "https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm"
+      "duration_ms": 207906,
+      "name": "Dine Alone",
+      "url": "https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1"
     }
   ],
   "unique_name": "mEMOries",

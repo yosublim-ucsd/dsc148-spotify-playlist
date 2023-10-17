@@ -4,7 +4,7 @@
 
 > The hottest songs from LGBTQIA+ artists\. Cover: Mx Blouse
 
-972 songs - 2 day 4 hr 52 min
+973 songs - 2 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,8 @@
 | [Good Riddance](https://open.spotify.com/track/3ehnMYjZdSlQNiacOr1rPM) | [Reinaeiry](https://open.spotify.com/artist/0CSvPQ4Atj6NEcmymnbx7B) | [Good Riddance](https://open.spotify.com/album/3WJD6ovCS7AwmYRmYQp8wa) | 3:17 | 2023-05-16 | 2023-06-02 |
 | [Good Time](https://open.spotify.com/track/6DrIPRR1T24XUqmsW64cUF) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Good Time](https://open.spotify.com/album/2MMXRYeLPtmnPNPAYc8C4o) | 3:10 | 2022-08-19 | 2022-09-17 |
 | [Got Me Obsessed](https://open.spotify.com/track/6lHWSoTxeUwBjxfcP0frD9) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Got Me Obsessed](https://open.spotify.com/album/7pisk3C2Z4t7OZd5UWZGW3) | 3:07 | 2023-09-12 |  |
-| [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 | 2023-09-26 |  |
+| [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 | 2023-09-26 | 2023-10-17 |
+| [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 | 2023-10-10 |  |
 | [Got No Choice](https://open.spotify.com/track/0bZn83nTisBT1OCb7bA3rw) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Got No Choice](https://open.spotify.com/album/1529CgDLI704QwWw5A5OFS) | 3:21 | 2021-12-17 | 2022-01-29 |
 | [Grace](https://open.spotify.com/track/3r9CYtlSkvzxxmUSoUV3Os) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Grace](https://open.spotify.com/album/6k4Wcg7mJbjlzEE5UAG1Gi) | 3:56 | 2022-03-25 | 2022-04-21 |
 | [Gracie III](https://open.spotify.com/track/3RFF1MJVRE7kKxulxVRdKB) | [Jerry Paper](https://open.spotify.com/artist/2gzxBoK71ohENPlxlshHV7) | [Free Time](https://open.spotify.com/album/4iEmSaQR9Kz4SVs4O1wr1z) | 3:44 | 2022-04-15 | 2022-04-21 |

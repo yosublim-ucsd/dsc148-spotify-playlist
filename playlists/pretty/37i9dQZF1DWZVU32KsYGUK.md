@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 
 > Restaurant style background music for chill dinner ambiance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,655 likes - 190 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,699 likes - 190 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,21 +17,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 7 | [Respiro](https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Respiro](https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ) | 2:05 |
 | 8 | [Rébus](https://open.spotify.com/track/1RaP4GkSYdKzKyRJdXxBJ6) | [Christophe Pouget](https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU) | [Rébus](https://open.spotify.com/album/4pJZ7dbo8FXYh3NwS7wOvl) | 2:29 |
 | 9 | [Le Lac des Buttes](https://open.spotify.com/track/2wSDYbFEls8WYUCLCUvZNJ) | [Nicolas Dupain\-Aignon](https://open.spotify.com/artist/13jahwQWxrUhKBpng3HRQf) | [Lac des Buttes](https://open.spotify.com/album/5f7kNJ30Borz8VHTtsuG32) | 2:13 |
-| 10 | [Days from Before](https://open.spotify.com/track/5bEOU1GF4yjpSAh3KSPtQD) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Days from Before](https://open.spotify.com/album/1bRj0JsqIjH1qmJLDVyytH) | 2:07 |
-| 11 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 |
-| 12 | [I Still Miss You](https://open.spotify.com/track/1mB4krpjjVkqfMcgHvivJZ) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [I Still Miss You](https://open.spotify.com/album/3kHtcexla1h1I2wUnw7RqA) | 2:06 |
-| 13 | [Après tout](https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz) | [Alexis Pavot](https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk) | [Après Tout](https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3) | 2:27 |
+| 10 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 |
+| 11 | [What It Should Look Like](https://open.spotify.com/track/6rWa5bTCCZQIv0qKekqhnC) | [Tom Leaman](https://open.spotify.com/artist/2aCjyxAv55DqcgEBYNHS2l) | [What It Should Look Like](https://open.spotify.com/album/5G0e17YDqhmji8KqFhGUZ7) | 2:02 |
+| 12 | [Après tout](https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz) | [Alexis Pavot](https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk) | [Après Tout](https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3) | 2:27 |
+| 13 | [Winter Warmth](https://open.spotify.com/track/7i7EzSHTyUnZiSuwkVjnYR) | [Zecil Malka](https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp) | [Winter Warmth](https://open.spotify.com/album/5YfDgNzucWkIgaceuAAAmf) | 2:02 |
 | 14 | [dans mes rêves](https://open.spotify.com/track/6Hy7HXXIfWPtzCsKeEqDjM) | [Kjøpmann](https://open.spotify.com/artist/00kdoUy8DSeeIy1GEmb9S2) | [dans mes rêves](https://open.spotify.com/album/6e7jOATXTfMdLKTNUqtMEB) | 2:24 |
 | 15 | [Night Bird, Night Song](https://open.spotify.com/track/4oKLGQ5RhsIItD2zcOe7l3) | [Camilla Turgot](https://open.spotify.com/artist/4dMzIDrTnlZ42GJiWGxzB2) | [Night Bird, Night Song](https://open.spotify.com/album/7cUVIhZAj4cyjdateENnve) | 2:10 |
 | 16 | [Passage](https://open.spotify.com/track/33JhiJB1Oi4XDexPkAFnxj) | [Shaun Bertsch](https://open.spotify.com/artist/38bQPIz3UChdXTItoUNAvE) | [Passage](https://open.spotify.com/album/0q5XJMOjNxcnDjwK3mksfY) | 2:02 |
 | 17 | [Tomorrow](https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Tomorrow](https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy) | 2:34 |
 | 18 | [Travelling](https://open.spotify.com/track/64XD6XEroqjxW25e6ZMHMK) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Travelling](https://open.spotify.com/album/3OLjWTVE7j1i2pWoBDRhoR) | 2:40 |
-| 19 | [Profound poetry](https://open.spotify.com/track/6e1PioC0uJFwSq48cveCoQ) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Profound poetry](https://open.spotify.com/album/1FCxAp8C0V1R7ccSJxhAVO) | 2:01 |
-| 20 | [Valse Naturelle](https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse Naturelle](https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD) | 2:19 |
-| 21 | [Winter Warmth](https://open.spotify.com/track/7i7EzSHTyUnZiSuwkVjnYR) | [Zecil Malka](https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp) | [Winter Warmth](https://open.spotify.com/album/5YfDgNzucWkIgaceuAAAmf) | 2:02 |
+| 19 | [Days from Before](https://open.spotify.com/track/5bEOU1GF4yjpSAh3KSPtQD) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Days from Before](https://open.spotify.com/album/1bRj0JsqIjH1qmJLDVyytH) | 2:07 |
+| 20 | [Profound poetry](https://open.spotify.com/track/6e1PioC0uJFwSq48cveCoQ) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Profound poetry](https://open.spotify.com/album/1FCxAp8C0V1R7ccSJxhAVO) | 2:01 |
+| 21 | [Valse Naturelle](https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse Naturelle](https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD) | 2:19 |
 | 22 | [Crimson Reds, Yellow Hue](https://open.spotify.com/track/7qsQ7j3sFIsV5dxbDsrscI) | [Nahuel Bahr](https://open.spotify.com/artist/0aB950Mezo9NcPb1o8KNlM) | [Crimson Reds, Yellow Hue](https://open.spotify.com/album/4LsUKsgXS3PE5y68qFXXDi) | 2:07 |
-| 23 | [Notably, Natalie](https://open.spotify.com/track/4CTXSxYuXo4NjmZpkufqrF) | [Jaume Mitjà](https://open.spotify.com/artist/7pTrSZc1NwUjiBZ8PE5uyL) | [Notably, Natalie](https://open.spotify.com/album/0WykVJJHeExLPvAWlvJb5M) | 2:43 |
-| 24 | [What It Should Look Like](https://open.spotify.com/track/6rWa5bTCCZQIv0qKekqhnC) | [Tom Leaman](https://open.spotify.com/artist/2aCjyxAv55DqcgEBYNHS2l) | [What It Should Look Like](https://open.spotify.com/album/5G0e17YDqhmji8KqFhGUZ7) | 2:02 |
+| 23 | [I Still Miss You](https://open.spotify.com/track/1mB4krpjjVkqfMcgHvivJZ) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [I Still Miss You](https://open.spotify.com/album/3kHtcexla1h1I2wUnw7RqA) | 2:06 |
+| 24 | [Notably, Natalie](https://open.spotify.com/track/4CTXSxYuXo4NjmZpkufqrF) | [Jaume Mitjà](https://open.spotify.com/artist/7pTrSZc1NwUjiBZ8PE5uyL) | [Notably, Natalie](https://open.spotify.com/album/0WykVJJHeExLPvAWlvJb5M) | 2:43 |
 | 25 | [Freedom](https://open.spotify.com/track/5XEqILE72L66tQ6IQHTxJX) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Freedom](https://open.spotify.com/album/38TwtRxD4Jolu2W9nwUKs6) | 2:07 |
 | 26 | [Valzer Elegiaco](https://open.spotify.com/track/58x6lHX5gqgTP0JtLrKgki) | [Gioia Pisano](https://open.spotify.com/artist/5WMvjE5qJNLR5FMPdQfic8) | [Valzer Elegiaco](https://open.spotify.com/album/2UmSWNjxiiBv8XDp3g8fT0) | 3:02 |
 | 27 | [Amelia](https://open.spotify.com/track/0xRfgVTGR2mgImISJ4AVsE) | [Bert Hearns](https://open.spotify.com/artist/1aGVRfsCFUIKGa775i4QJs) | [Amelia](https://open.spotify.com/album/2fmMci8jroE0FqfSHIdp2w) | 2:20 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 189 | [La consolation](https://open.spotify.com/track/1rmTdklw8wgOStLgI4B25Q) | [Gaétan Buisson](https://open.spotify.com/artist/6DGaGOFxqqKATh3iRZ1MKs) | [La consolation](https://open.spotify.com/album/7JdF9ISUD6AReDwZhvJ4K0) | 2:45 |
 | 190 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 |
 
-Snapshot ID: `MCwwNGRlM2QxYjQ2ZTkzZTBmNWRjMDE4ZTY1NjY2OGJhZWU5NTkzM2Ix`
+Snapshot ID: `MCxlMDk1ZjY2MGZmMWRjZGRiMDAwOTcyYmQ4MjNkMzhkNmJkNGMzOTJi`

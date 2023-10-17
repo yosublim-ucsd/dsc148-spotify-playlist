@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "417Hz - Find Your Center",
+        "url": "https://open.spotify.com/album/3KSJe7UR1TQLzmyD6cvmw0"
+      },
+      "artists": [
+        {
+          "name": "Chura Rin",
+          "url": "https://open.spotify.com/artist/3ND8SIfnQTaM7QulRp8RwN"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158461,
+      "name": "417 Hz - Find Your Center",
+      "url": "https://open.spotify.com/track/7CosOh2Jx0VFHITCdCwuqJ"
+    },
+    {
+      "album": {
         "name": "432 Hz - Elegy of Echoes",
         "url": "https://open.spotify.com/album/4oVOBqLsjpEzCIjABS3AZZ"
       },
@@ -597,6 +615,24 @@
     },
     {
       "album": {
+        "name": "Celestial Relief 174 Hz",
+        "url": "https://open.spotify.com/album/7eoD7DhZvERn9lRkB1g3qd"
+      },
+      "artists": [
+        {
+          "name": "Zephyrical",
+          "url": "https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184047,
+      "name": "Celestial Relief 174 Hz",
+      "url": "https://open.spotify.com/track/76gz4q6jYJromho6Q04exU"
+    },
+    {
+      "album": {
         "name": "Center 528 Hz",
         "url": "https://open.spotify.com/album/6jAJ0Hq3HxnmAZ3tQWzcUc"
       },
@@ -723,6 +759,24 @@
     },
     {
       "album": {
+        "name": "julia",
+        "url": "https://open.spotify.com/album/4T2QXtDjvQx1LhWsiyVFVr"
+      },
+      "artists": [
+        {
+          "name": "cloudcrush",
+          "url": "https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202654,
+      "name": "dreaming",
+      "url": "https://open.spotify.com/track/1XoDGArXUNbnF67RqnZRPS"
+    },
+    {
+      "album": {
         "name": "Drifting Off",
         "url": "https://open.spotify.com/album/0qwKY37EcH9KvHChwVazQN"
       },
@@ -756,6 +810,24 @@
       "duration_ms": 179121,
       "name": "Embraced 528 Hz",
       "url": "https://open.spotify.com/track/7G8DeOrTj3lYBCEkVhaZVg"
+    },
+    {
+      "album": {
+        "name": "Energy 396 Hz",
+        "url": "https://open.spotify.com/album/7MmxsEdeci3fj7AXz3n1UN"
+      },
+      "artists": [
+        {
+          "name": "Aster Mar",
+          "url": "https://open.spotify.com/artist/55CdGRtywBf5eAehITb8IZ"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178235,
+      "name": "Energy 396 Hz",
+      "url": "https://open.spotify.com/track/1o8P0zMkhl9YsqFJbK8OoZ"
     },
     {
       "album": {
@@ -994,7 +1066,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 126049,
       "name": "In my quiet hour",
       "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
@@ -1174,10 +1246,28 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 105000,
       "name": "Morgensol",
       "url": "https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ"
+    },
+    {
+      "album": {
+        "name": "julia",
+        "url": "https://open.spotify.com/album/4T2QXtDjvQx1LhWsiyVFVr"
+      },
+      "artists": [
+        {
+          "name": "cloudcrush",
+          "url": "https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "movies",
+      "url": "https://open.spotify.com/track/62YBcKi5OW19y3HNxslFkK"
     },
     {
       "album": {
@@ -1284,7 +1374,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 371746,
       "name": "On the Nature of Daylight",
       "url": "https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0"
@@ -1491,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Reconcilio",
+        "url": "https://open.spotify.com/album/3ATJtjlA2DiMvyF4qikW32"
+      },
+      "artists": [
+        {
+          "name": "Paldon Drupa",
+          "url": "https://open.spotify.com/artist/0D2PXmUnDNu9BEKjfReLoR"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197468,
+      "name": "Reconcilio",
+      "url": "https://open.spotify.com/track/3MdiR9vW4le8PVxDAGYCMe"
+    },
+    {
+      "album": {
         "name": "Reflector",
         "url": "https://open.spotify.com/album/0iRZ3PagoECbNcicNO9xp6"
       },
@@ -1614,7 +1722,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 220781,
       "name": "Scintillans",
       "url": "https://open.spotify.com/track/4zI7J4c58Br1tY10NDyhlR"
@@ -1783,6 +1891,24 @@
     },
     {
       "album": {
+        "name": "Stella",
+        "url": "https://open.spotify.com/album/58g81HwmLEhx1mdwhuH7xB"
+      },
+      "artists": [
+        {
+          "name": "Theo Adagio",
+          "url": "https://open.spotify.com/artist/0hXbvfASKCsYIP7qG9iN4K"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Stella",
+      "url": "https://open.spotify.com/track/7FL7qe9NM0pbyGcHDmk6gl"
+    },
+    {
+      "album": {
         "name": "M\u00e5nens hav",
         "url": "https://open.spotify.com/album/1QZDB6DjafFtK1FeSP2Lec"
       },
@@ -1824,6 +1950,24 @@
       "duration_ms": 171250,
       "name": "Strings Of Serenity",
       "url": "https://open.spotify.com/track/5MCD2VQD1zR35jJHczAkMk"
+    },
+    {
+      "album": {
+        "name": "Submerged in Silence",
+        "url": "https://open.spotify.com/album/5EYkzqyUfnfS65SdfSAIRw"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194542,
+      "name": "Submerged in Silence",
+      "url": "https://open.spotify.com/track/7COIgCvwUIdWjmhp8OQXQa"
     },
     {
       "album": {

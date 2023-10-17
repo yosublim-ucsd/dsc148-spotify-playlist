@@ -1,12 +1,12 @@
 {
   "description": "Listen to  <a href=\"spotify:artist:19SmlbABtI4bXz864MLqOS\">Carl Cox</a>' favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 119893,
+  "num_followers": 119924,
   "original_name": "Carl Cox' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWRjZjZlNWQyY2M5NDk4NWFkNGIyNjI3NzNiZjhkZmQxOTIwMzVi",
+  "snapshot_id": "MCw5ZWMxNzBiNzQ4NzkwZDBkYzY0NDM3NTcwM2Q0NTJmMzJiYWNmZjE0",
   "tracks": [
     {
       "added_at": "2023-10-06 15:02:58",
@@ -864,7 +864,7 @@
       "added_at": "2023-10-06 15:02:58",
       "album": {
         "name": "Inferno (Space 92 Remix)",
-        "url": "https://open.spotify.com/album/7pPduuWSydgIvuedhlPvWk"
+        "url": "https://open.spotify.com/album/2sjMnAIGTphL04PMAmhsdk"
       },
       "artists": [
         {
@@ -878,15 +878,11 @@
         {
           "name": "Christopher Coe",
           "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
-        },
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
       "duration_ms": 358320,
-      "name": "Inferno - Space 92 Remix",
-      "url": "https://open.spotify.com/track/1cxWcExZyZRqV0YUcSJc15"
+      "name": "Inferno (Space 92 Remix)",
+      "url": "https://open.spotify.com/track/3kHw2dOwlkmHqfFeH6lZsD"
     },
     {
       "added_at": "2023-10-06 15:02:58",

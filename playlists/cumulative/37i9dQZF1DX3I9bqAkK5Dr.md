@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Damini Bhatla, Krishna Tejasvi
 
-163 songs - 9 hr 52 min
+164 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Matti Pata\-Save Soil](https://open.spotify.com/track/610PRiYy0YkG5kAocEFG06) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Matti Pata\-Save Soil](https://open.spotify.com/album/6YHRi3fEgkIhj8Ba5bOC8y) | 3:30 | 2022-07-18 | 2023-05-23 |
 | [Maya](https://open.spotify.com/track/0y5EJMV1PE3YPDUWMN314E) | [Chowraasta](https://open.spotify.com/artist/7l8YWhszshSlwN43NtokOO) | [Maya](https://open.spotify.com/album/39qvG5SrtnJO2gBpl9m2mf) | 4:42 | 2022-07-18 |  |
 | [Maya Chesave](https://open.spotify.com/track/2aoxZTjUBAqTmUz2X9Azo0) | [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb), [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz) | [Maya Chesave](https://open.spotify.com/album/0CmdXTK4VV4P462yDR4THw) | 3:36 | 2023-01-10 | 2023-06-01 |
-| [Modhatisari](https://open.spotify.com/track/6yUJX6h3v12PMAD1T6dsev) | [Madhu Mady](https://open.spotify.com/artist/3XXYrOqQ1xzKsuDgvTun6A), [DaKrish](https://open.spotify.com/artist/3loSOILEnkRrBpuwUnjxaD) | [Modhatisari](https://open.spotify.com/album/3rPCSsZ3lM53VPC9qzYcKu) | 3:22 | 2023-02-10 |  |
+| [Modhatisari](https://open.spotify.com/track/6yUJX6h3v12PMAD1T6dsev) | [Madhu Mady](https://open.spotify.com/artist/3XXYrOqQ1xzKsuDgvTun6A), [DaKrish](https://open.spotify.com/artist/3loSOILEnkRrBpuwUnjxaD) | [Modhatisari](https://open.spotify.com/album/3rPCSsZ3lM53VPC9qzYcKu) | 3:22 | 2023-02-10 | 2023-10-17 |
 | [Mounam](https://open.spotify.com/track/3COqF1lLItjkhOSGJPRtA2) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Lekha](https://open.spotify.com/album/69fz15ObWrTqavZz2ygTxf) | 3:40 | 2022-07-18 | 2023-05-27 |
 | [Myra](https://open.spotify.com/track/6cTmSsKgWdcYOGRMdBF2hF) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm) | [Myra](https://open.spotify.com/album/2t1lor0NlAVEmiWKZSWtpS) | 4:21 | 2023-02-16 | 2023-08-30 |
 | [Naa Friendhemo Pelli](https://open.spotify.com/track/1Xdn6Jvs5Z5WntxmciIwCP) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk), [Jayathi](https://open.spotify.com/artist/6qcblFUBA90tZxWievgx3G) | [Naa Friendhemo Pelli](https://open.spotify.com/album/5R1mBqMQYhJRGY4ONj88Yv) | 4:43 | 2023-05-18 |  |
@@ -130,7 +130,7 @@
 | [Prema Prema](https://open.spotify.com/track/5OvIL2IyH3L8AHCRAdQCIm) | [Jagadish Kommuri](https://open.spotify.com/artist/5uj0ZzEL7EUZ3wEgfubrzq) | [Prema Prema](https://open.spotify.com/album/0M3qDZEGKDLKwQANc1KblL) | 4:32 | 2023-02-03 | 2023-06-21 |
 | [Premaga](https://open.spotify.com/track/1baUONzJFIOvHjj9wYPXTm) | [Varun Raghavan](https://open.spotify.com/artist/4NkVbFtRfMRioCkzZ6gg2C), [Neha Venugopal](https://open.spotify.com/artist/5UN71z4zK3sryzvO1aLUWz) | [Premaga](https://open.spotify.com/album/03K7rbDgmaJmCflM6BzkrS) | 2:58 | 2023-05-02 |  |
 | [Premalekha](https://open.spotify.com/track/5Vwh2Q1i7rgCOPlINMI4Ju) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [Premalekha](https://open.spotify.com/album/3OO5kpArurrmesBm3lWx3u) | 4:09 | 2023-10-10 |  |
-| [Premalona](https://open.spotify.com/track/0o8t82I40o1YuJyLM2TTxV) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Premalona](https://open.spotify.com/album/08YLhIiDa8hIUDg7rJ4pal) | 1:31 | 2023-09-21 |  |
+| [Premalona](https://open.spotify.com/track/0o8t82I40o1YuJyLM2TTxV) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Premalona](https://open.spotify.com/album/08YLhIiDa8hIUDg7rJ4pal) | 1:31 | 2023-09-21 | 2023-10-17 |
 | [Preme](https://open.spotify.com/track/4GN3kyhteAgfCPqcZYx6wV) | [Joseph Vijay](https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD) | [Preme](https://open.spotify.com/album/3xAIfUpFgshmPDO97ZwnNB) | 4:01 | 2023-09-08 |  |
 | [Priya](https://open.spotify.com/track/5EsYWuhhGZQEj1GZmxF4l3) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Priya](https://open.spotify.com/album/7gm0Xh4k3ax15aFHUuptGu) | 3:15 | 2023-06-26 | 2023-07-25 |
 | [Priya Priya](https://open.spotify.com/track/16cpJ0xgeanA767VKsu4MC) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk) | [Priya Priya](https://open.spotify.com/album/4MtmaOUM9dfMbcQi1qt4sE) | 4:37 | 2023-09-22 |  |
@@ -153,6 +153,7 @@
 | [Sweet Nothings](https://open.spotify.com/track/2jRu660ZuGxJyOg2tTI3Yh) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB) | [First Things First](https://open.spotify.com/album/0hBHyl0h7ZXzZAJnGXU6tb) | 3:50 | 2022-11-02 | 2023-09-22 |
 | [Taithom](https://open.spotify.com/track/6VzKw7OxaT1KGiXBfB9f55) | [Kalakaarii](https://open.spotify.com/artist/5SCVG3jsMOTmp9zgku5b3j) | [Taithom](https://open.spotify.com/album/2ItmntZZQfbXND53lnAFtQ) | 3:32 | 2023-03-20 | 2023-07-04 |
 | [Tamil Pilla](https://open.spotify.com/track/5fi1gKgLd5mmg3wW3KVxGm) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS), [Spoorthi Jithender](https://open.spotify.com/artist/5ugSzRux2CJD4YuXJNcxad) | [Tamil Pilla](https://open.spotify.com/album/6EShTPXWuDThVXC88fTT7p) | 3:03 | 2023-06-20 |  |
+| [Tapana](https://open.spotify.com/track/2MZssNgryrjsC4foP7K4bU) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Tapana](https://open.spotify.com/album/3vREwqsQtKu8N0SMuULlxr) | 2:50 | 2023-10-16 |  |
 | [Tara](https://open.spotify.com/track/7LvCYOfZMR5APbGNgj7P6p) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [Tara](https://open.spotify.com/album/3cOpLZ4sBU9eke6KyOyUqo) | 2:49 | 2022-07-18 | 2023-05-26 |
 | [Telugu Flow](https://open.spotify.com/track/3Q4Rn6L8GRbbR43DHcFwN7) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Telugu Flow](https://open.spotify.com/album/70gsV2nrvydHTwVRGUbUsA) | 3:13 | 2023-05-29 | 2023-07-11 |
 | [Thamara Poovai](https://open.spotify.com/track/5bvJPJZGprkIDqLSXmRdSf) | [Ram Muthiah](https://open.spotify.com/artist/6FmTbZeAj6lhscs3PLXVUa), [Sai Madhukar](https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Thamara Poovai](https://open.spotify.com/album/16utbSdG0wcQcTaGvHk7c5) | 5:30 | 2023-06-16 | 2023-07-04 |

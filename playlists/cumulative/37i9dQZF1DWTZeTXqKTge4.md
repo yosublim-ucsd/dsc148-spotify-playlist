@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: Fredz
 
-488 songs - 1 day 0 hr 48 min
+489 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [B.E.C\. \#1](https://open.spotify.com/track/6WFSb72vg84uIJRO9HrBA1) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9), [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [B.E.C\. \#1](https://open.spotify.com/album/455m0pT555O6PaVpMYRN9h) | 2:40 | 2022-04-15 | 2022-09-03 |
 | [BAD B\*TCH II](https://open.spotify.com/track/6vMe7n4qJ9hXfMGE1ruDNF) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [LESBIENNE WOKE SUR L'AUTOTUNE](https://open.spotify.com/album/7KKSE5s8ljSYyq4Xt6siQF) | 3:16 | 2022-07-08 | 2022-09-17 |
 | [Bad Boy](https://open.spotify.com/track/63Fj5pGKXNSRdj8yw1YxVD) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Resilience](https://open.spotify.com/album/2jX65KhXfrKbwJk8dy6Zcr) | 3:08 | 2022-03-25 | 2022-09-17 |
-| [Balançoires](https://open.spotify.com/track/3wNaCRIIFEcSEip92OtVmg) | [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG) | [Balançoires](https://open.spotify.com/album/4GETwpQ6EHDbv0IbatN7Lc) | 2:52 | 2023-06-02 |  |
+| [Balançoires](https://open.spotify.com/track/3wNaCRIIFEcSEip92OtVmg) | [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG) | [Balançoires](https://open.spotify.com/album/4GETwpQ6EHDbv0IbatN7Lc) | 2:52 | 2023-06-02 | 2023-10-17 |
 | [Balboa](https://open.spotify.com/track/6Db5GnfErREpT4uVfCscDE) | [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb), [BangBangCashout](https://open.spotify.com/artist/6ejrJ9lIzqZ7sATdJaC9Uc), [JuicemanSF](https://open.spotify.com/artist/7lmOPad5dsOfryNQB2sDay) | [Balboa](https://open.spotify.com/album/4x7yE5sAq5hnrjNOoW5bvD) | 3:12 | 2022-03-11 | 2022-04-23 |
 | [Bando](https://open.spotify.com/track/6cdv3hsd42vgkyGloyPSRl) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [Bando](https://open.spotify.com/album/12ETKZ6rG26pNR4J7m3nfv) | 3:12 | 2023-10-13 |  |
 | [Banque de Beats Mondiale](https://open.spotify.com/track/51bo58pFgahPEbg4ZtQAMn) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Banque de Beats Mondiale](https://open.spotify.com/album/62KeY1v3G53EralWy54EJh) | 2:15 | 2023-06-16 | 2023-07-08 |
@@ -425,6 +425,7 @@
 | [Semelles Rouges](https://open.spotify.com/track/3dz6pALqpl62Z62mg2P4ng) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Semelles Rouges](https://open.spotify.com/album/67RgrQJcw4cjWoSPy2g15C) | 2:42 | 2022-04-08 | 2022-09-03 |
 | [Sentencé](https://open.spotify.com/track/3n9VHoMlVJvotkaXLFNqA2) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Sentencé](https://open.spotify.com/album/0A8VTHR0FqyOwGeiaiuMc7) | 3:32 | 2022-05-13 | 2022-10-22 |
 | [Sentiment noir](https://open.spotify.com/track/3CeD1D6F6zAR9gZm0mjw0U) | [Ooblack](https://open.spotify.com/artist/3anxnw1voh3B3wHyHujYUw) | [Sur mon brouillon EP](https://open.spotify.com/album/5RHY9vAYStZFJt9l4vZ95u) | 2:56 | 2022-01-07 | 2022-01-22 |
+| [Shirley Temple](https://open.spotify.com/track/0FA6d3PTjv6R9V4AhQEU6K) | [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG) | [NEXUS](https://open.spotify.com/album/7DjjUxRUmeQKjyhfPd6tLO) | 2:36 | 2023-10-16 |  |
 | [Shoot](https://open.spotify.com/track/3r3R0BMo2MlfOjKfrW8LS9) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Shoot](https://open.spotify.com/album/473m9WWUSkZ5BHNoUqvOiQ) | 2:50 | 2022-01-07 | 2022-01-29 |
 | [Sixième sens](https://open.spotify.com/track/2Mzf4hKAHExr1MOBSPxYhZ) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [LOSTALGIK \(2LUXE\)](https://open.spotify.com/album/1hCxmaFKOjRfj0dGieA2IK) | 3:18 | 2022-01-07 | 2022-01-15 |
 | [Soleil](https://open.spotify.com/track/4vxCBbwpMyrcbzAe4uO2oO) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK), [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [Soleil](https://open.spotify.com/album/0A49z1LkvPN2TIbqWDbJzz) | 3:30 | 2023-01-28 |  |

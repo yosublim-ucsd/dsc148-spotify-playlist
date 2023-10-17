@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 201363,
       "name": "\u4f60\u5920\u4e86",
       "url": "https://open.spotify.com/track/5vJ2Hw5FQShQIpyDqgQlCR"
@@ -5349,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "\u89aa\u611b\u7684\u4f60\u4e0d\u919c",
+        "url": "https://open.spotify.com/album/76vCPRM8vJVGYqmQWd2ftp"
+      },
+      "artists": [
+        {
+          "name": "\u65bd\u8a9e\u5ead",
+          "url": "https://open.spotify.com/artist/4IuEkOrNCePRLpRYVWbUql"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246986,
+      "name": "\u89aa\u611b\u7684\u4f60\u4e0d\u919c",
+      "url": "https://open.spotify.com/track/5nKsX7p5Wn1jJPqiqqvYs9"
+    },
+    {
+      "album": {
         "name": "\u89aa\u611b\u7684\u964c\u751f\u4eba",
         "url": "https://open.spotify.com/album/0WmRVqp4zIsLFRMZhIAjVB"
       },
@@ -5529,6 +5547,24 @@
     },
     {
       "album": {
+        "name": "\u8d95\u4e0d\u8d70\u7684\u4f60",
+        "url": "https://open.spotify.com/album/7vO1kneh8tZbj2lvnuh4ja"
+      },
+      "artists": [
+        {
+          "name": "Young",
+          "url": "https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281807,
+      "name": "\u8d95\u4e0d\u8d70\u7684\u4f60",
+      "url": "https://open.spotify.com/track/0vFIIyIU9ivCuVV4giU8jU"
+    },
+    {
+      "album": {
         "name": "\u8def\u904e\u4eba\u9593",
         "url": "https://open.spotify.com/album/1ReLs42i1FgChCUqurgmhc"
       },
@@ -5666,7 +5702,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 195428,
       "name": "\u8fd8\u662f\u60f3\u5ff5",
       "url": "https://open.spotify.com/track/6vs6nOLqT6E8yGwMY8Q3wV"

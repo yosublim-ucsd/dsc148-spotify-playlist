@@ -4,7 +4,7 @@
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-180 songs - 9 hr 30 min
+182 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Jij bent alles](https://open.spotify.com/track/0zkpPgcFpSXqjjWSLmSkDa) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In het licht van de maan](https://open.spotify.com/album/0UHBQoH5hrh3C81AdbXBpP) | 3:40 | 2023-02-17 | 2023-08-17 |
 | [Kalmte](https://open.spotify.com/track/6jS9nusSLKNAWdHpEwhljv) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Kalmte](https://open.spotify.com/album/1m6lov2C97FP0NesObnEeG) | 3:23 | 2023-05-19 |  |
 | [Lake Reflections](https://open.spotify.com/track/58yN8JbGTeUc8QA72ZfZvT) | [Glacial Patience](https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav) | [Lake Reflections](https://open.spotify.com/album/1F2pa78FOtgQdl1ni4I77p) | 3:49 | 2023-07-10 |  |
+| [Layers Of Trust](https://open.spotify.com/track/48ZNikpEFlxa1JfJLsLJjM) | [Samuel Boman](https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs) | [Layers Of Trust](https://open.spotify.com/album/29HpYuNVE30Cl1pROFW1mQ) | 2:36 | 2023-10-16 |  |
 | [Lemon Balm](https://open.spotify.com/track/2j7Ahvb0XYHv31vLRrlwTi) | [Rex Imaleo](https://open.spotify.com/artist/0tDrVzr4ZyzLf2618Cxp5w) | [Landscapes](https://open.spotify.com/album/0IEo9mRSBnvqSzoY8cOSPp) | 2:57 | 2023-03-03 |  |
 | [Let The Waves Carry You](https://open.spotify.com/track/10fDPZm1naD49AR3wkEXWg) | [Lunar Bliss](https://open.spotify.com/artist/3pPChrOJySpR5JYsGYmhg3) | [Let The Waves Carry You](https://open.spotify.com/album/2ek1KcqoL5K3kx8Vs9hcEC) | 2:52 | 2023-08-02 |  |
 | [Let Them Come](https://open.spotify.com/track/5GiNk6xpSRuORQy3Onvmii) | [Yolof Palace](https://open.spotify.com/artist/5FKwBSGrKHDCJuhHbl1pnj) | [The Banks Of Juru](https://open.spotify.com/album/4SYWzSSCnZZ4TgNVRuEgUK) | 2:44 | 2023-02-17 |  |
@@ -149,6 +150,7 @@
 | [Soil](https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Treetop Whisperer](https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN) | 3:10 | 2023-03-10 |  |
 | [Sojourn](https://open.spotify.com/track/0vt9Z5bs20zegRzu3WfHcJ) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Sojourn](https://open.spotify.com/album/678tvE12gbHFdLNL5ME8L0) | 3:21 | 2023-08-16 |  |
 | [Soothe](https://open.spotify.com/track/1DL4f1FiSNforkp9pWBWRc) | [Damir Yamm](https://open.spotify.com/artist/1IpLgouAHJGUP94xZkXi5z) | [Soothe](https://open.spotify.com/album/1gNyZvF7PBAgWsMyW4DvTP) | 2:35 | 2023-03-20 |  |
+| [Soulful Serenity](https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB) | [Neoterikoi](https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA) | [Soulful Serenity](https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj) | 3:04 | 2023-10-16 |  |
 | [Sounds Of The Earth](https://open.spotify.com/track/1BwGOA5hAFxJSsCxMzofhC) | [Soliaga](https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8) | [Sounds Of The Earth](https://open.spotify.com/album/6pqqZL1majgeW7H17H9Wlw) | 2:28 | 2023-03-03 |  |
 | [Sparrow Cloud](https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Essence of Mind](https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y) | 4:00 | 2023-02-17 |  |
 | [Spatial Healing](https://open.spotify.com/track/3JJC1OPhvfUEkq2imeT9yu) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Spatial Healing](https://open.spotify.com/album/6x7ptkcLvOwjKEj3VzeuzI) | 2:58 | 2023-02-17 | 2023-08-17 |

@@ -1,12 +1,12 @@
 {
   "description": "Curated by Bun B.",
-  "num_followers": 18163,
+  "num_followers": 18179,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjRlMjgwNzE5ZWRjMGIzMTU5NTIxMWY4NWFmN2ExNGQ0MmYxODRk",
+  "snapshot_id": "MCw3NmE0MDk3NmIwMTM3YzI5OTUwMjczYTdhOGQ5MGQ5ZDMzMWQwOGRh",
   "tracks": [
     {
       "added_at": "2023-08-30 19:30:34",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "I Know You Got Soul",
-      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
         "name": "Don't Mess Wit Texas",
         "url": "https://open.spotify.com/album/7zys39FMYPFyJkob8RYzJN"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 290120,
       "name": "Southside",
       "url": "https://open.spotify.com/track/7kkOuhyWcINZMDh4QGVyMB"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "I Know You Got Soul",
+      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
     },
     {
       "added_at": "2023-08-30 19:30:34",
@@ -1399,6 +1399,30 @@
       "duration_ms": 308973,
       "name": "Bout It, Bout It II",
       "url": "https://open.spotify.com/track/2ohf5urBpT8bieYr8kq3kt"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
+        "name": "From Coast To Coast",
+        "url": "https://open.spotify.com/album/4hy6cljF4XEK7uhbckH3Dx"
+      },
+      "artists": [
+        {
+          "name": "Lil' Keke",
+          "url": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "name": "Fat Pat",
+          "url": "https://open.spotify.com/artist/1iFf7x4gbonfRVAvQ8Wsoh"
+        },
+        {
+          "name": "DJ DMD",
+          "url": "https://open.spotify.com/artist/6OlAT1SEcIbALbMy6Z5TVL"
+        }
+      ],
+      "duration_ms": 287813,
+      "name": "25 Lighters",
+      "url": "https://open.spotify.com/track/4c6rZlc8J4P2zK4mvYrTFG"
     },
     {
       "added_at": "2023-08-30 19:30:34",
@@ -1503,30 +1527,6 @@
       "duration_ms": 432826,
       "name": "Happy Feelin's",
       "url": "https://open.spotify.com/track/2YQ4R8eICy851TjCdFYUSd"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
-        "name": "From Coast To Coast",
-        "url": "https://open.spotify.com/album/4hy6cljF4XEK7uhbckH3Dx"
-      },
-      "artists": [
-        {
-          "name": "Lil' Keke",
-          "url": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
-        },
-        {
-          "name": "Fat Pat",
-          "url": "https://open.spotify.com/artist/1iFf7x4gbonfRVAvQ8Wsoh"
-        },
-        {
-          "name": "DJ DMD",
-          "url": "https://open.spotify.com/artist/6OlAT1SEcIbALbMy6Z5TVL"
-        }
-      ],
-      "duration_ms": 287813,
-      "name": "25 Lighters",
-      "url": "https://open.spotify.com/track/4c6rZlc8J4P2zK4mvYrTFG"
     },
     {
       "added_at": "2023-08-30 19:30:34",

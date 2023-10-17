@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: Lou Garcia",
-  "num_followers": 41614,
+  "num_followers": 41632,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGMyMTE5YWUzNTAyNTViMWEzYzRjNTI4ZDhiNjA5YTFiMGRmYWMz",
+  "snapshot_id": "MCxjYWVhY2E0N2JkZDU3YzUxNDJiYTc3NDYzOTc0N2RlZDM1MzM1ZDFj",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -131,6 +131,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "THE LONELIEST",
+        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "EDGING",
         "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
       },
@@ -147,22 +163,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Die 4 Me",
-        "url": "https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 215021,
-      "name": "Die 4 Me",
-      "url": "https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "FELL IN LOVE",
         "url": "https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6"
       },
@@ -175,6 +175,22 @@
       "duration_ms": 138460,
       "name": "FELL IN LOVE",
       "url": "https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Die 4 Me",
+        "url": "https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 215021,
+      "name": "Die 4 Me",
+      "url": "https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -211,22 +227,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "THE LONELIEST",
-        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 247067,
-      "name": "THE LONELIEST",
-      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Heart Attack (Rock Version)",
         "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
       },
@@ -239,6 +239,26 @@
       "duration_ms": 239011,
       "name": "Heart Attack - Rock Version",
       "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "GOSSIP (feat. Tom Morello)",
+        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "GOSSIP (feat. Tom Morello)",
+      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -315,26 +335,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "GOSSIP (feat. Tom Morello)",
-        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "GOSSIP (feat. Tom Morello)",
-      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Memories (with WILLOW)",
         "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd"
       },
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "REVAMPED",
-        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
+        "name": "If I Can\u2019t Have Love, I Want Power",
+        "url": "https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 227975,
-      "name": "Tell Me You Love Me - Rock Version",
-      "url": "https://open.spotify.com/track/327h326DnJvW5suWlUG8yp"
+      "duration_ms": 173840,
+      "name": "honey",
+      "url": "https://open.spotify.com/track/7p58AJeuaFSUHTnPe5NFaf"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "If I Can\u2019t Have Love, I Want Power",
-        "url": "https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 173840,
-      "name": "honey",
-      "url": "https://open.spotify.com/track/7p58AJeuaFSUHTnPe5NFaf"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "lonely bitch",
         "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 175997,
       "name": "lonely bitch",
       "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "REVAMPED",
+        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 227975,
+      "name": "Tell Me You Love Me - Rock Version",
+      "url": "https://open.spotify.com/track/327h326DnJvW5suWlUG8yp"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Keep It Tucked",
-        "url": "https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 173576,
-      "name": "Keep It Tucked",
-      "url": "https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "ur just horny",
         "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
       },
@@ -495,22 +479,6 @@
       "duration_ms": 178787,
       "name": "ur just horny",
       "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Anestesiado",
-        "url": "https://open.spotify.com/album/4o3Aga2Oc5GbQNNE6dJySZ"
-      },
-      "artists": [
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        }
-      ],
-      "duration_ms": 174786,
-      "name": "Anestesiado",
-      "url": "https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -531,6 +499,38 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Keep It Tucked",
+        "url": "https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 173576,
+      "name": "Keep It Tucked",
+      "url": "https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Anestesiado",
+        "url": "https://open.spotify.com/album/4o3Aga2Oc5GbQNNE6dJySZ"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        }
+      ],
+      "duration_ms": 174786,
+      "name": "Anestesiado",
+      "url": "https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Direitos Autorais",
         "url": "https://open.spotify.com/album/3W3tNGlAHMISLuM6x8BbOa"
       },
@@ -543,22 +543,6 @@
       "duration_ms": 148750,
       "name": "Direitos Autorais",
       "url": "https://open.spotify.com/track/5Q1eeOx96R2xG6ErEZLKeo"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Caso Perdido",
-        "url": "https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 199401,
-      "name": "Caso Perdido",
-      "url": "https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -599,6 +583,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Caso Perdido",
+        "url": "https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 199401,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "CINZEIRO",
         "url": "https://open.spotify.com/album/1PGgZ935Sqb7fKIZKyuMjQ"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Viciado em Mentir",
-        "url": "https://open.spotify.com/album/2TJ1ZwEFlLzhDPXmfCligh"
-      },
-      "artists": [
-        {
-          "name": "Ariah",
-          "url": "https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "Viciado em Mentir",
-      "url": "https://open.spotify.com/track/6e2aPJbVJw9L8QDd421zNY"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Vil\u00e3",
         "url": "https://open.spotify.com/album/2W6EWkkAkkmMxQyeePtMTE"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 148295,
       "name": "Vil\u00e3",
       "url": "https://open.spotify.com/track/6gHv2hEqyAgBvgnBr2DWs8"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Viciado em Mentir",
+        "url": "https://open.spotify.com/album/2TJ1ZwEFlLzhDPXmfCligh"
+      },
+      "artists": [
+        {
+          "name": "Ariah",
+          "url": "https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "Viciado em Mentir",
+      "url": "https://open.spotify.com/track/6e2aPJbVJw9L8QDd421zNY"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "O Amor Machuca Demais",
-        "url": "https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 188638,
-      "name": "O Amor Machuca Demais",
-      "url": "https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Fiz 18",
         "url": "https://open.spotify.com/album/3B803upCKgO5My70u4J7sK"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 194693,
       "name": "Fiz 18",
       "url": "https://open.spotify.com/track/5n1AS1Oea32B0HyXrEGArz"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "O Amor Machuca Demais",
+        "url": "https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 188638,
+      "name": "O Amor Machuca Demais",
+      "url": "https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -739,22 +739,6 @@
       "duration_ms": 163880,
       "name": "Exagerado",
       "url": "https://open.spotify.com/track/4KiAjV7djHETTGUDogKz6l"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "VERMELHO FAROL",
-        "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 150884,
-      "name": "VERMELHO FAROL",
-      "url": "https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -791,18 +775,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "SEMPRE ESTRAGO TUDO + CARENTE PRA SEMPRE",
-        "url": "https://open.spotify.com/album/3ZMnjFJjAodqKyzFzn55kK"
+        "name": "VERMELHO FAROL",
+        "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
       },
       "artists": [
         {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         }
       ],
-      "duration_ms": 188729,
-      "name": "sempre estrago tudo",
-      "url": "https://open.spotify.com/track/1We5W9pJwrKFmFfI0c0v2y"
+      "duration_ms": 150884,
+      "name": "VERMELHO FAROL",
+      "url": "https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -823,6 +807,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "SEMPRE ESTRAGO TUDO + CARENTE PRA SEMPRE",
+        "url": "https://open.spotify.com/album/3ZMnjFJjAodqKyzFzn55kK"
+      },
+      "artists": [
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "duration_ms": 188729,
+      "name": "sempre estrago tudo",
+      "url": "https://open.spotify.com/track/1We5W9pJwrKFmFfI0c0v2y"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Alive and Unwell",
         "url": "https://open.spotify.com/album/3LiuUi849agq0ZVwLBIup8"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 121674,
       "name": "Alive and Unwell",
       "url": "https://open.spotify.com/track/7ffThXwGKRO4KRM1rVyXGJ"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "T\u00c1 TODO MUNDO MAL",
+        "url": "https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "T\u00c1 TODO MUNDO MAL",
+      "url": "https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -855,38 +871,6 @@
       "duration_ms": 178531,
       "name": "INTENSAMENTE",
       "url": "https://open.spotify.com/track/5XNHFSi9krUa5Ikw1fJK4K"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "MINHA RELIGI\u00c3O",
-        "url": "https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "MINHA RELIGI\u00c3O",
-      "url": "https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "T\u00c1 TODO MUNDO MAL",
-        "url": "https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "T\u00c1 TODO MUNDO MAL",
-      "url": "https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -951,6 +935,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "MINHA RELIGI\u00c3O",
+        "url": "https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "MINHA RELIGI\u00c3O",
+      "url": "https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Reviravolta",
         "url": "https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo"
       },
@@ -971,22 +971,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Muito Al\u00e9m",
-        "url": "https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo"
+        "name": "n\u00e3o me importo mais",
+        "url": "https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG"
       },
       "artists": [
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
         }
       ],
-      "duration_ms": 168505,
-      "name": "Muito Al\u00e9m",
-      "url": "https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL"
+      "duration_ms": 156306,
+      "name": "n\u00e3o me importo mais",
+      "url": "https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1003,22 +999,6 @@
       "duration_ms": 170189,
       "name": "incendiou",
       "url": "https://open.spotify.com/track/2MbrpnlzfICszxaG6eToxk"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "n\u00e3o me importo mais",
-        "url": "https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "n\u00e3o me importo mais",
-      "url": "https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1043,22 +1023,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "S\u00f3 Sinto",
-        "url": "https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA"
-      },
-      "artists": [
-        {
-          "name": "Cac\u00e1 Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk"
-        }
-      ],
-      "duration_ms": 141484,
-      "name": "Cora\u00e7\u00e3o Solto",
-      "url": "https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "ponto de vista",
         "url": "https://open.spotify.com/album/0nD3dR5hkxS3g1DyCATB9U"
       },
@@ -1079,22 +1043,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Castelo De Areia",
-        "url": "https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S"
+        "name": "S\u00f3 Sinto",
+        "url": "https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA"
       },
       "artists": [
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Bullet Bane",
-          "url": "https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0"
+          "name": "Cac\u00e1 Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk"
         }
       ],
-      "duration_ms": 176666,
-      "name": "Castelo De Areia",
-      "url": "https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV"
+      "duration_ms": 141484,
+      "name": "Cora\u00e7\u00e3o Solto",
+      "url": "https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1111,6 +1071,26 @@
       "duration_ms": 132413,
       "name": "vc n gosta de garotas",
       "url": "https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Muito Al\u00e9m",
+        "url": "https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "duration_ms": 168505,
+      "name": "Muito Al\u00e9m",
+      "url": "https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1143,22 +1123,6 @@
       "duration_ms": 207070,
       "name": "CORPO FECHADO",
       "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "sen(ti)r perdeu a gra\u00e7a",
-        "url": "https://open.spotify.com/album/42Kb3As74Bj48lVftnynCA"
-      },
-      "artists": [
-        {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
-        }
-      ],
-      "duration_ms": 165177,
-      "name": "sen(ti)r perdeu a gra\u00e7a",
-      "url": "https://open.spotify.com/track/13aQ68ATviZZcPIPkicZwr"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1199,6 +1163,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "sen(ti)r perdeu a gra\u00e7a",
+        "url": "https://open.spotify.com/album/42Kb3As74Bj48lVftnynCA"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "duration_ms": 165177,
+      "name": "sen(ti)r perdeu a gra\u00e7a",
+      "url": "https://open.spotify.com/track/13aQ68ATviZZcPIPkicZwr"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "PODERIA SER (bem) PIOR",
         "url": "https://open.spotify.com/album/6q0gUaY6hsZIvOlatWotu0"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 171861,
       "name": "Amigo de Ningu\u00e9m",
       "url": "https://open.spotify.com/track/7pbz1Rwzbb4nG7ljbMMn9u"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Castelo De Areia",
+        "url": "https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Bullet Bane",
+          "url": "https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Castelo De Areia",
+      "url": "https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1231,22 +1231,6 @@
       "duration_ms": 126303,
       "name": "Coocoocrazy",
       "url": "https://open.spotify.com/track/4BliVo1uZWjMDu6iP1S4Gy"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
-      },
-      "artists": [
-        {
-          "name": "CHADY",
-          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
-        }
-      ],
-      "duration_ms": 161866,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1279,6 +1263,22 @@
       "duration_ms": 157249,
       "name": "Grito",
       "url": "https://open.spotify.com/track/5haGoQ0rTaulltDB7Tw14C"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
+      },
+      "artists": [
+        {
+          "name": "CHADY",
+          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
+        }
+      ],
+      "duration_ms": 161866,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Talvez o Problema Seja Eu",
-        "url": "https://open.spotify.com/album/4Wx7IxNpv0caspljzbFMKL"
-      },
-      "artists": [
-        {
-          "name": "lalalaura",
-          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
-        }
-      ],
-      "duration_ms": 155769,
-      "name": "Talvez o Problema Seja Eu",
-      "url": "https://open.spotify.com/track/5TsG8Dd14xcMcQ8Ze3U0t9"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "A Cura",
         "url": "https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 207000,
       "name": "A Cura",
       "url": "https://open.spotify.com/track/4xawu6VJn17igipPIGayeU"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Talvez o Problema Seja Eu",
+        "url": "https://open.spotify.com/album/4Wx7IxNpv0caspljzbFMKL"
+      },
+      "artists": [
+        {
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+        }
+      ],
+      "duration_ms": 155769,
+      "name": "Talvez o Problema Seja Eu",
+      "url": "https://open.spotify.com/track/5TsG8Dd14xcMcQ8Ze3U0t9"
     },
     {
       "added_at": "2023-10-13 03:00:00",

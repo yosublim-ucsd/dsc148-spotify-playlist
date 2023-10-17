@@ -4,7 +4,7 @@
 
 > Quand l'indie et l'electro ne font qu'un.
 
-48 songs - 3 hr 24 min
+49 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Dawn of the Dead](https://open.spotify.com/track/7shiQ7egWBwnPPHaX1UT83) | [Does It Offend You, Yeah?](https://open.spotify.com/artist/4bFfSfCBYpFh37ziXCSqUs) | [You Have No Idea What You're Getting Yourself Into](https://open.spotify.com/album/65KhNfhhdeIlKuT3ClZrMh) | 3:26 | 2023-02-07 |  |
 | [Discipline](https://open.spotify.com/track/3NLRsJ6mXjxsu8CvysDeUE) | [Club cheval](https://open.spotify.com/artist/3sFn8HRnBP6g4twNNy9Tzz) | [Discipline](https://open.spotify.com/album/2ZGWMH5dkJMGxRT5gM8lmZ) | 4:52 | 2023-02-07 |  |
 | [Don't Turn the Lights On](https://open.spotify.com/track/2cC48Dvkkw5YK9rLIr83OG) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Business Casual](https://open.spotify.com/album/7iZU6KMPD0iT7QqtMkTmL1) | 4:32 | 2023-02-07 |  |
+| [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 | 2023-10-16 |  |
 | [Flux](https://open.spotify.com/track/3V4LTMmu764I724y0ToD2d) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 3:35 | 2023-02-07 |  |
 | [Future](https://open.spotify.com/track/1L44XODDvPjK4Tl9airKLy) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Bright Like Neon Love](https://open.spotify.com/album/4AyAxuQiwiloLye3qxuXq4) | 5:12 | 2023-02-07 |  |
 | [Get Myself Into It](https://open.spotify.com/track/0ZbNQQtAbdQoTWxt4avi2w) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Pieces Of The People We Love](https://open.spotify.com/album/1IjCAQlroTjoaRMayE3Unf) | 4:39 | 2023-02-07 |  |
@@ -40,7 +41,7 @@
 | [My Girls](https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq) | 5:40 | 2023-02-07 |  |
 | [Never Be Like You \(feat\. Kai\)](https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skin](https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5) | 3:54 | 2023-02-07 |  |
 | [O.N.E.](https://open.spotify.com/track/5IN6s1ESshNEs5cCKMGcfc) | [Yeasayer](https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft) | [Odd Blood](https://open.spotify.com/album/4OTfa7TIDrZjGKCDu8dUqG) | 5:23 | 2023-02-07 |  |
-| [Oceans Niagara](https://open.spotify.com/track/57zPzYQf43mAewduTJPJLp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:31 | 2023-02-07 |  |
+| [Oceans Niagara](https://open.spotify.com/track/57zPzYQf43mAewduTJPJLp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:31 | 2023-02-07 | 2023-10-17 |
 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 | 2023-02-07 |  |
 | [OK](https://open.spotify.com/track/6CNskuICDfoju7WXRSq6ME) | [Shitdisco](https://open.spotify.com/artist/1gnKXnSL1BgGCTIrV3d4iq) | [The Emanator](https://open.spotify.com/album/1zm5jMajSrMRW5dGmSC7xO) | 4:02 | 2023-02-07 |  |
 | [Reservoir](https://open.spotify.com/track/2zZW0SmKlZEoiDJwssNZqA) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Love Letters](https://open.spotify.com/album/4ncxigcuC9s3fyjiuJSfQq) | 3:14 | 2023-02-07 |  |

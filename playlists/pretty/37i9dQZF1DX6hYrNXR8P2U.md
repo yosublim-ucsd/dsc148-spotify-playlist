@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Más música, menos etiquetas\. <br/>📷 WOS
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,119 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,195 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [CUANDO ME CANSE DE MI](https://open.spotify.com/track/2FOHQIcqFT3et7rAioADgK) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0), [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g) | [CUANDO ME CANSE DE MI](https://open.spotify.com/album/4HP7e9eSfKsG7liqyEBalt) | 3:54 |
 | 100 | [El Plan Mayor](https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht), [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7) | [El Plan Mayor](https://open.spotify.com/album/3gwoxCZpCCpcWlmuoR0efY) | 2:52 |
 
-Snapshot ID: `MCw2ZDE4NWY1NTYzMzZkNmI4ZjJkNTEyYzQwNmI2NjAyOTAxZjM0MGEz`
+Snapshot ID: `MCwwYmRiZTVhYWEyOTIxNDE2Y2I2Mzg0YzM5NzQ2MjU0MzJjYTBlMjQz`

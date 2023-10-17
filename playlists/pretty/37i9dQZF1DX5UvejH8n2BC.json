@@ -1,12 +1,12 @@
 {
   "description": "Female artists of Philadelphia International Records which is especially known for Philly Soul. Cover: The Jones Girls:\n",
-  "num_followers": 33980,
+  "num_followers": 34036,
   "original_name": "Women of Philly Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTRiMDAzM2MyMGNkNTViOTEyNWFkMmYwYzZmMzkwYmJiNTkyOTA0",
+  "snapshot_id": "MCw1YzcyOTcxMmQ1ZjUyNzQyODM3NDc3YWFjZDk4YzczNWQ0OTU2NTRi",
   "tracks": [
     {
       "added_at": "2022-03-03 11:43:39",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "I'm In Love Again",
-        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 298120,
-      "name": "Love, Need and Want You",
-      "url": "https://open.spotify.com/track/0t1MdYckZOtGVykowa6d95"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
         "name": "Frantique",
         "url": "https://open.spotify.com/album/1Xn2SYwx4PCz5v4K9yNSJn"
       },
@@ -175,18 +159,34 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "Jean Carn",
-        "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
+        "name": "Sing About Life",
+        "url": "https://open.spotify.com/album/6QkVNYrUsPdhcPwtFILX3r"
       },
       "artists": [
         {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+          "name": "The Ebonys",
+          "url": "https://open.spotify.com/artist/5lIu3yk3Vz3a2dVSoBHJDt"
         }
       ],
-      "duration_ms": 244973,
-      "name": "Free Love",
-      "url": "https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF"
+      "duration_ms": 330400,
+      "name": "A Love of Your Own",
+      "url": "https://open.spotify.com/track/7BDhzQJpWmQU0fBRdv2pDM"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
+        "name": "I'm In Love Again",
+        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 298120,
+      "name": "Love, Need and Want You",
+      "url": "https://open.spotify.com/track/0t1MdYckZOtGVykowa6d95"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -207,18 +207,54 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "Sing About Life",
-        "url": "https://open.spotify.com/album/6QkVNYrUsPdhcPwtFILX3r"
+        "name": "What Color Is Love",
+        "url": "https://open.spotify.com/album/5zHHNHuj08nKoaoseKTuDF"
       },
       "artists": [
         {
-          "name": "The Ebonys",
-          "url": "https://open.spotify.com/artist/5lIu3yk3Vz3a2dVSoBHJDt"
+          "name": "Dee Dee Sharp Gamble",
+          "url": "https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK"
+        },
+        {
+          "name": "Dee Dee Sharp",
+          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
         }
       ],
-      "duration_ms": 330400,
-      "name": "A Love of Your Own",
-      "url": "https://open.spotify.com/track/7BDhzQJpWmQU0fBRdv2pDM"
+      "duration_ms": 236480,
+      "name": "I Believe in Love",
+      "url": "https://open.spotify.com/track/38xyVKgU4XvfO4LRHIdiJ9"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
+        "name": "Happy 'Bout The Whole Thing",
+        "url": "https://open.spotify.com/album/2PBsr2V6Dku16eP1qgY0Rq"
+      },
+      "artists": [
+        {
+          "name": "Dee Dee Sharp",
+          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
+        }
+      ],
+      "duration_ms": 314520,
+      "name": "I'M Not In Love",
+      "url": "https://open.spotify.com/track/1i2MdICLNQKYvr7lcc78rw"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
+        "name": "Jean Carn",
+        "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
+      },
+      "artists": [
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Free Love",
+      "url": "https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -271,6 +307,38 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
+        "name": "Frantique",
+        "url": "https://open.spotify.com/album/1Xn2SYwx4PCz5v4K9yNSJn"
+      },
+      "artists": [
+        {
+          "name": "Frantique",
+          "url": "https://open.spotify.com/artist/64FQb5lUDKS72l9d8OjDLT"
+        }
+      ],
+      "duration_ms": 476853,
+      "name": "Getting Serious",
+      "url": "https://open.spotify.com/track/08pTWZPpPcAZa4m0NM32jd"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/7whWeslKir8S7gwBaijm9h"
+      },
+      "artists": [
+        {
+          "name": "City Limits",
+          "url": "https://open.spotify.com/artist/4ZSMbwCpSHFmHheHHVU98x"
+        }
+      ],
+      "duration_ms": 263160,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/6eQIk2NX87pMrMQ9lpWZUD"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
         "name": "The Three Degrees",
         "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
       },
@@ -283,6 +351,22 @@
       "duration_ms": 161813,
       "name": "Year Of Decision",
       "url": "https://open.spotify.com/track/3DtoTiWTr4i11DkINqwhoh"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
+        "name": "Closer Than Close",
+        "url": "https://open.spotify.com/album/22nMe2qIFJb85ac51jkn0P"
+      },
+      "artists": [
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        }
+      ],
+      "duration_ms": 356266,
+      "name": "Closer Than Close",
+      "url": "https://open.spotify.com/track/1l96x4p9UmYJSLBiyhMsAI"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -300,9 +384,9 @@
           "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
         }
       ],
-      "duration_ms": 236480,
-      "name": "I Believe in Love",
-      "url": "https://open.spotify.com/track/38xyVKgU4XvfO4LRHIdiJ9"
+      "duration_ms": 298160,
+      "name": "Nobody Could Take Your Place",
+      "url": "https://open.spotify.com/track/4873dV93AQTyB57RMqbVUA"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -316,25 +400,25 @@
           "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
         }
       ],
-      "duration_ms": 314520,
-      "name": "I'M Not In Love",
-      "url": "https://open.spotify.com/track/1i2MdICLNQKYvr7lcc78rw"
+      "duration_ms": 310106,
+      "name": "O-o-h Child",
+      "url": "https://open.spotify.com/track/6oAsrBcTsceOwqH3uHuRzp"
     },
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "Closer Than Close",
-        "url": "https://open.spotify.com/album/22nMe2qIFJb85ac51jkn0P"
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
       },
       "artists": [
         {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 356266,
-      "name": "Closer Than Close",
-      "url": "https://open.spotify.com/track/1l96x4p9UmYJSLBiyhMsAI"
+      "duration_ms": 262040,
+      "name": "The Runner",
+      "url": "https://open.spotify.com/track/1SjVF6AcCFamuErMWI7GQz"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -371,38 +455,6 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "Frantique",
-        "url": "https://open.spotify.com/album/1Xn2SYwx4PCz5v4K9yNSJn"
-      },
-      "artists": [
-        {
-          "name": "Frantique",
-          "url": "https://open.spotify.com/artist/64FQb5lUDKS72l9d8OjDLT"
-        }
-      ],
-      "duration_ms": 476853,
-      "name": "Getting Serious",
-      "url": "https://open.spotify.com/track/08pTWZPpPcAZa4m0NM32jd"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 262040,
-      "name": "The Runner",
-      "url": "https://open.spotify.com/track/1SjVF6AcCFamuErMWI7GQz"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
         "name": "The Spirit's In It",
         "url": "https://open.spotify.com/album/4tUi426JijSTEIRP9Y7A4b"
       },
@@ -415,90 +467,6 @@
       "duration_ms": 225133,
       "name": "Over The Rainbow",
       "url": "https://open.spotify.com/track/24x5q09gVVFNSL4IHsuPcA"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
-        "name": "Living All Alone",
-        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/7Cw9qRzAA9RMH4DxMkg6pr"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/7whWeslKir8S7gwBaijm9h"
-      },
-      "artists": [
-        {
-          "name": "City Limits",
-          "url": "https://open.spotify.com/artist/4ZSMbwCpSHFmHheHHVU98x"
-        }
-      ],
-      "duration_ms": 263160,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/6eQIk2NX87pMrMQ9lpWZUD"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/5inHUsQcyuKptOn7HTvVTY"
-      },
-      "artists": [
-        {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
-        }
-      ],
-      "duration_ms": 296241,
-      "name": "Was That All It Was",
-      "url": "https://open.spotify.com/track/2sf12cmr3qhWY549o3bM2R"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
-        "name": "Happy 'Bout The Whole Thing",
-        "url": "https://open.spotify.com/album/2PBsr2V6Dku16eP1qgY0Rq"
-      },
-      "artists": [
-        {
-          "name": "Dee Dee Sharp",
-          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
-        }
-      ],
-      "duration_ms": 310106,
-      "name": "O-o-h Child",
-      "url": "https://open.spotify.com/track/6oAsrBcTsceOwqH3uHuRzp"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
-        "name": "What Color Is Love",
-        "url": "https://open.spotify.com/album/5zHHNHuj08nKoaoseKTuDF"
-      },
-      "artists": [
-        {
-          "name": "Dee Dee Sharp Gamble",
-          "url": "https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK"
-        },
-        {
-          "name": "Dee Dee Sharp",
-          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
-        }
-      ],
-      "duration_ms": 298160,
-      "name": "Nobody Could Take Your Place",
-      "url": "https://open.spotify.com/track/4873dV93AQTyB57RMqbVUA"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -519,6 +487,22 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
+        "name": "Living All Alone",
+        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/7Cw9qRzAA9RMH4DxMkg6pr"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
         "name": "Phyllis Hyman (Expanded Edition)",
         "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 263920,
       "name": "No One Can Love You More",
       "url": "https://open.spotify.com/track/2npnWoCNxeGzAhjGyTx3V2"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/5inHUsQcyuKptOn7HTvVTY"
+      },
+      "artists": [
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        }
+      ],
+      "duration_ms": 296241,
+      "name": "Was That All It Was",
+      "url": "https://open.spotify.com/track/2sf12cmr3qhWY549o3bM2R"
     }
   ],
   "unique_name": "Women of Philly Soul",

@@ -874,7 +874,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 222400,
       "name": "Daddy DJ",
       "url": "https://open.spotify.com/track/2Rq69o9Sim7evcQ382ylPR"
@@ -2357,6 +2357,32 @@
     },
     {
       "album": {
+        "name": "Oh Fortuna",
+        "url": "https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "SMVGGLERS",
+          "url": "https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM"
+        },
+        {
+          "name": "Henrique Camacho",
+          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170117,
+      "name": "Oh Fortuna - Carmina Burana",
+      "url": "https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev"
+    },
+    {
+      "album": {
         "name": "On My Way (Da Tweekaz Remix)",
         "url": "https://open.spotify.com/album/1ODOCRQWwjfJRqJ34RtrKa"
       },
@@ -3050,7 +3076,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 144020,
       "name": "Superstring - Aftershock Remix",
       "url": "https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2"
@@ -3512,6 +3538,32 @@
       "duration_ms": 164956,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/2XU4sTuAJ882jJnimHyvVZ"
+    },
+    {
+      "album": {
+        "name": "Timmy Trumpet's SINPHONY No. 1",
+        "url": "https://open.spotify.com/album/1QRuYyPWkoxox6RY3bU4T5"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Junkie Kid",
+          "url": "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168919,
+      "name": "WOLFGANG",
+      "url": "https://open.spotify.com/track/7HG413xQYwoR6i8D3ADC7J"
     },
     {
       "album": {

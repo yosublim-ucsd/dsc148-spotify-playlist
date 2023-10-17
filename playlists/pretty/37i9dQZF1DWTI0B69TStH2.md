@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:0fdWtNx0iazarVEaQ30VEE">dezydery</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,286 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,289 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 40 | [Bliskość](https://open.spotify.com/track/02LtTBeEKDKrvDDF6ptJIb) | [13 Drzew](https://open.spotify.com/artist/5wKkFchkpi8Qqs4berwBtY), [Agnieszka Frączyk](https://open.spotify.com/artist/38vX5um9RYWChhKjqTd5Nv) | [Bliskość](https://open.spotify.com/album/3AK4dEAacgWadBBgM4BsIx) | 5:02 |
 | 41 | [Mori](https://open.spotify.com/track/29xyUYeuNP6k8jBlvRvqmY) | [Batme](https://open.spotify.com/artist/4gFF0d85BJ1uBuSKX39F2F), [Julia Fajdek](https://open.spotify.com/artist/7GexQaFp2NfkjRAVpvxgX4) | [Mori](https://open.spotify.com/album/7yh9M9ExWPThSX4Arh2bfB) | 2:52 |
 | 42 | [R E A D Y \(ajaaak\)](https://open.spotify.com/track/1icYrjKeZeCgWuki0yWUkp) | [SMK](https://open.spotify.com/artist/0dd8OV83z8mlyR7VqP32Pz), [Domel](https://open.spotify.com/artist/12gbrSVX0KxyJY2XzsskSr), [F!R](https://open.spotify.com/artist/1JONXnd8fvrpDYXdNNJIaw), [Jhn](https://open.spotify.com/artist/16WNXSjneG6YTDolLh4Y5E), [Gezny](https://open.spotify.com/artist/2taXOHnvOYo6yyVpTEyGNr), [LUKS](https://open.spotify.com/artist/3nKCplNS9CH5EQcVrJFEkB), [KROOL](https://open.spotify.com/artist/6f6ugqqMJtmcmJNgAU4Pvn) | [R E A D Y \(ajaaak\)](https://open.spotify.com/album/4C9s9eMGh4uh2cgf42ODI9) | 4:20 |
-| 43 | [Trucizny i klątwy](https://open.spotify.com/track/6g9NlfKUiyQht0iDJUUKTb) | [Zespół Sztylety](https://open.spotify.com/artist/47F5S77b4ceFnR5V44CDQ0) | [Trucizny i klątwy](https://open.spotify.com/album/4ImofgFZADqANunIXNX2pt) | 3:22 |
+| 43 | [Trucizny i klątwy](https://open.spotify.com/track/7p6F1ujt9riVpjz2i79Yy5) | [Zespół Sztylety](https://open.spotify.com/artist/47F5S77b4ceFnR5V44CDQ0) | [Tak będzie lepiej](https://open.spotify.com/album/3HFIaBpfqHZppjGbnhVnof) | 3:22 |
 | 44 | [Mogłabym być](https://open.spotify.com/track/0kaPmQXkjftitt1R4ToelP) | [IGA](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Mogłabym być](https://open.spotify.com/album/212OGIdKriPupTBwbkYAdZ) | 2:59 |
 | 45 | [Zabierz Mnie](https://open.spotify.com/track/2tS0IdTi9J9vu3tfcOOVTZ) | [Joulie Fox](https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4) | [Zabierz Mnie](https://open.spotify.com/album/0qD54h9gFN5epSb7afA2IL) | 3:33 |
 | 46 | [Owocowy las](https://open.spotify.com/track/7BK43DqtwhOQTd0GSa5sD2) | [Nago](https://open.spotify.com/artist/1SffW2FKbStzVnMBdBwSy6) | [Owocowy las](https://open.spotify.com/album/41is17qYlUhFlqZQIaYI0B) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [No i Ja](https://open.spotify.com/track/02wkHQTxa1xe9Tr2ZLvzNC) | [Martin Englerd](https://open.spotify.com/artist/6fXcT3c6gHOhnS9Omzueb3), [Alia Fay](https://open.spotify.com/artist/592n9jWsXiAHOOQ7OvGrpS) | [No i Ja](https://open.spotify.com/album/3Nh1lJyAsqXKxl3aUBqmOU) | 3:42 |
 | 100 | [fallevermore](https://open.spotify.com/track/60rum6M4swl9BMeuWOTcLR) | [michal](https://open.spotify.com/artist/0MIRE2Gqju2lzgCTYfzm9y) | [fallevermore](https://open.spotify.com/album/4hSRgGyrRIxM4f7YRT6Jtt) | 3:56 |
 
-Snapshot ID: `MCw5ODcyNTZlYTM2NmFlMmZlMTk2OTNlOTVkMTY5ODY4Njk4MGIwYmRm`
+Snapshot ID: `MCw0MGU4YTA1ZDljNjY1M2RhNmFjZDgzM2Q3MzdhMzkwMTNlODEzYzE3`

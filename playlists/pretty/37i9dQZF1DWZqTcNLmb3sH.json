@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Ghost",
-  "num_followers": 54436,
+  "num_followers": 54490,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTFhY2RkZjg2MzE5MjkzZTliYmJkZDg2Mzg5MGI3NjRlODEzNzk1",
+  "snapshot_id": "MCwwMmNiYjUzN2ZmYTJjOWM0NjgwNzg4NDM2OWQ0ZTBhNmI3ZDY4ODFh",
   "tracks": [
     {
       "added_at": "2023-10-12 03:38:35",
@@ -45,6 +45,26 @@
       "url": "https://open.spotify.com/track/1mSsXMpxahNWthXQ5krTYO"
     },
     {
+      "added_at": "2023-10-04 05:39:45",
+      "album": {
+        "name": "Jaggade Kuggade (From \"Ronnie - The Hunter\")",
+        "url": "https://open.spotify.com/album/4QDly0k3QAfPVvOCoSCvCw"
+      },
+      "artists": [
+        {
+          "name": "Vyasraj Sosale",
+          "url": "https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE"
+        },
+        {
+          "name": "Madhwesh Bharadhwaj",
+          "url": "https://open.spotify.com/artist/4JsPGjIZbjFSQZ8BSTBifu"
+        }
+      ],
+      "duration_ms": 233413,
+      "name": "Jaggade Kuggade (From \"Ronnie - The Hunter\")",
+      "url": "https://open.spotify.com/track/3JPqLECC7amVkYrxUsMDpK"
+    },
+    {
       "added_at": "2023-10-12 13:40:46",
       "album": {
         "name": "Sugar Factory (Original Motion Picture Soundtrack)",
@@ -67,6 +87,26 @@
       "duration_ms": 262512,
       "name": "Jahapanah",
       "url": "https://open.spotify.com/track/1hIToKt93BWgWbrR8dzfHi"
+    },
+    {
+      "added_at": "2023-10-16 05:06:16",
+      "album": {
+        "name": "B A Gandu (from \"Rajayoga\")",
+        "url": "https://open.spotify.com/album/2cRRLDT7lxA11kadMPrKYq"
+      },
+      "artists": [
+        {
+          "name": "J. Anoop Seelin",
+          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
+        },
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        }
+      ],
+      "duration_ms": 204526,
+      "name": "B A Gandu (from\"Rajayoga\")",
+      "url": "https://open.spotify.com/track/56fdzN5Dp2IJPqs8Z1JTTT"
     },
     {
       "added_at": "2023-09-12 08:17:16",
@@ -145,24 +185,28 @@
       "url": "https://open.spotify.com/track/1JrDXA4JX0tPZjsqsvyddK"
     },
     {
-      "added_at": "2023-10-04 05:39:45",
+      "added_at": "2023-10-16 05:40:07",
       "album": {
-        "name": "Jaggade Kuggade (From \"Ronnie - The Hunter\")",
-        "url": "https://open.spotify.com/album/4QDly0k3QAfPVvOCoSCvCw"
+        "name": "Gorukana Gaana (From \"Kaalapatthar\")",
+        "url": "https://open.spotify.com/album/5mK9fJJRvcgLHAEqF1l1Xg"
       },
       "artists": [
         {
-          "name": "Vyasraj Sosale",
-          "url": "https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE"
+          "name": "Shivani Naveen",
+          "url": "https://open.spotify.com/artist/7CfAjNeEwzBDVuMTVHrJdf"
         },
         {
-          "name": "Madhwesh Bharadhwaj",
-          "url": "https://open.spotify.com/artist/4JsPGjIZbjFSQZ8BSTBifu"
+          "name": "J. Anoop Seelin",
+          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
+        },
+        {
+          "name": "DR. V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0YQkMxPEgpSEn9QX6XtGJ9"
         }
       ],
-      "duration_ms": 233413,
-      "name": "Jaggade Kuggade (From \"Ronnie - The Hunter\")",
-      "url": "https://open.spotify.com/track/3JPqLECC7amVkYrxUsMDpK"
+      "duration_ms": 204394,
+      "name": "Gorukana Gaana - From \"Kaalapatthar\"",
+      "url": "https://open.spotify.com/track/1TOJjeA0mp2yL05om9MoXr"
     },
     {
       "added_at": "2023-10-13 07:11:45",
@@ -187,6 +231,26 @@
       "duration_ms": 273230,
       "name": "Ene Sikthu Malli Ninge (From \"Hejjaru\")",
       "url": "https://open.spotify.com/track/6XaUnemvzyduP2zzFXifsV"
+    },
+    {
+      "added_at": "2023-10-16 06:06:21",
+      "album": {
+        "name": "Yaar Evalu (From \"Cicada\")",
+        "url": "https://open.spotify.com/album/3fepkwhTkWNIytKoTL4cmP"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Sreejith Edavana",
+          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
+        }
+      ],
+      "duration_ms": 284159,
+      "name": "Yaar Evalu (From \"Cicada\")",
+      "url": "https://open.spotify.com/track/34RXp1yXRqCbfn2iqQSEDQ"
     },
     {
       "added_at": "2023-09-20 12:59:03",
@@ -1385,30 +1449,6 @@
       "url": "https://open.spotify.com/track/0yHzqW7WqWiLI7kSq3Bc6x"
     },
     {
-      "added_at": "2023-08-30 12:19:27",
-      "album": {
-        "name": "Nannolave Kelu (From \"Vicky\")",
-        "url": "https://open.spotify.com/album/4fbpz1Diy0lfMWUtf8UJfC"
-      },
-      "artists": [
-        {
-          "name": "Vishalraj Kokila",
-          "url": "https://open.spotify.com/artist/1qxZXleX6LX8fPtl4Yy0d9"
-        },
-        {
-          "name": "Loy Valentine Saldanha",
-          "url": "https://open.spotify.com/artist/0eDjsNPGFH0NP2duPqimLq"
-        },
-        {
-          "name": "Rajeeth Kadri",
-          "url": "https://open.spotify.com/artist/3kXb9MZNR0NIbpKIZ8fLB8"
-        }
-      ],
-      "duration_ms": 281647,
-      "name": "Nannolave Kelu - From \"Vicky\"",
-      "url": "https://open.spotify.com/track/1TMZ8h9ivrdoDIKN7vkWdC"
-    },
-    {
       "added_at": "2023-08-17 11:39:57",
       "album": {
         "name": "Kushi (Original Motion Picture Soundtrack)",
@@ -1451,38 +1491,6 @@
       "duration_ms": 250670,
       "name": "Ayyo Daivave",
       "url": "https://open.spotify.com/track/70piqkMPBgUEWri7x9ZoAB"
-    },
-    {
-      "added_at": "2023-08-24 13:43:18",
-      "album": {
-        "name": "Anna From Mexico Theme Music (From \"Anna From Mexico\")",
-        "url": "https://open.spotify.com/album/0S6PTwkCcOssG17kDoNCex"
-      },
-      "artists": [
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        }
-      ],
-      "duration_ms": 79062,
-      "name": "Anna From Mexico Theme Music (From \"Anna From Mexico\")",
-      "url": "https://open.spotify.com/track/4qyZzJdBO488eitGRUaWCE"
-    },
-    {
-      "added_at": "2023-08-29 05:10:47",
-      "album": {
-        "name": "Partner",
-        "url": "https://open.spotify.com/album/3WJViFMxtn4FV845bSRYsn"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
-        }
-      ],
-      "duration_ms": 194539,
-      "name": "Ee Kanna Kadala Olage",
-      "url": "https://open.spotify.com/track/0mcF5NDqA3o5EtZV41EQ6p"
     },
     {
       "added_at": "2023-08-18 14:58:09",

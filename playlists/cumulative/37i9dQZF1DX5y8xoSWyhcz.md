@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,123 songs - 2 day 9 hr 37 min
+1,124 songs - 2 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [In My Dreams](https://open.spotify.com/track/5TbK093FtYeUq1HDDb4hNq) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [In My Dreams](https://open.spotify.com/album/0z90jVPCmX75274NuNx0RL) | 2:19 | 2021-10-16 | 2022-01-08 |
 | [in my dreams.](https://open.spotify.com/track/0s6sxvoH0PQeqF3EAxWNQC) | [Wander All Winter.](https://open.spotify.com/artist/0s6YDxpGpZ3UltZhGEYEJm), [Joshua Mine](https://open.spotify.com/artist/0TkO3rxGMiOiivMNLxFCJq) | [in my dreams.](https://open.spotify.com/album/6k84Ya7LAcNmUaqJTfKt40) | 3:11 | 2021-05-15 | 2021-05-29 |
 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 | 2021-10-02 | 2022-01-29 |
+| [In My Room](https://open.spotify.com/track/7lhAowB1rRlp1UfVkHqpD2) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:13 | 2023-10-16 |  |
 | [In Or In\-Between \(Remix\)](https://open.spotify.com/track/6dGPZFOXEAtTeTt98g8Qgn) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx), [Jesse](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [In Or In\-Between \(Remix\)](https://open.spotify.com/album/7q6NYmqtJPUX8oQmbePCmY) | 3:08 | 2021-09-11 | 2021-10-23 |
 | [in the darkness](https://open.spotify.com/track/2zxe1bIcH0mHSMwuc9Fh1k) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 3:29 | 2021-09-11 | 2022-01-22 |
 | [In Your Body](https://open.spotify.com/track/2VRJKXrqR4ztn6WgJ28R9r) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [In Your Body](https://open.spotify.com/album/3esx5NZ3vrZ3bWkurnWRmX) | 3:23 | 2022-02-18 | 2022-07-16 |
@@ -659,7 +660,7 @@
 | [Move Me](https://open.spotify.com/track/0vrGg6n72wLwgv32jeewgi) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Give Me Your Shoulders, Pt\. 1](https://open.spotify.com/album/07Ac7q2KMqblFcVfyWPmig) | 3:36 | 2022-02-11 | 2022-06-11 |
 | [MOVE ON TOO](https://open.spotify.com/track/5CIj9ZlzKdRbI7ng3UIyLd) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [MOVE ON TOO](https://open.spotify.com/album/0HkXG5hjekz7RitSjlyOpZ) | 3:43 | 2021-11-27 | 2022-04-09 |
 | [moving on \(feat\. Khary\)](https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi), [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [moving on / sugarhoneyiceicetea](https://open.spotify.com/album/6bKEgno07WC8rhuhSwMb8n) | 2:59 | 2023-05-05 |  |
-| [moving song](https://open.spotify.com/track/1PZl6YAnHPyR2wcloffA7R) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [moving song](https://open.spotify.com/album/5wIrtoTzqzi4gx8zyXkZWh) | 2:45 | 2022-07-15 |  |
+| [moving song](https://open.spotify.com/track/1PZl6YAnHPyR2wcloffA7R) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [moving song](https://open.spotify.com/album/5wIrtoTzqzi4gx8zyXkZWh) | 2:45 | 2022-07-15 | 2023-10-17 |
 | [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 | 2022-03-04 | 2022-08-06 |
 | [MY BABY](https://open.spotify.com/track/5fhG9qvVeIHfjWiSDsbiNM) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [MY BABY](https://open.spotify.com/album/5TAKlhxD35Mk8BcduZtIkM) | 3:06 | 2023-03-31 | 2023-07-29 |
 | [My Body ft Your Lips](https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:53 | 2023-09-15 |  |

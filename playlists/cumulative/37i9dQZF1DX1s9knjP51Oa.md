@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-720 songs - 1 day 6 hr 50 min
+722 songs - 1 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Edgar's Garden](https://open.spotify.com/track/4AgEOcwJpmtE2fqhyqUIA8) | [Mark Lieder](https://open.spotify.com/artist/3XabrLwWwxIntz6A6X9naj) | [Edgar's Garden](https://open.spotify.com/album/4d6jOSCNJtDThR0H6JV6cI) | 3:10 | 2022-07-21 |  |
 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 | 2022-01-04 | 2023-09-26 |
 | [Elixir](https://open.spotify.com/track/0kCN1NYNHTB39vgjcv7Sqx) | [Nia Glynn](https://open.spotify.com/artist/6qHUfCJ0xqPOXDYb3Vg1FM) | [Elixir](https://open.spotify.com/album/56s40KLEPYSTnC8J5w30di) | 2:27 | 2021-12-13 | 2022-01-05 |
+| [Elysian](https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Elysian](https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ) | 2:19 | 2023-10-16 |  |
 | [Ember Walk](https://open.spotify.com/track/7Iq0ZUPmHIqREIW6YW1MY8) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Ember Walk](https://open.spotify.com/album/5zvCB2Y4vMviQhVQt3iKFL) | 1:49 | 2022-10-24 | 2023-08-22 |
 | [Embrace Me](https://open.spotify.com/track/4XcCAB5G21D6BZzobQBZMw) | [Carin Florie](https://open.spotify.com/artist/3C44BudashQHdoz23fsob9) | [Embrace Me](https://open.spotify.com/album/4YXJXGBIA9TZpMBPgoewGt) | 2:36 | 2023-02-20 |  |
 | [Emerald Enlightenment](https://open.spotify.com/track/4uoJsS8jQmsHmdoORGzxh0) | [Aramis Morel](https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4) | [Emerald Enlightenment](https://open.spotify.com/album/26dTk7VugnkScRBYCv8s2W) | 1:39 | 2023-01-20 | 2023-06-27 |
@@ -546,6 +547,7 @@
 | [September Sun](https://open.spotify.com/track/3aJ8BLnUcoLpBavcg8AM3O) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [September Sun](https://open.spotify.com/album/5fmbZAskrtQhtpoTiBWNMQ) | 2:23 | 2022-11-21 |  |
 | [Sequoia](https://open.spotify.com/track/0w5Kd5Vqg37VZupZCEZVhi) | [Amos Coelllo](https://open.spotify.com/artist/2YbV6GhzqjW9j2ebq8ua5X) | [Sequoia](https://open.spotify.com/album/6cczip33Jhl51tkYf5tS8E) | 2:46 | 2021-12-13 | 2022-11-12 |
 | [Serenade](https://open.spotify.com/track/4eOuwMCVbEnUx6O7rjsoKw) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Serenade](https://open.spotify.com/album/2Y8wMNppPqzJcntikfChbK) | 2:41 | 2022-10-04 |  |
+| [Serene](https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Serene](https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov) | 2:26 | 2023-10-16 |  |
 | [Serenity](https://open.spotify.com/track/2I9qjveKy0l2SqyDb1F9jj) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Mansellastica](https://open.spotify.com/album/57UbkSTXlX14SUDc7yakvx) | 3:49 | 2021-12-13 | 2022-05-27 |
 | [Serenity](https://open.spotify.com/track/2yh46DDBBxoDN45rCH8nBt) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [Retrospection](https://open.spotify.com/album/2TTPCvN55NHOr95q89qmpa) | 2:55 | 2021-12-13 | 2022-07-22 |
 | [Serre moi](https://open.spotify.com/track/2J2YbfMi4b49wVRM0lA2Jt) | [Mainfred Arthur](https://open.spotify.com/artist/5VoUklN2MckOEW7KeF3H4P) | [Serre moi](https://open.spotify.com/album/6hZux9ZZSBKeTAgbtFvmM9) | 2:25 | 2021-12-13 | 2023-05-04 |

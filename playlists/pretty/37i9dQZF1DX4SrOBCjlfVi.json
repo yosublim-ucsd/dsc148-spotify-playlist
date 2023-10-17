@@ -1,12 +1,12 @@
 {
   "description": "All the New Joints featuring Offset, Ice Spice, and more. Cover: DaBaby",
-  "num_followers": 235866,
+  "num_followers": 235965,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjgxYzAzNzE2MjllZjg3NjU1YTdmNDI4MzA4NzVlMWIwZjM5Mjg5",
+  "snapshot_id": "MCwzMWE1NGE3NGEwMzMwMzFkOTA0Zjc1MjU4NzkxN2MxYzYzYTBkYTYy",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -43,6 +43,26 @@
       "duration_ms": 207133,
       "name": "From A Man",
       "url": "https://open.spotify.com/track/3CUMd8XMv3LBSLrDrKoXQE"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Glizock & Wizop (feat. Key Glock)",
+        "url": "https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 192508,
+      "name": "Glizock & Wizop (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -119,26 +139,6 @@
       "duration_ms": 377466,
       "name": "HEAVEN'S GALAXY",
       "url": "https://open.spotify.com/track/1iUlclkUb1sXcmrDqfQkIH"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Glizock & Wizop (feat. Key Glock)",
-        "url": "https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 192508,
-      "name": "Glizock & Wizop (feat. Key Glock)",
-      "url": "https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0"
     },
     {
       "added_at": "2023-10-13 04:00:00",

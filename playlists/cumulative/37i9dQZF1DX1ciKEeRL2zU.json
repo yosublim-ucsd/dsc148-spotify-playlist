@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "All the Noise",
+        "url": "https://open.spotify.com/album/7wi4SEBg116K9mEX5x4I2D"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249520,
+      "name": "All the Noise",
+      "url": "https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d"
+    },
+    {
+      "album": {
         "name": "Ndim Nawe",
         "url": "https://open.spotify.com/album/57KvERWvmhZrvwEphJVwdw"
       },
@@ -78,7 +96,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 278133,
       "name": "Allow",
       "url": "https://open.spotify.com/track/3GO9CVRhEpksVFi3QeplQt"
@@ -556,7 +574,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 293593,
       "name": "Ghanama",
       "url": "https://open.spotify.com/track/0AZxr9dlswnn6TNxIMyijH"
@@ -882,7 +900,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 215716,
       "name": "let it go,",
       "url": "https://open.spotify.com/track/4Atca39I6C2YVIUQDBPayi"
@@ -900,7 +918,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 247718,
       "name": "Lilizela",
       "url": "https://open.spotify.com/track/41TtI0J1rOyGARRCWHHOhr"
@@ -1502,7 +1520,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 396506,
       "name": "Siyathandana",
       "url": "https://open.spotify.com/track/1NaxpfTsKPGG3Dpw6Fnv35"

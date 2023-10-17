@@ -1,12 +1,12 @@
 {
   "description": "Un viaje musical por nuestras ra\u00edces prehisp\u00e1nicas. ",
-  "num_followers": 6294,
+  "num_followers": 6309,
   "original_name": "Pueblos Ind\u00edgenas: Legado Musical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjRiM2EzZWQ4MjUwOTg4NjE0NDE4MDRhNDhkZGI2MzFjYmIxYjMz",
+  "snapshot_id": "MCxjZmE5NWMzMjZlZjJhZDQ0YmExY2YxMjk1ZTEyNzI1MTlkOTBlZWNm",
   "tracks": [
     {
       "added_at": "2021-09-09 23:30:28",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "Codex - Music of Ancient Mexico",
-        "url": "https://open.spotify.com/album/1gKi3KeZeazp6ZkfF9J8Kl"
-      },
-      "artists": [
-        {
-          "name": "Xavier Quijas Yxayotl",
-          "url": "https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f"
-        }
-      ],
-      "duration_ms": 227346,
-      "name": "Nightingale. Music for the Moon and Stars.",
-      "url": "https://open.spotify.com/track/0yP6HplG4dzIFpM9pbcdGe"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
         "name": "Mexihkateokwikameh, Sacred Songs Of The Aztecs",
         "url": "https://open.spotify.com/album/2AlrMT4U2E0P5MkeCz8oMt"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 137173,
       "name": "Venadito Azul",
       "url": "https://open.spotify.com/track/67V2u9yDO1PDFjbDC0QVVV"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
+        "name": "Codex - Music of Ancient Mexico",
+        "url": "https://open.spotify.com/album/1gKi3KeZeazp6ZkfF9J8Kl"
+      },
+      "artists": [
+        {
+          "name": "Xavier Quijas Yxayotl",
+          "url": "https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f"
+        }
+      ],
+      "duration_ms": 227346,
+      "name": "Nightingale. Music for the Moon and Stars.",
+      "url": "https://open.spotify.com/track/0yP6HplG4dzIFpM9pbcdGe"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -187,6 +187,22 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
+        "name": "M\u00fasica Prehisp\u00e1nica",
+        "url": "https://open.spotify.com/album/3L77fvfVOeXewbthEeBA6Z"
+      },
+      "artists": [
+        {
+          "name": "Jorge Reyes",
+          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "The New Fire",
+      "url": "https://open.spotify.com/track/0lKCvq7aFDYWU61XdATG3Z"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
         "name": "Toro Pinto: M\u00fasica Pur\u00e9pecha (Abaje\u00f1os / Pir\u00e9kuas / Sones)",
         "url": "https://open.spotify.com/album/1k66pcKIunyfB7Zm0sHECs"
       },
@@ -235,8 +251,24 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "M\u00fasica Prehisp\u00e1nica",
-        "url": "https://open.spotify.com/album/3L77fvfVOeXewbthEeBA6Z"
+        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
+        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
+      },
+      "artists": [
+        {
+          "name": "Banda Laser",
+          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Male Chabelita",
+      "url": "https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
+        "name": "Prehispanic Music",
+        "url": "https://open.spotify.com/album/0wYjSe3KWirJC0F1OPNu3A"
       },
       "artists": [
         {
@@ -244,25 +276,9 @@
           "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
         }
       ],
-      "duration_ms": 165773,
-      "name": "The New Fire",
-      "url": "https://open.spotify.com/track/0lKCvq7aFDYWU61XdATG3Z"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
-        "name": "Ipan In Xiktli Metztli (M\u00e9xico M\u00e1gico C\u00f3smico, en el Ombligo de la Luna)",
-        "url": "https://open.spotify.com/album/1JGPFMYRAY6O9jknUAPc5N"
-      },
-      "artists": [
-        {
-          "name": "Luis Perez",
-          "url": "https://open.spotify.com/artist/7jDLx2fin0vmknY3hIS1tS"
-        }
-      ],
-      "duration_ms": 200746,
-      "name": "Suite al Culto Solar - In Altepetl Tonal",
-      "url": "https://open.spotify.com/track/71QCom1QzTOtxQdyBII4Ii"
+      "duration_ms": 172826,
+      "name": "Feast In the Mountain",
+      "url": "https://open.spotify.com/track/11sAlVf9tnf4A1JfUuPGas"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -283,18 +299,18 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
-        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
+        "name": "Ipan In Xiktli Metztli (M\u00e9xico M\u00e1gico C\u00f3smico, en el Ombligo de la Luna)",
+        "url": "https://open.spotify.com/album/1JGPFMYRAY6O9jknUAPc5N"
       },
       "artists": [
         {
-          "name": "Banda Laser",
-          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
+          "name": "Luis Perez",
+          "url": "https://open.spotify.com/artist/7jDLx2fin0vmknY3hIS1tS"
         }
       ],
-      "duration_ms": 217320,
-      "name": "Male Chabelita",
-      "url": "https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR"
+      "duration_ms": 200746,
+      "name": "Suite al Culto Solar - In Altepetl Tonal",
+      "url": "https://open.spotify.com/track/71QCom1QzTOtxQdyBII4Ii"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -335,24 +351,8 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "Aztec Dances",
-        "url": "https://open.spotify.com/album/19Ae9UiDrpjn15PFMKN1bd"
-      },
-      "artists": [
-        {
-          "name": "Xavier Quijas Yxayotl",
-          "url": "https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f"
-        }
-      ],
-      "duration_ms": 283906,
-      "name": "Copal Offering To The Four Directions",
-      "url": "https://open.spotify.com/track/5iH1bBa3WRWuVeMvn0jR2M"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
-        "name": "Prehispanic Music",
-        "url": "https://open.spotify.com/album/0wYjSe3KWirJC0F1OPNu3A"
+        "name": "Rituales Prehispanicos (Prehispanic Rituals)[Mexican Music]",
+        "url": "https://open.spotify.com/album/4UZi4TB1686JKiKdoegwhY"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
         }
       ],
-      "duration_ms": 172826,
-      "name": "Feast In the Mountain",
-      "url": "https://open.spotify.com/track/11sAlVf9tnf4A1JfUuPGas"
+      "duration_ms": 214706,
+      "name": "Tlazolteotl",
+      "url": "https://open.spotify.com/track/5PyRkSx7BtEgUwhn7Ty2DX"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -383,18 +383,18 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "Rituales Prehispanicos (Prehispanic Rituals)[Mexican Music]",
-        "url": "https://open.spotify.com/album/4UZi4TB1686JKiKdoegwhY"
+        "name": "Aztec Dances",
+        "url": "https://open.spotify.com/album/19Ae9UiDrpjn15PFMKN1bd"
       },
       "artists": [
         {
-          "name": "Jorge Reyes",
-          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
+          "name": "Xavier Quijas Yxayotl",
+          "url": "https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f"
         }
       ],
-      "duration_ms": 214706,
-      "name": "Tlazolteotl",
-      "url": "https://open.spotify.com/track/5PyRkSx7BtEgUwhn7Ty2DX"
+      "duration_ms": 283906,
+      "name": "Copal Offering To The Four Directions",
+      "url": "https://open.spotify.com/track/5iH1bBa3WRWuVeMvn0jR2M"
     },
     {
       "added_at": "2021-09-09 23:30:28",

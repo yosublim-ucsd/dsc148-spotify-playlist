@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Gardna ",
-  "num_followers": 199198,
+  "num_followers": 199224,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjk1Mzg1ZmU2OTgxNThiYjJiMGRlYzFjOTc0ZDNhYzA2MjMzOGRh",
+  "snapshot_id": "MCxhOTMyM2Q5OTZiYmRiZjY4NTBkMzljMTIzNTU4MDQ0MmRmZjNkNmQ4",
   "tracks": [
     {
       "added_at": "2023-10-13 13:44:50",
@@ -827,26 +827,6 @@
     {
       "added_at": "2023-10-13 13:44:50",
       "album": {
-        "name": "Party Right / Snake Charmer",
-        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Logan_olm",
-          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
-        }
-      ],
-      "duration_ms": 216715,
-      "name": "Party Right",
-      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
-    },
-    {
-      "added_at": "2023-10-13 13:44:50",
-      "album": {
         "name": "Leng Club, Vol. 1",
         "url": "https://open.spotify.com/album/1KHoOpJC09N123fcp0W1Ej"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 277000,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/2kMOrYZoQRqqzmlnifAqrQ"
+    },
+    {
+      "added_at": "2023-10-13 13:44:50",
+      "album": {
+        "name": "Party Right / Snake Charmer",
+        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "duration_ms": 216715,
+      "name": "Party Right",
+      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
     },
     {
       "added_at": "2023-10-13 13:44:50",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-10-13 13:44:50",
       "album": {
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
+    },
+    {
+      "added_at": "2023-10-13 13:44:50",
+      "album": {
         "name": "Affiliation",
         "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
       },
@@ -1015,26 +1031,6 @@
       "duration_ms": 190437,
       "name": "Affiliation",
       "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
-    },
-    {
-      "added_at": "2023-10-13 13:44:50",
-      "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Reigns",
-          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
-        }
-      ],
-      "duration_ms": 169385,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
     },
     {
       "added_at": "2023-10-13 13:44:50",
@@ -1059,22 +1055,6 @@
       "duration_ms": 257390,
       "name": "This Sound",
       "url": "https://open.spotify.com/track/5sQoVIKIgJnPkjZoq42AhX"
-    },
-    {
-      "added_at": "2023-10-13 13:44:50",
-      "album": {
-        "name": "Faith In Chaos",
-        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
     },
     {
       "added_at": "2023-10-13 13:44:50",
@@ -1135,6 +1115,26 @@
     {
       "added_at": "2023-10-13 13:44:50",
       "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Reigns",
+          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
+        }
+      ],
+      "duration_ms": 169385,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
+    },
+    {
+      "added_at": "2023-10-13 13:44:50",
+      "album": {
         "name": "Surgery",
         "url": "https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr"
       },
@@ -1151,6 +1151,26 @@
       "duration_ms": 129625,
       "name": "Surgery",
       "url": "https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK"
+    },
+    {
+      "added_at": "2023-10-13 13:44:50",
+      "album": {
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        }
+      ],
+      "duration_ms": 221024,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8"
     },
     {
       "added_at": "2023-10-13 13:44:50",
@@ -1231,26 +1251,6 @@
     {
       "added_at": "2023-10-13 13:44:50",
       "album": {
-        "name": "Faith In Chaos",
-        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Window Kid",
-          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
-        }
-      ],
-      "duration_ms": 221024,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8"
-    },
-    {
-      "added_at": "2023-10-13 13:44:50",
-      "album": {
         "name": "Barrington / Bodies",
         "url": "https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk"
       },
@@ -1263,6 +1263,22 @@
       "duration_ms": 221818,
       "name": "Barrington",
       "url": "https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii"
+    },
+    {
+      "added_at": "2023-10-13 13:44:50",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
     },
     {
       "added_at": "2023-10-13 13:44:50",
@@ -1303,22 +1319,6 @@
       "duration_ms": 169846,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO"
-    },
-    {
-      "added_at": "2023-10-13 13:44:50",
-      "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
-      },
-      "artists": [
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
     },
     {
       "added_at": "2023-10-13 13:44:50",

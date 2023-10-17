@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 
 > Solfeggio tones to harmonise & synchronise
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,038 likes - 57 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,099 likes - 57 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 | 56 | [852 Hz \- Tides of Eternity](https://open.spotify.com/track/3sJAIjDGGlVnRCvjJRAmHA) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Tides of Eternity](https://open.spotify.com/album/6WgkixEENAU8DXDGjquVRo) | 1:52 |
 | 57 | [Borders 852 Hz](https://open.spotify.com/track/7z8XqddZ2pvWKhEdmUbn5l) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Frame of Frequencies](https://open.spotify.com/album/2ADv7aRLplDrzNQVmQyDGd) | 3:38 |
 
-Snapshot ID: `MCxiYTFhNzU3NDlmMGQ5Nzc3ZjQ2ODE0NjU4OTQ0MmJiYzA0M2M5MDFm`
+Snapshot ID: `MCw5NDE2MzFkZTZjNmFhM2ZhYjRkOGRlYjA3MDYxNTA0MTA3NWU5NzBk`

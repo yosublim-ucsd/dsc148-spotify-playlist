@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: Ice Nine Kills
 
-4,804 songs - 13 day 13 hr 49 min
+4,805 songs - 13 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3342,6 +3342,7 @@
 | [Return to Sender](https://open.spotify.com/track/68esj1yAcGHSMSQExxjqCy) | [Avhath](https://open.spotify.com/artist/18Oc9nuhdMhI1AHsciD1xu) | [Return to Sender](https://open.spotify.com/album/14qmoVI93O6PFrQ1mx2V1m) | 9:54 | 2023-03-10 | 2023-03-18 |
 | [Return to the Land of Light](https://open.spotify.com/track/0Emk8sW23KfDwqP1fFfpA7) | [Veonity](https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH) | [Elements of Power](https://open.spotify.com/album/3KVsdtxgGQN5hKi0AWqU0A) | 3:45 | 2022-02-17 | 2022-03-04 |
 | [Return to the Void](https://open.spotify.com/track/5K9IqWLjj40n5vAfN3f0Vh) | [Shape Of Despair](https://open.spotify.com/artist/7Dw0RaAayqoGd0z2oHT4R6) | [Return to the Void](https://open.spotify.com/album/59w4hQFZKTrDWymuXDPQdn) | 9:13 | 2022-02-25 | 2022-03-11 |
+| [Revelation](https://open.spotify.com/track/0cWQy0wDjVJbuUDDZabWfu) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Revelation](https://open.spotify.com/album/3IZrMNBLyFuhJYlVRgPdhD) | 4:13 | 2023-10-16 |  |
 | [Revelation Denied](https://open.spotify.com/track/49CdpNqdhe8wFBHxUpNqTH) | [Intoxicated](https://open.spotify.com/artist/6mloZ1De5nFjLFLWfXFxEV) | [Revelation Denied](https://open.spotify.com/album/3CbBZoRrHN1yBvdfkDWysG) | 3:29 | 2022-02-17 | 2022-03-04 |
 | [Revive Me](https://open.spotify.com/track/3qvG0VKzlNZznFBQ8JQEVE) | [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [Revive Me](https://open.spotify.com/album/1iK4W0eInY34QXeodJTZHP) | 2:41 | 2023-01-20 | 2023-01-28 |
 | [Reviving The Dark Lord Just To Erase Their Existence](https://open.spotify.com/track/07N0k7OOsp8RtkXOP0kj7J) | [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4), [Sam Astaroth](https://open.spotify.com/artist/1o0GRQIAWoqj1XL3xLbO1Q), [Sneaky Haxor](https://open.spotify.com/artist/6Y1F2OvVhwM4jqBgnSxByi) | [Reviving The Dark Lord Just To Erase Their Existence](https://open.spotify.com/album/4dkwWHjNyKPxpn3m6ZOKAx) | 2:51 | 2023-04-14 | 2023-04-22 |

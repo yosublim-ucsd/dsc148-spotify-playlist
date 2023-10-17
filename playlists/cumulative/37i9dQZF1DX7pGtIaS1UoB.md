@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-309 songs - 18 hr 23 min
+310 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [ANYTHING YOU WANT \- Duet Version](https://open.spotify.com/track/4QpK3n9kidFcEHU4rBfLoi) | [Tifa Chen](https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW), [吳宇恆](https://open.spotify.com/artist/45bOOG6ExnhMFBjKLZNZ2M) | [ANYTHING YOU WANT \(Duet Version\)](https://open.spotify.com/album/0AWl8bgcO3k3uuT8kiOiXr) | 3:17 | 2022-06-13 | 2022-07-21 |
 | [B with U\(《隔離後見個面,好嗎?》片頭曲\)](https://open.spotify.com/track/4kgb0sJneRMjRPMWHqIBEO) | [Zing](https://open.spotify.com/artist/3nd2krSPtjMBeEbkpzHloW) | [Zing A Song](https://open.spotify.com/album/03MLJrBD85VgFeW5GdvgJf) | 3:09 | 2022-06-06 | 2022-07-09 |
 | [Baby I Love You](https://open.spotify.com/track/7Cq5fL4HxgcOKIA7P2z64C) | [Yuta Hashimoto](https://open.spotify.com/artist/2agdXEyDwXcPYUklzmGV0l), [劉人語](https://open.spotify.com/artist/4Azl1sNQoUntardC0dI9xN) | [Baby I Love You](https://open.spotify.com/album/6dpEEIjoYDAbANMkFT984J) | 4:40 | 2022-06-06 | 2022-07-21 |
+| [BACK TO YOU](https://open.spotify.com/track/54vjqSoR0cfO7nGKNvZS5o) | [Laurence Larson](https://open.spotify.com/artist/4tR0tAbQcn21pbA1DmVndw) | [WANNA BE WITH YOU](https://open.spotify.com/album/1Fz3IuaEUglZrDfh7Ylwpm) | 3:12 | 2023-10-16 |  |
 | [Cappuccino](https://open.spotify.com/track/7dXdcK5hFBKDITomqjW3U2) | [PINK FUN](https://open.spotify.com/artist/00cxLg9WhGOmZKMNI7fnnW) | [Cappuccino](https://open.spotify.com/album/5GSFZurxEZUNSQZ0clSvil) | 3:16 | 2022-12-13 | 2022-12-20 |
 | [Crush on You](https://open.spotify.com/track/1Px6GqkS5SvAiVtx902av5) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [還原](https://open.spotify.com/album/7DxCILyrU4E6TabC9Bt4lI) | 3:07 | 2022-06-27 | 2022-07-26 |
 | [Dadi \(feat\. Vera Chai\)](https://open.spotify.com/track/7bZjpW7r2Bf2QLXyeUFaen) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [Vera Chai](https://open.spotify.com/artist/5kVplRVD7ap9f1dpWln6Mf) | [Dadi \(feat\. Vera Chai\)](https://open.spotify.com/album/7zDsEOFLq0SJ3CmNadx2ps) | 2:44 | 2022-06-06 | 2022-07-27 |
@@ -30,7 +31,7 @@
 | [Let me love u](https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Take Off \- The 1st Mini Album](https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL) | 3:46 | 2022-07-25 |  |
 | [Lipstick](https://open.spotify.com/track/0xNt7H35xQGckARubdX2pR) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT) | [Lipstick](https://open.spotify.com/album/4yJ2xM0pYjViEDZnFwP5PK) | 2:34 | 2022-06-06 | 2022-07-21 |
 | [Little Present](https://open.spotify.com/track/0YWDf9aiF23GCGCmZXteZ3) | [Zooey Wonder](https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD) | [Little Present](https://open.spotify.com/album/5n1aatMPEnYrX3KDFcORjE) | 3:45 | 2022-12-19 | 2023-02-03 |
-| [Look at My Way](https://open.spotify.com/track/1qu5B8FbgwKZCLZXTRCrFk) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Sent](https://open.spotify.com/album/41wLtMsBB3697P5K2KtZsR) | 3:49 | 2023-10-08 |  |
+| [Look at My Way](https://open.spotify.com/track/1qu5B8FbgwKZCLZXTRCrFk) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Sent](https://open.spotify.com/album/41wLtMsBB3697P5K2KtZsR) | 3:49 | 2023-10-08 | 2023-10-17 |
 | [LOVE U](https://open.spotify.com/track/4WMtqsI7PJHr06JhaCVdPe) | [齊晨](https://open.spotify.com/artist/6FgvbauqkRDLhAB6Jv8HWK) | [LOVE U](https://open.spotify.com/album/3Dai6zQWjLo9Bygbq4wa2G) | 4:22 | 2022-06-13 | 2022-07-05 |
 | [LOVE YOU](https://open.spotify.com/track/1rzLrlJ3dB0OYODelxaRQY) | [C.T.O](https://open.spotify.com/artist/7lcIiKfgKb19JCpm16acIQ) | [LOVE YOU](https://open.spotify.com/album/7mrM3Ixy1Ui3wXBxEadmE2) | 3:34 | 2022-06-20 | 2022-07-07 |
 | [Love you till I die](https://open.spotify.com/track/20ysHIsiNC08vzhhHE9p8O) | [黃號](https://open.spotify.com/artist/0RVEZgV5JHf5UR8ywnIYrA), [曾薀帆](https://open.spotify.com/artist/7J7oIdrlpxuIXXkfT0FmOD) | [為你唱情歌 \- Love you till I die](https://open.spotify.com/album/2tX0HTJYDGSLwNSVO0Qt1T) | 3:22 | 2022-11-08 | 2022-12-28 |

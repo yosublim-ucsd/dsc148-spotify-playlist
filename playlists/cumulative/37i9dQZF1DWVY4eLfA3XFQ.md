@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Idris Elba & Sasha GiGi
 
-1,300 songs - 3 day 2 hr 39 min
+1,301 songs - 3 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Amor](https://open.spotify.com/track/160zbysYKia7DpELpVS0DW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ) | 2:35 | 2022-04-26 | 2022-04-29 |
 | [Annihilator](https://open.spotify.com/track/58kLQbV9LjVBrvRRB0n2cI) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Annihilator](https://open.spotify.com/album/0kYOVcPoZ8Zk5JnVOOarDg) | 2:34 | 2023-04-28 | 2023-05-13 |
 | [Another Planet \- Bruno's VIP Mix](https://open.spotify.com/track/6FJtJq6fVyADQJurbdDXBc) | [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Another Planet \(Bruno's VIP Mix\)](https://open.spotify.com/album/4YgWh4U4JvmwYBAGxJtmQC) | 5:48 | 2023-08-11 |  |
-| [Apache](https://open.spotify.com/track/3VqcCBJYupv8mu8pHLXqL1) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Apache](https://open.spotify.com/album/6G1TJ6d0Dm8RbggfWjrAAi) | 2:36 | 2023-08-11 |  |
+| [Apache](https://open.spotify.com/track/3VqcCBJYupv8mu8pHLXqL1) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Apache](https://open.spotify.com/album/6G1TJ6d0Dm8RbggfWjrAAi) | 2:36 | 2023-08-11 | 2023-10-17 |
 | [Aphrodisiac](https://open.spotify.com/track/1aF44sAhhcCOfizdoCGBrT) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Aphrodisiac](https://open.spotify.com/album/7jJWlYWsbcEcaiNwkJcUmO) | 2:36 | 2022-03-25 | 2022-04-23 |
 | [Around Me](https://open.spotify.com/track/3vqCl5emqR14MHKxqQAsXH) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR) | [Around Me](https://open.spotify.com/album/74fhAZahEaM6cLlEmVKbCf) | 3:17 | 2023-07-07 | 2023-09-02 |
 | [Asereje](https://open.spotify.com/track/5uNeepsaxfWN63qmsXkyES) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Enrico Palermo](https://open.spotify.com/artist/3aR0LAXgMD6d6m6dCMuRxj) | [Asereje](https://open.spotify.com/album/4fUJlmLWhrty63jBdsrMI4) | 2:36 | 2023-03-31 | 2023-08-12 |
@@ -962,6 +962,7 @@
 | [Samsara](https://open.spotify.com/track/4U91micKPBG76g9oKoICVk) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Samsara / Hangover](https://open.spotify.com/album/4bgLaGD4Tx5SIKVHik3cNo) | 2:58 | 2023-04-14 | 2023-08-12 |
 | [San Frandisco \(Eli Brown Remix\)](https://open.spotify.com/track/3Aoesia1SxpD9DxvhOm5Aq) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [San Frandisco \(Eli Brown Remix\)](https://open.spotify.com/album/0jw2zbIiycLZx5q7nWJDLm) | 3:32 | 2021-11-26 | 2022-04-23 |
 | [Sand Dunes](https://open.spotify.com/track/2Oh4jKif9YIlxbg8aX6Km0) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Sand Dunes](https://open.spotify.com/album/7z4cJm01ThOpkmGdf6MoqC) | 3:25 | 2022-09-05 | 2022-12-17 |
+| [Satisfy](https://open.spotify.com/track/5lU7QrjCMU9JStXRUhVB2p) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Satisfy](https://open.spotify.com/album/08ByOMP1nHJEIpZCskgWGn) | 3:04 | 2023-10-13 |  |
 | [Saturation](https://open.spotify.com/track/1B8mCijpw9ItgJcOqWn2Dq) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [Clyde P](https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1) | [Saturation EP](https://open.spotify.com/album/5N07AHUNsDWtPEoVLbFXBb) | 2:53 | 2021-11-26 | 2022-01-06 |
 | [Saturday Love](https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Dino DZ](https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si) | [Saturday Love](https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6) | 2:21 | 2023-04-07 | 2023-08-12 |
 | [SAVE ME](https://open.spotify.com/track/1DZYMshZpDtQMD4usiruLe) | [Damaged Goods](https://open.spotify.com/artist/0txPKco59Ikf29in2CeuEC) | [SAVE ME](https://open.spotify.com/album/08Hix0GPUQvDIG6OIbsPzG) | 3:04 | 2022-03-18 | 2022-04-23 |

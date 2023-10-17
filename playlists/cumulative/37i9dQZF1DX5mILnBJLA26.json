@@ -13682,7 +13682,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 315336,
       "name": "Kwelaa - Main mix",
       "url": "https://open.spotify.com/track/5BN6mAYvSL7OEwFeknp8dF"
@@ -18250,6 +18250,28 @@
       "duration_ms": 182335,
       "name": "Ngyakuthanda",
       "url": "https://open.spotify.com/track/2f1BklaRXoAYyXUnuqHt0R"
+    },
+    {
+      "album": {
+        "name": "Nhliziyo Yami eKhala Kakhulu",
+        "url": "https://open.spotify.com/album/62gVyMAd9PTLJxRLngelnz"
+      },
+      "artists": [
+        {
+          "name": "Thabza Tee",
+          "url": "https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312004,
+      "name": "Nhliziyo Yami eKhala Kakhulu",
+      "url": "https://open.spotify.com/track/1ftXiKwSCAAsgaqdyjpxvz"
     },
     {
       "album": {

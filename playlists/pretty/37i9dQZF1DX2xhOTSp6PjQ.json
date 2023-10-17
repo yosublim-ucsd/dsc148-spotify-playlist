@@ -1,13 +1,33 @@
 {
   "description": "It's not a genre, it's a culture. Cover: <a href=\"https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX?si=4RdyfZQbRDerv26SnksJww\">Mthandeni SK</a>.",
-  "num_followers": 41806,
+  "num_followers": 41950,
   "original_name": "Bhinca Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWQxMWYwNWY3NGQ0ZTcwMDkyOWU0YTZlMDZmNTQ1ZjdmYjgyYmU2",
+  "snapshot_id": "MCxjOGViMDhkZjhiZjBhYjIyNTQ1MGY0MDlmODFmNGQ3Yzg4MTcwYTQw",
   "tracks": [
+    {
+      "added_at": "2023-10-16 09:27:20",
+      "album": {
+        "name": "Umjolo Lowo",
+        "url": "https://open.spotify.com/album/6KV7h9dmu6Cijf8399HbwB"
+      },
+      "artists": [
+        {
+          "name": "Khuzani",
+          "url": "https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs"
+        },
+        {
+          "name": "Luve Dubazane",
+          "url": "https://open.spotify.com/artist/2qn1ZfGigw6BNbf2MNuEJc"
+        }
+      ],
+      "duration_ms": 244648,
+      "name": "Umjolo Lowo",
+      "url": "https://open.spotify.com/track/4zkTyuLiE6mH4DoCi6C8fB"
+    },
     {
       "added_at": "2023-09-29 03:56:38",
       "album": {

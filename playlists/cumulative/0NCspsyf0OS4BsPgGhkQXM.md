@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-879 songs - 1 day 22 hr 58 min
+880 songs - 1 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,6 +622,7 @@
 | [QÜICKSAND](https://open.spotify.com/track/3n9vRGay2e7xUvfWpWbgtg) | [8Ö8](https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [QÜICKSAND](https://open.spotify.com/album/2G5Oh5U6UpS8fY5GqtVzw9) | 2:49 | 2022-10-29 | 2022-11-24 |
 | [R U READY!](https://open.spotify.com/track/6jXbYeTwVGfL6BxI3aQAXE) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [R U READY!](https://open.spotify.com/album/2l8chbtGJ3adSqwYauGWrT) | 3:40 | 2022-04-21 | 2022-09-15 |
 | [Raiders](https://open.spotify.com/track/28AyupyPncbjVaeROXQHfJ) | [Kujah](https://open.spotify.com/artist/2rsFdirOhNFCvR7XQKMIBp), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint](https://open.spotify.com/album/11vbM8Rflk8ZqMRJDrr8VZ) | 2:21 | 2022-09-22 | 2023-02-22 |
+| [RATATA](https://open.spotify.com/track/4n2KXXgRYO4HFJw0ArhfCT) | [FXRR](https://open.spotify.com/artist/18Aa5fsiPr4pXRAwezZN6i) | [RATATA](https://open.spotify.com/album/4ZVxSAP7pIZXM8wAU4dfkp) | 1:42 | 2023-10-16 |  |
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-11-08 | 2022-11-10 |
 | [Reach](https://open.spotify.com/track/7FyGAyzhXqJryIsABMfIK7) | [MEJKO](https://open.spotify.com/artist/4unbLEffqWDwtD3QZbxXPk), [Rose Ghould](https://open.spotify.com/artist/2NFgpSOqWZsvTMcquQyunT) | [Reach](https://open.spotify.com/album/3Scx35ScwWJ7jtYdQiiDV5) | 4:14 | 2022-10-21 | 2023-02-22 |
 | [Ready For Love](https://open.spotify.com/track/2hVG0ZPuC3Me2r28Bg0Qkd) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [Tears In Paradise](https://open.spotify.com/album/3KxCBxlG7udmxLbU4SI1LE) | 3:20 | 2022-11-11 | 2023-02-22 |

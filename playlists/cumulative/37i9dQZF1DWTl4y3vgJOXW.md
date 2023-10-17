@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Las Vegas Aces
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Tua Tagovailoa
 
 542 songs - 1 day 3 hr 38 min
 

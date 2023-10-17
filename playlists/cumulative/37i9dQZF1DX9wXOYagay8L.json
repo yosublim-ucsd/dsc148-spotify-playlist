@@ -3796,7 +3796,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 237333,
       "name": "iZulu",
       "url": "https://open.spotify.com/track/4zXwuXXFfav3pKI63yRDju"
@@ -4334,6 +4334,24 @@
       "duration_ms": 188991,
       "name": "kutheni na, (feat. Kwesta)",
       "url": "https://open.spotify.com/track/12hMZGLnLlK3OEE2tdMop4"
+    },
+    {
+      "album": {
+        "name": "Kuyabongwa",
+        "url": "https://open.spotify.com/album/1p2L4YEwcJHgRndeMG25Cw"
+      },
+      "artists": [
+        {
+          "name": "ChubbyCheeks",
+          "url": "https://open.spotify.com/artist/2jMiIQfoS53BBQstybElVW"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214041,
+      "name": "Kuyabongwa",
+      "url": "https://open.spotify.com/track/5126E37MXDlVwL3GNsFE81"
     },
     {
       "album": {
@@ -6228,6 +6246,28 @@
       "duration_ms": 224516,
       "name": "Ngimtholile",
       "url": "https://open.spotify.com/track/767RWorzGOLj084gbi4fs9"
+    },
+    {
+      "album": {
+        "name": "Ngimtholile",
+        "url": "https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP"
+      },
+      "artists": [
+        {
+          "name": "Maverick Muji",
+          "url": "https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o"
+        },
+        {
+          "name": "Nonny",
+          "url": "https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244062,
+      "name": "Ngimtholile",
+      "url": "https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt"
     },
     {
       "album": {
@@ -8364,7 +8404,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 235514,
       "name": "Sondela",
       "url": "https://open.spotify.com/track/3ldMHmSYIoF2jf042vhG02"
@@ -8684,6 +8724,28 @@
       "duration_ms": 290248,
       "name": "Thando",
       "url": "https://open.spotify.com/track/74csF4EizLF5y0yT2qoSHH"
+    },
+    {
+      "album": {
+        "name": "Thando Lwethu",
+        "url": "https://open.spotify.com/album/0pVjux9pyp7lQJeOyJAJ3e"
+      },
+      "artists": [
+        {
+          "name": "Sia Mzizi",
+          "url": "https://open.spotify.com/artist/6aVG0HjG8XLqPFF9XILhb8"
+        },
+        {
+          "name": "Murumba Pitch",
+          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267789,
+      "name": "Thando Lwethu",
+      "url": "https://open.spotify.com/track/5fkgchpUz5lBqKlPkflwpz"
     },
     {
       "album": {
@@ -9576,7 +9638,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 144425,
       "name": "Umona (Jealousy)",
       "url": "https://open.spotify.com/track/3RfEK3ubKYWa3wxjTRzhxv"

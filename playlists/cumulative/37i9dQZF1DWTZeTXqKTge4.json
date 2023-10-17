@@ -906,7 +906,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 172711,
       "name": "Balan\u00e7oires",
       "url": "https://open.spotify.com/track/3wNaCRIIFEcSEip92OtVmg"
@@ -8424,6 +8424,24 @@
       "duration_ms": 176352,
       "name": "Sentiment noir",
       "url": "https://open.spotify.com/track/3CeD1D6F6zAR9gZm0mjw0U"
+    },
+    {
+      "album": {
+        "name": "NEXUS",
+        "url": "https://open.spotify.com/album/7DjjUxRUmeQKjyhfPd6tLO"
+      },
+      "artists": [
+        {
+          "name": "Vendou",
+          "url": "https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156485,
+      "name": "Shirley Temple",
+      "url": "https://open.spotify.com/track/0FA6d3PTjv6R9V4AhQEU6K"
     },
     {
       "album": {

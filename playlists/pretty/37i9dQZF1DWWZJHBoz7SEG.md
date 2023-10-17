@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¿Finde de eclipse y nuevo álbum de Bad Bunny? Esto debe ser una señal \#manifestando ✨🌑 Yng Lvcas en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,282 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,361 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Autosabotear](https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Autosabotear](https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a) | 3:12 |
 | 50 | [Barcelona](https://open.spotify.com/track/1mOkcnpixz3u51MsWgGIXV) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Barcelona](https://open.spotify.com/album/2zvLgTtYG2f6DiKLsuqich) | 3:47 |
 
-Snapshot ID: `MCwxZTllNzg2NDRlYTQxZjJhYjE4ZDgxMWFkMTIxMzgyYzhlODhhOGVl`
+Snapshot ID: `MCxlYTE0OWU5YTgyMDM4ODFjYjMzNWE5OWU3MGU3OTNkNzQ1ZGNhOTll`

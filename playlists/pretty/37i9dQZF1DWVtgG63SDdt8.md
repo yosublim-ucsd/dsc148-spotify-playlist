@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:1L9zhXcitRv35NwUZmwBZ4">Jonny Henninger</a> and <a href="spotify:artist:2PCl4hx9Qds8sjcnoWUdqp">Sondae</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,866 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,933 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Go Tell It](https://open.spotify.com/track/4wzFTSSj7cKpso1g9PIAEr) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Go Tell It](https://open.spotify.com/album/7zxSymD8q1DYZ0S4CKleNZ) | 2:43 |
 | 100 | [Say So \(Broken Halo\)](https://open.spotify.com/track/5VOGsx6cUWLeuHil1t1GNN) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Say So \(Broken Halo\)](https://open.spotify.com/album/3xTTSloMnGebuLtayYFccC) | 2:38 |
 
-Snapshot ID: `MCxiOWJlM2YxNGY4OGM0NGVmZGRmNmZhMzUxODI4YjkxYTliNTQxNGZk`
+Snapshot ID: `MCw2YzE4MmM0ZmM2MTlkNWIyYmQ2ZTI4ZjkxMGU0YWM3ZjY4NmIyZDVj`

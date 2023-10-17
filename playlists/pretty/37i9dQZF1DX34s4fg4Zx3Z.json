@@ -1,13 +1,81 @@
 {
   "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: NGHI; thi\u1ebft k\u1ebf: Isu Kim",
-  "num_followers": 20000,
+  "num_followers": 20023,
   "original_name": "Fresh Finds Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWEyMDdkYjY5NmRhM2E0OTVkMmE3MDc5YWQwOWM2YTg4YTJjMDU5",
+  "snapshot_id": "MCw2NTRmNTcxODQxYjkyZjhkNWRlOTMyMDhlZTAwMzhiZTQ0ZmQ4MjM1",
   "tracks": [
+    {
+      "added_at": "2023-10-11 02:00:05",
+      "album": {
+        "name": "Deep1e",
+        "url": "https://open.spotify.com/album/2eeUGQKAMhkSgPp33nHlWK"
+      },
+      "artists": [
+        {
+          "name": "tglam",
+          "url": "https://open.spotify.com/artist/1wtU9O6pPP11Gse3oq3BED"
+        }
+      ],
+      "duration_ms": 248699,
+      "name": "Deep1e",
+      "url": "https://open.spotify.com/track/3g4YJmhjntYedyGcYOIXyi"
+    },
+    {
+      "added_at": "2023-10-11 02:00:05",
+      "album": {
+        "name": "Tiny Room (feat. Nomovodka)",
+        "url": "https://open.spotify.com/album/7t8hVxGxGOeHpaDbWhG9sw"
+      },
+      "artists": [
+        {
+          "name": "Ha Kiem",
+          "url": "https://open.spotify.com/artist/2zYISFu1sH67EcFc6ueBwN"
+        },
+        {
+          "name": "Nomovodka",
+          "url": "https://open.spotify.com/artist/79BbybQeUyNyFB8ghq4neb"
+        }
+      ],
+      "duration_ms": 260139,
+      "name": "Tiny Room (feat. Nomovodka)",
+      "url": "https://open.spotify.com/track/1iFIuB2OUicsbW3k9VLuAW"
+    },
+    {
+      "added_at": "2023-10-11 02:00:05",
+      "album": {
+        "name": "Kh\u00f4ng Th\u1ec3 Ng\u1eebng Y\u00eau",
+        "url": "https://open.spotify.com/album/16gnIXSpSd6tnvO3Mgh284"
+      },
+      "artists": [
+        {
+          "name": "Horus",
+          "url": "https://open.spotify.com/artist/6d2R4rHNuK06zYtCy13s13"
+        }
+      ],
+      "duration_ms": 157104,
+      "name": "Kh\u00f4ng Th\u1ec3 Ng\u1eebng Y\u00eau",
+      "url": "https://open.spotify.com/track/15ugVzPf6C8hFKFqBOX6vy"
+    },
+    {
+      "added_at": "2023-10-11 02:00:05",
+      "album": {
+        "name": "Mu\u1ed1n B\u00ean Anh Th\u1eadt Kh\u00f4ng",
+        "url": "https://open.spotify.com/album/7gO2JqeshfVGbZ8U6jGoML"
+      },
+      "artists": [
+        {
+          "name": "Southalid",
+          "url": "https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6"
+        }
+      ],
+      "duration_ms": 285955,
+      "name": "Mu\u1ed1n B\u00ean Anh Th\u1eadt Kh\u00f4ng",
+      "url": "https://open.spotify.com/track/6bvuxfUFw9j9YNQRBwj1hi"
+    },
     {
       "added_at": "2023-10-11 02:00:05",
       "album": {
@@ -125,30 +193,6 @@
       "url": "https://open.spotify.com/track/2WV44nKGCahw1lpbrhL3eJ"
     },
     {
-      "added_at": "2023-10-11 02:00:05",
-      "album": {
-        "name": "ng\u1eafm sao m\u00e0 ch\u1eb3ng c\u00f3 nhau",
-        "url": "https://open.spotify.com/album/4RgrhMnJRYKVpky9Vfn7Q6"
-      },
-      "artists": [
-        {
-          "name": "iMAZE",
-          "url": "https://open.spotify.com/artist/17QbIxGorCQnxk26pvqESU"
-        },
-        {
-          "name": "qt.",
-          "url": "https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld"
-        },
-        {
-          "name": "th\u1ea3o cho\u00e1ch",
-          "url": "https://open.spotify.com/artist/1iozK4kH3GN8D5VNoajVjx"
-        }
-      ],
-      "duration_ms": 221678,
-      "name": "ng\u1eafm sao m\u00e0 ch\u1eb3ng c\u00f3 nhau",
-      "url": "https://open.spotify.com/track/1Z9IxjUiWlQnBECEKAfgni"
-    },
-    {
       "added_at": "2023-10-13 00:00:00",
       "album": {
         "name": "MD Anniversary",
@@ -256,8 +300,8 @@
           "url": "https://open.spotify.com/artist/0Tj8ibTNylwlCga3oM1uBm"
         },
         {
-          "name": "The Catchellers",
-          "url": "https://open.spotify.com/artist/2A1f0V5brXg8cZq0Ui2cN9"
+          "name": "Catchellers",
+          "url": "https://open.spotify.com/artist/1K3Oc9Q3wYgZANTcpsRq3C"
         }
       ],
       "duration_ms": 113938,
@@ -415,46 +459,6 @@
       "duration_ms": 224118,
       "name": "\u00e1nh m\u1eaft b\u1ed3 c\u00e2u",
       "url": "https://open.spotify.com/track/5Ch31gQvKMx8yadFXpTbKo"
-    },
-    {
-      "added_at": "2023-10-11 02:00:05",
-      "album": {
-        "name": "\u0110\u00d3 L\u00c0 ANH",
-        "url": "https://open.spotify.com/album/71Da0YysHpQWc4eTgSIKpg"
-      },
-      "artists": [
-        {
-          "name": "FSRio",
-          "url": "https://open.spotify.com/artist/066RIM4xKxX0yCCBtg3NYY"
-        }
-      ],
-      "duration_ms": 139024,
-      "name": "\u0110\u00d3 L\u00c0 ANH",
-      "url": "https://open.spotify.com/track/7KDEEHu1rPftQdSYOp8j32"
-    },
-    {
-      "added_at": "2023-10-11 02:00:05",
-      "album": {
-        "name": "V\u00e0 Em \u0110\u00e3 T\u1eebng Y\u00eau Anh Ch\u01b0a (Happilinez Remix)",
-        "url": "https://open.spotify.com/album/1HGhX9kzlxsfkvqHoj3TUd"
-      },
-      "artists": [
-        {
-          "name": "HUY.",
-          "url": "https://open.spotify.com/artist/3bUZ1pYNFCXi63VIOG1jwS"
-        },
-        {
-          "name": "Minhuung",
-          "url": "https://open.spotify.com/artist/1KfcZ09oE39qrH4FJrgtfo"
-        },
-        {
-          "name": "Happilinez",
-          "url": "https://open.spotify.com/artist/3Z6O8Nzwyb2AqTihFc5QNZ"
-        }
-      ],
-      "duration_ms": 220806,
-      "name": "V\u00e0 Em \u0110\u00e3 T\u1eebng Y\u00eau Anh Ch\u01b0a - Happilinez Remix",
-      "url": "https://open.spotify.com/track/3S6OAFgAm7SPzqiOd6DcWF"
     },
     {
       "added_at": "2023-10-11 02:00:05",
@@ -791,22 +795,6 @@
     {
       "added_at": "2023-10-11 02:00:05",
       "album": {
-        "name": "Mu\u1ed1n B\u00ean Anh Th\u1eadt Kh\u00f4ng",
-        "url": "https://open.spotify.com/album/7gO2JqeshfVGbZ8U6jGoML"
-      },
-      "artists": [
-        {
-          "name": "Southalid",
-          "url": "https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6"
-        }
-      ],
-      "duration_ms": 285955,
-      "name": "Mu\u1ed1n B\u00ean Anh Th\u1eadt Kh\u00f4ng",
-      "url": "https://open.spotify.com/track/6bvuxfUFw9j9YNQRBwj1hi"
-    },
-    {
-      "added_at": "2023-10-11 02:00:05",
-      "album": {
         "name": "B\u00e0n Tay Th\u1ea3 R\u01a1i",
         "url": "https://open.spotify.com/album/6Nzt8rQhKRSBib3jU7tonP"
       },
@@ -859,22 +847,6 @@
     {
       "added_at": "2023-10-11 02:00:05",
       "album": {
-        "name": "Kh\u00f4ng Th\u1ec3 Ng\u1eebng Y\u00eau",
-        "url": "https://open.spotify.com/album/16gnIXSpSd6tnvO3Mgh284"
-      },
-      "artists": [
-        {
-          "name": "Horus",
-          "url": "https://open.spotify.com/artist/6d2R4rHNuK06zYtCy13s13"
-        }
-      ],
-      "duration_ms": 157104,
-      "name": "Kh\u00f4ng Th\u1ec3 Ng\u1eebng Y\u00eau",
-      "url": "https://open.spotify.com/track/15ugVzPf6C8hFKFqBOX6vy"
-    },
-    {
-      "added_at": "2023-10-11 02:00:05",
-      "album": {
         "name": "T\u00e2m \u00dd",
         "url": "https://open.spotify.com/album/3l8niA3XA4zCQMjctxfTwG"
       },
@@ -919,6 +891,30 @@
     {
       "added_at": "2023-10-11 02:00:05",
       "album": {
+        "name": "ng\u1eafm sao m\u00e0 ch\u1eb3ng c\u00f3 nhau",
+        "url": "https://open.spotify.com/album/4RgrhMnJRYKVpky9Vfn7Q6"
+      },
+      "artists": [
+        {
+          "name": "iMAZE",
+          "url": "https://open.spotify.com/artist/17QbIxGorCQnxk26pvqESU"
+        },
+        {
+          "name": "qt.",
+          "url": "https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld"
+        },
+        {
+          "name": "th\u1ea3o cho\u00e1ch",
+          "url": "https://open.spotify.com/artist/1iozK4kH3GN8D5VNoajVjx"
+        }
+      ],
+      "duration_ms": 221678,
+      "name": "ng\u1eafm sao m\u00e0 ch\u1eb3ng c\u00f3 nhau",
+      "url": "https://open.spotify.com/track/1Z9IxjUiWlQnBECEKAfgni"
+    },
+    {
+      "added_at": "2023-10-11 02:00:05",
+      "album": {
         "name": "NERVES AND BLOOD VESSELS",
         "url": "https://open.spotify.com/album/1jD8ygasbop7U3N7G9u3xF"
       },
@@ -943,6 +939,30 @@
     {
       "added_at": "2023-10-11 02:00:05",
       "album": {
+        "name": "V\u00e0 Em \u0110\u00e3 T\u1eebng Y\u00eau Anh Ch\u01b0a (Happilinez Remix)",
+        "url": "https://open.spotify.com/album/1HGhX9kzlxsfkvqHoj3TUd"
+      },
+      "artists": [
+        {
+          "name": "HUY.",
+          "url": "https://open.spotify.com/artist/3bUZ1pYNFCXi63VIOG1jwS"
+        },
+        {
+          "name": "Minhuung",
+          "url": "https://open.spotify.com/artist/1KfcZ09oE39qrH4FJrgtfo"
+        },
+        {
+          "name": "Happilinez",
+          "url": "https://open.spotify.com/artist/3Z6O8Nzwyb2AqTihFc5QNZ"
+        }
+      ],
+      "duration_ms": 220806,
+      "name": "V\u00e0 Em \u0110\u00e3 T\u1eebng Y\u00eau Anh Ch\u01b0a - Happilinez Remix",
+      "url": "https://open.spotify.com/track/3S6OAFgAm7SPzqiOd6DcWF"
+    },
+    {
+      "added_at": "2023-10-11 02:00:05",
+      "album": {
         "name": "BEDROOM the EP (feat. Wansentai)",
         "url": "https://open.spotify.com/album/3CJi7QbITFGYmEx76RsyIh"
       },
@@ -959,6 +979,22 @@
       "duration_ms": 156521,
       "name": "All you gotta do (feat. Wansentai)",
       "url": "https://open.spotify.com/track/6pYGoYSJFXQU956kfK1PJ0"
+    },
+    {
+      "added_at": "2023-10-11 02:00:05",
+      "album": {
+        "name": "\u0110\u00d3 L\u00c0 ANH",
+        "url": "https://open.spotify.com/album/71Da0YysHpQWc4eTgSIKpg"
+      },
+      "artists": [
+        {
+          "name": "FSRio",
+          "url": "https://open.spotify.com/artist/066RIM4xKxX0yCCBtg3NYY"
+        }
+      ],
+      "duration_ms": 139024,
+      "name": "\u0110\u00d3 L\u00c0 ANH",
+      "url": "https://open.spotify.com/track/7KDEEHu1rPftQdSYOp8j32"
     },
     {
       "added_at": "2023-10-11 02:00:05",
@@ -1371,26 +1407,6 @@
     {
       "added_at": "2023-10-11 02:00:05",
       "album": {
-        "name": "Tiny Room (feat. Nomovodka)",
-        "url": "https://open.spotify.com/album/7t8hVxGxGOeHpaDbWhG9sw"
-      },
-      "artists": [
-        {
-          "name": "Ha Kiem",
-          "url": "https://open.spotify.com/artist/2zYISFu1sH67EcFc6ueBwN"
-        },
-        {
-          "name": "Nomovodka",
-          "url": "https://open.spotify.com/artist/79BbybQeUyNyFB8ghq4neb"
-        }
-      ],
-      "duration_ms": 260139,
-      "name": "Tiny Room (feat. Nomovodka)",
-      "url": "https://open.spotify.com/track/1iFIuB2OUicsbW3k9VLuAW"
-    },
-    {
-      "added_at": "2023-10-11 02:00:05",
-      "album": {
         "name": "ng\u00e0y mai s\u1ebd th\u1eadt \u0111\u1eb9p khi em th\u1ee9c d\u1eady",
         "url": "https://open.spotify.com/album/57x1smjy5RRu4pfZXJkx4R"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 200002,
       "name": "Youth!",
       "url": "https://open.spotify.com/track/5tLWI9qQk2EtTXkU9dhaEC"
-    },
-    {
-      "added_at": "2023-10-11 02:00:05",
-      "album": {
-        "name": "Deep1e",
-        "url": "https://open.spotify.com/album/2eeUGQKAMhkSgPp33nHlWK"
-      },
-      "artists": [
-        {
-          "name": "tglam",
-          "url": "https://open.spotify.com/artist/1wtU9O6pPP11Gse3oq3BED"
-        }
-      ],
-      "duration_ms": 248699,
-      "name": "Deep1e",
-      "url": "https://open.spotify.com/track/3g4YJmhjntYedyGcYOIXyi"
     },
     {
       "added_at": "2023-10-11 02:00:05",

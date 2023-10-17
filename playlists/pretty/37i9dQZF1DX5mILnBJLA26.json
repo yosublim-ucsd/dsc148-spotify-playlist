@@ -1,12 +1,12 @@
 {
   "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV?si=TGkHVFemQw2YpAZHXpnAjQ\">Felo Le Tee</a>",
-  "num_followers": 588517,
+  "num_followers": 589065,
   "original_name": "AMAPIANO grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGYyYTU1ZTU5Y2IyZDMxNzkwNGI4NWFjYTlhNzFmZjIxMWM2ZDJl",
+  "snapshot_id": "MCw0M2ZkMTA4MTExYjVjZGRiZGI1Y2VlMDFhYWQ3NDk5ZmNmZmQ4Y2Q5",
   "tracks": [
     {
       "added_at": "2023-10-12 23:00:00",
@@ -649,6 +649,26 @@
       "url": "https://open.spotify.com/track/5m6AedvemL6Oz8GVwAOTF3"
     },
     {
+      "added_at": "2023-10-16 14:30:10",
+      "album": {
+        "name": "Nhliziyo Yami eKhala Kakhulu",
+        "url": "https://open.spotify.com/album/62gVyMAd9PTLJxRLngelnz"
+      },
+      "artists": [
+        {
+          "name": "Thabza Tee",
+          "url": "https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        }
+      ],
+      "duration_ms": 312004,
+      "name": "Nhliziyo Yami eKhala Kakhulu",
+      "url": "https://open.spotify.com/track/1ftXiKwSCAAsgaqdyjpxvz"
+    },
+    {
       "added_at": "2023-10-12 23:00:00",
       "album": {
         "name": "Kunkra (feat. Xduppy, Shaunmusiq & Ftears)",
@@ -955,34 +975,6 @@
       "duration_ms": 519650,
       "name": "Eduze",
       "url": "https://open.spotify.com/track/3j44D35ihRDXUdwPO8kiZi"
-    },
-    {
-      "added_at": "2023-10-12 23:00:00",
-      "album": {
-        "name": "Kwelaa (main mix)",
-        "url": "https://open.spotify.com/album/3Hf44IPbdXSFZK3glUQLmQ"
-      },
-      "artists": [
-        {
-          "name": "Genesis 99",
-          "url": "https://open.spotify.com/artist/5TJMCAQpxhHEMrnHHclxUX"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Shaunmusiq",
-          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
-        },
-        {
-          "name": "xduppy",
-          "url": "https://open.spotify.com/artist/0mwqHSPC3qsEKOBsbazy0V"
-        }
-      ],
-      "duration_ms": 315336,
-      "name": "Kwelaa - Main mix",
-      "url": "https://open.spotify.com/track/5BN6mAYvSL7OEwFeknp8dF"
     },
     {
       "added_at": "2023-10-12 23:00:00",

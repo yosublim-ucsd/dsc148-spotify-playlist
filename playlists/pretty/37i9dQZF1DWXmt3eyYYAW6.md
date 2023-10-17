@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmt3eyYYAW6.md) - [plain]
 
 > Conversations on health and fitness, plus tips to jumpstart a new and improved lifestyle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,131 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 7,130 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCw3ZWE4NDdjYTAyNWUzYTg0NWE3ZDczZDQwNGRkYzg3ZWMxZTVhYmUz`
+Snapshot ID: `MCw2NGVmODI3OTFkOTU0Y2I4ZjY0ZmVjOWE3ZTBiNGE5Y2I5ZGRkNTUw`

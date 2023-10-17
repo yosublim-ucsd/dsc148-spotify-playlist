@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 18288,
+  "num_followers": 18337,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzIxNmVhZDQzOWZkYzE5ZjVlYTZiOGY4ZDZhNGYzMzAyMTkxZWMz",
+  "snapshot_id": "MCw1YmFlNTdjZDU5ZTc4YjkyMTRmYjIyZjliZjgwODU2OWQwM2NmOTQ1",
   "tracks": [
     {
       "added_at": "2023-10-12 21:19:42",
@@ -95,6 +95,26 @@
       "duration_ms": 192027,
       "name": "Fuma",
       "url": "https://open.spotify.com/track/1AYFgqbN7PuAFQ9gBf6DFx"
+    },
+    {
+      "added_at": "2023-10-12 21:19:42",
+      "album": {
+        "name": "Hush (Still Woozy Remix)",
+        "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        },
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Hush - Still Woozy Remix",
+      "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
     },
     {
       "added_at": "2023-10-12 21:19:42",
@@ -191,26 +211,6 @@
     {
       "added_at": "2023-10-12 21:19:42",
       "album": {
-        "name": "Hush (Still Woozy Remix)",
-        "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        },
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Hush - Still Woozy Remix",
-      "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
-    },
-    {
-      "added_at": "2023-10-12 21:19:42",
-      "album": {
         "name": "Buitres & Co.",
         "url": "https://open.spotify.com/album/5vyC6Dahprs1cIdQYMIYDZ"
       },
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-10-12 21:19:42",
       "album": {
-        "name": "Arepa 3000",
-        "url": "https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "Qu\u00e9 Rico",
-      "url": "https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg"
-    },
-    {
-      "added_at": "2023-10-12 21:19:42",
-      "album": {
         "name": "Trippy Caribbean",
         "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
@@ -331,18 +315,34 @@
     {
       "added_at": "2023-10-12 21:19:42",
       "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
+        "name": "Arepa 3000",
+        "url": "https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
         }
       ],
-      "duration_ms": 228543,
-      "name": "Su\u00e9ltame, Bogot\u00e1",
-      "url": "https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg"
+      "duration_ms": 239613,
+      "name": "Qu\u00e9 Rico",
+      "url": "https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg"
+    },
+    {
+      "added_at": "2023-10-12 21:19:42",
+      "album": {
+        "name": "\u00d3yeme Bien",
+        "url": "https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        }
+      ],
+      "duration_ms": 229997,
+      "name": "\u00d3yeme Bien",
+      "url": "https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e"
     },
     {
       "added_at": "2023-10-12 21:19:42",
@@ -359,6 +359,22 @@
       "duration_ms": 249250,
       "name": "Parar el Tiempo",
       "url": "https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c"
+    },
+    {
+      "added_at": "2023-10-12 21:19:42",
+      "album": {
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 228543,
+      "name": "Su\u00e9ltame, Bogot\u00e1",
+      "url": "https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg"
     },
     {
       "added_at": "2023-10-12 21:19:42",
@@ -407,22 +423,6 @@
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2023-10-12 21:19:42",
-      "album": {
-        "name": "\u00d3yeme Bien",
-        "url": "https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2"
-      },
-      "artists": [
-        {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
-        }
-      ],
-      "duration_ms": 229997,
-      "name": "\u00d3yeme Bien",
-      "url": "https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e"
     },
     {
       "added_at": "2023-10-12 21:19:42",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-10-12 21:19:42",
       "album": {
-        "name": "Dorama",
-        "url": "https://open.spotify.com/album/1JL6GXkYqQC3tvreFoZXlm"
-      },
-      "artists": [
-        {
-          "name": "Primavera Club",
-          "url": "https://open.spotify.com/artist/4wYsRqHGSzAPIceEE9gnIG"
-        }
-      ],
-      "duration_ms": 290400,
-      "name": "Lentes Negros",
-      "url": "https://open.spotify.com/track/2IwXBRnOgAhIVQXjtt6KEK"
-    },
-    {
-      "added_at": "2023-10-12 21:19:42",
-      "album": {
         "name": "The New Sound of the Venezuelan Gozadera",
         "url": "https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 218666,
       "name": "Ultra-Funk",
       "url": "https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf"
+    },
+    {
+      "added_at": "2023-10-12 21:19:42",
+      "album": {
+        "name": "Dorama",
+        "url": "https://open.spotify.com/album/1JL6GXkYqQC3tvreFoZXlm"
+      },
+      "artists": [
+        {
+          "name": "Primavera Club",
+          "url": "https://open.spotify.com/artist/4wYsRqHGSzAPIceEE9gnIG"
+        }
+      ],
+      "duration_ms": 290400,
+      "name": "Lentes Negros",
+      "url": "https://open.spotify.com/track/2IwXBRnOgAhIVQXjtt6KEK"
     },
     {
       "added_at": "2023-10-12 21:19:42",
@@ -635,6 +635,38 @@
     {
       "added_at": "2023-10-12 21:19:42",
       "album": {
+        "name": "Chango",
+        "url": "https://open.spotify.com/album/65ZOMODDFgGWpANqUL9umN"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 185994,
+      "name": "Despacio",
+      "url": "https://open.spotify.com/track/4M8EITXCAirNIaYcwmf1LI"
+    },
+    {
+      "added_at": "2023-10-12 21:19:42",
+      "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 326040,
+      "name": "Tr\u00e1game Tierra",
+      "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
+    },
+    {
+      "added_at": "2023-10-12 21:19:42",
+      "album": {
         "name": "M\u00fasica Moderna",
         "url": "https://open.spotify.com/album/1zE6fgn3iqkOwJGS18B0sm"
       },
@@ -667,38 +699,6 @@
       "duration_ms": 254492,
       "name": "Asturi\u00f3n",
       "url": "https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ"
-    },
-    {
-      "added_at": "2023-10-12 21:19:42",
-      "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 326040,
-      "name": "Tr\u00e1game Tierra",
-      "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
-    },
-    {
-      "added_at": "2023-10-12 21:19:42",
-      "album": {
-        "name": "Chango",
-        "url": "https://open.spotify.com/album/65ZOMODDFgGWpANqUL9umN"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 185994,
-      "name": "Despacio",
-      "url": "https://open.spotify.com/track/4M8EITXCAirNIaYcwmf1LI"
     },
     {
       "added_at": "2023-10-12 21:19:42",
@@ -875,26 +875,6 @@
     {
       "added_at": "2023-10-12 21:19:42",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9"
-      },
-      "artists": [
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
-        },
-        {
-          "name": "Tetra Collective",
-          "url": "https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k"
-        }
-      ],
-      "duration_ms": 253747,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA"
-    },
-    {
-      "added_at": "2023-10-12 21:19:42",
-      "album": {
         "name": "Youth Attraction",
         "url": "https://open.spotify.com/album/1qEYAW03qOUzZi6QaVVcuC"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 205462,
       "name": "Leche de Tigre",
       "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
+    },
+    {
+      "added_at": "2023-10-12 21:19:42",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        },
+        {
+          "name": "Tetra Collective",
+          "url": "https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k"
+        }
+      ],
+      "duration_ms": 253747,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA"
     },
     {
       "added_at": "2023-10-12 21:19:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,238 likes - 56 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,232 likes - 56 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 55 | [tú no](https://open.spotify.com/track/1yo6ROQQqWAHNb6alahCoY) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [tú no](https://open.spotify.com/album/3QnYvMHXIl3CM7u9f6IX5d) | 2:57 |
 | 56 | [5 da manhã](https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:53 |
 
-Snapshot ID: `MCxmZWI2MDMyZjZlNjhiNTIxNzRkMDg0ZDAxODg0ZGZiMmJmNDNjMzYy`
+Snapshot ID: `MCwwZWRjYzY1ZTE4MTg0ZTkyNjRiNmM3MGEyNWE4MTk3ZTZhOTEwMGFh`

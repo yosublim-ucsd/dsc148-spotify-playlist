@@ -4,7 +4,7 @@
 
 > Breathe deep, close your eyes, immerse yourself...\. Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance.
 
-100 songs - 4 hr 56 min
+102 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Archipelago \(432 Hz\)](https://open.spotify.com/track/1QFfumreyLnZ4qtxCx6cpK) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Archipelago](https://open.spotify.com/album/5WSFpBbwZiS1BVXyO6eU21) | 2:48 | 2022-12-12 |  |
 | [Aura Bowls](https://open.spotify.com/track/13SfgjQv7gtBhewnS4Vcp3) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Droning Bowls](https://open.spotify.com/album/7Mm1anxbwaKYrq3xHEmjLL) | 2:14 | 2022-12-12 | 2023-09-02 |
 | [Bheetar dekho](https://open.spotify.com/track/5h0CaDOGz03xtjBEERCpKi) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Chup rahen](https://open.spotify.com/album/3wwWKjuWGGcAGZ4jcAhxka) | 4:11 | 2023-02-13 |  |
-| [Bhitrī Baccā](https://open.spotify.com/track/7BMqSdQgPmIBEbPO0nB58e) | [Shaolin Healing Bowls](https://open.spotify.com/artist/732WtPnj4sgGImwVF8Y9rW) | [Bhitrī Baccā](https://open.spotify.com/album/51Tegpp8tF2mM5r7irV2vD) | 3:03 | 2023-10-13 |  |
+| [Bhitrī Baccā](https://open.spotify.com/track/7BMqSdQgPmIBEbPO0nB58e) | [Shaolin Healing Bowls](https://open.spotify.com/artist/732WtPnj4sgGImwVF8Y9rW) | [Bhitrī Baccā](https://open.spotify.com/album/51Tegpp8tF2mM5r7irV2vD) | 3:03 | 2023-10-13 | 2023-10-17 |
 | [Bodhisattva \(Sound Bath\)](https://open.spotify.com/track/1VpB6JKz3hN1sAZVLtgVie) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/1ebhcZPcYlwJ7uQhIn3YvT) | 3:28 | 2022-12-12 |  |
 | [Bowls and Waves \- Soundbath](https://open.spotify.com/track/3snVyP3HM35bjMb7iREVlo) | [Chakra Shack](https://open.spotify.com/artist/3SeXI5wCsQRDEoReZONV4d) | [Crystal Bowl Chakras](https://open.spotify.com/album/03bi3Pw2YKjAzFNAY0lbaM) | 2:18 | 2023-08-02 |  |
 | [Calming Crystal Bowls \(with River\)](https://open.spotify.com/track/2FPYEB8xE2kKVsbCJ9GWM3) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Crystal Bowl Tranquility](https://open.spotify.com/album/2eOJnGIAQA6NkUUDdE4NWQ) | 3:30 | 2022-12-12 |  |
@@ -36,6 +36,7 @@
 | [Forest Pan Drum](https://open.spotify.com/track/0nPqH3ynQMcyapW6aLdYjX) | [Quiet Cave](https://open.spotify.com/artist/40wehoOnuir7qPH1QgTXNY) | [Forest Pan Drum](https://open.spotify.com/album/60U5rsvSSbXDizCveA2TVT) | 1:54 | 2022-12-12 |  |
 | [Free Floating](https://open.spotify.com/track/5DHpl94sdHixUL1vP1LzV0) | [Matt Mohandas](https://open.spotify.com/artist/4mawCcl8p3ukw3dbWRoIIG) | [Sunlight Healing](https://open.spotify.com/album/0CenJpIPLs5rGjogAsTSjF) | 3:10 | 2022-12-12 |  |
 | [Garden bliss](https://open.spotify.com/track/0JQ0ojZNoM84rrPhteK0al) | [Franz Emerald](https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv) | [Garden bliss](https://open.spotify.com/album/23Sqgz9agHEmrOCRvTlOSs) | 2:24 | 2022-12-12 |  |
+| [Gratitude](https://open.spotify.com/track/5l41CkujFnEtsOy9SpEn2K) | [Healing Potion](https://open.spotify.com/artist/08sROjr8PALQrgskKAnmaw) | [Gratitude](https://open.spotify.com/album/7rusm2up4CcpsCKdWgN7ji) | 2:46 | 2023-10-16 |  |
 | [Hand Pan Dream in the rain](https://open.spotify.com/track/4PxgYKF0q6ER8JOWCa8X1h) | [Oxyplüs](https://open.spotify.com/artist/4XQOiWoXNYk8Gtf7At9rwH) | [Hand Pan Dream in the rain](https://open.spotify.com/album/3ejjNQ3pBXU1C3hN1S8tLp) | 2:18 | 2022-12-12 | 2023-01-14 |
 | [Handpan Rain](https://open.spotify.com/track/5XDltyzAT7IkZeGu0lAKUf) | [Cosmic Nirvana](https://open.spotify.com/artist/5qJPwmFhAXtQZfxmvmZJmO) | [Handpan Rain](https://open.spotify.com/album/6ewhW60VWUoZc46s3bczJB) | 2:50 | 2022-12-12 |  |
 | [Hang Drum \- Water Sounds](https://open.spotify.com/track/3mGHDE0cYC9NlRk7yTtkQs) | [Izkaya Ten](https://open.spotify.com/artist/1zTZTSgDxQlwEqRwhByiEj) | [Hang Drum \- Water Sounds](https://open.spotify.com/album/3nTXKA7OMc5X732iTGh7bu) | 2:10 | 2022-12-12 |  |
@@ -51,7 +52,7 @@
 | [Lamrim \(Sound Bath\)](https://open.spotify.com/track/4SntEk9w1JNvIgiAShAKc0) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/1ebhcZPcYlwJ7uQhIn3YvT) | 4:30 | 2022-12-12 |  |
 | [Madrean Pine](https://open.spotify.com/track/4FrtOcGGkC5xRAf75zhAvu) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Madrean Pine](https://open.spotify.com/album/4hNbQqGMfpSUmLMnQyAEDL) | 3:09 | 2023-08-02 |  |
 | [Meditación y Curación \(Sound Bath\)](https://open.spotify.com/track/6gQw64JZIO5P6P9pn7m91Z) | [iD8](https://open.spotify.com/artist/3DjpvRyhGuXg5ICJqwng4z) | [Sonidos Curativos](https://open.spotify.com/album/4XcgJfILIB1wm2pXMAmX5w) | 2:54 | 2022-12-12 | 2023-01-14 |
-| [Meditation Bowl \- 300 Hz \- Sound Bath with Nature Sounds](https://open.spotify.com/track/593QJNaqkBD0B1L1ctxQH3) | [Waht Poo](https://open.spotify.com/artist/6l00nLjNeQr1VaeP4FvsKY) | [Meditation Bowl \- 300 Hz \- Sound Bath with Nature Sounds](https://open.spotify.com/album/3fWUQjjUuQ4MEjie4WdlH0) | 2:28 | 2023-04-06 |  |
+| [Meditation Bowl \- 300 Hz \- Sound Bath with Nature Sounds](https://open.spotify.com/track/593QJNaqkBD0B1L1ctxQH3) | [Waht Poo](https://open.spotify.com/artist/6l00nLjNeQr1VaeP4FvsKY) | [Meditation Bowl \- 300 Hz \- Sound Bath with Nature Sounds](https://open.spotify.com/album/3fWUQjjUuQ4MEjie4WdlH0) | 2:28 | 2023-04-06 | 2023-10-17 |
 | [Meditation Bowl 300 Hz \(Nature\)](https://open.spotify.com/track/53sFexyZLlgMrOAAVCPMYW) | [Elof Sunflower](https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa) | [Meditation Bowl 300 Hz \(Nature\)](https://open.spotify.com/album/6URB5WWejHi1Y7ZDiLpT4j) | 2:34 | 2023-08-02 |  |
 | [Meditative Bowls](https://open.spotify.com/track/1JO2ZOIrzRcV2uEIzxvrv1) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Meditative Bowls](https://open.spotify.com/album/5GfLPUhZWo0AqSNfUZP1X5) | 3:08 | 2022-12-12 |  |
 | [Meditative Tibetan Bowl Sounds \(Soundbath \- Country Rain\)](https://open.spotify.com/track/69a0pmpD9K9spyn2IQUYlM) | [Chime Dolma](https://open.spotify.com/artist/0ndav6EeWFjk6gBztWytIo) | [Meditative Tibetan Bowl Sounds](https://open.spotify.com/album/3BUmmUDS5So1NK9FDyb28I) | 2:53 | 2023-04-26 |  |
@@ -59,6 +60,7 @@
 | [Mindlessness](https://open.spotify.com/track/2snAfslgFtrUMvmLWhIN9g) | [Francorchamps](https://open.spotify.com/artist/11fWJjHq0q210RYCK5sSDh) | [Mindlessness](https://open.spotify.com/album/15Bngk6ycN4ZmZjOX62CNU) | 2:07 | 2022-12-12 |  |
 | [Morning Star](https://open.spotify.com/track/2oPqzxQG4ch8d4jS6cg62c) | [Calming Lesmo](https://open.spotify.com/artist/5acenmixbZVmxdHn0Je47D) | [Morning Star](https://open.spotify.com/album/2qaqkd0E6QB7daS7x5ZZnc) | 2:35 | 2022-12-12 |  |
 | [Natures Harmony \- Bowls and Pads \(Water sounds\)](https://open.spotify.com/track/2WuOkAKX235pxGwXEe6Szi) | [Soul Elevation](https://open.spotify.com/artist/33uRqE15Wfnc0rnvEkhTKw) | [Natures Harmony](https://open.spotify.com/album/4nrsAJzRyt2Nj8Dz8yFq9K) | 2:18 | 2023-08-02 |  |
+| [Nidra](https://open.spotify.com/track/2S6PhX39o91uuRNHgQWrhe) | [Quiet Notes](https://open.spotify.com/artist/6o4TgXVQ6lPBqMXXyjrMjt) | [Nidra](https://open.spotify.com/album/6lsGTwVj3XHsiMK2P5F4GP) | 3:09 | 2023-10-16 |  |
 | [Ontspanning](https://open.spotify.com/track/6lz38eB81C9ZxzdfD5F7lg) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Ontspanning](https://open.spotify.com/album/3agfeyUWIXIlr5nRHXH3MC) | 2:44 | 2023-08-02 |  |
 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 | 2022-12-12 |  |
 | [Peace rain](https://open.spotify.com/track/08dchHXbAlTtIKSOIY0mRa) | [Juno Yang](https://open.spotify.com/artist/56eIS6isBmK4l3hoJlzCxP) | [Peace rain](https://open.spotify.com/album/6zUtlzxA60fXfPQk0cRmp1) | 2:40 | 2022-12-12 | 2023-04-07 |

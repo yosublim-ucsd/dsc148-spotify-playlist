@@ -4,7 +4,7 @@
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-81 songs - 6 hr 11 min
+82 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Agua de La Tierra \- Nicola Cruz Remix](https://open.spotify.com/track/75ZnZZHw6Zj8w275PHoKU5) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [El Origen](https://open.spotify.com/album/3Z1Yj9MnveskLxVhHIstUy) | 4:53 | 2023-08-11 |  |
 | [Aisito](https://open.spotify.com/track/7gKzsi7dFiJBrKFPkdJAqy) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH) | [Cable Tierra](https://open.spotify.com/album/4ybRHQ8hoePE8js09qqB7R) | 3:04 | 2023-08-11 |  |
 | [Alma](https://open.spotify.com/track/2n6or5vQGPtqbTu84CNfdn) | [Puna](https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ), [Sandra Amaya](https://open.spotify.com/artist/5blOCUy4Uz4j88SdkakN6v) | [Vol\. 4](https://open.spotify.com/album/4DaIUxKJQvQmeC3VRONSky) | 6:17 | 2023-08-11 |  |
+| [Almitai \- Rodrigo Gallardo Remix](https://open.spotify.com/track/201dBxaZWUaDlczLtZI6fT) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Almitai \(Rodrigo Gallardo Remix\)](https://open.spotify.com/album/2xasSq0QYrpVWhtFJG5TqH) | 5:12 | 2023-08-11 |  |
 | [Amo](https://open.spotify.com/track/0lTskhjbr24P0C9kPmylF6) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [LUVI TORRES](https://open.spotify.com/artist/0U6e4AWJDteC3blrD46avQ) | [Ceremonia](https://open.spotify.com/album/1pbBTqGMfMnXGHDbfJurP3) | 2:17 | 2023-08-11 |  |
 | [Antiguos Dueños de las Flechas](https://open.spotify.com/track/0z3RxsjWuo7lXrbLxE9Vmp) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Tonolec](https://open.spotify.com/album/0uR0X0oiILxnxDauNaqKzc) | 4:24 | 2023-08-11 |  |
 | [Antikuna Anqa](https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO) | [Nintu](https://open.spotify.com/artist/6fhBqhLVgzSRQAvGxm4yt5), [Mauricio Arratia](https://open.spotify.com/artist/42h2ekeqZDzgo6IcfiPpai), [Pao Pamaki](https://open.spotify.com/artist/6vqF9GI9o8la8YpvWQaWbz) | [Antikuna Anqa](https://open.spotify.com/album/5OjIJkbPTPDdOy8n7Fb2UD) | 7:36 | 2023-08-11 |  |
@@ -68,7 +69,7 @@
 | [Nada Parece](https://open.spotify.com/track/29pndK8bDGQ1YVeubWhQec) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [SUELTA](https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP) | 3:07 | 2023-08-11 |  |
 | [Peoncito de Estancia \- Kaleema Remix](https://open.spotify.com/track/0zIiND609voPOWidaLjnYi) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH), [Kaleema](https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW) | [Pluma \(Un Disco de Reversiones de la San Llamarada\)](https://open.spotify.com/album/75WAti5nxvS6YsoKr9jnUO) | 4:01 | 2023-08-11 |  |
 | [Que Bailen](https://open.spotify.com/track/1OiEdS4FTTJlMMplNKHomb) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Asimetrico](https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit) | 5:14 | 2023-08-11 |  |
-| [Recién He Llegado Vidita \(Recopilación Leda Valladares\)](https://open.spotify.com/track/0wy9RdnvIvuH63aygXv0dm) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [AMA](https://open.spotify.com/album/02fcZ97Z4wjbM0143uMLUI) | 4:47 | 2023-08-11 |  |
+| [Recién He Llegado Vidita \(Recopilación Leda Valladares\)](https://open.spotify.com/track/0wy9RdnvIvuH63aygXv0dm) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [AMA](https://open.spotify.com/album/02fcZ97Z4wjbM0143uMLUI) | 4:47 | 2023-08-11 | 2023-10-17 |
 | [Reverdecer \- Remix](https://open.spotify.com/track/6dmYVOQHqiFvgZLGExgwcB) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Reverdecer \(Remix\)](https://open.spotify.com/album/5Jdbh1vxLk6vy5D8Uj8yQG) | 3:01 | 2023-08-11 |  |
 | [Rio Contento](https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety) | [Lulacruza](https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE) | [Circular Tejido](https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN) | 4:55 | 2023-08-11 |  |
 | [Serenata Plateada](https://open.spotify.com/track/1lQJm0qUacjrCeSNlsInL2) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [New Latam Beats From Argentina \(Disco A\)](https://open.spotify.com/album/0xl8eIaxb1yPsyMPNSaS86) | 5:25 | 2023-08-11 |  |

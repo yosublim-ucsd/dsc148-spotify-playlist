@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 14910,
+  "num_followers": 14956,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWU1YjgzZmM0MDkxMDJmZTE4ZTdlZDhjNGE3OTljMmI4YTYwODQx",
+  "snapshot_id": "MCxhZDU1ZDBlYTgxMzM5NTUyOWM3NjE4YjRkZWYwYWYwOGQ4YzY1NTk2",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Too Fast",
+        "url": "https://open.spotify.com/album/3VOtFn4nuS6eOiwBMnEY2j"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 308005,
+      "name": "Too Fast",
+      "url": "https://open.spotify.com/track/42QRyJd5x6e2TFR1S41g2p"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Rich Slave",
         "url": "https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 211213,
       "name": "RNB (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Too Fast",
-        "url": "https://open.spotify.com/album/3VOtFn4nuS6eOiwBMnEY2j"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 308005,
-      "name": "Too Fast",
-      "url": "https://open.spotify.com/track/42QRyJd5x6e2TFR1S41g2p"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 261742,
+      "name": "Championships",
+      "url": "https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Come Home With Me",
         "url": "https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 82000,
       "name": "queens shit.",
       "url": "https://open.spotify.com/track/5fKB3QygGZfzgyapUCTpV9"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Championships",
-        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 261742,
-      "name": "Championships",
-      "url": "https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr"
     }
   ],
   "unique_name": "Nigel Sylvester's Taste",

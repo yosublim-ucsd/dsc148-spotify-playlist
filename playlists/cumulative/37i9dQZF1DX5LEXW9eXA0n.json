@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover:\bBIG MAMA(\ube45\ub9c8\ub9c8)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover:\bLEE SEOK HOON(\uc774\uc11d\ud6c8)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -676,7 +676,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 203266,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4EqZlbw5gy1MqN4CRYm77j"
@@ -2346,7 +2346,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 150187,
       "name": "BYE1393",
       "url": "https://open.spotify.com/track/54ocxngRcYnxnshEwum77S"
@@ -2704,7 +2704,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 191000,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0vKOTxwUAuSU3uOcjpevl7"
@@ -8565,6 +8565,24 @@
     },
     {
       "album": {
+        "name": "LEESEOKHOON 4th EP Album 'Untitled'",
+        "url": "https://open.spotify.com/album/3dt51zaMmRSBrH5Wky5HrC"
+      },
+      "artists": [
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264146,
+      "name": "Lasting Scent",
+      "url": "https://open.spotify.com/track/2AvcRjTfg4ZrwdDj0xoUtf"
+    },
+    {
+      "album": {
         "name": "Late Night",
         "url": "https://open.spotify.com/album/4LGqCVppg8PsAPqfVjDPsx"
       },
@@ -9398,7 +9416,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 233120,
       "name": "Love",
       "url": "https://open.spotify.com/track/4C4NgO8wekPIHieKk7apfA"
@@ -9564,7 +9582,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 216635,
       "name": "love is everything (Feat. U-Rim)",
       "url": "https://open.spotify.com/track/68twHXbWeVxgidIyw4C8hO"
@@ -9798,7 +9816,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 240061,
       "name": "Love War",
       "url": "https://open.spotify.com/track/3ZLH3WCaGQ2mvynea5a29s"
@@ -12278,7 +12296,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 228497,
       "name": "Presentiment",
       "url": "https://open.spotify.com/track/73vxAVH2iJfEofp8gKfh55"
@@ -12664,7 +12682,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 277984,
       "name": "River Flows In You",
       "url": "https://open.spotify.com/track/7yEEYSoudY6LUWS1nnP6Tu"
@@ -16188,7 +16206,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 239000,
       "name": "Unforgettable memories",
       "url": "https://open.spotify.com/track/3DzihRTuMj2cR5awD5t1Tq"
@@ -17970,7 +17988,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 224065,
       "name": "Your Scent",
       "url": "https://open.spotify.com/track/5JkCCSFsdCBVuGeAxtHENA"
@@ -18252,6 +18270,28 @@
       "duration_ms": 253533,
       "name": "\uafc8\uae38",
       "url": "https://open.spotify.com/track/6ONESVJurYMVmCfwV6yKjF"
+    },
+    {
+      "album": {
+        "name": "\ub098 \uc815\ub9d0 \ud798\ub4e4\uc5b4 (2023)",
+        "url": "https://open.spotify.com/album/6TiwcqhmaGJJQRFtR4hjKU"
+      },
+      "artists": [
+        {
+          "name": "Jung Chang Yong",
+          "url": "https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx"
+        },
+        {
+          "name": "Paul Lim",
+          "url": "https://open.spotify.com/artist/4lqdf1XdkczOsG8rD81unZ"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211286,
+      "name": "\ub098 \uc815\ub9d0 \ud798\ub4e4\uc5b4 (feat. \ud3f4\ub9bc)",
+      "url": "https://open.spotify.com/track/08lWUlD04qn35mvXZc9m8Z"
     },
     {
       "album": {
@@ -18674,7 +18714,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 227120,
       "name": "\uc774\ud63c\ud574\uc694 (Divorce)",
       "url": "https://open.spotify.com/track/12l28wJSPM3ALuF57ApdNl"

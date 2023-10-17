@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u00c9coutez en boucle les hits alg\u00e9riens du moment.",
+  "description": "Les hits alg\u00e9riens du moment.",
   "name": "DZ Hits",
   "tracks": [
     {
@@ -2374,6 +2374,24 @@
       "duration_ms": 206314,
       "name": "Nar El Hob",
       "url": "https://open.spotify.com/track/5nL8YdzlpRDrX5ge6YYC2b"
+    },
+    {
+      "album": {
+        "name": "Nari Nar (\u0646\u0627\u0631\u064a \u0646\u0627\u0631)",
+        "url": "https://open.spotify.com/album/1lSC2sRGtEZOJO9mi1vrGJ"
+      },
+      "artists": [
+        {
+          "name": "Mouh Milano",
+          "url": "https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "Nari Nar - \u0646\u0627\u0631\u064a \u0646\u0627\u0631",
+      "url": "https://open.spotify.com/track/3AdpMQpQXpSdrVgJUGDkPP"
     },
     {
       "album": {

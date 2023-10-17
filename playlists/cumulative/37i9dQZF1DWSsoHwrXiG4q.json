@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "forest whispers",
+        "url": "https://open.spotify.com/album/2LzaZf6hLpbvGRS7X1ekUd"
+      },
+      "artists": [
+        {
+          "name": "Jordan Speak",
+          "url": "https://open.spotify.com/artist/4FuvOxJJABoVS2m4ZPM8Br"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "forest whispers",
+      "url": "https://open.spotify.com/track/6JFwalRy97UO1xrYV1j89g"
+    },
+    {
+      "album": {
         "name": "Power Of Nature EP",
         "url": "https://open.spotify.com/album/7lhivxLusKW1BAT2hk6IDo"
       },

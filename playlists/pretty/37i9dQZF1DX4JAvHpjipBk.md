@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Bad Bunny, Ice Spice & Rema, Offset & Travis Scott, boygenius,  Troye Sivan and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,163,985 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,164,292 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Black Eye](https://open.spotify.com/track/28GReZcMRd0N2Ns1bJ3HzR) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Black Eye](https://open.spotify.com/album/5va7T2m57yj457ywVCRo93) | 4:32 |
 | 100 | [Infraliminal](https://open.spotify.com/track/7syNqxCLAQZzQlkRyJIfDr) | [REZZMAU5](https://open.spotify.com/artist/7m5U1YbhADGvZc2mIhfe1j), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Infraliminal](https://open.spotify.com/album/3RoWzELirpqIEBueczpnNF) | 4:26 |
 
-Snapshot ID: `MCwyNmM3NTdmZTQxMDhlMDRjOTFiMmNkNGQxZDMzYjE4YTYwNjk0OWJk`
+Snapshot ID: `MCw0NWNhNDM2ZTMzYmEyN2ZiNjVmY2JkMmNlNmUxZjE4NTZlYzE3NDc1`

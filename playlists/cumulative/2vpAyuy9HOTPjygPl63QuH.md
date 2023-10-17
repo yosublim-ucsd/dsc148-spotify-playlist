@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-1,399 songs - 3 day 7 hr 46 min
+1,400 songs - 3 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -652,6 +652,7 @@
 | [KLK](https://open.spotify.com/track/36B9zvERwdBR7ZtGDAqibg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [KLK](https://open.spotify.com/album/2tPFlCPO1HxQ8DJFc5QLw3) | 3:10 | 2023-01-21 | 2023-01-29 |
 | [Krank](https://open.spotify.com/track/2mpoYNw6rfN2aTIPMWMRvv) | [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX) | [Krank](https://open.spotify.com/album/0yoJL72KD6KmXNGMfv2WBg) | 3:46 | 2022-10-28 | 2022-11-06 |
 | [KUFF](https://open.spotify.com/track/3OaBKrVRu24DwPVfFBZ2Ap) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw), [Mike Epsse](https://open.spotify.com/artist/7sLCily4K5uTgTA8iOTHPd) | [KUFF](https://open.spotify.com/album/5UWVCVX6zdCq7LM98BX02e) | 2:52 | 2023-01-06 | 2023-01-14 |
+| [Kyrenia](https://open.spotify.com/track/3aBYRY9gfl7f04BnLwxwLk) | [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Kyrenia](https://open.spotify.com/album/2xQRYg2fydr41ILWzguidC) | 3:05 | 2023-10-16 |  |
 | [L.O.N.D.O.N](https://open.spotify.com/track/1pXluvwrfUy92ZhBIC9jfG) | [4bel](https://open.spotify.com/artist/3AtK7vJSKBampKnY8OfFeF) | [L.O.N.D.O.N](https://open.spotify.com/album/4ImVKtGF5A0ljxbYjVIAbi) | 5:05 | 2022-07-09 | 2022-07-16 |
 | [La Bulla](https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Many Malon](https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM) | [La Bulla](https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo) | 2:50 | 2023-10-06 | 2023-10-14 |
 | [La Candela Viva](https://open.spotify.com/track/7nXUx5OiBbR4gmKMW91Jjo) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [La Candela Viva](https://open.spotify.com/album/1QKqaGnIWDOk4w5eX0rjjE) | 3:00 | 2022-07-29 | 2022-08-06 |

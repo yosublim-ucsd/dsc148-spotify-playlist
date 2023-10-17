@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnYXoRsooMF.md) - [plain]
 
 > Get the perfect 8 hours in with gentle Ambient and piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116 likes - 163 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 131 likes - 163 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnYXoRsooMF.md) - [plain]
 | 63 | [Universal Truth](https://open.spotify.com/track/2zP7XSG2knSBpMJGf77WjF) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Significance](https://open.spotify.com/album/1WUUamSMdvlzn8MbPFX9Jg) | 3:15 |
 | 64 | [Aquiver](https://open.spotify.com/track/3Dm8skAbA9W4ufmCESqlDg) | [Chév Asto](https://open.spotify.com/artist/13ZKAALykJ7sZ130Vh7Y2n) | [Isolate](https://open.spotify.com/album/2lkmlImaHA6RPzCfkSbmQz) | 3:50 |
 | 65 | [Melancholy](https://open.spotify.com/track/569aPavFjL3WvPwZepX67d) | [Jonas Sandberg](https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O) | [Mosaic](https://open.spotify.com/album/57qBuzBPxYfFVSprhsijyk) | 2:59 |
-| 66 | [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 |
+| 66 | [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/2HZBmRJ4fqmsOnYuhnn16Q) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 |
 | 67 | [Drone](https://open.spotify.com/track/6ZRIH4QEe0sAkUCup8OmZM) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Drone](https://open.spotify.com/album/0eb5cxLBxQ6oYqT9VDwjo4) | 3:11 |
 | 68 | [Myriad](https://open.spotify.com/track/4zW4yUJtrt37ZXod5wrUit) | [Merlin Loughty](https://open.spotify.com/artist/3TNlVudGOBeQObBQQIQUcu) | [Quietude](https://open.spotify.com/album/00MHMxmwPIYmAmErAFpg6w) | 3:05 |
 | 69 | [Natural Connection](https://open.spotify.com/track/79xizJgR2yV6BfP7Y4q40k) | [Certificate 16](https://open.spotify.com/artist/6RJ9f6LmApkHiTkaAfghlA) | [Vigilance](https://open.spotify.com/album/3KWwjvH1tXPkrKFOhfhTgQ) | 3:28 |
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnYXoRsooMF.md) - [plain]
 | 162 | [Nightbird](https://open.spotify.com/track/2b0Sl3lyI3p4qZSYlVaGKg) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Nightbird](https://open.spotify.com/album/0vkqn39TjZcoEINbXXQkOp) | 3:19 |
 | 163 | [Seasons](https://open.spotify.com/track/74jdFBI7LmTV2FMdd5qTh3) | [Ghasel](https://open.spotify.com/artist/6ylMYNmAVRn0ROcAuIFgEC) | [Seasons](https://open.spotify.com/album/4q9CspBJjcPmfewtSY5tAg) | 2:49 |
 
-Snapshot ID: `MCxkZDllNzFiZDI5M2FhMzgwYjRhNzQ4MGJmZGU1MzdlM2MzOTViODMw`
+Snapshot ID: `MCw5MzMxMTBhYzM2MzQzMzk3YWZhMmU0NTQ0OGQxZmVmYTU5ZTg3Njli`

@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 28488,
+  "num_followers": 28492,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzUwMyw2ZmMwODBmYmY0MzEzMTBkMTZjYTc1YzU1MmU5N2MzNThmMWQ1MTI3",
+  "snapshot_id": "MzUwOSw5NjAyMGEwNWNhZDg1OWUyYWQwNjQxZWRjZGZkMWVmYzkyMjUwNGVh",
   "tracks": [
+    {
+      "added_at": "2023-10-16 23:01:54",
+      "album": {
+        "name": "Always Get Through To You",
+        "url": "https://open.spotify.com/album/51OIExqk0K2EqCJTnKvdaV"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 180063,
+      "name": "Always Get Through To You - Edit",
+      "url": "https://open.spotify.com/track/0HWY09dnVuJfERJcgEZ836"
+    },
     {
       "added_at": "2023-10-12 09:59:58",
       "album": {
@@ -29,6 +45,22 @@
       "url": "https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr"
     },
     {
+      "added_at": "2023-10-16 23:01:17",
+      "album": {
+        "name": "Night Sculpture",
+        "url": "https://open.spotify.com/album/1DU6Xkh6E2apfVK3pERMWh"
+      },
+      "artists": [
+        {
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+        }
+      ],
+      "duration_ms": 206095,
+      "name": "Night Sculpture",
+      "url": "https://open.spotify.com/track/6ZCx2AjyhVmQhjOBkgFXnl"
+    },
+    {
       "added_at": "2023-10-12 13:58:14",
       "album": {
         "name": "Its me ( g 8 ) / Oway ( f 7 )",
@@ -43,22 +75,6 @@
       "duration_ms": 317765,
       "name": "Its me ( g 8 )",
       "url": "https://open.spotify.com/track/3dC6yRjocmprQqEYvv72Ft"
-    },
-    {
-      "added_at": "2023-10-03 14:27:03",
-      "album": {
-        "name": "Munitions",
-        "url": "https://open.spotify.com/album/7tTVaKHuBq94fj2RBplMYo"
-      },
-      "artists": [
-        {
-          "name": "Forest Swords",
-          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
-        }
-      ],
-      "duration_ms": 224960,
-      "name": "Munitions",
-      "url": "https://open.spotify.com/track/58iAMQaKz7UqvFyhknuyAY"
     },
     {
       "added_at": "2023-09-27 18:09:47",
@@ -599,22 +615,6 @@
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
-    },
-    {
-      "added_at": "2023-05-24 20:39:18",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 192496,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7"
     },
     {
       "added_at": "2023-04-14 17:33:21",

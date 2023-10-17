@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6876\)
+## Playlists \(6877\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -177,7 +177,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [1999](/playlists/pretty/1WkrD0MvdN3BcLa4DXBRCQ.md)
 - [2 \. 24](/playlists/pretty/37i9dQZF1DXaitacWUJMPH.md)
 - [20 Questions](/playlists/pretty/37i9dQZF1DX4b3CsyjLN6p.md)
-- [20 years since Ryan met Marissa](/playlists/pretty/37i9dQZF1DX9c9lP3B4zeE.md)
 - [2000](/playlists/pretty/0JvFNpF6sn3LeV5LXbbSxv.md)
 - [2000s Country](/playlists/pretty/37i9dQZF1DXdxUH6sNtcDe.md)
 - [2000s HITS THROWBACKS \| TOP 100 SONGS](/playlists/pretty/2f6tXtN0XesjONxicAzMIw.md)
@@ -986,6 +985,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [COBRAH's track IDs](/playlists/pretty/37i9dQZF1DWYoioDxgMsjZ.md)
 - [CODE GEASS SERIES \-コードギアスシリーズ\-](/playlists/pretty/37i9dQZF1DX05YNpFuDzLK.md)
 - [CODING FOCUS](/playlists/pretty/15ngsvOmlTkARCg7ipoNvG.md)
+- [COUNTER//CULTURE: Keith Herron of Advisry](/playlists/pretty/37i9dQZF1DX9cWx7nd0uuW.md)
 - [COUNTER//CULTURE: KennyHoopla](/playlists/pretty/37i9dQZF1DX9Qt5e1zZYbU.md)
 - [COUNTER//CULTURE: PVRIS](/playlists/pretty/37i9dQZF1DXaPYCwLnB6q1.md)
 - [COUNTER//CULTURE: Poppy](/playlists/pretty/37i9dQZF1DX9n1dvGkpvfI.md)
@@ -1852,7 +1852,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Faithful Melodies](/playlists/pretty/37i9dQZF1DWW37fHr0rhOh.md)
 - [Fall Asleep](/playlists/pretty/37i9dQZF1DX3WdioUzkg8I.md)
 - [Falling In Love](/playlists/pretty/08vPKM3pmoyF6crB2EtASQ.md)
-- [Familienzeit: Herbst](/playlists/pretty/37i9dQZF1DX7lk7hiGiH2z.md)
+- [Familienzeit: Halloween](/playlists/pretty/37i9dQZF1DX7lk7hiGiH2z.md)
 - [Family BBQ](/playlists/pretty/37i9dQZF1DX8U8pFd8VSmd.md)
 - [Family Beach Time](/playlists/pretty/37i9dQZF1DXb3ZKiuF24g4.md)
 - [Family Christmas Party](/playlists/pretty/37i9dQZF1DWYTNedJ22GVG.md)
@@ -4623,6 +4623,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Spotify & Chill](/playlists/pretty/37i9dQZF1DX7ZnTv0GKubq.md)
 - [Spotify Global Discoveries](/playlists/pretty/0aArwHugPhiiuaL8KxyVXQ.md)
 - [Spotify Global Hits](/playlists/pretty/4nInziu6O7lNV0ucn8w7YV.md)
+- [Spotify House SXSW Australia](/playlists/pretty/37i9dQZF1DX9c9lP3B4zeE.md)
 - [Spotify House Thursday](/playlists/pretty/6NjugpbMNtXAtbv3NIbb3j.md)
 - [Spotify House at CMA Fest 2023](/playlists/pretty/37i9dQZF1DX6HIvDVo75RY.md)
 - [Spotify Island on Roblox](/playlists/pretty/37i9dQZF1DX30Mgh34Cry8.md)

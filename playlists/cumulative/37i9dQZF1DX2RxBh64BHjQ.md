@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-1,348 songs - 2 day 13 hr 3 min
+1,349 songs - 2 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Bag Talk 2](https://open.spotify.com/track/5hd3WV2knu9mrtnwqXE2Fd) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU) | [Bag Talk 2](https://open.spotify.com/album/1SoTR6tc6NigtPgRmQ9GMP) | 2:54 | 2022-04-01 | 2022-05-20 |
 | [Ball N Chill](https://open.spotify.com/track/4bkGptTkmvTw7bmZqp1osN) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Ball N Chill](https://open.spotify.com/album/1jdq8pYwkAcpdU8pu1dNz2) | 3:23 | 2023-02-17 | 2023-03-11 |
 | [Bang Man](https://open.spotify.com/track/735AY1Wwc1zb6exlKxH0mT) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Bang Man](https://open.spotify.com/album/5Lmpc36dtIEEtxa6iNE1dv) | 2:59 | 2023-08-25 |  |
+| [Barbie](https://open.spotify.com/track/0wnZP5KJSJ8xmTJmmjOqwr) | [JaidynAlexis](https://open.spotify.com/artist/1bu90rjktSmOd2wveQoIKi) | [Barbie](https://open.spotify.com/album/2YvG8ptg1hzWzX0pXA4bbg) | 2:08 | 2023-10-16 |  |
 | [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Barrio \(with Lefty Sm\)](https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v) | 2:24 | 2023-07-21 | 2023-08-19 |
 | [Be Alright](https://open.spotify.com/track/1Cwv7OzGjvpHcCGxY1Nmvk) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [Here 2 Stay](https://open.spotify.com/album/2hnZC5cplWVngfVm2Hjsfr) | 2:34 | 2023-05-12 | 2023-06-17 |
 | [Beat Em Down](https://open.spotify.com/track/0Sjhry41MJu2WSVDBdhJfn) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [Beat Em Down](https://open.spotify.com/album/1fzHKs0eAeX9jMIEAHDnZ6) | 2:10 | 2022-03-11 | 2022-04-02 |

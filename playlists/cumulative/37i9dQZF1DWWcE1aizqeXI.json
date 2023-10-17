@@ -2584,10 +2584,28 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 188630,
       "name": "Rise & grind",
       "url": "https://open.spotify.com/track/0EGw0mrH8bFttseRYAuAFp"
+    },
+    {
+      "album": {
+        "name": "4th Time Da Charm",
+        "url": "https://open.spotify.com/album/14Rf2UMgdn6Ur2NHK7b0cZ"
+      },
+      "artists": [
+        {
+          "name": "MoneyBoy YB",
+          "url": "https://open.spotify.com/artist/6eN3WIWcCLAQhYWLfWH8JN"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188630,
+      "name": "Rise & Grind",
+      "url": "https://open.spotify.com/track/4f01r0DYdzbJ7ZFl70CBrh"
     },
     {
       "album": {

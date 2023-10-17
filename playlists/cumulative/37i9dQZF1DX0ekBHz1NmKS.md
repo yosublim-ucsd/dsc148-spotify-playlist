@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-812 songs - 1 day 18 hr 57 min
+814 songs - 1 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [By Design](https://open.spotify.com/track/0s8QkbnGHx2WsRtgDAnvkR) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [DEAR 27 pt\. 2](https://open.spotify.com/album/55HXkfu2EIhHeXO5Mxe98D) | 3:39 | 2022-09-29 | 2022-10-28 |
 | [By Design](https://open.spotify.com/track/14p8BHyH8Ice5LpfhRLlqx) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [DEAR 27 pt.2](https://open.spotify.com/album/46DJbHhe1AtdlvXqoe1BYz) | 3:39 | 2022-09-29 | 2022-10-03 |
 | [Bygga Nytt](https://open.spotify.com/track/2530kYkCKjqD2neMyPwPtp) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Bygga Nytt](https://open.spotify.com/album/4ipVGk4eu3saiPXuN1firl) | 3:40 | 2022-09-15 | 2022-10-07 |
+| [Bästa som hänt](https://open.spotify.com/track/2FqMN5yQNBTN1argtzblRl) | [Jobe](https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP) | [Bästa som hänt](https://open.spotify.com/album/7plgkCP375uQfQtP9O8wh2) | 2:56 | 2023-10-13 |  |
 | [Bästa Vi Gjort](https://open.spotify.com/track/3xzTKNUOxzEBovAKpd5AQO) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/4GoKbr5Cdm3Y36fb3P7775) | 2:52 | 2022-04-28 | 2022-08-14 |
 | [Bästa Vi Gjort](https://open.spotify.com/track/5ITfTyOipNdU9hammDtEk8) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/5lpnElAi4OHtsdAqDWMHwR) | 2:52 | 2022-09-15 | 2023-02-01 |
 | [Call Me By Your Name](https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Call Me By Your Name](https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO) | 2:50 | 2023-01-05 | 2023-10-06 |
@@ -292,6 +293,7 @@
 | [Hatar att du lät oss gå](https://open.spotify.com/track/7EisBw1WTPVZBFZlO6gYm9) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Hatar att du lät oss gå](https://open.spotify.com/album/0EgjkXmUyXWeBOhZqUYnRO) | 2:49 | 2022-10-27 | 2023-10-06 |
 | [Hate My Guts](https://open.spotify.com/track/3WM7HwJAxhlI87PAzuuvyB) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Hate My Guts](https://open.spotify.com/album/3KQgYkwicq99p0p0u1Dy4K) | 2:53 | 2022-03-24 | 2022-04-02 |
 | [Havanna](https://open.spotify.com/track/0ZN8XG8KwLP0gXOcLFETDA) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Havanna](https://open.spotify.com/album/4mBLs4HnnkV71UtvwdTRqg) | 3:31 | 2021-12-16 | 2022-03-10 |
+| [Headed North](https://open.spotify.com/track/6JnGmZTooUN8UW37syo8mV) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Headed North](https://open.spotify.com/album/3h9JCAbfodHxKpFVT5oXiL) | 2:56 | 2023-10-13 |  |
 | [Heartbreak Hotel](https://open.spotify.com/track/1GgYN93yWE3pA7wmbvkX1F) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG) | [Heartbreak Hotel](https://open.spotify.com/album/6AEhJn5nqGPP6bGXO7HJYq) | 2:37 | 2022-04-07 | 2022-04-21 |
 | [Heartbreakmiljonär](https://open.spotify.com/track/2li3Mf9nEwOkvQ43QUNh0j) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Heartbreakmiljonär](https://open.spotify.com/album/0b4MV4Nget3iV9y2vi7Ewz) | 3:13 | 2023-10-12 |  |
 | [Heaven med dig](https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt](https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM) | 3:03 | 2022-07-28 | 2023-10-06 |
@@ -620,7 +622,7 @@
 | [Smile](https://open.spotify.com/track/3OUlwrGsM6xGuA66YVpeGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Smile](https://open.spotify.com/album/24quzyKLUAsPgZXsZXQdky) | 3:12 | 2021-12-16 | 2022-03-11 |
 | [Smile for You](https://open.spotify.com/track/5g8Blci6F1FQTlHEEt6xUo) | [Vicki Vox](https://open.spotify.com/artist/7cPHWzJNSiVkCenk3nxQdJ) | [Smile For You](https://open.spotify.com/album/0JVEngez3de3wsfiUdLNvk) | 2:51 | 2022-03-10 | 2022-04-01 |
 | [Smärtsamma minnen](https://open.spotify.com/track/5aN4JPW9GD5TNjKnGjB09w) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Smärtsamma minnen](https://open.spotify.com/album/0YlLdI5yimLSxC4s0437hx) | 3:24 | 2022-09-08 | 2022-10-07 |
-| [Små bäckar, stora floder](https://open.spotify.com/track/1PHLVlH4ehdonWo8Xwupro) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Poetiska försök](https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu) | 5:44 | 2023-04-27 |  |
+| [Små bäckar, stora floder](https://open.spotify.com/track/1PHLVlH4ehdonWo8Xwupro) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Poetiska försök](https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu) | 5:44 | 2023-04-27 | 2023-10-17 |
 | [Snooze](https://open.spotify.com/track/3WYeza72Tw4pyEZ6T1jEwC) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Snooze](https://open.spotify.com/album/1MwYzLeYyefz3708ObaTnD) | 3:18 | 2021-12-16 | 2022-03-01 |
 | [Snälla bli min \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/1ZJdjsCEdolnRN83W9dWiX) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Snälla bli min \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/4lb6TvMkq5XG77Vdydcy4a) | 2:38 | 2021-12-16 | 2022-03-11 |
 | [So Alive](https://open.spotify.com/track/6jYqBYYrk4oRdPirwCPYlz) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Still Hide](https://open.spotify.com/album/3hhlscP3tUgIgdNW198tHl) | 3:29 | 2021-12-16 | 2022-03-31 |
@@ -796,7 +798,7 @@
 | [wish I didn't know you](https://open.spotify.com/track/5eqawn12Jr65SvCFHvL3Jh) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [wish I didn't know you](https://open.spotify.com/album/1vjdyS508kWh3k8KbUK4nU) | 2:53 | 2022-10-15 | 2023-06-01 |
 | [Wishful Thinking](https://open.spotify.com/track/2JtbYlm4BF5rLFrhkyHXU1) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Wishful Thinking](https://open.spotify.com/album/6X2z7A7ecxou7Hz7haotFO) | 4:03 | 2022-02-05 | 2022-05-13 |
 | [Wishing well](https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Foam](https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m) | 2:24 | 2023-06-22 |  |
-| [Wolf Cries](https://open.spotify.com/track/1UENNNlQETDaFv7Yvyoc5v) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Wolf Cries](https://open.spotify.com/album/2UbWIKOOJj6Zgg8LrVCAY3) | 3:10 | 2023-08-25 |  |
+| [Wolf Cries](https://open.spotify.com/track/1UENNNlQETDaFv7Yvyoc5v) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Wolf Cries](https://open.spotify.com/album/2UbWIKOOJj6Zgg8LrVCAY3) | 3:10 | 2023-08-25 | 2023-10-17 |
 | [Woman](https://open.spotify.com/track/2aZghG8jayn0ZjvUN3EiL5) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Woman](https://open.spotify.com/album/54LgsqW9nfE6BjspyJz7K8) | 3:41 | 2023-09-28 |  |
 | [Wonderchild \- Spotify Singles](https://open.spotify.com/track/3Dp49tho4cUwwrogE2SQaG) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Wonderchild \- Spotify Singles](https://open.spotify.com/album/53UPgh5ZFAmsuZtmQqiyO9) | 3:41 | 2022-05-12 | 2023-10-06 |
 | [Worst Mom](https://open.spotify.com/track/4EqDdwHM4tgzTZebfqBEXd) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Worst Mom](https://open.spotify.com/album/2yJGak5X0vnrCtydSe1xau) | 3:01 | 2023-09-21 |  |

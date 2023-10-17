@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Zach Bryan & Kacey Musgraves
 
-501 songs - 1 day 6 hr 55 min
+502 songs - 1 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,7 +455,8 @@
 | [Trouble](https://open.spotify.com/track/6OB6oN7g6BbcrTFoP6l7sl) | [Sophie & The Broken Things](https://open.spotify.com/artist/620A5QNUAGBCuBYOUHf0c0), [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Trouble](https://open.spotify.com/album/4zFeo0LkLXCgiYgPqKouI7) | 3:47 | 2021-12-17 | 2022-01-29 |
 | [Two Timin'](https://open.spotify.com/track/0grVSIK1Dt81ZDMnBGeJ6O) | [The Watson Twins](https://open.spotify.com/artist/0XJaZaoMBv3i7FoAr7Slg4), [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [Two Timin'](https://open.spotify.com/album/404XRPTtRC0I56OL6lcACE) | 3:08 | 2022-05-20 | 2022-07-23 |
 | [Unoriginal Sin](https://open.spotify.com/track/0UYl5wtIuUCqsQbPqLP1bY) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Mike Campbell](https://open.spotify.com/artist/2rEZEkmqo6o4rbEoXQlD3V) | [Strays II \(Act II: Mind Travel\)](https://open.spotify.com/album/7z5QiX0dg41jTKWOMg9uvY) | 3:01 | 2023-09-15 | 2023-09-17 |
-| [Unoriginal Sin \[Feat\. Mike Campbell\]](https://open.spotify.com/track/3LaEsaM0VWzl3elLRQrAR8) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Mike Campbell](https://open.spotify.com/artist/2rEZEkmqo6o4rbEoXQlD3V) | [Strays II \(Act II: Mind Travel\)](https://open.spotify.com/album/5ywCGRWYJmrE0bFwip9OnO) | 3:01 | 2023-09-15 |  |
+| [Unoriginal Sin \[Feat\. Mike Campbell\]](https://open.spotify.com/track/3LaEsaM0VWzl3elLRQrAR8) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Mike Campbell](https://open.spotify.com/artist/2rEZEkmqo6o4rbEoXQlD3V) | [Strays II \(Act II: Mind Travel\)](https://open.spotify.com/album/5ywCGRWYJmrE0bFwip9OnO) | 3:01 | 2023-09-15 | 2023-10-17 |
+| [Unoriginal Sin \[Feat\. Mike Campbell\]](https://open.spotify.com/track/7Jrjk1IKESmyGLibPKkwOV) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Mike Campbell](https://open.spotify.com/artist/2rEZEkmqo6o4rbEoXQlD3V) | [Strays II](https://open.spotify.com/album/6O4somF5cgA58eOK1wWdmJ) | 3:03 | 2023-10-13 |  |
 | [Useless](https://open.spotify.com/track/1JHtHEe65WWFypjHAuXB6S) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Useless](https://open.spotify.com/album/29Cep4HZMEuokBgwiNSV6p) | 3:09 | 2022-10-21 | 2023-06-10 |
 | [Using Again](https://open.spotify.com/track/6TQzLEc2mFHyZ4eYXu50ma) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20) | [I Will Rise](https://open.spotify.com/album/1Vl2kmltMKBocyjqcqGSZH) | 2:43 | 2022-11-25 | 2023-07-01 |
 | [Vanlife](https://open.spotify.com/track/45VMPMgzOLjEc7XHcWXiJJ) | [Willi Carlisle](https://open.spotify.com/artist/3JXh5RaaZipkV08RQK9L3L) | [Vanlife](https://open.spotify.com/album/1R1JBKJdMh57oGTmp37vuF) | 4:46 | 2022-06-17 | 2022-08-13 |

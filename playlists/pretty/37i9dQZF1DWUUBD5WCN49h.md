@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8?si=SjcFe\-spQVOk21d\_XoZiXA"> Kold AF </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,422 likes - 85 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,431 likes - 85 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 84 | [Jo](https://open.spotify.com/track/1IPiMWs3g5UezRGUUwiXWz) | [Geoxpress](https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV) | [Jo](https://open.spotify.com/album/6I9D91lUwbSI1MHsqi0JbA) | 2:18 |
 | 85 | [Let me in](https://open.spotify.com/track/0uQawTqgIYeAefKPRVjgdQ) | [Garey Godson](https://open.spotify.com/artist/1aUSlNPvVz5IYg9sSsEDPK), [Essilfie](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Let me in](https://open.spotify.com/album/1NIImS6Eviz4bIrkLQIbN4) | 2:21 |
 
-Snapshot ID: `MCxlYmVlNzNhNmUyMjI0NDQwMGE5YjE3OWRjOGZlYzMxNTcxMzNmMjIw`
+Snapshot ID: `MCwwNjA2YjZmZjExN2Q1NjNmODljNjg0YWQ3OTMwOGY2YjgwYmUzZmNh`

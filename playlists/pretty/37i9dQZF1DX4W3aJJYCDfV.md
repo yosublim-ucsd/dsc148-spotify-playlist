@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Holly Humberstone \(pictured\), Ice Spice, Fred Again.\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,712 likes - 151 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,770 likes - 151 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 150 | [Yours Is Mine](https://open.spotify.com/track/0rRyjPKS0ZcFbWITboVczH) | [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP) | [Yours Is Mine](https://open.spotify.com/album/5vQPNrGgOX2tNKy6DJGpiZ) | 2:42 |
 | 151 | [TK421](https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [TK421](https://open.spotify.com/album/7IncAEknANwQthqiwWySBP) | 3:15 |
 
-Snapshot ID: `MCw0MTM3ZDhlMzk5YjM0ZWIxNDQwODNjYWY5YmU0ZTFhZDc3ZmJmNTc3`
+Snapshot ID: `MCwxN2JiNjllZTIwNjAyYzIyZmY0YjEzMjY1NmU1MTdmMzc3MjJhYzRk`

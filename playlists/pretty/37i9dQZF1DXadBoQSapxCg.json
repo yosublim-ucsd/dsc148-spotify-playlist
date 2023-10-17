@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 303426,
+  "num_followers": 303620,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWIyZTY5NWFhMjI4ODM5Yjc0MDI2OTNkMTNlY2RiMGY4ZDViNmQ2",
+  "snapshot_id": "MCxlN2Q2Mzk5MzkyMmVjY2RiM2RlYzJlNmYzZWJhMGVlYWNkZWEyNjU1",
   "tracks": [
     {
       "added_at": "2023-10-13 14:08:47",
@@ -215,6 +215,26 @@
     {
       "added_at": "2023-10-13 14:08:47",
       "album": {
+        "name": "Bluesman",
+        "url": "https://open.spotify.com/album/0QMVSKhzT4u2DEd8qdlz4I"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 237898,
+      "name": "Flamingos",
+      "url": "https://open.spotify.com/track/7wcDSsREsX9wn8P1iEdBgj"
+    },
+    {
+      "added_at": "2023-10-13 14:08:47",
+      "album": {
         "name": "Me Negaram Amor",
         "url": "https://open.spotify.com/album/6vgTioni6TWucdoT33BuV7"
       },
@@ -247,50 +267,6 @@
     {
       "added_at": "2023-10-13 14:08:47",
       "album": {
-        "name": "Bluesman",
-        "url": "https://open.spotify.com/album/0QMVSKhzT4u2DEd8qdlz4I"
-      },
-      "artists": [
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 237898,
-      "name": "Flamingos",
-      "url": "https://open.spotify.com/track/7wcDSsREsX9wn8P1iEdBgj"
-    },
-    {
-      "added_at": "2023-10-13 14:08:47",
-      "album": {
-        "name": "Me Espera",
-        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        }
-      ],
-      "duration_ms": 194821,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
-    },
-    {
-      "added_at": "2023-10-13 14:08:47",
-      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
       },
@@ -315,6 +291,30 @@
       "duration_ms": 193697,
       "name": "S\u00f3 me ligar",
       "url": "https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9"
+    },
+    {
+      "added_at": "2023-10-13 14:08:47",
+      "album": {
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        }
+      ],
+      "duration_ms": 194821,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
     },
     {
       "added_at": "2023-10-13 14:08:47",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-10-13 14:08:47",
       "album": {
+        "name": "STR!PP3R",
+        "url": "https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 187050,
+      "name": "STR!PP3R",
+      "url": "https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj"
+    },
+    {
+      "added_at": "2023-10-13 14:08:47",
+      "album": {
         "name": "Y.D.K.H.M (Remix)",
         "url": "https://open.spotify.com/album/09zWyPaGkqIMLF4pv7Z7ky"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 265421,
       "name": "Y.D.K.H.M - Remix",
       "url": "https://open.spotify.com/track/6slv9K1TWiGKS0lLPGToXN"
-    },
-    {
-      "added_at": "2023-10-13 14:08:47",
-      "album": {
-        "name": "STR!PP3R",
-        "url": "https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 187050,
-      "name": "STR!PP3R",
-      "url": "https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj"
     },
     {
       "added_at": "2023-10-13 14:08:47",
@@ -1163,34 +1163,6 @@
     {
       "added_at": "2023-10-13 14:08:47",
       "album": {
-        "name": "V\u00eanus",
-        "url": "https://open.spotify.com/album/3wFwGLDDKHn9QGVY7fNhNb"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        },
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        },
-        {
-          "name": "Killua",
-          "url": "https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo"
-        },
-        {
-          "name": "Aisha",
-          "url": "https://open.spotify.com/artist/2xL7Ti7mCKljm68MTXez1Y"
-        }
-      ],
-      "duration_ms": 230437,
-      "name": "V\u00eanus (feat. A\u00edsha)",
-      "url": "https://open.spotify.com/track/1k2yIXtCDKULmVqlhWQeNz"
-    },
-    {
-      "added_at": "2023-10-13 14:08:47",
-      "album": {
         "name": "VemK",
         "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
       },
@@ -1223,6 +1195,34 @@
       "duration_ms": 197494,
       "name": "Playlist Transante",
       "url": "https://open.spotify.com/track/2qCps28vIziXwOKmici1g7"
+    },
+    {
+      "added_at": "2023-10-13 14:08:47",
+      "album": {
+        "name": "V\u00eanus",
+        "url": "https://open.spotify.com/album/3wFwGLDDKHn9QGVY7fNhNb"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        },
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        },
+        {
+          "name": "Killua",
+          "url": "https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo"
+        },
+        {
+          "name": "Aisha",
+          "url": "https://open.spotify.com/artist/2xL7Ti7mCKljm68MTXez1Y"
+        }
+      ],
+      "duration_ms": 230437,
+      "name": "V\u00eanus (feat. A\u00edsha)",
+      "url": "https://open.spotify.com/track/1k2yIXtCDKULmVqlhWQeNz"
     }
   ],
   "unique_name": "Rala e Rola",

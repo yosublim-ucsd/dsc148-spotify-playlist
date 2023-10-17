@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Group Hug, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,096 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,098 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Notarzt](https://open.spotify.com/track/3nICvZhpfVdxoUrmNSuRow) | [vian](https://open.spotify.com/artist/6vlxMZpldVeDOT6RtD5Y0N), [5euroGoldi](https://open.spotify.com/artist/1MBOnbK261F2Sd0VFsAdj5) | [Notarzt](https://open.spotify.com/album/0ZtZ33CVye97u1Prrh3LFE) | 2:13 |
 | 80 | [Backseat Dreams](https://open.spotify.com/track/7ymGUcvRGJKJzQnw7tJBtI) | [Margo](https://open.spotify.com/artist/5qGyCigKI60uP8GxQXyIer) | [Backseat Dreams](https://open.spotify.com/album/6sFkRtqFK5wjr3xFemAeLu) | 3:15 |
 
-Snapshot ID: `MCxhOTkyNjM4NDdjMTQyOWMxODUwMzFhMzEyYzU0NTk0OTBmOGU2MjQ3`
+Snapshot ID: `MCw0NzVjZmYyZTZmN2QxMGE4OWJiOWVkYWVjYmE2NWVlY2RkM2Q0YWM2`

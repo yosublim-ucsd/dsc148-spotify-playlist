@@ -4,7 +4,7 @@
 
 > Indian flute and nature sounds transport you to a hidden sacred place deep in the woods..\. Escape to your inner sanctuary to find recovery, healing and tranquility.
 
-84 songs - 5 hr 43 min
+88 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Dawn Of Day](https://open.spotify.com/track/7LQ2UvA5P0Jz11iyIox3S1) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Dawn Of Day](https://open.spotify.com/album/4oHYUmGNklzslLCviMZexe) | 3:10 | 2023-08-10 |  |
 | [Devotions](https://open.spotify.com/track/6ALEIWchlJMZDG8HP1kgsg) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Devotions](https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ) | 2:56 | 2023-08-10 |  |
 | [Discover Life](https://open.spotify.com/track/4bLd3uVbqWawnji0PUPKBb) | [Damir Yamm](https://open.spotify.com/artist/1IpLgouAHJGUP94xZkXi5z) | [Discover Life](https://open.spotify.com/album/30lAUYmjzNsK0IFONxBI9P) | 2:34 | 2023-08-10 |  |
+| [Divine Flute](https://open.spotify.com/track/03WqpsPkg56siLfvUlJ3MB) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Divine Flute](https://open.spotify.com/album/5KFrpxLSoLB3vthsI5OfdA) | 3:44 | 2023-10-16 |  |
 | [Echoes of Stillness](https://open.spotify.com/track/0QhZbK0kuJbKi9li1SfwG9) | [Reina Akabava](https://open.spotify.com/artist/7AssoXxRyds50wtePrUpu7) | [Echoes of Stillness](https://open.spotify.com/album/0wNWTMXiFuXPdoPoRcUiBm) | 2:18 | 2023-08-10 |  |
 | [Enchanted Garden](https://open.spotify.com/track/2oJZmQZkwFJ6bVtav4qrvW) | [Mar Duron](https://open.spotify.com/artist/5Z2wSeKFonNld5ZNij5qQV) | [Enchanted Garden](https://open.spotify.com/album/6bWEBVo1oTamGFdggtMpDY) | 2:08 | 2023-08-18 |  |
 | [Floating Flute Waves](https://open.spotify.com/track/4sgtG9W2j4xa1aaLDkXWp7) | [Izrail](https://open.spotify.com/artist/2leVUaOXPT335bAsr36YiH) | [Floating Flute Waves](https://open.spotify.com/album/52zSNVljbyrxo2Nbvshwtj) | 2:22 | 2023-10-04 |  |
@@ -32,6 +33,7 @@
 | [Flutes in the Breeze](https://open.spotify.com/track/5f5OgaBM5zeFqoDJTLvDek) | [Gomis Golab](https://open.spotify.com/artist/29nePvmDsNHG26KHxVMcqa) | [Flute in the Breeze](https://open.spotify.com/album/2RksRuylHyPAP44k3cirsv) | 2:11 | 2023-08-10 |  |
 | [Flutonia Dreaming](https://open.spotify.com/track/6bmtzWeaEulnHVrCMfUpBd) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Flutonia Dreaming](https://open.spotify.com/album/6f4VSiUzbMdkLf0H9VAQJC) | 3:05 | 2023-08-18 |  |
 | [Forest Dream](https://open.spotify.com/track/3dSrZUj12wbg8N4615IQRR) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Forest Dream](https://open.spotify.com/album/2M8KpQdopdn3r8tgG8FOoN) | 2:36 | 2023-08-10 |  |
+| [Forest Temple](https://open.spotify.com/track/4wuuxCsLLcEqaZtof12vwt) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Forest Temple](https://open.spotify.com/album/7Eq90GfM3AIlwQnrzCCOPR) | 3:54 | 2023-10-16 |  |
 | [Fountain Of Calmness](https://open.spotify.com/track/1BcSsY73b8jCwC57mpu1Xk) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Fountain Of Calmness](https://open.spotify.com/album/5Q87MNpqzebIdfCoWTSSOS) | 3:26 | 2023-08-10 |  |
 | [Gahar Saans Lene](https://open.spotify.com/track/1IN5GXBfxjj9AChKNxBIxY) | [Yog Sthaan](https://open.spotify.com/artist/3WT6T8U794GLy6Y5KQ22Mq) | [Gahar Saans Lene](https://open.spotify.com/album/6trlusMhaofoMrErS0kezO) | 3:31 | 2023-08-10 |  |
 | [Harmonious Waves](https://open.spotify.com/track/4Z4KRvAEWbQ7uodFWnvptY) | [Torino Sky](https://open.spotify.com/artist/4qUuZzHZAeduYNqDbRGITd) | [Harmonious Waves](https://open.spotify.com/album/40UBjtYufZkwb3oVI11kM6) | 2:47 | 2023-08-10 |  |
@@ -48,6 +50,7 @@
 | [krishna Flute Relaxing music for Positive Energy \|Meditation Flute\|Flute,yoga,healing 159](https://open.spotify.com/track/2QsieuI3d9ECqYd0VO5OVd) | [DeviAnagha](https://open.spotify.com/artist/4laG4rOaZRQdroMp4uXuaB) | [krishna Flute Relaxing music for Positive Energy \|Meditation Flute\|Flute,yoga,healing 159](https://open.spotify.com/album/2Qv9NYsNcJZlgFL5Qpg9L6) | 1:09:19 | 2023-08-10 | 2023-08-17 |
 | [Krishna's Flute](https://open.spotify.com/track/05HwPjHeYVPpNsVoWKh8iC) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Krishna's Flute](https://open.spotify.com/album/4qvOvobfMXgPzpIXftzzlH) | 6:35 | 2023-08-10 |  |
 | [Light Happening](https://open.spotify.com/track/7gJuJEABi5AK7fpJPrkAEw) | [Kshitij Lata](https://open.spotify.com/artist/0MZblRhmt61Jd2QRnuLhG0) | [Light Happening](https://open.spotify.com/album/24BFF84joh234Ri9oX5kK8) | 4:58 | 2023-08-10 |  |
+| [Lonavala](https://open.spotify.com/track/5pFuihX2ACXUTNvC8CeVlY) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Lonavala](https://open.spotify.com/album/2wb2gJ2ta69lCHczWT2W9A) | 2:57 | 2023-10-16 |  |
 | [Majestic Presence](https://open.spotify.com/track/6AJOjm03mQ3HGSWS2nNwcB) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Majestic Presence](https://open.spotify.com/album/7EOUNyfclg9yFUb8BiBOnY) | 2:57 | 2023-08-18 |  |
 | [Meadow of harmony](https://open.spotify.com/track/6dPDvAMMANuz8UgPOhxylG) | [Fables From Mars](https://open.spotify.com/artist/2jIevUMKJWhRbcToBLJjqW) | [Meadow of harmony](https://open.spotify.com/album/32ohvjJgkArfnjwL5HroVL) | 2:58 | 2023-08-10 |  |
 | [Mellifluence](https://open.spotify.com/track/1fC9tggwWouL5YvnVTU6LM) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [Mellifluence](https://open.spotify.com/album/3jXv5ml3Ppvvbgb0dPgcqg) | 3:25 | 2023-08-10 |  |
@@ -60,6 +63,7 @@
 | [On The Hills Of Hope](https://open.spotify.com/track/7ffB13bUlV3er2DZcBrwoG) | [Yakamora](https://open.spotify.com/artist/5aAi2J1r2GmSXMeiG20jJp) | [On The Hills Of Hope](https://open.spotify.com/album/21UvUlROgQA3RMMabyFbvF) | 3:07 | 2023-08-10 |  |
 | [Ontspanning](https://open.spotify.com/track/6lz38eB81C9ZxzdfD5F7lg) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Ontspanning](https://open.spotify.com/album/3agfeyUWIXIlr5nRHXH3MC) | 2:44 | 2023-08-10 |  |
 | [Pads of Tranquility](https://open.spotify.com/track/3pv62N3Wub3yW6OJybgJ8X) | [Ajla Birak](https://open.spotify.com/artist/5twf3oUVCKE2cmSpWhjRuH) | [Sounds of Tranquility](https://open.spotify.com/album/2LWkP0NkebzpYLpm0cCBdk) | 2:20 | 2023-08-10 |  |
+| [Passionate Aura](https://open.spotify.com/track/63bxtTDtQmWI8hZBadAvTA) | [Yoga Sonique](https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0) | [Passionate Aura](https://open.spotify.com/album/2CroXkJHLxRFq2oI1QBdil) | 2:56 | 2023-10-16 |  |
 | [Path of life](https://open.spotify.com/track/1sRgY8mQe8aoejLNhSRXmw) | [Lakota Dreams](https://open.spotify.com/artist/5D7WonwqI2sqcL76AozN29) | [Path of life](https://open.spotify.com/album/3ZzzjAbmvZZClVOjjd78e8) | 4:28 | 2023-08-10 |  |
 | [Pravaah](https://open.spotify.com/track/77Fh1GDyA2ZW5NCe9yCTR8) | [Hashree](https://open.spotify.com/artist/15UsQSphJsVhQ89KBQ5i2G) | [Pravaah](https://open.spotify.com/album/6GaachOqzYq44kStPLeLBd) | 2:46 | 2023-08-10 |  |
 | [Pure Mind \(Nature\)](https://open.spotify.com/track/4y8QlJtSkm8z8k9Xn46v60) | [Yoo Woon](https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml) | [Pure Mind](https://open.spotify.com/album/6EV5DP2pL2Eo4LAXHtMOnT) | 2:33 | 2023-08-10 |  |

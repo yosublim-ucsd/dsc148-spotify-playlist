@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-351 songs - 1 day 6 hr 0 min
+352 songs - 1 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Great Southern Land](https://open.spotify.com/track/3kvZ95Je92gWoXF1E9aFQM) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Great Southern Land](https://open.spotify.com/album/0BysOODMvw4P7nfZgLoNde) | 4:15 | 2023-08-11 |  |
 | [Greece 2000 \- KREAM Remix](https://open.spotify.com/track/3lLOuE6Z5jlQVqO2bbpC8A) | [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG) | [Greece 2000 \(KREAM Remix\)](https://open.spotify.com/album/33SvBsfAut1yQ9BizcWIOV) | 3:35 | 2023-04-28 |  |
 | [Green Washer](https://open.spotify.com/track/2uSvvvPO0ugf8Sasp0imPN) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Green Washer](https://open.spotify.com/album/0jgJWisz4XWLT7FuqjXCNI) | 4:23 | 2022-12-09 | 2023-02-04 |
+| [Grouplove](https://open.spotify.com/track/4eDptQXtxI2beJWkxNV4jo) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Youth Is Wasted on the Young](https://open.spotify.com/album/1xyLsl3uoCDONSqfrr3RPT) | 3:13 | 2023-10-13 |  |
 | [Grouplove](https://open.spotify.com/track/04VNPjMAsLO49GPgsl8xrq) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Youth Is Wasted on the Young](https://open.spotify.com/album/3ijdNgdZu1vj5l5gXfxgGa) | 3:13 | 2022-11-23 | 2023-10-12 |
 | [Hand In Hand](https://open.spotify.com/track/4GJZ5n1yMkRAKfhr2uSLim) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Hand In Hand](https://open.spotify.com/album/7o0zNST2JahsXsGG5Sa2La) | 3:51 | 2023-06-23 | 2023-07-01 |
 | [Haunt You](https://open.spotify.com/track/0hqTaKU4KpCUL4dFC75rx6) | [Sian](https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y), [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ), [Ryan Schulze](https://open.spotify.com/artist/5qJ06Gl0qVWWBmiWuTptSR) | [Haunt You EP](https://open.spotify.com/album/7yAzZGsUPGTdszU5igtndX) | 3:31 | 2023-05-23 | 2023-06-01 |
@@ -262,7 +263,7 @@
 | [Say Love \- Radio Mix](https://open.spotify.com/track/5Wlpy9LzfhRnZgeUcXkUXh) | [Airsand](https://open.spotify.com/artist/4rlSlj2XnxKA05eZ7sLWSC), [TuraniQa](https://open.spotify.com/artist/7kXkMWoPg5UfAc4LQmfI9V) | [Say Love](https://open.spotify.com/album/0ZvWPjOwDxNRAqubn8b1u7) | 4:24 | 2022-12-28 | 2023-01-06 |
 | [Serenade](https://open.spotify.com/track/3Qci4QoZJOKqT7p3CatSd6) | [Dsnt Matter](https://open.spotify.com/artist/6kkot1U0JuuGTYEPEh2FXW) | [Serenade](https://open.spotify.com/album/6phk4oiZpo977U2FvIMu1B) | 4:17 | 2023-05-31 | 2023-09-19 |
 | [Shades Of Night](https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shades Of Night](https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp) | 6:49 | 2023-02-27 | 2023-04-23 |
-| [Shake This World](https://open.spotify.com/track/2oRrosZu67qZ1g0FvxFVBS) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 5:44 | 2022-11-23 |  |
+| [Shake This World](https://open.spotify.com/track/2oRrosZu67qZ1g0FvxFVBS) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 5:44 | 2022-11-23 | 2023-10-17 |
 | [Shapes in the Spray](https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Shapes in the Spray](https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf) | 7:09 | 2023-03-24 |  |
 | [Shapeshifter](https://open.spotify.com/track/0Xm3qMKuGML22vsOVycQYw) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Shapeshifter EP](https://open.spotify.com/album/2375MnvrnfiIO9qKjY9SVd) | 6:23 | 2023-08-18 |  |
 | [Shout](https://open.spotify.com/track/2BB24tcKHCZtp14guuVeaJ) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [Shout](https://open.spotify.com/album/00u18CYVfC2LTCaUUoYOfu) | 3:31 | 2022-12-28 | 2023-01-06 |

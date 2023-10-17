@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Zach Bryan & Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,292 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,556 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 15 | [A Cat in the Rain](https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 5:17 |
 | 16 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 |
 | 17 | [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 |
-| 18 | [Unoriginal Sin \[Feat\. Mike Campbell\]](https://open.spotify.com/track/3LaEsaM0VWzl3elLRQrAR8) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Mike Campbell](https://open.spotify.com/artist/2rEZEkmqo6o4rbEoXQlD3V) | [Strays II \(Act II: Mind Travel\)](https://open.spotify.com/album/5ywCGRWYJmrE0bFwip9OnO) | 3:01 |
+| 18 | [Unoriginal Sin \[Feat\. Mike Campbell\]](https://open.spotify.com/track/7Jrjk1IKESmyGLibPKkwOV) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Mike Campbell](https://open.spotify.com/artist/2rEZEkmqo6o4rbEoXQlD3V) | [Strays II](https://open.spotify.com/album/6O4somF5cgA58eOK1wWdmJ) | 3:03 |
 | 19 | [The Man from Waco](https://open.spotify.com/track/2rI67pLdZ8mt5tbJeJ06S7) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [The Man from Waco](https://open.spotify.com/album/04BNAzlQVg15tcK7jieje6) | 3:45 |
 | 20 | [Movin'](https://open.spotify.com/track/5mwr49vu0RI3RJG8NLiJ1z) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Western White Pines \(Deluxe\)](https://open.spotify.com/album/6FhBeqNsOEnj1RHGeVlgae) | 2:41 |
 | 21 | [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [When It's My Time](https://open.spotify.com/track/2HKTn21q37EC4EibvaoEzg) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [When It's My Time](https://open.spotify.com/album/3QRherbInt8fExzq41yyoZ) | 4:33 |
 | 100 | [Denim & Diamonds](https://open.spotify.com/track/7jAw05wdvqQhKDtKnFOH93) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML) | 3:12 |
 
-Snapshot ID: `MCwwMDkxNjI1N2Q2N2YyNjdlNDY5NWM4NThmMWU0Y2JjMTc4ZjRhYTM5`
+Snapshot ID: `MCwzYWVkMzI4ZDUxMWQ3Nzk4YTM5MTE5NDY4ZGExYWJmNjBlYjIwNjYz`

@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 183538,
       "name": "Bhitr\u012b Bacc\u0101",
       "url": "https://open.spotify.com/track/7BMqSdQgPmIBEbPO0nB58e"
@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/7rusm2up4CcpsCKdWgN7ji"
+      },
+      "artists": [
+        {
+          "name": "Healing Potion",
+          "url": "https://open.spotify.com/artist/08sROjr8PALQrgskKAnmaw"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166689,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/5l41CkujFnEtsOy9SpEn2K"
+    },
+    {
+      "album": {
         "name": "Hand Pan Dream in the rain",
         "url": "https://open.spotify.com/album/3ejjNQ3pBXU1C3hN1S8tLp"
       },
@@ -790,7 +808,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 148000,
       "name": "Meditation Bowl - 300 Hz - Sound Bath with Nature Sounds",
       "url": "https://open.spotify.com/track/593QJNaqkBD0B1L1ctxQH3"
@@ -920,6 +938,24 @@
       "duration_ms": 138340,
       "name": "Natures Harmony - Bowls and Pads (Water sounds)",
       "url": "https://open.spotify.com/track/2WuOkAKX235pxGwXEe6Szi"
+    },
+    {
+      "album": {
+        "name": "Nidra",
+        "url": "https://open.spotify.com/album/6lsGTwVj3XHsiMK2P5F4GP"
+      },
+      "artists": [
+        {
+          "name": "Quiet Notes",
+          "url": "https://open.spotify.com/artist/6o4TgXVQ6lPBqMXXyjrMjt"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Nidra",
+      "url": "https://open.spotify.com/track/2S6PhX39o91uuRNHgQWrhe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-197 songs - 11 hr 16 min
+198 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [DROP IT \- Better With Condom Remix](https://open.spotify.com/track/3yTdymL1rPChfLBzoyXqFG) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Better With Condom](https://open.spotify.com/artist/3Yqrqs7Yrt8pdHP8yeLDJc) | [DROP IT \(Better With Condom Remix\)](https://open.spotify.com/album/0zxr64RdCk9YN6AIbNLpad) | 3:23 | 2023-02-16 | 2023-03-07 |
 | [Dynamite](https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Dynamite](https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2) | 3:22 | 2023-08-31 |  |
 | [Endemic](https://open.spotify.com/track/2DKjuZbjeIQezwYNSZXQZX) | [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L) | [Endemic](https://open.spotify.com/album/7MKxiJfjNuA6iB4SVErluc) | 4:00 | 2022-12-08 | 2023-09-02 |
-| [Enemy](https://open.spotify.com/track/7wDCo18UPwxRkkMxd9VxBL) | [Vandal!sm](https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4), [TukkerTempo](https://open.spotify.com/artist/1hP1BT3aK40lWagFTrvLLN), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Enemy](https://open.spotify.com/album/4bMvupucD3bY4SIEZ9pBE7) | 3:21 | 2023-09-01 |  |
+| [Enemy](https://open.spotify.com/track/7wDCo18UPwxRkkMxd9VxBL) | [Vandal!sm](https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4), [TukkerTempo](https://open.spotify.com/artist/1hP1BT3aK40lWagFTrvLLN), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Enemy](https://open.spotify.com/album/4bMvupucD3bY4SIEZ9pBE7) | 3:21 | 2023-09-01 | 2023-10-17 |
 | [Enemy Contact](https://open.spotify.com/track/5oJdYr7cuIWUENpb0CD0J8) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Enemy Contact](https://open.spotify.com/album/7fUZMLkFdZpwSHtleZQkDu) | 3:40 | 2023-06-01 | 2023-09-01 |
 | [Energy 1996](https://open.spotify.com/track/3ngAQDc6SRdDaM9RbaSZ2H) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4) | [Downtempo EP II](https://open.spotify.com/album/1TMyUd1APaQ3RCO2jWmCAE) | 4:18 | 2022-12-08 | 2023-04-14 |
 | [Enter The Dome \- Official Thunderdome 2022 Anthem](https://open.spotify.com/track/5wvfLTKIewrRfrZJRs3Qqf) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [Enter The Dome \(Official Thunderdome 2022 Anthem\)](https://open.spotify.com/album/11f7M6Iutpt2PDvvxWdRuM) | 3:51 | 2022-12-08 |  |
@@ -118,6 +118,7 @@
 | [LOSE STRESS](https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [LOSE STRESS](https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ) | 2:48 | 2022-12-08 |  |
 | [M.D.E.](https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [M.D.E.](https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM) | 2:32 | 2022-12-08 |  |
 | [Mad Masquerade](https://open.spotify.com/track/3OXcRBlauVlOXf0yeeEXlA) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Mad Masquerade](https://open.spotify.com/album/7hDsieJg1siQ8sOHCkoAud) | 3:47 | 2023-02-23 | 2023-06-23 |
+| [Magic](https://open.spotify.com/track/2xWUGV4FHZkSuB89667jrr) | [Noctyz](https://open.spotify.com/artist/7gkuoQQsU5ZBUpsFpZy1yh) | [Magic](https://open.spotify.com/album/0UrT7ZmEkro70hRGaixoRn) | 2:49 | 2023-10-16 |  |
 | [MAKE IT POP](https://open.spotify.com/track/15aTM8pzywQEBV73CrlAO3) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [MAKE IT POP](https://open.spotify.com/album/13JOW0aLJacGieAZhtH3HL) | 3:14 | 2022-12-08 | 2023-03-07 |
 | [Medication Time](https://open.spotify.com/track/6kGNLFT2tK9npF26tGnx8e) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Medication Time](https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T) | 4:17 | 2022-12-08 | 2023-07-28 |
 | [Mi Madre](https://open.spotify.com/track/7sy5W4vCjRAifgy14muCpP) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Mi Madre](https://open.spotify.com/album/3jpDofUQPIy8xx7lLigl3Q) | 2:40 | 2022-12-08 | 2023-03-07 |

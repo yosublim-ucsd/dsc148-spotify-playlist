@@ -1,12 +1,12 @@
 {
   "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:3DbwFQlvLxRSi2uX8mf81A\">Sexyy Red</a>",
-  "num_followers": 2784597,
+  "num_followers": 2784858,
   "original_name": "Most Necessary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzlmZTVhN2Y2ZTFhM2E2NjE0OWU1MmQwMmE5ZjMyMDEyMjI4ZGMy",
+  "snapshot_id": "MCw3ZDg0YWNlYTA2ZjM5MjQ3OGJlMmM5OTIzNWNkN2IwZWM3MmU2Yjhl",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -663,6 +663,22 @@
       "duration_ms": 166956,
       "name": "BING BONG (Remix) [feat. Sexyy Red]",
       "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
+    },
+    {
+      "added_at": "2023-10-16 19:28:08",
+      "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/2YvG8ptg1hzWzX0pXA4bbg"
+      },
+      "artists": [
+        {
+          "name": "JaidynAlexis",
+          "url": "https://open.spotify.com/artist/1bu90rjktSmOd2wveQoIKi"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/0wnZP5KJSJ8xmTJmmjOqwr"
     },
     {
       "added_at": "2023-10-06 17:18:11",

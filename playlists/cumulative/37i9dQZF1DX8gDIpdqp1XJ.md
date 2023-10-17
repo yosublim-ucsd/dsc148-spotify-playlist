@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-890 songs - 2 day 10 hr 19 min
+891 songs - 2 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,7 +600,8 @@
 | [Peaches](https://open.spotify.com/track/0cgX88UkEj9isJwyoUxyFX) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Peaches](https://open.spotify.com/album/6IAZHSxHjkSne7qxKgJCpa) | 4:15 | 2021-04-02 | 2022-07-29 |
 | [People Talk Too Much](https://open.spotify.com/track/3xPh37RHctTgfKeLgJy1FA) | [Bananagun](https://open.spotify.com/artist/2bgMCMbcjoMXemFtGbPPeh) | [The True Story of Bananagun](https://open.spotify.com/album/4Zt3u1wMNq6ojjHhOY8Eyf) | 6:42 | 2022-04-20 | 2022-07-19 |
 | [Perm Act](https://open.spotify.com/track/6sujPiM8965NSYtOWrqD5e) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Perm Act](https://open.spotify.com/album/6iTgrEwhmV4BX67yrbAzh5) | 3:52 | 2022-07-15 | 2022-07-30 |
-| [Pet Rock](https://open.spotify.com/track/3rmTtAIJydBOPohvykKubn) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Pet Rock](https://open.spotify.com/album/6OhhcYS7IB3M7gtNucP8Iz) | 2:45 | 2023-08-25 |  |
+| [Pet Rock](https://open.spotify.com/track/3rmTtAIJydBOPohvykKubn) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Pet Rock](https://open.spotify.com/album/6OhhcYS7IB3M7gtNucP8Iz) | 2:45 | 2023-08-25 | 2023-10-17 |
+| [Pet Rock](https://open.spotify.com/track/6WEsHmNIZIza01qGJNvjc3) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 2:45 | 2023-10-10 |  |
 | [Petroglyph](https://open.spotify.com/track/2bzAmBp07YEFIxoc202Ug9) | [Vinyl Williams](https://open.spotify.com/artist/7GJ7lI9jmrNOuxBEcNQHPT) | [Petroglyph](https://open.spotify.com/album/1FUdKikHCOSBLxpSlR11nO) | 4:33 | 2023-04-14 |  |
 | [Pickup, Don't Pickup](https://open.spotify.com/track/4E5P6ztlfq3jE9Df80jtND) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sorry Like You Mean It](https://open.spotify.com/album/34eHflHLhK2wTKYZUlgSA0) | 4:34 | 2023-09-29 |  |
 | [Pitbull Goes To The Club](https://open.spotify.com/track/60CP3BRbRNynkh4i1I7rEG) | [Buddha Trixie](https://open.spotify.com/artist/4VVh7MQx2qRX5YWmokQ8hT) | [Pitbull Goes To The Club](https://open.spotify.com/album/0fFfUdrvMKgczkaWOpqHWU) | 1:54 | 2022-03-08 | 2022-04-16 |

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse liedjes! Cover: Irene Hin
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,853 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,871 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Achtbaan](https://open.spotify.com/track/5x8PzeaVxkN8XFgJGlhXvG) | [Irene Hin](https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej) | [Achtbaan](https://open.spotify.com/album/7uMaP4UxEn8MkA1pf6I74s) | 3:20 |
-| 2 | [Arcade](https://open.spotify.com/track/2dDoOSCrKQCY95eY56Xs9R) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Beste Zangers 2023 \(Numidia\)](https://open.spotify.com/album/3wzxiVGNefP0NRFjAhkVVo) | 3:16 |
-| 3 | [Opfok](https://open.spotify.com/track/0a7B1hi1BaLLkgXyZak3n7) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Opfok](https://open.spotify.com/album/2vrh59pa7DoAilw5DyAwju) | 2:26 |
-| 4 | [1234](https://open.spotify.com/track/0ZcTWDFmCidCFw4pPr7ekO) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [De Tijd Gaat Mooie Dingen Doen](https://open.spotify.com/album/6myczO3dCuLnjSoUS6yOfY) | 2:36 |
-| 5 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 |
-| 6 | [Leef je in mij](https://open.spotify.com/track/2pweZge5JYaJZWNEVbxrtK) | [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Leef je in mij](https://open.spotify.com/album/68FlA484c2cYvA00BtpSKV) | 3:16 |
-| 7 | [Eigen Schuld](https://open.spotify.com/track/5pf1eSfMJE4efPzwpqB5jK) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Eigen Schuld](https://open.spotify.com/album/06lZcDwBLxPbT326eAxqS7) | 3:13 |
-| 8 | [Vas\-y \(Ga Maar\)](https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh), [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Vas\-y \(Ga Maar\)](https://open.spotify.com/album/1ccTvU8Sgr65nVyIUs9ifV) | 3:06 |
-| 9 | [Niet Breken](https://open.spotify.com/track/4iv7QWrytOLIRIECHBJkqP) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Niet Breken](https://open.spotify.com/album/0uXGmsQzYBGfNPpsfP3vos) | 2:41 |
-| 10 | [De Hele Nacht](https://open.spotify.com/track/5piOsIWpDiaK8BUmPYCIVF) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [De Hele Nacht](https://open.spotify.com/album/3FJVjlwiacUhh69HjeyGoB) | 2:19 |
+| 2 | [Eigen Schuld](https://open.spotify.com/track/5pf1eSfMJE4efPzwpqB5jK) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Eigen Schuld](https://open.spotify.com/album/06lZcDwBLxPbT326eAxqS7) | 3:13 |
+| 3 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 |
+| 4 | [Arcade](https://open.spotify.com/track/2dDoOSCrKQCY95eY56Xs9R) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Beste Zangers 2023 \(Numidia\)](https://open.spotify.com/album/3wzxiVGNefP0NRFjAhkVVo) | 3:16 |
+| 5 | [Opfok](https://open.spotify.com/track/0a7B1hi1BaLLkgXyZak3n7) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Opfok](https://open.spotify.com/album/2vrh59pa7DoAilw5DyAwju) | 2:26 |
+| 6 | [1234](https://open.spotify.com/track/0ZcTWDFmCidCFw4pPr7ekO) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [De Tijd Gaat Mooie Dingen Doen](https://open.spotify.com/album/6myczO3dCuLnjSoUS6yOfY) | 2:36 |
+| 7 | [De Hele Nacht](https://open.spotify.com/track/5piOsIWpDiaK8BUmPYCIVF) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [De Hele Nacht](https://open.spotify.com/album/3FJVjlwiacUhh69HjeyGoB) | 2:19 |
+| 8 | [Leef je in mij](https://open.spotify.com/track/2pweZge5JYaJZWNEVbxrtK) | [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Leef je in mij](https://open.spotify.com/album/68FlA484c2cYvA00BtpSKV) | 3:16 |
+| 9 | [Vas\-y \(Ga Maar\)](https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh), [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Vas\-y \(Ga Maar\)](https://open.spotify.com/album/1ccTvU8Sgr65nVyIUs9ifV) | 3:06 |
+| 10 | [Niet Breken](https://open.spotify.com/track/4iv7QWrytOLIRIECHBJkqP) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Niet Breken](https://open.spotify.com/album/0uXGmsQzYBGfNPpsfP3vos) | 2:41 |
 | 11 | [Alles Kan Vanavond](https://open.spotify.com/track/5m7dZjtgshqh2pKZKir7SG) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Op Mijn Lijf Geschreven](https://open.spotify.com/album/7df3CFydeyJeyw2K09Igjd) | 2:55 |
 | 12 | [100K Tranen](https://open.spotify.com/track/6obwm23hKEtFLHMefCg33l) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP) | [100K Tranen](https://open.spotify.com/album/4b5tmW8Nbt5yzYORGdjpTm) | 2:34 |
 | 13 | [Dat Hadden Wij Moeten Zijn](https://open.spotify.com/track/1YdavvpHweXYPkKuxg40Ha) | [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Dat Hadden Wij Moeten Zijn](https://open.spotify.com/album/5WxgeokG4RNocDTb4uQ1cE) | 3:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [Elke Avond Feest](https://open.spotify.com/track/2w1tIkkgJWKfSensaU0vXd) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta) | [Elke Avond Feest](https://open.spotify.com/album/4LjBa0yk1oYtaOlwrbSVcZ) | 2:34 |
 | 60 | [Wat Als Het Lukt](https://open.spotify.com/track/0cyNDPp11HqsUH713X7WCe) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Bliksem & Donder](https://open.spotify.com/album/4eZx6Pc0j1rRJUmpdV9ThY) | 2:32 |
 
-Snapshot ID: `MCwzZGQxOTE2YWRiYzA2YWM2NTg5YzI4YjYzMjFhZGQ2ZDIzYmJkOGI1`
+Snapshot ID: `MCxmOTkxMTljOGRlOTdkYThlMTEzMjFhMGE1YTA0ZDIxZThjNjI0MTc0`

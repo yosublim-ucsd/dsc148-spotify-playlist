@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Paula Hartmann",
-  "num_followers": 396104,
+  "num_followers": 396155,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGZkNjNiMGE2MzZhMzM0NTUyOTMzYzIwZDcxOGIzZThjNTAwNWRk",
+  "snapshot_id": "MCxkNmMwMzdiMzZhNDkzM2RjZDM1MTA5NWEzYjQxNjNjMDhlNjE0MGM4",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -27,94 +27,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "schwarze SUVs",
-        "url": "https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2"
-      },
-      "artists": [
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        }
-      ],
-      "duration_ms": 169761,
-      "name": "schwarze SUVs",
-      "url": "https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Marlboro",
-        "url": "https://open.spotify.com/album/5sHOBlcohfiJD02j2JlXTj"
-      },
-      "artists": [
-        {
-          "name": "Haller",
-          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
-        }
-      ],
-      "duration_ms": 152199,
-      "name": "Marlboro",
-      "url": "https://open.spotify.com/track/6Ptjpsd6Dzd5gz6zGZmFo7"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Diese Eine",
-        "url": "https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW"
-      },
-      "artists": [
-        {
-          "name": "Ivo Martin",
-          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
-        }
-      ],
-      "duration_ms": 138924,
-      "name": "Diese Eine",
-      "url": "https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "wie papier",
-        "url": "https://open.spotify.com/album/5YftfztP69iYMUiWMUZxE0"
-      },
-      "artists": [
-        {
-          "name": "Vince",
-          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
-        },
-        {
-          "name": "Kasi",
-          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
-        },
-        {
-          "name": "antonius",
-          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
-        }
-      ],
-      "duration_ms": 136216,
-      "name": "wie papier",
-      "url": "https://open.spotify.com/track/6CVik5FWKhct0VwMit0rfr"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Moshpit",
-        "url": "https://open.spotify.com/album/3TOjET9DF6t5ShxPWjmlIZ"
-      },
-      "artists": [
-        {
-          "name": "BEVN",
-          "url": "https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How"
-        }
-      ],
-      "duration_ms": 154720,
-      "name": "Moshpit",
-      "url": "https://open.spotify.com/track/1oBPebtPj0ZApJjKkhHxiO"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Mann vom Fach",
         "url": "https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF"
       },
@@ -131,6 +43,38 @@
       "duration_ms": 160813,
       "name": "Mann vom Fach",
       "url": "https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "schwarze SUVs",
+        "url": "https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "duration_ms": 169761,
+      "name": "schwarze SUVs",
+      "url": "https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Diese Eine",
+        "url": "https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "duration_ms": 138924,
+      "name": "Diese Eine",
+      "url": "https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -171,6 +115,82 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Marlboro",
+        "url": "https://open.spotify.com/album/5sHOBlcohfiJD02j2JlXTj"
+      },
+      "artists": [
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        }
+      ],
+      "duration_ms": 152199,
+      "name": "Marlboro",
+      "url": "https://open.spotify.com/track/6Ptjpsd6Dzd5gz6zGZmFo7"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "wie papier",
+        "url": "https://open.spotify.com/album/5YftfztP69iYMUiWMUZxE0"
+      },
+      "artists": [
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
+        },
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "duration_ms": 136216,
+      "name": "wie papier",
+      "url": "https://open.spotify.com/track/6CVik5FWKhct0VwMit0rfr"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Alles unter gro\u00df ist mir zu klein",
+        "url": "https://open.spotify.com/album/6na6llxlIChpuvqxUidYoB"
+      },
+      "artists": [
+        {
+          "name": "KLAN",
+          "url": "https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8"
+        },
+        {
+          "name": "CONNY",
+          "url": "https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm"
+        }
+      ],
+      "duration_ms": 157744,
+      "name": "Alles unter gro\u00df ist mir zu klein",
+      "url": "https://open.spotify.com/track/5H5JWvy5SbbP8vCZzdbW9Y"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Moshpit",
+        "url": "https://open.spotify.com/album/3TOjET9DF6t5ShxPWjmlIZ"
+      },
+      "artists": [
+        {
+          "name": "BEVN",
+          "url": "https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How"
+        }
+      ],
+      "duration_ms": 154720,
+      "name": "Moshpit",
+      "url": "https://open.spotify.com/track/1oBPebtPj0ZApJjKkhHxiO"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "vier aufnahmen",
         "url": "https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 191484,
       "name": "Sie passt nicht nach Berlin",
       "url": "https://open.spotify.com/track/6UPdWtYm3G696jzlopLmae"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Alles unter gro\u00df ist mir zu klein",
-        "url": "https://open.spotify.com/album/6na6llxlIChpuvqxUidYoB"
-      },
-      "artists": [
-        {
-          "name": "KLAN",
-          "url": "https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8"
-        },
-        {
-          "name": "CONNY",
-          "url": "https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm"
-        }
-      ],
-      "duration_ms": 157744,
-      "name": "Alles unter gro\u00df ist mir zu klein",
-      "url": "https://open.spotify.com/track/5H5JWvy5SbbP8vCZzdbW9Y"
     },
     {
       "added_at": "2023-10-12 22:00:00",

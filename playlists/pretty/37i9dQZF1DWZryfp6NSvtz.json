@@ -1,12 +1,12 @@
 {
   "description": "The best new rock tracks every week. Cover: blink-182",
-  "num_followers": 426760,
+  "num_followers": 426928,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGFhYjJiZDQwMTQ3YTViYTIzODFkNzQ2Zjg0NDhhODFiNmZkZTU2",
+  "snapshot_id": "MCw1MmEzZDY5ZDY0NWI1OWQyOGNhNjlmNGQ0Njg5N2M0MDU4NGZlNjI4",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Modern Love",
+        "url": "https://open.spotify.com/album/2EuA14LzLXFRWWFkSvBnU6"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 208773,
+      "name": "Modern Love",
+      "url": "https://open.spotify.com/track/0c1TvU8YThmexkEfFUt9wV"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "You're On Your Own, Kid",
         "url": "https://open.spotify.com/album/0xWds6GVsTmZUpyxZy3f3U"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 185929,
       "name": "You're On Your Own, Kid",
       "url": "https://open.spotify.com/track/7o2iCC6ZAJYVMuXrv39NbL"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Modern Love",
-        "url": "https://open.spotify.com/album/2EuA14LzLXFRWWFkSvBnU6"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 208773,
-      "name": "Modern Love",
-      "url": "https://open.spotify.com/track/0c1TvU8YThmexkEfFUt9wV"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/6xX5k5pieb7GtDHdNv1lRv"
-      },
-      "artists": [
-        {
-          "name": "MONOWHALES",
-          "url": "https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ"
-        }
-      ],
-      "duration_ms": 193049,
-      "name": "Backbone",
-      "url": "https://open.spotify.com/track/7cl08gllA42WPESPRGUlqQ"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Half Nelson",
         "url": "https://open.spotify.com/album/4oCXc06Df2rCYru2NGYxYb"
       },
@@ -399,22 +383,6 @@
       "duration_ms": 191410,
       "name": "Half Nelson",
       "url": "https://open.spotify.com/track/4DzKsnD6cZyI9Pc53cbBD6"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Hypnotized",
-        "url": "https://open.spotify.com/album/1X7RILlUXKDyOD1NZBEhwO"
-      },
-      "artists": [
-        {
-          "name": "Onlap",
-          "url": "https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc"
-        }
-      ],
-      "duration_ms": 226111,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/17Ig0GeL1BPTh2K9SwwIKZ"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -435,18 +403,34 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Your Blood Awaits You",
-        "url": "https://open.spotify.com/album/4wdhzesIo56No0S10XbWep"
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/1X7RILlUXKDyOD1NZBEhwO"
       },
       "artists": [
         {
-          "name": "Takida",
-          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+          "name": "Onlap",
+          "url": "https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc"
         }
       ],
-      "duration_ms": 202966,
-      "name": "Your Blood Awaits You - Trigger Edit",
-      "url": "https://open.spotify.com/track/1rRs77zgzZxjw5v55V10Vx"
+      "duration_ms": 226111,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/17Ig0GeL1BPTh2K9SwwIKZ"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/6xX5k5pieb7GtDHdNv1lRv"
+      },
+      "artists": [
+        {
+          "name": "MONOWHALES",
+          "url": "https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ"
+        }
+      ],
+      "duration_ms": 193049,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/7cl08gllA42WPESPRGUlqQ"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -463,6 +447,22 @@
       "duration_ms": 154142,
       "name": "Yoke",
       "url": "https://open.spotify.com/track/6AUifRe9r44yBbsF2SeuqK"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Your Blood Awaits You",
+        "url": "https://open.spotify.com/album/4wdhzesIo56No0S10XbWep"
+      },
+      "artists": [
+        {
+          "name": "Takida",
+          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+        }
+      ],
+      "duration_ms": 202966,
+      "name": "Your Blood Awaits You - Trigger Edit",
+      "url": "https://open.spotify.com/track/1rRs77zgzZxjw5v55V10Vx"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Scared To Lose You",
-        "url": "https://open.spotify.com/album/111he3jpTYkiZEgAZ9XiJS"
-      },
-      "artists": [
-        {
-          "name": "PLAIINS",
-          "url": "https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Scared To Lose You",
-      "url": "https://open.spotify.com/track/0UO5p0lbj3SfBG0HNKZjUl"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Carried Away",
         "url": "https://open.spotify.com/album/45lOeUjaAToIYNmVzkcofh"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 181600,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/4GEBSPiyXa9vu56cJtbn0j"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Scared To Lose You",
+        "url": "https://open.spotify.com/album/111he3jpTYkiZEgAZ9XiJS"
+      },
+      "artists": [
+        {
+          "name": "PLAIINS",
+          "url": "https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Scared To Lose You",
+      "url": "https://open.spotify.com/track/0UO5p0lbj3SfBG0HNKZjUl"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Torched",
-        "url": "https://open.spotify.com/album/1hRNwx5co2OS2a2XEVDxky"
-      },
-      "artists": [
-        {
-          "name": "Colourblind",
-          "url": "https://open.spotify.com/artist/2Tzh2zHsSIBYCkytK2L82k"
-        }
-      ],
-      "duration_ms": 148399,
-      "name": "Torched",
-      "url": "https://open.spotify.com/track/7inaTyQTHJq8G18vFU2J6X"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Never Grow Up",
         "url": "https://open.spotify.com/album/2Sltvvb2yH3gWqJp8lNGVG"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 183974,
       "name": "Never Grow Up",
       "url": "https://open.spotify.com/track/4XNRSMu212fobcMZePUE9z"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Torched",
+        "url": "https://open.spotify.com/album/1hRNwx5co2OS2a2XEVDxky"
+      },
+      "artists": [
+        {
+          "name": "Colourblind",
+          "url": "https://open.spotify.com/artist/2Tzh2zHsSIBYCkytK2L82k"
+        }
+      ],
+      "duration_ms": 148399,
+      "name": "Torched",
+      "url": "https://open.spotify.com/track/7inaTyQTHJq8G18vFU2J6X"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Born to Win",
-        "url": "https://open.spotify.com/album/5DVy8NKNSeRGYIjH7rCftk"
-      },
-      "artists": [
-        {
-          "name": "La Rosa",
-          "url": "https://open.spotify.com/artist/3XX6YLm7pQFZZA8qo0MtmB"
-        }
-      ],
-      "duration_ms": 151100,
-      "name": "Born to Win",
-      "url": "https://open.spotify.com/track/4fsVCgzknleqGFmV7WihCF"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Now That's What I Call Mom Rock",
         "url": "https://open.spotify.com/album/6EuB2BYbjfybh0bQ1IGUAC"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 204000,
       "name": "Scumbag/Wetrag",
       "url": "https://open.spotify.com/track/4aN748ELJCyVQKZD2wsa6L"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Born to Win",
+        "url": "https://open.spotify.com/album/5DVy8NKNSeRGYIjH7rCftk"
+      },
+      "artists": [
+        {
+          "name": "La Rosa",
+          "url": "https://open.spotify.com/artist/3XX6YLm7pQFZZA8qo0MtmB"
+        }
+      ],
+      "duration_ms": 151100,
+      "name": "Born to Win",
+      "url": "https://open.spotify.com/track/4fsVCgzknleqGFmV7WihCF"
     },
     {
       "added_at": "2023-10-13 04:01:00",

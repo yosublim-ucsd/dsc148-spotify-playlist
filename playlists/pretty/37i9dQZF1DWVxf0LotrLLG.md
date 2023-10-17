@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Yng Lvcas
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,978 likes - 200 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,988 likes - 200 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 199 | [Miles Davis](https://open.spotify.com/track/7usEoNmUEzu67Sa13ID2jk) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [COPAS & GLAMUR](https://open.spotify.com/album/6XpjABhfOnO3hkLrrorK48) | 2:52 |
 | 200 | [Morena](https://open.spotify.com/track/6KzL3U4EPg2RzrDBfXiMYc) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [COPAS & GLAMUR](https://open.spotify.com/album/6XpjABhfOnO3hkLrrorK48) | 2:38 |
 
-Snapshot ID: `MCw3N2ZmOWY0YzY5ZTZlMDNhYTAwMmY5ZDNmODNlNmJlYmJlZDcxNTlk`
+Snapshot ID: `MCw3MWZmZDY4Yzc3YTAzNTYzODkzNWQwOGE0OWM1MTYzZjhiNGNmNDgz`

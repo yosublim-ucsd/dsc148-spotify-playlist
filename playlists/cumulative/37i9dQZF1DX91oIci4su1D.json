@@ -4649,6 +4649,28 @@
     },
     {
       "album": {
+        "name": "Fallen Ones",
+        "url": "https://open.spotify.com/album/2sSfwyUmGOrCJJskFbqID8"
+      },
+      "artists": [
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206005,
+      "name": "Fallen Ones",
+      "url": "https://open.spotify.com/track/522YmcPwqhjeBuijxbpgct"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/4vr03HehxNm5c3h4q5QoPq"
       },
@@ -13050,7 +13072,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 233030,
       "name": "Starship",
       "url": "https://open.spotify.com/track/04ted2YPfm40Peb2pC9CyD"

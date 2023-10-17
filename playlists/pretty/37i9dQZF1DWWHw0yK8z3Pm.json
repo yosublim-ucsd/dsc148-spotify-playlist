@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Tyler Childers",
-  "num_followers": 52875,
+  "num_followers": 53010,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODEzYmUyNjFiNmZiMTQ3MzkyYTE1NWEyMmRiMmNlNzI0MmM2MWEw",
+  "snapshot_id": "MCxjZTU4ODU4N2JkOTNiMzk4M2IwNzNlZDI4MjRiNDQzZDZlZDY1ZTMw",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -307,22 +307,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "The Ballad of Dood & Juanita",
+        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 227466,
-      "name": "Hey Driver (feat. The War and Treaty)",
-      "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
+      "duration_ms": 72976,
+      "name": "Sam",
+      "url": "https://open.spotify.com/track/1kKDVYavcoEH5N6R6ezM6T"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -343,18 +339,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "The Ballad of Dood & Juanita",
-        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
-      "duration_ms": 72976,
-      "name": "Sam",
-      "url": "https://open.spotify.com/track/1kKDVYavcoEH5N6R6ezM6T"
+      "duration_ms": 227466,
+      "name": "Hey Driver (feat. The War and Treaty)",
+      "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Sudden Opera",
-        "url": "https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE"
-      },
-      "artists": [
-        {
-          "name": "Pony Bradshaw",
-          "url": "https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi"
-        }
-      ],
-      "duration_ms": 172840,
-      "name": "Van Gogh",
-      "url": "https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Dawns (feat. Maggie Rogers)",
         "url": "https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 290892,
       "name": "Dawns (feat. Maggie Rogers)",
       "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Sudden Opera",
+        "url": "https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE"
+      },
+      "artists": [
+        {
+          "name": "Pony Bradshaw",
+          "url": "https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi"
+        }
+      ],
+      "duration_ms": 172840,
+      "name": "Van Gogh",
+      "url": "https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l"
+      },
+      "artists": [
+        {
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
+        }
+      ],
+      "duration_ms": 244108,
+      "name": "Two Wolves",
+      "url": "https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Reasons Why",
         "url": "https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh"
       },
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l"
+        "name": "Hey Moon (A Campfire Song)",
+        "url": "https://open.spotify.com/album/2fBkqv13oLbBcQLOy4rsnj"
       },
       "artists": [
         {
-          "name": "Jesse Roper",
-          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
+          "name": "Joel Plaskett",
+          "url": "https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC"
         }
       ],
-      "duration_ms": 244108,
-      "name": "Two Wolves",
-      "url": "https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb"
+      "duration_ms": 290733,
+      "name": "Hey Moon (A Campfire Song)",
+      "url": "https://open.spotify.com/track/1wytswzvE3maUMf7GPisWd"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1303,22 +1319,6 @@
       "duration_ms": 169570,
       "name": "Resurrection Day",
       "url": "https://open.spotify.com/track/1v4v1gEYeZHbXGnVOFWx9U"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Hey Moon (A Campfire Song)",
-        "url": "https://open.spotify.com/album/2fBkqv13oLbBcQLOy4rsnj"
-      },
-      "artists": [
-        {
-          "name": "Joel Plaskett",
-          "url": "https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC"
-        }
-      ],
-      "duration_ms": 290733,
-      "name": "Hey Moon (A Campfire Song)",
-      "url": "https://open.spotify.com/track/1wytswzvE3maUMf7GPisWd"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Peacemaker",
-        "url": "https://open.spotify.com/album/4BAve16knUSPUFxMOb3vXJ"
-      },
-      "artists": [
-        {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
-        }
-      ],
-      "duration_ms": 233626,
-      "name": "Peacemaker",
-      "url": "https://open.spotify.com/track/5YmT2lYxtHHgSlMowSlvUe"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 270806,
       "name": "Better Off High",
       "url": "https://open.spotify.com/track/08iVl7NDnT63Xf1zqokboz"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Peacemaker",
+        "url": "https://open.spotify.com/album/4BAve16knUSPUFxMOb3vXJ"
+      },
+      "artists": [
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "duration_ms": 233626,
+      "name": "Peacemaker",
+      "url": "https://open.spotify.com/track/5YmT2lYxtHHgSlMowSlvUe"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Bequest",
-        "url": "https://open.spotify.com/album/6RdTiE9ukZ5h6owKsuGDte"
-      },
-      "artists": [
-        {
-          "name": "John Muirhead",
-          "url": "https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0"
-        }
-      ],
-      "duration_ms": 238473,
-      "name": "Bequest",
-      "url": "https://open.spotify.com/track/03Hyfti0W36eu4oHZUwrte"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Working On My Tan",
         "url": "https://open.spotify.com/album/0Bao2JWD4FrEx495tuftGc"
       },
@@ -1631,18 +1615,38 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/7aP54UsfnbH4qNoZCzoOcl"
+        "name": "Bequest",
+        "url": "https://open.spotify.com/album/6RdTiE9ukZ5h6owKsuGDte"
       },
       "artists": [
         {
-          "name": "JJ Shiplett",
-          "url": "https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5"
+          "name": "John Muirhead",
+          "url": "https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0"
         }
       ],
-      "duration_ms": 244706,
-      "name": "All Comes Back To You",
-      "url": "https://open.spotify.com/track/6v5l4XgWv2NfjwAOCYBD7r"
+      "duration_ms": 238473,
+      "name": "Bequest",
+      "url": "https://open.spotify.com/track/03Hyfti0W36eu4oHZUwrte"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Come Morning",
+        "url": "https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K"
+      },
+      "artists": [
+        {
+          "name": "The Bros. Landreth",
+          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
+        },
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 253588,
+      "name": "Don't Feel Like Crying",
+      "url": "https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw"
     }
   ],
   "unique_name": "Renegades",

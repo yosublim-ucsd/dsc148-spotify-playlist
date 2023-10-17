@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "Always Get Through To You",
+        "url": "https://open.spotify.com/album/51OIExqk0K2EqCJTnKvdaV"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180063,
+      "name": "Always Get Through To You - Edit",
+      "url": "https://open.spotify.com/track/0HWY09dnVuJfERJcgEZ836"
+    },
+    {
+      "album": {
         "name": "Capricorn Sun",
         "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
       },
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 192496,
       "name": "Gold",
       "url": "https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7"
@@ -2368,7 +2386,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 224960,
       "name": "Munitions",
       "url": "https://open.spotify.com/track/58iAMQaKz7UqvFyhknuyAY"
@@ -2390,6 +2408,24 @@
       "duration_ms": 383899,
       "name": "Music To Heal To",
       "url": "https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R"
+    },
+    {
+      "album": {
+        "name": "Night Sculpture",
+        "url": "https://open.spotify.com/album/1DU6Xkh6E2apfVK3pERMWh"
+      },
+      "artists": [
+        {
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206095,
+      "name": "Night Sculpture",
+      "url": "https://open.spotify.com/track/6ZCx2AjyhVmQhjOBkgFXnl"
     },
     {
       "album": {

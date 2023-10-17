@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Omega Mighty, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,765 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,781 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [Viv](https://open.spotify.com/track/6SMxtIKmMvfR0W7DFnpNyb) | [Ash Molloy](https://open.spotify.com/artist/7r9idpCLiq7S2KS1n5Fp7J) | [Viv](https://open.spotify.com/album/3uwkKLVkmD9zY5Ne3aegU0) | 3:50 |
 | 75 | [Home](https://open.spotify.com/track/0m06d5jBQf5MdmpTJpq7fp) | [ILUVMARKAS](https://open.spotify.com/artist/0Icpb8z5am35VraKtA1ApO) | [Home](https://open.spotify.com/album/2BfvlZAydc0gtGkelISvNe) | 2:46 |
 
-Snapshot ID: `MCxlNmRkNTkyNTVmMWZhZmYyNGViZTliNTc1NDYxODk0ZDk0YmFhMDUz`
+Snapshot ID: `MCw0ZmQ2MTI3OGJmMGJjODBhZTI1Y2EwNzJmYWY2MjdiYjAzODVkZjAz`

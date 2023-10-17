@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 145080,
       "name": "Montagem Coral",
       "url": "https://open.spotify.com/track/2gSznr1VkIxWdWXBJ8xdix"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 143759,
       "name": "Montagem Coral",
       "url": "https://open.spotify.com/track/3cE1cyAdPmv5Eq5ZBaQmYV"
@@ -1567,6 +1567,32 @@
     },
     {
       "album": {
+        "name": "Pilantrinha",
+        "url": "https://open.spotify.com/album/5YOkNn7OGx9ypHBIiNYjDV"
+      },
+      "artists": [
+        {
+          "name": "McLOVIN",
+          "url": "https://open.spotify.com/artist/4A8TVxZZ2eu0vTXmNO7Ibt"
+        },
+        {
+          "name": "DJ KIK PROD",
+          "url": "https://open.spotify.com/artist/2UOllZoqxNEB4zXFAF6b0t"
+        },
+        {
+          "name": "Doug Hits",
+          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Pilantrinha",
+      "url": "https://open.spotify.com/track/5EqzSOIePMNFO2SekB9zme"
+    },
+    {
+      "album": {
         "name": "Praiou",
         "url": "https://open.spotify.com/album/1RhZQfAVRfCKtpX3wf2MBC"
       },
@@ -1804,7 +1830,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 119184,
       "name": "Sequ\u00eancia da Dz7",
       "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"

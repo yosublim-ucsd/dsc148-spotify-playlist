@@ -4,7 +4,7 @@
 
 > we hear you.
 
-631 songs - 1 day 7 hr 12 min
+633 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Addicted 2 U](https://open.spotify.com/track/29KOLiu6sn8AIw46BYSJOw) | [Ben Chandler](https://open.spotify.com/artist/5spCYJNfwMEdTpMrir8dJF) | [Addicted 2 U](https://open.spotify.com/album/1MzHMufnsAiofLR8UezqnF) | 3:31 | 2021-04-02 | 2022-04-15 |
 | [Aesthetic](https://open.spotify.com/track/4jY3GWEqlrTALvVE1j7VHI) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Aesthetic](https://open.spotify.com/album/4A5jNEDsbTdHhcPOwqtiU4) | 2:38 | 2021-04-02 | 2022-04-19 |
 | [After](https://open.spotify.com/track/2d94jEmBfS2NO4nBg5PIRB) | [saaaz](https://open.spotify.com/artist/6MdmDH4ws2thbEQsYGUL7g) | [After](https://open.spotify.com/album/37noqZzJHyfis9oh0hzxwv) | 2:28 | 2021-04-02 | 2022-07-29 |
-| [afterthoughts](https://open.spotify.com/track/1ERCrZMVMSpqDW4zmr4sRc) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [CLOUDS \(Music From The Disney+ Original Movie\)](https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf) | 2:55 | 2023-04-26 |  |
+| [afterthoughts](https://open.spotify.com/track/1ERCrZMVMSpqDW4zmr4sRc) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [CLOUDS \(Music From The Disney+ Original Movie\)](https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf) | 2:55 | 2023-04-26 | 2023-10-17 |
 | [afterthoughts](https://open.spotify.com/track/2UmyGp3esNouKw42vwG6b8) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [afterthoughts](https://open.spotify.com/album/1qj06N4aOhTq5HmcHxbb27) | 2:55 | 2021-04-02 | 2022-07-24 |
 | [all i want is you](https://open.spotify.com/track/6IBJR6RxxAc9wfJjDaYJoJ) | [Aidan](https://open.spotify.com/artist/2p9YQq5YvvPaD4fj8aOCyk), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [all i want is you](https://open.spotify.com/album/74GgZoswGgIaZVp1aPCpK6) | 2:12 | 2021-04-02 | 2022-05-26 |
 | [All Is Well](https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [All Is Well](https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo) | 2:30 | 2022-09-27 |  |
@@ -440,6 +440,7 @@
 | [Pieces of Me](https://open.spotify.com/track/0kqFFlVf2fKq0lFanP3fgr) | [beaurial](https://open.spotify.com/artist/3yjsgZ8ouyisGzXyJH4QlL) | [Pieces of Me](https://open.spotify.com/album/0WMacSnf5LyJs4H7S9sLn6) | 1:57 | 2021-04-02 | 2022-04-14 |
 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2022-11-18 | 2023-04-27 |
 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 | 2023-02-17 | 2023-04-27 |
+| [Planet Express](https://open.spotify.com/track/0XklTT2Yejv5bhbomw5u8r) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Planet Express](https://open.spotify.com/album/1pFOoKAoqMRWTIAdDdqTnF) | 4:19 | 2023-10-16 |  |
 | [Plastered](https://open.spotify.com/track/2f4zAnj43xheWJqwUs88n9) | [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [Plastered](https://open.spotify.com/album/6n2IkCkMutHCF8CPkeYCVf) | 2:07 | 2022-01-21 | 2022-04-15 |
 | [play this at my funeral](https://open.spotify.com/track/5gi9n31BVk5OJLu3RZq3F6) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [us/faces](https://open.spotify.com/album/0NygY9X1KPjqhKUvPYyRGD) | 2:21 | 2021-04-02 | 2022-05-25 |
 | [Please Come Back](https://open.spotify.com/track/7zlGyAsvNMOdhTU068f79f) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Ondi Vil](https://open.spotify.com/artist/4ZguwlmrdElUZaO36dRTbn), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo), [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw) | [Please Come Back](https://open.spotify.com/album/0NZUawtwwZtXvYLaKoQhWZ) | 2:01 | 2021-04-02 | 2022-04-20 |
@@ -451,7 +452,7 @@
 | [Pluto Projector](https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 4:27 | 2021-04-02 | 2022-10-15 |
 | [Poetic Vulgarity](https://open.spotify.com/track/0cVCSfdI0gl2jJopZPKCaO) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 4:00 | 2023-09-14 |  |
 | [porcupine](https://open.spotify.com/track/2ccIz3cyNeLnqD7bpt3fjZ) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [when you run away, do you close your eyes](https://open.spotify.com/album/2KBkwYcHVmeEN5PdGbBsFU) | 3:37 | 2022-07-19 | 2022-08-17 |
-| [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 | 2023-03-23 |  |
+| [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 | 2023-03-23 | 2023-10-17 |
 | [promise I won't mess up](https://open.spotify.com/track/6c4XR6urBbWreT60gkWTmu) | [Sølace](https://open.spotify.com/artist/62AlnDIQccDoQ5FPZRrSL3) | [promise I won't mess up](https://open.spotify.com/album/3j1zmRaTDsDLg5lkDzk352) | 3:00 | 2021-04-02 | 2022-06-24 |
 | [Punching Walls](https://open.spotify.com/track/5BJjtA7s7nEzg7zsCYnYuP) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Punching Walls](https://open.spotify.com/album/6rlcMDZnpBnr9QTZF1r9rE) | 2:34 | 2022-05-25 | 2022-07-29 |
 | [purgatory origami](https://open.spotify.com/track/2OpfVi6Bahpod9c6x7ShMC) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [purgatory origami](https://open.spotify.com/album/6GS2Ssx9tDfzUFZNYb9kl4) | 5:45 | 2021-10-08 | 2022-04-20 |
@@ -572,6 +573,7 @@
 | [Trashfire](https://open.spotify.com/track/1s3QzfNw4sIhpw7H2bDYll) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 2:51 | 2021-11-19 | 2022-10-08 |
 | [Trashfire](https://open.spotify.com/track/6qS66tgZSJABlsorG6vOiZ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 2:51 | 2023-04-26 | 2023-10-15 |
 | [Trauma](https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Trauma](https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56) | 2:43 | 2023-08-04 |  |
+| [trust exercises](https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [trust exercises](https://open.spotify.com/album/7F8Up4TqiQZO2cdsVUDUY8) | 3:34 | 2023-10-16 |  |
 | [Try to Be Better \(Again\)](https://open.spotify.com/track/6uPSExSu4Xt7HrtJRR1a2P) | [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Try to Be Better \(Again\)](https://open.spotify.com/album/2GzjYLr24EEgwYvm2UKAT0) | 2:20 | 2021-04-02 | 2022-06-01 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 | 2023-04-27 |
 | [two queens in a king sized bed](https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/38v3Ga4U869AXC0BKIzuXG) | 3:10 | 2021-04-02 | 2022-04-14 |

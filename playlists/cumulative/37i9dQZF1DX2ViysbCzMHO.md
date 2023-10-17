@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-257 songs - 14 hr 1 min
+258 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\) \- Acoustic](https://open.spotify.com/track/5WlaHL9HnkhRMrVkvsLcd5) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [The Album \(Acoustic\)](https://open.spotify.com/album/6HrXzPva9d1ucDAUO1lyS9) | 2:40 | 2021-12-17 | 2022-08-01 |
 | [Drinkin' for Two \- One Take](https://open.spotify.com/track/4lLehyULZRrOtF7mT8G5C4) | [Jordan Rager](https://open.spotify.com/artist/4XoYsecWoLIoV66HEbt365) | [Memories](https://open.spotify.com/album/2RIyH2pNBgdBkdudi7FXFt) | 3:11 | 2021-12-17 | 2022-07-10 |
 | [Drinking to the Broken Hearts \- Piano Version](https://open.spotify.com/track/3LNvApdP3ORvOyYvnYTSxM) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Drinking to the Broken Hearts \- Piano Version](https://open.spotify.com/album/1wJXKeag5KwfjFCrESiAOK) | 3:29 | 2022-01-28 | 2022-07-22 |
-| [Drive You Out Of My Mind \- Dark Room Edition](https://open.spotify.com/track/422L8K9qMnljsXBxrk7G7D) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Drive You Out Of My Mind \(Dark Room Edition\)](https://open.spotify.com/album/5jojUcRWK4ItxreTB2duTg) | 3:54 | 2023-09-15 |  |
+| [Drive You Out Of My Mind \- Dark Room Edition](https://open.spotify.com/track/422L8K9qMnljsXBxrk7G7D) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Drive You Out Of My Mind \(Dark Room Edition\)](https://open.spotify.com/album/5jojUcRWK4ItxreTB2duTg) | 3:54 | 2023-09-15 | 2023-10-17 |
 | [Drunk Too](https://open.spotify.com/track/6dFc4ryW27fQaj0DWW1DPo) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Drunk Too](https://open.spotify.com/album/2AccCtAAKQrx8b1bvPcftg) | 2:42 | 2021-12-17 | 2022-11-19 |
 | [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 | 2021-12-17 |  |
 | [Even In My Dreams \- Acoustic](https://open.spotify.com/track/5WqhoP1sXe81DyB91q77aw) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Even In My Dreams Acoustic](https://open.spotify.com/album/50eTd9xEFGizDaZDR7U7uo) | 3:11 | 2022-04-08 | 2022-07-19 |
@@ -168,6 +168,7 @@
 | [One Percent \(Acoustic\)](https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [One Percent \(Acoustic\)](https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9) | 3:24 | 2021-12-17 | 2022-08-13 |
 | [Only Us \- Acoustic](https://open.spotify.com/track/51pGduBpukl8Oy2qUEOAqS) | [Clayton Anderson](https://open.spotify.com/artist/3jYolGVCwXgJYEr3GL8FCb) | [Only Us \(Acoustic\)](https://open.spotify.com/album/7DhKXqfA3WJeyHIGjmwfgW) | 2:35 | 2021-12-17 | 2022-07-25 |
 | [Out of Control](https://open.spotify.com/track/2CDTMmZoWyH3MzuHJv1HV1) | [John Allan Miller](https://open.spotify.com/artist/3OA83BpwDodzEIX46SnrXt) | [Out of Control](https://open.spotify.com/album/5QjAxWodrYxRGdTc8vdzBa) | 4:01 | 2021-12-17 | 2022-07-10 |
+| [Outskirts \- Acoustic](https://open.spotify.com/track/31biT4mpfWsydnwXihioIH) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [Outskirts \(Acoustic\)](https://open.spotify.com/album/5qyPZa71L2HyiPndLDI9T0) | 3:02 | 2023-10-13 |  |
 | [Pack My Hometown](https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK) | [Eli Winders](https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w) | [Pack My Hometown](https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i) | 3:11 | 2023-08-18 |  |
 | [Peaked In High School](https://open.spotify.com/track/2iZ7QhJdX5jlkJFk636wuu) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Peaked In High School](https://open.spotify.com/album/7KVwTd8XEzs4AapEn192w5) | 2:39 | 2021-12-17 |  |
 | [Prayed for You \- Stripped](https://open.spotify.com/track/4E0CDL8y82NHasSj2fH0D7) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Prayed for You \(Stripped\)](https://open.spotify.com/album/3gGm6qQHqiLWYmFegpGid0) | 3:25 | 2021-12-17 | 2022-07-29 |

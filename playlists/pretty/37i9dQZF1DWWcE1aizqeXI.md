@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,267 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,280 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 48 | [Round4round](https://open.spotify.com/track/0nFYvP0Em4u6m6ZGy43Bo3) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [CLUB 20](https://open.spotify.com/album/7dPcRnySi2qjjFPjOCklZl) | 2:39 |
 | 49 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 |
 | 50 | [Millions \- Jumbo Sounds Mix](https://open.spotify.com/track/6vXb4B2xZTNXPFJGaOMO5q) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Millions \(Jumbo Sounds Mix\)](https://open.spotify.com/album/3oMxuwT3lWVKT9C6NZabpJ) | 2:38 |
-| 51 | [Rise & grind](https://open.spotify.com/track/0EGw0mrH8bFttseRYAuAFp) | [MoneyBoy YB](https://open.spotify.com/artist/6eN3WIWcCLAQhYWLfWH8JN) | [Rise & grind](https://open.spotify.com/album/3NJUgcooxOfa7WPX0yHTGn) | 3:08 |
+| 51 | [Rise & Grind](https://open.spotify.com/track/4f01r0DYdzbJ7ZFl70CBrh) | [MoneyBoy YB](https://open.spotify.com/artist/6eN3WIWcCLAQhYWLfWH8JN) | [4th Time Da Charm](https://open.spotify.com/album/14Rf2UMgdn6Ur2NHK7b0cZ) | 3:08 |
 
-Snapshot ID: `MCw5MjZlZDk4OWQ4ODBiYmNjNjE2OTc0ZDBmNTZmODE2MmQxMjlkMmI1`
+Snapshot ID: `MCw2Yzg3NmEwZTMyM2Q3NzdkMzJhNWM0NTNlYjdlODM1NGY1MjFkYThj`

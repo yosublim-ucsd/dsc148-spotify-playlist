@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Don't use these shoes to run. It's just because they look cool. But they will hurt your feet.",
+  "description": "Don't use these shoes, they just look nice for the playlist cover. Use real running shoes, please.",
   "name": "Rock 'n' Run",
   "tracks": [
     {
@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Who Do You Trust?",
+        "url": "https://open.spotify.com/album/1olq0CPrq1TGwmjVtrMtMb"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "Feel Like Home",
+      "url": "https://open.spotify.com/track/6HSZz3ljK8tkOuOvAvwmOb"
+    },
+    {
+      "album": {
         "name": "Thank You For Being Here",
         "url": "https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C"
       },
@@ -1136,6 +1154,24 @@
       "duration_ms": 190222,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
+    },
+    {
+      "album": {
+        "name": "Violent Picture / Violent Sound",
+        "url": "https://open.spotify.com/album/33xiWD33xTarcUbn8Le2hT"
+      },
+      "artists": [
+        {
+          "name": "Dosser",
+          "url": "https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178349,
+      "name": "Glazed Over",
+      "url": "https://open.spotify.com/track/5MF8AmnvhY7uW3fgxKOVFf"
     },
     {
       "album": {
@@ -1870,7 +1906,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 202838,
       "name": "Movies",
       "url": "https://open.spotify.com/track/3D8jabgtmZtDibyb6gqZOT"
@@ -2076,7 +2112,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 260306,
       "name": "One Armed Scissor",
       "url": "https://open.spotify.com/track/4QYg0pee8jcGTHC3Uh2Vii"
@@ -2598,7 +2634,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 216893,
       "name": "Streetcar",
       "url": "https://open.spotify.com/track/3QvcNLv6ljvuU1KD7dSINg"
@@ -3034,6 +3070,24 @@
       "duration_ms": 254630,
       "name": "Too Rich to Die",
       "url": "https://open.spotify.com/track/0jVg9DxcZ8Mfi7sdfKlk08"
+    },
+    {
+      "album": {
+        "name": "All These Countless Nights",
+        "url": "https://open.spotify.com/album/4LYAbf8kMPXzghMcS9SiYm"
+      },
+      "artists": [
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180111,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/154P8pqseR6k7BaMKffzeM"
     },
     {
       "album": {

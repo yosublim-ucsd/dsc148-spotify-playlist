@@ -2334,7 +2334,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 127979,
       "name": "Broke",
       "url": "https://open.spotify.com/track/0P2PYTMHCVgmqWPhK5aYhO"
@@ -3670,7 +3670,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 199401,
       "name": "Contatto Romano (feat. Manali & Mescal Dom)",
       "url": "https://open.spotify.com/track/543ohXW976Ir5IdMpbTLil"
@@ -8476,6 +8476,28 @@
       "duration_ms": 138500,
       "name": "Ma che Hit",
       "url": "https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH"
+    },
+    {
+      "album": {
+        "name": "Madame",
+        "url": "https://open.spotify.com/album/44QCkU2JXCsvOfwRHCXCxZ"
+      },
+      "artists": [
+        {
+          "name": "Gheba",
+          "url": "https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc"
+        },
+        {
+          "name": "Pave",
+          "url": "https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133363,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/1YuwtGNJID9U7nfvhTovql"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-1,206 songs - 2 day 5 hr 42 min
+1,208 songs - 2 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Aurora Village](https://open.spotify.com/track/5uMKK3FM8xuOtBQ4r5kHsV) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [Aurora Village](https://open.spotify.com/album/1GEp44Hx7irB4w6RmOadUq) | 2:33 | 2023-09-22 |  |
 | [Autopilot](https://open.spotify.com/track/7qwKNJIHESKRCZhMVEryi0) | [Vrouzli](https://open.spotify.com/artist/5UdyPviMkdOWjnawTiCFch) | [Autopilot](https://open.spotify.com/album/4zkTVG3n8JMJ97rBPvRcWv) | 2:08 | 2023-09-22 |  |
 | [Autumn Air](https://open.spotify.com/track/6rHLRiZ8YYwO03he7OJQU2) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Autumn Air](https://open.spotify.com/album/1LOTpCIncHlI19boa03gC5) | 2:19 | 2023-09-22 |  |
+| [autumn nights](https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [autumn nights](https://open.spotify.com/album/5EcvO8QOBEhimWNWDq6rao) | 1:35 | 2023-10-13 |  |
 | [Autumn Stroll](https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Autumn Stroll](https://open.spotify.com/album/4n6WWpN0P3MsBU4OTFXFIM) | 1:58 | 2023-10-13 |  |
 | [avant garde](https://open.spotify.com/track/4AkXE5K2Zh9qUnTaHsbkPn) | [Flacvih](https://open.spotify.com/artist/5vyWkHZrsvbjPskzIatoFg), [abovus](https://open.spotify.com/artist/5DXweVRKKbzWHYb4jgIafb) | [avant garde](https://open.spotify.com/album/5oYB1uIVN78liVioenI2ro) | 2:00 | 2023-09-22 |  |
 | [Ayways](https://open.spotify.com/track/1divZI9KtgP416oHCwBJE1) | [A & C](https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A) | [Ayways](https://open.spotify.com/album/1JrIdcauTrqt2sJKvYwXnQ) | 1:54 | 2023-10-06 |  |
@@ -332,7 +333,7 @@
 | [Engraçado](https://open.spotify.com/track/1rD8PBJipssSYGR5F1KlFk) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Engraçado](https://open.spotify.com/album/7qqZGyhgzBV0nk2LtHRubI) | 1:53 | 2023-09-08 |  |
 | [Enjoy](https://open.spotify.com/track/4CFNtLZ1c7bzTWfoCK8gWl) | [billsbeats](https://open.spotify.com/artist/24ogSxdy5DLO3KUmXh9WT8) | [Enjoy](https://open.spotify.com/album/2mdTnYWSmD4lb2b2H7blc7) | 1:24 | 2023-09-22 |  |
 | [Enjoying the day](https://open.spotify.com/track/4xdJ4CpOduId5pWpvCCDjH) | [Arkei](https://open.spotify.com/artist/0zRhlnZOOvpAwow405hTFw) | [Desde Casa](https://open.spotify.com/album/2r5rGpkSvAUNznch677mSZ) | 1:43 | 2023-09-08 | 2023-09-29 |
-| [Enough](https://open.spotify.com/track/2ALlB3nsSzTahHS1pH8Qnz) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [SōNE](https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi) | [Enough](https://open.spotify.com/album/0jmTlZaX5hQsFZ6PF2w63v) | 2:33 | 2023-09-08 |  |
+| [Enough](https://open.spotify.com/track/2ALlB3nsSzTahHS1pH8Qnz) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [SōNE](https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi) | [Enough](https://open.spotify.com/album/0jmTlZaX5hQsFZ6PF2w63v) | 2:33 | 2023-09-08 | 2023-10-17 |
 | [Episodes](https://open.spotify.com/track/3tX9hPhKxKBusddqCTWZo4) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Episodes](https://open.spotify.com/album/7mxhPKbg32cdY4LaczJftN) | 3:06 | 2022-04-12 | 2023-09-09 |
 | [Episodes](https://open.spotify.com/track/4lIfzxIDvFtWmelRLY4oud) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Episodes](https://open.spotify.com/album/4dlaAUxtiaESKKMCEuKhsp) | 3:06 | 2022-04-12 | 2022-07-29 |
 | [Eremito](https://open.spotify.com/track/4K4tXvsNSkxkmo88sdjdSH) | [Morpheus Two](https://open.spotify.com/artist/1YFyublQissuj82xACfDxj) | [Eremito](https://open.spotify.com/album/1Mjfh4k7pxFSQGFkmmYYr5) | 2:01 | 2022-04-12 | 2023-09-09 |
@@ -774,6 +775,7 @@
 | [Paradox Beat](https://open.spotify.com/track/46XrLBGLzfLKpGl4HqEO7h) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Paradox Beat](https://open.spotify.com/album/3rpU9bDYhD0SOJUBxb2hCP) | 2:32 | 2023-09-08 |  |
 | [Parallax](https://open.spotify.com/track/2wtAveNu0CDS788jUw9vT1) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Parallax](https://open.spotify.com/album/2REZP9taA539SwDMnWd8TZ) | 2:57 | 2023-09-22 |  |
 | [Pareidolia](https://open.spotify.com/track/6jhIjPKENwizw0sKmJNiUO) | [Alrik Lagom](https://open.spotify.com/artist/3hre26wvV7Cy00fDfbJBbn) | [Pareidolia](https://open.spotify.com/album/3CjKtpWA51sPu7tiir84nX) | 2:20 | 2023-09-22 |  |
+| [Paris](https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Paris](https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41) | 2:04 | 2023-10-13 |  |
 | [Park Life](https://open.spotify.com/track/6TrmKrBHA1UcepoLAoCa7A) | [Mooseplant](https://open.spotify.com/artist/41f1LonnqCGklJb2ewxewh) | [Park Life](https://open.spotify.com/album/5bCGymt5IOhp1ankpc5K5l) | 2:18 | 2023-09-22 |  |
 | [Particles](https://open.spotify.com/track/5iutyPUPT8BD6NmUjMVVj2) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [Particles](https://open.spotify.com/album/0wVaLUlQyunU42SVFMlnj5) | 2:09 | 2023-09-22 |  |
 | [Passeio](https://open.spotify.com/track/0VlCGSR9qApwxelX36S1JY) | [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Passeio](https://open.spotify.com/album/42JGcSmWYu00SrmMolODin) | 2:44 | 2023-09-08 |  |
@@ -859,7 +861,7 @@
 | [Rheo](https://open.spotify.com/track/2jjKXoXFDrglfSJf3ZlXyx) | [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd) | [Veil](https://open.spotify.com/album/33GnSSVykUrRsPRgfUGeBo) | 3:01 | 2022-04-12 | 2023-09-09 |
 | [Rich Moon](https://open.spotify.com/track/5hGpUWc68UG2WXvuwQHuhK) | [LYXOc](https://open.spotify.com/artist/3VLfve633bKsqmdN7bYujc) | [Rich Moon](https://open.spotify.com/album/2HS55rjaGAOo5oxBpSdqfe) | 2:03 | 2023-09-22 |  |
 | [ridges](https://open.spotify.com/track/7lwYPqf2Ks5Ydzo8GXC82b) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [Ridges](https://open.spotify.com/album/1dyQhJtFcxuPqdgRrDe6Ha) | 1:40 | 2023-09-22 |  |
-| [Rio De Janeiro](https://open.spotify.com/track/7FX6nQOXsvcZgo8PIZN7q4) | [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [Rio De Janeiro](https://open.spotify.com/album/0xYpInXxcmCvjmFOSRAknY) | 1:39 | 2023-09-08 |  |
+| [Rio De Janeiro](https://open.spotify.com/track/7FX6nQOXsvcZgo8PIZN7q4) | [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [Rio De Janeiro](https://open.spotify.com/album/0xYpInXxcmCvjmFOSRAknY) | 1:39 | 2023-09-08 | 2023-10-17 |
 | [RIP Skippy](https://open.spotify.com/track/4MfCG6VMu4JSF4O9PI7qXr) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [RIP Skippy](https://open.spotify.com/album/6AYiDIfdBvxhyGRPuUYh69) | 1:54 | 2023-09-22 |  |
 | [Ripples to Shore](https://open.spotify.com/track/3hIyjMuHctZZ0e3pcCzNcA) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK), [Aiguille](https://open.spotify.com/artist/3MhGQxnXMGb8fgTlAqcxeu) | [Alone at Dusk](https://open.spotify.com/album/2M24MgxeKXbrPBY1GYppfF) | 2:53 | 2023-09-08 |  |
 | [rising eyes](https://open.spotify.com/track/4sOOBRuKV8P9wDXNTXxSfP) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [fallen planets & rising eyes](https://open.spotify.com/album/5Ozd8CXvUjbaKGtfIVIdkV) | 2:50 | 2023-09-08 |  |

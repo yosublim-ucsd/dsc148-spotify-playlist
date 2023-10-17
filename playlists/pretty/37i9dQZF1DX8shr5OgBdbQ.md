@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,576 likes - 69 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,809 likes - 69 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 | 19 | [Sea Shanty Medley](https://open.spotify.com/track/5mkoR8mVrEwpDQc9y54sM2) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Sea Shanty Medley](https://open.spotify.com/album/3DXlflmRdEZIe0RqxZ6Czb) | 3:54 |
 | 20 | [Santiana](https://open.spotify.com/track/21Jm43WPaIsv82UJsPkMF0) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Between Wind And Water](https://open.spotify.com/album/0czdThetfLyCdGpAF2dRqR) | 2:54 |
 | 21 | [Haul Away Joe](https://open.spotify.com/track/1Hq14hcGvFD2ocHX6UiJbf) | [The Irish Rovers](https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo) | [40 Years a\-Rovin'](https://open.spotify.com/album/1xfQeBU1MiIHpdXBXSvEcK) | 1:57 |
-| 22 | [The Bonny Ship the Diamond](https://open.spotify.com/track/0XDsyJBTc9ySlJIznHrRbE) | [The Fisherman’s Friends](https://open.spotify.com/artist/0cyEKEh8fQkksmpwLBlZV4) | [Sole Mates](https://open.spotify.com/album/5DICj5jHVL7sACXXKtjvu4) | 3:03 |
+| 22 | [The Bonny Ship the Diamond](https://open.spotify.com/track/3W8QPabOPyFqaMvpgSAnnQ) | [The Fisherman’s Friends](https://open.spotify.com/artist/0cyEKEh8fQkksmpwLBlZV4) | [Sole Mates](https://open.spotify.com/album/1RfvgItlROvx7s2na1XNwt) | 3:03 |
 | 23 | [Drink The Night Away](https://open.spotify.com/track/49t8OTCiR2zeV0VrDImdaM) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Herding Cats](https://open.spotify.com/album/7nivc3NHA0HbmVF1KKajmD) | 3:14 |
 | 24 | [The Dreadnaught](https://open.spotify.com/track/7pbUBoAUewp7qTiTKQIPKs) | [William Pint & Felicia Dale](https://open.spotify.com/artist/25mMk8NaLmEHMdXaXP86Lq) | [The Set Of The Sail](https://open.spotify.com/album/7elBqpDuELKxYTcJ6NXlwP) | 6:33 |
 | 25 | [Blow The Man Down](https://open.spotify.com/track/2vRMabURInPZG9mzxkpJxo) | [Robert Shaw Chorale](https://open.spotify.com/artist/7x27eLXre6iyxvYoX6KCn5) | [To Our Fisherman’s Friends – A Collection Of Sea Shanties](https://open.spotify.com/album/6tymFQJou78DwbFJro1EGX) | 1:39 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 | 68 | [Bring 'Em Down](https://open.spotify.com/track/21tewDzoqmfJ1jRK4MkJA5) | [William Pint & Felicia Dale](https://open.spotify.com/artist/25mMk8NaLmEHMdXaXP86Lq) | [White Horses](https://open.spotify.com/album/4xSV4Rj2wMQq31PUTXfvG0) | 1:55 |
 | 69 | [Leave Her Johnny](https://open.spotify.com/track/4APSKmljfj6XlCn4Myap0f) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [NathanEvanss](https://open.spotify.com/album/4ZUytyO3BGNF2CJRLkSrLS) | 2:02 |
 
-Snapshot ID: `MCwwZjU3NmFkMGYzZWNkYmFlMzhjOGIzMTQ1NGQ1NTA4MTI1MjAwOGI1`
+Snapshot ID: `MCw1YjNiNGE4Mzg5ZTc4MjJlZTgyNzEyY2MzYmYxMDY5MGE3ZmE1NjIx`

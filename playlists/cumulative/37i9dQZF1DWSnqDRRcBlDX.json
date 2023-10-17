@@ -1586,10 +1586,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 435000,
       "name": "Kollera",
       "url": "https://open.spotify.com/track/0ZrXNuryJ6FYjww6jU6RUm"
+    },
+    {
+      "album": {
+        "name": "Rages 1992",
+        "url": "https://open.spotify.com/album/5SVD3U3JlUJ7Qtk6ROuo1Z"
+      },
+      "artists": [
+        {
+          "name": "Dusty Kid",
+          "url": "https://open.spotify.com/artist/6JGLndnzrQrIFkd8NFha3C"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435000,
+      "name": "Kollera",
+      "url": "https://open.spotify.com/track/5TbAMnzA5rN0Tzxd6qCenj"
     },
     {
       "album": {

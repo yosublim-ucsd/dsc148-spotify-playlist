@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 153445,
+  "num_followers": 153500,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTNjZjg0N2U1Yzk1MGIwMWI3NGQyNDAxMmRlMTViOTY4ZjU1YzI1",
+  "snapshot_id": "MCw4MTJmYzM2ZDdjMjVhNDhlYjJiZjE5YzU1NWY2YmEzYjA1NWFmY2Iz",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Panther in the Dollhouse",
+        "url": "https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn"
+      },
+      "artists": [
+        {
+          "name": "Whitehorse",
+          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
+        }
+      ],
+      "duration_ms": 203319,
+      "name": "Nighthawks",
+      "url": "https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Jamtown",
         "url": "https://open.spotify.com/album/4AT0jvWKpqejzojMxPHZvL"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 235407,
       "name": "Island Time",
       "url": "https://open.spotify.com/track/64ITiMSrRWmyU5WDQCG6Rm"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Panther in the Dollhouse",
-        "url": "https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn"
-      },
-      "artists": [
-        {
-          "name": "Whitehorse",
-          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
-        }
-      ],
-      "duration_ms": 203319,
-      "name": "Nighthawks",
-      "url": "https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5"
     },
     {
       "added_at": "2023-09-29 04:00:00",

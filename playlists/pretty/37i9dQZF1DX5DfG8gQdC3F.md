@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Bad Bunny, Troye Sivan, Offset, REZZMAU5 and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,585 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,613 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 98 | [I'm Starting to Think I'm Bad at Parties](https://open.spotify.com/track/5fnjga2XOQ8oLg02mwZlQg) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [I'm Starting to Think I'm Bad at Parties](https://open.spotify.com/album/7qgOdi95Bteq9cGT73c2nt) | 3:01 |
 | 99 | [Fine Pass](https://open.spotify.com/track/1L1ateHMb54rv0QsoD9YKy) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Fine Pass](https://open.spotify.com/album/7fRa0SFSKPr2dX9Fnee44k) | 2:43 |
 
-Snapshot ID: `MCw4MWU4MzlmZjVjMzM4NWM5NGQ0YWUxYWYxNDE1NzMzMDM3N2ViYmYx`
+Snapshot ID: `MCw2M2E5ODZkOTgyMmRjMzFkYjRhZWQ5MDk0ZjQ5YmYzNWQ0OWM1Zjgw`

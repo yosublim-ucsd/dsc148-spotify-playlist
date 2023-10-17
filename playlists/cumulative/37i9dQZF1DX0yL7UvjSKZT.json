@@ -90,7 +90,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 197500,
       "name": "Abigail",
       "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "Brothers In Arms",
+        "url": "https://open.spotify.com/album/0p55SLTNdHVLFTXWcJa3ly"
+      },
+      "artists": [
+        {
+          "name": "Hayde Bluegrass Orchestra",
+          "url": "https://open.spotify.com/artist/5L3ac0hlDxpbLBj3oQq3Ly"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261540,
+      "name": "Brothers In Arms",
+      "url": "https://open.spotify.com/track/3ZsnSNgC39IY4uv5mjBoqG"
+    },
+    {
+      "album": {
         "name": "Build Me Up From Bones",
         "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
       },
@@ -800,6 +818,32 @@
       "duration_ms": 280794,
       "name": "By and By",
       "url": "https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh"
+    },
+    {
+      "album": {
+        "name": "Can't Live Without Love",
+        "url": "https://open.spotify.com/album/6nNbG7l5MjTclnCUJSPaXj"
+      },
+      "artists": [
+        {
+          "name": "Bronwyn Keith-Hynes",
+          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Can't Live Without Love",
+      "url": "https://open.spotify.com/track/2lA4tBOeDhq58itnkz7tUp"
     },
     {
       "album": {
@@ -6140,7 +6184,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 202506,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"

@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with all the drops. Cover: Rita Ora",
-  "num_followers": 135501,
+  "num_followers": 135529,
   "original_name": "Fresh Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmQ5ODMxNTg3MmJiNTI0MmZlYThkNGIwMjQ5ODI0MjA5YmJlYWQz",
+  "snapshot_id": "MCw5MjgwODMxMWIyNjlhNTJkMzdhMTBjZTc4NjVlYzYwYjNhZmVjNDEx",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -31,6 +31,26 @@
       "duration_ms": 166632,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6"
+    },
+    {
+      "added_at": "2023-10-16 23:45:08",
+      "album": {
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -567,22 +587,6 @@
       "duration_ms": 151653,
       "name": "GTA.mp3",
       "url": "https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/01pwO1R3JuwJBImA2gTG7B"
-      },
-      "artists": [
-        {
-          "name": "Sophie Simmons",
-          "url": "https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy"
-        }
-      ],
-      "duration_ms": 160822,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/4lo2y3hyTLu9rDeJzijfy8"
     },
     {
       "added_at": "2023-10-06 04:00:00",

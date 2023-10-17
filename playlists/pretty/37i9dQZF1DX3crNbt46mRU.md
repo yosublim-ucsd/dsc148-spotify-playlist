@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Takagi & Ketra, Shiva, ANNA, Geolier
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,224 likes - 107 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,230 likes - 107 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 106 | [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 |
 | 107 | [TK421](https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [TK421](https://open.spotify.com/album/7IncAEknANwQthqiwWySBP) | 3:15 |
 
-Snapshot ID: `MCxiYzg5ZWVkZTk3OTNhODM3NTgxMTlhMjNlZGI2Y2E5MjM4ZDcxNzQ1`
+Snapshot ID: `MCxhY2ZmZTY2OTk5ZmQ0ZGMyMzRmNmFkYjIyYzZjNTA0NGVjMzkwYTVj`

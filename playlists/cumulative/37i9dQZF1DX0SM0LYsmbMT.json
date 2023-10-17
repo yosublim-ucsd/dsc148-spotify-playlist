@@ -14991,6 +14991,36 @@
     },
     {
       "album": {
+        "name": "Desert",
+        "url": "https://open.spotify.com/album/1SkdEtCzK6ptDnuTvM3QJW"
+      },
+      "artists": [
+        {
+          "name": "No Spirit",
+          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
+        },
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        },
+        {
+          "name": "Otaam",
+          "url": "https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213813,
+      "name": "Desert",
+      "url": "https://open.spotify.com/track/1GtQfguspD7y2DNPTk8Z0c"
+    },
+    {
+      "album": {
         "name": "Desert Flower",
         "url": "https://open.spotify.com/album/1ynhVVz70nNaAWoebAnOZG"
       },
@@ -15220,7 +15250,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 156521,
       "name": "Dialogue",
       "url": "https://open.spotify.com/track/2RS2HtnsYO4GaUTOIkv5wG"

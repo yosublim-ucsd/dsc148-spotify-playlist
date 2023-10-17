@@ -2815,6 +2815,28 @@
     },
     {
       "album": {
+        "name": "Umjolo Lowo",
+        "url": "https://open.spotify.com/album/6KV7h9dmu6Cijf8399HbwB"
+      },
+      "artists": [
+        {
+          "name": "Khuzani",
+          "url": "https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs"
+        },
+        {
+          "name": "Luve Dubazane",
+          "url": "https://open.spotify.com/artist/2qn1ZfGigw6BNbf2MNuEJc"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244648,
+      "name": "Umjolo Lowo",
+      "url": "https://open.spotify.com/track/4zkTyuLiE6mH4DoCi6C8fB"
+    },
+    {
+      "album": {
         "name": "Ugcobo",
         "url": "https://open.spotify.com/album/4nmkSLGgClQeentYCUEwmg"
       },

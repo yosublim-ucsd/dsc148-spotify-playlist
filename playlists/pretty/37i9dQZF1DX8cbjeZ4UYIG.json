@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 296847,
+  "num_followers": 296955,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjhlMjVlZDQ3YzAxYjMxNThjOWZkZWQwM2Q2OWE5ZDk2ZTkzMzYy",
+  "snapshot_id": "MCxjNWQ2ZjIwYTI5Y2U4YmJhNjA0NjQ4MzFhZTcxYzY5YTdiZmIwNThj",
   "tracks": [
     {
       "added_at": "2020-10-06 12:32:47",
@@ -467,22 +467,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "The Very Best of Rozalla",
-        "url": "https://open.spotify.com/album/2xLMSSS0oFoJshrOIrvK7b"
-      },
-      "artists": [
-        {
-          "name": "Rozalla",
-          "url": "https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Everybody's Free (To Feel Good)",
-      "url": "https://open.spotify.com/track/4rkiST7hsHEuU5EMvApemD"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "Conquers Your Love (Remastered)",
         "url": "https://open.spotify.com/album/1TvcBifosVJDio8eHJjuoz"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 303106,
       "name": "Injected with a Poison",
       "url": "https://open.spotify.com/track/6pjNPFhhzSho4EYffiV8Pa"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "The Very Best of Rozalla",
+        "url": "https://open.spotify.com/album/2xLMSSS0oFoJshrOIrvK7b"
+      },
+      "artists": [
+        {
+          "name": "Rozalla",
+          "url": "https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Everybody's Free (To Feel Good)",
+      "url": "https://open.spotify.com/track/4rkiST7hsHEuU5EMvApemD"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -723,6 +723,22 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
+        "name": "Music for the Jilted Generation",
+        "url": "https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "duration_ms": 379906,
+      "name": "No Good (Start the Dance)",
+      "url": "https://open.spotify.com/track/6B8Sm7JafUT6zMfMkWWnH0"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
         "name": "Utd. State 90",
         "url": "https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 360012,
       "name": "It's a Jazz Thing - Utah Jazz Remix",
       "url": "https://open.spotify.com/track/5eoOlqmQgdThwZolUnW6OH"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "Music for the Jilted Generation",
-        "url": "https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 379906,
-      "name": "No Good (Start the Dance)",
-      "url": "https://open.spotify.com/track/6B8Sm7JafUT6zMfMkWWnH0"
     },
     {
       "added_at": "2020-10-06 12:32:47",

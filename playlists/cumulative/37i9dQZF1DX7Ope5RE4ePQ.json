@@ -503,6 +503,32 @@
     },
     {
       "album": {
+        "name": "Eyries",
+        "url": "https://open.spotify.com/album/74goDECF1R9QUvc504Jh3V"
+      },
+      "artists": [
+        {
+          "name": "Jakob Ahlbom",
+          "url": "https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K"
+        },
+        {
+          "name": "Hanna Ekstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5oKBGEzl76HnP3fS2cU366"
+        },
+        {
+          "name": "Anna Dager",
+          "url": "https://open.spotify.com/artist/2So39o3NqsjLtwwohABw5B"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187390,
+      "name": "Eyries",
+      "url": "https://open.spotify.com/track/77Xol1KVWfGYBwBEP3FzlT"
+    },
+    {
+      "album": {
         "name": "Mozart: Piano Sonatas K.310, K.311 & K.533/494",
         "url": "https://open.spotify.com/album/37qHlAzBNRI9UahnOI9lvr"
       },

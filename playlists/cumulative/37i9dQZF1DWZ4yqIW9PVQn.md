@@ -4,7 +4,7 @@
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-130 songs - 7 hr 54 min
+133 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [HYE](https://open.spotify.com/track/2hMLyprzSqOWiW2RCdhXWa) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [HYE](https://open.spotify.com/album/6BoAOP9rSYxsCiucBIUwXC) | 4:07 | 2023-08-05 |  |
 | [HYE](https://open.spotify.com/track/5tx6Y6j4Q8MCdTOtVILLX5) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [HYE](https://open.spotify.com/album/4u5ud7hSAmYr5KEXltpwk8) | 4:07 | 2022-07-04 | 2023-09-03 |
 | [I got lucky](https://open.spotify.com/track/2xqZgDhbEzNIQGEz8HdrkJ) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Shape of me](https://open.spotify.com/album/1GU9TwATIkJ6GpVqrtX2ju) | 4:16 | 2022-11-01 |  |
+| [I just miss you](https://open.spotify.com/track/6RMOoOvtoOL4bunthGqA9x) | [Homemade recording](https://open.spotify.com/artist/18FWmGuOPqQ4xTp4dpLaGi) | [I just miss you](https://open.spotify.com/album/7tn5xTjttuaRYO2XnPiAQJ) | 3:38 | 2023-10-16 |  |
 | [I Like It](https://open.spotify.com/track/5a4o5ARfYHze8y7O7R5PDJ) | [Panini Brunch](https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij) | [I Like It](https://open.spotify.com/album/3ZHTXCdbf8pfChmWNSXnHy) | 3:38 | 2022-11-01 |  |
 | [I Wanna Be With You](https://open.spotify.com/track/4BRllgokpqghTc6b52mDMa) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp) | 3:24 | 2022-07-04 | 2023-07-02 |
 | [I Wanna Be With You](https://open.spotify.com/track/5MePbEuuuTGWDJi6UbNFgb) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/0WBqQSi54g3khAPyVTGHhv) | 3:24 | 2022-11-03 |  |
@@ -77,6 +78,7 @@
 | [Looking Back](https://open.spotify.com/track/5taHEqSavn4BmdAPRjFGP3) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Signal \(Original Television Soundtrack\)](https://open.spotify.com/album/3XWPudsfSroRADDvNdWFei) | 4:28 | 2022-11-01 |  |
 | [LOVE STORY](https://open.spotify.com/track/1hV2SwB1pcFXZgYG9Sq2J7) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [WE'VE DONE SOMETHING WONDERFUL](https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu) | 3:56 | 2022-11-01 |  |
 | [love talk](https://open.spotify.com/track/5WS5YCbjqhjRAJKdaExiEC) | [KODI GREEN](https://open.spotify.com/artist/54yQw1nXF53pvMLL0MpTxs), [Kaution](https://open.spotify.com/artist/1mXj07DVCv5GprCk5Adca0) | [love talk](https://open.spotify.com/album/11nXCEJxH1lgp1rA9Uanyk) | 3:32 | 2022-07-04 |  |
+| [Manboy](https://open.spotify.com/track/4o9p0KV76QIbeTKPhcGWmA) | [ABOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Manboy](https://open.spotify.com/album/61tT8FEfOgMQ2vzl5abEYM) | 3:39 | 2023-10-16 |  |
 | [Missing You](https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Brother Act.](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) | 3:56 | 2022-11-01 |  |
 | [Moments Make Memories](https://open.spotify.com/track/0ZfedXecbZhyHEQbO9Xlnr) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [18 again Special \(Original Television Soundtrack\)](https://open.spotify.com/album/5T3saGcqKRNtLGMP8MqjnM) | 4:07 | 2022-11-03 | 2022-11-13 |
 | [Moments Make Memories](https://open.spotify.com/track/3aWHovl6h2c1RyCAJP56gd) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [18 again, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/2dKTxeYl2l4LldeOAbphMF) | 4:07 | 2022-07-04 |  |
@@ -98,6 +100,7 @@
 | [Smile Box](https://open.spotify.com/track/5irBjW7OeN6YAoR9ZUjLtD) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Smile Box](https://open.spotify.com/album/65EYy7wGPTDN7w2tcBfmug) | 3:26 | 2022-11-01 |  |
 | [Sorry That I Love You Still](https://open.spotify.com/track/3LFmXXj0rErybNgbmlx5lL) | [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Sorry That I Love You Still](https://open.spotify.com/album/2dd1k75R0SlWlEGJgBw07G) | 2:27 | 2022-07-04 |  |
 | [Spring in September](https://open.spotify.com/track/5PkgKQxZ73NxGaKdWrAUNg) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [Spring in September](https://open.spotify.com/album/6iZSNXjixRDZ6owQkOM37K) | 3:43 | 2022-07-04 |  |
+| [Stay \(Feat\. amin\)](https://open.spotify.com/track/1gYqYDbYQuuFFcfVSo0aLg) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Stay \(Feat\. amin\)](https://open.spotify.com/album/6XcdNgatOlaJ5EspniDp7x) | 2:48 | 2023-10-16 |  |
 | [stay with me \(With Choi Yu Ree\)](https://open.spotify.com/track/3P2w5AkWcX08bNZTc6EWqP) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Lyrical 1 – Afterimage](https://open.spotify.com/album/6iHKlPIButEGe8ckLpjgbM) | 2:50 | 2022-07-04 |  |
 | [Story of night fall](https://open.spotify.com/track/6E2eYYvCV8znuzYlhudAJY) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 4:14 | 2022-07-04 |  |
 | [Stupid](https://open.spotify.com/track/3sGYUtkUI0ampaZvbjSrkp) | [Mia](https://open.spotify.com/artist/24nwTOGM8qUNwKYWY2c0xr) | [Not a fairytale](https://open.spotify.com/album/6bYLR9Zkhc6p9YWWnjxtip) | 2:58 | 2022-07-04 |  |

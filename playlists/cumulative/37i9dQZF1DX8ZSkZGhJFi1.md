@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-617 songs - 1 day 1 hr 10 min
+619 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Astro](https://open.spotify.com/track/0VsvnEFxG5lZFFIeplTGy2) | [Jaller Beats](https://open.spotify.com/artist/5j2hqWZ2KnbaqKP3uRQwHH) | [Astro](https://open.spotify.com/album/1XUbFBBvHil1CD0PjGQU7I) | 2:13 | 2022-02-17 | 2023-09-09 |
 | [ataraxia](https://open.spotify.com/track/1M6SXJHUZCd311iSiyncIF) | [VAL](https://open.spotify.com/artist/2kd96OmUnYMBGn6dEuV9iP), [saege](https://open.spotify.com/artist/55uDvpZtzLXtM7aV7MJupC) | [ataraxia](https://open.spotify.com/album/5DETKvGvHhWO06gk3OO2EX) | 1:42 | 2023-09-08 |  |
 | [Autumn Colours](https://open.spotify.com/track/2M5xnklRUnCnLJD00UUfJG) | [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd), [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E) | [Autumn Colours](https://open.spotify.com/album/1MqZmJJ8PXsSc76DRVRotP) | 2:27 | 2023-09-08 | 2023-09-23 |
+| [autumn nights](https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [autumn nights](https://open.spotify.com/album/5EcvO8QOBEhimWNWDq6rao) | 1:35 | 2023-10-13 |  |
 | [Autumn Stroll](https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Autumn Stroll](https://open.spotify.com/album/4n6WWpN0P3MsBU4OTFXFIM) | 1:58 | 2023-10-13 |  |
 | [Back in time](https://open.spotify.com/track/6qLsaWSO04sgwX6N8xid7E) | [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Back in time](https://open.spotify.com/album/34XEHZITd5aslpA8xYzxV2) | 2:20 | 2023-09-08 | 2023-09-23 |
 | [Bakery](https://open.spotify.com/track/6fvn2bC5eyxUBr5I2lFHRD) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Bakery \| A Walk In Central Park](https://open.spotify.com/album/2ZNLy8gIAiDnhhh2CyhbvX) | 2:13 | 2023-09-08 |  |
@@ -292,7 +293,7 @@
 | [Look After Yourself](https://open.spotify.com/track/1SL75FDChNKsexXzKgDb5P) | [Bullseye Release](https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm) | [Look After Yourself](https://open.spotify.com/album/4ZhHQLB6hZCFU3k3qzx6wL) | 3:07 | 2023-09-08 |  |
 | [Losing Ground](https://open.spotify.com/track/0s8WAg0nNe2ia0qKtkAfdu) | [OMOZO](https://open.spotify.com/artist/0UADN60KWS7lO5isbnePqy) | [Losing Ground](https://open.spotify.com/album/3zdjmQpQjyfuiFynMPYquD) | 2:47 | 2022-02-17 | 2023-09-09 |
 | [Lotus](https://open.spotify.com/track/3I2UfvebTSME6qOSvvuxnI) | [karasu.](https://open.spotify.com/artist/5DqGtuUBthl8KW4C98OYae) | [Lotus](https://open.spotify.com/album/2IOMBujAQ7aN3vKSnDX4pM) | 3:23 | 2022-02-17 | 2023-09-09 |
-| [Love Is Being Stupid Together](https://open.spotify.com/track/4kjYlte22vgJfHr48NSPRO) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Love Is Being Stupid Together](https://open.spotify.com/album/5cF1s5q3TCm53jR9vIPaOH) | 2:10 | 2023-09-08 |  |
+| [Love Is Being Stupid Together](https://open.spotify.com/track/4kjYlte22vgJfHr48NSPRO) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Love Is Being Stupid Together](https://open.spotify.com/album/5cF1s5q3TCm53jR9vIPaOH) | 2:10 | 2023-09-08 | 2023-10-17 |
 | [Low Jump](https://open.spotify.com/track/0fdLkJqb4NrPUVzyxO8Gxn) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [Low Jump](https://open.spotify.com/album/6AGB5bdyxvecqWmGO6XKyJ) | 1:36 | 2023-09-08 |  |
 | [low wave](https://open.spotify.com/track/0uJzNH4kMiF3k8JotEVf4h) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [low wave](https://open.spotify.com/album/7nYHKRzvaKeJ4XOzIC8bXw) | 1:37 | 2023-09-08 |  |
 | [Lucid Living](https://open.spotify.com/track/4wzysfxJsTFm2UvgOYFvrV) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [Lucid Living](https://open.spotify.com/album/2ynlL4uaTJ9hMecU8W5LKb) | 2:26 | 2023-09-08 |  |
@@ -387,6 +388,7 @@
 | [oyoyoy](https://open.spotify.com/track/3olHLiTm1rO8x0MzyP1ad7) | [bito bitox](https://open.spotify.com/artist/4biX5gqFgXs4cSzHcdVFms) | [oyoyoy](https://open.spotify.com/album/6pC5QrbAOUJcl4Tu62lRmR) | 2:24 | 2023-09-08 |  |
 | [P.S\. I Love You](https://open.spotify.com/track/0Po3LlQVxAG4F7P4xceR7b) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [P.S\. I Love You](https://open.spotify.com/album/3lyhm1eO4SAd3Kqg3OE1YM) | 2:07 | 2023-09-08 |  |
 | [Palme](https://open.spotify.com/track/1yJR8z4s4lASBJ4wfMG8zc) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Palme](https://open.spotify.com/album/4bSIoqXG6MbAxWCCvpVcGW) | 1:50 | 2023-09-08 |  |
+| [Paris](https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Paris](https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41) | 2:04 | 2023-10-13 |  |
 | [Past Bedtime](https://open.spotify.com/track/4kCS9oguhIvt2d50M0Gj3Q) | [HollyDave](https://open.spotify.com/artist/0fwfq3m3px40mSeOdDPVnJ) | [Past Bedtime](https://open.spotify.com/album/3qZ3lO3W6gWE1004dR6zky) | 2:05 | 2023-09-29 |  |
 | [Pastel](https://open.spotify.com/track/3yyOBSQN3E1x7DSqLiXRd8) | [mvnitou](https://open.spotify.com/artist/1u5Lht40OtsxS78hPb3wr9) | [Pastel](https://open.spotify.com/album/2t0cZeqFg5aXpzzguHOE0w) | 3:00 | 2023-09-08 | 2023-10-11 |
 | [Peace Police](https://open.spotify.com/track/2qHaXryEN56zBsYEG4j5Sj) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Peace Police](https://open.spotify.com/album/5UcnhXhnPxol0KORBDsW6L) | 2:16 | 2022-02-17 | 2023-09-09 |
@@ -526,7 +528,7 @@
 | [Targets](https://open.spotify.com/track/5T34t5XWmwI4J8GPk55DhW) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Targets](https://open.spotify.com/album/2JTNVTUxl3Sf1UvdSw0pth) | 2:18 | 2022-02-17 | 2023-09-09 |
 | [Terzo](https://open.spotify.com/track/1EXS0FNpWbCjlYY5LKCqer) | [Robomani](https://open.spotify.com/artist/2iXcdZRffRnlBjzqcWEXKA) | [Terzo](https://open.spotify.com/album/1ZtZwyMm2P4ujY02crKMIV) | 2:55 | 2023-09-08 |  |
 | [That FULLness](https://open.spotify.com/track/4chATeCAyWRsO7PEptGM41) | [Stay Nice](https://open.spotify.com/artist/0e0CMuJm0h7Dl1pFGb7MUD) | [That FULLness](https://open.spotify.com/album/1eRPL8SVCLThFHOWYRWgXD) | 3:00 | 2023-09-08 | 2023-09-23 |
-| [the blue dragonfly sidequest.](https://open.spotify.com/track/0jX6QftXim4pnY8W0C8g8N) | [Pelicano](https://open.spotify.com/artist/3CRpU6gIV5tdSEjvZqlRl0), [Gabriel Cavalcanti](https://open.spotify.com/artist/2CLLtlHM5RuNUdDe7b7YwL) | [the blue dragonfly sidequest.](https://open.spotify.com/album/7aDV8KzjzouyxN6BfdAdNa) | 2:36 | 2023-09-08 |  |
+| [the blue dragonfly sidequest.](https://open.spotify.com/track/0jX6QftXim4pnY8W0C8g8N) | [Pelicano](https://open.spotify.com/artist/3CRpU6gIV5tdSEjvZqlRl0), [Gabriel Cavalcanti](https://open.spotify.com/artist/2CLLtlHM5RuNUdDe7b7YwL) | [the blue dragonfly sidequest.](https://open.spotify.com/album/7aDV8KzjzouyxN6BfdAdNa) | 2:36 | 2023-09-08 | 2023-10-17 |
 | [The Careforce](https://open.spotify.com/track/1VkY2mmufR03gKcIhLRk0L) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [The Careforce](https://open.spotify.com/album/4U4PKpvDXVZznXfJo8YCk9) | 2:16 | 2023-09-08 |  |
 | [The Chillest](https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [The Chillest](https://open.spotify.com/album/0CrclNcvwEUbTl9zSFjkzW) | 2:31 | 2023-09-08 |  |
 | [The Ending](https://open.spotify.com/track/7DSlwSvhgotaSIOhtOcVOm) | [Dean Bowser](https://open.spotify.com/artist/2ykj8pxgT6Xyzc1gxMSe90) | [The Ending](https://open.spotify.com/album/5ZJF1XQ4WOIzxEh1fCZW4E) | 2:24 | 2023-09-08 |  |

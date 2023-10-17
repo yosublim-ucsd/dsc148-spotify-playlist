@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Roberto Fonseca
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,766 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,821 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [California and Me](https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:36 |
 | 50 | [Apache Woman](https://open.spotify.com/track/6gH3Nrt0v6AZzCfaMAjyO2) | [Henri Texier](https://open.spotify.com/artist/7nFb95Ufz3MkdXP4bnlSES), [Manu Codjia](https://open.spotify.com/artist/5pgPy5GD36vX0EM48DrvE4), [Gautier Garrigue](https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO), [Carlo Nardozza](https://open.spotify.com/artist/1eYCiyEsYPHpLci3OUborg), [Sylvain Rifflet](https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni), [Sébastien Texier](https://open.spotify.com/artist/6zwjF5PQCREmT9hfRnSEeu), [Himiko Paganotti](https://open.spotify.com/artist/7nOiX0kJl9GXiBt8GmFhYC) | [Apache Woman](https://open.spotify.com/album/2drFeRDhAXuzdccDxj40uw) | 7:20 |
 
-Snapshot ID: `MCxmMWRiNDA4M2E3NjdhNmYwYjNjODQ5MDdjMDM0OTk3NjNiODlkNDU1`
+Snapshot ID: `MCw2MWU4ZDQ1NzYzYWYzNGZkODhiNDQ2YTE1MTYxNDU4ZGQwMWQwYzA1`

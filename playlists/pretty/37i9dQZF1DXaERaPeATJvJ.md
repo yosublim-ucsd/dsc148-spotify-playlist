@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Santamonica
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,708 likes - 104 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,721 likes - 104 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 103 | [Lovelies \- Live](https://open.spotify.com/track/2s9kJ7sZHgozm1cXqqtCTN) | [Sweaters](https://open.spotify.com/artist/24wCIVc6T6hmBCjJ8aiAKl) | [Sweaters \(Live\)](https://open.spotify.com/album/45QGhx0C4sVXp60VoRhkIE) | 4:43 |
 | 104 | [My Little Story](https://open.spotify.com/track/3nKRkZdG3jV15pkHfy9SB9) | [Dear Nancy](https://open.spotify.com/artist/74An0zaPQxQ2PeiPyoSeXQ) | [My Little Story](https://open.spotify.com/album/6CF9WbcbO7k338T2e3g9iG) | 4:26 |
 
-Snapshot ID: `MCxkNWY1M2M1OWMwYzFjZTc2MDAxNGViMDA5MzVjYTk2OGZhNTNjOGI5`
+Snapshot ID: `MCwyOTgzMzZmMjg4YTgxOTY2ZjBmNzQ0ZmU2MGZmZGZlMWViYWM1NDc0`

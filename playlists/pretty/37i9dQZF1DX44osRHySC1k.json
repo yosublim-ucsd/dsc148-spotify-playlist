@@ -1,12 +1,12 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 52182,
+  "num_followers": 52187,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGRjOWUzYjU1OWQxYTczZWMyM2U4ZDlhZjdkMzY3N2VlMDZkZWVk",
+  "snapshot_id": "MCwwNjdmMzIyYTljMWIyYjdlNGVlMjdjZGY2YjIwZDZlMTY5MDZjNmM5",
   "tracks": [
     {
       "added_at": "2021-06-24 10:58:44",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Atmospheres",
-        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 354973,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/6VoYnLiXIpKLg7j2Tnq95x"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Untitled",
         "url": "https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32"
       },
@@ -235,6 +219,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Atmospheres",
+        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 354973,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/6VoYnLiXIpKLg7j2Tnq95x"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Modern Classics",
         "url": "https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD"
       },
@@ -263,22 +263,6 @@
       "duration_ms": 158423,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Koyasan: Reiki Sound Healing",
-        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 572853,
-      "name": "Sound of Invisible Waters",
-      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -339,22 +323,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Breathing Space",
-        "url": "https://open.spotify.com/album/659OTaUEYfTNdzx7F6mpj2"
-      },
-      "artists": [
-        {
-          "name": "Sacred Earth",
-          "url": "https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99"
-        }
-      ],
-      "duration_ms": 445040,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/3sdt7exS3REm1OKia8zcyi"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Time Travel",
         "url": "https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z"
       },
@@ -367,6 +335,22 @@
       "duration_ms": 184642,
       "name": "Time Travel",
       "url": "https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Breathing Space",
+        "url": "https://open.spotify.com/album/659OTaUEYfTNdzx7F6mpj2"
+      },
+      "artists": [
+        {
+          "name": "Sacred Earth",
+          "url": "https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99"
+        }
+      ],
+      "duration_ms": 445040,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/3sdt7exS3REm1OKia8zcyi"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -399,6 +383,22 @@
       "duration_ms": 140585,
       "name": "Night Walk",
       "url": "https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 572853,
+      "name": "Sound of Invisible Waters",
+      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Devotion 1: Blessings of the Heart",
-        "url": "https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub"
-      },
-      "artists": [
-        {
-          "name": "Ben Leinbach",
-          "url": "https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX"
-        }
-      ],
-      "duration_ms": 513546,
-      "name": "Mother's Wingspan",
-      "url": "https://open.spotify.com/track/2InC8TNlBd9N5E0leI2l8G"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Divine",
         "url": "https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Moments of Tomorrow",
-        "url": "https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a"
+        "name": "Devotion 1: Blessings of the Heart",
+        "url": "https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub"
       },
       "artists": [
         {
-          "name": "Jean Petri",
-          "url": "https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G"
+          "name": "Ben Leinbach",
+          "url": "https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX"
         }
       ],
-      "duration_ms": 110434,
-      "name": "Loveliness",
-      "url": "https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx"
+      "duration_ms": 513546,
+      "name": "Mother's Wingspan",
+      "url": "https://open.spotify.com/track/2InC8TNlBd9N5E0leI2l8G"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -867,18 +851,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Floating, Always",
-        "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
+        "name": "Moments of Tomorrow",
+        "url": "https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a"
       },
       "artists": [
         {
-          "name": "Primer Dia",
-          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
+          "name": "Jean Petri",
+          "url": "https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G"
         }
       ],
-      "duration_ms": 137172,
-      "name": "Astral Therapy",
-      "url": "https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx"
+      "duration_ms": 110434,
+      "name": "Loveliness",
+      "url": "https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -895,6 +879,22 @@
       "duration_ms": 130541,
       "name": "Sentiment",
       "url": "https://open.spotify.com/track/7wd5Xpj9J0ekJY2htpCsv9"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Floating, Always",
+        "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
+      },
+      "artists": [
+        {
+          "name": "Primer Dia",
+          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
+        }
+      ],
+      "duration_ms": 137172,
+      "name": "Astral Therapy",
+      "url": "https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "My Sleeping Rose",
-        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
-      },
-      "artists": [
-        {
-          "name": "Havanna Chandri",
-          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
-        }
-      ],
-      "duration_ms": 127865,
-      "name": "My Sleeping Rose",
-      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Eternal Thoughts",
         "url": "https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 241438,
       "name": "Eternal Thoughts",
       "url": "https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "My Sleeping Rose",
+        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
+      },
+      "artists": [
+        {
+          "name": "Havanna Chandri",
+          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
+        }
+      ],
+      "duration_ms": 127865,
+      "name": "My Sleeping Rose",
+      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Flowing Strings",
-        "url": "https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8"
-      },
-      "artists": [
-        {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
-        }
-      ],
-      "duration_ms": 278797,
-      "name": "Buenas Noches",
-      "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "The Ones Left Behind",
         "url": "https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 125656,
       "name": "A Missing Piece",
       "url": "https://open.spotify.com/track/4fr2dY1gNyl1J8nz5GUWTs"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Flowing Strings",
+        "url": "https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8"
+      },
+      "artists": [
+        {
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+        }
+      ],
+      "duration_ms": 278797,
+      "name": "Buenas Noches",
+      "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Anjali",
+        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
+      },
+      "artists": [
+        {
+          "name": "Michael Mandrell and Benjy Wertheimer",
+          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "Priya (Beloved)",
+      "url": "https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "New Romantic Classical Piano and Violin Duets",
         "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 150912,
       "name": "Long Ride",
       "url": "https://open.spotify.com/track/19TByZROgOouJ9uc4VPaSb"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Anjali",
-        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
-      },
-      "artists": [
-        {
-          "name": "Michael Mandrell and Benjy Wertheimer",
-          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "Priya (Beloved)",
-      "url": "https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Bubble",
-          "url": "https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Lover Man",
         "url": "https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 160250,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/6Qur3sb3jen75OnKG2Omv6"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Bubble",
+          "url": "https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/6zRMPCiscrkVp1rIeylCLk"
-      },
-      "artists": [
-        {
-          "name": "Doosi",
-          "url": "https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Peaceful Mind",
-      "url": "https://open.spotify.com/track/1WibRGaemUausx1GX9VPhv"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Sleep Well",
         "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 239428,
       "name": "Sleep Well",
       "url": "https://open.spotify.com/track/6EltS9kyjdvCeIOZuNx7S0"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/6zRMPCiscrkVp1rIeylCLk"
+      },
+      "artists": [
+        {
+          "name": "Doosi",
+          "url": "https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Peaceful Mind",
+      "url": "https://open.spotify.com/track/1WibRGaemUausx1GX9VPhv"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Mandala Spirit",
-        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
-      },
-      "artists": [
-        {
-          "name": "Danyel Varda",
-          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
-        }
-      ],
-      "duration_ms": 222916,
-      "name": "Lorimar",
-      "url": "https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Distant Call",
         "url": "https://open.spotify.com/album/2mebF0VT6uPkhFFFaUD4lS"
       },
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Destinazione Pianoforte New Age: Musica Relax Piano Collection, Musica Rilassante per Studio & Concentrazione, Meditazione, Dormire Bene & Yoga",
-        "url": "https://open.spotify.com/album/0Fi6h7AcurDKDQaMi5xjA8"
+        "name": "Mandala Spirit",
+        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
       },
       "artists": [
         {
-          "name": "Sleep n Love",
-          "url": "https://open.spotify.com/artist/4lAObIqbk5Qpsb7j0avEvC"
+          "name": "Danyel Varda",
+          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
         }
       ],
-      "duration_ms": 374879,
-      "name": "Sonno Profondo",
-      "url": "https://open.spotify.com/track/6blql3Gpo3LwVmEXTXqUJM"
+      "duration_ms": 222916,
+      "name": "Lorimar",
+      "url": "https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1651,6 +1635,22 @@
       "duration_ms": 272730,
       "name": "Rain",
       "url": "https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Destinazione Pianoforte New Age: Musica Relax Piano Collection, Musica Rilassante per Studio & Concentrazione, Meditazione, Dormire Bene & Yoga",
+        "url": "https://open.spotify.com/album/0Fi6h7AcurDKDQaMi5xjA8"
+      },
+      "artists": [
+        {
+          "name": "Sleep n Love",
+          "url": "https://open.spotify.com/artist/4lAObIqbk5Qpsb7j0avEvC"
+        }
+      ],
+      "duration_ms": 374879,
+      "name": "Sonno Profondo",
+      "url": "https://open.spotify.com/track/6blql3Gpo3LwVmEXTXqUJM"
     }
   ],
   "unique_name": "Nidra",

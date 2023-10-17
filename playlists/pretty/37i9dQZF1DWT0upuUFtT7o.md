@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: juju <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,209 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,229 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Pressure](https://open.spotify.com/track/1idPrmJk9PlmFsupge2Xrf) | [Miina](https://open.spotify.com/artist/2be45mouasgEeyH4Tgm4fB), [Carmanah](https://open.spotify.com/artist/6JThhhe0e1F4wFnsJpn8AS) | [Pressure](https://open.spotify.com/album/1pX9EsEOwkenls3ZZ37p70) | 2:49 |
 | 100 | [tattoos and jeans](https://open.spotify.com/track/0yeKMJtAUmiIhoOL4IS6DJ) | [Jackson Marshall](https://open.spotify.com/artist/4sabxefSr7gXnTA6Lv3ILl) | [tattoos and jeans](https://open.spotify.com/album/5oLvVoNLrYcrvz3jHh2Vuy) | 2:57 |
 
-Snapshot ID: `MCwyZjY2MzdlYTYzYmU4ZmY1YTVhMjMxYTkwNmRjOTM5MzQzYzY0YTQz`
+Snapshot ID: `MCxlNDlhMzVjYTNjMDlmMGRkNDY4YmQzMjQ0YmEyOGRmM2ZhZjc2ZTk0`

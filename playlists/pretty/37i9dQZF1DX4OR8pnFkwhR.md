@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 十明
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,091 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,120 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [BLS](https://open.spotify.com/track/7DofXnfXyHvwvUKi6U3Er1) | [aldo van eyck](https://open.spotify.com/artist/0f0NPoMq6pvtisxkGo9uJ0) | [BLS](https://open.spotify.com/album/5DqoY9jhrTYIZAyq9dqiCr) | 4:06 |
 | 70 | [涙 \- NEWLY Remix](https://open.spotify.com/track/71kNMy61jtT0U0jsauyZny) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN), [Newly](https://open.spotify.com/artist/6x4LEGG2p8MEvmlWtHwhZu) | [MM&NC Remix](https://open.spotify.com/album/2H2rejC42XlQJw73MeiAB4) | 5:06 |
 
-Snapshot ID: `MCwyMTc2ZWVmMGMxNGYzYTAzYjZjNWEyZTMwNDVkMTVkMTcxYjNhYTZk`
+Snapshot ID: `MCw1YTRjNTBlOWVmMWMyNTYwN2FhMWIxMmZmODZlMzRhNzhjODlhNzgy`

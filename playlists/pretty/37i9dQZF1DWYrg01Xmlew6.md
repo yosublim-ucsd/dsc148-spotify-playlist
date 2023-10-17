@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. MV Killa in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,980 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,092 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 54 | [X SEMPRE](https://open.spotify.com/track/28aSFfpukDwTd1h4VE4dfk) | [Pablo](https://open.spotify.com/artist/2v6DnAG79LafwKNHmyEhsJ), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ), [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7) | [X SEMPRE](https://open.spotify.com/album/0oK2BcR7azV1YOB2aaQptX) | 4:09 |
 | 55 | [NUNN’È COSA](https://open.spotify.com/track/3cUb1152ZSVWm421ksV7VH) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [NUNN’È COSA](https://open.spotify.com/album/6GJZfbAYH8ZwpYv8FocESH) | 2:28 |
 
-Snapshot ID: `MCxhNTI3NWIyOWEyYmUyNDA1Zjg5ZjBlNmZlNjc1OTM3NTY4NTQ4MjEy`
+Snapshot ID: `MCw3MmFiNTU0OTI2MDY5ZDA3NzQ0Njg0MDg2ZjA1MjNkODlkYTU0OGQ1`

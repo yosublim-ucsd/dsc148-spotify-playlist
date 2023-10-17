@@ -2539,6 +2539,28 @@
     },
     {
       "album": {
+        "name": "Online",
+        "url": "https://open.spotify.com/album/4ujgEUB3UANgxVK9LF7Ib9"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        },
+        {
+          "name": "Sez on the Beat",
+          "url": "https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166142,
+      "name": "Online",
+      "url": "https://open.spotify.com/track/5eJNm87J8KZswp9G8lpMCv"
+    },
+    {
+      "album": {
         "name": "Perfy",
         "url": "https://open.spotify.com/album/2LbFWGS7q1oV7zTUOQ5ZOB"
       },
@@ -2638,7 +2660,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 199672,
       "name": "Prarthana",
       "url": "https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei"
@@ -3069,6 +3091,28 @@
     },
     {
       "album": {
+        "name": "Tanha",
+        "url": "https://open.spotify.com/album/3Ucq0Rcp8X8bYtRqEvC3ql"
+      },
+      "artists": [
+        {
+          "name": "Gravity",
+          "url": "https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO"
+        },
+        {
+          "name": "Outfly",
+          "url": "https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153146,
+      "name": "Tanha",
+      "url": "https://open.spotify.com/track/2WhvRVQUwKBqKqtAZjdN5O"
+    },
+    {
+      "album": {
         "name": "Tarakkiyan (From \"Multani Mitti\")",
         "url": "https://open.spotify.com/album/3SxARRjRLlgfgm1FWs6dqW"
       },
@@ -3202,7 +3246,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 191901,
       "name": "TRAP PRAA",
       "url": "https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd"

@@ -8250,7 +8250,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-16",
+      "date_removed": null,
       "duration_ms": 119120,
       "name": "ecstacy (slowed)",
       "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
@@ -10518,7 +10518,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 136618,
       "name": "Herbata Z Imbirem",
       "url": "https://open.spotify.com/track/3FZPXHN1fgFeZEiXlMtosR"
@@ -11948,7 +11948,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 168351,
       "name": "Jakbym zjad\u0142 mentosy i popi\u0142 je col\u0105",
       "url": "https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa"
@@ -12308,6 +12308,44 @@
       "duration_ms": 169520,
       "name": "Jesie\u0144 w Diamentowym Lesie",
       "url": "https://open.spotify.com/track/1XvQSYDyQ3VwHZRJKScwJI"
+    },
+    {
+      "album": {
+        "name": "Jesie\u0144 \u2013 Ta\u0144cuj",
+        "url": "https://open.spotify.com/album/7uGzEUwzI7DK3DrO4dspmQ"
+      },
+      "artists": [
+        {
+          "name": "L.U.C.",
+          "url": "https://open.spotify.com/artist/1GRpnNhXWlNMgnFf3NqEjv"
+        },
+        {
+          "name": "Kayah",
+          "url": "https://open.spotify.com/artist/2v295z585SM68pluEKXKSM"
+        },
+        {
+          "name": "Laboratorium Pie\u015bni",
+          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
+        },
+        {
+          "name": "Rebel Babel Film Orchestra",
+          "url": "https://open.spotify.com/artist/15YEBTmw6GtgzijvG84ynv"
+        },
+        {
+          "name": "Dagadana",
+          "url": "https://open.spotify.com/artist/7JVB1NU2XgRA0lViT3HPrt"
+        },
+        {
+          "name": "T\u0119gie Ch\u0142opy",
+          "url": "https://open.spotify.com/artist/5VqhAnuP1aw5jeRZV4Gi4U"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281818,
+      "name": "Jesie\u0144 \u2013 Ta\u0144cuj",
+      "url": "https://open.spotify.com/track/1TwTHhkLEU4XcDRobMAUaW"
     },
     {
       "album": {
@@ -14090,7 +14128,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 183503,
       "name": "Krakowski Spleen",
       "url": "https://open.spotify.com/track/63NqA1azM8ogGsJa7tFCRg"
@@ -17410,7 +17448,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -20822,7 +20860,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 157104,
       "name": "Pasek Gucci - La La La - Majki Remix",
       "url": "https://open.spotify.com/track/4qKEuYY93wCOWaqHky7dM7"
@@ -28748,7 +28786,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"

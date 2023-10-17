@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 260820,
       "name": "PROOF OF ONESELF",
       "url": "https://open.spotify.com/track/32XWDbc8fihB9Tc3i3cxgd"
@@ -1686,6 +1686,24 @@
       "duration_ms": 223773,
       "name": "RULE~\u7259\u30f2\u7a7f\u30c6\u30e8~",
       "url": "https://open.spotify.com/track/5wuI32XPpxSTUrh2CqSDVk"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SideM 49 ELEMENTS -10 F-LAGS",
+        "url": "https://open.spotify.com/album/7Aet8iBpl9L98DW9Xh1gSh"
+      },
+      "artists": [
+        {
+          "name": "\u515c \u5927\u543e (CV.\u6d66\u5c3e\u5cb3\u5927)",
+          "url": "https://open.spotify.com/artist/36v06McO13MtRuzHchy9W5"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234120,
+      "name": "SASH OF SMILE",
+      "url": "https://open.spotify.com/track/2FMynFjE0WU3DfIgRPOqoS"
     },
     {
       "album": {

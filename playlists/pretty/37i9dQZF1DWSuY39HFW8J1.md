@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuY39HFW8J1.md) - [plain]
 
 > Staying vibrant is <a href="spotify:artist:0jNDKefhfSbLR9sFvcPLHo">San Holo</a>'s<br/> currency, which can definitively be felt in his latest mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,814 likes - 22 songs - 59 min 59 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,820 likes - 22 songs - 59 min 59 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuY39HFW8J1.md) - [plain]
 | 21 | [Good for Nothing \- Mixed](https://open.spotify.com/track/3lpgbD6I8ZCV3ECiXOJuG7) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R), [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97) | [Good for Nothing \(Mixed\)](https://open.spotify.com/album/2g8rVj8JZQMahfXVhFSQQr) | 3:19 |
 | 22 | [vestal avenue \- Mixed](https://open.spotify.com/track/1zEsI234eysELrn4SQNJ5U) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [vestal avenue \(Mixed\)](https://open.spotify.com/album/1jnoIrGDQaFFMyDe14KGiC) | 3:33 |
 
-Snapshot ID: `MCxjOGI2Zjg1MzBhZDUwYzNkZDQ5MGZmMmI2Yjc2MTM2NjAwZTI3OTMx`
+Snapshot ID: `MCw2YzU1OTViYjE1MzhkODNkMGJiN2U2NzM1ZjU1ZGEyZDJhNTVkNGMy`

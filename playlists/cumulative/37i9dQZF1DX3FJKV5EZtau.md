@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-393 songs - 22 hr 29 min
+394 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Gurenge](https://open.spotify.com/track/6kBaORe8Y7pJh00892d94Q) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Gurenge](https://open.spotify.com/album/0EH5DTITXNnjcVxlgUfQCX) | 3:24 | 2023-02-17 |  |
 | [Gyal Drill](https://open.spotify.com/track/3Ti4tUrJvEufPY1qUdknVl) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [Gyal Drill](https://open.spotify.com/album/7I20IwNei2xSRK1jmOjVJh) | 3:01 | 2022-07-14 | 2022-08-06 |
 | [Heartsore Evermore](https://open.spotify.com/track/4ukdugLqiwiBwoDy93oybp) | [AIKA](https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg), [Eleanor Forte](https://open.spotify.com/artist/2UT4wTTmIHHPnjXKD7jvPM) | [Rai'Hea](https://open.spotify.com/album/0r63RTgoskyxYJEmUZQooD) | 3:30 | 2023-01-06 | 2023-01-29 |
+| [Heavenly Body](https://open.spotify.com/track/2GAhSKbtkFK9v1waB6UTPJ) | [Dazegxd](https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL), [MON](https://open.spotify.com/artist/5hQpMH8HwFZZPBVEo6e1f6) | [Gospel Overture](https://open.spotify.com/album/61d70nj1Qb3m0IWkF2TH0g) | 3:15 | 2023-10-06 |  |
 | [High Radiance](https://open.spotify.com/track/68nWPqrEiU7OhmGpyGzh8Q) | [Serph](https://open.spotify.com/artist/1N0uTSN7HQpzJYmQIvsusL) | [High Radiance](https://open.spotify.com/album/1oCtGA9V8tB2vPGrccHnz9) | 4:19 | 2022-01-07 | 2022-07-29 |
 | [High Season](https://open.spotify.com/track/11OYIkthYlHX3zoTY8hIX3) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [High Season](https://open.spotify.com/album/0y4rWTCXOekHKAgfIH1ewA) | 2:52 | 2022-01-07 |  |
 | [hikari](https://open.spotify.com/track/6sYJbalTgvb6uJtCIqfySm) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Night Flow](https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24) | 4:07 | 2022-07-14 | 2022-08-06 |
@@ -184,7 +185,7 @@
 | [I Tried It](https://open.spotify.com/track/1aT90LrFdM4Nmosb0PxhhU) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [I Tried It](https://open.spotify.com/album/78pdflobgQ0fKGzTeAJ0m3) | 3:33 | 2023-10-06 |  |
 | [I'll Be There for You](https://open.spotify.com/track/6TxceRnA4BeLn0XFRNbl5Y) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Polychrome](https://open.spotify.com/album/0NdJ9dK8zavK2oB68fJFva) | 4:46 | 2023-05-12 |  |
 | [I'll Be Waiting](https://open.spotify.com/track/1qadEGAXKdavfGokWUaVzL) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [NAZAAR](https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [I'll Be Waiting](https://open.spotify.com/album/2HFkHwcSgULeBwn78FapIh) | 4:08 | 2023-04-21 |  |
-| [i'm so tired](https://open.spotify.com/track/0hgEllIA9AgQBIPpkbNVmp) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [i'm so tired](https://open.spotify.com/album/1F6iYkfAJm0yrkgEON86lS) | 3:28 | 2023-06-23 |  |
+| [i'm so tired](https://open.spotify.com/track/0hgEllIA9AgQBIPpkbNVmp) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [i'm so tired](https://open.spotify.com/album/1F6iYkfAJm0yrkgEON86lS) | 3:28 | 2023-06-23 | 2023-10-17 |
 | [I.S.N](https://open.spotify.com/track/1Dh15obCQxgcPLYJ9pJPeP) | [RAM\(Koichi Yamazaki\)](https://open.spotify.com/artist/6PAsyZvxURiwIyufEVoroS) | [I.S.N](https://open.spotify.com/album/7AJnQ1wOMQtVMfkx1GQupH) | 3:57 | 2023-08-11 |  |
 | [if u want my love \- floopy flip](https://open.spotify.com/track/3GzKv75h5Gr6dP7OuNqKvy) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E), [floopy](https://open.spotify.com/artist/5kHm3FQ8SPLMxFFF4ZSzle) | [if u want my love \(the remixes\)](https://open.spotify.com/album/0SfBgStMy1BwzygvmqfLcd) | 2:16 | 2022-01-07 | 2022-07-29 |
 | [Imaginary Express](https://open.spotify.com/track/4kFWo9k3TysBOszTZTENPK) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Imaginarium](https://open.spotify.com/album/2FT3brbwyqJ3mthpsximfk) | 3:52 | 2022-01-07 |  |

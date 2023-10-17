@@ -4,7 +4,7 @@
 
 > kayblack é AULAS
 
-229 songs - 12 hr 57 min
+230 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,8 +80,9 @@
 | [Easy Money](https://open.spotify.com/track/29MtvMn1yovT22Gxq2XvYV) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Easy Money](https://open.spotify.com/album/0WNkmxjBFXAuVFJpfdFLow) | 3:11 | 2022-01-14 | 2022-08-13 |
 | [Ebi no Tempura](https://open.spotify.com/track/3zlOvStINIxw84On4S8jlP) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N) | [Ebi no Tempura](https://open.spotify.com/album/6iLLYALFWMs1Apq9Kt1FVU) | 2:08 | 2023-06-30 | 2023-08-12 |
 | [EGOT](https://open.spotify.com/track/5CdYmHG5yjBsRsRzui8aLc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [EGOT](https://open.spotify.com/album/4xCsgAMtfKlE8VQmindu4m) | 3:52 | 2023-06-30 | 2023-09-02 |
-| [Energia](https://open.spotify.com/track/4gtHqyZMvcppVuv32fXl9Y) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Energia](https://open.spotify.com/album/3BYtn3F4LyZZbXkAbkfAzp) | 5:01 | 2022-12-16 |  |
+| [Energia](https://open.spotify.com/track/4gtHqyZMvcppVuv32fXl9Y) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Energia](https://open.spotify.com/album/3BYtn3F4LyZZbXkAbkfAzp) | 5:01 | 2022-12-16 | 2023-10-17 |
 | [Essa Eu Fiz de Free](https://open.spotify.com/track/0VEqYpNBGmDVkFNvflpS64) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Só Quero Que Me Escute, Pt\. 1](https://open.spotify.com/album/6yMm0cQwl7SBZVSeAXR7iu) | 2:14 | 2023-06-02 | 2023-09-09 |
+| [Eu contra Eu](https://open.spotify.com/track/6Yg18bpaA8KRafBVGusUGM) | [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Eu Contra Eu](https://open.spotify.com/album/3JKTU8ZN9OkgETHKvo2HQ0) | 3:00 | 2023-10-16 |  |
 | [Eu Fiz o Jogo Virar](https://open.spotify.com/track/53BkPZwlaLbW77uV9BnJkl) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Eu Fiz o Jogo Virar](https://open.spotify.com/album/78d91UtLEOTAllTmgDh7n5) | 2:25 | 2022-01-14 | 2022-10-14 |
 | [Eu Precisava Voltar Com a Folhinha](https://open.spotify.com/track/3lv0Gjj2oP6sDjI5yv9Ebg) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w) | [Eu Precisava Voltar Com a Folhinha](https://open.spotify.com/album/3jtT6gy6wjOFnpGtb8RrZb) | 4:11 | 2022-01-14 | 2022-03-05 |
 | [Eu Te Vi Dançando](https://open.spotify.com/track/4ycPdxPOOcLoo8vSgeBtZL) | [Tavin](https://open.spotify.com/artist/6VpeQWZIGXFlj8uBK38aWw) | [Eu Te Vi Dançando](https://open.spotify.com/album/2Xq5FLOyGuo5s4ymZrG9zB) | 3:24 | 2023-07-07 | 2023-10-14 |

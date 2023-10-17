@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 126170,
+  "num_followers": 126180,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDgxMGI5MzlmOGExNDU1MDQ4MmIzZjgyNmEwZTBmNmZhZTc0OWI2",
+  "snapshot_id": "MCwxODdkNmZjZGY4YmNmMDBkM2Y2MDEwNzcxMjZmMTJlYjVmNmVlMzEx",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -173,22 +173,6 @@
       "url": "https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Hana Hou! Vol. 1",
-        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
-      },
-      "artists": [
-        {
-          "name": "Genoa Keawe",
-          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
-        }
-      ],
-      "duration_ms": 276693,
-      "name": "Alika",
-      "url": "https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Best Of Martin Denny's Exotica",
@@ -207,18 +191,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hawaiian Blossom",
-        "url": "https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij"
+        "name": "Hana Hou! Vol. 1",
+        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
       },
       "artists": [
         {
-          "name": "Raiatea Helm",
-          "url": "https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC"
+          "name": "Genoa Keawe",
+          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
         }
       ],
-      "duration_ms": 186360,
-      "name": "Ahulili",
-      "url": "https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY"
+      "duration_ms": 276693,
+      "name": "Alika",
+      "url": "https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -235,6 +219,22 @@
       "duration_ms": 153493,
       "name": "Chant Of The Moon",
       "url": "https://open.spotify.com/track/6j46ude4neMZMiEagbYkie"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaiian Blossom",
+        "url": "https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij"
+      },
+      "artists": [
+        {
+          "name": "Raiatea Helm",
+          "url": "https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "Ahulili",
+      "url": "https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -287,22 +287,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Blow Up presents Exclusive Blend Volume 2",
-        "url": "https://open.spotify.com/album/4YxT4gkHfeCWGobJkIU96v"
-      },
-      "artists": [
-        {
-          "name": "Jack Trombey",
-          "url": "https://open.spotify.com/artist/0CIxJ9KXfPW54mXzhWek7I"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "Underlay No.3",
-      "url": "https://open.spotify.com/track/2gtg19Ia7uXTY85DCiIoE5"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Ultra-Lounge: Bossa Novaville",
         "url": "https://open.spotify.com/album/5utRkK1KmqAY9H5UiRT2WM"
       },
@@ -323,6 +307,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Blow Up presents Exclusive Blend Volume 2",
+        "url": "https://open.spotify.com/album/4YxT4gkHfeCWGobJkIU96v"
+      },
+      "artists": [
+        {
+          "name": "Jack Trombey",
+          "url": "https://open.spotify.com/artist/0CIxJ9KXfPW54mXzhWek7I"
+        }
+      ],
+      "duration_ms": 242226,
+      "name": "Underlay No.3",
+      "url": "https://open.spotify.com/track/2gtg19Ia7uXTY85DCiIoE5"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Dear Mama",
         "url": "https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn"
       },
@@ -335,22 +335,6 @@
       "duration_ms": 307213,
       "name": "Nani Wale Ka Lau Oliva",
       "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Swingin' sounds for the Jungle Jetset !",
-        "url": "https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc"
-      },
-      "artists": [
-        {
-          "name": "The Tikiyaki Orchestra",
-          "url": "https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "Sunset on the Kona Kai",
-      "url": "https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -367,6 +351,22 @@
       "duration_ms": 164920,
       "name": "Yellow Bird",
       "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Swingin' sounds for the Jungle Jetset !",
+        "url": "https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc"
+      },
+      "artists": [
+        {
+          "name": "The Tikiyaki Orchestra",
+          "url": "https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "Sunset on the Kona Kai",
+      "url": "https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -403,22 +403,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Soul Of The Drums",
-        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 135946,
-      "name": "Coffee Bean / Calabash Annie",
-      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Mareld 2021",
         "url": "https://open.spotify.com/album/4cm45D4teP1JuVt2fbOrnj"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 182096,
       "name": "Mareld 2021",
       "url": "https://open.spotify.com/track/1YpgXcYZGAq40Y1VAfaSMj"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Soul Of The Drums",
+        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 135946,
+      "name": "Coffee Bean / Calabash Annie",
+      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -447,6 +447,22 @@
       "duration_ms": 168000,
       "name": "Palace of the Tiger Women",
       "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Kawohikukupulani",
+      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -519,22 +535,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "Kawohikukupulani",
-      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Young Hawaii Plays Old Hawaii",
         "url": "https://open.spotify.com/album/73EtyWy6eklV217lXyE89J"
       },
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Primitiva",
-        "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
-      },
-      "artists": [
-        {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
-        }
-      ],
-      "duration_ms": 134506,
-      "name": "Llama Serenade",
-      "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Latin-Esque",
@@ -607,6 +591,22 @@
       "duration_ms": 186536,
       "name": "Latin-Esque",
       "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Primitiva",
+        "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 134506,
+      "name": "Llama Serenade",
+      "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Call of the Islands",
-        "url": "https://open.spotify.com/album/1JXKR9WNKBUA9di9OadQ70"
-      },
-      "artists": [
-        {
-          "name": "\u00ccxtahuele",
-          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
-        }
-      ],
-      "duration_ms": 184718,
-      "name": "Colors of Hawaiki",
-      "url": "https://open.spotify.com/track/6FL6WsCM06Q4RSVU8b3Aqr"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
         "name": "MGANGA!",
         "url": "https://open.spotify.com/album/421iMthufbbRmsu87uHsOS"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 160306,
       "name": "Mombasa Love Song",
       "url": "https://open.spotify.com/track/4M2Na0IrNuE3oY53fQomTi"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Call of the Islands",
+        "url": "https://open.spotify.com/album/1JXKR9WNKBUA9di9OadQ70"
+      },
+      "artists": [
+        {
+          "name": "\u00ccxtahuele",
+          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
+        }
+      ],
+      "duration_ms": 184718,
+      "name": "Colors of Hawaiki",
+      "url": "https://open.spotify.com/track/6FL6WsCM06Q4RSVU8b3Aqr"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -983,22 +983,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Kiss Me Love",
-        "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
-      },
-      "artists": [
-        {
-          "name": "Buddy Fo & His Group",
-          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "Mi Nei",
-      "url": "https://open.spotify.com/track/1inCS7eh6vHSqftROoVKEL"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Fly Me to the Moon and the Bossa Nova Pops",
         "url": "https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 166226,
       "name": "Loads of Love",
       "url": "https://open.spotify.com/track/5rnHukUFZhfS69Cfbs4qyz"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Kiss Me Love",
+        "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
+      },
+      "artists": [
+        {
+          "name": "Buddy Fo & His Group",
+          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Mi Nei",
+      "url": "https://open.spotify.com/track/1inCS7eh6vHSqftROoVKEL"
     },
     {
       "added_at": "2021-01-20 03:50:53",

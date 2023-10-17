@@ -1,29 +1,13 @@
 {
   "description": "Emo feels for the misunderstood. Cover: Chri$tian Gate$",
-  "num_followers": 1526268,
+  "num_followers": 1526711,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGZmYmMwMmEyZDk2NjI3ODE5YmVlMzk3YTA5ZWVjMTFiZjM5ZWU4",
+  "snapshot_id": "MCxlMTVmZDQ1NzE1ZjYwZDZhYWViY2M3MjhiNDhlNzc1YWJhODEwOTA4",
   "tracks": [
-    {
-      "added_at": "2023-10-13 17:00:33",
-      "album": {
-        "name": "UnderDog Tale",
-        "url": "https://open.spotify.com/album/5SL27P9vVdAYEniywJVRzE"
-      },
-      "artists": [
-        {
-          "name": "cr1tter",
-          "url": "https://open.spotify.com/artist/0A5sCOcNtMRg1oaU7XpsPR"
-        }
-      ],
-      "duration_ms": 174630,
-      "name": "Shaun White",
-      "url": "https://open.spotify.com/track/7bcuO1wFvhjYErw3YHgJjI"
-    },
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
@@ -103,6 +87,22 @@
       "duration_ms": 137806,
       "name": "MEMORIES!",
       "url": "https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T"
+    },
+    {
+      "added_at": "2023-10-13 17:00:33",
+      "album": {
+        "name": "UnderDog Tale",
+        "url": "https://open.spotify.com/album/5SL27P9vVdAYEniywJVRzE"
+      },
+      "artists": [
+        {
+          "name": "cr1tter",
+          "url": "https://open.spotify.com/artist/0A5sCOcNtMRg1oaU7XpsPR"
+        }
+      ],
+      "duration_ms": 174630,
+      "name": "Shaun White",
+      "url": "https://open.spotify.com/track/7bcuO1wFvhjYErw3YHgJjI"
     },
     {
       "added_at": "2023-09-01 04:00:00",

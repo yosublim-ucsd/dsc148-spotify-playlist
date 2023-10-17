@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-192 songs - 11 hr 10 min
+195 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Blinding Lights](https://open.spotify.com/track/4qAeCVBiLVpG56P4KOL5sE) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Blinding Lights](https://open.spotify.com/album/1gLQuDNomgHQQlW2oFJAfj) | 2:53 | 2022-09-09 |  |
 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/4JGD5NiVmKVGBjVysCvKIw) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/1oFuXts0JAGBn1OhcWZp2F) | 2:59 | 2023-03-07 |  |
 | [cardigan \- Bonus Track](https://open.spotify.com/track/2zxv5woj8aMPkAhGsHDxI5) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2020, Vol\. 2 \(Deluxe Version\)](https://open.spotify.com/album/4r4RPtmQBIHxmMrK7pwbyw) | 3:52 | 2022-11-18 | 2022-11-26 |
+| [Castle on the Hill](https://open.spotify.com/track/50rkiMIech8x1lf3YtNVAS) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Castle on the Hill](https://open.spotify.com/album/2eTKkBOv6vCCYyLXxFfoVa) | 3:02 | 2023-10-16 |  |
 | [Ceilings \(arr\. piano\)](https://open.spotify.com/track/4APasGM4QM39lYXiUZVD7A) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Ceilings \(arr\. piano\)](https://open.spotify.com/album/25q58qrmESNApR2aVHSc5I) | 2:28 | 2023-06-20 | 2023-09-23 |
 | [Cemeteries of London](https://open.spotify.com/track/3VYqUFO5rtWrcQe9XxW4OJ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Coldplay's Viva La Vida](https://open.spotify.com/album/6QIK648ES8MNvYpqZF8Zy3) | 3:08 | 2022-11-18 | 2022-11-26 |
 | [Cherry Blossom Girl](https://open.spotify.com/track/5kJ5KtrdAkYeRi2ObZ4ecZ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Beaucoup de VSQ](https://open.spotify.com/album/5XoLTlMq0WJ1eykXG6kQTn) | 3:54 | 2022-11-18 | 2022-11-26 |
@@ -62,6 +63,7 @@
 | [Easy On Me](https://open.spotify.com/track/53sI71bFwGU3p2RBeRxWcC) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2021, Vol\. 2](https://open.spotify.com/album/0hCaA5SF1Xolv0hBJVUuPa) | 3:40 | 2022-11-18 | 2022-11-26 |
 | [Enjoy the Silence](https://open.spotify.com/track/1BABFMj4wusVDpIkpWjDgB) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Enjoy the Silence](https://open.spotify.com/album/1YLsqNlmQJjhfXTECIUyku) | 2:42 | 2023-04-18 |  |
 | [Every Breath You Take](https://open.spotify.com/track/6Hm6g48FZM25d7LkjmXQfN) | [Felix May](https://open.spotify.com/artist/79Q9buYaRrrm9LkwBnOGEg) | [Famous Piano Covers](https://open.spotify.com/album/6m1HH5v5pJ4bw5sQX2mOt3) | 3:39 | 2023-03-07 |  |
+| [Everybody's Changing](https://open.spotify.com/track/67IbvYxDxsgmgGa5XKj1d6) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Everybody's Changing](https://open.spotify.com/album/2ZQgqizSwUEQ69bmBBVkuo) | 3:22 | 2023-10-16 |  |
 | [Eyes Closed \(arr\. piano\)](https://open.spotify.com/track/7mpppbKD33V9hPAzb7Q7ux) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Eyes Closed \(arr\. piano\)](https://open.spotify.com/album/0QaQ14xUNTN6rM5irex6P6) | 3:02 | 2023-07-04 | 2023-09-02 |
 | [Fade into You](https://open.spotify.com/track/6x3QipqRZrUC2q5bETyyGf) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Alternative Hits of the 80s and 90s Vol\. 2](https://open.spotify.com/album/2yOUlxABRL88pBm9W5RuHL) | 5:15 | 2022-11-18 | 2022-11-26 |
 | [Fast Car](https://open.spotify.com/track/1F91nR4f8LNdVNpWGX4Gy4) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [I Play Yours, Vol\. 2](https://open.spotify.com/album/5Mv4Ksk5HM3my8S7jaZIpP) | 3:52 | 2021-11-25 |  |
@@ -127,6 +129,7 @@
 | [No Woman, No Cry \(Arr\. Kanneh\-Mason\)](https://open.spotify.com/track/1JUkO4vVk4LcvwP9sWBBRM) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Bob Marley: No Woman, No Cry \(Arr\. Cello\)](https://open.spotify.com/album/3cf57MihTJV4Flvpc6xGWk) | 2:26 | 2021-11-25 | 2023-08-15 |
 | [Norwegian Wood](https://open.spotify.com/track/2bh6efWH0r9tFHa42PG5hv) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Beatles' Norwegian Wood](https://open.spotify.com/album/3kVjXxjeoWSanIECpV7b2W) | 2:07 | 2022-11-18 | 2022-11-26 |
 | [Nothing Compares To You](https://open.spotify.com/track/2tZw7jaxDXM7klb1lEL3u2) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Nothing Compares To You](https://open.spotify.com/album/6pfu6QZu1gPxpzUXr73HzN) | 2:25 | 2021-11-25 | 2023-06-24 |
+| [Nothing Compares to You](https://open.spotify.com/track/1Y1EQY6SvWIelDrbGPoGTO) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Nothing Compares to You](https://open.spotify.com/album/3MKo4eOVqTJeokHlNJ6UMh) | 2:58 | 2023-10-16 |  |
 | [Novocaine for the Soul](https://open.spotify.com/track/3DtqQPayLqTqcnDuMqRcCQ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Alternative Hits of the 90s](https://open.spotify.com/album/3M5lwpG7B3HuKhyYcBLfkn) | 2:15 | 2022-11-18 | 2022-11-26 |
 | [Old Town Road](https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 2:22 | 2023-05-09 |  |
 | [One Dance](https://open.spotify.com/track/684mcUkgIA1OQwy5VpvHD1) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2016, Vol\. 2](https://open.spotify.com/album/10WHTghh38mVQRKNlk4rx8) | 2:11 | 2022-11-18 | 2022-11-26 |
@@ -139,7 +142,7 @@
 | [Royals](https://open.spotify.com/track/5cPxFYTRLgv9rHxaVZ67po) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2013, Vol\. 2](https://open.spotify.com/album/47UJihi0AVkgdfNvRNVUlF) | 3:23 | 2022-11-18 | 2022-11-26 |
 | [Run](https://open.spotify.com/track/1W0g9sj9trSjMUO49PAKWJ) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Run](https://open.spotify.com/album/66Gs4R4tp24sKbBOu69bd3) | 3:41 | 2023-05-09 |  |
 | [SAD!](https://open.spotify.com/track/22QfL13HHu4ryuIksT4Fkj) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs the Hits of 2018, Vol\. 2](https://open.spotify.com/album/2hk3pnDS8W2zp7QXgwTb4u) | 2:51 | 2022-11-18 | 2022-11-26 |
-| [Sailing](https://open.spotify.com/track/7vrm7MunIj4mXiEZdj8zfF) | [Nilo Almeida](https://open.spotify.com/artist/1FFwV2WdNXvSTHJAI0CZlF) | [Sailing](https://open.spotify.com/album/26VqwTUlZPYlDFdFr86HsM) | 1:45 | 2023-02-21 |  |
+| [Sailing](https://open.spotify.com/track/7vrm7MunIj4mXiEZdj8zfF) | [Nilo Almeida](https://open.spotify.com/artist/1FFwV2WdNXvSTHJAI0CZlF) | [Sailing](https://open.spotify.com/album/26VqwTUlZPYlDFdFr86HsM) | 1:45 | 2023-02-21 | 2023-10-17 |
 | [Samson](https://open.spotify.com/track/3QEYwF3sQ8TFrJd4lGt1uM) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Regina Spektor](https://open.spotify.com/album/1LzX7qSVoKMGmmARb2DYbb) | 2:58 | 2022-11-18 | 2022-11-26 |
 | [Save Me](https://open.spotify.com/track/4xeZFxASZR1MdL6DVrp54b) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs BTS](https://open.spotify.com/album/2mWJADpEak5CNXxMevndVI) | 3:20 | 2022-11-18 | 2022-11-26 |
 | [Say Something](https://open.spotify.com/track/3lDVrC13oxt1IMvBbqT1Es) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 1](https://open.spotify.com/album/2nXsjLHluXH1EDCGaI4Uf9) | 3:50 | 2022-11-18 | 2022-11-26 |

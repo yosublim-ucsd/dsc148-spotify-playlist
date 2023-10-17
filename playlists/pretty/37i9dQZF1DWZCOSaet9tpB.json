@@ -1,12 +1,12 @@
 {
   "description": "Nigeria's hottest tracks.  Cover: <a href=\"https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H?si=9GkrcljcTpGYguTyI8FHYA\">Ruger</a>  ",
-  "num_followers": 116699,
+  "num_followers": 116747,
   "original_name": "Hot Hits Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzZkNzBlNzE0ZmI1NDU4MzE4OGRkMzNiMTkyOTIxOWQyYWE3ZmJh",
+  "snapshot_id": "MCxjYTNmZWU5ZTUxYTBmZTkxNWQ3OGFlN2I3YWMwOTQ2NDFmNDA3ZTdh",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -314,6 +314,10 @@
         {
           "name": "Shallipopi",
           "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Pa Monday-Edo",
+          "url": "https://open.spotify.com/artist/1n6avnWlG0KCkrsU6OazAC"
         }
       ],
       "duration_ms": 170605,

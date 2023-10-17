@@ -1,13 +1,29 @@
 {
   "description": "Rap from hell. Cover: City Morgue",
-  "num_followers": 540372,
+  "num_followers": 540875,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWFiOTE0ZTdkNDAxYmI3NmVhYzk4YzQwMTYyNWQ2ODA5OWMwZWM1",
+  "snapshot_id": "MCw2ZjgyYWRjYzRhYzBmNWI4NTA5ZWI5YzJjMmIzNzc5OGE5OWU1NzVj",
   "tracks": [
+    {
+      "added_at": "2023-10-16 19:26:34",
+      "album": {
+        "name": "MY DAY IS RUINED !",
+        "url": "https://open.spotify.com/album/0S2I5ehn7kCisujdvyYImy"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 133286,
+      "name": "MY DAY IS RUINED !",
+      "url": "https://open.spotify.com/track/7kxSAje77rPVfZZlWCqtGH"
+    },
     {
       "added_at": "2023-08-29 17:56:43",
       "album": {
@@ -49,6 +65,26 @@
       "url": "https://open.spotify.com/track/0Z9mdR3xaZOkhidVO4A1MF"
     },
     {
+      "added_at": "2023-10-16 19:26:34",
+      "album": {
+        "name": "GUTS!",
+        "url": "https://open.spotify.com/album/5L148hAAOKZP6GsvjUzSXs"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        },
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "duration_ms": 132384,
+      "name": "GUTS!",
+      "url": "https://open.spotify.com/track/1TgfuMX9NCHkMTMlAf1yQB"
+    },
+    {
       "added_at": "2023-08-29 17:51:35",
       "album": {
         "name": "POPTHATRUNK",
@@ -67,6 +103,26 @@
       "duration_ms": 133333,
       "name": "POPTHATRUNK",
       "url": "https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs"
+    },
+    {
+      "added_at": "2023-10-16 19:26:34",
+      "album": {
+        "name": "SLAY ! !",
+        "url": "https://open.spotify.com/album/7LgHbiRMFE5fg3Cqtbu7Nu"
+      },
+      "artists": [
+        {
+          "name": "Kiraw",
+          "url": "https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "SLAY ! !",
+      "url": "https://open.spotify.com/track/7MBFht7VQgRIJaD0JjIeyC"
     },
     {
       "added_at": "2023-08-29 17:51:35",
@@ -97,6 +153,30 @@
       "url": "https://open.spotify.com/track/1iSNk5qM7aScyTL3508KQ6"
     },
     {
+      "added_at": "2023-10-16 19:26:34",
+      "album": {
+        "name": "in my restless dreams, i see you",
+        "url": "https://open.spotify.com/album/5YlMDbNU9agz8VY656cNii"
+      },
+      "artists": [
+        {
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        },
+        {
+          "name": "KAMAARA",
+          "url": "https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0"
+        },
+        {
+          "name": "Witchouse 40k",
+          "url": "https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J"
+        }
+      ],
+      "duration_ms": 141337,
+      "name": "blood+ (feat. Witchouse 40k)",
+      "url": "https://open.spotify.com/track/4x6x2hydT6wyXfaP2u4DuE"
+    },
+    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "COWBELL WARRIORS! (feat. Ski Mask The Slump God)",
@@ -115,6 +195,26 @@
       "duration_ms": 149461,
       "name": "COWBELL WARRIORS! (feat. Ski Mask The Slump God)",
       "url": "https://open.spotify.com/track/1ExIc6AQIFUvIhCuomEwrU"
+    },
+    {
+      "added_at": "2023-10-16 19:26:34",
+      "album": {
+        "name": "Needles Kimono (Feat. Ski Mask The Slump God)",
+        "url": "https://open.spotify.com/album/3jZmclXiNzH6vzmVnT7H4e"
+      },
+      "artists": [
+        {
+          "name": "Ghostluvme",
+          "url": "https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W"
+        },
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Needles Kimono (Feat. Ski Mask The Slump God)",
+      "url": "https://open.spotify.com/track/05bNTit7wIhHDxO6SVQW9f"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -139,6 +239,22 @@
       "duration_ms": 177831,
       "name": "paranoia agent",
       "url": "https://open.spotify.com/track/2xu7cNiSsc4MbJRuzQxNxb"
+    },
+    {
+      "added_at": "2023-10-16 19:26:34",
+      "album": {
+        "name": "BEAM TO YA HEAD",
+        "url": "https://open.spotify.com/album/52caoVYbYAcNNTdAaxh5QP"
+      },
+      "artists": [
+        {
+          "name": "HAARPER",
+          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+        }
+      ],
+      "duration_ms": 108019,
+      "name": "BEAM TO YA HEAD",
+      "url": "https://open.spotify.com/track/4SKu9Gc1w54tuF1m4Z0aAM"
     },
     {
       "added_at": "2023-08-29 17:51:35",
@@ -181,6 +297,26 @@
       "url": "https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg"
     },
     {
+      "added_at": "2023-10-16 19:26:34",
+      "album": {
+        "name": "STILL INTACT",
+        "url": "https://open.spotify.com/album/2R484CueaEoMXI9z9CnICx"
+      },
+      "artists": [
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        },
+        {
+          "name": "Pharmacist",
+          "url": "https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0"
+        }
+      ],
+      "duration_ms": 187534,
+      "name": "STILL INTACT",
+      "url": "https://open.spotify.com/track/32DrbFp2vhzY9ENDNLBoOP"
+    },
+    {
       "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "KEVLAR MONEY BAGS",
@@ -219,6 +355,26 @@
       "duration_ms": 165303,
       "name": "CODE MISTAKE",
       "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
+    },
+    {
+      "added_at": "2023-10-16 19:26:34",
+      "album": {
+        "name": "Special Bullets",
+        "url": "https://open.spotify.com/album/5ZWXPmoIzPwqp8RdMnTXPy"
+      },
+      "artists": [
+        {
+          "name": "Danny Towers",
+          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
+        },
+        {
+          "name": "Robb Bank$",
+          "url": "https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ"
+        }
+      ],
+      "duration_ms": 200753,
+      "name": "Special Bullets",
+      "url": "https://open.spotify.com/track/5vL9fTDxOGPB0RIyu2QrcZ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -521,6 +677,26 @@
       "url": "https://open.spotify.com/track/5uDAM1qbQSPwT8fUInBbGS"
     },
     {
+      "added_at": "2023-10-16 19:26:34",
+      "album": {
+        "name": "THIEF IN THE NIGHT",
+        "url": "https://open.spotify.com/album/3ydrHaAw7BOX1gNcqd8Pc4"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Krash",
+          "url": "https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb"
+        },
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        }
+      ],
+      "duration_ms": 119172,
+      "name": "THIEF IN THE NIGHT",
+      "url": "https://open.spotify.com/track/12kIpARSic31mwXTdUuMLU"
+    },
+    {
       "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Vacancy",
@@ -599,6 +775,22 @@
       "duration_ms": 124025,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/6VruexMGmO8zonX9LIU4cK"
+    },
+    {
+      "added_at": "2023-10-16 19:26:34",
+      "album": {
+        "name": "Remote Viewing",
+        "url": "https://open.spotify.com/album/18bDk9vXpDfQdUQCm20mqp"
+      },
+      "artists": [
+        {
+          "name": "Reptilian God Mana",
+          "url": "https://open.spotify.com/artist/160Gy6ij0e6apiTHlAnZOd"
+        }
+      ],
+      "duration_ms": 91200,
+      "name": "Remote Viewing",
+      "url": "https://open.spotify.com/track/1eI8HkKNt9li7iU4CYcPS7"
     },
     {
       "added_at": "2023-08-04 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,893 likes - 64 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,924 likes - 64 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 | 41 | [Hanenda \(Will Clarke Remix\)](https://open.spotify.com/track/4p357cUco7E48fyTNAUcqT) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Music Made for Aliens \(Remixes\)](https://open.spotify.com/album/3ijtQ5yWXBouR3E5jR5KXY) | 5:08 |
 | 42 | [Belgium \(Josh Wink Remix\)](https://open.spotify.com/track/4WNTWfXQuXb6VNmgwUpqaX) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Music Made for Aliens \(Remixes\)](https://open.spotify.com/album/3ijtQ5yWXBouR3E5jR5KXY) | 7:16 |
 | 43 | [Poem for the Planet \(Steve Bug Remix\)](https://open.spotify.com/track/1VKSl8H6jUA0WqaPqtJwl8) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [Ursula Rucker](https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj), [Steve Bug](https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J) | [Poem for the Planet \(Steve Bug Remix\)](https://open.spotify.com/album/2USJTl1pjuQ33ftvtkdbv5) | 9:26 |
-| 44 | [Inferno \- Space 92 Remix](https://open.spotify.com/track/1cxWcExZyZRqV0YUcSJc15) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Inferno \(Space 92 Remix\)](https://open.spotify.com/album/7pPduuWSydgIvuedhlPvWk) | 5:58 |
+| 44 | [Inferno \(Space 92 Remix\)](https://open.spotify.com/track/3kHw2dOwlkmHqfFeH6lZsD) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Inferno \(Space 92 Remix\)](https://open.spotify.com/album/2sjMnAIGTphL04PMAmhsdk) | 5:58 |
 | 45 | [Alien Tek](https://open.spotify.com/track/1gNXsxP6jac7aRfOCSkMUb) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Alien Tek](https://open.spotify.com/album/6ZIb6JLvP1ykwCwm2xTdDV) | 5:18 |
 | 46 | [Poem for the Planet \(Christopher Coe Remix\)](https://open.spotify.com/track/3vkvUKTZt14o8IYdT6YAzo) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Poem for the Planet \(Christopher Coe Remix\)](https://open.spotify.com/album/7zKLxDFtxc4HRNOY6bJnFo) | 7:18 |
 | 47 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 | 63 | [Intentionally \- Carl Cox Remix](https://open.spotify.com/track/2CnbcGoBNtbSjgF8pYJ71Y) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Intentionally](https://open.spotify.com/album/6BZvZr6rHBJEOFABiAjqxz) | 6:10 |
 | 64 | [Cluster](https://open.spotify.com/track/2Bjbr5y63hEVubSpfPFbik) | [Cox and Coe](https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Mindset \- EP](https://open.spotify.com/album/13n18iOU6x7D1gmEupfDF4) | 7:37 |
 
-Snapshot ID: `MCw5ZWRjZjZlNWQyY2M5NDk4NWFkNGIyNjI3NzNiZjhkZmQxOTIwMzVi`
+Snapshot ID: `MCw5ZWMxNzBiNzQ4NzkwZDBkYzY0NDM3NTcwM2Q0NTJmMzJiYWNmZjE0`

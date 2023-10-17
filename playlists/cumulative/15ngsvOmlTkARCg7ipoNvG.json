@@ -7713,6 +7713,24 @@
     },
     {
       "album": {
+        "name": "Grateful Heart",
+        "url": "https://open.spotify.com/album/1Ru7zzmBWKFJB3Y7hfKIbN"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60937,
+      "name": "Grateful Heart",
+      "url": "https://open.spotify.com/track/4McYfdGl65pdC0XH89rKdF"
+    },
+    {
+      "album": {
         "name": "Gratitude Revisited",
         "url": "https://open.spotify.com/album/4i52gyfZVQACdpatjoXgaL"
       },

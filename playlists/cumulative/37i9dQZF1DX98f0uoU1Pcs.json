@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 132214,
       "name": "All",
       "url": "https://open.spotify.com/track/0iwZ8jCa5YuNLnKQdYSS07"
@@ -702,7 +702,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 137863,
       "name": "Been Better",
       "url": "https://open.spotify.com/track/6Q959ampDmPu40NTGLC02p"
@@ -832,6 +832,24 @@
       "duration_ms": 141786,
       "name": "Big Bite",
       "url": "https://open.spotify.com/track/16ThVjXmR8yTDihJ5g70r4"
+    },
+    {
+      "album": {
+        "name": "Big Ground",
+        "url": "https://open.spotify.com/album/4fj40diAJXw2LuXH1DHUbH"
+      },
+      "artists": [
+        {
+          "name": "Folly Group",
+          "url": "https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172515,
+      "name": "Big Ground",
+      "url": "https://open.spotify.com/track/1zwNoQEODYKs7vFcGOjZGf"
     },
     {
       "album": {
@@ -1516,10 +1534,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 239500,
       "name": "Clinging to the Ground",
       "url": "https://open.spotify.com/track/4o0nUiJQ1o8iW2fuz8l1Ys"
+    },
+    {
+      "album": {
+        "name": "Collect",
+        "url": "https://open.spotify.com/album/6k9XYrdZMdF7z2uPFB51lh"
+      },
+      "artists": [
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176757,
+      "name": "Collect",
+      "url": "https://open.spotify.com/track/252ODAgPlMKwwh9XWo8xgW"
     },
     {
       "album": {
@@ -1556,7 +1592,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 204170,
       "name": "Come On Down (feat. Joe Talbot)",
       "url": "https://open.spotify.com/track/7j8wuFNfwgRuGJvi1vY5qI"
@@ -1682,7 +1718,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 170537,
       "name": "Cowboy Nudes",
       "url": "https://open.spotify.com/track/7i8XQTUczz7xyFdkSAdEg9"
@@ -2021,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "Dial Tone",
+        "url": "https://open.spotify.com/album/2aCmPSqWT38A5UuBcwsKGP"
+      },
+      "artists": [
+        {
+          "name": "Wild Nothing",
+          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202846,
+      "name": "Dial Tone",
+      "url": "https://open.spotify.com/track/6hcBm18ZnmPdDC4TVFk3JY"
+    },
+    {
+      "album": {
         "name": "Dirty Water",
         "url": "https://open.spotify.com/album/1gnhCT9K4f5yMpNxM8b6J1"
       },
@@ -2212,7 +2266,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 221461,
       "name": "Downtown Side",
       "url": "https://open.spotify.com/track/71Dd59CQo8agQxe20Glmcn"
@@ -2464,7 +2518,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 285533,
       "name": "Edge Of Teeth",
       "url": "https://open.spotify.com/track/1HafUZHznzgl5LrrHwcN92"
@@ -2486,6 +2540,24 @@
       "duration_ms": 244853,
       "name": "Eggman",
       "url": "https://open.spotify.com/track/1vsxjtAWoijQmtYjdtQmAV"
+    },
+    {
+      "album": {
+        "name": "El Que",
+        "url": "https://open.spotify.com/album/6iiAJazaFpnfByzoWJsE6U"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Garcia",
+          "url": "https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325695,
+      "name": "El Que",
+      "url": "https://open.spotify.com/track/2EShywiZbc7jwAMu4oCUNe"
     },
     {
       "album": {
@@ -3953,6 +4025,24 @@
     },
     {
       "album": {
+        "name": "Hell",
+        "url": "https://open.spotify.com/album/02zLqSxOwNG6OlppSNHvOK"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193516,
+      "name": "Hell",
+      "url": "https://open.spotify.com/track/44cwcFNclhaQm29UTexzDg"
+    },
+    {
+      "album": {
         "name": "Hello World",
         "url": "https://open.spotify.com/album/2FQxYhaN3AULlomg0TNefH"
       },
@@ -4670,7 +4760,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 198973,
       "name": "Impersonator",
       "url": "https://open.spotify.com/track/2odisK3KJX3mtLtilbWVt1"
@@ -4858,6 +4948,42 @@
       "duration_ms": 241093,
       "name": "Jackie Down The Line",
       "url": "https://open.spotify.com/track/7fhoVNqC9nHGTz3VjlFV7A"
+    },
+    {
+      "album": {
+        "name": "Jelsy",
+        "url": "https://open.spotify.com/album/7npp2bUGWig9s5OHeHR6Cn"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228898,
+      "name": "Jelsy",
+      "url": "https://open.spotify.com/track/0a01pZuz12ELhxMyzYuQoF"
+    },
+    {
+      "album": {
+        "name": "4D Country",
+        "url": "https://open.spotify.com/album/4K2SDO8BFmI5oJsAHJieHp"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175108,
+      "name": "Jesse",
+      "url": "https://open.spotify.com/track/71h0heg5nqZ8JwuXahMWD9"
     },
     {
       "album": {
@@ -6284,7 +6410,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 122893,
       "name": "My Risks Is Art",
       "url": "https://open.spotify.com/track/6Fa62BQxCQdJUI7kbPrihp"
@@ -6386,6 +6512,24 @@
       "duration_ms": 508733,
       "name": "Narrator",
       "url": "https://open.spotify.com/track/7huadpt8KliYzrj38MXTp6"
+    },
+    {
+      "album": {
+        "name": "Nearly Daffodils",
+        "url": "https://open.spotify.com/album/5wsCwJ7cW59jEebWfqBosB"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224858,
+      "name": "Nearly Daffodils",
+      "url": "https://open.spotify.com/track/27gZNSZFWAdADpJ4sEbhZM"
     },
     {
       "album": {
@@ -6530,7 +6674,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 286383,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2hU16xaNHHOKNUIADaIdpe"
@@ -6768,6 +6912,24 @@
       "duration_ms": 213376,
       "name": "Paranormaladies",
       "url": "https://open.spotify.com/track/55zbU6Cwjc8un3OgYRUCSU"
+    },
+    {
+      "album": {
+        "name": "Park (Rye)",
+        "url": "https://open.spotify.com/album/3OWIhvqjt7rAd3A89G2ajU"
+      },
+      "artists": [
+        {
+          "name": "Golden Apples",
+          "url": "https://open.spotify.com/artist/0QrEq2kZoi5VcRaHXSzgsQ"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218056,
+      "name": "Park (Rye)",
+      "url": "https://open.spotify.com/track/7kTpobjSHhojug7KWA1S2d"
     },
     {
       "album": {
@@ -8785,6 +8947,24 @@
     },
     {
       "album": {
+        "name": "the CIA",
+        "url": "https://open.spotify.com/album/1zGMd5eXQY9rPrXL0tVeEe"
+      },
+      "artists": [
+        {
+          "name": "glass beach",
+          "url": "https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282203,
+      "name": "the CIA",
+      "url": "https://open.spotify.com/track/71VFHN459tdGGWOLpMdYMi"
+    },
+    {
+      "album": {
         "name": "The Clutch",
         "url": "https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD"
       },
@@ -9066,10 +9246,28 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 185471,
       "name": "The World\u2019s Biggest Paving Slab",
       "url": "https://open.spotify.com/track/0kRJ86TTyiuqTHWh2sHGAI"
+    },
+    {
+      "album": {
+        "name": "Theia / The Silver Cord / Set",
+        "url": "https://open.spotify.com/album/0lnWUVG7bX0PlEK4SJBNXa"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204033,
+      "name": "Theia",
+      "url": "https://open.spotify.com/track/6hmnybtq0KphATLwxZ1THd"
     },
     {
       "album": {
@@ -9463,6 +9661,24 @@
     },
     {
       "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/3uzaEWHPjutN7RP2WjLiXf"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299136,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/19Ta3GtCyDQHhFXMS0vUZj"
+    },
+    {
+      "album": {
         "name": "Tuff Luck",
         "url": "https://open.spotify.com/album/0EZ2P9Jnb1EyqL2EE3WSL9"
       },
@@ -9618,7 +9834,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 182002,
       "name": "Used To It",
       "url": "https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag"

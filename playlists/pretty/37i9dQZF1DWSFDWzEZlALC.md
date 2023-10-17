@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,104 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,155 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Utopie](https://open.spotify.com/track/5dEk2G5Cdklq7eZFCrTIkm) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Utopie](https://open.spotify.com/album/7k8u3WFdC2fHOmp9VWsC2E) | 2:43 |
-| 2 | [schwarze SUVs](https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [schwarze SUVs](https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2) | 2:49 |
-| 3 | [Marlboro](https://open.spotify.com/track/6Ptjpsd6Dzd5gz6zGZmFo7) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Marlboro](https://open.spotify.com/album/5sHOBlcohfiJD02j2JlXTj) | 2:32 |
+| 2 | [Mann vom Fach](https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [Mann vom Fach](https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF) | 2:40 |
+| 3 | [schwarze SUVs](https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [schwarze SUVs](https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2) | 2:49 |
 | 4 | [Diese Eine](https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Diese Eine](https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW) | 2:18 |
-| 5 | [wie papier](https://open.spotify.com/track/6CVik5FWKhct0VwMit0rfr) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV), [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [wie papier](https://open.spotify.com/album/5YftfztP69iYMUiWMUZxE0) | 2:16 |
-| 6 | [Moshpit](https://open.spotify.com/track/1oBPebtPj0ZApJjKkhHxiO) | [BEVN](https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How) | [Moshpit](https://open.spotify.com/album/3TOjET9DF6t5ShxPWjmlIZ) | 2:34 |
-| 7 | [Mann vom Fach](https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [Mann vom Fach](https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF) | 2:40 |
-| 8 | [Schlaf gut](https://open.spotify.com/track/1gUDyPpx99jRTVgSvrWEjl) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Schlaf gut](https://open.spotify.com/album/1Swdd6ktgwOrIYVCk3v4m7) | 3:21 |
-| 9 | [Mensch](https://open.spotify.com/track/1lBMr23YxosiMyKhVeRIJB) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also bin ich](https://open.spotify.com/album/0HICsKReOoeoblyeiLClEd) | 2:50 |
-| 10 | [\\ sympathisch](https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [vier aufnahmen](https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM) | 2:25 |
-| 11 | [Sie passt nicht nach Berlin](https://open.spotify.com/track/6UPdWtYm3G696jzlopLmae) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [\*maliiik](https://open.spotify.com/artist/63Oa7FWYtfPylgzUEWhZWd), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9) | [Sie passt nicht nach Berlin](https://open.spotify.com/album/3jd8pOKaDAX3IGxkTUL7cz) | 3:11 |
-| 12 | [Alles unter groß ist mir zu klein](https://open.spotify.com/track/5H5JWvy5SbbP8vCZzdbW9Y) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8), [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Alles unter groß ist mir zu klein](https://open.spotify.com/album/6na6llxlIChpuvqxUidYoB) | 2:37 |
+| 5 | [Schlaf gut](https://open.spotify.com/track/1gUDyPpx99jRTVgSvrWEjl) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Schlaf gut](https://open.spotify.com/album/1Swdd6ktgwOrIYVCk3v4m7) | 3:21 |
+| 6 | [Mensch](https://open.spotify.com/track/1lBMr23YxosiMyKhVeRIJB) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also bin ich](https://open.spotify.com/album/0HICsKReOoeoblyeiLClEd) | 2:50 |
+| 7 | [Marlboro](https://open.spotify.com/track/6Ptjpsd6Dzd5gz6zGZmFo7) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Marlboro](https://open.spotify.com/album/5sHOBlcohfiJD02j2JlXTj) | 2:32 |
+| 8 | [wie papier](https://open.spotify.com/track/6CVik5FWKhct0VwMit0rfr) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV), [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [wie papier](https://open.spotify.com/album/5YftfztP69iYMUiWMUZxE0) | 2:16 |
+| 9 | [Alles unter groß ist mir zu klein](https://open.spotify.com/track/5H5JWvy5SbbP8vCZzdbW9Y) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8), [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Alles unter groß ist mir zu klein](https://open.spotify.com/album/6na6llxlIChpuvqxUidYoB) | 2:37 |
+| 10 | [Moshpit](https://open.spotify.com/track/1oBPebtPj0ZApJjKkhHxiO) | [BEVN](https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How) | [Moshpit](https://open.spotify.com/album/3TOjET9DF6t5ShxPWjmlIZ) | 2:34 |
+| 11 | [\\ sympathisch](https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [vier aufnahmen](https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM) | 2:25 |
+| 12 | [Sie passt nicht nach Berlin](https://open.spotify.com/track/6UPdWtYm3G696jzlopLmae) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [\*maliiik](https://open.spotify.com/artist/63Oa7FWYtfPylgzUEWhZWd), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9) | [Sie passt nicht nach Berlin](https://open.spotify.com/album/3jd8pOKaDAX3IGxkTUL7cz) | 3:11 |
 | 13 | [Halt mich \(feat\. laloba\)](https://open.spotify.com/track/4vRptSf2KRSneN26gjlIPM) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [laloba](https://open.spotify.com/artist/3C26GfV6N8ldIZdARc928z) | [Durch die Blume](https://open.spotify.com/album/0JHy72rVJDNxmvhNHVNDhD) | 4:25 |
 | 14 | [Moshpit](https://open.spotify.com/track/6QFyquVHheJrzJbuv8tWFY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Moshpit](https://open.spotify.com/album/5WyiLUBm2DaTasNN24WTfY) | 2:01 |
 | 15 | [Shots](https://open.spotify.com/track/3SZ0pzEWeUTMvF2b9e5ak6) | [YRRRE](https://open.spotify.com/artist/1wwT1eZWyAjVXbb1qpzEVC) | [Shots](https://open.spotify.com/album/6ozSYOUv2z9a2NLyONFNnb) | 2:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Farbverlauf](https://open.spotify.com/track/0mSTVa3P2tv6zGRK2J63wI) | [George JR](https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t) | [Farbverlauf](https://open.spotify.com/album/6BbW7UG3EPMKyWUTnob6NJ) | 2:26 |
 | 75 | [Wenn wir groß sind](https://open.spotify.com/track/1EIviVazDK4zTaRHaU280S) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wenn wir groß sind](https://open.spotify.com/album/0QIFovoVISr6tYzg3HYeQZ) | 3:41 |
 
-Snapshot ID: `MCw1ZGZkNjNiMGE2MzZhMzM0NTUyOTMzYzIwZDcxOGIzZThjNTAwNWRk`
+Snapshot ID: `MCxkNmMwMzdiMzZhNDkzM2RjZDM1MTA5NWEzYjQxNjNjMDhlNjE0MGM4`

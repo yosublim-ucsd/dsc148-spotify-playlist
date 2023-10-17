@@ -2,7 +2,7 @@
 
 ### [Rock Love Songs](https://open.spotify.com/playlist/37i9dQZF1DX7Z7kYpKKGTc)
 
-> The romantic side of classic rock and metal
+> El lado romántico del rock clásico y el metal.
 
 438 songs - 1 day 9 hr 17 min
 
@@ -196,7 +196,7 @@
 | [If Only](https://open.spotify.com/track/0KFizFecN3msFzdCrqFSHv) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Cupid](https://open.spotify.com/album/0jZFOZYfHADfQZEWS34EjG) | 4:58 | 2022-03-30 | 2022-04-07 |
 | [If You Belong to Me](https://open.spotify.com/track/759c8iDFYOtthJJ7ZaVuyv) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Tambu](https://open.spotify.com/album/6euMPZz8wRBQBf9U2W91Xw) | 5:03 | 2023-03-26 | 2023-06-28 |
 | [If You Could Only See](https://open.spotify.com/track/4KoNBTm9a55KgLMtEaf3n6) | [Tonic](https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU) | [Lemon Parade](https://open.spotify.com/album/6IQxEwIABLLej0bEYdrB0V) | 4:21 | 2022-03-30 | 2022-04-21 |
-| [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 | 2022-03-30 | 2023-10-16 |
+| [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 | 2022-03-30 |  |
 | [In a Broken Dream](https://open.spotify.com/track/3010u1hos2V6BgIICFtjc3) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Rod Stewart Sessions 1971\-1998](https://open.spotify.com/album/0R7beTsOHRdCcDKKx7AZCG) | 5:26 | 2022-03-30 | 2022-06-02 |
 | [In a Darkened Room](https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 3:55 | 2022-03-30 | 2022-04-09 |
 | [In My Dreams](https://open.spotify.com/track/5ZeKZBB57EnctaXih6hJvE) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Life As We Know It](https://open.spotify.com/album/5Yd9XNS5qG8edw1eBNHdok) | 4:30 | 2021-12-20 | 2022-07-29 |
@@ -323,7 +323,7 @@
 | [Serenade](https://open.spotify.com/track/5eDmCbmySQNCtINzEfijyG) | [Steeler](https://open.spotify.com/artist/0Bok9cwEPeFS6vv7iVrkDj) | [Steeler](https://open.spotify.com/album/6X4xOK2vncouastY92OcYw) | 6:15 | 2022-03-30 | 2022-04-20 |
 | [Seven Wonders \- 2017 Remaster](https://open.spotify.com/track/1VN2vWSkSmMKOhxr8lHzSx) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:42 | 2022-03-30 | 2023-06-28 |
 | [Shape Of My Heart](https://open.spotify.com/track/5TrvGxuqaYKsF7C0NfrLrY) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/4Bi4yzmfOupSFm2gl2jeaQ) | 4:38 | 2022-03-30 | 2022-04-20 |
-| [Shape Of My Heart](https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 4:39 | 2022-07-05 |  |
+| [Shape Of My Heart](https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 4:39 | 2022-07-05 | 2023-10-17 |
 | [Sharing The Night Together](https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Pleasure & Pain](https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F) | 2:54 | 2022-03-30 | 2022-04-21 |
 | [She Is Love](https://open.spotify.com/track/78BHYuPCnUBh9wlbNWTCqC) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T) | 3:09 | 2022-03-30 | 2022-04-18 |
 | [Ship of Fools \- 2006 Remaster](https://open.spotify.com/track/6X2rYNgBbEghiWyexcbldt) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [Now and Zen](https://open.spotify.com/album/7MwPi2NpS2OoZ8K1h5tmXV) | 5:00 | 2022-03-30 | 2022-04-04 |

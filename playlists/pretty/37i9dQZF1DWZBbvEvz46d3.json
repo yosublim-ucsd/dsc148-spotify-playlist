@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 61298,
+  "num_followers": 61336,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjNkZGUxZmY5NTgxN2MyYTljZjA1N2Q1OWQyMzUxZDIyZTE3ZjI0",
+  "snapshot_id": "MCw5ZTY4NWMxM2JmMTk1OWZhY2JlNDQ2ZWYzODM4ZTE1ZDRkNTBmN2Q4",
   "tracks": [
     {
       "added_at": "2023-09-01 14:10:27",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Lady Pank",
-        "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
-      },
-      "artists": [
-        {
-          "name": "Lady Pank",
-          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Kryzysowa narzeczona",
-      "url": "https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Ma\u0142omiasteczkowy",
         "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 262293,
       "name": "Lubi\u0119 wraca\u0107 tam gdzie by\u0142em",
       "url": "https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "Lady Pank",
+        "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
+      },
+      "artists": [
+        {
+          "name": "Lady Pank",
+          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Kryzysowa narzeczona",
+      "url": "https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
+        "name": "Z Tob\u0105 Nie Umiem Wygra\u0107",
+        "url": "https://open.spotify.com/album/0Q3TBllCSiPaWH6VBITiP0"
+      },
+      "artists": [
+        {
+          "name": "Ania D\u0105browska",
+          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
+        }
+      ],
+      "duration_ms": 243706,
+      "name": "Z Tob\u0105 Nie Umiem Wygra\u0107",
+      "url": "https://open.spotify.com/track/4SDTgdnpGs2CH27ECddcAu"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
         "name": "Ale jazz!",
         "url": "https://open.spotify.com/album/76LTor7lkmS5TndjKVxjEc"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 187545,
       "name": "Ale jazz!",
       "url": "https://open.spotify.com/track/7fuvhZxxLou4qRRo4Z63wE"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
-        "name": "Z Tob\u0105 Nie Umiem Wygra\u0107",
-        "url": "https://open.spotify.com/album/0Q3TBllCSiPaWH6VBITiP0"
-      },
-      "artists": [
-        {
-          "name": "Ania D\u0105browska",
-          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
-        }
-      ],
-      "duration_ms": 243706,
-      "name": "Z Tob\u0105 Nie Umiem Wygra\u0107",
-      "url": "https://open.spotify.com/track/4SDTgdnpGs2CH27ECddcAu"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Porady Na Zdrady [Dreszcze]",
-        "url": "https://open.spotify.com/album/3XC6o7PTm3SiamWBrYVo82"
-      },
-      "artists": [
-        {
-          "name": "Ania D\u0105browska",
-          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
-        }
-      ],
-      "duration_ms": 210662,
-      "name": "Porady Na Zdrady [Dreszcze]",
-      "url": "https://open.spotify.com/track/5MVK9Up4ORQdmOdBuk0MIy"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Z\u0142oto",
         "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
       },
@@ -887,22 +871,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Ania Karwan",
-        "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
-      },
-      "artists": [
-        {
-          "name": "Ania Karwan",
-          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
-        }
-      ],
-      "duration_ms": 197764,
-      "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
-      "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Album",
         "url": "https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E"
       },
@@ -915,6 +883,38 @@
       "duration_ms": 209213,
       "name": "Miales Byc",
       "url": "https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "Porady Na Zdrady [Dreszcze]",
+        "url": "https://open.spotify.com/album/3XC6o7PTm3SiamWBrYVo82"
+      },
+      "artists": [
+        {
+          "name": "Ania D\u0105browska",
+          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
+        }
+      ],
+      "duration_ms": 210662,
+      "name": "Porady Na Zdrady [Dreszcze]",
+      "url": "https://open.spotify.com/track/5MVK9Up4ORQdmOdBuk0MIy"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "Ania Karwan",
+        "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
+      },
+      "artists": [
+        {
+          "name": "Ania Karwan",
+          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
+        }
+      ],
+      "duration_ms": 197764,
+      "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
+      "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
+        "name": "Monkey Business",
+        "url": "https://open.spotify.com/album/5Ig1N32hUUC4dZFltNQtjb"
+      },
+      "artists": [
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        }
+      ],
+      "duration_ms": 180394,
+      "name": "Byle jak",
+      "url": "https://open.spotify.com/track/6cdL3GhIlJZaAXo4Khijwg"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
         "name": "Kontrast",
         "url": "https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Monkey Business",
-        "url": "https://open.spotify.com/album/5Ig1N32hUUC4dZFltNQtjb"
-      },
-      "artists": [
-        {
-          "name": "Margaret",
-          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
-        }
-      ],
-      "duration_ms": 180394,
-      "name": "Byle jak",
-      "url": "https://open.spotify.com/track/6cdL3GhIlJZaAXo4Khijwg"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Bu\u0142garskie centrum",
         "url": "https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 374093,
       "name": "Nikt tak pi\u0119knie nie m\u00f3wi\u0142, \u017ce si\u0119 boi mi\u0142o\u015bci",
       "url": "https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "Nasz Film (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T"
+      },
+      "artists": [
+        {
+          "name": "Antek Smykiewicz",
+          "url": "https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863"
+        }
+      ],
+      "duration_ms": 202127,
+      "name": "Pomimo Burz",
+      "url": "https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -1019,22 +1035,6 @@
       "duration_ms": 230826,
       "name": "Nie mam dla Ciebie mi\u0142o\u015bci - Kayax XX Rework",
       "url": "https://open.spotify.com/track/5hOFfDyhM9kSFyMBCmgAk5"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
-        "name": "Nasz Film (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T"
-      },
-      "artists": [
-        {
-          "name": "Antek Smykiewicz",
-          "url": "https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863"
-        }
-      ],
-      "duration_ms": 202127,
-      "name": "Pomimo Burz",
-      "url": "https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
+        "name": "Prawda o nas",
+        "url": "https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Prawda o nas",
+      "url": "https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
         "name": "Fake Love",
         "url": "https://open.spotify.com/album/50neih37CvuPZQjvSSQAu0"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 179612,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/01T5SgoNDIm6JMRoL4w2d5"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
-        "name": "Prawda o nas",
-        "url": "https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Prawda o nas",
-      "url": "https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Tamta dziewczyna",
-        "url": "https://open.spotify.com/album/10xXsahXWCsHQDS5IR82QN"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        },
-        {
-          "name": "Mateusz Zi\u00f3\u0142ko",
-          "url": "https://open.spotify.com/artist/0bfBH61NEvZOmVTUyUL1yO"
-        }
-      ],
-      "duration_ms": 222865,
-      "name": "Bezdro\u017ca (feat. Mateusz Zi\u00f3\u0142ko)",
-      "url": "https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Helena",
         "url": "https://open.spotify.com/album/7HYiz2pwAzXulTpWcL5ZtD"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 231932,
       "name": "Helena",
       "url": "https://open.spotify.com/track/5HoGLRydfDTwIWGrTzJPbQ"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "Kwiat Jab\u0142oni i go\u015bcie: Wolne serca",
+        "url": "https://open.spotify.com/album/0kA5rE2tsWsTOp6cX1gAW0"
+      },
+      "artists": [
+        {
+          "name": "Kwiat Jab\u0142oni",
+          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
+        },
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        }
+      ],
+      "duration_ms": 259941,
+      "name": "Jutro mo\u017cemy by\u0107 szcz\u0119\u015bliwi",
+      "url": "https://open.spotify.com/track/7zIYJMuU8iF4m5Tp0yKJ3l"
     }
   ],
   "unique_name": "Polskie hity o mi\u0142o\u015bci",

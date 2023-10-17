@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-761 songs - 1 day 22 hr 15 min
+762 songs - 1 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Fall Into You](https://open.spotify.com/track/7a8bzyInoCja0iFe31uucM) | [Omnia](https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA) | [Fall Into You](https://open.spotify.com/album/6JTLfvfLyLEq2E1PB5pSwS) | 3:24 | 2021-12-17 | 2023-02-08 |
 | [Fall Through the Earth](https://open.spotify.com/track/13sR6DpLw3uun6xBf6mwo1) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Fall Through the Earth](https://open.spotify.com/album/2wOaEAC5560QR6GXQfG8uK) | 3:40 | 2023-02-24 |  |
 | [FALLEN](https://open.spotify.com/track/01rjAeNJdwdlcezdaszvHz) | [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8), [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [FALLEN](https://open.spotify.com/album/4BD1l3VuzzvXKmVA81eSPo) | 3:52 | 2023-09-08 |  |
+| [Fallen Ones](https://open.spotify.com/track/522YmcPwqhjeBuijxbpgct) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Fallen Ones](https://open.spotify.com/album/2sSfwyUmGOrCJJskFbqID8) | 3:26 | 2023-10-13 |  |
 | [Falling](https://open.spotify.com/track/4zOSUnrmTMOQejyyluCZh3) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Osa Blu](https://open.spotify.com/artist/7wlPdryKXRY9IRxB00iPKo) | [Falling](https://open.spotify.com/album/4vr03HehxNm5c3h4q5QoPq) | 4:13 | 2021-12-17 | 2022-02-26 |
 | [Falling](https://open.spotify.com/track/5LI0pkjDAZa4nHGh32LImr) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Falling](https://open.spotify.com/album/4fcuj6nj9Fq6CVquHVTRSJ) | 3:51 | 2022-08-12 | 2023-06-10 |
 | [Fata Morgana](https://open.spotify.com/track/6ZPnUBqOW5cPG4gYBSbfhl) | [Ralphie B](https://open.spotify.com/artist/5KZ8bXnO1Q3nGWP2UqmQ3f), [Frank Waanders](https://open.spotify.com/artist/00eZQLSi5N5mpBuvojLa7P) | [Fata Morgana](https://open.spotify.com/album/6JJcpji6WEQKGEPdf473uv) | 4:06 | 2022-12-10 | 2023-06-10 |
@@ -617,7 +618,7 @@
 | [Standing On the Edge Of Space \- Cold Blue Remix](https://open.spotify.com/track/3FPRzuZBjsjduQbFWtSGlI) | [The Thrillseekers](https://open.spotify.com/artist/1RYDKWzJnJtbTPYNsDswD5), [Hydra](https://open.spotify.com/artist/40hrrmQKZYEN0ipPy6h8pU), [Cold Blue](https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF) | [Standing On the Edge of Space \(Cold Blue Remix\)](https://open.spotify.com/album/4YCi6v64BwQxuWzUhFAnxc) | 3:19 | 2023-04-29 | 2023-07-01 |
 | [Stargazing \(feat\. Lin was here\)](https://open.spotify.com/track/5ZW9Dzyz3TwGCoHgRVGmY1) | [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT), [Lin was here](https://open.spotify.com/artist/6a2eeGEALfPlsr7bZQo9wf) | [Stargazing \(feat\. Lin was here\)](https://open.spotify.com/album/1D6jer7Ksr9doUbvKuSEqO) | 2:49 | 2023-07-21 |  |
 | [Stars Collide \- XiJaro & Pitch Remix](https://open.spotify.com/track/0K2C5JHVbS9UkqbAPoxTRj) | [Somna](https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K), [Jennifer Rene](https://open.spotify.com/artist/44RB2EcmMwG4gC8EH75Ix1), [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [Beside You \[Deluxe\]](https://open.spotify.com/album/54Sgvc93MjdG7o2099JlN6) | 3:59 | 2021-12-17 | 2022-02-26 |
-| [Starship](https://open.spotify.com/track/04ted2YPfm40Peb2pC9CyD) | [Vinny DeGeorge](https://open.spotify.com/artist/7chssTaMWVQ27tijoHPOb1) | [Starship](https://open.spotify.com/album/5IXKSwrdxoy2eFKzf5Tjet) | 3:53 | 2023-05-19 |  |
+| [Starship](https://open.spotify.com/track/04ted2YPfm40Peb2pC9CyD) | [Vinny DeGeorge](https://open.spotify.com/artist/7chssTaMWVQ27tijoHPOb1) | [Starship](https://open.spotify.com/album/5IXKSwrdxoy2eFKzf5Tjet) | 3:53 | 2023-05-19 | 2023-10-17 |
 | [Start Again](https://open.spotify.com/track/37lDLLICQiM2RJuFy76mdn) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Start Again](https://open.spotify.com/album/74xlb5GJLWk7tce1Hgxm4L) | 3:13 | 2022-04-08 | 2023-06-10 |
 | [Stay With Me](https://open.spotify.com/track/0yEctvo3LdkBADPZT7cMmr) | [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2), [Nikhil Prakash](https://open.spotify.com/artist/3StDV7dbuu968KpgOAnsnT), [CeCe Mix](https://open.spotify.com/artist/57xlBOg4rGYpipwpaIKv1W) | [Stay With Me](https://open.spotify.com/album/0G8MmWlyUz0P8yF74xDJz5) | 3:57 | 2022-04-01 | 2022-05-14 |
 | [Stereo](https://open.spotify.com/track/4TXxY5qW7nbJdJmMuVSfzg) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy) | [Stereo](https://open.spotify.com/album/6ZDlGzjBfDNujBBeFSpQEi) | 3:17 | 2022-05-27 | 2022-08-27 |

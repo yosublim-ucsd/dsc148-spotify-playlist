@@ -1460,10 +1460,32 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 176065,
       "name": "Hidden Beauty",
       "url": "https://open.spotify.com/track/1NM9gkYVJ0sPaviZs6rXG0"
+    },
+    {
+      "album": {
+        "name": "Peaceful Piano Music: Relaxing Piano Ballads to Relax and Study",
+        "url": "https://open.spotify.com/album/6Chvs2oekSZnvIFfpBmCD5"
+      },
+      "artists": [
+        {
+          "name": "Piano Fruits Music",
+          "url": "https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v"
+        },
+        {
+          "name": "Magnus Eriksson",
+          "url": "https://open.spotify.com/artist/5Y92W0Mxk53w1ozspH7zZb"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176065,
+      "name": "Hidden Beauty",
+      "url": "https://open.spotify.com/track/2VTVX7GZ5xPUKKyAlhN095"
     },
     {
       "album": {

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ Ëgo in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,536 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,540 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [omg, lol](https://open.spotify.com/track/5klZLG9n6iZ9GPpEil9GwV) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [omg, lol](https://open.spotify.com/album/08DEirI7Hu33vxLoVZUzIz) | 2:35 |
 | 2 | [Cattiva \- + Cattiva](https://open.spotify.com/track/4qUcT5VpqM756hIUylvL4y) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza \(Deluxe\)](https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q) | 3:06 |
 | 3 | [TOXIC](https://open.spotify.com/track/4TF2IPm9ZNs4xowapURvKv) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [STO NELLA SAD DELUXE](https://open.spotify.com/album/2AaGTApQp7KVUYCfzlfl4S) | 3:05 |
-| 4 | [club heaven](https://open.spotify.com/track/1nO6DT2QIYTxwLGrfQvIt3) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [club heaven](https://open.spotify.com/album/119D6p9ScXWYQxWLMv99yn) | 2:11 |
-| 5 | [LIVIDI](https://open.spotify.com/track/30TgUm0WPcCU7srcV29rBE) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [LIVIDI](https://open.spotify.com/album/1M9045i9BvzDNFFvLDFMRx) | 2:13 |
-| 6 | [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 |
-| 7 | [Un giorno indietro](https://open.spotify.com/track/2Bjhc9bjOaHAkhIbogmtIl) | [xDiemondx](https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN) | [Un giorno indietro](https://open.spotify.com/album/2VWVnUuk9GMh8H8EQyZP67) | 3:45 |
-| 8 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 |
-| 9 | [crisi](https://open.spotify.com/track/0HZlp4bA707rkrHkNLHz49) | [cecilia](https://open.spotify.com/artist/0qfUD8we2TpzNAttGn5PL1) | [555](https://open.spotify.com/album/0vYSvIJAye6Ioax59WNMMW) | 3:45 |
-| 10 | [Rivoluzione!](https://open.spotify.com/track/4OYZLVdGFBHJ8UQcRbU3Ny) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Rivoluzione!](https://open.spotify.com/album/5jFiLe8UahShhjZyUhmnkM) | 2:41 |
-| 11 | [Tranquillo mai](https://open.spotify.com/track/0fhTCQPc8uFQGQY3iWb0sU) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [La mia stanza \(Deluxe\)](https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q) | 2:39 |
+| 4 | [LIVIDI](https://open.spotify.com/track/30TgUm0WPcCU7srcV29rBE) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [LIVIDI](https://open.spotify.com/album/1M9045i9BvzDNFFvLDFMRx) | 2:13 |
+| 5 | [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 |
+| 6 | [Un giorno indietro](https://open.spotify.com/track/2Bjhc9bjOaHAkhIbogmtIl) | [xDiemondx](https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN) | [Un giorno indietro](https://open.spotify.com/album/2VWVnUuk9GMh8H8EQyZP67) | 3:45 |
+| 7 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 |
+| 8 | [crisi](https://open.spotify.com/track/0HZlp4bA707rkrHkNLHz49) | [cecilia](https://open.spotify.com/artist/0qfUD8we2TpzNAttGn5PL1) | [555](https://open.spotify.com/album/0vYSvIJAye6Ioax59WNMMW) | 3:45 |
+| 9 | [Rivoluzione!](https://open.spotify.com/track/4OYZLVdGFBHJ8UQcRbU3Ny) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Rivoluzione!](https://open.spotify.com/album/5jFiLe8UahShhjZyUhmnkM) | 2:41 |
+| 10 | [Tranquillo mai](https://open.spotify.com/track/0fhTCQPc8uFQGQY3iWb0sU) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [La mia stanza \(Deluxe\)](https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q) | 2:39 |
+| 11 | [club heaven](https://open.spotify.com/track/1nO6DT2QIYTxwLGrfQvIt3) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [club heaven](https://open.spotify.com/album/119D6p9ScXWYQxWLMv99yn) | 2:11 |
 | 12 | [MADDALENA](https://open.spotify.com/track/2pg8yq02SvjvDmV8zOLg7P) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq) | [CASA DI FABIO](https://open.spotify.com/album/1eYplZ8wsJTejsOkYkn393) | 3:01 |
 | 13 | [Sex Pistols](https://open.spotify.com/track/47jzbaq1cxQTjdOcGjXbEA) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [Sex Pistols](https://open.spotify.com/album/2fBwG4OHm8OTfcvx0fiV6j) | 3:01 |
 | 14 | [Labbra in 3D](https://open.spotify.com/track/4PZutLiwi8aGYNMK5hSpR1) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Armonia//Silenzio](https://open.spotify.com/album/43eKNmK73UjfJIosW62Kpq) | 3:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 79 | [Uomini e Topi \- IMAGE](https://open.spotify.com/track/784jdx0uTlGKZ76rpiltM3) | [Vipra](https://open.spotify.com/artist/6RubjTZ123VH3iDaGbi7hM) | [Musica dal Morto](https://open.spotify.com/album/0zgmJpBrqWzO9sjtDy45QA) | 2:35 |
 | 80 | [Dead Or Alive](https://open.spotify.com/track/2t4qXJ8xOup0zA34v07TX4) | [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE) | [X SALVARSI](https://open.spotify.com/album/4ToEwnAtv09o3oNfd48ziU) | 3:18 |
 
-Snapshot ID: `MCw5NDc2M2JhOGI2NzI4NzJkMDEyYzUwNDQ0NDE2MDlmZDk1MTVlMTkz`
+Snapshot ID: `MCw3MTEzMGQyOTcxMGZkOWYzMWQwNjg5MWU0MTc3OWI4M2I3YTI3MWM2`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-161 songs - 8 hr 0 min
+162 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Radioactive](https://open.spotify.com/track/79vX1IZRXami6H0rIkED9T) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Radioactive](https://open.spotify.com/album/047ykT34pfdijw5HeU02cy) | 3:04 | 2023-04-26 | 2023-09-20 |
 | [RATATA](https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:06 | 2023-04-26 | 2023-09-20 |
 | [Rewind.\. \(But I Love You\)](https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Someone You Can Count On](https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2) | 2:53 | 2023-04-26 | 2023-09-20 |
-| [Rise & grind](https://open.spotify.com/track/0EGw0mrH8bFttseRYAuAFp) | [MoneyBoy YB](https://open.spotify.com/artist/6eN3WIWcCLAQhYWLfWH8JN) | [Rise & grind](https://open.spotify.com/album/3NJUgcooxOfa7WPX0yHTGn) | 3:08 | 2023-09-19 |  |
+| [Rise & grind](https://open.spotify.com/track/0EGw0mrH8bFttseRYAuAFp) | [MoneyBoy YB](https://open.spotify.com/artist/6eN3WIWcCLAQhYWLfWH8JN) | [Rise & grind](https://open.spotify.com/album/3NJUgcooxOfa7WPX0yHTGn) | 3:08 | 2023-09-19 | 2023-10-17 |
+| [Rise & Grind](https://open.spotify.com/track/4f01r0DYdzbJ7ZFl70CBrh) | [MoneyBoy YB](https://open.spotify.com/artist/6eN3WIWcCLAQhYWLfWH8JN) | [4th Time Da Charm](https://open.spotify.com/album/14Rf2UMgdn6Ur2NHK7b0cZ) | 3:08 | 2023-09-19 |  |
 | [Rock Ur World](https://open.spotify.com/track/5PkWhNfVEz2O9n8b6cQFMw) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [ROOM202 EP](https://open.spotify.com/album/4ogKA3ZUwHVuYvwfDwPLjV) | 4:41 | 2023-04-26 | 2023-09-20 |
 | [Round4round](https://open.spotify.com/track/0nFYvP0Em4u6m6ZGy43Bo3) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [CLUB 20](https://open.spotify.com/album/7dPcRnySi2qjjFPjOCklZl) | 2:39 | 2023-09-19 |  |
 | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns) | 2:52 | 2023-09-19 |  |

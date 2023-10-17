@@ -1,15 +1,15 @@
 {
   "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Whee In(\ud718\uc778))",
-  "num_followers": 42038,
+  "num_followers": 42116,
   "original_name": "K-R&B Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmQwOGEwZDE5MDBmMGUxYThiMDNiNjI5MmQ3NWJiMjRmYTFiNjk2",
+  "snapshot_id": "MCxmY2JhNGU5MGEzZjJmYWRhYmU0OTEzYjg5MjA3MTdhZjJiNzM5NDI0",
   "tracks": [
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "IN the mood",
         "url": "https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet"
@@ -25,7 +25,43 @@
       "url": "https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
+      "album": {
+        "name": "Light (Feat. Junguk)",
+        "url": "https://open.spotify.com/album/5QqP080KIO26a5XvDNX2F5"
+      },
+      "artists": [
+        {
+          "name": "minzunki",
+          "url": "https://open.spotify.com/artist/6gj5VZHLST9DF4D5LTek65"
+        },
+        {
+          "name": "Junguk",
+          "url": "https://open.spotify.com/artist/0r0UiX83K8j121ilLGAX8k"
+        }
+      ],
+      "duration_ms": 229097,
+      "name": "Light (Feat. Junguk)",
+      "url": "https://open.spotify.com/track/77SWtlPS2Y4ijijx4Ucgbp"
+    },
+    {
+      "added_at": "2023-10-16 07:30:25",
+      "album": {
+        "name": "Winded",
+        "url": "https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Winded",
+      "url": "https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg"
+    },
+    {
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "lonely",
         "url": "https://open.spotify.com/album/3566WHXxAjUYG5VgWXlSkt"
@@ -41,7 +77,7 @@
       "url": "https://open.spotify.com/track/4vSVu22ZUSMxVPdWnemTWo"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Mean",
         "url": "https://open.spotify.com/album/5wRFy9LcZeGSzMFQUrIcPs"
@@ -57,7 +93,7 @@
       "url": "https://open.spotify.com/track/0aY6RRY09db64dX7KXvF1S"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Dear Insanity...",
         "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
@@ -73,7 +109,7 @@
       "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/7Av1NlOPnL2EwQ8GqkbmFD"
@@ -89,7 +125,7 @@
       "url": "https://open.spotify.com/track/6LyZwzZAu3DP7RSMJcsy6D"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Sailing",
         "url": "https://open.spotify.com/album/7uXqFtzEZggg75Kpb1Eyya"
@@ -105,7 +141,7 @@
       "url": "https://open.spotify.com/track/4oZfm9BPohSYNM3dMpV2KQ"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Write & Draw",
         "url": "https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE"
@@ -121,7 +157,7 @@
       "url": "https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "My Time",
         "url": "https://open.spotify.com/album/3xlPKqOeXG7pSvk8tA6wco"
@@ -137,7 +173,7 @@
       "url": "https://open.spotify.com/track/2uymLlkO57qpLZUAry8I1R"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek"
@@ -161,7 +197,7 @@
       "url": "https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "CAKE (Feat. TRADE L)",
         "url": "https://open.spotify.com/album/0LREv8FEBfU58CJS8w2rSI"
@@ -181,7 +217,7 @@
       "url": "https://open.spotify.com/track/2BSjpT2O5Wf1k6fpurjwLN"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "To you",
         "url": "https://open.spotify.com/album/064cd3ECQA3xzCqjOeh8Us"
@@ -197,7 +233,7 @@
       "url": "https://open.spotify.com/track/4mYPnxp4nS9rzK4OY2mKQP"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "DAY N NIGHT",
         "url": "https://open.spotify.com/album/7eovAYPFqZattIUZ1vsNkh"
@@ -213,7 +249,7 @@
       "url": "https://open.spotify.com/track/7mf5QqTBynvYLk3bASLVJh"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "NIGHT DRIVER",
         "url": "https://open.spotify.com/album/6ucIPiCHNNiz5w4okN3Bjp"
@@ -229,7 +265,7 @@
       "url": "https://open.spotify.com/track/5L2sypKfJmGGcZLUXq5Obs"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "A Love Supreme",
         "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
@@ -245,7 +281,7 @@
       "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/5QhjP24qx1NmIz4xpkIt1U"
@@ -265,7 +301,7 @@
       "url": "https://open.spotify.com/track/53qSxySfNQad7q5NcNg2AQ"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
@@ -281,7 +317,7 @@
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Hongdae R&B",
         "url": "https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb"
@@ -297,7 +333,7 @@
       "url": "https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "I wanna be your deepest heart",
         "url": "https://open.spotify.com/album/7INMtslivPf4Op0LaJ8X6T"
@@ -325,7 +361,7 @@
       "url": "https://open.spotify.com/track/1L9RCVv1btqs0A75MKVmHP"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "NEWRNBERA",
         "url": "https://open.spotify.com/album/1EWG73KSFYGrnZ3InrANPo"
@@ -345,7 +381,7 @@
       "url": "https://open.spotify.com/track/2kPXxMK07nUGTL2eQdVM3O"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
@@ -361,7 +397,7 @@
       "url": "https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Comely",
         "url": "https://open.spotify.com/album/6yjwtup5l6X1YFEGfXtxNk"
@@ -377,7 +413,7 @@
       "url": "https://open.spotify.com/track/6loqQEv0DKuPc4ztKG4gAR"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "HEY",
         "url": "https://open.spotify.com/album/3deaJiF50MG6IWqj2t3qjZ"
@@ -393,7 +429,7 @@
       "url": "https://open.spotify.com/track/0DRqPbwXeljwRUK1VF6lta"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Hongdae R&B",
         "url": "https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb"
@@ -409,7 +445,7 @@
       "url": "https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
@@ -425,7 +461,7 @@
       "url": "https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Trello",
         "url": "https://open.spotify.com/album/1TSNJCcZXubDO54usy3hQ6"
@@ -445,7 +481,7 @@
       "url": "https://open.spotify.com/track/2canhObXy3qADDzIDMqtf5"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "NEWRNBERA",
         "url": "https://open.spotify.com/album/7CcYqPAWRlyOA5oXBOi8Zi"
@@ -465,7 +501,7 @@
       "url": "https://open.spotify.com/track/6AVagUXzjPGjXGaqHilS9Q"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Up Late",
         "url": "https://open.spotify.com/album/4WP3fm7ewSHgbQLHn84oaf"
@@ -481,7 +517,7 @@
       "url": "https://open.spotify.com/track/1UGQ0UbDJ69eTfUvrqMwNz"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "SUNNY SIDE UP",
         "url": "https://open.spotify.com/album/70AcRM1xkrvxLjCwyNw1Vl"
@@ -497,7 +533,7 @@
       "url": "https://open.spotify.com/track/00BhvVsOJkBMJVyojR7Cd9"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
@@ -513,7 +549,7 @@
       "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Horizon - NCT LAB",
         "url": "https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf"
@@ -529,7 +565,7 @@
       "url": "https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "WONDERLAND",
         "url": "https://open.spotify.com/album/5DOF1qqnKtb9RAFuH6RJJA"
@@ -549,7 +585,7 @@
       "url": "https://open.spotify.com/track/5oEqqlCFYDivgrCabSoaiW"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "No.5",
         "url": "https://open.spotify.com/album/7sTaCC9hyAjG93JoQb9OR6"
@@ -565,7 +601,7 @@
       "url": "https://open.spotify.com/track/0qPE8po4lQB34Ag281MBMr"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
@@ -581,23 +617,23 @@
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
-        "name": "YOUR TIME",
-        "url": "https://open.spotify.com/album/6vkd9JWoW9yyyewCfs8dBY"
+        "name": "For you",
+        "url": "https://open.spotify.com/album/0Q4mZDKAmY6bMajZJ9Vsrc"
       },
       "artists": [
         {
-          "name": "PEAK TIME TOP6",
-          "url": "https://open.spotify.com/artist/3VTia3pbTP2XEaOWJRQtoY"
+          "name": "YEL",
+          "url": "https://open.spotify.com/artist/5tm31CNMTzuIL7TqVGURwj"
         }
       ],
-      "duration_ms": 249493,
-      "name": "YOUR TIME",
-      "url": "https://open.spotify.com/track/4dSp0RtgeLkoZpjgN8f9Lb"
+      "duration_ms": 198609,
+      "name": "For you",
+      "url": "https://open.spotify.com/track/23mLrZO5Ff4UJYvJoTSu58"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "karaoke love",
         "url": "https://open.spotify.com/album/1VaTPAvkL829cceEPOOrUM"
@@ -617,7 +653,7 @@
       "url": "https://open.spotify.com/track/6xAB0AmhaIfeGkSkVXGpJ9"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "B.T",
         "url": "https://open.spotify.com/album/7dvR8XmzzhP2zJBuuuR1m1"
@@ -633,7 +669,7 @@
       "url": "https://open.spotify.com/track/176b8YUipX6fJi4SQNmMoK"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "I Know (feat. Jayroh)",
         "url": "https://open.spotify.com/album/0yITSLy6XxINua3Lc6mLj1"
@@ -653,7 +689,7 @@
       "url": "https://open.spotify.com/track/2tc6f5oJhGyf5FA6NbE6YJ"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "insomnia (feat. KURO)",
         "url": "https://open.spotify.com/album/0ltQcPJwhuE68IyKTLlHYs"
@@ -673,7 +709,7 @@
       "url": "https://open.spotify.com/track/7Jartabvap5nlDW9IGXrPd"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "NEW TEETH",
         "url": "https://open.spotify.com/album/6rvgvS5UBHKyehCptlQOga"
@@ -689,7 +725,7 @@
       "url": "https://open.spotify.com/track/0JHkSP9Qdc8MXrF7TN05pT"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "compromise (feat. Soo-Yeony & bluewoods)",
         "url": "https://open.spotify.com/album/2x7ql8FguTwmA6PhesCUOS"
@@ -713,27 +749,7 @@
       "url": "https://open.spotify.com/track/5Uy0nfGGfNP3NN6ElzJi5f"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
-      "album": {
-        "name": "A Heartbreaking Story",
-        "url": "https://open.spotify.com/album/40aUkA4dLyHGK5mblFGcO0"
-      },
-      "artists": [
-        {
-          "name": "nokdu",
-          "url": "https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D"
-        },
-        {
-          "name": "\ubc15\uc900\ud615",
-          "url": "https://open.spotify.com/artist/2xtMZ4zOq4eErGffG8utNG"
-        }
-      ],
-      "duration_ms": 261346,
-      "name": "A Heartbreaking Story (Feat. Joon Park)",
-      "url": "https://open.spotify.com/track/2HjX3g6NK0wLhELTM0mMRc"
-    },
-    {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Answer Answer",
         "url": "https://open.spotify.com/album/0r7yewj1OlyCzhDk2tmYjP"
@@ -753,23 +769,7 @@
       "url": "https://open.spotify.com/track/2MVEiDjCneHRZxmv10rb5l"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
-      "album": {
-        "name": "For you",
-        "url": "https://open.spotify.com/album/0Q4mZDKAmY6bMajZJ9Vsrc"
-      },
-      "artists": [
-        {
-          "name": "YEL",
-          "url": "https://open.spotify.com/artist/5tm31CNMTzuIL7TqVGURwj"
-        }
-      ],
-      "duration_ms": 198609,
-      "name": "For you",
-      "url": "https://open.spotify.com/track/23mLrZO5Ff4UJYvJoTSu58"
-    },
-    {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Rose",
         "url": "https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6"
@@ -785,23 +785,7 @@
       "url": "https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/52WFtZNiJmDRxWHzEYYYnP"
-      },
-      "artists": [
-        {
-          "name": "CRYBABY",
-          "url": "https://open.spotify.com/artist/5L0fM0LEXIPjky4i5FMTcd"
-        }
-      ],
-      "duration_ms": 179454,
-      "name": "17",
-      "url": "https://open.spotify.com/track/14MlkpwxVaIgzezt6Yi7Q3"
-    },
-    {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "BAD TRIP",
         "url": "https://open.spotify.com/album/4bdeyL4F2LmyGslFssegMc"
@@ -821,7 +805,7 @@
       "url": "https://open.spotify.com/track/3jdtoXjgDfPtyKBxrEiM6P"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Teach Me",
         "url": "https://open.spotify.com/album/4iqOysHvvd0O6Vc0e3Epvd"
@@ -837,7 +821,7 @@
       "url": "https://open.spotify.com/track/42KQPEwQbifLtdMMa24DXH"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Purple Love (Feat. Leellamarz)",
         "url": "https://open.spotify.com/album/7su3q5pR0XgyW0TZR2vau9"
@@ -853,47 +837,7 @@
       "url": "https://open.spotify.com/track/0Jo0mDbEb7eJYf4H13M2az"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
-      "album": {
-        "name": "Andrea\u2032s Song",
-        "url": "https://open.spotify.com/album/0L7yJIRm0dDHhpie0X5Wd8"
-      },
-      "artists": [
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        },
-        {
-          "name": "Lil Cherry",
-          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
-        }
-      ],
-      "duration_ms": 175818,
-      "name": "Andrea\u2032s Song (Feat. Lil Cherry)",
-      "url": "https://open.spotify.com/track/0fzKwOsRpmUQFkBPBxjAEU"
-    },
-    {
-      "added_at": "2023-10-13 08:44:56",
-      "album": {
-        "name": "Emotional Train",
-        "url": "https://open.spotify.com/album/4PwZ4NqcgZzq5yolCHGe59"
-      },
-      "artists": [
-        {
-          "name": "Choi Jungyoon",
-          "url": "https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Hate List (Feat. GIRIBOY)",
-      "url": "https://open.spotify.com/track/14QGX0o0nEN56istLMwFu6"
-    },
-    {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "What i can't forget is",
         "url": "https://open.spotify.com/album/7Fcsm6kJuA3N2EVZ4ExNm3"
@@ -909,7 +853,7 @@
       "url": "https://open.spotify.com/track/1LRGV6MpzodcHHw6CTIcLR"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "Morning Coffee",
         "url": "https://open.spotify.com/album/0WDC5MXoBXqZW9x1SohHbz"
@@ -925,23 +869,7 @@
       "url": "https://open.spotify.com/track/1KH1fP5NAN04rOqToDCewI"
     },
     {
-      "added_at": "2023-10-13 08:44:56",
-      "album": {
-        "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 255253,
-      "name": "Seed",
-      "url": "https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z"
-    },
-    {
-      "added_at": "2023-10-13 08:44:56",
+      "added_at": "2023-10-16 07:30:25",
       "album": {
         "name": "WHY",
         "url": "https://open.spotify.com/album/5kV8W1zJiIWOvaYIECzY3M"

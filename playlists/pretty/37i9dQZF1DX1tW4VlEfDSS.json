@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 348594,
+  "num_followers": 348625,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDNkYjZiMTBiNjllNzVhMzY0YTFiMjZjZWY1YTlhNDJlNDNmOTMz",
+  "snapshot_id": "MCxjZWMzMGVlOTEzMTRkMDZkNTk5MTQ1YmEyNjk2ZDAxZjA4YjJiZGJm",
   "tracks": [
     {
       "added_at": "2023-08-25 14:04:15",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
+        "name": "50//50",
+        "url": "https://open.spotify.com/album/1nQjkZ6oJDZDs60VWtdorn"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        }
+      ],
+      "duration_ms": 129059,
+      "name": "50//50 - Edit",
+      "url": "https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs"
+    },
+    {
+      "added_at": "2023-08-25 14:04:15",
+      "album": {
         "name": "Everybody Dance",
         "url": "https://open.spotify.com/album/28V8NPwe6KoGs9t96i0WHD"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 168289,
       "name": "Everybody Dance",
       "url": "https://open.spotify.com/track/5GiXra1IesFbyQxHsjWQ3M"
-    },
-    {
-      "added_at": "2023-08-25 14:04:15",
-      "album": {
-        "name": "50//50",
-        "url": "https://open.spotify.com/album/1nQjkZ6oJDZDs60VWtdorn"
-      },
-      "artists": [
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        }
-      ],
-      "duration_ms": 129059,
-      "name": "50//50 - Edit",
-      "url": "https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs"
     },
     {
       "added_at": "2023-08-25 14:04:15",
@@ -595,6 +595,26 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
+        "name": "Real Groove (Studio 2054 Remix)",
+        "url": "https://open.spotify.com/album/0z0lPmTXhkoyF1RyIAkGHm"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 262893,
+      "name": "Real Groove - Studio 2054 Remix",
+      "url": "https://open.spotify.com/track/3MySeyJCAKyPkTRvlvq7gm"
+    },
+    {
+      "added_at": "2023-08-25 14:04:15",
+      "album": {
         "name": "My House",
         "url": "https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 265570,
       "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
-    },
-    {
-      "added_at": "2023-08-25 14:04:15",
-      "album": {
-        "name": "Real Groove (Studio 2054 Remix)",
-        "url": "https://open.spotify.com/album/0z0lPmTXhkoyF1RyIAkGHm"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 262893,
-      "name": "Real Groove - Studio 2054 Remix",
-      "url": "https://open.spotify.com/track/3MySeyJCAKyPkTRvlvq7gm"
     },
     {
       "added_at": "2023-08-25 14:04:15",
@@ -1047,6 +1047,42 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
+        "name": "Second Chance (feat. Kimberly Davis)",
+        "url": "https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        },
+        {
+          "name": "Kimberly Davis",
+          "url": "https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ"
+        }
+      ],
+      "duration_ms": 204132,
+      "name": "Second Chance (feat. Kimberly Davis)",
+      "url": "https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz"
+    },
+    {
+      "added_at": "2023-08-25 14:04:15",
+      "album": {
+        "name": "I Want",
+        "url": "https://open.spotify.com/album/3EPYtjJznEmZMx7c5pW1Ro"
+      },
+      "artists": [
+        {
+          "name": "Chambray",
+          "url": "https://open.spotify.com/artist/4FUZzDnu4gBue46G99hesO"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "I Want",
+      "url": "https://open.spotify.com/track/2MRbbtbADstXAGGOO60Zav"
+    },
+    {
+      "added_at": "2023-08-25 14:04:15",
+      "album": {
         "name": "It\u2019s Alright",
         "url": "https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg"
       },
@@ -1071,26 +1107,6 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
-        "name": "Second Chance (feat. Kimberly Davis)",
-        "url": "https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc"
-      },
-      "artists": [
-        {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
-        },
-        {
-          "name": "Kimberly Davis",
-          "url": "https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ"
-        }
-      ],
-      "duration_ms": 204132,
-      "name": "Second Chance (feat. Kimberly Davis)",
-      "url": "https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz"
-    },
-    {
-      "added_at": "2023-08-25 14:04:15",
-      "album": {
         "name": "Disco Hearts",
         "url": "https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 181500,
       "name": "Disco Hearts",
       "url": "https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl"
-    },
-    {
-      "added_at": "2023-08-25 14:04:15",
-      "album": {
-        "name": "Back Tae Ayr",
-        "url": "https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 332931,
-      "name": "Back Tae Ayr",
-      "url": "https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF"
     }
   ],
   "unique_name": "Groove Theory",

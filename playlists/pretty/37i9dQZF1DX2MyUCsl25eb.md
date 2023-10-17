@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 982,095 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 982,222 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 99 | [Stay Alive](https://open.spotify.com/track/3V1Z8YNp4DbF9vQL3jGmG1) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 3](https://open.spotify.com/album/5rQBs4ikSzjlBG0kONn6Vj) | 3:22 |
 | 100 | [Can't Hide It](https://open.spotify.com/track/4Ic5SoEYrVpN7gLQ6q1058) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Dancing in My Room / Can't Hide It](https://open.spotify.com/album/5r0df366M7ZgFHiAj2RhN1) | 2:56 |
 
-Snapshot ID: `MCwyNDAyMWZiMGNlYTk3ZDdiY2ZiOTk3ZGMyNGViMjlmOThlODA5MmU0`
+Snapshot ID: `MCxmODdiNGZmMjgwNGM1ODhmNWVkMzc2MDIwMTU1OTUxYWUyYWExMWNk`

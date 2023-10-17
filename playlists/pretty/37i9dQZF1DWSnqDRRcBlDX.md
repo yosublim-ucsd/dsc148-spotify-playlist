@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,771 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,891 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 37 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 |
 | 38 | [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 |
 | 39 | [BONZAI](https://open.spotify.com/track/0gDfZQksdHrXAQ3DE9wO0X) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [BONZAI](https://open.spotify.com/album/79l8b27ykmajDqCbVzcian) | 3:36 |
-| 40 | [Kollera](https://open.spotify.com/track/0ZrXNuryJ6FYjww6jU6RUm) | [Dusty Kid](https://open.spotify.com/artist/6JGLndnzrQrIFkd8NFha3C) | [Rages 1992](https://open.spotify.com/album/6v9jhi0WbpnsFSaAAXX1HO) | 7:15 |
+| 40 | [Kollera](https://open.spotify.com/track/5TbAMnzA5rN0Tzxd6qCenj) | [Dusty Kid](https://open.spotify.com/artist/6JGLndnzrQrIFkd8NFha3C) | [Rages 1992](https://open.spotify.com/album/5SVD3U3JlUJ7Qtk6ROuo1Z) | 7:15 |
 | 41 | [303 State](https://open.spotify.com/track/3Wf6hVbr3YWCWt9py5OzDy) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1), [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [303 State](https://open.spotify.com/album/2Rk7WeMa2O3KhtTlKbg4vH) | 7:33 |
 | 42 | [Frontal](https://open.spotify.com/track/2f36YfuZ6u3Oj4gEt5zsCP) | [Disguised](https://open.spotify.com/artist/3eIDHfo94uKVDqWrLDRgCG) | [Inherit Selection 02](https://open.spotify.com/album/3spTbiNUX4U81wolf3PKuM) | 6:21 |
 | 43 | [Back To The Oldschool](https://open.spotify.com/track/4SvPwb0RrnLNgZRyx5DNIG) | [AREA ØNE](https://open.spotify.com/artist/4cPhyd2BTkwlq4fyXo4riK) | [Back To The Oldschool](https://open.spotify.com/album/5UMYYt14YTimv5OXbLSxTZ) | 5:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 49 | [Ancient Aum](https://open.spotify.com/track/5CiBbrUKWr6em5GiY0YCiM) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD), [Ace Ventura](https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4) | [Sacred Geometry](https://open.spotify.com/album/0CYafEex5MyTsJUfScXI3b) | 8:00 |
 | 50 | [Emotional \- 2023 Edit](https://open.spotify.com/track/24h4FVqzZl31rgUWd9NLZC) | [Bentech](https://open.spotify.com/artist/4tMLkoMpWu60qPkLybmNxu) | [Emotional EP](https://open.spotify.com/album/79R7xJdFybNlRzBrdELrxN) | 6:35 |
 
-Snapshot ID: `MCxmZDA5MmViNGViMzIwOGYzMDNkMDdhNWU2ZWYyMmQ5OWY4YWViNmIz`
+Snapshot ID: `MCwwOGM5ODMyZjI5ZjJmMDY2MDlhNWIxMGNiNDM3ZTlmNDgxZjQ1ZGNl`

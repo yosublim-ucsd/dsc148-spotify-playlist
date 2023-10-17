@@ -3069,6 +3069,24 @@
     },
     {
       "album": {
+        "name": "Take It Home",
+        "url": "https://open.spotify.com/album/4QlNhHUyV9KTQ4QC7GbwXu"
+      },
+      "artists": [
+        {
+          "name": "Mint Tape",
+          "url": "https://open.spotify.com/artist/35l6dl8unoLV3T6EjbO0hn"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132231,
+      "name": "Take It Home",
+      "url": "https://open.spotify.com/track/0x8ezdTuFi6El6BTGcQojf"
+    },
+    {
+      "album": {
         "name": "Tasty Bites",
         "url": "https://open.spotify.com/album/6Y0zEucjiXtyVXtxu0JgZi"
       },
@@ -3350,7 +3368,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 153750,
       "name": "Vaguely Familiar",
       "url": "https://open.spotify.com/track/6idquPxSFRAxjL8YZIuudz"

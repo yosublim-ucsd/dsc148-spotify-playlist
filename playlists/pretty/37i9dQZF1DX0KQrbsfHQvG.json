@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 187120,
+  "num_followers": 187197,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDk2OTdlNWIwYTBlNDU0ZGI0Y2I1NzAzMzY5YjNkZWMxYzA3NzFm",
+  "snapshot_id": "MCxjYTUwNjc4Mzc2NTI2NDg3YTM2MTliODg4OTg3YWRkYTc3N2ZjN2Yz",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -463,18 +463,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Bury Me Face Down",
-        "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
+        "name": "Obey (with YUNGBLUD)",
+        "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ"
       },
       "artists": [
         {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 231666,
-      "name": "Bury Me Face Down",
-      "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
+      "duration_ms": 220538,
+      "name": "Obey (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -491,6 +495,22 @@
       "duration_ms": 185870,
       "name": "Massacre, The New American Dream",
       "url": "https://open.spotify.com/track/3eqGymybwhdpKGVnbclzsL"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Bury Me Face Down",
+        "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "Bury Me Face Down",
+      "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -543,42 +563,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Obey (with YUNGBLUD)",
-        "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 220538,
-      "name": "Obey (with YUNGBLUD)",
-      "url": "https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "a modern tragedy vol. 1",
-        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "Stick Up",
-      "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Time & Space",
         "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "a modern tragedy vol. 1",
+        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Stick Up",
+      "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "Us and Them (Deluxe Edition)",
         "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 204026,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/3mwLIWu6drN0n6t9e5bwjG"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "21st Century Liability",
-        "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 193371,
-      "name": "Machine Gun (F**k The NRA)",
-      "url": "https://open.spotify.com/track/223Ng7eyUcCmFwX9lZdqjD"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -687,6 +671,22 @@
       "duration_ms": 205160,
       "name": "JU$T (feat. Pharrell Williams & Zack de la Rocha)",
       "url": "https://open.spotify.com/track/10vS4ZLi4XWlIsNXSQXgqh"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "21st Century Liability",
+        "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 193371,
+      "name": "Machine Gun (F**k The NRA)",
+      "url": "https://open.spotify.com/track/223Ng7eyUcCmFwX9lZdqjD"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "The Peace And The Panic",
-        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 196849,
-      "name": "Don't Wait (ft. Sam Carter)",
-      "url": "https://open.spotify.com/track/2ClpbVJnjvYLpYqYhSnEkL"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Fear",
         "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 186475,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "The Peace And The Panic",
+        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 196849,
+      "name": "Don't Wait (ft. Sam Carter)",
+      "url": "https://open.spotify.com/track/2ClpbVJnjvYLpYqYhSnEkL"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "digging for windows",
-        "url": "https://open.spotify.com/album/37kKroQgkSCkaB9sHMvcDG"
-      },
-      "artists": [
-        {
-          "name": "Zack De La Rocha",
-          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "digging for windows",
-      "url": "https://open.spotify.com/track/6JlUROBrL9EdYP6lGDdBM5"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "20/20 Vision",
         "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 166893,
       "name": "Hate Conquers All",
       "url": "https://open.spotify.com/track/4FvkeESnHKUsqYHSzUF9Mv"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "digging for windows",
+        "url": "https://open.spotify.com/album/37kKroQgkSCkaB9sHMvcDG"
+      },
+      "artists": [
+        {
+          "name": "Zack De La Rocha",
+          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "digging for windows",
+      "url": "https://open.spotify.com/track/6JlUROBrL9EdYP6lGDdBM5"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "YUNGBLUD",
-        "url": "https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 223043,
-      "name": "Polygraph Eyes",
-      "url": "https://open.spotify.com/track/1PlODCjGsbZRKlDljoBd4m"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Whitey Ford's House of Pain",
         "url": "https://open.spotify.com/album/79W0NJcUJHuQpvygtu6Mj7"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 163920,
       "name": "Can't Deny Me",
       "url": "https://open.spotify.com/track/4PwGt5dBTmdRu4HTN8ZWgR"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "YUNGBLUD",
+        "url": "https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 223043,
+      "name": "Polygraph Eyes",
+      "url": "https://open.spotify.com/track/1PlODCjGsbZRKlDljoBd4m"
     },
     {
       "added_at": "2023-06-23 04:01:00",

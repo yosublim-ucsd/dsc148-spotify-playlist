@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,046 songs - 23 hr 17 min
+1,047 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Grace And Love](https://open.spotify.com/track/73vlR62kP2Fj8ZaFfoikNZ) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Grace And Love](https://open.spotify.com/album/0RthfvS77mL4IQRyRxJ6J7) | 1:02 | 2022-07-13 |  |
 | [Grace Now](https://open.spotify.com/track/0EvvjtwefEWdch4tN8LCmR) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Grace Now](https://open.spotify.com/album/7GE2Fj80k4mdagGOlD4465) | 1:01 | 2023-02-15 |  |
 | [Graceful Lift](https://open.spotify.com/track/3gsxlodexjDM8vvT89msbS) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Soulful Treasures](https://open.spotify.com/album/59cxCCKChUXYJIIDUdxafC) | 1:04 | 2022-03-08 |  |
+| [Grateful Heart](https://open.spotify.com/track/4McYfdGl65pdC0XH89rKdF) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Grateful Heart](https://open.spotify.com/album/1Ru7zzmBWKFJB3Y7hfKIbN) | 1:00 | 2023-10-16 |  |
 | [Gratitude Revisited](https://open.spotify.com/track/0vhjlzfshrkzl2syNfI82q) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Gratitude Revisited](https://open.spotify.com/album/4i52gyfZVQACdpatjoXgaL) | 2:40 | 2022-01-12 |  |
 | [Gray Reimagined](https://open.spotify.com/track/1tiTBWOFUVM4kjNbAVhkgg) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Gray Reimagined](https://open.spotify.com/album/14NUtNkSpj80jXQ8LVIaKl) | 1:01 | 2023-04-19 |  |
 | [Grey Clouds \- Piano Version](https://open.spotify.com/track/7g67iqreB5QMcEqss06Nfm) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Grey Clouds](https://open.spotify.com/album/6GilC9y7sgEg4tQFu8Gag6) | 1:00 | 2022-06-20 |  |

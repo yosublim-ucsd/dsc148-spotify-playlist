@@ -4,7 +4,7 @@
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:0fdWtNx0iazarVEaQ30VEE">dezydery</a> \| Playlista odświeżana w każdą środę.
 
-1,588 songs - 3 day 18 hr 21 min
+1,589 songs - 3 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1331,7 +1331,8 @@
 | [Trochę Pogubiłem Się](https://open.spotify.com/track/07WNcJWKKcKwVrnTdTXnNs) | [Mark Wolf](https://open.spotify.com/artist/0OhL4PQtFURkWIVTMuZKt9) | [Trochę Pogubiłem Się](https://open.spotify.com/album/3q1DfmiMXIJlvXVZDFV2Zq) | 4:09 | 2023-08-01 | 2023-09-06 |
 | [Trochę poważniej](https://open.spotify.com/track/0UQQna6QFWUVd1Pptxdz64) | [Bart Gałązka](https://open.spotify.com/artist/1Uem85RHws6LkjjfsX285A) | [Trochę poważniej](https://open.spotify.com/album/2wi65ttdzagFJkvugzJZJ0) | 3:37 | 2022-06-20 | 2022-08-09 |
 | [Tron](https://open.spotify.com/track/7sRQriKiJBh4aWMU1QTIKF) | [drewnofromlas](https://open.spotify.com/artist/7L72uZK5KPwOwVhrR4EoUR) | [Tron](https://open.spotify.com/album/1UppzlgYjeALNIoy9jNmQa) | 3:48 | 2022-08-22 | 2022-09-06 |
-| [Trucizny i klątwy](https://open.spotify.com/track/6g9NlfKUiyQht0iDJUUKTb) | [Zespół Sztylety](https://open.spotify.com/artist/47F5S77b4ceFnR5V44CDQ0) | [Trucizny i klątwy](https://open.spotify.com/album/4ImofgFZADqANunIXNX2pt) | 3:22 | 2023-10-03 |  |
+| [Trucizny i klątwy](https://open.spotify.com/track/6g9NlfKUiyQht0iDJUUKTb) | [Zespół Sztylety](https://open.spotify.com/artist/47F5S77b4ceFnR5V44CDQ0) | [Trucizny i klątwy](https://open.spotify.com/album/4ImofgFZADqANunIXNX2pt) | 3:22 | 2023-10-03 | 2023-10-17 |
+| [Trucizny i klątwy](https://open.spotify.com/track/7p6F1ujt9riVpjz2i79Yy5) | [Zespół Sztylety](https://open.spotify.com/artist/47F5S77b4ceFnR5V44CDQ0) | [Tak będzie lepiej](https://open.spotify.com/album/3HFIaBpfqHZppjGbnhVnof) | 3:22 | 2023-10-10 |  |
 | [Trufle](https://open.spotify.com/track/3Yjmuy3jYvnWowu0XKi3IS) | [Oliver Gigon](https://open.spotify.com/artist/2FlyaCEJbYuZumkoDuFs0M) | [Trufle](https://open.spotify.com/album/3hv0VDfWUb2xhidK2z862E) | 3:10 | 2022-10-03 | 2022-11-08 |
 | [Trupy](https://open.spotify.com/track/7EL7wHgkQiwNuVY0R8BhNO) | [Drobne Niepokoje](https://open.spotify.com/artist/506ETJ2v15gknxEXtVUAfH) | [Trupy](https://open.spotify.com/album/2evicnc50qJml3dd3OgyJy) | 4:57 | 2022-05-23 | 2022-06-14 |
 | [truskawkowe usta](https://open.spotify.com/track/49iIieUY5RTy1gReetdPp2) | [maliny](https://open.spotify.com/artist/1S3B19QR8DFTo20TuguRsr) | [truskawkowe usta](https://open.spotify.com/album/42XS4rqqxaXyDo3OmnaSOf) | 3:32 | 2023-06-28 | 2023-08-02 |

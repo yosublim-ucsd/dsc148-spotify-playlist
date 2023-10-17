@@ -4,7 +4,7 @@
 
 > Mujeres a todo volumen\. Foto: Marineros.
 
-753 songs - 1 day 17 hr 56 min
+754 songs - 1 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Corazón Astral](https://open.spotify.com/track/7EjsQpCodgMXOBSSmIPTED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [I\. Entusiasmo \(Deluxe\)](https://open.spotify.com/album/0o4jDvbgrcERBrAFhVIrE9) | 3:11 | 2022-01-05 | 2022-02-02 |
 | [Corazón Salvaje](https://open.spotify.com/track/59jsGIPpK11rqnys2LcnlH) | [Reina Isabel](https://open.spotify.com/artist/6w67n5aSfExuuvgE4CBSru) | [Corazón Salvaje](https://open.spotify.com/album/4YjvrBICnLbjxGhu5d8zTd) | 3:10 | 2023-09-06 | 2023-10-05 |
 | [CORPUS](https://open.spotify.com/track/00kbHoa4uwqpSkuA6NdBLy) | [Kali Mutsa](https://open.spotify.com/artist/7EIUORXc76H7zXG7syAtcT) | [CORPUS](https://open.spotify.com/album/08pKowHVQ4JXeREyOQgPcW) | 3:37 | 2022-02-02 | 2022-04-07 |
-| [correr](https://open.spotify.com/track/5D4NZPyvA7lGtKrouJS9ZR) | [Vicenta](https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo), [Cabiria](https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC) | [virgen suicida](https://open.spotify.com/album/1ON6oGHI5yilSXfYxA77Kz) | 2:53 | 2023-06-05 |  |
+| [correr](https://open.spotify.com/track/5D4NZPyvA7lGtKrouJS9ZR) | [Vicenta](https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo), [Cabiria](https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC) | [virgen suicida](https://open.spotify.com/album/1ON6oGHI5yilSXfYxA77Kz) | 2:53 | 2023-06-05 | 2023-10-17 |
+| [correr](https://open.spotify.com/track/6QjfzTIZ50ut9SqjnX4xu6) | [Vicenta](https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo), [Cabiria](https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC) | [virgen suicida](https://open.spotify.com/album/5cGNxuYfProCoCfmSFSdsH) | 2:53 | 2023-10-04 |  |
 | [Cortocircuito](https://open.spotify.com/track/0bARB1x9XhVnG0nxHiJ5kF) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2) | [Se necesitan dos pa' bailar el tango](https://open.spotify.com/album/6SHRwUTB7uG7CGWydWm9j7) | 3:05 | 2021-12-17 | 2022-01-27 |
 | [Cosas De La Vida](https://open.spotify.com/track/0WfQLUjyg5wn0zWxsOda07) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Cosas De La Vida](https://open.spotify.com/album/37PlSJaDNBVPHnsqhFqfK4) | 2:44 | 2021-12-17 | 2023-02-02 |
 | [Creerme Mas](https://open.spotify.com/track/7hmn0Vubui4PVr32F3EKXF) | [Vero Soffia](https://open.spotify.com/artist/3CYRq2jA4EHkNmPssIpUPx) | [Algo Tiene Que Cambiar](https://open.spotify.com/album/3q6tnDlCGox9lDKhm5XyMR) | 3:57 | 2022-05-04 | 2022-07-07 |

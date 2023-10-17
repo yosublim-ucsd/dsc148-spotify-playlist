@@ -4,7 +4,7 @@
 
 > Dale duro con los éxitos perreadores virales del momento.
 
-136 songs - 7 hr 24 min
+137 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Los Malvekes](https://open.spotify.com/track/1AnJQd8TfkhK6M3VgZDVv1) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Simon la Letra](https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Los Malvekes](https://open.spotify.com/album/31WdgrOoDtafxlPZdnnMV7) | 3:38 | 2022-01-04 | 2022-08-19 |
 | [Los Malvekes](https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Simon la Letra](https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Los Malvekes](https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71) | 3:38 | 2022-05-06 |  |
 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 | 2022-01-04 |  |
-| [Mamase Mamasa Mamasuelta \- Remix](https://open.spotify.com/track/1AkRrt5fZ1w2Ljo0nhV14r) | [Eduardo Luzquiños](https://open.spotify.com/artist/1dXyyDButMVteLKOOVqz6Z), [Dj Daster](https://open.spotify.com/artist/1ElhgIo4eW9bWHVVDBfYzI) | [Mamase Mamasa Mamasuelta \(Remix\)](https://open.spotify.com/album/2FLSYdE0aqCvtt8YQ3EWuE) | 2:22 | 2022-01-04 |  |
+| [Mamase Mamasa Mamasuelta \- Remix](https://open.spotify.com/track/4wY9y7vPhUaP3O8WYX5Ktm) | [Dj Daster](https://open.spotify.com/artist/1ElhgIo4eW9bWHVVDBfYzI), [Eduardo Luzquiños](https://open.spotify.com/artist/1dXyyDButMVteLKOOVqz6Z) | [Viral Hits TikTok \(Remix\)](https://open.spotify.com/album/6bXZpLEw21MO0qF5CQeOi1) | 2:22 | 2023-10-09 |  |
+| [Mamase Mamasa Mamasuelta \- Remix](https://open.spotify.com/track/1AkRrt5fZ1w2Ljo0nhV14r) | [Eduardo Luzquiños](https://open.spotify.com/artist/1dXyyDButMVteLKOOVqz6Z), [Dj Daster](https://open.spotify.com/artist/1ElhgIo4eW9bWHVVDBfYzI) | [Mamase Mamasa Mamasuelta \(Remix\)](https://open.spotify.com/album/2FLSYdE0aqCvtt8YQ3EWuE) | 2:22 | 2022-01-04 | 2023-10-17 |
 | [Matatan](https://open.spotify.com/track/7m2iTdEKAtiGULWnTIRhX2) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Matatan](https://open.spotify.com/album/07WmJLW2GnlLIlkRZtGVbY) | 2:39 | 2022-01-04 | 2022-07-29 |
 | [Matatan](https://open.spotify.com/track/70FaubkOhFPttmbHwBZ4Up) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [En el Top](https://open.spotify.com/album/1TzrPjQTLgYoC8TW6GjFRL) | 2:39 | 2022-05-06 | 2022-11-13 |
 | [Matatan](https://open.spotify.com/track/7jaYm0oq552xugGmOeE6w5) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Matatan](https://open.spotify.com/album/1Zc1BZBEQm24BGG06MoDoZ) | 2:39 | 2022-05-06 |  |

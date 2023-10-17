@@ -2935,6 +2935,32 @@
     },
     {
       "album": {
+        "name": "Parcchain (Counting Days)",
+        "url": "https://open.spotify.com/album/2grJHFAs9qGkg3ZDTOg9RD"
+      },
+      "artists": [
+        {
+          "name": "Tarish Prakash",
+          "url": "https://open.spotify.com/artist/7x2ombGZwIYN2Ye7sm3Lzi"
+        },
+        {
+          "name": "Tanu Srivastava",
+          "url": "https://open.spotify.com/artist/59pI7RRCMOsPFhthUuv0k8"
+        },
+        {
+          "name": "Vastvik Roy",
+          "url": "https://open.spotify.com/artist/2EZIUlymZWjLB8As3QBoET"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166303,
+      "name": "Parcchain (Counting Days)",
+      "url": "https://open.spotify.com/track/06VwLKV6JqJ0PxXdhKJb6g"
+    },
+    {
+      "album": {
         "name": "Payaliya",
         "url": "https://open.spotify.com/album/1zwPjsEUnYZTPzz7C5OOSs"
       },
@@ -4112,7 +4138,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 359290,
       "name": "Tilak",
       "url": "https://open.spotify.com/track/3snujKMl0rkHSdwOLxWrFv"

@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 213708,
       "name": "AIO",
       "url": "https://open.spotify.com/track/0aiHF5X0CGALjTaEFurQnd"
@@ -6540,7 +6540,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 214237,
       "name": "Liquid Gold",
       "url": "https://open.spotify.com/track/5ePsIL5oYErKR9zvEFjtIr"
@@ -8009,6 +8009,24 @@
     },
     {
       "album": {
+        "name": "Night Wire",
+        "url": "https://open.spotify.com/album/6s6EzpFNC2zY0lL1VqoBuG"
+      },
+      "artists": [
+        {
+          "name": "Kollektiv Turmstrasse",
+          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "Night Wire",
+      "url": "https://open.spotify.com/track/2gbRYQwkLSu7I3lF08WoiZ"
+    },
+    {
+      "album": {
         "name": "No More EP",
         "url": "https://open.spotify.com/album/3nDJuk3iXzSd8UYAFlThCS"
       },
@@ -8936,7 +8954,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 412505,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ"

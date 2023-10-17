@@ -4,7 +4,7 @@
 
 > n3xt l3v3l gaming beats.
 
-194 songs - 7 hr 55 min
+195 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Super Work](https://open.spotify.com/track/76C7qb7sbZkzbUznsuvRX8) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Targets](https://open.spotify.com/album/2JTNVTUxl3Sf1UvdSw0pth) | 2:02 | 2022-04-22 | 2023-09-09 |
 | [Swing Set](https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Backyard](https://open.spotify.com/album/1xaXyuZwmLAXCKEimpeebP) | 2:17 | 2022-04-22 |  |
 | [Symmetry](https://open.spotify.com/track/0H9ubICGjFmr51rKC58VVU) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Yacha Berdah](https://open.spotify.com/artist/1EH2RJM9qK5BaRf99G3o3A) | [Symmetry](https://open.spotify.com/album/2yjasqGEpOVDvJQTFepaay) | 2:16 | 2023-09-29 |  |
+| [Take It Home](https://open.spotify.com/track/0x8ezdTuFi6El6BTGcQojf) | [Mint Tape](https://open.spotify.com/artist/35l6dl8unoLV3T6EjbO0hn) | [Take It Home](https://open.spotify.com/album/4QlNhHUyV9KTQ4QC7GbwXu) | 2:12 | 2023-10-13 |  |
 | [Tasty Bites](https://open.spotify.com/track/5istmkXN6fiucHQtaF1xV4) | [Blue and White](https://open.spotify.com/artist/3D7Q3FCSjGuFl5UNN3X4Ow) | [Tasty Bites](https://open.spotify.com/album/6Y0zEucjiXtyVXtxu0JgZi) | 2:19 | 2022-04-22 |  |
 | [Tenderly](https://open.spotify.com/track/21syvpttK8kXDq7kf3eaPr) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [Tenderly](https://open.spotify.com/album/5FbOGtcOmnvWJKH4xmajlv) | 2:13 | 2022-04-22 |  |
 | [The Mechanic](https://open.spotify.com/track/3kehSE24KMZe22rgorPiDo) | [Charlie Brons](https://open.spotify.com/artist/37XHOJqjRSosZYoRmGFboC) | [The Mechanic](https://open.spotify.com/album/6nM5GG20TJqXEQ7Zivtw9K) | 3:08 | 2022-04-22 |  |
@@ -189,7 +190,7 @@
 | [Twenty Ten](https://open.spotify.com/track/6GfH6Y1L94563PL4sQxmzk) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Stadium Scam](https://open.spotify.com/album/4kTys2lZTk8hpIDkkcRL6F) | 2:31 | 2022-04-22 | 2023-09-09 |
 | [Uhmbiguity](https://open.spotify.com/track/7LOeVEchwpe7YrHSh462GT) | [shrub.beats](https://open.spotify.com/artist/0dt71cdGRvCiEqq9tlpEXj) | [Uhmbiguity](https://open.spotify.com/album/0fBQnVnp16u9GimMs5ZHc9) | 1:54 | 2022-04-22 |  |
 | [Uptown Train](https://open.spotify.com/track/5LOf0bNrydlqUgro73awjW) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Uptown Train](https://open.spotify.com/album/3IMePNMlrZRLcjRj6D9bvz) | 2:52 | 2022-04-22 |  |
-| [Vaguely Familiar](https://open.spotify.com/track/6idquPxSFRAxjL8YZIuudz) | [Gloomi](https://open.spotify.com/artist/3M6KDspoVN5BoZYYURrvkt) | [Vaguely Familiar](https://open.spotify.com/album/4qSkBz77XobKTbhPfktVNs) | 2:33 | 2022-04-22 |  |
+| [Vaguely Familiar](https://open.spotify.com/track/6idquPxSFRAxjL8YZIuudz) | [Gloomi](https://open.spotify.com/artist/3M6KDspoVN5BoZYYURrvkt) | [Vaguely Familiar](https://open.spotify.com/album/4qSkBz77XobKTbhPfktVNs) | 2:33 | 2022-04-22 | 2023-10-17 |
 | [Vitae](https://open.spotify.com/track/1Qm8jGs8iEgrvfbPCAawqR) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Vitae](https://open.spotify.com/album/4GgfRSypBrqRIevwH3kriJ) | 2:12 | 2023-10-13 |  |
 | [Voluptus](https://open.spotify.com/track/5qK78cZFZkgLhJLs8sEnO9) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Week Line](https://open.spotify.com/album/5SFXZFbi6A8VIFgd6wZror) | 1:49 | 2022-04-22 |  |
 | [Waking Waves](https://open.spotify.com/track/2CCvwL3lgXH94oajKSOblm) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Waking Waves](https://open.spotify.com/album/0GTAbLRocrPLSAu3y1MQT6) | 3:07 | 2022-04-22 |  |

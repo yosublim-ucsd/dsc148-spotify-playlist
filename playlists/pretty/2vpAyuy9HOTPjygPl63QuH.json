@@ -1,12 +1,12 @@
 {
   "description": "The freshest house music, updated every friday. Submit here: https:&#x2F;&#x2F;linktr.ee&#x2F;houseshift",
-  "num_followers": 6605,
+  "num_followers": 6604,
   "original_name": "House Shift",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "NzcyOCw2ZWZhNGNlNmFhNzFlMzc2MmNjNGMwNTNkNzg1NjkwNjEzYTdhOWEz",
+  "snapshot_id": "NzczMCw2MjU4M2QwZGRkOTQ0Nzg3YTMxMDE0ZjVhMzczMDZhNmIyYmM4YTI4",
   "tracks": [
     {
       "added_at": "2023-10-06 09:57:24",
@@ -255,6 +255,22 @@
       "duration_ms": 219375,
       "name": "Glory",
       "url": "https://open.spotify.com/track/0E2Zruo7UTpSvk4UTqxJLN"
+    },
+    {
+      "added_at": "2023-10-13 10:54:23",
+      "album": {
+        "name": "Butterz",
+        "url": "https://open.spotify.com/album/0nnzmZCJZEaYpTtXw1cmtN"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        }
+      ],
+      "duration_ms": 165952,
+      "name": "Butterz",
+      "url": "https://open.spotify.com/track/2UhHOp4ggbDoS1uLcvemGr"
     },
     {
       "added_at": "2023-09-15 09:03:38",
@@ -629,20 +645,20 @@
       "url": "https://open.spotify.com/track/56ChzyUJ7FrIsToNQaJi7i"
     },
     {
-      "added_at": "2023-10-13 10:54:23",
+      "added_at": "2023-10-16 12:20:37",
       "album": {
-        "name": "Butterz",
-        "url": "https://open.spotify.com/album/0nnzmZCJZEaYpTtXw1cmtN"
+        "name": "Kyrenia",
+        "url": "https://open.spotify.com/album/2xQRYg2fydr41ILWzguidC"
       },
       "artists": [
         {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+          "name": "Sllash & Doppe",
+          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
         }
       ],
-      "duration_ms": 165952,
-      "name": "Butterz",
-      "url": "https://open.spotify.com/track/2UhHOp4ggbDoS1uLcvemGr"
+      "duration_ms": 185280,
+      "name": "Kyrenia",
+      "url": "https://open.spotify.com/track/3aBYRY9gfl7f04BnLwxwLk"
     }
   ],
   "unique_name": "House Shift",

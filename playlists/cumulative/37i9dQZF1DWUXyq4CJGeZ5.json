@@ -538,7 +538,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 157799,
       "name": "Baignade Joyeuse",
       "url": "https://open.spotify.com/track/1VndoWfgli0Vez1TL7MARp"
@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Cul de sac",
+        "url": "https://open.spotify.com/album/6KH73Y6QxFQYaqeiv1fZ9q"
+      },
+      "artists": [
+        {
+          "name": "Oscar Sergel",
+          "url": "https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129250,
+      "name": "Cul de sac",
+      "url": "https://open.spotify.com/track/3P6KxwWTTTcsWPx6Q5T932"
+    },
+    {
+      "album": {
         "name": "Da adesso fino all'eternit\u00e0",
         "url": "https://open.spotify.com/album/6RxGkjRQ7iKkQQ1GByow06"
       },
@@ -1607,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Elegie",
+        "url": "https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu"
+      },
+      "artists": [
+        {
+          "name": "Kiara Leonard",
+          "url": "https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169349,
+      "name": "Elegie",
+      "url": "https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs"
+    },
+    {
+      "album": {
         "name": "Elegy",
         "url": "https://open.spotify.com/album/6hFLPWugg3eMOnVhSbxq1K"
       },
@@ -1712,6 +1748,24 @@
       "duration_ms": 178430,
       "name": "Enchantment",
       "url": "https://open.spotify.com/track/7b7xQZro2MraDRJBgaxxEs"
+    },
+    {
+      "album": {
+        "name": "Endurance",
+        "url": "https://open.spotify.com/album/5wRG9WG9KDbZUQksAdD42N"
+      },
+      "artists": [
+        {
+          "name": "Antoine Stavelot",
+          "url": "https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "Endurance",
+      "url": "https://open.spotify.com/track/5NTn9Mhu1xOh8jDGzhRNoP"
     },
     {
       "album": {
@@ -3044,7 +3098,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 179374,
       "name": "In Absentia",
       "url": "https://open.spotify.com/track/4JCgdyOYbYasqg1NWLEAnd"
@@ -6818,7 +6872,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-17",
       "duration_ms": 130463,
       "name": "The Beautiful Changes",
       "url": "https://open.spotify.com/track/6EcHuYHG1OKDQQQvrqv2gV"
@@ -7812,6 +7866,24 @@
       "duration_ms": 173963,
       "name": "Waltz Of The Swallow",
       "url": "https://open.spotify.com/track/1b4TVciUAU6bAXMNgpgxbf"
+    },
+    {
+      "album": {
+        "name": "Warm Embrace",
+        "url": "https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY"
+      },
+      "artists": [
+        {
+          "name": "Ann Hildering",
+          "url": "https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163072,
+      "name": "Warm Embrace",
+      "url": "https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Lucas Jesús.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,029 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,040 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [F33LINGS](https://open.spotify.com/track/3YFhztTtRTejp9DXL3bX1J) | [reizzy](https://open.spotify.com/artist/0Nhwagnvi7gOODHzQDYHmg) | [F33LINGS](https://open.spotify.com/album/7fTN6nOA8nkxWhvS44JHzG) | 2:25 |
 | 50 | [Ahora qué](https://open.spotify.com/track/5YbkjoyeY0f6umZAI0scZe) | [Pokito Paranoiko](https://open.spotify.com/artist/7KpNmqf68V6n7v22zLhTag) | [Ahora qué](https://open.spotify.com/album/2CYDWKvAVgHr65Gqv5Xe0q) | 3:06 |
 
-Snapshot ID: `MCwzMDBkYWIzODRkZDhhOTU4MGY5ZWQxNDU1NTM3MzUxODExYWFhZjE2`
+Snapshot ID: `MCw0Y2I4NzNhYTJlOWM1NWQyNDZkMjU2Y2QxNGFjODAwOGI1NDhiZmIy`

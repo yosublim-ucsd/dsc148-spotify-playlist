@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,357,277 likes - 85 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,357,586 likes - 85 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Believe it leap](https://open.spotify.com/track/6Hfq3RH6KktAHBGzgc1PgV) | [杉本琢弥](https://open.spotify.com/artist/0cskwVqF25J07PVLTB2cuq) | [Believe it leap](https://open.spotify.com/album/2fh8EMh5KQHycf26aeags1) | 4:26 |
 | 85 | [TRY\-RY\-RY](https://open.spotify.com/track/51V0kJgPOEaGeIZRvN1In6) | [NORISTRY](https://open.spotify.com/artist/3sXpaXq06MLtZIMPjeIBDU) | [OPENING THEME FROM TV SERIES ”BULLBUSTER”](https://open.spotify.com/album/3u9T2psKK06Lztj5rYKAh4) | 3:35 |
 
-Snapshot ID: `MCw0ODFiN2YwYzY3MDMxNWUxMGZkNTU2MDgzZGVlODhlYzVmMDcxYzlh`
+Snapshot ID: `MCwxZWNjNjM2NWM2MmYyODYxNjBkN2IxNjI3ZmIzMGYxN2E2YmEwZDA3`

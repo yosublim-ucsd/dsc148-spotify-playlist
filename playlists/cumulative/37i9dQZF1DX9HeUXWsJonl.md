@@ -2,7 +2,7 @@
 
 ### [Hit Tounsi](https://open.spotify.com/playlist/37i9dQZF1DX9HeUXWsJonl)
 
-> Écoute en boucle les hits tunisiens du moment.
+> Les hits tunisiens du moment.
 
 179 songs - 11 hr 0 min
 
